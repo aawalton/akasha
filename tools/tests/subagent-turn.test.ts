@@ -1,9 +1,8 @@
 
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { readSubagentTurn, subagentTurnOf } from "../lib/subagent-turn.ts"
 import { seatAbove, subagentUnder } from "../lib/subagent.ts"
+import { type Fixture, fixture } from "./fixture.ts"
 
 describe("which half of an id names the subagent", () => {
   test("the mark splits the seat that ran it from the id its page is named for", () => {
@@ -43,31 +42,27 @@ describe("whether a subagent is working", () => {
 })
 
 describe("whether a subagent's page stands", () => {
-  const stood = process.env.MEMORY_ROOT
-  let memory: string
+  let at: Fixture
 
+  // A SEAT PAGE STANDS AT `agent/seat/<name>.seat.md` AND A SUBAGENT'S AT
+  // `agent/subagent/<id>.subagent.md`, both under the akasha root. This planted `seats/` and
+  // `pages/subagent/` under `MEMORY_ROOT`, and both halves of that are gone: the memory
+  // repository is absorbed, so nothing reads that variable, and the pages moved.
   beforeAll(() => {
-    memory = mkdtempSync(`${tmpdir()}/subagent-turn-`)
-    mkdirSync(`${memory}/seats`, { recursive: true })
-    mkdirSync(`${memory}/pages/subagent`, { recursive: true })
-    writeFileSync(
-      `${memory}/seats/busy.md`,
-      '---\npage-type-slug: seat\nid: busy\ntitle: "busy"\n---\n'
-    )
-    writeFileSync(
-      `${memory}/seats/busy.uncommitted.yaml`,
+    at = fixture()
+    at.put("agent/seat/busy.seat.md", '---\npage-type-slug: seat\nid: busy\ntitle: "busy"\n---\n')
+    at.put(
+      "agent/seat/busy.seat.uncommitted.yaml",
       ["turn-working:", "  active-turn:", "    value: true", "    at: 100", ""].join("\n")
     )
-    writeFileSync(
-      `${memory}/pages/subagent/busy--running.md`,
+    at.put(
+      "agent/subagent/busy--running.subagent.md",
       '---\npage-type-slug: subagent\nid: busy--running\ntitle: "busy--running"\n---\n'
     )
-    process.env.MEMORY_ROOT = memory
   })
 
   afterAll(() => {
-    if (stood === undefined) delete process.env.MEMORY_ROOT
-    else process.env.MEMORY_ROOT = stood
+    at.dispose()
   })
 
   test("a subagent is read from whether the page named for its own id stands", () => {
