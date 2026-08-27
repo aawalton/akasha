@@ -7,7 +7,9 @@ import type { ClusterService, Service } from "../service/service.ts"
 
 const ROLLED_OUT: ReadonlySet<string> = new Set(["Deployment", "StatefulSet", "DaemonSet"])
 
-const UNSUBSTITUTED = /^\s*(\S+):\s*"?PLACEHOLDER"?\s*$/gm
+const CHECKSUM_ANNOTATION_MARKER = "checksum/"
+
+const CHECKSUM_ANNOTATION = /^\s*(checksum\/[A-Za-z0-9][A-Za-z0-9._-]*):/gm
 
 export interface Workload {
   readonly kind: string
@@ -122,7 +124,7 @@ export async function planFor(akasha: string, service: ClusterService): Promise<
 
 export function keysLeftUnsubstituted(manifest: Manifest): readonly string[] {
   const keys: string[] = []
-  for (const found of manifest.yaml.matchAll(UNSUBSTITUTED)) {
+  for (const found of manifest.yaml.matchAll(CHECKSUM_ANNOTATION)) {
     const key = found[1]
     if (key !== undefined) keys.push(key)
   }
@@ -135,7 +137,7 @@ export function refuseUnsubstituted(akasha: string, plan: Plan): void {
   )
   if (left.length === 0) return
   throw new DeployRefused(
-    `${plan.service.slug} is emitted with a value its synth left for somebody else to fill in, and applying it as it stands would write PLACEHOLDER over what the cluster holds:\n       ${left.join("\n       ")}`
+    `${plan.service.slug} is emitted carrying a ${CHECKSUM_ANNOTATION_MARKER} annotation, which a synth writes as a stand-in for somebody else to fill in from what the workload reads; applying it as it stands would write the stand-in over the hash the cluster holds, and the pods would stop restarting when their configuration changed:\n       ${left.join("\n       ")}`
   )
 }
 
