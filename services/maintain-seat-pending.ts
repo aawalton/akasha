@@ -1,12 +1,12 @@
 export const tool = {
   summary: "Keep every seat's pending components true as the stores behind them change",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { watch } from "node:fs"
 import { join } from "node:path"
 import { messagesDirRelPath } from "../tools/lib/message-file.ts"
-import { MEMORY, resolveRoots, rootFor } from "../repo/roots/roots"
+import { akashaRoot } from "../repo/roots/roots"
 import { seatDirs } from "../tools/lib/seat-presence-read.ts"
 import { type SeatPending, pendingFromFiles, pendingFromQuestions } from "../tools/lib/seat-pending-batch.ts"
 import { setPending } from "../tools/lib/seat-turn-pending.ts"
@@ -48,7 +48,7 @@ RUNNING IT TWICE CHANGES NOTHING, and a pass stopped part-way leaves every seat 
 correct and every seat it did not reach as it was.
 
 Usage:
-  bun ~/repos/instructions/services/maintain-seat-pending.ts [--once]
+  bun ~/repos/akasha/services/maintain-seat-pending.ts [--once]
 
   --once  Take one pass over both cadences and exit, rather than staying up.
   --help  This.
@@ -65,8 +65,7 @@ function stamp(found: readonly SeatPending[]): void {
 }
 
 function storesWatched(): readonly string[] {
-  const memory = rootFor(resolveRoots(), MEMORY)
-  return [...seatDirs(), join(memory, messagesDirRelPath())]
+  return [...seatDirs(), join(akashaRoot(), messagesDirRelPath())]
 }
 
 function withinPatience(work: Promise<readonly SeatPending[]>): Promise<readonly SeatPending[]> {
