@@ -8,16 +8,16 @@ domain-slug: ops-cli
 
 # Claim
 
-`akasha/repo/roots/roots.ts:50` evaluates `REPOS = namedOnDisk()` as a top-level const, and `namedOnDisk()` reads `<instructions root>/pages/repo` and throws where it is missing. That runs on import, on every invocation, before any argument is parsed. The moment that directory is not where `rootOf("instructions")` points, `ops write` cannot run at all.
+`akasha/repo/roots/roots.ts:89` evaluates `REPOS = namedOnDisk()` as a top-level const, and `namedOnDisk()` (`roots.ts:80-87`) reads `<akasha root>/pages/repo` and throws where it is missing. That runs on import, on every invocation, before any argument is parsed. The moment that directory is not where `HERE` points, `ops write` cannot run at all.
 
 # Evidence
 
 Read 2026-08 against akasha and instructions at head.
 
-`instructions/dotfiles/bin/ops:17` resolves `${INSTRUCTIONS_ROOT:-$HOME/repos/instructions}/tools/ops/cli.ts` and `exec bun`s it. So `INSTRUCTIONS_ROOT` must be exported and correct for the whole duration of any move of that tree, and there is no window in which the shim may point at a directory the move has already emptied.
+`akasha/dotfiles/bin/ops:12` resolves `${AKASHA_ROOT:-$HOME/repos/akasha}/tools/ops/cli.ts` and `exec bun`s it. So `AKASHA_ROOT` must be exported and correct for the whole duration of any move of that tree, and there is no window in which the shim may point at a directory the move has already emptied.
 
-`roots.ts:91` requires `${root}/.git` for a repo to count as cloned. A repository merged into another as a subdirectory therefore drops out of `rootsHere()`, and `akasha/checks/refusal/refusal.ts:37` throws.
+`roots.ts:131` and `roots.ts:152` require `${root}/.git` for a repo to count as cloned. A repository merged into another as a subdirectory therefore drops out of `rootsHere()`, and `akasha/checks-system/refusal/refusal.ts:35` throws through `rootFor` at `roots.ts:173`.
 
-`roots.ts:127` iterates `REPOS` alphabetically, so where two roots resolve to the same directory, the alphabetically first name wins every lookup and files reclassify without a word.
+`locate` at `roots.ts:189` iterates `REPOS` alphabetically — sorted at `roots.ts:77` — so where two roots resolve to the same directory, the alphabetically first name wins every lookup and files reclassify without a word.
 
 Not measured: whether any `ops` subcommand reaches its own argument parsing before this module is imported. Every path examined imported it first.
