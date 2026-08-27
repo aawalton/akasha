@@ -1,6 +1,8 @@
 import { narrowDestination, parseItemAction, resolveItemRoute } from "./game-code.ts"
-import type { InventoryItemData, RouteStep } from "./game-item-types.ts"
-import type { AffectedItem, ItemAction, MoveToDestination } from "./game-rule-types.ts"
+import type { InventoryItemData } from "@temper/game-items-core/inventory-types"
+import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
+import type { ItemAction, MoveToDestination } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { RouteStep } from "@temper/game-items-rules-routing-core/inventory-management-plan-types"
 
 export interface MatchedRoute {
   readonly action: ItemAction

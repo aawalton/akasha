@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import type { CategoryRule } from "../lib/temper-inventory/game-rule-types.ts"
+import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { buildRuleListRows } from "../lib/temper-inventory/rule-list-rows.ts"
 
 function rule(id: string): CategoryRule {

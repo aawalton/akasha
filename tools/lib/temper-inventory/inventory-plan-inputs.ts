@@ -2,13 +2,11 @@ import { readFile } from "node:fs/promises"
 import { DataError } from "@shared/errors-core/exit"
 import { savedVarsFile } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
 import { classifyItemToNodeIds, parseInventoryContent } from "./game-code.ts"
-import type { InventoryDatabase } from "./game-item-types.ts"
-import type {
-  ClassifiedInventoryItem,
-  CompiledOrderedRule,
-  ItemRule,
-  RuleMatcherContext,
-} from "./game-rule-types.ts"
+import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
+import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
+import type { ClassifiedInventoryItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
+import type { ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { RuleMatcherContext } from "@temper/game-items-rules-core/rule-matcher-context-types"
 import { type CharacterKnowledge, loadTemperCharactersFromPath } from "./parse-temper-characters.ts"
 import {
   type CompiledInventoryConfig,

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import type { InventoryItemData } from "../lib/temper-inventory/game-item-types.ts"
+import type { InventoryItemData } from "@temper/game-items-core/inventory-types"
 import { parseItemAction } from "../lib/temper-inventory/game-code.ts"
 import { computeRoutingDiff, type MatchedRoute, matchedRouteFrom } from "../lib/temper-inventory/parity-routing.ts"
 

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import type { ItemKey } from "../lib/temper-inventory/game-item-types.ts"
+import type { ItemKey } from "@temper/game-items-rules-core/use-destination-types"
 import { buildCliEvalEnv } from "../lib/temper-inventory/cli-eval-env.ts"
 import type { CharacterKnowledge } from "../lib/temper-inventory/parse-temper-characters.ts"
 
