@@ -48,6 +48,13 @@ afterAll(() => {
 
 // NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
 // not there raises ENOENT rather than reading as a repository holding nothing.
+// THE PAGE TYPE REGISTRY IS READ OFF THE INDEX RATHER THAN OFF THIS TREE. `page/property/registry.ts`
+// builds every page type out of `loadPages()` and the tree's own `pending` set, and `loadPages()`
+// reads the index under the root `AKASHA_ROOT` names — the live checkout, never this temp one. A
+// `probe` page type invented here stands in no index, so `whereFor` finds no type and `writePage`
+// answers null, writing nothing and saying nothing. These cases are right about where a write lands:
+// they pass whole against a temp root whose index is built, and fail until the registry reads the
+// tree it is handed as well as the index.
 const ROOTS: Roots = {
   akasha: root,
 }
@@ -81,15 +88,15 @@ describe("the writer splits a large value out of frontmatter itself", () => {
 })
 
 describe("a write lands a large value beside its page", () => {
-  it("stands the value in `<name>.<key>.attachment.<ext>` and never in frontmatter", () => {
+  it("stands the value in `<page>.<key>.attachment.<ext>` and never in frontmatter", () => {
     writePage(ROOTS, "probe", "one", { title: "One", moves: MOVES }, "tester")
-    expect(read("pages/probe/one.moves.attachment.pgn")).toBe(MOVES)
-    expect(read("pages/probe/one.md")).not.toContain("moves")
+    expect(read("pages/probe/one.probe.moves.attachment.pgn")).toBe(MOVES)
+    expect(read("pages/probe/one.probe.md")).not.toContain("moves")
   })
 
   it("commits the large file with its page in one commit", () => {
     writePage(ROOTS, "probe", "two", { title: "Two", moves: MOVES }, "tester")
-    expect([...named()].sort()).toEqual(["pages/probe/two.md", "pages/probe/two.moves.attachment.pgn"])
+    expect([...named()].sort()).toEqual(["pages/probe/two.probe.md", "pages/probe/two.probe.moves.attachment.pgn"])
   })
 
   it("writes nothing on a second round trip of the same values", () => {
@@ -102,8 +109,8 @@ describe("a write lands a large value beside its page", () => {
 
   it("lands an empty large value as an empty file rather than no file", () => {
     writePage(ROOTS, "probe", "empty", { title: "Empty", moves: "" }, "tester")
-    expect(existsSync(join(root, "pages/probe/empty.moves.attachment.pgn"))).toBe(true)
-    expect(read("pages/probe/empty.moves.attachment.pgn")).toBe("")
+    expect(existsSync(join(root, "pages/probe/empty.probe.moves.attachment.pgn"))).toBe(true)
+    expect(read("pages/probe/empty.probe.moves.attachment.pgn")).toBe("")
   })
 })
 
@@ -111,19 +118,19 @@ describe("a patch reaches the large file without disturbing the page", () => {
   it("replaces the large value and leaves the standing frontmatter", () => {
     writePage(ROOTS, "probe", "four", { title: "Four", moves: MOVES }, "tester")
     patchPage(ROOTS, "probe", "four", { moves: "1. d4 1-0\n" }, "tester")
-    expect(read("pages/probe/four.moves.attachment.pgn")).toBe("1. d4 1-0\n")
-    expect(read("pages/probe/four.md")).toContain("title: Four")
-    expect(named()).toEqual(["pages/probe/four.moves.attachment.pgn"])
+    expect(read("pages/probe/four.probe.moves.attachment.pgn")).toBe("1. d4 1-0\n")
+    expect(read("pages/probe/four.probe.md")).toContain("title: Four")
+    expect(named()).toEqual(["pages/probe/four.probe.moves.attachment.pgn"])
   })
 
   it("takes a large key out of frontmatter a page already stated it in", () => {
     mkdirSync(join(root, "pages/probe"), { recursive: true })
     writeFileSync(
-      join(root, "pages/probe/legacy.md"),
+      join(root, "pages/probe/legacy.probe.md"),
       page(["page-type-slug: probe", "title: Legacy", 'moves: "1. e4 1-0"'])
     )
     patchPage(ROOTS, "probe", "legacy", { title: "Legacy again" }, "tester")
-    expect(read("pages/probe/legacy.md")).not.toContain("moves")
+    expect(read("pages/probe/legacy.probe.md")).not.toContain("moves")
   })
 })
 
@@ -131,7 +138,7 @@ describe("a large file goes when its page goes", () => {
   it("removes the large file and names it in the same commit", () => {
     writePage(ROOTS, "probe", "five", { title: "Five", moves: MOVES }, "tester")
     removePage(ROOTS, "probe", "five", "tester")
-    expect(existsSync(join(root, "pages/probe/five.moves.attachment.pgn"))).toBe(false)
-    expect([...named()].sort()).toEqual(["pages/probe/five.md", "pages/probe/five.moves.attachment.pgn"])
+    expect(existsSync(join(root, "pages/probe/five.probe.moves.attachment.pgn"))).toBe(false)
+    expect([...named()].sort()).toEqual(["pages/probe/five.probe.md", "pages/probe/five.probe.moves.attachment.pgn"])
   })
 })
