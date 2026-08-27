@@ -2,7 +2,7 @@
 id: 54238354-0da3-5d9b-8e94-767078f624f7
 page-type-slug: old-ops-command
 title: "Ops instructions rename-property"
-slug: ops-instructions-rename-property
+slug: ops-page-rename-property
 domain-parent-slug: domain/ops-instructions
 required-reading-slugs:
   - page-type/old-ops-command
