@@ -6,7 +6,7 @@ extends-slug: domain
 files: akasha:**/*.readout-widget.md
 body-shape-slug: domain
 slug: readout-widget
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 required-reading-slugs:
   - page-type/readout-group
 ---

@@ -4,6 +4,11 @@ page-type-slug: domain
 title: "Readout system"
 slug: readout-system
 domain-parent-slug: domain/person-tools
+sequence-slugs:
+  - page-type/readout
+  - page-type/readout-group
+  - page-type/readout-scale
+  - page-type/readout-widget
 ---
 
 # Definition
