@@ -5,7 +5,7 @@ title: Cadwell
 icon: file-text
 api-version: eso.live.12.0.8.3288357
 manifest-api-version: 101050
-captured-at: "2026-08-27T15:09:53.416Z"
+captured-at: "2026-08-27T15:12:34.322Z"
 generator-ran-for-version: eso.live.12.0.6.3274791
 generator-ran-for-manifest-api-version: 101050
 ---
