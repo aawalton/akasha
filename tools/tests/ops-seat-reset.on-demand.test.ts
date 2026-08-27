@@ -1,7 +1,12 @@
 import { afterAll, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { installRepos } from "./fixture.ts"
 
 const CLI_PATH = `${import.meta.dir}/../ops/cli.ts`
+
+// WHERE A SEAT PAGE STANDS, one place and one spelling: `SEAT_PLACES` in `agent-page-place.ts` is
+// `{ repo: "akasha", dir: "agent/seat" }`, and `seat-page-history.ts` asks git for that same path.
+const SEATS = "agent/seat"
 
 const AWAY_FROM_THE_FLEET = mkdtempSync("/var/tmp/ops-seat-reset-")
 
@@ -20,8 +25,8 @@ function body(name: string, lines: readonly string[]): string {
 }
 
 function plant(name: string, lines: readonly string[]): void {
-  mkdirSync(`${AWAY_FROM_THE_FLEET}/seats`, { recursive: true })
-  writeFileSync(`${AWAY_FROM_THE_FLEET}/seats/${name}.md`, body(name, lines), "utf8")
+  mkdirSync(`${AWAY_FROM_THE_FLEET}/${SEATS}`, { recursive: true })
+  writeFileSync(`${AWAY_FROM_THE_FLEET}/${SEATS}/${name}.seat.md`, body(name, lines), "utf8")
 }
 
 function git(...args: readonly string[]): void {
@@ -38,13 +43,17 @@ plant(WHOLE, [
 
 plant(SPARSE, ["id: 022bbbbb-2222-4222-8222-222222222222", "role-slug: worker"])
 
+// THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so a
+// temp repo without them makes `roots.ts` throw in the child before `ops seat reset` speaks.
+installRepos(AWAY_FROM_THE_FLEET)
+
 git("init", "-q")
 git("config", "user.email", "reset@fixture")
 git("config", "user.name", "reset fixture")
 
-mkdirSync(`${AWAY_FROM_THE_FLEET}/pages/seat`, { recursive: true })
+mkdirSync(`${AWAY_FROM_THE_FLEET}/${SEATS}`, { recursive: true })
 writeFileSync(
-  `${AWAY_FROM_THE_FLEET}/pages/seat/${STOPPED}.md`,
+  `${AWAY_FROM_THE_FLEET}/${SEATS}/${STOPPED}.seat.md`,
   body(STOPPED, [
     "id: 033ccccc-3333-4333-8333-333333333333",
     "role-slug: worker",
@@ -54,7 +63,7 @@ writeFileSync(
 )
 git("add", "-A")
 git("commit", "-q", "-m", `${STOPPED}: the seat page is composed from what the seat states`)
-rmSync(`${AWAY_FROM_THE_FLEET}/pages/seat/${STOPPED}.md`)
+rmSync(`${AWAY_FROM_THE_FLEET}/${SEATS}/${STOPPED}.seat.md`)
 git("add", "-A")
 git("commit", "-q", "-m", `${STOPPED} stopped, deliberate, so its page goes`)
 
@@ -67,7 +76,10 @@ async function runCli(
   const proc = Bun.spawn(["bun", CLI_PATH, "seat", "reset", ...args], {
     stdout: "pipe",
     stderr: "pipe",
-    env: { ...baseEnv, MEMORY_ROOT: AWAY_FROM_THE_FLEET, ...env },
+    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO. This set `MEMORY_ROOT`, which nothing reads: every
+    // reader of a seat page goes through `SEAT_PLACES`, rooted at akasha, so each case below asked
+    // the live fleet about a seat that stands only here and was answered `no such seat`.
+    env: { ...baseEnv, AKASHA_ROOT: AWAY_FROM_THE_FLEET, ...env },
   })
   const [stdout, stderr] = await Promise.all([
     new Response(proc.stdout).text(),
