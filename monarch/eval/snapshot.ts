@@ -2,10 +2,10 @@ import { createHash } from "node:crypto"
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import {
+  AKASHA,
   ACCOUNT_FOLDER,
   CATEGORY_FOLDER,
   HOLDING_FOLDER,
-  MEMORY,
   MONTHS_FOLDER,
   TAG_FOLDER,
   accountPages,
@@ -38,7 +38,7 @@ async function transactionMark(): Promise<string> {
   for (const slug of await monthSlugs()) {
     hash.update(slug)
     try {
-      hash.update(await readFile(join(MEMORY, sidecarOf(slug))))
+      hash.update(await readFile(join(AKASHA, sidecarOf(slug))))
     } catch {
       hash.update("no sidecar")
     }

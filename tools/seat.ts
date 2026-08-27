@@ -16,7 +16,7 @@ import { roleGrantsOnCall } from "./lib/seat-on-call.ts"
 import { defaultFor, defaultSlots, type Found, resolveAttributes, scan } from "./lib/seat-resolve.ts"
 import { defaultLines } from "./lib/seat-defaults.ts"
 import { seatId } from "./lib/read-record.ts"
-import { akashaRoot, MEMORY, resolveRoots, rootFor } from "../repo/roots/roots.ts"
+import { AKASHA, akashaRoot, resolveRoots, rootFor } from "../repo/roots/roots.ts"
 import { composeSeatName, personPrincipals } from "./lib/compose-seat-name.ts"
 import { composedNameOf, followName } from "./lib/seat-rename.ts"
 import { nameStanding } from "./lib/seat-name-stands.ts"
@@ -102,7 +102,7 @@ export async function run(argv: readonly string[]): Promise<void> {
     if (name === null) {
       notes.push("note:   this seat has no name yet, so no page of its own stands in history")
     } else if (held === null) {
-      notes.push(`note:   no page for \`${name}\` stands in the memory repo's history`)
+      notes.push(`note:   no page for \`${name}\` stands in akasha's history`)
     } else {
       for (const key of DECLARATIONS) {
         const value = held.set[key]
@@ -182,7 +182,7 @@ export async function run(argv: readonly string[]): Promise<void> {
   const openedByPerson =
     heldPrincipal !== null && personPrincipals(pages).includes(heldPrincipal)
   const refused = [
-    ...(initiative === null ? [] : refuseInitiative(initiative, rootFor(roots, MEMORY))),
+    ...(initiative === null ? [] : refuseInitiative(initiative, rootFor(roots, AKASHA))),
     ...(args.flex === null
       ? []
       : refuseFlex(args.flex, agent, own, (at) =>
