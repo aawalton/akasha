@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { makeLuaVm } from "./lua-vm"
-import { luaLongStringLiteral, luaStringLiteral, marshalLuaValue } from "./marshal"
+import { makeLuaVm } from "../../../../temper/shared-build-deploy-lua-runner/src/lua-vm"
+import { luaLongStringLiteral, luaStringLiteral, marshalLuaValue } from "../../../../temper/shared-build-deploy-lua-runner/src/marshal"
 
 const PRELUDE_PATH = resolve(import.meta.dir, "eso-sandbox-prelude.lua")
 let cachedPrelude: string | null = null

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { makeSandboxedLuaVm } from "../../shared-build-deploy-lua-runner--from-code/src/sandboxed-lua-vm"
+import { makeSandboxedLuaVm } from "../../shared-build-deploy-lua-runner/src/sandboxed-lua-vm"
 import {
   assertStringIdsRegistered,
   buildUnregisteredStringIdsQuery,

@@ -2,7 +2,7 @@
 
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, dirname, join, relative, resolve, sep } from "node:path"
-import { makeSandboxedLuaVm } from "../../shared-build-deploy-lua-runner--from-code/src/sandboxed-lua-vm"
+import { makeSandboxedLuaVm } from "../../shared-build-deploy-lua-runner/src/sandboxed-lua-vm"
 import {
   ADDON_BUILD_COMMAND,
   ADDON_BUNDLE_UNIT,
