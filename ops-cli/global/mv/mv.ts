@@ -1,13 +1,13 @@
 export const summary = "Move files, repoint everything that named them, and remove the orphans"
 
 import { existsSync, readFileSync, statSync } from "node:fs"
-import { anyRefused, render } from "../../outcome/outcome.ts"
-import type { Roots } from "../../page/page.ts"
-import { sidecarCarriedTo, sidecarsOf } from "../../page/sidecar/sidecar.ts"
-import { type Carry, land, type Landing, LandingRefused } from "../../repo/land/land.ts"
-import { canonicalize } from "../../repo/path/path.ts"
-import { rootsHere, targetRepo, targetRoot } from "../../repo/roots/roots.ts"
-import { escapedSpellings } from "../../repoint/mention.ts"
+import { anyRefused, render } from "../../../outcome/outcome.ts"
+import type { Roots } from "../../../page/page.ts"
+import { sidecarCarriedTo, sidecarsOf } from "../../../page/sidecar/sidecar.ts"
+import { type Carry, land, type Landing, LandingRefused } from "../../../repo/land/land.ts"
+import { canonicalize } from "../../../repo/path/path.ts"
+import { rootsHere, targetRepo, targetRoot } from "../../../repo/roots/roots.ts"
+import { escapedSpellings } from "../../../repoint/mention.ts"
 import {
   importerReading,
   type Importers,
@@ -16,11 +16,11 @@ import {
   specifierReading,
   surveyImporters,
   surveyRename,
-} from "../../repoint/repoint.ts"
-import { slugEdges } from "../../repoint/reslug.ts"
-import { decodeUtf8, leadingBytes } from "../../utf8-body/utf8-body.ts"
-import { applyPairs, type Pair as EditPair, parsePairs } from "../edit-pairs.ts"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../../ops-cli/global/address.ts"
+} from "../../../repoint/repoint.ts"
+import { slugEdges } from "../../../repoint/reslug.ts"
+import { decodeUtf8, leadingBytes } from "../../../utf8-body/utf8-body.ts"
+import { applyPairs, type Pair as EditPair, parsePairs } from "../../../patches/edit-pairs.ts"
+import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import {
   DESCRIPTION,
   DRY_RUN,
@@ -33,7 +33,7 @@ import {
   REPO,
   TO,
 } from "./mv-help.ts"
-import { fail, payloadText, valueOf } from "../patch.ts"
+import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
 
 const VALUE_FLAGS = [FROM, TO, REPO, MESSAGE, MESSAGE_FILE, INPUT_FILE]
 

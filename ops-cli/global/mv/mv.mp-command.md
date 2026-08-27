@@ -4,7 +4,7 @@ page-type-slug: mp-command
 title: "Mv"
 slug: mv
 path: mv
-domain-parent-slug: domain/master-plan
+domain-parent-slug: mp-namespace/global
 required-reading-slugs:
   - page-type/mp-command
 ---
