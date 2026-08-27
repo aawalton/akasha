@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-account-character
 id: 019dda20-785c-725c-9755-e858993eda07
+slug: archmage-amerys
 title: Archmage Amerys
 first-name: Amerys
 eso-character-id: "8796093038720681"

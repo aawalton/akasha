@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-account-character
 id: 019dda20-a963-727d-8922-2712d94cd668
+slug: erin-solstice
 title: Erin Solstice
 first-name: Erin
 eso-character-id: "8796093022338107"

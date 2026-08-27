@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-account-character
 id: 019dda20-83ff-7e21-bcc6-a0b3bed56960
+slug: valeterisa
 title: Valeterisa
 first-name: Valeterisa
 eso-character-id: "8796093025191233"

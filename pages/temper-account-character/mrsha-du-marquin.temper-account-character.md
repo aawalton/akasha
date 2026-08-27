@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-account-character
 id: 019dda20-a396-715c-b6a7-bf556e159ddb
+slug: mrsha-du-marquin
 title: "Mrsha du Marquín"
 first-name: Mrsha
 eso-character-id: "8796093045924843"

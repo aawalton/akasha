@@ -1,5 +1,6 @@
 ---
 id: 019f97f0-f637-7ba9-abc4-9692a18239a6
+slug: belen
 page-type-slug: temper-account-character
 title: "Belen"
 eso-character-id: char-2

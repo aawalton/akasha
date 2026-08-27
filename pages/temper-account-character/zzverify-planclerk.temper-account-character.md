@@ -1,5 +1,6 @@
 ---
 id: 019f99ae-d7cb-75cc-b2fd-22982ed361eb
+slug: zzverify-planclerk
 page-type-slug: temper-account-character
 title: "Zzverify Planclerk"
 eso-character-id: verify15938-plan-card
