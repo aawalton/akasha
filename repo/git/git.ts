@@ -1,4 +1,5 @@
 
+import { spawnSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
@@ -20,23 +21,73 @@ export interface GitBytes {
 
 export const NETWORK_CEILING_MS = 10_000
 
+/**
+ * How much one `git` call may hand back.
+ *
+ * NODE CAPS THIS AT A MEGABYTE WHERE BUN DOES NOT, and `ls-files` over this repository is seven, so
+ * a call left on node's default fails with ENOBUFS in the editor while reading green under bun. The
+ * number is stated here so both runtimes are held to the same one.
+ */
+const OUTPUT_CEILING = 256 * 1024 * 1024
+
+const EMPTY = new Uint8Array()
+
+interface Ran {
+  readonly code: number
+  readonly stdout: Uint8Array
+  readonly stderr: Uint8Array
+}
+
+/**
+ * One `git` call, run the same way under every runtime that loads this file.
+ *
+ * `node:child_process` RATHER THAN `Bun.spawnSync` BECAUSE THE EDITOR'S EXTENSION HOST IS NODE, and
+ * every page read reaches git through here. Bun implements this module too, so this is one spawn
+ * for both runtimes rather than one apiece.
+ */
+function ran(
+  root: string,
+  args: readonly string[],
+  taking: { readonly input?: Uint8Array; readonly ceilingMs?: number } = {}
+): Ran {
+  const done = spawnSync("git", [...args], {
+    cwd: root,
+    maxBuffer: OUTPUT_CEILING,
+    ...(taking.input === undefined ? {} : { input: Buffer.from(taking.input) }),
+    ...(taking.ceilingMs === undefined ? {} : { timeout: taking.ceilingMs }),
+  })
+  const stderr = done.stderr ?? EMPTY
+  // A call that never started, or that was killed on its ceiling, carries no status and says why in
+  // `error` alone. Without this the caller reports a bare exit -1 with nothing stating the reason.
+  if (done.error !== undefined) {
+    const why = new TextEncoder().encode(done.error.message)
+    return { code: -1, stdout: done.stdout ?? EMPTY, stderr: stderr.length > 0 ? stderr : why }
+  }
+  return { code: done.status ?? -1, stdout: done.stdout ?? EMPTY, stderr }
+}
+
+function text(bytes: Uint8Array): string {
+  return new TextDecoder().decode(bytes).trim()
+}
+
+/**
+ * Hold this thread for `ms`, under every runtime.
+ *
+ * `Atomics.wait` on a buffer nothing else can reach, for the reason the spawn above moved: node has
+ * no `Bun.sleepSync`, and this file is loaded in the extension host.
+ */
+function sleepSync(ms: number): void {
+  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
+}
+
 export function gitBytes(
   root: string,
   args: readonly string[],
   ceilingMs: number = NETWORK_CEILING_MS
 ): GitBytes {
   const network = NETWORK_SUBCOMMANDS.has(args[0] ?? "")
-  const proc = Bun.spawnSync(["git", ...args], {
-    cwd: root,
-    stdout: "pipe",
-    stderr: "pipe",
-    ...(network ? { timeout: ceilingMs } : {}),
-  })
-  return {
-    code: proc.exitCode ?? -1,
-    stdout: proc.stdout,
-    stderr: new TextDecoder().decode(proc.stderr).trim(),
-  }
+  const proc = ran(root, args, network ? { ceilingMs } : {})
+  return { code: proc.code, stdout: proc.stdout, stderr: text(proc.stderr) }
 }
 
 export function git(
@@ -55,17 +106,8 @@ export function gitCapped(
   args: readonly string[],
   ceilingMs: number = CAPPED_CEILING_MS
 ): GitResult {
-  const proc = Bun.spawnSync(["git", ...args], {
-    cwd: root,
-    stdout: "pipe",
-    stderr: "pipe",
-    timeout: ceilingMs,
-  })
-  return {
-    code: proc.exitCode ?? -1,
-    stdout: new TextDecoder().decode(proc.stdout).trim(),
-    stderr: new TextDecoder().decode(proc.stderr).trim(),
-  }
+  const proc = ran(root, args, { ceilingMs })
+  return { code: proc.code, stdout: text(proc.stdout), stderr: text(proc.stderr) }
 }
 
 const LANDING_LOCK = "harness-landing.lock"
@@ -126,7 +168,7 @@ export function whileHoldingLanding<T>(
             "nothing was committed. Whoever holds it is alive and stuck mid-landing; read that process before clearing the file.",
         }
       }
-      Bun.sleepSync(Math.min(LANDING_POLL_MS, left))
+      sleepSync(Math.min(LANDING_POLL_MS, left))
     }
   }
   try {
@@ -173,17 +215,10 @@ export function gitWritingPaths(
   paths: readonly string[]
 ): GitResult {
   if (!overCeiling(paths)) return git(root, [...args, "--", ...paths])
-  const proc = Bun.spawnSync(["git", ...args, "--pathspec-from-file=-", "--pathspec-file-nul"], {
-    cwd: root,
-    stdin: new TextEncoder().encode(paths.join("\0")),
-    stdout: "pipe",
-    stderr: "pipe",
+  const proc = ran(root, [...args, "--pathspec-from-file=-", "--pathspec-file-nul"], {
+    input: new TextEncoder().encode(paths.join("\0")),
   })
-  return {
-    code: proc.exitCode ?? -1,
-    stdout: new TextDecoder().decode(proc.stdout).trim(),
-    stderr: new TextDecoder().decode(proc.stderr).trim(),
-  }
+  return { code: proc.code, stdout: text(proc.stdout), stderr: text(proc.stderr) }
 }
 
 export function gitAskingPaths(
@@ -202,13 +237,10 @@ export function gitAskingPaths(
 
 export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet<string> {
   if (paths.length === 0) return new Set()
-  const proc = Bun.spawnSync(["git", "check-ignore", "--stdin", "-z"], {
-    cwd: root,
-    stdin: new TextEncoder().encode(paths.join("\0")),
-    stdout: "pipe",
-    stderr: "pipe",
+  const proc = ran(root, ["check-ignore", "--stdin", "-z"], {
+    input: new TextEncoder().encode(paths.join("\0")),
   })
-  if ((proc.exitCode ?? -1) > 1) return new Set()
+  if (proc.code > 1) return new Set()
   return new Set(
     new TextDecoder()
       .decode(proc.stdout)
