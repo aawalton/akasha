@@ -1,5 +1,5 @@
 export { pathsStandingNowhere as changedFilesMissingGraphNodes } from "../graph/queries/membership.ts"
-export type { PipelineStatus, StepStatus, WorkflowStatus } from "./types.ts"
+export type { PipelineStatus, StepStatus, WorkflowStatus } from "./ci-status-vocabulary.ts"
 export {
   ALL_STEP_STATUSES,
   ALL_WORKFLOW_STATUSES,
@@ -13,7 +13,7 @@ export {
   TERMINAL_PIPELINE_STATUSES,
   TERMINAL_STEP_STATUSES,
   TERMINAL_WORKFLOW_STATUSES,
-} from "./types.ts"
+} from "./ci-status-vocabulary.ts"
 export { matchesBranch, selectWorkflows } from "./select-workflows-filter.ts"
 export type { PipelineConfig } from "./select-workflows-filter.ts"
 export { selectPipelineWorkflows } from "./select-workflows.ts"
