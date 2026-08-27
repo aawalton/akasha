@@ -6,6 +6,7 @@ persona-slug: athena
 domain-slug: domain/agent-harness
 role-slug: definer
 person-slug: alan
+start-mode: interactive
 on-call: true
 initiative-slug: athena-agent-harness
 registration-account: aawalton
