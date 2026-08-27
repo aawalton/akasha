@@ -8,7 +8,7 @@ import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
 import { resumeSeat } from "../../lib/resume-seat.ts"
 import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
-import { killSeatSession, launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
+import { killSeatSession, launchSeatUnderTmux, respawnSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import {
   SEAT_MODES,
   SEAT_MODE_HEADLESS,
@@ -213,15 +213,22 @@ export default async function seatResume(args: readonly string[]): Promise<void>
             "attach to. Bring it back with `--start-mode headless`, which needs none."
         )
       }
-      await killSeatSession(taken.name)
-      await launchSeatUnderTmux({
+      const seatLaunch = {
         name: taken.name,
         agentId: taken.agentId,
         account: DEFAULT_ACCOUNT,
         prompt: "",
         mode: startMode,
         resumeSessionId: taken.sessionId,
-      })
+      }
+      // IN PLACE WHERE THERE IS A SESSION TO STAND IN. Killing the session and building a new one
+      // under the same name takes every attached client with it, so the seat comes back detached
+      // rather than in the terminal it was being watched from. A kill is what a seat holding no
+      // session gets, because there is then nothing to respawn into.
+      if (!(await respawnSeatUnderTmux(seatLaunch))) {
+        await killSeatSession(taken.name)
+        await launchSeatUnderTmux(seatLaunch)
+      }
     }
     if (json) {
       process.stdout.write(

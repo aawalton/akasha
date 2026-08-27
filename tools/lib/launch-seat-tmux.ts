@@ -117,6 +117,77 @@ async function serverIsUp(): Promise<boolean> {
   return (await tmux(["list-sessions"])).code === 0
 }
 
+const INTERRUPTS = 2
+
+const INTERRUPT_SETTLE_MS = 1_500
+
+function shellQuoted(argv: readonly string[]): string {
+  return argv.map((one) => `'${one.replaceAll("'", "'\\''")}'`).join(" ")
+}
+
+async function paneOf(name: string): Promise<string | null> {
+  const listed = await tmux(["list-panes", "-t", `=${name}`, "-F", "#{pane_id}"])
+  if (listed.code !== 0) return null
+  const first = listed.out.split("\n")[0] ?? ""
+  return first === "" ? null : first
+}
+
+/**
+ * Restarts a seat's supervisor inside the session it is already in.
+ *
+ * WHY NOT KILL THE SESSION. The supervisor is the pane's own process, so replacing it used to mean
+ * killing the session and building a new one under the same name. Every client attached to the old
+ * session loses it at that moment, and the seat comes back detached, somewhere other than the
+ * terminal Alan was watching it in. `respawn-pane` replaces the pane's command in place: the
+ * session, the window and the pane id all stand, and an attached client sees the old supervisor
+ * stop and the new one start without moving.
+ *
+ * INTERRUPTED BEFORE IT IS REPLACED. A supervisor killed mid-turn leaves a transcript whose tool
+ * call never resolved, and the next boot refuses to hydrate it — `No deferred tool marker found in
+ * the resumed session`. `C-c` reaches the client rather than the supervisor and ends the turn, which
+ * is what makes the session resumable. Measured: the pane's pid is unchanged by these interrupts.
+ *
+ * `remain-on-exit` IS TURNED ON FIRST, AND LEFT ON UNTIL THE BOOT HOLDS. A seat session is one
+ * window holding one pane, so a command that exits on boot takes the pane, the window and the
+ * session with it — the seat is destroyed by the act meant to cycle it. With this on, a failed boot
+ * leaves a dead pane standing to be read and respawned over.
+ *
+ * Answers false where there is no session to respawn into, which is the caller's cue to launch one.
+ */
+export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolean> {
+  const name = opts.name
+  if (!(await sessionHolds(name))) return false
+  const pane = await paneOf(name)
+  if (pane === null) return false
+
+  await tmux(["set-option", "-t", `=${name}`, "remain-on-exit", "on"])
+  for (let i = 0; i < INTERRUPTS; i += 1) {
+    await tmux(["send-keys", "-t", pane, "C-c"])
+    await Bun.sleep(INTERRUPT_SETTLE_MS)
+  }
+
+  const cmd = buildSupervisorCmd(akashaRoot(), opts)
+  const line = shellQuoted([...envScrubArgv(), `AGENT_ID=${opts.agentId}`, ...cmd])
+  const spawned = await tmux(["respawn-pane", "-k", "-t", pane, "-c", seatStartDir(), line])
+  if (spawned.code !== 0) {
+    throw new Error(
+      `failed to respawn the supervisor for '${name}' (exit ${spawned.code}): ` +
+        `${spawned.err || spawned.out}`
+    )
+  }
+
+  await Bun.sleep(EARLY_EXIT_PROBE_MS)
+  const dead = await tmux(["list-panes", "-t", `=${name}`, "-F", "#{pane_dead}"])
+  if (dead.out.split("\n")[0] === "1") {
+    throw new Error(
+      `seat '${name}' exited immediately on boot, and its pane stands dead rather than taking the ` +
+        `session with it — attach with \`tmux attach -t =${name}\` to read what it says`
+    )
+  }
+  await tmux(["set-option", "-t", `=${name}`, "remain-on-exit", "off"])
+  return true
+}
+
 export async function killSeatSession(name: string): Promise<boolean> {
   if (!(await sessionHolds(name))) return false
   await tmux(["kill-session", "-t", `=${name}`])
