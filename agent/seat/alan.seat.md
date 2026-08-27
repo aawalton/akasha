@@ -8,6 +8,7 @@ role-slug: handler
 person-slug: alan
 start-mode: interactive
 on-call: true
+errand: "Lizzy + Pod 2:20 \nProjects + Pod 2:35\nLizzy 3:20\nProjects 3:30"
 registration-account: aawalton
 claude-code-session-uuid: b9a0115f-ed95-4e11-b3fe-70d65212acb4
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/b9a0115f-ed95-4e11-b3fe-70d65212acb4.jsonl
