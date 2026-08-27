@@ -5,7 +5,7 @@ import type { PageAt } from "../../page.ts"
 import { textAt } from "../../text/text.ts"
 import { type AddressIndex, addressIndexIn } from "../address-index/address-index.ts"
 
-const BEARING: ReadonlySet<string> = new Set(["akasha", "memory"])
+const BEARING: ReadonlySet<string> = new Set(["akasha"])
 
 export interface Standing {
   readonly index: AddressIndex
