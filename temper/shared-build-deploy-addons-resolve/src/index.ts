@@ -4,9 +4,9 @@ import { listWorkspaceDirs } from "@shared/workspace-paths"
 import { computeWorkspaceClosure, loadWorkspaceCatalog, repoRelOf } from "./closure"
 import { addonManifestSchema } from "./manifest"
 
-const DEFAULT_REPO_ROOT = join(import.meta.dir, "..", "..", "..", "..", "..", "..")
+const DEFAULT_REPO_ROOT = join(import.meta.dir, "..", "..", "..")
 
-export const ADDONS_REL_ROOT = "packages/temper/addons"
+export const ADDONS_REL_ROOT = "temper/addons"
 
 export interface AddonInfo {
   dir: string
