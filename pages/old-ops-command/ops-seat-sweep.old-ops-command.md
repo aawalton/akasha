@@ -1,15 +1,15 @@
 ---
 id: edf7c686-0ea7-5f85-bfcc-f0440e59d341
 page-type-slug: old-ops-command
-title: "Ops instructions sweep-seats"
+title: "Ops seat sweep"
 slug: ops-seat-sweep
-domain-parent-slug: domain/ops-instructions
+domain-parent-slug: domain/ops-seat
 required-reading-slugs:
   - page-type/old-ops-command
 command-path: tools/sweep-seats.ts
-path: instructions sweep-seats
+path: seat sweep
 ---
 
 # Definition
 
-- **Ops instructions sweep-seats** — every live seat holding no unfinished assignment.
+- **Ops seat sweep** — every live seat holding no unfinished assignment.
