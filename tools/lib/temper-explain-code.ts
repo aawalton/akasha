@@ -11,6 +11,8 @@ import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventor
 import { computeStockGroups } from "@temper/game-items-rules-eval/compute-stock-groups"
 import type { EvalEnv } from "@temper/game-items-rules-eval/eval-env"
 import type {
+  IndeterminateReason,
+  RejectionReason,
   RuleEvalResult,
   RuleVerdict,
   WalkOutcome,
@@ -36,8 +38,10 @@ export type {
   EvalEnv,
   InventoryDatabase,
   InventoryItemData,
+  IndeterminateReason,
   InventoryLocationData,
   ItemFacts,
+  RejectionReason,
   RuleEvalResult,
   RuleVerdict,
   WalkOutcome,
