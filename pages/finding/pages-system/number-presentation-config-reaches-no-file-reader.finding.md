@@ -1,0 +1,24 @@
+---
+id: 55589082-6a37-5cce-9dd2-6ff864056409
+page-type-slug: finding
+title: "Number presentation config reaches no file-backed reader"
+domain-slug: domain/pages-system
+---
+
+# Claim
+
+Beyond colour, 53 `config` entries on page-type rows carry number presentation no file-backed reader asks for: `format` 17, `decimals` 15, `round` 13, `badgeVariant` 2, and `min`, `max`, `prefix`, `icon`, `units` once each. None of the nine appears in `definedOn`'s seven keys or `declarationsIn`'s thirteen. Recorded rather than restored: a property document for any of them would read green over an empty column.
+
+# Evidence
+
+Measured 2026-08-20 over `DATABASE_ADHOC_URL`.
+
+One scheme dominates. Sixteen number and formula properties carry `decimals: 0`, `format: number-with-separators`, `round: floor` together: `persona.totalPoints`, `value.totalPoints`, and thirteen on `relationship-progress` — `activeCalories`, `breathingPoints`, `cardioPoints`, `greenDayPoints`, `nutritionPoints`, `points`, `sleepPoints`, `sourcePoints`, `strengthPoints`, `strengthVolume`, `taskPoints`. `relationship-progress.greenDayFraction` differs only in `decimals: 4`.
+
+The singletons: `persona.percentProgress` `format: percent`; `persona.greenDayTotal` `decimals: 2`; `story-chapter.audioDuration` `units: s`; `idle-persona-card.rank` `badgeVariant: yellow`, `format: short`, `prefix: "Rank "`; `idle-persona-card.stars` `badgeVariant: red`, `icon: star`; `idle-persona-card.ratePerSec` `format: short`; `temper-completed-task.priority` `min: 1`, `max: 4`.
+
+`min` and `max` occur once, on that one property, as a pair. Neither is read. `properties/page-property-definition-max.md` exists and `page-property-definition-min.md` does not, but that asymmetry is between two documents that both carry nothing to a reader rather than between an expressible key and an inexpressible one.
+
+Two further keys occur once each and are read by neither. `daily-tracking.totalHealthCapacityHours` is an `aggregate` carrying `function: sum`. `persona.defaultModel` carries `optionListRef: 019f33ee-fe31-72de-812c-3ea10bc1d72b`, the id of `instructions:option-lists/model-vocabulary.md` — that list already stands as a file, so the reference is recoverable where the aggregate function is not.
+
+Formula bodies are the exception and are not lost: `declarationsIn` reads `expression` at `page-declared.ts:102` and `page-derive.ts:304` evaluates it, and `properties/page-property-definition-expression.md` exists. All 15 stay statable, including `daily-tracking.stoplights`, which renders six coloured discs from the six life-area levels.
