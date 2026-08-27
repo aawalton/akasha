@@ -8,4 +8,5 @@ role-slug: definer
 person-slug: alan
 on-call: true
 registration-account: aawalton
+claude-code-session-uuid: f4408e43-5c70-455a-979c-3a996695c010
 ---
