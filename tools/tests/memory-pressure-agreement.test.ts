@@ -1,7 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import { assessSpawnAdmission, MIN_FREE_MEMORY_GB } from "./memory-guard"
-import { assessGlobalKill, GLOBAL_MIN_AVAIL_GB, GLOBAL_MIN_FREE_SWAP_GB } from "./memory-monitor/host-global"
-import { type PidSnapshot } from "./memory-monitor/shared"
+import { assessSpawnAdmission, MIN_FREE_MEMORY_GB } from "@shared/utils-system/memory-guard"
+import {
+  assessGlobalKill,
+  GLOBAL_MIN_AVAIL_GB,
+  GLOBAL_MIN_FREE_SWAP_GB,
+} from "../lib/memory-reaper-global.ts"
+import { type PidSnapshot } from "../lib/memory-reaper-proc-scan.ts"
 
 const KB_PER_GB = 1024 * 1024
 const minAvailKb = GLOBAL_MIN_AVAIL_GB * KB_PER_GB
