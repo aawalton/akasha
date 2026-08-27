@@ -1,12 +1,12 @@
 ---
 id: 01a04035-32de-7000-a25e-7bb4da3be864
-page-type-slug: mp-command
+page-type-slug: command
 title: "Audit"
 slug: audit
 path: checks audit
 domain-parent-slug: domain/ops-checks
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

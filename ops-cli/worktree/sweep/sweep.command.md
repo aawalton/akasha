@@ -1,12 +1,12 @@
 ---
 id: 75e7fc35-6c10-5303-8e20-2b718aa04a81
-page-type-slug: mp-command
+page-type-slug: command
 title: "Sweep"
 slug: sweep
 path: worktree sweep
 domain-parent-slug: domain/ops-worktree
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

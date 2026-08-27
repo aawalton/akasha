@@ -1,12 +1,12 @@
 ---
 id: ad14fd98-d5d0-53ac-98d5-0ae25421bda1
-page-type-slug: mp-command
+page-type-slug: command
 title: "Write"
 slug: write
 path: write
 domain-parent-slug: domain/ops-global
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

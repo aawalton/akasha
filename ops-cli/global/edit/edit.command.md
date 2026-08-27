@@ -1,12 +1,12 @@
 ---
 id: 01a04044-3e10-7000-9f1a-2b7c5d0e9a41
-page-type-slug: mp-command
+page-type-slug: command
 title: "Edit"
 slug: edit
 path: edit
 domain-parent-slug: domain/ops-global
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

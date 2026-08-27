@@ -1,12 +1,12 @@
 ---
 id: 5fbd0d0c-6c3a-5853-b0cb-4db48adc1fbc
-page-type-slug: mp-command
+page-type-slug: command
 title: "Uses"
 slug: uses
 path: file-structure uses
 domain-parent-slug: domain/ops-file-structure
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

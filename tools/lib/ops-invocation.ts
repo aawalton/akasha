@@ -6,7 +6,7 @@ const COMMAND_DIR = "/tools/commands/"
 
 const TS_SUFFIX = ".ts"
 
-const AKASHA_PAGE_SUFFIX = ".mp-command.md"
+const AKASHA_PAGE_SUFFIX = ".command.md"
 
 const DISPATCHER = "tools/ops/cli.ts"
 

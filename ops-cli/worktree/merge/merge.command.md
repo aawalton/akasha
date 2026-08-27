@@ -1,12 +1,12 @@
 ---
 id: 53a286f8-c4b8-55fc-b01f-de197a968eab
-page-type-slug: mp-command
+page-type-slug: command
 title: "Merge"
 slug: merge
 path: worktree merge
 domain-parent-slug: domain/ops-worktree
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

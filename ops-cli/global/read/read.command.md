@@ -1,12 +1,12 @@
 ---
 id: 01a03f91-0e40-7000-b10c-75ee640482c7
-page-type-slug: mp-command
+page-type-slug: command
 title: "Read"
 slug: read
 path: read
 domain-parent-slug: domain/ops-global
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

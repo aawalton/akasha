@@ -1,12 +1,12 @@
 ---
 id: a6ad53f7-ab14-531f-881f-b404e1b3c584
-page-type-slug: mp-command
+page-type-slug: command
 title: "Start"
 slug: start
 path: worktree start
 domain-parent-slug: domain/ops-worktree
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

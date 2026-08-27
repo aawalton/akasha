@@ -1,12 +1,12 @@
 ---
 id: 25007281-6d3b-55cf-8fa8-9ed029cab50c
-page-type-slug: mp-command
+page-type-slug: command
 title: "Bundle"
 slug: bundle
 path: editor-extension bundle
 domain-parent-slug: domain/editor-extension
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

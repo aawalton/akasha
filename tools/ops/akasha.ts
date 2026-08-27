@@ -4,7 +4,7 @@ import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { filesUnder, summaryIn } from "./declared.ts"
 import type { Command, CommandModule } from "./surface.ts"
 
-const PAGE_SUFFIX = ".mp-command.md"
+const PAGE_SUFFIX = ".command.md"
 
 const PATH_KEY = "path"
 

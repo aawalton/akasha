@@ -1,12 +1,12 @@
 ---
 id: 01a04079-36e4-7000-8007-d844408a7258
-page-type-slug: mp-command
+page-type-slug: command
 title: "Search"
 slug: search
 path: search
 domain-parent-slug: domain/ops-global
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

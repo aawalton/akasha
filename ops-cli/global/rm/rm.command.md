@@ -1,12 +1,12 @@
 ---
 id: 10d1c97e-5dc0-5f82-b9df-a96c15c22923
-page-type-slug: mp-command
+page-type-slug: command
 title: "Rm"
 slug: rm
 path: rm
 domain-parent-slug: domain/ops-global
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

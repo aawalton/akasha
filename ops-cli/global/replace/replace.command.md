@@ -1,12 +1,12 @@
 ---
 id: 01a0407c-f7a9-7760-9fda-1725b372edd9
-page-type-slug: mp-command
+page-type-slug: command
 title: "Replace"
 slug: replace
 path: replace
 domain-parent-slug: domain/ops-global
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

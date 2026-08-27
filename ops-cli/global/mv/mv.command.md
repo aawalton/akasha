@@ -1,12 +1,12 @@
 ---
 id: e3dd9f3b-fb1a-44bc-9658-5b8ea2ba4f99
-page-type-slug: mp-command
+page-type-slug: command
 title: "Mv"
 slug: mv
 path: mv
 domain-parent-slug: domain/ops-global
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

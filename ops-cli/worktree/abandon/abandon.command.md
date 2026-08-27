@@ -1,12 +1,12 @@
 ---
 id: 9db12eb9-e2ef-5005-9a39-2a1b5635632b
-page-type-slug: mp-command
+page-type-slug: command
 title: "Abandon"
 slug: abandon
 path: worktree abandon
 domain-parent-slug: domain/ops-worktree
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

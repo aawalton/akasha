@@ -1,12 +1,12 @@
 ---
 id: 96041e23-7a34-52d9-a446-f1affe63701c
-page-type-slug: mp-command
+page-type-slug: command
 title: "Dominance"
 slug: dominance
 path: file-structure dominance
 domain-parent-slug: domain/ops-file-structure
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

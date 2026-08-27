@@ -1,12 +1,12 @@
 ---
 id: 01a040b5-d5e9-7000-8f7a-ffb0e819fcf9
-page-type-slug: mp-command
+page-type-slug: command
 title: "Move"
 slug: move
 path: package move
 domain-parent-slug: domain/ops-package
 required-reading-slugs:
-  - page-type/mp-command
+  - page-type/command
 ---
 
 # Definition

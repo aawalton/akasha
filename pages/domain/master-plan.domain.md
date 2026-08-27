@@ -7,7 +7,6 @@ domain-parent-slug: domain/global
 sequence-slugs:
   - page-type/check
   - page-type/patch
-  - page-type/mp-command
 ---
 
 # Definition
