@@ -26,6 +26,7 @@ import {
   textFiles,
 } from "./mention.ts"
 import { reslugged, slugKeys, slugPatches } from "./reslug.ts"
+import { NO_RUNTIME_PATHS, readsRuntimePaths, runtimePatches } from "./runtime-path.ts"
 
 export type Moves = ReadonlyMap<string, string>
 
@@ -34,6 +35,13 @@ export interface Repointed {
   readonly body: string
   readonly notes: readonly string[]
   readonly moved: boolean
+}
+
+export interface RuntimeReading {
+  readonly files: number
+  readonly read: number
+  readonly repointed: number
+  readonly unreadable: readonly string[]
 }
 
 export interface SpecifierReading {
@@ -50,6 +58,7 @@ export interface Survey {
   readonly generated: readonly string[]
   readonly escaped: readonly string[]
   readonly reading: SpecifierReading
+  readonly runtime: RuntimeReading
 }
 
 export interface Importers {
@@ -245,9 +254,13 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
   const taken = new Set(moves.keys())
   const moving = [...moves.keys()].filter((one) => one.endsWith(".ts"))
   const unreached = new Set(moving)
+  const unreadable: string[] = []
   let files = 0
   let specifiers = 0
   let repointed = 0
+  let runtimeFiles = 0
+  let runtimeRead = 0
+  let runtimeRepointed = 0
   for (const { relPath, body } of textFiles(root)) {
     unreached.delete(relPath)
     const target = moves.get(relPath)
@@ -259,9 +272,13 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
     const named = lands.endsWith(".ts")
       ? specifierPatches(body, before, after, moved, held)
       : NO_SPECIFIERS
+    const running = readsRuntimePaths(lands)
+      ? runtimePatches(body, before, after, moved, held)
+      : NO_RUNTIME_PATHS
     const applied = apply(body, [
       ...(lands.endsWith(".md") ? linkPatches(body, before, after, moved, taken) : []),
       ...named.patches,
+      ...running.patches,
       ...(lands.endsWith(".md") ? slugPatches(body, carried, keys, ownStem) : []),
       ...mentionPatches(body, moves, roots),
     ])
@@ -281,6 +298,12 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
       specifiers += named.read
       repointed += named.patches.length
     }
+    if (readsRuntimePaths(lands)) {
+      runtimeFiles += 1
+      runtimeRead += running.read
+      runtimeRepointed += running.patches.length
+      for (const one of running.unreadable) unreadable.push(`${lands}:${one}`)
+    }
     if (relocating || applied.notes.length > 0) {
       entries.push({
         relPath: lands,
@@ -296,6 +319,35 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
     generated,
     escaped,
     reading: { moving: moving.length, files, specifiers, repointed, unreached: [...unreached] },
+    runtime: {
+      files: runtimeFiles,
+      read: runtimeRead,
+      repointed: runtimeRepointed,
+      unreadable,
+    },
+  }
+}
+
+export function runtimeReading(reading: RuntimeReading): Outcome {
+  const detail =
+    reading.repointed === 0
+      ? `0 repointed across ${reading.files} module(s) — nothing here reaches what this call ` +
+        "moves by a path written against its own directory"
+      : `${reading.repointed} repointed across ${reading.files} module(s)`
+  const messages =
+    reading.unreadable.length === 0
+      ? []
+      : [
+          ...reading.unreadable,
+          "nothing repoints these: each builds a path from its own file's directory and will not " +
+            "say which path, and this call moves something out from under it. Rewriting a literal " +
+            "that might not be the one meant breaks what still works, so the move stops here " +
+            "instead. Write the path as one literal hanging off the base — `new URL(\"./x.json\", " +
+            "import.meta.url)` — and land that BEFORE the move, which the repo stays green through",
+        ]
+  return {
+    ...judge("runtime-paths", detail, messages),
+    population: over(reading.read, "relative runtime path(s)"),
   }
 }
 
