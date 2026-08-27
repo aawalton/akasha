@@ -11,7 +11,7 @@ email: "smilingjenny@gmail.com"
 phone: "+16085122511"
 linkedin-url: "https://www.linkedin.com/in/jennifer-walton-aa33919"
 sms-allowed: true
-sms-handler-target: "claude-jenny-handler"
+sms-handler-target: "jenny"
 account-user-id: "9bc63b11-d301-4a51-8839-7371336262c7"
 aliases:
   - "Jen"
