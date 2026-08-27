@@ -1,5 +1,5 @@
 {
-  "name": "@shared/supabase-auth",
+  "name": "@shared/supabase-auth--from-instructions",
   "functionalType": "access",
   "version": "0.1.0",
   "type": "module",

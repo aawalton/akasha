@@ -1,5 +1,5 @@
 {
-  "name": "@shared/pages-query",
+  "name": "@shared/pages-query--from-instructions",
   "functionalType": "io",
   "version": "0.1.0",
   "type": "module",

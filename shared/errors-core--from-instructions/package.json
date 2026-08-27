@@ -1,5 +1,5 @@
 {
-  "name": "@shared/errors-core",
+  "name": "@shared/errors-core--from-instructions",
   "functionalType": "pure",
   "version": "0.1.0",
   "type": "module",

@@ -1,5 +1,5 @@
 {
-  "name": "@temper/shared-build-deploy-addons-resolve",
+  "name": "@temper/shared-build-deploy-addons-resolve--from-instructions",
   "dependencies": {
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"

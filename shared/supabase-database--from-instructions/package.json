@@ -1,5 +1,5 @@
 {
-  "name": "@shared/supabase-database",
+  "name": "@shared/supabase-database--from-instructions",
   "functionalType": "pure",
   "version": "0.1.0",
   "type": "module",

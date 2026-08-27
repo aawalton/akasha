@@ -1,5 +1,5 @@
 {
-  "name": "@shared/pages-url",
+  "name": "@shared/pages-url--from-instructions",
   "functionalType": "pure",
   "version": "0.1.0",
   "type": "module",

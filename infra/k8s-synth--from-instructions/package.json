@@ -1,5 +1,5 @@
 {
-  "name": "@infra/k8s-synth",
+  "name": "@infra/k8s-synth--from-instructions",
   "functionalType": "io",
   "version": "0.1.0",
   "type": "module",

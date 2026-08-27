@@ -1,5 +1,5 @@
 {
-  "name": "@temper/shared-saved-variables",
+  "name": "@temper/shared-saved-variables--from-instructions",
   "functionalType": "pure",
   "version": "0.1.0",
   "type": "module",

@@ -1,5 +1,5 @@
 {
-  "name": "@shared/utils-fs",
+  "name": "@shared/utils-fs--from-instructions",
   "functionalType": "io",
   "private": true,
   "type": "module",

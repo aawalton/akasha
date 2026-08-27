@@ -1,5 +1,5 @@
 {
-  "name": "@shared/recurrence",
+  "name": "@shared/recurrence--from-instructions",
   "functionalType": "pure",
   "version": "0.1.0",
   "type": "module",

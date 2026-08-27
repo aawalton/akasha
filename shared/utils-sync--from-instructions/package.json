@@ -1,5 +1,5 @@
 {
-  "name": "@shared/utils-sync",
+  "name": "@shared/utils-sync--from-instructions",
   "functionalType": "io",
   "version": "0.1.0",
   "private": true,

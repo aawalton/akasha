@@ -1,5 +1,5 @@
 {
-  "name": "@infra/ci-workflows",
+  "name": "@infra/ci-workflows--from-instructions",
   "functionalType": "pure",
   "version": "0.1.0",
   "private": true,

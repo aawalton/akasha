@@ -1,5 +1,5 @@
 {
-  "name": "@infra/k8s-types",
+  "name": "@infra/k8s-types--from-instructions",
   "functionalType": "pure",
   "private": true,
   "type": "module",

@@ -1,5 +1,5 @@
 {
-  "name": "@shared/utils-narrow",
+  "name": "@shared/utils-narrow--from-instructions",
   "functionalType": "pure",
   "private": true,
   "type": "module",

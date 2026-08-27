@@ -1,5 +1,5 @@
 {
-  "name": "@temper/shared-foundation-misc-eso-paths-resolve",
+  "name": "@temper/shared-foundation-misc-eso-paths-resolve--from-instructions",
   "functionalType": "io",
   "version": "0.1.0",
   "type": "module",
