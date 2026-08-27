@@ -20,14 +20,19 @@ function isOwnedByWorkspace(rel: string, workspaceDirs: readonly string[]): bool
   return workspaceDirs.some((dir) => rel.startsWith(`${dir}/`))
 }
 
+export function workspaceScopes(workspaceDirs: readonly string[]): ReadonlySet<string> {
+  return new Set(workspaceDirs.map((dir) => dir.split("/")[0]))
+}
+
 export function findOrphanSources(args: {
   files: readonly string[]
   workspaceDirs: readonly string[]
 }): readonly OrphanReport[] {
   const { files, workspaceDirs } = args
+  const scopes = workspaceScopes(workspaceDirs)
   const orphans: OrphanReport[] = []
   for (const rel of files) {
-    if (!rel.startsWith("packages/")) continue
+    if (!scopes.has(rel.split("/")[0])) continue
     if (!hasRecognizedSourceExt(rel)) continue
     if (hasExemptSegment(rel)) continue
     if (isOwnedByWorkspace(rel, workspaceDirs)) continue

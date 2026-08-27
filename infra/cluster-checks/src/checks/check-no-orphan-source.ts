@@ -11,7 +11,7 @@ import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[no-orphan-source]"
-const SUCCESS_MESSAGE = "Every recognized source file under packages/ is owned by a workspace."
+const SUCCESS_MESSAGE = "Every recognized source file under a workspace scope is owned by a workspace."
 
 function main(): never {
   let flags: { json: boolean; repoRoot: string | undefined }
@@ -54,7 +54,7 @@ function main(): never {
       format: flags.json ? "json" : "human",
       prefix: PREFIX,
       header:
-        "source files under packages/ not contained in any workspace package (add a package.json + workspaces entry, or move the file into an existing package)",
+        "source files under a workspace scope not contained in any workspace package (add a package.json + workspaces entry, or move the file into an existing package)",
       successMessage: SUCCESS_MESSAGE,
       formatViolation: (v) => v.file,
     },
