@@ -9,7 +9,7 @@ import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8
 import { CODE_REPO } from "../../../../repo/scope/scope.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import {
@@ -28,10 +28,10 @@ const PREFIX = "[k8s-node-selector]"
 const MEMBERS_AT_LEAST = 6000
 
 const MEMBERSHIP_FROM =
-  "the code repo's tracked tree read at the tree sha above, which held 6859 members when this " +
-  "least count was taken — the `k8s-resource` docs counting the duplicates each carries, and " +
-  "the TypeScript modules under `packages/` — the file list behind both halves is what " +
-  "`git ls-tree` answered for the checkout `CODE_ROOT` names, and that hands back whatever it " +
+  "the tracked tree read at the tree sha above: the `k8s-resource` docs counting the " +
+  "duplicates each carries, and every tracked TypeScript module outside the excluded " +
+  "directories, of which the tree holds upwards of eleven thousand. The file list behind both " +
+  "halves is what `git ls-tree` answered for the checkout, and that hands back whatever it " +
   "read rather than raising when it reads less, so a run arriving under this count read a " +
   "smaller tree than the one this check was written against and certifies nothing"
 
@@ -102,7 +102,6 @@ function tsMembers(graph: Graph): readonly Member[] {
   for (const node of graph.nodes(TS_FILE_NODE_TYPES)) {
     if (node.repo !== CODE_REPO) continue
     const rel = TsFileAttrsSchema.parse(node.attrs).path
-    if (!rel.startsWith("packages/")) continue
     if (rel.split("/").some((segment) => EXCLUDED_TS_SEGMENTS.has(segment))) continue
     if (!rel.endsWith(".ts") && !rel.endsWith(".tsx")) continue
     found.push({ surface: "ts", rel })
@@ -135,7 +134,7 @@ async function main(): Promise<never> {
     )
   }
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const members: readonly Member[] = [...manifestMembers(fullGraph), ...tsMembers(fullGraph)]
 
   const { population, violations } = examinePopulation<Member, Violation>({
@@ -148,8 +147,8 @@ async function main(): Promise<never> {
         : member.rel,
     siteOf: (member) =>
       member.surface === "manifest"
-        ? resolve(codeRoot, member.attrs.path)
-        : resolve(codeRoot, member.rel),
+        ? resolve(root, member.attrs.path)
+        : resolve(root, member.rel),
     examine: (member) =>
       member.surface === "manifest"
         ? evaluateManifestNode(member.attrs)
