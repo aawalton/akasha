@@ -70,23 +70,27 @@ function above(at: PageAt, index: AddressIndex): readonly PageAt[] {
 
 export type Stated = (key: string) => string | null
 
-function statedIn(body: string): Stated | null {
+function statedIn(body: string, defaults: ReadonlyMap<string, string> | null): Stated | null {
   const { fm, why } = blockOf(body)
   if (why !== null) return null
-  const defaults = seatDefaults()
-  return (key) => stringAt(fm, key) ?? defaults.get(key) ?? null
+  return (key) => stringAt(fm, key) ?? defaults?.get(key) ?? null
 }
 
 export function seatWarrantsFor(body: string, index: AddressIndex): readonly Warranted[] {
-  const stated = statedIn(body)
+  const stated = statedIn(body, null)
+  return stated === null ? [] : warrantsFrom(stated, index)
+}
+
+export function seatWarrantsWithDefaults(body: string, index: AddressIndex): readonly Warranted[] {
+  const stated = statedIn(body, seatDefaults())
   return stated === null ? [] : warrantsFrom(stated, index)
 }
 
 export function subagentWarrantsFor(seatBody: string, index: AddressIndex): readonly Warranted[] {
-  const stated = statedIn(seatBody)
+  const defaults = seatDefaults()
+  const stated = statedIn(seatBody, defaults)
   if (stated === null) return []
   const domain = stated(DOMAIN_KEY)
-  const defaults = seatDefaults()
   return warrantsFrom((key) => (key === DOMAIN_KEY ? domain : (defaults.get(key) ?? null)), index)
 }
 
