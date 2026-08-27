@@ -1,8 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { CODE, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { codeRoot as ownCodeRoot } from "../code-root.ts"
 import { checkWorkflow } from "./index.ts"
 
-const codeRoot = process.env.WORKSPACE ?? rootFor(resolveRoots(), CODE)
+const codeRoot = process.env.WORKSPACE ?? ownCodeRoot()
 
 const LEAST_STEPS = 80
 
