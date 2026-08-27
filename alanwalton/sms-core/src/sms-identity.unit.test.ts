@@ -111,7 +111,7 @@ describe("decideSmsRoute", () => {
     handlerTarget: "jenny",
   }
 
-  test("allowlisted sender → ki-handler carrying its accountUserId", () => {
+  test("allowlisted sender → ki carrying its accountUserId", () => {
     const d = decideSmsRoute({ sender: "+18015028349", content: "logged a book" }, [kiAllowed])
     expect(d.kind).toBe("helper")
     if (d.kind === "helper") {

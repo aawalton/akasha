@@ -127,7 +127,7 @@ describe("verify → route → surface carries the RESOLVED (not content-derived
         kind: "helper",
         target: "ki",
         accountUserId: KI_UUID,
-        reason: "allowlisted sms identity → ki-handler",
+        reason: "allowlisted sms identity → ki",
       }
     )
     expect(extractActingAccountUserId(surface)).toBe(KI_UUID)

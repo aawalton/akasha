@@ -27,7 +27,7 @@ function kiHelperDecision(accountUserId: string | null): SmsRouteDecision {
     kind: "helper",
     target: "ki",
     accountUserId,
-    reason: "allowlisted sms identity → ki-handler",
+    reason: "allowlisted sms identity → ki",
   }
 }
 
