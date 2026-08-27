@@ -1,0 +1,20 @@
+---
+id: 01a010d9-67dc-7000-a7cf-c8fa595d5532
+page-type-slug: page-property-definition
+title: "Collection completion"
+defined-on-slug: page-type/collection
+key: completion
+type: formula
+expression: (totalLengthInWords > 0) && (totalRemainingInWords <= 0) && "completed" || (totalProgressInWords > 0) && "in-progress" || "not-started"
+returnType: select(slug)
+values:
+  - not-started
+  - in-progress
+  - completed
+slug: collection-completion
+domain-parent-slug: page-type/collection
+---
+
+# Definition
+
+- **Collection completion** — a collection's progress as a stage rather than an amount.
