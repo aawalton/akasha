@@ -14,6 +14,7 @@ import {
 } from "../repo/roots/roots.ts"
 import { decodeUtf8 } from "../utf8-body/utf8-body.ts"
 import { dirOf, relativeBetween, resolves } from "./between.ts"
+import { type Held, heldIn, namesMoved } from "./held.ts"
 import { linkPatches } from "./link.ts"
 import {
   escapedMentions,
@@ -64,54 +65,12 @@ const MODULE = ".ts"
 
 const NUL = String.fromCharCode(0)
 
-const TS_FOR_JS: readonly (readonly [string, string])[] = [
-  [".js", ".ts"],
-  [".jsx", ".tsx"],
-  [".mjs", ".mts"],
-  [".cjs", ".cts"],
-]
-
-const IMPLIED = [".ts", ".tsx", ".mts", ".cts"] as const
-
-interface Named {
-  readonly to: string
-  readonly spell: (relative: string) => string
-}
-
-function without(path: string, ending: string): string {
-  return path.endsWith(ending) ? path.slice(0, -ending.length) : path
-}
-
-export function namesMoved(absolute: string, moved: ReadonlyMap<string, string>): Named | null {
-  const written = moved.get(absolute)
-  if (written !== undefined) return { to: written, spell: (relative) => relative }
-  for (const [js, ts] of TS_FOR_JS) {
-    if (!absolute.endsWith(js)) continue
-    const to = moved.get(`${without(absolute, js)}${ts}`)
-    if (to !== undefined) return { to, spell: (relative) => `${without(relative, ts)}${js}` }
-  }
-  for (const ending of IMPLIED) {
-    const to = moved.get(`${absolute}${ending}`)
-    if (to !== undefined) return { to, spell: (relative) => without(relative, ending) }
-  }
-  for (const ending of IMPLIED) {
-    const to = moved.get(`${absolute}/index${ending}`)
-    if (to === undefined) continue
-    const index = `/index${ending}`
-    return {
-      to,
-      spell: (relative) =>
-        relative.endsWith(index) ? without(relative, index) : without(relative, ending),
-    }
-  }
-  return null
-}
-
 function retargetSpecifier(
   spec: string,
   hostBefore: string,
   hostAfter: string,
-  moved: ReadonlyMap<string, string>
+  moved: ReadonlyMap<string, string>,
+  held: Held
 ): string | null {
   const absolute = resolves(spec, hostBefore)
   if (absolute === null) return null
@@ -119,6 +78,7 @@ function retargetSpecifier(
   const pathPart = cut === -1 ? spec : spec.slice(0, cut)
   const named = namesMoved(absolute, moved)
   if (named === null && hostBefore === hostAfter) return null
+  if (named === null && !held(absolute)) return null
   const relative = relativeBetween(dirOf(hostAfter), named?.to ?? absolute)
   const next = named === null ? relative : named.spell(relative)
   return next === pathPart ? null : next + (cut === -1 ? "" : spec.slice(cut))
@@ -135,7 +95,8 @@ export function specifierPatches(
   body: string,
   hostBefore: string,
   hostAfter: string,
-  moved: ReadonlyMap<string, string>
+  moved: ReadonlyMap<string, string>,
+  held: Held
 ): Specifiers {
   const patches: Patch[] = []
   let read = 0
@@ -143,7 +104,7 @@ export function specifierPatches(
     const spec = match[2] ?? ""
     if (!spec.startsWith(".")) continue
     read += 1
-    const next = retargetSpecifier(spec, hostBefore, hostAfter, moved)
+    const next = retargetSpecifier(spec, hostBefore, hostAfter, moved, held)
     if (next === null) continue
     const text = next.startsWith(".") ? next : `./${next}`
     if (text === spec) continue
@@ -226,6 +187,7 @@ export function surveyImporters(
   landing: Roots = roots
 ): readonly Importers[] {
   const moved = movedAbsolute(moves, roots, landing)
+  const held = heldIn(roots)
   const seen = new Set([canonicalize(targetRoot(roots)), canonicalize(targetRoot(landing))])
   const found: Importers[] = []
   for (const repo of REPOS) {
@@ -241,7 +203,7 @@ export function surveyImporters(
     for (const { relPath, body } of trackedTexts(root)) {
       const host = normalizeAbsolute(`${root}/${relPath}`)
       const isModule = relPath.endsWith(MODULE)
-      const named = isModule ? specifierPatches(body, host, host, moved) : NO_SPECIFIERS
+      const named = isModule ? specifierPatches(body, host, host, moved, held) : NO_SPECIFIERS
       if (isModule) {
         files += 1
         specifiers += named.read
@@ -272,6 +234,7 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
   const root = targetRoot(roots)
   const landsIn = targetRoot(landing)
   const moved = movedAbsolute(moves, roots, landing)
+  const held = heldIn(roots)
   const entries: Repointed[] = []
   const quarantined: string[] = []
   const generated: string[] = []
@@ -292,7 +255,7 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
     const after = target === undefined ? before : normalizeAbsolute(`${landsIn}/${target}`)
     const relocating = after !== before
     const named = lands.endsWith(".ts")
-      ? specifierPatches(body, before, after, moved)
+      ? specifierPatches(body, before, after, moved, held)
       : NO_SPECIFIERS
     const applied = apply(body, [
       ...(lands.endsWith(".md") ? linkPatches(body, before, after, moved, taken) : []),

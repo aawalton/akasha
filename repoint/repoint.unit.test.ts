@@ -279,4 +279,28 @@ describe("what a rename repoints", () => {
       at.dispose()
     }
   })
+
+  test("a specifier naming what no repository holds is left as written", () => {
+    const at = fixture()
+    try {
+      const body = 'import type { Route } from "./+types/sign-out"\n'
+      at.put("app/routes/sign-out.ts", body)
+      const pairs = moves(["app/routes/sign-out.ts", "deep/nest/sign-out.ts"])
+      expect(landed(at.root, pairs, "deep/nest/sign-out.ts")).toBe(body)
+    } finally {
+      at.dispose()
+    }
+  })
+
+  test("a specifier naming a file that stays put is re-spelled from the mover's new home", () => {
+    const at = fixture()
+    try {
+      at.put("tools/lib/one.ts", "export const one = 1\n")
+      at.put("tools/two.ts", 'import { one } from "./lib/one.ts"\nexport const two = one\n')
+      const pairs = moves(["tools/two.ts", "deep/two.ts"])
+      expect(landed(at.root, pairs, "deep/two.ts")).toContain('from "../tools/lib/one.ts"')
+    } finally {
+      at.dispose()
+    }
+  })
 })
