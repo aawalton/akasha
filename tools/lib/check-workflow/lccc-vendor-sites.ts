@@ -1,9 +1,16 @@
 import { dirname, relative } from "node:path"
 import { findFiles } from "./file-finder.ts"
 
-export const ADDON_LIBRARIES_ROOT = "packages/temper/shared/addon-libraries"
+/**
+ * How an addon-library workspace is spelled.
+ *
+ * THIS IS A NAME PREFIX, NOT A DIRECTORY. Every addon library stands directly under `temper/` and
+ * carries its family in its name, so the sites are found by matching the name rather than by
+ * walking a `shared/addon-libraries` directory, which is not there to walk.
+ */
+export const ADDON_LIBRARIES_PREFIX = "temper/shared-addon-libraries-"
 
-export const LCCC_REFERENCE_DIR = `${ADDON_LIBRARIES_ROOT}/lib-character-knowledge/src/lccc`
+export const LCCC_REFERENCE_DIR = `${ADDON_LIBRARIES_PREFIX}lib-character-knowledge/src/lccc`
 
 function isSharedModule(basename: string): boolean {
   if (basename === "index") return false
@@ -24,7 +31,7 @@ function siteOfFile(repoRoot: string, absPath: string): { dir: string; basename:
 export function discoverLcccVendorSites(repoRoot: string): LcccVendorSites {
   const files = findFiles({
     cwd: repoRoot,
-    patterns: [`${ADDON_LIBRARIES_ROOT}/*/src/lccc/*.ts`],
+    patterns: [`${ADDON_LIBRARIES_PREFIX}*/src/lccc/*.ts`],
     absolute: true,
   })
 
@@ -44,7 +51,7 @@ export function discoverLcccVendorSites(repoRoot: string): LcccVendorSites {
   const mirrorDirs = [...dirs].filter((dir) => dir !== LCCC_REFERENCE_DIR).sort()
   if (mirrorDirs.length === 0) {
     throw new Error(
-      `discoverLcccVendorSites: only one vendored LCCC copy found under ${ADDON_LIBRARIES_ROOT}, so there is nothing to compare it against. Repair the discovery rather than composing a gate over no mirrors.`
+      `discoverLcccVendorSites: only one vendored LCCC copy found among the ${ADDON_LIBRARIES_PREFIX}* workspaces, so there is nothing to compare it against. Repair the discovery rather than composing a gate over no mirrors.`
     )
   }
 
