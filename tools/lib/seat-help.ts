@@ -18,10 +18,10 @@ Where that spelling is already held by a live seat the WHOLE statement is refuse
 nothing is recorded — a name is the fleet's exclusion between two seats, so two of them
 stating one set of attributes is one stating its way onto the other's work. Every name a
 seat may carry is spelled from what it states, so no name stands outside that; a person's
-own handle (\`ki-handler\`) is the one form a statement leaves where it is.
+own handle (\`ki\`) is the one form a statement leaves where it is.
 
-WHICH NAME IT CARRIES DEPENDS ON --role AND --principal. A handler spells its identity, the
-person it serves and its role (\`amy-alan-handler\`), whoever it works for. A seat working for
+WHICH NAME IT CARRIES DEPENDS ON --role AND --principal. A handler spells the person it
+serves and nothing else (\`alan\`), whoever it works for. A seat working for
 Alan takes its persona's name alone, because that name is an address he types. Every other
 seat takes a name spelling every attribute and assignment it states EXCEPT its persona,
 because that name is the whole of the lock keeping two seats off one row and who is seated
