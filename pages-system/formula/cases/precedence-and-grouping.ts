@@ -1,5 +1,15 @@
 import type { FormulaCase } from "./cases.ts"
-import { answersBoolean, answersNumber, C, COUNT, FLAG, L, NOTHING, refused } from "./shorthand.ts"
+import {
+  answersBoolean,
+  answersNumber,
+  C,
+  COUNT,
+  FLAG,
+  L,
+  NOTHING,
+  num,
+  refused,
+} from "./shorthand.ts"
 
 // ---------------------------------------------------------------------------
 // Precedence and grouping
@@ -192,5 +202,100 @@ export const precedence: FormulaCase[] = [
     values: {},
     expected: answersBoolean(true),
     // `((1 + (2 * 3)) > 5) && ((2 - 1) < 2)`.
+  },
+  {
+    name: "subtraction groups to the left",
+    group: "precedence-and-grouping",
+    from: L.equalBindsLeft,
+    claim: C.equalBindsLeft,
+    formula: "10 - 3 - 2",
+    shape: NOTHING,
+    values: {},
+    expected: answersNumber(5),
+    // `(10 - 3) - 2`. Grouped to the right it would be `10 - (3 - 2)`, which
+    // is 9.
+  },
+  {
+    name: "division groups to the left",
+    group: "precedence-and-grouping",
+    from: L.equalBindsLeft,
+    claim: C.equalBindsLeft,
+    formula: "100 / 10 / 2",
+    shape: NOTHING,
+    values: {},
+    expected: answersNumber(5),
+    // `(100 / 10) / 2`. Grouped to the right it would be `100 / (10 / 2)`,
+    // which is 20.
+  },
+  {
+    name: "subtraction groups to the left across three operators",
+    group: "precedence-and-grouping",
+    from: L.equalBindsLeft,
+    claim: C.equalBindsLeft,
+    formula: "20 - 5 - 5 - 5",
+    shape: NOTHING,
+    values: {},
+    expected: answersNumber(5),
+    // Grouped to the right this is `20 - (5 - (5 - 5))`, which is 15.
+  },
+  {
+    name: "addition and subtraction group to the left together",
+    group: "precedence-and-grouping",
+    from: L.equalBindsLeft,
+    claim: C.equalBindsLeft,
+    formula: "10 - 4 + 3",
+    shape: NOTHING,
+    values: {},
+    expected: answersNumber(9),
+    // The two bind equally, so `(10 - 4) + 3`. Grouped to the right it would
+    // be `10 - (4 + 3)`, which is 3.
+  },
+  {
+    name: "multiplication and division group to the left together",
+    group: "precedence-and-grouping",
+    from: L.equalBindsLeft,
+    claim: C.equalBindsLeft,
+    formula: "12 / 2 * 3",
+    shape: NOTHING,
+    values: {},
+    expected: answersNumber(18),
+    // `(12 / 2) * 3`. Grouped to the right it would be `12 / (2 * 3)`, which
+    // is 2.
+  },
+  {
+    name: "negation binds tighter than addition",
+    group: "precedence-and-grouping",
+    from: L.precedence,
+    claim: C.precedence,
+    formula: "-{count} + 10",
+    shape: COUNT,
+    values: { count: num(3) },
+    expected: answersNumber(7),
+    // `(-{count}) + 10`. Were negation the looser of the two it would be
+    // `-({count} + 10)`, which is -13.
+  },
+  {
+    name: "negation binds tighter than multiplication and addition together",
+    group: "precedence-and-grouping",
+    from: L.precedence,
+    claim: C.precedence,
+    formula: "-2 * 3 + 1",
+    shape: NOTHING,
+    values: {},
+    expected: answersNumber(-5),
+    // `((-2) * 3) + 1`. Negation reaching over the whole of the rest would be
+    // `-((2 * 3) + 1)`, which is -7.
+  },
+  {
+    name: "negation binds tighter than comparison",
+    group: "precedence-and-grouping",
+    from: L.precedence,
+    claim: C.precedence,
+    formula: "-{count} < 0",
+    shape: COUNT,
+    values: { count: num(3) },
+    expected: answersBoolean(true),
+    // `(-{count}) < 0`. Read the other way there is a negated boolean, which
+    // no operator in this language takes.
   },
 ]

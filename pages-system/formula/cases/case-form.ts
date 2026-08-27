@@ -420,6 +420,10 @@ export const caseFormCases: FormulaCase[] = [
     formula: 'if({count} > 0, "some", "none")',
     shape: COUNT,
     values: { count: num(1) },
-    expected: refused("read", "choice-without-a-case"),
+    expected: refused("check", "choice-without-a-case", ["if"]),
+    // Refused at the second moment rather than the first. A call is its name
+    // then its arguments between parentheses, so reading this cannot tell it
+    // from `hasWord(a, b)`; the fault is in what it names, which is what
+    // checking looks at.
   },
 ]

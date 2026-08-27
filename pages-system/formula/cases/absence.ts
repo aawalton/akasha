@@ -2,9 +2,11 @@ import type { FormulaCase } from "./cases.ts"
 import {
   ABSENT,
   answersBoolean,
+  answersNumber,
   answersText,
   C,
   COUNT,
+  call,
   caseForm,
   FLAG,
   L,
@@ -12,6 +14,7 @@ import {
   NAME,
   NOTHING,
   num,
+  text,
 } from "./shorthand.ts"
 
 // ---------------------------------------------------------------------------
@@ -356,6 +359,63 @@ export const absence: FormulaCase[] = [
     formula: "{count} + {other} + 1",
     shape: MIXED,
     values: { other: num(2) },
+    expected: ABSENT,
+  },
+  {
+    name: "a function reaching an absent value answers absent",
+    group: "absence",
+    from: L.absentFunction,
+    claim: C.absentFunction,
+    formula: call("hasWord", "{name}", '"cat"'),
+    shape: NAME,
+    values: {},
+    expected: ABSENT,
+  },
+  {
+    name: "a function reaching an absent list answers absent",
+    group: "absence",
+    from: L.absentFunction,
+    claim: C.absentFunction,
+    formula: call("contains", "{tags}", '"green"'),
+    shape: MIXED,
+    values: {},
+    expected: ABSENT,
+    // Absent rather than false: the function reached an absent value, so it
+    // never got to look.
+  },
+  {
+    name: "a function whose arguments are all there is untouched by absence elsewhere",
+    group: "absence",
+    from: L.absentFunction,
+    claim: C.absentFunction,
+    formula: call("hasWord", "{name}", '"cat"'),
+    shape: MIXED,
+    values: { name: text("the cat sat") },
+    expected: answersBoolean(true),
+    // Every other key this shape declares is absent. The line binds a function
+    // that *reaches* an absent value, and this one reaches none.
+  },
+  {
+    name: "a function reaching nothing is untouched by absence",
+    group: "absence",
+    from: L.absentFunction,
+    claim: C.absentFunction,
+    formula: call("hoursBetween", call("now"), call("now")),
+    shape: MIXED,
+    values: {},
+    now: "2026-01-01T03:00:00Z",
+    expected: answersNumber(0),
+    // `now` takes no argument, so it reaches no value and no absence can
+    // travel into it, however much of this page is empty.
+  },
+  {
+    name: "negation reaching an absent value answers absent",
+    group: "absence",
+    from: L.absentOperator,
+    claim: C.absentOperator,
+    formula: "-{count}",
+    shape: COUNT,
+    values: {},
     expected: ABSENT,
   },
 ]

@@ -261,4 +261,58 @@ export const refusedTypes: FormulaCase[] = [
     values: { count: num(1) },
     expected: refused("check", "types-do-not-meet", ["mislabelled", "text", "number"]),
   },
+  {
+    name: "less than over two texts is refused",
+    group: "refused-types-do-not-meet",
+    from: L.opLess,
+    claim: C.opLess,
+    formula: '"a" < "b"',
+    shape: NOTHING,
+    values: {},
+    expected: refused("check", "types-do-not-meet", ["text"]),
+    // `<` is whether one *number* is less than another. A language ordering
+    // text alphabetically would answer true.
+  },
+  {
+    name: "at most over a text is refused",
+    group: "refused-types-do-not-meet",
+    from: L.opAtMost,
+    claim: C.opAtMost,
+    formula: '{name} <= "b"',
+    shape: MIXED,
+    values: { name: text("a") },
+    expected: refused("check", "types-do-not-meet", ["name", "text"]),
+  },
+  {
+    name: "more than over a boolean is refused",
+    group: "refused-types-do-not-meet",
+    from: L.opMore,
+    claim: C.opMore,
+    formula: "{flag} > false",
+    shape: MIXED,
+    values: { flag: bool(true) },
+    expected: refused("check", "types-do-not-meet", ["flag", "boolean"]),
+  },
+  {
+    name: "at least over a list is refused",
+    group: "refused-types-do-not-meet",
+    from: L.opAtLeast,
+    claim: C.opAtLeast,
+    formula: "{tags} >= {scores}",
+    shape: MIXED,
+    values: {},
+    expected: refused("check", "types-do-not-meet", ["tags", "list"]),
+  },
+  {
+    name: "an instant asked whether it is after another is refused",
+    group: "refused-types-do-not-meet",
+    from: L.valueInstant,
+    claim: C.valueInstant,
+    formula: "{start} > {finish}",
+    shape: MIXED,
+    values: {},
+    expected: refused("check", "instant-read-outside-a-function", ["instant"]),
+    // The plainest way to ask which of two instants is later, and there is no
+    // route to it: an operator is not a function taking an instant.
+  },
 ]

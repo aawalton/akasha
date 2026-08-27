@@ -377,4 +377,103 @@ export const functions: FormulaCase[] = [
     values: { name: text("the cat sat") },
     expected: refused("read", "unreadable"),
   },
+  {
+    name: "hours between two instants with the later one first is not negative",
+    group: "functions",
+    from: L.fnHoursBetween,
+    claim: C.fnHoursBetween,
+    formula: call("hoursBetween", "{finish}", "{start}"),
+    shape: MIXED,
+    values: {
+      start: instant("2026-01-01T00:00:00Z"),
+      finish: instant("2026-01-01T05:00:00Z"),
+    },
+    expected: answersNumber(5),
+    // The later instant stands first. A signed implementation answers -5 here
+    // and passes every other hours-between case in this corpus.
+  },
+  {
+    name: "hours between with the later one first, fractional",
+    group: "functions",
+    from: L.fnHoursBetween,
+    claim: C.fnHoursBetween,
+    formula: call("hoursBetween", "{finish}", "{start}"),
+    shape: MIXED,
+    values: {
+      start: instant("2026-01-01T00:00:00Z"),
+      finish: instant("2026-01-01T01:30:00Z"),
+    },
+    expected: answersNumber(1.5),
+  },
+  {
+    name: "hours between answers the same whichever instant is given first",
+    group: "functions",
+    from: L.fnHoursBetween,
+    claim: C.fnHoursBetween,
+    formula: `${call("hoursBetween", "{start}", "{finish}")} == ${call("hoursBetween", "{finish}", "{start}")}`,
+    shape: MIXED,
+    values: {
+      start: instant("2026-01-01T00:00:00Z"),
+      finish: instant("2026-01-01T05:00:00Z"),
+    },
+    expected: answersBoolean(true),
+    // This closes the last route to an order. An instant may be read only by a
+    // function taking one, so no operator compares two; this is the only
+    // function taking two, and it discards which came first. Nothing in the
+    // language answers whether one instant is after another.
+  },
+  {
+    name: "has word folds the case of the text",
+    group: "functions",
+    from: L.fnHasWord,
+    claim: C.fnHasWord,
+    formula: call("hasWord", '"Green fields"', '"green"'),
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(true),
+  },
+  {
+    name: "has word folds the case of the word",
+    group: "functions",
+    from: L.fnHasWord,
+    claim: C.fnHasWord,
+    formula: call("hasWord", '"green fields"', '"GREEN"'),
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(true),
+  },
+  {
+    name: "a hyphen bounds a word",
+    group: "functions",
+    from: L.fnHasWord,
+    claim: C.fnHasWord,
+    formula: call("hasWord", '"A-green-B"', '"green"'),
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(true),
+    // A hyphen is neither a letter nor a digit, so it bounds. A word bounded
+    // by spaces alone would not be found here.
+  },
+  {
+    name: "an underscore bounds a word",
+    group: "functions",
+    from: L.fnHasWord,
+    claim: C.fnHasWord,
+    formula: call("hasWord", '"a_green_b"', '"green"'),
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(true),
+    // An underscore is neither a letter nor a digit either, though a language
+    // counting it as a word character would answer false.
+  },
+  {
+    name: "a digit does not bound a word",
+    group: "functions",
+    from: L.fnHasWord,
+    claim: C.fnHasWord,
+    formula: call("hasWord", '"green9 fields"', '"green"'),
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(false),
+  },
 ]
