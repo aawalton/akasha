@@ -1,0 +1,131 @@
+---
+id: 8a4dbc26-89ca-5da9-94b9-e0e557788ce8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 870 - Mid Pristine"
+slug: 0198-chapter-870-mid-pristine
+partOf: hell-difficulty-tutorial
+position: 198
+ownLength: 2316
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3874051/chapter-870-mid-pristine"
+royalRoadId: "3874051"
+---
+
+"You want to trade your baby ferret for a dagger? You think I’m dumb? If I accept, the ferret will just escape and return to you in a few days." I stare at Tacita, who, at the last sentence, breaks eye contact and looks to the side.
+
+With a sigh, I look at the ferret as it yawns once again and simply hangs there in Tacita's hands. As the assassin girl moves closer, as if trying to push me into making the deal, the ferret flops around like a wet noodle.
+
+"I think that’s what she actually wanted," Tess agrees with me.
+
+"Talk to her, make it a better deal for me," I tell her.
+
+"I can't. She’s only really friends with Lily, if I get too close or push her too much, she will stab me."
+
+Not surprised by that answer at all, I don’t press the issue, and looking at Tacita, I shake my head in refusal.
+
+So, instead, she moves closer and sits on the ground near us, placing the ferret on the floor, where it looks around curiously before jumping around in that cute way ferrets do.
+
+Tacita, meanwhile, takes a piece of beautiful, plush red square cloth from her bag and puts it on the ground in front of her. Then, like some sort of magpie, she starts hunting for items in her backpack and draws even more from the many, many hidden pockets all over her outfit.
+
+She lays five daggers on the impromptu sales mat. Three of them, each made of different metal and shape, and two of them are made of crystal. She puts out a brooch, multiple mana stones, some of them serving as data storage, and she takes off a really thin bracelet, one ring, and one earring, each of which I identify as goddamn low pristine items.
+
+She ends up showing off a lot of stuff. It isn't a massive volume, but there are plenty of small, valuable items, and most of them are pretty shiny and nice.
+
+In the end, she also points at the key on her forearm that allows for passage to the 6th floor of Beyond, the same one as I have on my right forearm.
+
+Looking all of this over, I glance at the dagger in my hand and reread the description. I even let Tess check it, watching how her eyes widen.
+
+Veto (Mid Pristine) - Extremely sharp and near unbreakable, designed specifically to neutralize high-level threats, the blade emits a constant, soft red luminescence. When Veto punctures an enemy, it targets their active skills and locks down the last used skill. The target is prevented from casting or activating that specific skill until the effect wears off.
+
+The ability is ridiculous, honestly. Sure, I can do similar stuff with disruption, but there are skills even I can’t disrupt if they’re activated within a natural barrier.
+
+Taking into consideration the fact that it’s mid pristine, which should be the highest possible rarity to get while inside of the tutorial, and even then only in Beyond, during a Beyond quest, or with an extreme amount of luck, it’s easy to see how valuable it is.
+
+Hell, if I wanted, I could sell it now for 7 million shards. Crafted items sell for 50 percent of their shop value, while items gained on the floors only sell for 10 to 20 percent. This means the dagger’s probably worth 35 million shards or something, just as ridiculous if I wanted to buy it from the shop.
+
+Well, if mid pristine stuff were available in the system shop.
+
+And I strongly suspect one thing, even though I haven’t tested it yet. I think Veto can be stacked multiple times. It would likely allow one to lock down multiple active skills.
+
+Getting a grasp of system bullshittery and how these things work, I think the first skill is blocked for the longest. Likely minutes, or more likely seconds if your opponent were exceptionally powerful, and each blocked skill beyond that probably decreases the duration. But hell, even blocking a particularly important skill for 5 seconds could easily mean a very quick death in that level of fight.
+
+Lastly, it’s mid pristine… I really still think that low pristine items are meant for people at the brink of being Champions or fresh Champions. Proper Champions get mid pristine, and more powerful ones upper pristine items. So, though the description might not sound like it, the rarity alone makes it scary. The system likes to do things like that. A simple description that might even be copy-pasted over a few different rarities, while the rarity represents a drastic difference in strength.
+
+In the hands of someone as fast as Tacita, this dagger would be… terrifying, truly terrifying.
+
+Watching her intently, I hold the dagger and outstretch my hand toward Tacita to let her read the description. I watch her eyes move from left to right multiple times, and similar to Tess, they widen.
+
+The baby ferret meanwhile jumps over to us, climbs on my leg, and climbs up to my neck, where it presses against the skin over my collarbone. For a moment, I feel its tiny cold tongue and then warm breath.
+
+Still looking at Tacita, I reach out with one of my hands and pet the ferret. Tess doesn’t even try to help, instead, she sits there and watches it all curiously. Though I suspect she already knows how this might end.
+
+Weighing the dagger in my hand, I think things over once again.
+
+Of course, I want to keep it. It’s just that amazing, and even if I didn’t actively switch my fighting style to match it, there are things I could probably learn from its effects. I already planned on stabbing myself to see how this particular skill lock works and if I could learn to defend myself against it, and I don’t think I’d give it out to anyone until I had a chance to experiment with it properly.
+
+Still, I hate relying on items. I don’t want to change the way I fight, and I want to do these sorts of disruptions and skill lockings with my abilities only.
+
+So, give it to Dennis? That could work, his preferred weapon is a combination of a dagger and a short sword. Or maybe I could hand it off to Tess and tie the dagger to some kind of shaft and turn it into a javelin. The problem remains: the sort of danger it would bring to anyone holding it. I could easily imagine a Champion killing either one of them just to get their hands on it. It’s just too valuable to go unnoticed. Even the crystal currently embedded in Dennis’s forehead is low pristine and presents a risk all its own.
+
+Meanwhile, Tacita? I can imagine that lunatic getting away, even from a Champion if she wanted. I can also imagine her going unnoticed, and I can easily imagine her stabbing someone ten times before they even had a chance to notice, and blocking all of their active skills.
+
+But I just keep coming back to the thought of just how great a match she and Veto are.
+
+"Okay. Let's do it like this," I say, and pull the dagger back while scooping up the ferret and keeping my fingers moving so it can continue to attack them playfully.
+
+Tacita fixes her sitting position and listens carefully, her eyes peeking from behind her messy brown hair.
+
+"I want to experiment with the dagger, so I’ll keep it until the end of this floor. A week or two should be plenty of time, and if the floor continues for a month or so, I’ll keep it for a month."
+
+I pause, and she sits there, the most motionless I have ever seen her.
+
+"After that, I will lend this dagger to you. Not give. Lend." I emphasize that word. "If I ask, you will return it to me at any time and without complaints."
+
+When I look at her questioningly, she nods seriously.
+
+So I continue, "I do not want your items in exchange. You will owe me, you’ll owe me a lot. But you know me, I won't be too unreasonable when I come to collect. I also want you to promise that you will never use it against me or anyone belonging to me. Not even if you have a falling out with that person, or if they hurt you. You will never lift that dagger against anyone I consider to be with me."
+
+Tacita seems to get it, but I don’t think it’s enough, so my words become flatter and colder as I look into her eyes. "I really mean it. If you ever lift this dagger against someone like that, I will kill you."
+
+I do not threaten her further, and we look at each other in silence until she simply smiles and nods.
+
+Tacita then points at the dagger, likely wanting to look at it for now, so I hand it to her. She takes it as carefully as a mother with her baby and turns and twists it, watching how the light reflects through the glow of the dagger’s blade. She swings with it, testing its weight, and at one point even sets it next to the other daggers and compares them.
+
+Meanwhile, I grab the ferret with the fingers of both hands and lift it up in front of my eyes. The tiny creature has incredibly soft fur, and its body is surprisingly warm, and I can even feel taut muscle under its skin.
+
+I shake it, but the ferret does not seem to mind, flopping around.
+
+"Biscuit would be so happy to see you. I know you likely have nothing to do with that evil spawn of Satan ferret that saved Izzy, but you’ll probably end up looking similar. I wouldn’t be surprised if you were the same species," I say, talking to it softly and watching as the ferret nibbles on my finger, surprisingly controlling itself well enough that it doesn’t even draw blood.
+
+"I wonder," I say. "You for sure aren't native to the floor, as the tutorial wouldn't have allowed you to move over. So maybe you were some sort of floor reward? An egg Tacita bought from the system shop?" I continue to swing with it, and slowly it begins to yawn, its eyes closing even as the tiny creature fights hard to keep them open.
+
+As always, these sorts of thoughts make me wonder about what sorts of interesting adventures everyone else must have been having. Like Victoria’s meeting with the Last Elf, Tacita, and Savant, both clearing the floors on their own, and everyone else besides. In the end, I am not the only one having twisted floors like this.
+
+When a shadow falls over me, I look up to see Tacita carefully placing the dagger nearby. She stretches out her hands and gently picks up the sleeping baby ferret while still being very careful not to touch me, then she tucks it inside her jacket.
+
+The three of us wait, and I occasionally open the community to see how the conversation is trending. People there have mostly been theorizing about what the floor quest is going to be, with most seeming to think that we’ll probably end up being instantly moved to the next floor with reduced rewards. Most of all, the Easy difficulty guys seem to be excited, they’ve been talking to people from Hell. Now that they’ve found out that they’re safe inside their barriers, they don’t seem overly stressed.
+
+Though I wonder what they’d think of the wyvern's domain covering the planet. And I wonder what they would have thought then, knowing that the wyvern is at least as powerful as most of the Rulers, even a few of the weaker ones combined. Didn't someone say it was as strong as the average dragon?
+
+These people would probably be more scared after reading the message from Diligence stating that he means to speak with said Wyvern, especially since it could very well turn into a fight.
+
+So far, I think the ant is just stalling, waiting for the other Rulers to come help in case they’re needed, but that brings its own risks too. Liss gets time to find whatever she’s searching for in the Labyrinth of Xyphos, and the one winged wyvern will strengthen its domain’s hold over Xyphos.
+
+Yet, in the end, things still don’t seem as bad as I thought they might be as I read the notifications that appear.
+
+Floor Quest:
+
+Either on your own or with the cooperation of the Corporations present, lead Easy and Normal difficulty participants to safe zones of your own creation. Protect them and gather water for them.
+
+Easy and Normal difficulty participants are too weak for this setting and have been thrown into this through no fault of their own, the same as most of you present.
+
+Even if they’re not as powerful as attendees from Hell difficulty, the lower difficulty participants are important members of your First Generation. While this was not intended to happen, use the opportunity to share some of your knowledge and experience with them over the following weeks, as the situation changes.
+
+It is currently impossible to move you to the next floor due to the domain enveloping the planet.
+
+A subsystem will run in the background, and if your preparations to move lower difficulty participants to a safe space are considered inadequate, they won't be able to leave the safety of their barriers.
+
+As the Corporations present are stuck here as well, they are allowed to contact and trade with the attendees. A strong warning is in place for attendees to be careful with any such trades.
+
+- Temporary Floor Quest given by the Ruler of Diligence.
