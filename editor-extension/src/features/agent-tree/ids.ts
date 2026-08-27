@@ -23,11 +23,17 @@ export const RUN_RESET_COMMAND = 'opsAgentTree.runReset';
 export const COPY_SEAT_NAME_COMMAND = 'opsAgentTree.copySeatName';
 
 /**
- * Seats turn over on the order of minutes — a seat is spawned, works and stops —
- * so a slower tick than the status bar's costs nothing in how live the tree
- * feels and spends far less on a query nobody is watching change.
+ * The floor under this panel's watchers.
+ *
+ * NOT THE LIVENESS PATH, which is `SEAT_SETTLE_MS` below: a seat stamp re-reads the tree within
+ * that. What this interval bounds is how long a MISSED event goes on being wrong, a watcher that
+ * has stopped delivering being the case it covers and one that happens.
+ *
+ * A SECOND, BECAUSE THE READ IS CHEAP. `agent-forest` is measured at 0.03s over the whole fleet,
+ * so this floor costs about three hundredths of a core and the panel recovers from a lost event
+ * in a second rather than in ten.
  */
-export const POLL_INTERVAL_MS = 10_000;
+export const POLL_INTERVAL_MS = 1_000;
 
 /**
  * How long a burst of seat stamps is allowed to settle before the tree is re-read.
