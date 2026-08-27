@@ -6,7 +6,7 @@ import { git } from "../../../repo/git/git.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../../repo/land/land.ts"
 import { decodeUtf8, leadingBytes } from "../../../utf8-body/utf8-body.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../../../patches/command/address.ts"
-import { fail, valueOf } from "../../../patches/command/patch.ts"
+import { fail, valueOf } from "../../../patches/patch.ts"
 
 const REPO = "--repo"
 

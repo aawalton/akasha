@@ -16,7 +16,7 @@ import { carryReadingsBy, type Moved, recordReadBy } from "../../agent/record-re
 import { writerId } from "../../agent/writer.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { indexAfterLanding, bodiesBefore } from "./landing.ts"
-import { GATED, gateOrRefuse, patchText } from "../../patches/command/patch.ts"
+import { GATED, gateOrRefuse, patchText } from "../../patches/patch.ts"
 import { blobId, commitPaths, gitAskingPaths, gitIgnoring, whileHoldingLanding } from "../git/git.ts"
 import { canonicalize } from "../path/path.ts"
 import { handOffPush, pushStandingLines } from "../push/push.ts"

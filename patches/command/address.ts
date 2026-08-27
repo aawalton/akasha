@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
 import { outOfBounds } from "../../repo/path/path.ts"
 import { locate, rootsHere } from "../../repo/roots/roots.ts"
-import { fail, valueOf } from "./patch.ts"
+import { fail, valueOf } from "../patch.ts"
 
 const REPO = "--repo"
 

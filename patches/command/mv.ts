@@ -33,7 +33,7 @@ import {
   REPO,
   TO,
 } from "./mv-help.ts"
-import { fail, payloadText, valueOf } from "./patch.ts"
+import { fail, payloadText, valueOf } from "../patch.ts"
 
 const VALUE_FLAGS = [FROM, TO, REPO, MESSAGE, MESSAGE_FILE, INPUT_FILE]
 
