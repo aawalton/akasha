@@ -8,7 +8,7 @@ domain-slug: domain/global
 
 # Claim
 
-A memory-repo commit records no agent identity, so a section of a project document cannot be attributed to whoever wrote it. Every commit carries the same human name whatever seat made it, and the default message form carries no trailer either.
+A commit records no agent identity, so a section of a document cannot be attributed to whoever wrote it. Every commit carries the same name whatever seat made it, and the default message form carries no trailer either.
 
 This matters where a document names its author in its own text. A lead's verification and a delegate's account of its own work are the same kind of claim in the same place, distinguished only by a heading — which is exactly what nothing can check.
 
@@ -23,3 +23,5 @@ What cannot be established is who wrote it. The two commits that introduced it, 
 That is the default message form, carrying no agent trailer. Every other commit on the file carries the same author. Several seats on the `amy` handle were live at the time alongside the delivering developer seat, so the section may have been written by another amy — legitimate — or by the delegate whose work it purports to verify, which would make a self-report indistinguishable from a lead's check. The record cannot tell the two apart, and the developer seat is stopped, so it cannot be asked.
 
 Commits from the same seats in the code repository DO carry an `Agent: <name>` trailer, so the identity exists and is simply not recorded on this path.
+
+That last sentence no longer holds, and the claim above it holds harder for it. Re-measured 2026-08-27 in akasha, which absorbed both the memory and code repositories: no `Agent:` trailer appears on any of the last 300 commits. The author is no longer a human name — `agent/commit-author.ts:76` resolves the writer's persona and falls back to a default — but over the last 200 commits that resolves to `Claude` 198 times, once to `Astra` and once to `Alan Walton`. `Claude` is the default persona, which personifies nothing, so the seat that wrote a section is still not on the record anywhere.
