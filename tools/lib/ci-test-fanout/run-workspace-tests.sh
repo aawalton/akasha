@@ -48,17 +48,16 @@ run_bun_test_gated() {
   files="$(cat)"
   [ -z "$files" ] && return 0
 
-  local out rc
+  local out rc expected
+  expected="$(printf '%s\n' "$files" | grep -c . || true)"
   out="$(mktemp)"
   set +e
   printf '%s\n' "$files" | xargs bun test "${BUN_TEST_ARGS[@]}" 2>&1 | tee "$out" |
     tag_producer_lines
   rc="${PIPESTATUS[1]}"
-  if [ "$rc" -ne 0 ]; then
-    bun "${LIB_DIR}/gate-bun-exit.ts" \
-      --exit-code "$rc" --output-file "$out"
-    rc="$?"
-  fi
+  bun "${LIB_DIR}/gate-bun-exit.ts" \
+    --exit-code "$rc" --output-file "$out" --expected-files "$expected"
+  rc="$?"
   set -e
   rm -f "$out"
   if [ "$rc" -eq 75 ] && [ -n "${CRASH_LIST_FILE:-}" ]; then

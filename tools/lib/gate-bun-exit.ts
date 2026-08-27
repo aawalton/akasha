@@ -38,6 +38,23 @@ export function parseBunSummary(output: string): ParsedSummary {
 
 export const CRASH_EXIT_CODE = 75
 
+export const UNDER_RAN_EXIT_CODE = 76
+
+export interface UnderRunReport {
+  readonly expected: number
+  readonly ran: number | null
+}
+
+export function underRanReport(
+  output: string,
+  expectedFiles: number | null
+): UnderRunReport | null {
+  if (expectedFiles === null || expectedFiles <= 0) return null
+  const { filesRan } = parseBunSummary(output)
+  if (filesRan !== null && filesRan >= expectedFiles) return null
+  return { expected: expectedFiles, ran: filesRan }
+}
+
 export const XARGS_SIGNAL_EXIT = 125
 
 export type RunVerdict = "pass" | "fail" | "crash"
@@ -58,11 +75,13 @@ export function decideGatedExit(input: GateInput): number {
 interface CliArgs {
   readonly exitCode: number
   readonly outputFile: string
+  readonly expectedFiles: number | null
 }
 
 function parseArgs(argv: readonly string[]): CliArgs {
   let exitCode: number | null = null
   let outputFile: string | null = null
+  let expectedFiles: number | null = null
 
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i]
@@ -75,6 +94,10 @@ function parseArgs(argv: readonly string[]): CliArgs {
       outputFile = argv[++i] ?? null
     } else if (arg.startsWith("--output-file=")) {
       outputFile = arg.slice("--output-file=".length)
+    } else if (arg === "--expected-files") {
+      expectedFiles = Number.parseInt(argv[++i] ?? "", 10)
+    } else if (arg.startsWith("--expected-files=")) {
+      expectedFiles = Number.parseInt(arg.slice("--expected-files=".length), 10)
     } else {
       console.error(`${PREFIX} unknown argument: ${arg}`)
       process.exit(1)
@@ -90,7 +113,12 @@ function parseArgs(argv: readonly string[]): CliArgs {
     process.exit(1)
   }
 
-  return { exitCode, outputFile }
+  if (expectedFiles !== null && !Number.isFinite(expectedFiles)) {
+    console.error(`${PREFIX} invalid --expected-files <n>`)
+    process.exit(1)
+  }
+
+  return { exitCode, outputFile, expectedFiles }
 }
 
 export function main(argv: readonly string[]): undefined {
@@ -106,6 +134,16 @@ export function main(argv: readonly string[]): undefined {
   const output = readFileSync(args.outputFile, "utf8")
   const verdict = classifyRun({ bunExitCode: args.exitCode, output })
   if (verdict === "pass") {
+    const shortfall = underRanReport(output, args.expectedFiles)
+    if (shortfall !== null) {
+      const ran = shortfall.ran === null ? "NO summary at all" : `only ${shortfall.ran} file(s)`
+      console.error(
+        `${PREFIX} bun exited ${args.exitCode} reporting ${ran} where ${shortfall.expected} ` +
+          `test file(s) were handed to it; a run that did not execute what it was given has no ` +
+          `verdict to report, so this is refused (exit ${UNDER_RAN_EXIT_CODE}) rather than read as green`
+      )
+      process.exit(UNDER_RAN_EXIT_CODE)
+    }
     if (args.exitCode !== 0) {
       console.error(
         `${PREFIX} bun exited ${args.exitCode} after a GREEN run (0 fail); ` +
