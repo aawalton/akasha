@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { GRANDFATHERED_FILES, isGrandfathered } from "./check-client-page-access-boundary.ts"
 
-const USE_TEMPER_IMPORT = "packages/temper/web/app/components/import/use-temper-import.ts"
+const USE_TEMPER_IMPORT = "temper/web/app/components/import/use-temper-import.ts"
 
 describe("client-page-access allowlist — empty + enforcing (#8847 resolved)", () => {
   test("the allowlist is empty — zero grandfathering", () => {
@@ -14,7 +14,7 @@ describe("client-page-access allowlist — empty + enforcing (#8847 resolved)", 
 
   test("an arbitrary browser file is NOT grandfathered", () => {
     expect(
-      isGrandfathered("packages/temper/web/app/components/characters/characters-data-content.tsx")
+      isGrandfathered("temper/web/app/components/characters/characters-data-content.tsx")
     ).toBe(false)
   })
 })
