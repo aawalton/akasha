@@ -1,0 +1,22 @@
+---
+pageType: story-wiki
+slug: the-fall-first-cull
+title: The Fall (First Cull)
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 2
+kind: seed
+---
+**The Fall / First Cull** — the world-ending event that opens the story, at the System's descent (~4:51 AM).
+
+**The assessment and the numbers.** The System declared assessment complete: 99.4% of assessed lifeforms did not meet the threshold for Ascension; only 0.6% ascended.
+
+**Instant death of the unascended.** Those who failed died *instantly* at assessment — no wound, no struggle. They simply ceased to hold themselves up (Devon "dropped the way a marionette drops when you let go of the strings"; soft impacts sounded all over the hospital and the city — "the sound of a species being switched off"). Resuscitation cannot reverse it: "Resuscitation will not restore an unascended subject. This is not a wound. There is nothing to repair."
+
+**The 60-minute clearing.** A countdown began: "Culling will **complete** in: 00:60:00 — the unascended will be cleared." Over the hour the System progressively *subtracted* the dead — bodies thinning out and clearing "the way a breath fogs and clears on glass," leaving ozone behind (a man over a bus wheel; a woman on a bench whose oranges kept being real after she was not). Not violent — "tidying," reclaiming the unascended "like a machine reclaiming storage," on schedule. (Two-process model: instant death-at-assessment, then the hour-long clearing/deadline. Wording reconciled to shipped Ch.1 — "complete," not "commence.")
+
+**Where the dead actually went (Ch.2 payoff).** The "thinning to ozone" was not annihilation — it was the System moving the dead into **inventory**. Not all the culled were tidied cleanly; some were swept down to the Tower's root and *eaten and worn* by the Floor-1 trial. The bus-wheel man and the oranges woman ended up in the Ash-Glutton's bone-plate armor. This is the literal meaning of Ch.1's "the Tower keeps what you cannot" (see *The Harvest & the Conversion*).
+
+**The dead city.** The city folded away along impossible seams as the Tower rose — streets, cars, and traffic lights intact but emptying, everything leaning toward the Tower under the wrong-gravity tide. Nimue names her view of it "the dead city."
+
+**The price of standing still — "engage, or be cleared."** The ascended learned the rule fast: those who chose each other and false comfort (a knot huddling around a parked car) rather than moving toward the Tower were marked to be cleared when the count hit zero. Forward, toward the Tower, was the only verb the System left. Nimue files her survivor's guilt "behind the engine" and lets it push her onward.

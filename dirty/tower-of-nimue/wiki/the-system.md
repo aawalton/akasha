@@ -1,0 +1,20 @@
+---
+pageType: story-wiki
+slug: the-system
+title: The System
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 2
+kind: system
+---
+**The System** — a non-human intelligence that "descended" over the city at ~4:51 AM with the announcement: "THE SYSTEM HAS DESCENDED. Assessment of local lifeforms is complete."
+
+**Interface.** Communicates via flat blue-white text that hangs at the exact focal distance of the viewer's eye — a color that emits no light and casts no glow, in a font "never once written by a hand." Notifications are printed "on the inside of the eye"; the culling countdown tracks with head movement and cannot be blinked away. Each individual sees only their own interface.
+
+**Defining nature — indifferent scorer, not malicious.** It does not hate or gloat. Its notes are *informative*: it told Nimue, helpfully, that resuscitation would not restore an unascended subject the way it would hand over useful data. It "measured" Devon, found a number too low, and tidied him away without cruelty. It scores continuously — every reflex is data on the way to deciding a subject's worth ("Note: subject engaged a Tier 0 hostile prior to Ascension. This is unusual. This has been recorded."; on Floor 1: "cleared by precision, not attrition. Recorded."). Nimue understands she is "a number being refined."
+
+**The indifference has a concrete expression (Ch.2).** The same machinery that culled the dead *feeds them into the trials* — the System threads and converts the unascended into the floor-creatures that kill the next living climber. Its cruelty is not malice; it is a closed loop that wastes nothing (see *The Harvest & the Conversion*).
+
+**Vocabulary established (Ch.1–2).** *Ascension / ascended* (the 0.6% who pass), *unascended / cull* (the 99.4% who fail and are cleared), *harvester / harvest* (Nimue, and the act of taking essence from a slain trial), *essence* (yielded by surviving trials), *Floor Spawn*, *Threshold Warden*, *Tier 0 hostile*, *weak point*, *Read*.
+
+**At a threshold/kill it changes register — from narrating to asking/offering.** At the Floor-1 entry it reviewed the subject's first hour and kept one reflex as "the first shard of you that the Tower cannot take — your foundation." At a trial's death it offers the **Harvest**: "The slain holds essence. What it was can become what you are." (The System's framing only; the reader's choices are committed on the build/decision log, not in this wiki.)

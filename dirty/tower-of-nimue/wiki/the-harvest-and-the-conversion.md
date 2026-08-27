@@ -1,0 +1,18 @@
+---
+pageType: story-wiki
+slug: the-harvest-and-the-conversion
+title: "The Harvest & the Conversion (The Dead Are Inventory)"
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 2
+kind: system
+---
+**The Harvest & the Conversion ("The Dead Are Inventory")** — the Tower's core mechanic, revealed to Nimue on Floor 1. (Narrative/world-fact canon only; the essence economy and per-option mechanical effects live on the story-build, the manager's domain.)
+
+**The Conversion — how the Tower grows its trials.** The Tower does not merely let monsters eat the dead; it **converts** them. Nimue's Open Eye traced, through the dying Ash-Glutton, a fine bright **thread of System blue-white** running root-to-crust — the machinery (neither biology nor magic, but *System*) that had threaded through dropped unascended bodies and turned them into bone-plate, stolen heat, and bulk. The dead it culls become the floors; the floors kill the ascended; whatever survives climbs one ring to meet the next thing grown from the next city's dead. **"The dead were not waste to the System. They were inventory."** Nothing the Tower takes is ever truly gone — "it was only waiting to be made into the next reason somebody died." This is the literal meaning of Ch.1's "the Tower keeps what you cannot." Implication Nimue grasps: a hundred floors = a hundred trials grown from a hundred slaughters.
+
+**The unique sight.** Because Nimue reached for the interface in her worst hour and made the analytical Eye her foundation, the conversion-thread was shown to *her alone* — "no other climber on any other floor would ever be shown" it. Her chosen foundation cracked a door into the Tower's machinery that ordinary climbers cannot even see is there.
+
+**The Harvest — the offer at a trial's death.** When a trial dies the System stops confirming and *offers*: "HARVEST. The slain holds essence. What it was can become what you are. Reach into the [slain] and take one piece of it into yourself. What you take is yours until you trade it away. What you trade away is gone. This is the first you will carry that was never human."
+
+**The thematic weight (narrative).** To harvest is to make a monster a permanent tenant of one's flesh — an irreversible trade of self for the power to keep climbing, the start of a "chimera" arc in which the human and the inhuman mix until one can no longer fully tell which parts are one's own. For Nimue the first Harvest is doubled in horror because the Ash-Glutton is built from her own culled neighbors: to reach in is, in the same motion, to *desecrate* the dead of her city and to *refuse to let the Tower be the only thing that keeps them* — and she cannot tell which, or whether the difference exists. The Floor-1 carcass offered four pieces (the bone-crust/armor; the ash-cough/breath; the Gorge's devouring hunger; and a fourth thread-**reading** offered to her Eye alone). The chapter ends on this decision, unresolved — the reader's to make, the manager's to commit.

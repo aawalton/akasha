@@ -1,0 +1,12 @@
+---
+pageType: story-wiki
+slug: marcus
+title: Marcus
+bodyField: content
+story: tower-of-nimue
+chapterNumber: 1
+kind: character
+---
+**Marcus** — a boy of about nine with a cast on one arm, a patient in room 218 (a four-bed bay) at St. Brigid's. One of the 0.6% ascended; the three other patients in his bay were unascended and dead.
+
+A Threshold Warden came through the vanished window hunting him by sound. Nimue put her body between them and killed the warden with a torn-free IV pole. Marcus sobbed into the front of her scrubs, gave her his name, and — at her order — ran for the south stairwell to find the nurse Priya and get out, told not to stop for anyone who wasn't moving. Last seen alive, leaving the hospital. (Recurrence potential — flag if he reappears.)
