@@ -352,14 +352,11 @@ function render(reading: Reading): readonly string[] {
 
 export default async function codeEditorColor(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  // The pages a color is stated on and the verbs the surfaces run both stand in akasha. The
-  // instructions checkout is still named because the tools tree is moving out of it and a verb
-  // may stand on either side of that move, which is the pair the editor itself resolves over.
+  // The pages a color is stated on and the verbs the surfaces run both stand in akasha.
   const akasha = akashaRoot()
-  const instructions = resolveRoots("instructions").instructions
   const states = statesIn(akasha)
   const surfaces = surfacesIn(akasha)
-  const shipped = shippedIn([akasha, instructions])
+  const shipped = shippedIn([akasha])
   const reading: Reading = {
     states,
     palette: paletteIn(akasha),

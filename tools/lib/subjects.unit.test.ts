@@ -15,7 +15,7 @@ const TYPE_OF: Readonly<Record<Exclude<Subject, "domains">, string>> = {
 }
 
 function repoNaming(slug: string): string {
-  const roots = { ...resolveRoots(), instructions: ROOT }
+  const roots = { ...resolveRoots(), akasha: ROOT }
   const type = registryOf(diskFileTree(roots)).find((one) => one.slug === slug)
   const repo = type === undefined ? null : soleRepoOf(type)
   if (repo === null) throw new Error(`no page type \`${slug}\` states where its files stand`)
@@ -26,7 +26,7 @@ test("every subject reads from the repo its page type names, not the one asking"
   for (const subject of SUBJECTS) {
     if (subject === "domains") continue
     const repo = repoNaming(TYPE_OF[subject])
-    const roots = { ...resolveRoots(), instructions: ROOT } as unknown as Record<string, string>
+    const roots = { ...resolveRoots(), akasha: ROOT } as unknown as Record<string, string>
     expect(readSubject(ROOT, subject).root).toBe(roots[repo]!)
   }
 })

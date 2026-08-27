@@ -77,7 +77,7 @@ export function markedFrontmatter(text: string, marks: Marks): MarkedText {
 
 function uncommittedKeysOnAccounts(root: string): ReadonlySet<string> {
   try {
-    return uncommittedKeysFor(diskFileTree({ ...resolveRoots(), instructions: root }), PAGE_TYPE)
+    return uncommittedKeysFor(diskFileTree({ ...resolveRoots(), akasha: root }), PAGE_TYPE)
   } catch {
     return new Set<string>()
   }

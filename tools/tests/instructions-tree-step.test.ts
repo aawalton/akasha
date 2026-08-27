@@ -67,7 +67,7 @@ describe("the instructions tree step stands up a tree that runs", () => {
   })
 
   test("the probe the step runs from the tree is a file the tree carries", () => {
-    expect(existsSync(`${resolveRoots().instructions}/${DEPENDENCIES_PROBE}`)).toBe(true)
+    expect(existsSync(`${resolveRoots().akasha}/${DEPENDENCIES_PROBE}`)).toBe(true)
   })
 
   test("the step asks bun for the cache the node keeps rather than the pod's own", () => {

@@ -128,7 +128,7 @@ const MEMBERSHIP_BECAUSE =
 function main(): never {
   const trees = [
     { repo: "code", root: realpathSync(getRepoRoot()) },
-    { repo: "instructions", root: realpathSync(resolveRoots().instructions) },
+    { repo: "akasha", root: realpathSync(resolveRoots().akasha) },
   ]
 
   const sited: Sited[] = []

@@ -180,7 +180,7 @@ const TYPE_OF: Readonly<Record<Subject, string>> = {
 
 function homeOf(root: string, subject: Subject, what: string): Home {
   const slug = TYPE_OF[subject]
-  const roots: Roots = { ...resolveRoots(), instructions: root }
+  const roots: Roots = { ...resolveRoots(), akasha: root }
   const type = registryOf(diskFileTree(roots)).find((one) => one.slug === slug)
   const repo = type === undefined ? null : soleRepoOf(type)
   if (type === undefined || repo === null) {

@@ -11,7 +11,7 @@ export function noticeFor(agent: string, root: string): string | null {
   if (attributes === null) return null
   const standing = seatStanding({ agent, root })
   if (standing.refusals.length === 0 && standing.notices.length === 0) return null
-  const owed = namedOwed(standing.owed, { ...resolveRoots(), instructions: root })
+  const owed = namedOwed(standing.owed, { ...resolveRoots(), akasha: root })
   if (owed.length === 0) return null
   const said = ATTRIBUTES.flatMap((key) => {
     const one = attributes[key]

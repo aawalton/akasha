@@ -25,8 +25,8 @@ beforeEach(() => {
 
 const nowhere = "/nonexistent"
 const view: RepoView = {
-  roots: { instructions: root, code: nowhere, memory: nowhere, books: nowhere, stories: nowhere, "code-editor": nowhere, target: "instructions" },
-  name: "instructions",
+  roots: { akasha: root, code: nowhere, memory: nowhere, books: nowhere, stories: nowhere, "code-editor": nowhere, target: "akasha" },
+  name: "akasha",
   documents: [],
   read: () => "",
   exists: () => false,
@@ -36,7 +36,7 @@ const document = (holes: readonly string[]): string =>
   `---\nholes:\n${holes.map((h) => `  - ${h}\n`).join("")}---\n\n# Refusal\n\n${holes.map((h) => `{${h}}`).join(" ")}\n`
 
 const printer = (values: string): string =>
-  `export const g = (s) => refusalText("slug-stem", ${values}, s.roots.instructions, s.read)\n`
+  `export const g = (s) => refusalText("slug-stem", ${values}, s.roots.akasha, s.read)\n`
 
 const pair = (holes: readonly string[], values: string): void => {
   put("pages/refusal/slug-stem.refusal.md", document(holes))

@@ -35,7 +35,7 @@ export function roleOnCallStated(instructions: string, slug: string | null): boo
 }
 
 export function roleOnCallOf(agent: string): boolean {
-  const where = resolveRoots("instructions").instructions
+  const where = resolveRoots().akasha
   return roleOnCallStated(where, pageTextOf(agent, ROLE_SLUG_KEY))
 }
 

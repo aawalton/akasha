@@ -16,7 +16,7 @@ export function codeRefKind(ref: string): CodeRefKind {
 
 function besideCode(): readonly string[] {
   const roots = resolveRoots()
-  return [roots.akasha, roots.instructions].filter((one): one is string => typeof one === "string")
+  return [roots.akasha].filter((one): one is string => typeof one === "string")
 }
 
 export function codeRefFile(ref: string, root: string = codeRoot()): string {

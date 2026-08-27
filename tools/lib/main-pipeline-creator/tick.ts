@@ -22,10 +22,10 @@ export async function runMainPipelineCreatorTick(roots: Roots, signal: AbortSign
     return
   }
 
-  const instructionsCommit = servedTip(roots.instructions, MAIN_BRANCH)
+  const instructionsCommit = servedTip(roots.akasha, MAIN_BRANCH)
   if (instructionsCommit === null) {
     console.error(
-      `${LOG} \`${TRANSPORT}\` serves no \`${MAIN_BRANCH}\` for ${roots.instructions}, so no ` +
+      `${LOG} \`${TRANSPORT}\` serves no \`${MAIN_BRANCH}\` for ${roots.akasha}, so no ` +
         "instructions commit could be fixed for this pipeline to read"
     )
     return

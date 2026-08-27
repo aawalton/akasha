@@ -5,7 +5,7 @@ import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 
 function refusal(verb: string): string {
-  return refusalText("ops-help-unread", { command: verb }, resolveRoots().instructions, fromDisk)
+  return refusalText("ops-help-unread", { command: verb }, resolveRoots().akasha, fromDisk)
 }
 
 async function main(): Promise<void> {

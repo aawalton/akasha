@@ -113,7 +113,7 @@ export async function landing(
   folder: string,
   standing: readonly PageFile[],
   wanted: readonly Wanted[],
-  repo: Addressed = "instructions"
+  repo: Addressed = "akasha"
 ): Promise<Landing> {
   const byMonarchId = new Map<string, PageFile>()
   const taken = new Set<string>()
@@ -239,7 +239,7 @@ export async function landAccountFiles(
   )
   say("account", held)
   if (held.items.length > 0) {
-    await through(held.items, `monarch: ${held.items.length} account file(s) from the sync`, "instructions")
+    await through(held.items, `monarch: ${held.items.length} account file(s) from the sync`, "akasha")
   }
   return held.slugs
 }
@@ -255,7 +255,7 @@ export async function landCategoryFiles(
   )
   say("category", held)
   if (held.items.length > 0) {
-    await through(held.items, `monarch: ${held.items.length} category file(s) from the sync`, "instructions")
+    await through(held.items, `monarch: ${held.items.length} category file(s) from the sync`, "akasha")
   }
   return held.slugs
 }
@@ -266,7 +266,7 @@ export async function landTagFiles(
   const held = await landing("monarch-tag", TAG_FOLDER, await tagPages(), tags.map(tagWanted))
   say("tag", held)
   if (held.items.length > 0) {
-    await through(held.items, `monarch: ${held.items.length} tag file(s) from the sync`, "instructions")
+    await through(held.items, `monarch: ${held.items.length} tag file(s) from the sync`, "akasha")
   }
   return held.slugs
 }

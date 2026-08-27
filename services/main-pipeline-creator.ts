@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Create the main pipeline for the commit the merge queue last landed",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { resolveRoots } from "../repo/roots/roots"

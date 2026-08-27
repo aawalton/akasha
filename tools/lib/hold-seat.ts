@@ -139,7 +139,7 @@ function readSeatStanding(request: Request): Standing {
       above.set(at, Math.max(above.get(at) ?? 0, distance))
     })
   }
-  const roots: Roots = { ...resolveRoots(), instructions: request.root }
+  const roots: Roots = { ...resolveRoots(), akasha: request.root }
   const stated = {
     attributes: held,
     task: task === null ? null : task.value,
