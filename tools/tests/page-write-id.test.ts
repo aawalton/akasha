@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { landingTextFor } from "../lib/page-write.ts"
+import { landingTextFor } from "../lib/page-write-compose.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 
 const roots = resolveRoots()

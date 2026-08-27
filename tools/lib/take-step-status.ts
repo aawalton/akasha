@@ -1,5 +1,5 @@
 import { exclusively } from "../../exclusive/exclusive.ts"
-import { whereFor } from "./page-write.ts"
+import { whereFor } from "./page-write-where.ts"
 import type { Roots } from "../../page/page"
 import { readUncommitted, uncommittedPathFor, writeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 

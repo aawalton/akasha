@@ -7,18 +7,12 @@ import { attachmentKeysFor } from "./page-attachment-keys.ts"
 import { declarationsFor } from "./page-property-types.ts"
 import { type FileTree } from "../../page/file-tree.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
-import {
-  commitAll,
-  landAttachments,
-  patchedText,
-  rewritten,
-  splitValues,
-  statedIn,
-  textIn,
-  type Value,
-  type Where,
-  whereFor,
-} from "./page-write.ts"
+import { landAttachments } from "./page-write.ts"
+import { commitAll } from "./page-write-commit.ts"
+import { patchedText } from "./page-write-compose.ts"
+import { rewritten, statedIn, textIn } from "./page-write-text.ts"
+import { splitValues, type Value } from "./page-write-values.ts"
+import { type Where, whereFor } from "./page-write-where.ts"
 import type { Roots } from "../../page/page"
 
 export type Compared =

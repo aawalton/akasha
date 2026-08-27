@@ -6,14 +6,8 @@ import { comparedResponse } from "./page-compare.ts"
 import { isRowAct, type WriteAct } from "./page-landing-judge.ts"
 import { asRecord, isValue, namedSafely, type Said, said } from "./page-query-request.ts"
 import { patchRows, removeRow, writeRows } from "./page-rows-write.ts"
-import {
-  patchPage,
-  patchState,
-  removePage,
-  type Value,
-  writePage,
-  type Written,
-} from "./page-write.ts"
+import { patchPage, patchState, removePage, writePage, type Written } from "./page-write.ts"
+import { type Value } from "./page-write-values.ts"
 import type { Roots } from "../../page/page"
 
 export const WRITE_ROUTE =

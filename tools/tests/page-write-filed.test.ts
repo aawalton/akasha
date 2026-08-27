@@ -3,7 +3,8 @@ import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:
 import { join } from "node:path"
 import { git } from "../../repo/git/git.ts"
 import { drainCommits } from "../lib/page-commit-queue.ts"
-import { removePage, whereFor, writePage } from "../lib/page-write.ts"
+import { removePage, writePage } from "../lib/page-write.ts"
+import { whereFor } from "../lib/page-write-where.ts"
 import type { Roots } from "../../page/page"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`

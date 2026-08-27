@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { bodyFor } from "../lib/page-write.ts"
+import { bodyFor } from "../lib/page-write-text.ts"
 
 function statedIn(text: string): Record<string, unknown> {
   const closesAt = text.indexOf("\n---", 3)

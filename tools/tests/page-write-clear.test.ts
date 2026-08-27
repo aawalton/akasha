@@ -1,5 +1,7 @@
 import { describe, expect, test } from "bun:test"
-import { patchedText, splitValues, type Where } from "../lib/page-write.ts"
+import { patchedText } from "../lib/page-write-compose.ts"
+import { splitValues } from "../lib/page-write-values.ts"
+import { type Where } from "../lib/page-write-where.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const roots = resolveRoots()

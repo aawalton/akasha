@@ -1,5 +1,5 @@
 import type { Given } from "./page-query-bind"
-import type { Value } from "./page-write.ts"
+import type { Value } from "./page-write-values.ts"
 
 export interface Said {
   readonly body: unknown

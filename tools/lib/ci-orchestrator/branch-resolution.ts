@@ -1,4 +1,5 @@
-import { patchPage, patchState, type Value } from "../page-write.ts"
+import { patchPage, patchState } from "../page-write.ts"
+import { type Value } from "../page-write-values.ts"
 import type { Roots } from "../../../page/page"
 import type { Ceiling } from "./ceiling.ts"
 import { decideBranchResolution, type PassedWorkflowWitness } from "./decide-branch-resolution.ts"

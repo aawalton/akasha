@@ -1,4 +1,6 @@
-import { patchPage, patchState, type Value, type Where, writePage } from "../page-write.ts"
+import { patchPage, patchState, writePage } from "../page-write.ts"
+import { type Value } from "../page-write-values.ts"
+import { type Where } from "../page-write-where.ts"
 import type { Roots } from "../../../page/page"
 import { PIPELINE } from "./pages.ts"
 import { PIPELINE_SEQS, STEP_SEQS, takeSeqBlock, WORKFLOW_SEQS } from "./seqs.ts"

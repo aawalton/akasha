@@ -3,7 +3,8 @@ import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync
 import { join } from "node:path"
 import { git } from "../../repo/git/git.ts"
 import { forgetCommits } from "../lib/page-commit-queue.ts"
-import { patchPage, removePage, splitValues, writePage } from "../lib/page-write.ts"
+import { patchPage, removePage, writePage } from "../lib/page-write.ts"
+import { splitValues } from "../lib/page-write-values.ts"
 import type { Roots } from "../../page/page"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`

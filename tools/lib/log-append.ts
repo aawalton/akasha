@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { rowAppender, type RowAppender } from "./page-rows-write.ts"
-import { whereFor, writePage } from "./page-write.ts"
+import { writePage } from "./page-write.ts"
+import { whereFor } from "./page-write-where.ts"
 import { type Roots } from "../../page/page.ts"
 import { resolveRoots } from "../../repo/roots/roots.ts"
 
