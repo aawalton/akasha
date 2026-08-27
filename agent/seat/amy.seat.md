@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: amy-alan-harness
 errand: "Okay, walk me through why my status line isn't loading data again?"
 registration-account: aawalton
 claude-code-session-uuid: 7abe7a65-b517-4679-957e-867e1d844444
