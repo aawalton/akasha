@@ -40,7 +40,7 @@ Everything else runs in parallel, and as wide as there are seats to run it. A ty
 
 ## What Alan settled on 2026-08-27
 
-He approves each type individually. The `Alan Approves` rule on `domain/mp-graph` stands as written: no type enters the graph before he has approved that type.
+He approves each type individually. The `Alan Approves` rule on `domain/the-graph` stands as written: no type enters the graph before he has approved that type.
 
 The test for both halves:
 
@@ -84,6 +84,6 @@ The `Said` memo at `build-context.ts` is the one held answer today, keyed by a f
 
 `cache/closure/closure.ts` holds the only transitive walk in the repository, written by hand because the graph answers one hop. It is what the last intent is aimed at.
 
-`domain/mp-graph` writes its Condition and its `Alan Approves` rule in the word "kind", which no domain defines. `domain/graph-producer` says "node type" and "edge type" for the same thing. Whether "kind" gives way to "type" everywhere is open; the intents here are settled case by case.
+`domain/the-graph` writes its Condition and its `Alan Approves` rule in the word "kind", which no domain defines. `domain/graph-producer` says "node type" and "edge type" for the same thing. Whether "kind" gives way to "type" everywhere is open; the intents here are settled case by case.
 
 `page-type/graph-edge` defines an edge as "one link from one node to another", while every page under it describes an edge type rather than a link.
