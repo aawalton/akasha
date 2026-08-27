@@ -1,9 +1,48 @@
 
-import { existsSync, readFileSync } from "node:fs"
-import { afterEach, beforeEach, describe, expect, test } from "bun:test"
+import { existsSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { afterAll, afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { relationsResolve } from "../gates/relations-resolve.ts"
 import type { Subject } from "../lib/gate.ts"
+import type { Stated } from "../../page/index/identity/identity.ts"
+import { indexRoot } from "../../page/index/place/place.ts"
+import { keepPages } from "../../page/index/store/store.ts"
 import { fixture, type Fixture, documentBody } from "./fixture.ts"
+
+/**
+ * The rows that say these page types are there, and a place to write them that is not the live one.
+ *
+ * THE REGISTRY IS READ OFF THE INDEX RATHER THAN GLOBBED. `page/property/registry.ts` builds every
+ * page type out of `loadPages()`, so a fixture carrying no index states no page type at all: the
+ * gate found nothing claiming the page it was handed and skipped every case as naming no relation.
+ * A row names a path and nothing more — each type's own words are read back out of the fixture
+ * standing at the time — so a row cannot drift from what this file plants.
+ *
+ * THE INDEX HAS ONE PLACE FOR THE LIFE OF THE PROCESS. `page/index/place/place.ts` works it out on
+ * the first ask and holds it, so it cannot follow a fixture made per case, and left alone it settles
+ * on whichever root asked first — the live checkout, whose real index `keepPages` would then write
+ * over. The anchor is a git repository of its own, named here before anything else can ask.
+ */
+const PAGE_TYPES: readonly string[] = ["page", "team", "person", "lead"]
+
+const anchor = mkdtempSync(`${tmpdir()}/relations-resolve-index-`)
+Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: anchor })
+process.env.AKASHA_ROOT = anchor
+indexRoot()
+afterAll(() => rmSync(anchor, { recursive: true, force: true }))
+
+const indexRow = (slug: string): Stated => ({
+  repo: "akasha",
+  key: `pages/page-type/${slug}.page-type.md`,
+  stem: slug,
+  type: "page-type",
+  id: null,
+  slug,
+  seq: null,
+  extension: null,
+  ending: null,
+  heading: null,
+})
 
 let at: Fixture
 
@@ -21,6 +60,9 @@ function address(slug: string, on: string, key: string, target: string | null): 
 }
 
 beforeEach(() => {
+  // STATED AGAIN FOR EVERY CASE, because that one place is shared with every other test file in
+  // this process, and one of them writing its own page types leaves none of these standing.
+  keepPages(PAGE_TYPES.map(indexRow))
   at = fixture()
   at.document("pages/page-type/page.page-type.md", pageType("page", "none"))
   at.document("pages/page-type/team.page-type.md", pageType("team", "page"))
@@ -31,8 +73,11 @@ beforeEach(() => {
   at.document("pages/page-property-definition/team-parent.page-property-definition.md", property("team-parent", "team", "parent-seq", "relation-seq", "team"))
   at.document("pages/page-property-definition/person-home.page-property-definition.md", address("person-home", "person", "home-address", null))
   at.document("pages/page-property-definition/person-post.page-property-definition.md", address("person-post", "person", "post-address", "team"))
-  at.document("pages/team/red.md", "page-type-slug: team\nslug: red\nseq: 7")
-  at.document("pages/lead/cara.md", "page-type-slug: lead\nslug: cara")
+  // A PAGE STANDS WHERE ITS PAGE TYPE IS FILED. A type stating no `files:` is filed at
+  // `pages/<slug>/**/*.<slug>.md`, so `red.md` stood where nothing looked: `pagesOf` listed no team
+  // at all, and every relation naming one came back as a page that stands nowhere.
+  at.document("pages/team/red.team.md", "page-type-slug: team\nslug: red\nseq: 7")
+  at.document("pages/lead/cara.lead.md", "page-type-slug: lead\nslug: cara")
 })
 afterEach(() => at.dispose())
 
@@ -58,55 +103,55 @@ function person(frontmatter: string): string {
 
 describe("a relation naming a page that stands", () => {
   test("resolves against the slug that page states", () => {
-    expect(relationsResolve(subject("pages/person/ana.md", person("slug: ana\nteam-slug: red"))).verdict).toBe("pass")
+    expect(relationsResolve(subject("pages/person/ana.person.md", person("slug: ana\nteam-slug: red"))).verdict).toBe("pass")
   })
 
   test("resolves against a page of a type beneath the target", () => {
     const body = documentBody("page-type-slug: team\nslug: blue\nhead-slug: cara")
-    expect(relationsResolve(subject("pages/team/blue.md", body)).verdict).toBe("pass")
+    expect(relationsResolve(subject("pages/team/blue.team.md", body)).verdict).toBe("pass")
   })
 
   test("resolves a seq relation against the seq that page states", () => {
     const body = documentBody("page-type-slug: team\nslug: blue\nparent-seq: 7")
-    expect(relationsResolve(subject("pages/team/blue.md", body)).verdict).toBe("pass")
+    expect(relationsResolve(subject("pages/team/blue.team.md", body)).verdict).toBe("pass")
   })
 })
 
 describe("a relation naming a page that stands nowhere", () => {
   test("is refused, and the key and the target are named", () => {
-    const outcome = relationsResolve(subject("pages/person/ana.md", person("slug: ana\nteam-slug: gone")))
+    const outcome = relationsResolve(subject("pages/person/ana.person.md", person("slug: ana\nteam-slug: gone")))
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages.join("\n")).toContain("`team-slug` names `gone`")
     expect(outcome.messages.join("\n")).toContain("`team`")
   })
 
   test("is refused where the page it names stands under some other target", () => {
-    const outcome = relationsResolve(subject("pages/person/ana.md", person("slug: ana\nteam-slug: cara")))
+    const outcome = relationsResolve(subject("pages/person/ana.person.md", person("slug: ana\nteam-slug: cara")))
     expect(outcome.verdict).toBe("fail")
   })
 
   test("is refused where a seq relation names a seq nothing carries", () => {
     const body = documentBody("page-type-slug: team\nslug: blue\nparent-seq: 9")
-    expect(relationsResolve(subject("pages/team/blue.md", body)).verdict).toBe("fail")
+    expect(relationsResolve(subject("pages/team/blue.team.md", body)).verdict).toBe("fail")
   })
 })
 
 describe("two documents landing in one call", () => {
   test("resolve against each other, though neither is on the disk yet", () => {
-    const also = { "pages/team/green.md": documentBody("page-type-slug: team\nslug: green") }
-    expect(relationsResolve(subject("pages/person/ana.md", person("slug: ana\nteam-slug: green"), also)).verdict).toBe(
+    const also = { "pages/team/green.team.md": documentBody("page-type-slug: team\nslug: green") }
+    expect(relationsResolve(subject("pages/person/ana.person.md", person("slug: ana\nteam-slug: green"), also)).verdict).toBe(
       "pass"
     )
   })
 
   test("and the same write alone is refused, so the pass is the sibling's doing", () => {
-    expect(relationsResolve(subject("pages/person/ana.md", person("slug: ana\nteam-slug: green"))).verdict).toBe("fail")
+    expect(relationsResolve(subject("pages/person/ana.person.md", person("slug: ana\nteam-slug: green"))).verdict).toBe("fail")
   })
 })
 
 describe("a file naming no relation", () => {
   test("stating none of the keys is not applicable rather than passing", () => {
-    expect(relationsResolve(subject("pages/person/ana.md", person("slug: ana"))).verdict).toBe("not-applicable")
+    expect(relationsResolve(subject("pages/person/ana.person.md", person("slug: ana"))).verdict).toBe("not-applicable")
   })
 
   test("a source file carries no frontmatter and is not applicable", () => {
@@ -114,7 +159,7 @@ describe("a file naming no relation", () => {
   })
 
   test("under quarantine it is not applicable, whatever it names", () => {
-    expect(relationsResolve(subject("dirty/pages/person/ana.md", person("slug: ana\nteam-slug: gone"))).verdict).toBe(
+    expect(relationsResolve(subject("dirty/pages/person/ana.person.md", person("slug: ana\nteam-slug: gone"))).verdict).toBe(
       "not-applicable"
     )
   })
@@ -124,29 +169,29 @@ describe("a page whose frontmatter is reached but does not read", () => {
   const broken = documentBody("page-type-slug: person\nslug: ana\nteam-slug: red\nthis line is neither a key nor a list item")
 
   test("is refused rather than passed over as naming nothing", () => {
-    const outcome = relationsResolve(subject("pages/person/ana.md", broken))
+    const outcome = relationsResolve(subject("pages/person/ana.person.md", broken))
     expect(outcome.verdict).toBe("fail")
   })
 
   test("says what stopped it, so the refusal names itself", () => {
-    const outcome = relationsResolve(subject("pages/person/ana.md", broken))
+    const outcome = relationsResolve(subject("pages/person/ana.person.md", broken))
     expect(outcome.messages.join("\n")).toContain("not a key, a list item, or part of one")
   })
 })
 
 describe("a relation whose target on disk does not read", () => {
   beforeEach(() => {
-    at.put("pages/team/gold.md", documentBody("page-type-slug: team\nslug: gold\nthis line is neither a key nor a list item"))
+    at.put("pages/team/gold.team.md", documentBody("page-type-slug: team\nslug: gold\nthis line is neither a key nor a list item"))
   })
 
   test("is refused, and the page that could not be read is named", () => {
-    const outcome = relationsResolve(subject("pages/person/ana.md", person("slug: ana\nteam-slug: gold")))
+    const outcome = relationsResolve(subject("pages/person/ana.person.md", person("slug: ana\nteam-slug: gold")))
     expect(outcome.verdict).toBe("fail")
-    expect(outcome.messages.join("\n")).toContain("pages/team/gold.md")
+    expect(outcome.messages.join("\n")).toContain("pages/team/gold.team.md")
   })
 
   test("is not reported as a target that stands nowhere, which is what it is not", () => {
-    const outcome = relationsResolve(subject("pages/person/ana.md", person("slug: ana\nteam-slug: gold")))
+    const outcome = relationsResolve(subject("pages/person/ana.person.md", person("slug: ana\nteam-slug: gold")))
     expect(outcome.messages.join("\n")).toContain("could not be read")
   })
 })
@@ -154,46 +199,46 @@ describe("a relation whose target on disk does not read", () => {
 describe("a relation address, which carries its page type in the value", () => {
   test("resolves where a page of the type it names carries the slug it names", () => {
     const body = person("slug: ana\nhome-address: team/red")
-    expect(relationsResolve(subject("pages/person/ana.md", body)).verdict).toBe("pass")
+    expect(relationsResolve(subject("pages/person/ana.person.md", body)).verdict).toBe("pass")
   })
 
   test("reaches a page type no target names, nothing on the definition bounding it", () => {
     const body = person("slug: ana\nhome-address: lead/cara")
-    expect(relationsResolve(subject("pages/person/ana.md", body)).verdict).toBe("pass")
+    expect(relationsResolve(subject("pages/person/ana.person.md", body)).verdict).toBe("pass")
   })
 
   test("is refused where that slug stands under some other page type", () => {
     const body = person("slug: ana\nhome-address: person/red")
-    expect(relationsResolve(subject("pages/person/ana.md", body)).verdict).toBe("fail")
+    expect(relationsResolve(subject("pages/person/ana.person.md", body)).verdict).toBe("fail")
   })
 
   test("is refused where the value is a bare slug, which names no page type", () => {
     const body = person("slug: ana\nhome-address: red")
-    expect(relationsResolve(subject("pages/person/ana.md", body)).verdict).toBe("fail")
+    expect(relationsResolve(subject("pages/person/ana.person.md", body)).verdict).toBe("fail")
   })
 })
 
 describe("a relation address a target bounds", () => {
   test("resolves where the value names a page type standing under that target", () => {
     const body = person("slug: ana\npost-address: team/red")
-    expect(relationsResolve(subject("pages/person/ana.md", body)).verdict).toBe("pass")
+    expect(relationsResolve(subject("pages/person/ana.person.md", body)).verdict).toBe("pass")
   })
 
   test("is refused where the value names a page type outside it", () => {
     const body = person("slug: ana\npost-address: lead/cara")
-    expect(relationsResolve(subject("pages/person/ana.md", body)).verdict).toBe("fail")
+    expect(relationsResolve(subject("pages/person/ana.person.md", body)).verdict).toBe("fail")
   })
 
   test("is refused where the value is the bare slug the target alone would have found", () => {
     const body = person("slug: ana\npost-address: red")
-    expect(relationsResolve(subject("pages/person/ana.md", body)).verdict).toBe("fail")
+    expect(relationsResolve(subject("pages/person/ana.person.md", body)).verdict).toBe("fail")
   })
 })
 
 describe("a property document that does not read", () => {
   test("refuses every page judged against it, rather than dropping the relation", () => {
     at.put("pages/page-property-definition/person-team.page-property-definition.md", documentBody("page-type-slug: page-property-definition\nslug: person-team\nthis line is neither a key nor a list item"))
-    const outcome = relationsResolve(subject("pages/person/ana.md", person("slug: ana\nteam-slug: red")))
+    const outcome = relationsResolve(subject("pages/person/ana.person.md", person("slug: ana\nteam-slug: red")))
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages.join("\n")).toContain("pages/page-property-definition/person-team.page-property-definition.md")
   })
