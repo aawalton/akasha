@@ -25,9 +25,9 @@ The run stops at the first addon that does not typecheck, so a clean answer cove
 
 # Help
 
-Read the addon roster out of a code checkout and run the TypeScript compiler over each addon's own `tsconfig.json` with nothing emitted, in canonical-name order, stopping at the first addon that does not typecheck.
+Read the addon roster out of a checkout and run the TypeScript compiler over each addon's own `tsconfig.json` with nothing emitted, in canonical-name order, stopping at the first addon that does not typecheck.
 
-An addon's `tsconfig.json` is the only statement of what that addon compiles and which ESO globals it may name, so the compiler is run once per addon rather than once over the workspace. This is tooling the workstation runs, not anything a deploy carries, which is why it stands here rather than in the code repository.
+An addon's `tsconfig.json` is the only statement of what that addon compiles and which ESO globals it may name, so the compiler is run once per addon rather than once over the workspace. This is tooling the workstation runs, not anything a deploy carries.
 
 The checkout is taken as an argument rather than derived from this file's own location, so the roster read and the compiler run are both in the tree named. The addon resolver itself is loaded from the main checkout either way.
 

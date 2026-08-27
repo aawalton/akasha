@@ -25,9 +25,9 @@ Nothing installed leaves this machine.
 
 # Help
 
-Replace one addon's folder — and each sibling folder its manifest declares — under this workstation's live ESO `AddOns/` directory with what stands in a code checkout's `temper/addons/dist/`, then verify every installed file against its source by sha256, then run the saved-variables migrations the new build needs.
+Replace one addon's folder — and each sibling folder its manifest declares — under this workstation's live ESO `AddOns/` directory with what stands in a checkout's `temper/addons/dist/`, then verify every installed file against its source by sha256, then run the saved-variables migrations the new build needs.
 
-Nothing is packed and nothing is carried off this machine: the target is the game folder on this disk, which is why this stands here rather than in the code repo, where only what a deploy carries belongs.
+Nothing is packed and nothing is carried off this machine: the target is the game folder on this disk, so this is workstation tooling rather than anything a deploy carries.
 
 A folder carrying no `build-id.lua` was installed by something other than Temper. It is left alone where it satisfies every version floor this fleet declares, and refused rather than deleted where it does not, or where its version cannot be read at all — refusing to destroy somebody else's addon on missing evidence.
 

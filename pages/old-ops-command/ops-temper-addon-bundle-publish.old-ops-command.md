@@ -21,7 +21,7 @@ What it pushes is named by the hash of the zip rather than by the commit it was 
 
 The name it pushes to and the name the cluster pulls from are two names for one registry.
 
-It writes the tag into the code repo only after the push, so what the tag names is already there.
+It writes the tag into akasha only after the push, so what the tag names is already there.
 
 # Help
 
@@ -29,7 +29,7 @@ Build the Temper addon bundle on this workstation and publish it as an OCI image
 
 The compiler this build needs stands only on this workstation, so this cannot run in
 the cluster. The bundle is built here, tagged by the sha256 of the zip itself, pushed
-to the cluster registry, and the tag written into the code repo where the web
+to the cluster registry, and the tag written into akasha where the web
 deployment reads it.
 
 Every addon is compiled first, through `ops temper addon build --all --build-only`, and

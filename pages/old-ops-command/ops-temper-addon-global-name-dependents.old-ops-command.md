@@ -28,4 +28,4 @@ Three kinds of dependent are found: a TypeScript read of `globalThis.<name>` or 
 
 Given no name, every global an addon writes or claims through `addon.json#savedVariables` is scanned, and only those with a registration binding are reported.
 
-The addon source files and the ownership scan are read from the code repo, which carries both.
+The addon source files and the ownership scan are read from the checkout scanned, which is akasha unless another is named.

@@ -13,7 +13,7 @@ irreversible: false
 
 # Definition
 
-- **Ops temper addon generate load order** — one addon's ESO load-order manifest and build-id stamp, written into a code checkout.
+- **Ops temper addon generate load order** — one addon's ESO load-order manifest and build-id stamp, written into an akasha checkout.
 
 # Design
 
@@ -23,9 +23,9 @@ An addon declaring no Lua bundle is refused rather than given an empty manifest.
 
 # Help
 
-Read one addon's `addon.json` and `tsconfig.json` out of a code checkout, and write `<name>.txt` — the manifest ESO reads to decide what to load and in what order — plus `build-id.lua` into that checkout's `temper/addons/dist/<name>/`.
+Read one addon's `addon.json` and `tsconfig.json` out of a checkout, and write `<name>.txt` — the manifest ESO reads to decide what to load and in what order — plus `build-id.lua` into that checkout's `temper/addons/dist/<name>/`.
 
-Both written files are build output of the code repo, untracked there, and this is the rule they are made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.
+Both written files are build output, untracked, and this is the rule they are made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.
 
 `TemperCatalog` alone takes its `## APIVersion:` from the pages system rather than from its `addon.json`, as the lowest version any active catalog domain declares its generator last ran for.
 

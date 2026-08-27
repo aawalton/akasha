@@ -26,11 +26,10 @@ Each emitted file carries a header naming this invocation.
 # Help
 
 Run the upstream library's own Lua under a sandboxed VM, walk the tables it defines and
-write them out as the TypeScript data modules the code repository's package carries.
+write them out as the TypeScript data modules akasha's package carries.
 
-The porter stands here; the tree it writes into is the code repository's. Nothing it emits
-is tracked by this repository, so what reads a repository at a commit sees the producer
-rather than its output.
+The porter and the tree it writes into are both akasha. What it emits is tracked there, so
+a run changes akasha's working tree, to be read and committed there like any other.
 
 The upstream Lua is read from the live ESO AddOns directory on this workstation, which is
 what pins the version: the header each emitted file carries names the version it was
