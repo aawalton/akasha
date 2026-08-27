@@ -1,5 +1,12 @@
 import { describe, expect, test } from "bun:test"
-import { CRASH_EXIT_CODE, classifyRun, decideGatedExit, parseBunSummary } from "../lib/gate-bun-exit.ts"
+import {
+  CRASH_EXIT_CODE,
+  classifyRun,
+  decideGatedExit,
+  parseBunSummary,
+  UNDER_RAN_EXIT_CODE,
+  underRanReport,
+} from "../lib/gate-bun-exit.ts"
 
 const GREEN_SUMMARY = [
   "(pass) some suite > does a thing [0.10ms]",
@@ -156,5 +163,32 @@ describe("parseBunSummary", () => {
 
   test("reports a null file count when there is no summary", () => {
     expect(parseBunSummary("error: boom").filesRan).toBeNull()
+  })
+})
+
+describe("underRanReport — a shard that did not execute what it was handed", () => {
+  test("no summary at all, with files selected, is an under-run", () => {
+    expect(underRanReport("bun test v1.3.14 (0d9b296a)\n", 4)).toEqual({ expected: 4, ran: null })
+  })
+
+  test("fewer files reported than were selected is an under-run", () => {
+    expect(underRanReport("Ran 2 tests across 2 files. [1.0s]", 4)).toEqual({ expected: 4, ran: 2 })
+  })
+
+  test("every selected file accounted for is no under-run", () => {
+    expect(underRanReport("Ran 9 tests across 3 files. [1.0s]", 3)).toBeNull()
+  })
+
+  test("summaries summed across an xargs split cover the whole selection", () => {
+    const split = "Ran 2 tests across 2 files. [1.0s]\nRan 3 tests across 3 files. [1.0s]"
+    expect(underRanReport(split, 5)).toBeNull()
+  })
+
+  test("no expectation given leaves the verdict where it was", () => {
+    expect(underRanReport("bun test v1.3.14 (0d9b296a)\n", null)).toBeNull()
+  })
+
+  test("the under-run code is distinct from the crash code, which asks for an isolated re-run", () => {
+    expect(UNDER_RAN_EXIT_CODE).not.toBe(CRASH_EXIT_CODE)
   })
 })
