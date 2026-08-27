@@ -45,6 +45,10 @@ A thing is a node type where one file holds many of it; where a file holds one, 
 
 An edge is polymorphic in its ends wherever its way of connecting is. A folder holds a path whether a file or a folder stands there, so holding is one edge type reaching either. Nothing about the ends splits a type by itself.
 
+A node kind on a `graph-edge` page is a list, by Alan's ruling on 2026-08-27, an edge reaching either a file or a folder having no way to say so before. `import` and `relation` restate their ends as one-item lists.
+
+No command reaches code through `codeModule`, by Alan's ruling on 2026-08-27. Where a page says a command is safe against any checkout, that is a permission and not a requirement to load from one.
+
 Rootedness is removed as a concept. No edge type carries it and no node type seeds it. `ops graph rooted` and the `deployed` node flag go with it. Whether deleting a file breaks production is asked as a walk from a deployable rather than held as a flag.
 
 ## Code a page names
@@ -117,3 +121,13 @@ The `Said` memo at `build-context.ts` is the one held answer today, keyed by a f
 `page-type/graph-edge` defines an edge as "one link from one node to another", while every page under it describes an edge type rather than a link.
 
 `page-type/graph-edge` states as a Condition that an edge runs from the node that names another to the one it names. `contains` runs against that: the child's key names the folder, and the edge runs from the folder.
+
+`folder`, `contains` and the list spelling of `node-kind` landed on 2026-08-27. `contains` stores nothing: what holds a node is its key with the last segment cut, and what a folder holds is one indexed pass over that repository's tracked keys.
+
+The `frontmatter` producer cannot be replaced by the pages relation index as the ruling above has it. Measured over the whole repository on 2026-08-27: the index holds all 116,609 page-to-page relations the producer derives and 3,364 more, but no relation whose far end is not a page, and there are 5,300 of those — including the 61 `code` relations a page names its implementation with, which `ops file-structure uses` reads. Filed at `finding/graph-system/relation-index-holds-no-non-page-end`. Whether the index learns to name a non-page end, or the producer stays alive for those, is open and is the next thing needing Alan.
+
+`edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. Only `contains` offers one today.
+
+Every producer's held answers are filed under one mark hashing the whole engine's import closure, so registering `contains` dropped all 59,376 answers held by `typescript`, which does not import it. Filed at `finding/graph-system/one-mark-drops-every-producers-answers`.
+
+`codeModule` is down to 7 call sites in the four `temper-upstream-data/*/verify.ts` files, from 174 at the start. `tools/lib/code-import.ts`, `tools/lib/code-reaches.ts`, `tools/reaches.ts` and their tests are ablated once it reaches zero.
