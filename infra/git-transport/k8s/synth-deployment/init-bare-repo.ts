@@ -1,4 +1,4 @@
-import { ORCHESTRATOR_CACHE_REPO_PATH } from "@infra/k8s-types/orchestrator-cache"
+import { ORCHESTRATOR_CACHE_REPO_PATH } from "@infra/k8s-types/orchestrator-cache-locations"
 import { transportRepo } from "../../src/repos"
 
 const CODE_BARE_REPO_PATH = transportRepo("code").bareRepoPath

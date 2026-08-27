@@ -1,14 +1,18 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import {
+  orchestratorCacheInitContainer,
+  orchestratorCacheSyncSidecar,
+} from "@infra/k8s-types/orchestrator-cache"
+import {
+  orchestratorCacheVolumeMounts,
+  orchestratorCacheVolumes,
+} from "@infra/k8s-types/orchestrator-cache-helpers"
+import {
   BUN_RUNTIME_IMAGE,
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
-  orchestratorCacheInitContainer,
-  orchestratorCacheSyncSidecar,
-  orchestratorCacheVolumeMounts,
-  orchestratorCacheVolumes,
-} from "@infra/k8s-types/orchestrator-cache"
+} from "@infra/k8s-types/orchestrator-cache-locations"
 import { APP_NAME, NAMESPACE, RESOURCE_LABELS, SELECTOR_LABELS } from "./synth-constants"
 import { INIT_BARE_REPO_SCRIPT } from "./synth-deployment/init-bare-repo"
 
