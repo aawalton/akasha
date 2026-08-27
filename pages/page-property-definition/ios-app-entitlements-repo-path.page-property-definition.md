@@ -11,4 +11,4 @@ domain-parent-slug: page-type/ios-app
 
 # Definition
 
-- **iOS app entitlements repo path** — where the committed entitlements the seam composes into the app stand in the code repository.
+- **iOS app entitlements repo path** — where the committed entitlements the seam composes into the app stand in akasha.

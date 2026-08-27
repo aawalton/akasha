@@ -11,4 +11,4 @@ domain-parent-slug: page-type/ios-app
 
 # Definition
 
-- **iOS app web env path** — where the web app's local environment file stands in the code repository.
+- **iOS app web env path** — where the web app's local environment file stands in akasha.

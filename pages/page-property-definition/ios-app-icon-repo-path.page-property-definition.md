@@ -11,4 +11,4 @@ domain-parent-slug: page-type/ios-app
 
 # Definition
 
-- **iOS app icon repo path** — where the committed app icon the seam copies into the asset catalog stands in the code repository.
+- **iOS app icon repo path** — where the committed app icon the seam copies into the asset catalog stands in akasha.

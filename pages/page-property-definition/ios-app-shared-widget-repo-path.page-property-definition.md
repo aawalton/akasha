@@ -11,4 +11,4 @@ domain-parent-slug: page-type/ios-app
 
 # Definition
 
-- **iOS app shared widget repo path** — where the widget sources the shell compiles in from outside itself stand in the code repository.
+- **iOS app shared widget repo path** — where the widget sources the shell compiles in from outside itself stand in akasha.

@@ -11,4 +11,4 @@ domain-parent-slug: page-type/ios-app
 
 # Definition
 
-- **iOS app web dir repo path** — where the `www` the build copies into the app stands in the code repository.
+- **iOS app web dir repo path** — where the `www` the build copies into the app stands in akasha.

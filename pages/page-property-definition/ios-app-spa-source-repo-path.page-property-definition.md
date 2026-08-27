@@ -11,4 +11,4 @@ domain-parent-slug: page-type/ios-app
 
 # Definition
 
-- **iOS app spa source repo path** — where the web app the shell loads stands in the code repository.
+- **iOS app spa source repo path** — where the web app the shell loads stands in akasha.

@@ -11,4 +11,4 @@ domain-parent-slug: page-type/ios-app
 
 # Definition
 
-- **iOS app own widget repo path** — where the widget sources this shell authors for itself stand in the code repository.
+- **iOS app own widget repo path** — where the widget sources this shell authors for itself stand in akasha.
