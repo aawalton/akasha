@@ -91,23 +91,19 @@ export function akashaRoot(): string {
 }
 
 /**
- * `ops` by absolute path. It is not on the extension host's PATH either, and the panels that
- * already resolved it this way were right to — they were simply one step short, because resolving
- * the wrapper does nothing about the `bun` the wrapper goes on to exec.
+ * `ops` by absolute path, resolved the way `verbPath` resolves a verb: akasha first, instructions
+ * after, settled by which file is there. `ops` is not on the extension host's PATH.
  *
- * IN THE INSTRUCTIONS CHECKOUT, WHICH IS WHERE THE WRAPPER IS. This resolved against `CODE_ROOT`
- * and `packages/shared/dotfiles/bin/ops` until that directory left the code repository; nothing
- * under `packages/shared/` is a dotfiles tree now, and the wrapper stands at
- * `dotfiles/bin/ops` in the instructions repository. `execFile` on the path that no longer exists
- * fails with ENOENT before any verb runs, so every caller of `runOps` — the Domains panel and the
- * Work panel — drew nothing, while the Agents panel went on working because it reaches `bun`
- * through `runVerb` and never touches this path.
- *
- * THE SAME ROOT THE VERBS ARE TAKEN AGAINST. `verbPath` already resolves the instructions checkout,
- * and a second rule for where `ops` lives would let the wrapper and the verbs it dispatches to come
- * from two different trees.
+ * A FUNCTION RATHER THAN A CONSTANT. A constant is resolved once at import and cannot be resolved
+ * again, so a wrapper that moved would stay wrong in a running editor until it was restarted —
+ * and `execFile` on a path that has gone fails with ENOENT before any verb runs, which empties
+ * the Domains and Work panels without saying why.
  */
-export const OPS_PATH = path.join(instructionsRoot(), 'dotfiles/bin/ops');
+export function opsPath(): string {
+	const named = path.join('dotfiles', 'bin', 'ops');
+	const inAkasha = path.join(akashaRoot(), named);
+	return fs.existsSync(inAkasha) ? inAkasha : path.join(instructionsRoot(), named);
+}
 
 /**
  * A verb's file under `tools/`, in whichever checkout the tools tree stands in.
@@ -202,7 +198,7 @@ async function run(file: string, args: readonly string[], options: HarnessCallOp
 
 /** Runs `ops` with the given arguments and answers its stdout. */
 export async function runOps(args: readonly string[], options: HarnessCallOptions): Promise<string> {
-	return run(OPS_PATH, args, options);
+	return run(opsPath(), args, options);
 }
 
 /**

@@ -161,11 +161,10 @@ const WORKING = 'working';
  */
 async function workingColour(): Promise<string | undefined> {
 	try {
-		// ASKED AT THE PATH `harness-call` RESOLVED, not at a name spelled here. This verb's file is
-		// being renamed from `agent-turn-colours.ts` to `agent-turn-colors.ts`, and a build naming
-		// only the old one would run a path that had gone. It would fail quietly too — the catch
-		// below is the fallback for a harness that cannot be reached, so the rename would cost
-		// every subagent row its colour with nothing on screen saying so.
+		// ASKED AT THE PATH `harness-call` RESOLVED, not at one spelled here. A path spelled here
+		// would be a second answer to where this verb stands, and it would fail quietly: the catch
+		// below is the fallback for a harness that cannot be reached, so a wrong path costs every
+		// subagent row its colour with nothing on screen saying so.
 		const answer = await askHarnessFile(turnColoursVerbPath(), ['--state', WORKING]);
 		return parseStateColour(answer, WORKING);
 	} catch {

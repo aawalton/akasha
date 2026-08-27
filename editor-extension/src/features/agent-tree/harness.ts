@@ -61,12 +61,10 @@ export async function askHarnessFile(file: string, args: readonly string[] = [])
 }
 
 /**
- * The same ask, for a verb whose file name this side is free to spell.
+ * The same ask, naming a verb rather than handing over its path.
  *
- * SEPARATE FROM `askHarnessFile` BECAUSE ONE VERB'S NAME IS MOVING. `agent-turn-colours.ts` is being
- * renamed and `harness-call` resolves which spelling stands; a caller of that one hands the resolved
- * path to `askHarnessFile` instead. Everything else names a verb whose file is not going anywhere
- * and goes on naming it.
+ * SEPARATE FROM `askHarnessFile` because which checkout a verb's file stands in is `harness-call`'s
+ * to settle. A caller that already holds a resolved path asks through `askHarnessFile` instead.
  */
 export async function askHarness(verb: string, args: readonly string[] = []): Promise<unknown> {
 	return askHarnessFile(verbPath(verb), args);
@@ -184,19 +182,17 @@ export function parseForestRows(answer: unknown): readonly HarnessRow[] {
  */
 export function parseStateColour(answer: unknown, state: string): string {
 	if (answer === null || typeof answer !== 'object') {
-		throw new Error('agent-turn-colours: the answer is not an object, so it names no colour');
+		throw new Error('agent-turn-colors: the answer is not an object, so it names no colour');
 	}
-	// `colors` first for the reason `rowColour` states: the new spelling has to be readable here
-	// before the command starts sending it, or the renaming commit leaves every subagent row on
-	// this tree at the muted foreground with nothing on screen saying why.
+	// `colors` first for the reason `rowColour` states: it is the spelling the command sends.
 	const held = answer as { colors?: unknown; colours?: unknown };
 	const colours = held.colors ?? held.colours;
 	if (colours === null || colours === undefined || typeof colours !== 'object') {
-		throw new Error('agent-turn-colours: the answer carries neither a `colors` nor a `colours` record');
+		throw new Error('agent-turn-colors: the answer carries neither a `colors` nor a `colours` record');
 	}
 	const named = (colours as Record<string, unknown>)[state];
 	if (typeof named !== 'string' || named === '') {
-		throw new Error(`agent-turn-colours: nothing was answered for the \`${state}\` state`);
+		throw new Error(`agent-turn-colors: nothing was answered for the \`${state}\` state`);
 	}
 	return named;
 }
