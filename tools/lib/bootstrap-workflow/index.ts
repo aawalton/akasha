@@ -76,7 +76,7 @@ export async function runWorkflow(opts: RunWorkflowOpts): Promise<RunWorkflowRes
     namespace: "local",
     secrets,
     branch,
-    repoFullName: "alan/code",
+    repoFullName: "alan/akasha",
     commitAuthor: "local",
     commitMessage: "local bootstrap",
   }
