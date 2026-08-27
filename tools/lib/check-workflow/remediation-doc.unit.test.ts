@@ -17,7 +17,7 @@ describe("repoDoc", () => {
 
   test("refuses markdown, whichever directory it stands under", () => {
     // @ts-expect-error — a remediation document is never an instruction document
-    repoDoc("packages/infra/checks/docs/example-rule.md")
+    repoDoc("infra/cluster-checks/docs/example-rule.md")
   })
 })
 

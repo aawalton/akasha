@@ -120,22 +120,22 @@ describe("findMarkerIssues", () => {
 
 describe("isScannableSourceFile", () => {
   test("accepts .ts and .tsx source", () => {
-    expect(isScannableSourceFile("packages/temper/addons/x/src/main.ts")).toBe(true)
-    expect(isScannableSourceFile("packages/temper/addons/x/src/ui.tsx")).toBe(true)
+    expect(isScannableSourceFile("temper/addons-x/src/main.ts")).toBe(true)
+    expect(isScannableSourceFile("temper/addons-x/src/ui.tsx")).toBe(true)
   })
 
   test("rejects test files", () => {
-    expect(isScannableSourceFile("packages/temper/addons/x/src/x.unit.test.ts")).toBe(false)
-    expect(isScannableSourceFile("packages/temper/addons/x/src/x.test.ts")).toBe(false)
-    expect(isScannableSourceFile("packages/temper/addons/x/src/x.test.tsx")).toBe(false)
+    expect(isScannableSourceFile("temper/addons-x/src/x.unit.test.ts")).toBe(false)
+    expect(isScannableSourceFile("temper/addons-x/src/x.test.ts")).toBe(false)
+    expect(isScannableSourceFile("temper/addons-x/src/x.test.tsx")).toBe(false)
   })
 
   test("rejects non-TS files", () => {
-    expect(isScannableSourceFile("packages/temper/addons/x/src/data.json")).toBe(false)
-    expect(isScannableSourceFile("packages/temper/addons/x/addon.json")).toBe(false)
+    expect(isScannableSourceFile("temper/addons-x/src/data.json")).toBe(false)
+    expect(isScannableSourceFile("temper/addons-x/addon.json")).toBe(false)
   })
 
   test("rejects declaration files", () => {
-    expect(isScannableSourceFile("packages/temper/addons/x/src/other-api.d.ts")).toBe(false)
+    expect(isScannableSourceFile("temper/addons-x/src/other-api.d.ts")).toBe(false)
   })
 })
