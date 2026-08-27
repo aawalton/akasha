@@ -165,13 +165,13 @@ export default async function read(argv: readonly string[]): Promise<void> {
   if (args.seat && bound === null) {
     throw new Error(
       "no page stands for this seat, so nothing says what it is bound to — " +
-        "`ops instructions seat` is what records what a seat is"
+        "`ops seat set` is what records what a seat is"
     )
   }
   if (bound !== null && bound.length === 0) {
     throw new Error(
       "this seat states no attributes, so nothing is required reading for it — " +
-        "`ops instructions seat` is what records what a seat is"
+        "`ops seat set` is what records what a seat is"
     )
   }
   const full = args.full || args.seat

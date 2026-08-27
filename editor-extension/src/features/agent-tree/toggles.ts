@@ -47,7 +47,7 @@ export type SeatStep =
 	 * `stop` step precedes this — an explicit one would race that.
 	 */
 	| { readonly kind: 'resume-interactive' }
-	/** `ops instructions seat --agent <id> --mode <place>` — state the place, start nothing. */
+	/** `ops seat set --agent <id> --mode <place>` — state the place, start nothing. */
 	| { readonly kind: 'state-place'; readonly place: SeatMode }
 	/**
 	 * A terminal in this window attaching to the seat's tmux session.

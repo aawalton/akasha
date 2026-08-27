@@ -84,7 +84,7 @@ export async function resumeSeat(
   if (name === null) {
     throw dataError(
       `agent ${input.agentId} has no stable name — revive targets named agents ` +
-        "(set one with `ops instructions seat` before stopping, or resume interactively with `sr`)"
+        "(set one with `ops seat set` before stopping, or resume interactively with `sr`)"
     )
   }
 
