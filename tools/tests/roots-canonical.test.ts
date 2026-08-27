@@ -2,6 +2,12 @@ import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, realpathSync, rmSync, symlinkSync } from "node:fs"
 import { REPOS, resolveRoots, rootEnvName } from "../../repo/roots/roots"
 
+// A REPOSITORY OTHER THAN AKASHA, so each case turns on the root being named rather than on the
+// root this test process already runs out of. `memory` stood here and is gone: it is no longer in
+// `REPOS`, so `resolveRoots` never read `MEMORY_ROOT` and the two `toBeUndefined` cases below
+// passed over nothing at all.
+const CLONED = "code-editor"
+
 const ROOT_ENV = REPOS.map(rootEnvName)
 
 function withEnv(values: Readonly<Record<string, string | undefined>>, run: () => void): void {
@@ -44,8 +50,8 @@ describe("resolveRoots holds Real Path", () => {
     const { real, named } = namedThrough("roots-one")
     mkdirSync(`${real}/.git`, { recursive: true })
     try {
-      withEnv({ ...noOverrides(), MEMORY_ROOT: named }, () => {
-        expect(resolveRoots().memory).toBe(real)
+      withEnv({ ...noOverrides(), CODE_EDITOR_ROOT: named }, () => {
+        expect(resolveRoots()[CLONED]).toBe(real)
       })
     } finally {
       discard(real, named)
@@ -57,8 +63,8 @@ describe("resolveRoots names a repository only where it is cloned", () => {
   test("a directory holding no `.git` is not named, though it is there and named through", () => {
     const { real, named } = namedThrough("roots-bare")
     try {
-      withEnv({ ...noOverrides(), MEMORY_ROOT: named }, () => {
-        expect(resolveRoots().memory).toBeUndefined()
+      withEnv({ ...noOverrides(), CODE_EDITOR_ROOT: named }, () => {
+        expect(resolveRoots()[CLONED]).toBeUndefined()
       })
     } finally {
       discard(real, named)
@@ -66,8 +72,8 @@ describe("resolveRoots names a repository only where it is cloned", () => {
   })
 
   test("a root pointing at nothing on disk is not named either", () => {
-    withEnv({ ...noOverrides(), MEMORY_ROOT: "/var/tmp/no-such-root-for-real-path" }, () => {
-      expect(resolveRoots().memory).toBeUndefined()
+    withEnv({ ...noOverrides(), CODE_EDITOR_ROOT: "/var/tmp/no-such-root-for-real-path" }, () => {
+      expect(resolveRoots()[CLONED]).toBeUndefined()
     })
   })
 })
