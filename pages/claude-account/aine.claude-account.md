@@ -15,6 +15,6 @@ scopes:
   - user:mcp_servers
   - user:profile
   - user:sessions:claude_code
-terminal-at: 2026-08-27T22:00:12.990Z
+terminal-at: 2026-08-27T22:03:48.206Z
 terminal-alerted-at: 2026-08-26T21:51:11.511Z
 ---
