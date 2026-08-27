@@ -142,7 +142,7 @@ export function generatedPathFor(synthPath: string, name: string): string {
 }
 
 export interface SynthManifestsInput {
-  readonly repoRoot?: string
+  readonly repoRoot?: string | undefined
   readonly pkgFilter?: string | undefined
   readonly check?: boolean
 }
@@ -201,10 +201,18 @@ async function main(): Promise<void> {
     process.stderr.write(`${PREFIX} --check and --write are mutually exclusive\n`)
     process.exit(1)
   }
+  const roots = argv.filter((one) => one === "--root").length
+  if (roots > 1) {
+    process.stderr.write(
+      `${PREFIX} --root was given ${roots} times, and every generated file is written beside its own synth.ts, so there is one root to write under\n`
+    )
+    process.exit(1)
+  }
+  const repoRoot = flagValue(argv, "--root")
   const pkgFilter = flagValue(argv, "--pkg")
   const check = argv.includes("--check")
 
-  const result = await synthManifests({ pkgFilter, check })
+  const result = await synthManifests({ repoRoot, pkgFilter, check })
 
   if (result.synthPaths.length === 0 && pkgFilter !== undefined) {
     process.stderr.write(`${PREFIX} no synth.ts whose path contains component "${pkgFilter}"\n`)

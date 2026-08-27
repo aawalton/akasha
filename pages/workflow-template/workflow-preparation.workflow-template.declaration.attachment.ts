@@ -384,7 +384,7 @@ export default workflow("preparation", {
         commands: (ci) => [
           "set -e",
           `WS=/ci-storage/checkouts/${ci.commitSha}`,
-          `bun "$AKASHA_ROOT/infra/k8s-synth/src/manifests.ts" --write --root "$WS" --root "$AKASHA_ROOT"`,
+          `bun "$AKASHA_ROOT/infra/k8s-synth/src/manifests.ts" --write --root "$WS"`,
         ],
       }),
       dependsOn: ["preparation-prep"],
