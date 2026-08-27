@@ -80,7 +80,7 @@ describe("the absence encoding, which the digests above rest on", () => {
   it("spells an absent bootPrompt rather than dropping it", async () => {
     const specs = await assembleRecipientResolverSpecs(personas())
     const iris = specs.find((spec) => spec.name === "iris")
-    const ki = specs.find((spec) => spec.name === "amy-ki-handler")
+    const ki = specs.find((spec) => spec.name === "ki")
     expect(iris?.bootPrompt).toBeUndefined()
     expect(ki?.bootPrompt).toBe("/handler ki")
     expect(digestOf(project([iris as OnDemandAgentSpec]))).not.toBe(
@@ -100,10 +100,10 @@ describe("the declared specs are referenced, not rebuilt", () => {
   })
 
   it("keeps the declared constant when a persona page collides with its name", async () => {
-    const specs = await assembleRecipientResolverSpecs(personas("iris", "amy-ki-handler"))
+    const specs = await assembleRecipientResolverSpecs(personas("iris", "ki"))
     expect(specs.filter((spec) => spec.name === "iris")).toEqual([IRIS_SPEC])
     expect(specs.find((spec) => spec.name === "iris")).toBe(IRIS_SPEC)
-    expect(specs.find((spec) => spec.name === "amy-ki-handler")).toBe(KI_HANDLER_SPEC)
+    expect(specs.find((spec) => spec.name === "ki")).toBe(KI_HANDLER_SPEC)
   })
 
   it("arms Alan's handler seat as a SEATED PERSONA, not as a derived person handler", async () => {
