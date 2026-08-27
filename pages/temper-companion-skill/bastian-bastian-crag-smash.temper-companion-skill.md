@@ -1,5 +1,6 @@
 ---
 id: 019e6484-384a-74c6-8e49-515e726ca209
+slug: bastian-bastian-crag-smash
 page-type-slug: temper-companion-skill
 title: "Crag Smash"
 icon: "/esoui/art/icons/ability_companion_dragonknight_013.dds"

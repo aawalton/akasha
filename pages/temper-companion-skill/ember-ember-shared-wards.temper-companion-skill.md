@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3863-79ea-ba1a-bcd91761da8a
+slug: ember-ember-shared-wards
 page-type-slug: temper-companion-skill
 title: "Shared Wards"
 icon: "/esoui/art/icons/ability_companion_sorcerer_hurricane.dds"

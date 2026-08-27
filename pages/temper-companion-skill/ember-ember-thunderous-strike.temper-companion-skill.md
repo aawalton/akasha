@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3866-7ff6-bea6-33eef2107573
+slug: ember-ember-thunderous-strike
 page-type-slug: temper-companion-skill
 title: "Thunderous Strike"
 icon: "/esoui/art/icons/ability_companion_sorcerer_mage_fury.dds"

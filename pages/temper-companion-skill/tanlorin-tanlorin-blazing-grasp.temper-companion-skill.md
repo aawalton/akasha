@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a1-7344-ba89-c44e4c636b4e
+slug: tanlorin-tanlorin-blazing-grasp
 page-type-slug: temper-companion-skill
 title: "Blazing Grasp"
 icon: "/esoui/art/icons/ability_companion_dragonknight_005.dds"

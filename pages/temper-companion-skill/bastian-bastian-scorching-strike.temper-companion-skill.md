@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3851-7f30-8fd9-32c2f824b762
+slug: bastian-bastian-scorching-strike
 page-type-slug: temper-companion-skill
 title: "Scorching Strike"
 icon: "/esoui/art/icons/ability_companion_dragonknight_003.dds"

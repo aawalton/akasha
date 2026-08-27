@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3856-76d3-85fc-9590ec4b8b3d
+slug: bastian-bastian-unleashed-rage
 page-type-slug: temper-companion-skill
 title: "Unleashed Rage"
 icon: "/esoui/art/icons/ability_companion_ultimate_bastian_001.dds"

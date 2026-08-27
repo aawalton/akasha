@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3871-7070-bb6d-98c87f3d6e85
+slug: isobel-isobel-divine-destruction
 page-type-slug: temper-companion-skill
 title: "Divine Destruction"
 icon: "/esoui/art/icons/ability_companion_templar_over_exposure.dds"

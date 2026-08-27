@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3862-72b6-b3a5-3a3f002a12cc
+slug: ember-ember-second-wind
 page-type-slug: temper-companion-skill
 title: "Second Wind"
 icon: "/esoui/art/icons/ability_companion_sorcerer_dark_exchange.dds"

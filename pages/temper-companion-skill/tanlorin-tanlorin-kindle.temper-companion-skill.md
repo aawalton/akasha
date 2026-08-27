@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a7-75c3-a9af-75b71469f204
+slug: tanlorin-tanlorin-kindle
 page-type-slug: temper-companion-skill
 title: "Kindle"
 icon: "/esoui/art/icons/ability_companion_dragonknight_002_b.dds"

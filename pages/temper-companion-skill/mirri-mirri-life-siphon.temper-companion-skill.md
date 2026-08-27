@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3885-7f99-a15f-f9405b4b6a72
+slug: mirri-mirri-life-siphon
 page-type-slug: temper-companion-skill
 title: "Life Siphon"
 icon: "/esoui/art/icons/ability_companion_nightblade_013.dds"

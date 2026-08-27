@@ -1,5 +1,6 @@
 ---
 id: 019e6484-389b-7e6f-afeb-c65964fc717d
+slug: sharp-as-night-sharp-petals-of-the-hunter
 page-type-slug: temper-companion-skill
 title: "Petals of the Hunter"
 icon: "/esoui/art/icons/ability_companion_warden_lotusflower.dds"

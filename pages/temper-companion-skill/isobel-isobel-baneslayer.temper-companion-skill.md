@@ -1,5 +1,6 @@
 ---
 id: 019e6484-386a-748d-bf08-f1ce6e4a560d
+slug: isobel-isobel-baneslayer
 page-type-slug: temper-companion-skill
 title: "Baneslayer"
 icon: "/esoui/art/icons/ability_companion_templar_baneslayer.dds"

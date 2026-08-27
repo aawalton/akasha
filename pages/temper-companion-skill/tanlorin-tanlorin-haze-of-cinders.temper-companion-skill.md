@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a4-75a3-96be-0f4376392195
+slug: tanlorin-tanlorin-haze-of-cinders
 page-type-slug: temper-companion-skill
 title: "Haze of Cinders"
 icon: "/esoui/art/icons/ability_companion_dragonknight_hazeofcinders.dds"

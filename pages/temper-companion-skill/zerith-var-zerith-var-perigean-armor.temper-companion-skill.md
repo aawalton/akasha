@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38b3-76f6-bc94-1f0f38294f83
+slug: zerith-var-zerith-var-perigean-armor
 page-type-slug: temper-companion-skill
 title: "Perigean Armor"
 icon: "/esoui/art/icons/ability_companion_zerith_bonearmor.dds"

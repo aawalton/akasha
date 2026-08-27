@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3843-7ef8-96c1-69fd47ca7dae
+slug: azandar-azandar-vigorous-tentacular-eruption
 page-type-slug: temper-companion-skill
 title: "Vigorous Tentacular Eruption"
 icon: "/esoui/art/icons/ability_companion_arcanist_vigoroustentaculareruption.dds"

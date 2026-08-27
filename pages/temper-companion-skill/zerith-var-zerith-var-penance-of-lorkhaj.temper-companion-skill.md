@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38b2-734c-a763-1fecdd14d69f
+slug: zerith-var-zerith-var-penance-of-lorkhaj
 page-type-slug: temper-companion-skill
 title: "Penance of Lorkhaj"
 icon: "/esoui/art/icons/ability_companion_zerith_renderflesh.dds"

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-384d-75ed-b54f-7a3da4da2ea5
+slug: bastian-bastian-drakes-blood
 page-type-slug: temper-companion-skill
 title: "Drake's Blood"
 icon: "/esoui/art/icons/ability_companion_dragonknight_011.dds"

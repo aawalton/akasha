@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a6-7733-b11c-8f5fa210973b
+slug: tanlorin-tanlorin-internal-conflict
 page-type-slug: temper-companion-skill
 title: "Internal Conflict"
 icon: "/esoui/art/icons/ability_companion_tanlorin_internalconflict.dds"

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a9-7157-a2a3-1c257d3a3e35
+slug: tanlorin-tanlorin-shattered-spirit
 page-type-slug: temper-companion-skill
 title: "Shattered Spirit"
 icon: "/esoui/art/icons/ability_companion_tanlorin_shattersoul.dds"

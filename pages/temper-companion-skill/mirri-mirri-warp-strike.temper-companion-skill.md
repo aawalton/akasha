@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3890-7e7f-a758-fe111e6bfedb
+slug: mirri-mirri-warp-strike
 page-type-slug: temper-companion-skill
 title: "Warp Strike"
 icon: "/esoui/art/icons/ability_companion_nightblade_008.dds"

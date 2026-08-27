@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38b1-7497-9570-c8c2b004c881
+slug: zerith-var-zerith-var-dark-moon-totem
 page-type-slug: temper-companion-skill
 title: "Dark Moon Totem"
 icon: "/esoui/art/icons/ability_companion_necromancer_bonetotem.dds"

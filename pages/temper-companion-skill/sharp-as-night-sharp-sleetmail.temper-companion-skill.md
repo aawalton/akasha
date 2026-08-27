@@ -1,5 +1,6 @@
 ---
 id: 019e6484-389d-7072-92c9-f2ce91f8e120
+slug: sharp-as-night-sharp-sleetmail
 page-type-slug: temper-companion-skill
 title: "Sleetmail"
 icon: "/esoui/art/icons/ability_companion_warden_frostcloak.dds"

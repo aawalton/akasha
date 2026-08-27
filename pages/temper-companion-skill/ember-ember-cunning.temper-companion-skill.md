@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3859-79c2-8c47-1308c07b5fcd
+slug: ember-ember-cunning
 page-type-slug: temper-companion-skill
 title: "Enchanted"
 icon: "/esoui/art/icons/ability_companion_sorcerer_enchanted.dds"

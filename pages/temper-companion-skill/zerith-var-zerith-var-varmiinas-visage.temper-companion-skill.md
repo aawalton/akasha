@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38b8-718b-be62-f6e2773e375d
+slug: zerith-var-zerith-var-varmiinas-visage
 page-type-slug: temper-companion-skill
 title: "Varmiina's Visage"
 icon: "/esoui/art/icons/ability_companion_necromancer_flameskull.dds"

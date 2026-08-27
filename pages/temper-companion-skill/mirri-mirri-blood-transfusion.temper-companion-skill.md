@@ -1,5 +1,6 @@
 ---
 id: 019e6484-387c-7710-aeee-ac5010dab342
+slug: mirri-mirri-blood-transfusion
 page-type-slug: temper-companion-skill
 title: "Blood Transfusion"
 icon: "/esoui/art/icons/ability_companion_nightblade_unique.dds"

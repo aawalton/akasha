@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3854-7de8-b88a-9a80cc6ffa59
+slug: bastian-bastian-tough
 page-type-slug: temper-companion-skill
 title: "Tough"
 icon: "/esoui/art/icons/passive_companion_dragonknight_017.dds"

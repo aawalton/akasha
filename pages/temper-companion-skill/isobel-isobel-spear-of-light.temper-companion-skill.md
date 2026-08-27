@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3879-7556-82d6-106ef37ef763
+slug: isobel-isobel-spear-of-light
 page-type-slug: temper-companion-skill
 title: "Spear of Light"
 icon: "/esoui/art/icons/ability_companion_templar_returning_spear.dds"

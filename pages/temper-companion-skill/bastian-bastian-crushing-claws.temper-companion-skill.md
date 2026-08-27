@@ -1,5 +1,6 @@
 ---
 id: 019e6484-384b-7d02-b466-7ef0596869ae
+slug: bastian-bastian-crushing-claws
 page-type-slug: temper-companion-skill
 title: "Crushing Claws"
 icon: "/esoui/art/icons/ability_companion_dragonknight_010.dds"

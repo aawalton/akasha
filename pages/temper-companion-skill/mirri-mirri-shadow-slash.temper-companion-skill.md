@@ -1,5 +1,6 @@
 ---
 id: 019e6484-388a-75ec-b19d-139486755ca1
+slug: mirri-mirri-shadow-slash
 page-type-slug: temper-companion-skill
 title: "Shadow Slash"
 icon: "/esoui/art/icons/ability_companion_nightblade_002.dds"

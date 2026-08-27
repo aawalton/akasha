@@ -1,5 +1,6 @@
 ---
 id: 019e6484-387d-7e76-835a-f1e88c408de4
+slug: mirri-mirri-dynamic
 page-type-slug: temper-companion-skill
 title: "Dynamic"
 icon: "/esoui/art/icons/passive_companion_weapon_023.dds"

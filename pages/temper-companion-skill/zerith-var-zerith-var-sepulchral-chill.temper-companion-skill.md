@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38b4-7c55-9732-c11e5ed18abb
+slug: zerith-var-zerith-var-sepulchral-chill
 page-type-slug: temper-companion-skill
 title: "Sepulchral Chill"
 icon: "/esoui/art/icons/ability_companion_necromancer_boneyard.dds"

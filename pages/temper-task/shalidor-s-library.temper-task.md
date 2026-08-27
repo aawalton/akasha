@@ -1,5 +1,6 @@
 ---
 id: 019e6a7d-5015-7d30-9bd6-ce0f15540ea0
+slug: shalidor-s-library
 page-type-slug: temper-task
 title: "Shalidor's Library"
 icon: "file-text"

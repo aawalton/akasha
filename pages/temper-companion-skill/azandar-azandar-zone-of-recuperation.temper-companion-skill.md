@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3845-7a06-872c-e1a6dc8cb1f4
+slug: azandar-azandar-zone-of-recuperation
 page-type-slug: temper-companion-skill
 title: "Zone of Recuperation"
 icon: "/esoui/art/icons/ability_companion_arcanist_domain.dds"

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3877-79d0-a571-cfa6b0027f14
+slug: isobel-isobel-solar-ward
 page-type-slug: temper-companion-skill
 title: "Solar Ward"
 icon: "/esoui/art/icons/ability_companion_templar_sun_shield.dds"

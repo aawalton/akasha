@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3881-73a7-96c7-246fb67b1dde
+slug: mirri-mirri-impeccable-shot
 page-type-slug: temper-companion-skill
 title: "Impeccable Shot"
 icon: "/esoui/art/icons/ability_companion_ultimate_mirri_001.dds"

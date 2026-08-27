@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a8-733f-bac6-da554a2d8bdf
+slug: tanlorin-tanlorin-ruinous-outburst
 page-type-slug: temper-companion-skill
 title: "Ruinous Outburst"
 icon: "/esoui/art/icons/ability_companion_tanlorin_wavesofpower.dds"

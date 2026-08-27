@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3868-79e5-b7b4-335bf0e0efda
+slug: ember-ember-tricksters-trap
 page-type-slug: temper-companion-skill
 title: "Trickster's Trap"
 icon: "/esoui/art/icons/ability_companion_sorcerer_dark_fog.dds"

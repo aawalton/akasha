@@ -1,5 +1,6 @@
 ---
 id: 019e6484-388c-785e-bf0a-bc50bb7c8b92
+slug: mirri-mirri-slayers-blade
 page-type-slug: temper-companion-skill
 title: "Slayer's Blade"
 icon: "/esoui/art/icons/ability_companion_nightblade_017.dds"

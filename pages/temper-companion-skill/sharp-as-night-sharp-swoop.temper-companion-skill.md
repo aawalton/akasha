@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a0-72c9-9788-01c8c9509eea
+slug: sharp-as-night-sharp-swoop
 page-type-slug: temper-companion-skill
 title: "Swoop"
 icon: "/esoui/art/icons/ability_companion_warden_dive.dds"

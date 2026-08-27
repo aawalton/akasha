@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a2-74a4-bf45-812de424b289
+slug: tanlorin-tanlorin-explosive-fortitude
 page-type-slug: temper-companion-skill
 title: "Explosive Fortitude"
 icon: "/esoui/art/icons/ability_companion_tanlorin_explosivefortitude.dds"

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3872-7a18-a4ac-c005928549a5
+slug: isobel-isobel-gallant-blitz
 page-type-slug: temper-companion-skill
 title: "Gallant Blitz"
 icon: "/esoui/art/icons/ability_companion_templar_focused_charge.dds"

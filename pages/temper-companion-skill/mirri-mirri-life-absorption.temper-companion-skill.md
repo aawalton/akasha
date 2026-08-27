@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3883-7c4e-aa2f-2a94ca0076cb
+slug: mirri-mirri-life-absorption
 page-type-slug: temper-companion-skill
 title: "Life Absorption"
 icon: "/esoui/art/icons/ability_companion_nightblade_012.dds"

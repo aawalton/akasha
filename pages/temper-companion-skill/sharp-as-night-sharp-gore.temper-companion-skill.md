@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3897-76e3-a61f-4befd88be014
+slug: sharp-as-night-sharp-gore
 page-type-slug: temper-companion-skill
 title: "Gore"
 icon: "/esoui/art/icons/ability_companion_warden_gore.dds"

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3894-7797-b1cc-dbeb0fbaa368
+slug: sharp-as-night-sharp-cold-snap
 page-type-slug: temper-companion-skill
 title: "Cold Snap"
 icon: "/esoui/art/icons/ability_companion_warden_impalingshards.dds"

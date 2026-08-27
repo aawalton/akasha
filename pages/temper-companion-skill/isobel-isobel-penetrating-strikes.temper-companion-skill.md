@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3876-7084-9250-0cf2b301a826
+slug: isobel-isobel-penetrating-strikes
 page-type-slug: temper-companion-skill
 title: "Penetrating Strikes"
 icon: "/esoui/art/icons/ability_companion_templar_trained_attacker.dds"

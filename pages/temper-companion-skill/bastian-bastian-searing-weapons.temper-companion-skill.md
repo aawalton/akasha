@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3853-76d3-9ddd-c5d20b8300d2
+slug: bastian-bastian-searing-weapons
 page-type-slug: temper-companion-skill
 title: "Searing Weapons"
 icon: "/esoui/art/icons/ability_companion_dragonknight_015.dds"

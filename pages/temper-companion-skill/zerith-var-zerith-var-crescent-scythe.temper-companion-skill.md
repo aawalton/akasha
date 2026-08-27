@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38b0-75eb-a72e-958b5897f7f0
+slug: zerith-var-zerith-var-crescent-scythe
 page-type-slug: temper-companion-skill
 title: "Crescent Scythe"
 icon: "/esoui/art/icons/ability_companion_necromancer_scythe.dds"

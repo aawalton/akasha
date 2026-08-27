@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38ac-7567-906f-0552a3b42e52
+slug: zerith-var-zerith-var-atoning-spirit
 page-type-slug: temper-companion-skill
 title: "Atoning Spirit"
 icon: "/esoui/art/icons/ability_companion_zerith_mendingspirit.dds"

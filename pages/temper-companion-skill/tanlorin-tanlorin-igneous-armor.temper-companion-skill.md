@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a5-7607-82f5-b623e4ff3f9b
+slug: tanlorin-tanlorin-igneous-armor
 page-type-slug: temper-companion-skill
 title: "Igneous Armor"
 icon: "/esoui/art/icons/ability_companion_tanlorin_igneousarmor.dds"

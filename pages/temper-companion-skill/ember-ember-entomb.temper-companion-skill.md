@@ -1,5 +1,6 @@
 ---
 id: 019e6484-385b-73a0-85be-7f18e0d28b36
+slug: ember-ember-entomb
 page-type-slug: temper-companion-skill
 title: "Entomb"
 icon: "/esoui/art/icons/ability_companion_sorcerer_cyclone.dds"

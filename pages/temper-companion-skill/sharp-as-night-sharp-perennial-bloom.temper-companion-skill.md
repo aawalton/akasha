@@ -1,5 +1,6 @@
 ---
 id: 019e6484-389a-7844-81b6-ab0e6c0b23e5
+slug: sharp-as-night-sharp-perennial-bloom
 page-type-slug: temper-companion-skill
 title: "Perennial Bloom"
 icon: "/esoui/art/icons/ability_companion_warden_healingseed.dds"

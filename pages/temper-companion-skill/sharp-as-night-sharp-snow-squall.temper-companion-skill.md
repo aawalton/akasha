@@ -1,5 +1,6 @@
 ---
 id: 019e6484-389e-71fc-b216-44f4b4624626
+slug: sharp-as-night-sharp-snow-squall
 page-type-slug: temper-companion-skill
 title: "Snow Squall"
 icon: "/esoui/art/icons/ability_companion_warden_arcticwind.dds"

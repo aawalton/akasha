@@ -1,5 +1,6 @@
 ---
 id: 019e6484-385e-7e59-ad59-ee3e62563dae
+slug: ember-ember-quick-fix
 page-type-slug: temper-companion-skill
 title: "Quick Fix"
 icon: "/esoui/art/icons/ability_companion_sorcerer_quickfix.dds"

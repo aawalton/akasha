@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3898-7f67-a1f6-639538025c3e
+slug: sharp-as-night-sharp-infest
 page-type-slug: temper-companion-skill
 title: "Infest"
 icon: "/esoui/art/icons/ability_companion_warden_swarm.dds"

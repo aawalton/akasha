@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3850-76a5-a8ea-5590c3d81fe7
+slug: bastian-bastian-kindle
 page-type-slug: temper-companion-skill
 title: "Kindle"
 icon: "/esoui/art/icons/ability_companion_dragonknight_002_b.dds"

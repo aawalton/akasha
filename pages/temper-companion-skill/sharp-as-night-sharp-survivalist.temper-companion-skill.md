@@ -1,5 +1,6 @@
 ---
 id: 019e6484-389f-7385-af6f-a9666f9ad128
+slug: sharp-as-night-sharp-survivalist
 page-type-slug: temper-companion-skill
 title: "Survivalist"
 icon: "/esoui/art/icons/ability_companion_warden_passive.dds"

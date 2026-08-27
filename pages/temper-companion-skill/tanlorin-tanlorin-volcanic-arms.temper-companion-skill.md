@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38ab-7217-8c87-e54984d87279
+slug: tanlorin-tanlorin-volcanic-arms
 page-type-slug: temper-companion-skill
 title: "Volcanic Arms"
 icon: "/esoui/art/icons/ability_companion_dragonknight_volcanicarms.dds"

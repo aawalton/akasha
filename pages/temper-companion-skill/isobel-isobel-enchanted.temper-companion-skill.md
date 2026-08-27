@@ -1,5 +1,6 @@
 ---
 id: 019e6484-386f-7567-8aaf-ef9cc2e1dc6c
+slug: isobel-isobel-enchanted
 page-type-slug: temper-companion-skill
 title: "Cunning"
 icon: "/esoui/art/icons/ability_companion_templar_cunning.dds"

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-386b-7e0d-b3a8-7b0e6591b10a
+slug: isobel-isobel-beam-of-reproach
 page-type-slug: temper-companion-skill
 title: "Beam of Reproach"
 icon: "/esoui/art/icons/ability_companion_templar_purifying_light.dds"

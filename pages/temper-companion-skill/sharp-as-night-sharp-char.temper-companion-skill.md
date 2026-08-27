@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3892-7f34-9e51-49d065626749
+slug: sharp-as-night-sharp-char
 page-type-slug: temper-companion-skill
 title: "Char"
 icon: "/esoui/art/icons/ability_companion_warden_scorch.dds"

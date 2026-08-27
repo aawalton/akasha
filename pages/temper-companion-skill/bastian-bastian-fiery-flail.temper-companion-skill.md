@@ -1,5 +1,6 @@
 ---
 id: 019e6484-384e-7e08-ba17-77fb370e009b
+slug: bastian-bastian-fiery-flail
 page-type-slug: temper-companion-skill
 title: "Fiery Flail"
 icon: "/esoui/art/icons/ability_companion_dragonknight_001.dds"

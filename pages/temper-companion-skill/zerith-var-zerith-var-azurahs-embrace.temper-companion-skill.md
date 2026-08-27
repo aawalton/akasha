@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38ad-783d-9933-9a92a3957728
+slug: zerith-var-zerith-var-azurahs-embrace
 page-type-slug: temper-companion-skill
 title: "Azurah's Embrace"
 icon: "/esoui/art/icons/ability_companion_necromancer_lifeamiddeath.dds"

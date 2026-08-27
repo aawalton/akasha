@@ -1,5 +1,6 @@
 ---
 id: 019e6484-387f-7663-9a4d-31447aeda194
+slug: mirri-mirri-ghostly-evasion
 page-type-slug: temper-companion-skill
 title: "Ghostly Evasion"
 icon: "/esoui/art/icons/ability_companion_nightblade_009.dds"

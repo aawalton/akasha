@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a9-7fb5-9cff-d790373b306c
+slug: tanlorin-tanlorin-spirited
 page-type-slug: temper-companion-skill
 title: "Spirited"
 icon: "/esoui/art/icons/ability_companion_tanlorin_passive.dds"

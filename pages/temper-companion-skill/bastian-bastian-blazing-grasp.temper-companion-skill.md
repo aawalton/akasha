@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3848-7e12-ba67-dae2c98c1c6b
+slug: bastian-bastian-blazing-grasp
 page-type-slug: temper-companion-skill
 title: "Blazing Grasp"
 icon: "/esoui/art/icons/ability_companion_dragonknight_005.dds"

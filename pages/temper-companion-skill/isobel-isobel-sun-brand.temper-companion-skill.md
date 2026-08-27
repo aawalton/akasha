@@ -1,5 +1,6 @@
 ---
 id: 019e6484-387a-7e0a-89b3-06a0f0ad268f
+slug: isobel-isobel-sun-brand
 page-type-slug: temper-companion-skill
 title: "Sun Brand"
 icon: "/esoui/art/icons/ability_companion_templar_sun_fire.dds"

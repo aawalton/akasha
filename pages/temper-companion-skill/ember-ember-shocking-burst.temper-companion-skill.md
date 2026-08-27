@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3865-7439-85bf-da5c12939357
+slug: ember-ember-shocking-burst
 page-type-slug: temper-companion-skill
 title: "Shocking Burst"
 icon: "/esoui/art/icons/ability_companion_sorcerer_lightning_splash.dds"

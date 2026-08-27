@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38ae-78e1-bcea-00334a19c551
+slug: zerith-var-zerith-var-blade-of-the-crossing
 page-type-slug: temper-companion-skill
 title: "Blade of the Crossing"
 icon: "/esoui/art/icons/ability_companion_zerith_mooncrescent.dds"

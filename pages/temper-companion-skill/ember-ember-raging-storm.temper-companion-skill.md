@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3860-7a92-9899-31056fbfecc6
+slug: ember-ember-raging-storm
 page-type-slug: temper-companion-skill
 title: "Raging Storm"
 icon: "/esoui/art/icons/ability_companion_sorcerer_ragingstorm.dds"

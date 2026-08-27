@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3847-75cb-9c57-281ffbda5cdb
+slug: bastian-bastian-basalt-barrier
 page-type-slug: temper-companion-skill
 title: "Basalt Barrier"
 icon: "/esoui/art/icons/ability_companion_dragonknight_017.dds"

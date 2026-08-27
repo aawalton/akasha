@@ -1,5 +1,6 @@
 ---
 id: 019e6484-385c-7fe5-b2a7-27779712886f
+slug: ember-ember-hurricane-visage
 page-type-slug: temper-companion-skill
 title: "Hurricane Visage"
 icon: "/esoui/art/icons/ability_companion_sorcerer_lightning_form.dds"

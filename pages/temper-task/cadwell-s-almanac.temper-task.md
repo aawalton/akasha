@@ -1,5 +1,6 @@
 ---
 id: 019db533-f381-7609-8205-f9904634be23
+slug: cadwell-s-almanac
 page-type-slug: temper-task
 title: "Cadwell's Almanac"
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-388e-7c29-977a-8a29e729a0e4
+slug: mirri-mirri-twilight-mantle
 page-type-slug: temper-companion-skill
 title: "Twilight Mantle"
 icon: "/esoui/art/icons/ability_companion_nightblade_004.dds"

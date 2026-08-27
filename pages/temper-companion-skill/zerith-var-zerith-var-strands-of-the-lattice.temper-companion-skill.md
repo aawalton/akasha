@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38b6-706c-8599-a9bf960b653e
+slug: zerith-var-zerith-var-strands-of-the-lattice
 page-type-slug: temper-companion-skill
 title: "Strands of the Lattice"
 icon: "/esoui/art/icons/ability_companion_necromancer_detonatingsiphon.dds"

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3895-7eac-b2bb-26d58c51bdc7
+slug: sharp-as-night-sharp-fungal-forage
 page-type-slug: temper-companion-skill
 title: "Fungal Forage"
 icon: "/esoui/art/icons/ability_companion_warden_fungalgrowth.dds"

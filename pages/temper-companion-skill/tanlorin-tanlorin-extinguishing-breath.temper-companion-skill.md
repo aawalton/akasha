@@ -1,5 +1,6 @@
 ---
 id: 019e6484-38a3-74ab-b39c-fc9be548688b
+slug: tanlorin-tanlorin-extinguishing-breath
 page-type-slug: temper-companion-skill
 title: "Extinguishing Breath"
 icon: "/esoui/art/icons/ability_companion_tanlorin_extinguishingbreath.dds"

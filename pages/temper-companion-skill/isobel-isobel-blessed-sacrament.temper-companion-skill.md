@@ -1,5 +1,6 @@
 ---
 id: 019e6484-386d-7b63-bd18-24844cc552a9
+slug: isobel-isobel-blessed-sacrament
 page-type-slug: temper-companion-skill
 title: "Blessed Sacrament"
 icon: "/esoui/art/icons/ability_companion_templar_rushed_ceremony.dds"
