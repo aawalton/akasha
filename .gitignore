@@ -1,3 +1,5 @@
 *.uncommitted.*
 *.lock/
 node_modules/
+.claude/
+infra/k8s/src/certs/*.key
