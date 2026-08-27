@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { type AstGrepRule, decideRuleOutcome, deriveRulePopulations, duplicateRuleIds, globLiteralPrefix, normalizeLanguage, parseRuleDoc, parseWalkedEntities, planAstGrepWatch, reconcilePopulations, stripInspectTrace } from "../../../../tools/lib/check-workflow/ast-grep-rules"
 
 const aRule = (over: Partial<AstGrepRule> & { id: string }): AstGrepRule => ({
-  path: `packages/x/rules/${over.id}.yml`,
+  path: `x/rules/${over.id}.yml`,
   language: "ts",
   filesGlobs: [],
   ignoresGlobs: [],
@@ -50,10 +50,10 @@ describe("normalizeLanguage", () => {
 
 describe("deriveRulePopulations", () => {
   const entities = [
-    { path: "packages/a/src/x.ts", language: "TypeScript", appliedRuleCount: 1 },
-    { path: "packages/a/src/x.test.ts", language: "TypeScript", appliedRuleCount: 0 },
-    { path: "packages/b/src/y.ts", language: "TypeScript", appliedRuleCount: 1 },
-    { path: "packages/a/src/z.tsx", language: "Tsx", appliedRuleCount: 0 },
+    { path: "a/src/x.ts", language: "TypeScript", appliedRuleCount: 1 },
+    { path: "a/src/x.test.ts", language: "TypeScript", appliedRuleCount: 0 },
+    { path: "b/src/y.ts", language: "TypeScript", appliedRuleCount: 1 },
+    { path: "a/src/z.tsx", language: "Tsx", appliedRuleCount: 0 },
   ]
 
   const populationOf = (rule: AstGrepRule): readonly string[] | undefined =>
@@ -61,9 +61,9 @@ describe("deriveRulePopulations", () => {
 
   test("a rule's population is its files globs less its ignores", () => {
     const population = populationOf(
-      aRule({ id: "r", filesGlobs: ["packages/**/*.ts"], ignoresGlobs: ["**/*.test.ts"] })
+      aRule({ id: "r", filesGlobs: ["**/*.ts"], ignoresGlobs: ["**/*.test.ts"] })
     )
-    expect(population).toEqual(["packages/a/src/x.ts", "packages/b/src/y.ts"])
+    expect(population).toEqual(["a/src/x.ts", "b/src/y.ts"])
   })
 
   test("a rule with NO files globs reaches every walked file of its language", () => {
@@ -72,12 +72,12 @@ describe("deriveRulePopulations", () => {
 
   test("a files glob reaching another language matches nothing there", () => {
     expect(
-      populationOf(aRule({ id: "r", language: "ts", filesGlobs: ["packages/**/*.tsx"] }))
+      populationOf(aRule({ id: "r", language: "ts", filesGlobs: ["**/*.tsx"] }))
     ).toEqual([])
   })
 
   test("a rule whose globs name nothing walked reports an EMPTY population, not an absent one", () => {
-    expect(populationOf(aRule({ id: "nowhere", filesGlobs: ["packages/gone/**/*.ts"] }))).toEqual(
+    expect(populationOf(aRule({ id: "nowhere", filesGlobs: ["gone/**/*.ts"] }))).toEqual(
       []
     )
   })
@@ -88,16 +88,16 @@ describe("deriveRulePopulations", () => {
 
   test("a no-separator ignore reaches the same depth its files glob does", () => {
     const population = populationOf(
-      aRule({ id: "r", filesGlobs: ["packages/**/*.ts"], ignoresGlobs: ["*.test.ts"] })
+      aRule({ id: "r", filesGlobs: ["**/*.ts"], ignoresGlobs: ["*.test.ts"] })
     )
-    expect(population).toEqual(["packages/a/src/x.ts", "packages/b/src/y.ts"])
+    expect(population).toEqual(["a/src/x.ts", "b/src/y.ts"])
   })
 
   test("two rule files declaring ONE id keep their populations apart", () => {
-    const wide = { ...aRule({ id: "same" }), path: "packages/a/rules/wide.yml" }
+    const wide = { ...aRule({ id: "same" }), path: "a/rules/wide.yml" }
     const empty = {
-      ...aRule({ id: "same", filesGlobs: ["packages/gone/**/*.ts"] }),
-      path: "packages/b/rules/empty.yml",
+      ...aRule({ id: "same", filesGlobs: ["gone/**/*.ts"] }),
+      path: "b/rules/empty.yml",
     }
     const populations = deriveRulePopulations([wide, empty], entities)
     expect(populations.get(wide.path)).toHaveLength(3)
@@ -111,8 +111,8 @@ describe("duplicateRuleIds", () => {
   })
 
   test("names every file declaring a shared id, so either can be the one renamed", () => {
-    const one = { ...aRule({ id: "same" }), path: "packages/a/rules/one.yml" }
-    const two = { ...aRule({ id: "same" }), path: "packages/b/rules/two.yml" }
+    const one = { ...aRule({ id: "same" }), path: "a/rules/one.yml" }
+    const two = { ...aRule({ id: "same" }), path: "b/rules/two.yml" }
     expect(duplicateRuleIds([one, two]).get("same")).toEqual([one.path, two.path])
   })
 })
@@ -184,52 +184,50 @@ describe("stripInspectTrace", () => {
 
 describe("globLiteralPrefix", () => {
   test("returns the directory prefix before the first wildcard", () => {
-    expect(globLiteralPrefix("packages/infra/workflow-dsl/src/dsl/templates/**/*.ts")).toBe(
-      "packages/infra/workflow-dsl/src/dsl/templates"
-    )
+    expect(globLiteralPrefix("alanwalton/web/app/**/*.ts")).toBe("alanwalton/web/app")
   })
 
   test("a repo-wide glob has a prefix that reaches no package", () => {
-    expect(globLiteralPrefix("packages/**/*.ts")).toBe("packages")
+    expect(globLiteralPrefix("**/*.ts")).toBe("")
   })
 
   test("a glob with no wildcard is its own prefix directory", () => {
-    expect(globLiteralPrefix("packages/infra/checks/src/lib/x.ts")).toBe(
-      "packages/infra/checks/src/lib"
+    expect(globLiteralPrefix("infra/cluster-checks/src/lib/x.ts")).toBe(
+      "infra/cluster-checks/src/lib"
     )
   })
 })
 
 describe("planAstGrepWatch", () => {
   const workspaces = [
-    { name: "@infra/workflow-dsl", dir: "packages/infra/workflow-dsl" },
-    { name: "@infra/checks", dir: "packages/infra/checks" },
+    { name: "@infra/workspace-cli", dir: "infra/workspace-cli" },
+    { name: "@infra/cluster-checks", dir: "infra/cluster-checks" },
   ]
 
   test("maps a package-scoped glob to its owning package seed", () => {
     expect(
       planAstGrepWatch(
-        [aRule({ id: "r", path: "p/rules/r.yml", filesGlobs: ["packages/infra/checks/src/lib/x*.ts"] })],
+        [aRule({ id: "r", path: "p/rules/r.yml", filesGlobs: ["infra/cluster-checks/src/lib/x*.ts"] })],
         workspaces
       )
-    ).toEqual({ seeds: ["package:code:@infra/checks"], repoWide: false })
+    ).toEqual({ seeds: ["package:code:@infra/cluster-checks"], repoWide: false })
   })
 
   test("de-duplicates and sorts seeds across rules", () => {
     const plan = planAstGrepWatch(
       [
-        aRule({ id: "a", path: "p/rules/a.yml", filesGlobs: ["packages/infra/checks/src/**/*.ts"] }),
-        aRule({ id: "b", path: "p/rules/b.yml", filesGlobs: ["packages/infra/checks/src/lib/*.ts"] }),
-        aRule({ id: "c", path: "p/rules/c.yml", filesGlobs: ["packages/infra/workflow-dsl/src/*.ts"] }),
+        aRule({ id: "a", path: "p/rules/a.yml", filesGlobs: ["infra/cluster-checks/src/**/*.ts"] }),
+        aRule({ id: "b", path: "p/rules/b.yml", filesGlobs: ["infra/cluster-checks/src/lib/*.ts"] }),
+        aRule({ id: "c", path: "p/rules/c.yml", filesGlobs: ["infra/workspace-cli/src/*.ts"] }),
       ],
       workspaces
     )
-    expect(plan.seeds).toEqual(["package:code:@infra/checks", "package:code:@infra/workflow-dsl"])
+    expect(plan.seeds).toEqual(["package:code:@infra/cluster-checks", "package:code:@infra/workspace-cli"])
   })
 
   test("a glob too broad to name a package WIDENS the watch set instead of narrowing it", () => {
     const plan = planAstGrepWatch(
-      [aRule({ id: "wide", path: "p/rules/wide.yml", filesGlobs: ["packages/**/*.ts"] })],
+      [aRule({ id: "wide", path: "p/rules/wide.yml", filesGlobs: ["**/*.ts"] })],
       workspaces
     )
     expect(plan.repoWide).toBe(true)
@@ -244,12 +242,12 @@ describe("planAstGrepWatch", () => {
   test("one repo-wide rule alongside package-scoped ones makes the whole plan repo-wide", () => {
     const plan = planAstGrepWatch(
       [
-        aRule({ id: "a", path: "p/rules/a.yml", filesGlobs: ["packages/infra/checks/src/**/*.ts"] }),
-        aRule({ id: "wide", path: "p/rules/wide.yml", filesGlobs: ["packages/**/*.tsx"] }),
+        aRule({ id: "a", path: "p/rules/a.yml", filesGlobs: ["infra/cluster-checks/src/**/*.ts"] }),
+        aRule({ id: "wide", path: "p/rules/wide.yml", filesGlobs: ["**/*.tsx"] }),
       ],
       workspaces
     )
-    expect(plan).toEqual({ seeds: ["package:code:@infra/checks"], repoWide: true })
+    expect(plan).toEqual({ seeds: ["package:code:@infra/cluster-checks"], repoWide: true })
   })
 })
 
@@ -284,8 +282,8 @@ describe("parseRuleDoc", () => {
 })
 
 describe("decideRuleOutcome", () => {
-  const demo = aRule({ id: "demo", filesGlobs: ["packages/x/**/*.ts"] })
-  const finding = { ruleId: "demo", file: "packages/x/a.ts", line: 41, message: "bad thing" }
+  const demo = aRule({ id: "demo", filesGlobs: ["x/**/*.ts"] })
+  const finding = { ruleId: "demo", file: "x/a.ts", line: 41, message: "bad thing" }
 
   test("a non-empty population with no findings passes", () => {
     expect(decideRuleOutcome({ rule: demo, populationSize: 18, findings: [] })).toEqual([])
@@ -306,7 +304,7 @@ describe("decideRuleOutcome", () => {
   test("each finding is sited at its own file and carries its rule's id", () => {
     const violations = decideRuleOutcome({ rule: demo, populationSize: 18, findings: [finding] })
     expect(violations).toEqual([
-      { file: "packages/x/a.ts", line: 42, message: "ast-grep rule `demo`: bad thing" },
+      { file: "x/a.ts", line: 42, message: "ast-grep rule `demo`: bad thing" },
     ])
   })
 })
