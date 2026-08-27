@@ -1,10 +1,10 @@
 export const summary = "Remove files, gated against the repo that would remain"
 
-import { existsSync, readFileSync, readdirSync, rmSync, rmdirSync, statSync } from "node:fs"
-import { dirname, resolve } from "node:path"
+import { existsSync, readFileSync, readdirSync, rmdirSync, statSync } from "node:fs"
+import { dirname } from "node:path"
 import { sidecarsOf } from "../../../page/sidecar/sidecar.ts"
 import { git } from "../../../repo/git/git.ts"
-import { land, LandingRefused, type SizeChange, sizeLines } from "../../../repo/land/land.ts"
+import { land, LandingRefused, MISSING, removeOutside } from "../../../repo/land/land.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import { fail, valueOf } from "../../../patches/patch.ts"
 
@@ -19,8 +19,6 @@ const DRY_RUN = "--dry-run"
 const VALUE_FLAGS = [REPO, MESSAGE, MESSAGE_FILE]
 
 const BARE_FLAGS = [DRY_RUN, "--help", "-h"]
-
-const MISSING = "does not exist — a removal names what is there, so this is a typo rather than a no-op"
 
 export function trackedUnder(root: string, relPath: string): readonly string[] {
   const held = git(root, ["ls-files", "-z", "--", relPath])
@@ -104,47 +102,6 @@ function openedIn(at: Addressed, named: readonly string[]): readonly string[] {
   }
   if (refusals.length > 0) fail(refusals.join("\n       "))
   return [...new Set(opened)]
-}
-
-function removeOutside(named: readonly string[], dryRun: boolean): void {
-  const absolutes = named.map((one) => resolve(process.cwd(), one))
-  if (new Set(absolutes).size !== absolutes.length) fail("a path is declared more than once")
-  const refusals: string[] = []
-  for (const absolute of absolutes) {
-    if (!existsSync(absolute)) {
-      refusals.push(`${absolute} ${MISSING}`)
-      continue
-    }
-    if (!statSync(absolute).isFile()) {
-      refusals.push(
-        `${absolute} is a directory no repo holds, so nothing says which files under it would go — ` +
-          "name them"
-      )
-    }
-  }
-  if (refusals.length > 0) fail(refusals.join("\n       "))
-  const sizes: readonly SizeChange[] = absolutes.map((absolute) => ({
-    relPath: absolute,
-    before: statSync(absolute).size,
-    after: null,
-  }))
-  if (dryRun) {
-    process.stdout.write(
-      [
-        `write:  dry-run — ${absolutes.length} file(s) would be removed outside every repo`,
-        ...sizeLines(sizes),
-      ].join("\n") + "\n"
-    )
-    return
-  }
-  for (const absolute of absolutes) rmSync(absolute)
-  process.stdout.write(
-    [
-      `write:  ${absolutes.length} file(s) removed outside every repo`,
-      ...sizeLines(sizes),
-      "commit: none — no repo holds these paths, so nothing carries their history",
-    ].join("\n") + "\n"
-  )
 }
 
 export const help = {

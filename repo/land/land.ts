@@ -9,14 +9,14 @@ import {
   statSync,
   writeFileSync,
 } from "node:fs"
-import { dirname } from "node:path"
+import { dirname, resolve } from "node:path"
 import { commitAuthor } from "../../agent/commit-author.ts"
 import { countLines } from "../../agent/read-log.ts"
 import { carryReadingsBy, type Moved, recordReadBy } from "../../agent/record-read.ts"
 import { writerId } from "../../agent/writer.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { indexAfterLanding, bodiesBefore } from "./landing.ts"
-import { GATED, gateOrRefuse, patchText } from "../../patches/patch.ts"
+import { fail, GATED, gateOrRefuse, patchText } from "../../patches/patch.ts"
 import { blobId, commitPaths, gitAskingPaths, gitIgnoring, whileHoldingLanding } from "../git/git.ts"
 import { canonicalize } from "../path/path.ts"
 import { handOffPush, pushStandingLines } from "../push/push.ts"
@@ -27,6 +27,9 @@ const SHEBANG = "#!"
 const EXECUTABLE = 0o755
 
 const SCRATCH = "/var/tmp"
+
+export const MISSING =
+  "does not exist — a removal names what is there, so this is a typo rather than a no-op"
 
 export interface Landing {
   readonly relPath: string
@@ -401,6 +404,47 @@ export function landOutside(entries: readonly Loose[], dryRun: boolean): void {
   process.stdout.write(
     [
       `write:  ${entries.length} file(s) written outside every repo`,
+      ...sizeLines(sizes),
+      "commit: none — no repo holds these paths, so nothing carries their history",
+    ].join("\n") + "\n"
+  )
+}
+
+export function removeOutside(named: readonly string[], dryRun: boolean): void {
+  const absolutes = named.map((one) => resolve(process.cwd(), one))
+  if (new Set(absolutes).size !== absolutes.length) fail("a path is declared more than once")
+  const refusals: string[] = []
+  for (const absolute of absolutes) {
+    if (!existsSync(absolute)) {
+      refusals.push(`${absolute} ${MISSING}`)
+      continue
+    }
+    if (!statSync(absolute).isFile()) {
+      refusals.push(
+        `${absolute} is a directory no repo holds, so nothing says which files under it would go — ` +
+          "name them"
+      )
+    }
+  }
+  if (refusals.length > 0) fail(refusals.join("\n       "))
+  const sizes: readonly SizeChange[] = absolutes.map((absolute) => ({
+    relPath: absolute,
+    before: statSync(absolute).size,
+    after: null,
+  }))
+  if (dryRun) {
+    process.stdout.write(
+      [
+        `write:  dry-run — ${absolutes.length} file(s) would be removed outside every repo`,
+        ...sizeLines(sizes),
+      ].join("\n") + "\n"
+    )
+    return
+  }
+  for (const absolute of absolutes) rmSync(absolute)
+  process.stdout.write(
+    [
+      `write:  ${absolutes.length} file(s) removed outside every repo`,
       ...sizeLines(sizes),
       "commit: none — no repo holds these paths, so nothing carries their history",
     ].join("\n") + "\n"

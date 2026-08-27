@@ -6,7 +6,7 @@ import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
 import { sidecarsBeside } from "../../../page/sidecar/sidecar.ts"
 import { statingIds } from "./state-id.ts"
-import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../../repo/land/land.ts"
+import { land, LandingRefused, landOutside, type Landing, type Loose, removeOutside } from "../../../repo/land/land.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import { fail, type Landing as Patched, patchText, payloadText, valueOf } from "../../../patches/patch.ts"
@@ -187,7 +187,6 @@ export default async function write(argv: readonly string[]): Promise<void> {
   const at = addressOf(argv, everyPath)
 
   if (at === null) {
-    if (named.length > 0) fail(`${REMOVE} takes a path out of a repo, and these paths are inside none`)
     if (valueOf(argv, PATCH_FILE) !== null) {
       fail(`${PATCH_FILE} is for a call addressing akasha; nothing outside it is landed by patch`)
     }
@@ -202,7 +201,8 @@ export default async function write(argv: readonly string[]): Promise<void> {
       if (carriesBytes(absolute)) fail(binaryInJson(absolute))
       loose.push({ absolute, body: one.content })
     }
-    landOutside(loose, dryRun)
+    if (loose.length > 0) landOutside(loose, dryRun)
+    if (named.length > 0) removeOutside(named, dryRun)
     return
   }
 
