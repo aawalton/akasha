@@ -16,7 +16,7 @@ export interface Porter {
 }
 
 export interface Verifier {
-  readonly verify: (codeRoot: string) => Promise<void>
+  readonly verify: () => Promise<void>
 }
 
 export async function porterFor(library: UpstreamLibrary): Promise<Porter> {

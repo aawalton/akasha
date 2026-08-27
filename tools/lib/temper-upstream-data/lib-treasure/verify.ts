@@ -1,19 +1,14 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
+import { BOOK_ID } from "@temper/shared-addon-libraries-lib-treasure/src/data/book-id-data.ts"
+import { ALL_DATA } from "@temper/shared-addon-libraries-lib-treasure/src/generated/treasure-pins-data.generated.ts"
+import { icons } from "@temper/shared-addon-libraries-lib-treasure/src/icons.ts"
+import type { AllData } from "@temper/shared-addon-libraries-lib-treasure/src/types.ts"
 import { makeLuaVm } from "@temper/shared-build-deploy-lua-runner/lua-vm"
 import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
-import { codeModule } from "../../code-import.ts"
-import { PACKAGE_OF, PortMismatch } from "../libraries.ts"
+import { PortMismatch } from "../libraries.ts"
 
 const SOURCE_DIR = join(addonsDir(), "LibTreasure")
-
-const BOOK_ID_REL = "src/data/book-id-data.ts"
-const GENERATED_REL = "src/generated/treasure-pins-data.generated.ts"
-const ICONS_REL = "src/icons.ts"
-
-type PinLayout = readonly [x: number, y: number, texture: string, itemId: number]
-
-type AllData = Record<number, Partial<Record<number, readonly PinLayout[]>>>
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null
@@ -63,18 +58,7 @@ function derivedCounts(allData: AllData): {
   return { itemIds: itemIds.size, textures: textures.size, pins }
 }
 
-export async function verify(codeRoot: string): Promise<void> {
-  const pkgRel = PACKAGE_OF["lib-treasure"]
-  const { ALL_DATA } = await codeModule<{ ALL_DATA: AllData }>(
-    `${pkgRel}/${GENERATED_REL}`,
-    codeRoot
-  )
-  const { BOOK_ID } = await codeModule<{ BOOK_ID: Record<number, number> }>(
-    `${pkgRel}/${BOOK_ID_REL}`,
-    codeRoot
-  )
-  const { icons } = await codeModule<{ icons: string[] }>(`${pkgRel}/${ICONS_REL}`, codeRoot)
-
+export async function verify(): Promise<void> {
   const dataSrc = await readFile(join(SOURCE_DIR, "data.lua"), "utf-8")
   const iconsSrc = await readFile(join(SOURCE_DIR, "icons.lua"), "utf-8")
   const vm = await makeLuaVm()

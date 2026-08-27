@@ -1,8 +1,6 @@
 
 export const summary = "Rule on whether a ported upstream ESO library's data still matches upstream, leaf for leaf"
 
-import { realpathSync } from "node:fs"
-import { codeRoot } from "../../../lib/code-root.ts"
 import { dataError, inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import {
@@ -20,21 +18,10 @@ export const help: CommandHelp = {
       description: `Which upstream library's port to rule on: ${UPSTREAM_LIBRARIES.join(", ")}.`,
     },
   ],
-  flags: [
-    {
-      name: "--code-root",
-      argLabel: "<path>",
-      valueShape: "token",
-      path: true,
-      description:
-        "The checkout holding the ported files. Defaults to $CODE_ROOT, else this repository.",
-    },
-  ],
-  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [{ code: 2, meaning: "the ported data no longer matches upstream" }],
   examples: [
-    "ops temper upstream-data verify lib-zone --code-root ~/repos/akasha",
-    "CODE_ROOT=~/repos/akasha ops temper upstream-data verify lib-treasure",
+    "ops temper upstream-data verify lib-zone",
+    "ops temper upstream-data verify lib-treasure",
   ],
 }
 
@@ -51,12 +38,10 @@ function namedLibrary(given: string | undefined): UpstreamLibrary {
 export default async function temperUpstreamDataVerify(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const library = namedLibrary(parsed.positionals[0])
-  const named = parsed.string("--code-root")
-  const root = realpathSync(named ?? codeRoot())
 
   const verifier = await verifierFor(library)
   try {
-    await verifier.verify(root)
+    await verifier.verify()
   } catch (error) {
     if (error instanceof PortMismatch) throw dataError(error.message)
     throw error

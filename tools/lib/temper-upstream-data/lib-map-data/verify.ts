@@ -1,15 +1,16 @@
 import { join } from "node:path"
+import {
+  MAP_DATA,
+  PSEUDO_MAP_INDICES,
+} from "@temper/shared-addon-libraries-lib-map-data/src/generated/map-data.generated.ts"
 import { makeLuaVm } from "@temper/shared-build-deploy-lua-runner/lua-vm"
 import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
-import { codeModule } from "../../code-import.ts"
-import { diff, dumpJsWalk, isRecord, LUA_DUMP } from "../leaf-dump.ts"
-import { PACKAGE_OF, PortMismatch } from "../libraries.ts"
+import { diff, dumpJsWalk, LUA_DUMP } from "../leaf-dump.ts"
+import { PortMismatch } from "../libraries.ts"
 
 const SOURCE = join(addonsDir(), "LibMapData", "LibMapData_Data.lua")
 
-const OUT_REL = "src/generated/map-data.generated.ts"
-
-export async function verify(codeRoot: string): Promise<void> {
+export async function verify(): Promise<void> {
   const vm = await makeLuaVm({ stubs: LUA_DUMP })
   let failures = 0
   try {
@@ -32,16 +33,13 @@ export async function verify(codeRoot: string): Promise<void> {
     const [luaMap, luaPseudo] = luaRaw.split("\n====PSEUDO====\n")
     if (luaMap === undefined || luaPseudo === undefined) throw new Error("missing PSEUDO marker")
 
-    const mod = await codeModule<unknown>(`${PACKAGE_OF["lib-map-data"]}/${OUT_REL}`, codeRoot)
-    if (!isRecord(mod)) throw new Error("map-data.generated.ts did not import as an object")
-
     const mapJs: string[] = []
-    dumpJsWalk(mod.MAP_DATA, "", mapJs)
+    dumpJsWalk(MAP_DATA, "", mapJs)
     mapJs.sort()
     if (!diff("MAP_DATA", luaMap, mapJs.join("\n"))) failures++
 
     const pseudoJs: string[] = []
-    dumpJsWalk(mod.PSEUDO_MAP_INDICES, "", pseudoJs)
+    dumpJsWalk(PSEUDO_MAP_INDICES, "", pseudoJs)
     pseudoJs.sort()
     if (!diff("PSEUDO_MAP_INDICES", luaPseudo, pseudoJs.join("\n"))) failures++
   } finally {

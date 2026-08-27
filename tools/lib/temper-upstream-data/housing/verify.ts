@@ -1,16 +1,16 @@
 import { join } from "node:path"
+import { naLibraryData } from "@temper/game-housing-addon/src/ptf/data/generated/library-data-na.generated.ts"
+import { euLibraryData } from "@temper/game-housing-addon/src/ptf/data/generated/library-data.generated.ts"
+import type { LibraryEntry } from "@temper/game-housing-addon/src/ptf/types.ts"
 import { makeLuaVm } from "@temper/shared-build-deploy-lua-runner/lua-vm"
 import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
-import { codeModule } from "../../code-import.ts"
-import { PACKAGE_OF, PortMismatch } from "../libraries.ts"
+import { PortMismatch } from "../libraries.ts"
 
 const UPSTREAM_PATH = join(
   addonsDir(),
   "PortToFriendsHouse",
   "PortToFriendsHouseLibraryData.lua"
 )
-
-const BARREL_REL = "src/ptf/data/generated/library-data.generated.ts"
 
 const FILTER_IDS: Record<string, number> = {
   FILTER_ID_NONE: 1,
@@ -39,13 +39,6 @@ ${FILTER_CONST_LUA}
 GetWorldName = function() return "EU Megaserver" end
 return "ok"
 `
-
-interface LibraryEntry {
-  readonly name: string
-  readonly houseId: number
-  readonly description: string
-  readonly category: readonly number[]
-}
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null
@@ -110,7 +103,7 @@ function compare(label: string, upstream: LibraryEntry[], generated: LibraryEntr
   return failures
 }
 
-export async function verify(codeRoot: string): Promise<void> {
+export async function verify(): Promise<void> {
   const vm = await makeLuaVm({ stubs: PRELUDE })
   let failures = 0
   try {
@@ -126,13 +119,8 @@ export async function verify(codeRoot: string): Promise<void> {
     const euUpstream = parseEntries(await vm.run("return PortToFriend.libData.euData"), "euData")
     const naUpstream = parseEntries(await vm.run("return PortToFriend.libData.naData"), "naData")
 
-    const mod = await codeModule<unknown>(`${PACKAGE_OF.housing}/${BARREL_REL}`, codeRoot)
-    if (!isRecord(mod)) throw new Error("generated module did not import as an object")
-    const euGen = parseEntries(mod.euLibraryData, "euLibraryData")
-    const naGen = parseEntries(mod.naLibraryData, "naLibraryData")
-
-    failures += compare("euData", euUpstream, euGen)
-    failures += compare("naData", naUpstream, naGen)
+    failures += compare("euData", euUpstream, euLibraryData)
+    failures += compare("naData", naUpstream, naLibraryData)
   } finally {
     await vm.close()
   }
