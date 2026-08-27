@@ -1,7 +1,7 @@
 import { onceInCall } from "../during-call/during-call.ts"
 import { repoPlacings, scanSpanning } from "./page-types.ts"
 import { textAt } from "./text/text.ts"
-import { REPOS } from "../repo/roots/roots.ts"
+import { AKASHA, REPOS } from "../repo/roots/roots.ts"
 import type { Roots } from "./page.ts"
 
 export type Open = (relPath: string) => string | null
@@ -30,7 +30,7 @@ function openAcross(roots: Roots): Open {
 function builtDiskTree(roots: Roots): FileTree {
   const placed = repoPlacings(roots)
   return {
-    root: roots["instructions"] ?? "",
+    root: roots[AKASHA] ?? "",
     pending: new Set<string>(),
     paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
     open: openAcross(roots),
@@ -39,13 +39,13 @@ function builtDiskTree(roots: Roots): FileTree {
 }
 
 export function diskFileTree(roots: Roots): FileTree {
-  return onceInCall(`disk:${roots["instructions"] ?? ""}`, () => builtDiskTree(roots))
+  return onceInCall(`disk:${roots[AKASHA] ?? ""}`, () => builtDiskTree(roots))
 }
 
 function builtSpanningTree(roots: Roots): FileTree {
   const placed = repoPlacings(roots)
   return {
-    root: roots["instructions"] ?? "",
+    root: roots[AKASHA] ?? "",
     roots,
     pending: new Set<string>(),
     paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
@@ -55,5 +55,5 @@ function builtSpanningTree(roots: Roots): FileTree {
 }
 
 export function spanningFileTree(roots: Roots): FileTree {
-  return onceInCall(`spanning:${roots["instructions"] ?? ""}`, () => builtSpanningTree(roots))
+  return onceInCall(`spanning:${roots[AKASHA] ?? ""}`, () => builtSpanningTree(roots))
 }
