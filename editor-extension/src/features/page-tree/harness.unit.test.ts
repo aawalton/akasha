@@ -15,16 +15,16 @@ import { describe, expect, test } from 'bun:test';
 import { type Fetcher, askQuery, countPages, countRows, documentPath, parseAnswer, readPageTree } from "./harness"
 import { type PageNode, type QueryRow, assemblePageTree } from "./assemble";
 
-const REPO = '/home/walton/repos/instructions';
+const REPO = '/home/walton/repos/akasha';
 
 const TYPES: readonly QueryRow[] = [
-	{ at: 'instructions:pages/page-type/page.md', values: { slug: 'page', 'extends-slug': 'none' } },
-	{ at: 'instructions:pages/page-type/domain.md', values: { slug: 'domain', 'extends-slug': 'page' } },
+	{ at: 'akasha:pages/page-type/page.md', values: { slug: 'page', 'extends-slug': 'none' } },
+	{ at: 'akasha:pages/page-type/domain.md', values: { slug: 'domain', 'extends-slug': 'page' } },
 ];
 
 const PROPERTIES: readonly QueryRow[] = [
 	{
-		at: 'instructions:pages/page-property-definition/page-body.md',
+		at: 'akasha:pages/page-property-definition/page-body.md',
 		values: { slug: 'page-body', key: 'body', 'defined-on-slug': 'page', type: 'template' },
 	},
 ];
@@ -118,7 +118,7 @@ describe('readPageTree', () => {
 			'page-type-all': TYPES,
 			'rules-engine-rule-set-all': [
 				{
-					at: 'instructions:pages/rules-engine-rule-set/email-rule.md',
+					at: 'akasha:pages/rules-engine-rule-set/email-rule.md',
 					values: { slug: 'email-rule', 'extends-slug': 'page' },
 				},
 			],
@@ -133,7 +133,7 @@ describe('readPageTree', () => {
 			'page-property-definition-all': PROPERTIES,
 			'alan-harness-tracking-field-all': [
 				{
-					at: 'instructions:pages/alan-harness-tracking-field/page-woke.md',
+					at: 'akasha:pages/alan-harness-tracking-field/page-woke.md',
 					values: { slug: 'page-woke', key: 'woke', 'defined-on-slug': 'page', type: 'number' },
 				},
 			],
@@ -178,23 +178,15 @@ const rooted = (row: QueryRow) =>
 describe('documentPath', () => {
 	test('opens a row under the repository the row itself names', () => {
 		expect(documentPath(TREE, TREE.roots[0] as PageNode))
-			.toMatch(/\/instructions\/pages\/page-type\/page\.md$/);
+			.toMatch(/\/akasha\/pages\/page-type\/page\.md$/);
 	});
 
 	/**
-	 * THE WHOLE REASON A ROW CARRIES ITS REPOSITORY. A page type lives where its domain lives, so the
-	 * same answer holds rows from instructions and rows from akasha, and each has to open from its
-	 * own root rather than from the one the panel is watching.
+	 * WHY A ROW CARRIES ITS REPOSITORY AT ALL. `books` was absorbed into akasha and its checkout is
+	 * gone, so a row still naming it names a repository this cannot place. Undefined is the whole
+	 * point: a root answered for it would build a path into a missing directory, and the row would be
+	 * drawn with an open command that fails after Alan has already clicked it.
 	 */
-	test('a row from another repository opens under that repository, not under the watched one', () => {
-		const tree = rooted({
-			at: 'akasha:readouts/readout.page-type.md',
-			values: { slug: 'readout', 'extends-slug': 'none' },
-		});
-		expect(documentPath(tree, tree.roots[0] as PageNode))
-			.toMatch(/\/akasha\/readouts\/readout\.page-type\.md$/);
-	});
-
 	test('a row naming a repository this cannot place has no path rather than one into nowhere', () => {
 		const tree = rooted({ at: 'books:shelf/one.md', values: { slug: 'one', 'extends-slug': 'none' } });
 		expect(documentPath(tree, tree.roots[0] as PageNode)).toBeUndefined();

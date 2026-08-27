@@ -14,8 +14,8 @@
  * So the facts are asked of the service as named page queries and `assemble.ts` nests them.
  *
  * NAMED RATHER THAN COMPOSED, as `pages/page-type/page-query.md` intends: "A product names a page
- * query rather than composing one." All six stand as pages under `pages/page-query/` in the
- * instructions repository, so what this asks is reviewable there rather than only here.
+ * query rather than composing one." All six stand as pages under `pages/page-query/` in the akasha
+ * repository, so what this asks is reviewable there rather than only here.
  *
  * PARSED RATHER THAN CAST. The boundary moved — a query envelope now rather than a tree — but the
  * reason did not: a service that changed underneath us should arrive as a message in the output
@@ -25,7 +25,7 @@
 import * as path from 'node:path';
 import { z } from 'zod';
 import { PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
-import { akashaRoot, instructionsRoot, memoryRoot } from '../../harness-call';
+import { akashaRoot } from '../../harness-call';
 import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble';
 
 
@@ -119,9 +119,9 @@ export function countPages(nodes: readonly PageNode[]): number {
 /**
  * The absolute path of a row's document, or undefined where the row is scaffolding and has none.
  *
- * Joined against the root of the repository the row itself names, so a row from akasha opens from
- * akasha and a row from instructions opens from instructions. `tree` is taken for the shape the
- * three panels share and for a repository this cannot place.
+ * Joined against the root of the repository the row itself names, so a row this can place opens from
+ * that repository's own root. `tree` is taken for the shape the three panels share and for a
+ * repository this cannot place.
  */
 export function documentPath(tree: PageTree, node: PageNode): string | undefined {
 	if (node.at === null) { return undefined; }
@@ -135,10 +135,13 @@ export function documentPath(tree: PageTree, node: PageNode): string | undefined
  *
  * HERE RATHER THAN IN `harness-call.ts` because the page tree is the only reader that meets a
  * repository name at all: the other two panels are answered by one repository each.
+ *
+ * ONE REPOSITORY ANSWERS NOW. `instructions`, `memory`, `books` and `stories` were absorbed into
+ * akasha and their checkouts are gone, so a row naming one of them is a row this cannot place.
+ * Undefined says so, where the roots that used to answer them would have built a path into a
+ * directory that is not there — a row drawn with an open command that fails on the click.
  */
 function rootOfRepo(repo: string): string | undefined {
-	if (repo === 'instructions') { return instructionsRoot(); }
-	if (repo === 'memory') { return memoryRoot(); }
 	if (repo === 'akasha') { return akashaRoot(); }
 	return undefined;
 }
