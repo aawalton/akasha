@@ -49,37 +49,37 @@ describe("extractBinTargets", () => {
   test("string-form bin on an unscoped package uses the name verbatim", () => {
     const got = extractBinTargets(
       { name: "unscoped-tool", bin: "./src/cli.ts" },
-      "packages/x/unscoped-tool/package.json"
+      "x/unscoped-tool/package.json"
     )
     expect(got[0]?.command).toBe("unscoped-tool")
   })
 
   test("missing bin returns no entries", () => {
-    expect(extractBinTargets({ name: "@x/y" }, "packages/x/y/package.json")).toEqual([])
+    expect(extractBinTargets({ name: "@x/y" }, "x/y/package.json")).toEqual([])
   })
 
   test("string-form bin without a `name` throws (no command derivable)", () => {
-    expect(() => extractBinTargets({ bin: "./src/cli.ts" }, "packages/x/y/package.json")).toThrow(
+    expect(() => extractBinTargets({ bin: "./src/cli.ts" }, "x/y/package.json")).toThrow(
       /no `name`/
     )
   })
 
   test("object-form bin without a `name` throws (no package to attribute targets to)", () => {
     expect(() =>
-      extractBinTargets({ bin: { y: "./src/cli.ts" } }, "packages/x/y/package.json")
+      extractBinTargets({ bin: { y: "./src/cli.ts" } }, "x/y/package.json")
     ).toThrow(/no `name`/)
   })
 
   test("a manifest with neither bin nor name is examined and in scope for nothing", () => {
-    expect(extractBinTargets({}, "packages/x/y/package.json")).toEqual([])
+    expect(extractBinTargets({}, "x/y/package.json")).toEqual([])
   })
 
   test("normalizes targets without a leading './' the same way", () => {
     const got = extractBinTargets(
       { name: "@x/y", bin: { y: "src/cli.ts" } },
-      "packages/x/y/package.json"
+      "x/y/package.json"
     )
-    expect(got[0]?.target).toBe("packages/x/y/src/cli.ts")
+    expect(got[0]?.target).toBe("x/y/src/cli.ts")
   })
 
   test("root package.json resolves targets relative to the repo root", () => {
@@ -118,14 +118,14 @@ describe("parseManifest", () => {
 describe("findBinModeViolations", () => {
   const e = (overrides: Partial<BinTargetPath>): BinTargetPath => ({
     pkgName: "@x/y",
-    pkgJsonPath: "packages/x/y/package.json",
+    pkgJsonPath: "x/y/package.json",
     command: "y",
-    target: "packages/x/y/src/cli.ts",
+    target: "x/y/src/cli.ts",
     ...overrides,
   })
 
   test("returns empty when every target is mode 100755", () => {
-    const entries = [e({}), e({ command: "z", target: "packages/x/y/bin/z.ts" })]
+    const entries = [e({}), e({ command: "z", target: "x/y/bin/z.ts" })]
     const violations = findBinModeViolations(entries, () => "100755")
     expect(violations).toEqual([])
   })
@@ -136,9 +136,9 @@ describe("findBinModeViolations", () => {
     expect(violations).toEqual([
       {
         pkgName: "@x/y",
-        pkgJsonPath: "packages/x/y/package.json",
+        pkgJsonPath: "x/y/package.json",
         command: "y",
-        target: "packages/x/y/src/cli.ts",
+        target: "x/y/src/cli.ts",
         actualMode: "100644",
       },
     ])
@@ -152,24 +152,24 @@ describe("findBinModeViolations", () => {
 
   test("sorts violations by (pkgJsonPath, command)", () => {
     const entries: BinTargetPath[] = [
-      e({ pkgJsonPath: "packages/b/package.json", command: "z", target: "packages/b/z.ts" }),
-      e({ pkgJsonPath: "packages/a/package.json", command: "b", target: "packages/a/b.ts" }),
-      e({ pkgJsonPath: "packages/a/package.json", command: "a", target: "packages/a/a.ts" }),
+      e({ pkgJsonPath: "b/package.json", command: "z", target: "b/z.ts" }),
+      e({ pkgJsonPath: "a/package.json", command: "b", target: "a/b.ts" }),
+      e({ pkgJsonPath: "a/package.json", command: "a", target: "a/a.ts" }),
     ]
     const violations = findBinModeViolations(entries, () => "100644")
     expect(violations.map((v) => `${v.pkgJsonPath}#${v.command}`)).toEqual([
-      "packages/a/package.json#a",
-      "packages/a/package.json#b",
-      "packages/b/package.json#z",
+      "a/package.json#a",
+      "a/package.json#b",
+      "b/package.json#z",
     ])
   })
 
   test("mixed-mode input emits violations only for non-0755 entries", () => {
-    const okEntry = e({ command: "ok", target: "packages/x/y/ok.ts" })
-    const badEntry = e({ command: "bad", target: "packages/x/y/bad.ts" })
+    const okEntry = e({ command: "ok", target: "x/y/ok.ts" })
+    const badEntry = e({ command: "bad", target: "x/y/bad.ts" })
     const modes: Record<string, string> = {
-      "packages/x/y/ok.ts": "100755",
-      "packages/x/y/bad.ts": "100644",
+      "x/y/ok.ts": "100755",
+      "x/y/bad.ts": "100644",
     }
     const violations = findBinModeViolations([okEntry, badEntry], (t) => modes[t])
     expect(violations.map((v) => v.command)).toEqual(["bad"])
