@@ -20,8 +20,8 @@ every other fixture must fail with a distinct error mode.
 Running a single fixture locally:
 
 ```bash
-bun temper/shared-build-deploy-checks--from-code/src/check-addon-sandbox-load.ts --file \
-  temper/shared-build-deploy-checks--from-code/__fixtures__/addon-sandbox-load/indirect-g-debug.lua
+bun temper/shared-build-deploy-checks/src/check-addon-sandbox-load.ts --file \
+  temper/shared-build-deploy-checks/__fixtures__/addon-sandbox-load/indirect-g-debug.lua
 ```
 
 Expected output: failure line naming the bundle plus the Lua error text,

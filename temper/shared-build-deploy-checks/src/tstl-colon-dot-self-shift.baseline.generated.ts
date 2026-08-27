@@ -10,7 +10,7 @@
  * (bundleSuffix, method, receiver) triple, so the site count the gate reports can
  * differ from the row count where one row covers a re-emitted bundle path.
  *
- * Regenerate with: `bun temper/shared-build-deploy-checks--from-code/src/check-tstl-colon-dot-self-shift.ts --write-baseline`
+ * Regenerate with: `bun temper/shared-build-deploy-checks/src/check-tstl-colon-dot-self-shift.ts --write-baseline`
  * (run after a full `ops temper addon build --all`).
  * Regeneration REFUSES a dist tree it cannot show is complete and current, so a
  * run over stale output cannot re-admit a site somebody has already repaired.

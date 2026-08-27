@@ -4,7 +4,7 @@ type: local-context
 
 # addon-sandbox fixtures
 
-Deterministic Lua-bundle fixtures consumed by `temper/shared-build-deploy-checks--from-code/src/addon-banned-symbols.unit.test.ts`. Background in project #7209; the incident motivating the checker is project #7179 (TSTL `sourceMapTraceback:true` emitted a `debug.getinfo(1).short_src` tail call that crashed the ESO Lua 5.1 sandbox at addon-load).
+Deterministic Lua-bundle fixtures consumed by `temper/shared-build-deploy-checks/src/addon-banned-symbols.unit.test.ts`. Background in project #7209; the incident motivating the checker is project #7179 (TSTL `sourceMapTraceback:true` emitted a `debug.getinfo(1).short_src` tail call that crashed the ESO Lua 5.1 sandbox at addon-load).
 
 ## Files
 

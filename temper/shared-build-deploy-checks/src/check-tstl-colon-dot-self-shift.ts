@@ -90,7 +90,7 @@ function deriveColonMethods(repoRoot: string): ReadonlySet<string> {
 const GATE = "tstl-colon-dot-self-shift"
 
 const BASELINE_GENERATED_REL =
-  "temper/shared-build-deploy-checks--from-code/src/tstl-colon-dot-self-shift.baseline.generated.ts"
+  "temper/shared-build-deploy-checks/src/tstl-colon-dot-self-shift.baseline.generated.ts"
 
 export function renderBaselineModule(rows: readonly SelfShiftBaselineEntry[]): string {
   const bundleCount = new Set(rows.map((r) => r.bundleSuffix.split("/")[0])).size
@@ -114,7 +114,7 @@ export function renderBaselineModule(rows: readonly SelfShiftBaselineEntry[]): s
     size,
     sizeTail,
     " *",
-    " * Regenerate with: `bun temper/shared-build-deploy-checks--from-code/src/check-tstl-colon-dot-self-shift.ts --write-baseline`",
+    " * Regenerate with: `bun temper/shared-build-deploy-checks/src/check-tstl-colon-dot-self-shift.ts --write-baseline`",
     " * (run after a full `ops temper addon build --all`).",
     " * Regeneration REFUSES a dist tree it cannot show is complete and current, so a",
     " * run over stale output cannot re-admit a site somebody has already repaired.",
