@@ -1,0 +1,40 @@
+[
+  {
+    "type": "damage",
+    "target": {
+      "type": "enemy",
+      "scope": "cone",
+      "radius": 7
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 3
+    },
+    "damageType": "magic"
+  },
+  {
+    "type": "hot",
+    "target": {
+      "type": "self",
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-percent",
+      "percent": 50,
+      "metricId": "companion-health-maximum"
+    },
+    "duration": 6,
+    "displayMode": "per-tick",
+    "initialTick": true,
+    "tickInterval": 2
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.166
+  },
+  {
+    "type": "cooldown",
+    "duration": 8
+  }
+]

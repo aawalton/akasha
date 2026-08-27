@@ -1,0 +1,15 @@
+[
+  {
+    "type": "cooldown-reduction",
+    "scope": "other",
+    "value": 5
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.266
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]

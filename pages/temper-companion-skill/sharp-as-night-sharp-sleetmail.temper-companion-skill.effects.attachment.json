@@ -1,0 +1,37 @@
+[
+  {
+    "buff": {
+      "buff": "flat-damage-reduction",
+      "value": 0.2,
+      "duration": 6,
+      "valueType": "fractional-change"
+    },
+    "type": "apply-buff",
+    "target": {
+      "type": "self",
+      "scope": "single"
+    }
+  },
+  {
+    "buff": {
+      "buff": "major-resolve",
+      "value": 5948,
+      "duration": 6,
+      "valueType": "integer"
+    },
+    "type": "apply-buff",
+    "target": {
+      "type": "ally",
+      "scope": "area",
+      "radius": 12
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.2
+  },
+  {
+    "type": "cooldown",
+    "duration": 8
+  }
+]

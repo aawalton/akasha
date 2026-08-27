@@ -1,0 +1,10 @@
+[
+  {
+    "type": "movable",
+    "isMovable": true
+  },
+  {
+    "type": "range",
+    "minDistance": 10
+  }
+]

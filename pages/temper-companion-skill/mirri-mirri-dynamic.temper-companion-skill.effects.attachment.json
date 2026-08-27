@@ -1,0 +1,14 @@
+[
+  {
+    "type": "passive",
+    "value": 0.03,
+    "metricId": "companion-damage-done",
+    "modifierType": "fractional-change"
+  },
+  {
+    "type": "passive",
+    "value": 0.03,
+    "metricId": "companion-healing-done",
+    "modifierType": "fractional-change"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "immobilize",
+      "duration": 3
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 10
+    }
+  },
+  {
+    "type": "dot",
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 10
+    },
+    "formula": {
+      "type": "metric-percent",
+      "percent": 5,
+      "metricId": "companion-health-maximum"
+    },
+    "duration": 8,
+    "damageType": "frost",
+    "displayMode": "total",
+    "initialTick": true,
+    "tickInterval": 1
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.633
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

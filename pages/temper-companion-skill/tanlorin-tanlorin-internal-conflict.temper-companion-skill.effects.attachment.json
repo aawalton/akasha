@@ -1,0 +1,28 @@
+[
+  {
+    "type": "dot",
+    "target": {
+      "type": "enemy",
+      "range": 28,
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 4.5
+    },
+    "duration": 6,
+    "damageType": "magic",
+    "displayMode": "total",
+    "initialTick": true,
+    "tickInterval": 2
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.4
+  },
+  {
+    "type": "cooldown",
+    "duration": 8
+  }
+]

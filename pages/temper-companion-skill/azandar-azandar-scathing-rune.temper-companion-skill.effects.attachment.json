@@ -1,0 +1,34 @@
+[
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "taunt",
+      "duration": 15
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "single"
+    }
+  },
+  {
+    "type": "apply-debuff",
+    "debuff": {
+      "value": 0.05,
+      "debuff": "minor-maim",
+      "duration": 15,
+      "valueType": "fractional-change"
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "single"
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.5
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "type": "damage",
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 10
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 4.5
+    },
+    "damageType": "flame"
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "stun",
+      "duration": 4
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 10
+    }
+  },
+  {
+    "type": "multi-hit",
+    "target": {
+      "type": "enemy",
+      "scope": "line"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 1.125
+    },
+    "hitCount": 4,
+    "damageType": "flame"
+  },
+  {
+    "type": "resource-cost",
+    "amount": 200,
+    "resource": "ultimate"
+  },
+  {
+    "type": "cast-time",
+    "duration": 2
+  }
+]

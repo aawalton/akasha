@@ -1,0 +1,63 @@
+[
+  {
+    "type": "dot",
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 5
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 4.5
+    },
+    "duration": 10,
+    "damageType": "disease",
+    "displayMode": "per-tick",
+    "initialTick": true,
+    "tickInterval": 2
+  },
+  {
+    "type": "dot",
+    "target": {
+      "type": "enemy",
+      "scope": "line"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 4.5
+    },
+    "duration": 10,
+    "damageType": "disease",
+    "displayMode": "per-tick",
+    "initialTick": true,
+    "tickInterval": 2
+  },
+  {
+    "type": "delayed",
+    "delay": 10,
+    "effect": {
+      "type": "damage",
+      "target": {
+        "type": "enemy",
+        "scope": "area",
+        "radius": 5
+      },
+      "formula": {
+        "type": "metric-scaling",
+        "metricId": "companion-weapon-damage",
+        "coefficient": 3
+      },
+      "damageType": "disease"
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.2
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

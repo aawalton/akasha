@@ -1,0 +1,33 @@
+[
+  {
+    "type": "heal",
+    "target": {
+      "type": "self",
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-percent",
+      "percent": 25,
+      "metricId": "companion-health-maximum"
+    }
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "invisible",
+      "duration": 3
+    },
+    "target": {
+      "type": "self",
+      "scope": "single"
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.333
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]

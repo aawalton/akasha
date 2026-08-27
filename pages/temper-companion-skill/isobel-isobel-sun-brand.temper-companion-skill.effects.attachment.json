@@ -1,0 +1,42 @@
+[
+  {
+    "type": "damage",
+    "target": {
+      "type": "enemy",
+      "range": 28,
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 3
+    },
+    "damageType": "flame"
+  },
+  {
+    "type": "dot",
+    "target": {
+      "type": "enemy",
+      "range": 28,
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 2.25
+    },
+    "duration": 8,
+    "damageType": "flame",
+    "displayMode": "total",
+    "initialTick": false,
+    "tickInterval": 2
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.2
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

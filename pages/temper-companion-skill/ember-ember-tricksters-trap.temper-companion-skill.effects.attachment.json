@@ -1,0 +1,22 @@
+[
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "stun",
+      "duration": 3
+    },
+    "target": {
+      "type": "enemy",
+      "range": 28,
+      "scope": "single"
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.6
+  },
+  {
+    "type": "cooldown",
+    "duration": 8
+  }
+]

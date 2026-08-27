@@ -1,0 +1,44 @@
+[
+  {
+    "type": "dot",
+    "target": {
+      "type": "enemy",
+      "range": 28,
+      "scope": "area",
+      "radius": 6
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 3
+    },
+    "duration": 8,
+    "damageType": "frost",
+    "displayMode": "per-tick",
+    "initialTick": true,
+    "tickInterval": 2
+  },
+  {
+    "type": "apply-debuff",
+    "debuff": {
+      "value": 5948,
+      "debuff": "major-breach",
+      "duration": 6,
+      "valueType": "integer"
+    },
+    "target": {
+      "type": "enemy",
+      "range": 28,
+      "scope": "area",
+      "radius": 6
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.33
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "type": "hot",
+    "target": {
+      "type": "self-and-ally",
+      "scope": "area",
+      "radius": 12
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 0.75,
+      "coefficientType": "per-tick"
+    },
+    "duration": 8,
+    "displayMode": "per-tick",
+    "initialTick": true,
+    "tickInterval": 2
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "snare",
+      "duration": 8,
+      "magnitude": 0.5
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 12
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.5
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]

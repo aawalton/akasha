@@ -1,0 +1,22 @@
+[
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "fear",
+      "duration": 4
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 6
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.5
+  },
+  {
+    "type": "cooldown",
+    "duration": 8
+  }
+]

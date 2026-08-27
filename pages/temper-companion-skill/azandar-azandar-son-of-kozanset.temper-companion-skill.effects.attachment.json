@@ -1,0 +1,14 @@
+[
+  {
+    "type": "passive",
+    "value": 0.03,
+    "metricId": "companion-health-maximum",
+    "modifierType": "fractional-change"
+  },
+  {
+    "type": "passive",
+    "value": -0.03,
+    "metricId": "companion-ability-cooldown",
+    "modifierType": "fractional-change"
+  }
+]

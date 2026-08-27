@@ -1,0 +1,38 @@
+[
+  {
+    "buff": {
+      "buff": "light-attack-damage",
+      "value": 0.15,
+      "duration": 8,
+      "valueType": "fractional-change"
+    },
+    "type": "apply-buff",
+    "target": {
+      "type": "ally",
+      "scope": "area",
+      "radius": 28
+    }
+  },
+  {
+    "buff": {
+      "buff": "heavy-attack-damage",
+      "value": 0.15,
+      "duration": 8,
+      "valueType": "fractional-change"
+    },
+    "type": "apply-buff",
+    "target": {
+      "type": "ally",
+      "scope": "area",
+      "radius": 28
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.233
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]

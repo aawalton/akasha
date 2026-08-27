@@ -1,0 +1,15 @@
+[
+  {
+    "type": "any",
+    "conditions": [
+      {
+        "type": "ally-health",
+        "below": 75
+      },
+      {
+        "type": "nearby",
+        "targetType": "enemy"
+      }
+    ]
+  }
+]

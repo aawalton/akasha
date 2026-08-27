@@ -1,0 +1,36 @@
+[
+  {
+    "type": "damage",
+    "target": {
+      "type": "enemy",
+      "scope": "area"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 1.5
+    },
+    "damageType": "physical"
+  },
+  {
+    "type": "apply-debuff",
+    "debuff": {
+      "value": 0.05,
+      "debuff": "minor-vulnerability",
+      "duration": 6,
+      "valueType": "fractional-change"
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "area"
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.433
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "type": "delayed",
+    "delay": 2,
+    "effect": {
+      "type": "apply-status",
+      "status": {
+        "status": "fear",
+        "duration": 4
+      },
+      "target": {
+        "type": "enemy",
+        "scope": "area",
+        "radius": 6
+      }
+    }
+  },
+  {
+    "buff": {
+      "buff": "minor-protection",
+      "value": 0.05,
+      "duration": 8,
+      "valueType": "fractional-change"
+    },
+    "type": "apply-buff",
+    "target": {
+      "type": "ally",
+      "range": 22,
+      "scope": "area",
+      "radius": 6
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.2
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

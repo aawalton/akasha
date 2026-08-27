@@ -1,0 +1,38 @@
+[
+  {
+    "type": "shield",
+    "target": {
+      "type": "ally",
+      "scope": "area",
+      "radius": 28
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 1.5
+    },
+    "duration": 6
+  },
+  {
+    "buff": {
+      "buff": "healing-received",
+      "value": 0.15,
+      "duration": 6,
+      "valueType": "fractional-change"
+    },
+    "type": "apply-buff",
+    "target": {
+      "type": "ally",
+      "scope": "area",
+      "radius": 28
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.566
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

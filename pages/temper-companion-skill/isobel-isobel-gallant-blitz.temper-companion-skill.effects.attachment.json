@@ -1,0 +1,18 @@
+[
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "off-balance",
+      "duration": 7
+    },
+    "target": {
+      "type": "enemy",
+      "range": 22,
+      "scope": "area"
+    }
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

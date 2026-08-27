@@ -1,0 +1,27 @@
+[
+  {
+    "type": "heal",
+    "target": {
+      "type": "ally",
+      "scope": "area"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 0.6
+    }
+  },
+  {
+    "type": "special",
+    "count": 3,
+    "effect": "cleanse"
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.4
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

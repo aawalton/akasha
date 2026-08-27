@@ -1,0 +1,40 @@
+[
+  {
+    "type": "heal",
+    "target": {
+      "type": "self",
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-percent",
+      "percent": 25,
+      "metricId": "companion-health-maximum"
+    }
+  },
+  {
+    "type": "hot",
+    "target": {
+      "type": "self",
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-health-maximum",
+      "coefficient": 0.0625,
+      "coefficientType": "per-tick"
+    },
+    "duration": 8,
+    "displayMode": "per-tick",
+    "initialTick": false,
+    "tickInterval": 2,
+    "durationOffset": 2
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.466
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "buff": {
+      "buff": "major-resolve",
+      "value": 5948,
+      "duration": 6,
+      "valueType": "integer"
+    },
+    "type": "apply-buff",
+    "target": {
+      "type": "ally",
+      "scope": "area",
+      "radius": 12
+    }
+  },
+  {
+    "type": "shield",
+    "target": {
+      "type": "self",
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-percent",
+      "percent": 31,
+      "metricId": "companion-health-maximum"
+    },
+    "duration": 6
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.2
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

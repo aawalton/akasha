@@ -1,0 +1,23 @@
+[
+  {
+    "buff": {
+      "buff": "minor-berserk",
+      "value": 0.05,
+      "duration": 8,
+      "valueType": "fractional-change"
+    },
+    "type": "apply-buff",
+    "target": {
+      "type": "ally",
+      "scope": "area"
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.3
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]
