@@ -34,7 +34,6 @@ export type PkgDependsEdgeType = "pkg-depends"
 export type TsconfigRefEdgeType = "tsconfig-ref"
 export type PkgContainsFileEdgeType = "pkg-contains-file"
 export type FileInPkgEdgeType = "file-in-pkg"
-export type DeployCarriesPackageEdgeType = "deploy-carries-package"
 
 export const PACKAGE_NODE_TYPE: PackageNodeType = "package"
 export const WORKSPACE_ROOT_NODE_TYPE: WorkspaceRootNodeType = "workspace-root"
@@ -42,8 +41,6 @@ export const PKG_DEPENDS_EDGE_TYPE: PkgDependsEdgeType = "pkg-depends"
 export const TSCONFIG_REF_EDGE_TYPE: TsconfigRefEdgeType = "tsconfig-ref"
 export const PKG_CONTAINS_FILE_EDGE_TYPE: PkgContainsFileEdgeType = "pkg-contains-file"
 export const FILE_IN_PKG_EDGE_TYPE: FileInPkgEdgeType = "file-in-pkg"
-export const DEPLOY_CARRIES_PACKAGE_EDGE_TYPE: DeployCarriesPackageEdgeType =
-  "deploy-carries-package"
 
 export const ROOT_PACKAGE_KEY = "<root>"
 
@@ -67,8 +64,6 @@ export type TsconfigRefAttrs = Record<string, never>
 export type PkgContainsFileAttrs = Record<string, never>
 
 export type FileInPkgAttrs = Record<string, never>
-
-export type DeployCarriesPackageAttrs = Record<string, never>
 
 export type TstlBundleEntryAttrs = {
   readonly specifier: string

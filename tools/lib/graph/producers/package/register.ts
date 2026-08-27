@@ -1,6 +1,5 @@
 import type { Engine } from "../../types.ts"
 import {
-  DEPLOY_CARRIES_PACKAGE_EDGE_TYPE,
   FILE_IN_PKG_EDGE_TYPE,
   PACKAGE_NODE_TYPE,
   PKG_CONTAINS_FILE_EDGE_TYPE,
@@ -41,11 +40,6 @@ export const registerPackageTypes = (engine: Engine): undefined => {
   })
   engine.registerEdgeType({
     name: FILE_IN_PKG_EDGE_TYPE,
-    from: PACKAGE_NODE_TYPE,
-    to: PACKAGE_NODE_TYPE,
-  })
-  engine.registerEdgeType({
-    name: DEPLOY_CARRIES_PACKAGE_EDGE_TYPE,
     from: PACKAGE_NODE_TYPE,
     to: PACKAGE_NODE_TYPE,
   })
