@@ -12,6 +12,7 @@ const APART = "editor-extension"
 type From = { readonly repo: string; readonly key: string }
 
 export type Held = {
+  readonly files: string[]
   readonly code: string[]
   readonly subs: Set<string>
   readonly deep: string[]
@@ -46,12 +47,18 @@ export function named(folder: string, keys: Iterable<string>): string {
   return [...keys].map((key) => key.slice(cut)).sort().join(", ")
 }
 
+export function namedFew(folder: string, keys: Iterable<string>, most: number): string {
+  const all = [...keys]
+  if (all.length <= most) return named(folder, all)
+  return `${named(folder, all.slice().sort().slice(0, most))}, and ${all.length - most} more`
+}
+
 function foldersOf(keys: readonly string[]): ReadonlyMap<string, Held> {
   const held = new Map<string, Held>()
   const entryOf = (folder: string): Held => {
     const found = held.get(folder)
     if (found !== undefined) return found
-    const made = { code: [], subs: new Set<string>(), deep: [] }
+    const made = { files: [], code: [], subs: new Set<string>(), deep: [] }
     held.set(folder, made)
     return made
   }
@@ -66,7 +73,9 @@ function foldersOf(keys: readonly string[]): ReadonlyMap<string, Held> {
       one.subs.add(next)
       if (CODE.test(key)) one.deep.push(key)
     }
-    if (CODE.test(key)) entryOf(home).code.push(key)
+    const here = entryOf(home)
+    here.files.push(key)
+    if (CODE.test(key)) here.code.push(key)
   }
   return held
 }
