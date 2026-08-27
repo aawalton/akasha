@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: Mobility reading
 id: 019f01e1-6d86-71f3-b9f3-10631064f4c3
 extends-slug: page
-files: instructions:**/*.mobility-reading.md
+files: akasha:**/*.mobility-reading.md
 body-shape-slug: empty
 slug: mobility-reading
 plural-slug: mobility-readings

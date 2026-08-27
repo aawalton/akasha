@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Person authority"
 id: 019fecb6-e112-7860-a5a4-03dcde268c19
 extends-slug: page
-files: instructions:**/*.person-authority.md
+files: akasha:**/*.person-authority.md
 body-shape-slug: empty
 named-for: "{person-slug}-{authority-kind}-{target}"
 slug: person-authority

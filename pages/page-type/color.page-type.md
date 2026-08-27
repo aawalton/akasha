@@ -3,7 +3,7 @@ id: 01a00bb6-9488-7000-90e0-cccff46a418d
 page-type-slug: page-type
 title: "Color"
 extends-slug: page
-files: instructions:**/*.color.md
+files: akasha:**/*.color.md
 body-shape-slug: empty
 slug: color
 domain-parent-slug: domain/design-tokens

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Client profile"
 id: 019ee0d7-ed73-7772-b9ec-93a40c3a48b8
 extends-slug: page
-files: instructions:**/*.client-profile.md
+files: akasha:**/*.client-profile.md
 body-shape-slug: empty
 slug: client-profile
 plural-slug: client-profiles

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Rules engine rule set"
 id: 01a00777-e7d2-7000-a474-1f819b0cbefb
 extends-slug: page-type
-files: instructions:**/*.rules-engine-rule-set.md
+files: akasha:**/*.rules-engine-rule-set.md
 body-shape-slug: domain
 slug: rules-engine-rule-set
 domain-parent-slug: domain/rules-engine

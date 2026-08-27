@@ -3,7 +3,7 @@ id: 8a4513ac-7dab-5e37-a141-4a20ac3c5f22
 page-type-slug: page-type
 title: "Subagent kind"
 extends-slug: domain
-files: instructions:**/*.subagent-kind.md
+files: akasha:**/*.subagent-kind.md
 body-shape-slug: subagent-kind
 slug: subagent-kind
 domain-parent-slug: page-type/subagent

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Ops command"
 id: 019ffe7e-358c-7000-b3b4-ce1b3f003972
 extends-slug: domain
-files: instructions:**/*.ops-command.md
+files: akasha:**/*.ops-command.md
 body-shape-slug: ops-command
 slug: ops-command
 domain-parent-slug: domain/ops-cli

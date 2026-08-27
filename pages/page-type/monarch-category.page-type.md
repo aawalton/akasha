@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Monarch category"
 id: 019ffe81-2595-7000-9e0b-17e0d26bd77c
 extends-slug: domain
-files: instructions:**/*.monarch-category.md
+files: akasha:**/*.monarch-category.md
 body-shape-slug: domain
 slug: monarch-category
 plural-slug: monarch-categories

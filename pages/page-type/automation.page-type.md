@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Automation"
 id: 019db533-f381-7476-8d35-dc474796499d
 extends-slug: page
-files: instructions:**/*.automation.md
+files: akasha:**/*.automation.md
 body-shape-slug: text
 slug: automation
 plural-slug: automations

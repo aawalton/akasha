@@ -3,7 +3,7 @@ id: a2664300-11ba-5a82-a574-3b5d726ef03b
 page-type-slug: page-type
 title: "Package"
 extends-slug: domain
-files: instructions:**/*.package.md
+files: akasha:**/*.package.md
 body-shape-slug: domain
 slug: package
 plural-slug: packages

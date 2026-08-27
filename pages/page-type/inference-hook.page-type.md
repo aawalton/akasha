@@ -3,7 +3,7 @@ id: 01a00688-389f-7000-ba53-42d361243e1c
 page-type-slug: page-type
 title: "Inference hook"
 extends-slug: agent-hook
-files: instructions:**/*.inference-hook.md
+files: akasha:**/*.inference-hook.md
 body-shape-slug: domain
 slug: inference-hook
 domain-parent-slug: page-type/agent-hook

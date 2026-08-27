@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Alert"
 id: 019ffe7f-0ac8-7000-9b1b-24aebf62c66b
 extends-slug: domain
-files: instructions:**/*.alert.md
+files: akasha:**/*.alert.md
 body-shape-slug: domain
 slug: alert
 domain-parent-slug: page-type/message

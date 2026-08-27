@@ -3,7 +3,7 @@ id: f69d93c9-40fe-5b66-815a-d11706ab931f
 page-type-slug: page-type
 title: "Temper activity category"
 extends-slug: page
-files: instructions:**/*.temper-activity-category.md
+files: akasha:**/*.temper-activity-category.md
 body-shape-slug: empty
 slug: temper-activity-category
 plural-slug: temper-activity-categories

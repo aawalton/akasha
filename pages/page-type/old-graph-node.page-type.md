@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Old graph node"
 id: 01a000ec-c461-79b8-902c-501278da8fa2
 extends-slug: domain
-files: instructions:**/*.old-graph-node.md
+files: akasha:**/*.old-graph-node.md
 body-shape-slug: domain
 slug: old-graph-node
 domain-parent-slug: domain/the-graph

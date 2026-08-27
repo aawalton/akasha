@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Category rule merchant"
 id: 019ffe8f-59b7-7000-aa7c-5379515f09b4
 extends-slug: page
-files: instructions:**/*.category-rule-merchant.md
+files: akasha:**/*.category-rule-merchant.md
 body-shape-slug: category-rule-merchant
 slug: category-rule-merchant
 domain-parent-slug: rules-engine-rule-set/category-rule

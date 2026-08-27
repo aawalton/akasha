@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Set log"
 id: 019ebc94-16ea-7911-84fb-9b194274ed44
 extends-slug: page
-files: instructions:**/*.set-log.md
+files: akasha:**/*.set-log.md
 body-shape-slug: empty
 slug: set-log
 plural-slug: set-logs

@@ -4,7 +4,6 @@ page-type-slug: page-type
 title: "Page query"
 extends-slug: page
 files:
-  - instructions:**/*.page-query.md
   - akasha:**/*.page-query.md
 body-shape-slug: empty
 slug: page-query

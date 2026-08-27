@@ -3,7 +3,7 @@ id: c3f1e05c-4403-5969-b17f-4ea8ed72b2b0
 page-type-slug: page-type
 title: "Persona wallpaper"
 extends-slug: page
-files: instructions:**/*.persona-wallpaper.md
+files: akasha:**/*.persona-wallpaper.md
 body-shape-slug: empty
 slug: persona-wallpaper
 domain-parent-slug: page-type/persona

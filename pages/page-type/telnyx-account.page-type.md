@@ -3,7 +3,7 @@ id: a418f6f7-2418-5309-afd3-4adf9abde817
 page-type-slug: page-type
 title: "Telnyx account"
 extends-slug: page
-files: instructions:**/*.telnyx-account.md
+files: akasha:**/*.telnyx-account.md
 body-shape-slug: empty
 slug: telnyx-account
 plural-slug: telnyx-accounts

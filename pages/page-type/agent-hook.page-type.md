@@ -3,7 +3,7 @@ id: 01a00669-7f18-7000-bf7b-f9faf5412936
 page-type-slug: page-type
 title: "Agent hook"
 extends-slug: domain
-files: instructions:**/*.agent-hook.md
+files: akasha:**/*.agent-hook.md
 body-shape-slug: domain
 slug: agent-hook
 domain-parent-slug: domain/hook

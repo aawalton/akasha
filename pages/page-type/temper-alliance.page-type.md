@@ -3,7 +3,7 @@ id: 3a35cee6-0b05-5618-94d2-29576bbdd1e9
 page-type-slug: page-type
 title: "Temper alliance"
 extends-slug: page
-files: instructions:**/*.temper-alliance.md
+files: akasha:**/*.temper-alliance.md
 body-shape-slug: empty
 slug: temper-alliance
 plural-slug: temper-alliances

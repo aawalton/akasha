@@ -3,7 +3,7 @@ id: da9d75d9-19df-5458-9569-d69199a770ac
 page-type-slug: page-type
 title: "Cluster check"
 extends-slug: domain
-files: instructions:**/*.cluster-check.md
+files: akasha:**/*.cluster-check.md
 body-shape-slug: domain
 slug: cluster-check
 plural-slug: cluster-checks

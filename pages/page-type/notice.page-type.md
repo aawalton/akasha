@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Notice"
 id: 019ffe7f-d49d-7000-ba76-13378b883aa0
 extends-slug: page
-files: instructions:**/*.notice.md
+files: akasha:**/*.notice.md
 body-shape-slug: notice
 slug: notice
 domain-parent-slug: page-type/message

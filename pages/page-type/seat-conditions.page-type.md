@@ -3,7 +3,7 @@ id: 01a0157f-f2ec-7000-9a43-737c24ca6ecd
 page-type-slug: page-type
 title: "Seat conditions"
 extends-slug: page
-files: instructions:**/*.seat-conditions.md
+files: akasha:**/*.seat-conditions.md
 body-shape-slug: empty
 slug: seat-conditions
 domain-parent-slug: page-type/seat

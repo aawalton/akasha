@@ -3,7 +3,7 @@ id: 04093156-41c2-5ac1-b75f-a1d25563ee58
 page-type-slug: page-type
 title: "Identity statement"
 extends-slug: page
-files: instructions:**/*.identity-statement.md
+files: akasha:**/*.identity-statement.md
 body-shape-slug: empty
 slug: identity-statement
 domain-parent-slug: person/alan

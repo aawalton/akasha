@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Seat turn end reading case"
 id: 01a00175-2df8-7000-b2fd-442606187b3c
 extends-slug: page
-files: instructions:**/*.seat-turn-end-reading-case.md
+files: akasha:**/*.seat-turn-end-reading-case.md
 body-shape-slug: seat-turn-end-reading-case
 slug: seat-turn-end-reading-case
 domain-parent-slug: domain/seat-turn-end-reading

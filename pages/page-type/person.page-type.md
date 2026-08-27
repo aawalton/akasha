@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Person"
 id: 019fed7c-9f58-7451-8e47-a32d77d97a8c
 extends-slug: domain
-files: instructions:**/*.person.md
+files: akasha:**/*.person.md
 body-shape-slug: domain
 slug: person
 plural-slug: people

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Gate"
 id: 36bd610f-213a-5709-abf6-dd936d001122
 extends-slug: domain
-files: instructions:**/*.gate.md
+files: akasha:**/*.gate.md
 body-shape-slug: domain
 slug: gate
 plural-slug: gates

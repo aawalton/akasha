@@ -3,7 +3,7 @@ id: 680127ed-46e6-595a-9f59-76ffbbfcd0b9
 page-type-slug: page-type
 title: "Alan harness tracking field"
 extends-slug: page-property-definition
-files: instructions:**/*.alan-harness-tracking-field.md
+files: akasha:**/*.alan-harness-tracking-field.md
 body-shape-slug: domain
 slug: alan-harness-tracking-field
 plural-slug: alan-harness-tracking-fields

@@ -3,7 +3,7 @@ id: 550170e1-ff4b-5c28-aaf2-3fac8b36b725
 page-type-slug: page-type
 title: "Cluster"
 extends-slug: page
-files: instructions:**/*.cluster.md
+files: akasha:**/*.cluster.md
 body-shape-slug: domain
 slug: cluster
 plural-slug: clusters

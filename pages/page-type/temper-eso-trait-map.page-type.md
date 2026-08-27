@@ -3,7 +3,7 @@ id: ed400ccf-7c66-5d2c-86b0-424e52bdc4e1
 page-type-slug: page-type
 title: "Temper ESO trait map entry"
 extends-slug: page
-files: instructions:**/*.temper-eso-trait-map.md
+files: akasha:**/*.temper-eso-trait-map.md
 body-shape-slug: empty
 slug: temper-eso-trait-map
 plural-slug: temper-eso-trait-map-entries

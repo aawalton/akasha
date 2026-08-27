@@ -3,7 +3,7 @@ id: 94162bf1-71c8-5fb7-a3be-60cd1840dcfb
 page-type-slug: page-type
 title: "Alan harness tracking capture"
 extends-slug: domain
-files: instructions:**/*.alan-harness-tracking-capture.md
+files: akasha:**/*.alan-harness-tracking-capture.md
 body-shape-slug: domain
 slug: alan-harness-tracking-capture
 plural-slug: alan-harness-tracking-captures

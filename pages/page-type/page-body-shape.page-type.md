@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Page body shape"
 id: 01a00062-0d8b-7000-8ea7-0b8a27d8b21d
 extends-slug: page
-files: instructions:**/*.page-body-shape.md
+files: akasha:**/*.page-body-shape.md
 body-shape-slug: template
 slug: page-body-shape
 domain-parent-slug: page-property-definition/page-body

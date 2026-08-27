@@ -3,7 +3,7 @@ id: e8762320-ad07-5550-b0fc-2a0bf623d3b4
 page-type-slug: page-type
 title: "Cluster service"
 extends-slug: domain
-files: instructions:**/*.cluster-service.md
+files: akasha:**/*.cluster-service.md
 body-shape-slug: domain
 slug: cluster-service
 domain-parent-slug: domain/service

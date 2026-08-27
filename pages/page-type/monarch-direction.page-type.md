@@ -3,7 +3,7 @@ id: 01a01d14-6614-7001-91cb-45fe70706ad9
 page-type-slug: page-type
 title: "Monarch direction"
 extends-slug: domain
-files: instructions:**/*.monarch-direction.md
+files: akasha:**/*.monarch-direction.md
 body-shape-slug: domain
 slug: monarch-direction
 domain-parent-slug: domain/monarch

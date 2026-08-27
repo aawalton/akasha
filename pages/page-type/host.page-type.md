@@ -3,7 +3,7 @@ id: 715ce6d5-6e88-5397-b177-65894880e182
 page-type-slug: page-type
 title: "Host"
 extends-slug: domain
-files: instructions:**/*.host.md
+files: akasha:**/*.host.md
 body-shape-slug: domain
 slug: host
 plural-slug: hosts

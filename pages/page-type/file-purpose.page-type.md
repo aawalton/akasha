@@ -3,7 +3,7 @@ id: e3a98075-81fd-5048-a84f-8f7ef9d3a803
 page-type-slug: page-type
 title: "File purpose"
 extends-slug: domain
-files: instructions:**/*.file-purpose.md
+files: akasha:**/*.file-purpose.md
 body-shape-slug: domain
 slug: file-purpose
 domain-parent-slug: domain/domain-kind

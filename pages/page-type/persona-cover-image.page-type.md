@@ -3,7 +3,7 @@ id: 2e344158-1f7f-56b5-a49b-3eca4cccc7cb
 page-type-slug: page-type
 title: "Persona cover image"
 extends-slug: page
-files: instructions:**/*.persona-cover-image.md
+files: akasha:**/*.persona-cover-image.md
 named-for: "{persona-slug}-l{relationship-level}"
 body-shape-slug: empty
 slug: persona-cover-image

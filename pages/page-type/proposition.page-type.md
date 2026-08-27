@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: Proposition
 id: 019f0ed9-ff7b-778f-bb98-efba1d12d16f
 extends-slug: page
-files: instructions:**/*.proposition.md
+files: akasha:**/*.proposition.md
 body-shape-slug: text
 slug: proposition
 plural-slug: propositions

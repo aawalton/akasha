@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Persona points source"
 id: 01a00115-e648-7000-badd-cf9b31eda2f3
 extends-slug: domain
-files: instructions:**/*.persona-points-source.md
+files: akasha:**/*.persona-points-source.md
 body-shape-slug: domain
 slug: persona-points-source
 domain-parent-slug: domain/persona-points

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: Equipment item
 id: 019f01e1-6cbb-7cb6-81b4-7b3bf795099b
 extends-slug: page
-files: instructions:**/*.equipment-item.md
+files: akasha:**/*.equipment-item.md
 body-shape-slug: empty
 slug: equipment-item
 plural-slug: equipment-items

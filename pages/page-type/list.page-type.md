@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "List"
 id: 019ffe76-ac3a-7000-9716-22c287ec6ada
 extends-slug: domain
-files: instructions:**/*.list.md
+files: akasha:**/*.list.md
 body-shape-slug: list
 slug: list
 domain-parent-slug: domain/domain-kind

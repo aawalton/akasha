@@ -4,7 +4,6 @@ title: "Domain"
 id: 019ffe30-e158-7000-8ab9-73591dbe0225
 extends-slug: page
 files:
-  - instructions:**/*.domain.md
   - akasha:**/*.domain.md
 body-shape-slug: domain
 slug: domain

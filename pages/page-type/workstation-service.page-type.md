@@ -3,7 +3,7 @@ id: 01a01153-c963-7000-a72b-87f65823e28f
 page-type-slug: page-type
 title: "Workstation service"
 extends-slug: domain
-files: instructions:**/*.workstation-service.md
+files: akasha:**/*.workstation-service.md
 body-shape-slug: domain
 slug: workstation-service
 domain-parent-slug: domain/service

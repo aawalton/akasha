@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Nav"
 id: 019db533-f381-74aa-8363-2a37359492e8
 extends-slug: page
-files: instructions:**/*.nav.md
+files: akasha:**/*.nav.md
 body-shape-slug: empty
 slug: nav
 plural-slug: navs

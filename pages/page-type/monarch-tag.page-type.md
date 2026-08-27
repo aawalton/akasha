@@ -3,7 +3,7 @@ id: 01a01d14-6614-7004-ab52-b7af3e00eab6
 page-type-slug: page-type
 title: "Monarch tag"
 extends-slug: domain
-files: instructions:**/*.monarch-tag.md
+files: akasha:**/*.monarch-tag.md
 body-shape-slug: domain
 slug: monarch-tag
 plural-slug: monarch-tags

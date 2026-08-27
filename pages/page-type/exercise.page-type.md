@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Exercise"
 id: 019ebc75-6f5a-78c2-80a1-cd1a8ea22b0c
 extends-slug: page
-files: instructions:**/*.exercise.md
+files: akasha:**/*.exercise.md
 body-shape-slug: text
 slug: exercise
 plural-slug: exercises

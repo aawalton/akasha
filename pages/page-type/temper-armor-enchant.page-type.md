@@ -3,7 +3,7 @@ id: a3d13ae9-090f-5968-a078-ae58008ebd6d
 page-type-slug: page-type
 title: "Temper armor enchant"
 extends-slug: page
-files: instructions:**/*.temper-armor-enchant.md
+files: akasha:**/*.temper-armor-enchant.md
 body-shape-slug: empty
 slug: temper-armor-enchant
 plural-slug: temper-armor-enchants

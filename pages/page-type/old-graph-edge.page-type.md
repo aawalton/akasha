@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Old graph edge"
 id: 01a000ec-c5b7-7143-99ac-631c9b536dff
 extends-slug: domain
-files: instructions:**/*.old-graph-edge.md
+files: akasha:**/*.old-graph-edge.md
 body-shape-slug: domain
 slug: old-graph-edge
 domain-parent-slug: domain/the-graph

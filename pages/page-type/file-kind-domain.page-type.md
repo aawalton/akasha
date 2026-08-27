@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "File kind domain"
 id: 019ffe76-e003-7000-85f7-edcafffcc942
 extends-slug: domain
-files: instructions:**/*.file-kind-domain.md
+files: akasha:**/*.file-kind-domain.md
 body-shape-slug: domain
 slug: file-kind-domain
 domain-parent-slug: domain/domain-kind

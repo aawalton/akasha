@@ -4,7 +4,6 @@ title: "Page type"
 id: 019db533-f381-738c-ba1f-8088bf231d28
 extends-slug: domain
 files:
-  - instructions:**/*.page-type.md
   - akasha:**/*.page-type.md
 body-shape-slug: domain
 slug: page-type

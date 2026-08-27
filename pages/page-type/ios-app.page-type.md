@@ -3,7 +3,7 @@ id: 01a010c3-29d0-7000-be32-a1fd4395da77
 page-type-slug: page-type
 title: "iOS app"
 extends-slug: domain
-files: instructions:**/*.ios-app.md
+files: akasha:**/*.ios-app.md
 body-shape-slug: domain
 slug: ios-app
 domain-parent-slug: domain/change-harness-device

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Barred meaning"
 id: 019ffe78-8a97-7000-abd9-bb043c6f99fc
 extends-slug: domain
-files: instructions:**/*.barred-meaning.md
+files: akasha:**/*.barred-meaning.md
 body-shape-slug: domain
 slug: barred-meaning
 domain-parent-slug: domain/domain-dictionary

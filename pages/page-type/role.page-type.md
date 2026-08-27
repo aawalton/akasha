@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Role"
 id: 019ffe76-eb30-7000-8a93-66e6727b90b7
 extends-slug: domain
-files: instructions:**/*.role.md
+files: akasha:**/*.role.md
 body-shape-slug: domain
 slug: role
 domain-parent-slug: domain/agent-definitions

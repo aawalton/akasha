@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: Proof
 id: 019f0eda-024d-776e-a6ce-f53b1d759b55
 extends-slug: page
-files: instructions:**/*.proof.md
+files: akasha:**/*.proof.md
 body-shape-slug: text
 slug: proof
 plural-slug: proofs

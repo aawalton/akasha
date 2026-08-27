@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Person access"
 id: 019febe3-8309-7487-bb77-8b2dd4229fd1
 extends-slug: page
-files: instructions:**/*.person-access.md
+files: akasha:**/*.person-access.md
 body-shape-slug: empty
 named-for: "{person-slug}-{access-kind}-{target}"
 slug: person-access

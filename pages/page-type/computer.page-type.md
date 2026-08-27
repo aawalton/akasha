@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Computer"
 id: 019e8b92-1354-7f0f-9879-e68253dde09f
 extends-slug: page
-files: instructions:**/*.computer.md
+files: akasha:**/*.computer.md
 body-shape-slug: empty
 slug: computer
 plural-slug: computers

@@ -3,7 +3,7 @@ id: 9e080f48-ca5c-5a79-88c6-3ac194d977af
 page-type-slug: page-type
 title: "Connection activity"
 extends-slug: page
-files: instructions:**/*.connection-activity.md
+files: akasha:**/*.connection-activity.md
 body-shape-slug: empty
 slug: connection-activity
 plural-slug: connection-activities

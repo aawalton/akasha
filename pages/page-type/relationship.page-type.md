@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Relationship"
 id: 019db533-f381-73cc-af33-8f8cb037c745
 extends-slug: page
-files: instructions:**/*.relationship.md
+files: akasha:**/*.relationship.md
 body-shape-slug: empty
 slug: relationship
 plural-slug: relationships

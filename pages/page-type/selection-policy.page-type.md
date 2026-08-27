@@ -3,7 +3,7 @@ id: 446ba68c-c5d4-5364-8290-8c845eff7e6e
 page-type-slug: page-type
 title: "Selection policy"
 extends-slug: page
-files: instructions:**/*.selection-policy.md
+files: akasha:**/*.selection-policy.md
 body-shape-slug: empty
 slug: selection-policy
 domain-parent-slug: domain/fitness

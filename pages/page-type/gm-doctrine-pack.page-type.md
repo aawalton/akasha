@@ -3,7 +3,7 @@ id: 019f446f-8727-71f4-866a-026f23aec642
 page-type-slug: page-type
 title: "GM doctrine pack"
 extends-slug: page
-files: instructions:**/*.gm-doctrine-pack.md
+files: akasha:**/*.gm-doctrine-pack.md
 body-shape-slug: empty
 slug: gm-doctrine-pack
 plural-slug: gm-doctrine-packs

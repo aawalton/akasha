@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "View"
 id: 019db533-f381-7502-810c-92866a86d563
 extends-slug: page
-files: instructions:**/*.view.md
+files: akasha:**/*.view.md
 body-shape-slug: empty
 slug: view
 plural-slug: views

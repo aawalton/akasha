@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Page property type"
 id: 019ffd33-446f-7000-bd62-f0427ee1af55
 extends-slug: domain
-files: instructions:**/*.page-property-type.md
+files: akasha:**/*.page-property-type.md
 body-shape-slug: domain
 slug: page-property-type
 domain-parent-slug: page-type/page-property-definition
