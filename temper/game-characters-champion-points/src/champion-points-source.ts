@@ -3,7 +3,7 @@ import type { EffectSourceInterface } from "@temper/shared-formula-framework/eff
 import type { Effect } from "@temper/shared-formula-framework/effects-types"
 import { craftPassives } from "./data/craft-passives"
 import { craftSlottables } from "./data/craft-slottables"
-import { fitnessPassives } from "./fitness-passives"
+import { fitnessPassives } from "./data/fitness-passives"
 import { fitnessSlottables } from "./fitness-slottables"
 import { warfarePassives } from "./warfare-passives"
 import { warfareSlottables } from "./warfare-slottables"
