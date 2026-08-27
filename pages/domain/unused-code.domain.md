@@ -12,4 +12,4 @@ domain-parent-slug: domain/code-quality
 
 # Intent
 
-Nothing stands in the code repository that nothing deployed reaches.
+Nothing stands in akasha that nothing deployed reaches.

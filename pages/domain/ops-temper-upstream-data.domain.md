@@ -14,8 +14,8 @@ required-reading-slugs:
 
 # Design
 
-The upstream Lua these read stands in the live ESO install on this workstation, in neither repository.
+The upstream Lua these read stands in the live ESO install on this workstation, outside every repository.
 
 An absent upstream file stops the command there: nothing is emitted, and nothing is ruled on.
 
-A carried file is tracked by the code repository and the command that wrote it is not.
+A carried file is tracked by akasha and the command that wrote it is not.

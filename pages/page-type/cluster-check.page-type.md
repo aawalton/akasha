@@ -14,7 +14,7 @@ required-reading-slugs:
 
 # Definition
 
-- **Cluster check** — a check too slow to run beside the work, run over the whole code repo.
+- **Cluster check** — a check too slow to run beside the work, run over the whole of akasha.
 
 # Design
 

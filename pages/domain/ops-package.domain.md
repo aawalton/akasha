@@ -10,7 +10,7 @@ required-reading-slugs:
 
 # Definition
 
-- **Ops package** — the commands that add a workspace package to the code repo and move or rename one already there.
+- **Ops package** — the commands that add a workspace package to akasha and move or rename one already there.
 
 # Design
 

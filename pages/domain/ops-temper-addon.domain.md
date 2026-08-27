@@ -11,7 +11,7 @@ required-reading-slugs:
 
 # Definition
 
-- **Ops temper addon** — the commands that work on the addons Temper writes, in the code repository rather than in the game.
+- **Ops temper addon** — the commands that work on the addons Temper writes, in akasha rather than in the game.
 
 # Design
 
