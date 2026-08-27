@@ -3,14 +3,11 @@ import { attachmentFileOf, readAttachment, writeAttachment } from "../page/attac
 import {
   agentPageFor,
   agentPages,
-  coveredTo,
   type Entry,
-  merge,
   type Records,
   recordsOf,
   replacedAt,
-  type Span,
-} from "./read-log.ts"
+} from "./read-record.ts"
 
 const READINGS = "readings"
 
@@ -22,7 +19,7 @@ function vouched(records: Records, cutoff: number): Records {
   if (cutoff === 0) return records
   const kept: Records = {}
   for (const [path, entry] of Object.entries(records)) {
-    if (entry.seen !== undefined && entry.seen > cutoff) kept[path] = entry
+    if (entry.seenAt > cutoff) kept[path] = entry
   }
   return kept
 }
@@ -60,27 +57,15 @@ export function recordsFor(page: string, cutoff: number): Records {
   return heldFor(page, cutoff)
 }
 
-function carryOn(existing: Entry | undefined, at: number, blob: string | undefined): Entry | null {
-  if (existing === undefined) return null
-  if (blob === undefined) return existing.at === at ? existing : null
-  return existing.blob === blob ? existing : null
-}
-
 export function recordRead(
   page: string,
   cutoff: number,
   absolutePath: string,
-  at: number,
-  span: Span,
-  blob?: string
+  seenAt: number,
+  oid: string
 ): void {
   const records = heldFor(page, cutoff)
-  const carried = carryOn(records[absolutePath], at, blob)
-  const spans = merge(carried === null ? [span] : [...carried.spans, span])
-  const named = blob ?? carried?.blob
-  const entry: Entry = { at, spans, seen: Date.now() }
-  if (named !== undefined) entry.blob = named
-  records[absolutePath] = entry
+  records[absolutePath] = { oid, seenAt }
   pending.set(page, records)
   cutoffs.set(page, cutoff)
 }
@@ -112,26 +97,22 @@ export interface Moved {
   readonly path: string
   readonly from: string
   readonly to: string
-  readonly wasLines: number
-  readonly lines: number
 }
 
 export function carriedReading(entry: Entry, move: Moved): Entry | null {
-  if ((entry.mechanical ?? entry.blob) !== move.from) return null
-  if (coveredTo(entry.spans) < move.wasLines) return null
-  return { ...entry, spans: [[1, Math.max(1, move.lines)]], mechanical: move.to }
+  if ((entry.mechanicalOid ?? entry.oid) !== move.from) return null
+  return { ...entry, mechanicalOid: move.to }
 }
 
 export function recordReadBy(
   writer: string,
   absolutePath: string,
-  at: number,
-  span: Span,
-  blob?: string
+  seenAt: number,
+  oid: string
 ): void {
   const page = agentPageFor(writer)
   if (page === null) return
-  recordRead(page, replacedAt(page), absolutePath, at, span, blob)
+  recordRead(page, replacedAt(page), absolutePath, seenAt, oid)
 }
 
 export function carryReadingsBy(moves: readonly Moved[]): number {

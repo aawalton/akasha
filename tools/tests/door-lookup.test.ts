@@ -1,6 +1,6 @@
 
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
-import { lastReadAt } from "../lib/read-log.ts"
+import { readOid } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture } from "./fixture.ts"
 
@@ -25,18 +25,18 @@ describe("the command lookup", () => {
 
   test("a subagent's read does not answer for its seat", () => {
     at.document("pages/persona/aria.persona.md", "name: aria", 20)
-    expect(lastReadAt(SEAT, recordSubagentRead("pages/persona/aria.persona.md"))).toBeNull()
+    expect(readOid(SEAT, recordSubagentRead("pages/persona/aria.persona.md"))).toBeNull()
   })
 
   test("the seat's own read answers for itself", () => {
     at.document("pages/persona/aria.persona.md", "name: aria", 20)
     at.readIt(SEAT, "pages/persona/aria.persona.md")
-    expect(lastReadAt(SEAT, canonicalize(`${at.root}/pages/persona/aria.persona.md`))).not.toBeNull()
+    expect(readOid(SEAT, canonicalize(`${at.root}/pages/persona/aria.persona.md`))).not.toBeNull()
   })
 
   test("a subagent's own read answers for the subagent", () => {
     at.document("pages/persona/aria.persona.md", "name: aria", 20)
     const absolute = recordSubagentRead("pages/persona/aria.persona.md")
-    expect(lastReadAt(SUB, absolute)).not.toBeNull()
+    expect(readOid(SUB, absolute)).not.toBeNull()
   })
 })

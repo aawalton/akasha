@@ -2,7 +2,7 @@ export const summary = "Start a worktree of akasha and work in it"
 
 import { existsSync, mkdirSync, readdirSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
-import { agentPageFor } from "../../../agent/read-log.ts"
+import { agentPageFor } from "../../../agent/read-record.ts"
 import { seatId } from "../../../agent/writer.ts"
 import { takeSeqOf } from "../../../page/page-seq.ts"
 import { pageTypePathIn, placeDirOf } from "../../../page/page-types.ts"

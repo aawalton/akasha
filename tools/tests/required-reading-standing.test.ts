@@ -209,7 +209,7 @@ describe("the two repos are addressed apart", () => {
 })
 
 describe("what counts as having read a document", () => {
-  test("read in full, then changed on disk, refuses on the mtime key", () => {
+  test("read in full, then changed on disk, refuses on the body it names", () => {
     fileKeyDeclared(at)
     at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.readIt("agent-one", "domains/persona.md")
@@ -221,38 +221,6 @@ describe("what counts as having read a document", () => {
     expect(said(standing)).toContain("CHANGED SINCE YOU READ IT")
     expect(said(standing)).toContain(
       "`ops read --file-path domains/persona.md` prints what you are missing"
-    )
-  })
-
-  test("read in part is never enough, and the refusal names the first unread line", () => {
-    fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
-    at.readIt("agent-one", "domains/persona.md", [1, 20])
-    const standing = run("pages/persona/aria.persona.md")
-    expect(said(standing)).toContain("PARTLY READ")
-    expect(said(standing)).toContain(`line 21 of ${at.linesOf("domains/persona.md")} onward is unread`)
-    expect(said(standing)).toContain("`ops read --file-path domains/persona.md`")
-    at.document("domains/tasks/code-rules.md", `${CLAIMED}: code:packages/infra/x.ts`, 40)
-    at.readIt("agent-one", "domains/tasks/code-rules.md", [1, 20])
-    expect(said(run("packages/infra/x.ts", "agent-one", "code"))).toContain(
-      `Read ${at.root}/domains/tasks/code-rules.md from line 21 (\`offset: 21\`)`
-    )
-  })
-
-  test("a partial read completed across two calls is enough", () => {
-    fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
-    at.readIt("agent-one", "domains/persona.md", [1, 20])
-    at.readIt("agent-one", "domains/persona.md", [21, at.linesOf("domains/persona.md")])
-    expect(run("pages/persona/aria.persona.md").kind).toBe("read")
-  })
-
-  test("a read that starts past line 1 leaves the head uncovered", () => {
-    fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
-    at.readIt("agent-one", "domains/persona.md", [10, at.linesOf("domains/persona.md")])
-    expect(said(run("pages/persona/aria.persona.md"))).toContain(
-      `line 1 of ${at.linesOf("domains/persona.md")} onward is unread`
     )
   })
 

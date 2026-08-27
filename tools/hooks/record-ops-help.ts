@@ -1,6 +1,6 @@
 
 import { helpKey, irreversibleCommands, matchCommand, parseOpsCalls } from "../lib/ops-command.ts"
-import { recordingAgentId, recordRead } from "../lib/read-log.ts"
+import { recordingAgentId, recordRead } from "../lib/read-record.ts"
 
 async function main(): Promise<void> {
   let payload: unknown
@@ -27,7 +27,7 @@ async function main(): Promise<void> {
     if (verb === null) continue
     const held = declared.get(verb)
     if (held === undefined) continue
-    recordRead(agent, helpKey(held.source), held.help, [1, 1])
+    recordRead(agent, helpKey(held.source), Date.now(), held.help)
   }
 }
 

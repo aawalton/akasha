@@ -11,7 +11,6 @@ import {
 } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { commitAuthor } from "../../agent/commit-author.ts"
-import { countLines } from "../../agent/read-log.ts"
 import { carryReadingsBy, type Moved, recordReadBy } from "../../agent/record-read.ts"
 import { writerId } from "../../agent/writer.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
@@ -133,8 +132,6 @@ function movesOf(root: string, entries: readonly Landing[]): readonly Moved[] {
       path: canonicalize(absolute),
       from,
       to,
-      wasLines: countLines(new TextDecoder().decode(was)),
-      lines: countLines(new TextDecoder().decode(now)),
     })
   }
   return moves
@@ -161,9 +158,7 @@ export function recordOwnWrite(absolute: string, body: string | Uint8Array): voi
   if (writer === null) return
   try {
     const bytes = typeof body === "string" ? new TextEncoder().encode(body) : body
-    const text = typeof body === "string" ? body : new TextDecoder().decode(bytes)
-    const span: [number, number] = [1, Math.max(1, countLines(text))]
-    recordReadBy(writer, canonicalize(absolute), statSync(absolute).mtimeMs, span, blobId(bytes))
+    recordReadBy(writer, canonicalize(absolute), Date.now(), blobId(bytes))
   } catch {
   }
 }

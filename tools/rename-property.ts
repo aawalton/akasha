@@ -9,7 +9,7 @@ import { anyRefused, render } from "../outcome/outcome"
 import { diskFileTree } from "../page/file-tree.ts"
 import { registryOf } from "../page/property/registry.ts"
 import { rejectUnknownFlags, repoFlag } from "./lib/payload.ts"
-import { agentId } from "./lib/read-log.ts"
+import { agentId } from "./lib/read-record.ts"
 import {
   applied,
   bodiesUnder,

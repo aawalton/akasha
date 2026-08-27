@@ -1,8 +1,7 @@
 
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
-import { mkdtempSync, rmSync, statSync } from "node:fs"
+import { mkdtempSync, rmSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { countLines } from "../lib/read-log.ts"
 import { readOne } from "../../agent/read-one.ts"
 import { type Fixture, fixture } from "./fixture.ts"
 
@@ -33,14 +32,14 @@ function stored(prior: string): string {
 }
 
 function since(prior: string): { readonly headline: string; readonly body: string | null } {
-  const blob = stored(prior)
+  const oid = stored(prior)
   const absolute = `${at.root}/${SUBJECT}`
   const workspace = mkdtempSync(`${tmpdir()}/read-command-`)
   try {
     return readOne({
       named: SUBJECT,
       absolute,
-      reading: { at: statSync(absolute).mtimeMs - 1000, spans: [[1, countLines(prior)]], blob },
+      reading: { oid, seenAt: Date.now() - 1000 },
       forced: false,
       root: at.root,
       workspace,

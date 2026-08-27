@@ -15,7 +15,7 @@ import { handlerDerives, personaIsHers, refuseAnswering } from "./lib/seat-answe
 import { roleGrantsOnCall } from "./lib/seat-on-call.ts"
 import { defaultFor, defaultSlots, type Found, resolveAttributes, scan } from "./lib/seat-resolve.ts"
 import { defaultLines } from "./lib/seat-defaults.ts"
-import { seatId } from "./lib/read-log.ts"
+import { seatId } from "./lib/read-record.ts"
 import { akashaRoot, resolveRoots } from "../repo/roots/roots.ts"
 import { composeSeatName, personPrincipals } from "./lib/compose-seat-name.ts"
 import { composedNameOf, followName } from "./lib/seat-rename.ts"

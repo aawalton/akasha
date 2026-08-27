@@ -2,7 +2,7 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import type { Repo } from "../required-reading.ts"
 import { blobId } from "../../repo/git/git.ts"
-import { countLines, firstUnreadLine, ownRead, sameBody } from "./read-log.ts"
+import { countLines, ownRead, sameBody } from "./read-record.ts"
 import { fromDisk, refusalText } from "./refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 
@@ -12,15 +12,13 @@ function whenText(at: number): string {
   return new Date(at).toISOString().replace("T", " ").slice(0, 19)
 }
 
-function reading(repo: Repo, relPath: string, absolute: string, from: number, lines: number): string {
+function reading(repo: Repo, relPath: string, absolute: string, lines: number): string {
   if (repo !== "code") {
     const named = repo === "instructions" && !relPath.startsWith("/") ? relPath : absolute
     const command = `ops read --file-path ${named}`
     return `\`${command}\` prints what you are missing of it and records the read`
   }
-  return from === 1
-    ? `Read all ${lines} lines of ${absolute}`
-    : `Read ${absolute} from line ${from} (\`offset: ${from}\`)`
+  return `Read all ${lines} lines of ${absolute}`
 }
 
 export function remedyFor(
@@ -48,44 +46,30 @@ export function remedyFor(
   if (lines === 0) return null
   const canonical = canonicalize(absolute)
   const entry = ownRead(agent, canonical)
-  const readAt = entry === null ? null : entry.at
-  if (entry === null || readAt === null) {
+  if (entry === null) {
     return refusalText(
       "required-document-unread",
-      { path: relPath, owed: OWED, route: reading(repo, relPath, absolute, 1, lines) },
+      { path: relPath, owed: OWED, route: reading(repo, relPath, absolute, lines) },
       root,
       fromDisk
     )
   }
-  const mark = blobId(bytes)
-  if (!sameBody(entry, mark)) {
+  const oid = blobId(bytes)
+  if (!sameBody(entry, oid)) {
     return refusalText(
       "required-document-changed",
       {
         path: relPath,
         owed: OWED,
-        read: whenText(readAt),
+        read: whenText(entry.seenAt),
         changed: whenText(changedAt),
-        route: reading(repo, relPath, absolute, 1, lines),
+        route: reading(repo, relPath, absolute, lines),
       },
       root,
       fromDisk
     )
   }
-  const unread = firstUnreadLine(agent, canonical, mark, lines)
-  if (unread === null) return null
-  return refusalText(
-    "required-document-part-read",
-    {
-      path: relPath,
-      owed: OWED,
-      line: `${unread}`,
-      lines: `${lines}`,
-      route: reading(repo, relPath, absolute, unread, lines),
-    },
-    root,
-    fromDisk
-  )
+  return null
 }
 
 export function lead(

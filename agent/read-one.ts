@@ -2,7 +2,7 @@
 import { readFileSync, statSync } from "node:fs"
 import { difference } from "../repo/difference/difference.ts"
 import { blobId, readBlob } from "../repo/git/git.ts"
-import { countLines, firstGapIn, type Reading, type Span } from "./read-log.ts"
+import { countLines, type Reading } from "./read-record.ts"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
 import { decodeUtf8, leadingBytes } from "../utf8-body/utf8-body.ts"
 
@@ -47,7 +47,7 @@ function snapshot(absolute: string): Snapshot | null {
 export interface Emission {
   readonly headline: string
   readonly body: string | null
-  readonly record: { readonly at: number; readonly span: Span; readonly blob: string } | null
+  readonly record: { readonly seenAt: number; readonly oid: string } | null
 }
 
 export interface Request {
@@ -77,7 +77,8 @@ export function readOne(request: Request): Emission {
   }
   const body = new TextDecoder().decode(shot.bytes)
   const lines = countLines(body)
-  const record = { at: shot.at, span: [1, Math.max(1, lines)] as Span, blob: blobId(shot.bytes) }
+  const oid = blobId(shot.bytes)
+  const record = { seenAt: Date.now(), oid }
   const whole = (why: string): Emission => ({
     headline: `${named} — ${why}; the whole file follows, ${lines} lines`,
     body: lines === 0 ? null : numbered(body),
@@ -95,29 +96,16 @@ export function readOne(request: Request): Emission {
   }
   if (request.forced) return whole("the whole file, as `--full` asks")
   if (reading === null) return whole("nothing on record says you have read it")
-  const since = whenText(reading.at)
-  if (reading.at === shot.at) {
-    const gap = firstGapIn(reading.spans, lines)
-    if (gap === null) return nothing(`unchanged since you read it at ${since}, and you have read all ${lines} lines`)
-    return whole(`unchanged since you read it at ${since}, but line ${gap} of ${lines} onward was never in front of you`)
+  const since = whenText(reading.seenAt)
+  if (reading.oid === oid) {
+    return nothing(`unchanged since you read it at ${since}, and you have read all ${lines} lines`)
   }
   const changed = `changed since you read it at ${since}`
-  if (reading.blob === null) return whole(`${changed}, and nothing recorded which body you saw then`)
-  const prior = readBlob(request.root, reading.blob)
+  const prior = readBlob(request.root, reading.oid)
   if (prior === null) {
     return whole(`${changed}, and the body you read reached no commit, so it cannot be recovered`)
   }
   const was = new TextDecoder().decode(prior)
-  const priorLines = countLines(was)
-  const gap = firstGapIn(reading.spans, priorLines)
-  if (gap !== null) {
-    return whole(
-      `${changed}, and of that body you had seen only to line ${gap - 1} of ${priorLines}, so a difference would describe lines you never read`
-    )
-  }
-  if (reading.blob === record.blob) {
-    return nothing(`its timestamp moved, but its ${lines} lines are exactly what you read at ${since}`)
-  }
   const diff = difference(was, body, request.workspace)
   if (diff === null) return whole(`${changed}, and git would not produce a difference for it`)
   if (diff.length >= numbered(body).length) {

@@ -1,7 +1,7 @@
 import { ATTRIBUTES } from "../lib/attributes.ts"
 import { seatStanding, subagentStated } from "../lib/hold-seat.ts"
 import { sentTo } from "../lib/hold-seat-words.ts"
-import { hookAgentId, recordingAgentId } from "../lib/read-log.ts"
+import { hookAgentId, recordingAgentId } from "../lib/read-record.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { namedOwed } from "../lib/owed.ts"
 import { resolveRoots } from "../../repo/roots/roots"

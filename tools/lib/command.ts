@@ -1,7 +1,6 @@
 
 import { chmodSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import { countLines } from "../../agent/read-log.ts"
 import { recordReadBy } from "../../agent/record-read.ts"
 import { blobId } from "../../repo/git/git.ts"
 import {
@@ -92,8 +91,7 @@ export function recordOwnRead(agent: string | null, relPath: string, roots: Root
   const absolute = `${targetRoot(roots)}/${relPath}`
   try {
     const bytes = readFileSync(absolute)
-    const lines = countLines(new TextDecoder().decode(bytes))
-    recordReadBy(agent, canonicalize(absolute), statSync(absolute).mtimeMs, [1, lines], blobId(bytes))
+    recordReadBy(agent, canonicalize(absolute), Date.now(), blobId(bytes))
   } catch {
   }
 }

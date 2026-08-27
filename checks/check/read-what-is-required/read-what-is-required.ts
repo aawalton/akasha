@@ -1,13 +1,11 @@
 import { statSync } from "node:fs"
 import {
   agentPageFor,
-  blobId,
-  countLines,
-  firstUnreadLine,
   type Reading,
-  readLogFor,
+  readRecordFor,
   sameBody,
-} from "../../../agent/read-log.ts"
+} from "../../../agent/read-record.ts"
+import { blobId } from "../../../repo/git/git.ts"
 import { seatWarrantsFor } from "../../../agent/required-reading/required-reading.ts"
 import { textAt } from "../../../page/text/text.ts"
 import { standingHere } from "../../../page/required-reading/warrant/warrant.ts"
@@ -46,26 +44,17 @@ function refusalOver(
 ): string | null {
   const route = routeTo(absolute)
   if (reading === null) return refusalText("required-document-unread", { path: said, owed: OWED, route })
-  const mark = blobId(new TextEncoder().encode(body))
-  if (!sameBody(reading, mark)) {
+  const oid = blobId(new TextEncoder().encode(body))
+  if (!sameBody(reading, oid)) {
     return refusalText("required-document-changed", {
       path: said,
       owed: OWED,
-      read: whenText(reading.at),
+      read: whenText(reading.seenAt),
       changed: changedAt(absolute),
       route,
     })
   }
-  const lines = countLines(body)
-  const unread = firstUnreadLine(reading, mark, lines)
-  if (unread === null) return null
-  return refusalText("required-document-part-read", {
-    path: said,
-    owed: OWED,
-    line: `${unread}`,
-    lines: `${lines}`,
-    route,
-  })
+  return null
 }
 
 export const readWhatIsRequired: Check = {
@@ -79,7 +68,7 @@ export const readWhatIsRequired: Check = {
       return [{ path: first, reason: refusalText("writer-unidentified", {}) }]
     }
     const page = agentPageFor(act.writer)
-    const log = page === null ? null : readLogFor(act.writer)
+    const log = page === null ? null : readRecordFor(act.writer)
     if (page === null || log === null) {
       return [
         { path: first, reason: refusalText("agent-page-absent", { agent: act.writer, lapsed: LAPSED }) },

@@ -1,4 +1,3 @@
-import { createHash } from "node:crypto"
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { akashaRoot } from "../repo/roots/roots.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
@@ -30,55 +29,31 @@ const ID_KEY = "id"
 
 const SUBAGENT_ID_KEY = "subagent-id"
 
-const NOTIFIED = "notify"
-
-export type Span = readonly [number, number]
-
 export type Entry = {
-  at: number
-  spans: Span[]
-  blob?: string
-  seen?: number
-  mechanical?: string
+  oid: string
+  seenAt: number
+  mechanicalOid?: string
 }
 
 export type Records = Record<string, Entry>
 
 export interface Reading {
-  readonly at: number
-  readonly spans: readonly Span[]
-  readonly blob: string | null
-  readonly mechanical?: string | null
-}
-
-function spanOf(value: unknown): Span | null {
-  if (!Array.isArray(value)) return null
-  const [start, end] = value as readonly unknown[]
-  return typeof start === "number" && typeof end === "number" ? [start, end] : null
+  readonly oid: string
+  readonly seenAt: number
+  readonly mechanicalOid?: string | null
 }
 
 function entryOf(value: unknown): Entry | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const { at, spans, blob, seen, via, mechanical } = value as {
-    at?: unknown
-    spans?: unknown
-    blob?: unknown
-    seen?: unknown
-    via?: unknown
-    mechanical?: unknown
+  const { oid, seenAt, mechanicalOid } = value as {
+    oid?: unknown
+    seenAt?: unknown
+    mechanicalOid?: unknown
   }
-  if (typeof at !== "number" || !Number.isFinite(at) || !Array.isArray(spans)) return null
-  const kept: Span[] = []
-  for (const raw of spans) {
-    const span = spanOf(raw)
-    if (span === null) return null
-    kept.push(span)
-  }
-  const entry: Entry = { at, spans: kept }
-  if (typeof blob === "string" && blob !== "") entry.blob = blob
-  if (typeof seen === "number" && Number.isFinite(seen)) entry.seen = seen
-  if (typeof mechanical === "string" && mechanical !== "") entry.mechanical = mechanical
-  if (via === NOTIFIED) return null
+  if (typeof oid !== "string" || oid === "") return null
+  if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
+  const entry: Entry = { oid, seenAt }
+  if (typeof mechanicalOid === "string" && mechanicalOid !== "") entry.mechanicalOid = mechanicalOid
   return entry
 }
 
@@ -92,29 +67,6 @@ export function recordsOf(parsed: unknown): Records {
   return records
 }
 
-export function merge(spans: readonly Span[]): Span[] {
-  const sorted = [...spans].sort((a, b) => a[0] - b[0])
-  const out: Span[] = []
-  for (const span of sorted) {
-    const last = out[out.length - 1]
-    if (last !== undefined && span[0] <= last[1] + 1) {
-      out[out.length - 1] = [last[0], Math.max(last[1], span[1])]
-      continue
-    }
-    out.push(span)
-  }
-  return out
-}
-
-export function coveredTo(spans: readonly Span[]): number {
-  let covered = 0
-  for (const [start, end] of merge(spans)) {
-    if (start > covered + 1) break
-    covered = Math.max(covered, end)
-  }
-  return covered
-}
-
 export function loadPath(path: string): Records {
   if (!existsSync(path)) return {}
   try {
@@ -124,35 +76,18 @@ export function loadPath(path: string): Records {
   }
 }
 
-export function blobId(content: Uint8Array): string {
-  return createHash("sha1").update(`blob ${content.length}\0`).update(content).digest("hex")
-}
-
 export function countLines(text: string): number {
   if (text === "") return 0
   const parts = text.split("\n")
   return parts[parts.length - 1] === "" ? parts.length - 1 : parts.length
 }
 
-export function bodyItself(reading: Reading | null, mark: string): boolean {
-  return reading !== null && reading.blob === mark
+export function bodyItself(reading: Reading | null, oid: string): boolean {
+  return reading !== null && reading.oid === oid
 }
 
-export function sameBody(reading: Reading | null, mark: string): boolean {
-  return bodyItself(reading, mark) || (reading !== null && reading.mechanical === mark)
-}
-
-export function firstGapIn(spans: readonly Span[], lines: number): number | null {
-  if (lines === 0) return null
-  const covered = coveredTo(spans)
-  return covered >= lines ? null : covered + 1
-}
-
-export function firstUnreadLine(reading: Reading | null, mark: string, lines: number): number | null {
-  if (lines === 0) return null
-  if (reading === null) return 1
-  if (!sameBody(reading, mark)) return 1
-  return firstGapIn(reading.spans, lines)
+export function sameBody(reading: Reading | null, oid: string): boolean {
+  return bodyItself(reading, oid) || (reading !== null && reading.mechanicalOid === oid)
 }
 
 function seatPageWithId(id: string): string | null {
@@ -233,23 +168,22 @@ export function replacedAt(page: string): number {
 function readingOf(value: unknown, cutoff: number): Reading | null {
   const entry = entryOf(value)
   if (entry === null) return null
-  if (cutoff !== 0 && !(entry.seen !== undefined && entry.seen > cutoff)) return null
+  if (cutoff !== 0 && !(entry.seenAt > cutoff)) return null
   return {
-    at: entry.at,
-    spans: entry.spans,
-    blob: entry.blob ?? null,
-    mechanical: entry.mechanical ?? null,
+    oid: entry.oid,
+    seenAt: entry.seenAt,
+    mechanicalOid: entry.mechanicalOid ?? null,
   }
 }
 
-export interface ReadLog {
+export interface ReadRecord {
   readonly page: string
   readonly at: string
   readonly reading: (absolutePath: string) => Reading | null
   readonly paths: () => readonly string[]
 }
 
-export function readLogFor(writer: string): ReadLog | null {
+export function readRecordFor(writer: string): ReadRecord | null {
   const page = agentPageFor(writer)
   if (page === null) return null
   const at = besidePage(page, READINGS_SUFFIX)

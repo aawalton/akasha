@@ -1,15 +1,13 @@
 import { statSync } from "node:fs"
 import { relative } from "node:path"
 import {
-  blobId,
   bodyItself,
-  countLines,
-  firstUnreadLine,
-  type ReadLog,
-  readLogFor,
+  type ReadRecord,
+  readRecordFor,
   type Reading,
   sameBody,
-} from "../../../agent/read-log.ts"
+} from "../../../agent/read-record.ts"
+import { blobId } from "../../../repo/git/git.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
 import type { PageAt } from "../../../page/page.ts"
 import { pageNameOf } from "../../../page/name/name.ts"
@@ -44,7 +42,7 @@ function pageAtOf(repo: string, key: string): PageAt {
   return { repo, key, stem: named?.stem ?? "", type: named?.type ?? "" }
 }
 
-function ownBody(log: ReadLog, absolute: string): Reading | null {
+function ownBody(log: ReadRecord, absolute: string): Reading | null {
   return log.reading(absolute)
 }
 
@@ -56,17 +54,14 @@ function refusalOverTarget(
 ): string | null {
   const route = routeTo(absolute)
   if (reading === null) return refusalText("file-never-read", { path: said, route })
-  const mark = blobId(body)
-  if (!bodyItself(reading, mark)) {
+  const oid = blobId(body)
+  if (!bodyItself(reading, oid)) {
     return refusalText(
-      sameBody(reading, mark) ? "body-moved-mechanically" : "file-changed-after-read",
+      sameBody(reading, oid) ? "body-moved-mechanically" : "file-changed-after-read",
       { path: said, route }
     )
   }
-  const lines = countLines(new TextDecoder().decode(body))
-  const unread = firstUnreadLine(reading, mark, lines)
-  if (unread === null) return null
-  return refusalText("file-part-read", { path: said, line: `${unread}`, route })
+  return null
 }
 
 function refusalOverRequired(
@@ -77,26 +72,17 @@ function refusalOverRequired(
 ): string | null {
   const route = routeTo(absolute)
   if (reading === null) return refusalText("required-document-unread", { path: said, owed: OWED, route })
-  const mark = blobId(body)
-  if (!sameBody(reading, mark)) {
+  const oid = blobId(body)
+  if (!sameBody(reading, oid)) {
     return refusalText("required-document-changed", {
       path: said,
       owed: OWED,
-      read: whenText(reading.at),
+      read: whenText(reading.seenAt),
       changed: changedAt(absolute),
       route,
     })
   }
-  const lines = countLines(new TextDecoder().decode(body))
-  const unread = firstUnreadLine(reading, mark, lines)
-  if (unread === null) return null
-  return refusalText("required-document-part-read", {
-    path: said,
-    owed: OWED,
-    line: `${unread}`,
-    lines: `${lines}`,
-    route,
-  })
+  return null
 }
 
 export const readBeforeWrite: Check = {
@@ -108,7 +94,7 @@ export const readBeforeWrite: Check = {
     if (act.writer === null) {
       return paths.map((path) => ({ path, reason: refusalText("writer-unidentified", {}) }))
     }
-    const log = readLogFor(act.writer)
+    const log = readRecordFor(act.writer)
     if (log === null) {
       const reason = refusalText("agent-page-absent", {
         agent: act.writer,

@@ -1,5 +1,5 @@
 import { readFileSync, statSync, writeFileSync } from "node:fs"
-import { agentId } from "../lib/read-log.ts"
+import { agentId } from "../lib/read-record.ts"
 import { type Roots } from "../../page/page"
 import { resolveRoots } from "../../repo/roots/roots"
 import { toolArgv } from "../lib/tool-argv.ts"

@@ -1,7 +1,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { closeSync, existsSync, openSync, readFileSync } from "node:fs"
 import { judge, type Outcome } from "../../outcome/outcome"
-import { ownRead } from "../lib/read-log.ts"
+import { ownRead } from "../lib/read-record.ts"
 import { loadingLines } from "../lib/owed.ts"
 import { type Roots } from "../../page/page"
 import { REPOS } from "../../repo/roots/roots"

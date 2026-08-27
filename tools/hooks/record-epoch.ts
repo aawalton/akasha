@@ -1,6 +1,6 @@
 
 import { recordEpoch, replacedAt } from "../lib/epoch.ts"
-import { recordingAgentId, resetReadings } from "../lib/read-log.ts"
+import { recordingAgentId, resetReadings } from "../lib/read-record.ts"
 
 async function main(): Promise<void> {
   let payload: unknown

@@ -1,7 +1,7 @@
 
 import { FRESH, type Epoch } from "./epoch.ts"
 import { ATTRIBUTES, type Attribute, type Attributes, type Claimant } from "./attributes.ts"
-import { recordSaid } from "./read-log.ts"
+import { recordSaid } from "./read-record.ts"
 import { fromDisk, refusalText } from "./refusal.ts"
 import type { TaskRecord } from "./seat-task.ts"
 
