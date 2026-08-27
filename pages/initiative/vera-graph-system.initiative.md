@@ -10,8 +10,6 @@ parent-slug: aine-global
 # Intent
 
 - A page names the file implementing it.
-- The graph reaches a file a page names by a property.
-- Edges are asked for by their attributes as well as by their type.
 - Nothing works out where a page's code sits for itself.
 - Every node type and edge type the graph carries is worth what it costs.
 - No node the graph holds asserts something that is not true.
@@ -36,7 +34,7 @@ Holding an answer and dropping a stale one are two halves of one thing, so they 
 
 ## How the work is shaped
 
-The first four intents are the `code` collapse, and they close before the rest. A relation edge cannot reach a `.ts` file today, property resolution going through the page index where a file is not a page. Nor can a reader narrow to one relation: `relation` is a single type holding 117,829 edges, and edges are asked for by type alone. Both gaps are shut before the property replaces the inferred edge, and the `beside` producer and the `code` edge page go once it does.
+The `code` collapse rests on the attachment rename. The `beside` producer and the `code` edge page go once every migrating type declares its attachment, and the three places that recompute a page's code path give way to the declaration at the same time.
 
 The old graph goes whole rather than type by type, nothing in the new set being translated from it. What breaks on its removal is rewritten against the new set or deleted with the checks that own it.
 
@@ -59,6 +57,20 @@ An edge is polymorphic in its ends wherever its way of connecting is. A folder h
 
 Rootedness is removed as a concept. No edge type carries it and no node type seeds it. `ops graph rooted` and the `deployed` node flag go with it. Whether deleting a file breaks production is asked as a walk from a deployable rather than held as a flag.
 
+## Code a page names
+
+Code a page owns is an attachment of that page, on the pages system's existing convention rather than a shape of its own: the file sits beside its page, named for it with `.md` replaced by `.{key}.attachment.{extension}`. Renaming the code onto that pattern is mechanical.
+
+Five page types own their code as an attachment: `command`, `check`, `graph-edge-producer`, `graph-node-producer`, and `agent-hook` with `inference-hook` inheriting it. The hooks' pages move to `tools/hooks/` to reach theirs; the rest already sit beside their code.
+
+A path property is what names a file a page does not own, and these keep one:
+
+- `graph-edge` and `domain` declare nothing at all. The single file beside a page of each is a shared module rather than an implementation, so the declaration's absence is what takes the false edge away.
+- `page-type`'s `code-loaded-by` names a loader many pages point at.
+- `readout-widget`'s `widget-path` names rings two pages share, so neither owns one.
+- `cluster-check`'s `script` is retyped from `text` to `file`, and its pages stay where they are.
+- The `old-*` types are skipped. Their code is being ablated, and a page that migrates lands beside its code as part of that.
+
 ## The set
 
 Two node types, from the union's 52.
@@ -74,7 +86,7 @@ Three edge types, from the union's 83: `import`, `relation`, `contains`. All thr
 
 `path` collapses into `relation`, by Alan's ruling on 2026-08-27. Both are read by walking the property definitions and reading a frontmatter key, and with `file` and `folder` the only node types, a page is a file, so the ends do not differ either. Which key named the other end, and whether it resolved as a page or as a path, are attributes.
 
-`code` collapses into `relation`, by Alan's ruling on 2026-08-27. It was the one inferred edge in the set: the `beside` producer read a page's stem and claimed the `.ts` file sharing it was that page's implementation. That claim is false where the stems merely collide, and it is false today, `readouts/ring/ring.domain.md` drawing a `code` edge to a module eight other files import. A page names its own implementation in a property instead, and the graph carries that as a relation like any other.
+`code` collapses into `relation`, by Alan's ruling on 2026-08-27. It was the one inferred edge in the set: the `beside` producer read a page's stem and claimed the `.ts` file sharing it was that page's implementation. That claim is false where the stems merely collide, and it is false today, `readouts/ring/ring.domain.md` drawing a `code` edge to a module eight other files import. A page declares the code it owns instead, and the graph carries that as a relation like any other.
 
 `relation` is a thin concept layer over the pages system's own index, by Alan's ruling on 2026-08-27. The reverse index at `.git/pages/index/relation/` already holds these edges with staleness marks, so the graph reads it rather than deriving the same facts a second time. The `frontmatter` producer, which re-derives them in memory, is replaced rather than kept.
 
@@ -88,11 +100,27 @@ A node names the repository it lives in, by Alan's ruling on 2026-08-26. A thing
 
 # Notes
 
-43 pages match the `beside` producer today: 18 commands, 16 checks, 7 graph producers, one graph edge page and one domain. None of them declares its implementation, and two of the 43 are stem collisions rather than pairs.
+Forty pages have a `.ts` sharing their folder and stem: 18 `command`, 14 `check`, 5 `graph-edge-producer`, 1 `graph-node-producer`, and one each of `graph-edge` and `domain`. The last two are collisions rather than pairs, and are the false edges the declaration removes.
 
-Three places work out where a page's code sits, each for itself: `checks-system/checks.ts`, `tools/ops/akasha.ts`, and the `loader` producer, which duplicates `beside.ts` line for line before emitting an `import` edge. The declared property replaces all three.
+Three places work out where a page's code sits, each for itself: `checks-system/checks.ts`, `tools/ops/akasha.ts`, and the `loader` producer, which duplicates `beside.ts` line for line before emitting an `import` edge.
 
-`page-type/check` and `domain/the-graph` both write the convention as an invariant. Those lines change when the property lands, and each changed line goes to Alan first.
+`page-type/check` and `domain/the-graph` both write the beside convention as an invariant. Those lines change when the attachment lands, and each changed line goes to Alan first.
+
+`tools/required-reading.ts` keys a file claim into a plain map by repository and path, so where two pages name one file the second silently replaces the first. Two `readout-widget` pairs do, leaving one page of each pair unwarranted.
+
+`code-loaded-by` is written `type: string`, and no page-property-type page defines `string`. That is why it draws no relation edge and earns no required-reading warrant.
+
+`old-graph-node-deriver` has no pages and `tools/lib/graph/derivers/` does not exist, yet its page type and six property definitions remain. Thirteen of the fifty `*.edge.producer.ts` files have no `old-graph-edge-producer` page.
+
+`tools/hooks/block-whole-suite-run.sh` and `tools/hooks/state-errand.ts` are registered in `settings/agents.json` with no page of any type.
+
+The 28 hooks split seventeen `.ts` and eleven `.sh`, while `attachment` takes one extension rather than a set. No attachment key anywhere on disk spans two extensions, so the hooks would be the first.
+
+Four hook pages — `hold-seat`, `block-unread-writes`, `block-code-comments` and `block-memory-writes` — are registered nowhere this repository reaches, though the first two gate every write made from a seat. Renaming their files would disable them with nothing here to repair it.
+
+The named suites report twenty-three failures in three groups, none of them this initiative's: fixtures naming `repos/instructions` after the fold, `relation-resolves` fixtures carrying no `page-type` page since the registry was rebuilt from the index, and an `ops mv` error message reworded without its test.
+
+The root typecheck reports about 1,294 errors, nearly all `TS6307` and `TS5097` project-reference failures across `shared/*`. It reported more before this initiative began, so nothing here caused it.
 
 The node line is nearly free today, the only node type being `file` and its nodes coming from what git tracks. It stops being free as further node types land, each claiming something a file's existence does not settle.
 
@@ -105,5 +133,3 @@ The `Said` memo at `build-context.ts` is the one held answer today, keyed by a f
 `domain/the-graph` writes its Condition and its `Alan Approves` rule in the word "kind", which no domain defines. `domain/graph-producer` says "node type" and "edge type" for the same thing. Whether "kind" gives way to "type" everywhere is open; the intents here are settled case by case.
 
 `page-type/graph-edge` defines an edge as "one link from one node to another", while every page under it describes an edge type rather than a link.
-
-`page-type/initiative` declares `repo/memory-repo` as required reading, though initiatives live in akasha now.
