@@ -6,7 +6,8 @@
     "editor-extension",
     "native-shell/atlas",
     "lua-compiler",
-    "lua-compiler/vendor/*"
+    "lua-compiler/vendor/*",
+    "alanwalton/calendar-sync"
   ],
   "dependencies": {
     "@vscode/ripgrep": "^1.18.0",
