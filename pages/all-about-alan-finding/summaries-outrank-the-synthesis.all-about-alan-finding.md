@@ -1,0 +1,30 @@
+---
+page-type-slug: all-about-alan-finding
+id: dcda0c50-f5e6-5e7e-9ed7-d7c344b605b1
+title: "Summaries outrank the synthesis"
+domain-slug: domain/all-about-alan
+---
+
+# Claim
+
+The second-passport corpus has two layers that disagree on which paths are live, and the layer pointed to as the full surface is the out-of-date one. The four summaries carry Cyprus as the second-fastest EU route at ~4.7 years and France's two-year decree as the fastest in the dataset; `passive-income.md` has removed Cyprus and `active-income.md` the French study track, for reasons the summaries do not carry. Cyprus turns on a check nobody ran that the file expects to fail.
+
+# Evidence
+
+Read 2026-08-16. All six files quoted here I read directly.
+
+The two layers. `active-income.md` and `passive-income.md` each open pointing down: "Full country surface lives at [eu/citizenship/summary.md], [eu/residency/summary.md] …". Neither EU summary names either synthesis file.
+
+Cyprus. `eu/citizenship/summary.md`: "**Fast-track highly skilled (§111A)** — 4y + B1 OR 5y + A2 Greek; 8-month statutory cap; ~4.7y or ~5.7y total", ranked second in "Fastest paths". `eu/residency/summary.md` carries both on-ramps, ranking Cat F second in "Cheapest passport via residency".
+
+`passive-income.md` removes both: "**Cyprus Category F PR** … 'Employment or business in Cyprus is prohibited.'" and "**Cyprus Reg 6(2) Cat 6.2 PR** … Cyprus exits short-list once both Cat F and Reg 6(2) are out. **Reconsider only if §111A 4.7y fast-track is verified reachable from Reg 6(2) without the Highly Skilled Employee employer-sponsorship track** — current research suggests §111A requires the employee track."
+
+No file records that check being run, and the summary ranking Cyprus second carries no note of the doubt.
+
+France. `eu/residency/summary.md`: "French Master's collapses citizenship clock to **2y under Article 21-18** (fastest legal path to an EU passport in this dataset)". `active-income.md` excludes it under "Excluded — full-time study tracks (don't fit working-parent profile)".
+
+Czechia. `active-income.md`: "the 5y PR-qualifying window tightens to max 2mo continuous / 10mo total absence … **reconsider if the PR-phase rule is acceptable**." `eu/residency/summary.md` carries it without the caveat, ranked cheapest of five. Nothing records whether the rule is acceptable to Alan.
+
+Two delegated seats read the ninety country files and each reported no contradiction within its own subtree. Neither read the synthesis files, where this sits.
+
+Not measured: I checked no Cypriot, French or Czech law, so I cannot say which layer is right — only that they differ.
