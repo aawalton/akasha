@@ -13,8 +13,8 @@ The Temper task watcher holds a recovery path nothing can reach.
 
 # Evidence
 
-Read on 2026-08-26 in the code repository: `packages/temper/scripts/src/watcher/import-tasks.ts:281-301`, `packages/shared/pages/access/src/get.ts:23-38`, `packages/shared/pages/access/src/file-write.ts:281`, and `packages/shared/pages/access/src/page-type-file-only.unit.test.ts:196-222`.
+Read on 2026-08-26: `temper/scripts/src/watcher/import-tasks.ts:279-298`, `shared/pages-access/src/get.ts:24-38`, `shared/pages-access/src/file-write.ts:284-288`, and `shared/pages-access/src/page-type-file-only.unit.test.ts:215-224`.
 
-`get.ts:24` refuses a page type that is not file-backed, saying pages are no longer read from a table, so every page type the watcher reaches is file-backed. `file-write.ts:281` carries the refusal a file-backed undelete raises: a removal takes the file away rather than raising a flag on it, so there is nothing there to undelete. `page-type-file-only.unit.test.ts:196` asserts that refusal for `undeletePage`, `undeletePages` and `undeletePageById` alike.
+`get.ts:24` refuses a page type that is not file-backed, saying pages are no longer read from a table, so every page type the watcher reaches is file-backed. `file-write.ts:284` carries the refusal a file-backed undelete raises: a removal takes the file away rather than raising a flag on it, so there is nothing there to undelete. `page-type-file-only.unit.test.ts:215` asserts that refusal for `undeletePage`, `undeletePages` and `undeletePageById` alike.
 
 Not measured: the watcher was not run against real saved variables, so the branch was not observed failing to fire in a live import. Whether any page type outside Temper is still row-backed was not checked. The 167 watcher tests pass, and none of them reaches this path.
