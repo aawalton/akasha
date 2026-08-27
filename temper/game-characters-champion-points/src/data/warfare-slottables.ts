@@ -1,5 +1,5 @@
 import { createDataFile } from "@shared/utils-narrow/create-data-file"
-import type { ChampionPointTemplate } from "./champion-points-source"
+import type { ChampionPointTemplate } from "../champion-points-source"
 
 const WARFARE_SLOTTABLE_CHAMPION_POINTS = {
   "no-warfare-star": {

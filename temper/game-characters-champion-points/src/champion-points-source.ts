@@ -6,7 +6,7 @@ import { craftSlottables } from "./data/craft-slottables"
 import { fitnessPassives } from "./data/fitness-passives"
 import { fitnessSlottables } from "./data/fitness-slottables"
 import { warfarePassives } from "./data/warfare-passives"
-import { warfareSlottables } from "./warfare-slottables"
+import { warfareSlottables } from "./data/warfare-slottables"
 
 type ChampionPointSubcategoryId =
   | "craft-passives"
