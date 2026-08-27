@@ -147,7 +147,8 @@ export function generateTemperDungeons(
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
-import type { Dungeon, QuestGiver } from "../../../../../instructions/tools/lib/temper-addon-data"
+import type { Dungeon } from "../dungeon-registry"
+import type { QuestGiver } from "../pledge-rotation"
 
 export const TEMPER_DUNGEONS = [
 ${dungeonLines.join("\n")}
