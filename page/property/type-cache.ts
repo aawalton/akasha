@@ -6,11 +6,37 @@ import type { Property } from "./property.ts"
 import type { FileTree } from "../file-tree.ts"
 import { folderIn, PAGE_PROPERTY_TYPE_GLOB, PAGE_TYPE_GLOBS, PROPERTY_GLOBS } from "../page-types.ts"
 
-const VERSION = 4
+const VERSION = 5
 
 const CACHE_AT = ".git/pages/resolved/page-type"
 
-const CODE_AT: readonly string[] = ["tools/page"]
+/**
+ * The folders of akasha holding the code an answer is worked out by.
+ *
+ * READ AGAINST AKASHA WHICHEVER REPO'S PAGES ARE BEING RESOLVED. Both tree builders set
+ * `root` from `rootFor(roots, AKASHA)`, so `tree.root` is akasha's root and these paths are
+ * akasha-relative — the same root the property folders below are read against.
+ *
+ * A FOLDER HERE COVERS EVERYTHING UNDER IT, because the ground takes the folder's tree oid.
+ * So `page` stands for every file beneath it and no nested folder is named beside it.
+ */
+export const CODE_AT: readonly string[] = [
+  "cache",
+  "checks-system/refusal",
+  "during-call",
+  "page",
+  "repo",
+  "write-whole",
+]
+
+/**
+ * Where a walk over the answering code starts: the answer, and the key it is filed under.
+ *
+ * `propertiesFor` in the first works out the `Answer` this keeps; `keyFor` in the second works
+ * out what that answer is filed under. `type-cache.unit.test.ts` walks the imports from here and
+ * fails where one reaches a file no folder in `CODE_AT` covers.
+ */
+export const ANSWER_SEEDS: readonly string[] = ["page/property/frontmatter.ts", "page/property/type-cache.ts"]
 
 const IGNORE_AT = ".gitignore"
 
@@ -32,13 +58,34 @@ interface Kept {
   readonly answer: Answer
 }
 
+/**
+ * The named folders that stand, dropping those that do not.
+ *
+ * A PROPERTY FOLDER THAT IS NOT THERE IS A REPO WITHOUT THOSE PAGES. Its name is worked out from
+ * the same `placeOf` the rest of the system files those pages by, so it cannot drift out of step
+ * with what is on disk: absent means nothing is filed there, and the ground says so by leaving it
+ * out. `CODE_AT` is a hand-kept list with no such tie, which is why it goes through `codeIn`.
+ */
 function presentIn(root: string, named: readonly string[]): readonly string[] {
   return [...new Set(named)].sort().filter((at) => existsSync(`${root}/${at}`))
 }
 
+/**
+ * Every folder of `CODE_AT`, or nothing.
+ *
+ * A DECLARED CODE FOLDER THAT IS NOT THERE IS A FAULT IN `CODE_AT`, NEVER A REPO WITHOUT IT.
+ * Dropped instead, the ground is built from whichever of them happen to stand, and it is then
+ * stable while the code it left out changes — so an edit to the answering code does not move the
+ * key and the cache hands back what an older version of that code worked out. That is what a
+ * rename here costs, and nothing else catches it. Refusing the ground costs a recomputation.
+ */
+function codeIn(root: string): readonly string[] | null {
+  const named = [...new Set(CODE_AT)].sort()
+  return named.every((at) => existsSync(`${root}/${at}`)) ? named : null
+}
+
 function foldersIn(root: string): readonly string[] {
-  const named = [...PROPERTY_GLOBS, PAGE_PROPERTY_TYPE_GLOB].map(folderIn)
-  return presentIn(root, [...named, ...CODE_AT])
+  return presentIn(root, [...PROPERTY_GLOBS, PAGE_PROPERTY_TYPE_GLOB].map(folderIn))
 }
 
 function typeFoldersIn(root: string): readonly string[] {
@@ -72,11 +119,12 @@ function blobsUnder(root: string, folders: readonly string[]): ReadonlyMap<strin
 }
 
 function groundOver(root: string): Ground | null {
-  const folders = foldersIn(root)
+  const code = codeIn(root)
+  if (code === null) return null
   const types = typeFoldersIn(root)
   if (types.length === 0) return null
-  const named = [...folders, IGNORE_AT]
-  if (!named.every((at) => existsSync(`${root}/${at}`))) return null
+  if (!existsSync(`${root}/${IGNORE_AT}`)) return null
+  const named = [...foldersIn(root), ...code, IGNORE_AT]
   const recorded = recordedFor(root, named)
   if (recorded === null) return null
   if (!matchesHead(root, [...named, ...types])) return null

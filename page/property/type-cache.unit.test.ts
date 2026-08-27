@@ -1,8 +1,10 @@
-import { afterEach, expect, test } from "bun:test"
-import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { afterEach, describe, expect, test } from "bun:test"
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { dirname, relative, resolve } from "node:path"
 import type { Property } from "./property.ts"
 import type { FileTree } from "../file-tree.ts"
-import { type Answer, keepAnswer, keptAnswer, keyFor } from "./type-cache.ts"
+import { type Answer, ANSWER_SEEDS, CODE_AT, keepAnswer, keptAnswer, keyFor } from "./type-cache.ts"
+import { HERE } from "../../repo/roots/roots.ts"
 
 const CHAIN = ["pages/page-type/seat.page-type.md", "pages/page-type/page.page-type.md"]
 
@@ -52,14 +54,17 @@ function git(root: string, args: readonly string[]): number {
 function repo(): string {
   const root = mkdtempSync("/var/tmp/page-type-cache-")
   made.push(root)
-  for (const at of ["pages/page-type", "pages/page-property-definition", "pages/page-property-type", "tools/page"])
+  for (const at of ["pages/page-type", "pages/page-property-definition", "pages/page-property-type"])
     mkdirSync(`${root}/${at}`, { recursive: true })
+  for (const at of CODE_AT) {
+    mkdirSync(`${root}/${at}`, { recursive: true })
+    writeFileSync(`${root}/${at}/stands.ts`, "export const A = 1\n")
+  }
   writeFileSync(`${root}/.gitignore`, "node_modules\n")
   writeFileSync(`${root}/pages/page-type/seat.page-type.md`, "---\nextends-slug: page\n---\n")
   writeFileSync(`${root}/pages/page-type/page.page-type.md`, "---\nextends-slug: none\n---\n")
   writeFileSync(`${root}/pages/page-property-definition/seat-mode.page-property-definition.md`, "---\nkey: mode\n---\n")
   writeFileSync(`${root}/pages/page-property-type/slug.page-property-type.md`, "---\nkey: slug\n---\n")
-  writeFileSync(`${root}/tools/page/page-types.ts`, "export const A = 1\n")
   git(root, ["init", "-q"])
   git(root, ["config", "user.email", "test@example.com"])
   git(root, ["config", "user.name", "test"])
@@ -134,9 +139,16 @@ test("a committed gitignore change moves the key", () => {
 test("a committed change to the answering code moves the key", () => {
   const root = repo()
   const was = keyFor(treeAt(root), CHAIN)
-  writeFileSync(`${root}/tools/page/page-types.ts`, "export const A = 2\n")
+  writeFileSync(`${root}/page/stands.ts`, "export const A = 2\n")
   git(root, ["commit", "-qam", "two"])
   expect(keyFor(treeAt(root), CHAIN)).not.toBe(was as string)
+})
+
+test("a declared code folder that is gone yields no key, rather than a key blind to it", () => {
+  const root = repo()
+  rmSync(`${root}/${CODE_AT[0] as string}`, { recursive: true, force: true })
+  git(root, ["commit", "-qam", "two"])
+  expect(keyFor(treeAt(root), CHAIN)).toBeNull()
 })
 
 test("an answer kept under a key comes back whole, from under the resolved folder", () => {
@@ -177,4 +189,62 @@ test("a tree carrying a pending body yields no key", () => {
 test("a tree standing in no repo yields no key", () => {
   const bare: FileTree = { paths: () => [], open: () => null, repoOf: () => null }
   expect(keyFor(bare, CHAIN)).toBeNull()
+})
+
+const IMPORT = /(?:^|\n)\s*(?:import|export)[\s\S]*?from\s+"([^"]+)"/g
+
+const RUNTIME = "node:"
+
+interface Closure {
+  readonly reached: ReadonlySet<string>
+  readonly outside: ReadonlySet<string>
+}
+
+function closureFrom(root: string, seeds: readonly string[]): Closure {
+  const reached = new Set<string>()
+  const outside = new Set<string>()
+  const queue = [...seeds]
+  while (queue.length > 0) {
+    const rel = queue.pop()
+    if (rel === undefined || reached.has(rel)) continue
+    reached.add(rel)
+    const path = resolve(root, rel)
+    if (!existsSync(path)) continue
+    for (const match of readFileSync(path, "utf8").matchAll(IMPORT)) {
+      const spec = match[1] ?? ""
+      if (!spec.startsWith(".")) {
+        if (!spec.startsWith(RUNTIME)) outside.add(spec)
+        continue
+      }
+      queue.push(relative(root, resolve(dirname(path), spec)))
+    }
+  }
+  return { reached, outside }
+}
+
+describe("the key names the code the answer is worked out by", () => {
+  const { reached, outside } = closureFrom(HERE, ANSWER_SEEDS)
+  const covered = (at: string): boolean => CODE_AT.some((dir) => at.startsWith(`${dir}/`))
+
+  test("every file the answer is worked out from stands under a declared folder", () => {
+    expect([...reached].filter((at) => !covered(at)).sort()).toEqual([])
+  })
+
+  test("the answer reaches no code outside this repository", () => {
+    expect([...reached].filter((at) => at.startsWith("../")).sort()).toEqual([])
+  })
+
+  test("the answer reaches no code the key cannot hash, so nothing stands outside the runtime", () => {
+    expect([...outside].sort()).toEqual([])
+  })
+
+  test("every declared folder stands and is recorded, so none is left out of the ground", () => {
+    expect(CODE_AT.filter((at) => !existsSync(resolve(HERE, at)))).toEqual([])
+    expect(CODE_AT.filter((at) => git(HERE, ["rev-parse", "-q", "--verify", `HEAD:${at}`]) !== 0)).toEqual([])
+  })
+
+  test("the seeds stand, so the walk is over the answering code and not over nothing", () => {
+    expect(ANSWER_SEEDS.filter((at) => !existsSync(resolve(HERE, at)))).toEqual([])
+    expect(reached.size).toBeGreaterThan(ANSWER_SEEDS.length)
+  })
 })
