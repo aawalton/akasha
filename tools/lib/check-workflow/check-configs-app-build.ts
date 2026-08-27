@@ -17,7 +17,7 @@ export interface AppBuildTarget {
 }
 
 export function appBuildSlug(dir: string): string {
-  return dir.replace(/^packages\//, "").replaceAll("/", "-")
+  return dir.replaceAll("/", "-")
 }
 
 export function selectAppBuildPackages(

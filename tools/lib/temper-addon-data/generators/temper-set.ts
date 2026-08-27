@@ -87,8 +87,7 @@ ${fields.join(",\n")},
  *
  * Codec invariant: \`no-set\` is sorted to index 0 by the generator so
  * \`setsAll.ids\` keeps the sentinel at the position the character
- * codec's \`getSetId(index)\` expects (see
- * \`packages/temper/game/codec/CLAUDE.md\` rule 1).
+ * codec's \`getSetId(index)\` expects.
  *
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
