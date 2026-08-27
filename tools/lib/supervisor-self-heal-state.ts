@@ -6,6 +6,7 @@ import { isProcessAlive } from "./supervisor-exec.ts"
 import { liveIdleRule } from "./supervisor-idle-rule.ts"
 import { getInheritedClaude } from "./supervisor-state.ts"
 import { defaultRunInstall, type SelfHealRunInstall } from "./supervisor-self-heal-install.ts"
+import { reExecAsked, takeReExecAsk } from "./supervisor-reexec-mark.ts"
 import type { SelfHealJitterRuleSource } from "./supervisor-self-heal-jitter-rule.ts"
 
 export function inheritedClaudePid(): number | null {
@@ -93,11 +94,15 @@ export const selfHealState: {
 }
 
 export function isPendingReExec(): boolean {
-  return selfHealState.pendingReExec
+  return selfHealState.pendingReExec || reExecAsked(selfHealState.currentAgentIdForSelfHeal)
 }
 
 export function setCurrentAgentIdForSelfHeal(agentId: string | null): undefined {
   selfHealState.currentAgentIdForSelfHeal = agentId
+  // THE ASK IS SPENT BY WHOEVER CAME UP FOR IT. This is the one moment a supervisor learns which
+  // seat it is, so it is where an ask written before it started is taken. Left standing, it would
+  // answer every later SIGTERM as well as the one it was written for.
+  takeReExecAsk(agentId)
 }
 
 export function getCurrentAgentIdForSelfHeal(): string | null {

@@ -12,7 +12,6 @@ import {
   setRestoreConsoleHandle,
   setShutdownSinkGetter,
 } from "./supervisor-state.ts"
-import { requestReExec } from "./supervisor-self-heal.ts"
 import { installSupervisorTerminalGuard } from "./supervisor-terminal.ts"
 
 export async function supervisorMain(seams: RunInteractiveSeams): Promise<void> {
@@ -25,7 +24,6 @@ export async function supervisorMain(seams: RunInteractiveSeams): Promise<void> 
     shutdown: (signal: string) => shutdown(signal, liveChildExitRule),
     isClaudeAlive: () => processes.size > 0,
     getSink: agentLog.getCurrentSink,
-    requestReExec,
   })
   setShutdownSinkGetter(agentLog.getCurrentSink)
 
