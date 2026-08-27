@@ -1,7 +1,18 @@
-import { existsSync, mkdirSync, readFileSync, rmSync, unlinkSync, writeFileSync } from "node:fs"
-import { dirname, join, resolve } from "node:path"
+import { spawn } from "node:child_process"
+import {
+  accessSync,
+  constants,
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  rmSync,
+  unlinkSync,
+  writeFileSync,
+} from "node:fs"
+import { dirname, join } from "node:path"
 import { git, remoteOf } from "../git/git.ts"
 import { holderProcessRuns } from "../holder/holder.ts"
+import { akashaRoot } from "../roots/roots.ts"
 
 const STATE_DIR = "harness-push"
 
@@ -99,23 +110,59 @@ export function releasePushLock(root: string): void {
   }
 }
 
+/**
+ * The first executable of this name on PATH, or nothing.
+ *
+ * `Bun.which`'s replacement, for the same reason the spawn below moved: node has no such call, and
+ * this file is loaded in the editor's extension host, which is node.
+ */
+function onPath(name: string): string | null {
+  for (const dir of (process.env["PATH"] ?? "").split(":")) {
+    if (dir === "") continue
+    const at = join(dir, name)
+    try {
+      accessSync(at, constants.X_OK)
+      return at
+    } catch {
+    }
+  }
+  return null
+}
+
+/**
+ * Where the pusher stands, worked out from the akasha root rather than from this file's own place.
+ *
+ * `import.meta.dir` IS BUN'S ALONE and reads `undefined` under node, where `resolve` then throws on
+ * it while this module is still loading. A bundle has no better answer: this file is compiled into
+ * the bundle and the pusher is a script that has to be read off disk beside the repository.
+ * `akashaRoot` answers from `AKASHA_ROOT` or from the checkout, and both name the same path.
+ */
 function pusherHere(): string {
-  return resolve(import.meta.dir, "push-repo.ts")
+  return join(akashaRoot(), "repo", "push", "push-repo.ts")
 }
 
 export function handOffPush(root: string): string {
   const pusher = pusherHere()
   const remote = remoteOf(root)
   if (remote === null) return "push:   NO REMOTE — nothing holds a second copy of this commit"
-  const argv = ["bun", pusher, "--root", root]
-  const session = Bun.which("setsid")
+  const runner = onPath("bun")
+  if (runner === null) {
+    return (
+      `push:   NOT HANDED OFF to ${remote} — no \`bun\` stands on PATH\n` +
+      `        the commit stands here and nothing carries it. Run \`bun ${pusher} --root ${root}\` yourself.`
+    )
+  }
+  const session = onPath("setsid")
+  const command = session ?? runner
+  const argv =
+    session === null ? [pusher, "--root", root] : [runner, pusher, "--root", root]
   try {
-    const proc = Bun.spawn(session === null ? argv : [session, ...argv], {
-      cwd: root,
-      stdin: "ignore",
-      stdout: "ignore",
-      stderr: "ignore",
-    })
+    const proc = spawn(command, argv, { cwd: root, stdio: "ignore", detached: true })
+    // NODE REPORTS A COMMAND IT COULD NOT START ON AN `error` EVENT rather than by throwing, and
+    // an unheard `error` on a child takes the listening process down with it. This call has
+    // already handed back by then, so a failure past this point shows as the push state going
+    // unwritten, which the next gated write reports through `pushStandingLines`.
+    proc.on("error", () => {})
     proc.unref()
   } catch (err) {
     return (
