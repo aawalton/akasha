@@ -81,3 +81,12 @@ test("a page of a type saying nothing is still judged, the ceiling being the def
 test("a markdown file naming no page type is still judged", () => {
   expect(verdict("notes/README.md", OVER)).toHaveLength(1)
 })
+
+test("a working file under a dirty folder passes, nothing yet claiming it", () => {
+  expect(verdict("stories/dirty/the-tower/PREP-LOG.md", OVER)).toEqual([])
+})
+
+test("a file merely named dirty is still judged", () => {
+  expect(verdict("stories/dirty-notes/thing.md", OVER)).toHaveLength(1)
+  expect(verdict("stories/dirty.md", OVER)).toHaveLength(1)
+})

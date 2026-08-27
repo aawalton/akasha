@@ -9,6 +9,8 @@ export const CEILING_BYTES = 15000
 
 const CEILING_SAID = CEILING_BYTES.toLocaleString("en-US")
 
+const DIRTY_DIR = /(^|\/)dirty\//
+
 export const fileLength = {
   slug: "file-length",
   needs: "file",
@@ -18,7 +20,9 @@ export const fileLength = {
     if (bytes <= CEILING_BYTES) return []
     if (carriesBytes(path)) return []
     if (heldToNoCeiling(path)) return []
-    if (isGeneratedFile(relative(root, path), decodeUtf8(body) ?? body)) return []
+    const relPath = relative(root, path)
+    if (DIRTY_DIR.test(relPath)) return []
+    if (isGeneratedFile(relPath, decodeUtf8(body) ?? body)) return []
     return [`${bytes.toLocaleString("en-US")} bytes, over the ${CEILING_SAID} ceiling`]
   },
 } satisfies Check
