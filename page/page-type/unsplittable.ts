@@ -2,7 +2,7 @@ import { onceInCall } from "../../during-call/during-call.ts"
 import { rootsHere } from "../../repo/roots/roots.ts"
 import { diskFileTree } from "../file-tree.ts"
 import { parseFrontmatter, textField } from "../frontmatter.ts"
-import { typeSuffixOf } from "../page-types.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 
 const TYPE_GLOB = "**/*.page-type.md"
 
@@ -29,7 +29,6 @@ function unsplittableTypes(): ReadonlySet<string> {
 }
 
 export function typeUnsplittable(pathish: string): boolean {
-  const suffix = typeSuffixOf(pathish)
-  if (suffix === "") return false
-  return unsplittableTypes().has(suffix)
+  const kind = pageTypeOf(pathish)
+  return kind !== null && unsplittableTypes().has(kind)
 }
