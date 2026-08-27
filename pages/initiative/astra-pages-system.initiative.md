@@ -31,8 +31,6 @@ parent-slug: aine-global
 
 Opened 2026-08-27. Intents are settled with Alan one at a time and written here as each is approved.
 
-Settled with Alan on 2026-08-27, before any intent was written:
-
 **The line between clean and unclean is a root `akasha/pages-system/` folder**, and Alan approves each entry point that moves through the door. Living in the folder is not by itself what makes a piece clean.
 
 **The page index is a derived cache, never authoritative.** It can always be rebuilt from the pages, so it may be eventually consistent, and a torn write is a fault to detect and repair rather than one to prevent. A miss must never render as an absence.
@@ -43,71 +41,67 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **Directories name the index; the filename names the page.** A page type is an attribute of the thing indexed rather than a dimension of the index, so it belongs in the filename.
 
-**A page lives where its domain lives**, rather than under a page-type folder. The domain dimension matters more than the page-type dimension.
+**A page lives where its domain lives**, rather than under a page-type folder.
 
-**`named-for` and `unique-key` both go away.** One computed `name` replaces them, drawn from a formula the page type may state, and the indexes key on that name. `formula` is the word, over `expression`, because the pages system already carries it.
+**The index validity strategy.** The index updates as part of every change that runs through the ops tools, and no change runs outside them. One command checks an index for validity without changing it, and another rebuilds one. The check runs daily as an audit, and a gap it finds is traced to its root cause. Validity is never checked when the index is queried.
 
-**The index validity strategy, settled 2026-08-27.** The index updates as part of every change that runs through the ops tools, and no change runs outside them. One command checks an index for validity without changing it, and another rebuilds one. The check runs daily as an audit, and a gap it finds is traced to its root cause. Validity is never checked when the index is queried.
+**A file's page type comes from its frontmatter, settled 2026-08-27.** The glob no longer decides and goes away entirely. The file kind must agree with the frontmatter, so a `.domain.md` file whose frontmatter says `person` is a refusal rather than a third answer. `page-types-system` at `58fa00a` carries the three intents.
 
-**The expression language is rebuilt rather than patched, settled 2026-08-27.** One implementation, written from scratch under `pages-system/`, ported from neither evaluator now running. It is designed against `domain/language-design` and written down before an evaluator exists.
+**The authority was already written and nobody read it.** `page-type-slug`'s own property definition says "Where a page sits is incidental: the page type it states is what it is." Ten independent implementations were built without it, across five distinct inputs: frontmatter, the `files:` glob, the filename suffix, hardcoded folder globs in `page/page-types.ts:15-31`, and the page index. The two gates judging a page's shape and its properties both take the glob answer while required reading takes the frontmatter one.
 
-**`unique-key` is a notation nothing implements.** No file-side code renders it, and four of the six stated values carry holes no naming regex can match, so nothing ever did. Removing it takes away a spelling rather than a behaviour.
+**Nothing in the data violates the new rule.** Over 61,153 markdown files across both roots: zero whose frontmatter disagrees with the file kind, zero naming a page type nothing declares, zero carrying one without the other. The ruling is a code ablation and not a data migration.
 
-**A dotted name cannot be written as a formula.** The file side refuses a path step whose head is not an object, and a page's frontmatter holds only text. Reaching another page's property is a `rollup`, which declares a relation and a target rather than a formula. No `named-for` value is dotted, so no naming translation needs this.
+**The glob's real cost is enumeration, not classification.** Roughly 125 call sites reach the routes, of which about thirty use a glob to list a page type's pages rather than to identify one — `pagesOf`, `placesIn`, `scanIn`, `scanSpanning`, `reposOf`, and the write path's `relPathFor` and `nameFromAt`. Those cannot go until the page index is trusted, which is Ablation's order rather than a blocker. `reposOf` is the only thing that says which repo a page type's pages live in.
 
-**A name formula is a property definition scoped to its page type, settled 2026-08-27.** A page type naming differently from the default declares its own `name` property definition, carrying the formula. A property definition already scopes to a page type, so naming takes no mechanism of its own. Thirty-six page types need one.
+**`named-for` and `unique-key` both go away.** One computed `name` replaces them, drawn from a formula the page type may state, and the indexes key on that name. `formula` is the word, over `expression`.
 
-**The default name formula is `{slug} ?? {id}`, settled 2026-08-27.** No title arm: a title is not guaranteed to be a valid identifier.
+**The expression language is rebuilt rather than patched.** One implementation, written from scratch under `pages-system/`, ported from neither evaluator now running, designed against `domain/language-design` and written down before an evaluator existed.
 
-**The syntax rulings reached the spec, 2026-08-27.** `formula-language` at `63ac1a5` states the case form, the call spelling, parentheses grouping, and the short circuit. A case is `case(`, rows separated by commas, then `)`, with `->` between a row's test and its value and the bare word `otherwise` where the last row's test would be. There is no `end`.
+**`unique-key` is a notation nothing implements.** No file-side code renders it, and four of the six stated values carry holes no naming regex can match. Removing it takes away a spelling rather than a behaviour.
 
-**Operators short circuit, settled 2026-08-27.** An operator that can answer from its left side alone does not work out its right. With no `||` in the language that is three situations: `false && x`, `absent && x`, and `x ?? y` where `x` is present. This is a semantic ruling rather than a safety one — the language is total, so nothing on the right can fail. `formula-absent-value` at `aadcc10` was reworded from "An operator **given** an absent value answers absent" to "**reaches**", which reconciles the short circuit with absence propagation instead of adding a fourth exception. `??` remains an exception regardless, since it reaches an absent left and answers its right.
+**A dotted name cannot be written as a formula.** Reaching another page's property is a `rollup`, which declares a relation and a target. No `named-for` value is dotted.
 
-**The conformance corpus, landed 2026-08-27.** `pages-system/formula/cases/cases.ts` at `3a27d27`, re-spelled at `fa256a9`, ruled at `16bfe5f`, and given its own test at `dac0c98`. 284 cases: 149 answer a value, 34 answer absent, 101 are refused, and none expects a run-time failure. Written from the spec pages alone by an author who read neither evaluator now running nor the new one being built. That author and the evaluator's builder, blind to each other and reading the same page, produced two different case forms — which is what a specification naming a part without spelling it costs, and only mutual blindness exposed it.
+**A name formula is a property definition scoped to its page type.** A page type naming differently from the default declares its own `name` property definition. Thirty-six page types need one.
 
-**A case cites the spec, and the citation is tested.** `cases.unit.test.ts` opens each cited page and fails where the cited line no longer carries the quoted claim, naming the case and the citation rather than a count. Proved by mutation: one inserted line failed 119 of 290 tests. A citation is a typed `Citation` rather than a string, so a claim resting on what a list leaves out names the section and the words that must not appear there, instead of pointing at a heading. That makes an absence testable — three tripwires assert the operator, function and value lists name exactly what the corpus covers, so a thirteenth operator is a hole in the corpus rather than a passing suite.
+**The default name formula is `{slug} ?? {id}`.** No title arm: a title is not guaranteed to be a valid identifier.
 
-**The formula package answers to the repo's folder and export checks.** `folder-matches-a-shape` admits three shapes and judges each subfolder separately, `export-declared-here` refuses a barrel, `import-reach` refuses an import resolving outside the repo, and `file-length` cuts at 15,000 bytes. A test sits beside the file it tests, named for it, suffixed `.unit.test.ts`. A whole-suite `bun test` is refused; one file is named by path. The audit is `ops checks audit <slug>`.
+**The formula language is fully specified, 2026-08-27.** Every question raised against it has been ruled and written as a line on a page. The case form is `case(`, rows separated by commas, `)`, with `->` between a row's test and its value and the bare word `otherwise` where the last row's test would be; there is no `end`. Parentheses group. A call is `name(a, b)`. Operators short circuit — one that can answer from its left alone does not work out its right. Equal binding groups to the left. Negation is a `-` with nothing to its left, binding tightest. Comparison reaches numbers only. `hoursBetween` is a magnitude. `hasWord` folds case and bounds a word by anything that is not a letter or a digit. A text literal answers absent where any reference in it is absent. A function that reaches an absent value answers absent. A computed property's declared type is a contract its formula must meet.
 
-**Three answers the written principles force, found 2026-08-27 and awaiting their spec lines.** Each was derived twice, independently, from the same cited line.
+**One question in the language is still open**: whether a number or a boolean may be filled into a text literal at all. This is a wall rather than a detour — a literal is the only way to join text and there is no `text` function, so text-only means no formula can ever put a number in a name. It waits on a count of how many of the thirty-six page types depend on it, because Parsimony charges for a piece added before a case demands it.
 
-- `-` and `/` are left-associative, by `language-syntax`'s "Take the reading a stranger would give it."
-- A function that reaches an absent value answers absent, by `language-failure`'s "Let one absent value stop the whole answer," which is stated of absent values rather than of operators.
-- A text literal answers absent where any reference in it is absent, by the same aid under "Refuse Not Convert". This makes the defect that started the redesign unreachable rather than caught: no name is built at all, so no well-formed wrong name can appear. It is caught at run time rather than at check time, which is the weaker of the two moments under "Caught Early".
+**The two halves of the language were built blind to each other, and it worked.** One agent wrote an evaluator from the spec pages; another wrote a conformance corpus from the same pages, forbidden to read the evaluator or either language it replaces. A third, who wrote neither, ran them together. Of 302 cases, 22 disagreed: **20 the evaluator's fault, 1 the corpus's, 1 the specification's silence.** Eighteen of the twenty were one defect repeated — every refusal named the step rather than the value, against `language-failure`'s "Name the value missing, not the step that broke." An implementation checked against itself could not have found it. Four more were lines ruled after the evaluator was written. One was a rule the evaluator invented that no line states: it refused a case whose only row is `otherwise`.
 
-**Six choices the written principles do not settle, found 2026-08-27.** Each needs Alan.
+**A case cites the spec, and the citation is tested.** `cases.unit.test.ts` opens each cited page and fails where the cited line no longer carries the quoted claim, naming the case and the citation rather than a count. Proved by mutation: one inserted line failed 119 of 290 tests. A citation is typed rather than a string, so a claim resting on what a list leaves out names the section and the words that must not appear there, which makes an absence testable.
 
-- Whether a number literal may carry a leading `-`. There is no unary minus operator and the operators list is closed, so otherwise `-1` is written `0 - 1`.
-- Whether `<`, `<=`, `>` and `>=` reach text or only numbers. They do not reach instants. `+` names its type and `<` does not, which may be deliberate silence.
-- Whether `hasWord` folds case, and what besides a space bounds a word. The language being replaced was case-insensitive, and only the whole-word gap was ever recorded as a lack.
-- Whether `hoursBetween(later, earlier)` is negative or a magnitude. Since an instant is barred from the operators, this function is the only route to "is a after b", and a magnitude closes it.
-- Whether a formula may answer an instant or a list, and whether a computed property declares a type its formula must meet. The second is the difference between refusing a bad `name` formula when the page type is checked and discovering it when a page is written.
-- Whether a number or a boolean may be filled into a text literal. This is a wall rather than a detour: a text literal is the only way to join text and there is no `text` function, so text-only means no formula can ever put a number in a name.
+**The formula package answers to the repo's folder and export checks.** `folder-matches-a-shape` wants a folder to be single-entrance — exactly one code file imported from outside it, and none beneath a subfolder imported from outside. `export-declared-here` refuses a barrel, `import-reach` refuses an import resolving outside the repo, and `file-length` cuts at 15,000 bytes. A test sits beside the file it tests, suffixed `.unit.test.ts`. A whole-suite `bun test` is refused. The audit is `ops checks audit <slug>`.
 
-**The slug backfill, 2026-08-27.** 6,304 pages took a slug from their filename stem across thirteen commits, with zero index misses and zero new collisions. Every resolver already computes `stated slug ?? file stem` — `page/relation/relation.ts:81-90`, `page/index/identity/identity.ts:120-130`, `shared/pages-access/src/file-rows.ts:165-174` — so writing the stem into `slug:` produces a byte-identical key and resolves nothing differently. 3,860 more were held back because their computed name would change; all 3,860 fail `page-named-as-stated` today, and 2,529 of them are named by their `id` rather than by any title. Also held: 60 inside pre-existing collision groups, 29 already failing `page-named-as-stated`, 7 case-carrying, 4 id-named.
+**The slug backfill is done, 2026-08-27.** 6,799 pages took a slug from their filename stem across fourteen commits, with zero index misses and no concurrent write clobbered — the final batch was verified as 495 files, 495 insertions, zero deletions. Every resolver already computes `stated slug ?? file stem`, so writing the stem into `slug:` produces a byte-identical key and resolves nothing differently. `page-name-unique` does not use the computed name at all: it groups on `type/stem` off the filename, so a slug write could never move it.
 
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
-- `ops write` gated `cases.ts` three times and never caught that it failed `biome check`, this repo setting `semicolons: "asNeeded"`. A formatting fault therefore lands and surfaces later, far from its cause.
-- `page-named-as-stated` and `page-name-unique` both carry `check-on-patch: false`, so a 500-file write reported `0 akasha check(s)`. Neither guards a write.
-- `tools/tests/formula-conformance` holds the corpus for the language being replaced, sixteen files. Under Ablation it goes once the new corpus and evaluator are proven, and nobody has been told to remove it.
-- The live seat composer rewrites `agent/seat/*.seat.md` and drops `slug`. A backfill cannot hold there until the composer emits it.
-- 569 folders across the repo already fail `folder-matches-a-shape` and 17 files fail `import-reach`, so neither reads as a clean signal for a new package.
-- Twenty-five pages carry a stem cut at the old ceiling of 71, so their rule now fills to more than their filename holds.
+- 2,176 pages hold no slug because they sit inside a pre-existing name-collision group — 2,012 `persona-day`, 95 `idle-persona-card`, 66 `finding`, 2 `persona-craft-day`, 1 `story-chapter-royal-road`, across 157 groups. They wait on the uniqueness intent.
+- `kindsIn` sees 382 page types and `registryOf` sees 393. Eleven page types filed beside their own domains are invisible to one of them, and `page-derive` consumes the short list. `globsIn` decides which answer it gives by whether `tree.roots` is set, so the staged tree a gate builds takes the other path.
+- `cases.ts` grew to 144,304 characters against a 15,000-byte `file-length` ceiling. `ops read` refuses a file that large, so `ops write` refuses to change it: the corpus locked itself out of the one write path, and a one-field fix had to be abandoned.
+- `ops write` gated `cases.ts` three times and never caught that it failed `biome check`. A formatting fault lands and surfaces later, far from its cause.
+- `page-named-as-stated` and `page-name-unique` carry `check-on-patch: false` and `check-on-worktree: false`, so a 495-file write reported zero checks. Neither guards a write.
+- The page index dropped writes twice more under load, refusing with "the page index was not built over `code-editor`". That is the same fault as `formula-absent-value` at `0163fe9`, now with a reproducible signature and a known remedy in `ops index refresh`.
+- The page index stores the filename suffix rather than the frontmatter type, at `page/index/identity/identity.ts:148`. Refreshing it will not make it agree with the new rule; what it writes has to change.
+- `tools/tests/formula-conformance` holds the corpus for the language being replaced, sixteen files. Under Ablation it goes once the new corpus and evaluator are proven.
+- Six `message` pages under `change-harness-cluster-operator` carry no rule, no slug, no title and no id, so nothing gives them a name. One `finding` page carries no `id:` at all.
+- The live seat composer rewrites `agent/seat/*.seat.md` and drops `slug`.
+- 569 folders across the repo fail `folder-matches-a-shape` and 17 files fail `import-reach`, so neither reads as a clean signal for a new package.
+- Twenty-five pages carry a stem cut at the old ceiling of 71.
 - `ops food log` names its own pages: its own stemmer at `tools/commands/food/log.ts:123`, its own `-2` suffix at `:146`, and a write through the query client rather than the naming path.
 - `vocabulary` and `rows-homes` are cached under a mark taken over the page shape alone, while both read the registry, which reads the index. Only `registry` carries an index stamp.
-- 2,633 pages exist byte-identically in both `akasha` and `books`, which is why `page-name-unique` meets collisions it cannot explain.
-- 305 collision groups already exist in the computed-name space. The unique-name intent costs 24,518 renames across eight page types; four are clear — `persona-day`, `persona-craft-day`, `idle-persona-card` and `story-turn`, 2,301 pages between them, at most one call site each.
-- `finding` cannot take a flat name while `tools/audits/findings-sorted.ts` refuses a name of one segment, which would refuse all 3,456 findings. Three refusal pages spell the old shape.
-- `story-chapter-royal-road` is written by `services/royal-road-sync.ts` as a raw path rather than through the pages API, so a formula reaches none of it until that writer is rebuilt.
-- `book-chapter` is not a rename: 5,622 markdown links across 362 files address chapters by name, and no property tells the colliders apart. Its sections want modelling as pages first.
+- 2,633 pages exist byte-identically in both `akasha` and `books`.
+- `finding` cannot take a flat name while `tools/audits/findings-sorted.ts` refuses a name of one segment, which would refuse all 3,456 findings.
+- `story-chapter-royal-road` is written by `services/royal-road-sync.ts` as a raw path rather than through the pages API.
+- `book-chapter` is not a rename: 5,622 markdown links across 362 files address chapters by name, and no property tells the colliders apart.
 - `keepNamedIn` removes an emptied identity file but never its directory.
-- A page landed through `ops write` reached disk and not the index. `formula-absent-value` committed at `0163fe9` carrying no identity entry, found only because a later write named it as required reading. The backfill's 6,304 landings all indexed correctly, each batch refreshed from disk immediately before writing.
-- Four routes answer what page type a file is, and can disagree without saying so. Reported by Aine, 2026-08-27.
-- `page-property-computed`'s Design line says the formula language has one test for text, a case-insensitive substring, and no way to match a whole word. That holds of the language now running and fails of the one replacing it, which carries `hasWord`. The line goes when the cutover lands.
-- One device UUID names a `device-secret` under two different user folders, so both fold to the same slug and collide within their page type.
-- `ops write` takes its body from a file, so writing that file is itself a write with no `ops write` to make it. Every agent working this initiative bootstrapped through a scratch file off the one write path.
+- `page-property-computed`'s Design line says the formula language has no way to match a whole word. That fails of the language replacing it, which carries `hasWord`. The line goes when the cutover lands.
+- `ops write` takes its body from a file, so writing that file is itself a write with no `ops write` to make it. Every agent on this initiative bootstrapped through a scratch file off the one write path, and each said so.
+- `tools/tests/page-shape-declaration.on-demand.test.ts:7` imports a `scan` that `page/page-types.ts` does not export. Broken independently of this work.
 
 **The graph answer cache under `.git/answers` is out of scope**, being the graph system's rather than the pages system's.
 
-**The uniqueness intent came off `page-name`'s Design section on 2026-08-27**, where it was written as an invariant that holds. It does not: 391 names collide across 2,851 pages, each collision inside one repository.
+**The uniqueness intent came off `page-name`'s Design section**, where it was written as an invariant that holds. It does not: 391 names collide across 2,851 pages, each collision inside one repository.
