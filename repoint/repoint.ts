@@ -1,8 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
+import { isGeneratedFile } from "../generated-file/generated-file.ts"
 import { judge, type Outcome, over, skip } from "../outcome/outcome.ts"
-import { pathOf } from "../page/index/link/link.ts"
-import { proseOnly } from "../page/markdown/markdown.ts"
-import { stemOf } from "../page/name/name.ts"
 import type { Roots } from "../page/page.ts"
 import { trackedIn } from "../page/tracked/tracked.ts"
 import { canonicalize, normalizeAbsolute } from "../repo/path/path.ts"
@@ -15,6 +13,8 @@ import {
   targetRoot,
 } from "../repo/roots/roots.ts"
 import { decodeUtf8 } from "../utf8-body/utf8-body.ts"
+import { dirOf, relativeBetween, resolves } from "./between.ts"
+import { linkPatches } from "./link.ts"
 import {
   escapedMentions,
   mentionPatches,
@@ -45,6 +45,7 @@ export interface SpecifierReading {
 export interface Survey {
   readonly entries: readonly Repointed[]
   readonly quarantined: readonly string[]
+  readonly generated: readonly string[]
   readonly escaped: readonly string[]
   readonly reading: SpecifierReading
 }
@@ -57,89 +58,11 @@ export interface Importers {
   readonly repointed: number
 }
 
-const LINK_RE = /\[([^\]]*)\]\(([^)]+)\)/g
 const SPECIFIER_RE = /\b(?:from|import)\s*\(?\s*(["'])([^"']+)\1/g
 
 const MODULE = ".ts"
 
 const NUL = String.fromCharCode(0)
-
-function dirOf(absolute: string): string {
-  return absolute.slice(0, absolute.lastIndexOf("/"))
-}
-
-export function relativeBetween(fromDir: string, target: string): string {
-  const from = fromDir.split("/").filter((s) => s !== "")
-  const to = target.split("/").filter((s) => s !== "")
-  let shared = 0
-  while (shared < from.length && shared < to.length - 1 && from[shared] === to[shared]) shared += 1
-  const up = Array.from({ length: from.length - shared }, () => "..")
-  return [...up, ...to.slice(shared)].join("/")
-}
-
-function resolves(href: string, hostBefore: string): string | null {
-  const target = pathOf(href)
-  if (target === null) return null
-  return target.startsWith("/")
-    ? normalizeAbsolute(target)
-    : normalizeAbsolute(`${dirOf(hostBefore)}/${target}`)
-}
-
-function retarget(
-  href: string,
-  hostBefore: string,
-  hostAfter: string,
-  moved: ReadonlyMap<string, string>
-): string | null {
-  const absolute = resolves(href, hostBefore)
-  if (absolute === null) return null
-  const cut = href.search(/[#?]/)
-  const pathPart = cut === -1 ? href : href.slice(0, cut)
-  const target = moved.get(absolute)
-  if (target === undefined && hostBefore === hostAfter) return null
-  const next = pathPart.startsWith("/")
-    ? (target ?? absolute)
-    : relativeBetween(dirOf(hostAfter), target ?? absolute)
-  return next === pathPart ? null : next + (cut === -1 ? "" : href.slice(cut))
-}
-
-export function linkPatches(
-  body: string,
-  hostBefore: string,
-  hostAfter: string,
-  moved: ReadonlyMap<string, string>,
-  taken: ReadonlySet<string>
-): readonly Patch[] {
-  const projected = proseOnly(body).split("\n")
-  const patches: Patch[] = []
-  let offset = 0
-  body.split("\n").forEach((line, index) => {
-    const prose = projected[index]
-    if (prose !== undefined && prose.length === line.length) {
-      for (const match of prose.matchAll(LINK_RE)) {
-        const label = match[1] ?? ""
-        const href = match[2] ?? ""
-        const at = offset + (match.index ?? 0)
-        const hrefAt = at + label.length + 3
-        const next = retarget(href, hostBefore, hostAfter, moved)
-        const mark = next === null ? -1 : next.search(/[#?]/)
-        const bare = next === null ? "" : mark === -1 ? next : next.slice(0, mark)
-        const spelled = next !== null && taken.has(bare) ? `./${next}` : next
-        if (spelled !== null && spelled !== href) {
-          patches.push({ start: hrefAt, end: hrefAt + href.length, text: spelled, was: href })
-        }
-        const target = resolves(href, hostBefore)
-        const lands = target === null ? undefined : moved.get(target)
-        if (lands === undefined || target === null) continue
-        const named = stemOf(target)
-        if (label !== named || stemOf(lands) === named) continue
-        patches.push({ start: at + 1, end: at + 1 + label.length, text: stemOf(lands), was: label })
-      }
-    }
-    offset += line.length + 1
-  })
-  return patches
-}
 
 const TS_FOR_JS: readonly (readonly [string, string])[] = [
   [".js", ".ts"],
@@ -282,14 +205,8 @@ function crossPatches(
 }
 
 function trackedTexts(root: string): readonly { readonly relPath: string; readonly body: string }[] {
-  let listed: readonly string[]
-  try {
-    listed = trackedIn(root)
-  } catch {
-    return []
-  }
   const found: { relPath: string; body: string }[] = []
-  for (const relPath of listed) {
+  for (const relPath of trackedIn(root)) {
     if (isDirty(relPath) || isVendored(relPath)) continue
     let bytes: Uint8Array
     try {
@@ -357,6 +274,7 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
   const moved = movedAbsolute(moves, roots, landing)
   const entries: Repointed[] = []
   const quarantined: string[] = []
+  const generated: string[] = []
   const escaped: string[] = []
   const carried = reslugged(moves, roots)
   const keys = slugKeys(targetRepo(roots), roots)
@@ -389,6 +307,10 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
       for (const note of applied.notes) quarantined.push(`${relPath}:${note}`)
       continue
     }
+    if (!relocating && applied.notes.length > 0 && isGeneratedFile(relPath, body)) {
+      generated.push(relPath)
+      continue
+    }
     if (lands.endsWith(".ts")) {
       files += 1
       specifiers += named.read
@@ -406,6 +328,7 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
   return {
     entries,
     quarantined,
+    generated,
     escaped,
     reading: { moving: moving.length, files, specifiers, repointed, unreached: [...unreached] },
   }
