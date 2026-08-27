@@ -3,16 +3,18 @@ export const summary = "Run akasha's checks over the whole tree as it stands"
 import { relative } from "node:path"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
 import type { Check } from "../../../checks/check/check-shape.ts"
-import { checksFound } from "../../../checks/checks.ts"
+import { checksFound, checksOnAudit } from "../../../checks/checks.ts"
 import { judgesAuthor, runAudit } from "../../../checks/run/audit.ts"
 
 const AUDITED: readonly Check[] = checksFound()
+
+const BY_DEFAULT: readonly Check[] = checksOnAudit()
 
 const ROOT_SAID = "."
 
 export const help = {
   description:
-    "Run each named check over the whole akasha tree as it stands on disk, and print every file it fails with the reason it gave. Where no check is named, every check that can be audited is run. A check reached here need not be one the gate runs: the gate weighs a change, this weighs the state, and a check may be registered for one, the other or both. A check that judges its author is refused by name and set aside where none was named, an audit putting no act in front of it for it to weigh. A finding is printed and never refused: what an audit finds may want the code changed or the check changed, and only a reading tells which.",
+    "Run each named check over the whole akasha tree as it stands on disk, and print every file it fails with the reason it gave. Where no check is named, every check that can be audited is run. A check reached here need not be one the gate runs: the gate weighs a change, this weighs the state, and a check may be registered for one, the other or both. A check saying `check-on-audit: false` is left out where none is named and runs when named, which is how a check still being worked out is kept alive without its findings reaching anyone who did not ask. A check that judges its author is refused by name and set aside where none was named, an audit putting no act in front of it for it to weigh. A finding is printed and never refused: what an audit finds may want the code changed or the check changed, and only a reading tells which.",
   positionals: [
     {
       name: "slug",
@@ -28,7 +30,7 @@ function slugsSaid(): string {
 
 function wantedFrom(argv: readonly string[]): readonly Check[] {
   const named = argv.filter((one) => !one.startsWith("-"))
-  if (named.length === 0) return AUDITED.filter((one) => !judgesAuthor(one))
+  if (named.length === 0) return BY_DEFAULT.filter((one) => !judgesAuthor(one))
   const wanted: Check[] = []
   for (const slug of named) {
     const found = AUDITED.find((one) => one.slug === slug)

@@ -13,6 +13,8 @@ const ON_PATCH = "check-on-patch"
 
 const ON_WORKTREE = "check-on-worktree"
 
+const ON_AUDIT = "check-on-audit"
+
 const CHECKS_AT = "checks/checks.ts"
 
 // BUILT WHEN A CHECK IS LOADED, NOT AT IMPORT. `import.meta` is empty in a CommonJS bundle, so
@@ -31,6 +33,7 @@ type Found = {
   readonly every: readonly Check[]
   readonly onPatch: readonly Check[]
   readonly onWorktree: readonly Check[]
+  readonly onAudit: readonly Check[]
 }
 
 function contextOn(root: string): BuildContext {
@@ -67,13 +70,15 @@ function foundIn(root: string): Found {
   const every: Check[] = []
   const onPatch: Check[] = []
   const onWorktree: Check[] = []
+  const onAudit: Check[] = []
   for (const at of pages) {
     const check = checkAt(root, at)
     every.push(check)
     if (runsOn(ctx, at, ON_PATCH)) onPatch.push(check)
     if (runsOn(ctx, at, ON_WORKTREE)) onWorktree.push(check)
+    if (runsOn(ctx, at, ON_AUDIT)) onAudit.push(check)
   }
-  return { every, onPatch, onWorktree }
+  return { every, onPatch, onWorktree, onAudit }
 }
 
 let held: { readonly root: string; readonly found: Found } | null = null
@@ -95,4 +100,8 @@ export function checksOnPatch(root: string = akashaRoot()): readonly Check[] {
 
 export function checksOnWorktree(root: string = akashaRoot()): readonly Check[] {
   return heldFor(root).onWorktree
+}
+
+export function checksOnAudit(root: string = akashaRoot()): readonly Check[] {
+  return heldFor(root).onAudit
 }
