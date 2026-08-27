@@ -1,8 +1,8 @@
 export const summary = "Ripgrep over one repository or all of them"
 
 import { spawn } from "node:child_process"
-import { resolveRoots } from "../../repo/roots/roots.ts"
-import { SEARCH_HELP } from "../search-help.ts"
+import { resolveRoots } from "../../../repo/roots/roots.ts"
+import { SEARCH_HELP } from "../../../agent/search-help.ts"
 import {
   admits,
   type Budget,
@@ -14,7 +14,7 @@ import {
   reach,
   REPOS_NAMED,
   RG_DEFAULTS,
-} from "../search-run.ts"
+} from "../../../agent/search-run.ts"
 
 const HELP_FLAGS: readonly string[] = ["--help", "-h"]
 
