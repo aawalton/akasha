@@ -5,6 +5,7 @@ import { CLAIMED, fileKeyDeclared, fixture, installRepos, type Fixture } from ".
 
 const ARM = `${import.meta.dir}/command-arm.ts`
 const MODULE = `${import.meta.dir}/../commands/finding/rehome.ts`
+const INDEX = `${import.meta.dir}/../commands/index/refresh.ts`
 const CLI = `${import.meta.dir}/../ops/cli.ts`
 const LIVE = `${import.meta.dir}/../..`
 const AGENT = "finding-rehome-test"
@@ -18,10 +19,11 @@ function finding(domain: string, claim: string): string {
 function runCommand(
   at: Fixture,
   args: readonly string[],
-  also: Record<string, string> = {}
+  also: Record<string, string> = {},
+  module: string = MODULE
 ): { code: number; out: string; err: string } {
   const proc = Bun.spawnSync({
-    cmd: ["bun", ARM, MODULE, ...args],
+    cmd: ["bun", ARM, module, ...args],
     cwd: at.root,
     // ONE ROOT NAMES THE STORE, AND `CODE_ROOT` NAMES THE PACKAGES. `INSTRUCTIONS_ROOT` and
     // `MEMORY_ROOT` stood here for repositories akasha has absorbed; nothing reads either, so every
@@ -69,6 +71,11 @@ function storeAt(at: Fixture): void {
   ]) {
     git(at.root, args)
   }
+  // A MOVE READS THE PAGE INDEX. The escaped-spelling survey a rehome runs scans `**/*.file-kind-
+  // domain.md` through the index, and refuses outright where the index was never built over the
+  // root — an empty answer being indistinguishable from a repository holding no page. The index
+  // sits under the root's own `.git`, so it has to be written for each fixture.
+  expect(runCommand(at, [], {}, INDEX).code).toBe(0)
 }
 
 describe("what a rehome refuses", () => {
