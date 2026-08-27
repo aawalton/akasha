@@ -8,6 +8,11 @@ const DISPATCHER = join(import.meta.dir, "..", "ops", "cli.ts")
 const CODE_IMPORT = join(import.meta.dir, "..", "lib", "code-import.ts")
 const OWN_CHECKOUT = realpathSync(join(import.meta.dir, "..", ".."))
 
+// WHAT THE FIXTURE COMMAND REACHES FOR, named once so the refusal can be checked against it rather
+// than against a shape. `codeRefKind` reads a reference ending `.ts` as a path and everything else
+// as a package specifier, so a code-repository reference no longer has to look like `@scope/name`.
+const CODE_REFERENCE = "shared/errors-core/src/exit.ts"
+
 let root = ""
 
 function put(relPath: string, body: string): void {
@@ -106,7 +111,7 @@ function buildFixture(): void {
      export const help = { flags: [] }
      export default async function needsCode() {
        const { codeModule } = await import(${JSON.stringify(CODE_IMPORT)})
-       await codeModule("shared/errors-core/src/exit.ts")
+       await codeModule(${JSON.stringify(CODE_REFERENCE)})
      }
     `
   )
@@ -275,7 +280,7 @@ describe("a code repository that cannot be reached", () => {
       const ran = await ops(["fixture", "needs-code"], { CODE_ROOT: empty })
       expect(ran.exitCode).toBe(70)
       expect(ran.stderr).toContain(empty)
-      expect(ran.stderr).toMatch(/@[a-z][a-z-]*\/[a-z][a-z-]*|packages\/[a-z]/)
+      expect(ran.stderr).toContain(CODE_REFERENCE)
     } finally {
       rmSync(empty, { recursive: true, force: true })
     }
