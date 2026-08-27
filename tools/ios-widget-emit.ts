@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Emit an iOS widget's Swift from its document, and compare it against the Swift standing in the code repository",
-  repos: ["akasha"],
+  path: "mobile widget-emit",
 } as const
 
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
