@@ -8,7 +8,7 @@ import { stemOf as slugOf } from "../page/name/name"
 
 import { readUncommitted } from "../page/uncommitted/uncommitted.ts"
 import { ALAN_PERSON, notify } from "../tools/lib/notify.ts"
-import { accountDirIn, EXPIRES_KEY, instructionsRoot } from "../tools/lib/oauth-page-push.ts"
+import { accountDirIn, EXPIRES_KEY, pagesRoot } from "../tools/lib/oauth-page-push.ts"
 import {
   type AccountReading,
   EXPIRY_FLOOR_MS,
@@ -58,7 +58,7 @@ it could not look at reads \`unread\` and exits nonzero, because eight pages cur
 pages looked at otherwise exit alike.
 
 Usage:
-  bun ~/repos/instructions/services/claude-account-upkeep-stall.ts [--json] [--notify]
+  bun ~/repos/akasha/services/claude-account-upkeep-stall.ts [--json] [--notify]
 
   --json    Emit the whole ruling as a JSON object instead.
   --notify  Push a notification to Alan where upkeep has stalled on an account it was not
@@ -170,7 +170,7 @@ async function main(argv: readonly string[]): Promise<number> {
   const json = argv.includes("--json")
   const wanted = argv.includes("--notify")
 
-  const stall = stallAcross(readingsUnder(instructionsRoot()), Date.now(), EXPIRES_KEY)
+  const stall = stallAcross(readingsUnder(pagesRoot()), Date.now(), EXPIRES_KEY)
 
   if (json) {
     process.stdout.write(`${JSON.stringify(stall)}\n`)
