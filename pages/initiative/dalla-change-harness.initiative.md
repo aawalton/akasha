@@ -9,5 +9,4 @@ parent-slug: aine-global
 
 # Intent
 
-- A check that can run on a worktree passes before the worktree is merged.
 - No code but these commands makes a worktree a seat works in.
