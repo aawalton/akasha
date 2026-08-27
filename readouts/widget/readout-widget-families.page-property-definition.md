@@ -7,7 +7,7 @@ key: families
 type: list(slug)
 required: true
 slug: readout-widget-families
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

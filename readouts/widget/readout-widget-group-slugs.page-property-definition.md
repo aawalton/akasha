@@ -8,7 +8,7 @@ type: list(relation-slug)
 target-slug: readout-group
 required: true
 slug: readout-widget-group-slugs
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

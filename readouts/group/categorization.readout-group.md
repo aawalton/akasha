@@ -3,7 +3,7 @@ id: 8ea312db-9139-59bd-9c44-d67c3f1b3e30
 page-type-slug: readout-group
 title: "Categorization"
 slug: categorization
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

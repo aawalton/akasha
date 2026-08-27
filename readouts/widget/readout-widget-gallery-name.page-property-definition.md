@@ -7,7 +7,7 @@ key: gallery-name
 type: text
 required: true
 slug: readout-widget-gallery-name
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

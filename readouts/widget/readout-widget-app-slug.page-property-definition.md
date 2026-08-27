@@ -8,7 +8,7 @@ type: relation-slug
 target-slug: ios-app
 required: true
 slug: readout-widget-app-slug
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

@@ -7,7 +7,7 @@ key: read-live-from
 type: relation-slug
 target-slug: domain
 slug: readout-read-live-from
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

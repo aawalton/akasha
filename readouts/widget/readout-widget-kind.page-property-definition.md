@@ -7,7 +7,7 @@ key: kind
 type: text
 required: true
 slug: readout-widget-kind
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

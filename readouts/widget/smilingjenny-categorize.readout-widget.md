@@ -3,7 +3,7 @@ id: 609dbb60-3ddb-57c6-8161-6f1a14e0144a
 page-type-slug: readout-widget
 title: "Smilingjenny categorize"
 slug: smilingjenny-categorize
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 app-slug: smilingjenny-ios
 group-slugs:
   - categorization

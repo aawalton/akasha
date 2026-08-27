@@ -6,7 +6,7 @@ defined-on-slug: page-type/readout-widget
 key: widget-path
 type: file
 slug: readout-widget-widget-path
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

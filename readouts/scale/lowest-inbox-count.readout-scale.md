@@ -3,7 +3,7 @@ id: f222841f-cbee-505c-b1c3-1be6ff1262a2
 page-type-slug: readout-scale
 title: "Lowest inbox count"
 slug: lowest-inbox-count
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 black-at: 100
 red-at: 20
 yellow-at: 10

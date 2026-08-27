@@ -6,7 +6,7 @@ defined-on-slug: page-type/readout-widget
 key: opens
 type: text
 slug: readout-widget-opens
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

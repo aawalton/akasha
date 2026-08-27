@@ -3,7 +3,7 @@ id: ee8e96fb-9d93-58ef-a1b7-18d438d637d8
 page-type-slug: readout-widget
 title: "Alanwalton persona stoplights"
 slug: alanwalton-persona-stoplights
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 app-slug: alanwalton-ios
 group-slugs:
   - personas

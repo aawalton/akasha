@@ -6,7 +6,7 @@ defined-on-slug: page-type/readout-widget
 key: caption
 type: text
 slug: readout-widget-caption
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

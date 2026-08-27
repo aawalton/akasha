@@ -7,7 +7,7 @@ key: feed
 type: url
 required: true
 slug: readout-widget-feed
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

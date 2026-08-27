@@ -3,7 +3,7 @@ id: 51036c2f-7c4c-5a73-a05d-ac55acefed31
 page-type-slug: readout-group
 title: "Inboxes"
 slug: inboxes
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 sequence-slugs:
   - readout/inboxes-email
   - readout/inboxes-tasks

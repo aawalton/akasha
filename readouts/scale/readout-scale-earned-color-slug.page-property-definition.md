@@ -7,7 +7,7 @@ key: earned-color-slug
 type: relation-slug
 target-slug: color
 slug: readout-scale-earned-color-slug
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

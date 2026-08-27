@@ -7,7 +7,7 @@ key: query-slug
 type: relation-slug
 target-slug: page-query
 slug: readout-query-slug
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

@@ -3,7 +3,7 @@ id: bf1ec846-17b5-59bc-9c27-46171f3c494b
 page-type-slug: readout-scale
 title: "Sleep hours"
 slug: sleep-hours
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 red-at: 6
 yellow-at: 7
 green-at: 8

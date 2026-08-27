@@ -7,7 +7,7 @@ key: place
 type: number
 required: true
 slug: readout-widget-place
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

@@ -3,7 +3,7 @@ id: cc7640f6-8c6d-57ad-b25b-d541494df472
 page-type-slug: readout-scale
 title: "Capacity hours"
 slug: capacity-hours
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 black-at: -4
 red-at: 0
 yellow-at: 4

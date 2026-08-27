@@ -6,7 +6,7 @@ defined-on-slug: page-type/readout
 key: query-argument
 type: text
 slug: readout-query-argument
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 ---
 
 # Definition

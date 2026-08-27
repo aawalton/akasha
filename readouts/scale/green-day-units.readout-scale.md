@@ -3,7 +3,7 @@ id: 16076a2f-005e-5b59-a5a2-c9b71b6edd05
 page-type-slug: readout-scale
 title: "Green day units"
 slug: green-day-units
-domain-parent-slug: domain/mp-readouts
+domain-parent-slug: domain/readout-system
 red-at: 0.25
 yellow-at: 0.5
 green-at: 1
