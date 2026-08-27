@@ -9,11 +9,11 @@ import {
   unjudgedDeclarations,
 } from "./run-check-routing"
 
-const DIR = "packages/infra/checks/src/checks/"
-const ELSEWHERE = "packages/temper/shared/build-deploy/checks/src/"
+const DIR = "infra/cluster-checks/src/checks/"
+const ELSEWHERE = "temper/shared-build-deploy-checks/src/"
 
 const cmd = (s: string) => ({
-  sourcePath: "packages/x/a.workflow.ts",
+  sourcePath: "infra/x/src/a.workflow.ts",
   workflow: "w",
   step: "s",
   command: s,
@@ -78,10 +78,10 @@ describe("findCheckInvocations", () => {
 
   test("a .ts script that is not a check is unjudged rather than absent", () => {
     const command =
-      "cd /ws && bun packages/infra/ci/pipeline/src/lib/write-configs-cache.ts --sha x"
+      "cd /ws && bun infra/ci-workflows/src/lib/write-configs-cache.ts --sha x"
     expect(findCheckInvocations(command)).toEqual([])
     expect(findUnjudgedScriptPaths(command)).toEqual([
-      "packages/infra/ci/pipeline/src/lib/write-configs-cache.ts",
+      "infra/ci-workflows/src/lib/write-configs-cache.ts",
     ])
   })
 
@@ -101,7 +101,7 @@ describe("findCheckInvocations", () => {
 describe("findRoutingViolations", () => {
   const clean = {
     commands: [cmd(`bun ${RUN_CHECK_PATH} ${DIR}check-a.ts`)],
-    scannedSources: ["packages/x/a.workflow.ts"],
+    scannedSources: ["infra/x/src/a.workflow.ts"],
     unexaminedSources: [],
     exemptions: [],
     declaredUnexamined: [],
@@ -133,7 +133,7 @@ describe("findRoutingViolations", () => {
         commands: [...clean.commands, cmd(`bun ${DIR}check-b.ts`)],
         exemptions: [
           {
-            sourcePath: "packages/x/a.workflow.ts",
+            sourcePath: "infra/x/src/a.workflow.ts",
             step: "s",
             script: `${DIR}check-b.ts`,
             reason: "synthetic",
@@ -146,8 +146,8 @@ describe("findRoutingViolations", () => {
   test("a source outside the examined set is a violation unless declared", () => {
     const scanned = {
       ...clean,
-      scannedSources: [...clean.scannedSources, "packages/y/b.workflow.ts"],
-      unexaminedSources: ["packages/y/b.workflow.ts"],
+      scannedSources: [...clean.scannedSources, "infra/y/src/b.workflow.ts"],
+      unexaminedSources: ["infra/y/src/b.workflow.ts"],
     }
     expect(findRoutingViolations(scanned).map((v) => v.kind)).toEqual([
       "undeclared-unexamined-source",
@@ -156,7 +156,7 @@ describe("findRoutingViolations", () => {
     expect(
       findRoutingViolations({
         ...scanned,
-        declaredUnexamined: [{ sourcePath: "packages/y/b.workflow.ts", reason: "synthetic" }],
+        declaredUnexamined: [{ sourcePath: "infra/y/src/b.workflow.ts", reason: "synthetic" }],
       })
     ).toEqual([])
   })
@@ -165,16 +165,16 @@ describe("findRoutingViolations", () => {
     expect(
       findRoutingViolations({
         ...clean,
-        scannedSources: [...clean.scannedSources, "packages/kept.workflow.ts"],
+        scannedSources: [...clean.scannedSources, "infra/kept/src/kept.workflow.ts"],
         exemptions: [
           {
-            sourcePath: "packages/x/a.workflow.ts",
+            sourcePath: "infra/x/src/a.workflow.ts",
             step: "s",
             script: `${DIR}check-b.ts`,
             reason: "stale",
           },
         ],
-        declaredUnexamined: [{ sourcePath: "packages/kept.workflow.ts", reason: "stale" }],
+        declaredUnexamined: [{ sourcePath: "infra/kept/src/kept.workflow.ts", reason: "stale" }],
       }).map((v) => v.kind)
     ).toEqual(["stale-exemption", "stale-unexamined-declaration"])
   })
@@ -182,19 +182,19 @@ describe("findRoutingViolations", () => {
   test("a declaration naming a source this scan never met is not reported as stale", () => {
     const exemptions = [
       {
-        sourcePath: "packages/gone.workflow.ts",
+        sourcePath: "infra/gone/src/gone.workflow.ts",
         step: "s",
         script: `${DIR}check-b.ts`,
         reason: "r",
       },
     ]
-    const declaredUnexamined = [{ sourcePath: "packages/gone.workflow.ts", reason: "r" }]
+    const declaredUnexamined = [{ sourcePath: "infra/gone/src/gone.workflow.ts", reason: "r" }]
 
     expect(findRoutingViolations({ ...clean, exemptions, declaredUnexamined })).toEqual([])
     expect(
       findRoutingViolations({
         ...clean,
-        scannedSources: [...clean.scannedSources, "packages/gone.workflow.ts"],
+        scannedSources: [...clean.scannedSources, "infra/gone/src/gone.workflow.ts"],
         exemptions,
         declaredUnexamined,
       }).map((v) => v.kind)
@@ -205,20 +205,20 @@ describe("findRoutingViolations", () => {
     const lists = {
       exemptions: [
         {
-          sourcePath: "packages/gone.workflow.ts",
+          sourcePath: "infra/gone/src/gone.workflow.ts",
           step: "s",
           script: `${DIR}check-b.ts`,
           reason: "r",
         },
       ],
-      declaredUnexamined: [{ sourcePath: "packages/gone.workflow.ts", reason: "r" }],
+      declaredUnexamined: [{ sourcePath: "infra/gone/src/gone.workflow.ts", reason: "r" }],
     }
     expect(unjudgedDeclarations({ scannedSources: clean.scannedSources, ...lists })).toEqual({
       exemptions: 1,
       unexamined: 1,
     })
     expect(
-      unjudgedDeclarations({ scannedSources: ["packages/gone.workflow.ts"], ...lists })
+      unjudgedDeclarations({ scannedSources: ["infra/gone/src/gone.workflow.ts"], ...lists })
     ).toEqual({ exemptions: 0, unexamined: 0 })
   })
 })
