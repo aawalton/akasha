@@ -8,14 +8,14 @@ domain-slug: domain/global
 
 # Claim
 
-A CLI flag named in an instruction document's prose is checked by nobody. `cli-help-flag-references` and `cli-prose-flag-route-coverage` both measure over the 757 command surfaces under `tools/commands/` and neither reads `domains/tasks/**`, so `domains/tasks/ops/review-command.md` carried `ops project list --domain` — a flag that verb has never had — until a reading found it.
+A CLI flag named in a page document's prose is checked by nobody. The flag-reference checks measure over the command surfaces and none of them reads the task pages, so a task document carried `ops project list --domain` — a flag that verb has never had — until a reading found it.
 
 # Evidence
 
-Filed by the seat dispatching the 2026-08-15 `review-instructions` reading of `domains/tasks/ops/review-command.md`, which found the flag, repaired the line at `08d5dfec6`, and said the check gap is a gap in the checks rather than a defect in the document.
+Filed by the seat dispatching the 2026-08-15 `review-instructions` reading of the ops command-review task, which found the flag, repaired the line at `08d5dfec6`, and said the check gap is a gap in the checks rather than a defect in the document.
 
-I ran the flag myself: `ops project list --domain ops-command` exits 1 with "unknown flag: --domain (did you mean ops project create --domain?)". That reading reports the cost had a run followed the line — the exit 1 reads as "no parent stands", so a second parent project gets opened, where #19149 already stands with a child under it. It replaced the flag with `ops project list --search "ops command review"` and verified that returns the row.
+Re-measured 2026-08-27 in `/var/home/walton/repos/akasha`. The gap stands and the population moved. `cli-prose-flag-route-coverage` is gone; `cli-help-flag-references` survives, registered at `tools/run-checks.ts:47` and running `tools/audits/cli-help-flag-references.ts`, whose declared population is `over(census.commandsScanned, "command surface(s)")` at line 166 — command surfaces only, of which `ops --help` prints 335. Nothing in it reads `pages/task/`, where `rg -l 'ops [a-z-]+ [a-z-]* *--[a-z]' pages/task/` names 12 task pages that spell a flag into prose.
 
-It deliberately wrote no seq into the line, `domains/repos/instructions-repo.md` **One-Way Citation** forbidding the instructions repo naming a particular memory document.
+I ran the flag myself: `ops project list --domain ops-command` exited 1 with "unknown flag: --domain (did you mean ops project create --domain?)". That reading reports the cost had a run followed the line — the exit 1 reads as "no parent stands", so a second parent project gets opened, where one already stands with a child under it. It replaced the flag with `ops project list --search "ops command review"` and verified that returned the row. `ops project list` is itself gone from the surface now; the check gap it exposed is not.
 
 Not measured: I did not open either check, so their scope is that reading's. Nothing here counts how many other instruction documents name a flag, or whether any other named flag is wrong today.
