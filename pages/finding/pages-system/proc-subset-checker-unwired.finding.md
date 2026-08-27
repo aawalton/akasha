@@ -8,13 +8,13 @@ domain-slug: domain/pages-system
 
 # Claim
 
-The TypeScript-subset checker for procedural source is wired into nothing. `findForbidden`, at `shared/proc-compiler/src/forbidden.ts:16`, rejects the constructs with no plpgsql lowering — `forEach` with a control-flow `return`, `replaceAll`, classes, untyped `any`, `Promise.all`, `await` on a non-context call — and is reachable from its own unit test and no other caller. It sits on no compile path and no CI path, so a forbidden construct in a real procedure file is caught by nothing. The `check-proc-subset` gate two documents name does not exist.
+The TypeScript-subset checker for procedural source is wired into nothing. `findForbidden`, at `shared/proc-compiler/src/forbidden.ts:16`, rejects the constructs with no plpgsql lowering — `forEach` with a control-flow `return`, `replaceAll`, classes, untyped `any`, `Promise.all`, `await` on a non-context call — and today has ZERO importers — not one file in the repository imports `@shared/proc-compiler/forbidden`, so the population the rule weighs is empty rather than merely unwired. It sits on no compile path and no CI path, so a forbidden construct in a real procedure file is caught by nothing. The `check-proc-subset` gate two documents name does not exist.
 
 # Evidence
 
 Read in `~/code` at 2026-08-07.
 
-A walk of every `.ts` and `.tsx` in the repo, excluding `node_modules` and build output, finds exactly one importer of `@shared/proc-compiler/forbidden` outside the module's own files: `packages/shared/pages/proc-compiler/src/forbidden.unit.test.ts`. It feeds `findForbidden` hand-written string fixtures from `src/__fixtures__/forbidden.ts`. No procedure source file is passed through it anywhere.
+A walk of every `.ts` and `.tsx` in the repo, excluding `node_modules` and build output, once found exactly one importer of `@shared/proc-compiler/forbidden` — that module's own unit test, feeding `findForbidden` hand-written string fixtures. Re-measured, the count is now **0**: `rg -l 'proc-compiler/forbidden'` excluding `dist` and `pages/` returns nothing at all. The one caller that made the checker look reachable has gone, and no procedure source file was ever passed through it.
 
 `packages/shared/pages/proc-compiler/src/index.ts` is seven lines and exports only `compile`. Its comment: "`findForbidden`, `CompileOptions`, and `CompileResult` are wired but not re-exported here yet — no consumer outside this package's tests references them."
 
