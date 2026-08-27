@@ -6,6 +6,6 @@ commitment: 5
 connection: 5
 impact: 5
 interest: 5
-sms-handler-target: "amy-alan-handler"
+sms-handler-target: "alan"
 account-user-id: "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 ---
