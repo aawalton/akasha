@@ -5,6 +5,7 @@ import { mock } from "bun:test"
 import { rows } from "./oauth-usage-drive.ts"
 import { seam, type Bound } from "./oauth-usage-harness.ts"
 import { PAGED_ACCOUNTS } from "./oauth-usage-vectors.ts"
+import { installRepos } from "./fixture.ts"
 
 const here = new URL(".", import.meta.url).pathname
 const dir = process.argv[2] ?? `${here}../lib`
@@ -19,6 +20,10 @@ for (const account of PAGED_ACCOUNTS) {
 // THE PAGES STAND IN AKASHA, and `pagesRoot()` reads `AKASHA_ROOT` for them at call time. Pointed
 // anywhere else this arm keeps its pacing off a page that is not there, and every write it was
 // written to record is silently none.
+//
+// THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of this root, so `roots.ts` throws as
+// it loads unless they stand here too — and it loads under the dynamic import below, after this.
+installRepos(root)
 process.env.AKASHA_ROOT = root
 
 const realUncommittedFile = await import(uncommittedAt)
