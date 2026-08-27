@@ -3,7 +3,7 @@ import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { toolArgv } from "../lib/tool-argv.ts"
 import { CLAIMED, fileKeyDeclared, fixture, installRepos, type Fixture } from "./fixture.ts"
-import { installCommands } from "./seat-fixture.ts"
+import { indexFixture } from "./seat-fixture.ts"
 
 const AGENT = "rename-repo-test"
 
@@ -44,8 +44,9 @@ function storeAt(at: Fixture): void {
     git(at.root, args)
   }
   // `tools/lib/tool-argv.ts` SPELLS `mv` UNDER `akashaRoot()` — this temp repo — so without the
-  // command pages here the spawn dies on a module that is not there before `mv` says anything.
-  installCommands(at)
+  // command pages here the spawn dies on a module that is not there before `mv` says anything, and
+  // `mv` reads the file kinds off the page index rather than globbing, so the index is built too.
+  indexFixture(at)
 }
 
 function runMv(
