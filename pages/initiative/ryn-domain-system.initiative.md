@@ -9,8 +9,6 @@ parent-slug: aine-global
 
 # Intent
 
-A folder shape's status is worked out from the check it names.
-
 Every folder matches a folder shape.
 
 A change that would leave a folder matching no folder shape is refused.
