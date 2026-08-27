@@ -14,7 +14,7 @@ import {
 } from "../../../../tools/lib/graph/producers/package/types.ts"
 import { findCycles } from "../../../../tools/lib/graph/queries/cycles.ts"
 import type { Edge, Graph, Node } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -96,14 +96,14 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the package graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const packageNodes = fullGraph.nodes(PACKAGE_NODE_TYPE).map(parsePackageNode)
 
   const { population } = examinePopulation({
     members: packageNodes,
     unit: "workspace packages",
     labelOf: (node) => node.attrs.name,
-    siteOf: (node) => resolve(codeRoot, node.attrs.path, "package.json"),
+    siteOf: (node) => resolve(root, node.attrs.path, "package.json"),
     examine: () => [],
     membership: {
       kind: "enumerated",
