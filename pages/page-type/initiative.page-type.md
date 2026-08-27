@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Initiative"
 id: 019ffdd6-fe9d-7000-be3d-5078d6458e90
 extends-slug: page
-files: memory:**/*.initiative.md
+files: akasha:**/*.initiative.md
 body-shape-slug: initiative
 slug: initiative
 plural-slug: initiatives

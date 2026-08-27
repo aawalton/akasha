@@ -3,7 +3,7 @@ id: 019f06b9-5b80-7051-b031-31a0ae4b78e8
 page-type-slug: page-type
 title: "Chess progress"
 extends-slug: page
-files: memory:**/*.chess-progress.md
+files: akasha:**/*.chess-progress.md
 body-shape-slug: text
 slug: chess-progress
 domain-parent-slug: domain/chess

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Heard music"
 id: 01a01d14-353c-70e8-aeec-3670355be96b
 extends-slug: page
-files: memory:**/*.heard-music.md
+files: akasha:**/*.heard-music.md
 body-shape-slug: empty
 slug: heard-music
 domain-parent-slug: domain/music

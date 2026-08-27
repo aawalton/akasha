@@ -3,7 +3,7 @@ id: e80ac6d2-deb6-5dcb-bbf8-714d2293c432
 page-type-slug: page-type
 title: "Temper net worth day"
 extends-slug: page
-files: memory:**/*.temper-net-worth-day.md
+files: akasha:**/*.temper-net-worth-day.md
 body-shape-slug: empty
 slug: temper-net-worth-day
 domain-parent-slug: domain/eso

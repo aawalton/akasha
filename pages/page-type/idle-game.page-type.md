@@ -3,7 +3,7 @@ id: 01a0087d-50a1-76de-a16b-76aede815418
 page-type-slug: page-type
 title: "Idle game"
 extends-slug: collection
-files: memory:**/*.idle-game.md
+files: akasha:**/*.idle-game.md
 body-shape-slug: empty
 slug: idle-game
 plural-slug: idle-games

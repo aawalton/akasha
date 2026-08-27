@@ -3,7 +3,7 @@ id: 019f06da-9e06-753e-8a9a-befe4c305123
 page-type-slug: page-type
 title: "Chess game"
 extends-slug: page
-files: memory:**/*.chess-game.md
+files: akasha:**/*.chess-game.md
 body-shape-slug: empty
 unique-key: "{externalId}"
 slug: chess-game

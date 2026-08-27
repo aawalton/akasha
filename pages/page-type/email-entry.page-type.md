@@ -3,7 +3,7 @@ page-type-slug: page-type
 id: 4aca5977-4e0c-5471-ac6b-96ba1ea38f17
 title: "Email entry"
 extends-slug: alan-harness-tracking-entry-date
-files: memory:**/*.email-entry.md
+files: akasha:**/*.email-entry.md
 body-shape-slug: text
 slug: email-entry
 plural-slug: email-entries

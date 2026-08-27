@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper metric tree node"
 id: 019e2fca-0efc-7c5a-854c-fe8fd90bb7c8
 extends-slug: page
-files: memory:**/*.temper-metric-tree.md
+files: akasha:**/*.temper-metric-tree.md
 body-shape-slug: empty
 slug: temper-metric-tree
 plural-slug: temper-metric-tree-nodes

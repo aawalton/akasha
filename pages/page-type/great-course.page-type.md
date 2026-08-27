@@ -3,7 +3,7 @@ id: 019dbaeb-b3b8-7b69-8d9b-59d355ae88ef
 page-type-slug: page-type
 title: "Great course"
 extends-slug: collection
-files: memory:**/*.great-course.md
+files: akasha:**/*.great-course.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: great-course

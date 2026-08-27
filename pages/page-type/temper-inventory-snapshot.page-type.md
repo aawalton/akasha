@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper inventory snapshot"
 id: 019dbb6c-3632-7cdd-822b-a9a71f80c9d4
 extends-slug: page
-files: memory:**/*.temper-inventory-snapshot.md
+files: akasha:**/*.temper-inventory-snapshot.md
 body-shape-slug: empty
 owner-slug: account-page
 slug: temper-inventory-snapshot

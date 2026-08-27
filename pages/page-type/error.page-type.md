@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Error"
 id: 019e83b4-befa-78c0-9154-6a05ebcb9ba5
 extends-slug: page
-files: memory:**/*.error.md
+files: akasha:**/*.error.md
 body-shape-slug: empty
 slug: error
 plural-slug: errors

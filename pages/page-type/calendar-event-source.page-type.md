@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Calendar event source"
 id: 019e9cb1-f585-7934-bd7a-07be06a2061d
 extends-slug: page
-files: memory:**/*.calendar-event-source.md
+files: akasha:**/*.calendar-event-source.md
 body-shape-slug: empty
 named-for: "{external-id}"
 slug: calendar-event-source

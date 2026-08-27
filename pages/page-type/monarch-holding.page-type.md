@@ -3,7 +3,7 @@ id: 01a01d14-6614-7002-abf6-f6173d807f04
 page-type-slug: page-type
 title: "Monarch holding"
 extends-slug: page
-files: memory:**/*.monarch-holding.md
+files: akasha:**/*.monarch-holding.md
 body-shape-slug: empty
 slug: monarch-holding
 plural-slug: monarch-holdings

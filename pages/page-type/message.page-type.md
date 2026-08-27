@@ -3,7 +3,7 @@ id: c32435c0-0f87-5b31-878d-705f9a01178e
 page-type-slug: page-type
 title: "Message"
 extends-slug: page
-files: memory:**/*.message.md
+files: akasha:**/*.message.md
 body-shape-slug: text
 slug: message
 plural-slug: messages

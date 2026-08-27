@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Finding"
 id: 019ffd6c-4204-7000-81b7-90e05890f77e
 extends-slug: page
-files: memory:**/*.finding.md
+files: akasha:**/*.finding.md
 body-shape-slug: finding
 slug: finding
 domain-parent-slug: domain/work-system

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper jewelry enchant"
 id: 019e5c85-d273-7281-bff1-13de4b3877fe
 extends-slug: page
-files: memory:**/*.temper-jewelry-enchant.md
+files: akasha:**/*.temper-jewelry-enchant.md
 body-shape-slug: empty
 slug: temper-jewelry-enchant
 plural-slug: temper-jewelry-enchants

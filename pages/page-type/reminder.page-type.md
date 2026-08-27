@@ -3,7 +3,7 @@ id: fc92ffcc-97ac-5cf2-9493-5f0a81d4895c
 page-type-slug: page-type
 title: "Reminder"
 extends-slug: message
-files: memory:**/*.reminder.md
+files: akasha:**/*.reminder.md
 body-shape-slug: reminder
 slug: reminder
 plural-slug: reminders

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper target scope"
 id: 019e5a4f-77bf-7f28-935e-f4dfa85d8270
 extends-slug: page
-files: memory:**/*.temper-target-scope.md
+files: akasha:**/*.temper-target-scope.md
 body-shape-slug: empty
 slug: temper-target-scope
 plural-slug: temper-target-scopes

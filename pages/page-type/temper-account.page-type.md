@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper account"
 id: 019dba38-0d46-7ac4-9460-9f854ffef3c7
 extends-slug: page
-files: memory:**/*.temper-account.md
+files: akasha:**/*.temper-account.md
 body-shape-slug: empty
 named-for: "{title}"
 owner-slug: title

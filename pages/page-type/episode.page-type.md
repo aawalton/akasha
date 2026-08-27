@@ -3,7 +3,7 @@ id: 019ea441-6cb8-7e60-b45a-3c141cbeecbd
 page-type-slug: page-type
 title: "Episode"
 extends-slug: page
-files: memory:**/*.episode.md
+files: akasha:**/*.episode.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: episode

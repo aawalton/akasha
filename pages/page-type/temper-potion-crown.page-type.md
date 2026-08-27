@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper crown potion"
 id: 019e21f5-6c08-736f-94d5-81271d667a61
 extends-slug: page
-files: memory:**/*.temper-potion-crown.md
+files: akasha:**/*.temper-potion-crown.md
 body-shape-slug: empty
 slug: temper-potion-crown
 plural-slug: temper-potion-crowns

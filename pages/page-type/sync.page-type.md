@@ -3,7 +3,7 @@ id: abaa065f-421f-55e9-8343-1acbf83facfa
 page-type-slug: page-type
 title: "Sync"
 extends-slug: page
-files: memory:**/*.sync.md
+files: akasha:**/*.sync.md
 body-shape-slug: empty
 slug: sync
 domain-parent-slug: domain/collection-system

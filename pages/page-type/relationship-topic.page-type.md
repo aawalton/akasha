@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Relationship topic"
 id: 019db533-f381-73c1-a658-65f4becf0768
 extends-slug: page
-files: memory:**/*.relationship-topic.md
+files: akasha:**/*.relationship-topic.md
 body-shape-slug: empty
 slug: relationship-topic
 domain-parent-slug: page-type/person

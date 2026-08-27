@@ -3,7 +3,7 @@ id: 26310c41-281f-54e8-93a8-c6cb37d691e3
 page-type-slug: page-type
 title: "Wake daily tracking"
 extends-slug: page
-files: memory:**/*.wake-daily-tracking.md
+files: akasha:**/*.wake-daily-tracking.md
 body-shape-slug: empty
 slug: wake-daily-tracking
 domain-parent-slug: domain/alan-harness-tracking-store-page

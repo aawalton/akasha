@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Seat log day"
 id: 01a03b11-8bd1-77cc-bb8a-f71c017af14f
 extends-slug: log-day
-files: memory:**/*.seat-log-day.md
+files: akasha:**/*.seat-log-day.md
 body-shape-slug: empty
 slug: seat-log-day
 plural-slug: seat-log-days

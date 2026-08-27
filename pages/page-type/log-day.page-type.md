@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Log day"
 id: 01a03aed-0b1f-7001-8e79-ef13bcb7b183
 extends-slug: page
-files: memory:**/*.log-day.md
+files: akasha:**/*.log-day.md
 body-shape-slug: empty
 slug: log-day
 plural-slug: log-days

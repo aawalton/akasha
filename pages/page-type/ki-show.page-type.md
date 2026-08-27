@@ -3,7 +3,7 @@ id: 019f1aee-7c42-7355-969a-a86fb594cdbd
 page-type-slug: page-type
 title: "Ki show"
 extends-slug: ki-collection-template
-files: memory:**/*.ki-show.md
+files: akasha:**/*.ki-show.md
 body-shape-slug: empty
 slug: ki-show
 domain-parent-slug: page-type/ki-collection-template

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Music day"
 id: 01a01d14-353c-7009-b26e-673926aae922
 extends-slug: page
-files: memory:**/*.music-day.md
+files: akasha:**/*.music-day.md
 body-shape-slug: empty
 slug: music-day
 domain-parent-slug: domain/music

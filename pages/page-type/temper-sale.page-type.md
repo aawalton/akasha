@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper sale"
 id: 019f71f3-8523-7dcc-a2c3-ae8bbddd28ad
 extends-slug: page
-files: memory:**/*.temper-sale.md
+files: akasha:**/*.temper-sale.md
 body-shape-slug: empty
 slug: temper-sale
 plural-slug: temper-sales

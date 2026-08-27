@@ -3,7 +3,7 @@ id: 01a01b98-6486-7000-9351-b1b7140d8601
 page-type-slug: page-type
 title: "Step"
 extends-slug: page
-files: memory:**/*.step.md
+files: akasha:**/*.step.md
 body-shape-slug: empty
 slug: step
 domain-parent-slug: page-type/workflow

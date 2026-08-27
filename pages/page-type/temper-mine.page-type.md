@@ -3,7 +3,7 @@ id: bc228f68-596d-5306-b246-82b38378293d
 page-type-slug: page-type
 title: "Temper mine"
 extends-slug: page
-files: memory:**/*.temper-mine.md
+files: akasha:**/*.temper-mine.md
 body-shape-slug: empty
 slug: temper-mine
 domain-parent-slug: domain/eso

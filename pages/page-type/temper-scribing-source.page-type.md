@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper scribing source"
 id: 019e12b0-837c-73d8-9348-62ad0c31cf06
 extends-slug: page
-files: memory:**/*.temper-scribing-source.md
+files: akasha:**/*.temper-scribing-source.md
 body-shape-slug: empty
 slug: temper-scribing-source
 plural-slug: temper-scribing-sources

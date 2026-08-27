@@ -3,7 +3,7 @@ page-type-slug: page-type
 id: b3540936-edd3-50bd-ac97-2737ca716078
 title: "Food entry"
 extends-slug: alan-harness-tracking-entry-instant
-files: memory:**/*.food-entry.md
+files: akasha:**/*.food-entry.md
 body-shape-slug: text
 slug: food-entry
 plural-slug: food-entries

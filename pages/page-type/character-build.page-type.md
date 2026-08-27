@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper Character Build"
 id: 019dbb6c-2001-7d3b-ab99-0a96e5a3fdf7
 extends-slug: page
-files: memory:**/*.character-build.md
+files: akasha:**/*.character-build.md
 body-shape-slug: empty
 named-for: "{build-name}"
 owner-slug: account-page

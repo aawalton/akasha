@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper target armor"
 id: 019e21f4-7454-7325-99e3-041fdd99c9f4
 extends-slug: page
-files: memory:**/*.temper-target-armor.md
+files: akasha:**/*.temper-target-armor.md
 body-shape-slug: empty
 slug: temper-target-armor
 plural-slug: temper-target-armors

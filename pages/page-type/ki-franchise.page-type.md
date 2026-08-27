@@ -3,7 +3,7 @@ id: 019f1aee-819a-72bf-a5a9-51189c17e167
 page-type-slug: page-type
 title: "Ki franchise"
 extends-slug: ki-collection-template
-files: memory:**/*.ki-franchise.md
+files: akasha:**/*.ki-franchise.md
 body-shape-slug: empty
 slug: ki-franchise
 domain-parent-slug: page-type/ki-collection-template

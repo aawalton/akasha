@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper skill slot"
 id: 019e3102-5586-7cd0-bc01-87438cd93904
 extends-slug: page
-files: memory:**/*.temper-skill-slot.md
+files: akasha:**/*.temper-skill-slot.md
 body-shape-slug: empty
 slug: temper-skill-slot
 plural-slug: temper-skill-slots

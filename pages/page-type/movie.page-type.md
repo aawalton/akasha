@@ -3,7 +3,7 @@ id: 019ea441-6e24-7b6f-a505-c5a52dda4e35
 page-type-slug: page-type
 title: "Movie"
 extends-slug: page
-files: memory:**/*.movie.md
+files: akasha:**/*.movie.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: movie

@@ -3,7 +3,7 @@ id: 019ea441-69e9-7b13-81ec-36ff1874a7df
 page-type-slug: page-type
 title: "Show"
 extends-slug: page
-files: memory:**/*.show.md
+files: akasha:**/*.show.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: show

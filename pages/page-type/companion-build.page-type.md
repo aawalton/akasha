@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper Companion Build"
 id: 019db750-17d1-7914-b0e0-5ffe0d71bb50
 extends-slug: page
-files: memory:**/*.companion-build.md
+files: akasha:**/*.companion-build.md
 body-shape-slug: empty
 named-for: "{build-name}"
 owner-slug: account-page

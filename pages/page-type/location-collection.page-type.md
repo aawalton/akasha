@@ -3,7 +3,7 @@ id: 019f149b-7c68-706a-bcad-dd798bcd60fb
 page-type-slug: page-type
 title: "Location collection"
 extends-slug: page
-files: memory:**/*.location-collection.md
+files: akasha:**/*.location-collection.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: location-collection

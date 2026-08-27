@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper guild trader"
 id: 019e2fc6-5143-7122-aaa2-04ff0b7f94fa
 extends-slug: page
-files: memory:**/*.temper-guild-trader.md
+files: akasha:**/*.temper-guild-trader.md
 body-shape-slug: empty
 slug: temper-guild-trader
 plural-slug: temper-guild-traders

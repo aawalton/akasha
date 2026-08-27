@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper completion override"
 id: 019e99a6-7091-78ca-a537-248c3b57ef76
 extends-slug: page
-files: memory:**/*.temper-completion-override.md
+files: akasha:**/*.temper-completion-override.md
 body-shape-slug: empty
 owner-slug: account-page
 slug: temper-completion-override

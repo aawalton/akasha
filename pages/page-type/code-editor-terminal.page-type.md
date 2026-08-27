@@ -3,7 +3,7 @@ id: f8ebe451-cb9e-56aa-9bac-c455252ab818
 page-type-slug: page-type
 title: "Code editor terminal"
 extends-slug: page
-files: memory:**/*.code-editor-terminal.md
+files: akasha:**/*.code-editor-terminal.md
 body-shape-slug: empty
 slug: code-editor-terminal
 domain-parent-slug: domain/code-editor

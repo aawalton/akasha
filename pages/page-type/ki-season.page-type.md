@@ -3,7 +3,7 @@ id: 019f1aee-7d79-7a33-b43b-44e01b09298b
 page-type-slug: page-type
 title: "Ki season"
 extends-slug: ki-collection-template
-files: memory:**/*.ki-season.md
+files: akasha:**/*.ki-season.md
 body-shape-slug: empty
 slug: ki-season
 domain-parent-slug: page-type/ki-collection-template

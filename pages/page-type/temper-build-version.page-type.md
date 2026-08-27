@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper build version"
 id: 019dbb6c-51c0-7b3c-b483-0a739f32d9fb
 extends-slug: page
-files: memory:**/*.temper-build-version.md
+files: akasha:**/*.temper-build-version.md
 body-shape-slug: empty
 named-for: "{build}-{version-number}"
 owner-slug: account-page

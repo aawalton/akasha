@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Persona day"
 extends-slug: page
 id: 019f0e73-c738-78cc-9f5f-a7ca14823c90
-files: memory:**/*.persona-day.md
+files: akasha:**/*.persona-day.md
 body-shape-slug: empty
 slug: persona-day
 domain-parent-slug: domain/persona-points

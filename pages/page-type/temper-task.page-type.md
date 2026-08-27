@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper task"
 id: 019db533-f381-72c5-89ed-c2eb485e5e94
 extends-slug: page
-files: memory:**/*.temper-task.md
+files: akasha:**/*.temper-task.md
 body-shape-slug: empty
 owner-slug: account
 slug: temper-task

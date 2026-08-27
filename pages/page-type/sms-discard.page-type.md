@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "SMS discard"
 id: 019fee8b-0d29-7123-afe0-de23c4c7338d
 extends-slug: page
-files: memory:**/*.sms-discard.md
+files: akasha:**/*.sms-discard.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: sms-discard

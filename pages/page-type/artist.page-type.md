@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Artist"
 id: 019dbaf4-cc68-753e-abce-318f9717fe44
 extends-slug: page
-files: memory:**/*.artist.md
+files: akasha:**/*.artist.md
 body-shape-slug: empty
 slug: artist
 plural-slug: artists

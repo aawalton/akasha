@@ -3,7 +3,7 @@ id: 019f1aee-7ef3-77fc-bca3-24a752af1462
 page-type-slug: page-type
 title: "Ki episode"
 extends-slug: ki-collection-template
-files: memory:**/*.ki-episode.md
+files: akasha:**/*.ki-episode.md
 body-shape-slug: empty
 slug: ki-episode
 domain-parent-slug: page-type/ki-collection-template

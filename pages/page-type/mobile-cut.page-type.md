@@ -3,7 +3,7 @@ id: 019f5141-c410-7cd1-b491-d017f10e568d
 page-type-slug: page-type
 title: "Mobile cut"
 extends-slug: page
-files: memory:**/*.mobile-cut.md
+files: akasha:**/*.mobile-cut.md
 body-shape-slug: empty
 slug: mobile-cut
 plural-slug: mobile-cuts

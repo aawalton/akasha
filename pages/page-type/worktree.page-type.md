@@ -3,7 +3,7 @@ id: 072be340-90b8-58a4-b5b3-4e62a0ef57f9
 page-type-slug: page-type
 title: "Worktree"
 extends-slug: page
-files: memory:**/*.worktree.md
+files: akasha:**/*.worktree.md
 body-shape-slug: empty
 slug: worktree
 plural-slug: worktrees

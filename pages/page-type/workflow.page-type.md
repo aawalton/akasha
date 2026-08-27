@@ -3,7 +3,7 @@ id: 01a01b95-f711-7000-82a2-cc7b813e1feb
 page-type-slug: page-type
 title: "Workflow"
 extends-slug: page
-files: memory:**/*.workflow.md
+files: akasha:**/*.workflow.md
 body-shape-slug: empty
 slug: workflow
 domain-parent-slug: page-type/pipeline

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper companion skill"
 id: 019e6451-0941-73d4-a4e6-93fe402cba99
 extends-slug: page
-files: memory:**/*.temper-companion-skill.md
+files: akasha:**/*.temper-companion-skill.md
 body-shape-slug: empty
 slug: temper-companion-skill
 plural-slug: temper-companion-skills

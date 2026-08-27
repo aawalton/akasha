@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Idle persona card"
 id: 019f1a5a-e6e0-7f71-a278-e0d8c5e0b5db
 extends-slug: page
-files: memory:**/*.idle-persona-card.md
+files: akasha:**/*.idle-persona-card.md
 body-shape-slug: empty
 owner-slug: player-id
 slug: idle-persona-card

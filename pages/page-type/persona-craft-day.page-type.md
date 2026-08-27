@@ -3,7 +3,7 @@ id: a07db58d-4de6-51ca-9f46-6e38023b2c9d
 page-type-slug: page-type
 title: "Persona craft day"
 extends-slug: page
-files: memory:**/*.persona-craft-day.md
+files: akasha:**/*.persona-craft-day.md
 body-shape-slug: empty
 slug: persona-craft-day
 domain-parent-slug: domain/persona-points

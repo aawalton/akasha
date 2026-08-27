@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper weapon enchant"
 id: 019e5c0d-d6ee-74f9-a2cd-d31acd280bff
 extends-slug: page
-files: memory:**/*.temper-weapon-enchant.md
+files: akasha:**/*.temper-weapon-enchant.md
 body-shape-slug: empty
 slug: temper-weapon-enchant
 plural-slug: temper-weapon-enchants

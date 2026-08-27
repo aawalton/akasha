@@ -3,7 +3,7 @@ id: a97ae8c4-f0b7-57e3-8e46-7f6fcfdc1e1e
 page-type-slug: page-type
 title: "Code editor window"
 extends-slug: page
-files: memory:**/*.code-editor-window.md
+files: akasha:**/*.code-editor-window.md
 body-shape-slug: empty
 slug: code-editor-window
 domain-parent-slug: domain/code-editor

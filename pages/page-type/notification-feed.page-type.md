@@ -3,7 +3,7 @@ id: 1b87fe23-c0fc-5af0-bfaa-dd9aa5efe956
 page-type-slug: page-type
 title: "Notification feed"
 extends-slug: page
-files: memory:**/*.notification-feed.md
+files: akasha:**/*.notification-feed.md
 body-shape-slug: empty
 slug: notification-feed
 plural-slug: notification-feeds

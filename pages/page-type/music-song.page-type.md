@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Music song"
 id: 019dbaf4-cdd3-7f5a-a5b0-0bfdc8da0f6e
 extends-slug: page
-files: memory:**/*.music-song.md
+files: akasha:**/*.music-song.md
 body-shape-slug: empty
 slug: music-song
 domain-parent-slug: domain/music

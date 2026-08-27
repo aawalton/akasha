@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper set category"
 id: 019e46b5-0bc5-7ad9-bcae-29a149d38e95
 extends-slug: page
-files: memory:**/*.temper-set-category.md
+files: akasha:**/*.temper-set-category.md
 body-shape-slug: empty
 slug: temper-set-category
 plural-slug: temper-set-categories

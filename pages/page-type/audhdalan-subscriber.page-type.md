@@ -3,7 +3,7 @@ id: 019e2701-19cb-71d9-a820-bddf28cec176
 page-type-slug: page-type
 title: "AuDHD Alan subscriber"
 extends-slug: page
-files: memory:**/*.audhdalan-subscriber.md
+files: akasha:**/*.audhdalan-subscriber.md
 body-shape-slug: empty
 slug: audhdalan-subscriber
 plural-slug: audhdalan-subscribers

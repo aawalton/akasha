@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Location"
 id: 019f149b-8573-787f-867f-fa10e855c4c9
 extends-slug: page
-files: memory:**/*.location.md
+files: akasha:**/*.location.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: location

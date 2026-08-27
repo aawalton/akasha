@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper zone"
 id: 019e17ce-fcbd-706e-9a09-fcec3e891b04
 extends-slug: page
-files: memory:**/*.temper-zone.md
+files: akasha:**/*.temper-zone.md
 body-shape-slug: empty
 slug: temper-zone
 plural-slug: temper-zones

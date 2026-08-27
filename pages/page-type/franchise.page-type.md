@@ -3,7 +3,7 @@ id: 019ea441-6873-761e-b659-d09ea745c1c7
 page-type-slug: page-type
 title: "Franchise"
 extends-slug: page
-files: memory:**/*.franchise.md
+files: akasha:**/*.franchise.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: franchise

@@ -3,7 +3,7 @@ id: 019f1aee-82ca-7801-ae1e-8105120d7d7e
 page-type-slug: page-type
 title: "Ki movie"
 extends-slug: ki-collection-template
-files: memory:**/*.ki-movie.md
+files: akasha:**/*.ki-movie.md
 body-shape-slug: empty
 slug: ki-movie
 domain-parent-slug: page-type/ki-collection-template

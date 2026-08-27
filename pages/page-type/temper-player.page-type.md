@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper player"
 id: 019dbb6c-2f4c-7fd5-aff4-bd9b3e2051a0
 extends-slug: page
-files: memory:**/*.temper-player.md
+files: akasha:**/*.temper-player.md
 body-shape-slug: empty
 named-for: "{title}"
 owner-slug: title

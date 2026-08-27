@@ -3,7 +3,7 @@ id: ba2692a2-fdbc-5dd0-995a-a70bddc028c8
 page-type-slug: page-type
 title: "Device token"
 extends-slug: page
-files: memory:**/*.device-token.md
+files: akasha:**/*.device-token.md
 body-shape-slug: empty
 slug: device-token
 plural-slug: device-tokens

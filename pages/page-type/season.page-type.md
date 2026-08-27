@@ -3,7 +3,7 @@ id: 019ea441-6b52-7a47-84f8-5b0df7a35059
 page-type-slug: page-type
 title: "Season"
 extends-slug: page
-files: memory:**/*.season.md
+files: akasha:**/*.season.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: season

@@ -3,7 +3,7 @@ id: 019f1aee-805f-7466-8306-e65218912bad
 page-type-slug: page-type
 title: "Ki book series"
 extends-slug: ki-collection-template
-files: memory:**/*.ki-book-series.md
+files: akasha:**/*.ki-book-series.md
 body-shape-slug: empty
 slug: ki-book-series
 domain-parent-slug: page-type/ki-collection-template

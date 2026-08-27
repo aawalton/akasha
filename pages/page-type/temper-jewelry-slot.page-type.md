@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Temper jewelry slot"
 id: 019e4cb1-db97-73a8-9167-9c7f7319dc58
 extends-slug: page
-files: memory:**/*.temper-jewelry-slot.md
+files: akasha:**/*.temper-jewelry-slot.md
 body-shape-slug: empty
 slug: temper-jewelry-slot
 plural-slug: temper-jewelry-slots

@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Location deal"
 id: 019f3229-3a01-78c3-84c5-036943df031f
 extends-slug: page
-files: memory:**/*.location-deal.md
+files: akasha:**/*.location-deal.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: location-deal

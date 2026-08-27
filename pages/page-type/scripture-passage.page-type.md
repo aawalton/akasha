@@ -3,7 +3,7 @@ id: 019f05bc-a84c-78f0-89f3-895b57545ee8
 page-type-slug: page-type
 title: "Scripture passage"
 extends-slug: page
-files: memory:**/*.scripture-passage.md
+files: akasha:**/*.scripture-passage.md
 body-shape-slug: empty
 named-for: "{slug}"
 slug: scripture-passage

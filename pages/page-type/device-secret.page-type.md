@@ -3,7 +3,7 @@ id: 06f1e4a6-659e-5a3a-9767-f6fe1d6c3ed3
 page-type-slug: page-type
 title: "Device secret"
 extends-slug: page
-files: memory:**/*.device-secret.md
+files: akasha:**/*.device-secret.md
 body-shape-slug: empty
 slug: device-secret
 plural-slug: device-secrets

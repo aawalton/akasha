@@ -3,7 +3,7 @@ id: 01a01b92-bd99-7000-a355-21db18e7db4b
 page-type-slug: page-type
 title: "Pipeline"
 extends-slug: page
-files: memory:**/*.pipeline.md
+files: akasha:**/*.pipeline.md
 body-shape-slug: empty
 slug: pipeline
 domain-parent-slug: domain/change-harness-cluster

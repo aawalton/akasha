@@ -3,7 +3,7 @@ id: 48519a87-3c2e-5299-86f4-40fda47762ac
 page-type-slug: page-type
 title: "Temper completed month"
 extends-slug: page
-files: memory:**/*.temper-completed-month.md
+files: akasha:**/*.temper-completed-month.md
 body-shape-slug: empty
 slug: temper-completed-month
 plural-slug: temper-completed-months

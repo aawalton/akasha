@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Question"
 id: 019f4a3b-8e94-78ec-9723-302b992a267f
 extends-slug: page
-files: memory:**/*.question.md
+files: akasha:**/*.question.md
 body-shape-slug: text
 slug: question
 plural-slug: questions

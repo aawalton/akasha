@@ -3,7 +3,7 @@ id: 01a01d18-306b-7000-9796-b41f285a1bad
 page-type-slug: page-type
 title: "Generation log"
 extends-slug: page
-files: memory:**/*.generation-log.md
+files: akasha:**/*.generation-log.md
 body-shape-slug: empty
 slug: generation-log
 domain-parent-slug: domain/generation

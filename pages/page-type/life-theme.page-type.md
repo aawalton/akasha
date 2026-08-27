@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Life theme"
 id: 019db533-f381-7416-9a1d-a06df393be21
 extends-slug: page
-files: memory:**/*.life-theme.md
+files: akasha:**/*.life-theme.md
 body-shape-slug: empty
 slug: life-theme
 domain-parent-slug: page-type/value

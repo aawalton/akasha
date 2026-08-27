@@ -3,7 +3,7 @@ id: 01a01d14-6614-7003-8e68-d4f06528a899
 page-type-slug: page-type
 title: "Monarch month"
 extends-slug: page
-files: memory:**/*.monarch-month.md
+files: akasha:**/*.monarch-month.md
 body-shape-slug: empty
 slug: monarch-month
 domain-parent-slug: domain/monarch
