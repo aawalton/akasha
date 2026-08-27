@@ -1,0 +1,13 @@
+---
+page-type-slug: car-year
+id: 019e4af2-d807-765d-844e-7d531cb2737b
+title: "2026"
+slug: mercedes-benz-gle-plug-in-hybrid-2026
+parents:
+  - 019e4af0-de39-7726-a4c1-73745203997a
+shortList: false
+sources: "- https://www.mbusa.com/en/vehicles/model/gle/suv/gle450e4\n- https://www.edmunds.com/mercedes-benz/gle/2026/plug-in-hybrid/"
+exclusionReason: "All trims excluded"
+modelYear: 2026
+refreshNotes: "MY2026 GLE 450e 4MATIC continues. Refreshed exterior styling for GLE family. Sources: https://www.mbusa.com/en/vehicles/model/gle/suv/gle450e4 ; https://www.edmunds.com/mercedes-benz/gle/2026/plug-in-hybrid/"
+---
