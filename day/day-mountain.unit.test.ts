@@ -1,11 +1,11 @@
 import { describe, expect, it } from "bun:test"
-import { mtWallToInstant } from "./home-times"
+import { mtWallToInstant } from "../tools/lib/tracking/mountain-times.ts"
 import {
   getDenverDayEnd,
   getEsoDayStr,
   getMountainEveningDayStr,
   getMountainMorningDayStr,
-} from "./reset-times"
+} from "./day.ts"
 
 describe("getDenverDayEnd", () => {
   it("midwinter MST → upcoming local midnight is next day at 07:00 UTC", () => {

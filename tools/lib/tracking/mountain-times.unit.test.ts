@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { mtWallHm, mtWallToInstant } from "./home-times"
+import { mtWallHm, mtWallToInstant } from "./mountain-times.ts"
 
 describe("mtWallToInstant", () => {
   it("winter wall-clock is interpreted as MST (UTC−7)", () => {
