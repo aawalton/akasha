@@ -1,0 +1,151 @@
+---
+id: b9f6c865-8e02-5c30-b3da-a3cca10567f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 606: System Watcher"
+slug: 0027-chapter-606-system-watcher
+partOf: system-change-system-universe
+position: 27
+ownLength: 2139
+unit: words
+ownProgress: 2139
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2793343/chapter-606-system-watcher"
+royalRoadId: "2793343"
+markedReadAt: "2026-06-29T19:57:36.768Z"
+---
+
+Chapter 606: System Watcher
+
+“Looks like that’s everyone finally,” Derek said.
+
+“I was waiting for some grand declaration or something else important to happen, but that doesn’t look to be the case,” the now slightly less old-looking Marrick said as he looked around.
+
+“I imagine all that happened while we were in that white space,” Derek replied. “If you look around hard enough, you can even tell that the systems already cleaned up a bit after the invaders left, though.” Derek pointed to where one of the closer arrays had been and continued, “You know the grass and everything around the array area was definitely disturbed, but everything inside where the barrier was is completely intact.”
+
+“Oh,” Marrick said with a nod. “I hadn’t looked over there yet.” The man rubbed his chin, then said, “So, what do we do now? It seems that I have a lot to think about going forward.”
+
+“Yes, you do,” Derek said. “But, like I said earlier, don’t make any rash decisions until we can speak about it all later.”
+
+“You don’t get to be as old as me…”
+
+“Nope,” Derek said, cutting the man off. “You can’t use that old-man excuse for anything any longer. You probably have a good thousand or more years left in your body now. For all intents and purposes, you are in just as good physical condition as I am.”
+
+“Fine,” Marrick said. “It’s still the same, though. You don’t make it to my age by making rash decisions.”
+
+“Anyway,” Derek said as he turned his attention back to Ashley. “So, according to the reward ceremony, the other little floating blue guy… Holcom? I think his name was?” He frowned, then shrugged. “Don’t remember for sure since we can’t access the Champion list any longer,” he said. “But, according to the elf at the ceremony, he created a way for the invaders to communicate more easily and travel. And considering they all ended up on this continent eventually, whatever he used for traveling had to be strong.”
+
+“So, Ashley… since you are looking for a way to cross the sea and back, and since it doesn’t seem like you want it to be a onetime thing, why don’t you go look and see if you can figure anything out about how the Champions got around? The systems did some cleaning and repairing, but I don’t think they took anything away,” Derek explained.
+
+“That… is a fantastic idea!” Ashley half-shouted with a smile. “Come on, Ryven.” She motioned to the duke. “Let’s go find out how they teleported.”
+
+“Fine…” Ryven sighed but made a barrier and hopped on it. Ashley jumped on, and then the two took off.
+
+“I think she’s using him for his transport,” Marrick said.
+
+“She is,” Derek replied with a shrug. “If I could have a driver take me anywhere I wanted to go, I would do it too. Unfortunately for me, anything like that is now way too slow.”
+
+“It all goes back to patience,” Marrick said. “Just because you can get where you want to go quickly doesn’t mean that you should get there as fast as possible. Sometimes, it pays to go the long way.”
+
+“Yeah…” Derek rolled his eyes. “That way, you end up alone and hovering over the middle of the ocean with giant sea creatures trying to wait you out.”
+
+“I didn’t say it was always better that way,” Marrick replied with a shrug.
+
+“Whatever,” Derek laughed. He looked out from the top of the wall and into the city. There were people rushing behind Ashley and Ryven as they floated through it. Once again, Derek was glad that Ashley was there to do all the menial things.
+
+“Did…” A feminine voice sounded from beside Derek and Marrick, so they both turned and looked at where it was coming from. “Did you all forget about me?”
+
+“Forget?” Derek looked at Vendra, who was still very sullen, but now she had some other emotions appearing. “No, I didn’t forget about you. There was just nothing left to discuss with you.”
+
+“Who is this?” Marrick asked as he finally directed his attention toward the woman.
+
+“This is Vendra,” Derek said. “One of the assassin Guardians.”
+
+“Oh,” Marrick replied with a nod. “One of the ones defeated by Jace, then?”
+
+“Yes,” Derek replied.
+
+“I see,” Marrick nodded at the woman. “So, what are your plans, young lady?”
+
+The woman looked Marrick up and down, then shrugged.
+
+“She’s hoping to get selected for the System Watcher class so she can go to the other system and take revenge on Jace,” Derek said, then explained how the class was being passed around for certain people to choose from since the old elf wasn’t there the last time they spoke about it.
+
+“Take revenge on Jace? In the other system?” Marrick frowned as he looked at Derek. “But you…” he started, but when Derek shook his head, it seemed to click. “Oh… never mind. Yes, that is certainly a plan that could work if the systems are anything like we believe they are.”
+
+“Exactly,” Derek said.
+
+They waited on top of the wall for a good while longer—Derek wanted to stay until Ashley and Ryven finished up with the communication and travel items that Holcom had used. Surprisingly, something happened while they were in the middle of it.
+
+“It’s here!” Vendra shouted. “Yes! I accept the class!”
+
+Before Derek or Marrick was able to say anything, the assassin was covered in a bright light. The woman was then lifted into the air, which caused quite a scene. After some time, she was slowly brought back down to the top of the wall.
+
+“Interesting!” Vendra said as the light disappeared from around her. “There are so many options now…”
+
+“What are they?” Derek asked, intrigued.
+
+“That is for me to know,” Vendra said, then snorted and turned her nose up. She went quiet for a moment, then sighed. “But I cannot use or view any of the options while I am currently part of the Davenresh System.”
+
+“Sounds like you need to go gather your things for travel,” Marrick said.
+
+“What things?” Vendra snorted again. “Anything I need, I already have with me. No, all that is left is for me to go. Then I can find the asshole who killed Aria. And I’m not giving him a chance to build up that rage I saw him using during his fights. He won’t know what killed him.”
+
+“If you say so,” Derek replied with a shrug. “Be careful, though,” he said. “He’s more formidable than you would think.”
+
+“We’ll see,” Vendra said. Then, once again, she was surrounded by a bright white light. This time, however, once the light vanished, she was also gone.
+
+“Looks like they have their new System Watcher,” Marrick said once she was gone.
+
+“And I don’t think it’s an upgrade,” Derek replied with a sigh. “It really did go through all the Guardians with that prompt before it moved on to any of the Champions. That’s a shame. A couple of them may have made for a decent System Watcher… depending on what exactly that is.”
+
+“But not her?”
+
+“Not even in the slightest,” Derek said with a snort. “Her attitude is as bad, or maybe even worse, than that Darvin guy. That woman was a typical assassin—not like some of the higher-ups from the guild. If I weren’t here, I have no doubt that she would have tried to take out Ashley and Ryven.”
+
+“She was radiating quite a bit of anger and bloodlust,” Marrick replied. “Maybe we should have dealt with her.”
+
+“But it will be quite the practical joke on the other Champions—or council members, I should say,” Derek said.
+
+“What do you mean?”
+
+“I mean that she is in no way a good fit for whatever it is that she just accepted. The only reason it was offered to her was that she was on the winning side. And I imagine that when we speak to the other Guardians, they will all have turned it down,” Derek explained. “And even when it made it to Vendra, she accepted for one reason only, and that was revenge. But if she’s at the top of the pecking order when it comes to that system now, those Champions are going to be in for a struggle unless an… accident happens.”
+
+“And with an assassin like her?” Marrick said. “I’m sure she will be looking out for any accidents that may come her way.”
+
+“Exactly,” Derek said. Then, he stretched his arm out.
+
+“What are you doing now?” Marrick asked.
+
+“What else?” Derek asked with a chuckle. “I’m going to go pick up Jace. Or do you think I should let the two of them go at it and see if he comes out alive?”
+
+“Either is fine,” Marrick replied with a smirk. “If you go get him, I may just have to beat his ass myself. Since evolving, I don’t have those stat limitations anymore. And it feels like I’m getting more out of what stats I do have.”
+
+“I forgot to ask,” Derek said after being reminded of the man’s evolution. “Did you end up with a Mythical class?”
+
+“I did not,” Marrick said. “But I can almost feel it. Like I’m missing some minor thing, then my class will change.”
+
+“And it really will,” Derek said. “Avery did that. He had an epic class, but after he completed some feats—in his case, it was bonding with Lyra—then, even though he was at level 250 and well past his last class upgrade level, the system rewarded him with a legendary class. So, who’s to say that it can’t do that with a Mythical class, too?”
+
+“It will be something to work towards while I think about what I’m going to do with this newfound future of mine.”
+
+“That’s the spirit,” Derek replied with a smile. “Now, excuse me. Jace really isn’t good against assassins if he isn’t prepared, and I don’t think I want him dying just yet.” Finally, Derek grasped at the space in front of him and ripped it open. He covered himself and Silvi with a layer of void. “Will you come help me get Jace?” he asked his companion.
+
+“Kay!” Silvi’s voice chirped from the communication stone.
+
+“Great!” Derek said. Then, “Actually… how about you create your pot, then jump inside? There is something I would like to try. Make sure you keep the thing sealed well.”
+
+“Mhm…” Silvi agreed, then a pot appeared. The bunny hopped inside, then the lid floated up and onto the top of the pot. Soon, the latches on the pot secured the lid in place, and they were ready. ‘Ready!’ Silvi’s voice chimed in Derek’s head.
+
+“Good,” Derek said. “Marrick, watch over those two while I’m gone. It shouldn’t take very long if what I want to try works.”
+
+“Very well,” the Old Hobgoblin replied. “I doubt there is anyone around who would try anything, but I will be here just in case.”
+
+“Thanks,” Derek said, then he jumped inside the void while holding Silvi’s small pot under one of his arms. “Now, let’s see…” He pushed Void Sense to its limit, then looked for Jace.
+
+He found Jace very quickly. The man’s aura was weak because of the distance, but compared to when Derek had looked for it the last time he visited Earth, it was practically a blazing sun. Derek smiled, then searched for the auras of all the Champions, and even Vendra.
+
+Looks like Vendra, Amelia, and Holcom are all in the same place, he thought. Jace is pretty far away from them, but that doesn’t mean anything with their teleporters. With everyone and everything in mind, Derek looked at the opening to the void he’d created, decided to leave it open to use on his way back, then took aim at Jace’s aura and used Powerstride in combination with Void Steps.
+
+It was extremely hard to control and difficult to know his exact progress, but he felt that he was moving through the void much quicker and better than before. Luckily, after already making the trip before, Derek had an idea of how using the skill was going to play out. He had to make some corrections at the end of his skill so he didn’t end up far away from any place he could travel to, but by the time he made it to Jace’s aura, only around a quarter of the time it took previously had passed.
+
+That is good to know, he thought as he reached his hand out. The journey was short enough that he didn’t even have the pressure inside his head yet. Finally, he grabbed and ripped the space open and walked out. “Jace! Your lift has arrived!”

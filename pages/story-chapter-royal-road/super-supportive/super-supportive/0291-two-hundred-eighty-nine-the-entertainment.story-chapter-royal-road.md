@@ -1,0 +1,275 @@
+---
+id: 7fd75ba6-327e-5581-bffa-9a110844b4fa
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY-NINE: The Entertainment"
+slug: 0291-two-hundred-eighty-nine-the-entertainment
+partOf: super-supportive
+position: 291
+ownLength: 4501
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3447515/two-hundred-eighty-nine-the-entertainment"
+royalRoadId: "3447515"
+---
+
+289
+
+******
+
+“Ro-den’s being a normal instructor now? Why? Is he afraid you’re going to bring the stick to class?”
+
+“Surely not. I’ve treated him generously. He received compensation merely for undoing what he should have undone anyway. And, also, I can’t turn one of the school labs into that kind of trap.”
+
+Stuart had called shortly after Alden woke up on Thursday. The conversation wasn’t a scheduled one, which had made Alden think something big was happening and jolted him to alertness much more effectively than his morning alarm.
+
+But Stuart hadn’t decided to go to his first binding today, and his family seemed to remain unaware that they’d lost an heirloom and raised a son who would use ancient magic to bully a teacher. Alden was impressed it was taking so long. He wondered if Stuart had lived a life so innocent that even when important things went missing nobody suspected it might have been him. Or if it was the same blind spot that had allowed Alden to visit their house that first time without being questioned.
+
+Stuart was acting nonchalant about the pending family drama, in either case. He’d just realized he and Alden might both have free time, so he’d traveled back to the siblinghold to use the Evul tablet for a visit. He was talking to Alden from his bedroom. A couple of the enchanted rings he’d been making for himself during their early long distance calls with each other were now finished. They floated in a cloud of display bubbles above his desk along with other small items.
+
+“I won’t say that Superior Professor Ro-den’s behavior is normal. My other instructors demonstrate knowledge-passion, as should be expected from people in their honorable position. And Ro-den usually does, too, though it’s a personal passion in his case and not something he wishes to transfer to his students.”
+
+Alden had put up the silencing tent so that they could talk about whatever they wanted. He’d just discovered that the walls of the tent were comfortable to lean against. His duffel bag full of gym supplies had been in hand when Stuart called, and now it was at his feet.
+
+“Ro-den did have favorite student projects when I was there working for him,” he said. “A few. Unless he was pretending to like certain things for some scheme I can’t understand, that could be considered a sign of instructorish knowledge-passion.”
+
+“I think he likes rarities. And chances to show off. And students talented enough to understand the showing off? But ever since you and I met with him that day, his classes have been boring.”
+
+“Boring?” Alden asked. “Him?”
+
+“No one has been <<tormented>> all week. Except for Eeaner, who torments himself by imagining these peaceful lab days are Ro-den’s way of lulling prey before an attack.”
+
+“Eeaner-ket sounds appropriately cautious to me. Maybe you should listen to him.”
+
+“My own theory is that Ro-den is giving our class his third attention.”
+
+That was a very Artonan way of conveying that someone wasn’t paying attention at all.
+
+“He may be heavily focused on the hide,” Stuart continued. “He’s aware I didn’t have permission to give it to him, so I think he’ll feel rushed to gain value from it. I don’t believe my parents would take back what I have promised, but he must have concerns about that. Or perhaps the hide has captured his thoughts simply because of its worth, and he now approaches knowledge too extraordinary to waste his mind on making class challenging and unpleasant for us.”
+
+“So not only did you get rid of a contract that was keeping me from talking, you turned Ro-den into a boring instructor? Are the other LeafSong students constantly chasing you down to thank you? Because I bet they would be if they knew it was your doing.”
+
+“I’m glad they don’t know. The event Eeaner and Bayab are brewing in their thoughts smells too crowded and focused on me as it is.”
+
+“What’s this event?”
+
+“The party I agreed to go to in exchange for your rings.”
+
+“Oh…no, I didn’t know about that. You bought my rings by promising to go to a LeafSong party? That was…” He was going to say “so easy,” but then he reconsidered. “Will you be all right? You don’t like the camaraderie of celebrants there.”
+
+“I liked the camaraderie of celebrants too much that time,” Stuart said. “This time I am wizened by my previous errors. I have made a list of things to be wary of.”
+
+“Maybe you should take someone with you. Like Emban.”
+
+“I have to share a student house with Eeaner and Bayab, and I have given my word; so I shouldn’t bring her. She currently has an interest in <<desiccating>> celebrations. Don’t worry. I’m prepared. What about you? How are your instructors? How is your training? I found myself wondering about what was happening on Anesidora to the point of distraction several times this week. That’s one of the reasons I wanted to talk to you.”
+
+Stuart stepped away from his desk and walked over to stand by his wall of windows. Other Alden had learned not to run at them, so they could be left uncovered.
+
+“I think if you lived where I could talk to you more easily I would be coming to you with my thoughts all the time,” he continued. “I’ve considered the possibilities of preservation magic more in the past days than I have in the rest of the days of my life combined. And I find myself evaluating every spell we discuss in class through your perspective…at least I try to. Would you like to learn how to call the small animals in an area toward you? Or send them fleeing? Would you like to learn the quickcrafting of wands? Or a spell that will make the paper shapes you fold as tough and flexible as thimbark?”
+
+“Now all I want to do is skip class and go to your house to learn how to toughen up my origami and banish bugs,” said Alden. “You’ve ruined school for today. But in seriousness, that’s a lot of thought put into me. Don’t let your own work suffer.”
+
+“It’s because I’m excited.” Stuart was still looking out into the trees. “About all this unlooked-for treasure. And I’m concerned with handling it right. What about your lesson with Instructor Warin-doyis? How did that go?”
+
+“Um…” Alden turned his head. There was nothing to see other than the green wall of the tent, but he could picture his Artonan-made tablet lying innocently on top of his desk. Like it didn’t hold evidence of the four different scripts he’d written, translated, and discarded for his storytelling turn tomorrow.
+
+“The first lesson was one of the best I’ve ever had,” he said. “Instructor Warin-doyis told stories almost the whole time, to show us the variety of things that could be done with his art. And they were all very impressive. I have some…doubts about doing great at it myself, though. I’m trying to modify a human fairytale for tomorrow. I’m not completely happy with the story, but finding words with the right nuance that I know I can say has been good translation practice. I think it could be fun. None of us should be able to do as well as the instructor, so it’s all right that my telling is going to be much, much less impressive than his, isn’t it?”
+
+“Why would you be seeking instruction from Warin-doyis if you were already as capable as he is?”
+
+“Exactly.”
+
+“Are you nervous about it?” Stuart looked intrigued. “I’ll listen to you while you practice if you want.”
+
+“I’m not really ready, and we don’t have that much time this morning. I do need to go to my combat class soon. That class is fine, by the way. We’re doing the same basic kinds of activities you’ve seen in videos I’ve shown you of last term. I’m taking a different approach for myself, though. Trying to focus more on movement and situational awareness. I’m using my trait a lot. You pointed out that I was stuck thinking about solo survival in the worst possible conditions, so I’m trying to shift away from that. Moving better will help no matter what you and I are fighting against in the future. I’m using simple things as shields and keeping them portable, so I have to physically and mentally perform better in the moment instead of pre-planning contraptions. Does it sound like the right thing for now?”
+
+“As long as you’re finding improvement, it’s good. I’m sure I’ll see you use what you’ve learned in many ways we can’t anticipate yet.”
+
+“Ideal entrustment situations aren’t easy to create in class, though.”
+
+“They wouldn’t be.”
+
+“I can reliably pick up a small puddle when Haoyu tells me to now, but it’s not the same as it was that time when you helped me do it.”
+
+Alden paused and considered his next words for a few seconds longer before setting them loose: “Esh-erdi and Lind-otta have been kind to me. What do you think might happen if we told them the truth? Or even just some of the truth? What if I told them only about my skill, for example?”
+
+Stuart’s expression twitched in momentary surprise before settling into thoughtfulness. “Is that something you want to do?”
+
+Alden looked down at his duffel bag. It smelled like Galeblaze. Everything that came within twenty yards of the locker rooms now smelled like the fragrance Vandy had given them all for Christmas. A few people sprayed it in weaponizable quantities. “It would be good to have knights like them on our side. They could… ”
+
+What was it I hoped they would do?
+
+“Them welcoming me, like you have, might be the main part of it. It would be a relief, and they could help.”
+
+“You want someone other than me to acknowledge you as a knight,” Stuart said.
+
+Right to the point.
+
+“Even if they just acknowledged me as an Avowed who plans to go with you to Goldbush and take the kinds of risks you will. And do the kinds of things they do. If we told them about my skill, they’d know I’m likely to be useful. And then they’d…mark me as the useful guy I am on knight tellingbush. They’d let all the other knights know I’m allowed to join in with battle things, and that they should be nice to me, and….The more I talk, the more I realize I don’t know what I’m talking about. Please save me from myself by interrupting before I have to admit this is more of an emotional decision than a practical one. I like them. They’ve helped me. Lying to them bothers me, and I want them to like the real me.”
+
+“You can tell them if you want to,” Stuart said. “I don’t know them well enough to be sure of what they will think or do, so I wouldn’t choose to tell them at this particular moment. But it’s your truth, and if you want to share it, of course I’ll help.”
+
+“You wouldn’t tell them?”
+
+“I decided not to tell my own parents,” Stuart pointed out. “I’m sorry I didn’t consider that you actually know Esh-erdi and Lind-otta better than you do my parents. I like them, too. Esh-erdi supports our friendship! He told me so at the oath ceremony I attended for Welcome End. And neither of them has spoken doubt about my ability to be a knight, as far as I’m aware.”
+
+“But you wouldn’t tell them.”
+
+Alden felt himself deflate at the news, as if it meant something more than it really did. Stuart saying he just didn’t know them well enough to anticipate them was fair.
+
+“It’s also because I don’t see much benefit to telling them some of the truth, which seems to be the fruit that has caught your eye. I need to think about this more, but my first worry is that telling them only about the nature of your skill will prompt them to do things that will almost immediately lead you into telling them everything else. If you’re not prepared for that…”
+
+“Do you think they’d try to start training me or something? And then I’d end up needing to explain the wizard part so that I’m not wasting everyone’s time?”
+
+“The ‘wizard part’ changes what you want and what it’s reasonable to expect from you. Only knowing the wizard part made me immediately more worried about what you would choose for your next binding because of how it affected my understanding of your timeframe. If I didn’t completely show the depth of my concern to you—  ”
+
+“You showed it,” Alden said wryly.
+
+Stuart had begun to pace his room. “You’d be doing the same thing with them but reversed. Right now, I assume they make no significant plans to aid you, or utilize your power, in the future. If you tell them the truth, they will have ideas about what should be done. If you tell them a half-truth, they can only have ideas that are wrong. And I don’t believe a half-truth will last long anyway. Hn’tyon Esh-erdi seems to have a curious nature.”
+
+“I understand. I’ll take it slower.”
+
+“You don’t have to just because it’s what I would do.”
+
+“I know. I didn’t think it all the way through.”
+
+“Maybe, when the time is right, they should be who we tell first instead of members of my family,” Stuart offered.
+
+“Once you’re a knight yourself.”
+
+“I’ll have a different standing. Doubts about me should fade. And you…you are still hoping to prepare yourself for a knight’s oaths, too? That hasn’t changed since we last spoke of it?”
+
+What a thing for me to be planning on, like it will be that easy. But Alden nodded. “Yes. If I can complete the ceremony like everyone else…and if they’ll let me try it…I want to.”
+
+“Being able to say that you’ve prepared for it and are ready should be recognized by every reasonable person. We are building ourselves a tower that is too tall to be denied by others.”
+
+“Right.” Alden paused. “How tall do we have to build it before we stop worrying about other people forcing us to do things their way instead of ours?”
+
+“I don’t know. But I’m hopeful that it is only a few stones more.” Stuart stopped his pacing. “I want them all to welcome me, too. It’s not quite the same—”
+
+“It’s similar enough.”
+
+They looked at each other.
+
+“Soon,”  Stuart said decisively.
+
+“Soon.”
+
+“Warin-doyis’s lessons will be so good for you! I was tutored in poetry performance for a year when I was younger to increase my language confidence and give me a way of socializing with simpler rules. This is the same sort of training! And I searched for his reputation. He is widely known for his art. We are fortunate he wanted to teach on Earth.”
+
+“Are you more enthusiastic about my storytelling class than my combat?” Alden said jokingly.
+
+“Yes, I am,” Stuart said. Not jokingly. “We’ll have chances to improve our skills every day, but we won’t find any famous performers roaming a corrupted land in search of students. And I have heard that good entertainers are welcomed in every weary group of knights. If you learn well, then people will be excited whenever they hear we’re coming to join their squads.”
+
+“Wait…are you expecting me to entertain our way to popularity? It’s only one class!”
+
+“One step becomes two becomes a walk around a world.”
+
+“You would not be holding onto this hope if you heard me deliver my custom Artonan versions of ‘The Frog Prince.’ I promise you.”
+
+******
+
+******
+
+“Floor on!”
+
+“Floor on!”
+
+Voices called the words throughout the MPE gymnasium, and Alden shouted back in reply.
+
+Foxbolt, who was the lead instructor for this course, explained the plan for the morning.
+
+The white floor had been divided into five rectangular slices that ran the width of the gym, and a sixth section at the end was broken into three small dueling blocks. Each student had to complete the challenge set for every one of the first five sections, and then they’d have a duel against an available classmate. After a single duel, they had to run through it all again with added conditions to make it more difficult.
+
+They were all familiar enough with the kinds of challenges that had been set and with their own individual rules and goals, so there were few questions. Class began quickly and without much complaining.
+
+This should be a productive one, thought Alden. Just settle in and work through the different sections at my own pace. I can push myself in several different ways.
+
+Foxbolt’s way of handling duels so far had been different from last term. She liked to have them happening in a small fraction of the gym while almost everyone was busy with something else. On Tuesday, Alden’s interface had informed him when he was supposed to break off from the group and go duel. Only a couple of times. Not everyone would get a chance every class. It was random, but the randomness took effect after instructor interference. Someone had to put you in the mix to be chosen.
+
+We put ourselves in the mix by reaching that end of the gym this time. Marsha will be down there waiting for an opponent before I select my shield.
+
+He thought Foxbolt’s tiny dueling section was an improvement over whole dueling-focused classes. Hotheads might not get as angry, and hurt feelings might have time to recover when the duels were broken up by other assignments instead of flowing straight into the next one-on-one fight.
+
+“What are you thinking about for your preserved object today, Alden? I have some suggestions if you’re having trouble choosing!”
+
+And that cheerful voice coming from behind him as he leaned over his duffel bag belonged to one of Foxbolt’s co-instructors. Luna Plim looked as eager as usual. A question mark made of water was rotating over her red hair. The movement of the finger that was making it spin in place was so slight that he wouldn’t have noticed the gesture if he hadn’t been looking for it.
+
+“Just a backpack I think,” said Alden, removing the backpack he was talking about from his duffel bag. It was nothing unusual, a gray one with black zippers he’d found discounted at the campus store last week. “I’ll fill it with sand.”
+
+Alden had requested more ground this term, and he’d been pleased to get it. Fragment was another co-instructor for this class, which made it easier to accommodate him. And it didn’t hurt that Maricel was back. Sod and soil had been making frequent appearances. Today, he could see that they had one completely dirt-floored dueling block, but nothing else was available in the other sections he’d be running through.
+
+Goldbush had a single settlement. Alden had been surprised to learn there was one at all, but settlement aside, the planet was lacking buildings. There would be ground absolutely everywhere. He needed to practice moving on it way more than he needed to practice moving without it, so when the school didn’t provide enough of the stuff, he’d haul his own.
+
+“Excellent!” Instructor Plim said. “Let’s have you play with the way the motion of the sand can alter your own movements whenever you release your skill’s hold on the backpack.”
+
+“You mean like running or jumping and dropping preservation so the weight shoves me forward a little more.” He’d done that kind of thing before, like when he’d used heavy bags to yank himself out of Max’s traps.
+
+“That’s only the beginning of the possibilities!”
+
+This is why she’s cool.
+
+“I need to go talk to a couple more students and then wash people out of the fourth challenge,” she said. “But send me the exact weight of the sand you put in your backpack on each run so I’m clear on what I’m seeing when I review your footage. Bye for now! Be creative!”
+
+And this is why she’s dangerous.
+
+She wanted the exact weight of the sand, which wasn’t a big deal by itself. But on the first day of class, she’d suggested that having a Sway help him recapture the mental state he’d been in as Instructor Klein approached him and the dog crate might be a good idea.
+
+He’d wanted to take one of her classes, but then he’d heard some things about them around campus and started to worry that he couldn’t hide from her if they spent much time together. She had students in her small courses do weird experiments to test the limits of their skills. He was afraid she might ask him to preserve something he didn’t know to be cautious about, and he’d come across as too much of a marvel.
+
+‘Use your skill on this very ordinary rope, Alden….Surprise! It’s actually a bungee cord, and there’s an elephant on the other end. And now I’m going to write a paper on you that will reveal the true power of Rabbits!’
+
+So he’d decided to avoid that headache, only for her to end up teaching him here in gym. But at least here she had forty other new Avowed to think about. She seemed pretty fascinated by Writher, which was nice for Lexi and for Alden.
+
+He was glad he’d already been leaning toward a less contraptiony gym experience for this term before he found out she was one of the teachers.
+
+When they’d asked him to choose his general tool type for the next few months, he’d actually been more interested in limiting himself than this group of faculty was. Other than Foxbolt, Plim, and Fragment, there was just Ivanova as a regular. At least one more instructor was usually around helping monitor, often but not always Klein.
+
+Alden was focusing on easily portable shields that didn’t cover his whole body and didn’t do anything too fancy. He’d use a sharp edge if the shield had one or fill it with sand if it was a backpack, but no explosive pre-planned surprises or invisible threads glued to the shields to stab people.
+
+For weapons, he carried a sling and a fixed blade knife Ignacio had given him when he asked for knife advice. Neither were fantastic weapons in his hands. He just liked the sling and felt like he might find at least a couple of opportunities for the knife. The more important thing about both of them was that they were stand-ins for his auriad. If he didn’t have time to put a rock in a sling and aim it at a problem, then he wouldn’t have time to put his auriad in his hands and aim it. Or so his thinking went for now.
+
+I’m planning to fight alongside someone. I’m not the person punching tunnels through everything that threatens us. That’ll be Stuart, and he’ll be super fast at it once it’s his skill.
+
+“Hey, Lexi,” he said, dragging the backpack full of sand toward his roommate, who’d also been delayed by Instructor Plim until a second ago. “Would you entrust me with this backpack?”
+
+“Okay.” Lexi was frowning at the tip of Writher’s chain.
+
+Alden hooked one arm through the straps and preserved just the bag as he lifted it. It was a fine lightweight option for a shield. Lots of great spots to grip it.
+
+But a knight or an Avowed sent officially into chaos would have better equipment than this, he told himself as he approached the starting line. An actual shield of some sort that then gets double protected by my skill? A morphable one. Something light as air and big as a shed. So if I’m preserving some random little thing in a bag like this, I’m probably not doing it primarily for my protection or Stuart’s.
+
+The first section they had to run through was a baton-stealing game. Each runner started with one baton almost as long as Alden’s arm, but to cross the barrier and reach the next task, they had to be in possession of two. It was already getting rowdy. He saw three different classmates shooting glances at him while he took a yellow baton from Ivanova. He briefly unpreserved, collected a fistful of sand, plunged the baton into his backpack, and zipped it most of the way shut again. Part of the baton still stuck out the top, but it was a smaller target now.
+
+The backpack’s not protecting me and Stuart. We’re protecting it. So it must be something really important we’re in charge of looking after. I’ll only use it to shield us if that’s what it takes to survive. Dodge attacks. See everything so I can react fast enough. Reach out with my senses.
+
+That last was wishful thinking. He could feel his classmates doing magic if he wanted, but with twenty of them racing around for the baton game, noticing something relevant wasn’t going to happen. With smaller numbers, in slower situations, he’d try to get somewhere with that.
+
+There are moments on an obstacle course run that would be opportunities for that kind of sensing. Man, I really want Ash to accept our strategies, so I can try.
+
+He banished that thought from his head. Coursing strategy approval was during his next class period. Runs for that class were tomorrow.
+
+Here and now, he had his mission.
+
+Astrid had one baton. She was trying to look like she wasn’t going to attack him when he joined the battle, but she was totally going to attack him. He brought his backpack closer to his chest.
+
+Got to protect it from these demons.
+
+Kon had just gotten bowled over by Haoyu. His baton was rolling for a second before Haoyu snatched it up fled with it. Almost immediately, an arrow whizzed toward one of the two batons in Haoyu’s hands.
+
+Got to keep an eye on the fragments of exploded demons Stuart’s making, too.
+
+I’ll keep a demon from biting off his foot while he’s not looking, keep whatever we’re transporting in this bag safe, and I won’t die myself. I’m not the entertaining one, you dork. We’ll be such great knights neither of us has to be the entertaining one.
+
+“Going soon?” Instructor Ivanova prompted him.
+
+“I am,” said Alden. “I’m just deciding how it’s going to be.”
+
+She nodded and kept walking.
+
+Kon got up and yelled after a cheering Haoyu before hurrying back to the starting line to collect another baton from Ivanova so that he could go again. Alden caught his eyes, and Kon smiled. He pointed at Alden’s baton and made a beckoning motion.
+
+Not while I’m protecting it, you’re not.
+
+Alden shook his head at Konstantin and ran into the fray.
+
+******

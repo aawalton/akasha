@@ -1,0 +1,271 @@
+---
+id: 1c6a9d7b-24ad-5cc3-ac24-e7f93e79896f
+page-type-slug: story-chapter-royal-road
+title: "THIRTY-FIVE: Stuart"
+slug: 0035-thirty-five-stuart
+partOf: super-supportive
+position: 35
+ownLength: 3565
+unit: words
+publishedAt: 2023-05-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1209316/thirty-five-stuart"
+royalRoadId: "1209316"
+---
+
+It took Joe around a minute and a half to handle the mishnen.
+
+He pulled something that looked like a cigar case out of his pocket. Inside it were slender glass tubes full of different substances. He selected one filled with murky gray liquid, then took a pair of black rings from one of his fingers. When he slipped them onto the vial, they locked into a set of grooves that they’d clearly been designed for.
+
+The professor turned each ring carefully, obviously trying to align them with each other in a specific way. When he was satisfied, he clasped the vial between both hands and stared into the distance for a few seconds, murmuring something under his breath. After he’d finished, the liquid had turned several shades paler, and it had a pink sheen to it.
+
+He dumped it unceremoniously into the pool, and within moments, the clear water was roiling with the mishnen’s violent death throes.
+
+Until that moment, Alden had been busy trying to convince the wounded Artonan boy that his personal “trial of suffering” was over now, and there was no good reason for him to refuse Alden’s help in favor of heroically bleeding all over the jungle. It was proving surprisingly difficult, so he took a short break to stare at the mishnen’s brief but agonizing end.
+
+He felt sorry for the creature. Even if it did eat people, it had probably been swimming around on its own world minding its business until Jel-nor and company had brought it here.
+
+Just before the mishnen died, there was a shrill sound, and violet lightning crackled across the surface of the pool. Then everything went quiet.
+
+Joe tucked the empty tube back into its case, then looked around at the assembled teenagers. <<Well?>> he said in a harsh tone. <<Go get it.>>
+
+None of them budged.
+
+Alden couldn’t blame them. Whatever he’d poured into the pool didn’t seem like something you should swim in.
+
+<<The last one in will be in charge of collecting and preserving the organ responsible for the light show just now. You won’t enjoy the method required even a little bit.>>
+
+Jel-nor rushed into the water, and the others were hot on her heels.
+
+“I don’t think he meant you,” Alden said exasperatedly as the victim he was supposedly in charge of struggled to sit upright.
+
+<<Superior Professor!>> the boy cried. <<You can’t assign such a dangerous task to them for my sake! A prosthetic appendage will be enough. I do not mind—>>
+
+“Why is the assignment I gave you still so vocal, Alden? I understand you may find him amusing, but—”
+
+“He won’t entrust himself to me,” said Alden, waving his arms to gesture at the injured boy. “I tried to pick him up, but he just flails around and shouts a lot about how he can endure more pain.”
+
+He’d never imagined helping someone with a serious injury would require so much begging on his part.
+
+Joe sighed.
+
+“Normally, I would suggest waiting until he passed out, but I think he might not unless he wants to. He comes from…a rare background. And he has no doubt received a number of uncommon body modifications by this age. He might be able to maintain control of his awareness until he actually dies.”
+
+He marched over, clasped his hands behind his back, and looked down at the boy with a pleasant smile.
+
+<<Stu-art’h,>> he said. <<If you were anyone else, we would drug you or hit you on the head with a rock until you were sufficiently addled for this fine young Avowed to give you aid. Alden here is trying to use his skill to alleviate your pain and prevent further damage to your body. Why won’t you be a good lad and let him carry you?>>
+
+<<I can not leave the battlefield until everyone else is out of danger,>> the boy replied with such wide-eyed seriousness that Alden had to wonder how he and Joe could be members of the same species. <<It’s my privilege to serve the Triplanets with my every—>>
+
+<<This isn’t a battlefield, Stu-art’h. This is a wildlife preserve. You didn’t lose your foot to an enemy of the Triplanets. You lost it to an alien animal on the restricted summons list. One that can’t emerge onto land, by the way, which means you must have gone into the water with it. Like a fool.>>
+
+I can’t believe his name is Stuart, Alden thought. It was pronounced almost exactly the same. He looks like a Stuart.
+
+Joe bent lower to stare into Stuart’s metal-ringed eyes. <<All of your companions are about to form nasty contracts with me in exchange for having their futures un-ruined. You have an un-ruinable future thanks to your lineage. Even I wouldn’t dare presume to blackmail your father. Don’t you think you should be ashamed of yourself for blathering about your honor when you’re the only one here who won’t face permanent consequences for your actions?>>
+
+Alden was fascinated that he was getting to hear all of this. Stuart’s dad must have been one scary guy if Joe wasn’t willing to cross him.
+
+But Stuart himself seemed to be having a hard time processing what Joe had said.
+
+“You’re not being honorable. You’re being a prick,” Alden offered. “At this point, you’re just making a difficult situation worse for everyone else.”
+
+Joe gave him a startled look. But after a moment, he nodded. <<Yes. You are being selfish.>>
+
+For a moment, it seemed like even that wasn’t going to get through, but finally, the boy nodded. He turned his pale face to Alden. <<I will submit myself to your care, Ryeh-b’t,>> he said. <<For, the sake of my—>>
+
+For the sake of what, Alden didn’t know. He’d already swooped down on Stuart, and lifted him bridal style.
+
+“Shit,” he said, adjusting Stuart’s weight and bringing him closer to his chest as he took a step. “I noticed this when I tried to pick him up before, but I thought it was just because he was fighting me. This guy’s heavy for an Artonan.”
+
+It was weird. He looked skinny, and he was shorter than average.
+
+“If the strain on your power is likely to be a problem, let me know right away. I’d rather get the foot and have it go to the healers with you—”
+
+“It’s not that. The skill drain’s not terrible. It’s him. Has he got lead-lined clothes or something?”
+
+“Oh,” said Joe. “It’s most likely his bones. They’ve probably been enhanced.”
+
+Alden grunted. “Is he like an Artonan super soldier or something? He said he was going to be a knight.”
+
+“Something like that,” Joe said vaguely. “Push yourself but not to the point of exhaustion. It will take us a short while to prepare the appendage.”
+
+Alden didn’t understand why the severed foot might need to be prepared, but he nodded and kept slowly walking around, trying to find the easiest way to hold on to his passenger while he avoided tripping over tree roots and attempted to ignore the fact that he was walking around the jungle in nothing but a soggy turtleneck, his underwear, and a single sock that was on the verge of falling off.
+
+They don’t tell you it will be like this when you get powers. It’s not like I’m not happy to help someone, but I didn’t think I’d be feeling quite this awkward while I did it.
+
+His arms were burning. He should have asked Stuart to climb onto his back before he activated the skill. That’s what he’d been doing with the lab assistants lately.
+
+He almost set the boy down to do it, but then he saw the size of the blood pool on the ground and reconsidered. Just because Lancelot here seemed unnaturally hearty, it didn’t mean there were no limits. What if Joe was right and the guy would go on acting more or less okay until the moment he keeled over dead?
+
+Alden gritted his teeth and kept going, comforted and energized by the knowledge that he wasn’t the only one suffering. The examinees had finished dragging the mishnen out of the pool, and Joe had started barking orders and passing out knives. He kept an alarming number of scalpels on his person.
+
+The smell when they sliced the creature open was ghastly. Alden’s eyes watered even though he tried to get some distance from the disgusting project.
+
+He kept waiting for someone to pull out a recognizable foot from whatever part of the monster was its stomach. But all the students just kept dropping little chunks of meat onto the silvery fabric tarp Joe had magically produced from one of his pockets.
+
+Gradually, Alden came to the horrifying realization that the chunks were Stuart’s foot. Apparently the mishnen’s digestive system worked like a garbage disposal. Even on this guy’s enhanced bones.
+
+How are they going to fix that? Surely there’s not any point?
+
+Magic was magic, but this…
+
+He’d stopped walking for too long and Stuart suddenly said, <<—friends. Thank you.>>
+
+He was finishing the same sentence he’d been in the middle of when the preservation had activated. Alden hastily took another step before the poor guy could see how gruesome the situation was.
+
+The chunks of flesh and bone were gathered into a pile, and Joe coated them with something from one of his vials. Then he started questioning the students about which of them could perform <<untranslateable>>. When none of them answered, he shouted at them, and Jel-nor finally raised a hand covered in slime and blood.
+
+<<I thought as much. And it’s appropriate,>> the professor said, <<since this is primarily your fault.>>
+
+Then he called out to Alden. “Bring him over here please!”
+
+They had him lay Stuart down beside the horrid pile, with the injured leg pressed against it. Alden tried not to look, and when the Artonan teen started struggling to sit up and see what was going on, Alden automatically pressed him back down onto the ground and slapped a hand over his eyes so hard that it probably qualified as an assault.
+
+Everyone who wasn’t off in the bushes crying or being sick stared at him.
+
+“Sorry!” he said. He was still holding Stuart down with almost his full bodyweight, and his voice came out in almost a squeak. “I didn’t want him to panic.”
+
+<<Are you sure you’re not panicking?>> one of them muttered.
+
+<<I am a son of—>> Stuart began.
+
+<<Yes, we all know who you are,>> Joe said quickly. <<Being involved in an illicit summoning would bring great shame to you I’m sure, and great bother to the rest of your family. So we’re going to make it look like you were injured in a duel instead.>>
+
+<<I could not claim a false victory!>> Stuart’s shocked voice was slightly muffled since Alden was crushing him.
+
+<<You lost a foot,>> said scholarship guy. <<Nobody’s going to think you won the duel.>>
+
+<<Jel-nor,>> said Joe, <<let me give you a few pointers. You’ll need to—>>
+
+The translation suddenly cut out. Suprised, Alden looked up at Joe. He’d stood, and he was gesturing from Jel-nor to the pile of foot. She asked a question, and he answered it animatedly.
+
+Alden recognized his teaching-mode at once.
+
+You’re real petty, you know that? he thought at the System. I’m going to learn to speak Artonan flawlessly and then laugh at you when you drop the subtitles.
+
+He wondered if the setting that kept it from translating things it considered to be official magic lessons was universal or if it was a policy specific to the university. If he accidentally overheard something educational when he was off campus would the same thing happen? Surely the Artonans had to know that having the System translate almost everything but school made them look absolutely awful?
+
+Huh. Maybe they actually don’t? They had some pretty strict traditions about classroom behavior even for their own people, after all.
+
+A minute later, Jel-nor’s lesson was over, and everyone drew back from her, Stuart, and the pile of foot. A few of them picked up the edges of the tarp and lifted them almost like they were trying to hide behind them.
+
+“No, you stay there, Alden,” Joe said. “It’s best if someone holds him down, and it seems like you’ve got a lot of enthusiasm for the job. I thought you’d broken his nose for a moment.”
+
+<<What’s happening?>> Stuart asked. He still had not a drop of fear in his voice.
+
+I have no clue, thought Alden.
+
+“I’m sure it’ll be fine, man,” he said bracingly. “And then we’ll get you to a House of Healing.”
+
+<<Jel-nor, be careful not to miss,>> the girl who’d been helping stabilize Stuart earlier whispered.
+
+Miss?
+
+<<I will not miss.>> Jel-nor unwound a piece of gold thread from her dark hair.
+
+“Keep still, Alden,” said Joe from a concerningly large distance away. “And keep him still.”
+
+Stuart spoke up again. <<What spell are you—?>>
+
+Then Jel-nor started to chant, and Stuart stiffened up. For a second, Alden wondered if that was what the spell did, but Jel-nor kept going. As she chanted, she wove the string like a cat’s cradle with startling speed.
+
+Stuart’s breath started to come in sharp gasps. His hands shook.
+
+“You’re totally fine,” Alden said, though he had no idea if it was true. “You’re doing okay. This is fine.”
+
+It only took the girl a few seconds to complete the spell from start to finish, but it was a very long few seconds.
+
+The beautiful string pattern Jel-nor had woven flared white, and she aimed the center of it at Stuart’s lower leg.
+
+The expression on her face was hard and focused. She dropped string from a few fingers, and the design tightened into a new shape. A sharp, shining X.
+
+The pile of ruined flesh, and an additional three inches of Stuart’s leg, blasted apart before Alden’s eyes. Blood went everywhere. It spattered against his face, his hands, his hair. A tiny, hard shard of bone hit his cheek and fell onto the Artonan boy’s chest.
+
+Ohgodohgodohmyg—
+
+Someone pulled him off the boy, and Joe was shouting something about picking up all the pieces as quickly as possible, and then Alden was being shoved into the pond.
+
+For the first time since he had arrived on the scene, Stuart was screaming.
+
+Someone dunked Alden’s head under the water. His mind cleared enough for him to have a coherent thought through his shock: These people are all insane.
+
+He sputtered to the surface and found himself eye-to-eye with Jel-nor. She was the one who’d dunked him. And herself. They were both still covered in gore.
+
+<<You must wash it all off before you return to help him,>> she said in a tight voice. <<It would be difficult to explain why you were present for a duel. If you find any solid pieces, collect them and bring them to us.>>
+
+As an example, she plucked a tiny diamond-shaped piece of Stuart out of Alden’s hair and showed it to him. Then she retreated from the water, and he watched her run off to join the others.
+
+Joe was leaning over Stuart now. The guy had finally fallen unconscious.
+
+Alden sank back down under the water. He gave himself permission to feel self-pity for a few seconds.
+
+I want to go home. I really, really want to go back home.
+
+But he couldn’t. So he scrubbed the worst of the blood off, collected the pieces as he’d been told, and went back to pick up his charge.
+
+Who was injured worse than he had been when Alden arrived.
+
+This was not the way he’d seen his afternoon going.
+
+Several minutes later, Alden was teleported directly to the emergency department of a House of Healing. He arrived in a large, fancy teleportation alcove. He was carrying Stuart, and a plastic baggy full of Stuart’s foot was shoved into the boy’s pocket so that it was being preserved as well.
+
+Which seems virtually pointless considering it was eaten, blown apart, and scattered across the forest.
+
+But hey, bright side—they wouldn’t have bothered to go to this much trouble if the parts couldn’t be put back together again, right?
+
+Alden’s coat had been retrieved before he departed but not his pants or his shoes. He’d lost his last sock.
+
+These things happened.
+
+The second he arrived in the emergency department, chaos surrounded him. Masked Artonans in dark-colored scrubs appeared with handheld equipment and a gurney. The one in charge ordered him to put the patient on the gurney, and then seconds later, apparently after getting some notice about what his skill did, ordered him to pick Stuart up again.
+
+<<That’s an extraordinary talent,>> the woman said, her eyes rocketing around in two different directions behind her glasses. <<We might want you to hold him for a while so we can prepare for him without worrying about tissue degradation. Do you need a stimulant or an accessory to do that?>>
+
+So he’d be getting doped. That was fine. He’d forgotten to take his medical team pills anyway. Because he’d been dropped in the water.
+
+“I don’t know what an accessory is. My skill is fine, but my muscles are getting tired. I don’t think I can carry him well for more than a couple of minutes.”
+
+It took her approximately a nanosecond to jab a tiny hypodermic into the side of his neck.
+
+It hit quick. The lights were all suddenly too bright, and Alden felt like he could fight a gorilla.
+
+<<Do you need something for your nerves?>>
+
+“Nope,” Alden said, pacing back and forth. “All good on that front. I think my panic buttons got pressed too hard, too many times today, and now they’re stuck in the off position.”
+
+She looked confused, but then she scanned him with some kind of metal loop she wore around her neck and shrugged.
+
+They gave him his own empty room to pace in. It looked similar to the rooms in the House of Healing in Chicago, but there was a lot more equipment lining the walls.
+
+Alden took it all in. He wondered how things were going back in the jungle.
+
+“I think Joe is about to give all of your friends a tattoo and make them pay up somehow in exchange for keeping quiet about this,” Alden told Stuart’s petrified body. “It must be crazy important for you people to get into wizard school, huh?”
+
+Alden understood how they were going to explain away the destroyed foot now that he’d seen the contents of the baggie. Whatever spell Jel-nor had cast tore all the pieces into tiny, distinctly clean-cut diamond and triangle shapes. So the foot no longer looked roughly digested by the mishnin; it looked like it had been tidily chipped up by a combat spell.
+
+Alden guessed maiming someone in a duel must not have the same consequences that summoning that thing did.
+
+Joe had come up with the idea awfully swiftly, hadn’t he?
+
+Maybe he does this all the time. Maybe it’s his go-to, hide the evidence spell.
+
+About ten minutes later, someone came back for him. He didn’t feel even a little tired. They led him to the doors of an operating theater that was absolutely glowing with runes. He placed Stuart on another gurney, and the Artonan boy was whisked inside. Before the doors closed again, Alden saw an odd mix of people in scrubs and wizards’ clothes. One of them was holding a pair of giant yellow candles.
+
+<<Let’s see,>> the woman who’d led him to the operating room said, scrolling through a tablet. <<We should dip into my office. I think before we send you back to your assigned post, I should reverse the effects of the drug you were given. My colleague might have been a little generous with the dosage, given who the injured party was. Come this way.>>
+
+She collected supplies from a cabinet embedded in a wall and took Alden to a surprisingly normal looking office. It was cramped and full of books, papers, and miscellaneous junk.
+
+Alden took a seat in an uncomfortable swivel chair.
+
+Several minutes, and a shocking twelve needle sticks later, he felt absolutely horrible. Like someone had stretched all of his muscles a little too far and sucked out all of his energy with a vaccuum.
+
+<<That should cover it. You need to supplement B12 by the way. Keep an eye on that. And you can pick a gift or two from the bowl if you want.>> The doctor spun one of her rings to deactivate whatever hand-sanitizing feature it had on it and gestured to a glass dish full of things wrapped in brightly colored paper.
+
+Alden stared at it.
+
+<<Do human teenagers not get gifts when they go to healers? I’m a pediatrician, so I offered more out of habit than anything else.>>
+
+Alden’s temporarily exhausted emotions suddenly made themselves known again. His eyes stung.
+
+“My mom was a nurse in a House of Healing,” he blurted out. “We used to wrap the gifts for the gift bowl together.”
+
+<<Then you should take a few of them, shouldn’t you?>> the woman said gently. <<My secretary wraps them. She always puts the best ones in the red paper.>>

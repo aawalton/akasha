@@ -1,0 +1,151 @@
+---
+id: 97fb7052-68d5-5660-abdb-4da5ccb12d0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 337 : Eight or Ten"
+slug: 0038-chapter-337-eight-or-ten
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 38
+ownLength: 2233
+unit: words
+ownProgress: 2233
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2941204/chapter-337-eight-or-ten"
+royalRoadId: "2941204"
+markedReadAt: "2026-06-29T19:43:04.143Z"
+---
+
+Hell's bells, how can this day get any worse?
+
+What had started as an ordinary day had swiftly turned into a nightmare. As if the constant attacks from the mermen hadn't been enough to drive him from the ocean depths, now not even his secret lair was safe.
+
+Leon had simply been crafting and experimenting with the new class he'd received from a somewhat recent "tutorial quest" in the safety of his home when suddenly something had tripped all the alarms he had set up. At first, he thought it was a false alarm, as he spotted no incoming attacks or foes, but right when he was about to turn it off, he spotted a massive spider approaching!
+
+I thought the creatures of the deep were perturbing, but now there's this kind of monstrosity in the world!
+
+Utilizing his fortress, he had fired a warning shot, but not only had the spider evaded it with ease, but it had hastened its assault. Had the mermen sent this arachnid assassin? Leon wasn't sure, but it was clear that he or his lair was its objective.
+
+While he didn't want to waste the resources he'd painstakingly gathered, his safety was his number one priority. So, he began to truly control the fortress in order to eliminate this threat. But with each escalation of his own, the dreaded spider returned it with interest! The most shocking discovery was that the spider had access to magic.
+
+Magic!
+
+Leon didn't even know that it was possible for "monster" monsters to learn magic, as even the strangest creatures of the deep couldn't do that. He'd assumed it was something humanoids could do, as he'd seen the mermen and their human companions cast spells. Even his own abilities were only due to the utterly bizarre circumstance in which he found himself.
+
+Could this spider be like me?
+
+Leon considered it for only a moment before banishing the thought. This spider was utterly vicious and horrifying; it clearly lacked even the most basic decorum of previous humanity and wielded terrifying capabilities. If it were also previously human, wouldn't it have tried a more scientific approach, much like himself?
+
+The strange voice of the void, who had randomly decided to call himself "Unc" between their meetings, had told him there were others like him. In fact, he begged and pleaded with Leon to "befriend an elf slime," which sounded utterly absurd. Unc had even gone as far as to say he should try to find some slime cores as peace offerings!
+
+Leon shook away the troublesome thoughts and attempted again to rid himself of this foul spider. He even activated the mechanism to release lava from the depths of the dormant volcano, which was his secret weapon for any land invaders.
+
+Regrettably, that was not enough, and in a testament to its mindless zealotry, the spider refused to retreat and instead demonstrated more of its strange powers as it suddenly vanished.
+
+Invisibility?
+
+It was the first thing that came to his mind, as it was an especially fitting ability for an assassin. Yet he knew it couldn't be, as no amount of stealth would save you from the approaching lava.
+
+Did it go invisible to retreat?
+
+That sounded reasonable, but something was gnawing in the back of his mind. He activated the [Watchtower] ability of his fortress, which pinged the surroundings of the entire volcano with a scanning ability. It had a few different modes, but he had selected enemy detection this time, and soon a blip appeared in his mind.
+
+Leon quickly focused the fortress observation on the location, and to his horror, he found that not only was it the spider, but somehow it had
+
+That wasn't invisibility, this bloody spider can teleport!
+
+Now Leon was truly disturbed. This creature was far too powerful for even the mermen to control, but why was it after him?
+
+If not the mermen, mayhaps it came from that dungeon? That [Dungeon Master] did swear to get revenge on me…
+
+If that was the case, Leon truly regretted pilfering some of the beautiful stonework for his own creations. He'd thought he'd landed on a goldmine of resources, and dug to his heart's content, only for a disembodied voice to scream at him in rage.
+
+Leon could only sigh. The materials from that underground and underwater paradise were miraculous for his crafting and crucial for his development. If he hadn't incorporated some of it into his shell at the time, he would never have entirely escaped from the mermen's clutches.
+
+Thoughts of retreat crossed his mind, but he shook his head. This was his bastion, and he would stand his ground! It took armies and siege weapons to conquer a fortress, and this spider brought neither of those.
+
+Using [Fortress Command], he had the cannons swap to a different ammunition, something he had previously prepared to deal with any pesky avians that desperately sought to eat his juicy crab meat.
+
+Not only that, he also used [Tinker] to apply a temporary one-use effect to some of the ammo. He only had a few effects to choose from, but he thought magical resistance would prevent the spider from destroying his ammo.
+
+Let's see if you can withstand an anti-magic flak cannon, you vicious brute!
+
+Explosions echoed throughout the sky as his cannons fired their tinkered payloads. As expected, the spider tried to save itself with magic, but that wasn't enough, and the majority survived the acidic wave. Leon cheered as the bullets proceeded to pierce straight through the spider, like a hot knife through butter.
+
+Victory is mine, you cur!
+
+Yet, midway through the celebration, Leon noticed something was wrong. The spider's form began to fade away, as if it had never been there in the first place.
+
+An afterimage!? Is this a bloody ninja instead of an assassin?
+
+Dread filled him. Where was the spider? If it could teleport, could it appear straight into his lair? He desperately tried to scout the surroundings, but he was only one crab, and there were so many places it could be.
+
+Oh, for crying out loud! I need to use [Watchtower] again!
+
+It wasn't something he wanted to do, but he was forced to. [Watchtower] was still on cooldown, but he could override it by using another [Fortress Command]. His commands were precious resources that could only be recovered with time, a system separate from health, stamina, or Mana, but he had no other option.
+
+Instantly, his [Watchtower] found his foe, and to his relief, it hadn't infiltrated his lair. However, it was directly above it, and he focused the fortress observation on it. What Leon saw disturbed him, causing his body to shiver in disgust.
+
+It's… Crawling?
+
+Yes, the spider was somehow crawling through the air as if it were a web. He'd seen spiders spinning their sticky thread domains in the past, and this looked identical to that. The big exception was that this spider was spinning something entirely invisible even to his fortress's observation.
+
+Ordinarily, he would have thought that maybe it was just too thin to see, as even with the fortresses' enhanced observation, it might have been possible. However, [Watchtower's] effect hadn't expired yet, which elevated it to a whole new level entirely! According to the system's own description, it was supposed to be capable of penetrating through stealth, yet there was nothing.
+
+Trying to swallow the uncomfortable emotions that festered from the eerie display, Leon attempted to look on the bright side. If the spider was going to build a web, then it was a sitting duck for his cannons!
+
+If you're going to be a numpty, then don't blame me for taking advantage of you!
+
+Leon had no idea what the spider was plotting by trying to build an invisible web above his volcano, but even so, he concurred it was too far away to do him any harm. He felt so confident in his assessment that he let his cannons change their ammunition type at their standard rate while keeping a few flak cannons for his own peace of mind.
+
+To his relief, the gamble seemed to pay off as the spider had done nothing except continue to creepily crawl around. As soon as the cannons were loaded, he aimed and fired a single shot to test the waters.
+
+Watching with bated breath, he had the rest of the cannons ready to fire at a moment's notice. Yet, what happened next stunned him. The spider appeared to be acting strangely, and then suddenly the cannonball halted in midair!
+
+Leon was utterly gobsmacked; the spider could somehow break the laws of physics! Teleporting and crawling in the sky was bad enough, yet now it had somehow frozen his projectile!
+
+No, that can't be right, it must be a trick! Yes, of course, it might just be stuck in the invisible web!
+
+His confidence was brimming at his realization. He'd nearly fallen for the trick, but he'd seen through the smokes and mirrors! He activated [Tinker] again, this time setting a cannonball on fire before promptly firing.
+
+This time for sure!
+
+Yet, the same thing happened again: the flaming cannonball suddenly halted in the air. At first, Leon didn't panic, as he figured it would take time for the fire to spread across the invisible web; yet, the longer he waited, the more the panic began to set in.
+
+If that wasn't bad enough, the spider wasn't even reacting to the flaming ball, and when the fire went out, so did his last hope that it was secretly burning the web unbeknownst to even his foe.
+
+When he'd thought he'd seen everything, the spider then waved its legs around, and his two cannonballs disappeared! The bloody monster had nicked them!
+
+Okay, no more Mister Nice Crab!
+
+Not only did he pull out all of his reserve cannons, he used [Tinker] until his Mana was dry, giving every cannonball some extra resistance. Finally, in a spectacular display of explosive might, he had all of them fire in unison with an ear shattering boom.
+
+Seeing such a display, he hoped that this time would make the difference. Even if the webs were fireproof, they shouldn't be able to survive such massive firepower!
+
+But when the spider didn't even flinch, Leon felt like something was wrong. He secretly prayed that it was just too dumb and confident to realize its own folly, and stared so hard that he thought his eyes would burst.
+
+What happened next shocked him to his core. His volley of projectiles all vanished after crossing an invisible boundary, none of them even coming close to the spider. But before he could even react, the cannonballs returned to the world, except for one key difference—they were heading straight for the fortress!
+
+What!? Leon barely managed to cry out before the impacts and explosions of nearly two dozen cannonballs assaulted his fortress.
+
+Dozens of alarms went off, and he was on the verge of a panic attack until he made a sudden realization. A foe that could turn his own attacks against him was nigh unstoppable, but if he didn't attack that web, he was probably fine!
+
+Yes, as long as I don't attack the web, I should be safe. Furthermore, if it leaves the safety of its web, I'll immediately attack!
+
+It was a bit of a stalemate of a situation, but Leon actually preferred it that way. If he had time, he could reinforce the fortress, produce more defenses, potential new weapons, and also replenish his whole stockpile of [Fortress Commands].
+
+Just as he had regained some of his confidence and positivity, the dreadful spider did the unthinkable—it jumped. Yes, the spider leapt off its web and was headed directly down to its volcano fortress.
+
+Leon wanted to do nothing except hide in his shell and run away, but he had to make his final stand! The spider was away from the dreaded web, and this was his last chance to annihilate it.
+
+Go! All cannons fire! Throw the kitchen sink at it if you must!
+
+A barrage of cannons fired, including the flak ones. Leon then spent a [Fortress Command] to instantly reload them and fire again. Since the precious command point allowed him to do almost anything, he even threw in explosive charges and other failed or half-finished experiments he'd accidentally cooked up. In fact, he did this twice, spending his last resource, as he genuinely believed that this would finally put a stop to this monstrosity.
+
+Leon didn't want to celebrate too soon, as his pessimism had spiraled out of control after the repeated failures. Yet even he held out hope when he saw the onslaught nearing. He could almost taste the victory, and then it happened.
+
+What should have been projectiles exploding on the spider all suddenly started vanishing as if being sucked into a void. Leon couldn't believe his eyes. If the spider did its afterimage trick again, he would have accepted it, but this seemed downright unfair.
+
+How!? Leon demanded, but his only answer was alarms blaring even louder than usual.
+
+Leon turned his attention to the alarms, activating a secondary observation to temporarily display the issue. What he saw was countless projectiles, almost enough to blot out the sun, emerging from where that "web" was and aimed directly at his precious fortress.
+
+Oh… Bollocks…

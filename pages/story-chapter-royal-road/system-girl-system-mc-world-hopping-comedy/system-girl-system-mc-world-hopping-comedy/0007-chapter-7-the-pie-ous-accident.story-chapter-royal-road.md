@@ -1,0 +1,93 @@
+---
+id: 8c309a39-c4c1-5535-863e-00f6ae4c0621
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: The Pie-ous Accident"
+slug: 0007-chapter-7-the-pie-ous-accident
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 7
+ownLength: 1584
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2583226/chapter-7-the-pie-ous-accident"
+royalRoadId: "2583226"
+---
+
+We spent the better part of a day hiding in a thicket, my consciousness a whirlwind of post-mission analysis and despair. Korg, meanwhile, was utterly delighted with his new acquisitions. He’d spent hours just staring at the mace and hammer, occasionally bashing them together to produce a loud, unmusical CLANG. He’d named them ‘Smashy-Stick’ and ‘Boom-Stick.’ The nuance was lost on me.
+
+My initial assessment of the disastrous village visit was a categorical failure. But the more I processed the data, the more confused I became. We had committed several crimes, yet we had also successfully acquired two better weapons and, in a bizarre, roundabout fashion, provided fair compensation. My internal QA ticket for the event was a mess of contradictory notes: Log: User initiated unprovoked combat. Severity: Critical.Note: Combat encounter resulted in net positive resource acquisition. Re-evaluating severity.Status: It's Complicated.
+
+My primary concern was that we were now fugitives. A whole day had passed since we vandalised the blacksmith shop, and yet no guards came crashing through the forest. No hunting horns echoed in the distance. It was… quiet. My system senses, scanning the village from our hilltop perch, picked up no organized search parties. It seemed the dwarf, after finding the pouch of coins amidst the wreckage of his workbench, had decided that the terrifying bull-man who paid for goods and damages via demolition was a problem that had, for the most part, solved itself.
+
+The problem that hadn't solved itself was Korg’s stomach. The pre-mission boar steaks had long since been converted into energy, and the big red bar at the bottom of his vision was starting to flash insistently.
+
+Hungry. The thought was a dull, persistent drumbeat in my mind.
+
+Just as I was steeling myself for another mind-numbing boar hunt, a new scent drifted up from the valley. It wasn't the usual smell of woodsmoke and livestock. This was rich, sweet, and complex: baked apples, cinnamon, roasting meat, and sugary dough. My pre-loaded data identified it instantly. A festival.
+
+Korg’s head snapped up, his wide nostrils flaring. "Food," he rumbled, his voice filled with a reverence usually reserved for a sunrise. He started to lumber back towards the village.
+
+No, no, no, you idiot, we’re wanted men! Well, to be more specific a wanted Minotaur! I tried to warn him that this village is no longer safe, flashing a red, octagonal stop sign in his vision. He ignored it. The pull of a thousand calories was stronger than any UI I could design. Resigned, I could only prepare for the worst.
+
+As we re-entered the village, the atmosphere was completely different. The main square was bustling with people, stalls, and music. And no one was screaming. In fact, after the initial jolt of seeing Korg return, the villagers seemed more curious than terrified. Whispers followed us, not of "monster," but of "the bull-lad," and "the one who wrecked Grendel's shop." It seemed our chaotic transaction had become the stuff of local legend overnight.
+
+Korg, oblivious, was laser-focused on the source of the heavenly smell: a long trestle table piled high with pies of every description. A competition was in progress. A burly lumberjack and a wiry-looking halfling were stuffing their faces, cheered on by a small crowd. There was one empty seat.
+
+To Korg's peanut-sized brain, this wasn't a contest. It was a buffet with an available chair. Before I could stop him, he marched over, sat down on the reinforced stool with a groan of protesting wood, and grabbed the nearest pie.
+
+The crowd went silent. The lumberjack paused, a glob of cherry filling dripping from his beard. The event organizer, a portly man with a floral apron, looked like he was about to have a stroke.
+
+Then Korg took a bite. And another. And another. He wasn't eating; he was inhaling. The pie vanished in seconds. He reached for another.
+
+A child in the crowd giggled. Someone else let out a nervous chuckle. The lumberjack, seeing his lead vanish, frantically resumed eating. A new, absurd dynamic was born. The villagers, their fear supplanted by morbid curiosity, began to cheer. They weren't cheering for a competitor; they were cheering for a spectacle of nature.
+
+I was mortified. My plan for subtle information gathering had devolved into a public eating spectacle. All I could do was monitor his stats.
+
+[Hunger: 15/50][STATUS EFFECT: PIE INFLUX][-5 Hunger][STATUS EFFECT: PIE INFLUX x2][-5 Hunger][STATUS EFFECT: PIE INFLUX x3][-5 Hunger][ACHIEVEMENT UNLOCKED: PIE-OUS CONQUEROR (UNCOMMON)]You have won an eating contest through sheer gluttony. Grants Title: [The Gullet].
+
+[TITLE EQUIPPED: THE GULLET]Effect: +50% to Health and Stamina gained from food. -10% Hunger loss from food.
+
+He won. He has eaten a dozen pies, defeated two seasoned competitors without realizing he was competing in a competition, and earned a title that would turn his endlessly empty stomach into a black hole, but at least he got a big buff.
+
+Just as Korg was looking around for a thirteenth pie, a clear, amused voice cut through the cheers. "Well, it seems we have a new champion."
+
+A young woman stepped forward. She was tall and slender, with auburn hair tied back in a practical braid and intelligent green eyes that held no fear, only a kind of fascinated mirth. My system tagged her instantly: [Lady Elara, Human - Lvl 15]. The Baron's daughter.
+
+Okay, Ana. Critical moment. Do not let him eat the nobility.
+
+She held up a small, blue silk ribbon. "Congratulations, sir… Minotaur. You have truly earned this." She approached Korg, who watched her with the placid curiosity of a cow watching a butterfly. Standing on her toes, she pinned the tiny ribbon to the thick fur on his chest. It looked utterly ridiculous, a tiny splash of blue on a mountain of brown.
+
+Korg looked down at the ribbon, then back at her. A single, confused thought formed. Pretty.
+
+"Korg… pretty?" he asked, his deep voice soft for the first time.
+
+Lady Elara laughed, a bright, genuine sound that seemed to put the entire village at ease. That was the turning point. The fear was gone, replaced by a strange, communal affection. He wasn't a monster; he was their big, dumb, pie-eating champion.
+
+The rest of the afternoon was a surreal dream. The village children, emboldened by Lady Elara’s example, cautiously approached Korg. One brave little girl reached out and tugged on his tail. Korg just looked back at her, blinked, and let out a soft "Moo."
+
+And my internal systems went into a full-blown euphoria.
+
+This was it. The golden opportunity. He was accepted. He was a local celebrity. We could get quests, information, a safe place to rest—a real base of operations! But the entire fragile alliance rested on Korg not accidentally turning one of these tiny, fragile quest-dispensers into a fine paste. He had a Grace of 5 - Making him slightly clumsy. His feet were the size of dinner plates, and children surrounded him like seagulls seeing someone eating fries.
+
+Don’t move. Don’t move. Don’t move, I shrieked internally, trying to lock his motor functions through sheer force of will. A child was climbing on his back now. Another was trying to braid the fur on his legs. He was their living, breathing, cheese-scented jungle gym. I was living in a nightmare. Every twitch of his muscles, every shift of his weight, sent a fresh jolt of terror through my code.
+
+Just as I was about to overload from the stress, the inevitable happened. His Minotaur’s fast hunger gain wore off the effects of a dozen pies.
+
+Hungry.
+
+The timing couldn't be worse. I have used up all the raw meat in the inventory. I needed to get him a new controlled food source before he decided the children looked like appetizers. My senses scanned the square and found it: a bakery, its window filled with loaves of bread. Safe. Simple.
+
+I projected a pictogram of a steak directly over the bakery door. Food. Go there.
+
+When Korg saw the sign, he then gently shooed the children off him, grunted an apology, and lumbered to his feet. He started walking towards the bakery.
+
+Yes! It's working! A wave of relief washed over me.
+
+He took a step. Then another. Then his massive hoof came down on a greasy patch of cobblestone where a sausage vendor had spilled a skillet of oil.
+
+There was no traction. His near-average Grace provided no recourse. His seven hundred pounds of momentum had nowhere to go but forward and sideways. His arms pinwheeled in a comical, desperate attempt to regain balance. He slid, spun, and, completely missing the bakery, crashed through the flimsy wooden door of the quiet, unassuming tailor’s shop next to the bakery.My sensory feed was a chaotic mess of splintering wood and tearing fabric. When my perspective finally stabilized, Korg was lying in a heap on the floor, surrounded by bolts of cloth, chunks of wood, and overturned mannequins.
+
+And we were not alone.
+
+Standing around a table in the back of the shop were three men, their faces a mask of pure shock and horror. The table was not covered in thread and needles. It was covered in maps of the Baron's keep, detailed guard patrol routes, and a half-finished letter sealed with the Baron's own family crest—worn by his younger brother.
+
+My consciousness froze, the implications hitting me with the force of a physical blow. We had, with all the subtlety of a meteor strike, stumbled directly into a coup d'état.

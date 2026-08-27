@@ -1,0 +1,614 @@
+---
+id: f219c1cf-c643-5050-9197-1f8b40e1c5bb
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTEEN: Twinkle, Twinkle, Gokoratch"
+slug: 0117-one-hundred-sixteen-twinkle-twinkle-gokoratch
+partOf: super-supportive
+position: 117
+ownLength: 4827
+unit: words
+publishedAt: 2024-02-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1506871/one-hundred-sixteen-twinkle-twinkle-gokoratch"
+royalRoadId: "1506871"
+---
+
+116
+ 
+The rooftop-to-rooftop coaster in F-city was part sightseeing experience, part thrill ride, part ode to magical engineering. It was also very popular. Even though they bought tickets the second Alden expressed an interest, they still ended up with time slots staggered over the course of two hours.
+
+
+People rode the coaster in pairs, and before they left the apartment, Lute tried to establish elaborate social plans to ensure that he could ride with Emilija without it seeming ‘unnatural.’
+
+
+“Don’t you think this Hadiza would rather ride with one of her friends instead of me?” Haoyu protested. “It’ll be weird to walk up to them with established boy-girl roller coaster partners in mind already. Like we’re trying hard to make it a date.”
+
+
+“I agree,” Alden said. “Why don’t I ride with Haoyu? Natalie and Hadiza can ride together. And then you and Emilija can still pair up.”
+
+
+Lute, who was leaning toward the bathroom mirror and doing things to his hair with pomade, said, “Fine. But I don’t think it sounded that strange.”
+
+
+Apparently, neither did the girls. Almost as soon as they met up and Lute explained about the roller coaster, they suggested dividing the group exactly as he had hoped with zero prompting. He kept shooting knowing looks at Alden and Haoyu as if to say, “See. I understand these things.”
+
+
+The building where people boarded the coaster had ground floor shops to browse while they waited for everyone to have their turn.
+
+
+“Your friend likes Emilija,” Hadiza observed as she, Alden, Haoyu, and Natalie wandered the aisles of a store that sold mostly paper and art supplies.
+
+
+Alden hastily messaged Haoyu, [What are we supposed to say?]
+
+
+Haoyu gave him a blank look, then pointed at the shelf and said, “Ryeh-b’t wrapping paper! You don’t see that every day.”
+
+
+Good idea. Distraction. “I’ve held a ryeh-b’t before,” Alden announced. “She was awesome.”
+
+
+“Lute talked to her in Lithuanian,” Natalie said, giggling.
+
+
+Hadiza was nodding. “He said she was beautiful.”
+
+
+“Emilija said his pronunciation was pretty good!”
+ 
+Well, all right then, thought Alden, trying not to feel offended on Other Alden's behalf. Apparently I'm the only one who thinks holding a miniature dragon is a more noteworthy conversation topic.
+
+
+Haoyu’s mouth had dropped open.
+ 
+[Lute did do that,] Alden confirmed via text. [He’d performed a self-confidence wordchain. I told him not to try it again today. What if he thought he could ride the coaster without a safety harness?]
+
+
+Just then, he spotted a pack of dark, jewel-toned origami paper.
+
+
+“Are you buying that?” Natalie asked when he picked it up.
+
+
+He flipped it over to check the price. The back of the paper was gold. “Yeah, I think I will.”
+
+
+“If you learn to make things out of it, make me something!” she said brightly.
+
+
+“Sure. What do you want?”
+
+
+“Surprise me.”
+
+
+Their turn to ride came not long after that. They boarded their car on the roof of the building after receiving a brief safety lecture about how they’d probably explode, fall, and die if they tried to zap the ride vehicle with their powers.
+
+
+“So much for trying to make a roller coaster taste delicious,” Natalie joked as the oddly large and squishy lap bar lowered.
+
+
+Alden was about to ask her if she’d ever actually tried to cook something inedible before when the lap bar and the seat distracted him by melting slightly and molding themselves around him.
+
+
+Natalie was blinking down at her legs. “Are the seats hugging us?”
+
+
+“They are huggers,” Alden confirmed. “That wasn’t in the safety lect—”
+
+
+Without so much as a countdown or a green light in warning, the car shot forward and over the edge of the roof. They plummeted straight down ten stories, Natalie shrieking and Alden gripping the lap bar, which molded helpfully around his hands when he placed them on top. Then they slowed, to a float rather than a stop.
+
+
+Heart racing, it took Alden a second to appreciate the fact that he was hanging off the side of a sky scraper. They were facing forward, the back of their car having caught the track during the vertical drop, and he felt nearly weightless thanks to some magical effect.
+
+
+Laughing excitedly, Natalie nudged him with an elbow. “Your hair!”
+
+
+“Your hair,” Alden replied.
+
+
+The blond strands were drifting around in the air over her head.
+
+
+A second later, they dropped again, and then they shot forward along a completely invisible section of track that Alden assumed existed since it still sounded like they were riding a coaster and not a coaster car that had turned into an aerial vehicle.
+
+
+“This is the best!” Natalie shouted, throwing her hands up into the air.
+
+
+It really was.
+
+
+The ride took them up, down, and across from rooftop to rooftop. It was lengthened by a couple of slow spots—another pause to take in the city skyline and a journey over a particularly gorgeous series of climate-controlled gardens where they could wave at the people below them. And it was enhanced in ways that regular roller coasters couldn’t hope to mimic. At one point, the car seemed to jump from one building to the next in a tall arc. Like a frog leaping between lily pads. Alden had no idea if they really had hopped or if it was some illusory effect set into the track.
+
+
+When they made it back to the start and climbed from the car, he said, “They need to do this to all the roofs in the city.”
+
+
+“A whole rooftop theme park,” she agreed.
+
+
+Back downstairs, they found everyone in a fast fashion shop. Emilija and Hadiza were discussing something by a dressing room door, and when Natalie went over to see what they were talking about, Haoyu caught Alden’s eye.
+
+
+“Lute’s letting them pick outfits for him,” Haoyu said, gesturing toward the girls. “They’re taking it very seriously. They’re trying so hard to get him things that will fit him without looking too out-there.”
+
+
+“They clearly haven’t seen his closet. Should we tell them he’s making a vest for himself out of tape?”
+
+
+“I think we should just throw the most unusual clothes we can find in there and see if he can make it work.”
+
+
+“I like that plan,” said Alden, eyeing a pair of pants that had been decoratively splattered with a substance that looked like grape jelly.
+
+
+ 
+
+
+ 
+
+
+******
+
+
+ 
+
+
+ 
+
+
+Alden made it back to campus just in time to attend the B-list gym session. Instructor Plim, sitting in the center of the floor in her yellow raincoat just like last time, listened to his questions about what he should be focused on for the next few weeks while other B-ranks who were hoping to talk to the club advisor hovered at Alden’s back, eager for their turns.
+
+
+“I can’t believe they are limiting you to a single type of tool when there are so many fascinating things we could do with you! Not that I’m criticizing them. Have they no curiosity!? Not that you growing in competency with a tool type isn’t important, too.”
+
+
+Ding. Ding. “She wants to take you to her lab and make you preserve every material in the known universe,” Francis the Sway whispered.
+
+
+Instructor Plim waved him away. “If you must use rope-type things and you have only a few weeks before the end of term, then I think you should research similar tools and weapons and come up with ways your skill can shore up their weaknesses or take advantage of their unique properties. Take, for example, the sling…”
+
+
+After a brief practice period, Alden carried his gym suit to the on-site laundry. There were a couple of normal washers and dryers, but they were almost never used. The cleaning cabinets set into the walls, on the other hand, were in use all the time.
+
+
+Max was there, dressing one of the headless, shiny silver humanoid torsos that emerged from the cabinets when you told them you wanted to start a cleaning cycle.
+
+
+“Someone’s suit is on the floor,” Alden noted, pausing for a moment to examine the dark gray fabric before he stepped around it. There was a rule about not doing anything at all with or to suits that didn’t belong to you, and while he thought picking it up and setting it on a table wouldn’t count, he wasn’t completely sure. He couldn’t forget the warning he’d been given during assessment day about Principal Saleh phasing through the wall of someone’s bedroom in the dead of night to recover a missing suit.
+
+
+“It’s Jeffy’s,” Max said in an annoyed tone.
+
+
+“How can you tell?”
+
+
+Do you have our body sizes memorized that precisely? Have you been spying on Jeffy today?
+
+
+Alden thought it would be amusing to say these things, but Max looked kind of tired, so he refrained.
+
+
+“Because the second I saw a valuable piece of magical equipment lying on the floor, I wondered who would be that big of an idiot. And for some reason, my roommate’s face immediately sprang to mind. So I texted him and asked if, perchance, he knew where his suit was.”
+
+
+“You’re the first person I’ve ever heard use the word perchance in real life. I respect that.”
+
+
+Max sealed his suit around the silver torso as Alden summoned a dress-up body of his own from a cabinet nearby. It emerged from the wall with a set of pegs. He hung his neck, wrist, and ankle cuffs on those.
+
+
+“The Superlatives had their own club gym time this morning,” Max said. “Jeffy says he left his suit in one of the cabinets afterward because he didn’t want to wait through the cleaning cycle. He thought he’d just pick it up tomorrow before our class.”
+
+
+“Tomorrow night?”
+
+
+“Apparently.”
+
+
+“Someone got mad about him hogging the cabinet,” Alden concluded.
+
+
+“People in the larger classes and clubs sometimes stand around for half an hour or more waiting their turn, so I’m sure seeing a cabinet permanently occupied annoyed them. But whoever did it is an even bigger idiot than Jeffy. If one of the faculty walks in and sees it there before he gets over here to pick it up, the hothead who actually messed with it will be in more trouble than the asshole who left it in the cleaner.”
+
+
+Max lifted his hand like he was going to slap the button that would start the cleaning cycle, then he paused and pressed it gently instead.
+
+
+He stalked over to sit down on one of the benches by the door. Alden started his own cleaning cycle, then went to join him.
+
+
+“You seem tense,” he noted.
+
+
+Max was staring at the gym suit on the floor. “Jeffy’s a nice enough guy,” he said. “He just doesn’t think. Or he thinks so hard about all the wrong things, it leaves no room in his skull for anything else. And it’s annoying to be reminded that he can screw up in so many ways, so many times and still be the right kind of person for this school on the first try when I had to spend half a year turning myself inside out to become interesting enough for them to let me in.”
+
+
+At that moment, Jeffy sprinted into the laundry room wearing a short bathrobe and sneakers without socks. His hair had shampoo bubbles in it.
+
+
+Max sighed. 
+
+
+****** 
+
+
+When they woke up on Monday morning, Lexi was back. He was drinking black coffee and cracking an egg into a bowl of Haoyu’s latest attempt at oatmeal.
+
+
+“Is that good?” Alden asked, watching him whisk the raw egg into the steaming oats with a fork.
+
+
+“I like it.”
+
+
+“There’s an animal cafe that just opened in F. They have chickens that wander around under the tables.” Astrid had told Alden about it. “You can hold them.”
+
+
+Lexi squinted at him.
+
+
+“I’m going to go,” Alden said, spooning nutritional yeast into his own oatmeal bowl. “Soon.”
+
+
+“Why are you telling me this?”
+
+
+“Obviously because he’s inviting you to go to the animal cafe with him.” Lute was yawning as he entered the room. “He thinks time spent with woodland creatures would be good for you.”
+
+
+“The egg just reminded me of it. But you can come. Everyone can come. And if one of the chickens looks like it wants to be held, let me know so that I can hold it.”
+
+
+Chickens laid eggs. If a chicken came to Alden and happened to lay an egg, it would be like he’d been given the egg. He could then eat it and prove once and for all that eggs should be on his menu. Whether the cafe allowed you to take home souvenirs from their chickens or not was irrelevant; if he got his hands on an edible egg, it was going to be his even if he had to buy the whole restaurant.
+
+
+“Lexi!” Haoyu said as he bounced in. “You’re back! Let me invite you to our group chat.”
+
+
+“I’m already in the roommate chat.”
+
+
+“This is a separate one! For business.”
+
+
+Lute gave Haoyu a thumbs-up. “Operation Odin’s Revenge.”
+
+
+Since Alden had originally created the chat, he had to approve the invite. Wondering how this was going to go over, he did.
+
+
+[Lexi Roberts has joined A Group Chat for Insane Things Nobody Else Ever Needs to Know About.]
+
+
+[Lute: I get to make up your codename.]
+
+
+[Haoyu: Lute thinks there will probably be something for his Uncle Benjamin’s birthday this week. He’s going to invite himself to that. At least one of us should go for backup.]
+
+
+Lexi frowned and started scrolling back to see what all of this was about.
+
+
+“Why does Alden keep insisting that he’ll only be a socializer instead of someone who breaks into locked rooms?” Lexi asked. “What is this…”
+
+
+His frown deepened.
+
+
+He looked at Lute, then Haoyu, then Alden.
+
+
+[Lexi Roberts has left A Group Chat for Insane Things Nobody Else Ever Needs to Know About.]
+
+
+“Hey!” said Haoyu.
+
+
+“Your codename is Betrayer,” said Lute.
+
+
+“Are you really not going to help?” Haoyu asked. “It’s important.”
+
+
+“I don’t see how it could be.”
+
+
+“We’re doing it to help Lute and better our homeland. And nothing illegal is happening! We’ve agreed. Nothing’s going to blow up. Nobody’s getting hit with cars. This is mostly about roommate solidarity,” Haoyu insisted. “I’m inviting you again.”
+
+
+“While I was gone for the weekend, you all decided to go into politics?” Lexi said. “Was it that boring around here?”
+
+
+“It was actually a very exciting weekend,” said Lute.
+
+
+“You guys have fun going to awful parties and listening to awful people talk about awful things. I’ll be doing homework. And training. And sleeping eight and a half hours a night.”
+
+
+Haoyu sighed. “If you feel that way, I understand. I guess if we ever do need a fourth man for some reason, we could ask Konstantin to help us ou—”
+
+
+[Lexi Roberts has joined A Group Chat for Insane Things Nobody Else Ever Needs to Know About.]
+
+
+“Just so that I can keep an eye on all of you,” he muttered.
+
+
+ 
+
+
+ 
+
+
+******
+
+
+ 
+
+
+ 
+
+
+The morning passed uneventfully. Alden attended classes, then he spent his lunch break in his room, practicing his new wordchain.
+
+
+The gremlin was being a helper now, unintentionally. Alden had gotten good enough at the chain to interest it, so whenever he made a significant mistake and that interest dropped suddenly, he knew he had a problem. It wasn’t as good as having Lute standing over him, identifying what the problem was and correcting it, but it was definitely something.
+
+
+As usual, he skipped his three o’clock formal study hall. On his way back to the dorm, he ran into Maricel.
+
+
+She was listening to music on a pair of earbuds that matched the pink streaks in her pixie cut, and she didn’t notice him until he was walking right beside her.
+
+
+“Good music?” he asked, when she pulled a bud out and smiled at him.
+
+
+“It’s a group Tuyet said she enjoyed, so I thought I’d try it. When I listen to the songs my friends and I used to sing along with back home…” She straightened her back. “Anyway! Yes! I do like it.”
+
+
+“Are you on your way to class?”
+
+
+“I’m supposed to be in study hall.”
+
+
+“We must have the same one,” said Alden. “I didn’t know. I’ve never gone to it.”
+
+
+“I’ve been going to all of them,” Maricel said. “Because Vandy goes. But I think I do my homework better in the room. And today I’m going to watch other Ground Shapers practice at Earthbox. Instructor Fragment recommended it.”
+
+
+Alden had gotten the impression that their Rescue instructor and Maricel were getting along particularly well.
+
+
+“Congrats again on being the gym MVP last week. Haoyu is excited about eating Filipino food on Friday. I think he might order the whole menu.”
+
+
+“I don’t know if I deserved that,” she said. “I think Fragment might have encouraged the other teachers to pick me. Because I showed a lot of improvement. But I only did because she kept pulling me aside more than everyone else to explain specific Shaping techniques to me and talk about all the ways you can use them to help people. It was so nice of her, but maybe—”
+
+
+“I don’t think there’s anything wrong with that,” Alden cut in. “The instructors are all going to have more to say about their own subclasses because they understand them best of all. Eventually, everyone will run into a faculty member who matches up with them…except for me, obviously. And you still had to do the work to take advantage of the advice. Fragment seems straightforward. She wouldn’t pick you if you hadn’t really impressed her.”
+
+
+Maricel glanced away, her smile turning embarrassed. “I am glad about it. I’ve eaten at that restaurant at least twice a week since coming here. The owner’s going to be so excited to have the whole class.”
+
+
+Alden wanted to ask Maricel Alcantara a lot of things. Was she still thinking about getting summoned off the island? How was she doing really? Was the “fake it ’til you make it” thing she was trying working for her? Was she liking the hero program more than she’d thought she would since she’d been excelling?
+
+
+His questions would only satisfy his own curiosity, not help her in any way he could see.
+
+
+“I think I should try to be a little more like I used to be while I still can," -- that was how she’d put it.
+
+
+“I like the hair,” he said. “You look cool.”
+
+
+She reached up to touch it. “You have to say that to me all the time, don’t you? It keeps changing.”
+
+
+“It keeps changing in cool ways. Chopped off by Knife Guy was the most impressive, but—”
+
+
+“I can’t remember his name either,” Maricel whispered. “I’ve been calling him <<Hair Cutting Boy>> in my head.”
+
+
+“A surprisingly large number of people just call me ‘Rabbit’ to my face, so at least we’re not that bad.”
+
+
+He said goodbye to her right after that since they were heading in different directions. As he watched her go, she stopped to levitate a piece of a paver that had cracked and come loose—no doubt thanks to some overpowered footfall—back into its proper position.
+
+
+I think she’s doing all right, thought Alden, while she smashed the damaged block into place with her telekinesis. She did it too hard, and it sank an inch more than it should have. Looking around sheepishly, she pulled it back up until it was properly leveled.
+
+
+His roommate chat window opened suddenly.
+
+
+[Haoyu: Alden, will you check on the minestrone in my slow cooker? I think I left out salt.]
+
+
+[Lexi: It’s fine. I told you it was fine when I stopped by the room earlier.]
+
+
+[Lute: He can’t trust you. You think club soda has plenty of flavor.]
+
+
+Alden went back to the apartment and checked the minestrone, which was fine. Then he grabbed the individual icepop molds he’d bought from the kitchen supply store Natalie had pulled them all into yesterday, along with a bag of jumbo marshmallows and a jug of fruit punch.
+
+
+What more could a wizard need?
+
+
+He locked his bedroom door, shut the blackout curtains, and went to the corner to kneel on his knockoff learning cushion.
+
+
+He cast all the spells he knew one by one, starting with the promise stick lighting spell. Not being in possession of actual promise sticks, he cast it on the cedar-scented jar candle he’d bought in hopes of mimicking the smell of the burning wood. In his head, he promised Kibby he would be a good learning partner and do his sincere best.
+
+
+After he’d gone through his small repertoire of hands-only spells, he took his auriad from its place around his neck. When he started to loop it around his fingers, he felt anticipation. He always did. But today it was tinged a little more than usual with an unwelcome melancholy.
+
+
+Alden wasn’t sure what the cause was. When he tried to find the problem, it wasn’t like he could point at any one thing and say, “That’s bad.”
+
+
+He tossed a pillow across the room with his square strike. Then he smashed a mound of marshmallows into a perfect disc with the press spell. It was satisfying. And safe. They just blobbed together, no shrapnel. If he made his pile large enough or aimed slightly differently, he could make sure some of the marshmallows got sliced in half by being left partially out of the crush zone.
+
+
+He didn’t trust his own shielding abilities enough to crush anything more dangerous here in the apartment. The spell never let anything fly back at the caster as far as he could tell. It all went directly away from him every time. Still, trying something crazy like a big hunk of steel or a glass sphere didn’t seem like the neighborly thing to do.
+
+
+Haoyu was making a lot of his slow cooker meals vegan; Alden couldn’t repay him by embedding metal shards in the wall between their rooms.
+
+
+Next, he used his flash freezing spell to make a couple of fruit punch pops. He’d hoped to be able to do more, but on the second pop he started to feel the strain on his free authority combined with that sense of resistance from the world around him that meant he’d hit his limit. He checked the time and saw that he still had an hour until he had to be at the MPE building.
+
+
+That’s long enough.
+
+
+He called his book in from System storage and adjusted his knees on the cushion until he was in a comfortable position to study his next spell. It was the cutting one that sent a triangle of magic flying through the air like a dagger.
+
+
+The sharper brother to the square strike.
+
+
+The author recommended that the wizard practice by visiting an orchard that was ripe for harvest to help the workers trim the bounty from high branches. Not for the first time, Alden wondered just how old this book was. The Triplanets had orchards and they had to get the fruit down from the top branches somehow. But he assumed that it probably involved technology, not Artonans clambering around in the treetops. Elepta Farm’s marleck berry facility had been heavily robotized.
+
+
+Hey, what do I know? Maybe there’s some kind of magic nut that tastes bad if it’s not picked by hand or by spell.
+
+
+The auriad flowed between his fingers as he practiced the patterns.
+
+
+Kibby would really like watching me do this. She was always so excited when I got a spell right. I hope she’s impressing the hell out of one of her tutors right now.
+
+
+When he’d practiced for long enough, he blew out his candle and tidied up.
+
+
+Overall, it was a successful wizarding session. All his spells were working for him. It felt good, as always, to stretch his authority out in this way. And the memorization of the new spell had felt natural. He wasn’t sure if that was some Processing clicking into place for him or if he’d just gotten very used to this kind of studying.
+
+
+He decided his subdued mood was probably a mix of this weekend’s level-up reminding him that his ability to do magic freely like this was always going to be something he nurtured for a time and then lost for a time. And also a little bit of loneliness. Practicing without a partner was still fun, but there was nobody to share your extraordinary juice pop making powers with.
+
+
+On his way to the gym—hauling his duffel bag full of supplies since Instructor Fragment was still open to him experimenting for the Rescue sessions—he looked up a number on the internet.
+
+
+If it was right, there were around seventeen thousand Artonans on Earth at the moment. The number fluctuated a lot from day to day. Most of them were probably wizards. They were running Houses of Healing, teaching, being diplomatic, or maintaining magical equipment and facilities. Some of them were longterm residents of Earth; others were just visiting to complete some quick task.
+
+
+Thousands of wizards, thought Alden. And one human who’s just getting started. 
+
+
+****** 
+
+
+The locker room was rowdy when he entered. “Alden!” a Scottish voice called excitedly. “You’ll sing with us, won’t you?!”
+
+
+Finlay was already in his gym suit. He was waving a black tablet eagerly at Alden from across the room.
+
+
+“Sing?”
+
+
+“If he’s smart, he won’t,” Winston said. He was tying his shoes over by that Brute guy who was always editing his social media pictures to make himself taller than the other people in the photos. “We have to start thinking about our internet presence now. Do you want to look marketable or do you want to look like a dork?”
+
+
+Finlay glared at him. “Other people have been doing it! And Jeffy and Kon are singing with me. We’re going to ask the girls, too.”
+
+
+So that rivalry is only getting uglier as time passes, Alden noted.
+
+
+He had no idea what Winston Heelfeather had expected from the hero program. Surely, as an A-rank, he hadn’t assumed he would be one of the brightest stars in the school? He hadn’t even gotten in on the first try.
+
+
+When they’d first met on the bus, Alden had had the impression that Winston was rude, shallow, and not particularly intelligent. And then the guy had developed this weird competitive streak with Finlay at the party, before Finlay had even noticed him.
+
+
+Did he think he’d be the only speedster in the class?
+
+
+It would have been a ridiculous thing to assume.
+
+
+And he was annoyed everyone was talking about me at the party, too, even though they weren’t exactly praising me. Just extreme limelight hunger?
+
+
+Maybe Winston had been super popular back home, and he’d thought he would be here, too. It was Alden’s best guess without directly asking him what his problem was, and that sounded like a lot of trouble for little reward.
+
+
+“Finlay,” Alden said, “I don’t have any idea what you’re talking about, but just so you know, I have a terrible singing voice. So the answer is probably no.”
+
+
+“It’s fine if you sound bad. That’ll make it even funnier. I spent all day in class making up gokoratch songs, and we’re going to sing them in our gym suits and see if we can go viral!”
+
+
+“I’m in,” said Alden before Finlay could draw another breath. “Yes. Don’t do it without me. I’ll be dressed in moments.”
+
+
+Haoyu was pulling on his own suit, and at the intensity of Alden’s voice, he started laughing.
+
+
+“What’s so funny?” Finlay asked.
+
+
+“Nothing!” Haoyu said. “I’ll do it too. I want to.”
+
+
+“The more the merrier!”
+
+
+Alden was already in one of the showers, stripping at lightning speed. His desire to go viral—below zero. Definitely in the negative numbers. He’d like to be the opposite of viral forever and ever. However…sacrifices could be made in the interest of having as many humans as possible sing about gokoratch.
+
+
+So that he could see the look on Stu-art’h’s face during their next phone call.
+
+
+A few minutes before class started, around ten of them stood in a group in one of the halls, singing the songs Finlay had written in class that day. Alden’s personal favorite was set to the tune of “Twinkle, Twinkle Little Star:”
+
+
+ 
+
+
+ 
+
+
+Stinky, stinky, Gokoratch,
+
+
+Eat your nestmates as they hatch
+
+
+Up above the trees you fly,
+
+
+hunger gleaming in your eye…
+
+
+ 
+
+
+ 
+
+
+Alden wasn’t the only one with a bad singing voice. And Astrid made the back row flap their arms “cannibalistically.”
+
+
+It was truly a thing of beauty. 
+
+
+ 
+
+*

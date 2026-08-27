@@ -1,0 +1,151 @@
+---
+id: 096d77cb-c02b-573d-9692-dbd148b637ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 637: Ascender"
+slug: 0059-chapter-637-ascender
+partOf: system-change-system-universe
+position: 59
+ownLength: 2141
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3171002/chapter-637-ascender"
+royalRoadId: "3171002"
+---
+
+Chapter 637: Ascender
+
+Derek looked around at everyone. Seeing that nobody had anything to say, he shrugged. “The Origin System teleported us here.”
+
+“What? On its own? How does that happen?” Alex’s confusion grew as he questioned Derek.
+
+“That’s what happens when you’re from a lower-tier system and you ascend,” Derek replied. “And unfortunately, we don’t get to choose where we are sent. I suppose it could have been worse, though. At least the monsters around here are low enough level that we have a good chance at survival.”
+
+Alex’s mouth hung open at Derek’s words. “You are… ascenders? All of you? How is that possible? I’ve only ever heard of one at a time… never even two… but there are so many of you.”
+
+“I guess you can call us that,” Derek replied with another shrug. “As for how… I have ways to bring people along with me. We can leave it at that for now.”
+
+“Then… you ascended from a Gravenholt System? Transcendent Davenresh’s system?” Alex shook his head, and his brow furrowed even more. “No, that doesn’t make sense. It would have been known throughout the Origin System if Transcendent Davenresh Gravenholt’s system had been upgraded to the tier below the Origin System… and… you are all only around level 250… none of that adds up.”
+
+“You’re a smart one, aren’t you?” Derek laughed. “I didn’t transcend through the Davenresh System… the Origin System’s attention was drawn to me, and I ascended directly through it to here.”
+
+“That…” Alex went silent for a moment. “You are serious?”
+
+“I am,” Derek replied. He had a decent enough oath that he wasn’t too worried about telling Alex most things. By the time he was level 500 and an Ascendant, Derek figured he’d be able to protect himself and others from the majority of problems that could come up.
+
+“Wow…” Alex muttered. “As far as I know… that has only ever happened a few times… if that. Would you mind if I asked… what makes you so special?”
+
+“What makes me special?” Derek rubbed his chin. “Well… what about an Origin System evolution? I can cut an arm off and grow it back. Is that special?”
+
+“It… is,” Alex’s eyes widened a bit. “But there are a modest number of system users who have undergone an evolution from the Origin System. Then again… maybe not from such a low level… and while part of a system two tiers below.”
+
+“I guess if you want to know the rest, you’ll just have to hang around and find out. Who knows, maybe we’ll run into some strong enemies and you can see,” Derek said with a smirk.
+
+“So it isn’t just the evolution,” Alex smiled back. “The evolution was a reward from the system for your actual ability. I see…”
+
+“Something like that,” Derek replied.
+
+“So, you really do have a relationship with the Gravenholts, but only with their youngest Transcendent?” Alex asked.
+
+“Yes, is that not enough?” Derek asked.
+
+“Oh, it is.” Alex sighed. “At first, I was angry that I had sworn an oath to you. Your connection didn’t seem to be what I thought, and I’m still not certain that it is. But it is true that you have a real connection with Transcendent Davenresh.”
+
+“And that’s enough?”
+
+“Oh, heavens no,” Alex chuckled. “What is enough, however, is that you are an ascender. Which means you have certain boosts—whether they are new Titles or old bonuses. If you do not die, then you will certainly have a chance to become an Ascendant, and possibly even a Transcendent. But you also ascended through the Origin System, and I don’t even know what boosts that may bring. If nothing else… I may be lucky in just getting to know you. So… no… I am no longer angry. I’m still mad that I have to be in this situation, but that anger is at Adrian, not you or your group.”
+
+“That’s good to hear,” Derek replied. “Now, you have heard my story and my idea about how to get off this planet. What do you think about that?”
+
+“About ‘borrowing’ someone else’s teleportation device?” Alex asked.
+
+“Yes.”
+
+“I… I know you say you are strong, but the escorts are all around level 350. I mean… do you think you could have taken out that entire nest of Kethian Striders by yourself?” the young man asked without really expecting an answer.
+
+“Yeah,” Derek replied with a shrug. “I could have. It would have taken a bit, but it wouldn’t have been a problem for me alone.”
+
+“What!?” Alex’s jaw went slack again. “You are serious?”
+
+“Yeah…” Derek said. “You see… I’m sort of like a cockroach. I’m very hard to kill, and I just keep coming back for more. So, would it have taken a really long time for me to kill them all? Yes. Would I have ever been in any danger against them? No… probably not.”
+
+“Oh… now I truly wish to see what you are capable of,” Alex said.
+
+“Just a lot of tanking damage is all. And a bit of dishing it out,” Derek replied with a shrug.
+
+“Well… if that is the case, then I suppose you could try to ‘borrow’ a teleportation device. Certainly, nobody is going to actually lend us one. And I’m afraid to say that it will sour relations between my house and the house that we ‘borrow’ from. It is worth it for my life, but I’m not sure how my family will react.”
+
+“If you have any other suggestions, I’m all ears,” Derek said.
+
+“It… is possible that one of the teleportation devices on the planet is still functional,” Alex finally said after thinking for a while. “While unlikely that they will still be active, there were many military camps on this planet back when it was an active Planetary Battlefield. I suppose it wouldn’t hurt to check them out. That was actually my plan once Adrian disappeared.”
+
+“So there is such a thing…” Derek replied. “I suppose that would leave us having fewer enemies in the long run. Do you know where any of these bases are?”
+
+“I do!” Alex said, then closed his eyes in thought. When he opened them again, he said, “I’ve memorized what I could of the map and layout of this planet before I was sent here. We don’t know which of us will be sent for training, but I had a suspicion it would be me, so I tried to prepare thoroughly.”
+
+“That’s good news!” Derek said. “So, which way do we go?”
+
+“Uh… I don’t know,” Alex said.
+
+“What do you mean you don’t know?” Derek frowned. “Didn’t you just say you had the map memorized?”
+
+“Yeah… but I don’t know where we are currently,” Alex explained. “I was chased for a long time in many directions. I have no clue where we are to begin with. I… need a landmark or something to get my bearings, but I don’t see anything around us, and it is likely things have changed some from the map that I studied. Nothing on abandoned Planetary Battlefields is current. It would give too much advantage to those who decide to study up, like myself.”
+
+“I… see…” Derek muttered. “So… we just go on our way using Jace’s Battle Instincts until we come across a landmark that you recognize then. Do you think you could fix a teleporter if we did find one, and it wasn’t in too rough of shape?”
+
+“Me?” Alex shook his head. “I’m not a blacksmith or any other crafter type. I only have my coordinates memorized and the method to enter them into portable teleportation devices. It is completely different for a static teleporter—easier to enter the coordinates, but harder to activate… especially if broken.”
+
+“Interesting…” Derek muttered, then looked over to Amelia and Marrick. “Amelia, could you patrol the area from the sky? Marrick, make sure nothing sneaks up on us from the ground.” Without anything other than a nod, Amelia shot to the sky, and Marrick fell to one knee with his hand on the ground.
+
+“What are you doing now?” Alex asked. “Shouldn’t we get going?”
+
+“We will, but there is something I need to take care of first,” Derek said before reaching out and tearing a hole open in space—revealing a door the perfect size for him to use. He opened the door, then walked into his Time Prison while Alex stared at the sight—slack-jawed.
+
+Everyone knew instantly when the door opened, as access to the Origin System instantly came back. From well behind the Void Emporium, Blitz lifted his head up, looked at Derek with boredom in his eyes, then lowered it again. Poor guy, Derek thought. Blitz wasn’t like Lyra. The winged serpent could curl up and lounge around for ages if she wished, but Blitz was like a dragon with ADHD, with nothing around to distract him.
+
+Derek didn’t tell Alex he could follow him inside, so the young man didn’t. It was for the better since Brandi was still a secret that he didn’t want to share. A legendary class at her age was likely rare even in the Origin System. Sharing his secrets and those outside the prison’s secrets was fine as long as they didn’t object. But those inside weren’t fighters, or were young, so Alex didn’t need to know about them for the time being.
+
+“How’s the crafting without the system’s help coming along?” Derek asked when he made it to Brandi’s forge inside the Void Emporium. It was odd since it was technically still in the basement, and he had to jump up to reach the front door, but it was always good to see something so familiar.
+
+“I just got a Title!” Brandi replied with a sparkle in her eyes.
+
+“Really?” Derek asked, surprised.
+
+“Yes! Any parts of an item I craft without the system’s assistance make the craft better. It doesn’t say how much better, but still!” she explained. “And it looks like it’s one that I can upgrade. Though, I don’t think I’m good enough to craft anything as good without the system’s assistance to make it worthwhile… yet. But it also comes with a passive ability to deactivate the system assistance, so I can do it when not in here, too.”
+
+“That sounds like it could be very helpful later on,” Derek replied. “Also… have you gotten taller?”
+
+“I have!” Brandi said. “I thought you would notice the last few times you checked in, but you never did.”
+
+“Ah… yeah… sorry about that,” Derek replied. “We’ve been busy outside. It can get pretty dangerous.”
+
+“It’s fine!” Brandi replied. “Is there anything you need?”
+
+“Actually… there is,” Derek said. “You still have that teleportation and communication extender thing, right?”
+
+“I do!”
+
+“Have you tried studying it to see what you can find out?” Derek asked.
+
+“Not much… I’ve been busy making daggers and other basic weapons without assistance, why?”
+
+“I was thinking that it could be helpful to have someone who understands how it works with us. We’re going to start looking for a teleporter soon, and we don’t know how broken it will be. It’s possible that it could be in a repairable condition,” Derek explained.
+
+“Got it!” Brandi said excitedly. She was obviously happy that she could possibly contribute along with everyone else. She flicked her wrist, and the device appeared in her hands. “I’ll learn all I can from it without the system’s help. If… if you could open the door a little more often so that I can verify with the system occasionally, it could help.”
+
+“I can do that,” Derek said. “I’ll start opening a small door every time we stop to take a break, but I’ll keep the time difference the same. How does that sound?”
+
+“Great!” Brandi said. “I think Ms. Stella is going a little stir-crazy, but she won’t say anything. She and Mr. Bones have been sparring nonstop lately.”
+
+“Well… let her know that you got a Title and she’ll have something to reach for. Should help her a little—having a goal. Surely if there is one for crafting, there has to be one for fighting, too,” Derek said.
+
+“I’ll do that!” Brandi replied.
+
+“It was good seeing you, kid,” Derek said. “I’m going to go let Mal know what’s going on, then we’re going to see what we can find.”
+
+After saying a quick goodbye to Brandi, Derek went over to where Malorie and Stella were talking and explained everything about Alex and what was going on. Soon after, he exited the Time Prison and closed it behind him.
+
+“So… that is how you brought people here…” Alex said as he stared at the spot where the door used to be.
+
+“Pretty much,” Derek replied.
+
+“And… was that a dragon?”

@@ -1,0 +1,305 @@
+---
+id: f9888852-33e2-58cb-a093-d07470ba6f3d
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-TWO: Flashes IV"
+slug: 0194-one-hundred-ninety-two-flashes-iv
+partOf: super-supportive
+position: 194
+ownLength: 3822
+unit: words
+publishedAt: 2024-12-23
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1970484/one-hundred-ninety-two-flashes-iv"
+royalRoadId: "1970484"
+---
+
+192
+
+******
+
+Ninety minutes ago…
+
+“Thank you for coming,” Torsten Klein said, running a hand over his short, salt-and-pepper hair. The expression on his face was wry as he addressed the small group of current and former superheroes who had assembled in a classroom in the MagiPhysical Education building. “I’m sorry to put you all in desks like you’re students. The meeting room upstairs was booked.”
+
+“I’m only offended you’ve bought new desks,” said a woman whose long, deep brown hair spilled down the back of an old gray sweatshirt. Her dark eyes were lively, and she smiled as she took in the classroom. “We used to sit at tables that had so many names and hero mottos carved into the top that it was impossible to take a paper exam without your pencil stabbing through.”
+
+“I remember those tables,” Torsten said. “Not fondly, but I do remember them. It’s good to see you, Hale. Did your husband change his mind about coming today?”
+
+“No. He’s making sure the vending machines are still high quality. He’ll be right back. We can get started without him.”
+
+“I’m here!” A man entered the room and tossed Hale a bottled tea from the stash of snacks and drinks in his arms. He sat down in the desk beside her. “We haven’t started gossiping about the kids yet, have we?”
+
+“Not yet,” Torsten replied. “I think we’re all at least familiar with each other, except maybe Aparna? Do you know our other volunteers?”
+
+He was looking at a woman with shoulder-length gray hair who sat near the classroom window. Sunlight glinted off a pair of earrings she wore that looked like pieces of jagged glass.
+
+“I know those two.” She waved a hand toward the couple. “Hale, are you still letting Zhang Jianwei trouble you?”
+
+“Every day,” Hale said, shaking her head.
+
+“What about the trouble she gives me, Mrs. Sethi? She’s twice as difficult as I’ve ever been!”
+
+“Then I only need to introduce you to Melanie.” Torsten nodded toward the woman sitting in a corner desk, typing on a tablet she’d brought with her. “Melanie Carisson is a Shaper of Sky currently working under the name Galecourse. Most of the time, she’s back and forth between Los Angeles and Tianjin as part of a sister city hero swap. Her husband trades between Tianjin and London. Their daughter, Vandy, is a Sky Shaper in our new class here.
+
+“And, Melanie, this is Aparna Sethi. She’s an Adjuster who was active in the ’90’s and early 2000’s all over southeast Asia. Now she’s retired—”
+
+“Retired temporarily,” Aparna corrected. “Only until this collection of grandchildren find their footing. Then I will be back to show the young people what I have learned.”
+
+Torsten’s lips quirked upward. “Retired temporarily from hero work. She teaches at Naya Din, but her grandson Ignacio joined us here at Celena North.”
+
+The two women nodded at each other.
+
+“We do appreciate all of you being here today,” Torsten said. “Some of our faculty members have been neglecting their own personal situations to keep the school running smoothly for the students in the aftermath of recent events. I know they’re all grateful to have time off thanks to your generosity.”
+
+“I’m excited to see what the class is like,” said Haoyu’s father. “You’ve got several kids here who I watched grow up alongside our son. It will be a treat to get a look at what they’re up to now that they’ve got their powers.”
+
+“I think you’ll find them very green and a little clumsy with themselves,” said Torsten. “But overall, we’re pleased with the early signs of their progress. Now, one of our newer faculty members put together the class roster for your review. For some reason, he thought it would be amusing if all of the students were presented on wanted posters.”
+
+The board behind him switched on, showing the entire class with each member’s photograph framed by an Old West-style wanted poster. The Zhang-Demirs and Aparna Sethi laughed.
+
+“Maybe it is a little amusing,” Klein conceded. “Anyway, I’ll run you through the ones with more standard superpowers first, and then we’ll talk about the ones who are a bit more difficult to work with. First, the Agility Brutes—”
+
+“Starting with your own subclass?” Hale shook her head. “Terrible.”
+
+“I’m starting with Agility because it starts with ‘A’.”
+
+“Adjuster starts with ‘A’,” said Aparna. “Is this how you do things at Celena North? The poor children.”
+
+“I’m starting with Brutes because they have more common abilities. And I’m starting with Agility because of the ‘A’. So here on the projection behind me we have Febri—”
+
+Febri’s poster expanded, and his photograph turned into a video clip of him in class.
+
+“He has the same skill as you.”
+
+“I see how it is.”
+
+“Shameless favoritism.”
+
+“You’re all worse than the students!” Torsten said. “Pay attention to Febri. He’s one of three Agility Brutes and our only S-rank Agi. Very sharp with Instant Corners, though with the skill at level one…”
+
+They went through the Agility Brutes quickly and soon came to the speedsters in the class.
+
+“Our S-rank is Finlay. Like most Speed Brutes starting out, he’s almost entirely foundation point focused with the System still withholding active-use skills. However, he does have an unusually high-ranked spell impression for a beginner. I doubt he’ll find an opportunity to use it in this class, since he hasn’t been casting it so far. But Surface Extension is in his repertoire.
+
+“Next, we have Winston. He’s…a hard-working young man, who isn’t always working hard in the direction I’d prefer. He applies impressive amounts of energy to his personal passions. Possibly to his own detriment. As you can see from this clip, he—”
+
+******
+
+present
+
+******
+
+“Don’t let the haters get you down, Win-Win. Remember, you have faithful fans who will follow you anywhere. I’m one of them. And when someone asks you who you think you are to be telling lies revealing truths about their favorite new Avowed, let your victory over those favorites be your answer!”
+
+Star emoji. Kiss emoji. Pompoms. Kiss. Star. — Feather’sFavoriteNYC
+
+The comment had over a thousand upvotes, so Feather’sFavoriteNYC would be getting the autographed photo. And for the first time, Winston would be confessing to his fans that during periods of struggle, he kept special comments like these on his interface to pump him up throughout the day.
+
+Feather’sFavorite gets it, he thought, putting on his sunglasses with the practiced snapping gesture he’d mastered for the camera. I get it. One day, everyone will get it. So now…let’s get it done!
+
+Heroes didn’t sit on the sidelines playing with rope while classmates were in trouble. And who else was going to want to team up with Olive and Sanjay after they’d seen them flopping around like dying fish in a tornado?
+
+There was this stupid misconception going around because of Alden, Jeffy, Everly, and that dickheaded haggis-eater Finlay, that Winston Heelfeather was a jerk. They were all in on it together. Except for Jeffy…Winston was sure Jeffy was only being used as a puppet by Everly, Max, and maybe even Konstantin.
+
+Feather’sFavoriteNYC had asked in her fourth highest rated comment this week why everyone liked Kon so much when he sucked for an S, and that was a valid question. Why did people like him so much? What if he was a master social manipulator, and Winston was only just now realizing it?
+
+CNH was no joke. Everyone knew the training was hard, but the crazy games these other Avowed played on the way to the top? Nobody had prepared him for classmates so desperate to one-up him that they’d bring another person’s grilling grandparents into it.
+
+Psychos.
+
+Winston scooped up Olive before she could even thank him, and ran for the starting line. Saving her. Like. A. Hero.
+
+Olive’s all right.
+
+His fans wouldn’t go nuts over her rescue. She wasn’t popular. Her social media account was all games she liked and pictures from middle school. But a hero didn’t only pay attention to the popular class members. That was something a real jerk would do.
+
+I’m going to make you famous today, Olive. You’re welcome. I’ll take care of you and Sanjay and Søren and one other struggling person who usually gets no attention.
+
+Glory. Fame. Every gym class was another chance. He would show them the way.
+
+The wind hit just before he made it, but Winston was a Speed Brute. In some languages, instead of speedsters, they were called travelers. And what kind of traveler would be stopped by a little wind?
+
+A lot of wind.
+
+“Don’t be afraid, Olive!” She was wrapping her arms around his neck and tucking her face into his chest, which was so much better than when he’d first picked her up and she’d flapped around like a kidnapping victim instead of someone who was being saved. This footage would actually be useable now if she was fine with it.
+
+As he pushed for the line, Winston hunched over her protectively and fought the wind, roaring his defiance of Galecourse, the haters, and people who used their Scottish accents for insinuating untrue things about their roommates.
+
+Olive’s weight might have helped keep his feet on the floor a little bit, too. He’d give her credit for that when he talked about this moment.
+
+“Aaaah!” he screamed as he crossed through the barrier, trying to make sure it was a good, deep scream and not the understandably nervous one he’d made when Alden had tried to hit him with an alien general’s nonagon.
+
+Olive was still holding onto his neck. Her plain brown eyes were kind of far apart, like an Artonan’s. It was an okay look for a girl in Winston’s opinion. Lots of actresses had that.
+
+“Are you all right?” he asked.
+
+“Yes?” Olive said uncertainly. “Thank you.”
+
+This is a moment, Winston realized. Like the All Aglow Agency talks about.
+
+His parents had hired them to boost him and prep him before he left America.
+
+They weren’t great, he realized now. Anesidora was a different level. That was why he’d been having more trouble than he should have been. Had they prepped him for Rabbits with wildly outsized ambitions and creepy Artonan connections? Or girls who’d been training to be snow princesses since they were ten, who could just swoop in and steal fourteen point three percent of your fans with an Aqua Brute and a few Arfdogs? Or S-ranks that made alien cannibal parrot songs smash hits?
+
+No. But they taught me about moments. Those are real. This is one of them…or it could be, if I seize it.
+
+Winston set Olive down and whipped off his own sweatband. She froze as he put it on her forehead and angled the words so that the nearest drone could have a clear shot of the “Need a Heeling?” stitched on it.
+
+“Sorry it’s not pink,” he said, smiling at her. “But wear it until we find yours together on the battlefield.”
+
+******
+
+******
+
+Despite Alden being a hold-up with his preparations, their team was about to be the second to officially start the challenge. They’d be right behind a very competitive looking team that Max had put together in a blink. He was joined by Finlay, Jeffy, Astrid, and Lucille in what had to be close to an ideal situation for him.
+
+He’d managed to combine three S-ranks with a chipper Morph Brute who was good at perking up Lucille and cheering on Jeffy.
+
+And Max was looking useful himself right now, laying down a zone and taking advantage of it in a new way. He was walking his own treadmill trap with Astrid on his back, while Jeffy and Lucille stood outside it, not immune to the wind but significantly harder to blow over now that they each had giant sandbags as ballast.
+
+They all seemed to be discussing something. Max was pointing at Ignacio’s grandmother, who sat calmly off to one side.
+
+Alden didn’t see any reason for them to have stopped so quickly after starting their run, but it was good that they’d solved the wind problem. He turned his attention back to his own team. “Does anyone else expect the real fight to start when Winston finds the most aesthetically pleasing way to carry a Sanjay statue and finally gets him back, too?”
+
+“I expect my dad to do something terrible to our team, and my mom to do something terribler,” Haoyu said. “They are not to be underestimated.”
+
+“Yeah, none of us are underestimating them,” said Kon. “I don’t think you need to worry about that.”
+
+“Do we just run?” Alden straightened from a final examination of his shield. “Or take a moderate pace? I didn’t hear what the plan was while I chained up.”
+
+“Jog,” said Everly. “We’ll stay behind you unless you’re in danger. Everyone calls incoming.”
+
+“By doing the clock thing,” said Kon. “Locker rooms are six. If the wind is off, we attack together. If the wind is on…we haven’t figured it out. Something with me and Lexi and Haoyu.”
+
+“I don’t remember you being included in that part of the plan,” Lexi said.
+
+“Happy Humans heal their health with Plantplayer Vitamins,” Kon answered in a sing-songey voice. “Try the ones for healthy memories today!”
+
+“I remember that jingle!” Haoyu said.
+
+Lexi sighed. “Do we have to take him with us?”
+
+“Love you, too, brother.” Kon slapped Alden’s back. “You go. We follow. Use the shield you made, not Everly.”
+
+Alden stared ahead of them. The gym looked even larger than usual. Big Snake was holding a 2x4 at the finish line. Klein and the Zhang-Demirs were still lying in wait, pretending to be harmless observers. Vandy’s mother was taking off again, and…it looked like she’d be positioning herself near the midline on the right.
+
+To blow directly from the side? That’s new.
+
+It must be because there were teams progressing forward now. If she had the wind blowing the way it had been, she’d just be helping people toward the finish line.
+
+“My shield goes directly between us and Galecourse unless the situation changes. She’s only doing a standard front shove, so that’s where the wind should be coming from. I’ll pay attention to the rules for any of the other attackers when I have them in sight. You guys focus on fighting.”
+
+“Rules?” Kon asked.
+
+Alden was already stepping through the barrier with his shield angled toward Galecourse, one arm through a loop on the back.
+
+He set a pace that was close to a jog for him. Haoyu was on his left flank, Lexi his right. Everly was keeping herself directly behind him so she’d take the minimum amount of wind, and she was tied to Kon by a long rope. Lexi was tied to Alden. The hope was that the Roberts brothers, as the only two who had no wind resistance talents, would be stuck to someone who had better options if the group got split. But Alden was afraid the rope was just going to get in the way.
+
+His shield of yellow webbing was turned horizontally, and it had a spare fifty-kilo sandbag tied to the front of it. Alden wasn’t sure which of them had gotten creative and added it, but it wasn’t trouble to carry this way and they might find a use for it. Kon was hauling an even bigger one on a shoulder. Everly had a small one that she’d coated in layers of ice until it resembled a white bowling ball. Haoyu and Lexi were keeping themselves unencumbered.
+
+The jog ate the distance rapidly. They were approaching the middle of the floor, and nothing bad had happened. It was almost uncomfortably quiet. Alden was keeping his eyes pealed, so he saw when Galecourse lifted her hands.  He lowered himself a little, and slowed down a little, the others following suit as the air turned into a battering ram once more.
+
+Alden felt it against his lower legs, rushing past like a river.
+
+“I like you, Alden,” Kon said just loudly enough to be heard over the wind. “Look at us not flipping through the air like shopping bags caught in a Speed Brute’s draft.”
+
+“Thanks.”
+
+“Why aren’t they attacking yet?” Haoyu asked, peeking around the shield to see his parents and then poking his head back in with his hair sticking straight up.
+
+“Winston only just crossed with Sanjay,” said Everly. “Maybe that—”
+
+The wind ended. Alden followed Vandy’s mother with his eyes as she repositioned, ready to get the shield between them again as soon as she stopped. Suddenly, he saw something strange.
+
+Ahead of them. It had been there one second and gone the next.
+
+“Did you see that?”
+
+“I did,” Lexi said. “I don’t know what it was.”
+
+“Let’s wait for a sec.” Alden turned the shield toward Galecourse as he paused.
+
+The whole group shifted even closer to him before stopping.
+
+“What did you see?” Haoyu murmured, poking his head out again to peer in the same direction as Alden and Lexi.
+
+“It was like a flicker?” said Lexi. “It didn’t look like any of our classmates’ spells.”
+
+Alden had seen a bit more than a flicker, but still not enough to describe it in much detail. “A wispy light that stretched from the floor into the air before disappearing. It was fast.”
+
+“Some kind of spell indicator?” said Everly.
+
+“Ignacio’s grandmother,” Haoyu suggested. “My parents don’t have anything like that.”
+
+“Well, the gym might have made the indicator itself,” Lexi said. “To give us a cue. It’s not necessarily a normal part of whatever spell was cast.”
+
+Out of the corner of his eye, as he did another scan of the adults, Alden saw that Big Snake had his attention locked on Max’s team as they moved forward again. Not in a straight line. They’re detouring for some reason.
+
+“Max might be dodging whatever the mystery spell is,” Alden said softly. “We should, too.”
+
+Nobody argued.
+
+While they’d discussed the unidentified phenomenon, a third team had formed back at the starting line. Reinhard was leading a group of people Alden rarely interacted with outside of class. They were all A-ranks who were less ambitious, argumentative, and perfectionistic than the class average…which meant they’d probably let the archer have his way.
+
+“Third team incoming, wind incoming,” he said, starting forward.
+
+“I wish Klein and your parents would move,” Everly groaned. “I’m getting a stomachache waiting for an attack that’s not happening.”
+
+Reinhard led his team out onto the floor. A second later Heloísa shouted, <<Too slow, Mehdi!>> in Portuguese and did the same with another group.
+
+All at once, as if the entry of a fourth team was a signal, the adults acted.
+
+Wind came from the left, hitting Alden’s mat of webbing and rushing around his ankles again. Two more of the strange flickers appeared. He just barely managed to see them as he whipped his neck around. One flicker was way out in front of Reinhard’s team; Heloísa’s group would intercept another in just a few strides. And a board was flying from Big Snake toward Max like a javelin. And three S-rank Brute attackers were entering the field. Two were on the ground, running at the teams in the back. One was launching himself up onto an aerial block high overhead and then off again at an angle that would lead him toward…
+
+“Klein! Klein! Klein!” Alden yelled, unable to do the clock thing because there was no above-our-heads o’clock. He barely stopped himself from yanking the shield around to intercept the incoming instructor. That would leave everyone vulnerable to Galecourse.
+
+The others were already moving.
+
+They weren’t too slow. With Klein coming in from a height, there was time for Lexi to get Writher between all of them and the oncoming enemy, and for Haoyu to step in front of Everly with his fists raised, and for Kon to insert himself between the instructor and Alden’s vulnerable side.
+
+It just wasn’t quite enough.
+
+Klein’s legs tucked up to skim over Writher’s swipe, and his torso twisted away from Haoyu’s strike. It was the same as in the classes where they were supposed to catch him; he was so good at dodging by millimeters. There shouldn’t have been space in their tight little group for him to slip through without taking a hit, but he found one anyway.
+
+Alden knew the slow-motion replay would reveal a series of graceful, flawless micro-adjustments on Klein’s part. Right now, though, it felt like a missile landing in their midst while everyone’s attempts to stop it comically misfired. Klein’s feet slammed into Konstatin’s right thigh, and Alden’s eyes struggled to keep up with what happened after that.
+
+Instructor Klein was moving a lot to dodge a line of burning chain that was suddenly flying around them all. Alden felt heat graze his own chest and saw an icy bowling ball hit Klein’s butt as he twisted. And he thought, Ha! Fuck. This is bad. Kon! What about Big Snake? I need to look—
+
+Then a lamp was shattering against Haoyu’s fist, shards of ceramic from its base showering over them all like stinging confetti.
+
+And Klein was gone from their group.
+
+I kept the shield where it needs to be, Alden thought, drawing in a breath. Galecourse hasn’t repositioned.
+
+A lampshade was still flying across the gym toward Max’s team.
+
+“Owowow! Fuck!” said Kon, laughing and cursing and clutching his leg while he lay on the ground.
+
+“I got the lamp!” said Haoyu.
+
+“Lexi, what was Writher doing?” Alden asked. “You almost sliced me.”
+
+“I’m all right! I can take a lamp!”
+
+“Heloísa said this was twenty percent pain?!” Kon demanded. “She’s lying. She’s crazy. She’s a crazy woman who can’t feel pain. That’s why she can drink hot sauce like water.”
+
+They were all talking over each other at the same time, except for Lexi, whose eyes were as wide as Alden had ever seen them, and Everly, who was on the floor.
+
+Alden glanced away from the ten other things he was trying to keep track of to check on her. She looked annoyed. She also looked stiff from the chin down to her bare feet.
+
+“Are you dead?” he asked, shocked. “Or unconscious?”
+
+“Dead,” Everly said flatly. “And I missed Klein’s face, didn’t I?”
+
+“You got a bum cheek with your ice ball,” said Haoyu. “How are you dead?”
+
+“You’re dead! Why are you dead?” Kon asked. “Klein got you, too?”
+
+Everly’s eyes flicked to Lexi. Kon and Haoyu noticed at the exact same time Alden did.
+
+They all fell silent. The wind stopped.
+
+“Ohhh. Just a little accident, then,” said Haoyu, bending down to pick Everly up. “Completely understandable. Could have happened to any—”
+
+“Lexi…did you kill my girlfriend?”
+
+******

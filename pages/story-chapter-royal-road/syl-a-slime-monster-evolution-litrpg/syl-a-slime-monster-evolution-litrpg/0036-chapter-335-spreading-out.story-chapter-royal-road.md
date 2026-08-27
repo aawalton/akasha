@@ -1,0 +1,159 @@
+---
+id: 4355a14e-87ff-5a80-a21c-7bc5cb88691a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 335 : Spreading Out"
+slug: 0036-chapter-335-spreading-out
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 36
+ownLength: 2170
+unit: words
+ownProgress: 2170
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2925543/chapter-335-spreading-out"
+royalRoadId: "2925543"
+markedReadAt: "2026-06-29T19:43:00.317Z"
+---
+
+I wanted to both explore and potentially set up some traps; however, there was one big issue—Sylvain. I thought of leaving a primed body double behind, but as soon as anyone interacted with it, I'd be exposed.
+
+Once again, I desperately wished my [Sub-Cores] could overcome the slime connection limitation, but that didn't mean I was entirely without options.
+
+It's a good thing my seafood diet has given me plenty of slime mass to work with!
+
+I withdrew slime and coated the entire floor with a thin layer of it that shifted to mimic the stone. After that, I began making an exploratory tunnel with acidic tendrils, even gaining an addition to my [Stone] profile called abyssal stone, which I used to improve my disguised slime layer even further.
+
+Even this rock, which the system described as having epic durability, was nothing before the might of my level seventeen [Acid Slime]!
+
+I still haven't found out what upgrade it's gotten from merging into [Primordial Slime]. With the others, it was relatively obvious to discover.
+
+Of course, I covered my hole with a cork of slime, disguised as the very rock I'd eaten, and began spreading out underground like a growing fungus. Every [Sub-Core] came with me underground, except for Alpha, whom I left behind to manage Sylvain in cooperation with [Roleplay].
+
+This was the closest I could come to being in two places at once, as the slimy floor kept Alpha in contact with me. As long as nobody asked Sylvain to jump, he would always have at least one foot on the ground.
+
+Whenever my control of my slime got weaker, I would leave behind a [Sub-Core] to act as a relay point and maintain sufficient control over all my slime. This way, I could create a daisy chain, extending my range far beyond what would typically be possible!
+
+I also ensured that I was deep enough to avoid potential detection, which meant that unless the mermen had [Tremor Sense] or [Spatial Sense], they'd never find me. Considering they swam everywhere, [Tremor Sense] was out, and I highly doubted they had a Riftmancer lying around, so I was confident in my infiltration.
+
+Let's see… How do I want to go about this? I can leave bombs all around, and as long as I get a few moments to myself, I can renew their primed time. I probably want to do as much damage as possible… Wait! Isn't this the perfect opportunity for my spell orbs to shine!?
+
+Vee wasn't around to be a negative Nancy, and since regular spells seemed ineffectual, magical bombs seemed like the obvious solution. I ordered my storage workforce to get on it and start creating the orichalcum slime spheres of doom.
+
+As soon as one was complete, I'd place it in a location and store one of my highest-level spells in it, with one exception—I avoided [Dimension Magic].
+
+Who knows what would happen with exploding [Rift Doors]? Even I might not survive such a catastrophe!
+
+At the same time, I was also looking for targets, trying to find lone mermen in their homes to ambush, as there were five new profiles ripe for the picking. If the mermen didn't have [Enchanted Fins], then it likely didn't exist!
+
+Biding my time, I lurked underneath Azulean, and soon found a lone mermen on the outskirts. I cycled through various senses to confirm there were no potential witnesses, and then I slowly emerged. I was concerned about breaking into the water area, but as long as I kept it plugged up with slime, it seemed fine. Azulean's waters appeared to be at a different pressure than the deep outside of their dome.
+
+It was a lone mermen knight who was doing maintenance on his spear, and he was ripe for ambushing. I slowly surrounded him with slime, and then in one foul swoop, I swelled my slime mass and engulfed him whole. I wasn't sure how quickly I could kill him, so I dragged him underground to do the dirty deed.
+
+He tried to struggle, but my strength with [Slime Mastery] was far beyond him while he was engulfed. Not to mention with [Acid Slime] and [Poison Slime] working together to kill him as quickly as possible. I avoided [Blaze Slime] and [Cryo Slime] for this, as I didn't want to affect the waters and have someone potentially notice me.
+
+<Mermen Knight LV 28; Depthstriker LV 39 defeated. Experience gained.>
+
+<Profile [Mermen] completed.>
+
+He perished in record time, granting me a brand new profile, experience, and slime mass. I hastily covered my tracks, and once I was confirmed safe, I scrutinized the new profile I had gained. Sadly, he wasn't one of the mermen who had the Abyssal mutation, but I had plenty of time to collect that later.
+
+Still, what I found delighted me. Not only were there the coveted [Enchanted Fins], but also [Bipedal Shift] and [Ocean's Might]. The former allowed them to shift their tail fin into legs, while the latter gave them a boost to their attack and defense when near the ocean, or doubled while submerged.
+
+Hmm… Where is the spell disruption? Or human form?
+
+I also looked through the base mermen profile, but found nothing, which could only mean that those were exclusive to the other types of Mermen.
+
+Do they each have a unique trait or two? [Ocean's Might] is likely the unique benefit for mermen knights. Well, I guess I just have to collect them all then!
+
+And thus began my operation, using my slimy infiltration and assassination skills to their maximum. I could have taken out more, but instead I chose to focus on collecting as many unique profiles as possible.
+
+While what I was doing was already risky, as if a huge chunk of the mermen population suddenly went missing, it would be pretty obvious. After ensuring my next target was safe, I struck again and again, racking up the benefits.
+
+<Mermen Hag LV 23; Brine Witch LV 12 defeated. Experience gained.>
+
+<Profile [Mermen] updated.>
+
+The hags had two unique traits; one was [Tide Caller], which allowed them to naturally manipulate the water around them, but it was strictly limited to ocean water and seemed like an inferior version of [Hydrokinesis] even then.
+
+Their other trait was [Ocean's Flow], which was identical in premise to [Ocean's Might] except that instead of attack and defense, it boosted Mana regeneration and spellcasting speed. If I combined this with everything else I had, and I was in the ocean, then my spells would be practically unstoppable!
+
+Well… Assuming they aren't disrupted, which I still haven't found out how that works yet.
+
+<Mermen Peasant LV 4; Journeyman Crafter LV 51 defeated. Experience gained.>
+
+<Profile [Mermen] updated.>
+
+The peasants only had one trait, [Ocean's Bounty], and to be honest, it might have been the best one yet for me. It gave a minor proficiency experience bonus to professions and their skills. If those professions were ocean-related, then those bonuses were upgraded to major.
+
+While it was vague since I had no idea what the difference was between major and minor, I personally didn't mind, as I felt every bit of experience bonus always mattered!
+
+<Mermen Abyssal Prince LV 8; Commander LV 40 defeated. Experience gained.>
+
+<Profile [Mermen] updated.>
+
+There you are!
+
+The prince also had two unique traits: [Ocean's Authority] and [Disrupting Echo]. The first one gave all nearby mermen a bonus to all of their stats and attributes! Attack, defense, speed, the works, with the only restriction being that it didn't work on princes or princesses. Naturally, just like the other "Ocean's" traits, it was further boosted while underwater.
+
+Their second trait was the source of their terrifying rumor. It disrupted nearby spells within their radius of their wail by causing their constructs to waver and unravel. The effect was not enhanced while underwater, but the radius was, which arguably made it even more ominous.
+
+As for the Abyssal mutation, it granted a trait called [Fathomless], which improved defense in direct correlation to water depth, while also removing all adverse effects from water pressure.
+
+This was all surprisingly rewarding, especially the evolved prince, and I even gained a level! Which was somewhat expected, considering all the work Vanessa had me do beforehand.
+
+<Class Experience threshold reached. Elementalist is now LV 27.>
+
+<11 Skill Points are now available.>
+
+My next race level still hadn't arrived, much to my disappointment, but my sneaky skills did, after quite some time of being relatively dormant.
+
+<Proficiency gained. [Vanish LV 6] improved to [Vanish LV 7].>
+
+<Proficiency gained. [Assassinate LV 6] improved to [Assassinate LV 7].>
+
+Hmm… I'm just missing the siren profile, but those are exceedingly rare. Considering their scarcity, I might only be able to get that one last.
+
+I looked around a bit, and while I did find a siren or two, they were in no position for me to ambush them. So I gave up for now, and returned to my home, hoping that the mermen were none the wiser of my outing and the bombs I'd planted under their noses.
+
+As for Alpha and [Roleplay], they did a great job, and nobody suspected a thing. A prince did come this time, also asking for a "gift," and he was also given a gold bar, except this time with an explosive surprise in the center.
+
+I'd apologize to Vee later for giving away some of her gold today, but from tomorrow onwards, all my "gifts" would be nothing but [Nitro Slime]. Yes, tomorrow Sylvain was going to open his coffers to the mermen and give them their just desserts.
+
+And now we wait…
+
+***
+
+While Syl was in the abyssal depths of the ocean, Vee had returned to Volcano Isle and was quite surprised to see that her slimy friend was missing.
+
+Vee thought nothing of it and cautiously slept the night away. In the morning, when there was still no sign of Syl, she got to work by trying to listen to some of the murmurings around the settlement.
+
+That was where things got weird. The people who were usually so friendly and jovial were now deeply concerned, and soon she discovered that Vanessa and Sylvain had left the day before and hadn't returned.
+
+What have you gotten yourself into, you silly slime!
+
+Vee would have left things alone, but something was bugging her. Syl had gone out of the way to leave a note in a dimensional space for her last time, but now there was nothing. The fact that the island's residents were also concerned contributed to her worries.
+
+Okay, let's follow the bond just to be sure. Although wow, Syl's far away this time.
+
+Vee quickly began moving, following the vague trail that the [Companion Bond] had left her. Thankfully, [Veil Step] allowed her to move a considerable distance, and soon enough, she could sense Syl straight below her. What was also below was a large island, with a considerably sized volcano in the center.
+
+Is Syl on that island? Wait, did that damn slime steal my job!? This island is way better than the ones I found.
+
+Silently fuming, Vee teleported onto the island, but the bond still put Syl at a considerable distance away. Vee frowned, realizing that Syl was deep underwater.
+
+Okay, let's refill the storage space and go diving.
+
+Using her [Dimension Magic], Vee opened up a large rift which violently expelled its contents. After that, she swiftly opened up another one, except this time it created a vacuum effect and sucked up fresh air.
+
+Let's go!
+
+Vee first saved the coordinates of this impressive island and then promptly started using [Veil Steps] in succession. However, the deeper she went, the more she realized how far down Syl truly was. Vee began increasing the range of her teleports, but the further down she got, the worse she felt.
+
+Eventually, Vee reached the trench, and by this point, her body was screaming at her. Despite her spider silk armor, enchanted rings, and her own relatively good fortitude, it was rapidly becoming too much for her.
+
+Shit, I can't handle this, and Syl is even further down!
+
+Vee briefly considered doing an all-in for a bumrush towards Syl, until her imagination caught up and put the fear of violently exploding in her head. Shuddering to herself and not wanting to go pop, Vee teleported back to the safety of the island.
+
+Well… That didn't work, Vee sighed. Okay, I'll wait for Syl here, and since there's this fantastic island, I'll start getting to work! I'll first confirm that there are no inhabitants; otherwise, clear them out if they are hostile, and then proceed with clearing, setting up a web, and doing the usual.
+
+Mentally nodding at her plan, Vee decided to get a good lay of the land. She teleported up high and gazed out at the island waiting before her. The volcano was the most prominent landmark, so that's where she ultimately decided to go.

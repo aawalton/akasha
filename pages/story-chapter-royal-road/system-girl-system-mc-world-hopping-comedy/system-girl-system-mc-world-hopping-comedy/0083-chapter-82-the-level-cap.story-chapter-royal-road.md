@@ -1,0 +1,181 @@
+---
+id: 4495a0e9-9150-588c-8d83-88c4ec0fd8aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82: The Level Cap"
+slug: 0083-chapter-82-the-level-cap
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 83
+ownLength: 2559
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3493326/chapter-82-the-level-cap"
+royalRoadId: "3493326"
+---
+
+The training yard smelled of crushed grass and morning sweat. Ren was currently getting his ass handed to him, which was entirely normal. The deeply abnormal part was the fact that he was still standing.
+
+I floated in my designated incorporeal space just behind his frontal lobe, monitoring the sensory feed with mounting confusion. Kaelthos swung a heavy practice sword in a sweeping horizontal arc aimed right at Ren’s ribs. It was a textbook strike. It carried the momentum of a veteran warrior who had spent decades fighting on the kingdom's borders.
+
+Ren didn't scramble backward. He pivoted on his heel, brought his own wooden blade up to intercept the strike, and deflected the momentum downward into the dirt with a sharp clack.
+
+Ren's boots skidded, digging twin furrows into the grass. He gritted his teeth. His chest heaved with exertion. Sweat poured down his face, stinging his eyes. He immediately reset his stance, raising his practice sword back to a guard position.
+
+I paused my background tracking tasks. From my past experiences monitoring his combat drills, Ren was not this capable. He definitely wasn't this strong. I pulled up the Host Progression Analysis module to confirm my data.
+
+[HOST STATUS]Name: Ren FenrisLevel: 9Strength: 31Agility: 28Stamina: 35Intelligence: 40Wisdom: 38Luck: 115
+
+The Luck stat was the only thing sitting outside the realm of total mediocrity, a glaring anomaly squatting in his file like a typo. Everything else hovered right around the 30 mark. He had the physical resilience of a dedicated jogger who occasionally lifted bags of flour.
+
+I shifted my focus to Kaelthos. My basic analysis skills could only glean surface-level data on people outside my direct contract pool. I knew the elf was significantly higher level than Ren. I had pegged him somewhere in the low seventies based on his movement speed and the ambient mana density he projected. The granular details were locked behind a fog of insufficient permissions.
+
+The math here was completely broken. Ren should have a shattered ribcage right now.
+
+I needed a better scanner. I brought up my new Level 3 interface. The terminal now supported manual command lines, allowing me to bypass the clunky visual storefront entirely. I could add tags and use an ls function to locate specific modules hidden deep in the massive mother database.
+
+I typed into my mental console: ls -modules [tags: analysis, target, biological]
+
+A list populated my vision instantly.
+
+[Enemy Analysis Pro] - 50,000 SPP[Universal Threat Assessment] - 80,000 SPP[Deep Soul Scan v2.0] - 120,000 SPP
+
+I stared at the prices. The lowest premium option was fifty thousand points. I checked my current balance. I had exactly 3400 SPP to my name, scraped together from the daily restaurant sales and bulk condiment orders. I felt a phantom twinge of poverty in my chest.
+
+I wanted to save my points for the Manifest Echo upgrade. Korgi, my fuzzy little minotaur plushie, was currently locked in a state of forced hibernation in my cache. I had to put the poor boy to sleep two weeks ago. His entire conceptual existence revolved around hunting, smashing things, and eating food. Floating in my incorporeal space where there was no food, no textures, and no physical sensations had started to drive him crazy. He had spent his last active days whining constantly, pacing in circles, and trying to chew on his own imaginary hoof out of sheer sensory deprivation. I used the hibernation function to spare him the torture.
+
+I wanted him out in the real world where he could eat an apple and chase a butterfly.
+
+I needed to know why my host was suddenly parrying an elite elven warrior. I started typing weird combinations into the search bar, looking for budget options the system might have miscategorized.
+
+ls -modules [tags: subordinate, stats, cheap]Error: 'cheap' is not a recognized tag parameter.
+
+ls -modules [tags: subordinate, bio-metric, baseline]
+
+A single result popped up, buried under a pile of outdated utility apps.
+
+[MODULE: Contracted Bio-Metric Overlay][PRICE: 3,000 SPP][DESCRIPTION: Projects a detailed statistical breakdown of any entity contractually bound to the Host. Limited range. Cannot be used on hostile targets.]
+
+I hit purchase. My balance plummeted to a pathetic 400 SPP. I mentally patted Korgi's dormant file. He was going to have to sleep a little longer.
+
+I activated the new overlay and locked its targeting reticle onto Kaelthos. A transparent blue window opened next to Ren's pathetic stats.
+
+[TARGET: Kaelthos]Level: 73Strength: 150Agility: 300Stamina: 140
+
+I blinked. I ran the scan again. The numbers didn't change.
+
+Kaelthos had three hundred agility. He had five times Ren's strength. Ren, with his 31 strength points, was somehow holding his own against an elf who could punch through a brick wall and outrun a horse.
+
+I analyzed the combat feed closer. Kaelthos swung again, an overhead chop designed to test Ren's block. His movements were technically flawless. The speed was there. The raw kinetic output behind the swing felt hollow.
+
+It wasn't that Ren was secretly overpowered. Comparing Ren's stats to the old combat logs I kept on Korgi showed that a Level 9 Earth human hit with the exact same physical force as a Level 9 Minotaur. Ren was perfectly normal.
+
+Kaelthos was the problem. He had massive numbers on paper, but he was qualitatively weaker in reality. The raw data wasn't translating into actual physical force. It was like he was running a high-end graphics card on a dual-core processor. The potential existed in his code, but the world itself couldn't process it efficiently.
+
+Something was deeply wrong with the physics engine of this planet.
+
+I opened the Universal Wiki, the massive lore database that came bundled with the Level 3 upgrade. I started plugging in search terms. Stat degradation. Elven modifiers. Physics engine anomalies. Atmospheric mana density.
+
+After sifting through dense academic text, I stumbled upon a fundamental piece of planetary lore.
+
+Apparently, this specific planet had no World Trees.
+
+If a planet lacked a World Tree, the inhabitants experienced a massive qualitative downgrade to their stats and magical powers. World Trees acted as gigantic biological amplifiers. They regulated, filtered, and enriched the ambient magical energies of the world, which in turn enriched the inhabitants. Without that background radiation constantly bathing them in pure mana, a stat point here was worth a fraction of a stat point on a healthy planet.
+
+That explained the general weakness of everyone here compared to standard system metrics. There was another piece of lore attached specifically to the Elven racial entry.
+
+If the apex progenitor of a species goes missing, the entire race suffers a biological bottleneck. Because the Elves lost all their High Elves thousands of years ago during the Great King's purge, their entire population is locked behind a hard cap of Level 70.
+
+Level 70 is the equivalent of reaching A-Rank, or Tier 7 according to the Greater Universal Scale.
+
+The wiki laid the scale out clearly in a neat little chart.Level 70-79: A-Rank (Tier 7).Level 80-89: S-Rank (Tier 8).Level 90-99: SS-Rank (Tier 9).Level 100: SSS-Rank (Tier 10).
+
+I looked back at the scanner hovering over the training yard.
+
+Kaelthos is Level 73.
+
+He gained three additional levels past the absolute biological hard cap for his entire race.
+
+An image of a very cute, chubby baby sitting in a pile of stuffed animals popped into my mind. Lily. Due to her coming back into the world, the elves in her immediate vicinity were now able to break right through this hard cap. Her very existence passively unlocked their DNA, acting as the missing progenitor key.
+
+Ren, I pinged his mind sharply, cutting through his focus on the sparring match. Stop sparring. Ask Kaelthos if he feels different lately.
+
+Ren lowered his wooden sword, panting heavily, sweat stinging his eyes. He looked confused by the sudden interruption. By now he knew better than to question a direct order from me during a moment of discovery.
+
+"Kaelthos," Ren gasped, leaning heavily on his practice blade and wiping his forehead with his sleeve. "Take a break. I have a question for you. Do you feel different? Lately?"
+
+Kaelthos stopped immediately, lowering his weapon. He didn't look tired at all. He examined his hands, flexing his long calloused fingers. He looked up at the sky, then back at Ren.
+
+"I have, My Lord," Kaelthos replied, his voice thoughtful. "I have been feeling remarkably better. Lighter. My mana circulation is smoother than it has been in decades. Old aches from past battles have vanished. I feel as though a weight I did not know I carried has been lifted."
+
+What is your rank, I fed the question to Ren. And your exact level.
+
+"What's your rank, Kael?" Ren asked, walking over to a bench to grab a towel. "Your level?"
+
+Kaelthos sheathed his wooden sword at his hip, standing at parade rest. "I am at the maximum level of 70, My Lord. Rank A. The last time I was checked in the Adventurer's Association before you purchased my contract, the Guild Master confirmed it. We require the assistance of contracted spirits to check our exact numerical level, as elves cannot read their own status screens. I do not have a spirit of my own. Perhaps Mira could help me verify if you require precision."
+
+I felt a massive spike of pure anxiety hit my processors. If he went to a public Guild to get checked now, the entire kingdom would know an elf had broken the cap.
+
+Ren, you need to handle this carefully, I warned him, flashing a yellow caution border around my text. Have Sylas bring Mira over to the main house. Bring Kaelthos to your private study. This is serious. According to my readings, he is Level 73. An elf is only able to do that if they are in the direct vicinity of a High Elf. Lily has increased his max possible level to 80 just by sitting in the same house as him.
+
+Ren stiffened. The towel dropped from his hand. He understood the implications immediately.
+
+We need to keep this completely under wraps, I continued. We cannot have any of your high-level staff be examined by anyone outside this estate. If a Guild official or a royal mage scans him, Lily's existence will be revealed instantly. They will trace the anomaly straight back to her.
+
+"Kaelthos," Ren said, his voice dropping an octave, the casual sparring tone vanishing entirely. "Follow me inside. We need to test something in private."
+
+...
+
+The heavy oak doors of the study closed with a solid, echoing click.
+
+Ren sat down behind his desk, steepling his fingers. Sylas stood to Ren's right, his posture perfect but his eyes betraying a hint of concern.
+
+A moment later, the door opened. Mira hurried inside, looking flushed and slightly out of breath. She was carrying Lily, who was currently asleep, her silver hair plastered to her forehead with sweat, bundled tightly in a soft blue blanket.
+
+Mira gently placed the sleeping baby into the plush crib situated in the corner of the study. She tucked the edges of the blanket around the mattress before stepping over to join Sylas. Pip, her small wind spirit, hovered anxiously over her shoulder, sensing the sudden tension in the room.
+
+Kaelthos stood in the center of the rug, looking between Ren and the sleeping child.
+
+"Mira," Ren said, keeping his voice steady. "I believe Kaelthos's level may have shifted. I need you to check him. Use Pip."
+
+Mira blinked, her brow furrowing. "My Lord? A level shift past seventy is unprecedented. It is a myth told to young warriors to give them false hope. The cap is a biological law."
+
+"Just check him," Ren insisted, gesturing toward the warrior.
+
+Mira nodded. She closed her eyes, murmuring a soft, melodic incantation in Elvish. Pip swirled away from her shoulder and flew over to Kaelthos, circling his broad chest in a tight, glowing spiral of wind and green light. The spirit hummed, the frequency changing pitch rapidly before it projected a faint, glowing number in the air between them.
+
+73.
+
+The three elves looked absolutely dumbfounded.
+
+Kaelthos blinked several times, leaning forward to stare at the floating number. He reached a trembling hand out to touch it, entirely uncertain as to what was happening to his own body. He looked at his hands, then back at the green digits.
+
+Mira gasped, covering her mouth with both hands. Sylas's jaw actually dropped.
+
+They slowly turned to look up at Ren.
+
+Sylas found his voice first, though it cracked slightly. "How? Only humans can reach levels higher than 70. Humans can ascend to 80. I have never heard of an elf at this level."
+
+"I have a hypothesis," Ren answered, leaning back in his leather chair. "For now, I need you all to keep this entirely under wraps. This concerns Lily's safety more than anything else. I need your absolute silence on this matter. Give me some time. I will explain everything to you when the time is right."
+
+The three elves exchanged a long, heavily weighted look. They looked at the glowing number, then at the sleeping baby in the crib, and finally back at Ren. The pieces were starting to align in their minds.
+
+Kaelthos stepped forward and placed a fist over his heart, bowing deeply. "My life and my silence are yours, My Lord."
+
+Mira nodded slowly, her eyes shining with unshed tears, her protective instincts flaring up. Sylas adjusted his glasses, his face returning to a mask of professional loyalty. They left the room reluctantly, the weight of the secret hanging heavily over their shoulders.
+
+The door clicked shut behind them.
+
+"Ana," Ren whispered to the empty room, rubbing his temples. "What should I do? For now, there is only one other person outside this room who knows about Lily's secret. Caladorel. Can I tell those three what she actually is? Will it put them in danger?"
+
+They have proven they are fiercely loyal and have immense love for Lily, I told him, projecting the text in a calming blue font. They aren't just staff anymore. They're her guardians. I think they can be trusted with the truth. But it is significantly better to call Caladorel here first.
+
+Ren nodded, looking over at the crib.
+
+He can answer some of the magical questions about this level cap, I continued. We can discuss the broader implications of Lily's existence affecting the local population.
+
+Ren drummed his fingers on the desk, staring at the spot in the air where the glowing number had been. He reached for a blank piece of parchment and a fresh quill.
+
+"I'll write to the old man," Ren said, dipping the nib into the crystal inkwell. "We need to figure out exactly how large her area of effect is before someone notices something is off. We have way too many eyes on us, at the moment "
+
+He scratched a quick, coded message onto the parchment. He folded it, dripped hot red wax onto the flap, and pressed his heavy signet ring into the seal. He didn't reflect on the burden of his new noble status. He simply handed the sealed letter to Sylas, who had materialized back in the doorway.
+
+"Have this delivered to the Mage's Guild immediately," Ren ordered. "To Caladorel's personal archives. Do not let anyone else touch it."

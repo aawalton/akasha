@@ -1,0 +1,443 @@
+---
+id: c4cc30c2-6b71-5b06-a372-38086a99b4c1
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY: When Wishing Was Having I "
+slug: 0292-two-hundred-ninety-when-wishing-was-having-i
+partOf: super-supportive
+position: 292
+ownLength: 5352
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3472389/two-hundred-ninety-when-wishing-was-having-i"
+royalRoadId: "3472389"
+---
+
+******
+
+290
+
+******
+
+Plans for Storytelling Class
+
+Jan 14, 2041
+
+To do:
+
+*Don’t humiliate yourself.
+
+*Do figure out how to make a klerm sound
+
+*Visual component?!?!
+
+*Read “The Frog Prince” and get ideas
+
+In the old version of this story, there’s no kissing.
+
+Instead, as soon as the king isn’t around to make the princess treat the frog with dignity, she throws it against the wall of her bedroom. “Now, you will be quiet, odious Frog!”
+
+This assault breaks the curse, and the frog turns into a prince. He thanks her for unfrogging him, never explains what he did to make a witch mad enough to curse him in the first place, and they get married immediately.
+
+Also, the prince’s loyal servant with a magical heart problem suddenly becomes a character at this point, but I have no clue what his deal is. I’ll think about him later.
+
+It seems like a lot of literary people want to interpret all of this as the princess’s sexual awakening. Even though there’s no kiss, there is a bed. And the princess is so hot that it literally says she astonishes the sun, so I guess we can factor that in.
+
+But why?
+
+I could maybe talk myself into thinking that cruelty to amphibians symbolizes leaving virginity behind…if I had to temporarily, for a grade.
+
+But that’s a lot of brain contortion. I’m sure Warin-doyis wants our stories to make sense without the audience having to try that hard. And I do have to present the story I come up with to the entire class.
+
+With Lute there. I’m not giving him the ammunition.
+
+What makes more sense?
+
+Frogs. Princesses. Attempted murder. Stupid princes who don’t care about being murdered for some reason….
+
+The frog never asks for a kiss.
+
+It does ask to be seen as an equal.
+
+Let me be your companion. Let me eat at the king’s table. Let me have exactly what you do. I am worthy of love. Don’t look at me like I’m something less than you.
+
+That kind of thing.
+
+The climactic part is when the frog asks to use the princess’s bed, instead of staying in the corner where she’s put him because she thinks he’s such a gross animal. And I don’t think he’s horny about the request either. He says he’s tired and he wants to sleep “as well as you.” He asks to be lifted up, from the floor to a higher place.
+
+So it’s about breaking down the barriers between social classes, right?
+
+Then it gets depressing.
+
+The princess can’t stand it anymore. How dare a frog ask for her friendship? How dare it demand royal treatment?
+
+It needs to die.
+
+And I think it does. She silences the odious frog that’s asked for too much, and once it’s been shut up for good, that’s when the prince finally appears.
+
+It’s almost like the story is saying the king was wrong.
+
+He expects a princess to be respectful to a frog. But as long as she’s respectful to it, nothing good happens for her. As soon as she blows up and rejects the idea of sharing her world with someone from a different one, she gets a prince.
+
+And the prince doesn’t hold any of it against her. He’s glad she attacked. Royalty should live together in palaces. Frogs who try to escape from their ponds should be smashed against a wall.
+
+It’s a story about how people react when someone they’ve been looking down on asks to be seen eye-to-eye.
+
+Only whoever invented it messed it up. Or they believed something I don’t. Or they never intended for people to get that message from it, but here I am.
+
+A self-absorbed princess and a prince who might have deserved to be cursed, riding off into the sunset….I bet all the peasants hated them. Except for that random servant with the heart problem.
+
+I’ll do a better version. Maybe something funny that’ll make Kibby laugh when she hears it.
+
+If it’s the right kind of funny and Lute likes it, maybe send it to Boe?
+
+Is “The Klerm Prince” too obvious for a title?
+
+******
+
+******
+
+The Brute’s swing came in from the side, aimed at Alden’s left ear.
+
+Catching the strike on his preserved backpack was intentional, but getting the backpack in front of that deadly fist in time felt like luck. Slamming his feet into the gouged dirt and throwing himself backward, landing for just long enough to launch himself immediately forward again, up and over the other boy who had already closed the distance—that was all intentional, too.
+
+But bouncing around this much was a sign of desperation.
+
+The Brute kept getting right up in Alden’s face so fast that he didn’t have time for anything else. They were twenty seconds into a three-minute duel, and Alden was trying his best to protect his backpack, his body, and run down the time for a draw. But three minutes was too long. Repeated close encounters with a Strength Brute, while using a shield this small, were bad for a person’s health.
+
+I’m not going to make it doing this.
+
+He’d stuck the knife Ignacio had given him into the elastic water bottle net on the backpack’s side before the duel started, preserving it all together because it was the best way to make sure he didn’t end up having his weapon stolen and used against him. He unpreserved for a second to grab the knife, then threw himself sideways. Then forward. Sideways.
+
+Always just a finger’s distance out of his opponent’s reach. This wasn’t sustainable.
+
+Try something else.
+
+He needed this fight to slow down. To make it slow down, he needed to attack. To attack, he needed to be close. Being unpredictable was one way to stay close and not die to the next punch.
+
+Maybe.
+
+As always in a difficult duel, idea became action without being filtered through the usual thought processes.
+
+Alden’s next leap didn’t throw him away from the approaching enemy, but straight toward him. Low. Backpack held up over his head hopefully.
+
+The Brute stepped backward so that Alden hit the floor right in front of him instead of crashing into his legs.
+
+This boy’s name was Rex. He’d spelled it “Wrecks” on the System name tag he’d worn the first week of class. Alden didn’t know much about him yet.
+
+And he didn’t know much about Alden. Rex brought his fists down together. He should have gone for Alden’s body, but instead both of them slammed, a split second apart, into the backpack Alden was holding up.
+
+Strength Brutes. Waving a shield in front of Heloísa was like waving a flag in front of a bull, and Alden supposed it must be the same for Rex. He didn’t quite believe he couldn’t get through Alden’s magic easily. He’d hit it hard already. Surely two more should do it.
+
+He was an A-rank, punching normally, without any skill or spell boosting the strikes, so he was wrong about that. A strain like this would eventually be too much for Alden’s skill, but this wasn’t an eventually kind of situation.
+
+Alden successfully stabbed Rex’s right knee, and tried to do the same to the left. If the Brute couldn’t run, then—
+
+A hand gripped his gym suit near the small of his back, and suddenly he was flying.
+
+I keep what I’m preserving safe. Safe until the last possible instant.
+
+He hit the barrier that formed one of the long sides of their dueling block. He hadn’t lost his knife when he was thrown, but he took the brunt of the impact on that arm and felt the blade fall. He fell after it into the dirt. The realism setting was twenty percent. He was banged up. The suit had stiffened around his upper right arm and shoulder. His legs were okay, though.
+
+Run.
+
+He lunged upright, and immediately caught a foot in the chest that laid him out flat.
+
+“Really, Rabbit?” Rex looked down at him. He was standing on one leg. He’d hopped across the block on one leg and then opted to kick Alden. “Yield.”
+
+“I can go longer!” Alden said in a rush. “Run the timer out for the practice at least.”
+
+The three minute timers were long compared to their usual one-on-ones. A reward of sorts, Alden guessed, for making it to this end of the gym and getting to enter the dueling blocks.
+
+“No. I’ve got stuff to do.” Rex was a large dude. Tall and wide. He had a square head and a haircut that made Alden think of a bust of Julius Caesar his ninth grade history teacher had kept on a shelf.  “Concede, or I knock you out.”
+
+Alden believed it was a dick move to force an unwilling person to hit you more when you were already clearly the loser.
+
+“I concede,” he said.
+
+The System called the end of the duel. A victory for Rex, who nodded at Alden with a satisfied smile, then turned to look at what was happening in the rest of the gym.
+
+Now that they’d both finished their first duel, they had to run through all the challenges again. Alden was looking forward to it even though a couple had been tougher than he’d expected.
+
+“Your shield’s good for a B-rank,” said Rex.
+
+“Thanks. It’s actually a preservation skill. In addition to shielding, it—”
+
+“If we hit the blocks at the same time again, let’s hang back and wait for different partners, though,” Rex said. “I wanted to fight you once to get your measure, but I need more than a B for practice since they’re letting us handle pairings ourselves today. They hardly ever do that.”
+
+There were so many ways to make that request without saying I’m not good enough to practice with.
+
+Alden wanted to point out that he’d just stabbed the guy in the knee. He wanted to mention that he could have stood under a dome-shaped shield and yawned in Rex’s face while he banged his fists helplessly against it.
+
+“Yeah. Fine. I’ll duel someone else.”
+
+“Good. Thanks. Did you know my older brother’s in your Coursing class? His name’s Ram. He’s a second year.”
+
+“Really?” There was a person with a strangely square head in there. On the all-Brute team. Was that the right one?
+
+“It’s cool you got on a team.” Rex smiled at Alden, like he meant it. “I mean a real one instead of that B team that was trying to do runs last term. You’re doing good for yourself, man. Later.”
+
+He’s not the worst, but I wish I’d taken out his other knee, too, Alden thought as he watched Rex jog around the edge of the gym toward the first starting line.
+
+He went to fill his backpack with a little more sand.
+
+******
+
+******
+
+Back to the baton-stealing battle. Instructor Ivanova had stopped passing the batons out now that everyone knew the drill. Instead, she’d just left a pile of them at the starting line.
+
+Alden took a purple one and stuffed it into his backpack with the end sticking out like last time. Identifying who you would steal from, and who would think they could steal from you, was half the work. He tried to be a good sport by not standing around waiting for particularly powerful students to clear the challenge, but he did make sure he ran in on the side where Jupiter wasn’t surfing six meters above the floor on a lifematter bag, chilling up there while she chose a victim.
+
+She had two batons already. This was her third or fourth run, though, and the challenges were supposed to get harder on repeats. His interface said he only needed two batons to pass, like last time, but she must be after a third.
+
+Good for her, learning to surf the skies with her powers. He hated being attacked by her, though. She always seemed to be doing something quirky, and then wham, he was gruesomely impaled. Or the moldy funk in the lifematter bag was attacking his mouth.
+
+They weren’t supposed to give each other lethal injuries in this challenge, but still.
+
+He tried to keep an eye on her and keep moving while he looked for someone he could take a baton from.
+
+Olive was available, with her illusions, wearing a fierce expression on three faces as she tried to corner Astrid. Astrid was looking a little tired, but Alden didn’t think it was Olive’s doing. Olive was trying out a spear in class today, instead of her baseball bat, and Alden was having trouble not comparing the way she held it to the way Marsha held her polearm.
+
+Marsha had just run in, too. That was actually a good thing. She’d ignore Alden and distract Jupiter. The mutable haft was already ripping through the air toward the lifematter bag.
+
+I know I can take Olive’s baton.
+
+Even without the gremlin’s contribution, he could sense the real her when he tried. The illusions felt like magic. She felt like life.
+
+He was sure Astrid was going to beat her in a minute. She would just figure out which Olives were the illusions by trying to fight them all.
+
+The Morph Brute was sporting a short pink mohawk today. She would be hilariously outraged if Alden dove in and stole Olive’s baton while she was distracting the Adjuster.
+
+He kind of wanted to do it, but…
+
+I wish Olive didn’t get her feelings hurt so easily when I beat her.
+
+There’s Max on the other side. I’ll go tangle with him. He should be extra challenging by now.
+
+The faculty weren’t clearing the floor in this section, so there were environmental hazards left behind from previous runs. Everly’s super slick ice patch was right in the middle, and people were sliding around on it, either intentionally to escape attacks or accidentally as a result of them.
+
+Max would have laid traps the first time he ran. If they were still around, he’d have them as well as whatever he’d decided to put down this time.
+
+Alden headed that way, dodging behind Mehdi and Winston, who were very busy with each other. Max caught sight of him coming and nodded.
+
+He does look confident. Should I try to sense where those traps are? I think I can do that, but he’s looking right at me and paying attention. Should’ve thought of this while I was still on the sidelines and come up with a plan.
+
+This’ll be good for me to—
+
+Something slammed into the side of his left thigh so hard it felt like a miniature explosion.
+
+His suit froze in an instant. Complete immobilization on that leg and full-body movement reduction. He fell and rolled with little ability to control it.
+
+Tuyet? Reinhard? Heloísa throwing something?
+
+Before he could remember that none of them were currently fighting in this part of the gym, he saw a yellow baton rolling away from him across the floor.
+
+Is that what hit me? Huh. Then it must have been—
+
+Winston rushed toward the baton, grabbed it, and then ran for the barrier that separated the baton challenge from their next one.
+
+“I was beating you!” Mehdi shouted. “I was beating you, and you know it! Come back here!”
+
+He slid across the floor behind Alden’s head, grabbed the baton sticking out of Alden’s backpack, and ran after the fleeing speedster.
+
+Well, fine then. This was a bad start.
+
+With his baton gone, the gym released his suit, and he sat up. His actual attacker arrived on the scene seconds too late. She’d lost her own baton as well as his, just like that.
+
+“Yikes!” said Opal, looking at him and laughing. Her wand was in her hand. “That didn’t go well for either of us. It didn’t hurt too much, did it?”
+
+“No. Good aim if you were going for my leg.” He hopped up. “But maybe don’t take me out a few steps from a Speed Brute and an Agi next time if you want to get my baton?”
+
+“Sure thing! Back to the start for both of us.” She kept her wand in hand as she spun. Her auburn hair was in a tight braid.
+
+“Why did you use your own baton as a weapon?” he asked. “Wouldn’t something like a ball of lead or a spike…or just a rock…be better? I’ve got stuff you can borrow if you need to.”
+
+She smiled back at him. “No, I’ll stick with the baton. Surprise factor! Sorry to take you down so hard.”
+
+Surprise factor? That doesn’t make sense. A hunk of lead flying at me from across the gym would have been surprising, too.
+
+Opal had undersold her levitation powers when she was passing out rice balls. The reason she was here wasn’t because she could make small things float, but because she could make small things she’d placed under her wand’s control zoom toward her at high speed. She could basically make bullets the size of shoeboxes, although instead of flying away from her, they flew directly at her and stopped when they reached her. She could also send things away from her, but that was a floaty process. The spell that brought them in was the one she used as a weapon.
+
+It was interesting. He pictured her standing in the middle of a room surrounded by hidden objects she’d spelled in advance, and then whenever someone dangerous approached her, they’d get shot by a harmless-looking candlestick or bookend.
+
+But it’s not practical that she used her baton. That means she had to float her baton slowly away from her or drop it somewhere to set up for the shot and then wait for me to run between it and her. It was at risk of being stolen the whole time. I don’t get it.
+
+Did she want us to both have to start over at the same time? Is she planning to practice on me or something?
+
+He regarded her warily.
+
+I can take her baton if I do it right at the start.
+
+She took another yellow baton from the pile, and he picked a green one. They looked at each other.
+
+“I’m not running in until I see you out there,” she said, shrugging. “Or unless we start on opposite sides. I know my limits. Don’t worry, though. I don’t really need to beat you again. I’ll go for someone else! Bigger fish. Promise.”
+
+“You don’t have to. Now that I know how you’re playing, I can protect myself from you better.”
+
+He ran out, and got back to it. He half expected her to break her word, but he had an intense game of chase with Max to distract him for the next couple of minutes. It ended in what was effectively a mutual loss.
+
+Max caught him in one of the treadmill traps, but Max was limping. He was unlikely to make it to the next section with both batons when he was in that state.
+
+“You stab people in the legs now?”
+
+“It might just be a today thing. Are you going to take my baton and let me out of here?”
+
+“I’m thinking about it.”
+
+Alden let out a short laugh.
+
+“Oh no! I lost it again!” The voice from near the starting line made him turn his head.
+
+Opal was leaning over a fallen Olive. And Sanjay was running for the finish holding three batons, wearing an expression that said he couldn’t believe his luck.
+
+“That’s a ridiculous mistake to make twice. She did the same thing to me.”
+
+“She’s insecure,” said Max. “That’s the second time she’s ‘lost’ a baton just against Olive.”
+
+“That means she’s insecure?”
+
+“She’s really good in this section. Hunting people who are fighting other people seems to work for her. She’s pretending that she’s trying something new out and making it harder for herself by using the baton as her only weapon…kind of like you switching to a backpack and a knife as if you want to take a beating from everyone in class.”
+
+“You’re insulting me because you fear me.”
+
+“But you still want to get through this,” Max said, ignoring the gibe. “She’s deliberately risking the baton because she’s comfortable here. She can even show off and take out high ranks, instead of struggling in the other sections. She got Jeffy earlier. I’m sure she knows better than to keep doing it all period.”
+
+Max gave Alden a hand and pulled him off the treadmill. “You owe me.”
+
+“For what?”
+
+“Letting Winston have a baton so easily earlier.”
+
+“Fair.”
+
+******
+
+Eventually, Alden yoinked a baton from Haoyu while Haoyu was taunting Lexi right next to the barrier, and he got to hear both of them swear at him as he practically stumbled victoriously into the next section.
+
+They were calling this one the lily pad game. Light that looked like rippling water covered the floor. Columns about six inches across rose from it and disappeared in random patterns, existing for only a few seconds. They had to cross without touching the ‘water’, but the lily pads were usually awkwardly far apart, awkwardly high, or awkwardly occupied by another person. They were allowed to shove people or jump on them if they needed to.
+
+Alden thought Bobby would be proud to see how well he was using bits of sand and all the jumping practice they’d done together to navigate this fun little maze without needing to fight anybody.
+
+He made it to the third challenge almost too fast, considering how much he enjoyed the lily pads, and his arms ached in anticipation.
+
+Mountain rescue. His interface told him to carry a hundred kilo bag up a climbing wall. It had only been fifty kilos last time.
+
+There were grips. The wall didn’t mimic earthquakes. The section he’d been assigned to climb was easier than what they had at North of North, but it still wasn’t easy. He used the backpack straps to hold the weight, and got it done with only one fall.
+
+“Good work, Alden!” Ivanova called from down on the floor as he stood on top of the climbing wall and dropped the lifematter bag back down.
+
+The instructor was a former Super Olympic speed climber. He expected she’d be giving good notes on this one after class.
+
+He had a minute to take a breath up there while he looked at the fourth challenge. It was just crossing regular old floor…while Instructors Plim and Foxbolt shot at people from the sides. Despite the difficulty of it, it was a pretty spectacle.
+
+Plim was using two jets of water, strong enough to take anyone without a special talent off their feet. And Foxbolt was an Adjuster who worked with illusion spells, like Olive. Unlike Olive, she could make her illusions have significant real effects beyond the visual.
+
+Sound. Physicality. Heat.
+
+She was really stingy about how she used it against them. Alden didn’t know if that was a choice or a necessity. She particularly liked fireworks, and usually, hidden in each burst of light, there were a few sparks that you couldn’t afford to run into. Because they’d burn through you like lava through wax.
+
+He decided to focus on dodging Plim’s jets and trusting to luck and the bit of protection his backpack gave him for Foxbolt. He was sure she wasn’t adding danger to her illusions at all half the time.
+
+That turned out to be the right decision, but it still wasn’t a smooth trip. The water jets seemed mysteriously attracted to him. Both jets came at him, to the relief of several people who’d been beleaguered by them. Everly gave him an apologetic look as she made it to safety.
+
+She’d leveled up at the end of break. Instead of new spells, she’d taken foundation points with an emphasis on her speed and strength. He thought that choice was really showing benefits for her during a class like this.
+
+Plim washed Alden out twice, while cheering for him, before she let him make his third run in peace.
+
+The final thing before he was allowed to duel again was the most innocent-seeming task of all. They only had to sprint across the width of the gym fast enough to beat a timer.
+
+Some people weren’t having much trouble with it. Like Everly, who was already gone.
+
+Others were lying on the floor, trying to catch their breath or swearing vengeance against whichever instructor had come up with this. Alden suspected Klein, even though the man wasn’t here today.
+
+The time they’d been given to beat was the average of their ten best times crossing this same distance during previous gym classes.
+
+The problem was that they were often at their fastest while they were really fresh at the beginning of class. Or while running for their lives, fueled by adrenaline as a painful-looking death bore down on them. Or, in at least one person’s case, when they were racing their most hated rival, who happened to be a higher ranked speedster.
+
+Winston was screaming as he tore across the gym, like he was trying to make Finlay hear him from Li Jean. Plenty of people were wet from getting hit by Plim in the previous challenge, but Alden was sure Winston’s drenched hair was all sweat.
+
+They were allowed to use their powers of course. The people making it through this one easily either had new points or a new trick to rely on. Or they just hadn’t been going their absolute fastest in many of the previous classes. Whether that was because they hadn’t needed to or because some of them had been slacking, Alden didn’t know.
+
+He did know he had often pushed himself as hard as he could for speed, so this was a beast of a task for him. He stood there, wanting to completely catch his breath before he even tried.
+
+Sand on the floor, launch off of it as hard as I can, dive for the finish.
+
+That had worked last time after a few attempts. Getting the jump right made a difference. Using My Body Becomes My Assistant would help with that, but he had thoughtfully been provided with two timers. One for if he was using wordchains, and one for if he wasn’t. So the time he had to beat would just get faster if he chained up, and besides, this was Thursday.
+
+He’d decided to use wordchains on Tuesdays and during Coursing runs. Thursdays were for natural practice. Stuart said knights used them but didn’t like to rely on them, so Alden was going for that kind of balance.
+
+“If I could just strap explosives to myself, I’d blow myself toward the other end,” Njeri moaned.
+
+“That would kill you,” said Astrid, who was holding the other girl’s foot to help her work out a cramp.
+
+“But I’m tired. As long as I reached the end before I died…”
+
+She had Alden’s sympathy. Seeing her in that state made him sure he needed to rest for a couple more minutes before he tried it.
+
+******
+
+He considered his success on the first attempt that round to be close to miraculous. His foot hit the sand just right, and he landed so well for the next jump. His outstretched fingertips were brushing over the far edge of the finish line as his timer hit zero.
+
+He sprang up and whirled, wanting to shout, “Did you see that?!” to the room.
+
+But Winston was two feet away, staring at him with a beet face that was sweating buckets.
+
+“I am focused on my future,” he gasped in Alden’s direction. “I don’t care about you beating a time I could beat in my sleep.”
+
+“You look like you’re going to rupture something.”
+
+“I’M EXCELLING.”
+
+Maybe the teachers should lower his time a little. Considering.
+
+Another person sprinted over the line as Winston turned away. Her short dark hair was wet, too, but it was just water in her case. She didn’t look exhausted.
+
+“Hey, Maricel. Since we’re both here at the same time, do you want to duel in the dirt block? Looks like it’s free for us.”
+
+She had been really quiet all term. Great in class from what he’d seen. He’d wondered if all the publicity might have slowed her down, but Fragment’s tutoring must have been intense. He couldn’t recall her failing or screwing up at anything she’d done since she got back. She’d busted down the obstacle course ahead of her team in Coursing in a way that looked reckless, but it had worked. So that might have been strategy instead of a mistake.
+
+She looked at him now like she was surprised to see him. And then…like she was vaguely uncomfortable. And then she refocused.
+
+“Sorry, Alden. But for these three-minute duels, I’m only fighting people who might give me trouble.”
+
+His eyebrows shot up before he could stop them.
+
+“I mean to say…”
+
+“I enjoy making duels a challenge, too,” he said. “You couldn’t be here for a while, so there’s stuff I’ve learned that you haven’t seen yet. If you want to make it harder for yourself and you want me to put up more of a fight, there are options.”
+
+“Of course. I didn’t mean to sound like you were no good, but…with all that’s happened. You understand? I…I shouldn’t have said most of the things I said to you during the first weeks of school. I’m sorry. I wasn’t thinking clearly, and I don’t want any of the same things anymore.”
+
+None of the same things. Okay…I can go along with it. “You don’t have to be sorry.”
+
+“I’m not like that anymore,” she said, her shoulders going back. “I’ve got responsibilities. People are looking up to me. So I’m not someone who can be casual with you about things like this. We can have some fun practicing together. But only when the instructors assign it, all right?”
+
+Jeez. I know she’s not trying to shit on my morning, but this whole conversation feels more insulting than Winston just did for some reason.
+
+“I only asked because we both happen to be standing here.”
+
+He regretted that he sounded offended, but the regret was wasted. She didn’t even seem to notice.
+
+“Good. Thanks! I know you’re great for what you can do, but I think Ignacio’s about to get here.”
+
+Alden ended up waiting around for a while and then dueling Jeffy.
+
+The Aqua Brute was tired from trying to sprint and hyper about the amazing things he thought he could do by swimming “in water in the air,” by which he meant he wanted Shapers like Instructor Plim to make high-speed water tubes he could travel through.
+
+Alden lasted almost the full three minutes against him and considered it good practice, but it was kind of like he was fighting and Jeffy was fifty percent daydreaming and fifty percent remembering to tackle him.
+
+“Traveling by Shaper highway would be fine,” Alden said when they left the block. “But I don’t think it’s the best possible use of your water moves.”
+
+“No. I think the government wants me to find SAL ships. That sounds easy though, so it won’t take much time. The Artonans are almost finished with the ocean arches, but maybe they’ll build something else out in the water and I can help the divers? Being an Aqua Brute’s pretty important.”
+
+Alden smiled. “It is, man. I’m glad you know it.”
+
+He was so glad Jeffy was happy with his affixation. Everyone deserves to be.
+
+“What happens when you get hit with a Shaped stream of water with the life jacket spell on? I know you tried.”
+
+“Yeah I tried! It’s kind of like it jumps for you. Do you think we could use it in Coursing? That class is next.”
+
+“I know that class is next. I’m going to be there, too.”
+
+******

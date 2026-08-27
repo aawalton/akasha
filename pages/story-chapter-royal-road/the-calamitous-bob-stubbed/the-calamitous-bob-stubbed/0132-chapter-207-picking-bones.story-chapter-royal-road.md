@@ -1,0 +1,665 @@
+---
+id: 503507c2-15c3-542b-b795-a1d8a11fea96
+page-type-slug: story-chapter-royal-road
+title: "Chapter 207: Picking Bones"
+slug: 0132-chapter-207-picking-bones
+partOf: the-calamitous-bob-stubbed
+position: 132
+ownLength: 7471
+unit: words
+ownProgress: 7471
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2300701/chapter-207-picking-bones"
+royalRoadId: "2300701"
+markedReadAt: "2026-06-29T21:20:29.755Z"
+---
+
+It was a nice pyre. Viv had worked together with Arthur to bring all her birth mother’s bones together, then they’d stuck dry mushroom patches under the pile though it was hardly needed with dragonfire being what it was. Fragments of broken shells completed this edifice to a youth that never was. Now, it blazed merrily in the gloom. The two of them stood there, quietly. Arthur hadn’t reacted when Viv had added the bone fragments of her brother, whom Viv had slain for attacking her.
+
+It is a nice farewell.
+
+This way, even if someone finds this place, they will not misuse the bones for their own ends.
+
+Viv didn’t react. She’d used bones for Solfis, so a feeling of guilt filled her, but Arthur didn’t look like she was harboring any grudges. It had been a long time ago, and Arthur had been barely conscious then, her intellect stunted by starvation and neglect.
+
+I am glad I got to say goodbye.
+
+I don’t think she would have been a very good mother.
+
+But that is not the point, yes?
+
+“Funerals are for the living,” Viv said. “For you. I’m sure she would be proud of the dragon you have become.”
+
+Do not be so certain.
+
+Viv gave Arthur a glance. The dragoness had ‘sounded’ very certain. She sighed, the gesture sending puffs of superheated air that warped the light.
+
+My mother was one of the last… powerful representatives of the third bloodline.
+
+She was very confident.
+
+And very arrogant.
+
+It was her pride that led her here, to her death.
+
+Someone who favors their pride over their spawn would not have a kind fate in store for us.
+
+Likely world domination.
+
+But without the fun.
+
+“I’m not sure if you mentioned the three bloodlines before. Is that like royalty?”
+
+No.
+
+It is more… an origin.
+
+Dragons of the three bloodlines can sire spawn together, with children taking on the attribute of one of the parents.
+
+Usually one more than the other.
+
+The first bloodline favors strength.
+
+Judgment belongs to them.
+
+The second bloodline favors fire.
+
+A dragon called Mother is the strongest of them all.
+
+She can melt silverite with one breath.
+
+“Wow, she could turn Solfis into a puddle?” Viv asked, amazed.
+
+In a single moment.
+
+Although, she is very far, and prefers to watch over her brood.
+
+There are currently no single-name dragons of the third bloodline.
+
+Which favors magic.
+
+My brother and I are members of that one.
+
+“He favors magic too?” Viv asked with a dubious voice.
+
+Arthur gently pushed her with her tail. Viv lifted her hand to show she meant no insult.
+
+I speak of natural aptitude, not accomplishments.
+
+And besides, my brother has been doing better.
+
+I am almost not embarrassed to call him my sibling anymore.
+
+When he doesn’t smell.
+
+“It’s true. I’m being harsh with him. I blame it on the fact he was a murderous piece of shit who terrified humans out of laziness.”
+
+Mother.
+
+You terrify humans.
+
+“Not all of them. And I was definitely not lazy.”
+
+Your tongue is sharp, mother.
+
+I acknowledge your wit.
+
+Thank you for being here, as you were there when Solfis said farewell to their master.
+
+I think that, as with education and binding humans to your will through their own greed, funerals should be more widespread among dragonkind.
+
+Another valid human invention.
+
+Though my favorite remains compound interest.
+
+“Sometimes I fear what I have created,” Viv whispered to herself.
+
+Arthur shook her lithe frame.
+
+Enough of this.
+
+We should return.
+
+I have… what was it your ‘movies’ said?
+
+I have a call to make.
+
+***
+
+It so happened that it was Viv who had a call to make, immediately upon her return. This was not a request. A sheepish Arthur led her to the depth of her bank/cavern/dragon hoard where the cozy earthen walls turned mineral and harsh, and the light was dim. Viv had never visited this specific place. It seemed that the bank extended underground farther than she’d expected.
+
+Arthur entered a dragon-sized room with carved stalactites. At the center stood an altar bearing disturbing similarities to the divine-powered items she used for long-range communication. Her daughter conducted a short ritual with voiceless reverence. The nearest hint of a large presence touched her mind. It was like opening an oven while standing just a bit too close — not quite hurtful but distinctly uncomfortable.
+
+It occurred to Viv that she’d never asked about dragon gods. Did dragons even need gods? They were not exactly the devoted kind. Then it occurred to Viv that it didn’t matter. A dragon would never stop to wonder if its kind needed a god. It would just become.
+
+As the presence receded, it was replaced by another, no less terrifying.
+
+GREETINGS.
+
+“Hello Judgment, it has been a while.”
+
+IT PLEASES ME THAT YOU HAVE NOT STRAYED FROM YOUR PATH, YOUNG ASCENDER.
+
+YOUR KIND EVER LOVES TO USE SHORTCUTS.
+
+AND THEY FORGET ABOUT THE CONSEQUENCES.
+
+SOMETHING, THOUGH I SUSPECT IT IS SOMEONE, HAS FORGOTTEN THE RULES AGAIN.
+
+“Are you referring to the desecration of your kin’s remains?”
+
+PRECISELY.
+
+I WILL NOT DENY A GREAT HUNTER THEIR TROPHY.
+
+REANIMATION IS NOT THAT.
+
+IT MAKES A MOCKERY OF LIFE ITSELF, AND OF OUR NATURE.
+
+UNFORTUNATELY, I AM CURRENTLY ON ANOTHER CONTINENT.
+
+“Aw.”
+
+It would have simplified everything. Just toss a giant, millennial-old dragon at problems and watch from the sidelines with a mojito and a lot of sun cream. Alas.
+
+I HAVE ORDERED MY KIN TO ASSIST YOU.
+
+THREE OF THEM SHALL ARRIVE IN TIME TO ANSWER THE CALL.
+
+OTHERS WILL COME AS WELL, SHOULD YOU FAIL.
+
+I HOPE YOU DO NOT.
+
+“I won’t. I assume Arthur is one?”
+
+THE OTHER TWO SHOULD ARRIVE AS WE SPEAK.
+
+GO NOW, AND PUNISH THE GUILTY.
+
+WITH MY BLESSING.
+
+“Alright.”
+
+The altar’s power faded, plunging the room in a darkness that Viv hadn’t noticed. She was eager to see who was arriving, though, and also vaguely concerned about dragons on her territory. She expected Gale to be one of them. Who was the third?
+
+“Let’s get out.”
+
+I feel them approaching my territory.
+
+Arthur let out a low growl. She sinuously trotted back through the various corridors in a weird mix between a lizard and a stalking cat. As soon as they were out in the afternoon sun, Arthur stood on her hind legs and took a dominant pose, arms stretched wide.
+
+A white dragon landed nearby. Viv recognized the familiar shape of Gale. He was wise enough not to answer her provocation.
+
+The second dragon landed with a very loud thud. He was larger than both siblings combined, green, and powerfully built. Viv recognized him instantly. They’d met before, in the Deadshield Woods.
+
+“Wait… I recognize you! You’re, hmm… Cold-Gale-Over-Spring-Meadow?”
+
+Damn that made two gales. Maybe the dragons just liked wind? She’d just think of him as Meadow.
+
+The adult dragon just stared at Arthur, who was still very, very far from being of threatening size to him. His thoughts were much purer and simpler than Arthur’s. Hers were like bolts of lightning striking Viv’s mind with crackling energy. His were stone of simple patterns, more direct.
+
+Not this shit again.
+
+“Arthur, be nice. He’s here to help.”
+
+This is my den!
+
+“Stop challenging him for dominance. This is an alliance. He’s not here to take over, ok?”
+
+Meadow sniffed in the wind. He didn’t look very comfortable.
+
+I miss the forest.
+
+Is there food?
+
+Arthur sat back on her haunches. She huffed, head turning away.
+
+You are right.
+
+He will not be taking over my banking empire.
+
+Viv returned a reproachful glance.
+
+“Thanks for joining, Cold-Gale-Over-Spring-Meadow. Listen, I think I have an idea. Can you carry very heavy stuff? Like something as large as a boulder?”
+
+Why carry a boulder?
+
+“I have a plan.”
+
+***
+
+The Baranese ambassador was an experienced man. He had served abroad in Enoria, in Helock, in Mornyr, and led missions to half a dozen northern cities. It was his doing that led to the first diplomatic agreement with Zesthanet, the southernmost city on the continent past the wild lands. He had even crossed the sea twice to faraway Vizim, sampled spiced wines in their bazaar and watched the elementals-ravaged deserts that stretched out into the unknown. Many times, he had pushed aside the hand of war, and twice he had been the one to declare it. Kazar was a place he had never visited before, but he had read reports from twenty years prior, back when a daring northern lady had become the mayor. She had turned what was a glorified outpost into a flourishing Free City. He thought he knew what to expect. He had been completely wrong.
+
+“This cannot be the work of five years,” he grumbled in his beard. “That is impossible.”
+
+The city expanded beyond its original walls and the benevolent shadow of its massive purple tree. The air smelled better than in most cities he’d visited, with built sewers, yet the narrow streets still spoke of a near past when they’d been wide enough to suit the city’s purposes. Now, it was crowded and so busy, even his own elaborate carriage could not cleave through the mass of humanity barring the way. Soldiers, travelers, laborers, merchants, heralds, all came and went in a great cacophony of languages, with the bleating of cornudons and occasional swear words providing a lively counterpoint. The city was bustling. It was also missing two things he expected from every city: vagrants, and shit. The place was suspiciously devoid of thieves. He checked a few alleyways, places where that ilk liked to loiter while they searched for easy marks. There was no one there. Only crates and the occasional barrel.
+
+No, there was a dark figure with a mask. A smiling mask. It was a woman. She lifted a gloved hand to her painted lips and gave off a hush sound. No, the mask was winking, not smiling. No, there was no one there.
+
+No one.
+
+It was just a figment of his imagination. Perhaps he was tired from all that traveling. As for the lack of excrement, he opened the window to ask his coachman, a Baranese.
+
+“I notice that this city is suspiciously clean, especially for a frontier city. With all those immigrants, I was expecting more chaos and more filth.”
+
+“It’s that empress, with her weird rules. Up in Sinur’s Gate, visitors gotta wash before they visit the palace! Well, there are public baths but… imagine! And here, those who litter can get publicly shamed. Can’t piss in a side street without some of those hooded freaks pinching your ass so you drench your shoes. Beg your pardon.”
+
+The ambassador cast a suspicious glance towards the man’s shoes. They didn’t look very clean.
+
+“T’was another pair, melord. That empress, she tosses people out the window for spitting on the ground.”
+
+“In the throne room? On the carpet?” the ambassador asked.
+
+“Well… yeah.”
+
+There might be some Harrakan rules he would love to see implemented back home after all. Without further comment, the ambassador returned to his observations. Churches were out in strength when they approached the main square, even now packed with people. Priests of Sardanal blessed seeds purchased by new arrivals while the clergy of Efestar blessed those who came here for another chance. Neriad’s knights watched over the processions, offering advice on revenant disposal to the burliest men and women. For all of the seeming chaos, he recognized a fluid, well-oiled wheel that crushed the coarse grains of humanity into new citizens, armed and equipped for a new life. It must be costly, yet from the money changing hand, it had to be a profitable endeavor. And he had no doubt the commoners would love the empress for it.
+
+Give them a year’s worth of earnings to tax them for generations. Quite a feat.
+
+“Stop here and buy those wraps, one for each of us,” he ordered his man a bit later.
+
+It was going to be a long journey and he had no intention of stopping on the way. The wrap lacked salt, but it was otherwise quite fresh, always a nice surprise. A tangy aftertaste spoke of high black mana. Those would keep well too.
+
+Outside of Kazar, the fields had receded in favor of temporary barracks under the protective aegis of a massive statue depicting the cloaked and hooded God of Redemption. The carriage and its escort picked up speed then. They stopped for water at a designated spot since the precious liquid was apparently in short supply farther down the deadlands. There might be an opportunity there.
+
+They rode past a boundary stone a bit later. Flowers decorated its surface.
+
+“What is it?”
+
+“It used to be where the deadlands started, me’lord. Back before the witch put all those stones out there to suck up the mana, aye?”
+
+Beyond it, farmland extended to the distant stone cliffs of the capital. Green fields, orchards, grazing grounds dotted with the cave entrances that led to mushroom farms formed a pleasant tapestry of abundance. Some dry patches between estates still showed the arid desert that this place used to be, but now the afternoon light shone brightly. The ambassador knew Harrak’s triumph was, or would be, to the detriment of Baran, but right now he could not stop a seed of pride and hope from taking root in his heart. This was where the earth had died, a land no one believed could ever be reclaimed, and here it was flowering again. There was much to say about the witch. In this regard, she had done well.
+
+“Here’s the knight compound, me’lord!”
+
+For a moment, the ambassador thought he might be back in the Baranese heartland. A sprawling manor stood over an elegant garden decorated with statues and stellae bearing words that were too far for him to read. Fields of hauntingly beautiful roses enshrined them in the middle of this pastoral scenery in a completely incongruous mix. Here were Enorian hovels, southern huts, Northern flat-top houses among fields and there was the demesne of a duke. How could this be?
+
+“They say the knights are, well, they’re good warriors I’ll tell you that,” the coachman rambled.
+
+“Mighty and all in their black and blue armor, aye. It’s just that some of those statues, well. And the poetries on those stellae. A bit scandalous if you ask me, haha. Could give a man ideas. And quite a few lasses as well, they like reading those, they do.”
+
+“What sort of subversive opinions?” the man replied with a frown. “Rebellion? A penchant for democracy?”
+
+“No me’lord, a penchant for… manflesh.”
+
+The ambassador frowned, shocked to his core. Really?
+
+Cannibalism?
+
+“They’re gay, your lordship.”
+
+“Ah. Well, it happens. Many knightly orders have forbidden romances…”
+
+He had made a few noble houses bend the knee with salacious secrets, back in the day.
+
+“They’re aggressively gay, your lordship. They sing very daring songs before battle, speak poetry from towers with sound enchantments that make them very loud. It is said the enemy is perturbed.”
+
+“What sort of dastardly tactics do those Harrakans use!”
+
+“Well there is also the fire wasps.”
+
+The man shook his head. He had been too preoccupied by those heavies and the machines to really pay attention to the rest. All reports said the Harrakan knight order was in its infancy, and no match for the might of Baran. Perhaps he should still learn more.
+
+As the convoy progressed, the ambassador saw more signs of the architectural chaos that seemed to define this part of the world. Building styles from every corner of Param coexisted in peace. There were even some of the brutal stone edifices that had marked the Old Empire right before its fall. He noted quite a few large carved stones inscribed with — as far as he could tell — children’s tales. The coachman’s comment was even more puzzling.
+
+“It was made by one of the golems to teach people how to read. She, beg your pardon, it looks like a woman, she is always making books and writing stuff everywhere.”
+
+“And where are those golems?”
+
+“They’re all at the front, me’lord. With the army.”
+
+Ah, yes, the cause of this whole meeting. The witch had stirred the hornet’s nest, no doubt about it.
+
+The ambassador found nothing of note while climbing towards the city of Sinur’s Gate, beyond the fact it would be an absolute nightmare to besiege. The gates themselves were fortified and manned by city guards with truncheons, not exactly a glorious sight. Inside, a pleasant view awaited him: the old spires of this reclaimed city. Sinur’s Gate was built vertically to conserve space. The many towers must have been the houses of aristocrats back in the day, but now they were populated by commoners who hung their laundry from their august bridges. There was something vulgar and uncomfortable to having the lower classes glance down from above, but such should be expected from the witch. If she had any regard for proper hierarchy, this land would still belong to Enoria. The numerous manors had been reclaimed as workshops though, and the smoke that emerged from its many chimneys spoke of dense activity.
+
+“Is this the industrial heart of Harrak?” he asked his coachman.
+
+The man replied in a lower voice. This city was much more quiet, the mood subdued and focused. The ambassador could even hear the pleasant gurgles of nearby fountains, so quiet the place was.
+
+“No sir, that would be far north near the Min Goles mines. This place is for finer work. The tools and weapons, well, they’re made by and near the owl folks. Industrious buggers, you know? They got them big factories with lines of people doing things and a lot of metal comes from one end while full armor sets and boxes of stuff come out of the other. All in one place. Ingenious, that.”
+
+Something about the man’s casual tone ticked the ambassador. Armor sets and tools were not made in the same place, that didn’t make sense. You had artisan guilds and people making the rounds around family workshops to collect what was made. It was common sense. Was this some sort of Outlander balderdash?
+
+“We’re here sir.”
+
+There was barely a tiny place to stop the carriage before the palace’s gates. It was, much like the city, narrow and tall with a beautiful dome and the broadest, highest tower around. Men and women in heavy armor stood by the entrance. Those were not city guards, this time. He inspected one of them.
+
+[Harrakan heavy (Hightree Company): third step, one who follows the path of Harrakan heavy infantry. Close quarter specialist. Versatile warrior. Undead bane. Human slayer…
+
+The description went on, though he ignored the more individual achievements. Versatile warrior was for those who performed just as well in formation as out of it. Now, he noticed that the guards also wore an assortment of weapons on their backs or hanging from sheaths by their side. How very peculiar, he thought! Elite soldiers ought to keep a pleasing uniformity, else what was the point. Ah, but those must be the veterans the reports mentioned. The witch had gathered a massive number of maimed footmen — and even knights — by regrowing their limbs. Traitors, the lot of them. To abandon one’s nation for the promise of healing. How easily some people forfeited their previous allegiances.
+
+He frowned. Would it not be easier to return home afterward, rather than stay in this forsaken land? What made them stick around, he wondered. Surely, the witch couldn’t pay well. Just another puzzling aspect of the issue. Shaking his head, the ambassador walked into a cramped lobby crowded with messengers and harried civil servants. He was let through without a fuss, led deeper in by a stern-looking young woman.
+
+“You did not request to see my pass,” he remarked. “Do you trust the words of every visitor who enters here? I find the lack of truth finders concerning. How can my security be guaranteed?”
+
+“You were identified long before you came in, Your Grace,” she replied without looking at him. “By a hadal. If you had been an impostor, you would not have been allowed through the door.”
+
+This time she turned, and her smile was not kind.
+
+“Of course, Her Majesty sometimes lets them in so we can have a little show, but Solfis is busy today.”
+
+“I see.”
+
+They walked through a tiny inner courtyard well decorated with flowers, then past that under the dome, which held the throne room. The throne itself was a dark steel construct that spoke of the skill of its makers, yet still remained austere. It currently stood empty. The benches and dais before the platform were filled with various representatives, but the so-called empress herself stood among a group of notables, talking in a low voice. The ambassador recognized the dark-skinned, gray-haired squat woman in full plate as the Order Master of the golden sisters of Enttiku. Next to her was General Jaratalassi, whom the ambassador had never seen cast a spell, and a thin, effeminate man in a dark officer uniform. An old man, also in full plate, attended. The ambassador quickly identified them.
+
+[Strategist, third step, one who follows the path of army leadership...]
+
+His titles were nothing impressive. The ambassador didn’t dismiss him, however. The witch didn’t keep useless people in positions of power. As for the old man, he was clearly a commoner from ruddy skin and defensive posture. Perhaps some sort of bodyguard? The rabble could be quite devoted when they knew their place.
+
+[The Tip of the Spear: commander of the First Battalion, First Company of the Harrakan army. Fourth step. Leader of men…]
+
+The ambassador had to admit, that one was plenty impressive. It was dedicated people like him that formed the glue of a proper fighting force. The fact the witch had picked him over any fresh face nobleman spoke highly of her. It was such a pity then that they would stand on opposite sides of the checkerboard.
+
+The ambassador flinched when a presence made itself known by his side. How long had that man been there?
+
+“It has been a while, Lord Ambassador,” a deep voice said, dripping with venom.
+
+“Rollo.”
+
+“It is still Ser Rollo to you,” the disgraced knight growled. “In memory of the good old times, I have warned Her Majesty about your tendencies.”
+
+“Her Majesty? How quickly you sold your allegiance,” the ambassador retorted.
+
+“Allegiance is earned. And so is respect. I would keep that in mind, if I were you. The palace has a bit of a draft, and the fall can be quite… unpleasant.”
+
+“Is that a threat?” the ambassador spat.
+
+“Yes. But don’t worry. I won’t be the one carrying it out.”
+
+“And you must be the Ambassador of Baran,” a female voice said in Baranese. “Ser Jethri?”
+
+The witch was here. Immediately, the ambassador bowed as protocol dictated, though it also gave him a moment to grow accustomed to her presence. Just like all sovereigns, she followed a path that marked her soul with the weight of power, but hers tasted more bloodsoaked to his acute perception. She had carved a path to rulership, not inherited traditions. It made her feel more raw.
+
+He looked up. Two circles of shiny emerald on an abyssal background. Her smile was polite and pleasant. Strange blades emerged from behind her shoulders, and as he looked more carefully, he could see strange patterns shimmering on them. She was tall. As tall as the strongest knights.
+
+“Your Imperial Majesty. I bring my liege’s greetings and promise of aid in these dark times.”
+
+“He has my gratitude, of course. With your arrival, all expected representatives are now present so I will begin this council. If you will excuse me…”
+
+“Of course.”
+
+She turned. He caught the sight of silverite runes engraved in her black and silver war robes. These were newly made, and quite potent that he could tell. The Baranese painted the Harrakans as muddy yokels playing dress up but looking at this handywork, he wasn’t so sure.
+
+His eyes met those of the Tip of The Spear. They were not friendly. The Ambassador smiled anyway.
+
+Arrogant bumpkin.
+
+In the meantime, the witch had reached her throne. She waved and her voice suddenly covered the hubbub of conversations. She had chosen imperial as the language, which was fair since most scholars and educated gentlemen such as himself spoke it. It was the privilege of hosting, he supposed.
+
+“Ladies and gentlemen. Dear guests. Thank you for coming to this council dedicated to the war against the undead. We will unfortunately have to go outside for the briefing itself since the council room is simply too small to accommodate all of the combatants.”
+
+The ambassador resisted the urge to huff. Some palace this was.
+
+“General Jaratalassi and myself would like you to tell us who you are and who you brought, so we know what we will be working with. We will proceed by order of arrival. Any objections?”
+
+She sounded very much like she didn’t want any objections. The tinge of intimidation in the air made complaining about such trivial details extremely undesirable.
+
+“No? Good. Prince Gil of Enoria, if you would begin?”
+
+The ambassador was surprised to hear that the king had sent his heir to the frontline. Perhaps he was hoping for him to get some blood on his sword.
+
+“My father sends his best wishes!” a youth with a rather unfortunate attempt at a mustache said.
+
+He sounded peppy. The ambassador found peppy people annoying.
+
+“Unfortunately, we could not do much on such short notice. My father still sends two regiments of Dead Eyes and their trainees, as well as three carts of arrows. It is all we had on hand.”
+
+“It is appreciated,” the witch replied without guile.
+
+“Several witches of the Path of the Sun also wished to join to, and I quote, ‘see a fellow practitioner at work’.”
+
+Chuckles came from a group of savages covered in feathers and trinkets. The witch smiled, though the ambassador did not. Was this a war council or a traveling show?
+
+“I promise you that your wish will be fulfilled.”
+
+“Ah, and my father asked you to treat the lives of his people as if they were your own.”
+
+The mood grew more serious. The witch gave Gil a nod.
+
+“General Jaratalassi will be in charge of this operation, as usual. No drop of Enorian blood shall be shed in vain.”
+
+Leadership spread through the room. The ambassador tasted the truth of her word, and the rest of the envoys exchanged confident glances.
+
+“Thank you, Prince Gil. Now for Zazas?”
+
+“We bring two hundred slingers! We understand that javelins do not do much against revenants.”
+
+“Indeed not. Their help will be precious.”
+
+More minor factions spoke up, including a few mercenary bands and the Golden Order. To the ambassador’s surprise, the empress suddenly spoke in a guttural tongue he did not understand. Her words were slow and hesitant, but the reply was clear. It was given by a scarred Kark standing in the corner in a set of armor that looked distinctly Harrakan, yet ensconced his muscular form perfectly. It felt incredibly jarring to be speaking after the subhuman, but the ambassador comforted himself with the knowledge being last to speak was almost as good as being the first.
+
+“Ambassador Jethri, if you would?”
+
+“Thank you, Your Imperial Majesty. Just as my esteemed fellow said, it is extremely difficult to gather a significant force on such short notice. As such, we regret to inform you that we cannot send any of our knight orders.”
+
+Well, the White Orchard was always ready to go. Unfortunately, the messenger tasked with contacting them was either mysteriously and unexpectedly delayed or on his way to be.
+
+“I was expecting it,” the empress said without anger.
+
+“We still bring you… the blade master Selyen!”
+
+Fucker was expensive and always asked for more practice so he’d get it, but without the Sword of Baran. The artifact was too valuable to be lost.
+
+“And three conclaves of mages.”
+
+The bottom of the barrel, mostly sent as a warning and for discipline. If they were killed, it would be no big loss.
+
+“Mages are always welcome. We are designing a ritual to handle the fliers. They will be most useful.”
+
+It was the ambassador’s sincere belief that it would take a ritual most potent for those idiots to prove themselves useful.
+
+“There is a matter I’d like to address first,” the ambassador finished with a smile.
+
+Aaaaaand there it was. Jaratalassi sighed, a gray-haired woman gently tapping his shoulders. The ambassador refrained from glaring. Yes, you old fuck, we will engage in politics because this is what happens when you gather the representatives of several factions and ask them to cooperate. Politics.
+
+“Do tell?” the empress said.
+
+She had this patient look parents take when they expect horseshit from their children. It irked the ambassador.
+
+“You claim that a horde of unprecedented strength is approaching this city. I have, of course, no reason to doubt the reports.”
+
+But the way he phrased it still attacked her credibility.
+
+“Yet you also claim that it is no lich or necromancer who commands such numbers. That is, also, unprecedented. In more than three centuries of existence, the deadlands never tested us with the danger you mentioned, yet only a few years after you start plumbing its depths, we suddenly experience such a strong reaction. One would wonder what could have possibly happened to cause such an event to occur.”
+
+The ambassador let the sentence hang in the air. It was an accusation, of course, yet the innocent phrasing would prevent any direct attack. Some of the more naive representatives frowned. It hadn’t occurred to them to wonder why.
+
+“I fail to see how it is relevant to the operation,” the empress replied.
+
+Aha! He had been expecting this.
+
+“It is relevant because the terms of the Paramese Alliance address the consequences of recklessness. It is one thing to withstand the assaults of the Halurians, or the beastlings, but another thing entirely to poke the undead nest until the entire alliance must stand to make up for one’s mistakes.”
+
+The ambassador braced to resist a wave of intimidation that never came.
+
+“Clause of Stand for Humanity.”
+
+He blinked. What was… oh.
+
+“You claim that you are fighting for mankind.”
+
+“I am. An invasion of Haluria, for example, might be considered reckless expansion under the alliance’s code since it does not represent an antithesis to mankind.”
+
+The jab at Baran’s eastward expansion was direct, and also, a threat, since the empress could argue against helping Baran in the next war.
+
+“The undead are. It is not a sin to fight against the enemies of all life. Any and all counter-attacks fall under the Stand for Mankind clause because this is exactly what we are doing: bringing the fight to an existential threat. Have undead hordes not been a constant presence in the past? Yet under Harrak’s aegis, the limits of the deadlands have been pushed back, and the need for a protective ring of forts eliminated, which has freed troops for all major members of the alliance, is that not true?”
+
+Only the dregs, the ambassador knew, yet there was no denying that the yearly expenses wasted on the maintenance of sentries was well used elsewhere. He granted the point with a nod.
+
+If it were a more public forum, he could have made several bad faith arguments to move the masses to his side. It would be pointless to do so here, however. Diplomats could not be so easily swayed.
+
+Unfortunately, the empress had managed to deflect the blow both legally and logically, by providing a plausible explanation: cities were being freed of undead presence, therefore the undead counter-attacked. It was sufficient to explain the situation, but the ambassador still had one last thrust to offer.
+
+“Indeed, the undead react to an attack deep within their territory…”
+
+She nodded, and the mood relaxed.
+
+“But the undead do not think as we do. In fact, they do not think at all,” he continued. “One might wonder what specifically happened to trigger such a strong reaction. Perhaps you have found something that would attract them? Some artifact of power, perhaps?” he asked innocently.
+
+“Not as such, no,” the empress replied, but this time, her voice was not as sincere as before. It tasted like part of the truth, not the intense belief she had shared when saying no Enorian life would be sacrificed for no reason.
+
+The ambassador was convinced.
+
+The Harrakans had found something in the desert.
+
+Something powerful. Perhaps powerful enough to explain the horde. Oh, he couldn’t prove it, but he could plant the seed of doubt in the mind of the attendants. And he had.
+
+Harrak was hiding something. Now, they knew, and they would resent being called to help yet unable to share the benefits of Harrak’s success. Naturally, this was true of any Paramese Alliance endeavor, but this time, they hadn’t expected it. And it would make a world of difference. The wound was inflicted.
+
+His duty was done. The king would be pleased. There were a few whispers until old Jaratalassi brought back order to the room.
+
+“Now that we are done here, I propose that we move outside for the briefing,” the empress ‘suggested’.
+
+Guided by the guards, the delegation moved out. They walked through the city at a sedate pace, the ambassador ignored by most since he had presented himself to be clearly hostile. Obviously, he was not the only adversarial nation on the continent. It was just that the Pure League and Helock had made excuses as to why they couldn’t participate. Eventually, the group went through the northern gate, and the ambassador had to stop to take in the sight.
+
+It was as if someone had cleft the world in two. Behind him, the walls of New Harrak’s capital showed some ivy, perhaps a flower pot or two were visible in the towers, and the sky was blue with the cottonous white of distant clouds. In front of him, an unceasing cover of gray  lay blanked over all he could see. Beyond the divide the world was gray, black, and most definitely dead. It was more than just a question of color. It was a question of movement, of diversity. Of life.
+
+So this was the Deadlands. The reports didn’t do it justice.
+
+At the feet of the fortress-city, a vast network of fences, walls, pits, and barricades extended for half a league in a concentric circle that ended at the path that led up to the gates. He studied it for a moment, noting the intricate network and the current lack of soldiers manning it. He didn’t know enough about strategy to hazard a guess, but as far as he could tell, the interlocked mage circles and open paths were designed to channel the undead into chokepoints. It would take a strategist to judge if those were real measures or the manic dream of a delusional child. Sighing, he continued to a wide open space on the edge of a house of customs. A large table awaited there, though there were no tents, and he immediately understood why. There was no need. No wind would ever blow, nor would rain fall; all was still, it was a land ruled by death. Next to the table stood a steel and silverite titan that had to be at least three times his height. He inspected it by habit. It turned out to be a poor idea.
+
+[HKX-013, designation: Solfis. You are currently being tolerated.]
+
+The impassive mask turned towards him. Yellow lights grabbed his soul like a vice.
+
+He was being tolerated. It was a privilege. This was important information.
+
+The vice released him, and the ambassador stumbled forward. No one else seemed to have noticed.
+
+Without a word, the ambassador approached the table. A map of the valley below was stretched from end to end. A woman in unmarked uniform was steadily placing pieces where, he presumed, troops would deploy. The strategist thanked her once she was done.
+
+The empress began immediately afterward. Her tone was as dry as the land below.
+
+“We have three objectives I will now explain. First, you need to know that the horde is directed by a relay that flies over the deadlands’ cover of cloud. The first major objective is to dispose of the relay to slow down the horde. Your assistance is not required in this endeavor, as I will be taking care of it myself.”
+
+“So you will not be present during the battle?” the ambassador smoothly asked.
+
+Tension filled the air. The empress waited one second before replying, a way to express displeasure.
+
+“I will be flying ahead of the horde to destroy the relay long before they reach us, or at least, that is my hope.”
+
+“If there is no relay, would the horde not scatter?”
+
+“My Minister of Justice and servant of Enttiku believes the horde now possesses a… an impetus, for lack of a better word. It will continue its journey until either it breaks against us here, or the mountains far to the south. We also believe that emergency relays could be built to replace the loss of the main one.”
+
+“Built? By whom?”
+
+Instead of replying, the empress looked up. She allowed herself the briefest smile before replying.
+
+“We are not certain yet, however we do know that the relay was built due to the nature of the entity carrying it. The relay is a dragon golem.”
+
+Stunned silence descended upon the assembly. Even the ambassador couldn’t believe his ears. Protests erupted almost immediately.
+
+“A dragon golem?”
+
+“Surely, you are jesting.”
+
+“Is this true?”
+
+“Perhaps you are mistaken…”
+
+The empress didn’t react when something flew down, stopping on the ground with a blast of air. The map fluttered but it was well affixed. The same could not be said for the crowd. A few people yelped, a few others cried in fear. It took the ambassador all the discipline his mind could muster not to betray his terror. Before them now stood a dragon.
+
+Not a whelp, like the initial reports said. A dragon. The creature stood on its hind legs, flapped its wings once, and then settled like a lady at a banquet. Thoughts barged into the ambassador’s mind like nosy neighbors.
+
+I do not make mistakes.
+
+It was a dragon golem.
+
+The audacity!
+
+Someone will PAY for this.
+
+“As I said,” the empress continued, “you do not have to be concerned with it. We will handle it on our end. What matters now is to prepare for the horde. Our troops are ready to be deployed. General Jaratalassi and Strategist Sahin will be best suited to arranging our forces in the most effective configuration. Yes?”
+
+It was Prince Gil who spoke this time. He had even raised a hand like a good pupil.
+
+“With all due respect, we have a perfectly mighty fortress. Why fight in front of it, rather than in it?”
+
+“A good question,” the empress replied. “Sahin, would you take this one for me?”
+
+Sahin’s voice was melodious and soft, with a cold detachment that felt almost insulting to the ambassador.
+
+“First, sieges are not for winning, they are for surviving. Since the undead have no logistics or morale, a siege is not the best way of thinning the horde. Second, the enemy brings a large number of fliers and crawlers that would render the advantage of walls moot. Third, the largest portion of our army is designed to operate on the field. It is there that we can inflict the most damage. However,” he conceded, “the plan allows for a retreat to the city after we have used our resources to the best of our abilities. There is also the issue of necrarchs. An open field is best to see them coming.”
+
+A wave of consternation spread through the crowd. What in Enttiku’s name was a necrarch, the ambassador wondered? It sounded dangerous.
+
+“We are facing necrarchs?” the Zazas envoy asked, aghast.
+
+“We are. They will be intercepted by our elites.”
+
+“What manner of elites can stop a necrarch?” Gil asked. “My father said that even a knight order would lose most of its members taking those abominations down.”
+
+“Necrarchs formed in the old capital lack the cunning intellect of their natural cousins.”
+
+“Yeah, father was talking about those, not the natural ones.”
+
+“Each golem can handle one at a time. So can I, and Arthur and my blademaster can do the same. My paramour can do so with proper support. We have options,” the empress assured. “They are also the most difficult undead to control. With the relay destroyed, they might disperse on their own despite the momentum.”
+
+The group didn’t seem convinced.
+
+//I HAVE BEEN KILLING NECRARCHS SINCE BEFORE ANY OF YOU WERE ALIVE.
+
+The voice was loud and utterly devoid of humanity. It was not, however, devoid of condescension.
+
+//YOU SHOW MUCH FEAR FOR ENTITIES THAT WILL NOT GO DOWN ON THAT PLAIN TO FIGHT.
+
+“A necrarch is an extremely dangerous threat,” the ambassador objected just to try and undermine that cold intelligence.
+
+It was having too much effect on his fellow envoys. Unfortunately, the creature’s attention made him sweat. It wasn’t even a skill. It was merely the animal part of his brain waking up to whisper about self-preservation.
+
+//IF YOU WERE PROFICIENT AT ASSESSING THREATS, YOU WOULD BE SILENT NOW.
+
+//WE WILL HANDLE THE NECRARCHS.
+
+//NOT JUST BECAUSE WE CAN.
+
+The creature leaned forward. It was amazing how much it could lean and yet still tower over the ambassador,
+
+//BUT BECAUSE IT IS FUN.
+
+//AND I HAVE BEEN… BARRED FROM ENTERTAINMENT, LATELY.
+
+“Your Majesty, will all of your subjects threaten me thus?” the ambassador continued past the point of reason.
+
+He knew it but he refused to give up.
+
+“Threats are not violations of the hospitality you are owed. Jaratalassi and Sahin will get into more detail on the battle later. First, I wanted to inform you that the third objective is to cut the problem at the source by identifying the dragon golem’s maker. We are still gathering information.”
+
+“How are you getting that kind of information?”
+
+“From Enttiku, mostly.”
+
+She spoke as if she had the ear of the gods themselves. Preposterous. The ambassador made to speak. The empress was getting too much draw. No one would care if she kept secrets if she could call upon gods, dragons, and golems.
+
+You will cease.
+
+The dragon was looking at him.
+
+You may think you are safe because I cannot attack you.
+
+The assembly was silent. The thoughts, he realized, were broadcast to everyone’s minds.
+
+Indeed, I am the heir to the throne.
+
+It placed a hand on its chest. the empress looked up again. The ambassador had a very bad feeling about this.
+
+Therefore I must behave or risk my reputation, or worse! My bottom line.
+
+My brother is not part of the empire, though.
+
+A second, larger white shape landed.
+
+Why am I not part of the empire?
+
+Because you are STUPID. But you can attack this man. And we would not be responsible.
+
+The larger dragon turned his head towards him.
+
+Can I eat him? With sauce?
+
+The ambassador decided that he had gone above and beyond duty, and felt like it might be a good time to call it a day. That was before the third and largest dragon landed.
+
+It had all been for nothing. The witch discussing with the three dragons and the war golems offered the kind of image that would remain seared in the imagination of his fellow envoys. Who would care about possible secrets buried under the ash? Who would even remember the rumors? ‘I have a dragon’ was the sort of argument that beat all others. Now, the witch had three. ‘I have a bone golem of Harrakan origin’ used to be a cause for concern. Now, there was an entire squad of ancient imperial silverite golems on the loose. Baran wasn’t playing on the same field anymore. It was time for the king to decide if he accepted his fate, and let history follow its course, or if they should attempt something drastic. The ambassador believed it might be too little too late anyway. His gaze met the golem’s, and he realized the ancient intelligence buried under that silverite mask wasn’t considering an eventual Baranese attack.
+
+It was hoping for it.

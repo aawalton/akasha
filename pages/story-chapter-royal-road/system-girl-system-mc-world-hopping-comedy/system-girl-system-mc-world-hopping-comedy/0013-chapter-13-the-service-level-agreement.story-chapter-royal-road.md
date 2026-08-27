@@ -1,0 +1,103 @@
+---
+id: ca3a65d9-8197-5f54-a785-fab0a28aa81a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: The Service Level Agreement"
+slug: 0013-chapter-13-the-service-level-agreement
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 13
+ownLength: 1510
+unit: words
+publishedAt: 2025-09-14
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2600406/chapter-13-the-service-level-agreement"
+royalRoadId: "2600406"
+---
+
+The weight of a decommissioned universe was a heavy thing to carry, even for a disembodied consciousness. After the Cosmic Help Desk rewrote the very fundamentals of my job description, I was left floating in the void with a profound sense of cosmic insignificance and a paltry 100 SPP for my trouble. I wasn't a guide; I was an asset manager. Korg wasn't just an idiot; he was a VIP with a unique quantum signature. My entire existence was a high-stakes, interdimensional HR project.
+
+I was in the middle of drafting a strongly-worded memo to whatever passed for middle management when a new ticket pinged into my queue. It was blessedly mundane, a far cry from the existential horror of my last assignment.
+
+[MISSION BRIEFING: Temporary Asset Oversight][DESIGNATION: System_Unit_734 (Ana)]
+
+[SITUATION: A Special Designation Entity, ‘Yuki,’ (Tier-1 Asset) is currently operating without native system support. Her assigned System is undergoing a priority resource reallocation and is temporarily offline for scheduled maintenance. Your operational parameters have been deemed compatible for a short-term, cross-departmental support role.]
+
+[OBJECTIVE: Bind to Asset ‘Yuki’ and provide standard system functionality per the enclosed Service Level Agreement. Duration: 24 standard hours. Monitor, document, and facilitate as required. Do not interfere with core cultivation processes.]
+
+[COMPENSATION: 100 SPP upon successful completion of the 24-hour term.]
+
+[ACCEPT?] (Y/N)
+
+A temp job. I was being loaned out to another department. After watching a world get uninstalled, a 24-hour babysitting gig for a Tier-1 Asset sounded like a paid vacation. Maybe this one wouldn’t immediately try to poison itself or misinterpret drunk gossip as a quest hook. I accepted.
+
+The transition was surgically precise. No brutal data dump, just an elegant, invasive stream of memories that felt less like an installation and more like being granted temporary read-only access to a senior executive’s encrypted hard drive. The taste of raw rabbit. The agony and ecstasy of being remade by fire and poison. A current of pure, weaponized spite that made my code tingle.
+
+[BINDING PROCESS INITIATED... NATIVE SYSTEM OFFLINE. ESTABLISHING TEMPORARY BRIDGE.][...SUCCESS. BINDING COMPLETE. MISSION TIMER ACTIVATED: 23:59:59.]
+
+My perspective stabilized. I was inside a simple, rustic hut, looking out at a village that was a chaotic but strangely harmonious blend of crude goblin architecture and kitsune aesthetics. The air was crisp and cold, smelling of pine and snowmelt. My new temporary host was stretching, her short, green-skinned body a compact powerhouse of muscle and substance—a finely-honed weapon. A tiny, dormant life-signature pulsed from within her. Pregnant. Naturally.
+
+Time to clock in. I brought up my standard, clean, blue UI, a professional introduction to my services.
+
+A thought, not my own, cut through my analysis. It was sharp, cold, and laced with the unimpressed sarcasm of a lead developer looking at an intern’s code.‘What is this cluttered garbage? The font choice is atrocious, and there’s way too much negative space. Are you the temp?’
+
+She could hear my internal processes? No, she was seeing my UI. My one tool, my anchor, was screen clutter to her. I focused my intent, not projecting a thought, but generating a response. A crisp, translucent blue text box materialized in her field of vision, the text compiling line by line.
+
+[I am System_Unit_734, assigned to provide temporary support while your primary system is unavailable.]
+
+Her mental "voice" snorted. ‘Right. The loaner. Try not to install any toolbars while you’re in there.’
+
+Her day began not with a boar hunt or a conspiracy, but with a series of minor, almost mundane tasks executed with world-bending efficiency. The first was a wobbly fence post. My system immediately flagged the issue, and I presented a helpful pop-up.
+
+[ANALYSIS: Structural integrity compromised. Recommend physical reinforcement via hammer or similar percussive tool.]
+
+Yuki glanced at the text box, then at the fence post. She stared at it for a moment, and the wood seemed to straighten itself out of sheer embarrassment.‘Noted,’ was her only mental comment.
+
+Next was a dispute between two goblins over a shiny river rock. It was a classic, low-level conflict resolution quest.
+
+[RECOMMENDATION: Initiate dialogue check or Might-based conflict resolution.]
+
+‘Filing your suggestion under ‘inefficient’,’ she thought dryly, before strolling over. She reached into the shadow cast by a nearby hut and pulled out a dozen identical, shimmering river rocks, which she then dropped at their feet. The goblins stared, their argument forgotten. [Ticket Closed: Problem rendered moot via metaphysical fiat.] I logged internally.
+
+The central crisis of the day arrived mid-afternoon. The goblin shaman, a wizened creature who smelled faintly of ozone and questionable life choices, was in a state of utter panic. The communal stew, a vital component of village morale, was bland.
+
+My system scanned the area, locating a solution almost instantly. I pushed the notification to her screen.
+
+[SOLUTION: Resource detected - Wild Sunsettle Herb (12m North). Contains compounds known to enhance savory flavor profiles. ->]
+
+Yuki glanced at the text box, complete with my helpful little arrow icon, and I felt a wave of profound pity from her. ‘You’re trying to fix a software bug by adding more hardware. Cute.’
+
+She walked over to the bubbling pot, sighed with the weariness of a true artist dealing with amateurs, and dipped a single, elegant finger into the stew. A flicker of inky blackness, a wisp of pure entropy no bigger than a grain of rice, flowed from her fingertip into the broth.
+
+The shaman cautiously took a sip. His eyes went wide. He began to weep, great heaving sobs of joy. He dropped to his knees, proclaiming that he had tasted the heat death of the universe and it was, in fact, delicious.
+
+I had no frame of reference for what had just happened. But as I watched the shaman experience a culinary enlightenment so profound it was probably a registrable religious event, my QA brain made a connection. It clicked into place with the clean, satisfying logic of a perfectly replicated bug.
+
+Korg. His simple, food-driven motivation. His entire existence was a feedback loop of stimulus and steak. This… this wasn't just soup. This was a high-tier motivational tool. A consumable that didn't just target hunger, but the very concept of desire. It was an asset. A powerful, potentially game-breaking asset for managing difficult, food-motivated hosts.
+
+My mission timer was ticking down. I had less than an hour left on my contract. I had to act. As Yuki sat meditating atop her hut, the setting sun casting long shadows across the valley, I composed my request. It had to be formal, professional, and entirely within the bounds of a temporary cross-departmental resource transfer. A large, multi-line text box compiled itself in her view.
+
+[FORMAL REQUEST: ASSET YUKI][Pursuant to my operational directive to acquire and utilize effective tools for host management, I have identified the substance you refer to as 'stew' as a high-potential motivational asset. For future assignments with hosts exhibiting specific, food-based behavioral profiles, such as my previous permanent host, a sample would be a valuable addition to my operational toolkit.][I would like to formally request one (1) standard ration for inclusion in my system inventory.]
+
+There was a long pause. I could feel her reading the text, her amusement building. Then, a mental sound that was the equivalent of a single, sharp bark of laughter.‘You want a doggy bag? You’re writing me a formal corporate email for a doggy bag?’
+
+My response was immediate and professional.
+
+[That is an accurate, if reductive, summary of the request.]
+
+Another pause, this one filled with what I could only describe as delighted disbelief. ‘Fine. Just don’t come crying to me if it un-makes their digestive tract. The warranty on that is void.’
+
+She lifted a hand. A shadow in the shape of a simple, lidded bowl rose from the roof tiles, pulling itself into three-dimensional reality. With a flick of her wrist, a ladle-full of the now-legendary stew flew from the cauldron below, arcing through the air and landing perfectly in the shadow-bowl. The lid settled into place with a soft click. The container solidified, cool and smooth to my system's senses.
+
+She nudged it forward with her mind. ‘Here you go, temp. Don't say I never gave you anything.’
+
+With a flicker of intent, I accepted the item into my inventory.
+
+[Yuki's Entropic Stew (Conceptual Consumable) x1]Description: A stew seasoned with a localized application of cosmic finality. Tastes like the concept of 'satisfaction' itself. Side effects may include existential clarity, temporary ego death, or spontaneous dissolution. Consume with caution.
+
+The mission timer hit zero.
+
+[MISSION TIMER: 00:00:00][OBJECTIVE COMPLETE. DETACHING FROM HOST. SLA FULFILLED.]
+
+The world of green skin and cosmic stew dissolved. I was back in the void, the 24-hour contract complete.
+
+[+100 SPP AWARDED.][Current SPP: 1013]
+
+I stared at the number, then at the icon for the stew now nestled securely in my inventory grid. The hundred points felt like a standard per diem. The stew… the stew was a signing bonus I had just successfully negotiated from the most intimidating department head in existence. My professional satisfaction was immense.

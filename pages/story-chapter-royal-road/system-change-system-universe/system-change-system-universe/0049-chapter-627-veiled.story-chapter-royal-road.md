@@ -1,0 +1,177 @@
+---
+id: fbb83741-f17a-5d3a-b95c-6e9cf2723125
+page-type-slug: story-chapter-royal-road
+title: "Chapter 627: Veiled"
+slug: 0049-chapter-627-veiled
+partOf: system-change-system-universe
+position: 49
+ownLength: 2203
+unit: words
+ownProgress: 2203
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3016844/chapter-627-veiled"
+royalRoadId: "3016844"
+markedReadAt: "2026-06-29T19:58:18.172Z"
+---
+
+Chapter 627: Veiled
+
+As Derek pulled up his stats and thought about his plans, he hesitated. I do have enough to get all my stats to 2,000. It would make for a great baseline, and there is a slim chance that I gain a new Title from doing so. I doubt that would be the case, as the level range went from 250 to 1,000. I would suspect the next group of thresholds to be at around 2,500 to 3,000 stat points in a stat.
+
+That also takes me back to vitality and endurance. If I could break through with vitality, especially… then my health pool would skyrocket. If not for the unknowns, I would definitely chuck 1,100 stat points into it to see. Vitality is the one stat that everyone needs, no matter what, he thought. It was a very hard decision for him, but, in the end, he decided to go with what made the most sense for the current him—the one who got hit a lot and had skills that passed through armor and attacked vitals.
+
+‘Silvi, brace yourself. I’m about to add about 1,200 stat points to our stats,’ Derek sent to his companion. He’d made the mistake of adding a bunch of stats at once a few times without consulting her, and he didn’t want to do it again. He seriously doubted that there would be a threshold at 2,000 points, but it was every 500 points before, so it was possible.
+
+‘Ready,’ Silvi sent back.
+
+With a deep breath, the first thing Derek did was add 300 stat points to his vitality. Doing so let him feel a mild change in how his blood flowed and left him with a light burning sensation for a minute, but that was it. Okay… the new threshold is not at 2,000 stat points, he thought. Then, he added 300 points to his endurance, wisdom, and intelligence.
+
+Doing so in such a short time caused his breath to catch momentarily. For a second—because of the endurance—he felt slightly stiff, but that feeling disappeared pretty quickly. The 300 points in intelligence probably also contributed to the stiffness, but the wisdom was quick to balance that out. He looked at his stats again and gritted his teeth. He wasn’t sure if doing it that way was the correct approach, but he didn’t want to spend the points in strength and dexterity on a slight possibility of gaining a Title.
+
+For the hell of it, because he wasn’t big on weird numbers that he had to constantly look at, he took 77 of his remaining 89 stat points and tossed them into strength and dexterity to get them both to 1,800. He also didn’t plan on leaving those two stats completely behind, but for his current predicament, they would trail behind. I am going to need to get them to 2,500 or 3,000 points one day if possible. I’m sure there will be a Title for something like that.
+
+Finally, he took the remaining twelve points and evened out his four other stats as best as he could. Then, he opened his ‘Personal Information’ and gave his stats a look.
+
+…
+
+Personal Information [-]
+
+Name: Derek HuntAge: UnknownLevel: 251Essence: <1% [+]Affinity: Void [+]Class: Mythical Void MonarchRace: Void Human
+
+Health: 55,250Mana: 52,400Stamina: 55,250
+
+Strength: 1,800Dexterity: 1,800Endurance: 2,210Vitality: 2,210Intelligence: 2,110Wisdom: 2,096
+
+Free Stat Points: 0
+
+…
+
+Not bad, he thought as he closed the status sheet. Let’s see if I can figure out these skill upgrades now, he thought. Once again, he pulled up his skills, then looked over them. As Absolute Nullify was the first skill on his list, he focused on where it said ‘Upgrade Possible.’ When he did, he received a new notification.
+
+…
+
+Conditions to upgrade skill [Absolute Nullify] not currently met. Skill Upgrade Token detected. Would you like to spend your Skill Upgrade Token to forcefully upgrade the skill [Absolute Nullify]?
+
+Warning!Once Skill Upgrade Token is used, it will be gone forever.
+
+Note: By forcefully upgrading a skill, there is a small chance that the newly upgraded skill will be different from what it would have been had the upgrade conditions been met.
+
+…
+
+Is that how it is? Derek looked on in surprise at the notification. Is there any way to see what the upgrade conditions are? Dammit, Dave… why didn’t you tell me about this? He snorted. Of all the things that Dave may not have told him about, the skill upgrade process was certainly a big one.
+
+After staring at his skill list for some time longer, Derek sighed. If I knew it wouldn’t mess things up, I would spend that token on Channel Void or Time Prison. If an upgrade to Time Prison could be made to allow the occupants to withstand my Void Travel, it would be worth it. But also… what if I upgraded it with the token and it lost the ability to store friendlies?
+
+It wasn’t a risk he was willing to take at the moment. However, he knew that the upgrade token must be extremely valuable, so he also didn’t want to waste it on a skill that might have easy conditions to meet for an upgrade. I bet a void skill or two will have a condition to get to a certain affinity with the void. It would be a waste to use the token on any skill with that condition, as it will only take a bit of time.
+
+In the end, Derek decided against using the token for the time being. If he was pushed into a corner, he could always use it on a skill that might help him in whatever situation he might have gotten himself into. Still, there was another skill on his list that was different from the rest, and that was his Identify skill. Instead of saying ‘Upgrade Possible,’ it said ‘Upgrade Available.’
+
+Derek focused on the skill and then the upgrade.
+
+…
+
+Multiple conditions to upgrade skill [Identify] have been met. Please select an upgrade:
+
+[Core Insight][Deep Assess][Veiled Sight]
+
+…
+
+Oh… so… that means that there may be more than one upgrade… path… for each of my skills. That certainly makes things different from the Universal System V3 and the Davenresh System. It makes sense, though… considering how the Davenresh System was only able to provide a certain tier of skill, Derek thought. Now… can I at least examine each one of them and see the differences?
+
+He then focused on Core Insight and was happy when a new notification appeared.
+
+…
+
+Core Insight: A refined form of the skill [Identify]. This skill penetrates deeper into the essence of living beings—allowing the user to gain more understanding of the target.
+
+Note: This skill only works on living beings.
+
+Select this upgrade?
+
+…
+
+Derek smiled before dismissing the prompt. So, it is basically like an advanced Identify skill. Seems like a good skill to have, but it’s also a little worrisome. If I’m already able to choose it as an upgrade, then there is no telling how many others have it. I’m really going to have to work on getting that Enigma Title increased.
+
+I do wonder if it would be worth it for a lot of people, though, he thought as he read the note again. Not being able to use it on any type of item could be a pretty big disadvantage. I would figure that… most of the time… people would use the skills on items more than on people. Though, they would probably use it on beasts and other monsters more than either items or people.
+
+After thinking that, Derek moved on to Deep Assess.
+
+…
+
+Deep Assess: A skill combining the best of [Identify] and [Appraise]. Deep Assess gives the user the ability to veer into the essence of both items and living things.
+
+Note: This skill works on most things, living or not. However, while versatile, it is not the best in either field.
+
+…
+
+After looking over the skill for a bit, Derek nodded. I bet that’s the skill that most people end up getting. Which is probably good for me. It looks like it’s better than Identify and Appraise, but more of a jack of all trades than a specialization. Does that mean that Veiled Sight is one that works specifically on items? he wondered. I never really used Identify on items, so that doesn’t seem right… let’s see…
+
+…
+
+Veiled Sight: An insight skill combining [Identify] with [Enigma Title] that creates a passive shroud to help obscure the user’s status from others. This skill works on living beings and items.
+
+Note: Slightly increased insight on living things. Limited insight on non-living things.
+
+…
+
+So… it’s a skill that’s a little better than Identify at everything, but basically boosts the effects of my Enigma Title. It probably doesn’t work as well as the blocker that the notification Dave sent my way does, but… anything is better than nothing, Derek thought. And since I don’t rely on my Identify skill as much as I did in the beginning… it may be best for me to pick it.
+
+He was having a hard time not choosing Deep Assess. As much as he wanted to be able to inspect anything and everything, in the end, he could always take an item to someone who had a better appraisal-type skill. So, having that wasn’t a must. And as for Core Insight… he wasn’t worried about it. The information he received back from Identify was always enough for him, and it wasn’t like he was going to be going around looking for void users like the Void Emperor.
+
+So, after giving them all one more quick scan, he selected Veiled Sight in the hopes that it would add even a bit more protection from the Void Emperor.
+
+…
+
+Congratulations!
+
+[Identify] skill has been upgraded to [Veiled Sight].
+
+…
+
+Derek nodded at the notification. I wonder if there would have been a fourth option if I had tried to use my upgrade token on the skill. He shrugged. Identify was certainly not a skill he would waste a token on, but he couldn’t help but be curious. Let’s see how this skill works…
+
+Derek looked over at Edgar, then used his new skill. He instantly received a notification.
+
+…
+
+Class Type: Magic SwordsmanAffinity: LightningLevel: 250Status: Active
+
+…
+
+That was about what he was expecting when he tried to view Edgar. With a nod, he dismissed it, then looked out at Marrick and used the skill.
+
+…
+
+Class Type: UnknownAffinity: UnknownLevel: 250Status: Active
+
+…
+
+Derek also felt a slight pain in his head when he used the skill on Marrick, and he chuckled. Seems like Marrick may be an Enigma, too. So far, that was the only Title or Achievement that Derek knew of that could cause a backlash to the person trying to inspect them. Unless he has a skill for it, but I doubt that.
+
+It certainly makes sense that Marrick would have it when Edgar doesn’t. He’s been around a lot longer. Edgar is even younger than I am, I think… well… if we don’t count the time I spent in the void… if we do… then Marrick may not even be as old as I am, Derek thought, then dismissed the notification.
+
+Finally, he looked over his stats one last time.
+
+…
+
+Personal Information [-]
+
+Name: Derek HuntAge: UnknownLevel: 251Essence: <1% [+]Affinity: Void [+]Class: Mythical Void MonarchRace: Void Human
+
+Health: 55,250Mana: 52,400Stamina: 55,250
+
+Strength: 1,800Dexterity: 1,800Endurance: 2,210Vitality: 2,210Intelligence: 2,110Wisdom: 2,096
+
+Free Stat Points: 0Origin Upgrade Points: 8Skill Upgrade Token: 1Origin System Store Credits: 1,250,000
+
+Skills: [-][Absolute Nullify(B) Progression: 100%, Upgrade Possible][Bare Fist Specialty(D) Progression: 21%][Basic Repair(E) Progression: 42%][Chain Lightning(D) Progression: 100%, Upgrade Unavailable] [Channel Void(C) Progression: 100%, Upgrade Possible][Cleaning(E) Progression: 85%][Cure Toxin(D) Progression: 90%][Dismantle(E) Progression: 100%, Upgrade Unavailable][Enhanced Movement Speed(E) Progression: 25%][Greater Meditation(B) Progression: 82% ][Multi-Strike(D) Progression: 100%, Upgrade Unavailable][Polearm Specialty(E) Progression: 17%][Powerstride(D) Progression: 58%][Rejuvenation(D) Progression: 100%, Upgrade Unavailable][Resist All(A) [+]][Spatial Collapse(C) Progression: 50%][Spatial Redirection(C) Progression: 30%][Spatial Rend(B) Progression: 49%][Sweeping Slash(D) Progression: 100%, Upgrade Possible][Telepathy(D) Progression: 60%][Time Prison(C) Progression: 100%, Upgrade Possible][Veiled Sight(B) Progression: 1%][Void Call(B) Progression: 61%][Void Creation(A) Progression: 1%][Void Eclipse(A) Progression: 1%][Void Sense(C) Progression: 100%, Upgrade Possible][Void Shift(B) Progression: 82%][Void Steps(C) Progression: 100%, Upgrade Possible][Void Storage(B) Progression: 1%] [Void Travel(S) Progression: 1%][Whirlwind Slash(D) Progression: 63%]
+
+Titles: [-]
+
+Absolute Saturation Apex Appetite IDungeon Explorer IDungeon Traveler IEnforcer of Oaths IEnigma IEvolutionExplorer IGiant Slayer IVMythicalRepetitive Dungeoneer VThe Bigger They Are IThe ImpossibleTierbreakerUnityUnknown Slayer IWorld Boss I
+
+…
+
+Sure enough, Identify was gone and Veiled Sight replaced it. Still… I’m surprised that it’s a rank B skill. I was wondering about that when selecting the upgrade. I guess the system wants you to guess or choose which skill seems the best fit without influencing you by showing skill rank… I’m not sure if I’m a fan of that, but then again, when has one of the systems ever held my hand with decisions?
+
+I’m definitely going to have to work on progressing the rest of my skills to see if any can be upgraded. With that thought, Derek dismissed his new status sheet and looked around. I guess it’s time to figure out what we’re going to do from here.

@@ -1,0 +1,439 @@
+---
+id: be0e5edf-1c91-5fad-81f1-5e4380fabecf
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY: Snow XII"
+slug: 0272-two-hundred-seventy-snow-xii
+partOf: super-supportive
+position: 272
+ownLength: 5640
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2995106/two-hundred-seventy-snow-xii"
+royalRoadId: "2995106"
+---
+
+270
+
+Alden volunteered at the hospital on Sunday. He spent most of the morning cleaning things and begging for errands. His thoughts went around and around in circles while his hand did the same, wiping smudges off steel and glass.
+
+It’s not fair that I’m hiding what I am. It’s not fair that if I stop hiding what I am I might lose everything. It’s not fair that I’ve got a tattoo that makes me hide even more of what I am. It’s not fair that Artonans and humans can just decide hugely important things for me about my own life. Not fair that there are smudges.
+
+It. Sucks.
+
+He was so sick of the litany. It wasn’t even interesting at this point. Nothing new. Just a broken record he couldn’t stop playing.
+
+“What the hell is wrong with me?” he muttered.
+
+The island was dreary today, and he was outside, scrubbing a tall, narrow window beside one of the hospital’s exterior doors so hard that the cloth squeaked against the pane.
+
+He tried to point his attention toward anything else. What Lind-otta had said to him at the Christmas market seemed like a better direction. She’d been giving him advice, and if an old knight who’d helped save his life did that, he should contemplate it as hard as Stuart tended to contemplate things.
+
+What did she say?
+
+You can’t fight every darkness or bask in every light. Suck it up, and stop complaining about how hard your choosing season is so that you can actually function and do something with your life.
+
+Her wording was better. Less harsh. I should remember it. Let’s see….I think she said, “You can’t fight every darkness or bask in every light, Alden. Accept this, so—”
+
+A purplish hand slapped the other side of the glass near his face. It left a conspicuous print as it pulled away and made a beckoning gesture.
+
+“I just wiped the inside!” Alden exclaimed before he recognized the culprit. It was the surly, overprotective assistant from the dispensary. “Panna-ser? Do you or Master Ladda-ser need something? Is it the artificial heart project?”
+
+The System hadn’t called him, but he’d rather hold an experiment than wash windows.
+
+He stepped inside and got an explanation from Panna-ser that involved too many words being crammed into too few breaths. Alden had to read the translations to get the gist of it all.
+
+Master Ladda-ser was working on the heart again. She’d been interrupted four times since she came in last night. And now, now, those ignoramuses down in F-city expected her to spend hours traveling there to fix something. They didn’t even want to use the teleportation allotment for her. It was too inconsiderate to comprehend.
+
+Panna-ser had the solution, though. Alden Thorn, who understood the importance of their work, would go instead. He would collect the device, bring it back here, then return it. Master Ladda-ser would repair it in minutes without leaving her office. The interruption to her day, and her brilliance, would be as minimal as possible.
+
+“So it’s a delivery job?” Not an emergency one, or the System would just shoot the wizard toward the problem without asking. Alden supposed this really was a conflict about whether a teleport was more valuable or Ladda-ser’s research time. “Does the thing need me to use my skill on it in transit?”
+
+“That would be ideal, and it is small enough for you to hold. Why else would I ask you to do it?”
+
+“Just because I’m convenient? I don’t mind. I came here on Esh-erdi’s Nine-Edged Son Whose Own Mother Forsakes Him today, so I can fly down there and back. I won’t have to wait for the ferry.”
+
+“Very good,” Panna-ser said approvingly. He was wearing his white angel robe, and he shook out the sleeves in a satisfied-looking way. “Call me when you arrive. I will tell them to give you the package.”
+
+******
+
+Alden was grateful to have a mission, and he pushed the edges of the speed limit he’d been given by Sky Traffic Control. His destination was the pediatric hospital in F, where he expected to stop by a desk somewhere and pick up a broken alien medical device that was delicate enough to require his skill and portable enough for him to fly with.
+
+That was what Panna-ser had described to him.
+
+So when he called the assistant to let him know he’d arrived, and Panna-ser gave him further directions to go to a different place adjacent to the main hospital, he didn’t have any concerns. He was mostly thinking about how nice it was that the womb vault on Anesidora could be housed in such a lovely, conspicuous building instead of being in a nondescript fortress like in some other places. It was pearly green and lotus-shaped. He was a little excited that he’d get to see inside, even if it was only to stop by the front desk.
+
+He was only a few steps from the dimple in the building’s exterior that marked the entrance when a neighborhood Watcher made her presence known with a sharp whistle. Surprised, he looked up and saw her crouched above the nearest lotus petal on a disc-shaped Meister tool just big enough for both her feet.
+
+She shook her head at him. Strands of her dark ponytail were streaming in the breeze.
+
+“It’s all right,” said Alden, raising his voice to be heard. “I was sent here by Master Ladda-ser’s assistant. To pick up something for her.”
+
+The Watcher’s disc dropped down toward him. She hopped off onto the walkway and frowned. “Are you sure this is the right place? No one told me, and they usually would have.”
+
+“They’re expecting Master Ladda-ser instead. But she’s busy with something, so her assistant said I should do it. It’s just picking up a broken device of some kind and keeping it safe with my skill on the way to Central Crescent. I’ll bring it back here when it’s repaired.”
+
+“Let me call inside. They really should have told me…”
+
+Her eyes went distant for a moment, and then she was talking to someone in Chinese. Alden had to repeat everything Panna-ser had told him twice for her, while she explained it to whoever was within the building. It was starting to drizzle.
+
+“Go stand just inside the entrance,” she said finally. “You don’t need to get wet. Tell the System you want to volunteer here.”
+
+Alden did as instructed. He wasn’t too concerned about any of this. Panna-ser not calling ahead and everyone being confused about why they’d gotten a delivery Rabbit instead of a fixer wizard seemed like it might be business as usual when it came to dealing with the assistant.
+
+There was no front desk within the lotus, like he’d imagined. The entrance led right into a small round lobby. Very comfortable looking furniture filled the room, more like what he’d expect to see in a rich person’s house than a hospital waiting area, but there were no people here. Not until a camouflaged door in one of the cream-colored walls slid aside, and a clean-shaven middle-aged man in a sweater vest appeared.
+
+“Oh my many alien gods, he’s twelve,” the man said loudly before Alden could greet him. He was speaking over his shoulder, toward the open door. “He’s twelve, people!”
+
+“I’m not twelve,” Alden said, shocked. “I’m sixteen. Sixteen and three quarters.”
+
+“That’s much too close to twelve,” said the man. “I don’t care if the System says you can technically do it. Does that insane wizard’s insane assistant really think we’re going to hand you an artificial womb like it’s a pizza?”
+
+“I get to carry one of the actual wombs? Do they look like they do on TV?”
+
+The man’s expression downgraded him from twelve to ten in an instant.
+
+“I meant,” said Alden, straightening his polo shirt and attempting to look professional, “I’ll be responsible with it, sir. I think this could really help out Master Ladda-ser and contribute to her work on an external artificial heart. And I’ve carried expensive devices before.”
+
+“Were there unborn babies inside any of them?”
+
+Alden blinked.
+
+What the fuck, Panna-ser?! You said it was a package! You kept calling it a device!
+
+But he’d just decided to be professional, so all he said was a very polite, “Hm? No, sir. But I would be extremely responsible. With something like that.”
+
+There was a long pause. Alden adjusted his polo shirt again.
+
+“Um…like…a human baby, right? Not some other kind of baby.”
+
+The man crossed his arms over his chest. “You look scared to death.”
+
+“I’m not. I just…I was told, explicitly, that I was picking up a package. A device. He very definitely described it as an object, and I don’t think he’s stupid, so…he did that on purpose so that I wouldn’t say no.” Alden frowned. “I’m traveling on a flying vehicle, though. I’m not carrying a baby on that. You need to get me a car. A safe car.”
+
+A baby seemed like something he should watch closely, hold with both hands, and not drop in the Pacific due to a freak gust of wind.
+
+“I’m not sure I’d let you carry the pizza, kiddo.”
+
+Alden resisted the call of a really adolescent eye roll.
+
+“You were pretty excited when you thought you’d get to see some of our equipment in person, though. And you’re spending your weekend working for free. Want to come take a look in the back?”
+
+“Can I?”
+
+The guy waved him in.
+
+******
+
+An hour later, Alden found himself disappointed. In several womb vault employees, a couple of Artonans, and the entire way things were turning out in this place.
+
+From where he sat in the building’s break room, he could hear the mumble of voices in the meeting room next door. Because he’d been in there with them a short while ago, he could imagine the scene well. They were calling Central Crescent to talk to Ladda-ser, or to talk to someone about Ladda-ser. The man in the sweater vest was in there. He was a doctor. There was also an equipment specialist, the womb vault’s director, and a guy who worked for the hospital system but not usually here at the vault. That man’s role had been described to Alden with a laugh as, “He spends all his time disagreeing with the wizards so the rest of us don’t have to.”
+
+After a quick tour, the doctor had taken Alden in there for introductions. To help explain what everyone who worked here did, he’d also shown him some of the notes from this morning’s staff planning session. This wasn’t a facility where major medical procedures happened daily. The doctor was here for urgent situations that rarely arose. He signed off on incoming and outgoing wombs and made decisions whenever soon-to-be parents had special requests or concerns. Others handled the rest of the work—parent education, outreach, carrying wombs next door to the hospital and overseeing the births for local families who were having a child this way.
+
+Getting to look around and hear about jobs at the vault, and thinking about how someone with his skill might be able to help out in this environment, had been nice. But on a white table in a room across the hall, there was a cradle with a damaged womb inside it, and inside the damaged womb there was a premature baby, and nobody but Alden felt like this was the most important thing going on today.
+
+Apparently, what really mattered was the hospital system making sure Ladda-ser learned to come down to F-city in person whenever they told her to. Either on the ferry or using the Artonan portion of Earth’s teleportation allotment rather than the hospital’s.
+
+They cared about the principle of the thing. She couldn’t be allowed to pick and choose her work based on what she felt like doing while she was here in their world. And they said she needed to learn to take her own calls because her assistant was a menace. Panna-ser would find twenty excuses or workarounds before he even told her someone wanted her for something, and sending Alden to fetch the artificial womb was just the latest example of that. The guy whose job was Artonan wrangling refused to have it anymore.
+
+It really doesn’t matter that I’m a teenager, thought Alden, fiddling with a snack-sized bag of potato chips while he tried to make out what they were saying in there. If I was the most trustworthy and capable person on Anesidora, they still wouldn’t have let me help because it’s the way Panna-ser wants things done, not the way the hospital wants them done.
+
+Because everyone but the doctor had been talking in a roundabout way and reassuring him that this was not an emergency, it had taken Alden too long to grasp their priorities. He’d annoyed them, or at least he’d annoyed the guy whose whole mission in life was disagreeing with wizards, by continuing to propose ways he could help with their problem.
+
+“I could cut down Master Ladda-ser’s travel time a lot,” he’d suggested. “Instead of taking the artificial womb to her, I could bring her down here on the nonagon—the flying platform I was loaned—much faster than the ferry. And I could hold whatever project she’s working on, too, so that she doesn’t lose her place.”
+
+<<We’re not trying to show them new ways we can accommodate them,>> the man had snapped. <<We’re trying to teach them to accommodate us here in our healing hospital. The next time Panna-ser asks you for anything, have a spine and tell him no. I know you’re a Rabbit, but he’s not even an official hospital worker. He just comes with her.>>
+
+“I was washing windows. It’s not like he interrupted something major.”
+
+<<Washing windows was more useful than you being here.>>
+
+The doctor had jumped in at that point and told Alden to head to the break room and grab a snack. So here he was, holding chips he didn’t want and imagining things he’d like to say but knew he shouldn’t.
+
+If you think that washing windows is more important than getting a life support device for someone’s unborn child repaired as quickly as possible, then you’re too stupid for your job.
+
+He tossed the chips down onto the table.
+
+Realistically, when a bunch of adult professionals agree on something, and I’m the only person in the building who thinks they’re being crazy, it’s probably me who’s wrong.
+
+So he tried to adjust his thinking. He even looked up information on the internet to prove to himself that he was ignorant.
+
+“Tears in artificial wombs almost never lead to serious complications for the developing fetus,” he read. “Thanks to round-the-clock monitoring and quick intervention…”
+
+“Nothing quick about this,” he said under his breath. “Who wants to be quick? Instead, we can sit around talking about teleportation allotments and who’s the real boss.”
+
+“Find any good snacks in here?”
+
+Alden shut his mouth and dismissed the search window. The doctor in the sweater vest had just stepped into the break room.
+
+“I’m not hungry.”
+
+The man walked over to the counter and grabbed a yellow apple from beside the espresso machine. “I expected to develop an aversion to these when I became an MD, but I still like them.”
+
+Alden watched him bite into it.
+
+“That was a joke,” he said after he’d swallowed.
+
+“I got it. An apple a day doesn’t keep you away,” Alden said. “It was a decent joke.”
+
+“Kid…” He set the apple back down. “Never mind. Want to watch me put the womb back to bed until the wizard can get down here to fix things?”
+
+“So Master Ladda-ser’s still not coming right away?”
+
+“No. But we did finally talk to her instead of her brother.”
+
+“And you’re still not going to let me carry it to her?”
+
+“Afraid not.”
+
+“What if I just sit here in your break room holding the pod until she shows up? That way there would be a zero percent chance of anything going wrong. It’s cool what I can do. It’ll be like no time at all passed for the baby, and then Ladda-ser will be here doing the repair.”
+
+“You offered that earlier…. It won’t work because I would have to call the parents and explain this whole situation to them. Their fetal health monitors would alert them when your skill cut off the connection. The problem we have here isn’t urgent enough to justify stressing them out for hours and making them doubt we’re taking good care of their offspring.”
+
+“So they don’t even know that their artificial womb is messed up?”
+
+“You think I should call them and tell them there’s a problem, but we’re not doing anything about it yet because the wizard on duty who can fix it is more interested in a different project?”
+
+Alden stared at him. “Well…I guess that’s better than telling them that the wizard would fix it right away if you used the hospital’s nonemergency teleportation allotment for her travel, but you won’t because…you won’t.”
+
+“It’s a flawed universe,” said the doctor, heading for the door again. “But they don’t need to be worried. And if the parents don’t need to be worried, you definitely don’t have any business worrying about it. I’ve been doing this whole doctor thing for a while, you know, and I hate emergencies where I have to stuff my patients into new wombs. If I thought there was any real chance I’d have to do that today, I wouldn’t be letting everyone hold meetings about this or giving a sixteen-and-three-quarter-year-old volunteer the personal tour. Are you coming?”
+
+Alden got up to follow him into the room that held the source of the day’s conflict.
+
+The pods that protected and monitored the wombs were called cradles. They were ovoid, and their default exterior setting was an opaque tan color. But this one was in display mode, showing what the womb inside currently looked like. The material that surrounded the growing fetus reminded Alden of a wet tomatillo husk, only red. Even though it was supposed to be sturdier and safer than the wombs nature had given humanity, it looked fragile. And this one’s pod was showing a bright highlight over an area where it had detected a flaw in the husk, a spot in danger of tearing.
+
+Alden studied it, trying to decide if it was any bigger than when he’d first seen it. He didn’t think it was.
+
+“Maybe there was some mishap during the transfer,” the doctor said, looking at the problem area, too. “A smaller hospital, a practitioner who isn’t as familiar with the procedure…anything really. Things happen.”
+
+The womb moved suddenly, and Alden jumped, his hands coming out of his pockets, ready for the catastrophe.
+
+“That’s a little foot,” said the doctor, chuckling as he pointed at the new lump where the resident was pressing against the womb. “We’re getting some exercise right now.”
+
+He changed a setting on the cradle, and the life inside it was displayed. Alden had seen images like this before. He’d watched television on multiple worlds and had sex ed classes in two different countries. But none of that was the same as standing in this room, only a step away from such a spectacular thing.
+
+The baby was a boy. A few weeks ago, in a hospital in Barbados, he’d been transferred from his mother to the artificial womb after medical issues had put them both at risk. A couple of months from now, he and his pod would be sent back there, and the womb would be opened by his parents.
+
+He’d be born just like that, a brand new human being. Someone’s son.
+
+But for now he was here, in front of Alden Thorn. Tiny, thin-limbed, and kicking.
+
+You should stop that. You’re so small. There’s plenty of room for you to chill in there without taking your feelings out on the walls. They’re not great walls. Your cradle says you’re in a rickety apartment.
+
+“All right,” said the doctor, picking the whole cradle up. “Let’s go put him back with the others.”
+
+“Why not keep him in here?”
+
+“We could. Some of the enchantments on the cradles support each other when they’re all hanging together, though, so it’s slightly more ideal.”
+
+At least they’re letting the little guy have one ideal situation today.
+
+The vault part of the womb vault was divided into several different softly lit chambers. In each, hundreds of cradles hung from the walls, every one of them on its own mobile arm. The chambers weren’t designed for visitors, but they were meant to be viewed at certain times by the families whose children were growing here. There was a piano in the room where the baby in the damaged womb was staying. Tomorrow, people from all over the world whose wombs were held here would call in to listen to a musician play a few songs. It was one of several ways the womb vault tried to create a warmer experience for long distance families.
+
+Alden watched the doctor hand the cradle off to a free arm. It lifted up to join the others on the wall and hung there, in display mode, still showing the damaged area.
+
+They’ve got their whole lives ahead of them. And a million choices to make about who they’ll be.
+
+Every joy, every thrill, and every mistake was still to come for them. The piano wasn’t playing right now, but the insides of their cradles wouldn’t be silent. Most of them would be hearing the sounds of their parents’ voices and heartbeats.
+
+It still seemed wrong to Alden that someone could stand here looking at them all and then go into a meeting and argue about the things they were arguing about in there. He could tell himself that he was naive and that the adults here knew better than him, but he couldn’t feel it.
+
+“I’ve literally paid to teleport my cat before. Sometimes people teleport in their favorite foods. There’s probably someone on Anesidora right this second eating a special bagel that the System brought in through the TC.”
+
+“That’s true,” said the doctor.
+
+Alden looked at him. He wanted to ask if they would have chosen today to have their standoff with an oddball wizard whose assistant kept stepping on toes if the damaged womb had belonged to a local. If this had been an Avowed’s baby. He really wanted to ask.
+
+“It was good to meet you, Alden.” The doctor smiled at him. “I think I’d probably let you deliver a pizza.”
+
+“Thanks.”
+
+“But I’m going to send you off now since we don’t need you.”
+
+Alden nodded.
+
+The doctor led the way back to the door that connected to the lobby.
+
+“I’ll stay here,” Alden said, as the man reached for the handle. “In the lobby. Just in case something does happen and you need my skill. Even if it’s only a one in a thousand chance.”
+
+“You can’t stay in the visitation area. It’s for families who want to spend time with their cradles.”
+
+“I’ll just stay near the building then. I won’t bother anyone.”
+
+The doctor sighed. “Don’t do that.”
+
+“Don’t worry about it. I want to.”
+
+“I wasn’t worried about it. I was thinking it was unnecessary. And that some people might be annoyed to see you lingering nearby. People who would rather have you washing windows than sticking around looking eager to carry out Panna-ser’s instructions.”
+
+“I don’t care about annoying some people,” said Alden. “There’s a public street right outside, so it’s not like anyone can force me to go very far. I’ll be here. Now you know. I appreciate that you showed me around.”
+
+******
+
+“Dear Stuart,”
+
+“Stu-art’h,”
+
+“Hey, Stu…”
+
+“Boe,”
+
+“Dear Kibby,”
+
+“Yo, Earth!”
+
+Alden frowned at his interface. He was sitting under an awning outside a pastry shop, drinking coffee that no amount of sugar could mask the burnt flavor of, with the nonagon positioned to block the wind and misty rain at his back. He was chilly, but he had a chair and a view of the womb vault’s entrance from here, so this was where he’d stay until he saw Ladda-ser go in.
+
+He expected to be parked in this spot for hours.
+
+He felt like saying something. To someone. But he couldn’t seem to figure out what or to whom.
+
+He typed, “Dear,” into his interface again and watched the golden word shine there for a very long time.
+
+“Dear Mom and Dad…”
+
+Yeah, he thought. I see. Maybe this is that kind of day.
+
+******
+
+******
+
+Dear Mom and Dad,
+
+It’s me. Alden. We haven’t seen each other in a long time.
+
+I miss you. It sucks that the way I miss you is so much about imagining what it would be like to have you here with me now instead of remembering things we actually did together back then. I like the memories better. The imagining can be pretty empty. Or it’s only ideas I’ve stolen from seeing other people with their parents.
+
+Like maybe you’d call to check up on how I’m doing laundry because Haoyu’s mom does that.
+
+Or maybe if I told you about the decisions I’m struggling with at the moment, you’d give me your opinions and then say that you trust me. That when I feel confident I should act with my full strength and the knowledge that you won’t be disappointed, no matter what I choose.
+
+The Primary said that to Stuart. It must have felt really, really good for him to hear those words.
+
+I’m writing to you today because…
+
+That sounds like a line from a business proposal or something. Forget that I said it.
+
+I got to see inside a womb vault today. It made me think of you.
+
+It also made me think about how some baby bokabvs grow up perfectly safe and happy and others turn into tortured demons that get eaten by the Quaternary’s griveck traveling companion.
+
+I thought about klerms, too. Stuart brought me one the other day, after I told him that Bti-qwol had killed the one I preserved with my skill. He called my ability to protect living things profound, and he said that in the future I could ask him for his help to save the most insignificant bacterium in the universe if it was important to me.
+
+He really says things like that.
+
+He really means them.
+
+The Anesidoran womb vault people and some wizards who work at Central Crescent have no idea how close they came to getting a call from an art’h about why we can’t get this one specific unborn baby’s housing situation fixed immediately.
+
+They still might.
+
+I’m trying to be practical. I think this is hitting me harder than it should. The baby’s just doing his best to live, but everything that happens to him is decided by these big forces he has no control over.
+
+Humans. Artonans. Avowed. An island that is a prison and also enviably luxurious. A war that’s out there but that doesn’t often feel real here.
+
+I’m afraid of being pushed and pulled by those same forces, too.
+
+My mind healer, Yenu-pezth, asked me why I was suddenly trying to avoid looking at the smudges that exist on all the bright moments I’ve had lately. This knight who saved my life, Lind-otta, asked me how hard it was to go through Thegund and what would make me want to do something like that again. I keep asking myself who I’m going to be in this universe.
+
+None of the answers are perfect.
+
+I want better ones, but I’m afraid there aren’t better ones.
+
+I think I’d really love to be a teacher. Or a doctor. A person who builds an amazing home for a family. A great friend. Someone who doesn’t get shunned at the local Christmas market.
+
+Someone who can do magic. Who won’t be punished for it and who doesn’t have to hide it from anyone.
+
+Someone who belongs, completely and with no awkwardness, in some world.
+
+Sorry, Dad…but not a pastor. The public speaking. The giving other people advice. Trying to explain God. Every week. That’s not for me. I’m sure about that.
+
+I’m also sure about sitting here in this uncomfortable chair with this crappy coffee until I see an Artonan go into that building. I live here until further notice. I’ll still be here at sunrise if I have to.
+
+I’ve chosen one small battle. If it’s pointless, I’m okay with that.
+
+Lind-otta also said something about this. Earlier today, I was trying to remember exactly how she put it, but then Panna-ser came along and got me involved in this. I think I remember it now. She used the same phrase as the Primary. The one that means full strength.
+
+“You can’t fight every darkness or bask in every light. Accept this, so that you can choose the right battles for yourself and fight them at full strength.”
+
+It makes sense to me, so I don’t know why I haven’t figured out what I need to yet.
+
+I understand the dark and light are both here, always one layer away from each other. I know I can’t have everything or fix everything.
+
+I’ve already told myself that the hardest part of my choosing season will be choosing what I lose.
+
+Maybe my problem is acceptance. Acceptance is different than knowing. It’s hard.
+
+And I’m tired of losing things.
+
+Thanks for letting me talk, Mom and Dad. I’m sorry that there’s nowhere for the System to send this letter.
+
+I’ll always love you.
+
+Alden
+
+******
+
+******
+
+Alden watched a whole Anesidoran afternoon pass by.
+
+Superhumans, mopeds, and cars filled the street. Drones zipped, and sluggish gray clouds rolled overhead. He saw a few families come and go from the lotus-shaped building. They all had such a particular, beautiful kind of happiness about them.
+
+He spent a while trying to focus on that instead of the smudges, but the words of his own letter made him feel like he had to give Healer Yenu and Lind-otta the benefit of the doubt.
+
+One layer away from here, there were so many problems. And although Alden could walk through a lot of doors in his life, he’d lose something precious and face something hard behind every one of them.
+
+He told himself to accept it, but then caught himself, hours later, searching again for a door that was better than all the others. A special, magic door that gave him everything he truly cared about while taking nothing important away.
+
+Okay, he thought. I understand. There really is something here I ought to let go of.
+
+He worked on himself as well as he could while he waited.
+
+It was nearly seven in the evening when a black car finally pulled up to the womb vault and Ladda-ser and Panna-ser stepped out. Alden was damp and freezing. He hadn’t quite managed to make himself stop looking for that magic door.
+
+But he was glad to see help come, and he went to stand on the sidewalk in front of the vault so that they’d have to speak to him when they emerged. Forty-five minutes later they came back out, and he stepped in front of them.
+
+“Master Ladda-ser,” he said with a bow, “did you repair the artificial womb?”
+
+“Of course she did,” said Panna-ser, bundled up in a white coat over his angel robe. “Her repair was close to perfection.”
+
+Ladda-ser nodded. One of her eyes was on a drone, and the other was studying Alden’s chin like she’d found something interesting on it.
+
+“Is the baby well?” he asked.
+
+“Of course it is. You could have brought it to us, and it would also have been well,” Panna-ser said. “This trip was unnecessary.”
+
+Alden was relieved. “That’s so good,” he said to Ladda-ser. “Thank you.”
+
+Another car was pulling up for them.
+
+“Panna-ser,” Alden said as the assistant hurried toward it ahead of his sister, “give me both of your ears, please.”
+
+Panna-ser looked around.
+
+“If you try to get me to do something for you again by hiding information you suspect I would care about, I’ll never do another favor for you. I’ll pretend I can’t hear you when you speak. Master Ladda-ser will have to ask me for everything herself.”
+
+Panna-ser moistened his lips. “I didn’t hide—”
+
+“You either hid the fact that it was an in-use womb on purpose, or you’re unbelievably awful at explaining things clearly. Either way, don’t do it again. And I hope you wiped off that handprint you left on my clean window.”
+
+The Artonan frowned. Ladda-ser was looking at her brother questioningly.
+
+“There are too many unavoidable smudges in the world,” said Alden. “I don’t have to accept yours.”
+
+After their car had left, he lifted the hand with the driving ring on it and called the nonagon toward him from across the street.
+
+All right. That was a long day.
+
+The Superhero Snowball Fight was about to start in the gym. He’d been excited about it earlier in the week.
+
+I could still go. Catch the second half?
+
+He was tired and hungry. Grabbing food sounded better than anything else right now. He decided to try for the event anyway mostly because he didn’t want to wake up in the morning feeling sad about missing out.
+
+He got his flight path approved and lifted off, looking down at the womb vault as he rose.
+
+Relax while you can, little guy. It’s a mess out here.
+
+******

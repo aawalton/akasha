@@ -1,0 +1,549 @@
+---
+id: a7b0aa7c-2715-5275-ae3d-9beb005ae23e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 121: The local talents"
+slug: 0041-chapter-121-the-local-talents
+partOf: the-calamitous-bob-stubbed
+position: 41
+ownLength: 5786
+unit: words
+ownProgress: 5786
+publishedAt: 2023-06-09
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1240024/chapter-121-the-local-talents"
+royalRoadId: "1240024"
+markedReadAt: "2026-06-29T21:16:08.664Z"
+---
+
+Viv watched the bewildered Harrakans exit her portal, spreading out on the open meadow and marveling at the wonders of magic she had just unveiled for them. Ten days of harrowing trek across the Deadshield spared. Ten days of terrifying encounters with monsters and beastling tides, with the forest’s disquieting effect bypassed with the facility of a high speed train ride minus the time. They ambled out, blocking the way of those behind. Viv could still see the green on gray background of the deadland behind the portal’s aperture. Mostly, she wished they’d hurry the fuck up because keeping that thing on was hard.
+
+“Move, move!” Ban bellowed, and the selected merchants sheepishly dragged their cornudon-drawn carriages across the plain. The wooly beast didn’t seem too bothered by the change of scenery, the most enterprising already grazing on unchewed grass.
+
+Maybe they were simply too dumb to care.
+
+Over the next minute, Harrak’s first grand caravan trailed through the opening at a brisk pace. Its members had been selected among volunteers and path traders whose lives had taken a turn for the worse, forcing them to become refugees. Now, they had a second chance and many were eager to make a killing on the markets of Reixa and other Enorian cities. The only downside was that they would miss the harvest festival with their families. It was a huge deal Viv could sympathize with, as it seemed to be the local equivalent of Christmas or Eid or Hanukkah or the Spring Festival: a family celebration meant to gather relatives. It was too easy for her to forget that the Enorian people had vibrant traditions and a long history of their own when she still considered herself an outsider.
+
+“Your Grace,” Ban said, his face twisted in a scowl.
+
+The old soldier looked even grimmer and crustier than before, his muscles corded like steel wire under the heaviest armor the Yries had ever produced. He was also well on the fourth step, which made him one of the deadlier fighters of humanity.
+
+[Tip of the Spear: commander of the first regiment, first company of the Harrakan heavy infantry, the heiress’ guard. Expert close quarter combatant, unbreakable, tenacious, adaptative fighter, fast learner, loyal, undead slayer, man killer.]
+
+A long, braided white beard fell from his helmet down to his navel and white, embroidered pennants flew from his black steel armor, decorating an otherwise plain armor. He looked much more respectable now than he used to, back when he had been a retired veteran. The fact that his entire gear had been enchanted to the gills by the smiths of Neriad helped with that as well, Viv suspected.
+
+“Ban,” Viv greeted in return.
+
+The old man had kept the Harrakan military in top shape through exacting training and even increased its numbers, though it had been a force without purpose, with no clear threats aimed at the nascent kingdom. Now, though, he would see action again.
+
+“I believe you should let us come with you, as a honor guard.”
+
+Viv shook her head. Ban had let his disapproval known but had not voiced it until now.
+
+“The heavies have plenty of strength but black mana resistance is not one of them. Trust me, it would be a waste to have you die against the necrarch. You are much better used escorting our very first caravan since the independence.”
+
+“You said the roads are much safer now…”
+
+“For Enorians, yes.”
+
+It was time for a quick lesson in basic politics. Fortunately, there were similarities between Earth and Nyil mythologies.
+
+“Look Ban, you know how Maranor stands for justice here, yes? And her weapon is a sword, not a shield? How many law bringers pick a sword as their symbol?”
+
+“Hmmm.”
+
+“Justice is not about protecting people because it’s almost impossible to achieve. Would be nice though. Justice is about righting the wrongs after they have occurred. The Enorians will protect their own and punish marauding groups of bandits swiftly now that the war is over. If the victim happens to be foreigners, however…”
+
+Understanding pierced through Ban’s mind and his eyes widened. He was not born yesterday.
+
+“If the foreigners come from a separatist city that humiliated their army twice…” the old man continued.
+
+“Then perhaps the local nobles will not look too hard into any mass disappearance. The local traders may bemoan the loss of opportunity but most citizens might enjoy seeing us taken down a peg. Reminded of our place in the food chain, as it were. Now, if it were just a couple of caravan guards, the opportunist would probably take their chance. If, however, the caravan is defended by elite infantry and crossbowmen…”
+
+“Then they will know that we will draw more blood that they can afford to shed.”
+
+“It’s also about sending a message,” Viv continued. “They might still see us as lucky bastards saved by the deadshield woods. You are to prove them wrong.”
+
+“We will be seen, Your Grace. They will know the Harrakan Heavy infantry has returned from the grave of history. We will be the tip of the spear.”
+
+“Thank you Ban, but most importantly… get my people home.”
+
+“By your will. After that, I shall cleanse our new territory of undead presence.”
+
+“Please do so. I want us to take Shinur’s Gate upon my return. No more delays.”
+
+“Understood.”
+
+The old man saluted then left to direct people. Viv considered herself lucky to have dedicated people on her side. Her father had mentioned it several times. It was better to lead a team of competent people than be competent yourself. With this, she started to close her portal now that everyone had been through. To her surprise, someone else was waiting for her to be done.
+
+It was the town’s apothecary. Viv did not interact much with him on account of his dull and dour personality. He was good at his job and so Viv let him be, a favor he had been returning so far.
+
+“Yes?” Viv asked.
+
+“I should have asked before. I have an idea. I think it can work, but I will need three gold talents.”
+
+Viv blinked.
+
+“Why don’t you start from the beginning?”
+
+“You have a population control problem.”
+
+The dry delivery left Viv nonplussed. She had not expected this sort of insight from a medieval shopkeeper, which proved once again that she should check her arrogance.
+
+“I… suppose we do?”
+
+“You do. The refugees who just came here know they should wait before expanding the family, at least until their farms and businesses are up and running. The female soldiers must be able to decide not to be with child just before a major operation. People need to be able to plan. I saw you had a ring. Rings are expensive. Potions are not.”
+
+“I’m listening.”
+
+The man stepped closer.
+
+“Do you know of the Golden Order?”
+
+“Yeah, I studied them. They are a knightly order made of women dedicated to Enttiku, the goddess of death. Stationed on the Glastian wall right now.”
+
+“Those women have sex and they regulate the births by using a combination of two potions, one that stops the moon cycle and another that makes them bleed. Now, the bleeding potion’s main ingredient is called the Heart Grass and it grows freely everywhere, but the cycle one is more important, because the bleeding potion only works for a little while after the pregnancy has started. Once the bun is in the oven, pardon my Baranese, it is too late for the ‘oops draught’. Now, I know the apothecaries in Reixa have seeds and sprouts of the Moon Disc flower. I need the money to purchase them.”
+
+“You need gold talents for that?” Viv exclaimed.
+
+The apothecary shook his head.
+
+“I am not buying a sample, I am buying patches, which will have to be replaced. Half of the money is for bribes to get the flower to begin with. Have you forgotten Enorian customs, ‘goodmother’? Enorian women are tasked with populating the kingdom. The potions I intend to brew are not conducive to that. There is a chance they are even illegal.”
+
+“Fine.”
+
+Viv had to get her bag from her horse’s saddles and take out the coins. By then, the caravan was ready to head east to the large town of Reixa while they would be heading north through a camouflaged portal. Besides Viv and the necrarch raiding crew, there were also the Hallurian twins.
+
+The trip north consisted of Viv achieving a feat of magic the likes of which no one had ever succeeded at her level while the others leaned around, munching on snacks and sipping tea. She would then spend twenty minutes on the other side of the portal nursing a headache and then do it again. One star rating. At least it was fast. They were in view of Losserec-on-the-Lake on the morning of the next day.
+
+They left Tarana and Rakan on a ship heading back to Helock, then bought their own bark since no fisherman was willing to rent to what was very clearly a hunting group. It got to show the trust of people in humans versus monsters contests. Viv didn’t blame them. She did, however, blame the man she bought the ship from for extorting her.
+
+“This is a great little vessel! Do you know how many such vessels can fit both your standards and a crew that size? No? Only old Jekk can sell you such a gem. No one complains about Jekk’s product! I am fully supported by the shipwright guild!”
+
+But Viv did complain. At least, she didn’t have to row. Solar grabbed the paddles and went to work, not even bothering with the tiny sails.
+
+“Do we not use the second pair? We have two pairs,” she said.
+
+“Only if you want to slow us down and get sore arms as well,” Solar patiently explained.
+
+Viv grumbled that she had been performing the physical training Solfis had given her to help with meditative trance and she was fit and had finely toned biceps thank you very much. Alas, her protests fell on deaf ears. Only Sidjin sympathized. After a fashion.
+
+“It is unseemly for mages to perform physical labor when warriors are present and better suited. Such is tradition.”
+
+“Yeah yeah.”
+
+“It is also tradition for women to let the men carry them.”
+
+“Fine.”
+
+Mother must let the lower specimens serve her.
+
+Must not upset the pecking order!
+
+Unnatural.
+
+Can only row if I am the passenger.
+
+Arthur huffed and took to the air.
+
+Viv’s attempt at equality being completely ignored, the vessel made its way very quickly along the shore. No one was familiar with the local place, but it was clear Solar had some experience steering a ship. He led them effortlessly between small islands. They met another fishing ship a little after noon as the last village had faded behind them.
+
+“Be careful around those parts,” a kind man warned them. “They found cannibals here earlier this year.”
+
+“We’ll keep our weapons ready,” Sidjin assured them.
+
+The fisherman looked at Viv and shook his head in disapproval. Enoria was still really firm on women not going on adventures, Viv thought, even the ex-rebel countryside.
+
+She wondered how the witches she had met here were faring.
+
+The group made a few jokes about Viv keeping an eye out for cannibals until she threatened to cook them. The ship kept going for a while, following the distant shape of Arthur as she flew overhead. The dragonette started cycling not long after.
+
+The shore was wild here, and covered in trees. The edge of the northern deadshield woods hugged the lake on its entire western flank. Viv could already feel a hint of saturated brown mana and that strange, quiet atmosphere she associated with the confusing forest. Arthur landed near a brook and Viv recognized the dark tunnel she had followed out of the lone mountain. The cave looked normal enough from outside, but she knew the passage inside would be smooth and artificial.
+
+“It’s here. I recognize it.”
+
+Mother came out from here.
+
+Wet! Cold! No fish.
+
+Arthur snorted with disdain.
+
+“Alright. We go through, leave the mountain, set up a camp and go back in. Everyone still agrees?” Solar asked.
+
+//Yes.
+
+No one felt the need to speak after Solfis. The group carried the bark up the slope and into the tunnel. Viv got her socks wet and complained, but as soon as everyone was on board, Sidjin used a blue spell to dry clothes.
+
+“I knew I was keeping you around for something,” Viv confessed amorously.
+
+“I feel valued,” Sidjin deadpanned.
+
+Solar chuckled, and some of the mounting tension was dispelled.
+
+The tunnel proved too narrow to use the paddles so Sidjin resorted to ferrying them forward by pushing the ground away, using the paddle as a stick. It worked well enough.
+
+Viv lost her time perception as the darkness descended. She cast her spell in silence, summoning a pale blue light to guide their way forward. The memory of her terror gripped her chest and clawed at her throat. She had felt her heart stopped, felt herself die. She shook her head.
+
+Sidjin took her hand in his and massaged the knuckles. He was very warm and smelled of sunshine and soap.
+
+“Thanks,” she whispered.
+
+Sidjin was about to reply, but his face turned into an expression of wonder. They had reached the mushroom cave. The dense lattice of stalagmites and stalactites covered in fluorescent growth let them pass in blissful silence.
+
+Then the darkness returned, yet it did not feel as oppressive as before. Until Solfis spoke.
+
+//Black mana concentration is increasing slowly but noticeably.
+
+Viv had not realized. Black mana was present in every dark place, and at night. Now that Solfis mentioned it, however, she noticed as well. The mana here had a taste. It was not just the standard background of the absence of light.
+
+“Are we already in its territory?”
+
+//Age of the necrarch revised to: ancient.
+
+//Expect higher spell usage.
+
+//Adjusting general strategy.
+
+//Your Grace, we will have to depend on you for black mana countermeasures.
+
+//You will have to fight with us.
+
+“I already knew I’d be around keeping Sidjin safe. It’s fine.”
+
+//Acknowledged.
+
+//Everyone please change into insulated gear now.
+
+“Errrr.”
+
+“I will avert my eyes, Viviane,” Solar assured her.
+
+Viv had to keep the light on to see what she was doing while everyone changed into black-leather covered armor and helmet. Sidjin looked like the dark heir to an evil empire in his, while Solar wore full plate and would have scared off a Nazgul. Viv’s own armor was the same leather she had worn when attacking the assassin’s guild, modified for insulation. Irao did not change outfit. As for Solfis, the golem stayed put since he was already bone naked.
+
+Arthur stayed put because she was scale-naked, then spent the time complaining.
+
+Boat is moving too much.
+
+Why do you need so many layers?
+
+Grow scales already.
+
+Stupid not gold metal skin things.
+
+“Wait, you’re not supposed to be part of this operation,” Viv said.
+
+//I did not plan for Arthur to join us.
+
+What are you going to do, stop me?
+
+This is a good hunt.
+
+I will protect you.
+
+“But the necrarch can’t even be eaten!” Viv told her.
+
+There is more than food in this world.
+
+Arthur turned her head haughtily.
+
+There is gold, also.
+
+In the necrarch’s den.
+
+“Maybe.”
+
+//If she stays by your side, she might help with casting.
+
+//However, the necrarch will kill her in close quarter combat.
+
+//She must remain at the back.
+
+I stay with mother.
+
+No burning our friends.
+
+Smart dragon.
+
+Very strategic.
+
+Deadlier than compound interests.
+
+“I should not have taught you that, dammit. Fine. No direct fighting. We stay under the shield and throw spells.”
+
+Arthur nodded and the trip resumed. Solfis placed himself at the tip, his unblinking gaze watching the tunnel. Viv tried to remind herself she was protected by some of the deadliest fighters on the continent but it did little to dispel the cold chill clawing at her torso. The party remained silent until the time the skiff reached the underground pier where Viv had made her escape.
+
+It was lighter here. The long-abandoned base of ancient humanity remained, dusty and bare. They moored the ship at the lone pier and filed out in silence. Solfis and Irao took position near the wide passage leading to the entrance while Solar covered a tunnel leading farther into the complex. Viv, Sidjin, and Arthur remained in a central position, vigilant. Viv heard words at the edge of her perception, hisses floating in the wind.
+
+No, not the wind. Mana.
+
+“It knows we’re here,” she whispered.
+
+///It has a domain.
+
+//Let us go before it decides to attack us while we are not ready.
+
+The party walked to the main cave, the vast expanse where Viv had found the god statues. She noticed that the corpses of the lizards she had slain were gone, though she was not sure what to think of it. They moved in formation and quickly, with the melee combatants at the back. Outside the lone mountain, the sun was setting. The path down was covered in fallen, rotting leaves and broken branches. The air was heavy with the smell of nature and the dizzying effect of the unending forest’s domain. Viv did not stop until they were at an ancient campsite, the remains of old menhirs still clear after centuries of wind and rain. Viv and Sidjin did not wait. The mage cleared a perfect circle of stone in a breath and removed all detritus with a wave of his hand. Viv was carving runes and circles before the dust had even settled. Above them, dark clouds hung low, pushed north by a cold wind. The valley waited, silent.
+
+Suddenly, Solar turned and drew his sword. Viv glanced at it. The blade was dull gray, yet strangely hard to look at. It was also huge. Solfis stood as well.
+
+She redoubled her effort. Something was coming. There was a stampede rushing towards the mouth of the cavern.
+
+Viv looked up from her writing. Above her, the twisting path led up to the maw of the mountain, its stalactites like so many teeth ready to fall and mangle, and something was coming from it. A lot of something. A first dark shape flew out, the another, then an army. The sky was dark and the ground was squirming with undead bodies, a veritable tide of dry flesh and old, creaking bones. The sun shone on dry pelt, exposed, dry tendons. Shriveled organs. Viv powered the outer circle to activate the first layer of the shield, but Sidjin rerouted the mana to deeper parts.
+
+“Focus,” Sidjin ordered in a tense voice.
+
+“But…”
+
+Solar swung.
+
+Viv felt him move though she was not looking and no mana surge warned her that it would come. She felt him swing in the same way one can feel heat, standing on a window overlooking a nuclear reactor. Solar struck and he split the sky in two.
+
+There was a massive boom, and the setting sun returned through the gash, bloodying the severed cloud. Daylight returned, if briefly. The mountain shone red under its glare.
+
+“Holy shit.”
+
+“Focus, love.”
+
+“Sorry.”
+
+The stampede had stopped, shredded to bits, or so it seemed, but Viv felt the cave entrance vomit a tide of black mana, more mana than she had ever felt since the heart of the deadlands. The amount of power the necrarch could conjure was simply staggering. In an instant, the blasphemous horde reformed and resumed its assault. Viv heard a sybillant threat in the tide of power, then what sounded like a hissing laugh. She traced the glyphs faster, her hand assured.
+
+//We need a way to keep them down.
+
+“Squee.”
+
+//If you please.
+
+Then the undead were on them, around them, over them. Feathers and bits fell all around as the melee fighters took down the lesser threats faster than they would come, for now. Viv saw blue eyes, a sign of necromantic direct control, not on one being but on all of them. The fallen mocked her as they reformed to their original, rotten forms.
+
+Heat came. Arthur vaporized an entire flank. The stench was horrible. Viv was still writing, inscribing every symbol with care. Not looking up. Something almost got to her but Irao stabbed it and when it fell, it did not step back up. What he slew stayed dead. The necrarch whispered through its puppets, uncaring. Viv knew why. This was not an assault. This was not even a probing force. The necrarch was keeping them busy until nightfall.
+
+Then it would come.
+
+But Viv would be ready. With a last flourish, the shield locked in position and the next corpse that tried to penetrate was pushed back. It was, Viv noted, a merl corpse, its prehensile feet turned into bone claws.
+
+Viv was in business.
+
+“I’ll challenge his control.”
+
+//Acknowledged.
+
+Sidjin turned the edge of the shield into a mincer, blending the beasts as they approached and tying them up. The mana the necrarch was expending boggled Viv’s mind, and she judged she could not win a contest of will with it. She would have a better chance swimming up a waterfall.
+
+[Powered revenants: undead remains animated by a powerful necromancer, Very dangerous, instant regeneration, ignores damage.]
+
+As expected, the necrarch puppetted them with its will. Just staring into those blue flames let her feel the touch of its malevolent mind. Viv picked a large bear Solfis was dismembering and cast.
+
+“Yoink.”
+
+Viv hit a wall, a solid mass of energy so dense it felt solid to her soul. Rather than mushing herself against it, she claimed a small part, and drained. As soon as the energy was hers, she absorbed it and grabbed some more. She felt full in a bare second and poured the excess energy into their shield, overcharging it.
+
+Inside of the mountain, a creature shrieked in outrage.
+
+Viv gasped. The scream carried such hatred that she lost control of the spell, and the necrarch seized it. The tendril remained and Viv felt its grasp climb up towards her.
+
+She cut her spell and the bear gave her a lipless, putrefied smirk. So Viv cast again.
+
+“Mass Yoink.”
+
+Viv’s questing tendrils grabbed one creature after the other, plundering what she could before breaking the connection. The necrarch screamed again. This time, it was personal.
+
+The powerful sound shook her. It spoke of so much time spent in the darkness, growing more vicious and more cunning. It told a tale of many hunts, always ending cruelly, always in blood and death, in cracked bones and pulled limbs because the necrarch, at the heart of it, was craving without satisfaction. It had been robbed of the peace of death and all that was left was vengeance and fury. Before that, Viv was nothing. A child. A speck of dust.
+
+Except, that was not quite true.
+
+The wave of intimidation smashed against the tiny mustard seed of Viv’s soul, and found the trace of past deeds. Viv was still a small pebble in the grand scheme of things but she had achieved much with the tools at her disposal and the world, and her soul remembered. Leadership shielded her and reminded her that those around her had come to gravitate around her orbit. It was her hunt, her squad. Draconic intimidation rose and spoke of cold rage preceding fiery violence. The wave waxed. The wave waned. Viv’s soul was left behind, a fluttering white orb, unscathed.
+
+Soul Master: Beginner 3
+
+Draconic Intimidation: Expert 2
+
+“Ok, first of all, GO FUCK YOURSELF.”
+
+Viv cast a sound spell to dull the screams around her and resumed casting. In front of her, a blur showed the various combatants at work. Solar moved in liquid lunges that pulverized creatures in their path, the trail of devastation continuing far beyond the reach of his blade. Solfis was a nightmare of claws that moved minimally and stayed by her side. Each of its movements was performed with lethal precision. As for Irao, he went after the more vicious and problematic specimens, leaving behind corpses with no signs of damage and yet, they would never rise again. Sidjin shredded the chaff and burned the remains together with an opportunistic, flame-spitting Arthur. Already, a pyre was lit at the back of the formation and it was growing taller with every new kill. The necrarch’s forces were melting like snow under the sun.
+
+And just as the attack had started, it stopped. All the revenants fell at the same time, their black mana reclaimed.
+
+The battle stopped abruptly.
+
+It had been the most intense and exhilarating fight in Viv’s existence. She had never seen such a display of deadly prowess.
+
+The fighters gathered in a circle, everyone making sure they were unharmed. No one had taken even a scratch.
+
+“Damn that was cool. What now?” Viv asked.
+
+//We proceed as planned.
+
+//We dispose of the bodies.
+
+//Then we go after it.
+
+***
+
+The party destroyed the corpses to the last one with rigorous attention to detail. Nothing larger than a bird wing was left behind, the rest burnt with standard and dragon fire. Only when the fall back position was fully secured did they move in. Viv thought Solfis might call for a stop, but the golem did not want to give up the initiative.
+
+//Necrarchs are cunning, but mostly they are tireless.
+
+//The longer this goes and the longer you meatbags will weaken.
+
+//We will take small breaks after the necrarch retreats to regenerate.
+
+He seemed confident.
+
+Viv followed her defenders into the main cavern. It was dark, empty, and foreboding. The old god statues stood a silent vigil as they had the last time she was here. Without prompt, Viv set up a charging station for Solfis while Sidjin made another, more basic fallback position. The cave continued deeper into the mountains, but Viv knew there must also be a path up. The lone mountain had a secondary opening much higher up, she remembered, far above the forest level.
+
+//There does not seem to be a chokepoint ahead.
+
+//We will head right and await its first attack.
+
+The party moved, with Solar leading the way and Solfis closing the march. Viv could no longer see Irao but she suspected he would make himself seen when it mattered. They returned to the pier first, then up a short flight of stairs through the door she had previously ignored. It led into a large room with a stone counter. Powdery wood and pottery fragments littered the ground. Viv called some light again.
+
+//Looks like a storage space.
+
+More doors led into an enclosed room with stone beds and tables. Private quarters. They found a lobby of sorts, with a cold hearth over red stone. Viv stepped on it and realized it was not red stone. A muffled sound of pain carried through her soul, bypassing her ears entirely.
+
+//Careful, Your Grace.
+
+“The hell is that?”
+
+[Grave of the faithful: a powerful curse was uttered here by a dying folk. Its strength has faded over the eons but the flaking blood remains.]
+
+“Is that…”
+
+The ground was covered in so many rust-colored spots that only a true massacre could have left such a mark. Viv wanted to believe it was a side-effect of the curse, but she did not believe it. Now that her attention was drawn to violence, she noticed the damage more. Some of it had not been inflicted by time.
+
+“Spear strikes,” Solar whispered, most of his attention remaining on a passage. “Powerful wielder to shear stone like that.”
+
+The more the party explored, and the clearer it was that the lone mountain had not been abandoned peacefully. Unfortunately, there was little way for Viv to understand what had happened since most of the evidence had disintegrated. Solfis, however, took note of every piece of writing it could find. There were runes left, engraved in stone next to tunnels or above rooms.
+
+The group found that the inside of the mountain had been hollowed out. The ground floor mostly hid warehouses and barracks with the occasional socializing or living quarters, even a bath. They ignored the passage leading deeper and decided to climb up first.
+
+“Hold on,” VIv said, facing the stairs.
+
+//Detecting hostile construct.
+
+“I feel it as well. It’s… subtle.”
+
+“Too subtle for me,” Sidjin said.
+
+“It’s intuitive. Here.”
+
+Viv set up a barrier including one for sound, then it was all about interfacing.
+
+“Just need to trigger it remotely.”
+
+A black veil hung around the passage, obscuring her perception. She sent a spear of mana but it did not seem to do anything. A thrown piece of rock did no better.
+
+“It seeks life,” Irao eventually whispered. “Observe.”
+
+The Hadal stepped forward before Viv could utter a warning. The cloud exploded, seeking life voraciously. Viv thought the assassin was done for this time, but he reappeared next to her as if he had never left. Perhaps he had not. Viv had bigger issues, because the flow of black mana crashed against her shield until it blotted the way, a thick wall of void, impenetrable. Impossibly, it started to eat at her own defenses. She charged the shield with the meaning of annihilation and still the trap ate at it.
+
+It was her annihilation against the necrarch’s. It was winning.
+
+“Aegis!”
+
+The shield changed, turning into a hive structure of pentagons.
+
+“It’s still pushing, I may need —”
+
+Solar stepped forward and drew his blade. He thrusted.
+
+All air left Viv’s lungs. Reality was drawn forward, filling the void left by the strike.
+
+The last rays of the sunset shone on the tunnel, dispersing dregs of darkness.
+
+“Could have opened with that,” Viv mumbled.
+
+“It’s actually quite tiring to pierce a hole through a mountain,” Solar drily said. “I am counting on you for the magical aspect of things. Such strikes would be better used against the necrarch.”
+
+“Sorry,” Viv replied, chastised.
+
+//Your Grace, this was a good opportunity to understand what we are facing.
+
+//I am convinced that you can come up with good countermeasures.
+
+Is there a way to redirect the spell instead of stopping it?” Sidjin asked.
+
+Viv knew he had probably come up with his own defense. She appreciated the small attention.
+
+“Yes, I just have to make a half sphere and let the attack glance over it, and over us. It —”
+
+Everyone but Sidjin turned around, suddenly alerted.
+
+//Mana saturation increasing.
+
+“In the tunnel, now,” Sidjin said.
+
+The rest of the party followed him up the step. On a hunch, Viv added a sound barrier to the latticed defenses the two caster set in front of them.
+
+A deep scream fell on them and bounced. This time, the casters’ adapted defenses fended off the most damaging effect. All that was left was an unsettling, muffled hiss.
+
+This guy sure likes screaming, Viv thought.
+
+“It’s behind us,” Irao said.
+
+//Yes.
+
+//We know this.
+
+//We need to lure it once into a chokehold for assessment and to wound it.
+
+Irao nodded. Viv got the impression he was merely informing them, not trying to give orders. In any case, they moved up the stairs and into a large room with actual windows and several paths branching out. They also found the first trace of the invaders beyond the battle damage. Someone had scrawled runes under the various directions, translating them for its new occupants.
+
+//Those are ancient alphabets used during the first Harrakan era.
+
+//Traces can still be found in royal tombs and the oldest temples.
+
+//I can decipher it.
+
+//With any chance, I will be able to translate the unknown glyphs.
+
+//The ancient translations mean: study rooms, living quarters, armory, and garden of fertility.
+
+“Should we explore?”
+
+//Yes.
+
+//But first, create a fallback position here.
+
+Sidjin and Viv moved with practiced ease, finishing the defensive structure in record time.
+
+//Let us move on.
+
+The complex turned out to be massive. The living quarters must have been able to host at least five hundred people and that was not even counting the barracks downstairs. Most rooms were small cells or packed dormitories with stone slabs jutting out of the wall to serve as bed. Only half of them still held strong. The arrangement seemed Spartan to Viv. The ancient humans probably had bigger concerns than comfort. They also found two more traps, which Viv managed to deflect without much issue this time. On the other hand, there were no artifacts to be found. The complex had been looted clean and whatever had been left was now merely more than dust and debris.
+
+Solfis guided them towards the armory next, though Viv didn’t expect it to have anything considering how thoroughly sacked the rest of the place was. A narrow tunnel led towards the interior of the mountain. There were two heavy doors made of giant slabs of black rock blocking their way.
+
+//Higher mana concentration detected.
+
+“There are things inside. Undead,” Irao said. “They are bound.”
+
+The Hadal’s words left the others confused.
+
+“What do you mean, bound?” Sidjin asked.
+
+“Chains.”
+
+//We must dispose of as many threats as we can.
+
+//Deny resources to the necrarch.
+
+Solfis moved in, followed by the rest of the party. The golem then stood vigil by the door while Viv increased her light’s intensity, focusing on the back. The armory was a large, rectangular room and it was completely empty save for the far wall where three deformed creatures awaited, their massive, white bodies covered in cruel metal links covered in spikes. Dull red sigils shone on their surface. Viv recognized the red glare of necrarchs, but the things were smaller. They did, however, have that slightly humanoid head with an elongated jaw riddled with sharp fangs. Irao had told the truth. Those were prisoners.
+
+[Nascent necrarch: Extremely dangerous, a creature on the verge of becoming the most dangerous natural undead in existence. Close quarter expert. Ignores damage.]
+
+The chains pulsed once, the dull red turning the color of lava. One of the necrarchs growled.
+
+“It’s draining them,” Viv realized with horror. “It’s taking their power.”.
+
+Her attention turned to Sidjin who was frantically building a fallback shield array.
+
+“Sidjin?”
+
+“It won’t let us get to its pantry.”
+
+//Mana density increasing.
+
+“It’s coming,” Irao whispered.
+
+Mother, stay behind Arthur!
+
+With a clink that sounded like a death knell, the chains around the nascent necrarchs unlocked, and fell to the ground.

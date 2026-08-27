@@ -1,0 +1,193 @@
+---
+id: 1d8fa57a-030f-50d9-8fbb-dbb1effd5b60
+page-type-slug: story-chapter-royal-road
+title: "THREE: 90 seconds"
+slug: 0003-three-90-seconds
+partOf: super-supportive
+position: 3
+ownLength: 2752
+unit: words
+publishedAt: 2023-01-29
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1100089/three-90-seconds"
+royalRoadId: "1100089"
+---
+
+Time passed. Things changed.
+
+Alden’s wayward aunt, Connie, was finally located by social services, and the two of them became a family. Their relationship was loving, but far less functional and sheltering than the one he’d had with his parents. Aunt Connie had, as one of Alden’s elementary school teachers very kindly put it, an unconventional parenting style.
+
+When he was eleven, his baseball coach, chewing an enormous wad of gum behind the dugout after a game one day, was less discreet. “Listen, Alden,” he said around noisy smacking sounds. “You’ve got your head straight on your shoulders, so I’ll just tell you. It’s not right that you have to be the grown-up in the relationship. That woman’s got nuts loose in her brain and a bunch of squirrels chasing after them.”
+
+Alden had frowned and looked down to the place where his shoe was scuffing a small divot into the clay. He didn't like people badmouthing his aunt, but it wasn't easy to argue with them. “She’ll come pick me up eventually. You don’t have to wait with me.”
+
+“Kid, she left you here until after the rec department closed last game. Don’t think I didn’t hear about it.”
+
+Alden wondered if he should mention that he'd used his aunt's name and id number to put an app on his phone so that he could use the adults-only e-scooter rentals around the city when he really needed to. But maybe that would only prove his coach's point.
+
+So they waited together, and she did come. Only an hour late that afternoon, with an excuse about traffic and six pints of melted ice cream in the backseat of the car.
+
+It was fine.
+
+They dumped the ice cream and bought more for dinner. Then some of Aunt Connie’s friends from the salon where she was working at the moment came over to their house with pizza and beer and loud music. Alden disappeared to his room after the impromptu party became uncomfortably messy.
+
+He slapped on his favorite set of headphones and played games on his computer for a while. Then, he did his homework.
+
+It was just reading—a simplified history of the System’s arrival and the ways it had changed Earth. There wasn’t much new information in it.
+
+The Artonans unleashed the System on Earth, as they had on many other planets in the past. In exchange for powers, arcane knowledge, and tech, humans had to agree to help the Artonans when they were called upon. Plenty of humans took them up on the offer, and the first superhumans were created.
+
+That was seventy years ago, in the early 1960s, and almost everyone agreed it had been a good deal for humanity. Without the Artonans, most people thought that Earth might not even have internet or cell phones. And when heroes were summoned by Earth’s alien benefactors, the Artonans were fair in their dealings. Sometimes they assigned difficult missions, but they always offered rewards equal to the task given.
+
+Alden had already known all of this. At the end of the assignment, his online textbook included a poll for all its readers asking if you’d like to have powers or not. He clicked “yes” after only a moment’s hesitation.
+
+You’re in the majority! the screen announced. 96% of the students reading this chapter also said they would like to have powers.
+
+You’re all super brave. Being a hero is an important job.
+
+But did you know that only 0.07% of the people on Earth will be offered access to the Interdimensional Warrior’s Contract? (Reminder: that’s the proper name for the System. It might show up on a quiz.)
+
+That’s around 7.6 million superhumans. It’s a big-sounding number, but it means that more than ten and a half billion people who would like to have super powers will never even get the chance.
+
+That’s a lot of disappointed people, Alden thought, feeling more than a little disappointed himself.
+
+He answered a few reading comprehension questions, earning a 10/10 and a burst of fireworks across the screen.
+
+At midnight, the house was still noisy, so he gave up on the idea of sleeping. He sneaked into the den to grab a cold slice of pizza, then settled back at his desk for his on-again off-again hobby. Researching the accident.
+
+Three years dulled things, but on nights like this, he missed his parents acutely. Digging into their deaths was a painful compulsion. Superheroes were a source of fascination for most people—96% of them apparently—so there was plenty of information.
+
+Alden was beginning to learn how to sort fact from fiction. It helped that Hannah hadn’t lied to him that day in the hospital. The things she’d told him were a guideline that helped him find the other pieces of the story.
+
+The pieces that were uglier.
+
+For example, there were pictures of some of the Body Drainer’s victims. They looked even more dead than dead bodies usually did. They were twisted up and gruesome. The only photographs of Body Drainer were nice ones, though— school pictures showing a smiling, pale boy in a shirt and tie.
+
+Superhumans usually came into their powers between fifteen and seventeen. He was a senior in high school when he killed twenty-seven people. Most of the deaths happened at the nightclub. But there were a few before that. And three while the heroes were in pursuit.
+
+There were either none after he was cornered in the building across the street from Alden’s bedroom, or two. It depended on how you looked at it. Some websites counted Alden’s parents among Body Drainer’s victims. Others listed them as bystanders. One wrote their names out— Richard and Leah Thorn—and placed them beside the words collateral damage.
+
+A couple of superhuman-hate sites even listed them as victims of Arjun Thomas and Hannah Elber. Like they’d killed them on purpose.
+
+“You just know ‘heroes’ do shit like this all the time when they’re not on camera,” a user named wakeuptheresbacon said. “Easy way to hide a couple of murders. Like ‘Oops. It was an accident while I was fighting crime.’ I’ve thought about it a lot before. And look at those stupid suckers. They were definitely hero lovers. The lady worked at a House of ‘Healing’.”
+
+Alden had seen this comment before several times. He kept coming back to this site to stare at it even though it made him furious.
+
+He’d gone through phases over the past three years where he was angry at the heroes for messing up their fight with the Body Drainer. But he wasn't currently in one, and he’d never been confused about where the ultimate blame lay.
+
+And now he was just…so, so mad at wakeuptheresbacon. He knew in his head that it was weird, but he thought he hated bacon more than he’d ever hated the actual supervillain responsible for ruining his life.
+
+He didn’t know my parents. He doesn’t know anything. How dare he say stuff like that about them! My mom’s job was important.
+
+Everyone was so proud of her. Houses of Healing usually had just one healer—a superhuman or even an Artonan—plus an apprentice or two, and a small handful of regular human nurses who had to go through years of extra training and be granted special authority to use certain healing wordchains.
+
+His mom being chosen for the job was such a big deal that his family had moved to Chicago for it. She was amazing, but bacon and his internet friends were acting like she was dumb.
+
+He glared at the screen until his eyes started to water. He wanted to tell everyone that bacon was the stupid one, even though the comment had been posted over a year ago, but the thread was closed.
+
+He let his forehead smack into the desk and started a breathing exercise a school counselor had given him not long after his parents died. It had been months since he’d remembered to do it, but at one point, he’d had to use it almost every day. He fell into the rhythm easily.
+
+When he felt better, he sat back up and closed the infuriating website. He turned the volume up on his headphones. It was one of his rainstorm playlists. In theory it would help distract him from his lingering tinnitus, but in practice, he mostly used it to drown out Aunt Connie.
+
+He typed in the name of another website,one he’d found recently, and read through it again. It was the blog of an elderly man named Marv who was extremely geeky about super abilities.
+
+Marv went into minute detail about the physics of them. He discussed the intricacies of the magic/chaos dynamic. He had pages and pages of skill listings and stat theory. And he did breakdowns of the more obscure powers.
+
+Alden couldn’t understand most of it. But he was trying to understand everything about a post the man had made three weeks ago.
+
+It was about Body Drainer.
+
+And because Drainer had only really made one appearance in the public eye, the entire breakdown of his skills was based on that night. Alden had read it several times, and every time he did, he felt his mind shifting a little. Like it was trying to make room for a different perspective than the one that had been deeply entrenched in him for so long.
+
+It wasn’t that Marv had much new information to offer about what had happened. He didn’t. But the facts he chose to focus on in his discussion of Drainer’s powers weren’t the facts Alden had always focused on.
+
+The Drainer had killed people by draining them. It was right there in the name. But Marv was interested in finding out what exactly it was the villain was draining:
+
+“To merely say he stole strength from his victims, as most do, is to say we don’t know what he was absorbing from those poor souls at all. The implication is that he was somehow increasing his own physical abilities by depriving others of theirs. This is obviously incorrect.
+
+“It is fascinating to me that so many of my fellow superpower enthusiasts have ignored the most unusual aspect of the Body Drainer’s case—his use, in his final moments, of what official reports call only ‘energetic bursts akin to explosions.’
+
+“This is wildly different from his more commonly discussed talent for enhancing his speed. If the villain was only improving his own physical traits as he stole life from others, there would be no way to produce ‘energetic bursts.’ And the suggestion that he had acquired an additional high-ranked skill from the system beyond the drain ability beggars belief.
+
+“May I remind my friends that this particular villain had only become a superhuman a few weeks previously? Skills of enormous power are not so easy to come by.
+
+“Any attempt to ascertain the true nature of Body Drainer’s deadly skill must begin with a thorough pondering of these strange explosions.
+
+“Here we head into the thorny jungle of magi-chaos, where one human might lay hands on another and take from them something more essential than muscle or bone.”
+
+Alden read the introduction slowly. Then he read the rest of the post even more slowly. Marv grew more long-winded rather than less as the writing progressed.
+
+But the focus on Body Drainer’s explosive ability was particularly important to Alden, so he persevered. Marv reported that Drainer had used the explosions twice in rapid succession. BOOM. BOOM. Only a second apart. And then a third time, “approximately ninety seconds later, as reported by heroes on scene, at the moment of impact by Mr. Arjun Thomas, a strength-focused Brute class.”
+
+BOOM.
+
+Marv was curious about how Drainer’s power caused the explosions in the first place.
+
+Alden was morbidly focused on the timing of them. Was it really ninety seconds between the first two and the third? Ninety seconds between the explosions that had thrown him from his bed and the moment Arjun and the villain crashed through the walls of his room and he lost consciousness?
+
+It wasn’t the first time he’d asked himself that since reading the post. He glanced over at Wummy, sitting on the foot of his neatly made bed beside his backpack. But the smiling wombat had no answers.
+
+Alden closed his eyes and tried to remember. There was the sudden shock of waking up in pain on the floor. His ears were ringing. He screamed for his parents.
+
+He realized his mouth was full of blood. His arm was messed up. He’d been pierced by the shrapnel.
+
+He screamed again.
+
+He saw broken glass. He reached for Wummy. There was wind in the room. The world exploded.
+
+It could have been ninety seconds, he thought. Isn’t that a long time?
+
+Alden felt his perception shifting again. He decided that he had to know. He shut down his computer and turned off his lights. He grabbed his phone and climbed into bed.
+
+This is so mean. And embarrassing. He found the phone’s stopwatch feature and let his thumb hover over the START/STOP button. Carefully hiding the phone and his hand under his sheets, he took a deep breath and pressed the button.
+
+The instant he felt a haptic twitch from the phone, he screamed at the top of his lungs. “AUNT CONNIE!”
+
+One Mississippi, he thought. Two Mississippi.
+
+“HELP!” he screamed. “AUNT CONNIE! AUNT CON—”
+
+There was a sound like an elephant barging through the den. A crash. Swearing from one of the guests. Something like a pizza box hitting the floor.
+
+Then Alden’s aunt burst into his room. Her bleached hair was wild around her face. She’d flung the door open so hard it ricocheted off the wall. Her eyes were wide.
+
+“Alden!” she shouted, leaping over his backpack to grab him. “Alden, baby! What’s wrong?!”
+
+So forceful was the response that he almost forgot to hit the stopwatch’s button. Maybe I didn’t have to scream quite that loud?
+
+“I…I think I had a bad dream."
+
+José and Rhonda from the salon were both staring at him through the bedroom door. He felt his face heat.
+
+His aunt rocked back and forth, still clutching him to her. “It’s all right,” she murmured. “It’s all right. I’ve got you.”
+
+Hidden under the sheets, the clock had stopped at eight seconds.
+
+#
+
+It took a long while for Alden to convince his aunt he was fine. And that he didn’t need her to sleep with him and scare the monsters away like he was a little kid.
+
+He must not have done a great job of it, though. When the bus dropped him off after school the next day, he found that his room smelled like someone had dumped a truckload of apple pie filling into it. He looked around and found the culprit quickly; it was a Christmas-themed fragrance dispenser, plugged into the wall and glowing hot pink.
+
+I guess she wanted me to have a nightlight.
+
+He wrinkled his nose but left it plugged in to punish himself for scaring her and lying about why.
+
+He dropped off his bag and headed to the kitchen. He had a couple of hours of privacy at least. He opened a pair of overstuffed drawers Aunt Connie called the “Flat Stuff Place”.
+
+The drawers were, indeed, full of flat stuff. Takeout menus, recipes, random Tarot cards, matchbooks, “I Voted” stickers, old credit cards, brochures, birthday cards, random school assignments, and more.
+
+Alden dug through it all, looking for something he had seen in one of the drawers before. It had been a long time ago, but that didn’t matter. The flat stuff never got cleaned out. It only accumulated endlessly.
+
+It took him almost twenty minutes, but he finally found it. It was a burgundy pamphlet describing the benefits of the dully-named “Anesidora Compassion Fund.”
+
+It was a fund to take care of people who’d been injured during superhuman incidents. Alden opened it up to find a bullet point list of benefits, some he’d received himself.
+
+Trauma counseling. The sorry-you’re-an-orphan-now scholarship money.
+
+There was even an annual Victims of Villains retreat at a campground in New England. He couldn’t imagine a worse vacation, so he’d refused when Aunt Connie suggested they should apply for it.
+
+Alden wasn’t interested in the pamphlet itself, but in the scrap of paper that was tucked inside it. There was a phone number and a message:
+
+CALL ME IF YOU OR ALDEN EVER NEED ANYTHING
+
+— H.E.

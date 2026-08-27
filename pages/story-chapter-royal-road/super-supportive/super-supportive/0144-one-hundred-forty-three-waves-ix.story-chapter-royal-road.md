@@ -1,0 +1,487 @@
+---
+id: 3fe294f6-79a0-5165-bda4-1fe8eb5a285a
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FORTY-THREE: Waves IX"
+slug: 0144-one-hundred-forty-three-waves-ix
+partOf: super-supportive
+position: 144
+ownLength: 4983
+unit: words
+publishedAt: 2024-05-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1644025/one-hundred-forty-three-waves-ix"
+royalRoadId: "1644025"
+---
+
+143
+
+******
+
+Alden’s own labored breathing was loud in his ears, and the sound of splashing echoed around him as he tried to fight his way out from under the thing that both pinned him and protected him from the other flotsam in the room.
+
+Judging by the feel of it, it was some kind of chair.  There was definitely a cushioned seat shape. But it weighed too much and felt far too large to be a normal recliner. The back of it was made of a smooth, hard material, and it extended farther behind the chair than his hands could reach. A domed attachment on top was propping the chair against the wall right over his head.
+
+His best guess in the dark was that it was either medical equipment or an entertainment device. Something you sat in and then things happened to you.
+
+Or something that deprived your calves and feet of blood as you struggled to get it off of you. His lower legs were numb now. If he hadn’t been able to feel them just a minute ago he’d have been freaking out even worse than he was.
+
+The angle was bad. The weight was bad. The cold was bad.
+
+I have to get out of here. We have to get out of here.
+
+As his wet fingers slipped off the sides of the chair again, he swore in his head. His arms felt like stupid meat clubs attached to his body at the shoulders.
+
+Gasping, he let his head fall back against the wall.
+
+Take a few breaths. Stop flailing at it. It can’t be impossibly heavy. It would have hurt more when it landed on me instead of just making my feet numb, right?
+
+Just a few breaths. Then he’d try shifting it in a slightly different direction or with another method. He couldn’t let himself stay trapped here for long. Never mind the fact that the water could start flowing faster or deepening at any second, called by the magical remnants of an artifact that should absolutely not have been in the same galaxy as Earth as far as Alden was concerned.
+
+The temperature alone was a problem.
+
+He wasn’t someone who paid attention to the daily weather report well enough to know exactly how cold the ocean around Anesidora was today, but it definitely wasn’t warm enough for him to be casual about sitting around in it.
+
+Are my arms being dumb because I’m exhausted or because I’m so cold?
+
+Zeridee was stuck under here with him, her chest pressed to his, her legs extended out to his right. Her face was underwater whenever he wasn’t actively trying to place it above it.
+
+Alden didn’t have much trouble keeping his skill active on things in water.
+
+Even in happier settings, it was easy to think of liquid as a threat to certain objects and as an inconvenience to himself rather than a helper. He’d practiced a few times by going for a swim while he shielded his laptop, and once with an open container full of Natalie’s vegan nachos. Under those conditions, he’d definitely felt concerned to be carrying things through aquatic environments.
+
+This was much more serious. If he stopped protecting Zeridee, she’d wake up confused and trapped. In the dark and in pain, with freezing water pouring into her nose and mouth.
+
+Alden was so grateful he’d held onto her when the wave hit them. He didn’t understand how he’d done it—if it was luck or if it was a result of his body and mind trying to follow through with his last intentions.
+
+He almost wanted to believe the skill itself had helped him to do the right thing, but that might have been fantasy. In any case, it definitely hadn’t been a product of clear thought in the moment.
+
+Now, he could think, but his fears for his burden were still visceral. He noticed, in a passing way, that holding Zeridee with Bearer was feeling different than it had before the wave. Some subtle change had occurred. But it felt like a solidification of Alden’s authority to carry and protect her rather than a threat to it, so he just accepted that it was happening and gratefully gave more of his conscious attention to the pressing problem of getting this damn chair off of the two of us.
+
+Since it wasn’t just going to move easily when he shoved at it, he needed to see it better.
+
+The first of the three flashlights he’d stolen had been discarded when its batteries ran dry, but he’d still had two on him when the wave hit. Both of them were gone now, even the cheap-looking mini one that he’d shoved into his pocket for easier access.
+
+That only left the tablet.
+
+He hastily brought his bag up above the surface. He wasn’t quite shocked that it was dry inside, but he was glad that the waterproofing was more perfect than he’d realized. He grabbed the tablet and closed the bag, letting it fall back into the water as he thumbed the screen.
+
+Kibby looked warm, dry, and safe sitting at her desk.
+
+“Choosing the path of higher onus is more difficult than I knew, Alden,” she said in a serious voice. “For example, my honored instructor says children of the ordinary class may be disappointed in me whenever I fail to win games. Even games I’m not very good at, like hopcatch. Do you think that…?”
+
+Alden tried to study the chair by the video’s light. He still had no idea what it was for. Both of the armrests had panels with buttons. There was a shiny black lid that looked like it would cover the head and chest of the person sitting below it when it was pulled down. Currently, that lid was open wide, pressed against the wall above him.
+
+He leaned as far to each side as he could so that he could see at least some of what was going on behind the chair.
+
+So that’s what we’re dealing with.
+
+People definitely sat in this thing, and it definitely did something to them, and it was definitely not moving in the direction Alden had been shoving a minute ago because the partially-submerged lid of another chair was sticking out of the water, wedged against the back right corner of this one.
+
+This isn’t impossible. I can handle this much. Let’s not freeze to death.
+
+A cloud of his own breath fogged the air in front of him. He glanced at his injured left hand. It looked just like it felt. There was a deep gash across the back that gaped open half an inch at the center. Blood was flowing from it, and making a fist hurt.
+
+Alden dropped the still-playing tablet, letting it slide under the water onto Zeridee’s ribcage. The device was supposed to be waterproof, too, so he’d trust it for the sake of keeping even a little light.
+
+From what he’d managed to make out of the furniture arrangement, he thought an up-left-back combo motion would work to free them.
+
+One good shove. Don’t waste it. Give it everything you’ve got. If this doesn't do the job, you switch to trying spells.
+
+He didn’t want to have to do that. Lifting would be faster than his auriad spells. If he could make it work.
+
+One. Two.
+
+He took a breath and bent forward, his face kissing the icy surface as he got his hands underneath part of the chair that offered a decent grip.
+
+Three.
+
+He didn’t know why he screamed a watery “Fuuuuuck!!!” as he lifted and heaved. It wasn’t like that was going to contribute anything but noise to the process.
+
+But the chair slowly tipped off of him, lid scraping the wall as it went. As soon as it splashed onto its side, Alden drew his thighs in, pulling his numb lower legs with them.
+
+Not stuck. Good. I did it. That was really hard. Everything’s gotten so hard.
+
+His tablet had slid off of Zeridee onto the floor, illuminating the water from below. He grabbed it, and Kibby’s voice filled the room again.
+
+Staggering upright was a massive chore. His body was stiff and clumsy. Zeridee felt like she weighed about a thousand pounds.
+
+Up and dry. We get up and get dry.
+
+Trying to figure out where he was and where he could go from here, he stumbled a few splashy steps on legs that were coming painfully back to life.
+
+The water was filthy and there was a slow current to it. Things were still bumping into him, but at least there wasn’t the enormous force of the wave behind them.
+
+The room he was in was smallish. There were less than a dozen of the weird chairs, and most of them had been tossed by the water. Along the front wall, floor-to-ceiling windows looked out on a brand new river. Alden had obviously been swept through one of them by the flood.
+
+Behind a tall curved desk with a tiled front, a logo painted on the wall showed a man and woman, both with absurd chests, grinning as they sat in the chairs.
+
+Yeah, I still have no clue what this place is. Don’t know. Don’t care.
+
+He waded for the open door. Out on the sidewalk, he squinted up, judging rooflines by height.
+
+Three-story. Three-story. That one over there looks like four with a flat roof.
+
+He was too tired to travel in search of better.
+
+******
+
+“Owowowwww! Crap. What’s this thing d-doing to me, Zeridee?!”
+
+Shivering on a pink and gold poof of a stool on the upper floor of a women’s clothing boutique, surrounded by a glowing flock of flowery-smelling candles in jars and tins, Alden bit his lip and prayed that the bandage he’d just applied to his hand was about to stop trying to enter the laceration it was supposed to be protecting.
+
+Ow.
+
+The hand-written instruction booklet in the medical kit, provided by the petrified Artonan currently resting on his legs, said this type of bandage was for “moderate bleeding injuries.” The thick, sticky rectangle had looked normal enough. Kind of like it was made of the same stuff that blister pads were.
+
+It was definitely not made of that stuff.
+
+Alden was glad he’d lit the first of the candles with his promise stick spell before he started working on the injury. Even the simplest casting would have been hard to pull off while a bandage was doing this to one of his hands.
+
+Is it sucking on it now? What in the alien hell? Why would anyone want their wounds so heavily interacted with?
+
+He was shaking. He wanted to set a big pile of clothes on fire and warm himself by it.
+
+But burning down the dry top floors of his chosen shelter probably wasn’t clever.
+
+He stood with a grunt and started stripping instead, trying to ignore what was happening with his hand while he looked around the dim shop for something that would be warm. He was willing to wear the curtains if he had to.
+
+Shorts fell onto his shoes with a heavy splat. The legs were just wide enough that he could escape without taking off the boots. He’d rather avoid that, since he’d just have to put them back on again. Wet, freezing feet were inevitable at this point, and he’d be hard-pressed to find a better choice of disaster footwear in this shop.
+
+Plus, if something bad happened right now while he was dressing, he could run away without pants on but not without his feet covered. He doubted he could take three barefooted steps outside at the moment without stomping on something that would put him out of commission.
+
+What is this? My fifth wardrobe change since I woke up?
+
+The clubs attached to his shoulders couldn’t figure out how to get the wet sweatshirt off without dropping Zeridee. He stopped halfway through, right arm inside the shirt, left still in its sleeve, so tired he wanted to lie down.
+
+He stood there, rivulets of cold water running down his legs, staring at one of the candles on the floor in front of him. A drop hit it dead on the wick, and it went out.
+
+I think the stimulant’s worn off.
+
+He hoped it had. If this was how finished he felt with it still in effect, then the promised fatigue when it did wear off would knock him unconscious.
+
+He’d given the other stimulant to Liam. The kit hadn’t come with a third.
+
+There were mood enhancers. Based on Zeridee’s instructions, one of them might as well be called “You’re About to Feel Ecstasy Even if You’re Being Slowly Flayed”. The other was something that just made you a little happier.
+
+Alden wasn’t sure a little happier was what he needed.
+
+He stared at the dark candle.
+
+I don’t get to rest until we’re out of here.
+
+Move.
+
+Move. Fuck, Alden. Do it. Warm your ass up. Maybe it’ll make you functional.
+
+He forced himself to.
+
+Locating a pair of yoga pants that were stretchy enough to work took a couple of minutes. After he put them on, he finished escaping from his soaked Canada sweatshirt. The warmest top he could fit into was a one-size-fits-most sweater robe.
+
+By the time he’d gotten it on, the bandage was finally finished sealing itself to his hand. Or whatever it was it had been doing.
+
+Has the water gone down yet?
+
+There wasn’t any point in trying to get out of this place until it did. He’d only set a slogging pace, wear himself out even more, and keep getting colder.
+
+He went to one of the store’s narrow windows to check.
+
+Alden was on the third floor. All the doors in this building had the same kind of interface operated locks that his apartment in intake had had. Every one of them he’d tried was unlocked. He’d glanced at the fourth floor briefly before coming back down here to take advantage of the clothes and candles. There was just a photography space up there. Random props. The stairs went right up to the roof.
+
+It’s not receding, he thought. He was staring at the first floor of the building across the street, where a tangle of broken, white-painted boards floated, bumping against a restaurant sign on the exterior wall. The water had been touching the bottom of that sign when Alden waded past. It was still touching the bottom of it now.
+
+What if we’re stuck? What do I do then? Do I have to…?
+
+Despite the chaos downgrade, the System still hadn’t brought communications back online.
+
+“Let’s…some more light would be nice,” he said quietly. “We can’t move yet, so let’s do that. Let’s have all the light.”
+
+He spent a while lighting every candle in the place while Kibby talked to him about the path of higher onus from the tablet he’d left on the pink stool.
+
+It was surprising to him that she was worried about the hopcatch revelation. She knew how the class divide worked. It was baked into Artonan life. Alden himself had had knowledge of it even before becoming an Avowed, and lots of television watching in the vault had polished off enough misconceptions and assumptions to make him confident that he understood what the cultural ideal was.
+
+Though he had much less of a sense of how well and how often the ideal was met in practice, and the subtleties involved would probably keep surprising him for years.
+
+Maybe on some level Kibby didn’t think she’d really be allowed to make the class shift.
+
+The adults at the lab had been tolerant of her ambitions but not fully supportive. She’d probably been so focused on proving to them that she could be a wizard that she hadn’t started seriously imagining what her day-to-day life would be like when she was one.
+
+“I do think it would be unfair of them to expect me to excel in every activity,” she said nervously. “Nobody is good at everything.”
+
+Alden pried the metal lid off the last candle and lit it with one of its fellows. If they were face to face, he might have teased Kibby just a little. Not about her fears, of course, but about the fact that she hadn’t connected her teacher’s warning about the way the children on Artona I might feel about her to her own feelings about Joe.
+
+Alden—having been treated to many earnest descriptions of Distinguished Master Worli Ro-den’s character, intelligence, and magical might—had made the connection immediately.
+
+Kibby thought it was natural that Joe had once ordered her father to go back to school and spend a couple of years studying an obscure field that Joe himself didn’t feel like investigating. But she had also expected Joe to use her father’s service to have universe-shaking breakthroughs. Not in an, “I hope he will,” kind of way but in a, “He will. Anything less is unacceptable to all of us and will shatter my worldview,” way.
+
+Her family’s chosen wizard was probably only allowed to lose games of hopcatch if his opponents were knights.
+
+Alden checked the window, willed the water level to drop, then sat back down on the stool. While he warmed his hands over one of the candles, he thought.
+
+I almost died again.
+
+People had reassured him when he was younger that what had happened to him and his parents was a freak occurrence—a single random tragedy, not evidence about what the world he lived in really was at its heart.
+
+You won’t ever have a day this hard again, Alden. Life is mostly good.
+
+He had believed it. Years of safety had supported it until this past one.
+
+A mental command pulled the latest set of disaster alerts up on his interface, and he stared at them. “It’s just bad luck,” he muttered. “I’m not stupid enough to take it personally.”
+
+He wasn’t stupid enough to take it personally. And yet…other people did not seem to get shit on by circumstances quite this much. Quite this often.
+
+I want to go home.
+
+He’d thought it so many times on Thegund, when the “home” in his mind had just been Earth. Here he was, on Earth, and the longing was back. And he didn’t even know what home meant to him anymore.
+
+But he did believe that if he asked her for help, if he accepted the kind of responsibilities that would allow him to ask her for help like Alis-art’h had, then he would fall into something so all-consuming and inescapable that he would never get his hands on home again.
+
+How could I?
+
+In the best case scenario he could imagine right now, using the privilege resulted in his life on Earth effectively being over.
+
+I can’t. I don’t want it.
+
+He looked down at Zeridee.
+
+I can’t let her die here either.
+
+Kibby’s video had just ended. He was about to click on one she’d made about a rhinoceros-looking animal toy she’d acquired when suddenly Alden remembered that he, too, was in possession of an animal.
+
+“Shit!” He yanked the bento out of his bag so fast that one of his sandals and his scratchart card came with it. “I’m sorry. Don’t be dead!”
+
+He’d been giving the orange snake periodic breathers, but in the aftermath of the wave, he’d forgotten it completely.
+
+The reptile was coiled up. Its eyes were open, but it wasn’t moving.
+
+Alden squinted, trying to figure out if it was alive or if snakes might possibly coil up with their eyes open in death. He really couldn’t tell, and he thought it would be mean to poke it with a chopstick just because seeing it wiggle would make him feel better.
+
+He held the bento lid near his candle to catch some warmth for it and reached for the card Liam had given him, expecting nothing.
+
+His heart leaped at the sight of a message, scratched out in rough capital letters…only for the contents of that message to make his mood sink again just as quickly:
+
+I FOUND THEM
+
+TINA STUCK IN MEAT COOLER.
+
+TOOK LONG TIME TO GET HER.
+
+EVERYTHING WNW OF APOGEE VERY BAD
+
+DON’T COME.
+
+HOW’S YOUR DIRECTION?
+
+When did he send this?
+
+Alden grabbed the stick that went with the card, rose to his feet, and went back to the window. He stared down at the river below him.
+
+His stomach felt like a pit as he scratched a reply.
+
+ENE OF APOGEE AWFUL.
+
+LOTS OF RUBBLE.
+
+HUGE FLOOD.
+
+He looked at the window one more time.
+
+DON’T COME HERE.
+
+Below him, the restaurant sign he’d been using as a marker was nearly covered. The water had begun to rise.
+
+******
+
+Hope was a strange emotion. You kept finding crumbs of it long after you thought you were finished with each other.
+
+Alden didn’t hear any more falling buildings. There was no enormous roar of sound this time. He had on dry clothes.
+
+So he hoped a little more.
+
+He hoped the snake was alive as he tucked it away again. He hoped the Longs had miraculously found a way out. He hoped that the flooding would recede, that the System would send him a message, that he would get just one more reprieve.
+
+As the water approached, he carried a candle with him up the staircase to the fourth floor. He sat on a step beside it, rubbing his auriad with his good hand and watching the danger approach at a pace that was just slow enough to make him think maybe it wouldn’t catch him.
+
+Narrow escapes had happened several times tonight. Even one in a stairwell. Why not another?
+
+The water reached the step below him.
+
+Alden didn’t think this building was the magic’s target. The liquid wasn’t climbing the walls. It must have been steadily filling this place because there was a large target nearby. He and everything else in the vicinity were just in the way.
+
+He ascended the last flight, stopping at the door that led out onto the roof. When the water finally touched the soles of his boots, he turned the knob. His hand trembled against it.
+
+Outside, his candle flickered in the wind.
+
+He held it and Zeridee both close to his chest as he searched the surrounding buildings with his eyes, looking for a place that was turning into a big water blob. He spotted it at once, though it was more distant than he’d expected.
+
+It was still a short while until dawn, but the sky was lightening now. And blackening the view, there was a roofline that wasn’t a roofline at all.
+
+A dark swelling clot where once there had been a building. Another catastrophe, waiting to burst.
+
+Alden could actually see it growing. The water mounded toward it from all sides.
+
+The pressure and depth alone would kill me if I was at the bottom of it, he thought.
+
+He wondered if Anesidora would be all right. If it could possibly be.
+
+What if everywhere looks like this? What if it’s not just here?
+
+How much will be left? Will anything at all?
+
+He watched the dark mound grow. He tried to come up with another idea. Some way forward.
+
+Pulling up the legs of the yoga pants so that they wouldn’t get wet, hitching up the ends of the robe.
+
+Staying warm. Staying alive.
+
+Scratching around for hope until he finally had to admit that the last crumb of it really was gone now.
+
+The water was up around the tops of his boots. He could feel it flowing toward the mountain on the horizon, which had become a destroyer. This time there was no way to even imagine himself escaping. Not on his own.
+
+The current tugged at him.
+
+He wouldn’t be able to stay on his feet soon.
+
+I really just want to go back to my dorm room. And joke around with the guys. Take a phone call from Jeremy.
+
+I want yesterday back. I want it unruined.
+
+“Let’s get to safety, Zeridee. For real this time.”
+
+His skill still had that solidity to it. Like holding Zeridee had become more natural for his magic even as his body struggled. He’d have to think about that later.
+
+“Contract, I’m going to use my privilege. I don’t really know how it works. But let Mother know. And get me out of here.”
+
+******
+
+******
+
+Contract Earth to Contract I, a personal request from Avowed Samuel Alden Thorn has been detected. Requesting connection to Mother.
+
+Providing relevant information.
+
+Awaiting decision from Mother…
+
+Awaiting decision…
+
+Decision acknowledged.
+
+******
+
+******
+
+Alden stood there, feeling like he’d just given away something precious. Knowing he had.
+
+His interface flared.
+
+[Request for use of privilege received. Request denied.]
+
+“What?” he breathed.
+
+The water was up around his calves and still rising.
+
+“If not now… We’re about to die. Me and Zeridee, and I…did I misunderstand? Did I do it wrong? Is there an oath that comes first?”
+
+The deep sense of loss had turned to confusion ,and that confusion was rapidly transforming into terror.
+
+[Wait.]
+
+“For what? There’s not a lot of time. I’m not sure I can even stay upright for long, and there’s nothing else I can—”
+
+A loud sound he couldn’t identify made his head whip toward the east.
+
+Oh god.
+
+Some of the water was shearing away from the top of the mound. A giant waterfall of it.
+
+“It’s starting! System, what shoul—?!”
+
+He tried to run from the danger, toward the other side of the roof even though that was laughable. He couldn’t help himself. The coming wave was going to kill him, and he couldn’t just stand still for it.
+
+But before he made it to the edge, his right boot went out from under him, yanked sideways with so much force, by an unseen force, that Alden screamed in pain as he fell.
+
+He tried to hold onto Zeridee.
+
+His head was underwater, and the shoe, caught by a tiny mote of the same magic that was already in the process of murdering him in a much grander way, was dragging him along the rough surface of the roof.
+
+I can’t. I can’t.
+
+He let go of Zeridee with one arm, just one, trying to use the other to grab onto something to halt their momentum. But there was nothing to grab. He scrabbled at water. At trash.
+
+He reached out for help, and there was none.
+
+Pain shot up his body as his leg and then his shoulder slammed into something. His grip on Zeridee loosened.
+
+No. Don’t let her go. Please.
+
+I don’t want to let her go here at the end.
+
+His mind was suddenly full of memories, crowding each other, jumbling together with the fear.
+
+Thenn-ar with her patient explanations as she died, answering him in small words, telling him how to be safe. Hannah wearing a fake smile and holding up a sign that said DON’T BE AFRAID. Arjun weeping beside Body Drainer’s corpse. Kibby—a dozen memories of her.
+
+And Zeridee. Just an assistant giving him many teas. Sharing her favorite fruit. Killing for him.
+
+He barely knew her. She reminded him of so many things. He’d carried her for so long.
+
+He couldn’t leave her.
+
+But the universe had other plans.
+
+Alden got a single gasp of air, and then he was under again. They were moving so fast he knew they couldn’t still be on the roof. They had to have gone over the edge.
+
+They…
+
+There was no “they.” Alden suddenly realized his arms were empty.
+
+No.
+
+NO.
+
+When had he dropped her? Was it when his grip loosened? How had he not realized?
+
+He’d thought they were still together, but she wasn’t in his arms.
+
+He thrashed toward her. He knew where she was. He knew. It wasn’t far.
+
+The boot finally yanked itself off his foot, and he swam. He couldn’t see. There was no down or up.
+
+There was only him, wide open. And her—his entruster, his burden. Both.
+
+With a gravity like the sun.
+
+But Alden was out of air. He was out strength.
+
+And the two of them were out of time.
+
+His arms stirred the water weakly. His feet kicked. His throat felt like it was clamping shut.
+
+Zeridee is going to die.
+
+Because he was going to.
+
+Don’t let go. Don’t…
+
+******
+
+******
+
+A massive command touched reality.
+
+Alden felt that it was happening, though he didn’t have the ability to understand where the command came from or what it was doing.
+
+He just knew that his body and everything around him…slowed down.
+
+He became aware of his hair, drifting so slowly it was nearly frozen around his face. He tried to open his eyes, and the lids began a lift that felt like it might take multiple minutes to complete. The current was no longer rushing him toward the mountain of water but creeping along at a rate that was almost undetectable.
+
+It reminded him of being caught in Hannah’s bubble spell, though his emotions weren’t at all dulled, and everything in the vicinity was a part of it. Instead of just one small boy.
+
+His thoughts were the only thing moving at what felt like a normal speed.
+
+What’s going on? Who’s doing this?
+
+Who could be this strong?
+
+And would he die like this—aware and with time to contemplate the process?
+
+Then, something plunged through the water, past his nose. A hand, moving swiftly within a world that barely moved at all. Before Alden even felt surprised, it grabbed him by the shoulder of the sweater robe. And it lifted him up Into the early morning air.
+
+******

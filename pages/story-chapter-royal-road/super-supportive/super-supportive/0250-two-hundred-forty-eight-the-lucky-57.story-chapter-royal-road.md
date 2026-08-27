@@ -1,0 +1,349 @@
+---
+id: d509a1f1-2c51-5212-8c41-12cca2beff65
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-EIGHT: The Lucky 57"
+slug: 0250-two-hundred-forty-eight-the-lucky-57
+partOf: super-supportive
+position: 250
+ownLength: 5273
+unit: words
+publishedAt: 2025-10-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2653925/two-hundred-forty-eight-the-lucky-57"
+royalRoadId: "2653925"
+---
+
+TWO HUNDRED FORTY-EIGHT
+
+The Lucky 57
+
+Something was wrong with Stuart.
+
+Alden suspected it soon after he woke up. The Artonan boy had gotten dressed in his LeafSong uniform and put their learning cushions side by side in front of the window, like he hoped they would have time to talk or study together there. And he was kneeling on his now, but he was just looking down at his hands, watching his auriad slide through his fingers.
+
+He seemed absent. That alone was odd for him. And his smile after he realized Alden was awake was fleeting.
+
+When Alden asked him to come over and warm up their meal, he just did it instead of talking to himself at length about the precise temperatures that would make everything closer to perfection. As he watched Stuart perfunctorily aim a heating spell at different components of their breakfast, Alden was ill at ease.
+
+Giving excessive attention to the minutiae of certain things they did together was part of how Stuart enjoyed himself. Alden had recognized that, but he hadn’t realized he’d begun to develop a sense of which activities they were going to be fussy about until just now. This morning’s cinnamon roll was the right temperature, and it tasted like pastry glory. But the first bite of it was weak compared to last night’s, when Stuart had been telling him about his favorite bark spices from different planets and asking if they should call Natalie to get her opinion on whether the frosting ought to be left fluffy or allowed to melt a little.
+
+Maybe we’ve just exhausted all the minutiae about this.
+
+He didn’t believe it. This moment wasn’t going right. Stuart had been relaxed last night, and now they were having a quiet breakfast without anyone around to interrupt them. If Stuart didn’t have anything left to say about the food, he should be asking Alden about the company that made the container it had been packed in, or he should pull out a set of century-old enchanted chopsticks he’d gone to fetch because he had ideas about how they might be the correct utensils for placing things on top of corn chips.
+
+“I meant to bring tea,” Stuart said suddenly, looking at the glasses of water Alden had put on the table for them. “I think we have one kind in the kitchen that might taste like coffee.”
+
+Alden perked up. Coffee had been mentioned last night.
+
+“I forgot it,” Stuart said, drooping even more.
+
+Alden jumped up. The cabinet against the wall to his right was the one full of convenient provisions for guests staying in this cottage.  “There were some teas in here, weren’t there?”
+
+He opened the two wooden doors at the top. The throwaway magic jewelry jingled on its pegs. The dried tea ingredients were in bottles on a shelf inside.
+
+“Not the right kind.”
+
+“But I was curious about them! Do you like any of these types?” He brought all the bottles over and set them in front of Stuart. “Tell me about them.”
+
+I have supplied you with herbs you would normally enjoy explaining to me. Be happy again.
+
+It worked about as well as trying to distract a person from their funk with a novelty could be expected to. Stuart seemed more like himself when he was talking about what the teas were and sniffing them all with Alden. Alden even threw Zeridee-und’h upon the altar of entertainment for him by describing how confused he still was that she’d made so many cups of tea for him to choose from while the island was flooding.
+
+Stuart nodded at that and agreed that it was funny of her. But then first meal was over, and when he said he had to teleport to school, he was wearing an expression that only made sense if he expected to be fed to those creepy plants that ate the klerms upon arrival.
+
+What happened while I slept? Did someone from LeafSong send him bad news or something?
+
+“You look like you expect to be fed to the plants that eat the klerms,” Alden said, still sitting on the floor by the table while he watched Stuart collect his school supplies and check his pockets.
+
+No response.
+
+“A klerm was the first living thing I held with my skill. Did I ever tell you that?”
+
+That worked. A pouch disappeared into one of Stuart’s pockets, and he looked over.
+
+“It was?”
+
+“I was summoned so fast I hadn’t had time to try it on Earth. So Bti-qwol handed me one of those plants with a klerm stuck inside. She was a sixth year, and managing the Avowed during your exams was a special project for her. I walked around with it for a while, and then...” Skip that part. “Do they really make a lot of noise? The one I carried was quiet.”
+
+“They’re loud,” said Stuart. “Mostly in summer. At night. Right now the campus is surrounded by them.”
+
+“The klerms know of my amazing power. So it must be me they’re talking about every night.”
+
+Stuart raised both eyebrows at him. “What were they talking about during all the summers before they met you?”
+
+“Boring people. I’ve raised the importance of their conversations toward the sky.”
+
+Stuart’s chortle was a relief. He finished getting ready to go, and then walked over to the table, where Alden had started setting up his tablet for his own schoolwork. After a brief moment of what looked like doubt, Stuart took a thin study journal with a pale purple cover from his bag.
+
+“I don’t want to distract you from your studies, but if you have extra time…” He held it toward Alden, who was already reaching to receive it.
+
+“Is this the one filled with your thoughts on friendship and friendship oaths? So fast! You only promised it to me a few days ago.”
+
+“It’s just a few pages. I thought you should read them to make sure I’m explaining things well across cultures before I write more.”
+
+Alden traced a finger down the squiggly silver line and the mysterious spiky blob symbol. It was exactly the same cover as the others Stuart had made.
+
+“Thank you. I look forward to reading it, and I didn’t even have to sneak it out of the top library.”
+
+He hadn’t figured out if he was more curious or anxious about the contents before Stuart was sliding open the cottage door. For a while, he stood there, facing the forest outside. Then, he turned back.
+
+“What happened to the klerm?”
+
+He caught that? Did I make a face when I skipped over it?
+
+“Hmmm…well…”
+
+Stuart didn’t look like he was in a hurry to hear an answer or depart. He just waited, all in black except for a couple of rings on one hand and a strand of gleaming red-orange ear jewelry he was wearing because it was a gift from Emban. He thought his cousin might like to see him enjoying it if she called.
+
+“Bti-qwol said to kill it,” Alden admitted. “Because they’re pests that make a disagreeable racket. I wanted to let it go, but I was too nervous to argue with her. I handed the plant to her, and she stabbed it. You know how I love meatpetal, and meatpetal is a carnivorous plant, too…so it’s probably crazy that I still feel sorry about that one particular klerm. But I do.”
+
+“Why did you leave that out?” He was giving Alden one of his signature stares. “Because you thought I would think badly of you?”
+
+“Of course not. I’ve told you worse things. I was trying to make you feel better. You seem stressed this morning. I didn’t want to say ‘and then the klerm died’ while I was trying to help your stress. Only now I’ve done that anyway. Is there any chance that dead klerms are a positive thought for you? They are part of the outdoor decorations at LeafSong, so...”
+
+“I do walk past many plants consuming them this time of year. I don’t find that at all <<cheering>>, but I also don’t consider it much.”
+
+“That’s best. Don’t add this one to your contemplations.”
+
+Stuart’s head was tilted.
+
+“It was just a klerm,” said Alden. “I hope you have a good day at school.”
+
+******
+
+Olorn-art’h’s earring waited on the corner of the table. It was going to be the ideal tool to keep Alden’s mind on task this morning even though he was worried about Stuart. There were some steps he needed to take to set himself up for success with it, though.
+
+When he was learning spells, simply opening Whan-tel’s Art and starting to read was great. Becoming fascinated with every detail and spending a whole study session on a single page was good for him. He was sure it was helping him glean as much foundational theory as possible from the book, and that was something he wasn’t going to outgrow the need for anytime soon.
+
+However, when it came to preparing for his finals next week, accessing the textbooks while he was wearing the earring was a terrible idea. He needed to cram in large quantities of information here, not go deep and get really passionate about what was written on each page.
+
+That’s a shame, but it can’t be helped now.
+
+The idea was for him to pass the remedial science class and Intro to Other Worlds even though the timing of his acceptance meant he’d missed the first half of the quarter. Artonan Conversation was already in the bag, and Engaging with the Unexpected’s final was going to be a series of essay questions he wouldn’t have trouble with. MPE would be a short test on gym rules and basic laws for power use that nobody should fail when they took it on Monday at the start of class.
+
+So it was just the two exams to worry about. He’d gone to the science course’s resource page to get the finals from previous terms, and he’d reformatted those into a study guide that didn’t have anything exciting enough on it to trip him up while he had the earring on. And he was taking Vandy’s study guide for Intro to Other Worlds and cutting it down to half the size.
+
+“Have I told you I like my hands?” he asked the empty room. He dashed his stylus across his tablet, marking a final paragraph Vandy had included for deletion. “I notice it at the most random times. Look at these lines I’m drawing. They’re coming out so straight without me even trying.”
+
+When he finished rectangling around the paragraph, he had a moment before it disappeared to appreciate that it looked like he’d stenciled it instead of free-handing it.
+
+[I’m glad you’re appreciating yourself,] she replied.
+
+“I can do this now, too.” He lifted the stylus with his thumb, index and middle fingers and started spinning it, increasing the speed until it was a silver blur. “The guy who made the pen spinning tutorial I watched last weekend was amazing. And he had way more tricks.”
+
+Alden switched to a two-finger twirl, then walked the stylus back and forth between his knuckles.
+
+“But he was talking about how much practice it took, and how tough some of it was with unbalanced pens.”
+
+He moved his wrist up and down, and slowed the spin so he could imagine where the ends of something longer than the stylus would be.
+
+“I didn’t have to try for long before the ones I was interested in started to click.”
+
+He wondered if the pen guy resented superhumans taking up his hobby. Some people did. Alden understood it. Keeping your eyes on your own progress was a healthier way to approach things, but it was harder.
+
+“It’s still not as flawless as I pictured it being,” he continued. “It’s hard to go as fast as I want without having split seconds when the stylus isn’t actually touching my hand. That’s fine for a person whose goal is to spin pens. It’s not fine for me.”
+
+Alden got a lot of incidental hand dexterity training because of his auriad, but he hadn’t gone at it hard purely for the sake of his skill yet. Learning to preserve things without physically holding them was one goal, but getting better at the way the skill already worked was a valuable thing to pursue, too.
+
+He spun the stylus as fast as he could and felt it slip an instant before it shot across the cottage. It flew into the sheer curtain that could be used to separate the bedroom from the table area. The curtain slowed its fall, and the implement hit the floor right beside the bed.
+
+“I need to master the hands,” he said, getting up.
+
+He collected the stylus from where it had landed, then glanced back toward the table. The study journal was on the edge of it. He’d read just enough of the first page to know he’d get little else done today if he went any farther. Stuart might not have written much yet, but he’d put so much brain power into each line that Alden was going to need to meet it with effort.
+
+It opened with the words, “This is a study to be seen by only two people, and so I greet you, Alden. I look forward to sharing my thoughts here, though they may be flawed, and hearing your own. To begin, I wonder if you have ever considered how the people we spend our days with might be like the banks of a river? The water is guided by the land, and the land is carved by the water. In the same way, the ones who surround us guide our direction, and we change the shape of them, too.”
+
+Alden was looking forward to the rest of it.
+
+“I wish I could cheer him up,” he said, “but I don’t even know what happened to upset him…you won’t tell me, will you?”
+
+[No.]
+
+That’s fair.
+
+“I shouldn’t have asked. If he wanted me to know, he would have told me himself.” He pulled his eyes away from the journal. “I think what Rel-art’h said last night worried me too much.”
+
+That even though Stuart wanted to be confident in his ability to handle being a knight, he wasn’t…Alden wanted to argue against it. But now that he’d heard it, there was a tiny doubt in his own mind that he couldn’t shake.
+
+“Having one hundred percent confidence is overrated, right? I felt more sure of myself before I became an Avowed than I have at any point since then.”
+
+[Except for right in the middle of spell casting maybe,] he added by text.
+
+Confidence in parts of yourself that had never been challenged probably wasn’t a bad thing…better than assuming you were stupid and incapable. But it wasn’t solid. Alden followed that thought like he was on the inward path.
+
+“There’s untested confidence, and then there’s the kind you have because you’ve actually done something and learned what you’re capable of. The first type is really just a wish for yourself that feels like something true because you don’t know any better.”
+
+Of course I wouldn’t freeze up if someone else was in danger. Of course I’ll be the bravest, most level-headed, least whiny person around if there’s ever an emergency. I would never waste time crying for myself in a vault when there was survival business to attend to and a recently-orphaned child to take care of. A guy who would do something like that sounds like more of a selfish wimp than me.
+
+“After the wishful thinking took a beating, what was left must’ve been my real confidence. And how much of that was there? Not a lot. People sometimes describe high confidence as ‘towering’ in English. If I had a tower before, then now I have just a few bricks. A knee-high brick wall? So, I’ve got a lot of building to do. But at least I can make sure every brick is solid instead of an illusion… ”
+
+He frowned. “There might be advice buried in here for me instead of Stuart. I don’t know what he needs to hear, or if Rel-art’h is even right about how he feels. But I know that it isn’t okay for them all to treat him like he failed at growing up just because he didn’t turn out like they were expecting.”
+
+He fell backward onto the foot of the bed and switched to texting again. [I mean seriously…if they think he can’t make it, after everything he’s been through, knowing how hard he tries…if they think he can’t make it with years of preparation and with all of them beside him…then what would they think of my long-term chances?]
+
+“I think I want someone to tell me a few bricks are enough to build any future with. As long as they’re real. Maybe he needs to hear that, too.”
+
+She didn’t reply, but he hadn’t exactly wanted one. He watched sunlight creep across the triangular ceiling tiles for longer than he should have before getting back up and returning to the table.
+
+He took a seat on one of the soft cushions and pressed the tip of the ceramic spiral to his earlobe until he felt it pierce through. Then, he closed his eyes and listened while the study guides were read aloud to him. Having the information delivered at a set speed was safer than reading and getting hung up on details.
+
+Falling into a knowledge-absorbing trance was still so easy. He listened for about two and a half hours before taking the earring off. He examined it. It was developing a stain from the drop of blood it absorbed every time he put it on.
+
+“I’m done studying for finals. Already.”
+
+He was going to be so sad when the earring wore out.
+
+“Hey. Do you think there’s enough fruit on Earth to persuade Olorn-art’h to give me another one of these?”
+
+******
+
+When Stuart came back that afternoon, Alden was sitting in one of the chairs outside. It was comfortable, sunny weather, and he’d already dressed respectfully for his meeting with Healer Yenu. He had his tablet in one hand, and a foot-long twig he’d taken from the forest floor was in the other. He’d smoothed it and wrapped the middle with cord. He’d been twirling it for so long his fingers were sore.
+
+“What are you doing?” Stuart asked. He looked genuinely curious.
+
+That’s more like his usual self!
+
+“I’m learning to take advantage of my dexterity and finger speed,” said Alden. “I found a feature on the tablet for measuring. It can draw an image for me on the screen to show where the ends of the stick would be if it was different lengths. I’m trying to make it hit specific points. Like this.”
+
+He twitched his fingers to make the stick point at Stuart.
+
+“I was trying to move it really fast and have it end up pointing directly at your chest, but this shows me it would be going past your shoulder if it could extend that far. My sense for things like this could be very good, I think. But it’s currently not. I want to develop better control.”
+
+Stuart thought for a minute. “If you could position your tripping string more quickly and accurately, you could have chosen to kill the demon in your nightmare instead of barely getting your weapon in front of it in time and injuring it.”
+
+“I did think of that. And when I’m not spinning this stick, I’ve been thinking about this.” Alden set the tablet down and picked up the study journal from the arm of the chair. “I read everything you wrote. It’s great, Stuart.”
+
+A small smile. “You liked it? Is it easy to understand what I mean? On page four, the story about the two leaders of the warring countries who swore to tell each other of nine dreams and nine griefs wasn’t going to lead to a suggestion that we have an agreement like that.” He came over to stand right in front of Alden. “I’d just started that part. I was going to use it as an example of how relationship oaths can develop over the course of years.”
+
+“I did wonder where you were going with that since we aren’t commanding our armies to attack each other’s villages,” said Alden. “But I liked all of it. I knew I would. I liked your other study journals, too, remember? And I couldn’t even understand what those were about. This one’s going to be about how important the companions you go through life with are, and how you hope I might be one of yours. And you write so…honestly and bravely. And that doesn’t surprise me at all.”
+
+Stuart held his hand out for the journal, and Alden passed it to him.
+
+“I’m glad you like it! Would you like to know how it’s made?” Stuart asked, looking from his face to the cover and back. “There’s a spell for <<impressing>> signatures that we learn to modify when we start making our own journals. I used that to stamp the mark onto the front, and then I… ”
+
+Alden listened to Stuart talk and show off all the study journal details, watching him grow more animated, and then when Stuart had finished, he said the next thing he knew he needed to say.
+
+“There are some choices I have to make before I know what friendship oaths I could swear to you. Is that all right?”
+
+Stuart had taken a seat in the chair beside him. “What kinds of choices? And of course we don’t have to rush. We shouldn’t. I’m enjoying learning about you.”
+
+“I’m not even brave enough or honest enough to tell you what the choices are,” Alden said. “I’m sorry…I’m enjoying learning about you, too.”
+
+Stuart laughed. Quite merrily.
+
+Alden frowned. That’s not the right response. My stomach is in knots from admitting this much.
+
+Stuart met his bafflement without an ounce of concern or distrust on his face. “Then it must not be something you need to share.”
+
+Alden blinked. “I’m sure there are some things you might like to know that I haven’t told you yet.”
+
+“I’d like to know many things about many people,” Stuart replied. “If it’s something I need to know, I believe you will tell me.”
+
+“Don’t believe a thing like that just because! I want to be the best friend you’ve ever had, but I just admitted aloud that I’m not as brave and honest as you. I have secrets.”
+
+Stuart’s smile faded. He was serious now.
+
+Yes, that’s right, Alden thought nervously. I’m trying to tell you I’m hiding things that aren’t minor. And whatever you’re imagining…it isn’t big enough.
+
+“I want to be the best friend you’ve ever had, too,” Stuart said solemnly. He started patting the study journal in a satisfied way, like he was ever so pleased with it. “You’ve either positioned my character too high or your own too low if you don’t think your bravery and honesty are enough for me.”
+
+“No, I—”
+
+“I’ve brought you something.”
+
+While Alden was trying to figure out how his revelation that he was full of secrets had gone awry, Stuart took a wooden box from his school bag and pulled the top back. He thrust his hand inside quickly and then held his fist out. “Will you take this with your skill?”
+
+Alden nodded. He felt a small, cool weight on his palm, and then Stuart’s hand drew back to reveal a frog-like creature with a shell protecting its back.
+
+Alden stared at it.
+
+“You…” he said quietly. “You brought me a klerm.”
+
+“I rescued every one I saw from the carnivorous plants today. Fifty-seven. This was the last.”
+
+Just an alien frog.
+
+Just a tiny life held safe by his authority.
+
+“We don’t know everything about your skill, but we know it protects,” said Stuart. “Haven’t you told me that’s your favorite thing about it? Kivb-ee lived because you held her. Zeridee-und’h lived because you held her. You held me once, though I was at my worst, and protected me from pain and further harm. The klerm you hold is exhausted from its attempts to escape a prolonged death. And yet…it’s now as safe as it has ever been. This is <<profound>>, isn’t it?”
+
+“Yes.” Alden’s chest was tightening. The emotions weren’t bad or unfamiliar, but they were a lot.
+
+“I don’t think you owe what you have protected anything once you release it from your skill, but if you ever feel that you do, who could argue that it isn’t a reflection of yourself? If something like the klerm happens again, you already know you will say no. And if that isn’t enough, say it’s <<antithetical>> to your use of your skill. Or call me, and I’ll tell them so myself.”
+
+“I can’t call the Primary’s son for the sake of klerms and laboratory animals.”
+
+“You may call the Primary’s son for the sake of the most insignificant bacterium in the universe, if doing so is important to you. And… ”
+
+Stuart hesitated for so long, after such an impassioned speech, that Alden finally looked up from his klerm.
+
+“What is it?”
+
+“The Primary’s son is sorry that he can’t help with some of the much more significant things you will care about. Kon repaired that wand so efficiently, using what sounded like a very old type of chant. And he’s young. And as strong as a human his age could be if I understand your ranks right. And…Olorn Mom gave him a gift she makes for our family’s knights, to provide them with a home comfort when they’re traveling. They take their favorite drinks and make them last a long time with those cups. She recently finished the last few for our younger knights, and she gave him one of theirs.”
+
+Stuart swallowed and fidgeted. “While I was agonizing over various troubles in class today, it occurred to me that it all fits together best if that skill was specially made for working on the Sdyelis Branch. If you asked me to stop them from summoning him for that, I couldn’t.”
+
+Alden’s thoughts blanked. Konstantin plus the massive unfinished spaceship that would be bound for the new major battlefield the Primary, Esh-erdi, and Lind-otta planned to be on…it wasn’t computing.
+
+Stuart kept talking. “The oasis ship will be important, and Kon’s job would be important. The good thing about it being important is that they most likely asked Earth to arrange for that power to be given to an Avowed with the best potential and personality for the assignment. They would expect to oversee his skill development for years. Nobody wants to spend years teaching angry people or working in space with them if they don’t have to. It would make sense for him to be someone intelligent, easy to get along with, and willing to be away from home for long periods of time.”
+
+An oasis ship. Not a battleship. A rest place near the battle. They’re trying to stick Porti-loth on it, too. And thousands of other people. It’s not small.
+
+“Alden?”
+
+“That describes Kon,” Alden said. “He is…he was…the word ‘was’ hurts there…he was planning to be a famous superhero. So he’s not someone who wanted to stay home. And he’s the most social person ever, so he’d find a way to fit in with a multi-species crew faster than almost anyone else I know. And his talents…are they mostly for repair, after all? The Sdyelis Branch is being built weird, so they don’t want to patch it however they can. They want it put back together as close to how it was originally made as possible. Using something similar to an old kind of magic. Is that it?”
+
+“I don’t know, but that’s what I suspect. If I’m correct, he wouldn’t be the only person given that ability. There should be several others. Enough Avowed so that they don’t have to be onboard all the time and so that anyone who doesn’t develop well can be replaced.”
+
+Alden looked down the slope toward the stream. And across it. He remembered Stuart staring off in this same direction on his first invited visit, while he considered Alden’s question about whether he would ever summon Alden without permission.
+
+Currently, that same person was squirming in his seat like he expected Alden to yell at him.
+
+“Are you worried I’m mad at you?”
+
+“Yes. If you are, I will understand.”
+
+“If I was mad at you for this, you shouldn’t understand. It would be unreasonable of me. It’s not your fault chaos is a problem. Or that some things about being an Avowed are very far from perfection. For example, it seems wrong that Kon doesn’t know this. Maybe it’s the Contract’s decision based off of what’s best for him, but unless someone explains why that’s necessary to me, I’m going to tell him as soon as I get confirmation.”
+
+It was a couple of minutes before Stuart spoke again. “One of my brothers came home last night. I was excited when I met him in the kitchen this morning. I wanted to tell him about you, but I’d hardly started before he said a wizard and an Avowed couldn’t be friends. That was why I forgot the tea.”
+
+“What’s the brother’s name?”
+
+“Jozz,” Stuart said reluctantly.
+
+Alden snorted. “The cool knight in the painting? That’s so disappointing. You should have told me he behaved like a gokoratch.”
+
+“He doesn’t usually,” Stuart said. “I never thought so before today.”
+
+He was still fidgeting.
+
+“I’m going to ask Healer Yenu if she’ll let me think about confidence tonight on the inward path,” said Alden. “I had this thought about how the confidence I’m building now is realer than what I had before, and how it’s enough even if I don’t usually feel like it. If I sort my ideas well on the path, can I tell you about them?”
+
+“Of course.”
+
+Alden looked down at the klerm again, perfectly preserved in his hand.
+
+“Do you want me to put it back?” Stuart was already reaching out with the wooden box as he asked.
+
+“Not yet, my soon-friend. This is one of the nicest things anyone has ever given me. And what you said made me feel the beauty of my skill, which is myself, and I…really appreciate that. So I’m going to hold it a little bit longer.”
+
+They sat there after that, until they both knew the silence between them was more contentment than worry, and then as evening fell, they went together to see Yenu-pezth.
+
+“You know,” said Stuart as they walked down the road to the House of Healing, past the Sdyelis Branch, “meatpetal is harvested from the wild. So it’s not hypocritical for you to enjoy it. When you eat it, you’re removing a carnivorous plant from the universe, not contributing to their cultivation, if that’s what you thought.”
+
+“Is that true?”
+
+“Do you think I would lie about a plant?”
+
+“What a magnificent vegetable.”
+
+“I had to stop Evul from sending you a live one.”
+
+“Why?”
+
+“She thought it would be funny.”
+
+“I mean why did you stop her?”
+
+“Have you ever seen a whole meatpetal?” Stuart asked. “The one she wanted to send you might have eaten you instead.”
+
+******

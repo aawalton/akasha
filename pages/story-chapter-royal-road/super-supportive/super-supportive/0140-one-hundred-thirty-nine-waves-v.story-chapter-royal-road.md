@@ -1,0 +1,575 @@
+---
+id: f0af8d6c-5dd9-594a-a2aa-03dbb14ce166
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED THIRTY-NINE: Waves V"
+slug: 0140-one-hundred-thirty-nine-waves-v
+partOf: super-supportive
+position: 140
+ownLength: 6260
+unit: words
+publishedAt: 2024-05-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1626182/one-hundred-thirty-nine-waves-v"
+royalRoadId: "1626182"
+---
+
+******
+
+139
+
+******
+
+There was a man in a tiny swimsuit here just now.
+
+A man was here. Another Avowed. Here. Just now.
+
+I’m not alone.
+
+Alden’s thoughts had gone blank for a moment, but they came right back online at that.
+
+“Sir!” he shouted, sprinting down the hall. “Dude! Liam! Wait!”
+
+He flung open the door and ran out onto the sidewalk.
+
+Where’d he go!?
+
+Alden spun around in a circle once. Twice. He couldn’t see the guy anywhere.
+
+I didn’t imagine him. I’m not that crazy yet.
+
+“Liam!” he yelled as loud as he could. “Liam! Where are you?!”
+
+Oh fuck. Fuck he’s gone. He must be running. Fast. Did he turn the corner up ahead? If I just…
+
+He kept shouting, racing toward the intersection, and just as he reached the crosswalk, he heard someone call back.
+
+“Hey! You good over there?”
+
+Relieved to the depths of his soul, Alden looked around to see the man in the swimsuit standing in the other crosswalk, on the other side of the intersection. The yellow pedestrian lights were flashing for both of them.
+
+“What’s that on your back?” Liam called.
+
+An image of the woman on the motorcycle shaking her head and abandoning him flashed through Alden.
+
+“She’s alive!” he shouted. “I’m trying to get her to someone who can help! She only looks like this because of my skill. I’m definitely not a murderer!”
+
+“Somebody’s hurt?” The man bounded toward him. He had a friendly face. His eyes widened as he got close enough to get a better look at Alden and Zeridee. “Ho wow! What happened to you!? That’s an Artonan. That’s a very bloody Artonan. And she’s so stiff!”
+
+“That’s my skill. It’s preser—timestopping her and shielding her. What…”
+
+What are you doing here in swimwear? Why were you headed toward the coast? Have you seen anyone else?
+
+Alden settled on the question that mattered the most: “Can you help us somehow?”
+
+Liam was hovering around Alden’s back now, gawking at Zeridee, so Alden had to strain his neck to see him properly.
+
+“What?” Liam asked.
+
+“Can you help us?” Alden repeated. “I’m trying to get us out of here as fast as possible. I don’t know my way around the area.”
+
+“Of course!” Liam exclaimed. “Ho wow! You’ve obviously had a hell of night already. What in Apex happened to you two? Did you come from that way? Did something go wrong with the evac up there?”
+
+He pointed in the direction Alden had mentally marked as unsafe—the place where all the lights were out.
+
+“No. We came from the Artonan ambassador’s house. It’s a complicated story.”
+
+“Well, don’t worry. Unless you think your powers are at risk of giving out? In that case, we might need to worry. Yeah…” He ran a hand through his sleek, dark hair and looked up and down the street. “We’re nowhere near an emergency department, and I don’t really know how I would help with something like this.”
+
+“I can hold her and keep her this way for a long time,” said Alden. “Running far would be hard, but if we walk—”
+
+“You’re set then. Yeah. I know a place that’s safe.”
+
+“You do?”
+
+The man was nodding. “Yes. If you can really keep the Artonan petrified… You’re a hundred percent sure she won’t die of her wounds when she’s like that? She looks kind of…not healthy.”
+
+“I can keep her like this,” Alden said firmly. “She won’t die.”
+
+“Then you’re good, buddy! What’s your class? Healer? Never mind. I’ve got you covered. Yeah, yeah…oh, and we can probably use one of Tina’s spells to send a message ahead. For a good cause…definitely!”
+
+Alden’s faith in humanity had taken some critical hits tonight. This guy was restoring it fast.
+
+“Thank you so much. Who’s Tina? And where—?”
+
+“Come on, come on! Let’s get you to a place where you can rest.”
+
+******
+
+To Alden’s surprise, Liam Long led him right back into Apogee Artist Spaces, talking ninety miles an hour the whole way. The “safe place” he knew about was the ground floor studio he shared with his brother and sister. The brother and sister were B-rank students at Celena North University; Liam was a B-rank, too. He had just graduated. The guys were Brutes. The sister was an Adjuster.
+
+According to Liam, Apogee’s ground floor boom rooms were the perfect “base of operations” during a natural disaster. Basically, the things were reinforced concrete boxes that allowed artists to get more violently creative with their powers than was allowed in the upstairs studios. Hence, no windows and thick doors.
+
+“The old lady in the studio across the hall films herself smashing through all sorts of things. Bet you’ve seen some of her work in movies! Cannonball Betty? We never hear a sound.”
+
+That does sound good, thought Alden, but…
+
+“Did anyone say the rooms were safe to hide in during a magical flood?” He was watching Liam input his code into the panel by the door of Boom Room 6. “Or a regular flood even? They’re at ground level. Are they waterproof? Have they been rated for external impacts by, like, an engineer?”
+
+His security code is just 123123123?
+
+Alden had been memorizing it in case he needed to leave and come back for some reason.
+
+Liam Long seemed a little too nonchalant about the ongoing disaster.
+
+“Of course they couldn’t officially let people shelter here. There are only a few rooms. But Tina, Royce, and I all agreed it was safe enough. You can stay here in our boom room. I’ll get back to them fast and tell them about you. Tina’s got a spell that will signal friends on campus if any of us get into trouble. When they get it, they’ll know to send someone this way. You just sit tight!”
+
+He smiled comfortingly and pushed open the door, gesturing for Alden to step inside.
+
+Alden did take a step inside. Then the lights came on automatically, and he reversed course so quickly he almost fell down.
+
+“Thank you so much, but Zeridee and I are just going to head toward downtown on our own! Nice meeting you. Sorry to bother you! I think I’ll be fast enough to get where I’m going. I hope you and your brother and sister and everyone you know have a wonderful time together in your bathing suits. See—”
+
+“Wait!” shouted Liam.
+
+No way.
+
+Alden was down the hall grabbing the puzzle-piece doorknob in a heartbeat. The man’s bare feet were slapping the floor behind him.
+
+“It’s not a torture chamber!” Liam shouted.
+
+“I’m sure it’s not!” Alden shouted back as he shot outside. “No judgment! Just going now. For multiple personal reasons!”
+
+He ran as fast as he could.
+
+Liam Long caught up to him, passed him, and skidded to a halt in front of him.
+
+He’s faster than me. Probably a speedster. I’m screwed.
+
+“Kid, it’s not a torture chamber! I mean it sort of is, but—”
+
+Maybe if I kick him hard enough in the nuts.
+
+“Tina, Royce, and I just use it to scare ourselves.”
+
+“I’m sure you do. That sounds like a thing anyone might do! Like I said. No judgment. I just realized I felt like running right now.”
+
+Kick him and then kick him again.
+
+“I know it looks weird!” Liam waved his hands. “But we just get together and scare the shit out of each other. I swear.”
+
+“Why?” Alden demanded.
+
+“Because…” He dropped his arms and gave Alden an embarrassed smile. “We’re doing it to help each other level.”
+
+Alden blinked. “…what?”
+
+******
+
+This is so ridiculous and disappointing.
+
+It was a few minutes later, and Alden was sitting backwards on a folding chair in the Long siblings’ private dungeon, staring at a tarantula. The spider lifted its hairy front legs to scrabble at the glass walls of its tank. Other habitats for roaches, a small snake, and a particularly evil-looking scorpion lined the shelves above and below it.
+
+“Not you. You’re very scary,” Alden muttered to the tarantula.
+
+So was everything else in this place, even though Liam Long had hinted that he and his siblings had “gone beyond” their original fears. Lately, they had been using sketchy substances on each other to make everything in the room even worse and “really get that adrenaline pumping.”
+
+They had a lifelike model griveck. The serrated tongue extending from its maw could be controlled with a remote. There was a big drum full of liquid—Alden hoped it was water—with a bunch of massive chains beside it. And, naturally, they’d made their very own iron maiden and included a heater, so that they could risk heat stroke in addition to a skewering.
+
+And those were just a few of the pieces Alden knew how to identify.
+
+What the hell do they do to each other with those suction cup things?
+
+He understood what they were going for…though it had never in his life occurred to him that anyone would get together on the weekends with their brother and sister and engage in extreme stress induction for the sake of faster leveling.
+
+“I bet you’re thinking we’re crazy!”
+
+Liam was chuckling to himself as he pulled open the drawers of one of the only normal items in this domain of terror—a steel office desk that looked like it had been around since the Cold War.
+
+“This isn’t that different from how the universities train people in the hero programs,” he said. “Those are ninety percent about strengthening powers. We’ve just put together our own version of it.”
+
+Sort of. Kind of. Seriously, though?
+
+Alden couldn’t even argue with the guy about the validity of the project. It sounded like the Longs were setting up stressful situations for each other that demanded use of their Avowed abilities to escape from.
+
+Locking your sister in an iron maiden and refusing to let her out until she’d learned how to use her skill on an object twelve centimeters farther away than she’d been able to manage last weekend was not normal.
+
+But Alden had been burned, darted, impaled, and thrown off a fifty-foot-high wall this week. So he really didn’t have as much righteous ground to stand on as he would have liked.
+
+Competitive environments, going up against other Avowed, being forced to try new things with your magic or else…
+
+“Listen,” said Alden, “I’m in the Talent Development program at CNH. I was in the gym a few hours ago. I know what kind of environments we use to promote growth and lead to new discoveries about our powers. But it’s not dangerous when we do it. We’re extremely well protected, even from pain most of the time. What you and your brother and sister are planning tonight is different, and it makes me so—”
+
+“You’re a hero student! At B-rank? WOW! Way to go!!”
+
+—damn frustrated, Alden finished in his own head.
+
+Just as well that he hadn’t said it out loud. Liam didn’t owe him anything. Not even common sense.
+
+But Alden was still baffled, annoyed, and disheartened that the person he’d found who was somewhat willing to help him was in the middle of treating the emergency like a personal training ground.
+
+“You must be awesome,” Liam continued. “We all tried to get in. Did the whole application cycle in high school, then in uni. So brutal at B. I swear they autorejected me every time just because my GPA wasn’t perfect. Tina made it to the combat assessment in high school once. Royce is still thinking of trying out one more time for the uni program. Can’t age out of that one at least. If he can bash through three levels in the next twelve months, that’ll put a lot of the admissions committee’s doubts to rest.”
+
+He rummaged through the drawer and slammed it shut. Reaching for the next, he sighed. “Tina, what’s the point of having a filing system if you aren’t going to use it? Where’s the ‘currently active’ folder?”
+
+Tina Long—who was with the other brother, on their way to play chicken with the oceanic anomalies—had a skill that magically paired objects, along with spells that took advantage of the pairings in a few different ways. She could make temporary, short range communication devices with it.
+
+Liam had an earring his sister could use to signal him. He was going to give Alden something else she’d recently used her skill on so that he could get in touch with the siblings to share emergency news.
+
+If Liam could actually find it.
+
+I have to try one more time, Alden thought. These guys should absolutely come with me. What they’re doing is nuts.
+
+“You were listening when I told you that a magical substance is causing all of this, right? There are a bajillion particles of it in the water. From what I understand, they latch onto stuff and try to sink it or throw it around. Tons of magic, pulling water onto shore. I think sometimes the effect is pretty weak.”
+
+The blob of water around that high heel shoe on the bridge had seemed relatively self-contained and innocuous.
+
+“But sometimes it’s crazy strong. It moved The Span. It covered the bridge and yanked it. Plopstar is out there attacking the whole ocean on System orders—”
+
+“So casting spells at it might affect it, then?” Liam turned to him excitedly. “That’s good intel! I still can’t believe the night you’ve had. On The Span! Carrying an ambassador’s assistant around. I bet you level up after this!”
+
+“I’d better fucking not.”
+
+Liam looked startled.
+
+Alden shook his head. “What I mean is—this is serious. And it’s not just water. It threw a truck across the bridge so hard that it smashed through a bunch of other vehicles like bowling pins. My classmates had to help rescue drivers. The ocean will be moving in really unpredictable ways. It’s not like a wave at the beach. You won’t be able to guess how big or which way—”
+
+“Ho! This is it!” Liam waved a large accordion folder through the air and did a little victory jig in the middle of his family torture chamber. In his swim briefs.
+
+Alden held back the urge to yell.
+
+Liam dumped the folder onto the desk, and bric-a-brac tumbled out. He grabbed a pair of black cardstock rectangles and passed one of them to Alden, who held an arm over the chair back to take both it and the small, pointy wooden stick the man offered along with it.
+
+Alden examined the card. The word “testing” was visible on the corner in rainbow letters.
+
+“This is one of those scratch art things where you scrape the black layer off, and the colors are underneath?” he asked.
+
+“Yep!” said Liam, holding the other card.“Don’t scratch it right away. They’ve already been paired, but Tina has to cast a spell on a least one half to make them start mimicking each other. I’ll take this one to her, she’ll spell it, and she’ll write you a little note to let you know it’s active. Then you can message us back.”
+
+“Thank you.”
+
+Alden did mean it. Even a limited ability to communicate with a single Adjuster felt like a lifeline under the circumstances. He could tell them where he was if he ran into trouble. They could tell him where danger was.
+
+Since they’re going to be chasing it.
+
+He shifted, adjusting Zeridee’s weight again, and the chair creaked.
+
+“You look worried, Alden! Don’t be. We know what we’re doing.”
+
+“Even the System doesn’t know what it’s doing tonight,” Alden said tiredly.
+
+“Huh. Well, that might be true.” Liam shut the folder back in the drawer. “We did think we’d get a later teleport out when we rejected the first ones. It said it advised against it, so I suppose it’s fair…. But we were going to use that to plan our trials for the night. Go hard, get tired, teleport out. It hasn’t offered another time slot. Guess it was a ‘take your one shot or take care of yourself’ kind of deal.”
+
+He looked at Alden curiously.
+
+“I took mine,” Alden said. “It just didn’t work out. Obviously.”
+
+He wasn’t sure if Liam’s willingness to not ask questions and take a preserved, horribly injured alien in stride was a sign of practicality or a symptom of his slaphappy approach to the events of the night in general.
+
+“I wish you’d consider staying here in our boom room,” said Liam, smiling at him. “You could have a seat. Get some rest. The snake is friendly. We’re all coming back here after we’re done testing ourselves against the water and anything else we might find, so you won’t be alone for long.”
+
+Alden tucked his scratchart card into his messenger bag, trying to come up with one last argument that might inject some reasonable fear into this sort of person.
+
+“I appreciate the offer. A lot. I’ll come back here if I need to.” If everything absolutely goes to shit and I have no other option. “But the System is suggesting you leave.”
+
+“Don’t you think if it was really safe, it would have just said ‘stay where you are?’” Alden asked. “Even if it’s just too busy and it overlooked this place, nobody else came to shelter here. Not even the other people who rent boom rooms. Maybe they’re not as safe as you think. I really…”
+
+Maybe if I compliment him. I haven’t tried that one yet.
+
+“I think the way you guys are training yourselves is already impressive. You don’t have to push it even farther and risk your lives. You’ve got a great thing going, right?”
+
+“Thanks. You’re a good kid. But don’t worry so much,” said Liam. “We’ll have each other’s backs, and the thing is…this is real. We try to push our limits, but you always know it’s fake on some level when your little bro is the one threatening you with Chester.”
+
+He jerked a thumb toward the griveck.
+
+“We’ve never had a chance to test ourselves versus actual danger. Magical danger! And we need it. Avowed come out of real disasters changed,” said Liam.
+
+“Do they?” Alden spoke flatly.
+
+That dreamy tone in the Brute’s voice…
+
+Alden’s patience and willingness to cajole Liam Long died there. All that was left was a little gratitude for the kindness and the offer of help, limited though it was. And a shadow of despondence about the fact that sometimes friendly people were hopelessly stupid.
+
+I can’t save him and myself and Zeridee. I can’t drag him with me. Maybe with his siblings he’ll be strong enough and lucky enough to stay safe.
+
+He stood up from the chair.
+
+Liam still hadn’t noticed his mood shift. He was waxing enthusiastic about his goals. “Almost everyone who’s ever learned to double-on their stats has managed it the first time in a crisis. I know it’s a longshot, but we are the Longs! Tonight could be our night for that kind of rare breakthrough. If something like that happened for me—”
+
+“Good luck,” said Alden, slapping a stimulant injector and a small roll of bandaging onto the desk. He’d taken them from his bag while Liam was rummaging through the drawers. He thought it was all right to give them away since he had two of each. “Read the instructions before you use that. Try to stay alive.”
+
+He headed for the door so quickly that Liam didn’t react to his abrupt departure until he was turning the handle.
+
+“You too! See you around sometime. I still hang around campus a lot because of my bro and sis. Maybe we’ll…”
+
+He kept talking. Alden stopped listening.
+
+He’d just stepped outside the Longs’ boom room, and the building was vibrating around him.
+
+A low whomp, so deep that he felt it, sounded.
+
+He froze, looking down the hall. The puzzle door was only a few meters away.
+
+There was no noise down here earlier. Thick walls.
+
+“Liam,” he said, “something’s not right. The floor—”
+
+A crash from behind him made him turn. When he did, he saw the large bottle from the top of the water cooler sliding down the hall toward him. Having been knocked free of its base, the mouth of the bottle was open, but none of the water was escaping from it. Alden jumped out of the way.
+
+It hit the wall beside the puzzle door and stopped.
+
+None of the water’s pouring out. Alden watched it. Is it all pulling in that direction, just dragging the bottle along for the ride?
+
+He couldn’t think of what else it could be.
+
+“Tina? Hey! You’re not coming through clear.”
+
+Liam exited the room to stand in the hall beside Alden. He was tugging his messaging earring free of his lobe. It was a golden ball stud, and it was emitting a faint, metallic voice.
+
+“Runnnnnununun,” it said. “—iammmm, gooooo.”
+
+“This might not have been a good night for her to experiment with a mismatched pair,” Liam said apologetically. “But we didn’t know something was about to happen when she used her skill on the earrings. Normally she sounds way bett—”
+
+Alden was ignoring him in favor of staring at the stud on his palm.
+
+“What’s happening?” Alden demanded, gripping his Zeridee braid strap and addressing the earring. “Where’s the water?”
+
+“—tsss gonnne. Sinnnnngggng paaaace.”
+
+“Sing pace?”
+
+“She means Dr. Singh’s place. We were going to meet up there, but…”
+
+For the first time, Liam looked worried. “Hey…do you think…? Tina! Tina, are you saying Dr. Singh’s place is gone? What about all that shielding they had installed?”
+
+“Runnunnunnnn—”
+
+Alden didn’t wait to hear the rest of it. He needed to see for himself. Running out into the street, in the direction the water in the bottle seemed to be heading, felt wrong. And he thought Liam’s assurances about the safety of the ground floor were based on too much wishful thinking to trust. So he went with his own instinct, which was shouting the same thing it had been the last time he’d heard the sound of approaching danger.
+
+Up. We go up.
+
+His earlier wonderings about power outages and his knowledge that the elevator was a slow one sent him scrambling for the stairwell. When he reached it, he yanked open the door so hard it smashed into the wall.
+
+He heard Liam shouting something.
+
+No time to figure out if it’s at me or his sister. Get to the sixth floor. Go.
+
+He couldn’t feel the vibration anymore because he was moving his own body as hard as he could.
+
+Floor 2.
+
+The stairwell had the number painted on the wall in bright blue. It was almost the same size, typeface, and color as Alden’s old high school had used. A momentary flash of déjà vu.
+
+He left it behind him as he passed the landing and headed for the third floor.
+
+His breath was loud in his ears. His thoughts raced ahead to what he would do if the street down below looked like this or like that when he got a look at it. His feet were pounding solidly against the steps.
+
+And then the world around him changed all at once. There was an explosion of sound. Breaking glass. One of the perfectly spaced steps not being where he expected as the building shook.
+
+Alden caught himself painfully on hands and knees, halfway up a flight of stairs. He bit his tongue. He tried to jump right back up, but the stairs were still moving.
+
+He held himself there, panting.
+
+He heard…a river. As loud as if it were pouring on top of his head.
+
+He heard screaming.
+
+What? What’s happening exactly?
+
+His brain didn’t have enough information or experience. It couldn’t answer him.
+
+Still on his knees, he reached for the stair railing and clung to it.
+
+Shaking.
+
+It was shaking or he was. Everything was suddenly so unstable.
+
+He looked through the bars.
+
+There was the river, filling the stairwell and the landing below him. The water was so filthy it was almost black. A thousand pieces of unnameable debris were smashing against the walls. The door to the second floor was ripped from its hinges, floating.
+
+And there was Liam—wet, bellowing something, pulling himself out of the water and up the staircase behind Alden.
+
+He must have followed me.
+
+Alden stared. He clung.
+
+Liam kept yelling, and Alden kept not registering the actual words.
+
+Taking in whatever Liam was doing and thinking and wanting from him was just so much less important than understanding everything else.
+
+Then a hand landed on Zeridee-und’h. He felt it with his authority.
+
+“Don’t touch her!”
+
+Alden’s shout echoed up the stairwell, but it sounded like nothing compared to everything else. The back of his hand stung, and he realized he’d slapped Liam Long’s arm away. Hard.
+
+“We’ve gotta go! We’ve gotta go, man!” Liam was screaming. “The water! The water!”
+
+Alden stood.
+
+He could stand.
+
+Liam was already running upstairs.
+
+“The water’s not rising.” Alden didn’t realize he’d observed it until he said it. He looked over the railing again to make sure he’d understood correctly. “I don’t think the magic is pulling it right now.”
+
+It was like on the bridge, when the magic of the Sinker Sender had suddenly broken or exhausted itself, and everything had gone back to normal. The water below him looked like water. Turbulent water that had just crashed through the second story of a building, but…
+
+The way all of that debris was swirling in it—that was normal water behavior. It didn’t look like it was on a mission to climb the walls or go somewhere.
+
+“All right,” said Alden, gazing down at it. “I’m okay. We’re both okay. I still need to get upstairs.”
+
+He could hear Liam swearing as the man fled upwards.
+
+Alden started to climb, fast but not at a run this time. He still wasn’t sure about the steadiness of the floor beneath him.
+
+He saw Liam’s wet footprints on the next landing. One of them was tinged pink with blood.
+
+He made it up a few more steps before the power went out.
+
+Alden entered the sixth-floor gallery, and the door closed behind him, cutting off the stairwell’s emergency backup lighting.
+
+He stood still, waiting for his eyes to adjust to the darkness, listening to his one conscious companion.
+
+“No. Ho no. Oh man. Ohshit. No no no.”
+
+Liam was only a shape for now, running through the forest of statues. His speed was out of place in this setting, making him look more like a specter from a horror film than a goofy guy without much clothing on.
+
+The litany of “no’s” wasn’t for Alden. It was just a ramble, volume rising and falling, as he raced from one side of the gallery to the other to stare out windows in every direction.
+
+Alden took a few seconds to consider himself and his burden.
+
+His body was all right. Miraculously, the fall on the staircase hadn’t really hurt him. His broken toes were back to throbbing fiercely. An elbow felt bruised.
+
+Zeridee was all right, too. At least, she wasn’t any worse than she had been. He hadn’t let her go for even a second.
+
+When he could finally see well enough to weave between the statues, he did so, heading for the acrylic bench where he’d rested for such a short while.
+
+He looked down onto a world that was much blacker, wetter, and emptier than it had been minutes before. There were still lights—battery powered things, magical things, a functional power grid in the distance, one…no two…small fires burning in this neighborhood. One of them was flaring and sputtering on top of a raft of debris that floated near the intersection just beneath him.
+
+The pedestrian crossing lights still work.
+
+How eerie to see the water flashing yellow, lit from below.
+
+Alden walked slowly along the perimeter of the gallery, trying to see everything and understand all of it.
+
+He thought the water had mostly come from the dark place he’d spotted earlier. The area where the Long siblings had planned to engage in their own personal man vs. nature trial. Almost everything between where he stood and that place was dark now, and what he could make out didn’t look right.
+
+Structures were standing here and there. But it wasn’t as it had been. Too flat. Some of the rooflines that he’d thought were noteworthy earlier were nowhere to be seen. Even with the terrible visibility, he knew things were missing.
+
+Whether they were underwater or razed…
+
+Next, he stared in the direction he’d planned to travel, examining what was left of the townhouses with the gothic-style facades he’d noticed earlier. There wasn’t much. Roofs gone. Walls gone. A couple of corners still standing tall.
+
+He watched as the burning debris started to slide down the street, slow at first and then faster, half of it peeling away from the raft as it encountered the pole of a streetlight, the rest of it continuing to pick up speed as the water went strange once more, developing an organized current where none should be.
+
+And it was heading in the very direction Alden himself wished to go.
+
+What caused the wave that hit our building? How big must it have been to take out the townhouses and shake this place?
+
+His imagination gave him guesses, but he had no idea if they were right. The scale of it was hard to handle.
+
+Alden pictured a particularly large patch or particularly strong particle of the contamination latching onto something huge—a house instead of a high heel. Or something even bigger than that. It could have pulled more and more water toward the thing to cover it, blobbing up and up, trying to drag it.
+
+Hell, maybe it had dragged it. Maybe a whole submerged house could move like the truck that had caused the pile-up Marks had been caught in, blasting forward, borne inside its own juggernaut of a wave.
+
+It would destroy things as it went.
+
+And it would destroy them when it gave up, too.
+
+A giant water blob or column or whatever just collapsing when the magic runs out…
+
+How much water did it actually take to tear down houses?
+
+Alden had a sketchy memory from just before he’d left home—some morning news personality warning the good people of Chicago to steer clear of the area where Skiff was fighting that man who’d tried to make a lair under Lake Michigan.
+
+“Our hunky fan favorite beach bum may not look dangerous, but remember folks, Skiff’s not all fun and games. Just a few inches of swiftly moving water can knock you right off your feet!”
+
+It was something like that anyway
+
+He did remember the line right after that verbatim: “Or maybe we should call it Skiffly moving water!”
+
+That was so tasteless. Why do morning shows try to turn things that shouldn’t be jokes into jokes?
+
+He focused on the building that had been his next “goal” stop—the one that looked like it was about the same size as this one. It was still there. The main power seemed to be out, but there was a dull blue glow throughout it now instead. Some kind of emergency feature probably.
+
+Would I have made it in time, or would I have died in the street with Zeridee?
+
+A useless question he couldn’t help asking.
+
+“Tina? Tina? Royce! Are you guys there?”
+
+Alden turned to watch Liam. He stood nearby. Alden could see well enough now to make out the statue of a woman behind him, reaching out as if asking a child that didn’t exist to leap into her arms.
+
+Liam had managed to keep hold of his earring. He was holding it so close to his lips it looked like he was about to eat it.
+
+He even managed to keep the scratchboard and the bandages I gave him. They were in his other fist.
+
+“You guys? Answer me. Answer me!”
+
+Maybe I should say something to him.
+
+He didn’t. What was there to say really? Any comfort he could offer would be a cheap nothing from a stranger. Maybe Liam’s brother and sister were all right. Maybe they weren’t.
+
+People die so fast.
+
+Alden realized he was getting a little odd. One too many shocks per hour or something. But he didn’t feel like he was about to panic again, so he’d take this.
+
+For a couple more minutes, he watched everything. Just to be sure.
+
+Liam kept trying to call his siblings through the earring.
+
+“The water’s moving somewhere else. It looks like it might be pulling out of this area, but who knows how long that will last? I’m leaving if I can,” Alden said finally. “There are still lights toward the inner curve of the crescent. I’ll head that way, then toward people. As fast as possible. No stopping.”
+
+Liam stared at him like he’d started speaking another language. “What?”
+
+“If the water’s already this far inland, we’re going to be completely cut off sooner or later. This whole point of the crescent could be gone by morning,” said Alden. “And unless they’ve got way more people working rescue than they need, why would anyone come here to help us?”
+
+There was at least one big, highly populated family neighborhood down in F being hit hard.
+
+“Rescuers are going to be prioritizing other places. They won’t be looking for stragglers here, in these few abandoned neighborhoods, where everyone already had their chance to get out.”
+
+He turned back to watch the receding water.
+
+It’s moving so fast. The larger debris was starting to drag on pavement instead of floating.
+
+A couple of minutes later, when Alden headed for the stairs, Liam stopped him with a hand on his shoulder.
+
+“I have to go find my brother and sister,” he said in an urgent voice. “I can’t leave them.”
+
+“I hope you do find them,” said Alden. “I hope they’re safe.”
+
+“I don’t…haha…I don’t even know where my shoes are.” Liam suddenly looked down at Alden’s sandals.
+
+Alden looked down at Liam’s bare feet. “Did you leave a pair downstairs in your torture chamber?”
+
+Liam nodded.
+
+“They’re probably still there, then. Don’t worry. The building hasn’t collapsed, so the ground floor is just wet, right? Not gone. They’ll be near where you left them.”
+
+Alden didn’t know if it was true or not.
+
+He said it like he believed it was true.
+
+“Ha! Right. Right.” Liam was still staring at the sandals. “Don’t go just yet. Do you have…let me think…do you have any more medicine? And bandages? You know Tina and Royce might need stuff like that. They’re out there in it. They might need things. I might need things to help them.”
+
+Alden’s hesitation was swift, and in the dark, he hoped it couldn’t even be seen on his face.
+
+There were a few things in the medical kit he could probably afford to share. But if he said yes, he’d have to open his bag and pull them out right here. And he wasn’t comfortable letting Liam Long know he had a full medical kit.
+
+He wasn’t comfortable enough to stick around, sorting through the supplies and dividing them up.
+
+Not now. Not with the man eyeing the hiking sandals as if he was just now realizing what a fool he was for planning to go fight tsunamis naked.
+
+Every time you stick your own neck out to save a stranger’s, pretend I’m there with you. Pretend we’re getting into it together and we’re facing the exact same amount of struggle and the exact same consequences for failure.
+
+“Man, I’m sorry,” said Alden. “I wish I had more. As far as useful stuff goes, I’ve only got one more pain killer. And a disgusting protein bar. You can have the meds, though.”
+
+He reached into his shorts and pulled out one of the injectors he’d pocketed earlier. It was the only thing he could give up without revealing everything else.
+
+“And thanks for the communication device. When you find your sister, get her to message me, all right? I’ll report back on where I am and what the situation is. Think of me as your forward scout. I’m not moving fast, so you guys might even meet up with me before we leave the evac zone.”
+
+He forced the injector into Liam’s cold hand.
+
+“Yeah. Yeah, that’s a good idea,” Liam muttered, turning his eyes to the injector.
+
+“And if we don’t meet up, I’ll see y’all around campus next week,” said Alden, making his first ever deliberate attempt to sound like he was a manly badass who should not have his footwear stolen. “We’ve got this, Liam. Glad I met you tonight.”
+
+He refused to wonder why his attempt to convey manly badassery was trending both Southern and severe, like some terrible Big Snake/Klein hybrid.
+
+He left right away, keeping his back straight and his walk steady.
+
+As he crossed the gallery, refusing to turn back to look at Liam, there was a place at the top of his spine, between his shoulder blades, that he was all too aware of.
+
+No more shield poncho, he thought. If someone tries to stab me again tonight, the blade will go right through.
+
+************

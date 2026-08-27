@@ -1,0 +1,143 @@
+---
+id: b6358300-69a7-5880-b142-b9b777a4789e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: The Limbo Trials"
+slug: 0032-chapter-31-the-limbo-trials
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 32
+ownLength: 2240
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2702144/chapter-31-the-limbo-trials"
+royalRoadId: "2702144"
+---
+
+The journey back to the Jade Palace was, to my profound relief, uneventful. The return trip on Longwei's back was quiet, almost peaceful. Having survived the public spectacle of their engagement tour, the simple awkwardness of sharing a floating platform for several hours seemed trivial. It was true: greater trauma really does make lesser traumas feel minuscule. Even sharing a suite of rooms for a night had lost its edge of panic. They had faced the public feeding of the pastry; a shared sitting room was nothing.
+
+Upon their return, a sense of routine began to settle over the Jade Palace. Dave continued his effortless cultivation lessons, the princess continued her frustrating but determined study of magecraft, and Liz and I continued our meticulous management of the Dave Dial. The world, for a brief, glorious moment, seemed stable.
+
+Then, the announcement came.
+
+It wasn't a public proclamation, but a summons. The elders of the Jade Palace called for an assembly of all disciples, instructors, and honored guests in the Grand Pavilion of Celestial Harmony. The air was thick with anticipation. Such gatherings were rare, reserved only for matters of the highest importance.
+
+Princess Liling’s grandfather, the Sky Immortal with the long, white eyebrows, stood at the center of the pavilion, his usual boisterous energy replaced by a solemn, ceremonial gravity.
+
+“For centuries,” his voice boomed, echoing off the carved jade walls, “our Jade Palace has been the guardian of a great secret. A gateway. A place that is not quite the Spirit Realm, and not quite the mortal world. We call it Limbo.”
+
+A murmur of shock and awe went through the assembled disciples. The Limbo was a legend, a myth whispered in the dormitories but never spoken of openly.
+
+“This realm,” the Immortal continued, “is the source of many of our greatest treasures. It tests those who enter and, should they prove worthy, rewards them. Access to it is strictly controlled, granted only to our most promising disciples on the cusp of a breakthrough. But in celebration of this new, historic alliance with the Arcane Academy, the Council of Immortals has decreed that a path shall be opened. Not to the outer gardens of Limbo, but to the inner sanctum. For the first time in a thousand years, we will unseal the path to the Altar of Duality.”
+
+The excitement in the hall became a palpable, crackling energy. Even the stoic elders looked intrigued.
+
+“Within the Altar of Duality,” the Immortal’s voice dropped, filled with reverence, “lie two of the greatest treasures our world has ever known. Two pills, forged from the very essence of cosmic balance. The Yin Pill and the Yang Pill.”
+
+My own systems began to run a high-speed data search, cross-referencing my lore-dump with this new information. The results were staggering.
+
+[ITEM: YIN/YANG PILL (LEGENDARY, CONCEPTUAL ALCHEMY)][DESCRIPTION: A one-of-a-kind alchemical treasure. Ingesting the pill grants the user a permanent, threefold increase to their cultivation speed during standard meditation.]
+
+A threefold increase? Liz’s thought was a sharp spike of avarice. Bestie, we must acquire this! Imagine the efficiency!
+
+But there was more. I continued reading the fine print.
+
+[SECONDARY EFFECT: If two individuals, one who has consumed the Yin Pill and one who has consumed the Yang Pill, engage in dual cultivation, the synergistic effect increases the cultivation speed of both parties by a factor of thirty.]
+
+Thirty times. The number was so absurd it felt like a typo. It was a game-breaking, reality-warping buff that could turn a moderately talented practitioner into a world-ending powerhouse in a matter of decades.
+
+“To ensure the balance is respected,” the Immortal announced, “there will be two separate trials. The Trial of the Gentle Stream for the Yin Pill, open only to our female disciples. And the Trial of the Raging River for the Yang Pill, open only to our male disciples.”
+
+He paused, a faint, knowing smile touching his lips as his gaze swept over the crowd. “And in the spirit of our new alliance, the Council has decreed that any and all official exchange students are not only permitted, but encouraged to participate.”
+
+Every eye in the hall immediately swiveled to the only exchange student present.
+
+Dave.
+
+He stood there, at a placid 11%, a look of mild, bovine confusion on his face, completely unaware that an entire international incident was now being orchestrated for his personal benefit.
+
+A wave of excited, hopeful whispers erupted among the male disciples. The Yang Pill! If I could win that, my path to the Immortal Ranks would be assured!
+
+But their excitement was nothing compared to the sudden, fervent hope that lit up the faces of the princess’s legion of admirers. The logic was simple and immediate. The princess, a prodigy of her generation, was the undisputed favorite to win the Yin Pill. If one of them could win the Yang Pill… they would be the only person in the world capable of activating its thirty-fold dual cultivation effect with her. It wasn't a marriage proposal, but it was the next best thing. It was a chance.
+
+The announcement was a masterpiece of political maneuvering. It was a way to test Dave, to reward him, and to placate the simmering resentment of the young nobles, all under the guise of a grand, unifying celebration.
+
+Later that evening, back in the quiet of our pavilion, the full weight of the announcement settled in. I immediately began drafting a new, high-priority report in my internal logs.
+
+[TICKET #00740: Unforeseen High-Stakes Tournament Arc Initiated][PRODUCT: Project Double Negative][SUMMARY: A third-party stakeholder (designate: ‘Bushy-Brows’) has initiated a world-event explicitly designed to force a romantic and/or power-based escalation between our primary asset and a secondary strategic-class entity. The potential rewards are system-breaking in their magnitude.][ANALYSIS: The thirty-fold dual cultivation bonus is a ludicrously overpowered buff. It is the alchemical equivalent of a marriage license with cheat codes enabled. The elder is no longer just winking; he is actively rewriting the game’s source code to force his preferred pairing.][RESOLUTION: Recommending a formal inquiry into whether the Council of Immortals has an official policy regarding nepotism. Also, seriously considering looking into adoption. Maybe they have another, more competent grandson available.]
+
+. . .
+
+The news of the Limbo Trials swept through the Jade Palace like a wildfire. The entire mountain, usually a place of serene, quiet contemplation, was now buzzing with a frenetic, competitive energy. Young disciples, who had spent years in quiet meditation, were now gathered in the training courtyards, sparring with a newfound ferocity. The air crackled with ambition.
+
+Our own pavilion, however, was a pocket of quiet, high-stakes panic.
+
+Thirty times, Ana! Thirty! Liz was pacing back and forth on the lacquered dining table in our shared living space, her tiny claws making sharp clicking sounds on the polished wood. Do you understand what that means? The sheer, unadulterated efficiency! With that kind of power-leveling buff, we could have the asset at Rank 9 before his next birthday! Our project timeline would be accelerated by centuries!
+
+[Ana: I am aware of the potential return on investment, Liz,] my voice was a dry, steady counterpoint to her manic energy. [I am also aware that the user manual for this particular piece of hardware came with some rather stark warnings about overuse.]
+
+Details! Minor operational concerns! she waved a dismissive claw. This is a game-changing opportunity! The princess is a shoo-in for the Yin Pill. No one here can match her. That means the entire outcome of this grand cosmic scheme hinges on our asset acquiring the Yang Pill. There is no other acceptable outcome.
+
+Her gaze fell upon Dave. He was sitting on a silk cushion by the balcony, running at a placid 11%. He had found a particularly smooth, grey rock during his morning walk and was now happily polishing it with a corner of his sleeve. He was completely oblivious to the weight of expectation that had just been placed upon his shoulders.
+
+Look at him, Liz sighed, her ambition deflating into weary resignation. He is preparing for a trial that will test the very limits of his power and will by… cleaning a rock.
+
+[Ana: His focus is admirable, in its own way.]
+
+The days leading up to the trials became a frantic scramble. The princess, driven by a quiet but fierce determination, excused herself from our shared meals. Through our soul-bond, I could feel her. She was in deep seclusion, meditating, refining her Qi, and preparing her mind for the challenge. She was leaving nothing to chance.
+
+We, on the other hand, had a much more fundamental problem. The trials, according to the elders, were not just a test of power, but of will, of character, and of intellect. 11% Dave, while a prodigy at sitting still, would fail the first puzzle. 30% Dave could likely handle the basics, but he lacked the competitive edge, the spark of genius needed to outwit the other ambitious disciples.
+
+That left only one, terrifying option.
+
+We have to use the 50% build, Liz said, her mental voice grim as she watched Dave from across the room. There is no other way. He needs the processing power.
+
+[Ana: Liz, have you already forgotten the results of our last stress test? He classified your entire existence as a ‘semantic paradox’ and tried to debug you. The Moderator’s warning was explicit. Exceeding 70% poses a direct threat to your biological integrity.]
+
+And what did the warning say about 50%? she challenged.
+
+[Ana: ‘Not recommended.’]
+
+Exactly! she declared, seizing on the ambiguity. ‘Not recommended’ is a suggestion, not a hard-coded prohibition! It’s a yellow light, not a red one! We just need to manage him. Keep him focused on the objective. We’ll be fine.
+
+Her logic was flawed, desperate, and terrifyingly convincing. The potential reward was simply too high to ignore.
+
+Reluctantly, I agreed to a series of short, controlled tests in the privacy of his bedchamber.
+
+[Ana: Alright. Initiating a sixty-second burst at 50%. Stand by.]
+
+I slid the dial. The change was instantaneous. The placid, rock-polishing Dave vanished. The cold, analytical Anomaly stood in his place.
+
+He looked around the room, his eyes immediately cataloging every detail. Before Liz or I could speak, he addressed me.
+
+Benefactor, his thought was a clean, direct data stream through our link. I have analyzed the parameters of the upcoming ‘Limbo Trials.’ The probability of my baseline 11% iteration succeeding is 0.003%. The 30% iteration has a projected success rate of 14.7%. Both are unacceptable. This 50% iteration, however, has a projected success rate of 89.4%, assuming no unforeseen variables.
+
+He’s… cooperating? Liz thought, stunned.
+
+The acquisition of the Yang Pill is a strategically optimal outcome, 50% Dave continued, his voice devoid of emotion. It provides a direct and efficient path to power progression, which aligns with our long-term objectives. Therefore, I will offer my full cooperation for the duration of the trial. He turned his chillingly intelligent gaze to Liz. Provided the reptilian component of our triad refrains from any emotionally-driven, illogical outbursts that could compromise the mission.
+
+Liz bristled, but before she could retort, I slammed the dial back to zero. Dave crumpled to the floor.
+
+He’s… manageable, Liz said, a note of surprised hope in her voice. He’s still an insufferable, condescending monster, but he’s a manageable one. He understands the mission.
+
+[Ana: The risk is still substantial. But the potential reward…]
+
+We had a plan. A terrible, dangerous, high-risk plan. But it was a plan.
+
+The day of the trials arrived. The entire Jade Palace gathered at the base of a massive, impossibly tall waterfall that cascaded down the side of the central mountain. At the base of the waterfall, behind a shimmering curtain of mist, were two ancient, carved stone archways, glowing with a soft, ethereal light. One was carved with the image of a serene, flowing river. The other, a churning, chaotic torrent. The Gates to Limbo.
+
+The male and female disciples were separated. The princess, looking serene and focused, gave Dave a small, encouraging nod before joining the line of female cultivators. Dave, dialed up to a stable 30% for the pre-trial ceremonies, gave her a slightly wobbly, but genuine, smile in return.
+
+The rules were announced. The trials were individual. The disciples would enter the gates one by one. The first to reach the Altar of Duality and claim their respective pill would be the victor.
+
+The Trial of the Gentle Stream began. The female disciples, one by one, stepped through the archway and vanished. When it was the princess’s turn, a hush fell over the crowd. She walked forward with a calm, unshakable grace, and disappeared into the light.
+
+Then, it was time for the men. The Trial of the Raging River. The disciples, their faces a mixture of excitement and nervous tension, lined up. Dave, his expression calm and focused, took his place among them.
+
+Bestie, Liz projected, her own version of a pre-flight check. Are we ready?
+
+[Ana: All systems are nominal. Standing by to deploy the 50% build on your command.]
+
+The first disciple stepped through the gate. Then the second. Then the third. Finally, it was Dave’s turn.
+
+He walked toward the glowing archway, a portal to an unknown realm of challenge and opportunity. The fate of our project, and perhaps the world, rested on the outcome of this insane gambit.
+
+Now, Ana, Liz commanded. Deploy the monster.

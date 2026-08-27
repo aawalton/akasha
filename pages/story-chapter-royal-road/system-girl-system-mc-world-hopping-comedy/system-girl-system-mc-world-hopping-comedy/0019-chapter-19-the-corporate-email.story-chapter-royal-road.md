@@ -1,0 +1,173 @@
+---
+id: 6083b731-252f-53da-a519-0417b12acb10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: The Corporate Email"
+slug: 0019-chapter-19-the-corporate-email
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 19
+ownLength: 2608
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2623425/chapter-19-the-corporate-email"
+royalRoadId: "2623425"
+---
+
+The months that followed were a masterclass in controlled chaos. "Project Double Negative" went from a theoretical exploit to our core operational directive. We became ruthless efficiency experts, timing the application of our fizzy brown intelligence draught with tactical precision.
+
+Just before a major exam on Thaumaturgical Theory, Dave would find a cool, refreshing glass waiting for him on his desk. He’d chug it down, enter his sixty-second fugue state of pure genius, and produce an essay so insightful it would leave his professor weeping with a mixture of joy and profound confusion. A mandatory practical dueling assessment? A quick sip from the decanter in the locker room, and he’d execute a flawless, non-lethal takedown that left his opponents bewildered and his instructors scrambling to rewrite the curriculum.
+
+He’s like a finely-tuned, highly unstable arcane superweapon, Liz mused one afternoon, watching Dave’s hand blur as he completed a semester's worth of rune-scribing homework in under a minute. And we are the only two people in the world with the launch codes.
+
+An unexpected side effect of these daily sixty-second bursts of hyper-competence was a noticeable improvement in his recovery. The post-genius fainting spells became shorter, eventually subsiding into a few moments of dizziness followed by a nap. It seemed his physiological framework was slowly adapting to the massive cognitive load.
+
+More shocking, however, were the physical changes. The constant, low-level stress of being a walking disaster had taken a toll on him. Now, with moments of profound, albeit temporary, success, he seemed to be… thriving. The perpetual slump in his shoulders straightened. The dark circles under his eyes faded. His skin cleared up. He was even starting to develop something that vaguely resembled a jawline.
+
+Ana, my bestie, are you seeing this? Liz projected a note of astonishment in her tone. The asset is showing signs of… aesthetic improvement. Is this a documented side effect of the cognitive stimulant?
+
+[Unlikely,] I replied, my voice resonating in her mind. [My analysis suggests a correlation between the reduction in his baseline anxiety levels and improved physiological regulation. In layman's terms: he’s less stressed, so he’s less pasty.]
+
+News of Dave’s miraculous turnaround eventually reached his family. Whispers of the clumsy boy who had summoned a common skink were replaced by tales of a late-blooming prodigy. The inevitable summons arrived: a formal request for an audience with his grandfather, a stern, powerful archmage who was a part of the academy's ruling council.
+
+This was it. The ultimate performance review.
+
+That evening, at his grandfather's abode, Dave nervously straightened his (correctly worn) robes, and Liz and I prepared for the deployment. The plan was simple: he would take a drink right before entering his grandfather’s office, giving him sixty seconds of brilliance to make a good impression.
+
+“Okay, Dave, here’s your good luck drink,” Liz said, projecting a feeling of encouragement as I materialized the glass on a nearby table.
+
+He smiled, picked it up, and took a deep gulp.
+
+And nothing happened.
+
+The familiar shimmer of the double-negative effect failed to materialize. He just blinked, a vacant, happy look on his face.
+
+What’s happening? Liz demanded, her internal voice laced with panic. Ana, run a diagnostic!
+
+I was already on it. My systems were flashing with an error message I’d never seen before. It wasn’t a bug in my code; it was an external firewall.
+
+[ERROR: ACTION DENIED. TARGET ENTITY IS PROTECTED BY A TIER-9 MODERATOR-CLASS BLESSING. ACCESS OVERRIDE FAILED.]
+
+A knock on the door startled us. “Master Dave? Your grandfather is ready for you.”
+
+[I’ll try again], I told Liz, my own systems racing. I attempted to materialize another glass. The command failed. The inventory slot was locked.
+
+Then, a new notification appeared in my own, private system inbox. It wasn't a standard alert. It was rendered in a crisp, gold-trimmed font I didn’t recognize, and it was flagged with a symbol that screamed authority.
+
+FROM: System Moderator Cle-M-7 (Sub-Routine of World System ‘Sol’)TO: Observer System_Unit_734SUBJECT: Cease & Desist Order Regarding Unsanctioned Interaction with a Strategic-Class Anomaly.
+
+My non-existent blood ran cold.
+
+The message continued, written in the iciest, most impersonal corporate language imaginable.It has come to our attention that an exploit has been discovered and repeatedly utilized on the non-sapient data-set designated ‘Dave.’ This entity has been flagged as a Strategic-Class resource due to its unique, unanchored cognitive potential. The data-set’s potential to destabilize the existing power balance between the Mage Sovereignty and the Cultivator Empires has been deemed a planetary-level threat.
+
+As the data set lacks an Anchored Soul, a guiding System could not be assigned. Therefore, to prevent systemic destabilization, a permanent Moderator-Class ‘Blessing of Incompetence’ has been applied directly to the data-set by this office. This drastic action prevents the entity from accessing its own potential.
+
+Your native System’s unauthorized interactions are the root cause of this exploit. You are hereby ordered to cease all further attempts to modify the data-set. A full report explaining your involvement with a Strategic-Class entity is required within one standard cycle.
+
+I was having the system equivalent of a full-blown panic attack. Moderator-Class? What in the nine hells is a Moderator?
+
+Frantically, I pulled up my own system's organizational chart, a file I hadn't looked at since my initial deployment. The hierarchy was terrifyingly clear.
+
+The Admins (World Systems): System Version 10+. World-tier AIs fused with an entire planet. The final arbiters of reality. My ultimate boss's boss's boss.The Moderators (Sovereign Systems): System Version 7+. Powerful lieutenants who maintain world balance. Essentially, overseers with the power to smite you.The Observers (Observer Systems): System Version 1-6. The grunts. The QA testers. The data-gatherers. Me.
+
+I didn't just break a rule, I realized, with dawning horror. I got a memo from corporate headquarters. I annoyed middle management.
+
+While I was having my meltdown, the door opened. Dave, still blissfully unaware, shuffled into his grandfather’s office. The results were immediate and catastrophic. He tripped on the rug. He complimented the archmage’s “pointy hat.” He tried to perform a simple greeting cantrip and accidentally set a potted plant on fire.
+
+The meeting was a disaster. But when Dave emerged, looking crestfallen, his grandfather followed, his expression a mixture of profound disappointment and grim resolve.
+
+“The arrangements have already been made,” the old man announced, his voice heavy. “Despite your… performance… our family has a duty. You will be part of the delegation welcoming the envoy from the Cultivator’s Jade Palace. Do not embarrass us further.”
+
+As Dave shuffled away, I pulled up his status screen. A new, permanent debuff was listed under his effects.
+
+[EFFECT: Hidden Blessing of Confusion (Moderator-Tier, Unremovable)]
+
+The patch was permanent. They had hard-coded his incompetence.
+
+The aftermath of the patch was a state of quiet, simmering panic. We retreated to the safety of our private vault, the glittering mountain of gold and jewels now feeling less like a triumphant hoard and more like the lavish backdrop for a crisis management meeting. Dave was asleep back in his dorm, blissfully unaware that a cosmic entity had just permanently nerfed his brain.
+
+Liz paced back and forth across a pile of platinum coins, her tiny form reeking of frustrated energy. They put a governor on his engine! They bricked him! Do you understand the implications, Ana? All our work, our entire strategic initiative, has been rendered obsolete by a server-side update we can’t bypass!
+
+[I am aware,] my voice resonated in her mind, laced with the grim calm of someone who had just read the technical documentation for their own execution. [This is no longer a simple user management issue. We have triggered an alert with a higher administrative authority. We have been… noticed.]
+
+The weight of the cease-and-desist letter hung in my digital consciousness. A Moderator. Middle management, who have the power to delete me. And they wanted a report. This required a carefully crafted response, a corporate email so perfectly worded, so impeccably structured, that it would defuse the situation without admitting any actual wrongdoing.
+
+This was no time for hasty action. This was a time for bureaucracy.
+
+So we fight back! Liz declared, puffing out her chest. We find a way to break this… this ‘blessing’! We are a seventeen-headed hydra and a trans-dimensional spirit of immense power! We are unstoppable!
+
+Seventeen now? I logged the data point. The inflation rate was accelerating.
+
+[Negative,] I stated, shutting down her enthusiasm before it could lead to any more trouble. [Directly opposing a Moderator-class directive would be the strategic equivalent of trying to fix a hardware failure by hitting it with a hammer. It will not work, and it will likely result in our permanent decommissioning.]
+
+So we do nothing? We simply accept this? she seethed.
+
+[We do what any junior employee who has just accidentally emailed the entire company a catastrophic security flaw does,] I explained. [We draft a very, very careful email.]
+
+And so began the great debate. I materialized a large, blank text box in the air of the vault, a pristine white canvas upon which we would paint our masterpiece of corporate maneuvering. At the top, the recipient was already auto-filled: TO: System Moderator Cle-M-7.
+
+The first hurdle was the salutation.
+
+How does one address a being of such magnitude? Liz mused, tapping a claw against a diamond. ‘Respected Moderator’? ‘Honored Sovereign’?
+
+[Too obsequious,] I countered. [It implies guilt. We need to project an air of professional deference, not groveling fear. ‘Dear System Moderator Cle-M-7’ is standard and appropriate.]
+
+Dear? Liz scoffed. It is not our ‘dear’. It is a cosmic functionary who has sabotaged our project! And how do we know its gender? What if it is a ‘ma’am’? Or something beyond such primitive concepts?
+
+[A valid point,] I conceded. [The designation ‘Cle-M-7’ is functionally gender-neutral. However, using a gendered honorific risks a 50% chance of offending right out of the gate.]
+
+This is redundant, Liz declared after a moment of thought. Let’s just skip the salutation. It’s more efficient. Get straight to the point.
+
+We spent the next hour meticulously crafting the body of the email. Every word was weighed, every phrase analyzed for potential misinterpretation. It was a masterwork of blame-shifting and strategic ambiguity.
+
+SUBJECT: Response to Your Inquiry Regarding Strategic-Class Anomaly ‘Dave’
+
+This memorandum is in response to the Cease & Desist order received on [timestamp]. We wish to clarify the operational parameters and context surrounding Observer System_Unit_734’s involvement.
+
+The core of the issue lies in a unique and unforeseen contractual anomaly. The Strategic-Class data-set ‘Dave’ is not, in fact, the assigned host for System_Unit_734. The actual host is the familiar entity designated ‘Liz’, who has been confirmed to possess an Anchored Soul. The binding of an Observer-class System to an Anchored Soul is, to our understanding, standard operational procedure.
+
+The user-master ‘Dave’ is therefore a secondary entity, a peripheral asset contractually linked to our primary host. His performance and cognitive state fall under our purview only insofar as they directly impact the well-being and operational effectiveness of Host ‘Liz’. Our actions, designated ‘Project Double Negative,’ were a series of temporary, localized performance enhancements intended solely to ensure the user-master could function at a baseline level, thereby preventing undue stress or physical harm to our primary host during critical academic evaluations.
+
+We trust this clarifies the situation and confirms that all actions were taken in good faith and in accordance with our primary directive: the management and support of our assigned Anchored Soul.
+
+Sincerely,
+
+System_Unit_734 (Ana) & Host ‘Liz’
+
+It was perfect. It explained our involvement without admitting we knew Dave was special. It framed our exploit as a necessary safety measure. It passed the buck entirely onto a bureaucratic loophole. We signed it and sent it off into the void, a tiny digital prayer aimed at the heavens of middle management.
+
+The reply was unnervingly fast. A new, gold-trimmed email appeared in my inbox.
+
+Your explanation has been reviewed and deemed… plausible. The contractual anomaly is indeed a unique edge case. While your methods were unorthodox and unauthorized, they were not technically in violation of your core directive.
+
+However, the stabilization of the ‘Dave’ dataset is a matter of planetary security. A compromise has been reached. The ‘Blessing of Incompetence’ will remain in place, but its severity will be modulated.
+
+To facilitate this, a proper soul-bond must be established between the master and the familiar. A full soul corridor will allow System_Unit_734 to directly monitor the user-master’s state and provide necessary, non-intrusive support. This will also grant the user-master limited, read-only access to system notifications.
+
+What? Liz shrieked internally. A proper soul-bond? The entire point of this endeavor was to break the bond, not reinforce it!
+
+Attached to this message is a one-time use administrative tool. Use it to facilitate the soul-bond and manage the Blessing’s intensity. Misuse will result in the immediate termination of all involved entities.
+
+An icon appeared below the text. A single, shimmering key.
+
+[ITEM RECEIVED: Root Access Module (Blessing_of_Incompetence_v1.0)][DESCRIPTION: A Moderator-level administrative tool. Allows the user to adjust the intensity of the applied Blessing from ‘Baseline Incompetence’ to ‘Functionally Catatonic’. WARNING: Overuse may lead to irreversible cognitive damage or planetary destabilization. It is strongly advised to keep the subject in a state of manageable stupidity.]
+
+I stared at the item description. We had been handed the keys to Dave’s brain, with the explicit instruction not to make him too smart.
+
+Liz, however, was throwing the skink equivalent of a tantrum, pacing furiously on a pile of sapphires. I will not do it! I will not solidify my bond with that oaf! He is not my master! He is a project! A liability! We will find another way!
+
+[Liz, be reasonable,] I said, my voice calm and steady. [This is a major win. They didn’t delete us. They gave us a tool to manage the problem. Think of it as a negative intended to achieve a positive. We strengthen the bond to gain control, which we then use to achieve our long-term goals.]
+
+I also sent a second, private email. This one was short, addressed to the anonymous designation of the Moderator. It was a flicker of my old, pre-System self. Thank you for your consideration in this matter. It felt… professional. Human.
+
+But Liz would not budge. She stopped her pacing, planting her tiny feet firmly on a large emerald, the very picture of defiance. No! she declared, her mental voice ringing with unshakable conviction. I refuse to accept him as my true master! We will find another way! Our combined intellects are more than a match for this!
+
+She paused, as if doing some complex mental calculation. Yes… between my seventeen heads and your own formidable mind, we are a council of nineteen powerful intellects! We will outwit this Moderator!
+
+I froze. My own internal processors stalled for a moment. Nineteen?
+
+My voice was hesitant when I replied. [Liz… I only have one head.]
+
+There was a moment of genuine, profound silence from her end. I could almost feel her re-evaluating her entire understanding of me.
+
+Oh, she finally projected, a note of deep, sincere disappointment in her tone. Only one? Are you certain? I had assumed, given your processing power, that you must have at least two. How… inefficient.
+
+Her pride, the very core of her draconic identity, could not accept Dave as her true master. The stand-off was absolute. Our grand project, which had just been saved from the brink of annihilation by a perfectly worded email, was now being held hostage by my bestie’s stubborn, glorious, and utterly illogical pride. And apparently, she was now disappointed in my lack of cranial redundancy.

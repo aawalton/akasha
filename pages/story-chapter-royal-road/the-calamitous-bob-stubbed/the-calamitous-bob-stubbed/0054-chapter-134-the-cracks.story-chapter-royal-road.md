@@ -1,0 +1,405 @@
+---
+id: b2bdede8-3832-5ee6-b43e-3faed0c7c01b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 134: The Cracks."
+slug: 0054-chapter-134-the-cracks
+partOf: the-calamitous-bob-stubbed
+position: 54
+ownLength: 4948
+unit: words
+ownProgress: 4948
+publishedAt: 2023-09-08
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1336548/chapter-134-the-cracks"
+royalRoadId: "1336548"
+markedReadAt: "2026-06-29T21:16:36.881Z"
+---
+
+Viv cast three small nets, rupturing the attacking spells. Three booms rang across the small arena, pushing dust aside. A cast of eldritch wall to the side followed as she ran left—just as insurance if she needed to move. An astra spell was quickly blocked by a small wall of water barely strong enough to trigger it. The resulting explosion spread with a hiss, slowly. Too slowly. Sonagi used a water intent on his defensive constructs.
+
+“Is that all?” the man mockingly teased from a wall of mist.
+
+Viv rushed forward, feeling the sand under her boots. Never let your foe finish a long casting, he’d said. She vented mana into the ground, detonating a mine. Another cloud of black mana tore forward in front of her and through the mist. It revealed wet sand and the edge of a circle carved into the ground. She sent a blast at it and retreated, her floating silverite symbols forming a shield. The expected explosion did not come. She’d really hit an array, not a decoy.
+
+“Dammit!” Sonagi exclaimed.
+
+By a supreme effort of will, he still managed to finish the half-baked spell to throw at her. A roaring, spitting flame of inferno shrieked across the circle towards Viv. It was the size of her torso.
+
+Contestants wore heavily enchanted defensive robes but Viv couldn’t help but notice that if that thing landed, it would cook her on the spot, robe or not.
+
+If.
+
+“Durandal.”
+
+Viv’s latest creation and the result of her black mana studies launched at the projectile. It was a black spike-tipped bomb designed specifically to take down incoming artillery spells. It made short work out of the unfinished ball.
+
+Sonagi’s attack exploded in a wave of heat that seemed to penetrate even Viv’s coating. She was used to it, however, and reacted anyway,
+
+“Lure. Shadow step.”
+
+The heat parted the mist, revealing a knee-high wall of stone now pitted in places. Beyond it stood the robed shape of Sonagi. The light of the exploding spell made shadows and near his feet, one such pool bubbled.
+
+“Force cage!” the man screamed, and a transparent box surrounded it. This wasn’t where Viv was going however. She let her lure fade and teleported behind the shadow of her eldritch tree instead. The safety one she had placed at the beginning.
+
+A caster duel was half chess, half unbridled violence.
+
+“Net.”
+
+Whips of razor thin black mana surged towards the duelist who reacted without looking, Another wall rose from the ground to cover his form. Viv had expected it.
+
+“Glastian shredder.”
+
+The equivalent of a transparent industrial saw lacerated the far end of the wall from one side to the other. Sonagi cursed as he jumped aside. Viv had lost sight of him so she raced forward.
+
+“Alright! Stop, stop, that was well done. I need to set up another strategy to challenge you.”
+
+He appeared from farther away than she expected thanks to a gray-mana based intent that muddled the perception. Sonagi never fought to the bitter end in training, not because it wasn’t good practice but because mana remained a premium for them. She had an enormous tank thanks to being born talented. Sonagi didn’t have her reserves. He relied on his fine control and intelligent use of colors to gain the upper hand.
+
+“Has anyone ever told you you are a frustrating opponent?” he asked without anger.
+
+“Yes. Many times.”
+
+“Excellent. It’s a good sign. You really are powerful, you know? Anyway, give me a moment I need to prepare for the next round.”
+
+Viv left the sandy expanse of the Academy’s training arena. Sonagi was doing his best and she appreciated it. Confronting the many styles he knew how to replicate gave her some of the experience she would need against the battle-hardened mages of the other competitors. He even borrowed casting aides for some elements so he could emulate the style of blue and red mana specialists. In a way, her monochrome nature made training considerably faster. There was no need to learn color combination, mana balancing among the elements or any of those subtle aspects. She didn’t have to study which spell countered which other in the most efficient manner. She had her collection of spells she had made herself, and they were good. She knew how to use them. She was really, really proficient with them, and she had the attunement to cast them with matchless power. No one could beat her efficiency at her step of the path. She could stop an attack with only a fraction of the mana and cast three more before most people could cast one.
+
+And there was the power of her color as well.
+
+Black mana was not exactly as versatile as the other hues. It could not really build defenses, nor control the environment, but if there was one thing it was really good at, it was destruction.
+
+Being the heaviest hitter around was pretty good in a duel.
+
+Viv was feeling confident. She also trusted Sidjin who had forfeited all training in favor of information gathering. Not that he needed any of it. No, it was the preparation of the last member of their little squad that gave her a conniption.
+
+Viv moved to Rakan, deliberately sitting next to him while Sonagi meditated. The expert duelist was pulling double duty to make sure his trainees were up to speed for the competition.
+
+“Did the exercise I suggest help?” she asked.
+
+“Yes. Thank you.”
+
+He kept silent for a while.
+
+“You’re doing your best to help,” he said, a little defensive.
+
+“Yes. Of course.”
+
+“I thought you might be angry.”
+
+“I am. I also won’t let my anger interfere with our preparations, especially not preparations to try and keep you alive.”
+
+“I was… hoping you’d approve. You’ve been the person I wanted to be since I met you. A stranger surrounded by friends. Heh. Damn, I don’t want to sound like a wimp.”
+
+“Keeping everything inside all the time isn’t manly, Rakan. It’s just stupid.”
+
+“You said the same thing about me joining.”
+
+“I stand by what I said but it’s not important right now. What’s important is to be as ready as we can be.”
+
+“Even if it proves you wrong?” the young man said with a sarcastic smile.
+
+It felt forced.
+
+“My problem is never risk, Rakan. My problem is who takes it and why. No amount of victories will change that. Mages are survivors until they’re not, young idiot. It takes only one spell to off you.”
+
+“We have protective garb.”
+
+“If I really want to kill one of them, what amount of protective garb you reckon will save them?”
+
+“I can indeed say that you are still angry,” the young man grumbled in his teeth.
+
+“And you’d better not make me even angrier by having something happen.”
+
+“Enough, enough,” Sonagi interrupted.
+
+The trainer came, sitting near the two by the edge of the small arena.
+
+“You guys are doing great. Nothing will happen, and besides Rakan is our fourth. Most combats will be decided by the time we reach him. So no pressure. Listen, since we are fighting duels, one may believe that team spirit is not required!”
+
+“Or not the most important thing.”
+
+“And it is wrong. We will be fighting for three days. Unless we lose immediately. It will be a harrowing experience. Cohesion will be important, even more because one of us may lose, putting pressure on the others. It could be anyone, and I mean anyone. Each team has four fighters, the first going against the first, the second against the second and so on. Some teams may have exceptional firsts and no follow-ups. Do you understand?”
+
+“Yes yes,” Viv said.
+
+“You two are the best students I’ve ever had but don’t forget you alone cannot win. We must be here for each other.”
+
+“We will be,” Viv assured.
+
+“Yes, I won’t let you down. And I won’t complain.”
+
+“Good. Now come, let’s get back to it!”
+
+***
+
+The first decision Sidjin made after leaving the town hall was to place Sonagi and his mother in the arena full time, in specifically designated quarters made to protect fighters from the outside and each other. The move received the blessing of the bereaved family, which Viv found a little curious, but could be explained by their willingness to make something out of that grudge. It had been years since the death of their scion, so it was easy for Sidjin to negotiate an agreement. Perhaps they were open to negotiation against compensation. Something to pursue after the arena, to bring some more skill to her budding nation. The rest of the time was spent between the few remaining classes she had, the hospital, and physical training with an Academy trainer.
+
+“Where is your sword?” he asked him the first time they met.
+
+“Excalibur.”
+
+The instructor briefly inspected the two meters long blade of hungering darkness.
+
+“Aye, that will do.”
+
+She only had time to work on the basics like how to move and block, but it would help. Parts of her wondered if she was wasting her time, if she was not spreading herself too thin. Her friend Gevaudan back on earth often talked about ‘builds’ and how specialized was better than spread out and ineffective. But this was Nyil and it didn’t care about ‘points’ and ‘balance’. She was trying to get all the low-hanging fruits to increase her survivability. More importantly, most of her battles had been at close-range and she didn’t think it would change much in the foreseeable future. Nous had given her the option to be an artillery specialist many times and she had not taken it. Her priority was clear.
+
+She hoped it was the right decision.
+
+Finally, any boost in stats now had a major influence and would hopefully help her survive the transition. It seemed logical. The more magical her body already was, the easier it would be to infuse it more. Or so she hoped. There would be time to fine-tune her training later.
+
+After three weeks of intense preparations against the enemy teams, Sidjin came to see her. She knew she’d been postponing the discussion.
+
+***
+
+“You have been avoiding me,” Sidjin said.
+
+It was not a question but a statement, not a reproach but a remark. He waited calm, standing near the entrance to their training room. He was dressed well, as he tended to do since regaining full control of his body. He looked good. Viv found she liked him just as before as this was the same Sidjin she’d grown to know, but the weight of Rakan’s fate weighed on her. He could still say no, though she wouldn’t ask him to do so. The two men had made it clear it was their decision, and that her input was neither required nor welcome.
+
+“I’m sorry. I don’t hate you. I understand why you did what you did… I just can’t let it go.”
+
+“You understand but you do not accept.”
+
+“He’s a damn kid!”
+
+“He is not.”
+
+Viv sighed.
+
+Men younger than him had been conscripted by her own country, and that was just in the twentieth century. She was being a little hypocritical. No, that wasn’t it. They’d been sent as a measure of desperation. Rakan’s presence was not required.
+
+“He has no need to be here. Sonagi said he was not ready. He said he was skilled as a mage but not as a duelist. You know this. We can achieve whatever result you wish with a talented mercenary. There will be plenty of opportunities for him to show the strength of his arms. Yet you still said yes. Every time I smell the bloody sands of the arena, every time someone mentions a champion, he’s all I can think of. And when I look at you, it’s the same thing. All I can see is white skin. Glassy eyes.”
+
+“You have seen dead children before.”
+
+“Yeah. And not just on Nyil. It’s not worth it, Sidjin.”
+
+“I know it is not safe. I know it can happen. I will not insult you by pretending the risks are what matter. By fighting, we take a risk. You know this, I know this, and I am sorry to say, Rakan knows this. Rakan is an adult here, and a full-fledged mage.”
+
+“Bullshit.”
+
+“It does not take a degree from the Academy to be one, Viv. Or there would be very few. He can cast spells with five sigils or more. He has formed an air intent. Rakan is a mage. He has trained hard. I cannot refuse him without breaking his honor.”
+
+“His honor can wait six more months and the approval of his teacher.”
+
+“You do not cut the wings of young hawks, Viv. Nyil is a merciless place, especially for his compatriots. You have protected him and his sister. Let them walk their own path. Please.”
+
+“What do you call a swordsman who leaves the school before his master agrees he’s ready?”
+
+“Viviane.”
+
+“You and the boy have decided he was strong enough to stand in front of hardened warriors, some of whom have defended the wall. Sonagi and I have not. I hope for everyone that I’m wrong, but until it’s proven I can’t hug you and relax. I’m sorry.”
+
+“There will always be differences between us, Viv. Differences because… we come from very different cultures. Does it mean… it’s over?”
+
+“You can end it if you want, but as long as Rakan is in danger because of your decision, I can’t tell you I love you and truly mean it. I’m sorry.”
+
+“We… I understand. We will… talk again after everything is over. Decide. The both of us.”
+
+“I’m sorry Sidjin. I wish I could tell you I love you without conditions but this isn’t the case.”
+
+“Goodbye Viv. And take care.”
+
+“You too.”
+
+***
+
+Viv dreamed that night in her Academy room.
+
+Rakan was fighting against a lich in the arena while she watched powerless from the rafters. He was winning, but then he stopped to examine a circle the lich had created. She screamed at him to finish off his opponent but her voice wouldn’t come out. The nightmare ended as the lich gripped Rakan.
+
+Something pulled her up. The part of her that was her soul woke up then, aware of a foreign influence and powerless to stop it. The divine hand dragging her was not familiar, yet it reminded her of a part of her, the one that drew in fate’s whims.
+
+The in-between greeted her in all its incomprehensible beauty. Her senses merged and let her taste the vastness of it through a strange synesthesia. The section she was in held a strange flavor, abandoned yet still smelling of wine and fine arts. And luck. She tested the… the space around her, though that didn’t feel quite right. Where she could aim her thoughts. Before much could happen though, a powerful tug dragged her back down.
+
+But not back to Nyil.
+
+Her soul screamed. This was not a very well-used conduit and the jagged edges scared her but whatever will guided her, carried her expertly through the various reefs that formed a path back to… she could see it now. A planet, blue and familiar but more orange than she remembered. She was pulled down, impossibly fast. She—
+
+She was in an office, facing herself.
+
+Viv took in her surroundings with a sense of sight that didn’t use eyes. Something was allowing her to see, to experience. The room she hovered in was spacious, all edges of glass and black metal. Few decorations adorned the otherwise austere place, and the austere woman sat in a leather chair as if it were a throne. She wore an asymmetrical gray suit complimented with a golden pin. Her face was Viv’s if Viv was older with access to the best skin routine earth had ever designed. A strand of gray hair snaked down from each temple, granting the woman an air of experience. Twin emerald eyes watched Viv with a bittersweet attention.
+
+A distant part of Viv’s mind screamed at her through the void. It screamed with grief and outrage. More details emerged, reinforcing what she already knew deep inside. There was a picture in the background of the same Viv with three adult children and a handsome husband, all with rare green eyes. Plates on the wall spoke of degrees, rewards. A logo decorated the desk with the word Euronics and below, Safran and Rheinmetall. The screen between them was flexible and transparent. Rows of data danced in its depths in a script she was no longer used to reading. It took her a moment to recognize the background far below because the landscape had changed so much. Trees of tropical essence lined every piece of space not covered by solar panels. New skyscrapers had popped up but there was no mistaking the esplanade below, or the shape of Paris in the distance. Fumaroles of heated air covered every exposed piece of metal like a shield outside. Inside, the air was cold and clean. It smelled vaguely of industrial soap.
+
+“No,” Viv finally managed. “No no no no no no it’s only been two years. No. Impossible!”
+
+“Time does not carry us at the same speed everywhere,” the older Viv rasped between tight lips.
+
+“Emeric…”
+
+“In the flesh. Well, in your flesh.”
+
+The hidden god took a sip of something amber. Now Viv finally noticed the crystal decanter on a table, half empty. Emeric let the glass rest against his… her thigh, for now, the contrast between the carefully controlled environment and languid posture jarring.
+
+“What…”
+
+“I am sorry. That is what I want to say first. I am so sorry.”
+
+“For stealing my life?!”
+
+“Yes. I was… callous. Needlessly brutish. I hurt you when you did not deserve it. I have been following your progress, of course. I know you did well for yourself but it does not absolve me of my sin. The truth is that I could have used a dying body and replaced it. I could have waited for a good vessel as they died, but I didn’t. The throne of the gods corrupted me. It took being you to remember that… that people mattered.”
+
+“I wanted to warn my family,” Viv’s soul wailed. “To tell them I was alive.”
+
+“They thought you were. They still do. Only your father realized… you’d been replaced. He confronted me. I told him the truth. He said he’d shoot me if I were not in his daughter’s body.”
+
+“I don’t care I don’t care I don’t care give me back my family!”
+
+“I can’t!” Emeric roared, then softer. “I can’t. It’s already too late. I don’t have the means to swap you back. Even if I did, it would cancel all the pain we went through to trap Maranor. I can’t do it. I’m sorry.”
+
+“Why why why why why why.”
+
+“Quiet.”
+
+Viv’s soul was forcefully stabilized by the hand of the god. Anguish tasted different for a soul. Less raw and much, much deeper, and she had no tears to cry.
+
+“I owe you an explanation I suppose, but after that I will seal the memory of this exchange to others. You will not be able to mention it. Whether you want it or not. Simply put… I fled here to stop my wife from dooming us all. She wants my crown and for that she needs to challenge me. To challenge me, she needs to demonstrate I am unfit.”
+
+“Unfit unfit unfit.”
+
+Emeric took another sip of alcohol.
+
+“Unfortunately, being a decent person has never been a requirement for leadership. Quite the contrary, in fact. Maranor has found her cause and ally and promised to unseal him if he cooperated. It, I guess. I am talking about the leader of the first pantheon. Katon the harvester. The first of us all. Currently in the middle of a botched reincarnation.”
+
+Viv wished she could flee and cry, return to the physical world where yelling and throwing stuff was a distinct possibility. It didn’t happen. Emeric wasn’t done with her.
+
+“Gomogog the jovial feaster. He empowered his followers who engaged in ritualistic cannibalism. Octas the grafter. She advocated becoming monsters ourselves as the only way to power. She affixed monster parts on people. Enttiku guardian of repose. We turned them to our cause for they only cared about the peace of souls. Khaton of the many diseases. He made his believers stronger according to the pain and terror they inflicted. And Gorok the Butcher. Those were the ones we worshiped for a time. Maranor slew Gorok and Khaton but Gorok returned.”
+
+Viv felt curiosity despite herself. Being merely a soul gave her entirely too many avenues of reflection.
+
+“How?”
+
+“As the god of the only fitting entity: he’s an aberrant.”
+
+A chill plunged Viv’s soul in a cold pond.
+
+“That is bad.”
+
+“It is, but his power wanes. I needed some more time, so I fled here. I stole your life. Your friends. I stole your family. I have built a life here and realized what I had done. Godlike power, it does something to you. There are so many deaths, so many prayers left unfulfilled. After a while, your heart hardens like a stone. It took me quite a while to remember what it meant to be mortal. I’m sorry, Viv. And I… am sorry for your loss. “
+
+A new wave of horror flashed through Viv while Emeric took another sip with an emotion she never expected in such a detestable man: guilt.
+
+“Your father died this morning. Heart attack. You’ve been gone for thirty-three years. He is… was… an old man. I… I told him to slow down. That he wasn’t that young anymore. He wouldn’t listen.”
+
+“Fuck you fuck you fuck your fuck you”
+
+“Quiet. I will say it again: I am sorry. There is a debt between us. So… I can’t bring back your life but I can make up for it. Pay the debt. Do you know why there are no temples to me and yet I am king?”
+
+Viv didn’t. She’d never wondered.
+
+“I am Luck. People call my name in the recess of their hearts and sometimes I help them. There are many people who need help at any given time, but I will not come to those who demand, who worship, or beg or whine or scream. I only come to those who act as they ask. But I will come for you. Talk to me in your heart and I will atone for the sin that binds us. Remember me. I will give you a sample of what can be done. Remember me in your hour of need. Do not let your grudge cause your death. Goodbye, Viviane the Exile. Maybe we will meet again, one day.”
+
+“I’ll fucking kil —”
+
+Viv was projected back to the in-between, then back to her room screaming and panting. Light invaded her vision, hurting her eyes. She flipped to her side to empty her stomach. Tendrils of black mana lashed, cutting her bed table in two. Another pinged against a shield.
+
+“Calm down! By Sardanal, Viv!”
+
+A hand grabbed her. She recognized the familiar perfume of Ereska, her roommate.
+
+“MERDE!”
+
+“I do not know this tongue but I can gather you are angry.”
+
+“Gah! That cock-sucking, rotten, poxed-ridden—”
+
+“You are quite angry.”
+
+“AAAAAAAAAAAAAAAAAAAH.”
+
+Viv breathed, trying to reassert herself. Her body felt weird. Out of place.
+
+Soul Mastery has vastly improved due to repeated contacts with divinities.
+
+Soul Mastery: Intermediate 1
+
+You may now travel to the in-between voluntarily.
+
+She felt disconnected. Stats didn’t help. It was like the throne room back in Harak. Her soul, gone too far and slapped back like a metaphysical rubber band. Straight at her.
+
+“That fucker,” she sobbed. Then, softly, “Papa…”
+
+“We… have the same word in the northern tongue. I am sorry.”
+
+“I just wanted to say goodbye. I just wanted to tell them I was alright.”
+
+But they didn’t need it. Didn’t need her. She’d been replaced.
+
+“What happened, Viv?”
+
+“I was told. I was told my father died. I just… I just wanted to see him again.”
+
+Viv let herself be consumed by grief, here in her room where it was safe. Ereska stayed.
+
+“I knew I could die so I made letters. But that’s not the same. I am NOT dead. I am not dead at all. I just wanted to see him, to tell him I was sorry for what I said. Not all I said but some. Tell him I was a hypocrite, that I knew the tools he used were more… neutral than evil. I used them as well. I wanted to tell him that he was right, that I was more like him than I admitted. Even though he was an asshole. Fuck. I just wanted to talk. Now that I was my own person. Not like this.”
+
+Ereska hugged her.
+
+“Not like this. Why?”
+
+“I’m sorry. It’s not fair to you, and nothing will replace him…. but I’m still glad you’re here. Forgive me. If you were not here… Varska would have died alone.”
+
+“She did die alone! That idiot wanted her heroic death so much!”
+
+“But she died for someone. Sorry, I’m bad at this. I wish I had a skill.”
+
+There was a skill for grief counseling here. For fuck sake.
+
+“What I wish to express is that your sacrifice has changed a lot for many people. People who deserved a second chance. Like your, and I cannot believe I am saying this, daughter.”
+
+“True,” Viv sniffed.
+
+“You were dealt a loaded die but you made what you could of it. I’m happy you were here for Varska, at the end. So, please do not be angry. Instead, please tell me about your father.”
+
+Viv sat back down. She knew what Ereska was doing and wanted to slap her. Yet, the girl meant well. Screaming would help nobody. She had to be the adult for now. Maybe scream later. Alone.
+
+“He was a politician, a businessman, an amoral twat and… a great dad.”
+
+“Oh he would have loved it here.”
+
+Viv sniffed. With her magic and her dad’s political acumen, with the two of them they would be halfway through Enoria by now. And the Enorians would be thanking them for it.
+
+“Wait… what is that thing?” Ereska suddenly asked.
+
+On Viv’s bed, a black, squarish box waited. Viv blinked because she was pretty sure there was plastic in that thing. The design felt like a boy version of those revolutionary smartphones that had just… but no. With earth thirty years in the future, smartphones were probably obsolete by then. Maybe people watched tv series on the toilet with eye implants. Maybe toilets were obsolete. Viv grabbed for the box, which lit up at her touch.
+
+The back was made of shiny plates with a small inscription reading ‘solar panels’ in French. A click on the side revealed a pair of earplugs linked back to the box with thick cables that looked like they could resist an axe chop. The shiny text on the edge read: Survivalist Vault 3, and listed a storage capacity of 124 terabytes of data. It seemed like… quite a lot to Viv.
+
+She opened and found text in blockish script. She was thirty years in the past and still found the look retro. Inside, there was a menu with videos, music, and photos. She opened the first one and found a tanned version of herself posing in the Charles de Gaulle airport lobby with her smiling brother. She smashed the thing down on her bed. It bounced merrily.
+
+“What is that? It looks like the most advanced piece of magitech I have ever seen!”
+
+“It’s a… a depository of knowledge. From my world.”
+
+“Whoever sent it to you—”
+
+“Must remain secret. Absolutely secret.”
+
+“Of course. Naturally,”
+
+There were notes on the main menu. The first told her the box was locked to her face, which felt weird to her but seemed to be working. The second was that it was enchanted to escape scrutiny from hostiles. Divine shenanigans probably. She tried to inspect it. The skill just drifted off it.
+
+She opened it again and picked a random song. Saint Saens’ ‘Dance Macabre’ rang through the ravaged room. She had to admit, the sound system was nice.
+
+For a consolation prize.
+
+Viv grabbed the box, though she refused to open the pictures, refused to read the notes on what had happened to her friends while a mad god meat-puppeted her true body for his enjoyment. She wanted to throw that shit off the window but she didn’t. She couldn’t. She didn’t have the strength. It was all she had left, a pity gift from a regretful man so she could get the drags of the life she would never live, the one he’d stolen from her.
+
+“That music! It’s… it’s so beautiful!”
+
+It appeared Ereska was crying.
+
+“Take it,” she said.
+
+“What?”
+
+“Take it. I don’t need it right now. Go. I want to be alone.”
+
+“If you are sure…”
+
+Ereska left clutching her prize in her hands while violins sang according to the whims of a talented director. Fucking music. He’d sent her music and a photo album. Jesus.
+
+Viv curled on herself in her savaged bed. As hard as she tried, sleep wouldn’t come to her that night. In the morning, her nose bled uncontrollably.
+
+Current attunement: 42.1%
+
+Time was catching up to her.

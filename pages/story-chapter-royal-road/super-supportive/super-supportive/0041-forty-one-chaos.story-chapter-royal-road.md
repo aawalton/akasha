@@ -1,0 +1,247 @@
+---
+id: 5ec11ede-be30-51a7-8dd9-558ee240945d
+page-type-slug: story-chapter-royal-road
+title: "FORTY-ONE: Chaos"
+slug: 0041-forty-one-chaos
+partOf: super-supportive
+position: 41
+ownLength: 3536
+unit: words
+publishedAt: 2023-06-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1235378/forty-one-chaos"
+royalRoadId: "1235378"
+---
+
+Everyone kept moving after the dad and his kids were gone. Alden didn’t know what the plan was, and he couldn’t understand ninety-five percent of the conversation around him. But it made him feel better that the scientists were taking action.
+
+They stayed in the warehouse for a few minutes, examining places the demon bugs had touched, calling out information to each other. Alden watched them intently, trying to understand.
+
+They always examined the damaged spots from at least a foot away. So maybe even touching the residue left behind by the things was hazardous. Alden followed Thenn-ar around, peering at everything she peered at and always straining his eyes and ears in an effort to detect the flying black dots before they approached.
+
+There were always one or two where he could see them now. They didn’t have anything like a standard flight pattern. One would spiral toward the ground. Another would drift like it was caught in an invisible breeze. The one that scared him the most drifted for a while and then, inexplicably, changed direction and shot through the air rapidly for a few feet before drifting again.
+
+They didn’t just leave holes in things. Though that seemed to be the most common result of them banging into an object, some of the spots the scientists examined weren’t places that Alden would have recognized as damaged at all. A rough patch of metal, a fine smear of ash, a shiny puddle like a drop of resin on the pavement. If Joe’s assistants understood anything from these signs, Alden didn’t know what it might be. After about five minutes, the examination ended with them all gathering around to stare at a single tiny hole in the floor.
+
+Alden stared at it, too, noting the way the edges were jagged and sharp on one side and crumbly on the other. As if part of the concrete had started turning into chalk. After looking at it, the scientists all turned and left the building. Alden followed after them, nervous and confused.
+
+If the things punch through metal, then buildings aren’t that safe. But if they only punch through sometimes, then it’s still better to have a barrier between us and the outside, right?
+
+The scientists looked out over the marleck fields. The man said something to Thenn-ar and gestured toward them, but she shook her head and led the way down the packed dirt of a narrow road. Alden’s best guess was that they were going to the group of farm buildings he’d seen on his first evening on Moon Thegund.
+
+They’d been on the other side of the enormous field. It was a long walk, and he understood why Thenn-ar didn’t want to go through the bushes. It would be hard to see the small demons coming; they could drift right through a patch of leaves into your face. Even if the road wasn’t as direct a path, at least the visibility was good enough.
+
+It was always the same dull yellow overcast sky every time Alden was on Moon Thegund. Nothing ever appeared from beyond the dingy, low-hanging clouds. He wasn’t sure if the fact that he’d never seen anything like darkness or dawn was happenstance, or if the moon had extremely long days. Maybe there was no night on this side at all.
+
+He hoped that was the case. Being here in the dark would be a hundred times worse.
+
+It’s not quiet anymore, he realized as he followed the scientists down the road. Moon Thegund had always been eerily silent. But now, in addition to their footfalls, there was a low drone.
+
+And the more he looked, the more of the tiny demons he saw.
+
+Any time one approached, the scientists dodged it. Alden saw one emerge from the ground a couple of feet ahead of the man in front of him. He shouted and pointed, and the guy stepped away from it as it buzzed around a few inches above the dirt.
+
+The scientist grimaced, but he didn’t look surprised.
+
+Of course. If they go through things randomly, that includes the ground. He had seen the hole in the floor of the warehouse, but he hadn’t put it together. And maybe it was even worse than that. He’d had a passing thought that a larger than expected percentage of the things were rising up from the grass.
+
+What if they were? What if the demons were coming from beneath them instead of falling on them from above? How could you dodge something that might just fly right through the bottom of your foot?
+
+I want my movement trait.
+
+He clenched the putty ball he’d gotten the girl to give him tightly in his left fist. He still had Joe’s ring on that hand, and the hand was in his pocket. One more layer of protection. If he dropped it while his skill wasn’t active on it, the magic ring would hold it against his palm for a second. If he dropped it while his preservation was active, interfering with the ring, then his pocket would still be holding it. That should be enough.
+
+One of his real victories in his nightly lessons with the professor had been mentally weaving around the “loss of contact breaks entrustment” rule that came with the skill. To start with, he’d had to hold his item directly with his hands or another body part. But that had felt limiting and not quite right based on his understanding of what the skill did.
+
+After all, he was pretty sure his sense that he was touching the objects with his hands was itself manufactured in some way by the skill. He didn’t think skin-to-carried-item was really what was going on, so a rule requiring apparent skin contact was just a needless complication.
+
+Despite his initial enthusiasm for altering his perception until he could do earth-shattering things with the skill, Alden had since modified his expectations. He hadn’t been able to make many significant changes to the skill through the perception route. Joe assured him that it was an important thing to work on, but it was also clear to him now that it was never going to be some universe-breaking loophole for skill use. Instead, what he could manage was wriggling away from one reasonable assumption about the scope of the skill to another reasonable assumption.
+
+And then practicing it until it clicked.
+
+He thought he’d had fairly easy success with the “loss of contact” rule because it already felt like a point of confusion. If he preserved things by carrying them, then how could entrustment just end when he shoved a thing in his pocket? He was still carrying it, wasn’t he?
+
+He’d gotten the hang of it pretty quickly, and now he could tote preserved items around inside other things. As long as he didn’t let the ball rest in his pocket while his lab coat was dragging the ground, he’d still be bearing it with no help. The carriage wouldn’t cease, so the entrustment wouldn’t break.
+
+And as long as it didn’t, his trait should work. Where’s that switch inside me? That one that activates Azure Rabbit?
+
+Days ago, he’d been almost positive he could turn the trait on and off without the System’s help. At first, he felt around inside himself, but after a couple of minutes he decided it must not be the right tactic. Perhaps it was unnatural to look for such a literal ON button inside his own mind and body.
+
+If I was about to leap over something or duck or take any other action, I would just do it. Let’s try that.
+
+He focused on the feeling he’d had running to the lab that first day. The long, long jog that ate through the miles, the tiny adjustments to the way he moved until he got better at it.
+
+Take a step like one of those steps. Tweak your center of gravity. You remember what it feels like.
+
+It was hard. The demon bugs kept drawing his attention. And when he focused on his body, it made him hyperaware of the physical effects of his own fear. His pulse was too fast, his breathing shallow, his hands cold and clammy. There was a tightness in his chest like a rubber band that was about to burst.
+
+Alden Thorn—Dead of a Heart Attack at Age Fifteen.
+
+In a way, though, cataloging the tangible signs of extreme stress made it easier to deal with the emotions. He couldn’t stop his heart from pounding like it was trying to escape from his body, but at least the feeling was solid.
+
+It gave him a different perspective to approach the problem from. If the fear was something chemical and unavoidable happening to him thanks to his own animal response to danger, then all the effort he was putting into mentally crushing it with willpower and a can-do attitude was wasted. You didn’t will a physical reflex out of existence. You didn’t feel guilty about it.
+
+You just dealt with it.
+
+Easier said than done, but it was better than it had been. His mind was a little clearer.
+
+I am extremely terrified of dying on Moon Thegund, he admitted to himself. I am probably not going to stop being extremely terrified anytime soon. I’m a mess, and the trouble’s only just started. That’s…something I’m going to want to unpack. But not here.
+
+Not until I get back home to Aunt Connie and Boe and Jeremy.
+
+Now I just need to move.
+
+He turned his attention back to how he was walking. Get the feel of it right Make the power click on. Somehow.
+
+After a few minutes, Alden grew too invested in the effort, and one of the demon bugs approached him without him realizing until it was only a couple of feet away. He leaped away from it, and there!
+
+The trait was active. He’d felt it happen, like it had fallen into place through a combo of effort and adrenaline.
+
+He moved out of the demon’s path and re-checked his surroundings before trying to figure out what he’d done.
+
+It was like something that had been wound tight had loosened up. He tried to place the feeling inside himself, but that didn’t seem quite right. The effect was very close to him but more peripheral. Less of the “switch in the brain” feeling he’d had when the System activated the skill for him and more of a…
+
+Huh. That’s very weird.
+
+Alden tried to come up with a metaphor for the sensation of the trait’s activation so that he could make it sensible and repeatable, but the best description he could manage for himself was that it was the opposite of a feeling he’d had before. That creeping sensation when you walked down a dark alley and felt like someone was watching you…activating the trait himself was somehow giving him the opposite of that.
+
+Why is it so different? And I didn’t even know that creepy feeling had an opposite. What would you even call it if it did?
+
+The opposite of feeling like you’re being spied on? The opposite of being at risk? The opposite of a privacy violation?
+
+Security? No…having more personal space maybe?
+
+That doesn’t have anything to do with movement. What is this?
+
+Not quite trusting his own senses, Alden took several steps. Azure Rabbit was definitely working, exactly the same as before. Somehow it made the ground feel more solid than it had been a second ago.
+
+But the way he’d gone about making it function seemed illogical…and he was the one who’d done it.
+
+And what was even weirder was that he still had a faint sense of the un-creepy feeling.
+
+I guess it’s nice, he finally decided. Almost like it’s just a little easier to exist than it was a second ago. Finding existence slightly easier is good right?
+
+Plus, he was faster now. He was falling into using the trait well, just like he had before. It was a relief to know that if one of the zippier chaos bugs pelted toward him, he’d have that much more time to dodge it.
+
+The group rounded a curve in the road, and the buildings Alden had seen before appeared in the distance at the edge of the marleck field. The buzzing sound was louder now. The number of bugs was increasing.
+
+Soon, it would be impossible to avoid them.
+
+How long is this going to last? How bad is it going to get?
+
+As if in answer to his thought, the last few symbols on his interface flickered and vanished. For the first time in two weeks, Alden saw the world the way he’d seen it every day of his life until he became an Avowed.
+
+The System was gone.
+
+The first accident happened when they were only a couple hundred yards away from the square, white building that seemed to be their destination. A bug flew out of the ground right as the woman in coveralls stepped over the spot. Alden and the man in green cried out, but she couldn’t move away in time.
+
+The thing darted by her, brushing against her outer thigh, and she screamed. Her friends leaped toward her, pulling her out of the demon’s way, but there wasn’t any need. As if passing through her skin had hurt or altered it somehow, it wisped away into smoke like the one that had touched the teleportation alcove’s runes.
+
+Alden held his breath, wondering if the black dot was really gone or if it had just become particulate chaos that could get on their skin or be inhaled.
+
+In either case, the damage was done.A portion of the woman’s coveralls had dissolved and the injury was not all right.
+
+There wasn’t a lot of blood.
+
+It would have been better if there was.
+
+Stuart’s severed foot had been disturbing, but not in a way that made Alden’s stomach turn and his terror spike. The demon’s touch, however, had left a line of insanity on the Artonan woman’s thigh. It was partially a cut—a clean understandable slice. But the rest of it…a vein of metallic silver streaks bled into a patch of blackened rot that turned to something that looked like fleshy sawdust.
+
+What are we even supposed to do to help her?
+
+Alden thought if it was his own skin he’d want to cut it off, if only to make the wound look like a wound and not like something out of a worse kind of horror movie.
+
+I should offer to carry her.
+
+She was sobbing, leaning on the male scientist’s shoulder.
+
+Alden gripped his putty ball. If he tried re-targeting, so that she would be preserved and out of pain, he could fail. He’d lose the movement trait. And even if he didn’t…he couldn’t carry her forever.
+
+It didn’t seem like this disaster was a short-lived problem. The bugs were getting thicker. Whatever was happening, it hadn’t peaked.
+
+The risk seemed like a dumb one when he’d be trading certain long-term mobility for possible temporary pain relief.
+
+Just regular carrying then? Since she’s hurt, and I’m the strongest. Thenn-ar was burnt, and the other scientist was holding the bomb case.
+
+“I can carry her?” Alden said.
+
+They all looked at him.
+
+“Normal carry,” he added hastily. “No magic.”
+
+Thenn-ar nodded. She pointed to the woman’s leg. “Don’t —— it,” she said.
+
+Don’t touch it maybe? Right. They avoided touching even the spots where they saw the demon damage.
+
+But what did that mean for the injured woman?
+
+Alden forced himself to let the putty ball fall into his pocket, then he lifted her, careful not to let his fingers brush against the strangely altered flesh. Still sobbing, she grabbed him around the neck and held on tight.
+
+It was so much easier to carry someone who was helping out by holding on, but he had to remind himself not to squeeze her. He’d gotten a bit too used to gripping preserved things really hard, since they couldn’t be hurt and he was always scared of dropping them.
+
+He was relieved when he took a step and felt his trait working. It meant the putty was still officially under his protection. He’d known it should be, but still… in a situation like this he was extra paranoid about getting it wrong.
+
+When he got home, and the stakes were low, he’d start hauling all his preserved stuff around in a backpack to get used to it.
+
+With the added burden, Alden had to be extra cautious about avoiding the demons, but the other two helped him. He walked in between them, and they pointed out things he might have missed. Including, once, a place in the road where the hard, flat earth had a large divot in it.
+
+Anywhere else, that wouldn’t have been too concerning. But Alden had previously noted that Moon Thegund didn’t have a lot of variety in the terrain. He hadn’t seen a single pothole in the ground during his run to the lab.
+
+When they reached the white block building, Alden set the injured woman down. She wobbled, leaning on him, and took a pen laser from inside her coveralls. It took a while, but the male scientist used it to burn off the door lock.
+
+The interior was mostly private office spaces, arrayed around a central area that served as a break room. There were tables, chairs, a kitchen, and a sofa. They helped the injured woman into a chair, and Thenn-ar went to the sink. Water flowed from it readily when she touched her hand to the faucet.
+
+She brought it over and washed the strange wound by pouring it slowly over the surface. A bloody pool formed on the hard floor.
+
+Alden had no idea what else to do with himself, so he stood guard, keeping his eyes on the three demons that were drifting around the break room. He had an impractical urge to stand on his tiptoes, as if having even that much less physical contact with the ground would save him if one emerged beneath his feet.
+
+The male scientist fiddled with the small television on the wall. It came alive with a crackle, and he ran his fingers over the touchscreen quickly, bringing up several different images. One of them looked sort of like it might have been a communications screen, and Alden gave Thenn-ar a hopeful look.
+
+“Talk to someone?” he asked, pointing at the tv.
+
+Just because the System wasn’t working, it didn’t mean everything was down, did it? The Artonans were heavily reliant on magic and magical equipment, but it wasn’t like they didn’t have satellites. Radio, cell phone tower, smoke signals…Alden would gladly accept whatever kind of solution might exist out here in the middle of nowhere on the worse half of what was apparently a very bad moon.
+
+“No,” said Thenn-ar. “Maybe if —-?”
+
+But the man manipulating the television shook his head. He flicked away from the comm screen and pulled up a map. Alden assumed, based solely on the usual function of maps and not any ability to read the logograms on it, that it was of their current location.
+
+It was really plain as far as maps went. There were no lines to indicate the boundaries of patches of land, and there were few topographical markings. It was basically just some dots on a grey field, with a box out to the side that looked like it might be the key.
+
+Then the scientist touched something, and patches of purple, pink, and red spread across the screen. It looked a lot like a weather radar map. Mostly it was purple, but a pink blob was at the center, and in the middle of that was a small bright red dot. We’re probably at the center right?
+
+In the red dot.
+
+Thenn-ar asked another question, and the man touched another part of the map.
+
+The red expanded. Then expanded again. And again.
+
+A forecast?
+
+Alden hadn’t thought his mood could turn darker, but it did. The man swore. Thenn-ar closed her eyes.
+
+“How many…?” Was it childish to say “hours” when he knew that wasn’t likely to be the answer? “How many days?”
+
+They didn’t respond.
+
+“The red is bad? There are many red days?”
+
+“Many,” said Thenn-ar.
+
+“Too many,” said the man.
+
+“Someone comes to help?” Alden suggested.
+
+“You were someone,” the man grunted.
+
+Oh. Right.
+
+So that’s how it is.
+
+“—— the Contract?” the woman in coveralls gasped from the sofa. She was looking at Alden.
+
+“It’s not here,” he said blankly. “No Contract in this place now.”
+
+They all three stared at him with wide eyes. They hadn’t looked nearly as shocked when he told them the Contract was “bad” earlier. And that made sense, didn’t it?
+
+Alden himself knew that even if you weren’t an Avowed, the System existing was a fact of life. He’d never once been anywhere where it wasn’t. It was like being told that something fundamental you’d taken for granted had vanished from the world.
+
+“No Contract,” he said again. “Only us.”

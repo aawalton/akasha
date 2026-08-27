@@ -1,0 +1,149 @@
+---
+id: fae6661d-bc31-5d73-92fe-e148aad26282
+page-type-slug: story-chapter-royal-road
+title: "Chapter 405 : Corruption Barriers"
+slug: 0107-chapter-405-corruption-barriers
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 107
+ownLength: 2690
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3700385/chapter-405-corruption-barriers"
+royalRoadId: "3700385"
+---
+
+One thing was certain: after bypassing the barrier, I had entered an almost entirely different section of the labyrinth. Twisting mazes were instead replaced with gates and barricades trying to prevent further entry, and the air itself had a corrupted taint to it. Fortunately, such barriers were meaningless to me, and I could bypass them with a simple teleport.
+
+It didn't take me long to find another room filled with demonized monsters, which I took care of with only a fraction of my magical might. Defeating them even gave me enough experience to level up, bringing me one step closer to the next milestone.
+
+<Class Experience threshold reached. Riftmancer is now LV 17.>
+
+<28 Skill Points are now available.>
+
+At least the demonized monsters seem to give decent-ish experience. Well, more specifically, the ones that happen have classes.
+
+In the latest batch was a demonized human knight, which seemed to further suggest that they were once explorers of this place, or perhaps its defenders, corrupted over time. Interestingly enough, I tried to use my [Banisher] Emblem, but it had no apparent benefit on these demonized creatures.
+
+First [Dungeoneer], then [Banisher]: I was having bad luck with my current collection of Emblems. However, I decided I'd keep the latter equipped just in case summoned demons eventually appeared within this labyrinth.
+
+One thing that gave me pause was the theme of this place: why would there be black slime here if it seemed to be all demons? I left a note with the question addressed to Sylvester and actually received a reasonable answer back.
+
+"They feed off where there is a lot of negative energy. You could almost call them the cleaners of that particular labyrinth who happen to also be very decent guards."
+
+That makes sense… Okay! I'm getting excited! Let's see if I can find one before bedtime.
+
+Despite my hopeful ambition, that didn't happen. I cleared out a few more rooms before finding myself having awkwardly returned to the outskirts and the maze portion of the place. After consulting my [Map], I realized I must have somehow found the entrance to this deeper segment from the right path at the very beginning.
+
+Dammit, well, at least I know which way not to go now.
+
+I ended up setting up a small base since I couldn't teleport out directly. I conjured rock and built myself a little home to sleep in, giving the illusion that I was defending myself. I pulled out some food and ate as usual, hoping to keep up my act.
+
+I gave orders for my [Sub-Cores] to defend while I rested, as usual, and if they encountered a black slime, to wake me up. I was really hoping the master of this place would send one to attack me while I was "defenseless" during the night.
+
+I woke up the next day to no signs of any attacks, much to my disappointment. Evidently, choosing to sleep in the maze portion of this place meant that I was free from having to deal with roaming monsters.
+
+But it would be weird for me to willingly sleep in the corrupted area, even though it would improve my chances of getting what I want.
+
+I mentally sighed and just hoped today would bring about better results. When I retraced my steps, I encountered more demonized monsters; either they had respawned or had crawled up from the deeper depths in an attempt to break free. I also confirmed my suspicion from yesterday by eventually finding another massively reinforced barricade, which confirmed that this was the right-hand path's entrance to the deeper section.
+
+Sadly, the monsters I dealt with this time were all small fry, meaning very little gain in the experience department. I wondered whether the owner was cheaping out on me or following certain rules. I only had a very surface-level understanding of how [Dungeon Masters] operated; I couldn't hope to know how a "Labyrinth Master" operated.
+
+Fortunately, as I went deeper down the correct path, I eventually gained a little understanding of how this particular place worked. I came across a translucent magical barrier that apparently blocked the way, but when I touched it, I passed through without any issue.
+
+That was when I saw a pack of demonized monsters rushing toward me, and as I retreated back a few steps, I saw almost all of them blocked by the barrier. The exceptions were all small monsters, creatures like demonized rats, while the others were forced to pound on the barrier.
+
+After effortlessly killing the rats, I observed the barrier and noted that the medium-sized monsters were now starting to push through, while the most powerful monster, which looked like a demonized minotaur, had made no progress at all.
+
+The weaker they are, the quicker they can bypass the barrier? That seems wrong, shouldn't it be the opposite?
+
+I wasn't even sure where to begin deciphering this. None of my enchanting knowledge came in handy, and trying to study it under the lens of a spell construct was also futile. I figured it might not even be magical in nature; it could be some kind of lost ancient technology or an ability of the owner of this place.
+
+At the very least, this explained why the replenished monsters I'd encountered were all weak, as they were the only ones who could breach this barrier in a timely manner. Assuming there were more barriers like this located deeper, then they would be consistently delayed as they attempted to approach the exit.
+
+I wonder if there's a precept that they have to spawn from the heart of the labyrinth and slowly make their way to the outskirts? That would at least give the impression that the demonic corruption was slowly trying to escape from this place.
+
+I would have thought I'd be prevented from attacking through the barrier, but to my surprise, that wasn't the case. It seemed that anything not considered demonic, including magic or projectiles, could pass without any issue. It was like shooting fish in a barrel, and I was able to make short work of the remaining monsters before they could breach.
+
+Without anything to distract me, I tried interacting with the barrier some more, but gained no further insight. I wasn't demonized, so I could freely move through it, although that did make me wonder if, after spending some time deeper in this place, that would slowly change.
+
+If I spend too long and become tainted with corruption, would the barrier see me as a valid target? Then again, I don't think it could stop me from bypassing it by simply tearing open two apertures.
+
+If my theory about slowly being corrupted was right, that meant that there had to be a way to cleanse yourself within, either through an item or perhaps a special room. Or, maybe the intention was more insidious, forcing you to beat the final challenge to escape.
+
+Well, regardless, I fully intend to beat this place, no matter what.
+
+I crossed through the barrier and began exploring beyond it. At the same time, I was observing myself with [Soul Sight], as it was the only way I could currently see the demonic energy, and I was very curious to see if it would slowly corrupt me.
+
+I wonder if there's a resistance that can be trained like this? Let's ask.
+
+I left the message and, after some time, received a rather disappointing reply. My question went unanswered, and in response, I received a scolding from Keldenar through Sylvester.
+
+"Stop asking so many questions and just enjoy the challenge!"
+
+I know he's probably right, but still, he didn't need to be so stingy about it.
+
+If there was a resistance to be trained to resist demonic corruption, I'd certainly see signs of it soon, as I made sure to keep [Untapped Potential] in my actively borrowed traits. At only a single trait point out of my passive budget of eighty-one points, it was a steal, and unless my current form prevented me from taking it, there was no reason not to keep it permanently running.
+
+As I explored beyond the strange barrier, I began seeing more signs of previous inhabitants: dormitory barracks, personal living quarters, perhaps a mess hall, and even the remnants of an armory with some unclaimed weapons. I picked one up and gave it a glance before tossing it aside.
+
+"Trash."
+
+It was still hardly acting. I'd seen Sylbera forge a better sword, and it wasn't even enchanted. Sadly, it seemed my act hadn't produced the result I wanted, and there was still no sign of the elusive black slime.
+
+I ran into more demons instead, and after taking care of them, I began reanalyzing the situation. I'd proven that direct attacks didn't really work against me, but there had been no ambushes so far. I then thought back to the information I'd received yesterday.
+
+Keldenar called them cleaners… Maybe I am going about this the wrong way? If they feed on negative energy, shouldn't I look for an area here that is suspiciously low in it?
+
+With [Soul Sight], I was perfectly capable of detecting any abnormalities; beyond the barrier, it was practically drowning in the energies. I still had zero sign of it affecting me, which either meant it was an extremely slow process or perhaps I was already immune to it.
+
+I did eat a pink slime… If anything was going to make me immune to any evil energies, that would be it.
+
+Scouting around new areas wasn't revealing any discrepancies, so I started retracing my steps, and after nearly retracing all the way back to the strange barrier, something finally caught my attention. Rather than sensing an absence of energy directly, I noticed that the nearby energy was rushing towards something as if trying to fill a gap.
+
+I followed the trail and eventually found a corridor that went into various long-abandoned personal quarters, where I'd previously dispatched a few demonized monsters lurking around. [Soul Sight] revealed that the corridor and rooms were surprisingly thin on the ambient dark energy, and I could barely control my excitement.
+
+I think I found you… Okay, let's make sure it doesn't run away.
+
+From what I knew about black slimes, they kept their cores well hidden, likely from the spawner, which took direct control of them to ensure their safety. Even if it was a natural ability of the monster to control its slime at a distance, I didn't think they had the intelligence to exhibit such levels of self-preservation.
+
+But as long as it doesn't have any movement abilities, I should be able to catch it as long as it enters my range. I'll exude the full power of [Personal Rift] to ensure I capture that slime core, no matter what.
+
+I cautiously entered the passageway, wanting to keep up the appearance that the role of hunter and prey hadn't been reversed. [Spatial Sense] and [Personal Rift] were being combo'd together to provide a blanket of surveillance, hopefully unbeknownst to the master of this place.
+
+Come on… Take the bait… I'm in your territory now, aren't I?
+
+Right as I was pleading for something to happen, I finally sensed some movement. Creeping along the ceiling from multiple directions were loose blobs of slime. I practically had to bite down on my tongue to stop myself from giggling with delight.
+
+It really can move without a core! What trait is that? I need it!
+
+My only issue now was to discover the slime core, as I had no idea where it could be. I could only go off my assumption that it had to be nearby, not only to retain control over the slime but also to sense my position.
+
+It's probably using [Life Sight] to see me, and considering how healthy I am, I'm probably like a glowing beacon to it. The fact that I can't see it with [Soul Sight] might also mean it has a way of obscuring its lifeforce, either through its unique slime trait or maybe even a brand new one. Regardless, once I get my tendrils on its profile, I'll have it all!
+
+I continued walking, acting as if I was exploring for any left behind loot while feeling around for its core, or more of its slime mass by having my rift fully manifested around me. The walls and doors to the various rooms caused minor interference, but it was nothing compared to the actual walls in the maze. As long as I could correctly process all the entities and their coordinates, I had a complete image of everything within reach.
+
+Once again, I had to give credit to my [Sub-Cores] as alone I wouldn't be able to handle so much information, yet they diligently sifted through it all for me and provided it back in digestible chunks that I could manage. Through this method, I noticed more traces of its slime, which weren't moving but stood idle as they ever so slowly swelled in size.
+
+So it spreads out and has each individual blob gathering for it. Will I be able to do the same thing? Cause this seems like a good way to get some free slime mass over time if that is the case.
+
+Ever since the [Slime Conversion] fiasco, it almost seemed as if Gramps, or someone else, was preventing me from having a reliable way to passively gain more slime mass. Honestly, I didn't really need it, and if not for [Core Storage] recently receiving an upgrade, it would be near bursting after all the eating we had done.
+
+I started heading towards the dormant slime mass, hoping it would lead me to the core I so desperately wanted while keeping an eye on the slowly approaching slime. The creature honestly had more patience than I, as it was approaching at basically a snail's pace. I wondered if this was how it normally behaved, perhaps due to a lack of confidence in its stealth capabilities.
+
+I mean, fair enough. I instantly detected your slime mass moving, so you aren't exactly the best at stealth.
+
+When they eventually neared me, I had expected an attack from all sides. There were four blobs of slime in the attack squad, and I had found five small blobs set to gather so far. There was still no sign of the slime core, and I was beginning to think that it might be in range and I'd only spot it if it moved.
+
+That better be the case, or I'll literally flood this entire passageway with slime to get what I want.
+
+I was still trying to be polite, but if push came to shove, I'd drop all pretense and risk angering whoever ran this place. Nothing would come between me and a brand new slime core, especially not one with abilities that I absolutely craved.
+
+Here it comes!
+
+One of the blobs was within range and, after retracting into itself like a spring, flung itself at me. I flinched and spun around, pretending my normal senses had noticed it. In response to the slime, I defensively cast [Ice Dome], almost instantly manifesting a protective layer of frost that blocked it before it could reach me.
+
+The black slime splattered across the barrier, quickly adhering to it and squirming its way across the clear surface to try to find a way to reach me. As much as I wanted to let it touch me so I could eat it in return, that would accomplish nothing while revealing what I really am. I needed the core, so my hunger for rich slime mass had to be pushed aside.
+
+"Dammit, a slime, I should've known this was a trap!" I yelled out, hoping my acting was still up to scratch without the use of [Acting] or [Roleplay].
+
+Instead of fighting the blob squirming across the icy dome, I ran away from it, which was perfect, as that was where the dormant slime blobs were. I just had to hope my actions would eventually cause the black slime core to finally reveal itself.

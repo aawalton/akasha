@@ -1,0 +1,141 @@
+---
+id: a5a00c80-5026-58d3-b989-3419a3ed8623
+page-type-slug: story-chapter-royal-road
+title: "Chapter 336 : Volcano Rumble"
+slug: 0037-chapter-336-volcano-rumble
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 37
+ownLength: 2113
+unit: words
+ownProgress: 2113
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2934476/chapter-336-volcano-rumble"
+royalRoadId: "2934476"
+markedReadAt: "2026-06-29T19:43:02.242Z"
+---
+
+When Vee teleported near the volcano, a foreboding sensation permeated the air, causing her to halt the movement combo chain. She immediately glanced around, even going as far as to use [Spatial Sense] to double check, but she couldn't find any hidden threat.
+
+That's weird…
+
+Thinking maybe she had imagined it, Vee tried to teleport again, only to find she moved half the distance she intended. She was using [Blink] for more casual movement, hoping to level up her [Dimension Magic] and improve her spellcasting at the same time, but this had never happened before.
+
+Again, Vee scoured the area with everything she had, and while she wasn't on Syl's level of super senses, she still could hold her own. Yet, once again, there was nothing.
+
+Did I mess up the spell because I was spooked?
+
+Vee shook her head and this time used [Veil Step], aiming to land at the peak of the volcano. Fire was still a significant weakness for her, but thanks to the rings Syl gave her, she was well protected, so she was confident in getting near it unharmed. But as she was beginning to fade away, she felt like she had hit a brick wall, which had never happened before.
+
+What!?
+
+Vee was shocked—what could stop her from using [Veil Step]? This was her signature skill from an advanced class! But before Vee could begin to ponder, suddenly a siren blared out across the island, originating from the volcano. To others, they might have thought it was something similar to what the dwarves had done when they were besieged, but to Vee, it sounded oddly familiar… Like something from her world.
+
+Is that an air raid siren!?
+
+Vee immediately tried to teleport backwards and found her partial retreat successful. It seemed the volcano was not only the source of this noise, but also what was preventing her from teleporting near.
+
+Is it not a volcano at all? Vee wondered and then threw out a half-hearted [Identify].
+
+<V-Fort-001.>
+
+Now Vee was genuinely startled. The volcano had a name, except apparently it was a fortress? Was this the mermen base?
+
+I know they are supposed to be evil monsters, but do they really live in a volcano lair?
+
+Vee wished Syl were here, as she was feeling a little nervous about this unknown potential threat. But it soon faded as she reprimanded herself—she was a tier five monster with an advanced class! And if she got serious with her [Rift Thread], what could truly stand up to her?
+
+Syl isn't the only one who can kick ass and chew bubblegum. Time to show them that this spider means business!
+
+Vee felt confident that she could escape if things got truly dire. While she couldn't teleport directly towards this threat, she had already proven that she could teleport away unrestricted. This wasn't like the elf prison that locked down all coordinates.
+
+For once, Vee returned to her full size, so she could cover more ground, and raced forward. To anyone who saw this, it would have been quite a terrifying sight: a large, ominous black and purple spider, larger than a dire bear, charging at you.
+
+The siren blared louder as if warning her to retreat, but Vee continued without hesitation. She was even growing to suspect that this warning was all bark and no bite, something to just scare off opponents.
+
+Right as Vee was growing confident that she was right, a hole formed near the upper portion of the volcano, and something cylindrical emerged. Vee tensed up with caution as it swiveled and turned towards her before a deafening blast erupted, and a large cannonball was flying straight at her.
+
+They have a cannon!? Vee was flabbergasted, but only for a moment as she snickered to herself. Well, they will need a lot more than one cannon to stop me!
+
+Vee's Mana surged as she fired a ball of acid straight at the cannonball; the two met, and magic won the confrontation as it ate straight through the projectile. Vee was flaunting her victory when suddenly two more holes opened up and aimed straight at her.
+
+Oh… they have three.
+
+Vee was hoping they would fire all at once so she could stop it with one magical wave of acid, but whether intentional or otherwise, her enemy didn't do that. Instead, they delayed their shooting, seeming to hope to catch her off guard.
+
+Vee snorted, slightly annoyed that they were underestimating her as hundreds of webs hidden across her body came to life. Vee countered one cannonball with magic, then, using [Thread Mastery], she grappled and flung herself to the side, easily dodging the cannonball that exploded into a crater.
+
+Vee continued her advance, dodging and countering cannonballs with grace. Eventually, two more holes opened, but even with five cannons, they couldn't land a blow against such an agile opponent. Vee had already had quite a peak body in terms of attributes, and the legendary fruits she ate in the dungeon had brought her to new heights.
+
+Wanting to be more proactive, Vee started including additional spells in her casting aimed at destroying the five cannons. The first few shots were misses, or the spells fizzled out as they exceeded their maximum range, but thanks to [Mana Shaping], she was able to refine them on the fly.
+
+In no time at all, Vee had created an "acid rocket" since she refused to call it an arrow at this size, and cast it straight at one of the cannons. It was looking to be a direct hit, but to her surprise, it struck an invisible barrier that seemed to be covering the hole.
+
+Shit, really!? Vee cursed until she noticed the barrier was flickering as the acid continuously assaulted it. A short few moments went by, and the barrier fell.
+
+Immediately, Vee fired out another spell, and this time, with nothing to protect it, she scored a direct hit, destroying the cannon in an explosive burst. She was expecting to receive a kill notification for the cannon's operator as well, but nothing happened.
+
+Hmm… Guess I'll need to hit them harder then!
+
+Immediately, Vee began casting more, and that was when the volcano started to rumble. Vee briefly thought the volcano was going to erupt until she noticed that the source of the noise seemed to be coming from the shifting of rock.
+
+The lower section of the mountain opened horizontally, and that was when a wave of lava burst out. Vee gasped in surprise, as lava was supposed to be slow from her memories, this wasn't pressurized water after all! And yet, somehow, it was hurtling across the ground towards her while also spreading out and creating a deadly perimeter.
+
+Hoping to stop me from reaching you, huh?
+
+Vee had to admit it was a good strategy and would stop almost anyone from approaching from the ground. But, Vee wasn't limited to the ground, and she used [Veil Step] to teleport straight up into the sky.
+
+As she suspected, nothing stopped her from teleporting "away," but Vee had other plans. Her webs got to work as she shrank to a more reasonable size and spread out her legs. Using [Thread Mastery] and [Advanced Weaving] from her profession, she rapidly created a makeshift glider, using her legs as the skeleton while weaving between them.
+
+Vee could have done this before, but she still hadn't fully gotten over her fear of heights. Sadly, even though she knew it was an irrational fear, as she had magic and more to stop herself from becoming a victim of gravity, she couldn't bring herself to do it. Only now, as her adrenaline was pumping from the battle, could she momentarily overcome it and willingly glide down.
+
+Let's see you try to stop me now! Vee taunted.
+
+As if in response, more holes opened up on the top of the mountain. However, Vee was no sitting duck, and as they fired, she began to maneuver out of the way, falling back on magic to protect herself when the situation called for it.
+
+Thanks to [Aerial Finesse], Vee rapidly improved her control and soon didn't even need to use magic defensively any longer. Thus, she turned to offense once again and began targeting the cannons. Vee destroyed two more cannons while she approached, but weirdly, there were still no kill notifications despite her boosting the spells after breaking the barriers.
+
+Vee decided to shrug it off; she was nearly there, and the cannons had even stopped firing, as if they had surrendered. She felt victory was in the bag when suddenly all the cannons fired at once, and instead of cannonballs, they fired a large burst of shrapnel.
+
+Flak!? Vee cried out in astonishment.
+
+She had been extremely confident once she took to the sky, as she assumed this world's inhabitants wouldn't have thought of this method against aerial foes. Still, she wasn't too worried, and since they had fired at once, she cast a wave of acid like she had planned.
+
+As the large-scale magic and the projectiles met, Vee felt confident. Only her expectations were dashed as she saw a large number of the projectiles surviving the acidic wave.
+
+Shit! Vee cried out and immediately used [Veil Step] to teleport up and away.
+
+Vee's afterimage was assaulted by the shrapnel that passed through it, causing her to glare angrily. She hadn't expected such a devious trick to get through her acid magic.
+
+Okay, no more nice spider. If you want to play dirty, then so can I!
+
+Vee commenced teleporting around in the sky, trying to find the closest position directly above the volcano without interference. Once she found it, she started pulling out [Rift Thread] by the truckload. At the same time, she used [Dimension Magic], directing it towards the web while using [Mana Shaping] to enforce her will.
+
+This should work. I want to lock the coordinates so the web stays in place!
+
+Vee kept trying to force the spell to do what she wanted, relying on her gut feeling and past conversations with Syl to make what she wanted. Hell, Vee was the one who had even originally brought up the idea of loops to Syl, so she felt like she had to do it!
+
+Creating an infinite loop of [Position] and [Positioning] was easier said than done, especially in a rush job. However, not only was [Rift Thread] highly compatible with dimensional Mana, but Vee was actually a dimensional class! This combination meant that things were progressing far smoothly than they should, and [Mana Shaping] would fill in the gaps.
+
+Things seemed to snap into place, and soon the spur-of-the-moment idea Vee had come into reality. The point in the thread she had targeted suddenly became fixed in position, refusing to move. Vee hung from the thread, no longer needing to worry about gliding or teleporting to remain airborne.
+
+Vee giggled in delight. Now that she had an anchor, she could construct a web right in the air! Using [Thread Mastery], she flung out another web across a distance before trying to cast her makeshift spell again to create another anchor point.
+
+Vee fumbled a bit with the spell as she didn't have Syl's ability to flawlessly recreate things on the fly. Still, the feeling remained clear and vivid in her mind, so she didn't have too much trouble. To her surprise, as the second-dimensional anchor was cast and locking another point of the [Rift Thread] in place, a flurry of notifications erupted in her head.
+
+<Spell [Lock] discovered.>
+
+<Awarding bonus proficiency experience for early discovery.>
+
+<Proficiency gained. [Dimensional Magic LV 5] improved to [Dimensional Magic LV 6].>
+
+<[Dimensional Magic LV 6] spell [Lock] already learned.>
+
+Vee blinked a few times in confusion at the notifications. From what she could tell, she had accidentally crafted the spell she would have gotten at level six.
+
+If Syl finds out I've gained more levels before her, she's going to be so mad!
+
+But Vee didn't have time to dwell on it for too long, as the volcano fortress had already found her new location and fired a shot at her once again. Evidently, the source of the delay was them swapping back to cannonballs, as the flak wouldn't reach her current position.
+
+Too bad for you, the kid gloves are off. If you thought [Corrosion Magic] was bad, you've never messed with [Dimension Magic]!
+
+With the cannonball approaching her, Vee cast [Lock], using the official version this time, and watched as the projectile was instantly suspended in the air. Vee cackled with delight at the result, feeling more powerful than ever.

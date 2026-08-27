@@ -1,0 +1,277 @@
+---
+id: c71314e2-3b48-5633-85c0-254be26aca0a
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-FOUR: Here-to-There IV"
+slug: 0226-two-hundred-twenty-four-here-to-there-iv
+partOf: super-supportive
+position: 226
+ownLength: 3537
+unit: words
+publishedAt: 2025-06-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2359259/two-hundred-twenty-four-here-to-there-iv"
+royalRoadId: "2359259"
+---
+
+224
+
+******
+
+The first sign something was coming was a tock sound, so insignificant that Alden didn’t even realize he’d heard it among all the other noise until Stuart spun, attention suddenly fixed on Emban’s back even though he had been in the middle of a sentence. Ryada-bess was landing, light-footed, on top of a crate beside Emban in the next second, and it was only a couple of blinks longer before Bithe was with them.
+
+All three squadmates were together, just that fast.
+
+“I’m sorry,” said Emban, perhaps in response to the worry on Bithe’s face. “I did it by habit. There is something strange out there, though.”
+
+Alden remembered the tock then and knew it had come from her direction. Even as he connected everything, he doubted his own assumption that people in a lighthearted mood had responded so quickly to a small sound like that. Nobody else on their hauler or in any of the vehicles around them was acting differently at all.
+
+It was like the knights and Stuart had taken a step away from the party, unnoticed by all the other guests.
+
+“I’m sure it’s nothing dangerous, but what is it?” Emban said.
+
+Ryada and Bithe were on either side of her. Stuart hadn’t left his spot by Alden. Alden pulled his own eyes away from them all to follow the direction of their gazes.
+
+Something was rising up from the desert’s scorched surface.
+
+Animals?
+
+They were still distant, but they seemed to be choosing their own direction instead of being driven by the winds as they flew into the air. The two Emban had spotted were joined by two more, then a fifth. The way they flapped around each other was peculiar. Alden couldn’t make out much detail, but they moved more like he imagined animated blankets might than like birds.
+
+“What are those?” Stuart said, sounding curious, not worried. “They look like koobas.”
+
+<<Skin ghosts,>> the translation informed Alden. <<Mythological.>>
+
+Skin ghost doesn’t sound friendly. Glad we tacked on that mythological.
+
+“They do look like koobas.” Ryada glanced around at Stuart before returning to her own study of the things. “And they’re coming this way.”
+
+The flapping mysteries had stopped circling each other to fly in a V formation, pointed toward the caravan. The closer they got, the more obvious it became that they were large.
+
+“Sorry if this is a stupid question, but there aren’t any dangerous flying creatures in this desert, are there?” Alden asked.
+
+“There’s a venomous bug that can kill people, but it’s no larger than the end of your thumb. And the population is confined by magic to isolated areas far from here. Those things resemble no real creature on the Mother. They’re the creations of some wizard.”
+
+Stuart had slipped off his private conversation ring. He motioned for Alden to pass his own over.
+
+Alden thought he was the only one who was still tense. Emban’s warning sound had put her squad on instant alert, and they remained focused as the things approached. But their stances had relaxed. Stuart looked more like he was solving an equation than worrying.
+
+They were on Artona I, Alden reminded himself. And protecting the Here-to-There was a mix of meaningful ceremony and roleplaying activity. The dangers were all social. Embarrassing yourself or your traveling companions, ruining the day for the people they were supposed to be caring for, angering somebody who’d hold a grudge—those were the risks.
+
+A person could be hurt by mistake. One of the kids in another group had fallen while horsing around and was now sporting a smear of yellow paste on the arm he’d scraped. But if things called skin ghosts tried to eat their caravan, they could all be standing in a teleportation chamber in a second. Or the mythological creatures could be zapped into outer space if that was easier on magical resources.
+
+So what was this?
+
+It wasn’t long before others noticed what was going on. People were doing a remarkable job of not flicking an eye toward the knights, the Primary’s son, and their human Ryeh-b’t servant too frequently; but they were definitely pretty aware of them. Over the next few seconds, a murmuring began as the entire caravan discussed the flapping things.
+
+Alden’s eyes widened, and he heard a couple of people gasp as more of them suddenly rose from the sand to join their fellows in the air. These were smaller ones, but there were at least a couple dozen of them.
+
+“They’re coming from that way, too!” someone called.
+
+“A big one just skyed itself ahead of us.”
+
+“My fellow protectors!” Leeter-zis’s words were a bellow that made Alden lose his count of all the little ones that were appearing. “Look at these foolish koobas! They are rising up to feast on us as if we are weakened by these vast famine lands we’ve crossed. Though our journey has been long—”
+
+They’d left the village less than half an hour ago.
+
+“—our purpose is strong and our casting bones aren’t broken.”
+
+“Wizards do not have casting bones,” Stuart whispered to Alden. “Those are out of stories. Like the koobas.”
+
+“Stop the vehicles! Stand where you are and fight!” shouted Leeter-zis. “Fight these enemies fearlessly!”
+
+Several of the wizards were giving Leeter-zis’s back annoyed looks. But most of the ordinary class members were smiling now, and the kids were ecstatic.
+
+“Beat the koobas!”
+
+“Use your casting bones to beat the koobas!”
+
+“We have all the special ones!” yelled the boy who’d been eating Alden’s yovkew. “Our hauler has the special ones and the human too! It’s the safest!”
+
+Emban, Ryada, and Bithe all winced or stiffened at that. Alden heard Stuart make a tense, short noise, like he’d started to groan and cut it off quickly. His head jerked from the incoming “koobas” to the bare, striped back of the wizard on top of the cart.
+
+Alden thought he understood the problem. He didn’t trust his understanding enough to provide the solution that popped into his head out loud, though. Not himself.
+
+[Those koobas may not even be worthy of bothering the knights,] he wrote in a text to Stuart. [They’ll have to prove themselves against wizards and Avowed first.]
+
+Stuart read the message. He repeated it in a shout, not quite word-for-word, but with the same sentiment.
+
+Then he looked at Alden. “Choose your shield.”
+
+******
+
+******
+
+The only dangers were social, but…both humans and Artonans were social species. Public humiliation felt horrible even if you weren’t someone obsessed with your image.
+
+Alden had gotten beaten up a lot since joining CNH, and he’d learned how much easier it was to leave physical pain behind on the floor than it was to forget embarrassment. Reinhard was being such an asshat because he’d lost to a B-rank in a funny-looking way. And Alden was sure Hazel Velra would have preferred it if he’d pushed her off a low roof instead of saying he didn’t like her and thought she was abusive with her powers in front of a bunch of filming drones. He’d barely thought of her since it happened, but when she did cross his mind nowadays, that one video that had transplanted her screaming face on top of a foil-wrapped burrito always popped into his thoughts seconds later.
+
+Your screw-ups changed how people saw you. Alden wasn’t going to waste sympathy on Hazel for the “bratrrito” meme, but Emban, Ryada and Bithe deserved better than being put on the spot like this days after their affixations. Emban had chosen an activity for them that should have allowed them to honor their responsibilities to the ordinary class without actually requiring any spells from them other than what Stuart could handle.
+
+Nobody had gone into all of the details with Alden, but he’d caught the edges of enough conversations today to know that they were counting on material wealth and their knight uniforms to make their presence here the gift it was supposed to be. That pile of presents Stuart had sent ahead to their final destination was all really good stuff, and the uniforms enhanced their physical abilities. Their votary filled in the blanks. It should have been enough for a moving day celebration.
+
+Nobody could have expected spontaneous combat theater.
+
+Leeter-zis’s surprise might be okay.
+
+Alden had his shield now, and what a shield it was. He wanted to do nothing but think about it, but he had a lot of koobas circling the caravan to watch. He had a job to do.
+
+They were gathering overhead, casting shadows and shimmering in dark, iridescent colors. They really looked like blankets with mouths. Alden thought that was mildly creepy, but the kids, and plenty of grown-ups, were excited.
+
+About the koobas. And about Alden, too.
+
+The Avowed stood proudly at the front of their hauler, an elemental shield in one of his hands, guarding the wizard whose nimble fingers wove magic with an auriad. The brave knights all had their heads together, discussing strategy.
+
+At least that was what Alden hoped they were conveying to their audience. In reality, the knights were probably clueless about what to do until they had the chance to see how the koobas responded to attacks, and given how Stuart kept glaring at Leeter-zis, he might very well be planning to obliterate the entire flock in a single cast to avoid this whole event.
+
+It might all be okay if Leeter-zis’s creations will “die” to a physical blow, and if they come down here where we can reach them. As long as it’s not strictly a long distance spell-shooting game.
+
+He didn’t want Emban to have to force herself to use her skill to save face, and he didn’t know if Bithe and Ryada could have done much with the koobas even if their skills weren’t agonizing to use right now.
+
+She turned life to water, and he “mesmerized” and burned. It seemed likely the mesmerizing part was also life-specific. Unless Leeter-zis was twisted, the koobas should be objects, not mutated animals.
+
+Looks like we’re about to find out.
+
+“They’re coming!”
+
+Alden prepared for the possibility that he might be about to suffer some humiliation so that the others wouldn’t.
+
+If I get demolished by a toy we can all laugh it off as me being just an overly ambitious Ryeh-b’t, right?
+
+He was glad he was already flushed from the heat. It meant nobody could see him getting any redder as he dramatically called out a challenge to the incoming enemy and raised his shield toward the sky.
+
+******
+
+******
+
+The shield needs to look cool, not like the usual random junk I use.
+
+That was what he’d been thinking in the moments after he and Stuart had declared themselves the ones who would test the enemy’s worth. He’d hurriedly dug through his bag, coming up empty-handed except for all his everyday stuff.
+
+I guess it’s fine to use what works, if that’s all I’ve got, but what if a plastic raincoat is disrespectful to the whole protector roleplay? The family Bithe’s got is so particular about things. They looked at me like I was threatening them when I offered to carry their family stone.
+
+Stuart had explained it was an overabundance of caution. If Alden spilled his alien blood on their stone it might make it less aligned with the bor family. Theoretically. But they’d taken it a couple of steps further and decided him carrying the stone slab with his magic might also be dangerous for it. They didn’t want him touching half a dozen other items either, like their ancient wevvi cups, because they’d gone past even normal Artonan levels of respect for significant objects and rituals into the realm of superstition.
+
+No biggie once he understood what was up with them, but he was suddenly worrying that a poncho shield would disrespect the entire Here-to-There in their view.
+
+Can I borrow something from one of the other families? What’s the etiquette on…wait, my water bottle.
+
+An idea blossomed. His bottle was almost empty, but the jugs he’d been refilling from were right over there.
+
+[I’m about to make a puddle!] he texted Stuart. [Entrust me with it!]
+
+Because he was nervous and rushing, he’d forgotten that plucking liquid from a flat surface was a harder mental exercise for him than some other things he’d tried.
+
+He knew he could do it, but he accidentally grabbed a large droplet of water instead of the whole thing the first time, and the second time, he messed up because he was trying to pour himself a functional handle while lifting. When he texted Stuart to ask him to entrust it yet again, he found the Artonan was already standing beside him.
+
+“Here.” Stuart bent and poked the end of the wand he’d been using to levitate things around all day into the water. “I’ll pass it to you.”
+
+When the water rose from the floor of the hauler, Alden’s first thought was that this wasn’t going to be very helpful. It was obvious that the levitation had just created a pane of lift beneath the water. Almost exactly like a floor, only elevated and unseen.
+
+As if to confirm that, Stuart said, “You’ll have to grasp it from the top. You won’t be able to touch it from underneath while I’m levitating it with this. Give me the jug. I’ll pour a handle for you.”
+
+Well, now this is a whole project, Alden thought as he placed his hand in the center of the water. Sure enough, it felt like there was still a floor beneath it. Are we taking too long?
+
+No. He’d rushed since the moment this all started. His thoughts were just racing ahead of his actions at a babbling rate that made him feel like he wasn’t moving fast enough.
+
+The wizards in the caravan around them were still yanking things out of pockets, trying to figure out what they were going to do, too.
+
+Still, it’ll be unfortunate if I fumble the pick-up while Stuart’s trying to help me with it so directly. We might end up standing here pouring water on each other with an audience.
+
+“Take it,” Stuart said, staring at Alden’s open palm while he flooded it with extra water from the jug. “As soon as I let the stream stop flowing, pick up the water, but pick it up a little bit slower than you usually do.”
+
+“What?” What?
+
+“Use your skill more slowly,” said Stuart. He was speaking calmly, but insistently. “Only the tiniest amount more slowly, so that you can choose an instant when the handle is good for you. Take this water from me like that.”
+
+It doesn’t work like that. The preservation is instantaneous. Total. There is no slow. Only yes or no.
+
+“Stuart, you know it doesn’t work like that, don’t—?”
+
+“Now. Take it now. But slowly.”
+
+The stream cut off.
+
+A few things happened at almost exactly the same time, preventing Alden from separating them into single, easily digestible bites.
+
+Alden thought he would try it Stuart’s way because Stuart was someone who—
+
+Stuart, Stuart himself, was suddenly beside Alden’s self. He felt a very light touch against his place in the universe, like—
+
+Slowly wasn’t how The Bearer of All Burdens preserved things, but in trying to follow Stuart’s instructions, he found something within himself that could be slower. There was a part of the process he hadn’t been aware of.
+
+Oh. What is this?
+
+The existential touch was just a touch. But it was also like when Stuart had grasped his hand to pull him up out of the mud after that practice fight with the hazard mimic a few days ago. That kind of a touch, but so very distilled. And it felt—
+
+There can be a moment in between.
+
+This is amazing.
+
+My affixation allows for a moment here.
+
+The last of the water was falling toward Alden’s hand.
+
+Water would be carried now, no matter what, because he had already done it. Alden had fully accepted the burden from his entruster, and not bearing it was no longer an option available to him. He had decided he would hold and protect some amount of water, whether that protection lasted for a heartbeat or a day.
+
+Always before, committing his authority to the use of his skill and the creation of the preservation bubble around whatever he would carry had been simultaneous. He had thought they were the same thing.
+
+They didn’t have to be.
+
+There could be this determination—this activation of his skill through commitment—and then the moment of preservation. And while Alden was in between the two, the water became…no, he became someone who had the authority to understand the water he had committed to carry in a new way.
+
+It was important.
+
+It was over too soon.
+
+What Alden had planned for was a nice puddle-shaped shield with a handle of sorts, so that was what he got.
+
+But after the first large kooba crashed into his shield and retreated with a shriek…
+
+After about ten of the little ones burst like balloons from just one of Stuart’s spells…
+
+After their knights saw what level of game this was and joined the fight, chasing down low-flying kooba and killing them with bare hands…
+
+After all of that, while he used his water shield to herd a couple of little ones toward the children waiting at the back of Bithe’s hauler with pebbles in their hands and looks of determination on their faces, Alden’s thoughts returned to that moment.
+
+That’s it. That’s the place where so much of the stuff I’ve imagined might be possible can happen. In between committing to bear what my entruster has asked me to and it actually being shielded, I’m able to comprehend the burden better.
+
+Taking half of the water. Not approximately half, but half down to the molecule.
+
+Plucking off a single thread of enchantment.
+
+Catching with his eyes closed, even if the object was flying toward him as fast as a bullet.
+
+Bearing the weight with only his authority and not his muscles. Something close to telekinesis.
+
+Maybe all of that could be found there.
+
+Eventually, what he’d been groping around in the dark for and occasionally stumbling upon during flashes of inspiration could be made into reliable abilities if he practiced doing those things in that in-between time.
+
+He was concerned that creating that moment where his commitment to bear a burden could be separated from the actual act of preservation had required a few conditions to be met. All of them were inconvenient, and one of them was going to be hard to swallow if it turned out to be an absolute requirement instead of just the ideal scenario. But he wasn’t going to let that dim the possibilities swirling through his head just yet.
+
+He was holding the coolest shield. Stuart had done something incredible for him—to him? with him?—like it was the most natural thing in the world. And children were throwing pebbles at him, which made him think of Kibby.
+
+Their aim was awful.
+
+******
+
+******
+
+“We’ve been <<marinated>>,” Emban noted.
+
+The battle was over. She brushed some of the kooba stuffing off of her shoulders before reaching over to pluck a few dry blades of grass and something that looked like a beetle wing out of Bithe’s hair.
+
+“What is this?” Alden asked. He’d been brushing himself off as well, and he’d just found what he thought was a very small bone fragment on his shirt. How many times did you have to find unwanted bone shards on your person before you qualified as an expert?
+
+“Ritual ingredients.” Emban tipped her head toward Leeter-zis. “He filled the koobas with them and chanted over us all while we played with them.”
+
+“I thought he was just celebrating. Loudly.”
+
+“It’s the start of a process that will make us all ready to do some communal spell together. At the afterparty, I’m sure. This was a creative way to make everyone stay in one spot while we were being showered with ingredients.”
+
+“He could have warned us,” Stuart said. He’d just returned from circling the caravan with Ryada, who’d insisted on checking all of the fallen koobas herself to make sure none of them were still twitching. It struck Alden as an odd thing for her to do, and it reminded him that he’d noticed her mood shifting from jovial to something sterner during the battle when she’d seen Olget-ovekondo, barely competent possessor of a bad diploma, firing weak force spells at one of the large koobas that had been downed but not quite finished.
+
+Now she was carrying a stack of kooba hides. They were basically animated blankets; Alden’s first impression hadn’t been wrong. He offered to put them away somewhere for her, but she refused with a smile that seemed less real than her others and a joke that didn’t sound like a joke about how she took responsibility for her own kills even when the victims were just toys.
+
+Bithe and Emban exchanged a single look.
+
+Alden decided it wasn’t his place to ask.******

@@ -1,0 +1,315 @@
+---
+id: a3aa8077-b154-59aa-bfdf-df34eb4b8993
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-ONE: Here-to-There I"
+slug: 0223-two-hundred-twenty-one-here-to-there-i
+partOf: super-supportive
+position: 223
+ownLength: 4784
+unit: words
+publishedAt: 2025-05-31
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2318709/two-hundred-twenty-one-here-to-there-i"
+royalRoadId: "2318709"
+---
+
+221
+
+******
+
+“I don’t want to be pessimistic, but I’m starting to think nobody’s going to ask us to follow them.” Ryada-bess stood above the rest of their group on top of a wooden fence railing, looking back toward the collection of houses at one end of the narrow, brown-paved road.
+
+They’d left Rapport I shortly after sunrise to be in this spot before the local sunrise, so that a villager in need of help could spot them on the road and invite them to come to the house of the wizard who ran this place, where they would lend their voices and their might to the ordinary people. But the two families that had passed by so far had taken one look at them all and then minded their own business so hard it was almost funny. One man had started commenting loudly on “the health of the o’odee chicks this year” even though it had been too dark for the hen fields on both sides of the road to be clearly seen.
+
+Now, those fields were much more visible, and instead of using the light rods they’d borrowed from the siblinghold to see by, they had been using them as lures. The curious o’odee chicks were waking up and running over to see if the shiny things near the fence were edible.
+
+The System had given Alden a map of this place when he’d requested one. They were on the edge of a desert, in a large village designed around the farming of a few different products. The community was shaped like a wheel, with the wizard’s home and public buildings at the center and roads radiating out like spokes to neighborhoods of houses.
+
+The wizard was proud of it. Alden didn’t have to meet her to know this whole thing was a serious passion project. As soon as he’d requested the map, he’d gotten a bunch of images and reading material that had been created to go along with it. All the neighborhoods were mini oases, there were three-dimensional images of the historically accurate mud bricks that clad the exteriors of the buildings, and they’d just held an event similar to a science fair at the children’s school based on the theme of finding new uses for o’odee feathers.
+
+These things are so ugly-cute it’s ridiculous, he thought, waving one of the lights back and forth slowly and watching a bubble-eyed, baby almost-ostrich weave its neck to follow it. Most of the chicks were a few posts down  in front of Bithe, but one stubborn one kept opening its beak and sticking its head through the slats toward Alden. Alden wanted to feed it, but the only obvious o’odee food around were some mothlike bugs. He could have caught one if Bithe wasn’t somehow hogging them all.
+
+Is he a moth whisperer? Is he giving off a scent they like?
+
+The laconic knight had them fluttering around both his hands, just waiting to be caught, crushed, and poked into the mouths of his impressive collection of o’odee chicks. He looked bored to tears doing it…but he kept on doing it.
+
+Alden vacillated between thinking Bithe was actually unhappy to be here and thinking he just didn’t have much energy to expend. Maybe his affixation had knocked him on his ass, and all the stuff he’d done this morning was nice for him but too much trouble to smile about.
+
+“People traveling by vehicle may be waiting until true dawn. Or some could have been delayed in their preparations for their journey,” Stuart said. He stood a few steps behind Alden,  busily rearranging the numerous casting tools and ingredients he’d brought. He’d changed into the uniform the votaries at the Rapport school wore, minus the heavy cape. And he’d aded a quantity of jewelry, wands, packs, and pouches that Drusi-otta would approve of.
+
+Though she might be concerned that he’d been reading a manuscript on how to use one of the wands before they left.
+
+“I will be happy to find a house in need of help this morning if you want me to,” Stuart continued. “I can go and express our willingness to assist them in moving along.”
+
+He’s offering to burst into some family’s house.
+
+Alden was sure Stuart would burst in as nicely as anyone could, but he was still getting a fantastic mental image of this highly-accessorized version of the Primary’s son peeking through someone’s kitchen window while they ate first meal, trying to decide if they were in need of three newling knights, one human teenager, and a freshman LeafSong student. A freshman LeafSong student who was going to be the best votary ever just for today, by capturing some needy ordinary class members and helping them whether they were ready or not.
+
+“Maybe I’m the problem,” Alden said, even though he didn’t think he was the only problem here. “I can stand behind you all with my back turned when the next person passes, so it’s not as obvious that I’m a human to a casual eye.”
+
+Reduce the weird by one for these poor travelers.
+
+“It will be fine,” Emban said, even though she was fidgeting more than Stuart, without the excuse of having a hundred new tools to figure out. “If nobody else passes this way soon, we’ll hop over this part of the event and start in the village meet. Stu has spoken to people involved with planning, so we’re not unexpected by everyone.”
+
+She stared at Stuart until he noticed.
+
+“We’re expected,” he confirmed. “By the organizers on the other end. We are not expected by the <<village master>> here because the organizers thought our presence would be more exciting for her that way.”
+
+This was another reason Emban had chosen this Here-to-There over any others she could have found. The village master, who Alden was thinking of as Mayor Wizard, was a happy participant instead of an angry politician being dramatically abandoned by even angrier former supporters. She sounded like she might be a fun, old geek who couldn’t support a community of this size much longer. So some of them were leaving her in the style that matched this home she’d built, with no hard feelings on either side of it.
+
+“I hope we will be exciting.” Ryada rose onto her tiptoes atop the rail and threw her head back. “Emban, Bithe, be exciting to our people with me today!”
+
+Alden didn’t know what it was like to hang out with an open and charming person in the existence-to-existence way that had multiple knights interested in building something deeper with Ryada. But he liked her company in the realm of more mundane interactions already. She defaulted to perky, like a few other people he knew, but she had something observant underneath that shone through. He’d hardly known her for any time at all, but he’d heard her make an insightful remark or ask a thoughtful question to every person here.
+
+Like when they’d all been standing around in the dark, waiting for the first travelers to appear on the road, and she’d suddenly said to Stuart, “You and Alden are weaving a friendship. What kind of oaths will you swear to each other? Do you know yet?”
+
+That was how Alden found out this was not only an appropriate question to ask an Artonan adult who was being very vocal about his friendship weaving, but also one Stuart had been deprived of opportunities to answer. He was proud to say that their friendship weaving was going well and he looked forward to swearing oaths—multiple—to Alden. However, he was considerately delaying discussion of those oaths so that their relationship proceeded in a more human-style fashion.
+
+On his own time, though? Stuart was totally reading books on great historical friendships and the contracts that had supported them in their flourishing. And he and Alden had already agreed on some friendship goals. For example, neither of them would lose affection for the other because of mistakes.
+
+Alden did remember agreeing to that. It had been after handing over all those study journals he’d borrowed from the top library.
+
+He just hadn’t realized Stuart was quietly cataloguing such moments and building a file in his head of Friendship Things Alden May Swear To Do With Me.
+
+Emban and Bithe both seemed judgmental about even the possibility of a future oath not to hold mistakes against each other. If Emban saying, “You haven’t known him that long yet,” and Bithe giving Alden a weary look could be taken as their opinions. But Ryada had come over to Alden and opened up her coat to show off a small friendship tattoo below the front of her shoulder. It was shaped like a letter “U” with a squiggle inside, and it was a contract between her and her squadmates to live one day every nine years in honor of the others.
+
+Emotions could wither, she explained. Actions could water them back into bloom. It was impossible to forget what a person had once meant to you if you committed to recognizing that meaning again and again throughout your life.
+
+Alden leaned away from the fence so that Ryada could stroll past on the railing again. She went to admire Bithe’s collection of chicks and make a soft version of the laughing sound that o’odees were known for. All the chicks looked at her except for the one that was certain food was going to appear from Alden’s knees.
+
+After a moment, he realized everyone was looking at her except for Stuart, who was trying to force people to hurry up and come down the road just by staring really hard at their houses.
+
+Emban moved to stand closer to her squadmates. “It will be a good day even if we don’t get invited by the people of the village until after the announcing and the challenging.”
+
+“Of course it will,” said Ryada, still making funny noises at the chicks.
+
+Alden had decided he would help Emban’s cause today by trying to create pockets of semi-alone time for her and Ryada, so that if she was feeling ready, she couldsay, “Hey. How about seeing if we’re deeply compatible as authority partners so we can have better affixations somehow and destroy chaos even harder together?”
+
+Only she’d say it better than that. He hoped. She’d had more time to plan.
+
+How many times do people try out deepening with someone in this way without it working out?
+
+A lot, he guessed. That was the reasonable assumption since it was both desired and rare.
+
+Still, taking this step had to require a bit of bravery. He was over here getting anxious about what kinds of ancient tomes on friendship Stuart had been studying, and Stuart hadn’t even formally suggest a friend promise to him yet.
+
+He’s working hard on it in his own head, but me being able to do magic like a wizard isn’t being taken into consideration.
+
+He can’t take it into consideration because I haven’t told him.
+
+I haven’t told him because I haven’t known him long enough to trust him with something that huge yet.
+
+No. He wished that was it, but he knew it was just an excuse that made him feel better. Because if length of friendship was the real issue, then the problem would eventually fix itself.
+
+The truth was that Alden trusted the Artonan a crazy amount considering how briefly they’d known each other.
+
+He trusted Stu-art’h to try to do the right thing.
+
+The problem is that I might not be the right thing. I might be a wrong or dangerous thing in the eyes of a knight of the Mother Planet, even if I don’t mean to be.
+
+What Alden wanted was proof Stuart wouldn’t think that way. He needed it. He wasn’t sure if he’d ever get it.
+
+I hate thinking this way so fucking much.
+
+Back to something more doable—a pocket of alone time for Ryada and Emban.
+
+“Hn’tyon Bithe?”
+
+Bithe hadn’t given Alden permission to drop the title. Possibly, he feared that saying that many words would sap the last of his motivation.
+
+One eye slid slowly over in reply.
+
+“My o’odee chick seems…” Alden couldn’t bring himself to call the creature bonking its beak into his pants leg stupid. It was his. It had chosen him over the Artonans. “Hungry. This one’s hungry, too. Would you mind sharing your flying bugs?”
+
+He was pleased that Bithe stopped leaning on the section of fence right beside Ryada and Emban and slouched toward him. He’d doubted the request would work. Bithe could have told him to bring his human-preferring chick over to join its more sensible brethren.
+
+There you go, Emban. Find your moment and your courage.
+
+Bithe bent forward to insert a moth between Alden’s knee and the little o’odee. He didn’t look so dour when his face was hidden. He was wearing a longer but lighter version of the knight coat in a dull red, with sage and cream colored string wound into his hair to match his squadmates’ coats.
+
+“I think this one is stupid.” Bithe plucked another moth out of the air and smashed it before poking it into the o’odee’s beak.
+
+“No! It was smart enough to come to the fence. I bet there are much less intelligent ones still out there in the field.” Alden could spot some eggs now. Like pale basketballs resting in the depressions the hens had made in spongey clumps of vegetation. “My o’odee is great. I’d feed it flying bugs myself…if I could catch any. How are you doing that?”
+
+“These are a type of vatha,” Bithe said, twisting one of his hands in front of himself as he watched the moths dance. “My skill is called The Vatha Lantern. That which <<mesmerizes>> only to burn. I asked for it to be stripped of some <<modernizations>> others have chosen so that I might start with it closer to an older form. But I wasn’t expecting this. The vatha have been coming to me for a few days now, whenever I think of myself in a certain way.”
+
+Alden squatted low to look closer at Bithe and his moths. The vatha had brown wings with scalloped edges. Bithe wore three rings on the middle finger of each hand, and an orangish yellow auriad was wrapped around his left forearm.
+
+“They come even when you’re not using your skill?”
+
+“In some ways, we are always using our skills.”
+
+Okay. Alden could go there. Your skill was you, so it didn’t go away when you weren’t using it. Even when you fatigued a part of yourself, it didn’t disappear or empty out like a gas tank.
+
+Alden was The Bearer of All Burdens even if he’d gotten too exhausted to make reality bend to his will. He was continuing to exist in reality, so in some way, no matter how little magic he was doing, he was still a place on the map of the universe imbued with unique qualities. And those qualities could presumably affect or be perceived by other things that existed.
+
+Still, what he’s saying is amazing. It’s like me meditating on the nature of my skill and…having luggage feel drawn toward me?
+
+Vatha were clearly more suited to being entranced than inanimate objects were. He was impressed anyway.
+
+“That’s special,” he said. “You have a sign that you’ve chosen your skill well.”
+
+He meant it earnestly. It was something he wished he could say to himself more often than he was able to. And Stuart wanted people to compliment his skill choice so much he’d let Alden write unsigned words of encouragement in the back of the study journal—the one nobody else would comment on—before he returned it to the library.
+
+So Alden wasn’t at all prepared for Bithe to stand and look down on him, his tired eyes suddenly alive with something fiery as he said, “Many people choose beautiful skills for themselves without receiving signs.”
+
+Alden froze, one hand suddenly going white-knuckled on a fence rail, stomach tightening. “I apologize. I didn’t mean to say the wrong—”
+
+“If you don’t know the right thing to say, then stop <<mutilating>> our language just to make wind.”
+
+What did I do? He’s so mad at me. Was the word “signs” insulting somehow?
+
+He was so upset that Bithe was so upset that he didn’t realize the others had noticed the situation until Stuart sprang in between the two of them, brimming with outrage if his posture and the wand in his hand were anything to go by.
+
+“You are making a lot of wind with your mouth, and it has the <<putrescent smell>> of wind from a lower <<bodily orifice>>!”
+
+Yeah, that’s outrage.
+
+Alden jumped up. “Stu—”
+
+“You mock someone for sharing thoughts of admiration—”
+
+“Stuart—”
+
+“Do not grab my face now!” Stuart cried, which made Alden realize he had been about to grab his enraged defender from behind to prevent him from being hurt by the volatile moth man.
+
+Stuart was on a roll. “You should feel—!”
+
+Shame, thought Alden
+
+“Shame,” intoned Stuart in a bizarrely deep and resonant voice, like the judgement was welling up from the center of his being to claim its victim.
+
+“I’m fine,” Alden said. “I’m sorry I said…whatever I said that wasn’t correct.”
+
+Deescalating verbally was the only way, since he’d been forbidden from face grabbing.
+
+Before Bithe could reply, Ryada leaped off the fence and landed on his back,  wrapping her arms and legs around him while he tried to shrug her off.
+
+“He should feel shame.” Her deep note would have been pretty impressive coming out of a human dude, but it was flat compared to the weird one Stuart had just done. “Shame. Shaaame.”
+
+She coughed after the third attempt.
+
+“Bithe, are you unwell?” Emban was frowning at her squadmates.
+
+Bithe seemed to have decided that trying to peel Ryada off him was either dangerous or undignified because he’d gone still. It made him look like he was wearing a living backpack.
+
+“I made a similar comment when you told me about the vatha,” said Emban. “It didn’t seem to bother you then. I thought you were proud of it.”
+
+Stuart drew himself even straighter, perhaps deeming Bithe more shameworthy than ever since the knight was capable of taking skill compliments from people who weren’t language mutilators.
+
+Damn, that one’s going to sting for a while.
+
+Alden was already feeling less like he must have done something wrong, since the others didn’t think what he’d said was bad. But he’d been forgetting more and more that he probably sounded clumsy and dumb to an Artonan who wasn’t inclined to be generous. Most of them were inclined to appreciate the effort, so he’d stopped being self-conscious about using some of the harder words that he knew but had trouble getting his mouth around.
+
+“I’m not unwell,” Bithe muttered, both eyes drifting away from Emban toward the field.
+
+“Then your shame must be worth bellowing about after all,” Ryada said. “Or is this just another sign your skill is well-chosen? It is! You mesmerized a young Ryeh-b’t into speaking to you and then burned him. Bithe is sorry everybody. Or he should be.”
+
+The silence that followed was too long, and Bithe turned a lost look toward Ryada and Emban before finally deciding to face Alden again.
+
+“I am sorry for my harshness. Your comment had no cruel intention or wrong meaning behind it. I must be tired.”
+
+Alden found the apology a little weak, but Bithe did look tired. And Emban looked concerned now instead of excited about their day. And Stuart… Stuart’s auriad was wrapped around the hand that didn’t have the wand in it. What in the universe was he going to do? Turn Bithe into a wevvi fruit with one hand and then press it into juice with the other as revenge for a verbal assault?
+
+Maybe this was what Lind-otta had meant when she asked him to be patient with moody younger knights.
+
+“I’m well,” Alden said, smiling around at everyone. “If we’re all fine, let’s have a good day together.”
+
+Ryada released her grip on her squadmate. “That’s what I want to do, too. By the way, Alden, my skill is Life to Water. Transformer of Life to Water. If I touch someone and they turn into a puddle, don’t praise me. It’s not like the vatha. That would be an unfortunate accident, and as our votary, Stu would be obligated to drink the <<evidence of crime>>.”
+
+Bithe stared at her blankly.
+
+Stuart shook his head at Alden. Whether that was to indicate that no people would be in danger of puddling or to say he would not cover up a death in that manner, only he knew.
+
+Emban smiled at the joke.
+
+The morning regained a semblance of normalcy after that, except for Alden’s brain being subjected to its third sunrise of the day when it was sure he was supposed to be having nighttime.
+
+He let Stuart realign the wooden pins on the shoulder of his shirt; they marked him as an attachment to the knights, so that they’d be honored by any good deeds he did. Then he filmed himself feeding a worm to the o’odee that preferred humans because Bithe had walked up to him, silently handed him the worm, then gone off to stand alone by the road.
+
+Was moth summoning no longer possible due to his mood? That was a mystery Alden would not be asking about.
+
+But he had been given a worm, and Kibby needed cool videos, and Emilija needed more pictures of birds to make fun of on Trime because that was the only thing Trime was good for.
+
+I’ll post these after I get an official summons next year, he thought, trying to find his o’odee’s most flattering angle. That way everyone will assume it was normal Rabbit stuff and not wonder how I’m getting alien ostrich photos right now.
+
+“What kind of votary points his casting tools at his knight instead of at the source of his knight’s distress?” Ryada’s voice, lighthearted, called Alden’s attention toward her, Emban, and Stuart.
+
+“One who knows to aim at the knight’s problem even if the problem is the knight himself,” Stuart said firmly.
+
+Nice one.
+
+“They’re coming.” Finally, Bithe’s self-imposed road watching had been rewarded.
+
+Alden took a few more pictures before he went to join the others by the pavement.
+
+“My feelings will be hurt if nobody stops this time,” said Ryada.
+
+“They’ll stop,” Emban said. “It looks like a large…I don’t actually know what that is.”
+
+“I don’t know what that is either,” said Bithe. “A farm machine?”
+
+He’s interested in tractors. Go figure.
+
+“Alden, do you have your inhaler?”
+
+“I haven’t lost it. I’ll use it when I need to.” He’d need to. The temperature was rising noticeably.
+
+When he got a better look at what was coming down the road, Bithe’s interest made more sense. An entire caravan of vehicles was on the way, led by a thingamabob that looked more like a nest of purposeful metal arachnids than a tractor.
+
+“I don’t want to ride on that one,” Alden said. “If I’m given an option.”
+
+All of a sudden, the others were making him feel like he was supposed to be anxious. They were checking hair, rings, and belts. Brushing off specks he couldn’t see. Bithe was practicing what sounded like a different formal greeting than the one he’d used when arriving at the siblinghold.
+
+[Is everyone nervous?] he texted Stuart, who had waited to make sure the caravan was slowing down for them before he took a few steps back to join Alden behind the knights.
+
+“They want to be close to perfection,” Stuart murmured so low Alden had to lean nearer to him to hear over the clatter of the arachnid nest against the hard surface of the road. “They’ve never presented themselves at something like this—as knights instead of youthful members of the wizard class. The expectations are different.”
+
+[I’m sorry about what happened with Bithe. He gave me a worm, so I guess we’re all right with each other now. But if he seems to be upset I’m here again, you know it’s fine to ask me to teleport away. If you need to.]
+
+Stuart turned a look he hadn’t expected on him. Calm. Focused. “You are never in the way, Alden.”
+
+The caravan was stopping except for a couple of things that looked like surfboards with sails made of light, their riders shouting out apologies as they shot past.
+
+“Ha! Well met on the road! Well met! I gave those women the <<windmemorizers>> from my collection. Beautiful memorizers! I do not think I mentioned how to stop them. Say, ‘Fold!’ Say, ‘Fold!’”
+
+The man shouting at the ladies on the unstoppable surfboards was probably a wizard, since he was giving out magical tools. It would have been hard to tell from his outfit alone. He was wearing less of one than was usual. Just unembroidered white harem pants. No shirt. No shoes.
+
+He stood on the roof of an automated riding cart that would have fit right in at LeafSong if not for the pink and yellow streamers tied to it and making firecracker sounds as they flapped. It was overloaded with people who didn’t look like they belonged together, from a woman holding wiggling, neatly-dressed twin toddlers to a man with mud all over one side of a pair of coveralls.
+
+“They’ll probably be fine!” the wizard decided. “It is a delight to meet you! I’m Leeter-zis. A visitor in this place and a professional celebrant!”
+
+“Alden, that is not a profession,” Stuart whispered.
+
+Alden appreciated the information in this case because celebrant sounded like a profession the Artonans might invent.
+
+“The sun is up! My stripes are out! These people of the Triplanets go today to free themselves from their village master, and we meet knights on the road! What fortune!”
+
+He stomped on the top of the golf cart, and the people inside exchanged glances. The woman holding the twins passed them over to an adolescent beside her, and climbed out of the cart. People were leaning out of vehicles or emerging to get a better look at the knights.
+
+Alden tried to pretend he was shorter and less obvious.
+
+“Ones of power,” said the woman, giving Ryada, Emban, and Bithe each a bow in turn. “We and many others go to a new home. The way may be long and dangerous.”
+
+Ryada broke into a wide smile.  “We will spend our strength for the whole of that length and against any dangers if you would welcome us to walk with you.”
+
+She said the words loudly so that they carried to everyone.
+
+An excited murmur rose in response, like all the ordinary class people really had thought that this bunch of knights just happened to be standing by the road for their own mysterious reasons instead of because they wanted to participate.
+
+“We welcome you!” the woman said, bowing again. “Thank you! Our village master will be so honored you came.”
+
+Soon, people were offering seats and rooftops to the knights. Ryada looked thrilled, Emban gracious, and Bithe paralyzed by the social conundrum of having two villagers trying to persuade him into their trucks at the same time.
+
+Alden and Stuart were being ignored for now. Someone had just started singing a song that went, “Here, this land, my former home…” and it was getting picked up by others.
+
+“Did you just see those windmemorizers go off the road ahead?” Alden asked.
+
+“I do see them. The riders appear to know how to turn, lift, and speed up. But not stop.” Stuart raised an eyebrow in the direction of Mr. Stripes Out Professional Celebrant. “They may be afraid of leaping off and leaving his possessions to crash. I think they’re circling toward us through the field. You and I will stop them if nobody else helps.”
+
+Alden nodded. “Stuart, send me what you’re reading. The parts you like anyway.”
+
+Stuart stopped watching Stripes Out gyrate around the farm equipment. “Do you mean the…”
+
+“The friendship contract examples. Stories about legendary friends. Whatever it is that’s important to you. If you’re thinking about it, I can think about it. You don’t have to keep it to yourself just because I’m human.”
+
+Stuart nodded, but he didn’t answer until the windmemorizers were almost back. “I will put my thoughts in a study journal,” he said. “If that is all right with you.”

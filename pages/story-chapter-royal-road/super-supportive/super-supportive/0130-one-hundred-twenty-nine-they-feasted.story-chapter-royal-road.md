@@ -1,0 +1,455 @@
+---
+id: df3b9284-f131-5201-9637-1c9591e378fe
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED TWENTY-NINE: They Feasted"
+slug: 0130-one-hundred-twenty-nine-they-feasted
+partOf: super-supportive
+position: 130
+ownLength: 5484
+unit: words
+publishedAt: 2024-03-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1567328/one-hundred-twenty-nine-they-feasted"
+royalRoadId: "1567328"
+---
+
+129******
+
+The chatter in the MPE building’s laundry room was energetic when Alden walked in with his gym suit over his arm.
+
+“After we eat, we could all go do something at the mall together.”
+
+“It’ll be late. We won’t even make it to the restaurant until after eight.”
+
+“It’s Friday! Who cares if it’s late?”
+
+“Marsha’s team is still in the gym. What do you think the faculty are doing with them?”
+
+“They weren’t cohesive before, but that last run was too far, don’t you think? They completely broke down.”
+
+“We could go to the cinema.”
+
+“I’d rather shop. We have stipends now.”
+
+“I already spent mine buying things for the dorm.”
+
+Alden headed for a cleaning cabinet that Rebecca had just taken her own suit from. While he put the garment on the mannequin and hung the cuffs on the pegs, he listened to his classmates’ chatter. Even Febri and Shrike’s team, who’d suffered two losses today, didn’t seem too upset about it.
+
+Olive was on the other side of the room grilling Haoyu about how he’d been able to tell her apart from her illusions, and Febri was trying to explain to Konstantin that the team had had a plan to make a statement about solidarity that had been ruined because of their defeat.
+
+“We were going to almost win,” he explained, “and then we were going to have the last person refuse to cross the finish line. Because Søren isn’t here. It was going to be a gesture.”
+
+“A gesture like that…” Kon rocked back and forth. “I see what you were going for, but that might make Søren feel uncomfortable?”
+
+Sounds patronizing to me, too, thought Alden. But I guess Søren might appreciate the effort even if it’s misguided.
+
+He shut the cabinet and leaned against it. It made a faint humming noise as the cycle started.
+
+Instructor Klein had asked team Vandy/Marsha to stay behind after class instead of heading to the locker rooms with everyone else. He hadn’t said they were in trouble, but it didn’t seem likely that they were being held back for praise.
+
+Upon hearing that her group was being singled out, Vandy had looked so appalled that if Alden hadn’t known what was going on he’d have assumed something earth-shattering had just happened.
+
+He felt a little sorry for them, and he was glad he was here instead of in their shoes.
+
+Officially the end of another week. Nothing to do tonight but take a bus ride down to F, eat dinner, and hang out.
+
+His team had won. His skill had gotten a workout. And he’d just had a hot shower that he hadn’t needed to rush through. Some of the guys had decided the swimming tank was enough of a bath.
+
+It would be almost perfect if Maricel hadn’t had to go.
+
+He hoped whatever news she’d gotten wasn’t terrible. When the team had finished running the course, Fragment and the principal were both gone. It made him worry more, but they might have left for some other reason. Maybe they had last minute arrangements for the dinner or—
+
+“Maricel!”
+
+“Mari!”
+
+“Are you all right?”
+
+“Where’d you go?”
+
+Some of the girls sitting on the benches by the door had spotted her first. Maricel had already changed out of her gym suit into a denim skirt and pink shirt.
+
+“I’m good. I’m so sorry! A friend called, and they were in trouble so I had to—”
+
+“A friend from home?”
+
+“Are they okay?”
+
+“Do you get to go back home to see them?”
+
+“It’s all fine. I told Instructor Fragment. It’s taken care of.” She headed toward the nearest available cabinet while Everly and Tuyet told her all about what she’d just missed.
+
+“Maricel!” Jeffy shouted. “We fed them to Victory!”
+
+“Why do people on your team keep saying that?” Finlay asked Alden from the next cabinet over.
+
+“I think it’s our motto now.”
+
+Maricel looked over Everly’s shoulder toward him suddenly, and her dark brown eyes met his. Her smile was more strained than happy.
+
+[Everything okay?] he texted her.
+
+He expected her to say “yes” whether it was or not. She hadn’t been one to confide everything. Not since that first day they’d met, when she felt she’d said too much.
+
+Sure enough, she nodded.
+
+[We really missed you on the course.]
+
+People were still calling out fight highlights to her; Alden’s name came up more than once.
+
+“Alden killed Winston,” Haoyu said.
+
+“He went for the throat.” Njeri sounded approving.
+
+“Finlay, would that have killed you, too?” Jupiter asked. “Can we kill you that way?”
+
+A lot of heads turned toward the Speed Brute.
+
+“What are you all planning to kill me for!?” Finlay said. “And how should I know? Nobody’s ever tried to take my head off with a fishing line. We didn’t do that kind of thing at my old school.”
+
+“They don’t train you for lethality during PE in Scotland?” Alden asked. “Imagine that.”
+
+Finlay laughed.
+
+<<It would kill him if he hit it like Winston did,>> Ignacio said. <<But he might not hit it like Winston did.>>
+
+“That’s true,” Finlay agreed with a shrug. “My visual processing and reaction time are better than his. I also try not to go at top speed when I’m about to engage with someone. Liu Arielle says in battles she goes faster than a villain can understand, not faster than she can understand. Pushing it all the way is for getting to the fight in the first place, isn’t it? Or when you’re outmatched.”
+
+“Do you like Arielle?” Haoyu asked. “She’s friends with my parents.”
+
+“She’s my favorite,” said Finlay.
+
+“Was she your favorite before or after she got her last few upgrades?” Febri asked. “Because she became a lot of peoples’ favorite once she started getting the special stuff.”
+
+“Some Brutes think speedsters taking short range teleportation is unBrutely,” said Rebecca.
+
+“That’s because those Brutes are jealous they haven’t reached the point where the System gives you the option.” Finlay was gesturing animatedly. “They all slack off on their training when they get old if you ask me. Liu Arielle’s kept up her leveling all this time. She’s going hyperbolic sooner or later. I believe in her. I believe in me! I’m going to get that same skill one day.”
+
+Kon was walking around the room, touching random stuff lightly with his fingers and closing his eyes.
+
+His object reading skill outlasted the spell impression that went with it by a significant amount. He was supposed to be burning both talents out every day, just like the rest of them, but since he never had opportunity in class, he spent a lot of time poking things throughout the day and psychically analyzing their recent history.
+
+He pulled his hand away from the unused washing machine at the back of the room and looked around at Finlay. “I’m surprised you didn’t go to Li Jean. She teaches there every now and then, and I’m sure you could’ve gotten in.”
+
+“I did get in. But they invited me to watch some classes, and I decided it would be hard to follow along with the System translations and do my best in their gym. Felt like I’d be stopping to read every other second.”
+
+While the conversation continued around him, Alden composed a message to Jeremy, describing his gym victory. Jeremy had hinted a couple of times that Alden wasn’t going into enough detail about the superpowers when they talked, so he wrote more than he normally would have.
+
+By the time he was done and his suit was clean, Team Vandy/Marsha had been freed from whatever lecture they’d gotten. None of them were speaking to each other, so if the subject of the talking to had been the importance of team unity, it had failed.
+
+Mehdi looked like he was ready to hit someone. Max’s expression was completely unbothered and pleasant because he was a scary bastard, but somehow tension was still emanating from him like a poisonous gas. And as for Vandy, a couple of the girls said she was hiding in an empty classroom while she called her family and confessed to all her personal failings.
+
+Winston was nowhere to be found.
+
+Everyone with a sense of self-preservation left them to lick their wounds and get dressed by themselves. Alden vacated the building with most of the class, walking between Lexi and Haoyu as they headed toward the nearby street. The wind that had been blowing grit around the track earlier hadn’t let up any, and there was a distant grumble of thunder.
+
+One of the Celena North buses was waiting for them.
+
+Alden sat by Jeffy, with Lexi and Haoyu across the aisle and Everly and Kon in front of him. As the bus filled up, Kon suddenly leaned out of his seat to look up and down the aisle.
+
+“Everyone’s in pairs. Are we going to make Vandy’s team all sit together in the back?”
+
+“Ha!” said Reinhard. “That’s hilarious.”
+
+“It is a little,” said Kon. “But they’re going to ruin our class dinner if they get any more…how they are.”
+
+“I saved a seat for Mehdi!” Heloísa called from near the front of the bus.
+
+Everly giggled.
+
+“We should pick out seats for all of them to reduce their tension,” Haoyu said brightly. “Winston and Alden can sit together. And Jeffy and Marsha. And Tuyet—”
+
+“Get an instructor!” Astrid shouted. “They’ve accidentally let someone evil into the program.”
+
+“Yes, we need to kick Haoyu off the bus,” Alden agreed.
+
+******
+
+Just after eight o’clock, the bus put them all out at one of the side entrances for Rosa Grove mall. Despite a number of increasingly horrible seating arrangements being discussed, the class had opted for nonviolence in the end. Alden had gone to the back to save a seat for Max, who’d stared silently out the window the whole trip. It wasn’t a bad thing since it gave Alden time to get some homework done en route.
+
+Mehdi had sat with Kon, while Everly had spent most of the trip trying to cheer up Vandy.
+
+Marsha and Winston had ended up sitting together by default. He was pretending to sleep so that he didn’t have to talk to anyone. But unlike the rest of their team, Marsha seemed barely bothered by the scolding they’d received. According to Haoyu, who could see her tablet from his own seat, she spent the ride watching best-of Meister fights compilations.
+
+Alden was one of the last people to leave the bus, and as he stepped off, he was surprised to find that Maricel had hung back instead of heading toward the mall with Tuyet. Curious, he dragged his feet a little. In response, she dragged her own feet a little. Since everybody else was eager to get to the promised meal, they ended up lingering outside after the group had run ahead.
+
+This section of the mall’s exterior had large advertisements playing on the walls. An Avowed famous for mountain rescues stood on a peak in a raging storm while the camera slowly zoomed in to show that her makeup was flawless, despite the water sheeting off her face. Bright red lips smiled, and the words “still kissable” appeared beneath her chin. Then the glitzy commercial faded to be replaced by images of children studying in a language academy.
+
+“What’s up?” asked Alden, blinking against the wind as he looked down at Maricel.
+
+“Do you remember when I asked you about wizards changing our return destinations after a summons?”
+
+To somewhere other than Anesidora.
+
+“Yep,” he said, keeping his voice light even though his stomach clenched at the topic.
+
+Maricel took a deep breath. “It was for somebody I met in intake. He still wants to leave. I wanted…I was trying to find a safe way for him to do it, so he wouldn’t choose a dangerous way again. I told him what I read online about escaping after a summons being possible and what you said about it probably being true. I thought he believed me. I thought I had convinced him to wait a while.”
+
+She sounded unhappy, but Alden couldn’t help feeling relieved that she hadn’t been asking for herself.
+
+“The guy didn’t listen?” he guessed.
+
+Maricel shook her head. “He sent me a message earlier. He said he had everything he needed ready. He said it was my last chance to go with him.”
+
+Alden waited for her to continue.
+
+“He’s going in a boat. It’s night. There’s rain coming, and the ocean’s very rough. Maybe that’s why he thinks the patrols won’t be able to find him this time.”
+
+She’s worried.
+
+“The authorities here do deal with stuff like this all the time,” Alden said. “And if you told somebody—”
+
+“I told Instructor Fragment.” Maricel lowered her voice. “She and the principal stayed with me while we called someone from SkySea guard. They asked me a bunch of questions, but I don’t know anything. Only what I told you now.”
+
+“Are you in trouble?”
+
+“I don’t think so. But maybe I should be. I could’ve told someone earlier instead of trying to talk him out of it myself. They want me to keep trying to get in touch with him, so I text him every few minutes. But he stopped answering when he realized I wouldn’t go with him. If something happens…”
+
+A trio of teenagers with non-Avowed tags stepped through the nearby doors. They shrieked as the wind almost stole the large pizza box from one girl’s hands, then they all started laughing about it.
+
+“He’ll be fine,” said Alden. “There’s no way this is the first time someone’s tried to use rough weather to slip past the patrols. It probably happens weekly.”
+
+“Fragment said the same thing. And the man who interviewed me didn’t seem worried, but—”
+
+“Plus there’s always ETing.” Alden remembered Lexi telling Kon exactly that about his rough-seas boat trip to Matadero the day of the party. “If your friend capsizes, or if he gets lost, that’s always an option.”
+
+She made a face. “I know. And thinking about it that way makes me wonder if I was wrong to tell on him. What if he could have made it? And been happy? But because of me, he’ll get caught.”
+
+<<Most people don’t have a translation in front of their eyes,>> said the advertisement on the wall. <<Make sure your children can talk to the world.>>
+
+“This isn’t the first time he’s run. They’ll put a lot of restrictions on him when they bring him back,” Maricel went on. “He’ll hate me forever. I…this is what I wanted to ask you. Once he’s back, if he doesn’t mind, will you try talking to him for me?”
+
+“Why me?” Alden had wondered the last time she’d questioned him about escaping via summons. She seemed to think he had more insight to offer than he did. “I’m not an authority on getting off the island or being summoned or anything. There are much better people to—”
+
+“You’re one of us,” Maricel said, taking a step closer to him. “A globie. That really matters to him. And you don’t hate it here, but you don’t think other people are stupid or crazy if they do. You’re a nice person. And you know summoners even though you’re our age. There aren’t any other people like that at all. Maybe he’ll listen to you.”
+
+I guess if that specific combination of qualities is her criteria there aren’t a lot of matches.
+
+“I mean…I’m willing to try I guess. No promises on my success at reasoning with anyone.”
+
+“Thank you.” Her shoulders slumped and she let out a long breath. “You’re a better friend than I am. I’m sorry. I’ll try not to be so much trouble to you—”
+
+“We’re good,” said Alden. “I’ve thought you were cool ever since you went off on those assholes who were like, ‘Ew…a Rabbit’ and declared your intention to run across a planet to get back home.”
+
+She looked pained. “That’s really not who I am most of the time.”
+
+“I get that. It was a bad day for you. You were still cool. Now stop worrying. Let the professionals handle the problem. And take me to eat.”
+
+******
+
+They feasted.
+
+The restaurant was on the third floor of the mall. It wasn’t a big spot. Forty-one students, six instructors, and one principal nearly filled the place up. Tables had been pushed together for them by a line of windows that looked out over one of the mall’s outdoor recreation areas. A wide, shallow fountain with embedded lights periodically put on a show for people walking past down there. Alden assumed the jets of water operated in time to music, but he couldn’t hear it through the thick glass and the sound of everyone talking over each other.
+
+“Do you think all the garlic fried rice is yours?” Lexi asked Alden.
+
+“I think everyone else had their shot at it already.” He loaded his plate. “I have waited patiently. Now they can fight me for it.”
+
+He spooned atchara beside his rice and eyed the fresh batch of lumpia that one of the servers had just set at the other end of the table. They looked like they were coated in caramelized sugar. Those must be dessert.
+
+The stars were all meat dishes, including the crispy lechon that Haoyu had been so eager to try. But the restaurant had made a delicious jackfruit entree, too, so Alden wasn’t suffering except from a bit of envy.
+
+Principal Saleh was paying for everything, and the food kept coming. Dining with teachers had been stiff at first, but it soon became clear that this was more of a social, getting-to-know-you event in the faculty’s mind. The longer they went without talking about everyone’s performance and schoolwork, the more people loosened up.
+
+Several seats away, Finlay was telling people about his father. “He retired from being an electrician and bought a pub. Loses loads of money on it and drives my mum crazy, but he says it’s his dream.”
+
+“Instructor Klein and I were on the same hero team for a couple of years when I first started out,” Foxbolt was saying to Astrid. “We didn’t have a single superhuman incident with anyone over C-rank, but Berlin had just been selected to host a womb vault. Protesters were pouring in from everywhere, flooding the streets every day for months. And then when the building actually started, we were on guard duty 24/7.”
+
+Astrid looked baffled. “Were that many people mad about it? I thought magical medical care wasn’t controversial anymore.”
+
+“It’s not,” Foxbolt said. “In general. Artificial wombs are one of the most contentious areas remaining these days. Which is a bit odd considering they were almost universally praised when the Contract was first being hammered out.”
+
+Instructor Klein heaved a sigh. “Most of you are thinking about careers that will lead you off the island, so you have to start paying attention to what’s going on in the world. Those of you who were born here will find that a number of things our society considers completely benign are scandalous in other places and vice versa.”
+
+“On that note, you’ll all get to take everyone’s favorite course twice, right before you graduate from the high school and in uni,” Principal Saleh said, giving the people in her vicinity a wicked smile. “‘Avowed Comportment and Representation.’”
+
+“We have to take the national manners class more than once?” Reinhard asked.
+
+Alden was sitting far enough away from them that he wasn’t really involved in the conversation, but at that, he swallowed a lump of garlic rice and looked across the table at Lexi and Haoyu. “What’s the national manners class?”
+
+Haoyu, who had just stuffed another bite of pork belly into his mouth, nudged Lexi demandingly with an elbow.
+
+“It’s what it sounds like,” Lexi said. “They teach you how the government wishes you’d behave and what they want you to say about certain issues whenever you’re working or communicating with people off the island.”
+
+Kon, who had claimed the seat on the other side of his brother, rolled his eyes. “It’s the brainwashing class. The high council made it mandatory for schools to teach it a long time ago—”
+
+“More than a decade,” Lexi said.
+
+“But people are still fighting about it during elections,” Kon concluded.
+
+“Who decides what our national comportment should be?” Alden asked.
+
+“That’s what the fights are mostly about.” Haoyu took a sip of his water. “When they’re not about whether or not something like that should exist in the first place.”
+
+Mehdi had been quiet and moody for most of the meal, so it was a surprise when he chimed in. “It’s not fair. The really old people lived however they wanted and said whatever they wanted when they got their powers. And now they’re suddenly trying to make all of these rules for the rest of us.”
+
+Vandy overheard him. “But we have a country of our own here now. They didn’t.”
+
+Another server dropped a plate in front of Alden, and he finally got his hands on the dessert offering. The crunchy, sugar-coated spring roll wrappers were full of banana. He took one and bit into it, giving himself permission to zone out while Vandy expounded about the unprecedented nature of Anesidora and the importance of careful lawmaking.
+
+Marsha was watching Shrike spin a knife. Winston was picking at his food and avoiding everyone’s eyes like he’d suffered a terrible humiliation instead of a combat death in the gym.
+
+Dare I hope he’ll be less of a pain moving forward?
+
+Max and Jeffy were sitting beside each other and answering Instructor Marion’s questions about where they’d grown up. Max was talking about South Africa like a normal person, in contrast to Jeffy, who was delivering unnecessarily obscure hints about his own home. Instructor Marion looked confused, and Alden couldn’t blame him. About the only thing you could pin down from the ramble was that Jeffy had grown up in a house with grandparents and an uncle.
+
+He’d just finished describing his former school as “a place where there might or might not have been many people with mohawks.”
+
+“All right.” Marion’s tone said that he’d decided going with it was the correct course of action. “As for me, I grew up not far from where we’re sitting right now. I wouldn’t be surprised if my parents are wandering around the mall at the moment. They eat out every night, and they like the food hall downstairs.”
+
+Max nodded. “Are you second gen or—”
+
+“Third on one side,” the instructor said. “Second on the other.”
+
+That prompted a turn in the discussion as people started chiming in with their own Avowed lineages. Unlike Marion, most of the faculty present had been born off the island. The students, of course, had almost all been born here. And more of them had large families than Alden had realized.
+
+Nobody was describing anything quite like the multigenerational Velra clan situation, but the number of people mentioning tons of siblings was more than he would have expected from a cross-section of peers back home.
+
+Mehdi had three older brothers, an older sister, and a little brother. Tuyet was one of seven. Jupiter had a set of siblings all named after planets in their solar system.
+
+“Except they skipped Uranus and went straight to Neptune.”
+
+When Kon piped up to inform everyone that he and Lexi were expecting another sibling sometime in the next couple of years, his brother reached over to smack him on the back of the head.
+
+“Ow! What was that for?”
+
+“Don’t just tell everyone on the island our parents’ reproductive plans.”
+
+Kon rolled his eyes. “There’s going to be a whole new person with our last name. What are we supposed to do? Pretend they found a baby growing on a tree?”
+
+“That’s not the poin—”
+
+“Do you know if they’re going to have a girl or a boy?” Astrid asked.
+
+“They let us all be surprises, so I assume it’s going to be the same for Number 4.” Kon held up a fork threateningly when Lexi looked like he wanted to smack him again.
+
+Alden filed that information away in his “don’t make assumptions” file. If anyone had asked him, he would have guessed Lexi and Kon were designed. They were both aesthetically gifted even though they didn’t have points in Appeal yet. Plus, if you ignored personality, style, and the fact that Lexi was crazy fit from keeping up his ballet physique, they would have looked very similar even by brotherly standards.
+
+“What about you Alden?”
+
+Alden looked at Astrid questioningly.
+
+“I know you don’t have brothers and sisters, but do you have a lot of cousins?”
+
+“No. It was just me and my aunt.”
+
+He thought that would be the end of his turn, but everyone was still waiting patiently, like they were giving him time to say more.
+
+Really, you guys. That’s it for me on the family front. There might be some distant cousins thrice removed out there somewhere, but other than that…
+
+“I have two close friends back home,” he added. “One of them is practically my brother.”
+
+He steered clear of saying, “His parental situation was shitty. We basically raised each other.”
+
+“Is it the friend who’s keeping your cat?” asked Haoyu. “What’s his name? Is he going to come visit?”
+
+Alden suddenly realized he’d dived headfirst into something more dramatic than he’d intended. Okay. So, even the shareable portions of the Boe situation sound kind of…
+
+“His name’s Boe. I’m sure he’ll come visit eventually. He’s on my guest list.” Alden tried to sound casual. “I haven’t mentioned him before because he’s not home right now. He ran away after my funeral.”
+
+Haoyu blinked. Lexi frowned. Kon squinted at him.
+
+“I managed to get in touch with him a few weeks ago,” Alden explained. “He’s fine. He said he would go back home as soon as he’d figured things out.”
+
+This story had been supported by some of the fake phone calls Boe had insisted Alden make in public locations.
+
+Nobody responded.
+
+“And there’s my friend Jeremy. His parents are lawyers. He has a sister in marching band. He’s taking great care of my cat!”
+
+Thank you for being the sane one, Jeremy.
+
+Alden searched his mind for other proof that he’d had a mundane and solid social life before coming to Anesidora.
+
+I regularly buy gifts for an alien chained to a desk in the Chicago consulate. That’s not exactly…ah, screw it. I’ll tell them about how Kibby is cooler than all the other younger siblings that have been mentioned tonight.
+
+“You had a funeral?” Kon blurted.
+
+Lexi looked over at him. “You know everyone thought he was dead. What else would’ve happened?”
+
+“I do know. It just never occurred to me that he’d had an actual funeral.”
+
+“Was it a good funeral?” Astrid sounded fascinated.
+
+“I mean…I wasn’t around for it,” said Alden, startled. “But no. There were like a thousand people there, and I only knew a few of them well.”
+
+“That is so weird,” said Kon. “It must feel really weird. Does it?”
+
+“Was there a casket?” Astrid asked. “Or an urn?”
+
+“It’s only weird if I think about it. I haven’t had much time to bother. And according to my aunt, there was no casket, Astrid. Just a giant picture of me on a stand.”
+
+“You deserved something more exciting than that,” said Haoyu.
+
+“I agree,” said Astrid. “I could come up with a better funeral in five minutes.”
+
+The dinner ended with a lot of people planning increasingly absurd funerals for themselves.
+
+Alden eventually found himself nodding along while Astrid described her wish to have her ashes launched off the top of Nautilus Needle at midnight by a magic cannon.
+
+Haoyu wanted a statue made of himself and placed somewhere statues didn’t belong in order to perplex as many people as possible. And Lexi refused to play along, which resulted in Kon planning a jazz funeral for him without his input.
+
+When they left the table, their stomachs were full of food, and they were all laughing too loudly about their own dumb ideas.
+
+Alden decided that was a nice combination, all things considered.
+
+******
+
+******
+
+a few hours earlier
+
+******
+
+******
+
+Jacob hadn’t meant to call Maricel Alcantara. It wasn’t part of the plan. But as the cruiser had set off, dipping down into a wave and making his stomach churn, he’d suddenly thought, What if she regrets it?
+
+This place that pretended to be a palace one minute only to show its true colors as a prison the next—she thought she’d be all right here, with these people, but how could she be? Everything got worse when you left intake, not better as people kept promising him.
+
+So he’d sent her a message. He’d tried to give her one last chance.
+
+She’d refused, and he’d forced himself not to answer any of her subsequent messages.
+
+They would probably never see each other again.
+
+Salt water spattered the windows as the man in the cockpit flipped switches and turned the silver wheel. Jacob sat with the others in the cabin. The boat was well-appointed, but he could hardly make out the wood floors or the galley. Supplies covered every surface. The dinette furniture had been removed to make room for something particularly large wrapped in a tarp.
+
+There was food, of course, but mostly the boat was filled with magical equipment, spell ingredients, cases that Jacob was sure held weapons—all things that were difficult or expensive for people to obtain off Anesidora.
+
+The bunks had been left intact, but they’d have to sleep in shifts if they wanted to use the beds. Three of the passengers were crammed onto the small settee right now, and a fourth was sitting on top of a large plastic bin he’d proudly told Jacob was full of stolen potions. The fifth was…there was no fifth.
+
+<<I robbed a dispensary earlier today. That wasn’t easy. But it will be a welcome gift for our brothers in the fight,>> the man sitting on the bin had said.
+
+Jacob was the youngest here. The man who’d stolen the potions was around twenty-five. The strange one on the end of the settee who kept humming to himself and picking at a scab on the back of his hand until it bled looked a decade older. The girl with her soft, dark curls piled up on top of her head in a barrette had said she was “nineteen and ready to see what’s out there” when they all introduced themselves. The other one…there was no other passenger.
+
+The captain had graying hair.
+
+I wonder if I’m a part of “the fight” now.
+
+He hadn’t planned to be, but ever since he’d first reached out to Superhumans at Large, he’d felt like the stars kept aligning. Everything they asked for came to him so much easier than he’d thought it would.
+
+His eyes found his own contribution to the boat’s wealth of strange devices. The Submerger had a place of honor on the floor just beside the captain. The aquarium-like container sat on top of a crystal dial that was obviously made to hold it.
+
+Jacob hadn’t had to get that part. The captain had been in possession of it already, and he knew how to use it from a previous experience with one of these devices.
+
+The Submerger would only be the second one SAL had obtained. They were calling him a hero.
+
+I don’t think they would be as impressed with me if they’d met Orpheus Velra themselves. He’d have sold Earth to the devil for a cigarette.
+
+“You need to relax.” The girl bumped his knee with her own. “We’ve got a long trip ahead of us even with our friends meeting us halfway. If you stay this tense the whole time, it’ll be rough.”
+
+“Aren’t you nervous, too?” Jacob asked.
+
+“Not much.”
+
+<<No reason for any of us to be nervous,>> the captain said. <<As soon as we’ve gained some more distance from the island, we’ll use this beautiful thing.>>
+
+He pointed down at the Submerger.
+
+<<We’ll sink down deep, deep. And we’ll go so slowly we become one with the depths. So slowly we leave no mark for them to trace and make no sound for them to hear. We will slip past the patrols and pass through the sea without an echo.>>
+
+Jacob swallowed.
+
+The captain smiled out at the darkening sky. <<We will fade from Anesidora like shadows. And no one will see us again until we are reborn into the light.>>
+
+**********

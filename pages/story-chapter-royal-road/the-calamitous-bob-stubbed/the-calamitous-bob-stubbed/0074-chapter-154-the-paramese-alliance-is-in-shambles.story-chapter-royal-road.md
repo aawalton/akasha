@@ -1,0 +1,463 @@
+---
+id: a6e4a8dd-00a9-5ce4-b597-b632b7c0c5c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 154: The Paramese Alliance is in shambles"
+slug: 0074-chapter-154-the-paramese-alliance-is-in-shambles
+partOf: the-calamitous-bob-stubbed
+position: 74
+ownLength: 5777
+unit: words
+ownProgress: 5777
+publishedAt: 2024-02-23
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1529432/chapter-154-the-paramese-alliance-is-in-shambles"
+royalRoadId: "1529432"
+markedReadAt: "2026-06-29T21:17:22.097Z"
+---
+
+Nestled in a depression between two mountains, the Paramese alliance had made its camp. Viv had to admit that it didn’t look like much. There was enough space for a medium town there but the tents and sober stone blocks raised by brown mages would comfortably host twenty thousand people, no more. An army that size would be respectable for a small country but they were not that. They were the mighty alliance supposed to stop whatever roamed Halluria, defeating what had been the continent’s bogeymen for generations.
+
+Things were… not looking good.
+
+The Harrakan column moved to the spot designated for them in good order. Temple Guard engineers ran around to mark areas then, as soon as they were done, fragments of the army would set up while the rest stood guard under the flabbergasted gaze of the rest of the alliance. Viv could understand them. Her soldiers proudly bore the flag and armor patterns of a long dead nation. It was like witnessing an ancient Roman legion asking to join NATO. Only more effective.
+
+Her attention returned to the encampment. For all her criticism about the low numbers, order and discipline ruled, giving her some hope. The tents and simple lodgings stood in orderly rows separated by palisades, each marked by colorful pennants. Patrols walked the ground while scouts left and returned from a passage east at regular intervals. She could spot three different factions. The first was Baranese, clearly, though the mismatched uniforms and old gear were a far cry from the expected standards. Nevertheless, their members stood with confidence with well-used weapons. The second group came right out of some Conan movie complete with beast skin, huge weapons, and a camp that barely qualified as one. As she watched, a group returned from a nearby forest dragging behind it a large dead beast.
+
+The last group and by far the most numerous was another Baranese army. At ten thousand strong, they formed half of all available forces and came with infantry, archers, and a large cavalry contingent whose horses waited in stalls carefully crafted by mages. They all shared a green pattern and liveries bearing the image of a stag. They were the most tense and solemn group.
+
+“Whose troops are those, in the middle?” she asked Jaratalassi who was using the pause to drink something strong from his pocket flask.
+
+“Duke Eikart. We are on his lands.”
+
+“Ah, this explains the long faces.”
+
+“If we fail to stop those mysterious cannibal creatures, their families are first in line at the buffet.”
+
+“Creatures? You didn’t mention that.”
+
+“Apologies if I didn’t elaborate yet.”
+
+The old general sighed deeply, sagging in his saddle under the weight of his responsibilities. Viv wasn’t sure but she thought he had more gray in his hair than when they first met.
+
+“Not that we know much. Defectors are few and they’re almost never warriors. They speak of insectile creatures, or lizards. Hard to say. They speak of a great host coming from across the isthmus, ravaging everything in its path. We have yet to see them but we know they have just taken the nearest city. It’s only a matter of time now.”
+
+“Look, you know I’m here for you,” Viv said with some concern. “I just have one question. If the entirety of Halluria cannot stop those guys, what hope does our mismatched group have?”
+
+“Well, first, one does not cross Halluria without encountering hardships, so they might not be as strong as when they started. Second, Baran is mobilizing, as is Enoria and the north. We will receive reinforcements. We merely need to hold on. Third, I am the greatest defense strategist on this continent and have been for the past three decades.”
+
+“And you're humble too.”
+
+“I’m being realistic here, Viviane the Outlander. I have stopped Halluria’s incursions with minimum damage to our land using borrowed troops for the major part of my adult life. Trust me when I say this: you cannot be in better hands. I wish you could, but you cannot right now.”
+
+“As you say. So, what’s the play?”
+
+“War council first, then I have a job for you, seeing as your men are fresh. And women, I guess. We have a small Hallurian army approaching our positions. I need them recruited or gone.”
+
+“Recruited? You think it’s possible?”
+
+The general shrugged.
+
+“If the destruction of their homeland is not enough to cure them of their notion of superiority, then nothing will. They are still human. Perhaps there is a chance.”
+
+“I do not exactly trust my luck with that.”
+
+“Then kill them all, I care not. I merely need them gone. We cannot afford to have rogue raiders threatening our flanks and supply routes. Now let’s go meet the others. Bring your elites.”
+
+“What, all of them?” Viv asked.
+
+“Ah yes, well, that should be interesting.”
+
+***
+
+Before joining the war council, Viv stopped by her new camp to make sure everything was going smoothly. Rakan and Sidjin were erecting structures at record speed so her people could sleep comfortably in their semi-permanent barracks, the tents saved for foray into Halluria itself. Viv even had her own command bunker, though she would have to fortify it with spells before she could sleep in it. As it was, two people were already waiting by the entrance. The first was Rollo, who looked as stoic as usual. The second was a more hesitant Lana. Rollo went first with the confidence of a man with a busy schedule.
+
+“I would like for us to meet the other knights.”
+
+“You mean, you want to socialize?” Viv asked with a frown.
+
+The trip through Baran had led to three separate duels. She expected the order master to aspire to some respite after the whole mess.
+
+“Viviane, as much as it pains me to admit it, there are too few of us to make an impact on the battlefield. You know how cavalry charges work.”
+
+“The more of you there are…”
+
+“And the more powerful the skills. Precisely. Horse riders always unite on the eve of a great battle for we will charge and fight together. I expect this time will be no different.”
+
+That made sense to Viv. She wasn’t a cavalry expert so Rollo most likely knew better.
+
+“Alright. Do as you see fit. We’ll be going to the main camp soon anyway.”
+
+“By your will,” Rollo replied with a manly fist to his chest. The armored plate bonged pleasantly, then he was off.
+
+Viv turned her attention to Lana.
+
+“So can I come as well?” she asked with a slightly acidic tone.
+
+“All the elites will come. That means you, Rakan, and Sidjin as well.”
+
+“Yes, indeed.”
+
+Silence awkwardly extended. Viv enjoyed silence. It was a powerful tool, sometimes.
+
+Lana fidgeted under her attention.
+
+“I, hmm, I have to say something to you in private.”
+
+“Then now would be the right moment.”
+
+Lana searched Viv’s expression for something, though the witch didn’t know what. Lana wore the same elaborate blue dresses she had favored under Elunath’ control, but the general feeling was completely different. From demure servant, she had grown into a stern leader for her girls. Viv felt the image was brittle, however. Something about keeping the same clothes, the same skin, bothered the witch on a fundamental level. She would have tossed those clothes away as a sign of emancipation but… Lana was Lana, with her own feelings on the matter. At least that’s what Viv told herself.
+
+“Yes. I admit to treating you rather coldly since our return, perhaps I even made our relationship adversarial without cause,” Lana articulated slowly.
+
+Viv nodded, letting her talk. It seemed like an important moment for the blue mage.
+
+“I… may have let my past influence me too much. I… this is difficult to admit. I feel guilty, have felt guilty for a while now. During my years of service, I have done my utmost to accommodate Elunath and his moods, to help his servants navigate his feelings and mood swings. I have been vigilant. I have been watchful all the time, in tune with his attitude, so the others would not be beaten. A word there, a touch here. All I could to smooth things out.”
+
+Another nod. Lana licked her lips, eyes lost.
+
+“But you came and you killed him. And that means he wasn’t as invincible as I thought he was. That means that for years, I have been the agent of his domination by instilling a sense of fear in the others. I have enabled his tyranny by attuning those around me to his every desire.”
+
+“Lana…”
+
+“No! Shut up, please. I acknowledge that… I was too weak. Perhaps fighting would have made things worse. I did the best I could. We were alone, unsupported. He made us that way. He selected us because we were isolated to begin with. I know that. It doesn’t matter. I helped him control us, me, by my own will. So… I can’t let that happen again. Ever.”
+
+Lana looked up to see if Viv got it. She did.
+
+“You think I’m going to turn like him.”
+
+“No! No, not think. Fear. I fear that. And that is unfair to you, because you have done right by us every step of the way. But I look at you, look into your eyes, feel the power in your aura, and I remember him… You are fine for now and perhaps you will remain so for a long time. You have friends and a heart. And principles. And yet, and yet… you are an elemental archmage… and I cannot stop you. Maranor help me, if you decide to crush us, there is nothing I can do to stop you. None of us can.”
+
+Viv nodded.
+
+“Look, there is nothing I can tell you or swear to you that I have not sworn before so I believe the solution to our problem here must be found elsewhere. Have you talked to Abe?”
+
+“He means well. He just doesn’t get it. He has always been strong, strong enough to hide even from a demigod and then strong enough to defeat him, with your help.”
+
+“Not what I meant.”
+
+Anger replaced confusion in Lana’s traits so Viv stopped talking. It was clearly a difficult moment for the mage.
+
+“What do you mean then?”
+
+“You are presenting a very strong front to the others. You want to be the rock they depend on. Am I correct?”
+
+“Of course, you are correct! How can I do anything less? After everything I’ve done to hurt their minds?”
+
+“You need to give yourself the time to grieve, Lana.”
+
+“Grieve? I haven’t lost anyone!”
+
+Viv sighed. Lana was growing agitated.
+
+“This was a waste of my time,” she said, fidgeting and looking around.
+
+“Wait. I will try again. Remember, I am from a very different culture, so I ask for your patience. I… I am scared as well. I hide it in public, of course, however the truth is that there are still plenty of things that can kill me here and if not me, then they can destroy what I have built and the people I have gathered. I am scared but I also share my fears with the people I love around me. Sidjin. Solfis. Arthur. Even Abe on occasion. I cried with my roommate back in Helock when I realized I would never see my family again.”
+
+“Ah, I am sorry…”
+
+“When I say you need to give yourself time to grieve, I meant the life Elunath stole from you and the others. You… were probably in a state of hypervigilance for a long time and you can’t let yourself go because you feel responsibility for the others. You owe it to them to protect them from those who would abuse them again, including me.”
+
+Lana slowly nodded.
+
+“Yes.”
+
+“That’s no way to live. You’re going to break sooner or later. That’s why I’m telling you to talk to Abe, because he will help you get that pain off your shoulders so you can finally take a breath. You owe it to yourself, Lana. Can’t protect everyone else if you’re on the verge of breaking all the time. You’re safe now. I’m not Elunath.”
+
+“I know.”
+
+“Lana. I am not Elunath. My friends and I are here for all of you, I swear it. Rely on us like we rely on you. Do yourself that favor. And if you are concerned, you can do the same oath to our cause as Ban did.”
+
+“Ban? Loyal-to-a-fault Ban? The head of the heavies?”
+
+“When he swore allegiance to me, he also promised that if I were to ask him to commit atrocities, he would stab me on the spot.”
+
+“He… he did?”
+
+“Looked me right in the eyes too.”
+
+“Haha,” Lana said, wiping her eyes. “I… cannot promise I will fully trust you but… I’ll try.”
+
+“What you went through cannot be fixed in a single conversation. Just know you have all the rest of your life to find peace and we’ll be there alongside you, yes? You can be the one the others look up to without turning into some invincible statue that never feels anything. Just accept the help, please?”
+
+“Right. Let’s save the continent first and then I’ll save myself.”
+
+“I mean, you can work on both at the same time. Peace?”
+
+“Hm?”
+
+“Are we at peace?”
+
+“Oh yes. Thank you for this. I feel stupid now, bothering you with my qualms in the middle of a war.”
+
+“Don’t worry about it, Lana. Let’s just say getting along is part of my job.”
+
+“You are the strangest empress in all of Nyil.”
+
+“I can live with that. I don’t need to affect an aloof countenance because I can melt people off the face of reality. People know it, I know it. It makes them very polite.”
+
+“Why, I feel safer already.”
+
+***
+
+The command tent was not so much a tent per se as a bunker with an open roof covered in canvas. The light of the noon sun shone through the white fabric. It was also a little stuffy, and cramped, even before Viv walked in with her elites.
+
+Three groups waited by a large table bearing the usual maps, corresponding to the camps she’d seen outside. The first consisted of gruff Baranese soldiers headed by an enthusiastic young man with a stag emblem on his gambeson. The second was made of tall, wild men who reminded Viv of Koro under the command of a colossus so tall his head almost touched the ceiling. A large glaive rested on his impressive shoulders while his gnarly face exuded contempt and boredom in equal measure. The last group, and also the most homogeneous, followed an old man in full, green plate armor. Gray stubble covered his chin while his gaze went over Viv’s troops. He radiated quiet disapproval.
+
+“Hello, Viviane. Be welcome. This is Duke Eikart,” Jaratalassi said, pointing at the sour noble. “Here is young Duke Falstag who leads the duchy to the north. His people have suffered much at the hands of the Hallurians.”
+
+“We are proud to fulfill our oath to our allies!” the duke said with enough energy to light up a happy lightbulb.
+
+“And here is Cloud Skull, a mercenary from the south. He agreed to join us for the fight.”
+
+“Yes,” the titan said with a voice like a grumbling rockfall. “Now that we’ve sniffed each other’s arses, can we go out and fight?”
+
+“Oh but we’re just starting with the sniffing,” Viv replied, holding the large man’s glare.
+
+He was interesting. Something in his aura formed a sort of web across his body that kept the ambient mana around him at bay. While most arcane fencers imbued power to their strikes, this one used it to reinforce his body. She suspected he resisted magic to a degree, though how much was difficult to assess.
+
+“I will align with my uncouth ‘friend’ here, woman. Did you have to bring that many people?” Eikart said in a low voice.
+
+“Elites are people of the fourth step of higher with a command role, yes?”
+
+Eikar glared. That was a rhetorical question.
+
+“Then they’re all my elites.”
+
+A mage lowered himself to whisper in Eikart’s ear. The man’s eyes widened.
+
+“Lots of mages,” Cloud Skull said. “Lots of talking. Back home we would be wrestling for the title of warchief.”
+
+Eikart looked like he wanted to hang himself. Jaratalassi had the patient look of a man who was waiting for a group to calm down while Falstag’s lips formed a disapproving line.
+
+“We’re all on the same side here,” he said.
+
+“Yes,” Viv said, “well.”
+
+She extended an arm to the barbarian who only smirked. Viv saw mana flood his conduits, intensifying his resistance. She souped up a kinetic spell.
+
+Instead of hitting the man directly, she compressed a pane of solid transparent mana, then released it to smack against his chest. A loud ‘woosh’ made the tent’s fabric flutter. A few of the southmen raised their arms to protect their eyes.
+
+Cloud Skull grunted under the impact.
+
+Even accounting for the resistance, the pane should have sent the man tumbling out but instead, he stood his ground. His feet dug a furrow in the earth while his back smashed against the earthen barrier. Like some sort of anime protagonist. A few of his unfortunate men collapsed at his passage, but none were hurt.
+
+A terrified silence filled the tent.
+
+“Consider yourself wrestled,” Viv said amicably.
+
+The craggy giant slowly extracted himself from the small depression his mass had carved. Viv patiently watched him lumber back across the room with the speed and momentum of a continental drift. His presence filled the air, meeting Viv’s own cold dragon aura. His face split and he showed rows of ivory teeth.
+
+And then he laughed.
+
+His tribe chuckled with him. Hands left the handle of weapons. Viv allowed herself a smile.
+
+“Well you got stones, Weird Eyes. Hope you fight as well as you bark.”
+
+“Count on it. Now, for the arse sniffing. This is my second and paramour, Sidjin the Red Mist, hero of the Glastian wall.”
+
+“Nice to meet you,” the fallen prince replied with casual charm.
+
+His reputation preceded him if the whispers were any indication. With a smirk, Viv’s introductions went on and the mood turned as she continued. Solfis and Zero-Five were of particular interest to the tribesmen while Lorn and Rollo were known to the Baranese for their battle prowess. After she was done, the others introduced their side as well. Falstag brought some solid fighters while Cloud Skull’s men were all introduced with anecdotes that mostly consisted of killing beasts while drunk off their tits, butt-naked, or both. Except for Adon Goat-Fucker the very unfortunately named. Eikart brought the most balanced contingent including most of the local mages who were all third step. Eikart regained some colors after they were done.
+
+“Tradition dictates that a monarch should lead us, however I am sorry to say that not everyone can claim they’re an empress and take precedence,” the duke said with a dangerous tone.
+
+“That’s fine. I’m here because Jaratalassi asked me, and I will follow his lead.”
+
+“How very… humble of you.”
+
+Eikart leaned forward in his seat. His fist gripped the edge of a table in a death grip.
+
+“Nevertheless, you have my gratitude for coming to the defense of my ancestral lands. Those are strange times when Halluria fails to defend itself and Param denies me the help I requested. Now we stand facing a new danger. I hope… it will be enough.”
+
+“And with this, I would like to explain my plan,” Jaratalassi said.
+
+Everyone gathered around the table, then Jaratalassi gently forced people back so everyone could see. The general pointed at a map that showed the camp they were in as well as the surroundings. It had been exquisitely made by someone who clearly knew their stuff.
+
+“This is our camp and here is the supply line going west to the witch gate the Empress established.”
+
+Viv hid a smile. Jaratalassi was helping her by giving her credibility, something he was doing of his own accord.
+
+“The only viable path east goes through a large ravine that forms a gap in the mountain chain that forms the barrier. We will fortify that ravine as a fall-back position. Beyond it lie the desertic plains of Halluria. A patch of forest to the north can provide some cover but otherwise, the place is desolate. Our plan is to bait out the enemy outside of the ravine and face them there until we are pushed back.”
+
+“Hold on,” Viv said, “Why not simply hunker down within the fortified spot? We should have the advantage in terms of casters. A chokehold would favor us.”
+
+Jaratalassi patiently waited for her to finish. He didn’t seem offended by her questions.
+
+“We might do this in the end. As to why we will delay, there are three reasons. First, our most powerful fighting force is our cavalry and they cannot perform through our walls. Second, there is a secondary passage about thirty leagues to the south and I very much want our mysterious foes to commit themselves against us rather than look for an alternative and so far lightly defended way into our backlines. We want them to want to attack us. Finally, those fortifications do not yet exist. Our engineers will need time.”
+
+“I understand.”
+
+“Good. Now comes the question of the Hallurian force we detected half a day away. I would like the Harrakan contingent to engage this force and either recruit or destroy it.”
+
+“Hallurians cannot be recruited. You might as well put your hand in a snakehound’s maw,” Eikart spat with venom.
+
+Rakan cleared his throat quite loudly, which led to an embarrassed silence in the room.
+
+“Present company excluded,” the duke grumbled. “But if you want to try, be my guest, just don’t come running if they attack you like feral mutts.”
+
+“Neriad might yet grant them mercy,” Farren said.
+
+That statement was received with the same amount of consternation as claiming beastlings were cute. Nevertheless, no one dared to contradict a member of the temple to their face on the eve of an important battle. Viv wanted to pat the Voice of Neriad’s shoulder but that probably wouldn’t be well received.
+
+“Yeah, well, it’s now or never,” Jaratalassi finished. “If not most of them, then at least a few prisoners if at all possible. They are disheartened, after all.”
+
+“We will do our best,” Viv assured.
+
+“Excellent. In the meanwhile, the Baranese force will hold the mouth of the ravine while our engineers go to work. Cloud Skull, can I count on you and your men to scout the nearby lands? I want to know when and where the army will strike.”
+
+“Oh we’ll do better than that,” the massive warrior replied with a smirk “We’ll tickle them so they follow us where you want’em. Don’t you worry.”
+
+“Then we are in agreement. I will ask that you move tomorrow at first light. Your Majesty, some of our scouts can lead you to the Hallurian camp. Thank you for coming. Viviane, a moment please?”
+
+Most everyone filed out, except Eikart who stood at a distance. Tension rose near the exit as a natural consequence of arrogant magic-boosted superhumans who didn't trust each other being in an enclosed space but, by some miracle, everyone left without a surprise riot. Jaratalassi approached Viv with a light smile, the first expression of mirth she’d seen on him in a while.
+
+“It went much better than expected. I have to admit, when you pushed Cloud Skull back, I thought it would end in a melee.”
+
+“Unlikely. That man was never at risk since he resists magic.”
+
+“Yes. Arguably completely.”
+
+“No such thing.”
+
+“His reputation is well known, and he has been taunting our mages since he arrived. We need him, however. Southerners are a wild bunch but many of the tribes cling to their reputations like barnacles to a hull. In any case, please be careful around him. Do not aggravate him further if possible.”
+
+“Sure.”
+
+“I wanted to ask a service of you. While you are out, I would like you to create a witch gate in the woods to the north, hidden from sight. In case we need an… alternate path in.”
+
+Viv nodded. That was a good idea.
+
+“I’ll create the twin in our camp upon my return and lock it so only we can use it. Hidden. Sidjin and Rakan will help me.”
+
+“Perfect. That was all then, thank you.”
+
+That left Duke Eikart to deal with. He was still waiting. Her first instinct was to bow as it was etiquette as taught by the Academy but… she was a monarch now, technically, and bowed to no one. The duke didn’t seem to take umbrage.
+
+“Greetings, Viviane of Harrak. Although I will repeat that I appreciate you coming to the defense of our land as part of the alliance, I will ask that you keep your knights in your camp while we are at rest.”
+
+“You… what?”
+
+“I want your knights off my perimeter. They have been challenging my soldiers to poetry contests and declaiming texts of… of dubious moral virtue! I will not abide them tempting my men into reprehensible behavior. Please, I do not mean this as an insult, but if you cannot control your men, then they have no place within my camp!”
+
+Viv glared. Unfortunately, the duke had a right to expel the Blue Roses because, simply put, his turf, his rules. That was a constant of Paramese politics, also the reason why slaves were tolerated in allied war camps although several cities had completely banned the practice on their territories.
+
+Viv nodded slowly.
+
+“Fair enough. That is your right. Was there anything else?”
+
+“No, I… no. For what it’s worth, I will petition the king to give you recognition as a gesture of gratitude.”
+
+Viv nodded and left. It was Baran’s interest to do so anyway to keep Enoria occupied and delay the return of the continent’s second most powerful kingdom in the arena of international politics. Outside, she strode back to her camp, asking Rollo to come with everyone.
+
+“What is the matter, Your Majesty?”
+
+“You have been expelled from the camp for attempting to corrupt the youth.”
+
+Rollo glowered in resentful silence but Viv wasn’t done and she asked him to stay around. Farren joined her during the short trip back.
+
+“I would like to come in the capacity of diplomat,” he told her.
+
+“What? With the Hallurians?”
+
+“Yes.”
+
+Viv considered Farren’s offer. The young Voice of Neriad had this genuine, hopeful expression she didn’t trust.
+
+“Look, I don’t think this is a good idea. I was planning on having Rakan set up a meeting with their leader on neutral ground, for example an open space within range of our wasp catapults.”
+
+“This will not work.”
+
+“It will work well enough for our purposes. I suspect we’ll have to kill most of them and capture the fleeing ones. Those talk. I can say from experience.”
+
+Farren shook his head. His jaw set in a stubborn line.
+
+“Viv. This is our only chance at reconciliation.”
+
+“Fuck reconciliation. Have you ever fought them? What I saw in the places we liberated… The ritualistic suicides, the executed prisoners. Just…”
+
+“Viv. This is not up to you.”
+
+This time, Viv did stop and glared. Everyone else did so as well, staying at a respectable distance to give them some privacy.
+
+“I do believe I lead this army, Farren.”
+
+“You do, and the temple guard will follow you to the isthmus and back. But I’m not here in capacity as a soldier. I’m here as a diplomat.”
+
+“You are here as my quartermaster.”
+
+“I am sorry, Viviane. I am not. For centuries, we have fought the Hallurians to a standstill in a clash that left hundreds of thousands dead. Today, they are on the brink of destruction after an invading army brought them to their knees. If there is one chance a hand extended in friendship and forgiveness turns our relationship around, even for a single clan, even one city, we will have achieved more for civilization than any single person in recent history. Think about it, Viv. Peace with Halluria. Is that not a dream worth fighting for?”“It’s a dream that will get you killed.”
+
+“If there is a single chance it can succeed, I owe it to mankind to try.”
+
+Viv glared at Farren.
+
+This was Rakan at the arena all over again. Someone she cared about was going to take a risk she disapproved of. This time though, there was no one she could convince to stop him. Unless…
+
+“Does Lorn know?”
+
+“He disapproves as well. His task is not to take risks but to protect those under his charge. And no, Viviane, he cannot tell me what to do.”
+
+“At least take an escort with you.”
+
+“I will do so while you remain at a distance. If it looks like negotiations will fail, they will try to extract me. I am not a complete fool. And I will wear armor.”
+
+“Fine.”
+
+Not that she could do much anyway. She just disliked risking Farren’s life for people she didn’t care for.
+
+Viv didn’t control people. They flocked to her banner because they believed in what she believed in and that was a great strength, but her rather loose hierarchy meant they pursued their own agenda and, sometimes, it meant decisions she didn’t approve of. She’d never been stronger but she would never be strong enough to protect people. At least not from themselves.
+
+“I’ll come with you.”
+
+“You’ll do no such thing. You breathe power and violence, Viviane the Traveler. Your aura is not that of a negotiator. I might as well approach them with a naked blade.”
+
+“Fuck.”
+
+Viv gave up. Maybe there was a way to protect him by enchanting his gear. Or maybe she should just let go and accept people would take risks for things they believed in.
+
+“Thank you, Viviane.”
+
+“Hmm?”
+
+“I must admit, you delaying the attack on Kazar to take care of your feverish dragon, then assassinating a member of the temple made me fear for the future. So far, my worries remain unfounded. It seems power has not gotten to your head quite yet.”
+
+“Well, I have a lot of people to keep me in line.”
+
+“Yes. I hope those include more people like Abenezigel— and I still cannot believe we have a redeemed lich — and less people like Solfis.”
+
+“No promises.”
+
+Viv stopped at the entrance of the camp to cast eldritch walls on a piece of land under the curious gaze of sentries. Her soldiers were busying themselves using whatever mana they had to create barracks and get settled. She was rather impressed by how efficient they were.
+
+“You wanted to talk to me, Your Majesty?” Rollo asked, apparently still a little sour.
+
+“Yes. One moment. Let me finish.”
+
+Once a platform was raised, Viv stepped onto it and created a basic circle with a directional sound enchantment.
+
+“Alright Rollo. You have been banned from Eikart’s camp and I can’t do anything about it, but anyone who steps on the platform and speaks will get their voice amplified and sent in the direction of said camp. I’m setting it up in case we need to, ah, communicate with them? Yes. And it would be irresponsible of you to use it to declaim poetry or anything of the sort.”
+
+“I see, Your Majesty. Not to worry. This contraption will be in good hands. BLUE ROSES, TO ME!”
+
+“And with this I am off. Do not disturb me.”
+
+Her dastardly plan to lure more knights to her banner by ‘infecting them with the gay’ settled, it was time for Viv to build her next gate.
+
+***
+
+The world felt different on the other side of the mountains.
+
+It was not the mana. The planet didn’t care about the difference enough to change itself. It was the tension in the shoulders of soldiers, eyes searching the powdery edge of the horizon for movement. It hid in the strained voices yelling orders and the white knuckles clenched on sword handles, or the shafts of vicious quarrels. Viv looked behind at the Harrakan army. Three squares of heavies provided a defensive line around the marksmen and the yries war machines. The last square held the supply train including cisterns for there was no water to be found around here. Only dry, rolling valleys of dusty stone peppered with tufts of brown grass as far as the eye could see. The Hallurians were hidden there, somewhere, in one of the many folds of the wrinkly land. The running southerners by her side moved with enough purpose that she was confident they would be found quickly.
+
+Morning turned to noon and the army stopped for a short rest, then they set off again. The temperatures were already warm enough to make Viv slightly aware of the heat, though her peculiar constitution protected her. Within two months, this entire area would turn into a sweltering hellscape hostile to life itself. They found the Hallurian army shortly after.
+
+It was not very difficult.
+
+The first hint was the low cloud of vultures encircling the low valley. The second was the stench. It smelled like rot and old excrements, a pungent cloud that made Viv wince with every breath of wind. They knew the Harrakans were coming, because when Viv crested the last ridge, she found them arrayed in battle lines across a low plain.
+
+Calling that gathering an army was generous. The camp behind them was more of a messy array of debris plunged in squalor and littered with damaged goods and the occasional dry corpse around a more solid, fortified core of well-ordered tents. Warborns and archers took the center of a formation behind a man in full plate and a helmet bearing two horns that gave him the appearance of a beetle. All around them were militias, all in all perhaps four thousand people though the real fighting force was perhaps a quarter of that. They looked starved, filthy, and dehydrated but they certainly didn’t look like they were about to surrender.
+
+“Well. I guess it’s your turn to shine,” she told Farran.
+
+“Have some faith, Viv,” the man said. “The gods are watching.”
+
+“Yeah. Somehow, that doesn’t comfort me.”

@@ -1,0 +1,313 @@
+---
+id: e5f0eb03-40f1-50ce-be30-09c99effec11
+page-type-slug: story-chapter-royal-road
+title: "THIRTEEN: The B-Ranks"
+slug: 0013-thirteen-the-b-ranks
+partOf: super-supportive
+position: 13
+ownLength: 3490
+unit: words
+publishedAt: 2023-02-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1116754/thirteen-the-b-ranks"
+royalRoadId: "1116754"
+---
+
+When Alden stepped through the doors of the consulate, he was surprised to find the lobby wasn’t empty.
+
+He’d expected it to be abandoned since the only weekday classes were in the evening. But there was a man sitting in Gorgon’s favorite chair, taking advantage of the free WiFi to play an MMORPG on his laptop. And there was a rowdy trio of two college-aged guys and a girl taking pictures with Gorgon in the background.
+
+They seemed to be trying to get some kind of humorous “Eek! A demon!” shot, judging by the faces they kept making and all the weird angles they were going for.
+
+Gorgon’s expression was peaceful. In a human way. Which meant he was deliberately putting on a show so their pictures would be ruined.
+
+Assholes, thought Alden.
+
+He walked through the middle of the group and took a wide stance at the desk, so that the alien would be mostly hidden from view.
+
+“Hi,” he said.
+
+“Aren’t you supposed to be in school?” Gorgon’s tone was mild.
+
+“I heard you needed help,” Alden whispered. “So I ran right over to save you.”
+
+Gorgon tilted his head. His black eyes were focused on the tray full of ballpoint pens by Alden’s arm.
+
+“You’re not serious?”
+
+“Uh…no?” Alden was surprised. He’d thought it was obvious he was joking.
+
+“Ah. I thought not. But you haven’t brought food with you today, which is out of the norm, so I wasn’t sure.”
+
+Right. No snacks.
+
+This was the first time he’d come to the consulate without any in ages.
+
+“Sorry,” he said. “I was in a rush to get here because of…that seventy percent probability thing. It happened.”
+
+He didn’t want to say it out loud in front of the gamer dude and the college jerks.
+
+“I see.” Gorgon’s eyes met Alden’s briefly then slid away. “Let me turn off the WiFi.”
+
+At Alden’s confused expression, he added, “It’s the fastest way to clear the lobby.”
+
+Sure enough, five minutes later they were alone in the building.
+
+“So,” said Alden, tapping one of the pens nervously against the top of the desk, “what usually happens now? Do I just…say it? Are there forms to sign or something? Is confetti going to fall from the ceiling?”
+
+“I’ve asked for a confetti cannon, but it’s never in the budget.”
+
+Alden grinned at him.
+
+“To answer your question more seriously, what usually happens now is that the selectee or Avowed comes in with their family and friends. They reveal their status and declare their intent to lawfully register themselves as a superhuman.” Gorgon paused. “Sometimes, there are news crews in attendance. I congratulate the chosen individual and fill out the necessary paperwork with the United States government, or the Canadian one on occasion. If the selectee desires a class trade, they have to go through the trade process first.”
+
+“So no registering until after affixation?”
+
+“Correct,” said Gorgon. Then he added, “After the formalities are complete, I shake the Avowed’s hand. And I give them a free ballpoint pen.”
+
+“Well, I’d rather not have my Aunt Connie around for this. She’ll cry a lot, or cheer a lot…I’m not sure which, but it’ll be awkward since I’m pretty mad at her right now. And I’ve already stolen eight or nine of your pens. Plus, I need to do the trade.”
+
+Gorgon stood up from his chair and motioned for Alden to follow him. They headed for the elevators.
+
+“I’m surprised,” Gorgon said as the doors closed. “This is sooner than I expected. Based on…certain insights I had upon drinking your blood, I assumed you would be chosen in six to eight months. But I am not flawless. Have you perhaps received a high ranking?”
+
+Alden shook his head. He was practically vibrating with energy. “Not really. It’s B. Cudgel Meister.”
+
+“Cudgel?” Gorgon’s voice was incredibly neutral now.
+
+Smooth as a sheet of glass.
+
+Alden assumed it was because they were in that dangerous territory where he had to avoid giving any useful information. That was fine. Alden felt like he could fill a canyon with his own thoughts, and now that they were alone, he could ramble to his heart’s content.
+
+“It’s the worst. For what I want to do anyway. Meister could have been good, but not with a close-combat weapon subtype. They’re almost purely geared toward offense, and being a B-rank superhero who fights at close range is…no. For my taste. I’m not really into hitting things sort of hard and then dying to literally any villain that outranks me.”
+
+Being a B-rank who fought non-super crime would be way safer, but most countries had laws that prohibited the hiring of Avowed for military and police forces. Because of the potential for abuse, the UN and the Associated Heroes of Earth had more or less banned the practice where they could.
+
+“Anyway, I’m going to trade it for something better. I hope…” Alden trailed off as he realized the elevator was not going up. It was going down.
+
+“Gorgon, does this building have a basement?”
+
+“Yes.”
+
+Alden stared at the elevator panel. “Where’s the button?”
+
+“There isn’t one. It’s accessed through a System sigil. The lower levels are for official Artonan use only.”
+
+“I’m not Artonan.”
+
+“As a selectee, you are now Artonan property. It’s close enough.”
+
+Property? Well, technically. Maybe. But still.
+
+Alden gave him a look. “I don’t think you have to put it quite that way. It sounds horrible.”
+
+“I am merely stating a fact as clearly and succinctly as I am able to. I can’t help how it sounds.”
+
+“Right,” said Alden. “But, just as an FYI, most people prefer to think of it as being drafted. And getting magic powers in exchange.”
+
+“That…no, nevermind. The semantics are too fraught with human emotions for me to navigate. Let us just say that your status affords you new privileges and comes with proportional costs.”
+
+“That sounds way better.”
+
+“If you say so.”
+
+Alden was disappointed when the elevator opened onto a perfectly normal looking hallway, lined with perfectly normal looking doors. The floor was beige, the walls were beige, and as if to add a hint of interest, the doors were a slightly darker shade of beige.
+
+Fluorescent lights buzzed overhead.
+
+Gorgon led him to a small, gray office that was nearly empty except for a table that seemed to have been carved out of a block of milky white crystal. There was a single metal folding chair beside it.
+
+Gorgon gestured to the chair, one of his golden bindings trailing through the air like a scarf as he did so, and Alden took it.
+
+The alien went to stand on the opposite side of the table. “Before we begin, I will tell you exactly the same thing I tell every selectee who comes here without an entourage of civilian onlookers. It’s a simple courtesy I would extend to all, but it tends to make your government officials whine when they catch wind of it. So it is reserved for the lonely few.”
+
+Alden blinked. “I thought you couldn’t tell me anything really useful?”
+
+Gorgon nodded. “This is less a revelation and more a reminder of something you should already know. Which is this: even once your class is affixed, you don’t actually have to register yourself as one of the Avowed.”
+
+Alden blinked. “Beg pardon?”
+
+Gorgon waved his hand dismissively. “It’s something that likely does not apply to you, considering what I know of your personal goals. But I have observed that young humans often barrel along the beaten path without pausing to consider other options. To be clear, registering new Avowed with Earth governments is a service this consulate provides for the convenience of the Avowed. I owe no loyalty to human Presidents or Kings. And the Artonan Triplanets have no registration requirement, because upon your selection by the System, all of your information was immediately made available to them anyway.”
+
+I did know that, Alden realized with surprise. Sort of.
+
+Being chosen by the System meant his Aunt was no longer his legal guardian, and he was no longer American. Upon registration, his citizenship would automatically be transferred to Anesidora Island. Ninety days after his selection day, he’d be required to leave the country. It was the same rules for virtually every other place in the world.
+
+But that was an Earth thing.
+
+The Artonans didn’t care where Avowed lived. Alden could take up residence in the White House or on the moon or in another dimension altogether. They could summon him from anywhere, as far as he knew, so it was all the same to them.
+
+Only…
+
+“Gorgon, not registering would make me a criminal. Everywhere on this planet at least. It’s pretty much step one in becoming a supervillain instead of a hero.”
+
+Body Drainer was unregistered. He didn’t say it, but the thought was at the forefront of his mind.
+
+The alien shook his head. “I have met a small but not insignificant number of Avowed who refuse to register, and most of them do so without becoming dangers to society. They live normal lives except for the occasional unavoidable Artonan summons. And in such cases, human governments are none the wiser or the worse for it.”
+
+Alden frowned at him. “Are you…recommending that?”
+
+“It’s not a recommendation. It’s a reminder. One I feel the need to deliver when I am able to, given the prevalence of certain narratives about unregistered Avowed. If you wanted to, you could graduate from high school with Boe and Jeremy. You could attend college. You could pursue any of thousands of different careers. And the Artonans would not regard you as a criminal at all.”
+
+Alden’s brain tripped around the idea, trying to figure out how to feel about it. “But if someone found out…”
+
+“Ah, yes,” said Gorgon. “Secrecy would be paramount in such a situation. And a life in hiding is not good for one’s nerves. I don’t mean to confuse you, only to encourage you to consider your options. All of them. Before you make momentous and irrevocable decisions.”
+
+“Okay. Thanks. I’ll…I will think about it. Maybe if I can’t replace Cudgel Meister, it’s a real option for me? But I do want to at least try for a better class first.”
+
+“And so I will introduce you to the pre-affixation trading market.”
+
+Gorgon placed one of his gray hands on top of the milky crystal table. He splayed his fingers, and a moment later, the table began to glow with a warm light.
+
+“The Triplanetary Government of Artona assigns a wide variety of classes to Earth. The types of classes they choose to offer are largely based on which services they anticipate needing from their human summons in the coming decades. I am not at liberty to disclose more than that about their thought process.”
+
+“But there is more to be disclosed?”
+
+Gorgon ignored the question and continued on with his speech.
+
+“Despite what you may have heard from more fancifully-minded people, the class you were assigned has absolutely nothing to do with your soul. You do not have a hidden power or personality trait that made the System gift you your Cudgel Meister class. It was merely the next B-ranked assignment on the System’s distribution list at the moment your being reached the threshold for selection.”
+
+Alden leaned back in the chair, and the metal creaked. “That’s a relief to hear even though I already know it. It does feel a little like I’m jinxing myself by wanting to trade classes.”
+
+Gorgon sighed dramatically. “I am aware that many humans feel that way about it. The number of young people who weep and pray over the decision here in these rooms even after I tell them there’s no need for such agony is…distressing.”
+
+“So the Artonans really don’t care at all if we trade classes around?”
+
+“They do not, provided trades only take place between equally ranked individuals. The ninety day grace period exists so that you can take advantage of the trading option. It is so that you might find a class that suits your tastes better, which will ultimately make you happier and more effective during your service.”
+
+“Sounds good to me. So how do I do it?”
+
+“You need to place your hand on the table and access the System.”
+
+“How?”
+
+Gorgon’s face twitched. “You don’t know how?”
+
+“It’s only been an hour or so. And I was busy researching cudgels on the way over here,” Alden said defensively. “I didn’t have time to research the System interface, too.”
+
+“You can choose your own verbal access phrase. Common English ones include ‘online,’ ‘call,’ and ‘access.’ Even if you do not master the art of mental commands for every System function, most Avowed find it easy enough to call the System in that fashion after a small amount of practice. You may also utilize a physical gesture.”
+
+Then he added, “I recommend assigning some hands-free ones in case you need to access the System when you are mentally exhausted, gagged, and physically bound.”
+
+“Uh…how often does that happen?”
+
+Gorgon didn’t answer. Instead, he said, “A pattern of eye movements or subtle muscle contractions is a good choice.”
+
+Alden made a mental note to figure something like that out when he had a mirror handy so he could make sure he didn’t look completely unhinged when he rolled his eyes around and clenched various muscles.
+
+“Access System,” he said.
+
+The interface of golden light blossomed into view.
+
+“It answered,” he noted. “I thought I might have to say ‘Access Interdimensional Warriors Contract’ to make it work.”
+
+“The System is a semi-sentient spell, and it’s extremely intelligent. It’s aware of all its various names. You may have a harder time if you ever find yourself trying to access one of the sister Systems on another planet, though.”
+
+“Again…how often does that happen?”
+
+But Alden was soon distracted from worrying thoughts about lying bound and gagged on foreign planets. As soon as he placed his hand on the table across from Gorgon’s, his interface lit up.
+
+“Oh. Neat. It’s like a global auction house full of desperate people.”
+
+There was even a button to sort by the trades that were ending soonest. Because they’ve got something awful, and their ninety day timer is running out.
+
+The traders’ locations were listed. They were teens from all over the world. But all of their offers were in perfect English, so the System must have been a great translator.
+
+And to Alden’s shock, people were offering actual material wealth in addition to the classes they were trading. He hadn’t thought that would be an option.
+
+“Gorgon, this is nuts. Someone in Beijing is literally paying half a million dollars for a C-rank Speedster Brute to C-rank Mind Healer trade!”
+
+“Yes, that’s been up for the full ninety days. The selectee obviously wants Healer of Mind badly, but even if one has been assigned in recent months, nobody is willing to trade it.”
+
+“There aren’t any names,” Alden noted. “Just random ID numbers.”
+
+“By default, trades are private. Though in the case of more unusual classes it soon becomes obvious who the involved parties were. In your case, I recommend not bothering to be overly secretive. You will note that there aren’t as many selectees trading at your level. You may hide your identity, but the personal touch can make the difference when it comes to final decisions.”
+
+Alden stared at the interface. He poked around until he had it sorted by rank. There were only a couple of dozen B-classes open to trading right now. “How would I even give this the personal touch? The listings seem pretty basic.”
+
+“Choose someone as if you intend to trade with them. Make sure they do not have autotrade selected.”
+
+“Um…what if they say yes?”
+
+“You can still refuse as long as it’s not an autotrade. Also, you can trade as many times as you like prior to the end of your ninety days.” He paused. “Obviously you should not take something undesirable on a whim.”
+
+Alden searched through the IDs. A few did have the autotrade feature selected. Most of those had extremely specific and overpowered class types listed under their “Wanted” section. Alden assumed it was so that they wouldn’t miss a perfect opportunity if it came along while they weren’t paying attention.
+
+He scanned the listings until he found an interesting one.
+
+[Available Pre-affixation Class Trades]
+
+— Rank B —
+
+[ID: B74  Location: Dakota Avowed Seclusion Zone, USA
+
+Trading: Morph Brute
+
+Wanted: Adjuster (All), Healer (All), Shaper of Life, Meister (Ranged Magic Weapons, Magic Tools, Uncommon Types), Rares
+
+Notes: no more %8*$# Brutes or Sways. Leave me alone, you *&%^@!
+
+Autotrade: NO]
+
+“Can I click on this Morph?” Alden asked, gesturing at the listing. “It’s a really useful class. It seems like they probably don’t want close combat, but Cudgel Meister could be considered an uncommon Meister type, couldn’t it?”
+
+“Alden, you do realize I can’t see your System interface, don’t you?” Gorgon said. “I only know you’re referring to Selectee B74 because I’ve read through the trade window myself recently.”
+
+“I’m an idiot. Sorry. Also, your memory is good.”
+
+“That selectee is particularly easy to recollect. They’ve been trading in person for roughly sixteen hours each day for the past two months.”
+
+“In person?”
+
+“Autotrade is usually used when people are sleeping or otherwise engaged. B74 is rarely otherwise engaged. Introduce yourself to them. You’ll see what I mean.”
+
+Gorgon stepped into the corner of the room while Alden figured out how to initiate a trade with B74.
+
+He had to swipe through several screens to set up his own trading profile first. Finally, he was given the identity B13 and his own little place on the class trades list.
+
+[ID: B13  Location: Artonan Consulate 4, USA
+
+Trading: Meister of Cudgel
+
+Wanted: Adjuster (All), Healer (All), Meister (Traps, Wands)
+
+Notes: Become a master of the cudgel. Hit bad guys with sticks.
+
+Autotrade: NO]
+
+Alden looked over the listing and felt fairly satisfied with it. He would need to refresh his knowledge of some of the more obscure classes so that he could fill out his “wanted” section better. He’d almost listed rares, like B74, because the rare classes were all interesting just by virtue of being more mysterious. But the only ones he could think of off the top of his head were Rabbit, Tailor, and Mourner, and those were even worse for his needs than Cudgel Meister.
+
+Now that he had a profile, B74’s id had been highlighted like a clickable link.
+
+He clicked.
+
+[INITIATE LIVE TRADE NEGOTIATIONS WITH B74?]
+
+YES/NO
+
+Alden selected yes.
+
+[B74 has accepted your invitation. B74 has been vouched for by an authorized witness. You have been vouched for by an authorized witness. Negotiations are approved.]
+
+“Keep one of your hands on the table, or the connection will be cut off,” Gorgon warned him.
+
+Alden scooted his chair closer to the glowing crystal table and pressed his right hand to it more firmly.
+
+A second later, he almost leaped out of his seat as a boy appeared from thin air, sitting in another metal folding chair on the other side of the table.
+
+Alden swore and leaned back in alarm.
+
+It wasn’t just the other guy. A collection of junk had appeared on the other half of the table at the same time. As if it had been horizontally bisected, the pristinely empty table Alden was sitting at suddenly ended, and an identical table covered in chip bags, energy drink bottles, napkin wads, notebooks, uncapped pens, and highlighters began.
+
+Sitting at the filthy table, with a serious case of bedhead and a really dense five o’clock shadow for a guy who must have been around Alden’s age, B74 looked pissed.
+
+He slapped the table and stood, glaring at Alden.
+
+“Listen up, you newbie dumbass,” he snapped. “I’m only accepting your negotiation request so that you won’t keep bothering me! I’m not trading Morph for an overpowered baseball bat. In case it’s not obvious from my listing, I want good shit. Not weird shit. This is B-rank. A chance at a great trade could happen while I’m dealing with losers like you. I have been pissing in bottles for the past two months so that I don’t have to take bathroom breaks. I don’t have time to be all buddy-buddy with you. Don’t contact me again unless you manage to get something on my wanted list!”
+
+Before Alden could even apologize, B74 lifted both of his hands from the table, and he disappeared.
+
+For a full minute, Alden just stared at the spot where the other boy had vanished. Then he took a deep breath.
+
+“Gorgon, people can’t physically attack me through the magic table, can they?”
+
+“No,” Gorgon said. “But that would add zest to my job.”

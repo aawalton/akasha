@@ -1,0 +1,277 @@
+---
+id: eb1edae7-a2d9-599d-9636-f0410a8ece3c
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY: A Fun Way to do Supper"
+slug: 0172-one-hundred-seventy-a-fun-way-to-do-supper
+partOf: super-supportive
+position: 172
+ownLength: 3746
+unit: words
+publishedAt: 2024-09-23
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1815552/one-hundred-seventy-a-fun-way-to-do-supper"
+royalRoadId: "1815552"
+---
+
+170
+
+******
+
+<<…and one of the hover ferries donated by Makuinlo Scholar City, Artona I, has been in service since yesterday. If you haven’t seen it yet, it’s stunning. The vessel should be completely able to resist Submerger particles, but wizards will also be on board for every crossing to ensure safe journeys. The modifications to the second ferry will be finished soon. It’s due to be teleported in Sunday evening.
+
+<<Thanks for listening to the morning news with us. That was our last story for today. Our extended coverage of the disaster will continue tomorrow, and we’ll be having a discussion about the proposals for the new Span. We know we’re getting a rail connection. Why stop there? How can we make it even better than before? If you have ideas, call in and let us know!
+
+<<We’ll also hear from Doctor John Singh, who lost his home and office in the floods. He’ll be telling us how he approaches these stressful times and how you parents can explain it all to your children. Now…>>
+
+The woman’s peppy voice was suddenly joined by the first notes of a fast-paced song.
+
+<<We have the latest from Sona and Yodel! They’re in the middle of their world tour, but home is on their minds. They’ve decided to donate all of their profits from 2040 to the rebuilding. So you can feel great about dancing to this one, Anesidora. Happy Thanksgiving! I’m Rēśama, and this is Radio Above.>>
+
+The chatter ended, and the cafeteria at Matadero filled with a voice singing in Punjabi. A metal tray sailed through the air, and Alden caught it.
+
+Preserve just the tray, he thought. Flip.
+
+The last bit of a banana peel fell into the trashcan beside him. Then he unpreserved and added the tray to one of the clean stacks on the table at his back.
+
+“No,” Kabir was saying to whoever he’d just called. He reached for another dirty plate and tossed it gently to Alden. “I don’t understand why it’s impossible to get pre-thawed turkeys. It’s Thanksgiving. You’re a grocery store. I’m willing to pay whatever…yes, I know I should have prepared in advance for a large gathering!”
+
+The next plate flew a little far to the left and Alden almost overturned the trash reaching for it. He managed to snag it out of the air and preserve it in the same instant.
+
+“What about chickens?” Kabir asked in a desperate voice. “Maybe you have some very big ones?”
+
+Alden caught another plate. They’d started in the kitchen with the worst of the dishes, and with a more verbal cleaning system where Kabir chanted, “Take it, take it, take it!” for Alden in between searching through supplies and trying to formulate a plan.
+
+Alden had become a connoisseur of falling food visuals over the past half hour. Watching things that looked really stuck-on fall prey to gravity all at once was satisfying. He was planning many future dish “washing” sessions with people who weren’t worried that a wizard named Momo-neen would be disappointed if there wasn’t stuffing stuffed into appropriately sized poultry.
+
+Kabir had almost hyperventilated when the first store he’d called said cranberries were sold out, so now didn’t seem like a good time for Alden to ask for more challenging plate tosses or to spend a few extra minutes experimenting with preserving different layers of grime.
+
+Haoyu’s going to love chucking things at me, though. And there’s dinner tonight. I bet we’ll have tons of dishes.
+
+If a Rabbit with a dedicated dishwashing skill showed up, he would arm wrestle them for the privilege.
+
+Kabir’s call ended, and his shoulders slumped. “I’m going to have to ask her for help.”
+
+“Who?” Alden caught a bowl.
+
+Bowl only. Flip.
+
+He couldn’t resist giving one gentle toss straight up, trying to get it to hold its preservation when his hands weren’t on it.
+
+Total failure He lost preservation and entrustment the moment he let go of it.
+
+I only held onto Zeridee because I desperately wanted to, and because I was in that too-intense headspace. I can’t desperately want to protect a cereal bowl and throw it at the same time.
+
+“Ms. Velra,” Kabir answered. “If I call her, there will probably be turkeys falling from the sky within the hour.”
+
+“You don’t want to ask her for help?” She was the one who’d loaned Kabir to the wizards in the first place, but his reluctance was understandable. “I don’t blame you. Considering how everything has been going with her…”
+
+“How everything has been going with her” was the subtlest way he could refer to the situation.
+
+Just about ten minutes ago, the radio station had played a clip of Aulia making yet another statement. This time she was calling on High Council members to prove that they weren’t SAL sympathizers trying to frame her. She also suggested a public tattooing ceremony to magically bind them to their oaths of office, conducted by wizards approved by the Artonan Grand Senate. In the past, she’d apparently run on promises that she would be willing to do that herself.
+
+Alden thought it wasn’t half bad as far as ideas went. Why not have politicians swear unbreakable oaths to do their jobs honestly? But the councilors were all united against it.
+
+“I don’t want to talk to her,” Kabir said. “If I talk to her, I’ll feel too guilty to quit. I’d rather wait until I’ve received an official offer from Momo-neen so that I can’t back out.”
+
+“Are you really going to go work for a wizard?”
+
+“I’ve never wanted to before, but now I have an inbox full of messages from people who want to know what I know about Libra, Orpheus, magical water, and Aulia Velra. Like maybe people stand around discussing their plans to blow up Matadero while I’m mincing garlic. The woman I went on a few dates with last month called to say we shouldn’t see each other! Getting away sounds fine now. Momo-neen seems to be part of some kind of anthropology club? She said they could hire me for almost a year.”
+
+Utensils clattered as he swept them onto the last tray and walked over to present them to Alden.
+
+“Do you think it’s traitorous of me to abandon ship when Ms. Velra’s in trouble?” Kabir asked.
+
+Alden was trying to pick up six forks at once, defining them as a single set in his mind. He managed it, but when he shook them, some of the food was still stuck. Hmmmmm…can’t hold a conversation and perfectly define a stack.
+
+He dropped them back on the tray again and went for a single one. “I don’t think you’re a traitor. She’s just your boss, right?”
+
+Kabir shook his head. “The line blurs when your boss is Aulia Velra. Most people imagine she’s horrible to work for, but she’s not. Demanding, impulsive, impossible to reason with—yes. She’ll wake you up at two o’clock in the morning to have you make cookies. Half of her family…no, more like eighty percent…I have wanted to poison them before.”
+
+That sounded less joking than Alden thought it should.
+
+“But Ms. Velra pays very well,” said Kabir. “And she’ll wake you up to ask for ginger cookies at two o’clock in the morning, but she will also laugh with you when you burn them and tell you about the time she burned a pan full on purpose because her mother forced her to make them for the boy her parents wanted her to marry.”
+
+“That would have been a long time ago.” Alden was struggling to imagine an Aulia who had parents trying to manage her life and choose her fiancé.
+
+“Not many people know this kind of thing,” said Kabir. “She only talks about the time before the Artonans arrived when we’re drinking champagne in the middle of the night.”
+
+He paused, then coughed. “Non-alcoholic champagne.”
+
+“I don’t care if it was real champagne,” said Alden. “Can you imagine if that was what the authorities used as an excuse to arrest her, though?”
+
+That prompted a sharp bark of a laugh from Kabir. “They’ll never imprison her for longer than a day. Not even if she stands on the tip of the Needle and drops whiskey barrels on the people below her. That’s what I believe.”
+
+Interesting. “Because of how important she is to some Artonans?”
+
+The sounds of utensils clattering surrounded them.
+
+“That too, maybe,” Kabir said. “But even if she wasn’t that…she’s one of the originals. Your generation doesn’t really understand them. You think that only the loud few like Aulia are still relevant and the others are all relics. That they’re all too busy working on the Triplanets or bouncing grandchildren on their knees to understand Anesidora today.”
+
+“Remember I’m new,” Alden pointed out. “Until earlier this year Anesidora was kind of…”
+
+A theme park. A fantasy land. That place where everyone seemed to have money, magic, and access to more of the universe than the average person could dream of.
+
+He’d known better than that; he’d had enough glimpses to add a touch of reality to the place. But it still had been a spot on the map that was simultaneously more and less than what it was in truth.
+
+“That’s right!” said Kabir. “I don’t know how I forgot with the accent. But my point is that the old ones are different. And they look out for each other. I’ve served meals to some people you would be surprised to know Aulia considers friends, and the things they talk about…it would take more than a few missing neighborhoods to really upset them. That’s the impression I get.”
+
+Kabir looked down at the almost empty tray. “You’re fast.”
+
+“This is great for me.” Alden grabbed a spoon. “You holding the tray out like you’re presenting them to me is enough right now. It’s good to know things like that.”
+
+They were almost finished.
+
+“America,” Kabir said. “You’re from there. There must be so many turkeys in America right now. Just lying around. But locating them and getting them teleported in…I don’t know how to do it. Most of the Artonans won’t be back until night, and the sun sets late this time of year. But it’s still not possible.”
+
+An idea came to mind suddenly. “I could ask my friend Natalie. I’m sure she’s got a turkey.”
+
+“I can’t take your friend’s turkey. And just one wouldn’t be enough to feed all of them.”
+
+“Yeah, but Natalie’s turkey would be loaded with holiday spirit. Literally. She’s got Cook of the Moment. You could add little pieces of it to the sandwiches you were planning on serving before you realized what day it was and everyone would get a taste.”
+
+“Cook of the Moment? In that case, I definitely can’t take your friend’s turkey.” But he looked interested. “I could buy it, though. If you think she would be willing to sell it?”
+
+She’s business-minded. And she’s very interested in working on the Triplanets.
+
+“She might be really eager to sell you the magic turkey. I can ask. Let me go call her.”
+
+If she says yes, Emilija will never forgive me.
+
+******
+
+Back in his room, where his call wouldn’t be overheard by Kabir or any stray wizards, he spent a few minutes thinking about what to say so that he wouldn’t slip up and reveal some kind of critical Matadero intel and also so that Natalie would have as much of the full picture as possible.
+
+Everyone knows the visiting Artonans come back here every night, so that’s not a secret. They have the polite fiction that they’re working on the facilities, so I won’t say anything to contradict it. But the fact that they must consume food isn’t exactly a secret either.
+
+I literally can’t think of anything about the dining arrangements that should be kept private except for the location of the cafeteria.
+
+And when he explained why he was here, he would use Porti-loth as an excuse again, just like he had with Haoyu and Lexi.
+
+Planning done, he called her. She answered right away. She was standing in her kitchen, dressed in one of the chef’s jackets the students in the culinary prep program were assigned.
+
+“Hey, Natalie,” he said. “I have a request from another chef.”
+
+Giving her the rundown took a while, but when he got around to asking if she might be willing to part with a turkey, she said yes before he could get the whole question out of his mouth.
+
+“Are you sure?” He watched the messy blond bun on top of her head shake as she aggressively whisked something in a large steel bowl. “You can take longer to decide if you want. Kabir is hoping your turkey will bring the meal together, but it’s not like anyone will go hungry if you say no.”
+
+“Of course I’m sure!” Natalie beamed, and her dimple deepened. “This is so exciting, Alden. I’ve been nervous about cooking professionally for wizards for the first time. Now I’m getting a trial run! And I know the turkey should be good. Really good. I set timers so that I could wake up and use my skill on it every chance I got while it thawed. And it will get plenty of doses while it cooks, too. I’m basting it with herb butter and with magic!”
+
+“I bet it’s perfect and the people who taste it will love it,” said Alden, leaning forward in his chair. “About payment…the chef who wants the turkey is well-off and the person who donated the chef to Matadero is hideously wealthy and there’s got to be a generous budget for wizard-feeding on top of all that. You can name your price, and you really should because—”
+
+“Nothing,” said Natalie. Her golden eyes had gone round with surprise. “Obviously. It’s Thanksgiving. And the Artonans came here to help.”
+
+“But you’ve been working on it so hard. You’re positive?”
+
+“That tall, bald wizard caught some of the Avowed who threatened us on Friday night. And they’re protecting the ferry that Emilija used to get here. And Cafeteria North’s serving turkey today anyway, so I don’t think anyone who comes to my dinner tonight will be that upset if we just have side dishes. They’re usually the best part. Whoops!” She’d whisked too hard and something that looked like it might be whipped cream had escaped from the bowl.
+
+That big bald wizard…
+
+Alden bit back the urge to say he hoped those bastards Ro-den had caught with his invisible staircase spell were still crying like babies while they climbed toward outer space. As well as a simultaneous urge to describe Ro-den’s true character in unflattering detail.
+
+Telling her he knew The Bald General was a long conversation for another day, and it would ruin the mood.
+
+“That’s really good of you, Natalie,” he said instead.
+
+“What time do you need the turkey? I was timing everything to have it ready a little after six o’clock, but I can adjust. And how do I get it to you?” she asked.
+
+So turkey is a go. Cube meal delivery logistics…
+
+“Let me get back to you on that. The grocery deliveries probably get teleported from the TC to us here. But your food deserves a guard.”
+
+She laughed like he’d said something hilarious.
+
+“I’m serious,” said Alden. “It can’t go sit in some pile at the TC or travel with a hungry wizard. I saw two Artonans gulp down a dozen servings of trifle by themselves. Some random TC employee might catch a whiff, and the next thing you know, the turkey will be missing a drumstick. I’ll see if I can make arrangements to come get it myself.”
+
+She was still laughing. “I’ll guard it with my big knives until you get here.”
+
+He nodded. “And then use your big knives to guard me from Emilija and Hadiza.”
+
+After she was gone, he sat for a while looking at the thermos Porti-loth had given him. Made in Tennessee. Such a minor detail, but he actually had to find a cup made in the right location just to serve me potion in.
+
+He set the thermos back down and headed toward the cafeteria.
+
+On his way through the residential area’s lobby, he took a moment to appreciate all the signs of effort that he’d only glanced at when he passed through earlier. The projection screen was displaying lists of spells. He assumed, based on some of the names, that they were spells that had been found useful for decontamination. There were funeral programs laid out on one of the tables. And when he walked over to another table and looked inside a box labeled “repair these,” he saw human personal possessions—a water-damaged photo album, a broken watch, a bag full of painted shards.
+
+Plus, a honeydew melon with strange symbols drawn on it was sitting on one of the sofas. He had no clue what was going on there.
+
+It’s not like you can tell which of the wizards are here because they want brownie points or summoning rights and which of them came because they were worried about Avowed they’d worked with before. And some of them are probably just helpful people trying to do the right thing.
+
+But they were all working hard.
+
+When he reached the kitchen, Kabir was slicing tomatoes while he talked to another grocery store. Alden leaned against a counter, waiting for him to finish the call. Then, he said, “I just talked to Natalie. I’m pretty sure we’ve been thinking about all of this the wrong way.”
+
+“The Cook of the Moment won’t sell her turkey!”
+
+“She’s giving it to the cause for free,” Alden said before a new wave of panic could strike the man. “I’ve been listening to you talk to people. You haven’t actually been telling them who you want all the food for.”
+
+“I tried that a couple of days ago. Someone hung up on me as soon as I said Matadero. They thought it was a prank.”
+
+“I think you should forget about cooking. I think we should start calling people we know personally and asking them if they’d like to donate a dish. For Thanksgiving. Whatever they want to share, not just North American Thanksgiving food. It would be more Anesidoran if we had all kinds of cuisines anyway.”
+
+Kabir blinked at him. “You want to feed the wizards whatever our acquaintances have on hand? A hundred random home-cooked dishes?”
+
+“You probably know some other chefs, too, don’t you? But yeah. Potluck isn’t professional, but it feels right for the holiday. And a lot of people are probably grateful to some Artonan who’s helped them over the past few days. Maybe they want to show it. But it’s not easy when they’re wizards and they’re busy and they disappear to the cube whenever they take a small break.” Alden shrugged. “You and I are here, and I just thought…we could make something kind of positive happen. If we worked fast.”
+
+Kabir still looked flummoxed.
+
+“Is it such a bad idea?” Alden didn’t think it sounded too crazy. Most of the Artonans he knew would probably like it. “I guess everyone might tell us no because of the short notice, or they might not be confident enough to donate their cooking or something. But if we call enough people, it could happen.”
+
+“Wouldn’t we need permission?” Kabir asked.
+
+Alden’s brows drew down. “Uh…for what?”
+
+“I told General Esh-erdi I could handle the kitchen the last time he came by to talk to me,” Kabir said, lowering his voice to such a faint whisper that Alden had to lean toward him to hear it. “I told him he could leave it to me. A turkey from an S-rank Rabbit with a cooking skill is one thing. But what if he’s offended to see me bringing in food from all over the place that I didn’t even cook?”
+
+“Esh-erdi?” Alden was having a hard time falling into step with Kabir’s thought process. “Esh-erdi is the last person who would be offended by something like you not personally handling every dish. He seems really protective of Avowed. Possibly overprotective. And definitely too generous.”
+
+“He’s a very intimidating person.”
+
+“Esh-erdi is? I mean…fair. That’s true. But not in the way you mean. And you work for Aulia Velra.”
+
+“Miss Velra doesn’t compare to an Artonan General.”
+
+Alden had a feeling that his expression was a match for Kabir’s. They each clearly thought the other was being ridiculous about this.
+
+“I’ll explain the potluck to the hn’tyons,” Alden said, forcing maximum confidence into his voice. “And they’re going to think it’s fine. I promise.”
+
+“How are you going to find them to talk to them?”
+
+“If they’re not in their room, I’ll just text Esh-erdi.”
+
+Kabir squinted at him. “Are you serious?”
+
+“Yes,” Alden said. “I’ve talked to Esh-erdi several times. Even if they don’t like the food for some reason, they’re not going to be offended. I swear.”
+
+He waited for the chef’s final verdict with a small and unexpected case of nerves tightening his stomach. He’d just had the idea, and the idea was only a fun way to do supper. But it felt right.
+
+It was nice to imagine Porti-loth, Lind-otta, and Esh-erdi eating human foods made by humans who were glad they were here and understanding that people appreciated them. I could even freeze a plate for Zeridee, for when she’s off her restricted healing diet.
+
+And Drusi-otta. She needs a plate too.
+
+He envisioned himself fixing one, calling her name, and then watching as the food disappeared into thin air.
+
+“All right,” said Kabir.
+
+“Really?”
+
+“I’ll start by calling some restaurants.”
+
+“I’ll start by calling some of my friends.”
+
+They looked at each other.
+
+“This will be interesting,” said Kabir.
+
+“Do you think we’ll have enough food?” Alden asked. “We’ve left it pretty late.”
+
+“There are always the sandwiches.”
+
+They both nodded.
+
+<<System,>> said Kabir, <<call Gao…>>
+
+Alden was already calling Haoyu. Cool, he thought. This could actually be cool.
+
+“Hi, Haoyu!” he said as soon as his roommate answered. “I thought you and your parents might like to know we’re going to have what’s probably the first ever Thanksgiving Potluck at Matadero, and we’re taking food donations from anyone who wants to offer something.”
+
+******

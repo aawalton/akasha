@@ -1,0 +1,361 @@
+---
+id: 09b936eb-b15a-522d-a157-7b8079c11f58
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY: Hopping I"
+slug: 0242-two-hundred-forty-hopping-i
+partOf: super-supportive
+position: 242
+ownLength: 4458
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2547932/two-hundred-forty-hopping-i"
+royalRoadId: "2547932"
+---
+
+240
+
+******
+
+The house always woke before its master, readying itself in the manner most helpful for his predicted day. Saturdays were special because sacrifices were made throughout the week to increase the likelihood that he would have one perfect morning out of seven.
+
+On this Saturday, the burring of the coffee grinder was the first sound allowed to reach his bedroom. Then came the soft whoosh of air through vents so that the smell of the beverage would arrive before the drink itself. In the closet under the staircase, a robot managed several drudgery chests, and the remote it placed in one of them controlled the levitator disc that carried the filled mug up the stairs.
+
+The dog would reach the master’s room before the coffee did. This was the nature of golden retrievers and right.
+
+The master’s Saturday slippers were already waiting by the side of the bed, and the robe he would wear to take the dog out for a walk was draped over the foot, placed there only a couple of minutes ago so that it was still warm from the dryer.
+
+Half an hour before that, the stair sweeper for the outdoor steps had been activated, and it had now moved along to do the neighbors’ stoops. The street cleaner had already been past.
+
+The master of this house was also the master of the neighborhood, so when he took his dog on its morning walk, his Saturday slippers wouldn’t get dirty. Unless, perhaps, he chose to cross the grass of the square. It was freshly dewed by sprinklers, trimmed yesterday so that the smell of a cut lawn lingered.
+
+“Good morning to you, too, MBF,” said Elias. He tied the sash on his robe, then rubbed his dog’s ears with one hand while he took his coffee with the other. “Tell me what my family has been up to. And I hope you’ve found something worth watching over breakfast?”
+
+“There are thirty-seven candidates for this week’s Saturday Morning Show,” a voice whispered in his ear. “Shall I add more?”
+
+“Thirty-seven! What an interesting country we live in these days. Narrow the list down to the fifteen people you think I’ll most enjoy hearing about, and I’ll choose one of those.”
+
+The second cup of coffee wasn’t poured until just before he and the dog returned from their walk. The house made sure it was waiting for Elias on a tray in the living room, beside a plate full of olives, bread, and jam.
+
+Screens hovered in front of the sofa that he settled on. He propped his feet up on an ottoman.
+
+“I picked a name, MBF. Alden Thorn. Tell me some stories I don’t know. Make it fun.”
+
+He popped an olive into his mouth as music began to play and a title screen faded in.
+
+Elias’s Saturday Morning Show
+
+Episode #473
+
+“Alden Thorn”
+
+The title swept away, and two teenagers appeared. The scene had been captured earlier this morning, just after sunrise. The boys had exited one of the dormitories on the Celena North campus, and they were crossing a garden on their way to another building.
+
+The springy one—Agility Brute, thought Elias, probably A-rank—was carrying bags. The other—Familiar face, must have seen him in an old report. Oh yes. That one—was examining a cup made of unglazed clay with symbols carved around it.
+
+“No, you can’t hold it,” the boy with the cup said. “You can touch everyone else’s souvenirs if you want, but a wizard gave this to me, and I haven’t even tried it out yet. Carbonation seems like too much of a challenge. Maybe I’ll put orange juice in it?”
+
+“Kon, I can’t believe you got to see two amazing places on Artona I!” said the Agility Brute. “Was the second one amazing, though? You haven’t said much about the second one.”
+
+Elias peered at the cup. “Translate those symbols if you can, MBF.”
+
+“One possible translation is Cup of a Thousand Gulps,” the voice said in his ear.
+
+“Never heard of it,” said Elias. “And you know how much I like things I’ve never heard of. This is a good place to start the show.”
+
+“It was just a house in the woods, Mehdi,” said Kon. “Just a normal house in normal woods with a few normal wizards in it. The people Alden knows…they’re kind of boring.”
+
+“Body language and tonal analysis indicate he is lying,” said MBF.
+
+The Informant grinned. “I noticed.”
+
+******
+
+******
+
+******
+
+On Saturday evening, the Garden Hall laundry room was a lawless place. There were villains living here who would take a man’s soggy clothes out of the dryer and leave them in a pile on top for him to find when he came back downstairs a minute before the cycle was supposed to end.
+
+If the culprit’s own laundry had still been present, Alden might have cooked up some mild revenge, but they’d made a clean getaway.
+
+It was probably Shoe Pisser, he thought.
+
+His legs were stretched out in front of him while he sat with his back to the dryer. His messenger bag was in his lap, emptied of its contents so that he could look at it inside and out and appreciate it more now that he knew what it was.
+
+It was hard not to feel extra affection for an accessory that would try to make its way back to him if he ever lost it.
+
+“Good bag,” he said, giving it a pat. “You and me. We’re going to do things together.”
+
+When he’d finished examining it, he switched to looking over his class options for next quarter. He’d been assuming he’d add a math or science course, or maybe try to get into one of Instructor Plim’s classes, but now he was eyeballing one called The Contract: Yesterday, Today, Tomorrow and wondering if there was a chance that the teacher would touch on the topic he’d fumbled in the taxi with Stuart.
+
+How do I think a knight should call and command an Avowed?
+
+What do I think is right?
+
+When he tried to imagine anything beyond the most obvious scenarios from the point of view of a person who had the power to make major decisions about the lives of others, his brain gave him static.
+
+This is probably more of a class that combines history lessons with theories about the future effects of the System on Earth, anyway. Not an ethics one that answers questions like this.
+
+For some reason, there were no courses named, Summoning Other Avowed into Battle and What That Would Be Like.
+
+“It’s Mountain Dew!” someone shouted suddenly. “You have to know about Mountain Dew!”
+
+That was definitely the sound of Jeffy, just down the hall in the common room, advocating for his favorite drink.
+
+Kon’s gift from the art’h family was a cup about the size and shape of a standard coffee mug, minus the handle. It had occupied half of their class all day long as far as Alden could tell. When Kon poured a beverage into it and then drank most of it down to a line on the interior, the walls of the cup would begin to sweat beads of the drink until it was full again.
+
+According to what Olorn-art’h had told Kon anyway. Alden didn’t think Kon had had the patience to let it completely refill. As soon as he saw the droplets forming, he always drank it, rinsed the cup and dried it, then poured in whatever the next beverage his curious audience had brought him was.
+
+Kon seemed to be telling everyone most of the truth about what Alden had called him for. Alden had asked him not to mention art’hs or knights, but it would have been way too ungrateful to request that he keep the whole thing secret or pretend the trip had been dull.
+
+No souvenirs, no pictures, say I asked you to help out some wizard in F-city who cracked their wand doing construction work…
+
+That might have made Alden’s life easier, but he couldn’t bear to be such a buzzkill. Especially not with Kon, who was even more thrilled than the average person would be to have gone on an adventure to Artona I, saved the day with his skill, and come home with a magical thing that nobody else on Earth owned.
+
+When Alden had made it back to the dorm a few hours ago, he’d found Haoyu sitting in their living room…at the kitchen table, which Lute had relocated to a spot in front of the television because he’d decided to play Angela Aubergine in the middle of the kitchen. Haoyu was reading the website of some rich person whose hobby was collecting enchanted dishes. He said there were drinking vessels that held more liquid than they should, ones that prevented the contents from mixing or separating, and a glass known to poison anyone but its owner. Along with several more types.
+
+“But none that increase the quantity of the drink! There are some Avowed who can do that, but no cups.” Haoyu held up his tablet to show Alden a picture of the poison glass. “Kon’s lucky his cup only works for him, or this collector would be out to get him.”
+
+“It only works for him?”
+
+“He said the wizard made him bleed into it to make it his.”
+
+“Oh. She did that with something she gave me, too. I have an earring she made that helps me study.”
+
+“Collectors don’t actually need to be able to use something to want to acquire it,” Lute pointed out. “A lot of them just want to have the rarest things in their possession regardless. Where’s the dish collector at?”
+
+“Belgium,” said Haoyu.
+
+“Kon never goes to Belgium. Danger averted. And as for the danger posed by Lexi…Alden can just have his wizards summon him away to safety until Lexi gets over it all.”
+
+“I don’t have wizards. I was just with wizards when something broke, and that’s Kon’s area of expertise. Of course I thought of him. I called him and got his permission before I even said his name to anyone there. It was quick, safe, and good practice. He exhausted his skill so fast! This was a rare opportunity for him to read a unique object. I think he learned from it. I took him to a train station and bought him things and didn’t let him eat any of the food there until we’d asked the System if it was safe.”
+
+“By my unexpected and unleveled powers,” said Lute, smirking at him. “You’re scared of Lexi.”
+
+“I’m not!”
+
+“You’ve got a whole spiel planned for fending him off!”
+
+“I’m not scared of him. I just…feel bad because he let you paint his face to help me out, and then I…”
+
+“Kidnapped his brother.”
+
+“Kon came of his own free will. I just know Lexi doesn’t like out-of-the-ordinary events to come at him unexpectedly. And he’s a little overprotective for someone who seems annoyed by Kon so often. Haoyu, you remember him asking me why I gave Kon’s own teeth back to Kon, don’t you? Like he thought he should hold onto them instead…where is Lexi, by the way?”
+
+“Right behind you,” Haoyu said.
+
+Then he and Lute had had a great laugh at Alden’s expense when he turned around, trying to appease the anger of the empty air at his back with an apology.
+
+It turned out Lexi was in F-city, babysitting his little sister while his parents took care of some things. Haoyu and Lute didn’t think he should be mad, for what that was worth.
+
+Might be a guilty conscience making me more anxious than I have to be.
+
+Kon had asked Alden not to tell anyone about the block on people summoning him. And Alden would honor that request because it was way more Kon’s business than anyone else’s, no matter how much Lexi would want to know and worry over it.
+
+Stuart was going to ask his parents what they knew about it and report back. Alden couldn’t think of a better way to help.
+
+Maybe Kon already asked and found out himself, if he had the chance.
+
+Behind him, the dryer stopped tumbling, and he got up to collect his clothes, feeling a little disappointed that he hadn’t heard from Boe this afternoon. While he was hanging out guarding a dryer would have been a good time for them to text back and forth.
+
+Alden had sent a message the minute he’d made it back to Earth, but Boe had said he was busy.
+
+Scoping out another person to help?
+
+That would make for an interesting call soon. Alden had enjoyed witnessing Boe’s good deeds so far. It would be nice if he found another one at the right  difficulty level.
+
+<<You are in here. That guy was right. He’s in here!>>
+
+Alden turned at the sound of the voice, his stuffed laundry bag in one hand. The first thing he saw was a boy he didn’t know shoving a load into the washer so fast that a person unfamiliar with Earth might have thought being found with dirty underwear in your possession was illegal. He wasn’t the one who’d spoken, though. Standing just inside the doorway wearing a very short skirt and a pair of silver bunny ears that matched her oversized sweater, was a familiar face.
+
+“Emilija!” said Alden. “What are you doing in my laundry room?”
+
+<<Getting you,>> she said. “Birdnapper. Mr. Bad-to-Birds. Turkey Taker.”
+
+“Your English language learning seems to be biased in an unusual direction.”
+
+“Burderer.” Emilija sliced her throat with a finger.
+
+“Oooo! That’s a good one. There’s this guy with ‘feather’ in his name, and I did kill him in gym class once. I even have intentions of doing it again. Are you here to see Lute? He’s upstairs. I can show you to our room if you want.”
+
+<<We’re here for you. If you’re surprised, it’s your own fault for not checking your texts. I hope there’s something in that bag other that t-shirts.>>
+
+“We?”
+
+******
+
+******
+
+Elias’s Saturday Morning Show
+
+Episode #473
+
+“Alden Thorn”
+
+Clip Begins at: 12m, 14s
+
+Event Recorded: December 7, 2040
+
+******
+
+On a bright Friday afternoon, three girls burst out of an apartment building in midtown Apex, each carrying a bag marked with the holographic logo of a uni student’s celebrity consulting business.
+
+“I don’t think she has a celebrity client. Not even one,” said Hadiza, turning to look back at the building behind them before facing her friends and the busy sidewalk again. “I embarrassed her when I asked, didn’t I?”
+
+“You might have a little bit,” Natalie said. “But I’m sure it’s fine.”
+
+<<I could consult celebrities for that amount of money. ‘Stop saying stupid things. Stand up straight. More Appeal!’ >> Emilija barked.<< You paid too much for these fancy business cards, Natalie.>>
+
+“You did pay a lot,” Hadiza agreed. “I did not know they would cost this much when you said you’d give them to us for holiday presents.”
+
+“I had enough argold left,” Natalie said easily. “And these cards will help us to be really memorable! We can’t expect the old Rabbits to take us seriously if we just arrive with nothing special and hide in a corner. And I thought about this. Us handing them something makes it awkward for them not to hand us something. Like….an invitation to their hop parties! This is our first social season as Anesidorans. It will set a tone for our futures. I want to do it right.”
+
+Hadiza frowned. “You had ‘enough argold?’ Not plenty. Are you poor now?”
+
+<<I want to do it right, too, but it might be hard to get out of the corner as an F. There’s probably a pen in the corner where they make us stay,>> Emilija was grumbling.
+
+“Natalie, you bought a new ice cream machine yesterday,” Hadiza added. “That was expensive, too. What was wrong with the old one?”
+
+“It was too loud,” Natalie answered. “I wanted one I could run when you two are sleeping or studying. Emilija, I will not let anyone put you in the corner pen. You saved our lives last month. You are a small, vicious hero who crushes evil Avowed beneath your feet. Don’t worry about the money, either of you. A lot of people want to pay for meals. Including that boy…that boy who likes my food and my friendship and not the other things you both were so sure he liked.”
+
+“Um…Natalie,” said Emilija, <<are you—?>>
+
+“Crossing light! Let’s run to catch it!” Natalie took off, the bag in her hand swinging, its logo twinkling in the sun.
+
+When her friends caught up to her on the opposite sidewalk, Emilija said, <<So are we asking Alden to come with us to the Rabbit Welcome tomorrow night or not? You keep changing your mind.>>
+
+“We can just find him when we get there,” said Hadiza.
+
+<<You’re assuming he’s going to go. He might not if nobody reminds him he should.>>
+
+Natalie watched a line of drones coming in for a landing at a building’s upper delivery door. “…no. Alden says he’s working on important stuff in his own life. And he’s going back and forth to the Triplanets. And it hasn’t been long since he tried to kill himself with a pita so that he wouldn’t have to talk to me…Emilija, don’t laugh! You laugh like you’ve gone crazy!”
+
+Hadiza was giggling more normally than the Lithuanian girl, whose cackles were attracting attention.
+
+“So no,” Natalie said, chopping the air in front of her with one hand. “We won’t ask him to go with us. Even though together we would form an unbeatable team.”
+
+“What if he’s there anyway?” Hadiza asked.
+
+“Then we tell him he has to form an unbeatable team with us. But no inviting him. It’s too late now anyway. I have made up my mind for the final time.”
+
+<<Not being invited to arrive with the best group at the Rabbit Welcome will be his punishment for—>>
+
+“I’m not someone who punishes people for rejecting me!” Natalie squawked. “I hate people like that!”
+
+<<—for stealing the turkey. My beautiful bird. Not everything is about you, Natalie Choir.>> Emilija shook her head dramatically. <<He’s committed far worse crimes than rejecting you.>>
+
+“You do realize there would have been no turkey without Natalie?”
+
+Natalie’s face reddened. Then she gasped, “Oh, Emilija! You need to call him ‘fowl’ because it sounds like ‘foul.’ On Trime! Have you done that pun yet? Maybe it’s too obvious?”
+
+******
+
+end clip
+
+******
+
+******
+
+Alden was in the middle of apologizing to Emilija for missing the girls’ texts and explaining that he’d adjusted his message priority because of the amount of chatter he was getting from people Kon had spoken to today. But then he found the messages she meant.
+
+“You guys only texted me twenty minutes ago! I’m not even that late replying.”
+
+“You are so foul,” said Emilija.
+
+He frowned. That’s a harsh and strange word choice. But she doesn’t sound mad. Maybe she means something else?
+
+<<We were on our way to the ferry, but we decided at the last minute that you should come with us. It’s a once in a lifetime experience. You shouldn’t be left out.>>
+
+“What’s the experience?”
+
+The text message from Natalie to a group that included him, Hadiza, and Emilija said, [If you’re not there already, you should come with us.]
+
+Like he was supposed to know what they were all doing.
+
+<<The annual welcome event for new Rabbits. >>
+
+Right. I am supposed to know what they’re all doing. “I forgot that was today.”
+
+<<Of course you did. You’re lucky we’ve all come to help you.>> Emilija looked behind her. <<We were all here. I think Natalie got distracted when she saw people in the kitchen.>>
+
+Alden followed her out of the laundry room. He was trying to simultaneously research the Rabbit Welcome on his interface, explain that he was tired because he’d only had a short nap since returning from Artona I, and remember everything Natalie had said about wanting to go to this event and all the other Rabbit festivities that would follow it.
+
+I have to be in bed by eleven. I won’t be able to look Yenu-pezth in the face otherwise.
+
+It looked like this celebration-slash-conference-slash-hobnobbing had started at 5:30 PM and would only last until 9:30, so it wasn’t undoable. Except for how little he wanted to socialize with strangers tonight.
+
+<<Think of what Neha would say if you didn’t go at all. I bet there are people waiting there, desperate to invite you to their hop parties,>> Emilija said as she led the way back into the common room.
+
+“I’m partied out right now. Really partied out. The last one I went to involved throwing people into ceiling nets, and a huge Artonan woman growled at me while we both had combatants riding on top of our shoulders. And that was only a little while ago.”
+
+The common room, which had been rowdy minutes before, was much quieter now. Around fifty people were there. It was a mix of magic cup enthusiasts and guys who’d been prepping a contribution for a “Spaghetti Swap” activity the high school dorms were doing tonight. Or they had been prepping it themselves. Now they were all watching Natalie toss tiny ribbons of basil into a mountain of grated parmesan while she explained that there wouldn’t be as much of an effect from her skill because it was only two ingredients.
+
+“I can get you more ingredients,” said the boy who’d been in charge of the meat sauce. “I’m really fast.”
+
+“He’s not as fast as me,” said Mehdi. “I could get there first.”
+
+“My uncle lives right by a store, and he never has anything to do. He could be here in five minutes with whatever you want.”
+
+“You guys are suddenly so into running errands,” said Kon, who’d positioned himself by Natalie’s elbow. “But she told us she was on her way somewhere. You can’t make her work just because she stopped by and has a good skill.”
+
+As he spoke, he was pinching some of the cheese and basil.
+
+“Alden let me taste the lunch you made him once,” he told Natalie. “When we were eating together on combat assessment day.”
+
+He casually took some more cheese. “So I’m familiar with your cooking. This is excellent. You’re definitely improving.”
+
+His fingers were moving again.
+
+“He’s pretending to know her to steal cheese!”
+
+“Don’t believe him, Cook of the Moment!”
+
+<<He doesn’t even know Alden,>> said Ignacio, smirking at Kon while he sharpened a knife he’d pulled out of a drawer. <<Keep him away from the food.>>
+
+“Ignacio!” Kon protested, shoving the cheese into his mouth. “<<Liar!>> I know him, Natalie. He has shared your food with me. I was literally on Artona I with him hours ago.”
+
+“Do you know this person, Alden?” Hadiza asked. She was leaning against the end of the counter farthest from Natalie, and she was the only one who seemed to have realized he’d entered the room.
+
+Natalie’s head jerked up. She was in jeans and her rabbits and radishes top. It seemed to be a favorite. Her blonde hair was pushed back from her face by a white bunny ears headband.
+
+“That person?” Alden glanced at Kon before shaking his head at Hadiza, who had her own dark green rabbit ears in one hand. They matched the knee-high boots she’d tucked her pants into and the blouse she wore. “Never met him in my life.”
+
+“Aldeeen! How could you?”
+
+Kon managed to run out of the kitchen with one more pinch of the cheese, narrowly avoiding a checker someone threw at him from across the common area.
+
+Alden wished Natalie would smile. They’d ended things on a positive note. She’d smiled at him then and hooked her ankle around his, and they were definitely going to stay friends. But she was giving him a little bit of a deer-in-headlights look that was making him worried she’d gotten angry or sad about it since then.
+
+He walked over to the counter she was at, weaving around a couple of people who’d lost the ability to move out of the way. “You three are inviting me to come with you?”
+
+“We are. There are four of us, actually. A guy is heading down to F with us, but I think he has to work at the event, not hang out. He just went upstairs. We…wanted you to come and help us collect invitations to all the best Rabbit clubs and parties.” She smiled finally. “I mean, if you can? If you want to. We didn’t ask until a little while ago, and if you did just get back from Artona I… ”
+
+“Of course I’ll come.”
+
+“You will? Great.”
+
+“Yeah, it sounds fun.” It sounded like something he’d prefer to skip, but this was the first thing she’d asked him to do since that day. He’d already made up his mind to lean hard toward a yes the next time she asked him for something. “I don’t have ears, though. Can I take Emilija’s?”
+
+“Oh, they’ll give you some at the door!” Natalie said, while Emilija told Jeffy in Lithuanian that Alden was a serial food thief who was obviously branching out. “We just bought our own ahead of time because we wanted to make sure they looked good with what we’re wearing. Can we come up to your room and see it while you get ready?”
+
+“Sure. Haoyu and Lute are here. And we have a Christmas tree.”
+
+Alden didn’t ask why his t-shirt wasn’t good enough for what seemed like a casual event. “And I can fly us all there on The Nine-edged Son Whose Own Mother Forsakes Him. It’ll be faster than the ferry.”
+
+“That would be perfect!” Natalie’s pep seemed to have recovered. She hurried over to the sink to wash her hands. “Do you think we can park at the top of Nautilus Needle?”
+
+“I think sky traffic control is going to love it when I ask.”
+
+She laughed. Almost everyone in the room seemed to lean into it.
+
+“We’ve got a tree, too!” she said. “I put Wobble Gobble on it.”
+
+“You did?”
+
+“I propped him up with a branch.”
+
+“I was hoping he’d grow into his tail feathers but I guess not.”
+
+“I still like him just the way he is,” said Natalie. “You need to make him a friend. Life’s better with friends. Even if you’re a paper turkey.”
+
+******

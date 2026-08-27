@@ -1,0 +1,139 @@
+---
+id: 092d9fe5-caf8-5b13-a11f-d709e527bd60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Friendship is Exclusive"
+slug: 0028-chapter-28-friendship-is-exclusive
+partOf: succulent-girl-evolution
+position: 28
+ownLength: 1923
+unit: words
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2633391/chapter-28-friendship-is-exclusive"
+royalRoadId: "2633391"
+---
+
+[Name: Bubbles
+
+Species: Plant
+
+Moisture Level: Soaked
+
+Traits:
+
+Abilities:
+
+My Toxicity improved, Bubbles noted with wonder.
+
+[Correct. Apparently, the accumulation of toxins from all of the vine matter the carnivorous fern has been digesting has led to improving that trait. Additionally, it has helped bump your Digest ability up to Master level. Congratulations.]
+
+What byproduct though? Bubbles turned her attention to the puddle that seemed to be rapidly eating through the outer layer of vines.
+
+“What is this?” Throttler asked suddenly, a tinge of fear lacing her voice. The affected vines vibrated menacingly, but otherwise remained still. “I-I can’t move!”
+
+[It appears that the accumulated toxins came from the Fish Guardian’s herbicide,] Rock said, somewhat smugly. [I would imagine the carnivorous plant somehow condensed and processed it so that it became a much more potent version of what it used to be.]
+
+A vine came from above to swipe at the puddle, trying to wipe it off the thick, woody stems the acid was currently eating through—but all it succeeded in doing was burning through its tender green tendrils, and it slowly froze as the toxin took effect. “Get it off me!”
+
+This is our chance!
+
+Bubbles began running, with Fern flopping limply on her side. She felt bad for Fern, but she couldn’t stop to help hold her up; Fern was still leaking acid from her mouth, every jostle causing her to belch out another glob that left Throttler shrieking. A few droplets even landed on some of Bubbles’s leaves, steaming. She prayed the coating Rock had applied to her leaves would protect her against Fern’s poison.
+
+[Dodge!] Bubbles leaped as high as she could, narrowly avoiding a whipping vine that swept below her in an attempt to knock her away from an exit. The good thing about Fern’s unintentional paralytic was that Throttler now had to use vines that weren’t contaminated by the discharge, so that gave Bubbles an advantage in seeing the vines come for her. A stream of acid followed Bubbles’s trajectory as Fern vomited from the sudden motion, leaving a smouldering splatter everywhere it landed before the affected vines began stiffening from the contact point.
+
+“Stop running! You’re getting it everywhere!” Throttler shouted, her voice echoing through the woods. “Ugh, nothing’s going right!”
+
+A howl sounded through the woods, nearly making Bubbles trip. Is that Link?!
+
+“This one is your friend, right?” Throttler asked suddenly, her flowers keeping pace with Bubbles. She wondered how Throttler’s main vine was still able to move, given how much sick Fern was spilling everywhere. “He dumped a bunch of that nasty stuff on me… he’s so small, and he’s trying to pick a fight with me!”
+
+“Don’t hurt him!” Bubbles screamed. “He’s just trying to save me!”
+
+“I won’t hurt him, I just want to take a look at him…” Throttler disappeared. Ominously, none of the vines continued aiming for Bubbles, leaving her standing in the middle of a bunch of vines.
+
+Off in the distance, she heard a yelp. Oh no!
+
+Dashing towards the direction of the pained wolf, Bubbles felt terror surge through her body, stronger than the terror she had felt when Throttler had grabbed her. Interestingly enough, not knowing exactly what had happened to Link, her unlikely ally who came all this way to rescue her, made the stinging fear of being ripped apart, and the pain as the vines tightened around her and stretched her, seem like nothing more than child’s play. Because she knew what was going to happen to her, but she had no idea what Link would look like when she finally saw him—
+
+Throttler returned, her glowing flowers dropping in front of Bubbles and forcing her to skid to a stop. “Ta da!”
+
+Link swung into view behind her, wrapped tightly in several vines, looking more like a cocoon than a wolf. He was still struggling, snapping uselessly at the vines around him. “Link!”
+
+“He’s pretty agile for how big he is!” Throttler said happily, dangling Link beside her. “And he’s super sharp, too—he cut through so many of my vines before I finally caught him!”
+
+“Please release him,” Bubbles said, her voice starting to tremble. It was quite odd; she hadn’t been nearly as scared when Throttler had first captured her, even when she thought of her as a malicious plant that would crush her with no further thought; but seeing Link so easily overpowered in Throttler’s grip terrified her beyond belief. She really was being gentle while playing with me.
+
+“We’ll play with you. Whatever you want. We can be friends!”
+
+“Really? Do you want to be my friend?” Throttler brought the struggling wolf closer to her glowing flowers, the purple washing over Link and lending him a ghostly hue. “But… he came right in with that painful acid, and he didn’t even try talking to me. I don’t know if he’s a nice one…”
+
+“He is a nice one!” Bubbles said desperately. “I vouch for him!”
+
+“You mean… he’s nice to you.” Throttler turned back to Bubbles. “But he’s not nice to anyone else.”
+
+Despite her bitter words, Throttler slowly lowered Link beside Bubbles, unraveling the vines wrapped around him. Link collapsed in a heap, panting, and Bubbles scrambled over to him.
+
+“Are you okay?” she asked, crawling all around him to inspect his condition. Cuddles used a hooked barb to scrape loose leaves out of Link’s fur for him.
+
+“The poison didn’t work,” he growled quietly to Bubbles. “The fish had warned me it wouldn’t, but I hoped…”
+
+“That’s okay, we’ll figure a way out,” she promised him. She peeked at his legs. “You’re all right, otherwise?”
+
+Link struggled to his feet, though he was shaky. “I’m fine.”
+
+[He is fine overall, though fatigued from the day’s activities and struggle,] Rock confirmed solemnly.
+
+Throttler watched their exchange quietly. Then she sighed, sounding again like a pitiful sprout. “I wish someone else would worry for me like that…”
+
+Link glanced at Bubbles warily, his ears flicking ever so slightly as if questioning what he was hearing. Bubbles nodded surreptitiously at him before she turned back to the sad vine. “Hey, Throttler, you said you want friends, right? I’m telling you, there’s a way you can get friends, but it will take some sacrifice on your part.”
+
+“I know what you said earlier,” Throttler snapped, her flowers glowing angrily. Just as quickly as the anger came, it faded. “What did you two sacrifice to become friends?”
+
+Bubbles balked. “Um, well, we were actually on opposite sides of a conflict before, and he was part of the group that captured me…” She trailed off, unsure how she could frame their friendship in a way that answered Throttler’s question.
+
+“I left my old team to travel with… Bubbles,” Link said, seeming just as discomfited as Bubbles. The two of them exchanged glances, trying to sort their stories out without words.
+
+“Neither of those things sound like true sacrifices,” Throttler complained. “Did either of you have to change your fundamental nature?”
+
+“Yes! Link was determined to capture me, but—” Bubbles cut off, confused as she recalled that he had been under compulsion.
+
+“Of course, you think a plant would—” Link also cut off at the same time, tilting his head as he reconsidered whatever he was going to say.
+
+When both of them hedged, Throttler seemed to tighten. “So, you’re trying to convince me that I need to change in order to have friends… when neither of you had to do much changing yourselves. You just… decided you liked each other enough to fight off a big, bad monster to save each other.”
+
+“You just need to change enough to make room for friends in your life!” Bubbles cried. “Look at when I was asking for water and some space—that was good! I had some space! You just need to make more space so others can come in—”
+
+“And it hurt a lot to do that!” Throttler countered angrily. “Why do I have to be the one ripping myself up for other people’s comforts? Why am I the only one who has to forcefully change myself, rip apart what makes me me, just so other creatures can feel comfortable around me?”
+
+The forest began shaking around them as Throttler lifted herself up, looking down on Bubbles and Link. Bubbles wasn’t sure if she was imagining it, but the purple glow seemed to turn red. “I’m tired of being told I don’t deserve to live the way I am.”
+
+“That’s not—”
+
+“There is no reasoning with a creature like this,” Link growled, grabbing Bubbles by her topmost rosette and beginning to run. Explosive pops sounded as heavy seeds shot at them, much larger than the seeds they had seen outside. These seeds were able to hurt Link, based on his labored breathing.
+
+Eager to offer him cover, Bubbles swung herself to Link’s chest, clinging to him for support; he released her leaves, and she crawled her way up his side to his back, using the harness he was still wearing as handholds.
+
+Once again, the limits of Bubbles’s improved leaves were tested: the heavy seeds clattered off of her succulent leaves, and Cuddles sprouted new, club-like spines to knock the seeds out of the air, protecting Link’s rump.
+
+“Are you feeling better, Fern? There’s lots of fresh seeds to eat!” Bubbles shouted, using a single root to tip a seed that had landed among her leaves into Fern’s exhausted mouth while clinging to Link for dear life.
+
+Tempted by the wasted nutrition around her, Fern heroically hoisted herself upright and began gulping as the seeds zoomed by her, pulling back to hide among Bubbles’s armor-like leaves as soon as her well was filled.
+
+[I fear this is not enough,] Rock said tightly as they ran. [The forest is too large, and the wolf is tiring.]
+
+Indeed, Link was flagging: even though he didn’t have to worry so much about being pelted by the seeds anymore, trying to outrun Throttler’s angry vines was rapidly depleting his remaining energy.
+
+What can we do? Bubbles asked Rock shrilly. She felt like she couldn’t think with all the explosions around them. She noticed Fern send an urgent pulse to her, and she shifted herself on Link’s back so that Fern could reach towards his mouth. “Link! Fern has something for you!”
+
+Link’s ears twitched, and he turned his head towards the plant. Fern spat a wet, crumbly ball into his mouth, a far cry from the rounded, compact pills Miss Fish made.
+
+Despite the unappetizing appearance, Link gulped down the morsel, and a brief, tense moment later, his gait steadied and he put on a burst of speed, deftly dodging a vine that slammed down beside them.
+
+Relieved that Fern’s contribution was helpful, Bubbles hunkered down and continued covering Link’s back, all the while watching for Throttler’s next move and praying the magpies would somehow show up in time to rescue them.
+
+~ ~ ~ ~ ~
+
+Miss Fish lay on her side in the shallow water, her breathing labored, as she watched the sun set.
+
+She was so tired. After her literal leap of faith, this was where she would expire. She left her pond with nothing but a gulp of water and a heart filled with hope, and this was where she landed. She prayed her next life was peaceful, and that she wouldn’t mess it up as badly as she did this one.
+
+She slowly closed her eyes, enjoying the last of the sun’s warm rays.

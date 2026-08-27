@@ -1,0 +1,205 @@
+---
+id: 86d6d4a3-c8e7-5bb9-99e2-a70c16e748bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 609: Rude"
+slug: 0030-chapter-609-rude
+partOf: system-change-system-universe
+position: 30
+ownLength: 2383
+unit: words
+ownProgress: 2383
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2819690/chapter-609-rude"
+royalRoadId: "2819690"
+markedReadAt: "2026-06-29T19:57:42.144Z"
+---
+
+Chapter 609: Rude
+
+“Your system access is limited?” Derek asked. “Did you get any notifications about being out of range or one system detecting the other?”
+
+“No, nothing like that,” Jace replied.
+
+“What about anything from a system that isn’t the Universal System? The notifications from the Davenresh System come in notification boxes instead of just text.”
+
+“No, I still have the same old system that I’ve always had,” Jace replied.
+
+“Oh… so… one system isn’t trying to eliminate another, then?” Derek asked.
+
+“Doesn’t seem to be,” Jace said with a shrug.
+
+Huh… Derek scratched his head. It was true that Dave had told him that he was the reason for all the ‘help’ the Davenresh System gave him, so Derek didn’t know what to expect. There was also the possibility that since the Universal System had actually been there, things were different for Jace than they were for him. “So, what does your system being limited mean?”
+
+“It looks like everything is locked,” Jace said. “I can see everything I had before… like my Titles and Stats and stuff, but I can’t dive deeper into any of them.” After explaining, Jace shrugged. “Oh, well,” he said. “Worst-case scenario, you can just drop me off in the other system again.”
+
+“I doubt it gets to that,” Derek said. “Besides, I have pretty much the same thing going on with my system as you do with yours. And I know the exact fix for mine, and I would assume it would fix yours too.”
+
+“Oh, then let’s do that,” Jace replied.
+
+“We will,” Derek said with a nod. “I just have to take care of a few more things, then we will.”
+
+“I guess I can wait.”
+
+“Good,” Derek replied. “Now, come with me and meet all my friends. There are one or two that you might like.”
+
+“Like the old elf? I like him. He’s blunt. He reminds me of my grandpa.”
+
+“Yeah, like Marrick.”
+
+With that, Derek opened the door of his travel room and walked out. He had expected to see Brandi working on something in her smithy, but she wasn’t actually in the basement. I think this might be the first time I’ve come back here, and she isn’t working. I guess it has only been a little while since the invasion ended. I didn’t check with my aura, but they may all still be at Natalie’s place.
+
+Derek led Jace upstairs and looked around.
+
+“What is this place?” Jace asked once they entered the lobby of his shop.
+
+“This? This is my place. It’s a shop and home all in one.”
+
+“And kitchen!” Silvi corrected.
+
+“That’s part of a home,” Derek replied. “But yes, it has Silvi’s kitchen in it, too.”
+
+“Great!” Jace fist-pumped. He looked at Silvi, who was sitting on Derek’s shoulder, and continued, “Are you going to cook up some of those monster corpses I gave you?”
+
+“I am!” Silvi’s childlike voice rang out. “There are so many varieties of meat, but I know where I’ll start.” The bunny licked her lips—which was actually just her tongue licking her little nose. “It will be so good!”
+
+“I can’t wait,” Jace said.
+
+“Same,” Derek replied. “Silvi really does cook the best dishes.”
+
+“I do!”
+
+“I’m sure she does,” Jace replied. “I would expect nothing less from one of Derek’s companions—especially his bonded companion.”
+
+“If only I had a lizard tail to complete the dish…” Silvi mused.
+
+“No! No cooking sentient system users! No elves… no dwarves… no halflings… no… whatever other type of system being we run across.” Derek rolled his eyes and shook his head. Jace just stared at Derek with a huge grin. He was the one who got Silvi’s ‘creativity’ started back up when he gave her the tail from the Champion, and he was very much entertained by her reaction.
+
+“Mr. Hunt,” suddenly a voice sounded through the lobby. Derek looked at the door they had just gone through and saw that Bones was now standing there. “It is good to have you back. Congratulations on your victory in the invasion.”
+
+“Sneaky!” Jace shouted. “I knew you were there, but that level of sneakiness is great for such a low-level human!”
+
+“I… thank you… sir…”
+
+“Call me Jace!”
+
+“Thank you, Sir Jace,” Bones said with a bow.
+
+“Jace, this is Bones. He’s my… the shop’s… he’s…” Derek wasn’t exactly sure what Bones went by these days. He wanted to say butler, but he was also security and anything else that Malorie needed him to be.
+
+“I am Mr. Hunt and the Void Emporium’s butler,” Bones answered for him.
+
+“You have a butler!?” Jace gawked at Derek. “You, of all people… have a butler?” He pointed at Derek while his mouth hung open.
+
+“Remember the two assassins I told you about? The ones that tried to kill me, but I ended up taking in and resolving things for with the Assassin’s Guild?” Derek asked. “Well, Bones is one of them. The other one is a giant-like man named Ogre.”
+
+“He is my official taste tester!” Silvi chimed in. “Ogre is great worker! Always ready for a bite.”
+
+“I… see…” Jace said. He looked Bones up and down, then sighed. “You need to get stronger. You’re too weak to be Derek’s butler.”
+
+“I agree, Sir Jace,” Bones replied with a nod. “We are doing what we can, but I have spoken to Duke Edgar and… the Shadow Witch…” He shivered at the mention of Vanessa but continued. “We want to do things the correct way now that we have the chance.” He looked at Derek as if he were asking for permission about something, then looked to Jace.
+
+“You don’t have to hide anything from Jace,” Derek said. “He’s… he’s actually my oldest friend now that I think about it.”
+
+“I’m not that old,” Jace said with a smile, messing with Derek.
+
+“You know what I mean.” Derek rolled his eyes. “But yes, you don’t have to hide anything from Jace. He probably knows more about things than you or I do. He is, after all, probably around the same strength as Braxton.”
+
+“Braxton?” Bones shivered again. This time, it was a much fiercer reaction. “Sir Jace is… as strong as the Leader of the Assassin’s Guild?”
+
+“Braxton!” Jace replied. “He’s the dwarf you told me about?”
+
+“Yes,” Derek replied.
+
+“Can we fight?”
+
+“If he wants to,” Derek said with a shrug, then turned back to Bones. “Yes, they are around the same level. I know you didn’t participate in the invasion, so you weren’t at the reward ceremony, but Jace defeated multiple Champions and Guardians alone without being a Champion himself.”
+
+“I see…” Bones said, then he bowed deeply at Jace.
+
+“Stop that!” Jace said. “I don’t like all that decorum shit. If you need me, call me Jace. I’m not Sir Jace, and I’m not Mr. Whitaker. Just Jace.”
+
+“Very well, Jace,” Bones replied. He then looked at Jace, then back to Derek, then back again. An almost imperceptible smile formed on his face before disappearing faster than it had appeared. “I see why Mr. Hunt and you are friends.”
+
+“I’d tell you to stop calling me Mr. Hunt, but I think that ship has sailed,” Derek replied. He looked at Jace and said, “It was either Master Hunt or Mr. Hunt…” He shrugged. Finally, he turned back to Bones and asked, “Where are the others?”
+
+“Everyone has moved from the wall back to the city, and Miss Malorie wanted to wait at City Lord Natalie’s residence with Miss Brandi, Mr. Stewart, Miss Rayna, and some of the others until you came back and informed them that it was safe,” Bones replied. “I was prepping the shop for your and their arrivals. Perhaps we may open again soon.”
+
+“Eh… maybe,” Derek said. “But I am going to need to speak to you and Ogre about something very important soon.” Bones looked intently at Derek, then nodded.
+
+“Then, if that is all…”
+
+“You may go back to doing what you need to,” Derek said.
+
+“Good meeting you, Bones!” Jace said happily. “Don’t go slacking. You need to get strong enough to have a good spar with me.”
+
+“I will do what I can… Jace,” Bones answered, bowed one last time, then turned and left.
+
+“Wow!” Jace said once Bones was gone.
+
+“What?”
+
+“He needs some food… or some extra stat points in strength,” Jace replied. “I thought he was a Halloween decoration or something, but he was breathing.”
+
+“There’s a reason he goes by Bones,” Derek replied with a shrug. “I guess we’re going to Natalie’s then.”
+
+After their brief encounter with Bones, Derek and Jace left the Void Emporium and made their way to the center of Savannah, to where Natalie’s Manor was. The streets were eerily silent, and other than a few random passersby, who were most likely guards or mercenaries, the place was empty. Looks like Natalie still has the entire city on lockdown, Derek thought.
+
+With the uncrowded streets, Derek and Jace made good time without having to rush. Soon, they were standing in front of Natalie’s residence. No sooner had they arrived than a dwarf with a massive hammer fell from the sky and landed just in front of them.
+
+“Derek!” Braxton shouted as the dust cleared.
+
+“You’re paying for that!” Natalie shouted as the gate in front of her residence opened and she came walking out with a slew of people behind her. In the group, Derek could see Brandi, Thomas, Malorie, Rayna, Jacks, the twins, and a handful of others—some he didn’t even recognize.
+
+“Put it on the guild’s tab,” Braxton waved the woman off and focused back on Derek. “That white… place… was something else, wasn’t it? I’ve never seen anything like it.” He took a deep chug of his ale and continued. “It was like, infinite.”
+
+“Yeah,” Derek replied. “The reward room was certainly something.” He looked around, then frowned. “Where’s Avery?”
+
+“He already took the others back to the Capital,” Stella said as she moved to the front of the crowd. “He was certain that everything was over, so they left early.”
+
+“Oh, okay,” Derek replied.
+
+“You’re Jace!” Braxton suddenly turned his attention from Derek to his friend. “You really stirred some stuff up based on what that guy in that reward place said.”
+
+“And you’re supposed to be the strongest here,” Jace replied with a savage grin. “Other than Derek, that is.”
+
+Braxton took another drink, then shrugged. “Maybe.”
+
+“Let’s fight!” Jace shouted, and his kukri appeared in his hands.
+
+“What are those?” Suddenly, Brandi came running up and stopped beside Natalie when she had a good view of Jace’s weapons.
+
+Jace looked from Braxton to the girl, and his savage grin turned into more of a regular smile. Though he still had a bit of fire in his eyes, and glanced at Braxton on occasion. “These are called kukri,” Jace explained.
+
+“Kukri?” Brandi asked.
+
+“You’re the blacksmith girl?” Jace asked.
+
+“Yes?” Brandi replied.
+
+“Catch!” he half-shouted and tossed one of his kukri to Brandi.
+
+Brandi panicked for a moment but perfectly caught the blade by the grip. The girl turned the blade over in her hands a few times, then placed a hand on the blade and closed her eyes. She glowed for a few seconds, then opened her eyes.
+
+“Wow!” Brandi said excitedly. “A legendary weapon with half a rune engraved on one blade.” She looked at Jace and asked, “Is the other half of the rune on the other blade?”
+
+“It is,” Jace said. He then flicked his wrist, and the blade in Brandi’s hand flew from her grasp and back into Jace’s hand. For a moment, Brandi looked disappointed, but just as she was going to accept that legendary weapons weren’t something people just went around showing others, Jace tossed the other blade to her.
+
+Brandi’s face formed into a giant smile as she caught the blade and examined it the same way she did the other. “Wow!” she said again. “Wow, wow, wow, wow, wow!” she kept saying. “I’ve never seen a rune like this. It’s a… support rune?” she asked. “A… buff?”
+
+“Good eye!” Jace said. “The buff increases all the good stuff about the blades. The sharpness, the durability… everything.” He side-eyed Braxton, then took a few steps toward Brandi, bent down, and whispered something into her ear. As he did, Brandi nodded along.
+
+Finally, Jace took his other blade back and moved back beside Derek. Brandi looked between Jace and Braxton a few times but didn’t say anything. Instead, she asked, “Why that kind of blade? I don’t want to be rude, Mr. Jace, but it doesn’t seem like a weapon most would choose?”
+
+“I’m used to them,” Jace said with a shrug. “My grandpa was sort of an… antiques dealer back when he was alive. The system came, and I remembered that there were these big knives in some old boxes, so I ran and grabbed them. Then, I killed a couple of massive frogs. For some reason, I loved the way they felt when they cut, so I kept using them. The cutting of flesh and bones just got my blood pumping. Then I realized they could be used for dismantling things as good, if not better than most knives.
+
+“Plus, look at this curve in them!” he pointed to where the blade curved in the middle. “Isn’t it just super cool!? Look how intimidating!” Jace then held the kukri out with both hands and plastered on his savage grin once more. Then, he released his aura.
+
+Brandi squealed and backed away quickly. Just as Derek made to slap him on the back of the head, Silvi beat Derek to the punch—almost literally. The next second, Jace was sent flying a minimum of twenty feet away. When Derek turned and looked, he saw Jace getting back to his feet. He spat out a bit of blood, then covered the hole in his sternum with his forearm while still clutching his blades.
+
+“Ow!” he half-shouted as he walked back to them. “What was that for?”
+
+“Rude!” Silvi shouted at Jace.
+
+“It’s okay, Silvi,” Brandi said. “I was just surprised.”
+
+“What?” Silvi looked at Brandi in confusion, then turned to Jace. “You woke me up!”

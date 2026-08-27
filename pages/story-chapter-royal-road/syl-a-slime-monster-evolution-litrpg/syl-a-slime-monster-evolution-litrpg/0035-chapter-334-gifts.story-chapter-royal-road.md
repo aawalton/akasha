@@ -1,0 +1,211 @@
+---
+id: 7020031e-d177-59fe-a715-1ae6a4325454
+page-type-slug: story-chapter-royal-road
+title: "Chapter 334 : Gifts"
+slug: 0035-chapter-334-gifts
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 35
+ownLength: 2334
+unit: words
+ownProgress: 2334
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2919345/chapter-334-gifts"
+royalRoadId: "2919345"
+markedReadAt: "2026-06-29T19:42:58.392Z"
+---
+
+It felt good to be the one piloting my slime body around again; even though the full power of [Roleplay] was impressive, it rapidly grew uncomfortable the longer I left it.
+
+I wouldn't have been able to keep it up with just [Acting], I would have exploded before even reaching this place with how touchy Vanessa is…
+
+A slight shudder went through me, as just imagining it gave me the creeps. Even as a third-party observer, it had almost been too much for me.
+
+Okay, let's have a bit of a look around!
+
+I exited the house I was assigned and started to explore, wanting to see the condition of the willing or otherwise human captives. Before I even found someone to strike up a conversation with, I made two observations thanks to my plethora of sensory traits.
+
+The air was breathable, an obvious requirement to keep the humans alive, but still strange since I saw no plants or anything to upkeep the environment. The second thing I noticed was that the ambient Mana was thin, almost non-existent in this area.
+
+Strange… Is this how they stop mages from casting spells? Let's test that.
+
+I cast a tiny [Vacuum Blade] on one of my fingers, having no issue with my spellcasting.
+
+Huh… So, is the Mana drought not how they stop spellcasters?
+
+I observed the spell for a bit longer as I started walking around, and did eventually notice that the Mana cost was maybe higher. Honestly, it was hard to tell with my absurd capacity and regeneration.
+
+I guess inexperienced mages might suffer if they aren't getting a boost from the ambient Mana to their spells? Who knew that some Mana costs were offset by the environment? I certainly had no idea spells even worked that way. Still, this is a far cry from the "bane of mages" info I gathered.
+
+I expanded my sensory range, using [Soul Sight] to see the flow of things. Which led me to finding a strange amalgamation of the magical devices I was told to place in my mouth for emergency air.
+
+Well, that explains where the Mana is going.
+
+Not long after that discovery, I finally saw my first human who walked out of his home. He was dressed rather well, although I noticed a silver choker around his neck. I instantly examined it, but to my surprise, it had not even a hint of an enchantment.
+
+Guess it's just a fashion choice then, and here I was thinking it was brainwashing slave collars. Vee must be rubbing off on me; soon, I'll also fear the brainworms!
+
+After chuckling at my own joke, I threw an [Identify] at the strange man to see how he measured up.
+
+<Nick; Human LV 17; Sorcerer LV 31. Elemental Affinity: Air, Fire.>
+
+Wow, you need to work on those levels, Nick. Those are pretty bad!
+
+If I recalled correctly, Sorcerer was the default upgrade from Mage if you couldn't focus on a specific element. Not that it was bad per se, but considering he didn't pick Aeromancer or Pyromancer, he must have lacked a pure enough affinity.
+
+"Hello!" I called out.
+
+Nick turned to face me, surprised at being called out. "Oh. Hello. Sorry, I don't recognize you."
+
+"Sylvain, I'm new here."
+
+"That explains it," Nick said before pausing and examining me. His expression suddenly darkened, and he looked quite startled. "Your levels…"
+
+"What can I say, I did a lot of dungeons and hunting before trying my luck in the sea!" I replied, followed by a hearty chuckle.
+
+"I see…" he frowned deeper. "Lewis won't be happy."
+
+"Oh? Why's that?"
+
+"Lewis is the strongest spellcaster living here," he answered, then shook his head. "Or was the strongest now, I guess… Anyway, he gets quite the luxury treatment, as you can imagine."
+
+"Really? Is that how it works?"
+
+Nick nodded. "Yes, well, your caretaker should fight for those benefits. The more you help Azulean prosper, the more influence your caretaker will receive. Amelia has become one of the top sirens thanks to Lewis; he's absolutely devoted to her."
+
+"Are you not?"
+
+"Oh, I am… but it's a bit one-sided, I'm afraid," Nick sighed, looking terribly upset. "Lola has brought quite a few of us, but she hasn't chosen her one yet."
+
+"Her one?"
+
+"It's the dream of all of us here," Nick said, a hungry desire simmering in his eyes. "Once your siren chooses you as her one, she lets everyone else go. The rest then get to fight for the attention of a new siren, although I can't even imagine that. I'd never pick anyone but Lola!"
+
+Okay, wow… I didn't expect it to be this bad. The humans who haven't been chosen might still have a chance to be saved, but these "ones" almost sound like lost causes.
+
+I spent some more time talking to Nick, trying to get some more information. To my surprise, he remained talkative throughout, never once suspecting my intentions. Also, the more we chatted, the more uncomfortable I felt about this situation.
+
+Nick was himself as far as I could tell. He wasn't a mindless slave and seemed to have the free will to do whatever he wanted. But that was where the nefarious plot truly was—he wanted to do anything Lola told him to.
+
+It's rewired them to such an extent that they genuinely want it. I almost want to say mindless mind control is not as bad.
+
+I also asked about the other humans and found out that the non-mages were effectively treated as slaves. The most they got to do was dumb labor, and at the end of the whip. I thought it was strange that they only wanted spellcasters, and even brought it up.
+
+"Well, humans are naturally physically weaker than mermen. You could say our variety of affinities and above-average Mana is the only advantage we have," Nick explained.
+
+I somewhat agreed with that explanation, since as far as I could tell, the mermen were definitely extremely limited in the elemental magic department at the very least.
+
+I also ended up finding out about this Lewis fellow and what made him so special. Nick spoke highly of him, although there was notable reluctance in his praise. Lewis' claim to fame was being a high-level hydromancer while also having an ice affinity.
+
+"I'm surprised he's not a Cryomancer," I replied.
+
+"Shh!" Nick hissed. "Do not mention that. He's… working on it…"
+
+I wanted to get a bit more from Nick, but unfortunately, a pair of mermen princesses had entered the dry zone and were quickly approaching.
+
+"You! Why aren't you inside your house?" the one princess asked, pointing a trident at me.
+
+"Oh. I wasn't told I can't walk around. I thought I'd talk to some people while waiting for Vanessa," I answered.
+
+The princesses were momentarily surprised by my response before abruptly snickering.
+
+"Right, well, Vanessa asked you to stay inside until she gets back," she replied.
+
+Bleh… You take over [Roleplay], I don't want to deal with pretending that Vanessa is better than a shiny new slime core.
+
+"Oh, of course. I'll go right there!" Sylvain replied, his demeanor abruptly becoming filled with hope.
+
+The two princesses glanced at each other before grinning fiendishly at each other.
+
+"Come, we'll escort you there," the other said, gesturing for us to start moving.
+
+"Okay. Goodbye, Nick," Sylvain replied before heading back.
+
+"Bye!" Nick said, before he walked in the opposite direction.
+
+When we arrived at my "home," the two princesses even went as far as escorting us inside. Then the two glanced at me up and down.
+
+"You look like a pretty rich boy," the one princess said.
+
+"Adventuring has been quite profitable," Sylvain answered. "Vanessa has big expectations for me."
+
+"Right…" the princess said, rolling her eyes. "Listen, what if I said I could reunite you with Vanessa sooner?"
+
+Sylvain gasped. "Really? You could do that for us?"
+
+"Sure… If you're willing to give us both a gift, I can do my best to send her back here ASAP."
+
+Sylvain paused to think. "What sort of gifts?"
+
+"Gems!" the other princess screamed out instantly.
+
+Her companion elbowed her in the ribs with a glare. "Or anything that sparkles… Whatever you don't mind. It'll go a long way in getting Vanessa back to you sooner."
+
+Wow, this has to be the worst attempt at robbery ever. Although I suppose it's child's play for these poor humans. Sure, let's give them some gold bars.
+
+Using my [Core Storage] workers, I quickly threw together some gold bars made out of a blend of [Metal Slime], [Nitro Slime], and laced with a hidden core of [Acid Slime]. Working together, it took them no time at all, while [Roleplay] kept the princesses distracted by pretending to struggle with a choice.
+
+When the first bar was done, Sylvain made his move.
+
+"Will this do?" he asked, pulling out the primed bar.
+
+The two princesses gasped in surprise, their eyes widening before greed overwhelmed them.
+
+"Yes! This is wonderful!" the one princess said as she snatched it.
+
+"I'm glad you like it. I can't wait to see Vanessa," Sylvain replied.
+
+"But, what about me?" the other princess demanded.
+
+Sylvain paused again. "Would two bars make Vanessa come sooner?"
+
+"Yes! Definitely!" she snapped.
+
+Sylvain nodded and pulled out a second bar, which she hastily snatched and clutched between her arms as if it were the most precious thing in the world.
+
+At this point, if they asked for more, I had quite a few ready and waiting. If I had more time, I would have hollowed out some of the real bars I had and filled them with my blended slime bomb, as that way I wouldn't have had to worry about the primed time running out.
+
+Although Vee would probably kill me. She wants a money pool, for whatever reason.
+
+The two princesses were drooling over the gold bars, before they both glanced at each other and then back at Sylvain. I sensed they were about to ask for more, but the more reasonable of the two seemed to suddenly change her mind.
+
+"Thank you for the gifts. I'll go tell Vanessa right away," she said.
+
+"It's my pleasure," Sylvain replied, a smile on his face.
+
+The two princesses left, closing the door behind them. Using [Spatial Sense], I watched as one left and one remained behind. I was wondering why until I realized she was probably guarding me until Vanessa finished brainwashing me.
+
+Well, there goes my exploration… I mentally sighed before relieving [Roleplay] of its duties.
+
+Since I was stuck for now, I started thinking of some plans. The first one was obvious: I should make more "gifts" as it would make quite an explosive spectacle, depending on how much they decided to rob me.
+
+I ordered my worker [Sub-Cores] to start making a variety of slime bombs, disguised as metals, weapons, potions, and anything else they could think of. Sylvain was an adventurer after all, and his bag could be filled with all sorts of random trinkets.
+
+Then I suddenly heard a whining hum coming from outside my house. Using my senses, I tried to see what was happening, as I suspected either a sonic attack or another attempt at brainwashing. I quickly discovered the source, and it was the princess who stayed behind.
+
+What is she doing?
+
+I felt fine, but it was peculiar. I tried using a few other senses to figure out what she was doing, and [Soul Sight] revealed her voice warping the area around her.
+
+At first, I thought she was doing something with the essence in the area, as I recalled that the alicorn prince was manipulating it, but soon realized she was doing something to the Mana. From what I could see, the minute amount of ambient Mana not being directed to those magical tools was actively falling apart. I'd never seen anything like it before.
+
+Is this why they are the bane of mages?
+
+I had to know, so I tried casting a spell, opting for another tiny [Vacuum Blade]. The first thing I noticed was that my spell construct was sluggish to form, but after that, the spell was functioning as per usual.
+
+It was shocking, but still hardly living up to the dreaded moniker they'd earned. I used [Soul Sight] again to investigate further and found that the disruptive waves she was releasing were struggling to get through my personal Mana aura.
+
+Wait… does this mean what I think it means!?
+
+I flicked my finger, sending the [Vacuum Blade] out as a tiny projectile. The very second it left the confines of my personal aura, the spell rapidly unraveled, not even leaving behind motes of Mana.
+
+I shuddered, wondering if it was really that effective or if it was due to [Vacuum Blade] being a terribly inefficient projectile. I cast a small [Water Orb] spell, and watched as the same thing happened, not even leaving behind a drop of water!
+
+I guess the rumors weren't false… It's a good thing that magic is my backup plan.
+
+To confirm my suspicion, I shot out a tiny slime needle, the projectile stabbing straight through the far wall. This proved that it was only spells they were affecting, which, while annoying, wouldn't really matter to me.
+
+Well, I'm sure Gramps will be happy with this. Although anything that affects me personally would still work, it would just require a bit of added difficulty. Still, I guess I'll have to slime my way to victory this time.
+
+I was tapping my foot as I thought of how I wanted to approach this. With my current strength, I could probably just make a grand assault by turning into a giant slime squid. On the other hand, I could try spreading out as many "gifts" as possible and blowing the place sky high.
+
+Oh! I think I have a brilliant idea! I thought excitedly as I stared downward.

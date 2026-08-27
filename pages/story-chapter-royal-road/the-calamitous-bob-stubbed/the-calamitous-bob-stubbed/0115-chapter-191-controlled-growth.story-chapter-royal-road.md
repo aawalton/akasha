@@ -1,0 +1,435 @@
+---
+id: bc9c4598-d4a6-57a1-a9b9-d0114ea3f7e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 191: Controlled growth"
+slug: 0115-chapter-191-controlled-growth
+partOf: the-calamitous-bob-stubbed
+position: 115
+ownLength: 5301
+unit: words
+ownProgress: 5301
+publishedAt: 2025-01-31
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2040566/chapter-191-controlled-growth"
+royalRoadId: "2040566"
+markedReadAt: "2026-06-29T21:18:44.710Z"
+---
+
+Ban surveyed the newest seven warriors joining the One Hundred, as seven others would leave it. The One Hundred needed people at the top, and there were few who could do this in all seasons. Warriors who’d been part of the One Hundred even once were called ‘Numbers’ in the other regiments. It was a mark of honor.
+
+Two of them were returnees. Kinei was an old Enorian who stood at the edge of what the One Hundred demanded. He tried to join every season as a matter of pride. Sometimes, as was the case today, he made the cut. Prideful twit, but solid and dependable.
+
+Sal was a northerner and one of the deadliest spearmen in Harrak, trained by Lady Wamiri herself. He’d left for the Children of the Scale to personally take over his little sister’s squad. The poor sods must have been put through Enttiku’s gauntlet if he was satisfied with the results.
+
+Ban nodded. Of the five newcomers, most were young warriors coming into their own. There was even a second woman so Brick would have company. Not like she’d notice.
+
+“Alright, listen up,” he said. “For the five of you who join us for the first time, well done lads. And lass. You’re the best New Harrak has to offer. I am proud to go to battle with you lot at my side.”
+
+It was an emotional moment for the green bloods. Ban ignored the wet eyes. Ah, to be young again.
+
+“Now that that’s out of the way, let me ask you a simple question. As you know, we’re the Empress’ personal guard. Now, do you think someone who flies around slapping dragons and dueling avatars needs a bunch of grunts like us to save her? Do you believe we’re here to protect the deadliest mage on Param?”
+
+The five didn’t shuffle, but he could tell their enthusiasm was a bit dampened. That was fine. Ban was an old hand at this.
+
+“I asked you a fucking question.”
+
+“No sir…”
+
+“Thaaaat’s right. So why are we the best of the best, equipped with runic armor and the best steel the yries can make? Why do I hand pick every last one of you meatheads? Why do I spend my valuable time making sure you’re as sharp as can be? Hm? Don’t worry, I’ll tell ya. It’s because we’re not here to guard the empress. We’re here to guard the shit she cares about so she can fly around one tapping house-sized aberrants. We are the tip of the empire’s spear. We are the cornerstone of the formation. We charge across the battlefield and plant our asses where we are needed, and then we hold the line. Come line breakers or knights or mage bombardment, we hold the line. The crossbow girls and the other regiments can look ahead and do their job because we’re in the front and they know we won’t be fucking moving. Isn’t that right folks?”
+
+The One Hundred didn’t scream or speak like the others, but they did slam the butt of their steel spears on the ground in a loud, uniformed thud.
+
+“I say again, we’re the tip of the spear, and we ram that spear down the throat of anyone who thinks they can fuck with our beloved nation. You will follow me and we will sit ourselves at the front where the killing’s the thickest, and you can rest, stop, or die when I fucking say so. Am I being clear?”
+
+“Aye!”
+
+“Good. Now let’s go. The Empress wants to try out her new strategist. Dismissed.”
+
+As his men — and women now, had to remember that — moved to pick up their packs, Ban turned to the waiting Rollo to see what the arrogant twat had to say. The knight had waited at the entrance of the camp, on foot. A mark of respect. Ban liked him for it.
+
+“Ser Rollo, greetings. What do ya want?”
+
+“In the future, you might prefer ‘to what do I owe the pleasure?’” the fucker replied with a snide smile.
+
+“I’m not one for the fancy shit.”
+
+“Well you might want to get a start on that. Congratulations. You are being promoted to viscount.”
+
+Ban paled.
+
+“You’re joking, right?”
+
+“I could not be more serious. By imperial decree, no less.”
+
+It was the girl, for sure. That sneaky bitch.
+
+“What does that even mean?”
+
+“Her Imperial yadda yadda will explain it in person during a ceremony but as far as I can see, it’s a trick to pay us less. We get land, we get people to administer — and tax — and we pay less taxes, but in return we need to buy our own gear.”
+
+“Isn’t that just a trick so the other nations don’t look down on our elites so much?”
+
+“I’m sure there are more reasons, yes.”
+
+“Gods dammit Rollo. Wait, are you becoming a noble as well?”
+
+“Ban. I am a noble. I was just granted the land to match.”
+
+“Arrogant twit.”
+
+The knight’s smile deserved its own set of slaps.
+
+“Please, viscount. No need for us to be uncivil, yes? I will see you at the ceremony. Oh, and do bring your wife, yes? She is nominated as well, after all.”
+
+If Ban could pale even further, he would.
+
+***
+
+Viv was kind of sorry to have to reinvent feudalism, but with the increasing load on her administration, she simply didn’t have a choice. The petition line to the throne room was longer than she could shake a void stick at, and that was almost every damn day. And it didn’t concern the tens of thousands of isolated people still waiting for metal tools in their faraway enclaves on the coast. Or the Hadals who wouldn’t be seen in public. Or the innumerable issues that came with refugees and immigrants clashing over laws they were not familiar with. New Harrak was doing well but it was also an absolute mess right now. She needed to offload some of the pressure. She needed… middle managers.
+
+So, nobles yeah. Mostly, she’d given ‘margrave’ titles to mayors and exceptional local rulers with the caveat that they could be voted out, and viscount and higher titles to elites and specialists like Solar who couldn’t be arsed to rule but needed some way to be recognized. The unexpected benefit came from the hordes of ambitious people outperforming themselves in the hope of getting the Imperial seal of nobility.
+
+Viv knew this would come to bite her in the ass at some point, and she had already formed an order of arbiters hand picked from the clergy to keep an eye out for abuse. It still felt iffy to her modern tastes. Nobles formed factions and groups of interest and then they’d be entrenched as maintainers of the status quo. She just couldn’t think of another way to bring order out of the primordial chaos New Harrak was right now.
+
+Her only hope was to keep social mobility alive.
+
+Actually, come to think of it, she could also defenestrate uppity entitled assholes on a regular basis. Or give them to Solfis for collection. Hmmm there was an idea.
+
+“Concerned about having to redesign the guillotine?” Sidjin asked by her side.
+
+“Nah. Well, maybe. Mostly this goes against what my people have fought for for generations… but those were different times and muskets can go a long way towards promoting equality. Anyway… Oh, here’s Ban.”
+
+The old man strode through the entrance of the throne room wearing a nice doublet. As expected, he was practically fuming, but there was also a sort of fear here that didn’t sit well with Viv. He had more courage when facing the fake dinosaur thing.
+
+“Ban! Welcome. And I see you brought your…”
+
+Even with advanced stats, Viv couldn’t quite believe her eyes when she saw the newcomer.
+
+Well, to be fair, she should have expected it given the fact Ban junior was a looker, but still, goddamn!
+
+Ban’s wife.
+
+As tall as Viv. Face cute as a button, blushing in embarrassment. Raw, wholesome charm dripping from a shy smile. Liquid eyes that captivated. Lush, curly hair like sun-kissed obsidian.
+
+The body proportions of a Greek goddess. Aphrodite, specifically.
+
+“Hmm, hello?”
+
+“And that’s what I was worried about…” the old man grumbled.
+
+Viv ignored him to give the woman a warm smile, but the poor thing couldn’t meet Viv’s eyes. It was really strange to see such a lack of confidence on someone as tall as her.
+
+“Welcome to the celebration, err, —”
+
+“Laira.”
+
+“Laira. Make yourself comfortable. Ban? Everything alright?” Viv continued as his wife did her best to merge into a nearby wall. It didn’t work.
+
+“That’s what I was worried about. Attention! I told her she didn’t have to come but she insisted.”
+
+“I had to be here for you,” a little voice squealed.
+
+“She’s safe here,” Viv insisted.
+
+But Ban merely scowled.
+
+“Come on, you can trust people here.”
+
+“And her as well,” Sidjin added, trying to contain his laugh. “She can behave in public. promise.”
+
+“Wait, you’re afraid of me? I’m kind of insulted,” Viv huffed.
+
+“Girl, you’re telling me you’ve never heard of generals with beautiful wives who go ‘missing’ on the frontline and the king suddenly shows a keen interest in the widow?”
+
+“Look, Ban, I know you’ve been through some bad experiences, but I’m not like the normal kings around, right? I think I’ve demonstrated that?”
+
+“I also know that you’re sword and spell.”
+
+Viv frowned. Was that an expression?
+
+“You follow two paths. You dive and you climb. You’re on both sides of the civil war.”
+
+“I think he means you like girls, also,” Sidjin helpfully whispered.
+
+“Yeah yeah I got it. But I’m not an animal. I find your suspicions aggravating.”
+
+Ban sighed.
+
+“Apologies, girl. I know. I am merely worried. My wife is… very attractive. And too shy for her own good. She cannot defend herself well.”
+
+“Just kindly ask Arthur to keep an eye on her.”
+
+“Now that is an idea.”
+
+“That way, if anyone burns with passion for her, you can, ah, complete the combustion.”
+
+Ban relaxed when he realized he was on friendly grounds.
+
+“I feel better knowing I can trust you. And I will be keeping an eye on the other.”
+
+“Well,” Viv said, trying to cheer the old bugger up. “I think you can trust Rollo as well.”
+
+***
+
+The army deployed in front of Asterley, the next city on their hopping trip to the capital. Viv had picked Asterley for four reasons.
+
+First, it was remarkably well-preserved, a bit like Sinur’s Gate. That meant standing structures. It also meant treasure, and a lot of it, which led to the second reason. New Harrak was always strapped for cash. Hard. Despite record harvests, quick expansion meant a massive need for investment that the banks could not cover alone. Almost all of Viv’s money was bound to one project or another, and it was the same for Sidjin and other rich patrons of the industry. Personal wealth couldn’t cover a nation’s budget. They needed resources, and the best way to get those resources was to put the oversized army to work.
+
+And so she did, and for reason number three, they were pushing north. Viv needed reasonable access to Harrak and its untold wealth, but she couldn’t just ferry stuff herself. They needed temporary bases on the way or each portal network node would be overwhelmed with powerful undead every time they smelled some life energy.
+
+And four, she needed to challenge Sahin. Jaratalassi might have great instincts, but Sahin remained untried. It wasn’t enough that he had potential. She needed to make sure he was up to the task, and facing an undead horde while she watched was the best test she could think of.
+
+As an additional penalty, Sahin didn’t have access to Sidjin, golems, or Arthur. The golems usually practiced by themselves and their coordination outdid that of humans by a significant margin anyway. They didn’t need a strategist.
+
+Viv returned her attention to the walls of Asterley. On Sahin’s command, Frosthawk and a couple of other mages sabotaged a segment until it fell, forming a small mound of piled bricks. A moment later, the life lure was triggered.
+
+Viv felt the life pulse expand like a breath, bringing a fresh puff of fresh wind to the dry and tasteless air of the deadlands. The answer was immediate. The deadlands were still immensely vast, still immeasurably deadly, and it would not relinquish its hold without fighting every step of the way. The call was made, and the dead answered it. Screams, roars, the cries of centuries of corpses crawled through the gap in the fallen city’s defenses. Revenants ran through the opening while crawlers hoisted their ghoulish frames over the walls. Outside of the city, racing groups of puppeteers gathered the stoutest undead to infuse them with renewed frenzy. Dark fliers gathered overhead to challenge Frosthawk’s dominion.
+
+Viv hadn’t seen so many advanced undead since the necromancer couple back in Fort Sky, an eternity ago.
+
+Frosthawk flew to meet the new threats. Viv watched him freeze a sort of giant bat solid, causing it to fall to the dusty ground where it exploded into fetid chunks. Meanwhile, the army moved like never before.
+
+Viv had always believed the Harrakans moved with discipline and they did, thanks to their exacting training, but they still moved like people. Now, the whole formation coordinated like a smooth body, more organic than should have been possible. Three liberators moved up to blanket the gap in flames, each one alternating with the other so that there would always be something firing. Gut spillers with their horned heads spewed liquids to quench the flames almost as fast as they started. Meanwhile, precise volleys of infused bolts took out crawlers and puppeteers with deadly precision. The witchpact fired from elevated dirt towers that gave them a commanding view of the field. Viv liked the way they were spread out.
+
+It was not enough, of course, and the heavies were soon in contact. There, Sahin’s touch proved once again useful. Each rank rotated to let people rest while the main squares moved to receive larger groups in the most efficient manner possible. It was like watching a living, breathing organism punching approaching insects. As the minutes went by, the army held well.
+
+Then a massive creature with a thick shell smashed through another part of the wall, opening a second front. Sahin reacted immediately. Pinpoint strikes from the yries catapults covered that opening. Meanwhile, the army advanced, with the witchpact leaving their improvised towers behind.
+
+“What the hell is he doing?” Viv wondered as the humans marched towards the approaching — and still intact — hulk.
+
+As they were about to make contact, Abenezigel unleashed a mighty spell. Black threads appeared over the undead creature like so many strings to cut, which he did with the help of some solid marksman work. Every time a thread snapped, the undead creature stumbled, parts of its body crumbling to dust. It died before making contact.
+
+After that, the formation smoothly moved around the carcass like water flowing around a rock. Sahin sat the One Hundred at the second gap while the line breakers climbed the walls, going to work on the crawlers still there. Once they were covered, two of the liberators advanced to create a kill zone on every approaching street. Shortly after, the witch pact scaled the walls as well so they could take potshots. The entire Harrakan formation was now a turtling fortress using the houses and walls as natural anchors. The only dangerous creatures were easily taken out by Abe before they could cause much damage.
+
+It went like this for ten minutes. The tide turned into a wave, then to a trickle, and the tired and wounded were given the time to rest.
+
+Viv wondered if bringing Abe was cheating but to be fair, most armies this size had dangerous elites more or less on his level.
+
+Ah whatever. The New Harrakans had plenty of strong individual fighters. It made sense to use them like this. And the main point, which was that strategists allow formations to move as if linked by their mind, had been made. With Sahin only on the second step, still, this was an auspicious development.
+
+Now she only needed to pay one more extremely valuable addition to her cause. Ugh. It never stopped. With a sigh, she lowered herself next to the command group and the meditating form of her strategist. He had an array of far speakers arranged in front of him, but wasn’t speaking right now. She took it that it was a good time to talk.
+
+Nobody was surprised when she softly landed. The only weird element was how exhausted Sahin seemed to be. His skin was pale and clammy despite the chilly weather.
+
+“Well, you are certainly proving yourself. Now I would like to ask what your experience is so far?” Viv asked.
+
+The sweat on Sahin’s brow redoubled. He blinked, and Viv wondered if she had distracted him at the wrong moment because he looked ready to keel over.
+
+“Good. Excellent. On the army side, that is. The vast array of forces at your disposal and their capabilities is simply unheard of, especially for a young and small nation. I am genuinely impressed. Yes. I will also say…”
+
+He vacillated and Viv approached, ready to pick him up. He waved her concerns away.
+
+“I will say that they perform exactly as requested on the field. Between their discipline and those wonderful ‘radio’ spells you have come up with, I believe we can take on a force several...”
+
+He breathed in deeply.
+
+“Several times our size. Ugh.”
+
+Sahin grabbed a piece of soft cloth which he used to wipe his soaked face.
+
+“However, do I have a complaint? Request?”
+
+“Hmm?”
+
+“You let the others know about my recruitment, did you not?”
+
+“What do you mean? Yes, I told them I was going to see you.”
+
+“Not… this. The… test of patience?”
+
+“Eh? Errr, no, not me, but perhaps Rollo did?”
+
+She was confused.
+
+“Why?”
+
+“Because we have been practicing for several days, as you know, and on the first day of exercise, someone snuck into my house and, despite many alarms and the presence of my majordomo, managed to steal all the socks. All of them. I found them bundled outside.”
+
+“Ah.”
+
+“On the second day, all of the water in my tent was frozen solid. I had to request a mage for warm water, or I would not have had any tea.”
+
+“How dreadful.”
+
+“One of your golems accidentally stepped on my favorite pair of shoes.”
+
+“That wouldn’t help.”
+
+“They’re soles now. And on the third day, I kept seeing shadows at the edge of my field of vision.”
+
+“That would be the Hadals.”
+
+“All day long. It made me quite nervous, as you can imagine. The next day, I found that my metal chair was slightly bent, so that only three feet would touch the ground at any time unless I leaned forward which would set the chair on its last leg, so to speak.”
+
+“The Heavies do pride themselves on their strength.”
+
+“I eventually made a remark and the yries came to me to apologize in the name of the others.”
+
+“Oh dear.”
+
+“They seemed friendly.”
+
+“They hold grudges.”
+
+“Engineer Lak-Tak brewed me a pot of tea as a gesture of appreciation. He shared it with me.”
+
+“Uh oh. Did it taste sweet?”
+
+“It was sweetened with honey, yes.”
+
+“Damn.”
+
+“Very sweet. The honey was a potent hallucinogenic. So I have gathered.”
+
+He blinked back tears.
+
+“I need to ask. Are there really dragons flying over the field right now?”
+
+Viv looked up without alarm.
+
+“Hm? Oh yes, that’s Arthur and Gale. They’re probably just curious.”
+
+“Oh, good. Good. That is good. I was not sure. And the tentacles on the horizon expanding into infinity?”
+
+“Most likely the honey. Or you might be seeing the yries god.”
+
+“This is not a comforting thought.”
+
+“Don’t worry, it’s not hostile. For now.”
+
+“Very reassuring. Now, what was I saying? Ah yes. The request. Please ask your people to stop.”
+
+“Right. I’m not really in favor of hazing so I’ll ask them, of course. Errrr. Carry on.”
+
+“Please please please do.”
+
+***
+
+The life of a thrall was a difficult one. The girl, specifically, was one of the lucky few learned thralls. That meant that she was mostly left alone by the men of the tribe and she had food pretty often. Scraps from the table of the chief-of-chiefs, mostly, but it beat being used as Scalehound bait. Or laboring in the fields until you dropped. Today was a good day as well. The raiders had returned from the lands of the pale imperials with shipments of slaves. The thrall was not sure why the unpainted ones had broken the uneasy truce they had with the chief-of-chiefs, but she knew the chief-of-chief had gathered his best warriors to teach them a lesson.
+
+The thrall girl didn’t like lessons. The warriors were first, then the hunters, then the laborers, then the thralls, and then the slaves or prisoners. The shamans and chiefs stood above in their own world. This was how the world worked. The tribes raided the lands of the unpainted children of the fallen king. If the fallen ones offered tribute, there were less raids. If they didn’t, well, cages overflowed with the women and children of those they’d slain. Such was the case now, though the prisoners were still few. It was only the beginning of the time of harvests, after all. More would soon follow.
+
+She approached the throne on soft toes. She had the right to be here, she had to tell herself, even as mighty warriors eyed her with haughty disgust. She had to be on hand in case the chief-of-chiefs needed to understand the babbles of terrified prisoners. Sometimes, some of them held worthy secrets that could be used to plan juicy raids.
+
+There, next to the throne, she found what she wanted. There was the leg of a fowl with a lot of the meat still attached. If she could just sneak in a little closer…
+
+The thrall girl almost barred the way of a shaman apprentice. The taller girl gave her a dismissive glance through the slits of her bone helmet before moving on. She had muscle, a hale skin, slightly tanned from the summer heat. The thrall breathed now that the danger had passed. She grabbed the fowl leg and turned away. from the warriors standing around the throne.
+
+In the chaos of the feast, she stood alone, her side to the monumental stone where the chief-of-chiefs sat. She was at the heart of the tribes yet so very alone and so very exposed, safe because the eyes of the beast were turned outward. She bit down. It was greasy and delicious and the juice almost dripped from her lips when her teeth bit the tender flesh. She swallowed the meat too fast. The ball hurt her throat on the way down, making her crave water but her mouth was already gnawing on a piece of crispy skin forgotten near the end. Delicious. So good it was almost enough to cry. So hungry.
+
+[Attention to the master] picked up the Chief-of-chief’s displeasure an instant later. Her class instincts let her regretfully place the bone on the ground. Maybe she’d find it again before the hounds got to it. She hurried her way through the crowd of curious retinue for fear of punishment, should she delay. The room was mostly silent now, and the tables at the side of the longhouse were filled with gasping warriors, their eyes struck with disbelief, because there was a stranger in their midst. A man, with wavy black hair and a scar on his cheek. The thrall found him very handsome, and his clothes were finer than anything she’d ever seen before. Metal glinted under his cloak. With wealth like that, he might have been a chief himself.
+
+The stranger strode in the monster’s den, perhaps unaware that he would leave without his gear or without his life. To the thrall’s side, the chief-of-chiefs leaned forward with the predatory smile of a Rakath. Meanwhile, the shamans moved. They didn’t look too pleased. She heard a few say he was a shaman as well.
+
+It was exciting, but also terrifying. The chief-of-chief’s anger seeped to her, making her tremble. Her spine stooped through the rough shift, moved by the [meek] skill to protect her from aggression.
+
+The foreign prince walked with a confidence that made her heart beat faster. He was either very brave or a fool. Maybe, if the chief-of-chiefs didn’t kill him, she could sneak a visit in the thrall cages so she could talk to him. His skin was so dark! The novelty of it all was enough to chase the fear away. She didn’t want this moment to end. She didn’t want reality to catch up with her hope for something better… but fate didn’t wait. The stranger reached the throne, stopping at a distance. The shamans hissed in the ears of the chief-of-chiefs, who stood. He was a massive man, and the thrall cowered again.
+
+The foreign prince was not afraid.
+
+“Where’s that little mud rat?” the thrall girl’s master roared.
+
+She moved forward at a quick gait. The chief-of-chiefs didn’t like to wait.
+
+“Ask him what he wants,” he said, and the tone was the calm that heralded punishment.
+
+“Hmm,” she said in the tongue of the fallen nation, “My master… inquires as to the reason for your visit?” she asked.
+
+The stranger breathed deeply. She felt his anger thanks to her skill, even as he masked it well.
+
+“I am Sidjin of Harrak. I would like to know if I am addressing the leader here, and the one who ordered the raid on our land,” he replied with a smile that mirrored the chief’s own.
+
+It was then that the thrall knew this would end in violence. A shame, because the chief would kill the handsome stranger for that, but maybe she could find a way to talk to him beforehand.
+
+“I will convey your words.”
+
+Now to be careful.
+
+“He wants to know if you are the chief-of-chiefs, and warlord for our tribes.”
+
+“Hah! Tell him yes, and ask him if he has come to buy back his people.”
+
+The chief-of-chiefs guffawed.
+
+“But tell him it won’t come cheap.”
+
+All humor disappeared from his cruel face.
+
+“We do not forget the blood debt so easily.”
+
+The thrall turned again.
+
+“The chief-of-chiefs is willing to negotiate the return of your prisoners in exchange for ransom, but he warns you that the attack on the village last year will be reflected on the cost…”
+
+The handsome man tilted his head to the side as if he could not believe his ears. His cloak parted to reveal very elaborate armor. Slowly, he grabbed a helmet from his belt which he placed on his head. The tribesmen frowned. He was getting very close to breaking the truce of the feast and the laws of hospitality. The thrall girl paled. This was… very unwise.
+
+“Tell him I haven’t come to negotiate.”
+
+“The, ah, visitor says he does not wish to purchase.”
+
+“Hah! What then? A duel?”
+
+The most powerful shaman, Gray Vela, whispered in his ear but he pushed her away.
+
+“Who is the fool who comes here to die? Are you a king or a madman?”
+
+“The chief-of-chiefs would like to know your name,” the thrall girl uttered with a shaky voice as she refrained from stepping back.
+
+No one would stop blood from being spilled today.
+
+“Oh, I’m not a king, no. I am merely her paramour. She’s busy right now and you might say… I’m an expert at culling unruly neighbors.”
+
+It happened very fast.
+
+“He’s casting!” Gray Vela screamed.
+
+The thrall jumped to the side, uncaring about those who could stab her for leaving without permission. Warriors and shamans rose to their feet. Spells smashed into a transparent, elaborate barrier made of interlocking parts like shells on a war tortoise. A hole in reality tore open at the back of the visitor, surprising everyone, and fighters in thick metal armor charged through it.
+
+So much metal!
+
+Gray Vela cast her own barrier but another tinier portal opened and something went through it. There was a hell of colorless barbs and a lot, a LOT of blood. One of the warriors with a flaming sword clashed with the chief-of-chiefs. The thrall crawled on her knees. Over here, a tall southern woman with a spear and a smile skewered a warrior. She was wearing steel too.
+
+The thrall found the wall, her feet, and she ran. She ran to the backdoor as more imperials poured through the portal. They had broken the truce of the feast! No, they were killing some of the best fighters of the tribe right now! No, there was a pale woman like her with a spear and a lot of metal. Could it be done? No, she had to get out of here. Now!
+
+She raced as the battle unfolded. The warriors of the tribe were not wearing their bone armor and the metal-clad invaders were cutting them down as they pushed forward. A monster with metal horns stepped out, with blue eyes! He roared in the old tongue, but the thrall could feel in her soul the truth his words carried.
+
+“You have sinned! You have allowed yourselves to grow fat and weak on the weaker. You have grown complacent. You have mired yourselves in your certitudes and the easy ways.”
+
+The thrall girl reached the door, finally. It slammed open. The edge smashed into her arm. It hurt. More warriors poured in. Outside, there was fire at the edge of the distance. The girl fled. There were warriors and laborers running and screaming. One of the hunters on the roof fell, and the girl saw a steel tip jutting from his skull. Steel on arrows! How rich were those foreigners?
+
+A fight had begun at the edge of the village as well. Archers, mostly, but she could see more metal glint at the edge in the fires. There were people flying like birds overhead.
+
+The strangers were winning. The warriors were too dispersed, too caught off guard. The thrall girl’s world was collapsing and she was loving every second of it.
+
+“There you are,” a voice said.
+
+It was the spear woman. She smiled. She was missing one tooth. Other soldiers with the same sword and shield on their tabard approached as well.
+
+“Sidjin said you can talk our language! We need someone to translate threats, girl. You’ll be rewarded. And freed, also.”
+
+“Can I have a spear like you?”
+
+The tall woman laughed heartily, while the other warriors nodded with approval.
+
+“You can, girl, if you train hard enough. Name’s Koro. I can teach you.”
+
+“Yes please!”
+
+The warrior winced and moved her shoulder again. Suddenly, the thrall girl was concerned.
+
+“Ah, don’t worry. Breasts hurt. Gotta head back to feed the little monsters before I erupt.”
+
+“I volunteer to relieve the pain!” one of the warriors offered with a sideways smile.
+
+She socked him in the helmet. The rest laughed.
+
+“So what’s your name?”
+
+“I am Bird Tongue. Yes, I will translate for you. And I have another question.”
+
+“Ask away.”
+
+“The handsome prince. Is he spoken for?”
+
+Koro winced in a way that said yes.
+
+“Ah, yeah, about that. I think you’ve got some serious competition.”

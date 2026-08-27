@@ -1,0 +1,321 @@
+---
+id: 567e3966-4d00-52f3-b1e3-562cf951acfd
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-FIVE: Olorn-art'h"
+slug: 0167-one-hundred-sixty-five-olorn-art-h
+partOf: super-supportive
+position: 167
+ownLength: 4185
+unit: words
+publishedAt: 2024-08-29
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1778860/one-hundred-sixty-five-olorn-arth"
+royalRoadId: "1778860"
+---
+
+165******
+
+“Here comes another one!” Stuart called. “Or maybe it’s not just one. It could be two.”
+
+Alden had his eyes closed, and he was trying not to feel like a sad, sad failure of an Avowed.
+
+“You’ll get it this time!” Stuart said.
+
+“I think it would help if you weren’t so encouraging. I’m worried I’m hurting your feelings every time I miss.”
+
+There was a pause in the cheerleading. They had left the area around the house behind to have their “duel” farther out in the woods. Alden was grateful for the lack of spectators.
+
+I didn’t expect to be great at this yet, but I did think I would be a little better than I was against Big Snake last week.
+
+He blamed the situation. It just wasn’t as easy to find your skill-aligned flow state when you were on another world, surrounded by knights, playing a messy version of catch with a wizard who was a tad too worried that if you missed all of his throws you’d become depressed about your affixation.
+
+Stuart wanted him to catch so badly. The last ball had been delivered directly into Alden’s hands, and when Alden had opened his eyes to give a questioning look, Stuart had sheepishly agreed that it shouldn’t count.
+
+He was making the balls with a silent spell that Alden was very tempted to peek at. They were a collection of all the loose debris on the forest floor, compressed into a sphere that was solid enough to hold together until it impacted some part of Alden’s body and showered him in loser’s mulch.
+
+He’d thought it might be motivating if there was some consequence for failure, and Stuart had suggested this.
+
+Not too far away, Stuart was repositioning himself.
+
+My left.
+
+At least he always knew in which direction he could find his entruster. He rotated to face him.
+
+“Are you thinking about catching or protecting?” Stuart asked.
+
+“Both,” Alden said. “But mostly catching.”
+
+He was also trying to remember that idea he’d felt like he might be standing at the edge of when Big Snake had been hurling tennis balls at him. There had been a focus on his entruster that was a little more distinct than usual. If he could figure that out…
+
+“We don’t know how suited your skill actually is for catching,” Stuart said. “But we know it’s very good at protecting. Maybe you should think more about the fact that we are in battle and the helpless children I’m throwing to you will be injured if you allow them to fall.”
+
+“We’re throwing imaginary children now? Why are we throwing them? And how did you come up with—”
+
+He kind of thought he felt something coming toward him. Overhead. He jumped to catch it and took a pile of dead leaves to the face.
+
+******
+
+“You do remember us talking about how I would wear appropriate clothing and my commendation when you introduced me to your family, don’t you? And how I would do my best to make a respectful impression?”
+
+It was half an hour later, and Alden was following Stuart through the forest to an outlying cottage, where he would finally be meeting one of Stuart’s non-Primary parents.
+
+“I didn’t imagine that plan, did I?” He pulled a twig out of his hair and tossed it aside. Now, he was almost as dirty as he had been the first time he’d visited Rapport I.
+
+“You’re the one who said you should have consequences. It will be good to visit Olorn in her work cottage. She’s the only one there right now. I checked.”
+
+“I finally caught a couple of mulch balls! That should reduce consequences.”
+
+“I also think introducing you to Olorn first is the best thing.”
+
+Is he particularly close to her, then? Alden wondered.
+
+“Yesterday, during our family…discussion,” Stuart said, “she told me that she wished I felt free to spend more of my days playing in the sun. We look like we’ve been playing in the sun, don’t we?”
+
+Alden took in Stuart’s tidy brown braid and pristine tunic. He brushed some more leaf litter off of his own t-shirt. “If I’m being honest, I think we look more like you found me under a rock while you were digging for bugs to feed Other Alden.”
+
+“Olorn’s a <<potter>>. She’s often just as dirty as you are. And she’ll appreciate that you were bettering yourself by practicing your skill!” There was a hint of enthusiasm in his voice at that last bit that made Alden wonder if he’d mixed extra dirt into the last few attacks on purpose.
+
+So that I look even more hardworking when I’m shown to the chosen adult?
+
+Maybe. Probably not. Anyway, he was in it now.
+
+“A potter?” he asked.
+
+“She makes jars, cups, plates—particular ones that are needed for some rituals. That’s only part of it. Working with the ground of the Mother is one of her areas of specialty.”
+
+“Like the wizard version of Alis-art’h?” Alden asked, noticing a small root just in time to hop over it. He gave the tree it probably belonged to a wave.
+
+Stuart looked over at him. “That’s not the most accurate comparison…. Olorn often uses spells to increase the quantity of a rare type of soil or stone.  Then she might <<refine>> it or <<meld>> it with other things to create what she needs as a base for whatever final product she’s making.”
+
+Alden added “Olorn—ritual pottery, multiplies precious materials” to his cheat sheet.
+
+“She’s your Father’s spouse?” he asked. “I don’t have a perfect understanding of how everyone here is related.”
+
+“We’re a large household,” Stuart acknowledged. “And ours isn’t a common way of doing things in most places in modern times. Father’s first marriage contract was with Olorn and Veln, who had been his votaries. The two of them were already committed to each other and planning for children when he finally mentioned that he’d been hoping they would have children with himwhen they decided to retire from following him to dangerous places. Aunt Alis says she had to talk him into telling them.”
+
+For some reason, Alden was picturing Alis-art’h dragging the Primary out from behind a potted plant before presenting him to two wizards who’d worked with him for years. Jeneth was too shy to ask for your hands on his own, so I’m doing it for him. You’re all married now.
+
+“Years later, he did the same thing again with another votary couple,” said Stuart.  “And then the four spouses spent a while finding another pair that suited them and the rest of the household before telling Father he ought to <<court>> them.”
+
+The cheat sheet is going to be fascinating reading material when I finally fill it out with everything.
+
+“The written versions of everyone’s marriage contracts are preserved in the manuscript library if you’re interested,” said Stuart. “Aunt Alis, Uncle Tesen, and Father forming fruitful marriages with skilled people was always part of their goal for building a successful siblinghold. They knew they would often be away from home, and large families…”
+
+Alden could barely keep up, and it wasn’t just because Stuart was talking quickly.
+
+Jeneth-art’h had six spouses—two male and four female—who’d all been votaries to him or other knights prior to their marriage. They were experts in various fields of magic.
+
+Alis-art’h had a similar situation, though she’d acquired her five spouses individually rather than in pairs.
+
+Tesen-art’h had been married to two women prior to his death, and they still lived here with the family.
+
+The spouses seemed to be the backbone of the family structure. They made children, raised children, and when the making and raising of children allowed for it, they continued to function as highly qualified wizards who devoted themselves to handling matters for the siblinghold’s knights and the Rapport as a whole.
+
+Alden was mildly curious about whether or not all of the spouses were in love, in the human fairytale sense, with their knight and with each other. But whatever the answer was, the people involved would probably think the question missed an important part of their relationship. The family was a dream and a duty the spouses had contractually committed themselves to when they married into it.
+
+There was love, trust, and mutual purpose.
+
+And a lot of that purpose was making more art’hs. In batches. Which took Alden way too long to figure out.
+
+“They all try to have babies at the same time?” he asked, when he finally realized that Stuart’s references to “groups” of his siblings and cousins meant something a little more formalized than he’d assumed.
+
+“Not at exactly the same time. The ages usually <<span>> three or four years.”
+
+“That’s interesting. Why do they do it that way?”
+
+“Most children born into the family won’t become hn’tyons. But having close companions in that life increases the chances that you’ll <<thrive>>, and siblings are natural companions. Twins and triplets who become knights together are known to do well. And our parents all hope we’ll find the same thing Lind-otta and Esh-erdi have found in each other. It’s rare, especially at their age. Most of the successes so far have been between younger people who’ve been close to each other from their early childhood.”
+
+“Lind-otta and Esh-erdi!” Alden said. “Please tell me what they are to each other.”
+
+Stuart opened his mouth.
+
+“After you finish the art’h family explanation,” Alden added. “I’m making notes.”
+
+“On my family?”
+
+“Is that okay?”
+
+Stuart nodded. “What do the notes say about me?”
+
+“Nothing. I can remember you just fine without notes. So batches of babies…”
+
+“The more children you have at once, the more likely it is that you’ll have multiple who choose the highest path together. It’s also easier for Father and Aunt Alis to arrange to be home for important life <<markers>> if everyone has them within the same year or two. If I’d been born here at the Rapport, with the set of siblings and cousins older than me and without difficulties, then I would probably have seen much less of Father while I was growing up. He stayed here for me…don’t wander too close to that circle of brightgrass. I’d rather not explain what it is until you meet my brother and he has a chance to make an impression. His project there is maybe a little too strange.”
+
+Grass circle brother, Alden mentally wrote. Strange even by Stuart’s standards.
+
+“How many kids were in the last set?” he asked.
+
+“If you only count my brothers and sisters, and Aunt Alis and Tesen’s children—eighteen,” said Stuart. “But some of my siblings and cousins from the earlier groups do try to match their own child-having to our parents’ schedule, so there were a few more.”
+
+“I think it would be amazing to grow up with twenty other kids,” said Alden.
+
+“Me too,” said Stuart. “But they were all older than me, and because of how I was, they felt much older sometimes. There are always some in-between children around, but I would have enjoyed being a part of the big group.”
+
+“Alis just had triplets,” said Alden.
+
+Stuart brightened. “Yes! She was starting off a new set. One of her spouses is pregnant now, too. And one of Uncle Tesen’s wives. I hope my parents will decide to join them before it’s too late.”
+
+They are really going to need to commit to adding some floors onto their house, thought Alden.
+
+******
+
+They arrived outside a tall cottage that had its doors wide open to reveal a workshop that looked like something cooked up by a person in the middle of a dream. Inside the building, pitchers, jars, and cups stood on shelves or were suspended from the ceiling in webs of light like they’d been captured by magic-wielding spiders. Out front, there was a tan-colored, hive-shaped structure that Alden guessed was a kiln based on absolutely nothing but the fact that he thought people who made pottery were supposed to have some kind of kiln.
+
+There was also a round basin large enough to swim in embedded in the ground. A woman who must have been Olorn-art’h was standing beside it, manipulating the substance inside. It was off-white and had a texture Alden decided to call “pourable mud.” The Primary’s wife was making a staccato click that Alden thought sounded like Kabir going nuts with his chopping board. The mud in the basin was reacting to the noise by fountaining up in places.
+
+“We’ll wait,” said Stuart, loudly enough that Alden thought it was probably more for Olorn-art’h’s benefit than his.
+
+As the two of them moved to take seats on a bench beside a table covered in wizarding tools, one of her eyes followed Alden before turning back to her work. Alden sat with his back to the table and clasped his hands in his lap, trying to look like a respectful, dirty house guest.
+
+“She’s making a material that’s good for rings and wands,” said Stuart. “She’ll use most of it to fashion supplies for the knights in our family and the en family.”
+
+He had grabbed a bowl full of gray stone marbles and started sorting them while he talked. They looked identical to Alden, but he was confidently picking out some of them and setting them on the table.
+
+Alden switched between watching him and watching the older wizard. This is my second experience with an Artonan making a muddy something in a cauldron in just a few days.
+
+Although, he wasn’t sure if the giant basin qualified as a cauldron or if the substance the Primary’s wife was making counted as mud.
+
+It seems plausible, but I don’t have a great track record for guessing what mystery pastes lately.
+
+And compared to Porti-loth, Olorn-art’h had a lot less drama going on as far as her spellcasting mannerisms wen—just the clicking and some occasional gestures from ring-covered fingers.
+
+She had dark brown hair swept back into a tight, twisty shape. Alden didn’t know if the thin bands of white hair mixed in were natural graying or decorative. The sleeveless, belted yellow garment that she was wearing was short enough he thought it was closer to a shirt than a dress. It seemed to have been selected to match the day’s chore. Her legs were coated in the substance she was working on, as if she’d needed to wade through it recently.
+
+A few minutes after they’d arrived, she took a break from the project and walked toward them. Alden jumped up from the bench, and Stuart gave him an amused look.
+
+Oh yeah, sure dude, he thought. Like it’s so unreasonable to be nervous about meeting a powerful wizard who’s married to the Primary and whose house you wandered through uninvited a couple of months ago.
+
+And that wasn’t even taking into consideration any of the other things she might be thinking about him.
+
+“Olorn Mom,” said Stuart, “I’ve brought my guest to meet you. This is Alden.”
+
+When she plucked a cloth from the table and brushed it over her hands, the powdery white substance on them vanished without leaving a mark on the dark cloth. She looked at Alden the whole time. Her face was thoughtful. Her lips wore a slight smile.
+
+But the examination went on for longer than Alden would have thought was normal for a “Mom, meet my friend” moment.
+
+Maybe it’s right for her to carefully consider Stuart’s guest. We can’t go by Emban-art’h’s behavior. She wasn’t even officially introduced.
+
+In the periphery of his vision, he saw Stuart’s hands start to fidget. “Olorn Mom, Alden and I have been experimenting with his skill. He did want to change clothes before meeting you, but I told him…”
+
+She shook her head.  “Alden, you’re very welcome no matter what you’re wearing. Of course. I was just thinking about how you look more like a <<personality match>> for my son Kofa than for our Stu.” She dropped the cloth back onto the table. “I don’t even remember the last time he arrived at the house without wearing some of the forest on him.”
+
+That’s positive, right? It sounds positive.
+
+“It’s an honor to visit your home.” Upon saying it, he wondered just how flowery an Artonan invited to visit this place might get with the language.
+
+It might really be impossible for me to overdo it, he decided.
+
+“Stu was very worried for you. I’m glad you’re well enough that he feels as though attacking you with sticks and leaves is a good thing to do,” she said. “And I’m sorry about the trouble in your homeland. We will give our full attention to the reports when they’ve been completed.”
+
+Alden wondered who “we” included in this case. Was she speaking on behalf of the family, the entire force of knights and assisting wizards, or an even broader group?
+
+It might just be a nice thing to say under the circumstances.
+
+“How is it affecting your schooling?” she asked. “You would normally have instruction today. Esh-erdi and Stu have said…”
+
+As she continued, Alden learned that what happened when Stu-art’h had a half-day-long argument with all the important adults in his life was at least one of them started doing Alden Thorn research. Over the past day, the Primary’s wife had developed—and then satisfied—interests in Alden’s living arrangements, educational status, and the whole post-disaster situation. All as told by Esh-erdi, who had apparently been contacted and extensively questioned.
+
+Alden wasn’t sure what she made of it all, but there was at least a smidge of judgment against human competence going on. She didn’t like that he’d been deprived of the opportunity to recover in the company of his aunt and trusted instructors. And she wondered why he hadn’t been assigned a live-in tutor as soon as he made it to Anesidora, to help him make up for his educational interruption.
+
+I’m totally calling Thegund an “educational interruption” in front of Lexi sometime.
+
+“Maybe we should assign you a mentor. There must be human Avowed who are qualified and currently without a class to teach. We could have one accompany you until you feel you’ve reclaimed your lost footing. Would you like that?” She looked ready to enact the plan on the spot.
+
+Alden pictured a professional tutor being paid summoning rates for following him around and slipping in lessons while he was having breakfast or brushing his teeth. Possibly planning excursions for him every weekend like Dalat-orni was doing for Kibby.
+
+“I don’t think I have a need for that,” he said, aiming for a firm demeanor so that she’d believe him and no surprise, person-shaped gift would appear at the dorms to thank him for the windfall and force him to catch up with his Anesidoran peers in math.
+
+“He’s advanced compared to his classmates already,” said Stuart. Proudly and with the total confidence of an alien who knew one human and had observed a grand total of four class periods.
+
+“If you change your mind, just tell Stu,” she said. “For now, I think I can give you something else that will help. Come with me.”
+
+Alden followed her into the cottage, glancing once over his shoulder to make sure Stuart was trailing after them.
+
+“I haven’t made these in several years,” Olorn-art’h was saying as Alden stepped carefully around a narrow, waist-high pot. “But I still have a couple, and I can’t think of any reason why one wouldn’t work for a human.”
+
+She climbed onto a stool and reached up for one of the magic webs overhead. She bopped it with a hand, and it drifted a foot or so until it stopped against its neighbor. The collection of small jars wrapped up in the nets didn’t rattle.
+
+Alden was so busy absorbing the fact that the webs he’d thought were steadily attached to the ceiling could float around, that he didn’t look to see what the woman was collecting from the patch of web she’d just uncovered.
+
+“Here it is! Stu, your guest will like this, won’t he?”
+
+At first, Alden was surprised that Stuart was being consulted about the trinket in her hand, but Stuart seemed to be seriously examining the offering. He took it, closed his eyes, and held it in his palm, running his fingers over it.
+
+We must be doing a traditional thing, Alden decided. Maybe Stuart is supposed to make sure that gifts are worthy of his guest. Or maybe just the first gift?
+
+He wondered if Emban-art’h was in trouble for offering him the flatseed candy without submitting it for an inspection.
+
+With nothing else to do but wait, Alden studied the potential gift that had been plucked from the net. It didn’t seem nearly as overkill as a whole tutor.
+
+It was a flat spiral shape made of what looked like mauve-colored clay. The outer tip of the spiral was dully pointed and faintly glowing. The material, and the fact that it was rolled thin as a wire, made it look fragile.
+
+“This is a gift I hope my guest will enjoy,” Stuart announced, handing it back to his parent, who turned to show it to Alden.
+
+“It’s a <<study aid>>,” she explained. “When it’s in your ear, it helps you to focus on the written or spoken word, making you more attentive to your instructors and assignments when your thoughts are busy. It will last for a season.”
+
+“You put it in your ear when you want its help,” said Stuart.
+
+Looks a little big to fit in an ear, thought Alden. It must be magically resizable like the spell rings I’ve worn.
+
+He was happy that the gift was one he could accept without feeling like it was too much. A handmade magical school supply was very sweet and very Artonan and not very intimidating.
+
+And if he didn’t like whatever it did, he could just not use it. It sounds helpful, though. I wonder if it will work on video lectures.
+
+That one science teacher who could put the entire lecture hall to sleep within thirty seconds would be a good test subject.
+
+“This would be a wonderful help,” he said. “I’ll recall the one who made it for me every time I use it.”
+
+Olorn-art’h smiled. Stuart smiled. Alden smiled.
+
+“May I place it in your ear? I have to cast a spell to make it yours.”
+
+Alden agreed readily and pointed at his right ear.
+
+I think this is a success, he thought as she whispered a spell. She doesn’t seem to hate me. Stuart seems happy. One family member down!
+
+He felt Olorn-art’h’s magic brush against him. It was a soft sort of touch. A tap. He’d gotten a lot of practice pretending not to notice with Porti-loth’s spells recently.
+
+And if they were going to notice something odd about me, they would have by now.
+
+He suspected he was missing a ton when it came to authority etiquette between wizards. Kindergarten pat-pats he knew. Everything else…
+
+The Primary’s wife finished whispering. Then, she grabbed Alden’s earlobe firmly.
+
+Wait…he thought. Wait a second. What exactly did we all mean when I said she could put it in my ear?
+
+******
+
+“You didn’t realize she was going to put it through your earlobe,” said Stuart as they left Olorn-art’h to her work a while later.
+
+“Of course I did! I said yes, after all.”
+
+I did not. Who expects a sudden piercing as a present?!
+
+“You gasped.”
+
+As they headed back toward the relative safety of his stream-side guest cottage, Alden was looking down at the little box that held his new study aid earring.
+
+His Father did the thing with the questions and the hands. Olorn Mom put a hole in my ear. And he’s got so many other family members. If we keep escalating like this, I won’t survive. What happens when I officially meet Evul?
+
+“You know the hole is gone already, don’t you? It doesn’t last forever.”
+
+“It’s gone?” Alden reached up to feel his earlobe. “It really is! It’s a magic earring!”
+
+“…we told you that.”
+
+Alden instantly felt better. He opened the box to look at the spiral. “It lasts for a season?”
+
+Stuart nodded. “I’ve used them before. I hope you’ll find it helpful.”
+
+“I’m sure I will. I go back to school tomorrow. Sort of. Most of my classes are cancelled or by video.”
+
+“You could stay here another day if you wanted,” said Stuart.
+
+“I do want to. But I should go back. I got annoyed with the head of the program and one of my teachers and swore that I would attend every gym class.” That meeting felt far away now. “Can I sleep here and leave early in the morning? Early in your morning.”
+
+“Yes.”
+
+“Thanks. What’s on the itinerary for the next couple of hours?”
+
+“I think you should take a bath. You look like someone hit you in the face with a bunch of leaves.”
+
+******

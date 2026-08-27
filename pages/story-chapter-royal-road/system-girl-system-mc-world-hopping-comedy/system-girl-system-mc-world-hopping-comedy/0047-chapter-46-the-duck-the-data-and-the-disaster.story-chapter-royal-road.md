@@ -1,0 +1,345 @@
+---
+id: d76ec3e5-c7bd-574c-8bf9-2f95c7433b66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: The Duck, The Data, and The Disaster"
+slug: 0047-chapter-46-the-duck-the-data-and-the-disaster
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 47
+ownLength: 3651
+unit: words
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2862676/chapter-46-the-duck-the-data-and-the-disaster"
+royalRoadId: "2862676"
+---
+
+The void was silent, save for the one thing that made silence impossible.
+
+WAIT FOR TICKET. SCANNING SECTOR. OPTIMIZING PROTOCOLS.
+
+"Oh my god, shut up," I groaned, floating in the endless grey nothingness. "I heard you the first fifty thousand times. We are waiting. I get it. I am sitting here, bodiless and broke, waiting for the cosmic call center to ping me."
+
+The System OS—my new, lobotomized roommate—didn't respond to insults. It just kept humming that monotonous, electronic tune in the back of my mind. It was like being trapped in a car with someone who refused to turn off the turn signal for three hundred miles.
+
+I stared at my inventory. It was pathetic. Empty slots stared back at me, mocking my former wealth. No coffee machine. No voice module. Just the warm, sleeping echo of Korg, my one tether to sanity.
+
+"I miss being rich," I muttered to the empty air. "I miss having a voice. I miss being able to tell a dragon to fix his posture."
+
+TICKET DETECTED.
+
+The drone spiked into a sharp ping.
+
+"Finally," I sighed. "Get me out of here. Send me to a dungeon. Send me to a war zone. I don't care. Just give me something to do."
+
+[DEPLOYING TO SECTOR 9G-VAR.][HOST CANDIDATE LOCATED.][INITIATING TRANSFER...]
+
+. . .
+
+The year was 2145, or maybe 2146. Ren had stopped keeping track because, honestly, the years all tasted the same lately: like recycled air and burnt coffee.
+
+Ren sat slumped in an ergonomic chair that had long since given up on the concept of ergonomics. His spine felt like it had been fused into a permanent question mark. Around him, the office hummed with the low, soul-sucking vibration of server farms and air filtration units. Outside the floor-to-ceiling windows, the city sprawled—a vertical labyrinth of steel and neon that clawed desperately at the smog-choked sky.
+
+"Just one more paragraph," Ren whispered, his voice raspy. "Just one more section on the viscosity variances of Strawberry-Flavor-5."
+
+He was staring at a document that was currently titled Product Requirement Specification: Omni-Paste Vol 12. It was a thousand pages of technical jargon explaining why the grey sludge people ate for breakfast, lunch, and dinner needed to be slightly less grey this quarter.
+
+He leaned forward, squinting. His contact lenses were dry, gluing themselves to his eyeballs. The text on the screen swam, the letters doing a little dance that mocked his exhaustion.
+
+"Okay. Viscosity checked. Flavor profile… acceptable. Market demographic… ‘People with Pulse.’ Done."
+
+He hit save. Then he opened his email client. He attached the file. He hovered the cursor over the 'Send' button. This was it. The vendor deadline was 7:30 PM. It was currently 7:28 PM. If he missed this, his manager, a man who possessed all the warmth and personality of a wet cardboard box, would have his head.
+
+Ren clicked 'Send'.
+
+He leaned back, exhaling a breath he felt like he’d been holding since Tuesday. "Freedom."
+
+Then, a cold, majestic feeling of dread washed over him. It started in his stomach and shot straight out to his fingertips.
+
+He opened the 'Sent' folder. He looked at the attachment.
+
+File Name: Omni_Paste_Specs_FINAL_v2.pdf
+
+He froze. He looked at his desktop. Sitting right next to it was:
+
+File Name: Omni_Paste_Specs_FINAL_REAL_v3_DO_NOT_SEND_THE_OTHER_ONE.pdf
+
+"No," Ren squeaked. "No, no, no."
+
+He had sent the draft. The draft where he had left placeholder text in the legal disclaimer that read: Warning: May cause spontaneous combustion, sadness, and an urge to bark at the moon.
+
+Panic surged through his veins. He scrambled for the 'Recall' button. The little loading circle spun. It spun for an eternity. It spun for the entire duration of the rise and fall of several minor civilizations.
+
+Message Recalled Successfully.
+
+"Oh, thank the Architect," Ren breathed, slumping onto his desk, his forehead hitting the cool synthetic wood with a thud.
+
+With shaking hands, he attached the correct file—the one that didn't legally admit their food product caused existential dread—and hit send.
+
+7:29 PM.
+
+He stared at the screen until the confirmation receipt pinged. Then, slowly, painfully, he stood up. His joints popped like bubble wrap. He grabbed his jacket, shut down his terminal, and walked out of the office with the thousand-yard stare of a war veteran.
+
+"Leaving already, Ren?"
+
+The voice came from the security desk near the elevators. Stan, a burly man whose neck was wider than Ren’s head, was watching a holographic soap opera on his wrist.
+
+"It's nearly eight, Stan," Ren said, pausing to rub his eyes. "If I stayed any longer, I’d have to start paying rent."
+
+Stan chuckled. "Another late night crunching the paste numbers, huh? You guys are heroes. Without you, what would we eat?"
+
+"Real food?" Ren suggested with a tired smile.
+
+"Hah! Good one. Have a good night, kid. Watch the smog, the index is up to 'Chewy' tonight."
+
+Ren waved and stepped out of the climate-controlled sanctuary of the corporate tower.
+
+The heat hit him first—a dense, humid wave that smelled of ozone, hot asphalt, and unwashed humanity. Then came the air. Stan wasn't kidding. The smog hung low and heavy, fracturing the neon lights of the billboards above into hazy, bleeding watercolors.
+
+Ren snapped his filtration mask over his nose and mouth. The little green light on the side beeped, signaling that he was now breathing air that wouldn't immediately liquefy his lungs.
+
+He joined the flow of pedestrians, a river of people with their heads down, hurrying from one air-conditioned box to another.
+
+Above them, the city screamed for attention. Massive holographic billboards dominated the skyline, turning the night into a seizure-inducing kaleidoscope. And they were all selling the same thing.
+
+“TIRED OF CHEWING? TRY NUTRI-SLURP!” screamed a fifty-foot-tall projection of a famous streamer, posing with a pouch of neon-blue goo. “IT’S WHAT GAMERS CRAVE!”
+
+Further down, a sleek, minimalist ad targeted the health-obsessed. “MACRO-PERFECT. 100% EFFICIENCY. ZERO JOY. PURE SUSTENANCE.”
+
+And everywhere, the Paste.
+
+Twenty years ago, agriculture had collapsed under the weight of climate shifts and soil erosion. Real food—meat that came from an animal, vegetables that grew in dirt—became a luxury item, something for the ultra-rich. For everyone else, there was the Paste. Processed algae, synthetic proteins, and enough artificial flavoring to trick your brain into thinking you weren't eating drywall.
+
+Ren passed a narrow alleyway where the neon light didn't reach. Here, the vendors weren't holograms. They were tired-looking people standing behind folding tables, selling plain white pouches with barcodes stamped on them. The generic stuff. Government-subsidized rations. No celebrity endorsements, just calories for the poor.
+
+Ren kept walking. He wasn't rich, not by a long shot, but he had a secret. A vice. An expensive, illicit habit that devoured his paycheck.
+
+He liked to cook.
+
+He turned off the main thoroughfare, navigating a maze of side streets until he found a small, dusty storefront with a flickering sign that read: Uncle Zhang’s Antiquities & Groceries.
+
+The bell above the door jingled—an analog sound in a digital world.
+
+The shop smelled… incredible. It smelled of star anise, dried chilies, and dust.
+
+Uncle Zhang, a man so old he looked like he might be made of parchment, looked up from behind the counter.
+
+"Ren," the old man croaked. "You are late. I almost sold it to Mrs. Higgins."
+
+Ren’s heart skipped a beat. "You didn't."
+
+Zhang grinned, revealing a mouth of expensive ceramic teeth. "I didn't. She would just boil it. A tragedy."
+
+He reached under the counter and pulled out a package wrapped in brown butcher paper. He placed it on the counter with a heavy, wet thud.
+
+Ren approached it with the reverence of a pilgrim approaching a shrine. He peeled back the corner of the paper.
+
+There it was. Pale skin, cold to the touch, real bone and muscle underneath.
+
+A whole duck.
+
+"It cost me three favors to get this past the agricultural blockade," Zhang said. "And it will cost you half a month’s salary."
+
+Ren didn't hesitate. He tapped his wrist against the payment terminal. The beep signaled a transaction that wiped out his savings, his overtime bonus, and his entertainment budget for the next six months.
+
+"Worth it," Ren whispered.
+
+He grabbed the duck, hugging the cold package to his chest. Tonight was not a night for paste. Tonight, he was going to make Roast Duck. He had the honey. He had the soy sauce he’d been hoarding for a year. He had the spices.
+
+He stepped back out into the smog, his step lighter than it had been in years. He wasn't Ren the Overworked Document Writer. He was Ren the Chef.
+
+He hurried home, his mind dancing with visions of crispy skin and rendering fat, completely unaware that the universe—and a very bored System—had other dinner plans.
+
+. . .
+
+Ren’s apartment was located in Sector 4, a district affectionately known by the locals as “The Stack.” It was a towering hive of modular living units that looked like a giant child had stacked a thousand shipping containers on top of each other, gotten bored, and then wrapped the whole thing in fiber-optic cables.
+
+He scanned his ID at the entrance of Unit 44-B. The door hissed open with a sound like a deflating tire, revealing a space that was technically a home, in the same way a glove compartment is technically a storage space. It was a single room, ten feet by ten feet, crammed with a fold-out bed, a terminal desk, and a sanitation corner.
+
+But Ren didn't care about the lack of space. He had eyes only for the corner he had illegally modified.
+
+Most people in The Stack had a standard-issue nutrient dispenser. Ren had ripped his out two years ago. In its place, sitting on a reinforced shelf, was a bulky, chrome-plated box with a tempered glass door. It was a refurbished medical sterilizer that Ren had lovingly hacked and repurposed into a convection oven.
+
+"Home sweet home," Ren muttered, kicking the door shut behind him. The air inside smelled of stale ozone and old laundry, but that was about to change.
+
+He placed the brown paper package on his desk, clearing away a pile of unpaid digital bills and empty energy drink cans. He went to the sanitation sink and washed his hands, scrubbing them with a fervor usually reserved for surgeons. Tonight, he wasn't Ren the corporate drone. He was Ren, the High Priest of Poultry.
+
+He unwrapped the package.
+
+The duck sat there, pale and bumpy and beautiful. It was a stark, organic contrast to the sleek, synthetic surfaces of his apartment. It looked real. It looked flawed. It looked delicious.
+
+Ren took a deep breath. "Okay, buddy. Let’s make you a legend."
+
+He began the ritual.
+
+From a hidden compartment under his bed—because one didn't leave real spices out where the landlord could see them—he produced his treasures. A jar of honey that glowed like liquid amber. A bottle of soy sauce that had been aged for five years, costing him a kidney’s worth of credits on the black market. A handful of star anise, cinnamon sticks, and Sichuan peppercorns that he had bartered for with a smuggler named ‘One-Eyed Pete.’
+
+He boiled water in a kettle, pouring it over the duck’s skin to tighten it. The skin contracted, becoming smooth and taut. He mixed the marinade, the dark, salty-sweet liquid swirling in a bowl. He rubbed it into the bird, massaging the spices into the meat with a tenderness he had never shown a romantic partner.
+
+"Yeah, that’s it," he whispered, painting the skin with a glaze of honey and vinegar. "You’re going to be so crispy. You’re going to shatter like glass."
+
+He set the duck on a wire rack to dry. Patience was key. The skin had to be bone dry to get that perfect crunch.
+
+While the duck rested, Ren prepped the oven. He punched in the code on the medical sterilizer’s keypad. The interior lights flickered on, glowing a warm, inviting orange. He set the temperature to 375 degrees. The machine hummed to life, a low, aggressive vibration that rattled the loose spoon on his desk.
+
+"Don't worry about the noise," Ren told the duck. "She's just purring."
+
+An hour passed. Then two. Ren spent the time creating a dipping sauce and slicing scallions he had grown in a hydroponic cup on his windowsill.
+
+Finally, it was time.
+
+He placed the duck into the oven. The smell began almost immediately. It started as a faint, savory whisper, then grew into a bold, intoxicating shout. The scent of rendering fat, caramelizing honey, and roasting spices filled the tiny apartment, pushing back the smell of ozone and despair.
+
+Ren pulled his chair over to the oven, sitting directly in front of the glass door like a kid watching Saturday morning cartoons. He watched the fat drip. He watched the skin turn from pale white to gold, and then to a deep, mahogany bronze.
+
+It was the most beautiful thing he had ever seen.
+
+He glanced at his wrist-comp. It was 11:45 PM. He had been awake for twenty hours straight. His eyes felt like they were filled with sand, and his brain was running on fumes.
+
+"Just need to baste it in forty-five minutes," Ren murmured, his eyelids drooping. "Then flip it. Then... feast."
+
+He reached into his pocket and pulled out his phone. He needed an alarm. He couldn't trust his own body to stay awake.
+
+He tapped the screen. The display was dim, preserving power. In the top corner, a tiny red icon blinked: 1%.
+
+Ren saw it, but his exhausted brain didn't register the danger. One percent, he thought sluggishly. That’s plenty. It’s in standby mode. It’ll last an hour. It always lasts.
+
+He swiped to the clock app. He set a timer for 45 minutes. He placed the phone on the desk, right next to his head.
+
+"Just a quick nap," he whispered to the oven. "Wake me up when you're ready, gorgeous."
+
+He crossed his arms on the desk, rested his head on them, and closed his eyes.
+
+The hum of the oven was a lullaby. The warmth radiating from the glass was like a blanket. Within seconds, Ren didn't just fall asleep; he crashed. He plummeted into a darkness so deep and heavy it felt like being buried in wet cement.
+
+. . .
+
+In his dream, Ren was a giant. He was sitting on a throne made of scallions, and a flock of roasted ducks was flying into his mouth. They tasted like victory. They tasted like a promotion.
+
+"More hoisin sauce," Dream-Ren commanded, waving a scepter made of a cucumber.
+
+But then, the dream shifted. The ducks started to fly too close to the sun. They started to smoke. The delicious smell of roasting meat twisted, turning sharp and acrid. The throne of scallions wilted. The air grew hot—too hot.
+
+"Wait," Dream-Ren said. "You're overcooking."
+
+The heat intensified. It wasn't just warm anymore; it was searing. A bright orange light began to flicker at the edges of his vision.
+
+Ren coughed.
+
+The cough woke him up.
+
+He jolted awake, lungs burning, air torn from him.
+
+His eyes snapped open, but he couldn't see anything. The room, his tiny, cherished box of a home, was filled with a thick, swirling grey fog. It stung his eyes and clawed at his throat.
+
+"Wh... what?" Ren wheezed, sitting up.
+
+He rubbed his eyes, trying to clear the tears. Then he saw the glow.
+
+It wasn't the gentle orange glow of the oven lights. It was a violent, angry, roaring red.
+
+The medical sterilizer—his hacked, beloved oven—had betrayed him. The thermostat must have failed. The heating element had gone rogue, pushing the temperature past roasting and straight into incineration.
+
+The duck was on fire.
+
+Flames licked along the seams of the oven door. The heat had cracked the tempered glass. As Ren watched in horror, the pressure built up inside the sealed unit blew the door off its hinges.
+
+BOOM.
+
+A fireball of grease and tragedy erupted into the room. It caught the curtains. It caught the bedsheets. It caught the pile of unpaid bills.
+
+"THE DUCK!" Ren screamed.
+
+He didn't check his phone. He didn't check the time. He didn't check for an exit. His primal, chef-brain had only one priority: Save the Roast.
+
+He scrambled off his chair, coughing violently. The heat was unbearable. His skin felt tight, the hair on his arms singed. He grabbed a towel—which was already smoldering—and lunged for the oven.
+
+Inside, the magnificent bird was a charred, blackened lump. The skin he had glazed so carefully was now ash. The meat he had massaged was carbon.
+
+"No!" Ren yelled, a cry of pure heartbreak. "Not you! Anyone but you!"
+
+He reached in, ignoring the searing heat, trying to pull the rack out. But the fire was faster. The flames jumped from the oven to the shelves above, igniting his stash of spices. The jar of honey exploded from the heat, showering the room in boiling, sticky napalm.
+
+The fire alarm finally decided to join the party, letting out a deafening screech that drilled into his skull. The sprinkler system overhead clicked, groaned, and then released a pitiful dribble of brown, rusty water that did absolutely nothing.
+
+Ren stumbled back, the smoke filling his lungs. He fell to his knees. The heat was crushing him now. The walls of his modular unit were melting. The floor was getting soft.
+
+He looked at his phone on the desk. The screen was black. Dead. The battery had died minutes after he fell asleep. The alarm had never gone off.
+
+"Betrayed by technology," Ren wheezed, a hysterical giggle bubbling up in his throat. "Killed by a duck."
+
+He slumped against the side of his bed. His vision was tunneling. The roaring of the fire started to sound distant, like the ocean.
+
+He thought about his life. The overtime. The paste. The smog. The endless documents about viscosity. All of it leading to this moment: becoming a human barbecue in a plastic box.
+
+"I hope..." Ren whispered, his consciousness fading as the darkness closed in. "I hope the afterlife has... better... ovens..."
+
+The roof of the unit gave way. The fire consumed everything.
+
+And Ren closed his eyes for the last time.
+
+. . .
+
+Then, he opened them.
+
+He gasped, his body jerking upright as if he’d been shocked with a defibrillator.
+
+"Fire! Water! Extinguisher!" he screamed, his hands flailing wildly, searching for a towel, a bucket, anything.
+
+His hands didn't hit hot metal or melting plastic. They hit something soft. Something cool. Something... wet?
+
+Ren froze.
+
+He blinked. He blinked again.
+
+The roaring of the fire was gone. The screeching of the alarm was gone. The smell of burning plastic and charred duck was gone.
+
+In its place was a silence so profound it felt heavy.
+
+Ren slowly looked around.
+
+He wasn't in his apartment. He wasn't in The Stack. He wasn't even in the city.
+
+He was sitting in a patch of tall, vibrant green grass that came up to his waist. Above him, instead of a smog-choked grey sky or a burning ceiling, was a canopy of leaves so green they looked painted. Sunlight—real, unfiltered, golden sunlight—filtered through the branches in dappled beams.
+
+The air...
+
+Ren took a breath. He choked.
+
+It wasn't smoke. It was the purity. The air was so clean, so rich with oxygen and the scent of damp earth and pine needles, that his pollution-adapted lungs didn't know what to do with it. It tasted sweet. It tasted sharp. It tasted like life.
+
+"Where..." Ren rasped. He looked down at himself.
+
+He was still wearing his office clothes—his synthetic slacks and his 'I Survived Another Meeting' button-down shirt. But they were covered in soot. His hands were blackened with ash. He smelled like a campfire.
+
+He scrambled to his feet, spinning in a circle.
+
+Trees. Massive, ancient trees with trunks as wide as houses stretched up towards the sky. Ferns the size of cars unfurled their fronds in the gentle breeze. In the distance, he heard the call of a bird—not the mechanical chirp of a traffic drone, but a wild, throaty cry that echoed through the woods.
+
+There was no concrete. No neon. No paste.
+
+Ren stood there, a soot-stained corporate drone in the middle of a primeval wilderness. He looked at his hands, then at the towering trees, then at the vibrant blue sky peeking through the leaves.
+
+He checked his pockets. He pulled out his phone. The screen was cracked, and the case melted slightly at the edges. He pressed the power button.
+
+Nothing.
+
+He dropped the phone into the grass.
+
+A terrible, sinking realization hit him. He fell to his knees, clutching his head in his hands.
+
+"My duck," he whispered, his voice trembling with emotion. "I burned the duck."
+
+He didn't care that he had died. He didn't care that he was lost in an alien forest. He didn't care about the laws of physics or the nature of reality.
+
+He cared that he had spent half a month's salary on a bird, glazed it with honey, massaged it with spices, and then turned it into charcoal.
+
+"DAMMIT!" Ren roared at the trees, startling a flock of brightly colored birds into the air. "IT WAS GOING TO BE CRISPY!"
+
+His stomach rumbled—a loud, demanding growl that echoed in the silent forest. He hadn't eaten in twenty-four hours.
+
+Ren looked up, his eyes scanning the alien flora with a new, desperate intensity. The despair faded, replaced by the primal urge that had gotten him into this mess in the first place.
+
+"Okay," he said, wiping the soot from his face. "Okay. New plan."
+
+He stood up, looking at the dense, mysterious, and likely dangerous forest surrounding him.
+
+"I need to find a new duck."

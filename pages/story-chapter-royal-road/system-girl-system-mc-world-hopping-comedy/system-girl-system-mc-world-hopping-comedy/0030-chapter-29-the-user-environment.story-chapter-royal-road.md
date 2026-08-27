@@ -1,0 +1,123 @@
+---
+id: 8f209c78-237f-5071-8067-694987dd2b67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: The User Environment"
+slug: 0030-chapter-29-the-user-environment
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 30
+ownLength: 1967
+unit: words
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2684539/chapter-29-the-user-environment"
+royalRoadId: "2684539"
+---
+
+Our new life in the Jade Palace settled into a strange, meticulously managed rhythm. It was a life governed by a single, simple tool: the Dave Dial. Our entire operational strategy, our very survival in this serene, high-stakes political minefield, revolved around the careful modulation of our user-master’s cognitive output.
+
+The day would begin with 11% Dave. “Power-Saving Mode,” as Liz had dubbed it. At this level, he was a placid, harmless creature. He could dress himself (a monumental victory), navigate to the dining pavilion without getting lost, and consume his food with a quiet, bovine contentment. His thoughts were a gentle stream of simple observations. The sun is warm. This tea tastes nice. Lady Liz’s scales are gleaming today.
+
+Then, just before the princess was scheduled to join him for the morning meal, the switch would happen.
+
+Bestie, it’s time, Liz would project, a note of grim determination in her voice. Deploy the functional human.
+
+[Ana: Acknowledged. Dialing to 30%.]
+
+The change was subtle, a flicker behind his eyes, a straightening of his posture. The vacant, dreamy expression would sharpen into one of quiet, polite focus. 30% Dave could hold a conversation. He could discuss the weather, comment on the quality of the pastries, and even ask the princess about her morning meditation with a genuine, if simple, curiosity that always seemed to make her smile.
+
+He was competent. He was functional. And for a few precious hours each day, he was a perfectly acceptable fiancé.
+
+Then, once the social obligations were met, I would dial him back down to 11%, preserving his limited mental stamina. The rest of the day, Power-Saving Dave would wander the gardens, admire interesting-looking rocks, and generally exist in a state of harmless, blissful ignorance.
+
+The letters, thankfully, had stopped. The arrival of the mage delegation from the Arcane Academy had sent a clear message. A quiet, authoritative word had clearly been put in somewhere. The powers that be were tired of their future prince-consort being threatened with creative disembowelment.
+
+The delegation included two instructors. One was a sharp, no-nonsense battlemage assigned to Princess Liling to begin her instruction in the basics of external magic. The other was a quiet, wizened old master of cultivation theory, sent to guide Dave.
+
+The entire Jade Palace watched with bated breath, their expectations clear. The prodigy princess, a genius of her generation, would surely master the crude art of magecraft in days. The bumbling foreign fool, on the other hand, would struggle for years to even sense the flow of Qi.
+
+The reality was the exact opposite.
+
+The princess’s lessons were an exercise in profound frustration. Her instructor provided her with a series of enchanted orbs, designed to help a beginner learn to project their will and shape external mana.
+
+“Focus, Your Highness,” the battlemage instructed, her voice tight with strained patience. “Do not pull the energy in. Push your intent out. Command the orb to glow.”
+
+An Liling would close her eyes, her brow furrowed in concentration. For her entire life, her path to power had been a journey inward. The very concept of external command was alien, a violation of every instinct she possessed. The orb in her hands would flicker, sputter, and then fizzle out with a sad, disappointing little pop.
+
+This is… difficult, she admitted through our soul-bond, her frustration a sharp, bitter taste.
+
+Dave’s lessons, by contrast, were a study in baffling, infuriating effortlessness. He was taken to the Garden of Whispering Qi, a sacred space where the ambient energy of the mountain was at its most pure and potent.
+
+“Sit, Lord Dave,” his instructor, a patient old man, said gently. “Do not try. Do not force… be. Empty your mind and feel what is already there.”
+
+Emptying his mind was Dave’s one true, world-class talent.
+
+We kept him at 11% for his lessons. He sat, closed his eyes, and with nothing to distract him, the Qi of the mountain flowed into him as if it had found a long-lost home. His greatest weakness was, once again, his most profound strength. He had no ego to overcome, no will to suppress. He was a perfect, empty vessel, and the universe was more than happy to fill him.
+
+While the princess spent her days struggling to make a simple orb glow, Dave sat serenely in a garden, his body glowing with a soft, golden light, a small whirlwind of leaves and petals dancing around him in a vortex of pure, untamed Qi.
+
+But the princess was a prodigy for a reason. After a particularly frustrating morning, she did not give up. She doubled her efforts. She spent her lunch break not eating, but sitting with the dead training orb, her eyes closed, her entire being focused on the alien task.
+
+Dave, who was dialed up to a polite 30% for the meal and watched her for a moment. He saw her struggle, her determination.
+
+She is trying very hard, he thought, a simple, earnest observation. He picked up a small, sweet pastry from his plate, walked over, and placed it gently beside her. You should eat. It is yummy.
+
+She opened her eyes, startled. She looked at the pastry, then at his simple, kind face. A small, tired smile touched her lips. For a moment, they were not a prince and a princess, just two students, sharing a quiet moment of mutual support in the face of a challenge. The progress was slow, but a foundation was being built, one awkward, sweet moment at a time.
+
+. . .
+
+The days bled into weeks, and the strange, domestic rhythm of our lives in the Jade Palace solidified. The dynamic between Dave and the princess became a study in fascinating contrasts.
+
+During their shared meals and evening strolls, it was 30% Dave who took the lead. He was a perfect gentleman, unfailingly polite, attentive, and surprisingly insightful in his simple, direct way. He would listen intently as An Liling spoke of her frustrations with the “unruly, chaotic nature of Mana,” nodding in sympathy.
+
+"It doesn’t want to be told what to do," she confessed one evening, staring at her reflection in a moonlit pond. "Qi is a river. You find the current and guide it. Mana… it is like trying to herd cats made of lightning."
+
+"Maybe you just need to ask it nicely?" Dave offered his logic, simple and unburdened by complex theory. "When I used to have trouble with spells, it was because I was trying too hard. When I just… stopped… sometimes it worked better."
+
+Her initial reaction was to dismiss it as the naive rambling of a beginner. But then she paused, truly considering his words. A small, thoughtful frown touched her lips.
+
+[Ruby: User Master’s hypothesis, while lacking in technical sophistication, aligns with certain esoteric theories regarding a symbiotic, rather than commanding, approach to external magic. It is an unorthodox but potentially viable path.]
+
+See? Dave thought, a flicker of pride in our shared link. I had a good idea.
+
+Liz, for her part, had taken on the role of a deeply critical, but fiercely protective, chaperone. She would perch on Dave’s shoulder during these conversations, her internal monologue a running commentary.
+
+Her posture is improving, she would note. Less rigid. She is learning to relax in his presence. A positive development. Or, He is slouching again. The asset is slouching! Bestie, project a subtle feeling of ‘spinal alignment’ at him. We have standards to maintain.
+
+But when it came to their actual training, their roles were completely reversed.
+
+Princess An Liling, faced with a challenge that could not be solved by her genius intellect alone, revealed a core of unyielding determination. She attacked her lessons with the ferocity of a scholar dissecting an ancient text. She failed, and failed, and failed again, but she never once despaired. Each fizzled orb, each misfired cantrip, was not a defeat, but a new data point.
+
+The external projection requires a release of will, not a concentration of it, she would mutter to herself, her thoughts a low hum in our soul-bond as she practiced late into the night. It is a paradox. One must command without commanding.
+
+Dave, meanwhile, continued his effortless, almost accidental, progress in cultivation. His lessons were less about learning and more about… not un-learning.
+
+“The first barrier for any cultivator, Lord Dave,” his wizened instructor explained, “is the self. The ego. The constant chatter of the conscious mind. It is a wall that prevents us from hearing the great song of the universe. It can take decades to learn to quiet it.”
+
+Dave, operating at a placid 11%, simply nodded. He had no wall. He had no chatter. His mind was a quiet, empty room, and the door was wide open.
+
+He would sit in the Garden of Whispering Qi for hours, a perfect statue. The energy of the mountain would flow through him, unhindered. He didn’t merely draw in Qi—he vibrated in harmony with it. Small, glowing spirit-moths would come to rest on his shoulders. The usually shy, ethereal koi in the garden’s pond would gather at his feet. The world of Qi recognized him as one of its own.
+
+His instructor was baffled. He had never seen such a thing. “His progress is… unnatural,” he confessed to the other elders. “He has the affinity of a newborn spirit beast, yet the body of a human. It is a profound mystery.”
+
+The growing disparity in their progress was not lost on the princess. One afternoon, she found him in the garden, sitting cross-legged under a waterfall that flowed upwards into the sky. He was surrounded by a soft, golden aura, his expression one of perfect, vacant peace. She stood for a long time, just watching.
+
+He makes it look so easy, her thought was a quiet, frustrated sigh in our shared link.
+
+She had been practicing for an hour and had only managed to make a single training orb glow for three consecutive seconds before it shorted out with a puff of acrid smoke.
+
+She sat down near him, not wanting to disturb his meditation. The day was warm, and the constant, gentle hum of Qi in the garden was soothing. After her morning of intense, frustrating effort, the quiet was a welcome relief. She closed her eyes, not to practice, but just to rest.
+
+And for the first time, without trying, without forcing, she felt it. A tiny, thread-like current of external mana, no longer a chaotic storm to be tamed, but a gentle stream, brushing against her senses. It was drawn not to her will, but to the serene, Qi-saturated atmosphere that Dave had created around him.
+
+A small, surprised gasp escaped her lips. The training orb in her lap, which had been cold and inert, suddenly flickered to life. The orb shone, a steady, brilliant ball of pure, white light.
+
+Dave, his meditation broken by her gasp, opened his eyes. He saw the glowing orb, and he saw the look of pure, unadulterated joy on her face.
+
+Wow, he thought, his mental voice filled with simple, honest admiration. You did it! It’s so pretty!
+
+She looked at him, her smile radiant, and in that moment, the wall of politics, of ranks and prodigies and bumbling fools, seemed to melt away completely.
+
+It appears, Liz projected later that evening, her tone one of grudging approval, that our asset may have some utility beyond his temporary genius states after all. He is a walking, talking Qi-attractor. A spiritual catalyst. A very useful piece of equipment.
+
+[Ana: I think the word you’re looking for is ‘friend,’ Liz.]
+
+Do not be absurd, bestie, she shot back, though the denial lacked its usual conviction. This is a purely symbiotic, mutually beneficial operational partnership. Nothing more.

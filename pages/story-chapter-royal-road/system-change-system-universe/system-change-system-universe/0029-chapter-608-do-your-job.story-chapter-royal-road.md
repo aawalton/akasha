@@ -1,0 +1,133 @@
+---
+id: 4a7f7351-99eb-5a3e-b0cd-6683e30da0dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 608: Do Your Job"
+slug: 0029-chapter-608-do-your-job
+partOf: system-change-system-universe
+position: 29
+ownLength: 2182
+unit: words
+ownProgress: 2182
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2813666/chapter-608-do-your-job"
+royalRoadId: "2813666"
+markedReadAt: "2026-06-29T19:57:40.355Z"
+---
+
+Chapter 608: Do Your Job
+
+“Look!” Kelvin said as he pointed at the screen. Holcom and Vendra stopped arguing for a moment, then turned to see what he was pointing at. “The notifications have disappeared.”
+
+“What does that mean?” Vendra asked.
+
+“It means that Derek and his companion have left for the time being,” Holcom said. “And if they decided to take Jace with them, then there is even less of a chance that you can kill him.”
+
+“Derek… Hunt…” Vendra gritted her teeth and balled her fists. “I…” She was so mad that she was shaking. She couldn’t even keep her bloodthirsty aura from leaking out. Eventually, she looked directly at Kelvin and asked, “Does he have any other friends or family here?”
+
+“Jace?” Kelvin asked as he rubbed his chin in thought. “No, not that I am aware of. He was by himself almost always. Derek Hunt was really his only true acquaintance. I can’t even think of anyone else who was on friendly terms with him. He had a team that we forced upon him, but they never grew close either, and he dumped them like they were nothing the moment he found out about the invasion.”
+
+“No,” Vendra said. “Not Jace, Derek!”
+
+“Does Derek Hunt have friends or family?” Kelvin frowned. He actually knew the most about Derek and his ‘friends.’ The only other person who knew anything about them was Darvin, and he was dead. It was possible that Darvin told Amelia, but Kelvin wasn’t even sure of that. What he did know was that the warning Derek had given him was very clear, and there was nothing that Vendra could say or do that would persuade him to tell her about those friends.
+
+“Well?” she asked, the fury in her eyes burning just as brightly as before.
+
+“No,” Kelvin said. “Jace was the only person he could consider a friend. I have done research about the man, and it seems that any family he might have had all died years ago. Because of that, even when the Universal System inducted his planet, he avoided most people—only dealing with them whenever he really had to.”
+
+“Ah!” Vendra crashed her fist hard into the table in front of her. “This is all bullshit! I accepted this stupid fucking class because of Derek and that little light-using bitch. They said I would be able to get revenge, but they were playing a trick on me. I’ll never forgive them. They’d better hope I never see them or anyone they care about again.”
+
+“Vendra,” Amelia finally spoke up once again. “You are the new System Watcher. You accepted the position. Now you have the responsibility. Look past your anger for now and learn. Those two aren’t going to stop growing stronger, so wasting time on them will only cause you to fall further behind. Look forward. Who knows? You may find the role very fitting.”
+
+“Shut up!” Vendra yelled back. “I will not look past this! I will find a way. Derek took him back to the Davenresh System, right? How do we get back there? There has to be a way.”
+
+“That…” Amelia muttered, then sighed. She walked up beside Vendra and in front of the screen and nodded at her. “May I?”
+
+“Whatever.”
+
+After that, Amelia began entering commands on the screen and navigating through a ton of information. After a good few minutes, she slowed in her navigation and started truly reading what she pulled up.
+
+“There!” Vendra pointed at the screen. “The Davenresh System! Planet… L-028. Send me there. Now!”
+
+“We can’t…” Amelia said with a sigh. “Look here.” She motioned to a specific point on the screen. “Since the invasion was lost, it seems that Planet L-028 is restricted for… 250 years. Nobody from the Universal System V3 will be able to travel to the planet until then unless they do so by some means outside of the Universal System V3. I am sorry, Vendra. It seems that you are out of luck.”
+
+“Out of luck? I’m out of luck?” The rage boiled deep as Amelia made to place her hand on the woman’s shoulder, but Vendra slapped it away and then continued to almost backhand Amelia in the face. “Get off of me! Try that again and you’ll lose the hand.”
+
+“Vendra…” Amelia breathed in deeply, then let it out. “Stop acting like a child and do your job. You accepted it, and you’re going to do it. I am tired, I am grieving, and there are many things that I should be doing. Remember… you won the invasion. We lost. The rewards I received were barely enough for me to break even, and I doubt anyone else even did that. So, if you try to slap me again, I may take a page out of Derek’s book and finally do what I want to do. And right now, causing the Universal System to lose a second System Watcher so soon is rapidly moving towards the top of my list.”
+
+“You! Are you threatening me?” Vendra snarled. “I am the System Watcher. If you hurt me, a bounty will be placed on your head throughout the entire Universal System. I haven’t learned much about my class, but I do know that much.”
+
+“And you think I’m scared of any of that?” Amelia asked. “That actually seems like it could be a fun change of pace.”
+
+“It would most certainly provide you with opportunities for growth,” Holcom said from the side. “It’s not as bad an idea as one would think. I say you do it. Once done, I will take up the mantle of my fallen kin. It would be an honor. I may even be able to call off the system-wide bounty that will be placed on your head.”
+
+Amelia stared at Holcom for a moment, then looked back into Vendra’s eyes. The woman now had a dagger in her right hand. The fury in her eyes had also been quenched by Holcom and Amelia’s words. Now, only uncertainty and a trace of fear remained.
+
+Finally, Amelia reached forward at the same time as she released her aura. Vendra had been shaking before, but suddenly, all movement coming from her body stopped, and the uncertainty was fully replaced with fear. She tried to open her mouth to say something, but she was unable to. Amelia had completely locked her down with her skill.
+
+“Listen to me, and listen well.” Amelia took a step closer and leaned in until her face was inches away from Vendra’s own. “I do not make idle threats. If you push me, you will find that I will push back, and you will not survive the fall.” She backed away a step and continued, “Darvin wasn’t a great man. He may not have even been a good man, but he did his job as a System Watcher well. We operated under him for a long time without many issues. Now that you have his job, you will do it, and you will do it well.”
+
+She then placed her hand on the other woman’s shoulder and smiled. “Like I said, I am tired, and I am not in the mood for any of this childish stuff. So, I am going to go home and sleep for a day… or a week… who knows? Once I am rested, I’ll be checking in on you. Make sure you learn well, or there will be consequences.”
+
+With that, she let out a small burst of energy, and Vendra crumpled to the ground. Afterwards, she withdrew her aura, sighed, and walked away toward the teleporter. Kelvin stared at her back with wide eyes. He’d never seen the giant of a woman like this before. Being a member of the council, he got to know her well, but with the way she was currently acting, he knew better than to say or do anything to offend her.
+
+“Oh, and Kelvin.” Amelia stopped right in front of the teleporter and looked over her shoulder at the man.
+
+“Uh… yes?”
+
+“You’re her babysitter for now. See to it that she settles in and gets to work.”
+
+“S-sure…” Kelvin answered as he looked at the woman clutching her shoulder and writhing on the ground.
+
+“Good,” Amelia said, then stepped inside the teleporter and disappeared.
+
+“That was something,” Holcom said. “Never did I think I would see Amelia lose her cool like that.”
+
+“And you egged her on,” Kelvin said.
+
+“No, I didn’t,” Holcom replied. “I was serious in my suggestion. I still think it is a good idea. This assassin hasn’t done anything to prove herself to me. As you know, she alienated her own fellow system users in the room where the defeated was sent. As far as I am concerned, she is worthless until she proves otherwise. Amelia had the right idea.” The malaxi shrugged, then floated by Kelvin and toward the teleporter as well. “Have fun babysitting,” he said just as he left.
+
+Kelvin sighed, then summoned a healing potion from his bracelet. He kneeled down and poured it into the woman’s mouth. “Here, take this. It looks like we have a lot of work to do.”
+
+***
+
+The trip back to the Davenresh System was not as streamlined as the trip to find Jace. Well, for Derek, it was. Apparently, for Silvi and Jace, it was quite a bit more troubling. However, Derek didn’t know any of that while he was moving through the void.
+
+Finally back, Derek ripped the void open and stepped out into his traveling room. He could have gone back to Marrick or somewhere else, but he’d used the room so much that it was the easiest place for him to travel back to. Once he stepped out and closed the space behind him, Derek rapped his knuckles on the side of the pot.
+
+This time, the pot was much bigger. Still, it was just as easy for Derek to carry as the one Silvi made before that could only fit her inside.
+
+“Fuck!” As soon as the latches popped open, Jace jumped up out of the pot. The man was clutching at his head—well, he was clutching at the bowl that had been placed on top of his head.
+
+“Jace?” Derek asked. He was starting to worry because he knew that both he and Silvi had felt the pressure and pain in their heads the first time they traveled so far. Is it the same, but enhanced since he doesn’t have a void affinity?
+
+“Hold on!” Jace held his hand up as he backed into a corner, then slid down onto the floor. “Give me… a minute. Ugh…” he grunted.
+
+“I put bowl on head to help,” Silvi suddenly spoke.
+
+“Thinking that an extra layer would protect his head?” Derek nodded. “That’s a good idea since we don’t know what causes it.”
+
+“I am smart,” Silvi said.
+
+“Yes, you are,” Derek replied as he turned to look at Jace again. It seemed that what he was feeling was something that gradually lifted. Otherwise, as soon as they left the void, Jace would have felt back to normal. Slowly but surely, the wincing face of the bald man was improving.
+
+“Why didn’t… you tell… me… about that?” Jace asked as he panted.
+
+“I didn’t think it was something we needed to worry about,” Derek explained with a shrug. “We experienced something like that, but it wasn’t very painful or anything. It only happened when we were in there for a long, long time. To avoid it, I moved fast and cut the time it takes to travel from there to here in like… half. I never thought it would affect others differently than it does us.”
+
+“Well, it does,” Jace said as his breathing slowed to normal.
+
+“What is it like?”
+
+“It started with a small amount of pressure—like a stopped-up nose—at the beginning,” the man explained as he took the bowl off his head. “But it kept building and building until it felt like my brain was trapped in a vise and being crushed. Once it got to that point, the pressure stayed, but more pain started up. By the end, I had that pressure combined with sharp pains behind my eyes and ears. It was like someone was jabbing an icepick into them. Handling one by itself is fine… but all of them at the same time?” Jace shook his head and shivered. “No, thank you.”
+
+“Did the building of pain stop? Or was it still getting worse all the way up until we made it here?”
+
+“The second,” Jace answered. “The pain inside my left ear wasn’t as bad as the rest, but it was growing.”
+
+“I’ll have to remember all this,” Derek said. It looked like traveling with others was fine, but there was a sort of time limit that he would need to abide by.
+
+“Huh?” Jace suddenly muttered.
+
+“What is it?” Derek asked.
+
+“It looks like my system really did clear out of here,” Jace said. “My access to the system is limited.”

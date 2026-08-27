@@ -1,0 +1,379 @@
+---
+id: c750ee22-38b3-5572-a67b-9d77a6c1c4bf
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-FOUR: Farther"
+slug: 0054-fifty-four-farther
+partOf: super-supportive
+position: 54
+ownLength: 4158
+unit: words
+publishedAt: 2023-07-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1279547/fifty-four-farther"
+royalRoadId: "1279547"
+---
+
+“I think you should press the button that makes it go faster,” Kibby said suddenly from her place in the passenger seat.
+
+She was bundled up in the coat, with an additional pair of blankets wrapped around her to ward off the cold, and she had a tablet in her lap. While the lab still existed, she was using it to study the chaos map one last time. Whoever was in charge of clean-up was making slow and steady progress toward them, taking one giant semicircular bite out of the corruption every day like they were eating their way to the center of a pizza.
+
+It really wasn’t what he would have expected, if he’d bothered to expect anything over the course of the past few months. Something that slowly drained the chaos away from the entire map would have felt more right. So that everything turned from red to the better colors—purple and pink, and then gradually disappeared. But there was no gradual fading involved in whatever the wizards were doing.
+
+The corruption was just totally gone from the clean area.
+
+“Faster?” he asked. “I thought we agreed we liked this speed?”
+
+They had debated their travel pace for a long time. Fast had the advantage of getting them to safety quicker, and time was very much of the essence. Slower had the advantage of reducing the risk of a devastating roll-over like the one that had occurred before. Even at lower speeds, the car was still much faster than running. And it had proven it could actually handle the shitty terrain by grinding slowly through loose soil and climbing out of most ditches.
+
+“Maybe I should not have asked you to add the Literan generators to the main lab yesterday. I felt very angry, though,” Kibby said.
+
+Alden turned around in his seat to stare out of the warped and hazy back windshield. They’d been driving for half an hour. The lab was far behind them already, and he couldn’t really mark its position anymore. Maybe that pale patch on the gray horizon was from the lights?
+
+“We’re pretty far away,” he said. “Didn’t we agree we should be at least in the general area to make it easier for people coming to rescue us to find—”
+
+“We should be farther.”
+
+“Okay.”
+
+No arguing with the bomb maker about the bomb she’d made.
+
+Alden pressed the button that increased their speed, and the quiet thrumming sound of the car rose. It was difficult to make sense of how fast they were going when their only landmarks were potholes, but the whistle of the wind through the holes in the windows and roof of the vehicle grew louder.
+
+“Hey, you’ve never been to another planet, right?” Alden asked.
+
+Kibby shook her head.
+
+“I think you’re going to like the rest of the universe. If you’re on Artona III, near the university with Distinguished Master Ro-den and the others, there are all kinds of plants and animals—way, way more than here. And you can see the stars at night. And if you end up going to Instructor Gwen-lor’s school on the Mother, I bet it’s just as nice.”
+
+“What about Earth?”
+
+“If you find a way to visit me on Earth, I’ll take you to the ocean.” Moon Thegund didn’t have any very large bodies of water. “I’ll let you hold my cat, Victor.”
+
+“The mean one?”
+
+“Yes.”
+
+“I will find a way. I will become an ambassador if I have to.”
+
+“You’d be the best ambassador.”
+
+“That would take a long time, though. I will summon you before then. As soon as I earn my rights. And we will tattoo our faces.”
+
+“That’ll be the best day ever.” Alden really meant it, too.
+
+With a few minutes to go, they finally stopped the car. They both climbed out, and Kibby stood staring behind them with narrowed eyes, as if she thought it might help her see the laboratory miles away. Alden hauled a couple of small red spotlights out of the back seats and positioned them at the front and back.
+
+They were assuming that if wizards in spaceships wanted to fly over here and take a closer look at the situation they would be able to locate the vehicle easily enough even though they were now quite far from the facility. They were wizards. In spaceships. It kind of implied competence on multiple levels.
+
+But he figured the lights couldn’t hurt.
+
+The tablet Kibby had brought was lying on the seat in the car. Out of the corner of his eye, Alden suddenly saw the image of the chaos map vanish from it. He spun to look back toward the lab.
+
+“That was just the bomb starting to —————. The main explosion hasn’t happened yet.”
+
+They stood in silence for another few seconds, then Kibby said, “Now. It’s gone.”
+
+An instant later, a green-white flash lit the sky. The perpetual cloud-cover was thrown into sharp relief. The whole landscape brightened. Kibby threw back the hood of the lab coat to take it all in.
+
+The light vanished, and a few seconds later, a single clear sharp BANG, like the discharge of an enormous gun, split the air. It was followed by a deep, growling roar that Alden could actually feel.
+
+And then there was silence.
+
+Kibby turned to beam at him.
+
+“Uh…that was great,” he said, heart thundering in his chest. “It was the most impressive explosion I’ve ever seen.”
+
+He assumed the crater the lab had been built in was now large enough to warrant its own zip code. He wondered what level of crime blowing an actual chunk out of an Artonan moon was.
+
+“You’re sure we can convince people this was an accident?”
+
+“There won’t be anything left for them to prove otherwise,” Kibby said unconcernedly. “Maybe a demon strike damaged and altered the wrong thing.”
+
+“I’m pretty sure I saw a demon sneaking around near the lab last night.”
+
+“Me too.”
+
+“One of the big ones.”
+
+“It’s why we left in the car.”
+
+“We had to run. Demons are dangerous.”
+
+“They are.”
+
+****************
+
+The next part of Plan 2 involved waiting.
+
+Alden didn’t like it because he wasn’t sure it was the right thing. Maybe they should have decided to keep driving and trust that space wizards who were looking would find them no matter how far they got from the lab. Or maybe they should have parked a little closer to start with. Or maybe…
+
+Forget it, he chided himself, walking in a slow circle around the car in his coat while he wore a preserved Kibby strapped to him like a backpack. This is what you decided on.
+
+It was a horrible day. The chaos ate away at him. He asserted his authority and pressed it back. Over and over again.
+
+He adjusted the spotlights a thousand times, as if wiggling them into different positions was going to make help drop down from the clouds on top of him. He ate and drank as much as he wanted from their supplies and went over the plan until he was almost crazy from it.
+
+Help would come.
+
+If it didn’t come, they would race toward it. As fast and hard as they could.
+
+The car moved faster than the approaching aid. When he and Kibby did the math together it looked like there was a chance. If the car lasted only a single day, traveling at an average speed of around thirty miles per hour in human terms, they would probably die.
+
+If the car lasted two days…maybe.
+
+A tiny maybe. A gossamer-thin sliver of a maybe.
+
+Based on the speed of the approaching help, the speed of the car, the speed at which Alden himself could jog, his own total guess about how long it would be before he tipped over the same threshold Kibby had and could no longer recover effectively from the assault.
+
+And then there was Kibby. She had to last, too.
+
+She had to last at least two days without the protection of the lab, too. With nothing but whatever help the coat could give her. Or they wouldn’t be able to take the car. Alden wouldn’t be able to protect her with his skill if he wasn’t carrying her.
+
+He adjusted the lights again.
+
+It had been hours. There were no ships in the sky. No vehicles on the dark horizon.
+
+“What kind of people don’t care enough to come see what that giant-ass BOOM was?” he muttered. “There’s no way they didn’t notice it.”
+
+Some sensor on some piece of equipment somewhere had to have notified somebody. That green flash had to be visible from space. Even if they thought it was just a crazy accident at a crazy scientist’s long-abandoned lab, weren’t they even a little curious?
+
+“It was awesome, Kibby,” he said to his frozen companion. “They should want to come check it out.”
+
+Alden’s faithful clock, brought with him from the vault, finally died to the chaos after about nine hours. From here on out, he’d just be guessing at the days unless he asked Kibby. She had a better natural time sense.
+
+He trudged the circular path around the car, staring down at his shoes. They were the same ones he’d been wearing when he was summoned away from the consulate. Just a regular pair of sneakers he’d bought on sale more than a year ago. They were the only shoes at the lab that fit his feet, so he’d just kept wearing them whenever he couldn’t go barefoot.
+
+They were held together by so much industrial-strength glue, magic tape, and scraps at this point that they looked almost like he’d made them from scratch.
+
+He stumbled suddenly and almost fell.
+
+Ah, it’s hard out here. I feel less and less like me.
+
+He ran his fingers over his auriad. He tried to focus on the strength of the machine that was his activated skill and ignore the shredding, creeping pain of the askewness digging into his authority.
+
+I think the free authority is almost the same size as the skill now.
+
+The magnitude of his power was something Alden was only just learning how to sense. He wondered if he’d be able to feel it still when he was back home. Or if, without the pressure of the chaos, it would all just…leave him.
+
+He didn’t think it would. It felt so natural now. Whether he was relishing in the feeling of casting spells with it or feeling the pressures against it as it helped him endure this environment, he couldn’t imagine life without it.
+
+Finally, he’d had enough. His energy was spent. And he’d admitted to himself that no help was coming for them here.
+
+He stopped and set Kibby down.
+
+She was just as awake and alert as she had been when he started carrying her. Her face was still flush with the excitement of her successful act of vengeance. She examined him as he pulled off the coat and gave it to her.
+
+“Nobody came?”
+
+“Plan 3,” said Alden tiredly. “Remember your promise.”
+
+“I remember. We are partners. I will tell you when I can’t do it anymore.”
+
+They got back in the car. Kibby took the driver’s seat. Alden strapped himself in beside her.
+
+“Doors or no doors?” she asked, pulling back the sleeves of the coat so that her hands were free. “You have experienced several hours in the corruption now, so you choose.”
+
+“I don’t think the car’s offering any protection at all anymore,” he said. Figuring out once and for all whether the armored vehicle was still doing anything to help shield them from the chaos had been part of his assignment today. But he felt exactly the same now as he had been outside. “It’s just good for moving us. So let’s make it move better.”
+
+Kibby nodded and started going through a long sequence of button presses and lever pulls she’d found last week when she managed to get one of the lab tablets to talk to the car. When she was finished, there was the squeal of metal on metal and four loud clangs.
+
+The car’s heavy armored doors fell to the ground with thuds.
+
+Alden stared out across the empty landscape. Then, he took his broken clock and chucked it into the dirt.
+
+“Do you have your sleeping supplies?” Kibby asked.
+
+“Yes.”
+
+“The plan doesn’t work if you don’t trust me. You have to rest.”
+
+“I know. Look.”  Alden showed her a set of earplugs he’d been keeping in his pocket, and he pulled a strip of cloth out from under the seat. He wrapped it around his eyes. “I’m going straight to sleep.”
+
+“Good,” said Kibby. He heard her pressing more buttons. “It’s my turn to carry you, now.”
+
+The car started up. Alden resisted the urge to thank it aloud. Or to peek out from behind his blindfold. His job was to sleep now and recover. And he was  exhausted.
+
+“Go,” Kibby whispered.
+
+Metal tires crunched against the soil. Wind filled the stripped car. Alden said Peace of Mind and shoved his earplugs in.
+
+The gremlin was thoroughly trained on it now. It had finally learned to trust that Alden would pay his debts and even himself out without being yelled at.
+
+In just a few minutes, despite the bumpy ride, he was asleep.
+
+*************************
+
+Hours later, Alden woke up feeling pretty refreshed physically. He wasn’t great existentially, but it wasn’t as bad as it had been. Less askew than when he first set Kibby down after their carrying session.
+
+I’m still recovering enough to pull ahead of it a little I guess. A thousand pet crickets for Gorgon. And one noncommittal nod of acknowledgment for the System.
+
+He thought the auriad was helping somehow, too. He hadn’t really expected any significant recovery at all while he was out here away from the vault. In a way, the auriad’s very existence seemed to be passively bolstering his authority.
+
+“Did you just wake up and pet your auriad before you even said hello to me?”
+
+Alden lifted his eye mask and turned to face his chauffeur. She had her knees pulled up against her chest, and not so much as a finger was sticking out from the coat and blankets while she watched for hazards on the route ahead of them. The red leather was covered in crumbs, though, so she’d obviously been snacking.
+
+“How are we doing?”
+
+“You slept for ten or eleven of your hours. The car successfully climbed in and out of three large ditches. I chose to maneuver around two more. No ships flew over. I decreased our speed because of the ditches, and then I changed my mind and increased it. You should eat and drink and pee.”
+
+“That’s all good. Except for the ships. And I can remember to do those last three things on my own. I promise.”
+
+He unhooked his safety harness and reached behind him to dig into his box of chosen road food. After biting into a leathery nutrition block that tasted vaguely like cantaloupe, he examined Kibby more closely. It was impossible to tell how she was doing. He couldn’t even see her face without leaning over to peer into the hood.
+
+“Are you all right?” he asked. “Seriously?”
+
+She didn’t answer for a minute, and his stomach clenched.
+
+Finally, she said, “I feel bad. But not so bad that we should stop the car.”
+
+“I feel better than I expected. So if you want to, we can.”
+
+“Not yet.”
+
+“Regular sleep?” he asked. “I can watch the ground.”
+
+“I’m not sleepy yet. But you watch for a while. Tell me if I need to do anything.”
+
+Alden watched.
+
+This was the reason they hadn’t left in the full dark. You had to be able to see the ground well enough to avoid the worst obstacles. But even now, in the dim light, there wasn’t much to it. He just stared straight ahead, reminded himself periodically not to lose focus, and made sure the car didn’t encounter something it couldn’t handle.
+
+Kibby used the break he was giving her to crack open her last tin of canned meat and eat it with a spoon. He couldn’t help but notice that she wasn’t making the happy smacking sounds she usually did when she was eating the stuff.
+
+Alden had been saving up one particular conversation topic for exactly this sort of situation.
+
+“The Primary,” he said.
+
+Kibby’s spoon stopped clinking against the can, and he smiled.
+
+“What about the Primary?” she asked suspiciously.
+
+“I know I’m always teasing you about the things he said to me when I met him at that party,” said Alden. “The truth is he didn’t say much. He certainly didn’t say I was amazing or any of the other stuff I told you. He mostly asked me questions about myself.”
+
+“What questions?”
+
+He kept his eyes on the landscape while he told her the whole story, not embellishing anything or leaving out a single detail. She was fascinated, delighted, baffled, and scandalized all at once.
+
+She was completely uninterested in his traumatic confessions about his childhood pastime of staring at the dead body of someone he hated, and she was entirely too interested in examining his left hand.
+
+“It’s been months. I don’t think you’re going to find the Primary’s—” huh, I still don’t know how to say DNA “—magic under my fingernails after this long.”
+
+She finally let his hand go.
+
+“I can’t believe he really liked you.”
+
+“Ow.” Alden held the hand to his chest. “Also, I don’t think he liked me. It felt like…ah, he was okay, actually. Better than a lot of people at that party. And I don’t think he was trying to scare me even though he did. But it still felt like a slightly dangerous encounter.”
+
+“He said he wouldn’t hurt you!”
+
+“That’s a weird thing to say to someone. Also, he told me I should try to grow up well.”
+
+“You should.”
+
+“Well, yeah. That’s true, but it sounded kind of—”
+
+“He liked you. You’re almost friends,” she said in a tone that would brook no argument. “And we are friends. So…it’s like the Primary and I are almost friends, too.”
+
+“Logical.”
+
+She nodded. “A lot of people on Moon Thegund wanted the Mother Planet to send a knight here. Not the Primary of course. But one of them. To guard against the corruption.”
+
+“Did you want one to come? Is that why you’re so interested in them?”
+
+Kibby shook her head. “No. I didn’t really want one here. Back then. We would have had to leave and go do research somewhere else, maybe somewhere more dangerous, if the Mother completely fixed the chaos problem here. It was the people who live in the cities on the other half of the moon that wanted it gone.”
+
+I would think everyone would want that.
+
+“The Grand Senate said the knights couldn’t spare anyone for permanent assignment in a place like Thegund. A few years ago, they offered people free ————  instead.”
+
+“I don’t know that word.”
+
+“Moving to a new home.”
+
+Ah. Relocation.
+
+“I just listened to all the news about the Primary and some of the other knights because it was exciting,” said Kibby. “Distinguished Master Ro-den got special reports on them that were supposed to be only for the most important wizards. But he didn’t mind if we all watched them, too.”
+
+“What kinds of things do the knights do?”
+
+“All different. But all good things. They fight chaos and demons a lot. Sometimes in places really far away.” She took another bite of her meat. “I saw the Primary slice a demon in half. Almost.”
+
+“Almost?” Alden asked, taking a sip from a bottle of water and sparing a glance away from the windshield to examine her expression. She looked very thoughtful.
+
+“I saw the demon in one piece, and then it was in two,” she clarified. “I couldn’t actually see the Primary.  He was too small.”
+
+Could the guy shrink himself? It seemed like a strange choice for a fight, even if you were the Triplanets’ Number One Super Wizard.
+
+“It was an image from one of our space telescopes,” Kibby said. “I asked Master Ro-den about it, and he said the demon was one-eleventh the size of Moon Thegund.”
+
+Alden spat water all over the car’s control panel.
+
+“What?!” he sputtered, choking and patting at his Hawaiian shirt. Like there was someone around to care if he was a little damp. “No!”
+
+“No?”
+
+“No! Demons can’t be that big!”
+
+Kibby looked flummoxed. “But I saw it.”
+
+“Uh…I mean. I don’t want demons to be that big. That’s really bad. I don’t like it at all.”
+
+He also did not like it that he had engaged in conversation with a man who could chop something measured in fractions of moons in half. People like that shouldn’t hide behind potted plants with their sister at stupid college parties. They should stay in high budget fantasy movies. Where they belonged.
+
+“I don’t like it either. Except for watching the Primary fix it. That was fun.” She tossed her empty can out of the car. “You can’t tell anyone. Master Ro-den isn’t supposed to share that kind of thing with his assistants.”
+
+“Kibby, I could stand on top of a building and shout that to an entire city on Earth, and I promise nobody would believe me.”
+
+***************
+
+Kibby slept; Alden drove.
+
+Kibby drove; Alden slept.
+
+They ate and drank as much as they wanted. This was not the kind of trip where you rationed your supplies. They felt worse and worse. They started talking about imaginary futures for themselves.
+
+They designed their matching tattoos.
+
+More than forty hours in by her own estimation, Kibby said, “I didn’t think we’d make it this far. The car wasn’t even supposed to drive for this long when everything was normal.”
+
+She had never once, in all their planning, told him that.
+
+“I guess having the doors off helps a lot,” he said.
+
+“Maybe I’ll forgive it,” said Kibby. “If it goes a little farther.”
+
+It was full daylight now. They’d come a long way.
+
+Alden forced himself to go to sleep again. He chained for peace of mind. It was his first time ever stacking them without paying back the debt. The gremlin was starting to grumble.
+
+Give me time, he begged it. Please. I’ve never once failed to pay it off. I’ve never once cheated, and you know that. Just give me a little more time.
+
+Kibby woke him up. He wasn’t sure how many hours it had been. The car was stopped.
+
+There were huge dark circles under her eyes. Her whole body was shaking, and she was breathing too hard. “I got it wrong a little,” she said faintly. “I’m sorry.”
+
+“It’s all right.”
+
+He didn’t even know how she had messed up, but whatever it was, it was okay. This was the kind of situation where no mistake she made could be unacceptable. If she turned into a demon the size of a planet and destroyed the universe, Alden would look everyone in the eye when he got to the afterlife and tell them Kibby had done better than any of them could have in the same situation.
+
+She showed him a patch of skin on the back of one small hand. It was cracked and bloody and blackening. “I got it wrong,” she said again. “I couldn’t push it away anymore.”
+
+So that’s how it’s going to get us?
+
+He had wondered what would happen when they were finally spent. If it would be similar to the swift deaths of the scientists. If they would just rot away, if they would mutate to death like some of the plants.
+
+Guess it doesn’t matter.
+
+“Not a problem,” said Alden, unlatching the safety harness. “This just means it’s my turn.”
+
+He drank two bottles of water. He ate sickeningly sweet jam out of a pouch. He strapped on the pitifully small bag of supplies he’d allotted himself. Checked the lightweight sling they’d designed for the sprinklers. Finally, he took the lab coat from Kibby, put it on, and adjusted the straps around himself that would hold her in place if he stumbled.
+
+He crouched down. She stared at him for a few seconds.
+
+“You remember how my skill works, right?” he said with a grin. “You’re the boss. You’ve got to do the entrusting.”
+
+She nodded and positioned herself on his back. He heard the clasps click shut around her. She threw her arms around him.
+
+Alden activated the skill when he felt like she was in the position that would be the most balanced and least difficult for him.  Her breath, ragged and frightened in his ears, stopped.
+
+He started to run.

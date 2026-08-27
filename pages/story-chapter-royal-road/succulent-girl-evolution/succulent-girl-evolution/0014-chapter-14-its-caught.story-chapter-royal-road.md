@@ -1,0 +1,129 @@
+---
+id: 4bf1ee02-3c06-5fae-a940-dc7c8a03dcfe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: It's Caught"
+slug: 0014-chapter-14-its-caught
+partOf: succulent-girl-evolution
+position: 14
+ownLength: 2312
+unit: words
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2549600/chapter-14-its-caught"
+royalRoadId: "2549600"
+---
+
+“This is payback for Luna!”
+
+Rina’s aim, while good with the first arrow she just shot at the aggravating magpie, was impaired by the frenetic shaking of the surrounding vegetation (and admittedly, her own rage) and flew wide of her target.
+
+Fortunately, she had more up her sleeve. She shoved mana into her bow’s mana gem and nocked another arrow, aiming at the large, leafy body of the monster as it scrambled away. The way it scuttled on its four legs, not at all like a regular four-legged animal, yet not like an insect or spider either, was creepy and uncanny.
+
+“Volley,” she snarled, loosing the arrow. The slim piece of wood multiplied in midair, raining down upon the creature. She took vicious satisfaction in seeing the beast’s legs whip the air in pain as an arrow sank into its body. Unfortunately, that arrow wasn’t strong enough to pin the creature to the earth; it just pushed itself right back up and kept running.
+
+However, that split second it took to indulge its pain was all Rina needed to throw her snare sphere at it.
+
+The snare bounced on the pale green body, flying into the air before snapping open and unleashing the trap spell stored within the two halves. Light blue energy zapped out, wrapped around the creature, and forcefully drew the struggling monster into its depths. The snare dropped to the ground, glowing orange as the spell proceeded to commence the locking component of the spell.
+
+Rina trained another arrow on the sphere as she approached, in case the monster was able to defeat the enchantment.
+
+After several tense seconds, the glow faded to a solid gold, indicating successful capture. Sighing with relief, she stowed her bow and, ignoring the tiny burrs that were bouncing harmlessly off of her leathers, she quickly stuffed the golden sphere into her bag.
+
+Lifting her messenger amulet to her lips, she reported in.
+
+“This is Rina. I’ve captured the target. Meet me at the gates.”
+
+~ ~ ~ ~ ~
+
+“What is this?” Bubbles wailed within the confines of the trap. She scrabbled helplessly at the constantly moving lines of the cage, able to push the restraints around but unable to force herself through them.
+
+[This is a trap of magical construction,] Rock said tightly. [It will take me some time to work through its structures.]
+
+Hope flared through Bubbles’s fear. You can get us out?
+
+[I can read the threads of enchantment, however…]
+
+While Bubbles waited for Rock’s verdict, she continued poking and tugging at the golden strands, trying to understand the limitations of the spell. The ‘threads,’ as Rock called them, were pliant, and even quite stretchy, as she found out when she took a running leap to throw herself at the opposite end of the web: she ricocheted back so that she bounced all around the cage before she finally caught herself on the strands, bouncing gently on the side of the web as the kinetic energy dissipated.
+
+[I am unable to break the enchantment,] Rock finally said dolefully. [I do not have the power to do so…]
+
+Bubbles clung to the side of the cage, confused. It took a moment before she finally identified her confusion: Rock was lost. He had no solutions. In fact, an overwhelming despair emanated through her, coming from him.
+
+She was used to a myriad of emotions from Rock. It had taken her a while to recognize his subtle sentiments, but after a month’s worth of time, she had become just as familiar with him as she had her two new plant companions.
+
+Speaking of her plant companions… she quickly climbed down from the side of the web to do a full assessment of her injuries. Before she was pulled into this magic trap, Bubbles recalled sharp, stinging pain as an arrow pierced her trunk, thankfully avoiding Fern and Cuddles’s bodies. But now that she was in here, she felt no pain—and she couldn’t even find the arrow, which had been lodged so deeply she was certain it wouldn’t have gotten lost.
+
+[This trap is intended to preserve the organism and keep it in a suspended state,] Rock explained dully, understanding her concerns. [As such, it only captures the target, and not any external attachments. I imagine once the enchantment is released, you will find yourself in the same condition as when you were struck.]
+
+Bubbles didn’t like that thought. However, she perked up at an unforeseen benefit of such a trap. Does that mean I won’t lose any of my energy? We won’t wither away in here?
+
+[Correct. Although I fear our problems are more serious than mere death.]
+
+Pausing, Bubbles considered her options.
+
+With Rock being so down, which was a completely unfamiliar side of him—in a way, seeing him this hopeless made Bubbles anxious, because in the short time she had known him, Rock had always been the smart, unruffled one who came up with plan after corrective plan to keep them going—Bubbles was aware that she had to be careful with her words. Before, even though Rock was annoyed with her suggestions, at least he tolerated her behavior; but now, he was almost… lifeless. And this silence was far worse than being scolded by him.
+
+Tucking her root-legs under herself so that she was comfortable on the golden floor, Bubbles began prodding Rock.
+
+I know you’re afraid, she began gently. Rock gave no sign of acknowledging her. Refusing to be discouraged, she continued. And… I know it’s my fault that we got captured. You’ve been warning me to run away since the beginning, but I ignored it because… it’s not that I don’t trust you. I knew you were right, that we probably wouldn’t be able to beat the humans with all of their tools…
+
+Bubbles shivered as she remembered all the glints and gleams from the sharp blades of the human workers’ tools, even as the handles and bodies of their equipment were rugged and dirty from use. She rallied her spirits.
+
+But the important thing is, we’re still together! All four of us! Fern perked inquisitively at being invited to the conversation, and Cuddles, who had been sending melancholy pulses of commiseration to Rock, paused to question Bubbles’s optimism. Think about it! We’re all still alive. Fern’s body got trampled and cut down, Cuddles was already unrooted, and how many times have I avoided getting chopped?
+
+Fern and Cuddles were easily cheered by her list, but Rock remained unmoved. However, Bubbles wasn’t deterred.
+
+And Rock! We wouldn’t have made it this far without you. You’re our anchor! Bubbles beamed as she finished, expecting him to finally thaw.
+
+However, he thawed in a way she didn’t expect. He gave a heavy sigh.
+
+[I acknowledge we have made it further than I would have expected,] he said wearily. [Despite what happened previously, it does not change the fact that we have been captured. I think of the future, and all I foresee is…]
+
+What is it? Bubbles asked, Rock’s dread spreading through her as he hesitated.
+
+[Once the humans begin examining you, I predict they will seek to extract my core from you. You would likely lose all of your powers, leading to your death, and I will lose my will as they subjugate my powers for their own purposes.]
+
+Rock’s bald statement sent a shock through the three plants. How… how are you so certain?
+
+[It is a tale as old as time.] Even though Bubbles wasn’t sure she wanted to hear such a sad story, she much preferred listening to it instead of having Rock withdraw into himself. [In the ancient days, before humans discovered the source of magic, they respected their environment. There was always conflict among mortals, of course, but the consequences were always contained.]
+
+As Rock talked, an astonishing image materialized in her mind: she, Fern, and Cuddles were just small children, seated around an old man who gave off the same serious, yet kindly air of Master.
+
+The old man told a story to the children, their faces rapt with attention. He spoke of simple times, who knew how many millennia ago, when humans, animals, and plants lived in harmony. Neither party overwhelmed the other; rather, they all found a way to balance their needs.
+
+Humans hunted animals for meat, gathered from plants for fruit and vegetables, and wood or leaves to build shelter. However, they never took more than they had to, instead only gathering what they needed and leaving the rest. They showed their appreciation and gratitude for their bounty by holding rituals and festivals for the spirits, attributing their good harvests to amorphous beings who floated through the air.
+
+However, that misunderstanding didn’t bother the mana minerals in the earth’s crust. As long as their charges weren’t excessively destroying the ecosystem the minerals had so carefully crafted, it didn’t matter what their beliefs were.
+
+There weren’t many mana minerals in the world, but wherever there was a network, the community thrived. Every living being that lived on land supported by a mana mineral became healthier and stronger than their unluckier counterparts who were forced to fend for themselves. Some organisms even developed an affinity for magic, becoming legendary beasts or humans of their times. These legendary beings were referred to as Guardians, though the stories of their exploits faded to mythhood as time went on.
+
+Such peace wasn’t meant to last, though. As civilization developed over the centuries with the mana minerals’ support, the knowledge humans collected and retained became more and more comprehensive. As quality of life increased, they became more curious. Without having to worry much about their basic needs, they began looking beyond what they knew.
+
+Eventually, they began questioning magic. How did it come to be? Why did only certain individuals have it?
+
+Could they harness the magic, for the good of society?
+
+The mana minerals adapted to that curiosity, offering the individuals or groups who were most passionate about finding magic a chance to acquire it. They set up small, controlled areas that were filled with powerful creatures, designed to test the mettle, competency, and general worthiness of these adventurous spirits. Successful conquerors of these challenges earned special artifacts, benign gifts designed to supplement their abilities so that they could go out and do more good in the world.
+
+Those challenges sated the human fancy for only a short while. Soon, sooner than expected, greed began to rear its ugly head. The more cunning humans persuaded others that there was more they were missing; there must be raw magic powering the dungeons. Why should they spend all their time, effort, and resources to send small groups of humans to acquire the gifts, when they had no idea what kind of reward they would receive from clearing the dungeon?
+
+Why shouldn’t they look for the true source of magic? If they could acquire the magic, they could study it, harness the unfiltered powers to create the artifacts they needed. No longer would they need to resign themselves to chance for an appropriately powerful reward; they could produce an artifact to the exact specifications they needed.
+
+The majority of the humans, satisfied with their lot, saw no point in killing the goose that laid the golden egg. However, common sense did not prevail in the face of the few, the powerful, the greedy.
+
+Within a decade of such ambition taking root, scholars developed the first mana mineral map.
+
+Within a century, the first mana mining operation broke ground. The fierce battle the mineral network’s creatures waged to defend it, incurring huge costs and loss of life on both sides, did nothing to deter the humans, instead only managing to better equip the next mining operation as they prepared to break ground.
+
+By the end of the second century, all of the known and established mana minerals had been captured. Civilization boomed. Those who didn’t deserve power bought it. Those who were supposed to be the beneficiaries of human-designed and -produced artifacts received only a trickle of what they were promised. Life went on.
+
+However, just like the fable of the golden goose egg, the humans were too short-sighted to realize that once they destroyed the mineral network, no more magic would be produced. Despite having the ingenuity to channel the mana and build their own artifacts, they weren’t able to make magic.
+
+The mana minerals had millennia to refine their designs and processes. The artifacts they produced were self-sustaining. The humans’ designs and processes, however, were not.
+
+Slowly, man-made artifacts began losing their potency until they became nothing more than beautiful pieces of art. Luxury paperweights. Meanwhile, artifacts granted by the minerals, formerly scorned for being useless and irrelevant, became valuable. Eventually, even the weakest artifacts with barely a gleam of power (granted to the original dungeon crawlers out of pity) became highly sought after as they withstood the test of time. Life went on.
+
+There was still magic in the world, but heavily diluted. Magic now came solely from the individual, at a much weaker scale compared to the heroes of legend. As the power of the man-made artifacts faded, cost of services from natural-born mages increased, wiping away whatever equalizer the man-made artifacts had provided.
+
+The difference now was that there were no longer any active dungeons remaining to allow anybody a chance to gain new reliable artifacts. All the mana minerals had learned the lesson of their ancestors, and were in hiding until they were ready to rebalance the world again.
+
+[So you see: this is why I tried so hard to avoid being captured,] Rock said gently. Even though his tone was free of blame, Bubbles felt herself sink into the floor, ashamed. [The moment the humans realize they have an active mana mineral on their hands… they will drain me of all I am.]

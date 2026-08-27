@@ -1,0 +1,401 @@
+---
+id: dd6f2cdc-aa91-5c74-9c0a-27590d015991
+page-type-slug: story-chapter-royal-road
+title: "Chapter 163: The City of Overpowered Manchildren"
+slug: 0084-chapter-163-the-city-of-overpowered-manchildren
+partOf: the-calamitous-bob-stubbed
+position: 84
+ownLength: 5037
+unit: words
+ownProgress: 5037
+publishedAt: 2024-05-03
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1622043/chapter-163-the-city-of-overpowered-manchildren"
+royalRoadId: "1622043"
+markedReadAt: "2026-06-29T21:17:42.200Z"
+---
+
+Viv reclined in her throne, enjoying her latest invention. She called it: reverse shopping. Instead of going out to stores, they had the crafters line up in her throne room with products and stuff and she picked what she liked. The crafters got publicity, even if they were not selected, so they didn’t mind the short wait. Newcomers were especially fond of the practice since they could introduce themselves to Sinur’s Gate’s richer denizens. It was ok to spend her money on pairs of shoes because she was the boss and she had a walk-in closet — ok it was a repurposed boudoir but still — and obviously the head honchette needed to have a wardrobe that suited her super important role as a leader for her people. How could one impress without nice moccasins? How, Viv asked? Right.
+
+Sadly, Sidjin categorically refused to join her for this exercise and even Solfis used the opportunity to run diagnostics. They refused to comment on her favorite picks! She needed a best friend of the female persuasion. Maybe Lana would accept.
+
+With a gesture, she added a pair of riding boots to her ‘maybe’ pile. The cobbler looked hopeful yet anxious. He was rather young.
+
+Viv sighed. She was doing this to distract herself from the upcoming summit of the Paramese Alliance, and also because her first attempt at mass production had failed.
+
+Spectacularly.
+
+Viv had accounted for boredom: teams were supposed to rotate between different tasks on a regular basis. She had accounted for the fact that 13-years old on Param were closer to 16 earth-side because the years lasted a longer time. It was a well-known and proven fact that such individuals were hormone-wracked, horny adults-in-training. Thus, the factories offered a decent pay, decent hours, and free birth control. She had even accounted for the remoteness of the job with regular convoys meant to pick up the finished product. What she had not accounted for was that almost nobody wanted to work in those ‘factories’ when there was fertile land freely available for grab, and no amount of incentives could change that.
+
+It wasn’t that the factory jobs sucked. It was just that being a land-owner was a dream for most exiles coming here, and very little could compete with that. Good, safe land was an unattainable dream for those who were not born heirs. Viv was considering smaller plots for families to grow a vegetable garden, and the project interested those who wanted to get into metalworking but it wasn’t enough to make much of a difference. Back on earth, rural exodus fed the industrial revolution. People worked in factories or starved, sometimes both. Here, people had a choice, one that was considerably more attractive. And they would have it for a long, long time. Not to say Harrak wouldn’t have an industry but Viv would have to find another way to make it work.
+
+It was ok. She didn’t have to succeed at everything all at once. Other projects were doing well. For example, Viv’s opinion that some criminals ought to be given a second chance found an ardent defender in the person of Abenezigel. For a certain definition of person. Now, prisoners could work and be reinserted into society instead of being flogged! Progress, yay. It was better to have clean orphanages than welted buttocks, Viv claimed, and her citizens begrudgingly agreed that it was true. This was but one of the improvements for the budding nation. The most major one was perhaps the graduation of the first generation of Solfis-trained civil servants. As the city grew, the need for bureaucracy and justice grew with it. Viv wasn’t sure how she could have managed without the well-organized secret army of planners and executors Solfis had enlightened to the wonders of red tape, just that it would have been a massive mess. She had to thank stats and pre-existing paths for saving her the hassle. The only minor problem was the cost. It turned out that competent administrators were rather expensive.
+
+//This is an inevitable fact of life.
+
+//Any person in a key position must be recognized appropriately.
+
+//It is foolish to foster discontent in servants you have trained and positioned for maximum effect.
+
+“But three gold talents a month?”
+
+//It comes with a large workload and additional responsibilities.
+
+//They must swear an oath.
+
+//Additionally, the punishment for corruption for Harrakan civil servants is death.
+
+//No matter how benign the transgression.
+
+“Wow.”
+
+//This is standard practice.
+
+//With such conditions we must compensate them appropriately.
+
+//Or they will leave.
+
+“I see your point. I assume their salary increases as time passes?”
+
+//Correct.
+
+“I really hope the harvest goes well.”
+
+And the harvest did go well. Tremendously so, in fact. The new crops gave a great yield of black-mana infused vegetables of all sorts. Monster meat and cereals supplemented this bounty for both inner consumption and export. Viv allowed herself to relax during the annual celebration when platters full of food were systematically demolished for being both mana-rich and delicious. Not only did they repay the Manipeleso bank’s loan but they also made a steady profit on taxes and tariffs from the trade with Enoria and beyond. It turned out that Baran really wanted foodstuffs that could be kept for a long time, especially in the south. Money came in and Harrakan goods became a normal sight in the markets of the large kingdoms. It was not yet a fortune because food wasn’t that precious, but it was a good start.
+
+It was also something she didn’t have to handle herself. It gave her time to train and prepare for the summit.
+
+Her magical training focused on the darkness aspect of black mana, the one she was the least experienced with. She felt that it would be very useful in Mornyr, where the summit would take place, and experimented with its effects. The coating spell made to protect her acted as a sort of cloak when infused with darkness, one that only worked when she was already in a dark spot, or at least in deep shadows. The effect was more interesting on spectators, however. By experimenting with various helpers, she realized that there was a ‘mental’ aspect to it, a sort of manipulation that made it easier for others to be distracted. She was not invisible so much as unnoticeable. It even worked on those who expected her or actively hunted for her, though never for long. It didn’t allow her to slip past wards, however. A darkness shield achieved the same effect, only in a worse way.
+
+Coating only worked on the caster though, so she experimented with other spells. Direct attacks like Excalibur did little of note against rocks and trees. She requested beastling test subjects and was granted a few, and as far as she could tell, it only scared and confused them with no ill effects. The area-of-effect spells were more promising, however, especially her old ‘blight’ spell. Now obsolete, blight created a cloud in a single direction although she could also cast it around herself. Experiments showed that if cast in the sewers or at night, it seamlessly merged with the natural darkness around it to make those caught in its effect extremely distracted, almost catatonic. They also had no memory of having been affected at all. She tested it on heavies and even temple guards with the same effect. Unfortunately, it also affected her allies, with the exception of the hadals who judged the cloud as cozy and relaxing. Further experimentations proved she could tug people along if they were attached by a rope. It was a slow and awkward process, however. The dark blight was also completely useless in bright daylight. Not only did it disperse fast, consuming energy, but it also attracted the attention as large patches of dark smoke tended to do in a place where fires could destroy entire districts. Those were still her best spells.
+
+The other half of the preparation involved Lady Azar.
+
+Mornyr was one of the oldest and most stable cities in the continent. The city-state was neutral in all but the most heated conflicts and its leadership was picked from the churches of mankind’s various faiths. It wasn’t very large but it was ancient and filled with temples. The land under its control had remained small and consistent throughout history because no one thought three orchards were worth pissing off the gods’ representatives on earth. Even the Harrakans had treated the place the same way one would treat the Vatican. It simply wasn’t worth picking a fight with them. As such, Mornyr remained one of the most secure and peaceful places on the continent. Lady Azar made sure to explain this in detail during their first preparatory meeting. Said peace was enforced by a large lattice of wards fueled by divine mana, as well as the shield.
+
+“What do you mean, a shield?” Viv asked.
+
+“An entire shield surrounds the city. It is said to be impenetrable. I have been informed that it is centered around a massive tower that dominates the city in the same way the Mountain of the Gods dominates Nyil.”
+
+“Wait, I thought this was a myth.”
+
+“No. The mountain exists, and so does Larrean, where the gods reside. For a certain definition of existence, I suppose, since nobody on the continent knows where it is. Regardless, you may consider Mornyr to be inviolable.”
+
+What followed was a long and tedious lesson on how the city worked, who was important, what was the hierarchy of different organizations and a brief history of the most recent scandals. Viv’s favorite was the one where one of Sardanal’s bishops organized a wild orgy in his superior’s office.
+
+“You speak as if you’ve never been there,” Viv observed.
+
+“Because I have not. The Paramese alliance is one of might. Very few women end up in positions of military leadership on Param, so my presence has never been relevant, to my despair as such gatherings present unique opportunities to create bonds of alliance and friendship. I have to ask, what is your purpose in going there?”
+
+Viv sighed. This was yet another test, or rather, another opportunity for learning.
+
+“My goal is to solidify the image of reliability and efficacy we’ve forged during the war against the Empire of Dawn. We need to transition from ‘upstart revolutionary town’ to ‘budding kingdom’ in the minds of the other rulers. I am also counting on potential business interests considering our portal technology and the reduced cost that comes with deserted forts.”
+
+Lady Azar nodded.
+
+“So far, the ring of forts guarding the deadlands is still inhabited. Do you believe the alliance will desert them?”
+
+“If they do not, I will suggest it… against compensation of course. With the Hallurian threat diminished for decades and the deadlands under strict surveillance, the alliance can focus on the last great danger to civilization right now.”
+
+“You?”
+
+“Haha. No. The beastling tide at the Glastian wall.”
+
+“A good observation. I see you have given the negotiations some thought. What do you intend to ask in return?”
+
+“With my plan for mass production on hold, the only way for us to grow quickly is to attract people, so I will request free passage for immigrants to Harrak, including in the use of potential portals. You did say the flow of refugees slowed down.”
+
+“Yes, not a bad idea considering many nations intend to offload their poor. It will not work on some of the northern city-states, considering they are at war.”
+
+“We have no chance of getting immigration from either Glastia, Helock, or the Pure League. We can consider them as hostile.”
+
+“Why would the Pure League be hostile?”
+
+“We are harboring and training Kark members of a tribe they are attempting to exterminate.”
+
+“Ah, yes, that.”
+
+“And they kill hadals on sight. We cannot be friends.”
+
+“I see. I can advise you on whom to approach. There is only one thing...”
+
+“Yes?”
+
+“Viviane, I am an old woman with an advanced path in politics. I have placed my daughter upon the throne and I have led my duchy to greatness.”
+
+“Is it flexing time?”
+
+“What I mean to say is that I know you are hiding something. I would know what it is.”
+
+“Are you sure? Because you will not be able to deny knowledge of that plan.”
+
+“Viviane, it is far too late for me to detach myself from your cause. Speak.”
+
+“King Sangor offered an alliance if I free his son and heir from the custody of the Church of Maranor, in Mornyr.”
+
+“Ah.”
+
+“Yeah.”
+
+“Ah. And you intend to free him… how? Negotiate for his release?”
+
+Viv looked at Azar like she was a complete moron, making the older woman bristle.
+
+“That was a rhetorical question. Oh, alright, it was a question born of hope. You intend to commit violence.”
+
+“No no no it’s supposed to stay as covert as possible.”
+
+“Violence.”
+
+“Quite, contained, limited violence. Yes, I can do that. Yes, I have done that before.”
+
+“Very well. Ugh. I suppose we need to decide who will escort you then. Not me, my presence is required here.”
+
+“I’ll take Solfis, Zero Five, Sidjin, and an escort of knights and heavies.”
+
+Lady Azar nodded.
+
+“I will select some of my assistants to accompany you, or you will be sending the wrong sort of message. One last thing. Do not get caught.”
+
+“Oh they will know it was me, eventually, but I hope to be gone by then.”
+
+***
+
+The fateful day of departure came and Viv led a small convoy through the portals and back to Enoria. Rollo selected six knights as an escort, leaving his lover and second in command behind. Ban picked twenty of his best One Hundreds including the now famous Brick, official standard bearer of New Harrak. It was a much smaller escort than what larger nations would bring and it matched her nation’s current size pretty well. The only change of plan came with Zero Five’s refusal to come on account of it being a peaceful mission, and the axe wielder was here to infiltrate and chop people up. The good news was that he would be replaced by Irao himself. The first hadal was aware of Viv’s plan to break out Sangor’s son and thought it was a fun and challenging way to conduct a heist since the prize was alive and meant to stay that way. It was new and exciting from his jaded perspective.
+
+He and Solfis were spending entirely too much time making plans. It made Viv a little uncomfortable.
+
+The convoy left without fanfare though it was received with one. In order to avoid too much impromptu bullshit, Viv had left the planning in the capable hands of the Manipeleso bank of exchange, its members much more polite now that Viv had both made them a tidy profit and threatened to switch all of her assets over to a certain dragon-run institution. With them in charge, the Harrakans went through every portal with smooth efficiency. It was such a seamless experience that Viv found herself appreciating her surroundings.
+
+The first time Viv went through Enoria, she found a war-torn collection of isolated, fortified villages. Now, gates stood open, traffic flowed, and there were more smiles than scars on the faces of its denizens. Builders erected new edifices everywhere and, generally, the number of armed soldiers was just lower. Viv found herself appreciating the surroundings even as her guards remained grim. People were the same everywhere. Seeing them do better was just a little heartwarming, even if Enoria was still technically a rival nation. She even allowed the Duke of Reixa to hold her back for an afternoon tea at the edge of a pond. Late summer turned the land golden and a little burnt, like a child who played in the sun for too long. The air was heavy with the smell of sap and dust. It made her a little nostalgic.
+
+It only took a day for Viv to reach the end of the portal network, thanks to priority transit. They stopped at a medium-sized town on a long river marking the natural border between Enoria and Baran to the east. The river went straight north. In traditional fashion, Enorians and Baranese categorically refused to agree on its name. The Manipeleso Bank and Exchange had contracted two river ships to carry Viv, her horses, and her retinue across the continent. This would be the longest part of the trip and Viv was actually hoping there would be pirates so she could have a little roast off with Sidjin just like old times.
+
+“I do not like pirates,” Sidjin confessed.
+
+“What? Why! It’s fun!”
+
+“I prefer monsters since they’re edible.”
+
+“You know what, that's an excellent take. Maybe we could lure one.”
+
+She sighed.
+
+“I wish Arthur were here but… she’s her own girl now, with her own life and dreams.”
+
+Sidjin patted her shoulder with sympathy.
+
+“I’m sure she will make you proud.”
+
+“That’s honestly the least of my worries.”
+
+“I’m sure she won’t engage in mass destruction without clearing it out with you first.”
+
+“Thank you darling, you always know just what to say.”
+
+Despite Viv’s hopes, for once, nothing bothered them for a while. The two fat-bottomed ships just sailed their merry way with Ban occasionally glaring at the green shores as if daring them to attempt something. Fresh air warded off the worst of the heat and Viv used her awesome powers to hover around to harvest berries and ripe fruits, under the amused gaze of her lover.
+
+“Enough mana to enchant a wall and you use it to get five fruits.”
+
+“Imperial fruits.”
+
+“And two nuts.”
+
+“Imperial nuts. I may consent to sharing one with you, minion. If you ask nicely.”
+
+“Can we get some Imperial fish as well?”
+
+“No. They taste like mud.”
+
+“That’s an Imperial lie.”
+
+“That’s it, no Imperial snack for you.”
+
+But Sidjin had a few tricks up his sleeves and he stole the snack in the end.
+
+***
+
+Viv’s mood remained high for a couple of days. For once, she had no immediate threat to worry about since she was protected by both Irao and Solfis. She couldn’t further plan the extraction without learning more, and for the rest, everything was prepared as well as it could be. She was left with little to do besides enjoying the moment. It was the first holiday she’d taken since meeting Sidjin. Truly, boats protected her. A little dose of reality returned when the convoy came across the burnt out husk of a town.
+
+It would have been a good-sized stop on their trip if anything remained at all, but now it was completely destroyed. The sailors fell silent when they passed by, with a few making protective signs. The captain came to stand by her side.
+
+“Ered, nice fishing town with plenty of marsh food. It was hit the hardest during the civil war, just before Tarano’s doomed march. This used to be a city of three thousand souls but the rebels put the houses to the torch and the people to the sword.”
+
+Sangor’s men did this. Perhaps he’d given the order. That was… a chilling reminder that the rules of war didn’t exist here. Oh, sure, Viv used biological weapons and dubious tactics, but she didn’t exterminate civilians. She had standards.
+
+The damper on her mood continued over the next several hours, with every collapsed farm and torched fishing cabin. There were no bodies left. Viv hoped most of them had been given the last rites but she knew the truth. A fresh batch of revenants was on its way to the deadlands. Two days later, they came across their first signs of human activity.
+
+“They are building a fortress there?”
+
+From flat and marshy, the land had grown more mountainous with deep forests defying the grasp of the dry season. A mountain range rose to the left, its peaks still white. The single pass now hosted a fortress crawling with activity, though they were so far Viv had to use a lens spell to spot anything.
+
+“This leads to Regnos,” the ship captain told her. “Jewel of Enoria, great iron deposits but…”
+
+“The battles?”
+
+He nodded somberly.
+
+“Yes. Place is cursed. Even some of the undead are staying and it’s crawling with aberrants. Lots of bad blood spilled with much hatred. Tends to make a lot of them. Place is wrecked anyway so ‘King Sangor’ decided it wasn’t a priority. Guess we won’t need much iron in the near future.”
+
+The captain spat over the railings. His tone clearly expressed what he thought of the civil war’s winner. Viv could hardly blame him. The two sides had fought viciously and it would take decades for the wounds to close.
+
+“Whole valley’s been evacuated. Now they’re closing the gate and throwing away the key.”
+
+Viv shrugged. Aberrants were not just dangerous, they resisted magic and could survive vast amounts of punishment. It would necessarily lead to casualties, ones Enoria could not afford. Aberrants were also stupid and lacked drive so it might be safe to just contain them. Maybe Viv should sell her services if she and Sangor ever ended up as allies. Something about leaving aberrants roaming just felt wrong to her.
+
+The ships continued north for another few days. Nature grew more arid around them while people returned. They sailed past orchards of golden fruits the Enorians used to make sweet wine and Viv was really looking for her next stop. It would be the end of the river trip. After that, the convoy would follow roads towards their destination, only crossing the Shal river on the way. While the sailors offloaded the ship, she led her people towards the large inn where they would spend the night. She was really looking forward to it after a week of travel food. The Harrakans crossed the town under the petrified gaze of civilians, stopping only when a pudgy Enorian wearing an apron rushed out to meet them.
+
+“Milady, forgive me, it’s…. it’s young master Ezus, the baron’s son. He and his… friends… they took over your quarters!”
+
+Viv froze in her steps. Even with withholding her aura, the innkeeper withered under her glare.
+
+“Explain.”
+
+“He… he came and declared precedence. My lady, they had weapons…”
+
+“Very well, innkeeper. Lead me to MY quarters.”
+
+“Immediately.”
+
+Viv expected the man to fear what must have been a local noble until she picked his vindictive smile. Whoever that Ezus man was, he must have pissed him off something fierce. As expected, the bank had rented a nice place, cozy, clean, and tastefully decorated with locally made statues and vases. A flute let out a merry jig that died off the moment Ban and Brick stomped their way through the common room in full battle gear. Members of The One Hundred were almost never seen outside of their armor.
+
+Viv heard raucous laughter at the end of the next corridor. The innkeeper stopped near the entrance.
+
+“We’ll handle it from here,” Viv said. “Ban, if you would?”
+
+“As you will.”
+
+The old bugger tried the door which was locked, an issue promptly solved by the vigorous application of an armored boot. A part of Viv thought ‘well there goes the caution’ but she had to admit Ban had style. He trampled his way in before standing to the side.
+
+“Hey!” A voice said, “This is…”
+
+Brick followed her boss in. More heavies filed in, then Viv.
+
+“...a private…”
+
+Viv gasped.
+
+The first room of the Harrakan private quarters could host at least forty guests around a massive central table. Others lined the wall, loaded with fruits, biscuits, cold cuts, and slices of cheese. Bottles of juice and fresh water waited by hearty clay mugs decorated with flowers. A veritable banquet awaited the guests and that was just the entrance: pickled vegetables, mashed tubers, pates and sausages fought with fresh bread arranged around lumps of yellow butter. A dozen absolute assholes splayed among the chairs, having liberally trounced their ways through several dishes in the most disruptive manner imaginable.
+
+Behind her, Rollo and his knights finished deploying so the little shits were surrounded and outnumbered. Sidjin came to stand by her side, staff plain in evidence.
+
+“...event,” a voice squeaked.
+
+But Viv could no longer listen, even as Solfis slithered in with a snarled chuckle. This was no laughing matter, oh no, this was a crime. Against good taste.
+
+The inn had made a favorite dessert, a sweet tart made of fresh permonn fruit. Whoever baked it had cut the small yellow fruits in half, then positioned them in an elegant spiral for optimal gustative and visual experience and some cunt had torn — TORN — a quarter away as if it were some post-binge margherita pizza.
+
+“Oh!”
+
+Her bottle of sweet wine was empty, a quarter of its content spilled over stained napkins.
+
+“OH!”
+
+Viv’s aura exploded. She didn’t care about the screams in the common room or the suddenly darker air. Pressure smashed into the whimpering shitstains like an avalanche. Her anchors swallowed the light.
+
+“You disgusting, pathetic, cockless wastes of offals, you insufferable mannerless little fuckwits. How could you drag your flea-ridden hides to MY LAIR and eat MY PRIZE with such wanton disrespect you abominable moonblood-licking beastling spawns. Your mothers would have thrown themselves off the balcony if they knew they’d see you revolting aberrant anal prolapses crawl out of their taints. I was going to go easy on you and throw you out on your asses but now you’ve done it. Ooooh you’ve done it.”
+
+She turned to Rollo and Ban, both matching her for incandescent outrage.
+
+“Make our guests comfortable,” she told her people.
+
+Viv turned away while both heavies and knights fell on the hapless idiots. The meaty sound of gauntlets impacting flesh soothed some of her anger. In the common room, a gaggle of people had gathered, including most of her support staff. The innkeeper looked distinctly uncomfortable though he recovered quickly.
+
+“Do you have a switch? A cane would work as well.”
+
+“We have a whip. For cornudons.”
+
+“That will do nicely. Fetch it for me please.”
+
+“Of course, dear guest. And, hmmm, the roast is about ready. We can bring the main course at your convenience.”
+
+“Give me, hmm, half an hour. And another bottle of that fine wine?”
+
+“Of course.”
+
+“And… they ate some of the tart.”
+
+“Goodmother Leni will bake another one, ma’am. Permonns are in season.”
+
+“Excellent.”
+
+Two minutes later, Viv had received not just the whip but also five freshly cut switches, two canes, a paddle, an enchanted cattle prod, an old sandal and a pair of cudgels (only slightly bloodstained). She was under the impression dear Ezus was not really appreciated. She decided to pick a switch and distributed the rest among her folks. For some reason, the knights snickered when Rollo picked the whip. She was absolutely certain she didn’t want to know why.
+
+That left the naked and bruised gaggle of idiots whimpering before her.
+
+“Right, where were we?”
+
+“My love?” Sidjin said with some disapproval.
+
+Viv frowned. Curse decorum. Those twats had it coming.
+
+“No need for a vulgar piece of wood. I have a spell for that.”
+
+“Oh.”
+
+***
+
+Baron Ezus the Elder stood before the Riverside Inn alongside a retinue of his best warriors in an attempt to save the life of his idiot son.
+
+This time, he’d decided to offend the ‘Great Black Whore’, though no one had dared call her that in a long while.
+
+It was a disaster. Unfortunately, it wasn’t one he could ignore. A bang on the door revealed Old Zev, the innkeeper, who bowed low. He wore the neutral expression of one attempting not to betray any emotions.
+
+“Mylord. Welcome to my abode.”
+
+“Where is my son?”
+
+“Ah, he…”
+
+//I will take it from here.
+
+A nightmarish frame of bones and malevolence emerged from the building like a spider from its cave. Ezus’ analysis skill activated before he could think. His instincts were screaming at him that even to a blade expert such as himself, the creature was excessively dangerous.
+
+[HKX-013 Strike Golem, designation: Solfis. Danger level: You may not.]
+
+That… had never happened before.
+
+“I am here for my son.”
+
+//Your child is currently enjoying our hospitality.
+
+//We will release him into your care… shortly.
+
+The voice was a snarl, a mocking one, the taunt clear despite a total lack of facial expressions.
+
+“I am the ruling lord here.”
+
+//Are you?
+
+The golem lowered its head until their eyes were level. It took quite some time.
+
+//Are you really the meatbag in control right now?
+
+Silence was the answer.
+
+//My mistress will give him back after she is done with them.
+
+//Be grateful that we are showing mercy for this audacious transgression.
+
+//My previous owners would have been… significantly more thorough.
+
+The promise of an exemplary death hung between them. The golem slunk back in, and Baron Ezus decided it might be better to wait.
+
+***
+
+In the pink light of dawn, the cobbled street led past a last bend of the road and gave a perfect vantage point to watch the sun rise over the continent’s oldest surviving city. Tall white walls protected an architectural mess where everything was allowed so long as it honored the gods. The extravagant spires of Old Enoria rivaled with the north’s golden cupolas, Baranese palaces and even, yes, Viv took a closer look.
+
+A ziggurat.
+
+“The Old Empire still lives here.”
+
+//No.
+
+//But we do.
+
+Guarding over the many temples and complexes, a tower of immense proportion stood in the center of the circle. It was different than the rest, more elaborate, and even at that distance Viv could feel the colorful sheen of divine mana. It was the shield array of the current Pantheon, and it had guarded the place since time immemorial.
+
+//This should be interesting.
+
+“Let’s not make it too interesting. I don’t want to be banned from every northern city I visit.”
+
+//I was thinking we could make it a contest.

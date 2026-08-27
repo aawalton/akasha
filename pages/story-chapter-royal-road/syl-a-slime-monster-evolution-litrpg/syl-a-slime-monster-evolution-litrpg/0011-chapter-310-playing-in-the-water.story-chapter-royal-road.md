@@ -1,0 +1,193 @@
+---
+id: fd836b97-6761-5aac-978f-b1a4e57af0b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 310 : Playing in the Water"
+slug: 0011-chapter-310-playing-in-the-water
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 11
+ownLength: 2284
+unit: words
+ownProgress: 2284
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2739545/chapter-310-playing-in-the-water"
+royalRoadId: "2739545"
+markedReadAt: "2026-06-29T19:42:08.378Z"
+---
+
+I promptly ate the monster fish, although during which Vee kept calling them "Bruce" and "Flipper" while trying to give a repeat performance of the whole Wiggles debacle.
+
+I can sort of understand the name Flipper, but why does she keep calling the other one Bruce? It makes zero sense!
+
+Still, they were evidently monsters on the verge of evolution, and their ferocity in attacking my tendrils in defense was evident. They didn't even cower in response to such superior force.
+
+When I finished up, Vee volunteered to scout the ramshackle town for anything useful while I browsed through my new profiles. I was really hoping for something good from these.
+
+The brinelings were effectively goblins with two rather underwhelming extra traits. One gave them a slimy skin that made them hard to capture, while the other allowed them to survive both underwater and on land. I was already superior in the slimy department, and I didn't even need to breathe, so both were useless.
+
+I was about to call it a total bust unless I wanted some webbed fingers and toes when I finally saw something in the often-neglected skills section. I rarely found anything here, as the only time it was populated was when the creature started with the skill or gained it through evolution.
+
+<[Aquatic Finesse] Adds systematic corrections to maneuvering while submerged, scaling with skill level. Including but not limited to personal swimming, mounted, or acrobatic. Additionally, it enables users to estimate their depth and direction towards the surface, aiding in the prevention of decompression sickness.>
+
+"Huh… this is almost a word-for-word copy of [Aerial Finesse]. Although it does have that extra line about depths and the surface. I wonder why that's important?"
+
+I must have been broadcasting telepathically rather than my own internal monologue, as soon Vee piped up, as she was still in range.
+
+"That's 'cause when you're deep underwater, you can lose track of which way is up. Or so I've heard. Still, this sounds pretty great for us. I wonder if there's a fusion skill between the two later on."
+
+"[Soul Finesse] doesn't really roll off the tongue."
+
+"Yeah, definitely not. It would probably be called [3D Maneuvering] or maybe [Space Finesse]?"
+
+"3D?"
+
+"I'll explain it later at dinner when I'm not searching through brineling trash. Along with why Bruce was an amazing name that you totally brushed past."
+
+I sighed and bought the skill before returning to my perusal through the various profiles.
+
+<Skill [Aquatic Finesse LV 1] obtained. Skill Points remaining: 10.>
+
+Not gonna lie, I was a little worried that it would be considered a sidegrade to [Aerial Finesse] and I'd need to trade one for the other. Maybe Vee was right, and there is a bigger skill down the line.
+
+With my new skill, I plopped myself into the water, adding some additional weight through [Metal Slime ]so I could actually sink. Almost immediately, I could tell the difference, not as great as when I combo'd [Aerial Finesse] and [Enchanted Wings] together, but still noticeable.
+
+I tried just swimming around as a slime, and found myself unconsciously correcting my maneuvers bit by bit. I drifted in the tide pool pulsing my body in uncertain rhythms. Each squeeze pushed me a little farther, though the occasional tide of the water carried me more than I had myself. I trailed my tendrils blindly, feeling the current tug and guide me as I learned the rhythm of moving on my own.
+
+"Wow, you've gone full jellyfish on me. What happened to turning into a shark or dolphin?" Vee asked.
+
+"Back already?" I asked in response.
+
+"It's been like… half an hour?"
+
+"Wait, what?"
+
+I was genuinely startled by that. I thought Vee was once again pulling my leg, but when I looked over at my neglected notifications, it appeared that some time had gone by.
+
+<Proficiency gained. [Aquatic Finesse LV 1] improved to [Aquatic Finesse LV 2].>
+
+"I guess I was in the zone," I replied honestly.
+
+"Works for me. If you level it up before me, then I can reap the benefits through [Companion Training]. Speaking of which, did you find anything else?"
+
+I had nearly forgotten my original goal and frantically searched through the shark and dolphin profiles, even asking my [Sub-Cores] to point out anything new. I wanted a quick answer rather than admit to Vee that I'd once again gotten distracted.
+
+"There's a rough hide skin trait, which causes friction damage. There's a variant on enhanced teeth that causes additional bleeding damage. There's a chemical sense… that they use to smell in the water?"
+
+"Yeah, they can smell blood in the water a mile away, or something like that," Vee chimed in.
+
+"The dolphin… has echolocation, and that's about it."
+
+"Oh, that might be really useful if you can learn how to use it."
+
+I wanted to frown. "It's a sense trait… meaning that I'd need to pay a point to buy it and then another point to fuse it with [Soul Sense]. Same with the chemical water-smelling one."
+
+"Oof. Maybe you can fuse them together at the same time and save a point?" Vee suggested.
+
+"That's actually a good idea. Then I could only pay one point."
+
+"Don't you mean three?"
+
+"No, I'll borrow the trait until I earn it naturally. I can't afford to waste trait points like that."
+
+"Sure… But don't you have over twenty?"
+
+"I'm down to sixteen."
+
+"Down to sixteen…" Vee repeated. "Really?"
+
+"I'm all in on class levels for now, remember? I got to make these sixteen points last. I want to uncap [Core Collective] and [Chimeric Mimicry] once they reach ten. Assuming I can."
+
+"Right… Right… Shit, that's a lot of points. I forgot they cost ten a pop. I might need to be picky and choosy… Definitely [Thread Mastery]."
+
+"Anyway, that's for future me to worry about," I replied. "So sadly, there was no [Enchanted Fins] trait, but hopefully that will change when we find a magical water monster."
+
+Using elongated tentacles, I pulled myself out of the water and joined Vee on the damp cave floor. I then shared [Aquatic Finesse] with her.
+
+Vee then gave her report on her findings. Most of what she found was junk, but she did find a few shiny baubles and even some gold coins. Judging by the large amount of debris they had scavenged, Vee speculated that they probably explored sunken wrecks with the occasional bit of piracy.
+
+"Heck, if I were them, I'd capsize boats and just claim the treasures from the deep. Not like they need the boat intact to get around," Vee said.
+
+I agreed with her assessment and raised the importance of our learning how to fight underwater. [Aquatic Finesse] was a good step in the right direction, but there were bound to be more nuances we'd discover.
+
+[Fire Magic] is definitely going to be put on the back burner.
+
+Vee then mentioned her biggest discovery—a map! Or at least that was what she assumed it was. It was horribly scrawled on a large plank of wood with scrimshaw that would make your eyes bleed, and it appeared to show the coast.
+
+I consulted my [Mapping] skill and nearly fell over when it updated to its new size. I even gained a level for my troubles.
+
+<Proficiency gained. [Mapping LV 5] improved to [Mapping LV 6].>
+
+I'd really travelled all around the world thanks to various teleportation incidents, and the jump from Kaerlin to Dhoggurum had been bad enough. Now adding the Feirelle Grove, Caelthal, the Carren Grove, and finally the Nyrelis Grove meant we'd basically been across the whole world.
+
+When I recovered from my mental overstimulation, I really had to praise the elves for what they'd managed to accomplish. Through Caelthal and its many waypoints, they could effectively access the entire world.
+
+Sure, they lack population numbers, but a small elite fighting force with an army of animals and plants that can show up instantly on your doorstep is terrifying. I'm glad we left on good terms with them, especially if Loreleia gets on the High Elf Council.
+
+Going back to my original idea, I compared the awful map to the revealed area thanks to [Mapping]. It required some creative interpretation, but some recognizable landmass shapes sealed the deal.
+
+"I think it is a map," I agreed. "But now the question is, what are these unknown symbols?"
+
+I pointed to a strange squiggle to the north of us on the coast, in the direction we were initially heading before we took this slight detour.
+
+"Maybe it's a port town?" Vee suggested.
+
+"Maybe," I cautiously agreed, not wanting to give it too much optimism. "What gives me doubt is look at this down here. That's clearly the Nyrelis elves, and it's marked entirely differently."
+
+"Well, elves are different from humans," Vee pointed out.
+
+"Obviously…" I groaned. "But to a bunch of water goblins? I'm pretty sure they'd treat humans and elves the same."
+
+"Well, I'm going to be cautiously optimistic," Vee replied. "Either we find a settlement and ask about mermen, or we just continue blindly heading north along the coastline. We could also explore the various other squiggles on this map, although those are out in the ocean."
+
+"It's certainly a possibility. Although I reckon we should increase our [Aquatic Finesse] levels a few times before we go too deep."
+
+"Speaking of which… are we going to explore the tunnel?" Vee asked, pointing to the natural exit for this cave.
+
+"Sure, might as well. I can try out being a dolphin for a bit."
+
+"Not the shark?"
+
+"I figured you'd want to avoid the sandpaper skin."
+
+"Good point! Plus, dolphins are cuter even if they are actually little murder machines in disguise."
+
+I chuckled to myself and jumped back into the water. This time, rather than behaving like a slimy jellyfish, I actually shapeshifted into a large dolphin. It took me a few moments to practice swimming around in the new form, but with [Aquatic Finesse] doing the heavy lifting, it didn't take me too long.
+
+Once I was done with my brief practice session, Vee vanished and suddenly appeared on my back, fastening herself to my dorsal fin.
+
+"To think I'd get my first dolphin ride as a spider…" she offhandedly commented.
+
+"Well, I hope you enjoy it."
+
+With a burst of speed, I headed towards the open tunnel. I had already borrowed [Echolocation] and [Chemoreception], the two new sensory traits available to me. The latter, I had to modify my dolphin a bit, as apparently, they actually lacked that ability.
+
+Guess I'm a shark dolphin now.
+
+Despite its fancy name, the latter was actually somewhat underwhelming in my opinion. If it couldn't be fused together with [Echolocation] in one go, I wouldn't waste the point on it.
+
+I had experienced the greatness of scents when I ran around as a wolf back in my early days, but this water smell was at the mercy of what the tides brought me. Sure, the same could be said about the wind and airborne scents, but that was disregarding the tracks left behind on the ground.
+
+[Echolocation], however, was terrific, although at first I wondered why it wasn't doing anything. It took me only a few dumb moments to realize that I needed to actually release a sound for it to work, and then the trait would interpret the returning echo for me.
+
+Using this newly borrowed trait allowed me to easily navigate through the underwater tunnel, which actually had a few hidden twists and turns. The way they were created led me to believe they were artificially created by the brinelings, possibly to trick any invaders trying to find their lair.
+
+Obviously, I could have used [Spatial Sense], but this was more fun at the moment, and I wanted to unlock the trait for myself. Meanwhile, Vee was laughing and cheering as I sped through the waters. She was gawking at the various corals and other underwater plants growing throughout this long and windy path.
+
+"We're nearing the exit. Hold on, I'm going to pick up speed," I warned her.
+
+"Oh, trust me, it would take more than an earthquake to unfasten me from my seat," she giggled back.
+
+The exit to the cave was actually concealed by a large amount of kelp, and, judging our present location with [Mapping], I noted we were actually quite far off from the coast.
+
+I surged through the coral and out into the open waters. Vee was cackling like a madwoman and urging me to go faster and breach the water.
+
+I did my best with what I had available as I headed to the top. [Aquatic Finesse] was doing its best, and I hoped I could properly fulfill her wish once I got my tentacles on something like [Enchanted Fins].
+
+It didn't take long for me to breach the water, attempting my best leap, while Vee continued to cheer and celebrate. I splashed back down into the water clumsily, lacking the dolphin instincts and skill levels to do better at the moment.
+
+"Well, that was an absolute blast," she giggled. "Although I think that's enough excitement for one day. I reckon we should head back to the beach for now and continue along the coast."
+
+"You don't want me to swim there as a dolphin?"
+
+"I'd rather take some time to settle our new skills, to be honest. I need to do some testing with this whole Veilstrider thing, not to mention get some levels in [Aquatic Finesse] myself."
+
+I agreed and began swimming us back to shore. Our little detour ended up being quite the surprise for both of us.

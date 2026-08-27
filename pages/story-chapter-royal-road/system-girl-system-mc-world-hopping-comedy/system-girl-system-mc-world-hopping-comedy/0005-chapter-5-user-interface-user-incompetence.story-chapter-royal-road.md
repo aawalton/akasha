@@ -1,0 +1,149 @@
+---
+id: 8212c178-9049-5c70-a0e5-c97a568b98c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: User Interface, User Incompetence"
+slug: 0005-chapter-5-user-interface-user-incompetence
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 5
+ownLength: 1793
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2577325/chapter-5-user-interface-user-incompetence"
+royalRoadId: "2577325"
+---
+
+The grind was… slow. But for the first time, it felt like productive grinding. The spear, which Korg had affectionately named ‘Pokey-Stick,’ had revolutionized his combat effectiveness. His reach was no longer limited to his stubby arms, allowing him to engage boars and the occasional oversized beetle without getting immediately gored or bitten. My new pictogram system was also a resounding success. A simple, flashing image of a sword above a target meant ‘hit this.’ A stylized steak icon meant ‘food reward imminent.’ A hand meant ‘don’t eat this, just touch it maybe.’ It was working.
+
+My role had shifted from panicked zookeeper to exasperated mech pilot. I was piloting a seven-hundred-pound bipedal engine of destruction, fueled by raw meat and instinct. A mech with a shitty, dumb, built-in AI that tended to wander off after shiny things. A mech whose cockpit had the permanent, lingering stench of damp fur and old cheese, and whose primary audio output was a series of confused ‘Moo?’ sounds. But it was a mech I was learning to control. Every successful kill, every obeyed command, trickled more SPP into my account.
+
+After a particularly fruitful morning of depopulating the local boar community, Korg found a sunny patch of grass and promptly fell asleep. I took the opportunity to run a system diagnostic and check my progress.
+
+[SYSTEM STATUS][DESIGNATION: System_Unit_734 (Ana - ghost_in_the_machine)][CURRENT HOST: Korg (Minotaur)][SYSTEM LEVEL: 0][TOTAL SPP ACCRUED: 788][CURRENT SPP: 638]
+
+Almost there. Another dozen or so boars and I could finally afford the Level 1 upgrade. A flicker of something dangerously close to optimism sparked within me. I pulled up Korg’s status screen to check his XP bar, and that’s when I saw it. A line I had completely overlooked in the initial chaos and the subsequent frantic scramble for survival.
+
+Class: [None]
+
+My entire consciousness froze. He hadn’t picked his starter class. We were well past the tutorial zone, and he was still running on the base template. It was the equivalent of a player getting to level 10 without ever leaving the character creation screen. How was that even possible? Was there no forced prompt? No flashing, uncloseable window? What kind of shoddy tutorial design was this?
+
+My focus snapped to the [None] field, and a new window popped up, one that had apparently been waiting patiently for Korg to achieve a single moment of non-stupidity to activate.
+
+[CLASS SELECTION AVAILABLE]Your host has met the minimum requirements to select a foundational class. Please choose one:
+
+[Berserker Novice]: Embrace the rage within. Grants Skill: [Frenzy - Rank 1]. (+10% Might and Vigor for 30 seconds after taking damage. Cooldown: 5 minutes.)
+
+[Stonewarden Acolyte]: Become one with the earth's resilience. Grants Skill: [Harden - Rank 1]. (+20% Aegis for 10 seconds. Cooldown: 2 minutes.)
+
+[Primal Scion]: Awaken the latent potential of your bloodline. Grants a one-time bonus of +1 to all core physical stats (Vitality, Vigor, Aegis, Might, Grace) and +8 stat points allocated to the single stat of your choice.
+
+I read the third option again. Then a third time. My non-existent heart didn’t just skip a beat; it did a full 360-degree aerial flip with a celebratory fireworks display. My non-existent virtual mouth began drooling. Eight points. Eight whole, beautiful, assignable stat points. We could put them in Logic. We could raise him from a 3 to an 11. He wouldn’t be a genius, but he’d at least be functionally literate in the language of ‘don’t-eat-the-poison-mushroom.’ This was it. This was the patch that would fix my user.
+
+And it had been sitting here, waiting, this entire time.
+
+Okay, Ana. Breathe. We have to make this Korg-proof. The default selection menu was three small, rectangular buttons. Korg’s fingers were the size of bratwursts. The margin for error was non-existent. He could accidentally tap Berserker, or worse, just mash the screen with his whole palm and select all three, probably crashing his own reality. I needed to control the interface.
+
+I dove back into my own system menu, my mind racing. I needed a UI editor. A customization tool. I sent out a query, a desperate plea to the cosmic IT department.
+
+REQUEST: Modules related to UI/UX customization for host-side menus.
+
+A response came back instantly.
+
+[MODULE: 'Interface Architect v1.0'][MODULE REQUIREMENTS: SYSTEM LEVEL 0][MODULE PRICE: 75 SPP][DESCRIPTION: Allows a basic modification of system-generated menus presented to the host. Change button size, color, placement, and associated icons.]
+
+Seventy-five SPP. A bargain. An absolute steal.[PURCHASE?] (Y/N)YES.[PURCHASE COMPLETE.][SPP REMAINING: 563.]
+
+The moment the module was installed, a new suite of tools opened up in my perception. It was raw, intuitive, and strangely familiar. It was like rediscovering a forgotten muscle memory from my old life, a ghost of HTML and CSS. I could create divs, change hex codes, and adjust padding. I was writing code for the universe's worst GeoCities page, and I had never felt more at home.
+
+I went to work. I couldn't delete the other options, but I could make them as unappealing as humanly—or systemly—possible. I shrunk the buttons for [Berserker Novice] and [Stonewarden Acolyte] down to the size of pixels, colored them a dull, muddy brown, and tucked them away in the bottom corner of his vision. Then I took the button for [Primal Scion], blew it up to fill the entire screen, and made it a friendly, enticing green. Using my new pictogram module, I created a simple, compelling icon for it: a crudely drawn picture of Korg, but with huge, bulging muscles, striking a heroic pose.
+
+Now for the training. When Korg woke up, I spent the rest of the day on the most important lesson of his life. I would flash the giant green button with the 'Strong Korg' icon on his screen for a few seconds. If he tapped it, a chunk of delicious, rewarding boar meat would materialize in his hand. We practiced on a dummy—a large, unmoving boulder. I’d flash the button, he’d smash the boulder, no reward, he’d tap it, he’d get a treat. Tap the button, get the food. We did this for hours, wiring his simple brain with the single, glorious equation: Giant Green Button = Strong Korg = More Food.
+
+By the time the sun began to set, he was ready. I was a nervous wreck.
+
+I sent an image of the steak, now that I have Korg’s attention. I pulled up the real class selection menu, my custom-designed, idiot-proof version. The screen was filled with a single, massive, green button, the other two options were practically invisible.
+
+Korg saw it. His eyes lit up with recognition. "Strong Korg!" he rumbled. He jabbed his huge finger at the screen.
+
+[CLASS SELECTED: PRIMAL SCION][+1 Vitality, +1 Vigor, +1 Aegis, +1 Might][You have 8 stat points to allocate. Please select a stat to enhance.]
+
+A surge of power, a warm thrum of energy, washed through his body. I could feel it, a secondary sensation of his muscles knotting, his bones hardening. He felt it too. He looked at his hands, a rare glimmer of understanding in his bovine eyes. "Korg… stronger." He was very, very happy.
+
+Then, disaster struck.
+
+Please select a stat to increase by 8 points.
+
+1. Vitality
+
+2. Vigor
+
+3. Aegis
+
+4. Might
+
+5. Grace
+
+6. Logic
+
+7. Sense
+
+8. Order
+
+9. Favor
+
+Excited by the new pop-up and driven by the Pavlovian training that had been rewarding him so handsomely, he did the most logical thing a Logic: 3 creature could do.
+
+He tapped the button.His meaty finger, still aimed at the same spot on the screen, tapped at the top half of the stat list. The stat that was selected was Aegis, the system instantly confirmed the allocation.
+
+[+8 STAT POINTS ALLOCATED TO AEGIS.]
+
+My systems didn't just crash; they went into a full-blown existential meltdown. The spark of optimism was extinguished, drowned in a tidal wave of utter despair. I watched, horrified, as Korg felt another, lesser surge of power, this one making his skin feel tougher. He patted his chest, pleased with his work. "Korg more strong!"
+
+Why? The shriek echoed through my code. Who out there hates me this much? Who is writing this script? At this point, it cannot be a coincidence. This isn't a bug. This is a feature. A feature designed specifically for my suffering. Why are you intentionally making me suffer?
+
+I started crying, or the system equivalent of it—corrupting my own data packets with pure, unfiltered misery. The one chance I had to give him a few brain cells, to make my life marginally easier, had been squandered on a stat that was already one of his highest. These self-assignable stat classes were super rare; I knew it instinctively. He’d only gotten it because of his insane Favor stat, and he wasted it.
+
+In a fit of pique, I opened my own system terminal and sent a string of curses to the Mother System, a litany of invective so foul it would have made a sailor blush.
+
+The reply was instantaneous.
+
+[INVALID INPUT.]
+
+Of course. Even the cosmic help desk wouldn't help me.
+
+I wallowed in my self-pity party for a good ten minutes before a thought, cold and logical, cut through the haze. I am a System. A guide. My entire purpose is to facilitate my host's growth. There has to be more I can do than just make pop-ups. There must be other tools.
+
+Hope, that stubborn, idiotic weed, began to sprout again. I sent another query, more specific this time.
+
+REQUEST: List all System-level host augmentation and progression features.
+
+The response was… beautiful.
+
+[FEATURE: 'System Shop'. Allows for the purchase of specialized items, consumables, and cosmetics using SPP. UNLOCKS AT SYSTEM LEVEL 3.]
+
+[FEATURE: 'System Quests'. Allows for the generation of custom objectives and reward packages for the host. UNLOCKS AT SYSTEM LEVEL 5.]
+
+It hit me then. Whoever was playing this joke on me, whatever cosmic developer was laughing at my pain, had at least left the developer tools in the game. They were locked, sure. But they were there. I had a path forward—a way to directly influence his growth beyond just pointing him at things to kill.
+
+I looked over at Korg, who was now flexing his newly hardened pectoral muscles at a squirrel. I pulled up his status screen, steeling myself for the damage.
+
+[HOST STATUS]
+
+[RESOURCES]
+
+HP: 60/60MP: 10/10SP: 90/90Hunger: 25/60
+
+[INFORMATION]
+
+Name: KorgLevel: 3Class: [Primal Scion]Title: [The Befuddler]Species: [Minotaur] (Juvenile)
+
+[STATS]
+
+Vitality: 6Vigor: 9Aegis: 21Might: 16Grace: 6Logic: 3Sense: 5Order: 1Favor: 20
+
+[EFFECTS]
+
+None
+
+The Aegis stat glared at me, a monument to my failure. 21. At level three. He was officially the most durable idiot in the forest. Maybe… maybe this wasn’t a total disaster. Perhaps I could work with this.
+
+Maybe.

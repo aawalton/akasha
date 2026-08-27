@@ -1,0 +1,135 @@
+---
+id: 6b1b9c80-9971-5d5e-a418-1ca45d8d8d08
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-SEVEN: Here-to-There XVII"
+slug: 0239-two-hundred-thirty-seven-here-to-there-xvii
+partOf: super-supportive
+position: 239
+ownLength: 1972
+unit: words
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2510638/two-hundred-thirty-seven-here-to-there-xvii"
+royalRoadId: "2510638"
+---
+
+Executioner Vill-ma was a younger woman than Alden had expected, with a prominent forehead and eyes that were almost fuchsia. She met them at the door, wearing the burgundy and black robes of her office and a pair of hair decorations that looked like they were made of something’s vertebra. Her greeting was an ominous warning to eject any lies they might be thinking of telling from their bodies before they approached one who had long studied the offspring of retribution and mercy.
+
+And then she had them spit three times on the blade of a heated knife before she let them inside.
+
+This is the second time a wizard’s made me spit on something in a matter of days.
+
+The ritual with the knife made Alden expect the whole executioner experience to be formal and gravely serious, but as soon as the knife was sheathed and handed off to one of two assistants standing beyond the door, Vill-ma became much more casual.
+
+With Stuart anyway. She seemed inclined to pretend Alden didn’t exist unless she was asking him a direct question and he was answering it.
+
+It wasn’t his favorite way to be treated, but it might have been for the best, under the circumstances. He found Vill-ma unsettling, and he wasn’t sure how much of that was her fault and how much was his nerves about what they were all doing here.
+
+The executioner’s tone was warmly educational as she poured wevvi into two cups and encouraged Stuart to examine a black ring engraved with the logogram for death. This was the ring all executioners who’d finished their training were given. It cut wizards’ heads off. Hers had only severed one so far. You couldn’t even use it to slice melons, only necks! Such a pity.
+
+Did Stu-art’h want extra spice in his wevvi? Maybe just a tiny pinch? Goodness, she hoped he wouldn’t mind saying hello to her son. He was in the courtyard with his tutor. The boy was much too young to know who the Primary was, but when he was a little older, the story of meeting Stu-art’h would be a good one to tell him.
+
+After going on like that for a while, she finished garnishing the drink, then passed Stuart a cup and took the other for herself.
+
+[Don’t complain, please,] Alden texted when he saw Stuart stiffen at the realization that the two cups hadn’t been meant for both of them as her guests. [I doubt she’s trying to offend me, and I don’t want to drink boiling artificial wevvi when I’m hot.]
+
+Stuart turned a look of protest his way.
+
+“But the law enforcement official wearing a magical headsman’s axe on her finger needs to know what I think of her terrible wevvi manners right this second.” Or something like that. That’s definitely what he’s thinking.
+
+Stuart refrained from saying anything, though, and sipped his wevvi while the executioner led them through the house. She praised Stuart for being a student at LeafSong and for being a young person who turned to the law rather than trying to manage another wizard by himself. In the courtyard, they met her son, who was kneeling on a cushion and learning to read with his tutor. He was quite a bit more interested in the presence of an alien than in the Primary’s son, and as they left, Alden was treated to the sound of a small voice urgently asking the instructor, “What do humans do?”
+
+From there, she took them to see a collection of recordings of infamous criminals. They were arranged on shelves alongside the recordings of the investigators, subduers, and executioners who’d dealt with them. While the three of them stood beside a table that held the records for someone who’d blown up a building, Stuart explained what Olget-ovekondo had done in careful detail and described the evidence they had. Alden confirmed everything he could confirm…and told himself that letting Kibby blow up a building was not a crime that would ever end up in this woman’s library.
+
+Vill-ma listened, her dark pink eyes bright. “You explain it so clearly! Just like the report you sent on your way here. You should consider pursuing the path of an investigator, if executioner isn’t to your liking. I don’t see why a votary can’t do it.”
+
+It wasn’t the first time she’d tried to recruit Stuart. She seemed passionate about her job.
+
+“We will have our honesty verified if you or the accused requests it,” Stuart said. “And we are both familiar with a healer from whom an even deeper verification could not be denied, if that much becomes necessary.”
+
+That was what they’d agreed to say in the car, although Alden was reserving the right to change his mind if it went that far. Stuart seemed to think it wouldn’t.
+
+“I doubt either will be required,” Vill-ma said. “If the person has done what you say and they haven’t somehow forgotten it. Once I remind the guilty that demanding every sort of verification and delay they can think of will make their sentence harsher, they usually develop the sort of good judgement that would have prevented our meeting in the first place.”
+
+She hummed. “I’ve heard enough to be satisfied that the accused should be called to speak. Are you ready to do it?”
+
+Alden swallowed.
+
+“Yes,” Stuart said.
+
+******
+
+“Stars above and oontsies below.” Executioner Vill-ma was amused. “Is this one not going to answer an official call?”
+
+Standing behind her and Stuart in the library of recordings, waiting for the moment when he would say his piece as a witness, Alden was just trying not to fidget. All kinds of thoughts he hadn’t expected were flooding his head as the minutes passed and Olget-ovekondo failed to answer.
+
+Was Olget staring at the call notice, frozen in horror?
+
+Was he crying with the siblings who’d tried to get him out of Stuart’s sight in a hurry so that this kind of thing wouldn’t happen?
+
+Was he furious? Screaming about the unfairness of it all? Cursing humanity and knights, breaking dishes, desperately searching for excuses…
+
+What if this ruined Tass-ovekondo’s life?
+
+What if they let this go, and Olget went on ruining other peoples’ lives without consequence?
+
+When the man finally, finally, did answer the executioner’s call, Alden let out a huge sigh that probably made him sound like an impatient asshole. But the broken tension was that strong.
+
+“Hello,” Olget said, a single bead of sweat running down one side of his thin nose. “Hello…I…”
+
+His brother was beside him. The grip he had on Olget’s shoulder looked like it had to be painful, and his face was cold.
+
+“Hello,” said Olget-ovekondo, “for what reason is an executioner calling me?”
+
+“Olget-ovekondo, I greet you,” Executioner Vill-ma said. “And when I greet you in person, you will spit on my knife. For you have been accused of crimes against your path and our people, and I have heard these accusations and been swayed by them. If the ones who accuse you do so with knowing falsehood, I shall make sure they repay you for it ninefold or more, and I shall bow my head before you in apology.
+
+“But if you have done wrong, I call down to you from the Higher Steps of Recompense. Come to me, and admit your crimes, and I will help you live a life worthy of a wizard again. Run from me, and I will send stronger wizards to subdue you. Hide truths from me, and I will send clever investigators to find them. The guilty will pay for their crimes, and they will pay again for denying them.
+
+“This is what you have been accused of, and these are the two who accuse you. It has been said that you used magic recklessly, casting a spell through the homes of people of the ordinary class with harmful purpose. Is it so?”
+
+“I, Sina Stu-art’h, a votary wizard of the First Rapport, have said it is so.”
+
+“I, Alden Thorn, an Avowed of Earth, have said it is so.”
+
+They waited. Olget trembled.
+
+“You may answer me at my house,” Executioner Vill-ma said easily after a short while had passed. “It has been said that you broke a wand—”
+
+“It belongs to my mother! She wouldn’t want me to be—”
+
+“—that you broke a bound wand in the care of a member of the ordinary class, with reason to believe that such an act would obligate that person and her family to serve your own family for many years in attempted repayment. Is it so?”
+
+“I, Sina Stu-art’h, have said it is so.”
+
+“I, Alden Thorn, have said…”
+
+The call ended with Olget-ovekondo offering nothing more than stammers and a second bead of sweat. Vill-ma granted him a period of time to think, around an hour and a half long. He would be teleported to her home then to answer in person.
+
+If he didn’t agree to the teleport, a subduer would be sent to collect him.
+
+******
+
+“I always teleport criminals directly into the courtyard,” said the executioner, as she led the way upstairs and onto the courtyard’s balcony level. “He won’t be able to hear anything we say to each other up here if we step back from the edge a single pace. And I believe the fresh air and the view of the sky should inspire people toward truthfulness.”
+
+Vill-ma’s two household servants seemed to be prescient. If private matters were being discussed, they vanished. Whenever a new room was entered, one of them was just leaving with a piece of clutter in hand. Now they were both on the balcony, the woman trimming a final dead leaf from one of the vines that trailed down the railing into the courtyard below while the man put fresh cushions on the wide brown rocking chairs.
+
+Two chairs were positioned side-by-side, waiting with a table of more wevvi and fresh fruit slices between them.
+
+Alden was confident now that Vill-ma just had a wrong, but understandable, impression of what he was here for. If Alden was Stuart’s bodyguard, even a decorative one, then he should stand and pretend to watch for threats. If he was Stuart’s summoned Rabbit helper, then he should stand around waiting for Stuart to need something.
+
+What else would an Avowed be doing traveling with a young wizard? Stuart hadn’t given her the, “This is my soon-friend,” speech. They had other things on their plate, and it seemed like a lot to get into for little benefit.
+
+Got it. I’ll just stand in the shade, and try not to sweat like—
+
+A chair from the other side of the balcony lifted and glided over to join the pair with the snacks. It settled there gently, and Stuart tucked the wand that he always seemed to use for levitation back into his belt. Executioner Vill-ma paused in the middle of a sentence about how she’d love to discuss Stuart’s professors if he was interested in her opinion on some of them.
+
+She recovered with a blink, and an eye landed on Alden. “Would the Avowed like a cup of wevvi?”
+
+“I’m sure he’d prefer something chilled,” Stuart said. “And take the chair closest to the house, Alden. The sunlight will strike the balcony before we’re done here, and this is a very hot place for a human.”
+
+They all sat. Alden took the chair closest to the house, as well as a slice of cold, yellow fruit that Stuart pointed out as a particular delicacy.
+
+Vill-ma asked if he liked it.
+
+Alden said he did. And Stuart nodded to himself, as if to say all was now right with the world, while they waited for the accused to make his in-person appearance.
+
+******

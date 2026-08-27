@@ -1,0 +1,445 @@
+---
+id: 656bcefb-203b-516e-aafd-9733fd1f22d8
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIX: Herdcreatures IV"
+slug: 0208-two-hundred-six-herdcreatures-iv
+partOf: super-supportive
+position: 208
+ownLength: 5797
+unit: words
+publishedAt: 2025-03-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2107285/two-hundred-six-herdcreatures-iv"
+royalRoadId: "2107285"
+---
+
+206
+
+******
+
+Standing on a beach as the tide came in, but so much darker than that. The roiling substance that was not water, that was not substance, the threat—it pulled the sand from beneath your feet, pressed against you, promised that you would learn you were only a more stubborn grain. The erosion would eventually take you, too.
+
+The artist had painted that.
+
+And shadows. Lifeforms that had been stubborn in their own ways were now broken, the chaos bleeding from the fractures between what should have, could have been and what was and was changing.
+
+Alden’s body gasped for him, and finally, he could see the picture clearly, though there was a thin quality to it. Like if he looked too hard he’d pop it, and the experience of chaos that hid beneath its surface would pour over him once more.
+
+What he saw was a barren, red place. A desert, with a hill in the distance in the form of a single burgundy roll crossing the width of the painting.
+
+The shards of slick, translucent gray material that seemed to dig into the paint in some places and float above it in others were demons. They hadn’t been given any features, but Alden somehow knew it. Whether they were a symbolic or realistic representation of what had been in the place didn’t matter to him. What mattered as his eyes focused on the center of the painting was the knight who stood there beside a single, stalky plant.
+
+It was taller than the man was, but it was only brown sticks. It should have looked dead to Alden. It didn’t.
+
+That’s alive. It’s right. There are no demons in that spot.
+
+The knight had been painted from such a distance that the landscape around him was oppressive. And as Alden stared at him, the pop happened. The impression of chaos hit him again and then ended just as abruptly, leaving his attention so fully on the knight that it was like the rest of the landscape ceased to exist.
+
+The man stood in a place of safety. The air was somehow clearer there, and the ground had something mossy growing on it. He’d hung a small wooden lantern from one of the stalks, and his hand cradled the tip of another, where some pale fluff hung. Seed or visiting creature—the painting didn’t tell Alden that. But it did make him feel like he was standing right there.
+
+The knight’s coat was only lightly studded with designs on the sleeves. The green fabric was repaired at the waist in the same way Stuart had repaired Alden’s suitcase, with a patch that seemed to melt into the cloth at the edges. His hair was a tight brown braid; both of his pink eyes were looking out of the painting into the darkness.
+
+He was waiting.
+
+He was tired.
+
+Alden felt the way the chaos couldn’t touch this place because of the knight, and as the distance between them increased again, he was powerfully struck by the existence of that plant and the lantern. That tiny patch of life in the middle of so much wrongness.
+
+It was so important, and he couldn’t pull his eyes away from it…because what if it disappeared?
+
+The painting held him there like his witness was required. He didn’t resist, and he wasn’t released. Not until a pair of hands covered his eyes from behind.
+
+What? Who?
+
+Disoriented, he tried to turn to see the person who’d done it before their hands were even pulled away, and he ended up bumping his bag full of Stuart’s journals into two other people who’d been standing so close that there wasn’t a single step between them and him.
+
+Crap. Library. People. Several people. Books I shouldn’t have been reading.
+
+The hands disappeared.
+
+“He’s well! Look how well he is! So there’s no need to call Instructor Rel-art’h. Everyone go back to enjoying your study, please.”
+
+“Quinyeth! I just said not to cover his eyes. What if he—?”
+
+“Human, can you speak?”
+
+“Alden. His name is Alden. I told you thrice.”
+
+“Alden, are you damaged?”
+
+“His mind is probably damaged. He wasn’t aware of us at all. He might still not be aware. His features are tainted by obvious distress.”
+
+“Hush! He’s just not speaking because you’re talking so much.”
+
+“I’m all right! Can I have some space?” Alden said to the chattering group of six Artonans who surrounded him.
+
+The one who’d covered his eyes and declared him well was Quinyeth. In her outfit with the wooly cape, she might have looked more put-together and official than the other students, who were all dressed differently from her and from each other in what must have been their casual weekend preferences. But since they were all shooting her looks with one or two eyes and sighing, the impression was ruined.
+
+“I am well,” Alden insisted more firmly, holding his bag under his arm, afraid he’d bump into one of them again and the fabric would split open, spilling journals all over the place. Because that was reasonable. “The art here is very good. I was appreciating it.”
+
+“I told you!” Quinyet said, sounding confident but looking relieved as everyone finally took a step back from him. The sprout of hair sticking up from her clip waved merrily. “Alden was enjoying himself.”
+
+“He was enjoying himself too much if he didn’t notice us calling out to him and poking him,” said one.
+
+They were poking me?
+
+“Who enjoys the paintings up here?” said another.
+
+“He said appreciating. Quinyeth-wit said enjoying.”
+
+How long was I standing here? Alden wondered.
+
+“Again, I think we must call Instructor Rel-art’h. Even if Avowed Alden has now been <<forcefully denied>> interaction with the painting.”
+
+The one who’d spoken was a boy who Alden guessed might be the future knight Quinyeth had gone to greet. He was the only one other than her who hadn’t been in the library when Alden last looked down over the railing.
+
+Is he a Rel-art’h fan?
+
+It was only a judgmental leap, based on the facts that he wanted to call the instructor and he wore two clips in his long purple-black hair in the exact same style Rel-art’h favored. They weren’t jeweled, but they were identical in shape.
+
+“I’m very well.” Alden tried to look bright and healthy and like he hadn’t let himself be glued to a painting for an unknown length of time. “Hn’tyon Rel-art’h is a busy person.”
+
+Who already gave me behavior notes once and seems like the kind of involved teacher and older brother who’d definitely lecture me for half a day on how to avoid being all human in front of the artwork.
+
+And that was the best of the likely outcomes. Alden didn’t want Stuart to get the lecture in his place.
+
+“I’ll let him know I appreciated this—” He pointed toward the painting, careful not to look at it except through his peripheral vision. “—when I see him again. Probably soon. I think Stu and I are going back to his house soon.”
+
+“Not too soon, I hope,” said a girl. “They’ve only just gotten a chance to talk to him after so long, and Noh cares so much about him. I’m sure she’ll think of the right thing to…”
+
+She trailed off, turning one eye to the boy who wanted to call Rel-art’h and blinking the other at Alden.
+
+“He’s enjoying the morning with those he hasn’t seen since he went to his preferred university,” the boy said.
+
+“I can’t imagine Stu at LeafSong, even after this much time,” one of them said. “Do you think he’s all right at the kinds of parties they have?”
+
+“Of course he’s not. The rumors I’ve—”
+
+“Of course this Avowed who has just had a frightening experience doesn’t need to hear us gossip about other wizards,” the Rel-art’h impersonator said.
+
+He’s about two sentences away from me deciding I don’t like him much.
+
+“That’s right!” Quinyeth chimed in. “He doesn’t need to hear about LeafSong. Nobody needs to call anybody. Asay doesn’t need to worry; he needs to sit down and have productive study time in our quiet and peaceful library that is so safe for humans. Alden will come with me.”
+
+She looked like she really wanted Alden to come with her, away from all this talk of tattling to a faculty member.
+
+Asay, thought Alden, the name familiar. Asay-tor. Sent away with Noh-en for showing too much emotion that day in the snow. All grown up and becoming a knight himself now, if I haven’t misunderstood who he is.
+
+Strange how that day was so much more recent to Alden than to the people who had actually lived through it.
+
+And through others after it, he reminded himself.
+
+Asay-tor gave Quinyeth what must have been the fiftieth look she’d gotten since Alden had regained his senses. “You’re not going to get in trouble,” he said patiently.
+
+What about me? Am I going to get in trouble? Alden wanted to ask. Is Stuart? What if Rel-art’h checks my bag and finds a bunch of journals on magical topics that haven’t been spread around widely on Earth? Is there a Privacy of the School tattoo to go with Privacy of the House? And how irate will Stuart be if they have another tattooing of the guest fight here and now?
+
+“She’s definitely going to get in trouble if you tell on her, Asay-tor,” the other girl said. “She left an Avowed alone in the top library without even warning him about the paintings.”
+
+“I knew how this kind of painting worked,” Alden volunteered. “I don’t think you should blame Quinyeth for that. And I think you should trust me to know if I need to speak to someone or not. I’m capable of making decisions about my own wellbeing.”
+
+He positioned the shoulder with the commendation on it toward Asay-tor on the pretext of turning to address the group. “This painting was just…so good. Now I know to bring someone with me if I want to look at ones that aren’t made especially for my species. Quinyeth, let’s go so that my presence isn’t a distraction for these students. I don’t know all of your names, but thank you for your worry and poking.”
+
+His mouth might be saying, “Let me go,” but internally, he was wishing that they’d all go away for two minutes so that he could put the journals back.
+
+They didn’t. Instead, he got belated introductions to everyone. Asay-tor introduced himself as Declared Asay-tor, which confirmed Alden’s earlier assumption that the Declared title referred to someone who’d made the choice to become a knight but hadn’t yet had their first affixation. Asay-tor talked less stiffly once it was decided by the majority of the others that Alden wasn’t in need of help and that no harm had been done.
+
+One of them thought he must be the first human ever to set foot in the Rapport school. Another was curious about how he knew Stuart well enough to be a family-approved guest. And though that was the most obvious thing for them to wonder, Alden was completely unprepared with clever answers.
+
+He said, “We met at LeafSong, and we’ve been staying in touch since I was rescued by the Quaternary.” Then he tried to be vague when they asked follow-ups.
+
+It was like he’d shown puppies he was hiding bacon in his pockets. They sensed a story. He couldn’t come up with any non-bacony responses when they pried, and they pried a lot before he finally made an inelegant escape by telling Quinyeth he needed a tour of the nearest bathroom.
+
+I’ve almost forgotten the mishnen isn’t common knowledge.
+
+Stuart’s whole family seemed to know.
+
+The Primary said he would appreciate me not telling, and I know Stuart would appreciate me not telling. I guess when this comes up I need to imply we met in his lab class and hit it off or something? Alden left the bathroom and found Quinyeth waiting in an alcove just down the hallway.
+
+“I thought we could see some of the classrooms next,” she said. “Would you like that?”
+
+“Is Stuart still busy?”
+
+“They finished with the bokabv, and he decided to help Gilor and others prepare materials for one of the guest instructors who’ll be coming this week.”
+
+Alden wondered if that meant the reunion was going better than he’d feared it would after seeing the journals. He hoped so.
+
+I should probably forget about our original plans and just go with the flow so he doesn’t feel pressured on my behalf.
+
+“I wouldn’t mind seeing more of the school.”
+
+It would be the reverse of the tour he’d given Esh-erdi, he realized with amusement. Like the universe was balancing itself out.One Artonan tours human high school; one human tours Artonan Rapport School.
+
+He was looking forward to seeing more of it.
+
+“I am sorry about the painting,” Quinyeth said. “When Asay and I came in and they were all trying to gently call your attention away from it so that you wouldn’t experience a shock, I was afraid I’d made a horrible mistake with Stu’s new companion.”
+
+She started down the hall, and Alden moved to walk beside her.
+
+“I can take the blame for that myself. I should have known to be careful of the paintings.” It must be similar to the way he was so susceptible to the inward path at Yenu-pezth’s House of Healing. “I’ve had experience with getting pulled in by things like that before.”
+
+They were walking past a window blazing with sunlight, and Alden had to squint to see her properly. The hallway beneath their feet transitioned smoothly from wood to grass for a couple of steps, then back. It was a feature Alden didn’t see a reason for unless it was aesthetics or a need to have ground element here on the upper floors.
+
+“Did you really like it?” she asked. “The paintings up there…I love them.”
+
+“I did like it. Not in a simple way like I like warm sun or good food, but it felt like an important thing to see.”
+
+“The chaos wasn’t too much?”
+
+“It wasn’t real chaos,” Alden said. There had been enough distance and enough difference that it didn’t give him flashbacks to his own time in a world stripped and altered by corruption, thank goodness. It was like the painting, or its creator, knew exactly how to control the effect so the meaning wasn’t lost in the horror.
+
+“I only started accessing the top library this year. If I could stare at them as hard as you were, I would,” Quinyeth said. “Our knights…it’s wonderful to see people I know choosing to place their hands and feet where the knights who came before did. I knew Asay would choose it before he ever said it. I don’t know what it will feel like on the day when I see him painted in that way, but I know it will happen.”
+
+If you’re so stoked that some of your classmates are making the choice, then why won’t you respect Stuart’s?
+
+Alden was still angry about the skill research journal with the blank comment page. It was hard to forget about it when he was carrying it farther and farther from the shelf it belonged on with every step he took. Maybe he wasn’t picking up on every detail that made things the way they were, but he couldn’t imagine how Stuart could have experienced his old school friends ignoring that one journal as anything but a slap every time he checked it for replies.
+
+Luckily, before he asked Quinyeth that question in what would no doubt have been a challenging tone, his better judgement caught his tongue, and he picked up on what she’d just said.
+
+Only accessed that library this year…plus Stuart was surprised she’d chosen votary already. And Noh-en made the comment about her doing it as soon as she wouldn’t look silly for rushing.
+
+Quinyeth was younger than Stuart, Noh-en, and Asay-tor. Maybe by a significant enough amount that they had never even shared classes. And she hadn’t had reason or time to read a graduate’s journal, as far as Alden knew.
+
+Don’t group her in with the gokoratches. She’s a nice person who was excited to show off her vanilla candle from Earth.
+
+“You want to be Asay-tor’s votary,” he said. “How did you decide that? And is it something that’s sure-sure once he’s a knight? How does everything flow now that you’ve both made your choices?”
+
+“We don’t have an obligation to each other,” she answered. “I can still change my mind about how I want to serve the needs of the Rapports, and of course a knight can always decide not to have a votary dedicated to them. Asay’s been my older sibling in behavior for years, though, so we know each other well. I’m not brave enough to do what he’s doing, but by deciding early that I’ll help him, I’ll make some of his troubles fade. He can choose his courses of study with confidence that I’ll make up for any lack. He can tell me all his secrets, and I’ll keep them eternally. He hasn’t told me any yet, but he could.
+
+“And don’t tell him this part because it’s a surprise—I’m doing everything necessary to qualify to go on his first mission as a casting assistant! I only have to convince everyone I’m ready, and I’m sure I can.”
+
+“That sounds brave to me,” said Alden.
+
+“It’s not brave if you’re not fearful.” Quinyeth turned her head to look at his commendation. “As you know. I like your pezyva. Who embroidered your honor upon it?”
+
+Alden told her about Tuck and Yinuo.
+
+“Human Ryeh-b’ts, like you.” She started down a staircase Alden recognized from their trip up earlier. It was on an exterior wall, and the windows overlooked the grounds. Alden could see the bokabv down there, with no company other than her interesting stick.
+
+“You’re the first human any of us in the library had ever seen close enough to talk to.”
+
+“Sorry if I’m not the most wonderful representative.”
+
+“Stu must think you are! If it’s not rude of me to ask, when are you going to grow your face hair?”
+
+Alden laughed. “I’m already growing it, but there’s not enough of it yet to look good. I shave it off. When my beard is fuller I’ll probably try it to see if I like it.”
+
+“Beard,” Quinyeth said.
+
+She definitely just added that to her English vocabulary list.
+
+“Is there a ceremony when you decide there’s enough hair for a good beard?”
+
+“Not in my culture. Maybe somewhere. I don’t know. There should be.”
+
+I’m the first human any of them have ever seen up close.
+
+That wasn’t surprising in one way. Humans were a fraction of the Avowed population, and they weren’t a big fraction. But in another way, it didn’t match with the impression he’d gotten at LeafSong, on Anesidora, and with all the wizards currently staying at Matadero.
+
+Maybe I’m always running into human enthusiasts just because I’m human.
+
+“A lot of the art’hs hadn’t met one of us until I visited either.”
+
+He was trying to work out how to ask, “If you Rapport kids are all so curious, why don’t the adults just summon one of us for you to meet?” without it sounding off.
+
+Quinyeth didn’t give him time.
+
+“Earth was such a controversial resource world. Even some of the Rapportfolk who summon Avowed very casually won’t call your people unless their service is <<irreplaceable>>. It’s changing, but Rapport I changes more slowly, I think. The first thing Asay asked when I told him you were here was whether or not I was sure you were a human! Like I might have been confused about it after walking with you all over the school.” She trailed her hand through the fringe on the bottom of a tapestry as they left the stairs behind. “He was so surprised that he asked that before he even wanted to know about Stu finally coming back. Asay thinks Instructor Rel-art’h is hinting that he hopes we’ll include his brother in the beauties and traditions of school votary service. Do you think that’s what the instructor wants? Did he say anything to you about it? The duty list says Stu will be here tomorrow, too. So we have time to plan something special.”
+
+Alden’s burning interest in why Earth was so controversial was dampened by the question about Stuart. Quinyeth was asking so sincerely, like it was obvious to her that Stuart’s personal guest would be onboard with a plan to fill his life with special votary service moments. It threw him off-balance.
+
+“Um… ”
+
+She’s just asking if Stuart wants to do votary traditions with them. Maybe he would under certain circumstances. Maybe it’s gone well with Noh-en and the others, and he’d love to now.
+
+But he was totally going to run away from them all earlier.
+
+And there was the assumption that Rel-art’h was giving them all hidden signals through their chore list, of all things.
+
+It feels like she’s scheming against Stuart without realizing she’s scheming against him.
+
+The messenger bag on his shoulder felt heavier than it had a moment ago.
+
+Deciding what to say was hard.
+
+“Stu is very sure he wants to be a knight,” he said. “He hasn’t changed his mind. Maybe he would enjoy spending time with you all and experiencing the traditions with you, but I think he would be hurt if you only included him in something special for the wrong reason.”
+
+She stopped and faced him, so he stopped, too.
+
+“Do you think their reasons are bad?”
+
+“I don’t know what all the reasons are,” Alden said slowly. “But if Stu-art’h knows them and disagrees with them…”
+
+Quinyeth rose up onto her toes and then went back down again a couple of times, her expression thoughtful. “Asay says if he had Stu’s place in the way of things, he wouldn’t let his feelings deafen him to the call of better service.”
+
+“Better service?”
+
+“Stu-art’h’s life is his father’s <<centermost joy>>. Normally, I wouldn’t say so about a person with siblings, but even his siblings say it openly. And then there is all of their love for him. And Hn’tyon Alis-art’h’s. If Stu is wrong, he risks more than himself. More than most people who choose the path of highest onus.”
+
+When Alden didn’t answer quickly, she hurried to add. “I think about it from my own perspective, too! There are no knights in my family, but I have Asay to consider. I know for sure I’ll be able to carry the role of votary, so even if I do love the paintings…and imagine sometimes…trying what I’m not sure I can do would be too selfish. Wouldn’t it?”
+
+She looked like she was really hoping for an answer.
+
+“I don’t know,” said Alden. “But Stu is sure. And the Primary gave his permission.”
+
+Only after his son got his foot chomped and his leg exploded while hanging out with people committing a criminal act. What was the Primary thinking?
+
+“Declared Asay-tor probably made the most thoughtful choice for himself during his own choosing season,” he said. “I doubt he had time to choose more properly for Declared Stu-art’h than Declared Stu-art’h could. So.”
+
+He gave her a friendly smile because he didn’t want her to feel like he was mad at her. She seemed more like the gokoratches’ kid sister, who’d jumped the gun on her own choosing season a little bit if she was confiding hints of wistfulness in the outsider she’d just met today. “I’m not sure what Hn’tyon Rel-art’h thinks, but the bokabv is something Stu requested for me. I needed to see one for my mind healing. I hope the instructor only wanted to do a fun thing for the children at this school while he was helping me anyway. My respect for him will be profoundly diminished if he used his brother’s kindness toward me to manipulate him into a situation that makes him unhappy.”
+
+Quinyeth gasped.
+
+Probably the word Alden had used for “profoundly” was too strong.
+
+Claiming I’ll lose respect for a knight is kind of wild actually, he admitted to himself. Rel-art’h would have to be heinous for him to actually stop respecting his sacrifices, and so far, all the guy had done was get him a herdcreature and possibly nudge his little brother and his little brother’s former friends together, using Alden as an excuse. Well, I said it, so let’s not backtrack on it when I’m trying to make a point.
+
+“Thank you for offering to show me the classrooms. It sounds fun, and I enjoyed visiting your room and smelling the candle and meeting you. But I want to go see Stu now. If he’s busy, I don’t mind watching and waiting.”
+
+He made it three steps down the hall before Quinyeth was chasing after him, her words tumbling over themselves as she tried to simultaneously tell him that she would lead the way to Stu and that Instructor Rel-art’h was a beacon of forthrightness and worthiness and she couldn’t believe she had said something that suggested in the smallest way that he might be capable of respect-diminishing plots.
+
+By the time they made it outside, Alden felt like he owed her a cup of hot chocolate for her nerves.
+
+She tried to direct him toward the hillside stairs, but he shook his head and pointed toward the back wall of the courtyard. “He’s that way.”
+
+She blinked. “Let me send a message. They were all supposed to be at—”
+
+“I know the way,” Alden said. “I can target him. It’s part of my skill.”
+
+He could feel Stuart in that direction.
+
+[Hello. I’m coming your way,] he texted. [If you don’t want me to, shout or send a spell or glare at me when I arrive.]
+
+It was absurd that he could run around the Rapport and sleep in the same cottage as Stuart, but Stuart still couldn’t text him back without impersonating Evul. He didn’t have the I-am-Evul tablet with him here as far as Alden knew.
+
+No shouts or spells came, so Alden climbed up the root-festooned courtyard wall and headed uphill. It was almost too steep for the first few steps, but it became more manageable.
+
+“I’ll leave,” Quinyeth said suddenly from behind him. “Noh says I should.”
+
+He looked back at her. She was just standing there on a hummock that was half root, half soil. Watching him hopefully. He wondered if she wanted him to give her permission to stay. It seems equally likely that she wants me to tell her I changed my mind about Rel-art’h.
+
+“Do you want a piece of fruit from Earth?” he asked. “The next time I come I could bring you one. Or maybe honey. Bees make it.”
+
+“Yes!” she exclaimed. “Yes! I will have a gift for you, too!”
+
+He watched her go, then sent a message to remind himself to buy honey.
+
+Only a couple of minutes later, he and Stuart found each other under one of the trees.
+
+Ah, they got him in the whole outfit, Alden thought, taking in the sight of the wooly cape and the long skirt-like layer that split in the front to reveal the pants. It was a cool looking uniform.
+
+“I’m sorry our plans were interrupted.” Stuart spoke with unmistakably false cheer. “I hope you enjoyed the bokabv. And the school. I’m glad you got to see the interior. It’s an important part of the Rapport, and I…”
+
+Alden let the Primary’s son ramble until the purple faded from his ears. Then he said, “I accidentally ate swimmers that are poisonous for my liver, and I looked into a painting in the top library that I couldn’t escape from on my own, and I upset Quinyeth by telling her that I would have diminished respect for Rel-art’h if he used my bokabv to make your life harder.”
+
+Stuart stared at him.
+
+Alden smiled.
+
+“You ate something poisonous to you?”
+
+“That was the smallest mistake of the morning. The Contract said I didn’t eat too much. I feel fine.”
+
+“Poison is not a small mistake, Alden.”
+
+“It was, it was. Did you hear about how I insulted your brother?”
+
+“Rel’s feelings are less important than your liver. I should have been more watchful! After you ate that jar of oil—”
+
+“Shhhhh. The oil was embarrassing.”
+
+They were still staring at each other. Stuart had a real smile fighting its way through the fake one he’d been wearing just a moment ago.
+
+“Was it all right?” Alden asked. “Seeing the people you used to spend so much time with? Or should we have run to hide in the woods?”
+
+“It was shitty,” Stuart said. “They were very happy to see me, and I have missed them, and it was shitty.”
+
+Alden nodded. “Are we leaving?”
+
+“Yes,” Stuart said fervently.
+
+The messenger bag weighed about a hundred pounds now.
+
+“Good. But first…I really did make a mistake. I hope you won’t be angry.”
+
+“If it was a mistake, of course I won’t,” Stuart said. “We will not be friends who lose our affection for each other because of mistakes, will we?”
+
+Oh no. He’s making me want to tell him even less.
+
+“I don’t intend to be that kind of friend. Let me explain. I know I wasn’t supposed to be reading in the library at the top of the tower.”
+
+Stuart’s brows lifted. “If you speak of proper discretion, I think you weren’t supposed to be in that library at all.”
+
+“Right. You’re right. But I wanted to be there, so I didn’t tell Quinyeth no when she took me. I even said, ‘Yes, please take me there. I want to go.’ And I found some books. Upstairs.”
+
+“Those aren’t books.”
+
+“No. But they had writing in them, and I was interested in them. And I was looking at some of them when someone started talking about how there was a human in the library. I was afraid they were going to be upset when they found me reading up there, so I panicked and put the ones I was looking at in my bag.”
+
+Stuart’s eyes turned to the bag. “You took <<study journals>>?”
+
+Alden winced. “I panicked,” he repeated. “I wouldn’t have done it if I’d had thoughts in my head other than panic. Can I blame this on being human? If I could split my thoughts, part of me could have panicked and another part of me could have been calm and responsible.”
+
+“Only if you had a medical problem,” Stuart disagreed. “That’s not how fear is supposed to affect an Artonan.”
+
+Alden sighed. “I know.”
+
+Stuart was still looking at the bag.
+
+“This is not <<unmanageable>>,” he said. “First, you’ll tell me what you read. If it’s so serious that the idea of being caught reading it gave you intense fear, then it may be something we have to cover with a contract. Next, I’ll return the study journals to the library. After that, I can schedule meetings between you and the students who wrote the journals.”
+
+“Meetings?”
+
+“For you to apologize to them,” Stuart said matter of factly. “I’ll apologize to them, too.”
+
+Oh my sweet echoing klerms, he’s so non-casual about this! Is it because I committed an offense against educational materials? It is, isn’t it?
+
+“Here!” Alden said, hastily opening his bag and grabbing the journals. “And here.”
+
+He shoved his hand into his pezyva’s hidden pocket. “I only took…seven. I’m sorry. I read the first couple of pages of each and then all of the comments people wrote in the backs. Then I got caught by the painting.”
+
+He held them out toward Stuart, who was looking down at the stack with widening eyes. The silver swoop on top of the first pale purple cover glimmered.
+
+“But these are all mine?” He sounded unreasonably confused about it.
+
+“I recognized the color. It’s the same as your auriad, so they were easy to find. But then I couldn’t put them all back quickly—”
+
+“That’s because you took so many.”
+
+“I apologize. I was interested in them.”
+
+Stuart looked up from the stack at last. “Why?”
+
+“Because they’re yours. And I know you.”
+
+“You said you read the pages at the back.”
+
+“I wanted to find out what school here was like for you.”
+
+That’s so nosey of me, he thought. Why am I confessing to snooping through his past? I’m as bad as Haoyu eavesdropping and then telling everyone about it.
+
+“And as I said that, I realized how nosey it is. Is there an Artonan word for nosey? I’m that. And I’m very sorry. I won’t take seven of your notebooks from the top library again without permission.”
+
+Stuart smiled and took the stack from him. “Did you like the first pages of my thoughts for the studies?” he asked. “Since you read those.”
+
+He’s not mad?
+
+“I did. The teleportation one looks like it would be fascinating if I knew all the other sources of information you referenced. And the one about skills…I could tell you were working hard to figure yourself out. You were finding your way toward Maker of Narrow Ways, weren’t you? I imagined you taking your time to find the perfect skill for yourself. One rooted in concepts of connection, even though it severs. It’s very meaningful to see a record of that.”
+
+Stuart held the stack of journals to his chest. “I was doing that. Thank you.”
+
+Alden waited for him to say something else. He kind of expected it to be something about not eating poison or not picking up manuscripts in the first place if you were afraid of being caught with them.
+
+“Let’s go take some more things from the school,” Stuart said.
+
+“What?”
+
+“It’s important to have others acknowledge your strength and determination, isn’t it? I respect yours. There are rings here I can use to create much more realistic demon-like effects with my casting. I think we should use them to train you this afternoon.”
+
+“Is this a reward for my mistake?”
+
+“No. I just want to give you my sincere best, since we are learning partners of a sort today.”
+
+He strode down the hill toward the school. It took him a while to realize Alden hadn’t followed right after him. Rust-colored eyes turned back questioningly.
+
+“I’m coming! Thank you. I’ll do my sincere best, too.”
+
+******

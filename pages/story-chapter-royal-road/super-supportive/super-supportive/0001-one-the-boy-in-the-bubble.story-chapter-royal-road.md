@@ -1,0 +1,151 @@
+---
+id: 393648ad-1f14-5dee-aceb-9ea396116ea3
+page-type-slug: story-chapter-royal-road
+title: "ONE: The Boy in the Bubble"
+slug: 0001-one-the-boy-in-the-bubble
+partOf: super-supportive
+position: 1
+ownLength: 1573
+unit: words
+publishedAt: 2023-01-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1096481/one-the-boy-in-the-bubble"
+royalRoadId: "1096481"
+---
+
+He woke to the taste of blood and the agony of a sharp, terrifying pain. His ears rang. His head pounded. His bare chest was pressed to the carpet his parents had installed in their new apartment just a week ago.
+
+It still smelled funny. Gluey and artificial.
+
+“Daddy!” he screamed. “Momma!”
+
+Blood fell from his mouth onto the carpet. One of his arms was caught under his body, and he couldn’t move it. Something had pierced the side of his stomach. It hurt.
+
+It hurt so much.
+
+He called again for his parents. But his own voice sounded weird. Distant.
+
+On the floor all around him, shards of glass sparkled in the orange glow of his nightlight. There was wind in the room. The window must have broken, but he couldn’t see it from here.
+
+He looked around as best he could and spotted Wummy, plump and smiling, lying beside him. The stuffed wombat was half hidden by a comforter that had spilled over the side of the bed.
+
+Sobbing, he reached for Wummy with his good arm and grabbed him by the ear. Beneath them, the building shook. A fire alarm began to shriek.
+
+Suddenly, there was a deep thoom of sound. The boy felt an awful pain in his ears as the world exploded around him. Something—someone—blasted through the exterior wall of his bedroom. The ceiling crumbled. Chunks of concrete flew through the air like cannonballs.
+
+With his face pressed to the floor, the boy didn’t see any of it.
+
+But he felt small pieces of rubble hitting his back. Then, he felt a crushing, smothering weight as the mattress from his bed landed on top of him. Pain from whatever was stabbing into his side shot through him, making every muscle spasm.
+
+He screamed as loud as he could. In response, he heard nothing but a terrible rushing noise and an endless high-pitched whine.
+
+Something heavy landed on the mattress. The air was pressed from his lungs. He couldn’t breathe.
+
+I’m going to die. I’m going to die. Help.
+
+Dying was painful.
+
+It was dark.
+
+He wanted his mother. He wanted…
+
+###
+
+Light.
+
+The boy didn’t know what had happened. Maybe he had passed out. Maybe he’d been struck on the head, and his memories were having a hard time sticking. The only thing he knew for sure was that he was awake now, and there was light all around him. A semi-transparent globe of it encased him, glittering like a bubble full of silver stars.
+
+He was suspended inside the bubble, his body frozen. He tried to twitch his fingers or turn his head. But his mind was the only part of him that could still move, and it seemed to be moving more sluggishly than it should.
+
+There was no pain. He couldn’t even blink, but his eyes didn’t feel dry.
+
+He and the bubble slowly spun in place. And that place was…where was he?
+
+There was so much wreckage in the room that he only gradually recognized it as his own. A gaping hole in the wall looked out onto the ruin of a building. The night was full of smoke, dust, and flashes of red and white light.
+
+Firetruck lights, he thought.
+
+There was a station near their apartment. He loved to watch the trucks pass by on the street below.
+
+“It is exciting, bud,” his father always said. “But remember to say a prayer for the people they’re going to help.”
+
+His father was a pastor. His mother had just gotten a job as a nurse in the Artonan House of Healing. The son of a pastor and a consecrated nurse was supposed to say prayers for all kinds of things. It was important, but sometimes he forgot.
+
+Dear God, he thought now, as the bubble slowly rotated. I think something bad is happening. Please keep me and my family and Wummy safe. Please be with the firemen and don’t let them get burned. Please take care of the people the firemen are going to help.
+
+Amen.
+
+Next, an Artonan wordchain to call good fortune from other worlds. He only knew a few of them, and he only knew them in English. Most people said that was useless, but his mother’s boss said no faithful intention went completely unrewarded.
+
+My heart calls out to another in good faith. Spare me your luck under tonight’s moons, and tomorrow I will spare you an equal portion of mine.
+
+Frozen in place as he was, he couldn’t make the accompanying hand gesture. Hopefully it would still help.
+
+As his bubble continued to spin, more of the broken world around him came into view.
+
+He could see through one of his bedroom walls into the apartment’s main living area. There was a band of destruction through the center of the room. The wood flooring was ripped up and splintered. The sofa was turned on its side beside the breakfast counter that separated the kitchen from the den. The coffee table was missing.
+
+The front door was missing, too, along with part of the surrounding wall. Through the gap, he could see the hall. Dim emergency light strips near the ceiling illuminated a neighbor’s door. Dark liquid was spattered across the pale paint and the shiny brass number plate.
+
+The boy knew something was very wrong. He remembered his own terror. But his fear was almost as muffled as his pain now, and he felt only curiosity and a faint unease as more and more of the disaster was revealed.
+
+There were strange people in his room. Two of them.
+
+No. Three.
+
+They were against the wall, beside the small bookcase he and his mother had decorated with animal stickers on the day they moved in.
+
+First, he noticed their clothes. The woman, her brown hair braided around her head like a crown, wore combat boots and what looked like a blue motorcycle jacket that sparkled with the unmistakable glitter of real magic. She crouched beside a seated man with black hair and a sculpted beard. He was dressed in an armored bodysuit in the same shade of dark blue.
+
+No visible magic sparkled over him, but a sigil was emblazoned into the suit’s chest.
+
+They’re superheroes, thought the boy. Real ones.
+
+Excitement stirred inside him for the briefest instant before stilling.
+
+The man was weeping and shaking his head, staring down at the palms of his trembling hands as if they didn’t belong to him. The woman reached out toward him, biting her lip. He jerked away.
+
+On the floor at their feet, the third stranger lay still. He was a teenager, the boy thought, though it was hard to tell in flashing lights. He wore a black hoodie, and his pale face stared up at the ceiling, unblinking.
+
+Is he frozen like me?
+
+But no. The person in the hoodie wasn’t inside a silvery bubble. He was sprawled across the carpet, and as more of his body came into view, the boy saw that it had been ripped nearly in half.
+
+Horror rose, filling him, only to drain away as if someone had pulled a plug.
+
+The man gestured toward the dead body, his face agonized. His mouth opened wide, as if he were shouting. But inside the bubble, there was no sound.
+
+The woman looked toward the body, too. Her face was serious and sad. She reached over and gently shut the dead boy’s eyes.
+
+She closed her own and said something.
+
+Maybe she's praying, too.
+
+Then, she stood. As she did, she glanced up and looked at the boy in the bubble. Their eyes met. She seemed startled and upset for a moment before taking a deep breath and hurrying toward him, smiling broadly.
+
+It’s a fake smile, he thought.
+
+It was the smile adults used when they were trying to convince you that something wasn’t as bad as it really was. The one they wore before they gave you shots at the doctor’s office.
+
+The smiling woman positioned herself between him and the dead body, then she pulled a small pad of paper and a marker out of her jacket. She wrote something and held it up for him to read. The print was clear and large.
+
+DON’T BE AFRAID. WE ARE HERE TO HELP YOU.
+
+She gave him plenty of time to read it, then she wrote on a new page.
+
+MY NAME IS HANNAH. MY FRIEND IS ARJUN.
+
+He was faintly disappointed they had real names. Lots of superheroes used code names but not all of them.
+
+I WILL COVER YOUR BUBBLE. THEN WE WILL TAKE YOU TO A SAFE PLACE.
+
+My name’s Alden, he thought. What place? Where are my parents? Will they be there?
+
+But he had no way of speaking.
+
+Hannah gave Alden another strained smile and a thumbs up. Then, she bent down to the floor. She popped back up a moment later holding Wummy. She unzipped her jacket part way and made a show of carefully tucking the wombat inside before zipping it back up so that his smiling face peeked out just under her chin.
+
+She gave the bubble another thumbs up.
+
+Alden caught a glimpse of Arjun and the nameless dead boy as she bent again. The superhero’s face was hidden by one shaking hand. Then a blanket—Alden's own comforter, stained with blood—was tossed over the whole silver bubble.
+
+And he couldn’t see anything anymore.

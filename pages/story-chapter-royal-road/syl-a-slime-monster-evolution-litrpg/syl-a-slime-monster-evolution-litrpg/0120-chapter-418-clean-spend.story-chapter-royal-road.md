@@ -1,0 +1,171 @@
+---
+id: 4a0dbd0f-9187-5050-bd37-723329ed5c49
+page-type-slug: story-chapter-royal-road
+title: "Chapter 418 : Clean Spend"
+slug: 0120-chapter-418-clean-spend
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 120
+ownLength: 2878
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3841908/chapter-418-clean-spend"
+royalRoadId: "3841908"
+---
+
+After chuckling at my self-proclaimed philosophical moment, it was finally time to test out my newly acquired skill. The first thing I did was confirm that I hadn't lost the ability to cast any of my spells, which was a big relief. If "no system assistance" meant I had to relearn everything from scratch, I would have declared an eternal vendetta upon Mother for leading me astray.
+
+Other than confirming that all my old stuff worked, I also noted that manipulating Mana itself was smoother, more responsive, more efficient, and more flexible. Usually, I had to be very precise with my manipulation, or I risked the construct collapsing and suffering a backlash of Manaburn. Now, though, I had much more leeway before everything fell apart, and I was slapped across the slime core.
+
+Next came mixing more than one type of Mana together, something that had originally been improved upon by [Mana Weaving] up until [Chaotic Elements] and then [Elemental Praxis] threw that benefit out of the window. As expected, I wasn't noticing any difference when working with the elemental Mana, as it had effectively become my toy even when I wasn't currently assigned my Elementalist class.
+
+Thankfully, I had plenty more to try out, but I decided to start simple by mixing an element with a non-element. I had plenty of neglected magic types to work with, but considering I was receiving a boost to my [Dimension Magic], it was the obvious choice. Previously, dimensional Mana hadn't played nicely with anything, so I was quite curious if now I had the tools to solve that.
+
+[Fire Magic] was my obvious choice, and I took the trusty [Fireball] as the spell to manipulate. My plan was simple: flying through the air was so inefficient and lame, so this new variant should teleport to its target instead. My first attempts were bad, just like all my previous failures to control this unruly Mana. It really was like a bad child that refused to play with others; however, eventually, like disciplining a spoiled, rotten child, it started to behave.
+
+Is this what it means to exert my dominion over Mana?
+
+Not too long after that, I had actually successfully made the spell. All in all, it didn't even take me half a day, something I hadn't expected to achieve so quickly, even though [Fireball] was such a simple spell. That was how difficult past attempts had been, although admittedly, I hadn't really tried it since becoming a Riftmancer.
+
+Visually, the spell was extremely enticing: I would conjure a burning ball of flame, and then it would vanish from my palm, only to reappear in the distance and explode into a mighty conflagration.
+
+Of course, this effect could've been replicated by simply casting outside of my aura, something that wasn't exactly a risk for me now that I had [Mana Dominion], as I assumed not many could beat me in a struggle for control over a spell. However, that was only true if I was teleporting within visual range.
+
+To confirm my theory, I found a remote location, obtained the coordinates, and teleported back home. Then I cast my teleporting fireball using that location, sending the spell off a tremendous distance to detonate. I went back myself and found the area scorched, proving that now all I needed were coordinates to attack at any range.
+
+"Admittedly, this is kind of dangerous… Combined with [Map], I could quite literally be a disaster. The worst part is, what could they even do to stop me? I could be hiding in another continent entirely…"
+
+I shuddered a little, although this at least proved that I was definitely unaffected by the dreaded evolution madness. If I had succumbed to such dark desires, I would have bombarded the various locations on my [Map] and reaped the experience.
+
+"Is this why I was poisoned? Gramps said it was my older brother being jealous, but maybe he had some nudging from outside parties. Previously, I had only considered logistics, teleporting troops and supplies around, but being able to attack at any distance changes the game entirely…"
+
+Keldenar had openly admitted he wanted to pick Dimensional affinity, but he didn't have the points, so he settled on Golemancer. Seeing everything he could do, I couldn't understand why it had been priced higher, except for the class restrictions Golemancer imposed, which might have resulted in a discount, so to speak. Again, it kind of made sense now.
+
+To think I got this for only four trait points… If anyone found out, I might get in some trouble.
+
+Obviously, I knew it wasn't just trait points; it was a leftover from my previous life. Whether intentional or not, Gramps hadn't entirely gotten rid of it, and apparently, it was too late to remove it, so he'd just locked it.
+
+Or maybe he could've, but Mother intervened? I don't know if I'll ever find out the truth, not that it really matters, since all I care about is that I have it now.
+
+Getting back to magic, now that I only needed coordinates to attack it, really made me want to focus on a previous idea I had: a spell version of [Triangulate]. If I could calculate dimensional coordinates on the fly, then my flexibility would skyrocket. Of course, in theory, that was only needed if it was outside the range of my [Personal Rift], as if I combined that with [Spatial Sense], I had all the coordinates I needed.
+
+However! That's assuming I'm not leaving a [Rift Beacon] behind. It takes half of my rift no matter what, so I can't always expect to have such a large area around me to work with. My ideal spell version of [Triangulate] would solve that.
+
+What I was imagining was two different solutions: the first being a spell component that could be fitted into spells and would automatically calculate the correct coordinates. The second solution was something kind of like [Map], where you could cast it and maintain it, and it would spit out coordinates for things you needed. The idea for the second option was to assign that spell to a [Sub-Core] and have coordinates for everything.
+
+The second option is better in the long run, as the first would need me to modify every spell in the future to include it. Not to mention, I don't know if it's even possible. The complexity alone might make any spell construct too unstable to even form.
+
+Naturally, I also tried tinkering with [Identify] a bit more, but I found the improvements from [Mana Dominion] to be less obvious. Perhaps I didn't know enough about "system magic" to enforce my will upon it, but at the very least, it didn't collapse as often.
+
+The last thing I tried out was something I had practically forgotten I even had: [Mana Reinforcement]. This trait back in the day was how I tried to get around my slime being too weak to physically affect things, but that no longer was the case. [Chimeric Mimicry] had allowed me to copy actual parts and use them, but now, thanks to [Slime Mastery], my slime was strong enough without even needing to copy something beforehand. Not to mention [Primordial Slime], well, [Metal Slime] specifically, which granted me access to hardiness like never before.
+
+That's not to say I abandoned [Mana Reinforcement] entirely, as it wouldn't have reached its current level if I had. I still kept it permanently active on my cores, as you could never have too much defense. From what I understood, [Chimeric Mimicry] would also kind of "passively" use it, but again, this was something I had paid basically no attention to. Effectively, I had abandoned, no, delegated the responsibility to [Sub-Cores] and other traits to handle.
+
+If not for [Mana Dominion] making me relook at everything I had that contained the word "Mana" in my profile, I honestly wouldn't have looked at it. Still, I was curious to see if it had improved as a result, hence why I brought it up and started playing around with it.
+
+I was currently in my slime elf form, and I reinforced the Mana in my arm before punching a rock, effectively pulverizing it. Considering elves received no bonuses to strength, and I wasn't borrowing any traits or actively using [Slime Mastery] to boost myself, it was a rather impressive display.
+
+"Okay, it's definitely better than before…"
+
+If I had thought [Mana Dominion] let me control my spell constructs better, that benefit was magnified tremendously to Mana within my own body. I could reinforce a single toe if I wanted, and to rather extreme levels than previously. What also helped was that, effectively, I was Mana thanks to [Mana Slime], and so I didn't even need to really conjure up Mana before being able to reinforce an area.
+
+What this meant was that I could instantly use [Mana Reinforcement] when needed, which granted wasn't that big of a deal. I had the Mana to keep everything reinforced permanently if I wished, so it seemed pointless. And then, as if to spit in my eye, I received what must have been the most pointless notification ever.
+
+<Proficiency gained. [Mana Reinforcement LV 9] improved to [Mana Reinforcement LV MAX].>
+
+"I'm not spending ten points to uncap you."
+
+Obviously, this sudden level up was spurred by my newfound control over my Mana and pushing it past its previous limits, as the proficiency bonus for perfection was known to be quite generous. Still, this really felt like someone was mocking me, as I couldn't have felt more apathy over what would've otherwise been an accomplishment if it had been almost any other trait.
+
+I wonder…
+
+Using [Mana Dominion], I started to circulate my Mana faster and faster, something that came almost effortlessly to me. Other than stupid amounts of Mana, I hadn't noticed anything special from [Mana Slime] since it was incorporated into the superior [Primordial Slime] and uncapped, but perhaps this was one of the unknown benefits I had gained. As my Mana circulated faster and faster, swelling higher and higher, I received another notification.
+
+<Proficiency gained. [Mana Circulation LV 9] improved to [Mana Circulation LV MAX].>
+
+"You two were always close to each other in levels, so it makes sense. Still though… Do I even need these anymore?"
+
+I sighed again. These two traits that I used to value so highly seemed pointless now that I had [Mana Dominion] working together with [Mana Slime], or at least that was what I assumed. I couldn't shake the feeling that if they had been skills, I would've gotten the offer to refund them as well.
+
+At this point, they should just be combined into [Mana Slime] or [Soul Mastery] or something. I'm never going to touch them otherwise.
+
+I even checked, and it would've cost me a whopping five trait points per deduction attempt, something I would never do. If I could've substituted skill points, I might have considered it, but this was downright robbery.
+
+Next, I tried to see if I could fuse them together, which didn't work, so I then tried to combine them into [Soul Mastery] since that was at least loosely related to Mana. That also failed, and so I took the off chance that I could maybe incorporate them into [Primordial Slime].
+
+I want these to combine with [Mana Slime]. It's not unreasonable, right? I'm basically made of Mana, and since it's uncapped, it deserves the upgrade. Come on…
+
+I wasn't expecting a result for arguing my case, but I figured it was worth a shot rather than leaving these two traits to gather more dust than they had already. If they could at least find some use somewhere, it would be better than their current situation.
+
+<Do you wish to incorporate [Mana Infusion], [Mana Circulation LV MAX], and [Mana Reinforcement LV MAX] into [Mana Slime]? This will cost 1 Legend Point.>
+
+I had not been expecting a prompt, so I nearly jumped out of my skin when it appeared. Another surprise, of course, was that it included [Mana Infusion], which I had not bothered with.
+
+It was a trait with no levels and something I basically never used. Putting my Mana into an object seemed pointless unless I was trying to recharge it, as the correlating [Elemental Amalgamation] trait that I had borrowed was kind of stupid considering everything else I could do at this point.
+
+I quickly tested out [Mana Infusion] with my newfound [Mana Dominion] by infusing a rock, which was basically instantaneous, and, by my estimation, would take longer to dissipate.
+
+Not worth keeping around, it might as well join the others in [Mana Slime].
+
+Returning to the notification waiting for my response, at first I thought Gramps was being generous, but then when I saw it used a Legend Point. This made me reconsider that this might actually be an intended function.
+
+Keldenar did say they were useful for more than just converting… I mean, I don't see why not? Let's do it!
+
+<Warning: [Mana Slime] is part of an already fused trait [Primordial Slime LV 18], which does not have any correlation to the aforementioned traits.
+
+As a result, the outcome will be penalized appropriately. Do you still wish to proceed?>
+
+I grumbled at the new message, which now had me second-guessing my decision. Sure, it made logical sense, even I was willing to admit that, as [Mana Slime] was only one part of a much bigger trait. Even so, these were two maxed-out traits I was trading in, and I felt like I was being haggled to death.
+
+I sighed. "I guess if I consider that [Mana Slime] will gain the effects of both, losing a few cumulative levels is okay. No, wait, I mean all three, I keep forgetting about the levelless tagalong. But I swear if I don't get at least one level in [Primordial Slime] I'm going to complain!"
+
+And so I accepted it, albeit a little reluctantly. At the very least, it would provide a bit more cleaning to my admittedly very messy profile.
+
+<Traits [Mana Infusion], [Mana Circulation LV MAX], and [Mana Reinforcement LV MAX] have been successfully incorporated into [Mana Slime].
+
+As a result, trait [Primordial Slime LV 18] has increased to [Primordial Slime LV 19].
+
+Legend Points remaining: 7.>
+
+"Good!" I said, glaring at the singular level I had gained.
+
+I was genuinely happy with the outcome, especially since I'd only very recently gotten it to level eighteen from absorbing [Necrotic Slime]. As for the new effects [Mana Slime] had gained, honestly, I couldn't really tell.
+
+I tried reinforcing, circulating, and infusing, and they all performed just like before. Maybe, if I were being generous, there would have been even less delay, but they had already felt instant to me. The improvements might have lain elsewhere, like improving my regeneration or lowering the cost of reinforcement, two things I couldn't really easily test.
+
+"Well, not bad, and the very first time I've spent a Legend Point. I don't suppose that's worth a Legend Point, huh?"
+
+My joke was met only with uncomfortable silence, which I broke by at least chuckling to myself. Then I opened my freshly cleaned profile, removed the now-empty "Mana" section under traits, and nodded happily.
+
+Name: Syl [Demon Slayer]Race: Chimeric Cluster Slime (Prismatic) LV 19Class: Riftmancer LV 21 Status: HealthyMana: Overflowing
+
+Emblems:[Experiment][Unique][Apex Hunter][Elven Legacy][Dungeoneer][Nature's Bane] [Manhunter] [Banisher] [Branch Head] [Demon Slayer]*[Dungeon Master] (Pending…)
+
+Legend Points remaining: 7
+
+Traits:Slime:[Primordial Slime LV 19][Slime Mastery LV 14]
+
+Core:[Core Collective LV 12][Core Storage LV 8][Sub-Core Alpha LV 7] [Sub-Core Beta LV 7] [Sub-Core Gamma LV 7] [Sub-Core Eta LV 7] [Sub-Core Delta LV 7] [Sub-Core Theta LV 7] [Sub-Core Epsilon LV 7] [Sub-Core Iota LV 7] [Sub-Core Zeta LV 7] [Sub-Core Kappa LV 7] [Sub-Core Lambda LV 7] [Sub-Core Mu LV 7] [Sub-Core Nu LV 7] [Sub-Core Xi LV 7] [Sub-Core Omicron LV 7] [Sub-Core Pi LV 7] [Sub-Core Rho LV 4] [Sub-Core Sigma LV 4] [Sub-Core Tau LV 4] [Sub-Core Upsilon LV 4] [Sub-Core Phi LV 4] [Sub-Core Chi LV 4] [Sub-Core Psi LV 4] [Sub-Core Omega LV 4]
+
+Mimic:[Chimeric Mimicry LV 9][Chroma Shift LV MAX][Consuming Osmosis LV MAX]
+
+Attributes/Other:[Soul Mastery LV 9][Enhanced Vitality LV 7][Magic Resistance (Greater) LV 2][Curse Resistance LV 4][Illusion Resistance LV 4][Sonic Resistance LV 2][Spatial Resistance LV 5][Prodigy]
+
+Senses:[Soul Sight LV 9][Soul Sense LV 9][Soul Vision LV 8]
+
+Trait Points remaining: 10
+
+Skills:General:[Universal Language][Skill Deconstruct][Equipment Swap][Split Personality LV 6][Dissection LV 8][Tracking LV 3][Perception LV 5][Aerial Finesse LV 5][Aquatic Finesse LV 5][Thunder Step LV 5][Elemental Step (Basic) LV 4]
+
+Tamer:[Companion Bond][Companion Training LV 9][Companion Growth LV 11]
+
+Combat:[Tranquil Flow LV 5][Attack Mastery (Greater) LV 4][Affliction Mastery LV 8][Exploit Weakness LV 7]
+
+Magic:[Mana Dominion][Elemental Praxis LV 6][Corrosion Magic LV 7][Arcane Magic LV 5][Light Magic LV 3][Dimension Magic LV 6][Healing Magic LV 2][Death Magic LV 1][Counter Magic LV 5][Personal Rift LV 5][Folded Geometry LV 5][Spatial Severing LV 4][Spatial Suppression LV 2][Rift Beacon][Ritual Casting]
+
+Sneaky:[Vanish LV 7][Assassinate LV 7][Identity Fabrication LV 11][Rogue Expertise LV 4][Magical Subterfuge LV 6][Trap Mastery LV 6]
+
+Skill Points remaining: 15
+
+Profession:Enchanting:[Rune Engraving LV 3][Rune Framework LV 8][Rune Tracing LV 5][Rune Design LV 5][Runecrafting LV 4][Rune Inspection LV 6][Rune Filigree LV 3][Rune Repair LV 2][Brand]
+
+Profession Points Remaining: 5

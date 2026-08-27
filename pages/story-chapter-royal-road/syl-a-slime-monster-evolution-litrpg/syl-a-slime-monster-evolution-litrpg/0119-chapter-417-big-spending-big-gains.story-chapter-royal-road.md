@@ -1,0 +1,171 @@
+---
+id: 26dae10a-5922-580d-99d3-6f9199c99d95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 417 : Big Spending, Big Gains"
+slug: 0119-chapter-417-big-spending-big-gains
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 119
+ownLength: 2416
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3833149/chapter-417-big-spending-big-gains"
+royalRoadId: "3833149"
+---
+
+<Proficiency gained. [Identity Fabrication LV 9] improved to [Identity Fabrication LV MAX].>
+
+I was just minding my own business in Tanglebay when I received this unexpected notification. Honestly, even though it was inevitable, I hadn't been expecting it, so I was particularly caught by surprise.
+
+Things had been quiet since I hadn't immediately headed to the next labyrinth, spending a few days just hanging around and not really doing much. As Vee would put it: "Not every day needs to be a work day," and so, maybe a bit uncharacteristically, I hadn't been intentionally grinding for proficiency.
+
+Well, Vee can't blame me for this; it just happened on its own. I was taking my break seriously. Now… The bigger question is, what am I going to do with you?
+
+I had plenty of skill points saved up just for a moment like this, but I had two options available to me. I could uncap it, which was good enough on its own, but now I also had the option to gamble with deductions. [Split Personality] showed the potential of reaching a new tier, though it also came with some minor consequences that I was admittedly bypassing.
+
+There was also the risk that nothing was above [Identity Fabrication], which would mean my points would be wasted. Would I want to waste five points on a gamble? The answer was probably no, as I had other things I wanted to spend my points on. Besides, if the upgraded version changed how I operated, it could have other dire consequences.
+
+Let's uncap it.
+
+<Skill [Identity Fabrication LV MAX] has become [Identity Fabrication LV 11]. Skill Points remaining: 21.>
+
+<You are the first individual to uncap this particular skill.>
+
+Really? I'm the first to uncap it? That seems… Odd? I thought doppelgangers were a big threat? Surely one of them had done this before me. No, wait, they wouldn't create fake identities; they would steal one, so they probably have an alternative path for
+
+<To acknowledge this, your desired intent will be factored into the outcome, provided it is within reason. Please internally debate your proposal for up to 10 minutes; otherwise, a default option will be selected.>
+
+Oh? This is new. I guess this is what normally happens, but Gramps already knew what I wanted, so he just approved it straight away. Uh… Let's see, what would I want improved about [Identity Fabrication]... Honestly, I just want it to be harder to see through, which admittedly would happen anyway with the higher level and each level above ten counting for more. Uh… Damn it, I need to think quickly!
+
+A generic upgrade would've probably been fine, but it was also a bit boring. This was my chance to potentially get something good out of it, but I wasn't sure what else I needed. Other than Keldenar's stupid [Eyes of Truth], I had considered the skill practically perfect for everything I needed it to do.
+
+Time was running out, and I started teleporting around the island in search of a bit of inspiration. It was a wild idea, but it actually worked, as I saw the goblins training against some of the slime ants. Which was something we had sort of incorporated into our casual routine of trying to improve slime traits. I didn't count this as breaking Vee's no-working rule since it wasn't like I was mindlessly grinding it out.
+
+Anyway, the idea I had was pretty simple: [Identity Fabrication] was great. So great that I wanted to be able to use it multiple times. Yes, I wanted the ability to create little identities for my slime minions so that they couldn't be traced back to me. I hoped I wasn't asking for too much since it was a very niche usage.
+
+I also wasn't planning on making individual identities for each ant. I would likely just make a template and apply it to a specific type of monster: one for ants, one for wolves, one for unspeakable, horrific abominations, and so forth. I hoped my idea was understandable, as my time ran out shortly after.
+
+<Standby for evaluation…>
+
+Unlike the previous time, I didn't get my result instantly. Maybe that was why Gramps had taken over, but now that this was a skill, it was outside of his jurisdiction. I wouldn't let a little bit of waiting get me down, so I went about my day, and a few hours later, I received my answer.
+
+<Approved.>
+
+Yes! My idea wasn't too crazy!
+
+<For leaving your mark on this skill's history, you have been awarded 1 Legend Point. Legend Points remaining: 7.>
+
+Double yes! A Legend Point too! Do I get one every time I'm the first to uncap something, or is it because it was a skill this time rather than a trait? Not that I'm complaining, of course, I'm just wondering if I can expect more in the future.
+
+As advised, I was hoarding the points, as they were potentially valuable trait points waiting to be converted. I had several traits on the cusp of max level, and it would cost me a fortune to start uncapping them all.
+
+But none of that was important right now; I had a freshly upgraded skill to try out, so I went straight to the ants to test it. To my surprise, it was both relatively easy to use and exceeded my expectations. Yes, not only could I label my ants with it, but I could even label objects and other things. However, this seemed to come with a significant penalty, as when I tried to label a rock as gold, Vee instantly broke it with her rather low-level [Identify].
+
+The catch seemed to be that anything that wasn't me was useless, so the remedy was to make a gold bar out of slime and label it appropriately. If I included [Metal Slime] to make it actually gold, Vee had zero chance of seeing through it with her skill, which was great.
+
+Interestingly enough, I had tried to use [Identity Fabrication] on others, but it failed instantly. Eventually, I figured out I could get it to work if I had the user's permission, though, unless I did something simple, like changing their name, it was a very flimsy disguise. The one exception to this finding was Vee, which, while not nearly as good as my own, was significantly better than any of the goblins I had tried to disguise, perhaps an unintended benefit of our [Companion Bond]?
+
+Either way, I was delighted by the outcome. Now I could have slime puppets, and in theory, no one except Keldenar would see through them. Considering it was a cheat ability he got for reincarnating, I hoped that meant there wasn't anyone else with it.
+
+Finally, there was one last benefit, and it had to do with my personas. [Split Personality] let them borrow skills from me at reduced effectiveness based on their skill level, and they'd been naming themselves this way. Donating was the better option, but I'd never want to donate points on a skill of such a high level.
+
+Now, though, I could just name them myself, and they could experience the full skill without any penalties. I'd treated it like just a casual upgrade, but weirdly, they all seemed quite happy about me doing it specifically. Initially, I thought they were just happy for a more robust disguise, but later, when I spoke to Vee, she had a different opinion.
+
+"Maybe to them, this is like you acknowledging they exist? Like you've officially named your children, or something?"
+
+"Let's not get ahead of ourselves just yet. I'm not a Queen Slime yet," I joked.
+
+"So you are considering it?" Vee asked.
+
+"As my final evolution, whenever that is, sure. Keldenar has been saying some interesting things about creating a race and the points and benefits you can gain from doing so. Slimes already exist, but what if I can create smarter slimes?"
+
+"Well, the bar is so low it's basically in hell, so I don't think you have to try much," Vee teased.
+
+"That reminds me, when are you going to actually meet Keldenar? I've basically confirmed he's not going to harm us. Even if he did try anything, I could throw you into my [Personal Rift] and escape with [Rift Beacon]."
+
+"Um… Can it wait until I evolve? I'd rather have a less monstrous appearance if I'm going to be meeting someone potentially from the same world."
+
+"Sure, that works for me. I guess that means you'll be joining me in the icy labyrinth."
+
+"I suppose it does…"
+
+After getting Vee's somewhat reluctant agreement, I began some light work. For one thing, I needed a better working [Identify] and continued work on replicating a spell version. The work was proceeding quite well, and when I finally completed a minor upgrade to my current iteration, I received something I had been absolutely longing for.
+
+<Proficiency gained. [Mana Weaving LV 9] improved to [Mana Weaving LV MAX].>
+
+"Yes!"
+
+The achievement was so great that it demanded a full-blown tentacle wiggle. Back then, I only had a few I could wiggle with delight, but now I could make an entire forest of tendrils wiggling like blades of grass. After I finally calmed down, it was time to get to business.
+
+I'm going to try deduction for the first time. I know there's an upgrade, so it's worth the gamble. Hopefully, I don't get robbed.
+
+<Deduction cost: 5 skill points.>
+
+Good. Only five points. If it was over ten, I'd have to reconsider…
+
+I took a deep breath and paid the price. I'd never experienced this before, so I had no idea what to expect. I just prayed that my points were being put to good use.
+
+<16 skill points remaining.>
+
+<Deduction in progress…>
+
+And now we wait…
+
+<The existing upgrade [Mana Dominion] is known by the user. Warning: this skill requires approval to access. Standby.>
+
+When I saw it mention [Mana Dominion], I was delighted, but the warning message that followed made me panic. I had no idea it needed approval, so I just had to hope I could get it.
+
+<Correction: Skill has been preapproved by the appropriate authority. Now revealing deduction.>
+
+Thank you, Mother!
+
+My praise was interrupted as the result was shoved into my vision. But I certainly wasn't going to complain, as I had thankfully not been robbed by this horrible gambling system.
+
+<[Mana Dominion] Allows one to exert dominion over Mana. Limiters have been removed, at the cost of no further guidance from the system. You are now a pioneer of Mana, or perhaps you have already somehow reached this point. The world of Mana is now at your fingertips. Impose your will upon it and create what only you can imagine.>
+
+<Deduction complete.>
+
+This is… Surprisingly short?
+
+I had honestly expected more description, but perhaps Mother was trying to be poetic or something with this skill. Still, even if it was a bit barebones with fewer instructions than I would have liked, I had no doubt it would be a significant upgrade.
+
+The only thing that gave me pause was the "no further guidance from the system" line, which was admittedly a bit concerning. This was effectively uncharted territory, but as the description itself already pointed out, I was already doing this.
+
+I mean, there's no way I'm not going to buy it after all this.
+
+<Spend 1 Skill Points to Tier Up [Mana Weaving LV MAX]?>
+
+I was relieved it was only costing me a single point, although, admittedly, I would've probably paid ten points if I'd been forced to. Without any further waiting, I confirmed.
+
+<[Mana Weaving LV MAX] becomes [Mana Dominion]. Skill Points Remaining: 15.>
+
+Unlike every skill I'd purchased or upgraded before, after the notification, I received nothing. No knowledge, no information, no guidance; Mother clearly wasn't joking. In fact, I felt so unchanged that I suspected something had gone wrong, but it was plainly visible in my profile. I was about to try casting a spell when another notification interrupted me.
+
+<For reaching the pinnacle of Mana, you have been awarded 1 Legend Point. Legend Points remaining: 8.>
+
+Wow! Things keep getting better and better! Two Legend Points in short succession talk about being an overachiever, hehe… Still, though, I note it says the pinnacle of Mana, not magic. I wonder what that's all about?
+
+I didn't have much time to collect my thoughts when I suddenly received a few more notifications. It seemed the system was all over me recently, as I hadn't received so many prompts in quite a while.
+
+<[Mana Dominion] supersedes several skills you currently have and has disabled them.>
+
+Uh… What?
+
+<The following skills are affected: [Mana Suppression], [Magic Efficiency LV MAX], [Magical Overcharge LV 3].>
+
+<Would you like to refund these skills and receive 3 Skill Points as compensation?>
+
+Rejected! I'll deal with them myself, thank you very much!
+
+Before the system tried to do anything I didn't want, I pulled out [Skill Deconstruct] and removed them myself. I was extremely glad I hadn't spent any points on [Magic Efficiency] when it reached max, as I had the suspicion I wouldn't have gotten my ten points back for uncapping it in this horribly offered refund.
+
+The headache that ensued was dreadful, but I was glad that I had received much more valuable skill blueprints than a measly three points. Of course, I had tried to see if I could use [Skill Deconstruct] on [Mana Dominion], but it wasn't even on the list.
+
+I guess Mother knew what I would try and tried to prevent me. Weird that it isn't in the description, though.
+
+That wasn't where the weirdness ended, as I couldn't even share the skill, despite it not saying that in the description itself.
+
+Did it not include the usual system-related stuff at the end because Mother wanted the skill to end on her dramatic line? I mean, I'll admit it's a good line, but not at the expense of my understanding. It didn't even tell me there were no levels for the skill, or was I supposed to assume that since it didn't mention skill levels in the trait…
+
+Admittedly, I was being nitpicky, but it still bothered me. Although I did consider that the statement of no help from the system might hint that there would be no levels.
+
+After all, what are levels if not direct help from the system?

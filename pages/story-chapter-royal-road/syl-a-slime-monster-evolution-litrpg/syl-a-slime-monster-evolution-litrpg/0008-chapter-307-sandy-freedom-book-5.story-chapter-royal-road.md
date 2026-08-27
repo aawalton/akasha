@@ -1,0 +1,253 @@
+---
+id: c2943478-311a-5102-8282-0afcacf4b895
+page-type-slug: story-chapter-royal-road
+title: "Chapter 307 : Sandy Freedom [Book 5]"
+slug: 0008-chapter-307-sandy-freedom-book-5
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 8
+ownLength: 2441
+unit: words
+ownProgress: 2441
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2718627/chapter-307-sandy-freedom-book-5"
+royalRoadId: "2718627"
+markedReadAt: "2026-06-29T19:42:02.595Z"
+---
+
+After being escorted to the edge of the Nyrelis grove, it was time to say goodbye to Lord Aeson and Paeris. The former was more than a polite and respectful farewell, with him offering us a return trip to Caelthal if we needed it.
+
+Naturally, with Vee and me both having coordinates saved in our [Triangulate], we could teleport there ourselves. Still, he had no idea of that fact, and so the offer was appreciated.
+
+Paeris, on the other hand, was a bit more of a farewell. He bowed deeply, and for a moment, his mask was removed. Vee and I were both startled as he gave genuine heartfelt praise and wished us the best on our journey, and for our safe return when the situation calmed down.
+
+To Lord Aeson, it must have been nothing more than a retainer wishing their mistress a safe return, but I could feel the real emotion behind it.
+
+It left me with some mixed feelings as I was pretty glad to be rid of the elves, their politics, and whatever was going on with the Outeatus Kingdom and the Dornhallow elves. A small part of me had to admit that I'd miss them, as even if it was mostly transactional, we'd shared a long time together, not to mention our common enemies.
+
+I wished him well and asked him to take care of Loreleia and Llewel. Vee also waved goodbye, and then I had her use consecutive [Warp] activations to put a considerable distance between us.
+
+Finally, we were free!
+
+When both Vee and I confirmed multiple times that the coast was clear, I immediately discarded all pretense of my false persona. I banished [Roleplay] to the depths of my skill list and melted into a puddle on the spot. No more Sylthaeryn Feirelle. Just Syl.
+
+Speaking of which…
+
+I pulled up my authority of the [Branch Head] Emblem and began something long overdue: I overwrote my current name.
+
+<Name: Syl [Branch Head].>
+
+"Freedom!" I cheered out.
+
+"Yay, freedom!" Vee replied shortly after, raising a leg to the sky. "Although, did you really have to turn into a puddle?"
+
+"To be frank, not really. My new [Slime Mastery] trait means that maintaining a different shape is as easy as breathing. But, it's still pretty symbolic to me, and I enjoy just blobbing out."
+
+Vee shrugged and dropped the topic.
+
+I also swapped to the [Dungeoneer] Emblem, as it seemed like the most useful of my Emblems for now. Mother's suggestion on usurping a [Dungeon Master] Emblem was still in the back of my mind, and if I used [Dungeoneer], I could maybe detect the presence of one nearby.
+
+Then it's just a matter of finding out if they are part of the dungeon group or not. I could name-drop Simon or Juniper and use that as a test to gauge the response.
+
+"So what are we going to do next with our newfound freedom?" Vee asked.
+
+"We could just relax for a bit. Maybe do some camping, hunt some monsters, eat some good food, that sorta thing?"
+
+"What about the quest?"
+
+"Oh. I'd kinda forgotten about that," I admitted.
+
+"I can't. Every now and then, it gets an update. It used to just be 'Urgent!' but now it's 'Urgent!!'," Vee explained.
+
+"What? What's the difference exactly?" I asked, not really understanding.
+
+"Oh. I guess I didn't raise my voice enough. He added an extra exclamation mark," Vee answered.
+
+"Well, that's annoying. I'm sort of glad I wasn't the one he targeted for his quest. I imagine Gramps did something after Mother gave me two."
+
+"Lucky you…" Vee groaned.
+
+"Although, how exactly are we even supposed to solve it?"
+
+"What do you mean? We find that Leon and save him, I guess?"
+
+I pointed a tendril out at the open expanse of the sea before us.
+
+"Yes, that's the Vaelyssan Sea, isn't it?" Vee asked.
+
+"Where exactly do we even begin?"
+
+Vee silently stared at me before breaking it. "Shit."
+
+"Shit indeed," I agreed. "The only thing I can think of is wandering along the coast until you get a quest update, or maybe a completion?"
+
+"What if we're heading in the completely wrong direction?" Vee pointed out.
+
+"I mean that sucks for this Leon [Experiment], but he can only blame Unc for not giving us proper directions."
+
+"True. He is asking us to help him, essentially out of the goodness of our hearts. I mean, what kind of reward is 'good things'?"
+
+"Um… a skill point?" I suggested.
+
+"Really, a single skill point? I didn't think you were so self-deprecating…"
+
+"I mean, for you it'd probably be something tasty."
+
+Vee gasped in feigned outrage. "I'm not that cheap. I'll have you know I have some high standards!"
+
+I wanted to roll my nonexistent eyes at this overdramatic spider.
+
+"Well, anyway. We're here, we should start exploring the beach, I guess. We could do some fishing, stuff like that."
+
+"Can you swim?" Vee asked curiously.
+
+"I can float. A prized ability from my humble blue slime origins."
+
+"Other slimes can't?"
+
+"Well, I don't know about the others, but I know a certain green slime began to melt when it fell into a pond. I can't imagine a silver slime floating; it would probably sink to the bottom."
+
+"Huh. I'm not a strong swimmer. Or at least I've never really tried to, but I know that spiders float, so I think we are in the same boat."
+
+"Well, if anything goes wrong, I can cast [Bubble] on you. Or better yet, we can set a safety zone on the beach to teleport back to."
+
+"Oh yeah, that's a good idea. We should always set up a few good coordinates for safety zones to retreat back to, then we can overwrite them with better, more permanent ones."
+
+"I should be able to swim once I've eaten a few sea monsters to add to my shapeshifting repertoire."
+
+"Well, then, let's head to the beach. But what's your plan if we run into any civilized people?"
+
+"Right… I don't really want to use Syl the elf."
+
+"What about your Sylvester persona?"
+
+"What would a cryomancer enchanter be doing at the beach?"
+
+"Chilling out," Vee snickered.
+
+"Oh, look, another slap the spider quest!"
+
+Vee poofed away from the spot, reappearing a considerable distance away.
+
+"Jeez! Can't you take a good joke or pun?"
+
+"If it's a good one, sure," I replied halfheartedly.
+
+"Tough crowd," Vee grumbled before returning.
+
+"I can just throw together a random body and name, I guess. I don't want to ruin Sylvester's reputation."
+
+"Sylvie, Sylindra, Sylette, Sylvain, Sylas, Sylvaris…" Vee began listing off a bunch of names.
+
+"Oh, those are some good ones!" I replied cheerfully. "When did you come up with them?"
+
+"I had a lot of free time on my hands while I was waiting for you to finish evolving."
+
+"A great use of time. I'll definitely put these to good use."
+
+"Sure, sure… anyway, can we finally go to the beach? I want to roll in the sand!"
+
+"Yeah, might as well."
+
+As soon as I agreed, I was caught up in a [Warp] as Vee began rapidly teleporting us across the horizon towards the coast. We landed a few feet off the ground and fell into the sand below.
+
+"Thank goodness it's a sandy beach and not the gravelly kind!" Vee cheerfully cried out.
+
+The spider then did the unthinkable, and after she partially enlarged to nearly her full size, she began rolling around. If she weren't literally a massive spider, I would've sworn she was behaving like a dog.
+
+Meanwhile, I poked at the sand with a tendril and grimaced in disgust as it stuck to it and coated it thoroughly. Thankfully, I had many means of self-cleaning, and after activating a thin layer of [Acid Slime], I cleansed myself of the horrible substance.
+
+After ridding myself of the course and irritating sand, I ensured my outer layer was more solid, preventing any more of the particles from being gathered up into my glorious slime.
+
+Leaving Vee to play in the sand, I ventured towards the water that was continuously advancing, only to retreat moments later. I watched curiously as the tide flowed back and forth before taking a slight dip.
+
+Just like with the pond before, I was naturally buoyant, and if I allowed the waves to take me, I would be floating out at sea in no time. I definitely needed some better shapeshifting forms if we were going to explore the ocean.
+
+The giant worms could "swim" through the magma. I wonder if it can swim in water too?
+
+And so I shifted into a worm, not taking its full size in case someone in the distance caught sight of me. That would be horrible if I suddenly caused some adventurers to attack the wild worm terrorizing the beach.
+
+"Really, Syl, not even an hour into your freedom and you've already gone all worm on me?"
+
+"Don't worry, I have no plans on exploding. I wanted to see if it could swim."
+
+"Uhh… good luck with that," Vee replied, her dismissive tone clearly indicating she had zero faith in the glorious worm form.
+
+I rose up and lunged deeper into the water. If I dug into the sand, I could've burrowed further, but I was enjoying leaping like a coiled spring, deeper and deeper with splashing success.
+
+When I'd finally reached deeper waters, I immediately sank. My wormy form was notoriously heavy. Salt water gushed down the permanently open gullet, causing me to sink even faster. I shifted my form to eject the water and sealed up my mouth to prevent further intrusion.
+
+However, that was still not enough, and soon I found myself resting at the bottom of the sea floor. I tried worming and snaking, but I was definitely not swimming.
+
+To make matters worse, my sudden intrusion into the environment had caused any sea life to scatter. If I had been more subtle about it, I could have probably snagged a few fish or better and gained a new form.
+
+Guess I'll have to try a stealthier approach next time.
+
+I contemplated digging down and reemerging at the beach, but instead I reverted to my slimy form. As soon as I was no longer an obsidianite worm, my body began shooting up like a rocket. It was actually quite an exhilarating experience, and when I breached the water surface, I popped off into the sky a considerable distance before landing atop the roaring waves.
+
+I considered dropping tendrils down into the water and fishing, as I had done in the pond, but thought it best to head back in case Vee was worried. Thanks to [Blink], I was back in no time, and the sand-covered spider was just staring at me with judgmental eyes.
+
+"You swam with the grace of a rock," she replied bluntly.
+
+"I honestly thought the worm could've done it. You should have seen them moving through the magma."
+
+"Do you really not have anything else?"
+
+"Badgers, goblins, wolves, skeletons, harpies, unicorns, ants, spiders…" I started listing off various creatures I'd consumed.
+
+"Wow, not a single water monster? I thought you said you lived on a pond."
+
+"I didn't have [Consuming Osmosis] back then," I replied. "And sadly, it wasn't retroactive. But even then, I'd just have some small fish and a frog. Can frogs even swim in the ocean?"
+
+"Probably not. Your best bet would probably be to find a squid or octopus, since that would probably match your tentacle solutions pretty well."
+
+"Oh! Definitely adding that to the wishlist."
+
+"A dolphin would probably be good for swimming speed. Maybe a shark for attack power?" Vee continued making suggestions.
+
+All her suggestions sounded good, and I was pretty excited to eventually explore the ocean. If I collected enough parts, I hoped to make a rather cool chimeric water monster. Not to mention, I expected they had a trait or two I could borrow to increase my swimming ability.
+
+The pegasus had [Enchanted Wings]. I just have to hope there's maybe [Enchanted Tail] or [Enchanted Fins]?
+
+I knew there would probably be a water skill equivalent of [Aerial Finesse], but unless I wanted to spend points that wouldn't be as effective as straight-up borrowing a level eight trait thanks to [Chimeric Mimicry].
+
+When Vee was done rolling in the sand and cautiously testing the waters herself, we began our casual stroll down the beach. We still had no idea of our actual target destination, so we settled for "Away from the Nyrelis grove" as our solution.
+
+Blindly swimming out into the salty waters was an option as well, but it seemed especially foolish. We just had to hope that by traveling in one direction, we would either find civilization or Vee would receive a meaningful update to her quest description.
+
+"By the way, where are we going to sleep tonight?" Vee asked.
+
+"We could sleep in a [Rift Door]?" I suggested.
+
+"While that sounds pretty safe, I don't think I'd feel comfortable in a void."
+
+"Back in the day, I'd sleep inside hollowed out trees."
+
+"Pass. We've slept in enough trees thanks to the elves, haven't we? Plus, when you plant that diamond acorn, we will have a new treehome."
+
+"Dig underground?"
+
+"I mean, it's better than a tree, I suppose."
+
+"I mean, what do you want me to do?" I asked bluntly.
+
+"Can't you slime up a house for us?"
+
+"You want me to make a house out of slime? I mean, I can, and then my [Sub-Cores] could maintain the shape throughout the night. But you'd be sleeping inside me."
+
+"Oh… Now that you say that out loud, it's a bit creepy. I mean, I know you wouldn't eat me, but being surrounded by a deadly slime monster is quite… something."
+
+"The only other realistic solution would be [Earth Magic], or maybe [Dust Magic]?" I answered. "Unless you want me to make an ice fortress."
+
+"Okay, that last one sounds hilarious, just imagine a giant ice castle or even an igloo on the beach! But that sounds horrible to sleep in."
+
+I nodded my "head" in agreement.
+
+"But living in a giant sand castle could be a fun idea!" Vee quickly replied again. "Do you think your magic is up to the task?"
+
+"Uh…"
+
+I looked over my list of [Earth Magic] and my singular dust spell. It didn't look good, and [Rampart] was my only actually viable building option.
+
+"I can maybe make a cube?"
+
+Vee sighed dramatically. "I guess my dreams of a castle will have to wait."

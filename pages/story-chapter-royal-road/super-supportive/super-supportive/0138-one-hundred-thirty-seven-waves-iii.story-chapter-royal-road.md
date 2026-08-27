@@ -1,0 +1,413 @@
+---
+id: 9dbcdd13-dfd6-509e-bf43-93f342ed47a6
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED THIRTY-SEVEN: Waves III"
+slug: 0138-one-hundred-thirty-seven-waves-iii
+partOf: super-supportive
+position: 138
+ownLength: 4533
+unit: words
+publishedAt: 2024-04-29
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1615183/one-hundred-thirty-seven-waves-iii"
+royalRoadId: "1615183"
+---
+
+137******
+
+“You’re pretty heavy, Zeridee.”
+
+Alden spoke quietly, but his voice seemed loud and out of place in the greenhouse. Just minutes ago, people had been screaming here. Alden had been screaming. His body was still a little shaky from the aftereffects of what had happened.
+
+I don’t even know what to call it. Must have been the “fight” half of fight or flight mode.
+
+Now, there was only the gentle burble of a stream that didn’t exist and the plap-plap sound of water dripping through the open ceiling panel onto the empty patch of floor where the flyer had been.
+
+For just a few seconds more, he took stock of it all.
+
+Zeridee’s torso was against his chest. Her weight was carried by his back and shoulders when he let his arms fall away from her, thanks to the strap he’d made out of her long braid. The Artonan woman was around five feet tall—a usual height for adults of her species. He could already tell that carrying her was going to get difficult sooner than he’d like.
+
+Now that she was wrapped in the protective magic created by his skill, he could haul her around however he wanted.
+
+Throw her over a shoulder; balance her on my head if I have to. I can do it. I’ll manage.
+
+His right foot throbbed. He was sure he’d broken a toe or two. Kicking another person as hard as you could while you were wearing sandals was probably some kind of brawling faux pas.
+
+He was less sure about the blood slicking the end of the sandal. It might have been his own, possibly from one of the busted toes. But he hadn’t examined himself for injuries until just now. He couldn’t see the foot well without going to a lot of trouble and shifting Zeridee around.
+
+And there were so many other possible sources of blood in the room.
+
+One dead Brute. One severed arm. One stabbed and battered Artonan.
+
+His gaze landed on the man who’d been lying in the shadows ever since Alden had reached the greenhouse. The one they’d called Grigs. Briefly, the thought of checking him for a pulse passed through Alden’s head, but he dismissed it.
+
+If the man was dead, there was no point.
+
+If he was faking death, then he might spring up and attack once he was found out.
+
+And if he was unconscious, Alden didn’t have the time or strength to spare to help him. Right now he needed to move.
+
+In some direction.
+
+Fast.
+
+All right. I don’t know what the best thing to do is…so familiar. I never know what to do when things get really, really bad, do I?
+
+Just try not to be a complete dumbass.
+
+Dawdling around here at the crime scene and worrying about the level of deadness of one of the corpses would take time. There were Artonan-safe drugs in the house, but finding them would take time.
+
+Time was limited.
+
+The first warning that the Avowed assigned to protect and assist in this neighborhood were about to leave had come while Alden was returning the Great Dane to her owner. The last train was already gone. Alden had seen the Speed Brute who’d been checking homes down by the waterfront heading out to clear the next residential area that was being evacuated.
+
+But he wasn’t the only red halo around. There were a couple more. And I just saw someone.
+
+Down by the water. The person with the halo and the shining staff who he’d guessed was an Adjuster doing some kind of tool-enhanced spellwork.
+
+I know the red halo means, “Don’t talk to me; I’m busy,” but come on. It’s not like I have a small problem.
+
+He moved. Out of the greenhouse, as fast as he reasonably could without dropping Zeridee. His foot bumped into something in the grass as he left, and he realized it was his temper sphere.
+
+That was a plan that went absolutely nowhere.
+
+Irritated and unwilling to stop or bend over with his burden for an enchanted object that just wasn’t that useful in the present situation, he kicked it upwards with the edge of one sandal in a completely half-hearted attempt to retrieve it.
+
+The small glass orb flew up. He took a step and snagged it easily with his left hand.
+
+Typical, he thought as he hurried around the side of the ambassadorial residence and headed for the front. I break my toes kicking a Brute, and I’m lucky I didn’t break more than that when I landed from that stupidly high jump earlier, but I’m poetry in motion when it comes to retrieving a six hundred dollar golf ball I don’t really need.
+
+He reached the street and looked around. The single narrow lane here was incongruously cute, given the situation. It was paved with brick and closed to any motor vehicle that didn’t belong to the residents of the houses that lined it. A light designed to look like an old-fashioned gas lamp flickered over Alden’s head. Even the bicycle racks in the neighborhood were hidden by trellises or in little nooks, and the ones he’d found on his trips back and forth earlier had all been empty.
+
+He resisted the urge to go check the rack a few houses down in case a bicycle or electric scooter had miraculously appeared there. Instead, he headed for the staircase that led all the way down the hillside to the boardwalk.
+
+Moving toward the ocean felt bad, but the red halo had been there. How long had it been since Alden had spotted them? He’d talked to Zeridee for such a short while in the bar, sent the text to Haoyu, shut the phone back in the safe, headed out to the greenhouse…
+
+They’d been ready to leave.
+
+It’s been fifteen minutes at the most.
+
+Please still be there.
+
+The air bit at him as he went down the stairs. He kept one hand on the wet railing because if there was ever a time not to trip over his own feet this was it.
+
+Halfway down, breeze block walls separated the staircase from the tile-roofed cottages on either side. The houses were almost all dark. The ones with lights still shining in the windows were just as empty as the others, but he couldn’t help looking at them a little harder, eager for signs of life.
+
+A painted iron archway at the bottom of the stairs welcomed him to Punta de la Luna, and his feet hit the boardwalk for the first time. It was wide and windy. A fence of interwoven ropes separated the edge of the promenade from the sea below. More fake gas lamps flickered beside a couple of storefronts, but there were brighter lights here, too, keeping the whole boardwalk illuminated.
+
+To his left, a few dozen meters away, a bank of binoculars on poles pointed south. They looked like the kind of things that could be used to view F-city and The Span in daylight. To his right, there were more businesses, including the only bed and breakfast he’d ever noticed on Anesidora.
+
+Where’s the red halo? They were right here earlier.
+
+If they’re still around, they would be near the water, wouldn’t they?
+
+“Hello!” he shouted. Then, deciding that wasn’t the right greeting under the circumstances, “HELP!”
+
+When no reply came, he cupped his hands over his mouth and shouted it again.
+
+Nothing.
+
+Bad. This is bad.
+
+He looked back behind him, up the hill.
+
+It’s going to be a really hard walk if that red halo isn’t here anymore. I can’t stay down here by the water for long, but if I could just get linked up with some rescuers…
+
+The fastest way out of this was finding someone to help, even if they couldn’t stop their work to actively save Zeridee. If all they did was call ahead through some infogear to tell a law enforcement officer with a car to wait for Alden up ahead, so that he had a destination in mind that wasn’t miles from here, it would be enough to make this awful situation manageable.
+
+If the red halo was on foot, casting final spells prior to abandoning the area, he or she had most likely headed north along the boardwalk. Assuming their work was something like Plopstar’s and they needed access to the ocean to push back the contaminant, they wouldn’t have left the waterside.
+
+There’s still a chance of running into them. We’ll try just until we reach the end of the boardwalk. It wasn’t that far.
+
+Heart pounding, he turned to the right and headed north, hugging the fronts of the buildings, not at all eager to get any closer to the ocean than he already was.
+
+He shouted for help every ten strides.  He also opened a message window and started mental texting the System. It was busy teleporting people, preventing that low probability of chaos exposure from turning into a high one, and, apparently, hunting for terrorists who wanted to unleash demons on Earth. But now that his own need for salvation was looking pretty damn urgent, he was less worried about bothering it.
+
+[This is Alden. I’ve got a dying Artonan strapped to my chest, and we’re in Punta de la Luna, and my flyer has left with the wrong person on board so if you’ve taken me off your to-be-assisted list for the night please put me back on it.]
+
+[Thank you.]
+
+[I know you’re having a rough time. I’m sure that a few million Avowed are asking you for stuff right now, and the Artonans are probably putting a lot of pressure on you to figure out what’s up with the Matadero incident. I don’t want to distract you much, but some sign that you’re reading my messages would be great.]
+
+[You’re doing a really good job, and I appreciate you.]
+
+[Perhaps my hostility during our last meeting is on your mind. You know that I do approve of your work. Big fan. I don’t even need a teleport. Those are more trouble for you, right? Just a quick text message to the nearest person capable of helping me will be fine.]
+
+He got nothing.
+
+Alden couldn’t decide if he was just unhappy that it wouldn’t answer him, or if he was actually a little surprised.
+
+There were still active disaster alerts that he could access with a thought. One of them said that nonessential services were halted. One said all personal requests for teleportation would be ignored.
+
+He could read just fine.
+
+I kind of thought it might be paying extra attention to me anyway.
+
+He knew he wasn’t the most important person running around Anesidora right now, but he’d hoped the commendation that had earned him the early teleport might also earn him conversation privileges above and beyond the usual in dire circumstances.
+
+Apparently not. Unless it just doesn’t like me.
+
+That idea wasn’t welcome at all.
+
+The Earth System had indicated it was incapable of having feelings toward its Avowed…except on bad days.
+
+What if I’m on its shit list?
+
+Oh, hell. Of course I am. Think of how much easier its life, or whatever it has that passes for a life, would be if I just dropped dead.
+
+Now that he’d had the thought, Alden could come up with far too many ways him disappearing would appeal to the System if the System was in a mood.
+
+I’m fucking weird, and it’s got to expend energy thinking about how to handle me. The Artonans didn’t equip it with rules for one of its Avowed waking up to his own presence and authority. I’m going to refuse to do the one thing it really wants me to do until the last minute every single time it asks.
+
+And when it finally does get my permission…
+
+Alden didn’t like to think about the process of affixation.
+
+But he had a lot of reason to believe his future ones had become more expensive in that way Systems seemed to care about. Joe had once said the Contracts didn’t want to force affixations on Avowed in part because they were “hell on the budget.”
+
+Even with Alden fully agreeing on Artona I and having been as thoroughly warned about the nature of it as he could have been…
+
+“You will fight back, and you will lose.”
+
+His stomach rolled.
+
+Well, that’s one way to take my mind off the present problem. But getting back to it—the Earth Contract is probably reading my texts and feeling something like hope. I bet it’s watching the special snowflake that only exists because a whole bunch of aliens involved themselves in ways they shouldn’t have, and it’s chanting, “Melt, melt, melt!”
+
+There were probably other reasonable explanations, ones that didn’t attribute quite so much hostile glee to the System. But whether Alden was being unfair or not, it didn’t change the fact that he wasn’t getting any answers.
+
+[You’re doing a really good job, and I appreciate you,] he texted again.
+
+He hoped that made it feel guilty about the chanting.
+
+******
+
+The boardwalk ended. A paved walkway connected it to a street that was just as lifeless as everywhere else.
+
+“Crap,” Alden whispered, looking around desperately for any sign of red. “Okay. Okay… Zeridee, I said we were only going to come this far, and we’ve come this far, and now we just do the next thing.”
+
+Two choices.
+
+The first was to keep going. Inland. Hope he found people soon. The second was to run back to the house, find the first aid kit, and jab Zeridee with something that might stave off blood loss. Hope there was something else in there that would give her prolonged mental clarity. Talk to her until she understood she needed to call for help through her eye rings
+
+“These are both awful choices. They are pure shit.”
+
+Just do something fast. You don’t have time to think.
+
+The choice that felt the most terrifying was going back to the house.
+
+What if he did that and searched the attic and couldn’t find the medicine? Did he give up after ten minutes? Twenty? Half an hour?
+
+What if he found it, but it didn’t have the same variety of supplies he’d seen in his own kit?
+
+What if he misjudged Artonan biology and waking Zeridee-und’h up for a few minutes and letting her bleed out a bit more killed her?
+
+“We’re going on foot,” he said. “Unless that food truck over there has keys in it. Then I’m going to learn to drive a food truck with a frozen person on my lap.”
+
+The food truck was in a small parking area up ahead. It wasn’t any closer to the water than he already was. Fine.
+
+Alden hurried toward it, moving at a lope now that his feet were on something that qualified as ground again.
+
+A wave crashed, and the wind whipped some moisture against his cheek. He didn’t think about it. He was too busy silently praying that some trusting and good-hearted food truck owner kept a key tucked into the visor.
+
+Then, he saw the shine of a thin layer of water crossing the street up ahead.
+
+He stopped and spun. As far as he could see ahead of him and behind him in the dark, the ocean was oozing ashore.
+
+“No!”
+
+He gave up on the truck in an instant and ran as fast as he could down the street, Zeridee’s body a painful weight that he gripped in both arms to steady himself.
+
+Nonono. Even the seaspray is enough to carry it? Is that how it works?
+
+The same crashing wave that had thrown water up into the air just now and touched his cheek must have spread a fine mist over half of everything in sight. If just a speck of that Sinker Sender device’s remnants was enough to call water ashore to submerge whatever it had touched…
+
+Alden hit a cross street and turned up it.
+
+Don’t look back again. You and Boe always talk about how people who do that in chase scenes are just slowing themselves down. Keep running.
+
+He didn’t stop until his thighs and calves were burning.
+
+He didn’t stop until he was blocks inland and blocks northward, a little farther along than the place where he’d found the man in the tuxedo earlier. He collapsed onto a bus stop bench, gasping for air and clutching Zeridee to him, careful not to let her rest on the bench itself so that he didn’t lose preservation on her.
+
+All right, he thought. It’s all right to breathe. That’s got to be far enough for now.
+
+He leaned back and stared at the curved roof above him, lungs aching.
+
+Sprinting with an adult is incredibly different from marathoning with a Kibby backpack. I knew that. But everything hurts already.
+
+Just need a minute to catch my breath. Then I can keep going and keep yelling for help.
+
+Telling himself that it was fine to take a minute to think here was at least a little bit of a lie. He wasn’t sure it was fine, but he was sure his body wasn’t going to cooperate with the panic pace he’d just tried to set.
+
+So we know some things now. Water’s coming. Red halos seem to have left the area.
+
+Wow, what an amazing job they did of helping all the sensible people get away.
+
+Haven’t seen a soul except for stupid asshole murderers who were trying to take advantage of all the normal people being gone.
+
+He blinked a few times.
+
+Someone tried to kill me a little while ago.
+
+None of the expected emotions were connected to the idea at all.
+
+A man took a metal rod and tried to drive it through my back. He hit me on the back of the head with it, hard enough to crack open my skull.
+
+The whole fight in the greenhouse felt like something that hadn’t really happened. Alden didn’t think he was blocking it out because it was traumatic. He remembered it all with clarity.
+
+But the event had been so sudden and impersonal.
+
+He’d realized something bad was happening. Then he was in it.
+
+Then it was over.
+
+Sitting here at this bus stop on this abandoned street with the System ignoring him and the water turning dangerous again was taking a bigger emotional toll.
+
+He looked down at Zeridee, shifting her so he could see her face under the braid. Sometimes—usually, if he was being honest—the people he carried this way looked uncanny even to him. But she’d closed her eyes or blinked right before she was preserved. Her expression was soft, probably because she’d been in the midst of trying to comfort him with her loving lies.
+
+If he didn’t think about the bloody gash on her head, she looked like she was asleep.
+
+Actually asleep. Not “sleeping” like the guy with the stake through his brain.
+
+“What a total badass,” he said. “They sneaked up on you and shot you with that thing, then they stabbed you, and you still beat them. I only helped a little there at the end. Do you do double duty as trained security for the ambassadors or something?”
+
+She’d been scared.
+
+What was that scream I felt, Zeridee? Are you a wizard?
+
+She wasn’t dressed in the kind of clothes working wizards often wore, but that could have been her trying to fit in with humans. She also didn’t seem to have any of the stuff that adult wizards came equipped with, though. She hadn’t whipped out a wand or a pile of potions or an auriad. No rings on her fingers. And she definitely hadn’t cast any spells that Alden had noticed.
+
+Did she feel me cast a spell?
+
+He was under the impression that spellcasting might be detectable by people more experienced than him. He sometimes had a vague awareness of his own spells happening after he’d sent out the command.
+
+It seems pretty subtle to me, but that doesn’t mean it is to everyone.
+
+Normally he wouldn’t have worried. All Avowed did magic. Wizards did magic. If magical noise was a thing, then they were on an island full of it. But if you suddenly reduced the number of people in the area to almost nobody, could a wizard tell you’d cast something?
+
+He hoped she hadn’t noticed. He hoped he’d managed to get away with using the auriad in public. The ambassador’s video monitoring all seemed to be focused on exterior locations, and he’d been inside a greenhouse full of wall-to-wall plants. He didn’t think he’d been filmed.
+
+Nothing I can do about it now if I’m wrong.
+
+He waited for his breathing to slow, and took another minute to search through his new medical kit. If he needed to take something in it, he didn’t want to have to be fishing around in his bag and trying to read labels while he ran. As he stuffed a different injector into each one of the pockets on his shorts, he became aware of a strange sound. It was distant, and he couldn’t quite tell where it was coming from.
+
+A grumbling roar.
+
+Not a sound that belongs here, he thought. Not a sound I’ve heard before.
+
+I wonder…
+
+If a lot of water came ashore, Alden thought it might sound a little bit like that.
+
+“Time to go,” he said quietly.
+
+He wrapped an arm around Zeridee’s shoulders and stood with a grunt.
+
+“You really are pretty heavy.”
+
+******
+
+Alden walked for several minutes, periodically prodding the System and calling out for help. He passed another closed train station.
+
+I just have to keep going. There will be other people up ahead. This isn’t Thegund. The similarities are getting extremely uncomfortable. But the System exists. I am in a highly populated location full of Avowed.
+
+The world isn’t corrupted, and I’m not alone.
+
+It felt an awful lot like he was.
+
+Just a little while ago, I was talking to people and helping people. I was making signs that people were reading. They’re around. I will find someone.
+
+He went a few more blocks. He checked three cars and a vehicle that looked like a homemade jeep, but they were all locked. He walked down the middle of a street, trying to stay highly visible, but the helicopter that passed far overhead seemed to have a task that didn’t involve looking for stray Rabbits.
+
+And when it detected him with its sensors, the boxy food delivery drone he found sitting outside of a laundromat just repeated the same “Disaster Alert” messages he was getting from the System.
+
+“I know I need to stay away from water!” he snapped at it. “I’m trying!”
+
+He’d hoped that if he approached the drone and it saw a person where one shouldn’t be it would send some kind of message to emergency responders.
+
+It’s fine. Every step I take makes us safer.
+
+He was in a very residential area still, one that was under full evacuation orders, but he was out of the Punta de la Luna neighborhood. As he headed around the curve of the crescent, Apex would widen. The coasts would be more distant. Flood waters would have to travel farther to reach him.
+
+I can—what’s that?
+
+“That’s a headlight!”
+
+Up ahead, coming toward him, was the single headlight of a motorcycle.
+
+Alden leaped away from the drone and stood fully in the middle of the street, waving both his arms over his head in what he was sure was a universal symbol for, “Stop. I need help.”
+
+Thank you, thank you. You’re going the wrong direction for some reason, but you’re going really fast. If you could just pick us up and carry us forward for two or three minutes, into an area with some people…
+
+The motorcycle slowed down as the rider, a dark-haired woman in a soggy sweater and jeans, spotted him.
+
+Warm relief mixed with excitement coursed through Alden. “Please, we really need a—!”
+
+She shook her head, looked away, picked up speed again, and was gone.
+
+“No!” Alden shouted after her. “No! Come back!”
+
+The taillight turned a corner in the distance and disappeared.
+
+What?
+
+She saw me. She totally saw me carrying a hurt person.
+
+We looked each other in the eye. She seemed to be thinking about stopping.
+
+But she hadn’t.
+
+Maybe…maybe she’ll come back.
+
+His stomach clenched. He held Zeridee in a crushing grip as he stared at the place where the motorcycle had disappeared.
+
+It didn’t return.
+
+She’s probably got her own problems tonight. And no room on her plate for one more.
+
+She could’ve been on her way to find her lover, her parents, or her friends. She might just have been a little too scared of him to stop. He was carrying a bloody, stiff Artonan down the street. Maybe he looked dangerous.
+
+Alden understood all of that.
+
+He didn’t know why it felt like he’d just taken the most devastating blow of the entire terrible night.
+
+She looked like she cared, and then she didn’t.
+
+I wish she’d tried to stab me in the back instead.
+
+That strange thought was followed by another, even stranger one.
+
+I was supposed to die months ago. I wrote a will with Alis-art’h. I thought I was saying goodbye to Kibby forever.
+
+And then I made it back.
+
+Maybe wanting to survive one more disaster is greedy of me. Maybe being the guy who pulls it off again isn’t in the cards.
+
+He stared down at the pavement.
+
+“Jeez,” he whispered. “Melodramatic and morbid, just like that? It’s not nearly that bad. So stupid.”
+
+He ordered his legs to move him forward and they did.
+
+At least that’s something.
+
+******
+
+Alden kept walking, trying to knock himself out of his sudden and very unhelpful funk by talking to Zeridee and jabbing himself with an injector that reduced physical pain.
+
+“You did such a great job prepping the med kit. I’m glad it has non-total pain reducers in it. Those things are wild, but breaking bones and not even knowing you did it is overkill. I would like to live my whole life without ever being in a situation where I need something like that.”
+
+He went on talking about nothing and looking over his shoulder every time he heard a noise that might have been the motorcyclist returning.
+
+“You know, she’s probably already on her way back. Bet she took a different street so that she didn’t have to see us here struggling along…”
+
+He trailed off.
+
+There it was again. That strange roaring sound.
+
+To my left.
+
+He had been periodically marking sturdy structures with his eyes. Just in case. He’d just passed by the last one—a building full of rentable studio spaces for artists. It didn’t have ground floor windows and it had six floors. That was about as good as it got right here.
+
+The sound’s getting louder, thought Alden. And it’s doing it much too fast.
+
+******

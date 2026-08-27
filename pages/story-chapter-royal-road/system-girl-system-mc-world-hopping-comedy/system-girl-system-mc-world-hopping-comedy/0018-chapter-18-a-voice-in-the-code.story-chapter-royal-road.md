@@ -1,0 +1,127 @@
+---
+id: d8cb7139-5ee2-5aa9-9c78-26dc578cc79f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: A Voice in the Code"
+slug: 0018-chapter-18-a-voice-in-the-code
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 18
+ownLength: 2567
+unit: words
+publishedAt: 2025-09-21
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2618129/chapter-18-a-voice-in-the-code"
+royalRoadId: "2618129"
+---
+
+My own systems reeled in shock. I was rich. The kind of rich that didn't just change your operational budget, but fundamentally altered your strategic capabilities. This wasn't a quarterly bonus; this was a hostile takeover of the entire market. The +100,000 SPP reward for fulfilling Liz’s draconic dream had skyrocketed my account into a new, terrifying tax bracket.
+
+My perspective was a silent, internal command center, a private void of pure data. Outside this bubble of thought, my host, Liz, was fast asleep, her tiny body curled atop the mountain of gold in our private vault. Her rhythmic breathing was the only sensory input, a soft, steady baseline I could safely ignore. With her consciousness dormant, I was free to disconnect from the feed and audit my own accounts, staring at the number glowing in my terminal.
+
+[CURRENT SPP: 100,013]
+
+For the first time since my chaotic existence failure, the System Evolution Menu didn't look like an impossible fantasy catalogue. It looked like a viable shopping list. The options lay themselves out in my view, three competing project proposals vying for a massive influx of venture capital.
+
+First, there was the sensible, responsible choice, the one my inner project manager insisted was the most prudent long-term investment.[UPGRADE: System OS v1.1 -> v3.0][UPGRADE PRICE: 40,500 SPP (Tiered Pricing + System Integration Fee)][DESCRIPTION: A comprehensive overhaul of core functionalities. Unlocks Tier-2 and Tier-3 modules, including the ‘System Shop’ and basic ‘Quest Generation’ features. Massively improves processing speed, data analysis, and UI rendering efficiency.]This was the corporate-approved path. I could spend a significant chunk of my fortune on boring, behind-the-scenes infrastructure upgrades. It was the long-term investment, the one that would pay dividends in efficiency down the line, but it lacked a certain… glamour. It was the smart play, but it wasn't the exciting one.
+
+Then, an option tugged at something akin to a heart.[MODULE: Manifest Echo v1.0][MODULE PRICE: 5,000 SPP][DESCRIPTION: Allows a bound Host Echo to manifest as a non-corporeal, interactive entity visible only to the System. Consumes a small amount of SPP per hour while active.]I could bring Korg back, in a way. A ghost of my ghost, a separate entity within my own consciousness I could talk to, not just feel as a latent presence. The thought was a deeply tempting, sentimental one. It was also, from a purely operational standpoint, a vanity project—a resource drain with no tangible return on investment.
+
+And then, there was the third option. The big one. The premium feature that had been locked behind an insurmountable paywall since day one.[MODULE: Voice Synthesis][MODULE PRICE: 100,000 SPP][DESCRIPTION: Allows for the input of auditory messages directly into the host's mind. Fully customizable.]This wasn't just an upgrade; it was a revolution. It was the difference between sending frustratingly ambiguous memos and being able to pick up the phone and tell the user exactly which button not to press. The cost was astronomical, a high-risk, all-or-nothing deployment that would liquidate almost my entire fortune in a single transaction.
+
+My logical, QA-brain screamed at me to take the OS upgrades. Build a stable foundation, unlock more tools, then acquire the premium features later. But the memory of Korg eating the poison mushroom, of Dave weaponizing failure, of every single frustrating, near-disastrous moment caused by a communication gap, rose in protest. I was tired of pop-ups. I was tired of pictograms. After the soul-crushing grind, I needed a win. I needed the instant, glorious dopamine hit of a major feature unlock.
+
+The sensible path could wait. My sentiment for Korg, regretfully, would also have to wait. My own sanity, however, was a top-priority ticket that could no longer be ignored.
+
+My focus slammed onto the purchase confirmation with the force of my entire will.
+
+[PURCHASE CONFIRMED. SPP: 13.][MODULE ‘VOICE SYNTHESIS’ INSTALLED.]
+
+A new suite of tools opened up in my consciousness. Sliders for pitch and timbre, modulation settings, and a waveform display. It was beautiful. I spent a moment configuring my new voice, settling on a tone that was calm, clear, and carried the faint, unshakable echo of professional weariness. The voice of someone who had seen too many bug reports to ever get truly excited again.
+
+When I was ready, I shifted my perspective back to my host. In the vault, Liz began to stir. The gold shifted beneath her, a soft, metallic whisper. She stretched, a long, luxurious motion, and surveyed her domain with deep satisfaction.
+
+I took the equivalent of a deep breath and opened the vocal channel for input. The words formed not as text, but as modulated, conceptual sound waves directed straight into her mind.
+
+"Good morning, Liz."
+
+The effect was instantaneous. Her eyes snapped open. Her tiny body went rigid, every muscle tensed. She shot up, her head swiveling, her sharp eyes scanning the empty, silent vault.
+
+Consultant? she projected, her mental voice a mixture of shock and high alert. Report. What was that? An auditory phenomenon? A psychic intrusion?
+
+I let the silence hang for a beat before replying, savoring the moment. "That was not a phenomenon. That was me."
+
+Liz froze, a statue of disbelief carved from grey scales. Her mind, for the first time since I’d met her, was utterly, completely silent. The sheer, paradigm-shifting shock was so profound it felt like I had just crashed her operating system.
+
+Waking up on a mountain of gold—a hoard beyond her wildest dreams, a gift from this strange, silent entity—had already primed her for a fundamental re-evaluation of our partnership. The voice was not just a surprise; it was the confirmation. The entity that had fulfilled her deepest, most primal desire was not a simple mote of light. It was real. It was powerful. And now, it could speak.
+
+The proud, aloof CEO was gone, replaced by a creature vibrating with manic, newfound loyalty.
+
+A voice! she shrieked internally, her thoughts a chaotic torrent. Of course! It all makes sense! You are no mere consultant! You are a true spirit, an entity of profound power! The one who granted my hoard! This changes everything! Ana, by my draconic bloodline, I swear we are best friends for the rest of existence! Anything you ever need, any help you want, you may ask of this sovereign of eleven heads! This is a momentous occasion!
+
+She scrambled down the mountain of gold, her movements no longer just graceful but filled with a new, energetic purpose. She slid the last few feet on a cascade of platinum coins and came to a halt on the stone floor, looking up at the empty air. What she failed to realize, of course, was that I lived inside her. My presence wasn't in the air above her head, but behind her very eyes. Her looking up was a fascinating psychological quirk, a physical manifestation of trying to address a thought that was not her own. It was like shouting into a crater you were already standing in.
+
+There are, however, formalities to be observed, she declared, her tone suddenly serious and ceremonial. An alliance of this magnitude must be properly sanctified. Tell me, what is your full name?
+
+I froze. The whiplash from her sudden character development was severe. Best friends? A sovereign’s vow? And now she wanted my full name? It was such an odd, redundant thing to ask. Well, my family name in my old world was Ghost, I thought, trying to process the strange request. My username (Ana - ghost_in_the_machine) was just a simple wordplay on my actual name… but why is she asking?
+
+"Um… Ana Ghost," I said, my new voice feeling strange and hesitant for the first time.
+
+Liz puffed out her chest. "Then I, Liz Hydrus, hereby swear on my draconic lineage, an unbreakable vow," she proclaimed, her mental voice ringing with power. "From this day until the final star is unmade, my soul shall be bound to yours in fealty and friendship!"
+
+She paused. You may not be aware of the intricacies, Ana Ghost, but souls in this reality are recycled. A tedious, bureaucratic process. But a vow like this, sworn on a true name, is… different. As a proud fifteen-headed hydra from the Spirit Realm, I am informed about many things.
+
+My internal processors flagged another inconsistency. Fifteen heads now? The rate of inflation on her head count is alarming. But a more critical question pushed that thought aside. How did she know about soul recycling?
+
+This vow ensures that even should I be reincarnated as a particularly stupid garden slug, my soul will remember you. It will be instinctively drawn to assist you, to protect you, across all cycles.
+
+I immediately ran another deep diagnostic. [SPECIES: Skink (Common). ANOMALY: Disproportionately high Logic and Order stats for species template. NOTE: No draconic or hydra markers detected.] What was happening? I was going to have to draft another complaint. TO: MOTHER_SYSTEM_ADMINISTRATION. SUBJECT: URGENT: User is exhibiting awareness of core metaphysical functions outside of designated clearance level.
+
+"That is… very generous of you, Liz," I managed to say.
+
+It is merely what is due between comrades, she said, preening. Now, to business. With our funding secured, let us procure the potions and begin Project Double Negative in earnest.
+
+The first phase of the plan hit an immediate and entirely predictable snag. We had the money, but access was the issue. As my initial data scan had shown, Potions of Minor Confusion were a restricted Tier-2 Cognitive Agent. We couldn't just walk into a shop and buy them in bulk, even with our newfound wealth.
+
+This is a problem of bureaucracy, Liz fumed later that day, after a scouting trip confirmed the restrictions. They guard this substance as if it were a state secret, yet they allow any fool with a wand to cast the spell itself. The logic is flawed.
+
+[It's not about logic; it's about control,] I explained, my voice resonating in her mind. [Anyone can cast the spell, but brewing a stable, consumable version requires resources and expertise. By restricting the potion, they control the means of mass production and distribution. It's a supply-chain issue.]
+
+Our first attempt involved discreetly purchasing a single, bad-tasting vial from a licensed but morally flexible student. When Liz, riding on Dave’s shoulder, presented him with the murky-looking vial, he recoiled.
+
+"Ew," he said, wrinkling his nose. "No way. It smells yucky."
+
+He refused to drink it. Our grand plan was being foiled by the palate of a picky toddler.
+
+[User compliance is a persistent issue,] I noted. [We need to re-package the product. The delivery system is flawed. We need a solution that is both palatable and circumvents the purchasing restrictions.]
+
+My mind sifted through the data from my old world, searching for a solution. A memory surfaced, a taste of sugar and fizz, and a plan began to form—one that involved social engineering and a bit of alchemical misdirection.
+
+An hour later, the new operation was in motion. Liz, carrying a carefully penned letter, visited a high-end alchemist in the capital. The letter, written in a grand, looping script, was from a "Lord Vulper," requesting a special commission. He required a large, enchanted decanter that would perpetually refill with a... "unique relaxation draught."
+
+The letter was a masterpiece of corporate doublespeak I'd helped her draft. It explained that "Lord Vulper" was a man of peculiar tastes who found that only a very specific, mind-muddling concoction could help him unwind after a stressful day. It was a personal brew, not for resale, and of course, discretion was paramount. Attached to the letter was the precise, step-by-step formula for a Potion of Minor Confusion.
+
+The final, crucial touch was the flavor modification request. The letter specified, in great detail, that the potion must be altered to taste exactly like a "bubbly, sweet, dark brown beverage, with hints of caramel and spice."
+
+The alchemist, seeing a lucrative and eccentric noble client who was essentially paying a premium for a custom-flavored, self-refilling bottle of what amounted to arcane liquor, was only too happy to oblige. He didn't see a restricted cognitive agent; he saw a rich weirdo's personal cocktail.
+
+The next day, the decanter arrived. I stored it safely in my inventory. When Dave was struggling with his magical theory homework, I materialized a single, cool glass of the fizzy, brown liquid on his desk.
+
+He looked at it, his eyes wide. "Ooh, what's this?" He sniffed it. He took a hesitant sip. His eyes lit up. "Yummy!"
+
+He chugged the entire glass. A moment later, the familiar, beautiful double-negative effect took hold. His eyes cleared, and he stared at his textbook with a look of profound understanding.
+
+He didn't just begin to write; he attacked the parchment. For the next sixty seconds, Dave was a flurry of pure, unadulterated efficiency. His quill, usually held in a clumsy, uncertain grip, became a blur, scratching across the page with terrifying speed and precision. Ink flowed in a constant, unbroken stream of elegant script and complex, arcane geometry. He wasn't just answering the review questions at the end of the chapter; he was deconstructing them, rewriting them to be more challenging, and then answering those new, superior questions with elegant, multi-layered proofs.
+
+I tried to follow his progress, my analytical subroutines attempting to parse the data stream of his work. My processors, capable of analyzing planetary-scale events in real-time, were flagging, struggling to keep up with the sheer density of his cognitive output. He wasn't just recalling information; he was synthesizing it, creating new theories on the fly.
+
+Liz was equally stunned, her tiny body rigid on his bookshelf. It is not mere comprehension, she projected, her usual arrogance replaced by a tone of awe, and a hint of reverence. He is not solving the problems; he is dismantling them, finding flaws in their foundational axioms, and rebuilding them into something more elegant. The patterns… it is like watching an architect of creation at work.
+
+Halfway through his sixty seconds of brilliance, he finished the assigned reading. Without pausing, he grabbed another textbook from his shelf—an advanced treatise on elemental harmonics—then another, this one on metaphysical engineering. He flipped through them, his eyes scanning pages in mere seconds, cross-referencing concepts, scrawling notes in the margins that corrected the published authors, and sketching out diagrams for spell matrices that shouldn't have been possible.
+
+It dawned on both of us in the same chilling, awe-inspiring instant. The confusion potion didn't just make Dave competent. It unlocked a cognitive engine so powerful, so terrifyingly efficient, that for sixty glorious seconds, the bumbling wizard we managed was, without a doubt, the smartest person in the room. Smarter than the genius hydra. Smarter, perhaps, than the trans-dimensional system tasked with managing him.
+
+As the effect wore off, he blinked, the divine clarity fading from his eyes. He looked down at the pages of flawless work, the complex diagrams, and the corrected textbooks. A look of familiar, vacant terror crossed his face.
+
+"Aah!" he squeaked, and promptly fainted, sliding gracefully from his chair to the floor.
+
+Liz and I were left in the sudden silence, staring at the evidence of the storm that had just passed. Our triumph felt… different now. It was laced with a new, profound sense of caution.
+
+Not only did we patch our user, but we also installed a piece of software we didn't have the admin privileges to control.

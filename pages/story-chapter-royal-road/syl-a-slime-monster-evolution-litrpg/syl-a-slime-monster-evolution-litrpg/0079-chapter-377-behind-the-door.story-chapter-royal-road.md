@@ -1,0 +1,183 @@
+---
+id: 100f02a4-de84-5c2c-991d-a258f26b5fab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 377 : Behind the Door"
+slug: 0079-chapter-377-behind-the-door
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 79
+ownLength: 2348
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3323504/chapter-377-behind-the-door"
+royalRoadId: "3323504"
+---
+
+With a location found, I tore open space and emerged before the large object I had sensed from afar. No, I wasn't being too lazy to walk; this was clearly my power-leveling method to raise my skill as quickly as possible.
+
+I was greeted by a massive set of double doors, looking like an ancient gateway or, perhaps, even a prison sealing in some demonic entity.
+
+"Wow, talk about a gaudy door. This is probably too much even for Vee."
+
+Outwardly, the door was made from every kind of luxury metal you could think of: golden filigree covering the entire thing, imagery wrought in silver, platinum trim, not to mention gems and other such riches were socketed throughout. Inwardly, however, I felt like the truth behind the door was only surface-level, and only its outer layer was this extravagant.
+
+I touched the door, with the intention of eating some of it and breaking my way through, only to discover that it was made of the same material as the dungeon brick.
+
+I still don't know how Leon could dismantle the dungeon. I really should have brought him with me.
+
+As I was fuming at letting the crab run away, I caught a glimpse of the door radiating a glow. Looking more closely, I saw that four illustrations were engraved on it, and two were glowing, while the other two were darkened. I examined the two glowing ones.
+
+"Is this the purpose of the guardians? So I'm guessing there are four of them?"
+
+I looked closely at the two that were glowing; however, the imagery was extremely abstract, and I wasn't sure what they actually were. I was going to ignore them, but when I scrutinized the two faded ones, I thought they might resemble a crab and a shark.
+
+"Whoever drew this is a terrible artist, but at least that confirms that these are the guardians. Also, it appears that the victories aren't attributed to me directly; rather, whoever is alive is keeping the door sealed."
+
+This also meant that Vee's team had not yet discovered a guardian, leaving two more up for grabs. In spite of that, with the door right in front of me, how could I leave so soon?
+
+I'm assuming guardians won't just magically disappear if I defeat the [Dungeon Master]. So there's no reason I can't go back to my appetizer after dining on the main course.
+
+I studied the door a bit more, but it was a mystery to me. At the same time, I struck it a few times with spells, slime, and even tried folding and cutting it. My efforts only scratched its garish surface, though, leaving only one other option.
+
+[Personal Rift], it's your time to shine!
+
+I activated the skill and connected with the rift, feeling its presence spreading out and making itself known in the dimension we inhabited. As ever before, there was immense resistance at the door, and each inch of progress required double, if not triple, the effort. I was actually concerned that I hadn't expanded my reach enough, but thankfully, level four was enough, and I could sense the space I needed to tear open.
+
+With a triumphant grin, I drilled through and opened connecting apertures from one side of the door to the other, and without further delay, jumped through. My act of defiance didn't go unnoticed, though, and the dungeon itself seemed to tremble with rage.
+
+Closing my tears, I looked back at the door; this side was just as flashy as the front. I gave it a push, but it still wouldn't open from this side either. If not for [Personal Rift], I would be trapped down here.
+
+Speaking of here, it looked like I was in a tunnel heading downward, which explained why there was no way except through the door. The ambiance was eerie, as if descending into a forbidden domain; I had to give the creator credit: aside from the atrocious door decor, he knew how to set the tone.
+
+"Ready or not, here I come!" I shouted, echoing down the tunnel.
+
+Space, however, was tight, and the restricted area made traversing through apertures too tedious, so I walked down instead. As I descended, the dungeon grew darker and darker, giving me the feeling that I was entering the abyss. Even the walls seemed to be growing almost alien, and the previous godly temple theme was now nothing but ominous dread.
+
+I must have been descending for almost half an hour, sensing my distance from Vee grow, when I finally reached an opening into pitch darkness. I spread my senses out, but the darkness felt somehow oppressive, restricting almost everything from all three of my soul traits.
+
+Huh, I've never experienced this before…
+
+Before I entered, I was cycling through various methods, trying to find some hint of what I was heading towards. There were no tremors, heat, conductivity, Mana, essence, lifeforce, or anything. It genuinely gave me the creeps, even [Darkvision] was failing me.
+
+Yet before this eternal darkness, there was one saving light, [Spatial Sense]! Although it came with one big caveat: it was only effective within the range of my [Personal Rift]. Wherever my rift touched, I could calculate the coordinates of.
+
+This sensory oppression must be a power of the dungeon, then, as why else would it block everything else? My rift has been the only exception to the walls, and now it is the only solution here.
+
+At first, I thought that this was too unfair. How was anyone supposed to defeat this? But then I realized that you weren't actually required to defeat the supposed "Great Lord of the Ocean," you were granted an audience with him after beating the four guardians.
+
+Well, except for me, I've broken the dungeon's rule and skipped half of the trial. Probably the only reason it isn't lashing out is my [Experiment] Emblem. Although once I attack, that protection is null and void.
+
+That thought made me hesitate for a moment. Was I actually capable of defeating a [Dungeon Master] that no longer had its hands tied by the rules of the gods? Maybe it was the oppressive darkness, but I realized I was actually considering turning around, and slapped myself out of it.
+
+No! If that dragon [Experiment] could defeat Juniper, who I bet is stronger than this ocean guy hiding down here, then I should be able to do the same! I don't know who's behind the dragon, but I've got Gramps, Mother, and Unc behind me. They believe in me, so I can't let them down!
+
+A newfound confidence was burning brightly inside me, and with my resolve firm, I stepped out of the tunnel and into the abyss. Each step forward was met with the suffocating darkness trying to step in, yet with the presence of my rift, I felt secure, even as I felt the tunnel leave its radius.
+
+I continued walking forward, with no real sense of direction or destination. My hope was to eventually feel something enter the radius of my rift, and I could take it from there. Yet, before that happened, a large, glowing, lidless eye suddenly appeared before me.
+
+"Who dares enter my domain!?" a voice echoed out from the abyss, almost exactly like how Dran had done it with his tree.
+
+Is he a darkness-type monster? Maybe a shadow?
+
+I thought back to the holy symbol I had received: an eyeball with tentacles. From that, I thought he started out as a squid or an octopus, then underwent a shadow mutation. Shadow creatures were notoriously hard to deal with; however, I still had [Light Magic] in my back pocket.
+
+It's hard to tell since the eye is outside of my [Personal Rift] range. I need to get closer and find out what he truly is.
+
+"The name is Syl, nice to meet you [Dungeon Master]," I replied.
+
+"Pathetic slime, you may only address me as the Great Lord of the Ocean!"
+
+I rolled my eyes, feeling that while his words were threatening, they felt strangely hollow. When I was but a humble slime, just the mere presence of the Dreadlich Simon was enough to make me tremble, yet I was feeling none of that outside of the darkness, trying to erode my mind.
+
+All bark and no bite? I couldn't help but wonder.
+
+"Drop the act. You know I'm an [Experiment], why bother with all this bluster?"
+
+The eye trembled with rage as it glared at me. If looks could kill, I would've been a slimy smear on the ground.
+
+"Why have you come? You're the second one of your kind to interfere with me. The first was at least an ocean creature, but you are a mere slime, what gives you such confidence?"
+
+"What gives me confidence? Well, I am the [Experiment] of Gramps, or should I call him the Grandfather of Traits?"
+
+The eye trembled again, although this time it seemed almost fearful.
+
+"You dare refer to a god so casually? Do you want to be smitten?"
+
+"I mean, Mother is the Mother of Magic, so Grandfather of Traits makes sense. I don't know what Unc does, so he's just Unc."
+
+The eye continued to tremble, the only way it seemed to express its emotions. Sadly, I couldn't decipher the meaning behind these ocular tremors.
+
+Since he wasn't responding, I continued talking. "Also, if you think I'm just a mere slime, why don't you examine me more closely?" I smirked. "That's if you can."
+
+I heard what sounded like a scoff; no doubt the [Dungeon Master] didn't believe me and felt it was beneath him. However, judging by his silence and the new tremors in his eye, he must have done it. Then I watched as the pupil dilated, seeming to gaze at me in a new light.
+
+"Unauthorized!? From a mere slime?"
+
+"Doesn't it make sense, though? Have you ever heard of a slime that's evolved four times?"
+
+"I… Can't say I have."
+
+Wow, he actually admitted it. Who knew my [Unique] Emblem would be such a big, threatening stick against these [Dungeon Masters]?
+
+"Exactly. I'm holding lots of secrets from Gramps, hence why he gives me some special treatment."
+
+My reason for this attitude and approach was simple: I wanted to see if I could scare this [Dungeon Master] into relinquishing his Emblem to me. Even if that was a shot in the dark, at the very least, I could say this was some psychological damage against him when we clashed. If he was scared of earning the ire of Gramps, even if he was allowed to defend himself, he might slip up.
+
+Anything for a win!
+
+"Be that as it may… Why have you infiltrated my dungeon? Why have you eaten my guardians? And why have you come here?"
+
+"Well, it's a bit of a funny story, but I was having a chat with Mother, and she gave me a suggestion," I said.
+
+The pupil dilated again. "Go on…" Evidently, he was extremely curious about what a god had said to me.
+
+"Mother said I should become a [Dungeon Master]."
+
+There seemed to be genuine confusion in its tremors this time, as if trying to desperately understand the underlying threads in this sticky web.
+
+"I see… So have you come to me for advice? Unfortunately, I think you are a bit too young to qualify to become one, despite your rapid growth."
+
+I shook my head. "No, I didn't come for advice."
+
+"Then…?"
+
+"Mother said I should usurp the Emblem."
+
+The eye widened unlike ever before. Then it began to violently tremble. It appeared to be rapidly shifting between shock and rage, with perhaps a hint of fear. It seemed not to know how to respond to such a declaration, and, with the way it was twitching, it seemed to be desperately trying to formulate a response.
+
+"Would you be willing to surrender your Emblem to me?" I asked.
+
+I knew it was unlikely, but I thought it was still worth the shot. Even though this guy had pissed me off by stealing food straight from my mouth, I had invaded his domain. If he gave it to me, I'd forgive him and let him go.
+
+"No." The response was swift and sharp; evidently, no matter what I said, he wouldn't give it up.
+
+I sighed, putting on a show that I was disappointed and somewhat reluctant.
+
+"I can point you towards another dungeon… Perhaps you'd like to try your luck there?"
+
+I was surprised by the offer, but I shook my head. "I don't want to risk angering the dungeon alliance."
+
+"How do you know of the dungeon alliance? No, how do you know that I'm not a part of it?"
+
+"I asked."
+
+There was no hiding the shock in the eye. No doubt it was trying to figure out who sold it out, and perhaps even regretting having turned down the offer to join the alliance.
+
+"No. I'm sorry, but I cannot give up my Emblem no matter what you say."
+
+His tone had changed somewhat, and I felt like he might be suppressing his emotions now.
+
+"Then I'm sorry, but I have no choice but to usurp it."
+
+"You dare!? If not for you hiding behind your status as an [Experiment], I would have already had the abyss devour you! Now you try to bully me into giving up my years of work?"
+
+"I know that once I attack, your chain is removed."
+
+"And yet you still push your luck?"
+
+"No, I've just reached the stage where I'm not afraid of you. Chained or not, it makes no difference now."
+
+With that declaration, I rapidly began withdrawing slime mass and swelling in size. My own monstrous shapes were taking form, mixing many of the different creatures I'd devoured into a mass of writhing beasts. Yes, it was purely for show, but judging by the reaction from the eye, it was doing wonders.
+
+"I'm not kidding! I really won't hold back!" he bellowed.
+
+"Don't worry, I won't either."

@@ -1,0 +1,185 @@
+---
+id: ce720fd0-cf06-59fd-82b2-1f8ac848d2f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86: The Weight of a Secret"
+slug: 0087-chapter-86-the-weight-of-a-secret
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 87
+ownLength: 2631
+unit: words
+publishedAt: 2026-06-21
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3571839/chapter-86-the-weight-of-a-secret"
+royalRoadId: "3571839"
+---
+
+[Content Warning: The middle section of this chapter contains descriptions of gore and darker elements. Please read with caution!] (>_<)...
+
+Raina clutched the heavy burlap sack to her chest, the coarse fabric scratching against her chin. The bustling market of the Lower District faded into the background roar of haggling merchants and braying livestock. She had managed to secure a small wheel of sharp cheese, a bag of dried lentils, and, most importantly, a thick cut of salted beef.
+
+She turned away from the butcher’s stall, scanning the crowd. "Liam?"
+
+She spotted him a moment later, walking slowly toward her from the direction of the tanner’s alley. He looked pale, his head bowed, his hands shoved deep into the pockets of his linen trousers.
+
+Raina’s brow furrowed. She walked over to him, her protective instincts immediately flaring. "Hey. Did those alley kids give you trouble?"
+
+Liam didn't look up. He just shook his head, a jerky, unconvincing motion. "No. It's fine."
+
+Raina frowned. She knew her brother. He was usually a bundle of restless, frantic energy. This subdued, fidgety silence was wrong. She assumed the worst—the street kids had mocked him, maybe pushed him around for wearing clean clothes. It happened often enough in this part of the city.
+
+She decided a distraction was needed. She lowered the burlap sack and peeled back the top edge.
+
+"Look," Raina whispered, a conspiratorial smile touching her lips. "I haggled the butcher down. We are going to have actual meat for dinner today. Roasted beef and lentils. Just like the feasts at the estate."
+
+That did the trick. The dark cloud hovering over Liam seemed to evaporate. His head snapped up, his eyes widening as he looked at the salted meat. The prospect of a hot, savory meal—a luxury they still weren't entirely used to—overrode the lingering shame of the alleyway.
+
+"Really?" he asked, a hesitant smile breaking through.
+
+"Really," Raina confirmed, hoisting the bag back onto her shoulder. "Now come on. Let's get back to the cottage before the rain starts."
+
+They began the walk home, navigating the winding, cobblestone streets that led toward the coastal road. The sky above was bruising, thick, charcoal-grey clouds rolling in from the ocean.
+
+For the first twenty minutes, they chatted about the upcoming dinner, arguing playfully over how much salt to add to the lentils. But as the crowds began to thin near the edge of the district, an uncomfortable feeling settled over Raina.
+
+It started as an itch between her shoulder blades. A prickling sensation at the nape of her neck.
+
+She glanced over her shoulder. The street was mostly empty, just a few laborers hurrying to beat the incoming storm. But the feeling remained. It was a heavy, suffocating awareness. Someone was watching them.
+
+Liam felt the sudden shift in her demeanor. The easy banter died. He looked up, his brow furrowing. "Sis? What's up? You're acting weird."
+
+Raina kept her eyes fixed straight ahead. "I don't know why, but we might be being followed. Maybe they saw me buy the meat. They might be trying to mug us."
+
+The word "mug" hung in the air.
+
+At that exact moment, reality crashed down on Liam. The memory of the alleyway, the bragging, the specific details he had blurted out to a group of strangers—it all slammed into him. His throat dried up instantly. He instinctively gripped his sister’s hand, his small fingers digging painfully into hers.
+
+Raina looked down. Tears were welling up in Liam’s eyes, spilling over his lower lashes. This wasn't the reaction to a potential mugging. He had faced down thugs with sticks before. This was a different kind of fear. It was the terror of guilt.
+
+"Liam," Raina said, stopping dead in her tracks. The burlap sack slipped slightly from her shoulder. "What happened? What did you do? I promise I won't get mad, but you need to tell me what happened in that alley."
+
+Liam broke. He started sniffling, hot tears running down his cheeks and dropping onto the dry cobblestones, leaving dark, wet spots on the grey rock.
+
+"Sister," Liam choked out, his chest heaving. "I broke my promise. I... I talked about the estate. To try and fit in with the kids. I told them we worked there."
+
+Fear gripped Raina with icy claws. It felt as if someone had wrapped a hand around her throat and squeezed.
+
+Every resident of the capital knew the unwritten rule of the streets: never, ever get caught between two fighting nobles. It almost always led to commoner casualties. You were just collateral damage in their games. It was simply a matter of which side got to you first. The rival faction would capture you, torture you, extract whatever information you held, and kill you. If they didn't, the lord you served would hunt you down to silence the whistleblower.
+
+Commoners adopted a strict policy of absolute ignorance. Feigning stupidity was the only armor they had. Any action, any loose lip, meant death.
+
+No, Raina thought frantically, her mind racing. Lord Fenris is a kind man. He wouldn't punish Liam for a mistake. If we go to him now and seek shelter, he'll protect us. We need to get there now.
+
+Raina gripped her brother's hand tight. She spun around and began running. She didn't run toward the scrublands and their isolated hut. She ran in the opposite direction, sprinting toward the coastal road, aiming straight for the Fenris estate.
+
+In her panic, the heavy burlap sack slipped from her shoulder. It tumbled to the ground, bursting open. The wheel of cheese cracked. The lentils spilled like a handful of gravel across the stone pathway. The salted beef rolled into the gutter.
+
+She didn't stop. She just kept pulling Liam along.
+
+This action—the panicked sprint toward the estate instead of fleeing home—was Raina's biggest mistake. She was still too young to understand the broader implications of her decision. She had just confirmed everything the watcher needed to know.
+
+...
+
+The hooded, cloaked figure followed the two kids at a distance, sticking to the shadows of the overhanging balconies.
+
+He was moving out of sheer, unadulterated desperation. This was the only lead anyone in the Old Circle’s spy network had found in weeks, even if it was based on the rambling, made-up stories of a street urchin.
+
+Everything they had managed to gather so far was utterly useless. It was maddening. All the spies ever heard was endless rambling about how good the food was. It was what everyone talked about. The information they gathered always circled back to recipes and sauces. It had become the absolute bane of their existence.
+
+If you asked a servant about the internal layout of the mansion, you would get an answer about which table had the best view of the sunset during the appetizer course. Ask about the staff rotations, and you got stories about how if you were nice to the head chef, you might receive a sneaky extra portion of crab cakes as a gesture of goodwill. It was infuriating. They couldn't find any dirt, any scandal, any leverage.
+
+The spy had been listening to conversations in the market, trying to find a weak link, when he heard the name of the estate drop from the mouth of a filthy child in an alley. For once, he got something that wasn't about the menu.
+
+He didn't actually believe the kid was telling the complete truth. But there was something there. The intelligence they gathered from their stakeouts suggested that yes, the house indeed possessed three wolf pups and a baby. The spy had never seen a spirit around the infant, but he had seen the spirits of the elven staff interact strangely with the child from a distance.
+
+There was a nagging feeling in his gut. Something was going on at that estate. He could feel it.
+
+When he saw the girl suddenly drop everything she was carrying and begin running frantically, dragging her brother toward the coastal road, the spy smiled. A sadistic, sharp grin gleamed beneath the shadow of his hood.
+
+Got 'em.
+
+An innocent person doesn't run like that. And they certainly don't run straight toward the heavily guarded Fenris estate for protection.
+
+...
+
+The man followed them closely. As more time passed, he became absolutely certain these two rug rats had an intimate connection to the Fenris household.
+
+The storm clouds were finally gathering in earnest. Rain before winter was rare, but this was a port city, and violent squalls would often roll over from the coastlines without warning. The sky bruised purple and black.
+
+The citizens on the street began gathering their things, pulling up their hoods, and hunkering down for the storm. The roads emptied quickly.
+
+This was the perfect opportunity. The kids were tiring out, losing speed as they hit the incline of the coastal road.
+
+With a swift dash and a brutal swipe of his arm, the hooded man grabbed Liam by the collar of his shirt. He yanked the boy violently backward, tearing him away from Raina’s grip.
+
+Liam screamed.
+
+The man hauled the flailing boy into a dark, recessed alcove between two abandoned warehouses. He threw Liam to the muddy ground.
+
+"What's the rush?" the man asked, his voice cloudy and muffled by a scarf. "Let's have a little chat."
+
+Raina didn't run. She turned back, a scream tearing from her throat, and threw herself at the man, trying to claw at his face to retrieve her brother.
+
+It was of no use. The man simply backhanded her, the heavy leather of his gauntlet striking her cheekbone. The force of the blow sent her spinning into the brick wall. She slumped to the ground, her vision exploding into white stars. She was captured too.
+
+The man didn't waste time beginning the interrogation. The kids, terrified and desperate, bit their tongues and refused to speak. They shook their heads, denying everything.
+
+The man sighed, annoyed by the delay, and resorted to violence. He began beating two small, helpless kids in the mud of an empty alleyway.
+
+The rain began to fall in heavy, freezing sheets.
+
+He kicked Liam in the ribs. He dragged Raina up by her hair and slammed her against the brickwork. He demanded schedules, floor plans, names.
+
+The man was getting nowhere with his questions, but he was a seasoned interrogator, and these were just two kids. The more time passed, the more they resisted, the more certain he became that these kids actually worked inside the estate. He had finally found his big break.
+
+Liam and Raina were helpless. Their shouts, their cries, their desperate pleas for mercy were completely drowned out by the howling wind and the torrential rain pounding against the slate roofs.
+
+Liam went unconscious first. His small body simply gave out under the assault.
+
+The man was losing his patience. He had extracted a lot of information—guard rotations, the names of the elves—but none of it was useful leverage for Lord Greenwood. He had a strong inkling the girl knew something vital. She was keeping something back to save her lord.
+
+He pulled a long, jagged dagger from his belt. He grabbed the unconscious Liam by the hair, hauling the boy's limp head back, and held the rusted blade directly against his throat.
+
+The sight made Raina whimper, a pathetic, broken sound. One of Liam’s arms was bent at an unnatural, sickening angle.
+
+Raina wasn't doing much better. She was covered in fresh blisters and deep lacerations. Her eye was swollen shut. But Liam had gotten the worst of it. It appeared the man knew that if he brutalized the little brother, Raina was far more likely to break and talk.
+
+"Give me something I can work with here," the man snarled, pressing the edge of the blade tighter against the boy's skin. "Or say goodbye to the rat. I don't care about how they prepare the damn food!"
+
+Raina snapped. She lunged forward on her knees and hugged the man’s muddy, leather-clad leg, begging him to spare her brother. The words spilled out of her in a frantic, hysterical rush. She told him everything she knew. The layout of the kitchen. The names of the puppies. The delivery schedules. Tears mixed with the blood and rain water streaming down her face.
+
+She scanned through her memory for something, anything else. She needed something valuable.
+
+Then, she remembered a conversation she had overheard long ago. She had been sweeping the hallway outside the laundry room. Two of the elven maids were talking in hushed, urgent tones inside. The maids hadn't noticed her.
+
+The maids had been talking about how cute Lady Lily was, how adorable her silver hair looked in the sunlight. And they had been whispering about how they desperately needed to protect her secret. The secret of her being a half-elf.
+
+Raina struggled internally. It was a vicious war in her mind between ratting out the sweet little kid who had saved them that day in the courtyard, who had asked her father to feed them... and the life of her own brother bleeding out on the cobblestones right in front of her.
+
+Before her mind could even process the guilt, her heart made the choice for her. She blurted it out.
+
+"The lady of the house... she is a half-elf!"
+
+Upon hearing this, the man froze. Liam dropped to the ground with a wet thud as the man's grip loosened from the sheer shock of the revelation.
+
+The spy was happy beyond measure. A wicked, triumphant grin stretched across his hidden face. Finally. His life would be spared. Lord Greenwood might even reward him with a permanent estate position for this.
+
+This was incredibly good dirt. A newly minted human noble, presenting himself to high society, whose only heir was a half-blood bastard? The scandal alone would destroy Fenris's reputation. The conservative factions would devour him. This was solid gold.
+
+In his haste and jubilation, he didn't even bother finishing off the two kids. He assumed the cold rain, the broken bones, and the severe beatings would be enough to do them in before morning. He left them there to die in the freezing mud, rushing off toward the Noble District to find Lord Greenwood’s butler. They needed to confirm this fact, and it was easy enough to do so with the right magical scrutiny.
+
+But he was certain the girl wouldn't live long enough to warn anyone. He could tell by the way she was breathing. He vanished into the storm.
+
+...
+
+Raina crawled in the freezing rain.
+
+She dragged her unconscious brother onto her back, her muscles screaming in protest. If they stayed in the alley, only death awaited them. Every single movement hurt. One of her legs was broken, the bone grinding painfully with each inch she moved. She was practically crawling on her stomach toward the Fenris estate, dragging the dead weight of Liam behind her.
+
+In her heart, she promised she would make up for this blunder. Even if it meant serving the Fenris family for the rest of her natural life in chains, she would accept it if they just spared her brother's life for her mistake.
+
+She collapsed on the paved road directly in front of the massive wrought-iron gates of the Fenris estate. Her vision was fading to black. The rain washed the blood from her face into the dirt.
+
+Through the blur, she saw the heavy gates swing open. One of the elven perimeter guards had noticed the crumpled shapes on the road.
+
+Soon after, a tall figure in a black, silver-lined coat was sprinting through the rain. Sylas was rushing toward the two unconscious, broken kids.
+
+Raina finally let the darkness take her.

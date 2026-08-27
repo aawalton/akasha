@@ -1,0 +1,231 @@
+---
+id: 0de97985-bbc9-5003-afab-c5d0f26217ab
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-ONE: Take Me Somewhere Better"
+slug: 0051-fifty-one-take-me-somewhere-better
+partOf: super-supportive
+position: 51
+ownLength: 2835
+unit: words
+publishedAt: 2023-07-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1268514/fifty-one-take-me-somewhere-better"
+royalRoadId: "1268514"
+---
+
+“Kibby, I’m so sorry,” Alden said, staring down into her wide brown eyes. “I told you it might not work. Don’t worry. I have a lot of other plans.”
+
+She was frozen in place, waiting for a magic Alden apparently couldn’t produce.
+
+“Kibby—”
+
+“Your Artonan is vastly improved.”
+
+It was Alden’s turn to freeze.
+
+It definitely wasn’t Kibby. She was still sitting on the floor by his chair, unblinking. And that high, strange speech with the undertone of breaking glass…
+
+He slowly turned in the direction the voice had come from and saw a familiar gray alien with black eyes staring right at him.
+
+“Gorgon,” he breathed.
+
+And then, a moment later, he was out of his chair and—
+
+“We’re hugging? That’s new.”
+
+“Gorgon!” shouted Alden. “Are you here?! Are you real?”
+
+“I am real,” he said, squirming away from Alden, who had to force himself to let go. “But I am only here, if by here you mean ‘projected across dimensions into Alden’s mind through an uncontrollable urge to provide guidance to my spiritual progeny.’ Hello. I am shocked you are still alive.”
+
+“I am so happy to see you,” Alden gasped. “Even if it’s just in my head. I—”
+
+Gorgon held up a hand. “Wait. Time is extremely limited. This feature of myself isn’t one I am accustomed to. It’s supposed to be triggered in my death cave shortly after you have feasted on my corpse. ”
+
+“What?”
+
+The alien was leaning around Alden to examine the kitchen with interest. “I was never a fan of the life sacrifice tradition, so I skipped it. I’m much older and more powerful than I should be. I thought I could probably get away with transferring some of the benefits of my inheritance to you without the bother of dying and being eaten. Clearly, I was...more successful than I intended.”
+
+He was staring at Kibby.
+
+“You can talk without restrictions,” Alden said. He was still so busy processing his shock at the fact that he was speaking to Gorgon at all, he was surprised he’d even realized.
+
+Gorgon smiled at his wrists. “Yes. No bindings in the mind space. It’s been decades. I’d like to spend the next few minutes relishing in even this false freedom, but wasting the entirety of your first Rite for that seems too blasphemous. Even for me…even if you’ve chosen to perform it for an Artonan.”
+
+“This is Kibby,” Alden said in a rush. “I want to protect her.”
+
+“I can tell. Things like that are very obvious in this place if you know what you’re doing. Come here quickly.”
+
+He walked over to Kibby and crouched down. Alden followed and knelt beside him. After staring into the little girl’s eyes for a moment, Gorgon said, “This is going to be a disappointing first experience for you. I'm not what you think. And this doesn’t work at all like you’re hoping it will.”
+
+“I wanted to share whatever you did to me with her. It made me…I think it made my authority less susceptible to corruption?”
+
+“It did. But you can’t pass it on,” Gorgon said in a matter of fact voice. “You’re too young. Too weak. Too alive. You don’t initiate that process in this way. Drinking the successor’s blood is the second to last step in the inheritance, not the first. And you’re carrying an altered version of the gift anyway. You're incomplete.”
+
+He looked back at Kibby. “She’s exhausted,” he noted, running a gray finger idly over the demon-damaged sleeve of the lab coat. “It’s due to a chaos storm?”
+
+“We’re trapped on Moon Thegund.”
+
+“More like a gentle chaos breeze then. But I’m surprised you somehow ended up in one. Though I am loath to admit it, most wizards wouldn’t throw inexperienced humans, B-ranks, or Rabbits into such an environment. It’s too wasteful. You have bad luck.”
+
+He examined Alden’s face and then made an annoyed click with his forked tongue. “Never mind. You volunteered.”
+
+“I didn’t know exactly what—”
+
+“You’re frustrating. Be quiet and learn an ancient duty that has no place in today’s universe.”
+
+As soon as he said that, Alden became focused in a completely unfamiliar way. The room around them blurred into random colors so that he couldn’t make out any of the details save for himself, Kibby, and Gorgon.
+
+“My people practiced magic, though not in a form you would be familiar with,” said Gorgon, pacing around Kibby and tilting his head from side to side as if he were trying to examine her from different angles. “Humanity would see us as primitive in almost every way. But I think our understanding of life was so different that it’s difficult to make a real comparison. For us, power was a thing that came only through sacrifice.”
+
+He stopped walking and stared at Alden.
+
+“A few among us were chosen to measure and spend souls in order to aid them in the fulfillment of their true will,” he said. “That is how my teacher described it to me. And I feel like I should describe it to you in that way first. It was a position of great meaning to my kind, and it was one that I always looked down on. And now that I am alone, I wish I had at least pretended not to.”
+
+Alden didn’t know what the respectful thing to say was, so he just nodded.
+
+“Anyway, in more technical terms the Rite you just triggered by drinking the girl’s blood allows us to intermediate between a person and their own magical potential. Most of my people could not control the power they held, so those like me enabled them to use it. They came to us, we read their needs and desires, and gave them what they wanted if it was possible and fell within our very strict notions of what constituted a proper miracle. Basically, I was the village wishing well.”
+
+That was not at all what Alden had been expecting. “So…you granted wishes. Just like that?”
+
+“Not that simple. It required a lot of training. Come look into the girl’s eyes and see. If you can see. I’m not entirely sure what I transferred to you. Or how it’s been modified by the fact that you’re not the right species.”
+
+“You don’t know what you did to me?” Alden said, surprised.
+
+“I know what I meant to do. But you wouldn’t even have noticed I’d enhanced you if it had gone exactly as I intended.”
+
+Alden had more questions, but Kibby came first. “I just have to stare into her eyes?”
+
+He leaned forward and peered into them.
+
+“Nothing’s happening.”
+
+“Here,” said Gorgon. “Let me give you a push.”
+
+All of the sudden, Alden was immersed in a sea of deep emotions and desperate wants that didn’t belong to him.
+
+He was so scared. He missed them. The chaos kept trying to take him away from himself. He was tired. He didn’t want to die. He missed them so much, and it was his fault that they were gone. The guilt was crushing. He wanted them back. He’d give anything to have them back. Anything.
+
+Anything.
+
+“That kind of desire is common,” Gorgon’s voice said from a long way away. “Nobody has enough strength to raise the long-dead, though. Focus on the feeling for a moment. It will help you both to move past it.”
+
+Alden couldn’t quit focusing on it.
+
+Gorgon’s voice had helped him to separate himself enough from the yearning to finally realize that no part of it was his; it was entirely Kibby’s longing to have her father and sister back. But he was still drawn to the overwhelming power of the emotion.
+
+He examined it. Closer. Closer.
+
+As if he’d finally given it permission to do what it had always wanted, the gremlin in Alden’s brain took over.
+
+Something was weighed just beyond the limits of his understanding. Some part of him looked even deeper.
+
+No, it said firmly. Not that.
+
+There was not enough of Kibby to pay for that. She would end. It was fine for her to end, but it was unacceptable for the end to buy her nothing in return. Spending her in this way would create a perpetual unevenness. It was not allowed.
+
+“Of course I can’t bring her family back. But can’t I do something to make her stronger?” Alden asked desperately. “Strong enough to survive until help comes?”
+
+“No. Try it. Focus on her exhaustion, on the way she is under assault from the environment you’ve found yourself in. You’ll see.”
+
+Alden focused. The gremlin did too.
+
+It became confused.
+
+Flawed? it said, much more tentatively than it had when it was nitpicking Joe’s private contract to death.
+
+“I don’t understand. And it—the thing in my brain—doesn’t understand?”
+
+“That’s because a successful Rite requires the destruction of the very resource you’re aware you need to enhance. On top of that, they think your alignment with the supplicant’s will might be flawed. They care a great deal about making sure you understand her. I am a little glad I passed that part onto you. It’s quite helpful even today. But they won’t allow the Rite to take place if you can’t come to an accord.”
+
+Alden frowned. He didn’t look away from Kibby’s eyes. He could feel a profound rejection from her at the word "destruction." Some part of her was aware of what Gorgon had said. “The Rite destroys authority?”
+
+“Sacrifice for power,” said Gorgon simply. “As I said, a disappointing first experience for you. It was an expensive method of performing magic in more ways than one. And it has little use in the present we both live in. Take me somewhere better now.”
+
+“What?”
+
+“I have been chained to a desk for years. Literally. I want to see something other than an Artonan kitchen.”
+
+“Wait, Gorgon. This can’t be all there is. Isn’t there something else we could—“
+
+All of the sudden the two of them were sitting side by side in familiar blue plastic seats. Buildings slid past the windows.
+
+“So this is the L,” said Gorgon, turning and pressing his face to the glass. “I have never ridden it.”
+
+“Kibby!” Alden leaped up. “Where did she—?”
+
+“The girl is exactly where you left her. Right beside you in the kitchen. It’s only been two or three minutes. And I think I can only afford a couple more. Why is this your favorite memory of the L?”
+
+Oh. Was it? Alden wasn’t sure how he would even know what his favorite memory of public transport was without a lot of thought. But then he spotted a box on the seat across from him, and he realized it was true.
+
+“I didn’t like lunch at school that day,” he said. “And Aunt Connie was in a party-all-night phase, so I knew there wasn’t going to be anything but cereal for dinner at home. The woman who got off the train at the last stop accidentally left behind an entire pizza.”
+
+Gorgon’s posture brightened. He stood and grabbed the box. Then he took a slice so hot the cheese strung almost a foot when he tried to separate it from its fellows, and shoved it into his mouth. He thrust the box toward Alden.
+
+“Can’t I do anything to help her?” Alden demanded.
+
+Gorgon was chewing like he fully intended to finish off the piece and several more in addition before time ran out.
+
+He gulped down a quantity of pizza that would have choked a human, and said, “Not with the Rite. And I’m going to ask you not to do this again, please, unless both of our circumstances become much different than they are now. I have a feeling the price of this unexpected mental field trip is going to be very high for me. Also, if you’d done this with a wizard with real power and experience they wouldn’t have been pulled under into the pleasant mental state the child is enjoying right now. They would be quite aware that they were being deeply accessed.”
+
+Gorgon waved the pizza box at him again. It smelled heavenly.
+
+Sighing, Alden took a piece and bit into it. Even as upset as he was, he had to hold back a moan. The pizza tasted exactly as good as it had been that day.
+
+“Sorry…” he said after he swallowed. “I mean if I’ve caused you trouble by doing this.”
+
+Gorgon shrugged and shoved another slice into his mouth.
+
+“Sorry for accidentally depriving you of food options,” he said around a mouthful. “That part of the gift can’t handle being away from our home world. At all. They have no knowledge of other planets and are afraid anything related to an animal they don’t recognize might have a soul. It is very inconvenient.”
+
+“Uh…no problem. They?”
+
+Did the gremlin have a brother?
+
+“Oh, that’s right. You think of them as singular. In their proper form they’re part instinct, part combined ancestral knowledge from all who have come before you. However, their function is supposed to be enhanced, modernized, and heavily guided by the spirit of your immediate predecessor. It would have helped you a great deal, since I actually understand that drinking a glass of milk won’t initiate a sacred and intimate bond between you and the cow. But I didn’t want to die and join them, so…”
+
+Alden shook his head. “You made the right call. One hundred percent. Vegetables are great.”
+
+Especially since passing on the full benefits package involved the successor eating a body in a death cave. Alden would not be doing that. He didn’t care how magnificent his gremlin’s missing features were.
+
+“The grem—they seem to think I can eat anyone who entrusts themselves to my skill.”
+
+“That would only make sense if they believed the people in question were willingly giving their lives over to you. Were they knowingly rendering themselves helpless and placing themselves within your power?”
+
+Alden stared down at the chunky tomato sauce on top of his pizza. “I never really thought of it that way. But…yeah. I guess they were.”
+
+He hadn’t considered how it must feel to another person to entrust themselves. It had to be a little scary to let a stranger have total control over what happened to you in that way. Like being anesthetized before surgery. Only Alden wasn’t a doctor surrounded by a bunch of other professionals; he was just some alien teenager with a creepy outfit.
+
+“Wait. If that’s how it judges food…how did you eat the fly? Did it give itself to you?”
+
+“Asking the critical questions in our last few seconds together, are we?” Gorgon said dryly. “If I hold them in my mouth long enough, they eventually fly or crawl far enough down my throat on their own for my digestive juices to dissolve them.”
+
+“…okay.”
+
+“It was bothering me.”
+
+“You could have swatted it instead of having a religious experience with it.”
+
+His four nostrils flared. “I just said, didn’t I? The Rite won’t trigger for a fly. Maybe for some Earth animals. Not sure. To be honest, I have some concerns about octopuses. But most of your wildlife should be comestible. I’m trying to teach them that. One stolen bite at a time. My restrictions are making it a slow process.”
+
+Alden took another bite of his pizza. “I’ve taught it that wordchains aren’t evil. Mostly. Well, it works for the minor ones now.”
+
+“Oh dear,” Gorgon sounded amused. “What I gave you is quite limited. Wordchain debt would resemble a trigger for one aspect of the ancient duties, but not that closely. They should be able to tell that chain users aren't…”
+
+He blinked. The semi-transparent eyelids looked just as strange as they always had.
+
+“I can’t hold the connection. Alden, your friends are fine.”
+
+“Boe and Jeremy?” His stomach clenched. It had been so, so long. He tried not to think much about what everyone at home must assume.
+
+“They’re both fine,” Gorgon said hastily, his eyes were fixed on the city like he was trying to drink in the sight of it. “Remember not to do this to me again. I hope you make it. The inheritance will help you with the chaos at least. Even though I didn’t intend for it to be like this, I am glad you—”
+
+Alden was back in the kitchen. One of his hands was resting on the table, and the painted logogram beneath it was still wet.
+
+It took a second for him to collect himself, and when he did, he looked down at Kibby. She was blinking up at him expectantly. “Is it working?” she asked.
+
+“It isn’t,” he said, peeling his palm away from the paint. “I’m sorry. We’ll just have to go on to Plan 2.”
+
+She sighed and stood.
+
+“You don’t look as disappointed as I expected.”
+
+“I feel nice,” she replied. “Like I had a good dream.”

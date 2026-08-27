@@ -1,0 +1,109 @@
+---
+id: dce1ed01-90d1-51fc-9632-9e2b6312370c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Praise Miss Fish"
+slug: 0030-chapter-30-praise-miss-fish
+partOf: succulent-girl-evolution
+position: 30
+ownLength: 1944
+unit: words
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2645978/chapter-30-praise-miss-fish"
+royalRoadId: "2645978"
+---
+
+They had almost reached Miss Fish’s pond (they had to deviate from the main, cleared-out path quite early) when Link’s ears swiveled. He had been leading the way but froze, causing Bubbles to bump into him at the unexpected stop.
+
+“What is it?”
+
+“How quickly can you run?” Link asked as he loped away. Bubbles scrambled after him, doing what she thought was an exceptional job at keeping up with her stubby roots. The magpies roosting in Bubbles leaves hunkered down, feeling Link’s tension.
+
+“Is Throttler coming back?” Bubbles asked with dread. Link picked up his pace.
+
+“Perhaps, though it seems he is being stalled. You never did tell us who ended up rescuing us,” he added to the magpies.
+
+“We were hoping it would be a surprise, but it seems like we can’t keep it,” Miss Magpie said after a quick consultation with the other magpies. “We returned to meet with the fish Guardian, and we followed her as she flew into the woods to rescue you two. While on the way, she begged us to extricate you while she saw to her duties—not that she had to ask at all,” she added hastily.
+
+“‘Flew?’” Bubbles repeated, horrified. “How can she leave the water? Is she on a suicide mission?”
+
+“I suspect we will find out the particulars soon,” Link said grimly as the sound of crashing, snapping, and roars grew louder. He sped up even faster, urging Bubbles to follow him as they snaked their way behind a sufficiently thick tree trunk—right in time for whatever was causing the commotion to roll through the path they had just vacated, creating another clearing of broken trees and crushed shrubbery. Bubbles gasped at the sight.
+
+Thick, green vines were wrapped around a long, sinewy, white body. A giant snout, significantly larger than Link’s snout, chomped down on one tendril as the snake-like body slid through the tangle of vines, freeing a pair of legs that ended in sharp claws that immediately slammed through the green mass, holding it in place as the rest of the body extricated itself.
+
+Thrashing its head the same way Link thrashed his prey to snap their necks, the most magnificent creature Bubbles had ever seen ripped the vine it had been biting off, causing Throttler to utter a pained shriek that echoed into the sky.
+
+She saw the now-familiar purple flowerhead convulse beyond the mass of green before retaliating, whipping several more vines around its gleaming white opponent to try to draw it closer.
+
+[A dragon. I should have known,] Rock mused. [I, for one, am finally feeling optimistic.]
+
+“A dragon?” Bubbles repeated, awed. She noticed a pair of long whiskers flowing from the dragon’s snout, and several things finally clicked into place. “That’s Miss Fish!”
+
+“Indeed,” Miss Magpie said contentedly. She leaned closer in to whisper to Bubbles, as if she didn’t want her magpie hens to hear. “You can’t imagine how pleased I was when I finally returned with my squad—staking my honor on helping a dragon, though none of us knew it at the time—has greatly increased my reputation and standing among my family. Or it will, at least, once word gets back.”
+
+Link sat down, huffing. It was a moment before she realized he was laughing. “For once in my life, I am finally glad to be on the winning side.”
+
+“Aren’t you more often than not on the winning side?” one of the magpies asked Link. “You worked with the humans before, after all.”
+
+“Those were just jobs,” Link replied. “And yes, we usually ‘won’—but I never cared for the outcomes of the jobs in the first place.” He bared his teeth as he continued watching Miss Fish do battle with Throttler.
+
+Bubbles, for her part, was watching the fight with a strange mix of hope and fear: hope that Miss Fish would prevail, fear that she wouldn’t. Having seen and felt Throttler’s strength with her own senses, Bubbles feared for Miss Fish’s safety—there was no hesitation in any of Throttler’s actions, no concern about even her own safety as she fought, whereas it was obvious that Miss Fish was doing her best to mitigate damage to the surroundings, despite the trees already having been choked out by the vines. Bubbles felt an unpleasant tingling sensation run all throughout her body, wanting to run to Miss Fish’s aid despite knowing she would be easily crushed in a fight of such magnitude. It took thinking of Fern and Cuddles, helpless on her back, unable to flee even if they wanted to, to keep herself from charging into the fray.
+
+Fern was avidly digesting something she had managed to capture in her well as she watched, and Cuddles was enthusiastically waving several spines in the air as if cheering for Miss Fish’s victory, forcing the magpies around it to edge away to avoid being poked. Feeling their enthusiasm and hope buoyed Bubbles’s own mood, and she began to truly believe that Miss Fish would be victorious.
+
+However, Miss Fish paused in the middle of the struggle, as if realizing something. Throttler took advantage of her lowered guard and wrapped Miss Fish in several more tendrils, and the purple cluster lifted triumphantly in the air as the plant monster rolled, crushing Miss Fish into the earth.
+
+“No!” Bubbles and the magpies cried. Link stood up beside them, his hackles raised as he growled.
+
+Before Bubbles could decide what to do—her panic was such that she almost gave in to her instinct to run in and help Miss Fish at all costs—a large bubble of water appeared around the plant. Or more accurately, Miss Fish and Throttler were enclosed in a sphere of water, slowing the plant’s movements.
+
+Throttler may have been hindered in the medium, but Miss Fish wasn’t: as Throttler struggled to match her opponent’s speed, Miss Fish began tearing through Throttler’s vines. But instead of ripping the vines off of the creature, she just began tearing through the thickets that comprised the core of the plant ball, digging deeper and deeper into the creature as the vines whipped, trying to snag the dragon but unable to grab her in the water.
+
+Interestingly enough, the longer the plant remained trapped in the watery prison with Miss Fish, the plumper the vines became. At first, it merely looked as if it was gaining strength, becoming healthier—Bubbles presumed Throttler hadn’t had enough water to support her rapid growth—but they didn’t stop thickening.
+
+The plant also seemed to realize Miss Fish’s objective had changed, and began trying to escape the water entirely, ignoring Miss Fish’s flashing claws. Throttler barely managed to break the surface, her flowers gasping and waterlogged, before her body exploded.
+
+Bubbles hid behind Link, unable to bear witness to the gore, no matter how glad she was that Throttler’s reign of terror was over.
+
+Link placed a gentle—albeit clumsy—paw on Bubbles, patting her awkwardly. “It seems everything is over now.”
+
+Despite his reassurance, he made no move to approach the battlefield, and Bubbles remained hidden behind him, trying not to think about dying in such a horrific manner. She knew it was for the best; if not stopped, Throttler would continue growing unchecked, potentially killing the entire world—but seeing her explode because of too much water (arguably one of the most valued resources in the world) made her queasy.
+
+Eventually, things calmed down. Bubbles heard the sound of the water flowing gently towards them, and heard Miss Fish whimper as she pushed herself upright.
+
+It was that pained, pitiful noise that made Bubbles dart out from behind Link’s legs, running her way over to her friend. The friend that saved them all.
+
+“Miss Fish! Are you all right?” she cried, slipping slightly on the wet plant remnants. She lifted her roots, trying to avoid soaking in water—she knew it was silly, that she wouldn’t burst from excess water like Throttler, but she wasn’t quite ready to think of water as a “safe” substance yet.
+
+“Bubbles, Sir Link, I’m glad to see you two are well,” Miss Fish said, smiling through her exhaustion. She crouched on her front claws, lowering her body to the ground so she looked like a snake instead of a majestic dragon. She blinked, moss-colored eyes shining with joy as she gazed upon them. “You don’t know how relieved I am to see you safe.”
+
+“I’m so happy to see you in your final form!” Bubbles danced around Miss Fish’s face, tripping over one whisker in her excitement. Miss Magpie landed on a horn Bubbles hadn’t noticed before, one of a pair that extended far beyond Miss Fish’s skull. “Is this your final form? Does that mean you’re an official Guardian now?”
+
+“Well… yes, I suppose I am an official Guardian now,” Miss Fish said, embarrassed.
+
+“Congratulations,” Link said as he approached, settling on his paws to match Miss Fish’s pose. “You achieved your final form, and as your first Guardian act, you protected your forest. This was everything you desired, is it not?”
+
+Bubbles didn’t know a white, glowing dragon could blush, but Miss Fish turned pink. “I… I suppose so.”
+
+Miss Magpie cleared her throat from her spot on Miss Fish’s horn, making her large eyes roll upwards as she turned her attention to the avian. “You may have been victorious in eliminating the largest threat, but don’t forget there is a lot of cleanup that needs to be done. The Prime Family is here to help.”
+
+Right on cue, all the other magpies (including the male ones, some of which seemed to be nursing lopsided wings) flew up and landed along Miss Fish’s horns, all of them cawing in agreement.
+
+“Thank you for your support,” Miss Fish said gratefully. “You’re right, I have removed the main instigator, the heart of the incursion, but there are still several offshoots that need to be tamed.”
+
+She turned back to Bubbles and Link. “You two look exhausted. Let’s go back to my cave, and we can regroup.”
+
+Cheerfully agreeing with the plan, Bubbles followed Link and Miss Fish as they headed to the pond. However, a glint of purple caught her eye. Bubbles hedged, knowing she should continue following her real friends, but feeling… guilty, for not saying goodbye to a plant. No matter how deserved its ending was.
+
+I will be quick, Bubbles told herself before she scuttled over to the single purple flower.
+
+“The Guardian is amazing. She’s so strong,” Throttler said softly as Bubbles loomed over her. Without all of the other flowers around echoing her words, Throttler sounded so gentle and innocent.
+
+“She is,” Bubbles agreed proudly. She thought for a minute. “I guess you did a good thing, even though you hurt a lot of lives. Because of what you did, Miss Fish became brave enough to leave her pond to stop you.”
+
+Throttler fluttered the last of her petals in a weak giggle. “She deserves the win. I hope she becomes even stronger.”
+
+Bubbles watched the flower wilt, wishing her guilt would go away. She almost wanted to make the offer to graft her, but she knew Throttler’s personality wasn’t one she could live with long-term. Fortunately, Rock backed her up.
+
+[You would not be able to graft this flower, anyway. You need at least a stem, a proper cutting.]
+
+Accepting the outcome as it was, Bubbles placed the wilted flower atop a piece of wood where it was dry, so that Throttler could at least bask in the sun before she completely expired. Then she scampered off towards the dragon and the wolf, who had paused at the edge of the clearing to wait for her.

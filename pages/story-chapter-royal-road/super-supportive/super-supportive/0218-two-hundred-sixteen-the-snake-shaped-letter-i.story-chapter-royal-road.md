@@ -1,0 +1,307 @@
+---
+id: f88a033e-98c9-547d-897b-10dce3f08cc5
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTEEN: The Snake-shaped Letter I"
+slug: 0218-two-hundred-sixteen-the-snake-shaped-letter-i
+partOf: super-supportive
+position: 218
+ownLength: 4211
+unit: words
+publishedAt: 2025-05-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2258664/two-hundred-sixteen-the-snake-shaped-letter-i"
+royalRoadId: "2258664"
+---
+
+******
+
+216
+
+******
+
+“Um…so I think if you had one of those, or another device like it, hidden behind your shield…and you were being attacked by a Strength Brute who hadn’t felt your skill before…you could get away? With your power being more of an unknown, they’ll probably hit as hard as they can to make sure they break through, but then the device would be there…”
+
+Lucille was holding one hand out flat and lightly punching it with the other, to represent Alden’s shield and the imaginary attack against it. He’d gotten the idea right away, but he was still paying attention and nodding instead of interrupting. It was sweet of her to have spent time since their last fight thinking up a way he might be able to survive an S-rank of her subclass.
+
+Albeit a more ignorant S-rank.
+
+Febri flitted a few meters behind her, inverted himself in an aerial, and kept going. Alden refused to turn his head to see what other gymnastics the Agi was doing now that MPE was over for the evening.
+
+It was one minute after seven o’clock. They’d been dueling the whole time. Alden had succeeded in staying on the floor, taking advantage of the entire class period by refusing to fight in ways that allowed his opponents to land devastating blows against his skill. He’d even surreptitiously preserved a breath mint whenever he got the chance.
+
+He’d wanted to do MPE exactly right today—practicing double preservation with the mints, using a small amount of instructor-approved sand to increase his mobility, and trying to find ways to use his magic without completely fatiguing it. He hadn’t known when he decided to go that route that he was in for the kinds of battles where he’d actually be tempted to claim his skill was shot just so that he didn’t have to keep his cool around certain people.
+
+Not Lucille.
+
+She’d slapped down his final shield of the day, then pinned him to a dome-shaped obstacle in their dueling block more easily than he could have pinned an actual bunny rabbit. But he had no complaints about it. She’d let go the instant he conceded, and now she was trying to cheer him up by telling him he could buy Wrightmade gadgets in the future to surprise S-ranks who really wanted to kill him.
+
+Since their last duel, her braid had lost its hair tie, and she’d worked up a sweat against opponents more dangerous than him. She was dabbing her forehead with her suit sleeve.
+
+I hope she worked up a sweat fighting anyway, and it’s not the pressure of making conversation with me.
+
+She’d beaten him three times. Sticking it out to the end of duels meant a smaller pool of fighters, and that pool was even smaller than usual after all the crap people had pulled this evening. And Lucille had been astonishingly chatty for someone who often limited herself to yes, no, and thank you.
+
+“For something like a single-use punch returner…you would…you could special order it by second-year uni,” she said, brown eyes blinking at him. “If you wanted a stronger one than normal. And that way it would definitely be ready for you to start work right after graduation. For emergencies.”
+
+“Thanks. Getting ideas for gear is always interesting. Good duel. Or…well, it was a duel, and you were good.”
+
+Alden would rather spend two straight hours losing to her than fight some of the others one more time. He looked around at what was left of the class. Several students had been banished, and he’d seen at least one person storm off, despite the instructors warning everyone after their first dueling day that a string of losses wasn’t an acceptable reason to remove yourself from the gym.
+
+There was a palpable tension in the room. Glares, red faces, people hurrying toward friends to mutter grievances against whoever had pissed them off.
+
+“Those Elites letters,” Alden said. “I didn’t expect them to make so many people lose their—”
+
+He was cut off when Instructor Klein stepped away from a conversation with Big Snake, Foxbolt, and Marion and raised his voice. “Class is dismissed! Take care of your suits. Any performance notes we have for you will be in your inboxes tomorrow. I’d like the following people to stay behind for a quick talk.”
+
+He barked out a few names, then, “Alden! ”
+
+What did I do to get named?
+
+He’d been making a huge effort to be unflappable for the last half of the class.
+
+“… Astrid, Njeri, Haoyu, Max. And Lucille and Ignacio,” Klein finished.
+
+It didn’t sound like a group deserving of criticism to Alden. These were the people he’d have called out for their composure, actually.
+
+They all grouped up in the corner where Instructor Klein waited, making eye contact with each other.
+
+[We trouble?] Haoyu texted Alden. [Not fair if we are. Some of the others are so much badder.]
+
+[I was thinking the same.]
+
+A few people lagged on their way out of the gym, no doubt hoping to hear what the instructor had to say to a select portion of the class that didn’t include them. But a raised eyebrow from Klein had them moving again. When it was only the people he’d called on and the teachers left in the gym, the instructor said, “I won’t keep you long. I just wanted to thank you all for your levelheadedness during today’s session. None of you let your tempers get the better of you. Some of you made special efforts to be considerate of your classmates’ feelings on a difficult afternoon. The first hour of Friday’s MPE class will take place in another room. I’m sure you’ll hear about it from the others when they receive the notice. This group will come here instead and work with Instructor Foxbolt and Instructor Waker. Like usual.”
+
+Alden counted heads. Only ten people.
+
+An hour. He’s so much madder than I guessed if he’s taking a whole hour of gym time away from three-quarters of the class.
+
+“Please continue to behave as maturely as you did today. Your instructors do notice, even if we’re sometimes too busy pointing out problems to offer praise. Good work. That’s all.”
+
+******
+
+******
+
+The evening was cool and gray as Haoyu and Alden left the MPE building. They walked to North of North mostly in silence. Alden assumed that, like him, Haoyu was mentally drained and pondering how another school changing the way they handled their own hero program could turn a gym class at CNH sour.
+
+Alden had been curious about what Li Jean was doing earlier today, but he hadn’t expected it to matter too much to him. If a few S’s jumped ship to go to a new school, he’d miss some of them, but he wouldn’t dwell on their absence. It wasn’t like someone moving to a different campus was an eternal separation.
+
+He’d missed some Anesidora Social Dynamic. Or he’d underestimated just how abnormal the group of Avowed teenagers who’d succeeded in entering this program with him actually were. The hero track was full of competitive, obsessive overachievers who wanted to be able to beat others in super-powered combat. They had their own reasons for wanting to get stronger, and there were people in the class who didn’t completely fit the mold. But the mold was still there, and it shaped how they behaved.
+
+He and Haoyu came to the spot where they needed to cross the street to reach the main North of North building. A motorcycle passed, followed closely be a woman skating down the road on a spell that allowed her to glide above the pavement.
+
+“That was a rough class,” Haoyu said. “People warned me before I started school here that it was possible I’d end up in a class that was the tense kind of competitive with each other instead of the positive kind…but I’ve liked our group. We’ve mostly been getting along except for a few people. And then today happened.”
+
+Alden let his fingers fiddle with the zipper on his duffel bag. “Maybe they shouldn’t have done duels today.”
+
+“What if we’d done a team activity, and we’d ended up with the worst ones, though? It would have been a good day for something like the tower climb again.”
+
+“Yeah, that would have been better. They obviously didn’t anticipate a few acceptance letters from Li Jean making everyone lose their minds. Or they did anticipate it, and this was a psychological experiment to see which of us would crack first.”
+
+“I don’t think that was it, Alden. But at least if it was, we won! We didn’t crack.”
+
+“It was close there for a while. Right now, I’d let Li Jean take half of our class, and I’d say good riddance.”
+
+Haoyu turned his head to watch a passing skateboarder. “I didn’t see many of your fights. The one with Reinhard, though… ”
+
+“The one where I tricked him into letting me catapult his ass into a barrier and won? Or the next one, where I refused to shield myself and practiced dodging instead and he yelled about it like a toddler?”
+
+“Second one.”
+
+“He can go rub his face in his own bullshit. If he really thought we owed it to each other to use our full strength in every duel, then he’d be firing his biggest shot at me instead of saving it for higher ranks. Fatigue management is something we’re supposed to be learning. I’m under no obligation to stand still holding a magic target out for him to destroy.”
+
+The success of the Reinhard-catching trap he’d finally managed to try out had been the high point of class for Alden.
+
+Make a giant bird’s nest shield, drop it over the archer’s head, release preservation and act like getting him tangled up in a ton of cordage is the only goal. And then, when he shakes it off and takes a step onto the mess, re-preserve and fling him.
+
+Reinhard had flown headfirst at one of the barriers and hit it hard.
+
+Alden thought it was beautiful. Creative. Probably even historic. After all, how many Rabbits were there in the universe who could beat an A-rank Meister in that particular way?
+
+“Your cartoony idea worked?”
+
+“Flawlessly. He doesn’t take me seriously enough to be careful. I told you it would work on him. I told a couple of people it would, and they all doubted me.”
+
+Haoyu brightened. “Was it funny?”
+
+“So funny. You need to watch it. Reinhard didn’t appreciate it. As I’m sure you noticed.”
+
+By the time the rotation had put them in a dueling block together again, the archer had been steaming mad. Much madder than Alden had expected. He’d likely had a series of infuriating fights in between to stoke his temper.
+
+And as soon as Reinhard had realized Alden had no intention of trying the same tactic a second time, he’d flipped out. He wanted to prove he could blow up that bird nest shield, and Alden denying him the chance was the end of integrity, sportsmanship, and the world.
+
+“Foxbolt cancelled our duel and set off that firework in front of his nose when he started digging at my rank. He’d ignored a text warning from her, she said. And then he tried to tell her it was just some trash talk. I think she was going to say that there was a line for that kind of thing, and he was crossing it. But he went full baby and pointed across the gym at Max and accused Foxbolt of letting B’s say whatever we liked while she picked on him.”
+
+That was when the instructor had gotten fed up and sent Reinhard off to work out his feelings by running laps on the track.
+
+“Max is doing something different when he taunts someone,” Haoyu said. “It’s not venting.”
+
+“Right. It’s calculated. He makes people mad to make them stupid so that he can get them to walk into his spells. I think the instructors look at it like it’s an extension of his powers.”
+
+Reinhard was talking shit because he couldn’t control himself. If Max was talking shit, he was probably controlling himself and whoever his victim was. Alden was grateful that Max so far seemed content not to take that route during the times they’d faced off.
+
+“He’s always polite to me,” said Haoyu. “It’s starting to make me nervous. Like maybe he’s luring me into a false sense of security so that he can get me really good in third year.”
+
+“Thank you so much for the new fear.” Alden started across the street. “I’ll never be calm around him now.”
+
+“You’re welcome.”
+
+They entered North of North. It was full of all the usual sounds. Classical music played here at the entrance. Footsteps echoed off glass and marble. A blender whirred. And the climbing wall, just out of sight, rumbled with a simulated earthquake.
+
+Haoyu looked over at the smoothie bar as they passed through on their way to the spa. Cavemanly was drinking something purple beside a sign that advertised the new flavors for December.
+
+“How long do you think Klein is going to make Lexi stay out at the track?”
+
+“I didn’t see what he got sent out for,” said Alden.
+
+“Letting Writher clip Febri after time was called.”
+
+“On purpose?”
+
+“Ehhhhh…” Haoyu frowned. “I know it wasn’t like, ‘I’ll kill you, Febri! Die!’ But it might have been like, ‘Oh, look. Writher’s going to slice off one of Febri’s ears. What a shame.’”
+
+“Under the circumstances, I get how that could happen. But I doubt Klein does. Good thing Lexi likes running.”
+
+“Febri deserves to be on the track himself,” Haoyu said. “He was cat-and-mousing. That wasn’t just trying out new strategies. He was coming at us in all those different ways because he’s thinking about putting together a Li Jean application. He was collecting good drone clips. Like Winston. Only he’s way stronger than Winston, so when he does it…”
+
+He didn’t need to finish the thought. Everyone in class who wasn’t powerful enough for Febri to be wary of had been victimized. Alden’s opinion of the usually friendly Agility Brute was currently dark.
+
+An expectation had been growing in duels that the stronger opponent in a match-up that was a foregone conclusion would either end it quickly or modify their approach in some way to narrow the gap. The mercy of people who were still learning their powers could be kind of lacking, or unintentionally terrifying like Ignacio stalking you with his knives, but it existed.
+
+So having someone extend a fight they could have ended, forcing you to keep hopelessly trying against them for the full clock, was new. And it sucked. Alden had seen Victor bat at a roach eleven thousand times before he finally let it die.
+
+The fights against Febri had felt like that. From the roach’s perspective.
+
+“Maybe cats don’t know they’re torturers because they’ve always been cats,” he said.
+
+“That’s lovely for cats, but I’m sure it’s a character flaw for humans,” Haoyu replied.
+
+Alden couldn’t disagree. “Let’s forget about the shitshow for an hour or two. I have enough non-MPE homework to keep me busy, and it’s way less likely to tick me off.”
+
+******
+
+Not thinking about MPE drama was the right call.
+
+Unfortunately, it was harder in practice than in theory. Sitting in pricey recovery steam, eyes closed to discourage anyone other than Haoyu from talking to him, Alden got through the recording of his Intro to Other Worlds lecture and wrote a paragraph to show Instructor Marion he was still engaging with Engaging with the Unexpected even if he was missing some classes. But his thoughts kept drifting toward his fresh grievances with people he’d mostly gotten along with until a few hours ago.
+
+He’d started allowing himself periodic glances at the footage, and he was trying, in spite of his own better judgement, to figure out if there was some glaring moment when the class had turned for the worse.
+
+The atmosphere had been a little off from the beginning, but nothing too worrisome. The locker room had only had one topic of conversation, and that had been Elites—what it would be like, who’d gotten in, and who hadn’t.
+
+Ignacio and Finlay were in.
+
+Konstantin and Febri weren’t.
+
+Jeffy, who had been invited out for an educational swim by some of the divers he’d met during the Submerger incident, was presumed to be out of the running, too. The courier hadn’t delivered a second letter to the room he shared with Max, Finlay, and Winston.
+
+Everyone had been saying the kinds of things Alden might have expected. Congrats. Wish it was me. Wish I was an S.
+
+If some of the “must be nice” statements from the A’s sounded resentful, if Finlay wasn’t hiding his pride as well as he could have, if Kon’s boisterousness rang false, and Febri got too snappy about Reinhard accidentally swapping their water bottles…it still hadn’t fallen apart at that point.
+
+Ignacio didn’t even care that he’d been accepted. His grandparents had a negative opinion of one of the faculty members who’d be heavily involved with the Elites program, so he didn’t want to study under that person.
+
+When they’d finished suiting up and joined some of the girls outside the locker rooms, the awkwardness had grown.
+
+Tuyet, Vandy, and Maricel were in. Jupiter was out. And the only thing Marsha was in was denial.
+
+She was so busy staring at her interface and looking around for couriers that she wasn’t paying attention to her surroundings, which meant her surroundings had to watch out for themselves. A distracted S-rank with a glaive wasn’t the best company to have in a crowded hall.
+
+Most of the girls seemed to already be annoyed with Vandy and Tuyet for some reason. Vandy was too focused on checking that everyone was wearing their suits and cuffs properly to notice, but Tuyet was subdued. Astrid was being a little loud, trying to cheer everyone up. Before Alden could unravel more of the mood than that, Febri had sidled up to Marsha and made a rather positive, commiserating remark about how Li Jean was missing out on both of them.
+
+“But we’re not the same,” Marsha had said absently. “You’re already sixteen.”
+
+Which would have made normal people laugh. Alden almost laughed. Marsha said “sixteen” like it was a death sentence, and she was only weeks away from sixteen herself. But these weren’t normal people who laughed; they were Anesidorans who had gotten into the habit of caring stupidly much about their ages down to the precise day. Apparently, shaking the habit was going to take longer, even now that they were safely selected as high ranks.
+
+Febri looked horribly offended, and a couple of people immediately began to sympathize with him about how that surely wasthe problem and it was so unfair that he’d just missed the opportunity because of something he couldn’t help.
+
+That might have made him feel better if it had been allowed to continue.
+
+But then Vandy chimed in to say that sixteen-year-old first years from other CNH classes had been invited to Elites. And Jeffy arrived, bounding through the crowd wearing a long-sleeved shirt that said, “I Sink and Swim with the Diving Club!” on his way toward the locker room.
+
+Marsha’s hand shot out to grab the Aqua Brute’s arm as he passed, and the sleeve ripped at the shoulder. It was an accident, judging by the way she jumped back like Jeffy had caught on fire, but Alden was already retreating in a hurry.
+
+Marsha moving quickly was engraved as a dangerous situation in his mind.
+
+“My shirt!”
+
+“Sorry. I can sew it back together for you. Did you get an acceptance letter from the Elites program at Li Jean?”
+
+“I just got this shirt from Yesenia! I’ve been watching her work on the big arch things in the ocean.”
+
+“Did you get an acceptance letter?!” Marsha demanded, nostrils flaring.
+
+“No.”
+
+Febri looked relieved.
+
+“But a man called me and said I was invited for an interview,” Jeffy continued. “He said we would discuss if being an Elite was a good match for me and talk about what talents they’d expect me to take at each level. I don’t think I’d like that, though, and my Nana—”
+
+Alden knew beams of light were Søren’s thing, but for a second, he could imagine two of them shooting out of Marsha’s eyes to pierce through Jeffy all the way to another, eliter campus.
+
+“They. Still. Have. Slots!” she said.
+
+Why some of the A-ranks gasped at the news, Alden couldn’t fathom.
+
+“They’re interviewing people!” Marsha cried.
+
+“Vandy, did you see what she did to my shirt? Aren’t you going to say something to her about—”
+
+“That means they’re taking applications for Elites.” She was pumping her fist.
+
+Alden frowned.
+
+“What flawless logic.” The whisper came from behind him, from another person who’d beaten a retreat as soon as Marsha started grabbing people. Alden turned to see Max. Who was now seventeen. Truly ancient.
+
+“I’ll need the most amazing video from gym today,” Marsha had said then. “To show Li Jean! I hope we’re having duels.”
+
+In the sauna, on the other side of those duels, Alden pulled as much steam as he could into his lungs.
+
+Yeah, that could have been the start of the class falling apart.
+
+Actually, though, Marsha hadn’t been more problematic than usual. At least not for Alden. Getting chopped like wood was getting chopped like wood. Maybe she’d been more brutal to worthier opponents.
+
+He figured he had enough of a grasp on how it had all spiraled now. Harsh duels had upset people who’d been okay at the start. Anger and hurt feelings made them less charitable when facing weaker classmates and more sensitive to perceived slights by stronger ones. Wounded pride exacerbated wounded pride until the tone of the class was just rotten.
+
+I wasn’t immune to it, either. He’d been hanging on tight to his composure. At least I didn’t have to put up with Winston on top of the rest.
+
+Alden hadn’t seen what got the speedster sent out to run track early in the class. Checking the footage, it seemed like he’d initiated an attack in the final second of a match against Heloísa and failed to stop quickly enough after time was up. The faculty were zero tolerance on anyone ignoring the official end of a duel.
+
+Alden banished the video from his interface again.
+
+A second later, a strange noise from beside him made him open his eyes and look at Haoyu, who was barely holding back laughter. His whole chest was shaking, and he was leaning forward with his hand over his mouth.
+
+[What’s so funny?]
+
+[Splat Rain Hard! Wheee! Splat!]
+
+There were too many people in here for Alden to guffaw. He pressed his lips together.
+
+[I’m sending to Lexi. Cheer up while he runs!]
+
+******
+
+“I didn’t hear Lute mention that the Elites program offers potion therapy saunas after every gym class,” Alden said later as the two of them stepped out of the building. “So, really, how elite can they be?”
+
+“That is true.” Haoyu was drinking a smoothie called a Chocolate Snowman through a hollow peppermint stick. “You and I are the actual elites.”
+
+Out on the sidewalk, the smell of fried food and spices from restaurants down the street were making the Gingerveg Cookie flavor Alden had chosen taste even weirder than it already was.
+
+“I might trash this and go get fries or something. I want to walk for a while anyway. The sauna was good, but I could clear my head some more.”
+
+“Want me to take your duffel bag back to the dorm for you?”
+
+“Just entrust it to me. I’ll use it to defend myself from any members of our class I meet who might be stuck in battle mode.”
+
+Alden ditched the Gingerveg, and Haoyu entrusted the duffel bag.
+
+Just as they were parting ways, Haoyu suddenly said, “If you ever hear me talk about how I wish I was an S, it’s not because I think higher ranks are better people.”
+
+Alden turned back to smile at him. “I wouldn’t assume you thought that.”
+
+Haoyu bit the end off his straw and crunched it between his teeth. “I’m not power mad or anything either. It’s just about tools. I don’t think I realized that I really wanted to be able to catch up with my parents until the System told me I wasn’t even on the right tier. Like I got a bicycle instead of an airplane, and it made me take another look at where I was hoping to go. And I know it’s not a place people bike to. But I’m stubborn.”
+
+He shrugged. “So if I do ever complain about my rank to you, it’s like that. It’s just stress.”
+
+“I get it,” said Alden. “Rank doesn’t matter. Except when it does. And sometimes it really does. No reason to pretend otherwise.”
+
+******
+
+******

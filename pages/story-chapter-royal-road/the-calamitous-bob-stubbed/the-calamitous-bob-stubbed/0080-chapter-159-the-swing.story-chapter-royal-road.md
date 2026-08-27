@@ -1,0 +1,269 @@
+---
+id: d0260fe7-c0fe-5ced-9367-86765f156584
+page-type-slug: story-chapter-royal-road
+title: "Chapter 159: The Swing"
+slug: 0080-chapter-159-the-swing
+partOf: the-calamitous-bob-stubbed
+position: 80
+ownLength: 4664
+unit: words
+ownProgress: 4664
+publishedAt: 2024-04-05
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1581904/chapter-159-the-swing"
+royalRoadId: "1581904"
+markedReadAt: "2026-06-29T21:17:34.722Z"
+---
+
+There were times Jaratalassi felt like he was really making a difference. Not with his own two hands. With the results of events he’d set in motion months before. This was such a time. Now all he had to do was enjoy.
+
+Fleeing Paramese troops had stopped at the feet of the first wall, some climbing the parapet to man it and make up for their cowardice. The rest had slowed down, as many crossing the primitive gates as were gawping at the spectacle behind them. They all knew this was a special moment. He could feel every grain of risen stone under his fingers, smell the dry scent of the deadlands carried by the eastern wind. The light of the desert warmed his skin and the familiar song of battle had quieted down as if the world was holding its breath.
+
+In its strange wisdom, Nyil had granted the frail humans a great equalizer in the person of mana users. Hybrid casters rose mighty walls like the one he was standing on while mage blades led warriors into battle. Then came the war mages with their mighty arrays, their gate-smashing spells and horde-ending storms. At their top ruled the archmages who could undo beasts and men with a contemptuous wave of their hands like one wipes a slate clean for a new picture. Give me ten archmages, he thought, and I will conquer Param.
+
+Or, perhaps, one elemental archmage.
+
+In the valley below, the vivid painting of the battle extended to the nearest crest. Ochre and browns formed the background, then great swathes of steel gray and scale green where humanity and the Empire of Dawn massed their troops. Right now, the dull green of the enemy dominated the vista. Then came the red of Nemeti elites, the black of the Harrakan circle and the multicolored hues of the heavy cavalry. It had formed a pictural ensemble both familiar and awe-inspiring.
+
+And then there was the witch.
+
+A strange figure rose over the steel-clad Harrakans and their painted women. She had hooked her false wings into the fabric of the world like wolf teeth clamping on a heel. The gates of the nothingness above opened.
+
+A cruel cat took its claws to the tapestry. Black beams pierced shields like arrows through straws and left behind ditches where Nemeti used to be. Clouds of hungering darkness hissed their ways through formations leaving behind only raw earth pitted and scarred. Exploding balls, flailing masses of tendrils burst from nothingness everywhere with the same results. The Nemeti stopped and ran out of the way. Those that did not, died, and when the spells faded, there was nothing left behind but blackened earth defaced and blighted, with crystalline limbs reaching up like tortured souls frozen in agony. The Empire of Dawn paused in its dogged pursuit to avoid the onslaught and the human forces, dazed yet still aware of their circumstances, retreated deeper into the pass. In a single minute, what could have been a rout turned into an orderly retreat thanks to the mightiest display of arcane destruction he’d witnessed from a single caster.
+
+Truly, the continent was on the verge of a new age.
+
+Baranese archers formed lines around him, some casting concerned glances towards him but he was too busy to talk to them. Too busy taking in the sights.
+
+Like the tide, the onslaught receded and the witch fell, caught by the bone golem. An artillery projectile went for her with the same unerring accuracy all Nemeti projectiles seemed to have. It broke on the reactivated shield, courtesy of the outlander’s exiled Hallurian. The Harrakans were now at the back of the formation and the Nemeti regrouped but the Four Colors Halurian archmage and the Tide Weaver kept them at bay with their own artifices. The Paramese alliance glutted at the entrance of the pass until the fallen prince opened a short range portal. The increased flow allowed more soldiers to evacuate while a rain of arrows came to keep the Nemeti at bay. Within twenty minutes, all of the humans had either retreated to camp or put themselves on the walls, ready to fight for them with renewed resolve. Jaratalassi walked down the narrow stairs to where the witch sat on her shield array, its presence required to protect the wall from bombardment. The strange owl creature who led her machines stood at a distance as he drew a diagram, possibly for another spiked horror. He had to admit that she didn’t look at her best. She was pale with eyes sunk and visible black veins under the visible skin. Her breath was short and painful, with a low gurgle he didn’t like.
+
+“Capital work. And how are you feeling?”
+
+“I’m crawling on my fucking eyebrows here,” she gasped.
+
+He turned to Sidjin who was patting her back.
+
+“She is saying, and I quote an earlier remark, that she couldn’t pull a greased toothpick out of a dead rat’s asshole.”
+
+“Colorful.”
+
+“Not… not critical. Just used too much mana. Need to rest and regenerate. I’ll be fine soon. Just… can’t cast.”
+
+//And you better not try.
+
+The golem detached itself from behind the machine to glare at an idling swordsman. Although, to be fair, the golem hardly ever did anything but glared anyway.
+
+“We need an emergency meeting,” Jaratalassi said. “I would have your presence, please.”
+
+Viviane was immediately suspicious which proved she also had a brain which was rather convenient. Nevertheless, the meeting was necessary but they had it in public to make sure the troops didn’t see their leaders leg it back to camp at what was arguably a low point. Even now, the fortified barracks crawled with the wounded, the healers long since running on dregs of mana.
+
+“We would know if you intend to keep your word,” Olz the Claw asked.
+
+Cloud Skull’s stand in was older and more reserved than his predecessor. Jaratalassi felt a pang of regret at the loss of a great warrior but the southerner was just one more fallen hero in a long line of snuffed talents and the regrets didn’t last long. Jaratalassi had lost thousands of people under his command, and it would only stop if he failed. That was his life.
+
+“Yes,” the count replacing Eikart replied.
+
+Both groups had lost the one making the agreement. Jaratalassi knew Eikart was leaving behind young children and the Duchess would have to step in to assume his duties. Such occurrences were common on the frontier. Right now though, the continued presence of the southerners were on the line. Despite large casualties, they were still a powerful force, especially now that the cavalry would be useless.
+
+“We will honor our promise as you have honored yours. Cloud Skull was a mighty warrior and his presence will be missed. Our agreement will be kept.”
+
+“So witnessed,” Jaratalassi said.
+
+“So witnessed,” Edretti added resentfully.
+
+“So witnessed,” Viviane added after a delay, fingers pinching the bridge of her nose.
+
+With that out of the way, Jaratalassi went over the strategy. They had four walls with the innermost still being constructed by exhausted siege specialists. They needed to delay the enemy until nightfall which was still a couple of hours away. At least, that’s what he told them. Once this was done, he returned to the front. Jaratalassi was not too worried yet but they were cutting it short.
+
+The battle was already joined by the time he climbed the second wall. Immediately, his skill allowed him to make sense of the battlefield, feel the currents and get a glimpse of openings. Baranese archers rained down arrows on the approaching Nemeti as those who’d reached the walls climbed on top of each other with a speed that proved this was not their first siege. The Nemeti had learned to fear archers as well, with hardy specimens holding thin stone slabs to protect those that came under them. For an improvised strategy, it was rather effective. Already, red-skinned warriors flung themselves at the wall where they battled with determined Falstag axemen. Suddenly, a blue light covered the front of the wall and the assault sank in the mud. The Nemeti retreated like the tide, regrouping to try again later. Another artillery spell impacted the half shield maintained by the young Hallurian exile who winced a little. One of the panes flickered before being remade. Now that the witch was gone, the spells seemed to lack focus, somehow.
+
+It was all quite fascinating. But he had a duty to fulfill.
+
+“Get me a squad of southerners on the right side. Yes, this spot with only archers. GOAT FUCKER. Yes, you. Get your ass on the wall, at the yellow flag. On the double.”
+
+The weakness patched up, Jaratalassi took a gulp of powerful liquor and enjoyed the fiery path it took to his gut. Had to be careful not to overindulge. Maybe… that Bitter Heart girl… but no, later. He had more problems here.
+
+Namely, his skill didn’t work on the Nemeti.
+
+They were not just outside of Nous’ blessing. They were part of another wide-scale manipulation of mana for the purpose of guiding people. They used a different interface. Or perhaps, they had something else. It didn’t matter. Nothing, not the cannibalism, or the cruelty, or even the strange magic, nothing could convince him they were a threat that could not be negotiated with more than this fact.
+
+Meanwhile, the Nemeti renewed the assault while the larger part rested beyond, feasting on the fallen. It was a grisly sight.
+
+Jaratalassi calculated his options. A quick look towards the Tide Weaver showed the young archmage was nearing exhaustion. He calculated that the enemy would break through within two assaults unless he was ready to sacrifice many lives. He was not. This was a delaying action. With a tired grunt, Jaratalassi walked down to the space between the first and second walls where some of the wounded were being attended to. A cook was setting up as well, bless him.
+
+“Second wall. Move back. Now.”
+
+“But sir!”
+
+“This place isn’t safe at all. Move back and free the access. You too, archmage.”
+
+“I can… I can still —”
+
+“You can take a breather. Eikart’s men are done setting up artillery positions at the end of the pass.”
+
+“To… to clear?”
+
+“Yes. You need to take a moment to recover if you want to keep casting. You there, help her to the back. There’s a good lad.”
+
+There was nothing left to prevent an orderly retreat. Jaratalassi returned to the second wall and determined he had done all he could for now. A look back let him find the Harrakans at the back, all clumped around one of their war machines. They didn’t seem to know what to do now. That was fine. For now, they’d accomplished enough.
+
+***
+
+Viv felt like shit. She’d tried to explain it colorfully because people didn’t get it and she really wanted them to. Every last part of her hurt in some ways and the only thing she wanted to do was crawl on her bed and collapse. Instead, she went over the notifications sent by Nous because it was better than thinking about throwing up.
+
+Mana mastery: Intermediate 7
+
+Shield Mastery: Intermediate 5
+
+Those were always useful.
+
+Leadership: intermediate 7
+
+Probably the result of successfully leading people into battle. And out of battle. All good but currently not as important as the feeling of someone drilling a hole into her temples to install the bells of Notre-Dame.
+
+The Aspect of the Destroyer had left her drained of most of her mana. Her core picked up immediately, of course, and the damage stopped spreading, but now she was dealing with the aftermath of being almost out and her body could not quite follow yet.
+
+It was an unpleasant reminder that she was no longer viable without magic. The advantages were many but if she ever ran really low on mana, the price would be all her organs failing at the same time. And if she were to run out completely, even for an instant, that would be her brain turning off. A rather final prospect.
+
+A Bitter Heart brought her something warm to drink which she accepted gracefully. It tasted light and refreshing with a herbal aftertaste. Slowly, the veil of pain hounding her lifted and a deep cool seeped into her bones. The general inflammation calmed down. Using this opportunity, Viv finally looked around.
+
+She was currently sitting on an array that wasn’t her own somewhere west of the last wall, at the feet of the Baranese camp and slightly off the road. Her casters were not here, presumably staying near the front where the battle continued. It was, she judged, mid-afternoon and the Nemeti would soon have to consider retreating or fighting in the cold where they struggled to move quickly. The rest of her troops formed a loose circle around her in semi-organized groups currently busy eating, drinking, and cleaning their equipment. People from the main camp carried bushels of replacement quarrels to the crossbow folks as fast as they could though they were rationing it to a couple per person. Those were the last of their reserves, arrived today by portal. After that, they were done. Viv sighed. Today would be fine, but tomorrow…
+
+Just as she was considering worst case scenarios, trumpets rang at the back, near the supply portal. The sound of approaching boots spoke of a great number of people. Without prompt, the Harrakans stood from where they’d collapsed. The heavies reformed ranks while the crossbow wielders leaned and gathered in the loose packs they favored to move around the battlefield. Suddenly, the circle around Viv coalesced in a defensive formation in the blink of an eye, just in time for a massive column to come into view.
+
+Spearmen in white marched twelve abreast with a spring in their steps, helms closed and ready for battle. Viv could tell at a glance they wore high-quality armor and inspection returned third or fourth steps warrior paths. A group immediately detached itself from the column as it passed by showing no signs of being close to its end. At first, the man at their head showed enthusiasm, but it was immediately tempered by the closed, hostile ranks of the Harrakans. Viv waved because she’d recognized the blue horse on a white field displayed on the soldier’s tabard and that of the heavily armed men by his side. Those were Baranese palace guards, and that could only mean one thing.
+
+The Baranese royal army had arrived. Finally.
+
+“Let him through,” she ordered.
+
+The soldier approached her with a confident, if slightly slower step. The Harrakans made it clear the others walked among them at their sufferance and, through her discomfort, Viv felt kind of all warm and fuzzy because they were protecting her.
+
+“Greetings, Empress Viviane of Harrak! His Royal Majesty King Erezak the Third sends his warmest regards,” the soldier announced in a booming voice that reached through the entire hill.
+
+Viv didn’t need to inspect him to know this was a herald, a path designed to be heard. And heard he’d been. The soldiers straightened up and some of the witchpact cheered. They all understood what it meant. Baran was committed to recognizing Harrak as a nation. Or at least, it seemed that way. A herald declaration was only a first step. Still, they had a foot in the doorstep.
+
+“My King wishes to extend his most heartfelt thanks that you would take up arms to defend the lands of Param and civilization itself. Words of your deeds have reached every court. We salute you, and invite you to witness the fruits of your labor on the wall as we, in turn, rise against savagery!”
+
+Whoops and cheers answered the declaration. The Children of the Scale were especially loud as they tended to get easily excited. Viv smiled and nodded because it sounded like someone wanted her to rest while they showed off and that was most definitely a plan she could get behind.
+
+“The House of Falstag and the House of Eikart will be rewarded for their loyal services as well, and so will his gratitude extend to the southerners of the regretted Cloud Skull. In the meanwhile, may you rest while we carry the torch. I have spoken!”
+
+The herald bowed with a smile now that he had single-handedly managed to switch the mood around. Maybe he even improved his skills from that little stunt. Viv forced back a yawn. Her bed was looking more inviting than the wall if she had to be honest with herself.
+
+Her attention returned to one of the house guards who had lingered behind, casting curious glance at her. She inspected him.
+
+[Warrior priest of Neriad.]
+
+Ah, a bit like Lorn then?
+
+“Yes?” she asked.
+
+“I was just wondering why you are being worshiped.”
+
+He shook his head then left.
+
+Viv yawned, couldn’t resist.
+
+Then she stopped.
+
+“I’m what?”
+
+***
+
+It was the damn fault of those quarantined idiots. Viv got the confirmation as soon as she could get two coherent words out of one of Enttiku’s healers.
+
+“You go and tell them to stop this nonsense immediately or I’m liable to carpet bomb the entire refugee camp.”
+
+“I don’t know what you mean,” the priestess replied, “but I can certainly tell them to stop worshiping a mortal. Please bear in mind it will slow your healing speed and you need to be careful.”
+
+“It will what? How does this even work?”
+
+“Well, worshipers sacrifice mana to those they worship. If some people intercede with a god to help you, their mighty presence might assist you in your hour of need. If people worship you directly then their power is unguided but no less powerful for it. I find it a fascinating subject of study. But I digress. I shall tell my acolytes to stop them before they… set a bad precedent.”
+
+“Yes, that would be best!”
+
+Viv strode back out and towards the wall with a heavy escort around her. She glared at Solfis who’d remained woefully quiet during the entire fiasco.
+
+“It’s a bad thing,” she insisted.
+
+//I agree.
+
+//Far too premature.
+
+“Then why are you looking so smug?
+
+//There are now more worshipers of Her Majesty in this valley than there are worshipers of Efestar.
+
+//Be sure to rub it in during your next meeting.
+
+“Ugh. Ok I was laughing with the whole evil empire thing but I’m putting my foot down now. No worshiping. Just no. You start with a little flattery and then hubris rears its ugly head and then maybe you consider you’re doing so much good for the world, as much as the gods. Perhaps even more than the gods. And that’s how they get you. Before you know it, the waters turn to blood and the fields swarm with plagues of crickets and whatnot. Or they replace my hair with snakes. No. No no no no no. No worshipers.”
+
+//Oh, very well.
+
+//I will make sure they stop.
+
+“Very good.”
+
+//Still…
+
+“I said, no.”
+
+//Fine.
+
+Viv returned towards the front where most of the Royal army column had stopped simply because there wasn’t enough room to accommodate more of them. The tired Baranese and Southerners were retreating in bloodied yet proud squads, soon replaced by fresh squads rushing in with enthusiasm and a clear desire to prove themselves against ‘savages’ and ‘beasts’. Weaponized racism was alive and well.
+
+Viv left her escort at the wall and went so far as to order everyone back to the barracks where they could rest and recover. For now, the Baranese had taken over the defense but tomorrow would be a long day. An aide guided her to Jaratalassi still standing on the third wall. Squads of eager swordsmen had engaged the Nemeti on the fallen first one with commendable enthusiasm. It was a melee the humans were winning because the Nemeti were retreating.
+
+Beyond the walls, their vast army was gathering in thick formations and the reason for that became clear a few moments later. A series of horns rang from the left where the forest was. From her position on the wall, Viv could only see the easternmost end of the forest. More horns rang. Since the forest was about a kilometer away, it took her a moment to realize the change. At the limit between the mass of land and the rows of trees, now a colorful edge coalesced slowly as knights emerged from the forest with a level of coordination that an earth army would envy.
+
+Of course, Baran was known for the best cavalry on the continent and they were going to use it, and now they’d used Viv’s witch gate to flank the Nemeti for what was the second time in two days.
+
+The Nemeti could not have possibly detected the assault since they barely used scouts, and yet the lessons of yesterday’s conflicts were obvious in the way they quickly reacted to the new danger. Formations tightened in redundant layers with lighter troops at the edge, ready to take the brunt in the name of the Empire of Dawn while heavier formations with nasty polearms and heavy shields waited deeper behind their lesser brethren. The Baranese didn’t wait for the Nemeti to finish their preparations. A horn rang, incredibly loudly. The call blanketed the whole valley and set Viv’s teeth on edge. Looking down, she saw dust rising from the rock under her fingers. As the horn quieted, an old voice roared with the same intensity.
+
+“For Baran!”
+
+“For the King!” the knights replied.
+
+Like a curtain descending on the plan, thousands of knights launched themselves at the Nemeti. Viv watched the charge progress with some anxiety because no matter how many they were, the Empire of Dawn still outnumbered them vastly. Not just that but the distance was too short to reach full speed, especially on the farther flank. And the Nemeti were mostly ready and they didn’t know fear so they would stand and fight.
+
+Then the charge came fully into view and Viv forgot it all to take in the sights. She couldn’t grow tired of it.
+
+Shimmering armor, gleaming pennants and multicolored tabards formed a tide of radiance as they rolled the first lines of defense. The tide was not a single wedge either, but islands of power centered around standard-bearing knights in elaborate garbs. Viv smiled when she recognized the Order of the White Orchard, the one she’d ridden with during the latest Hallurian incursion. All of them gravitated around an ancient man in a silvery garb so bright it was almost divine, carrying a spear adorned with an artifact drenched in mana.
+
+Artillery fate spells ran down on the attack and, here and there, knights died in fiery blasts but the most important ones lifted artifacts of power that even the Nemeti magic failed to counter completely. Still, there were losses.
+
+Despite the unfavorable circumstances, the charge plowed through the Nemeti with great vigor and the men atop the battlements whooped and cheered. After the initial assault, the different orders split and attacked targets. It didn’t take long for the first wave to get bogged down and the others to have to stop and extricate the cut off knights before they could be slaughtered. With that done, the cavalry retreated back to the walls.
+
+Baranese mages led by an old woman wearing a circlet did the expedient thing by basically peeling off the walls like an orange skin, letting everyone through with the dignity the knights wanted. Viv followed Jaratalassi to the side of the road, then the canny general had them step up on a boulder to even things out, height wise.
+
+Viv stood with all the poise she could muster as rank after rank of nobles trotted back towards the gate, likely to a camp being built there while all she wanted to do was have a lie down and possibly a foot massage. The first to stop and talk was the Order Master of the White Orchard who smiled when he noticed her. He was still flanked by the same crimson armored killer and plated jester as last time.
+
+“Lady Viviane, or is it Your Majesty, now?”
+
+“Yes, though you may call me Viviane since we fought side-by-side,” she replied with a smirk.
+
+“Hah! Speaking of that, would you care to join our cavalcade tomorrow?”
+
+“I must regretfully decline as my place is with my people.”
+
+“Well spoken. A good day to you then!”
+
+The White Orchard was soon succeeded by another order, then ducal detachments. The sun seemed to rise from behind the wall when the King of Baran finally crossed the barrier.
+
+The man was old, over a century and a half old, in fact. He looked like the grandfatherly wise king of an enchanting kingdom, the kind that got killed by the evil wizard in the first ten minutes of the movie. Viv knew he could no longer really fight, but that didn’t matter. Decked in artifacts of the kingdom and exuding an aura of leadership so strong Viv had to fight it or risk being overwhelmed, he possessed a presence that could move a nation. Once more, Viv regretted not being in bed with a foot massage because this guy’s vibes were giving her a headache.
+
+“Greetings to you, Viviane of Harrak, the Oulander. We are pleased to finally meet you.”
+
+The benevolent voice was just as mighty as Viv expected. It seemed to reach every corner of the camp. It was also warm and friendly to the extent Viv almost believed his apparent kindness. Almost.
+
+“The pleasure is mine, King Erezak.”
+
+“We have followed your progress with great interest. You have brought civilization and the rule of man back to lands We thought lost. In recognition for your many services, We shall recognize Harrak as the newest addition to the Paramese Alliance. May your reign be long and prosperous, Empress Viviane.”
+
+The knights politely cheered while Viv was left stunned. She expected to be recognized but she also expected Erezak to extract a few concessions from her first, even with Jaratalassi and Eikart’s backing. It was just the way things worked in negotiations. Yeah sure we’ll recognize you! Just need a teeny tiny favor first, just a little thing to facilitate the move you understand. But Erezak had basically served her legitimacy on a silver platter.
+
+The reason as to why became obvious almost exactly at the same time. Another sound of horns and the heavy steps of a coming army came from the witch gate. Damn thing must have been open non stop all day by then. Soon, a group of knights in blue came around a figure Viv recognized all too well: Sangor, King of Enoria.
+
+The reason for the quick recognition was obvious now. Good old Erezak just wanted to one-up Sangor just as the victor of the civil war was trying to restore Enoria’s fame. Not only had Baran taken the day before they could arrive, but they’d unilaterally recognized a breakaway nation as part of the alliance and placed Enoria in front of the ‘fait accompli’. One couldn’t tell of the tension seeing the two sovereigns greet each other with smiles and congratulatory booming voice but that was a political sucker punch the likes of which Viv had never seen. Well, not in her person. Her dad was nasty sometimes.
+
+With the official ass-sniffing done and the introduction made, Jaratalassi politely invited the kings for a meeting. Viv hoped to fuck they had a tent the size of the Hagia Sophia to accommodate all that ego and all those nobles or there was going to be problems. At least the good news was that with the bulk of the alliance finally here, they were finally going to go on the offensive.

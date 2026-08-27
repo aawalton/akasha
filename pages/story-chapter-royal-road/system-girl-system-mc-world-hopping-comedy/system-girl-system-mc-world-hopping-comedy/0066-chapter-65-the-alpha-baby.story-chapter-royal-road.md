@@ -1,0 +1,275 @@
+---
+id: 8e912b67-c1a1-5060-b672-da70f66e029a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: The Alpha Baby"
+slug: 0066-chapter-65-the-alpha-baby
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 66
+ownLength: 2319
+unit: words
+publishedAt: 2026-03-21
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3175918/chapter-65-the-alpha-baby"
+royalRoadId: "3175918"
+---
+
+Ren sat on a log by the dying campfire, nursing a cup of morning coffee that was far too high-quality for a construction site. The sun was just beginning to burn off the coastal mist, painting the half-built timber frame of the inn in shades of gold and amber.
+
+But Ren wasn't looking at the view. He was watching the single most adorable—and terrifying—parade in the history of the multiverse.
+
+It started with Lily.
+
+She was crawling across the flattened earth, her silver hair bouncing with each determined scoot. She wasn't fast, but she was relentless, moving with the singular purpose of a baby who has spotted a shiny object.
+
+Behind her, in a perfect single-file line, marched the Fenrir pups.
+
+Smokey was first, her black fur blending with the shadows of the morning. Frosty followed, his paws leaving tiny, wet prints on the dry ground. Stormy brought up the rear, his fur crackling with static that occasionally zapped a nearby bug.
+
+And perched triumphantly on top of Lily's head, gripping her silver curls like reins, was Leafy.
+
+The Primal Spirit had condensed herself into a small, glowing green humanoid shape, about the size of a doll. She looked like a tiny forest queen riding her noble steed into battle.
+
+"It's a cult," Ren muttered into his coffee. "She's nine months old, and she's already running a cult."
+
+[Ana: It's not a cult. It's an entourage. Very chic. Though I'm worried about the structural integrity of her neck. That spirit looks dense.]
+
+Ren watched as a young elven maid—one of the new hires, a girl named Ela—walked by with a basket of laundry. She stopped when she saw the parade. Her eyes went wide. She didn't coo or smile as a human would. She went rigid, her back straightening, her head bowing slightly as Lily crawled past.
+
+It was instinct. The Blood Bond.
+
+Ren felt a chill that had nothing to do with the morning air.
+
+Every elf he had hired—all twenty-five of them—knew, on some primal level, what she was. They didn't have the words for it. They didn't know the history of the High Elves, erased from the books thousands of years ago. But their blood remembered. To them, she wasn't just a cute baby. She was royalty. She was kin.
+
+And that terrified him.
+
+Because they were also under contract.
+
+The Contract System of Dolaria was a brutal, magical construct. When Ren bought their papers from the Union, a spell was woven into their very mana signatures. It was a binding oath of servitude.
+
+One of the key directives of the contract was simple: the servant cannot hold any malicious intent towards the holder of the contract or their immediate family. Even an adopted family counted. They had to follow orders.
+
+If a servant felt malicious intent, the contract holder would be notified by a burning sensation on their own skin, giving them the option to punish the servant at will.
+
+But if they tried to act on that intent... the mana in their blood would turn against them. It was called Mana Poisoning. It was akin to having your blood turn into acid. The recipient would bleed from every orifice and die an excruciating death in moments.
+
+When the first King implemented this system centuries ago, thousands of servants died on the spot. But over generations, the fear had been bred into them. They had mellowed out. Rebellion was unthinkable.
+
+Ren looked at Ela, who was now smiling softly at Lily, a look of pure, unadulterated affection on her face.
+
+"They love her," Ren whispered. "They treat her like... like a mother protects her child. It's instinctual."
+
+[Ana: It's the Blood Bond fighting the Contract. The Contract says, 'Obey the Master.' The Blood Bond says 'Protect the Queen.' Right now, those two orders align. But what happens if they conflict?]
+
+Ren frowned. "Conflict?"
+
+[Ana: What if we meet an Elf outside the estate? Someone not under your contract? If they feel the pull... if they recognize her... they might be compelled to report her to their master. And if their master orders them to take her...]
+
+Ren’s grip on his mug tightened until his knuckles turned white.
+
+[Ana: Which urge wins, Ren? The ancient biological imperative to serve the High Elf? Or the magical contract that boils their blood if they disobey a human master?]
+
+"I don't know," Ren admitted. "And I don't want to find out."
+
+He watched as Mira swooped in like a hawk, scooping Lily up from the ground mid-crawl.
+
+"Bath time, My Lady," Mira announced, ignoring Lily's squirming protests. "And then breakfast. You cannot lead your armies on an empty stomach."
+
+Leafy buzzed angrily, hovering in the air where Lily’s head had just been, but Mira ignored the spirit too. The pups yipped, circling Mira’s ankles, trying to reclaim their leader.
+
+Ren sighed. "At least she's in good hands here."
+
+"Master?"
+
+Ren looked up. Sylas stood there, holding Ren’s velvet cloak. "Shall I have the carriage prepared? You have a meeting with the Spice Guild at noon."
+
+"Cancel it," Ren said, standing up and dusting off his pants. "I have a more pressing negotiation first. Where is Borin?"
+
+"The Foreman is by the cliff," Sylas said. "He... does not look happy."
+
+...
+
+Borin the Dwarf was sitting on a pile of lumber, glaring at a blueprint. He looked like a boulder that had grown a beard and a bad attitude.
+
+Ren approached him cautiously. Dealing with dwarves was like dealing with a grumpy badger. You had to be firm, but offer snacks.
+
+"Borin," Ren greeted him.
+
+"Lord Fenris," Borin grunted, not looking up. "If you're here to ask about the roof, it's not done. The wood is wet."
+
+"I'm not here about the roof," Ren said, sitting on a nearby stump. "I have a new project."
+
+Borin looked up. His eyes narrowed. "New project?"
+
+Ren unrolled a scroll he had drafted the night before. "I want to build a village."
+
+He pointed to the edge of the forest, just outside the boundary where the spirits held sway. "Here. Twelve cottages. A communal hall. A bathhouse. For the staff."
+
+Borin stared at him. "For the elves?"
+
+"Yes."
+
+"You want to build... houses... for servants?" Borin asked, as if Ren had suggested building a library for chickens. "They have tents. Tents are fine."
+
+"Winter is coming," Ren said. "Tents won't cut it. I want them to be comfortable."
+
+Borin laughed. It was a harsh, dry sound. "My Lord, you have a kind heart. Or a soft head. But I can't do it."
+
+He slapped the blueprint. "Look at this. The main house. The inn. The restaurant. The statue of the wolf you made me carve for the grave—which, by the way, took three days of detail work. My schedule is full."
+
+He leaned back, crossing his thick arms. "And I got offers. The Marquess's wife wants a new ballroom. The Duke needs his stables expanded. They pay in gold, up front. I know you're a Lord now, but you're new money. They outrank you."
+
+Ren didn't flinch. He knew this would happen. Dwarves respected two things: Craftsmanship and Alcohol.
+
+Ren had tried the alcohol route. He’d given Borin a bottle of high-end whiskey from the shop. Borin had drunk it like water and asked for something stronger. Their livers were apparently made of cast iron and had had magic resistance.
+
+So, that left craftsmanship.
+
+Ren reached into his inventory. He felt the cold, smooth weight of the box he had bought late last night. It had cost him a staggering amount—but it was an investment.
+
+He pulled out a long, rectangular box made of black lacquered wood.
+
+He placed it on the lumber pile between them.
+
+Borin eyed it. "What's this? A bribe?"
+
+"A demonstration," Ren said.
+
+He opened the box.
+
+Inside, resting on red velvet, lay a knife.
+
+But calling it a knife was an insult. It was a Miyabi 5000 MCD 67.
+
+The blade was a masterpiece of metallurgy. A core of ultra-premium MC66 micro-carbide powder steel, wrapped in 132 layers of folded steel to create a Damascus flower pattern that looked like rippling water frozen in time. It was ice-hardened to 66 HRC. The handle was D-shaped, made of Black Maple and stabilized ash, with a mosaic pin in the center.
+
+It didn't reflect light; it seemed to slice it.
+
+Borin stopped breathing.
+
+His eyes, usually squinty and suspicious, went wide. His hand reached out, trembling, hovering over the blade.
+
+"By the Stone," he whispered. "What... what is this?"
+
+"A chef's knife," Ren said casually. "From a master smith in the Far East."
+
+Borin leaned closer, his nose inches from the steel, his eyes wide with a craftsman's reverence. "The folding... look at the layers. Hundreds of them, rippling like spirit-water. And the edge... by the Forge, it's thinner than a whisper. How did they temper it? To hold such a line without shattering... the fire mastery must have been god-touched."
+
+He looked at Ren with a terrifying intensity. "Who made this? A dwarf? A gnome?"
+
+"A human," Ren lied. "A clan of smiths who spend their entire lives perfecting a single edge."
+
+Borin made a whimpering sound. "Can I... hold it?"
+
+"Sure," Ren said.
+
+Borin picked it up. He held it like it was a religious artifact. He tested the balance. He plucked a hair from his beard and dropped it on the edge. The hair split in two before it even touched the steel.
+
+"It sings," Borin murmured. "The metal sings."
+
+He looked at Ren. "How much? I'll build you a castle. I'll build you a fortress. Just give me the knife."
+
+Ren smiled. It was the smile of a shark in velvet robes.
+
+He reached out and gently took the knife from Borin’s hand.
+
+"Sorry," Ren said, putting it back in the box. "It's my personal tool. Not for sale."
+
+Borin looked like Ren had just ripped out his heart. "But... the technique! I need to study it! I can learn... I can improve my own work!"
+
+Ren snapped the box shut.
+
+"I understand," Ren said sympathetically. "But you're busy. The Marquess's wife... the ballroom... You can't take on any more projects."
+
+He stood up, tucking the box under his arm.
+
+"I'll just have to find another crew. Maybe the Gnomes have time."
+
+Borin scrambled off the lumber pile. He grabbed Ren’s sleeve.
+
+"Screw the Marquess!" Borin roared. "She just wants to dance! This... this is art!"
+
+He pointed at the box. "Lend it to me. Just for a week. Let me study the grain. Let me analyze the temper."
+
+Ren paused. He tapped his chin. "A week? That's a long time to be without my favorite knife."
+
+"I'll build the village," Borin pleaded. "I'll put my best men on it. We'll work nights. We'll use the good timber. Just let me see the knife!"
+
+Ren looked at the dwarf. He looked at the box.
+
+[SKILL UNLOCKED: EXTORTION (BEGINNER)]
+
+"Two weeks," Ren said. "To build the village. Complete with plumbing and heating."
+
+"Done!" Borin shouted. "Two weeks! I swear on my beard!"
+
+Ren handed him the box.
+
+Borin clutched it to his chest, looking like Gollum with the One Ring. "My precious," he whispered (or something close to it in Dwarvish).
+
+"Get to work, Borin," Ren said.
+
+"Yes! Yes! Right away!"
+
+Borin ran off toward his crew, screaming orders to drop everything and start cutting timber.
+
+Ren watched him go.
+
+[Ana: You are a bad man, Ren Fenris. A very bad man.]
+
+"I'm a businessman," Ren corrected, adjusting his cloak. "And my staff needs housing."
+
+He walked back toward the inn, feeling the satisfying weight of a problem solved.
+
+But as he passed the line of tents, he saw something that made him stop.
+
+Sylas was standing near the cooking fire. He wasn't working. He was talking to someone.
+
+It was Cynthia, the new cook. They were standing close, their heads bent together, speaking in low voices. Sylas reached out and tucked a stray lock of hair behind her ear. Cynthia smiled, a shy, radiant expression that took ten years off her face.
+
+Ren smiled. "Good for him."
+
+Then, he saw Mira.
+
+She was standing by the laundry line, watching them. She wasn't smiling. Her face was a mask of unreadable emotion. Her hand was pressed against her stomach, where a child had once been.
+
+Ren’s smile faded.
+
+He realized that while he was building houses and empires, some things couldn't be fixed with gold or knives.
+
+He walked over to her.
+
+"Mira."
+
+She jumped, quickly wiping her eyes. "Master! I... I was just..."
+
+"It's okay," Ren said gently. "You don't have to hide it."
+
+She looked at him, her eyes red. "They look happy."
+
+"They are," Ren said. "They found each other again."
+
+"I'm happy for them," she whispered. "Truly. But..."
+
+"But it hurts," Ren finished.
+
+She nodded, looking away. "I had a future once. A dream."
+
+Ren looked at the bustling camp. At the foundation of his new home. The baby is sleeping in the distance.
+
+"Dreams change," Ren said. "Sometimes they break. But you can build new ones."
+
+He gestured to the estate. "This is a new start. For all of us. You have your parents back. You have a home. And..."
+
+He hesitated. "You have Lily. She needs you, Mira. More than she needs me, sometimes. I'm just the guy with the wallet. You're the one who makes her feel safe."
+
+Mira looked at him. She took a deep breath.
+
+"You are right, Master," she said, her voice stronger. "I have a duty."
+
+"Not a duty," Ren corrected. "A family."
+
+He patted her shoulder. "Come on. Let's go see if the pups have eaten the furniture yet."
+
+She smiled, a small, fragile thing. "Yes, Master."
+
+They walked back toward the inn, leaving the lovers by the fire and the dwarf with his knife.

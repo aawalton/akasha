@@ -1,0 +1,179 @@
+---
+id: 010f6894-b3bd-587b-82d5-1b36e1981e2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 388 : Goblin Cuisine"
+slug: 0090-chapter-388-goblin-cuisine
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 90
+ownLength: 2409
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3508279/chapter-388-goblin-cuisine"
+royalRoadId: "3508279"
+---
+
+I was left waiting for quite a bit, until eventually a few apologetic-looking goblins came. Apparently, it was late, and most of the goblins had already gone to bed; although they offered to wake them up if I ordered it. I politely declined, not realizing how late it was, something I had noticed growing more frequent recently.
+
+I think it started ever since I've felt safe on the island, and could spend day after day doing nothing but magical research.
+
+I was about to send them on the way when one rather delighted-looking trio of goblins arrived, working together to carry a very large pot. When the other goblins saw them arriving, they also started getting excited.
+
+"It's Glooz!"
+
+"He must have heard about Grand Shaman!"
+
+"Grand Shaman in for a treat!"
+
+The goblins were ecstatic, and it all seemed to revolve around this goblin called Glooz.
+
+<Glooz; Goblin [I] LV 4; Novice Chef LV 6.>
+
+When I used [Identify] on him, I couldn't understand why the goblins were so thrilled by him. He was a low-level goblin, which was perhaps to be expected of a non-combat profession, but even his profession was extremely low level.
+
+I gave it some more thought, and then I realized why they probably held this Glooz in such respect. He was a chef. A horribly low-level chef, compared to the glorious ones I had partaken in, but still a chef. A goblin chef.
+
+I don't remember there ever being a chef in the tribe last time. I guess this is why he's popular?
+
+"Grand Shaman!" Glooz announced, looking quite proud. "I hear you travel far to visit us. You must be tired. Hungry. I bring you glorious gloop!"
+
+"Gloop! Gloop! Gloop!" the goblins began chanting.
+
+Hearing him call his food 'gloop' gave me pause. It did not sound appetizing, but perhaps I was being too judgmental, as the system had even granted him the chef profession.
+
+The trio placed down the pot, and Glooz pulled out a stick and began stirring it. As if awakening a slumbering beast, the concoction of what I assumed was a kind of soup began releasing an aroma into the air. The more he stirred, the more the long-dormant brew began to reveal its hidden… Qualities.
+
+The other goblins were entranced, as if under a spell, while I was morbidly curious what could elicit such passionate reactions. Glooz snapped his fingers, and his two assistants immediately pulled out bowls, and he began sloshing out the decoction into them.
+
+A bowl was handed to me alone, while the other goblins had to reuse and share the remaining ones. If not for being a slime and having [Poison Slime], I would have been cautious to eat such a creation, as the appearance alone made it look like some kind of war crime. But, seeing the goblins eagerly slurping it down, I felt obligated to at least give it a shot.
+
+I regretted that chance. The taste was indescribable, but I found what I assumed was strong mustard, mixed with other flavors and textures that should not have been blended together. Probably the strangest part of the creation was that it was both hot and cold, chunky yet smooth, and that different bits of it appeared cooked and raw.
+
+I don't even know how this was possible.
+
+"Good!" I replied, showing a forced smile.
+
+Glooz looked elated, and I watched him gain four whole levels in his profession right there. It was astonishing, and he seemed lost in ecstasy while gazing at me with fanaticism. None of the goblins, other than the [Chieftain], had [Identify], so the increase was only known to him and me.
+
+It appears that having a high-level clientele is a good way to power-level a profession. I wonder if those additional levels will be able to save his cooking?
+
+From the look on his face, it seemed Glooz wanted to stay very close to me, having realized what a powerful client I was. Unfortunately for him, I figured Vee would execute him for his crimes against food if she saw or tasted this.
+
+Then again… It might be a good way to train him up from scratch…
+
+I was considering it, but it all depended on whether Yuzz was still around. If she were gone, I felt like I would've lost my last connection to these goblins, and my empathy for such creatures could only go so far.
+
+I was given more food, which I ate while turning off my sense of taste. Weirdly, the second helping was just as unique as the first, which made it seem like every time he pulled something from the pot, it would be a new experience. I couldn't understand it, nor did I want to, although that didn't stop Glooz from recounting his story.
+
+Apparently, this 'gloop', as he called it, was something he had refined over and over, adding new ingredients to the same concoction each and every time. To my horror, he openly admitted that he never cleaned out the pot, always allowing the old flavors to season the new. I thanked the gods I was a slime, or I might have lost my composure and vomited all over the so-called chef.
+
+I thanked the goblins for their time and reminded them I was looking for a crafter in the morning. With that, I was alone, and after setting up some explosive defenses and ordering my [Sub-Cores] to guard me, I slept.
+
+***
+
+I woke up earlier than expected again and was pleasantly surprised that Garz hadn't tried to assassinate me while I slept. If he had, then I wouldn't have shown mercy, but perhaps he was more cautious than I gave him credit for. After all, he was the only Greater Hobgoblin in the entire tribe from my repeated scans.
+
+With time to kill while waiting for the tribe to awaken, I tinkered around with magic, my go-to for passing the time. My project to create a pseudo-affinity for [Dimension Magic] could finally be progressed, but it was a slow and arduous process. This was evidently going to be a long-term project and not something I could brute-force, as while I had the help from the broken-down [Elemental Shift], it obviously wasn't tuned towards non-elemental affinities.
+
+Eventually, the tribe awakened, and activities resumed in the rudimentary village. Glooz was the very first goblin at my doorstep, and he quickly offered me a bowl for breakfast. Internally sighing, I chugged down the gloop to get him off my back. Not long after that, I started getting approached by more goblins.
+
+Word of my request must have gotten out, and even those not selected by my escorts had come to try their luck. I scanned each and every one, but most of them weren't even crafters, just opportunists, and I dismissed them. Thankfully, the accomplished crafters eventually arrived and, after pushing through the crowd, presented themselves.
+
+Searching through them, they certainly had potential, though it was clear they were heavily constrained by their circumstances. As the feeling of a wasted trip was growing stronger, I finally spotted her, being pulled along by one of the guards while yelling about being interrupted from her work.
+
+I smiled and pointed straight at her. "You!"
+
+"Me?" Yuzz asked, confusion on her face.
+
+Hidden behind a casual wave of my hand, I cast a series of teleportation spells, causing Yuzz and me to vanish from the spot. No doubt leaving behind some very confused goblins.
+
+Appearing in an isolated location, Yuzz was screaming, not knowing what had just happened to her or why she had been abducted.
+
+<Yuzz [Professional]; Goblin [I] LV 7; Omnicrafter LV 42.>
+
+I wasn't sure what her class was, but it sounded impressive. However, her racial level was ridiculously low, even after all this time, and was why she had zero resistance to me teleporting her. She even had an Emblem, which I had never seen on a goblin before, other than the [Chieftain].
+
+"It's good to see you again, Yuzz," I said.
+
+"Who are you? Why have you abducted me?" she quickly asked, backing away.
+
+I had chosen one of the dead ends in the false tunnels for our reunion, wanting to be far away from any prying ears, just in case Garz had something hidden up his sleeve.
+
+"I was hoping you'd recognize me, but I guess this form is a little different," I chuckled.
+
+Before she could respond, I shapeshifted on the spot into my iconic elven form and even put on a slime replica of the armor she had crafted for me, hoping to jog her memory. Seeing me transform right in front of her eyes must have been a shock as she let out a scream, before slowly calming down.
+
+"You? You!" she said, a spark of memory in her eyes.
+
+"Syl, or did you forget?" I asked.
+
+"Ha! I can't believe you're still alive," Yuzz chuckled in disbelief. "Didn't you get killed by the humans? We sent some scouts to look, but everything was burnt."
+
+I shook my head. "I managed to survive, and I've been all over the world since then."
+
+"That's good," she said with a faint smile. "But why have you come back? Things are not the same anymore…"
+
+"I wanted to see if you managed to get away, because it looks like the adventurers have hunted goblins to extinction in the forest," I explained.
+
+"Yes. We tried a few times to hunt in the forest, none of them ever returned," Yuzz confirmed. "Then we dug to the other side of the mountain, and have been hunting there. Different monsters, stronger too, but we survived."
+
+"I hope you don't blame me…"
+
+"No. You didn't send the humans to kill us. Why would I blame you?" Yuzz asked.
+
+"It still felt like my fault…" I admitted.
+
+Yuzz frowned and shook her head. "Don't be stupid. You defended us against the adventurers, then pretended to die for us. You saved us, no matter what Garz says."
+
+I couldn't help but sigh at hearing that. It seemed Garz still held a grudge against me and was more than happy to continue badmouthing me. I wasn't expecting him to thank me, even though his rise to [Chieftain] was due to my actions, but hearing him throw all the blame on me stung.
+
+"Garz has changed… You shouldn't care about him," Yuzz said, trying to reassure me.
+
+"I see he evolved, twice even."
+
+Yuzz nodded. "The first time was bad. Second time was even worse… I almost miss [Chieftain] Krutz."
+
+Wanting to get a clearer picture, I pressed her to continue finding out what happened. At first, the goblins had struggled to survive; the monsters were far stronger than they were used to, and they had been forced from familiar territory.
+
+However, armed with the items Krutz had been hoarding, they managed to endure and kept fleeing deeper into the mountain. Many of the goblins died as a result, but the ones who survived grew tremendously, and none more than Garz.
+
+When Garz and a few goblins first evolved, there had been a struggle for power. The others no longer wanted to be under him, and a brutal fight for the title of [Chieftain] erupted. Garz managed to defeat his challengers and, hoping to prevent further objections to his rule, changed dramatically.
+
+According to Yuzz, he still cared for his people, which was sometimes briefly evident in his actions but, most of the time, remained buried beneath layers of brutal ambition. Detractors were beaten or outright killed, and until Garz managed to evolve again, he wouldn't allow any other hobgoblins to live.
+
+Yuzz was thankfully immune to such fears, not participating in battle unless absolutely necessary, so evolution was never on her mind. However, even though she remained in the background, it didn't stop her from suffering some of Garz's new greed.
+
+"He demanded I craft the best for him and his people. They get everything, although Garz always gets first pick," she said with a sigh.
+
+"I'm surprised he didn't invite you to join his group," I pointed out.
+
+Yuzz sighed, "Maybe it was because I refused to badmouth you, or because we worked together, but he never trusted me. But, he couldn't get rid of me, as who else would make the armor and weapons?"
+
+I nodded, and even if not for the connection to me, it sort of made sense. It sounded like almost all of the old goblins had been replaced, and Yuzz was one of the few survivors who knew what had actually happened. Yet, she was too important to get rid of.
+
+Yuzz's expression darkened as she growled, "That didn't stop him from stealing my storage pouch though… He said it was too dangerous for me to keep!"
+
+I couldn't help but chuckle, and quickly pulled out a new bag just for her. I wasn't sure about the quality of the one I had given her before, but this one was one of the very best the Vaelyssan Sea had to offer.
+
+Yuzz's eyes widened, and she gleefully snatched it before caressing it lovingly. That was when she frowned and suddenly looked extremely downtrodden.
+
+"There's no point giving this to me… He will just take it away from me," she said sadly.
+
+"Well, I can offer you two options to solve that," I said with a cheeky grin.
+
+Yuzz raised her head, her ears perking up as she listened expectantly.
+
+"Option one: I defeat Garz and let the goblins find a new leader. Maybe yourself?"
+
+Yuzz raised her brows questioningly. "I'm not sure how strong you are, but Garz is even more powerful than Krutz."
+
+I grinned mischievously.
+
+"But!" Yuzz quickly interrupted. "I don't want to be the leader. I just want to craft things. And, even though I'm mad at Garz, he is keeping the goblins alive… So getting rid of him is probably a bad idea."
+
+"Well then, onto the next option?"
+
+Yuzz paused, then nodded.
+
+"Option two…" I said and held out my hand. "I take you, and any other goblins who feel similarly, away from here. We have our own island to live on, plenty of rare materials to craft with, plenty of food, and it's highly defended."
+
+Yuzz's eyes widened as she stared at my offered hand. Then she quickly grabbed my hand and gave a big, toothy smile. "You had me at materials!"

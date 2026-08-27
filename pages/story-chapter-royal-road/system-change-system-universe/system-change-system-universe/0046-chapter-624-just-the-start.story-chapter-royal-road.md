@@ -1,0 +1,141 @@
+---
+id: f20269b3-0e0a-5f57-9154-313b2fa56d2a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 624: Just the Start"
+slug: 0046-chapter-624-just-the-start
+partOf: system-change-system-universe
+position: 46
+ownLength: 2124
+unit: words
+ownProgress: 2124
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2986240/chapter-624-just-the-start"
+royalRoadId: "2986240"
+markedReadAt: "2026-06-29T19:58:12.558Z"
+---
+
+Chapter 624: Just the Start
+
+There was no fanfare. Nothing amazing happened to Derek during the ascent. He expected something, but instead, it was no worse or different—other than maybe some brighter light—than going into and out of a dungeon. He didn’t even have a weird elf guy kidnap him out of the teleportation this time. What did happen was that he basically closed his eyes, and when he reopened them, he was somewhere entirely new.
+
+Then, he got hit with a sharp pain in his head. Honestly, it wasn’t nearly as bad as the pain he experienced when going from the Universal System V3 to the Davenresh System. That was either because the Origin System was just much more gentle than the Davenresh System, the fact that the Origin System didn’t have to worry about the other system or systems in his head fighting back, or… maybe he was just stronger, so it hurt less.
+
+Derek wanted to open his status sheet right then and there to see what had changed. He also saw an awaiting notification or… like… ten… in the corner of his vision. Then, he had his people that he needed to let out of the Time Prison—the fighters, at least. But first, he had to make sure he was safe enough to do so.
+
+When he looked around, he winced. Sure, he didn’t see any monsters or people around, so there wasn’t any immediate danger. However, he wasn’t sure if he was in a desert or just a wasteland. As far as he could see, it was dirt, sand, small patches of grass, and there was one mountain range on one side. “That would probably be the best place to look for shelter if we need it,” he muttered to Silvi, who was still on his shoulder. “There is a lot of earth and sand, though… maybe Marrick will thrive out here.”
+
+“Empty…” Silvi mumbled from his shoulder.
+
+“What was that?” Derek asked.
+
+“It’s… empty,” Silvi said. “No ingredients anywhere. You don’t eat… sand and dirt… unless…” She hopped off his shoulder, then landed on the ground. She sniffed, snarled, then moved back to his shoulder. “Nope… regular dirt.”
+
+“True,” Derek said. “But this is one place out of… who knows how many? This is just the start for us.”
+
+Taking one last glance to scan the area, Derek nodded. Dave did say that the Origin System usually sends people who ascend to a safe area… so I guess there’s nothing around that will attack, at least for a few minutes or more… With that decided, Derek focused on his Time Prison and opened it just big enough for their largest combatant, Amelia, to walk through.
+
+The first to run out, with his blades drawn, was, of course, Jace. He seemed utterly disappointed to find that there weren’t any enemies around. Then he winced but didn’t say anything. Edgar came out second, and he also winced not long after walking out. The same happened to Nivara and Klaus. Then Amelia walked out and scanned her surroundings. She nodded, then waited.
+
+Finally, Marrick stepped outside the Time Prison. “Well, isn’t this place built for me?” he said with a chuckle as sand formed into a cloud beneath him and he began floating. He also didn’t wince at what was probably the Origin System doing something to the newcomers.
+
+“Marrick, Amelia… can the two of you keep watch? I want the others to come out and get whatever the Origin System plans on giving them,” he asked the two members of his party whom he deemed the most powerful. He also knew Marrick was very reliable, and he had a sneaking suspicion that Amelia would be, too.
+
+“I’ll keep an eye out behind us,” Marrick said, then started to float off. “Though I’m staying out of the air so I don’t draw attention to us for now.”
+
+“I’ll do the same,” Amelia replied.
+
+With a nod, Derek turned back to the Time Prison. He poked his head inside, then said, “I want you all to come out, get a… system change… then go right back in. I don’t know how safe this place is going to be.”
+
+Quickly, everyone else came out. It was a bit rougher for the lower-level party members. Stella had to close her eyes for a second as the pain hit her. The same was true for Malorie and Ogre. Bones didn’t seem to be affected at all. Thomas fell to his knees for a moment, and Brandi clutched her head and allowed a few tears to run down her cheeks. Overall, though, it wasn’t bad.
+
+But finally, the halfling alchemist, Roman, stepped out. He looked around and didn’t wince. He outright scowled. Then he said something that made Derek want to facepalm. “Empty… no ingredients…” he muttered. Then he bent down, scooped up some dirt and sand, and shook his head. “Regular dirt and sand.”
+
+After that, Silvi bounced over and landed on top of the alchemist’s head. She seemed to be communicating with him telepathically, even though she wasn’t a fan. The two were animated in their nods and headshakes. Derek could only snort and then look at everyone else. He had to get a consensus on something.
+
+Derek asked, “Would you rather have time pass inside the same as it does out here? Or slower? Or faster?”
+
+“Can… you make it pass slower?” Brandi asked, which surprised Derek.
+
+“Why?”
+
+“I want to work on smithing without being able to use any skills or system help. I think… I think I can do it. Inside is perfect for that. But… I need time. And… I know you can’t use your travel skill with people inside. So… I can’t stay in there once we get where we are going,” the young smith explained.
+
+“Learning your craft without being able to use any of the system-granted assistance…” Derek muttered. “That… I don’t even know what to say. It could be a dumb idea… but it… it could be genius…” he said. He’d once spent a lot of time disconnected from any system. He basically used his skills like Meditation from memory and feeling back then instead of activating them via the system. He definitely came out stronger for it.
+
+Derek looked around at everyone. Then, he turned to the ‘leaders’ of the lower-leveled party members—Malorie and Stella. Stella shrugged. “I’ve got no problem with that. We have plenty of supplies and non-magical lights and everything. The company isn’t bad. Malorie and I have a lot to catch up on. I have many things to teach her if I’m going to… well… never mind. Just… check on us when you can… maybe once every week or month for us?”
+
+“I am fine with that,” Malorie replied.
+
+“Intriguing…” Roman said after his tense discussion with Silvi. “Alchemy without system assistance… I guess… I do have ways to heat everything up… I will try that, too!”
+
+“In that case,” Derek said, “I’ll put it to where every day that passes out here—which should be the same even in the Origin System because of the standard system time—will be one week inside there. I’ll do my best to check in at some time between a week and a month for all of you. But there may be times when that isn’t possible, so don’t panic if I’m late.”
+
+“Perfect,” Stella said. Then she looked Derek in the eyes, nodded, and said, “Keep everyone safe.” Then she turned and walked back inside. Everyone else walked inside too.
+
+“For the time being,” he poked his head in and started, “I’m going to leave the door open so you can all interact with the Origin System. But I won’t leave it open for long, and I’m going to make the door very small.” As he said that, he focused on shrinking the door. He was able to get it to around Roman’s size. He nodded at the visual, then turned back to his ‘battle’ party.
+
+“You… should check out the new system,” Edgar said when his eyes landed on him. “It’s… customizable. A lot of information. I have a lightning affinity of 47%… is that good? That doesn’t sound good… seems low…”
+
+“Oh…” Derek’s eyes widened. He’d forgotten about all the restraints regarding talking about affinities and other systems and things. Now that they were all part of the Origin System, he could let them know a lot of the things that Dave had taught him.
+
+“Yes, Edgar, that is good. Very good, actually,” he explained. “Get it to 50%, and it should be possible to upgrade your class to Mythical. You’ll probably need a new Title or something to allow you to upgrade your class at that point, but Avery did it in the dragonkin dungeon when he upgraded to Legendary, so I think you’ll find a way. And it will pretty much be guaranteed at level 500. From what I know, levels are for quick power now, and affinity is for long-term strength.”
+
+“I got it… get it to 50% or higher…” He looked into the sky. “Doesn’t look like there are going to be any lightning storms anytime soon.”
+
+“43%…” Jace muttered from the side. “I need to fight more…”
+
+Derek felt a bit sorry for Jace at that point. He had to have battles to increase his Battlelust affinity, but battle also brought levels, so he would have to increase his strength with a delicate balance. Derek gave the area one more look around, then said, “I’m going to check my notifications. If you see anything, tell me.”
+
+Jace and Edgar both nodded, then Derek pulled up his first notification.
+
+…
+
+Advancement Complete!Congratulations!You have ascended from a C-Tier system to an A-Tier system.
+
+…
+
+Next…he thought.
+
+…
+
+Unlocking Stored Titles…Complete…Congratulations!You have gained the following Titles:
+
+Absolute SaturationDefenderEvolutionInvasion MVPMythicalSystem Traveler IITierbreakerUnity
+
+…
+
+That’s more like it, Derek thought as he saw the eight Titles that he’d banked finally appear. Though I already know what the Invasion MVP and the Defender Titles are since the invasion reward screen let me see them… Let’s check out the other ones!
+
+…
+
+Absolute Saturation: Your body has once reached a hard stat limit of a system and was fully saturated with essence. Few in the entire System Universe have even achieved this feat. In doing so, your new hard stat limit has been greatly increased.
+
+Invasion MVP Activated…Limit Increased Further…
+
+…
+
+I’m not quite sure what all that means, but I definitely remember the hard stat cap. Does that mean I’ll be able to keep increasing my stats even at max level? he wondered. I… think this is a Title that won’t be useful right now but could be pretty great later. And Invasion MVP kicked in… nice… Though, I thought my evolution already fixed all that… but maybe… it’s just expanded it even further. Let’s see the next Title. Let’s look at the invasion ones.
+
+…
+
+Evolution: Not only have you achieved an Origin System Evolution, but you have done so while outside of the Origin System. The rate at which the Origin System assists in increasing affinity will be increased.
+
+Invasion MVP Activated…Affinity Gathering Increased Further…
+
+…
+
+Uh… I wonder if Dave knows about… that… He was pretty stunned when he learned that Marrick had received an evolution. With his focus on affinity, it’s no wonder why…One thing he was certain of… he was very happy that the Origin System had locked the Titles away from him. He had only hoped that the Invasion MVP Title would work for them, and it really had.
+
+Let’s see if it helps with this next one. I remember getting Titles way back in the Universal System V3 that were gained by reaching certain class rarities… that’s got to be what the Mythical one is, he thought as he moved on to the next Title.
+
+…
+
+Mythical: You have reached Mythical rarity in your class and have done so at level 200. Though not an extremely rare feat in the System Universe, reaching Mythical at level 200 is a feat for only the true elite. +100 stat points to each stat.
+
+Invasion MVP Activated…Stat Points Increased to 125…
+
+…
+
+So it is just like the old rarity Titles from the Universal System V3…he thought. They all gave stat point increases, too. Uncommon was 15… Rare was… 25… Epic probably would have been 50, then 75, now 100… I guess the Davenresh System didn’t have that…he thought. The Origin System certainly felt more like the Universal System than the Davenresh System…
+
+He would not complain, though. He still had three Titles left, and who knew what his updated stat sheet was going to look like? He certainly didn’t.

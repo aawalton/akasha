@@ -1,0 +1,465 @@
+---
+id: 78efe406-a86e-5c01-9f27-6ddf1bed8224
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-THREE: The Primary's Youngest Child"
+slug: 0165-one-hundred-sixty-three-the-primary-s-youngest-child
+partOf: super-supportive
+position: 165
+ownLength: 6017
+unit: words
+publishedAt: 2024-08-19
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1764681/one-hundred-sixty-three-the-primarys-youngest"
+royalRoadId: "1764681"
+---
+
+163******
+
+The child who lived in the dome by the river was trying to decide what kind of beautiful the day was. He squatted a couple of steps from the wide silver band of the water, dark sand squishing between his toes.
+
+Beautiful. More beautiful. Or most beautiful?
+
+He splayed his small fingers, patting the stone he had just warmed with magic before flopping over in the soft sand to lay his cheek against it. That way he could feel the heat with his face, too.
+
+He had learned the spell only a few days ago. His mother would come soon, and he would show her that he had done it all by himself. And she would be proud of him.
+
+That will make it one of the more beautiful days, he thought.
+
+He decided to think about his new spell with one half of his attention and listen for the familiar sound of her approaching footsteps with the other.
+
+They were never apart for long. As soon as being alone became less interesting and happy than being together would be, she appeared. That was how the world worked.
+
+The warm stone felt good, and the cool sand felt good, and the wind tickled his legs and arms where they stuck out of his longshirt.
+
+If he fell asleep for long, he would wake in bed. His mother’s arms would be wrapped around him, or her voice would be, as she sang him The Names of Things song.
+
+If he got up and ran as fast as he could on his short legs, the air would fill his chest, and he would see parts of the river he’d never seen before. And as soon as he went far enough to wonder if going too far might be a possibility—as soon as he tried to figure out what one should feel if they went too far from home—he would see that he hadn’t really gone far at all.
+
+The way back to the dome was always clear and easy to walk when he wanted it.
+
+This was what life was.
+
+He heard footsteps.
+
+They sound different than I expected, he thought, delight tingling through him. I’m getting a surprise.
+
+Different almost always meant a surprise. Surprises almost always made the day most beautiful.
+
+He sat up and looked around.
+
+His mother was there, standing side by side with the most amazing surprise of the child’s whole life.
+
+“Stu,” she said, “this man is Jeneth-art’h. He is your father.”
+
+Stu stared at the new adult—him, the man, Jeneth-art’h, Father. The ideas blossomed inside him, and he realized he had always wanted this even though he’d never once felt the lack of it.
+
+He gasped and ran forward, arms outstretched. “Father! There you are, and here I am. I love you so much!”
+
+He grabbed the man around the legs, blinking up to meet pink eyes. Hair that was almost white spilled down Father’s shoulders. He smelled different than Mother. His skin was paler than hers, his nose a little larger, and the expression on his face was one Stu didn’t know, though he was sure it must be a good one.
+
+“This is the most beautiful day there has ever been,” Stu said, still clinging to him. “Do you think so too, Father?”
+
+******
+
+******
+
+“It’s been a long while since someone chose Maker of Narrow Ways,” Stuart was saying. “I’ve spent almost as much time talking to the Contract about the possibilities and having calls with <<designers>> and <<theorists>> as I have in class. But about a month ago I finally got every involved person to agree that my desired <<personalizations>> and <<self-concept>>  would be <<excellent in their own ways>> instead of <<in conflict>> with the skill’s <<core>>.”
+
+He paused for his first breath in ages.
+
+Emban-art’h had left to go change her clothes after a short bickering session with her cousin, so it was just the two of them again. Alden was sitting on the ground, leaning against the tree that had been his backrest for most of the morning and eating his lunch out of the to-go tiffin he’d packed earlier. Stuart had sat down to eat with him only to bounce right back up to grab the first wood block his spell effect had struck, which was the least damaged of them all. He’d held the broken pieces together to show Alden the approximate shape of the hole that had been formed in it.
+
+It was an oversized bean if you used your imagination.
+
+Now, Stuart was standing beside his magical handiwork. He kept looking from his bean bullet—still in its landing spot beside its partner—to Alden like he couldn’t decide which one was more worthy of his attention.
+
+Alden opened his mouth to ask a question, and Stuart hastily said, “I know! Naturally, you’re worried about whether I’ll be able to use the skill the way I want to and hoping I won’t be disheartened with my choice during the early years of my knighthood. Maybe you’re thinking that it’s <<ill-chosen>> and I should instead consider a more certain course for—”
+
+“I’m not thinking any of those things!” Alden cut in, setting aside the ceramic jar of greasy, tasteless pudding he’d just eaten a bite of. It was by far the worst of all the random snacks he’d added to his lunch, but since he’d taken it he felt obligated to finish it.
+
+“You’re not?” He looked so thrilled to hear it that Alden hated to point out the very obvious thing that he seemed to have forgotten. Stuart was high on the aftermath of his casting success and Alden’s own enthusiasm for what he’d done.
+
+As soon as I said the spell was awesome he launched into this mode, and he hasn’t slowed down since.
+
+“I do think you might have temporarily forgotten that I’m not Artonan,” Alden said.
+
+Stuart blinked at him.
+
+“So I can’t really judge your choice. I have almost no knowledge. To me, what you did is incredible, and I think a skill that both transports things and destroys obstacles in its path is going to be so impressive when you grow it. But I probably understand about one percent of what you really did, and when it comes to the pressures you’re under to pick the right thing…I don’t even know how many skills you have to choose from.”
+
+“Of course.” Stuart’s neck purpled. “I got too excited.”
+
+“No. I don’t think it’s possible to be too excited about your skill choice. It will always be part of who you are in the future, so…”
+
+So screw you, overly certain fifteen-year-old idiot Alden. Why didn’t you take at least a few weeks to think like this back in February?
+
+“So you need to really think about what you’re doing with it and find something that makes you that excited.”
+
+Stuart smiled, picked up his beans, and came over to take a seat facing him.
+
+“I should let you ask questions,” he said. “Since I’m not sure what you understand. What do you want to know?”
+
+“Everything,” Alden said. “But that might take years. How about we start with what just happened. You made a tunnel? Will your skill always work like that?”
+
+“It always will when I’m doing this kind of thing with it…yes, the spell I cast created a tunnel—a way for the bean to reach its destination. The <<construct>> formed quickly, moving from one bean to the other and denying everything else the right to occupy that space as it came into existence. Then the bean traveled through to its destination <<unimpeded>>.”
+
+“The tunnel isn’t all created in an instant,” Alden said, just to be sure he understood. “It begins forming at Bean 1, then continues forming toward Bean 2. In a straight line?”
+
+Stuart nodded.
+
+“And everything in between gets…” Alden almost said “punched through,” but then he reconsidered. “Is the tunnel at its full width from the start and moving forward like a finger poking holes in sheets of paper? Or is it expanding into existence as it goes?”
+
+“It expands,” Stuart said
+
+“When you do it with your skill will it work the same way? Or will the whole tunnel form at once?”
+
+“Eventually, I should have significant control over the process. But motion toward something is part of the skill concept. A way is meant to be traveled, so having it appear fully made between two points instead of having it progress from one to the other…” He craned his neck back and stared thoughtfully up at the forest’s canopy. “I’m sure I could do it with practice. One day. But I can’t think of many reasons to do it when forming ways nearly instantaneously would be good enough and produce stronger results.”
+
+This is pretty fascinating.
+
+And it was more confirmation that Alden’s own ideas about how Bearer worked were on the right track. “Your skill is weaker when it’s being used for things that are less itself,” he said.
+
+Stuart stopped gazing up at the branches and met his eyes again. His brows were slightly elevated. “The skill isn’t weaker; the effects of it are. It’s an important <<distinction>>. You can bring the same amount of authority to bear, but skills become more <<undeniable>> when what you want to do with them reflects their natures.”
+
+“All skills?”
+
+“Of course.” But then he added, “I don’t know as much about Avowed skills. Some skills are more rigid than others, and that would mean there was less variation and possibility in their function. A skill can be limited in all kinds of ways, until it crosses the threshold toward being defined as a spell impression. A skill called Maker of Narrow Ways for Keda Beans could be created, and then the person who bound themselves to it probably wouldn’t be able to do anything but move keda beans through bean-sized ways.”
+
+“I’m glad you didn’t pick that one.”
+
+“The other <<newlings>> would probably hesitate to be in <<squads>> with someone who picked a skill that peculiar,” Stuart replied. “I did have trouble choosing. Weighing what skills could contribute to our purpose with how they suited me personally was difficult. Finding one that could be meaningful to me in the right ways was a lengthy search.”
+
+Alden had promised himself, while he watched Stuart set up the spell, that he wouldn’t have selfish-dickhead thoughts about how different their skill selection experiences were. And so far it was mostly working.
+
+Given Stu-art’h’s general intensity level, Alden had been afraid that he might have chosen something insane for himself. Like a skill called I Cut Off My Own Fingers in Exchange for Making Mountains Explode. Or something equally difficult to live with.
+
+So he was still feeling relieved that instead he’d seen a cool magical effect that would surely have multiple powerful and practical uses for a future knight, without any loss of blood or added anguish on the caster’s part. And the Artonan boy’s enthusiasm for showing the spell off and talking about it was infectious.
+
+“What made Narrow Ways the perfect one?” Alden asked.
+
+Stuart’s answer was a little slow in coming. He picked up a fallen leaf and wove it through his fingers.
+
+“I wanted to be able to cut through things,” he said after a moment. “But I didn’t want the skill to be built on a foundation of separation. Maker of Narrow Ways can be used for <<severing,>> but it’s not for severing. The cutting is something that forms a connection, instead of something that breaks one.
+
+“It’s a skill that can reflect what has shaped my past and what I hope for in my future.” He dropped the leaf. “I’m sure when it’s all done and my peers have a chance to look away from their own choices and consider mine, many of them will think I’ve gone too far in pursuit of personal meaning at the expense of efficiency. But at least my family supports this part of my decision. Evul said it was a goal as odd as I was, but she meant it in a complimentary way.”
+
+“It’s not efficient?”
+
+“No. I want to use Maker of Narrow Ways on the battlefield, but it wasn’t designed for that. There are easier methods for destroying things or sending them across short distances. I’m sure I’ll find many opportunities to take full advantage of it. But often, to get the effect I want, I’ll be straining my authority more than I would with other skills.”
+
+Oh yeah. That makes perfect sense now that he says it. Constructing a rapid-transport tunnel through space was extremely fancy, but it was a convoluted way of dealing damage.
+
+“It’s like me using my skill to behead someone in gym,” said Alden. “Just because I can do it doesn’t mean I’m a natural beheader.”
+
+“That word for removing someone’s head is only for formal executions. You want to use the other one, unless you are deliberately implying that Avowed Winston is a terrible criminal.”
+
+Alden thought for a second. “Would it come across as funny-mean or serious if I used the original word?”
+
+“It would be funny-mean if an Artonan said it. If you do, people are just going to think you accidentally used the wrong word…maybe it would work if you laughed after saying it? And yes, you understand what I mean about efficiency. If a skill called The Slicer of Necks exists, we can assume it’s better at doing that chore with a smaller authority commitment than your preservation skill is. Although circumstances affect everything.”
+
+“What’s Maker of Narrow Ways supposed to do?” Alden asked. “What was it designed for?”
+
+Stuart opened his mouth then shut it. He thought for a few seconds before saying, “Its intended use is cross-dimensional exploration.”
+
+Why the pause there? Alden wondered.
+
+“It will be very efficient for that particular thing. And that’s what the few previous users selected it for. The fact that it’s not immediately capable of doing that was a source of <<misery>> for them even though they knew to expect it. To bind yourself and spend your early years of service unable to use your skill in the way you want…for me, it will be better. There will be problems but not <<unassailable>> ones, I’m sure.”
+
+Alden looked past him to the line of destroyed blocks and burst fruit. “I still think it’s amazing.”
+
+“Yes!” Stuart said, eagerness returning. “Its roots drink from concepts like connection, motion toward goals, <<precision>>, and creation.”
+
+“Built on creation. Not destruction. Even though it’s capable of destroying. That’s what you wanted.”
+
+Stuart watched him take another bite of the tasteless pudding.
+
+Alden was still trying to produce enough saliva to get the remnants of it out of his mouth and down his throat, when Stuart said, “My father’s first skill is called Cleaver of Strength. Did you already know that?”
+
+Alden shook his head.
+
+“It’s a skill very different from mine really. Associated with concepts like severing, ambition, <<fair play>>—”
+
+“Fair play?”
+
+“Father always mentions that one. I doubt the people who designed the skill would have listed it as a core part, but the way we see our skill and the choices we make in the development of it matter. Attacking at the point of greatest strength with your own greatest strength is a sort of fairness. And that’s what Father’s skill is best at.”
+
+“You do usually think of attacking a problem at its weak point, not its strong one,” Alden said.
+
+“The skill is very complementary with Esh-erdi’s power. That’s one of the reasons he and Lind-otta spent time here. Esh-erdi has progressed quickly over the past years, and he and father wanted to see how well they might work together. The three of them could be a powerful team.”
+
+Alden didn’t doubt it. Lind-otta slowed the enemy. Jeneth-art’h cleaved it, turning its greatest strength into a weakness—a crack. And Esh-erdi cleaned up.
+
+“Father used that skill to kill Mother and separate her from my mind,” Stuart said. “As well as he could.”
+
+Alden slowly set aside the food. What did he just say? What the hell?
+
+He watched Stu-art’h’s face for some clue as to how he should respond. But before he could come up with anything that felt like an appropriate reaction, the Primary’s son went on: “Father and a few others once traveled to a world that had suffered a sudden and very severe chaos breakthrough. It was clear to everyone that there was an intelligence of some sort responsible. Those are often the most dangerous situations. Someone had to respond swiftly, and so there was little opportunity for Father and his companions to study the nature of the enemy before beginning their assault on it.
+
+“It was an unexpectedly difficult place. Father says they struggled to know what direction they traveled in, and though they sensed the demon and understood how it affected them, they couldn’t find it. As the corruption increased, two of the three he traveled with became too weak to continue. They attempted a teleportation ritual, to send those two back home. It’s not easy to do from a place like that, and though the Contract here on Artona I did register a possible teleportation attempt and try to stabilize it…it failed. When the failure was reported, and no further attempts came, most people suspected that the whole group had died.”
+
+Stuart let his hands fall to the ground beside him, fingers digging into the leaf mulch.
+
+“A woman called Iella-inwer, who was ranked sixty-eighth, had become a dear friend of my father’s over the course of their meetings. They had sworn no promises to each other, but I’ve been told that most people hoped they would. Someday soon. When he went to that place, she was actually here at the house, <<mentoring>> Rel.
+
+“She joined the first group that was sent to help with the problem. They teleported to the nearest stable planet and took a <<fortified ship>> the rest of the way. Almost a whole day before they arrived, they say she felt something about the chaos spreading from that place. She looked at the others and said, ‘How fortunate. This is the kind of enemy I have forged myself to face.’”
+
+******
+
+******
+
+On the most beautiful day there had ever been, Stu’s family sat by the river together for a long time. His mother held him in her lap, combing his hair with her fingers. His father sat across from them, holding the rock Stu had given him as a present, even though the spell had worn off and it wasn’t warm anymore.
+
+“Iella,” his voice said. And again. “Iella, please…”
+
+Many of the things Father said had a way of falling away from Stu’s memory, until only the cadence and the fact of his voice speaking were left. But it was all right. Maybe the words were drifting downstream. Wasn’t that a lovely idea?
+
+“Would you like to see one of the patient creatures in the water?” Stu asked suddenly. “Father, have you seen them?”
+
+The pink eyes fell on him. “Have you only taught him the Rityan vocabulary? Not the whole unified tongue?”
+
+“Because then we’ll know,” Stu’s mother said, her fingers still combing. “If he ever says a word that isn’t Rityan, we’ll know it’s slipped through and affected him.”
+
+“Oh, Iella…”
+
+“What’s slipped through?” Stu asked curiously.
+
+A picture came to him—one of the clear and true ones—of the little blue wigglers he liked to watch, slipping in and out of holes they’d made in thick patches of spongeplant. And he knew that was what they were talking about.
+
+So I might see one of those today, too?
+
+That would be perfect.
+
+******
+
+******
+
+“The behavior of demons is a never-ending subject of research,” Stuart said to Alden. “But the ones that are prone to <<remaining>> often have stubborn <<drives>> and urges that might be called goals. The one responsible for that breakthrough was probably a wizard who, before his fall, was obsessed with the field of mind manipulation. We’re almost sure that we know his name, but the being was so unrecognizable when Father finally located the last remnants and destroyed them, that confirming its original identity wasn’t possible.”
+
+Oh okay then, Alden thought, feeling his own eyebrows trying to escape off his face into the sky. We’re just going to straight-up tell me that a single wizard can turn into a super demon and cause an apocalypse-level chaos event.
+
+He’d sort of suspected that already. Kibby had said she had to be tested more often than the other people at the lab to make sure it was safe for her to live there without becoming the strong-authority version of the chaos-spreading  grasshoppers. So the wizard-to-demon type of demon had been a possibility in Alden’s mind.
+
+He just hadn’t expected Stuart to casually confirm it was true and add in the fact that it could be really, really bad when that happened.
+
+Stu-art’h, did you miss the class on proper discretion that the rest of your species gets, buddy? This is like Kibby all over again, only you have way more adult intel.
+
+“My mother’s skill was The <<Ensnarer>> of Minds, and in some ways, the entire planet had become a chaotic mind snare under the influence of the <<origin demon>>. She was the best choice to find Father and help him push back the <<many-sided dangers>> until they could locate the perverse one and kill it.
+
+“The others who’d come on the mission of rescue helped for a time, but eventually it was only the two of them left.” Stuart caught Alden’s gaze with his own. “My parents fought side by side in that <<agonyscape>> every day, cleansing it of corruption. Often, Father rested his mind and recovered in the shelter she made for him with her skill. And whenever they became worn by the struggle, they pleasured one another to remember the brightness of life. I was <<conceived>> in that way.”
+
+Alden narrowly stopped his mouth from making a comment about not needing to know that much. It would be rude, and besides…he didn’t actually feel that way about it.
+
+He was only startled the conversation had gone there, not embarrassed or offended. Minimizing the serious moment with an offhand remark wasn’t what he wanted.
+
+Some kind of social reflex, I guess.
+
+It was a garbage social reflex in this case.
+
+Artonans had different norms. And they were poetic, especially about significant things. Your parents making you was pretty significant. Back at Matadero, Porti-loth was probably still muttering judgments about humanity because nobody had written down the exact spot where Alden’s umbilical cord had been cut.
+
+“My mother was the one who made a victory that didn’t involve the total destruction of the world possible,” Stuart said. “But they were relying so heavily on her. And even though she was skilled…when a battle of minds wearies you, it can weaken you in ways that are difficult to detect. For some reason, she didn’t tell Father she was pregnant with me. Probably to spare him from the likelihood of my loss. But as they were approaching the end of the long fight, she told him she couldn’t go on. Escape vessels and <<backup>> had been sent to a <<solidified>> part of the planet by then. So it should have been all right.
+
+“When Father finished his work and made it to the main ship, they told him she’d gone back to the Mother planet. By teleportation ritual. She’d made them believe that. He was worried for her, and he’d been away from home for so much longer than planned, so he had them send him right back here to see her in person. And he realized something was very wrong.”
+
+Stuart suddenly stopped talking.
+
+Alden picked up the pudding and took another bite so that it didn’t feel quite so much like they were having an awkward silence.
+
+“At some point before she left him, she’d decided that their successes weren’t real. All the progress she’d made seemed like tricks the demon was playing on her, traps she was failing to detect.” Stuart swallowed. “When Father finally found us…she’d gone to a safe planet to give birth to me, but she thought we hadn’t really made it to safety. She thought her escape had failed, that it was all a mind trap—an elegant one, like she herself could create, not the sort of thing they’d actually encountered in that place. In her mind, the demon had become an impossible enemy who was always as strong, smart, and <<sophisticated>> as she was herself.
+
+“So she’d waited for help to come. She protected me with her authority and tried to make sure that no matter what happened I wouldn’t experience suffering. She raised me in her own mind trap.”
+
+Alden swallowed the greasy lump of pudding.
+
+“She used her skill to remove everything that might be painful, frightening, or even slightly uncomfortable from my attention. It was the gift of the loving lie carried to its farthest extreme. When Father found us, I loved him at once. Of course. I had never felt unhappiness or known of a threat.
+
+“I remember him trying to talk to me several times, to explain something, but most of those words are gone. She erased a lot of them because they might have confused me, and by then, she considered even that much to be a suffering I shouldn’t experience.
+
+“He tells me he was fighting to hide how upset he was. That he argued with her in my presence when he couldn’t persuade her to leave with him or free me from the trap. But I don’t remember it that way. It’s all so…soft and happy.
+
+“It was even soft and happy at the very end.”
+
+******
+
+******
+
+Another most beautiful day.
+
+Father and Mother had held him all morning. He liked that his life included two sets of slightly different arms. Two smells. Two great loves. More was better.
+
+Now, they had words to say to each other that Stu could not hear.
+
+They are talking about a surprise, he thought.
+
+The only unknown things were surprises.
+
+He looked down through the water at the patient creatures. They rested on the bottom, black and not quite round. Covered in sharp points.
+
+Stu didn’t touch those.
+
+I want to touch them, though. Why is it I don’t touch them?
+
+Had he shown them to Father already? He’d meant to, but he couldn’t remember doing it.
+
+I don’t think I have. That’s exciting! I’ll show him when he comes to the river again.
+
+And then, suddenly, there was a feeling that had never existed before.
+
+Like.
+
+The world.
+
+Breaking.
+
+Something’s not-beautiful, thought Stu-art’h. Something’s the most not-beautiful.
+
+And then he was lying on his back in the sand, and his mother was running her fingers through his hair.
+
+“Mother! I love you.”
+
+“You’re very happy today, Stu.”
+
+“I am,” he agreed.
+
+He heard footsteps coming, and then his father was there, standing above him. And his mother was gone.
+
+So quick! Stu thought. So wonderful! She must have done it with a spell.
+
+His father’s face was wearing one of those expressions Stu didn’t know. “May I sit beside you?”
+
+“You may hold me,” said Stu. “That would be the most good.”
+
+A moment later, arms were around him.
+
+“I’m glad you’re all right. I have something to tell you,” his father said after a while. “It’s a surprise.”
+
+“I knew there would be one!” Stu said. “What is it?”
+
+“The surprise is that you have older brothers and sisters. And I’m going to take you on a trip to see them.”
+
+Stu blinked. He blinked many times. He was sure he’d never had to think so hard in his life. “Brothers and sisters like some animals have?”
+
+“Yes.”
+
+“Do they look just like me?”
+
+“No. They look different. But all of you…all of you are most beautiful.”
+
+“Did you hear that, Mother?” Stu called excitedly. “We’re going to see my brothers and sisters.”
+
+The arms around him shook.
+
+When Stu called, his mother appeared. As she always had. This time it was very fast, and she was standing right in front of them. On top of the water.
+
+Another special spell, he thought. One day, she’ll teach me that one, too.
+
+******
+
+******
+
+“The more he tried to reason with her, the more suspicious she became that he wasn’t himself,” Stuart told Alden. “Instead of persuading her that she was badly hurt, he was only making her think that he might be someone she had to protect me from, too. Pushing any more would make her fight him, and he was afraid that leaving would convince her she was right and make her panic.
+
+“She was unwell enough and dangerous enough that if he had called for help from the Triplanets and explained the truth of the matter, the outcome would most likely have been similar or worse. So before she could hurt me or drag me completely beyond recovery, he struck her down with his skill.”
+
+Oh my god, Stuart.
+
+“It was a long time ago,” said Stuart, reaching over to touch Alden’s knee with a hand. Apparently, Alden looked like he needed comforting.
+
+“And I was so young. The day of her death was much more awful for him than for me. I didn’t even realize something bad had happened. Because…” Stuart smiled, “…Father was much worse at cleaving than usual.”
+
+“What do you mean?”
+
+“Iella was so powerful. And I was so delicate. In some ways, her life had become her devotion to watching over me. If he’d struck at her point of greatest strength, he’d have been killing me, too. And he wouldn’t do that. So he was more <<tentative>>. Maybe she realized it was coming, too, and did something deliberate, <<enacted>> some final plan she’d made.
+
+“Because a very lifelike version of her was still with me after it was done. Anytime I looked for her, she was there watching over me as she always had been.”
+
+“The hallucinations you mentioned,” Alden said.
+
+Stuart nodded. “She even went on protecting me from…life. For a time. What was left of the mind trap had holes in it, but they didn’t show at first. I feel so sorry for Father. He thought I was doing well enough on our trip home.”
+
+The Artonan boy laughed a little.
+
+Alden was shocked that Stuart could do that, but hearing the sound lanced some of the horror he was feeling.
+
+“I was extremely unusual. Of course. But I loved the spaceship. I was happy. And he thought my occasional conversations with my missing mother were understandable <<coping>> and <<confusion>> that the mind healers would be able to fix. He didn’t realize I was still living in a world separate from everything else until we’d been traveling a while.”
+
+Stuart touched his own bottom lip.
+
+“I was running down a corridor on the ship, and I fell. I bit my lip. For some reason that was the first time the illusion completely failed. Nothing so shocking had ever happened to me. I’m sure it didn’t hurt much at all, but I had no way of understanding it and putting it <<into context>>. I was terrified. Even the sound of myself crying scared me. It felt like my body was out of control because I’d never sobbed before. And when I looked around for my mother, for the first time in my life, she wasn’t there…”
+
+“I know it’s probably hard to imagine.” He looked at Alden. “But after that, I started having <<episodes>> every now and then, when she would disappear and I’d suddenly realize that the bed sheets were too itchy or the food tasted different than I was expecting. Those things were just as <<dire>> to me as actual injuries. I’d get confused and scared and start screaming. Father would do everything he could think of to figure out what was wrong and fix it.
+
+“He didn’t even try to explain that Mother was really gone and that when I saw her it wasn’t her. Just the last gift she’d given me—the protection of the flawless world I’d always known.”
+
+The breeze picked up, tossing the treetops. Alden watched a few of the fallen leaves skitter across the circular white stone Stuart had stood on to cast his spell.
+
+“I understand why you picked your skill now,” he said. “You can cut with it, like your father. But you didn’t want to focus on the separation. You wanted to focus on the fact that…”
+
+He couldn’t think of how to put it.
+
+“The fact that the severing of something can be what connects you to a goal. Or a better place. Or people who love you in a better way,” said Stu-art’h.
+
+Alden took another bite of his pudding. He was almost through with the stuff. Finally.
+
+Stuart’s brow furrowed. “Do you enjoy eating it that way?”
+
+“It’s not my favorite thing,” Alden said politely, “but my stomach is well-filled.”
+
+“I see.” Stuart looked amused. “You’re eating it just to have perfect manners. You can stop that. We aren’t in the middle of one of the famines of old. I think the Triplanets can afford for one person to throw part of his second meal away.”
+
+“I’m just trying to be a good guest for you. I don’t want anyone to say you chose wrong after I left. What is this stuff?” Alden looked down into the container. “It looks like vanilla pudding so I thought maybe it would be sweet. So much Artonan food is sweet. But this…is not.”
+
+Stuart was grinning broadly now.
+
+“What?”
+
+The Artonan boy started laughing, much harder than he had a moment ago. “It’s oil. It’s for frying things in. Not for eating plain.”
+
+Alden stared at him. “You’ve been sitting here watching me eat a cup of pure fat!”
+
+“I thought maybe humans enjoyed that. You had so many bites.”
+
+“We don’t enjoy that.” Alden was aghast. “I’ve almost finished the whole container!”
+
+Stuart laughed so hard he looked like he was about to topple over.
+
+“What is this going to do to my stomach?!”
+
+“I don’t know what it will do to you,” said Stuart. “If you were an Artonan…ha!…if you were an Artonan it would probably make you shitty.”
+
+“Stu-art’h!”
+
+******
+
+“I wanted to ask you,” said Alden, as they collected the supplies and the broken blocks for their trip back to the house, “if I can call you Stu. If it’s not all right yet, you can say so.”
+
+The Artonan gave him a baffled look. “Obviously you can. I do like the special human name you’ve given me, though. Many people call me Stu. Nobody else calls me Stuart.”
+
+“Oh…I…”
+
+Started doing that a couple of minutes after I met you. When I thought you were a total dumbass.
+
+“You only purposefully mispronounce my name and Kivb-ee’s. It’s so nice.”
+
+“I’ll keep doing it then. Thank you. Stuart.”
+
+Stuart nodded. “I guess Worli Ro-den asked you to mispronounce his, too. Joe.”
+
+“He’s not Joe anymore,” said Alden, dragging the remains of the burst sackfruit over to the casting stone. “He’s lost the honor of being called Joe. Do you know he’s on Earth right now?”
+
+“I recommended he go there,” said Stuart. “He was the most powerful wizard I was sure I could talk into leaving right away.”
+
+Alden stopped dragging. The sackfruit tentacle felt like a giant gummy bear in his hand. “You sent him to help Anesidora?”
+
+“I respectfully suggested…”
+
+“Stuart, Ro-den’s a jackass, but he’s been a huge help. And you’re cool as fuck. Do look up all of those English words by the way. I’ll help you figure out the internet.”
+
+“I don’t have trouble with the internet.”
+
+“I’ll help you figure it out.”
+
+“I’m not struggling.”
+
+Alden’s stomach made a disgusting gurgling sound.
+
+******

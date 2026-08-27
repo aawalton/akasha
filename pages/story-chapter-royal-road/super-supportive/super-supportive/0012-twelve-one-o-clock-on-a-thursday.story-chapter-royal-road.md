@@ -1,0 +1,203 @@
+---
+id: bb6622b5-5791-52e0-a100-54e4e9fe6b0d
+page-type-slug: story-chapter-royal-road
+title: "TWELVE: One O'clock on a Thursday"
+slug: 0012-twelve-one-o-clock-on-a-thursday
+partOf: super-supportive
+position: 12
+ownLength: 2225
+unit: words
+publishedAt: 2023-02-17
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1116121/twelve-one-oclock-on-a-thursday"
+royalRoadId: "1116121"
+---
+
+It was supposed to happen differently.
+
+It definitely would have if Alden’s life were an action movie…or even a comedy. If the universe were a writer, there would have been some dramatic build-up. Some tension that needed breaking. Maybe even a small disaster that could only be overcome by the deus popping out of the machina.
+
+But it didn’t go like that.
+
+Instead, it was one o’clock on a Thursday. And Alden had just bombed a quiz on Hamlet because he’d somehow failed to see a reading assignment that had, apparently, been posted on the board all week.
+
+It was out of character for him.
+
+Hannah’s funeral was in two days, and while he was a long way from bursting into tears at random intervals like he had in the months after his parents were killed, he was having a pretty hard time focusing his attention on the everyday stuff.
+
+His AP Literature teacher looked like she wanted to have a worried conversation with him, so he made a quick excuse, grabbed his bag, and dashed across the hall to the bathroom. There, while he stared at some of his schoolmates’ artistic graffiti and did what people do in bathrooms, he suddenly felt a jolt.
+
+It was a brief, painless full-body spasm. Like a hypnic jerk.
+
+Startled, he grabbed onto the cracked plastic top of the toilet paper dispenser with a steadying hand. But the physical sensation was already over.
+
+An instant later, a voice spoke quietly in his ears.
+
+“Hello, Alden,” said the System. “In 1963, the peoples of Earth accepted an infusion of magic and technology, as well as a promise of future protection, as part of an agreement with the Artonan Triplanetary Government. In doing so, Earth became an Artonan resource world, with all the accompanying rights, privileges, and responsibilities afforded by that designation.”
+
+Oh, Alden thought. Maybe it was because of his surroundings, or maybe it was because he’d been forewarned. But he felt less afraid than he would have expected. This is THE speech. It’s really happening to me.
+
+For some reason, the System almost always delivered the selection speech out loud this way. Not with the visual interfaces it seemed to prefer for most communication. The working theory was that it was analyzing you and making tweaks to your mind or soul based on your reactions to what it said, before it fully completed its merge.
+
+“As part of this alliance,” the System continued in a volume that was barely above a murmur, “Earth is required to deliver a number of suitable individuals into contractual servitude. You have been selected for this honor. You may refuse to sign your planet’s version of the Interdimensional Warriors Contract out of personal principle, and your objection will be taken into consideration hereafter. Ultimately, however, you may not refuse to serve.”
+
+I didn’t expect it to happen like this. Today. Now. Here.
+
+A mote of mixed emotion, equal parts excitement and anxiety, made Alden grip the toilet paper dispenser a little tighter. He stared at a marker drawing of an oddly-shaped cactus that had definitely started its life as something less innocent before it was repaired by a more tasteful artist.
+
+The System went on. “Upon signing, you will become one of your planet’s Avowed. As a signing bonus, you will receive an additional gift. Refusal to sign will result in the loss of this bonus.”
+
+Right. Carrot and stick together.
+
+“Upon becoming one of the Avowed, you will be subject to summons, for emergency and non-emergency purposes, by members of the Artonan wizarding classes. By Artonan law, all Avowed are justly rewarded for any service rendered."
+
+“Your rank has been determined. Your class has been randomly assigned based on the Triplanetary Government’s current requests. You have ninety Earth days to sign the Contract of your own free will. During that time, you may trade your class with equivalently ranked selectees from your own planet. Once affixed, your class assignment is immutable.”
+
+For some reason, Alden found himself whispering the final few words along with the System.
+
+“Welcome, Alden. And thank you for your future service.”
+
+There were only a couple of heartbeats between the end of the speech and the moment when the System window suddenly appeared in front of Alden’s wide eyes. But a couple of heartbeats were enough for an entire cascade of thoughts, hopes, worries, and wonderings to pass through his brain.
+
+This was it. Right here and now. His life was taking a sharp turn in some new direction and he had almost no control over it at all.
+
+A single point of dark golden light appeared at the center of his vision, and then it bloomed rapidly to overlay everything else. Breathing hard, Alden stared into his own future.
+
+[Pre-affixed Selectee: Samuel Alden Thorn
+
+Divergence Rank: B
+
+Assigned Class: Meister of Cudgel]
+
+…
+
+[Samuel Alden Thorn, do you willingly accept your duties as one of Earth’s Avowed, thereby satisfying a portion of your world's debt to the Triplanets?]
+
+YES/NO
+
+2159 h: 59 m: 34 s
+
+Alden read it all. Then, he read it again. His brain must have short-circuited at some point, because he had to keep reading it before the simple words finally held some meaning.
+
+He watched the timer tick down and down, until the sound of someone peeing in the stall beside him made reality reassert itself.
+
+B-rank. Meister of Cudgel. Okay. Now...what? How do I even turn this thing off? Alden wondered, staring at the words superimposed over his vision. Interested as he was in heroes, he’d never actually hit the level of obsession where one studied the layout of the System’s display.
+
+He knew verbal commands were a thing. But the bell had just rung, and the bathroom was filling with people. He didn’t want to be overheard trying out different versions of, “System, switch to invisible mode.”
+
+It would cause an uproar.
+
+He tried a mental command, and when that didn’t work, he looked for a button. He expected to find something like an X in one corner of the imaginary “screen,” so it took him a long while to realize that what he needed was a swiping gesture.
+
+An open-palmed one.
+
+Less cell phone, more window washer.
+
+That’s about as subtle as a punch to the jaw, he thought as he finally managed to make it disappear.
+
+He frowned at the empty place where the display had been. He felt…really human. Because he was. He hadn’t clicked YES. So his new powers hadn’t been affixed.
+
+I guess I’ll go to my next class?
+
+It seemed like what he should do. He had ninety days. There was no need to rush into things. No need to panic.
+
+But as he stepped out of the restroom into the crowded hallway, Alden felt an odd sense of distance from everyone around him. He had ninety days.
+
+Only ninety days.
+
+And then he would probably never see any of these people again.
+
+I should tell Jeremy and Boe. After I’ve thought it through. Soon.
+
+He went to his locker and picked up the books for his next period. It was biology. There was an exam tomorrow.
+
+If I fail, it means nothing.
+
+The thought tumbled through his mind like a boulder, knocking pillars out of alignment as it went. Alden had always cared about his grades. Because they served a purpose. Only…now they didn’t.
+
+Don’t they only take D and F-ranks at the public school in the Dakota zone? So...that’s not an option for me now even if I wanted it. And there are placement exams for schools on the island. Transcripts don’t transfer over.
+
+He still headed toward the biology classroom, but when he reached it, his feet didn’t stop. Barely aware of his surroundings, he walked through the lunchroom. The Juniors and Seniors were just finishing up. Maybe some of them wondered why he was there, or maybe they didn’t notice.
+
+In either case, nobody stopped him.
+
+Alden’s school was ostensibly big on security. Getting into or out of the building during the middle of the day was supposed to be a whole thing, with permission slips and id checks and no child unaccounted for, ever.
+
+But when he reached the main office, the mail guy was delivering heavy boxes, and the front doors were propped open by a dolly.
+
+Alden didn’t even have to talk to anyone.
+
+He just walked right out, crossed the parking lot, and kept going.
+
+###
+
+About half an hour into his impromptu hike, Alden had recovered enough of his senses to behave a little more normally. He texted Boe to explain that he was cutting class because he needed to clear his head.
+
+Boe would probably assume it was a Hannah thing. He wouldn’t worry too much.
+
+Then, Alden summoned a rideshare. He really couldn’t pass for eighteen, but the driver didn’t comment on it.
+
+Twenty-five minutes later, they were pulling up in front of the consulate.
+
+“You into that alien stuff?” the man asked as Alden got out of the car.
+
+Alden couldn’t tell what the guy was getting at. It could have been a subtle dig at the Artonans and the people who were a little too worshipful of them. Like Alden’s wordchain teacher. Or maybe it was just an idle question.
+
+“They have classes here,” Alden said. “You can get college credit for some of them.”
+
+The man nodded as if that was a satisfying answer.
+
+“You’re also supposed to come here to register if you get powers.”
+
+“Ha,” said the driver. “Yeah. Everyone knows that. When I tell my kid I drove someone over here, I’m gonna say you were a full-blown superhero. It’ll make her day.”
+
+Alden was tempted to tell him. But not quite enough to actually go through with it.
+
+Anyway, he thought as the car drove off, I’m not a superhero. Yet. I'm a B-ranked potential Cudgel Meister.
+
+This is strange. I feel so strange.
+
+For some reason, the occasion was simultaneously more and less momentous than he’d imagined it would be.
+
+Maybe it was the B-ranking?
+
+Everyone dreamed of getting A or S and dreaded getting D or F.
+
+B was really good—top 15% of all superhumans actually—but it was a long way from being an easy road to achieving his dreams. If he messed up, if he made the wrong choices in the next ninety days, he might be giving up his current life in exchange for a very difficult one.
+
+Neither Alden’s childhood dreams nor his adolescent fears had revolved around him having a rank that made him maybe-employable. His brain was having a little trouble deciding whether it should be delighted with his new rank or disappointed in it.
+
+Or maybe it was the cudgel thing throwing his mood out of whack? It was just so random and unexpected. Alden had researched the word cudgel on the whole ride over, hoping it might have a secret alternate definition he didn’t know about.
+
+But no. It was a club.
+
+Which meant he was on the verge of becoming a weaponmaster for the least sophisticated weapon in existence. Unless there was a class specifically for people who liked to hit other people with rocks.
+
+I think I’ll be a tiny bit disappointed when the hype fades, he decided.
+
+But the disappointment hadn’t hit yet. Honestly, right now it was all kind of funny. He was excited, freaked out, and confused in equal measures.
+
+He’d been chosen. By the System. No matter what happened next, he was only one YES away from being a superhuman with all of the vast, mysterious, and frightening changes that entailed.
+
+Hi, I’m Super Alden. My special talent is heavy sticks. I’m like a caveman. But better.
+
+He snorted at himself, and headed for the consulate’s entrance.
+
+Seriously, though, a B-ranked Meister is riiight on the edge of usefulness for superhero work? That's encouraging. But cudgel just won’t do. The skill options will be ridiculously narrow.
+
+Alden had never actually heard of Meister of the Cudgel. Swordmasters were pretty common, though, and he knew how that went. You got skills and spells that made you good with swords.
+
+Period.
+
+There were hardly any choices offered to someone who’d been given a specific weapon class.
+
+He’d only read up on the S and A-ranks, but for them at least, the first skill was almost always one that would prevent you from being easily disarmed. The second was your chance to select an offensive style you liked. The third would let you increase your primary or secondary class stat.
+
+There was slightly more room to be creative with the spells, but they were still all things that would buff your own weapon somehow. And the buffs were boring unless you were an S-rank. You could make your sword sharper or harder or heavier or longer or more pointy.
+
+Cudgel was bound to be even worse.
+
+Alden could imagine himself in twenty years, heavily muscled but dead-eyed, trying to hold down a job while he chose between stimulating options like “Mega Dense Club Level 12” or “Even Stronger Biceps x14.”
+
+Yeah, it’s not for me. Jeremy would probably love it, though. For the humor factor if nothing else.
+
+Hopefully, Gorgon was right about class trades not being limited to the worst of the worst options.

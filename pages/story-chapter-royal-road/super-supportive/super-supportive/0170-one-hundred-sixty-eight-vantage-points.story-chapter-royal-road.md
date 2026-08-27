@@ -1,0 +1,453 @@
+---
+id: 5815be81-87dd-51a0-9e58-36b0ed8c8865
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-EIGHT: Vantage Points"
+slug: 0170-one-hundred-sixty-eight-vantage-points
+partOf: super-supportive
+position: 170
+ownLength: 5109
+unit: words
+publishedAt: 2024-09-12
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1799372/one-hundred-sixty-eight-vantage-points"
+royalRoadId: "1799372"
+---
+
+168
+
+******
+
+Haoyu sat backwards in the desk chair, his arms propped on the backrest while he watched Alden take a turtleneck from his closet and fold it. “How do you avoid getting lost?”
+
+Lexi, leaning against the door frame, groaned. “He tells us he’s going to sleep over at Matadero, and your first question is how he finds the place?”
+
+I need my uniform, too.
+
+Alden reached for the hanger.  “The wizard who’s been healing me is at Matadero. It’s more convenient for him if I’m there.”
+
+Esh-erdi had said it was fine to blame his housing arrangements on Porti-loth.
+
+“I don’t think I’ll be staying there much longer.” They’d said a few days, and it had already been a few. “And I’m not going to get lost because the System is willing to give me directions if I ask for them.”
+
+“Nice,” said Haoyu. “Next time one of my parents goes there, I’m going to tell them they’re no big deal. Even sixteen-year-olds can hang out at the cube if they want. What’s it like?”
+
+Alden stuffed a pair of sweatpants into his bag. “It’s pretty normal inside. The parts I’ve seen, anyway. I’m just staying in a room. There’s a cafeteria.”
+
+Haoyu smiled. “I shouldn’t have asked. Mom and Dad can’t tell me much more than that either.”
+
+“You’re getting away with so much peculiarity right now just because everything else is insane, too,” Lexi said. “Everyone’s either got their own drama to deal with, or they’re distracted by the fact that a girl in our class warned SkySea about the Submerger boat.”
+
+“Yeah. I need to watch all the news,” said Alden. “I missed hearing about Maricel.”
+
+“How?” Haoyu asked. “It’s been everywhere.”
+
+“I was visiting…that person Lexi wants me to call my elderly aunt.”
+
+After a long pause, the two of them spoke at the same time.
+
+“At Matadero?” asked Haoyu.
+
+“Of course you were.”
+
+“On Artona I,” said Alden. “My elderly aunt was worried about me after what happened and invited me over. It was actually a really good reset.”
+
+Haoyu laughed at the look on Lexi’s face.
+
+“Anyway, that’s where I’ve been and where I’m going. Enough about me. How’s your family, Lexi? Did you get a chance to salvage stuff from your apartment? Is your boat still on the roof?”
+
+******
+
+Halfway between Anesidora and Matadero, ten meters above the crests of the waves, Alden sat in the center of a green flying platform, watching the horizon. The sun was setting. He didn’t want to fly in the dark, so he would have to move on soon. But for now, for these few minutes, there was something about this spot that had made him pause his flight toward the cube.
+
+He thought about how he could point the finger with the driving ring on it in one direction and be back on campus with Haoyu and with Lexi.
+
+Or I can point it west, and be surrounded by wizards.
+
+A foregone conclusion this evening, since he’d already promised Porti-loth he’d come back and submit to a final mud potion treatment. But there was still something about this moment and this place.
+
+Tomorrow was Thanksgiving. It was one of the more lightly celebrated holidays on the island, even when everyone wasn’t recovering from a disaster. But Alden had gotten an invitation for a feast at the girls’ apartment, so he was looking forward to it.
+
+He was wondering if it would be appropriate for him to bring food. Connie was cooking something for Brodie’s family. Brodie’s family didn’t have an S-rank cooking Rabbit, though. He’d figure it out tomorrow morning.
+
+Then Friday was duels again. Then he had a weekend with no firm plans.
+
+December. Christmas. New Year.
+
+He thought he would see Stuart a few times between now and the end of the year. He would be scheduling Alden’s first meeting with the mind healer. As soon as possible, he’d said, and that probably meant very soon, considering who he was.
+
+The talks with Stuart and with her were good.
+
+He felt like he’d regained some of the stability he’d lost on Friday night. Like he’d been given a little patch of solid ground to stand on. And if I can have more of that, if a mind healer can help, that will make the next step possible, won’t it?
+
+A way out of the quicksand.
+
+It can be a start.
+
+“Hey, System,” he said. “Call Boe.”
+
+Boe answered in just a few seconds. He was standing with his back to the bathroom mirror, and in the reflection, Alden could see a layer of white foam oozing down the shower wall.
+
+“What’s up?” Boe asked.
+
+“Me. Currently flying over open ocean on the magic nonagon I sent you pictures of. Happy Almost Turkey Day.”
+
+“You too. What was with your last few text messages, though? Did you forget how to write short ones?”
+
+Yeah. I thought he would wonder about that.
+
+“I was away from Earth a little while,” Alden said in the most casual tone he could manage. “I wanted to keep in touch, but I couldn’t bring myself to pay the messaging fee for anything less than novel-length.”
+
+Boe actually took a step forward. “Why were you off-planet? You can’t be summoned yet, right? Was it something to do with—?”
+
+“I’m fine. It was a social trip to Artona I, not a summoning or anything bad. I went to visit the friend who helps me keep in touch with Kibby.”
+
+“Stuart.”
+
+“You remember.”
+
+Boe’s brows pinched together. “The name of your wizard phone buddy? Yes. Did you think I was going to let that one slip my mind? You just…go to his house now?”
+
+“He invited me,” said Alden. “He was worried after everything that happened. It was honestly great to get away from Anesidora for a while and reset. Distance can give you perspective.”
+
+Boe took a second to answer. “Well, you can’t get much more distance than that.”
+
+“You’re out of school until Monday, right?” Alden asked.  “How’s your return to life going? And what are you going to do for Thanksgiving? Other than clean the shower.”
+
+“There was enough mildew on the grout that I was worried about it evolving into an intelligent life form.” Boe pushed up his glasses. The frames Dragon Rabbit had chosen looked good. “Jeremy invited me over for lunch tomorrow, but it’s a family time. I’ll probably just—”
+
+“You should go. His parents do postcard-perfect holidays. I bet the turkey has those little paper chef hats on its leg bones and everything.”
+
+“I don’t think—”
+
+“You do think. You’re overthinking. A wise man once said, ‘Don’t overthink. Overdo.’ There will be tons of people at Jeremy’s. One more won’t be an imposition for his family.”
+
+“What wise man said that?”
+
+Alden ignored the question. “If I call you tomorrow and you aren’t enjoying a food coma, I’ll feel sorry for you.”
+
+“I’ll consider it.”
+
+“At least go tell Jeremy Happy Thanksgiving and take a to-go plate.”
+
+“Maybe.”
+
+Alden nodded. “I really just called to say hi. And show off my ride. And tell you I’m in the process of making plans for the next few months, and those plans include zero sticking my neck out—unless demons start falling from the sky on campus or something—so you have plenty of time to catch up. You’re welcome.”
+
+Boe pointed a squirt bottle at him. “You should be banned from mentioning hypothetical disaster scenarios.”
+
+“Why?”
+
+“Because I’m positive you just doomed an entire campus by saying that.”
+
+Alden gasped in mock outrage.
+
+“What do your plans include, if sticking your neck out didn’t make the list?”
+
+“I am…going to sort myself out up here.” He tapped his own temple. “And I’m going to try to calm down and make the right choices.”
+
+“About what?”
+
+“Everything that comes at me really,” said Alden. “The future. Being an Avowed. My class schedule for next semester. Whether or not to offer up a dish for a friendly Thanksgiving supper.”
+
+“All equally important.” Boe tilted his head. “Hey…was the flood situation worse than you let on?”
+
+Alden considered putting off explaining again, but only for a moment. “It was. I was with someone who got hurt badly, and I thought I could get us both somewhere safe. But it just became more and more impossible with every step I took.”
+
+Boe didn’t say anything.
+
+“It wasn’t like before,” said Alden. “Adrenaline was a much larger factor in my decision making. And I had time to get to know the person a little before the situation spiraled out of control. She helped me out, too. The parts that look too risky or insane now…I wasn’t in a state of mind where I could calmly judge them, then.”
+
+He waited, holding his breath.
+
+“Just one?” Boe finally asked.
+
+“What?”
+
+“Just one more for the list?” His tone was neutral.
+
+“Yes. Only one.”
+
+“That makes ten,” said Boe. “Double digits are more satisfying anyway.”
+
+Alden felt himself relax. “You’re not counting Gudrun the Great Dane or Tiny Snake?”
+
+“Animals go on a separate list.”
+
+“Good to keep it organized.”
+
+“I do my best.”
+
+******
+
+“Wow…thank you?” Alden was staring at thick brown sludge inside a thermos while Porti-loth guided his bare foot into a tub of healing mud. “This looks exactly like the potion we’re using for my body.”
+
+They were in his hospital room, and he was sitting by the table that had held Tiny Snake’s container. According to his messages, Esh-erdi had decided to invite the reptile to live in his room until Alden returned. So that it wouldn’t be lonely.
+
+“It is the same potion,” said Porti-loth.
+
+“I’ll be drinking dirt?”
+
+“Do you need me to explain to you again why a patient should eat the natural foods of his world when his healer tells him to?”
+
+“No, no. I’ll swallow this. Somehow.”
+
+He took a cautious sip. Tastes like I’m drinking someone’s leftover spa treatment.
+
+He wondered how the whole birth dirt potion experience worked, and why it was different from his previous healings. Esh-erdi complained about Porti-loth being too traditional, but Alden doubted the complaints were sincere. After all, if the knight had wanted a different healer around, surely he would have just requested one.
+
+“An Avowed healed me when I was with the Quaternary,” he said. Porti-loth hadn’t started chanting yet, so he figured it was all right to ask a question. “And Rynez-yt in Chicago, Illinois healed me when I was younger. There seem to be a lot of ways to do it.”
+
+“Yes.” Porti-loth let go of Alden’s foot and stood, tucking his lenses into the pocket of his coat with a muddy hand. He drew himself up to his full, and very short, height. “My way is better.”
+
+Alden would have bet argold on him saying that. He watched the wizard rub some extra potion on his own forearms. That was the last step before he would start hooting like an owl.
+
+“Why is it better? If it’s all right to ask.”
+
+“I make your body forget it was hurt. No reversion. Strong starting place for next time you need healing. If someone casts a spell of old wounds on you, none of the ones I treat reappear.”
+
+He cleared his throat and lifted his arms.
+
+There’s a spell of old wounds? thought Alden. Let’s not ever get hit with that one.
+
+He patiently endured the chanting and the sludge. When Porti-loth had finished and departed, he sat digesting his potion and tried not to worry about the fact that his stomach was radiating heat.
+
+I could learn a healing spell, couldn’t I? Eventually.
+
+There wasn’t one in his book. Maybe after he’d gotten through it.
+
+He wanted to pull his auriad out and practice right now. Visiting Stuart and watching him cast spells had made him even hungrier for it than usual. But he had about a dozen tasks on his to-do list for tonight, and it was already getting late.
+
+One thing at a time. What’s most important?
+
+It had to be the upcoming meeting with the mind healer. Stuart had asked him what he wanted from such sessions, and Alden had explained a few goals he was certain of—preventing the kind of panic attack he’d had on the bus, nightmare reduction, getting distance from the bad shit.
+
+He was glad he’d started the conversation right after waking up from the meeting with her. The honesty that felt so natural when he was talking to her had transferred over, and by the time he started feeling embarrassed to be getting into his mental state in detail, Stuart had already mentioned enough personal mind healer experiences of his own that it was like they were discussing an unfortunate shared hobby.
+
+The person he hoped to introduce Alden to was, predictably, such a renowned figure that even wizards had trouble getting in to see her.
+
+Alden still couldn’t quite believe he’d asked for the help. He was glad that he’d told Stuart he wanted it, because now, if he tried to change his mind, he’d have to apologize for inconveniencing the art’h family and the healer who was clearing her schedule for him.
+
+Yay for committing to things that are good for you in ways that are difficult to escape from after the fact.
+
+Since he knew it was coming up sooner rather than later, he needed to take care of the thing he kept failing at: when he went to one of the Triplanets again, he would be blending in with clean, appropriate clothing, and he would have more than one outfit to change into.
+
+The Rabbit man is always prepared.
+
+He wondered if Gustavo was on Earth right now.  The intake night counselor usually did his butler work on Artonan weekends.
+
+A text message won’t bother him either way. And he did offer to give me advice.
+
+He sent a quick one, then turned on the television wall, planning to catch up on the news. Before he’d heard the broadcaster speak ten words, Gus was calling him.
+
+<<You’re ready to buy a tuxedo,>> he said in Portuguese.
+
+“Hey, Gus!” Alden was relieved to see the man safe and well. He was sitting in a huge massage chair, and over the top of it, Alden could see the living room of what looked like a very swanky apartment. “I’m glad you’re okay. Actually, I wanted some advice about clothes for trips to the Triplanets. If you don’t mind and you have time to talk.”
+
+He ended up getting not only a talk but also an appointment to go shopping with Gus on Saturday.
+
+“Aren’t you in F-City?” Alden asked. “How will we meet up?”
+
+He didn’t expect to have The Nine-edged Son forever.
+
+“Money,” said Gus.
+
+I guess that works, too.
+
+******
+
+He went to sleep that night watching the news and thinking about how just a short while on another world had taken the edge off all the stories.
+
+There were a few intelligent species out there that couldn’t, or wouldn’t think beyond their own local scale. Humans were supposed to be good at it. When they chose to be.
+
+On the universal scale, all of this is nothing, he thought, watching a recreation of the events that were confirmed to have taken place on the boat that sped underwater toward Matadero on Friday night.
+
+On the global scale it’s a worrying accident.
+
+There had been a lone survivor—a high school girl, a Sway, who had stowed away on the ship. Alden had met her once. No doubt some of his classmates had gone to school with her for years. She had given no interviews and was said to be cooperating with both Artonan and Anesidoran authorities. The statement released by her family begged for privacy and understanding: “Our daughter Mina has no affiliation with Superhumans at Large. She has been struggling with class regret. You all know how confusing the months after selection can be.”
+
+The girl’s uncle had given an interview, laying into Mina’s parents for pressuring her to choose Sway. They were both Sways, and according to him, they insisted on all of their children being part of the community.
+
+On the national scale, it’s a disaster.
+
+Mina was being regarded with suspicion despite officially being held responsible for nothing more than an escape attempt. In contrast, Maricel Alcantara was being hailed as a model citizen—a globie who had overcome an understandable period of homesickness to begin building a bright, Anesidoran future for herself.
+
+Instructor Fragment and Principal Saleh had both praised her for her immediate action. The video of Maricel’s eyes widening and her running away from the obstacle course to go report the runaways had been leaked. Supposedly.
+
+Alden was sure that if it hadn’t leaked, it would have been shared by the school anyway. The spin they were putting on Maricel wasn’t just positive, it was heroic.
+
+The former Ghosten admired how well she’d adjusted to school and spoke of the difficulty of betraying a friend’s trust for the sake of doing the right thing. Fragment asked everyone to respect Maricel’s privacy and understand that she was devastated her warning hadn’t done any good.
+
+“She’ll be helping me with clean-up for a few weeks,” said Fragment, giving off that easy strength and calm candidness that Alden liked about her. “I hope some hard work will help her take her mind off the terrible way it all played out. It’s us adults who failed, not her. If you see us around your neighborhood be sure to give us a smile and a wave. It’s a tough lesson to learn that you can’t save everyone, and she’s getting it too soon in her career.”
+
+Alden thought it was great that they had Maricel’s back and were making sure she didn’t get fed to the wolves for something that wasn’t her fault. Probably, the hard spin was a necessary part of that. But watching it play out when he was a little too in-the-know was strange.
+
+All the inconvenient truths about Maricel were being carefully reframed, and all the convenient ones had been polished and gilded.
+
+The Maricel everyone was talking about was not the conflicted one who had confessed to Alden outside Rosa Grove Mall that she was worried she might have ruined her friend’s chances of an escape needlessly. And there was definitely no mention that she had been trying to come up with safer ways for him to escape for at least a couple of weeks before the accident.
+
+One Brute, interviewed in the street while she hauled a roll of wet carpet to a disposal truck, said she hoped SkySea Guard would formally apologize to that sweet Ground Shaper girl.
+
+“She did everything right, treated Anesidora like her home even though she’s only been here three months, and they dropped the ball.”
+
+SkySea was catching hell for having advance warning and failing to find the boat in time.
+
+Public opinion about the doomed vessel’s passengers was more of a mixed bag. But the fact that there was a boat with a dangerous magical device on it in the first place had to be someone’s fault. So far, Orpheus Velra and SAL were taking the lion’s share of the blame.
+
+The man who had reportedly turned the boat toward the cube was in his late fifties, though he didn’t look it in pictures. Acquaintances described him as a little peculiar since he’d come back from a long assignment on the Triplanets years ago, but overall, they thought of him as a harmless person.
+
+A few people said that he was scared of the cube. One of his neighbors said he was a kind, shy man and blamed the captain of the boat for manipulating him. “He saw a powerful Avowed who was easy to use, and he thought he’d take him to those SAL lunatics like he was a living weapon. Will was as strong as any A-rank Object Shaper I’ve ever met, and he’d do just about anything for you if you asked him to lend a hand. Those people murdered him. He’s a victim more than anyone else on that ship.”
+
+That wasn’t a popular take, but, maybe because Alden had a lot of empathy for people who came back from the Triplanets feeling jumpy about demons, hearing it drained what was left of his anger.
+
+As for the others, it was too unclear what they’d thought in the hours leading up to their deaths. Mina’s wizard-confirmed testimony gave them a lot of details about what had happened on the boat, but that was the last domino in the line. And nobody could seem to figure out where and why the first had fallen. Orpheus Velra didn’t remember, and Jacob Moore couldn’t talk.
+
+Here, on the national scale, it’s a disaster, Alden thought. And it’s political tinder in other countries.
+
+All the American channels wanted to talk about was the fact that Jacob was formerly American, and his father was a Presixter. Basically, they were the flavor of alien-hater who thought deleting the System, severing Earth from the rest of the known universe, and rolling back the timeline to 1959 was the only way to make life “truly human.” Pretty fringe stuff.
+
+Alden saw that clip of the Jacob’s mother again. They kept playing it—the one where she failed to hold back tears while pleading with people to believe that her son wasn’t a killer.
+
+He turned the television off.
+
+On the personal scale, he thought, it’s a tragedy.
+
+The distance and angle from which you observed a moment changed the story. Like when he’d been shown the different views of himself on that rooftop, about to be crushed by the wave.
+
+He wondered what the Primary thought of it all, if anyone had even decided to bother him with the news yet.
+
+He wondered what was going through Maricel’s mind. He’d sent her a simple, “Hope you’re all right,” and she’d answered with an equally simple. “I’m okay. Thank you.”
+
+He wondered about Joe and Principal Saleh and Esh-erdi.
+
+He even wondered about the wizard who had decided, for some reason, to make a more powerful, longer lasting Fragile Atmosphere than their people’s Contract with Earth required. That was what the Artonans said had allowed Mina to survive—magical craftsmanship beyond the standard. One of the SAL members on the boat who’d used her own signing bonus hadn’t made it.
+
+What scale was that wizard thinking on? What angle were they looking from?
+
+It could have been anything.
+
+‘I am saving someone’s life. I am showcasing my pride as a craftsman and an Artonan. I am following the path of higher onus.’
+
+Or, maybe, ‘I am thinking about the universe and how fragile all of us are. One day, the Avowed who wears this might be needed.’
+
+******
+
+“Succotash?” Alden stepped out of the elevator onto the floor of the hospital where Porti-loth’s makeshift healing grove could be found. He was going to return the potion thermos to the healer with his thanks and never speak to anyone of the giant fart that had scared him awake from a peaceful slumber at four AM.
+
+I needed to get up early anyway.
+
+He’d decided that having a special diet tilted him farther into the “bring a side dish” category than not. And he kind of wanted to make it feel like a real holiday.
+
+“It looks like it’s vegan if you leave out the bacon grease,” Connie said. She was on the sofa with a bottled coffee in one hand and her mother’s recipe book in the other. Alden had woken her up and asked her to look through it for him. “Lima beans, corn…”
+
+“Yummy?” Alden asked.
+
+“Looks like it to me.”
+
+“Thanks, Aunt Connie. Send me a picture of it. Happy Thanksgiving, and…good luck with that mac and cheese you’re making.”
+
+The picture came less than a minute later, and he stopped walking down the hall to study it. A handwritten recipe from my grandmother.
+
+With a couple of stains on the paper and a note about how simmerblue would be good if you didn’t like sage or thyme, it looked like an artifact from someone else’s life.
+
+And what the heck is simmerblue?
+
+Alien import probably. They went in and out of fashion.
+
+I won’t be using that, thanks. Earth food only for the next couple of—
+
+A small gasp made him look around.
+
+An Artonan had just opened the door of the last room he’d passed. She was wearing a scratchy-looking, knitted, knee-length sack, with things that were either nuts or rocks stitched onto it. A Porti-loth creation, if Alden guessed correctly. Her long purple hair had been shaved off, but it had already grown out a couple of inches.
+
+“Zeridee!” he said. “I’m so happy to see you. Finally. Are you all right?”
+
+For a second, he worried this reunion was going to be a repeat of the situation with Ro-den. Zeridee looked alarmed at the sight of him.
+
+But then she threw open the door and bowed low. “Alden Ryeh-bt, I am so sor—“
+
+“Don’t do that!” an angry healer’s voice sounded from the “grove” down the hall. “Stop it! Stop shaking your brain!”
+
+Zeridee righted herself. Slowly. Then she glanced down the hall with a frown.
+
+Assuming there was some kind of monitoring spell allowing Porti-loth to watch the hall, or maybe just mundane tech, Alden held up the thermos. “I brought this back. Thank you for the potion.”
+
+“Keep it!” shouted Porti-loth. “Humans made it in Tennessee. Like you were made. Drink from it often.”
+
+At this rate, I’m going to start wondering if everything that wasn’t made in one specific U.S. state is slightly unhealthy for me.
+
+“You were going somewhere,” Zeridee said to Alden. Her English was as good as he remembered, though he’d spoken so much Artonan to Artonans over the past couple of days that it sounded odd. “I’m sorry to interrupt you on your way.”
+
+Alden waved his new thermos. “I was just returning this and thanking Porti-loth and apologizing to Porti-loth for my bad food choices again—”
+
+“You should apologize!” Porti-loth announced.
+
+“—and hoping I might catch a glimpse of you, actually. They told me you would be all right, but I wanted to see for myself. And…say hello.”
+
+Ask you if you’re mad at me for being so stubborn. Apologize for what you went through. Thank you for saving me in the greenhouse.
+
+She was blinking at him. Her brown eye rings were gone. He wondered if Porti-loth was against artificial implants while he was doing the whole traditional nature healing thing.
+
+“I’m well,” said Zeridee.
+
+“Ha!” Porti-loth shouted.
+
+Zeridee sighed. “Would you like to come in? My room is not the most comfortable place for a meeting, but—”
+
+Alden was already stepping toward the door.
+
+She stood aside and let him enter. The hospital room was similar in layout to his own, but many of the furnishings were made of organic materials. The bed was wood. The table was, too, with a circle of cloudy crystal set into the top that reminded Alden of the class trading table in the consulate.
+
+He stood beside it while Zeridee stood with her back to the door. They didn’t speak for a few moments.
+
+Alden caved to the awkwardness first. “I didn’t have much to say,” he admitted, turning the thermos nervously in his hands. “Just…I’m sorry if me being stubborn about staying with you made everything worse in the end. And thank you. For protecting me from those guys who tried to steal the flyer.”
+
+Looking at her now, he couldn’t quite believe she’d done it.
+
+“I’m the one who should apologize,” said Zeridee. “If I had prioritized your safety over your emotions—”
+
+“No. I think we were right to let me choose those priorities for myself,” Alden said quickly.
+
+Knee-jerk reaction. She had seemed to be on the verge of drugging him and stuffing him into the flyer at one point. “But I’m very sorry if I got it wrong. I was trying hard to do the right thing, but it went so bad.”
+
+There was another long silence.
+
+“Those men….” Zeridee said.
+
+Are sleeping, thought Alden. How many times had he heard her voice repeat the phrase?
+
+“Those men should not have been there,” she said.
+
+Alden looked into her eyes. They were focused. Serious.
+
+“They shouldn’t have been there,” she repeated. “That they were, that they attacked me, that I…that they passed away—none of it was your fault. If they had arrived after you left, I would have tried to reason with them. And they were clearly not reasonable. Or they might have tried to stun me from behind, exactly as they did, and panicked when I didn’t fall, exactly as they did.”
+
+She straightened her shoulders. “If you hadn’t been there, they would have taken their time exploring the residence. They would have run as the floods approached, leaving me behind dead or soon to die. I wouldn’t be here, and even if they made it out…there are those who would insist on identifying them and punishing them. They would have met the same fates by a different road.
+
+“The only person you caused hurt by staying, Alden, was yourself.”
+
+Alden hadn’t thought he needed to hear that, but he must have been wrong. Something sore inside him eased at the words.
+
+Thank you, Zeridee. You being this way makes me so glad I didn’t let you go.
+
+She frowned at him. “But you must remember that your actions could have led to your death. In the future, I insist you think of how your loss might affect Stu-art’h and Hn’tyon Alis-art’h and—”
+
+Alden burst out laughing.
+
+Zeridee stuttered to a halt.
+
+“I’m sorry!” Alden said, wiping his eyes with the hand that wasn’t holding the thermos. “I’m sorry. I know it’s serious. But you should have seen Stu’s face when I told him you kept trying to force me to stay safe by mentioning his name.”
+
+Zeridee made a yelping sound. “You told—!”
+
+“He was so offended and so pleased at the same time.” The weirdo. “He did tell me to tell you to stop doing it, though.”
+
+Zeridee looked appalled.
+
+“You told him,” she said faintly.
+
+“Of course,” said Alden, still smiling. “We’re friends after all.”
+
+Zeridee leaned back against the door and looked toward the ceiling, letting her head hit it with a thump.
+
+“Don’t shake your brain,” Alden reminded her.
+
+******

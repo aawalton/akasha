@@ -1,0 +1,417 @@
+---
+id: ddb1904c-2e1c-5497-8138-25caf2681b87
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY: Here-to-There X"
+slug: 0232-two-hundred-thirty-here-to-there-x
+partOf: super-supportive
+position: 232
+ownLength: 5168
+unit: words
+publishedAt: 2025-07-10
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2425314/two-hundred-thirty-here-to-there-x"
+royalRoadId: "2425314"
+---
+
+230
+
+******
+
+Alden decided that hunger wasn’t a good enough reason to brave the pavilion again. Magoob-ith and her partner had looked like they were in the mood for a rematch.
+
+After texting Stuart that he was going to hang out in the garden area until it was time for Leeter-zis’s spell to start, he left the wooden pathway behind to seek out the quietest spot he could find. He walked a spiraling route through the paddle plants, rubbing his nose as he went in an effort to rid himself of the itch he’d had ever since he’d inhaled that smoke.
+
+The number of partiers he encountered dwindled as he approached the outer edges of the garden, and eventually, he passed several empty nooks in a row. The next one, he decided. That will be an out-of-the-way place to wait.
+
+But the next nook he came to was occupied.
+
+Alden stopped beside one of the plants that had hidden the space from his view. The tall paddle had a gouged spot, and it was oozing a thick sap that smelled like apples. He would have found that intriguing if he wasn’t busy taking in the sight of the knight who sat in front of him.
+
+Bithe was alone in the ankle-high grass, one of the garden lamps glowing at his back and a light rod from the siblinghold on the ground by his knee. His hands were cupped in his lap. The vatha that fluttered around them were larger than the ones he’d called to feed the o’odee chicks this morning.
+
+It’s been such a long day for the knights and Stuart. They didn’t get a nap like me.
+
+Alden wanted to convince himself that the look on Bithe’s face was only tiredness. It would be easier to know what to do if it was. Just leave him be; don’t risk upsetting the balance between them. The day had started rough, but Alden thought they were cool with each other now. They’d worked together for hours, fought some toy koobas, and Bithe had come to rescue him from Olget-ovekondo’s company on the train.
+
+Bithe didn’t look tired, though. Or not only tired. The slump of his shoulders and the curve of his mouth…he seemed sad. Worried. He was out here in the quietest part of the garden while his friends enjoyed the party, and he was watching his vatha with a lost expression.
+
+He doesn’t even notice me standing here. I should leave. I don’t know what to say to him if he’s having a sad moment.
+
+“I tried to speak confidently to you and Stu-art’h earlier,” Bithe said in a quiet voice. “About Ryada and Emban. I shouldn’t have. I was wrong.”
+
+Or he definitely notices me standing here. Staring at him.
+
+Alden walked toward him. “Hn’tyon Bithe.”
+
+“Ryada didn’t refuse the deepening when Emban asked her. She told me she was going to, but…she changed her mind. She’s said yes. And Emban is happy.” Bithe was watching the vatha so closely a passerby might have thought he was addressing them instead of Alden. “She changed her mind very quickly. But that doesn’t mean it’s wrong, does it? I’m sure we’ll all talk about it together tomorrow as a squad.”
+
+Wrong? Alden was on the verge of asking, but something about the way this meeting had occurred and the way Bithe was still gazing at the bugs told him silence was the better option.
+
+“I,” Bithe said after a short while had passed, “am always glad to tell people why I cast aside my surname. But you didn’t ask.”
+
+That felt like an invitation even if he was still talking to his moths. Alden took one more step and sat down across from him. The grass was thick, and the ground here was warmer than the night air. “Why did you cast aside your surname?”
+
+“Because it would have been a source of pride for the father I shared it with to say that he had raised a son toward the path of highest onus. I didn’t want him to have that. Now, for him to speak of me will only make him look foolish. I will find a new name for myself, one shared by another or chosen from deed.”
+
+Is his father not a knight? Or a votary? Stuart had said Emban’s squad was made up of people raised in the Rapports.
+
+“When I was younger, I demanded that he give me to Rapport III. We didn’t live far from the border, and I knew he wasn’t allowed to go there, so it seemed like a solution for getting away from him.” One pale green vatha landed on Bithe’s wrist. “They don’t let parents donate young children to this life anymore, though. So I had to keep sneaking into the Rapport to try to persuade people that I belonged among them. It shouldn’t have worked, but my father said such unkind things about me when a votary returned me to him after my fourth attempt that she changed her mind and decided there might be room in the Rapport for me after all.”
+
+And just like that, Alden found himself with a bunch of questions that he didn’t dare ask a person who had exploded at him for saying the wrong thing this morning.
+
+How awful was Bithe’s father? How did a young child break into a Rapport repeatedly? Did he walk? Or stow away with someone heading in the right direction? And when he got there, did he go to some strange knight’s house and try to move in?
+
+Depending on the answers, Bithe may have been operating dangerously close to 99.9 as an elementary schooler.
+
+“I mostly lived at school after that. I’ve never regretted it, and I got along with many people after a season of <<adjustment>>. But being a member of this squad is the first time I’ve felt that I had a family in years.” His voice strengthened. “If I have a home now, it’s them. My squadmates. I like being in depressing places with them more than I like being on the Mother without them. We’ve kept pace with one another’s growth, and we’re all supposed to be together again soon, traveling with a new mentor knight. I was excited to show them this.”
+
+He held out his hands. Two more vatha had arrived since Alden sat down.
+
+“But Ryada…yesterday, she told me she…isn’t satisfied with her own skill.”
+
+Alden swallowed.
+
+Those were such mild words if you didn’t know what they meant. But Alden did know, and he didn’t think Bithe would be sitting out here, saying this to a human, if Ryada was only mildly dissatisfied.
+
+“I was upset when you said the vatha might be a sign I’d chosen well. I didn’t want you to say it in front of her when she…but what she said to me yesterday must have been a <<fleeting>> storm of emotion. Otherwise, she wouldn’t have agreed to deepen with Emban.”
+
+Bithe sat up straighter. He finally looked at Alden. “I’m only telling you this because of Stu-art’h. You must understand that these things sometimes happen if he still wants you to be his friend even after he becomes a knight.”
+
+Ignoring the implication that Stuart might move on to better friends as soon as he had the chance was easy when Bithe was presenting a more serious problem.
+
+Ryada-bess wouldn’t have said yes to Emban? Didn’t Bithe really mean that she shouldn’t have said yes if she was hiding potentially deadly personal turmoil behind that bright personality of hers?
+
+“Did Ryada…Emban knows she had a bad day yesterday, doesn’t she?” Alden asked.
+
+If Emban knew Ryada was having trouble, then it was fine.
+
+But Emban wasn’t acting like someone who knew the person she hoped to spend her life fighting beside had suffered an existential crisis. Yesterday.
+
+Yesterday was awfully recent.
+
+“There’s no reason to bring it up tonight and spoil the end of the Here-to-There, Ryada said. That makes sense. I’m sure tomorrow she’ll tell Emban, and then we’ll tell our friends that she’s having more difficulty with this affixation than she expected. Seth will know what to say; she’s always calm. And Postor will watch Ryada so closely for the next year that we’ll start to tease him for it.”
+
+I don’t think he’s telling me this so I can be a better friend to Stuart. He’s telling me because whatever Ryada said to him is eating him alive, and he’s trying to convince himself it’s not happening. I’m just the nearest pair of ears.
+
+“It sounds like you’re lucky to have such good squadmates.” Alden said it to fill a gap in their talk while he thought, but it was true. A group of found family Bithe was looking forward to going to bad places with. A calm one, an overprotective one. Emban, who seemed smart and open-minded enough to throw a tiny bit of support Stuart’s way, and Bithe who’d chosen a skill he was in tune with. And of course Ryada-bess.
+
+Ryada who was open and charming, who’d been nice to Alden and taken Stuart seriously. Ryada who’d planned to say “no” or “not right now” to Emban, possibly right up until the moment Emban actually asked her to deepen their authority connection.
+
+Alden knew relatively little about it compared to the knights, but based on what Stuart had said and what he’d observed of Lind-otta and Esh-erdi’s partnership, the hope for something like that had to hold such an attraction. Especially for a person struggling within themselves.
+
+Her lying to Emban is a problem. Is it an urgent problem?
+
+It felt urgent, but when he asked himself what harm there would be in waiting until tomorrow or the next day to give Ryada more time to get her head on straight and tell Emban the truth, he couldn’t see much. The trouble was already underway, and Emban would probably be hurt less by Ryada telling her than by Alden tattling before Ryada had the chance.
+
+Only it’s more like a second chance…
+
+He glanced at Bithe and then away to avoid catching an eye before he knew what else to say.
+
+Was he going to help her hide how she felt from their squad and their mentors?
+
+That might have been the plan. Ryada would say she wasn’t ready to deepen a bond with anyone, Bithe would say nothing, and she’d try to sort herself out behind that smile to keep everyone from being worried.
+
+“When your friends all know,” Alden said cautiously, “it will be easier because you can help her together.”
+
+You have to make sure your friends know.
+
+“Yes.”
+
+Now he goes for the one-word answer.
+
+Wanting an explicit promise from Bithe that he would make sure the secret ended tomorrow might have been unreasonable when the knight was in this mood.
+
+I’m going to have anxiety about whether I should tell and who and when until this is over.
+
+“Maybe we should let Stu know in advance,” he suggested. “So that he can be ready to offer support. Doesn’t that sound like a good idea?”
+
+“Emban says Stu-art’h isn’t an <<adept>> keeper of secrets. And he seems to be <<zealous>> in random directions.”
+
+“I don’t think that’s accurate,” said Alden. “He’s bad at lying; that doesn’t mean he can’t keep secrets for a little while. And he’s zealous whenever he’s confident that he’s right. It only seems random because you don’t know what he’s contemplated enough to feel sure about.”
+
+What I’m saying is that he was a hundred percent sure you needed to be told that your words smelled like putrescent wind from your butt this morning, and he’d say it to you again in a heartbeat.
+
+Maybe not after hearing why Bithe had been upset…then again, Alden could imagine Stuart saying almost the same thing even if he did know, just in a different way.
+
+Your words to Alden were putrescent, and I’m sure you don’t want to bring shame to yourself, so I’m informing you to help you.
+
+Then he’d look at Bithe like, “Unshame yourself now. I believe in you!”
+
+“Alden Ryeh-b’t…what is your home like?”
+
+The question caught Alden off guard. Maybe it was meant to. It certainly scattered the next suggestion he was trying to formulate.
+
+Home. Bithe’s home is his squad.
+
+“I moved to a new place this year,” said Alden. “Anesidora. So I don’t…the people I share my living space with at school are waiting until I come back to decorate a tree with me. It’s a holiday tradition. And they let me pick all of the rugs when we were moving in. I think Haoyu is planning to invite me to his family’s house during our winter break from school. Lexi said he was going to do the same, but his parents lost their… ”
+
+Bithe had stood. His vatha were still flying around, but they’d begun to spread out. The knight was frowning.
+
+Did my answer get boring that quickly?
+
+“I thought I heard Uro-bor Elder’s name,” Bithe murmured. “Did you?”
+
+Alden listened. It wasn’t loud out here. A trickling sound came from one of the nooks that had a fountain, and someone was singing a long way off.
+
+“I don’t hear anything. You’ve been taking good care of Uro-bor all day.”
+
+“She reminds me of someone who my father employed to nurture me after I was born. And Olget-ovekondo behaves inappropriately toward her. She cares for him, but earlier today, I thought her son might fight him. I suspect he said something that was an insult to their generations of service when he found out they would be leaving the village.”
+
+Based on the complaints Alden had heard Olget venting during his call on the train, that seemed likely.
+
+“I should have stayed in the pavilion to monitor him,” Bithe said. “But when I found out Ryada had changed her mind and said yes, I needed to think.”
+
+“I’m sure nobody expected you to keep working once the party started. Other than Stu maybe.”
+
+“He insisted I leave him to work alone after the shelf above the bor family stone was blessed.”
+
+“I didn’t get to see that part.” Couldn’t be close to the new wand shelf and the very Artonan rock while blessing was happening. His human vibes were too spooky and mysterious.
+
+“Uro, you’ve seen how…” a voice said from the darkness. “And now…”
+
+Alden joined Bithe on his feet. The voice wasn’t loud, but it must have been raised to reach them.
+
+“I heard it this time.” Alden looked toward the pavilion and to the left, seeing nothing but towering paddle plants and grass. “They must be over—”
+
+Bithe was already striding in that direction.
+
+******
+
+******
+
+The scene they found was the most uncomfortable one Alden had witnessed all night. Olget-ovekondo knelt beside a bubbling, bowl-shaped fountain. He was rubbing Uro-bor’s thin fingers against his cheek and ignoring her quiet murmurs of, “Stand, stand, Little Olget,” while she fluttered her free hand over the back of his head in a gesture that looked affectionate and nervous at the same time.
+
+Olget was pleading his case to her, and the words definitely weren’t making the way he was wiping his face with her hand seem less weird to Alden.
+
+“Remember when I fixed a <<water tank>>? A few years ago, Uro-bor. Remember? I fixed it because Yodra was so busy. And I’m always the first to notice when someone isn’t <<taking a share>> of the work, aren’t I? I try to get mother to buy the newest equipment. To <<modernize>>! And you remember the nodjee? I wanted her to summon nodjee for <<soil replenishment>>. I was only a child then, but wasn’t I already thinking like your village master?”
+
+“You will build something of your own, won’t you?” Uro-bor said quietly. “Stand, please. You—”
+
+“How will I build without the other wand?” Olget moaned. “At least one of them. I must have one. If you tell Mother you believe I should have it… ”
+
+Alden looked at Bithe, hoping the Artonan would give him some clue about what the situation called for. But he thought Bithe was surprised by the extreme awkwardness going on here, too. The knight had stalked over here, all business until he’d taken a peek through a gap in the plants that walled off the back of this nook. Now he and Alden were both stalled out, watching whatever this was.
+
+Olget’s behavior would have been unsettling if he was human. If anything, it struck Alden as even more so coming from a wizard toward an elderly member of the ordinary class. Maybe they had something like a grandmother and grandson relationship left over from Olget’s childhood, and that made it more complex?
+
+Still.
+
+And Bithe wasn’t giving him any clues beyond a grim frown.
+
+“Mother has so much respect for you, Uro-Uro. And you know how the others pressure her to think less of me. If you tell her that you can’t close your eyes for the last time knowing the wand you’ve accepted might have deprived me of such an important inheritance, then she’ll have to leave me the other one.”
+
+Alden scowled. What an abominable thing to say.
+
+Bithe seemed to think so, too. His fists clenched as he drew himself taller and opened his mouth.
+
+Are we going to bust down this cactus together? Alden thought. Okay. I can follow along.
+
+But before Bithe could punch through a paddle plant and tell Olget to stop demanding that Uro-bor use her impending death to guilt his mother into giving him an object he wanted, a voice called out loudly from what sounded like a couple of nooks over.
+
+“Mother! Mother, an honor for us! Master Leeter-zis requests your company as he prepares his spell!”
+
+Uro-bor’s son appeared. He was a dark-haired man with eyebrows that had an angry arch to them even when he was smiling like he was now. He whisked the old woman away in the same second that Olget made it onto his feet.
+
+It happened so smoothly—a swift bow, a jovial, “You understand a master wizard can’t be kept waiting, don’t you?,” and then Uro-bor was being led off. She was still murmuring, “I know you can build something,” to Olget.
+
+He seemed flustered to have the target of his begging so quickly and cleanly taken from him.
+
+That was suspiciously good timing on her son’s part. And Leeter-zis’s.
+
+Alden wasn’t wrong to think it, if the three people who emerged from the darkness next were any indication. Two of them were Olget-ovekondo’s brother and sister. The o’odee feathers at their backs looked worse for the wear after whatever entertainments they’d been enjoying at the party. The third member of the group, carrying himself with perfect posture even though his eyes looked heavy, was Stuart.
+
+Alden leaned closer to the gap they were spying through to get a better look at him. His hands were clasped in front of him, and his pale auriad wound around his fingers, though he was still wearing some rings that made it easier to miss.
+
+The bald side of his head was toward Alden and Bithe.
+
+“What are you all doing…?” Olget began, before deciding that escape was a better choice than conversation. “Excuse me. I need to go see something at—”
+
+His sister stepped sideways to cut him off as he tried to leave. The combs in her hair had gems on them that matched the pink wand in her hand. “You can leave after we’ve spoken to you. And after you’ve apologized to this votary for bothering a person in the care of his knights.”
+
+Olget tried to go around her, but his brother stepped in to block him, too. He had dull purple hair and a wad of something in his mouth that he plucked out and flicked at Olget’s feet before speaking. “And when you leave, you can go home.”
+
+“That’s right,” the woman said. “Master Leeter-zis has graciously agreed that you don’t need to stop by the pavilion and apologize to him for missing his spell.”
+
+“I’m not going to leave before the Here-to-There is completely over,” Olget protested. “How would it look to people if you two stayed and I left? No, that’s—”
+
+“Are you really going to be this embarrassing in front of an art’h?” Olget’s brother asked. “Be glad we found him on our way here with Gorol-bor so that you have a chance to <<recover dignity>>. Only a <<speck>> of it, but that speck might as well be a mountain to someone like you!”
+
+Sorry if you were looking for me in the garden and got caught up in this, Stuart, Alden thought.
+
+“I would gladly accept an apology on behalf of Hn’tyon Bithe—” Stuart began.
+
+“Gorol-bor told you to come here with him!” Olget exclaimed.
+
+His siblings looked at him like he was stupid.
+
+“He did,” Stuart said. “For the sake of Uro-bor Elder’s feelings. He was worried about speaking to you on his own.”
+
+Olget did nod at Stuart then, but it was in such a perfunctory way it looked more like he was trying to dismiss him than acknowledge what he’d said.
+
+He rounded on his siblings again. “You two don’t seem to care that our mother has sacrificed part of her power—”
+
+“After you apologize properly, you can leave,” the sister said pointedly.
+
+“Part of her power,” Olget went on. “Because you advise her against trusting me!”
+
+“You mean she sacrificed part of the power you imagined yourself having in the future.” His brother laughed. For much too long. Whatever he’d been chewing on might not have been great for his own sense of propriety. “Olget-ovekondo! Village master!”
+
+Their sister frowned at him, but directed her next words to Olget. “Just apologize and go, Olget. This is over for now. We can talk some other time.”
+
+“No,” said Olget.
+
+“No?” his sister asked.
+
+“Why wait to talk?” his brother said. “He doesn’t want to wait! He wants us to say humiliating things to him in front of an important person! I’ll start.”
+
+“Olget. Apologize and go.” She seemed to hope repetition would get through.
+
+Stuart said, “Maybe he could send a formal letter to Rapport I if that would be less troub—”
+
+“I have my dead mother’s wand to make up for my lack of effort!” cried the brother, waving an imaginary wand in Olget’s face. “I live alone with my pretty wand in a big house in the desert, pretending everything belongs to me and wondering why nobody wants to serve me. Why won’t anyone breed with me in a field full of o’odee bones?”
+
+“Soch! That’s too much,” the sister warned.
+
+“You don’t care about the village!” said Olget. “None of you! So it might as well be mine! Who are you to—”
+
+“A short formal letter would be fine.”
+
+Alden thought it would be great if Bithe burst through the paddle plants right about now.
+
+“I’ll never be a master wizard, but I write village master by my name wherever I go. I wear the nine-feather mantle and wave the wand like I know what I’m doing with—mmph! Ow!”
+
+The sister rubbed the elbow she’d just thrown toward the brother’s jaw, gave a small bow to an alarmed Stuart, then stepped closer to Olget.
+
+“Mother gave an honor to Uro-bor,” she said in a voice that was straining for calm. “One of her oldest friends. When Uro-bor dies, and the wand returns, I think she’ll begin using it again and pass the honor of the second wand to another friend. It won’t go to you. Begin focusing on strengthening your own casting and your own tools. That’s all you can do.”
+
+She gripped the front of Soch’s shirt and began to pull him away.
+
+“Apologize to the votary, Olget,” she said over her shoulder. “And don’t come back to the party.”
+
+Alden let out a breath. Olget was trembling. Alden gave Bithe a nudge with his arm. He felt it was obvious that it was a nudge suggesting that the two of them go now and back Stuart up more closely. But Bithe just budged over half an inch like he thought Alden wanted more room.
+
+Will he kill me if I try to make Emban’s warning tock sound?
+
+“Olget-ovekondo, sometimes the fog of a party makes proper behavior difficult,” Stuart said, his tone very forgiving. “You and your brother… perhaps our meeting would have been better in different circumstances. Hn’tyon Bithe, Hn’tyon Emban-art’h, and Hn’tyon Ryada-bess will accept your apology. I’m sure Avowed Alden will, too.”
+
+Olget blinked so hard it practically had a sound effect. “You’re making me apologize to the human?”
+
+“I’m not going to make you apologize to anyone,” Stuart corrected. His hands were still clasped with the auriad around them. “Your apology would have no meaning then, and I would be depriving you of an opportunity for contemplation and <<self-betterment>>.”
+
+Olget didn’t look like he appreciated how thoughtful Stuart was being.
+
+“I checked your diploma,” Stuart said. “Now that you know your life will go in a direction different from what you hoped for, you should seek challenge, opportunity, and meaning for yourself.”
+
+Bithe made a noise. Alden looked to see him pressing a hand to the plant and squinting at Stuart.
+
+“Are you telling me to go back to school to <<requalify>>?” Olget drew back like Stuart had swung at him.
+
+“You will have to contemplate your own failings and decide what’s best,” Stuart said. “I have done much of that myself. I do think your brother was too doubtful about your future. Even a sugar-stomached beggar can learn to share.”
+
+Alden wasn’t familiar with that saying, and the translation wasn’t providing an explanation. He guessed from Bithe’s head shake and the way Olget stomped off that sugar-stomached beggar wasn’t the nicest thing to call someone.
+
+******
+
+******
+
+“If you were watching, why didn’t you join us?” Stuart said a couple of minutes later while he and Alden made their way slowly around the garden. Bithe had taken his leave almost as soon as they’d left their hiding spot and revealed themselves.
+
+Alden was wondering what exactly the knight hoped he would do. On some level, did he want Alden to tell Stuart about Ryada? If not tonight, then tomorrow?
+
+Olget’s drama wasn’t much compared to that. Not really.
+
+“I think we were guarding your back,” he told Stuart.
+
+The Primary’s son was obviously out of steam, which made sense for someone who’d been working nonstop since Emban-art’h had told him she wanted to do this event.
+
+“Votaries have a difficult job,” Alden said.
+
+“They do.”
+
+Stuart would be good at this job. If he wanted to be. He knew that. Everyone knew it.
+
+“I’m sorry I wasn’t more help,” Alden said.
+
+“How much more help did you think you had to be? You did so much.”
+
+“I did get you a snack.” Alden took the napkin with the chewy purple blobs out of his bag and handed it over. “If you’re hungry.”
+
+Stuart couldn’t answer. He already had one in his mouth.
+
+“On top of everything else, you helped me do something new with my skill today.” The memory of accepting the puddle in what felt like a righter way was still so vivid.
+
+Stuart swallowed. “You sent me so many messages about that.”
+
+“I was excited.”
+
+“You were supposed to be sleeping when you sent some of them.”
+
+“How…I know you did something to make it work better.” Was that too strong a statement? “You must have.”
+
+Stuart didn’t look away from him, but he did bite the second blob in half and chew it slowly for a delaying tactic.
+
+Is he not going to admit it?
+
+Alden realized he might feel better if Stuart didn’t.
+
+The Primary’s son kept plenty of secrets from him, but Alden thought they were mostly proper discretion secrets. If he’d hide something a little more personal about Alden, it might take the edge off of Alden’s urge to discover once and for all how much damage his own honesty would do.
+
+Stuart swallowed and passed him one of the private conversation rings the two of them had worn earlier when they were talking on the hauler.
+
+Of course, Alden thought as he slid it onto his finger. Of course he’s going to tell me.
+
+“I’m happy you learned something about yourself,” Stuart said. “I didn’t do much. The koobas were unexpected, and you wanted to pick up the water. It seemed like it might be an opportunity for you, so I tried several ideas I’d had all together.”
+
+“Which ideas?”
+
+“Passing the water to you more directly, giving you instructions you weren’t expecting, telling you to go slowly… I also brought myself toward you and tried to <<bolster>> you.”
+
+They’d stopped walking.
+
+“Thank you,” Alden said after a minute.
+
+“I don’t know how to explain the bolstering well. I mean that I interacted with your being by reaching out to touch you,” Stuart said. “Is that all right? If you were a wizard and you didn’t appreciate it, you’d reject me as I approached so I’d know not to. But with Avowed it’s different.”
+
+If I were a wizard.
+
+“Alden?” Stuart sounded concerned. “I can try to explain more.”
+
+What are you thinking, Alden?
+
+“It’s all right,” Alden said. “I’m glad you helped me. Bolstered me.”
+
+Stuart smiled. “That’s good. I wanted to do the right thing. I probably shouldn’t do it often, though.”
+
+Alden tried to make himself be normal. The secret shouldn’t be any heavier than it had been a minute ago, a month ago, since the day it was born inside him. “How did you know you should try the other things?” he asked. “Was it because of me needing an entruster?”
+
+“Yes. Mostly.”
+
+“It bothers me a little. That I can’t do anything with my skill when I’m alone.”
+
+Stuart studied his face. Alden wondered what he saw.
+
+“That is a difficult limitation,” Stuart said finally. Simply.
+
+It made Alden glad he’d told him.
+
+“It is,” he agreed. But Ryada’s difficulty was fresh on his mind, giving him perspective.
+
+“You like protecting things and people with your magic, don’t you?” Stuart asked.
+
+“I do.”
+
+Before either of them could say anything else, Alden sneezed. A flower made of smoke came out of his nose. They both stared at it, and then Stuart gave him such a quizzical look that he had to laugh.
+
+“The party,” he said to explain himself.
+
+Stuart nodded. “We should walk toward the pavilion. It’s almost sunrise.”
+
+The flower was still drifting around them.
+
+“I dare you to inhale the smoke.”
+
+Stuart leaned forward and did it.
+
+“You’re supposed to hesitate a little, Stu-art’h.”
+
+“Why?”
+
+“What do you mean why? Because it’s a smoke flower that came out of my nose.”******

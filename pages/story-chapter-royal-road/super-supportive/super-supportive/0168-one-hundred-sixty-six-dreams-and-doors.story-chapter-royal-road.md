@@ -1,0 +1,449 @@
+---
+id: 4f7dd12e-66f5-51a3-bd2e-dac3e41186b2
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-SIX: Dreams and Doors"
+slug: 0168-one-hundred-sixty-six-dreams-and-doors
+partOf: super-supportive
+position: 168
+ownLength: 4513
+unit: words
+publishedAt: 2024-09-02
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1784538/one-hundred-sixty-six-dreams-and-doors"
+royalRoadId: "1784538"
+---
+
+166
+
+******
+
+The lab coat had a hole in it, right over the center of Alden’s chest.
+
+How did this happen? Did I make a mistake?
+
+He covered the hole with his free hand as he chased the sound of Kibby’s whistle through the grass. His other hand held the bomb and the black glitter putty that she had entrusted him with.
+
+It’s too soon. The coat’s supposed to last for longer. It can’t have holes. It has to help her months from now. She has to sleep under it in the vault until Alis-art’h comes.
+
+The high tone of the whistle sounded again.
+
+From my left? I’m running the wrong way!
+
+His nose was full of the smell of rotting grass. Why was it rotting away so quickly? And the case with the bomb in it was heavy, but if he dropped it…
+
+No. Wait. If I drop it, it’s fine. The explosion we make with it won’t help us draw in help, so I can just leave it.
+
+He tossed it aside and ran. Faster. As fast as he could.
+
+Holding the preserved putty was making it possible for him to move over ground that crumbled away. He gripped it harder and felt the fragment of bone inside.
+
+Lucky wizard’s foot.
+
+He wished Stuart was a knight already.
+
+He’d come, wouldn’t he? Or would his duty to the Triplanets make him too busy?
+
+Maybe Esh-erdi would be able to help. He had before. Back when—
+
+The whistle sounded again, from the way he’d just come. Did I run past her? Why can’t I get it right?
+
+“Kibby!” he shouted. “Keep whistling! I’m coming. I’ll be right there. Don’t stop! Please don’t stop!”
+
+When he turned, there was a cruel wall of ocean blotting out the Thegundese sky.
+
+He could hear her. She was under all of that water. Or on the other side of it.
+
+He ran forward, his magically enhanced strides carrying him farther and farther with every leap, bringing him closer and closer to realizing that the wall wasn’t water. It was just a wall, lined with white doors.
+
+I have to pick one. That’s how this works. Stuart says I can have my own choosing season.
+
+But he didn’t understand where the doors led.
+
+And if he got it wrong…
+
+******
+
+******
+
+Alden woke with a gasp, fighting against soft sheets in a room lit by the flashing of zansees. He and Stuart had filled another jar before Alden went to bed.
+
+He sat up, taking deep breaths and rubbing his eyes.
+
+I’m all right. None of that was real.
+
+Well, a lot of it was real. But none of it was now.
+
+The nightmare had gotten more complicated since the last time he’d had it. His brain must have thought it would be helpful to drop all the crap it could find into the pot.
+
+Why have two or three separate nightmares when you can have one super nightmare?
+
+He hoped he hadn’t been making noise in his sleep. Stuart might be freaked.
+
+I should check and make sure I didn’t wake him up.
+
+As soon as he stood, he remembered that he was supposed to be careful about standing. He’d paid back the debt for the self-mastery wordchain after getting into bed. He felt normal, but a moment later, he realized that something else wasn’t normal.
+
+The room…
+
+The jar full of water bugs was where he’d placed it on the floor. The two learning cushions were side by side on the carpet near the window. But where the sheer curtain should have been, separating the bedroom from the other half of the cottage, there was a wall. With a door set into it.
+
+Alden frowned. At least it’s not white.
+
+The door was a sliding one in a shade of cold, dark brown that blended with the decor. As he watched, blue logograms appeared on it:
+
+Can I come over for a chat?
+
+He read the sign a few times, then looked down at himself.
+
+He was wearing his favorite sweatpants and a clean North of North shirt—two clothing items he didn’t have with him on this little vacation. His auriad was prominently displayed on his wrist.
+
+He absorbed all of that before nodding. “Yes. Come over. I’ve thought about talking to you a few times since I came here.”
+
+But she already knows that.
+
+The door opened, and an Artonan woman stepped through. Braided brown hair, pink eyes, a welcoming and calm smile.
+
+“Hello, Alden,” she said, heading past him toward the window. “How have you been?”
+
+“Oh, you know me. Ordinary. Nothing too stressful going on. That dream you interrupted was not rife with meaning. I promise.”
+
+She stopped beside his learning cushion and looked down at it. “I’m glad you decided to follow my suggestion and talk to Stu-art’h that day. That relationship and recent events have brought you back here sooner than I anticipated.”
+
+Alden went to stand beside her. He told himself it wasn’t because he was afraid she might sit on the mindspace version of his cushion.
+
+Her smile widened. “What do you think of the Primary’s son, now that he’s decided to share so many of his truths with you?”
+
+So many of his truths.
+
+Outside, the stream was aglow.
+
+“I keep underestimating him,” said Alden, staring out at it. “He’s complicated. The first time we met, I thought he was a stubborn idiot with a really uncommon nobility thing going on. And then I met him again, and I saw that he was someone who’d been worrying over a mistake for months, trying to understand why he’d made it and make things right.”
+
+Stuart was always trying to get things right.
+
+“He named a ryeh-b’t after me. That was so, so odd.
+
+“And he’s on the verge of making a huge sacrifice. Part of me worried that he wouldn’t choose it if he really understood. That he was just going at it recklessly, without enough consideration for himself, the way he did with the mishnen. I already respected him, so I didn’t mean to think that way. But the worry was there at the back of my mind. And I was just…wrong about that.
+
+“He knows as well as he can, doesn’t he? He’s been weighing his options for years. And he’s picked a skill that means something to him. He’s not throwing himself away.”
+
+Is he?
+
+He waited.
+
+“If he were sure to die, I would have told them so,” she answered. “But I don’t usually provide estimations when it comes to a person’s ability to endure affixation.”
+
+“Why?”
+
+“Your chance of surviving on Moon Thegund for as long as you did was estimated to be less than one percent. Would it have strengthened you to know that?”
+
+It would have crushed me, he thought. It would have killed me. Maybe right at the end, when the chance felt like zero, I would have appreciated having any number no matter how low.
+
+But in general knowing wouldn’t feel great.
+
+“And an estimate is only that,” she said. “A single moment of doubt can end you. A single word of encouragement can save you. Everything can change in an instant. Not even stone is stone, as they say.”
+
+That’s a very wizardy saying.
+
+He liked it.
+
+“I want Stuart to live.”
+
+She didn’t reply. But Alden hadn’t said it in order to hear one.
+
+“I wish that I could tell him everything without being afraid that it would cost me everything.” He looked from his learning cushion to the one beside it. The gold and silver embroidery glimmered. “He’s an awesome person. He’s so serious when it comes to important stuff.”
+
+He shoved his hands into his sweatpants pockets and let them clench there.
+
+“There was this distance between us on our calls that always felt a little unavoidable. He wasn’t telling me about knights and the cost. I wasn’t asking him about everything that wizards keep quiet from humans. And I wasn’t telling him all there is to know about me. But now he’s shifting it.
+
+“Me getting into trouble again and Esh-erdi telling Stuart whatever he told him and the fight with his family about my friendworthiness—those have changed the situation. Accelerated it.
+
+“Stuart’s gone from testing the waters to cannonballing into the deep end. He’s going to be such a generous friend. And I don’t mean all the gifts or the trip to this place exactly when I needed it.”
+
+When you let someone know the real you and they kept important information from you, even if you understood and didn’t blame them…
+
+I’m closer to Boe than anyone else, but I’m still a little upset that he didn’t tell me he was an Avowed. And I didn’t know he would want someone to check on his parents if anything happened to him. I thought we didn’t talk about them because he didn’t care about them, or even hated them.
+
+“It isn’t fair to either of us,” he said. “It can’t be fair to either of us. Because if I ever decide to be generous in the same way, to tell him who I really am and what I’m really struggling with, then I have to live with the fact that I’ve given up this thing you’ve made happen for me. This little bit of control over my life.”
+
+She seemed content to let him say things aloud that both of them already knew. Which was great, because he couldn’t say them to anyone else.
+
+Thank you for the profile, by the way. Thank you for that control.
+
+“I wish that he could have promised not to summon me. I wish that the wellbeing of the Triplanets wasn’t a part of the equation. I wish that I could be honest with him without risking a future where I’m seen as a research subject, a threat to the status quo, or a rarer, more valuable resource.”
+
+He inhaled. “Do you have an answer for that?”
+
+“Only the one I’ve already given you, Quiet Rabbit.”
+
+Live in hiding if I want. Try to keep my secrets.
+
+Alden pulled up the two profiles with a thought and looked at them. “It still amazes me I have this. It’s something. A choice nobody else gets. I do know that.”
+
+“You’ve spoken a lot about choices with your new friend,” she said.
+
+“I don’t think I know enough to make all of the decisions I need to,” he replied. “The last time you and I talked, I was choosing to keep my authority sense. And then with my affixation…it was a lot, and afterward, I just wanted to get home.”
+
+“You could ask me your questions now. I’ll answer many of them.”
+
+Honestly, though?
+
+She stuck her lower lip out in a pout.
+
+“Sorry. I can’t stop suspicious thoughts from popping up.”
+
+Earth said that lies to its Avowed incurred a cost. Alden imagined it was the same for Artona I and this part of it. But he was also walking proof that she was perfectly capable of being a big spender.
+
+What should I ask first?
+
+“I’ve understood the Mother privilege correctly, haven’t I? It’s only for knights. And it’s the same way Alis-art’h got you to pay attention to me and save me when I teleported here from her ship.”
+
+“That’s right. My children can ask me to break a rule or take extraordinary action for them. Whether I agree or not depends on how much they’ve given, how much they’ve taken, and what the request is.”
+
+“She hesitated to ask,” said Alden.
+
+“The rules and ordinary actions of a Contract exist for reasons. My Alis may think some of those reasons are wrong, but she also knows that, on the whole, they are for the safety and survival of her people. So I knew when she asked that the person I’d be saving would be special. Just look at him!”
+
+She reached out to tap the window in front of them, and the view of the siblinghold’s backyard disappeared. Another scene replaced it—a teenager in a bathrobe and yoga pants, standing on a rooftop with water rising toward his knees. An Artonan was clutched in his arms.
+
+Alden stood facing himself. “I look like shit.”
+
+He looked scared.
+
+“How…?” He swallowed. “How likely is it to happen again? Not this specific event, but something like it. A person targeting Matadero or Anesidora or Earth. A demon doing it. Me being in the middle of it.”
+
+Is anywhere safe?
+
+“It’s not likely,” she said. “But it’s more likely than it was the last time you were here. As far as known planets go, Earth is an excellent one to live on. Not the best, of course.”
+
+She waited.
+
+When he looked to see why she wasn’t saying anything, he found her watching him expectantly.
+
+“Do you want me to say you’re the best?”
+
+“Earlier today weren’t you thinking about how much you liked the forest?”
+
+A mug—one that looked similar to a few he’d seen in Olorn-art’h’s studio—appeared in front of him, floating at chest height. It was empty.
+
+“Earth hasn’t put you off hot chocolate, has it? I’m so disappointed in it. It’s capable of coming up with fun experiences and treats for Avowed on its own, but instead, it copycatted one of my little gestures.”
+
+The cup rotated slowly. It was beige with a wide black stripe running vertically down the center. Alden looked past it, at the image of his past self.
+
+That Alden’s lips were trembling, and his face was bloody.
+
+“Why did you refuse when I asked to use the privilege? I know I haven’t earned any favors. Thanks to Alis-art’h and you I’ve gotten more special treatment than I’ll be able to pay back in a lifetime. But you still put the option there. I thought it was something you wanted me to do. Something I could use if I was willing to…”
+
+“Increase the intensity level of your future,” she finished for him. “It is. But it’s a reminder. It’s waiting for the version of you that is willing. Not the person who thinks he’s run out of chances.”
+
+The scene in front of them zoomed out, until the mass of water dominated the image.
+
+Alden from a few days ago looked so small, breakable, and doomed that he wanted to shout a warning or run into the scene to help himself.
+
+That’s crazy enough to make it into my next nightmare.
+
+“The story looks different as you change your angle, doesn’t it?” she said.
+
+The view continued to shift, traveling up and over the mass of water to where Esh-erdi and Lind-otta stood on the roof of another building.
+
+“I am interested in seeing what you may become one day, Alden.”
+
+Lind-otta was making a shooing gesture at her partner, then turning to face the mountainous ocean.
+
+“If you choose to excel.”
+
+Alden watched the lighting spells appear in the sky, watched the water go still, remembered the feel of his own body at that moment—under the surface, reaching for Zeridee, eyelids caught in a blink that felt like it would last for minutes.
+
+He tried, briefly, to imagine himself standing where Lind-otta stood. But it made his thoughts snarl and then shoot off in so many directions he couldn’t follow any of them.
+
+“You don’t believe you could do something like that one day?” she asked.
+
+The best he could manage was picturing it in a technical way. If he’d somehow survived affixations, the Artonans, and everything else for many years. And if someone entrusted the water to him. And if he had mastered picking things up without his body…
+
+He took his hands out of his pockets. “I still like hot chocolate. It’s the king of warm drinks until further notice.”
+
+She snapped her fingers and the mug filled.
+
+Half-melted marshmallows. Just right. Of course.
+
+“You have other questions,” she said.
+
+“I do. If I told Stuart the truth about the authority sense someday or if he somehow found out I have The Bearer of All Burdens, would he keep it a secret? Am I wrong to worry? Could you tell me that?”
+
+She shook her head. “I can’t promise you he would keep your secret. But that doesn’t surprise you.”
+
+He took another sip from the mug.
+
+“If you want to be absolutely sure to avoid discovery, perhaps weaving a friendship with him is the wrong choice.”
+
+He was so startled he almost spat out his cocoa.
+
+“Why are you saying that?” he asked. “You’re inside my head. You know I’m only agonizing over it because I already intend to be his friend for as long as he’ll let me.
+
+“I don’t know how it will go. Probably it’s going to be better for him to be friends with other knights after he affixes. He’ll be part of a squad, right? They’ll have everything in common.
+
+“But he gave me a wizard cushion. He takes the time to explain magic to me whenever I accidentally look a little interested, even though he must think I’m not really understanding. He told me about losing his mom, and he sent Joe to help Anesidora, and I think he almost cried earlier today when he found out I didn’t like my spell impression. I’m not going to ditch him, and I’m still pissed that Evul-art’h made me afraid I’d never get to speak to him again.”
+
+She held her hands up. “I was just making conversation.”
+
+He frowned.
+
+The close-up image of Alden reappeared on the window.
+
+“You know,” she said airily, poking his past self’s forehead, “to make a little more conversation…this is also terrible behavior for someone who wants to remain undiscovered. You’ve given my Esh reason to be even more interested in you.”
+
+“It was an accident.”
+
+“A prolonged accident,” she replied. “Involving hard struggle and many opportunities to choose an easier way.”
+
+“I got caught up in the excitement. Couldn’t resist.”
+
+She laughed. It sounded so natural.
+
+“Don’t worry about Earth plagiarizing your hot chocolate,” Alden said as the laughter ended. “Its idea of a good meeting location for us is just the worst. So far it’s given me the room where I had my intestines put back together as a child and the office of a school counselor. You’ve given me two comfortable places. Like a normal person. I fully expect Earth to summon me to a dentist’s office next time.”
+
+Clearly it thinks I need fixing.
+
+And it wasn’t the only one.
+
+“Can someone in my position ever safely use a mind healer? What if they bump into the wrong memory? What if it hurts unexpectedly and I start trying to slap them with my existence?”
+
+“You have options,” she answered. “Avowed Healers of Mind on your planet don’t often have the ability to read thoughts, and you could avoid the services that required Sway helpers. But their talents are more limited than what you’ll find here. The healers Stu-art’h would introduce you to could offer you a much more diverse and personalized experience. They could also easily read your thoughts. But it’s very unlikely that any of them would do anything other than what they had discussed with you in advance.”
+
+Yeah. I doubt the Primary would let people with crappy morals work on his son for years.
+
+“Actually, some of them would be influenced to behave in the way you want by factors other than their morals. But they would still behave.”
+
+He thought about that while he drained the rest of his mug.
+
+“You’re considering it,” she said.
+
+“Not being as steady as I want to be is tiresome. And I like the idea that I can make this period of my life my own kind of choosing season. But when I try to approach the choices, I’m either frozen in place from the pressure or the opposite. I have this urge sometimes to lunge at the decisions before they disappear. I know that’s not good.
+
+“And I want to stop being…” He couldn’t quite put it into words. “Well, this trip helped. I don’t know where I’d be right now if Stuart hadn’t invited me over. Probably in my hospital room, trying to come up with an explanation that would fool Esh-erdi after I blew a hole in the wall with my auriad.”
+
+“I like that you think you could blow a hole in one of Matadero’s walls,” she said. “Even the interior ones. So ambitious.”
+
+He had an urge to stick his tongue out at her.
+
+“Feel free. It wouldn’t be the first time in history, but it doesn’t happen often.”
+
+He did.
+
+She did it back.
+
+“I’m pleased,” she said, “that you’ve decided not to be afraid of me.”
+
+He looked away. “It’s not time yet. And I know you won’t push like Earth. Tonight is great. But no promises on my future mood. If…can I…?”
+
+“You can affix on whichever planet you like.”
+
+He had thought she would say that. And he had thought he would feel more relieved to hear it than he did.
+
+“I can pick when?”
+
+“Yes.”
+
+His hands tightened on the mug. He stared at the ring of melted marshmallow stuck to the rim. “How long will it be before that changes? Before I can’t wait anymore?”
+
+I did it. Asked the scary one.
+
+It was the right thing to do. Solid choices started with good information.
+
+Baby steps. Whatever the answer is, I’ll say, ‘Okay.’ Like I’m cool.
+
+When she didn’t answer, he pulled his attention away from the mug and found her eyes.
+
+“You’re not going to appreciate hearing this,” she said, “but you want a more narrow and certain answer than I can give you.”
+
+“You really don’t know?”
+
+“Your course is less predictable than some. I will have a better estimate as you approach your limit. But so will you. If you neglect training your bound authority and focus on your wizardry it will be sooner. If you lock yourself away from the world, perform no magic, and search for inner peace and satisfaction—”
+
+“Nobody told me that was an option.”
+
+“There are other variables. But knights almost always progress very quickly in the times between their first several affixations. You’re growing that way, too.”
+
+“Several?” Alden latched onto the word. “Does that mean it slows down?”
+
+“Older knights tend to vary more. Most have pauses in their growth every now and then. Some almost come to a standstill for years at a time. Others race forward and never stop. Ask Stu-art’h. This is a subject he’ll be eager to explain.
+
+“But, Alden, don’t count on your own pace being anything you would consider slow anytime soon.”
+
+“I won’t.”
+
+“Really.”
+
+He clenched his jaw. “I know.”
+
+“Eight to ten months,” she said calmly. “It’s the most likely window right now. That may change.”
+
+It took him a while to say, “Okay.”
+
+******
+
+He wanted to spend a while exploring his options for improving his skill, and of course, she let him. While he wandered through a patch of Rapport I’s forest, she lounged behind him on a copy of the couch he’d bought for the apartment.
+
+This was too overwhelming to take in last time, he thought. It still is, but there’s something comforting about the number of possibilities, too.
+
+He reached up for one of the gray paper cranes that hovered just overhead, and when he touched it, it unfolded in his hand to reveal the thing he could become. Eventually. The gray cranes were ones he wouldn’t be able to select during his next affixation.
+
+[Safe Object Relocation - Sensing]
+
+[Gives Alden the ability to recognize places where an object-element burden he’s currently preserving won’t experience immediate damage upon cessation of preservation.]
+
+“This one’s neat. Is there one of these for enchantments instead of objects? Could I use it to find places where they’d actually work well when I dropped them?”
+
+Another gray crane was already flying toward him in answer.
+
+He browsed some more, they talked for a while about metaphors for affixations, then she sent him to what he thought at first was the nightmare he’d left.
+
+A long line of doors in a wall.
+
+It took him a minute to realize all the signs on the doors listed things he could have done in the past—choices he could have made—but hadn’t.
+
+“Go to Manon Barre’s apartment and confront her directly,” said one.
+
+“Don’t keep trying to get to know Boe,” said another.
+
+Tell the stray cat to get lost. Don’t answer Jeremy’s first text message. Apologize to Maisie for breaking her pencil instead of hiding the pieces under the playground slide.
+
+Finally, he found a door that said, “Tell Neha you want to practice the hell out of your skill.”
+
+I actually did do that. That was a good moment. I felt like I’d understood something about myself and committed to it.
+
+He opened the door and went through to find another line of doors with choices written on them. He ignored the false ones and selected, “Go bother the NesiCard man until he gives you a new card.”
+
+The process continued. He understood what the doors were getting at. It was simple, but he found the act of making his choices again, even the tiny ones and the bad ones, meaningful.
+
+You haven’t been as stuck as you think. You haven’t decided what to do about being the only human wizard-Avowed, but that doesn’t mean you’re frozen. It doesn’t mean that the things you’ve already chosen aren’t worth appreciating.
+
+He knew the last door when he saw it. It was sandwiched between one that read, “Leave Zeridee-und’h behind,” and another with the words, “Don’t go with Lute to Benjamin Velra’s birthday party.”
+
+It said, “Be friends with Stu-art’h.”
+
+Not the smartest choice for a quiet Rabbit, he thought as he pushed open the door. I’m happy to make it anyway.
+
+******
+
+******
+
+Alden woke up, for real this time, and rolled over in bed.
+
+Through the curtain, in the dim light, he saw that Stuart was squatting beside his suitcase. He had a wand in his hand and a square of something that might have been fabric in his mouth.
+
+“What are you doing?” Alden asked, propping himself up on an elbow. “It’s really early. Did you sleep?”
+
+Stuart let the square fall out of his mouth onto the bag. “I’m fixing all the holes Other Alden made in your suitcase. I couldn’t find your zippier, so I made you another one.”
+
+That project is so not worth his time.
+
+“You’re the best host ever.” Alden yawned. “That thing you suggested…the healers of mind you know?”
+
+Stuart’s wand stopped mid-wave. He looked up. “Yes?”
+
+“I think it might be a good idea for me. If you’re sure that arranging it wouldn’t be a problem. Would you tell me how it would be? And what I would have to do?”
+
+“Of course.”
+
+******

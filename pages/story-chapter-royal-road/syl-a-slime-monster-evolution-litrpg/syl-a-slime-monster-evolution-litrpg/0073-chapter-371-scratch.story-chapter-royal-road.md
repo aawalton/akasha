@@ -1,0 +1,197 @@
+---
+id: 8996058d-0faa-5e38-804c-1bf0684c8363
+page-type-slug: story-chapter-royal-road
+title: "Chapter 371 : Scratch"
+slug: 0073-chapter-371-scratch
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 73
+ownLength: 2354
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3254720/chapter-371-scratch"
+royalRoadId: "3254720"
+---
+
+I continued my assault against the dungeon, although other than the failed attempt to kill me with the temple trap, things had been going surprisingly smoothly. If anything, the mutation dungeon had been more hostile against me, although perhaps that was partially my fault.
+
+Does the [Dungeon Master] not care what I'm doing? Or maybe its hands are tied thanks to the "no interference" rule the gods had given them?
+
+I wasn't sure, though I certainly wouldn't complain if things were too easy. Frankly, I hadn't really considered what "defeating" a dungeon and usurping the [Dungeon Master] Emblem would entail. Still, I had somewhat imagined it as a climactic showdown like when I fought that Undine.
+
+Although once I actually try to destroy the dungeon, then all bets are off. I remember Juniper and Dran mentioning that they were allowed to defend themselves, especially after that dragon fiasco. Although… I wonder why Juniper didn't lose her Emblem? Is destroying the dungeon not enough?
+
+If I needed to kill this [Dungeon Master], then I would, as I'd been given the go-ahead by both Mother and tacit agreement from Gramps. However, if there were other ways to claim the Emblem, such as a surrender, I was open to negotiation, as Leon was the one who felt wronged by this dungeon, not me.
+
+As long as I get my Emblem, I'm happy.
+
+I continued making rapid progress, and it was certainly showing in both my skills and my levels. I still wasn't sure whether it was some interaction with [Split Personality] or if I'd truly lessened the burden on my soul by giving up those class levels. There was also Vee and [Companion Growth] to consider, as I felt like we were close enough to influence one another despite being in different parties.
+
+Or maybe it's all of the above?
+
+I wasn't sure, but after emptying out a few more rooms, I found a quiet spot to take a break and assess my situation.
+
+<Class Experience threshold reached. Riftmancer is now LV 5.>
+
+<33 Skill Points are now available.>
+
+<Your class has revealed the following skill: [Spatial Severing].>
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 9.>
+
+<8 Trait Points are now available.>
+
+I'd gained two more class levels and even another race level, which meant my other personas must have been doing a terrific job. It even made me consider that the dungeon might have been focusing more of its attention on that group, given their larger size. Further proof of their good work was that their skill improved!
+
+<Proficiency gained. [Split Personality LV 2] improved to [Split Personality LV 3].>
+
+<Proficiency gained. [Personal Rift LV 3] improved to [Personal Rift  LV 4].>
+
+<Proficiency gained. [Companion Growth LV 9] improved to [Companion Growth LV MAX].>
+
+I was delighted by the progress, and this confirmed that Vee and I were still considered in range of one another. With that in mind, since I had the points to spare, I decided to try uncapping [Companion Growth].
+
+<Skill [Companion Growth LV MAX] has become [Companion Growth LV 11]. Skill Points remaining: 23.>
+
+Looks like I'm not the first one this time, although it definitely makes sense. I can imagine most elves try to get this one.
+
+With that out of the way, I looked at the new skill I'd gained. Skills revelations had been in short supply, and I was almost expecting to gain nothing until I reached level ten, so this was a pleasant surprise.
+
+<[Spatial Severing] Allows the user to exert their dimensional influence to launch attacks using tears or to directly assault dimensional entities. Most dimensional attacks cannot be dodged through ordinary means while also rendering most common forms of defense inert. However, you will need to gain additional skill levels to improve your lethality, as being able to sever, tear, or rip space apart is not a trivial matter. Additionally, other forms of dimensional attacks may receive benefits from further levels in this skill.>
+
+Woah! Did I just get my own version of [Rift Thread]?
+
+I had no idea what to expect, so I bought it right away.
+
+<Skill [Spatial Severing LV 1] obtained. Skill Points remaining: 22.>
+
+After digesting the new skill information I obtained, I tried it out. In a way, it was very similar to how I opened apertures with [Personal Rift] and with a gesture, or even a simple mental command, I could create a thin tear of a few inches where I wanted.
+
+Suddenly, the description of the skill made a lot of sense, as how could one dodge or defend against something like this? Although its size left a lot to be desired. Naturally, it shared the same impossibly thin quality that Vee's [Rift Thread] had, but in terms of quantity and, probably, quality, she had me beat.
+
+"Well, it's only level one, I'm sure it will get better!"
+
+There were also other factors to consider with the skill. It mentioned I could attack dimensional entities, which made me think I'd gained a counter to abilities like [Phase Out] or the spell [Spatial Phase]. It also mentioned improving other dimensional attacks, and while I had none of those in [Dimension Magic] yet, I could attack with my [Personal Rift] apertures.
+
+Actually, I really want to take this apart… Wouldn't I finally get an idea of how to make an offensive spell for [Dimension Magic]?
+
+It had been a sour point in my magical career, as while there were a lot of dangerous effects in this magical category, and forcibly teleporting someone was a form of attack all of its own, I wanted something more blatantly obvious.
+
+Let's see if I can get it to level two or even three before I use [Skill Deconstruct] on it. I think I've learnt by now that the information gained isn't worth it at only one level.
+
+Then the question became, what was the best way to level up this skill?
+
+"Now that I think about it… Isn't this my very first active attack skill?"
+
+I pondered on it some more and quickly realized this was true! The closest thing I'd ever had to an "attack skill" was all from traits; [Slime Shot], [Inferno Sac], even [Voltaic Slime] or [Nitro Slime] if I thought about it.
+
+Yes, I had somehow avoided gaining a single attack skill this entire time, with most being relegated to passive abilities, active utility, magic, or movement skills. I had known they existed, as how else was a swordsman supposed to compete against a spellcaster, but I'd never bothered to care.
+
+"To be honest… I still kind of don't care," I admitted out loud. "I'll leave those types of things for Sylbera to discover. Who needs attack skills when you have magic and, more importantly, slime?"
+
+Of course, [Spatial Severing] was an exception to what I'd just blatantly declared, but my intention was to hopefully weave it into magic down the line.
+
+"But I need to level it up first to get there. Which brings me back to my original question… What's the best way to level up an attack skill? Can I just use it over and over again? Or does it actually require me to inflict damage?"
+
+I wasn't sure, but I tried out the skill a few more times to get a feel for it. I discovered a few things by doing this. Firstly, it cost some Mana to use, which was to be expected, as it was a resource every living creature would use, not just the spellcasters.
+
+Secondly, it could be used in quick succession, with only a very minuscule cooldown between uses. I was a little bummed by this discovery, as I'd hoped I could just use it multiple times at once to overcome its size limitations, but at the moment, it felt more like death by papercuts than a super special skill.
+
+I was about to reluctantly give up and accept that I had to take the tiny papercut approach, like a feisty cat doing some rapid swatting with its claws, when I had a spur-of-the-moment thought.
+
+Wait… Doesn't [Core Collective] let my [Sub-Cores] use my skills?
+
+Again, almost all of my skills were passive, so they constantly "applied" to the appropriate situation. While I had active movement skills, there had never been a need to use them when my [Sub-Cores] were together. Unless, for some absurd reason, I wanted to violently eject a core from my body.
+
+I quickly gave the order to the four [Sub-Cores] I had with me and joyfully discovered that yes, they could each use it! Combined with my own, I now had five tiny papercuts to work with, a full cat paw.
+
+"It's better than nothing, but wow, I really hope level two and beyond improve this…"
+
+I tried using the skill in tandem with my [Sub-Cores] a few times, but it didn't seem like I was anywhere near leveling up the skill. I was hoping that, like a swordsman honing their blade by striking the same log over and over, I could do the same with [Spatial Severing], but it appeared the system wasn't that kind to my active imagination.
+
+Since I had no more improvements to go over or points that needed spending, I was going to continue my journey through the dungeon. I connected with my [Personal Rift] and nearly gasped in surprise when I felt the improvement.
+
+I can finally go down!
+
+I had almost suspected the dungeon didn't have lower levels and was just one big twisting and winding floor, but now I knew that wasn't the case. The layer was thick, and the degradation in the range being applied to my rift was extreme, but I had just enough reach now to feel it.
+
+I giggled to myself, and with a swish of a slimy tendril, I drilled through space, creating a direct entryway down to the second floor! Not wanting to risk losing the opportunity in case the dungeon pulled a fast one, I immediately dove through the tunnel to whatever awaited me down below.
+
+***
+
+"Well, this is quite an interesting situation brewing," Mother said, leaning back casually in her chair.
+
+"Caused by you. You were the one who put the idea in my slime's head," Gramps grumbled.
+
+"Oh come now, isn't it for your own benefit? If Syl becomes a [Dungeon Master], then won't you two be closer?"
+
+"Doing that would contaminate the experiment," Gramps refuted. "I prefer not influencing my subject's actions like you two."
+
+Mother raised an eyebrow, clearly not buying his reluctance. If anything, she presumed he was only upset that she had suggested it before him. He was stubborn like that.
+
+"I must say I'm still shocked by the current events," Mother said, moving the conversation along. "Who knew there would be such complex interactions with various skills and traits?"
+
+Gramps nodded. "When multiple differing systems interact, the results can be quite amusing."
+
+"Are you not concerned?" Mother asked. "You approved that upgrade to [Core Collective] and with only the very first level beyond the cap, look what Syl has done."
+
+Gramps strummed his fingers across the desk in thought before shaking his head. "I'm not concerned. I doubt others will discover it unless Syl suddenly becomes more blatant about being in multiple locations at once. Considering the leveraging of [Split Personality], I don't expect it to happen. Also, it's not like uncapping a skill or trait isn't allowed to be so monumental."
+
+Mother agreed but paused over an errant thought. "Won't the one who controls that [Dungeon Master] kick up a fuss?"
+
+Gramps stroked his beard in thought. That was a possibility. "I might have to smooth things over… Although I don't even know who it belongs to."
+
+"You don't?" Mother gasped.
+
+"It was your idea, I thought you were handling it," Gramps passed the blame.
+
+"It's your subject!" Mother refuted.
+
+"Oh, now it's my subject!?" Gramps roared.
+
+"Um…" Unc tried to speak, but was ignored as the two bickered.
+
+"Um!" Unc tried again, louder this time. It still failed.
+
+Sighing, he kicked the desk, finally catching their attention as the two glared at him for interrupting. Unc swallowed, almost regretting his action.
+
+"That d-dungeon is under me…" Unc stammered.
+
+"You!?" Gramps and Mother shouted in disbelief.
+
+Unc nodded, sinking deeper into his chair.
+
+Gramps let out a harumph, but now there was a grin on his face. "Well, that settles everything then. Nothing to worry about."
+
+Mother sighed, but ultimately agreed, although she had another errant thought. "That's your dungeon?"
+
+"C-correct," Unc replied.
+
+"And your subject robbed it?" Mother continued.
+
+"Y-yes…"
+
+Mother frowned. "Then why did you allow him to bully your subject?"
+
+Unc looked down at the floor, unwilling to make eye contact.
+
+"That's a good point… If that were my [Dungeon Master], I would have smitten him for even daring," Gramps said, and then went even further. "Even if it wasn't under my watch, I'd smite them!"
+
+After all, Gramps had done just that to poor Simon the Lich.
+
+With both Gramps and Mother now pressing him, Unc was forced to answer, even though he knew it would probably upset them. "I-I don't like b-bullying them. They might join us one day, I'd rather have more f-friends…"
+
+Gramps and Mother both looked at each other. Both looked like they wanted to scold him, but surprisingly held their tongues.
+
+"I see…" Mother replied.
+
+"That's right… Weren't you one of those who were successfully promoted?" Gramps asked.
+
+Unc nodded, which he almost immediately regretted doing as he saw Gramps pulling up a screen that seemed to have detailed information on previous [Dungeon Masters]. With a few hand gestures, Gramps found what he was looking for, and to Unc's horror, he saw the old man laugh.
+
+"What's so funny?" Mother asked.
+
+Rather than answering, Gramps moved the screen so she could read.
+
+"A jellyfish dungeon…" Mother read aloud, then turned to look at Unc. "You know… That suddenly makes a lot of sense."
+
+Unc immediately hid his face in his hands; he desperately wished he hadn't opened his mouth.

@@ -1,0 +1,555 @@
+---
+id: 11a4d3a1-377a-54a3-86a3-5554acb813a7
+page-type-slug: story-chapter-royal-road
+title: "SIXTY: Mother, pt. 2"
+slug: 0061-sixty-mother-pt-2
+partOf: super-supportive
+position: 61
+ownLength: 6004
+unit: words
+publishedAt: 2023-08-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1302152/sixty-mother-pt-2"
+royalRoadId: "1302152"
+---
+
+CHAPTER SIXTY:
+
+Mother, pt. 2
+
+“This is fun,” she said, waving a hand to make the sigil that represented Alden’s skill disappear from the television screen. “Normally, even if you were learning to use your authority, I wouldn’t talk to you about the original Avowed skills. I would have to violate some rules to direct you toward them these days, and you haven’t yet earned an extraordinary measure like that. But you already have the skill and know what it is. And a very naughty wizard has gone so far as to tell you outright that you can develop it for a lifetime.”
+
+Alden was sure there was a picture of Joe somewhere in the universe with the words Very Naughty Wizard scrawled over his face.
+
+“You would have figured out that the skill had no ceiling. Probably. Eventually. But how many decades of your life would it have taken I wonder …with so many other delightful talents tempting you to become something else?”
+
+She grinned at him.
+
+“So! Now that you’ve chosen to make your life harder by moving forward with full-knowledge of your authority, it’s time for the simpler choices. Would you like me to tempt you with a multitude of options, Alden? Shall I bring up the Ryeh-b’t skill list for you? Do you want some points in Appeal? Interested in a shiny new spell impression? Or are you in the mood for something a little…older?”
+
+Oh, right, thought Alden. This is what happens next.
+
+He had known. He just hadn’t been all that focused on talent selection. Finding out he was going to live when he and the Quaternary had both thought he wouldn’t had eclipsed it in importance. And besides that, he hadn’t realized he’d have to start by choosing to keep something that seemed as fundamental to him as his authority sense.
+
+“How many levels did I get anyway?” he asked. “What was the tipping point that made me start to fall apart?”
+
+“If you want to be all human about it and calculate what you know is authority growth in levels…” she said, “…then you gained eight.”
+
+“Eight?” said Alden, stunned even though he knew the number was going to be larger than it would have been under normal circumstances. “Wait. I don’t quite understand how it works, though. The skill itself is stronger already, so some of the authority is already bound into it, right?”
+
+“As long as a skill isn’t complete and sealed—which yours will never be—then the bound authority you have grows stronger within its confines and the free authority you have grows separately. The second at a faster rate than the first. Eight levels is your total improvement overall.”
+
+“Got it. So I’m a level nine now. If that’s measured as excess authority on top of a level…something…skill and my trait and my stats?”
+
+“If I’m forced to work with these terms, then I think the current power level of your skill should be called three, but Earth says round up to four. It strokes egos to make humans more manageable it seems.”
+
+Well, that’s a nugget of truth to worry over when I have less going on, Alden thought.
+
+Gaining three total levels had once been his ambitious goal. For a year. A year in which he’d imagined himself training full time at one of the best hero schools in Apex.
+
+Alden wouldn’t have aimed for level nine overall until he was well into college.
+
+“It’s even better than you’re thinking,” she said, after giving him a moment to process it all. “Learning to ‘press all the buttons on the skill machine’ is an excellent way to train and grow your authority. But can you please come up with a more elegant metaphor when you have a moment? This one pains me. And my children generally cope better when they see their skills as worthwhile artistic instruments to master…not ugly, tedious devices they must poke at so that they don’t die on a demon moon.”
+
+“Is the way I think of it really that imp—?”
+
+“Do you want to hate your skill more than you have to?”
+
+“No,” Alden admitted.
+
+“Then do better.” She paused. “You asked about the tipping point. It should have been all the way back around level six or seven. At the rate you were growing your free power—practicing with it constantly and stretching it against both the chaos and the skill—you ought to have been dead weeks ago. Your friend really did refine you into something I usually only see in gifted young Artonans. I imagine he possesses the ability to do it because having authority of that quality was the requirement for becoming a member of his…priesthood?”
+
+Alden shrugged. “If you don’t know the right word when you’re looking at my memories, then I don’t see how I can tell you anything.”
+
+“I never had the opportunity to join with one of his kind and come to an understanding.” She smiled at Alden. “Anyway, congratulations on your swift advancement! I’m very proud of you. Even if you did almost kill yourself.”
+
+“Thanks?”
+
+“Normally you and Earth would have had a back and forth at each of its preferred milestones, with it offering you rewards and you choosing from them. Or, in your case, refusing them. Instead, you now have no option but to pick everything all at once.”
+
+The presents disappeared from beneath the tree and reappeared scattered across the floor at Alden’s feet.
+
+“I’m sorry,” she said. “As you now realize, you yourself are paying the largest portion of the gift’s price. But it should still be satisfying to rip off the wrapping paper.”
+
+That’s an entertaining way to do it. Alden grabbed the package with bulldozers on it and tugged off the yellow ribbon. When he tore into the box, light filled his eyes. For the first time in months.
+
+He laughed. “I almost forgot what the interface looked like!”
+
+“That’s what you get for running around beyond Contract reach for so long. Try it out.”
+
+Alden reached up to touch the button for the Wardrobe.
+
+“With your mind,” she clarified.
+
+“I never had the chance to master mental commands.”
+
+“I’m doing quite a lot of work on you right now. There’s no reason I can’t speed up a little process like that.”
+
+Alden focused on the Wardrobe, and it expanded readily.
+
+“Thank you. That’s really easy. Wait a second…are there more options than there used to—”
+
+The Wardrobe window shut and disappeared.
+
+“That’s for later,” she said. “Something to keep you entertained while you’re recovering. Open the next one.”
+
+Alden grabbed a gift bag, and when he reached inside, the Rabbit skill list appeared. Only it was called the Ryeh-b’t skill list. Obviously she didn’t approve of Earth changing the name.
+
+“You can have another skill,” she said. “In fact, you have accumulated so much free authority that you can have another B-rank skill affixation if you want it. I’m sure you know—”
+
+“That’s not something people get until they’ve been a successful Avowed for ages,” Alden said.
+
+It was usually lower ranked skills for add-ons. Because of the way authority accumulation worked, he supposed. If you were taking rewards every time they were offered, you would have to be pretty far along in an illustrious career before you started getting enhancements the size of your original skill for a single upgrade.
+
+“What is a level anyway?” he asked. “Is it like a recommended percentage of growth compared to your total power prior to re-binding it?”
+
+She sniffed. “Recommended. Yes. A poor recommendation in my opinion. Don’t listen to Earth, Alden. Take your affixations in the largest doses you can stand. Not as large as the one you’re about to get. But in general. Patience is a virtue.”
+
+Alden blinked.
+
+“I mean…I was going to anyway since I want to actually get to use my free authority for spells for as long as possible.”
+
+“Good boy.”
+
+“But why? For normal people I mean?”
+
+“The tension between your free authority and your bound strengthens your power. The more equal they are to each other, the greater the benefit. This is much more applicable to you than to a regular Avowed since your very awareness of the tension increases it substantially. But it applies to a smaller extent universally.”
+
+“Like they’re arm wrestling each other all the time,” Alden said. “And by doing so they’re forcing a constant state of reassertion?”
+
+She sighed. “That’s as bad as the machine metaphor, but you may keep it.”
+
+Alden glanced down at his auriad. “I’m not…the only human Avowed with an authority sense, am I?”
+
+It was an awkward thing to ask since he thought the answer should be something like, Of course not. Just how arrogant are you?
+
+But he wanted some confirmation so that he wouldn’t feel like he was trying to do the Avowed thing completely differently—and therefore possibly wrongly—compared to everybody else on Earth. Knowing some other humans were on the same path would be a big comfort.
+
+“You’re currently running so far ahead of a very small pack that I see no point in you considering the other racers.”
+
+He shook his head. “That can’t be right. I’ve only studied magic for a few months.”
+
+“Doggedly. In an environment with just the right amount of corruption. With a dedicated training partner. After receiving an ideal boon from a member of the only other species Artonans have ever encountered that could be said to have true natural talent for magic. It’s not even a replicable experiment.”
+
+“But there are people out there who are hyperboles. Who can control weather systems! They can do such crazy stuff.”
+
+“You do realize the way you’ve begun to train and use your skill isn’t the lone possibility for achieving strength? Many humans are naturally much more powerful than you at their first affixation. Some among them are also talented in developing their skills through other methods. A few of them achieve mastery through vast amounts of practice. A few just have a subconscious knack for it. People who set out to develop their power and refuse to give up generally find the means.”
+
+She added, “I believe Worli Ro-den was trying to lead you down such a path. You’ve gained more than you realize from his lessons. Don’t discard them.”
+
+Alden nodded.
+
+“But the route you’ve chosen is faster!” she said brightly.
+
+“I kind of figured.”
+
+“You still don’t understand how much faster it is. When you have an authority sense and you bind a skill, your power can rapidly snowball. Especially if you work at. It’s why even Artonans can’t affix without swearing oaths that prevent them from harming the Triplanets.”
+
+He considered that. “Cool.”
+
+“An image of you running across Moon Thegund fearlessly and with ease just came to your mind. You are underestimating your future potential.”
+
+Alden blinked.
+
+“Now you’re picturing yourself slicing Earth’s moon in half. With a preservation skill. That’s overestimating. And what did the poor thing ever do to you?”
+
+“I don’t have many middle-ground frames of reference,” Alden said defensively. He looked at the presents. “Which one has it in it?”
+
+“Has what?”
+
+“I know you know I want to look at it.”
+
+She stretched her arms over her head. “But you also claim to want your life to proceed at 'Intensity Level Four.' I’m not sure if I should listen to your actual desires or your stated ones. If I were Earth, I’d be obligated to do the latter.”
+
+A moment later, the present with the superhero sigil wrapping paper floated into his lap.
+
+Alden should have known. He dug a finger under the tape and peeled the paper away slowly.
+
+“It comes with a lot of options,” she said. “Do you want me to limit it to the smart choices? Or do you want to see everything?”
+
+“Let me see everything. But…don’t let me make any more dumb decisions today.”
+
+The living room expanded until it was larger than a football field. Startled, Alden stood up from the sofa at the center of the suddenly vast carpeted room. The television was so far away he couldn’t clearly make out the image on it, and floating at a convenient eye-level were hundreds of semi-transparent golden System windows, with what looked like skill names and descriptions written on them.
+
+“No. Not skills,” she said, still sprawling across the couch. “They’re more like seeds that can only grow in the soil of what has already been established within you. These are designed to give your existing skill new facets, but there is nothing here that will alter its fundamental nature.”
+
+Alden stared at the golden window nearest to him and reached for it. He found that he could grab onto it and hold it like a card.
+
+[THE BEARER OF ALL BURDENS]
+
+[You may bear that which has been entrusted to you by the one you choose to serve. You will preserve that which you have mind, strength, and will to bear. You may not lay your burden down.]
+
+“This is your skill. Along with a better translation of what it was intended to be at its heart,” she said. “You have questions.”
+
+Alden held the card, studying the description on it. In a way, though the words left out what he’d been thinking of as important technical details about the skill’s function, they resonated more because of it.
+
+“It’s pretty symbolic.”
+
+“You’ve already noted that magic tends to be. Especially if it’s older.”
+
+The taste of Kibby’s vaguely acidic blood filled Alden’s mouth, and he wrinkled his nose.
+
+“It does kind of make it easier to grasp, I guess, even if some of the rules seem to be left out. For example, there’s no mention of the autotarget for summoners.”
+
+“That’s a newer convenience added on top of the original skill. A largely System-directed bauble. It relies on the fact that by responding to a summons under contract you are on some level choosing to serve that person.”
+
+Alden nodded. “The rule about having to carry things around for them to be preserved is missing, too”
+
+“The fact that you have to walk or hop with things is part of the original design, but it’s not meant to be a permanent feature.”
+
+Alden lowered the card to meet her eyes. “It’s not?”
+
+“It’s more of a geas placed on the new bearer. It would naturally break down over the next few years, but you can speed the process with effort. It’s designed to help you understand on a deeper level what the skill is, so you’ll possess the right mindset by the time you start using it on things harder to grasp than bits of gravel or balls of putty.”
+
+“What exactly is it helping me understand about—?”
+
+“You’ll figure it out if you try.”
+
+Alden sighed. “It’s to make using the skill more inconvenient.”
+
+“That wasn’t even much of a try, and you’re right.”
+
+“To make me more consciously burdened even when I’m carrying something really light.”
+
+“Yes. Part of the skill’s potency comes from the fact that you must sacrifice some strength of your own in order to preserve your burden. Up until now, your burdens have been simple for you to understand—objects. You were aware of them weighing on you bodily. And you were aware of them weighing on your authority…moreso sometimes than others.”
+
+Alden looked back at the card. “You will wholly preserve that which you have mind, strength, and will to bear,” he said. “Earth just translated that concept as ‘tangible item’.”
+
+“It’s not a bad description for a beginner. Your skill doesn’t yet have the necessary facets—” she gestured at the glowing windows filling the room, “—to expand your definition of the tangible and allow you to carry the sorts of things that will make you The Bearer of All Burdens, instead of just ones with an obvious physical shape for you to hold onto.”
+
+No way. Alden thought he knew where this was going, but if he was right, it was overwhelming.
+
+“My friend Boe,” he said. “He assumed the skill would be different, before I chose it and we read the description. He wondered if it would work for things like taking pain or stress away from people.”
+
+“Those are over there,” she said, pointing all the way toward the tiny television and tree at the far end of the room. “With the other enhancements I recommend you avoid for a long, long time.”
+
+“Holy shit,” Alden breathed.
+
+“That’s what you’ll be saying if you decide to carry someone’s pain for them.”
+
+“You mean I’d feel it?”
+
+“You feel everything you preserve in some way,” she pointed out. “You’ve noted it many times before. With roots in sacrifice and symbolism, how else would the skill expect you to hold the burden of another person’s pain?”
+
+“Ah.” Alden stared at all the different options around him in shock. Then, he shook his head and tried to bring himself back down to reality. “Let’s not pick from the bad side of the room.”
+
+There was self-sacrificing, and then there was being a summonable repository for the suffering of any rich wizard with a medical condition. And Alden had no idea whether or not the human morality clauses in the Contract would protect him from that.
+
+“It would be a terrible choice now anyway. That’s quite a heavy burden. Magically. Even though I could create the new facet for you, your skill would be too weak to serve that particular function for more than a couple of minutes. In fact, I would like to suggest that you let me bind most of your free authority back into the skill simply to bolster its strength, rather than spending much of it on new facets.”
+
+Alden blinked. “You mean…adding levels of power to the skill directly? Instead of new features? Is that an option?”
+
+He hadn’t heard of the System doing that for a reward. You leveled up, and then you got a magic prize. But the prize wasn’t extra levels on the skill. Or maybe that was a thing, but not for most skills because they topped out at lower levels?
+
+Well, whatever. It’s an option for me now.
+
+“Until you come up with the positive and artistic metaphor you promised me—it’s like we’ll be giving the whole machine more fuel. Some of these additional functions I’m showing you would require almost all of your skill-bound authority to even activate. They’re not useful to you yet. But you wanted to see everything.”
+
+She gestured at him as if to say, Go look.
+
+So Alden did.
+
+And he finally understood how developing a single skill could be the pursuit of a lifetime. If this wasn’t all some dream he was having in the moment before his death, then he could preserve…anything.
+
+A memory, a disease, a sound. He drifted through the room, trying and failing to understand what some of these new facets would even involve.
+
+He stopped in the far corner in front of a window that said “A Temporal Instant” and wondered, How?
+
+It was grayed-out, in the way many of the options were, to indicate he couldn’t have it right now even if he wanted it. But just the fact that it existed…
+
+Who could even entrust something like that? How would they have one in their possession? And how would I bear it?
+
+In my mind? With my body? Would I have to live in a time loop?
+
+The options that were grayed-out often listed other facets he’d have to choose alongside them to make them work. And some of them were focused not on what Alden would bear but on enhancing him in some way that made it possible to bear it.
+
+“This is so insane.” He’d been wandering for a while, and finally he stopped at a particular option that seemed to be required by a huge percentage of the other facets in the room. It was right beside the sofa, too, which meant it was highly recommended.
+
+[Divide From Whole]
+
+[Aids the bearer in the division of a burden from its source.]
+
+“It’s extremely complex if you want to know how it works, but if you just want to know what it does…it’s the facet of the skill that will allow you to hold certain types of burden away from the bits of reality they are a part of. It goes with this one—”
+
+[Sensitivity]
+
+[Gives Alden the ability to sense the thing he’s trying to divide from the whole.]
+
+Oh, they’re getting personalized now, Alden thought, smiling at the description.
+
+He didn’t mind it. It was pretty much the opposite of the ultra-vague skill definitions Earth had used.
+
+“This sounds like it makes me psychic.”
+
+“Only for specific qualities of the thing you’ve been entrusted to carry.”
+
+That was way less overpowered, but Alden didn’t see any reason to be greedy.
+
+“So I have to take both of these before I can even use the skill on the foggier conceptual stuff?”
+
+“It’s the defogging package,” she said. “You’re going to want it if you ever want to try most of the other expansion options.”
+
+Alden took both of the windows. “So if I take these, and we pour whatever amount of authority you recommend into the core of the skill—”
+
+“Most of it.”
+
+“What’s left to choose from?”
+
+“It depends. Do you want me to assign part of your authority to foundation points for you to enhance yourself physically and mentally?”
+
+Alden resisted his initial urge to shout, Make me STRONG! I want things not to be heavy anymore!
+
+It would have helped to be more physically capable when he was stuck on Moon Thegund. He’d really felt his limits, and even if he’d ultimately made things work, it had been by narrow margins…
+
+Probably that’s not enough to justify something like doubling my physical strength right now, though.
+
+If he was being realistic, it wasn’t like he planned to haul whole people over long distances again anytime soon. He thought he was owed a ton of time off from summonings—
+
+“You’ll be on leave for several months,” she confirmed. “Mental health time for being involved in a disaster beyond your qualifications. On top of that, I’ll be adding additional weeks for your post-affixation recovery.”
+
+He nodded. “I think it would probably be a waste to pump myself up like a Brute, but I do want at least a few points…just to make life a little easier.”
+
+“How about you choose one from these options, then?” she said.
+
+Almost all of the gold and gray windows vanished, and Alden was left with the defogging pair in his hand and four more to pick from.
+
+[Burden of Enchantment]
+
+[Burden of Spell]
+
+[Burden of Wordchain]
+
+[Burden of Secret]
+
+“Only four?”
+
+“Only four that are likely to be useful to someone as weak as you…unless you want to start delving into the darker burdens already?”
+
+“I’ve had enough dark for a while.”
+
+Alden read about the options. They were pretty self-explanatory just from the titles. [Secret] said it would transfer a secret from his entruster to him, though, and he just didn’t see a way for that to work.
+
+“Do they just tell it to me, and then they…forget it?”
+
+“As they speak the secret, it leaves their mind. As long as you are using your authority to maintain preservation on it, it will not return to them.”
+
+“But it does return to them? Like, I drop it somehow? Or forget it? And it just bounces back?”
+
+How? Just how?
+
+“How does your current skill work?” she asked with a smile.
+
+Alden had no idea. But at least he could hold a thing between his fingers and understand that it was working.
+
+“You’ll have to gain a less physical notion of the universe and the way things exist in connection to each other if you really want comprehension. You don’t need comprehension, by the way. I promise the new facets of the skill will work their magic wonderfully and you’ll eventually figure out all of their functions and quirks through trial and error. And yes. The secret bounces back. To an extent. If you hold something like that for long enough, even though it is perfectly preserved, the entruster will no longer be a natural home for it. You would need help from a wizard with quite a lot of esoteric knowledge to reattach it to their mind. It would be much easier to just tell them what they’ve forgotten.”
+
+Alden didn’t get it. But he’d grown up just accepting magic at face value, so he guessed he could put up with it for now.
+
+“So every option works a little differently,” he said. “Depending on what the burden is. And I get to figure it out as I go along.”
+
+She had said the skill’s designers admired it for its versatility. It was a good thing really. It would be pretty boring to keep binding his magic into the skill until he was old and gray, with no variety in function. Just picking up things and holding them better might be useful, but it wasn’t thrilling.
+
+He dropped [Secret]. The main thing it would be good for, he thought, was helping other people hide information they wanted to keep private from mind readers. Which was a neat trick, but he couldn’t imagine finding a lot of opportunity for it right now.
+
+Next, he flicked away [Wordchain]. Taking peoples’ wordchain debt onto himself would make him super popular with everyone and super miserable and super interesting to a certain family on Anesidora.
+
+The Velras would be circling him like flies. He’d go to sleep one night and wake up the next morning to find he was married or adopted.
+
+I wish I could keep whatever I chose to myself.
+
+He looked at the remaining two options. He was surprised that [Spell] and [Enchantment] were different burdens. It seemed like they should go together. But [Enchantment] made it possible for Alden to remove and preserve only the magical enchantments on an object while [Spell] was for unattached spells.
+
+“Can I pull the enchantment off one thing and put it on something else?”
+
+“You’re going to need to study individual enchantments if you want to get fancy with it. They’re all different. The main one on that ring you’ve stolen, for example, could be transferred with minimal loss in efficacy. But only to a nearly identical ring. And only after you’d destroyed the original.”
+
+Okay. So doing that with any degree of certainty was going to take a lot of research.
+
+At first, this one would mostly be good for making something temporarily non-magical. Or I guess…if I held the enchantment away from its ‘natural home’ long enough…outright breaking it?
+
+It sounded like it would be great for busting open magical locks. Or destroying peoples’ really expensive armor. After they entrusted it to him. That would be a fast way to make enemies.
+
+He looked at [Burden of Spell]. “If someone gives me a spell, can I hold it and then cast it later?”
+
+“Again, it’s going to depend on the spell. Yes, in some cases. Many spells have specific targets. Others are more general. Some would harm you as soon as you stopped preserving them.”
+
+Study and practice for either one then, Alden concluded.
+
+“I want them both.”
+
+“That’s good. Eat your vegetables, grow your authority big and strong, and come back for more.”
+
+He groaned.
+
+Finally, he chose [Burden of Enchantment].
+
+“That’s not the one you like the best,” she pointed out. “You’re picking it because you think it will be easier to steal enchantments from items people hand you without them realizing you’ve done anything at all.”
+
+“I’m…not sure how quiet I need to be about myself when I get back to Earth. Being a Rabbit with the ability to preserve things and carry other peoples' spells would make me look awesome. I think it’s awesome anyway. But people are going to ask a lot of questions about what the new talent is and how I got something that powerful that fast at B-rank. And I don’t know what I’m allowed to say. Or what I even want to say.”
+
+Pulling enchantments sounded more subtle.
+
+“With regards to the corruption incident on Thegund, no official request for your silence has been issued by the Triplanets so far. It’s largely unpublicized on Earth, but not a secret. Avowed are fully aware we face a chaos issue of some kind. The more powerful among you are sometimes called to assist with such matters. It was an unfortunate accident that you were caught in that kind of trouble while peacefully collecting berries.”
+
+Alden rolled his eyes.
+
+“But there’s no reason, from a political perspective, for you not to reveal it.”
+
+“That’s good to know.”
+
+“Your discretion in other matters would be wise, though. For your own happiness.”
+
+She stared pointedly at the auriad on his wrist.
+
+He touched it. “It is a problem, then? Like…legally?”
+
+“It’s not illegal for you to have it. Or use it. Or learn magic. It would deeply gratify some to know you are pursuing your course. And it would mortally terrify others. It’s not something you should reveal lightly if you want to enjoy book clubs and live on Earth for a while longer.”
+
+A while longer.
+
+“You don’t think I can keep it a secret?”
+
+“Not for your entire life,” she said. “And even in the short-term you would benefit from assistance. Gaining as much power as you have in half a year is quite noteworthy. I’ll give you an option to think about later. For now, you need to choose the last part of your affixation.”
+
+With a quick mental command, Alden pulled up his enhancement list and examined it.
+
+[Foundational Enhancements]
+
+Sympathy for Magic +4
+
+Appeal +1
+
+Dexterity +0.5
+
+Stamina +0.25
+
+Processing +0.25
+
+- Visual Processing + 1
+
+Agility + 2.5
+
+- Proprioception +1.5
+
+Speed + 1.5
+
+Strength + 0
+
+“What does Sympathy for Magic even do?” Alden stared at the numbers. “I never have figured out what’s good about it, and it’s the biggest boost Rabbits get.”
+
+The expression on her face was full of pity. “You don’t need that one.”
+
+“Why?”
+
+“It makes it easier for you to use magical objects. Lots of Ryeh-b’ts working in all-wizard environments on the Triplanets need to use tools. This helps them see some of the features in the same way a wizard would, without having to possess an authority sense.”
+
+It’s literally for making magic buttons glow brighter, thought Alden, feeling devastated. He’d known that was part of it, of course, but he’d hoped there were other hidden benefits. If those four points had gone into anything else…
+
+“It’s actually borderline detrimental in your case,” she said. “It’s like slapping on a pair of glasses when you already have perfect vision. All it’s doing is giving you attention issues.”
+
+Alden wondered if he was too old to whine about the unfairness of the world.
+
+“Of course not! I know some very old people who would sob if they were forced to eternally waste part of their authority on bad glasses,” she said in a comforting voice. “Look, here are some points for you to spend on better things!”
+
+A glowing number 8 appeared in the air just in front of him.
+
+“That’s all I have left?”
+
+“This is the maximum number I think you should spend here. You can have more if you want, but I’d put all the rest of it into your skill.”
+
+Alden side-eyed her and then tapped on the plus sign beside Processing. It jumped a quarter of a point. He tapped it again. And again.
+
+“I’ll start the affixation process for that point,” she said dryly. “But you’ll still have to wait for it to come fully due. Gradual increases in mental capacity are the way to go.”
+
+“How long?”
+
+“About an Earth year.”
+
+“Still…worth it.”
+
+“Go ahead and add an extra half if you like. If you give me permission, I can even divide it up in ways that will specifically support your skill use and your wizardry.”
+
+Feeling smug about his future as a smarter, faster-thinking Alden, he added the full point and a half.
+
+“How much Dexterity would I need in order to improve my use of the auriad?” he asked.
+
+It was a massive perk to have personalized advice from the one who’d be doing all the modifications to you, instead of just a list of obscure options and the opinions of random people on the internet. Alden assumed most of his future affixations would take place on Earth, so he ought to make full use of this resource while he had the chance.
+
+“How good do you want to be at the auriad?”
+
+He pictured Jel-nor’s fingers flicking rapidly through the patterns right before she blew up Stuart’s foot.
+
+“Quite proficient then. Take two. And at least half a point in Speed. If you confirm that you want it just for the hands, I can make sure everything aligns to support that.”
+
+“Two in Dexterity for the hands. Half in Speed for the hands. Another half in Speed for general purposes.”
+
+“You have three and a half left.”
+
+“Why do they go so fast?”
+
+He divided the remaining points between the things he had wanted more of recently. A point and a half to Stamina, a point and a half to Strength, and the final half in Agility.
+
+He stared at the list now that it included all the changes, trying to imagine what life would be like with it for however long he had to wait until his next affixation.
+
+[Foundational Enhancements]
+
+Sympathy for Magic +4
+
+Appeal +1
+
+Dexterity +2.5
+
+Stamina +1.75
+
+Processing +1.75
+
+- Visual Processing + 1
+
+Agility + 3
+
+- Proprioception +1.5
+
+Speed + 2.5
+
+Strength + 1.5
+
+“Whoever decided human Rabbits had to have Sympathy for Magic and Appeal should be punished.”
+
+“It was a very large committee that settled on that.”
+
+“Lots of punishment then. They can all have those stats, too.”
+
+A moment later, the room disappeared, and Alden found himself standing face to face with her in a patch of light surrounded by an impenetrable darkness. Windows with his choices on them floated in front of his eyes along with the auriad.
+
+“Are you sure about all of these?” she asked.
+
+He took them all in. The stats. The psychic defogging package. Burden of Enchantment.
+
+“I feel good about them.”
+
+She nodded, and they disappeared. “Then it’s time for us to finish you up. Any questions?”
+
+They both knew what his question was going to be, but she waited for him to speak it anyway.
+
+Swallowing hard, he asked, “It’s going to hurt, right?”
+
+This time. And every other time from now on.
+
+“That’s right,” she said.
+
+“What…what will it be like?”
+
+“I will be taking a very dear and essential part of you and twisting it into a new shape. I will be severing its limitless futures for the sake of a single purpose. You will fight back, and you will lose. You will beg me to stop, and I will not. When it’s over, there will still be pain. You will not want to use your power for a while, and it will take some time for you to find your new normal.”
+
+I can still back out.
+
+“You can,” she agreed. “Just this once.”
+
+“No. Don’t listen to that part of me,” he said. “I’ve made the decision, so let’s do it.”
+
+“Yes?”
+
+“Yes. And thanks. For not letting me die. And for the advice. And everything.”
+
+“You’re welcome, Alden.” She leaned forward and kissed him on the cheek. He wondered why it didn’t feel like a strange thing for her to do at all. “For what it’s worth, I think you’ll be a great superhero.”
+
+*

@@ -1,0 +1,949 @@
+---
+id: 772e5f07-955a-5948-a8b5-e70dc6bc34ad
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINE: The Chainer, I "
+slug: 0110-one-hundred-nine-the-chainer-i
+partOf: super-supportive
+position: 110
+ownLength: 6811
+unit: words
+publishedAt: 2024-01-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1481846/one-hundred-nine-the-chainer-i"
+royalRoadId: "1481846"
+---
+
+109
+ 
+The trip back toward Apex was so silent it made Alden’s skin crawl.
+
+
+When he’d first returned to the SUV, Lute had said, “I don’t want to talk about it,” before Alden had begun to develop a decent question. Then he’d told the driver to take them to campus without even asking if it was all right.
+
+
+Of course, it was all right. Alden would have decided to head back himself most likely. Interfering with Manon to help people had sounded difficult but worth a try. Interfering with her and Lute’s family?
+
+
+He didn’t understand how the two were connected. And even if he’d had all the details…he was now worried the scale of the matter was beyond his ability to handle.
+
+
+Have I already stuck my foot too far in it by sending the letters? Can I still pull back?
+
+
+Why on Earth would the message he’d sent prompt Laura to call Lute’s mother?
+
+
+He thought over the snippet of conversation he’d heard in the hallway. He tried to remember everything he knew about the Velras.
+
+
+LeafSong, he thought, letting his head fall back so that he was staring up through the SUV’s tinted moonroof. When Lute was asking whether I minded being his roommate, he told me Aulia mentioned I was assigned there. And it stuck out because he’d heard members of his family say the university name before.
+
+
+At the time, Alden had been more focused on other things. He’d brushed it off. Neha had heard of the wizard university, too, so it hadn’t seemed that strange that the Velras might bring it up from time to time. It was an even more prestigious school than he’d realized when he was doing the job there. He’d decided that hearing an Avowed who was familiar with Artonan culture mention it in passing must be like hearing someone mention Oxford or MIT. It didn’t necessarily mean they had a personal connection to the institution.
+
+
+What if Aulia does, though? Through the boater…
+
+
+He could imagine a few reasons for people to want a way into the school—cozying up to important wizards while they were young, gaining access to powerful families, maybe even something like collecting information on youthful transgressions to save for later. If Joe could take advantage of that kind of thing, then possibly human blackmailers could as well?
+
+
+It’s all guessing.
+
+
+What was less of a guess was the fact that the boater wasn’t just a messed up version of a union for Manon and her friends. The Velras wouldn’t care about something like that. And Alden had wondered on more than one occasion why Manon would care so much about the boater herself. It was odd for a Rabbit who got plenty of work on her own to be so obsessed with monopolizing and controlling the campus posting.
+
+
+The money was amazing. The connections were amazing. And those things gave her a tighter grip on her collection of human assets. Maybe, he’d thought, it was enough of an excuse.
+
+
+But it made more sense if there was something else at stake…for Manon at least. The boater had to be a lot of work to maintain. She shelled out her own money when they were on campus to keep them happy.
+
+
+I freaking hate schemes, politics, and power struggles, he decided.
+
+
+Night had fallen, and a river of oncoming headlights greeted them as they approached the Span. Lute had been staring quietly through his window for the past half hour, hands clenched together in his lap.
+
+
+“You’re not going to say anything?” he asked suddenly. His face was still turned away from Alden.
+
+
+“You didn’t want me to. And I don’t know enough to say anything. Sorry for…” Alden didn’t understand the situation well enough to know if he should apologize or not. “Sorry to accidentally involve you in something that might be bigger and more personal for you than I realized. I thought I was just going to talk to someone I’d met once. I didn’t know.”
+
+
+He’d wanted it to take an hour and then, whether it went well or badly, be over.
+
+
+“Don’t worry about it,” Lute said in a dull voice. “It’s not like it’s your fault. I have such a busy family. I suppose that when someone mentions a shady thing going down on Anesidora, I shouldn’t be surprised if they’re right in the middle of it. I’m living proof that Aulia gets away with illegal crap all the time, aren’t I?”
+
+
+He was still clutching the bottle of mustache glue in his hand. Alden thought he must have forgotten he was holding it.
+
+
+“I have some relatives who think every bizarre thing that happens to someone in our family happens because Aulia has fucked around with fate a few times. They’re wrong. Our lives are full of strange, dramatic, odious shit because Aulia fucks around with everything, every minute, of every hour, of every day. And they let her. They help her.”
+
+
+“Why?” Alden asked.
+
+
+Lute shrugged. “Maybe they all love it as much as she does. Or maybe they just love her. Every time I feel like I get it, a little, I end up being more wrong and more…fucked around with…than before. I see how living with it for decades makes some of them think they’re cursed or blessed or whatever, though. Coincidence feels like magic sometimes.”
+
+
+He shifted around in his seat to look at Alden. “I’d only just realized you didn’t know anything about my parents. I was thinking it was nice that I’d get to tell you about them myself and present it how I wanted to. And fifteen minutes later, you run into Mom—Jessica—doing Aulia’s bidding in the hall of a random apartment building.”
+
+
+“That’s what you wanted to tell me about?”
+
+
+“You didn’t know she wasn’t Avowed,” said Lute.
+
+
+Alden shook his head.
+
+
+“You asked me if I was in a special class for high ranks when I was younger. That’s how I realized. They wouldn’t have put me in that kind of class even if one existed.” His smile was bitter. “If they sorted kids that way, they’d have needed to dig a basement below the school to stuff me in. Do you know what they call people who have Avowed parents but who never get selected?”
+
+
+“No…”
+
+
+“Whiffs. Like their parents took a swing in a game of baseball and missed. Sorry, you struck out.”
+
+
+“That’s cruel,” Alden said quietly.
+
+
+“Whiff is the cutest word for it. Believe me. Mo—Jessica is Aulia’s big whiff,” said Lute. “And Cyril is a whiff, too. His parents are C-ranks.”
+
+
+“Cyril’s your father?”
+
+
+“Yes.” Lute glanced down at the bottle of glue, then dropped it into his cup holder. “I’ve always thought so anyway. But that being true became very unlikely the moment I was selected. I look pitiful and stupid if I pretend I don’t know that.”
+
+
+He drew his legs up toward his chest and put his feet on the dark leather seat. “Do you know what the kid of two whiffs is supposed to be?”
+
+
+Alden could guess.
+
+
+“Human.” Lute gazed up through the moonroof. The flickering lights of drones mingled with the stars. “I was supposed to be human.”
+
+
+After a moment of silence, one corner of his mouth turned up. “Sometimes I wonder if the System enjoyed it. Picking me. Putting its fist right through the middle of my plans and everyone else’s. I know it’s not supposed to enjoy things. But I bet it did that day. Just a little.”
+
+
+“What was it like?” Alden asked. He couldn’t imagine it. He’d grown up knowing he would most likely never be selected, even if he’d had his hopes and Hannah’s theories. But he’d belonged to a whole world full of people who wouldn’t be chosen. To grow up here, where almost everyone was or would be Avowed, had to be a completely different experience.
+
+
+“It was like…someone flung me into the sky when I’d spent my whole entire life teaching myself how to be happy with the ground.”
+ 
+
+
+******
+
+
+Cabin 2 - Libra
+
+
+North Point Marina
+
+
+Anesidora
+
+
+eleven years ago
+
+
+******
+ 
+
+
+One of Lute Velra’s earliest memories was of an argument between his parents. About him. He remembered waking up to the sound of it one morning. The night before, he’d asked to sleep in the big bed because of a nightmare, and the covers were still warm around him when he opened his eyes.
+
+
+The angry whispers and the sound of his own name made him scared and curious at the same time. He hid his face beneath the sheet. It was morning, and the room was bright. In the golden, glowing world under the sheet, he learned new things about himself that he wasn’t old enough yet to understand.
+
+
+His father was mad. His mother was crying.
+
+
+The problem seemed to be that Lute was too short. Or that he was going to be too short in the future.
+
+
+Am I?
+
+
+Such a difficult idea to get a handle on. He was short because he was the youngest person on the whole ship. He was short because he was only just getting started growing. He was cute—the cutest—all the crew said so. And that was a good thing, wasn’t it?
+
+
+“What do you mean you don’t want him treated for it?!” his father shouted. “It’s easier if they start while he’s young! Everyone will torment him enough as it is. Why the hell would you do that to him, Jessica?”
+
+
+Is he mad at me? thought Lute.
+
+
+His heart was beating faster. He didn’t like the yelling.
+
+
+“He’s healthy! He’s completely healthy, and he’s beautiful!” his mother said in a tearful voice. “There’s nothing wrong with him.”
+
+
+“It’s fine when he’s four! It’s going to be something else when he’s a grown man, and it’s not like the System will ever be an option for him. I know you don’t mind looking like some kind of Artonan doll, but my son—”
+
+
+“Fuck you!” Lute’s mother screamed.
+
+
+There was a thump as something hit the wall, and then another. Then another.
+
+
+“Are you throwing shoes at me now?!”
+
+
+“Get out! Leave! Get off my family’s boat!”
+
+
+Lute didn’t understand what was going on. He was trembling under the sheet. His eyes were shut tight.
+
+
+“GET OUT!”
+
+
+The door slammed.
+
+
+A minute later, the mattress sank and a hand fell softly on his covered head. “Did we scare you, baby?” his mother whispered. “I’m sorry. It’s all right. Mommy and Daddy are just having a bad morning.”
+
+
+Lute sniffled. “Is something wrong with me?”
+
+
+“Of course not.”
+
+
+“Am I ugly?”
+
+
+“Ugly?” The sheet was tugged off him, and a finger tapped him on the cheek. “You’re my little prince, and you’re perfect.”
+
+
+“Daddy said—”
+
+
+“Perfect,” his mother repeated, leaning over to rub her nose against his until he giggled. “The most perfect little boy in all of Apex! Has Mommy ever lied to you?”
+
+
+“No.”
+
+
+“That’s right,” said his mother. “Why don’t we go swimming today?”
+
+
+“All day,” Lute said at once.
+
+
+“All day,” she agreed. “I’ll tell them to heat up the pool. Maybe your Grandma will even come play with us.”
+
+
+“Will she buy me another present?”
+
+
+“Do you want her to?”
+
+
+Lute nodded.
+
+
+“Then she will!”
+
+
+******
+
+
+Another of Lute’s first memories, from around the same time, was the moment he realized he wouldn’t ever be able to do magic.
+
+
+Of course he’d always known he wouldn’t be an Avowed. Nobody had kept it a secret. It was a fact about himself, just like all the others. His name was Lute Velra. He was nearly five years old. He liked grapes, mandarinfish, and his music tutor, Mrs. Yu.
+
+
+The System would not pick him. He was an ordinary human, like his mother.
+
+
+He knew but, somehow, he’d missed the fact that being an Avowed was how people did magic. He’d thought they were two separate things.
+
+
+He was in the pool on the afternoon when the news finally crashed down on him. His arms were supported by inflatable swim wings, and his face was in the water so that he could see through the glass bottom to one of the yacht’s sitting rooms on the deck below. His cousin Hazel was there with Grandma Aulia.
+
+
+He pulled his head up. “Can I go see Grandma?”
+
+
+His mother, lounging on the long white deck sofa and typing on her computer, shook her head. “No, she’s teaching Hazel right now.”
+
+
+It felt like Lute had been hearing that a lot lately. “What’s she teaching?”
+
+
+“Wordchains, baby. You know that.”
+
+
+“I can do one. I can do that one you taught me. Sometimes.”
+
+
+When it worked, it made him just a little dizzy, which was funny. And then it made him just a little not-dizzy, which was boring. His mother said it was one of the easiest wordchains there was, but she’d still been proud of him when he got it right.
+
+
+“Teach me the one that makes the water move,” said Lute. “I’ll practice hard.”
+
+
+His mother looked away from the screen. “The one that makes the water move?”
+
+
+Lute splashed and stared up at the flying droplets. The retractable roof was closed over the pool today, with the panels lit up to warm and light the deck.
+
+
+“Like that,” he said, splashing again. “Teach me to do that.”
+
+
+Jessica closed the laptop.
+
+
+“You mean Water Shaping,” she said slowly. “That’s not a wordchain. It’s something Avowed do. Shapers.”
+
+
+“Yes! Teach me!”
+
+
+“Lute, we’ve talked about this,” she said. “You’re not going to be Avowed. You’re like Mommy.”
+
+
+“I know.” He loved his mother. He was glad they weren’t Avowed together.
+
+
+“Only Avowed can be Water Shapers.”
+
+
+Lute stared at her. “I can’t be?”
+
+
+She shook her head.
+
+
+“But why?”
+
+
+“Because the System doesn’t pick many people,” said Jessica. “It picks most boys and girls whose parents are Avowed. But if your parents aren’t, it almost never picks you. And if it doesn’t pick you, you can’t do magic.”
+
+
+“Why?”
+
+
+“That’s just how it is.” She paused. “I’m sorry.”
+
+
+“Aren’t wordchains magic?” There was a tight, sick feeling in his stomach. “I can do the dizzy one.”
+
+
+“They’re not the same. I can perform wordchains, too. A lot of them. Enough that nobody worried too much…” Jessica shook her head. “But I can’t do other kinds of magic. And I never will be able to. And your father can’t. And you can’t.”
+
+
+But, thought Lute. But…
+
+
+Everyone could do magic. Everyone he had ever met. All the adults anyway. Talents, skills, spells, points—these were the things people talked about. These were the things you got for being a grown-up.
+
+
+Avowed meant you went to see the Artonans sometimes. It was all right if Lute couldn’t do that. But making water into animal shapes and flying and reading the names painted on the sides of ships and boats even though they were kilometers away…those were different. Lute wanted those things. He wanted to be like the cabin stewardess who made the bed every morning without using her hands. He wanted to be like the crewman who checked the hull sometimes without ever coming up for air.
+
+
+The current in the pool had spun him around. He kicked his feet to face his mother again.
+
+
+“I can’t do magic?” he asked.
+
+
+She shook her head.
+
+
+“Not even a little?”
+
+
+“No.”
+
+
+“What about when I’m as old as Grandma? Then will I be able to?”
+
+
+“You won’t.”
+
+
+He panicked. It wasn’t okay. It was like someone had stolen his birthday. In that moment, he couldn’t fathom a worse outcome. He was different. He was different in a bad way. And it wasn’t fair.
+
+
+His thoughts rocketed around. “What if I’m good? What if I’m good every year all year? I will be!”
+
+
+Like for Santa Claus.
+
+
+“Lute,” said Jessica, “no.”
+
+
+“What if I try my hardest? What if I practice every day?”
+
+
+Like he did for Mrs. Yu.
+
+
+“Lute—”
+
+
+“Sometimes the System picks people! Sometimes it picks globals!”
+
+
+Yes! This was it. Sometimes Avowed didn’t come from Anesidora. He remembered now! Sometimes they come from other countries all over the world. And those Avowed had parents like his. And—
+
+
+His mother had stood from the sofa. She wasn’t smiling. Her face was smooth like glass.
+
+
+She sat on the edge of the pool. Sometimes, when she wasn’t doing important work for Grandma, she let Lute pick out her clothes and she wore whatever he chose. That day it was a sarong covered in a birds of paradise print and a necklace made of diamonds and conch pearls. She didn’t remove either before she slid into the pool. The fabric of the sarong drifted around her legs as she walked toward him. Her eyes never left his.
+
+
+She cupped his face in her hands. She leaned forward. Their noses were almost touching, but she didn’t rub them together.
+
+
+“Lute,” she said, “you will never be chosen. You will never be an Avowed. You will never do any magic other than wordchains. Do you understand?”
+
+
+“But, Mommy, everybody else…”
+
+
+“Say you understand.”
+
+
+Lute burst into sobs.
+
+
+She held him while he cried. She held him every time he cried about it over the next couple of years.
+
+
+Some disappointments were far too bitter to overcome in a single afternoon.
+
+
+******
+
+
+When Lute was six, his parents got divorced. It was a quiet finalization of something that had been in progress for an eternity by the reckoning of a young child.
+
+
+His father had stopped living with them a few months after the fight Lute had overheard. When Jessica and Lute were on Libra, he was in the Velra mansion. When they were in the mansion, he was in Aulia’s apartment. When they were in the apartment, he was on Libra.
+
+
+Lute visited him a lot, then a little less, then every other weekend.
+
+
+After the divorce, he moved to a large apartment in a family neighborhood. “How do you like my new place, Lutey?” he asked when Lute came by for the first time. “You’ve got your own room! It’s the biggest one!”
+
+
+He would continue to mention that Lute had the biggest bedroom for years, as if it was proof of his love, until finally, at twelve, Lute ended it for good by saying, “Isn’t that because Mom owns this apartment and she had the room with the en suite decorated for me?”
+
+
+She’d had a picture of a lutist installed on the shower wall in mosaic tile. Lute’s monogram was carved into the bed’s footboard. It was crystal clear who she expected to sleep there.
+
+
+At six, though, he was less jaded. He always looked forward to his weekends with his father. Jessica worked a lot. Cyril was never too busy to play. And there were so many other children in the family neighborhood!
+
+
+Lute was used to being around adults mostly. Cousins similar in age were frequent visitors wherever he was, but they were never his visitors. If they were around, it was because their parents had brought them to see Grandma. Lute was expected to let them have their special time with Aulia without stealing any of her attention for himself.
+
+
+“We live with her, baby,” said Jessica, when Lute complained about it. “You get to see her more than any of them.”
+
+
+“I don’t like them.”
+
+
+“None of them?” Jessica asked.
+
+
+“They pretend like my pools belong to them.”
+
+
+“Your pools?”
+
+
+“Grandma said they were mine since I spent the most time in them.”
+
+
+“Oh, I see…” Jessica smiled.
+
+
+Lute thought about telling her the other thing about the cousins. The thing that had happened at the New Years party—how in the children’s dining room, a whisper had gone around, and everyone had started speaking in Artonan.
+
+
+They all took lessons in it. Hazel sometimes bragged that her father and her grandfather—Lute’s Uncle Corin—spoke nothing but Artonan. Which wasn’t true. They spoke English to everyone who wasn’t her.
+
+
+“I don’t speak Artonan,” Lute had told the cousins. “I’m learning Mandarin instead.”
+
+
+Once he’d learned Mandarin, his mother said he could choose his own third language. Anything he wanted. But not Artonan.
+
+
+“I spoke Artonan better than English when I was your age,” Jessica had said. “It was a lot of hard work, and all I had to show for it when all was said and done was a funny accent.”
+
+
+Sometimes, they still practiced wordchains together. When Lute asked. But his mother didn’t seem to enjoy it, and Lute asked less and less.
+
+
+Chainers did wordchains better. Somehow. Lute didn’t quite understand how it worked. But he knew he would never be a Chainer. Even if he tried to grab that little bit of magic for himself, it would always be worse than what his own relatives could do.
+
+
+And when Hazel and Grandma Aulia parted, Aulia always said, “May the warmth of the Mother comfort you until we meet again.”
+
+
+When she said goodbye to Lute, it was only “goodbye.”
+
+
+“Could you all speak English so I can talk, too?” he’d asked the cousins at the party.
+
+
+They’d switched back, but not until Aunt Hikari and Uncle Benjamin came to check on them. By then, they’d been saying things Lute couldn’t understand for five minutes.
+
+
+It’s not our fault you can’t do it. We have to practice.
+
+
+Yeah, Lute, we have to practice.
+
+
+One day, we’re going to be Chainers.
+
+
+“Actually, only some of you will be,” Hazel had informed them all when Hikari finally left. “The Artonans don’t have enough jobs for all of you. Even if Grandpa Corin’s office buys every single Chainer the System offers, some of you are going to have to be something else. Grandma Aulia told me so.”
+
+
+Grandma Aulia seemed to be telling Hazel more and more every day. Things she didn’t tell Lute.
+
+
+“I don’t like any of my cousins,” Lute told his mother stubbornly. “Except Aimi.”
+
+
+“Well, Aimi’s too old to be your playmate. She’s my age.”
+
+
+Lute shook his head. “She says she’s sixteen.”
+
+
+Jessica had sighed through her nose. “The rejuvenator made Aimi look and feel sixteen again recently. She thinks that being heavily tutored made her miss out on the teenage experience, so she decided to take her slot prematurely.”
+
+
+“I understand," said Lute.
+
+
+He didn’t. And he still liked Aimi. One time, when the yacht was out sailing, she’d shaken her butt in the direction of Apex and said, “Look! I’m mooning the moon!”
+
+
+That was enough reason to like someone, wasn’t it?
+
+
+******
+
+
+Jessica Velra took her son into the city often, but they never went alone. Someone was always with them, usually several people. If it wasn’t family members or crew members, it would be strangers dressed in clothes appropriate for whatever they were doing that day.
+
+
+“Our friends for this outing!” Jessica would say, whenever she introduced Lute to a new entourage. “They’re going to help us get where we’re going and make sure we have a good time! Say thank you, Lute.”
+
+
+Lute always thanked them. He never minded having them along. They were all friendly, quiet people who wandered through markets and parks with him and his mom. They carried bags, held seats, and ran back for lost toys.
+
+
+He assumed those things were their purpose in life, and everyone who went out on a sunny day must have some helpful seat holders and runners of their own. Even when he was visiting his dad, at least one of the helpers would appear if they ever left the family neighborhood.
+
+
+One day, when they were getting ready to leave his grandmother’s midtown apartment to go shopping, Cousin Orpheus wandered through the living room as Jessica was giving the quartet of helpers for that day their instructions. Lute was supposed to be practicing on the baby grand piano until the last possible minute, but he was easily distracted by the appearance of the one family member he’d been told in no uncertain terms that he ought to avoid.
+
+
+“Is he a bad man?” he’d asked his mother when the instruction had been given.
+
+
+“No. But he has some troubles,” Jessica had said.
+
+
+“Isn’t he an S?”
+
+
+“That only makes his troubles more troublesome for the rest of us,” she’d muttered.
+
+
+Hazel’s older brother was getting harder to avoid, though. He’d started hanging around Grandma Aulia more often and actually using his cabin on Libra. Today he was in his underwear, scratching at the family tattoo on his ribs while he strolled around the living room, hunting for something. He checked inside boxes and behind books on the shelves. He looked under the leaves of a potted plant.
+
+
+“Orpheus,” Jessica snapped. “I’m busy. None of your special medicine is hidden in this room anymore. Mother hired a sniffer to clean it out last week.”
+
+
+Orpheus yawned and scratched himself some more. He took in the day’s entourage—all standing around Jessica in crisp polo shirts and ironed pants—with an amused look.
+
+
+“Cripes, Aunt Jess,” he said. “Are you afraid someone’s going to kidnap the squirt? If they did, where would they even take him? It’s an island.”
+
+
+Jessica looked over at Lute, who went back to playing Gymnopédie 1 at a slightly too fast tempo.
+
+
+“Our friends will be helping us with our shopping,” she said.
+
+
+Orpheus laughed. “Who hires four high-ranks to help with shopping at Rosa Grove Mall?”
+
+
+He left it there. The true purpose of the helpers might have remained mysterious for a long time after that, if not for his sister. She came over to spend the night a few days later.
+
+
+It was an increasingly frequent event. And a miserable one in Lute’s opinion. Hazel was almost two years older than him. And when she wasn’t holed away with Grandma Aulia drinking milky tea out of painted cups and learning wordchains, she always came to find Lute and be a show-off.
+
+
+He managed to avoid her for a whole day, night, and morning. But then on her second afternoon in residence, Aulia was called away to deal with something and Jessica went with her. Lute, sensing danger, was trying to pretend that he and the piano were very, very busy together.
+
+
+But the thing about Hazel was that nobody was ever too busy for her to interrupt them. She would walk right up to the housekeeper while she was vacuuming and ask her to stop making so much noise. On Libra, she would bother Chef Kabir for “grilled cheese with light butter” even if he was in the middle of making lunch for everyone else onboard.
+
+
+Lute wasn’t allowed to do things like that. The other children in the family weren’t allowed to do things like that either.
+
+
+Hazel…was different.
+
+
+And it wasn’t the bad kind of different, like Lute was.
+
+
+She skipped toward the piano, her braid swinging, and she plinked a few keys at the highest octave, right in the middle of his song.
+
+
+“My Daddy can play the piano,” she said. “I asked if I could have lessons like you, and he said I wouldn’t need them.”
+
+
+She told Lute this every time she heard him play.
+
+
+“Mrs. Yu says practice is important,” said Lute.
+
+
+“The System will enhance my hearing, my pattern memorization, and my mantle dexterity when I get Chainer. So Daddy says I’ll be able to play just about as well as anyone could want after I’ve become an Avowed.”
+
+
+Lute thought “mantle dexterity” wasn’t the right phrase, but he wasn’t sure enough to argue with her and risk being wrong.
+
+
+“Mrs. Yu says…”
+
+
+No. He wouldn’t repeat it. No matter how mad she made him. This one thing, the thing a non-Avowed classical pianist had shared with him, he would keep to himself. So that Hazel couldn’t find a way to ruin it.
+
+
+He went quiet. He tried to ignore Hazel’s toneless plinking.
+
+
+“Grandma Aulia and Grandpa Corin took me to Artona I,” said Hazel. “They took me there to meet some verrry important people. So that I could show them what I can do.”
+
+
+“All you do is have headaches.”
+
+
+Hazel bristled. “They’re not just headaches! I’m sensitive!”
+
+
+She smacked the keys in front of her with a fist.
+
+
+Lute already knew about the trip to Artona I. Everyone in the family—maybe everyone on Earth—knew that Hazel had gone to meet verrry important people. It was all any of the aunts, uncles, and cousins could talk about. Some of them were excited. For some reason. Some of them were panicking. For some reason. Aulia had bought Hazel a brand new cell phone with a matching watch and a pair of hot pink glasses.
+
+
+The display on the glasses mimicked a System interface. Hazel wanted Lute to ask to look through them.
+
+
+He’d die first.
+
+
+It was Avowed stuff anyway, and Avowed stuff wasn’t for Lute. He didn’t understand why everyone cared so much, and his mother said he didn’t need to understand.
+
+
+A lot of noise about a little girl, she’d said. That’s all.
+
+
+“You’re supposed to leave me alone while I’m practicing,” Lute said.
+
+
+It was a house rule, no matter which house he was in. Lute’s music was just as important as everyone else’s wordchain practice or their language lessons. His mother said so, and she enforced it.
+
+
+They’d even put a piano on Libra just for him.
+
+
+“What are you playing anyway?” Hazel asked, leaning over to stare at his sheet music. “It’s so slow. It can’t be hard.”
+
+
+“It’s just a song.”
+
+
+Gymnopédie 1 was his mother’s favorite song. He was going to learn it as perfectly as he could. Mrs. Yu was helping him figure out how to modify it in the places where his fingers couldn’t reach.
+
+
+“It doesn’t matter if it’s slow or fast. You have to think about expression,” Lute said.
+
+
+“I’m about to turn nine,” said Hazel. “You should play Happy Birthday.”
+
+
+“I just turned seven.”
+
+
+“You didn’t have a party.”
+
+
+“Yes I did.”
+
+
+“You didn’t invite me!”
+
+
+Lute had invited his parents, his grandmother, Aimi, the crew, a kora player he’d heard on the street a week before, and Mrs. Yu.
+
+
+No. Other. Cousins.
+
+
+He had been very specific about his guest list, and his mother hadn’t argued. Aimi said she was surprised to be invited, but it was the best family party she’d ever been to.
+
+
+“I didn’t invite you because it was an adult birthday party,” Lute said. “I only invited grown-ups.”
+
+
+“You still should’ve invited me. We’re friends.”
+
+
+Lute missed a note. And then another.
+
+
+We’re friends? Were they friends?
+
+
+“Friends are supposed to be nice to each other. You’re not nice,” he said.
+
+
+Hazel plinked a few more keys. “I’m nice to you. You’re just too little and dumb to understand. I look out for you all the time.”
+
+
+“You don’t look out for me!” Lute said angrily.
+
+
+“Kids, don’t fight in there!” a woman’s voice called from the another room. The housekeeper was spending an awful long time cleaning the bathroom today. Lute was sure she was just avoiding Hazel.
+
+
+“You’re rude and you bother me when I’m practicing,” Lute hissed. “And you never do anything but brag. You’re not my friend, and you’re not nice.”
+
+
+“I don’t brag!” Hazel glared at him. “And I am nice! There are all kinds of things I know about you and Aunt Jessica but I don’t say them just to be nice!”
+
+
+“Liar!”
+
+
+Hazel’s eyes narrowed. Her voice lowered to a whisper. “Orpheus says you’re not allowed out of the house without S-ranks around, and my Daddy says it’s just because Aunt Jessica wants to make sure nobody says anything about you.”
+
+
+Lute stopped even trying to play the song. “What does that mean?”
+
+
+Hazel gave him a superior look. “You’re both whiffs, and so people might say mean things around you. Aunt Jessica takes guards so that those people will be scared to do it where you can hear them.”
+
+
+“We’re not whiffs!”
+
+
+“Yes you are.”
+
+
+“No we’re not!”
+
+
+“Stupid. I bet you don’t even know what it means. That’s what it’s called when you’re supposed to be Avowed and you aren’t.”
+
+
+“You’re making that up!”
+
+
+Hazel pulled out her phone. “I’ve known about you forever. And I don’t say anything because I’m supposed to be nice to you and not make trouble for Grandma Aulia.”
+
+
+Lute was breathing hard.
+
+
+“Here, I’ll prove it. I found this the other day when they were talking about your guards. My new phone doesn’t have little kid settings like my old one because when I went to Artona, I proved I was responsible. I can find anything now. I’m typing in ‘What mean things do people say about whiffs…?’”
+
+
+A minute later, she whipped off her new glasses and shoved them onto Lute’s face.
+
+
+They were too big. He had to hold them in place with his hand. He didn’t want to. He wanted to take them and throw them across the room. But the lights in his eyes…the possibility that Hazel wasn’t lying and she really knew things about him he didn’t…her new phone was a grown-up phone?
+
+
+Are they saying bad things about us? Do Hazel’s parents tell her secrets about us? What kinds of things are on grown-up phones?
+
+
+Lute didn’t have a phone at all. His mother said he didn’t need things like that at his age.
+
+
+“This one,” said Hazel. “Look. It’s a board where just people from here on Anesidora go to talk.”
+
+
+“A board?”
+
+
+“A place online,” Hazel said. “I’ll read it to you since you probably can’t.”
+
+
+“I can read!”
+
+
+Hazel ignored him. “Someone says, ‘I’m seventeen already. What am I going to do if I’m a whiff?’”
+
+
+Lute could read the words himself. They were blazing in his eyes. He couldn’t read them quite as fast as Hazel was, but he could tell she wasn’t lying.
+
+
+“And then the next person says, ‘You need to start praying,’ but that one’s not important. The one after that says, ‘My dad’s so nasty. He loves all the mean whiff jokes.’ Then he writes some out.”
+
+
+She read them all aloud to him one by one. It took her several minutes to finish the list and explain what they all meant.
+
+
+Then she took her glasses back and stared into Lute’s wide eyes. “See? That’s the kind of thing people say about you and your parents. And I knew. And I didn’t tell you. Because I’m nice to you.”
+
+
+She spent the next two hours trying to force him to stop crying. She failed.
+
+
+He hid in his room and sobbed until he was exhausted, and when his mother woke him up, he burst into fresh tears. He was so inconsolable that even his grandmother got involved, and the whole story was pried out of him between blown noses and hiccups.
+
+
+Hazel’s parents and her grandparents were called, and there was a meeting in Aulia’s office that Lute was not privy to. But she lost her phone, her glasses, and her watch. She gained two additional tutors and a uniformed nanny who traveled with her everywhere for the next year, so that she was never left to her own devices, even on weekends.
+
+
+It would be a while before she and Lute were alone in a room together again.
+
+
+Apparently Aulia’s tolerance did have a limit. And that limit was Hazel explaining a joke about how whiff was the sound a tissue should’ve made as it entered the trashcan.
+
+
+…because it would’ve been better if the sperm went there instead of in the whiff’s mom.
+
+
+Later, Lute would decide Hazel was lucky Jessica hadn’t thrown her off the yacht when nobody was looking.
+
+
+Up until then, his questions about how babies were made had been answered with very sweet euphemisms about two people creating a new life out of love. In a world so full of magic, that kind of explanation could make sense for a long time. The entrance of sperm cells and trashcans into the story, forced his mother to have many long conversations with him about delicate family matters.
+
+
+For example, Jessica came from Aulia and a man who preferred to remain anonymous and uninvolved, as a couple of other high profile donors did with their Velra offspring. She had also been genetically engineered to an extent that was illegal on Anesidora. Even on the island, an ethical committee usually would have prevented the creation, for aesthetic reasons, of someone who looked so significantly different from both the average human and her own parents.
+
+
+“Am I short because the scientists made me that way?”
+
+
+“No,” said Jessica. “You’re short because Mommy is short. There were no scientists involved in making you. Just me and your father.”
+
+
+Another delicate family matter—Hazel’s Mommy and Daddy hadn’t made her by themselves. Cousin Hugh was an A-rank and his first wife was an S-rank, and they’d made Orpheus, who was also an S. Then Cousin Hugh married Cady, who was only a C-rank, but she wanted an S baby like the first wife had made. So a Hazel egg had come from Aulia. And a Hazel sperm had come from a hyperbole named Sonde.
+
+
+“I see,” said Lute, after this had all been explained slowly.
+
+
+“Do you?” Jessica asked hesitantly.
+
+
+“Hazel has four parents.”
+
+
+“That’s right.”
+
+
+“Two sperms and two eggs, and Cady carried them all around for nine months.”
+
+
+Jessica sighed. “Let’s go get some grapes from the fridge, and then I’ll try this again.”
+
+
+Eventually, it was all unraveled. Including the fascinating news that Aunt Hikari had been married to Uncle Corin before she switched over to his brother, Uncle Benjamin.
+
+
+Lute pondered it for a while, then nodded. “That was a good decision. Uncle Corin never thinks about anything but Hazel. Aunt Hikari would be bored.”
+
+
+******
+
+
+Lute recovered quickly from the shock of having the birds and the bees, and the Avowed version of the birds and the bees, explained to him all at once. It just became background information, like everything else about his multitudinous relations. But he had a harder time getting over the jokes.
+
+
+They stuck in his head.
+
+
+They were there when he went to sleep at night. And when he went out with the bodyguards. They were there whenever grown-ups whispered something over his head or when the cousins looked at him and snickered.
+
+
+Are they talking about me? Are they saying those things about me? Are they being mean to me and my parents?
+
+
+Worst of all, the jokes were there when he played the piano.
+
+
+“What is this, baby?” Jessica asked a week after the incident, sitting down on the bench beside him and stroking his head. The sheet music for Gymnopédie 1 was in front of him. He’d been trying to read it through the angry red scrawls he’d made across it with a crayon yesterday. “You usually enjoy practice. You can play another song if you want.”
+
+
+“I don’t like the piano,” Lute said quietly.
+
+
+His mother stared at the sheet music for a while. “Maybe a little break,” she said. “How about you take a few days off?”
+
+
+He did.
+
+
+A few days turned into a few more days. When he yielded to practice again, he could hear himself hating the notes. He had been learning piano since he was three. He’d never hated the notes before.
+
+
+Mrs. Yu and his mother eventually had a meeting. The next day, Jessica took him to a concert. The day after that, she took him to see a string quartet.
+
+
+A jazz band. A xylophonist. The kora player again. They started having mother/son brunches at places with live music—piano, violin, cello, saxophone, pipa.
+
+
+Lute became aware that they were instrument shopping, but he was having so much fun he saw no reason to resist the project.
+
+
+“What about that man who plays bagpipes on his sailboat?” he asked hopefully as they left a restaurant with a sitar player.
+
+
+“Bagpipes?” Jessica said with an alarmed look. “Oh yes. Those are so exciting. And loud…I think the bagpipe man might be busy this month.”
+
+
+If the bagpipe man hadn’t been busy that month, who knew what might have happened?
+
+
+As it was, Lute found the harp.
+
+
+The sound was mesmerizing. There were so many different types and sizes. And the big ones were so big.
+
+
+They were special, and he felt special when he held one.
+ 
+That was a feeling that was growing harder and harder to find, so he clung to it. And he played until his fingers blistered.Stolen from its rightful place, this narrative is not meant to be on Amazon; report any sightings.
+*

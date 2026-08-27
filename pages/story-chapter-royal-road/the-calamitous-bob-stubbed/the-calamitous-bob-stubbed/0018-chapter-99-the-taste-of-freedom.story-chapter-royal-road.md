@@ -1,0 +1,427 @@
+---
+id: bb04fca4-5fd8-5be8-8d82-22d8abf2e2a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99: The Taste of Freedom"
+slug: 0018-chapter-99-the-taste-of-freedom
+partOf: the-calamitous-bob-stubbed
+position: 18
+ownLength: 5568
+unit: words
+ownProgress: 5568
+publishedAt: 2022-12-09
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1059559/chapter-99-the-taste-of-freedom"
+royalRoadId: "1059559"
+markedReadAt: "2026-06-29T21:15:18.730Z"
+---
+
+The shores of Lake Hydon were not sand, but fat stones made round and cozy by eons of placid current. Viv’s boots made sloshing sounds as she moved forward at a sedate pace through the clear waters, avoiding the thickest underbrush. There was no hurry. The sky was blue and pink with no hint of rain. Mana had also returned to the levels she expected from populated lands. The flows and eddies of the wild woods had settled into the tame pulsation she associated with her travel through Enoria. In the distance, she thought she could see the tall gray towers of Losserec. Chimney smoke trailed up from a much closer point, beyond some trees to her right.
+
+Viv knew she was not metaphorically out of the woods yet, and she kept an eye out towards the trees. The presence of a nearby settlement indicated that there were no major monsters around since those tended to be quite territorial. Nevertheless, it only took one stone to the skull to become beastling food so she kept her guard up and her shield on her arm. The thing was rather heavy but by the gods was it durable. She poked at it. The many symbols adorning its face helped remind her that, although she was alone right now, there were plenty of people who knew her and had appreciated her enough to try and keep her alive.
+
+It took a good hour of traipsing through shallow waters and the occasional patch of bulrush before she finally found a fishing spot. There, near the water, a small structure stood, barely large enough to protect someone from the rain and store the odd wicker basket. She followed the small trail inland until midday, stopping to eat one of her last eggrolls. Her relief was immense when she came upon a palissade. The village had small patches of leafy vegetables growing around its walled buildings. The plants were protected by traps, if the dead harrien hanging limply from a snare was any indication. Viv looked around and saw that a young man was bringing buckets of water to the field. He was poorly dressed and a little thin. A straw hat hid most of his features.
+
+[Laborer apprentice: not dangerous, one who works hard to learn a trade. Dull. Determined.]
+
+Well, time to meet the locals. Viv took a few steps forward to be visible and announced her presence.
+
+“Hello.”
+
+The young man yelped and turned, stumbling on his bucket. He fell, while their content spread to drown a nearby lettuce. Viv showed her hands in the universal sign for ‘I am not trying to kill you just yet.’ It took a few seconds for the lad to stop hyperventilating.
+
+“Please do not be alarmed. I am just trying to find my way to Losserec,” she said in the most calming voice. Her leadership skill radiated soothing energy until her would-be host stopped shaking.
+
+“Right, sorry,” he said.
+
+Viv waited until he stood up and tried to brush off his trousers. Unfortunately for him, wet mud won that duel. He walked sheepishly closer to the solid gates and stopped, eyeing the edge of the forest with suspicion.
+
+“Errrr, you’re alone, right?”
+
+“Yes, as you see.”
+
+“Oh, alright. Let’s go see my Ma. She’ll have my hide if I don’t finish watering the garden.”
+
+“Got marauders around?” Viv asked to make conversation.
+
+“What? No. Very calm around here.”
+
+‘Ding ding ding’ went the alarms in Viv’s head, but she quieted them for now. Why would a boy ask her if she was alone if there were no marauders around? Because he had some common sense, Viv’s more civilized aspect answered. Even in safe towns, it would be unwise to open your doors to strangers. She settled herself and watched the young man open the gate by unlocking a wood mechanism, probably something to keep the wildlife at bay. She followed him in but kept her shield fastened to her forearm, just in case.
+
+What she had taken for a village was really more an estate, all of its buildings cobbled together from local wood in a rather poor fashion. Even the half-buried house of the unnamed spider village had been better made than those, though there was certainly order and cleanliness. Viv judged that whoever had settled there didn’t have the skills and knowledge to build a house and had tried their best anyway. Another garden filled a quarter of the courtyard, with an outhouse and garden shed sitting against the outer wall. Some of the small ostrich-like creatures she had seen in Kazar walked in an inner courtyard nestled between two one-story structures. It smelled like shit, which was expected when the main fertilizer tended to come out of assholes. A man was chopping wood with precise strikes while a woman hung clothes on a rope. Another was leaning against the wall of the largest block, right in front of Viv. They all stopped when she arrived.
+
+She didn’t like the glint in the eyes of the leaning man but that was fine so long as he kept his hands to himself. She was just passing by.
+
+“She’s lost. I’m bringing her to Ma,” the boy explained. The pair just stood silently while the leaning man pointed a thumb at the door next to him. A couple of steps made of stone and mud led up to the least rickety part of the compound. Viv followed them to a large room filled with tools and bags made of dried plant fiber. A few leather rucksacks and barrels completed the warehouse look. A door to her right led farther in while a large desk – if one were lax with the definition – occupied the back of the room. Behind that desk was a corpulent woman with gray hair. She was inspecting an iron bit between two fingers.
+
+“A lost traveler, Ma.” the leaning man said in a mocking tone.
+
+No. No, fuck that, Viv said to herself. She coated herself in the sneaky cloaky right as her danger sense informed her something was coming from behind. The woman’s face, which had turned into a vicious sneer, now displayed an expression of intense fear.
+
+“She’s a mage! A mage!” she yelled.
+
+Viv kneeled and called the newest spell in her collection. Something smashed into her protected neck and disintegrated as it came.
+
+“Get her!”
+
+“I’m trying, Ma!”
+
+“Hive,” Viv whispered, and the small bubble of hexagons closed upon her like an egg. Something else smashed against it with no discernible result. It might have occurred to Viv that she was not truly in danger. In fact, many things could have occurred to Viv if she had been in any state to pay attention. Instead, she brought up her status to check a single line, a lonely piece of information she had to confirm before doing anything. Her mind wouldn’t let that go.
+
+Divine spark: luck
+
+Viv read that line again and again, thinking something would change. It didn’t.
+
+“Okay. Okay, that’s fine.” she whispered. “That’s just fine.”
+
+Something heavier hit the shield, but the sturdy spell destroyed that as well.
+
+“Go get fire, anything! Kill the bitch!” the woman screamed outside of the bubble.
+
+“Okay,” Viv repeated.
+
+She weaved another two glyphs into the construct, one for expansion and the other for split. She eventually added explosion for good measure. Outside, more people were screaming and trying to kill her. She gave her status one last look.
+
+“Okay, if there is some sort of god of fate watching me right now, this is my way of telling you to stop,” she whispered.
+
+Then she took her frustration at being trapped in a spider invasion, the delay in her trip to Helock where she is still hoping to find a way to survive and possibly find out what happened, her anger at the little hunter’s betrayal, her annoyance with Tarano’s sexism, her outrage at her treatment, the terror of facing the true Necrarch and shoved it in the spell. The hexagonal plates shook with the added pressure and the overload of destructive black mana. Tendrils rose from her form, hissing in the air. The spell hummed.
+
+Viv let go.
+
+“Shatterstar.”
+
+The shield blew up outward, each pane sent out with the speed and destructiveness of a missile. Viv heard the typical hiss of black mana doing what it does best. There were holes in the ground, in the wall, neat, hexagonal-shaped ones. There were three in the pair of men around her. The leaning man’s chest tilted to the side and collapsed before the legs gave out. Another one, she had not seen before. He was tall and quite fat with a truncheon in his hands. He was missing his head. This, Viv observed in an instant as she turned to face the last threat. The woman was holding the ruin of her stomach, gurgling curses. The trained part of Viv’s mind knew she could still be dangerous, but most of her attention still swerved towards the quickly opening door to her side. The lock had been destroyed. It was the larder.
+
+One carcass she recognized as a deer-like monster. The second was also missing its limbs and head, but its skin was pink and greenish. Small breasts rose on either side of the long gash opened to remove the entrails. Ribs under the taut skin spoke of someone who had missed a meal or two. A tattoo adorned its flank.
+
+Viv took a deep breath, it hissed in her lungs.
+
+“Not okay. This is not okay. I am not okay.”
+
+The gurgling sound of the dying woman turned into something else. Viv saw the ravaged skin bubble into new, cancerous flesh, a hell of abscess and chitinous plates. The woman’s face was already turning into a maw of serrated teeth but her eyes were still conscious, for now, and they spoke of a hatred beyond words.
+
+Viv cleaved down with her excalibur spell, cutting the aberrant in half before the transformation could finish. The gurgling stopped.
+
+She made sure she was unharmed and that her shield was properly strapped.
+
+Her vision swam, but only for a moment. Had to push it back. There was something to be done. Absolutely had to be done. She stepped outside, hunkering behind her weapon. The boy who had led her was waiting by the steps, his mouth opened and eyes terrified. He died first. There was a hunter with a bow entering the compound. He drew on her, but Viv’s net was faster. The man managed to dive to the side and avoid the first spell, but not the second and not the third. He managed to shoot once and missed by a meter. Viv moved on, sticking close to the walls. She heard footsteps. She moved to the side and back and the axe man lost his throat and both of his legs. The woman who had been hanging clothes screamed and turned to flee. Viv severed her spine then mercy-killed her with a spell through the head. Someone swore on the other side of the courtyard. Viv saw an old man with graying hair from a half-shuttered window, eyes bloodshot. He dove to avoid her spell, which destroyed the shutter and some furniture behind. Viv lost visual contact.
+
+“Werfer.”
+
+The wood wall lasted less than half a second. She kept going, but felt exposed. A woman came out of another entrance with a desperate scream and threw something, but it bounced against Viv’s shield. She cut the woman in half. The old man bellowed in anguish. Viv knew where he was now, right behind the wall. She threw a blast through it and him. Blood flew in a geyser. It left a spray on another shutter. A freezing cold spread across her chest. Viv knew it wasn’t a physical wound. Just… she was not really okay and this wasn’t really okay either.
+
+Viv kicked the door from where the woman had come in and breached, shield held up. It was a kitchen. A pot bubbled on a fire. Viv didn’t check its contents. The next room over was a barn of sorts, and it smelled like bird shit. A man was sobbing near the entrance, hidden from view, while another shushed him down. She cast two blasts at man’s height. A corpse fell with half its chest missing but the other missed, its target having crouched. She saw the top of a hat from the hole it had left behind. A fork clattered on the ground and the young man ran. He got in her field of fire. The first net caught him in the waist and the second silenced his cries. She went through the wings of the compound methodically but found no one.
+
+Viv stepped outside. The white noise in her head was so loud it eclipsed everything else.
+
+The place was silent. Expanding pools of blood spread across the savaged corpses in crimson halos. The ferric smell was potent and familiar, overwhelming those of the farm. There was an outbuilding. She decided to secure it. On the way, she heard someone whimper in the outhouse.
+
+“Werfer.”
+
+Only a few planks and a pair of shoes remained, the legs severed mid-calf.
+
+Viv walked to the outbuilding and smashed the door in. A chorus of screams answered. Shield up, she moved in. Many targets, stationary. An excalibur would work well. The power filled her hand, molding to her will. Black mana sang in her veins.
+
+Something else filled her chest, not the cold detachment of anger beyond anger, but a warm yet foreboding filling. Golden light reflected in the eyes of the young girl shielding the children.
+
+The light pulled her from herself. She let it because it was familiar and friendly. She saw herself from the other side. The Viv there was a harbinger of doom and terror, a killer whose aura terrified those around at thirty paces. It spoke of powerful talons, of impenetrable skin, of an unbreakable will and a cloud-like breath that would destroy anything in its path. The Viv in front of her didn’t have a pleasant, diplomatic smile. Auburn hair didn’t rest on her shoulders. Her stained dress and missing sleeves, her bandages had disappeared under a nightmarish armor the color of the abyss. Dark spikes emerged from its surface and danced at the whims of an unseen current. Some of them angled towards her would-be victim. Her green eyes were the only visible parts of her body and in them, there were no signs of mercy. The monstrous woman bore a steel shield covered in unknown sigils and she wielded a blade of pure dark energy. The girl’s family was dead. The green-eyed calamity had slain them where they stood, like the avatar of vengeance the girl thought might come one day to punish them for their crimes. The girl only wished the children could be spared, but she knew, looking in those emerald stones, that they would not.
+
+Viv saw herself and the golden light faded, but with the last spark came a tired request.
+
+STOP.
+
+Viv stopped.
+
+She blinked.
+
+She pulled the draconic intimidation back in.
+
+Neriad’s will had come and gone and she felt more herself. There were five children in front of her, four of whom couldn’t be older than ten years old. They were utterly terrified and mewled pathetically. It smelled of piss. Her gaze crossed that of the older one, the only one with a hint of defiance on top of the terror.
+
+“Run,” she ordered, then she turned around and walked out. Right in time to see a man grabbing the dead hunter’s bow. In his teary face, Viv saw hatred and despair in equal measure. Then she saw surprise.
+
+“SkraaaAAAAA!”
+
+The assassination attempt on Viv’s life ended with a faceful of pissed off dragonette. Arthur bounced to Viv with eagerness, her improvised landing pad not having survived first contact with the enemy.
+
+“Ma petite chériiiiie,” Viv gushed, dropping the cloak to hug her timely savior.
+
+She bent out of habit but soon straightened when she realized Arthur’s head rested on her shoulder without issue, though the dragonette stood on her hind legs.
+
+“Wow, you grew up again.”
+
+Spider queen.
+
+Delicious.
+
+Helps.
+
+I am biggest and strongest!
+
+“Maybe one day. Right! Let’s get out of here, but before that I need to wrap things up. Arthur?”
+
+“Squee?”
+
+“See that house there?”
+
+“Squee.”
+
+“Burn it to the ground.”
+
+The dragonling jaw hung open, though stars shone in her eyes.
+
+Whole.
+
+House?
+
+“To the ground.”
+
+“SKREEEEEEEE.”
+
+Viv let Arthur go incendiary on the accursed place and kneeled on the ground. She used black mana to carve the holy symbol of Neriad into a nearby stump and prayed, immediately feeling the drain on her mana as it was offered to the God of Righteous Combat.
+
+“Since you seem to be paying attention,” she said, “or at least enough of it to make me spare cannibal kids, I’d like you to tell whoever’s responsible out there that I have a message. The message is simple. I have had it with the civil wars, succession wars, gender wars, assassination, coups, and power grabs. I am fed up with the monster attacks, the beastling tides and whatever fucked up thing that tree worm was. The necrarchs and abductions and politics and intimidation and mad races under the moonlight can get fucked as well so now I want to make it absolutely clear that I FUCKING HAD ENOUGH. I am going to have a NICE and RELAXING journey to Helock or I swear to fuck the first thing that stops or sidetracks me will get a disintegration ray the size of a Redwood shoved up a natural orifice so filthy the dark gods themselves wouldn’t touch it with a ten-meters-long rusty poleaxe am I making myself ABSOLUTELY FUCKING CLEAR? HUH?”
+
+Nothing answered but the blazing inferno of the dragonfire-wracked cannibal den. Viv coated herself in mana again to block the heat and left, the scaled menace by her side, like death come to punish the sinners.
+
+***
+
+Far up in the City of the Gods, Neriad stood flabbergasted at the message he had just received.
+
+“But… I had nothing to do with any of it…” he complained.
+
+Meanwhile, Maradoc believed he had found his most entertaining outlander to date.
+
+***
+
+Viv left the burning compound behind her, having spared the outbuilding where the kids lived and, hopefully for them, enough to survive and reach the closest city. She couldn’t be arsed to care about the little shits. They were already lucky not to be screaming minced meat like their previous protein supplements. With the way to Losserec clear, she followed a beast trail due east, only stopping to drink a bit. Arthur was exceptionally protective. No spiderweb escaped her vigilance. More than one squirrel perished between her mighty jaws so they wouldn’t threaten Viv with accidentally dropped nuts or something. Viv appreciated the thought, and the incredible babble of explanation that came with it.
+
+I breathe fire on people behind you!
+
+I am behind you!
+
+Then, you are so far!
+
+I know.
+
+So I fly fly fly.
+
+Flap wings very fast.
+
+Only stop for seven snacks and one bath.
+
+Saw a big bird!
+
+But it didn’t see me.
+
+Sneaky dragon!
+
+Did mother see the big bird?
+
+It was so big!
+
+Looked stringy.
+
+That spider tasted weird.
+
+Oh, pretty flower!
+
+I saw a big tree and smelled you.
+
+But you were gone.
+
+Tree says you were here an instant before.
+
+Senile!
+
+Then I find a mountain.
+
+But you were gone!
+
+And I flew over you.
+
+But couldn’t see.
+
+Searched searched.
+
+Oooooh, what is that thing?
+
+Blegh, it stinks.
+
+Found mother again.
+
+I want meat, can we have meat?
+
+“As soon as we’re inside the city, I’ll get to the bank and then we can have some food and a proper bath.”
+
+If mother… if mother needs gold…
+
+Arthur looked despondently at her pouch, nestled preciously between her claws.
+
+I could… lend you some.
+
+Arthur blinked back a tear of horror at the horrible idea.
+
+With small interest.
+
+Moved by her incredible sacrifice, Viv provided scritches.
+
+“I should have waited before explaining that. In any case, parents should lend or give money to their children, not the contrary. I will accept your proposal only if we cannot get to the bank.”
+
+“Squee!”
+
+“No, we cannot burn it.”
+
+The dragonling’s presence brought with it a sense of normalcy that took away the shadows of what had happened. Viv realized she had fired, no, cast, same difference, on fleeing people.
+
+She had almost killed children. That wasn’t acceptable, even if they had consumed human flesh. They were not responsible for their actions. She had just gone into a dark place, something that had never happened before and should not have happened period. Her high mental stats should have protected her. Or perhaps they had, but she had been through a bit too much, a bit too fast. She didn’t think there were therapists around but she did know she needed a serious break from all the bullshit. Hopefully, Losserec would provide that. She knew Helock could be reached by river ship from there, so a nice eventless cruise might be for the best.
+
+Near noon, Viv was warned of the presence of humans by songs. She reached the edge of the nearest copse and found the end of the forest. A meadow appeared before her, a calm expanse of nice grass with a couple of open tents protecting long tables from the summer sun. Women danced in two concentric circles around a smiling one crowned in flowers, her dress long and well made. As she watched, the music accelerated and the circles swapped, the inner dodging under the extended arms of the outer. They moved clockwise, then back. Some swirled and clapped. The song was a joyous one, wishing the bride much success in Enorian. Men were drinking and playing a distance away around a pair of duelists planting wooden swords in pillow armor. Everyone seemed to be having a merry time around the clearing.
+
+First, one of the women noticed Viv, then another. Her presence soon brought the dance to a stumbling halt. The normalcy, and apparent wholesomeness of the situation had been so weird, so… just not what the world had been for a moment. Viv took a step forward and showed her empty hands for the second time that day. A matronly woman approached her, with a fist gripping her skirt close.
+
+Friends?
+
+“Maybe? Be nice,” Viv said. She used the opportunity for a quick inspect.
+
+[Wise woman: not very dangerous, one who follows the way of the physical and spiritual healer. Minor caster. Life mana user. Resilient. Observant. Pillar of the community.]
+
+The woman came close enough and gasped.
+
+“My poor dear, what happened to you? Come with me, quickly. Are you safe? Are you being pursued?”
+
+“Hmmm I think I’m safe and I don’t think I’m being pursued.”
+
+“Come here, come here. Estrella! A chair and my bag, thank you. Irelle, bring me some boiled water, quickly. The rest of you lot better continue that song. And you dear, come. We will take care of you.”
+
+“Hmm. Thank you,” Viv said, taken by surprise by unexpected kindness.
+
+“Is that a marsh drake? Lord Selok has one, in the city. Expensive beast, I heard.”
+
+“She took good care of me.”
+
+“Good, good, pets are family, I always say. Sit there. Let me have a look at you. ESTRELLA! Ah, here she is. Silly girl. Except the head and arm, are you hurt anywhere?”
+
+“Only scraps and bruises.”
+
+“Let’s see everything. Do you want to eat something? Some meat? We have spit-roasted deer.”
+
+“I couldn’t eat a piece of meat right now, but Arthur might want some if it’s no problem.”
+
+“Squee!”
+
+“Aw she’s adorable.”
+
+The girl called Estrella dropped a massive cotton pouch filled to the brim with supplies and dry herbs on the table.
+
+“The men are here.”
+
+“Hmph,” the matronly woman eloquently replied. “Give me a moment, dearie, old Sanle will make sure we’re safe.”
+
+The conversation happened outside of the tent, and could summarized in the local patriarch asking questions and Sanle telling him to check the perimeter and otherwise leave Viv the fuck alone. Viv took the opportunity to realize that she looked like absolute shit. There was a large scab in her scalp, she had no sleeves to speak of, and a large bandage protected her arm on top of quite a few minor lacerations. Her dress was absolutely ruined and covered in several layers of dry blood.
+
+Sanle returned with a washbasin and started with Viv’s head, checked she didn’t have a concussion, then moved to the arm. The wound had bled quite a bit and it was red and angry. Some pus stuck to the filthy cloth. Sanle cleaned everything thoroughly then grabbed a very thin bone needle with some thread. All the while, she had been smoothly interrogating Viv about her circumstances. The witch had no problem telling her about being lost in the forest following a battle, then monsters inflicting the wounds. She shivered at the memory of the necrarch.
+
+“I need to seal the wound shut before I cast, or else you will have a large scar.”
+
+“Hmm, fair warning. Life mana doesn’t work very well on me,” Viv said, and seeing Sanle blink, decided to elaborate.
+
+“I have a strong affinity to black mana.”
+
+“I see? I didn’t know it worked that way, although I could tell you were a caster from, well, please don’t be alarmed but I have inspection as well.”
+
+Viv did nothing, and when the woman realized that she started to work on stitches. Viv endured in silence. Estrella brought her tea, her eyes widening at the sight of the wound. Viv had a sip and found it nice and fruity.
+
+“This isn’t your first wound, it seems,” Lanse commented idly. She finished and decided to wait until everything was clean before trying to cast.
+
+“It tires me a lot, and it will tire me more if your body resists me.”
+
+The matron returned to cleaning the last few cuts on Viv’s back while the witch had some more tea. She should have checked if there was poison but to be honest, if the old woman wanted to poison her, she could just use an unguent or something. Viv had to calm down. This was civilization.
+
+“Look you have been evasive but as far as I can tell with my skill, truthful as well. If you have secrets, you can keep them. I don’t need to know. I’ll help you anyway.”
+
+“Even in times like these?” Viv asked with some surprise.
+
+“The war never reached Losserec. The borderlands have it tough, we only have higher taxes this year but the harvest has been good. Besides, it’s almost over now. The tyrant’s army surrendered at Green Edge. His majesty Sangor is taking cities as fast as he can reach them. He will occupy the southern capital before the harvest festival, it is said. And you are a witch. The other side doesn’t employ witches. As I said, you can keep your secrets or you can share but no matter what, I’ll send you on your way to the city.”
+
+“Are you sure? I could be a criminal,” Viv retorted, unable to accept any kindness at face value right now.
+
+“Criminals don’t have the lingering aura of Neriad about them, dearie. I am not the strongest but I can see very well.”
+
+The old woman nodded to herself and Viv found that she believed her. It was the same with the inquisitors, who shared a similar skill. They could tell no falsehoods themselves.
+
+She decided that she wouldn’t share who she was because she saw no way that would benefit her, but she would tell the woman about the cannibals. They lived only a few hours away and the smoke of her fires ought to be visible already, or would soon be visible. It was better to give her version first.
+
+“I was attacked before coming here. An estate by the river. They tried to kill me and when the door of the larder opened…”
+
+Viv let her emotions twist her traits. It was better to appear genuine than tough here.
+
+“There was a woman’s body, or what was left of it anyway.”
+
+“Are you sure?” Sanle whispered, horrified.
+
+“Completely sure. Young woman. She even had a tattoo near her flank, something like an anchor. I didn’t have a good look.”
+
+“Sardanal’s mercy upon us I knew there was something weird with those FUCKERS.”
+
+Sanle stood and approached the tent’s flap. She gave a few orders to get the local patriarch coming. Viv felt kind of bad for ruining the marriage but, well, cannibals.
+
+A short explanation later and the village sent a runner for the local lord, especially after learning that Viv had left survivors. Honestly, it didn’t look like anyone would have regretted her wiping them out, but Viv had to draw the line somewhere. Besides, as she told Sanle, the children could corroborate her tale. The use of a complicated word made the matron frown.
+
+“Right, let’s see if I can close that nasty gash you got. Could you pull your aura in?”
+
+Viv did so. It just required her to push her mana down her conduits towards her core. It wasn’t difficult, just unpleasant.
+
+Despite her efforts, whatever mana Sanle managed to pull failed to make her flesh comply. Viv’s body remained soaked with magic, and what was hers only let itself be pushed languidly, like a sleepy tiger consenting to moving only after much coddling. Sanle stopped barely a couple of seconds after starting.
+
+“I cannot do it. I will collapse before I have closed half of those. You, my dear, are powerful.”
+
+Viv realized the woman had never asked her name. It was an interesting decision.
+
+“Would alchemical healing work?” the matron inquired.
+
+“It has so far.”
+
+“Oh, good.”
+
+Sanle retrieved a small mending potion from a pouch and applied it with much care, first to her arm and then to her head. Viv was healed.
+
+“Thank you.”
+
+“Think nothing of it you poor dear. Have a quick wash and then join the party. They must have exchanged the vows by now. It’s time to eat!”
+
+“Squee!”
+
+“Oh what a clever little girl you are, yes we have meat for ya. I’ll have it ready, don’t you worry.”
+
+They brought her warm water, soap, and a change of clothes. Estrella barged in on Viv mid wash with clean shoes and blushed, which was not expected. Finally, she was invited to the feast. The married couple welcomed her and jokingly asked her if she was a good omen. Viv elected not to reply so she wouldn’t traumatize the poor darlings.
+
+“The bride is my granddaughter, Nissa,” Sanle explained with pride. Viv gave the expected compliments.
+
+Somehow, the sight of her clean and healthy while Arthur ate meat with all the dignity of the baroness relaxed the guests. They kept offering her apologies and well wishes.
+
+“I always said those were some good for nothing dark gods worshippers!” a white-haired busybody growled at her, “Just like that scoundrel my nephew married. From Koltis. Whores and thieves the lot of ‘em!”
+
+“Yes, grandma, why don’t you have some more liquor?” someone else offered.
+
+All in all, Viv had a good time until mid-afternoon. Even the passing guards didn’t give her more than a passing glance after she was vetted by Sanle, though a few guests whispered about her appearance. No one questioned her eye color to her face. In fact, the going theory was that instinctive casters like Viv were strange and had quirks, which Viv found utterly ridiculous. She didn’t have quirks. It was the spark of luck’s fault.
+
+Eventually, the party winded down for the extended family and a taylor family offered to take her back on their cart. Viv accepted, but not before a farewell to Sanle.
+
+“The custom is to offer gifts during weddings, and when you are a guest as well,” Viv said. “So I’d like you to have this. I’m sure either you or your granddaughter will find a use for it.”
+
+Sanle looked at the tiny green-flecked stone on Viv’s palm. It was the brown core she had found on the weird insect thing. It was probably worth half a gold talent or even more, which still represented a large sum for laborers. Sanle understood immediately.
+
+“I can’t accept this,” she said, blanching a bit. “It’s too much for an old wise woman, dearie.”
+
+“Look, you were here for me at a very difficult time. It would make me really happy if you accepted it, and I’m sure you can find a use for it for your family. Please?”
+
+“Oh, you are going to insist, are you not?”
+
+“And I will leave it on the table if you don’t take it.”
+
+“Then… I accept. Thank you. May I ask your name?”
+
+“I’m Viv.”
+
+“Are you sure you are human Viv, not a benevolent spirit?”
+
+“I am definitely human, and most definitely not benevolent. Thank you for everything, Sanle. I really needed a bit of humanity.”

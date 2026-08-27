@@ -1,0 +1,223 @@
+---
+id: 6f3b3be3-7773-50d7-8a9d-0716368f6fcf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: The Property Hunt"
+slug: 0057-chapter-56-the-property-hunt
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 57
+ownLength: 2073
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3019719/chapter-56-the-property-hunt"
+royalRoadId: "3019719"
+---
+
+The next morning, the search for a new base of operations began in earnest. Ren, Shorgan, and a very bored-looking Lily (who was gnawing on a teething ring that cost more than most peasants made in a year) stood at the edge of the Harbor District.
+
+"So," Shorgan said, pulling out a map. "What are the parameters? And be specific. 'Nice' is not a metric I can work with."
+
+Ren adjusted Lily’s carrier. "I need a mixed-use property. Residential and commercial. It needs to have a backyard—green space, enclosed—for her." He patted Lily’s head. "When she starts walking, she's going to be a menace. I need containment."
+
+"Understood," Shorgan noted. "Child-proof perimeter."
+
+"I also need a warehouse-style space for the storefront," Ren continued. "High ceilings, good ventilation for bulk goods. And separate from that, I need a dining area. Something with a view. Scenic. Oceanfront would be ideal."
+
+Shorgan lowered the map. He looked at Ren over the rim of his spectacles. "You want a warehouse, a restaurant with a view, and a private estate with a garden. In the capital. Near the docks."
+
+"Yes," Ren said. "Is that a problem?"
+
+"It's a tall order," Shorgan sighed. "But... I have a few places in mind. Let's start with the market. You wanted to see the seafood."
+
+They walked down to the water. The harbor was a forest of masts, the air thick with the cry of gulls and the smell of salt.
+
+But as Ren walked through the fish market, his brow furrowed.
+
+He saw cod. He saw tuna the size of torpedoes. He saw barrels of salted herring.
+
+"Where are the shellfish?" Ren asked. "Where are the crabs? The shrimp? The oysters?"
+
+Shorgan blinked. "You mean... the sea bugs?"
+
+"Sea bugs?" Ren repeated, horrified.
+
+"The armored scavengers," Shorgan clarified. "We don't eat those. They're monsters. Vermin."
+
+"Vermin?" Ren looked at the ocean with longing. "Do you know how much a King Crab leg costs in my Country? People fought wars over lobster rights."
+
+"Here, they fight wars with lobsters," Shorgan said. "Red Pincers grow to be three feet wide. They snap boat oars. Fishermen throw them back or kill them on sight. Nobody eats them. The shell is too hard, and the meat is considered... unclean."
+
+Ren’s eyes lit up with the holy fire of a chef discovering an untapped market.
+
+"Unclean," he whispered. "Or... unappreciated."
+
+He looked at the fishermen on the docks. "I need to find a boat that will keep them. I'll pay double for every 'sea bug' they bring me."
+
+[Serves you right. You wanted fresh? You got monsters. Tell you what, I'll unlock the Canned Crab Cakes in the shop if you move your junk out of my inventory. Lily's stuff can stay, but the fifty crates of mayonnaise are cramping my style.]
+
+Ren smirked. "Has anyone ever told you that you are a very charming System? And no. Never shall I turn to processed meat when the fresh stuff is swimming right there. Crab is best when you have to fight it for the meat."
+
+"Master Ren?" Shorgan asked, waving a hand. "You zoned out. Are we looking at properties or planning a crusade against crustaceans?"
+
+"Both," Ren said. "Lead on."
+
+…
+
+The first property was a disaster.
+
+It was located right on the main pier. It was a massive, cavernous stone building that had clearly once been a fish processing plant.
+
+"Spacious," Shorgan offered.
+
+"It smells like a dead whale's armpit," Ren countered.
+
+Even Lily, who usually had a high tolerance for gross things, scrunched up her nose and buried her face in Ren’s chest.
+
+"The smell is... ingrained," Shorgan admitted. "Decades of fish oil soaked into the stone. But the location is prime."
+
+"I can't serve food here," Ren said, walking a quick circle. "Even if I scrubbed it with bleach and prayer, the stench would haunt this place. It would flavor the curry. 'Eau de Rotting Tuna' is not a selling point."
+
+"Fair enough," Shorgan said. "Next."
+
+The second property was a ranch on the outskirts of the city.
+
+It was beautiful. Rolling green hills, a sturdy farmhouse, a massive barn that could easily be converted into a warehouse.
+
+"It's peaceful," Ren said, admiring the view.
+
+[Ren, look at the map. This is in the middle of nowhere. No foot traffic means no customers. Unless you plan on selling curry to sheep, this is a terrible business model.]
+
+Ren sighed. "It's too far. I need walk-ins. I need the city crowd."
+
+"Okay," Shorgan said, checking his list. "That leaves the wild card. I wasn't sure about showing you this one, but... given your requirements, it might be the only fit."
+
+They took a carriage ride along the coast road, leaving the bustling heart of the harbor behind. The road wound along cliffs overlooking the sea, then dipped down into a secluded cove.
+
+"Here we are," Shorgan said.
+
+Ren stepped out of the carriage and stopped.
+
+It was perfect.
+
+On one side of the road lay a pristine, white-sand beach. A small, weathered wooden dock jutted out into the blue water.
+
+On the other side of the road sat a large, three-story building made of dark timber and stone. It looked like an old inn, sturdy but in need of love.
+
+And behind the inn... a forest. Not a scary, monster-filled forest, but a lush, verdant woodland that climbed the hill, enclosing the property in a natural embrace of green.
+
+"The Seaside Inn," Shorgan introduced. "The property includes the beach front, the dock, the inn itself, and ten acres of the forest behind it."
+
+Ren walked onto the property. He visualized it immediately.
+
+"The beach," he pointed. "Open-air dining. Gazebos. Lanterns strung between poles. Fresh grilled seafood by the water."
+
+He turned to the inn. "Ground floor: The store. General goods, spices, and bulk items. Upper floors: Staff quarters. Separate wings for men and women. A proper kitchen."
+
+He looked at the forest. "And back there... a path leading to a private home. A garden for Lily. A swing set."
+
+It was everything he wanted.
+
+"How much?" Ren asked, bracing himself.
+
+"Well," Shorgan coughed. "Normally, a property like this—waterfront, acreage, commercial zoning—would go for a million Dolarion. Easy."
+
+Ren nodded. He had amassed a fortune, but a million was steep.
+
+"However," Shorgan continued, "the current price is one hundred thousand."
+
+Ren froze. "That's a 90% discount. Why? Is it haunted? Did someone murder a clown in the basement?"
+
+"It's the forest," Shorgan said, gesturing to the trees. "It has a... spirit problem."
+
+"Spirits?"
+
+"Nature spirits. Minor elementals. They're sacred to the Elves, so we can't just exterminate them. It would cause a diplomatic incident. But they're territorial. They drive out anyone who tries to live here. Pranks, mostly. Tangled roots, missing tools, eerie whispering."
+
+Shorgan adjusted his glasses. "Unless, of course, you're an Elf. Elves get along with them fine. But no human has managed to hold this property for more than a month."
+
+Ren looked at the forest. Then he looked down at the baby strapped to his chest.
+
+Lily was staring at the trees. She wasn't scared. She was smiling. She reached out a chubby hand, waving at something Ren couldn't see.
+
+Spirits, Ren thought. Sacred to Elves.
+
+"Could you elaborate?" Ren asked slowly. "About the Elves?"
+
+Shorgan looked at him. "You really are from a land far away, aren't you? Didn't you have Elves there?"
+
+"We were... primarily human," Ren lied.
+
+"Well," Shorgan said, launching into a history lesson. "After the Great King conquered this continent a thousand years ago, the Elves, Dwarves, Gnomes, and Beastmen all came under human rule. Humans use Ascension Stones to get classes. Elves, on the other hand, receive their class by bonding with a Spirit."
+
+He kicked a pebble. "From what I gather, Elves can achieve 'Free Man' status through the Unions, but they can never hold a Royal Title. They're second-class citizens, mostly."
+
+Then, Shorgan lowered his voice, dropping a hint that felt heavy with history.
+
+"Apparently, before the Great King, High Elves existed. They were the royalty of their kind. They could bond with multiple spirits. They were powerful. But the Great King... he killed them all. Without the High Elves to lead them, the rest were easy to subjugate."
+
+Ren felt a cold chill that had nothing to do with the sea breeze. He clutched Lily tighter.
+
+"Elves are considered a 'lesser race' now," Shorgan concluded. "But long ago, they were our strongest rivals."
+
+"How long ago?" Ren asked, his voice tight.
+
+"A few thousand years, at least. The High Elf lineage is extinct."
+
+Ren looked at Lily. High Elf. Round ears. A pendant that controlled the weather. A quest from a World-Admin to protect her.
+
+If anyone found out what she was... it wouldn't just be a scandal. It would be a war. She was a deposed queen. A threat to the human hegemony.
+
+"I'll take it," Ren said abruptly.
+
+Shorgan blinked. "The property? But the spirits..."
+
+"I'll handle the spirits," Ren said. "Write up the deed."
+
+…
+
+That evening, Ren returned to the Merchant's Guild guest quarters where he was staying while the work was done. He fed Lily, bathed her, and rocked her to sleep.
+
+The conversation with Shorgan replayed in his mind. Extinct. Killed them all.
+
+"Ana," Ren whispered into the dark room. "Will she be okay?"
+
+[There is nothing to worry about right now. I suspect some kind of powerful magic has been cast on her. A glamour, maybe? Or a biological seal. It makes her look human. Her round ears... that's the disguise. Her lineage probably survived these thousands of years by hiding in plain sight. Breeding with humans, keeping the bloodline dormant until now.]
+
+"Hiding," Ren murmured. "Like a sleeper agent."
+
+[Like a seed waiting for spring. Get some rest, Ren. We need to go to the Workers' Union tomorrow. You need staff. You can't run an empire and change diapers at the same time.]
+
+"Yeah," Ren sighed. "About that... I don't feel very comfortable with the arrangement. Buying contracts? It's effectively slavery."
+
+[From what I gather, it's indentured servitude. It's ugly, yes. But look at the bright side. It's up to you. If you buy their contracts, you become their sponsor. If you pay them well, treat them with respect, and help them earn their keep... You can be their path to 'Free Man' status. You're not buying slaves, Ren. You're buying their freedom.]
+
+Ren looked at Lily, sleeping peacefully in his arms. He thought about the world she was going to grow up in. A world of strict hierarchies, of conquerors and conquered.
+
+"Okay," he said. "We'll do it. We'll be the good guys."
+
+He chose to sleep with Lily clutched tight next to him that night. He needed the anchor. He needed to remind himself why he was doing this.
+
+In the void, I watched him. The corporate drone was gone. The chef was still there, but something else was growing. A protector. A father.
+
+You're doing well, Ren, I thought. Now let's go hire some help and sell some crab cakes.
+
+…
+
+The renovation began the next day. Ren hired a team of Dwarven woodworkers from the Workers' Union. They were gruff, efficient, and expensive, but Ren didn't care. He had the budget.
+
+He stood with the foreman, a dwarf named Borin, sketching plans in the dirt.
+
+"The beach restaurant needs to be sturdy," Ren instructed. "Salt air rots wood. Treat it. I want simple gazebos, open sides, thatched roofs. Rustic but elegant. And a stone fire pit in the center for grilling."
+
+Borin nodded, chewing on a matchstick. "Aye. We use Ironwood for the pilings. Lasts forever."
+
+"The Inn," Ren continued, pointing. "Gut the ground floor. I want shelving. Lots of it. Open plan. A counter here, near the door. The kitchen needs to be expanded. Double the size. Ventilation hoods."
+
+"And the upstairs?"
+
+"Staff quarters," Ren said. "Separate wings. Privacy is key. And soundproofing. I don't want the guests hearing the cooks arguing."
+
+"And the house?" Borin asked, looking at the forest. "You sure about building back there? The boys are nervous. Say the trees are watching them."
+
+"Build the road first," Ren said. "Just a path. I'll deal with the site clearing. I want a cozy cottage. Two bedrooms. A big kitchen. A garden with a fence."
+
+Borin shrugged. "It's your coin, boss. We'll start at the Inn."

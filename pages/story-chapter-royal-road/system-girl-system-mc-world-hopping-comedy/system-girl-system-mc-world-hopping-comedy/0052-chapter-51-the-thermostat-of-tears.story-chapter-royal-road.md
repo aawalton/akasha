@@ -1,0 +1,343 @@
+---
+id: 948adbdc-7ae0-5272-998b-bbc1fee46a43
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: The Thermostat of Tears"
+slug: 0052-chapter-51-the-thermostat-of-tears
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 52
+ownLength: 2624
+unit: words
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2939871/chapter-51-the-thermostat-of-tears"
+royalRoadId: "2939871"
+---
+
+The void was usually a place of quiet, digital contemplation, but tonight, my HUD was screaming at me.
+
+It was 3:00 AM local time. Ren was fast asleep, his brain activity a low, rhythmic hum of delta waves. I, however, was staring at a flashing blue icon on my environmental monitor.
+
+[ENVIRONMENTAL ALERT: RAPID TEMPERATURE DROP DETECTED.][CURRENT TEMP: 4°C (39°F)][TREND: FALLING]
+
+"Winter is coming," I muttered to the empty silence of my own mind.
+
+I couldn't see anything. Since Ren’s eyes were closed, my visual feed was just a black screen. I was reliant entirely on the telemetry data flowing in from his autonomic nervous system. His skin temperature was dropping slightly, but his body was compensating. He shivered in his sleep, curling tighter into a ball on the straw mattress.
+
+He would be fine. He was a grown man with a decent constitution and a stomach full of bison meat.
+
+But then, a terrible thought struck me.
+
+The drawer.
+
+Across the room, in a dresser drawer lined with a single, thin woolen blanket, was Lilith. A six-month-old High Elf. A baby.
+
+Babies are fragile. They don't have thermal regulation skills. They are tiny heat sinks. And Ren, the absolute novice, had put her near the window because he thought the "fresh air" would be good for her.
+
+I watched the temperature gauge drop to 2°C.
+
+Is she cold? Panic fluttered in my code. Is she freezing? High Elves are from forests, right? Do they have antifreeze in their blood? Or is she currently turning into a tiny, adorable icicle?
+
+I tried to ping Ren’s subconscious. Wake up. Wake up, you irresponsible chef. Check the parcel.
+
+Ren mumbled something about "sauce viscosity" and rolled over, pulling the scratchy inn blanket over his head.
+
+I was helpless. I was trapped in the passenger seat of a car driven by a man who was sound asleep at the wheel. For the next three hours, I did the only thing I could do: I stared at the temperature gauge, watched Lilith’s bio-sign (which remained frustratingly stable, but maybe the sensors were frozen?), and worried myself sick.
+
+If that baby gets a cold, I vowed, I am going to delete your entire spice collection.
+
+. . .
+
+Morning arrived with the grey, biting light of a frost-covered world.
+
+Ren woke up shivering. He groaned, his breath puffing out in a visible white cloud.
+
+"Freezing," he croaked, his teeth chattering. "Did the landlord turn off the heat?"
+
+He sat up, rubbing his arms. The room was icy. Frost had formed intricate, fern-like patterns on the inside of the glass window panes.
+
+He stumbled out of bed, his feet hitting the wooden floorboards, which were now cold enough to freeze water. He went to the washbasin. A thin layer of ice had formed over the surface of the water pitcher.
+
+Ren broke the ice with a knuckle—crack and splashed his face.
+
+"Gah!" He gasped, the shock of the freezing water slapping him awake faster than any caffeine. "Okay. Awake. Definitely awake."
+
+He grabbed a towel, scrubbing his face vigorously to get the feeling back. "It's getting cold. I need... I need winter gear. A coat. Maybe a scarf. Wool socks."
+
+He looked at his reflection in the mirror, shivering. Then, his eyes widened.
+
+"The kid."
+
+He dropped the towel. He spun around and rushed to the dresser.
+
+"Lilith!"
+
+He peered over the edge of the drawer, expecting the worst. He expected a shivering, blue-lipped infant. He expected crying. He expected pneumonia.
+
+What he found was a bundle of pure, unadulterated comfort.
+
+Lilith was fast asleep. She was sprawled out on her back, arms thrown wide in a posture of total relaxation. Her cheeks were flushed a healthy, rosy pink. A small bubble of drool expanded and contracted with her breathing. She looked like she was sleeping on a beach in the tropics.
+
+Ren reached out and touched her hand.
+
+It was warm. Not fever-warm, but toasty. Like a fresh loaf of bread.
+
+Ren blinked. He touched his own freezing nose, then touched her cheek again. She was radiating heat.
+
+"How?" Ren whispered, baffled. "It's freezing in here. You're wearing a single layer of cotton."
+
+He gently poked her chubby arm. It yielded softly.
+
+"It must be the insulation," Ren concluded, nodding sagely. "Brown adipose tissue. Baby fat. It generates heat. You are a self-heating unit."
+
+He looked at her with newfound respect. "Efficient design."
+
+In the void of his mind, I screamed. Baby fat? BABY FAT?! Are you serious? No amount of chub keeps a baby toasty in near-freezing temperatures! Look closer, you dense cabbage!
+
+But Ren was already moving on. He bundled her up in the woolen blanket anyway—because redundant systems are good engineering—and picked up the basket.
+
+"We need supplies," he told the sleeping, toasty elf. "I need pants that are thicker than paper."
+
+We left the inn. The town had transformed overnight. The mud was frozen solid. The thatched roofs were dusted with white frost. People hurried through the streets bundled in furs and heavy cloaks, their breath misting in the air.
+
+Ren hit the general store first. He bought a heavy wool cloak for himself, sturdy boots, and thick socks. For Lilith, he bought a padded winter bunting that made her look like a very angry starfish when he stuffed her into it.
+
+He walked back to the room, his wallet significantly lighter. He sat on the bed, Lilith in her basket next to him, and stared at the wall.
+
+"Asset check," he muttered.
+
+[ASSETS: 180 DOLARION]
+
+"This isn't sustainable," Ren sighed. "I can't go hunting for boar with her strapped to my chest. It's dangerous, and frankly, bad parenting. But if I don't hunt, I don't eat. And if I don't eat, I can't pay rent."
+
+He looked at Lilith, who was happily trying to eat the corner of her new winter suit.
+
+"I need passive income," he decided. "I need a revenue stream that doesn't involve wrestling farm animals."
+
+I watched his anxiety spike. This was my moment.
+
+Hey, buddy, I thought. Big Sis needs to reach Level 3. I need to buy my voice back so I can explain basic thermodynamics to you. Let me help you help me.
+
+I opened the backend of the System Shop. I drafted a new UI element—a "Helpful Brochure" pop-up. I made it look flashy, professional, and trustworthy.
+
+[SYSTEM UPDATE: BANKING & CURRENCY FEATURES UNLOCKED]
+
+The notification pinged in Ren’s vision. He sat up straight.
+
+"Update?"
+
+He tapped the icon. A sleek holographic brochure unfolded.
+
+[WELCOME TO THE GALACTIC BANKING INTERFACE (LOCAL NODE)]Unauthorized content usage: if you discover this narrative on Amazon, report the violation.[You are currently located in: THE NATION OF DOLARIA.][Local Currency: Dolarion (D)]
+
+[FEATURE 1: DIGITAL WALLET]Tired of carrying heavy coins? The System Shop acts as a secure, weightless vault. Deposit physical currency instantly!
+
+[FEATURE 2: DYNAMIC CONVERSION]Need a small change? Need gold bars? The System automatically converts your balance into the local denomination of your choice upon withdrawal!Conversion Rate: 1 Gold (GP) = 10 Silver (SP) = 100 Copper (CP).
+
+[NOTE: The System does not support paper-based fiat currency. Metal only. We have standards.]
+
+Ren read the brochure. His eyes narrowed, analyzing the terms like he was reading a vendor contract.
+
+"So," he murmured. "I can put money in and take money out. And it handles the exchange rate?"
+
+He reached into his pocket and pulled out a handful of copper coins—the change from his morning shopping. He held a single copper up to the screen.
+
+[DEPOSIT?]
+
+Ren tapped 'Yes'.
+
+The coin vanished from his fingers in a stream of blue light.
+
+[ASSETS: 181 DOLARION]
+
+"Fascinating," Ren whispered. "It's a molecular matter-to-data converter."
+
+He then tapped 'Withdraw: 1 Silver Piece'.
+
+A shimmering silver coin materialized in his palm. It was warm.
+
+"And data-to-matter," he finished. "Convenient."
+
+He noticed a small line of text at the bottom.
+
+[WITHDRAWAL FEE: 1% Transaction Charge]
+
+"Of course," Ren scoffed. "Transaction fees. Even magic has overhead."
+
+In the void, I was grinning so hard it hurt.
+
+He didn't know the best part. Deposits were free because the System consumed the metal to create SPP energy. But withdrawals? Withdrawals required the System to create matter. The 1% fee wasn't burned; it was my cut.
+
+Every time he used the ATM, I got paid.
+
+If he put money in, I was happy. If he bought things from the shop, I earned commission. If he took money out, I earned fees. It was a closed loop of profit.
+
+Ren sat back, his mind racing. "Okay. The banking is useful. But it doesn't solve the income problem. I need to sell something. Something with a high margin. Something scalable."
+
+He opened the System Shop catalogue. He wasn't looking for weapons or tools. He was looking at the 'Consumables' tab again.
+
+He scrolled past the spices. He scrolled past the flour.
+
+He stopped.
+
+His eyes widened. He zoomed in on the item description.
+
+[Jar of Creamy Mayonnaise (500g) - 20 Dolarion]
+
+"Mayo," Ren breathed.
+
+He looked out the window at the medieval town. He thought about the dry bread. He thought about the tough, roasted meats. He thought about the absolute lack of emulsified oil and egg products in this world.
+
+"They don't have it," he realized. "They have oil. They have eggs. But they don't have the tech. They don't have the whisking stamina."
+
+A slow, predatory grin spread across his face. It was the face of a man who realized he was the only person in the world who knew how to make fire.
+
+"I," Ren declared, "am going to disrupt the condiment market."
+
+He bought a jar.
+
+[COMMISSION: +1 SPP]
+
+He bought a loaf of crusty, stale bread from the innkeeper downstairs.
+
+He strapped Lilith into her basket, hooked it over his arm, and marched out into the cold.
+
+"Where are we going?" he asked the baby. "We're going to see a man about some sauce."
+
+He navigated the streets until he found the high-end spice merchant he had spotted earlier—a man named Gilder who sold saffron and imported wines to the nobility.
+
+Ren walked in. The shop smelled of cinnamon and money.
+
+Gilder looked up from his ledger. He was a thin man with spectacles and a skeptical expression. "Can I help you? We don't sell scrap."
+
+"I'm not buying," Ren said, placing the jar of mayonnaise on the counter. He had removed the label, so it was just a glass jar filled with a mysterious, creamy white substance. "I'm offering you an exclusive distribution deal."
+
+Gilder looked at the jar. He looked at Ren. He looked at the baby, who was chewing on her blanket.
+
+"What is that?" Gilder asked, pointing at the jar. "Face cream?"
+
+"This," Ren said, unscrewing the lid, "is the Nectar of the Gods. It is the binding agent of joy. It is... Mayonnaise."
+
+"May-o-naise?" Gilder pronounced it like a disease. "Is it alchemical?"
+
+"Culinary alchemy," Ren corrected. He took the loaf of bread. He tore off a chunk. He dipped it into the jar, scooping up a generous dollop of the rich, white cream.
+
+He handed the bread to Gilder.
+
+"Try it."
+
+Gilder hesitated. He sniffed it. It smelled tangy, rich, and fatty.
+
+"If this kills me, my guards will have your head," Gilder warned.
+
+"If it kills you," Ren said confidently, "you'll die happy."
+
+Gilder took a bite.
+
+I watched the reaction in slow motion.
+
+First, confusion. The tang of the vinegar hit his tongue.Then, shock. The creaminess of the emulsion coated his mouth.Finally, bliss.
+
+Gilder’s eyes rolled back in his head. He slumped against the counter.
+
+"By the Saints," he whispered. "It's... It's rich. It's savory. It makes the bread... not terrible."
+
+He took another bite, practically inhaling the bread.
+
+"What is this sorcery?" Gilder demanded, wiping his mouth. "How do you get the oil to stay... fluffy?"
+
+"Trade secret," Ren said, tapping the side of his nose. "But I can supply you. Jars. Casks. The nobles will pay gold for this. Imagine it on roasted pheasant. Imagine it on sandwiches."
+
+Gilder slammed his hand on the counter. "I'll take fifty jars. Right now."
+
+Ren smiled. "I can get you a hundred by tomorrow morning. Five silver per jar."
+
+"Three," Gilder countered.
+
+"Four," Ren said. "And I want a 10% royalty on future sales."
+
+"Done."
+
+They shook hands. Ren walked out of the shop with a down payment of 20 Gold Pieces—2000 Dolarion.
+
+He walked down the street, Lilith giggling in her basket.
+
+"We did it, Lilith," Ren beamed. "We're rich. We're the Mayo Kings of Dolaria."
+
+He paused by a street vendor selling skewers of meat. He bought one. He dipped it into the jar of mayo he had kept for himself. He took a bite.
+
+"Oh yeah," he moaned around a mouthful of food. "That's the stuff. I missed you, cholesterol."
+
+He walked back to the inn, his step light. He had solved the money problem. He didn't have to fight boars. He just had to be a middleman for a magical vending machine.
+
+Back in the room, he set the basket down. He sat on the bed, counting his gold coins.
+
+"Asset liquidity secured," he announced.
+
+He looked over at the baby. She was awake, staring at him with those intense, ocean-blue eyes. She reached out her arms.
+
+"You need a nickname," Ren decided. "Lilith is too heavy. Too... demonic."
+
+He picked her up. She settled against his chest, grabbing onto his shirt.
+
+"Lily," he said. "Short. Sweet. Like a flower. Or a garnish."
+
+Lily bubbled a laugh.
+
+"Lily, it is."
+
+Ren noticed the pendant around her neck had slipped out of her winter coat. The blue gem was pulsing faintly.
+
+"And you," he said, reaching for the jewelry. "Let's see what you are."
+
+He pinched the sapphire between his thumb and forefinger.
+
+The effect was instantaneous.
+
+A wave of heat washed over the room. The frost on the window pane vanished in a hiss of steam. The air, which had been chilly, suddenly felt like the inside of a sauna.
+
+Ren gasped, dropping the pendant. "Hot!"
+
+The heat dissipated as soon as he let go, settling back into a comfortable warmth.
+
+Ren stared at the necklace. "It's not just jewelry. It's a climate control device. A magical heater."
+
+He looked at Lily. "You were warm this morning, not because of baby fat. You were warm because you're wearing a furnace."
+
+Thank you, I thought. Finally.
+
+Ren reached out to tuck the pendant back into her clothes.
+
+But Lily’s expression had changed. She looked down at her chest, where Ren had touched her treasure. Her lower lip began to tremble.
+
+Her eyes, massive and blue, filled with tears.
+
+"Uh oh," Ren whispered.
+
+The tears welled up. They defied gravity, clinging to her lashes like heavy, glistening jewels.
+
+"No, no, don't cry," Ren pleaded. "I wasn't stealing it! I was just... adjusting the thermostat!"
+
+Lily let out a hiccup. Then another. And then, the dam broke.
+
+She began to wail.
+
+It was a normal baby cry. It was a high-pitched, resonant sound that vibrated the window glass.
+
+Ren panicked. He rocked her. He shushed her. He offered her mayonnaise (which she rejected).
+
+"System!" Ren yelled. "Do you sell earplugs?!"
+
+I watched the scene, checking my new balance.
+
+[CURRENT SPP: 670.0]
+
+I smiled. The Mayo scheme was brilliant. The commission was flowing. And now, I have to watch my Host try to negotiate with a crying High Elf.
+
+It was going to be a good life.
+
+I browsed the shop for Ren.
+
+[Recommended Item: Soft Rubber Pacifier - 10 Dolarion]
+
+I put it on the main carousel.
+
+Buy it, Ren, I thought, listening to the wailing. For both our sakes.

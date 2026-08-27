@@ -1,0 +1,633 @@
+---
+id: 1140a485-b3db-5e30-83fd-6fef84e5b5bc
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY-FIVE: The Other Half of It"
+slug: 0086-eighty-five-the-other-half-of-it
+partOf: super-supportive
+position: 86
+ownLength: 8028
+unit: words
+publishedAt: 2023-10-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1385333/eighty-five-the-other-half-of-it"
+royalRoadId: "1385333"
+---
+
+85
+
+Boe is all right. Boe is here on Anesidora. Boe is…an empath.
+
+The thoughts flowed through his head again as he dashed toward a wall made of the tough, rubbery material that formed all the impediments on the North of North gym’s morphable obstacle course. The course was popular, and even at Alden’s level, they never let more than three people use the room at the same time. So this slot had been booked days ago.
+
+Glad I didn’t skip. Bobby would have killed me.
+
+The trainer was standing off to the side, adjusting the obstacles ahead of him slightly every time he ran it. The blocks and bars were never quite the same distance apart. The walls were never the same height. Occasionally something would be unexpectedly loose or wobbly, and he’d have to change tactics. There were even sections where puddles of water could appear only to be quickly dried before his next run, though Bobby never made use of those.
+
+Alden popped up the wall. It was narrower than it had been last time, and the second obstacle he was supposed to be scaling from here—a pillar—now had a series  of vertical and diagonal ridges and crevices instead of the horizontal ones that had made the job simple enough last time.
+
+He glanced toward her. She probably thinks I’m not paying attention today.
+
+It was true. It was only willpower that was keeping him from trying to sneakily research U-types through his interface while he did this. That and the fact that he didn’t have two consciousnesses, so he was sure he would plow face first into something.
+
+“I’m not sure I can climb that!”
+
+Bobby gave him a thumbs-up. She was wearing a striped yellow and black tank top and a bobble antenna headband. Even though Halloween was still officially a couple of days away, a lot of places were treating everyone to Halloweek. Including the gym.
+
+Anesidora took a more-is-more approach to holidays. If it was celebrated anywhere on Earth and it was even moderately fun, chances were it would be honored on the island.
+
+“Give it a try!” she called back. “Remember your handholds.”
+
+A minute later, Alden hit the floor, which had gone soft enough that it wasn’t painful. He accepted a hand up from Bumblebee Bobby. “Almost!” she said. “We need to work more on your climbing technique. Underbars next!”
+
+When his workout was over and they had talked about how to adjust his schedule to fit around his new classes and the school gym period that was starting up next week, Alden headed to the showers. He rinsed off under a full rainfall ceiling while New Age music played, and then he dried with a heated towel that had been folded around a pouch of lavender.
+
+This place is too expensive. And I know it. But they do make you feel good about giving them your money.
+
+He never knew what to do with the lavender pouches. If you handed them back to a bathroom attendant, they just threw them away. He’d been keeping them all and tucking them into his sock drawer.
+
+He needed to kill a few more hours, so he sat at the smoothie bar, drinking something that definitely had too much maple syrup in it to actually be healthy, and did his homework. To say he wasn’t into it would have been an understatement. He hadn’t even brought his bag with him when he raced out of the apartment, so he had to do it all through the interface instead of on his computer or tablet.
+
+He skimmed the science reading, then he watched an episode of a show that featured two Artonan farmers arguing over the ownership of a livestock animal that looked like a jumbo mole cricket. It seemed to be part of a historical comedy series about the farmers. Their argument got more and more ridiculous as the show progressed, until by the end of it, the animal got fed up with them and left both farms behind to go live its life in the wild. Where it was almost immediately killed an eaten by a poacher lady.
+
+Not bad, Alden decided. For me. But I wonder if the people who were struggling to describe the weather today are going to be all right?
+
+The banter between the farmers was fast-paced and full of childish insults that probably weren’t frequently encountered unless you lived with a little girl who thought it was hilarious to hear an Avowed call the household appliances things like “ugly butt.” If you were listening without translation, like they were supposed to, wouldn’t it be difficult for people who weren’t used to it?
+
+Instructor Rao did make me recite a poem even though it was my first day of class. Is she a hardass or is she just phoning it in?
+
+He put extra effort into typing up what the moral of the story was so that he could record himself reading the whole thing later and send it to Kibby.
+
+“This is what my class is watching,” he would say. “Since you’re my first Instructor, I wanted your opinion on my work if you can spare me your valuable time.”
+
+She was going to love it.
+
+Finally, he typed up two paragraphs for Instructor Marion’s class about the domestic violence/terrorist situation, feeling ill at ease with the questions it provoked. And with the fact that he lacked the passion and confidence in his own judgment that his new classmates had displayed.
+
+Most of them were really sure that it would be no big deal for them to do the right thing, whatever they thought that was. Even the ones who had incredibly dangerous plans had a lot of conviction about them.
+
+He grimaced down at the dregs of his smoothie and sent the homework in to Instructor Marion. Then he turned his attention to Boe.
+
+He checked the time.
+
+My empath friend needs at least two more hours to get his skill online so he can not be an empath. Maybe even three if I’m being extra considerate.
+
+It was so backward for an Avowed’s skill to be the thing that kept them from being powerful.
+
+What the fuck is up with that?
+
+Alden knew a lot more about affixations now. It wasn’t enough to completely unravel this mystery, but he could make better guesses than he would have been able to before he left home.
+
+He wasn’t born with the ability to read emotions. But he can’t turn it off. And it doesn’t wear out. It could be a passive skill that’s always on like a stat point…? No, it would have to be a weak effect compared to the amount of authority bound into it for that to work, I think, and it doesn’t sound weak at all.
+
+So he’s been changed. It’s permanent. Brain alteration? Is it a specific upgrade to Processing? Or is it more like being open to other peoples’ emotions is now a part of Boe’s self on the existential level?
+
+That’s…
+
+He guessed how it had been done didn’t matter as much as the fact that it had been. Without Boe wanting it. He would never have chosen powers like that. Yet he didn’t seem particularly angry at the System or the Artonans. Alden could only ever remember there being a normal, Boe-ish amount of negativity and suspicion toward either party.
+
+And if he had already been forced to affix prior to Alden’s own affixation…
+
+There was nothing, thought Alden, staring blankly across the counter at the smoothie bar’s frozen yogurt machine. When I first told him I’d been chosen, he didn’t want me to talk about it over the phone, but that makes complete sense now. He’s unregistered himself, and he’s cautious about it because he doesn’t want to get deported. That’s an Earth-based problem.
+
+And when he was encouraging me to seriously consider being unregistered and choosing a quiet class…that was an Earth-based concern, too. He didn’t want me to leave Chicago.
+
+He wasn’t actually very negative on me being an Avowed at all.
+
+Maybe it’s just because there’s not much choice in the matter, so why drag me down. But you’d think if he’d been forced to have painful powers that are at odds with his personality, there would be some serious bitterness and hatred toward the System.
+
+Alden didn’t think he was so clueless that he couldn’t pick up on Boe’s feelings at all.
+
+I must be, though. At some point—probably last year?—he was selected and had those powers dropped on him all at once. And I didn’t notice.
+
+He tried to remember a moment when Boe might have changed. A period of particularly terrible moods, evidence of him struggling more than usual to put up with their classmates, a reluctance to spend extended periods of time with Alden…
+
+I can’t think of anything. Am I unobservant? Have I been that bad of a friend?
+
+Maybe if it had happened around the time Hannah went missing?
+
+That could have been it. I guess the next question is how do I even be a good friend to an empath? Especially an empathic Boe?
+
+Boe could get tangled up in other peoples’ emotions so badly he had to evacuate to his own personal nowhere, so…okay.
+
+Emotional control was not Alden’s best quality these days. He had far more good moments than bad ones. But the bad moments could be intensely bad. Thankfully they mostly came at night, and he just dealt with them in the privacy of his room. But if Boe was sleeping next door, then obviously…
+
+If he’s having a hard time and he’s exhausted the authority bound into the barrier skill, what do I do? If I’m in a regular level mood I can offer to Peace of Mind it. And if I’m in an Intensity 99.9 mood, I’ll leave.
+
+Oh yeah, there’s also…
+
+He pulled up the contract he’d signed with the Velras back in February. There, attached to it whether he wanted them or not, were four wordchains that weren’t available anywhere he could find on the internet. There were even videos of various pairs of hands hastily performing the associated gestures in bizarre locations. Someone had filmed their fingers swirling around with a grocery store’s meat cooler as the backdrop.
+
+Yes, Grandchild Number Forty-Three, Alden imagined Aulia saying on a phone call. I have decided to gift Feather’s Touch to that boy Aimi manhandled. I’m sure he will love it. Perform it immediately. I don’t care if you’re standing in front of a shelf full of pork chops! Just do it!
+
+One half of Feather’s Touch made your skin extremely sensitive. The other half would make you numb. It was nice that both halves had upsides in addition to downsides, but Alden wasn’t interested in it right now.
+
+The only one of the four that might be helpful for dealing with emotions was…
+
+This one. Purposefulness.
+
+It seemed to be something that would improve your focus. So maybe you could use it to control what your attention was on if you were spinning out emotionally. Like focusing on a task instead of whatever was upsetting you? The Velras had conveniently forgotten to describe the effects for him themselves, so he had to guess based on the Artonan words in the chain.
+
+Probably they thought I would get in touch with them for more details and help learning to do them?
+
+Alden was curious. About the chains and why some of them were even made exclusive in the first place. But it was a resistible curiosity.
+
+This one would be good, though. He’d shift learning it higher up on his overstuffed to-do list.
+
+Thinking about the Velras reminded him of an annoying new problem that had to be managed. Someone was running around Anesidora who could call in your chain debt prematurely. And she was willing to do it, too.
+
+Which meant Alden now had to consider the consequences of whatever debt he was carrying hitting him unexpectedly. The blowback from the wrong chain at the wrong moment could screw you over in a big way.
+
+It wasn’t like he expected Hazel to be hiding around every corner waiting to snipe him. But usually people carried debt for quite a while. It wasn’t likely Alden would run into the Chainer at any given moment, but the chances of a random meeting happening over the course of days or weeks were much higher.
+
+And Peace of Mind’s negative half is so…
+
+[Hey,] he texted Boe, [I’m taking a little longer than I expected. Finishing up homework. I’ll be back in four hours.]
+
+Then he headed upstairs to the spa.
+
+He’d seen it on his first tour of the facilities. He’d admired it, just like he had the rest of North of North. But he’d never actually used a spa before, and he hadn’t expected that to change anytime soon.
+
+It’s so fancy. He watched jellyfish drift through the aquarium wall that divided the check-in area from a lounge where Avowed in robes drank herbal tea and waited for their scheduled treatments. I wonder if I could bring Connie here or if it’s members only.
+
+He thought he recognized several famous people, though they looked different in terrycloth and slippers than they did in their superhero get-ups. According to local gossip, more big names than usual should be around over the coming days, since a battle group was being called in to deal with one of the annual demon destruction events. There was much more news about it here on Anesidora than Alden had ever experienced at home, and he didn’t think it was just his own personal interest in what was going on that made it feel that way. Mentions of it were everywhere.
+
+But local interest was still mostly on who would be involved and how they would get along with each other and match powers, not in how the fight would go.
+
+A demon would appear in the offshore facility where that always happened. A select best-of-the-best group would destroy it. Nobody else would get to see anything interesting. It had happened so many times before that it wasn’t worth worrying about.
+
+Alden did learn that the battle group spent several weeks away from their other jobs, preparing. It was something he probably should have known just because it made logical sense that you couldn’t have a mass of disparate powers clashing. But news about the demon allotment had always been such an after-the-fact blip before now that it had felt like something that lasted only a single day.
+
+Do the Artonans even need us to kill a random demon for them or is it some training thing that the Avowed-should-be-saviors faction insists on?
+
+If giant, powerful demons were anything like the grasshoppers then they didn’t seem like something that would be particularly shippable. He understood very little about teleportation or the System’s abilities, but he couldn’t imagine that dropping a chaos monster on a specific location was anything but hell on magical resources.
+
+A man in one of the spa employee uniforms stepped around the aquarium and took a position behind the check-in desk. A special notification below his name tag on Alden’s interface told him that the guy was non-Avowed. It wasn’t really necessary information in his opinion. It wasn’t like superhumans went around greeting each other by swinging magic swords or exchanging deadly blows.
+
+Maybe it’s more to explain why he has to use tech for everything, so that people don’t think he’s being rude.
+
+That did seem likely after Alden talked to him. He read his smart watch for the translation, and nodded.
+
+A few minutes later, Alden had his own personal relaxation room. There was a heated lounge chair. Three walls were screens that would display different landscapes if he wanted, and the fourth looked out over the meditation garden. There was a “sound therapy” playlist and a mini fridge full of drinks that looked like liquefied salads.
+
+Seems interesting. I don’t expect to enjoy it much.
+
+He settled into the lounge chair, took a breath, and said the sacrifice half of Peace of Mind.
+
+Yeah, yeah, I know, he thought at the gremlin. I’m a good boy. Paying my debts right away.
+
+Alden suspected the next three hours were going to suck, no matter how great it was to be able to pay off the debt in private, in a spa.
+
+The thing about the bad half of Peace of Mind was that it hit above its weight. The calming half of the wordchain just settled over you and took the sharp edges away, so he was sure that its counterpart only sharpened all those same edges by an equal amount. On its end of things.
+
+But the human brain was primed to fixate on danger and negativity, so that you’d be inspired to pay extra attention to anything that could hurt you.
+
+In practice, it meant that one wrong, slightly too magnified bad thought could spiral into something that had less to do with the magic of the wordchain than it did with your mind and body overreacting to it. Alden had taken advantage of that to fan his own fear when he was running with Kibby.
+
+Now, though, there were no advantages to be had—only his own heart rate elevating for no real reason and a sick feeling of dread making his stomach clench. He decided to combat it by watching Kibby’s latest batch of videos. He pulled up his current favorite.
+
+It was full of evidence that the Quaternary’s team of wizards and Avowed were spoiling her. He tried to focus on every detail, to notice things he hadn’t the last time he watched it.
+
+“Hello, Alden!” Kibby said, a smile brightening her whole face. “This video is about scarlet ryeh-b’t females and Stu-art’h, who is the son of the Primary and the nephew of the Quaternary, and how he named one after you. I have been thinking about whether that was funny-mean of him or not.”
+
+She looks so relaxed.
+
+Alden had hardly ever seen Kibby look relaxed unless she was actually asleep. It was beautiful.
+
+She was in the travel dome’s medical area, which had been turned into her room. And it was such a wonderful child’s room. She had stuffed alien critters on her bed. Except for the size, they were all anatomically detailed and realistic. Either Artonans didn’t go for cartoonish stuffies, or Kibby herself didn’t. The toys she and her sister had played with at the lab had been similar.
+
+In one corner, a brand new learning cushion, a short desk, and a vase full of promise sticks made a small classroom for her. There was a projection on the wall that scrolled through pictures she’d chosen. Half of them were still-frames from Alden’s video messages to her. There were a lot of close-ups of Kraaa and Rrorro, and several pictures of clouds flashing with green light. They looked innocent until you realized that they were images captured from space of the lab blowing up.
+
+She definitely has shots of the crater she made somewhere, and she’s just saving them because she hopes I’ll ask to see her work.
+
+“First let me show you my hair,” said Kibby, angling her head and her tablet. “Rrorro is learning braiding, but I don’t like it as much as yours.”
+
+That is just pure favoritism for me, thought Alden. He’d learned to do the French braid for her when he realized that having her hair done made her happier. But Rrorro must have been an overachiever in all things, because the healer had gone for some advanced level basketweaving with ribbons.
+
+I could do that now that I’ve had more auriad practice. I can totally beat Rrorro. Her species doesn’t even have hair.
+
+Kibby popped back upright.
+
+“Scarlet ryeh-b’ts are known for their merry natures, their large sizes, and their athleticism,” she said in an instructive tone. “So maybe the son of the Primary was not being as rude as I thought at first when you told me he had tried to replace your presence in the universe with an animal.”
+
+She paused. “It would be better if he were not being rude. It would be unfortunate for the son of the Primary and the nephew of the Quaternary to be a rude and thoughtless person.”
+
+My next video is clearly going to need to be in defense of Stuart. She is so judgey. I think I should have explained that Other Alden is awesome instead of just mentioning her in passing.
+
+“You are merry, large, and athletic—”
+
+Merry? Alden shook his head.
+
+“And your coat was red. Perhaps Stu-art’h was being funny-mean by naming such a ryeh-b’t after you. As friends do. So it may be all right for you to talk to him socially.”
+
+She went on discussing Stuart’s behavior and ryeh-b’ts for a while. Alden focused on noticing other things about her and the room around her. She had a rolling space heater. One of the wizards with Alis-art’h must have been doting on her, or else the Knight herself was, because Kibby was wearing one of their magic rings on a chain around her neck.
+
+On her way to being a wizard for real. I know that must make her so proud. She’s…
+
+Oh. He’d forgotten. There was a thought he’d been avoiding every time he watched Kibby’s videos. Not…not a terrible one. Definitely not an urgent one. But here it was, jabbing at him with those unnaturally sharpened edges.
+
+She’s going to want to be a knight.
+
+“That’s more than a decade in the future,” he said loudly and quickly, trying to kill it. “She’ll live a whole new life before then. She might take one look at all the plants and animals on Artona I and decide she wants to be a biologist.”
+
+She might like her authority sense so much that the idea of doing that to herself sounds like insanity. Joe told her nobody wanted to be a knight when they actually grew up.
+
+Joe doesn’t understand her at all.
+
+Or maybe he’d understood a different Kibby. One whose family hadn’t died in such a hideous way while she watched.
+
+She’ll want to do it. And they’ll probably let her.
+
+He didn’t know how the Artonans figured out the knight candidate thing. Obviously the Rapports had some private schooling going on, at least for the children of current knights. But they must have had some way to welcome in other wizards. Most likely with open arms.
+
+He could be completely off-base, but he really doubted there were masses of qualified volunteers being turned away.
+
+Maybe she sucks at magic too much to be a knight.
+
+Unlikely. After all, affixations were practically the cure for sucking at magic. Aliens sucking at magic and Artonans giving them a way to do it easy-peasy was the cornerstone of the whole Avowed/wizard relationship.
+
+Even if there’s some elitist rule about who can be a knight that I don’t know about…Alis-art’h will just smash right through it for Kibby if she decides to.
+
+And Alden was sure she would decide to. How could you spend months living with Kibby and not think she was the absolute best?
+
+I don’t want it for her. I want her to do magic and be happy. I want her to go to some posh school like LeafSong and show up every last one of those wizard-raised prodigies. I want her to get her own lab one day, and I want it to be twice as big as Joe’s, and I want her to have so many friends and fun hobbies that she can’t figure out how to balance them with her deeply fulfilling work as the universe’s greatest scientist.
+
+I don’t want her to fix chaos outbreaks. I don’t want her to face whatever “the really bad kind” of demons actually are.
+
+I don’t want her to know what the affixation feels like.
+
+Alden knew you couldn’t make another person’s major life choices for them. Kibby was smart. She’d get smarter. She’d know so much more by the time she had to make her decision. And she deserved to become whoever she wanted to be.
+
+But knowing didn’t change how he felt.
+
+And what he felt was an anxiety that was rapidly ratcheting up toward panic. And with the panic came a flood of his other greatest fear hits.
+
+It’s only six months before I’ll start getting summoned again. Something awful could happen to me. If I don’t get stronger I could be in danger. If I do get stronger I’ll have to affix sooner. I’ll have to feel that sooner. Idon’twanttogothroughthatagain.Ican’t.
+
+Fantastic, he thought, holding the sides of the fancy heated lounge chair so tightly his hands ached. So this is what the bad half of Peace of Mind is like for me these days. What a treat.
+
+He forced himself to breathe in through his nose and out through his mouth.
+
+What if this doesn’t ever get better, and I’m fucked up forever?
+
+That thought set off a whole new string of imagined horrors. The only good thing about them was that they were much less realistic and logical than the others, so he could distance himself from his own crazy a little more. It culminated with a fear that someone would walk into his relaxation room here, see the state he was in, and they would stuff him into Avowed jail.
+
+Because that was obviously what the authorities did to upset teenagers.
+
+By the time the three hours was up, Alden was exhausted with himself. Fortunately, he was also too tired to keep going without the little extra oomph from the chain driving him.
+
+He could tell it was over when he had his first positive thought in a while that wasn’t immediately followed by a panic spike.
+
+Boe’s all right. I’m all right. Jeremy and Connie are fine. Kibby’s with good people, and she’s happy.
+
+Finally, they were all accounted for.
+
+********
+
+Alden was still less emotionally solid than he would have liked to be when he made it back to the dorms, but Boe had texted to say his shields were fully up. It should be fine.
+
+It was night, and the halls in The Warren were full of people decorating their doors for a spookiest apartment contest. He stopped to compliment the guys in 912. None of them were from countries where Halloween was widely celebrated, but they’d really gotten into the spirit of things and gotten hold of paint that Alden hoped was temporary.
+
+There were dark red stains on the floor that made it look like someone had dragged a body down the hall to their apartment.
+
+When he stepped into his own place, the first thing that hit him was the sound of the pinball machine. He shut the door quickly. Boe was leaning over the game, and behind a new pair of brown tortoise-shell frames, his eyes were fixed and focused.
+
+“You’d better not be beating my high score.”
+
+“I was going to,” Boe said without looking at him. “Because I thought it would be funny if you came back, and I had put the cat’s name in place of yours. But it’s not happening for me. Why are you so good at this?”
+
+“I have hidden depths.” Alden walked over to him. “Pumpkin fro-yo? It’s the seasonal special at the gym.”
+
+Boe abandoned the game and blinked at the cone of dark orange soft-serve. “Did you just pull ice cream out of the pocket of your pants?”
+
+“Yogurt. They’re brand new pants. I had to buy all new workout clothes because I fled the apartment without thinking hard enough earlier.”
+
+Boe took it from him and bit into it.
+
+“Please note that the curl on top was perfect. Before you ate it just now.”
+
+“Are you seriously fishing for superpower compliments?” Boe grinned. “It’s cool.”
+
+“Don’t strain yourself.”
+
+“It’s very cool.” Boe examined him. “What kind of training are you doing at the gym? You look worn out.”
+
+“Obstacle course running today.”
+
+“Fun?”
+
+“Actually yes. How’s your empathy?”
+
+Boe’s face scrunched. “That sounds so wrong. I guess people knowing you’re an empath means they ask things like that, though? It’s safely muffled. You’re free to hate me freely if you want to.”
+
+He said it jokingly, but Alden wondered…
+
+“I’m still not mad that you read my emotions earlier. And I’m not upset anymore that you didn’t tell me about being an Avowed.”
+
+“Technically I’m not,” said Boe.
+
+“Not what?”
+
+“Avowed. I didn’t agree to the Contract. Yet. I still can anytime. The System throws it in front of my eyeballs every morning exactly two minutes after I wake up. You have to give it credit for determination. But you can’t be Avowed if you never make a vow, right?”
+
+Alden stared at him.
+
+“Sorry. I’m being pedantic. I know most people call Contract refusers Avowed anyway.”
+
+“I wasn’t thinking that. I was just realizing that automatically affixing means you didn’t have a chance to say yes or no to start with at all.”
+
+Boe took another bite of his yogurt. “Correct. So it keeps offering. In case I want to sign up and get with the program.”
+
+“You didn’t discourage me from agreeing,” Alden said slowly.
+
+“I seriously wish I had. So fucking much. A refuser wouldn’t have gotten that job.”
+
+Alden let the obvious question hang between them.
+
+“I thought Gorgon might have intended for you to be summoned more,” Boe said, “to develop the skill somehow. Since he picked Rabbit. And I thought it would be okay for you. No, not even that…I thought you would probably like the occasional trip to the Triplanets. You’ve always thought aliens were interesting. And I assumed that no matter what your skill was, even the worst Rabbit assignments wouldn’t be bad.”
+
+Fair enough, I guess. I thought that, too.
+
+“I promise I would have told you if I had some secret knowledge about it being the wrong choice. I would agree to the Contract myself if I had better powers for it. A high-paying job once in a while would really help me out. I was a little envious that you could go the usual route.”
+
+Oh. “You’re a refuser because you don’t want to be asked to use your skills. At all.”
+
+“Skill Number 2,” said Boe. “Specifically.”
+
+“The forcing and magnifying emotions one.”
+
+Boe nodded. “It can be dangerous. For the people I use it on and for me. Even if they asked me to do something pleasant with it, there are problems. By not signing, I have to accept some inconveniences, but it means I’ll most likely never be called unless there’s some specific emergency.”
+
+“What kind of problems do you—?”
+
+Boe turned back to the machine. “So. Pinball. Show me your trick.”
+
+It does sound nasty. Being forced by the Contract to force someone else to feel a certain way. If it was helping someone calm themselves down after a nightmare, great. If it was terrorizing a prisoner while they were being interrogated or something similar…yeah, I wouldn’t want to roll the dice on that either.
+
+He let Boe change the subject and went to stand in front of the machine.
+
+“Behold my trick,” he said, as a new game started up.
+
+Boe watched him. After a couple of minutes, he asked, “Did you get a lot more points in Speed?”
+
+“Just a little. And Dexterity. But I asked the Artona I System to pay special attention to my hands.”
+
+Boe was quiet while he finished the yogurt. The pinball machine spat out two more balls.
+
+“I give up. I can’t think of any reason for you to do that,” he said.
+
+“You wouldn’t say that if you saw how fast I can type now.”
+
+“I know you must have a real reason. Is there some hand weapon you found that you liked?”
+
+When Alden didn’t answer, Boe said, “Or we can talk about other stuff. I made it through all of your messages. Some of your insults were creative. And you’ve thrown yourself into Avowed life with ludicrous energy for someone who should be in rest and recover mode. That’s kind of concerning. But how’d the first day of school go?”
+
+“Surprisingly okay. The academic part is more normal than I thought it would be. There’s a hero track class called Engaging with the Unexpected that’s…well, it’s not boring for sure. And I met Lute Velra in Artonan Conversation.”
+
+“Short mopey harpist from Hannah’s funeral.”
+
+“You bothered to remember who he was? I probably only mentioned him once.”
+
+“I’m a good listener,” said Boe. “And it was an S-rank Velra. At the time, I was planning to follow up and see if he really did lose fingers. I thought it might be hitherto unknown proof that Chainers could guess exactly what consequences they were getting from something like a luck wordchain.”
+
+“He might’ve lost an eye instead. I don’t know what that’ll do for your theory.”
+
+“Really?” Boe looked intrigued.
+
+“Might’ve.”
+
+“You couldn’t tell?”
+
+“He was wearing an eye patch.”
+
+“Well, that doesn’t mean he lost it. There are all kinds of reasons to wear one.”
+
+“He said he lost it.”
+
+Boe’s brow furrowed. “Then why is there doubt?”
+
+“I think he could have been screwing with me. Actually, he definitely was. He made me teach him the word <<squelchy>> to describe eyeballs popping? Do they even do that?” Alden shivered. “Anyway…I think he really lost the eye. And his sense of humor about it is pitch black. But he was having so much fun saying disturbing things that I’m not completely sure.”
+
+“I feel like I need to meet this person.”
+
+Alden snorted.
+
+“Can I ask…?” Boe trailed off, and Alden braced himself. So much had happened to him he didn’t have any idea what the question was going to be.
+
+“What should I ask about?” Boe said finally. “What’s the critical, need-to-know information about Alden Thorn now that he’s back home?”
+
+“That’s hard.” He wanted to tell Boe things. More than other people. But also, there was something bothering him a little. “Can I ask you something first?”
+
+He didn’t wait for him to answer. “I promise I won’t freak out. Or get mad at you—”
+
+“I think I know what you’re going to ask.”
+
+“Whatever the answer is, I’ll be fine with it. But if you don’t tell me either way, I’m going to keep wondering. Have you ever used it on me? The skill that alters feelings?”
+
+Alden regretted the question almost as soon as it was out of his mouth.
+
+Boe’s expression was blank.
+
+“I’m sorry,” Alden said quickly. He let go of the flipper buttons, and the pinball game ended with depressed digital moan. “Please forget I said that. Now that I’ve done it, it sounds wrong. It’s like asking any other person if they secretly hurt people just because they can.”
+
+“It is like that.”
+
+“I know. Shit. Boe, I didn’t mean to—”
+
+“But it’s not exactly the same. You wouldn’t have asked if I was ‘any other person.’ You don’t go around asking every Sway on the island if they’ve stuck their fingers in your brain, do you?” He sighed. “I’m your best friend. And…I kept information from you. About something major. It’s fine. No, I’ve never magically screwed with your emotions on purpose. There have been mishaps, when my own mood was so out of control that I activated part of the skill without thinking about it. But I always reined it back in as soon as I realized.”
+
+“That’s understandable,” Alden said quietly. “I’m sorry for asking.”
+
+“It’s fine.”
+
+“I feel bad.”
+
+Boe’s smile twisted. “Don’t feel too bad. I’m definitely not a saint. I actually…I ought to tell you something, and the System doesn’t want me to.”
+
+“Don’t piss it off for my sake.”
+
+“It’s pretty important.”
+
+“Is me not knowing going to kill either one of us?”
+
+“No.” Boe frowned at him. “But…Alden, that’s an extreme tolerance level for someone else’s secrets negatively affecting you. Too extreme.”
+
+“Fine. Is me not knowing going to seriously hurt anyone?”
+
+“I don’t think so. The thing I want to tell you about already happened. It’s done.”
+
+Alden considered that. Then he considered Boe. His friend didn’t have a lot of tells, but there was a tightness around his eyes. “You did something you feel guilty about. Or something bad happened to you. Or you know something about the System, powers, or me that I don’t. And you think not telling me about it now, after everything that’s happened and after coming clean about other things, might be like…a betrayal?”
+
+When Boe didn’t answer, Alden asked, “Am I close?”
+
+Boe licked melted yogurt off of his thumb. “Yeah. You covered it with that,” he said in a tone of forced casualness.
+
+“ ‘kay. Then don’t worry about it. Do what you need to do to keep the System happy.”
+
+“I’ll bother it until it gives me a way to tell you.”
+
+Alden squinted at him. “Isn’t that the opposite of what I just said?”
+
+“Not exactly. Hey, don’t roll your eyes at me! I’m trying to think of ways to get a magical entity to let me open myself up to someone even more. Do you know how not me that is? Ever since I jumped out of catspace this afternoon, the world’s been nuts. I’m in the wrong hemisphere. You’re alive. I spent the afternoon surrounded by teenagers who are even more emotionally haywire than normal teenagers, and that’s saying something.”
+
+“You could feel the neighbors?”
+
+“That’s what you focus on?”
+
+“That and ‘catspace.’”
+
+Boe rolled his own eyes. “My range is good. Even when I’m not actively trying. I can pick up about two apartments’ worth of people in every direction. Fortunately most of them were gone for the day until just a couple of hours ago, so I didn’t have to endure the madness for long.”
+
+“That bad?”
+
+“…there’s a lot of longing going on around here.”
+
+“Longing?”
+
+“I think it’s a mix of lust and homesickness. It’s an uncomfortable combo. And there’s so much of both.”
+
+Alden held laughter back with an iron grip.
+
+“You think it’s funny?” Boe said dryly.
+
+“Don’t read me.”
+
+“I’m reading your face.”
+
+“Don’t read my face.” Alden smiled. “Anyway, about the secret. Don’t worry so much. If you can’t say something because of magic bullshit, you can’t say it. For example—”
+
+“Just whip off your shirt in the middle of a conversation why don’t yo—holy shit! You’re tatted now?!”
+
+Alden dropped the shirt on top of the pinball machine.
+
+“It’s so depressing that everyone is going to notice that before anything else. I don’t think I’ve turned vain exactly, but do you know what I had to go through to get my body fat redistributed by a god-tier healer? Do you know how much gym time I’m getting?”
+
+“Did it hurt?” Boe was leaning in to examine the contract tattoo.
+
+Alden lifted his arm to show off the triangle of absolute secrecy better. “No. It’s basically painted on. The Artonans like to get high as kites when they do it, too. I skipped that part.”
+
+“I can’t picture Instructor Pa-weeq high. She’s so straitlaced.”
+
+“She could be a completely different person outside of class. She probably gets drunk at parties on the weekends and deliberately throws food on the floor.”
+
+“What’s the contract for?” Boe asked.
+
+“I can’t tell you.”
+
+“Oh. I see. That’s the point you’re making about magic bullshit.” He tilted his head. “After catching up on all your messages, I’ve got the gist of what happened to you on Moon Thegund. It sounds like it was...did you have to agree to go to that place? Did someone make you do a side quest?”
+
+“No. I chose to do it,” said Alden.
+
+“What was the assignment?”
+
+“Berry picking.”
+
+“Berry picking?”
+
+“It’s very Rabbit, right? Marleck berries grow there. Or they used to. I assume they’re just as dead or mutated as all the other plants now.”
+
+There was a pause before Boe spoke again.
+
+“Did you know it was going to be dangerous?”
+
+“The danger might have been understated, but...yes. I knew it wasn’t the safest thing to do.”
+
+Boe's lips thinned to a line. “Was it worth it?”
+
+“The berries?”
+
+“I know we’re not talking about berries!” he snapped. “We’re talking about you volunteering to throw yourself at the first random heroic-sounding thing you found! Without caring about whether you were ready for it. Without caring what might happen to you! Or what that would do to the people who were waiting for you to come back home. Like a jackass!”
+
+“I knew you’d be mad.” The edge of the pinball machine was cold against Alden’s back. “It was worth it.”
+
+“Because of the little girl? The one you’d do it again for?”
+
+He nodded.
+
+Boe looked away from him. After several seconds, he said quietly, “I’m not saying it wasn’t worth it to you in the end. I’m saying in the beginning, when you first made the choice to do it—when you decided to go to what was clearly a dangerous place, probably without even knowing for sure if you were helping good people or alien serial killers—why didn’t you place a little more value on your own life?”
+
+“I did get paid well.”
+
+Boe’s head jerked around. “If I thought you’d actually done it for money, I would be so furious with you, Alden.”
+
+“The pay was nice. But you're right. It was mostly me ‘throwing myself at the first random heroic-sounding thing I found.’”
+
+He was surprised at the sarcasm in his own voice. He hadn’t meant for it to be there.
+
+Boe frowned. It was more of a concerned frown, though. He was opening his mouth—probably to apologize since he seemed to be in an unusually apologetic mood today—when Alden said, “It’s kind of a relief that you think I was a jackass. For doing that.”
+
+“I’m using ‘jackass’ extremely liberally, so don’t think I—”
+
+“I’m afraid I wouldn’t do it again,” Alden said. “That I don't even want to. For strangers. I already told you, right? In the message. The idea of doing something like that scares me now. It sounds horrifying…I’m going to Celena North to get stronger. So that things can’t hurt me anymore. Perfect attitude for a future superhero, right?”
+
+He tried to smile to lighten things up. But it felt wrong.
+
+Boe stared at him for a long time. “You’re…are you worried that feeling that way makes you a bad person?”
+
+“I miss who I was.”
+
+Maybe that was at the very heart of it. Maybe it was the thing he couldn’t get over. He had been coming to recognize it over the past weeks, but there was nobody to tell. No reason to ever let the words out.
+
+Now, in the wake of the afternoon he’d just had, he found he couldn’t hold them back.
+
+“I wasn’t done, Boe,” he said. “That day when I got summoned from the consulate, I wasn’t ready to stop being the one who shook his head every time you talked Jeremy into a stupid bet. I wasn’t finished riding the L. I was excited to be chosen, and I thought I knew what I wanted, but there wasn’t time for me to calm down and process any of it. I didn’t get to say goodbye to anything. Not Aunt Connie. Not you. Not myself.”
+
+His eyes burned.
+
+Of fucking course I’m going to do this now. I’m still messed up. I should have stayed at the spa.
+
+His voice was thick, but his mouth kept moving.
+
+“I didn’t know I was about to lose it all. My home, the people who loved me, the dreams I had about who I was going to become—that was the last time I ever got to have those things all together and so simply. And so that was the last time I was ever going to be that Alden…I wasn’t done. But I can’t have it back, can I?”
+
+Snot was building up in his nose.
+
+Why did even the pre-tears stage of crying have to involve so much moisture?
+
+“Alden…”
+
+“I’m fine. I am. But I wanted to come back home to me. Only it turns out that I’m not here anymore. And sometimes it’s okay with me that it’s all changed. It really is. Even…even though I probably look wretched right now, I’m so happy just to be alive. There are some great things in my life that I didn’t have before.
+
+“Kibby—I’m going to make you watch all of her videos. Jeremy did it so you have to. And I can do magic now. Not Avowed magic. Real wizard magic. I can learn all kinds of spells. Nobody knows, and it’ll be a huge mess if they do, so don’t tell. But it’s cool. I think maybe I love it.”
+
+He missed the startled expression on Boe’s face while he was wiping his eyes.
+
+“But even with all the amazing new things, I can’t believe it’s over. My old life being gone doesn’t make sense to me. I promise I knew better. I’m not stupid. But I think I still wanted everything to be the same here when I got home. Just for a little while. Just so I could let it go instead of having it torn away.”
+
+Orange cloth was thrust toward his face, and he blinked down at the shirt he’d just taken off.
+
+He took it from Boe and scrubbed at his eyes with it. “Thanks,” he said into the fabric. “Sorry.”
+
+“You shouldn’t be,” Boe said quietly.
+
+“Am I fucking with your empathy?”
+
+“No, I can’t feel anything through the shield.” Then, he added in a very awkward voice, “Uh…do you…if you want me to drop the barrier, I could?”
+
+Alden let out a choked laugh and lowered the shirt to look at him. “God. No. Why would you do that?”
+
+Boe shrugged and pushed up his glasses. “I’ve never been openly an empath before. Maybe offering when you’re upset is like…the polite thing for me to do?”
+
+“You don’t want in on my feelings right now. Trust me.”
+
+“We could cry together in a manly fashion. It would be a bonding experience.”
+
+“That’s one hell of a bond.”
+
+“Hey, I told you I was taking my best friend position back from Jeremy.”
+
+Alden blew his nose.
+
+“I know you feel like crap right now,” Boe said. “On multiple levels. But, Alden…I don’t think you have to worry so much about having lost yourself. You've lost a lot. Some of the things you thought about yourself maybe. You can’t get it all back, but at the risk of sounding even creepier than I actually am—”
+
+“You’re not creepy.”
+
+“—I know you very well. When you came into the apartment earlier, and you were talking to the cat, I was feeling everything you were feeling. Do you remember what the first thing out of my mouth was?”
+
+Alden thought back. “No. I’m pretty sure it was lost in my shock at the fact that it was coming out of your mouth. Right here. Where you’re not supposed to be.”
+
+“It was, ‘You’re still the same as always, aren’t you?’” said Boe. “I remember because it wasn’t something I was just saying. It’s something I felt during that whole conversation earlier. I know how you think about things. And I know how you feel about them, which is even purer in a way…though that might just be me trying to convince myself I’m superior to actual Sways. You’re not as different as you’re afraid of being. You don’t feel like a stranger to me.”
+
+“No?”
+
+“You feel like you, Alden. You’re just a little older. We both are. And we’ve had a really horrible year.”
+
+******

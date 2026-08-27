@@ -1,0 +1,381 @@
+---
+id: 90548564-fd80-5b9b-8894-23b3bb01ff10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 201: Elemental"
+slug: 0126-chapter-201-elemental
+partOf: the-calamitous-bob-stubbed
+position: 126
+ownLength: 5558
+unit: words
+ownProgress: 5558
+publishedAt: 2025-04-12
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2194668/chapter-201-elemental"
+royalRoadId: "2194668"
+markedReadAt: "2026-06-29T21:19:09.207Z"
+---
+
+Viv skirted the edge of the Viziman Ocean, over white cliffs and long expanses of wind-swept grass, where herds of beasts grazed. Shepherds and patrols spotted her but none moved. The nearby Zazas was an allied city, and its javelin throwers knew her well. Soon, the cliffs abruptly dove towards the natural harbor of Zazas and its many fishing boats. Stone buildings formed a nicely ordered town in the middle of the wilderness.
+
+“Wait, is that…”
+
+Two familiar shapes had dropped anchor near the largest piers. She recognized the distinct squat shape of ancient Harrakan ships, though those two had been renovated to be slicker. Where a bulky aft castle once stood, now a flat deck gave the old carracks the appearance of more modern frigates. Their deck enchantment circles were recognizable even from up here. They also flew the Harrakan flag. And to think they had once been decrepit relics of a bygone age rotting in Frostbay’s harbor. She immediately dove to greet them, recognizing some of the Remnants sailors as she approached. A figure stood on the deck running calibration.
+
+“Sidjin!”
+
+“Viv! Hahaha.”
+
+She hadn’t seen him in a while. He looked good. More confident.
+
+“Welcome aboard the newly renovated Neriad’s Mercy, and Efestar’s Redemption. What do you think?” he asked, pointing at the ships.
+
+“They look amazing. I can’t believe they’re already fully functional. Didn’t you have issues with the sails?”
+
+“Yes, but I found a solution. A very fancy solution, I might add. We have decided that the looms would be used to provide more thread for the distant villages, so they could have better cheap clothes. To get the sails, I visited my old friends the merl.”
+
+Viv watched the white sails neatly folded on the masts. They glittered in the noon sun. She could have worn a dress in this material, so neat and tightly woven it was.
+
+“Wait, don’t tell me…”
+
+“Spider silk! It turns out that it’s an amazing material. It’s even a little bit elastic. We’ve enchanted it with reinforcement to avoid tears. It’s still very vulnerable to fire though, so it’s a work in progress.”
+
+Sidjin continued the tour.
+
+“The enchantment circle to control various functions. Sadly, the ships were not designed around that so we won’t get great results, but it should still significantly help with navigation. Ah, and we haven’t had the time for gun ports, or even a gun deck. I have decided to remove the ballistae for now. We won’t need them anyway.”
+
+“Those look good for transition ships.”
+
+Sidjin gave her an offended look.
+
+“You know what I mean. You turned those ancient carcasses into functional boats,” Viv said.
+
+“Don’t talk about my babies that way.”
+
+“Come oooon.”
+
+He laughed, the pretend annoyance falling away.
+
+“I am just feeling hopeful seeing all those things we thought lost getting revived and improved upon. The Old Empire once stood as a reminder that we fall just as we rise, that much could be lost in an instant. Things have changed now.
+
+“They sail well, and we needed that. Zazas will trade with us.”
+
+“You sailed north and then east, right? From Frostbay? That means you saw the other side of the deadlands?”
+
+Sidjin’s expression turned serious. North of the remnants were strips of land that should have escaped the disaster, nestled between an ocean and the high mountain peaks that surrounded the Harrakan heartlands. Solfis did have Imperial records that spoke of this place but Viv had been in no hurry to check if there was anybody there. New Harrak was still in the process of digesting the Remnants, and checking a new place was a sure fire way to get embroiled in a new ‘adventure’ that would leave her with a new group of people to drive Lady Azar crazy.
+
+From Sidjin’s expression, it didn’t look like it was going to be the case.
+
+“We found empty villages, very few bodies but… nothing else. Harrakan estates overgrown with small trees, barns collapsed, empty villages surrounded by crumbling fences. No humans that we could see. The “End of the World” town referred to in ancient texts was completely empty, the walls still standing tall over a coffin. There were minor spots of fire damage… it could have been anything. We didn’t stop to explore.”
+
+She nodded. There should have been a couple of thousand people spread there across a limited strip of arable land. The “End of the World” used to be the local equivalent of a resort town, mostly for exiled nobles or people seeking a reprieve from the world, but not its luxuries. The fact they disappeared without a trace hinted at something sinister.
+
+“Welp, not urgent, not my problem.”
+
+“It might become a problem one day.”
+
+“One thing at a time. First, Rakan, then the next disaster.”
+
+Sidjin nodded.
+
+“I have taken it upon myself to start building ships, the kind that can travel far and carry much so that we may trade with cities as distant as Helock. The portal network is working but we are starting to have issues: the world doesn’t have enough mages.”
+
+“What do you mean?” Viv replied with a frown.
+
+“It takes a significant amount of mana to power a single portal,” Sidjin explained with a pained expression. “Major cities can afford to have mages activate it at set times, but the farther the network reaches, the more mages must dedicate themselves to keeping it alive. There are limits to how many places we can reach. There is also the matter of carried weight. It is much easier to transport large shipments by boat than by cart. It might just be more profitable to use ships to trade with Zazas, for example, especially since portal use is taxed when used by traders.”
+
+Damn. It looked like Viv wasn’t getting away from having to introduce trains. It was logical though. Magic was too caster-dependent, and casters were in very limited supply themselves. If she wanted to introduce modernity to Param, then she would have to find other sources of energy.
+
+Unfortunately, it looked like it was going to be coal, at least at first. They were still too far away from electricity. Hell, she was still trying to figure out how to make accurate instruments.
+
+“If only I’d been an engineer,” she bemoaned.
+
+“Ah but then you would have been a terrible politician!”
+
+They chuckled. Viv was just happy there weren’t any engineers in earshot. That was a real issue though. The yries were great at improving existing design, and they also had a kind of placid patience that lent itself well to the pursuit of perfection. Innovators they were not. Well, except for Lak-Tak. But he was only interested in weapons.
+
+“Let’s just take things slow. More ships wouldn’t hurt. We can get good money from trade tariffs.”
+
+“Yes, and now…”
+
+The two of them turned to see Rakan approach with someone Viv hadn’t expected: Lana, the blue mana specialist. The short woman had picked a simple blue travel robe for the slightly chilly weather, yet even in a more rustic garb, she still looked pristine and perfectly composed. Only her expression broke the flawless persona: she was clearly worried. They both were.
+
+“Ready to fix your leaking core?” Viv asked Rakan.
+
+The genius mage nodded with frenetic energy. It had been years since that fateful day on the sand of Helock’s arena. He had to be more than eager.
+
+“As well as can be. We brought some more money — along with what you already have. I just hope she won’t ask me to go on some quest to slay a giant or some such nonsense.”
+
+With Viv’s luck so far, she wouldn’t be so sure.
+
+“Don’t worry. I’ve got some nice slaying-related titles. I’d help!”
+
+“Yes. I hope it doesn’t come to that.”
+
+He shivered.
+
+“Just imagine. It could be an underwater monster!”
+
+“Oh yes, I remember that you do not like the sea very much.”
+
+It was the understatement of the century. Even now, he was a bit pale.
+
+“Some cosmic irony, this is. My salvation is in the middle of the ocean! Why would I be tossed in a place so hostile to human life?”
+
+“I know how it feels,” Viv said, nodding vigorously.
+
+“I will retire to my bunk for now. Let me know when the ship departs, so that I may say farewell to the land,” he added.
+
+“He’s being a little bit dramatic,” Viv commented as they left.
+
+“Hallurians have warm blood, even the exiles,” Sidjin said. “I will check the inventory, but do come see me later?”
+
+That sounded like a polite withdrawal. Viv returned her attention to Lana, who was doing her own version of squirming by staying perfectly still.
+
+“You’re going to see the elemental as well?”
+
+“Please do not be mad,” Lana blurted. “About my last minute decision to come.”
+
+Viv studied the blue mage. She was doing better since helping her fellow mages, but the specter of Elunath’s abuse still hung over her like a shadow. There was no magic to erase years of conditioning. Even now, she was steeling herself to face Viv’s explosion of anger — an emotion Viv wasn’t feeling at all.
+
+“I think I’ve made it clear that my lieutenants have a lot of autonomy. If you think it is best and someone is holding the fort at home, then I have no objections to you coming. Is this about magic? I imagine our would-be host knows as much as any person in the world.”
+
+“There is… there is more.”
+
+Viv waited. It seemed important, but Lana started by deflecting.
+
+“It is true that we mages rely more on academic research. I am one of the only blue mages in New Harrak, so my progress has… somewhat stalled. We do not have a very good reputation with the academic circles of Helock.”
+
+“Yeah, I’m partly to blame.”
+
+“But the truth is…”
+
+She hesitated. Viv drew a circle of silence, which only made Lana smile bitterly.
+
+“Oh, why am I being so silly? I have… the potential to be like her.”
+
+“A blue elemental archmage?”
+
+“Yes. Not any time soon. Sardanal’s blessings, I will be lucky if it happens before I become white of hair, but it could happen, and I would like to prepare. Ask questions. If she will allow it.”
+
+“Of course, I understand. Have you talked to Abe? He helped me.”
+
+“I did. Of course.  Unfortunately, every aspect change is different. Abenezigel was able to help you because of his deep familiarity with black mana. His insight was truly interesting. Did you… really die?”
+
+“He stabbed me in the heart!”
+
+“That would often do it, yes…”
+
+Her eyes grew worried for a moment.
+
+“I shall ask more. It is said that the Azure Lady harbors mages who wish to withdraw from the world, not just blue mages but others as well. Perhaps she is receptive to talking.”
+
+“Lady Azar mentioned it,” Viv said, recalling one of their many briefings. “She is otherwise reclusive and refuses to be involved in the affairs of the continent. I hope she will talk to us considering those are personal matters.”
+
+“I hope so too. I really do.”
+
+Lana remained guarded for the rest of the conversation while Viv did her best to calm her down with small talk. Lana progressively relaxed once it became clear Viv wasn’t going to berate her. The blue mage was really eager to meet the Azure Lady.
+
+“It is said her palace is half made of water, which flows according to her whim, yet also behaves in ways not dissimilar to stone!”
+
+What a nerd.
+
+***
+
+The talks with Zazas’ ruling couple proved to be relaxing. Those were the only two human leaders actually happy to see Viv show up. It was a refreshing change. Of course, the fact that they only remained independent because of their defensive alliance with New Harrak wasn’t exactly a coincidence but who cared? They had nice biscuits. After a meal where people chewed with their mouths closed, the two ships sailed off west towards its destination: the floating city of the elemental mage.
+
+***
+
+Efestar’s Redemption sailed back to Helock laden with goods, but Neriad’s Mercy traveled due west, past several cities without stopping. Viv specifically wanted to avoid Helock on account of being an escaped criminal there. And also perhaps for massive damage to their keep and reputation. The trip started without issues, though Viv was missing Arthur, who had elected to go back muttering about her investments. She spent a lot of time floating around to practice her mobility since the gray mages had proven she had a lot of room for improvement. Rakan was waiting for her by the railings one fine evening. He looked tense.
+
+“Worried about the treatment?” Viv asked.
+
+It was like the dam had opened.
+
+“I’m worried she would refuse, and I’m also worried she can’t do it. That I’m hoping for nothing, but you know what concerns me, yet should not? I’m worried she might accept.”
+
+“Uh? Why? I thought you really wanted to be cured.”
+
+“Because I have grown used to my handicap. I am compensating adequately now. I have Abe’s staff, which allows me to store mana I can use thus acting as a secondary core. I have my techniques, my habits, my ways of facing the day. I have spent so much time telling myself that I am more than just a broken core, that now that I face the possibility of recovery, all those buried fears are resurfacing. What if she botches the operation, and I end up unable to perform magic at all? I would have sacrificed a good life for the chance of a great life, and lost both. I am… scared.”
+
+Viv came to stand next to him, unsure of what to say.
+
+“Hmmm. It’s normal to be afraid.”
+
+“I know. And I know you’re looking for something to say to make me feel better. That is fine. Not every problem has a solution. I will be afraid until we end this, one way or another, and that is fine.”
+
+“Then I’ll just be here for you.”
+
+Rakan’s fingers gripped the wood.
+
+“If I don’t make it, tell my sister —”
+
+“Don’t start.”
+
+Rakan chuckled. Mana danced around him as it poured and then leaked out of his damaged core. The blue core glowed on his borrowed staff.
+
+“I just love magic so much. Every time I see my pupils make progress, I feel a pang of jealousy that they can so easily do what I have lost the ability for. I love them. I love teaching. I just want to be rid of this bitterness eating at me. I just don’t want it to cost me everything. Does that make me a bad person?”
+
+“I don’t think feeling things ever make you a good or bad person. Good and evil are always about choices. You don’t choose how you feel about things, only how you react to them. You’re a good man, Rakan, and it was a pleasure watching you grow. Now let’s get you fixed, then you can be free again. One way or another, yes?”
+
+“I changed my mind. Sometimes it really helps to talk to someone, after all. Now go and get your dinner. I’ll be looking out for monsters.”
+
+***
+
+It was colder. The deep rains of an early fall flailed the deck without mercy, drumming on the spider sails in a constant effort. The ship bobbed up and down upon waves in its path taller than it was, and the power of the wind forced the sailors to reef the sails or risk capsizing. Protected in a shield bubble, Viv enjoyed the sight of the unleashed elements while she kept an eye on things. Mana echoed what her eyes could see when the world roared, and this was a danger in itself. At night, old sea dogs spoke of creatures who could call the storms and swallow islands whole. She wasn’t sure but this storm seemed natural enough. In fact, the chaos unfolding around her held a wild beauty of its own, a constant change without purpose, not even its own survival. Many of the young recruits were a little green around the gills at night, while they ate a thankfully warm meal. This made their crusty seniors laugh.
+
+“‘twas a time when our ships traveled all the way to Vizim! It will happen again, you’ll see.”
+
+Viv was just happy they had ships now. That night, she fell asleep in Sidjin’s arms while old wood groaned around them.
+
+This was nice and lasted all of three days before Viv got bored to tears. Fortunately, the Mercy was making good time, and they soon ranged north of Halluria. Viv watched the desolate sandy beaches and rocky expanses wondering if there would be people here one day. The villages were few and destitute, though whether it was due to the invasion or just the normal state of things, she couldn’t say. The next morning, the navigator came to see her.
+
+“The floating palace should be around. We will travel to find it. It is said that if the lady wishes to—”
+
+“Oh it’s there,” Viv interrupted, pointing to the north east.
+
+The navigator didn’t seem convinced.
+
+“It’s magic,” Viv explained.
+
+“Your majesty, far from me to —”
+
+“Her presence lingers in the froth above the waves as they crest, in the humidity carried by the damp wind blowing without pause. Long tendrils of power, like grasping branches, spread out across the infinite vastness of the ocean. None can approach without her knowledge for she is the sea itself, her skin like the surface, her bones like tidal currents, her sinews, great beasts that swim in the dark depths where the sun never reaches. I, another elemental archmage, feel her attention like a hand upon my neck. Okay?”
+
+“Setting course, milady.”
+
+“Okay, great.”
+
+The agile shape of Neriad’s Mercy turned, picking up speed as Lana climbed to the deck. She, too, felt the overwhelming presence of the elemental archmage of the blue. Viv wasn’t lying when she said she felt the woman’s essence seeping through reality. The mana all around was blue and gray merging together. Viv made no efforts to hide herself. Instead, she pulsed her mana from time to time as a polite greeting. There was no response but nothing came to stop them, and so Viv deducted they would be tolerated for now. A chill crawled down her spine when she thought about all those people she cared about aboard this ship. The Azure Lady was not known for her violence, yet it was also true that no one had been able to threaten her in a long time. What if she took exception to Viv? After all, one elemental archmage had already fallen at her hand.
+
+Her mood didn’t improve once they spotted a dot on the horizon: the palace, at last. A long view spell offered an image that didn’t make sense at first. As they approached and the image grew clearer, Viv couldn’t help herself but whistle in admiration. Now that was why she loved this place despite all the dickery and monsters: magic wielded to create something wonderful.
+
+The palace stood at the center of a sphere of serenity on an unruly ocean, a pearl sitting on the horizon, untouchable. Mundane material merged with strange columns of solidified water so placid they looked as if made of glass. Wilder tubes danced slowly between islands of strange architectures that defied both gravity and the properties of the materials that composed them. Here, the difference between fountain and sculpture grew hazy until Viv couldn’t tell which was which. It was a land of impossibilities frozen in existence by the will of someone truly powerful. The entire structure shone like fireworks in Viv’s mana sight.  Shock and wonder traveled across the crew until everyone had gathered on the deck, mesmerized by the otherworldly beauty. Viv couldn't blame them when the ship slowed down, unattended. She was just as caught as they were.
+
+“Alright, enough ogling. Get us in,” she finally said when it was clear nobody else wanted to.
+
+“You heard the lady! Move!”
+
+Neriad’s Mercy approached its destination at a slow speed, Viv eager to see if something would happen. Lana, Sigjin, and Rakan stood by her side near the prow. She felt a tickle once they entered the bubble. The Azure Lady’s presence grew so overwhelming that Viv felt like she was reaching into her personal space, like touching the face of a stranger. Once again, Viv pulsed her aura softly, but received no response. There was a clear floating wooden pier at the edge of the maze of water structures, and that is where the ship stopped. Viv saw there was a welcoming committee but that wasn’t what got her attention.
+
+From up close, the palace definitely lost its charm. She was a child in an amusement park who accidentally walked into the staff area. The marble revealed itself to be stucco, the sparkles, cheap glitter, and Prince Charming was an underpaid employee on a smoke break. Yes, the water constructs were breathtaking, but the wood panels and other real stuff hung by a hair. It was all old and decrepit. In the distance, she saw men and women in strange suits carrying baskets of fish. The material was weird and ropey.
+
+Wait, were those made of kelp?
+
+A movement brought her attention back to the welcoming committee. One of the people was leaving. A woman from her gait. Viv didn’t recognize her, but she was a mage. Before Viv could consider her options, the head of the delegation stepped in.
+
+He was a tall man with wiry muscles and a great saber at his back, of an ethnic group Viv had never seen before. His skin was grayish under a healthy tone. His high cheekbones made him look gaunt, though he seemed healthy.. He also possessed this sharp presence Viv had come to associate with blade masters like Solar or Selyen, the so-called Dragonslayer Reborn. Hostility radiated from him in great waves she felt in her soul, though it didn’t feel personal.
+
+“Who comes? Who dares approach our sanctum without permission?” he asked in the northern tongue.
+
+Anger rose in Viv’s chest, though she quelled it. He was merely defending his home.
+
+“My name is Viviane of Harrak,” she said, going for the least pretentious option. “This is my paramour, Sidjin the Red Mist, and archmages Lana the Tide-Weaver and Rakan of the Four colors.”
+
+“Actually, those are nicknames,” Sidjin whispered in her ear.
+
+“I know I’m just trying to avoid dropping too many titles. Stop interrupting me in front of the thug. Ahem. We come seeking the assistance of the Azure Lady for a… medical reason.”
+
+This seemed to take the man aback.
+
+“A medical reason? Pah! It matters not. Do you not know that you must seek approval with our representative in Helock before approaching this sanctum?”
+
+“We’re personae non grata because of some terrible diplomatic incident. It involved a town official abusing his power and me taking grave exception to it.”
+
+Dammit! She was trying to be diplomatic! The threat didn’t go unheard. A wave of intimidation pushed against her, though it felt more like an instinctual response than a real attack. She was interested to feel that this guy had his own expert skill! It felt like he got it slaying great beasts, somehow.
+
+Her own soul replied with the uncaring cold of the scale. He could bark. It was all the same to her.
+
+She could bite.
+
+Wait, no, bad Viv. Diplomacy.
+
+“But I digress. I am sorry I could not offer advance notice,” she lied. “I was hoping we could talk to the Azure Lady regardless. We meant no disrespect. We will wait here for her decision,” she said, sensing that being too assertive would piss the guard off even more.
+
+The man didn’t exactly mellow, but at least the intimidation pulled back. Viv was wearing her crown in a clear display of her rank, yet she was being very polite. It was enough to avoid escalations. Before he replied, a single pulse expanded through the air. Most of the people on the pier shivered, a sign many were at least a little sensitive to mana. That was an impressive number. Viv wasn’t sure but she guessed there might be as many as five hundred people spread out across the multiple structures. Even now, she could see many going about with their days.
+
+“The lady will receive you,” the blade master whispered between gritted teeth.
+
+Viv allowed herself a smile. They were off to a great start! She didn’t wait for the gangplank to walk off the railing, followed by Rakan and Lana.
+
+“I’ll stay with the ship!” Sidjin said.
+
+He and the blade master exchanged glares. It was probably wiser to keep someone near the ship, just in case.
+
+“Follow me,” the blade master said.
+
+Viv didn’t try to inspect him; it would be foolish. The grim warrior guided them out of the pier under the curious gaze of the crowd. As Viv had felt, many were mages, some used to fighting. They wore an eclectic collection of clothes that had mostly seen better days. Some used a strange, dry fabric that Viv was sure was some sort of algae, but the process had obviously not been perfected yet. Now that Viv was paying attention, she realized the mages were just as unusual. She noted Northerners, Enorians and Baranese, quite a few Vizimani and some of those ashy gray people with high cheekbones Viv was starting to suspect were Shadowland dwellers. They were an extremely reclusive bunch who rarely left their faraway continents, so it was strange seeing them here out in the maritime boonies.
+
+Nobody from beyond the isthmus. It looked like the Nemeti had complete control over the population there.
+
+Viv returned her attention to the group when Lana leaned towards her, speaking in Imperial.
+
+“I think I saw… but no, nevermind. I must be mistaken.”
+
+“Recognized someone?”
+
+Lana merely shook her head, and Viv didn’t press the issue. They’d reached the first main water building. She took the steps up trying not to show how cool she thought it was that the water barely rippled under her boots. Monumental doors opened to a circular stone vestibule adorned with a magnificent mosaic, a work of art that covered the entire floor. Viv didn’t want to think about the power required to keep this thing afloat. Where the windows ought to be, flowing figures made of crystalline waters showed detailed scenes. Those were actually enchanted into the stone walls rather than maintained through sheer force of will, and Viv could see why: they were incredibly detailed. One showed a brilliant civilization building cyclopean structures, the second, a terrible civil war with both sides using strange machines. A third displayed volcanoes erupting in the background while the beleaguered people rushed to a flotilla of ships. The last showed a flourishing city floating on the ocean.
+
+Viv got the impression that the last one might be a tad embellished. The place was damp, cold, and it didn’t smell particularly good either. The stones of the mosaic were dulled by age. Some were missing.
+
+The blade master walked confidently through another set of doors. Outside, the ocean was flat as a mirror. One of the tendrils floated lazily over the placid surface. It looked uncomfortably like a tentacle.
+
+The blade master walked in. A strong current carried him to a larger island with surprising grace.
+
+The Harrakans gave each other looks. Viv was the first to go in. If anything went wrong, she would be fine.
+
+Her first experience of the fast waterway was that fuck, it was cold. Her second experience was akin to someone grabbed by the collar. It only took five seconds for her to land again and she hated every moment of it. She was completely dry on arrival though, every drop of moisture reabsorbed by the strange conduit.
+
+Ok so yeah, it was cool, but what was wrong with stairs? Or a nice bridge? Fucking gimmicks. She pushed down her annoyance by telling herself it was all novel and fancy but seriously, did people just dip their nethers in cold ocean juice every time they wanted to go greet a neighbor? And she thought commuting in Paris was bad. Jesus.
+
+The blade master was waiting with a smirk. Viv’s poker face irked him, which provided a nice soothing sensation to Viv’s bruised patience. Before her stood a palace of flowing water and ice that only used a minimal amount of material. Steps formed under her feet.
+
+The ballroom was strange, and reminded her of the entrance’s mosaic with its ancient stone appearance. It wasn’t any architecture she’d seen in this place so far. If she had to draw a parallel, it would be with Mesopotamian cultures: the style was heavy, unadorned except for large statues. The entire palace appeared designed for a race of titans, yet the stairs were definitely for human feet.
+
+Quietly now, Viv followed the blade master deeper into the heart of the Azure Lady’s domain. She could feel the presence of the elemental archmage everywhere around her. She was walking into the maw of an ancient and powerful caster. It was strange how quiet things were, considering. Barely a whisper. It was peaceful but in a cold way, like a drowned man was peaceful. She shook that metaphor out of her head. The throne room stood at the top of the stairs and it was surprisingly cozy compared to the rest. Lacquered wood blocked the view of most of the surrounding water.
+
+Waiting for them on the throne was the azure lady. As soon as Viv laid eyes on her, she was convinced this might be the oldest human she’d ever come across by an order of magnitude. It wasn’t her face, because her mature elegance shared the high cheekbones of the blade master. Her smooth pink skin even looked healthier than that of her compatriots. Long black hair flowed over her scalp as if borne by an unseen current.
+
+It was the mana. It bled from every pore, especially from the eyes which were two deep blue sapphires, unfocused for now. Power radiated from her in a cold wave. Viv felt like she was watching a glass statue painted over with the appearance of humanity, but none of its substance. It was therefore a surprise when the woman addressed them. Her voice was deep and pleasant.
+
+“I bid thee welcome.”
+
+Viv blinked at the use of ancient Harrakan — not Imperial, but the slightly different language used in historical records Solfis had kept in his memory banks. Even the intonation felt strange to her ears.
+
+“Welcome, yes, to my domain. Prithee, excuse my lack of reaction, for I was in the depths of a meditative trance. I am informed that thou didst not herald thy coming? Fret thee not. I shall not take umbrage, for I am certain thou didst not seek to cause any manner of grief. Thine chambers shalt be prepared erelong where thou may refresh thyselves. I shall invite thee to a… a…”
+
+She frowned. A look of concern finally changed the blade master’s expression from sour to something less aggravating.
+
+“A banquet, yes. There we shall sup on the finest of cod, kelp soup, and seared mollusks for thine enjoyment.”
+
+That didn’t seem too bad. Viv just didn’t think they had butter here, sadly. Unless it was, errr, whale butter.
+
+Was that even a thing?
+
+“Thank you very much, Azure Lady,” Viv said in the ensuing silence.
+
+It sounded like the right thing to say, though Viv couldn’t be sure. The woman really didn’t move at all. She wasn’t even breathing.
+
+“Thou are quite pleasant for a killer. I must inquire, why hast thou sought out retreat?”
+
+“We came to request your help,” Viv said, stepping to the side to point at the two Harrakan archmages. “Lana wishes to consult you, while Rakan here needs your assistance.”
+
+“Thine core leaks most direly, young man.”
+
+“I was hoping you could help,” he whispered. “Though your time is precious. If there are any tasks I could accomplish to convince you to heal my core…”
+
+“That is within my power…”
+
+The lady frowned, perhaps trying to remember something.
+
+“We have not come empty-handed. Although your help is not something that can be valued with mortal currency, we are still willing to compensate you adequately for the time spent.”
+
+Viv grabbed the box in her side bag. showing the glint of gold. She handed it to the blade master who received it with feverish fingers.
+
+“Thou wouldst offer gold?”
+
+“Two hundred and fifty gold talents, payable immediately. We understand the value of your work, and believe this is a fair and respectful price,” Viv said.
+
+She stopped herself from smiling when the Azure Lady gave the blade master a slow glance. Whatever passed between them, it wasn’t done with mana.
+
+“I assent,” she said.
+
+Viv knew it. The old immortal monster was flat broke! No quest for thee, Rakan!

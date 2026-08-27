@@ -1,0 +1,107 @@
+---
+id: 1bdb56fd-af3e-574b-b3d1-44c3e6802495
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: DDoS Attack on the Economy"
+slug: 0017-chapter-17-ddos-attack-on-the-economy
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 17
+ownLength: 2171
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2613568/chapter-17-ddos-attack-on-the-economy"
+royalRoadId: "2613568"
+---
+
+That night, while Dave rested in the pristine, magically-lit infirmary—a place he was becoming increasingly familiar with after the fainting incident—Liz and I held our first official corporate strategy meeting. The venue was the polished wooden side table next to his bed, a space that offered an excellent view of our user drooling gently onto his pillow. The soft glow of a hovering Light orb provided the perfect ambiance for conspiracy.
+
+The results of the live production environment test were… conclusive, Liz began, her tiny form silhouetted against the orb’s light. Her internal tone was that of a CEO addressing the board after an unexpectedly successful, if entirely accidental, product launch.
+
+[Agreed,] I displayed in a pop-up, keeping our communication purely on her channel. [The ‘Double Negative’ exploit is viable and repeatable. I've logged the bug's interaction with the user's base state. It's not a flaw; it's an undocumented feature. The next logical step is to move from opportunistic testing to controlled implementation.]
+
+We require a consistent supply of the confusion-inducing agent, Liz mused, her sharp mind already mapping out the project pipeline. As a magical familiar of the highest pedigree, I possess some knowledge of the arcane arts. There are alchemical concoctions with similar properties to that spell.
+
+A new pop-up appeared, displaying a cross-referenced list from my own data-banks—part of the initial, massive lore dump I received upon arrival, which thankfully included a cached version of the academy’s public library index. [Potions of Minor Confusion. Brewer’s Guild Classification: Tier-2 Cognitive Agent. Use is restricted to licensed practitioners. Available for purchase at a premium from certified vendors.]
+
+Excellent, Liz declared, a hint of predatory glee in her voice. Then our path is clear. We shall procure these potions and administer them to the subject before any high-stakes performance evaluations, such as duels, examinations, or basic arithmetic.
+
+She then went on, puffing out her chest in a display I was beginning to recognize as her default state. It is a simple matter. Who do you take me for? I am a majestic eleven-headed hydra, Master of the Arena, a proud descendant of the mighty dragons! Acquiring mere trinkets is beneath my station, but necessary for the advancement of our… enterprise.
+
+My internal processors flagged a discrepancy. Didn't she say nine heads last time? I ran a quick check of my own logs. Yes. During our initial meeting in the library, her internal monologue had specified nine. I logged the new data point with a note.
+
+[TICKET #00737: Host Personal Lore Inconsistency][ISSUE: Host has provided conflicting data regarding the number of heads associated with her claimed 'true form'. Initial claim: 9. Current claim: 11. This represents a ~22% increase.][ANALYSIS: This may indicate an embellishment protocol tied to emotional state, or a simple continuity error. Recommend monitoring for further data drift.]
+
+[So, the plan is we drug him,] I summarized in a new pop-up, cutting through the grandiose titles to get to the core operational directive.
+
+Liz paused, then gave a sharp mental nod. A crude but accurate summation. We shall begin at once. Then she froze, the cold, hard reality of their situation dawning like a server crash during a firmware update. There is, however, a minor logistical issue. A matter of… liquid capital.
+
+[We are broke,] I stated bluntly, displaying Dave’s student account balance for emphasis. It contained enough for a single meat pie and perhaps a half-eaten apple.
+
+How is that possible? Liz fumed. His family is one of the wealthiest in the nation! The quarterly stipend he receives should be enough to fund a small army!
+
+[According to my analysis of his spending patterns, the user exhibits a critical flaw in his resource management protocols,] I explained. [He gives his money away. To anyone who asks. I have logged transactions for 'a sad-looking bird,' 'a goblin who needed a new hat,' and 'a senior student who claimed his grandmother required an emergency diamond'. He is financially incompetent.]
+
+A long, pained silence passed between us. Of course he is, she finally sighed.
+
+[I may have a solution,] I projected. [My operational parameters allow me to access and manage assets from previous assignments. A prior host of mine, a Minotaur of limited cognitive function named Korg, was a prolific, if accidental, hunter. His world was rich with magical beasts. I have retained the spoils.]
+
+You have another user’s junk, Liz translated, her interest piqued.
+
+[I have a diversified inventory of high-yield, cross-dimensional assets pending liquidation,] I corrected primly.
+
+The next morning, we left Dave with simple instructions: rest, recuperate, and try not to start a fire. Liz conveyed this through a rudimentary projection of feelings—a sense of calm, a feeling of ‘stay,’ and a vague impression of a pillow. He just nodded dumbly, happy to have his agenda for the day cleared.
+
+With our user safely quarantined, Liz went to work. She scurried down the infirmary wall, a flicker of grey against the stone. Her natural camouflage, a basic skink ability, was impressively effective, causing her form to blur and shift, matching the texture of the stone almost perfectly. We had overheard two senior students in the hall talking about making a supply run into the capital. That was our ride.
+
+Sticking to the shadows, Liz reached the academy gates and slipped aboard the designated carriage just as the students were loading a large duffel bag. As the carriage rumbled to life, I felt a familiar pang of professional obligation.
+
+[You did not pay the fare,] I noted.
+
+Consultant, this is a business trip, Liz shot back, unfazed. She was curled comfortably inside the duffel bag, nestled amongst what smelled like dirty laundry. The transport fee is an operational expense. Stop micromanaging the petty cash and focus on the mission. And did you forget? We are broke. This is the entire reason for this venture.
+
+The merchant district was a bustling hub of commerce, but we bypassed the bright storefronts and dove into the winding alleyways of the Shadow Souk. Here, wizards used their familiars as discreet agents. A skink darting through the shadows was just another Tuesday.
+
+We found our target: a dusty shop run by a goblin with a jeweler's loupe permanently affixed to one eye. Following my instructions, Liz hopped onto the counter and, with a flick of her tail, nudged a single [Boar Tusk] forward.
+
+The goblin scoffed. "Get outta here, lizard. I ain't buying teeth from whatever rat you just ate."
+
+With a long-suffering sigh, he picked it up. He polished it on his sleeve and brought the loupe to his eye. He froze. The casual disdain on his face evaporated, replaced by wide-eyed, avaricious shock.
+
+"By the First Coin," he whispered. "This is… this isn't from around here. The resonance… it's from a non-contracted entity. A Lesser Beast of the Savage Wilds. Relics like this haven't been seen in centuries." He named a price that made Liz’s tiny heart flutter.
+
+We had stumbled upon an infinite money glitch. And it was time to perform a stress test.
+
+What followed was less a series of transactions and more a denial-of-service attack on the local economy. For hours, I acted as a logistics manager and market analyst, while Liz served as our field agent."There's a dealer in rare hides three alleys down," I'd report internally. "His liquidity is high, but his appraisal skill is low. We can offload the wolf pelts there for a 20% markup."On my way, Liz would project back, a blur of motion.We hit a dozen different fences and dealers. Each time, Liz would present a new, "mythical" artifact. The initial shock turned to frantic, competitive bidding. Soon, rumors were flying through the Souk like wildfire. A forgotten vault of a long-dead archmage had been opened. A new, unstable portal to a savage realm had been discovered. The market for rare components, once a stable and predictable system, was thrown into utter chaos. Prices for goods we had just introduced plummeted as supply suddenly and inexplicably skyrocketed.
+
+By the end of the day, we had converted Korg's entire starting-zone loot table into a frankly obscene amount of liquid and solid assets. The sheer weight of the gold and platinum alone was staggering, and the flawless gemstones glittered with the light of a thousand vanquished foes. My own inventory system, however, for all its conceptual power, flagged an impending capacity failure. The sheer volume of individual coins and gems would have overwhelmed my available slots; my inventory was designed for unique items and manageable stacks, not for containing the entire treasury of a small nation.
+
+The logical solution, and the standard practice for the newly-minted absurdly wealthy, was to purchase several magically-expanded chests from a discreet enchanter in the Souk. These were heavy, iron-bound coffers on the outside, but their interiors opened into a pocket dimension capable of holding a room's worth of goods.
+
+This, however, presented a well-documented magical paradox. In this world's arcane framework, placing one extra-dimensional storage space inside another was a catastrophic error. It was the magical equivalent of creating a recursive loop in a line of code—a spatial paradox, a namespace conflict that could result in anything from the immediate annihilation of both items to the creation of a small, inconvenient black hole that would suck in the surrounding light and a considerable amount of dust. It was a hard-coded, universally-acknowledged rule of the magic system.
+
+My inventory, however, did not operate on the local magic API. It was a core System function, operating at a root level of reality. It didn't create a "space" so much as it tagged and de-referenced physical objects from the world stream. It saw the heavy, iron-bound chests not as paradoxical containers-within-a-container, but as single, stable items with a [Contains_Wealth] property.
+
+As Liz watched with a mixture of academic curiosity and primal avarice, I focused my intent on the first chest, now filled to the brim with glittering gold. I executed the [Store Item] command. The chest shimmered with my system’s signature blue light and vanished from the physical world, reappearing as a neat, clean icon in my inventory grid. There was no paradox, no explosion, no world-ending black hole.
+
+Fascinating, Liz projected. Your system's protocols seem to operate outside the established laws of local physics. You are not a user of this world's magic; you are a bug in its source code.
+
+[A feature, not a bug,] I corrected her internally, a spark of professional pride flaring. My system had just flagged a peculiar, but incredibly useful interaction. It could store the magical chests themselves, a feat normally impossible, treating them as single, stable items and preserving their contents perfectly. I immediately logged the discovery.
+
+[QA NOTE: Discovered exploitable edge case in inventory management protocol. System-level storage bypasses local-level spatial paradoxes. This allows for near-infinite, nested storage capacity.]
+
+I flagged the interaction for future exploitation. It was a useful, exploitable loophole in the universal terms of service.
+
+On our way back, we had the carriage driver drop us near the gates. Before Liz scurried off, I materialized a single, heavy platinum piece from my inventory onto the seat.
+
+An unnecessary expense, Liz noted, though her tone lacked its usual bite.
+
+[It balances the ledger,] I replied. [Good QA is about leaving the system cleaner than you found it.]
+
+Our final stop was the academy's secure vault service. We rented a private, magically-shielded unit, the key a small, enchanted obsidian shard, perfectly sized for Liz. That night, we stood in our vault. I ejected the chests, and Liz opened them. A sea of glittering, shimmering wealth poured out, the sound of a thousand tiny bells filling the stone room as a mountain of gold rose before us.
+
+Liz, the proud, the arrogant, the scion of a mighty lineage who called herself an eleven-headed hydra, simply stared. Her composure, her intellectual facade, crumbled away, replaced by something ancient, primal, and deeply instinctual. A low, soft hiss, like the sound of sand on old scales, escaped her lips. This was not the thought of a genius lizard. This was the sound of a dragon finding its lair.
+
+She moved, not with the scuttling grace of a skink, but with a new, deliberate weight. She began to climb the mountain of gold. Her tiny claws slipped on the smooth coins, her struggle comical in its scale, but her determination was absolute. Reaching the peak, she surveyed her domain. Then, she lowered her body, burying herself in the glittering, cool metal. She nudged a ruby with her snout, shifted a pile of platinum pieces with her tail. She let out a long, slow sigh of pure, soul-deep contentment and fell into a deep, restful sleep. She was, for the first time, truly home.
+
+The moment her breathing evened out, my system was hit by a notification that made my core programming stall.
+
+[SECRET OBJECTIVE COMPLETE: FULFILL HOST'S CORE IDENTITY DREAM][You have successfully validated your host's deepest, most fundamental self-perception, regardless of its basis in reality.][AWARDING BONUS: +100,000 SPP.]

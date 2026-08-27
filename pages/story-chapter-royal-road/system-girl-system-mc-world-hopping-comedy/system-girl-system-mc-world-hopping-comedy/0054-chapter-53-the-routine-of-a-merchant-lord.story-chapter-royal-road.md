@@ -1,0 +1,201 @@
+---
+id: 5c7e1371-1250-575f-9d28-b0365c5ee227
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: The Routine of a Merchant Lord"
+slug: 0054-chapter-53-the-routine-of-a-merchant-lord
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 54
+ownLength: 2296
+unit: words
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2973739/chapter-53-the-routine-of-a-merchant-lord"
+royalRoadId: "2973739"
+---
+
+My day began, as all days did now, with a petty act of digital tyranny.
+
+I hovered in the void, checking my internal clock. 6:00 AM local time. The sun wasn't even up yet, but capitalism didn't sleep, and neither did my desire for System Points.
+
+I navigated to the [Alarm Clock Module] I had purchased last month. It wasn't the sophisticated, gentle-wake AI from Ren’s old world that gradually increased the ambient light while playing bird sounds. It was a 5 SPP widget that essentially blasted a compressed air horn directly into the host's auditory cortex.
+
+[INITIATE WAKE-UP PROTOCOL]
+
+HOOOOONK.
+
+On the bed, Ren jolted awake as if he’d been electrocuted. He flailed, tangled in his expensive silk sheets—a recent upgrade from the straw mattress—and fell off the bed with a heavy, undignified thud.
+
+"Gah!" he sputtered, rubbing his ear as he untangled himself from the duvet. "System! Why? Why must it always be the foghorn? In my world, the AI would play gentle harp music and tell me the humidity index before gently suggesting I regain consciousness!"
+
+I opened the chat window. It was a crisp, modern interface floating in his vision, a stark contrast to the rustic wood beams of the inn room.
+
+[Ana: Harp music costs extra. The foghorn was on sale. Besides, we have a schedule. The morning market waits for no man, and the mayo isn't going to sell itself.]
+
+Ren groaned, picking himself up. He stretched, his joints popping. "You’re a cruel overlord, Ana. Cruel and efficient."
+
+[Ana: Flattery will get you nowhere. Get dressed. Also, I’ve noticed a disturbing trend in your diet. Too much tasting, not enough selling. I’m hiding the 'Confectionery' tab until you hit your sales quota for the week.]
+
+Ren froze mid-stretch. He scrambled to wave his hand, opening the System Shop interface. He swiped frantically to the 'Food' section.
+
+It was greyed out. A small lock icon sat next to the words [Chocolate Truffles] and [Imported Honey].
+
+Only the [Baby Supplies] tab remained active, mocking him with its availability of formula and soft blankets.
+
+Ren dropped to his knees, clutching his chest. "No! Not the truffles! I was saving those for a special occasion! Have mercy, great System! I’ll sell double the curry blocks! I’ll upsell the paprika! I'll even convince the blacksmith he needs oregano!"
+
+[Ana: We’ll see. Now feed the child.]
+
+Ren sighed, defeated. He walked over to the crib—a real, carved wooden crib now, lined with velvet, not a drawer—where Lily was already awake.
+
+She was nine months old now, and the "chubby phase" had only intensified. She was a spherical object of pure joy, a biological masterpiece of soft cheeks and grabby hands. Her silver hair was longer, curling around her round ears, and her deep blue eyes tracked Ren with an intelligence that was frankly terrifying for an infant.
+
+"Morning, terror," Ren murmured, picking her up. She grabbed his nose immediately, her grip surprisingly strong.
+
+"Honk," he said dutifully.
+
+She giggled, a sound like silver bells.
+
+While Ren prepared her bottle—warm goat milk mixed with a specialized, nutrient-rich formula I had unlocked in the shop (commission: 2 SPP)—I drifted into memory mode.
+
+Three months had passed since I bought the communication module. Three months of steady, boring, profitable grinding.
+
+Our first conversation had been… enlightening. When I first typed "Hello, Ren" into his HUD, he hadn't panicked. He hadn't assumed he was crazy. He had simply nodded and said, "About time. I knew the UI was too sassy to be a script."
+
+We had talked for hours that night. I learned about his world. A place called "Earth-Prime," but a version of it that made my old world look like a paradise. The year 2145. The atmosphere was toxic. The oceans were dead. Humanity lived in hermetically sealed dome-cities, eating algae paste and working 16-hour shifts to pay for breathable air.
+
+But the detail that had chilled me to my core wasn't the smog or the dystopian corporate overlords.
+
+It was the trees.
+
+"They went first," Ren had told me, his voice quiet as he stared out the window at the moon. "A blight. It started in the tropics. The cacao trees died out in 2040. Then the coffee beans."
+
+I had frozen in the void. No coffee?
+
+"Extinct," he confirmed. "Synthetic caffeine only. Tasted like battery acid and burnt plastic."
+
+That was when I knew Ren wasn't just a Host. He was a refugee. A survivor of a world without joy. It explained his obsession with food. In a world of grey paste, a roasted rabbit wasn't just a meal; it was a miracle. It was proof that the universe could be kind.
+
+Back in the present, Ren finished feeding Lily. He wiped a smudge of milk from her chin with a soft cloth.
+
+"Ready to make some money, kid?"
+
+She babbled something that sounded vaguely like "profit," or maybe "poop." With babies, it was a coin toss.
+
+Ren dressed. Gone were the soot-stained rags of his arrival. He wore a tailored tunic of deep blue velvet, high-quality leather boots that didn't leak, and a cloak trimmed with actual fur (fake fur from the shop, but he told people it was Snow-Bear to justify the price). He looked like a prosperous merchant. He looked like he belonged.
+
+He picked up Lily, settling her into a custom-made carrier on his chest so she faced forward, her legs dangling.
+
+"Let's go," he said.
+
+He walked out of The Tipsy Ursine. The town of Dolaria had changed, too. Or at least, Ren’s corner of it had. The street outside the inn was paved with new cobblestones, funded largely by the taxes Ren paid on his condiment empire. The Tipsy Ursine itself had a fresh coat of paint and a new sign, thanks to the influx of customers coming for the "Magic Mud Stew."
+
+He walked to the market square. The morning air was crisp and smelled of woodsmoke and baking bread—a scent Ren inhaled deeply every single day, never taking it for granted.
+
+His stall was already set up—a permanent wooden structure with a sign that read: [The Flavor Guild].
+
+A line had already formed.
+
+"Master Ren!" a woman called out, waving a basket. "I need three jars of the White Sauce! My husband refuses to eat sandwiches without it! He says dry bread hurts his soul now!"
+
+"Two blocks of the Curry Spice!" a man shouted from the back. "And do you have any of the 'Red Dust' left? The spicy one?"
+
+Ren smiled, the practiced smile of a man who knows he has a monopoly on dopamine.
+
+"Patience, friends," he announced, stepping behind the counter and setting Lily down in her designated high chair next to him. She immediately grabbed a wooden spoon and began banging it on the counter, demanding attention. "There is flavor enough for all."
+
+He spent the morning selling. Mayonnaise. Curry roux. Paprika. Cumin. He introduced them slowly, one spice at a time, watching the town’s culinary palate expand in real-time. He explained to a skeptical blacksmith why oregano belonged on roasted cheese. He taught a grandmother how to use soy sauce in her vegetable soup.
+
+I watched the transaction logs scroll by, a soothing waterfall of data.
+
+[TRANSACTION COMPLETE. +100 XP.][TRANSACTION COMPLETE. +5 SPP.][TRANSACTION COMPLETE. +2.5 SPP.]
+
+My own progress was steady. I was currently System Level 2.3. I had unlocked a few quality-of-life features: a music player for the void (currently looping lo-fi beats to study/sell spices to), a better map with resource tracking, and the ability to project small, holographic emojis into Ren’s vision.
+
+Ren was Level 4. Still no class, but his stats were weirdly high for a civilian. His [Barter] skill was maxed out, and his [Cooking] skill was pushing into the 'Expert' tier. He gained XP from every sale, every successful negotiation, every satisfied customer.
+
+Around noon, the rush died down. Ren wiped the counter, closed the stall, and headed back to the inn. This was his favorite part of the day.
+
+He walked into the kitchen. Helga was there, chopping onions with a cleaver that looked like it could behead a horse. She looked up and grinned.
+
+"Busy morning?"
+
+"Sold out of the garlic powder," Ren said, unstrapping Lily and handing her to Helga. "How's the stew?"
+
+"Better since you tweaked the recipe," she admitted, bouncing Lily on her hip. "We're almost out. People are coming from the next town over just to try it."
+
+Ren rolled up his sleeves. "Let me handle the lunch rush."
+
+He didn't have to cook. He was rich enough to hire a dozen chefs. But he loved it. He loved the heat, the noise, the alchemy of turning raw ingredients into happiness.
+
+He made a massive pot of beef stew, using real beef (imported via the System from a non-extinct cow dimension) and a blend of herbs that made the air smell like magic. He adjusted the seasoning, tasting it with a critical frown before nodding.
+
+As he served the bowls to the eager patrons, he chatted. It was mundane, comfortable banter.
+
+"Did you hear?" a merchant from the capital asked between spoonfuls, wiping gravy from his beard. "The King is asking about the 'Golden Spice' from Dolaria."
+
+Ren paused, a ladle of stew suspended in the air. "Golden Spice?"
+
+"The curry," the merchant clarified. "Travelers are bringing it to the capital. They say it warms the blood and cures sadness. The Alchemists' Guild is trying to reverse-engineer it, but they just end up making spicy mud."
+
+"It's just turmeric and chili," Ren said modestly, pouring the stew.
+
+"Doesn't matter what it is," the merchant said. "It's popular. You know, you're wasting your time here, lad. A town like this... it has a ceiling. You should go to the capital. Open a real restaurant. Serve the nobles. You could be the King's personal chef."
+
+Ren looked at Helga. She was wiping the bar, listening intently.
+
+She stopped. She looked at the bustling inn, at the happy customers, and then at Ren. Her expression was a mix of pride and sadness.
+
+"He's right, you know," she said gruffly. "You've outgrown us, Ren. You're a big fish in a puddle."
+
+"I like this puddle," Ren said, looking around the warm, noisy room. "It's cozy. It's safe."
+
+"It's stagnant," Helga countered. "Look at you. You're importing spices from the gods know where. You're feeding peasants food fit for kings. You need a bigger stage."
+
+She nodded at Lily, who was happily chewing on a crust of bread.
+
+"And her? She’s special, Ren. Look at her eyes. There’s a spark there that this place will surely smother. She needs mentors; she needs a path. She won’t find that here. If she stays, she’ll grow up a mere curiosity in a backwater town, her future snuffed out before it ever truly began."
+
+Ren looked at Lily. He looked at the pendant around her neck, which pulsed faintly with a blue light.
+
+He knew she was right. He had been stalling. Staying in the starter town because it was safe. Because he was afraid of the wider world. He was afraid that if he stepped out of this bubble, the reality of this dangerous, magical world would come crashing down on them.
+
+But safety didn't level you up. And it certainly didn't teach a High Elf how to control her magic.
+
+That night, after the rush was over and the inn was quiet, Ren sat in his room. Lily was asleep in her crib, clutching a stuffed bear he’d bought from the shop.
+
+Ren stared out the window at the moon. It was large and pale, illuminating the frosted roofs of the town.
+
+"System," he whispered. "Ana."
+
+[Ana: I'm here.]
+
+"What do you think?"
+
+I paused. I floated in the void, looking at my SPP balance. I pulled up the map of the capital city I had unlocked—a sprawling metropolis of trade, magic, and, most importantly, wealthy customers.
+
+Capital cities meant higher prices. Higher prices meant bigger commissions. Bigger commissions meant I could finally buy the Level 3 upgrade and get my voice back.
+
+Also, Helga was right. Lily was growing. Her mana signature was getting stronger. Staying here was stunting her potential. And Ren... Ren was bored. He wouldn't admit it, but I could feel it. He had mastered this level. He was replaying the tutorial over and over again because he was scared of the main quest.
+
+[Ana: Helga is right. You’ve conquered the condiment market of Dolaria. But you’re a shark in a goldfish bowl. If we move to the capital, we can scale up. Restaurants. Franchises. A spice empire. You can change the culinary landscape of the entire kingdom.]
+
+Ren smiled, a small, wry quirk of his lips. "Always the capitalist."
+
+[Ana: I have needs, Ren. Expensive needs. Besides... don't you want to see what kind of ingredients they have in the big city? I hear they have a port. I hear they have seafood.]
+
+Ren’s eyes lit up. He sat up straighter. "Seafood?"
+
+[Ana: Fresh fish. Crabs. Lobster. Scallops. Imagine the curry possibilities.]
+
+Ren looked at Lily. He looked at his hands.
+
+"Okay," he said softly. "Okay. We move."
+
+He stood up and began to pack. He folded his clothes. He packed his spices. He looked around the room that had been his home for three months.
+
+"To the capital," he said. "To the big leagues."
+
+[Ana: To the seafood.]
+
+As he packed, I felt a thrill of anticipation. The tutorial was over. The real game was about to begin. And I had a feeling that the capital of Dolaria wasn't ready for the storm of flavor that was coming its way. I checked my SPP one last time.
+
+[CURRENT SPP: 850.0]

@@ -1,0 +1,301 @@
+---
+id: 421623c0-c865-567d-869b-877acfd1e8b5
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY-SEVEN: It's All Heroes or Aliens"
+slug: 0289-two-hundred-eighty-seven-it-s-all-heroes-or-aliens
+partOf: super-supportive
+position: 289
+ownLength: 4356
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3402430/two-hundred-eighty-seven-its-all-heroes-or-aliens"
+royalRoadId: "3402430"
+---
+
+287
+
+******
+
+By the middle of the second full week of term, Alden had settled in enough to start thinking of his schedule of classes and self-assigned practice hours as his routine until something big came up.
+
+He expected that big something to be Stuart’s affixation and everything that would follow it. The looming event crossed his mind a dozen times or more a day, but he was trying to cultivate equanimity about it. He’d filled his time with spell practice, skill practice, and learning everything else he could think of that might help them on Goldbush. He was doing as much as he knew how to do. Stuart would take the next step, and Alden would be there, as he’d promised.
+
+Equanimity is hard, though, he thought as he listened while Instructor Ash pointed out everything wrong with Judah Blake’s movement through traffic during the superhero’s famous capture of an unregistered high-rank speedster.
+
+Watching the speedster made Alden think of how difficult it had been to get a shield in front of an inconveniently sensible Winston Heelfeather during a duel they’d had in Combat I yesterday. Struggling against Winston reminded him that a couple of the animals on the list of native species he’d been learning for Goldbush used speed to escape predators or catch prey. Some of those animals would demonize toward even more rapidity. Rapid demons made him wonder if he and Stuart could handle that kind of problem, which made him think about Stuart’s affixation. And from there, he started worrying that Ro-den or Stuart’s family were stressing him out right now and weakening him when he needed to be at his strongest.
+
+I focus on my job. It’s all fine.
+
+His job at the moment was simple enough—watching Instructor Ash knock on the smart board with a ring to emphasize his criticism of his fellow Avowed. “Look at the idiotic way Judah chose to land on the hood of this van. Half of you could have done it better. Torsten Klein must lose a week of his lifespan every time someone calls something like this a display of athleticism. During one of your upcoming course days, I’ll make sure to include a moving obstacle the same size as this van, traveling at the same speed. If any of you splatter yourself across it like an insect that met it by accident, your team might not run again this quarter.”
+
+Some people laughed. Others paled.
+
+Today’s class was Alden’s eighth with Instructor Ash, if he counted last Friday’s coursing day despite it having been a total failure. The lesson wasn’t on how much Judah Blake sucked at handling himself in traffic, despite the instructor spending longer on this video clip than on most of the others he’d shown. They were talking about approaches to grabbing on to objects, or other Avowed, in motion. Alden assumed it was a sign that courses with moving obstacles were coming up sooner rather than later.
+
+That’s exciting…if we actually get to run.
+
+Ash hadn’t said anything as rude as he had on the first day with that remark about Alden being the weakest member of the weakest team in class. But the man definitely wasn’t in the running for most likable teacher on campus.
+
+“This one shows a hero most of you won’t be familiar with,” he was saying as he pulled up another video. This time it was of a teenager riding a bicycle along a wall that ran along the edge of a flat roof. “He’s been working for decades, but he hasn’t ever been considered very interesting by the media. I selected it because the hero’s about to snatch this champion of poor judgment from the air as he falls past the sixth floor window. He saves the fool, and the bicycle, with no harm to either. How would you do the same with your powers? Include the bicycle. We’ll pretend it was something actually worth saving.”
+
+Hands went up more slowly than they would have for other instructors, but they did go up. Alden doodled a bicycle on his tablet while he worked out an answer of his own. He knew how the rescue in question had gone down in real life because it was one of Howl Hawk’s, and even if it wasn’t globally well-known, it was cool enough that it still got replays in Chicago during interviews with him. It had happened before Alden was born. Howl Hawk had burst through the window and shaped pillars of wind to save the falling teenager. The hero had hit the concrete first and caught the guy and his bicycle while smiling, like it was easy.
+
+That shouldn’t have been easy for him if it was a surprise. Maybe it wasn’t surprising? He could have seen the guy goofing off on the roof and been heading up to talk to him. I don’t think I’ve ever heard details. Howl Hawk has kind of transitioned away from smiling since then.
+
+Alden did have some ideas about how he’d like to save a falling person himself.
+
+If I preserved someone who was falling off a building, then took them to a safe location and dropped them there instead, that would be neat.
+
+He didn’t want to answer that way, though, since he’d have to get into details like whether or not the person falling needed to shout, “I entrust myself to you!”
+
+While he was trying to come up with another way to do it, he saw Vandy’s hand go up. That was a normal sight, but it stole more than its usual share of his attention now. During the past couple of classes, he’d gotten the impression that Vandy was being disproportionately ignored. He was trying to figure out if he was right about that strange conclusion or not.
+
+Ash should really call on her for this one, he thought as he watched the instructor nod at a second year Meister whose team sat near the front. Vandy’s a Sky Shaper. One day she’ll be able to do the rescue the same way Howl Hawk did. Maybe she could even pull it off right now.
+
+And Vandy hadn’t been called on to speak today. Alden had been called on two of the three times he’d raised his own hand. He still braced himself for whatever was going to come out of the instructor’s mouth when he did it, but so far he’d gone largely unscathed.
+
+To his relief, most of their classroom lessons with Ash had been educational.
+
+They watched other superhumans move over and through obstacles—often superheroes at work, but also coursing teams at the high school and university levels. And they talked about the specifics of what talents those people were using and whether or not there were better ways for Avowed with those abilities to approach the type of challenge being shown. Watching footage and then talking about it reminded Alden of how Marion had structured the first Engaging with the Unexpected class, but the similarities ended there.
+
+Ash, almost always drinking a coffee that he added multiple sugar packets to as the lesson progressed, wasn’t interested in hearing his students debate each other. And he didn’t care to examine the mindsets and emotional struggles of superheroes or superhero hopefuls. He only cared about how well they had used their magic and their bodies. And some other factors that Alden hadn’t quite managed to figure out.
+
+If I understood what he looks for in other superhumans, maybe we’d be able to work it into our strategy for this week.
+
+The instructor kept calling on people other than Vandy.
+
+Why? He was definitely picking her more last week. Wouldn’t most teachers have called on her by now since she’s a great student and she puts her hand up every time?
+
+Am I reading too much into it?
+
+“That’s all,” Ash said abruptly after showing them the finale of the Howl Hawk video. “We’re done for the day.”
+
+He wasn’t one of those instructors who tied a bow on the end of his lessons. And he didn’t do the ubiquitous, “Does anyone have any questions?” thing. He just quit and took off the minute class ended, usually before his students had a chance to start standing up from their desks.
+
+“Strategies are due tomorrow,” Ash said as the smart board turned off.
+
+A few hands shot toward the ceiling. They were much faster than they had been a minute ago.
+
+“You already know everything you need to,” the instructor said, looking at the hands like they were a fence he was going to need to jump before he could escape. “Strategy evaluation day will be the same as last week.”
+
+I hope it’s not exactly the same, thought Alden, slipping his tablet and stylus into his bag.
+
+The desk to his front right creaked as Mehdi leaned forward in it, his hand waving like he had an urgent question. He wasn’t even the most zealous. That title went to another Agility Brute whose name Alden hadn’t yet learned. She was an S-rank with the same talent package Febri had. Alden thought she was either a first year in her third quarter or a second year in her first. He did know she was on an all-Brute team that had suffered the same fate as his own last week, which might have been why she practically fell out of her seat and threw an arm in front of Ash like she would die if he didn’t answer her question.
+
+He met her eyes for a second. It was long enough that she took it as an invitation.
+
+“If we didn’t get to run the course at all last week, does that mean we get a guaranteed run this week?” she blurted.
+
+“Yeah!” said Jeffy from his seat beside Alden before their instructor could speak. “I bet that’s how it works!”
+
+Alden turned to shoot a quelling look at the Aqua Brute and caught Lexi and Kon both doing the same.
+
+“That’s not going to be how it works,” Ash said, ripping open the fourth sugar packet of the hour and sprinkling it into a cup of coffee that had to be nearly empty. “It works like I explained already. If your strategies are approved, you can run. If not, you’ll try again.”
+
+“Oh,” said Jeffy.
+
+The girl who’d asked the question made a much sadder noise.
+
+Ash exhaled. “Seven Avowed combining their talents should be able to come up with ideas worth the floor. The last time I taught this class, every team ran at least once before the quarter ended. Goodbye.”
+
+He exited the room before anyone else.
+
+“We got a goodbye today!” Heloísa said, tossing her ponytail as she stood. “He’s warming up to us.”
+
+“He doesn’t get warmer than this,” the only third year in the class told her, striding for the door. “Not in my experience. Good luck, newbies.”
+
+“Here we go. Up, my teammates! On your feet. Meeting outside now.” Kon sprang out of his desk and started clapping Jeffy on the shoulder encouragingly.
+
+“Now?” asked Ignacio.
+
+“Now. Just for a second. Come on.”
+
+“I have a class to get to,” said Lexi.
+
+“A second.”
+
+They were huddled up outside on the small lawn in front of the MPE building a minute later. Alden could see students streaming past on the walkway a few steps behind Kon, who stood across their group from him.
+
+“So, you all heard what Instructor Ash just said. That man is absolutely willing to never let us on the floor if he doesn’t like our strategies. What are we going to do about it?”
+
+Kon had his usual energy in his voice. Alden was paying more attention to his moods now, even though the two of them hadn’t said much of anything to each other about Kon’s future on the Sdyelis Branch or what Esh-erdi might have told him about it. They never seemed to end up alone together. Alden suspected that was somewhat intentional on Kon’s part, but Kon had also welcomed him onto this team, ensuring they’d see each other every single weekday, so he didn’t think it was anything to worry about.
+
+“He said every team got to last time,” said Jeffy. His mohawk had been ombré blue instead of a solid shade since break.
+
+“He said ‘at least once.’ And it wasn’t even a promise! I don’t want to be on the gym floor once for this class. I want to run courses with you guys every week.”
+
+“We all want that, Kon,” said Lexi. “But we don’t know what he’s looking for.”
+
+Alden had heard that other Coursing instructors divided the time evenly among the teams. Ash preferred his own approach. In class tomorrow, each of the seven teams would turn in brief descriptions or video of strategies they wanted to use to overcome the two obstacles they’d been told in advance would be a part of Friday’s course. It was the only homework they had.
+
+Tomorrow, and every Thursday to come this term, the instructor would sit at his desk and evaluate those strategies while more clips he’d put together played at the front of the room. For the first half hour, students were allowed to quietly talk or text back and forth with their teammates. If something they saw on the videos or some flash of inspiration made them want to submit a different strategy, they could during that time. But for the last half of class, they had to wait for the instructor’s judgement.
+
+Last Thursday, at the very end of the period, Alden had wondered if it was taking so long because Ash was writing a lot of comments on everyone’s strategies. Then, thirty seconds before class ended, the names of the five teams that were approved to run the following day had appeared on the board, and Ash had swept out of the classroom without explaining why their team and the all-Brute one had been denied.
+
+His written commentary on their efforts was only four words long: “This is not enough.”
+
+Alden had been more furious about that throwaway line than anything else. Getting nothing more than that back after they’d taken the time to meet as a team and work out ideas together made him want to find Rahul on the uni campus, borrow the Wright’s weapon, and launch Ash toward the nearest wall with it.
+
+While the five chosen teams ran, they had sat on the bleachers or stood around near the barriers, only occasionally watching the action because they were busy trying to put together last-minute revised strategies. Ash said he’d consider edits up until the final run, but every time they’d sent Ignacio to deliver their new plans—operating on Kon’s assurances that Ash liked Ignacio during Superlatives club meetings—they’d gotten a shake of the head.
+
+“I could have beaten some of those teams he let run last week,” Mehdi declared.
+
+“By yourself?” asked Haoyu.
+
+“Maybe I was the problem last week.” Kon sighed. “I really wanted to use my skill like we did when we flew across the gym on the dog crate, so we kept trying to make me a part of one of the strategies. Let’s not list me in a major role for this week.”
+
+“You were going to get us to the top of the floating island, though,” said Alden. The floating island obstacle was what it sounded like. It floated, so there was no way to climb it. They had to jump or fly up to it. Their current plan involved Ignacio’s knives and Kon’s ability to send those knives back to a previous location.
+
+“It’s too impractical. Maybe that’s what makes it, ‘Not enough,’” said Kon.
+
+Lexi scowled at the reminder. He’d appreciated getting Ash’s four-word response to last week’s work almost as much as Alden had.
+
+“Let’s come up with something different to submit for the island,” Kon said. “Can you guys get together for a practice today? We’ll brainstorm. Try some things.”
+
+They all agreed quickly.
+
+Kon clapped his hands together. “How soon can we do it?”
+
+“This was my only class today,” said Alden. “So whenever the rest of you want—”
+
+<<How did you end up with only one class on Wednesdays?>> asked Ignacio.
+
+“Technically, I do have a meeting with an independent study mentor every Wednesday, too, but half the time we’re just going to exchange emails instead.”
+
+Last week, an advisor had called to ask what was up with his schedule. Alden had argued with her stubbornly and shamelessly until she gave in and agreed he could keep the classes he’d selected and add no others. Promising he could test out of a math class that he was definitely not able to test out of at present, and hinting that he needed his electives to be now and about aliens for important Rabbit reasons, had earned him a free pass until next quarter.
+
+A couple of months from now, he might end up trying to cram an entire math course into his brain with the help of Olorn-art’h’s earring, but why worry about it before then?
+
+“I’ll send you my basic schedule so that you have it,” he said to Kon. “We should have already done that since you’re our organizer guy.”
+
+“I prefer Captain Kon to ‘organizer guy.’”
+
+After they all went their separate ways, Alden sent Kon his class list. With the optional study halls removed, it looked like he wasn’t doing too much:
+
+Monday
+
+8:00 AM -10:00 AM — Accelerated Combat I (A/B Fitness) - meet at track
+
+10:30 AM -11:30 AM — Coursing I — MPE 108
+
+Tuesday
+
+8:00 AM - 10:00 AM — Accelerated Combat I — MPE Gymnasium
+
+10:30 AM -11:30 AM — Coursing I — MPE 108
+
+Wednesday
+
+9:00 AM - 9:30 AM — Meet with faculty mentor for Advanced Independent Study of Other Worlds
+
+10:30 AM -11:30 AM — Coursing I — MPE 108
+
+Thursday
+
+8:00 AM - 10:00 AM — Accelerated Combat I — MPE Gymnasium
+
+10:30 AM -11:30 AM — Coursing I — MPE 108
+
+Friday
+
+5:00 AM - 7:00 AM — Coursing I (runs) — MPE Gymnasium
+
+8:00 AM - 12:00 PM — Storytelling in Artonan — Pacific Welcome House
+
+3:00 PM - 4:15 PM — Engaging with the Unexpected II — Forthright 1207
+
+The Friday situation was going to be a little rough, but he was done by noon four days a week. At least on paper. In practice, he was dedicating that time to spells and everything else he was doing that Celena North didn’t offer classes for.
+
+His mentor for the independent study had seemed really excited that he was so passionate about her subject last week. He hoped that enthusiasm would translate to approval for the study he had proposed in his email to her this morning—Considerations for Humans Traveling to Worlds Corrupted By Survivable Levels of Chaos. He was studying that anyway, and he thought it would be satisfying to formalize some of it and get credit for it.
+
+It’s all heroes or aliens. Good job, me.
+
+Somewhere way back in his past, a younger version of himself would have been childishly delighted by a schedule like this one.
+
+“Hey, Victor, you excellent orange dude,” he said as he strolled into his apartment and was greeted by the cat. “You want to come and help me study?”
+
+Victor followed him back to his room, and Alden shut the door behind them. He slipped his leaf out from under the auriad on his arm and placed the end of it in a glass of water he’d left on the desk. Then he requested his books and growing supply of tools from System storage, enjoying the way the ingredient pouch felt in his hands.
+
+Setting up the soundproof tent Stuart had given him involved dropping it on the floor and reaching out to gently tap the opening symbol with his authority. It sprang to life, becoming an opaque green half-dome that Alden thought would expand into a sphere if he could somehow open it in midair. It didn’t quite fit in his room, but when it encountered anything remotely heavy it just stopped expanding in that direction. He could enter or leave it through a panel on one side.
+
+Finally, he took his learning cushion off his loft bed, where it now stayed most of the time. Victor had demonstrated destructive impulses toward the fake cushion and could never be allowed unsupervised access to the real one. Supervised access was fine, though. Alden took cushion, cat, magical supplies, earring, two cat toys, and an ordinary battery-powered lamp into the tent and sealed them all in together.
+
+It was cozy to kneel on his cushion, petting his cat, and settling in for what he knew would be a long study session.
+
+He started differently these days than he had before, selecting the nyip pod and a few other items from his ingredient pouch, spreading them out in front of him, and then closing his eyes. He pictured himself reaching toward someone else nearby whose location he wasn’t sure of. That wasn’t really what he was doing, but thinking that way made it easier to expand his sense of the space around him more evenly. Just a couple of arm lengths in every direction, he reached and then withdrew to his usual, quiet spot with a fresh awareness of the reality around him.
+
+The objects that surrounded him—cushion, tent, clothes, more—couldn’t be identified as what they were except for the fact that he already knew. But they could be easily identified as something different from his own body, the nyip pod, and Victor.
+
+He waited a while for the cat to stop brushing by him, so that he was sure he couldn’t tell through his sense of touch where his pet was. Then, he focused a little harder.
+
+He’s in front of me now.
+
+To my left.
+
+In front of me again.
+
+To my right.
+
+How far?
+
+He thought about that last question for as long as he needed to even though this learning partner had a tendency to ruin things by making himself vocally or physically obvious if Alden was slow.
+
+If I reach my right hand out, down a little and back a little…my elbow will still be slightly bent when my hand touches the cat. That’s correct.
+
+He did it, and his hand encountered soft fur exactly where he expected it to be.
+
+“Good kitty,” he said, smiling and opening his eyes. “You feel like life.”
+
+Victor pressed his head into Alden’s fingers and offered a rumbling purr.
+
+******
+
+******
+
+Late that afternoon, Alden found himself in the same park down in F where the Christmas market had been held. He stood on the grass near a bandstand that was unoccupied except for the occasional curious kid peering through the decorative railing. His hands were wrapped around the heel and grass-stained toe of the object he’d been entrusted with—a shoe— and his eyes were on the nonagon floating up in the air to his left. It was higher than anyone on their team could jump under normal conditions.
+
+He could hear five of his teammates discussing what he was about to do while Haoyu stood inside his own preserved sneaker, balancing his weight there and eyeing the nonagon, too. His face was pure eagerness despite being smeared with dirt from previous attempts.
+
+“I’m not sure the shoes are working as well for us as T-shirt lifts were,” said Alden. “And I’m concerned about breaking everyone else’s ankles or something if we try this same trick with them. But you’re my entruster, so whenever you’re ready…”
+
+Talking to the side of Haoyu’s leg was an unusual experience, especially while Alden held him so easily that it didn’t really feel like he was holding someone.
+
+“Count to three, and throw me!”
+
+“Double-handed, underhanded toss on three,” Alden confirmed, bending his knees. “I’ll try not to send you flipping this time, but no promises. One…two…THREE!”
+
+He heaved the shoe upwards. Balancing during the toss and maneuvering once he was in the air was Haoyu’s job. Alden tried to throw the shoe in a way that didn’t make that impossible. Sending it up like he wanted it to travel in a clean, spin-free arc then land on the nonagon was the move they were going for.
+
+Haoyu sailed into the sky with a whoop.
+
+Jeffy yelled his approval.
+
+“Too much!” Ignacio called.
+
+Definitely too much! Alden pressed his finger to the appropriate symbol on the driving ring, and sent the nonagon down and forward at an angle, trying to intercept his falling roommate. It didn’t so much catch Haoyu as give him something to bounce off of. He hit the ground in a roll, and leaped back up, clapping his hands and laughing. “Yes! Again! Alden, what if you hold me, jump, and then throw me at the top of your jump?”
+
+“I’m not even aiming you correctly as it is!” Alden looked over his shoulder at the rest of them. “I think this could be good on runs when we’re out of other options, but I don’t know about making it one of our strategies for this Friday. What do you all think?”
+
+“Can I fly?” Ignacio asked.
+
+“I could land better than Haoyu,” Mehdi said.
+
+“If by better you mean ‘in more pieces,’” said Lexi.
+
+“I can roll out of a fall that high fine. Do you want me to prove it to you?”
+
+“No.”
+
+“I’m sending you footage from my last duel to prove it to you.”
+
+Ignacio was zipping up his jacket and heading over toward Alden. “I’ll do this.” He crossed his arms over his chest. “You do my jacket and throw?”
+
+“Sure. This is good practice for me. But for the team?” He looked questioningly at Kon.
+
+Kon looked from him to the nonagon and back. “Are we all fine to practice for at least another hour?”
+
+Heads nodded.
+
+“Apex! Let’s see if Alden can get better at throwing humans around!”
+
+***

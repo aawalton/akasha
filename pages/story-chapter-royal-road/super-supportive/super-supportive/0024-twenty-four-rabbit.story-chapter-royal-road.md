@@ -1,0 +1,533 @@
+---
+id: 25b64e22-00aa-5818-a6d1-1e7d3880ca91
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-FOUR: Rabbit"
+slug: 0024-twenty-four-rabbit
+partOf: super-supportive
+position: 24
+ownLength: 5658
+unit: words
+publishedAt: 2023-03-09
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1132920/twenty-four-rabbit"
+royalRoadId: "1132920"
+---
+
+Rabbit
+
+It was late when Alden teleported back home. To his surprise, Boe was hanging out on the sofa using Alden’s laptop like it was community property.
+
+“Do you just live here now or something?” Alden tossed him a bag of banana chips. “You’ll note from the price sticker that these cost less than fifteen dollars.”
+
+He’d wanted to get a fresh banana, but it was against customs regulations.
+
+“You spend the day in hero land, and all I get is,”—Boe adjusted his glasses and checked the tag—“a seven dollar snack size bag of freeze-dried fruit. That’s robbery. You’re making my point for me. You’re going to starve to death.”
+
+Alden was tired and drained, but he had actually been anticipating this moment for the past couple of hours while he sat waiting for his teleport time slot in the departures lounge.
+
+“I might,” he agreed, trying to sound casual as he kicked off his shoes. “Only got five million for Chainer. Hey, where’s Aunt Connie?”
+
+“She went out for drinks with some friends…” Boe’s fingers froze on the keyboard. “Wait. Run that sentence past me again.”
+
+Alden grinned. “I said, ‘Hey, where’s Aunt Connie?’”
+
+Boe flung the banana chips at him. “You’re not serious?!”
+
+“I seriously wanted to know where she was. She’s my aunt. I do love her, you—”
+
+“You jerk! We have to call Jeremy. How did you already get paid? Did you just go to the Velra mansion and knock? And how did you get five million, you total pushover? You were there for a funeral!”
+
+“Hey, don’t throw my laptop around like that!”
+
+“You can buy yourself another one with all of your newfound wealth.” Boe was reaching for his phone. “Rabbit? Or did you chicken out and ask for Adjuster in the end?”
+
+“Rabbit,” Alden said, checking his computer for damage. “It was a long day. The funeral went well. As well as a funeral can go. It still feels strange to say goodbye to her when nobody even knows what happened. As for how everything else went down…the Velras are batshit.”
+
+Boe eyeballed him. “Did you already affix? You don’t look like you did.”
+
+Alden snorted and flopped onto the sofa. It felt good to be home. “You think it would show? With Rabbit?”
+
+Boe shrugged. “A little maybe. Jeremy’s not picking up.”
+
+“I didn’t affix. I was worried the security scanner at the teleport place might be able to tell. I’ll do it in the morning when I’m rested. And I need to freshen up my knowledge of all things Rabbit before I have to make final decisions.”
+
+“That’s what I was doing on your computer. Since you know your skill choice, the big thing will be your trait selection. I’ve never paid much attention to that before since it’s Rabbit, but it’s a good feature. Kind of like getting to choose your own class subtype. I think…”
+
+Alden listened while Boe rambled on.
+
+Tomorrow, he thought. Tomorrow is the real start of it all.
+
+Jeremy woke the entire house up on Sunday morning by banging on the front door at six AM.
+
+“I was afraid you were going to affix it without me,” he whispered, while Boe flipped him off with both middle fingers.
+
+Alden apologized to his slightly hungover aunt, told her she could go back to sleep, and sent Jeremy to fetch breakfast as punishment.
+
+“This is probably the only time in my whole life I’ll ever get to see anyone become an Avowed,” Jeremy said in a pitiful voice as Alden shoved him back out the door.
+
+“I’m not going to do it without you. I’m not even fully conscious yet. Plus there won’t be anything amazing for you to see.”
+
+At least he didn’t think there would be. Some people fainted, but even if Alden was one of them, it wouldn’t be much to look at.
+
+An hour later, they were all eating convenience store snacks together in the floor of Alden’s bedroom, trying to talk quietly about trait selection so that they wouldn’t wake up Connie.
+
+“We should just do this at the consulate,” Boe said finally. “I can’t argue properly with a volume limit. And Skiff shouldn’t be spying anymore, right?”
+
+“Definitely not if he worked for the Velras. Probably not if he didn’t. My listing for Chainer would have disappeared when I traded the class.”
+
+“I can’t believe you two escaped from a superhero without me.”
+
+“We quietly walked past him, Jeremy. It was no big deal,” Alden said.
+
+“Well yeah…if you’re comparing it to getting stolen away in broad daylight by a gorgeous chick in a sports car.”
+
+“She was stressful. And forty-something.”
+
+“I looked her up online. I think you’ve got to be wrong about that.”
+
+“Completely monopolizing a Healer to give your family eternal youth is fairytale villain stuff,” Boe said. “Gotta respect it.”
+
+They continued the conversation on their way to the consulate, where Gorgon let them in even though it wasn’t yet officially open.
+
+Alden ran straight to the desk. “I got Rabbit!” he said excitedly. “I’m going to affix it this morning.”
+
+“I see,” Gorgon said, not looking away from his monitors. “You may use the basement if you wish. We will be open to the public soon, and making adjustments to your class during affixation can take some time.”
+
+“I know you can’t say anything encouraging, but I can sense your enthusiasm buried deep, deep down.”
+
+I hope. A tiny part of Alden was still paranoid that the luggage thing was a coincidence. And right after he affixed, Gorgon was going to say something like, “You moron. Why would I ever suggest a loser class like Rabbit?”
+
+That’s not what’s going to happen. It’ll be fine. There will be something about the luggage skill that makes it good.
+
+They took the elevator down to the hall of beige-ness.
+
+“Awesome!” Jeremy said, racing toward the first door and jostling the handle. “Aww…this one’s locked.”
+
+He went to the next and tried to turn its handle, too.
+
+“Yes, keep doing that. I’ve always wanted to be killed by some eldritch abomination the Artonans are keeping hidden away underground,” Boe said.
+
+“I think if he manages to open one it’s more likely to be a storage closet. Or a conference room.”
+
+“This one’s open!” Jeremy shouted.
+
+“That’s because it’s the one we’re allowed to use,” Alden told him.
+
+“Wow. Were you planning to move in down here?” Jeremy stepped over the rumpled sleeping bag and water bottles.
+
+“Yeah, I was. I thought I’d have to trade 24/7 for the next few months to get something good. But…the Velras happened.”
+
+Boe was fondling the cloudy crystal table. “I wonder what this thing is made of.”
+
+“Magic stuff.”
+
+Alden frowned, remembering something. “I told B74 I’d come back. I did mean to. That asshole is going to think I’m an even bigger asshole.”
+
+“If he doesn’t like the taste of it, he shouldn’t serve it to other people,” said Boe.
+
+Jeremy took the folding chair, so after a moment’s consideration, Alden hopped up to sit on the edge of the trading table.
+
+“Are you going to do it now?” Jeremy asked eagerly.
+
+Boe shot him a look. “Stop asking that every twelve seconds. He might have a few reservations about signing his life away, you know.”
+
+“Why would he? Your choices are saying ‘yes’ to the contract and getting a thank-you prize. Or saying ‘no’ and getting squat. You become a superhuman either way.”
+
+Jeremy was right. The only reason anyone would reject the contract was out of deeply held anti-Artonan beliefs or because they were scared of being summoned. It wasn’t an official policy, but it was widely known that the aliens deprioritized people who refused to agree, even if they wouldn’t outright delete them from their list of potential summonses.
+
+They preferred to use willing helpers before they resorted to angry or petrified ones.
+
+“I’m good to go,” Alden said. “I think. I just need to say yes. Pick the skill. See what traits are offered with it. Become amazing.”
+
+Boe snorted. “Become a bunny you mean.”
+
+“I’m going to use my new luggage carrying powers against you.”
+
+“…I’m sure that sounded more threatening in your head.”
+
+“You can use your powers on me!” Jeremy volunteered.
+
+“Thank you, Jeremy. You’re my favorite friend.” He took a deep breath. “Okay. Let’s do it.”
+
+He opened up the System’s acceptance page. There was an option to listen to the selection speech again, and his finger hovered over it. But he knew that was only anxiety. He’d nearly memorized it when he was a kid. There were no secrets hidden in the words.
+
+[Pre-affixed Selectee: Samuel Alden Thorn]
+
+[Divergence Rank: B]
+
+[Assigned Class: Rabbit]
+
+…
+
+[Samuel Alden Thorn, do you willingly accept your duties as one of Earth’s Avowed, thereby satisfying a portion of your planet’s debt to Artona?]
+
+[YES/NO]
+
+2091 h: 23 m: 11 s
+
+“I would like to accept the Interdimensional Warriors Contract.”
+
+He spoke in a deliberately steady voice. It felt like an occasion where you should say it out loud instead of just clicking.
+
+“Oh, shit. He’s really doing it,” Jeremy whispered, staring at Alden with huge eyes.
+
+“Let him focus.”
+
+The acceptance page disappeared.
+
+“Welcome, Alden,” the System murmured in his ear. “And thank you for your future service. Please take your time refining your choices for class-specific options. You have two thousand ninety-one hours before they will be randomly affixed.”
+
+“It’s done,” Alden said.
+
+Before he could add anything else, six new points of light appeared in front of his eyes and bloomed into option panes.
+
+“My palms are literally sweating. Isn’t that stupid?” Alden dried them on his jeans. He hesitated for a second, then selected FOUNDATION.
+
+He already knew what it should look like, since the stat bonuses for every class and rank, except the uniques, were standardized. But he still wanted to see it.
+
+Foundation was divided into two subcategories. One called Foundational Enhancements and one called Class Effects. Alden chose the first, and scanned through it.
+
+It’s totally normal. He’d wondered if giving his blood to Gorgon might have some effect on his stats…but if it did, it wasn’t reflected here. Makes sense I guess. The System’s only listing the things it will add itself.
+
+It didn’t even list whatever Alden’s base stats as a fairly-average human teenager were. It just started from zero.
+
+FOUNDATIONAL ENHANCEMENTS
+
+Note: 1 pt is roughly equal to a 10 percent improvement over your species average. Rank-based class bonuses have been automatically applied.
+
+Alden sighed. “That full point being automatically applied to Appeal instead of something else really rubs the wrong way.”
+
+Rabbits were the only class that had a starting bonus in that category. Probably because the Artonans expected to have to deal with them more often and in more social settings.
+
+“Tons of places require a full point or more in it for hero work anyway,” said Jeremy.
+
+“I know. Everyone wants their hero team to be friendly and photogenic. But still…”
+
+The stats listed here were just the tip of a vast and complicated iceberg. The System tried to simplify things for people who didn’t want to get double Ph. D’s in the human body and the magical mutation of it.
+
+Any point added to one of these top-level stats was actually being divided and applied to all the various physical and mental components that formed that quality. If Alden selected Appeal and dug down into the sub-stat menus, he knew he’d find that the point was affecting all kinds of different things, from his facial symmetry to his ability to empathize with others.
+
+As part of the 1963 Agreement, the Artonans weren’t allowed to force psychological adjustments on humans through the System, though. So prior to affixing the point, Alden could delete the percentage of it that would make him better at playing well with others.
+
+But doing that, especially with a single point, was a bad look for someone who wanted to go the hero route.
+
+Next, he selected Class Information.
+
+RABBIT - RANK B
+
+Class Standard: Your eyes are wide open to the workings of magic. Your ears await the Triplanets’ call. All Rabbits receive at least one skill.
+
+Rank Perk:
+
+*You may choose one spell impression from the spell list prior to affixation.
+
+*You may choose one spell impression from the spell list after affixation.
+
+Class Perk:
+
+* You may select your primary class trait.
+
+* Rabbit's Wardrobe
+
+Class Penalties:
+
+*Your summons response timer is set to 48 seconds. (Note: All emergency summons are instantaneous. Response to emergency summons will be commensurately rewarded.)
+
+*Summoners will not offer access to skills or spell impressions in exchange for your regular services. Summoners may still offer foundation points, tools, or spell instruction for extraordinary service.
+
+*New skills and spell impressions are only available upon leveling of starter skills or upon long-term personal assignment to approved parties.
+
+*Your quest rejection/acceptance ratio may not exceed 1/20.
+
+Class Trait:
+
+Please finalize skill selection to unlock this option.
+
+“No surprises,” Alden noted as he finished reading through it. “The summons response time is like something from a comedy.”
+
+Other classes usually had multiple hours or even days notice before they were summoned for non-emergencies. Forty-eight seconds was barely long enough to put clothes on if you got summoned in the middle of a shower.
+
+Under Privileges, he found his signing gift. He was allowed to choose among three options: three stat points to spend in foundation, a tool called The Fragile Atmosphere, and the Rabbit class spell Wardrobe Change.
+
+The Fragile Atmosphere was offered as a signing bonus to almost every class. It was a single-use life support device that would give you around six minutes of Earth air, gravity, and atmospheric pressure. It was a great “oh shit” button in all kinds of situations, but single-use was hard to swallow.
+
+Wardrobe Change was slightly better than it sounded. It was a short spell that would let you quickly swap between various pieces of gear you had purchased from the Wardrobe all Rabbits had access to. But the stat bonuses on Rabbit gear were so small they were almost decorative.
+
+“The foundation stat bonuses will be the best,” Alden said.
+
+“Don’t just assume that. You haven’t even read the detailed description for your skill yet.”
+
+“I know, Boe. I’m doing it.”
+
+Moment of truth. Alden selected SKILLS, bit his lower lip, and scrolled through the seemingly endless options toward the L’s.
+
+There was a chance—a very slim one—that Let Me Take Your Luggage wouldn’t be there. The System made adjustments all the time. And it sometimes limited the number of people who had certain skills or spells by deleting them from the list of available options when it had met its quota.
+
+But it was there. Right between two equally mysterious options.
+
+[Let Me Make You Toast — Rank: F]
+
+The Rabbit makes near-perfect toast every time.
+
+[Let Me Take Your Luggage — Rank: B]
+
+The Rabbit carries an item that has been entrusted to them.
+
+[Letter Writing — Rank: D]
+
+The Rabbit has near-perfect penmanship.
+
+“Well, don’t accidentally click the wrong one.” Boe raised an eyebrow when Alden read the other two aloud.
+
+“Yeah. Those suck,” Jeremy said. “Who wants perfect penmanship? Just type that shit.”
+
+The instructions at the top of the skill list said Alden could have one B skill or a D and an F. Not two Fs or one C or any other logical-seeming combination. The unavailable skills weren’t even listed.
+
+“Why do you think they don’t really explain what some of the skills do until we select them?” Alden asked, staring at the interface. “It seems spiteful now that I’m actually in this position.”
+
+“It’s because the Artonans are dicks,” Boe said.
+
+“My parents think it’s one of the ways they slow the pace of human knowledge acquisition without violating the terms of the 1963 Agreement. Their deal with Earth requires them to give us access to a certain amount of magic and tech and stuff. It doesn’t require them to tell us what it does or how to use it.”
+
+Boe and Alden both looked at him.
+
+“They’re lawyers. They had to do entire classes on Artona/Earth contracts in law school.”
+
+Alden considered it. “So…it’s because they’re dicks. Here we go then. Let’s hope Gorgon knows what he’s doing.”
+
+He took a deep breath and selected the skill.
+
+[Let Me Take Your Luggage is a B-rank skill. You will not be able to choose another skill at this time. Attempting to de-affix this skill through magical means is forbidden and will cause severe harm to your person. Are you certain of your choice?]
+
+“Yes.” He wished he was a little more certain, but everyone probably felt that way no matter what they were choosing.
+
+There was a brief pause, then the skill description expanded.
+
+Alden felt a rush of excitement. “Ladies and gentlemen, we have details! Oh, wow. This is real!”
+
+“Which of us is the lady?” Jeremy stage whispered to Boe.
+
+Alden didn’t hear Boe’s reply. He was too busy reading about his new magic skill that did something magical.
+
+His heart was racing as he scanned the description.
+
+Please be awesome. Please be awesome.
+
+*While you are carrying a tangible item that has been entrusted to you by your target, the item will be preserved.*
+
+Cessation of carriage will end preservation.
+
+Loss of contact will end entrustment.
+
+Retargeting will end entrustment.
+
+Summoners will be autotargeted for heightened efficiency.
+
+Foundational Supplementation:
+
+Proprioception +1.5 Agility +1 Visual Processing +1
+
+Alden read the description several times. “Huh,” he said finally.
+
+“That bad?” Jeremy asked.
+
+“You’re not really going to grow extra arms are you?” said Boe.
+
+Alden grinned. “No. It’s good. I think? It’s just not any of the things I guessed it might be. There are a lot of unknowns even with the extended description.”
+
+He read it aloud slowly.
+
+Jeremy looked confused, Boe surprised.
+
+“It’s for preserving a carried object? I really didn’t expect that either. I thought…”
+
+He trailed off, and Jeremy jumped in. “Did you think it was going to make him hella strong? Because I did. I thought he’d be able to carry cars around as long as some he-man passed them to him first.”
+
+“Yeah I considered that. But actually my favorite theory was heading in a more metaphorical direction. I thought maybe he could temporarily take away peoples’ pain or stress or something. Like a fast-acting, mini Healer of Mind. It would work for support.”
+
+“I was hoping for my own portable pocket dimension,” Alden confessed. “A bit.”
+
+“Oh my god. Really? As a B-rank?”
+
+“I thought maybe a little one…”
+
+“Those stat supplements are small, by the way,” Jeremy said, frowning. “Isn’t he supposed to get closer to ten altogether?”
+
+Boe nodded. “Yeah, three and a half is puny for a class that only gets one rank-appropriate skill. Theoretically that means the System thinks the skill is near maximum value for B. But…”
+
+“I’m going to be so squishy,” Alden agreed, trying not to feel disappointed. “Regular human squishy.”
+
+“You’ll have your armor when you drop some Argold in Wardrobe, Mr. Millionaire,” Boe said. “But yeah. You’re starting wayyy behind the curve physically if you want to hang around actual superhero fights. I noticed your skill description doesn’t say you’ll be preserved. Only whatever you’re carrying.”
+
+“Yep. And it’s doing whole point increases of proprioception and visual processing. That’s niche. Wouldn’t it usually just throw it all into Agility? Or even head down a level from that and directly boost Balance?”
+
+“Read it all to me again?” Boe had pulled out the laptop.
+
+Alden did. When he got to the stats, he tried to consider what the System was thinking he’d need them for. It was an additional clue, since presumably it had chosen the ones that would make him best able to use the skill effectively when he was summoned.
+
+“It doesn’t want me to fall down?” he guessed.
+
+“That’s what I think, too,” Boe said,. “And it doesn’t seem to expect you to be knocked over a lot in the course of your Rabbit chores. The percentage strength boost that will naturally come with the Agility buff is too small. It might just be enough so that you can make use of the increase in proprioception. Along with the visual acuity…I think it’s just worried about you tripping over stuff or navigating crowds?”
+
+“So the skill is more often used for carrying delicate things than heavy things?” Alden suggested. “That’s what it sounds like.”
+
+“Right. Human strength and stamina must be sufficient for most summoners’ purposes. But the preservation effect ends if you fall or drop the ‘item.’ So, the System wants you to not do that.”
+
+Jeremy cleared his throat. “What you’re saying is…it’s a skill designed for transporting expensive vases?”
+
+Alden tried not to feel offended. “That doesn’t make sense,” he said. “Nobody needs to preserve a vase.”
+
+Actually what I really need to understand is what the System means by preservation in the first place. Am I supposed to be like a walking mini-fridge for perishables?
+
+Boe seemed to be thinking along the exact same lines. “I think he’d be better at carrying something like an ice sculpture than a vase,” he said. “The preservation has to be the important part. The natural thing to assume is that it stops the item you’re given from being damaged by outside effects, right? Like heat and cold and impacts.”
+
+“So it’ll be a shield for whatever he’s got in his hands?” Jeremy said, perking up. “That’s cooler.”
+
+“Maybe. It doesn’t say he has to use his hands, though. Or that there’s definitely a shield involved. We’re just guessing on those things until he actually finalizes it.”
+
+Alden grinned. “Oh, I hope it’s a shield effect! Do you know how perfect that would be? I could have someone hand me a trash can lid, and as long as I was carrying it, everything would bounce off the shield around it, right?”
+
+He paused, realizing something. “‘Cessation of carriage’ is separate from ‘loss of contact.’ That means it doesn’t consider holding and carrying to be the same thing. So…I’ll have to be moving for the skill to be active.”
+
+Boe’s eyes widened. “Right! Not just moving though. Carrying. We don’t know how it defines that exactly. Can you hold something in your lap while you ride around in a car? Or do you have to be moving under your own power?”
+
+The first would be so much better.
+
+Alden’s imagination was running wild with possibilities. If the shield thing was right, and he could use a car… No. Stop. I’m getting ahead of myself.
+
+He couldn’t choose his trait and signing bonus based on what he hoped the skill did. He had to be realistic.
+
+“I bet I have to move the object on my own. Or we should assume that. To be safe, we should probably assume that I have to physically bear the entire weight of whatever the thing is, too. The System wouldn’t be giving me specific anti-tripping stats if I could easily avoid dropping my object by keeping one hand on it while I rode around in a vehicle. I need to think this through.”
+
+Boe and Jeremy went quiet, and Alden spent the next few minutes with his eyes closed, trying to imagine different scenarios in which he might use the skill.
+
+As far as what he would be doing with it when and if he was summoned, he had a feeling Boe wasn’t too far off the mark with the “carrying ice sculptures” thing. Only instead of ice sculptures it would be something much more finicky and valuable to the Artonans…maybe delicate magical devices or crumbling historical documents that needed to be moved carefully.
+
+Maybe he’d be doing mostly specialized courier work.
+
+But that was on Artona. Presumably the skill alone was sufficient to make him worthwhile as a summons from the aliens’ perspective.
+
+The question was, how did Alden turn it into something he could use here on Earth, where he’d be spending most of his time and eventually trying to get a job as a battlefield support.
+
+Even if he could use the item he was carrying as a magic shield…it would have to be a certain size to be useful. If he could make shrapnel bounce off something like a tablecloth that would be fantastic. But what if it didn’t work that way?
+
+And if it did, how would he get himself and his super tablecloth where they needed to be on a battlefield or for a rescue operation?
+
+After a long while, he said, “I think trying for higher mobility and reaction time is the right choice?”
+
+Jeremy leaned back in the chair, “You mean taking the stat bonus as your signing gift and dropping it all in Agility and Speed?”
+
+“Pretty much. I’m hoping I can shield myself with the carried item. But whether I can or not, it’ll be more valuable for me to be quick. Maybe I’ll be carrying…things?…for heroes, or just trying to get out of the way in a pinch. A Rabbit’s not going to be able to go toe-to-toe physically with many villains anyway.” He paused. “I could dig down a little and drop a partial point in Reflexes? Or even instinct?”
+
+“Don’t screw with instinct,” Boe said, drumming his fingers on the table. “That one makes people real paranoid if they overdo it. But everything else you just said makes sense. You need to dodge hits, not take them in the face. And if the System’s leaning toward boosting your balance and situational awareness anyway, it’s probably good to go along with the program. Did it give you any trait selections that will work?”
+
+Alden went back to the class information page. There were now several traits available. For some reason, the System used colors for the names. Alden didn't know if it was trying to make the traits seem fun and friendly or if it had some basis in Artonan culture.
+
+Please choose a trait to help you perform your duties.
+
+“Is it just me,” Jeremy said after Alden read them aloud. “Or are those all surprisingly good for combat?”
+
+“They definitely are! Well, not Green unless I plan to be summoned on a daily basis. And Citrine’s more case specific, but it’s also got being a permanent effect in its favor.”
+
+Alden was actually thrilled. He’d skimmed over the known Rabbit traits with Boe last night, and many of them were only useful after you’d been summoned or in particular environments.
+
+He wanted three of these. But he could only pick one.
+
+“I’m mildly concerned about the Citrine trait,” Boe said, typing away. “It looks like not a lot of people have the chance to choose it. You don’t really think of Rabbits being unprotected around environmental contaminants often enough to justify speccing for it do you?”
+
+Alden shrugged. “It’s probably got some specific case use in combination with the skill. Tell me again about Azure. I know we talked about it last night, but it’s personal gravity reduction, right?”
+
+“Sort of. Based on user reports, it seems like it’s a coat of magic that transforms a percentage of gravity’s effect on you into force as you kick off the ground. It’s amazing if you want to go for mobility, but you have to remember that the Artonans are weird about what counts as ground.”
+
+Ground was one of the Artonan elements Shapers could use.
+
+Artonans thought their personal concept of “ground” was obvious. But it really wasn’t.
+
+Many things humans used as flooring didn’t qualify. A floor made of granite slabs was definitely ground. A floor made of concrete was, too, but it was less ground than the granite…and if it was several stories above the earth it might be classified as an object. Wood flooring often wasn’t ground, but a big pile of wood mulch almost always was.
+
+Literally any pot full of soil with a live plant in it was ground. Even if it was on an airplane.
+
+“I want it,” Alden said.
+
+City streets were usually considered ground.
+
+“Seriously?” Boe sounded exasperated. “I get that it’s the coolest looking of the options. But you’re going to be running away from a supervillain one day, and you’re going to try to escape from them using an overpass or something and it will suddenly be not fucking “ground” anymore because it’s over-crafted or the altitude is six inches too high. Take the composure enhancement.”
+
+“Not that one,” Jeremy argued. “You can just learn to be more chill. Attention to detail is better. Sounds like a Sherlock Holmes power.”
+
+“‘Learning to be chill’ in an emergency is not easy.”
+
+“I see the benefits of both of those,” Alden said. “But it’s no good to notice details if I don’t have the power to do anything about them. And I think if I have serious composure problems under pressure I should probably look for a different career instead of trying to magically impose calm on myself. Can you imagine the whiplash if I dropped my item in a fight and went from zen to panic attack instantaneously?”
+
+Boe squinted at him. “It’s your choice. I guess you can audit a Shaper class and study ground. It just sounds like an additional mental strain in a crisis to have to figure out what everything under your feet is made of.”
+
+“It’s something I can practice, though,” Alden said, selecting the option.
+
+After that, he went into spell selection. B-ranks Rabbits did not get to choose B-rank spells. He could have one F-rank spell of any type or one high complexity D-rank.
+
+As opposed to skills, all spells required the user to perform a deliberate set of casting actions. The simplest ones were just a magic word or two. More complicated ones could require finger gestures, chants…even wands.
+
+“These are all garbage,” Alden muttered after staring at the options for twenty minutes.
+
+“Of course they’re garbage. You’re not an Adjuster. You’re lucky you get to play with spells at all.”
+
+Since the spell would be given to him as an impression—directly transferred into his brain—he didn’t have to worry about mispronouncing a paragraph-long chunk of Artonan words or mastering peculiar finger motions. But those still weren’t things you wanted to be doing when time was of the essence.
+
+And a lot of these spells did stuff that technology could do better. How often would Alden need a complicated image capture spell, really, when he had a camera in his pocket that would work in a tenth the time?
+
+He dithered between a signal flare spell and one that would create a loud bang a set distance and direction from his position. He loved what the noisemaker spell did, but it was also an extremely common choice among heroes. Instead of being distracted, lots of people would hear it and know exactly where you were.
+
+His eyes landed on a complex D he had initially dismissed because it required an actual magical ingredient. I don’t have to avoid them. I’m rich now.
+
+“Boe, can you look up something called a Temper Sphere?”
+
+“It’s a magic thing?”
+
+“I guess. It’s a spell ingredient.”
+
+After several minutes of searching, Boe said. “Yeah. It looks like a glass ball full of glitter dirt.”
+
+“How big is it?”
+
+“It’s about half the size of an egg, judging by this picture some guy has posted of one beside an egg. But the more important question is, ‘What does it cost?’”
+
+“What does it cost?”
+
+Bored with Alden’s long silence, Jeremy had gone to stand over Boe’s shoulder and stare at the computer ages ago. “It’s two hundred Argold,” he reported. “For one.”
+
+Alden winced. So practicing with the thing would be expensive. But once he mastered it, it wasn’t like he’d need it often.
+
+“You can just buy them on Anesidora, right?” Alden asked. “I don’t have to wait for some Artonan to give them to me as a tip or something?”
+
+“Yeah, they sell them in Wright shops. What’s it do?”
+
+“If you use the right spell on it, it turns invisible and screams. It’s only good for one or two uses though.”
+
+“Cool!” said Jeremy.
+
+Boe crossed his arms over his chest and stared off into space. “Yeah, that is cool,” he said finally.
+
+“Great.”
+
+Alden selected the Haunting Sphere spell.
+
+Finally, he chose his signing bonus and divided the three precious stat points evenly between Agility and Speed. He would have liked to put a little into general mental processing. But when he tried to add another half point, the System informed him that based on his other buffs, he’d have to wait while the additional processing was gradually affixed over the course of around six months.
+
+Agility and Speed would be giving him more anyway, and on top of the visual processing buff, Alden’s brain just wouldn’t take any more instantaneous enhancement. So he dropped the idea for now.
+
+Maybe in six months he’d have gotten more points anyway.
+
+“Stop pouting,” said Boe. “We can’t all be me.”
+
+“I don’t think it would let you have much more either, genius. It just doesn’t like doing fast intelligence enhancements on teenagers.”
+
+Actually, it didn’t like doing them on most people. The System was disinclined to build artificial super-geniuses. It gave almost everyone some kind of hard limit on sheer organic thinking power and started supplementing with various magical effects to satisfy the needs of Avowed at the highest levels.
+
+When it was all done, he looked it over about a dozen times.
+
+Nothing else but to do it, he thought.
+
+“Finalize affixation,” he said.
+
+A moment later, he felt a strange rush of something.
+
+Everything went black.

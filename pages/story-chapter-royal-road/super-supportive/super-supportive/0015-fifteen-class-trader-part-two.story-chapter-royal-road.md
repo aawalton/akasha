@@ -1,0 +1,413 @@
+---
+id: dfc97163-d202-561b-a4a9-2a442a26aa79
+page-type-slug: story-chapter-royal-road
+title: "FIFTEEN: Class Trader, Part Two"
+slug: 0015-fifteen-class-trader-part-two
+partOf: super-supportive
+position: 15
+ownLength: 4401
+unit: words
+publishedAt: 2023-02-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1118061/fifteen-class-trader-part-two"
+royalRoadId: "1118061"
+---
+
+Class Trader, Part Two
+
+On Saturday morning, Alden woke up to the trill of his cell phone alarm at the completely uncivilized hour of 4 AM. He crawled out of the cozy sleeping bag he’d brought and flicked on the trading room’s fluorescent lights.
+
+It should be afternoon in India and Indonesia. Evening in China.
+
+Time zones were now something he cared about. He needed to be awake when large numbers of his fellow B-ranks were, and this should be a good time to catch any newcomers.
+
+And, hopefully, it would also be a good time to dodge B74. The other selectee had a lot more experience with trading and a better class to work with than Alden did, plus he was almost always online. Alden needed to take advantage of the guy's brief absences.
+
+B74 was located in the Avowed zone in the western half of North Dakota, an hour behind Chicago time. And he’d been up until after midnight last night, probably chugging energy drinks and bothering a newcomer with the ID B105, who’d popped up on the trading platform with the Shaper of Life class gleaming like a beacon at the top of their listing.
+
+That class was on 74’s wanted list. Alden was almost positive 74 had made a pest of himself, because the Shaper had only hung around for an hour or so before going offline entirely. Not even an autotrade option was left behind to mark the fact that they existed.
+
+B74 had set his own autotrade about three minutes later. He still hadn’t managed to get Shaper of Life.
+
+Alden, who’d been quietly examining the other B’s and tweaking his own listing, had smiled. It was partially schadenfreude. 74 was rude, and Alden didn’t want him to have good things.
+
+But the other selectee’s antagonistic existence also played into his own plans for his new career as a class trader. If 74 was going to go around cursing at people with bad classes and annoying the shit out of people with good ones, then Alden would be the light to his darkness. He'd be the friendly one people could talk to. Maybe, hopefully, someone would be more inclined to trade with him because of that.
+
+His listing was freshly updated to reflect that goal.
+
+[ID: B13  Location: Artonan Consulate 4, USA
+
+Trading: Meister of Cudgel
+
+Wanted: Adjuster (All), Brute (Speedster, Uncommons), Healer (All), Meister (Traps, Wands, Uncommons), Shaper (All), Sway (All), Wright  (All), Rares
+
+Notes: Meister of Cudgel seems like a class with potential, if close-range weapons appeal to you. It has novelty value compared to the more common weapons subclasses, and we all know branding is particularly important for B-ranks hoping to pursue hero work. I’m happy to chat with anyone even if negotiations aren’t on the table. Looking forward to meeting you all on Anesidora soon. I might be the guy with the club.
+
+Autotrade: NO]
+
+Obviously, Alden didn’t actually want all of the things his “wanted” list covered. But he needed to give an impression of openness to conversation, and he shouldn’t take the risk of missing out on some strange subtype he’d never heard of.
+
+He thought mentioning their future as possible neighbors and classmates on the island was a pleasant touch. And a good indicator that unlike some people, he wouldn’t bite someone’s head off if they approached him with a class he didn’t like.
+
+Satisfied for the time being, he sat down and logged himself in. He scanned the list, sipping from a cup of water he’d poured before crawling into his sleeping bag a few short hours ago.
+
+B74 was still absent.
+
+And, with a thrill, Alden saw that the Life Shaper was back. Their listing wasn’t quite as barebones as it had been last night. No doubt they’d finally had time to settle it now that they weren’t fending off 74.
+
+He read it carefully.
+
+ID: B105  Location: Artonan Consulate 1, France
+
+Trading: Shaper of Life
+
+Wanted: Adjuster (All), Healer (All), Wright (All)
+
+Notes: I’m happy with Shaper of Life, but I’m interested in seeing what else might be available before I commit to it. I do not want Morph.
+
+Autotrade: NO
+
+Alden was tempted to contact them, if only to tell them the specific mention of 74's Morph was a nice dig. But he didn’t. Based on their preferences, they weren’t going to go for any kind of physical combat class, and they probably had a low tolerance for wasting time after last night.
+
+Instead, his eyes landed on a listing that had appeared less than a minute ago.
+
+ID: B22  Location: Artonan Consulate 1, Poland
+
+Trading: Chainer
+
+Wanted: Meister (Knuckles)
+
+Notes: Hello. Good to meet you.
+
+Autotrade: YES
+
+Alden read the listing. Then, feeling certain he must have missed something, he read it again.
+
+“No, B22,” he muttered. “Don’t trade Chainer for that.”
+
+Chainer was one of the rarest of all the classes.
+
+Alden had had time to freshen up his knowledge of some of the rares last night. In general, they weren’t better than others. They just happened to be the classes that represented less than a percent of the overall pool. Though the errand-runner class, Rabbit, was more like 1.1% according to this year's numbers.
+
+All of the rares were oddballs, but some of them seemed to be impractical oddballs, while others had their uses. Like Chainer.
+
+He didn't know a lot about it, but it was a class that purportedly gave you access to the most powerful wordchains and reduced any negative side effects from them. The Artonans were funny about sharing the higher level wordchains , so it was a unique opportunity.
+
+Wordchains were inherently balanced, which made the idea of using powerful ones a little scary. Sure, you could use a high level luck chain and have the best day ever in Vegas, but was it really a net win if the payback was dying in a car accident a few weeks later?
+
+People said the Chainer class made it more likely that the car crash would only severely injure you instead.
+
+Alden didn’t think it was a class he particularly wanted for himself. But if he were forced to choose right now this second, he’d probably take it over Meister of Cudgel. And B22 could absolutely get something more unique than a Meister for it.
+
+Alden couldn’t remember exactly how often Chainer occurred, but it was an ultra rare. And some people were really into wordchains.
+
+Just to be sure he wasn’t completely off the mark, he looked up B22's preferred class, Meister of Knuckles, on his laptop. He’d assumed it was a class that specialized in fist weapons, and he was right. It was pretty uncommon.
+
+Unless B22 had just committed a series of terribly unlucky typos, then the only thing they could possibly want was to punch things.
+
+They didn’t even list Healer or Adjuster or anything else.
+
+Well, some people had a fighting style they liked, he guessed. It wasn’t like that was a negative thing.
+
+Chainer is probably a difficult class to use, too. Assuming B22 wanted to be a hero, there was something to be said for the simplicity of smashing bad guys with your fists as opposed to pausing for a meditation break while you made alterations to yourself through cross-dimensional barter.
+
+It just hurt Alden’s soul a little bit to see one of the rarest classes being casually traded without even a monetary bonus request.
+
+Alden scanned the other IDs. There was an Agility Brute in Bangladesh. And of course there was B74 with Morph Brute…but if the new guy really only wanted Knuckles?
+
+Mine’s the closest of anything online right now. I guess I should at least try to start a negotiation?
+
+Alden wanted to think about it longer, but he couldn’t. Physically strong fighter types were a dime a dozen. And if Knuckle Meister wasn't the only subclass the new trader was willing to take, then competition would come fast. Or 74 would wake up and throw his hat into the ring.
+
+I know Chainer will be easier to trade than Meister of Cudgel. I have to go for it.
+
+He clicked on B22's ID before he could second guess himself.
+
+[INITIATE LIVE TRADE NEGOTIATIONS WITH B22?]
+
+“Yes,” Alden said aloud.
+
+He expected to come face to face with a Polish teen right away, but apparently this person wasn’t operating on the same frantic schedule as B74.
+
+They could be reading up on my class first. Or maybe I have to wait until they're finished talking to someone else?
+
+Whatever the case, Alden had time to straighten the worst of the wrinkles out of his t-shirt and finger-comb his hair. Then he started skimming through a few websites he’d bookmarked yesterday, trying to find reliable information about Chainer.
+
+An A-rank Chainer named Keiko Velra had been active as a superhero for the past fifteen years in Japan, but she had never given out a lot of info on her own skills, spells, or wordchains. Many Avowed preferred to keep their powers private, and she was apparently one of them. Though it was a little weird for a superhero to be that secretive about her talents unless it was part of her persona.
+
+For the more common classes you could find encyclopedias worth of information, right down to the specifics the System usually offered beginners of every rank. But for the ultrarares there was no guarantee.
+
+But the fact that at least one person a rank above Alden was managing to do hero work with the class was encouraging. It made Chainer seem more viable, and therefore more valuable.
+
+This B22 probably knew that, too.
+
+When they tell me to get lost, I’ll head upstairs for a bathroom break. Maybe when I get back I’ll try to say hi to that Longsight whose grace period is ending in a couple of days.
+
+They’re going to be stuck with that. And they’ve probably been sitting around in a room just this drab for the past three months with nobody willing to talk to them.
+
+Alden was starting to feel claustrophobic, and he hadn’t even been a selectee for a full day yet.
+
+Nearly thirty minutes after he’d asked to negotiate, his System interface finally brightened.
+
+[B22 has accepted your invitation. B22 has been vouched for by an authorized witness. You have been vouched for by an authorized witness. Negotiations are approved.]
+
+Alden had been resting his head on his arms, but he sat up straight just in time to see B22 appear across the table from him.
+
+The other teen was short and pudgy, with dark blonde hair and narrow brown eyes. He had a friendly smile, and he waved at Alden cheerfully with the hand he wasn’t using to maintain contact with the table. On a plate in front of him was a boiled egg and a half-eaten doughnut full of dark red jam.
+
+“Dzień dobry!” he said. "Nazywam się Andrzej."
+
+<< Good morning! My name is Andrzej.>>
+
+The words appeared in the lower half of Alden’s vision, centered on the other teen’s chest like subtitles from a foreign-language film.
+
+“Morning,” said Alden, trying to strike a balance between reading the words and making good eye contact. “I didn’t know how the translation thing would work. This is pretty great.”
+
+<<Yes! It’s fun. Like a movie. I’m Andrzej. I was selected by the System last week. This is my first day trying to trade. I had to do some thinking.>>
+
+“I was chosen yesterday,” said Alden. “So we’re both new at this. My name’s Alden, by the way.”
+
+Andrzej ate a bite of his doughnut. He took his time chewing and swallowing, then he said, <<Do you want to trade for Chainer?>>
+
+Alden scratched the back of his neck. “Yeah. I’m pretty sure I would. But I know I don’t have exactly the class you want. And I’m not loaded, so I can’t add on a monetary bonus like some people seem to.”
+
+The Polish boy brushed crumbs off his hands onto the plate.
+
+<<It’s fine. Money doesn’t matter to me. I looked up your subclass. There wasn’t as much information as I would like, but it's good for me. It’s the second highest strength boost of any weaponmaster class. Right behind Knuckles. I’ll take it.>>
+
+Alden had been taking a sip of water. He barely got it down without choking. “You…you want it?”
+
+<<Yes.>>
+
+“For Chainer?”
+
+Andrzej gave him a slight frown. <<Yes. Did you change your mind about the trade?>>
+
+“No, no!” Alden said hastily. “I just…”
+
+Don’t want to take advantage of you?
+
+He didn’t consider himself to be much of a negotiator, but he knew that wasn’t the right thing to say when you were trying to convince someone to give you what they had.
+
+“I’m just surprised you’re interested,” he explained. “I thought you might be very selective with your class preference. Since you only listed one on your wanted list.”
+
+<<I want a Meister with a certain minimum strength and stamina bonus.>> Andrezj said. << Meister of Cudgel is a little lower than Meister of Knuckles, but I’ve taken your point about the value of cudgels for branding purposes into consideration. It’s a good one. It will do what I want it to. And I can improve the stats enough through leveling.>>
+
+It was only then that Alden realized the other boy really had spent the past half hour researching the cudgel class while Alden waited. And he wanted it.
+
+Alden felt off-footed by that for some reason.
+
+A paranoid little part of him hissed, No. Don’t give it to him. If he wants it, then it must be better than what he has!
+
+But that was just nerves talking. Wasn’t it? Andrzej clearly had his own plans for his future as one of the Avowed. Just like Alden did.
+
+I don’t know why you’d want a specific strength minimum, though?
+
+Maybe Andrzej was one of those guys who really did the math, and there was some hard floor on the strength stat for whatever he wanted his career to be?
+
+“What are you going to do with it?” Alden blurted. “With the cudgel subclass, I mean?”
+
+It wasn’t like he needed to know to make the trade, but he wanted to understand what his fellow B-rank was thinking. If it was wildly different from his own perspective on things, he should at least take the time to examine it.
+
+Andrzej smiled, but he shook his head. <<Trade me for it, and then I’ll tell you.>>
+
+“Come on, man,” Alden groaned. “I know I don’t want the class for myself. I’ll give it to you for Chainer. I just—”
+
+The Polish boy raised his eyebrows at Alden. <<If you’re sure you don’t want it, then trade first.>>
+
+Alden’s heart rate picked up. He tightened his grip on the milky crystal surface of the table. Be smart, he ordered himself. Is there some trick here I’m not seeing?
+
+Only it was hard to be smart with just three hours of sleep under his belt and not enough information about one of the classes involved. And he couldn’t just ask for more time to think. Andrzej might give Chainer to someone else.
+
+Of course he won’t tell me what he wants Meister of Cudgel for. He doesn’t want me to decide his ideal superhero build is better than mine and snatch it away from him.
+
+That doesn’t mean his ideal is better than mine. Only that it’s different. It’s fine. There’s no nasty trick here. Most likely. The fact that it’s happening so quickly and easily doesn’t mean I’m being an idiot.
+
+Probably.
+
+One of Alden’s hands slipped a little against the table. He was actually sweating.
+
+“Yeah, let’s trade,” he said, hoping he didn’t sound as nervous as he felt.
+
+Across the table, Andrzej had finished his doughnut, and he was peeling the white off his boiled egg.
+
+<<Good.>>
+
+On the bottom right corner of Alden’s System overlay were the words Confirm Class Trade.
+
+“Confirm class trade,” he said.
+
+At exactly the same time, Andrzej was prodding at the air in front of his own face.
+
+A second later, new words appeared.
+
+[TRADE MEISTER OF CUDGEL CLASS FOR CHAINER CLASS?]
+
+YES/NO
+
+“Yes,” Alden said.
+
+[B22 has requested a trade. You have requested a trade. Both selectees have been vouched for by authorized witnesses. Please wait. Your class is being re-assigned.]
+
+Alden held his breath.
+
+And then he had to stop doing that so he wouldn’t pass out.
+
+<<It’s taking a longer time than I thought it would,>> Andrzej noted.
+
+“Right? Does some kind of signal have to travel from here to another dimension and back again?”
+
+<<It’s magic, and magic is hard to figure out. Some things seem instantaneous.>>
+
+“Yeah. I take classes here at the consulate with an instructor teaching from Artona I, and there’s no lag. As far as I can tell.”
+
+Andrzej brightened. <<Are you taking wordchain classes?>>
+
+“Yes.”
+
+<<That’s great. Maybe you can actually use Chainer yourself instead of…well, that’s up to you now. I’ve never liked wordchains, and I haven’t studied the Artonan language. I would have to start from scratch. In addition to learning English and Spanish.>>
+
+Oh, so he definitely wanted to do superhero work. From what Alden had heard, you couldn’t graduate from any of the advanced training programs on Anesidora without being fluent in at least one of the world’s five most-spoken languages.
+
+As a B-rank it would be even more important to be multilingual, to increase your odds of getting job offers.
+
+“I need to learn Mandarin,” Alden mused. He was just thinking out loud, but Andrzej’s smile grew even more excited.
+
+<<Are you planning to qualify as a hero, too?>>
+
+“Yes. If I can get the right class, I want to go into—”
+
+He was interrupted by a flare of light as his interface shifted.
+
+[CLASS TRADE APPROVED]
+
+Pre-affixed Selectee: Samuel Alden Thorn
+
+Divergence Rank: B
+
+Assigned Class: Chainer
+
+…
+
+Samuel Alden Thorn, do you willingly accept your duties as one of Earth’s Avowed, thereby satisfying a portion of your planet’s debt to Artona?
+
+YES/NO
+
+2145 h: 20 m: 08 s
+
+<<It’s done!>>
+
+“Mine’s finished, too. Congrats on your new class.”
+
+<<Thank you! I’m going to affix it this afternoon. Or maybe in a few days. My family thinks there should be a party to celebrate this kind of thing. I guess I should give them time to plan it.>>
+
+“Wow. You really are sure about what you want.”
+
+<<I am. My uncle is a Meister of Knuckles working in Warsaw. By the way, you’re a bad salesman, Alden.>>
+
+“Ouch, dude. Don’t pull your punches or anything.”
+
+Andrzej laughed.
+
+“Anyway, before we were interrupted, I was trying to say that what I really want to do is get a class I can turn into decent battlefield support.”
+
+<<Support? Like a dedicated sidekick? Do people still do that?>> He looked bemused. <<It’s usually military or special police forces supporting heroes for local work, and formal strike crews from Anesidora handle any serious problems. And that’s… are you hoping to join one of the permanent battle squads?>>
+
+“Well, not necessarily.”
+
+<<Good. Because none of them take anyone below A-rank.>>
+
+“I do want to do team-ups, though,” Alden said. “I’d work closely with one or two other Avowed so that we all become way more effective than we would be on our own. A pair of B-ranks with complementary specs could be as good as an A-rank, for sure. Maybe as good as an S in some situations.”
+
+Andrzej clearly didn’t agree with that last bit.
+
+His lips pursed. But he only said, <<I see what you’re talking about. You want to be like Fairy. From Fairy and Flarey.>>
+
+Alden stared at the subtitles. “Fairy and Flarey” had been said in English, so he’d understood the words just fine. But he had no clue what they meant.
+
+“Are those superhero names?”
+
+<<You don’t know it? It’s a show.>>
+
+And that was how Alden ended up spending the next fifteen minutes of his life watching clips from an animated Australian children’s program while a Polish guy discussed the finer points of the main characters’ tactical decisions.
+
+Fairy and Flarey were both S-ranks with unique classes. Of course. Because why have a fantasy show if you weren’t going to make it totally over the top?
+
+Fairy could sparkle like a diamond, and her disco ball routine had the power to hypnotize evildoers into chasing after her.
+
+These distracted villains became easy fodder for Flarey, whose primary skill was being a fire-breathing pink hippo-grizzly.
+
+Flarey was the heavy hitter of the team who did the actual fighting, but his giant hippo-grizzly body was too slow to catch bad guys. Before he’d met Fairy, he’d been a laughingstock. And before she’d met him, she hadn’t had the firepower she needed to take down villains on her own.
+
+To Alden’s chagrin, it wasn’t a terrible analogy for what he wanted to do. It was just so…cute. And Fairy wasn’t very smart.
+
+“Yeah, sort of like Fairy,” he confessed. “But with more nuance and less getting kidnapped? I hope?”
+
+<<In real life, Fairy would not be a good sidekick for Flarey. Her inability to remove herself from combat puts too much pressure on him. She needs a skill or spell impression that lets her escape after she’s hypnotized the enemy. Without it, she’s not a proper superhero.>>
+
+Andrzej sounded dead serious.
+
+“I’ll keep that in mind.” Alden cleared his throat. “Enough about me, though, what are you going to do with Meister of Cudgel?”
+
+<<I will focus heavily on increasing my physical stats. Many hero teams have mentorship program for promising students. You can participate during the latter half of your schooling on Anesidora, but most B-ranks never achieve the required stat minimums until they’ve aged out of such programs. I should be able to do it with this class, though, if I aim for it from the start.>>
+
+“That sounds like a solid plan. I hope you have good luck with it.”
+
+<<Given your goals, you intend to trade Chainer for something else, don’t you?>>
+
+“I really want Adjuster.”
+
+Maybe, Alden added mentally.
+
+He still had no idea what Gorgon’s hint about luggage meant. He’d read lists of every obscure class he could find, and there was nothing bag-related or travel-related as far as he could see. He hoped clarity would strike soon, because by the end of his search last night he was only finding thread-thin connections.
+
+And if that was all he had to work with, he would never have the confidence to actually choose a class that merely might be the one the alien had intended to point him toward.
+
+<<That’s hard. Adjuster is popular. Chainer will be an easy trade for it, though. You should research the history of the class carefully before you do anything. Don’t just give it away.>>
+
+“Its history?”
+
+Andrzej suddenly looked a little guilty. <<I’m glad you were online to take it. My uncle would not like the idea of me selling it to…a certain kind of person. I was going to do it anyway if I had to, but then you were here. It takes off a lot of pressure, and you won’t have to worry about what my relative thinks. So it’s a victory for both of us.>>
+
+“You’re making me a little nervous.”
+
+<<It’s fine. You’ll see. You don’t know much about the important families on Anesidora, do you?>>
+
+“No?” Alden was interested in prominent superheroes. Not the society of Avowed who lived on the island.
+
+<<Then it’s fine. Just research it. But don’t let anyone know you did. Nobody can be mad at you if they think you’re an ignorant outsider. It’s perfect really.>>
+
+This last bit was said with a smile that was a little too encouraging for Alden’s liking.
+
+Nobody will be mad at me for trading the class because I’m an outsider? What does that mean?
+
+He asked a couple more questions, but Andrzej was apparently unwilling to be any more specific, because he hastily made an excuse, reassured Alden that the class wasn’t bad for his needs, and signed off.
+
+Huh…that’s not concerning at all, Alden thought as the other teen disappeared.
+
+He stretched and checked his listing. It was greyed-out. He updated it with his new class, then re-activated it.
+
+He couldn’t immediately think of anything clever to say about Chainer in his “notes” section, so he just pointed out that it was an ultra rare class that was successfully being used for hero work by at least one other person.
+
+He’d come up with something better after he’d done the research and figured out what Andrzej had meant by his cryptic warning. He wanted a break anyway. He needed to brush his teeth.
+
+He was about to log out when he received a new notice
+
+[B74 HAS REQUESTED NEGOTIATION. DO YOU WISH TO ACCEPT?]
+
+Alden stared at it in surprise. Really? After that insane monologue he gave me twelve hours ago?
+
+Maybe Chainer was a shinier new toy than he’d realized.
+
+Alden tried to think of what the proper payback for 74 was. Nothing too mean. He did have a tiny, wretched fragment of sympathy for his fellow selectee. The guy had barely been sleeping for two straight months. Maybe he’d actually had normal human manners before all of this started.
+
+Still. He needed to chill.
+
+“Sure, I’ll talk to him.”
+
+B74 flashed into the room. He was standing at his trashed table, and his mouth was already open to say something, but Alden held up his free hand.
+
+“Hey, man! Good to see you again, but I can’t talk right now. I have to go brush my teeth. It shouldn’t take too long. Unless I decide to head to school for the day. I’ve got a biology exam. Maybe I shouldn’t miss it? I’ll think about it over breakfast. Anyway, I’ll be back in a few minutes. Or sometime tonight. Sunday at the absolute latest. See you then!”
+
+Before his opponent could respond, Alden lifted his other hand and let the connection drop.
+
+Patience was a virtue. Maybe B74 could acquire it while staring at the System interface, waiting for someone who might or might not reappear in the next two days.

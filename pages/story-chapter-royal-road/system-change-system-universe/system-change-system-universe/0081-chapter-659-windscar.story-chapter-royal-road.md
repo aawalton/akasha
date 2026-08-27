@@ -1,0 +1,113 @@
+---
+id: 770a9106-f1cb-5f3f-85c4-7c87c914264c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 659: Windscar"
+slug: 0081-chapter-659-windscar
+partOf: system-change-system-universe
+position: 81
+ownLength: 2168
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3558841/chapter-659-windscar"
+royalRoadId: "3558841"
+---
+
+Chapter 659: Windscar
+
+Derek appeared in the air next to Amelia and asked, “What do you think? What are we looking at?” Though he asked, he went ahead and used his Veiled Sight skill to get his own information.
+
+...
+
+Title: Windscar HawkClass Type: BossAffinity: Wind/FlyingLevel: 315Status: Active
+
+...
+
+“Level 315,” Amelia replied. “Flying beast with wind affinity,” she said, stating what Derek had already seen. “I think... somebody else would do a better job against this thing than I would.”
+
+“Really? Why is that?” he knew who she was talking about. Edgar was perfect for fighting flying creatures if they didn’t have an earth affinity, and he wasn’t poorly matched against a wind affinity, either. “You’ve been taking care of the flying monsters pretty easily so far.”
+
+“The ones I have been dealing with are fat and slow,” Amelia replied. “They can’t easily dodge my kicks and force explosions... but... I don’t know if you have noticed, but I have to rush in a straight line for that. When monsters are slow or distracted, it works well, but for something like this hawk... I think a lightning storm would work better.”
+
+“Or I could just punch it in the head,” Derek said with a shrug.
+
+“You could do that... if you can catch it,” Amelia replied with a nod.
+
+“Go trade places with Edgar,” Derek said. “Let’s see if he can make it up here before I finish this thing off. It doesn’t look very durable.”
+
+With that, Amelia turned into a red blur and disappeared. Derek looked up at the approaching beast and smiled. The next second, before it was able to fly directly above where Brandi and Alex were working, Derek shifted into the void and pulled himself through to reach the flying beast. As soon as he pulled himself through a ripple and came out beside the hawk, he watched in astonishment as the bird’s head turned and looked him directly in the eyes.
+
+Well, shit, he thought as the bird shifted its flight path away from Derek. Derek shifted out of the void and reached out, but missed grabbing hold of the beast by inches. He clicked his tongue and tried again. All he had to do was attach himself to the bird, then it would be game over. However, every time he appeared in the void next to it, it saw him and changed paths.
+
+He just couldn’t shift out of the void and grab on fast enough. If that’s not going to work...he thought, then tried Silvi’s Active Void Shift. When he instantly came out of it, the beast was already launching itself in a different direction. No fucking way! What kind of instincts does this thing have? he wondered as he tried again. After a few more tries, he gave up and just stared the bird down. “You’re going to be one great-tasting chicken soup by the time I’m finished with you and Silvi cooks you,” he mouthed.
+
+The bird cawed like it knew what he said, but he was sure it hadn’t actually heard him. He was just frustrated that he wasn’t quite fast enough to take the beast down quickly. Still, he had no doubt that, given enough time, he could easily solo the flying boss monster.
+
+Derek and the beast played their game of tag for a short while longer until he saw a flash of lightning, then Edgar appear. He’d arrived as a bolt of lightning, then quickly brought out his lightning wings once he arrived. “I heard that you needed some help,” the former prince said.
+
+“I don’t really need any help,” Derek replied, then smiled. “But it would certainly make things a little easier.” Derek pointed over at the bird and nodded. “That thing is crazy agile and can dodge my shifting in and out of the void. I’m not sure if it’s from its level, certain stats, or what, but it can follow me pretty much the whole time.”
+
+“I can see that,” Edgar replied. “Back when we were racing to save my brother from... uh... my... uh... well... Vanessa...” he said, stumbling through the words as he realized how weird it was talking about saving his brother from a woman he was only recently seeing romantically. “Anyway... back then, when we were basically racing, I could sense you. I could feel your presence close to me. So, I think it’s more of an instinctual thing—of course, I wouldn’t doubt that stats and levels have something to do with it—but I’d think a lot of it is instincts or passive skills based on instincts or something.”
+
+“I can sort of see that,” Derek said. Alanah was really the only person who had broken him out of his shift by pure strength alone, and that was when he was much, much weaker.
+
+“So... is this bird just going to hover there and watch us?” Edgar finally asked.
+
+“All it’s done so far is run away,” Derek replied. “If its instincts are so great, I think it should know how screwed it is if it continues, but it’s not running away, so I don’t know.”
+
+“Then... should we go to it?” Edgar asked with a smile as the runes in his armor began to light up and he drew his sword.
+
+“Might as well,” Derek replied, then shifted back into the void.
+
+***
+
+“You stupid son of a bitch!” Jace swung his empty fist into the knee joint of the dinosaur-like creature. It let out a screeching wail as it lifted one of its four legs off the ground and limped. “That’s right!” He spat out a mouthful of blood as he held his hand out and his lost kukri flew into it. “Looks like I finally have the advantage.” With a menacing grin, a pink-skinned, lanky Jace attacked.
+
+He used a skill and appeared behind the creature at its back leg—the one on the same side as the one he’d just maimed. Starting at the back of the thigh, Jace jabbed his kukri into the beast, then used his momentum to slice down. His momentum stopped just as his weapon passed the back of the knee, but he’d cut something vital, as the beast finally toppled over to one side.
+
+Jace, with steam floating off him from the heat of his Battlelust-filled body, licked his teeth and walked around the wailing beast. “Battlelust is 81% full... I still have nearly full control...” he muttered to himself as he cut into the flesh of the beast’s belly, hitting a vital area in the process. “I need to get stronger. Derek would have punched this thing in the head a few dozen times, and it would have already died.” He cracked his neck as he finished with that area and started walking around the creature before arriving at its head.
+
+The creature saw him and let out a roar. One of its legs swung in a flash, but Jace just jumped over it. “You have an interesting ability...” he muttered as he slowly walked closer, avoiding a few attacks in the process. “Never met anyone or anything that could completely control their mass before...”
+
+What he was talking about was the creature’s ability to make itself as light as a feather or extremely heavy. He didn’t know the range, but he did know that even with his current ability, if the creature didn’t want to be lifted up, there was no way he could do it. Unfortunately for the creature, only its tail was fast enough to cause Jace any real issue.
+
+Even though it increased its mass just before connecting with him and broke his body over and over, Jace never backed down or away. He was lucky that he’d already built up a lot of Battlelust and had extremely high regeneration already. At his current Battlelust, though, there was nothing the beast—which only had physical, close-range attacks—could do.
+
+Finally, Jace stood next to the heavily breathing and likely already dying beast. He looked at the creature with a glint in his eyes, then nodded. “Thanks for the fun fight. Wish we could do it again,” he said, then sliced one kukri through both sides of its neck—causing its blood to spew like a fountain.
+
+The blood covered Jace but soon burned off due to his body’s temperature. He looked at the corpse of the thing and sighed. “What do I do with this?” he muttered. Normally, he’d give it to the bunny, and it could do what it wanted with the corpse as long as Jace took whatever materials he wanted from it first. But they didn’t have time to do that, and his storage rings were on the fuller side.
+
+With a frown, he looked up and saw lightning striking down from the sky in the distance. “Guess the flying monster made it. And... the weak lightning guy is fighting it?” he muttered. Then he saw a deep purple crescent-moon-shaped attack fly and chuckled. “Oh... Derek is babysitting.”
+
+With a snort, Jace put one kukri on his back, then turned back to the corpse. After that, he grabbed its skull through its eye socket. “Let’s see...” he pulled, and surprisingly, the corpse moved. “Good... just normal weight.” From there, Jace started walking toward the outpost with the corpse of the beast in tow behind him.
+
+Every once in a while, he disappeared, only to return bloody before his body heat burned it off. After all, he wanted to see how far he could push his Battlelust without having to use Surge of War, and he couldn’t let all the hard work raising so high be for nothing.
+
+***
+
+Derek was more shocked than anything else when he unleashed a normal Sweeping Slash enhanced by the void, and the bird hadn’t been able to dodge it. Sure, it had lightning falling all around it, and a few of its feathers were even singed, but his strike had been... slow.
+
+He looked around and frowned. Edgar had disappeared a few moments before he attacked, and he still wasn’t there. “Oh...” Derek realized where Edgar was, then his breath caught for a second. “Please tell me I didn’t hit him with a void-enhanced Sweeping Slash.” He wasn’t too worried about it, as he was sure Edgar could survive one regular hit like that—or at least not go beyond a Dying State if the hit was vital. Didn’t get a kill notification, either... so we should be good.
+
+Not to mention, Derek had hit the bird in the body and not the head. And based on how it had stopped moving all of a sudden, he knew exactly where Edgar was. With a thought, Derek sent Harbinger away, then shifted into the void before pulling himself to the bird. He saw the head and eyes of the bird shift as he approached, but they did so in extreme slow motion. Yeah... he’s in there, Derek thought.
+
+Finally, he shifted out of the void, then reached out and grabbed a handful of feathers by the beast’s neck. From there, he pulled himself up and onto the back of the creature, then summoned Harbinger again. As he sat there, he slowly pumped void energy into his glaive and waited.
+
+Occasionally, the bird would twitch and they would lose altitude, but it didn’t faze Derek. Though he kept looking down at where the box of sand surrounded Brandi and Alex. He wanted to get back down there just in case something happened, but Edgar was taking a long time. Finally, he sighed.
+
+‘Are you almost finished in there?’ he asked Edgar telepathically.
+
+‘Its regeneration is too much,’ Edgar sent back. ‘I’m chipping away, but I don’t think I could kill it before I run out of mana and stamina, even... it would be close.’
+
+‘So I didn’t hit you with my attack?’ Derek asked.
+
+‘Almost,’ Edgar answered. ‘But it was easy enough to dodge knowing how it works and the attack path. I wasn’t worried.’
+
+‘I see,’ Derek said as he looked over to where Jace was fighting, but instead saw the man walking toward the outpost while dragging the creature behind him. ‘Looks like Jace beat us. We need to finish this thing off.’
+
+‘Fine,’ Edgar replied. ‘Do you have an attack ready? And I would assume you’re aiming for its brain?’
+
+‘I do, and I am,’ Derek replied.
+
+‘Then use it on three. Not one, two, three, go, but three,’ Edgar said.
+
+‘Alright,’ Derek replied, then focused on the perfect place to attack the bird. He waited, then heard the countdown in his head. As soon as he heard the word ‘three,’ he swung, and a bolt of lightning shot out of the bird’s-eye at the same time. His attack landed, and the bird let out an ear-splitting shriek that even caused Derek to bleed from his ears. Then, it paused and went silent. With Derek on its back, the boss monster was sent crashing to the ground.

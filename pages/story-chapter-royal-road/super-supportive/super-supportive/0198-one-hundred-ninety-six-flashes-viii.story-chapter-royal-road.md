@@ -1,0 +1,413 @@
+---
+id: 776c8055-2c86-5ce7-b81c-7aae3b771c7c
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-SIX: Flashes VIII"
+slug: 0198-one-hundred-ninety-six-flashes-viii
+partOf: super-supportive
+position: 198
+ownLength: 5838
+unit: words
+publishedAt: 2025-01-02
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1987238/one-hundred-ninety-six-flashes-viii"
+royalRoadId: "1987238"
+---
+
+196
+
+******
+
+Ignacio had left him with a knife. Søren wasn’t sure if it was to protect him or to keep him company while he waited here, flat on the floor, snugged between his tube-shaped sandbag and the barrier. Maybe when a person had several dozen knives on them they started to feel more like stickers or pieces of chewing gum than weapons. A friend is sad? Bored? Offer them one of your sharp things to brighten their day!
+
+It was one of his nicer knives, too. Or one of his nicer-looking ones anyway. Ignacio’s gym supply was mostly made up of knives he didn’t mind ruining, so they tended to be battered. This one had a long double-edged blade polished to a mirror finish. Søren tilted it and noticed the way the light bounced off to shine on the rough fabric of the sandbag. A piece of shiny metal is a better Shaper than I am.
+
+That was an exaggeration and a pointless thought. More important things were happening. Søren angled the blade so that he could see some of the fighters reflected in it as they closed in on Instructor Klein.
+
+Amazing. They look amazing.
+
+And it would have been completely unmanageable to be there in the middle of them. Figuring out where Finlay and Febri were moving would be impossible, and that was only two of the people involved.
+
+What if they do it? What if we actually make it to the end today? I could get some help from—
+
+The feeling of his sandbag being dragged away from him startled him so much that he gasped and sprang into a crouch, knife held up to defend himself.
+
+“You can come with me now,” Winston Heelfeather said, looking down on him through mirrored lenses. “I’ll take you across with my team.”
+
+He was hefting Søren’s sandbag onto his own shoulders.
+
+“What?” Søren lowered the knife because Winston was talking like he was completely confident he had Søren’s cooperation for some obvious plan. Søren wondered if he’d missed a sudden problem that made a team switch-up necessary or if a message had come that he hadn’t noticed.
+
+And then Winston said, “I’ll be taking this in any case, to protect my team. Come with us if you want. It’s better for you than waiting around and better for the S’s if they don’t have to take care of you. Don’t say I didn’t give you a fair chance.”
+
+Søren’s mouth fell open. He started to realize what was going on even though he didn’t understand why it was going on. But before he could form an argument or lunge forward, the speedster was spinning and taking off.
+
+As Søren accepted the reality of his situation in the next blink, his thoughts went from tumbling confusion to rising fear and fury.
+
+My sandbag! Why?! His team’s running ahead? He was supposed to be helping! The plan! My teammates! What happens when the wind starts? I have a knife!
+
+He was running after Winston Heelfeather. He was throwing the knife like it was a ball because he had no idea how to throw a knife. It sailed past Winston’s left ear. Søren was losing ground.
+
+That tended to happen when you chased after Speed Brutes, but…
+
+I can’t. I can’t let them all down and ruin this last run because I couldn’t even protect a bag of sand.
+
+He tried to run faster, and couldn’t. He looked around for something else to throw, and there was nothing.
+
+The knife was shining on the floor, too far away for Søren to pick it up, but so bright that it looked like he ought to be able to in another way. Fine, he thought, pointing at it. Fine.
+
+He jabbed his other index finger at a glinting piece of debris in a distant pile. He started to glow.
+
+I don’t care how useless it is or how stupid I look doing it. I don’t care if all I manage is making him sparkle. By the time the wind hits, I’m going to use every last bit of magic the System gave me.
+
+If he sparkles bright enough, maybe it’ll distract him so I can kick him in his stupid face.
+
+******
+
+******
+
+“If you happen to see Søren trying to shape, give him a little time to finish the job,” Torsten advised the volunteers in the classroom. “He’s having difficulty grasping his powers, and since his results have been so lackluster, he rarely musters the confidence to use anything but his fists in actual combat. I’ve spoken with him about it. I told him that even if he only warms up the enemy’s feet, he still ought to try to get them warmer than he did the last time. I hope that was the right thing.
+
+“He’s agreed to work on it, but I expect him to be especially reluctant today because of the team component. The pressure of our last team challenge was a little too much for him, and he worries about bothering the other students.”
+
+He looked like he wanted to say more, but he only glanced once again at Søren’s wanted poster, sighed, and moved to the last one on the list.
+
+“And finally, this is our first Rabbit student in the Talent Development Program. Alden Thorn.”
+
+******
+
+******
+
+All class, Instructor Waker had been practicing his pitching from a fixed position at the far end of the gym, by the finish line. He’d only dashed around or jumped up into the air a few times to change the angle of his throws. Alden had been more focused on when the strikes would be coming than where exactly they’d come from, but he thought Big Snake usually changed up his style when the people he wanted to hit were glued to another team. One strategy for dealing with the shock traps was to follow in the footsteps of others and hope they ran into them all for you, and Big Snake obviously didn’t consider it fair sportsmanship to hit his targets by sending one of his projectiles through a team enjoying a reprieve from his attacks. So he moved when he needed to.
+
+He was moving now, preparing to bounce into the air on legs that could kick down trees when the man was in the mood for some casual woodcarving.
+
+Why isn’t he classified as a hyperbole already?
+
+The question flashed through Alden’s mind as one of his feet hit his own personal ground patch and launched him forward and upward. Before he could think through whether he should protect the teammate he guessed the giant dog crate might be aimed at, his body had already committed him to trying it.
+
+Haoyu, Lexi, and Kon were all possibilities since they were either moving forward or attacking. Kon was the most vulnerable one, so Alden was headed toward him.
+
+And toward the battle.
+
+His stomach clenched as something that was probably one of Tuyet’s darts whizzed past his neck. Marsha was swinging. Astrid was stiff as a board on the floor. Torsten Klein seemed to be everywhere.
+
+Alden landed hard. He didn’t hurt himself, and his balance was good. But he didn’t have time to be pleased that his practices with Bobby and his wordchain were paying off. He really wasn’t that far from where he’d just been crouching with Everly, but he’d jumped into a riot of flying bodies, spells, and weapons that was worse than he’d expected. The plan for corpse duty had been to run in and rescue the first person to fall near the perimeter of the fight, but now that he was here, he realized there was no perimeter to speak of.
+
+Kon, moving to get beside Lexi, had looked as though he was near the edge of it. At the moment, though, Alden was just a step or two away from him, and there wasn’t anything like an edge here. Either the battlefield had expanded in the time it took him to jump to this spot, or it was a different, even less comprehensible place once you were inside it. Yelling in a couple of languages, popping sounds, a brief whoosh of wind so hard he staggered, knives over his head. And the Agility Brutes were the worst as far as visual confusion went. Finlay was fast, but his feet stayed mostly on the floor. Febri and Mehdi were behaving like popcorn kernels, exploding and flying off in random directions in response to the heat of battle.
+
+This is one hundred percent not where I need to be. This is too central to—
+
+Dog crate!
+
+It was coming in hard from above, launched by Big Snake from high up and far away, but still accurate. It was going right toward the brothers, so Alden was already moving again, leaping with his shield up, feeling a swell of energy as he realized he’d gotten the timing right and he was going to intercept the crate perfectly.
+
+And then Febri was crashing into the metal cage from the side and wrapping his arms around it. He used Instant Corners to redirect his own body, and the next thing Alden knew, the dog crate he’d come to save Kon from was flying toward Klein. Who was no longer in the way when it arrived, of course.
+
+It slammed into the floor meters away, and Jeffy fell over it. He wasn’t even supposed to be a part of this fight; he just hadn’t managed to clear out from being on the bait team yet. Or he didn’t want to clear out.
+
+“Alden, you came to save us!”
+
+“You’re both supposed to be over there with Everly!”
+
+“You’re supposed to be whipping Klein, not waving Writher around like a broom handle you don’t know how to use. Hit him. Hit him!”
+
+“Shut up! That piece of bicycle you threw landed closer to New Zealand than to the enemy. Both of you get lost or get behind me.”
+
+The Roberts brothers were talking so fast Alden mostly got the impression of Kon being enthusiastic and Lexi being stressed rather than the words.
+
+“Behind me!” Lexi shouted again.
+
+There was no real behind him, though. Not if he meant that Alden and Kon should position themselves so that he was closer to the danger than they were. The danger was coming from every direction. Alden would need to spin like a top to keep Instructor Klein in view, and that was assuming he didn’t try to dodge anything else going on out here.
+
+Grab and go. That’s all I can do. Grab someone and go.
+
+His eyes skimmed for problems. Heloísa was crawling aggressively—too far away. Astrid was just lying there like a statue, clearly stiff-suited. Finlay was shouting and falling as he took one of Marsha’s slashes to the lower body. It was impossible to tell whose fault it was. She might have aimed without considering him, or he might have just zipped right into the path of it.
+
+The Speed Brute’s body slid and rolled across the floor toward Alden and the brothers like he’d been thrown from a car on the freeway. God, that looks horrible.
+
+“Kon, we grab Finlay and go!” he said.
+
+Then he ran for the speedster. He was breathing hard. He didn’t know which way to point his shield. There were actually a lot of factors in getting that right if multiple types of threat were coming his way, and he couldn’t sort it all. The overwhelming pace of the violence was making this different from a typical moment in class. He felt like he needed to zero in on something, and apparently it was going to be the person he’d just seen take a serious injury.
+
+His thoughts were jumbled, but the jumble was pointing in that direction. Grab Finlay. Maybe hurl him toward the starting line. He might even make it back in time to help once his suit gets res—duck!
+
+He didn’t even know who he was ducking under. Some airborne figure that would have taken his head off if he hadn’t. Things were impacting his shield. Wind. A bicycle bell. A metal shard.
+
+That’s fine. Debris is fine. I’m not too tired to protect the shield from that.
+
+“I’ll carry him!” Kon yelled, lunging ahead of Alden to grab the Scottish boy. “Go for the start!”
+
+Okay, Kon’s with me. Finlay’s in his arms. Gotta keep Kon from taking a bad hit.
+
+If Kon got safely away with Finlay, that was two saved. If Kon got away, that was one more teammate outside this mess to make sure they didn’t get completely wiped.
+
+Where’s the way out?
+
+Only seconds had passed since he’d landed in the midst of this melee, and even though he couldn’t possibly see what was happening with everyone, he had a sense that something about the fight was going badly for his side of it. It was everything, all together, looking not quite right from moment to moment.
+
+He spotted a girl with silver hair, closer than he’d expected her to be, turning to run back to Haoyu and the starting line as a fragment of washing machine grazed past her.
+
+Everly? Why?
+
+She was supposed to be out of the way. The fight had sprawled outward to reach her.
+
+That’s what’s bad. Space isn’t something we wanted Klein to have, but he’s managing to make it for himself by spreading us out.
+
+It was only a brief realization as he tried to cover Kon’s retreat, nothing he could act on.
+
+Galecourse had to be close to finishing her lap. And the good guys had to be close to losing this bold play.
+
+Alden was approaching another realization—that dropping his shield to save his skill for their final attempt at the finish was probably the right decision, since he’d just seen Haoyu in a position of relative safety and Everly was still on her feet. Before he could make that call, though, he stopped dead at the sight of the dog crate again. It was barely dented even though it had come from the trash pile and been tossed by two S-ranks in rapid succession.
+
+And it was now in one of Torsten Klein’s hands. He’d just landed on the floor a few meters away.
+
+His eyes were pointed in Alden’s direction.
+
+Kon had stopped beside Alden. Finlay’s breath was on the back of his hand. Whatever decision he’d been about to make about the shield vanished from his thoughts. The sight of Klein standing before him dug into him and triggered actual fear in a way that MPE danger almost never did.
+
+The instructor tended to wear a slight smile when they were going after him hard during their “catch Klein” sessions. He wasn’t smiling at the moment. One of his legs was stiff, one of his hands didn’t work, he was bent slightly in a way that suggested an injury Alden couldn’t identify. And none of it made him look weaker.
+
+Mehdi and Febri came in from either side of him, in an attack that had to have been coordinated by at least one of them. Shrike’s knife and its followers were crossing just over their heads.
+
+Alden’s stomach clenched as the crate swung and knocked Febri out of the air. Mehdi was on the instructor for the briefest of instants, and then he was being slammed to the floor at the man’s feet.
+
+Klein’s eyes hadn’t turned to see either of them. They were fixed on Alden like cold steel.
+
+Alden had exercised his imagination a lot today. He’d spent this afternoon at North of North and this evening here in class, asking himself what he would do if certain attacks had come from a bokabv. What if the enemy had the power to damage the car? What would he do if it aimed itself at Kibby?
+
+Right now…
+
+Torsten Klein looked just a little bit like a demon.
+
+******
+
+a very short while ago
+
+******
+
+Winston felt sick. He had thought that no class could ever be worse than the one where he’d been tricked into decapitating himself by his Machiavellian roommate and a disturbingly ambitious Rabbit. But this one was a new low.
+
+His teammates were…
+
+No. Never mind. He had chosen to protect them, so he would.
+
+Their Vocal Brute couldn’t aim his voice if he was nervous, and he said Winston made him nervous. Olive had too many opinions for someone who got blown away if you weren’t holding onto her, and she was ineffective if you did hold her, because then it was obvious to the enemy which of her fakes were fake. Rebecca could have been really helpful since she could cover a lot of ground quickly, but she was so ticked-off that Astrid had refused to team up with her that she kept glancing over there even though Winston had told her he would watch Max’s team for tricks and she should watch Haoyu’s parents.
+
+And Sanjay just kept saying, “Relax, duuude. Relaaax,” in an odd way that Winston was afraid was supposed to be an American accent. Winston couldn’t tell if the guy was trying to bond, or if he was making fun of him. If he had to take an A-rank Shaper for this run, he wished he’d gotten Njeri instead.
+
+But these people were his team. He was devoted to them like a leader—one who was not a jerk—should be. It had to be one hundred percent obvious to everyone in the room that Winston’s team was the weakest and that he was trying to do something nice here. Only nobody would give them any help.
+
+There were three teams with S-ranks, since you couldn’t count Kon. Those teams didn’t need the elemental weights. And yet, they’d all taken more than one of the big ones. They’d been throwing them around, casually keeping them under their arms like pocketbooks, floating on top of them, and chopping them up.
+
+If Olive had a sandbag, Winston wouldn’t have to hold her. If Rebecca had a sandbag, she could control her jumps in high winds. If Sanjay had a lifematter bag, maybe he could entertain himself by talking to it, so that his leader could think about a strategy that would get this bunch of misfits safely to the end.
+
+Winston had wanted a victory so badly today. Real victory, like Feather’sFavoriteNYC talked about in the encouraging comment he’d kept pulled up on his interface all class.
+
+Don’t let the haters get you down. Let your victory be your answer!
+
+But he’d admitted after the first hour that he would settle for reaching the finish line even if it was behind the other teams. Even if a first place run with smiling teammates patting him on the back would have been more of a moment, at this point, crossing at all was going to be momentous enough.
+
+They finally had weight they could use to move forward in the wind without just hanging onto each other. The weights were literal garbage Winston had collected for them all, but they had them. He was circling the team as fast as he could, trying to keep his eyes on every enemy at once and on Max, who couldn’t be trusted. He would absolutely throw a trap in front of Winston’s team as soon as Winston let his guard down.
+
+So Winston was circling. He was tired. He was feeling bad about their chances and very worried about the way some people had become prejudiced against him after the drama that had been stirred up by the Arfdog incident, Everly and Finlay insinuating stuff, and Alden suddenly producing a commendation that nobody had heard about before now.
+
+The annoyance in some of their voices when I pointed out that as a speedster I could have gotten to the weights before them if I hadn’t taken time to help those in need. They definitely weren’t treating me this way last week.
+
+His first stroke of luck all class happened then, and he shouted for a halt. By saying, “Halt!” which was more professional than using stop and go, obviously.
+
+Finlay had just gone down hard as he approached the finish. He’d fallen on top of Astrid. A red line had appeared.
+
+Are they dead? They look dead!
+
+“I think I know what that spell was!” said Olive. “Winston, get closer so we can talk! I think I know what it is!”
+
+“I have to keep my eyes on the enemy,” said Winston. “Who knows when they’re going to come our way?”
+
+“I’m pretty sure Big Snake throws at us in two—” Sanjay started.
+
+“Send me texts about the spell,” Winston said. “I’ll stand guard.”
+
+So he got a good look at Alden’s broken team as they made their way back to the start and Max’s. It lifted his spirits, and they were lifted even more when Olive finally texted him.
+
+Shock Box? An old-school Adjuster trap. Max the trap Adjuster had missed a trap! It was different from the ones they’d been running into all period. Olive was saying the caster could establish various conditions for it.
+
+Finlay was out in front of his team by a few steps because he always has to be first. Probably it’s a trap that won’t hurt you if your whole team is close enough together.
+
+After the intense post-obstacle course lecture his old team had gotten, thanks mostly to Marsha, he thought the faculty might want to make a point about togetherness and loyalty.
+
+And if that wasn’t the right assumption…
+
+No single Shock Box could cover the whole width of the gym, according to Olive. So there might be eight of them? One for each team.
+
+What if once you trip one, it doesn’t reappear? Does that mean whoever runs through that section that Finlay just activated is safe?
+
+That exciting prospect was interrupted by the arrival of a long text from Alden Thorn. After reading it, Winston wanted to roll his eyes so hard they’d disappear into the back of his own skull forever.
+
+“Now they want our help,” he said. “Now they want everyone to be friends? When they wouldn’t even give us a weight?”
+
+“I mean, I didn’t expect them to give us anything,” said Rebecca. “But it has been kind of—”
+
+“You’re carrying a radiator,” said Winston. “Think of how much better you’d be doing if you’d had something with handles all this time! Our lack of progress is not our fault. We might be way out ahead, we might be finished, if things had gone differently.”
+
+“You are doing an Apex job for someone with a radiator,” said Sanjay. “And I’ve got this ladder and this hose and…”
+
+Winston tuned him out and answered the text. He even offered to put the fight on his channel. It would be good for him to be seen with an elite group, and he thought they should all be grateful to him for the exposure.
+
+Not a single person replied with a thank you.
+
+******
+
+The last second decision to take his own team over the line rather than joining the attack on their instructor had good reasons behind it. Winston could feel them all coming together in his head right before he changed his mind. It was little things like the lack of thanks, Finlay shooting him a look from a distance, the realization that all the S’s joining in would make the sacrifices of the A’s seem useless, and the fact that it was a plan Alden and Max would be taking credit for once it was over. And it was also bigger things like Winston showing loyalty to his own team and making sure they were treated fairly by their leader since the rest of the class wasn’t looking out for them.
+
+Then, during the first moments when he was failing to run toward the fight and worrying about how this was going to come across to people who didn’t know all the details, he had a sudden brainwave about Søren. The guy was just lying around. Again. He was basically a pet for his team, and his team had abandoned him. He had been slightly antagonistic to Winston, but now? Now Winston could take him to the finish ahead of everyone else. Or he could offer to do it; it would be up to Søren to get over himself and accept.
+
+That would also be proof to any fans who weren’t as aware of the nuances of these Anesidoran machinations that Winston wasn’t being selfish here. He was just thinking like a leader.
+
+Winston would help Søren. Søren’s sandbag would help Winston’s people with the wind and maybe even the electricity in case he was wrong about the Shock Box traps. Did sand block electricity? It might.
+
+So Winston took action. The story was coming back together. He could tell Feather’sFavoriteNYC her words were in his eyes when he made up his mind to do something bold and different.
+
+Victory can be my answer when people ask me who I think I am, he thought. I can make my own moment.
+
+Seconds later, Søren was refusing the hand of salvation. So…Winston took the sandbag.
+
+He really didn’t expect the crazy Light Shaper to start chasing him and throwing knives at him. It was so stupid, but maybe on camera, it was making Winston look like he was the bad guy instead of someone who cared about his team.
+
+What if I made a mistake? No! This is fine. It’s all fine.
+
+Victory will be my answer.
+
+People loved a winner. A lot of people loved winners so much they didn’t care who they were or how they won, which was why Finlay was gaining followers like a cult leader.
+
+“Go back!” Winston yelled over his shoulder. “You’re way slower than me, and the wind will start soon!”
+
+Søren screamed with animalistic fury.
+
+He’s lost his mind.
+
+“You’re too weak to be out here on your own! Give up! Give up for your own good!”
+
+Winston had almost reached his teammates. This was going to work.
+
+******
+
+******
+
+“Alden,” Torsten said to the volunteers, who looked just a little more interested than they had a moment ago, “has a noteworthy personal life, as I’m sure you all know.”
+
+“I can tell overstating isn’t one of your bad habits.” Aparna drummed her fingers on top of her student desk. “We don’t see many teenagers rubbing shoulders with wizards.”
+
+“No,” Klein agreed.
+
+“Haoyu loves having him as a roommate,” said Hale.
+
+“I liked helping with Matadero Thanksgiving,” said Jianwei. “That should become a tradition.”
+
+“I have no comment on that.” Torsten looked at the wanted poster. The video clip showed Alden Thorn catching tennis balls. “Tempting though it might be to gossip about him—”
+
+“I am tempted,” Aparna said.
+
+“Tempting though it might be,” Torsten said firmly, “I’ll keep us on track by talking about Alden’s gym performance and special considerations related to it. He’s on an impressive discovery streak with his powers right now. The timing of it might be due to his personal circumstances, but it’s encouraging to see such swift progress from him anyway. The ability shown on the video here is his main skill, being used in a novel way.
+
+“He places objects or people in magical stasis. The stasis is absolute while the skill is active. There appears to be no circumstance in which whatever he’s protecting will change from within or take damage from without, unless the skill or the skill user fails. Keep that in mind because you won’t have cues to know when he’s approaching skill fatigue. It’s not like some shielding spells you might have encountered that weaken before they break.
+
+“We do know that he wears his skill out much faster when he tries to preserve something that extends a significant distance from his body. He’s currently exploring what he can do with rope, so it’s come up. He might be able to shield something on the end of a thread half a gym away, but you’re unlikely to see him do it given the practical limitations and magical cost.
+
+“Alden has a movement trait that won’t make an appearance unless he finds the proper element to stand on. It provides him with a modest increase in the distance he’s able to cover every time he propels himself off the ground. Not spectacular, but practical.
+
+“If we’d had this talk a few weeks ago, the only other thing I would have been able to warn you about was his penchant for throwing his own spell ingredients at people as a distraction.”
+
+“Are they cheap?”
+
+Torsten glanced at Aparna. “He has temper spheres. They turn invisible if he uses a spell on them, but he tosses them around without bothering to cast that spell more often than not.”
+
+She laughed. “So not as cheap as they might be!”
+
+“They break less frequently than I would have expected. Thanks to the discovery streak I mentioned, there’s more to say than there was. Alden is able to lift impressive amounts of weight, as long as he can get the weight secured on top of or within something he’s protecting with his skill. He currently seems to be interested in learning what results he can get by accelerating and launching objects with preserved rope. He’s also able to use his skill on things that are thrown to him, conserving the force of the throw. That’s interesting, but it’s not threatening at this point. He’s limited by his ability to actually detect and catch what’s coming at him.”
+
+Torsten turned to the video once more. “Alden also seems to be able to sense the location of objects that have been entrusted to him. This particular instance in the footage was his first time doing that, so I’m curious to see the ability develop in the future.
+
+“His skill has some restrictions that are inconvenient, to say the least. To use the power at all, he has to be given something or told to take it by a targeted individual. He can only target one person at a time. If he drops the object he’s preserving, he can’t reactivate the stasis on it until he gets permission again.”
+
+Aparna was frowning.
+
+Melanie had looked up from her notes. “That’s more punishing than inconvenient. I’ve heard of some absurd restrictions on abilities, but that seems like too much considering what the skill is. I assume it must be intended for some esoteric job on the Triplanets?”
+
+“We can only speculate at this point. Alden manages the skill’s limitations and versatility very well from what I’ve seen. He’s studious, and he seems to be interested in making up for his low foundation points by learning wordchains. He’s already started using one that makes him more surefooted and graceful. That level of dedication is something I can appreciate as his instructor. I hope to see his work rewarded over the coming years.
+
+“ Given the many unknowns in his case, I have concerns about that, but for now…I look forward to seeing how he handles himself in class.”
+
+******
+
+******
+
+To Alden, at that moment, Torsten Klein looked a little like a demon. Here was something bigger than he’d expected, something dangerously altered from what it had been just minutes ago, transformed by the chaos around them. Suddenly, imagination was easier.
+
+What if it was coming for Kibby?
+
+The lights in the gym seemed to dim as if to acknowledge the question. He was still aware of where he really was, but the idea of casting aside his shield and accepting injury for the sake of team goals was gone.
+
+Klein plunged toward them, the cage held in front of him like a strange battering ram.
+
+My shield’s going to break.
+
+If the instructor had thrown the cage, then it would be different. Alden could take a really hard hit from a mundane object. But Klein himself bulling through changed the outcome. A dog crate was just a dog crate; Torsten Klein was an Avowed.
+
+He had the authority to move through this spot faster and harder than a normal man. And Alden had the authority to guard this, his burden—a simple mat of yellow webbing he’d made for his team’s windshield.
+
+His skill was going to be exhausted in no time, just like it had been when Marsha had hit him with her magical slash in duels.
+
+What if I was on Thegund? What if I was guarding Kibby?
+
+The gym seemed to darken even more. It was all happening in a heartbeat.
+
+Alden wasn’t dropping his shield.
+
+******
+
+******
+
+“You’re too weak to be out here on your own! Give up! Give up for your own good!” Winston Heelfeather was shouting. He had Søren’s sandbag.
+
+I shape the light toward me, then I shape it away.
+
+Søren didn’t know how many times he’d activated his skills. He was getting farther and farther behind this pustule of a human being who was mocking him for being too slow and too weak.
+
+The gym was gaining shadows. Galecourse had just finished her lap. She was about to ruin everything.
+
+I shape it toward me.
+
+Who cared if light made sense? He was its Shaper. It was supposed to be his. He pulled his arms in close to his chest; his hands curled in front of his heart in a gesture that felt natural because the System had given it to him when it affixed him.
+
+I shape it away.
+
+“You nasty little fucker!” screamed Søren.  “Are you faster than light?!”
+
+He thrust his hands out.
+
+Winston Heelfeather disappeared in a blaze of white.
+
+******
+
+******
+
+The cage slammed into the shield. Metal crumpled against magic
+
+Alden felt the clash of their powers, like he was being swept aside and denied a spot he’d tried to claim.
+
+But at the same time, there was something real here. He lasted longer than he should have, and he knew it. Refusing to move mattered, wanting to protect something mattered. He’d begun to grasp that already.
+
+There’s still more for me to understand.
+
+Then The Bearer of All Burdens was exhausted, and Klein was charging through, straight toward the person Alden hadn’t even realized he was shielding.
+
+Lexi followed us?
+
+Alden hit the floor in a heap of limp yellow webbing. Kon and Finlay were already down.
+
+Writher snapped and danced through the air angrily, moving as fast as it had been earlier when it had almost seemed like it should be able to touch Torsten Klein. Now…now, Klein was slower. And Astrid, who had apparently been pretending to be dead all this time, was flinging herself at the instructor’s last good leg.
+
+Knives were falling all around them.
+
+Good, thought Alden, taking a deep breath as a bright light filled the gym. We did pretty good.
+
+******

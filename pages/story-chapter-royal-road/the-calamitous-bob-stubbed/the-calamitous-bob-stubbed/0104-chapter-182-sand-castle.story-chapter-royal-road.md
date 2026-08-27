@@ -1,0 +1,533 @@
+---
+id: d1413c32-5f91-53dd-a16a-ee9268759d5c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 182: Sand Castle"
+slug: 0104-chapter-182-sand-castle
+partOf: the-calamitous-bob-stubbed
+position: 104
+ownLength: 6331
+unit: words
+ownProgress: 6331
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1879460/chapter-182-sand-castle"
+royalRoadId: "1879460"
+markedReadAt: "2026-06-29T21:18:20.973Z"
+---
+
+The villagers waited for hours, but eventually, she returned. The strange woman with the iron crown walked on the dirt path with her blade wings, her void eyes, and the emerald ring within. She came with a procession of mages and warriors of legend. Silver and rich fabrics adorned them as they passed them by, showing more wealth than the village had ever possessed. The Empress stopped to consider them, every man woman and child, even for an instant, and when she spoke, they listened.
+
+“This is what a leader does. Not crush, not control or put down, because even though chaos is destructive, true order can only come from within. A leader rules from the front, weapon in hand, or from behind, directing competent followers. A leader may be many things that are not like you, but a leader must lead. The worth of a leader can be measured by the prosperity of those they lead. This is what you are owed by covenant, and in return, you must follow and serve the nation as best as you can.”
+
+The empress looked north, towards Frostbay and the emperor there. A man they had never seen, whose taxmen came with the harvest and whose soldiers were strangers seen only with fear.
+
+“Your leaders have failed you. As a result you are weak and afraid. I will not ask you to fight for there are others who can do it in your stead, but at the very least, I will ask you to watch. You must stand and walk on your own feet so one day you may carry with pride, again, the title of Harrakan.”
+
+Her soul washed over them and they felt the belief behind her words. Those who could left their home with packs so they could tell those who had to remain behind. Like this, they reached the next village and told the villagers of one who had faced a dragon in single combat to protect them.
+
+And won.
+
+***
+
+Arana felt blind. And deaf.
+
+The Eye sent east towards the land of the little witch had not reported. They were elite spies recruited from the most capable hunters her tribe had ever produced, dedicated to the cause thanks to her path. Without their reports, she felt her influence shrivel like an old branch, the green of her control slipping to reveal the gnarled bark underneath.
+
+Cerus’ village had been successfully raided so not all was lost. The imperial ships traveling up and down the coast also returned, ready to be boarded in case the capital was attacked. As for the hostages, there were reports that the detachment was on its way back.
+
+Arana still frowned when she watched the map. First her subordinates, then the east. The witch was nibbling at her resources. The group sent east should have cut the witch off but, somehow, it had not.
+
+It would perhaps be better to send the assassins first.
+
+***
+
+“Two squads of Bitter Hearts engaged Arana’s regulars near the first village, which we’ve taken to calling Eastgate. They were heavily outnumbered but fortunately, a Hadal scout managed to reach the nearby gate while it was open for resupply. The enemy was routed but… there were fatalities. Six soldiers. We also captured over fifty wounded regulars,” Ban reported.
+
+Viv leaned on the camp’s command table.
+
+Losing people wasn’t new but this time, it was different.
+
+Really different.
+
+“I fucked up.”
+
+“Your Majesty, casualties are a reality of—”
+
+She waved him off.
+
+“Not this. We knew they were on the way, but I didn’t react fast enough. Or rather, there was no one to react because I was preparing for the dragon fight. I should have left someone in charge.”
+
+She sighed.
+
+“Both you and I are decent commanders but we need a general.”
+
+She was actually suffering from a lack of nobility. Not her personal character, the actual social layer that raised children with knowledge of tactics and strategy.
+
+“Maybe Order Master Rollo should take that role.”
+
+“He said ‘like hell’ last time I asked,” Ban said with a meaningful glance.
+
+Viv sighed.
+
+“If only I could poach Jaratalassi. Wait, there’s an idea. I’ll send him a letter. In the meanwhile, Arana owes me six lives.”
+
+“There is more.”
+
+Viv waited for the end of the briefing.
+
+Arana was really going all out with being a terrible person.
+
+“Your orders?”
+
+“Get me Marruk, have a runner tell Lim to hurry with her preparations, and let Rakan know he can proceed.”
+
+“Understood.”
+
+“Wait, has Lim picked troops for her task?”
+
+“Yes. Your linebreakers.”
+
+Viv’s mind went blank. Linebreakers? She didn’t have linebreakers. Unless he meant Solar’s apprentices, but they were not nominally under… oh. Oh!
+
+“The insane fanatics we rescued from the Empire of Dawn, right? Wait, they’re ready for deployment?”
+
+“They’ve been training for a little under a year, Your Grace. I saw them fight against revenant villages. They are insane bastards, but they’re good at what they do. Solfis swore them in.”
+
+The old AI knew Viv was trying to hide something and since she’d given him a direct order not to come until victory was achieved, he was sending his worst goons instead. She should have anticipated he wouldn’t let himself get sidelined so easily.
+
+At first, Viv had refused them because linebreakers didn’t fit with the Harrakan doctrine. It was a waste of time and men to form a new corps. Solfis had objected, saying that sometimes you needed troops that performed well in fast assaults or forest battles and yeah, the linebreakers would be it. They were perfect for the role.
+
+Maybe it would be fine. Yeah.
+
+“So… they’ve already departed?”
+
+“Aye. And Lana and a few Sisters of the Eye went as well. Turned out the regulars did things to several villages that didn’t sit right with them.”
+
+“Oh. Well. I’m sure the line breakers will exercise restraint. They know my stance on abuse.”
+
+***
+
+“YOU HAVE SINNED!”
+
+It was dawn In Arana’s homeland. The valley had grown fat on the back of the nation. Tools, denied to the others, made every task easier. They were as plentiful as they were varied. Fruits for jam and liquor grew on old orchards while grain filled their granaries, their pastures green and grazed on by fat cattle. It was a haven, with tiled roofs and music, secluded evenings near a cold lake in summer, mulled wine and salted meat in winter. A perfect slice of what should have been.
+
+No more.
+
+“You have sinned against the people. You have murdered, terrorized, raped, robbed, and maimed. You have silenced and you have crushed those you were sworn to protect! You did! Your victims have borne witness!”
+
+The regulars ran from the muster field to the nearby fortified camp. Many didn’t have the time to grab their weapons, taken by surprise by the violence and speed of the attack. This had never happened before. No one had ever attacked them in recorded history. The scouts and outlying villages had reported nothing.
+
+The regulars’ numbers equaled those of the assailants, hundreds against hundreds, but fear needled them on. Surprise struck them dumb while their enemies came with purpose.
+
+“You have sinned against yourself! You have grown fat and complacent! You have ignored the beasts and the southern tribes instead of fighting for every bit of safe land, as you should have! Your paths lay disused and atrophied!”
+
+Quarrels found spines and knees. Spells turned the solid ground to muck under their feet, and the palissade rotted where it stood in front of them. Screaming packs of heavily armored soldiers ran after them with large swords and polearms. Ghosts shot them from the shadows. At the back, mages ruled the battlefield in dresses and heavy coats shining with runes, braids adorned with bones and trinkets. Sheds burned. Houses burned. Families ran into the woods to escape the conflagration. The valley had remained untouched by violence for centuries. It was all over now.
+
+The man who spoke had a face covered in ritualistic tattoos. His strange blue skin betrayed his far eastern origins, for the locals had never seen the likes of it. When the light of the fires hit the markings, they shone ominously.
+
+“But more unforgivable than any other crime, you have sinned against Harrak. You pathetic, worthless sacks of shit dared to call yourself imperials while you wallowed in mediocrity. There is no room in this continent for two empires. You have failed, and now, you will die. You will die for what you have done. You will die for what you failed to do. You will die on your feet, or on your knees but you will. Die. And we will be the ones to kill you. The Zealots are coming for you, sinners, blasphemers! And may Efestar grant you a second chance, because we will not.”
+
+With the desperate strength of soldiers defending their homes, the regulars gathered at the entrance of their fortified camp, soon joined by militia and hunters with bows. All those that remained outside of the palisade were cut down without mercy, and the warriors of the Remnants watched the black-clad raiders advance, incapable of helping those they had left behind. Polearms and other large weapons dripped with the blood of the fallen, an echo of the tattoos of their killers, visible under monstrous helmets. Horns and antlers adorned them in a parody of nature. It gave the attackers the appearance of an inhuman people who had come from some lost world to make sport of them.
+
+The raiders gathered smoothly in separate formations that formed wings moving forward. Arrows flew, and most found their mark, but the enemy’s armor was thick and its owners moved fluidly, not leaving anyone the time to aim.
+
+“Wall! Form a shield wall! Gah!”
+
+Quarrels picked off the leading officer just as the defenders gathered to make a stand near the gate, with crumbling logs on either side. Hunters and huntresses shot as fast as they could against the approaching horde. Again, quarrels picked them off and forced the survivors down. The shooters didn’t care for age or gender. Anyone holding a weapon was dealt with on the spot.
+
+Just as the line formed, hope returned. The assailants were well-equipped, yes, but inspection skills betrayed their lack of experience. They were just as green as the defenders, if not more.
+
+So why, then, did the regulars feel so afraid?
+
+The answer came soon. A spell finished off the wooden stakes until they crumbled. The regulars extended the line as fast as they could, stretching it while their skills flickered.
+
+The zealots arrived.
+
+The first to lead the charge were the deadliest and fiercest of them all. Their massive steel blades crashed down on the shield walls, or slammed through gaps in the formation, or into the helmets of those who were exposed. The shieldbreakers met the shields. They did exactly what they were trained to do.
+
+The first to break the formation slammed into the backline and moved, sending men and women tumbling into the feet of their comrades in arms. The line buckled. More warriors breached the line. It wasn’t long before it collapsed and the battle devolved into a brawl.
+
+This was where the line breakers shone.
+
+With quick movements, the heavily armed warriors smashed into bodies and shields with devastating strikes that sent unprepared warriors to the ground in great, chaotic piles. The zealots sang as they fought, or roared, and the echo of their cries under horned and antlered helmets gave them a demonic shape in the scarlet light of the new dawn. True to their words, the zealots spared no one. Those that retreated were caught and executed, either by sword or from the bolts of hidden Sisters of the Eye. Once done, the zealots looted the weapons, then burnt down the tents. The granaries were emptied and set alight. A blaze devoured the empty toolsheds, the opulent homes and wide town halls. They seized the cattle and slew all that resisted.
+
+The valley fell in a single day, and the civilians were allowed to run back to Frostway to speak of their woes.
+
+***
+
+“We need to mobilize!” Marus said. “Go after the bitch!”
+
+Arana pushed pins on a map, all the while holding a list of buried treasures. Just in case. She was as angry as he was, but she couldn’t let it be seen. Control was everything. It started with control over oneself, a schooled expression, a composed posture. She couldn’t let it get to her.
+
+The knowledge.
+
+That she was without recourse.
+
+The truth was that the regulars would be enough to repel a southern tribe, or even several of them working in concert. The mages and guardians could take down most monsters. Unfortunately, those tools had been taken in the very first days, and she’d been powerless to stop it. Frosthawk was powerful, but it was all she could do to hold him at bay with hostages. The same was true of Cerus. They could not be trusted, so she had not trusted them, and now they didn’t reply to her summons even assuming they received her messages at all.
+
+She was playing with too few cards while the witch seemed to have an inexhaustible number of them.
+
+Where did she even come from?
+
+“We will. Unfortunately… Half of our men have deserted. They are returning to defend their homes.”
+
+“General Kobanis?”
+
+“Is leading the relief effort. His son was with the home guard.”
+
+The Emperor mulled this over in sullen silence. For the first time, he showed fear.
+
+Arana, too, had thought the general in their pockets forever, but when faced with the possibility of the loss of his home, he had not hesitated to ride back.
+
+In a way, Arana should have seen it coming. His allegiance was to the clan, through her. No clan safety, no allegiance.
+
+“The assassins must succeed.”
+
+“I agree.”
+
+***
+
+The Eye ran for her life. It was a monster. Had to be.
+
+“You won’t get me!” Lanius said from the side. “You’ll never get me!”
+
+She kept running through the woods, between the heavy trunks that reeked of sap, the dead needles quieting her steps. She heard a clash of steel, a second, then came a yelp of pain. It was quickly silenced.
+
+She kept running.
+
+Did monsters wield axes?
+
+This one did.
+
+Her mad dash continued until all the voices around her were silenced. She stopped when a shape bled out of the shadows in front of her.
+
+A tall man, bald, with a scarf hiding the lower part of his face. He was looking down.
+
+The woman grabbed her shortsword.
+
+“She sent you, didn’t she? She had her own assassins.”
+
+The ‘man’ looked up, and she realized that her first instinct had been right. The slit pupils didn’t belong to anything human. The creature certainly looked like one but the pallid face, hairless head, and those eyes, they spoke of something else.
+
+“You are undead.”
+
+“No,” the creature whispered. “I am very much alive.”
+
+“You don’t have to serve her. You don’t have to do this.”
+
+To her surprise, the creature nodded. Very firmly.
+
+“I do not have to do this.”
+
+“THEN LET ME GO!”
+
+“I don’t do this because I have to. I do this because that’s what I was made to do, and because it’s fun.”
+
+It was like talking to a doll.
+
+“You fucking monster, let me go.”
+
+“It’s harder, is it not?” the monster asked with a very calm voice.
+
+He ran to the side, his steps lighter than hers. Her desperate attempt at escape was aborted as soon as it started when a blade whistled past her nose. She turned and dodged an attack with a shadow step only for the monster to follow her. His voice rang in her ear. For the first time, there was an emotion there. It practically dripped with venom.
+
+“Harder when you’re not killing young poachers?”
+
+Her shortsword snaked out, but it found only air. Her instincts took over even with the next attack coming from a blind spot. The sword clanged against the edge of an axe. The angle was wrong, though.
+
+The power of the strike sent her flying against a stump. She struck it with her back. Got to her feet with pain. Realized she was bleeding. The sound of metal through soil forced her to raise her head, watch the monster approach casually with his bloody weapon.
+
+“Fuck you!” she spat.
+
+“We could have ended all of this in five minutes had the empress ordered it.”
+
+The woman froze. She’d never considered the implications of her dying, but now, in that short moment, she did. The Emperor and the senate relied on the Eyes.
+
+“But she didn’t. She doesn’t want to order us as assassins, even though some of us would do it. We would choose to be the blades in the dark, for our people.”
+
+The monster shrugged.
+
+“That’s why I’m here. I don’t need to be asked. And you are making it a very easy decision.”
+
+The woman thought she could block one more attack, at least, but the Hadal used a skill and his axe severed her neck cleanly. When Zero-Five was done, he cleaned his blade, then put his mask back on.
+
+Irao was right that the Hadals deserved the gift of choice.
+
+His choice was simply more violence.
+
+***
+
+North of Frostway, the land grew more savage along the coast. Marshes replaced the forest along the windswept valleys. In summer when the temperature became pleasant, a thin, frosty layer of salt formed on the surface which the locals harvested for a few more iron bits. Bees buzzed on wildflowers with the upcoming spring. The land was rich, but its people were poor. Rakan and his detachment walked past villages held together by string and flotsam, stacked stones, and hope. Its people had huddled inside to watch them go fearfully. Talking to an elder had proven almost impossible, the old man barely speaking a few words of imperial. Along the coast, the language had been lost.
+
+There were many such villages as he traveled north. Dozens just along the path, each as parochial as the next. Few travelers walked the disused roads, mostly young families carrying their lives on their back as they sought land in outlying regions. It pained him to watch them so miserable, and so unguarded. One of the elders spoke of a large wolf, but Rakan didn’t have the time.
+
+He was on a mission.
+
+The Hadal guiding them brought them through secret paths down to a hidden creek, a deep one with water as blue as cold ice. Rickety buildings hugged a single pier upon which a small ship bobbed, men loading it with crates of supplies at a leisurely pace. Stacks of simple cloth bags waites by the main warehouse. Rakan inspected them.
+
+[Crushed Limestone]
+
+Hmm. Inexpensive stuff used to form concrete, Rakan remembered. Very useful for construction. Exceptionally malleable in the hands of brown mana specialists. There were a lot more bags than there were supplies.
+
+“I think we’re going to need food and two portals, captain,” he said.
+
+The leader of the Hightree company nodded. He was one of the earlier veterans to recover his eyes thanks to Viv, but sometimes, Rakan thought she should have regrown his tongue instead. The man spoke like each word was worth a water flask. His men even called him Hush. He had a short stature and the very broad shoulders of an archer, which he was primarily. A short beard and long hair gave him a wild look that fit his company.
+
+Behind him, the rest of his men used the lull to check their weapons. Bows, crossbows, spears, swords, sabers, slings and axes were checked and rechecked. Rakan knew the Hightrees were drawn from a dozen different militaries, with different traditions. They were not as cohesive as the Mountain Lords, but cohesion wasn’t what Rakan needed right now.
+
+He grabbed his staff and set to work, pulling some of the stored brown mana to set the disk of flat stone he would need for the portal. Pushing the mana into a construct before it could escape his leaking core, he carved the land with a soft touch, cooking it to follow his direction. He liked brown mana. It was solid. Dependable. It could block the sun as easily as a hail of arrows.
+
+A quick glance at the staff confirmed that he wouldn’t have enough colorless mana so he drew mana from the earth and his own leaking core, pushing it into the brown core which happened to be the largest. It took a while, but he wouldn’t attack until the night settled anyway. Hush led his men to form a camp and set up sentries in the meantime. They, too, were dependable.
+
+Below, the Remnants’ sailors and soldiers remained unaware of their presence. They didn’t even send patrols out past the basic wood wall that encircled their small jetty.
+
+That was fine with Rakan. With a last sigh, he continued his work.
+
+Drawing mana from the brown core, he turned it colorless with an ease born from practice. Setting the construct was easy. The harder part started now.
+
+“Space is like a grid, it can bend.”
+
+Rakan visualized the graph Viv had drawn for him. He also remembered the very strange movies he enjoyed so much and that Viv occasionally aired for him in her study. Space was not a distance or a theoretical concept but a three-dimensional continuum that wasn’t quite as immutable as he had thought. It bent around very large objects like the sun, the moons, and Viv’s ego. It could bend. It definitely, definitely could bend.
+
+“Space is like a grid. It CAN bend.”
+
+He repeated the mantra until sweat covered his brow and the circle shown under his feet. He could do it. He’d done it before. Space was like a grid and Rakan would make it bend.
+
+How the fuck did those two manage it so easily. Viv even admitted he was more talented than she was.
+
+Rakan breathed deep, letting his pride suffuse his psyche. It was easy. Space was a grid and he would make it bend. Just like that.
+
+The air pulsed.
+
+Arcane Construct: Expert 2
+
+With deceptive ease, the portal opened just as the sun set to reveal a clearing where the light was just a tiny bit darker. A hadal stood when he looked up.
+
+“We’re, ah, we’re going to need food soon. I think.” Rakan panted. “I’ll set another anchor here.”
+
+Setting the anchor was only a matter of minutes since no spells were required yet. He used the opportunity to recharge his brown core a little more, then pulled black mana into the black core as night settled. He would use it soon.
+
+“Ready to leave?” he asked Hush.
+
+“Plan?” the man grumbled.
+
+Hush definitely had a plan but for some reason, he preferred having Rakan speak out and then correct him. Rakan didn’t mind. It felt like he was coming up with the plans himself, and this was just good training overall.
+
+“Ok, we need the ship intact. I propose that we infiltrate the camp and make straight for it. Once it’s in our hands, we can secure the rest of the camp.”
+
+“Hostages?”
+
+Rakan blinked, caught off guard by the dour soldier.
+
+“They have hostages?”
+
+“Prisoners. There,” he said, pointing at the most secure building.
+
+Honestly, Rakan thought it might have been barracks. The last of the sunlight disappeared in a cold red blaze as the men assembled by loose squad, bristling with weapons.
+
+“Alright, then we breach the right wall and secure that place first, and then we go for the ship.”
+
+Rakan wasn’t sure it was a good plan. They needed that ship, or the mission would fail, but it was much easier to take over a ship after the alarm was broken rather than save hostages, even with magic. Ships didn’t have throats to slit after all. But if the ship was somehow destroyed…
+
+He shook his head. It was worse to hold back than to make a bad decision.
+
+“Alright. We do that. First squad with me. I’ll cover the approach then after we’ve secured the two main objectives, I’ll send a signal for the second squad to join us. Alright?”
+
+Hush had another good look at the port.
+
+“I can neutralize the sentries from inside.”
+
+Two towers sat on either side of the closed gate. They didn’t look like much, but there were bound to be people inside.
+
+“Alright. And the signal will be a flare.”
+
+Hush nodded. It took only a few seconds for the first squad to assemble around Rakan. A quick prayer to Neriad followed, then the squad started down the slope.
+
+Rakan pulled black mana, infusing it with the meaning of shadow. The cloak spread around the squad the way Viv had shown him. He directed it all around.
+
+“I am not there. I am not there,” he whispered.
+
+Curious eyes followed them for a second from one of the walls before dismissing them entirely.
+
+That was right. Nothing to see. No one would ever attack them.
+
+Rakan stopped by the walls, and the Hightrees followed. He pulled blue mana from the air and used it to liquefy part of the palisade. The wood rotted and fell in a pungent slurry by his feet. Blue mana didn’t come to Rakan very naturally, but he was still adept at using it.
+
+Soon, they had a hole. Hush signaled, then a short man with two swords jumped through. He signaled that the coast was clear.
+
+The rest of the Hightrees moved in with considerable grace for men wearing heavy armor. Rakan was second to last, then it was Iria, the group’s only woman. She urgently signaled to the side and the group huddled.
+
+A moment later, a bored soldier walked near the pier with a lantern and a mug of wine. Rakan remembered the rumor that Iria was a dropout from Enttiku’s warrior order. Maybe she’d kept a few secrets. He cast the shadow spell again, then they were off towards the barracks.
+
+It was there that he felt an issue. Just as they approached the stone jail, a burst of mana came from inside.
+
+Mage.
+
+He stopped and signaled Hush, who nodded. The squad approached the prison’s gate. Two sentries stood bored to tears. Hush signaled.
+
+His arrow took the left one in the throat while a crossbow bolt and two knives cracked the other one’s skull. Rakan knew this would make some noise. Even with the regulars being out of practice, they were still warrior paths with suitable stats. As the left guard let out a rattling death sigh, the sounds carried inward. They must have, because Rakan felt the mage inside move out.
+
+Fine. He just has to remember not to play it too smart. Take them out and move on. This wasn’t a demonstration.
+
+Rakan focused, preparing several spells.
+
+The Viv approach would be to collapse the entire wall structure on the fucker, but there were hostages inside and it would be quite noisy.
+
+The Sidjin approach would be to fell the man with a single colorless spellbreaker carrying a red mana payload, but Rakan wasn’t that good yet.
+
+Maybe a bit of both.
+
+The mage opened the door. He was young with a round face and suspicious eyes, clean shaven. With a wine-stained robe.
+
+He was drunk, Rakan realized in that brief instant before he struck.
+
+A brick fell from the building on a prepared shield, surprising the mage but not breaching. A Colorless breacher followed. The shield, this time, cracked like an egg, the mage spooked by the brick and caught off guard. He pulled on black mana to use that breach before it got closed. He had it. Rakan had already won.
+
+An arrow caught the mage under the nose at close range, right inside the tiny breach Rakan had opened.
+
+Rakan turned to Hush, whose bowstring vibrated pleasantly.
+
+“Tsk tsk.”
+
+But the man was right. Rakan had to remember that this wasn’t a contest. He followed the rushing soldiers even as a yelp sounded from the inside. It was a woman’s cry of alarm, but it was quickly silenced. Iria made the sign that the building’s interior was secure just as Rakan reached the threshold.
+
+Well, at least they were fast.
+
+“Hey, heard kerfuf bagam, weh!” a voice said from the pier in that strange creole the locals enjoyed.
+
+Rakan followed Hush towards the pier. They reached it in seconds, their feet stomping the pavement. A sentry spotted them but his utter surprise cost him a fraction of a second. Hush’s bow twanged loudly in the last of the silence. The man fell back, spine punched clean through. Rakan saw three sailors on the ship’s deck.
+
+Needed those alive, preferably.
+
+He pulled on blue mana from the air and from the staff, sending two of the sailors into the cold waters of the bay, but the captain resisted. He stopped the ball a handspan away from his chest.
+
+The two struggled for control, him on his ship, in the seat of his power, and Rakan far away on the pier with his least comfortable color. For a moment, the two were evenly matched, and the captain prepared to scream for help.
+
+Rakan infused the ball with the meaning of flexibility. It turned into a snake that jumped into the man’s mouth. It turned the shout into a gurgle. On Rakan’s side, Hush shot the sentries on the tower. Their walls didn’t extend inward, which made them vulnerable to arrows shot from the inside and, Rakan assumed, the cold wind. Lazy.
+
+He extended his arm. Red mana fused and turned into a reddish bowl that glowed for a second. Meanwhile, the captain had recovered, but Rakan wasn’t about to let him do anything. A colorless telekinetic spell was enough to throw his target against the deck. Meanwhile, the forest beyond the wall turned red from hundreds of torches. Cries of alert rang throughout the small fort.
+
+“Hightrees!”
+
+The hundreds of soldiers charged down the hill. Rakan considered attacking the door but he realized he didn’t have to when a few of Hush’s men simply raised the bar from the inside. What followed wasn’t a battle. The two dozen remaining guards were caught as they were drinking themselves numb. There was barely any resistance and most of them were captured to face tribunal. As for how guilty they were, Rakan reserved judgment until he managed to find the exiles.
+
+With the port secure, Rakan’s first order of business was to check on the jail. Hush guided him through the bloody antechamber where the mage had been staying and which was now cler of bodies, right to the cells themselves, of which there were three.
+
+“Why are the prisoners not free yet?” Rakan asked with a frown.
+
+The place was damp and cold. Even from here, it was easy to see the huddled forms waiting bound behind rusty cell bars.
+
+Hush frowned. Rakan was missing something, clearly.
+
+“What are you here for?” he asked in imperial.
+
+It was immediately clear that he wasn’t being understood, Rakan thought. Most of those poor souls wore badly made robes woven with coarse thread and fishbone needles — Rakan used to wear the same — so probably not trained, but to his surprise, one was not. A man dressed in the tatters of some official robe pointed at his neighbor, a young woman with a defiant expression.
+
+“Poisoner,” he said.
+
+The woman immediately screamed at him in the local tongue until Iria was forced to separate them. Rakan believed Hush had made his point.
+
+“Understood. Have a squad bring them to the portal where they can be transferred to the Temple of Neriad for interrogation.”
+
+“Yessir. Another group of hostages in the last room. It was warded.”
+
+Rakan followed Hush to a separate place. As the captain had said, the door was indeed warded but the hinges were not, and so they’d broken first. A common oversight. What he found inside was the complete opposite of the previous cells.
+
+While the other prisoners were filthy and beaten, they still carried signs of a relatively healthy life. Those four in front of him were clean, dressed in what passed as finery by Remnants standards, and the room itself was spacious and well-furnished with actual beds. Exile was engraved into their bodies instead. Two were teenagers but looked childish from years of starvation. Their gaunt faces looked up with a bleak resignation that pushed them beyond fear for themselves, an aura of quiet despair that clung to them like a bad smell. Rakan had seen people like that back in Halluria. Those who’d already lost everything and were just waiting for the end.
+
+They also matched the description for the ‘high value persons’ Viv wanted freed at all costs.
+
+“You are archmage Frosthawk’s children… correct?”
+
+The oldest girl looked up blearily, reacting for the first time.
+
+“You here to kill us?”
+
+“I was sent here to free you, but we expected you on the Jewel. You, ah, well it’s good that you’re here.”
+
+The three younger children ignored him completely. The older girl was barely any better.
+
+“But what about his wife? Lady Shana? Is she…”
+
+The kids reacted for the first time, shifting with guilt and the pain of an unhealed wound. Again, the oldest took the lead.
+
+“She… Last winter, there was a great sickness. Not enough medicine for everyone. She told us she’d taken enough. And food too. She told us. She told us she’d…”
+
+The girl broke down and Rakan moved in to comfort her. She looked so much like Rakan’s own sister that the pain touched him but when he reached for her, she recoiled.
+
+“Sorry,” he said, feeling like an idiot.
+
+“It’s not… not…”
+
+She shook her head.
+
+Not his fault. Probably what she was going to say.
+
+“Alright. We’ll get you to your dad. That’s the most important thing right now, but we are supposed to free the others. The other prisoners, I mean. From the Jewel and the other island. Do you know anything about them?”
+
+“You’re gonna need more than one ship,” the second child said.
+
+While his sister was probably holding on for the rest of them, Rakan could very easily spot what propped that one up.
+
+Hatred.
+
+“More than one ship, weh. They’ve got at least fifty guards. Mostly on the Jewel. The other island’s very close and bigger. There is a mine there. A fishery too.”
+
+“Only fifty guards?”
+
+“The prisoners guard themselves,” the boy hissed. “The murderers keep the dangerous Arana detractors in check, weh.”
+
+Rakan nodded. That made a perverted sort of sense. Even back in Helock, common law criminals were less feared than revolutionaries.
+
+“One ship might not be enough to carry enough soldiers,” he agreed.
+
+“Not for the guards and not for the bad prisoners. Or to take people back with you.”
+
+Rakan thought so too, and according to the intel, there were only two ships making the round, both too small to hide even a fraction of his forces. He would need to infiltrate the island so he could set up the next portal in peace. That was his plan anyway. The question was how?
+
+He should go talk to the captain.
+
+***
+
+It was getting really cold outside, a very unfortunate fact of life for Rakan’s newest prisoners. Hightrees brought the captain forward while his drenched men were unceremoniously thrown on the ground next to him. Rakan approached with all the gravitas he could muster. Normally, his Hallurian origins were enough to have most people piss themselves which suited him just fine that for once, his ethnicity wasn’t a fucking hurdle. Here though, the captain was just plain scared of everyone so being from a race of boogeymen would have less impact.
+
+The captain shivered.
+
+Maybe it would still work.
+
+“Do you understand imperial?” He asked, then added “mongrel” after a small delay because it sounded like a good idea.
+
+The captain nodded furiously.
+
+“I do! I do! I had school training!”
+
+“Then we have a few questions for you.”
+
+“I can’t help you! You don’t know Lady Arana! If I do anything for you, she will surely kill me.”
+
+Rakan blinked very, very slowly.
+
+“I think we need to clarify exactly where we stand. I guess we haven't done so yet. Hush?”
+
+“Hmmm.”
+
+“What’s Neriad’s take on the treatment of prisoners?”
+
+The archer gave the serious question a long thought. Rakan suspected it was unwise to ask in front of the prisoner, but he had an inkling as to what the answer would be.
+
+“Err. If he’s a civilian and refuses help that’s his right. Since he’s been helping soldiers, it could make him a soldier as well. Even then, he has a right to refuse helping an enemy.”
+
+The captain breathed a sigh of deep relief.
+
+“That said, Neriad’s clear about hostages, especially entire families. Way I see it, the captain here’s standing between us and rescuing innocent civilians. If they’ve been harmed, which they have, why, he’s even an accomplice.”
+
+Hush cracked his knuckles.
+
+“Bring him in, lads. Boy, you stay here.”
+
+Four gauntleted hands grabbed the captain’s shoulders with crushing grips. A few of the Hightrees chuckled with the gravelly tone of old veterans, the jaded kind. Iria’s voice rose above the crowd. It was a deep alto with a powerful Reixan accent. The city of smugglers. Nice touch, though again, the captain wouldn’t recognize it.
+
+“Drop his pants, boys! Been a long time since I’ve last shaved a man!”
+
+“Wait wait wait wait wait wait!”
+
+He didn’t even last until the door. Just as well.

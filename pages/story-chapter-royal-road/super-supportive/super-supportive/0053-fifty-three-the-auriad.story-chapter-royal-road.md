@@ -1,0 +1,237 @@
+---
+id: 4e4c651c-c3d7-56a6-953f-8a495bf374ad
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-THREE: The Auriad"
+slug: 0053-fifty-three-the-auriad
+partOf: super-supportive
+position: 53
+ownLength: 2792
+unit: words
+publishedAt: 2023-07-13
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1275481/fifty-three-the-auriad"
+royalRoadId: "1275481"
+---
+
+Alden kept waiting for something to go wrong.
+
+But for the first time in months, nothing did. The car climbed in and out of larger depressions, and it spun its wheels in patches of loose soil a couple of times, but it made it all the way back to the lab. When it arrived, the ramp to the underground entrance even opened for it.
+
+Kibby was waiting for him.
+
+“It works,” she said, sounding stunned as he climbed from the vehicle.
+
+“I know. I can’t believe it either. Also, you’re supposed to be in the vault.”
+
+“You were gone a long time.”
+
+He hadn’t been. It had been almost the shortest possible amount of time the trip could have taken. “I was worried about you, too. Vault. Now. I’ll be right there after I shower.”
+
+Did showering do anything to remove excess chaos residue? Probably not. But it made him feel like he was being proactive.
+
+When he rejoined Kibby, he found she had set up their learning cushions side by side in front of one of the screens.
+
+“I thought you didn’t want to practice anymore,” Alden said. “Wasn’t it making things worse instead of better for you?”
+
+“I am not practicing. I’m teaching. This is your present for returning safely.”
+
+Alden held back a sigh.
+
+He wanted sleep far more than he wanted a class right now, but he wasn’t about to admit it. He was already barefoot like a proper student, so he walked over to join her. Just before he was about to kneel down, he spotted something unfamiliar on his mat.
+
+It was a loop of iridescent white string, meticulously coiled into the logogram for “friend.”
+
+“Like you used to do with my marleck berries,” Kibby said, pointing at it.
+
+“I remember.”
+
+Alden stared at the string. He knew immediately that it was a magic item because his brain was a little hung up on it. Sympathy for Magic being weird again. He’d mostly gotten used to the effect that particular stat increase had on him, and lately it was rare for something to draw his attention to it so noticeably that it became a distraction. “Kibby, is this…?”
+
+“It’s for you. It’s an auriad.” Kibby used the word Alden had learned just a couple of days before when he asked about the spell Instructor Gwen-lor had erased from the screen before starting her class. “Distinguished Master Ro-den gave it to me with the cushions. It was inside mine so it would be safe until I was ready to bond with it. But I haven’t passed the right test for Instructor Gwen-lor to send my beginner auriad lessons, yet. I have to learn all the hand casting spells she teaches first.”
+
+Kibby examined his fingers. “You should take off the ring before you hold it.”
+
+Crouching, Alden slipped the ring off and set it aside on the floor. He lifted the string carefully and knelt on the cushion. The auriad was fascinating. It flowed through his fingers so smoothly it was almost like it was made of liquid.
+
+“Kibby, you don’t have to give me this,” he said. “It’s so kind of you, but I know the things Joe—Distinguished Master Ro-den—gave you are important to you.”
+
+“Someone will give me another one,” she replied, eyes fixed on the string. “Maybe even Distinguished Master Ro-den will do it, when I finally get to call Instructor Gwen-lor and tell her I finished her lessons. Or someone else will when I go to school. But…maybe nobody will ever give you one. Maybe they don’t have them on Earth.”
+
+“I’ve never seen one there before,” Alden said.
+
+“Since I’m your instructor, I’ll give you one.” She spoke firmly. “And you will use it your whole entire life and be the best Avowed.”
+
+He smiled at her. “You said it’s a tool that bonds to authority?”
+
+“After you start using it, it does. Then it’s only yours. You have to take good care of it and keep it with you all the time, and it will get stronger so that you can cast better spells with it.”
+
+So Jel-nor wasn’t just wearing one in her hair as a fashion statement that day by the pond. You’re supposed to keep them close.
+
+“We only have one auriad spell, so you will have to try very hard and learn it,” Kibby said in a businesslike tone. “I will pause the video just before Instructor Gwen-lor clears the spell from the screen, and you will study the casting shapes while I read all the logograms to you.”
+
+“Do we even know what that spell does? Or if all of it is listed on the board?”
+
+“It’s all there. It hits things.”
+
+“It hits them?”
+
+She mimed punching something with a small fist. “It does that. But farther away. And harder. And in a square shape. It’s the graduation spell at Instructor Gwen-lor’s school. For the Year Sixes. It says ‘Congratulations!’ on the board beside it and lists all the students’ names and their second schools.”
+
+The tiny children Alden and Kibby had been learning with up until now were the Year Ones, and going by the length of Mother Planet years and the way Artonan kids aged…that was probably the human equivalent of a ten or eleven year old? So it was like an elementary school graduation spell.
+
+“You only have a few days to learn,” Kibby said. “You have to listen and remember everything I say.”
+
+“I will,” Alden agreed. “Thank you so much for the present. It’s perfect.”
+
+He couldn’t help feeling a little excited. And nervous. What if something like the auriad wouldn’t work for an Avowed, and the gift was wasted on him?
+
+She turned on the screen, and their lesson began.
+
+************************
+
+The auriad lesson became Alden’s main free time distraction now that they were committed to only leaving the vault for Plan-related prep work and other essentials. Kibby read the instructions to him over and over until he could nearly recite them from memory, and then he spent ages sitting on his cushion working out how to use the loop of string.
+
+It was a mix of making the necessary shape sets with the auriad and manipulating his authority to touch the gaps created by each shape. Like a complicated version of the partner-greeting exercise the students learned to start with.
+
+Alden couldn’t usually feel solid objects with his authority when he wasn’t actively using his skill on them. It had never even occurred to him to try. But the auriad invited him to do it. Kibby had called it “sticky,” and that was a fine word for it. He wanted to touch it, and as he worked with it more and more over the passing days, it started to feel like an actual extension of himself.
+
+And on the third day of practice, there was another development.
+
+“It’s not white anymore,” Alden said, surprised. He held up the final shape in the set that formed the spell—a lacework of string with a square at the center—to show it to Kibby.
+
+She was bundled in the coat again, reading lab files on the tablet. She’d been at it for ages. She was taking her role in Plan 2 seriously. Which was good, since Alden didn’t have a prayer of reading the kind of highly technical writing she was going through. He was lucky to pick out the occasional common noun or adjective.
+
+She glanced up. “That’s good!” she said. The auriad had turned a very pale shade of blue. “It means you’ve almost finished bonding with it.”
+
+“It changes colors when you’re done?”
+
+“It turns your favorite color.”
+
+Alden stared at the silky string. I guess I do like blue.
+
+“You should be careful where you aim when you do the final shape from now on,” she warned him. “You might be able to cast with it now that you’re bonding. You could hit stuff.”
+
+Alden grinned. “I want to hit stuff.”
+
+She sighed.
+
+“When I learn to hit stuff, I’m going to go squash the evil vine that’s escaped from the greenhouse!”
+
+“It’s not supposed to be a fighting spell. It’s just to learn aiming and knock things over.”
+
+“I bet it can fight a plant.”
+
+She considered it. “Probably,” she agreed.
+
+“And I bet I get it right next time,” he said, unclenching his authority and letting the string fall from his fingers.
+
+He was wrong.
+
+It took him two more days of obsessive attention to fully bond with the auriad. But when it was over, it was less like he’d gotten the hang of using a new toy and more like he’d gained a third hand that he was still a little clumsy with. The auriad had turned a deep shade of indigo blue, and it retained a faintly iridescent quality. As he worked with it, it had started to feel more liquid than ever, but it had also begun to develop a habit of sticking and catching sometimes when he needed it to do so.
+
+Alden was stupidly in love with his loop of string.
+
+Maybe he was supposed to be. The idea of handing it over to someone else to use or even hold actually gave him a physical sense of discomfort.
+
+Last night, he’d had a dream that something had broken his auriad, and he’d woken up in a cold sweat to pester Kibby with fifty different questions about how to take proper care of it. She was not nearly as concerned about what a terrible thing it would be if the auriad broke as she should have been.
+
+“Of course getting wet won’t hurt it.”
+
+“What about knives? Or fire?”
+
+“I guess a hot enough fire. Or a powerful enough knife.”
+
+“Really?” he said, clutching the string to his chest. “How do I make it stronger?”
+
+She looked at him oddly. “It’s as strong as your authority is. It’s protected by you. That’s how it works.”
+
+He finally fell back onto his pillow with a relieved sigh.
+
+“I guess it’s true,” Kibby said in a fascinated tone. “I always heard wizards were like this about their auriads, but since I don’t have one yet…”
+
+“Does every wizard have one? I think I’ve seen images of them with strings a few times and never thought about it. But in person, I’ve only seen the girl at LeafSong with one.”
+
+“A lot of wizards have them. Not all. People who don’t love to hand cast usually have theirs severed after they finish training with it in school so that it’s not as much trouble for them.”
+
+Alden rolled over to gape at her in horror.
+
+“You probably saw people with them and didn’t realize,” she added. “Most wizards wear them under their clothes, and some use them as ————- or necklaces.”
+
+Bracelets maybe. Or hair ties like Jel-nor.
+
+Wizards did tend to be thoroughly kitted out with the elaborate clothes, magic jewelry, tats, and other tools of the trade. It would be easy to overlook a piece of string or just dismiss it as another weird Artonan thing.
+
+“It’s rude to touch someone else’s without permission,” Kibby informed him.
+
+“Of course it is,” Alden said.
+
+What kind of animal would do such a thing?
+
+Kibby shook her head at him in exasperation and went back to her tablet.
+
+“You’ll see,” he said, petting his auriad. “When you get yours, you’ll see.”
+
+“I am happy you like your present. Go to sleep. I’m studying physics and chemistry and magic generators.”
+
+********************
+
+Night turned into a gray dawn. It wasn’t light enough to be called day, but it was light enough for them to see. And that meant it was time. For everything else.
+
+Human Day 186 was the time they’d both agreed on. It was dark still, but not so dark that they couldn’t see. Their sleep cycles were almost properly synched for the plan thanks to the simple expedient of Alden spending several hours carrying Kibby around strapped to his back on Day 185. He’d been doing it as often as she’d let him lately anyway.
+
+It wore him out faster, pushing him into the askew state almost as soon as he picked her up, but he wished she would have let him do it a few more times. It wasn’t like she recovered when she was being held, but it stretched their window.
+
+Over the past few days, everything had been completed. The car was packed with the items they had deemed worth the weight. Ever since he’d returned with it, it had been parked inside a plain-looking metal garage that was theoretically capable of giving it some kind of magical boost. And Alden had finally memorized the function of every logogram on the vehicle’s control panel.
+
+For her part, Kibby had prepped the main lab by arranging all sorts of volatile equipment, chemicals, and supplies in the way she deemed best after her days of research.
+
+“Plan 2,” Alden said that morning as they shared a breakfast of freeze dried food in the vault.
+
+“Plan 2,” Kibby agreed. She was looking strained already, Alden noted. Usually a night’s sleep under the coat helped at least a little.
+
+“We blow the whole place up,” he said.
+
+“———— Yipalck Corporation,” she replied, her face set. “They’re not getting a ————— piece. They can shove the ——— ashes up their ———-.”
+
+Alden blinked. Wow. She must have learned her serious swearing from Joe.
+
+The professor’s magic bomb had come with instructions for Thenn-ar. It was supposed to be used in conjunction with a second one. According to Kibby, it was not designed to make a gigantic boom that would destroy everything, but to neatly demolish just a couple of key areas in a way that would look like it could have been an accident.
+
+She didn’t approve.
+
+Alden had asked her if she could figure out how to make a bigger magical explosion. Maybe some smoke and fire. Anything that might draw the attention of the people who had come to Thegund to clear the chaos.
+
+She didn’t think that was enough either.
+
+And she was the one who could read the instructions. She was the one who’d been hurt the most.
+
+So. Full-scale devastation it was.
+
+They watched a soap opera. Klee-pak and the purple daisies again. Then they both ate and drank as much as they could stand, and they headed out. Before they exited the main lab, Alden examined Kibby’s handiwork. He couldn’t understand most of it, but in addition to all the stuff she’d arranged herself, she’d had him dolly in some heavy plastic drums and random pieces of still-functional enchanted equipment for her.
+
+The bomb, still in its protective case, looked like a glass football full of swirling silver mist with three deep depressions in the top. Kibby had set it right at the edge of one of the floor tiles she had told Alden he must never, ever touch.
+
+She bent over it.
+
+“You're sure?” he asked.
+
+“I will not die in the vault like a grasshopper.” She stuck her three middle fingers into the depressions and held them there for a while. Then, she removed them. “We have a human hour and fourteen hour fractions now.”
+
+Seventy-four minutes.
+
+To calm his nerves, he ran his fingers over the auriad. He was wearing it around his neck, triple looped and easy to hide under the collar of one of his turtlenecks or the Hawaiian shirt he was wearing over them.
+
+They headed across the chilly compound as they had so many times before. Kibby hopped over the evil vine without looking at it, but Alden had to pause and admire his handiwork. His new spell had squashed it nicely, and he’d been able to practice his aim.
+
+It hit things with a perfectly square-shaped hammer of force. Approximately sixteen inches across on the diagonal.
+
+They weren’t crushing blows, but they were certainly harder than Alden could physically punch or kick. And if they didn’t hit anything, they traveled pretty far before they faded. He’d been able to throw up piles of gravel from about thirty yards away.
+
+They entered the garage and climbed into the car. Alden took the driver’s seat and pressed the buttons that would take them to the coordinates marked on the homemade map they’d glued to the car’s ceiling.
+
+If nobody came to check on the explosion, the map was Plan 3.
+
+Please, somebody come, he thought. Plan 3 is the worst.
+
+The car started and began to roll. To cover his sigh of relief, he smiled at Kibby. “We need driving music.”
+
+She winced. “Do not sing, Alden. You are not good at it.”

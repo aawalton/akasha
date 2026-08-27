@@ -1,0 +1,143 @@
+---
+id: 75feeba9-9b7d-5cad-a86c-a5c9d7e49e3b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 393 : Golems Galore"
+slug: 0095-chapter-393-golems-galore
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 95
+ownLength: 2276
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3559799/chapter-393-golems-galore"
+royalRoadId: "3559799"
+---
+
+As I breached the border, the difference in the territory was quite noticeable. For one, there were no monsters present at all, making this arguably the safest region I'd ever seen. The reason for this quickly became obvious as I saw squads of various golems, in all sorts of shapes and sizes, patrolling the land.
+
+I sort of regretted not having [Identify] as I had no idea how these creations measured up, and my attempts to throw together a quick solution hadn't exactly succeeded. It turned out that it was much harder to extract information from creatures, living or otherwise, than from mundane inanimate objects.
+
+Still, while I couldn't get system information from them, I could watch them from a safe distance and get a feeling of what they were capable of. From casual observation, I noticed that most of these squads were set up in a typical party formation and seemed designed to accommodate their fixed roles in the group. And yes, that even included a golem which appeared to be some type of mage-variant, as it shot flames out of its palms.
+
+The few monsters that crossed the border stood no chance against the squads, meaning I couldn't evaluate them as they hardly expended any effort. At times like this, I wished I could split my slime off independently and have it fight for me, as I could create monsters for them to fight, but without a [Sub-Core] and spare network, that was currently impossible.
+
+I could go dig underground and make a slime-domain-type arrangement, but that's a bit too much effort for just my casual curiosity. I'm sure I can find out more about the golems by just visiting.
+
+This also made me quickly realize that I should probably change my approach. With so many golems patrolling, if I suddenly appeared at their doorstep, wouldn't that be a bit weird? Thus, I left the border and shapeshifted back to my original Syl the adventuring elf after landing on the ground. Just like when I showed it to Yuzz, it fit me like a glove, making me very conflicted about the future of this identity.
+
+Vee had suggested I just make some minor changes to the form, like different hair or eye color from the original Sylthaeryn. That way, it would be close enough for me, but could be told apart if we were in the same room together.
+
+Sure, why not?
+
+I changed my eyes to a deep crimson and added aquamarine-blue streaks to the almost-silver-blonde hair. I also put it in a ponytail, something not a lot of elves did, as they preferred to keep it straight and long. These were admittedly very minor, and while I still didn't see them making much difference, maybe Vee knew better.
+
+I kept my big witchy wizard hat, as it would fit me no matter what I wore and identified me as a spellcaster from a distance. Considering I was arguably far more lethal at close range, giving anyone the wrong impression about me was a plus in my book. For clothes, I had grown sort of fond of robes over leathers, but it was very close to the flowing gowns the elves routinely wore, so I needed something more adventurous.
+
+Instead, I chose a long, dark navy hooded robe that fell to my ankles, made of thick, heavy fabric. I kept the hood down, as I didn't really see a need to hide my face. I added pale stitching around the edges and seams, standing out against the dark cloth, and sturdy toggle clasps down the front. Lastly, I added a wide blackish-brown belt with buckles and pouches, and finished the look with sturdy brown leather boots, which fit the wandering mage aesthetic I was aiming for.
+
+"Back to being an adventurer, I guess."
+
+I saved the design and then started modifying it underneath as I began walking into the region. Sure, it looked like heavy fabric, but I had no such restrictions for its composition. [Metal Slime] was truly a blessing, though not making it rigid would lower its efficacy. Still, compared to any regular armor or garments, I doubted it would matter, and I still kept my cores housed in solidified slime for protection.
+
+"Hopefully this isn't too blue… I know I did hair and clothes, but blue is my favorite color… And navy is completely different from aquamarine."
+
+I also wore my guild tag, something I hadn't worn for what felt like ages, and made sure to also take out my invitation, as I figured it would be needed for the patrolling golems to leave me be. In fact, it didn't take long for them to spot me, but after they approached, they saluted and then silently walked away.
+
+I guess as long as they don't see you as a monster, they leave you alone? Good to know my [Identity Fabrication] works flawlessly.
+
+The deeper into the territory I ventured, the nicer things became. The outskirts almost seemed like a battlefield with the golem patrols, but now it was starting to see lush vegetation and other harmless critters.
+
+I soon found a road and began following it to my destination. Along the way, I spotted more golems, more refined in their design and aesthetically pleasing. Rather than the big chunky brutes, they had a much more humanoid appearance.
+
+Eventually, I saw large open fields being tilled by countless golem workers. Again, each one seemed to have a specialized design and role, which they performed flawlessly. Planting, harvesting, watering, and everything in between were handled by these silent workers.
+
+Okay, Vee would definitely like some of these.
+
+That was when I finally saw the city itself. Massive walls that put Kaerlin to shame, with golems walking along the battlements. These golems all seemed to have crossbows mounted on one arm, some the size of miniature ballistas.
+
+This place even makes the Dhoggurum defenses look a little underwhelming.
+
+I still hadn't seen a single living person, human or otherwise, which made everything a little eerie. Was Keldenar living here alone with his golems? Or were the people staying inside the city?
+
+Guess I'll see when I enter.
+
+Maybe it was my paranoia talking, but I flexed my [Personal Rift] a bit, and to my relief, found zero restrictions. As safe as this city appeared to be, it looked like he hadn't gotten around to preventing dimensional shenanigans.
+
+When I reached the large gate, there was no queue; instead, a pair of ornately crafted golems stood guard. Their weapons alone must have cost a fortune, as they looked like something straight from a dwarven blacksmith.
+
+However, what really surprised me was that these golems genuinely looked almost human. They had expressionless, unchanging faces, so it was more appropriate to call them human statues, but when they moved, it was very uncanny. When they saw me, one of them approached.
+
+"Hello, welcome to Keld. Are you here for business or pleasure?" the golem asked. The voice emerged in a flat drone, each word pronounced with precision, yet its rhythm felt wrong, as if the words were being assembled. It certainly didn't help that the mouth didn't move at all.
+
+"Hi… I received an invitation?" I replied, holding out the token.
+
+The golem took it from me and examined it closely. Evidently, there were protocols to follow to detect forgeries. After a few moments, it gazed at me, as if checking that I was the one who received it.
+
+I didn't accidentally give him Sylvain's one, did I?
+
+"This was distributed quite some time ago," the golem responded. "However, it is still valid. Welcome to Keld. Feel free to enjoy the city, and head to the castle when you wish to meet with our king."
+
+This was far more informal than I expected, but the gate began to open, and I was allowed entry. Before I entered, the golem handed me back my token and then gave a quick salute before returning to its post.
+
+I really didn't expect them to be able to talk… I wonder how he managed that? Is he using some kind of skill like [Roleplay]?
+
+Entering the city, I was greeted by the sights, sounds, and smells of what appeared to be luxury living. It reminded me a lot of the noble district of Kaerlin, yet it also felt like Dhoggurum, due to an underlying efficiency in its layout.
+
+Streets were ornately paved, buildings were immaculate, there wasn't even a hint of litter or dust; it was basically spotless. Unlike outside, I did actually spot a few people walking around, mostly human, but I did see the occasional dwarf too, yet both were very few in number. No, most of the foot traffic seemed to be made up of even more golems.
+
+Each person in the city was accompanied by two or more golems, as if they were their butlers and maids. It was quite a surprise. One thing I noticed was that almost everyone seemed scholarly, and I wondered whether they had all taken profession-based classes.
+
+Damn, I really regret taking apart [Identify] now. Should I spend a point to grab it?
+
+While I was fussing over the skill point, someone noticed and approached me. It was a tired-looking human, and judging by what his golems were carrying for him, it looked like he was probably an alchemist of some sort.
+
+"Greetings, first time in Keld?" he asked politely.
+
+"That easy to tell?"
+
+"Well, the ears are a dead giveaway, I'm afraid. I think you're the first elf to ever set foot inside here," he replied.
+
+I nodded, with a small smile.
+
+He continued. "I thought you might be here as an artisan, but I see you're wearing an adventurer's tag, so I assume you're here for the alliance instead…?"
+
+"Alliance?"
+
+"Oh. I suppose you just arrived, so you haven't had a chance to speak to Lord Keldenar yet. Never mind then, you'll find out soon enough."
+
+I gave a bitter smile, as I hated nonsensical secrets. However, one thing he said had confused me, so I brought it up. "Lord? The golem guards called him king."
+
+The man surprisingly started chuckling, shaking his head. "I'll be honest with you, it changes almost every week. He hasn't exactly decided on a title, and often just tells people to address him without one. King Keldenar sounded rather silly to me, so I stuck to using lord."
+
+"I see… Sounds like he's quite eccentric."
+
+"Oh, trust me, when you meet him, you'll get to see it, warts and all. But, at least he's honest, which is more than I can say for the born nobles," he paused and pointed at my tag. "Plus, you've got it lucky as he's got a big soft spot for fellow adventurers."
+
+"Thanks for the information."
+
+"Sure, sure, anytime. Regardless of what you choose, I hope you enjoy your time in Keld."
+
+After that, the man walked off, with his two golems in tow. Similar interactions happened as I walked through the city, as several people seemed fascinated by the arrival of an elf. Thankfully, everyone was polite about it, and the dwarf even offered to buy me a drink.
+
+My general impression was that everyone seemed to not have a care in the world, as if they had nothing but free time at their disposal. Sure, I was technically in the same boat, but it still felt a bit weird, as every other city had that innate hustle and bustle to it.
+
+This was further compounded when I got given free food from a golem operator stall, which seemed to be the norm here. Free food, free time, the people seemed to have it all.
+
+Is this really a utopia?
+
+At first, I rejected that idea, as I had assumed that only the wealthy would have golem helpers, but when I saw an average-looking farmer followed by over a dozen of them, I figured that might not be the case.
+
+How exactly does he recruit people? I got my invitations from the damage test, but what about the rest? Does he just give golems away for free?
+
+I had what felt like endless questions, which only increased further when I saw something that blew my mind. From the outside, it appeared to just be a family, a wife and husband running a store together, but when I got closer, I saw that they were both golems! The unnatural speech was almost cleaned up, but I still spotted it, except unlike the guards, their mouths moved and everything.
+
+If they had actual skin, I might have genuinely thought they were human.
+
+I eavesdropped for a bit, and the two were just casually chatting about their day and what plans they had after they closed the shop. If I had overheard this from anyone else, I would have thought they were just an ordinary, loving couple.
+
+I immediately concluded it had to be [Roleplay] or an adjacent skill, but if it was, I couldn't understand its purpose. Why have two fake personas talk to each other like this? Was he trying to grind levels? Or was it to make the residents feel at ease? Wouldn't that actually do the opposite?
+
+Maybe I'm the weird one…?
+
+At this point, I felt like the only way I'd get any answers was to talk to the man himself. Admittedly, I was a little nervous to meet the person who created a city and all these golems, but I felt reassured by the constant presence of my rift settling around me.
+
+No matter what happens, I should be able to teleport away.

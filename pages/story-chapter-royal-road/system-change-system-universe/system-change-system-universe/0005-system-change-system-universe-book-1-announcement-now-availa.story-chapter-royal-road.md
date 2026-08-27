@@ -1,0 +1,51 @@
+---
+id: 32be1c6c-6512-5383-b181-0c8a143779be
+page-type-slug: story-chapter-royal-road
+title: "System Change (System Universe Book 1) Announcement! Now Available!"
+slug: 0005-system-change-system-universe-book-1-announcement-now-availa
+partOf: system-change-system-universe
+position: 5
+ownLength: 475
+unit: words
+ownProgress: 475
+publishedAt: 2022-11-15
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1041040/system-change-system-universe-book-1-announcement"
+royalRoadId: "1041040"
+markedReadAt: "2026-06-29T19:56:54.343Z"
+---
+
+Hey everyone! I’m super excited to finally officially make this announcement.
+
+System Change is officially being published! Today marks the launch of System Universe Book 1: System Change! It’s now available through Amazon’s Kindle Unlimited, Kindle, Paperback, and Audible.
+
+I’m also excited to announce that it is being narrated by Adam Verner! For those of you who don’t know him, he is quite the well-known narrator who also did the Painting the Mists series. I’m very happy to have him along for the ride.
+
+You can get it here:
+
+Ebook: System Change (System Universe Book 1)
+
+Audible: System Change Narrated by Adam Verner
+
+I honestly never thought I’d come this far. It’s a super exciting time for me. From just throwing up a couple chapters of my fic on a whim without thinking it would go anywhere, to hopefully a good launch on Amazon! I can’t thank you all enough.
+
+Now, as for how people can support the release, there are a couple things:
+
+-Ratings and Reviews: On Amazon (Also, keep in mind that anything below a 5 is basically bad because of how their rating skew) ratings and reviews are the biggest help for authors. Also, you don’t have to buy the book to rate it, which is good because you most likely already read it here. Though, I would for sure love for you to pick it up again on KU or Audio to get in on some of that good editing and narration. XD
+
+-Kindle Unlimited Downloads: With the way Amazon’s algorithm is, reading the book on KU or even just downloading it helps a ton. The more downloads/reads, the more Amazon likes the book.
+
+Now, about some things that have changed in the book:
+
+For the most part, everything is pretty much the same, besides patching up some minor inconsistencies and changing some things with the status sheets to make them more presentable in ebook form.
+
+I guess… Awards have been changed to Achievements because… well… why the hell did I call them Awards in the first place? I was just trying to get away from Titles from the Universal System to The Great System. How my brain thought of Awards before Achievements, I’ll never know.
+
+Also, the series name. After thinking long and hard about it, I decided to go with System Universe as the series name. System Change was a great name for the first book in the series, but as a whole, especially after I’ve expanded on (in my outlines/in my head/etc) how everything is going, System Universe just made more sense.
+
+Anyway, enough of me yammering on and on about it. I really can’t contain my excitement.
+
+Also, did you know that 60% of those of you who watch my You… wait a minute… wrong platform… Uh… Please read, rate, and review.
+
+As always,
+
+Thanks for reading!!!

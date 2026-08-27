@@ -1,0 +1,279 @@
+---
+id: 66cb565b-4838-512b-9f49-ea8ac09570ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: The Sea Spider Chronicles"
+slug: 0068-chapter-67-the-sea-spider-chronicles
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 68
+ownLength: 2399
+unit: words
+publishedAt: 2026-03-29
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3207895/chapter-67-the-sea-spider-chronicles"
+royalRoadId: "3207895"
+---
+
+The sun hadn’t even cleared the horizon line of the ocean yet, but the temporary kitchen tent at the Fenris Estate was already awake, and it was screaming.
+
+"It’s going for the flour! Flank it! Flank it!"
+
+Kaelthos, the stoic elven warrior who had faced down wolves, bandits, and the crushing despair of poverty without flinching, was currently backed against a stack of crates. He was brandishing a soup ladle like it was a holy avenger, his eyes wide with genuine, primal fear.
+
+At his feet, scuttling sideways with a menacing, clicking rhythm, was a King Crab.
+
+It was a big one. A monster. Its legs spanned three feet, covered in intimidating red spines, and its claws were snapping at the air, looking for something to crush.
+
+"It’s just a crab, Kaelthos," Ren sighed, walking over. He was wearing an apron over his tunic, looking far too calm for the chaos around him. He reached down, dodging a lazy snap of a pincer, and grabbed the crustacean by the rear of its carapace.
+
+The crab waved its legs in the air, helpless.
+
+"It’s food," Ren said, holding the wriggling creature up to the lantern light. "Not a siege engine."
+
+Kaelthos lowered the ladle, trying to regain his dignity. "It... it has armor, My Lord. And too many legs. It is an abomination."
+
+Ren looked around his kitchen. It was absolute bedlam.
+
+Five barrels of live King Crabs sat in the center of the tent, bubbling ominously. His staff—his elite, hand-picked elven staff—was treating them like unexploded ordnance.
+
+Isara, the young mage, was hiding behind a table, clutching a book as if she could spell the crabs away. Zairen and Qura, the scouts, were perched up on the rafters of the tent, looking down with bows drawn, ready to shoot the first thing that crawled too fast.
+
+Even Cynthia, his head chef, the woman who could skin a deer in ten minutes flat, looked pale. She was standing by the stove, holding a knife, but she wasn't moving.
+
+"My Lord," she said, her voice tight. "Are you... Are you certain about this? The fishermen call them 'Sea Spiders'. They say the meat turns to poison if you cook it wrong. They say it smells like the grave."
+
+"They say that because they boil them to death in cold water and rupture the guts," Ren said, dumping the crab back into a barrel of seawater. It landed with a splash that made Isara squeak. "Trust me. By tonight, you’ll be fighting over the last leg."
+
+He clapped his hands, the sound cutting through the nervous tension.
+
+"Alright, team. Listen up. We have work to do. We aren't just making dinner tonight. We are building a menu. These monsters? These 'Sea Spiders'? They are going to be the signature dish of the Seaside Inn. They are going to make us rich. But first, we have to conquer them."
+
+He turned to the empty air. "System. Shopping list."
+
+[Ana: Ready. The credit card is loaded.]
+
+"I need butter," Ren said. "Salted. Unsalted. Cultured. Just... all the butter. And lemons. Fresh ones."
+
+Cynthia frowned. "Lemons? My Lord, what is a lemon?"
+
+"A yellow fruit," Ren explained. "Sour. Acidic. It cuts the fat. It brightens the soul. And garlic. Parsley. Heavy cream. Coconut milk. Cream cheese."
+
+He listed off ingredients that were either unheard of or prohibitively rare in Dolaria.
+
+"And," Ren added, a glint in his eye, "Rice. Lots of it."
+
+He tapped the purchase button on his HUD.
+
+A flash of blue light illuminated the tent. Crates materialized on the prep tables. Sacks of rice, baskets of bright yellow lemons, blocks of butter wrapped in wax paper, and jugs of cream appeared from thin air.
+
+The elves gasped. Even after seeing his magic before, the sheer volume of wealth Ren could summon with a thought was staggering.
+
+"Butter," Cynthia whispered, picking up a block. "So much... butter. In the Union, we were lucky to get lard."
+
+"We use the good stuff here," Ren said. "Now. Prep stations."
+
+He assigned tasks. Kaelthos and Zairen were on crab duty (steaming). Cynthia and Isara were on vegetable prep. Mira was on baby duty, which mostly involved keeping Lily from crawling into the crab barrels.
+
+Lily was delighted. She was pointing a chubby, spit-covered finger at the flailing crabs. "Click! Click!" she shrieked, laughing.
+
+"At least someone appreciates the livestock," Ren smiled.
+
+He rolled up his sleeves. "Okay. Step one. The execution."
+
+He showed them how to do it. It wasn't pretty, but it was necessary. A quick spike to the nerve center. Instant. Humane. The crab stopped moving.
+
+"See?" Ren said. "It’s just meat. Now, into the steamer."
+
+He had commissioned a massive steamer basket to fit over the cauldron. He loaded it up. The water below was spiked with bay leaves and peppercorns.
+
+When the steam began to rise, the smell changed. It stopped smelling like wet docks and started smelling like... potential. Like savory, briny magic.
+
+Twenty minutes later, Ren pulled the first batch. The shells had turned from a dull, muddy brown to a brilliant, vibrant crimson.
+
+"It bleeds red?" Zairen whispered from the rafters.
+
+"That's just the shell changing color," Ren called up. "Come down. It's safe."
+
+Now came the prep. Ren gathered everyone around the worktable.
+
+"Don't smash it," he instructed Cynthia, handing her a nutcracker he'd bought from the System Shop. "If you smash it, you get shell shards in the meat. It ruins the texture. You have to be gentle. Crack the joint. Leverage. Then pull."
+
+He demonstrated. Snap. Wiggle. Pull.
+
+A massive, solid log of pink-and-white meat slid out of the leg casing intact. It steamed in the cool air.
+
+The staff gasped. It looked... clean. It didn't look like monster guts. It looked like the finest muscle fiber.
+
+"Smell it," Ren said, holding it out to Cynthia.
+
+She leaned in. She sniffed. Her eyes widened. "It smells... sweet. Like the ocean breeze, but... richer."
+
+"Exactly," Ren said. "Now. The taste test."
+
+He moved to the stove. He had a pot of butter melting. He added minced garlic, a squeeze of lemon juice, a pinch of salt, and a handful of chopped parsley. He let it bubble until the garlic was golden and fragrant.
+
+He dipped a chunk of the warm crab meat into the butter pool. He coated it with the gold liquid.
+
+He held it out to Cynthia.
+
+"You're the chef," he said softly. "You have to know the product. Open."
+
+Cynthia hesitated. She looked at the strange, alien meat. She looked at Ren’s encouraging smile. She looked at the expectant faces of the elves around her.
+
+She opened her mouth. She took the bite.
+
+The room went silent. Even the puppies, who were chewing on a table leg, stopped to watch.
+
+Cynthia chewed. Her brow furrowed. Then, her eyes went wide. She stopped chewing. She swallowed.
+
+"Oh," she whispered.
+
+"Well?" Ren asked.
+
+She didn't answer with words. She reached out, grabbed another piece of meat, dipped it herself, and ate it. Then a third.
+
+"It's... it's sweet," she managed, a flush rising in her cheeks. "It's firm, but it melts. And the... the yellow sauce? The butter? My Lord, I have never tasted butter like this. It is rich. It coats the tongue."
+
+"Butter is the vehicle," Ren explained. "The crab is the passenger."
+
+The dam broke.
+
+"Let me try!" Kaelthos shoved forward, dropping his warrior dignity.
+
+"Me too!"
+
+They swarmed the table. Ren stepped back, laughing, as his staff—his terrifying, elite elven guard—fought over crab legs like children.
+
+Even Mira climbed down, holding Lily. She dipped a tiny piece in the butter and offered it to the baby.
+
+Lily ate it. Her eyes crossed for a second. Then she slammed her hands on the tray. "More!"
+
+Ren watched them eat the first batch down to the shell fragments.
+
+"Okay," he said, clapping his hands again. "Now that you're believers... we work. That was just the appetizer. We're going to make everything."
+
+The next six hours were a culinary marathon. Ren turned the tent into a laboratory of flavor.
+
+Dish 1, Singaporean Chili Crab
+
+"We need mess," Ren declared. "We need heat."
+
+He had Cynthia chop onions, ginger, and the spicy red chilies he grew. He opened a can of [Tomato Paste] from the shop—another unknown ingredient. He made a sauce base with the paste, vinegar, sugar, and soy sauce. He thickened it with cornstarch and swirled in beaten eggs until it looked like ribbons of gold in red lava.
+
+He tossed the fried crab chunks into the wok. The sauce coated the shells, sticky and glossy.
+
+"This one," Ren said, serving a platter to the guards, "you eat with your hands. Don't be shy."
+
+Kaelthos picked up a saucy claw. He took a bite, sucking the sauce off the shell. The heat hit him. He coughed, but he didn't stop.
+
+"It burns!" he laughed, wiping sauce on his chin. "But it's good! It's so good!"
+
+It was messy. It was undignified. It broke down every barrier of propriety between them. They were just people, getting sticky and happy.
+
+Dish 2, Maryland Crab Cakes
+
+"Refinement," Ren said next.
+
+He showed Cynthia how to pick the body meat—the lump meat. He mixed it with breadcrumbs (made from stale bread, waste nothing), his own mayonnaise, a dab of mustard, an egg, and a spice blend he called "Old Bay" (which was just celery salt, paprika, and pepper, but he kept the name for nostalgia).
+
+He formed them into patties. He pan-fried them in butter until they were golden brown and crispy.
+
+"Texture," Ren explained, handing one to Sylas. "Crispy outside. Cloud inside."
+
+Sylas took a bite. He closed his eyes. "This... this would sell for a gold piece in the capital. Easily. It is elegant."
+
+Dish 3, Curacha Alavar
+
+"Now, something exotic," Ren said.
+
+He pulled out a coconut—an item the System Shop categorized as 'Rare Fruit'. He cracked it, grating the flesh to make milk. He simmered the crab in the coconut milk with turmeric, ginger, and lemongrass.
+
+The sauce turned a vibrant, sunny yellow. The smell was heavy, tropical, and sweet.
+
+Mira loved this one. "It tastes like... sunshine," she said, feeding a spoonful of the sauce to Lily, who was now covered in various food stains. "It's warm."
+
+Dish 4, Crab Rangoon
+
+"This one is a gamble," Ren admitted.
+
+He pulled out a block of cream cheese. The elves looked at it skeptically.
+
+"Cheese? With fish?" Cynthia wrinkled her nose. "Is that... legal?"
+
+"It's mandatory," Ren said.
+
+He mixed the cheese with crab, green onions, and garlic. He folded the mixture into thin dough wrappers, pinching them into little stars. He dropped them into hot oil.
+
+They puffed up, golden and bubbly.
+
+"Hot lava," Ren warned. "Wait for it to cool."
+
+They didn't wait. Zairen popped one in his mouth, yelped, fanned his mouth, and then grabbed another.
+
+"It's creamy!" he shouted. "It's crunchy! It's weird, but I love it!"
+
+Dish 5, The Showstopper
+
+Ren looked at the remaining meat. "One last thing. The main event. Something... raw."
+
+Cynthia looked alarmed. "Raw crab? My Lord, the parasites..."
+
+"Not the meat," Ren said. "The roe. And the fat."
+
+He picked up a large female crab he had set aside. He carefully removed the top shell, revealing the bright orange roe and the creamy, yellow-green tomalley.
+
+"This," Ren said, pointing to the goo that most people would throw away, "is the gold."
+
+He took a bowl of hot, steaming white rice. He mixed the raw crab roe and tomalley directly into the rice, letting the heat of the grains gently cook them. He added a splash of soy sauce, a drizzle of sesame oil, and a sprinkle of chopped scallions.
+
+He mixed it until the rice was coated in a rich, creamy, orange sauce.
+
+"Crab Roe Rice," Ren announced. "Or as I like to call it, Ocean Butter."
+
+He handed a bowl to Cynthia.
+
+She looked at the orange rice. It didn't look like food. It looked like something you found on a beach.
+
+But she trusted him. She took a bite.
+
+Her eyes closed. A long, shuddering sigh escaped her lips.
+
+"It's... intense," she whispered. "It tastes like the deepest part of the sea. Salty, savory... umami."
+
+"Umami," Ren nodded. "The fifth taste."
+
+The staff gathered around, spoons in hand. They ate in silence, a reverent hush falling over the tent. It wasn't flashy like the chili crab. It wasn't crunchy like the cakes. It was pure, distilled essence.
+
+By the time the sun set, the kitchen was a disaster zone. Shells were piled high in the corners. The floor was slick with butter and sauce. The air was thick with the smell of spices and fried dough.
+
+And the staff... the staff was happy.
+
+They were sprawled out on crates and barrels, groaning with fullness. Kaelthos was nursing a food coma in the corner. Mira was wiping sauce off Lily's face—the baby had managed to try everything and was currently asleep, clutching a crab leg like a teddy bear.
+
+Ren sat on the edge of the prep table, wiping his hands on a towel. He looked at his team. They were dirty, they were tired, and they were smiling.
+
+"We did well," Ren said softly.
+
+"We did, Chef," Cynthia said, using the title with genuine respect for the first time. "We really did."
+
+[Ana: Productivity: 0%. Cholesterol: High. Morale: Maximum. You built a team, Ren.]
+
+"I built a family," Ren corrected mentally.
+
+He hopped off the table. "Alright. Cleanup starts in ten minutes. Then we sleep."
+
+A groan went up from the elves, but it was good-natured.
+
+Ren walked out of the tent, stepping into the cool night air. The stars were bright above the ocean. He could hear the waves crashing on the shore.
+
+He felt a tug on his pant leg.
+
+He looked down. Smokey, the shadow pup, was sitting there. She had a crab shell stuck on his nose. She looked pathetic.
+
+"I told you," Ren sighed, crouching down to pry the shell off. "They pinch back."
+
+Smokey licked his hand.
+
+Ren stood up, looking at the half-finished inn, the lights of the tents, and the smoke rising from the chimney.
+
+He was the Supply Lord. He was a Noble. He was a father.
+
+And he made damn good crab cakes.

@@ -1,0 +1,916 @@
+---
+id: 217bd805-6aec-50aa-93b9-e59af6d7d18b
+page-type-slug: story-chapter-royal-road
+title: "SEVENTY-SIX: The Rescue Game"
+slug: 0077-seventy-six-the-rescue-game
+partOf: super-supportive
+position: 77
+ownLength: 7091
+unit: words
+publishedAt: 2023-09-24
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1353212/seventy-six-the-rescue-game"
+royalRoadId: "1353212"
+---
+
+.
+ 
+ 
+ 
+
+
+Alden headed over to the side of the gym where the rescue game was going on and received his instructions. He was on a team of six “heroes” who would be facing off against four “villains.” There were also three victims being played by other students. The heroes had to get the victims safely from one side of the gym to the other while the villains attacked them.
+
+
+Alden was the only B-rank in the whole group this time, but there was a familiar face among his fellow heroes.
+
+
+“Rabbit guy!” said Konstantin as soon as they’d gotten their initial instructions and clustered up to discuss strategy. “You’re the other rescuer, right?”
+
+
+Alden nodded at the Adjuster. “Hi, Kon.”
+
+
+The other four hero team members were supposed to focus on engaging with the villains and keeping a corridor of the fake disaster zone enemy-free for the rescuers to move through.
+
+
+“All right!” said a serious-looking Brute girl with short brown hair. “So you two are in charge of victim transport, and the four of us will be protecting you from the villains. What are your talents? Are either of you fast?”
+
+
+“I’m going to be amazingly useless at this,” Kon announced, giving everyone an easy smile. “I read objects and restore them to previous states. Nothing else.”
+
+
+The other members of the hero group looked confused.
+
+
+Alden didn’t blame them. It was a weird-sounding talent package for a hero school candidate, and it was so limited for an S-rank Adjuster. Usually they had a bare minimum of three spells to go with their skill to start.
+
+
+“I can take on a lower ranked non-Brute in a fight…if they can’t use their powers. Probably. But I think they put me here just so I could prove I’m not a panicker,” Kon added. “Since there isn’t much point in me participating in duels.”
+
+
+<<Wonderful,>> one of their new teammates—a Strength Brute—said. His voice was an ill-tempered mutter. <<We’ve got two useless experimentals in our group.>>
+
+
+“We’re all on the same side here.” The short-haired girl spoke with forced perkiness. “We’ll be showing off our ability to get along and deal with the unexpected as much as anything else. Rabbit, you—”
+
+
+“It’s Alden.” He’d literally put his name tag up without a single word on it except for his name so that people would stop calling him just Rabbit. “My skill will freeze the victims in place and protect them as long as I’m carrying them. They have to give me permission to pick them up, or, if they’re supposed to be unconscious, one of you will have to do it to make it an accurate representation of how the skill works.”
+
+
+“Okay,” said the girl. Everyone else was letting her take the lead, so Alden decided to consider her the team captain, too. It was pretty lucky that there wasn’t some kind of fight for dominance going on here. The villain huddle was already talking with raised voices. “What do you mean freeze them in place and protect them? Is there going to be a shield around you, and we don’t need to worry about you taking damage, or—”
+
+
+“He’s a B and a Rabbit. We have to worry about him taking damage no matter what,” the Wright with the pain weapon said in a bored voice.
+
+
+He was a really plain-looking guy, and the weapon that had everyone side-eyeing him was almost as nondescript. It was a foot-long black tube with beads of what looked like molten glass around one end.
+
+
+Alden was tempted to call it a wand. Other than the rare Adjuster receiving an impression-specific tool, the variety of wands humans had access to were pre-loaded spell shooters, and they could look like all kinds of things.
+
+
+“I can use this as a shield until I grab a victim,” Alden said, gesturing with his umbrella. “And then I can use the victim as a shield.”
+
+
+They all stared at him.
+
+
+“I mean nothing that hits them will hurt me or them as long as my skill doesn’t get overwhelmed” Alden clarified. “So if I’m carrying someone on my back, we don’t have to worry quite as much about things hitting me from behind. Spells, weapons, and strikes should just bounce off the victim. If the victims can walk on their own I can use other things for shielding material, instead.”
+
+
+“So you basically turn things into shields.”
+
+
+<<Only after he has permission from someone else? That’s an awful limitation.>>
+
+
+There’s more to it than that. It’s not just shields. Alden refrained from saying it. He felt offended on his skill’s behalf, but they didn’t have to understand every little thing about his talent for this exercise. Just like he didn’t need to perfectly know theirs. It would take ten minutes to explain all the ins and outs of everybody’s abilities, and they probably wouldn’t even be able to make use of it.
+
+
+“I have a movement trait that only works on ground,” he added. There was a Ground Shaper on the villain team who’d been given stacks of sandbags to use, so there was a faint possibility of that coming into play. “And I have a spell impression that turns these balls invisible and makes them scream. It’s good for distractions.”
+
+
+He held up one of the two temper spheres he’d brought for this exercise.
+
+
+Everyone else started going over their own talents, and a plan gradually began to develop. The captain girl—Emma—was a vocal Brute. Like longsights and audials, a lot of people thought the vocals should be considered a different class altogether. But if your powers were body-modification related and you got a large number of foundation points, the System said you were a Brute.
+
+
+“Right now I can just make myself horribly loud,” she said apologetically. “I can burst everyone’s eardrums and deafen them, but—”
+
+
+Alden shuddered.
+
+
+“My voice-directing skill is only level one so I can’t focus the noise I make well at all. But if you’re standing in a kind of cone shape behind me instead of to the sides or in front, it shouldn’t hit you when I use it.”
+
+
+“How do the suits handle it?” Konstantin asked. “Do they just hurt peoples’ ears, or do they really cut sound?”
+
+
+“They do it pretty realistically,” she said. “The faculty have the gym set to make all the negative effects last for ten seconds or less, though. So even though I’d only have to do it once in reality to knock out the other team’s hearing, today I’ll have to do it over and over when we want to interrupt their communication.”
+
+
+In addition to Emma, Kon, and Alden there was an Object Shaper who would be trying to turn a box of old glasses, wrist watches, and cell phones into obstacles for their opponents. “I’ve been practicing a caltrop shape,” she said. “So that’s the most complicated thing I can manage right now. But I can throw the objects around just like any other Shaper!”
+
+
+“Flying glass and metal caltrops would make most people think twice about messing with you,” Alden said.
+
+
+They also had the Wright with the pain stick, and the strength Brute.
+
+
+“I’m the only useless one.” Kon sighed. “Unless we want to turn some of the caltrops back into broken cellphones when we’re done. I could do that for you. Alden, you’re not in financial distress, right?”
+
+
+“Who just asks somebody that?” the Wright said.
+
+
+“It’s relevant. Anyway, I figure if you’re trying to be a Rabbit hero, being rich is going to be one of your powers, isn't it”
+
+
+“I don’t consider it one of my powers.”
+
+
+“Fine, but you’re at least not broke? I’ve been thinking about your sunshine-smelling breakfast all morning, and I’m ninety percent sure that wasn’t normal food. You’re paying someone with a skill to cook for you. Whatever…I don’t care… can you afford to waste your temper spheres?”
+
+
+“You know what they’re called?”
+
+
+“I looked up the spell impression you said you had while everyone was talking. Can you?”
+
+
+“I could donate some. Why?”
+
+
+“We don’t have any good long range talents other than Emma’s screaming, and that’s not going to stop people for long. They’ll just get used to it.”
+
+
+True. Even the pain wand—which the faculty had re-approved for use after making some kind of adjustment to the way the gym suits handled it—only worked from around ten feet away. Beginner Shapers didn’t have much range either, and theirs had been practicing fine control over shape creation, not aiming, so she couldn’t telekinetically fling things with any more accuracy than the average person could throw them.
+
+
+“The thing is,” Kon said, “I think all of our victims will be dead right away if we don’t focus on their Meister from the start.”
+
+
+“Their Meister?” asked Alden, looking over at the other team. “You mean your brother?”
+
+
+Kon pursed his lips. “It’s unfortunate. I want to tease Lexi about being Meister of the Mind Writher so bad. Because it’s an alien whip. Called Mind Writher. So funny. But it’s actually useful and terrifying, and he’s been practicing with it for hours every day. And he’s pretty accurate with it from a long way away.”
+
+
+Alden looked over in surprise. The thin gold chain of the strange weapon wasn’t very long.
+
+
+<<You’re just mentioning it now?>> their Strength Brute demanded.
+
+
+“I wasn’t sure what the faculty meant by pitting us against each other,” Kon said with a shrug. “I was trying to decide if they were testing brotherly loyalty or team loyalty or what before I said anything.”
+
+
+“You settled on team loyalty?” Alden guessed.
+
+
+“Actually, I just decided they were testing Lexi. To see if he’d hit me. He would be a shoe-in for the program, but he’s gotten a reputation for exploding recently. A couple of suspensions on his record…the latest looked pretty bad. Anyway, I’ve been deliberately driving him nuts all day. I think they want to see if he’ll focus on the task or if he’ll take the chance to humiliate me. Even though there’s not much point in attacking me at all, since he knows my magic isn’t useful here.”
+
+
+Alden was surprised. Kon had seemed so cocky and confident this morning. Nearly relaxed. And quite dismissive of his older brother. But apparently that was more of a front than Alden had realized.
+
+
+“So, I can be brotherly loyal by pointing you all at him and giving him an opportunity to overcome difficulty! And I can be team loyal by telling you that his whip is a mentally-directed tool, and it’s perfect for sneaking through openings in our defense and hitting the ‘kill’ targets on the victims. And I can avoid him torturing me with it. Win-win-win.” Then he smiled at Alden. “Except for you. You have to lose your balls.”
+
+
+“Hilarious,” Alden said dryly. “But yeah, I can spare more temper spheres. I’ll have to go grab them.”
+
+
+They were sitting on a table full of other peoples’ spell ingredients in the storage room under the bleachers. There wasn’t much risk of them being stolen, since nobody here was trying to piss off the school.
+
+
+“I’ll get them! I’m just here to taunt my brother anyway, I suppose,” said Kon. “What I think we should do with them is—”
+
+
+“Turn them invisible and give them to the Brutes to use as projectiles,” said Alden.
+
+
+It wasn’t like it hadn’t occurred to him that Brutes—especially the strong guy—throwing invisible things would be scary…but it was so expensive.
+
+
+If we need range, we need range.
+
+
+“Exactly! Lexi will stand at the back of their group. He’ll think he’s safe there. Invisible things hitting him with Brute force should keep him pinned down until someone can break through to engage with him up close. Mix them in with some of those concrete chunks and bricks that are scattered around so that he and the others are busy dodging and blocking the things they can see.”
+
+
+Maybe it will show my team spirit, Alden thought as the Adjuster dashed off to fetch the spheres.
+
+
+ 
+
+
+********
+
+ 
+
+The heroes and the villains both started on the same side of the gym. Across the width of it, on the opposite side, the three victims were sprawled among the rubble. The interfaces showed each of them with glowing “kill” spots, where any strike by the villains would be deemed lethal for the purposes of the exercise.
+
+
+One of the students who’d been assigned to the victim role was dramatically groaning, so at least somebody was having fun.
+
+
+[Start in 5…]
+
+
+I wonder what this is going to be like?
+
+
+A loosely developed plan. Teammates who were a little volatile and stressed out. Multiple opponents.
+
+
+Why am I the only B?
+
+
+In a way, Kon was worse off. Physically he’d be more capable than Alden. But his main job between now and the time when the victims were either rescued or dead was to be Alden’s assistant and entrust him with things.
+
+
+It was nice for Alden, and Kon seemed completely relaxed about it. But it had to be frustrating on some level.
+
+
+Stay focused, he told himself. You’re not supposed to be fighting unless something goes wrong, so don’t pay attention to what the fighters are doing.
+
+
+His umbrella was open and preserved already. He was holding seven temper spheres against his chest with his other arm. Nobody could hold them for him until the official start, since they were his spell item.
+
+
+Feels like an arbitrary rule. And the unitards need pockets. How did they even talk the Artonans into making suits without them?
+
+
+[START]
+
+
+Madness.
+
+
+Konstantin and the Strength Brute guy snatched the temper spheres from Alden. Emma dashed toward the enemy and screamed. Her vocal targeting skill couldn’t be as bad as she’d said because he didn’t hear her. He only knew she had done it because that was the plan, and he heard the other team crying out in shock. He didn’t look.
+
+
+“Haunting Sphere” he commanded, pointing the hand not holding his umbrella at one of the orbs in the Brute’s hands. The artificial focus took him; his vision narrowed. His fingers flicked.
+
+
+The sphere screamed and disappeared. The Brute flung it with a manly grunt of effort. Hopefully it hit Kon’s brother. Alden couldn’t spare the attention to check.
+
+
+The three of them started across the gym together.
+
+
+Thanks to the semi-brainless way spell impressions worked, he could cast “Haunting Sphere,” jog, and hold his umbrella between his body and the enemy at the same time. But anything more was going to be tough.
+
+
+He felt something smash into his umbrella. He ignored it.
+
+
+Three invisible spheres. Four. Five.
+
+
+That’s enough.
+
+
+He quit casting, and he and Kon split off from their Brute protector. Alden ran flat-out the last few yards toward the first victim. Since people were actively trying to kill all the victims, it just seemed wisest to go for whoever was closest instead of trying to figure out who was the most injured. Diving behind a broken block wall that looked like it had been stolen from a real disaster site, Alden and Kon examined the student lying there. She was a girl with the spiky hair who had her arms and legs in a starfish posture. Her tongue was lolling out. She had a piercing.
+
+
+“What’s with the tongue? Are you supposed to be dead already?” Kon asked.
+
+
+“Are you unconscious for this exercise?” Alden asked, targeting her and flinging the umbrella at Kon.
+
+
+She didn’t answer.
+
+
+“Guess she’s a method actor. And she’s unconscious,” the Adjuster said, closing the umbrella. “I give her body to you, Bunny Dude.”
+
+
+“Freak,” said the girl, cracking open one eye to glare at him. “But, yeah, Bunny Dude! You can pick me up.”
+
+
+That was good. The faculty must have filled the victims in on the entrustment thing.
+
+
+“Great,” Alden said quickly. “Kon, are we clear enough for you to grab a second victim and follow, or—?”
+
+
+“Should be. We moved so fast. Let me check. You stay down.” Kon popped his head up over the wall.
+
+
+“Well that’s not good.”
+
+
+“What?”
+
+
+“We’ve already got a problem. Their team’s Ground Shaper just threw a twenty-five kilo sandbag in our Torture Wright’s face. Guess he missed with his evil pain stick? Yeah…now she’s got him on the ground and she’s smashing him in the stomach with it.”
+
+
+Alden winced. A fifty-five pound sandbag backed by telekinetic force didn't sound like a good time.
+
+
+“Ha!” said the unconscious victim.
+
+
+Kon and Alden both looked at her.
+
+
+“That guy deserves a taste of his own medicine.”
+
+
+“He’s getting pummeled. Emma and Caltrops Girl have got two of them pinned in the far corner. Our Strong Guy is pelting my brother with spheres and running at him, so we might be all right if he can deal with Lexi fast then handle the girl with the sandbags…but I don’t actually think he can deal with Lexi fast. And if we split up to take two victims, the sandbag girl will for sure stop one of us.”
+
+
+As the slightly more useful team member, Alden was supposed to keep his head down, but he was having a hard time picturing what was going on from the description.
+
+
+“Can we make it across the gym with just this one or not?” he hissed.
+
+
+“I don’t know,” Konstantin said. “If we go together, I can maybe distract the Sandbagger—”
+
+
+He’s just giving everyone fake names at this point.
+
+
+“—but if Lexi told her what my skill and spell are, then she might ignore me altogether in favor of rapid-smacking you and then the victim. It would really help if Torture Wright would at least try to point his weapon at her.”
+
+
+“Do you think she’s an A or an S?”
+
+
+“A. She’s a bludgeoner, too. No refined shaping techniques yet. That’s why she’s using the whole bags instead of fooling around with loose sand. She’s going to hit hard, but she’s not going to do something awesome like make sand fingers.”
+
+
+“You can just tell?”
+
+
+“It might be more obvious if you grow up around Avowed, and you’re used to seeing everybody get their powers.”
+
+
+Oh. True. He’d probably seen half a dozen people from whatever school he went to come out of affixation with a similar set of talents.
+
+
+“Let’s change plans,” Alden said, hoping it wasn’t a stupid idea. “You carry the victim. I’ll shield you.”
+
+
+Kon ducked down behind the wall. “Why? You’ve got the rescue people skill.”
+
+
+“You’re just unconscious, right?” Alden asked the girl. “Or are you supposed to be bleeding out and on the verge of death? Do you have some damage that will be seriously worsened if you’re not frozen in transport?”
+
+
+“They just told me I’m unconscious.”
+
+
+“So it’s not actually necessary to preserve her, is it?” said Alden. He switched targets to Kon. “You’ve got to be stronger and faster than me—”
+
+
+“Oh god yes,” said Kon. “Do I look like I wasted points on fluff like Appeal? It’s mostly in Strength and Agility.”
+
+
+“So you carry the victim. I’ll be able to keep up with you and shield you. We’ll move way quicker.”
+
+
+“And you’re just going to take hits from flying sandbags with your umbrella?”
+
+
+“I think I can.”
+
+
+“She’s got a rank on you.”
+
+
+“I can do it.”
+
+
+Sandbags weren’t arrows. And she was only working with one right now. He’d definitely see it coming.
+
+
+And it’ll be good to know how I compare.
+
+
+“Let’s go with it, then,” said Kon. “Being your caddie wasn’t doing my coolness justice anyway.” He stuffed one of the remaining temper spheres into the sleeve of his suit and passed the other one to Alden, who did the same. “I give you back your umbrella shield.”
+
+
+Alden hadn’t mentioned that the entrustment didn’t have to be quite that literally spoken, and now didn’t seem like the time to explain. He took the umbrella, opened it, and preserved it.
+
+
+Kon grabbed the girl with the tongue-piercing by the ankles.
+
+
+“You’re not even going to carry me?” she asked. “So lazy.”
+
+
+“What are we? Newlyweds? I think dragging you like this is one of the safer ways to move you since you’ve got unknown injuries. I’ll carry you if we have to run through the caltrops or something.”
+
+
+They moved.
+
+
+As they came around the wall, Alden got his first look at the mess that was the battlefield. Kon’s brother had been tackled, disarmed, and pinned to the ground by the Strong Guy, so that was good. But Emma had lost the other team’s Strong Girl; she was heading to rescue her fallen teammate. The Sandbagger was standing ten feet away from the Torture Wright, lifting and lowering one of her arms repeatedly to smash him with the heavy bag.
+
+
+That seems overzealous. But I guess he brought a pain wand, so she figures it’s justified?
+
+
+The Object Shaper from Alden’s team was occasionally flinging a spiky metal ball at one of the enemies as she hurried over to stand guard over the other two victims.
+
+
+I think she should probably go attack the runaway Brute instead of retreating to do guard duty, but—
+
+
+No more time to think. Kon was dragging their victim at a speed that was just shy of a run. Alden was keeping pace, holding the preserved umbrella at the ready. She’ll notice us any second.
+
+
+The Sandbagger slammed her weapon of choice into Torture Wright one more time. He was groaning and retching. And then she threw both of her arms toward the girl Kon was dragging.
+
+
+Alden jumped in front of the victim, prepared to intercept, but the sandbag missed. It hit the floor in the spot they’d been just a second ago.
+
+
+“Careful!” Kon called, dragging the victim around a pile of metal drums and continuing toward the safe zone near their team’s starting point. “She’s getting into range for another—”
+
+
+The Sandbagger ran toward them, arms outstretched. A second later, the sandbag lifted a couple of yards into the air and flew at a downward angle toward the girl with the tongue piercing.
+
+
+She was dedicated to her role, and she had guts. She didn’t spring up to rescue herself or even throw up her arms. She just clenched her eyes shut and let Kon keep dragging her.
+
+
+Alden barely got underneath the bag in time. He threw himself down and backwards, stretching out his arm over the victim’s torso. His umbrella caught the sandbag just in time.
+
+
+This feels a little different than I expected, thought Alden, flinging the bag away from him with a gesture. Think about it later.
+
+
+“Nice!” said Kon.
+
+
+Alden made it back onto his feet in time to catch the sandbag with the umbrella again. This time the Shaper kept smashing the umbrella with it, seemingly trying to get Alden out of the way. She was waving both arms at him in a comically worshipful-looking gesture to do it.
+
+
+Smash. Smash. Smash.
+
+
+They were hard hits. Alden felt his skill-bound authority rising to the occasion and protecting the umbrella. He felt the impacts.
+
+
+But he was solid.
+
+
+“What the hell!?” the Shaper snarled, smashing the bag into him again. “Fine!”
+
+
+She threw her arms in Kon’s direction. The sandbag lifted into the air and flew toward the Adjuster. He’d been making a break for it with the victim while their attacker was distracted. Alden wasn’t fast enough to chase the sandbag down. It crashed into the S-rank, and he crashed into the nearby barrier in turn.
+
+
+Mentally cursing, Alden raced over, let the umbrella dangle by its wrist strap, and bent to grab the victim by the feet and drag her the last few steps into the safe zone.
+
+
+[1 Victim Rescued]
+
+
+The girl with the tongue piercing sat up and grinned at him.
+
+
+“Good luck!” she called as Alden left her there and hurried back to help Kon. The other boy was being slammed into the barrier by the sandbag again and again for no practical reason. The Adjuster wasn’t even fighting back; he was just shielding his face with his arms.
+
+
+Torture Wright was still on the ground, curled up in the fetal position. He shouldn’t be in pain anymore. He was just freaked out.
+
+
+Their team channel was completely unused so far. Apparently, with the pace of things, nobody had had time or confidence enough to stop and give advice to anyone else. But Alden accessed it now to send a hasty mental text to the downed Wright. [You can get up. Nobody’s paying attention to you. Go help someone.]
+
+
+It was worth a try, he figured. But only one. Now he had to collect his own scattered thoughts.
+
+
+I guess I should attack the Shaper? Or do I grab another victim on my own?
+
+
+His job was rescuing the victims, but that didn’t mean letting Konstantin become a victim in turn did it?
+
+
+Where is everyone else? What are they all doing?
+
+
+No. Shit. Don’t try to figure out every little nuance. Eyes on my own thing.
+
+
+Kon didn’t seem to be seriously suffering from the sandbag attack. It was just strong enough and fast enough to keep him from closing the distance between himself and the Shaper. But if Alden went solo to grab another victim, what was he going to do when he got them? Crossing the battlefield all by himself while he dragged or carried someone would leave him vulnerable.
+
+
+Wait nobody’s watching me at the moment either, so I can…
+
+
+He dropped his preservation, closed the umbrella, and started unraveling fishing line from around the pole as fast as he could, spinning it rapidly so that the weighted line unspooled. What is that? Ten feet? Twelve?
+
+
+Enough. He re-preserved.
+
+
+Just don’t clothesline anybody with it. It should be fine.
+
+
+He ran toward the Sandbagger, his bizarre fishing line lance extended in front of him.
+
+
+Her arms were still going up and down to direct her sandbag.
+
+
+Stop her hands or the bag?
+
+
+He went for her hands. As soon as he was close enough, he angled the preserved fishing line to intercept her waving arms. She was so focused on Kon that she didn’t even see it. She smashed both of her palms into it and yelped in surprise, drawing her elbows back and clutching her hands to her chest.
+
+
+Alden threw his arm to the side to smack her across the chest with the line for good measure. She took a step back, her head whipping around in confusion.
+
+
+The sandbag hit Kon in the hip with regular momentum instead of telekinetically powered force. He shoved himself away from the barrier and flung himself at the startled Shaper.
+
+
+Alden hastily lifted the umbrella over his head before his own teammate ran into the attached line.
+
+
+Now what?
+
+
+Kon swept the girl’s legs out from under her and tackled her to the ground.
+
+
+Now what do I do?
+
+
+“Figure this out!” Alden shouted. “I’m going to grab the next victim.”
+
+
+Kon didn’t answer. He was busy kneeing the Shaper in the stomach.
+
+
+I hope he heard me.
+
+
+Alden ran toward a cluster of metal drums and ducked down. Heart pounding, he glanced around one, trying to figure out what to do. Their Wright was still lying on the floor.
+
+
+I guess if he won all his duels the way he did, then he might not have taken a real hit before. So…he’s just not getting back up.
+
+
+Alden’s team of six had been reduced to five. The villain team was still one member smaller, but they didn’t have two victims to protect. Emma had given up on using her voice, and she’d switched to basic Brute muscularity to wrestle the person she was dealing with.
+
+
+The Strong Guy on Alden’s team was dealing with the villain Strong Girl, who appeared to be his equal in every way, and…oh, good. The Object Shaper had run over to help. Lexi was lying on the ground being pelted in the face and hands with caltrops now.
+
+
+Ouch.
+
+
+The victims were completely unguarded. And any shift in the battle was going to send one of the villains straight at them.
+
+
+Okay. Just grab one and move as fast as I can then. That’s all I can do at this point.
+
+
+He ran. He held his closed umbrella down and behind him slightly as he did, twisting it with his wrist so that the line swept back and forth rapidly. It probably looked dumb, but maybe if someone ran at him from behind, the frozen line would hit them? There was no time to drop preservation and play around with the shape of his object again.
+
+
+It’s fine. Everyone else is busy. Focus on speed now.
+
+
+He made it to the nearest victim, who was positioned behind some concrete block rubble and crouched over him.
+
+
+“Are you unconscious?” he demanded.
+
+
+<<Yes. I also have a broken left leg.>>
+
+
+Alden examined him. The guy was big. Big enough that Alden wasn’t going to be carrying him across the whole length of the gym anyway.
+
+
+“Be right back.”
+
+
+<<You don’t have to tell me that. I can’t hear you because I’m unconscious.>>
+
+
+The next victim was only a few steps away.
+
+
+“Save me!” the brunette girl yelled as soon as Alden reached her. She was clutching at her stomach. “There’s so much blood!”
+
+
+If there was really so much blood she’d probably be a goner by now.
+
+
+On the positive side, she was small and could entrust herself. On the negative…if her character had a terrible gut wound, he probably shouldn’t go so far as to ask her to climb onto his back for easy carrying?
+
+
+I think they want me to preserve at least one person. The assignment said focus on skill use.
+
+
+Nothing to do but give it a try.
+
+
+He held his umbrella out to the side so that the line wouldn’t wrap around him when it resumed its spin, then he targeted the victim. Switching his entruster meant the preservation dropped instantly. He heard the metal washer ping off a cinderblock. No time to fool around with winding the line back up. It can just drag.
+
+
+“Can I pick you up?”
+
+
+“Please get me out of here!”
+
+
+He knelt beside her and leaned over her. “Could you wrap your arms around my neck so that my hold on you is more secure?”
+
+
+She considered it for what he felt was an unnecessarily long time. Alden wondered if she was trying to decide if doing it would be too helpful to a competitor.
+
+
+Pretty sure you wouldn’t argue if you were actually in danger.
+
+
+She did do it, though, and Alden lifted her. He tried to get a decent grip on her, then he preserved her. As he did, he heard a girl scream.
+
+
+I really hope that wasn’t our Shaper or Emma.
+
+
+No way was he making it back to the safe zone with this victim unless all the villains were occupied.
+
+
+He hustled across the gym, taking the straightest path he could manage. The best he could do with the added weight was a speed-walk. His legs, tired from all the odd laps the assessors at the track had made him do, protested. He ignored them.
+
+
+There was a clanging sound from his right. Someone was beating on one of the metal drums, or they were beating someone else with one.
+
+
+He didn’t look. The route was strewn with rubble so he shouldn’t take his eyes off it.
+
+
+There were angry shouts, swearing, the sharp note of a slap.
+
+
+Amateur fight school is something else. I think when I’m done with this it’s going to feel like a crazy dream I had.
+
+
+Alden hurried past the Wright. The other boy had pressed his face to the floor so that he couldn’t see anything going on.
+
+
+Almost there. Just a couple of steps—
+
+
+Something wrapped around his waist and yanked him backwards hard. He fell with the girl on top of him. The air rushed from his lungs. There was a line of sharp, burning pain across his stomach and his back.
+
+
+Preservation dropped, and his victim sat up on top of him in surprise, looking around.
+
+
+“What?!” she said in astonishment.
+
+
+You’re supposed to be too badly injured to do that.
+
+
+Then she looked around and yelped, her eyes going wide. She scrambled to her feet.
+
+
+<<Stop that! I won’t get credit for attacking you if you’re running away from your own rescuer. That’s not how the game works.>>
+
+
+Still trying to draw in a full breath, Alden rolled over and got onto his hands and knees. Whatever was around his waist tightened like it was going to slice him in two, and the gym suit helpfully ratcheted up the pain.
+
+
+He looked down and saw a thin chain, sparkling with white light, wrapped around him.
+
+
+<<You stop it, too,>> said Lexi in an angry voice. Kon’s older brother was standing around nine feet away. He was breathing hard, and his dark hair was scrambled. Both of his hands were on the handle of his whip. The entire length of it was glowing. <<This whole exercise has been a joke. I’m going to end it.>>
+
+
+Stop him, thought Alden. Delay until help gets here. Don’t let him use the whip on the victim.
+
+
+Alden grabbed onto the chain.
+
+
+It felt like he’d grabbed a burning wire. Gritting his teeth, he tried to yank on it, and got nothing for his troubles at all except for a feeling like he was slicing through his own fingers. Lexi’s arms didn’t even budge.
+
+
+Meisters could be pretty physically strong. Very strong depending on their subclass. But something about this didn’t look right.
+
+
+Alden hauled backwards, using as much of his bodyweight as he could, and…Lexi’s grip on the handle didn’t change at all. He wasn’t even looking at Alden. He was still glaring at the victim in annoyance, clearly pissed that she wouldn’t lay back down so that she could be properly killed.
+
+
+Magic weapon. Fuck.
+
+
+He’s fighting with magic, and I’m fighting with my muscles.
+
+
+Him trying to manhandle the chain whip must be the same as Natalie Choir and her roommates taking on the ice cream cone protected by The Bearer of All Burdens with slaps and meat hammers.
+
+
+Gotta try the more mundane target then. If I stay tangled up with his whip and keep his body tangled up with me, then he hasn’t got anything to kill her with, right?
+
+
+Alden got his feet under him and launched himself at the Meister’s knees.
+
+
+The physical attack was so much less effective than it had been versus Tatiana Evans earlier. He hit Lexi, and Lexi did hit the ground.
+
+
+And then a fist smashed into his back so hard he lost the ability to breathe again. That was the only thing that kept him from shouting out loud as he felt something pierce his right calf muscle. It felt like his leg was on fire.
+
+
+<<Just lay down and stay there!>> Lexi shouted, digging a fist into Alden’s ribs this time.
+
+
+The burning whip Alden had been counting on keeping entangled with himself suddenly disappeared from around his waist.
+
+
+It didn’t unwind. It was there one instant and gone the next. Lexi kicked Alden off him and stood. The whip was in one hand. The chain was short and gold again, like it had been when Alden had first seen it this morning.
+
+
+Can he phase it? Or recall it?
+
+
+Alden tried to rise but before he could regain his feet, Lexi lashed out with the whip again.
+
+
+Not at him.
+
+
+No.
+
+
+The chain lengthened in a flash into its glittery white magic mode and wrapped around the girl. Alden had been down for long enough, and she’d refused to play victim for long enough, that Lexi thought she was fair game now even if she wasn’t pretending to be injured anymore. The tip of it elongated and struck like a snake. It jabbed the glowing red mark on the girl’s shoulder that was her kill point dead center, and a notification flashed:
+
+
+[1 Victim Deceased]
+
+
+Someone on the other team cheered.
+
+
+Lexi nodded in satisfaction. His whip vanished from around the victim and returned to its starting form. Then he turned and started to run.
+
+
+He’s going for the other victim.
+
+
+Alden was on his feet and after him in an instant. He was almost fast enough to catch him. He definitely would have been if the gym floor was ground and his trait was active.
+
+
+I’m not going to make it.
+
+
+Then a cell phone smacked into the side of Lexi’s head. It wasn’t a very hard strike, but at least the Object Shaper had made an attempt. She was coming up from their left. Lexi threw the hand with the whip out almost casually, and the tip of the chain struck her in the stomach.
+
+
+She screamed and bent double.
+
+
+Lacking any better idea, Alden grabbed the temper sphere from inside his sleeve and threw it as hard as he could at the Meister’s back. It probably didn’t hurt much, but it did make the other boy look back.
+
+
+“Haunting sphere!” shouted Alden, pointing.
+
+
+He only did it because it was the one tool left in his arsenal. He didn’t have a single expectation for it. So it was a big surprise to him when, at the sound of the ball’s scream, Lexi jumped and whirled around with his whip raised. His head jerked back and forth, looking for the source of the noise.
+
+
+He didn’t know the spheres did that. He was deaf from Emma’s screaming when they were going off earlier.
+
+
+Alden forced himself to keep running at the Meister even though he knew what would happen next. Lexi flung his whip out again. The chain caught Alden in the side. There was a burning feeling as if he’d just been sliced, but it didn’t wrap around and yank him off his feet this time.
+
+
+<<Just stop, you moron! Do you love pain? You can’t do any—>>
+
+
+“You just stop!” shouted a voice from right behind Alden. “Your shitty Russian is an embarrassment to our ancestors!”
+
+
+Kon dashed past. The whip struck him across the chest, and he completely ignored it. He leaped with a grunt of effort and flew through the air toward Lexi.
+
+
+“Fuck,” said the Meister, a split second before his little brother collided with his chest.
+
+
+They both crashed to the floor. In an instant, Kon was sitting on his brother’s stomach, facing his feet.
+
+
+“Don’t you fucking—!”
+
+
+Grinning, Kon drew back both arms and delivered a double-fisted punch to the groin.
+
+
+Lexi’s whole body jerked, and his face lost all color.
+
+
+Jeez, I’m glad I don’t have an S-rank brother.
+
+
+Alden didn’t stop to watch the siblings fight. He ran toward the last victim, and his stomach clenched in dread as he saw the other team’s Brute heading in the same direction. She cleared a block wall taller than Alden’s head by springing over it.
+
+
+Strength Brute. A-rank. That’s a bad matchup.
+
+
+Probably the right thing to do if this was a real crisis was run away or wait for more qualified help. But that wasn’t the point today.
+
+
+I need a shield.
+
+
+Thank goodness for wrist straps. The umbrella was still with him, though a tug a few seconds ago made him think the washer had caught on some debris and the line had snapped.
+
+
+“Target Kon!” he gasped. He couldn’t take the time to turn around and point, couldn’t think through the authority control required for targeting someone he couldn’t see at this moment. The System was still a valid quick choice. “Text Kon! Kon, tell me to pick up the umbrella!”
+
+
+Even as he said it he flung the umbrella ahead of him. It bounced off the ground and rolled toward the third victim.
+
+
+He really didn’t expect the Adjuster to hear his shout or see the message in the midst of what sounded like a zealous English/Russian swearing match with his brother.
+
+
+But Kon must have had more presence of mind than Alden had given him credit for.
+
+
+“PICK UP THE UMBRELLA!”
+
+
+Thanks.
+
+
+He reached the last victim. He snatched up the umbrella, popped it open, and turned to face the oncoming Brute.
+
+
+She’s already on top of me. Shit!
+
+
+Instead of hitting him, grabbing his umbrella, or dodging, she just tried to bull right through like Alden didn’t exist.
+
+
+That is such a Strength Brute thing to do.
+
+
+She smashed into the umbrella and bounced off like she’d hit a wall. She sprawled backward on the ground, dazed and blinking up at the rafters of the gym.
+
+
+She took a deep breath. Then…
+
+
+“Oh!” she said in surprise, lifting her head to look at Alden with wide eyes. Her brown ponytail swung as she hopped back onto her feet. “Okay!”
+
+
+She’s going to hit me.
+
+
+He stood in front of the victim, holding the umbrella out. The girl picked up a cantaloupe-sized chunk of broken concrete. She held it in both hands, crouched a little, narrowed her eyes—
+
+
+Oh fucking no.
+
+
+She threw it at him, aiming low. It flew so fast, he considered it a miracle that he intercepted it. It hit the very edge of the umbrella, and it shattered.
+
+
+Alden felt chunks of it hitting his lower legs and the tops of his shoes. More importantly, he felt his skill straining to keep up with the force of the impact.
+
+
+That was almost too much. I’m positive if I wasn’t lying about my skill level by a massive amount that would have taken out the umbrella. And my arms. And probably both of my legs.
+
+
+“I guess I should go behind you, huh?”
+
+
+Damn it.
+
+
+She bent her knees and jumped over his head.
+
+
+<<Great,>> said the supposedly unconscious victim. <<She’s gonna smash me from above.>>
+
+
+Alden spun and threw the umbrella out to protect him. The Brute girl landed on top of it, lost her balance, slid off the side, and elbowed the victim in the kill point as she hit the ground.
+
+
+It almost looked like an accident. Maybe it was.
+
+
+But the rescue game was still over.
+
+
+.

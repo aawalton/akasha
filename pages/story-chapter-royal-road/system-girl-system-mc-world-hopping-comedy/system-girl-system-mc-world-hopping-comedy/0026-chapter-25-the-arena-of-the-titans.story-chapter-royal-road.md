@@ -1,0 +1,145 @@
+---
+id: 9a7af923-7d14-5407-9e2d-8e5ddd9c7295
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: The Arena of the Titans"
+slug: 0026-chapter-25-the-arena-of-the-titans
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 26
+ownLength: 2478
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2659042/chapter-25-the-arena-of-the-titans"
+royalRoadId: "2659042"
+---
+
+The world held its breath.
+
+The two councils, assemblies of living legends who had not shared the same space in ten thousand years, stood on opposite sides of the great stone stage. The tension was a physical force, a pressure that made the thin mountain air feel thick and heavy.
+
+Elder Corvus took a single step forward, his voice echoing with contained power, a formal announcement that brooked no argument. "The support staff will withdraw. This council is now in a closed session."
+
+On the other side, a Sky Immortal with eyebrows as long and white as winter frost raised a serene hand. "Let the perimeter be secured."
+
+As one, the thirty-three Cultivator Elders made a single, subtle gesture. The air around the colossal Arena shimmered, and a dome of translucent, swirling jade light descended from the heavens, sealing the entire mountaintop in a silent, impenetrable isolation barrier. It was a display of effortless, unified power.
+
+Not to be outdone, the thirty-one Archmages of the Council of Elders responded. One of them stomped his staff upon the ancient stone. From the floor of the Arena, great thrones of black obsidian rose, arranging themselves in two opposing, tiered arcs. There were sixty-six seats in total: one for each of the elders, and two, smaller and unadorned, in the very center of the stage.
+
+One for Dave, and one for Princess An Liling.
+
+Once they were seated, a heavy, expectant silence fell. Elder Corvus finally nodded toward the two young people in the center. "You have requested this council. You may speak."
+
+Princess Liling rose first, her movements a study in fluid grace. She bowed to both councils. "Honored Elders, revered Immortals," she began, her voice calm and clear. "An... unexpected proposal has been made. One that, on its surface, is a political impossibility. However, it has presented an equally unexpected opportunity."
+
+Dave, running on the stable 30% competence we had carefully calibrated, stood to join her. He was nervous, a fact I could see in the slight elevation of his heart rate, but his voice was steady. "We do not propose a simple marriage of states. We propose a true union of ideas. A formal, scholarly exchange, under the auspices of this agreement, to explore a third path. The path of the Arcane Cultivator."
+
+They laid out their plan, the audacious, heretical dream they had shared. A future built not on division, but on a synthesis of their two great traditions.
+
+When they finished, the silence that followed was long and profound. I expected arguments, accusations, and immediate dismissals.
+
+Instead, an old, grizzled archmage with a magnificent, braided beard leaned forward on his throne. "Frankly," he grumbled, his voice like rocks tumbling downhill, "I would rather spend my remaining centuries cataloging runic decay than saber-rattling over borders. This 'cold war' has become a tedious administrative burden."
+
+A serene-looking Sky Immortal on the other side nodded slowly. "Our pursuit of the Dao is hindered by this mortal coil of suspicion. This proposal... has merit. The potential of a true Arcane Cultivator is a subject of great theoretical interest."
+
+Another Elder, a woman with hair like spun silver, smiled faintly. "Imagine it. The internal fortitude of a cultivator, wielding the external power of a mage. Such a being could very well achieve the Tenth Rank in half the time. The research possibilities are limitless."
+
+To my and Liz's utter astonishment, they were… excited. These ancient, powerful beings weren't warriors or politicians at their core. They were scholars, researchers, and practitioners who had reached the absolute peak of their respective fields. The idea of a new, unexplored frontier was more intoxicating to them than any war.
+
+"If you two succeed," the silver-haired archmage declared, a genuine spark of enthusiasm in her eyes, "we will erect a new academy on these very grounds. A joint pavilion, dedicated to this third path, for all the world to see."
+
+The consensus was forming faster than I could have ever predicted. But there was a final, critical point of contention.
+
+A Sky Immortal on the far end of the Cultivator's side, a man with a severe face and eyes as sharp as a hawk's, finally spoke. His voice was cold, cutting through the budding optimism like a winter wind. I recognized him from my dossier: Immortal Feng, a known traditionalist and a staunch opponent of any interaction with the "barbaric" mages.
+
+"The Princess is a prodigy. Her ability to undertake this task is not in question," he said, his voice quiet but carrying an undercurrent of disapproval. "But this entire... arrangement... hinges on the unproven potential of the boy. You claim to have a brilliant mind, Lord Dave. Let us see it."
+
+He leaned forward, a predatory stillness in his posture. "A simple test of knowledge. A cultivator stands at the precipice of the Eighth Rank, Dao Enlightenment. He has mastered the fundamental principles. But to break through to the Ninth Rank and become a Sky Immortal, he must comprehend a Law. Tell us, boy. How does one cultivate a Law of the universe?"
+
+The Arena fell silent. Even the other Immortals shifted on their thrones. This wasn't a simple riddle. It was a question that had stumped geniuses for millennia, a core tenet of their most esoteric teachings. It was an impossible, absurd test designed to make Dave fail.
+
+Another, gentler-looking Immortal spoke up. "Brother Feng, that is an unreasonable question to ask of a young mage..."
+
+"He wishes to walk the third path," Feng retorted, his gaze never leaving Dave. "Then let him prove he can comprehend the first two."
+
+He's trying to sabotage the entire summit! Liz’s thought was sharp with fury. He has ulterior motives!
+
+[It's a compliance test.] My own voice was a low hum in her mind. [He doesn't expect an answer. He expects failure, a justification to end these talks. But the others... they are curious. They want to see what happens when an unstoppable force meets an immovable idiot.]
+
+A grim smile touched my non-existent lips. [They want to test him. The poor man got nerfed by a Moderator just so they wouldn't get completely dominated. This is going to be fun.]
+
+Bestie, it's time, Liz sent her thought as a sharp command. Deploy the stable genius build. Sixty seconds only.
+
+[Dave, we are initiating a temporary cognitive boost. Stay calm,] I said through our link. I focused my will on the Dave Dial and slid it to 50%.
+
+The change was instantaneous. Dave’s posture, which had been respectfully attentive, became one of absolute, analytical stillness. The soft focus in his eyes sharpened into a cold, diamond-hard clarity. He met Immortal Feng’s challenging gaze without flinching.
+
+When he spoke, his voice was different. Deeper, perfectly modulated, and devoid of any warmth or emotion.
+
+"Your question contains a flawed premise, Honored Immortal," he began. "You ask how one cultivates a Law. The truth is, a Law cannot be cultivated. It can only be understood."
+
+A murmur went through the assembled demigods.
+
+"Cultivation is an act of refinement, of taking something that exists and improving it," 50% Dave continued, his voice echoing slightly in the vast, silent arena. "A Law of the universe is not a raw material. It is a fundamental axiom. It is a line of the world's source code. You cannot 'cultivate' a line of code. You can only read it, understand its function, and then, perhaps, if your own processing power is sufficient, you can learn to execute commands that call upon it."
+
+He gestured gracefully, as if moving pieces on an invisible board. "A practitioner does not create their connection to a Law. They simply clear away the noise of their own flawed perceptions until they can perceive the Law that was already there. Comprehension is not the goal; it is the byproduct of achieving a state of perfect resonance with a fundamental truth. The breakthrough from Rank Eight to Rank Nine is not an act of will. It is an act of surrender. Of acceptance. You do not climb the final step. You simply realize you were already standing on it."
+
+He fell silent. He had not only answered the question but had deconstructed its very foundation with a cold, corporate, and terrifyingly accurate analogy that even the mages, who dealt in formulae and commands, could understand perfectly.
+
+The effect wore off. The divine clarity in his eyes faded, replaced by a wave of exhaustion. He stumbled back a step, his face pale. I could see his internal metrics on my UI; his cognitive function had plummeted to 11%. He was barely conscious.
+
+Immortal Feng stared at him, his severe face a mask of pure, undiluted shock. The trap he had so carefully laid had been dismantled and handed back to him as a lecture on the fundamental nature of his own power. He sank back into his throne, speechless.
+
+The test was over. Dave had passed.
+
+The silence that followed Dave’s explanation was a living thing. The assembled demigods of both nations stared at the pale, swaying boy in the center of the Arena, their expressions a mixture of shock, wonder, and, in Immortal Feng’s case, utter disbelief. He not only answered an impossible question, but also redefined it.
+
+It was Elder Corvus who broke the spell, a low, rumbling chuckle escaping his lips that held a note of genuine, blooming pride. "Well, Feng," he said, a rare grin splitting his stern face. "It seems the boy has some... insights."
+
+The tension in the Arena, once a crushing weight, now evaporated, replaced by a current of excited, academic curiosity. The greatest minds in the world had just been given a new, fascinating variable to consider. The path forward was clear. The agreement was, for all intents and purposes, a foregone conclusion.
+
+The long-eyebrowed Sky Immortal, who had acted as a de facto leader for the Cultivators, finally spoke, his voice now holding a tone of genuine respect. "The boy has proven his potential. We agree. This scholarly exchange shall proceed." He turned his gaze to the Archmages. "However, one final hurdle remains."
+
+Every head turned back to him.
+
+"This is an unprecedented alliance," the Immortal continued, his gaze sweeping across the faces of both councils. "Secrets that have been guarded for ten thousand years will be shared. We will be entrusting our most promising heir to your care, just as you will be entrusting yours to ours. Both parties will require a guarantee that the terms of this agreement will be honored."
+
+An Archmage on the Mage's side nodded grimly. "A binding oath of some kind is necessary. One that cannot be circumvented."
+
+Oh no, Liz’s thought was a low groan. Bureaucracy.
+
+It was Princess Liling’s grandfather, the Sky Immortal with the long eyebrows, who spoke next. "Indeed. A standard contract is insufficient. But our family possesses a unique ancestral treasure, an artifact designed for just such an occasion."
+
+He reached into the folds of his silken robes and produced a small, intricately carved wooden box. He opened it, and a soft, green light filled the air. "The Twin Jade Rings," he announced.
+
+He levitated the object from the box. It was two perfect, interlocking rings of luminous, translucent jade, connected by a single, shimmering point where they met. They hummed with a quiet, ancient power.
+
+"This artifact has been worn by the head of our family and their chosen partner for millennia," he explained, his voice taking on a ceremonial tone. "An Liling, this was to be yours on your wedding day. Now, it shall serve a greater purpose. It forges a true and proper soul-bond."
+
+A soul-bond? Liz’s thought was a sharp spike of alarm. Wait, they have those just lying around? Moderators toss these things out like candy on parade day! What do they mean, it's rare?
+
+Her grandfather continued, oblivious. "This bond is deeper than any familiar contract. It creates a permanent link, allowing the wearers to sense each other's core thoughts and emotions. It ensures absolute transparency. There can be no deception between them. I propose we use this to solidify their engagement before our two nations begin sharing their most vital secrets."
+
+The logic was inescapable. It was the ultimate guarantee. Princess Liling, her face serene, gave a single, consenting nod.
+
+Her grandfather levitated the Twin Jade Rings toward her. "An Liling, if you would."
+
+She reached out and gracefully took one side of the artifact, her slender fingers closing around the cool jade. She held it steady and, with a look of solemn resolve, slipped one of the intertwined rings onto her finger. All eyes turned to Dave.
+
+At 11% cognitive function, Dave's brain was operating on simple, direct instructions. Everyone was looking at him. He was supposed to do something with the pretty green circles. He saw the princess holding one side, a ring on her finger. He saw the other empty ring, presented to him.
+
+He reached out and, with the simple, uncomplicated logic of a child completing a puzzle, put his finger through the other hole.
+
+The moment his skin touched the jade, all hell broke loose.
+
+The rings flared with a light so brilliant, so impossibly bright, it forced even the Archmages and Sky Immortals to shield their eyes. The single point where the two rings were joined dissolved, and the two individual bands of jade gracefully separated. Each one then tightened, shrinking to fit perfectly around the fingers of Dave and the princess, a silent, glowing testament to their new, unbreakable bond. A wave of pure, conceptual energy washed through the Arena, forging a link not between two people, but five minds.
+
+In the sudden, silent party line that had just been created in my head, a new voice screamed. It was clinical, alarmed, and distinctly not mine.[ALERT: TWO ADDITIONAL FOREIGN ENTITIES DETECTED. RUNNING SYSTEM DIAGNOSTICS. PLEASE STAND BY.]
+
+Foreign entities?! Liz shrieked, her own thoughts a chaotic jumble in our shared space. Bestie, who is she calling foreign? We were here before she was!
+
+A third, simpler thought echoed through the link, a pure, unfiltered feed from Dave’s overloaded mind. Meat pie… Princess Liling and I are engaged now... I'm sleepy.
+
+[Guys, let's just zip it for now,] my own voice cut through the noise, calm, professional, and utterly bewildered. [We will explain and deal with this after this world war-level meeting is done, okay?]
+
+The Princess’s voice, a fifth and final thread, was a single, panicked thought, broadcast to everyone. What is happening?!
+
+The light faded. The two councils stared, their expressions of shock now directed at the two young people in the center who were both swaying on their feet, their eyes wide with confusion. The meeting to prevent a war had just created a crisis of a kind no one in this world had ever seen before.

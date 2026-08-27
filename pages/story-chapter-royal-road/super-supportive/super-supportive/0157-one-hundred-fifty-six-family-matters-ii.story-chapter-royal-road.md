@@ -1,0 +1,515 @@
+---
+id: 2ec925b4-d33e-5b4d-a21e-227ceeb621e0
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY-SIX: Family Matters, II"
+slug: 0157-one-hundred-fifty-six-family-matters-ii
+partOf: super-supportive
+position: 157
+ownLength: 5939
+unit: words
+publishedAt: 2024-07-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1722143/one-hundred-fifty-six-family-matters-ii"
+royalRoadId: "1722143"
+---
+
+156******
+
+“Do you think it’s all right to step on it?” Alden asked, looking down through Esh-erdi’s nonagon to see the top of the Forthright building. Thanks to speed, spell, or contraption, someone had managed to cover almost the entire surface of the roof in a boldly colored chalk mural. Scenes of Avowed engaged in inspiring acts of courage surrounded the words: We ARE Anesidora.
+
+“It’s amazing.” Haoyu was leaning so far over the edge that Alden started lowering them just in case he fell off. “Who’s that running across the water? And there’s Plopstar on The Span! And that Shaper line redirecting the flood down in F—so cool.”
+
+“If the artist can put something like this together so fast, I’m sure they either know how to protect it or they don’t care if it gets walked on,” said Lexi.
+
+The picnic tables for students were all still in place, perched right on top of the drawings, so Alden guessed it was fine.
+
+“Someone should tell them to draw Maricel and the countertop. And Jeffy doing whatever he did,” Haoyu said as he jumped off.
+
+He landed on the image of a red halo. The man stood on the deck of a small yacht with his arms raised to lift the vessel into the air. The water pouring from the sides and bottom of the boat became the raindrops that fell onto a woman who aimed a mounted launcher at an unseen target.
+
+Haoyu checked the bottoms of his shoes for chalk. “Nothing’s coming off.”
+
+After all three of them had dismounted, Alden considered the nonagon.
+
+“It’s so hard to know where to park your fancy car,” Haoyu said sympathetically. “Such terrible things could happen to—”
+
+“Don’t. I’ll make you guard it.”
+
+Alden was operating under the belief that as long as he was close enough to The Nine-edged Son Whose Own Mother Forsakes Him, Drusi-otta could keep an eye on both of them.
+
+He’d been periodically looking around for her, but he was starting to think she wasn’t actually anywhere near him. She might just be monitoring him through a spell or with a magic spy cam the size of grain of sand. Maybe if someone approached to bother him, her plan wasn’t to leap out and assassinate, but to call that person on the phone and tell them to get lost.
+
+While dramatically sharpening some kind of magic votary weapon.
+
+He directed the nonagon to a stop just above the narrow, windowed enclosure that kept the roof-access elevator out of the elements.
+
+Haoyu looked at him. “I understand why you don’t want to make a big deal out of the commendation. And why you don’t want people prying into what you went through. But I’m glad you told us about it. It’s…” He adjusted his Scorpius t-shirt. “I don’t actually know what I want to say except that I’m glad I know.”
+
+Lexi pulled the door open and held it for the two of them to walk through.
+
+“I’m glad, too,” he said as Alden passed. “I think people knowing about this will be a good thing in a lot of ways. You seem worried about it, but—”
+
+Haoyu gasped dramatically. “Lexi Roberts is going to reveal a Social Dynamic! Which one will it be?!”
+
+Alden couldn’t hold back a grin at that.
+
+“But,” Lexi continued more loudly, “your commendation answers the whole, ‘Why a Rabbit?’ question.”
+
+“Thoroughly,” Haoyu agreed.
+
+“Some people already assumed your experience out there—” he gestured vaguely at the ceiling, “—was a big reason you were one of our B-ranks.”
+
+“I thought it was your levels and your skill being neat,” said Haoyu.
+
+“I thought it was you being a masochist during our team fight in combat assessment and yanking on Writher like pain didn’t hurt you.”
+
+“No,” said Alden. “It definitely hurt. You should let us hit you with it in gym sometime. So you can see.”
+
+Lexi ignored that. “What I’m saying is, for the <<jerks>> who will act like those things aren’t enough, the commendation should shut them up. I think.”
+
+“Yeah,” Haoyu said as the elevator arrived. “It’s not like they’re going to have one. And it shows you’ve already proven yourself in tough situations, doesn’t it?”
+
+Alden stepped in after them. “Maybe.”
+
+Lute seemed to think that people would be jealous and behave worse because of it.
+
+“I’ve been worried people would realize I only got into the program because of the commendation. And they’d be bastards about it. That’s why I wanted a few more weeks before the info went wide. So I could kind of…prove myself.”
+
+Lexi frowned.
+
+“A commendation like that is the proof!” Haoyu said confidently. “It should carry you even if you do something really dumb. Like turning your uniform into a cheerleader outfit, then hitting yourself in the face with a car.”
+
+“Why would you think you only got in because of the commendation anyway?” Lexi asked. “We just named a few reasons why you should have.”
+
+“My interview was weird,” Alden admitted. “Really half-assed. They gave me the blandest topics to discuss. Like ‘Why do you like superheroes? Tell us about your goals. Who do you admire?’ The sorts of things I couldn’t screw up because I’d already answered them in the previous interviews.”
+
+“Oh.” The frown on Lexi’s face deepened.
+
+“Klein was more honest about it in the end,” said Alden. “He doesn’t like the idea of someone with my class being here because he doesn’t see how the program is going to build me into a danger-ready Avowed with nothing but the Rabbit skills and spells to choose from. With him saying that and the way everything went…it’s pretty obvious the commendation was my acceptance ticket. And they didn’t even care what it was for.”
+
+Haoyu looked miffed. “If he said that, it’s just him being overly traditional. There’s no reason you can’t take some Rabbit skill that’s meant for hairdressing or gardening and turn it into something terrifying. Or at least complementary to the excellent skill you already have.”
+
+“Thanks. It’s okay. I do understand what he meant by—”
+
+“It’s really not, though!” Haoyu protested. “And the commendation should have been an acceptance ticket because they cared what it was for. Do they think those things grow on trees? Do they think the Artonans give them out like Brute Scout badges?!”
+
+He was bristling even more.
+
+Alden glanced at Lexi, expecting him to say something to calm Haoyu down.
+
+“I agree with him,” said Lexi. “Not about the hairdressing. But even if the class and rank combo was triggering some high rank handwringing about how vulnerable you’ll be if everything goes wrong for you, so what? They accept some other people on the assumption that everything will go right.
+
+“Kon’s an Adjuster with a single spell. He took a complete unknown, and the school accepted him assuming it would become something great. I’m happy it worked out like that for him. But if Kon being an S makes more of a difference than you having a commendation for bravery…that irritates me.”
+
+“What about all the organizational skills Rabbits have?” said Haoyu. “You think magical sorting can’t be dangerous? Or CLOTHES FOLDING!”
+
+The passion in his voice made Alden chuckle.
+
+“What if you can use a really strong clothes folding skill on clothes with the enemy inside them?” Haoyu demanded. “Did Klein think of that? Obviously not!”
+
+“You don’t have to find me a new skill,” said Alden. “The one I’ve got is enough for me to work with right now.”
+
+“I’m just getting started!”
+
+******
+
+Only half an hour later, Alden was leaving Instructor Marion’s classroom in the Wong building with a sigh.
+
+His morning science class had already met and been dismissed. They would be officially starting back on Wednesday, as predicted, but without in-person attendance. Two of the three instructors who were lined up for the rest of the quarter were planning to be too busy to commute to campus, so they’d be pre-recording lectures and sending them to everyone. Homework was just going to be reading assignments.
+
+Do your studying, and good luck!
+
+The final exam next month would be the only in-person meeting.
+
+In Engaging with the Unexpected, Marion had just announced he was changing the class syllabus to make time for everyone to talk about what they’d experienced on Friday night. They had the rest of the week off; he expected them to use the extra days to process everything that had happened and prepare thoughtful conversation topics. He was envisioning a sort of student-led Engaging with the Disaster course for the rest of term.
+
+It would be a good idea, but only if everyone took it seriously, Alden thought as he slipped past the Adjuster girl with the summoning abilities and into the busy hallway. She was talking to Andrzej about a press conference that was coming up this evening. There were rumors that the names of the people involved in the attack were going to be released.
+
+How many of these guys actually want to do serious reflection on their personal disaster experience? Aren’t most of them going to slack off and then come to class with some low-hanging drama topics, like usual, so that we can all argue?
+
+A couple of them had had very serious looks on their faces, though. Most had been on campus, safely tucked in the gym during the danger, but Anesidora was a small world. Everyone who hadn’t lost something themselves at least knew somebody who had.
+
+Marion’s hopes that they’d all be mature conversationalists might come true.
+
+Alden would figure out what he was going to talk about. But for now, he was mentally shifting to plan for a class schedule that wouldn’t start until eleven o’clock in the morning for the rest of the week. And that was assuming Instructor Rao kept the Artonan Conversation class the same.
+
+That will give me plenty of time to make the commute from Matadero at least.
+
+“Yes. I’ve heard the same rumors, but only here at school.” Andrzej’s accent caught Alden’s attention and he turned. The Polish boy was still talking to the Adjuster. He had his cudgel sticking out of the top of his backpack. It looked like it was peeking over his shoulder.
+
+“They haven’t told you anything at home?” the girl asked. “Your relatives don’t talk about it, or—”
+
+“They don’t share Council news with me. Excuse me. I have to go to my next class.”
+
+He slid past her and started toward Alden.
+
+We’ve made eye contact now. Might as well wait on him.
+
+Alden was curious about what had happened with the B’s who’d run off during the emergency anyway, and Andrzej would probably know. He was heavily involved with the rank club. He’d invited Alden to the study groups and dinners more than once. Alden hadn’t taken him up on those offers yet because he always seemed to have plenty of other things to fill his time.
+
+The other B’s in the hero program seemed to be a little more rank-insular than he and Max were. It was still early days, so Alden hadn’t had time to figure out exactly what kind of relationships the students in more advanced groups had with each other. But there was obviously enough bad blood going around that Andrzej, who seemed like an easy person to get along with, preferred The B-list crew to most of his own combat classmates.
+
+“Hi,” said Alden as the other boy joined him and they started down the hall for the exit.
+
+“You’re hurt.” Andrzej glanced down at his boot. “You weren’t…do not tell me if you were. <<Don’t incriminate yourself.>>”
+
+The last was said in a whisper.
+
+Alden shook his head. “I didn’t go out with Francis, BeeBee, and whoever else was being stupid. I was on the other side of Apex. And I was trying like hell to get to safety, not run away from it.”
+
+“Oh!” Andrzej looked relieved. “That is so good. I am beginning to be worried that there are not enough B’s who aren’t crazy at this school.”
+
+When they stepped outside, Alden’s eyes went immediately to a bushy tree that stood on the other side of the path. A group of people were standing beneath it, pointing up.
+
+“You had trouble getting to a shelter?” Andrzej’s tone turned sympathetic. “You were left because you’re a Rabbit.”
+
+“Something slightly different than that,” said Alden. “Anyway, did you seriously think I might have been with that group? And that I somehow escaped from whoever went to fetch them? I don’t know how I’d get away from trained members of SkySea. I’m sure they caught everyone involved.”
+
+“No, they missed Sammy,” Andrzej replied. “But she felt guilty when everyone else got in trouble, and she decided to confess. Probably a very good thing for the rest of them…”
+
+“Sammy?” There was nobody he’d met in The B-list with that name.
+
+“She’s an S. She went along for some reason.” Andrzej lowered his voice. “She’s probably too talented to expel. So maybe the others will be okay? It wouldn’t be fair to expel just the B’s.”
+
+Alden agreed that it wouldn’t be fair to expel all the B’s. But his sympathy level for danger chasers had recently hit a new low.
+
+“What were they thinking?” he asked. “Do you know?”
+
+Andrzej turned his eyes skyward. “Ella-Clara was thinking she has only earned four levels this year, and even that is not fast enough for her. The others were probably thinking, ‘Let’s follow Ella-Clara and see what she does.’”
+
+Four levels was impressive. But none of the rest of it was. “I just don’t want B-list gym time to be cancelled.”
+
+“I think it will be,” said Andrzej. “At least for a couple of weeks.”
+
+An angry sound escaped Alden’s throat before he could stop it.
+
+Andrzej lifted his pale eyebrows. “Instructor Plim is a powerful Shaper of Water.”
+
+Alden had been about to say something scathing about people who ruined the educational opportunities of others, but his mouth snapped shut at that. “That’s right. She’s probably busy.”
+
+“The wizards are still using Shapers of Water to overwhelm the Submerger’s—”
+
+“I heard on the news.”
+
+“It is more important than our club.”
+
+“I know that!” Alden said. “I just…forgot she was a Water Shaper temporarily.”
+
+He pressed his finger to the green ring and pointed it at the ground. There was a rustling sound and a yelp as a one stray teenager fell out of the bottom of the tree and one Nine-edge Son emerged from the top.
+
+Andrzej stared while Alden beckoned his ride.
+
+“Do you want to come with me?” Alden asked.
+
+<<No,>> Andrzej said, turning his head to exam the tree again like he thought another one might pop out. <<I can walk.>>
+
+******
+
+[Heading to the Convo class meeting, Lute], Alden texted as he hurried up the stairs behind a girl with canary yellow hair. She was scattering loads of Anesidoran Forever stickers on every landing.
+
+That slogan seems to be taking hold fast, he thought, leaping over some of the stickers and landing on his squishboot so hard that his ankle actually complained for the first time since he’d started wearing the thing.
+
+Shit.
+
+It was easy to forget he was injured when walking didn’t hurt. And he’d gotten so used to the boot already that the lack of feedback from the foot trapped inside it no longer called his attention.
+
+Better slow down.
+
+[Are you logging in to the class online or something?] he asked Lute.
+
+[I’m supposed to be,] Lute answered. [Rao hasn’t sent the call-in link though. Guess she’s going to be late like usual.]
+
+A second later, he video called Alden. He was still sitting in the blanket fort, minus one F-rank Rabbit girl.
+
+“Emilija had to head to Franklin,” he said, plopping himself back onto a mound of mismatched pillows and sofa cushions.“They don’t have classes today, but she does have some stuff to take care of this afternoon. It’ll probably take her ages to get there with the way travel’s going right now. How are things?”
+
+“Okay,” Alden said automatically. Then, he paused with one hand on the banister. He did have a little bit of unwanted tension in his chest. It had been there ever since he’d told the guys about Thegund.
+
+Just leftovers. Telling hadn’t been that hard. But deciding it was time to and wondering about what they’d think had been.
+
+“I’m good,” he said. “I told Lexi and Haoyu about it. The thing I told you about on the day we had our big wordchain learning session.”
+
+“What did they say?” Lute was walking a round snack cracker across the backs of his fingers the way some people did coins. At a very high rate of speed. Without it crumbling.
+
+“I wonder if I can do that,” said Alden.
+
+“They said that? About getting an award like yours? They’re even more ambitious than I realized. Has it occurred to you hero brain people that you’re not immort—”
+
+“No! I meant I wanted to do what you’re doing with the cracker. Haoyu and Lexi were great about it.”
+
+“Ohhhh.” Lute popped his toy in his mouth and crunched it. Without bothering to swallow, he said, “I told you. Didn’t I? Haoyu’s a classy guy. And Lexi’s got class, too. He just hides it underneath his personality.”
+
+“It’s nice to have it out in the open with you three,” Alden said, continuing his ascent. “And everything else is fine.”
+
+School exists. Lots of happy alive people here.
+
+A minute later, he reached the classroom, grabbed an ass-abused cushion for the hell of it, and knelt to wait for Instructor Rao. Almost the whole class was present. Most people had been on campus on Friday night, so they hadn’t gotten stuck in F.
+
+The volume of the chatter increased as time passed, and Alden started to wonder if the instructor was going to make an appearance at all.
+
+“She’s ten minutes late to a meeting that only lasts fifteen,” Lute pointed out. “If something had happened to her, the school would have told us, wouldn’t they?”
+
+A painted wooden ball smacked the floor at the edge of Alden’s cushion. The object was someone’s craft project, and a group of students had been tossing it back and forth for a while now, trying out different tricks on it with their magic. This time, when it impacted, it didn’t make the sharp sound he would have expected from wood on wood. And it bounced up and over him like it was made of rubber.
+
+“Hey, is that a property transfer spell!? I didn’t know you had that!” the boy to his left called jovially to the thrower as he stepped forward to catch it and toss it back to the other side of the room.
+
+The class had gotten so loud that Alden was honestly surprised none of the faculty members from the neighboring rooms had come in to tell them all to knock it off.
+
+“Hey, knock it off!” a girl sitting in the back corner said.
+
+I guess she’s thinking the same thing.
+
+About half of the students turned to look at her.
+
+“People died,” she said severely. “We shouldn’t be playing around today.”
+
+“She’s right,” a guy agreed. “Let’s show some respect. Like Daikon in the uniform.”
+
+Alden raised a hand and waved. “If you don’t mind, it’s Alden. Not Daik—”
+
+<<Something bad happening doesn’t mean we’re all obligated to be miserable 24/7.>>
+
+“Yeah, some girl acted like I was a traitor for asking her to turn the common room television to anything but the news last night. But we’ve all been watching the news for two days straight. My family is living in a dome. I want to be able to sit down for an hour with my friends and not think about the attackers and the fact that the place where I grew up is ruined.”
+
+They started bickering, Alden failed to get another word in, and Lute shook his head sadly. “You’re Daikon forever now.”
+
+“Yeah probably. I’m taking Lexi and Kon down to F later. Do you want me to pick you up while I’m there? We’re planning to leave as soon as we’re all done with our—”
+
+“Hey! Little kids!” someone suddenly shouted over all the other voices in the room.
+
+Alden and everyone else looked up to see a heavily freckled girl in a university t-shirt and shorts strolling into the room, flip-flops slapping her heels. She cracked her chewing gum and looked around at them all.
+
+“Sorry I’m late,” she said. “But I was asleep until twenty minutes ago when the head of the language department called to ask if I’d take this job. Been doing clean-up with the uni volunteer corps. I’m Kelly, and I’ll be your teacher until the end of the quarter.”
+
+She made finger pistols at them.
+
+“I like her,” said Lute.
+
+“Is Instructor Rao all right?” someone asked.
+
+“Oh my gosh, she didn’t…!”
+
+“She’s fine,” said Kelly. “I mean, her priorities are a little…but she’s healthy as far as I know. She resigned. She’s chasing her dreams and giving up on teaching.”
+
+Her dreams? Alden wondered.
+
+He wasn’t the only person wearing a confused expression.
+
+“Soooo…” Kelly interlaced her fingers and stretched her arms over her head. “I’ll just tell you if you don’t already know. Everyone in uni’s gossiping about it anyway. Instructor Rao’s one of those people who wants to get off of this rock. She wants to live on one of the Artonas and not come back. But she doesn’t get summoned a lot, so she’s taking her shot now by trying to find a wizard who wants to carry her back home with them.”
+
+Nobody said anything for a few seconds, and then everyone started talking or laughing at once.
+
+“She wants to be the poacher lady who gets together with the farmers!”
+
+“Maybe she just wants to work for them full time?”
+
+“If they find out how checked-out she is as a teacher they’ll never let her near one of their planets.”
+
+“I can’t believe she’s abandoning the school in the middle of a crisis.”
+
+“Go get ‘em, Rao!”
+
+“She’s doing exactly what the culture advisor just told us all not to do.”
+
+“There’s a guy in my parents’ apartment building who’s trying the same thing!”
+
+Alden was busy thinking about how crazy it was to give up a stable job to chase after an extraterrestrial lifestyle that was not at all a sure thing.
+
+Well, it’s less crazy if you’re Anesidoran. Losing a teaching job and not being hired back wasn’t as big a deal if you were guaranteed a decent quality of life even without the work. And there were a lot of wizards running around. But he’d gotten the impression most of them weren’t at all what Rao was banking on.
+
+On the video floating in front of him, Lute looked amused. “This is kind of funny, but it seems like a terrible choice on her part.”
+
+[I’m pretty sure most of the new wizards who are here right now don’t even have summoning rights for our species,] Alden texted him. [I think a lot of them are here to prove they deserve those rights. Probably there are a few who could invite her to come live on the Triplanets, but how’s she even going to know which ones they are?]
+
+Kelly clapped her hands together. “All right. Everyone turn your Artonan translation off real quick for me.”
+
+“We’re having class?” someone asked. “There are only a few minutes left.”
+
+“I said turn ‘em off. Or you fail.”
+
+A couple of people looked petrified. Kelly laughed. “Man, maybe I do want to be a teacher. Okay, kids. System not helping you anymore? Good good. Here we go. I’m going to tell you all a serious, sad story about three Artonans.”
+
+She cleared her throat and started speaking in Artonan, in a low and serious voice: “The three of us pass now along a high and narrow branch. Though our hands cannot be joined, I see your braid before me. I hear her steps behind me. I am like a river in its ————. The ———— you make for me will keep me on my way. Let us go now and thrust the stones of fruit we already digested into the nostrils of that guy over there.”
+
+Alden burst out laughing.
+
+Which ended up being awkward because everyone else was nodding along in sympathy, apparently taking her at her word that the story was serious.
+
+“Only one of you?” Kelly said in a depressed voice, swapping languages. “Man, you guys suck. When did the high school language classes get so lax? Uniformed Kid with Good Cushion Manners, summarize what I just said in Artonan, then translate it for the room.”
+
+“Oh…really…?”
+
+“Choppity chop,” said Kelly.
+
+Alden summarized then translated it, guessing that the words he hadn’t understood were “riverbed” and some version of “path.” A few people guffawed, including Lute. One boy looked offended for some reason.
+
+“You said it was a sad story!”
+
+“It was sad for the nostrils,” Kelly answered with a shrug. She looked at Alden. “On your honor, are you using any disallowed spells or recorders or anything to make you better at the language?”
+
+“No,” someone answered before Alden could. “He actually speaks Artonan already.”
+
+“Yeah, Alden’s the moon Rabbit.”
+
+Kelly gave them all a blank look.
+
+Alden opened his mouth to explain himself.
+
+“He was stuck on a moon,” someone else offered.
+
+“Oh!” said Kelly. “That kid. Wow. Nice to have you back on Earth.”
+
+“Thank—”
+
+“He’s got one of the general’s flying devices! He’s just riding around campus on it.”
+
+“What?”
+
+“Seriously?”
+
+“I heard someone did! It was him?”
+
+Every eye in the room turned to him. Alden stiffened on his cushion and felt a polite smile fix itself on his face.
+
+“That is interesting.” Kelly tilted her head as she regarded him. “But not relevant to Conversation class. Alden, right? You can neglect to show up for the rest of term. Come for your final, and we’ll make it your grade.”
+
+People gasped like she’d just pulled a ribbon-wrapped pony out of her pocket.
+
+“What about the rest of us?”
+
+“Give us another chance!”
+
+“That’s not fair!”
+
+“It is fair,” said Kelly. She swept both hands toward Alden “This person speaks Artonan.”
+
+She waved her arms to indicate the rest of them. “These people do not. I’m going to be one of the fairest teachers you’ve ever met!”
+
+“Can I still come to class if I want to?” Alden asked.
+
+Lute groaned. “Take the win and run, you fool!”
+
+[You don’t like me as a convo partner?] This was the class where he’d been socializing with Lute and learning his wordchains.
+
+Of course it will probably be different with a teacher who actually seems to care about student progress on an individual level.
+
+Kelly’s eyes scanned him. “I guess the vibes you’re giving off are accurate.”
+
+“I don’t need you!” shouted Lute from inside his blanket fort. “Run! Be free!”
+
+“Sure. Show up if you want,” said Kelly. “Or not. But I figure I should spend most of my time focusing on the people who are actually in need of instruction. To the rest of you: I’m excited! Pumped! See you all on Wednesday. Don’t be late.”
+
+******
+
+“What are you doing next?” Lute asked while Alden stood on the roof of Forthright, calling the nonagon to him.
+
+“Going to the administrative building. For the personal advisement.”
+
+“What personal advisement?” Lute’s fingers swiped through the air. “Balls. Did I miss something? I wasn’t extraordinarily focused when I first got the schedule. At least not on the schedule…no, I don’t see that on mine.”
+
+Alden frowned as he tossed his bag onto the flying platform and then jumped aboard to join it.
+
+“I didn’t mention it to Lexi and Haoyu. I was more focused on all the other stuff, too. Do you think it’s only me?”
+
+“That would be odd. Maybe it’s just because I’m not on campus,” said Lute.
+
+“You never said if you want me to pick you up this afternoon or not.”
+
+“I do,” said Lute. “Cyril’s apartment’s been cleared, so I don’t need to stay here to give him an ‘in’ into the Velra property and buffer him. And I really don’t want to hang out with him for much longer. While drunk and nearly hypothermic, he shoved my head under his armpit and told me he didn’t want someone named Polly to talk shit about me. As far as apologies go, that might be the best I could have hoped for, but I’m still ready for some peace and quiet.”
+
+“What about your…” Your mom, thought Alden. But he changed his mind before he asked the question.
+
+“What about your family’s boat?” he asked instead.
+
+“Random question.”
+
+Alden had actually been wondering because of Kabir’s story about being rescued from Libra.
+
+Almost by accident, he had thus far avoided telling his roommates he was staying at Matadero. It felt like the kind of thing they could all figure out if they tried, but conversation just hadn’t gone there yet. And there had been so much other ground to cover.
+
+“Libra survived,” said Lute. “I heard it was on the other side of Matadero when everything happened. That Submerger stuff almost all headed in the opposite direction. The mansion did get flooded, but if the Grandwitch doesn’t have some poor Avowed locked up in there casting drying spells already, I’ll be shocked.”
+
+Alden lifted off the roof and headed toward his next stop.
+
+“You look so proud of yourself,” Lute said.
+
+“No I don’t.”
+
+“You look like you’re enjoying the breeze in your hair as you soar above—”
+
+“I’ve decided that if I’m going to be the caretaker of this fine flying forsaken son, I’m going to appreciate it. What else is there to do?”
+
+Lute looked thoughtful. “A barrel roll.”
+
+“Yes.”
+
+“I see you’ve thought of it already.”
+
+Alden had a couple of minutes to spare, so he didn’t rush his flight toward the gray-shingled roof of the admin building. He watched Lute shake cracker crumbs off one of the cushions in his fort.
+
+There was a question he wanted to ask, but he felt like he needed to be careful how he asked.
+
+At Benjamin Velra’s birthday party, Lute had offered to give Alden a “free” Peace of Mind. But Alden didn’t think free meant free for Lute, and he didn’t want to lean on a friendship that was only a few weeks old with something like, “Will you take a three-hour-long dose of bad emotions for me?”
+
+Huh. If Boe was here and he didn’t hate using his powers how would he interact with something like that?
+
+“Hey man,” he said, trying to keep his voice casual, “I’ve been wondering. What kind of wordchains do you hate paying back the most? Like…which ones absolutely suck?”
+
+Please say you hate something physical. Something physical.
+
+“The Gloss,” Lute said dryly.
+
+He pointed at his false eye, then cackled at the look that appeared on Alden’s face.
+
+“This reminds me of our first class together!” Lute crowed. “The eye jokes never get old!”
+
+“Your sense of humor is so wrong!”
+
+“You walked into it.”
+
+Alden groaned.
+
+“The thing about paying back debts is it’s so situational,” said Lute. “Anything that has two potentially positive halves is good. Anything I can sleep off is okay. It changes when you start talking about stronger chains, too. A low level skin sensitivity chain can be fine on both halves. But as the power increases it becomes problematic. In general, the negative sides of mental improvement chains are tough, of course, and—”
+
+Dammit.
+
+It would’ve been perfect if Lute had confessed that he loathed paying off strength chains or something like that. Alden could’ve offered to swap debts.
+
+But nobody’s going to tell me they like the wordchain that makes them feel nervous, depressed, or afraid. It was crazy of me to ask anyway. I’ll pay for my own decisions.
+
+He had the whole day off tomorrow, and he could use that to pay off one of the Peace of Minds. He’d lie in his hospital bed and have a nice anxiety attack with his nonjudgmental snake friend.
+
+Better to do it when his only roommate was a reptile.
+
+“—right now I’m kind of worried about myself,” Lute was saying. “I might have been just a tad over the top with my usage. Do you think we get in trouble for breaking public property if it was during an emergency and for a righteous cause? Because I…”
+
+Suddenly, Lute’s expression changed. He got onto his feet, crouching so that his head didn’t hit the blanket above him.
+
+“Is something wrong?”
+
+“Nah,” said Lute, his face distracted. “I mean, probably not. Roman’s mom just yelled something about Aulia murdering Orpheus in public, but she’s a bit of an alarmist.”
+
+“Do you need to go?”
+
+“No. It’s fine. I don’t care what they’re all doing. I worried the Grandwitch would appear and bother me while I was here, but she hasn’t been around. She hasn’t been on television either. I would have expected to see her all over the place, sticking her face in front of cameras for the public show.” He cocked his head. “Yeah. There we go. She’s live-streaming herself now. The family is all dutifully tuning in. She’s probably delivering sympathies and gently reminding everyone that she has her love for Anesidora tattooed over whatever organ pumps your blood when you’re an evil creature of the darkness masquerading as a human.”
+
+“I thought Orpheus was your cousin with the personal struggles?”
+
+“That is such a sweet way of saying he’s been willfully obliterating his own mind and body since he was barely older than us. Every time he gets healed up, he goes right back to it.”
+
+“Does Aulia usually stream with him?” Alden asked, trying to fit the new intel into his increasingly convoluted mental map of Velra relationships.
+
+“Noo…she doesn’t.” Lute smiled. “Okay. Now I’m a little too curious not to look. Let’s see what the Grandwitch is scheming. I’ll send you a link.”
+
+When it arrived, Alden opened it with a thought, planning to just take a quick glimpse before his advisement session.
+
+Aulia Velra stood on a wharf with a container crane in the background. She wore a black sweater and a single strand of pearls. Her blonde hair was in a tight, high ponytail, and the look on her face was so piercing it was almost as if she could see across space to meet every viewer’s eyes with her own.
+
+“Anesidora,” she said, her rich voice devoid of its usual note of cheer, “we are facing one of our more difficult trials now, aren’t we? So many of you have been so brave, and I won’t betray that bravery with cowardice. Even if it costs me a piece of my own heart.”
+
+She looked down, and the camera shifted to show a clearer view of the thin, dark-haired man who sat sobbing at her feet.
+
+“The Submerger was in my care. And it was stolen and sold to those who ultimately caused all of this tragedy by my own blood.”
+
+She held a hand to her chest. “I cannot make amends. All I can offer you is my confession.”******
+
+******

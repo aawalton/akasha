@@ -1,0 +1,135 @@
+---
+id: 7b2dd569-2558-54b8-8e66-6814ce9f1cfb
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY: Flashes II"
+slug: 0192-one-hundred-ninety-flashes-ii
+partOf: super-supportive
+position: 192
+ownLength: 2081
+unit: words
+publishedAt: 2024-12-19
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1963746/one-hundred-ninety-flashes-ii"
+royalRoadId: "1963746"
+---
+
+190******
+
+It had been just a few seconds since Klein finished speaking. They were all still standing in the center of the gym, murmuring about the prize for success, pizza, and teammates. Only a couple of people had taken steps toward the starting line. Nobody was prepared for Vandy’s mother, who had been standing politely off to the side while the instructors explained what was going on, to suddenly lift her hands and point them at the group.
+
+Alden was in the process of making eye contact with his roommates, trying to silently ask if they would all be teaming up, when the burst of wind hit everyone. He staggered and would have fallen if not for Haoyu reaching out to grab his arm. Haoyu’s feet were firmly planted, no doubt thanks to an application of his spell impression. Whether it was foresight or he was just in the habit of starting class by casting it, it was coming in handy now. All around them, people were toppling over and crashing into their neighbors.
+
+Alden hadn’t fully regained his balance, never mind processing the fact that wind could blow this hard, when Everly Kim, who’d been standing in front of them, flew backwards into him. Her feet had completely left the ground. He wrapped his free arm around her automatically, more like a monkey grabbing at a branch than a true savior, and held on. She helped out by clinging just as hard.
+
+Haoyu had a grip on Kon’s gymsuit with his other hand.
+
+When the gust stopped as abruptly as it had begun, they were in the minority who were still upright. Classmates were on the floor, or, in some cases, across the floor even farther from the starting line.
+
+“We haven’t had a chance to talk about who we’re going to partner up with!”
+
+“Vandy! Be on my team! My team!”
+
+“That was like a tornado! I bet that was what a tornado is like.”
+
+Alden let go of Everly, who crouched low and pointed her face toward Galecourse like she was trying to prep for round two. He followed suit because for all he knew she was about to fly right back into him.
+
+Instructor Klein’s expression was inscrutable. “I said we start now.”
+
+Galecourse lifted her hands once more.
+
+Oh, okay, Alden thought as Everly had a change of heart and scrambled  along with Kon to get behind Haoyu. They’re not even going to let us get to the starting line without a fight.
+
+The fresh blast of wind hit him right in the face. He leaned against the pressure of it, keeping his knees bent, debating whether or not it was safe to move a foot so that he could get behind Haoyu, too. Over the shouts of his classmates and the rush of air in his ears, he heard a loud clang and looked to where Instructor Waker had bounded over toward his junk pile again. It was all the way over on the other side of the finish line. In what couldn’t possibly be a positive development for his students, the huge Brute was lifting a front-loader washing machine over his head with one hand.
+
+It looks an awful lot like he’s aiming at us.
+
+“Haoyu!” Alden shouted, targeting Big Snake hastily because that was what he sometimes did when the instructor was about to throw something at him, and in the heat of the moment, he couldn’t find answers in his head for relevant questions like, Am I actually capable of catching a washing machine? Are they a lot lighter than they look?
+
+“Hit me with it!” Haoyu roared.
+
+“I don’t think that’s the correct response,” Alden said.
+
+“Get behind me, everyone! I’ve got this!”
+
+Everyone was just Alden, since Everly and Kon were already crouching behind him, and Lexi was on his knees a short distance away. He had one hand splayed on the floor and the other on Writher. The thin gold chain of the whip was the only thing in Alden’s view that was behaving like the wind didn’t exist, undulating in front of Lexi protectively in what was often its default position when its master was both feeling threatened and lacking a clear enemy.
+
+Before Alden could get more of a handle on the situation, the wind cut out, and the washing machine plunged toward them. Damn.
+
+His hands were up. Haoyu’s right fist was clenched and held up protectively in front of his own face. But then, too quickly for Alden to even be surprised, the shining line of Lexi’s whip was in front of them both. It bit into white metal with a shriek, and then the washing machine was flying up and over all of their heads.
+
+Alden spun, and saw Writher phase out to let the front-loader go. The washer sailed straight toward the Object Shaper’s head. He raised his hands in time to make a shoving motion that knocked it away from him, and it hit the floor with loud metallic bang. Writher had very nearly gone all the way through the appliance instead of grabbing it. The machine was butterflied open, inches away from being in two pieces .
+
+“Yes!” Kon was looking from the washer to his brother. “Way to go, Lexi!”
+
+“Good. But I get the next one,” Haoyu said.
+
+Lexi’s success was slightly undermined by his look of surprise, and a voice yelling, “What did you throw it at me for!?” from behind them.
+
+Alden was already back to studying the obvious threats. Galecourse was running alongside the bleachers toward the finish line. Where is she going? At least we’ve got a second or two without wind.
+
+Instructor Waker was reaching into the pile again, and Ignacio’s grandmother was heading off to one side. Klein and the Zhang-Demirs all seemed content to stand right here in the middle of the gym, not attacking. Yet.
+
+“Don’t hold anyone back. Run as soon as it looks like you need to.” Everly whispered the words so quietly that Alden wouldn’t have caught them if they hadn’t come from right behind him. Before he could ask who she was talking to, she took a deep breath and sprinted for the starting line.
+
+Kon looked startled. Lexi was busy staring from the washing machine to Writher’s handle with his brow furrowed. And Haoyu was fixated on his parents and Big Snake.
+
+“She’s right. We need to run while we can,” said Alden.
+
+“What?” Haoyu asked.
+
+“Running. Come on.” He took off after Everly, trusting that the others would join them.
+
+Don’t hold anyone back.
+
+Everly had been upset to be at the back of the pack when they were all escaping from the Span, even though it was a pack full of Avowed who were better suited for running than her. She’d been trying to ask Lexi for training tips since then. Alden assumed she wanted to be able to take care of herself, but maybe a fear that she was holding others back and putting them at risk was a part of the mix, too.
+
+That’s a bad feeling.
+
+“Don’t hold anyone back” was also just a part of being around so many people with cool abilities. Easier said than done, though.
+
+He caught up to her right away, and a step later, just as he decided he would run with her instead of dashing ahead, the wind came again. For some reason, Galecourse had done nearly a whole lap of the gym instead of taking the quickest path to her destination—one of the corners near the starting line they were running toward.
+
+Alden had seen the superhero lifting her hands, and he’d guessed that the wind would be hitting them from a diagonal since the last two times, instead of getting fancy, Vandy’s mother had only done the most basic of Shaper moves. It was just a shove straight away from her. Although it was, admittedly, a very big shove.
+
+He bent his knees and tried to prep to take the hit. He had just enough time to wonder if crawling would work better than running before Everly fell. At exactly the right angle and with enough force to knock one of his feet out from under him and give the wind the opening it needed. An instant later, they were both on the floor, holding hands in a barely helpful attempt to halt their sliding tumble across the smooth surface. Alden got slapped in the eye by the tail end of a silver braid, but that was hardly worth thinking about when he was being pummeled by a hurricane. The power of the wind was astounding.
+
+He caught glimpses of other peoples’ struggles as he dealt with his own.
+
+Febri was doing something bizarre with his Instant Corners skill to cross the floor to where Søren was pressed against a barrier. Febri looked like he was repeatedly falling and then un-falling; Søren looked like he was trying to shape…Alden had no idea what light was going to do to fight wind, but he guessed there was no harm in trying. He spotted Heloísa Brute-forcing it toward where they all wanted to go, just repeatedly launching herself in the right direction every time she got a hand or foot solidly against the floor. She was almost there. One of her arms was stiffened in her suit, though, so there were penalties for injuries that made her simple tactic risky.
+
+Some people had left weapons and supplies on the bleachers, as Alden had, expecting to go back and grab what they needed when they found out what the assignment was. Others who’d brought their things had lost them in the first surprise gust and had yet to recover them. He saw a couple of spell ingredients blow past, and the pink sweatband that Olive often wore was in flight. He heard people shouting instructions or asking for help. He heard what sounded like the washing machine smashing into something.
+
+It was all too much to analyze when even breathing was more difficult than normal in this much wind. One of his sneakers screeched as he managed to plant the soles of his shoes against the floor and get some traction to control their slide. The gym unitard fabric was a little slippery, which wasn’t helping anything.
+
+It feels like it’s been blowing for ages already. It’s probably only been a few seconds. What if Galecourse doesn’t let up? I don’t want to get injured at the start of class. I need a shield. Now.
+
+Everly was clinging to his left arm.
+
+Hey.
+
+“Can I hold you?” Alden shouted in her ear.
+
+“I’m not tired!” she shouted back.
+
+That confused him for a beat. Did she think he was offering her a relaxing break? He couldn’t even sit up straight.
+
+“Can I preserve you and use you as a shield?!”
+
+Everly didn’t answer.
+
+“Against the wind! If I have I shield, I think I can get us both—”
+
+“Yes!” Everly said, brown eyes meeting his. She had white glitter eyeliner on. “Do it! Go!”
+
+He targeted her. Everly had been on his obstacle course team, so she was aware of how he needed to carry things. That meant he didn’t have to explain anything, but she seemed to feel the sudden need to explain that she weighed forty-eight kilograms as she scrambled to get on top of him.
+
+That’s funny of her, he thought as he wrapped his arms around her back.
+
+Getting on his feet with his Everly-shield preserved was less troublesome than he’d expected, and once he was standing, the difference made by having a shield—even a forty-eight kilogram one—was immense. He could have strolled to his goal if not for his fear that Morrison Waker might be winding up to hurl a blender at his back.
+
+So he hustled, and when his feet crossed the black line and the wind cut off, he felt a rush of success that was probably too optimistic for a guy that had just made it to the start, instead of the finish.
+
+[Form Team of 5 to Begin]
+
+He read the words on his interface as he set Everly down. She took a step back, gave him a cautious smile, and then looked in every direction briefly like she was analyzing where she’d ended up.
+
+“I carried you for ages,” said Alden. “It’s Friday now. I figured you’d be glad to skip to the weekend faster.”******

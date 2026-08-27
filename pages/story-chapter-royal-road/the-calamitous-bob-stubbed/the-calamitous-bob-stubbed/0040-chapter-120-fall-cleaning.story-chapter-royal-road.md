@@ -1,0 +1,559 @@
+---
+id: 266eaa33-88d3-5c79-a9d0-268d72f69adb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120: Fall Cleaning"
+slug: 0040-chapter-120-fall-cleaning
+partOf: the-calamitous-bob-stubbed
+position: 40
+ownLength: 5231
+unit: words
+ownProgress: 5231
+publishedAt: 2023-06-02
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1232890/chapter-120-fall-cleaning"
+royalRoadId: "1232890"
+markedReadAt: "2026-06-29T21:16:06.552Z"
+---
+
+A group of shadowy figures moved under the aegis of a powerful shadow. A handsome man led them hand in hand across the main square of Kazar under the dying leaves of the Lilac tree. They moved in perfect silence. Some of the guards walked by and missed the group completely. In fact, they did not even look in the proper direction.
+
+The second man stopped by the town hall’s entrance and worked on the barred gates. The third man had said that the tower was too heavily protected now, but the gold wasn’t there. No one had carried a heavy charge into the fortified edifice. The guards had, however, taken the most defensible cart into a secured warehouse.
+
+The second man finished and the gate was opened, its enchantment remaining silent. The group snuck through the narrow opening and closed the path behind them. The portal pivoted on oiled hinges in preternatural silence. They did not leave traces behind.
+
+Once in the town hall’s compound, the first man led the other through stone paths to their target. They met no one on the way but still exercised caution. They had not lasted this long by being careless. The third man checked every intersection for alarms and every arch for wards. The fourth man said there were dogs but the dogs were asleep. All was going well.
+
+They found the place locked tight.
+
+It was a structure of decent size, probably used for supplies rather than long term storage. The third man walked around the structure and jumped on the roof but found no ingress. There was only the large entrance, locked and warded with care. The team stopped and huddled.
+
+“I can sense gold inside,” the fifth man said, “at least… twenty-five talents. Perhaps more.”
+
+“Not exactly a fortune to change the tide of war,” the third man said.
+
+“That’s just the gold,” the first man said. “There could be silver as well. Gems. Cores. Good enough for me. We get it and then we leave.”
+
+“We do?” the second asked.
+
+“Yeah. She may be naive but those Hadal pricks trust her. They could say yes where they refused Solar. And we don’t hold a candle to those fuckers. Enough talks, let’s get in.”
+
+The second man worked on the wards while the rest of the team oiled the hinges. Nothing would be left to chance. Every ward was undone with utmost care, even if it was not connected to the caster anymore.
+
+“The tower is too far and they didn’t have enough time. Otherwise we’d have to dig a hole through the far side.”
+
+“Small blessings.”
+
+Finally, it was done. The group opened the door without alarm and stepped in. The group did find a curious bundle of covers on the far side. The second man took out a lantern from his bag and lit it. The glow cast a light on the inside, but nobody outside would see anything.
+
+There were really a lot of covers on the ground.
+
+The men stood, nonplussed.
+
+A reptilian head covered in white scales unexpectedly emerged from the pile, glaring blearily at the intruders. Its malevolent slit pupil widened in surprise, then in the darkest of furies.
+
+“Squee? SQUEE?!”
+
+A screech of pure rage shook the air, the expression of a hatred beyond words, beyond reason. It spoke of an outrage that only death would clear and the pound of flesh would be harvested right here, right now, without delay. An image formed briefly in the minds of the men.
+
+GOLD.
+
+THIEVES!
+
+The dragon stood on her hind legs to her full height, wings expanded — she was taller than most of them — and breathed fire. The blast torched two before they could duck. She was on the survivors before the first smoldering corpse could even touch the ground. The second man stumbled when his feet sunk into a patch of mud. The very air grew thick and stiffling. The first man ran because the dragon was using magic to an extent where the warehouse and its surrounding had become a hostile place. He ducked to the side when the creature found the third man and ripped him apart.
+
+He ran.
+
+He did not do so for long.
+
+A skeletal form emerged from behind the town hall’s personal quarters and picked him up by the collar in a smooth motion before he could even backpedal. The creature lifted him until he was level with a pair of emotionless yellow orbs.
+
+//Well well well.
+
+//If it is not Edric.
+
+//Or should I address you as Ed?
+
+“Ah. Ah! Maranor’s tits.”
+
+//Now now, ‘Ed’.
+
+//No need to blaspheme.
+
+//At least, not yet.
+
+“What the fuck are you?”
+
+//I happen to be a problem solver.
+
+//The quiet, efficient kind.
+
+//I get things done.
+
+//Do you follow?
+
+Edric’s eyes widened in fear.
+
+“You! You were in the room when I talked to that bitch. You fucking trapped us!”
+
+//If you recall, Her Grace lured you with the bait of an imaginary fortune.
+
+//Though I admit it was inspired to use her Imperial Highness the Princess Arthur to… exact vengeance.
+
+//My algorithms prevent me from being too cruel as it adversely affects efficacy.
+
+//I do, however, appreciate it when others indulge.
+
+“Who betrayed me? Was it Karel? I bet it was that fucking weasel.”
+
+//Betrayal?
+
+The creature’s orb widened slightly in a motion Edric felt was purely artificial.
+
+//We arrive and learn that a group of bandits has been robbing around the town.
+
+//You arrived slightly before or during that time.
+
+//You come to Her Grace and describe yourself as part of an unscrupulous group of discreet problem solvers.
+
+//And you did not expect her to be suspicious?
+
+//Criminals are seldom the smartest population yet you still manage to scrap the bottom of the barrel.
+
+//I am impressed.
+
+“Please let me talk to her. I’m sure we can reach an arrangement!”
+
+//I’m afraid Her Grace’s sleep is too valuable.
+
+Behind them, the screech of rage had turned into a low, enduring low growl over the sound of ripped flesh and fabric.
+
+//And here I was hoping to hang the bodies as a warning.
+
+//Perhaps in bags?
+
+//But I digress, where were we?
+
+//Oh yes.
+
+//You were going to tell me where the valuables you stole are in return for a quick, clean death.
+
+“Wait, wait, you don’t have to kill me. I can help. I know a thing or two. Do you need help with solving crimes? Because you got some issues.”
+
+//The only reason you survived so long was that investigator Tars was trying to prevent riots.
+
+//And Solar was unexpectedly rude to the Hadals.
+
+//I will admit that you also possess a low form of cunning that has allowed you to go unnoticed for some time.
+
+//However, your luck has run out.
+
+//You will contribute to the reduction of crime by dying.
+
+“It ain’t right! There are laws! Theft is not punishable by death!”
+
+//That is correct.
+
+//Breaking into a government building, however…
+
+“Shit.”
+
+A low growl came from behind, one charged with the promise of fire.
+
+//You have little time to decide.
+
+“Fuck you. Fine…”
+
+***
+
+Viv sipped on a hot cup of klod while watching a corpse swing from Kazar’s hallowed tree.
+
+It pained her to admit that it brought back memories.
+
+Solfis had outdone himself, this time. The golem had dragged the body of the dearly departed Edric — gone too fast after merely a few minutes of acquaintance — and hanged it from the neck with what appeared to be human hands stuck to the corpse. There were at least ten of them. It was as grisly as it was peculiar and Viv was hesitating to order it removed before the temples started to whine.
+
+The golem had even retrieved the stolen property, which were now being returned to their owners.
+
+“Perhaps I should have taken another approach. I apologize,” Baroness Azar said from behind.
+
+The proud noblewoman had survived her recent defenestration and returned to Viv for a second round. Viv could appreciate her persistence. She also wondered what would motivate a prideful landed lady to accept the humiliation with good grace and try again a day later.
+
+“I admit that the difficult circumstances went to my head. Organizing things in the city has proven to be frustrating, hence my curt manners.”
+
+“Your curt manners were an attempt to intimidate me into submission and if you lie to me again I will plant you in the courtyard, face first this time,” Viv commented.
+
+There was silence for a time.
+
+“Very well. I see that you prefer a blunt approach. Will you believe me if I say I want to help?”
+
+Viv turned to the older woman, the only trace of yesterday’s ordeal being in her guarded eyes.
+
+“I will if it is the truth. Why do you want to help? If you were, you would be the first person who comes here out of the goodness of their heart since last year. Out of almost two thousand people.”
+
+“Those people are refugees who have come here to find a better life. I have come to create it, make it with my own hands, as for why… do you know who I am? Please do not take my words as empty boasts. My identity will provide much context for the explanation I wish to provide. I am Baroness Azar of Sorewan. The Shadow Duchess.”
+
+“Oh.”
+
+Even if Viv had barely passed the etiquette class, she was still familiar with the continent’s greatest political figures. Sorewan was a region of Baran, near its center, the vast kingdom’s most affluent domain and provider of most of its steel and half of its weapons.
+
+“Then your daughter…”
+
+“Is currently queen, yes, and my late husband was a general. One of my husbands, in any case. Do you regret tossing me off the tower yet?” the woman asked with an amused smile.
+
+“I’ll do it again.”
+
+“Hah! Perhaps we can work together. Although, please do not throw me out, I have a limited supply of good clothes.”
+
+“Wait, that makes no sense. You have everything you want.”
+
+“Yes, and no.”
+
+Azar walked and stopped by the window. She turned to Viv and there was something about her Viv found trustworthy. A brief inspection of herself revealed no signs of manipulation. It was the woman’s calm charisma at work.
+
+“I seek purpose.”
+
+“Excuse me?” Viv asked, surprised.
+
+“My daughter has a solid majority on the council. The Kingdom is united behind the king to face the latest Hallurian incursion. My land flourishes. For the past decade, I have done little except consolidating and defending my power. A long time ago, Sorewan was torn apart by guilds and neighboring duchies until I came, but these days, everything feels… easy.”
+
+“So you what, buy and free slaves then decide to drop everything and serve a foreign power?”
+
+“Do you know your greatest strategic threats at the moment?” Azar asked.
+
+“Errr. The undead, Enoria, my own demise.”
+
+“Your own —”
+
+Viv realized even that little comment had been too much. The baroness’ eyes widened, then her mouth formed unspoken words.
+
+“Extremely high attunement, of course.”
+
+“Keep it to yourself.”
+
+“Yes, I will. No need to threaten me. Although, is it not common knowledge?”
+
+“Farren and a few others know but it should not have spread yet.”
+
+“For the best. The small folk do not like this kind of threat hanging over their head. And yes, to return to the matter at hand, your main enemy is undead and, as it happens, overpopulation. You have more than doubled the number of inhabitants here in a year, have you not?”
+
+“If you count the returnees as new people, then yes.”
+
+“You face undead in an attempt to save refugees and reclaim Harrak for mankind. Few causes are more worthy than this one. I… want a purpose again. One I can fully support. Only then will I feel alive. However, I have left my estate in the hands of my partners and taken only necessities with me. You will not have the support of Sorewan, only my own, if you do choose to employ me. I urge you to do so. You know what I have achieved and you also know that your city lacks the upper layer of society and the training that comes with it.”
+
+VIv found the offer tempting.
+
+She had so far handled the politicking and base maneuvering herself, discrediting her opponents and mobilizing the population, but it was hard work and she had much to do. What Azar said was entirely correct. Harrak didn’t have proper schools yet and it was growing too fast. Soon, the budding empire’s size would become too great for the handful of competent civil servants the late mayor Ganimatalo had gathered. They needed administrators and they needed them fast.
+
+“What happens if Baran and Harrak’s interests are at odds.”
+
+“That will not happen before I die of old age, dear. Sorry to dash your dreams.”
+
+“Are you willing to swear fealty to me?”
+
+“Of course. I certainly hope that all of your civil servants are oath-bound. It is not a fool-proof measure by any means but it certainly limits the most dire of offenses. Please note that I will keep an option to leave, in which case I promise not to work against you for ten years, but I will not be bound for all of eternity. Is that acceptable?”
+
+Viv thought it sounded fine. She turned to Solfis, now waiting in its retracted form by the entrance to the upper levels.
+
+//This scenario is not unique, Your Grace.
+
+//I have templates of oaths to Sardanal designed to induct foreign administrators to the Harrakan cause.
+
+//It is said that a great governor is worth two legions.
+
+“Fine then. First, I would like to test you,” Viv cautiously said.
+
+“That is acceptable,” the woman replied, though Viv could see the hint of condescension in her voice.
+
+From her perspective it would probably be like a self-employed young upstart asking a retiring tycoon to demonstrate their abilities. Nevertheless, Viv had a project and it was the perfect opportunity to see if the baroness could adapt to Harrak’s circumstances.
+
+“I need someone to set up a school and daycare system.”
+
+“A what?”
+
+That was Viv’s solution to the orphans, street urchins, and maternity leave issues all rolled into one. A comprehensive institution would get the kids off the street and teach enough of them how to read and write so that the top performers could be trained as civil servants, lawyers, officers, and whatever else required literacy and a good head.
+
+There might be a little indoctrination thrown in the mix.
+
+Solfis had designed the program.
+
+“I do not mind but… let me be clear. I have not brought a lot of funds and I cannot justify using Sorewan funds for Harrak, or what will one day become Harrak, I suppose.”
+
+Money would definitely be an issue.
+
+“I’ll funnel some as soon as possible, but in the meanwhile, do you agree?”
+
+“Of course. A good idea, a good investment that demonstrates foresight. I approve. It will be done.”
+
+“Thank you.”
+
+//I shall let you discuss the details.
+
+//Solar is waiting outside with his sword.
+
+//It appears Wamiri granted her blessing.
+
+//Training will start immediately.
+
+//Please note that I will extend the preparation time by three days.
+
+That left more than ten days for Viv to start fixing things, and that was the proper term. She would not be solving issues, she would merely be providing solutions that would take a long time to implement. Right now, Harrak was a clusterfuck of biblical proportions and only quickly enforced measures would prevent it from turning the city into a pit of lawlessness. All the challenges Viv had listed stemmed from the unique situation Kazar and its surroundings found themselves in.
+
+On one hand, the old population had too much food and no access to imported goods since the caravans had stopped for a year. On the other hand, the newcomers had miscellaneous items they could sell for food but no way to produce anything. This was not sustainable at all. Many of the poorest people were on the verge of starvation-driven crimes. In order to solve the situation, Viv busied herself.
+
+Her first stop was at the bank, where she negotiated lendings using her own cash as collateral. Thankfully, there was a lot of it and the Manipeleso lads allowed her to leverage the amount, expecting most of the funds to be returned successfully. With money in hand, all of the more destitute families could eat and build workshops or prepare to work the land that would soon be made available. With a sense of purpose and a clear objective in front of them, the vast majority of refugees focused on taking back control of their lives.
+
+She also made sure Rakan and Tarana were settled. The poor Hallurians had been swept into the movement, though they did not seem to resent Viv at all. In fact, they were eager to meet the locals. Rakan went to work with Sidjin immediately, the two nerding it out on brown and colorless mana. Meanwhile, Tarana met the Hadals and got immediately fascinated with her fellow exiles and their expert hunting ways.
+
+For lodgings, Sidjin, Rakan, and the low level earth mages who had joined the city decided to help. They didn’t build entire structures. They built the foundations and raised the walls, leaving the people to build their own roofs, shutters, and doors from the abundant timber. It saved a lot of time and mana for the mages and allowed them to lay the groundwork for several compounds every day. Progressively, those that lived in tents and shanties left for more durable stone structures where they would have privacy.
+
+Viv announced that she would be leading a trade caravan to Enoria when they departed, which spurred another burst of activity as many of those who had stockpiled goods now had an opportunity to sell them. The reestablishment of trade routes would go a long way towards normalizing life. Unfortunately, no one but her could use her portals so a safe teleportation through the woods would be a one off. It would still help.
+
+Viv was slightly concerned that people would talk, and others would realize she could teleport as well, but she also considered such discovery to be inevitable and it might as well benefit the Harrakans.
+
+The second-to-last priority was to free more land. There was no question that many of the refugees were farmers and they needed soil to work, so she had a few obelisks prepared. Carving them up was a matter of hours. The massive progress she had made in enchanting and mana mastery proved itself useful here, though familiarity likely played a role as well. There was no telling what a powerful enchanter with centuries of practice could eventually come up with.
+
+Actually, there was an example: Irlefen. He had designed Solfis.
+
+That certainly made her wonder what the old monsters could achieve and why the world wasn’t a post-scarcity utopia yet. Maybe it was the monsters. Maybe people were just cunts. Speaking of, she would have to see if she wasn’t breaking some intellectual property rights with her cobbled design.
+
+From the third day on, Viv started to move at the edge of the green land. Some of the places that had been a mana-saturated desert when she left showed signs of greenery, flowers and vegetable patches with fields ready to be seeded next spring. It was nice to see. Finding places to set the obelisks was a difficulty she had not anticipated, but Farren was able to help her with that. The young head cleric had spent a lot of time mapping the edge of the habitable land and he knew where the best opportunities awaited. Sometimes, they would create a small island on a hill because it was defensible rather than extending in a simple line. She installed everything in record time and the civil servants were granting plots to eager refugees before she was even done.
+
+With most of the Harrakan energy canalized, the last aspect she wanted to address was the military. Ban, leader of the heavies, had been in charge and done a decent job keeping people trained and fit, but they had been mostly milling around with no clear objective. Viv gave him some.
+
+With some of the children already busy helping set up the daycare, both the heavies and the witchpact soldiers were more available, so she set up combat patrols dedicated to chasing and eliminating revenants at the edge of the newly freed land. Patrols were authorized to keep the loot they found so long as they destroyed the bodies. It made everyone motivated and made everyone generally more battle-ready. Viv also organized mandatory formation drills, helped by Solfis.
+
+So far, Harrakan forces had only fought two ‘major’ engagements if the term was even valid. The city battle had been a messy affair but relatively straightforward. Everyone had stayed together and moved in a line. The prince’s fall had been even simpler. Everyone had been placed somewhere to wait and charged when given a signal. Simple. Viv wanted them ready to maneuver in a real field battle. That would take a lot of training, especially with a lack of officers. She charged the surviving noble knight with this task and gave him the authority to select people he thought would perform best for promotion, after she and Solfis approved of course. With this, the army actually got off their ass to protect the population in a systematic manner.
+
+That solved, they began to solve most immediate problems.
+
+The next was less popular. They needed more money so Viv announced raised taxes according to one of Solfis’ suggestions based on Harrakan enclaves on the south sea islands. It was a simplified system that let people pay in grain if they produced any, and mostly taxed high value stuff. It was widely tolerated since a lot was going on at the time. People were simply too distracted.
+
+On the fifth day, Irao came to visit Viv. For once, he knocked.
+
+“It’s been a while. How are you, how are the Hadals?” Viv asked with a smile.
+
+Irao paused to consider her question in silence for half a minute, his white, hairless face thoughtful. He was staring at the ceiling with his slitted yellow eyes.
+
+“I am concerned. The Hadals are doing well. Our numbers are increasing for the first time since the purge.”
+
+“Errr, what are you concerned about then?”
+
+“Do you mistrust me? Have I caused you anger?”
+
+That surprised Viv quite a bit since it was the first time Irao had displayed any signs he cared what others thought about him.
+
+“No. What makes you believe I am angry at you?”
+
+“I refused to help Solar because he was quite rude and accused me of harboring the thieves.”
+
+“I wish you had cooperated, yes, but I do not blame you for refusing after being insulted.”
+
+“Then why are you not asking me to come with you?”
+
+“You mean… the hunt?”
+
+“Solfis and Solar are training to kill a Necrarch. I saw them, I heard them, I recognized the gear. Why did you not ask me to help?”
+
+“I… always assumed you didn’t want to fight unless your people were in danger.”
+
+“I do not want to assassinate. Hunting is fine. Most of my people are hunters now. Why do you want to kill a necrarch?”
+
+“I need its core to turn part elemental or my high attunement will kill me.”
+
+“Then it is important. Ask me.”
+
+“Irao, would you please come to hunt the necrarch with us?”
+
+“Yes. It will be a good way to test my skills after a long time. I will cooperate with Solfis. It will be a good hunt.”
+
+“Thanks.”
+
+Viv felt genuinely better after that.
+
+***
+
+Solfis stood near the command table which also happened to be in the tower’s receiving room next to an adequate supply of tea.
+
+//A necrarch has a danger rating of seven according to the Imperial Monster Handling Repository.
+
+//For reference, the maximum danger rating before cataclysm is seven.
+
+//Although the notation itself is arbitrary, it reflects the extreme difficulty hunters face when engaging one.
+
+The golem lifted three fingers, the movement strangely human, or it would be if the claws were not quite so sharp.
+
+//First, the intellect.
+
+//Necrarchs are cunning.
+
+//Baiting them using normal means will not work.
+
+//Most traps will not work.
+
+//Direct combat is required.
+
+//Second, the battlefield.
+
+//Necrarchs have a lair.
+
+//They will be familiar with the location and extremely mobile within.
+
+//They will also retreat if at a disadvantage, and possibly lay a trap.
+
+//If wounded, they can retire to their lair to absorb stored energy and heal themselves.
+
+//We must explore the place while fending the creature off.
+
+//Third, the necrarch’s combat abilities.
+
+The golem moved to a side table and produced a long list which he gave Viv.
+
+//The most important aspect to remember, for you, is that you cannot possibly face it.
+
+//A necrarch is faster than most fourth step dedicated warriors.
+
+//A necrarch can take a punishing amount of damage while remaining at close to peak performance.
+
+//A necrarch never tires.
+
+//A nercrarch’s strength is enough to tear through heavy armor in a single body blow, gutting its victim.
+
+//Most importantly, a necrarch can cast spells.
+
+//As such, anyone under the fourth step or without significant resistance to black mana penetration will instantly die to one of its spells.
+
+//In essence, numbers are meaningless against a necrarch.
+
+//The necrarch will just use the victim’s life force to heal their wounds.
+
+//Luckily, I know all this and came up with a plan.
+
+The golem pointed at a rudimentary map of the lone mountain based on Viv’s recollection.
+
+//We will set up camp here near the entrance and wait for dawn to enter.
+
+//Necrarchs are more active at night.
+
+//We will enter and map the area.
+
+//Once I detect the creature’s approach, we will stop at a chokepoint and face it.
+
+“What makes you think it will attack us?”
+
+//Necrarchs are territorial.
+
+//They will attempt to defeat intruders quickly.
+
+//Only if they fail to do so will they start using strategy.
+
+“Could we not box it in?”
+
+//Success of such a maneuver is uncertain.
+
+//I would prefer to go for the safest solution.
+
+//It might take several engagements, but we will corner it.
+
+//Then Sidjin will trigger one of his signature spells on its retreat path.
+
+“How confident are you that you can face it in battle?”
+
+//This frame will keep up with it, although I could not defeat it alone.
+
+//With Solar and now Irao, I am confident we can eliminate it, barring accidents.
+
+//I have prepared black-mana resistant clothes for everyone except Irao.
+
+//He assures me that the spells will not be an issue for him.
+
+//I need to train some more with Solar and Irao, first to familiarize them with typical necrarch fighting style, second to improve our teamwork.
+
+“We only have a short window. Will it be alright?”
+
+//Very little work is required from combatants at the peak of their path.
+
+//We will be ready to move out very soon.
+
+“What’s my part in all of that?”
+
+//Your role is threefold
+
+//You are to assist and cover Sidjin while he works by reinforcing his shields.
+
+//You are to set up a charging station to charge me using the ambient black mana near the lair.
+
+//You are to absorb lingering spells to stop the necrarch from turning the environment against us.
+
+“That works.”
+
+//It goes without saying that you should not get into harm’s way.
+
+//This battle is completely beyond you.
+
+“Understood. I’ll be careful.”
+
+//I know you will.
+
+//There was one last thing I wanted to ask.
+
+“Hmmm?”
+
+The golem made showed a map of the area around Kazar this time, this one heavily annotated. On one side was Harrak huddled against the forest, with a tiny, tentacular network of small villages expanding from the city in cautious frog leaps. Father north and west was the vast expanse of relatively unknown deadlands, leagues upon leagues of dusty hills hiding the decrepit husks of estates and hamlets filled to the brim with all manners of undead, many more dangerous than revenants. A desolate spot near a ridge stood, circled with black ink.
+
+//This is the fortress city of Shinur’s Gate.
+
+//It sits on a ridge and offers a good defense of the only easy path going farther inland from the edge of the forest.
+
+//Unfortunately, it offers lesser protection against the undead, our main enemy.
+
+//It is still the most defensible place we can hope to liberate within the next decade.
+
+//With proper preparation, we can turn it into a fortified beacon from which we can attract nearby undead before they can form hordes.
+
+//And before said hordes can fall on less defended villages.
+
+“You want us to conquer a real city?”
+
+//I prefer the term “retake”.
+
+//And yes.
+
+//There is an additional point of interest, beyond the facilities.
+
+//Shinur’s Gate should still hold a great amount of manufacturing equipment, especially textile related.
+
+//It should also hold over four thousand gold talents in a secure vault under the main bank.
+
+“Ah.”
+
+//We will need a lot of funds if we want to make use of the influx of refugees.
+
+//This would be a good alternative to being in massive debt to the Manipeleso Bank and Exchange.
+
+“Say no more, I am convinced.”
+
+//Then I shall give the order to prepare.
+
+***
+
+Arthur stood on her hind legs, her head level with mother’s as the extraordinary human focused on the next hunt.
+
+It was a glorious prey. Arthur approved.
+
+She knew the core would help mother become whole. She just hoped she would see the trap Elunath had laid before her. Arthur had seen Elunath from the sky. He was a duplicitous entity that would seek to capture her, but Arthur was confident mother would not let her wings be shredded.
+
+Mother turned to see Arthur and smiled at her magnificence. Arthur demanded a horn massage and got it, though they did not tickle that much these days now that their growth had slowed.
+
+It was just fun to see mother zap herself on the excess mana.
+
+After she was done, Arthur requested meat and got it, then she flew across the green fields to where Marruk was helping her kin settle down. Arthur’s domain was expanding under the tireless labor of her minions, as was proper.
+
+The Kark herself greeted her as she approached and provided the requested pats as well as some more meat. It pleased Arthur to see the other Kark stay at a respectful distance.
+
+After receiving homage from her human and her Kark, she considered her genius. The human she had helped had risen from lost, manaless whelp to queen. The Kark she had inspired had grown from a shy lone warrior to a gruff warband leader.
+
+Obviously, Arthur was gifted with matchless management and mentoring skills.
+
+It would be perfect for when she opened her own bank.
+
+The future was golden.
+
+Arthur took off to hunt for squirrels.

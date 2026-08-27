@@ -1,0 +1,167 @@
+---
+id: 85693e69-0f58-57fd-8191-431f6e93c7e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 344 : Regicide"
+slug: 0045-chapter-344-regicide
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 45
+ownLength: 2255
+unit: words
+ownProgress: 2255
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3003678/chapter-344-regicide"
+royalRoadId: "3003678"
+markedReadAt: "2026-06-29T19:43:18.634Z"
+---
+
+Ha! This day keeps getting better and better!
+
+At first, I was a little concerned to see such powerful magic on display by the royal mermen pair. While I couldn't be frozen, I could still be trapped by ice, and being able to freeze anything underwater was an almost-perfect ability.
+
+But when the mermen queen unleashed lightning, I could only laugh in response. What would have been a fatal weakness for me was nothing but a boon, and I eagerly took it and was waiting to unleash it back on them. That was when I made an important discovery!
+
+Almost every one of my slime traits had received some type of upgrade from being uncapped and merged into [Primordial Slime]. I had been slowly trying to figure them out and to discover new, powerful combinations. [Voltaic Slime] was one that I hadn't really noticed much change in, other than being completely immune to any self-harm from being so conductive.
+
+That was until I easily took in the epic lightning blast of the queen—and no, a remarkably higher capacity was not what I figured out!
+
+I can now amplify any lightning I absorb!
+
+Yes, that was the new ability my uncapped [Voltaic Slime] had gained. I roughly estimated that I had amplified it by more than half, and, looking at my [Primordial Slime LV 17], I concluded that it was probably boosted by seventy percent.
+
+Regrettably, I hadn't found anything spectacularly new with [Blaze Slime], which was what I had employed against the king. Other than being able to reach ludicrous temperatures to completely destroy his icy prison, it still functioned identically to before my prismatic evolution.
+
+I had fired the lightning right back at her, nearly taking her out in the process. If I had targeted the king, he probably wouldn't have survived, but I had wanted to give the queen a taste of her own medicine.
+
+Does it work on my own [Lightning Magic] too?
+
+I quickly began casting spells inside of myself, with no fear of any repercussions. The result was quickly apparent, as whatever electrifying spell hit my slime was boosted further and promptly stored within the [Voltaic Slime].
+
+The king and queen must have realized what I was doing as they tried to disrupt the magic. It was a frightening display of power as even my own Mana aura was being oppressed, and the usually ample radius was suppressed to barely an inch away from my slimy membrane.
+
+Too bad for you two, I'm casting inside of myself. If you can't penetrate my slime, then you're out of luck!
+
+They must have quickly realized that what they were doing had no effect, as soon after they tried to escape. However, I was more than ready, and the split second the king twitched, I unleashed the storm brewing inside my slime!
+
+As if summoning judgment from a lightning god, a blinding light streaked across the ocean depths before bursting in a dazzling explosion, followed by a thunderous explosion as if the world had cracked apart. The pure raw energy on display was like a lightning god had been summoned, and nobody was safe from its wrath—well, except for me, of course!
+
+The king was swiftly executed, not even having the decency to leave behind a corpse. Not only that, but it had taken out a considerable number of mermen unfortunate enough to be caught in the tremendous area of effect. It was far more potent than I had expected, bringing a whole new meaning to "shooting fish in a barrel".
+
+Even the queen had been struck, although, unlike the others, she actually survived the aftermath, and the instant she recovered, she tried to retreat.
+
+Oh no, you don't! I still need your profile!
+
+The queen had dropped all pretense and was not even trying to disrupt the magic in the area anymore as she activated [Thunder Step] and began bolting away. It was a risky maneuver on her part, as it looked like she had no intention of trying to ground herself.
+
+I chased after her using my own [Thunder Step], and when those chains ran out, I switched to [Elemental Step]. It was a deadly game of cat and mouse, but this mouse was slippery and notably faster than I even when just swimming. I tried firing off blasts of lightning, explosive needles, harpoons, and anything else I had available.
+
+I guess [Dimension Magic] is my only option.
+
+I continued the pressure while rapidly forming the coordinates to arrive directly in her path. I would have liked to have just teleported her straight towards me, but I suspected she had a considerable amount of magic resistance, and even with [Displaced], I'd more than likely hit a wall.
+
+At least she's so focused on escaping that she's stopped using her magical disruption.
+
+This was the benefit of always keeping some cards hidden: she knew I had [Lightning Magic], but once she saw I could cast it inside myself, she knew it was a pointless endeavor. Now, I could ambush her with a timely teleport and seal the deal.
+
+Even with [Triangulate], these on-the-fly coordinate calculations still aren't the best. I hope Riftmancer has a better solution for me.
+
+I bided my time, and when I spotted an opportune moment, I struck. Using the coordinates and my almost completed [Warp] recreation, I teleported right where she was heading as a bolt of lightning.
+
+No matter how fast she was with [Thunder Step], she couldn't beat the power of literally teleporting. I'd also prepped my [Sub-Cores] to cast [Expansion] on the surrounding area, just in case she had any hidden cards of her own.
+
+Her expression upon seeing me was terror, and we sent a swarm of tendrils to seize her. She tried to swim, but when she hit the expanded area, she slowed down enough that I caught her by the tail.
+
+In an instant, she retaliated with a flurry of lightning and began frantically swinging her trident at the tendrils. She was actually strong enough to fend off a few of them, but it was an endless legion, and I was immune to half of her fighting power. If she hadn't been injured, she might have had a chance, yet she ultimately ended up engulfed in endless slime.
+
+<Profile [Mermen] updated.>
+
+Victory!
+
+But before I could celebrate and examine my spoils, there was suddenly another notification that I couldn't ignore.
+
+<Your deeds have not gone unnoticed.>
+
+Oh, what's this?
+
+<You have destroyed a major stronghold of an advanced monster species. This will impact the world.>
+
+Um… Is this a good thing or a bad thing?
+
+<Your repeated actions have left a mark on the world. You have the qualifications to unlock Legend Points. Your deeds are being judged…>
+
+Yay? Well, more points are always good, right?
+
+There was an awkward silence. Evidently, the system was still judging me.
+
+I wonder what Legend Points are used for?
+
+<Legend Points can be exchanged universally for other points. The following points are currently available to you:
+
+I gasped. This was precisely what I needed—if I could earn enough of these new points, I wouldn't have to worry too much about the horrible ten-point cost to uncap something.
+
+Still… Why do I get four points for skills, but only three for traits? Is that Gramps saying that traits are worth more?
+
+I could understand Profession Points being at a lower ratio, after all, you didn't gain them at every level. Still, seeing that skill points were more efficiently exchanged left a bitter taste in my mouth.
+
+Of course, if Legend Points were easy enough to obtain, then it wouldn't really matter that much at the end of the day. I waited with bated breath for the system to finish explaining my points, and thankfully, it pinged me shortly after.
+
+<The following deeds are worthy of a Legend Point:
+
+Wait… that's it?
+
+I was dumbfounded. Everything I'd done was only worth a measly three points? I swiftly voiced my complaints.
+
+Surely I've done many more impressive things worthy of a point or two! What about banishing the demon, or fighting the kobold hordes, or defeating that water spirit, or that mini-dragon, or anything else? I conquered three dungeons! If we want to look outside of combat, what about my magical exploration and [Skill Deconstruction]?
+
+<Warning: You have brought an advanced monster species to the brink of extinction in a particular region.
+
+You have been marked, and the last remnants of the species will seek to destroy. They will be able to sense your current location, regardless of the distance, and seek you out. Should you survive this ordeal and defeat the last remnants, you shall be awarded a Legend Point.>
+
+I wasn't sure how I felt about this. Obviously, I was thrilled about another Legend Point, but having an enemy permanently sense my location went against the subterfuge I had worked so hard to achieve. If they all threw themselves at me and it was over within a week or two, that would be good. However, if it were a prolonged process, it could be a real thorn in my side.
+
+Well, whatever… What's done is done, I'll just have to tackle it as it comes.
+
+I teleported back to Azulean and got a head start on clearing my mark by defeating any survivors. I also took the opportunity to collect anything that might be valuable, from trinkets to bricks to anything that survived the crushing of the deep ocean.
+
+During this entire process, I was already seeing the effects of this mark, as some of the mermen that had successfully retreated were swimming at me with bloodshot eyes as they were blinded by rage. They weren't a threat to me, after all, I had pretty easily killed their two royals, but it was unnerving to see them in such a frenzy and disregarding any sense of self-preservation.
+
+To cheer myself up, I looked over my updated profile first.
+
+The king and queen had been tier five monsters and were originally a prince and princess, according to the mermen's profile. Both of them had also picked up the abyssal mutation, likely before becoming king and queen, as it looked like it was a "final" mutation, just like my own.
+
+On the positive side, it looks like kings and queens don't just naturally spawn, so I've set them back dramatically. When future mermen spawn, they will have a long road ahead of them. It's no wonder I'm marked for death by them.
+
+As for the abilities of the royal mermen, honestly, I was a little disappointed as the vast majority of them were to buff their underlings, which I notably lacked.
+
+The saving grace of the profile was [Dominating Echo], which was the direct upgrade of [Disrupting Echo]. Not only did it have the far more oppressive effect, but also the sub-ability to grant servants and subjects immunity to the effect.
+
+Would Vee count? She's not really my servant, and I wouldn't want to see her that way.
+
+It was open to interpretation, and I wasn't sure how strict the wording in the description was. Considering I'd lose most of its potency by being away from the ocean, I didn't really feel it was something to add to my standard repertoire.
+
+Oh, I also have the siren update!
+
+This was where I got some answers. [Beguile] was their unique trait, and it caused the [Allured] condition, which could be progressively increased over time. It wasn't mind control, but it was potentially more insidious, as the victim wanted it to happen.
+
+Also, while it wasn't a trait, I discovered more about what this whole "pearl" thing was supposed to be by reading the profile a bit more. It was something they could only do once in their lifetime, and it was supposed to be ingested by their chosen one, forming a sort of reverse-bond between them.
+
+If not for the whole [Beguile] thing before that, I'd almost say it was kind of weirdly romantic?
+
+I shrugged, and with that behind me, I looked at the far more critical notifications—my levels and points! I skipped over most of it, only singling out the final levels I'd gained in my race and class.
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 5.>
+
+<20 Trait Points are now available.>
+
+<Class Experience threshold reached. Elementalist is now LV 31.>
+
+<15 Skill Points are now available.>
+
+I had overshot my goal of level thirty, which was slightly annoying. I would have preferred a nice round number for my level, but at least I gained another skill point out of it.
+
+I quickly changed my experience distribution to my race, maximizing it, since I wanted no further levels in Elementalist, and, with the mermen constantly coming out of the woodwork to fight me, it was a real possibility. Especially since this wasn't limited to just the mermen, even their minions were coming after me as one of those massive whales came straight for me.
+
+After defeating the whale and claiming the crystalline structure in its mouth for myself, the only thing really left was to check what I'd gained for my major Elementalist milestone. Mother had even gone out of her way to hint that I wouldn't want to miss it, so my anticipation was palpable as I looked for it among the mess of notifications.
+
+<Your class has revealed the following skill: [Chaos Elements].>
+
+What the heck is a chaos element?

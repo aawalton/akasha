@@ -1,0 +1,381 @@
+---
+id: 9c921587-edfb-5e74-9d15-6da2dbaefe80
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-ONE: Hopping II"
+slug: 0243-two-hundred-forty-one-hopping-ii
+partOf: super-supportive
+position: 243
+ownLength: 4424
+unit: words
+publishedAt: 2025-08-31
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2561685/two-hundred-forty-one-hopping-ii"
+royalRoadId: "2561685"
+---
+
+241
+
+******
+
+Elias’s Saturday Morning Show
+
+Episode #473
+
+“Alden Thorn”
+
+Clip Begins At: 3m, 15s
+
+Event Recorded: December 4, 2040
+
+******
+
+“See?” said Morrison Waker, gesturing at the folding tables that filled a tiny parking lot. On one side of the lot, a grill and a smoker were manned by a figure almost as massive as Morrison’s own Big Snake form. The man turned away from brushing sauce on a line of spatchcocked chickens to dip his hand into a five-gallon bucket behind him and grab a giant pickle from the brine. “Told you I knew a romantic spot in Apex where we wouldn’t run into any students.”
+
+“Good job on dodging the students,” said Lesedi Saleh, her tone amused as she took in the plastic lawn chair seating and the styrofoam cups in the hands of the few diners. She was still in the pantsuit she’d worn to work. “I like barbecue, too. It’s not the first food I associate with romance.”
+
+“That’s because you haven’t noticed the tablecloths. Mitch put the Valentine’s Day ones on for us. And you haven’t seen me eat brisket. I get handsomer doing it.”
+
+“Do you?” She chuckled, then stopped. “Hold on…do you actually intend to morph yourself handsomer while eating brisket?”
+
+“Oh yeah.” Morrison was heading for the smoker. “Here come the huge ears and the mullet.”
+
+[Time-lapse:  20m compressed to 5s
+
+A shared brisket platter dwindles in size until only a few shreds of coleslaw are left.]
+
+“How did your private tutoring session go this past weekend?” Lesedi asked, dropping a crumpled, greasy napkin onto a tablecloth covered in pink hearts and roses. “With Alden Thorn. You were so excited a student picked you…as if you thought none of them would.”
+
+“They see me all the time. I was afraid I was borin’ compared to the non-faculty volunteers. We do have some impressive types lined up.” He took a long drink from his cup, then chewed some of the ice. “I liked teachin’ him. But do you know anything about what he was up to the other night when the ocean decided we’d all look better decoratin’ the bottom of it?”
+
+“You mean after he was teleported away from our other students on the Span? I don’t. The timing of that teleport combined with his commendation make me sure he has the best evacuation priority. He’s most likely been assigned a personal flyer or a seat on one of the large ones. Whichever’s fastest for him. But then…he ended up in a squishboot, under the care of a healer at Matadero. I’m not clear on how that happened, and he hasn’t volunteered to share many details. Do you know?”
+
+“Mmm… ” Morrison watched the smoke rising behind her. “He asked me to help him train in a way that made me think he didn’t have an easy time of it. I’d say he’s a trouble magnet, but I don’t believe in trouble magnets. You go out of your way to help people, puttin’ yourself at risk in the process, that’s you making it happen. Not magnetism.”
+
+“You think he was injured helping people that night?”
+
+“He wasn’t totally forthcomin’.”
+
+She frowned. “I’ve noticed that about him, too. He seems honest…but not forthcoming.”
+
+“I’ve just got speculation,” said Morrison. “What I think for sure… ”
+
+Lesedi looked curious.
+
+“I think he catches his first bullet before he graduates from uni!”
+
+She threw her head back. “Not this again.”
+
+“Not one fired from some toy gun either. The real thing. He’s got a good way of lookin’ at his skill. I can tell.”
+
+“It’s still a Rabbit skill.”
+
+“And some Artonans like him. We both know that’s not nothin’.”
+
+Lesedi held a hand over their tray and phased it out. A little bit of barbecue residue she’d missed with the napkin fell through her insubstantial flesh to land with the coleslaw. “Well, I can’t argue with that. The attention of the Triplanets has its downsides, but following their gaze when it repeatedly lands on a particular Avowed isn’t a bad strategy for learning something worthwhile.”
+
+******
+
+end clip
+
+******
+
+******
+
+[Lute is so much love and danger! He is harp Romeo. And Grandma killing pirate. He needs two thoughts at once like aliens.]
+
+“Your mental texting is still magnificent, Haoyu.” Alden hung his head upside down while he misted his hair with Softly Salty. He was hoping that something more or less correct would happen to it as it dried in the wind during his upcoming nonagon ride.
+
+“Not as magnificent as whatever Lute’s doing in there,” said Haoyu. He’d come to join Alden in the bathroom a minute ago. Alden thought he was bursting with too much amusement at Lute’s expense to stay in the living room with everyone else without saying something.
+
+Alden could only imagine what it looked like in there based on the sounds of the harp and Lute’s words as he tried to have multiple critical conversations without pausing for breath.
+
+“That’s perfect, Emilija! It’s the perfect tempo. Keep plucking those two strings just like that. <<Beautiful.>> Now, you listen to me, Roman. Where is your spine? Sabotage the Grandwitch at every opportunity. Never, ever, ever surrender! You can’t tell innocent globies and stupid local Rabbits whatever she asked you to tell them. I don’t care how normal she made it sound. Repeat after me: if she wants it, it is evil. If she wants it, it is evil. If she wants it… Do you like this song, Emilija? I can play anything you like. What’s your favorite song?”
+
+This was happening because Roman Velra had been given Aulia’s annual invitation to the Rabbit Welcome event. She got one because she was a Diamond Star Employer according to a Rabbit business association that ran a program to connect new Rabbits to part-time jobs where they could practice their skills for appropriate pay in friendly, nurturing environments. And obviously Aulia couldn’t attend herself this year, since she was “protecting” Anesidora by staying onboard Libra.
+
+The Velras had a lot of homes and a lot of money, and it made perfect sense for her to butter up Rabbits for those reasons alone. It was a win-win for her to periodically give Kabir or her housekeepers and groundskeepers some eager junior Avowed to help out with the chores.
+
+Alden knew that, but he might be almost as paranoid as Lute because he was still struggling not to see this outreach toward his Avowed class as a nefarious plot Aulia had come up with to find more people like Manon Barre.
+
+Every Rabbit is a potential doorway to a new section of wizard society. Just imagine what kind of information Manon’s group could have picked up at LeafSong over the years.
+
+If Alden were a billionaire with a connection to a shady group that had an annual position at one of the most elite wizard schools…actually, he’d just be paying them to memorize every single thing the students and faculty said about magic. So that he could learn some new spells. But Aulia was probably interested in all the other stuff—which grand senator’s kid was committing crimes, who had a Submerger for sale, what the Primary’s son kept in his bedroom drawers.
+
+Laura hauled the bags and equipment for examinees. I bet she snooped through everything she could.
+
+He hoped Stuart hadn’t let her carry anything. He was so particular about how he organized his space and tucked away all the supplies he kept in his pockets and pouches. He’d feel violated if someone had pawed through it all.
+
+“Is your grandmother really that bad?” Natalie asked. Her voice was quiet compared to Lute playing an instrument, complimenting Emilija excessively, and telling Roman he’d never recover his self-respect if he lifted a finger on Aulia’s behalf. “Because Roman said she asked him to collect information from people with cooking magic…and I think going for just one or two weekends and seeing a ship’s kitchen would be fun.”
+
+“Would you bake coffeecake for the Devil just because she invited you to do it on her megayacht?” Lute demanded. “Would you?”
+
+“All right. My hair can do whatever,” said Alden, tossing the spray bottle back into the cabinet over the sink, grabbing his bag from where he’d set it by the tub curtain, and striding out with Haoyu to rejoin the others.
+
+Emilija was in the kitchen, plucking harp strings with Lute. Hadiza was on the sofa beside Natalie, flipping through one of Haoyu’s comic books. And Alden was surprised to see Roman in one of the armchairs, happily changing the infrared fireplace colors with one remote and the Bromelimas tree lights with another, trying to make them match. As if he was barely aware that Lute was in the middle of haranguing him.
+
+The first time Alden had encountered Roman at Benjamin Velra’s birthday party, he had noticed that the second youngest Velra S-rank was a fan of the Appeal points. But Roman had been making such stressful comments about Lute’s missing eye and Lute’s mother that day that he’d counteracted his own magical effect. With him sitting here quietly, it was working better.
+
+Alden caught himself smiling because Roman’s own smile seemed to be asking for a reply. And Alden had been running in here to weigh in on the topic of working for Aulia, which was no smiling matter.
+
+If this guy’s Appeal doesn’t hit as hard as Natalie’s, I think it’s because he started from behind in some areas, not because he invested significantly less of his affixation in it.
+
+Even now, Roman was wearing a retro bowling shirt, custom patterned with the lines for his favorite common wordchains. Which seemed kind of sad if you knew he’d trained his whole life for the Chainer class he didn’t get. And he’d gone overboard on a cologne that smelled like it had been crafted by someone who found industrial-strength cleaning products inspiring.
+
+“Natalie, now isn’t the best time to work for Aulia,” said Alden, resisting the urge to say something more negative since Roman was right here and might report back. “Even though she pays well.”
+
+Kabir had said she did anyway.
+
+[Submerger,] he texted Natalie. [Politics. And she gets weird about stuff. She might decide your pineapple salsa is the key to winning the next election for the Rares and Uniques seat and threaten everyone else who tries to employ you.]
+
+Natalie had been looking toward Lute, Emilija, and the harp. As Alden’s message arrived, she turned around.
+
+“I wasn’t very serious. Just wondering if she was as bad as Lute says…that’s a nice shirt! Hadiza, look what Alden’s wearing. It doesn’t even need your skill.”
+
+“I see how it is,” said Alden. “You expected Hadiza to have to work on a slob.”
+
+<<I thought you’d wear the brown hoodie,>> said Emilija.
+
+“He wears that a lot,” Hadiza agreed. “This is better.”
+
+Good. I got right.
+
+Alden had stood at his closet for a couple of minutes, trying to pick out what he should wear. And he was pretty sure he’d figured out what he could do to make the girls glad they’d come to get him. Since this night was part celebration, part orientation, and part networking extravaganza, they wanted attention from all the important people and invitations to all the coolest parties. He didn’t want those things for himself, but he had an idea of how his presence might be beneficial.
+
+The brown turtleneck with the subtle metallic threads, made to go with his Triplanets outfits, was a start. He figured it looked a little alien and a little expensive, even if nobody knew where he’d gotten it from or where he usually wore it.
+
+A little alien and a little expensive was very Rabbit.
+
+“Come on,” he said. “Our nonagon awaits.”
+
+They all stood. Haoyu had to remind Roman he couldn’t take the fireplace remote with him.
+
+“You’re so lucky, Lute!” Roman grabbed Lute in a goodbye hug. The bewildered look Lute turned on Alden in its aftermath was hard not to laugh at. “There are so many people in this dorm. The guys you live with are so cool. I’m sorry I missed Lexi. You have an antler light and a real polar bear.”
+
+[Alden:  Which of you two told him Sunny was real?]
+
+Haoyu’s completely innocent expression was his answer.
+
+“When can I come and visit again?” Roman asked. “Grandma keeps telling people I’ll find all of their important things that went missing during the accident. Most of their things are just…”
+
+He pointed down. At the seabed, Alden guessed.
+
+“Accident is a small word for what happened, Roman,” said Lute.
+
+“I bet she wouldn’t think to look for me here,” Roman said. “I can tutor you in Artonan! You’re way behind.”
+
+“Roman…” Lute huffed. Then groaned. Then rolled his eye and reached up to grab Roman’s shoulders.
+
+“STOP doing things for her. Remember when you screamed that she was a crazy, superstitious, life-destroying…” He glanced at Emilija. “…person? You were so loud you woke up the whole mansion. And she made us all run away to live on Libra where you couldn’t find us because she knows in that crusty, oozing scab she calls a heart that you were right. That was a good moment for you! You need to maintain some of that anger.”
+
+“I hate her a lot, mostly,” said Roman. “But we only have one family, and right now so much is going wrong—”
+
+“Stand up for yourself, man. Freedom! If you don’t believe me, speak to Aimi. I think she has some kind of secret wisdom she’s hiding from the rest of us. And…hear me out…maybe you should go enjoy your last year of high school at a high school. Instead of homeschooling. It’s not like you got Chainer, and I think distance would be a particularly good choice for you.”
+
+“Could I stay in this room?”
+
+“No! Get your own roommates. You can buy a polar bear with them. You’ll like it.”
+
+“I’ll come visit again tomorrow. Do you guys have video game nights? I think I would enjoy video games.”
+
+“Of course we do. Have you never played one before?” Haoyu asked. “How is that…?”
+
+“Tomorrow’s very soon,” Lute said. “Don’t come over that soon.”
+
+“But I have so much free time when I’m not finding lost possessions for people. Chainer training was thirty-two hours every week, more in the final year, and now it’s just over. Sometimes I’m jealous Miyo’s still doing it.”
+
+“How long?” Alden asked. “Was that on top of school?”
+
+<<Too long,>> Emilija said.
+
+“Much too long,” Hadiza agreed.
+
+“I cook that much a lot of weeks,” said Natalie, “but only since I got my skill. I thought you said you started Chainer practice as soon as you could talk?”
+
+“Yes. That’s correct, everyone,” Lute said. “Our family has problems. I am unable to fully escape, because I have consumed the cursed pomegranate of Chainer. However, Roman has slipped away from Aulia’s grasp and must not go back to it. Go enjoy Rabbit companionship, Roman. Have a good time not helping the person who thought Hazel having headaches made her more magical than an actual S-rank who’d been training for years.”
+
+“Have you ever…skateboarded?” asked Haoyu, frowning at Roman. “What about Brute Scouts? What about bicycles? You can ride a bicycle, can’t you?”
+
+Lute shot Haoyu a nervous look. Maybe he was afraid Roman had become too pitiful and Haoyu was thinking of adopting him, because he practically shoved his cousin to the door and out of it.
+
+When the Rabbits were finally on the nonagon and heading toward F-city, Roman leaned toward Alden and said, “Maybe I won’t recruit anybody for Grandma Aulia. Maybe I’ll just have fun.”
+
+He looks like he wants approval. From a total stranger.
+
+“I think you should have fun,” said Alden. “You’re showing up on a hn’tyon’s nonagon with the three coolest new Rabbits on Anesidora.”
+
+The girls all cheered at that. They’d been cheering a lot, hyped up by Emilija for every tiny flight milestone—higher than the highest building on Apex, leaving the coastline, passing over the ferry.
+
+“Most people must think Alden’s cooler than you three, though,” Roman told them. “Because of Matadero and how he went missing on his first summoning and how many videos there are of him with my cousin.”
+
+Figures he’d be a fan of the Hazel blow-up videos.
+
+“How do you all know each other anyway?” Alden asked.
+
+<<Dragons Above>>, Natalie and Roman said in Mandarin at the same time.
+
+At Alden’s perplexed look, Hadiza explained, “It’s a club only S-rank Rabbits are allowed inside.”
+
+“It’s really just a privacy booth with four tables in it,” said Natalie.
+
+<<So she claims!>> Emilija said.
+
+“Roman was the only other person there when I went to see what it was like. We talked for a while about the jobs he’s gotten from wizards. He gets a lot!”
+
+“People lose their belongings all the time.”
+
+“And then we met him on our way to the ferry earlier,” Natalie continued, “and when we decided to come back for you, he wanted to see where Lute lives.”
+
+Roman brightened. “Emilija, I think my cousin has a crush on you!”
+
+Hadiza and Natalie cheered. Emilija reddened.
+
+“I think she already knows,” Alden said. “I hope she knows. He keeps learning Lithuanian words.”
+
+And jumping into hot tubs with his clothes on. And trying to get her to play the harp with him.
+
+“You should go out with him,” Roman said. “He’s short and dramatic, but I think he might be telling the truth about getting a second S-rank skill at selection.”
+
+“Are you trying to help Lute or hurt him!?” Alden exclaimed. “Emilija, Lute is a trustworthy person. And…he’s funny.”
+
+“There’s a rumor Grandma promised him way more life extension treatments than anyone else has gotten, too.”
+
+“He’s smart!” said Alden. “Decent. Amazing musician. Really good at tutoring me in wordchains.”
+
+<<I can make up my own mind without help from you two!>>
+
+“I wanted to hear what else they would say,” Hadiza whispered loudly to Natalie.
+
+******
+
+******
+
+Elias’s Saturday Morning Show,
+
+Episode #473
+
+“Alden Thorn”
+
+Clip Begins At:  6m 18s
+
+Event Recorded: November  19, 2040
+
+******
+
+[A birds-eye view of an apartment building, then the camera travels down and around through an open window. Color fades to black and white to indicate the interior is being reconstructed based on known furniture purchases and the resident’s personality profile. Positioning of characters, expressions, and other details are informed by existing knowledge and audio captured from infogear one floor below on a public street.]
+
+“I want to talk to him!” the man shouted. His hair was oily and tangled. His shirt and the bare legs that stuck out from his shorts were stained with mud. “I want to talk to the person who found them and left them there.”
+
+“I did not indicate that the person was male,” said Drusi-otta. Her hands were loose at her sides and her face was calm as she watched him. On the table beside them lay two wooden boxes, each just large enough to hold the objects within—a jade hoop earring, a driver’s license from Iowa.
+
+“It better have been a little baby girl who found them!” The man shook his head. He paced away and then back. “Just leaving them there to be drowned again! Crushed. But it was Apex. Some Apex fucker left them. Someone who could have done more. Where are their bodies? What if they weren’t gone…what if…what if she wasn’t dead when they found her? How did they know for sure? Why didn’t they carry her to a healer?!”
+
+“The one who found them was certain they were no longer alive,” Drusi-otta said slowly. “Their bodies couldn’t be recovered without putting the living in danger. The area was severely flooded again only a short time later. Your lover and her father were treated with respect by the one who found them.”
+
+“I want them to tell me it was like that with their own voice, then! I want to hear it from another human. Not a wizard!”
+
+“I do not think that should happen.”
+
+“Tell him or her or whoever I want to talk to them! Tell them they need to face me and answer me!”
+
+“No.”
+
+A fist fell through the table with a crack. A jade earring leaped from its box, skidding and rolling across the floor.
+
+The man dove after it, catching it and sliding into a wall. He huddled there, holding the earring cupped in his palm, staring at it.
+
+“We were getting married,” he said in a choked voice. “Next month. Getting married at The Verne on top of Nautilus Needle. She liked fancy places. Fancy things. I don’t know what she ever saw in me.”
+
+******
+
+end clip
+
+******
+
+*******
+
+“I can’t believe they got Nautilus Needle for this on short notice!” Natalie had a squeal in her voice as they waited for an elevator in the tallest skyscraper on Anesidora. Sky Traffic Control hadn’t felt like Alden needed to park the nonagon on top of the building just for the heck of it. “You normally have to book events here a year in advance. Especially The Verne. I read about it online. This is much better than the original location.”
+
+<<That’s not difficult since the original location is now gone,>> said Emilija.
+
+The nautilus shell etched into the elevator doors lit up with specks of gold and silver when the car arrived, and when they stepped inside, the buttons for the conference hall and The Verne—the two locations for this event—were flashing.
+
+Natalie pressed the conference hall button. “Here we go!”
+
+The girls all pulled stacks of cards out of their purses, and as they did, the elevator filled with the smell of…
+
+“Chocolate chip cookies and recess,” said Alden.
+
+“Yes! Recess!” Natalie spun to point at Hadiza and Emilija. “I told you both that my elementary school playground was coming through! We’ve got ‘remember my skill’ cards, Alden. Mine hold the scent of cookies I baked. Emilija’s each have a paint chip missing from the design on the back so she can fix them before she hands them to people. And Hadiza’s are ugly, but in a way that makes them extra gorgeous when she uses her skill on them.”
+
+“You three came prepared.”
+
+“Do you want a card?” Natalie asked, holding one out.
+
+He took it so fast she blinked.
+
+<<You know you can’t eat it, don’t you? It’s paper. Not an actual cookie.>>
+
+Paper is a plant-based material. “Of course I’m not going to eat it, Emilija.”
+
+He looked up at the mirrored ceiling as he pocketed his scented card. For a moment, right before the elevator stopped, he felt very out of place.
+
+They were all so bright and pretty. Even Roman Velra in his own way.
+
+Wonder where Olget-ovekondo’s sleeping tonight. And if Emban slept at all. Stuart’s got to be unconscious; votaries have it tough.
+
+The doors opened. His interface notified him that his event map and schedule were available. Teenagers in bunny ears were everywhere, and as soon as they spilled out of the elevator, Natalie dragged Alden over to a table where the free headbands were spread out.
+
+“They still have a brown pair!” she said exuberantly. “To match your shirt.”
+
+He put it on and let her bend the wire in one of the ears until it met with her approval.
+
+“Just so I’m clear on what you guys want…” he said, looking around the huge room. Info booths for clubs, employers, and services of particular interest to Rabbits filled half of it. The other half was seating and a stage where the next speaker would be talking about essentials for your Rabbit go-bag. This was the more business side of the event, and upstairs in The Verne, the party was going on. The High Council’s Rabbit would be mingling up there until she gave the closing speech, and there would be a bunch of other important Rabbits and friends of Rabbits.
+
+“We’re down here to raid booths, give out your business cards, and get lots of free stuff,” Alden said. “And then we’re heading upstairs where we want the older Rabbits who are throwing follow-up parties over the next few weeks to give you those.”
+
+He nodded toward a girl who was running past, waving a big red envelope at her friends.
+
+<<I got invited to one tomorrow morning!>> she was shouting. <<I got invited to hop to another party!>>
+
+Natalie gasped. “That invitation. That’s for the Holly Jolly Bunny Bruncheon!”
+
+Alden stared at her. “You…can tell by the envelope?”
+
+“There are only forty invitations for that one. Neha said it was the best place to meet the guy who gets imports for all the top restaurants. He’s almost always on II.”
+
+“Got it. So our goal is to acquire as many envelopes as possible. You do understand that even if I get invited to lots of stuff, I can’t go to it all?”
+
+“They’re only invitations. You don’t have to say yes just because someone gives you one.”
+
+“And if I get the Midnight Bunny Boxing Match for tonight, or whatever there is, I’ll definitely skip. Because I’m leaving at 9:30 and going to bed.”
+
+“Are you sure?” Natalie was shaking her head. “I was gonna bet on you in the boxing match.”
+
+“You were? That changes everything.” He scanned the room. “I like my chances against other Rabbits our age.”
+
+“Anyway, yes,” said Natalie. “You’ve got the idea! Um… ”
+
+She leaned toward him, and when he returned the motion, she whispered, “When I’m busy, will you stay close to Emilija and Hadiza? We want to go to a bunch of neat places together, but…especially Emilija?”
+
+Alden smiled. “Finally. My unwanted spotlight has found its purpose.”
+
+“You don’t mind?” she asked.
+
+He leaned closer. “Bet you a thousand argold I can get Emilija more invitations than you can.”
+
+Natalie scoffed. “No you can’t.”
+
+“Take the bet.”
+
+“I’m not going to lose.”
+
+“So you accept?”
+
+“Of course I do! But if I somehow lose, will you accept payment in—”
+
+“Mexican food and cinnamon rolls. Deal.”
+
+“You must have a bottomless pit in your stomach.”
+
+“I’ve been inhaling a potion that has an appetite-increasing side effect for two days straight. I really might eat your new business cards if you don’t guard them.”
+
+******

@@ -1,0 +1,313 @@
+---
+id: c4e55e99-72c9-516b-b696-038073df02c0
+page-type-slug: story-chapter-royal-road
+title: "SIXTY-SIX: Pinball"
+slug: 0067-sixty-six-pinball
+partOf: super-supportive
+position: 67
+ownLength: 3837
+unit: words
+publishedAt: 2023-08-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1316633/sixty-six-pinball"
+royalRoadId: "1316633"
+---
+
+On his fourth night in the intake dorms, Alden’s eyes snapped open at 3 AM. He barely resisted the urge to scream and throw his comfortable pillow across the room like an angry child.
+
+He was tired. But not tired enough to ignore it anymore.
+
+He was beginning to see that this was going to be a chronic problem, not something that he could just shake off. He felt almost as bad as he had the first day, only now his brain was slightly less busy with the ten thousand things it had been juggling since he came back home. And it had enough bandwidth to dig and dig at the one thing he was desperately trying to ignore.
+
+He reached up to touch the auriad around his neck. He couldn’t use it right now. He couldn’t even bring himself to try, in the same way he couldn’t bring himself to press his hand against a hot stove without some dire need driving him. But he still liked the thing so much.
+
+“I think it’s a little alien of me,” he said to the ceiling.
+
+He pulled up the System page that showed his leave. He had around eight months completely off. Six for mental health time. Two for other reasons. It really said that—other reasons.
+
+The therapist had asked Alden about it, and he’d told her he had no idea.
+
+She’d shrugged it off as some Artonan oddity.
+
+Alden guessed it was. Needing recovery time from getting an upgrade wasn’t going to make sense to another human. He was hoping for a steady improvement over the course of the two-month timeframe, and not this same low-level existential torture for the whole period followed by a sudden moment of acceptance.
+
+Hey. Maybe acceptance was the key.
+
+“I accept you,” he said dramatically to his own bound power. “I accept you in all your mutilated glory. We can do really cool shit together. Probably. If we could just calm down and stop feeling so confined and re-arranged and upset about it, maybe we could focus on the positives.”
+
+It didn’t help.
+
+Whatever.
+
+He had like a billion messages to answer anyway. He propped himself up on his pillows and set the television to stream global music videos. He ran through emails and voicemails one after the other, trying to figure out how to arrange his contact priorities with the System in exactly the right way so that he got all the important stuff and everything else got dumped into the “Deal With it Eventually” file.
+
+Connie, Boe, Jeremy, and Kibby were his high priority personals.
+
+Cly Zhao, too, since she’d asked. He sent her a message thanking her for whatever she’d done to smooth out his return. The security people being pre-informed that he was coming in did seem to have helped a little, and getting to spend a day and a half with Connie without figuring out the paperwork himself first was great.
+
+She’d also sent him an unexpected email about the Manon situation.
+
+Apparently Jeremy and Boe had told her about that in case the other Rabbit had done something to him and was the reason he was missing. She explained that she hadn’t had anyone look into Manon because it wasn’t something that could be done legally unless Alden officially told the Anesidoran authorities himself that he’d seen or felt her using some form of mind control.
+
+She also indicated that while many people might believe him, he would have to provide convincing proof of some kind for actual action to be taken.
+
+“People are panicky about Sways,” she wrote. “So they’ll take you seriously. But at the same time, people are panicky about Sways, so someone basically has to commit a crime in full view of the public before the authorities can legally force them to undergo survey by a reader type.”
+
+She added that she really didn’t advise him to have his own mind read in an attempt to provide proof of a subtle event that had happened half a year before.
+
+As if that was something Alden might actually be thinking of trying.
+
+I guess I’ll figure out what, if anything, I want to do on my own.
+
+The whole idea of taking a swing at that particular hornet nest left him feeling exhausted. Maybe Thwart Hog had been right months ago, and not everything was his problem to solve. He could always just tell Manon’s boater that she was manipulating them with her skill and let them save themselves. They were adults. They weren’t stupid. They knew how to ask a Sway or a Mind Healer for help, too, didn’t they?
+
+He looked back at his high priority category. Official messages from his new home country went there, too. Not because Alden had to keep them there, though. The System would let him dump them just like they were from total randos. But they’d sent half a dozen Welcome to the Island text and voice messages that basically all started with different versions of, DO NOT DUMP US IN THE PILE WITH THE TOTAL RANDOS!!
+
+I am such a good citizen, he thought as he read through one of his welcome packets.
+
+It was actually all important information. There was an entire America-to-Anesidora legal guide to help him get used to differences in the laws. He had to give it permission to show him pop-ups if he was about to do something forbidden, but it didn’t seem like it would be too much of a problem.
+
+Anesidora was less restrictive in some ways and more in others, but it was mostly pretty common sense when you thought about the reasons for it. Speech was free, but you couldn’t have a protest or large assembly in a public space without permits. Because those spaces were more limited in number here, and a small but significant percentage of the population were dangerous and difficult to handle if tempers flared.
+
+Power use was as legal as it could reasonably be in most places. Basically if you weren’t hurting and/or inconveniencing people or destroying things, you could do it. There was a sliding scale of tolerance for mishaps. The more powerful you were, the less leeway you had in F-city.
+
+And there were a couple of districts where even a whiff of potentially offensive spell or skill use would land you in jail for a decade or more…assuming a summons didn’t bust you out before you’d served your time. Those were the family-friendly areas—big residential zones that also held the elementary and middle schools for the island-born kids.
+
+Those were supposed to be totally safe spaces, and when Alden looked it up out of curiosity, he saw that those neighborhoods were some of the most expensive to live in on the whole island.
+
+Gambling was legal. There was a long list of genetic modifications that were, too. Designer babies were still controversial and illegal in much of the world, but here on Anesidora they were so common that they might outnumber purely organic births in the next couple of decades.
+
+Most of the adults here were already modified from the human norm. So there wasn’t much popular support for the argument that creating smarter, stronger children through science was unethical.
+
+Alcohol was illegal. Very illegal.
+
+Nobody wanted drunk people knocking the tops off skyscrapers.
+
+The list of drugs that were illegal was extremely long, too. Unsurprisingly, the bulk of names on it were unrecognizable Artonan words. Alden’s experience must not have been unique. Wizards really did like doling out pills, shots, and potions, and the island was engaged in a constant struggle to make people hand the things over when they returned home.
+
+Voluntarily doing so was your duty. Also, they would reimburse you. Please, don’t feed other people whatever the Artonans have been feeding you while you’ve been away.
+
+Alden opened the top drawer of his nightstand and glanced at the contents.
+
+He still had his chaos-damaged ryeh-b’t model, his lucky wizard’s foot encased in putty, and one piece of sensory sharing gum. He’d honestly just forgotten the gum was sitting in one of the lab coat’s inner pockets for ages. Of course he hadn’t even considered eating a party drug of unknown quality while he was on Moon Thegund. He wondered if the chaos had damaged them or if they’d been bad for humans to start with, because Rrorro had thrown them all away except for the one piece.
+
+Jel-nor’s. Of course.
+
+His eyes fell on the putty, and he added Stu-art’h to his priority contacts list, too. He had told the Primary’s son to call for internet guidance after all.
+
+He had a single, uncomfortably warm letter from Aulia Velra herself welcoming him to Anesidora, telling him she was ever so happy to know he’d survived his dreadful ordeal, and letting him know that she would be delighted to make his acquaintance sometime now that they were neighbors.
+
+It was inoffensive. But too friendly. And how did she already know he was here now, anyway?
+
+He wanted to say nothing. But he decided that completely ignoring the offer of advice and friendship from someone who’d given you five million dollars was probably more noteworthy than responding to it. And he was trying to be un-noteworthy.
+
+What’s the most boring thing I could write back? he asked himself.
+
+He went with a short, professional email that basically said, “Thank you. I’ll let you know if I need help, but for now, I’m just enjoying a quiet life in intake.”
+
+Feeling organized, more informed, and successful, Alden checked the time…and he groaned when he realized he’d only been working for a little over an hour.
+
+What was he supposed to do with himself at four o’clock in the morning?
+
+In the end, he got out of bed and went to play with the pinball machine.
+
+He’d barely touched one until this week, but he’d completely crushed his aunt at it before she headed back home. Along with fourteen of the fifteen people on the high scores board. He now had abnormally fast hands in addition to the slightly enhanced visual processing. Pinball was his game.
+
+Feels pretty great.
+
+Enjoying the small stat enhancements he’d received, at least, came with no additional pain. He’d need to ask her why that was if they met again. He thought the most likely explanation was that the pain was there, but the stats were a passively engaged part of the affixation, rather than something that had to be actively used. So there was no change in output or increase in suffering for him to detect.
+
+Or maybe it was something weirder, like how Gorgon’s people had destroyed authority to create an effect. Maybe it had been turned into something like an enchantment that coated Alden’s being. Maybe it was just gone, and Alden had faster fingers in its place.
+
+I don’t think that last one’s right.
+
+He chased down the high scorer while he considered a final possible addition to his high priority list. It was a strange one. He thought it was maybe even a little crazy.
+
+But he wanted to.
+
+So.
+
+He took the auriad from around his neck and switched it to a spot high up on his left arm. It still had its obliging habit of sticking a little bit where he wanted it to, so it stayed in place well enough. And it was fully covered by the sleeve of the t-shirt he was wearing.
+
+He preferred it around his neck and wrists, but it had a tendency to peek out of collars that weren’t high enough and sleeves that weren’t long enough. He either needed to start wearing turtlenecks on the regular like some kind of wizard fanboy or come up with another comfortable way to conceal it.
+
+This would do for now.
+
+“Call Worli Ro-den. Video or audio is fine.”
+
+********
+
+The call connected. Joe had picked audio.
+
+The professor had a preference for no video. Alden had made note of it previously. He wondered if it was because Joe was used to talking to people from locations where he had sketchy stuff going on.
+
+There was a long silence before either of them spoke.
+
+Finally, Joe broke it. “Do you know what time it is here?”
+
+“I don’t,” said Alden, sending one of the silver balls shooting toward a ramp. “I assumed you wouldn’t answer if you didn’t want to. Hello from Earth.”
+
+“Your Artonan is quite good now.”
+
+“I had a lot of time to practice.”
+
+Another long pause.
+
+“What did you call for?”
+
+“How do I send space mail to the Quaternary? Because I asked the System, and it was unhelpful.”
+
+“Space mail. To the Quaternary.”
+
+“Yes. However it is you guys communicate to your ships when you can’t use a Contract. Is it just radio? Magic radio? Interstellar pigeons?”
+
+“I would be willing to bet what little funding I have left on you being the first person in history to combine the Artonan word for interstellar with the word pigeons.”
+
+“So that is how it happens. I knew it.”
+
+“It may shock you to know that I do not have permission to send messages to the Quaternary. Through pigeons or any other means. So I’m afraid I can’t help you with that.”
+
+Alden considered it. That wasn’t surprising really. She probably had a super limited list of people who were allowed to bother her in the first place, and it no doubt got cut even shorter when she was somewhere so difficult to reach.
+
+“Okay. That makes sense. I’ll figure something else out.”
+
+“Why do you want to get a message to her?” Joe said slowly.
+
+“I don’t. I just want to talk to Kibby. Kivb-ee. They’re together.”
+
+“I had heard that the two of you were rescued together. But I very much doubt the Quaternary is keeping a small child with her while she works in a corruption field. ”
+
+“I’m pretty sure that’s exactly what she’s doing,” said Alden. “Because I asked her if Kibby could stay with her ground team. And she promised me. And she seems like the kind of person who does what she says she will.”
+
+When Joe didn’t answer, he added, “She also said I could contact her. But we never actually discussed the details of how I would do that.”
+
+Because they’d both thought it was just polite words for a dead boy.
+
+“Anyway, if you hear from Kibby before I manage to get in touch with her on my own, please ask how I can send messages.”
+
+“Should I expect to hear from her?” he asked in a surprised tone.
+
+“Mmm…I’d give it a 50/50 chance. Kibby really wanted to talk to you. But Knight Alis-art’h wants to bury you. So, I think it depends on which one of them wins the battle of wills.”
+
+Joe’s tattooed face suddenly appeared in front of Alden’s eyes. He was so startled he missed the ball.
+
+“My high score!”
+
+“What do you mean ‘Knight Alis-art’h wants to bury you’?” the professor said, looking alarmed. “What did I do to offend her?”
+
+“She seems to be under the impression that you’re one of those bad wizards who takes advantage of innocent young Avowed. I don’t know why she’d think that.”
+
+Joe looked like a man who’d just seen the executioner stalking towards him.
+
+“Uh…” said Alden. “I’m teasing. At least a little. I told her I knew the mission to Moon Thegund was dangerous. And that I didn’t feel like you’d treated me unfairly. ”
+
+“You did?” He sounded startled.
+
+“I did…”
+
+“Why are you hesitating?”
+
+“It’s just that I told her that while we thought I was dying. And I was sitting there with your contract tattoo on my chest being forced to talk about berry picking when we both knew it was lies. And even though I was clear on the fact that I don’t blame you for anything, I think it probably didn’t go very far with her.”
+
+“I see.” He closed his eyes. “How many things do you think can go wrong in one man’s life over the course of just a couple of years?”
+
+“Don’t know,” said Alden, starting up another game. “It’s all been ryeh-b’ts and rainbows for me lately.”
+
+Joe looked at him. In the image provided by the System, he didn’t have on his smart monocle. He didn’t seem quite right without it.
+
+“I didn’t know you’d been injured that badly,” he said. “Well..naturally I assumed you were dead after the first few weeks. And then I heard you’d been rescued along with Kivb-ee, shortly after the lab exploded. I haven’t had more information than that.”
+
+“It was demons,” Alden said promptly. “That was what destroyed the lab. We saw a big one, so we ran away. It must have gotten into some of your sciency stuff and…boom.”
+
+“…you know everyone thinks I blew it up,” Joe said in a dry tone. “Which is really quite a serious matter, since it looks like I arranged it all ages ago in order to murder the team working for the new owners when they took residence.”
+
+“I will swear on my life before the Grand Senate that it was a demon, Joe,” Alden said.
+
+“That’s noble of you.”
+
+“A big demon.”
+
+“Oh, she’s not that big.”
+
+“I didn’t know demons could be female, but sure. If you say so.”
+
+Joe sighed. “I didn’t expect you to call.”
+
+Alden stared at the blinking lights on the machine. “I don’t think you made a bad gamble. If just a few things had gone a little bit differently, we could have gotten them all out. I don’t really know how Artonans weigh it…one Avowed vs. however many regular people. But I think you’d have been stupid not to ask me to go. The corruption event could have broken the System a month later than it did. Or a day. Or a minute. I was that close to teleporting back to the university with Kibby and her sister. Sometimes everything just goes wrong.”
+
+“Indeed,” Joe said quietly. He cleared his throat. “I take it you’re well, then? Since you seem to be moving around and making lots of strange noises.”
+
+“It’s a pinball machine.”
+
+“I have no clue what that is.”
+
+“Human magic. I’m fine now. I just almost blew my affixation.”
+
+Joe shuddered.
+
+Funny, thought Alden. I might not have had any idea why he was doing that if I was normal.
+
+“Knight Alis-art’h took care of me for a while, and then I guess Artona I must have patched me up.”
+
+“You guess?”
+
+“Well it’s not like I can feel much of a difference,” he lied. “But I’m still here, aren’t I?”
+
+“That would be a good indicator that you’d been patched up.”
+
+“On a less serious note,” said Alden, “your lab coat was the freaking best. It took demon grasshopper strikes like it was designed for it. Why didn’t you put that feature in the advertisement?”
+
+“As someone once told me, no Rabbit wants a coat designed for work in a bomb lab. I doubt a coat designed for a chaos-research lab would sound more appealing.”
+
+“I’m probably going to buy another one. When I’m off leave in a few months. For sentimental reasons.”
+
+“Please do. As one of the designers, I get a small commission. I could really use the funds right now.”
+
+Alden grinned.
+
+Then his smile dropped as he remembered something. “I was supposed to give you a message. From Thenn-ar. She helped me so much when everything first went wrong. We probably wouldn’t even have survived without her advice.”
+
+Joe went still.
+
+“I wish I could remember the words for you,” Alden said. “And for her. But it was in Artonan. The System was already down, and I wasn’t in the best frame of mind. I couldn’t hold the syllables in my head, and I can’t remember the sound of them now no matter how hard I try.”
+
+“Ah well,” Joe said in a rough voice. “That is understandable.”
+
+“Whatever she said sounded very caring,” Alden offered. “She called you Ro. And she was smiling.”
+
+“She…was a very caring person. Thank you, Alden. Passing on the sentiment was enough.”
+
+He hung up suddenly.
+
+Alden thought about it for just a second longer and then added him to the priority contacts.
+
+He glanced down the short list of names.
+
+Stu-art’h would know how to call his aunt.
+
+It was a little more awkward there. After some reflection, Alden felt uncomfortable about the fact that he’d gone to visit the Primary’s son because she had suggested that he should. And even offered a bribe.
+
+It wasn’t the only reason. He could have gotten the reward just by dealing with anyone in the house. But still…
+
+Stuart had been very different and much lonelier than he’d ever expected. He’d gone out of his way to mourn Alden’s death even though they’d only spoken a few words to each other. And he had even helped him leave the house without agreeing to the family privacy contract, after confessing that he’d had hallucinations as a child.
+
+That seemed like exactly the sort of damaging and deeply personal information such a contract should cover.
+
+Alden didn’t think the Artonan boy was a pushover who would say yes to any request he made. He couldn’t be, or some of those snakes at LeafSong would have eaten him alive by now.
+
+But he was still disinclined to make a request of any kind until their new acquaintanceship felt more balanced.
+
+“Well, I’ll just balance it then.”
+
+Stuart had said he wanted to learn about human culture. Since Alden was an insomniac now, he would spend part of his sleepless hours finding interesting human things and sharing them. Wholesome interesting things. Ones that wouldn’t make Stuart think Earth was a horrible place that needed to be destroyed. Because he seemed to be aiming for the kind of position that might give him some say in matters like that.
+
+When Jeremy called to say good morning half an hour later, Alden was browsing the internet through his System interface and drinking a coconut milk latte. It turned out he could figure out how to work a coffee machine if he just had his aunt around to help him.
+
+“If you were going to share human internet stuff with a smart, nice, but socially awkward Artonan guy who might one day be powerful enough to smite our species, what would you choose?”
+
+Jeremy paused in the act of stuffing a textbook into his backpack. “You know, our conversation topics have expanded in some strange directions since you became an Avowed.”
+
+“Right?”
+
+“Videos of marching bands,” said Jeremy. “They’re cool. You can’t smite a planet that has so many kickass marching bands on it.”
+
+“Oh, that’s right. Your sister’s a band geek. Good job. I’ll add it to the list. Between hang gliders and pandas.”

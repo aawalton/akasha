@@ -1,0 +1,395 @@
+---
+id: fefacfb7-947a-51bd-adf6-ba182097bdaa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106: Making an entrance (examination)"
+slug: 0025-chapter-106-making-an-entrance-examination
+partOf: the-calamitous-bob-stubbed
+position: 25
+ownLength: 5829
+unit: words
+ownProgress: 5829
+publishedAt: 2023-02-17
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1116061/chapter-106-making-an-entrance-examination"
+royalRoadId: "1116061"
+markedReadAt: "2026-06-29T21:15:33.569Z"
+---
+
+Riding a buggy was less a novel experience and more a return to roots, so to speak. There had been a time she had loved being drawn in a carriage. The first time it had been during a warm summer. The fair had smelled of horse and lavender. She had been holding her brother in her arms.
+
+Viv pushed back the feeling of nostalgia and grabbed Sidjin’s hand, lightly this time.
+
+“Sorry about the temple,” she said.
+
+“We’ll get a better chance at the Academy’s medical faculty, not to mention assistance in perfecting the spell. They will have easier access to monster meat,” her boyfriend replied without much anguish.
+
+The temple of Sardanal, god of prosperity, had been eager to help heal Sidjin, especially with the promise of an intact circle. Unfortunately, they needed magical meat, and Viv had simply not anticipated how precious and expensive it was here. She was starting to suspect Sidjin had spent a significant amount at the restaurant.
+
+She should not have been surprised.
+
+Monster meat was prized not just for its bolstering effect, but also because it was proven to improve the chance of giving birth to a caster, especially if consumed during the late term of a pregnancy. Between the status of mages in Helock and the lack of monsters around one of Param’s largest cities, demand far outstripped supply. The temples were not so rich that they could indulge, and so they didn’t even have a supply chain for this precious commodity. Sidjin had given up rather than wait and pay a ridiculous price.
+
+Viv had still drawn the circle to allow the priests to study it, because she was committed. She believed it had gotten her brownie points. Brownie points with a major religion was a good thing.
+
+Nevertheless, the delay frustrated her more than it frustrated Sidjin, apparently.
+
+She highly suspected he was going to wait until the spell was perfect to try and recover his original dick. What a lad.
+
+Viv smiled as they returned to the hotel they had booked. Arthur was fine with spending the next day alone. She had grown less concerned about Viv’s safety over the past few weeks because nothing had happened and she was still a child with the corresponding attention span. A bit of flying over the ocean was just what she wanted, since it was, apparently, the biggest lake she’d ever seen.
+
+Viv still asked her not to try and cross it.
+
+The next morning, Sidjin accompanied Viv once more, stopping at the gate of the Academy with a group of stressed parents pretending very hard not to be nervous. Viv joined a gathering of young adults, trying her best not to notice she appeared closer in age to the people left outside. A few people eyed her with curiosity, but it was as Darla had said. Free candidates were not too unusual.
+
+They were led to the administrative building by a secretary in basic robes. The man would act as a proctor as well, and he distributed a few sheets to Viv and her seven companions after they settled in an exam room. The outlander filled the header and prepared for the written part of the exam. Even though it would be less impactful for her as an instinctive caster, she could not completely dismiss the contagious atmosphere of anxiety.
+
+As soon as everyone was set, they started. The first set of questions related to runes and the use of runes, and Viv mostly coasted those. All the runes were basic, fundamental aspects of more complex constructs such as ‘condition’, ‘trigger’, ‘length’, and others that were absolutely essential to complex casting. She had learned those under the direction of Solfis. She only failed to precisely identify two runes used in linking casters together for advanced collaborative spells, which was fine. She tanked the theoretical magic aspect of the exam but that was expected as they were questions aimed towards mages. As a witch herself, she would have results weighed more in favor of the practical aspect of the trial. She still managed to answer one question in three with confidence thanks to Sidjin’s coaching and winged the rest. Some of the theorems were interesting anyway, like the relationship between a spell’s range and its energy consumption. That gave her an idea about how far mages could throw their stuff. You had to know your enemy and yourself to win a thousand battles, etc.
+
+The history and ethics questions were also a breeze because her seldom used polymath skill kicked in, letting her bullshit her way to the illusion of brilliance. She even managed to write the requested essay in a way that would support Helock’s ethical doctrine while being original enough to prove she put some effort into her ass-kissing. Most of what Helock believed was: do not act like a twit just because you can kill people with a finger twitch, and she approved of it anyway.
+
+Even though the final etiquette test was ‘free form’, Viv remained confident. She merely needed to show she wasn’t a complete moron.
+
+They finished shortly before lunch time.
+
+Out of the seven students, six knew each other. They gathered in a clump to whisper excitedly about the answers they’d picked, apparently a custom that transcended time and space to affect all people. The last attendee was a free candidate like Viv and, from his lost expression, it was clear he wasn’t looking for company. Viv retired to the entrance to eat her meal on the lawn outside the administrative building, in Sidjin’s company.
+
+“I found out some more about the portal research,” the man said. “I am reasonably sure a certain magister Sterek is in charge. He is the only one with the knowledge currently busy on a confidential project. The issue is his sponsor. Elemental Archmage Elunath. He is the most powerful caster of Helock right now.”
+
+“Would he oppose your reclamation?”
+
+“I wouldn’t know. He is a secretive mage who lives in the city center. He does not involve himself with Academy business, preferring to conduct his own research with the help of competent assistants, or so I heard. I will have to negotiate with him.”
+
+“I suppose that legality matters little in the face of power even here?”
+
+“When it comes to elemental archmages, legality might as well not exist.”
+
+“When I become one, you can be my lawyer. If that helps.”
+
+“Thank you. I feel flattered,” Sidjin deadpanned.
+
+Viv spent an hour relaxing in pleasant company, only hoping Arthur was fine. She also wondered about Harrak and her companions, though they should be fine without her around acting as a trouble magnet.
+
+The afternoon tests were individual. A pair of professors welcomed her at the lobby where the other prospective students were waiting. One of the most effeminate men she had ever met greeted her with a delicate handshake, his skin hinting at a Viziman heritage. He had such a tight control over his mana, she only realized he was a red mage after their skins touched. His second flanked him in silence and barely offered a syllable when introduced. She boasted a rare pixie cut so clean she might have just walked out of the stylist. She was also pale and quite short. Both of them wore the embroidered midnight blue robes she had seen on the education staff. Viv wasn’t sure, but she thought the woman had powerful black mana as well.
+
+They walked her to a small stone building in the garden, mostly deserted now that classes had resumed. It reminded Viv of a hybrid between a gym and a cathedral. The man acted rather friendly in general, which helped relax her. He was the one who guided her through the exercises while his second took notes.
+
+“First, we will ask you to demonstrate your mastery of the fundamentals of magic. To begin with, please reproduce the forms I will show you using free mana.”
+
+The game was one Viv did to relax anyway, and she managed to recreate all of the shapes the man made including the most tortuous ones. Her only mistake came from a small difference in visualization, and she fixed it immediately when the professor pointed it out. He expressed his satisfaction and requested her to replenish her reserves. Viv used meditative trance for twenty seconds before admitting she was full.
+
+“Would it be a problem?” she asked.
+
+“No, quite the contrary. This trial is over,” the man declared with a comforting style. “Now we will test your perception.”
+
+The exercises started lightly. She had to recognize different types of mana in spells or emitted by the teacher. As expected, the woman had a powerful black aspect, though it came second to brown mana. The man favored red and gray. They all had access to basic forms of every color, including life. After Viv demonstrated her mastery, they asked her to turn around and do the same blind, which Sidjin never mentioned. Nevertheless, it wasn’t much of an issue. In fact, she was having fun. That test ended too soon.
+
+“I believe we can safely move on from the fundamentals and see your spellcasting. Would you mind starting with black mana?”
+
+For this part of the trial, the proctors gave the prospective student a chance to display their prowess. Viv decided to show her understanding of the ‘change meaning’ through the creation of eldritch walls. The examiner led her to the back wall, where enchantments in the foundations and the back allowed damage while preventing it from reaching too deep. He assured her that an earth mage would repair the floor afterward and so she raised a few fortifications. Then came the easy peasy sneaky cloaky, which she then charged with the meaning of annihilation. The woman, in particular, showed clear interest in the shape of the armor and grabbed a stick to test its resilience. The sticks did not survive the experience, much to her silent approval. Viv demonstrated a purge net which she cast without stopping for half a minute, reducing an entire wall to shreds. An attempt at an artillery spell was quickly aborted when the proctor interrupted her.
+
+“That will be quite enough, thank you. Black mana tends to linger. I wouldn’t want my esteemed colleague to spend too much time repairing the place.”
+
+During the entire process, the man had remained pleasant and cordial while the woman took notes with a serious expression. Viv believed she was doing fine, but could not be sure as they abstained from reacting.
+
+“Would you like to demonstrate some colorless magic?”
+
+Viv was ready. She first rebuilt her lamp, then started a fire. The pair tested her sound enchantments extensively. Finally, she levitated a couple of ball bearings around.
+
+“This concludes this part of the exam. I notice you did not apply for enchantment or medical electives, though you have shown a certain ability with both. Is there a specific reason for that?”
+
+“For the medical aspect of magic, I cannot manipulate life mana to any meaningful degree, so magical healing will remain beyond me.”
+
+The woman nodded while the man tapped his thick lips pensively.
+
+“Hmm, I suppose, though I must warn you that old Tod will certainly want a word with you.”
+
+“That’s quite fine,” Viv thought, and appreciated that he considered her success as a given. “As for enchantment, I’d like to get used to the workload before I pick too many electives. I will have a lot on my plate.”
+
+“Understood, but do consider applying because there are tricks and shortcuts only a master such as myself could teach. You should not settle merely for adequate.”
+
+“If only I could duplicate myself,” Viv jokingly replied.
+
+“I will be looking forward to this magical achievement,” the man deadpanned. “Now, onto the electives. The first is military doctrine, and I fear we must return to theory.
+
+He took out a sheet of paper from one of his sleeves and sat down on a nearby chair. The next questions left Viv a bit discomforted. While she had experienced war herself, she had never been part of a coherent battle mage formation, and it showed. Even polymath could only carry her so far. The examiner frowned for the first time since the trial began, until the woman stepped up to him and whispered in his ears. He nodded once and shifted his method to asking her how she would react in specific scenarios. It gave her more leeway.
+
+“You are marching down a road in the middle of the forest when suddenly, the enemy appears in front of you and launches a large cavalry charge. What do you do?”
+
+“Raise walls, retreat into the forest, then form a square.”
+
+The man took rigorous notes. Viv understood what he was doing. She was pretty sure she was in, but in order to be accepted in her elective, she had to demonstrate a basic understanding. The person in charge of the class probably had the last word when it came to accepting students, so the examiner was giving her an opportunity to shine. She suspected being an instinctive caster might not help in this instance.
+
+“Right, onto magical dueling then! It is one of the most popular electives, and it has only one real prerequisite, though you didn’t hear it from me. Let’s see your shield.”
+
+“Hive.”
+
+The hexagonal and slightly futuristic construct instantly rose around Viv. The man cast a few quick javelins that stopped on the plates without much effect. His next spell covered Viv completely until all she could see beyond the dark plates was fire.
+
+“I will be using a concept, but rest assured I will stop if it looks like the shield will break,” the man added.
+
+Paranoia needled Viv, but she nodded.
+
+“Good. In three, two, one…”
+
+Viv infused the concept of annihilation into her shield and felt it clash against another, all-devouring one coming from the professor. Fire pressed upon her, so intense she felt the ghost of its warmth through the plates. A small headache birthed between her eyes, then suddenly the spell stopped. The woman furiously wrote in her book while the man smiled wildly.
+
+“Impressive, I admit. There is one last test I’d like to conduct, then we can stop for today, I believe. Would you care to follow me?”
+
+“Sure.”
+
+The trio left the practice hall behind, a little worse for wear. They walked through the extensive gardens along paved paths. Viv noted that parts of the park were well-tended and kept for recreational purposes, while others were obviously wilder, deeper into the complex. The fortified and enchanted walls had to extend for litteral kilometers of well-protected fortifications at the center of a city where real estate was at a premium. The power wielded by the Academy defied her expectations. The Academy was not the center of Helock. Helock existed to serve the Academy.
+
+They walked by a dormitory in front of which a group of older students were conferring. Their dark teal robes displayed ribbons of unknown function, while colors adorned their sleeves. They warmly greeted the two teachers and nodded at Viv with the smug smiles of those who have already proven themselves. Viv’s confidence took a hit when she realized even the near-graduates were younger than her. Eventually, they reached a clearing suspiciously devoid of grass, the naked ground glassy in parts. In the center of the clearing, a stone stood. Strange engravings covered its otherwise pristine surface in sharp contrast with the rest of the clearing, which looked like it had survived two world wars and a rave. Looking at it for too long made her lose her balance. She unwisely decided to inspect it.
+
+[Nous-blessed stone: this obelisk boasts a powerful magic-canceling effect. It serves as a target for powerful offensive magic due to its extraordinary resilience.]
+
+“Neat. Nous left it here? I thought he was, you know, dead?”
+
+“His influence remains all around, including in the interface. Why not a stone as well?” the professor casually replied. “In any case, let us see your artillery, if you do not mind. Here, you can use this.”
+
+Viv knew Nous was still sort of conscious, but all thoughts about how conscious exactly evaporated when she took what the man had handled her. It resembled a gourd with a faucet near its neck, but was quite heavy and filled with what felt like sand. Very potent sand. Some of it resonated with her faintly in a way that reminded her of her dagger focus.
+
+“Wait. It’s not silverite, is it?”
+
+“Not quite. You hold finely ground ore that used to surround a silverite vein. Although the material is vulgar, it has kept some of the silverite’s properties. You can use a trickle of it to form a circle, if you wish…”
+
+Viv was reasonably sure there was at least a percent of actual silverite mixed in all of this. It would be a nice help.
+
+Without waiting, Viv recreated the circle she had used during the ambush of Prince Lancer’s forces. It took her a bit more time than she expected since she had to dig furrows into the mana-saturated, glassified ground. Thankfully, black mana was uniquely penetrative, and she managed. When she was done, she poured dust into the grooves and prepared to cast.
+
+The value of that support circle was not in the power of the spell, but rather the frequency with which she could draw on her reserves to cast them. Blast after blast smashed against the obelisk in oppressive silence. Viv missed the telltale hiss of someone having a bad day since the obelisk merely shed off her spell with no damage. Despite her lack of results, the examiner seemed reasonably pleased.
+
+“Good, good, very good. I shiver to ask, but is that your most destructive spell?”
+
+“No,” Viv replied. She walked and erased a few glyphs, soon replacing them with others. Then she walked back and cast again.
+
+“Blight.”
+
+The cloud of destruction hissed, leaving pits and holes in the already ravaged grounds. Viv turned and hesitated, but she was genuinely curious now, and suspected the professor would not let her keep the dust. It was probably also devilishly expensive.
+
+“There is another, but I’m not sure since the range is quite short.”
+
+“Let’s see it then,” the examiner replied with measured enthusiasm.
+
+Viv stepped forth and set up near the monolith. She tried her best not to look at the strange structure, yet it kept catching her gaze. The monolith occupied more room than its humble dimensions showed, she thought, and that was intriguing, but more intriguing in a scholarly kind of way because it made her brain hurt and she had a busy schedule and no time to play with any more godly bullshit. She only had one spell that might possibly affect it. It was Excalibur. Excalibur was by nature a stupid spell. First, Excalibur was the blade of King Arthur and King Arthur was English so that was already a failure on her part as a French woman. She should have called it Durandal. Second, it was a close quarter spell and close quarter casters were normally dead casters. On Nyil, magic changed people. It changed soldiers’ and monsters’ bodies until they were equal to some earth’s pagan gods, she judged. A caster had no business getting close at all because magic changed them in a different way, specifically a way that would get them pasted when in close proximity to pagan gods. Therefore, it was a stupid spell.
+
+A last resort spell.
+
+It was also a spell that could reliably kill aberrations in one hit.
+
+And Viv had acuity reflexes, a skill that let her follow the speed of close-quarter fighters in mind if not in body.
+
+Nevertheless, it was a stupid spell but it was effective, and Viv thought the time had come to do some limit testing. Who knew? Maybe one day she would have to peel something open like a reluctant tuna can, and Excalibur certainly had the peeling part down pat.
+
+Viv drilled in the basaltic surface of the clearing, adding runes for stability, duration, and focus. She had never cast Excalibur as a ritual before. She felt a bit like a bank robber preparing to drill into a safe, only the safe was a godly artifact.
+
+When she was done, she took a step back.
+
+Afternoon was well on its way. The two professors had set up folding chairs. The woman seemed to be grading papers while the man raised his head, closing a book as he stood. He approached and inspected the circle with detached interest, pausing only near the focus glyph to clear his throat. Viv looked and realized she had double-linked the rune which would quickly destabilize the entire structure. She fixed it quickly, blushing with embarrassment at the blunder. Mistakes killed people. She should have been more careful. Viv went over the construct once again with careful attention. No issue this time.
+
+The park was nice. A nice breeze from the north brought some fresh air to disperse the summer heat. Whispers and laughs came from the other side of the trees, towards the dormitory. The woman behind Viv had a habit of tapping her notes twice with the top of her pen every time she hesitated. There were no real doubts in Viv’s mind that she would be accepted here, though the question of how many classes she would be allowed to take still remained. All was well, for now. She had all the time in the world.
+
+There was only her, the circle, and the stone.
+
+It was there yet not there.
+
+A mundane human might touch its rough surface and feel the grain of the slab beneath their fingers. They might trace the grooves with their fingertips, and they would feel it, and it would be there, but they would be missing the point. The stone had depth. It was an anchor for something deeper.
+
+She wouldn’t get another opportunity to use silverite powder on such a pointless pursuit.
+
+It was now or never.
+
+She was going to touch it.
+
+It was divine, and she was going to touch it, caress its surface with the vulgar tools she had at her disposal at the moment. The not-a-stone would remember her. Oh, she would not destroy it. It was too incomprehensibly vast. But she was going to touch it.
+
+Mana rushed out from her core in a happy torrent, eager, seeking, a blood hound as familiar to her as it was deadly to others. It was hers, granted by the planet. If she returned to earth right now, a little bit of it would return with her. No one could take what she had seized for herself. And so it poured from her core in a tide that filled the circles, more and more, until they were full and ready. The circle hummed, gorged with destructive power ready to annihilate. It ballooned under her until she felt like a misstep would disintegrate her. Behind, the two teachers had stood and watched, silent, as the spell reached its paroxysm. Viv lifted a hand and spoke.
+
+“Excalibur.”
+
+The world darkened. The wind died. The students quieted when a ray of absolute void linked her to the stone, the stone to her, and both to the world. The spell touched the rock and struggled to penetrate through the cocoon of magic that made its shell. Viv pushed it as far as it could go, sacrificing stability and time for sheer power. The blade of darkness lodged itself in the cocoon with grim ineluctability. Its density simply could not be denied.
+
+Something cracked.
+
+Something gave way.
+
+More things held the spell back. The blade touched the stone now, really, though it was still merely the surface. The world inside of the obelisk was immense.
+
+And then, the spell ran out of power.
+
+Viv sighed when the spell lost cohesion. She had poured over two thirds of her considerable mana into the construct. It was gone, now, the silverite burnt to ash, but she had done it.
+
+On the surface of the stone, a gash had opened, surrounded by superheated matter. Viv had not produced the heat. It came from the stone itself. She heard someone gasp, and swear softly. Then—
+
+What the fuck?
+
+Oh.
+
+What the FUCK? What is wrong with you? Kindly stop breaking my shit, thank you very much. I swear, every century you outlanders grow more obnoxious. And after everything I’ve done for you! Don’t try this again or so help me I’ll put you on the path of a tornado. Bollocks. Do you know I actually have better things to do than to fix anchors? Can you understand that?
+
+Soul mastery: beginner 1
+
+Lost Heiress (6/10)
+
+Just you wait.
+
+Oh no.
+
+You have acquired the title: VANDAL. You will find it easier to break physical objects… whether you want to or not.
+
+“Wait wait wait wait nooooooooooooooooooo!”
+
+“Calm down, Viviane, calm down, you are fine, this is fine. Merely… unexpected. See? The stone is reforming,” the examiner said in an attempt to calm her.
+
+But Viv could not be comforted.
+
+The title was staying. It would mark her soul forever as someone who broke teapots and tagged walls or something. It was good her mother was light years and a dimension away.
+
+“I admit, this was impressive. And I believe we can conclude the trials. Thank you for your time, candidate Viviane. I will report the results to the staff. Would you like to wait for the results? I believe we can give you a definitive answer after the admission council reaches a decision. They should be finishing for the others as we speak.”
+
+“What do you mean? Is it that late?”
+
+“Most students only show a couple of spells,” the woman spoke perhaps for the first time. “With free candidates, we tend to conduct more comprehensive testing. Shall we?”
+
+“Sure,” Viv said.
+
+She could do without the uncertainty, although Sidjin and Arthur were probably waiting. Viv nodded and joined them as they walked back to the administrative building and left her in the lobby where the seven other candidates were gathered. The six students had finally split, now nervously waiting while the other free guy watched a nearby wall with a lost expression. As Viv watched, a pair of examiners summoned one of the teens to a nearby room. They didn’t return.
+
+She sat down and got offered a cup of something new.
+
+Now, the staple drink in Enoria was the klod, an infusion that reminded Viv of barley tea. It wasn’t bad and even nourished a little. What she was offered this time was different. The smell of roast touched something deep within her. The craving for coffee.
+
+“What is that thing?” she asked Darla who had handed her the cup.
+
+“Nawa. A delicacy.”
+
+“It sure is…”
+
+Although nawa wasn’t technically coffee, the pleasant taste distracted her until Sidjin’s return. He sat by her side while another pair of examiners summoned yet another candidate, and shared his experience. Sidjin had been inquiring about ways to make money, now that he was no longer a prince.
+
+He had questions.
+
+***
+
+The admission council gathered in one of the standard meeting rooms without ceremony. Every semester, they handled dozens of tests spread over a few weeks. Teachers and researchers universally considered attendance as a chore, despite the need to scout promising students. This time, however, was an exception. An outlander wanted to join.
+
+“How did it go?” the dean asked, hands clasped in front of his crimson robe.
+
+Okile, tenured enchanter, stepped forward and bowed. He took his time. It was not every day he could tease his impatient colleagues.
+
+“We have detected no abnormal mana signatures, so we believe she comes from a reality where either mana levels were too weak, or she could not use it. I surmise she received a blessing to learn at an accelerated pace, but it cannot account for all of her performances. I believe she is gifted and hard-working.”
+
+“I see. Let’s begin with the written tests then. Milenia?”
+
+A severe Baranese woman stood ramrod straight. Her robe could pass muster with even the most anal of drill sergeants.
+
+“I’ve seen similar results in good students who crammed at the last minute to achieve a passing grade. Some of her answers showed advanced education, including a few sentences that sounded like quotes. Some others showed a deep understanding of our testing methods. She is smart enough, I suppose, though efforts must be made with etiquette.”
+
+“Duly noted. And your verdict?”
+
+“Pass, easily.”
+
+“Okile, what about the fundamentals?”
+
+“Outstanding. She has mana mastery.”
+
+A susurrus crossed the room, not at the announcement, but at the thought of knowing one’s skill.
+
+“She didn’t tell me, I am merely providing you with an educated guess. I would bet solid money on that,” the enchanter continued.
+
+“No betting on taboo subjects, please. Ashra, I see she picked black mana as her main? Do you approve?”
+
+“No.”
+
+A stunned silence quieted the others.
+
+“It would be pointless. The current curriculum aims at including black mana layers in existing frameworks. No one casts pure black spells. Not only would she be unable to make use of the class, but she has already mastered two concepts, annihilation and change.”
+
+“Not darkness?”
+
+“Not yet. I have no doubts she will do so before the end of the term, however.”
+
+“Do you have a recommendation, then?”
+
+“I want her as my teaching assistant. Reduce her tuition to ten golden talents a semester and let me have her. I’ll tutor her on advanced applications.”
+
+“Not so fast!” a dark-skinned man with a long, flowing beard interrupted.
+
+“Tod?” the dean asked.
+
+“How is she not part of the medical faculty? Inconceivable!”
+
+“Most medical spells use life mana,” Ashra replied. “You know well that—”
+
+“Stop,” the dean interrupted. “Tod, she has expressed interest in medical treatment. You will have ample opportunity to make your case to her in person as soon as she contacts the medical faculty. Does someone wish to veto Ashra? No? Then the scholarship is approved. Okile, what about colorless mana?”
+
+“She clearly picked it up much later, though she already showed advanced mastery of a few spells. Her sound spells are flawless. I believe a normal class would be fine. I see great potential in her, especially for mana shaping. She clearly practiced extensively.”
+
+“We will see about that,” a dark-skinned woman harrumphed.
+
+The rest of the council sighed and eye-rolled at the same time.
+
+“Yes yes. Any veto? No? Good. What about electives?”
+
+Milenia stood again, just as seriously as before.
+
+“The examinee did not display a basic knowledge of military strategy. However…”
+
+Some attendants did a double-take when the strict teacher offered a compromise.
+
+“However, I recommend accepting her on two grounds. First, outlanders often propose innovative doctrines from their world, and the Academy’s duty should be to learn those doctrines and implement them if and when they prove pertinent. Second, she has led a revolution to victory.”
+
+“For now,” an Enorian teacher noted.
+
+“Kindly wait your turn to speak, thank you. Leading a revolution is almost always an uphill battle. If she has already achieved military success, then she has already demonstrated military capabilities, and the examination itself is redundant. I recommend acceptance.”
+
+“I don’t teach witches. I hold an academic war council, not some wild wood frolics. Outlander ideas? Oleander was also supposed to bring us new ideas on warfare.”
+
+The man who had spoken was tall and handsome with a deep scar over a dark-skinned cheek. His crimson robe shone with medals.
+
+A few of the other professors bristled. It was an old argument.
+
+“Outlanders wage war in their world according to different rules. None of them have shown enough brilliance to overcome centuries of relentless pursuit of excellence on Nyil, and this one doesn’t look any different,” the man continued.
+
+“You will let her attend your classes. If she doesn’t pass the probation test, we will drop her. In the meanwhile, you will let students attend even if they are instinctive casters. See me after if you wish to object. In private. Enough of this. What about dueling?”
+
+“We ran a few tests. I place her at the level of a fourth step war mage in terms of offense and defense,” Okile said with barely disguised amusement.
+
+The room erupted in conversation.
+
+“Are you sure?” the dean asked.
+
+“She dug a hole in the blessed obelisk.”
+
+Okile stopped the dean with a raised hand just as the older man made for the door.
+
+“It already returned to its original form. The circle she used is still there, if you wish to inspect it later.”
+
+“You are serious?”
+
+“I saw it as well,” Ashra said. “A gash like a sword wound surrounded by molten material. It returned to normal after a few seconds.”
+
+A heavy silence descended on the room while the professors reflected on this unexpected development. No one had damaged the obelisk in the history of the academy. No one had tried, either, but tens of thousands of attendees had thrown spells at the stone without result. It was widely regarded as impervious to magic.
+
+Except, apparently, for her.
+
+“I’ll teach her,” a man with dark curls and liquid eyes softly said from his seat.
+
+“If only so she doesn’t accidentally kill other students.”
+
+“Good. That will be a good start. To summarize, fundamentals with a focus on etiquette, teaching assistant for black mana, normal student for colorless, dueling elective, probationary military theory. Any veto?”
+
+“We could save ourselves a lot of trouble by culling her and making the juvenile leave. She is a rebel. Her current companion is Sidjin, a known traitor who should have been tortured to death if there were any justice in this world,” the military instructor said.
+
+The dean didn’t speak. He merely glared at the man in scathing, quiet condemnation. The air grew heavy. The instructor started to sweat.
+
+Slowly, the dean's eyes turned hard, his features like cold ore resting on the white-hot, molten surface of his skin. The room’s temperature increased. No one dared to speak.
+
+Eventually, the dean took a deep breath and returned to normal. He gestured, and one of the windows opened. Fresh air rushed in.
+
+“I believe we have a majority ruling. I shall let Ashra and Okile share our decision with candidate Viviane.”
+
+The instructors walked back, only to find her seat empty and her cup discarded. Darla was waiting nearby.
+
+“What’s going on?” Okile asked.
+
+“I want to know as well. We were talking about the history of the Academy then, suddenly, her expression turned to one of horror. She screamed something about the dragon, swore in an unknown language, and took off at a sprint.”

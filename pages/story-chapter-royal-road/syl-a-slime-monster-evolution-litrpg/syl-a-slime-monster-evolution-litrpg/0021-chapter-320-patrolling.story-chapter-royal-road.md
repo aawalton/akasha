@@ -1,0 +1,171 @@
+---
+id: 1e41e81d-4b00-5bc2-881f-32531efa711b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 320 : Patrolling"
+slug: 0021-chapter-320-patrolling
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 21
+ownLength: 2257
+unit: words
+ownProgress: 2257
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2814238/chapter-320-patrolling"
+royalRoadId: "2814238"
+markedReadAt: "2026-06-29T19:42:30.025Z"
+---
+
+When I returned to the inn after my day, I wanted to tell Vee all about my discoveries. Unfortunately, any attempts to mention [Skill Deconstruct] were met with censorship, and not even telepathic communication was enough to bypass it.
+
+In the end, I settled for just telling her that I'd received an update to my quest and that I was giving her [Blink] spell my undivided attention.
+
+Vee was excited and told me about her own day, which apparently wasn't as exciting as her previous day. She'd traveled even further out, but when nothing interesting was happening, she started to travel more northward while heading back towards the coastline.
+
+Sadly, she didn't find any signs of mermen or her dream island, so it was a relatively unproductive day, according to her, with her sole accomplishment being a level up in her movement skill.
+
+In an attempt to make her feel better, I told her about my day outside of the new quest, which was effectively just fish watching, and the highlight was getting to sail around in my own tiny boat. Of course, I did mention the enchantments I discovered on it, and Vee also thought the floating anchor one could be helpful for our future island home.
+
+She asked me what my next goal was, and when I replied with "more patrol duty," she was genuinely surprised.
+
+How else am I going to get enough time to work on this [Blink] spell?
+
+***
+
+Admiral Nathaniel was troubled. They had finally gotten their hands on a mage worth their salt, and so he was trying his best to get his access prioritized. Yes, there were potentially safety concerns, but leaving such a valuable asset to rot was, in his opinion, criminal!
+
+Nathaniel had managed to get the ball rolling, but there were specific duties that Sylvain needed to complete at least once, one of them being patrol duty. It wasn't a glamorous job and was usually given to very inexperienced recruits; it could almost be seen as a hazing ritual.
+
+Sylvain had apparently expressed his reluctance to do the job, which was the joke of the day for everyone involved. Yet when he returned, it was like he was a changed man who couldn't stop smiling. His tag recorded a decent amount of kills, but nothing worth celebrating over, so nobody thought anything of it.
+
+The next day, they planned to give him some real missions, but instead, he happily volunteered for patrol duty again. Nobody volunteered for patrol duty!
+
+Some of the staff thought maybe Sylvain was trying to do a reverse-hazing ritual on them, which earned a few laughs and chuckles. Others suggested that perhaps he wanted to slack off for the day, but when he returned, he had a decent number of kills again.
+
+Then the unthinkable happened, he spent a third day doing patrol duty!
+
+Now the people really began to wonder if this was him getting his revenge on them, or some elaborate prank. Here was a high-level mage specialized in both water and air, and he was doing bottom-of-the-barrel grunt work!
+
+If he were at least doing supply runs, he'd be saving everyone time, but a man of his caliber doing nothing but patrol duty benefited nobody. Nathaniel was especially troubled as he had hoped to make great use of Sylvain.
+
+I don't care what happens, I'm demanding he be assigned to some real work tomorrow!
+
+***
+
+Man, patrol duty is great! I can just stay here and work on this spell while occasionally blasting a brineling.
+
+I had initially thought I could've thrown together the [Blink] spell in a day or two if I gave it my full effort. Either I had grossly underestimated its difficulty, or I'd grown overconfident in my latest advancements.
+
+I had achieved a "blink" spell on the second day, but it wasn't enough to be registered as an official spell or to complete my quest. It'd taken much trial and error, but eventually I had a complete self-teleport procedure all contained in a single spell that could target a destination at a glance.
+
+That was sadly not enough, however, and when I reread the description of the skill again, I realized I had forgotten a rather important part of the skill… its levels. More precisely, the extra jumps you could do per level, and I hadn't taken that into consideration at all.
+
+I don't think I would have gotten this subquest if I couldn't achieve it. I refuse to believe I can't accomplish it now, or why remove the obfuscation? I just wish it had been to recreate a simpler skill!
+
+It had taken me a bit of brainstorming to figure out some potential solutions or even avenues of approach to the predicament.
+
+The first thing that came to mind was that extra Mana needed to go towards extra jumps rather than improving the strength of the effect, which led me to observe and break down the [Fireflies] spell.
+
+Unlike most other spells, this one didn't make bigger or stronger projectiles when you empowered it with more Mana; it simply spawned more. It was a great first step, but it wasn't enough to solve my conundrum.
+
+[Blink] and all the other movement skills would give you a window of opportunity to stay or proceed further. If I translated that intent, then another way to look at it was a sustained or continued duration. I had a few spells that had sustained effects, like [Gust], and I could get duration effects from [Bubble], [Rain Cloud], or one of my many, many debuffs and afflictions.
+
+I had what I felt was all the necessary pieces, but it wasn't until the evening after my second day of patrol that I received suitable inspiration.
+
+"It sounds like you need the spell to keep looping on itself," Vee offhandedly commented, even going as far as to illustrate her point with a flourish of expertly controlled web.
+
+The best part about Vee's accidental revelation? I pretty much knew how to put it into practice thanks to my enchanting lessons!
+
+Thus, I wasted no time in going out on another patrol mission, with my determination bursting at the seams. I worked tirelessly with pretty much all hands on deck to get through this next phase of rapidfire development.
+
+My efforts had also led to [Blink] reaching level five, which I had expected, and even a level in [Stabilized Fluctuations]. I was surprised it wasn't more, considering how much I was using teleportation. Still, I figured it might be due to almost no proficiency, given that nobody was witnessing me and there was no inherent risk.
+
+But the real crazy achievement was that I had reached the ninth level of [Mana Circulation]! I was burning through so much Mana through repeated failures, which finally allowed it to reach its next threshold.
+
+Each failure was a step closer, and in the late afternoon, I finally had what I felt was a success. I held the completed spell in my grasp as if it were the most fragile thing in existence, despite knowing full well my [Sub-Cores] could recreate it for me in an instant.
+
+Well, here goes nothing!
+
+I triggered the spell and teleported my core from my chest to my head. But it wasn't over, and I then teleported to my left arm, right leg, left leg, right arm, and back to my chest.
+
+Success!
+
+Suddenly, a flurry of notifications went pinging through my head; evidently, what I'd done was a momentous achievement, and I was being thoroughly rewarded for my efforts.
+
+<Spell [Blink] discovered.>
+
+<Proficiency gained. [Dimension Magic LV 4] improved to [Dimension Magic LV 5].>
+
+<[Dimension Magic LV 5] spell [Spatial Phase] learned.>
+
+That means my next class level up should unlock Riftmancer. Although I still haven't gotten much closer to my next Elementalist milestone. The monsters around here are too low level!
+
+<Proficiency gained. [Mana Weaving LV 1] improved to [Mana Weaving LV 3].>
+
+Straight to level three! I had thought I was close to level two, but I skipped straight to the next one. I guess I must have done something truly remarkable. Hehehe.
+
+<Quest updated. Subquest completed!>
+
+<[Skill Deconstruct] acquired.>
+
+I was ecstatic and proud of what I managed to accomplish. While I still felt that [Displaced] was probably my magnum opus, I almost felt better about recreating [Blink]. [Displaced] was basically created through sheer madness and probably some luck, but [Blink] was me correctly solving a problem with all my tools and knowledge in an organized fashion.
+
+Well, there was still some brute-forcing… but it was all in the name of progress! Anyway, let's see if this reward was worth it!
+
+<[Skill Deconstruct] Allows the user to disassemble a selected skill, destroying it and in return receiving a template of its construction and usage, proportionate to the user's progress toward the skill. This skill provides the user with no additional support in fulfilling the manifestation requirements to satisfy the skill template. However, skill templates do not need to be strictly followed and can be modified to suit the user's needs. Repeated deconstruction of the same skill will add to the template. Excess completion beyond the maximum will simply be discarded. Once accepted, the process cannot be reversed, and any experience, proficiency, and points lost will not be refunded. Responsible usage is encouraged. This skill cannot be revealed. This skill cannot be shared. This skill cannot be discovered.>
+
+Oh! Oh! Oh!!! This is amazing!
+
+I couldn't believe my eyes at what I was reading. I had my suspicions of what [Skill Deconstruct] could do based on the name alone, but this was honestly beyond my wildest imagination.
+
+There was one glaring issue, however—no refunds!
+
+My skill points… My beautiful skill points…
+
+I wanted to cry just at the thought of all the points I had spent unlocking these skills being lost forever. Not to mention the skill levels, too!
+
+However, my sorrow was short-lived as I was burning with curiosity about how this new skill would function. What was a skill template? What else could I do with them? Could I make even crazier spells using them as inspiration? I had what felt like endless questions.
+
+Although the real question is… which skill do I sacrifice first?
+
+When I activated [Skill Deconstruct], I was then prompted to select the target skill. I thought it would only let me choose compatible skills, but everything was listed.
+
+That then made me paranoid because I wasn't sure if there would be a confirmation beforehand. What if I deconstructed something that couldn't be recreated as a spell? No, I needed to pick something I wouldn't mind losing regardless of the outcome.
+
+I mean… it might be a waste since I already created it, but [Blink] is my best bet, right?
+
+And so I held my breath in anticipation and selected [Blink].
+
+<Do you wish to deconstruct the skill [Blink LV 5]?
+
+Warning: this cannot be undone.>
+
+Oh, thank the gods there's a confirmation beforehand!
+
+With my biggest fear alleviated, I confirmed my selection.
+
+<Skill [Blink LV 5] has been lost.>
+
+I gulped, and then a plethora of information flooded my mind. It was almost overwhelming and put new skills or spell learning to shame. When it was finished, I let out a sigh of relief, and then nearly danced for joy when I saw that I could view the information in my mind much like a spell construct.
+
+I immediately compared my own spell version of [Blink] to this official version. I was overjoyed to find that there were some minor improvements I could make, meaning I hadn't sacrificed it for nothing. I adjusted my spell with my newfound knowledge and estimated I'd made it save a considerable amount of Mana with the new design.
+
+This means a registered spell isn't necessarily the best version of it… I kind of already knew that when I started to upgrade all my fire spells to also apply [Combust], but I didn't think you could adjust it to be more Mana efficient. Not that I really need it… But since I wanted [Blink] for Vee, I shouldn't give her shoddy products.
+
+What was interesting was the template's progress. I had assumed that five levels in the skill would give me half a template, assuming a typical ten levels maximum, but that wasn't the case. I predicted I could've quite easily created [Blink] from this information in a day or less, despite what was potentially missing.
+
+I wonder if increasing my template progress would yield further efficiency improvements until I achieve a perfect spell. Or at least what the system regards as a perfect spell?
+
+I could feel my curiosity bubbling up again, and I activated [Skill Deconstruct] again while thinking about what I wanted to use it on next. I could, in theory, advance my spells by leaps and bounds depending on what I chose, or find an entirely unexpected application of magic.
+
+Or I could end up with useless junk and a lost skill… Let's see…
+
+And then I spotted something in the list I hadn't expected. I thought it must have been a mistake, and so I selected it, knowing I could safely cancel it now.
+
+<Do you wish to deconstruct the skill [Skill Deconstruct]?
+
+Warning: this cannot be undone.>
+
+No! No, no, no!
+
+I was honestly shocked that this was even an option and shuddered at the thought of potentially losing my reward.
+
+I really need to work on controlling my inquisitiveness.

@@ -1,0 +1,187 @@
+---
+id: 6f6ced85-796f-5599-99b4-1a7e289080d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 599: Prologue... Probably"
+slug: 0019-chapter-599-prologue-probably
+partOf: system-change-system-universe
+position: 19
+ownLength: 2752
+unit: words
+ownProgress: 2752
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2733117/chapter-599-prologue-probably"
+royalRoadId: "2733117"
+markedReadAt: "2026-06-29T19:57:21.348Z"
+---
+
+Chapter 599: Prologue... probably
+
+“Thank you, Hollis,” Dave said as he stood from the table. Both Hollis and Liora quickly stood, too. “And thank you for gathering all the ingredients, Liora.” Dave looked down at the basic, yet delicious, lunch they just had. Finally, he glanced back at his maid. “Liora, how difficult were those ingredients to come by?”
+
+“How difficult?” Liora rubbed her chin in thought. “Other than the Moonveil Dandelion for the salad, the rest can be bought in high quality from the system shop for under one hundred thousand credits each.”
+
+“And the Dandelion?”
+
+“Between one and three million—depending on the quality and the market,” his maid answered.
+
+“I see…” Dave nodded. “Hollis, does this entire lunch have a recipe, or was it something you really did just whip up?”
+
+“It does, sir,” Hollis replied. “It is just on the edge of what I am able to handle with my cooking skills.”
+
+“I see…” Dave said again. “In that case, would you mind writing the recipe down for me?”
+
+“Of course, sir!” Hollis quickly replied, then produced a sheet of paper. With a quick infusion of mana, words appeared, and then he handed it to Dave with a bow.
+
+“Thank you,” Dave said.
+
+“It is nothing, sir,” Hollis replied. “Might I ask, though…”
+
+“Who is the recipe for?” Dave finished Hollis’s words.
+
+“Yes… sir.”
+
+“I have made an interesting acquaintance recently,” Dave explained. “She is an up-and-coming cook, and I have enjoyed her reaction to recipes and ingredients that I’ve given her. I haven’t given her anything grand other than a mid-tier Void Beast recipe and some store-bought desserts. It may take a while, but I think she’ll be able to create this recipe soon enough.”
+
+“Sir, are you thinking of adding a chef to the staff?” Liora asked Dave with wide eyes.
+
+“Oh, nothing of the sort.” Dave waved her question off. “She’s not the type to work for anyone other than… well… actually.” He rubbed his chin. “She may actually enjoy it… provided she gets a continuous supply of ingredients.” He muttered the last part where his servants could only just hear him. “No… that wouldn’t work,” he continued. “With her class… she also has to hunt her own ingredients to get the best out of her skills. But I can make the offer…”
+
+“Is she that impressive?” Hollis asked.
+
+“Impressive?” Dave furrowed his brow, then nodded. “Yes, she is. In fact, she is not even ten years old, yet she has already obtained a Mythical class. I believe that if nothing happens, her name will be well known throughout the Origin System a thousand years from now.”
+
+“That great? And so young?” Liora looked at Dave in shock.
+
+“Mhm…” Dave nodded. “She is quite a character. I look forward to seeing how she grows.” Finally, he clapped his hands. “Thank you two for the meal,” he said again. “But I guess I’ve made my father wait long enough. I’m sure he’s fuming by now. Should be the perfect time to make my appearance.”
+
+“Yes, master!” both the servants said at the same time with a bow.
+
+Dave said nothing else and just vanished into a cloud of dust.
+
+***
+
+“No traveling skills within the Gravenholt Est…” a man with a gruff voice started, but stopped instantly as a figure formed. “Ah… please pardon my rudeness, Transcendent Davenresh.” The guard bowed deeply at the words.
+
+“It’s quite alright,” Dave said with a wave of his hand. “You’re only doing your job. No harm, no foul.”
+
+“Thank you, Master Davenresh.” The guard stayed bowed and wouldn’t look up. There were two other guards, but they both seemed to find the ground very interesting at that moment.
+
+Dave sighed, but knew that saying anything else would be a lost cause. Instead, he placed the guard out of his thoughts and flicked his wrist, causing the massive double doors to the Gravenholt’s main manor to swing open. With one last look at the guards, he walked inside.
+
+“What were you thinking?” the voice from one of the other guards was spoken lightly, but Dave could still hear it, even with the doors closed behind him. “You know not to act rashly with movement skills, especially if you can tell that they are from the earth affinity. What if that had been Master…”
+
+Dave rolled his eyes and tuned the guards out. Brother certainly has everyone on edge, doesn’t he? Does he really have to think so highly of himself just because he made it to Transcendent? he mused to himself as he made his way through the manor. Shortly after entering, he was met by one of the manor’s servants.
+
+“Master Davenresh,” the butler called out as he walked over. “The Patriarch and the others have all gathered in the Great Hall and are waiting for your arrival. Please, follow me.”
+
+“Did we really need to use the Great Hall for this?” Dave asked with a sigh.
+
+“Of course, Master Davenresh,” the butler said. “The Patriarch has said that there’s an important announcement concerning you. Such importance deserves the use of the Great Hall.”
+
+“Yeah… sure…” Dave replied with a sigh. “Lead the way.”
+
+Soon, the two were standing outside another pair of massive doors. The butler then tapped a few buttons on his bracelet, and the doors began to slowly open. As soon as they did, Dave heard the announcement and rolled his eyes again.
+
+“Now entering the Great Hall—the Thirteenth Heir, the Fifth Transcendent of House Gravenholt, Davenresh Gravenholt!”
+
+The doors soon opened wide enough for Dave to enter, and he walked inside. As soon as he took his first step in, he looked to the right and saw the Herald, who’d just announced his arrival, and shook his head. He then looked in front and sighed. Did the entire family really have to gather for this?
+
+As he walked on the central runner, toward the raised dais where his father sat at the end, Dave made sure to take a good look at his surroundings. On either side sat the more important people from his family. At the front was his immediate family—his siblings, mother, aunts, and even the stronger and more renowned of his cousins.
+
+On the benches towards the back were the less immediate of his family, but still important. Basically, if they were an Ascendant and had any Gravenholt blood or were related by marriage, they were there. Just a quick look allowed Dave to see that there were at least two hundred and fifty of his family members in the Great Hall. Wouldn’t a nice family breakfast tomorrow with just the immediate family have been better? He questioned as he looked back up at his father, the Patriarch.
+
+Behind his father on the walls were different tapestries and family banners. The crest that he wore on his robe was not the only family crest. It was just the one correlating to his branch of the family—which had been the main branch ever since his father had made it to Exalted.
+
+His crest—the main branch’s crest—was a shattered boulder. Directly behind his father was the same crest, but along the wall were crests of the other branches as well. They ranged from sand to volcanoes. However, since earth was the main affinity for House Gravenholt, every crest had similarities—particularly the main color, which was always some shade of brown.
+
+His father wasn’t the only person on the dais at the front of the hall. There were five seats in total, and two retainers stood behind those seats. Four of the five seats were already occupied. The first, and most notable, was the seat in the middle, which looked more like a throne than anything else. Of course, that was the Patriarch’s seat.
+
+The seat to his father’s far left was unoccupied, as it was his own seat. Next to it was his eldest brother’s seat. Malrik was his oldest sibling and the only one, aside from himself, to make it to Transcendent so far. His brother was also a giant asshole. It’s unfortunate that he’s the only one who made it so far, Dave thought as he glanced at the bench that held all his other siblings.
+
+There was still a chance that one or two of them made it to Transcendent, but for the most part, Ascendant was just about as far as any of them would go. Dave almost chuckled thinking about how he was supposed to be the least talented of the bunch. Yet, here I am. Thousands of years younger than Malrik, but doing things he could only dream of, he thought.
+
+His eyes then shifted to the other two occupied seats. The two remaining seats were for the other two Transcendents in the family. Olyndra occupied one of them. Dave considered her his aunt, but in reality, she was one of his father’s cousins from another line. She was also the only Transcendent in the family with whom Dave could get along . The final remaining seat was his grandfather’s.
+
+I guess I can’t complain too much, Dave thought as he finally halted his walk and stood at the bottom of the dais in front of his father and the others. I haven’t been to one of these in years. I wonder how dusty my seat is… Would father let me replace it with one of those fluffy reclining chairs? Dave almost face-palmed at the thought. Oh, no… I’ve been watching and reading too many reports on that man…
+
+“Davenresh!” his father announced loudly, taking Dave away from his thoughts. “You must be busy, considering how long we have been waiting for you.”
+
+“I am sorry, Father,” Dave said with a slight bow. “But I was hungry, so I had a quick bite before coming.”
+
+“You…” Malrik’s eyes bugged out at the words.
+
+“Enough, Malrik.” The Patriarch silenced his eldest son and turned his attention back to his youngest. “Davenresh, do you know why I have summoned you and everyone else here today?”
+
+“I think I have a good idea,” Dave answered. Then, he looked around at everyone else. “Does everyone else?” he asked. Next to no time had passed since the invasion ended, so he was sure that there would be few people who knew of it. Of course, his father was one of them, as he always had people gathering information—especially information about any talented or troublesome family members.
+
+“They do not,” the Patriarch said. “Only myself and your grandfather have heard the news.”
+
+“What news?” his brother asked. “What have I not heard?”
+
+“Davenresh,” the Patriarch said. “Would you like to inform the rest of the clan of your accomplishment?”
+
+“I’d rather not,” Dave replied with a shrug. “It has nothing to do with them. But if you feel the need to, go ahead.”
+
+“Uhem…” Dave’s grandfather cleared his throat. “Why must you insist on being so difficult? This is a great day for the family, so why not enjoy it?”
+
+“For the family?” Dave raised his eyebrows. “Did something else happen? Did one of my other siblings or cousins reach Transcendence?” He looked around to check, just in case, but nobody moved. “Guess not,” he said. “I’m pretty sure this is my accomplishment, not the family’s.”
+
+“You have… unknowingly worked hard,” the Patriarch said.
+
+“With little support from anyone else,” Dave added.
+
+“Be that as it may,” his grandfather said. “When one Gravenholt accomplishes something great, it is a boon for the entire family.”
+
+“Something great?” Malrik asked. “What exactly has Davenresh done?”
+
+“Your brother,” the Patriarch started, “his Davenresh System has become the sixth system to conquer a Universal System invasion in its tier.”
+
+With that statement, murmurs could be heard throughout the entire hall. It wasn’t something that never happened and, in fact, was more commonplace in the lower tiers, but it was a great accomplishment. However, the main contributing factor to the surprise was the fact that they all knew how old Davenresh was.
+
+“You jest!” Malrik half-shouted. “The Davenresh System is but an infant. There is no way…”
+
+“He did it,” the Patriarch cut him off. “I do not know how, but he did it. First, he surprises us all by Transcending out of nowhere, now… this.”
+
+“It was pure luck and timing,” Dave answered. “Nothing else.”
+
+“Explain,” the Patriarch said.
+
+“Well…” Dave knew he was going to have to give his father a good explanation, and he’d been thinking about it ever since he set things into motion. He still didn’t have a great answer, and he didn’t want to do it in a full room, but it looked like he had no choice. “Like I said, I got lucky. Most systems rely on those geniuses inside them to advance, but, as luck would have it, multiple of these geniuses were born in the same generation, so I had to work fast.
+
+“It would usually take eons for such a thing to happen, and even then, with the number of Universal System users, it would still be a hard fight,” Dave explained.
+
+“But this wasn’t a hard fight,” the Patriarch replied. “I saw the time it took. You have the second-quickest invasion victory in that tier.”
+
+“That is true,” Dave said. “But that is because two users set themselves apart from any that I have seen… so… I took it into my hands to create an invasion before they advanced.”
+
+“There are two more?” Malrik asked.
+
+“No,” Dave replied, knowing what he was talking about. “Unfortunately, since I cannot interfere and the Universal System did not come as swiftly as anticipated, one of those two advanced, and I was left with just the one. Luckily, that user was enough.”
+
+“So, the siren that has been causing a ruckus in my system. Was she one of yours?” Malrik asked.
+
+“Yes,” Dave replied. “She was one of the geniuses. And you are welcome. I’m sure you already see her potential. It is a shame that she ascended so soon. They may have been able to conquer the invasion faster if she had been there..”
+
+“I do see her potential… indeed,” Malrik said. “It’s better for her, anyway. At least she can get some proper growth where she’s at now.”
+
+“Yeah… and bring you all the benefits that come with it,” Dave muttered.
+
+“That’s enough,” the Patriarch said. “Though I would like to hear more about this siren and the other ‘genius’ later.” He continued, “For now, answer me this,” he told Dave. “What are your rewards? What has the Origin System given you?”
+
+“I don’t know,” Dave said with a shrug. “You called me here before I received everything. You are always so hasty.”
+
+“Oh?” the Patriarch muttered. “Then what are you still doing here? Go collect your rewards!”
+
+“You don’t have to tell me twice,” Dave said, then turned to hurry out of the Great Hall. He’d take any chance he could get to leave such a situation.
+
+“Also,” his father spoke, and Dave stopped. “You’re going to have to stop using ‘luck’ as an excuse. You can only get so lucky, after all…”
+
+“We’ll see,” Dave turned around and said to his father. Then he had another thought. “Oh, and father…”
+
+“Yes?”
+
+“Next time, how about you just send out a memo or something? I’m sure everyone has better things to do than…” he motioned around him. “This…” Then, as his father was muttering ‘next time,’ and before he could stop Dave again, he ran out of the hall and moved quickly through the manor until he reached outside—where there weren’t as many restrictions on skills. As soon as his foot hit the ground, he turned into a cloud of dust and disappeared once again.
+
+When he reappeared outside his home, he received a warning from the Origin System for unauthorized travel inside Origin City, which he promptly ignored. He’d have to travel a few more times for the system to actually penalize him, and by the time he needed to again, he was sure that the warnings would have reset by then.
+
+Dave quickly went inside, where he was greeted once again by his two servants. He didn’t bother talking to them about the meeting, and instead went straight to his training room and set all his runes to ‘do not disturb.’ Finally, he took a seat, then projected his avatar once again. He had rewards to claim, notifications to actually read, and young system users to speak with.

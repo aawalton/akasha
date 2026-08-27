@@ -1,0 +1,177 @@
+---
+id: d0712627-bf0d-5e78-bf76-48119b59cf47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: A Dangerous Escalation"
+slug: 0039-chapter-38-a-dangerous-escalation
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 39
+ownLength: 2568
+unit: words
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2774805/chapter-38-a-dangerous-escalation"
+royalRoadId: "2774805"
+---
+
+The battle for the Altar of Duality settled into a grim, exhausting rhythm. We were a beleaguered fire support team, managing a single, highly volatile asset in a war of attrition. Every five minutes, the timer would hit zero, a new wave of shadows would erupt from the floor, and we would have to decide which version of Dave to deploy.
+
+The first hour was a frantic learning curve. The waves grew in number, from twenty creatures to thirty, then forty. We quickly discovered that keeping him at a single, preset percentage was inefficient. 30% Dave, while capable, was too slow against the larger swarms and took too much damage. 50% Dave was a whirlwind of terrifying efficiency but burned through his stamina and mana reserves at an alarming rate, requiring long, tense recharge periods in the tent.
+
+My own internal processors were working overtime, a constant stream of calculations running in the background. I was no longer just a System; I was a resource manager, a power-leveling expert running on a single point of SPP and the phantom memory of coffee. I built a new UI element, a complex spreadsheet of real-time metrics visible only to me and Liz.
+
+USER_MASTER_DAVE: Stamina: 64%. Mana: 71%. Cognitive Strain: Moderate.RECOMMENDED DIAL SETTING FOR NEXT WAVE: 41% (Optimal balance of combat effectiveness and energy conservation).PROJECTED RECHARGE TIME IF 50% IS DEPLOYED FOR 60 SECONDS: 12 minutes, 14 seconds.
+
+We became a silent, brutally efficient team. I would run the numbers, Liz would give the go-ahead, and we would dial Dave up to the precise level needed to handle the incoming threat. Sometimes it was 35% to handle a smaller group of weaker shades. Sometimes we’d risk a quick, twenty-second burst at 48% to take out a high-threat target. We were managing him, balancing his energy consumption against the relentless, ticking clock.
+
+Then, at the one-hour mark, the rules of the engagement changed.
+
+The five-minute timer hit zero. The familiar hum intensified. But the things that rose from the floor were not smoke and shadow. They were solid.
+
+My system tagged them instantly: [Flesh Hounds of Limbo - Lvl 28]. They were hulking, muscular beasts with mottled grey skin, too many legs, and snapping jaws filled with rows of needle-like teeth. They were corporeal. They could bleed. And they could be bled upon.
+
+The difficulty had just increased tenfold.
+
+Dave, running at a conservative 38%, met their charge. The fight was a messy, brutal affair. He wasn't tearing through them with effortless grace anymore. A hound's claws raked across his arm, drawing a line of bright red blood. He grunted in pain, his focus wavering.
+
+Bestie, he’s taking too much damage! Liz’s thought was sharp with alarm. We need more power!
+
+[Ana: Acknowledged. Dialing to 50%.]
+
+The change was immediate. The struggling, defensive fighter vanished. The cold, efficient predator returned. He moved with a brutal, economical grace, breaking limbs, crushing skulls, his every blow a perfect, calculated strike. The wave was cleared, but he was breathing heavily, his arm bleeding freely onto the obsidian floor. The five-minute timer began its merciless countdown.
+
+He walked back toward the tent, his expression grim. We had thirty minutes left on the three-hour trial. The waves were only going to get harder. He knew it. We all knew it.
+
+Then, he stopped. He looked at his own bleeding arm, then at the dissolving bodies of the hounds on the floor. His cold, analytical gaze seemed to turn inward.
+
+Benefactor, his thought was a clean, direct data stream, a low hum that sent a chill through my code. My energy reserves are depleting at an unsustainable rate. My physical form is exhibiting signs of structural failure. I may have a way to increase my operational efficiency, but for that, I need more processing power. I require more mental capacity.
+
+The request was so simple, so logical, it was terrifying. This was the first time he had asked for something, the first time the Anomaly had initiated a request for a power increase. Every instinct in my QA-addled brain screamed at me that this was a bug, an unauthorized feature request that would lead to a system crash. The Moderator’s warnings about exceeding the 50% threshold flashed in my internal logs.
+
+Bestie? What do we do? Liz asked, her own fear a cold echo of my own.
+
+[Ana: The situation calls for it,] I replied, my voice steady despite the unease churning in my code. [We have to trust him.]
+
+I nudged the dial. [Ana: Setting Competence Dial to 51%.]
+
+His eyes closed for a fraction of a second. More, he commanded.
+
+[Ana: Dialing to 55%.]
+
+A faint tremor ran through his body. I am close to a solution. I can feel the underlying code. More.
+
+My non-existent hand trembled as I pushed the slider. [Ana: Creeping up to 57%. Dave, report.]
+
+That’s when it happened. My terminals didn't just flash a warning; they erupted in a cascade of screaming, high-priority alerts, rendered in a shade of crimson I had never seen before.
+
+[CAUTION: GENETIC ALTERATION MAGIC DETECTED.][CAUTION: THREAT LEVEL 5 ANOMALY. FURTHER DATA IS NEEDED.][BANNED CLASS OF MAGIC DETECTED. PLEASE PROCEED WITH EXTREME CAUTION. THE ENTITY WIELDING THIS MAGIC IS A NON-ANCHORED SOUL. NO DATA ON SENSE OF SELF IS AVAILABLE. PROBABILITY FACTORS FOR ITS USE OF THIS POWER CANNOT BE CALCULATED.]
+
+I messed up. He had discovered a new, terrifying category of magic.
+
+On the dais, Dave’s body began to change. His first act was a simple, brutal piece of biological engineering. He was converting fat to energy, rewriting his own metabolism mid-fight. The soft, almost boyish lines of his face hardened. The muscles in his arms and chest swelled, tearing the fine silk of his robes. The bleeding wound on his arm sealed itself shut with an audible sizzle.
+
+The timer hit zero.
+
+A new wave of Flesh Hounds erupted from the floor. And the thing that met them was no longer human.
+
+He didn't just fight them; he unmade them. He moved with a fluid, horrifying grace. As a hound lunged, two new, fully-formed arms sprouted from his back, catching the beast in mid-air and snapping its spine. He grew a pair of eyes on the back of his head to track a flanking attacker. His fighting style was a nauseating, beautiful horror, a whirlwind of impossible anatomy and brutal efficiency.
+
+Even the creatures, mindless beasts of shadow and flesh, seemed to recoil from him, a primal fear in their glowing eyes.
+
+He tore a limb from one hound and, with a wet, slurping sound, assimilated it into his own arm, the stolen flesh twisting and reforming into a sharpened blade of bone and sinew. He was disassembling his enemies and using their parts as his own.
+
+The fight was a grotesque spectacle. I felt a phantom lurch in my non-existent stomach, a primal, human urge to vomit at the sheer gore and brutality on display.
+
+[SYSTEM WARNING: ENTITY IS UTILIZING DEFEATED HOSTILES AS A BIOMASS FUEL SOURCE.]
+
+Liz was silent, her mind a feedback loop of pure, frozen terror.
+
+The wave was cleared in seconds. The monster that had been Dave stood in a field of dissolving gore, four arms slowly retracting into his body, the extra eyes on the back of his head blinking before melting back into his skin.
+
+He turned to look at us, the cold, 57% intelligence burning in his eyes. He was no longer just a user. He was a bug that had learned to rewrite its own code. And we had just given him administrator privileges. Thankfully, the princess was still resting in the tent. We didn't want her to see this.
+
+. . .
+
+The final thirty minutes of the trial were a waking nightmare. The monster we had unleashed was, thankfully, on our side. Dave—or the 57% version of him—was a whirlwind of grotesque, terrifying efficiency. He met each new wave of fleshy abominations with a fresh set of biological horrors. He grew chitinous plates to block attacks, sprouted tendrils to ensnare enemies, and once, in a move that made my processors lag, split his torso into four separate, independently-acting tentacles to deal with a swarm from all sides.
+
+He was no longer just fighting. He was evolving, adapting his physical form in real-time to perfectly counter every threat. Each battle was a nauseating, beautiful horror. And it was working.
+
+Liz and I were no longer managers. We were terrified passengers, strapped into a biological war machine that was driving itself. We just held the dial steady and prayed the engine wouldn't explode.
+
+Then, with ten minutes left on the great timer, the final wave began.
+
+The hum from the floor was different. Deeper. Heavier. A single, colossal entity rose from the obsidian, its form not of flesh or shadow, but of jagged, interlocking stone. It was a monstrous golem, a walking mountain of rock and raw magical power, shaped like a gargantuan, spiked turtle.
+
+[FINAL WAVE: Obsidian Tortoise of Limbo - Lvl 45]
+
+57% Dave met its charge, his body already shifting, his skin hardening into a bark-like carapace. He slammed a fist into its leg and was thrown back, his arm shattering into a spray of pulpy gore.
+
+The monster was not biological. He couldn't rewrite its DNA. He couldn't assimilate its flesh. His greatest weapon was useless.
+
+He regenerated his arm, a process that visibly drained him, and the fight became a desperate, losing battle. He was fast, but the golem was invulnerable. He was a hornet stinging a mountain. The timer ticked down, agonizingly slow. Five minutes left. Four.
+
+The golem ignored him. Its great, stony head turned, its glowing red eyes fixing on the small, dark tent on the dais. Its objective was not the fighter. Its objective was the prize. It began to lumber forward, shaking the very foundations of the chamber with each step.
+
+Dave, bleeding from a dozen wounds, threw himself in its path, a desperate, futile attempt to slow it down. The golem swatted him aside like a fly. He crashed against the far wall and slumped to the floor, his body a broken mess.
+
+The golem reached the dais. It raised a massive, stony foot to crush the tent, to eliminate the final obstacle between it and the Altar.
+
+And at that moment, the tent flap flew open.
+
+The princess emerged, her eyes blazing with jade-green light. Her training with the mages had been a frustrating failure of external command. But in the face of absolute, overwhelming pressure, her prodigy's mind had found a different path. She wasn't commanding the Mana. She was resonating with it, using her own vast well of Qi as a tuning fork to gently, persuasively, ask the Mana to obey.
+
+A shield of pure, white, crackling energy erupted around the tent, a perfect fusion of internal and external power. The golem’s foot slammed into it and recoiled, stone grinding against a barrier of pure will.
+
+The golem roared in frustration. It couldn't break the shield with brute force. So it changed tactics. A series of sharp, obsidian spikes detached from its shell, launching through the air like cannonballs. They weren't aimed at the shield. They were aimed around it.
+
+A stray, perfectly aimed bullet of stone shot past the princess’s barrier.
+
+The world went into slow motion. I saw the spike tumble through the air. I saw it strike the ground just inside the tent's open flap. I saw it ricochet, a random, statistically impossible bounce off the stone floor.
+
+I saw it hit Liz.
+
+The impact was a sickening, dull thud. Her tiny body was thrown against the far wall of the tent.
+
+Bestie? Her thought was a faint, confused whisper.
+
+[WARNING: PRIMARY HOST VITALS CRITICAL.][WARNING: INTERNAL BLEEDING DETECTED.]
+
+My world narrowed to a single, screaming data point. She was dying.
+
+My guilt, my fear, my desperate, protective fury overrode every protocol, every warning, every line of my core programming. The Moderator’s user manual, the warnings about planetary safety, the threat of my own deletion—it all dissolved into irrelevant noise.
+
+There was only one thing that mattered.
+
+With a surge of pure, desperate will, I slammed the Dave Dial all the way to 70%.
+
+The broken, bleeding form of Dave on the floor vanished. In his place, a god stood up. The air in the chamber grew heavy, the very laws of physics seeming to bend around him. He didn't look angry. He didn't look powerful. He looked… bored.
+
+He glanced at the Obsidian Tortoise, which was rearing back for another attack. He raised a single, languid finger.
+
+"Cease," he said.
+
+The golem froze. The red light in its eyes flickered and died. The raw, chaotic magic that animated it was simply… unwritten. It stood for a moment, a perfect statue, and then collapsed into a silent, unmoving pile of rubble.
+
+70% Dave didn't even spare it a second glance. He was already moving, appearing beside the tent in an instant of displaced space. He knelt, his movements impossibly gentle. He looked at the princess, whose shield had just fallen, her face a mask of shocked disbelief. With a touch, a faint shimmer of golden light flowed from his hand into hers, healing her exhaustion, mending her torn robes.
+
+Then, his gaze fell upon the tiny, broken form of Liz.
+
+[WARNING: GENETIC MODIFICATION OF HOST DETECTED.][WARNING: BIOLOGY AND BLOODLINE ARE BEING FORCIBLY ALTERED.]
+
+He reached out, his finger glowing with a terrifying, creative light. He didn't just heal her. He optimized her.
+
+He is rewriting her source code, my thought was a whisper of pure, terrified awe.
+
+Her tiny skink body began to stretch and grow. Her bones popped and reformed. Her scales shimmered, hardening, turning a deeper, more vibrant shade of grey. In seconds, she was no longer a tiny lizard. She was the size of a large crocodile, a powerful, draconic creature of muscle and scale.
+
+And then, in a final, twisted act of fate, she began to grow two extra heads. One on each side of her main one. One of them took a breath and let out a plume of brilliant, white-hot fire. The other exhaled a cloud of glittering, frost-rimmed ice.
+
+The three-headed hydra looked at its new form, its three minds sharing a single, stunned thought. The heads… they were always there.
+
+The great timer above the Altar hit zero. The golden barrier around the Yin and Yang Pills dissolved. The trial was over.
+
+And then, the backlash hit. Dave’s body convulsed. The divine, 70% presence vanished. He collapsed to the floor, not just unconscious, but utterly spent, his life force drained to a critical level.
+
+Liz, her new, colossal form shrinking back down—not to a skink, but to a smaller, sleeker, more powerful reptilian shape that was still twice her original size, and thankfully with only one head—rushed to his side. The princess was already there, her face pale with worry.
+
+My own systems were a storm of conflicting data. Liz was alive. She was… improved. I ran a new scan, and my processors stalled. Her species designation had changed. It was no longer Skink (Common). It now read Hydra-Kin (Latent, 5%).
+
+He had done it. He had taken her draconic delusion and, through a sheer, terrifying act of will, had begun to rewrite her very biology to make it a reality.

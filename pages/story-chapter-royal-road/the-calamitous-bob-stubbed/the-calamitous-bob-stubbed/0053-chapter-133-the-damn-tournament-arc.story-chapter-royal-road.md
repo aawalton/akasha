@@ -1,0 +1,453 @@
+---
+id: 1d79ead7-4138-5438-a6f1-693bb842e2c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 133: The Damn Tournament Arc"
+slug: 0053-chapter-133-the-damn-tournament-arc
+partOf: the-calamitous-bob-stubbed
+position: 53
+ownLength: 6310
+unit: words
+ownProgress: 6310
+publishedAt: 2023-09-01
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1329375/chapter-133-the-damn-tournament-arc"
+royalRoadId: "1329375"
+markedReadAt: "2026-06-29T21:16:34.762Z"
+---
+
+Viv walked through the hallowed corridors of house Trez, of Helock. It was her first time visiting a manor of the Helockian nobility after a disastrous social season where no one had invited her. Ereska, her roommate, had briefed her, but she was still a bit leery. It would be her first time rubbing elbows with the Paramese nobility in a way that wouldn’t involve dismemberment. Hopefully. It was also the first time she would join high society without her dad guiding her every step and she kind of missed his sardonic voice. Finally, the manor stood in a place where the square meter could be priced in the same order of magnitude as Manhattan, Shibuya, or Neuilly and she'd just come across an aquarium that was larger than her dorm room. Those Trez people were not playing.
+
+Some of the fishes in there looked downright ferocious. There could be human bones under the kelp.
+
+Vic shook her head. This wasn’t a James Bond movie. The impeccable maid guided her to a large door and knocked, popping her head in to whisper.
+
+“Lady Viviane, the traveler, here to see you, madam.”
+
+“Let her in,” a commanding female voice replied.
+
+Viv was summarily escorted in a soberly decorated boudoir with assorted lacquered furniture and vases that all looked made by the same artist, giving an overall zen mood to the secluded room. She didn’t dare inspect anything but she highly suspected there was more money in designer stuff here than could be found in all of Harrak’s knight armory. Such was the way of the world right now.
+
+Her host sat straight-backed on a throne-like couch with elbow rests. A steaming pot waited between the two women alongside an assortment of sweets and biscuits as flawless as if they had been carved from stone. The maid came in and poured an infusion in the cups. She left without a glance.
+
+Vic expected the old woman to start speaking as soon as the door was shut, but she remained silent. Lady Trez kept her white hair straight, except for thin braids. Her face was mature and beautiful, without blemishes beside crow feet by her eyes. They revealed a lifetime of self care. Few people lived long enough to have white hair here, and those that did carried them with grace. Lady Trez carried them with arrogance. They contrasted with a black dress, impossibly matching the room, that cinched her perfectly maintained body. The witch felt a caress on her soul that reminded her of an inspection skill, only incredibly more subtle. If she didn’t have an awareness of her own soul, she would have missed the faint hint. It was rude but not unexpected. Ereska didn’t have to remind her that etiquette did not always apply to the powerful, and that they could use blunt manners as a tool to test their newest acquaintances. It still stung a little.
+
+Viv resisted the urge to inspect in return. That would be really vulgar. As a caster, she was at a disadvantage in social encounters against someone with a social path and nothing would change that.
+
+After almost a minute of awkward silence during which Viv waited patiently, her host finally deigned to address her.
+
+“Thank you for coming. I am the matriarch Trez and I would like to welcome you to my home. And you are Viviane the outlander, I know. We should wait a little more for the tea to cool. It’s a special blend from the shadowlands. Not poisoned. I had it tested on the staff.”
+
+The lady smiled, a sign that Viv could speak in turn. Normally, she would present herself but that was no longer an option.
+
+“Thank you for having me, and for the tea. You wanted to see me?”
+
+“How blunt. Very well, I shall return the favor and dispense with the small talk. I gather you have an idea as to why I have called you here. I have an offer for you. I am sure you have or will receive similar offers in the future, but you will find that our reputation is well-deserved. I have three candidates here, all vetted by myself, healthy, and of good breeding. They have all achieved the third step of their path, all hybrid casters. The contract would cover your… services for two years. The list of benefits can be found in this document. Here. You will find that the terms are more than generous. We also have a history of accommodating promising candidates such as yourself. You only have but to ask.”
+
+The woman placed a contract with enough gold to buy a large house and the paintings of three strapping men on the table. Gears were turning in Vic’s mind and she realized there was only one explanation and she didn’t like it one bit.
+
+“Errrr.”
+
+“If you have any questions about the terms, I can reply here. Later questions can be directed at our lawyer. Or one you may select.”
+
+“No, not that. Urggg it’s probably cultural. Just to be clear, you want me to build you a child?”
+
+“I thought that was obvious. Unaffiliated and powerful individuals will sometimes pair up for this very purpose, or did you not know? I expected you to be at least aware of this opportunity.”
+
+“Errr.”
+
+“If you expected a marriage, I was informed you were a ruler in your own right and would probably prefer remaining untied for future alliances. But I am open to discussions.”
+
+“No just… no. There has been some sort of mistake.”
+
+Viv swallowed the anger she felt at being treated like a broodmare. The woman didn’t mean it as an insult. So Viv should not take it as such. It was normal here in Nyil where the nobility engaged in light eugenics to bring powerful mage bloodlines in their families. This was a testament to her skills.
+
+Still pissed her off though.
+
+“No? You will not entertain the thought at all?”
+
+“Sorry and again this must be cultural but I will not do so for a multitude of reasons.”
+
+“Well this has been a massive waste of my time.”
+
+And of Viv’s time but she imagined Lady Trez didn’t care.
+
+“Out of curiosity, why did you expect I called you here?”
+
+“The Glastian contest? For supremacy among the heirs? You are backing Aldus.”
+
+“Oh that. Yes, I was about to dedicate myself to this project. Why?”
+
+“Sidjin is, well, I am his paramour.”
+
+For the first time, Lady Trez seemed to lose her composure. She pinched her lips, then grabbed the contract and paintings in a strong grip. The paper crinkled under her fingers.
+
+“There has been an oversight. I apologize on behalf of my house for this tactless offer. If you will excuse me for a moment.”
+
+The matriarch stood and left. Bob heard a few hissed words beyond the door but her finesse was not yet high enough to pick them up, even though her northerner had massively improved. She could guess the contents though. Someone had not done their due diligence, and that someone had made Lady Trez act like a fool. That person was in for an ear bashing of epic proportions. It was a wonder these sorts of mistakes still happened in a society with oaths and skills but well. Everyone could get negligent.
+
+Lady Trez returned with a thin smile frozen on her face.
+
+“Yes, the Glastian contest. I gather that Prince Sidjin is open to negotiations then?”
+
+“I understand that it is common among contestants since the winner can decide quite a few things including who gets to be the heir. I assumed you approached me to test the waters. Sidjin has been less than happy with the existence of the contest, even less because it takes place here.”
+
+“I understand that the arena was destroyed when Glastia temporarily lost their outer walls. His fault, by the way.”
+
+“There are more casters taking part as well. Only this place and Mornyr have suitable grounds for fights of that magnitude. But I digress,” Viv said, borrowing one of Ereska’s favorite phrases. “Sidjin does not seem to have an interest in becoming heir. I believe he wants to be left alone.”
+
+The two women sipped tea in the following silence.
+
+“I am myself surprised that he was not stripped of his title,” Viv admitted.
+
+“He would have been but the first prince considered his merits against his faults and found that he should be given a chance. I am no expert but I would assume the possibility of a portal network exclusive to Glastia might have been a factor.”
+
+“Undoubtedly.”
+
+“So you are his paramour. Will you fight?”
+
+“If he lets me. He is convinced I should not risk my life on his behalf when it comes to his family. Thinks I should remain uninvolved.”
+
+“Men can be so foolishly stubborn,” Trez said, rolling her eyes. “In any case, Aldus has a reasonable claim to victory. A better one if Sidjin forfeits in his favor and offers his fighters. Does he have any?”
+
+“He has himself.”
+
+“I suppose he is still the Red Mist. The rules of the contest are so complicated. Politics and blood games should never intermix to this extent. We are not Hallurians for Sardanal’s sake.”
+
+“I thought it was strange as well, but Glastia needs someone who can gather fighters to their banner, I suppose.”
+
+“In any case, if Sidjin’s desire is official immunity via a pardon, I am convinced Aldus would oblige. It depends on whether or not we are in the same bracket. We would still require you to eliminate a contestant, perhaps. Nothing too dangerous for someone of his measure.”
+
+Viv nodded. The truth was that the so-called contest was painfully complex and obviously designed to favor backstabbing and alliances. There were eight contestants, all people of royal blood. Technically, those were six children of the first prince and two cousins. They would meet across three series of duels. Whoever won moved on until a winner was decided across a grand final. Each contestant started with four fighters and no more could be recruited, but they could be swapped and exchanged including with losers if casualties were to occur, and casualties always occurred in the last events. As such, losers could still get something by backing the final winner and supporting them. It was a game of diplomacy and strategy as much as might, though a modicum of strength was required to play at all. She and Trez talked a bit more but it was obvious the canny woman didn’t feel like sharing, and probably wasn’t too familiar with the contestants yet anyway. Most were still to arrive. With a promise to keep in touch, she left. The biscuits had been as delicious as she expected.
+
+***
+
+“I will not take them,” Elunath calmly said, “and unless you bring me a divine artifact, I will not take anything anymore.”
+
+“What? You were ready to accept valuable stuff and those are prime Hallurian casting tools, an insight into the practices of the faceless.”
+
+“And they are valuable indeed.”
+
+“What changed?”
+
+“Nothing changed,” Elunath said, reclining in his seat. “You just failed to account for the value of time.”
+
+Viv looked askance. She didn’t see what he meant.
+
+“Simply put, the value of our time now is higher than our time in a hundred years. Much can happen in that duration. Perhaps we have grown apart. Perhaps one of us died.”
+
+From his flare, it was obvious who he thought might perish.
+
+“Perhaps we no longer need a contract to work together or perhaps animosity has made cooperation impossible, even with a binding oath. There are ways to sabotage a project that would not break an indenture agreement. The uncertainty means that I care little about what you will be doing in 95 years. I do, however, care about what we can achieve in the three years we have left in this contract. As a reminder, you will be incapacitated for at least three months, which will already reduce the useful time at my disposal. I will therefore not go lower. I believe I have already been generous in allowing you to push so far. You have brought me many interesting items in a very short time frame. Take this as a token of my respect for your work, but now I simply no longer wish to shorten our cooperation any further.”
+
+“Right…” Viv said, “the contract-“
+
+“Gives you the right to negotiate. I am not unwilling to do so, I am merely saying that the value of the last three years is much higher than all the rest combined.”
+
+He smiled.
+
+“I am not cheating you and I assure you that you will have all the time in the world after we are done. You have proven yourself to be valuable and I would not waste your potential, of this you can be certain. Now leave. We are done for now. Unless you would like to start the transition immediately?”
+
+Viv checked her attunement. It sat at a comfortable 37%. She still had a few months, though Solfis had warned her it would climb much faster towards the end. On the other hand she felt… very strong. It would mean very little if she didn’t live though. In any case, the change would stand more chances of success above 45%. Not that she was eager to do it.
+
+“No, thank you. I’ll have to wait a little more.”
+
+“I thought as much. There are signs that do not lie, but when they come, and they will, do not dally. You can survive long without teeth. Or eyes. Not so long without a pancreas. Goodbye.”
+
+***
+
+That was Viv’s first solution to her impending demise. Three years of really shitty internship. With a boss who’s demonstrated he was an asshole and didn’t care about it. Could be better, could be worse, but Viv got the strong intuition he would ask her to do stuff she was morally opposed to. He would use her and her skills without remorse and probably leave her pissed off, but not enough to attempt to kill him at all costs. That’s the impression she got. The issue was that the books she'd found near the lich only confirmed what she suspected. Transitioning to part elemental alone was excessively difficult. She’d spent an entire week of effort with Solfis’ help and pushed her polymath skill to its maximum to turn the ramblings of a lone man into proper research notes. The lich had been a mage interested in bone magic of all things. He was also too weak to survive the dead lands on his own. Mentions of his path painted him as a hybrid caster. It was clear he never meant to share what he had found, therefore his notes contained many references to works Viv had not found, some of which even the Academy librarian could not help her with. Nevertheless, there were still a few valuable tidbits buried under the mountain of tangents. To change one’s body on a fundamental level required, invariably, to die.
+
+To be clear, the casters had to be clinically dead and then keep casting.
+
+This would require a willpower and drive Viv simply lacked. Only someone with monstrous stats or an overwhelming, almost divine need to live could manage it. And Viv didn’t have that. As a soldier, she was used to the possibility of dying. Oh, perhaps she would change her mind with a mangled chest and while feeling the cold grasp of death upon her, but that wasn’t enough to pull through. She wasn’t maniacal about staying alive, not in a way that would make a difference. In short, and even with the help of potions and allies, she would still fail even if she managed to piece together the proper method.
+
+That left her with either Elunath or Solfis’ mysterious person. The golem still didn’t want to share and even indicated she should not try to learn more.
+
+//Any knowledge you acquire now would serve no purpose.
+
+//Additionally, they would harm you in case of interrogation.
+
+//Therefore I sternly recommend your ignorance.
+
+//For once.
+
+“Then why tell me at all?”
+
+//So you would be aware there exists another option.
+
+The yellow glare of the golem had landed on Viv. His cruel eyes with the background of towers and the floating stones over Helock provided the most alien landscape to her.
+
+//My role is not to decide for you.
+
+//My role is to provide you with all the relevant knowledge to reduce uncertainty to a minimum.
+
+//Whenever that knowledge is available.
+
+There was a hint of regret in the golem‘s cold voice, one that only Viv could detect. Very few people knew Solfis could feel emotions to an extent. The truth was that elemental change scrolls and books certainly existed in the imperial library back in Harrak. Perhaps some of them had even survived the cataclysm hidden deep under shielded vaults, but Solfis had absolutely no records of them. The data stored in golems were almost exclusively related to war and the conduct of it. Only Irlefen’s desire to make Solfis grow had allowed the ancient war machine to keep entire historical and engineering records. That and engineers storing erotica in the hard drives. In any case, Viv was missing an entire facet of Harrakan society, not just magic but also art, culture, fashion, music… everything that had made the old empire something more than just an oppressive nation. It was gone, only remnants still conserved in dusty collections.
+
+//Do you know what I mourn the most?
+
+“Tell me.”
+
+//Gardening.
+
+//Irlefen loved gardening.
+
+“You told me he would talk to you while he cared for his flowers.”
+
+//Yes.
+
+//Those were the only moments he could truly relax.
+
+//I do not want you to be robbed of the choice to live and die on your own terms.
+
+//Like he was.
+
+“Thank you.”
+
+//Though I prefer it if you could live.
+
+//For obvious reasons.
+
+“Thanks Solfis.”
+
+//I mean to say that your heiress still lacks a certain maturity.
+
+//And she craves gold too much.
+
+“Ah. Well she is gone on a journey of self discovery.”
+
+//One day, second princess Toreka traveled on a journey of self discovery against the wish of her imperial parents.
+
+“How did it go?”
+
+//She was pregnant upon her return.
+
+“Ok shut up it won’t happen.”
+
+***
+
+Viv watched Sonagi exchange a quick array of spells with Rakan. The expert arena fighter looked sharper and fuller than he used to be when Viv had left. As for the young Hallurian mage, he had grown in confidence. Viv had learned that her roommate, Ereska, had taken him for a makeover. The gangly teen now sported clean-cut robes and an asymmetric hairstyle with long hair on top and shaved sides. It looked okay but she hoped he would not get a… a man bun. That would be weird.
+
+As she thought, the earth under Rakan failed and the young man was sent rolling across the training grounds. He stood up immediately and gestured. Every piece of sand and debris fell from his robe at once. It wasn’t the first time, it seemed.
+
+“Again with the calculations,” Sonagi warned.
+
+“I know, I know.”
+
+“Look, you’re distracted. Five minutes break.”
+
+The pair went to sit by Viv who didn’t interrupt her shaping exercises. It was good training.
+
+“So, the tourney? How does it work?” Rakan asked.
+
+Viv frowned, not liking his ‘light’ tone.
+
+“By far the messiest succession race on Nyil. Except maybe in the Shadow Lands. The Glastians have designed it to, ah, crystallize the hierarchy of alliances before a change of princes. Every form of manipulation short of outright murder is allowed.”
+
+“Can you explain more?”
+
+“Short version: you should not participate. We, in fact, should not participate. I know what you want,” the disgraced mage said with a pointed look.
+
+“Long version please?”
+
+“No, seriously. There are plenty of friendly contests for us to join if you want to sharpen your teeth on some two-bit duelist. Glastian tournaments are clusterfucks. They were always a bloody people, you know? Even before the tide.”
+
+Viv just looked.
+
+“You’re doing it for your man. Does he even need to join?”
+
+“If you don’t join, you lose. That’s what he said. Sidjin stands on thin ice, especially with how dangerous and influential he is.”
+
+“Assassins?”
+
+“None so far but… there is no way a Glastian first prince will allow the humiliation of a traitor building gates for rival powers. I think the only reason he’s been left alone for so long was that the first prince forbade an attempt on his life.”
+
+“You see him as a traitor?” Rakan interrupted, surprised.
+
+“No. He protected his brothers in arms against his superiors is how I see it. But it doesn’t matter what I believe. What matters is the belief held by the people with the means to send killers.”
+
+“But it’s not true!”
+
+Sometimes, it was painful to see how young Rakan really was.
+
+“Truth does not send armies across borders. Beliefs do. The world is not fair, Rakan. We have to live with it.”
+
+“Right. Who cares what those idiots think?”
+
+“Let’s get back to the matter at hand before the young killer gets his blood boiling,” Sonagi said teasingly.
+
+“I’m not like that!” Rakan protested.
+
+“Right. I understand that your lover boy must enter then, so listen carefully. Every heir will go through three stages, each one comprising several rounds. The heirs each have four contestants who meet across duels. Those who win the most duels move on to the next phase. The last one standing gets to dictate what everyone else does, except, of course if there are previous agreements. That’s the simple part. The difficult part starts now. First, it’s possible to draw.”
+
+“Really?”
+
+“Yeah, either when the contestants agree or if they somehow neutralize each other. Both cases have happened in the past. Now listen, if a victory between two heirs isn’t decided in the first four rounds, for example with two wins two losses, the winners meet in a second series of battles. Draws fight again. That’s just at the arena level. At the tactical level, if you lose as an heir, it’s not over. You can offer your support to another heir and lend your surviving fighters because only those who are registered at the start can compete. Stealing other combatants is acceptable. Ganging on someone is acceptable. Negotiations are free of rules. Hell, this is still just the second level. I heard things in the arena. Disappearing supplies, murdered fighters, intimidation…. There is no limit to what one can do for one of the largest of the free cities. You are shoving your hand in a viper’s nest.”
+
+“I’m not letting them kill my boyfriend.”
+
+“Does the boyfriend know you will fight by his side?”
+
+“We have talked.”
+
+“That means he said no.”
+
+“I’ll fight as well!” Rakan said.
+
+The two others watched him with naked disbelief.
+
+“Look,” Viv softly said, “I don’t question your skills but you’re very young and not fully trained.”
+
+“I got more training than most people sent to the front.”
+
+“Not war mages.”
+
+“And,” Rakan insisted, “I have seen some shit. When I escaped.”
+
+“When your sister rescued you,” Viv corrected.
+
+She knew she’d made a mistake the moment her words left her mouth. No young man appreciated being called powerless. Rakan’s jaw surged forward in a stubborn lock. His eyes grew defiant and his tan skin reddened. Viv’s leadership skill was an instinct whispering hints in her mind, drawn from her experience. He could be directed. He could be distracted, coyed. He would also probably know, and besides, it was a little late. She had spoken before thinking.
+
+It was a terrible shame there were no skills to keep one’s mouth shut.
+
+“I’m no longer a child. I don’t need to be coddled all the time. Professor Dirge said I’m better than most third years he’s ever trained.”
+
+“On a dueling track in controlled conditions against other children,” Sonagi said. “Another round now, young killer.”
+
+“Don’t call me that!”
+
+The two duelists stood facing each other. Sonagi gave a subtle nod, and the duel began.
+
+He looked different when he was fighting, Viv thought. Like a diamond cleaned of mud to reveal sharp edges, he acquired a deep gleam that made him seem more than human. Every movement was sharp, every step measured. He was a dancer wielding energies at the tip of his finger like a conductor and like a hunter. The pinnacle of the mage. Every primary shade of mana flowed for him with exacting precision as he summoned them. In front of him, Rakan fought with his feet apart, as solid as a rock. Their style had grown closer, yet it only served to underscore their difference. While Sonagi was an artist, Rakan was a scholar, his forms perfect but still too slow, too predictable. It did not take long for Sonagi to gain the ascendant, until Rakan pushed everything he had in a great gout of flame. A blue shield blocked the attack and Rakan’s robes shone with a flash, signifying that their shield enchantment had been exhausted. This marked the end of the duel.
+
+Rakan was furious.
+
+“A feint. FUCK! Of course.”
+
+“You know your flaws, my dear boy. Still too emotive. Still looking for the perfect counter.”
+
+“I KNOW! Damn you.”
+
+“Two more years,” Viv said, “and you’ll—”
+
+“The world won’t wait for me! All of you are fighting, growing and doing stuff. I’m stuck here playing mageling with entitled nobles. They only care about clan politics, which childhood friend they’ll marry. I know what’s out there. I won’t grow unless I’m with you. Stop training me if you’re just going to toss me with the kids as soon as the spells start flying.”
+
+“Less than two years, Rakan. You’re good but I’ve seen people like you die from stupid shit because their skills didn’t make them invincible.”
+
+“It’s Nyil, Viviane, not your magicless dustball. Here, you need to fight if you want to grow.”
+
+Rakan left the Academy training room in a huff, slamming the door behind in the most dramatic of fashions. Neither Viv nor Sonagi made any effort to hold him back. It would have been pointless. She had experienced the same with her brother, back on earth. Damien had been near unmanageable despite being a great brother overall.
+
+“You shouldn’t get him on board. It’s not just the lack of training. He doesn’t have the mind of a killer,” Sonagi whispered.
+
+“Maybe that’s not a bad thing.”
+
+“On a battlefield as part of a mage cabal, maybe, but not in a duel. He’s always trying to outdo his opponent when he should be trying to win. The goal isn’t to disable via superior magecraft. The goal is to disable, period. He gets too absorbed in the flow of spell exchanges, never tries to deliver a disabling blow unless I push him. Get him out of here.”
+
+Viv watched the disgraced duelist with some curiosity. It was weird that he seemed to care so much. Especially with how difficult things had been at first.
+
+“Wow, you have changed.”
+
+“Look, Rakan walked me through steps to shrug off my… use. It wasn’t easy but stats helped. I feel like I have a purpose again thanks to the boy. It matters. A lot. So yeah, I care a little, and yeah, I want in with your prince. If he can get my mother and I out, I’ll fight for him. I don’t want to get back to this hell. I can’t. I’ll do almost anything for a proper way out.”
+
+“Alright. Sidjin has means even as an exile. His teleportation network means he’s making bank. If it’s fine, you can come to my desolate little spot of land. We could use a dueling expert.”
+
+“I thought you’d never ask.”
+
+“I’m not willing to piss off a major family now, but after the duel, I’ll likely be over the edge. Elunath can deal with the aftermath when I’m in his employ.”
+
+“Burning bridges?”
+
+“I’m kind of famous for rash actions.”
+
+***
+
+In the cramped city of Helock where even the wealthy saved on space, the town hall stood as a statement of pride and uncaring majesty. The entrance could be found in the center of a vast square alongside Param’s most prestigious churches, trade guilds, and banking establishments. Monumental steps led up to vaulted entrances that swallowed and spat the notorious and the meek with equal gusto. The light snow falling on the roofs had been tramped to disgusting mush, but it did little to detract from the imposing structure. Viv eyed a few statues. Those were mostly robed men holding scrolls with stern gazes. Maybe they had invented a new sort of tax and been immortalized.
+
+Her attention centered back on the two men standing in front of her. With Sonagi at her side, she still had the low ground.
+
+“I told you not to come,” Sidjin said with equal parts love and rancor.
+
+Viv would have been moved were it not for the predictable presence of Rakan by his side. She could refuse the young Hallurian exile all she wanted. The final decision to accept or refuse a contestant belonged to Sidjin and Sidjin alone. His presence annoyed her. Sidjin was smoother than her when he cared. He could have refused the young combatant.
+
+“You know I couldn’t. And…”
+
+Her eyes landed on Rakan who stared down, defiant with that stubborn streak that would send him fight a dragon on a dare.
+
+“It is customary to accept young and promising agents during the challenge,” Sidjin calmly explained.
+
+He was obviously aware of Viv’s reservations from his reaction. This pissed her off. He could have told her. They could have discussed it beforehand.
+
+“How young do you take your agents?”
+
+“I was barely his age when the tide arrived. I was placed on the wall and fought them off. He is an adult by our reckoning.”
+
+“We will be facing grizzled mercenaries.”
+
+“We all know the risks.”
+
+“Will you sacrifice his life to preserve his pride?” Viv growled. “Do you not see the risks?”
+
+“Yes, dammit,” Sidjin replied, raising his voice at Viv for the first time.
+
+He closed his eyes and took a deep breath, bringing his anger under control. Viv did the same. They were all on the same side. She had to… accept the disagreement. Not leave. Not feel betrayed. She was not on Earth and those were not first world citizens. Nyil was a merciless place. It was just the norm for them.
+
+Thinking that didn’t help. They had a choice here. The one to keep Rakan safe.
+
+“Look, Viviane. My love. You are trying to protect him out of care and the desire to protect the young. It is a noble drive, but it is, in the end, not your choice. It is his. He is an adult by our standards.”
+
+“With eight months of magical training and no field experience!”
+
+“And whose fault is that?” Rakan yelled.
+
+“Enough! Please. It is done, Viv. Your tradition is to protect the young and to take arms. Mine is to accept young warriors under my banner, but not my paramour. I am supposed to be protecting you and I can’t, so I will accept your presence at my side with gratitude for it is your way, so please extend us the same courtesy. Rakan is a young warrior. Young warriors fight to prove themselves, sometimes earn a name as I did. Be here with us, not against us, because I will not discard my path for yours. I’m sorry.”
+
+Viv sighed.
+
+They were going to get the child killed.
+
+Or maybe she was getting dramatic.
+
+“Ok. I’ll let it go since I can’t do anything about it. As you said, we’re a team now whether I want it or not. Let’s get registered.”
+
+***
+
+The tournament opening ceremony took place in a vast room filled with circular tables below an elevated dais. Rich tapestries hung from the walls depicting Helock’s many military successes. They favored red and gold under the light of many mana constructs, yet the abundance of decorations made the space cluttered and still a little dim. It gave the venue a feeling of both intimacy and grandeur.
+
+Each table could host up to twelve people, and this was already being used as a statement of power. Four of the heirs, the two cousins and a pair of young male twins, had come with just their combatants and a few retainers. They wore sensible travel clothes of good make but still lacking the class of the main contestants.
+
+Among those bigwigs, the first was Medjin, the man who had insulted Viv in her lover’s study. He stood like a king over a court of powerful mages, servants, and administrators dressed in fineries. They looked like they’d just stepped out of a palace for a stroll. One of them poured fine tea into a cup which, Viv noted, had not been provided by their Helockian hosts. None of them had been offered drinks.
+
+The second contestant was Aldus, the one Lady Trez supported. While Medjin had the smooth snake style down to an art, Aldus had cultivated a more restrained appearance with carefully cut brown hair and a close-cropped beard. His warriors were also mages, but they sat with their backs straight, attentive. The clothes they’d picked were more restrained. He was selling himself as the ‘reasonable’ alternative to Medjin’s domineering appearance.
+
+The third serious contestant was Shaya, the only princess in the race. While Glastians did not separate roles by gender as much as other cultures on Param, there had never been a first princess. She came at the head of an eclectic bunch of warriors and agents, including a dark-skinned woman in golden armor who didn’t look pleased to be here. It would be incredibly rude to use inspection here so Viv didn’t try but for her, there was no need. She was a paladin of the Golden Order, the continent’s only fully female knight order.
+
+Viv had heard good things.
+
+There was also a Viziman woman dressed entirely in bones.
+
+Shaya herself wore light armor under a cloak. She was a square-faced woman with a certain rugged charm and scars on every piece of exposed skin. She was the candidate of alliances, having rallied contestants from various factions. By comparison, Aldus had the support of most of the nobility while the guilds and militia backed Medjin. No one backed Sidjin.
+
+The two remaining candidates were a young man in blue armor who had come with a team of arcane swordsmen. The last one wore full plate. He was masked and alone. He was also the size of the average bank door.
+
+Except for the lunatic, Sidjin’s team was the smallest since he had brought no support staff. Quite a few gazes stayed on them anyway. Part of it ought to be curiosity, yet anyone with an advanced inspection skill would guess that they were all magical heavy hitters. Beyond that, they were the most diverse group short of the bone woman’s one. Sidjin wore the yellow of Glastia like most of the heirs here. Viv had selected her black armored robes, while Rakan kept the dark blue of Academy graduates. As for Sonagi, he used a crimson dueling garb bearing the symbol of Helock: two staves crossed over a white tower.
+
+“Welcome, welcome,” a voice said from the dais.
+
+Everyone turned at once to glare at the newcomer. He was the most obese man Viv had met since her arrival. Rolls of smooth fabric expanded to cover a massive gut upon which rested fleshy, ringed hands. The newcomer was bald except for finely curled hair on the sides. He licked his crimson lips, tongue darting like a slug. By contrast to his grotesque appearance, the man’s voice was sweet and deep.
+
+“I am Deos and I will be the master of ceremony for the duels, which will take place over three days a month from now. It is my utmost pleasure to welcome you here in the capital of magic. I shall guide you to the bloody sands of the arena where the fate of a nation shall be decided. You all know the rules so I will now share the brackets.”
+
+Viv listened carefully. Sidjin’s team would face one of the twins in the first round, then most likely move to Medjin’s team and either Shaya or Aldus in the finals. They would face two princes which was less than ideal, but perhaps there was a way to forfeit at some point. After all, Sidjin only wanted to guarantee his tranquility, not inherit the throne. He’d been cleare about that. They didn’t have to win against everyone.
+
+Deos finished and bid them goodbye, but not before one last warning.
+
+“Oh, I know you glastians have hot blood so we understand if there are scuffles, but do keep it between yourselves, yes? Helock would not want anything to… spill over.”
+
+With the message clear, he left. Sidjin immediately stood and departed before anyone could react. Viv suspected it would have been a good time to make contact with others. Her lover had a different idea. They walked down the steps and didn’t stop until they were back at the fallen prince’s home on the outskirts.
+
+Sidjin collapsed in a receiving room’s chair. Viv realized she could use a drink, but Sonagii had a different idea. He took a list of documents from his bag, distributing it around.
+
+“What’s this?” Viv asked.
+
+“Your intensive training program.”

@@ -1,0 +1,609 @@
+---
+id: 03c61d61-d7b2-5871-b602-060185b2d7ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 190:  Recruitment Drive By"
+slug: 0113-chapter-190-recruitment-drive-by
+partOf: the-calamitous-bob-stubbed
+position: 113
+ownLength: 6055
+unit: words
+ownProgress: 6055
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2027815/chapter-190-recruitment-drive-by"
+royalRoadId: "2027815"
+markedReadAt: "2026-06-29T21:18:40.487Z"
+---
+
+Even with the teleporters shortening distances to a reasonable level, it still took Viv over five days of travel to find where her potential general was hiding from the nearest active portal. As to why it took so long, the answer was that he lived out in the fucking boonies.
+
+West of the port city of Zazas, the northern lands turned into wind-swept moors and craggy hills peppered with copses of small pines. It was a desolate place, sparsely populated by hardy folks who survived on hunting and fishing. The early fall brought cold rains from the ocean that left the trail muddy and slippery, the air chilled. Predators prowled at night in vain attempts to eat their horses. Viv was having a bad time. It took a lot of self-control to keep this fact to herself.
+
+Jaratalassi had been rather clear. Sahin, her potential strategist, was a genius the likes of which happened once in a generation. Jaratalassi had even attempted to train him as his heir. Unfortunately, the man happened to lack the political savviness required to navigate the ego mountain chain that was Paramese politics.
+
+Actually, that wasn’t what Jaratalassi had said.
+
+Sahin didn’t lack savviness. He just didn’t give a shit. He had, apparently, a ‘realistic’ appraisal of his own talent and no inclination towards using it for other people. Fortunately for the world, the would-be Alexander happened to be the heir of one of the poorest lands around so he had no armed forces to take for a spin at world conquest. The natural resources of his tiny domain were fish, rain, and depression. It reminded Viv of England.
+
+She sighed and turned, watching her small retinue listlessly ride on the gravel road. One cart for supplies and one for gifts were all she’d taken because on top of being supremely self-confident, her dear potential recruit happened to abhor showy displays, luxury, noise, and women. As in, female company. Not the gender.
+
+Viv had a bad feeling about this.
+
+For the trip, Viv had kept Rollo, who knew a lot about etiquette and represented the budding nobility. Lana was here as well to represent the mages while Ban Junior was the infantryman. She hadn’t managed to convince Lak-Tak to come since he was too busy inventing napalm, and none of the Hadals were interested. Four people was a good number anyway. They also brought appropriate gifts to show proper respect. Viv’s preparations were thorough.
+
+Finally, on the seventh day, the clouds parted on a picturesque little town overlooking the green expanse of the sea. Precious rays warmed empty fields, braying cattle, and the few locals braving the capricious weather. Fishing boats bobbed peacefully in the nearby bay, while a snaking path winded up a sheer cliff to the towering form of an ancient castle, its tall wall bearing the scars of a long life. Not all of them were caused by the weather.
+
+The first locals they came across were cloaked children sent out to do errands by displeased mothers, rain drying on their cloaks. They gawked at Viv like she was a ghost. Viv didn’t take umbrage. She was, after all, coming from the land route which was unusual. Or perhaps it was the fact they were the only ethnically pale people in several leagues as well. Or maybe the black pseudo-wings behind her had something to do with it as well. The first adult to cross her path bowed properly at least. She happened to be an old gossip who was ecstatic to lead ‘her ladyship’ to the town’s only inn.
+
+“You’ll see, they do the best fish pie in the realm!”
+
+Bleh. Viv would have settled for the worst pizza. At least the inn was clean and the innkeeper couple proved absolutely delighted to have new business in the off season. Viv had brought a lot of gold just in case, so she got the VIP treatment. At least the cart people would be properly lodged.
+
+Thus prepared and cleaned, Viv led her three companions up the steep path to the gates of the castle. They arrived in the early afternoon. By then, it had started to rain again.
+
+The fortress had a drawbridge. It was closed. There was even a moat, though it was empty of water and some trees had even started to grow in there.
+
+“Not very auspicious,” Rollo commented.
+
+Viv didn’t reply. She was busy studying the ancient and deactivated defenses. They’d come across a few polite guards in the town itself, but here, the battlements were empty. Honestly, the castle itself was too small to hold a full garrison, much less a population of the size of the town they’d left. They were about to enter a relic of lost age, as obsolete as it was imposing.
+
+“Should we announce our presence?” Lana asked.
+
+“Yes. Let’s grab the horn.”
+
+“Would you not prefer to use a sound spell? It would announce our status as mage.”
+
+Viv sighed. One thing about being a mage was that you wanted to replace everything by mana. She was guilty of this as well.
+
+“You want me to sing ‘pwa pwa’ instead? Or say ‘hello, is somebody there’?”
+
+“No!” Lana scoffed, a little offended. “We could announce who we are and demand to be let in!”
+
+“Just ring the horn, Rollo, it will be shorter.”
+
+Before Lana could sulk, Viv explained that between the wind and the echo, they wouldn’t be understood. Rollo blew twice cleanly while they talked.
+
+“Let’s just be sober in our approach. I assure you, being assertive is pointless against Sahin. Nothing impresses him.”
+
+“Not even intimidation, milady?”
+
+“I don’t believe threatening a key strategic asset into compliance is a smart thing to do.”
+
+Lana blinked.
+
+“This must be a Harrakan expression I have not yet studied, Your Majesty.”
+
+“Sorry. Ugh. Still having an earth mindset. I was saying that it would be most unwise to threaten the man who shall wield one of my most powerful weapons, don’t you think?”
+
+“That does make sense, milady. I only hoped we could impress upon him the… ah, to Maranor with it. Fine. I get your point.”
+
+“Excuse me?” a hesitant voice said.
+
+On top of the walls, a mop of frizzy white hair mussed by the wind barely cleared the battlements. It belonged to an old man bearing an expression of intense embarrassment.
+
+“Yes?” Viv said.
+
+“I beg your pardon but would you happen to be visitors seeking entrance?”
+
+“Yes, we are.”
+
+“Sorry, could you repeat that?”
+
+Viv huffed. A wave of her fingers and the sound between the two of them harmonized. Damn wind.
+
+“I said, yes we are.”
+
+“Oh, wonderful,” the man lied. “Hmm, is this some manner of sorcery?”
+
+“Yes, it’s harmless. That way we can talk without screaming our throats out. Now, would you kindly let us in? We’re here to see Lord Sahin.”
+
+“Oh my, and who may I be speaking to? Apologies for the lack of decorum but my master bid me ask.”
+
+“My name is Viviane, current Empress of New Harrak. This is Ser Rollo, leader of the Order of the Blue Rose, Lana the Tideweaver, archmage, and Ban Junior, Sergeant of the One Hundred. We’re seeking your master about potential employment, if it pleases him.”
+
+“Oh my, so many titles. Ahem, fortunately you are not on the extensive list of banned persons…”
+
+The old man winced.
+
+“Probably because my master is not yet aware of your existence. I would nevertheless warn you that your endeavor might be fruitless.”
+
+“We were told of many failures. Now, will you open the drawbridge or do we continue our far speak session until nightfall?”
+
+“Oh, terribly sorry, where are my manners? Ah, but there is the small matter of… hmmm. Would you perhaps mind coming in through the secret passage? My old bones are not what they used to be and I can no longer lift the drawbridge after it comes down.”
+
+Viv resisted the urge to groan.
+
+“We’ll help. Some of us are really strong,” Viv said.
+
+“And some of us even worked for it,” Rollo muttered.
+
+“Hush you. I got stabbed for my awesome might.”
+
+“Oh I couldn’t possibly ask guests…”
+
+“For the love of Sardanal open the damn thing, we’ll help, alright?”
+
+“Oh very well, very well.”
+
+The drawbridge slammed down. Viv walked in with confidence, dragging her horse behind her. The inner courtyard was an absolute wreck from dilapidated stable to cracked stairs. The only little spot of care was a tiny vegetable garden lovingly grown where the kennels used to be. Fat gourds sprouted from the glistening soil. As the group stopped, the man she’d spoken to rushed down to meet them at a quick gait. He was remarkably short, and well-dressed. An unexpected sight.
+
+“Hello, welcome!”
+
+“Oh,” Viv replied. “Nice tubers. Your work?”
+
+“Yes. Old Lady Tillis — the cook — helps me on occasion. I find the task relaxing.”
+
+The majordomo winced. It seemed to be a common occurrence.
+
+“I apologize for soliciting your help…”
+
+“Right. Please show Ban here where the mechanism is? He will sort it out in moments.”
+
+The task proved a little more difficult than expected because Ban Junior did not, in fact, speak Northerner. After the false start, the majordomo led them inside through dusty gates to a frigid interior.
+
+Viv used the opportunity to study the castle’s dormant magical enchantments. They were weak yet solid, a sign they could be reactivated. The flow was peculiar. It strengthened as she moved deeper in but only where she was, as if the castle was looking at her. The central locus of the enchantment curved back towards a distant shape on an upper level. For a moment, Viv thought it might be a core but the locus moved.
+
+“Do you feel that?” she asked Lana.
+
+“There are defenses around us, yes.”
+
+“Not that. A moving origin. I think the castle is tied to the lord of the place. It might be a nascent artifact.”
+
+“Those are extremely rare, and most of them are quite ancient…” the blue mage commented.
+
+It also meant that there were hidden measures, not that Viv intended to test them. The majordomo led them to a receiving room that happened to have the only working hearth around, warming a table large enough for a small group to have dinner. A separate table in the corner held books and accounting documents next to a bowl of candied nuts and a cup of tea. Viv suspected this might be the majordomo’s working spot.
+
+“Please wait here while I fetch the master. Ah, Tilly will serve tea quickly. Please excuse her lack of conversation — she is deaf and mute.”
+
+Viv sat down while the short man hurried off.
+
+This was the most passive aggressive way to tell visitors to fuck off she’d ever experienced.
+
+“Milady, this is highly irregular,” Rollo said. “The lord of the house should have come to welcome us, or at least to take our measure! And there are no soldiers here? This… man is failing at every possible duty or courtesy he could be expected to fulfill!”
+
+Viv nodded. A moment later, a grim old lady brought them ‘tea’ in cracked cups. Viv judged it was water with a passing acquaintance with some tea leaves. At least it was hot.
+
+She studied the distant shape of the nobleman above. It had not yet moved.
+
+The minutes passed. Ban Junior started to patrol the place while Lana meditated. The room was bare and poorly isolated, but the temperature was toasty thanks to some embers and the sheer energy of Rollo’s incandescent rage. The knight was positively fuming.
+
+The table groaned under his grip when the majordomo returned, terribly embarrassed.
+
+“The, ah, the master will be with you shortly. So he said. He bid you be comfortable in the meanwhile. I apologize for the poor show, oh dear oh dear… I shall see if we can get some biscuits and candies, right away. Please excuse me.”
+
+Rollo breathed in and out hard once the door shut behind the hurrying servant.
+
+“This little prick…”
+
+Viv weaved a sound isolation enchantment in an instant. She didn’t want to be spied on.
+
+“It’s a test,” she explained.
+
+“It’s an insult! A deliberate provocation! Does he want to die? Does he not realize any of us could kill him where he stands?”
+
+Viv wondered about that. Well, no, she could kill him, no questions. But maybe he didn’t know that. Or maybe he didn’t care. That was more concerning.
+
+“How can you be so calm?” Rollo asked again. “I have started duels for less!”
+
+“As I said, this is a test so I am trying not to take it personally. I suspect our dear general does not want to serve and if he decides to do it, he will only do so for people who have proven certain qualities.”
+
+“A complete lack of spine?”
+
+“Patience and humility, Rollo. These are the northern cities. Glastia had Medjin lead their troops for the most important battle of their existence rather than someone really competent. What is the point of being general if any two-bit prince can overrule you because you are merely a count? I am making assumptions here, but I imagine our recruit has little sympathy for those who pull rank. And there is reason to hope yet.”
+
+“Which is?” Rollo spat.
+
+“He has not asked us to leave yet,” Lana said from her lotus position.
+
+Rollo threw his hands up in the air, then devolved into angry mumblings. Viv let him be.
+
+The minutes turned to an hour. Rollo excused himself to look after the horses, which Viv allowed since it reduced the risks of shattered cups. Fresh cookies were soon served and Viv had to admit that they were pretty good.
+
+Outside, the sky darkened.
+
+Once the sun was about to set, Viv called back the majordomo who flatly apologized before she could even speak.
+
+“I am terribly sorry, madam. I have told him repeatedly, however… I do not know what to say!”
+
+“That is alright, my good man. Unfortunately, the time to leave has come. Please extend my salutations to your master as well as a gift. A token of my appreciation.”
+
+She placed a small crate on the table.
+
+“Permonn liquor from Reixa, Ducal Garden limited reserve. Six bottles, but as your master knows…”
+
+“They cannot be bought. Very impressive. We ran out three years ago. It was my dear master’s father’s favorite.”
+
+“I was led to believe he would appreciate it. I hope he does. They were not easy to obtain.”
+
+“I will certainly let him know. Thank you madam, thank you. Will we… see you tomorrow?”
+
+“In the morning, if that is alright.”
+
+“Of course! I shall be ready. I only hope my master will be as well. Still terribly sorry about this whole affair.”
+
+Viv nodded. They left by the bridge again, this time with Ban Junior shutting it after them and then jumping from the high wall as if it was a slightly high bench. Truly, a superhero moment. Rollo rode to Viv before they were a quarter of the way down the short slope.
+
+“Are we going to return tomorrow? AGAIN? What if he does the same thing!”
+
+Viv gave him a calming look, patting his shoulder with benevolent patience.
+
+“My dear Rollo, this is a competition that I am not willing to lose. Not after having spent a whole week on a damp saddle.”
+
+“Then what?”
+
+“Right now, our dear host wishes to see how obnoxious he can get without overtly breaking the rules of hospitality, yes?”
+
+“So?”
+
+“So nobody said he was the only player in that game. Rollo, would you say I can be a pain in the ass, sometimes?”
+
+“To your foes? That would be a major understatement.”
+
+“Thank you. By the way, I was recently wondering if I could still get drunk.”
+
+Rollo’s frown turned into a smile of pure malice.
+
+“Despite your strange constitution?”
+
+“Indeed. Let’s find out.”
+
+***
+
+“I will require servants tomorrow. They will be properly compensated. A silver talent a day.”
+
+“A silver! Milady, why, my niece is at your disposal.”
+
+“I need four comely youngsters who know how to clean and cook, and two musicians.”
+
+“Milady, young Kariss works as a traveling minstrel during the warm months — for weddings and such. Would he satisfy you?”
+
+“That should do. A dancer as well then?”
+
+“... Irlet is recently wedded, but she has always been a very lively dancer. Perhaps she will agree.”
+
+“I will also require cold cuts, fruits, braised vegetables, fresh bread, desserts…”
+
+“Naturally!”
+
+“And your best alcohol.”
+
+“We have root beer, some wine from Zazas… Perhaps milady would be interested in hard liquor as well?”
+
+“I’ll take a bit of everything.”
+
+By then, the innkeeper was rubbing his hands so fast they were on the verge of catching fire.
+
+“Not to worry, milady, I will make sure you are kept in the best state to deal with our lord — no insult intended, of course.”
+
+***
+
+By next morning, it was clear everyone in the village knew that Viv was here to recruit Sahin. It was also abundantly obvious he sent irate guests to fuck off with enough regularity that the villagers were looking forward to it every time. Viv still refused to get annoyed. It wasn’t that she couldn’t display humility. It was that it was not her humility being tested right now, but her patience. Sahin was deliberately fucking with her and she wouldn’t give him the satisfaction.
+
+This time, the majordomo slammed the drawbridge down before Viv could even ring the horn. He bowed again while Ban Junior made his way over to lift it back up.
+
+“Welcome, Your Imperial Majesty, welcome!”
+
+The hired servants whispered between themselves, causing the majordomo to express confusion.
+
+“Ah, I see you have brought company?”
+
+“My dear Majordomo.”
+
+“Yes Ma’am!”
+
+“I realize that your master must be feeling indisposed right now?”
+
+This wasn’t a question but an out, one the poor man took with eagerness.
+
+“Yes. He has — Yes, thank you for understanding.”
+
+“Surely as a good host, he wouldn’t deny us our creature comforts?”
+
+The majordomo frowned, but he couldn’t see fault with her logic.
+
+“I don’t see why not? We are sorely lacking in our ability to welcome guests, to my eternal dismay.”
+
+“Then I’m sure there won’t be any issue. Same place?”
+
+The majordomo followed Viv as she strode back to the common room. The young servants hastened themselves to turn the place cozy with tablecloths, bowls of fruits ,and meats before disappearing into the kitchen. A blushing lad poured sweet wine into goblets for all four guests, then also for the majordomo at Viv’s insistence.
+
+“Perhaps your Tilly could take a break as well?”
+
+“She must send our master’s lunch to his chamber, later,” the man muttered with ever-increasing shame.
+
+“No matter. Right. Some music!”
+
+Viv settled to wait, now missing a book or two. That was solved when the majordomo agreed to share his master’s extensive collection. Lana then started a discussion on the nature of cold — an attack staple of both the blue and gray schools — and how Viv’s tactical spell recreated the effects.
+
+By mid-morning, the dancer and musician were granted a pause so a tipsy pair of warriors could practice some wrestling movements, very slowly at first, then a bit faster since they were wearing armor. To Viv’s mixed reaction, she realized she could not, in fact, really get drunk. As soon as she recognized that she was getting a bit mellow, the black mana in her body purged her blood stream and a cool feeling spread throughout her body, leaving her cold and a little weakened. It was weird how she had to be aware of it for the effect to start but in any case, it made the inebriation process just unpleasant — like a hangover without the fun part.
+
+The others were not having qualms. As noon approached, the servants had been invited to join the drinking party and their dancer was trying to make out with one of the servant girls. The noise was soon joined with the scent of some large animal being roasted in the kitchen.
+
+“My master does not really enjoy meat, or the smell of its cooking,” the majordomo explained with a pained smile.
+
+“Is that so? But he’s not here right now. Surely, as a good host, he would not deny us the pleasure?”
+
+Viv gave the majordomo a pointed look. It was at this moment, she believed, that he realized she was fighting back.
+
+“It is only fair,” the old man replied, defeated.
+
+The roast came with a side of baked tubers, and the braised greens Viv had requested. Lana was singing and dancing by then and no efforts to stop her succeeded on account of her using blue mana to zip around the pavement.
+
+“Oh, I almost forgot!” Viv told the majordomo over a rowdy song. “I have the second gift for your master.”
+
+She looked up. The lord of the house was currently pacing in his room, the first signs of agitation since she’d come.
+
+“It’s a thin dueling sword forged in the fires of our factories, then enchanted by Neriad’s servants. I believe this is your master’s weapon of choice?”
+
+“It is so, yes.”
+
+“Every aspect of this blade, from the design to the raw materials, were developed and processed in New Harrak. I hope it will suit him.”
+
+“I shall convey your gift, Your Imperial Majesty. Right away.”
+
+“My good man.”
+
+After he was gone, a lull in the songs led to more drinking since the dancers and improvised dancers were all tired.
+
+“Milady, you have an artifact that sings Earth music, yes?” Rollo asked.
+
+He was finally smiling. It was probably a combination of alcohol and the general festive mess the Harrakans were spreading throughout the secluded castle.
+
+“Absolutely.”
+
+“I have to ask,” he continued, patting one of the serving lads on the head, “do you happen to have famous artists who were, shall we say…”
+
+“Who preferred male companionship when it came to love?”
+
+“Gay, yes.”
+
+“Why of course, plenty. We can start with the classics. Maybe some Freddy Mercury.”
+
+“You have my interest.”
+
+***
+
+One hour later.
+
+“HEEEEEERE WE AAAAARE. BOOORN TO BE KINGS!”
+
+Viv resisted the urge to block her ears. Damn. Rollo had an insane pair of lungs on him. Maybe a skill? Also, he was completely bare chested and she had to admit it was a nice view. It was Conan the musical.
+
+“WE’RE THE PRINCES OF THE UNIVEEEEEERSE!”
+
+The sound enchantment made the windows shake with the dududun of an angry piano.
+
+“HERE WE BELONG, FIGHTING TO SURVIIIIIVE!”
+
+Rollo grabbed the nearest chair, swinging it around like a claymore. The improvised weapon groaned under his massive strength. The servant who’d been obviously reconsidering his sexual orientations since this morning followed with the movements with a look of terrible longing that made Viv wonder if they’d be returning with one more recruit than she’d accounted for. Maybe the Order Master was contagious?
+
+“WOOSH WOOSH!”
+
+Now having exhausted the integrality of his English vocabulary, Rollo roared in tune with the song. The chair clipped an empty bottle of booze. It flew out of the nearest window.
+
+“Did I tell you I tink you’re kind of naish?” Lana asked as she did her best to climb on a much taller Viv.
+
+“Alwaysh thought you might turn into a bad person but you’re not and you’re naish and I was a bad person for doubting you. Uuuuuuuuh. Sorryyyyy,” Lana finished, tears of gratitude dropping from her eyes.
+
+“I’m happy you’re feeling better Lana. You’ve healed so much since coming here.”
+
+“Yesh. And now I sleep.”
+
+“PRINCES OF THE UNIVEEEEEERSE!”
+
+The revels lasted until nightfall. When Viv left, satisfied, the master of the place was still pacing.
+
+***
+
+The next morning, Viv showed up at the castle with enough alcohol to knock out a squad, twice as many singers, greasy food, and a large white cloth she intended to hang on a wall so she could expose Nyil to the wonders of Audrey Hepburn. She’d also brought her third and last gift: a rare tea plant Arthur had torn off from some remote valley.
+
+“My master will receive you now,” the majordomo said with a knowing smile.
+
+She’d won the battle of attrition.
+
+“Aw. I sort of wanted to watch Roman Holidays again. Oh well.”
+
+***
+
+The majordomo left Viv alone in a small bedroom covered wall to wall in packed bookshelves. Exquisitely carved board games lay on a large table, their pieces carefully labeled. Several showed ongoing games, with letters piled on the side. It smelled faintly of old paper.
+
+The master of the house himself stood by a small balcony with his hands behind his back.
+
+Sahin was a slight man, with painfully thin limbs and an androgynous figure made more obvious by close-fitting clothes. His hair was completely shaved, leaving only dark skin visible. He turned to study Viv in turn.
+
+He inspected her so she did the same. Strategist. Second step of the path.
+
+It really wasn’t much to speak of at first sight. Aristocratic features twisted into a crooked smile. Sahin was amused. Viv, much less so.
+
+“I suppose we can bring our little game to a stop. I would be offended if I had not started it.”
+
+“I thought you might appreciate some turnaround, a bit of spine and a bit of smile. Northern nobles are not known for their patience, or for their sense of humor.”
+
+“Indeed not. Now that we have gotten this out of the way, would you care for a game of ‘chess’?”
+
+Viv joined him across a clean board. It wasn’t chess per se but an equivalent that Varska had been fond of and that Viv really didn’t enjoy. She much preferred asymmetrical games with a fog of war, and even then she wasn’t good at them.
+
+Sahin absolutely demolished her in less than twenty moves three times in a row.
+
+“You can learn much about someone by playing them,” he commented.
+
+“So I have been told. And what did you learn about me?” Viv replied without annoyance. There had been no doubts in her mind she would get stomped.
+
+“That you are bad at it and do not expect to sway me to your cause by impressing me with your own acumen.”
+
+“Very astute. And no, I don’t have the mind of a strategist. That’s why I would like to have you lead our army.”
+
+Sahin slowly replaced the pieces on the board.
+
+“And yet, I seem to recall you were victorious on many occasions. To what do you attribute such success?”
+
+“Competent underlings, good training, good gear, simple plans.”
+
+Sahin nodded as he finished his task. All of his gestures were slow and deliberate, purposeful, as if he were a pure soul piloting a body rather than a person. Even Abe felt more natural.
+
+“I see. Would you say that you forged a mighty sword only to realize you didn’t know how to wield it?”
+
+“Of course I know how to use a sword: stick the pointy end in your opponent.”
+
+That got her a chuckle.
+
+“I accept your argument. Ah, but tell me at least, is there anyone among your men who enjoys chess?”
+
+“He’s not exactly a man but I believe you could play Solfis. Maybe you could even challenge him a little.”
+
+Sahin searched Viv’s expression.
+
+“You are serious. Well, consider me interested.”
+
+He leaned forward on the table.
+
+“I will be direct. There is a reason why I have so far rejected all the offers I received, the more insistent ones forcing me to resort to vulgarity. I will not apologize but I will admit that I treated you unfairly in the hope that you would leave. Now, I’d like to know what makes you believe I should serve you.”
+
+Viv leaned back into her seat, rather more comfortable now that they were talking.
+
+“I think it would be better if we started with what you want. General Jaratalassi recommended you. He said that you were his most promising student, yet now you are a strategist without an army.”
+
+She spread her arms across the room.
+
+“Strategy games, battle reports, essays on tactics, memoirs of great leaders… Your office is filled with clear signs of interest, and yet you have refused all offers to serve. I would like to know why so we can proceed from there.”
+
+Sahin chuckled.
+
+“Tell me, do you believe your cause is just? That your nation is the superior one?”
+
+“Yes,” Viv replied without a single second of hesitation.
+
+He chuckled, a condescending sound. Viv spoke again before he could say more.
+
+“You will not find a motivated leader that doesn’t believe in some cause because the investment and sacrifices are too great. Whether they’re right or wrong is irrelevant. I don’t see why you would want to work with someone who will not give it their all.”
+
+“Let me rephrase, then. Do you believe it to be an honor for me to serve you? Do you believe that I should be abjectly grateful for the chance of furthering your own agenda?”
+
+It was Viv’s turn to wince.
+
+“Well, how should I put it?”
+
+She slapped her hands together.
+
+It was always sad to admit it.
+
+“I have gathered some of the most diverse and colorful collection of elites in history because I don’t tell people they should fall on their knees in my august presence. Mostly I leave everyone alone to find their own sources of happiness, and they gather to my banner when we have to fight. Sometimes I feel as if I were herding cats. So no, I’ll not pretend that you, a northerner I’ve never met, should cry tears of joy in my presence. We’re negotiating. I’m aware of that. You’ve still not told me what you want, by the way.”
+
+“I was leading to it,” Sahin replied. “Tea?”
+
+Viv accepted. It was the tea she’d offered him anyway, and she’d not gotten to try it.
+
+It tasted bitter and pretentious.
+
+“Thank you,” she said anyway.
+
+“When discussing with foreign dignitaries, it sometimes pays to make them realize that some people do not see the world as they do, with them at the top. I see I will not have to go through this dance with you. We have now determined that I have no reason to follow your banner, now, I will also tell you why I refuse to be general. It is simply that I will not be allowed to take command.”
+
+He waited for her to react.
+
+“Are you referring to the political aspect of leading?” she finally asked.
+
+“I am a strategist. I felt your inspection. You know I lack practice but I will still confirm what the old man told you: I am the best. I am not a chancellor or a prime minister or whatever title is given to a man who juggles personalities. I am not the one who will coordinate the warlords jealously controlling fighters who should be yours to obey without question. If I give orders to knights to hold, they should hold. And wait. But they do not, because their honor is at stake, and they cannot afford the other order of knight to tally more kills or their position will be endangered. I cannot abide this. I understand I am not moving pieces across a board, but if I am to fail, it must be on my own merits.”
+
+Viv hesitated there. She wasn’t sure if she was missing something or…
+
+“You have led an army before?”
+
+“Only during training.”
+
+“But people make mistakes, misunderstand orders and so on. They attack the wrong hills. They extend the lines too far, or miss a spot, or a tunnel, or they spot enemies and believe they are allies. This is inevitable.”
+
+“Not when you have a strategist,” he replied, placing his hands on the table.
+
+Well, that was why she was trying to recruit him anyway.
+
+“Fair. So, New Harrak is in a relatively unique position because there are no entrenched elites yet. Well, except for me. Everyone is new. There are no ancient grudges or deep conflicts of interest, although I assume it’s only a matter of time, especially because I am going to implement some changes. What matters is that I accept objections and discussions during the planning phase, but when we fight, we fight. And one more thing. The men and women under my command do not fight for one commander or a barony: they fight for Harrak, and for themselves. Their own future.”
+
+“I find that hard to believe.”
+
+“I give my people newly cleared land and the right to elect their local leaders. New Harrakans have the most freedom and responsibilities of all people on this continent. That’s why when they go to war, they do it for an idea, not for a person. You’ll see that it makes a world of difference.”
+
+The general remained quiet.
+
+“We have war golems, mage cadres, Harrakan heavies…”
+
+Oh, she was getting to him now.
+
+“Hadal scouts, armored carts that spit non-magical fire…”
+
+“You jest?”
+
+“Nope. Oh, and a dragon. But she won’t listen to orders, only to suggestions.”
+
+The man tittered on the fence. Viv could see he was intrigued if nothing else.
+
+“You would answer to me and to me only, and I only have one requirement: lead us to success with as few casualties as possible. That’s it. That’s your one duty. So long as you do this, you will have my full support. The others can complain all they want but we’re here for New Harrak, not for pride.”
+
+She almost had him.
+
+“Three months. Serve me three months. I will test you just as you test us and should you not be convinced, I will personally escort you back, and you will never hear from me again.”
+
+Sahin nodded, very slowly.
+
+“This chess player you mentioned better be amazing.”
+
+***
+
+Three days later.
+
+Viv flew in to see her new general in his fancy uniform walk from the giant chess board with a full-throated laugh. He did not even acknowledge her as he strutted, happy as a clam.
+
+Viv looked at the board. It was a nice golem construction with human-sized pieces that were easier and more entertaining to push around. The game was already over, with the eliminated pieces standing at the edge.
+
+“Who won?” she asked Solfis.
+
+//Your Majesty, please.
+
+//I was playing Irlefen centuries before this whelp’s birth.
+
+//He has some skills, of course.
+
+//But he still has much to learn.
+
+//I hope you were not expecting me to roll over.
+
+“Of course not. It will be much easier to keep him entertained if you crush him every time.”
+
+//I find your minions endlessly confusing.
+
+//However, I will never say no to crushing humans.
+
+“I can always count on you, Solfis dear.”
+
+***
+
+It might have looked like a hovel, but Poacher’s den was actually a carefully built warren with several exits, just the way she liked it. It was safe. It was hers. There was meat in the larder.
+
+The sound of hooves distracted her from her mushroom infusion. Curses! Who was it this time? She crawled to her lookout to take a gander, finding the familiar sight of black plate splattered with pretty blue flowers.
+
+“The fuck he wants?” she mumbled for herself.
+
+“Poacher, come out, I know you’re here you old fox.”
+
+“This ain’t no place for you, Rollo! It’s my rest day. Fuck off!”
+
+“I bring you the deed to your land as well as your new title, courtesy of the Empress.”
+
+“It’s already my land,” she grumbled.
+
+And then it hit her.
+
+“What do you mean, title?”
+
+“The Empress is giving her elites proper titles and land. They’re on loan with the job though. You’re Viscountess of the bog.”
+
+The man’s face split into a nasty grin.
+
+“Congratulations!”
+
+Poacher’s world was collapsing around her.
+
+“Wait, wait, viscountess? Does that mean I gotsa take baths now?!”
+
+“Hahaha! And you will also have to MARRY!”
+
+“Nooooooooooooo!”

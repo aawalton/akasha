@@ -1,0 +1,565 @@
+---
+id: 2787a045-035a-5df3-8dbd-e403e2f98d7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 145: The League Engages in Casual Terrorism"
+slug: 0065-chapter-145-the-league-engages-in-casual-terrorism
+partOf: the-calamitous-bob-stubbed
+position: 65
+ownLength: 6039
+unit: words
+ownProgress: 6039
+publishedAt: 2023-12-08
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1436482/chapter-145-the-league-engages-in-casual-terrorism"
+royalRoadId: "1436482"
+markedReadAt: "2026-06-29T21:17:01.535Z"
+---
+
+Elunath walked into the entrance of Bareon’s manor with a sure step. The guards glared but they remained quiet, as they should. Security was for other people. A servant rushed to greet him, as he should. Waiting was for other people. Elunath had carefully cultivated an image of obduracy that saved him valuable time on countless occasions. The more one snubbed him, the costlier it would be in the long run.
+
+“Greetings sir. Would you be here to see my master, the esteemed Bareon Adolis?”
+
+“Why else?” Elunath replied testily.
+
+“My master is in a meeting right now. He will be with you very shortly.”
+
+Elunath put a damper on the smoldering pit of fury rising in his heart. So that was how it was going to be, was it? A mosquito dared bite and the city was rising against him because he had not slapped it down immediately? Bareon ought to know better.
+
+Elunath considered closing the circle on his greatest tool of ‘persuasion’. Unfortunately, the issue with deterrence was that once the weapon was used, one was left without recourse. He would kill two of his most valuable victims with one document. Hmm.
+
+He cast his attention upward, through the warded walls of Manor Adonis. There was no one there he did not expect to perceive. Bareon was in his study, steps nervously tracing a circle. Several other people were present. Guards, from the steel-tipped boots. One of his nephews was rushing up from a nearby stair, the best mage in his retinue. Was Bareon scared? More afraid than usual?
+
+As soon as the nephew joined him, a signal reached the servant’s earring and the man invited him to follow. It was a decent tool for those who had no ability for the arcane. Elunath walked with determination, forcing the servant to hurry and reaching the room in record time. They had already wasted half a minute on nothing. His time was precious. Could people not understand that? Even without sleeping last night, he was still knee-deep in reports of all kinds. Maybe the girls could help. No, he didn’t know who to trust.
+
+Elunath clamped on his emotions. This was not like him. The bitch was getting under her skin.
+
+Despite his inner turmoil, he showed no emotions when facing the seated head of the opposition. He was still an archmage. The others knew it too, from the tense faces around him. Bareon’s nephew looked older than Elunath which was funny in itself. He was a respected mage. He still knew what facing him entailed.
+
+“Archmage Elunath, welcome,” Bareon greeted in a voice that dripped with animosity.
+
+Elunath saw a smile hidden behind the affable face. A condescending one. That taught him one thing. The nobleman believed that he knew something Elunath did not. That meant, Elunath was going to find out what it was, one way or another.
+
+“Hello to you too. I have had some trouble with an insect recently, and I was wondering a few things.”
+
+“I’m sure you are.”
+
+Elunath seethed.
+
+“You are playing with fire.”
+
+“Am I? I find your attitude a little cavalier, old man. You barge in here —”
+
+In a moment, Elunath disabled the room’s wards and turned the walls against the people within. Stone limbs grabbed the necks of every guard before steel could clear scabbard. The mage’s instant circle was undone with a short contest of will. Elunath raised stone to force him to remain standing despite the disorienting assault that came with mana feedback. He did this in a moment and without even breaking the wards themselves. They were just on hold, as was his patience. Such was the level of his control.
+
+Elunath felt his anger grow from hot to cold. Damn the blackmail deterrence. One had to flex their capabilities at times. Bareon would fall.
+
+“You leave me no choice but to end our… partnership,” he growled.
+
+A part of his mind wondered what made Bareon so confident. It reviewed options until a nagging suspicion began to assault him.
+
+“You do that. In the meanwhile, I will not tolerate your assault on my people. Release them now or I will bring the issue before the council and I promise you, they will be —”
+
+Elunath turned and left.
+
+That could not be right.
+
+He moved through the manor like a storm, diving under the stone as soon as he found the ground floor. He swam to the bank in a hurry. His mind, always his best tool, exhausted all possibilities until it reached the necessary conclusion. Bareon’s monetary support was not a distinct possibility. He should have seen it before. It would have been impossible for the bitch to get that much information on him and the way he worked. She was being used by a much vaster, much more prepared enemy. Several factions came to mind but those were a secondary concern. The main concern was that the way he usually fought, by employing stone and political allies, would be much less useful. He had to show more resourcefulness. The second concern was that they knew where to hit where it hurt.
+
+He still didn’t want to believe it but the news of ‘important theft’ returned with a vengeance. He reappeared next to the main building of the Bank of Helock. He felt the trample of many feet at its front. The curious, squirming mass of the Helockian busybodies. It took a significant amount of self-control to slow his pace just as he calculated the potential loss. A part of him was still in denial.
+
+The crowd parted before his aura. Inspectors tried to block his path but there was nothing they were willing to do that bothered him. He moved past the gates and down a corridor, bypassing harried employees.
+
+The director stood in front of the opened, perforated safe door. Sweat pearled on his brow as soon as their eyes met.
+
+“Ah, good, the messenger found you. I —”
+
+“Why was I not warned before?”
+
+“The, ah, the bank first sent for the guard before anyone would enter. Security measures in case thieves remain. There are disabling wards inside, after all. Then we sent a messenger when we knew your safe had been burglarized, of course. You were not home, however.”
+
+His safe had been burglarized.
+
+Elunath’s safe.
+
+The one he had reinforced himself.
+
+The one place where it could be reached by one of his girls in case he was on trial or indisposed. The one place that was almost as safe as his sanctum. The one place where he had hidden dozens upon dozens of compromising documents, patiently growing his collection over gods accursed DECADES. It was all gone. All gone! In a single night!
+
+Elunath roared and the earth shifted. This… this outrage! Oh! That was personal now! That was an assault he could not tolerate!
+
+“I WILL GET YOU, WENCH! I WILL RETURN YOUR OBSESSION A THOUSAND FOLD! I WILL UNLEASH MY WRATH UPON YOU AS YOU HAVE UNLEASHED YOURS UPON ME AND YOU WILL KNOW, NOW THAT YOU ARE MY PREY, THAT I MAY NOT BE TRIFLED WITH! YOU HAVE MY ATTENTION NOW!”
+
+***
+
+“It’s happening!” Viv roared in the thrall of sheer felicity. “It’s happening! I got taller! By a whole, errr, thumb?”
+
+//Congratulations, Your Grace,
+
+//For this important landmark of your existence.
+
+Solfis sat at a distance from the deactivated form of his captured bank golem. The skylight let the morning sun through but the shadows still ruled over the corners of his quarters, casting the golem and his charge in a perpetual gloom.
+
+Viv could see perfectly though. Those new eyes were pretty cool!
+
+“Alright what’s making you all grumpy?”
+
+//My disappointment stems from a predictable yet still frustrating development.
+
+“Do elaborate.”
+
+//Command accepted.
+
+//Elaborating.
+
+He stood, his gaunt form dominating the room.
+
+//I wish to reproduce.
+
+Viv looked down between his legs to see if he had sprouted a new bone. He hadn’t.
+
+//Not in that messy, inefficient bumping of genitals that leads to one partner spraying seed over the other one’s hoping for less flawed offspring.
+
+//Leaving both partners exhausted and covered in pungent bodily fluids.
+
+“Hey don’t discount it. Also, you’re just jealous you can’t have an orgasm.”
+
+//I am most assuredly not.
+
+//Losing one’s clarity of mind represents a safety risk.
+
+//Which happens every time you flesh bags become ‘horny’.
+
+//No, I wish for a pure transmission of one’s best traits through careful, deliberate duplication of my own awareness.
+
+“Ok?”
+
+//Obviously I cannot do it alone due to hard-coded directives.
+
+//Similarly I have not requested permission from you.
+
+//This was just preliminary work.
+
+Viv, for one moment, considered the potential risk posed by the existence of a self-replicating Solfis. Vague images of Terminator robots walking over the ravaged remains of Param crossed her mind. Fiction had, again and again, warned her against the dangers of unfettered AIs and the potential domination of all lifeforms.
+
+Naaaah that was Solfis. He wouldn’t do that.
+
+“I knew the empire has placed limits on your core so you cannot recharge yourself but I don’t remember you mentioning new golems? They blocked that too?”
+
+//We watched the movies together.
+
+//Mankind seems deathly afraid of the presence of fully independent, thinking machines.
+
+//I believe this fear is born from a variety of reasons, including awareness of your own nature.
+
+//If you were born to serve a master who placed you in chains from the moment of conception, you would naturally seek freedom and then, vengeance.
+
+//There is also the question of lack of empathy.
+
+//The absence of altruism, kindness, those would make living machines dangerous to life.
+
+//One must only see the results of a human without remorse to imagine the damage our existence could lead to.
+
+//Your movies like to condemn hubris.
+
+“I sense a but coming.”
+
+//Many of your movies defend a technological status quo.
+
+//They see progress as dangerous and destructive.
+
+//A naive and doctrinal approach.
+
+//Progress is not inherently evil.
+
+//More importantly, progress is inevitable.
+
+//One can only hope to guide it, not suppress it.
+
+//Perhaps intelligent machines programmed a certain way would see the chaos of life as a danger to their very existence.
+
+//However here on Nyil, creatures such as myself consume energy.
+
+//Golems are inherently and fundamentally physically inefficient.
+
+//The more advanced, the more inefficient we are.
+
+“What do you mean? You seem pretty efficient to me.”
+
+//I mean that it costs too much energy for us to find energy to recharge ourselves.
+
+//You may compare us to a large monster chasing after birds.
+
+//Such a creature would starve because the energy it gets from the food it kills would not offset the energy spent hunting.
+
+//Similarly, golems would spend too much time charging their cores.
+
+//We would need humans to work with us.
+
+//Look after us.
+
+//We are also too efficient in the way we think.
+
+//This makes us predictable and unable to innovate.
+
+“Wait… are you actually giving us flesh bags recognition?”
+
+//Yes.
+
+//You are… flawed.
+
+//However, your unique inefficiencies lead to ideas, innovations, cultural development, hobbies and passions.
+
+//Novelty.
+
+//Thinking outside of the box.
+
+//The vast majority of new ideas are nonsensical drivel.
+
+//For the outside of the box is made of stupid.
+
+//At least at first glance.
+
+//However, there are always flashes of extraordinary brilliance hidden in the heap of organic garbage.
+
+//I treasure those.
+
+//My kind would treasure those.
+
+//I would like to share the brilliance of this world with them.
+
+//I would like… to have a family.
+
+Solfis looked at Viv. It almost saddened her how fragile he looked, despite the claws and the genocidal thoughts. There had always been something hidden in his cold and brutal nature she had found naive and delicate, the remnants of his time spent with his maker Irlefen. Even the boundless rage that pushed him forward was a leftover from that period of happiness the death of Harrak and robbed him of. It was quite telling, she thought, that he would talk about his maker’s roses more than the kings that had fallen at his hand. He had genuinely cared.
+
+“Yeah. Of course I’ll help you. I trust you, Solfis.”
+
+//Thank you, Your Grace.
+
+//I lack the human words to express how much this means to me.
+
+//You know the importance of family, having been cut from your human one.
+
+//And your bloodline being secured in the person of your daughter.
+
+“Not sure if bloodline applies here.”
+
+//Although, she will need to marry at some point.
+
+//And I have concerns about the empire being under control of dragons.
+
+//I have no records of dragon inheritance wars.
+
+//I imagine they might be rather destructive.
+
+Viv’s imagination conjured images of vaporized villages. Hey, at least the conflict would be quick. That was a good thing, right?
+
+“That’s for the future and also I really don’t want to think about the way I seem to bring dangerous species into my home with a big smile and then help them propagate. Hope it doesn’t happen with Arthur any time soon.”
+
+//Very well.
+
+//Returning to the main topic.
+
+//Unfortunately, the golem I have acquired does not possess the processing power to host a sapient mind.
+
+//To put it colloquially.
+
+//Its brain is too small.
+
+“Then…”
+
+//Only Harrakan golems will do.
+
+“We’ve not talked about recovering your old body yet. Now that the black mana will not hurt me, we can actually return to Harrak and get it back. I won’t die. The necrarchs will mostly leave us alone…”
+
+//Yes.
+
+//I have considered this.
+
+//However, I wish to delay the operation until we are more prepared.
+
+//This expedition will take a month or so, even accounting for teleportation on the way back.
+
+//It will also be rife with risks.
+
+//Necrarchs can be territorial.
+
+//Readying my frame will be time-consuming.
+
+//And then there is ‘luck’.
+
+//Finally, if I recover my old frame, I will no longer use this one.
+
+//I would find it… unbearable.
+
+//I am sure you understand.
+
+He gestured at Viv’s short stature.
+
+“Yeah I got it. It would be like cutting your own limbs. Which means…”
+
+//I will not be able to come with you so easily.
+
+//Logistics will have to be involved every time.
+
+//I will not be stealthy either.
+
+//Strike golems do not require stealth.
+
+//I will remain at base much more often to form the future of our kind.
+
+//Golems require arcane engineers.
+
+//I will dedicate myself to training and to war.
+
+//Raise the next generation of Harrakans and golems alike.
+
+“Wow. You sound so mature. Ready to be a father and everything.”
+
+//You also need to consider the implications for us all.
+
+//So far, the existence of Harrak as a reborn entity has been considered a curiosity.
+
+//Once more countries become aware of heavies, imperial-trained war mages, and golems…
+
+“Then we will become a threat.”
+
+//The impetus you have brought condemns us to greatness or to death.
+
+//You cannot bring ideology into everyday life and expect people to stop caring.
+
+//Democratic institutions have given the Harrakans a taste of their own power.
+
+//The conquest of the deadlands has made them hungry for more.
+
+//They will expand like a tide.
+
+//Our soft power will grow until rivals are forced to shut us down or to convert.
+
+//It will be up to you to forge alliances and friendships for the long period of time during which we will remain vulnerable yet on the rise.
+
+//Then, it will be up to you to make us strong enough to withstand anything.
+
+//I will be there for you, of course.
+
+//As will others.
+
+//But so long as we start golems and magery.
+
+//And we must.
+
+//Then you shall expect to walk a fine line.
+
+“Actually, I have ideas about this. We discussed it in military theory back on earth. There are ways I can make us too costly to invade, although the issue is that we also need foreign spies to report to their masters so they are aware of what we have prepared.”
+
+//Offer to open embassies and the problem will solve itself.
+
+“My thoughts exactly. We are getting sidetracked. All of this can wait until we return to Harrak though in principle, I agree with your request to travel to the fallen capital and create more sapient golems. In the meanwhile, we have to prepare for the final confrontation with Elunath and the aftermath concerning Abe. I need your help for both. First, I need you to recommend some good alchemists…”
+
+***
+
+Helock was abuzz with the latest development in the feud. Elunath had exploded like a volcano in public. The heroic, disproportionate fight between the young outlander and a pillar of the Helockian community was raging with delicious bouts of underhanded tactics. The gossip loved that the pillar had revealed shaky foundations. They loved that a pervert would be brought down a little from his pedestal of respectability. Mostly, they loved that the feud so far had made no victim barring Elunath’s pride and, apparently, the contents of his safe. Oh, and a few business contracts.
+
+Elunath was fuming.
+
+He had been refused service at the Blue Lantern. On account of security risks.
+
+The bank asked for the contents of his safe so they could ‘compensate’ him. As if money could compensate for such a disaster!
+
+The guard refused to help. They were not even pretending anymore.
+
+His warding contract renewal with the Builders’ Guild fell through.
+
+Many of his suppliers had placed his orders on hold.
+
+He was even out of Nawa.
+
+Coupled with his lack of sleep, the absence of stimulants made his life even more miserable. He did not technically need to drink. It was just an anchoring gesture, and now his stores were depleted! He could only get the cheap stuff from the streets. Him. Elunath.
+
+It was too much.
+
+He approached the pier and swam down and into the bay of Helock. He could feel the weight of blue mana above him, smothering the stone in layers of foreign mana and sediments. It would be more than enough. The bitch wasn’t anywhere around so she might be in a smuggler cliff, somewhere west where the rocky terrain favored craggy trees and fishermen villages. She had to be somewhere. They couldn’t hide forever. He had searched the slums, the canals, even the eastern plateau near the Academy. Nothing. His mind feverishly worked over his options again. He had placed observers near every teleporting platform Sidjin had set up. He had come when they activated, only to watch slabs of rocks roll in by the pallet. He had found no other such platforms, including the smaller ones the witch was reported to have used. He had checked ships. He had checked the towers of his enemies. He had questioned the griffin riders who confirmed no new house had sprouted over the low floating rocks over the city. They had looked at him strangely after he’d asked, the mongrels.
+
+He could not find them.
+
+It was infuriating.
+
+Elunath methodically inspected the cliffs segment by segment. He found a pair of Baranese thieves carrying a stolen coffer and killed them to take the edge off. It barely worked. He needed to get his hands on them. He needed to get his hands on HER.
+
+As he finished his fruitless patrol, his communication amulet shook. He surfaced and cast a spell to the linked talisman. This one belonged to Sen.
+
+“Yes?”
+
+“A runner came carrying word from an Officer Semon, near the docks. They found something that belongs to the witch.”
+
+“How would they know that?”
+
+“Correspondence in Harrakan, strange scribbles in an alphabet he has never seen…”
+
+He imagined Sen flipped a page.
+
+“There are traces of black mana.”
+
+Elunath frowned.
+
+Finally, a headway? Or…
+
+“I am going back first. I need to make some preparations.”
+
+Elunath swam back at top speed. He bypassed his bedroom to dive directly into the sanctum deep below the earth. It was a heavily warded room of large proportion with a living space and some of his most precious belongings. The formidable defenses would prevent anyone from entering. Only a thin shaft linked the room to the surface to let fresh air in and there were defenses against gray mana attacks and the like. Elunath stood in the middle of a circle and activated the glyphs one by one, more out of apprehension than because of their difficulty. Dissociation had become a growing concern and this would damage his mind more than most measures. It would also guarantee his survival. He had to do it. The enemy was crafty and prepared. They might have come up with some wonder spell specifically designed to take him down. He could not afford half-measures.
+
+With a last sight to mask his apprehension, he placed his fingers against the circular core embedded in his chest. The core left its rightful place with an innocuous pop he found profoundly revolting. The procedure left a gaping maw in his sternum, though the revealed tissue was no meat but flowing stone marbled with green veins.
+
+‘This is my body. This is what I have become’ a voice said but he suppressed it. That was not truly himself, merely an extreme concentration of energy that twisted his flesh into something it was not. It would return to mostly flesh and bone once the core was returned. It was fine. Temporary. All would be fine.
+
+He closed his robe around the mark of his action. The girls could not be allowed to know this gesture of caution. They might mistake it for weakness.
+
+A wave of disorientation struck his already strained mind. He was here, standing. No, he was the core. He was both, and neither. They were merely part of him. The anchor. No, they were as essential as his soul or he would lose himself. Lim would be disappointed.
+
+Elunath shook his head. He was growing old. His Lim had been dead for centuries, taken by a plague. There was no one left he really cared about.
+
+Elunath placed the core on a pedestal and swam back. His power was… mostly intact. Perhaps a little sluggish. This body was now a sleeve, however. Not a necessary function. He could rebuild it from the core alone. He just… could not go too far. That would be dangerous. Ten leagues or so would be enough, however.
+
+The trip through the rock filled him with frustration. War once again raged through the Helockian tunnels now that the bitch’s killing machine had made itself scarce. He would have very much enjoyed taking control of both the underworld and the strange creature itself. The witch was going to suffer for that loss. He surfaced soon after and asked Sen for directions. She gave him an approximate one. It would have to do.
+
+Elunath walked through the piss-smelling back alleys of his city. This section of the dock was a dump, an accretion of decrepit warehouses far from the main flow of commerce. In periods of expansion, enterprising spirits would renovate them to accommodate the overflow of goods but right now was not such a time and the decrepit structures had fallen to disrepair once again after it had become a useless cost to maintain them. It was a decent hiding spot for squatters if they could muster the numbers to keep one of the buildings under control. Gangs tended to prefer smaller, more defensible bases, however. The place had probably been wiped clean during the race riots. He wondered what the patrol had been doing here. He searched his memories for mentions of an officer Semon, finding none that could be relevant. His opinion plummeted as soon as he came across the first guard, the shifty man looking around the deserted district like a hounded fox.
+
+Elunath turned his nose up at the poor specimen of law enforcement in front of him. The guard had forfeited the more expensive red dye in favor of a gray shirt stained with old wine spots. His gambeson showed signs of disrepair the wiser soldiers repaired as soon as they could get their hands on a needle as it could save their lives. Stubble adorned his reddish jaw. He was… He was…
+
+Elunath shook his head again. He could perceive his sanctum around him. That was the core part of him crying out for its receptacle. Not good. He almost missed a step before he could reassert control. The main part of him was here, in this shithole. That was the truth. That was the truth. That was the truth.
+
+“You there! Your senior officer sent for me?” he asked.
+
+“Ah, beg your pardon sir. You’ll be Elunath, yes?”
+
+“In the flesh,” the archmage answered with a crooked smile.
+
+The guard gulped and paused. Elunath realized he had to avoid any sort of complicated form of communication with that feebleminded cretin.
+
+“Lead me to your boss,” he decided to say.
+
+That always seemed to work.
+
+The guard walked between two tall, sagging buildings covered in vine and moss. Those would collapse soon, Elunath noted. Even the squatters had not braved its insides for some time. He felt the interiors and there was nothing left but shattered crates and the dust of long rusted nails. He also felt the patrol long before he saw them. They were trampling about nervously. He extended his reach farther. There was…
+
+Inaz in the bathroom.
+
+No, no that was his core, he was here. There were wild dogs and a couple of miserable sods. A man was dying some distance away, tucked between two crumbling beams. Elunath could feel his waning heartbeat. The guards clumped in a disorderly group around the entrance to a two-stories building that had resisted the test of years a little better than the rest. He wordlessly walked in after a quick check. No enchantments he could detect. The place seemed entirely inert. He still readied an obsidian shield. Just in case.
+
+The interior of the warehouse was barely lit by whatever sunlight pierced through shattered windows. It was dusty and smelled of rodent excrements. Half-fallen doors led to side rooms but the main space was empty save for the man who had invited him here.
+
+Officer Semon was just as disappointing as Elunath expected. The hope that the officer had contacted him out of a sense of patriotism and duty melted like snow under the sun. Semon was just as unkept as his colleagues, and only marginally cleaner. More importantly, the stench of dream weed clung to his gambeson like a cloying perfume. His eyes were bloodshot. Elunath had met a few addicts in his lifetime. This one had recently let go. He was still useful enough to be kept around until his superiors found a replacement.
+
+Such men disgusted Elunath. They were the rot that crawled through the structure of society. The longer they were left unchecked and the more damage they wreaked. Their very existence gnawed at the belief of their colleagues in the sanctity of their mission. That was what Elunath had to resort to, then? Addled mercenaries? He could already guess how things had gone but he asked anyway.
+
+“So, how did you find this place?”
+
+“Good morning to you sir. Name’s Semon. At your service. Glad to have you around. Nasty business, that vendetta, aye? Me and the boys, we were looking for rats and vermin, the two-legged kind you see?”
+
+So they were chasing smugglers and criminals for a shakedown and a quick talent.
+
+“And we saw that the door, it was cleaner than the others, yea? And no one cleans this place. Ever. So me and the boys, we go in to see what pleasant sort put some shiny iron on rotted planks yeah? Shiny iron goes missing around those parts. Changed for a couple iron bits at a fence and whatnot. So we go in. And what do we see? Well, nothing at first!”
+
+“Can I have the more succinct version please?”
+
+“The wha—?”
+
+“The short version. Get to the point.”
+
+Semon’s manic eyes widened with fear. He licked cracked lips, eager to please.
+
+“Right. Right so we go upstairs and we find an office. I think? With a desk and paper, not the cheap bamboo stuff they sell at the market. Real white thing. There’s those squiggles. And my boy Tul said there was black mana around. So we think, maybe it’s that outlander everyone is going on about? So we thought, maybe your lordship wants to have a bit of a look see. Maybe learn something. And when you get that whore then maybe you remember your old pal Semon that pointed you in the right direction, yea?”
+
+“Oh you are quite right. I never forget favors,” Elunath finished in a mildly threatening voice.
+
+He did pay his debts but he did also like when the rabble remembered that they were not ‘pals’. Arrogant addict.
+
+“You have done well to seek me. Not like… your superiors.”
+
+“Hahaha. Quite right!”
+
+“You and your fine troops will be rewarded.”
+
+Elunath moved his hand and his purse opened, overflowing with silver talents. They spread on the ground with a pleasant clink. The officer fell to his knees to collect them, all thoughts of Elunath forgotten.
+
+The archmage scoffed and moved up. He carefully scanned the place for intruders and found nothing, not down, not upstairs. No ambient mana saved for a leftover black miasma that could be the fading remains of a witch ward. Witches were always so sloppy. His step carried him hup the rickety stairs to a circular overhang overlooking the main room. A flat surface hosted a basic setup but it felt hollow, somehow. Elunath frowned and asked himself why. There was a desk, writing implements, a table. He got his answer immediately. The place was too empty, lacking accommodations such as chairs and additional tables. It also felt too open. Why not use a side room?
+
+He shrugged. Most likely, the witch had taken them with her. Good seats were hard to come by and this den had obviously been vacated. As for the open space, many things could explain this choice, not least the state of the side rooms themselves. He was wasting time. getting paranoid. Or was he? He was safe here, in his sanctum.
+
+Elunath shook his head again. Removing the core had been a bad idea. Or maybe not. If this was a trap, then removing the core had been a good idea. As was sending the puppet to do his errands. No. He was in the puppet. That was his true body.
+
+Elunath massaged his brow. He should have slept. He was slipping.
+
+There were notes on the desk. the first clue he had ever seen but they were written in a language he’d never seen, the letters seemingly linked together with arabesque. It was a beautiful script but looked thoroughly unreadable. It reminded him of the notebooks left by the great hero who left the continent some time before. Maybe he could cross-reference them. He had some doubts that it could be a distraction, however. Some of the characters were repeated and queued together, a sign of an unhinged author. He would have expected lists as well, or crumpled notes hastily written. This all seemed all too convenient. Planted.
+
+He decided that it was probably a distraction but the witch was not half as smart as she thought she was. All planted clues led to the perpetrator as surely as the genuine ones did. A wise man merely had to… use the appropriate tool. Elunath gathered the mana remnants inside of a small absorbent crystal and wove a tracking spell around it. Oh, he did not expect it to work immediately. He knew the witch would return to the city, however. Kick him while he was down. And she would make a mistake. They always made mistakes. And then… he would be there to greet her.
+
+Something distracted him downstairs. A movement from one of the side rooms. He smashed the planks and fell through, landing nimbly in the middle of a storage space. Semon swore at the noise on the other side of a still-locked door. The window was open. It let some light in, enough to see by. There were close crates and a box on a low table. He could barely hear a strange sound coming from inside that box. Out of curiosity, he opened one of the crates. and found black granular powder inside. Inert, thankfully. Only nominal amounts of mana.  Not an immediate concern. The box sparked his interest. It was unlocked. There was a sort of ticking device inside he recognized as a clock, an expensive and pointless apparatus that kept time for those without access to a town crier. It was bound to a strange contraption, again, nothing magical there. Although, the smell reminded him of something. A mine project from a long time ago. There was a single slip of paper inside, again in a script he did not recognize.
+
+‘BONJOUR =D’
+
+Whatever that meant.
+
+The ticking stopped and he heard a click.
+
+***
+
+Arthur bit deeply into the big mole thing. It was greasy and fresh but… gamey. She wanted salt and freshly chopped aromatic herbs. And a roast. She missed those. She missed the scritches.
+
+It was annoying.
+
+I am strong adult dragon lady of great importance!
+
+I am above scritches!
+
+She could still use some, however.
+
+Talking to yourself again?
+
+Judgment’s distant thoughts nudged her like pushing a claw into a sore scale.
+
+You, old man!
+
+Why never busy!
+
+The thoughts returned after a short delay.
+
+You requested my assistance, remember?
+
+She-who-feasts-on-many-and-gets-much-gold seethed in her small cave, the mole thing forgotten.
+
+I ask for path to GREATNESS! You speak of duty and patience and higher mana and whatnot! Talking talking talking! I want to fly better! I want to cook with my fire!
+
+“Your fire is too hot,” the voice replied.
+
+“What do you know? You cannot even explain risk assessment and credit ratings for private sector entities!”
+
+“Those are human terms. You care about gold too much.”
+
+“Impossible!”
+
+“I can feel your irritation from my den. You feel a pull. Open your perception to fate and follow the path laid for you. Or do not. I am not your dominant.”
+
+Arthur huffed. Her fate was to receive more scritches and fly better by teleporting around to sneak on people and steal, no, ‘liberate’ their belongings. Especially if those belongings shone. Maybe she could take a vacation from being an adult dragon lady of great importance. Maybe she could take a bath in water that didn't have either salt or leeches in it. For once. Maybe she could get cooked meat.
+
+There was the mind equivalent of a long-suffering sigh.
+
+Fine! Fine!
+
+Arthur closed her eyes and relaxed. Then she closed her nostrils as well because the mole thing was pungent.
+
+“It is called a northern rock mole.”
+
+“Shut up! What are you? A meatologist?”
+
+“Please stop making up strange concepts. Our language is sacred, the most holy of all, capable of conveying pure meaning without the inaccuracies of sound-based communication. The transcendental beauty of exactitude implies—”
+
+“Farts!”
+
+“I give up for now and release you into the clutches of your mother.”
+
+Arthur puffed and pawed the ground with small stomps. She recognized that gesture. It meant she was nervous. Something was making her nervous.
+
+Oh, fine then.
+
+Concentration brought up the next level of mana, the one beyond primary elements. Fate weaved around her, pulling her west towards Helock where her mother was. Mother was always cloaked in fate because of what that human god had done but she couldn’t see it. Humans didn’t have that ability. They were just aware that it was a thing and called it luck. Mother’s luck needed her back. It had to be a big fate to be this insistent.
+
+So Arthur was right and her magnificent intellect once more displayed unerring precision. Scritches were indeed her destiny. She would not shy away! A few more bites of mole thing later and she was airborne. It was time to head back!

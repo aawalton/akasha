@@ -1,0 +1,379 @@
+---
+id: 77837e40-d1bd-510b-8c05-4ff52b70117d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 218: It’s Aliens"
+slug: 0143-chapter-218-it-s-aliens
+partOf: the-calamitous-bob-stubbed
+position: 143
+ownLength: 5321
+unit: words
+ownProgress: 5321
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2558280/chapter-218-its-aliens"
+royalRoadId: "2558280"
+markedReadAt: "2026-06-29T21:19:30.667Z"
+---
+
+Viv had hoped the camp would be deserted since the patrol must have been most of the remaining guards. Unfortunately, she had underestimated the Sheem’s basic human needs.
+
+“I’m an idiot,” she whispered to herself.
+
+Of course most of their troops would still be out but it had been a day and they had chased after Viv’s convoy with little supply. Now, an entire squad was back, drinking water and resting. She surveyed the scene from behind a rock, other members of the convoy by her side. The camp arrayed before them was well ordered, but it wasn’t fortified. Hell, it wasn’t even hidden. Those people sure were confident. She also couldn’t understand how they could ignore the massive, half-blown up arch floating in the air above them with a background hiss like fingernails on a stone, its ever present noise grating on her nerves. She would go insane staying here for days, yet they didn’t seem to feel anything.
+
+The space was ripped and kept open by the damn arch, though she would have to get closer to understand how. They really, really needed in.
+
+Her side still had the element of surprise. She hoped Captain Sin would make it count.
+
+“Ahem.”
+
+She turned to Sin who was now pretty close. He was trying to get her attention.
+
+“Lady Jaratalassi. The prisoners are over there,” he whispered, pointing away.
+
+Viv took another quick, risky gander. They did have cages on the far end, rudimentary ones seemingly made on the fly from green wood and tent supports. She could see the bulky form of other aliens cooped up in there. She pulled back and seethed in annoyance. The Sheem were treating coil-gun equipped people like they were animals. She hoped to fuck the aliens  weren’t the vengeful kind.
+
+“What did you have in mind?” she asked Captain Shin.
+
+“Could you please go around with Scout Tolek and free them once we start a commotion? I’m afraid the Sheem might decide to execute them if we are not careful.”
+
+He gave her pistol a thoughtful look.
+
+“If you agree, of course.”
+
+“That will be fine. We’ll make sure nothing happens to them. I still have my gauntlets.”
+
+“Then go around with Tolek. We will give you a moment to get in position, but no more. They will grow suspicious if the patrol doesn’t return.”
+
+“On my way.”
+
+She gave Tolek a nod as she moved from behind the boulder. The scout crawled away, and Viv followed, somewhat annoyed that her nice dress was always sweaty and now it was going to be dusty as well. The crawl along the edge of the camp was a slow and fastidious process not least because she had to take extra care not to be heard — lots of loose rocks around, but her patience and imitating Tolek helped. The cages were really close now. Viv counted three more aliens, but also a human woman tied much more tightly than the others. One of the visitors was clearly struggling, their chest rising quickly under the heavy suit. Another one had managed to grab their hand which Viv assumed was a universal show of support. Shit, if one of the aliens died here… really bad precedent. She had to move fast.
+
+The first sign that something was going on was the wind rising. Viv wouldn’t have even noticed were it not for the abundance of wind mages in these parts. The sentries reacted immediately. There were four near the cage.
+
+Tolek stood and drew at the same time. His arrow caught the first sentry on the neck. He went down without a cry.
+
+Viv stood as well. She aimed at the nearest wild-eyed soldier. She felt amazingly calm, using a gun again. It was still such a zen and familiar activity, even years later.
+
+The trigger snapped under her finger. The coil gun emitted a beep of dismay.
+
+Vandal upgraded to Trans-dimensional Vandal
+
+“You mother FUCKER!”
+
+The sentry was slightly more surprised than she was so it was an easy gauntlet push. The powerful telekinetic spell rammed the unfortunate Sheem in the gut at close range, propelling him into a distant tent from whence he didn’t rise. Viv turned to the third sentry, who was reaching for a cage, and sent him rolling on the ground dozens of paces away. The fourth sentry was almost upon her, panicked yet determined. Tolek was holding a bloody arm by now. He was out of the fight.
+
+The gauntlets were out of mana, but the Sheem didn’t know that. She extended her left arm and roared.
+
+“Stabbity stabby!”
+
+Out of desperation, the last soldier ducked under her fake spell, then grabbed her wrist, pushing it up with two hands. That left him wide open.
+
+So she stabbed him.
+
+The blow, powered by her strength and skill, hit the man clean in the heart through the ribcage.
+
+“I did warn you,” she told the falling figure.
+
+Fuck, stabbing a human soldier doing their job still felt ass to her. It was just so… personal. She had nothing against the guy, it was just him or her, or rather, him or the aliens. Blood had sprayed her dress and hand. It was already sticky.
+
+“Fuck…”
+
+No time for qualms. She approached the first cage, using the elemental knife to simply cut through the shitty lock. Honestly, it was so badly made that anyone with high strength would have demolished it by using the stat’s temporary overload. The first alien she freed stood up with shaky knees. They were obviously in quite a bit of pain from staying in the secluded space. Viv made sure to cut the distressed one out immediately after. She slowly pulled them out of the cage while their companion silently panicked before laying them down on the ground, then it was the turn of the third one to be saved. Both of those who were doing better gathered around the faltering one. She saved the human woman last. That one was clearly a local.
+
+Viv had another look around while she cut through several layers of rope. Tolek had bandaged his wound, and he was now keeping a lookout.
+
+“Finally!” the captive woman hissed.
+
+She was also a scout of sorts from her burnished skin and sensible uniform with actual pants, though her tied long hair hinted at noble origins. Something tickled at the back of her memory. Someone had mentioned a disappeared person back in Ravinport.
+
+“Are you Lady Mar’s granddaughter?” Viv asked.
+
+“Yes, but it matters not. There will be time to talk after the Sheem are defeated! For Ravinport! For honor! Raaaaagh!”
+
+The tall woman — as tall as Viv really, but stockier, then proceeded to grab the spear of one of the fallen before charging headlong into the distant skirmish. Viv could see that Captain Sin was tearing through the last of the resistance, but it didn’t stop the unknown lady from slamming her weapon in the chest of a Sheem defender, both of them toppling into a nearby tent. That tent turned out to be the one protecting the horses, and the panicked beasts escaped with terrified neighs, The battle somehow grew even more furious and chaotic.
+
+“Wow.”
+
+Viv managed to detach her eyes from the furious melee just as the scout girl and Captain Sin ended up fighting back to back when the first alien she’d met rushed to the wounded one. There was some sort of quiet exchange, then he started drawing in the dirt. Viv had to bring some sand to help him because he was shaking.
+
+Elder. Clothes. Torn. Need carriage inside.
+
+Viv drew as fast as she could, which made the aliens mesmerized by her speed from the way their dark eyes widened behind the opaque shielding of their helmets.
+
+Does he need the air inside?
+
+Air. Safety from.
+
+There was some discussion among them while they picked a word.
+
+Very small insects.
+
+“Ah, they’re afraid of diseases. Of course.”
+
+Viv hummed to herself. The battle was almost over. Honestly she was surprised it had taken so long. She invited the aliens to follow her while Scout Tolek hovered on the side, hesitant to intervene. She directed them towards a side tent inside of which she could see the dark reflection of something metal and bulky. The aliens somehow accepted her help when she picked up the wounded one. She couldn’t see damage in the suit but maybe it was very tiny, and that was why they were still alive. She dropped them as gently as she could before pulling the tent away from what looked like a mix between a moon lander and an APC, though it was really quite large.
+
+Just like their guns, the vehicle was bulky and ugly, more functional than anything else. The suits of the other three aliens were as functional and drab as the one of the first, with the distressed ‘elder’ having marginally more decorations. The aliens seemed to hesitate until the first one turned to them and, though Viv couldn’t hear, they must have been convincing, because they opened a lateral airlock and went in. Only the first alien remained behind.
+
+Now. Weapon. Broken. Give back?
+
+With a lass huff of annoyance, Viv went to retrieve the broken pistol. She’d fired it once. Once, gods dammit. She was being actively trolled. The gods were trying to keep her away from guns, for sure.
+
+The alien remained quiet for a moment. She thought they might have been thoughtful, but she realized they must have been talking with their allies when they bent down to write more.
+
+Elder. Better. Says. Use beacon. Return. Seal gate.
+
+Will it work?
+
+Another pause. Viv appreciated that she wasn’t being ignored. The aliens were really trying to work with her.
+
+Gate. Meant. Shorter trip. Not. Other. Planet. Call back. Revise.
+
+“So it was an accident.”
+
+Carriage. Clothes. Precautions if stranded. Tether to home. Active. Return. Seal gate. Goodbye.
+
+They stood back up. Viv nodded, then wondered if the gesture carried. The alien nodded back so maybe it did. Hesitating, she wrote one more time.
+
+Sorry you received hostility. Have a safe trip back.
+
+The answer was faster this time.
+
+We. All. Thank you. Go new place. Some friends. Some foes. Same. Everywhere. Debt. Payment. Impossible. Farewell.
+
+“And farewell to you too.”
+
+She waved him off towards the airlock. He was gone soon, and she was left wondering if they would keep their stat gains and language package back in their home. It filled her with curiosity, and also with a bit of envy. Nyil was her home now, but it would have been nice to have a choice in the matter.
+
+With a rumble, the APC started to move. Captain Sin joined her a moment later with a mighty frown on his face.
+
+“What is that monstrosity of metal? What have you done?”
+
+“Just gave them a chance to go home.”
+
+“This was not your decision to make!”
+
+She held back her anger. He didn’t know what he was talking about. His only concern was Ravinport and its interests, and she should not be holding it against him.
+
+“And yet I made it. It’s done.”
+
+A strange pulse came not from, but through the portal. Viv’s vision distorted, one seeing the gate as a flat surface held in the air by space shenanigans, the other perceiving a well of great depth, and from that well, a rope emerged that tied the vehicle to some destination very, very far away. Soon, it was the turn of the vehicle itself to grow hazy, then it thinned as if pulled through a needle, and after one last pulse, it was gone.
+
+Thankfully, nothing exploded this time. The stone that made the gate dropped, suddenly abandoned to gravity. The gash in the fabric of space eased up until it was more of a gentle crease than the teeth-grinding scar it had been before. They were gone, hopefully forever.
+
+Viv let out a sigh of relief she didn’t know she’d been holding.
+
+“Sai Jaratalassi!” a serious female voice said nearby.
+
+Viv turned to the grim scout, her tanned face uncomfortably close.
+
+“Hmm, yes?”
+
+“My name is Mar the Younger and I owe you my freedom.”
+
+“I believe this honor goes to Captain Sin.”
+
+“He informed me that it was your plan that led to my rescue, now if you two would stop trying to give each other credit, I can finally express my gratitude?”
+
+“You are most welcome,” Viv said, slightly taken aback.
+
+“Good. Now that that is out of the way, we should escape this death trap. I noticed several runners leaving the camp during the battle. It is only a matter of time before the rest of those murderers come back.”
+
+There was something brittle about her expression, something that told Viv there might have been more people with her but too few cages. As the guards gathered towards Captain Sin, Viv realized they were two short of the previous total, and the survivors had gashes in their armor. Some of them were still bleeding.
+
+“You two gather the horses. The rest of you, load supplies onto that cart over there. Water first, food if you can find it. Go!”
+
+Viv rushed ahead as well. She grabbed a couple of barrels of water with ease, then rushed into a separate tent to find bandages and flesh mending potions which she nabbed — they were going to need those. The looting of the camp was so fast and thorough that the entire team left with two full carriages. Viv was among the last to hop on the cart. The decision had apparently been made to leave the bodies of the slain behind. This place was so far from the deadlands that revenants seldom rose, and when they did, they didn’t wander off, apparently. It was a strange custom to her. Leaving so many bodies out in the open like this back in Harrak would have been a terminally stupid decision.
+
+Viv cast one last look at the camp as they moved out. If it were her, she would have set it on fire but maybe there was a virtue in leaving one’s enemies a way out. The convoy rode west as quickly as they could through the land that belonged to the elemental. It was now marginally less difficult than the demented landscape it had been half an hour before. Viv frowned when she felt the shadow of danger caress her spine with the promise of blood. Something was wrong. Someone was coming. So soon? She frowned.
+
+Without a word, Jim the Screecher mage took to the skies, and Viv knew what it meant. She wasn’t as sensitive to gray mana as he was, but if he forfeited any sort of stealth by moving air around like this, it meant they had mages incoming.
+
+Viv turned her head. It was just one, a red-robed man whose face was hidden behind the avian mask favored by the Sheem. Jim rose in the air to meet him even as the convoy careened onward as fast as the guards dared to go. A hum spread throughout the land, like someone giving a question consideration. Unfortunately, the hum silenced Viv’s warning.
+
+There was still one coil gun present on Nyil, of course. The one they’d tried to use on her at the border guard post.
+
+“He’s going to shoot you!” Viv warned.
+
+The two mages exchanged notes, their shields blurring under each other’s song. Only Viv had noticed the sinister muzzle emerging from the red-clad mage’s sleeve. What a cheap fucker.
+
+The shot killed Jim on the spot. He simply hadn’t seen it coming and his shield proved unequal to the task. Viv stood at the back of her cart.
+
+This was a mage. A mage with a gun. And they’d just lost their own mage. Things were a little fucked right now.
+
+A guard came to stand by her side. He chucked his spear at the pursuing Sheem. The projectile was pushed away by wind with too much ease. In response, the mage raised his hand again. Viv put up her own shield right on time.
+
+The blast took out the back of her cart and two crates of animal feed as well as the unfortunate spear chucker. Heat made her flinch from how absurdly intense the impact had been. The mage was still there.
+
+Right.
+
+This was a losing proposition. Viv dropped off the cart, surprising the mage. A push spell using one of her gauntlets took him off guard. He was forced back a little at maximum range. Now, Viv had his attention. She started running to the nearest cover.
+
+Suddenly, a song made her stumble. It was so, so very loud. Well not that loud, but loud enough to bury all other thoughts. The effect didn’t last long on her, but she still tasted blood at the back of her tongue by the time she triggered the silence enchantment. This time, she made sure it would stop outside noise coming in as well. The mage persevered for only a few seconds before closing in. A second push spell sent him back, though she didn’t even manage to make him land. He was too damn far.
+
+She ducked behind a dune as the ground behind her exploded. This time, the heat burnt her calves. The unpleasant sensation of seared nerve endings reached her mind. First degree burns only but that was just the beginning.
+
+Suddenly, her breath ran out. She recognized the choke spell the gray mages liked so much. Fuck, did she have something to counter it? Thinking fast, she ran towards the highest concentration of brown mana she could find. The land distorted the mage’s spell, weakening it. It failed shortly after.
+
+“Persistent thing,” the mage said, voice carried by the wind.
+
+She hid behind a boulder while he hovered around, his tone mocking.
+
+“I have heard of you. You have been sent to help the Sandsong… somehow. I do not see your tricks working against a dragon. It will be too late anyway.”
+
+He raised the gun again. Viv ran out of cover just before he pulled the trigger. Stone exploded behind her, and a wave of heat sent her hair in front of her eyes. Splinters stabbed at her skin. None of this was as irritating as that asshole’s voice.
+
+“Enchanted swords, magical shields, all of them are powerless in the face of this.”
+
+The man waved the gun.
+
+“True outlander power. And now that you have made them disappear, this mighty weapon is the only one that remains. A valuable tool.”
+
+Another stone exploded to her left. The man wasn’t very good at aiming. He was also shooting the gun like it had unlimited ammo, and how could he even guess it would run out? She remembered that mass driver guns didn’t really need large magazines. It wasn’t the size of the projectile, it was the speed. The damn future gun could fire another few hundred rounds of needle-sized darts at her ass for all she knew.
+
+“But it doesn’t matter, as I said. You are only delaying the inevitable. Fate… is written. And it is coming.”
+
+Don’t say anything. Don’t say anything. Don’t say anything.
+
+Ah fuck it. She could see Captain Sin creeping in from behind the form of the floating mage. Might as well offer a diversion.
+
+“You know, lots of people think they have destiny on their side until I come along,” she said, leaving cover.
+
+The mage shot again. This time, she blocked it with her shield though she made a show of it cracking.
+
+“You cannot comprehend the change that will sweep all of mankind. Not until you meet him.”
+
+“Him?”
+
+“The Sovereign of the Shadowlands. Mankind will unite under his rule. There will be no more wars, and the Sheem will be his right hand.”
+
+Wait. They were already allied? That might be bad. Unfortunately, Viv wasn’t going to get a chance to interrogate the mage. A powerful blade of intent smashed into the man’s shield just as he raised his hand a final time. He plummeted, crashing in the sand some distance away.
+
+“You’re only delaying the inevitable!” the mage screamed as he stood up, wracked by pain.
+
+“Ooooooooooooooooooooooooooooooooooooooooooooooooooooooh?” the sand objected.
+
+“No… no!”
+
+Friend?
+
+“Nope!” Viv replied to the elemental.
+
+With a dreadful splat, the mage’s career as a monologuing villain was cut short. Viv screamed in frustration.
+
+He’d been pulped, and so was the coil gun.
+
+“The fucking gun! Arg!”
+
+The world was conspiring to keep her fingers away from triggers. She just wanted to shoot someone once. Was that too much to ask?
+
+“We must leave! Now!” Sin screamed at her.
+
+Although she didn’t share his urgency, she did run after him because the Sheem were definitely after them now. She gave the elemental one last mental goodbye.
+
+Rift closed. I sleep.
+
+Well good for her. Viv ran after Captain Sin, then after the carriage since the rest of the convoy had wisely decided to keep running. Viv ended the sprint sweaty and annoyed but overall fine. Even the ambassador seemed pleased to see her, having rejoined the group with their original cart. He even gave her a fresh waterskin from their pilfered reserves. It tasted stale.
+
+“Thank you,” she told him.
+
+Behind them, the twisted path gave no hint at whether or not they were being followed.
+
+“You annoy me, Sai Jaratalassi. You do not know your place nor do you intend to learn, yet there is no denying your courage. Or your competence. I only hope, for your sake, that the Sandsong are more tolerant of your impropriety than I remember.”
+
+“Thank you, Ambassador Bes. I am sure we will come to an agreement.”
+
+The man moved away with his horse. Lady Mar checked on Viv a bit later, after they’d slowed down a bit. By then, Viv had made sure to share the healing supplies she’d taken from the camp with the relieved guards.
+
+“Lady Sai, I see that you have managed to make yourself comfortable. I must say, I am incredibly glad that you would be here. I would have felt quite lonely otherwise.”
+
+Viv could understand since the expedition was what she would charitably call a sausage fest.
+
+“Indeed. I understand you are a warrior as well?” she asked.
+
+Lady Mar outranked her on the social ladder, but the noble woman remained casual in the way she spoke.
+
+“A scout by trade and training. I prefer the company of the desert to that of my peers, though I fear few warriors with a spear!”
+
+Viv nodded. She wasn’t quite as good as someone like Koro or Wamiri, but she could definitely hold her own.
+
+“Sadly, my companions didn’t make it. Our foe has shown no mercy.”
+
+“The Sheem killed them?”
+
+The lady nodded with sadness in her eyes. Viv remembered stabbing the guard and still felt a measure of shock, even though she had killed many people before. Mar had been through a lot worse. Honestly, it was sometimes haunting how taking prisoners was the exception to the rule around here.
+
+“Yes. They really didn’t want word of their presence to get out. I assume they only kept me alive because of my status, and so they wanted confirmation from their officers before ending my life as well. My family protected me. For once.”
+
+“Such savagery.”
+
+“Those little sparrows have not come to dominate our corner of the world by playing nice. Or smart, for that matter. Your arrival was salutary in more ways than one. Is it true that you are here to help with the dragon?”
+
+Viv chuckled. Was it even a secret anymore? Obviously not.
+
+“I am confident I can break that stalemate and help free Sandsong from the creature.”
+
+“Blessed be the light gods. Finally, some good news. And one last thing, Lady Sai…”
+
+The tanned woman suddenly grew more bashful.
+
+“Yes?” Viv asked.
+
+“Do you harbor any designs towards Janar Sin?”
+
+“Oh? Oh! No, I have someone waiting for me at home.”
+
+Lady Mar nodded, still a bit red from embarrassment.
+
+“Oh, alright. I am not sure if he will be receptive to my advances.”
+
+“Well, you have my support.”
+
+“I believe I will wait until I have bathed to approach him truly, or he might mistake me for the barrack’s changing room.”
+
+“We are all a little rancid,” Viv conceded. “But I am sure he will appreciate some conversation. Perhaps your spearwomanship could use a few pointers?”
+
+The lady nodded.
+
+“That sounds wise. Is your loved one also a fencer?”
+
+“No, I just have the same muscle heads at home.”
+
+The conversation continued for a little while. Mar was a much more pleasant conversationalist than Viv would have expected from the ‘I don’t really like people’ comment. The mood wasn’t great though, and most people were eventually forced to focus on simply moving forward to escape pursuit. They still stopped at nightfall because the scout was afraid carriages may be damaged during the night. They found a place to hunker down, and didn’t light any fires.
+
+The night was strangely uneventful.
+
+***
+
+The next morning, the expedition reached the first hills of the Salt Mountain. Viv took a moment to appreciate the view. They were not much in terms of heights, as far as mountains went, but they were certainly colorful. Starting with ochre, the peaks extended through layers of various colors: reds, browns, whites, yellows, even some startling black and cobalt blue lines that traced the contours of others like the pen strokes of some artsy giant. More importantly, the hills gave a commanding view of the path they’d followed the night before. It was empty. Their pursuers had given up, perhaps concerned about a lack of supplies. The mood, that night, was still somber. The expedition had lost five people including their mage and one of the scouts, and that was before the slaughter of the border tower. It had been a bloody three days. Contrary to the short skirmish at Ravinport, neither side had offered any quarter. She wondered if it was a herald of things to come.
+
+Captain Sin took Lady Mar aside as they made their camp. Viv decided to help with cooking this time, partly because it hadn’t been asked of her, and partly because the guard in charge of preparing the pot was a fucking tosser. Seriously, she had no dedicated cooking skill and she could still do better. They even had a magical portable stove to provide some controlled heat. It was hard to believe how little they cared about making a proper gruel. Anyway, when the pair returned, Lady Mar gave her a curious glance. She could only assume Captain Sin had warned her about the strange arcanist.
+
+“One of your cousins is a cook as well?” he asked her after trying the congee she’d made.
+
+“Come on, this is nothing. You cannot tell me you don’t get better food at the palace.”
+
+“Yes,” the man replied. “At the palace. Well, you are a woman, so perhaps it is just one of the skills of the fair sex.”
+
+Viv decided to let that one pass. She was just too sad for their low standards out in the field.
+
+The food helped people recover, somewhat. Sleep would help too, but as the night darkened, people kept cluttered and unwilling to retire to their bedrolls. Some officers might have given the order to do so anyway, but Captain Sin went with another decision. He started singing. The music was a dirge that rose to the sky like a mournful call. First, Sin sang alone, but soon he was joined by other voices until the entire squad sang. Even the ambassador joined in. Viv was the only one left out. Those were folk songs people first listened to as toddlers without understanding them, something an outsider like her couldn’t understand. That was fine. She listened with pleasure when Lady Mar added her voice to the chorus. Hers was a higher pitch, a different line adding harmonies to the whole. The men split as well as the long song continued with some deep and rumbling, other high and emotional. They kept at it for minutes. Sometimes, someone forgot lyrics so one of the lines faltered, but they always joined again until the song fell back down to a natural calm. The last line was sung by Captain Sin, alone, ending like he had begun.
+
+Silence returned, but it was a different kind of silence. A little while after, people drifted to their bedrolls.
+
+***
+
+Climbing the Salt Mountains meant following a barely visible path through air so dry, Viv could feel her sweat evaporating as it formed. The dry dust puffed up in arid clouds with every rare gust of wind, and from the wheels of the first horses and carriages. Slippery slopes meant that sometimes Viv had to dismount and push up a few steep inclines. At least, the elementals kept their distances though Viv sometimes spotted tornados and quakes starting and stopping in the distance seemingly at random, the only warning a distant rumbling like the protests of a lazy sleeper. On the fifth day of the expedition, they reached the top of the squat mountains to find small pools, crusty and colorful in the gentle light of fall. Viv gasped with surprise. She recognized the small bits of crystals clinging to the sides of the pools like crushed diamonds.
+
+“Salt flower!”
+
+It was just salt that crystallized at the surface of oversaturated ponds as the water evaporated. It looked good though, and was considered a delicacy back in France. She happily jumped down with an empty bag to collect some. As expected, they were soaked with brown mana from the elementals below. It would make food taste amazing.
+
+She got quite a few questioning glances for that, but she didn’t care. Finally a part of traveling here that didn’t suck ass! It had to be enjoyed to the fullest to make up for being shot at and other indignities, like the rationing of water. Seriously, another week like that and scouts would notice them downwind from all the way to the coast.
+
+Despite the discomfort, Viv wasn’t even tempted to fly away anymore. By now, it was a matter of pride. She was a big girl. She’d made a commitment. Poor hygiene was just a temporary, unpleasant test of her willpower and ability to ignore aggressive body odor, including her own. She’d already gone so far, might as well complete the trip in secrecy.
+
+Fortunately, they’d been traveling very fast with the horses. After crossing a pass that showed the ancient, massive statue of a singing woman, Viv got her first glimpse of Sandsong. It was another desert, though patches of shocking green could be seen at regular intervals. The border city of Barrier sat at the bottom of the mountain, a military base and trading post all at once.
+
+Unfortunately, it was burnt to a crisp. The scorch marks were painfully familiar from her first foray into the remnants. Only the scale was different. There was a contemptuous rage visible in the way the flames had devoured not just the town center in precise lines of devastation, but also the walls, and even surrounding orchards and farms clinging to the city and its wells. Dragon fire burnt long and hot, and it spread. There had been no need to attack so many times, and yet, the dragon had done it anyway. Viv could already tell they were from the fire bloodline for sure. She could also tell it was animated by an anger that went beyond the thorough to border on the cruel. It didn’t bode well.
+
+They did have a serious dragon problem.

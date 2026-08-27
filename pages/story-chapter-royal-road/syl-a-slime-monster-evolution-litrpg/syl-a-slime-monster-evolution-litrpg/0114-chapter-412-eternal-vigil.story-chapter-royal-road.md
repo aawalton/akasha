@@ -1,0 +1,149 @@
+---
+id: 6c92a93a-b47e-53be-87dc-01718b99f81c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 412 : Eternal Vigil"
+slug: 0114-chapter-412-eternal-vigil
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 114
+ownLength: 2409
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3780619/chapter-412-eternal-vigil"
+royalRoadId: "3780619"
+---
+
+The room we entered looked more like a mausoleum than a treasury, with several ancient stone caskets filling it. There were engravings of names on each of them, although most were illegible as if worn not just from memory but time itself. Interestingly, some of the caskets had been opened, with whatever was inside them entirely removed. This led me to believe this was where we would receive our reward.
+
+"Here's something still legible," Sylvester said, pointing to a small mural that stood testament against the natural decay here.
+
+It was brief, depicting great heroes across the ages who stood against the demonic horde and their very spirits themselves acting as the final bastion against their reemergence. It felt oddly too real, prompting me to consider if there was more to labyrinths than I had originally assumed.
+
+This can't just be a dungeon theme, right? The reappearance of Traz certainly didn't feel staged, even if it was a weird coincidence. A final boss shouldn't try to flee.
+
+While I was lost in thought, I heard startled cries from the others. I quickly turned around, ready to attack at a moment's notice, only to pause as I saw what could only be described as a ghost of an ancient human.
+
+He looked old and withered, an oddity for a ghost that should have retained its appearance at the time of death, and only made odder by the imposing look of his equipment. Ignoring his haggard, ghostly flesh, he looked like a general, or maybe even an emperor of humanity, ready to lead the charge or defend the homelands.
+
+"Greetings, champions. I must thank you for restoring order to this place once again. Through your combined effort, you have once again delayed the advance of demonkind and protected the realm; for that, you have my eternal gratitude."
+
+"You're welcome…?" I murmured, and my personas also muttered their own acceptances.
+
+The ghost continued talking, as if on a script. "As is custom, you may select one of the tomes of a fallen hero to aid you. The time you have earned us is well worth the loss of one of our guardians, allowing him or her to finally find rest."
+
+The ghost waved its arm, and a pressure seemed to be released from the sealed caskets. We hadn't tried opening them yet, but it seemed like, without his permission, we would have failed. I theorized this ghost might have been the labyrinth master, but I was honestly still a bit muddled about whether it was a fabrication.
+
+I'll ask Keldenar. He'd better have some answers now that I've actually beaten this place.
+
+"My time is short before I must go back to my eternal vigil, but I can answer a question or two for humanity's newest [Demon Slayers]. If you have no questions, then you can simply pick one of the caskets and be on your way."
+
+I looked at the group, and they all gestured for me to go ahead. I sighed, knowing that if our casket was a dud, I'd be the one getting the blame.
+
+"Is there any hint you can give me on which one to pick? The names have long faded, so I have no idea where to even start."
+
+The ghost seemed lost in thought, an awkward silence permeating the room before it finally spoke again. "There is no trick, although perhaps you can try feeling with your heart on which hero might call to you. If none do, then you can only rely on your own fortune."
+
+"Well, that sucks…" I grumbled
+
+"Don't be dismayed. These are all heroes of legend, and no matter who you end up choosing, their relics should prove useful in one way or another."
+
+None of us was convinced by what the ghost was saying. Ideally, I'd pick one of the tombs that belonged to a spellcaster, as I was sure whatever they held might be helpful to me in one way or another. However, if I pulled a barbarian or some other dumb warrior class, then it would be a real disappointment, even if Sylbera could probably figure out a use for it.
+
+"I don't suppose you could point me towards one of the legendary mages?" I asked.
+
+"I cannot," the ghost said, its form flickering as if it were on the verge of fading away.
+
+I held my complaints to myself as I looked at all the caskets. Unfortunately, they looked identical, and when I tried to peek inside, I encountered an impenetrable obstruction. Considering even the labyrinth couldn't stop me when I used [Personal Rift], I was genuinely startled that these pieces of decaying rock were able to.
+
+I guess cheating isn't an option… Well, let's see if any of them "call out to me," which is hopefully better than just blindly picking one.
+
+I walked over and began touching each of them gently, hoping to get some kind of sign or hint from whatever was within before moving on to the next. The more I went through, the more I was convinced this was a load of bullshit, as I genuinely got more information from an actual stone than whatever these were.
+
+My mood continued to sour until I brushed against one of them, and weirdly, I felt a strange tingle from it. It was hard to put my finger on what it was, but it vaguely felt… Familiar? I still had a few more to go through, so I didn't immediately pick it, but when I reached the final one, there hadn't been another reaction.
+
+I returned to the one, and it still had an odd familiarity, so I ended up picking it since none of the others gave me anything. It was the advice the ghost had given me, and considering it was supposed to be my reward, I hoped it wasn't trying to screw me over.
+
+"I pick this one."
+
+"Very well. I shall remove the seal from it and let the hero finally rest. Thank you once again for your contribution to the world," the ghost replied, even giving a slight bow.
+
+There was a light clicking noise, followed by an intense rumble as the stone lid began to move off and fell to the side of the ancient coffin. Before the contents were revealed, there was a burst of energy, as if something had been released from the confines, followed by a cloud of dust. The ghost seemed somber from these events, and after one final bow towards me, he faded away.
+
+"Weird," Sylvain said, the first to break the silence.
+
+"Let's get our loot and leave," I replied, waving my arm and dispersing the dust.
+
+It seemed that the dust came from the corpse, assuming there was one, instantly decaying from the stone casket being unsealed. Regardless, at the bottom was a set of items that all shone brightly with intense magical energies: a crown, breastplate, medallion, mantle, boots, and greaves. Lastly, there was a weapon, a large sword featuring a distinct, undulating, flame-like wavy blade.
+
+"Oh! Master, that's a flamberge!" Sylbera shouted excitedly.
+
+"Is that info from your blacksmithing?" I asked curiously.
+
+Sylbera nodded. "Even with our loss of [Identify], I should be able to at least establish the item type and its materials."
+
+A few glances were directed towards Sylvester, who sighed and promised to continue working on the spell version. With these new items, it was especially important if we wanted to steal some enchanting blueprints from them.
+
+We picked up the items and noted that all of them had matching lion motifs: the breastplate depicted a roaring lion, the mantle had one majestically embroidered, and even the sword pommel had one. It was obvious that the items were all part of a set, and probably hinted at who their owner might have been.
+
+"We will have to check the history books, but considering the presence of a crown, it shouldn't be too hard," Sylvester suggested
+
+"It's a pity it wasn't a mage or an archer…" Sylthaeryn sighed. "Why did you pick this one?"
+
+"I felt something from it, and I still do from these items, but I'm not sure what exactly it is…"
+
+"Do you think the ghost played a trick on you? I don't feel anything from any of these," Sylvain stated.
+
+The rest of the group, unfortunately, agreed, leaving me with no hint as to why I felt the way I did. I even tried swinging the sword, hoping it would give an answer or, at the very least, spark a memory for me, but all I got was some minor enjoyment from wielding a supposedly powerful artifact.
+
+"Just from a casual examination, these enchantments are nothing like what we've seen before. They're on par with dungeon-spawned items, but they feel more ancient…" Sylvester said, placing the medallion back down.
+
+"Ancient like those barriers?" I asked.
+
+After a few moments of thought, he nodded, which at least half-confirmed my suspicion that they were relatively from the same era. Until we got the items properly identified, I didn't let anyone equip them, beyond the casual sword swing I did. I didn't feel like they were potentially cursed or anything like that, but it was still better to be safe than sorry.
+
+"I bet Keldenar can use his [Eyes of Truth] for us," Sylvester suggested.
+
+I nodded in agreement and began storing the items away in [Core Storage]. With nothing really left for us in the room, we looked for the exit. Sylvain tried to sneakily push the lid on one of the coffins, but it didn't budge in the slightest. Thankfully, Sylbera was keeping watch and scolded him before he attempted to use [Acid Slime] on it, which might have earned us a new enemy for life.
+
+Juniper warned me to be respectful, so we should just leave. Besides, I got the black slime core, which was the real prize of this event.
+
+It wasn't hard to find the exit, which, to my surprise, was an ancient portal that only activated when we approached it. Naturally, with such a device right before us, we immediately stopped and spent as much time as possible examining every nook and cranny of it. Even if we couldn't understand it, we could save it for later replication through [Sub-Cores].
+
+Our rapid copying of the entire enchantment even leveled up all of the new [Sub-Cores] to level two, a delightful surprise from all the donated hard work from their older brethren. Feeling even happier about our gains here, we finally stepped through the portal and found ourselves standing in the locked chamber at the very start.
+
+"Thank the gods we didn't need to walk all the way back," Sylvain sighed.
+
+"I mean… You could have just stored yourselves and gone home, leaving me here," I pointed out.
+
+Sylvain coughed awkwardly as he averted his gaze to stare at the wall. "I was just waiting to see if we would get some kind of proof that we cleared this place. You said we needed three to unlock the secondary class, right?"
+
+I nodded, but even after we left the pit and returned to the scorched lands above, there wasn't even a hint of a potential notification. I could only shrug and hope that, after clearing the third one, it would all come together to meet the criteria.
+
+"Right, shall we all head home?" I asked.
+
+The group nodded, and one by one, I began depositing their cores so they could take the express trip to their destinations. As for myself, I was going to teleport to the island first and spend some time there before returning to Keld. I missed my spidery companion and wanted to show her my new toys.
+
+But first, let's teleport to a few landmarks to mask my destinations.
+
+I cast [Landmarks] and, once again, picked Glimmerock as my go-to hub before ultimately returning to our home.
+
+***
+
+As the strange creature departed, a familiar-looking ancient ghost revealed itself, staring at the one-way portal that closed behind them. The ancient device once again lost all signs of life, becoming inert, leaving only the eerie silence of the labyrinth.
+
+"Very strange…" the ghost murmured to himself. "In all the time I've been here, I've never witnessed such an oddity. I heard about these supposed [Experiments], but I didn't expect one to arrive at my vigil."
+
+The ghost's form flickered for a moment, and it appeared in the chamber, where the freshly crafted "seal" had been made. The ghost's withered face stared at the creation, and it frowned.
+
+"Now this is a problem. How many years will it take for corruption to wear down this barrier? In the past, I would've welcomed such a fine barrier, but this only delays the next opening of the next casket."
+
+The ghost sighed again as it contemplated potentially sabotaging it from this side. Normally, such an act would be utterly unthinkable, a mockery of all he originally stood for, but his own time of rest would only come to fruition when the final casket was opened. Unfortunately, as per the gods' arrangement, that would only be possible at the next breach and sealing, which now seemed decades away.
+
+"I suppose I shall just have to report what happened. This is too big a decision to make on my own. Also… I feel uncomfortable about that creature."
+
+He assumed it was a slime, but he'd never seen one move with such purpose and intelligence. Oddly enough, he actually agreed with the theory the demon proposed about its origins, as he himself couldn't pry any further due to that pesky [Unique] Emblem it had been granted. Evidently, this was one of the god's favorite pets, but that didn't mean it was to be given carte blanche to do whatever it pleased.
+
+"Black slimes are supposed to be forbidden from the outside world… Not to mention it had the power of an orange slime, too. Thankfully, I can't be blamed for that, but still… I should perhaps include it in my next report."
+
+The ghost sighed again for the umpteenth time before flickering to the room filled with caskets. Too many were still left; if only it were allowed to grant additional openings, but that was strictly against his oath. He floated to the casket, the creature picked and frowned.
+
+"Of all of my brothers and sisters buried here, why did it resonate with you…?"

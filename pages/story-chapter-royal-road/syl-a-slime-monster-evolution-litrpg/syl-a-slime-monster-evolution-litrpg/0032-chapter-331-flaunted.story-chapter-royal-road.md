@@ -1,0 +1,183 @@
+---
+id: 56d97630-1370-505f-8f3b-fe46273edf16
+page-type-slug: story-chapter-royal-road
+title: "Chapter 331 : Flaunted"
+slug: 0032-chapter-331-flaunted
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 32
+ownLength: 2162
+unit: words
+ownProgress: 2162
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2894673/chapter-331-flaunted"
+royalRoadId: "2894673"
+markedReadAt: "2026-06-29T19:42:52.421Z"
+---
+
+Once Vanessa had received all the deepstone, she gave it to Sylvain for safekeeping. She rewarded him with a kiss on the cheek, which lit up his entire face with joy.
+
+Gross, what are you making me do [Roleplay]? Are you actually enjoying this?
+
+Even though I was now observing things as an outside observer, I was not happy seeing one of my created personas tarnished like this. If at the end of the day this wasn't worth the trouble, I would be banishing [Roleplay] into the neglected skill pile.
+
+Or maybe I should use [Skill Deconstruct] on it… This is a team Syl operation, and you're either with us or against us!
+
+Unfortunately, [Roleplay] was just a skill and couldn't actually communicate with me, but treating it this way at least made me feel a little better and kept me occupied while I watched this drama unfold.
+
+Vanessa led the way back to her house, making sure to link arms the entire trip. When we reached the settlement, there were quite a few catcalls and whistles in celebration, as if she'd finally succeeded in her conquest.
+
+Are they all in on it? Or are they all charmed?
+
+I wasn't sure, and it looked like I wasn't going to get an answer as Vanessa went straight to the docks and began chartering a private ship for the two of us.
+
+"Sylvain wants to show me what an archmage of the ocean can do," Vanessa said in a braggingly seductive tone.
+
+Damn, I know I'm supposed to hate her, but Archmage of the Ocean is a pretty cool title.
+
+Since I had nothing but free time while Sylvain went along with this facade, I started looking around and examining things more closely. Unfortunately, I didn't find anything out of the ordinary, and my only discovery was that the captain I had come with had already departed.
+
+Maybe this is why she finally made her move?
+
+Being stuck in my own body with nothing to do was quite dull. I wished I could have worked on a magical side project instead of watching this boring soap opera—as Vee would call it.
+
+I tried to pass the time by managing my [Core Storage] workers, having them start creating various weapons and ammunition from different mixtures of slime traits. It was at least something and was really the only thing I could do without attracting attention.
+
+Meanwhile, Vanessa was having Sylvain sail her around the ocean at high speeds using magic to reinforce and pilot the ship. The way she was giggling and smiling made me think she was a young girl in love, leading me to wonder whether she was truly evil.
+
+Is she just some naive girl who stumbled upon a super rare skill or trait? Maybe it was something she was born with?
+
+My ponderings proved pointless when her attitude suddenly shifted, and she ordered us to head out into deep waters. I realized the previous acting might have been an alibi, or possibly a test to see if she truly had Sylvain under her thumb.
+
+We kept heading out deeper and deeper, with her demanding we go faster and faster. [Roleplay] had Sylvain trying his hardest to please her, although I could tell it was still holding back my true capabilities.
+
+If [Roleplay] was really following her orders, then it might have used [Dimension Magic] or at least brought in an army of [Sub-Cores] to help boost the wind or control the waves.
+
+During this time, she also started asking questions, mostly around Sylvain's capabilities and accomplishments. Vanessa even went so far as to start asking for skill levels, and I noticed [Roleplay] was mixing truth with lies.
+
+Vanessa seemed positively delighted with each answer, truly looking like the cat that caught the canary. This went on for what felt like hours until she eventually called for a stop. I immediately stopped fooling around with my [Core Storage] and watched in anticipation.
+
+Vanessa reached into her handbag and pulled out a gem-encrusted conch shell, which she raised to her lips and blew. It let out a strange, singular note that sounded like a foghorn mixed with bat screeches. While she blew, the sound droned on, and I noticed waves of Mana radiating out of the shell.
+
+"Now we wait," Vanessa said with a sigh and sat on the edge of the deck. She flipped her long hair over her shoulder, exposing her back. "Sylvain, dear, don't you want to rub my shoulders?"
+
+"Anything for you, sweety," Sylvain replied, a cheesy grin bursting from his face.
+
+Ew… I think you're laying it on a bit thick there [Roleplay]. I don't remember Sylvain having this type of personality when we put him together.
+
+I averted my gaze, if only to stop my urge to use [Nitro Slime] right then and there. Fortunately, it didn't seem to take long for me to sense something huge approaching from the water. Since we were at the edge, we could glance at the waters and see the large shadow looming beneath us.
+
+"Vanessa, something is coming for us!" Sylvain said, sounding like a knight ready to protect his princess.
+
+"Don't worry, dear, it's on our side," Vanessa said, stroking his cheek reassuringly.
+
+Sylvain seemed to calm down at her words, still staring longingly at her.
+
+The plot thickens…
+
+By now, it was within the range of a few of my senses, and I could tell it was some large type of whale. As it got closer, it moved away from the boat and surfaced nearby, its blowhole sending a torrent of water into the sky as it breached.
+
+It turned to face us, and then its maw opened, revealing a crystalline structure dangling from the roof of its mouth. It stayed in this strange position for a while, until a door suddenly appeared and opened within the structure. It opened by sliding into itself, revealing a womanly figure in the doorway.
+
+The woman had a pale, wet complexion, which made her long red hair stand out. Along her neck were gill slits, and her fingers and toes were webbed. I wanted to gasp as I threw out an [Identify].
+
+<Sybil; Mermen Siren Infiltrator [IV] LV 8; Hydromancer LV 43. Elemental Affinity: Water.>
+
+Holy shit [Identify] actually worked for once! No wait, that's not important, it's a mermen!
+
+"Vanessa, why have you summoned me ahead of schedule?" Sybil asked, sounding both curious and slightly annoyed.
+
+"I obtained a large shipment of deepstone, and I also found a new toy!" Vanessa said excitedly as she rubbed up against Sylvain.
+
+"Vanessa?" Sylvain asked, sounding a bit concerned.
+
+"Shhh…" Vanessa said, placing her finger against his lips. "Trust me, this is the only way we can be together forever."
+
+Sylvain nodded.
+
+I mentally rolled my eyes. Yeah, right, I don't believe you at all…
+
+Piecing together this occurrence and the lack of any spellcasters, I deduced the mermen made a habit of charming and then capturing any mages who came to the island. For what purpose, I still wasn't sure, but if they were going to invite me straight into their home, well, that worked out perfectly for me!
+
+Ha! Looks like I'm definitely winning that bet against Vee!
+
+"Really? You managed to entice this one?" Sybil asked as if not believing it. "He seems… stronger than normal."
+
+"Over fifty levels in hydromancer and aeromancer!" Vanessa bragged.
+
+Sybil's eyes went wide. "Dual pure affinities? How did you manage this?"
+
+"It wasn't easy; it took days of laying the foundation. But now he's my beloved little archmage of the ocean," Vanessa giggled, wriggling a finger against Sylvain's chest.
+
+As if to prove the point, Sylvain put his arm around her waist defensively.
+
+Hmm… I guess this trick isn't as foolproof as I assumed. I suppose this is why she did all the fooling around to check if it was true. Okay [Roleplay], I'll give you a pass for hamming up your loverboy performance.
+
+"Remarkable. I'm sure you will earn many merits for bringing this one home," Sybil said approvingly.
+
+"And that is why I need you to swap places with me," Vanessa explained. "We don't have days to swap over the leash."
+
+Sybil looked conflicted but nodded. "Very well."
+
+Sybil then jumped from her crystalline structure and landed atop the ocean waves, where she stood as if on solid ground. She walked over to the boat and then jumped up to the deck, where I instantly noticed how freakishly taller she was compared to humans.
+
+Sybil and Vanessa then began trading items among themselves, with Vanessa explaining the island's current situation. Sybil nodded along, and then they revealed how they were going to cover this up.
+
+"I'll have the whale destroy the ship, then you can wash up on shore as the survivor," Vanessa explained.
+
+Sybil nodded. "A sound plan. I suppose you want me to drum up how your toy saved your life?"
+
+"Yes. I know you're very good at bringing out the water works," Vanessa said with a smirk.
+
+As I wondered whether their plan would actually work, I watched as Sybil's body began to crack and creak, her bones shifting. Her body shrank to match Vanessa's height, and her blazing red hair turned into the familiar wavy brown, and soon the rest of her physique changed to match.
+
+When everything seemed done, I threw out an [Identify] and was quite furious at the result.
+
+<Vanessa; Human LV 12; Clerk LV 26. Elemental Affinity: Water.>
+
+Is this what my enemies feel like? I swear I just complimented you [Identify] and you're already back to being useless!
+
+My Vanessa even handed her a matching set of clothes, though the two then tore and damaged it, adding to the illusion that she was a shipwreck survivor.
+
+"You really thought this through," Sybil complimented her, although her voice now sounded exactly like Vanessa.
+
+"I had a lot of time to think about it, since, as I said, it took days to lay the foundation," Vanessa admitted. "And I wanted to secure him as soon as possible, so time was of the essence."
+
+Sybil nodded again.
+
+"Good luck, sister," Vanessa said.
+
+"Good fortune, sister," Sybil replied.
+
+Vanessa then turned to me and smiled seductively with an almost begging pouty face. She pointed a finger at the crystal structure in the whale's mouth. "Dear, can you create a bridge to get us there?"
+
+"Anything for you. I can't imagine being apart from you anymore," Sylvain replied, before raising his hand in the direction.
+
+The water lifted from the ocean, forming a floating bridge that connected the boat to the crystal doorway. Sylvain then took the first step, standing atop the water bridge, and offered his hand to Vanessa.
+
+Vanessa actually blushed as she took his hand, accepting his help and gingerly standing on the water as they strolled towards the structure.
+
+Wow, what a show-off… Using multiple empowered castings of [Hydrokinesis] for this?
+
+Sybil actually let out a whistle, evidently impressed by the display. "Perhaps I need to stay on the surface to find a catch of my own."
+
+"You really should, sister," Vanessa said, before latching onto Sylvain and giggling to herself. "Although I don't know if you'll ever find one as good as mine."
+
+Sybil opened her mouth to say something, but then closed it, shaking her head. The last I saw of her, she dove into the ocean and began swimming in the direction we had initially come from.
+
+Vanessa led us into the crystalline structure, and as soon as we entered, she touched an unseen device on the wall, revealing the missing door and sealing it behind us.
+
+The inside was a little bigger than I expected, almost the size of a small dining room with numerous chairs situated around a large table. Everything was made from this strange crystal, and Vanessa took a seat and patted an open spot next to her.
+
+Sylvain obediently sat next to her, and Vanessa cuddled up against him. If not for her plot, I would've sworn she was actually infatuated with him.
+
+Or maybe she's just obsessed with his power? Well, sadly, whatever she's scheming will end in tragedy.
+
+If not for her breaking my most hated taboo, I would have maybe felt sorry for her, but if this was how the mermen operated, then I would gladly deal with them, permanently.
+
+Of course, I needed to be careful as I had no idea what I was heading towards. While I was confident in my abilities and my newly evolved form felt invincible, I still planned to scope things out before committing to anything dangerous.
+
+For all I knew, the mermen were tier-six monsters with hundreds of levels, and if that was the case, I would make an emergency teleport to safety.
+
+As I wondered what would unfold, a sudden thought crossed my mind.
+
+Shit! I didn't have time to leave a note for Vee.

@@ -1,0 +1,413 @@
+---
+id: 0e81f865-32ea-59f1-8744-5998ff9c44b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 204: Through the waves"
+slug: 0129-chapter-204-through-the-waves
+partOf: the-calamitous-bob-stubbed
+position: 129
+ownLength: 4403
+unit: words
+ownProgress: 4403
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2248693/chapter-204-through-the-waves"
+royalRoadId: "2248693"
+markedReadAt: "2026-06-29T21:19:15.522Z"
+---
+
+By the time Viv found Lana, the woman was sitting on the steps of the water palace’s inner chamber by the undersea tendril, with Rakan and Sidjin standing by her side like a pair of angry bodyguards. She was holding her hand to her chest. The warm light of life magic filtered through her knuckles.
+
+Despite the deep pockets under her eyes she’d still dried herself and somehow turned her hair into a simple yet clean braid.
+
+Viv noticed the withdrawn form of Renea skulking in the distance, hood covering her face. She would wait. Lana had priority.
+
+The woman sighed with relief as soon as she spotted Viv, but that sigh quickly turned into a nasty cough. She winced when she was done.
+
+“Hello everyone,” Viv greeted.
+
+“Not that I was worried, but it’s good to see you,” Sidjin replied.
+
+“We got Lana out. She is going to make it!” Rakan said with enthusiasm. “We managed to help her get simple spells going to stop herself from drowning. She pushed through the pain!”
+
+A flash of annoyance coursed through Lana. She clearly wasn’t over it.
+
+“Are you ok?” Viv asked.
+
+“Lungs hurt. I shall live.”
+
+An awkward silence descended upon the group. Lana fidgeted. Viv decided to lighten the mood a bit, Mostly, she was still on edge and hoping things would calm down now.
+
+“Sooooo congratulations on passing the trial, I guess!”
+
+“Fuck… cough… fuck this shit.”
+
+“Lana!”
+
+“Come on… I almost drowned! I want liquor.”
+
+“I have some on the ship,” Sidjin allowed. “But first, maybe you should mend your throat.”
+
+“Gimme a minute,” Lana growled. “Go talk to Renea.”
+
+Renea looked up from her uncool kid corner with haunted eyes. Viv tried to smile since the woman had technically tried to redeem herself, but Renea flinched like she expected to get screamed at. People really seemed to think Viv was some angel of vengeance with a horrible temper who didn’t hesitate to murder all opposition while nothing could be further… ok no she did do that on occasion but only with the most egregious cases.
+
+“Thanks for helping us save Lana,” Viv said by way of greeting just to show she was in a friendly mood.
+
+Renea nodded, lips trembling slightly.
+
+“It was the least I could do after… after everything.”
+
+“Yea, so I don’t want to pressure you or anything, but it might be best if you left with us.”
+
+“How can you say that!” Renea blurted, tears streaming down her cheeks. “How can you offer me sanctuary after I betrayed my host! And again, I have betrayed another! I cannot be trusted.”
+
+“You mean, by going to us?”
+
+“Yes!”
+
+“To save a friend from drowning? To absolutely no benefit to yourself? I wouldn’t call this a betrayal.”
+
+“Then what would you call it?” Renea screamed.
+
+“Making the difficult choice of taking a risk to save a life when you could have done nothing instead. Sometimes, people need to stand up to tyranny, even when it feels unintentional. At least, you acted.”
+
+Renea clammed up for a minute, crying to herself. Viv sat down by her side to wait. Lana was still healing herself anyway, and it would have been a shame to abandon Renea at her lowest. Not after she’d tried to save somebody.
+
+“I can’t come with you. I can’t. I can’t see them again. I’m too ashamed.”
+
+“I agree. You shouldn’t see them again, and they shouldn’t see you again. Not unless you both want to. Leaving the past in the past until you are ready to face it isn’t a bad thing. The world’s big though. You don’t have to come all the way with us. We can drop you off, and if you want to come to Harrak anyway, it’s also a possibility.”
+
+“I betrayed them… I couldn’t face them again… I had to atone to Lana…”
+
+Yep, definitely having a moment. Well, Lana was doing better.
+
+“You’ve done a good thing. If you feel like you need to redeem yourself, there is much left to do on the continent that will help. You have also saved Lana. If you need a safe haven, you merely have to accept my invitation.”
+
+Viv stood up, considered patting Renea on the shoulder, but then she reconsidered. She didn’t think it would be very welcome.
+
+Lana was breathing more normally when she returned, though she still spoke like a chain smoker.
+
+“How is she?”
+
+“You’ll need to keep an eye on her. She’s in crisis.”
+
+“I shall talk to her. As she helped me, I shall help her. She is a victim too. And with that said… thank you for not fighting the Azure Lady to the point of murder.”
+
+Viv nodded. She didn’t want to kill the Azure Lady so much as stop her while she wasn’t being… herself. Human, at least.
+
+“I could not have lived with myself if the palace had collapsed, sending a thousand men, women, and children to a drowning death.”
+
+Well there was also that as well, of course.
+
+“What are we going to do now?” Sidjin asked. “You had an agreement with our host, then you fought, and now the battle is over. We are in unknown territory. I would very much appreciate it if you could negotiate with her before she decides to sink our ship, because I will not be able to stop her.”
+
+“I’ll go talk to her. Set some ground rules.”
+
+Viv resolutely walked up the step to the receiving room. The Azure Lady was there, and no one else. Viv could feel her soul waiting behind carved stone doors. The island was surprisingly silent for a place that had just undergone sa not insignificant amount of turmoil, as if its inhabitants could feel the metaphorical sword hanging over their heads. The thin water line between life and oblivion had never been thinner.
+
+The gates opened by themselves to let her in. The Azure Lady sat upon her throne, her blue eyes following her guest like a cat  tracking a fly. Viv knew she was in the lion’s den, and now the lion was awake, yet the embers of outrage still smoldered in her mind, and her own soul pulsed with the certainty that though she would not win, it would still hurt.
+
+“Thou have courage,” the Azure Lady greeted.
+
+“Before we begin, I just want to make sure that you stay for the entire discussion. I want to talk to you, the entirety of you. Not some proxy left behind as you visit the abyss.”
+
+“Rest assured, thou have earned my full attention.”
+
+It sounded like a threat. Viv was ok with that.
+
+“Excellent. Now, to summarize what just happened, you just drowned one of my people. A guest, which is an act of war. We fought and I did everyone the courtesy of not destroying the entire floating town. Did I get that right or is there anything missing?”
+
+“Thou overstep. I performed the ritual to help her on the path, like she asked.”
+
+“Did she specifically agree to it after being explained what it entailed? Did she make a conscious, educated decision?”
+
+“Thou tolerate too much from thine subordinates.”
+
+“You presume too much when it comes to mine. It doesn’t matter if my rule is lenient or not. If you endanger my people, it’s an act of war. If you want war you’ll get it. I will protect my people against anybody, including gods, and including you.”
+
+“Thou art being disrespectful, young one. Watch thy tone.”
+
+The Azure Lady’s soul flared, a behemoth that could smother an entire island in a single spell. Viv leaned forward.
+
+“You can admit that what you did was wrong and we work from there… or it’s round two, bitch. And I’m ready to go.”
+
+“Thine people will perish.”
+
+“You know what happens if we start killing each other’s followers. If you want to try that path, go ahead, otherwise don’t take the moral high ground after what you did.”
+
+The Azure lady froze, perhaps considering her options. Viv picked a seat. She felt ready to go again, even though her mind felt strained from the continuous casting. Interestingly, the added power from [A Light that never Dims] was leaving her, but it wasn’t leaving her fast enough that she had lost everything. This had an interesting implication. It meant that she would still grow stronger after days of battle if she had short breaks. She wondered why she hadn’t realized that during the beastling campaign. Maybe it was due to a lack of strain. The Azure Lady had pushed her to her limits, so she could feel those limits grow as time went on.
+
+“Very well. By splitting my mind, perhaps I have been too hasty, and careless.”
+
+Viv glared. The Azure Lady had the grace of looking embarrassed, and then confused about being embarrassed. She scratched a cheek, which was still a bit scarred from black mana, though it would probably fade within the hour. Her fingers suddenly became the source of intense curiosity.
+
+Slowly, the Azure Lady rubbed them together.
+
+“Welcome back to the land of the living.”
+
+The woman blinked, her attention returning to Viv.
+
+“It is only temporary. I will return to my meditations later. This is… a setback.”
+
+“Perhaps you may want to walk around a little, meet your people.”
+
+“Have you not heard my words? The mortal humans will perish, and you shall be bereaved, again, and again.”
+
+“Then why have you welcomed so many of them on your land? Why help your kinsmen? Why build such a beautiful palace? Add transportation? Give them food? Why do all of this if you don’t care?”
+
+“It was a gesture of kindness, yes. They should be grateful for my generosity.”
+
+“You don’t look like the sort of person who does things halfway.”
+
+The Azure lady hesitated. Perhaps she wasn’t familiar with Viv’s more ‘modern’ Harrakan. Damn, and to think it was a dead language only five years ago.
+
+“By that, I mean that you have already done a lot to assist, but now the ships from the Shadow Lands no longer come and your city is overcrowded.”
+
+“Too many… people? But, they have food.”
+
+“Food isn’t enough for people to live. They need… a way to grow, to explore. You’re in the middle of the ocean with no stone, no trading goods, nothing, They’re packed in tiny houses. They use kelp to make ratty clothes but that’s it. They can’t thrive like this. Not all of them are even blue mages.”
+
+“I don’t understand. I saved them.”
+
+“Yes. And now you need to let them go. Look, you can help them in several ways. You can encourage some to move somewhere else, maybe by offering your protection or creating an enclave on land. Even in Halluria! Although I wouldn’t recommend it long term. You can move the island west towards Helock. It wouldn’t be too far.”
+
+“The palace is not here because it is convenient for the mortals. It is here because there ab abyss opens below our feet into the depths below, where the sun never reaches.”
+
+“Is this the only spot on the continent that is next to a trench?”
+
+The Azure lady tilted her head. She looked very frustrated, openly so, with the level of transparency one would expect from a child.
+
+“No. There is another similar rift far to the west indeed. At the edge of the continent.”
+
+Those were Viv’s lands!
+
+“Then perhaps it would be better to go there?”
+
+“It would take months to move the structure , and for what? I shall not submit to thy laws!”
+
+“You don’t have to go. There are other solutions, like unloading everyone who would prefer to live on land while having an agreement with a kingdom, or a city. If you are so concerned with independence, I can offer a Free City agreement that will hold for your people and their descendents.”
+
+“Harrak would never tolerate such an insult to their sovereignty.”
+
+“I am Harrak. I decide if it’s an insult to sovereignty or not, and I wouldn’t offer it if it weren’t feasible. Look, for me it’s better short term and long term to have an enclave of mage exiles to trade with than no one at all, especially in this remote place. Just be aware that there are no existing trade routes to Harrak’s north west right now. It’s simply too isolated. Kazar used to be a free city. Hell, my own nation back on Earth had an enclave called Monaco and everything went fine.”
+
+The Azure lady hesitated again, Eventually, she did something Viv didn’t expect.
+
+She actually started to care.
+
+“I shall consult my people first to see what it is they desire. Yes, that would be best. Your offer is… generous, considering my breach of the laws of hospitality. I shall remember this. To avoid any confusion, I shall still state what must be said: I shall not help thou in battle. I am not one of your people, and my proteges shall not be bound to defend  thy lands if they do not wish it. This is a haven, not a hunting reserve for poaching talents.”
+
+“We are in agreement then. It’s quite late now, so we can discuss more tomorrow.”
+
+“Yes. I beg for a bit more of thy patience. Someone is… coming.”
+
+The Azure Lady frowned. A murderous presence fell on Viv a little later, approaching at good speed. The gates crashed open while Viv turned to see who was interrupting their meeting.
+
+It was Fantos the blade master. He was still soaking wet.
+
+“Oh, right.”
+
+Viv had almost forgotten punting the little twit across half the compound. He was still dripping wet from his swimming session. Somehow, he’d managed to find his blade before it could sink too deep. His frantic eyes found the two women sitting comfortably for their meeting. He gasped.
+
+With a wave of her hand, the Azure lady dried him.
+
+“Yes?” she asked.
+
+Viv politely watched the man shake an angry finger at her. He babbled a few words, but eventually seemed to give up entirely. It was just as well because the temptation to punt him even farther was strong in Viv’s heart. The first time had been rather cathartic.
+
+***
+
+Viv was ready to leave the next morning in case the mercurial ruler of the waves changed her mind one last time. It didn’t happen though. What did happen was that a significant part of the population agreed to form a free city on the north-western point of Harrak, the place Viv had sailed by on her way here. Even more wanted to stay, however. Their lack of trust in Viv and any government in general wasn’t exactly a surprise, not on Nyil where enslaving entire cities was seen as a standard political move. That was fine by Viv. She was only surprised to see Renea among the ranks of those who would found the city.
+
+“Many of them don’t know how to live off the land. We’ll need to work hard to make a new city out of nothing, far from the normal trade routes. Right now, the Azure Lady and her seaweed farm provide. Over there, we will need to scavenge, to hunt. They won’t know how to do it so far from their homeland. I can help.”
+
+“How so?” Viv asked. “You were not exactly a trained scout.”
+
+“Have you forgotten? Elunath found us among the poorest regions of the land. My family were coal makers. They were so poor, we spent all day hunting for mushrooms, root vegetables, insects; Everything we could get our hands on. I’m sure I can manage.”
+
+“I’ll ask some of the Remnant’s scouts to join you with the first shipment of construction material.”
+
+“That will help, yes. I think many of them would prefer to fish.”
+
+Renea scratched her head. She closed her eyes and suddenly, Viv no longer had a mage, but a vulnerable young woman in front of her.
+
+“I can’t get over what I’ve done. I’ve tried. I hope… this will help me. Give me a reason to… go on.”
+
+“I will ask Abenezigel to come see you. He has helped the other girls, at least those who’ve wanted it. You are a victim as well, don’t forget it.”
+
+“Why?”
+
+“So you can talk.”
+
+“Why are you helping me?”
+
+It was Viv’s turn to sigh.
+
+“Look, this world is harsh. It’s made me harsh as well, sometimes, but I’d still prefer if people could get a second chance. Maybe you could convert to Efestar as well.”
+
+“What? Are you mad? The dark god?” Renea yelped.
+
+Damn, this place really was remote.
+
+“I have to bring you up to speed…”
+
+Viv did so. She still couldn’t believe that she was acting as a missionary. At least she was on a first name basis with the big guy.
+
+“Well… maybe.”
+
+“You do not have to commit to anything.”
+
+Renea hesitated. For the first time, she didn’t look so haunted anymore.
+
+“I did not picture you as a helper.”
+
+“Remember, I’m not in charge because I’m incredibly charismatic. I’m in charge because I’m very good at solving problems. Some of those can’t be solved through violence.”
+
+“You give the impression of someone who favors violence, and so does your aura.”
+
+“It’s all part of the bluff,” Viv said.
+
+But that was a lie. She never bluffed.
+
+“Well. Time for me to board.”
+
+Viv waved the younger woman away. Her ship bobbed with the tide as the Azure Lady was slowly moving her island west. The trip would take months. Viv would be home by then.
+
+She wondered how the others were doing. Maybe it was time to check up on Gale, see what sort of progress he was making.
+
+⁂
+
+Why was the morning sun so damn hot? Unseasonable weather. Even the light sea breeze coming from the west failed to refresh the village with the sun shining so vengefully. Shely stood to readjust her straw hat, groaning when her old back popped. Loud enough to make the dog look.
+
+“I think someone broke through our front door,” her husband joked from across the cabbage patch.
+
+“Har har.”
+
+She returned to picking up veggies for lunch. There wasn’t much bread left either. She’d have to knead some more dough in the afternoon. Maybe make a pie. Cut it with that fancy metal knife her love had gotten her for her birthday! As she hummed to herself, a distant roar made her frown.
+
+Her eyes traveled to the dragon’s peak, the lone mountain overlooking the village. That huge dragon was at it again. She wasn’t too worried though. He’d been behaving for a long time now, but better keep an eye out for things on fire.
+
+“Someone’s messing with Old White Death.”
+
+“You’re only hearing them now? Getting deaf as a haddock, darling.”
+
+“Wish I couldn’t hear you sometimes. Where are they?”
+
+“Over yonder.”
+
+Shely followed her husband’s gnarled finger to distant shapes flying under the clouds. They were going slow so far, so it was likely just an argument for now. Arguments didn’t always end up in a fire, but the fact they’d picked the sea…
+
+“What has he done this time?”
+
+“Young Jora climbed up to the cave last week because old White Death wasn’t anywhere to be seen. Hoped the beast had bought it so he could loot the treasure.”
+
+“Not a shred of sense in this lad’s pumpkin,” Shely spat.
+
+“I know. It’s all his mother’s doing… but anyway, the cave’s stench was atrocious. There were swarms of flies over the carcass pile.”
+
+“Sardanal’s mercy…”
+
+In the outer blue, the two blue shapes hurled the first spells. One of them was larger but it immediately started to fly away.
+
+“That’d do it.”
+
+“Say, you who still have good eyes, wouldn’t you see if the Empress is there? I think I can feel black mana on the air. Always makes my scar pulse.”
+
+“Give me a moment.”
+
+Shely’s hat provided the shade she needed. It was hard to see with how fast the dragons were flying, especially when one of them appeared and disappeared all the time, but she did see a splotch of shadow on the smaller dragon’s back. The size of the black spell coursing the skies like burnt tracks on a meadow was just as big a hint.
+
+“Yep, she’s here for sure.”
+
+“Oh, he’s in trouble alright.”
+
+“That reminds me, we’re almost out of fish sauce.”
+
+Thunderous booms echoed over the village, drowning the distant sounds of high tide. A colorful splotch of spells roared through the air. It was pretty to look at, from afar.
+
+“I’ve been thinking about getting into painting,” her husband said in a sheepish voice.
+
+“That so? You’re going to buy the paint with what money?”
+
+“I got a hint from one of them northerners, those who can make a house with two twigs and a piece of twine. Says you can make colors from flowers with some brown magic trick. You know I’m good at those.”
+
+Shely nodded. He was indeed good at those, and a great gardener besides.
+
+“Maybe you should start by painting our front door, aye? Old thing’s practically falling apart.”
+
+“Deal!”
+
+Shely frowned. She felt like she’d gotten trapped, maybe. The air suddenly flared above her, bright and even hotter. Dragon fire was exchanged with great rage far above them.
+
+“Curse it. As if it weren’t sweltering already.”
+
+“Just remove your dress,” her husband suggested.
+
+She tossed a cucumber at his head, but he deftly dodged. She had trained him too well. He probably had a skill by now. She decided to head back in for a quick drink when a woosh of cold air hit her back like the kiss of winter.
+
+“Aaaaaah that hit the spot.”
+
+“Nooo my leaves! I just made a pile!”
+
+“Hehe.”
+
+Shely took a small break while her husband grabbed his rake with a grumble. The fight went on, fierce and vicious.. It was clear the big dragon was on the backfoot despite his size, at least from the way he screeched piteously. He was flying all over like a panicked finch with a hawk on its ass. The roars were mostly him. Full of bluster, that one. The smaller one was the one to watch out for. She was cunning and shrewd. Shely always thought cunning and shrewd could beat noisy every day, and here was the proof! Old White Death was giving a good accounting of himself though. Even she could tell his spells were much better than before. Now she wasn’t sure which one was which, while before his had been blotches of mana that looked like spilled milk. He was growing. Shame about the messy den though. Shely’s teenage children had learned the hard way that she wouldn’t tolerate no pigsties under her roof. You’d have thunk that the dragon would know better. Especially after last time.
+
+“They’re really going at it.”
+
+“I bet three iron bits on the small one.”
+
+“Tch! Did you marry a fool?”
+
+There wasn’t any doubt as to who the winner would be. They were just being nice because they didn’t want to kill each other, really, so the fight was taking a long time, but only a blind man would bet against the empress by now.
+
+“It’s two on one. Not even fair.”
+
+“There is no fairness when it comes to education,” her husband grumbled. “Old White Death was warned. Sometimes, when he flies overhead, it stinks of manure. It ain’t right smelling of old fish at thirty paces.”
+
+They both shook their heads in disapproval.
+
+“Looks like it’s ending soon.”
+
+The two of them stopped for the morning. Shely brought her veggies in, then she returned with two mugs of chilled tea. Her husband grabbed his with a grateful expression.
+
+“Oh, fruit of my eyes. You know how to please.”
+
+She leaned against him. He smelled of flowers, of earth, and a bit of fresh sweat. It was a familiar and comforting scent.
+
+“Look!”
+
+The battle was coming to a close. Slowly, the empress and the gold snatcher had pushed Old White Death closer to the sea until he was barely cresting the waves. The empress and ‘Arthur’ split for a second, the sovereign hitting her foe with something that pushed him down. He desperately tried to climb just as the second dragon appeared right on top of him. She dunked him into the ocean. The two of them disappeared from view. An instant later, the empress grabbed something thick and square from a bag. She threw it down with yet another spell.
+
+“What’s that thing she tossed? Couldn’t see it,” her husband said.
+
+White froth bubbled around a flailing mass of wings, tails, and clawed appendages.
+
+“It’s a large bar of soap.”
+
+“Damn. They’re washing him in public?”
+
+“Looks like it.”
+
+Her husband shook his head.
+
+“It’s a bad thing to humiliate a boy like that in front of the village. They have their pride.”
+
+“How many times has he been told?” she retorted.
+
+“You don’t know that. ‘Sides, it doesn’t matter that he’s wrong. It’s about leaving him some dignity.”
+
+“It didn’t work last time. Maybe this time he’ll remember. Some folks don’t get the message until it’s burnt onto their asses with an hot poker.”
+
+They bickered. It was an old argument between them, each armed with dozens of cases of nearby families that supported their opinions. Some kids had gotten right after a good correction, but others had soured like bad apples. The argument flared up until the gold snatcher and the empress flew towards the deserted den, their task done. Old White Death was nowhere to be seen. Shely would have shrunk back as well after such a thrashing.
+
+The Imperial pair torched the cave’s surroundings. The top of the mountain smoked like an old volcano. There went the carcass pile. And maybe a treasure or two.
+
+“At least he’ll smell better,” her husband said as a peace offering.
+
+She discarded the old argument in her mind. All their kids were adults by now. It was a bit late to discuss raising them.
+
+“Lunch?” she offered in turn.
+
+“I’m famished… like a dragon!”
+
+“You’d better wash your hands before you sit at my table,” she warned.

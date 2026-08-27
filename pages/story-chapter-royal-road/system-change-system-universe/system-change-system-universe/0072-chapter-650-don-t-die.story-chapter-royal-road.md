@@ -1,0 +1,149 @@
+---
+id: b39a83aa-d3d9-591f-b35c-374c822ae163
+page-type-slug: story-chapter-royal-road
+title: "Chapter 650: Don't Die"
+slug: 0072-chapter-650-don-t-die
+partOf: system-change-system-universe
+position: 72
+ownLength: 2086
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3420516/chapter-650-dont-die"
+royalRoadId: "3420516"
+---
+
+Chapter 650: Don't Die
+
+Without Jace to guide them fight-wise, and with only Nivara as a scout, Derek and the group followed Alex's directions and moved very slowly and cautiously to one of the outposts. In a little over a week, they were approaching the area with one of them close by. In fact, they could even make out the structure in the distance, sitting in front of a large hill.
+
+That night, Derek and the rest paused for one last break. He wanted to make sure that he and everyone else were ready just in case something bad happened. The fight against Nikolai had made him a bit more cautious. So, with that in mind, Derek opened his Time Prison and went inside to see everyone.
+
+"How is it coming along?" Derek asked Brandi—who was making do with the 'basement' of the Void Emporium that held all her crafting equipment. It wasn't technically a basement anymore since the entire room had been pulled out of the ground by Marrick, Tyron, and the other earth mages back in Cydaria.
+
+"Great!" Brandi looked up happily.
+
+"Really?" Derek asked. He'd left Brandi alone this whole time to let her focus and concentrate on the teleportation devices. He hadn't expected her to be so optimistic.
+
+"Yes, really!" she said with a smile. "I've learned that one of the best things about being disconnected from the system is that it makes studying runes a lot easier. I don't have to worry about them blowing up or anything."
+
+"Interesting," Derek said. "Does that mean you can bring a piece of equipment with runes on it inside, then remove the tampering runes while disconnected from the system?"
+
+"No," Brandi said with a chuckle. "I wish. It just means that I can get a lot of practice drawing and carving the runes, so that when I reconnect to the system, I'll know what I'm doing. The tampering runes should all have some residual mana in them, so they will activate no matter what... almost."
+
+"Almost?"
+
+"Yeah," Brandi said with a nod. "There is whatever you did to the teleportation plate with your void to disconnect the tampering runes."
+
+"Ah..." Derek muttered. "That's not easily repeatable. I think it's more likely to destroy the entire thing than just erase a rune or two."
+
+"That's what I thought," Brandi replied. "Still, I didn't think I would enjoy runes so much, but I like them almost as much as I like blacksmithing."
+
+"I'm glad you enjoy it," Derek said. "You're just about the only one in here who doesn't mind being cooped up like this."
+
+"I don't mind it," Brandi replied. "But it has been a long time since I was able to do any real crafting, so I am excited to be able to get out of here. I don't even know how long we've been inside this space. Mom says I haven't realized how much time it's been, but I have."
+
+"Well... hopefully we can get y'all out of here soon," Derek said. "And speaking of that, do you think you can get the plate to work again?"
+
+"With enough time... probably," Brandi said.
+
+"That's great!"
+
+"No..." Brandi shook her head. "I mean... a lot of time. Like... a lot, a lot."
+
+"Oh..."
+
+"And I wouldn't be able to do it in here, either. I would need to be outside and connected to the Origin System," Brandi explained.
+
+"Well..." Derek muttered as he rubbed his chin. "We're closing in on one of the outposts. You may get your chance to go outside and work on the teleporter there. Alex said it should be a lot easier than the onetime use ones."
+
+"I'm ready!" Brandi nodded.
+
+"Good," Derek replied. "Then the next time I see you, it should be to bring you out to help us get off this damn planet."
+
+"I can't wait!"
+
+"Me neither," Derek said with a chuckle as he turned around and walked back upstairs. Then he opened the door to the outside and jumped down. From the ground, he looked back up at the entrance of the shop, then down at the dirt and stone it was sitting on, then sighed. I wonder if I'm ever going to find a place to put this... it may be a permanent fixture in the Time Prison for a long, long time. Definitely can't have a place called Void Emporium outside of here, anyway.
+
+After visiting with Brandi, Derek walked over to a fire with a few people sitting around it. One of the striders they'd killed was roasting on a spit. "How are you all doing?" he asked as he sat down.
+
+"Ready to get out of this hellhole," Jace said. "My cooldown on my skill is over and I'm almost back to 100%. Can I come out yet?"
+
+"Soon," Derek replied. "But first, tell me how your recovery went in here."
+
+"It... was... terrible!" Jace spat. "Something that should take no longer than a week or two has taken like... I don't even know... like a month or two. I slept through a lot of it, but these last couple of weeks have been agony. And nobody will let me spar with them."
+
+"Because even at your current strength, you're still leagues stronger than anyone left in here," Stella spoke up. "And you don't know how to hold back, so if someone gets injured in here, we have to wait until the prison is opened again before we can use any skills to heal. So no... you don't get to spar. You get to sit around next to a fire and watch everyone else spar."
+
+Jace let out a huff, then looked at Derek. "See what I'm dealing with here?"
+
+"Yeah..." Derek replied. "It seems Stella knows what she is talking about, so it would be best to listen to her."
+
+"Whatever," Jace muttered. "I'm finished in here, anyway. I'll just hang back outside while I recover the rest of the way."
+
+"You promise you won't try to fight?" Derek asked.
+
+"I won't fight unless I need to," Jace replied. "Or until I'm fully healed. Whichever one comes first."
+
+"Good," Derek said. "You can come out once we're finished with this last break. I'll even leave the door open so the time stays the same in here as out there."
+
+"Good," Jace replied, then paused for a moment before saying, "Hey... Derek..."
+
+"Huh?" Derek looked at Jace with a little shock in his eyes. The man who was maybe one of the least serious people—unless he was fighting—that Derek had ever met was looking at him with a hesitant but serious look on his face. "What is it? What's wrong?"
+
+"Nothing is wrong... not really," Jace said.
+
+"Then what is it?" Derek asked. Even Stella leaned forward to listen better.
+
+"This place... I like it," Jace said.
+
+"You what?" Derek was extremely confused. He thought everyone had the same feelings as he did about the abandoned battlefield planet they were on. "You like this place? I thought it was a hellhole."
+
+"This place..." Jace motioned around him. "This space of yours with the awful time dilation that makes it hard as hell for me to recover is a hellhole. The planet... it's not bad."
+
+"Okay..." Derek said. "If you say so. Why does it matter?"
+
+"Well, I've been doing a lot of thinking while I've been cooped up in this space," Jace explained. "From the looks of things, this planet is great for around levels 250 to 350 or so. At least up until level 300."
+
+"Yeah?" Derek said with a nod. "That sounds about right."
+
+"So... I think I'm going to stay," Jace finally said.
+
+"You're going to stay? Here?"
+
+"Yes." Jace nodded. "It's almost too perfect for me. We've barely explored any of the planet, and system users are few and far between—not to mention the fact that it's not too hard for me to avoid them. I can jump from one battle to another. I need to focus on my affinity with Battlelust, and I have a feeling it won't grow as quickly if I'm with other people. And on top of that, I can't go to that Origin City anyway, so why continue on when I'm just going to be left at the gate with nowhere to go?"
+
+"That... I guess you're right," Derek said. He couldn't find any flaws in Jace's logic. Dave had explicitly told him not to bring Jace inside the city, so there really wasn't a great reason for him to follow everyone all the way there. "I thought that we could maybe get Alex to help you out. You know, find a good place for someone of your skills. He's pretty knowledgeable about all that. Are you sure you don't want to try that?"
+
+"I am," Jace said. "The last thing I want to do is rely on a stranger. I'm not cut out for a lot of group combat, either. I really could have hurt Edgar back then if I hadn't been getting better at controlling myself in that state. And I'm still not good at it. On top of all that, I've already got a good understanding of this place."
+
+"I see," Derek said. "I can't say I won't miss you. We're actually the only people left from our time on Earth. At least, I seriously doubt that there is anyone else in the Origin System that originated from there. You say it a lot, and I don't, but I don't really have best friends—if I did, I'd have to say it's Silvi—but I do count you among the few I consider friends." He smiled. "So... what I'm saying is... don't fucking die."
+
+"Not a chance that will happen, best friend," Jace chuckled. "But I am going to need some help from you. I thought I'd go ahead and ask while we have all this downtime. I've been thinking about it for a while."
+
+"What is it?" Derek asked. "You've helped me a lot, and even brought me all my things from my cabin on Earth before they got destroyed. If I can help, then you know I'll do it."
+
+"Well... once you get settled and dump all these weaklings out of your space... and can use your traveling skill again..." Jace started. "I may need a taxi from here after a year or two. I plan on avoiding other system users and focusing on monsters for the time being, so I don't think I'll be able to find a teleporter. I guess there is a chance that you'll get the outpost teleporter working and I won't have to worry about it. But I think I'd rather schedule a pick that I may not need than need one and not have it."
+
+"Of course," Derek replied. "I'll have to spend some time figuring out how it's going to work in this new system and really make sure that it doesn't draw any unwanted attention, but I'll pop back here in a year at worst, if everything goes good, though... I may just drop in on you from time to time."
+
+"I need an ability like that," Jace said with a laugh. "So overpowered and so convenient."
+
+"It really is," Derek replied. After that, he looked around and sighed. "You feeling even better?"
+
+"Actually? I am," Jace said. "Not quite 100%, but not far off. This last little should heal in a day or less. I'm ready to go if you are."
+
+"Let's go," Derek replied. "I'm still going to leave the Time Prison open until we leave for the outpost so it doesn't feel so long." After that, Derek and Jace both left the Time Prison and walked outside. Once out, they traded one fire for another, and Derek sat down beside Edgar.
+
+Jace, on the other hand, stood around with his eyes closed. Slowly, a wicked smile appeared on his face. When he opened his eyes again, he snorted and shook his head.
+
+"What is it?" Derek asked.
+
+"I think it's a good idea for Edgar, Looney, and the elf girl to go inside your space. The sooner, the better... probably," Jace said, which got curious glances from everyone. "Maybe even Marrick... if I'm honest. At least Amelia is fast."
+
+"What are you talking about?" Derek asked.
+
+"Remember the few 'sure death' spots that my Battle Instincts kept us away from?" Jace asked.
+
+"Yes?" Derek replied, not liking where this was headed.
+
+"You just brought us right to one."

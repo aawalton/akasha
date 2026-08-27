@@ -1,0 +1,159 @@
+---
+id: d91536bc-3e00-546a-b09b-3d5cbb497292
+page-type-slug: story-chapter-royal-road
+title: "Chapter 389 : Consented Abduction"
+slug: 0091-chapter-389-consented-abduction
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 91
+ownLength: 2216
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3517699/chapter-389-consented-abduction"
+royalRoadId: "3517699"
+---
+
+I briefly spoke to Yuzz about the logistics. Thankfully, while she didn't understand the fundamentals of teleportation, she didn't have burning opposition to it, like a certain crab. The more I spoke about our island, the more enamored she seemed by the idea and practically wanted to leave right then and there.
+
+"Are there any other goblins I should bring with us?"
+
+Yuzz took a moment to ponder the question I had dropped on her. In her opinion, there weren't too many goblins actually worth the effort, as they barely even qualified for the crafting profession. Evidently, the goblins didn't really believe in apprentices, or maybe this was a Yuzz thing.
+
+I offhandedly mentioned Glooz to test the waters and was met with, "Oh, he's a pretty good chef," from Yuzz. I couldn't believe my ears and sighed.
+
+Let's just hope Vee doesn't throw him into the ocean.
+
+When we finished our discussion, I shifted back to my goblin disguise, much to the amusement of Yuzz.
+
+"You've gotten a lot better at changing your body," she pointed out.
+
+"Well, I have evolved a few times since we last met."
+
+Yuzz's eyes trembled. "You have?"
+
+I nodded and broke the ice on the whole evolution madness thing. While she didn't have as thorough an understanding as the more civilized races, it was hard not to notice that those who evolved became different. Friends or family, it didn't matter, and after evolving, their personality began to twist.
+
+"There are a lot of crafters who have noticed this," Yuzz sighed. "Especially since I'm the oldest crafter, they always bring it up to me."
+
+"Well, I have good news on that front. I'm going to become a [Dungeon Master], and I can keep back the madness, if you ever happen to evolve."
+
+"What's that?"
+
+I chuckled and gave her a brief rundown. Which she summed up as "Oh, it's an even bigger [Chieftain]." I couldn't really refute her claim, and it certainly tied things up into a neat little bow, so I left it.
+
+"Anyway, the point is, as long as I remain at the top, I should be able to keep everyone under control. I also have two friends in a similar position to me; we were all born with a rare trait that stops the madness."
+
+I had wanted to somewhat explain [Experiment] to her, but found myself unable to. I couldn't even say that the three of us had a special Emblem, which was why I adapted the story into a rare trait. Despite my little white lie, Yuzz seemed to buy it and seemed relieved by it.
+
+It's weird, though. I had no issue explaining it to the elves. Is this a monster thing, or is it because the elves know enough about the gods that I wasn't revealing secrets of the world to them?
+
+My questions would have to wait, though, as we had a plan to execute and I teleported us back to my temporary home. There was quite a gathering, and as we returned, gasps and cries of shock erupted from the crowd.
+
+"Sorry, sorry. I just wanted to talk to this crafter about my request," I said to the crowd.
+
+Most of them bought that, but there was one exception: Garz. I had expected him to potentially react negatively to my actions, especially since, according to Yuzz, he had her under a pseudo-house arrest. Yet I didn't think he would be waiting for my return, didn't he have more important things to do?
+
+"You say you don't want [Chieftain] or mess with my power. But then you take my crafter away? What are you scheming?" Garz demanded.
+
+Even evolving twice could only do so much for fixing his speech. A pity.
+
+"I just wanted Yuzz to craft something for me. Is that an issue?" I asked and waved my hand.
+
+Just my casual hand motions were enough to cause Garz's bodyguards to recoil, as that was how I had demonstrated my magic earlier, but the Greater Hobgoblin stood firm. He glared at me, as if trying to dig the answers out of me with his gaze.
+
+When he failed to extract any weakness from me, he turned to Yuzz and, by chance, happened to catch sight of the bag I had just given her.
+
+"Thief!" Garz shouted, pointing straight at her.
+
+Before Yuzz said anything, I quickly interjected. "I gave her this bag to complete my task, or are you saying that I stole my own property?"
+
+The goblins watching us were dead silent. Garz's guards were shifting nervously as they waited for his command. My [Personal Rift] was already active, ready to intervene at a moment's notice.
+
+Garz seemed to be genuinely struggling with himself, as if he needed to exert his authority. While the goblins seemed to be in a bit of a panic, I found the situation a little fascinating, as this was my first time really witnessing the madness. Would Garz win his mental battle, or would he succumb? I couldn't take my eyes off.
+
+After a tense few moments, Garz abruptly turned and walked away. His guards seemed genuinely surprised as they sighed in relief, before scurrying after him. The other goblins were just as surprised, and I could see newfound reverence glowing in their eyes.
+
+It seems Garz won this round. I wonder what he's using to anchor his sanity?
+
+Part of me really wanted to poke and prod, to see what was making him tick, but I restrained myself. I'd grown a bit too used to playing the mad scientist, and this was someone I knew. Even if he hated me now, at the time, I had sort of thought he was my friend.
+
+"Gather your things, and bring the goblin crafters that you've selected. We're leaving immediately," I said to Yuzz through a timely use of [Telepathy].
+
+Yuzz flinched, nearly jumping out of her skin, but when she turned to me and I nodded, she relaxed. I gave her a crash course on [Telepathy] as she returned home, mentioning that it was one of the many traits I had picked up during my journey. At the same time, I was observing her surroundings, making sure that nothing bad happened to her.
+
+Garz didn't try anything, much to my surprise, and Yuzz threw all of her belongings into her new bag. After that, she began secretly talking to a few of the goblins she had picked out with some potential. Despite wanting to leave, Yuzz must have cared about the remaining goblins, as she made sure to leave a few behind, as if they had no crafters at all; their warriors would suffer the consequences.
+
+While all this was happening, I was entertaining Glooz. The goblin had refused to leave my side since I came back, perhaps fearing that the golden opportunity for his profession would suddenly disappear. During this, I got to witness his cooking firsthand as he ordered goblins around to fetch ingredients he prepared in various ways before tossing them into his cauldron.
+
+I'm going to have to bring that cauldron with us, aren't I?
+
+I actually thought I should blow it up, or at least give it a thorough cleaning. It would be in his own best interest to never let Vee see, smell, or even hear about that foul brew.
+
+Maybe I can get Sylbera to forge him a better pot, and he will abandon this monstrosity as a result.
+
+I didn't have to wait too long for Yuzz to return, accompanied by a handful of confused yet eager-looking goblins. I wasn't exactly sure what she had told them, other than describing it as a "crafter's dream," but it had certainly won them over.
+
+Glooz must have put two and two together as he looked at the gathered group, then back at me. "Are we going somewhere?"
+
+"Would you like to come back to my island? We have ingred—"
+
+"Yes!" Glooz interrupted. I hadn't even told him the benefits, and he was already swearing his loyalty to me.
+
+I hope this doesn't come back to bite me. Then again, I could probably just dump him on the other personas to handle.
+
+With that, we had our group ready and waiting. I gathered everyone a bit closer, then began my first-ever mass-teleportation. While I probably could have handled taking them all directly to the island, I instead chose to teleport everyone to the top of the mountain. From there, I would fetch Vee, and she could set up a portal network, and we could test its validity.
+
+As my [Sub-Cores] and I were handling the coordinate calculations, word must have reached Garz, as he and his men were coming right for us. But it was too late, and as they neared, I had finished the last calculation and, with a smile and a wave, teleported myself and all the goblins away.
+
+As we all emerged on the top of the mountain, the goblins let out various cries of shock and surprise. Yuzz quickly calmed them down, and while she was handling the leadership, I was already preparing to fetch Vee.
+
+"Okay, everyone, stay here while I go fetch my partner," I instructed, and then turned to Glooz. "Keep everyone fed and happy while I'm away."
+
+"Yes, boss!" Glooz said, saluting, his ladle hitting his forehead.
+
+I nodded and, wanting to handle things quickly, teleported back to the island. My return didn't go unnoticed, and soon I had the energetic spider asking all about my trip.
+
+"[Landmarks] definitely works, which is great. Also, I found a good spot for your first spider portal," I informed her.
+
+"The Web," Vee replied.
+
+"Sorry?"
+
+"I'm calling it The Web. I think it's a great name," she explained.
+
+"As long as it's not 'Create: Portal,' you can call it whatever you want," I chuckled.
+
+I quickly brought her up to speed, and Vee seemed excited to have some more helping hands on the island. Yes, there were my various personas, but even with the power of slime, some things were just better handled by having multiple people on board, according to her.
+
+I bet she just wants more subordinates under her.
+
+I didn't refute her, and once she confirmed she was ready, I began preparing to teleport her back to the mountain with me. Our return was met with more cries, especially when there was a somewhat large spider sitting atop my head.
+
+"This is Vee, she's mostly in charge of the island and will be constructing a gateway to your new home!" I informed them.
+
+The goblins were understandably confused. While intelligent monsters were well known, Vee was literally a spider, and there seemed to be an inherent disconnect that they were struggling with. Once Vee started talking, though, they quickly realized their error and fell into line.
+
+I was expecting the portal to take some time to set up, but it seemed Vee had been well prepared for this stage of our operation. From her own storage space, she pulled out prewoven threads and quickly began arranging them into a secure construction.
+
+Initially, I had been concerned about the structure succumbing to wear and tear or vandalism, but seeing everything made out of [Rift Thread], I now knew that wasn't going to be an issue. In fact, any creature that tried to physically attack this structure would be in for a rude awakening.
+
+Once the portal was ready, Vee began injecting it with prepared coordinates to a construct she must have prepared on the island. Once that was ready, all that was needed was for her to activate it.
+
+"I'm not going to leave the portals active always, for obvious safety reasons," Vee explained. "We will have to figure out a system for activating it away from the island when one of us isn't around. Or we don't worry about that and make it a requirement that one of us needs to be here."
+
+I shrugged. I didn't really care about anything other than the safety concerns, as I could teleport at will. I didn't expect the goblins, or anyone else incapable of teleporting, would want to go about exploring on their own, but perhaps I was wrong.
+
+Well, we will figure that out when we get to it.
+
+With a dramatic flourish, Vee activated the portal, and the empty space between the web tore a hole through space as the scenery changed. The goblins were awed by the spectacle, and seeing a floating gateway to another location was a mind-blowing experience for them.
+
+"Great, the first node of The Web is fully operational!" Vee said excitedly.
+
+The goblins actually started clapping, which was a big boost to Vee's ego. I let her bask in the moment as it was truly quite an accomplishment.
+
+"So, who's first?" Vee asked.
+
+The goblins' clapping stopped as they nervously looked at their neighbor. Seeing their reluctance, I took a step forward, only for Vee to hold out a leg to halt me.
+
+"Sorry, Syl, The Web has a weight limit, and you're over capacity," she said. Her tone was trying to be serious, but I had been around her long enough to catch the underlying teasing.
+
+You know what, maybe she should experience the wonders of gloop.

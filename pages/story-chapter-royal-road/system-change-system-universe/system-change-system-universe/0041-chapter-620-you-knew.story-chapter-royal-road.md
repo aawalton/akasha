@@ -1,0 +1,177 @@
+---
+id: 4d643eed-f226-57e9-ae91-30f77e202c83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 620: You Knew?"
+slug: 0041-chapter-620-you-knew
+partOf: system-change-system-universe
+position: 41
+ownLength: 2605
+unit: words
+ownProgress: 2605
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2940654/chapter-620-you-knew"
+royalRoadId: "2940654"
+markedReadAt: "2026-06-29T19:58:03.309Z"
+---
+
+Chapter 620: You Knew?
+
+Derek nodded at Stella, and she nodded back. Malorie looked especially happy that Stella would be joining them. It was good that she was going to have a friend going with her.
+
+With that thought, Derek moved on to the next two people who had stepped forward. “Bones, Ogre, are you sure?” he asked the skinny butler and giant man. “You are completely free. You don’t have to worry about the Assassin’s Guild anymore or anything. The two of you could live however you wish if you stay.”
+
+“Master Hunt,” Bones took another step forward and bowed deeply. Derek almost chided the man for calling him ‘master,’ but he decided against it since there were so many people around and Bones was only speaking as a proper butler. “You are our savior,” he said. “You have done for us more than we could ever repay, so if ever at all possible, Ogre and I would follow you wherever you go. Of course, if you would prefer us to stay, we will accept it.”
+
+“If the two of you want to join us, then I have no problem with it,” Derek said. “But don’t do it just out of a sense of obligation.”
+
+“Of course, Master Hunt,” Bones replied. “I have very much enjoyed my time as your butler, and I do not believe that Ogre would want to separate from Silvi.” After hearing Bones, Ogre shook his head fiercely. The man was right. The last thing the big man wanted to do was leave Silvi’s cooking.
+
+“Ogre is good taste tester,” Silvi said.
+
+“If that’s the case,” Derek said, “then it looks like the two of you will be joining us.” Once Bones and Ogre were content, Derek turned to another person who seemed to be on the fence as much, if not more, than Thomas was. Clare was hovering between Walter, who had taken a step back, and those who had stepped forward. “Clare… Walter… there is room for the two of you if you wish.”
+
+“I could not,” Walter said. “While I am happy to enjoy my current freedom that comes with no longer being soul-bound or the patriarch of the family, I do not wish to leave them entirely.” As he said that, Clare seemed to come to a decision and backed up beside Walter. “That said, there are few people that I would trust to look after Clare, so if she wants to journey with you, I will support that decision.”
+
+“I…” she muttered. “I would like to go, but I can’t leave Lucas and Zachary. They are my friends and teammates. I also don’t want to leave my family…” She looked at Walter, and the man smiled. “I’m sorry.”
+
+“There is nothing to be sorry about,” Derek said. “I trust everyone here to make their own decisions and respect them. I know that Avery and Walter will look after you. You just do your best.”
+
+“Yes!” Clare nodded with a happy smile but teary eyes.
+
+Derek then saw another figure against the wall and chuckled. “Shae, are you sure you don’t want to go?” Shae was one of the first people in Cydaria that Derek considered his friend, so he certainly had to ask, even if he already knew the answer.
+
+“I’m afraid I would be dead long before we set off if I chose to go with you,” the spearman said with a chuckle. “Ouch!” he half-shouted when Judy punched him in the arm and glared daggers at him. “There is no way I could leave my beloved wife alone.”
+
+“Of course not.” Derek nodded to his friend, then turned his attention to another surprise. “You really want to risk going?”
+
+“I wouldn’t miss it!” Roman happily answered. “I have likely experimented with the majority of ingredients that can be obtained here. Sure, with the possible access to the other continent, there may be some ingredients that I haven’t yet tried, but that pales in comparison to what I may be able to find wherever it is that you are going. Plus, Freia is more than capable of taking over the shop from here on out.”
+
+“I am glad to have you with me,” Derek replied, then moved on. “Tyron, Osian, Ryven…”
+
+“I have half a mind to go with you,” Osian looked at Derek and said. “I cannot, however, leave my kingdom at this time. I also cannot leave my family.” As Osian spoke, Ryven nodded along with everything he was saying.
+
+“And I enjoy my current life as it is,” the Walking Forge, Tyron Blacksteel, said. “And with the current borders as they are, I have more potential clients than ever before.”
+
+“I, uh… I have an objection!” a voice belonging to Braxton suddenly sounded out.
+
+“An objection?” Derek looked at the dwarven assassin with a frown. “What objection?”
+
+“I think it may be best if Roman stayed. He is an important alchemist to the Cydarian Kingdom, is he not?”
+
+“Brother?” Darius also looked at his brother with a creased brow.
+
+Roman turned around to look at the dwarves. After a moment, he said, “Freia knows the recipe and has enough ingredients to last for some time. She has been very studious. You may even find it better.”
+
+“Oh… then I have no objection,” Braxton replied as his eyes landed on Freia.
+
+Still, Darius kept looking back and forth between his brother, the halfling alchemist, and the alchemist’s assistant. It took a few more moments before something seemed to click. Finally, with a look of pure astonishment, he shouted, “You said the man was a giant! Not a halfling! The brewmaster is an alchemist? We are going to have a long talk when we get back to Stonehelm.”
+
+“Whoops,” Braxton said with a shrug and a smile.
+
+Derek rolled his eyes, then shook his head, then turned to the last surprise that he’d seen. “Rudy, are you sure you want to stay here?”
+
+“Yes,” Rudy said. “I’m still at a lower level, but my store here is really starting to take off. I have a lot of clients. Also, I do not know what will happen to some of the contracts that I make that require me as part of the agreement. If I go with you, will those contracts dissolve or will they stay intact? Had I known before, I could have changed things around. I do know that contracts like those usually expire if one of the two parties or creators dies unless otherwise specified. Also…” Rudy looked around meekly. “I may have met somebody while hiding during the invasion.”
+
+“Is that so?” Derek asked with a smile. “I am happy for you.”
+
+“Uh…” Rudy looked down nervously.
+
+“Yes?”
+
+“Can… can we talk later, too?” he asked.
+
+“Sure…” Derek said. Finally, he scanned the crowd again. It had almost gone as he thought it would, but there were some surprises. When Derek was planning in his head, he expected Malorie, Brandi, Marrick, Stella, Avery, Bones, Ogre, Rudy, and Thomas. Instead, Avery had declined, and Edgar had chosen to go. Also, it hadn’t even crossed his mind that Roman would want to go. Still, he was happy with the outcome. He had expected to have a spot left, and in the end, he did.
+
+“Alright, everybody… everyone other than those going with me and those I need to speak privately with can leave now. Silvi has prepared a massive lunch for everyone. It will be in Natalie’s courtyard. We will join you all shortly,” Derek said.
+
+After that, most of the guests cleared out, and Derek was left with those who had chosen to go and a few others. He hopped off the counter, then made his way to Avery. Stella fell in beside him, and they went to the man together.
+
+“I’m surprised you chose not to go,” Derek said.
+
+“I wouldn’t want to leave my wards until I was certain that they could handle themselves,” Avery replied. “Also, I believe I may be close to my own ascension. I have one of the requirements, and I believe I will be able to reach the other with enough time. If that happens, perhaps I will ascend to where Alanah did before you are able to find a way to get to her.”
+
+“Ah… I see,” Derek replied.
+
+“If I am unable to, though…” Avery continued. “If you do get strong enough to go get her, then even come all the way back here… and of course… if you are capable of taking people from here by then… then I may choose to go back with you if that is okay.”
+
+“I’ll definitely see what I can do,” Derek replied. “But you know that if you stay here and end up not meeting that requirement for some time, you will be left behind by everyone else.”
+
+“Maybe,” Avery said with a shrug. “Will I be left behind, or will I have a bunch of friends who know the ins and outs of where you are going by that time, who will be able to help make things much smoother for me?”
+
+“I guess that is the bright side,” Derek said with a chuckle.
+
+“I’m going to miss you… brother…” Stella finally said, and then the two embraced each other tightly.
+
+“And I am going to miss you as well… sister…” Avery said. “But if things go well, perhaps we will fight side by side one day on another planet.”
+
+“I’ll let the two of you talk,” Derek said, then walked away. That was the first time that Derek had heard the two of them refer to each other as such. They were close like siblings, and Alanah really had raised both of them—though Avery was a good deal older than Stella, so he was more like her big brother.
+
+First, Derek thought about going to speak to Vanessa, as he did have an extra spot left, and since Edgar was going, it wouldn’t be a bad idea to personally invite her if she was actually just on the fence. She also hadn’t left with everyone else. However, when he turned to look at her, he saw Edgar and her having a very animated conversation. He didn’t think that the Shadow Witch looked mad or anything, but he couldn’t be sure.
+
+Instead, he walked over to Rudy. “So, what is it that you wanted to talk about?”
+
+“Umm…” Rudy muttered nervously. “Is… may I continue to work in my shop?”
+
+“Is that it?” Derek asked with a chuckle.
+
+“Well… yes…” Rudy said. “It is all yours, so I wasn’t sure…”
+
+“You don’t have to worry about that. I’ll speak with Natalie and make sure you are taken care of before we leave,” Derek replied.
+
+“Thank you!” Rudy beamed at Derek with a smile.
+
+“So… tell me about this… someone that you met,” Derek said.
+
+“She… she is a maid at Ms. Savannah’s residence,” Rudy said. “I met her while we were all there during the invasion, and we just sort of… connected. I think… I think I really like her.”
+
+“That is great to hear!” Derek said. “I am happy for you.”
+
+“Thank you.”
+
+“Just don’t go getting caught up in any noble schemes or anything after I’m gone,” Derek said with a laugh.
+
+“I wouldn’t dare do that… again…” Rudy said.
+
+“Good!” Derek replied. “Could you do me a favor?”
+
+“Me? Do you a favor? I don’t know what I could possibly do for you,” Rudy said.
+
+“I just want you to keep an eye on Rayna, Jacks, and the twins, and make sure they don’t get scammed or anything. I’m sure they will use you for any contracts they may need in the future, but if they don’t, at least try to review any that they have,” Derek said. “Though I don’t think there will be any problems for a long while after all that’s happened.” He was, of course, speaking of how Edwin had removed most, if not all, of the morally corrupt nobles in Cydaria.
+
+“Of course,” Rudy said. “I would have done that, anyway.”
+
+“Good man,” Derek replied, then shook his hand. He then turned around to go speak with someone he’d been eyeing for some time, but instead, as soon as he turned, he came face to face with a man who looked like a slimy used car salesman. “Geoffrey… what can I do for you? Did you decide you wanted to go with us?”
+
+“Oh, gods, no!” Geoffrey shook his head vehemently. “I, uh… I wanted to inquire… since you are leaving… about the profits…”
+
+“Rayna and Jacks,” Derek said. “Give it to them.”
+
+“Ah… I will do that,” Geoffrey said, then slightly bowed and walked away.
+
+Derek smirked as the man disappeared through the door. He knew that Geoffrey was probably hoping that Derek would say he could keep it all, but Derek was more concerned about his friends. After a minute, the smile disappeared from his face, and he walked to the corner of the room. There was nothing there, but still, he said, “What do you want? Klaus?”
+
+Suddenly, the Adventurer’s Guild Leader materialized and was standing in front of Derek. “You knew?”
+
+“I’ve known you were here since the beginning,” Derek said.
+
+“In that case… take me with you,” Klaus said.
+
+“No,” Derek replied. He hadn’t interacted much with the man, but he wasn’t his biggest fan.
+
+“You don’t have to worry about my safety,” Klaus said. “Just take me, and as soon as we arrive, I’ll go my own way. I’ve… I’ve studied the pinky you left with me, and I feel like I’m on the verge of a breakthrough, but I don’t think I’ll ever be able to figure it out here. I need… I need to become stronger so I can dive deeper into my Molecular Reconstruction. You won’t even know I’m there.”
+
+“You know… you are pretty useless to me,” Derek said. “You can’t help with any fighting, and you’re not a friend. I really don’t have any reason to take you.”
+
+“I’ll owe you,” Klaus said. “Whether I will be able to repay you is uncertain, but there is a chance that I will be able to. Derek… I am old. I have been here far longer than anyone could imagine. I’ve traveled the world… I’ve done everything that I can here. I need something new. I beg you…”
+
+Derek blinked. When he sensed the man in the meeting, he thought he would ask to go. Based on what little he knew of the man, Derek thought it made sense. However, he didn’t think he would resort to begging. “We’ll see…” Derek said. “Show up on the day that I’m leaving, and I’ll give you an answer then.”
+
+“That is all I can ask for,” Klaus said, then his body fell away into molecules, and he was gone.
+
+“May… may I show up on the day you leave? On the chance you bring me along?” A sultry feminine voice sounded from behind him, and Derek sighed.
+
+“Sure… we’ll figure it out then,” Derek said.
+
+“Thank you!” the Queen said happily. Derek nodded and moved past her as he heard her mutter, “I have to go pick out a new queen.”
+
+Derek ignored her as he thought, Since Edgar is going, that means Blitz has to go, too. I’m going to have to take care of that sooner, rather than later since I’m not going to have to worry about stuffing a wyvern in my Time Prison on the day of. He took a step, and kept walking.

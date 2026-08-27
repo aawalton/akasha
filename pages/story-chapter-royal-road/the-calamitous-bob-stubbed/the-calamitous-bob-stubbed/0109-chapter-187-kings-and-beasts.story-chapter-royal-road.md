@@ -1,0 +1,389 @@
+---
+id: da504cf3-9b03-53cb-827f-3bfa70fd585e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 187: Kings and Beasts"
+slug: 0109-chapter-187-kings-and-beasts
+partOf: the-calamitous-bob-stubbed
+position: 109
+ownLength: 5254
+unit: words
+ownProgress: 5254
+publishedAt: 2024-12-08
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1946463/chapter-187-kings-and-beasts"
+royalRoadId: "1946463"
+markedReadAt: "2026-06-29T21:18:31.664Z"
+---
+
+Sounds of battle echoed throughout the night but Viv, and most Harrakans, slept through it comfortably. She’d set up a portal the night before so they had a new shipment of naphtha as well as fresh food, but she had to close it as people complained about the stench. The beastling lands might smell rank but the Glastian wall had the kind of odor that dove down the nose and left a film of lingering disgust at the back of the tongue. The Harrakan camp was also left suspiciously alone by night attacks. Once morning came, she left her tent to find Zero-Five polishing a new axe by the entrance.
+
+“How was the hunt?” she asked.
+
+“Boring,” the Hadal hissed under his scarf.
+
+His bald scalp almost glittered in the dawn light. Honestly it was a bit like a lightbulb, though she’d never say it to his face. Because then she’d have to explain what a lightbulb was.
+
+“I want to practice the ‘kill anything’ skill. Find me an aberrant. Two legs.”
+
+Viv raised her eyebrows. Zero-Five fidgeted a bit under her glare.
+
+“Please?”
+
+“Alright, if I find one roaming alone, I’ll let one of the Hadals know.”
+
+Satisfied, the axeman returned to cleaning his weapon while Viv hunted for some food. She refused to have a personal chef because it was a waste of camp resources. There were no officer messes here, but her people let her jump the line for porridge which was nice, and she made her own kava to drink. Sidjin joined her briefly, but then he was off, flying into the distance to join the mage flight along with Frosthawk’s students.
+
+“We received reports about an imminent attack on the wall,” Abenezigel said as he joined her, watching the dot that was her paramour fly into the distance.
+
+“I wasn’t told?”
+
+“We deemed your rest more important, Your Majesty. There is a large force of fast beastlings and their corrupted brethren heading towards the easternmost part of the fortifications.”
+
+That was to the far right of the formation, past the mercenaries. Also one of the most undefended parts of the wall because it was very steep there, as the fortifications merged with mountains. Normally, the defenders would have time to call for reinforcements but there were no longer any. All the available troops were out here.
+
+“Did the knights leave as well?”
+
+“Just now, yes.”
+
+“It’s… clever. Even if the assault fails, drawing out our mages and knights tires them.”
+
+The redeemed lich nodded.
+
+“There is a dark intelligence at work. Enttiku feels it. They… well, she, as she appears to me. She whispers of something that didn’t die well enough. It clings to existence like a plague. Something is whispering in the twisted minds of the blasphemous beastlings. Something that touched, and that touches them. You must find it. You must kill it.”
+
+“That’s the plan.”
+
+“It will be cunning. It will lay traps.”
+
+“I am not underestimating beastlings and I will do so even less now that they have aberrants.”
+
+Abe joined his hands in prayer.
+
+“I will stay near the vanguard. Perhaps my old eyes shall pick signs of what is to come. If only Solfis could be here…”
+
+“Logistically undoable,” Viv said.
+
+It was not absolutely correct, she could technically have him around, but it was just inefficient. He would have to be manually charged since the mana here was low, with a charging array placed near the wall where she would have to portal to. He was also wasted on beastlings which were numerous but otherwise very weak. Finally…
+
+“And he’s on punishment detail.”
+
+“They are still cleaning the city?”
+
+“Yes,” Viv said.
+
+“You could have stopped them,” the old man said, not as a test, but as a kind challenge.
+
+Viv sighed. He didn’t get it. Very few people understood how the golem mind was structured, and what they were still missing.
+
+“I am not punishing them for attacking the city. I understand why they did it. Golems can feel emotions, but they lack the human mechanisms of grief and coping. Solfis was hurting bad and the only way for him to stop suffering was to punish those who had caused said suffering. The same was true for his children. They share some of his pain though they don’t know it. That’s why I let them demolish Frostway. Because I didn’t want him to suffer again without any outlet, and his children by extension. That was my decision, and I don’t regret it. I’m punishing him because he used a dodgy logical loophole to ignore my order to stay put. He knew what I wanted and he still came out of curiosity, and because he saw what I was trying to hide, he went mad with rage. His decision led to the necessity of sacrificing either the town or his sanity.”
+
+Viv tilted her head. She wasn’t being fully honest.
+
+“Also those people, that palace, and the statue were absolute eyesores and I admit that seeing them obliterated brought me no end of pleasure. Not the point though. Solfis is being punished. He knows it. Everyone knows it. No one is above the law.”
+
+“An interesting perspective. I do hope it will not cause more deaths, however.”
+
+“If there is a real need for him to be here, I will reconsider the sentence. In the meantime, he doesn’t get a free pass for being a dick.”
+
+“Then I believe I would like to address the next part of our agenda.”
+
+People around were already folding tents, stowing them on the carts. The time to depart was approaching.
+
+“You’re going to talk to the Golden Order?” Viv said.
+
+“Yes indeed, I do believe they will accept to join ranks with us. That does, however, leave you the task of convincing the Enorians.”
+
+He gave her a sympathetic look.
+
+Viv knew that the Enorians were ill-equipped to face the current campaign. Honestly, she gave them absolutely no chances of surviving now that she knew they would likely be targeted first. They didn’t even have a proper line.
+
+Those were loyalist exiles, so they would mindlessly hate and refuse to cooperate with the  forces of King Sangor. No amount of money or coercion would change that. The issue was that she was a close second.
+
+Who had poured molten gold down the throat of the third prince? Who had let intruders into a fortress that killed the first prince? Who had slain their regent, arguably during negotiations? Yeaaaaah they were probably not her biggest fans. She still had to try. Letting an entire army get wiped out was not great for either morale or for her flank.
+
+Now, what sort of impression should she give? Actually, it was probably best to go alone. She wasn’t giving an order with the One Hundred at her back. She was making a… suggestion. From one equal among the Alliance to the other. There were no ranks, in theory, among the allied forces. Nobody believed it but it was good to pretend.
+
+“Well, nothing to it.”
+
+She stayed long enough to make sure the army was ready to march without issues. Nobody talked when the Hadals mysteriously appeared on top of the supply chariots for a well-deserved snooze. Viv expected everyone would soon come across piles of their victims. Anything for a good sleep, honestly.
+
+Right, the loyalists.
+
+Viv made herself as non-threatening as possible by flying slowly towards the Enorian formation in full view of their people. One of the mercenaries, an archer, watched her approach with furious eyes. He nocked an arrow but a glare from her dissuaded him. She didn’t even have to release her aura.
+
+The slow approach gave her a good view of the camp, if one could call it that.
+
+Viv had always imagined medieval armies as groups of colorful pavilions bearing many standards, but that was the movie view. Tents were quite expensive when one had to weave it by hand, or at least by loom. Viv knew. She’d signed the fucking requisition order. As such, only the rich could afford nice big tents and even the basic stuff cost a pretty talent. As such, the mercenaries just slept on the ground with basic covers, using their bags as pillows. Cooking pots were a haphazard affair spread around between bands while sergeants acted as enforcers, distributing orders and the occasional punch. It wasn’t chaos but it was certainly not as clean as the other two armies. They were not even ready to depart by now.
+
+More tellingly, there were the bodies, buried in shallow graves by the side along with a small altar to Enttiku. Some of the soldiers’ clothes showed dark splotches of congealed blood, the marks of wounds that they’d managed to heal during the night. It wouldn’t last.
+
+Viv landed at a small distance then settled to wait. She expected the mercenary leader to make her stew a bit, and he did, but only for a minute. It was a good sign.
+
+The Blue Duke rode down on his horse. He stopped at a short distance and didn’t dismount, another power play. It was no less than Viv expected and yet her soul rebelled at the disrespect. She breathed in, breathed out.
+
+This wasn’t about her. It was about saving people, her people as well since they would be next in line for the unenviable position of flank defender.
+
+And then, the Blue Duke actually dismounted. Against all expectations.
+
+The move took Viv off guard. The Blue Duke was a short, swarthy man with a thick gray beard. Every aspect of him was impeccable, though the dulled metal of his armor had lost some of its luster.
+
+“And what brings you here… Black Witch?” he asked.
+
+His loud call carried over to his gathered men, standing and paying attention as they were. The ‘title’ reminded her of her oldest Enorian nickname which also started with Black but ended with Whore. It was half implied. The tone itself exuded defiance and yet, the duke’s face, which only she could see, expressed deep resignation.
+
+It was a strange mix and she wasn’t sure what to make of it. Deploying her own leadership, she let her voice carry as well. It was her first time using her improved leadership on people that were a little hostile, but from the reactions, it did have an effect. Some of the sneers turned to serious attention.
+
+“The beastlings are more organized than previously thought. A dark presence guides them. A significant force is circling around the army to attack the walls behind us as we speak.”
+
+Whispers spread throughout the ranks.
+
+“But do not be alarmed. A mage flight and cavalry detachments are already on the way. The alliance is ready for anything.”
+
+She gave a few seconds for her words to penetrate the thickest of skulls. The duke’s expression remained carefully neutral.
+
+“General Jaratalassi, our commander, has ordered us to close ranks. As such, I would invite you to approach our position just as the Golden Order is doing, so that we may present a more united front.”
+
+“You expect us to close ranks with a traitor?” the duke asked in a furious baritone.
+
+And again, his face didn’t change. There was no outrage there, only a deep fatigue and almost… Yes. His eyes were pleading.
+
+And Viv understood. The Blue Duke led an army of rebels without a cause, and he needed to convince the more stubborn supporters. At the same time, he could not appear like a sellout.
+
+He was counting on Viv to help him save his men.
+
+It was rather ballsy of him to be honest, but Viv would not decline a challenge when lives were at stake.
+
+“I may be many things, but I am not a traitor. I was never an Enorian. If you count my origins, then I am ‘française’.”
+
+Thankfully no one knew what that meant or they might attack her on principle.
+
+“If you care about my origin in this world, then I was reborn in Harrak, in the throne room. We were enemies but I was never one of you. I was never a traitor.”
+
+She surveyed the moody, hostile group. Her leadership was giving her a window to speak, and the fact the Blue Duke wasn’t contesting her helped. Back on earth, those people might have been screaming insults by now but here, the weight of her soul gave her that precious opening.
+
+“I am not asking for you to abandon your pride. You are still your own people and I would never give you orders.”
+
+Some people flinched when the truth of her words vacillated. Shit.
+
+“No matter what, you are still loyalists and we are still New Harrakans.”
+
+That rang true. She wasn’t here to subdue them.
+
+“I merely ask that you fulfill your duties as soldiers of the Paramese alliance, valiant defenders of order. Our leader has given us a command: to set aside our grievances in the name of the future, and to fight side by side against those abominations. Will you answer the call, or not?”
+
+Many of the soldiers retreated into sullen resignation. It was an order from above to work with people they didn’t like, an extremely familiar problem. Viv breathed out. That would do.
+
+The Blue Duke disagreed. Although his face was still a mask, his voice rose once more for his men to hear.
+
+“I am the Blue Duke, heir to Cadril the Mountain, to Hiram of the Thousand Blades. What makes you think you are better suited to hold the center, woman?”
+
+Viv felt doubt roll over the Enorian ranks. This time, it was the Duke’s words that left them in disarray. Nobody in Enoria could still believe Viv didn’t mean business. They could see the Harrakans in the distance doing much better than they were, and outnumbering them besides. It was a stupid challenge.
+
+She attempted to read between the lines. She was pretty sure he wanted her to show off, to prove she was the strongest. No, to remind them how strong she was. Make them want to be on her side.
+
+Viv deployed her aura. Fully. Draconic intimidation and Champion’s leadership washed over the ranks of the mercenaries in a soul tide just as her anchors came out. The temperature dropped. The air dulled even more. Her soul spoke of a rescued golem, of a long walk through the desert, of a found daughter, of magic with few equals, of the tragic march of refugees and the victorious charge or rebels, of many allies as strange as they were dangerous, of death in the forest, of war, of slain necrarchs, of a blighted arena, of a punished elemental archmage, of crushed dreams — that of others. It spoke of an army reforged from the gaols of history, of a reptile empire stopped, of a new species of intelligent machines, of a demolished city and a rescued population. It spoke of all of this in a single quiet note that rolled over them to remind them that Viv had been here for all of five years, but the continent would remember her for a very, very long time.
+
+It told them she was one of the world’s two active ascenders, and that she was worthy of their swords, even for a moment.
+
+“You may have legendary ancestors, dear duke, but I… I am the legend.”
+
+The tired leader finally allowed himself a smile of relief. His back remained straight for the sake of his men so that only Viv could see how much of a burden her words had removed.
+
+“Very well. For the sake of the alliance, we will close ranks with the New Harrakans. You will not find us wanting.”
+
+“Then I shall see you all in a sea of beastling guts.”
+
+The mercenaries greeted the statement with a few ‘ayes’ that she took as a good sign. After a last nod, she flew out.
+
+It had all gone pretty well. Only after she landed among her troops did Lana turn to her as she was busy convoking water.
+
+“Show off.”
+
+“What? It worked, didn’t it?”
+
+***
+
+Horns rang across the vast battlefield. The Golden Order and the Imperials were ready to depart in good order but the Enorian mercenaries needed more time. Viv watched the Blue Duke ride with a handful of heavy knights to smash roving bands of harassers, covering his men as they approached. By the time all three formations were more or less in position, they were late.
+
+The attacks started around noon and then, they didn’t stop. She had to forget the accursed karaoke, because the beastlings simply never stopped. The attacks were nearly constant. Every time, those were smaller groups whipped into a frenzy, designed to harass and waste ammunition rather than inflict real damage.
+
+The Golden Order performed as expected. They were old hands at killing beastlings, and it showed. Moreover, they were somehow always able to recover their expended ammunition. On the other hand, the Enorians really struggled, even with the wounded soldiers kept side by side with Harrakans so they had the time to recover. Poacher ordered two different volleys towards the early afternoon just to keep them from taking too many casualties. As for Viv, she flew from one end of the battle to the other to kill the true aberrants.
+
+They were just disgusting as she remembered.
+
+Aberrants were cancerous masses of abhorrent tissue assembled as mockeries of living creatures, their body functions stunted and maimed until all that was left was rage and pain. They drank mana like parched fields, so only the most potent spells tore them apart without fizzling. These specifically were also supposed to be very contagious so Viv did her best to keep them away from her troops. Despite these difficulties, things were going pretty well. Casualties were kept to a minimum. Troops rotated. No Harrakan deaths so far. High reserves of naphta and quarrels. Everything Viv wanted to save for the big push was stockpiled and spirits were high.
+
+Then, mid afternoon, one of the priests called her down.
+
+“Your Majesty, General Jaratalassi requests your support on the left flank. If you could fly here… the Zesthanet detachment is in trouble.”
+
+Viv frowned. Zesthanet? They were the only port city on the south coast, far into the wild lands. Did those guys even have an army?
+
+“Where?”
+
+“Past the Zazas group. The general asks if you can hurry, because…”
+
+Viv didn’t hesitate. She flew up, then used colorless spells for acceleration. Her heavy robe flapped in the wind, despite the metal inlays. A colorless layer in front of her face prevented her from being blinded by the dusty air. Desiccated soil gave way to barkless trunks, then to boulders. Below her and to the right, some armies were fighting towering monsters leading endless hordes. She recognized the stallion of Baran on distant battle standards. Farther then.
+
+It only took her a couple of minutes at that speed to spot which group was in trouble. A group of pale warriors with heavy weapons was caught in a short canyon, spread out between the tall walls. This would have been relatively safe normally, but beastlings kept sending themselves over the edge to their doom and the falling bodies smashed on warriors as often as it crashed on the ground beneath. Mighty warriors with bone helmets were fighting a tall, bulbous aberrant to a standstill but as Viv watched, more aberrants crashed yet rose again. Meanwhile, archers struggled to cover the entrance and exit as the most dangerous foes used the walls for cover until the last moment. The southerners were trapped, and about to be overwhelmed.
+
+Yeah, Jaratalassi had it right. Viv was needed. She passed over the closest wave of beastlings throwing themselves into the canyon.
+
+[Sequence: triple nuées]
+
+A black fog hissed in every direction, covering the charging beastlings. In their madness, they charged into the cloud without a care, and the cloud devoured them. The devouring spell covered the approach in a dense fog for a hundred paces in every direction. Even the smaller aberrants that entered it fell within a dozen steps, stripped to the bone. The rain of bodies stopped, and Viv let the spell linger. The dip in her monstrous reserves was noticeable.
+
+Then it was the other plateau’s turn. She did the exact same thing. With no more beastlings crashing on top of barbarians, those below organized themselves. Their front started to push against the beastlings blocking them in, though there were still many aberrants.
+
+But the most dangerous one was still the massive creature fighting against the strongest southern warriors.
+
+Their elites reminded her of Cloud Skull, the magic-resistant warrior who had died facing the Nemeti of the Empire of Dawn. The bone helmets were different and they wore more clothes, sometimes even armor, but their paths were similar. It was also clear they were used to facing large creatures yet the blood on the creature’s lone pincer said that some had been too slow to dodge the monster’s devastating swings.
+
+It looked like a crab, a misshapen one with far too many legs that made it sway as it moved, but it was fast, and its only claw stood at the end of a powerful arm. Viv quickly assessed the situation.
+
+It was a perfect opportunity to try out her new spell. It was part of a series of flowing constructs she hoped would make her a fast and continually casting beast. She’d tested it in the deadlands and it worked. Now, it was time to use it against a live target.
+
+[Aspect of the Guardian]
+
+“Aegis.”
+
+The thick shield formed around her, reinforced by her aspect. Each hexagon bled darkness and she saw the world in dark gray from behind its protective envelope. Outside, the breath of warriors came in puffs. A few looked up towards the light-swallowing ball.
+
+Viv shadow-walked herself behind the crab.
+
+[Aspect of the Destroyer.]
+
+“Shatterstar.”
+
+The shield exploded like a grenade. Voracious fragments pierced the crab from end to end at point-blank range, carving through the shell with ease. Annihilation carved the cancerous flesh, backed by Viv’s certainty that the creature had to disappear.
+
+“Guillotine!”
+
+Void blades emerged from Viv’s fingers as she prepared to bring them down on what was left of the creature’s back. Her instincts were silent, which was weird because… aaaand the thing collapsed on itself.
+
+It was very dead.
+
+“Oh. Well. That did it.”
+
+Two of the barbarians reacted almost immediately. The largest one stomped on the ground once, then he turned on the nearest aberrants that still lived. His massive spear skewered the creature from end to end.
+
+“I had it! I HAD IT!” he complained.
+
+The other one was an old woman with a bone mace. She shook a long-nailed finger at Viv, and a burst of gray mana carried her voice to others far and wide. A shaman, probably. She seemed to be some sort of leader.
+
+“You! You did well. I give you the battle name, Winged Crab Fisher!”
+
+Others nodded in assent.
+
+“Errrr, I’ve been called far worse, so thanks. Now if you will excuse me…”
+
+Viv cast spells until every aberrant she could find was reduced to ribbons, then she refused three different marriage offers before lifting off again. The shaman had given her a small bag of herbal tea as thanks though, so it was all in all a successful outing.
+
+***
+
+Tonight, the war council’s mood was subdued. Gone was the anger of the first night. Gone, too, was the social mood. Although they barely showed it, Viv could feel the tension in the pale faces and clenched jaws. The low hum of conversation spoke of groups that suddenly found they had to cooperate or risk extermination. It was a testament to how savage the attacks had been, and how the presence of mature aberrants altered the playing field. It didn’t help that they were supported by a rabid, starving and eminently expendable mass of beastlings.
+
+Viv checked that Sidjin was ok, though it wasn’t really necessary. The Red Mist had seen a lot of action in his day. He was more experienced than her and, she suspected, the opportunity to lead once again out of her shadow was doing him good. His smug, crooked smile really enhanced the doomed prince persona. Especially with his mussed hair. Hmmm.
+
+Not bad.
+
+Viv shook her head. The map at the center of the table showed a much different story than last time. Where a loose line swept before, now a tight wing speared into the heart of the devastated jungle. Far in front, a gray blob showed the area where the fortress was expected to be.
+
+“Ladies and gentlemen,” Jaratalassi said, “I can see that you have concerns. I do too, of course, however and despite the appearances, our offensive is going as close to plan as is realistically possible. The enemy is fighting to slow us down by any means necessary. It means that the fights are hard, but also that we are achieving our main purpose: the full cleansing of this land. The harder we fight and the more the foe must sacrifice troops to slow us down. If we stop now, if we give them a moment to breathe, then bands, guided by a fell hand, will move around us to attack our flanks, or even the walls. With this said, I have unfortunate news. You may have noticed that the Silver Snakehounds mercenary band is no longer here…”
+
+Viv had not. They were a minor army, barely a few hundred fighters.
+
+“After heavy losses, they decided to retreat against  my orders. They were overwhelmed on their way back to the wall and killed to the last.”
+
+Jaratalassi looked around the table. The meaning couldn’t be more clear. Disobey him at your own risk.
+
+“Other valiant bands have suffered much, so I will reorder the banners. As for good news, I will salute the work of our brave knights under the Order Master of the White Orchard…”
+
+Viv gave the old commander an appreciative look. The white-bearded Baranese lord took the compliments with grace.
+
+“As well as our mage flight under Archmage Sidjin for rushing to the wall’s defense and crushing several large beastling armies before they could attempt to breach it. You have my thanks.”
+
+Viv spared a glance to Prince Medjin, fuming in his corner next to Blademaster Selyen. Had Selyen started to work with him? The ‘dragonslayer reborn’ was unlikely to be a member of   Viv’s fan club after she basically ridiculed him in the City of the Gods.
+
+Served him right. he hadn’t even slain a single dragon.
+
+Looking at the map, Viv realized that Glastia formed the vanguard of the wing. Not a surprise considering they were the largest army, but still something that might have been worthy of praise. Technically, Viv flying to the barbarians’ rescue would have been an honorable mention too, but the clever general had paid only two compliments to emphasize them in what must have been a day of heroic deeds. It was well done, and Viv allowed herself a smug smile.
+
+After all, Sidjin was her boytoy. Any praise directed his way confirmed she had great taste in men. And women. Maybe less for women. It wasn’t relevant right now.
+
+Now all of Medjin’s efforts to discredit his fellow prince had gone up in smoke. That asshole certainly knew how to hold a grudge.
+
+“We have made good speed so far. I expect that we will find the fortress by tomorrow, given what the augurs found. In preparation for that, here is the new formation I propose.”
+
+Jaratalassi took the time to draw several arrows on the map to show where people would move the next morning. It was all to be done while under constant attack which would have made the entire plan a sure recipe for chaos, but Viv had long since gotten used to Nyil where stats made people much more capable of finding their way or staying in formation. Under the new battle plan, Harrak would become the tip of the spear. Ban was going to be ecstatic.
+
+“Glastia will lead the way, not the… untested strangers,” Prince Medjin said in a voice that brooked no arguments.
+
+“My plan protects the most lives,” Jaratalassi said softly.
+
+The rest of the alliance glared at the prince in quiet censure, but the brash man only grew more incensed at the apparent lack of support.
+
+“Your siege army has never won a siege!”
+
+Have too. Against a lich, Viv thought.
+
+“You have shown much bias and preference towards the ‘Harrakans’,” Medjin spat. “Or at least those who dare call themselves that. They are still a small band of peasants that has yet to prove themselves while my people have held the wall for the better part of a decade. We can make it a race, of course. See if there is truth behind their boasts when they are not placed in the right spot by an overly friendly hand…”
+
+Jaratalassi remained silent until even Medjin reddened; his grizzled peers not really appreciating his petulant display. In the end, the old general answered with more wary exhaustion than reproach.
+
+“If you let your pride get in the way of good planning, you only have yourself to blame for the deaths that will cause.”
+
+“We have shed blood for this nation and we will do so again; until the last beastling lies dead at our feet! Pretenders and traitors have — “
+
+“ENOUGH!”
+
+Jaratalassi’s aura lashed out. It was… above expert, Viv judged.
+
+It was pretty amazing.
+
+“I can tolerate your anger, but not your insults. You may do as you please and you will reap the consequences. That is all.”
+
+The old general finished with a few orders, then the council was adjourned. Sidjin had remained silent during all that time. He appeared thoughtful.
+
+They flew back without much delay. Outside, the sounds of battle reminded everyone that the conflict never ended.
+
+“Let’s do a bit of scouting, I told Zero-Five I would find him a good aberrant to fight,” Viv said.
+
+Sidjin laughed.
+
+“Ah, the Hadals, always a refreshing change of mindset. Of course, let us not disappoint the axe murderer, hmmm?”
+
+They did find a pretty good candidate after only a few minutes. It was even going in the right direction. The two mages torched the rest of the army to make it a fun duel before heading back. They landed in the Harrakan camp a few minutes later.
+
+Zero-Five approached.
+
+“We found you some prey. Go that way,” Viv said.
+
+The Hadal quietly pointed to the side, where a lone figure sat against a discarded crate.
+
+“Irao? I didn’t know you’d come.”
+
+“Hullo. Interesting, new challenge. I… made progress. On my path.”
+
+He sat straighter, eyes lost. Viv knew this meant he had something to say so she waited.
+
+“I found the fortress.”
+
+“What? Where?”
+
+“Not far. It is… not a fortress. Network of tunnels. Low. It is also not a fortress.”
+
+Viv frowned.
+
+“You already said that?”
+
+“Its purpose is not to protect.”
+
+“Then what is it?”
+
+Irao told them, and Sidjin snapped his fingers.
+
+“Don’t tell the others yet,” he said.
+
+“Jaratalassi won’t be happy,” Viv warned.
+
+“And if no one disobeys his orders, it will be of no consequence.”

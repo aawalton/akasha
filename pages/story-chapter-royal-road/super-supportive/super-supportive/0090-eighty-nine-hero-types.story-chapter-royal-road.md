@@ -1,0 +1,385 @@
+---
+id: c1d28137-11c7-577f-8291-da2fce5e2cc3
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY-NINE: Hero Types"
+slug: 0090-eighty-nine-hero-types
+partOf: super-supportive
+position: 90
+ownLength: 5086
+unit: words
+publishedAt: 2023-11-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1397911/eighty-nine-hero-types"
+royalRoadId: "1397911"
+---
+
+89
+
+Alden’s remaining days with Boe were much too brief, and they threw into stark relief one inconvenient fact about his new life.
+
+“I can’t get approval to go back home for Christmas or New Year,” he told his friend on Wednesday night, slamming the door to his bedroom and stalking into the kitchen. “All the requests I put in this morning were denied. I got the notices while I was in the shower.”
+
+“Well…” Boe glanced up from his perusal of the enormous stack of coupons Alden had received when he first entered intake. “We thought it would be that way.”
+
+“I can’t go back next Christmas either.” Alden yanked open the fridge and glared at an innocent bottle of green tea. “The U.S. approves Avowed for visits up to eighteen months in advance, and the slots for major holidays for anyone C-rank and above fill the day they’re opened. I have eleven days off between school quarters then. You know what else I can’t do with that time?”
+
+“Get approval to have guests here on Anesidora?” Boe suggested.
+
+“That’s right! Because Anesidora allows us to schedule visitors two years in advance. And the special occasion slots here fill up the second they’re opened, too. So maybe, if I’m lucky enough to not be on a summons on sign-up day this year, I can have a holiday with my family or friends, when I’m in college.”
+
+“February is probably good, right? Or March.”
+
+Alden grabbed a container of acorn squash soup. “Yes. It’s manageable. Weekends get booked up fast. I guess I just have to skip school if I actually want to use the fourteen days of family time the U.S. allows me each year. But the local hero team in Chicago will also ask my school how I’m doing before they grant my approval, to make sure I’m a good boy who won’t hurt regular humans while I’m under their jurisdiction. So I can’t just skip class. I have to get permission from the school, then get permission from the country I was born in, then get permission from the hero team in charge of monitoring me and sign a paper saying I understand they will arrest me if I so much as magically sneeze or step outside the city limits.”
+
+“If it makes you feel better, I’m sure the process is really streamlined. It sounds like a lot, but it’s probably computers putting checkmarks beside your name all along the way.”
+
+“They’re treating me like I’ve done something bad. But I haven’t. And that fact makes me want to do something bad.”
+
+Alden shoved a spoon into the soup without bothering to heat it.
+
+Boe raised his eyebrows. “What kind of a villain phase will it be then?”
+
+“Something heinous,” Alden muttered, shoveling soup into his mouth.
+
+“How heinous?”
+
+“I’ll…”
+
+The silence stretched between them. Boe started to snicker.
+
+“Shut up. I’m thinking of things.”
+
+“You literally can’t think of anything bad to do!”
+
+“I can! I’m trying to think of something bad that involves my powers, though. My skill requires people to entrust me with things. So my evil has to have an accomplice.”
+
+Boe rested his elbows on the counter and steepled his fingers. “I will be your minion. You’re welcome.”
+
+Alden pointed the spoon at him. “I can’t have a minion who outranks me. Everyone will think you’re the one in charge.”
+
+“Since you can’t even think of crimes to do on your own…”
+
+“I’ll throw Haunting Spheres into movie theaters and make them yell.”
+
+“Petrifying.”
+
+Alden sighed. “I actually can think of a few terrible things, but they’re a little too terrible for me to joke about them. I wanted to be funny with some middle ground crime. Something between pranking moviegoers and decapitating cyclists with fishing line.”
+
+“The evil oozes from you.” Boe pushed aside the stack of coupons. “Seriously though. I’m sorry. It sucks they make you jump through so many hoops to visit.”
+
+“Do you know there’s pushback here on Anesidora about allowing more guests, too? It’s purely an insular locals thing. They don’t like ‘tourists’ even though practically the only tourists here are the family members of first generation Avowed. It’s not even close to a majority opinion, but still…”
+
+“Wish you were unregistered, too?” Boe asked.
+
+Alden winced. “Sometimes,” he admitted. “But I’d have other stresses then. I mostly wish you weren’t going back home.”
+
+It was different with Boe. Alden didn’t want to dump his baggage on Connie or Jeremy. He didn’t want to with Boe either, but…he could. Or he had been able to. They were putting a moratorium on ‘sharing Earth-shattering secrets’ at Boe’s insistence, until Alden could figure out how to magically bind them with his own version of the Triangle of Absolute Secrecy.
+
+On Alden’s end of things, there wasn’t much left to tell anyway. He couldn’t talk about Bearer, and the cat was already out of the bag on his budding wizardry.
+
+He wasn’t going to give anyone details about the knights. He didn’t know what combination of politics, personal reasons, and culture made them want to keep exactly what they were private. But they did. And he understood it himself on a gut level.
+
+Boe knew Stuart was the son of that really important Primary guy Alden had met at the party. Which was all Alden had known himself a few months ago. It was fine.
+
+The only thing he really had left that he wanted to share was the existence of his fake profile and his actual level…but the Contract lying about your powers to the Artonans was just about the most earth-shattering news he could think of. Even bigger than him being able to cast spells now.
+
+It could wait until he figured out contract magic.
+
+Someone pressed the buzzer on the apartment and shouted, “Trick-or-treat!” through the panel.
+
+Boe looked at door. “Are you supposed to be passing out candy tonight?”
+
+“A lot of people are. I didn’t even decorate my door, so that person’s hoping for a bit much. Don’t worry. It’s locked, and they’re used to me skipping out on social events.”
+
+Boe’s fingers went back to their steepled position. “In that case, let’s talk about that disturbing text you sent me in the middle of the day.”
+
+“What disturbing text?”
+
+“A quote: ‘I think I really ought to do something more serious about Manon and the boater. What do you think about me confronting her directly?’”
+
+“Oh. That’s no big deal.”
+
+Alden just…hadn’t been able to put it out of his mind since he saw Karl.
+
+“I was in Engaging with the Unexpected. We were talking about what goodness is again.”
+
+“And your answer today is vigilantism?” Boe asked in a flat voice. “Because I seem to remember you saying that an actual Sway superhero told you there was no legal way to handle the problem.”
+
+“Of course not. I’ve… She’s a cult leader who lightly mind controls her ‘friends’ and uses them like breakable dolls. And I know about it. So I have to do something for them. My original idea of sending them messages wasn’t really enough either, was it?  And it probably wouldn’t even work. I don’t want to cause a huge mess, but I should do more than that. I could tell Manon herself I know what she’s doing. I could—”
+
+“Do you actually want to save the boater? Or are you feeling an urge to fuck with Manon because she indirectly fucked with you and got people killed? Or is it something far dumber than either of those things?”
+
+“I told you I’m over my dark desire to see Manon punished. I want to help the boater people”
+
+“Alden,” he said tiredly.
+
+Alden shrugged and took another bite of his soup. “Their dynamic with Manon is strange. I don’t know which of them really needs an out and which of them might be a willing participant in whatever it is she’s doing. But she magically nudged a woman into busting up her leg and then kept her from getting help for it until it was so swollen she couldn’t walk on it properly. So at least one member of the collective couldn’t possibly be on board.”
+
+“And?” said Boe.
+
+“And…it’s awful that I’ve been here for two months without even trying to help. It’s shitty.”
+
+Boe pressed his face to the counter and clutched his hands together behind his head.
+
+What’s with the drama? Alden thought with annoyance.
+
+“I am not a therapist,” Boe said in a muffled voice. “But at the risk of seriously pissing you off, I am going to tell you something about yourself that I’m sure you don’t want to hear.”
+
+“If you’re going to say I’m lying about the revenge, I’m not,” said Alden. “I—”
+
+“It’s not that. And I’m not reading you right now. But I have in the past, and I have very recently. So I know what I’m about to say is true. And I think even though hearing it said aloud is going to make you unhappy, in the long run, it might keep you from getting stuck on moons.”
+
+“Well, I’m all for that not happening…”
+
+Alden felt nervous suddenly. Boe could say devastating things when he was angry. He didn’t seem very angry right now, but Alden doubted that gaining the ability to read emotions had softened his edges.
+
+Boe looked up at him. “Some people are deeply compassionate toward their fellow man,” he said. “I don’t know if it’s nature, nurture, or habit; but they actually want to help total strangers. They care about every single person who crosses their path. They’re as close to being pure givers as humans can be. They’re special. The world would be utopian if everyone was like that.”
+
+Alden nodded slowly.
+
+“There’s another type of person,” Boe continued, not taking his eyes off Alden’s face, “who runs around doing good, not out of world-hugging compassion, but because being a do-gooder gives them energy. If I’m being ungracious, I’d say it’s selfishness and ego stroking, but that’s selling them short. It’s more like helping out is their identity. For whatever reason, it’s part of how they see themselves and their place in relation to others. Running to save someone else psychs them up and makes them fulfilled and confident. They feel amazing when they do the right thing. I suppose that’s pretty special in its own way.”
+
+Alden set aside what was left of his soup. “I know what you’re going to say.”
+
+“Let’s call those people Hero Type 1 and Hero Type 2.” Boe held up two fingers, then he added bluntly, “You’re not either type. You really wish you were. You try so fucking hard to fit both of the molds. But you never have been a natural humanitarian or someone who gets high on his own righteousness, and you’re not even close to getting there.”
+
+“Thanks,” Alden said sourly. “I think I’ve made it clear in multiple ways recently that this is something I’ve noticed about myself.”
+
+“Yes, but for some reason, it bothers you. You think it’s a personal failing.”
+
+“Isn’t it one?”
+
+Boe stood up and slapped the counter. “No! You have got to stop being ashamed of not being the merry, self-sacrificing savior figure you have in your head! The things you said about yourself in some of your voicemails…. Stop feeling disappointed in yourself for not enjoying running on broken bones in some kind of one-man alien death marathon. Nobody normal fucking would!”
+
+“I know that!”
+
+“Then why are you so, so upset about not wanting to do something like that again?! Alden, it’s not healthy. Why do you feel guilty? Why do you feel guilty? Of all people! You saved someone’s life. More than one person, I’m guessing, if I read between the lines of that dorky berry-picking story. If you lounge around in bed for the next hundred years, you’ve already done it. You can quit now, and nobody who has more than a single braincell will ever think you haven’t earned it.”
+
+“I almost left her.”
+
+“Who?”
+
+“Kibby!” Alden shouted. “Before I knew her. On the first day, when it was all going wrong and everyone was dying. I heard her whistling for help. In the grass. And I knew it was probably one of the little girls trying to get my attention, and I knew something horrible must have happened to her, and I just stood there for a while. Because I didn’t want to deal with a problem that hard!”
+
+“But you did deal with it. You dealt with it for months!”
+
+“I left her sitting in the car with the corpses of her family while I felt sorry for myself,” Alden spat.
+
+Boe took a deep breath. His next words were soft. “The standard you hold yourself to scares me. I am so afraid that as soon as you’re not completely drained by everything you’ve been through, the unnecessary shame you feel is going to get you killed for real this time.”
+
+Alden’s urge to argue left him at that. “I’m not going to do anything stupid.”
+
+“You just suggested directly confronting someone you know is a mind controller, so forgive me if I don’t believe you!”
+
+Alden held his hands out and gave his friend his best, I can’t help what you believe, look.
+
+Boe pointed at him. “You’ve lost my trust. All it took was some self-righteous   moron saying the word ‘goodness’ in a high school class for you to have a guilt fest—about not flinging yourself into danger to save the fucking boater people. They’re a bunch of adults who’ve gotten into a messy situation on their own, and they were assholes to you on top of it. You don’t really care about them!”
+
+“But I should,” Alden argued. “And if I can’t, I should at least act like I do.”
+
+“What logic is there in forcing yourself to feel obligated to every single person you run across? I can’t believe you’re so—gah!”
+
+Boe threw a fistful of coupons at him.
+
+Alden stepped back in surprise as paper fluttered around him like leaves.
+
+“I’m going to get this crammed through your thick skull, or I’m not leaving the island on Saturday. I will literally turn myself in and stay right here for the rest of my life to watch you and make sure you don’t throw yourself away again!”
+
+“I do understand what you mean,” Alden said, alarmed. “I didn’t intend to freak you out with the text. There’s no reason—”
+
+“No. You don’t understand, or you wouldn’t be talking about yourself this way! Clearly, I am a bad explainer. Let me try again! Alden, stop wishing you were like Hannah Elber. Please.”
+
+Alden plucked a coupon for fifteen percent off parasailing out of his hair. He stared across the counter. Boe looked so serious.
+
+“I don’t think I’ve been wishing that exactly…”
+
+“I never met her,” Boe said. “But I’ve heard you talk about her. You admire her so much, and you describe her like she was a holy workaholic combo of Hero Types 1 & 2. Maybe she was, or maybe that was just how she chose to present herself to you. Either way—damn. Nobody is ever going to hit that mark through any amount of effort. Not even you. You can’t make yourself feel warm fuzzies for all mankind. You can’t just get stoked about being the person who pulls others out of burning buildings when you were born with the common sense to be afraid of fire.”
+
+“Hey, you could make me feel those things!” Alden said. “Problem solved.”
+
+He was trying to take the edge off some of the tension in the room, but Boe just blinked at him.
+
+“Alden, I wouldn’t,” he said finally. “Even if it was as simple as that and there was no danger involved, I wouldn’t. Because I don’t actually have much respect for that kind of righteousness. I think it’s special. I wish there was more of it in the world. But if you ask me to pick which type of person has the most real value, I’m going to pick a third Hero Type—one who helps after taking his own safety and sanity into consideration.”
+
+Alden did understand what he was trying to get at, but at the same time…
+
+“Don’t you think this Hero Type 3 might not do the right thing at any given moment because he’s a little bit too selfish? Isn’t that a problem?”
+
+“Is it okay to walk past one struggling person on your way to save two?”
+
+Alden frowned. “I hate questions like that.”
+
+“Yeah. Everyone does. Moral philosophy problems are nasty little riddles, and they never apply well to the complexities of real life. Hero Types 1 & 2 are going to leap headfirst to help whoever happens to be in front of them, and they’re going to feel awesome about it. And everyone can applaud them for it. It’s a simple, undeniably good answer. That doesn’t mean it’s the only good answer.”
+
+“You think I should have a different one.”
+
+“Speaking as a Scumbag Type, I think you need to stop feeling like shit about not naturally being the particular variety of saint you’ve been looking up to all this time. Most people aren’t even Hero Types at all. They’re Average Types who think there’s nothing wrong with stepping over every casualty on the road as long as they didn’t directly hurt anyone with their own two hands. You should realize you’re already one of the better ones, and make peace with helping others in ways that actually suit your personality…since you won’t listen to my advice and become an elementary school teacher.”
+
+Alden smiled suddenly. “I meant to tell you. You were right about that.”
+
+“I fucking know I was!”
+
+“I thought about it all the time while I was living with Kibby and watching Instructor Gwen-lor teach the little kids. Hiding out as an audial Brute and being a teacher would have made me happy.”
+
+Boe tossed up his hands.
+
+“I couldn’t figure out how you knew. I didn’t even know I liked that kind of thing.”
+
+“How can you not…never mind. That path is off the table. You can be a teacher here on the island one day if they don’t mind the Artonans yanking you out of class every other week.”
+
+Alden groaned at the reminder. “Six months off sounds like a lot sometimes, and others it sounds like nothing.”
+
+“It’s nothing,” said Boe severely. “You’ll blink and be there again. Hopefully scrubbing toilets—”
+
+“Now that you mention it, when I thought they wanted me to be an actual garbage man during my first few minutes at LeafSong, I was pretty cool with it. I hope they do summon me to scrub toilets. It’s honest work, and it sounds easy.”
+
+“Please note that in the space of a few sentences we have found three jobs that the current you is more passionate about than being a superhero.”
+
+“Alien toilet scrubber, garbage man, school teacher,” said Alden. “Noted. But assuming I do still want that one day…what’s Hero Type 3’s ideal if he is by his very nature less than an ideal?”
+
+Boe narrowed his eyes. “First of all, what are you hoping it will be?”
+
+“Oh my god, you are a therapist.”
+
+“I will punch you with my superior strength. This is a one-time thing brought on by your terrible treatment of yourself. You owe me all of your Natalie food in exchange for my efforts.”
+
+Alden went to sit down in the chair beside him. “Can I be so super strong that problems feel smaller, and I never have to get in over my head again?”
+
+“Super strong is why you say you’re going to Celena North, so I think that’s a fair start. You think you’ll keep leveling fast?”
+
+“I’m trying not to look at it too hard right now, and you don’t want a lot of info—”
+
+“Secrecy is our friend. Learn contract magic.”
+
+“I’m going to. To answer your question, yes. I expect to level quickly.”
+
+He was relieved he didn’t sound as worried about that as he actually was.
+
+“So Hero Type 3 gets to be strong and competent,” said Boe. “And he has a sense of self-preservation, which is not some dirty habit. It’s what makes him ponder situations to decide if they’re worth his effort and whatever amount of suffering they’re going to cause him. He should let himself walk away sometimes. And he should not feel guilty when he does it, because guilt just makes him suck ass at self-analysis. And then he panics trying to fix himself when nothing was ever wrong with him to begin with.”
+
+“I…still don’t want to be the person who walks away from the whistle.”
+
+“Alden, you didn’t walk away from that. Even when you were weaker than you are right now, you took care of it. There’s no reason for you to think you wouldn’t take care of something equally important in an equally difficult situation again.”
+
+Alden fiddled with the parasailing coupon. “Okay. But if turning your back on some people who need help is an option for you…like, if it’s on your personal list of things that you can forgive yourself for…how do you ever make it right in your head?”
+
+Boe huffed. “There are millions of people who need help right now, who we could help if we seriously tried, but you and I are totally ignoring them. Look at us, sitting here with plenty of food in the fridge and more blood than we need pumping through our veins. How are you making that right in your head?”
+
+“Oh, I’m old enough to donate blood now.”
+
+“Your blood’s probably radioactive and full of alien germs. Nobody wants it, so maybe that was a bad example.”
+
+“I’m serious, though,” Alden said. “If you decide to live in shades of moral gray, there’s no way to know if you’re being pragmatic or just giving yourself a pass to chicken out in any given situation.”
+
+Boe didn’t answer. After he’d been staring off into space for a minute, Alden asked, “Are you getting a call or something?”
+
+“No,” Boe replied in a distant voice. “Hey, how many lives have you saved in your life? We don’t have to say it was during berry picking. We can pretend it was during some other unrelated event. But how many was it, really?”
+
+Ten, thought Alden. But saving Kibby had been the same as saving himself, so he couldn’t count her.
+
+“Nine.”
+
+“Fucker. I was hoping you were going to say three. Maximum. Fine. Okay. Nine. You’re one away from double digits. That’s cool of you.”
+
+“Where are you going with—?”
+
+“I’ve just thought of a way to help you see yourself better. So that you can make shit right in your head no matter how morally gray the situation is.”
+
+Boe was grinning now, and he sounded pleased with himself in that particular way that meant he thought he’d just done something very clever.
+
+Alden felt a sense of foreboding.
+
+“I can’t believe it took me this long to come up with it! It should have been out of my mouth the minute you walked into the apartment.”
+
+“Boe, you’re acting a little…”
+
+“From now on, whenever you go more than a step or two out of your way to help someone you don’t personally know and care for, you have to call me and tell me about it,” he announced.
+
+“What? No, I don’t!” Alden glared at him. “That’s patronizing, and dumb as shi—”
+
+“Oh, it’s not to ask me for permission or anything like that! That would be patronizing. You are totally free to save every person on Anesidora and their pets if you want. You just have to tell me you’re doing it. Because from now until the day you really-for-real die, I’m going to match you.”
+
+Match me?
+
+“When I get home,” Boe continued, “I’m going to save nine peoples’ lives. And to be fair about it, I’m going to try to do it with an equivalent amount of risk. You said the berry picking wasn’t supposed to be incredibly dangerous, but you did know it wasn’t safe. So I can’t take total softballs. I’ll have to find nine people in situations that will be mildly hazardous for me to resolve.”
+
+“Boe, that’s not funny,” Alden breathed.
+
+“You have no idea how good I’m going to be at this. Can you even imagine how much human suffering happens around us on a daily basis? Sometimes, in big crowds, if I lose my shield, I can identify people who are suicidally depressed. Or violently angry. Or scared of the angry person they’re with.”
+
+“That’s…”
+
+“I’m embarrassed to tell you that. Because usually I ignore them. See, with my power, there’s always a next person in trouble. And a next person. And another. At school once, I felt someone getting the crap beat out of them just outside the building, and in the bathroom across the hall, in the same class period, a person was feeling these spikes of self-hatred and pain that made me think they were hurting themselves. And our teacher was flirting with a girl in a way that was making her incredibly uncomfortable. All of it. All at once. Any time I want.”
+
+“You can’t just—”
+
+“How many of them do you think I helped?” Boe asked.
+
+Alden’s pulse was racing. He felt the beginnings of panic.
+
+“The answer is two. I distracted the teacher by asking for permission to go to the bathroom. I didn’t bother with the fight. I could have broken it up easily, but I have to draw the line somewhere. Getting punched in the face is a bizarre risk for me, since I take it like an Avowed instead of a normal guy and people might notice. That’s the kind of thing I’ll do until I get my nine, though. Just a little danger. Probably nothing will go wrong, and I’ll be helping people. That’s what you thought you were getting yourself into, right?”
+
+Alden’s ears were ringing. Almost like the tinnitus was back. His knuckles were white against the counter.
+
+“Calm down,” Boe said, suddenly eyeing him with alarm.
+
+I can’t.
+
+“Try to control your breathing,” said Boe. “There’s that thing you used to do with—”
+
+“I can’t,” he gasped. “Give me a second. Fuck. Don’t read me. You asshole.”
+
+Boe went quiet.
+
+This is so humiliating. Actual fucking panic because of a conversation. What the hell, Alden?
+
+He wished Boe could leave. He wished he could without having to walk through halls full of people having fun in their Halloween costumes. He clung to the counter, feeling like his chest was going to burst and the room was spinning around him.
+
+Boe did go hide out in one of the spare rooms to give him some privacy.
+
+Twenty minutes later, when he heard Alden running the kitchen sink to get a glass of water, he re-emerged.
+
+“I’m sorry,” he said. “Are you all right?”
+
+“Awesome,” Alden croaked. “I’m way more temperamental than I’ve been in years. It’s so much fun.”
+
+“I wasn’t reading you,” Boe said. “You can tell because I didn’t realize I was upsetting you that much until it was too late.”
+
+“I know you weren’t.”
+
+“I was a little too thrilled with my idea.”
+
+“Your idea is fucking shit.”
+
+“Oh no,” Boe said mildly. “My idea is perfection. But I didn’t mean to dig in with it quite like that.”
+
+“You’re still going to fight gangs as an unregistered superhuman until you save nine people!?”
+
+“Why can’t I?” Boe asked. His voice was steady. “I went a little overboard, and I made it sound like I was going to risk myself to punish you. Which is twisted. I promise it won’t be like that. I’ll be careful. But I am going to do it. I’ll text you before and after. You can watch me through our interfaces if you want—full disclosure on my lifesaving endeavors. Don’t think of it as me doing something dangerous to hurt you, spite you, or mock you. It’s really not that. Think of it as me helping people with you. Like we’re partners in heroics. Long distance style.”
+
+Alden stared at him. “I don’t want you to.”
+
+“Because you value me? Good. You should value yourself at least as much. And I’m always wondering where the line is that will take me from Scumbag Type to Hero Type. I know you’re all the way on the other side of it. So this is actually the perfect thing for both of us.”
+
+“You’re crazy.”
+
+“This is the best I’ve felt about myself in years, to be honest. I’m completely clear-headed. Be as noble as you choose to be, Alden. Save babies. Save boaters. Save murderers if you want. But every time you stick your own neck out to save a stranger’s, pretend I’m there with you. Pretend we’re getting into it together and we’re facing the exact same amount of struggle and the exact same consequences for failure.”
+
+“I would be too paralyzed to leave the fucking apartment.”
+
+“Why?”
+
+“What do you mean why?!”
+
+“Do you think I’m a coward?” Boe asked. “I’m not trying to paralyze you. I don’t want you to wrap yourself up in a blanket and hide from danger. I want…to involve myself in this part of your life. All this time, I’ve thought I wasn’t good enough for it, but I think if we do it this way, maybe I am.
+
+“This is my Hero Type. I chose it for myself just now. I watch you. I do my best to keep up. Don’t hold yourself back only to keep me safe. That’s lame. I’m an A-rank. I’m smart. I’m actually very competent even if my powers aren’t ones I want to use much. So don’t worry about challenging me. I expect you to. Just don’t throw us away on something you don’t really care about. Got it?”
+
+Alden didn’t know what to say.
+
+“Got it?”
+
+“I…get your point at least.”
+
+“My point is that the next time you die it had better be for something the size of the planet. Because otherwise I’m going to resent you a little bit when I try to make us match up.”
+
+*

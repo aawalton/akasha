@@ -1,0 +1,555 @@
+---
+id: ad246dcd-23df-5e0c-8712-a14f481bc43e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 119: The Fetch Quest."
+slug: 0039-chapter-119-the-fetch-quest
+partOf: the-calamitous-bob-stubbed
+position: 39
+ownLength: 5789
+unit: words
+ownProgress: 5789
+publishedAt: 2023-05-27
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1226457/chapter-119-the-fetch-quest"
+royalRoadId: "1226457"
+markedReadAt: "2026-06-29T21:16:04.482Z"
+---
+
+The convoy followed a torturous route through the forest, expecting trouble. Armored soldiers in loose formation formed a vanguard, their eyes fixing the thick forest with vigilance. They had their weapons sheathed — for now — but their shields were fastened. They formed an intimidating group.
+
+Next came columns of lightly armored spearmen on either side of a large, steel-clad cart. Others followed, smaller and holding supplies. Archers gathered on top of those with their bows strung and arrows in reach. Cages closed the march, filled with miserable sods cowering under the murderous attention of nearby swordsmen. All in all, there were almost two hundred professional soldiers ready for war. They made their ways along the muddy road of early fall. None of them were surprised when, at the twist of the path, the road was blocked by fallen trees, nor did they voice concern at the figure at its top.
+
+The man waiting for them was not human. His reddish skin and amber eyes marked him as a Kark. Stout and short, the stranger wore makeshift armor made of stolen parts and wielded a spear that had seen better days, though the tip remained sharp and clean. He and the caravan leader’s eyes met. In them, they each found an animosity that went beyond anger to emerge on the side of grudge, a promise that today, one of them would get to see their own guts. It was the sort of rancid hatred that took time to properly macerate, and main ingredients were grief and cruelty. Grief at the loss of friends, cruelty towards the foe.
+
+Men and quite a few women popped from their hiding places among the thin trunks and high fens, slowly, like mirages. War paint and primitive camouflage had allowed them to merge with their surroundings. Their own skills had challenged the caravan’s vigilance and won. They formed packs of nimble warriors armed with spears and savagery while lone, bow-equipped wolves skulked at the edges, feathered teeth waiting in their quivers, drooling poison. They had made no sounds.
+
+They were mostly men as corded as ropes, dry, bearded and wild. Tatters covered them but those who paid attention would see the glint of metal under the rags. Almost fifty Kark formed a solid core of better equipped warriors.  There were women as well, with hard features and harder stares, waifs and crones, all gaunt, all waiting with gritted teeth. The late afternoon light showed the bloodshot white of their eyes and out of the three hundred pairs, not a single one revealed even a hint of mercy. They were here to kill.
+
+“Halt!” the caravan leader bellowed.
+
+Helmets closed, blades were drawn. Above, the archers nocked their arrows. Lines of spears formed.  A man in a robe exited the armored carriage and made for the front, staff held between gauntleted hands.
+
+The silence was so deafening, it was as if the forest itself held its breath. The air tasted of that peculiar scent of weightlessness just before thunder roared, and it did, but not the way they expected it.
+
+“So…. where’s Marruk?” A voice asked in Enorian.
+
+Like a single man, half a thousand people turned their gaze to a suspiciously empty patch of trees the guerilla fighters had inexplicably left alone. Black mana dispersed and they now realized a new group waited by their side inside an intricate circle. There were horses, a pair of Hallurian youths with terrified expressions, but those were secondary to the three entities standing at the front without a care in the world.
+
+The first was a handsome, princely man with curly dark hair and a smirk that covered half his mouth, the other slightly twisted by an intimidating scar. The second was an exotic woman with hair of a blood-tinged brown and eyes like chipped emeralds. She was pale and smiling. The last was some sort of giant bone abomination with claws the size of short swords and two Will-O’-Wisps where its eyes should be.
+
+The two sides were too stupefied to react, but a nearby bush shivered and answered.
+
+“Viv? Is that you?”
+
+The bush shifted to the side to reveal a trench dug in the ground. A few archers with longbows grumbled and spat as their hidey hole was revealed, but they remained where they were while a woman in full plate climbed out.
+
+“How did you get there? I didn’t see you at all!” Viv said.
+
+“We were already here one day ago just to be sure scouts wouldn’t find us out.”
+
+“Alright.”
+
+“It was horrible. I wouldn’t recommend it.”
+
+Viv watched her ex-bodyguard-turned-mercenary-turned-bandit-lord and found that Marruk looked fine, if tired and a bit on the thin side. The highwayman career wasn’t conducive to a stable diet so she could understand, but it still made her feel bad. Marruk’s armor was pitted though clean, and her flanged mace showed significant damage. Fortunately, it didn’t need to be in perfect shape to apply blunt force trauma.
+
+It still irked Viv a bit.
+
+“So… are you here to stop me? Because I already ruined the ambush we set up for their mage and… Well. It would be bad. I would be…” Marruk said.
+
+She moved her lips, looking for the right word.
+
+“Do you expect me to abandon my friends to work with a corrupt noble from a foreign land?” Viv replied with a smirk. “Think about it for a while.”
+
+Marruk chuckled, but her brief hilarity was interrupted by the caravan leader.
+
+“What is the meaning of this? Who are you? Are you with them? Know that you are interfering with the good conduct of an Enorian military op—”
+
+Mana twisted. The man could still speak but no words could be heard coming from his voice.
+
+“Shhhh. Shut the fuck up. The adults are talking,” Viv casually replied.
+
+The caravan ranks shifted uneasily while their mage stepped to the leader, warning clear in his posture. Viv ignored it, and his attempt to form a circle.
+
+“Where was I? Oh yes. We’re here to get you out and either to a northern city near the Steppes or back to Kazar, depending on what you prefer.”
+
+“Really?”
+
+“Yeah, really.”
+
+The Kark mulled this over while five hundred combatants waited in mumbling confusion, unsure as to what was happening. The Kark by the fallen trunk walked out of the road, shrugging and joining a group of allies.
+
+“What about the others?” Marruk asked.
+
+“They can come as well.”
+
+Dangerous moisture appeared on the woman’s ruddy cheek. Probably the weather.
+
+“Kazar then. I think. I’ll let people choose.”
+
+“Good then.”
+
+“There is,” Marruk interrupted with vehemence, “one last thing,” she finished.
+
+Her gaze turned to the caravan.
+
+“It so happens that we are still short-changed by the local lord and I’d like that money, since we are technically, ah, in a blood feud.”
+
+“Just the money?”
+
+“All thirty-seven gold talents of it. Rounded up. Because fuck them.”
+
+“Thirty-seven gold talents and you will be satisfied?”
+
+“No, but I would leave. And it must come from their treasury, not your pocket. They must pay.”
+
+“Fair enough.”
+
+Viv turned to the caravan leader who was now on the verge of apoplexy. She lifted the spell.
+
+The man immediately screamed.
+
+“You dare! Do you know who I am? And you! Why didn’t you do anything?” he asked, turning on the mage.
+
+The older man smiled kindly, his graying beard shifting. Viv inspected him.
+
+[Court mage, third step of the path. Dangerous. One who casts and advises in equal measures. Patient. Monster killer. Herbalist. Precise. Decent war caster.]
+
+As expected.
+
+“You’d better not interfere while we dispense justice or you will face the full wrath of Count Selno! I’m warning you, our mage will smite you where you stand,” the leader threatened.
+
+“Regarding this, ‘sir’,” the mage replied, and Viv could hear the hyphens around the title as they dropped with venomous content, “I believe we should hear their offer.”
+
+“What?” the leader asked, flabbergasted.
+
+Ignoring him, the mage turned to Sidjin and bowed slightly.
+
+“Sir, are you the Exiled Prince Sidjin of Glastia? The Red Mist?”
+
+“That is certainly one of nicknames they used back on the wall,” Sidjin replied amicably.
+
+“And you would be Bob, the outlander, yes? The one who slew Constable Tarano?”
+
+“To be fair, he started it,” Viv shrugged.
+
+“And may I ask you to prove your identities?”
+
+Sidjin lifted a single finger and a car size double helix of mana blade whirred to life, the twinned sections moving in opposite directions. The woosh of displaced air flattened the grass by the man’s feet. It looked like the arcane equivalent of a blender and filled the exact same function.
+
+Viv clad herself in black mana until she wore the nightmarish form of her spiked armor, strands of energy emerging from her shoulder blades like so many segmented legs. A wave of draconic intimidation forced some soldiers to step back, despite the mass of their allies standing by their sides.
+
+Many among the caravan guards watched the spells and came to an easy, immediate, and unfortunate conclusion.
+
+“And, uh, I do not know what that is,” the court mage said, turning to Solfis after a few moments of hesitation.
+
+//AN UNFORTUNATELY COMMON OCCURRENCE.
+
+//WHEN ONE DOES NOT LEAVE SURVIVORS.
+
+This convinced a few more people.
+
+“So to reiterate, I believe we should hear their offer,” the court mage concluded.
+
+“The offer’s simple. You will give us thirty-seven gold talents —”
+
+“ — And my friends.” Marruk interrupted.
+
+“You also release the prisoners. You turn around and return to the nearest town. In return, you get to keep your personal belongings and the amazing gift that is life.”
+
+The caravan leader licked his lips, frantically watching the scene unfold. He grabbed the mage by the shoulder and whispered, though Viv used a single spell to eavesdrop.
+
+“Are we just going to drop our pants? Do you have no honor?”
+
+“My inspection skill says any of those three by themselves would turn this battle into a slaughter. The bone thing doesn’t even have a danger rating. It just says we’re fucked. You do your last stand if you want but I’m out of here, I didn’t sign up to have my mug used as an ornament. Good day, sir.”
+
+“Dammit.”
+
+It took some time and resulted in an almost decapitation, but eventually all of the prisoners were freed, the gold was obtained, and the caravan headed back in sullen silence. It was just so weird that everything had ended without bloodshed, Viv thought. For once. The rebels had welcomed the freed prisoners and shared what little food they had before huddling in a vague column, aimless.
+
+“Here is the plan,” Viv said out loud. “We will head north on the road until we find a portal.”
+
+“A portal?” a few people mumbled.
+
+“A magical portal that will transport us south, out of the count’s land, in the blink of an eye, one we have prepared in advance. From now on we’ll have to walk. Don’t worry, we’ll find food for you lot on the way.”
+
+Marruk joined Viv at the head of a confused procession. The witch herself looked back to see disbelief plain on the exhausted fighters’ face and, under that, the dangerous germination of hope. They were not out of the woods yet. Strictly speaking.
+
+“You found me because of the bank?” Marruk asked without preamble.
+
+“Yeah, they said you had joined a band of Kark bandits. Or disgruntled mercs, depending on who you believed. It was a simple task to follow rumors and use Arthur as a scout. She’s flying above, somewhere. What happened here, anyway?”
+
+“That boy, Sekur, he led his band here to work for coin. Count Selno hired them to dispose of rebels. Rebels that rose because count Selno, he is the biggest asshole around. He starves people. So Sekur meets the rebels but the rebel boss, man called the Reeve, does not fight them. He says Count Selno will betray and to take him prisoner. Sure enough, Sekur asks to meet the count on a field. Selno asks for the reeve but Sekur asks for payment. It goes bad. The Kark and the rebels fight off guards and escape together. Now the guards look for Kark and they find me!”
+
+Marruk huffed her displeasure.
+
+“Sekur and his men, young males, poor, not a single armor between the lot of them. Scrawny!”
+
+On the edge of Viv’s vision, she spotted the object of Marruk’s tirade flinching as if he’d been physically struck.
+
+“Cannot believe they mixed us. However, I am angry. So I found them and joined, taught them asymmetric pummeling like we did to the prince.”
+
+“MARRUK THE SOFT-SPOKEN SHOWED US THE WAY. DISHONORABLE BUT SMART,” the man himself commented.
+
+There followed a small yet very loud speech of Sekur explaining that, though giving up a blood feud before the other party had died and making ambushes dishonored his ancestors, he agreed with the woman that protecting the living had become more important.
+
+“We are of the same tribe, one of the two the northerners decimated,” Marruk explained. “We adapt or we die.”
+
+“The ancestors will forgive us this transgression. If we win!” Sekur screamed again.
+
+“They were just tired of being hungry. And penniless,” Marruk muttered in Viv’s hearing, scowling mightily.
+
+“Hmm, does he always speak at this volume?”
+
+“All Kark do. What is worth being said is worth being said loudly. No whining. No badmouthing. Such is our ways.”
+
+“It is as the war leader says! ” Sekur thundered.
+
+“This is going to get tiring very fast.”
+
+“As I was explaining before SOMEONE interrupted us,” Marruk continued, “I found them. We fought. The Reeve dies in battle but more rebels join us. They picked me as general because my plans work. It has been so since then. We take the gold and the count’s men  make villages pay more. Despicable.”
+
+“Agreed.”
+
+The conversation died out soon after and Viv moved towards her boy toy who had been silent until then.
+
+“I didn’t know you were so big and so scawwy, your blendership. Red mist, was it?” Viv asked him, elbowing him gently.
+
+“Yes, because the arcane spiked rotators I used would make the beastling —”
+
+“And here I thought it referred to your painting skills!”
+
+Sidjin blinked and seemed to get his mind out of whatever spot it had wandered to.
+
+“Sarcasm. Of course. Sometimes, I miss the palace. Beautiful women would pamper me all day long, asking me to recount tales of my many exploits without facetious comments.”
+
+“Yes, but could they do this?”
+
+Viv manifested straight, slightly pointy shapes of black mana all over her face, simulating a beard and mustache combo Tolkien’s dwarves would not have shunned. She wiggled her eyebrows suggestively.
+
+“I am truly blessed,” Sidjin replied.
+
+***
+
+The rest happened exactly as Viv had expected. The band returned to their camp to pack, then a company-sized group of assorted marauders and cutthroats moved south through the land. Viv and Sidjin spent their entire days riding before and after the column, intercepting patrols Arthur spotted and talking to them before trouble could erupt. Those who recognized Rakan and Tarana as Hallurians were discouraged ro raise a fuss, and the possibility of facing hundreds of combatants backed by three mages for no discernable gain proved to be enough. They also bought food and supplies for the army, and it wasn’t cheap. Fortunately, Viv was flush with money from her days at the medical faculty. The highwaymen also proved extremely resilient to long walks and difficult conditions, a side effect of their paths. It took only a week to reach the edge of the Deadshield woods without any notable incidents. In fact, the most time-consuming activity for Viv proved to be the drawing and testing of witchy teleport platforms, Sidjin being legally bound not to make any of his own for the duration of his employment.
+
+The improvised convoy bypassed the last major city, Reixa, but they did stop at Anelton at the edge of the Deadshield road where Viv had held a one hour siege against a bandit.
+
+What was his name again? Helix? No, Elex. Whatever.
+
+The ravaged city had not regained its former glory, but some of the survivors had returned and many intact buildings had been ‘acquired’ by opportunists in search of free land. There was quite a bit of traffic going through the woods and not all of it was troops going to man the forts.
+
+“Lots of refugees going to fatten the monsters. Not sure why they think it’s worth the trouble. Bunch of unruly savages ruled by a mad queen probably eat the lot as soon as they arrive. Just as bad as the revenants, I always say,” an enterprising innkeeper told Sidjin.
+
+Viv had taken to hide her hair now that it appeared that fame followed her where she went. It didn’t help with the eyes or skin tone but in the shades of a badly lit tavern, it worked well enough. She didn’t let the man’s comments get to her. As far as she was concerned, cannibalistic mad queen was a massive step up from promiscuous great whore. At least they were afraid now.
+
+“Speaking of, your lordship. You want company to warm your bed tonight? Finest girls from Reixa in a proper bed before you cross over.”
+
+“You offer this in plain view of my wife?” Sidjin replied. “You are certainly bold.”
+
+“The more the merrier, I always say. Some of my girls can please you both. Why, —”
+
+“That will be fine, I do not wish to indulge too much. I heard you were the man to talk to about specific tents?”
+
+“Of course! A gold talent for a set of eight. A steal!”
+
+“That’s a threefold markup. May I ask you to reconsider ripping me off so shamelessly?”
+
+“Anelton’s far and the roads ain’t safe, melord. A man’s gotta do a living.”
+
+Sidjin smiled and tilted his head. Viv was definitely sure he had a way to improve his haggle. On an inspiration, the prince turned to her and winked.
+
+“Care to give him a reason, darling?”
+
+Viv revealed her hair and leaned over the counter, both hands planted on the weathered wood.
+
+“Give me a fair price and I might forget that man-eating comment next time I go through here with an army instead of refugees.”
+
+She watched recognition light his face. They got the discount.
+
+***
+
+The trip through the woods went much better than Viv expected. The now retired highwaymen — and women — didn’t complain and didn’t stop. The Kark made no objection either.
+
+“We cannot return north without covering ourselves in glory first,” he bellowed one fine evening.
+
+“What he is trying to say is that if he heads back with his tail between his legs and not even enough iron to buy a single old Pakar, no one will marry him,” Marruk added.
+
+Viv was amazed how much shit Marruk said about her compatriots and how much they tolerated it. She prompted the stout woman about it later.
+
+“They know I have much iron. I am a competent war leader. I also…”
+
+Marruk huffed in annoyance.
+
+“I let it be known my mother had been a shaman. Shamans normally carry the wisdom of the ancestors. But I don’t!” she complained, raising her fists to the sky in impotent fury.
+
+“Are you annoyed because you feel responsible for them?”
+
+“Yes…” Marruk grumbled.
+
+“And they are boneheads?”
+
+“Not a single brain to share among them all. No plans. Screams all the time. Requests for honorable, single combat! Where do they think they are?”
+
+“Was it not you who said you wanted them to change?”
+
+“They have not changed,” Marruk growled between grit teeth. “They think we act different because we are here, like crazed hunters away from their wives. They have not changed at all. Yet.”
+
+“Maybe you should talk to them.”
+
+“I am no good at talking.”
+
+“Marruk.”
+
+“Yes. Yes, yes, damn you. FINE.”
+
+***
+
+With Arthur covering the air and ravenously feasting on the flying wildlife, they arrived at Kazar two weeks after leaving Helock. It had to be a world record even the gryphon riders could not match. Unless that adventurer Sidjin had mentioned who could teleport had done it before. In any case, she felt a measure of excitement when some of the bends of the road grew familiar. In the early afternoon of the thirteenth day, they found the clearing where Lancer had died and were raced by Hadal children to the fair grounds. Viv took a deep breath as she emerged from the edge of the forest. There was black mana in the air.
+
+It also… didn’t smell very good.
+
+“Huh,” Viv said.
+
+The fair grounds were a makeshift ghetto with rickety constructs where beggars waited listlessly. A shanty occupied a nearby field and dug into the forest a bit. Dirty, emaciated children watched them arrive with wolfish gaze. A small assembly waited in front of Viv. There was Solar and his wife Amiri, both looking like they’d been caught with their hands in the biscuit jar, Wamiri being a little more defiant about it. Farren the Hand of Neriad was here with a few temple guards, looking exhausted. Ban had prepared a honor guard of heavies and they were the only group that stood straight. A few other notables and people she didn’t know watched her from behind with expressions ranging from curious to furious.
+
+“Welcome back,” Solar breathed. “We have prepared a small feast and, ehm, welcome back.”
+
+“You knew I was coming?” Viv asked, slightly surprised.
+
+“Your Arthur told us this morning. She has grown! Ahem.”
+
+“Where is the feast?”
+
+“The town hall.”
+
+“Let’s go then. Can someone help those newcomers settle?”
+
+“How many of them?”
+
+“Three hundred, give or take.”
+
+It seemed like the end of the world given how the others were either wincing, massaging their temples, or boiling with rage.
+
+“We can set them up in the barracks, we’ve made new ones, but it’s going to be a temporary measure. Like many others. Look, let’s talk inside.”
+
+Viv nodded and split from the group with Marruk, Sidjin, Solfis, Rakan, Tarana, and Arthur. The procession made its way through the main road and Viv realized the population hadn’t been told she was back.
+
+“Hey it’s Bibiane. Welcome back, Your Grace!”
+
+“Oh gods you’re finally here, thank Neriad.”
+
+“Please fix everything like last time, yes?”
+
+“Did you bring more grain?”
+
+“Finally someone who can get all those strangers sorted out. One way or the other!”
+
+There were a lot of guards in the dirty streets. Kazar had lost some of its pastoral charm and gained quite a few urchins. The air smelled more rancid and some of the shutters and doors had been reinforced with nails and steel bands. For all the apparent problems, people still greeted her with a smile and wave more often than not.
+
+The town hall’s feast was a blessing for Viv who had not eaten anything decent on the road. As usual, Kazar’s food lacked the spices and diversity of Helock’s cuisine but the ingredients were top notch and that was all that was needed, sometimes. The mood remained somber and Viv walked from group to group, catching up with people she knew and getting to know others. Some were adversarial, some less. She didn’t learn details but that was fine, this was a social event. The general mood was that Kazar, and by extension Harrak, was buckling under a massive influx of refugees and population growth. Simply, the place had been at peace for fifteen years and there had been few casualties during the war. Between this and the increased safety for children now that Hadals roamed the wood, even the space Viv had already cleared was becoming insufficient. This created tension between the old guards and newcomers. Some also struggled to adapt to the nation’s progressive treatment of non humans, with some prejudice deeply ingrained. Simply put, Harrak was a victim of its success.
+
+Viv shortened the feast and retired to her tower, where she spent most of the evening poring over reports and documents. Her increased mental abilities and the polymath skill let her absorb a massive amount of data, helping her classify them into several major categories.
+
+Despite all of those problems, Viv was optimistic because Kazar had lasted without her. It had only done so for a couple of months, but… it had done so. With a system she had implemented and adapted from modern democracy.
+
+Kind of cool, when she thought about it.
+
+It was late by then and she went to sleep with Sidjin after the pair fortified the house again. The next morning, her boyfriend took off to check the buildings and see if he could help. She was grateful and let him know in clear terms, though that took another hour. After that, Solfis was left in a corner, Arthur guarded the door, it was time for meetings.
+
+The first to come up was Solar. The tall, powerfully built swordsman sat rigidly in the guest seat and clenched his jaws.
+
+“Say it,” he hissed.
+
+Viv knew what this was about. The city was in significantly worst state than she had left it. On the other hand, it was clear to her that those had been extenuating circumstances. She would surprise Solar… and then she would hire him for her expedition.
+
+“I am sorry.”
+
+The swordsman blinked.
+
+“What?”
+
+“I know you expect me to bash you so I’ll just state it plainly. I won’t. I asked you to hold the city and make sure to protect it and its institutions. Which you have done. The place is still standing, people are still alive. You are a blademaster, buddy, not a mayor. You did a great job. If a leader gives its subordinate a task, it is the leader’s responsibility to check that the subordinate has the tools and capabilities to complete that task or at least ways to find those. I didn’t expect a miracle. You did what you could. I’m thankful.”
+
+“Seriously? You won’t blame me for the problems?”
+
+“I told you. I asked you to stop Harrak from collapsing. You did it. You are not an administrator by vocation. It’s fine.”
+
+“Huh,” the man said, relaxing against the back of the chair.
+
+“If you want to stop —”
+
+“Gods yes!”
+
+“Then stop. I remember that you didn’t want the job to begin with. Before you go…”
+
+“Ah, we are not going,” Solar said.
+
+Viv raised an eyebrow. Solar was a bit of a wanderer from what she could tell and his companion Wamiri was from across the sea. She expected them to be gone as soon as they could.
+
+“Wamiri is expecting,” Solar explained.
+
+“Ah. Why is everyone pregnant? What’s in the air?”
+
+//Legs, Your Grace.
+
+“Thanks Solfis, very classy. So. You have decided to stay? Here?”
+
+“It’s not a bad place.”
+
+“Alright. It makes it a little awkward but… I need you for something.”
+
+“What?”
+
+“I need help killing a necrarch.”
+
+The declaration fell like an expensive vase. Solar was left gasping.
+
+“A necrarch?”
+
+“Yes. You, Sidjin, Solfis, and I. We have a plan and equipment but… we cannot do it without you.”
+
+“It is…”
+
+Viv expected a flat refuse at that moment, yet something curious happened instead. Solar sat straighter and the air around him changed until the man felt more solid, somehow, more intense. Viv got the curious impression that if she extended a hand in front of him, it would return bleeding.
+
+“... a fascinating idea… Wait no. No. I am supposed to consult the mother of my child over such questions. yes. A necrarch… by the light gods that would be such a magnificent battle…”
+
+He turned his attention to her.
+
+“If I do so, no more jobs. I am a free man.”
+
+“I believe I already agreed to release you from your debt against you holding the fort while I was away.”
+
+“I consider I have partially failed so it does not count. But yes, a life debt against the blood of a necrarch. This would do. Let me talk to her, I should be able to convince her that it will be fine.”
+
+He made to leave then turned one last time.
+
+“Hopefully.”
+
+The door slammed shut.
+
+“Next!” Viv said.
+
+It was going to be a long day.
+
+***
+
+Viv watched the second person to come with interest. She was an older woman with a faded yet expensive dress of a design the outlander had never seen before. Her hair was cleanly cut and held in an elaborate tail that curved around head before delicately resting on her shoulder. At the feast, she had curtly introduced herself as Baroness Azar. She looked prim and elegant in a cold and confident way that irked Viv on a fundamental level. A very short introspection made her realize why
+
+The woman had the mannerism of Madame Hortense.
+
+The worst elementary school teacher who ever lived.
+
+A hateful harpy with a deep resentment for children, fun, and life in general.
+
+“Well, are you not going to greet me?” the woman asked with a peculiar pronunciation that Viv recognized from the school and elsewhere. The lady was Baranese, a noble according to her mannerisms.
+
+“Tradition dictates that the petitioner should present themselves first.”
+
+“Hmph! That should be after you invite me to sit!”
+
+“We are not in Baran.”
+
+“Indeed not, to my deep regret,” Azar replied, hands stretched in despair. “I have crossed half of the continent to bring you back your enslaved people and this is how I’m received! I must tell you right now, my dear, that I am unimpressed. This place is a proper mess, which can be reasonably expected to a limited amount but what do I hear? You are gone! Gone? The ruler of an expanding… backwater mess, gone? Have you no notion of rulership? I fully expect you to step up because — “
+
+Viv didn’t know what stopped the talkative baroness. Perhaps it was a social skill. Perhaps it was the expanding, insane smile she felt blossoming on her lips. Perhaps it was the discreet sound of Solfis opening the nearest window to resurrect an old tradition.
+
+“I just want to say two things. First, thanks for bringing back the lost families. Second, it’s just such a shame the Paramese languages do not have a term for defenestrate,” she said genially.
+
+Baroness Azar uttered a small, almost cute yelp when she passed through the open sill.
+
+“I think I clipped her leg,” Viv commented afterward.
+
+//Indeed.
+
+“But she lives, right?”
+
+Downstairs, high-pitched cries of outrage drowned out the morning hubbub.
+
+//Indeed.
+
+“Welp. NEXT!”
+
+Viv wasn’t sure how she felt about it.
+
+***
+
+Farren and a few others came to give their own reports. By early afternoon, Viv had outlined the measures she could implement that would set the Harrakan territory on the path to recovery.
+
+//I will need a week of intense training with Solar to coordinate with him and improve our teamwork.
+
+//You may have enough time to implement most measures before we leave for the lone mountain and the necrarch’s den.
+
+“You don’t want to train Sidjin and I?”
+
+//If you are involved in direct combat, something will have gone terribly wrong.
+
+//Your task will be barriers and traps.
+
+//A week of training will not make a difference.
+
+“I trust in your experience. Alright, NEXT!”
+
+The man who entered the room was handsome in a slightly rakish sort of way. He wore an actual doublet with glass stones and painted golden threads that made it flashier than it had to be. He immediately took a seat and leaned forward, over the desk and close to Viv’s face. She didn’t move.
+
+“Hello, Miss. Or boss? What do you prefer?”
+
+“People usually address me as ‘Your Grace’ in official settings.”
+
+“Your Grace, hey? Mouthful. Think I’ll call you Viv.”
+
+“You will not.”
+
+“Alright, alright, no need to make a fuss! I was just trying to be nice,” he said, pulling back and raising hands in defense.
+
+“Are you sure you’re fine holding the meetings today? You still look frazzled from the long road. A bit tired, maybe?”
+
+“I appreciate the concern Mr…”
+
+“Edric, but my friends call me Ed. You could too! Haha, I am jesting. You can call me whatever you want, little lady. Me and the lads heard you got a lot on your plate and we happen to be problem solvers. The quiet kind, efficient. We get things done you see? I see a bright future for you and I, if you let me help you. Shoulder some of that burden. Lots of problems around, right? Maybe too much for a lone little lady.”
+
+Viv kept a pleasant smile on her face as she looked at ‘Ed’ like one inspects a freshly dissected toad.
+
+“Oh, it will be fine,” she shily admitted, “I have not come empty-handed. I’m sure I’ll smooth things out soon enough.”
+
+“You sure you don’t want some help?”
+
+“Maybe. But not without testing you first, Ed,” she said, then she giggled.
+
+Behind her, Solfis’ eyes shone with interest.
+
+“Smooth things out, ey? You’re not talking about the refugees I suppose. Mind letting me in on it?”
+
+“Oh, I’m not sure I should say.”
+
+“I promise to keep it a secret. The word of Edric is worth gold, they say. Come on, you pushed me off, can’t you give a man a bone? A hint?”
+
+“Well,” Viv hesitated.
+
+“Come ooooon, a secret completely kept is no fun.”
+
+“Ah. Alright.”
+
+Viv leaned forward, her face a little flushed, and spoke in a conspiratorial tone.
+
+“I earned quite a bit regrowing… you know whats, for the nobles of Helock. Their legs too, sometimes. But anyway, this will solve all our problems, I’m sure of it.”
+
+“If you says so, lady. I’m impressed.”
+
+“Was there anything else, Ed? There are still people.”
+
+“Ah it’s fine, don’t want to bother you too much. Don’t forget your promise! You have to test us so we can dazzle you with our skills, yeah?”
+
+“Sure, I won’t forget.”
+
+Ed left and closed the door behind him. Viv’s face, which had been shy and pleasant, turned cold.
+
+“Well well well. I am pretty sure we just found the thieves terrorizing the neighborhood.”
+
+//Would you need my assistance?
+
+“You need to focus on the training if Wamiri says yes, which she has not yet. I’ll handle it with Ban and the heavies.”
+
+//Understood.
+
+It appeared a little fall cleaning was in order.

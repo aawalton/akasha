@@ -1,0 +1,493 @@
+---
+id: 64a64197-fcc0-5079-87e6-5c40a18a888d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 203: Second Chances"
+slug: 0128-chapter-203-second-chances
+partOf: the-calamitous-bob-stubbed
+position: 128
+ownLength: 6503
+unit: words
+ownProgress: 6503
+publishedAt: 2025-04-26
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2231652/chapter-203-second-chances"
+royalRoadId: "2231652"
+markedReadAt: "2026-06-29T21:19:13.370Z"
+---
+
+Night had fallen. Deep blue lights lit the floating city with a cold radiance that made Viv want to shiver. Outside, the perfectly smooth surface of the water was an abyss hiding another abyss, an unmoving mirror under storm clouds. Dark shapes moved at the edge of the Azure Lady’s control. The elements unleashed their furies there, while in here, they merely waited. The Azure Lady patiently drew symbols around the sleeping form of Rakan, lying naked over a stone slab. This brought back painful memories.
+
+Viv realized she had a hand over her heart scar, where Abe had stabbed her to help her ascend. She’d kept it after the transformation. She had also kept the dragon-shaped burn scar on her arm where Arthur had sneezed her first fire. Dragon fire was no joke.
+
+Something was wrong.
+
+It wasn’t the ritual itself. As far as Viv could tell, the circle was a complex and impressive mix of blue and soul magic, using symbols in a way she’d never thought about. The Azure Lady would use the imprint of Rakan’s soul to smooth out and reforge his core. It was only possible because Rakan’s core was cracked, not shattered. It was weird how resilient cores were compared to the rest of a person. One had to make an immense effort to destroy it while leaving the person breathing.
+
+Sonagi had a lot to answer for, although, now that she thought about it, core attacks might be a way to slay extremely resilient opponents. Maybe there was an angle to pursue there.
+
+Anyway, something was wrong with the Azure Lady herself. She moved with fluid grace around the place with myriad symbols forming in her footsteps. She was just willing symbols into existence with elegance and control that was nothing short of godlike. It was honestly a pleasure to watch, but it was also all a lie. The Azure lady stepped around, her dress and hair floating behind as if underwater, free of gravity. her eyes scrutinized the work. Her hand stayed at her side, thin and elegant. Viv could see a light scowl on the woman’s features when she seemed to be focusing on a specific area of the dauntingly complex construct. All of the trappings of humanity were there, and they were all a lie. The Azure Lady was not here.
+
+This was just a puppet, a shell, humanity painted over a porcelain doll with artistic grace. A moving illusion. Viv knew for sure because she felt the woman’s soul all around her, in the water sphere under her feet, in the moisture, even in the body, but it was not a person, merely a vessel.
+
+The Azure Lady no longer existed as a human, or at least, not here. Elunath had made a conscious effort to stay close to his humanity, though there was much to be said about which aspects of mankind he’d picked. The Azure Lady was gone. Viv was sure of it, so why was she also pretending so hard to still be human right down to surrounding herself with people? How much of her was left to care about her fellow Shadowlanders, and how much was losing itself in the depths of the ocean, searching for truth? Or perhaps learning from a real elemental.
+
+Viv wondered if there were true black elementals. She sure hoped there weren’t.
+
+“Thou still linger at the source of your journey, young one,” the Azure Lady said to Viv.
+
+Her voice wasn’t coming from her lips, though they moved. It was uncanny.
+
+“You mean, as an elemental archmage?”
+
+“Yes. Thou hath not explored the mysteries of thine new condition. Thou hath yet to ponder its significance, doest thou not?”
+
+“Probably. I needed a lot of help to ascend. It was done very early in my life compared to the others, if I understand correctly.”
+
+The Azure Lady nodded. Once again, it felt very affected, a deliberate decision rather than a natural gesture.
+
+“Although thou were forced upon this path, and thy understanding of thy hue stems not from experience, but from talent and luck, thou are fully counted amongst our number. The nature of thy new condition is still something thou should meditate on for a better understanding of your own nature. I can feel thine power as it roars under thy skin. It is far too constrained. Thou have yet to attune it to your magic.”
+
+“Wait a minute, are you saying that I need to think about black mana for more of my body to turn elemental?”
+
+The Azure Lady casually kept the conversation going while she built the array. That was a little impressive.
+
+“Not think. Ponder. Meditate. Feel.”
+
+“And you do this to become… what, closer to mana? To understanding it?”
+
+“No. To fully ascend.”
+
+“To become a full elemental?”
+
+The body stopped, yet the symbols kept being written by the Azure Lady’s presence. It was like watching a movie, except one of the characters was frozen while the others continued acting as if nothing was wrong. A deep unease filled Viv’s chest. Both Elunath and the lady were old but not that old, surely. Was this her fate as well?
+
+How long would it take before she grew so detached, she might as well be insane?
+
+“Yes. To become a full elemental.”
+
+“Is this why you are living near the abyss? To understand water?”
+
+“To understand all aspects of the blue, for only in full cognizance can ascension be achieved. Does thou not seek the same thing?”
+
+“Hmm. No.”
+
+So she confirmed elemental archmages became elementals at the end. What made them different from gods, though? Well, no, she understood how one became a god. It was through deeds and actions, doing, while elementals were more about being, she guessed. Meditation, understanding, not changing the planet and being recognized by it. Those were different vocations.
+
+“Perhaps thou art merely too young…”
+
+The body was completely inert by now, except for the unseen current playing with the woman’s hair. The disembodied voice sounded a little lost. Viv didn’t have the guts to ask her why one would want to become an absent-minded, disembodied creature who spent all her time looking at water. Maybe it was a different version of the afterlife kind of thing. The Azure Lady wanted Nirvana while Viv wanted Valhalla and she sure as fuck was ready to send a lot of people there as well. In any case, the pseudo-senile lady was nice and also a good source of knowledge, so it was the perfect opportunity to learn some secret information.
+
+“Are elementals born from archmages different from natural ones?”
+
+There was another considerable delay while the Azure Lady processed Viv’s question. Viv sometimes had to refrain from replying before lower step administrators finished their questions due to how fast her mind had become. Viv didn’t think her inquiries were too complicated, therefore it had to be an issue of… of RAM. The Azure Lady was doing too many things at the same time. It also meant Viv was being treated as a low priority task. Fair enough since Rakan ought to be first. It was still a little annoying.
+
+“They are the same. The essence is identical. The path is different. Elementals are born from concentrated mana that gained sapience. Archmages turn into elementals by becoming concentrated mana. Two sides… two sides of the same coin.”
+
+“I see.”
+
+“Why wouldst thou not wish to transcend thy base nature?”
+
+Because you look like a lobotomized demigod and Elunath was a twat.
+
+“I enjoy being alive here, in the world of humans. My friends live here,” Viv replied with all the diplomacy she could muster.
+
+“Thou shalt outlive them. All of them.”
+
+“I wouldn’t be so sure. And besides, I am living in the now. I can always change my mind later.”
+
+“So young…”
+
+The Azure Lady returned to her weaving. Viv felt a familiar presence appear while the Azure lady finished.
+
+“Sidjin,” Viv greeted with a smile. “I thought you wanted to stay with the ship for safety reasons?”
+
+“Yes, well, I’m making an exception for a few hours, at least.”
+
+His gaze fell on Rakan’s supine form.
+
+“His wound is also my responsibility. I allowed him to take the field in the arena. It was because of my decision that he fell into the trap, and that he ended up crippled. I must be here for this moment. We should be here for him together. We owe him that much.”
+
+“You’re right,” Viv said.
+
+After all, she had poached the poor guy before he could be snatched by some rich family from the Northern Cities. Maybe some of them would have treated him well too, despite the general discrimination against Hallurians.
+
+“I just hope everything will go well.”
+
+“Could she have not covered his, ah, mid-section at least?” Sidjin mentioned with a frown.
+
+“What?”
+
+“His genitals are very visible.”
+
+“It’s a medical procedure. A medical procedure!” Viv scowled. “We are being professional here.”
+
+“The second time you performed a medical procedure on me, at the end you grabbed my —”
+
+“Hey, we were already a couple!”
+
+“You said it was for testing functionality but we ended up making love on the operating table.”
+
+“It was an operating altar and it was very cold, thank you very much. You traitor. You know too much. Perhaps I should have you…. silenced.”
+
+Sidjin gave an exaggerated shrug. Some of the tension had left.
+
+“You know how to seal my lips. I will let the displayed testicles issue drop, so to speak. I think it’s about to begin.”
+
+The Azure Lady was ready. Her presence encompassed the whole spell, smothering everyone under a thick blanket of power. Blue mana coalesced until Viv could no longer tell where Rakan began and the foreign mana ended. In the following seconds, things became… abstract. Lines merged while entities bled into each other. In her soul sense, the delicate touch of the Azure Lady held the core of what made Rakan a mage in her dainty fingers. It wasn’t like a tank of gas, or a furnace, but more like a metaphysical echo of what the planet was. The world under Viv’s feet was alive and conscious, if barely in a way she could comprehend. Its will permeated the reality around them, and the Azure Lady’s will, in turn, permeated a fraction of that. Now Rakan’s entire impact on the world came into full view. That will was still pristine and true, but the strands of power that made it whole flickered, bleeding potential out instead of keeping it in. Patiently, the Azure Lady collected those strands and brought them back together. Errant figments of strength reformed into a delicate lattice that seemed to grow not just up, down, left and right, but also inward and outward, and recently and soon as well. Viv shivered when she felt her own strands echo in sympathy.
+
+The Azure lady pulled back after what felt like only a few minutes. By comparison, building the spell had taken much longer.
+
+Rakan woke up with a jolt. His eyes traveled to the ceiling, then to his surroundings. To Viv. He sat down with a start.
+
+“Thou must not hasten. Thy body lacks strength,” the Azure lady said.
+
+He extended a hand. A flame appeared, soon followed by a twirling gust of wind, then a blob of water, then earth, then fire again. His breath turned fast and manic. Several spells activated at the same time, flowing into one another. He took a few more deep breaths.
+
+Viv could see it in her mana sight. His core was greedily gulping mana to turn it into his own. None of it went to waste. He was cured. A beaming smile replaced the look of fearful expectancy.
+
+“I… I… it worked? It worked!”
+
+His laugh was infectious. Viv extended her arms. Without hesitation, Rakan crashed into her.
+
+She’d only meant to grab his hands but…. that was nice as well. A pleasant warmth filled her heart. Rakan was laughing, and crying too. She patted the unruly hair near his neck. Soon, Sidjin joined them. Rakan grabbed both in a bear hug with surprising strength. Looks like the teenager had filled out a bit.
+
+“I’m so happyyyyyyy.”
+
+“It was a long time coming,” Viv whispered.
+
+“You did it! You really helped me!”
+
+“Hey.”
+
+She broke the hug. Rakan was practically bouncing on his feet.
+
+“Look, I know I’m kind of bad at this but after spending years here, I finally have to admit that… you locals have been growing on me. At the beginning, I really wanted to head back but now, my life is here, and I’m glad I could be here for you as well. Just, you know, it’s hard for me to say.”
+
+“You prefer to act, I’ve noticed,” Sidjin said.
+
+“In Halurian, we used to have a saying: a tongue like stone, a heart like mushroom bread.”
+
+Rakan gave her a good, earnest look. He was hesitating, Viv could tell. She encouraged him with a smile.
+
+“You know, you like to pretend that you don’t care but I think you’re using it as a shield to do what you think must be done. The Viv I know isn’t ruthless. You’re practical, and you don’t like people finding out you have a heart, but I can see the way you look after me through actions and little gestures, just like you look after Sidjin over there, or Arthur, or even that silverite hulk Solfis. It’s like this as well. When I wanted to fight, you didn’t like it but you let me do it. When I got hurt, then maimed, you didn’t abandon me to my fate, or told me ‘I told you so’ as you could have. You found a solution to help me by having Abe lend his staff. You trained me. You gave me this feeling that I still mattered and that I was still me, even when I was diminished. You gave me a position in your court in a function I could complete and though you let me take responsibility for finding a cure, once I did, you were there to help me get it. You never even hesitated. I see you, Viv. You are slow to thaw but when you do, you’re a friend for life. It is no wonder that you have gathered a collection of elites. I just want to tell you that in this case, I think it’s a collection of friends. We are all out there living our lives and building the Harrak we want to live in but you know that if you need our help, we would stand against a dark god side by side with you. With your luck, one day we will. Thank you.”
+
+Viv huffed before she could let that treacherous warmth spill into obvious feelings. Rakan was a sly one, however, and he noticed anyway. They chuckled.
+
+“Thank you. It means a lot to me. I will remember this moment and your words. Now come on, I’m the mighty Empress of Harrak. Our enemies fear us and so on. I need to keep a modicum of fear about me. Can’t let people know I’m half decent.”
+
+“Your secret is safe with me,” Rakan swore. “I will tell everyone you are a cold-hearted beast.”
+
+“Nice. In return for my service, I have a favor to ask you.”
+
+“Is it about me wearing underwear right now?”
+
+He was naked as a worm.
+
+“It is about you wearing underwear right now. The evening is cold. Let’s get you covered.”
+
+“Alright, alright.”
+
+Viv turned to the fleeting figure of the Azure Lady, who was hanging around like an idle NPC.
+
+“Thank you. Our contract is completed. We will be departing soon.”
+
+No answer.
+
+“Regarding your people, I was wondering if we could have a talk. I believe your position is untenable, and I can help. I would also like to invite Kif. Your participation — your full participation, would be required.”
+
+“Yes. Tomorrow morning. I will be present,” a disembodied voice replied.
+
+Viv had no idea if that was a real promise or just a perfunctory reply. Arthur would never have forgiven her if she hadn’t tried to make a profit.
+
+***
+
+Someone banged on Viv’s door in the middle of the night. Viv grumbled herself to full wakefulness — it was getting harder to sleep at night. Who dared disturb her slumber etc. Back in Harrak, there was always the defenestration option.
+
+The person behind the door was a mage, and a pretty good one at that, but the way the person’s aura pulsed erratically told her something was wrong. It didn’t feel like anger. It felt like panic.
+
+“What the fuck now?”
+
+She opened the door with a spell ready just in case. Her brain did that little dance when it recognizes someone but isn’t sure from where, or when. Viv’s memory had become eidetic but that didn’t mean she could remember everything on demand, right now, especially when right now was past 3AM or something.
+
+Mage, woman, dark hair, steely gaze but with deep pockets that spoke of lingering exhaustion. She’d seen that elegant, arrogant expression before. Where?
+
+Helock, her mind whispered.
+
+Wait a minute.
+
+“Renea?”
+
+“Yes,” Elunath’s little snitch confessed. “Look, I know you probably hate me…”
+
+Most people overestimated how important they were in Viv’s life. ‘I forgot you even existed;’ didn’t feel like the right thing to say, though. Renea used to be Elunath’s creature, a fate Viv had managed to avoid so she didn’t really have hard feelings. Lana would be a different story though. All of the girls had suffered because of Renea’s condemning whispers. Fucking snitch. So that’s who Lana had been following!
+
+No wonder she wanted to go alone.
+
+“And you have no reason to trust or help me…”
+
+That Viv could agree on.
+
+“But please, please, Lana needs help.”
+
+A distant pulse of blue magic made both of them look towards the central island.
+
+“Speak. Fast.”
+
+“Lana came to the Azure Lady for answers. She got many, but the Azure Lady decided that she was ready for the Trial of the Tide.”
+
+Renea stood there like a big fat idiot, waiting for Viv to react. Viv lost patience first.
+
+“What’s the trial? Come on.”
+
+“Yes! Sorry. It’s my fault. It’s my fault! Lana recognized me. She came to me. I should have warned her that the lady isn’t well! She doesn’t experience time like we do.”
+
+“The damn trial.”
+
+“Yes! It’s an ancient rite of passage for Shaded Lands casters.”
+
+“Renea, so help me Neriad, if you don’t —”
+
+“Plunged in water and have to breathe through mana alone!”
+
+Renea froze. Viv froze as well, but only for a moment.
+
+“The Azure Lady is drowning our friend?”
+
+“Yes!”
+
+“What the fuck.”
+
+Renea’s words reeked of truth and terror but Viv had to be sure, because if she started crashing down the palace and it turned out to be deception… She grabbed Renea by the collar. The poor woman yelped. She was so light, Viv had no difficulty lifting her in front of her eyes. The girl was all bones.
+
+“If you lied to me…”
+
+Draconic intimidation smashed into the girl with unusual fervor. Renea’s mental defenses crumbled on the spot, forcing Viv to step back. She’d expected a wall and found a paper curtain. Now, Renea was weeping on the ground.
+
+Think fast, Viv. Wasting fucking time here.
+
+“I believe you. Stand up. Stand up! Good. Warn Sidjin in my ship. I’m going.”
+
+Renea painfully dragged herself to her feet. The move cost her.
+
+“I can guide you to —”
+
+“GO!”
+
+Fuck. Fuck! What was wrong with the old monster? Lana wasn’t trained as a Shaded Lands mage. And she hated feeling trapped or powerless! She was only supposed to get some guidance, not go through some ancient rite of passage. Hello? What the fuck was happening?
+
+Viv didn’t need a guide because she could feel a ritual being conducted near the palace. It was a matter of seconds to put on her battle robe. She would probably need them. She also held her focus.
+
+Might need to upgrade that soon.
+
+She flew through the window before her mind could remind her she might be going against an ancient archmage at the heart of her power. The compound was quiet at this hour. It wouldn’t stay so for long. The fresh wind dissipated the last wisps of sleep from her mind. She flew to the central structure, pushing the gates opened with telekinesis. There was some basic resistance, but she smashed through anyway. A shiver rolled across the interior of the palace, like someone waking up with a jolt.
+
+There were stairs down on both sides. She knew she was supposed to go left, because Fantos’ frowning face stood in her way. The irate blademaster barred her way in an instant.
+
+“Halt! You may not approach the sanctum!”
+
+“Where is Lana?”
+
+“Do not interrupt us, interloper. I said stop!”
+
+“Piss off.”
+
+Viv’s strides didn’t stop. Fantos unsheathed a ling saber with a curved blade. He sneered.
+
+“I knew we shouldn’t have —”
+
+Viv raised her knife focus just as Fantos manifested blade intent. The feeling of being cut left the aftertaste of blood on her tongue. With her other hand, Viv built a kinetic hex. This one was going to hurt.
+
+Fantos roared. A blade of light cut through the air itself.
+
+Solar could probably do better with his big toe.
+
+“Cute.”
+
+Viv’s hyperbeam dissipated the sword. With a cry, Fantos parried high, where Viv had been aiming. The blade cut through her spell.
+
+She walked into his guard and placed her hand against his flank, releasing the push spell in a single, smooth movement. Fantos was punted across the room, through a window, and then out towards the sky with a sonorous woosh. Viv didn’t break her stride. Down the stairs she went. Another wave of blue mana pulsed from below. A thick marble door blocked her way. It was unlocked. Beyond was the surface of the water, a black mirror made viscous by the power that held it in place. She couldn’t see anything beyond. She was already below the ocean. This might lead her deeper.
+
+Lana might be dying.
+
+Viv stepped in. Ocean water embraced her, soaking through her robes, chilling her skin. Water wormed its way into her nostrils and she could feel the salt tickling her open eyes. Just like she hoped, the tendril of power dragged her down. It was good news. It had to be good news. The primal part of her brain just refused to believe it. It told her she was trapped, caught in the muted and suffocating depth of the moonless expanse. Her night sight had nothing to reveal except for dark water, Even her mana sight was no longer of any help, because everything was blue. Even her soul sense failed her, because everything reeked of her. The only hope left to Viv was to wait and pray that this isolation would stop.
+
+Viv kept sinking in complete darkness.
+
+Lana was dying. She was sure of it. Only this firm belief kept Viv going through the downward spiral, but then, her mind caught up to her. She looked down.
+
+Faint blue lights surrounded a sunken, rectangular structure like a bunker suspended in the void by stone ballasts and the will of its mistress. Its surface was carved with runes that glowed with a soft radiance. Viv counted the seconds before the tendril dropped her at a delicately inscribed gate, the water pressing her against the unyielding stone. It was locked. Viv could see the charms keeping the hinges in place. It was time to knock.
+
+“Excalibur.”
+
+The void blade went through the stone and the magic as if they were not there. The structure shuddered at the intrusion. Viv’s first steps through the forced opening turned into a stumble. She wasn’t welcome here. The water soaking her dress failed to evaporate as it always had done before. Drenched, she raced to the center of the secluded room. A shimmering prison as bright as a summer sky occupied the center of an elaborate construct. It was shaped like an egg, and in it, the convulsing form of Lana struggled to stay alive. Her elegant blue dress clung to the short girl like a shroud. Agony twisted her features from shock to pain and back again when panic grew too overwhelming. A flash of lucidity let her recognize Viv. A small fist punched against the prison, to no avail. It was not just a prison too, Viv realized, but a sort of concentrated chamber. The pressure on Lana’s core had to be tremendous.
+
+Lana was instinctively turning some of the blue mana into oxygen when she managed to regain her self-control, but it was a fickle thing. She was breathing water into her lungs with each terrified gulp.
+
+Viv rushed forward. She grabbed her focus knife and cast the densest Excalibur of her life. The voracious spell bit into the egg.
+
+A monstrous burst of annihilation drove into the construct. It was a stiletto plunged into fragile fabric. The blade pierced through several layers of enchantment. The reaction was instant and colossal. Blue mana flooded the room like a purifying wave.
+
+“Deadland Domain.”
+
+Viv saturated her surroundings with black mana, breaking the spell. The corruption spread until what had been a tide turned into just water that drifted down the clammy stone.
+
+“Stop,” a voice warned.
+
+“No. Release her.”
+
+The void blade returned. Viv coated herself with her strongest armor. Scales erupted along the thick greaves, the ornamented vambraces. She pushed back against the wall that was the Azure Lady’s presence.
+
+“STOP,” the voice warned again, louder, yet in the same tone.
+
+That bitch wasn’t listening. Viv was going to get her attention. Her full attention, this time.
+
+[Aspect of the Paragon.]
+
+Viv grabbed her own soul. She pushed herself against the indifferent defense that had to be one of the Azure Lady’s many ways of managing her humans. Draconic intimidation flared to its maximum. Lana was hers. HERS. Not a toy. Not some process to be handled. She was Lana, and Lana was hers.
+
+“I said, NO.”
+
+Black mana bloomed, crashing against the wall, and Viv remembered the obvious. Night and the abyss had black mana too. Her presence unfurled like a flower. The soul of the old idiot receded against the black star of Viv’s will. Around them, walls cracked from the sheer pressure. The egg buckled.
+
+Viv buried her sword in the egg. For an instant, it was pierced and she could see Lana’s shaky grasp, covered in droplets, reaching out for rescue. It closed on her before Viv could grab it.
+
+The powers equalized. Black mana was pushed back. She was still only the second presence under the ocean. A face, then the rest of a body manifested ex-nihilo. Glacial orbs opened. They found her.
+
+“Release her,” Viv demanded.
+
+The Azure Lady had the audacity to blink. Only then did she find Lana’s panicked body. The blue mage had regained some measure of control, clinging to the tiny glimmer of hope Viv’s presence had brought. She was still struggling, her calm hanging by a thread of fraying self-control while salt water ravaged her lungs.
+
+“She undergoes the Trial of the Tide.”
+
+“I don’t care. Release her.”
+
+“The ritual is important…” the Azure Lady muttered, seemingly lost.
+
+“Did she consent?”
+
+Again, Viv was losing the woman’s attention.
+
+“The ritual is important. She undergoes the Trial of the Tide.”
+
+“Did. She. Consent? Is she here out of her own free will?”
+
+Lana shook her head until black hair formed a messy halo around her head.
+
+“The ritual is impo—”
+
+“You will listen, or I will make you listen.”
+
+“She must undergo the trial.”
+
+Viv sidestepped the figure, but a wall of water followed her.
+
+“Thou incur my wrath.”
+
+“Fuck your feelings, you insane bitch. Release her. You don’t have the right!”
+
+Behind Viv, the tendril delivered two confused figures one after the other. Lana’s panicked gaze turned to Sidjin and Rakan as they stepped forward. The Azure lady didn’t react to their presence.
+
+“Water prison, advanced,” Sidjin said with a calm Viv didn’t feel.
+
+“It smothers everything but blue mana. Colorless mana should work. I got a construct that will help,” Rakan stammered, fingers already forming a spell. “Lana, you need to cast this…”
+
+“No. Pain management first. Here,” Sidjin said, forming another one.
+
+He addressed Viv with a quick yet controlled voice.
+
+“We’ll get her through this. She will need to focus with no distraction, so I need you to get the Azure lady away from here. Can you do that?”
+
+A kinetic spell dispersed the form of the Azure Lady into a trail of droplets. A sense of foreboding doom filled the room. Viv blocked water tendrils with a transparent shield.
+
+“Yeah, I can do that.”
+
+She smashed through the room’s ceiling into the dark waters above, hounded by the presence of the blue elemental. The old monster’s consciousness followed her with ponderous inertia. Viv still hadn’t deserved her full attention.
+
+Viv broke through the surface of the ocean at top speed, and the ocean followed. Viv flew up to the night sky with a geyser behind her. That geyser had a face and it was aiming straight for her, a rather stressful experience considering the size of the thing.
+
+[Aspect of the Guardian]
+
+She cast a shield, splitting the face in two like waves upon a rock, but the water clung to her and she was forced to abandon the spell. The split water turned into twin snakes that raced through the air, aiming for her sides, and both bore the Azure Lady’s features. Astra spells failed to do anything more than disturbing the water. She was forced to fly higher.
+
+“Shit.”
+
+Higher she went, hounded by an ever-rising lake of churning waters. Her attacks failed to penetrate the thick water shield. It reformed almost immediately. Lighter spells hit Viv as well but her defenses stopped them all. It didn’t comfort her, because the drain on her resources was significant.
+
+The most annoying thing was still that the Azure Lady didn’t take her seriously. She was still facing just a facet, just a piece of the woman’s full gaze. Even children scolded by their mothers could claim more attention. It was infuriating.
+
+The two danced higher and higher, soon leaving the bubble of calm surrounding the palace. Viv was fully clad in darkness now, a dark dot on the dark background of tonight’s storm cloud. The Azure Lady was a lake above the air, an expanse of water over a much larger one. The two fought with barrages of spells that the other either dodged or ignored. Finally, a monstrous series of frost-tipped arrows forced Viv to teleport. The Azure Lady immediately located her. How could Viv even hide when the air itself was wet and belonged to the enemy?
+
+The sight of the hostile world under her gave Viv Vertigo. From horizon to horizon, the world was a tapestry of angry waves topped by rageful froth. There was nowhere to hide. Nowhere at all… and yet she was still alive. Still fighting.
+
+Viv found herself upside down, a black-armored queen of scales and darkness with feet merging into the night above. Facing her was the Azure lady, all in blue and white. Their eyes met.
+
+That bitch still wasn’t there. Time to remedy this.
+
+The blue elemental archmage’s face split to swallow Viv, who this time approached instead. At the last moment, she paused.
+
+[Aspect of the Destroyer]
+
+[Guillotine]
+
+Claws like tears in space raked the screaming face. The annihilation blade bit deep into the resisting face and for the first time, the face reacted. It pulled back. So did Viv. She could barely believe her eyes.
+
+Had she wounded her foe? Finally? The two returned to being two titans floating over the water palace (Viv was just a smaller titan. A much smaller one).
+
+Slowly, the Azure Lady reached for her cheek. She touched the black veins now marring the immaculate skin. A pensive expression washed over the indifferent features.
+
+She frowned, such a human gesture.
+
+For the very first time since Viv had met her, the Azure Lady looked alive. She frowned, and she blinked, and she glared, and Viv finally felt the weight of her attention settle on her soul. One of Viv’s titles kicked in, flooding her with renewed energy. It was ‘Always a chance’. It only worked when she was fully outclassed. The Azure Lady was finally here. The full force of her attention collapsed on Viv like a building. She was already surrounded. Even here, midair.
+
+“What a naughty child thou hath proven to be,” the woman whispered.
+
+“Release her. She is not yours to dispose of like a goddess. I will stop you.”
+
+“No one can stop me here.”
+
+“I have met many beings who believed that. They’re dead now.”
+
+Viv switched to the [Aspect of the Paragon]. She allowed the lady to taste the truth of her words, but the old one remained unfazed. She was here, fully here, for the first time. Her body finally moved naturally. Her scowl was the genuine thing, this time. Viv wasn’t sure if she should feel flattered or terrified.
+
+“Methinks thou must learn a lesson.”
+
+Viv’s core pumped out waves of mana with ever-increasing volume. She saluted with her focus.
+
+Finally, a challenge that might kill her.
+
+“Bring it.”
+
+***
+
+The Azure Lady did. The wave she was made of turned into an icy mist, and Viv was forced to flee before the onslaught. What was the sea became the clouds, an arctic fog that turned the air around it to crystal-dust. If the Azure lady had fully been here from the start, Viv would have lost. If they had fought near the sea, Viv would have lost. In mid-air though, with Viv used to the attack patterns, she had enough of an edge to stay a step ahead. Ghostly limbs like grasping branches reached for her dark shape, sprays of water whistled past her, eager to pin her like a butterfly. A single contact and she knew it would encompass her and bring her down. It was all she could do to fly and shadow-shift her way out. She was a wasp pursued by a whale, and her stinger was entirely inadequate.
+
+If her attacks had done little before, now they were useless. Torrents of spells that could have leveled a city hissed against the infinite surface of a living ocean. Even her most potent hexes drowned in the immensity of the Azure lady’s mass. Nevertheless, her power grew with every second of desperate combat. Beams became columns, then celestial pillars as wide as a ship. Reality wailed when they thrust at her target. Great black swathes defiled the purity of the clouds, yet it only lasted a moment. They, too, were drowned. Astra explosions sent shockwaves coursing through the cloud mist, yet it reformed immediately. She was a child beating the shore with a wooden stick.
+
+It wasn’t a fight Viv could win. She persevered anyway. Black mana filled her body, rampaged through her limbs until she was so strong, stronger than she had ever been, and it all amounted to nothing. The Azure lady was not just on her home turf. She was also just that powerful.
+
+It was ironic, then, that the home turf element was what ended the fight as a draw, rather than the lesson the Azure Lady intended. The cloud suddenly froze where it was between the stormy sky and the tumultuous seas. In the distance, a blur caught Viv’s eyes.
+
+The sphere of calm where the palace stood was slowly collapsing. As the Azure lady stopped attacking, its boundaries reformed. It was slower than Viv expected. The mask that was her foe’s face turned to her, showing an expression of concern.
+
+In the brief calm, another shape approached at good speed. Viv recognized Sidjin, who had kept a distance. The archmage was dry under a bubble of colorless mana. His voice reached them over the howl of the wind.
+
+“Stop! Stop, it’s over. Lana completed the Trial of the Tides.”
+
+The way the face frowned told Viv the Azure Lady was still here, and this time, she was fully human. Her voice came as a garbled declaration, like God talking through a shitty loudspeaker.
+
+“Thou are still a child.”
+
+Viv was going to get that lesson anyway.
+
+“Still very much a human. Still unaware of your nature, denying its presence as you play with mortals. Thou must grow, or never find your path. Thine meager understanding will beget calamity, unless thou act.”
+
+With all the huffing majesty of an angry cumulonimbus, the mighty lady returned, shrinking back to only jetliner size. Viv was left alone in the great dark. Well, Sidjin was here, but he was patiently waiting on the side.
+
+This had indeed been an eye-opener. Not in the ‘I don’t know my nature’ kind of way though. The Azure Lady was completely wrong, and an idiot as well. Her way of knowing herself was contemplative as befit a blue elemental archmage. The lady liked meditation and the like because it fit her shade, just like Elunath had ensconced himself in Helock like a fossil, expanding his area of influence over the stone city.
+
+Black was the color of change and destruction. Viv was doing a ton of both with no intention of slowing down. She was doing just fine.
+
+No, the lesson was one of… methods. While her spell collection had done great so far, and she’d mastered each and every one of them, they were still spells designed for a human caster. Even Guillotine was just an upgrade of Excalibur, one of her older creations. She needed new spells, the kind of spells that could actually take down the sort of entities that would be a real threat. She wasn’t going to face just insane necrarchs, or juvenile dragons with no training in the future. No, she needed stuff that only she could cast, and even then fully powered by her titles. The kind of heavy ordinance that would give even Judgement pause. She was already the strategic asset for her nation. They relied on her for the most powerful foes. Viv needed to become the sword that scared even the most dangerous of opponents. She needed god killers.
+
+Never again would an elemental archmage casually snatch Lana, or anyone for that matter.
+
+She had annihilation, change, and the soul sense skill at her disposal, after all. It was time to get creative. But first, she would check on Lana. And have a talk with the Azure Lady on boundaries. The rest could wait.

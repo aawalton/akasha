@@ -1,0 +1,479 @@
+---
+id: b4bc2a47-d859-581d-a05e-380f8f7b2aab
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY-THREE: You A**hole"
+slug: 0084-eighty-three-you-a-hole
+partOf: super-supportive
+position: 84
+ownLength: 4298
+unit: words
+publishedAt: 2023-10-19
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1379616/eighty-three-you-ahole"
+royalRoadId: "1379616"
+---
+
+83
+
+Alden breathed a huge sigh of relief when conversation class was over. Lute had refused to talk about the weather and had insisted on playing, “Guess how I lost my eye?”
+
+It was a game that was not improved by Alden’s embarrassment over assuming the eye patch was a costume, nor by Lute’s limited Artonan vocabulary.
+
+Do you think my eye is juice like wevvi fruit? Do you think grandma takes it and eats it?
+
+“Something is wrong with all the Velras,” Alden said as he took the stairs down to the ground floor.
+
+By the end of the period, Lute had been in hysterics, and Alden wasn’t even sure the Velra boy had lost his eye. He’d lied about his own name after all.
+
+But he couldn’t accuse him of having a twisted sense of humor because what if he was wrong? Again.
+
+Was it the blowback from the gloss?
+
+Lute had been worried at Hannah’s funeral that he was going to lose his fingers. Had he lost an eye instead?
+
+He was mad at his grandmother for sure. Even madder than before.
+
+And if the whole thing wasn’t just some sick joke, then…yeah. Who could blame him? Aulia lost a council seat, and Lute lost an eyeball?
+
+Alden had frantically tried to look up whether or not human Healers could regrow eyes while Lute joked around. They couldn’t. They could fix injuries, but not serious destruction. So it was possible…You’d think the Velras could get an Artonan to grow him a new one. Maybe they’re not as well connected as people think? Or Aulia’s well connected, but she doesn’t share those connections with every family member?
+
+Can’t Lute get a bionic?
+
+Alden comforted himself with a peanut butter mousse cup Natalie had made while he took a walk around campus. Konstantin had sent him his official invitation to a party on Friday. Alden was supposed to bring his favorite mocktail ingredients.
+
+He turned toward Celena Circle. The high school’s main green space wasn’t crowded, but there were a few groups of friends enjoying lunch together on the lawn.
+
+“Call Boe.”
+
+He swallowed another mouthful of peanut butter before he made his decision about the day’s conversation topic.
+
+“So I’ve told you good things about Anesidora and bad things about Anesidora, but today let me tell you something that’s just funny. They take mocktails really seriously. And they think that’s normal. Like we have coffee shops where nobody bats an eye if you order something with eight ingredients and a specific kind of foam? They’re the same way about mocktails. Someone asked me what kind of cherries I wanted to garnish my glass the other day, and there were three different choices. It’s hilarious. But I could get used to it.”
+
+He scraped his spoon against the sides of his mousse container, and when it was insufficient to the job, he gave up and licked it.
+
+“I really enjoyed sharing my magic food with Jeremy,” he said. “And you didn’t get any. Because you’re a terrible person who ran away from home, and you refuse to answer your phone. I’ve left you more than sixty messages. Yes. I’m counting.
+
+“I’m scared for you, jerk. If you’re not careful, you’re going to get downgraded from best friend to slightly less best friend. Be warned.
+
+“In other news, I met another Velra today. This one was nuts, too, but he didn’t use his powers to blow a wordchain I was saving for myself. So I think that puts him at number two on my personal Velra ranking list.
+
+“I hope you’re safe. I’m going to…to…”
+
+The insulated metal cup Natalie had packed the mousse in fell from his hand. It clanged as it bounced against the sidewalk, but the loud noise didn’t even register. The words scrolling across the bottom of Alden’s interface stole every last speck of his attention:
+
+[voice call connected]
+
+Say something. Keep him here.
+
+“Boe? Boe, if that’s you, please don’t hang up. I—”
+
+“Alden, you’re alive?” Boe’s voice was a whisper. “Are you really…are you okay?”
+
+Alden was so excited, he shouted out loud. “Am I okay?! Boe, where have you been? Where are you now?!”
+
+“I’m…um…I think that I’m…” Boe sounded frazzled. He took several deep breaths.
+
+“Are you all right?” Alden demanded.
+
+“Yeah, I’m fine,” Boe said. “You’re alive. And…do you have an apartment on Anesidora now? Is that right?”
+
+“Have you really not been getting my messages?!”
+
+“No. I haven’t. I was…are you somewhere private?”
+
+“I’m standing in the middle of campus.”
+
+“You’re in school? On Anesidora?”
+
+Holy crap, he really hasn’t gotten a single one.
+
+“Yes. It’s my lunch break. Who cares? Can you tell me where you are?”
+
+“Let’s…okay, Anesidora…let’s not talk while you’re out in public. Go back to your apartment. Call me from there.”
+
+“Stay on the phone with me!” Alden commanded. He was already sprinting toward the nearest bus stop. “Don’t hang up.”
+
+“You’re really all right?” Boe asked. He was still taking such deep breaths that Alden could hear them. “Where were you? Did you get hurt? What happ—?”
+
+“I’m fine. I’m completely and totally healthy and fine and good. I’ve been home for two months. Well, not home. But here on the island, and oh my god, the timer for this bus says it’s going to be fifteen minutes. I’m going to run to another stop. Don’t hang up.”
+
+“…how long will it be until you get to your place from wherever you are?”
+
+“An hour. Maybe a little more if traffic’s bad. I can find another quiet spot to talk.”
+
+Boe didn’t say anything for a second, and it was only the “call connected” notice that kept Alden from panicking and thinking he was gone.
+
+“Are you all right, Boe?”
+
+“Well, I’m a lot fucking better now that you’re not gone,” said Boe. “I’m sorry, though. I do need to hang up on you—”
+
+“No! Why would you—?”
+
+“I need to collect myself.”
+
+“Collect yourself while I listen!” Alden didn’t care how weird that sounded in the heat of the moment.
+
+“No,” Boe said. “Sorry. I need the hour. It would be better if I had even longer than that, so don’t break your neck trying to get to your apartment. I was so shocked when I saw your name…I answered before I’d even thought it through.”
+
+“Don’t hang up on me! Please! Boe, just mute me or something!”
+
+His friend laughed shakily. “You made me think you were dead for half a year, you dick. I think you can give me two months and an hour.”
+
+The call disconnected.
+
+********
+
+******
+
+Contract Park Middle School
+
+Chicago, Illinois
+
+five years ago
+
+*******
+
+*********
+
+Middle school was going to be different for him.
+
+Aunt Connie had said so, but she didn’t have a great track record on the advice front. Counselor Davis—Call Me Maggie!—had said so, but she was part of the reason elementary school had ended on a sour note. Even Coach Randall had said so, but he had also said he couldn’t let Alden play in many games because he sometimes showed up late for practices.
+
+When he didn’t know Alden was listening, he’d told the assistant coach that it was because the other kids’ parents always came on game day. And it was a shame if they didn’t get to see their children play.
+
+So baseball was out. And counselors who came into the school during the last half of fifth grade and then babied you were even more out.
+
+Everyone had only just started to forget that Alden was the one who got all the careful treatment in third grade. They’d only just stopped being afraid of the weird, scary kid he sometimes was in fourth. But fifth grade had been going well. The teacher hadn’t forced a single heartfelt talk on him, and she hadn’t told anyone to be careful of what they said around him.
+
+Then Call Me Maggie had to arrive and be conspicuous about the fact that she considered him to be one of her special students. She was so proud of his good grades! Go Alden!
+
+Like she had anything to do with any of it. The old counselor had been helpful and professional. She’s supposed to be a guidance counselor. Not a therapist. But she just breezed in and acted like she knew all about me, and—
+
+No. He wasn’t going to get mad about it again. He wasn’t going to stew over it. Not any of it. He wasn’t someone who did that anymore.
+
+Middle school was going to be different. Because he wanted it to be.
+
+And Hannah Elber had said she was confident in Alden’s ability to make it different.
+
+His phone was full of pictures from his day trips to Anesidora that summer. He had been invited to the island by a real superhero. That wasn’t something many people could say.
+
+And she’d had him back a second time. She had even let him try on her motorcycle jacket.
+
+It didn’t give him powers. But she was cool.
+
+Sixth grade was his for the taking. He had a new sky blue backpack he’d picked out with Connie during a last minute school supply shopping mission. And he hadn’t spent a single night recently thinking about those pictures of Body Drainer’s body—never, ever think about those again—or staring at message boards and hating people like wakeuptheresbacon for badmouthing his parents.
+
+His tinnitus even kind of went with the music he was listening to on his headphones as he slipped into his new classroom and looked around for a good seat.
+
+I can make it different. I can make myself different. I can be better.
+
+He was going to start by making a friend in homeroom.
+
+He decided right away that the left side of the classroom wouldn’t work. Terry Millikan was over there with one of his friends. Nothing was wrong with Terry, exactly, but Terry had come over to Alden’s house once last year and then called his mom to pick him up early because there was a roach trap in the kitchen and a single beer in the back of the fridge. Terry thought…Alden wasn’t sure what he thought.
+
+It wasn’t like Alden was allowed to drink the beer. It was just sitting there in the fridge not bothering anybody. And the roach trap was there so that roaches wouldn’t bother anyone either.
+
+The classroom wasn’t full yet. There were a few girls on the other side of the room and a boy in the back corner.
+
+That’s a really ugly scarf, Alden thought as he examined the lumpy woolen object and its owner.
+
+Maybe he had tried to knit it himself? Did people their age knit?
+
+Alden could be friends with a knitter.
+
+He took the desk next to him. He spent a long time pretending to organize the supplies in his backpack, hoping his new friend would introduce himself first because then it would be easier. When it didn’t happen, he took a deep breath, and—
+
+“F-fuck off,” the boy said under his breath.
+
+Alden blinked.
+
+“I don’t want to talk to you,” the boy said.
+
+“I haven’t even said anything yet!” Alden protested.
+
+“Keep it that way, d-dickhead.”
+
+He whispered the word “dickhead,” too. It was like he wanted to swear like a grown up, but he was embarrassed to be doing it at the same time.
+
+Change of plans, thought Alden. The knitter has issues. I need a different desk.
+
+He picked his backpack up again…only to realize an unfortunate thing had happened while he was hoping that the other boy would start the conversation for him. Almost all of the seats in the room had been taken. The only ones left were over by Terry’s group.
+
+Alden hovered over the desk indecisively.
+
+This wasn’t going at all like he’d hoped. The scarf boy was hostile. He wasn’t great at being hostile, but he was obviously trying hard to be mean and that wasn’t normal.
+
+Terry Millikan though…
+
+He’d been polite when he said he had to call his mom and leave. But something about it had made Alden feel bad about himself, his aunt, and their house.
+
+The knitter swearing at me just makes me feel like the knitter has his own troubles. Not like he’s judging me.
+
+That was preferable. He sat back down.
+
+“Hi! I’m Alden.”
+
+“I don’t care.”
+
+“What’s your name?”
+
+“I said I don’t want to talk to you. I don’t want to talk to anyone. You…you a-assho—”
+
+“It’s asshole,” said Alden. Connie and her friends swore a lot. It wasn’t something he usually did because it upset a lot of people when an eleven-year-old swore, and he tried hard not to upset people. “You’re trying to call me an asshole. You asshole.”
+
+He smiled.
+
+The other boy looked surprisingly horrified, considering he’d started this whole thing. He turned around in his seat and stared at the board. He seemed to be attempting to retract his head into the folds of his scarf to hide himself from Alden.
+
+Alden felt pretty sorry for him. Clearly whatever impression he’d been attempting to make had gone awry.
+
+Scarf kid whipped back around and glared at him, nostrils flaring. “I don’t want you to pity me,” he spat. “I don’t need you. Go sit with those other assholes you keep staring at.”
+
+Now it was Alden’s turn to be surprised. If he’d made that face and spoken in that voice when he was trying to run Alden off the first time, instead of whispering “dickhead” like he’d only just learned the word from a dictionary, Alden would have fled.
+
+So he does have a really scary setting? And a fake scary setting. He’s strange.
+
+“Isn’t your scarf hot? It’s summer.”
+
+“Don’t make fun of me!”
+
+“I’m not. Did you knit it yourself? It’s neat if you did.”
+
+“Go away.”
+
+“You go away.”
+
+“I have to sit in the corner seat. I ran here just to take it.”
+
+Elementary School Alden had liked corner seats, too. Maybe Middle School Alden, who was going to be different, should try the middle of the room. Surrounded by people.
+
+“I like it here. I’m Alden. Wait…I already said that, didn’t I?” He set his backpack down. “I won’t bother you anymore. We can both sit here and not talk. That’s fine with me. We change classes in sixth grade anyway, so you can sit wherever you like for the others.”
+
+The boy pressed his lips together and said nothing.
+
+When the teacher called roll, Alden found out his name was Boe Lupescu. They all stood up to say something about themselves, and Alden said he might like to be a superhero if he could one day. He’d decided this summer. After visiting Hannah.
+
+A few people laughed. It turned out they were supposed to be too old for that this year. You couldn’t just dream of being chosen by the System anymore.
+
+But everyone was saying stuff like that before summer break…
+
+Fifth grade and sixth grade—miles apart after all. He suddenly felt like he’d missed out on something by having mixed feelings on the topic of superheroes in the years since the disaster. He wouldn’t say it aloud in class again.
+
+When Boe stood up, he said his last name was Romanian, then he sat back down. Two seconds and done.
+
+Someone laughed at him, too.
+
+Alden felt sorry for him again and tried to catch his eye. But Boe refused to look at him.
+
+It’s all right, he thought. I’ll make other friends.
+
+And that was how the school year began.
+
+By the end of the first week, Boe Lupescu had developed a real knack for alienating people. He didn’t even use swear words to do it after his misfire with Alden. He ignored classmates when they tried to talk to him. He answered robotically when he had to. Then, if anyone dared to keep bothering him, his mouth started spraying acid.
+
+Their classmates began to avoid him. Then they talked to other people, who avoided him, too. Boe was rapidly becoming one of those kids everyone knew it was okay to hate.
+
+The weirdo with the bad temper. Nobody likes him, so it’s fine not to be nice to him. It’s normal to be mean to him.
+
+This was a problem. Alden had to start avoiding Boe, too, or he wouldn’t be able to make friends.
+
+But…
+
+“Why don’t you just go hang out with them?” Boe slammed a locker so hard it made Alden jump. He pointed down the hall to where some of their classmates were standing in a group laughing at videos on one of their phones. “You want to, right? Go.”
+
+“You spoke to me!” Alden exclaimed.
+
+Boe stared at him.
+
+Alden grinned. “I haven’t said anything to you. Like I prom—”
+
+“You asked me if I knitted again on Wednesday.”
+
+“And you didn’t answer! I haven’t said anything since then.”
+
+Boe clenched his jaw.
+
+“I don’t mind being quiet if you just hate talking,” Alden said.
+
+“Why?”
+
+Alden knew why, but he didn’t know how to explain it. Boe was angry, but he wasn’t a bully. He never sought people out to be mean to them. Like a human cactus, he only stabbed if you grabbed. But it seemed like he considered any form of interaction to be a grab, and other people didn’t get it.
+
+“If you don’t let people talk to you, most of them take it really personally.” Alden felt like he had to at least try to get the idea across. “They don’t understand why you’re being that way. So they start to hate you.”
+
+“Good.”
+
+“You won’t have any other friends.”
+
+“I don’t want any friends.”
+
+Alden glared at him. “Well I do. At least one.”
+
+Boe raised an eyebrow and pointed down the hall again.
+
+Asshole. Asshole. He really is one, Alden thought, marching away to watch the video with the other boys. I bet he doesn’t know how hard it is to fix how people see you when they’ve already got opinions about you in their heads.
+
+******
+
+At the end of September, the sixth grade took a field trip to Brookfield Zoo. Alden sat next to Boe on the bus.
+
+It wasn’t intentional. He wasn’t mad at his homeroom neighbor, but he’d mostly given up on trying to speak to him weeks before.
+
+“You don’t wear your scarf anymore.”
+
+“People kept pulling on it.”
+
+“Sorry.”
+
+Boe nodded once. That was the entire bus ride conversation.
+
+Maybe it’s for the best.
+
+Alden wasn’t in the mood for talking that day either.
+
+Everyone else was ecstatic to be out of the classroom. When they reached their destination, they broke into small groups and ran laughing from exhibit to exhibit. Alden trailed after them.
+
+By lunchtime, he wished he’d just stayed home pretending to be sick.
+
+“If you hate the zoo so much why’d you come?”
+
+Startled, Alden looked up from the bag lunch he’d been picking through. Boe was standing over him with an even more annoyed expression on his face than usual.
+
+How’d he find me?
+
+Alden had elected to sneak away from the group to eat his lunch behind a trashcan, so that he could have a minute to himself.
+
+“I don’t hate the zoo.”
+
+“You’ve been miserable all morning. It’s not like you.”
+
+“Go away.”
+
+“You go away.”
+
+“I was here fir—!” Oh. Alden stared down at his slightly soggy turkey and cheese sandwich. He swallowed. “I do like the zoo.”
+
+Boe Lupescu sighed and stalked away.
+
+Great talking to you, asshole, thought Alden. I guess we’ll do it again in a month.
+
+Five minutes later, he heard footsteps that were more like footstomps, and Boe appeared around the trashcan again. He thrust a paper plate with a funnel cake on it under Alden’s nose. It was covered in sugar and chocolate drizzles.
+
+“Funnel cake.” It was less a question and more a command.
+
+Alden would have been shocked if Boe had offered him a pencil stub. An entire fried dessert was…
+
+“Is it poisoned?”
+
+“Yes.”
+
+Alden took it. Boe sat down beside him.
+
+They ate it in silence. The cake was huge. By the time it was gone, Alden had greasy, sticky fingers. And he felt a lot better.
+
+“My parents brought me here right after we moved to Chicago,” he said. “I think they wanted to make sure we did something fun together as soon as possible, so I wouldn’t miss my old school or my friends.”
+
+Boe was trying to wipe chocolate sauce off his glasses. He didn’t answer.
+
+“I have good memories of the trip. Happy, but it’s not just that they’re happy. They’re really clear. I remember what I saw here and what my parents said about the different animals. And now they have to be all mixed up with this day…and everyone just wants to talk about poop and how earth animals aren’t as interesting as alien ones and how the anteater’s nose looks like a penis.”
+
+Another minute passed.
+
+Alden waited. He thought Boe would probably say nothing. Or maybe something mean. But it would be nice, wouldn’t it? If he didn’t…
+
+“My favorite thing about the anteater is that it eats tens of thousands of ants every day,” Boe said. “Ants suck. And anteaters suck up ants.”
+
+Alden smiled.
+
+“I wanted to hear the guide talk more about them,” Boe added. “And I wanted to actually learn about dik-diks, but I couldn’t because everyone else was so busy being stupid about the name.”
+
+“They were really cute.”
+
+“They were.”
+
+“The name is…”
+
+“It’s hilarious. But people make dick jokes every single day in class. It's not like those are new. I’ve never seen a tiny antelope before, and they wouldn’t let me enjoy it.”
+
+“We could sneak off and go back on our own,” Alden said.
+
+The other boy looked down at the empty plate on top of his knees.
+
+“Or not,” Alden added hastily. “We’d probably make the teachers mad if they realized. My aunt isn’t going to mind if they tell her, but…you know…I’m sure your family cares more than—”
+
+Boe stood up suddenly. “Let’s go.”
+
+“Really?”
+
+“We’re still not friends. I can’t have friends. It’s just for today.”
+
+“Okay!”
+
+“You’re not listening. I just want to see the animals without everyone else around.”
+
+“I get it. Can we go to the Australia section by ourselves, too? They have wombats.”
+
+“You’re not my friend.”
+
+“That’s fine. Do you want to come over to my house this weekend?”
+
+********
+
+******
+
+F-city
+
+Anesidora
+
+present day
+
+******
+
+*******
+
+Alden remembered how just a couple of months ago, after waking up in the forest, he had sent Boe and Jeremy text messages asking them to give him time to get back home to Earth and settled in before he called them.
+
+It had felt like a reasonable request at the time.
+
+But it wasn’t! Being on this end of it is torture. What if I call him in an hour, and he doesn’t answer?!
+
+And apparently Boe was still paranoid about having calls overheard. Fair enough. There were people running around in the Informant’s wearables, and residences like the apartment were supposed to be safe from those.
+
+When the hour was up, Alden was still on a crowded train zipping through F-city, and it was only the knowledge that he would be the worst kind of hypocrite that kept him from calling right that second. All the questions he’d had about where Boe was, and the fear that he’d been holding back by clinging to Jeremy’s assurances that he had sounded fine on his last phone call, were welling to the surface.
+
+<<You seem nervous, dear,>> a woman with graying hair said in Cantonese. <<Are you all right?>>
+
+Alden realized he’d been swaying in place like some anxiety-stricken cobra. He tightened his grip on a handrail and tried to hold himself still.
+
+Just as the train reached the last stop, a text message popped up.
+
+[What’s your ETA?]
+
+Alden felt so relieved he could have melted into a puddle.
+
+[Ten minutes,] he texted back. [At most.]
+
+Because he was going to run.
+
+[I’m going through some of your messages now,] Boe wrote. [Sounds like I have to off Jeremy and some poser named Stuart to re-secure my best friend position. Talk to you soon.]
+
+It felt like it took forever to reach the dorms. Then it felt like it took forever for the elevator to reach the ninth floor.
+
+Then, finally, he was walking through the door of his apartment. He locked it and set the Do Not Disturb notice.
+
+“Hey, Victor,” he said, carefully stepping over the cat as it weaved around his ankles. “Boe finally answered! We’re going to call him. And we’re not going to freak out or freak him out. Normal friend stuff.”
+
+That was what he’d wanted from Jeremy when he got back home.
+
+“It’s fine if we don’t even talk about where he’s been,” Alden muttered to himself as he headed toward the sofa. “Just as long as he’s okay and doesn’t run away again.”
+
+He took a deep breath.
+
+“System, call—”
+
+“You’re still the same as always,” said a familiar voice—maybe the most familiar voice in Alden’s life—from just behind him. “Aren’t you? And… you’re really alive.”
+
+Alden turned slowly to see a skinny, pale boy with dark hair in an ugly bowl cut stepping out of his bedroom. He was wearing ripped jeans and a black t-shirt with a skull on it. His hair was wet, and he was gripping a towel in one hand. It was dragging on the faux wood floor.
+
+“Boe.”
+
+*

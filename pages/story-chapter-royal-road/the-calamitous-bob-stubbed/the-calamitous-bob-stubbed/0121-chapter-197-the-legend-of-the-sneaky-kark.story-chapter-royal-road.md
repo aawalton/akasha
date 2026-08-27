@@ -1,0 +1,229 @@
+---
+id: de20e7b0-743a-52f1-b4d3-ca08ddb57272
+page-type-slug: story-chapter-royal-road
+title: "Chapter 197: The Legend of the Sneaky Kark"
+slug: 0121-chapter-197-the-legend-of-the-sneaky-kark
+partOf: the-calamitous-bob-stubbed
+position: 121
+ownLength: 3415
+unit: words
+ownProgress: 3415
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2126111/chapter-197-the-legend-of-the-sneaky-kark"
+royalRoadId: "2126111"
+markedReadAt: "2026-06-29T21:18:58.159Z"
+---
+
+The wind. It was always the damn wind that got to you in the end, if a silex arrow from a kark hunter didn’t poison your guts first. That damn wind just never stopped. Even when it did, your ears would ring from the sudden silence, the same way a starving child dies if you feed them rich food right away. It just wasn’t used to nice things anymore.
+
+The man clad in red leather sighed. His burly second spat on the ground with more anger than usual, then left to scream at the mounted infantry at the front. Those fuckers made the entire column eat dirt every time they slowed down. The red leather man grumbled at the tired army filing through the gap in the grass. He hoped they would find water soon. The Lutenese had learned, so now they didn’t leave without large cisterns pulled by teams of horses.
+
+The kark had learned as well. Just earlier they’d found a dead scout bled out on the ground, his foot caught in a cruel trap. This is what everything had been reduced to: half-baked expeditions searching for kark who laid traps instead of fighting like real people. Ridiculous.
+
+Used to be that thirty thousand eager folks crossed the border, in the first glory days. Entire families purging frontier villages to take what was rightfully theirs. Good, hard-working men and women inheriting Param as was their right. Used to be that Luten had balls too. Now only two and a half thousand men pushed to end the kark aggression where it should be twice that, and the mages, and the royal knights too. It was a miracle if they even got money to start the expedition to begin with. Dusty crops had left the Pure League weak and paralyzed with doubt. Not him. Not the red leather man. His brothers had gotten their titles and he would too, and no stinking kark would deny him that right.
+
+The man harangued the troops so that they walked faster to a cleared area of the steppes. It was possible to flatten a ring in the tall grass, but that meant scratching bug bites off your arse for the next five days. They had to reach that little vale over there so they could see better.
+
+The sun reddened. It was going to be short.
+
+Suddenly, a figure stepped out of the high grass to his right, by a line of spearmen. It was a kark woman, who stopped just as the spearmen jumped and brandished their weapons.
+
+The kark woman wore full plate armor made of steel, something the red leather man knew to be impossible. A massive tower shield covered her entire left flank while in her right hand, she carried a flanged mace that had seen a lot of action. She didn’t move. She didn’t speak. Instead, she glared with a rare intensity that made even his men — and the archers behind — speechless.
+
+What was going on?
+
+As suddenly as she had appeared, the woman brandished her mace, waving it threateningly in the face of the entire army, now confusingly stopped to watch her. A voice like a roar shook the plain.
+
+“SNEAK ATTACK! SNEAK ATTAAAAAAAAAAAAAAAACK!”
+
+An entire company of kark slammed into his baffled troops with a roar. They came through the grass like a hammer. All of them wore armor.
+
+“Shit. Form up! Form up! Archers, to the center!”
+
+What were the damn scouts doing? Fortunately, the red leather man had drilled his recruits until they responded to his orders. Pushed by his skill, the spearmen closed rank to hold the kark at bay. Blood flew, staining the fallen stalks. His men were dying. Those kark were in full armor, and they knew how to use it. It didn’t matter that the kark were their usual stupid straightforward selves. Who even screamed sneak attack before attacking? So incredibly dumb. The red leather man‘s fury ignited in his chest. He wasn’t going to be defeated by something so stupid.
+
+“Archers, archers! Right flank!”
+
+Vin the Swift guided them, her bow singing with every thrown arrow. Unfortunately, the kark woman just blocked them with a reliability that spoke of both skill and experience. The kark breached the first line. Now, they were a dagger driven into the expedition’s belly. Steel answered steel. Some of the cocksure spearmen who’d gotten used to kark silex tips now felt the bite of a forged edge breaching through their gambesons. It was not going well, but now his infantry surrounded the blob of metal kark while archers peppered them from the left flank. His mounted infantry was still in front, on their horses, being absolutely fucking useless. Should he tell them to dismount? Or charge? Probably neither.
+
+“Cavalry, pull back and cover the left front!”
+
+It was a good call. Unfortunately, it came just a moment too late.
+
+“SNEAK ATTAAAAACK!” an old voice screamed.
+
+From the left, a large wave of kark warriors emerged from the high grass. This one he recognized from previous campaigns, including the grizzled kark leading them, but this time, things were different. He wielded a red spear that shone like a ruby in the light, its point aimed straight at the Lutenese unprotected flank. The cavalry had not formed a screen over the formation’s soft center of supply carts and archers. The line of close quarter fighters was too thin to stop this!
+
+He’d been outmaneuvered by kark? Was the first ‘sneak attack’ merely a distraction? Impossible!
+
+“Sneak attack!” the old kark repeated, and his gathered troops charged in a tight mass of spears.
+
+Those had metal too. Dammit!
+
+“Faster! Faster, form up!”
+
+His burly second managed to rally his men at the last second, as the red leather man advanced towards the center of the formation where he could lead more easily. It wasn’t enough. Spears made short work of his mounted infantry, the horses panicking under them. Kark projectiles darkened the air above the army, falling on the unarmored chests of his archers. Where the cavalry didn’t cover, the kark just pushed through the lighter infantry to attack the exposed archers. It was a mess. He moved some of his reserves to stem the tide but that now left the front and back too exposed.
+
+“Archers! Left! Left!”
+
+His own men were too green to do much against the armored kark but the unprotected ones were still fair game. Better to leave the armored ones contained for now. Arrows found flesh among the less protected soldiers but those aimed at the old warchief were swallowed by a ball of black magic. Combat sorcery! From a kark weapon! Seeing as he was outnumbered, the red leather man had the formation slowly contract, his skill maintaining order despite the increasingly desperate struggle. Who the FUCK had given enchanted steel to the kark? Was it the work of that witch they’d met? Race traitor.
+
+The red leather man had his men finally dismount though he kept a small mounted group near the center. The line almost stabilized despite mounting casualties. Almost. But then the hammer fell.
+
+“Sneak Attack!”
+
+A line of pakar riders charged from the front. The red leather man saw it. He had all the time in the world to see that charge coming, but he had absolutely nothing left to stop it. All his men were committed one way or another.
+
+“Sneak chaaaaaaarge!”
+
+Arrows pinged against snout armor. Others found shields and muscular torsos, accomplishing little. A few spearmen tried to form a line, but half of them broke before impact.
+
+“For the Red Tribe!” the old kark bellowed.
+
+Less than two minutes after the beginning of the battle, a plume of voracious fire swallowed the red leather man’s burly second. The pakar charge smashed the center of his forces with barely any resistance before crossing the entire Lutenese formation from front to back, pushing carts, slaying runners, skewering archers, spreading chaos, and generally spelling an immediate end to any hope of salvaging this battle. It took a good ten seconds for the red leather man to accept the end of his dreams rolling over what was left of his command. The two flanks of the Lutenese formation fell apart with their backs exposed, and those that were near the back started running, weapons discarded. Even his tiny reserve of mounted fighters galloped away, hounded by whistling arrows. The expedition disintegrated. The last thing the Red Leather man saw of the battle was Vin’s body pinned to a cistern by three spears.
+
+He ran. He ran and he cursed. A line of kark tried to entrap him but he managed to rally a group of soldiers and break through, slaying a young kark warrior in his path. Hundreds of others escaped the battle while their Lutenese compatriots died where they were. As he raced away, his mind worked over time to figure out how to survive the inhospitable plain with the little water he had. He would have to ditch his soldiers, who would only slow him down.
+
+It was a strange feeling, running away from one’s entire life. The vertigo lasted only the time it took for a pair of swordsmen ahead of him to fall. Blades rose from the mess of trampled grass to bleed them.
+
+“Ambush!” he uselessly said.
+
+But the hunters lying in wait raced away. A man who tried to follow them — what was that fool even trying to accomplish? — caught arrows in his eyes for his trouble. Around them, more of the survivors collapsed and stumbled with knives in their guts and arrows in their necks. Those who stopped to kill the hunters became the center of attention of the archers. The only salvation was to run.
+
+Soon, the red leather man realized that hunters raced along the fleeing humans, picking them off without getting into range. The red leather man’s desperate attempt to gather people around him lasted only long enough for him to hear the rumble at his back. The pakar riders were going after them.
+
+“Into the grass!” he ordered, and what was left of his men scattered, screaming when the kark hunters got to them.
+
+The red leather man took a sharp turn left, then right again. Grunts of pain and battle faded little by little when he left the combat zone. Soon, he was left with the rasp of his breath, the pain in his legs, and the crushing weight of defeat on his shoulders. A bitter taste.
+
+He couldn’t face it now. He had to survive first.
+
+His steps led him further towards an incline, then up a grass-covered slope. The sounds of the steppes were muffled by a high wind. His command skill reminded him that there was an elevated spot in front of him from where he could look around, find a path through the kark trap. He needed a plan.
+
+The red leather man gulped precious water from his gourd, then winced when he realized it was already half empty. He would have to ration it, since the nearest water point would probably be guarded. Maybe some other survivors would make it there and he could make a plan. If they obeyed.
+
+He wouldn’t follow a commander who’d lost almost his entire army, that was for sure.
+
+The grass grew shorter as the approached the elevated space until it barely reached his knees over the wind-swept mound. Against all odds, he found himself face to face with a great misshapen steel cube with masts on top.
+
+It was such a bizarre sight that his mind blanked. The first thought he had was that he was already dead, and this was a strange vision of the afterlife. Soon, Enttiku would greet him with a smile, wearing a robe of metal.
+
+It took him more time than he would admit to figure out there were people on top of the cube. They were leaning against the railing while working strange magic. Saved! He was… but no, he recognized the kark fucker who’d blocked them. The woman had strange reddish hair, and eyes like pits. He was done for.
+
+She slowly floated down to him with her armored robes and her silly crown and that smarmy smile that made him want to hit her. Maybe he should try it? What did he have to lose?
+
+“I see you have found our little vantage point. I had a good view of your attempt from there.”
+
+“What do you want?”
+
+“Me? Nothing that concerns you. Her?”
+
+He heard it, even above the wind. The thump of heavy armor. The kark woman with the mace trampled her way through the trail the red leather man had left behind. She was going to kill him. He was done for.
+
+Wait.
+
+Wait, there was one thing left to do.
+
+“You and your ‘empire’ are sworn to Neriad,” the man said with a triumphant smile.
+
+“That is correct,” the black bitch replied.
+
+“Then… I surrender.”
+
+The kark woman stopped.
+
+The so-called empress blinked. The red leather man had her.
+
+“You surrender yourself to my judgment?”
+
+“To the judgment of Neriad!”
+
+“Very well, then I shall provide it. Marruk, attend me please?”
+
+The kark woman stepped by the black bitch’s side. She didn’t seem angry, which made the red leather man a little anxious. Surely, the black bitch wouldn’t risk the divine wrath of her patron to satisfy her kark-fucking grudge…
+
+“Although you are not mine to take as prisoner, I shall do so in the name of my allies, the kark.”
+
+He nodded.
+
+“For leading your soldiers in battle, for waging war upon the kark by order of your superiors, for killing soldiers in battle, I do not condemn you, though your cause is not a noble one.”
+
+“Says you,” the man spat.
+
+She nodded, as if conceding the point.
+
+“For slaughtering the innocent and the harmless, for killing children down to the newborn, their weaponless mothers, those too old to fight, and their cattle, for leaving their desecrated remains behind, I judge you guilty.”
+
+“That’s just the way a war is waged!” the man sputtered.
+
+“You are the commander. A soldier taking part in those atrocities would have been held responsible. You? Doubly so. You had a choice.”
+
+“This is how we fight the kark!”
+
+“Then you admit your guilt.”
+
+The man was crushed by an aura the likes of which he’d never felt. It was very cold and very uncaring, or rather, the owner cared, just not about him.
+
+“Neriad, be my witness.”
+
+A mind-numbing amount of mana flooded out of the woman before disappearing and aye, the red leather man had to admit, you didn’t get that aura or that much power from a rich noble dad. Shit.
+
+A golden halo flared behind her, and the red leather man realized she had actually prayed for an answer… and gotten it on the spot.
+
+“For the horrors you’ve committed, I sentence you to death. You have made the world a worse place. May Enttiku have mercy on your soul. Marruk, if you would?”
+
+“Wait, you can’t do tha—
+
+***
+
+“It is a great victory!”
+
+The kark sure knew how to party. As far as Viv understood, they consumed a grain alcohol mixed with fermented pakar milk from a female that had recently given birth. The resulting mixture left them heavily intoxicated. It also smelled like it could peel off wallpaper and so she wasn’t eager to try.
+
+“Very few deaths! All enemies fallen! A great day!”
+
+The crowd had carried a triumphant Marruk back in a symphony of blaring warcries. Now, campfires belched smoke that rose to the night sky.
+
+It had been a long struggle. First, they had to convince even the graying heads that hiding was just setting up a trap and thus acceptable in the eyes of the ancestors. Second, they had to actually assess where the Lutenese would strike. Finally, they had to trap their scouts without betraying the army’s presence, a task thankfully made easier by the death of so many dark blades. The initial assault went about as well as could be expected besides the cavalry being just a little late. After that, most of the surrounding Pure League fighters had preferred to fight to the death rather than surrender. Marruk had methodically ‘reduced the pockets of resistance’ to use a euphemism, using her strike team and the pakar riders to break the tight formations. It was a curious side effect of Pure League propaganda that Viv found ironic and horrifying: because they were taught that kark were monsters that tortured and ate babies, death was superior to surrender. Only a few hundred captives were taken back to the camp under guard after tense negotiations between Viv and her hosts.
+
+The way it had gone, Viv was starting to wonder if the Lutenese hadn’t been right to fight to the death. That was fine. She was here to be the voice of reason in an old conflict marred by atrocities. She couldn’t expect her allies to keep a cool head after everything she’d seen. The prisoners would be swapped for kark slaves and hostages, and that would be it. Hopefully.
+
+It really helped that Viv’s goodwill was absolutely massive right now. The kark sang her praises to the heavens, in this case literally due to the sheer volume. She had to keep her ear protection spell up at all times or risk being deafened by friendship.
+
+She was just happy to hang back while the Red Tribe rejoiced. Drums beat, people danced. The veil of anguish that plagued them wasn’t exactly gone, however. Viv could see it in the manic way people moved, how they drank beyond the point of fun to oblivion. The couples that moved to more secluded places did it with a sort of dazed urgency, as if afraid that their shred of happiness and release would slip between their fingers. Old heads cried more often than they laughed, and many stared at the flames with lost expressions, minds revisiting ancient nightmares. It was a victory but it was not the victory. Not yet.
+
+Marruk came to sit next to her near midnight, after most of the party had winded down due to fast alcohol consumption. The kark race’s sole female warchief sat heavily on the ground, her armor groaning under its own weight.
+
+“You can remove it, sometimes, you know?” Viv noted.
+
+“Not in public. In public, the warchief is always armed and armored. The warchief IS war.”
+
+“Fair enough. How are we doing?”
+
+“Good! Good. This gives us breathing room. And hope. Both are in short supply. But it’s not over yet. Far from it.”
+
+“The Pure League has faced defeats before,” Viv remarked.
+
+“Yes.”
+
+They’d both studied the conflict before even leaving. It was important, when starting a war, to know what would make one win it.
+
+“The Border Fortress still stands,” Viv said.
+
+“Yes. So long as it dominates the steppes’ outskirts, the Pure League knows it is secure. You remember what I told you. We need to shake that belief in their superiority. We need to make those who think us beasts realize that they are mistaken. In ten years, the Red Tribe has tried to take it twice, and both were costly disasters. Both times, the Lutenese knew we were coming. In order to bring them to the negotiation table, we need that place.”
+
+Marruk left much unsaid. The Red Tribe’s forces may have steel now, but they were but a shadow of their former selves. To take that fortress, they needed an edge.
+
+“It is worse than you think,” Viv finally said. “There are rumors that the Lutenese sent their mages to the city. Irao just informed me.”
+
+“Then… I do not think we can do it with what we have. Perhaps if we cut a deal with other tribes… but my people will never agree to it. Too many grudges.”
+
+“I held back so far because we needed the Pure League to understand that your people were still strong. I think we’ve proved it with today’s victory.”
+
+“Oh?”
+
+“In order to face the Lutenese mages, Frosthawk and I will take the field. And I have a few ideas on how to besiege that place.”
+
+“And Arthur?”
+
+“You can ask her when she returns. She was off on a very important quest. I’m sure she will want to tell you all about it.”

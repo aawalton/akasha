@@ -1,0 +1,417 @@
+---
+id: 782c3328-78e1-59d1-bd01-c7b5b45d4e8b
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY-NINE: Tenderroot"
+slug: 0161-one-hundred-fifty-nine-tenderroot
+partOf: super-supportive
+position: 161
+ownLength: 5113
+unit: words
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1740215/one-hundred-fifty-nine-tenderroot"
+royalRoadId: "1740215"
+---
+
+159
+
+******
+
+“How long will you stay?” Stuart asked.
+
+The Artonan boy was at his desk, eyes focused on something Alden couldn’t see. And Alden, thoughts racing toward the goal of getting away from what had been shaping up to be an emotional pit of an evening, was trying to compose a text message to Esh-erdi to let the knight know where he was going and that he hadn’t been kidnapped from the cube.
+
+“Shouldn’t you tell me that?” he replied in Artonan. “It’s your house.”
+
+“I have two and a half days left of my weekend,” said Stuart.
+
+Okay. He’s thinking long visit.
+
+Right now, that sounded absolutely fine. “I have class Wednesday.”
+
+“If you grow tired of my company or the environment, you may use our summonarium whenever you want to. Humans have so many different eating customs. Is there a correct number of dishes I should serve to you to be properly welcoming?”
+
+“Stuart. This is me. The last time we spoke, we talked about a person who pees in shoes, and I showed you paper shaping, and I stood out in the rain while I wore a large garbage bag on my body.”
+
+Stuart looked up from whatever he was doing. “I know. And you called me your friend three times. I hoped all week that you would want to share another of your school days with me.”
+
+“…you counted?”
+
+“When I heard that Anesidora was <<threatened>>,” said Stuart, “and I feared for your safety, I regretted that during our previous conversations I let timing and circumstances <<loom large>> in my consideration.”
+
+Alden accidentally added the phrase “loom large in my consideration” to his Esh-erdi text message, deleted it hastily, then said, “What does that mean?”
+
+Stuart looked back down. “Ideal human sleeping temperature seems quite cold to me. Is that with or without a warming cushion?”
+
+******
+
+Alden remembered that he had a lot of nerves about visiting Stu-art’h and, more significantly, the rest of the art’h family about ten seconds before he wheeled his suitcase into Matadero’s in-house teleportation area.
+
+The cube had one, of course. It was way down at the bottom, below the water line, where there were no people. One sign he’d passed indicated that he’d entered an area called Flood Trap 2.
+
+Stuart had ended the call twenty minutes ago to finish his “preparations.” Alden had finished his own preparations by texting Kabir a request for snake care, brushing his teeth and hair, and shoving stuff into the big blue suitcase. Which was probably about to break some kind of a record for Earth-made suitcases by traveling to Rapport I.
+
+What the hell am I doing?
+
+And what the hell was Stuart doing? They had scheduled a specific day for Alden’s first invited visit. It had been clear that Stuart had been making plans for that day.
+
+He was going to send me clothing recommendations. More manners stuff. I was going to have a shirt embroidered so they wouldn’t think I was an ingrate who didn’t appreciate one of their most important family member’s honors.
+
+Now he had the school uniform he was wearing and one change of clothes. Fortunately it was the plain brown t-shirt, not something with writing or images on it. He’d been conscious of that since Stuart had mentioned it, and he’d brought it along because he thought he’d be spending more time here at the cube around a bunch of Artonans.
+
+This is just a different bunch of Artonans. No big deal.
+
+The most important bunch of Artonans. The bunch of Artonans that had just had some kind of a disagreement with Stuart that might have been—probably was—about Alden.
+
+There are the nerves, he thought, swallowing as he stepped into a wide teleportation alcove with an arched ceiling. Hey. Bright side. Social worries are keeping me from being freaked out by the fact that this is my first time teleporting away from Earth since February.
+
+He remembered the person he was before, waving goodbye to Boe and Jeremy. The freshly purchased red coat. The fear mingling with excitement.
+
+“System, if anyone on my priority contacts list calls, send it through at my expense without giving the long distance notification.”
+
+He tried to think of what else there was a person had to do before ditching the planet.
+
+Surprisingly little in this case.
+
+A message from Esh-erdi arrived. Alden had felt bad texting the knight when he was busy cleaning up Sinker Sender magic, but he guessed he shouldn’t have, since Esh-erdi’s replies had made it seem like he was pleased with the turn of events.
+
+Although this one said, [Do not let anyone tell you The Elder’s Croak. I will be better at it than them.]
+
+About a minute later, the official invitation to visit Rapport I arrived. Alden had been a little worried that it would look like a summons, complete with payment and a timer. But it was an image of a handwritten letter from Stuart, hovering in front of him while the System translated the writing into English.
+
+Samuel Alden Thorn of Earth,
+
+Welcoming you as my guest would bring me happiness. Our household would be enlivened by your presence for a day or a year. Our fires are warm, and our bowls are full.
+
+I await your answer in the house of Jeneth-art’h.
+
+Being his son, and of age to offer the house’s welcome,
+
+Sina Stu-art’h
+
+It was followed by a teleportation offer. No timer.
+
+The formality is a lot. But that’s such a welcoming invitation really.
+
+And the Primary finally had a name. Alden would probably think of it one percent as often as he thought “Primary,” but it was still good to know.
+
+What do I actually call him to his face if it comes up? Hello, Primary? Primary Jeneth-art’h? Hn’tyon Jeneth-art’h? Mr. Stuart’s Dad?
+
+I was supposed to have a whole month to figure this all out. What’s happened over there?
+
+He had no idea what to expect when arrived at the summonarium. Would there be forty knights and wizards there? Kids? The Primary and his spouses?
+
+Is it weird to be wearing my school uniform? Should I change into the t-shirt?
+
+He took a breath and straightened his outfit. He told himself the art’h family was not scary. He’d served some of them third meal, after all.
+
+“All right. Let’s go to Artona I. I accept the teleport.”
+
+******
+
+He lost awareness of his body, of anything like a world around him. He gained that clarifying awareness of himself.
+
+And, then, he was breathing in the air of another world.
+
+He stood in the art’h family’s huge summonarium, right in the middle of a design painted on the stone floor.
+
+The only other person in the room was Stuart. He was wearing a nervous expression and an outfit that was a little more festive than any Alden had seen him in before. Still nothing as elaborate as the clothes some fully qualified wizards wore on a daily basis, but it was noticeable.
+
+The gray tunic was nearly knee-length, and the wide belt of matching fabric was embroidered in a slightly darker shade. The centerpiece of the embroidery was unusual—a round shape with a lot of spiky protrusions that Alden couldn’t quite identify. And the sleeves of the tunic were wide enough at the wrists to reveal a purple lining when Stuart held his arms outstretched, as he was doing right now in order to present Alden with the physical copy of the very invitation he’d just seen a picture of.
+
+Here we go. Guest manners on.
+
+The last time he was here, he’d been a freshly-affixed house wanderer—sore, covered in dirt, and nudged along by the suggestions of the Artona I kernel. Now he was here purely by choice to see Stu-art’h, just hours after hearing that he might never see him again.
+
+If the inviter wanted this to be an occasion, then the invitee could accommodate.
+
+Alden let go of the suitcase handle and stepped forward to accept the small paper sheet with both of his own hands. “Thank you. I’m very glad to be here. I had been anticipating our usual conversation, so the chance to see you in person is an unlooked-for treasure.”
+
+He was super proud that he knew how to say that last part in Artonan, and that he knew it well enough to be fairly confident it met the moment.
+
+Stuart smiled and visibly relaxed in the same way a tense Boe might have relaxed if Alden had said, “ ’sup, asshole?”
+
+“Here at the <<siblinghold>>, we have more than one set of house stationery,” Stuart said, obviously under the impression that Alden was staring so hard at the invitation because he was examining it, not because he was having a major epiphany about it being possible for swearing and formality to serve the same function. “Aunt Alis, her children, and her spouses all use brown ink for their invitations.”
+
+“I meant to prepare better before I came to see you in person,” Alden said, looking up. “I was going to wear the commendation the way we talked about and try to learn the names of all your relatives. And I was going to think of a small gift. A lot of humans do that—a gift for the one who invited them.”
+
+“Your presence is the gift,” Stuart said graciously.
+
+Alden stepped back over to get his suitcase.
+
+“Is your leg well enough for a walk?”
+
+“Yes. It’s not serious.”
+
+“Esh-erdi said you almost drowned.”
+
+Surprised, Alden whipped around. “You talked to Esh-erdi about me? When? Why?”
+
+“You told him you were worried I wouldn’t be able to call because you were at the place humans call Matadero. His <<stated>> reasons for contacting me were to let me know that he had met you, that you were receiving care for your physical injuries, and that there was no reason for me to avoid calling out of respect for your perceived busyness with more urgent matters.” Stuart paused. “I wasn’t going to respect your busyness anyway, though. Before I heard from him, I was planning to teleport home from school early to insist that Evul help me check on you.”
+
+I should have realized, thought Alden. Talking to Stuart had been on the same list of requests as school attendance and Tiny Snake food. Esh-erdi had decided to see to all of those things.
+
+“The unstated reasons for his call were slightly different, if I didn’t misunderstand his <<delicate insinuations>>,” said Stuart.
+
+That was a concerning way of putting things. “What did he insinuate?”
+
+“He…I hope our visit will lead us to that depth of conversation,” said Stuart. “But first, I’ll take you to your <<cottage>>! And we should discuss our <<itinerary>>.”
+
+I get a cottage? And an itinerary?
+
+“If it sounds pleasant to you, as it does to me, we will eat together,” Stuart continued as he led the way to the summonarium’s door. “Seven forty-three post meridiem in your human time is good for your third meal, isn’t it? It coincides with when I usually have second meal.”
+
+That was just over an hour from now. “It’s a good time,” Alden confirmed.
+
+“I ordered a few meatpetal dishes since you said you—”
+
+“Meatpetal!”
+
+“—liked that,” Stuart concluded.
+
+******
+
+Stepping out of the summonarium was surreal in a way Alden hadn’t expected it to be. He’d been in a strange state of mind during his one and only other time here. His memory of the trees and the mirrored buildings hidden among them had a clarity to it, but he’d somehow completely missed details that now leaped out.
+
+Three of the towering, dark trees that stood around the summonarium had limbs that grew together above the building in a way that looked more like a product of intention than nature. Like they were weaving themselves together to form a second roof.
+
+Another tree, a short ways up the path, had cone-shaped baskets hanging from high branches. They were large enough for people to sit inside, which he knew was at least one of their functions since a trio of Artonans were leaning out of the circular entrance hole in one of them and looking down toward Alden and Stuart. He considered waving, then decided against it.
+
+In a house full of wizards and knights, I guess the lack of ladders leading up to the tree baskets isn’t much of a problem.
+
+He sniffed the air. “It smells really good. Like food?”
+
+Like burnt sugar actually.
+
+“They’re making flatseed candy on the other side of the house,” Stuart said. “Everyone spends a lot of time outdoors in the summer.”
+
+So homey. “I looked up the climate for this Rapport one night when I couldn’t sleep. Your summers are so comfortable for humans.”
+
+“It’s pleasant for you today?”
+
+The sun was shining down through the tree branches, and it felt like it was in the low eighties. “It would be perfect if my school uniform had short sleeves, but yes. This is good.”
+
+“It’s pleasant for us, too. When he’s home, my oldest living brother spends the entire season trying to be <<at one with the land>>. We don’t see him until the <<frost>> chills the world.” Stuart stopped walking and looked around with a small frown. “Where did she go? I told her to stay at the door.”
+
+Before Alden could ask who he meant, Stuart shouted, “Aaaaalden! Here to me!”
+
+Then he waited with an expectant look on his face. No ryeh-b’t appeared.
+
+Alden wondered if he’d ever stop thinking it was funny and awesome that there was a ryeh-b’t running around with his name. “Maybe she didn’t hear you.”
+
+“She has excellent hearing. Someone’s probably playing with her. Every time I return home from school, I have to remind her and whoever the latest <<child-spoiler>> is that she is at an age where she needs structure.”
+
+He whistled piercingly.
+
+A moment later, Alden followed his gaze to see that a red head had poked itself out of the occupied tree basket up above them. Stuart pointed at the ground beside his feet.
+
+The ryeh-b’t took her sweet time emerging from the basket. Stuart kept whistling and pointing.
+
+Finally, she took to the air. The webbing of her wings glowed like a lantern with the midday sun above her.
+
+“She looks amazing!” said Alden.
+
+“Keep your arms at your sides,” Stuart said. “She doesn’t have her claw blunts on, and she’ll shred your sleeves if she lands on you.”
+
+Alden put his arms by his side, eagerly waiting for Stuart’s pet to land and not particularly minding if he got climbed on and slightly shredded by a flying dinosaur. She hit the ground and whistled—a lot like Stuart just had—at the sight of him.
+
+Yes, he thought, delighted as the animal ran toward him. She remembers me!
+
+Only for Other Alden to head straight for his suitcase like it was the only thing of interest in the whole forest. He had to pull his foot out of the way so she didn’t stomp all over his squishboot in her eagerness to sniff the bag.
+
+She chomped on a zipper and tugged.
+
+“No!” said Stuart.
+
+Other Alden looked at him. She seemed to consider the instruction for a moment before tugging a little more.
+
+“No.”
+
+She finally let go and proceeded to climb on top of the bag instead.
+
+They had to fight her for it to get going again, and Stuart ended up apologizing several times while Alden the human tried to coax the pet into acting like he was as interesting as his luggage.
+
+Stuart led him down a path that existed, like all the others surrounding the main house and outbuildings, only because it had been worn by passing feet. And some small thing with wheels, Alden noted as he saw the faint marks of ruts crushing the leaf mulch ahead of them
+
+He looked up at the trees.
+
+Their soft, blade-shaped leaves seemed to start small and grow up to the length of his forearm. All the ones on the ground were brown. Dead. But the one he’d been using as a bookmark for months was still a healthy shade of green with a silvery back.
+
+“How long does it take for the leaves to turn brown after they fall?” he asked.
+
+“They don’t fall until after they turn brown,” said Stuart. “Usually.”
+
+Other Alden was flapping around ahead of them, doing battle with what looked like the remnants of some decoration or toy that had been tied to a branch.
+
+They had passed three cottage-sized buildings already, only one of which had been in use, if the presence of a worktable and tools beside it was something to go by.
+
+“Are most of these peoples’ houses? Or offices?”
+
+“It’s a mixture,” said Stuart. “Father, Aunt Alis, and Uncle Tesen imagined their children and grandchildren all residing together in one large house when they decided to live as a <<siblinghold>>. But they either underestimated the number of children they would have or they overestimated everyone’s willingness to share space. Someone brings up adding another floor or <<wing>> every day, but it’s so much less <<disruptive>> to build the cottages.”
+
+Uncle Tesen was probably the third triplet in the set with Alis and Jeneth, Alden thought. The one who died.
+
+“The cottage I’ve claimed for you is my favorite of the empty ones,” Stuart told him. “It’s near the stream.”
+
+They traveled for a couple more minutes down a gentle slope, then turned aside from the well-traveled path toward another building with no path leading toward it at all. It was small and rectangular. Built very close to the base of a tree, it was camouflaged by its own mirrored sides and the coat of fallen leaves on the roof. Out front, two dark wooden chairs faced down the slope, which steepened suddenly as it approached the stream Stuart had mentioned.
+
+“Our closest neighbors, the en family, live in that direction.” He gestured toward the stream. “Our families have long been <<dear and trusted>> to one another. One of my parents was formerly an en.”
+
+Alden’s attention was captured. Stuart called the Primary his father, using the word that indicated a male Artonan who had both sired him and given him care. And a few times, he’d used words the Systems usually translated as “parent” or “parents,” implying that he considered at least a couple of others in the house to be important caregivers in his life. Most likely the people his father had marriage contracts with, but not necessarily.
+
+He’s never used the word for birthmother, though.
+
+Alden didn’t want to ask outright. But he did feel like now that he was actually standing here in their forest he needed to at least know the names and relationships of the main few adults in Stuart’s life. So that he could make a good impression.
+
+“Before you introduce me to your parents, I’d like to know a little about them. To help me remember who everyone is to each other and you.”
+
+“Do you want to be introduced to them?” Stuart asked, turning suddenly to the cottage to place a hand on the mirrored wall. “Because if you do, I will add it to the itinerary. But I don’t think any of them deserve to meet you today.”
+
+He had such a snippiness to his voice that Alden might have been amused by the sudden shift if not for the words themselves.
+
+“Am I not here to meet your family?” he asked slowly. “At least partially…?”
+
+“I was looking forward to introducing you to them all during the visit I was planning for December.” A hidden door slid inward and sideways to reveal the cottage’s interior. “This afternoon, however, I am looking forward to not being around them.”
+
+Oh boy. “Are they…angry I’m here? Or is it something about Privacy of the House? Evul-art’h said they’d found out about that, but—”
+
+Stuart stepped over the threshold. “To be truthful, my unwillingness to have you sworn to Privacy of the House was the start of extended <<verbal>> warfare. But it would only have been a small disagreement at another time. For a long while now, they have been digging in <<barren>> fields for the <<tenderroot>> that they could hold above the reach of a rich but starving man.”
+
+The need to de-metaphor that made Alden stand in the doorway for several seconds after Stuart had gone in. “You mean they’ve been looking for something you wanted so that they could make you give them something they wanted?”
+
+A bargaining chip.
+
+“Yes. Come inside. We must make sure you have everything you need. Human bedtime will come not long after your third meal.”
+
+Alden laughed a little. “You don’t have to schedule bedtime for me.”
+
+“I did not schedule bedtime,” Stuart said. “I have only arranged my own half of the itinerary to take advantage of your natural bedtime. I will do homework silently and contemplate the day’s events for nine human hours.”
+
+******
+
+The cottage was all window on two sides, with a low ceiling that felt more cozy than confining. It had everything Alden needed, plus a lot of things he didn’t.
+
+While Stuart followed him around, explaining the significance of every fruit in the “bowl of welcome” that had been placed on a special stand by the door, Alden explored. A diaphanous curtain divided the main room in two. The largest bed he’d ever seen in his life was on one side, along with all the closet space and a good fluffy rug.
+
+And on the smaller half of the cottage was the entryway with its shoe cubby, a floor table with cushions for seating, and a cabinet full of provisions that ranged from bottles of dried tea and alien cigars to jewelry.
+
+“Are these magic rings?” Alden asked, staring at a peg inside the cabinet that was covered in the things.
+
+“They’re bad ones. Most will probably break after a single use because the enchantments turned out weak,” Stuart said. “But not everyone who stays feels like casting spells. This way they can quickly air out the cottage or send a message to the main house by grabbing a ring. If it doesn’t work, it’s not serious, but if it does, it’s convenient.”
+
+Not everyone feels like casting spells…I see.
+
+Alden nodded and shut the cabinet. Having seen everything, including the bathroom, there was only one thing left to do. He went back over to his suitcase and grabbed the recently chewed-on zipper.
+
+Stuart was standing beside him holding up a pair of berries joined together at the stem. “These two red ones are prusimentha. They symbolize a first meeting. I know this isn’t our first meeting, but since it’s the first one with the bowl of welcome…”
+
+He trailed off as Alden set aside his messenger bag, toiletries, t-shirt, and jeans to pull out a sack made of soft brown silk. The learning cushion had been delivered in this, and he’d decided to reuse it to keep the cushion from getting scuffed.
+
+He carried it to the stretch of rug on the opposite side of the bed, near the shorter window wall.
+
+“You brought the learning cushion with you.” Stuart was still standing on the other side of the curtain. His bright rust-colored eyes were fixed on Alden.
+
+“I was planning to sit on it tomorrow and—” practice some spells in my hospital room “—learn. So I had it with me when you called. Of course I couldn’t leave it behind. Some wandering human might have ass-abused it. Some wandering wizard might have stolen it.”
+
+Alden knelt on the rug and freed the cushion from its wrapper. Dark leather, gold and silver logograms around the edges, the hidden pocket he was going to find a promise stick for.
+
+“It’s wonderful,” he said. Still kneeling, he looked back around at Stuart. “Thank you for giving me the leather one. You had it made just a little bigger than normal, and every symbol on it means something so thought-provoking and perfect. I can tell you picked them all yourself. It’s one of the best gifts anyone’s ever given me.”
+
+“You like it that much?” Stuart took a few steps closer.
+
+“I was afraid it was going to get lost in the floods. I was more worried about it than about some of the people I met Friday night.”
+
+“You weren’t!” His face was somewhere between horror and delight.
+
+“I was,” Alden insisted. “And then Evul-art’h called me and said you were having an argument in the big living room, and I’d get to speak to you soon or never again.”
+
+Stuart made an angry noise in the back of his throat. “She shouldn’t have called you just to say <<histrionic>> things!”
+
+“I was afraid she really meant it. And that I’d never get to tell you this means a lot to me.” He touched the cushion with his index finger. “A lot.”
+
+“I wanted to give you something meaningful,” Stuart said, the irritation draining away from his voice just as quickly as it had come. “Something that you would have with you for a long time.”
+
+He looked down at the fruit bowl and finally set it back on its stand, before walking the rest of the way over. He passed through the gap in the curtain, his bare feet sinking into the deep carpet, then he squatted in front of Alden until they were eye to eye.
+
+“What happened to you?” he asked. “I heard enough from Esh-erdi to know it was a <<life trial>> almost as difficult as the one you’ve already endured.”
+
+“No,” said Alden. “It was only a single night.”
+
+After a moment, Stuart gave the smallest of nods.
+
+“I did think a Contract was failing again,” Alden admitted. “Even though it wasn’t. Even though I knew, logically, that it wasn’t. And after Esh-erdi rescued me, I still felt deep inside that…maybe Earth was on the edge of ending.”
+
+He remembered being pulled from the dark water into the light. He had seen a mountain of death frozen against the dawn sky by the power of a single knight. He had seen the results of a healthy Contract, the Triplanets, and Avowed working together.
+
+Just a few hundred dead from an event that could have killed tens of thousands.
+
+He thought there was a comforting lesson there, all laid out in front of him. But it was one he couldn’t absorb, couldn’t feel, even though in his head he knew it to be true.
+
+Stuart’s mouth opened again.
+
+“You’re doing that thing where you take us straight to serious land,” Alden said before he could speak.
+
+“Serious land?”
+
+“I can’t say mode in Artonan. I had a question for you, too, though. Your sister said you were trying to explain something to your family in the big living room. She said none of them understood. What was it?”
+
+Stuart stared at him. Alden had almost forgotten what a remarkable starer he was in person.
+
+“You don’t have to tell me, obviously. But I want to understand whatever it was.”
+
+“I don’t know about that,” Stuart said.
+
+Quick rejection of the offer, Alden thought with a wince. “If that’s how you feel—”
+
+“I said so many things, and I thought they failed to understand most of them in the way I wished for them to be understood. I would have to repeat the entire conversation to make sure I told you whatever Evul found worthy of mentioning.”
+
+“You can do that if you want.”
+
+Alden watched in surprise as purple crawled up Stuart’s neck and ears toward his face.
+
+“I couldn’t,” he said quietly. “I got very angry a couple of times.”
+
+“That makes me even more curious.”
+
+“I used <<unbefitting>> words for reasoning with loved ones.”
+
+What in the universe did he say to them? He looked so embarrassed now that Alden couldn’t even think of teasing him about it.
+
+A moment passed. Then, the Artonan rocked back on his heels and sat on the rug with a small thump. He rested his elbows on his knees. “To tell you more about myself is something I want to do. It’s what I planned to do in December. Now, things have shifted. You are already here. But what I should tell you before anything else is…”
+
+“What is it?”
+
+Stuart’s eyes didn’t leave his face. “Maybe you would like the meatpetal first. I didn’t actually mean to turn our conversation to serious <<mode>> until after our stomachs were full and we had taken Alden for her evening flight. I was going to approach the subject of our friendship on soft feet.”
+
+“You don’t have to worry about soft feet. You can just say whatever it is. And then we can recover by eating meatpetal.”
+
+“All right,” said Stuart. His voice was calm now. “Most of the people who know me best think I’m likely to die soon.”
+
+For a moment, in the wake of that statement, the cottage went so horribly quiet.
+
+What are you saying, Stu-art’h? I don't want you to say this.
+
+“It’s because of a choice I’ve made. If I turn away from that choice, there would be no risk to me. But I will not turn away.”
+
+Why?
+
+“I’m telling you because I want friendship with you very much. Maybe…maybe even a friendship of oath some day. But you should know which way I go, and that it is not without danger.” Stuart hesitated, then added, “Do you still want to be friends? If it’s like this?”
+
+He waited. Slowly, his expression—ever so faintly hopeful—grew stiffer.
+
+“Ah, we could still be friends of some kind next year,” he said, looking away at last. “After the worst of the danger is past. Others have chosen to wait for that, so I do under—”
+
+“Stop,” said Alden, finally finding his voice.
+
+Stuart’s head jerked back around to face him.
+
+“Do you think you’re going to die?”
+
+“No,” Stuart said. “I know myself better than they think. I will endure my trial. I will fulfill myself and <<forge>> myself. I will become what I have chosen. And I will live.”
+
+That’s right, thought Alden, taking in the way his jaw was set. Shouldn’t let myself forget. This is the place where Intensity 99.9 got its name.
+
+Just a few feet away from them, a curious ryeh-b’t was smashing its red snout to the window, leaving a trail of what looked like snot in its wake.
+
+******
+
+******

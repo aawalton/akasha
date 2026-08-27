@@ -1,0 +1,179 @@
+---
+id: afa70fa3-b840-500b-9f0b-6d3f64c77048
+page-type-slug: story-chapter-royal-road
+title: "Chapter 342 : Letting Loose"
+slug: 0043-chapter-342-letting-loose
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 43
+ownLength: 2309
+unit: words
+ownProgress: 2309
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2979716/chapter-342-letting-loose"
+royalRoadId: "2979716"
+markedReadAt: "2026-06-29T19:43:14.452Z"
+---
+
+Explosions rang out in the distance, causing tremors that even reached our location. I hadn't detonated everything; I wanted to release the payloads in waves rather than one big boom. Notifications went pinging off, and I was forced to mute them or go crazy from the incessant noise.
+
+Crap, my experience will probably go to waste!
+
+My goal was level thirty in Elementalist, and then I wanted to immediately swap over to Riftmancer. However, under my current plan, it was exceedingly likely that I'd overshoot my goal by quite a bit. I hastily adjusted my experience distribution to be equal between my class and race, hoping that would be enough to offset any potential loss.
+
+"Are we under attack!?" Amelia quickly cried out in shock, as if she had forgotten their previous objective.
+
+"Who would dare, the abyssal brinelings?" Lewis asked frantically.
+
+"You're both wrong," I replied through Sylvain, relinquishing Alpha and [Roleplay] from their duties.
+
+The two stared at me with astonishment. The look they gave was as if an insignificant ant had suddenly declared its supremacy. Unfortunately for them, they were the ants in this situation.
+
+Amelia gave a subtle gesture that I managed to catch, causing Lewis to immediately drop all pretense and unleash multiple [Icicle] spells at me. But since Alpha was no longer in control and doing the feeble acting routine, the ice shards shattered on impact, unable to break through my outer membrane.
+
+Both their eyes went wide with shock, evidently unable to understand what had just transpired after his first attack was so successful.
+
+"You call that an [Icicle]?" I taunted and immediately cast one of my own.
+
+"You have [Ice Magic]!?" Lewis yelled out, right as the rapidly formed spell struck him in the leg, returning the favor with interest.
+
+My spellcasting speed was far superior to his, and I had an army of helpers at my disposal. How could one human who didn't even qualify for the Cryomancer class possibly compare? Also, my [Icicle] spell was far superior—modified with frosty debuffs and afflictions—and the creeping ice began to penetrate deep through his leg and spread.
+
+"Lewis!" Amelia cried out in horror, a bident abruptly appearing in her grasp as she thrust it at me.
+
+I was momentarily surprised when the weapon pierced a few inches into my slime, perhaps a consequence of having only one [Sub-Core] to reinforce the body, or maybe the magical weapon was more powerful than I imagined. But, as long as it never hit my true core, I was perfectly safe.
+
+I made "Sylvain" grin, and then grabbed the weapon and cast [Stunvolt] through it. The weapon was not only highly conductive, but so was she, and I presumed that lightning would be a significant weakness for mermen.
+
+Amelia hadn't expected the sudden lightning magic, but she refused to release the grasp on her weapon. Lewis seemed to abandon all thoughts of self-preservation as he cried out in rage and began throwing an endless barrage of spells at Sylvain, attempting to get him to stop shocking her.
+
+"You'll never get away with this!" Amelia said through gritted teeth, her body was momentarily paralyzed, but her mouth was apparently still working. "You can't just murder a siren and expect to get away! Not even Vanessa will be able to save you!"
+
+"Vanessa?" I chuckled. "I only needed her to bring me here. I don't need her anymore."
+
+I raised my free hand and snapped my fingers, triggering another set of explosives throughout Azulean. Horror dawned on Amelia's face.
+
+"You!" she snarled.
+
+"Betrayer!" Lewis screamed.
+
+I shook my head. "I was never on your side to begin with. After all, I'm not even human."
+
+Amelia was shocked. "A shapeshifter?"
+
+"Close," I grinned, and pointed to the floor. "Why don't you look down?"
+
+The two followed my gesture, and their eyes nearly popped out of their sockets. The floor was writhing and swelling up, their lower bodies already being engulfed in slime.
+
+"Gods, what even are you?" Lewis asked.
+
+"Just a slime on a mission," I replied. "And unfortunately, you two entered right into my mouth."
+
+I stopped playing with my food and ended it right there, engulfing the entire room in a barrage of slime. I should have handled this much sooner, but after days of being cooped up, I wanted to vent my frustrations, and these two had gotten on my nerves.
+
+Not only had Amelia given me a lot of experience, but she'd also given me the missing siren profile. I'd take a look at it later, but I just needed a king or queen to complete the set.
+
+I don't know about the other humans, but they didn't seem too far gone. Maybe I should save them?
+
+I hadn't detonated anything too close to the human pen, meaning the area hadn't flooded yet. If any were permanently bonded, then I doubted they would survive on their own without their siren, but the rest didn't need to suffer such a cruel fate—I wasn't heartless.
+
+Well, I'd better get to work before any princes or princesses come here. No doubt they are going anywhere but here, since there haven't been any "attacks" nearby.
+
+Once I got into battle with the mermen royals, there was a good chance my Mana would be worthless. I could probably overcome their spell disruption if I put enough effort into it, or I could just use slime—after all, I hadn't really flexed my [Primordial Slime] and [Slime Mastery].
+
+I reclaimed all of my slime and got to work, locating the nearest humans and heading straight at them. I had the Saltport coordinates saved, so my plan was to dump all of them there via forced teleportation. Once the sirens were defeated, I hoped the charm effect would wear off and they could recover. Either way, it wasn't my problem, and I'd let the humans deal with rehabilitating them.
+
+"Anyone who wants to be saved, come to me!" I announced loudly.
+
+This quickly attracted some attention, and a few panicked humans immediately rushed at me, begging to be saved.
+
+If I get their permission, I don't need to spend as much Mana. If they refuse, then I'm forced to use [Displaced].
+
+I began my casting, not bothering to explain, as humans started poofing out of existence one by one. I didn't have the time or desire to explain myself as I needed to finish this before my spells were disrupted.
+
+As the humans were disappearing one by one, so did the recurring explosions in the distance continue. They were particularly devastating, especially the spell orbs I'd infused with lightning Mana, which had a wide range of collateral damage thanks to the water conductivity.
+
+"Sylvain, what are you doing!?" Nick demanded, looking terrified.
+
+"Saving the humans," I replied, casting [Displaced] on him.
+
+"Saving? I don't need saving!" he cried out, right before he was forcefully teleported to Saltport.
+
+It's either this or drown, be crushed, explode, or become slime food. I'm sure you'll thank me in the future.
+
+When I ran out of humans in the street, I broke into the prison where the non-magicals were tied up. They were in poor condition, so before I sent them on their way, I cast [Vital Surge] on each of them before summoning forth a wave of [Heal Slime] to wash over them. Drenched in pink slime, but recovering, I rapidly sent them on their one-way trip to Saltport—none of them resisted. I was even rewarded for my impromptu healing act!
+
+<Proficiency gained. [Healing Magic LV 1] improved to [Healing Magic LV 2].>
+
+<[Healing Magic LV 2] spell [Detox] learned.>
+
+I quickly digested the new spell, only to frown at how mediocre it seemed. It was another "improve natural recovery," but aimed at eliminating poisons and diseases rather than wounds. This was utterly useless to me, and made me recall why I had neglected to train [Healing Magic] in the first place.
+
+I can only assume the ability to actually heal wounds instantly is at higher levels. That's what I really want, so I can heal myself!
+
+Evan had healed me before, saving me precious slime mass, so I knew it was possible. Unfortunately, I had no idea how long it would take to reach that point, and with how lackluster it was, I'd likely forget about it.
+
+Maybe I should just set up an order to cast [Vital Surge] and [Detox] on Vee once every few hours? Either that or I create a cleric persona and go around offering free services… Actually, that's not a bad idea!
+
+Not sensing any more humans in the pen area, I finally detonated the bombs nearby. The protective inner dome was destroyed, causing the waters of Azulean to pour in. Strangely, I noted that despite detonating multiple bombs near the perimeter of the main dome, I'd yet to breach it and expose the inner city to the ocean depths.
+
+I guess it's tougher than I gave it credit for. I suppose I'll have to attack it directly if I want to break it.
+
+My current disguise was no longer needed, so I took a more monstrous form, combining cephalopod and crustacean elements to dramatic effect. Of course, I made sure to include [Enchanted Fins], which worked even though I didn't give myself a big fish tail.
+
+I also threw in a hint of dragon, enough to get my [Draconic Scales] and boost my defenses considerably. Supposedly, there were creatures called Leviathans, which were effectively water dragons, but I'd yet to come across one. I'd hinted at wanting to fight one to Vanessa, but even she shot the idea down, saying that they weren't to be trifled with.
+
+I was going to use [Blink] to teleport to the top of the dome and attack it, but soon found that once I'd exposed my current location to the underwater city proper, magic was actively being disrupted.
+
+The reason became quickly apparent—my spell orbs were leaving behind magical residue, making the mermen suspect spellcasters were to blame. Thus, all the mermen princes and princesses were desperately resonating their pitch throughout the city, hoping to disrupt the magical saboteurs.
+
+Well, whatever, guess I'll have to do this the old-fashioned way then!
+
+I set off the remainder of my bombs, hoping it would provide enough of a distraction. After that, I swam straight up, my combo of [Enchanted Fins] and [Aquatic Finesse] giving me an almost unparalleled speed advantage as I crashed straight into it.
+
+My monstrous form was quickly noticed despite the chaos of magical explosions and significant casualties. As if following a psychic command, everyone abandoned what they were doing and tried to stop me.
+
+"Where did it come from?"
+
+"Protect the dome!"
+
+"Use the slaves!"
+
+"We can't let it fall!"
+
+"Kill the beast!"
+
+"Is that a leviathan?"
+
+"Save Azulean!"
+
+Countless cries rang out from the remaining populous, from questions to orders to pleading. I ignored it all and began attacking the dome with mighty pincers and titanic tendrils. Each hit against the structure let out echoing booms that somehow dispersed throughout the whole construct.
+
+I almost felt bad attacking such a marvel. Never before had I seen something that could distribute damage from a fixed point across itself. This must be the reason why my numerous bombs had failed to take it down.
+
+The mermen were firing spells, launching harpoons, and attempting to slash or stab me with weapons. They even commanded sea creatures to fight for them, and I even noticed a few humans paired up with sirens among the bunch.
+
+In return, my writhing mass of a body produced more tendrils to attack back, and I told my [Sub-Cores] to attack! It was time to fight their army with my own, and I gave them full access to the arsenal of weapons my storage construction cores had created.
+
+Metallic needles were fired out, tendrils extended and crashed through the ranks, and explosions continued to ring out. Despite my overwhelming advantage, the mermen were surprisingly not as helpless as I'd thought; working together, they managed to defeat some of my slimy constructs.
+
+But, where one clawed tentacle fell, two could emerge to replace it! Like a hydra, I had enough slime to circumvent any lost limbs with ample additions. Not only that, but my [Sub-Cores] were quick enough to realize when some slime would be lost, and they would preemptively prime it and detonate it.
+
+I wanted to cackle with delight at the power I was witnessing; I felt like I could take on two dragons right here and now! Who could fight against me with my current slime reserves and accumulated traits?
+
+Feeling confident that I'd left the situation in capable hands, I returned my gaze to the stubborn dome, which had yet to succumb to my attacks.
+
+Well, let's see how you handle [Acid Slime]!
+
+While brute force was fun, my nefarious traits were my real strength. I pressed up against the dome with force and activated a full-body acidic power. A caustic sizzling was heard by everyone present, causing further panic amongst the mermen and for good reason—my acid was eating through the dome!
+
+Almost there. I'll be through in a few minutes, I reckon.
+
+"In the name of the Mermen King!" a proud and confident male voice proclaimed
+
+"And Queen!" an equally impressive female voice joined in.
+
+"Halt!" they demanded in unison.
+
+I turned my gaze towards the source: two crowned mermen, nearly double the size of their counterparts, stood next to each other, their body language demanding respect. They each held tridents, pointed directly at me, while wearing remarkable sets of armor, and enough magical items to make even a gold-ranked adventurer jealous.
+
+Looks like the King and Queen want me to stop…Too bad for them, I think I'm about to bring down the monarchy!

@@ -1,0 +1,191 @@
+---
+id: bfb47e58-b2ae-5472-9e76-9fee5e752837
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINE: Now Rest"
+slug: 0211-two-hundred-nine-now-rest
+partOf: super-supportive
+position: 211
+ownLength: 3018
+unit: words
+publishedAt: 2025-03-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2152689/two-hundred-nine-now-rest"
+royalRoadId: "2152689"
+---
+
+209
+
+******
+
+“Look quickly!” Stuart’s eager voice greeted Alden as he arrived in a teleportation chamber much more breathtaking than the one he’d just left behind. “Alden, look! We’ll only be here in Vethedya for a moment.”
+
+Holding onto his bags and turning in place, Alden tried to take in the view before they were sent onward. He stood on a floor the soft, lustrous white of a pearl, surrounded by no walls or ceiling that his eyes could discern, only sky. The clouds were dark-bottomed and rolling in an unfelt wind.
+
+“The storm is supposed to pass over the city and give its rain to the land that way,” Stuart said, pointing in a direction that meant nothing to Alden when he had only a foreign cloudscape for reference. “Do you like it?”
+
+“It’s beautiful.” His eyes caught a flash in the clouds over the Artonan’s shoulder. “Lightning.”
+
+Before he could say anything else, they were teleported on toward their final destination.
+
+For the sake of tradition and out of respect for the healers, Alden would sometimes walk the long way down the road to the House of Healing, but since his time was inconveniently synced with Yenu-pezth’s right now, it was okay to take an easier route. He and Stuart appeared in an alcove in the House itself. It was open to a receiving room that was empty of people and unfurnished except for a tall set of cabinets running the length of one wall.
+
+“I just saw Worli Ro-den.” Alden stepped out of the alcove onto pale green tiles. “He was arriving at the cube as I was leaving.”
+
+Stuart’s look of mild curiosity was quickly swept away. “Don’t <<gnaw>> on thoughts of him. Not in this place and at this time. You had plans for your healing when we parted yesterday afternoon.”
+
+“I did,” said Alden. “I do.”
+
+“That,” a voice said from the hallway, “is welcome news to these ears.”
+
+Yenu-pezth appeared in the doorway as she finished her sentence. She looked much the same as the last time Alden had seen her. Hair in a dusty shade of purple was coiled around her head, and she was carrying a bread loaf, though it was in a basket rather than being shared with woodland creatures.
+
+Alden and Stuart both gave her small bows.
+
+“Your ears are a good color,” she said approvingly to Stuart. “Are you here to protect Alden from the dangers of the inward path’s grottos, or do you hope to contemplate in one of them yourself?”
+
+She sounded prepared to tease both of them as much as she could.
+
+“I promise to leave when I’m told to this time,” Alden said.
+
+“I will not argue with your wisdom or worry about your carefulness with Alden’s mind,” said Stuart. “And I was going to use the path if it wouldn’t disturb anyone else’s healing.”
+
+Alden wondered if Stuart needed a break from his family and time to himself after the reunion with his former schoolmates.
+
+“You are always welcome, dear Stu.” The healer put both of her eyes on Alden. “How have you been since we last spoke? And have you become sure of any desires that were once uncertain?”
+
+Deep breath.
+
+“I’d like to replace the nightmare tonight. I think at least a couple of the new dreams I’ve imagined are good enough. If you agree.”
+
+“I will be sure if you are sure,” she answered easily. Then she added, “I’ve spent the past several nights reading the opinions of your planet’s <<philosophers>> and scientists on the human mind, and the opinions of Artonan healers and philosophers on the same. I will develop my own knowledge as we go. But isn’t it a wonder? To have found thought so much more like than unlike our own in another part of the universe! Come. I am honored to be trusted as your healer.
+
+“And, Stu, you go steep.”
+
+******
+
+They started their meeting in a private sitting room, having a conversation about Alden’s preparations, his wants, and his concerns.
+
+“I feel like a—” paranoid asshole “—ungrateful person for insisting on as much mental privacy as you can reasonably give me. I’m sorry to be troublesome.”
+
+She was sitting in the chair across from him, legs crossed and beringed toes on display while she ate bread with the honey he’d brought.
+
+“It’s not an uncommon request,” she said, “and not as difficult to work around as you fear. Thoughts need not be clearly viewed to be competently changed. If I say to you, ‘Imagine being bitten on the finger by the ryeh-b’t Stu gave your name…there, see? Your hand moved. And those are only words you know to be untrue interacting with your brain. Spells cast upon the mind have much more power to shift a person.”
+
+“I’m glad I won’t be a bad patient.”
+
+“I once had to keep a mind intact for a time after the body had died. That was a bad patient.” She took another bite of her bread. “You’ve agreed to let me monitor your emotions, and you won’t answer my questions with lies while I make alterations. That’s enough for what we’ll do today. Let’s talk about some options for your comfort, and then we’ll go to the inward path. You’ll become more sure of yourself, and your mind will be more open to change after a walk there.”
+
+She was going to put him to sleep and then induce the nightmare. The options he got to choose from ranged from the simple question of what he wanted to sleep on—a womb-mimicking float tank was available if he preferred that—to the more complicated ones of what types of drugs she could administer and how much stress and fear he was willing to put up with.
+
+Since it was a nightmare being replaced by what were basically more realistic nightmares with happy endings, there would be moments when he wasn’t at all pleased to be trapped in the process.
+
+“So, you consent to much too much distress, and I will be the one who decides on healthy limits,” Yenu-pezth concluded in a chipper tone as they finished up. “Let us go see the room and thank the <<attendant>> who is preparing it.”
+
+I was trying not to consent to too much distress, though, thought Alden, getting up to follow her out of the sitting room and down a corridor. He’d been cautious about coming across as too casual with regard to traumatic experiences after the whole asking Big Snake for a mock drowning thing. It’s not like I like being terrified. I’m trying to get over it and never do it again.
+
+He hadn’t known what to expect from the treatment room, and he was really glad to get a tour of it and an explanation of it all. The ceiling was mostly hidden by interwoven branches that had fallen from the trees in the healing grove that surrounded the House. They were festooned with organic materials and enchanted objects—spell ingredients in ornament form that Yenu-pezth could use as needed. When they arrived, the attendant was standing on a step ladder, carefully removing and storing some of the ornaments and adding others based on requests the healer had sent while she and Alden were talking.
+
+The man was a contradiction in motion, practically flinging the ladder around to reposition it and then wrapping each ingredient in small cloths so gently Alden was convinced he could have bundled up a butterfly without damaging its wings.
+
+He was a member of the ordinary class, and he had the air of someone who’d worked at this place forever. He welcomed Alden without batting an eye and told him not to worry about the temperature, because the bedding he’d be sleeping on was going to have a cooling mat. He’d be positioning the bed in the most <<salubrious>> location, and he’d personally go apply <<brain screws>> to some other man who’d just been tasked with prepping the potion injectors, if the fellow didn’t get finished on time. The attendant and Yenu-pezth both had a long laugh at that poor soul’s expense that Alden didn’t quite get, but he was relieved to depart with the impression that having your nightmares replaced wasn’t the kind of ordeal that fazed anyone here.
+
+Other than me.
+
+By the time they made it out to the inward path, he was glad to let the weight of it fall on him and clear his nerves.
+
+“Today the purpose of our walk is narrower than last time,” Yenu-pezth said. She faced Alden with both hands in her pockets, her shoulders relaxed and her expression placid. “Now is the time for you to acknowledge what you have decided to let go—to find and understand the strands of your life that have held it in place even though you wish for it to be gone. Now is also the time to welcome what will be built where the evil dream once stood. Do you agree that this is a good purpose for our walk?”
+
+Alden’s, “Yes,” arrived a little late, slowed by the pondering that the path encouraged. He found himself relaxing into it even more smoothly than before. He started to have a thought about his promise to Stuart and Healer Yenu that he wouldn’t have to be dragged away from here by the front of his shirt again, but before he could follow that thought all the way to wherever it would lead him when he was in this state, Yenu-pezth was asking another question.
+
+“You could have chosen many kinds of correcting dreams, Alden. You have chosen ones that are harder, in some ways, than the dream you already endure. Why?”
+
+And so they started their walk into the sloping, curving corridor of the path, and Alden was barely aware of the walls rising around him as he looked more closely at his own answers, trying to find where the truths that were worthy of being spoken through the weight lay.
+
+******
+
+“Because I’m afraid.”
+
+The first answer clear enough for the path was spoken as they paused to observe the play of light and shadow around a line of wooden spars that stuck out of the wall just a finger’s length beyond Alden’s reach.
+
+Why fight a demon and escape with Kibby instead of simply being rescued early, or finding a safe way to teleport out, or any of many other happy fantasy outcomes?
+
+Because he was afraid of chaos. The way it clawed and wore you down. The threat of losing yourself to the taint of it. The unforgettable horror of seeing that first touch of a demon against living skin, witnessing that kind of madness on the woman’s leg—rot, pain, fleshy sawdust.
+
+“I won’t become less afraid if I just throw all the bad parts out of my head. I want to face them and know I’m capable of facing them.”
+
+“Will it be acceptable,” she asked, “if the fear never completely leaves you?”
+
+“It will,” he said a short while later. “I know it’s not reasonable to want to be  completely fearless.”
+
+“Do you have other reasons for choosing this solution to your problem?” she asked, nudging his elbow to move him farther along the path.
+
+He did have other reasons, some clear, some difficult to put into words. He spoke most of them plainly when he found them, his emotions so still that worry over how they would sound to the healer could be set aside.
+
+“I thought the big demon would get us when the first night came, even though Kibby promised the lights would work.
+
+“I wondered if that would be better. A couple of times.”
+
+Other reasons, he managed to speak without really knowing the why of them, only that they were sufficiently connected to the question to rise to the surface of his thoughts as he stirred them.
+
+“Stuart says I can have a choosing season, so I am.”
+
+He was passing through the curtain of flowered vines as he said that. No…actually, he was just standing still in them, tendrils draped around his shoulders like a cloak. He decided to move toward Healer Yenu, who was waiting for him patiently a couple of steps away.
+
+“In a choosing season, I should try to understand how I feel about places like Moon Thegund instead of avoiding them,” he said. “If I run away instead of fighting, my choice will be based on incomplete information.”
+
+“We can talk about what having a season dedicated to choice means for you during our future walks. If you want to,” she said.
+
+“I do want to, and I don’t want to,” Alden said. The part of him that was trying to tell him he was speaking in dangerous riddles was too stifled by the path to be obeyed.
+
+“Would you like to move away from the vines now?”
+
+“I do want to, and I don’t want to,” Alden said honestly, even as he wondered why he hadn’t already stepped away from the vegetation.
+
+Yenu-pezth hid whatever her mouth was doing with one hand and then reached for his elbow again. On the return trip, just as Alden was reaching a state close enough to normal to start realizing that he’d gotten a little too comfy on the path again, the healer brought up one final question for him to consider.
+
+“The evil dream that troubles you begins in the moment when you believe you did wrong. Your hesitation to run toward the child’s whistle is a source of shame for you. The shame breeds a dream of disaster, in which you can’t find her despite desperate effort.” She let her words settle over him, giving them their due time.
+
+After Alden had nodded, she continued, “If this dream is something that disturbs your rest and steals your strength, and we have agreed that you will be more as you want to be without it, then is the shame you feel something you should let go of, too?”
+
+It was a question he slowly discovered he had no answer for, at least not one good enough to be spoken through the weight. They had already exited and were heading through the grove toward the main building together before he could even say, “I don’t know.”
+
+Yenu-pezth was walking close beside him. “That’s a fine admission for now. We will leave it for another meeting. But whenever you wake from these better dreams I am about to give you, ask yourself this again. And steep for as long as your day allows with the truth that guilt’s only gift to any of us is instruction. Often, it is an instructor with little sympathy for its student and a fog-cloaked view of the situation it was born in. If there is no lesson for you to learn from this guilt, then it has nothing else to offer you. A righteous scholarly exit from a useless instructor is the only choice sometimes.”
+
+The healer’s use of the word for “righteous scholarly exit,” and the memory of Stuart using the same one to try to get him to abandon Instructor Rao’s class, was so amusing Alden had to laugh. But the laugh didn’t happen until the words had been fully absorbed. Which meant he giggled inappropriately right as he was being shown the injector that had been prepared just in case he had an awful reaction to any of the other injectors lined up on the wooden tray the attendant was holding out for him and the healer to see.
+
+“He’s well,” Yenu-pezth said to the man. “I must have said something funny to him on the path.”
+
+A while later, Alden was lying on a frameless bed that had been salubriously positioned under a gap in the branches. The room was quiet except for Yenu-pezth’s clothes rustling as she arranged a few of her personal tools.
+
+“You’re not going to stab me with that, are you?” Alden asked, trying to keep himself light and calm as a nervous energy began to make itself known again.
+
+She had just pulled a long pointy pin out of her sleeve.
+
+“I certainly will,” she said. “Monitoring your pain response, comparing it to what you’re feeling in the dream, using it to adjust your fear more quickly and naturally…stabbing patients works well.” She placed a hand on his forehead while he blinked at her. “Don’t worry. By the time you wake up, the <<pinpricks>> will be healed so well you’ll have to search to notice them.”
+
+Her hand was warm and dry.
+
+I’m really doing this. He was ready to get knocked out now. Before he started thinking too much.
+
+“Do you want Stu-art’h to be here?” she asked. “He will let himself in if either of us show him the corner of an invitation. It’s up to you. If you say yes, you may wake to find him glue-spelled to the wall as punishment for bothering me.”
+
+Alden smiled at the image. He would have rejected the idea instantly if he’d been worried about crying or flailing around in his sleep, but he was getting drugged into stillness. A patient screaming or flinging an arm at the mind healer in the middle of treatment was uncool, so they headed that off.
+
+“If he wants to, that’s fine,” he said. “But I won’t know either way, and I’m not afraid to be alone with you.”
+
+“I am honored. And Stu will be thrilled.” She leaned closer. “The hardest part for the patient is deciding and trusting. You’ve done that. Now rest.”
+
+But what if I accidentally show I have authority control? What if I—?
+
+He felt the pinch of an injection against his arm.
+
+Be still, Alden, he told himself. Be quiet in all the ways that matter.
+
+“You were sneaky with that injector, Healer Yenu,” he tried to say.
+
+But he wasn’t sure if he did or not. He opened his eyes and found himself standing in a seemingly endless plain of grass.
+
+Thegund.
+
+The nightmare had begun.
+
+******

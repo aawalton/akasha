@@ -1,0 +1,325 @@
+---
+id: 4e181a3a-0afc-5e11-84d6-c009ca739852
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWELVE: High Flyers"
+slug: 0214-two-hundred-twelve-high-flyers
+partOf: super-supportive
+position: 214
+ownLength: 4540
+unit: words
+publishedAt: 2025-04-17
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2208393/two-hundred-twelve-high-flyers"
+royalRoadId: "2208393"
+---
+
+******212
+
+******
+
+The morning went perfectly. Alden and Stuart checked on the bokabv, and except for tracking down Quinyeth and giving her the jar of honey, they avoided interacting with people in exactly the manner Alden had suggested.
+
+He’d enjoyed coming up with a different way to say he was under orders to have a relaxing day every time they ran into someone new:
+
+“My brain is steeping, and too many words will disturb it.”
+
+“Stu and trees are calming for me…only Stu and trees.”
+
+“I promised Hn’tyon Rel-art’h I would obey the healer, so I’ll have to check with them both before I let you have a word with my companion. Shall I call him and tell him you insisted? I’ll call him now.”
+
+The last had been directed at Declared Asay-tor, and after hearing it, he seemed much less eager to have Rel-art’h come give his opinion on Alden’s business than he had when they’d met in the library. The future knight had excused himself before Stuart’s face could give away the extent of Alden’s absurdity.
+
+Now, the two of them were far downhill from the school, sitting on the edge of a suspended wood and vine bridge that was part of a network of walkways in the tree canopy. The aerial route went all the way from the Rapport School campus to the town of Root, and this bridge was halfway between. They’d been sitting here for over an hour, and not a single person had passed by.
+
+A hodgepodge of topics had been covered so far.
+
+The wreath of floating offerings Stuart had made for Emban-art’h’s bedroom door and why it was considered a spell instead of an enchanted object. How Kimberly Martinez had gotten her own car, and why that was a rite of passage for many American teenagers. What the pick-your-own produce place looked like on Anesidora. And Artonan marriage contracts—how there was a great deal of variety when it came to the terms people included in theirs, but very few circumstances in which ending your marriage was socially acceptable, even if it was magically and legally possible.
+
+The conversation found its way there because Alden was telling Stuart about Porti-loth being invited to travel on the Sdyelis Branch. That led to mentioning that the healer had recommended he watch Kwoo-pak, which led to a discussion of the second episode, wherein Kwoo found out that his parents’ plans to marry one another had fallen through and they’d decided to stick with the less extreme relationship contract they already had instead.
+
+Alden would never have guessed there were so few leaps between him saying, “Porti-loth told me I was too old for Klee-pak,” and Stuart saying, “One of the more senior students at LeafSong tried to form a study circle on marriage contracts. It was after Ro-den told her that her research for the past year was almost as important as mold he’d found growing on the bread he’d left in one of his pockets.”
+
+“Why did that make her switch to marriage contracts?”
+
+“She said if he didn’t like her research, she’d study a more worthwhile question. Like whether Grand Senator Lamet-seepa’s marriage was actually <<violable>> because of Ro-den’s dominion over him, or if it was because the senator and his spouse had hated each other for a long time. She theorized that <<hostility>> eroded a badly made contract that should never have been recognized to have marriage strength in the first place.”
+
+Marriage strength had been a point in the Kwoo-pak episode.
+
+The show wasn’t about the parents having a problem with one another, since they were happy living together. It was about Kwoo being so fixated on the prestige associated with a contract that was flawless and indelible enough to be considered a proper marriage that he’d forgotten to respect the commitment his parents had already made.
+
+“How does that work?” Alden asked.
+
+It was only after Stuart started explaining that he realized the question had been unclear. Alden wanted general information about how contracts could be eroded over time. Stuart took it as a request for specifics on what Ro-den had done.
+
+Once those specifics had been introduced, Alden was too busy gaping at the train wreck to say he’d only wanted a peek at the locomotive’s engine room. Even Stuart’s brisk, factual explanation of events couldn’t take all of the drama out of the situation.
+
+The Grand Senator was on the committee that had denied Ro-den the title he wanted and then argued with him over it. In the heat of one of those arguments, he had quipped that if Ro-den was actually powerful enough for the attention he demanded, then he wouldn’t have to demand it from better wizards.
+
+Only a couple of days later, Ro-den had gotten himself invited to a dinner attended by important people. He’d shown up with the senator’s wife.
+
+She was an ordinary class woman who was thought to be madly in love with her husband. Their marriage was heavy on alien romantic gestures, and Stuart assured Alden it was all very public and adorable in a way that thrilled the senator’s wizard supporters and charmed ordinary class members into living under his representation. She had been the star of an Artonan Cinderella story for decades.
+
+Their contract didn’t allow her to have sex with other people at all. A total ban on that was noteworthy, and it was widely gossiped about, in part because she attended lots of parties. While not every adult party on the Triplanets included an orgy, they were a frequent enough occurrence that saying someone had hosted a good one wasn’t hugely different from mentioning how great the live music had been at an event on Earth.
+
+Alden understood this after sitting through all of the sex ed classes in intake. But it was still enlightening to have Stuart spend an additional few sentences explaining that the dinner they were talking about wasn’t one where people were expected to do that kind of thing. Like he assumed Alden wouldn’t properly appreciate the deliberate nature of Ro-den’s revenge without the clarification.
+
+At the end of a sedate dinner party, while a few dozen other wizards sat around imbibing potions like guests with manners, Worli Ro-den had helped the Grand Senator’s wife to have her way with him.
+
+Just right there in the chair he’d eaten second meal in.
+
+While she howled her approval, he bent so much authority to suppressing her marriage contract that nobody felt like it would be safe to interrupt them.
+
+Alden didn’t know what to say into the silence that followed this story.
+
+Artonan Cinderella is not into Senator Prince Charming.
+
+Joe had called this situation “sleeping with one senator’s wife.” It sounded more like he’d given the senator a temporary divorce so that everyone on the Triplanets could find out how much his wife loathed him.
+
+“People now have many questions for the Grand Senator,” Stuart said. “About what kind of contract his marriage really is and about how he has behaved toward his spouse. There’s a rumor that when he rushed into the house where the dinner was being hosted, she said, ‘If you were actually worthy of my attention, I wouldn’t be <<claiming>> a better wizard.’”
+
+“And the senator didn’t die right there?”
+
+“He lives still. And he was prevented from attacking Ro-den afterward, while Ro-den was <<mellowed>> by the activity. The other guests intervened. They had had time by then to reverse their potion effects and insist on more reasonable behavior…somewhat more reasonable behavior. Are you going to buy a car as a rite of passage, too?”
+
+Alden blinked and shook as much of the shocking imagery from his thoughts as he could. “No. Anesidora has a lot of easier options, and cars are expensive. I love Esh-erdi’s Nine-edged Son, though. Does your family ever use something like that for travel?”
+
+So they’d talked and talked, and now they were having an airplane flying contest. They were down to the last pieces of origami paper Alden had had in his bag. He watched a green one he’d just made dip a little too soon. It wouldn’t beat his previous record.
+
+“Aw… ”
+
+He was winning if they didn’t count the one Stuart had helped along with a spell. The green plane swooped down and landed on the ground a few steps away from a purple one.
+
+Other than the Ro-den story, the most stressful thing that had happened since they’d left the school behind was Alden being startled by the gift Quinyeth had given him in return for the honey. She’d gone for an exchange of sweets, presenting him with something like a Pez dispenser. Only he hadn’t realized that was what it was at first. It looked like candy beads on a stick, so he’d thought it was a simple lollipop until he tried to taste it and it fired one of the beads at his approaching mouth.
+
+At least Stuart had gotten a laugh out of it.
+
+Healer Yenu would probably approve of paper planes.
+
+Thinking of her took him back to the bits and pieces of the dream he remembered. The best thing about those fragmented recollections was how he could tell that having them softened some of the edges he’d been cutting himself on for months.
+
+He now had a few images of himself dealing with his fears instead of being overwhelmed by them, and it made more of a difference than he would have expected.
+
+“The painting I saw in the top library showed up in one of my dreams,” he said. “I wasn’t expecting that.”
+
+“Which painting was it?” Stuart was carefully checking the evenness of the wings on his own plane before he launched it. “I should have asked when you first told me. But we always have so much to talk about, and some things I wonder are left behind.”
+
+“Same,” Alden said. “I mean, I’ve noticed the same thing. It was a painting of a knight in a desert, or a place that might only have looked like a desert because the chaos had destroyed so much there. He was alone, and he was protecting one spot of life.”
+
+“That one,” said Stuart, throwing his paper plane suddenly and with none of his usual care. “I hate that painting.”
+
+Alden shut his mouth and looked over. “You do? I was about to say how much I appreciated it. It’s dark, and it’s sad. But with the knight there… ”
+
+The desire to explain it correctly was almost like having the weight of the inward path pressing on him. “It’s not over yet. The situation is bad, but it’s not over yet. Someone’s still trying. Maybe that’s obvious, but it feels meaningful to me.”
+
+Stuart was watching the spot where his plane had just crashed. “I am glad you like it. ‘Someone’s still trying’ is one of the meanings it’s meant to <<evoke>>. Jozz <<nitpicked>> the artist until she actually <<excused>> herself from the work once, but everyone agrees it’s an excellent painting. Including me. I don’t like it for personal reasons.”
+
+“Jozz?”
+
+“My older brother. From the last child group in our family. The painting is of him.”
+
+“He’s alive!” Alden was even happier to hear that the knight had made it out of that place than he would have expected to be. “And…he’s your brother. The last big group born at the siblinghold? I thought the person in the painting might be a famous knight from a very long time ago. Or an older person, at least.”
+
+Stuart’s siblings in that set should be around late university age. They were almost all still in school, from what Alden had gathered. Wizard university lasted forever, being a knight came with educational delays, and being a votary came with expectations of its own.
+
+We’re definitely talking about adults here, but not wise, important figures that would have special artwork made of them. You’d think.
+
+“Jozz is definitely not famous.” Stuart sounded amused. “The paintings in the library are always of younger knights. There should be only a small distance between the lives of the people in the images and those of the students viewing them.
+
+“Having such a painting made of a significant moment is a pastime some knights enjoy while they recover from a binding, an affixation. The process fills long days and encourages a person to focus on their accomplishments. So the school frequently has new ones to choose from. Jozz was proud they wanted to display his.”
+
+No legendary warriors on the wall, but instead, people you would probably see around the Rapport. Your classmates’ sisters and brothers. “That’s hyektch,” said Alden.
+
+Stuart shook his head.
+
+“You like how I use the word hyektch. Just admit it.”
+
+Stuart seemed to be in a fine mood after the initial reaction.
+
+Alden was about to ask what he hated about the piece of art. Cautiously—Stuart plus random family member plus big emotions had so far been an equation that resulted in unrelaxing stories being shared. But Stuart answered the question before he could phrase it.
+
+“Jozz looks so lonely in the painting. His skill is Whisperer of Refuge. He didn’t choose it only to <<complement>> Sina’s skill, but it did complement hers. And he liked that. In the painting, he is waiting for the other members of his squad to reach him. Our cousins. I know he will be happy to see them when they do, and that they will all come home safely. Whenever I look at it, though, it feels as if he waits for her.” He glanced away from Alden’s gaze. “And she won’t ever come for him. Because of that…I don’t like it much.”
+
+For a moment, Alden scrambled for something comforting or maybe even deep, to say. Then, he stopped scrambling.
+
+“I understand. I wouldn’t like it much either if I were you.” He passed Stuart their last sheet of paper. “You get one more chance to win. That time you cheated with your wizard powers wasn’t real.”
+
+“<<Valid,>>” Stuart said.
+
+“It wasn’t real or valid.”
+
+“Stop making the bridge bounce while I’m folding.”
+
+Alden swung his legs to make the bridge bounce harder.
+
+A minute later, a dark yellow plane was airborne, and they both watched it avidly as it sailed under limbs, down and down…
+
+“No!” said Alden. “It’s going too far!”
+
+“It’s going a proper amount of far, I think,” Stuart disagreed. “When I win—”
+
+He never finished the sentence. A knight in a peach-colored coat with matching ribbons woven through her purple hair teleported onto the forest floor, directly in the plane’s flight path. It crashed into her forehead within a second of her arrival, and she screeched a loud, “Yeeeeeee!,” while swatting with both hands like she feared she might have landed in a swarm of the flying attackers.
+
+Alden and Stuart looked on in surprise as Emban-art’h pounced on the fallen plane, smashed it into the ground with a fist, then picked it up to examine it.
+
+“I think she thought it was a bug,” Alden whispered.
+
+Stuart’s small laugh attracted Emban’s attention, and she looked up at them. She had the crushed plane held up in one hand.
+
+“What is this?” she called. “Stu?”
+
+“The Contract definitely made that happen,” Alden said.
+
+[What a thing to suggest, Alden.]
+
+“Definitely.”
+
+Stuart was laughing even harder.
+
+******
+
+Emban-art’h opted to jog to an access ladder some distance away instead of accepting Stuart’s offer to levitate her up with a spell or Alden’s offer to drop her some paracord.
+
+“She’s taking the longer path to gather <<composure>> to herself and consider your presence,” Stuart said after she had disappeared from view. “She might not have expected you to be with me. She didn’t call first, so she may have assumed you were with Healer Yenu.”
+
+“If you think she doesn’t want me here, I’ll leave. I know the way back to the school summonarium. Or I could teleport from here.”
+
+“We’ll find out. If she desires privacy from you, she’ll say so.”
+
+Emban reached their bridge a minute later. She was still carrying the plane she’d killed.
+
+Stuart stood as she approached, and Alden noticed his pale auriad sliding off his wrist to coil around his fingers as he greeted her with a nod and an outstretching of both upturned hands.
+
+“You’re going to be so proper after hitting me in the face with a folded paper toy and laughing about it like an o’odee?”
+
+[A ground-dwelling animal that resembles an ostrich, known for its laugh-like calls.]
+
+Alden read the description as he rose to greet her too. If Stuart was doing it, it felt wrong to sit and look up at them both.
+
+“I’m glad you’re feeling well enough for the Mother to tease you.” Stuart did sound glad about it.
+
+Alden studied Emban-art’h. She looked a little better than the last time he’d seen her, as if she might have gotten more rest. And being teased by the Contract here was a good sign, wasn’t it? He didn’t think she would drop particularly miserable knights in front of paper planes.
+
+“I’m sure I’m not well enough for this kind of <<mockery>>,” Emban-art’h grumbled, staring at the ground through the narrow gaps between the boards of the bridge. When she looked back up, her pink and gray eyes settled on Alden. “I hope your healing session surpassed your expectations. I thought you would be sleeping after it, as people often do.”
+
+“The healing involved a lot of sleeping. It’s made me awake instead of exhausted this time. Did you want to speak to Stu alone? I can go. Don’t tell anyone who might pass by that I’m fine on my own, though. I’ve been letting everyone else think I can’t recover well without him being nearby.”
+
+“You mean you’ve been leading them to think that. Not letting,” Stuart said helpfully. “Nobody thought that on their own.”
+
+“Why would… ?” Emban-art’h started. “Actually, I don’t care what you two were able to lead <<silly>> people to believe. You may stay. I have no secrets to share with Stu. I wanted to talk to him about a trip we’ll be taking.”
+
+“Is it next weekend so that it doesn’t take me away from my schooling?” Stuart asked.
+
+“No. We’ll go the day after tomorrow. I apologize. You’ll probably miss every class and all the nightly festivities LeafSong is so famous for.”
+
+“Do not shame your votary by apologizing for requesting his services in a time of need.”
+
+They both wore expressions that didn’t match their words. Emban-art’h looked the opposite of sorry, and Stuart’s face said he thought she should apologize harder.
+
+It is confusing that she keeps timing her requests to pull him out of school.
+
+Alden was still of the opinion that this was some mild revenge for the sackfruit, and whatever else Stuart might have done to annoy his cousin recently. If she was conspiring with his parents, like he worried, then this was a baffling method. And if she were truly trying to drive him crazy, she could have taken it up a notch or ten. Alden had no doubt that he’d occupied more of Stuart’s time this weekend than Emban-art’h had.
+
+Plus, she’d seemed willing to entertain the idea of Stuart being a knight the first time she’d spoken to Alden. Not exactly brimming with encouragement, but she had said she thought maybe he could do it. That might as well have been a full-throated cheer compared to the pushback from others.
+
+She also called Jel-nor a prey-animalish girl who processed Stuart’s leg like a sausage…and she seemed pretty dismissive of LeafSong then, too…
+
+For the first time, it crossed his mind that Emban-art’h might genuinely hate Stuart’s university choice and be pulling him away from that place every chance she got in protest.
+
+That’s not it. It’s too dumb and simplistic.
+
+“Where do you go to school, Emban-art’h?” he asked, as much to head off any bickering that might be approaching as to satisfy his curiosity.
+
+“DawnStep. I don’t have any reason to choose another.”
+
+“It’s where most knights pursue their university education,” Stuart said.
+
+Which is why he picked another school?
+
+“We have magnificent laboratories on campus,” she added. “Stu should arrange for you to tour some of the safer ones sometime.”
+
+“Oh. Are you someone who enjoys lab work?” Alden asked. “Potions? Or more of the type with the breaking down of magical ingredients and then experimenting on them?”
+
+“I’m not. But I respect anyone’s <<passionate interest>> in that kind of labor.” She had turned her attention to him fully and was speaking in what he thought was an encouraging tone.
+
+Why is she bringing up labs if she doesn’t care about them? She doesn’t think I have passionate interest in them…does she?
+
+He’d have to correct that possible misconception before she spread it around to other art’hs and they all decided he likedhandling toxic waste and peeling the flesh from pickled aliens.
+
+“Can do” and “want to do” are very different things.
+
+“And I thank you for the basket of Earth fruits,” Emban-art’h continued. “I’ve eaten much of it and divided the remainder of the abundance into smaller baskets for my friends who have also endured the binding recently.”
+
+“That’s good. I hope they enjoy it so much. About the laboratories at your university, though—”
+
+She’d already turned away from him. “Stu, I found a suitable <<Here-to-There>>. That’s what I want you to come with us for. Ryada is in a better mood for one now. It’s…”
+
+Alden watched her talk. The tails of her slender peach ribbons waved as she became more animated, describing plans for making sure a couple of her squad members had a good time at an event that sounded like it might be a parade that celebrated people moving into new houses.
+
+Stuart no longer seemed worried about missing school. He shifted to what Alden guessed was more of a real votary mode, assuring her he’d brush up on spells that might be needed and that he’d have all the supplies ready to go.
+
+Emban-art’h looked really happy to have him on board. Alden was surprised at how quickly they’d switched from needling each other to something warmer.
+
+“It will be fun!” Emban-art’h announced. “You should bring another votary to help. Or a prospective one.”
+
+Stuart tensed. “I don’t need help from another votary.”
+
+His cousin sighed. “I meant someone you get along with. Surely you can think of just one person who would be—”
+
+“I can perform all of the necessary duties by myself.” Stuart was firm.
+
+“If you must,” Emban-art’h said. “I didn’t come here to argue.”
+
+She stepped over to the edge of the bridge and looked toward the forest floor. “You threw a lot of paper flyers.”
+
+The bright colors stood out against the dark leaves.
+
+“We’ll pick them up before we go,” Alden said.
+
+“Let’s have Stu pick them up now. And make us some cushions. I would like to be comfortable while I defeat you both.”
+
+Stuart was still looking stiff, like he expected to have to fight off the idea of a second votary for the upcoming excursion even though Emban-art’h had just dropped it. He caught Alden’s gaze.
+
+“I’ll summon the flyers. I didn’t bring senva with me for cushions today. I apologize, Emban. Another spell might not be as well done, but I’m sure I can manage. Do you have a preference for which one I try?”
+
+Alden reached eagerly into the hidden pocket in the front of his pezyva. His fingers closed around the small, almost flat pouch that had been his final purchase from Needle & Wheedle. He pulled it out and presented it to Stuart, the gratitude logogram displayed.
+
+Stuart was immediately distracted from what his cousin was saying about a spell she didn’t like because if felt like sitting on a mound of twigs. He took in the sight of the pouch with the start of a smile on his face. “A pocket offering?”
+
+“It’s senva seeds!” Alden said. “I’ve been carrying them, waiting on you to cast your cushioning spell again. Should I say the traditional thing even though you’re you and not a helpful wizard I don’t know?”
+
+“No, you don’t have—”
+
+“I’ll say the traditional thing since it’s the first time. For the gift of your magic. Please take what you need today and what may be wanted tomorrow.”
+
+Stuart was delighted by the ordinary little ritual. Alden would have known it even if the Artonan hadn’t been beaming. He took his time admiring the pouch and then carefully selecting four seeds. Three for the spells he was about to cast, one for tomorrow that was carefully wrapped in a fabric strip and nestled in a bag full of other spell ingredients that Stuart had in his tunic pocket.
+
+Emban-art’h watched her cousin without comment, though she did tilt her head and turn one eye toward Alden when Stuart spent several seconds longer than necessary debating which piece of wrapping fabric to use for the seed.
+
+They weren’t a rare and precious plant.
+
+Stuart did finish tucking it away, and before long, they were all sitting on squishy cushions of magic that smelled a bit like basil, with piles of folded planes beside them. Stuart sat in the middle. Emban-art’h was on his left. She felt like establishing additional rules and adding challenges, and at the moment, she was saying that planes that didn’t go over a particular limb shouldn’t count.
+
+Alden eyeballed it, not liking his chances. “Are you expecting to be very good at this game, Emban-art’h?”
+
+“I expect to frustrate myself if I don’t win.” she said. “Please do your best to be a difficult opponent. Maybe it will make me want to use my skill.”
+
+Alden remembered working himself up to preserving that first ice cream cone after he’d been back on Earth for a while. “Is Definer of Grooves good for throwing paper flyers?”
+
+He had nothing more than uneducated guesses about what a skill with that name might do.
+
+“I can define for objects I hold, so yes, it is. Every one thrown well can make the next flight better. Longer. More accurate. ‘The first arrow falls short. The last pierces the sun’, was once said by Hoya-og’h, who is the <<most accomplished>> Definer of Grooves.”
+
+Repeated actions by the skill user leading to increasingly potent effects. That’s what it sounds like.
+
+“That’s amazing,” he said. “I hope you accomplish even more with it than Hn’tyon Hoya-og’h.”
+
+A moment passed before she leaned around Stuart to look at Alden. She seemed to focus on his face and then the commendation.
+
+“You may call me Emban, if you want.”
+
+“Thank you, Emban.”
+
+He wondered if she still thought he was too boring for the amount of trouble he’d caused in the siblinghold, but after considering, he decided the answer was probably yes.
+
+And he didn’t want to risk bringing up anything about family tension when Stuart had a smile on his face and a paper plane in his hand.******
+
+******

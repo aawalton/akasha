@@ -1,0 +1,121 @@
+---
+id: c1076846-5b67-530c-bcab-05e5a1cf9cb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 672: Jump in Rankings"
+slug: 0094-chapter-672-jump-in-rankings
+partOf: system-change-system-universe
+position: 94
+ownLength: 2146
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3770723/chapter-672-jump-in-rankings"
+royalRoadId: "3770723"
+---
+
+Chapter 672: Jump in Rankings
+
+Rook's shocked face moved from Tanya to Alex and then back multiple times. It also landed on Derek a couple of times but didn't linger long. "How is this possible?" he finally asked, splitting the question between both his son and his daughter. "Surpassing your sister is one thing," he said to Alex. "But increasing your ranking by so much throughout the entire clan? That's a different matter entirely. What exactly happened during the training?"
+
+"Well... for starters, Adrian betrayed me and the clan without straight-up betraying us," Alex said, and the temperature in the room dropped.
+
+"What did you say?" Rook asked, his face slowly turning red. "Adrian betrayed you?"
+
+"Yeah, pretty much," Alex replied. "Took the teleportation device and left me to die."
+
+Rook quickly shot to his feet and shouted, "We must find that bastard. It hasn't been too long since he left. We may still be able to track him down."
+
+"Don't bother," Alex replied.
+
+"Don't bother?" Rook asked back. "How can I not bother? That bastard tried to kill one of my children. He deserves a fate worse than death."
+
+"He already got death," Alex replied. "And probably a fate worse than it, too."
+
+"Wait? What?"
+
+"Hall Master Sheen told us that he was followed and interrogated after he left. He said it was cleaner to do it that way," Alex explained.
+
+"Oh..." Alex's father fell back into his chair. "If that maniac took care of it, then he certainly did receive a fate worse than death. But why was I not informed about any of this?"
+
+"Because they all thought I was still dead," Alex replied. "No point in spreading all the information if it wasn't going to change anything. He got what information he needed from Adrian and took care of him—any more and it would have just added to your grief since Adrian was picked by you."
+
+"That... is true," Rook replied. "Then who was Adrian working for?"
+
+"He wasn't 'technically' working for them," Alex said. "He wouldn't have been able to get around the oath like that. But it was the Grimshaw Clan."
+
+"Of course it was them," Rook clicked his tongue. "Well... I am just happy you have returned home safe to me."
+
+"Me too," Alex said. "There were times when I thought I wasn't going to make it. No... I knew I wasn't going to make it. That's why meeting Derek there was so lucky."
+
+"Yes, and once again, I thank you for saving my boy." He bowed his head slightly.
+
+"Wasn't a problem," Derek replied. "Didn't seem like a bad person, and it didn't cost me anything to do so—actually, it was the right decision because Alex helped me out quite a bit afterward."
+
+"That's good to hear," Alex's father replied. "I always knew he was more than just a boy who shuts himself in his room all day studying." He turned and looked at Alex. "But that doesn't explain the sudden jump in rankings. Making it back alive certainly wouldn't do it—especially since you are back well before trainees are supposed to be. So, what exactly happened?"
+
+Alex nodded at his father, then went ahead and told him what he could about his time spent on the training grounds. He started with what his first days there with Adrian were like, all the way up to the day when he woke up and couldn't find his escort. Alex's father ground his teeth hard when thinking about the betrayal. Derek thought he was going to blow a gasket during that part.
+
+Once he was finished with that, he told him what he could about Derek rescuing him, then his fight with the other trainee from the Grimshaw clan. He left out the World Boss since he wasn't technically part of that fight, and he didn't mention the exact way they teleported back. Once he was finished telling his father everything, the room went silent, and they waited for the head of the branch family to speak.
+
+"I'm sorry," Rook finally broke the silence with an apology. "I'm sorry I sent you there without vetting your escort enough."
+
+"There's no way you could have known, really..." Alex said. "I mean, Adrian was with us for as long as I can remember. I certainly had no doubt about him until he vanished. Even then, I thought something bad had happened to him and never really thought he betrayed me until later."
+
+"Still, as your father, it is my duty to keep you safe," Rook said. "And I failed in that duty."
+
+"Well... that doesn't matter," Alex replied. "I'm back home safe and sound now."
+
+"That is true. You are back home. You are back home, and you have skyrocketed up the clan rankings. And yet, still, your story only partially explains your rise. Defeating the Grimshaw boy certainly contributed to it, though—and likely more than you think," Rook said. "Speaking of which, did you receive a reward for the matter? It is something that I would suspect the hall master to reward."
+
+"I haven't received a reward yet, no," Alex replied. "But I can request a reward at any time. I just need to think it all over."
+
+"Do you have any plans? Would you like my help in selecting a reward?" Rook asked. "Perhaps something that can combine with your new rank and get you out of your room studying and put you in a better position to grow stronger and further your standing in the clan?"
+
+"About that..." Alex replied. "I was thinking of doing the opposite."
+
+"What do you mean?"
+
+"Well..." Alex rubbed the back of his neck in slight embarrassment. "I was actually thinking about using it to receive a position that lets me step away from the standings and allows me to spend more time doing what I like... which is studying."
+
+"That..." Rook shook his head with an odd grin on his face. "That is certainly a reward that I could see you requesting."
+
+"Yes," Alex replied with a nod. "Hall Master Sheen was actually the one who suggested that I ask for such a reward after speaking with me for some time."
+
+"He did?" Alex's father asked with raised eyebrows. "I wouldn't expect that man to suggest a non-combat role for anyone."
+
+"I wasn't exactly enthused when I was explaining my role in killing Davis Grimshaw," Alex said as he looked down, refusing to meet his father's eyes.
+
+"There is more to life than fighting," Rook said when he saw his son look away. "I should know that better than most, considering our branch leans towards research before fighting. It is only that you have such fine control over your soul threads that I wanted you to take a path of combat. I believed you would truly be able to stand out among your generation of clan members."
+
+"I understand," Alex replied. "However, I prefer research and studying over fighting. But I do enjoy taking up a support role in large fights against monsters. I was able to do that quite a lot in recent days and was surprised to find that I didn't hate it. In fact, even if I am allowed the reward to leave the rankings and focus on my own studies, I believe that is something that I will continue to try to hone."
+
+"From what I saw, you would be good to have on just about any adventurer party as support," Derek cut in. "You have some attack power, but you really do shine when using those threads to trip up monsters or even immobilize them. And I can't help but wonder what else those threads will be able to do in the future. Besides, how else are you going to level up?"
+
+"Leveling up is the easy part," Alex replied to Derek with a slight laugh. "If I were happy where I am currently, it is not hard to have the clan feed monsters to me or to find a few easy dungeons to power level. If I wanted to do entirely research, in fact, that would be the way to do it. It is what many people do when they feel they have reached the end of their talent in their affinities. Once that happens, the clan is always happy to have more max-level people, so they will help."
+
+"I see," Derek replied. "But you don't plan on letting your affinity fall stagnant, do you?"
+
+"I do not," Alex replied. "Of all ways to increase one's affinity, studying and research is one of the longest and most difficult, but it is possible. Supplementing it with some adventuring as support should allow me to keep ideas fresh—maybe even think of new and exciting ways to use my affinity. Every single thing one does with their affinity in mind goes towards increasing it."
+
+Ah... Derek thought internally. That would make sense why my affinity is already so high. It also explains how Brandi and other crafters are able to go about things. I thought it was just because I spent so much time trapped in the void, but I did meditate on it as well. I didn't even have a void-based class, and I'm pretty sure I could already sense it and feel it by the time I was able to escape. Derek clenched his fists a few times.
+
+There are definitely more ways than just fighting and being in a suitable environment to increase affinity. Maybe that's something I will see about spending some of my credits on. That, or I can pick Alex's brain some more. Then again, there is no sense in doing any of that until I make it to Origin City and meet with Dave. Who knows what he is planning—or even if he is planning. At this point, I wouldn't be surprised if he just gave me the guest pass on a whim—especially with the more I learn about Transcendents, he thought.
+
+"It makes my soul happy to see that my son has been thinking about his future plans," Rook said with a happy smile on his face. "I thought you were the most lost out of my children, but it seems I underestimated you."
+
+"No... not really," Alex gave his father a wry grin. "This is an idea that I have only thought about recently. Before traveling with Derek on the training planet, I wouldn't have thought twice about supplementing my research with support combat. I would have buckled down and tried increasing my affinity with pure research and practice. But adventuring with the right people can be exciting, and in that short time, my affinity increased by multiple points, and I have gained an abundance of ideas on topics I may be able to apply to my soul thread that I would like to research."
+
+"Multiple points?" Tanya looked at her brother with wide eyes. "Just what is your affinity at currently?" Alex turned and gave her a wide smile, then he looked at his father, then at Derek.
+
+Derek shrugged and said, "I can leave the room if you want. I don't need to know any of the specifics about your affinity or its level." Then again, I'm pretty sure 'soul thread' is just the general term they use for their affinity because that is what it resembles. I'm sure he has something a lot more specific. No way the entire clan has just 'soul thread.'
+
+"It's fine," Alex said. "I trust you, and besides, it's at least not that big of a deal for me." Then Alex looked back over at his sister and said with a smile, "It finally crossed the threshold. It's at 51%. If I can just find a way to force an upgrade before level 500..."
+
+"Over 50%?" his sister repeated. "Mine isn't much higher after all my training and fighting."
+
+"Hahahaha!" Rook let out a massive burst of laughter. "Unbelievable! Two of my children! Two of my children have the capability of becoming Mid Ascendants or better! If either of you think of anything that could help in your forceful upgrade, then do not hesitate to let your father know, and I will do my best to support you."
+
+The siblings looked at each other and smiled, then turned back to their father and nodded. "We will!" they shouted in unison.
+
+"Now, about your ranking, my boy," Rook changed the subject back to Alex's sudden rise in the rankings. "Other than the Grimshaw boy, what else did you do?"
+
+"He made friends with me and brought me here to your clan for a... visit," Derek said. "Hall Master Sheen seemed to think that was a big deal, so it looks like he went a bit overboard, just like he did with the badge he gave me." Maybe I should have toned it down some…

@@ -1,0 +1,129 @@
+---
+id: 2d472769-ffb4-500a-8108-0dbce482440a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 392 : Advanced Reading"
+slug: 0094-chapter-392-advanced-reading
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 94
+ownLength: 2303
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3550689/chapter-392-advanced-reading"
+royalRoadId: "3550689"
+---
+
+As I began my journey towards Keld, I had plenty of time to myself, forcing me to reflect a bit on my choices. What I soon realized was that to gain entry, I needed to use one of my adventurer identities. Weighing up my two options, I found my elf form much less problematic, despite everything that happened.
+
+Yes, whatever happened in Dhoggurum was a mystery, but I could hide behind the shield of my contract, which forbade me from revealing sensitive elven matters. Supposedly, it would resist even compulsion, which was always a good thing in my opinion.
+
+Meanwhile, Sylvain was a much more problematic identity. He had sort of appeared from nowhere, advanced quickly, set out to sea, and then was lost. When I returned the prisoners, Sylvain wasn't among them, and who knows what they said about him, especially the ones reluctant to leave their mermen, created delusion.
+
+Could I use Keld as my scapegoat for my return?
+
+It was a bit of a long shot, but all I really had going at the moment. What gave me confidence, though, was that I still held the full authority of the Feirelle elves, and because of that, I had some options at my disposal.
+
+Llewel had expressed interest in them and their use of golems in his heated conversation with Paeris, and the Feirelle elves seemed to need all the allies they could get. While I had literally just sworn off politics, I wasn't against seeing if Keld wanted to establish a positive relationship with them.
+
+If I open the door, then I can leave the rest to Llewel or Paeris, or maybe even my persona to handle. But more importantly, I could use Keld as an excuse for not saying anything or for not returning sooner. I was away on a diplomatic mission. Perfect!
+
+Feeling a little better, I continued my trek with some additional motivation. Consulting the physical map with my constantly updating system map was a bit of a chore, and I wished they had simply added the information to my skill.
+
+Wait… I don't even have the skill.
+
+I suddenly realized that, ever since I had created [Map], I had somehow stopped regaining the skill [Mapping]. The skill wasn't gone; I even confirmed it was available for purchase, but I was no longer gaining it for free.
+
+Did I run out of things to learn from it? Or is Mother upset that I was exploiting [Skill Deconstruct]?
+
+I wasn't sure, but if I had to guess, I was leaning toward the former, as Mother didn't seem to be the one to punish me. If anything, I felt like she was maybe a bit nicer to me than Gramps was, especially given that my application was still pending.
+
+Returning to my original thoughts, I wondered if I could somehow get my [Map] spell to eat the parchment and update itself. My thoughts immediately went to [Consuming Osmosis], but unfortunately, that was a trait, not a skill.
+
+Wait, I already have information extraction from [Position], technically. Can't I just branch off that?
+
+I wasn't sure, but I had plenty of time to play around. Yes, flying and spell crafting at the same time wasn't the best idea, but thanks to the power of delegation, I handed over flight control to one of my [Sub-Cores], leaving me to have fun.
+
+Being a slime is the best. What else could ever do something as great as this? Maybe a hydra? Or something else with more than one head…
+
+And that was how I spent most of my journey. I occasionally looked at the scenery, but it really just seemed like more and more land. When I grew bored of that, I tasked one of my [Sub-Cores] to keep a lookout for any interesting monsters to eat.
+
+The further north I traveled, the more barren the landscape was becoming. It quickly became evident why the orcs had traveled south, as most of the monsters that remained were not of the technically living variety.
+
+Golems and elementals seemed to be the prime monsters for this barren location, although I did spot the occasional undead roaming. Killing one of them revealed it was an unfortunate adventurer who had perished, with the abundant untamed essence eventually animating his corpse.
+
+I pulled out the CUBE, but no matter how much I poked or kicked it, it refused to draw in the essence here. Either it was full, or it wasn't allowed to function here for some reason. Either way, it didn't affect me personally, so I wrote it off, as I was just hoping to feed my CUBE for free.
+
+Despite flying, the trip would take several days, as Keld was farther away than I could imagine. I did spend a few nights out camping by digging a hole in the ground, just like old times, but I also saved my location and then teleported back to the island to check up on everyone.
+
+The goblins were settling in surprisingly well, with Leon, of all monsters, being the one who somehow took charge of them. I honestly would have thought the crab would hate the goblins, with their uncanny resemblance to the brinelings, but that wasn't the case.
+
+Later, I found out from Vee the reason for his dramatic change in attitude: he'd unlocked a new function in his Bastionwright class. More accurately, it was something it was always capable of doing, but he never had the resources, or more specifically, the manpower required.
+
+Leon could designate people under him as fort commanders, greatly reducing the burden placed on him. Effectively, his class had a whole other hierarchy structure built into it, and with the goblins being weaker than him, he could successfully recruit them.
+
+Vee and I are higher level than him, so he got no reaction from this ability. I don't think Logan or my personas count either, and there was no way in hell he would recruit Vanessa.
+
+As for Yuzz, she had become quite friendly with Sylbera, much to the amusement of Vee. When I asked her about it, she said that in every fiction she ever read, goblins and dwarves were mortal enemies, so seeing the two cooperating tickled her fancy.
+
+But… Sylbera is a slime…
+
+I didn't say anything, happy to just leave Vee to her strange fantasies. That only left Glooz, the potential chef, and it seemed he had suffered the most during my absence. He must have tried to feed his gloop to Vee and was punished, as not only was his cauldron thrown into the oceanic trench, but he was also in prison.
+
+Even though I had called it a prison, that was a very loose interpretation. Glooz had all the amenities he could ask for, but he was under house arrest. His entire home was packed to the brim with cookbooks, and he was ordered to study them as if his life depended on it.
+
+Glooz seemed both happy and sad with his situation. Sad about his gloop legacy being destroyed, but happy to learn more about the secret art of cooking. His additional levels in the apprentice chef class were proof enough that he was making progress. What probably sealed his fate was when Vee introduced the other goblins to real food, and it seemed they had unanimously abandoned the gloop.
+
+During my trip, [Identify] unexpectedly leveled up to seven. I was actually surprised, as I couldn't recall the last time it had increased; it felt like ages ago.
+
+However, after trying it out on a few monsters, I noticed no additional features had been added. I wasn't sure how to feel about it, but then I was brought back to my lack of success in integrating the drawn map into my system map, when I had another crazy idea.
+
+<Do you wish to deconstruct the skill [Identify LV 7]?
+
+Warning: this cannot be undone.
+
+Additional warning: sub-skills will also be deconstructed.>
+
+I actually laughed at the message. It had been called an additional warning, but to me, this was a deliberate enticement. I wanted the information from those additions to my [Identify]. I'd long grown a bit bitter with the skill, as it seemed once people or monsters reached a certain level, they just naturally countered it.
+
+Heck, I'm proof of that myself. I can show their [Identify] pretty much whatever I want thanks to [Identity Fabrication]. Coupled with my supreme shapeshifting abilities, they have no choice but to believe it. Yes! Good riddance!
+
+<Skill [Identify LV 7] has been lost.>
+
+Perhaps I should have thought about my decision a little more, as I nearly fell out of the sky. The sheer amount of information stuffed into my core was so much that even my [Sub-Cores] present needed to help me handle it, which resulted in our flight being temporarily suspended.
+
+Thankfully, I was a slime, so even though I hit the ground, I simply splattered a bit before bouncing up and reforming. Gravity was no longer my enemy, and even when paralyzed by the system overloading my mind, controlling my slime to protect myself came naturally.
+
+I eventually recovered and quickly teleported back into the sky. I wasn't sure if anyone or anything spotted me falling, but I didn't want to take the chance while I was preoccupied. While one of my [Sub-Cores] resumed our travel, the rest of us were occupied with sifting through and sorting out the plethora of raw information.
+
+Who knew there was so much in that skill… Then again, I upgraded it with something like… Three? Four? Other skills…
+
+I couldn't recall, and at this point, it was a bit too late. Either way, I had apparently gotten what I wanted as we quickly found details on scanning things for information. The best part was that this added to my existing knowledge from the other system-specific skills I had pulled apart, meaning I was once again adding to my puzzle-piece collection.
+
+Yeah… There was no way I could do it with just what I had taken from [Position]. Even [Landmarks] can't compare to this. I know I was pretty harsh in my insults to [Identify], but this is kind of crazy.
+
+After we sifted through and categorized most of it, I began working on my upgrade to [Map]. Whether it was due to my previous efforts or perhaps thanks to my spectacular nine levels in [Mana Weaving], it was surprisingly simple, and I soon had a working prototype.
+
+Casting this prototype spell, it scanned the parchment and then translated it into something that [Map] could work with. I was overjoyed, though the difference between something I had explored and updated personally and this manual addition was clear as day.
+
+It looks like [Map] is unsure about the information I added. Not only is it blurry, but it appears to be scaled incorrectly.
+
+Either my prototype spell was too rushed, or the drawn map wasn't perfect enough; people made mistakes after all. Either way, it was enough to not need to constantly reference the parchment, and now I could reference our destination against my current position all in one quick usage of [Map].
+
+I'd barely touched the surface of what was revealed from [Identify]. One of the reasons my prototype was successful was that the parchment offered no resistance, but the actual skill [Identify] tried to uncover the secrets of people and monsters. Not to mention magical items, which also had their own hidden mysteries.
+
+I wonder if I should give this task to Sylvester… If he can get a prototype working for magical items, that would be great. Wait, I just had another brilliant idea!
+
+I looked at my profile and looked at [Rune Reading]. It was a necessary skill for enchanters, and the comparison to the [Appraisal] upgrade for [Identify] was uncanny. Yet [Rune Reading] was arguably not as good and required a lot of user interpretation, but if we combined it with the [Identify] framework, we might be able to fix that…
+
+Oh… I think I just got chills. Yes, I need to tell him immediately; this can't wait.
+
+I saved my current location and teleported back. Regardless of whatever Sylvester was doing, I summoned him and explained my crazy idea. Owing to the fact that I could flawlessly share information with my personas, and the fact that Sylvester was modeled after me, he quickly caught on, and a fanatical spark flashed in his eyes.
+
+"Yes! Yes!! Yes!!!" Sylvester exclaimed. "This is exactly what we need. Think of the enchantments we could gather through a simple spell casting? Who needs the Merchants Guild and their licenses when we can plunder them ourselves? Even if it doesn't give the entire enchantment, we could deduce the rest of it through the insight alone."
+
+Sylvester needed no convincing, and seeing his frantic desire, I quickly used [Skill Deconstruct] on [Rune Reading]. The information provided was smaller than [Identify], as expected, but was still no less valuable.
+
+I shared it all with him, and without a word, he took off to begin work. Part of me wanted to join him for the opportunity, but with the rest of the [Identify] puzzle waiting in my grasp, I felt like it would be an insufficient usage of my time. Not to mention, I was only a day or two away from reaching the borders of Keld.
+
+Regardless… Whether Sylvester finishes this first, or I make another prototype spell, I think I'll finally max out [Mana Weaving]. Then… [Mana Dominion]?
+
+I felt another chill straight through my slime core. This was wonderful. I wished I had sacrificed [Identify] sooner, but there was no time for regrets. I teleported back and resumed my journey, sifting through the wealth of knowledge now at my disposal.

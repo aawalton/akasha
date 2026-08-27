@@ -1,0 +1,359 @@
+---
+id: 23426c9d-3e86-52d5-a6c3-229941ed8e68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108: Inducted"
+slug: 0027-chapter-108-inducted
+partOf: the-calamitous-bob-stubbed
+position: 27
+ownLength: 4836
+unit: words
+ownProgress: 4836
+publishedAt: 2023-03-03
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1127713/chapter-108-inducted"
+royalRoadId: "1127713"
+markedReadAt: "2026-06-29T21:15:37.946Z"
+---
+
+“This is not a conversation I’m willing to have standing, or sober for that matter. But I’ll take sitting with a cup of klod.”
+
+The young woman glared, but Viv had been glared at before, and she remained unimpressed. Darla seemed more solid suddenly as she took a step between the two casters. Viv felt in slight danger, which surprised her enough that she pulled mana. The woman’s disarming smile stopped her from raising a shield.
+
+“Ah, I apologize, your files did not mention a previous acquaintance. Will this be a problem? We can make other arrangements,” Darla suggested.
+
+Viv and the other returned to staring. The witch was the first to answer.
+
+“We need to have this conversation anyway. Fuck, I didn’t expect it would ever happen.”
+
+“You can use this room if you wish. No matter what, remember that you both swore an oath to respect the rules of the Academy, even in difficult circumstances. You may select among a list of mentors sworn to secrecy if you need to avoid each other,” Darla said.
+
+“Nothing so harsh,” Viv assured, and the woman nodded.
+
+“I have no animosity towards her, I merely wish to learn what she knows,” Varska’s sister added.
+
+“Well then, I shall leave the papers here. If you do decide to become roommates, return them signed at the entrance, otherwise let me know. I am sure I can find other arrangements that will satisfy everybody!”
+
+The upbeat admin left them with a last wave and a friendly smile, shutting the door behind her.
+
+Viv sighed and grabbed the pot of steaming hot water the interview tables usually kept, then she made herself and the other a cup.
+
+“I’m Viviane by the way.”
+
+“Ereska of Saref. Now, how do you know my sister? If you do not mind me cutting to the chase.”
+
+“Varska and I were mentor and student, but mostly we were lovers.”
+
+Ereska choked on her drink.
+
+“What? Ugh. Seriously? Did you not see the mark of shame on her cheek?”
+
+“I did see her scar. It was hard to miss. Look it’s no secret so I will tell you that I am an outlander. I miss the cultural background to appreciate what a mark means. I understand it, but I do not feel it. Does that make sense?”
+
+“It does not trigger an emotional response in you.”
+
+“Just so.”
+
+“You used the past tense. I assume you are no longer her lover?”
+
+“Yes, well, here is the reason why I was not looking forward to this. Varska fell in battle. There is no easy way to say this, sorry.”
+
+Viv waited. Paradoxically, her leadership skill had whispered that Ereska would hate delays and diversion, very much preferring a firm answer. The younger woman sat back in her chair and sighed. Her eyes wandered to the imposing wall outside their window, the same that surrounded the entire academy. An old tree provided shade to a carefully cultivated garden.
+
+Ereska nursed her cup in silence for a couple of minutes, which Viv respected.
+
+“You know,” she finally said, “I never thought I would see her again. She was dead to me, and now I learn she is really dead and find I am more affected than I expected. I loved her, then hated her with all my heart.”
+
+She threw Viv another stare.
+
+“I should not be sharing all of this with you, a foreigner, but you are the only person in this city who could possibly understand. I trust our conversation will remain secret, and that my sister did not foolishly place her trust in the wrong person.”
+
+“You have my word.”
+
+“Good. I believe you since Varska was always a good judge of character. But I digress. Varska was the golden child who could achieve everything without fail right to the moment that she committed a crime so heinous the Saref family almost lost its seat at the council. It devastated us, set us back decades, not to mention the shame. We are still repaying some of the favors that carried us through that disaster. I felt so… betrayed. I thought she could do no wrong. I always boasted about her achievements to my friends while they were still my friends… Do you have any notion what she did?”
+
+“A scheme of hers caused the death of children.”
+
+“It was an explosive rune that triggered too early. They were mangled instead of the target in a very public setting. Did you seriously bed a child killer?”
+
+Viv took a sip to cool down the situation. Ereska’s last few words had been clipped, and the outlander recognized the marks of a deep resentment born not just from the horrifying deaths, but also by the perpetrator, whom Ereska had once cherished. Viv found she wanted to share as well. She wanted Varska’s little sister to know what she was like towards the end, how much her presence had meant regardless of past sins.
+
+“When I arrived on Nyil, I landed in the deadlands,” Viv began.
+
+Shock replaced anger in Ereska’s large eyes. It was a place known for being lethal to everyone, even those far on their path.
+
+“I crossed the desert, delirious with mana poisoning. I reached one of the forts and helped them withstand an undead siege. When I arrived weakened in the border town of Kazar, I knew no one. Your sister took me under her wing. She taught me what she knew, helped me get around town. She created a sense of normalcy with her tea ceremonies. I would have survived without her but I’m not sure I would have lived. The deadlands have taken their toll, not just the poison, but also the feeling of helplessness, of death without limit. At the end, we were attacked by an Enorian prince trying to enslave the whole region to garnish his war coffers. She covered our retreat against a whole company of siege specialists. They pierced her chest with arrows.”
+
+“She was not a soldier.”
+
+“She died like one.”
+
+They kept quiet for a little while, reminiscing memories they did not share. The two had never truly known the same Varska, Viv thought.
+
+The light played strange tricks on Ereska. When it hit just right, she appeared much younger and on the verge of tears.
+
+“Do you think one can be forgiven for crimes as bad as killing two boys?” the woman finally asked.
+
+“It’s not up to me to forgive her,” Viv carefully replied. “I was not the offended party. While I was in the fort, I met a man called Benetti. He had been sent to the deadlands for sexually assaulting women. He regretted his actions deeply. He also sacrificed himself to save us. Does that redeem him? Does it erase years of trauma from his many victims? Can a right rectify a wrong? It’s not a question I know how to answer. I could not give you the right answer because I am not the one who was hurt by his actions. It is the same for you and for the victims, I think. I will not defend Varska, and I will not tell you what to do. This choice can only be yours.”
+
+Ereska tilted her head, somewhat surprised.
+
+“You must come from an incredibly individualistic civilization,” she remarked rather drily.
+
+“We also don’t have to choose the life path our parents picked for us.”
+
+“I am incredibly jealous, and I apologize for the state of, well…”
+
+She spread her arms. Viv grinned.
+
+“Sometimes, it’s not so bad.”
+
+“I still cannot believe you and my sister… Ah, I will remove this image from my mind. As for the common room, you are better than most of the other candidates I have considered, not to mention you have no allegiance to anyone in Helock. Or do you?”
+
+“Not yet,” Viv replied.
+
+“Then I would love to have you as my roommate, if you wish. I am sure you could use some help navigating the treacherous waters of politics and surprise assignments. So long as you respect my privacy and keep clean. Oh, and at the risk of being uncouth, I want to be very frank. I do not share my late sister’s proclivities.”
+
+“I would rather sit on an acid ant pit slathered in honey than date the relative of my dead girlfriend, just so we’re clear. In any case, I have a lover,” Viv said.
+
+The conversation so far had been in Baranese, which apparently every educated light-skinned person here was assumed to speak. Their words for lover were gendered, so Ereska immediately understood the implication.
+
+“You may not bring a man in our common space. Really. Last year, I surprised my roommate on our common area’s couch mid-coit, and it is not an experience I wish to renew. I had received friends on that couch. The end of the semester could not come soon enough.”
+
+“I assure you I will avoid any display of exhibitionism. Not my thing.”
+
+“Did you have to use that word?”
+
+“Did you have to share that memory?” Viv retorted. “Now I’ll check our couch for stains before I sit down.”
+
+“Oh Sardanal grant me wisdom, I should have stopped before it came to that. In any case, as long as you agree to act responsibly, I believe we can live together.”
+
+“There is one last matter,” Viv said, and she opened the door. Arthur sat behind, clutching a green cushion between anxious claws. Viv frowned and snatched it from her grasp.
+
+“What did I say about ‘acquiring’ other people’s property?”
+
+Public domain?
+
+“That’s not how it works. Stealing from an organization is still stealing.”
+
+Arthur puffed hot air, utterly dejected.
+
+“You can use some of your gold to purchase lair fabric, you know?”
+
+“SQUEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE.”
+
+Viv rolled her eyes at the dramatic display.
+
+“Look, I want you to meet our roommate if she agrees. This is Ereska, Varska’s sister.”
+
+Arthur stopped her shenanigans to inspect the newcomer. Ereska shared the same composed nature as her late sister, but blue mana was more prevalent in her, Viv judged. She also felt more flexible, not in a natural caster sort of way, but more in a floral arrangement manner. Viv felt no hint of intimidation from the woman, though she shared the smooth manner of those wielding social skills. Perhaps a general skill.
+
+The dragonette must have come to a conclusion, because she stood on her hind legs and placed a clawed hand on the woman’s shoulder.
+
+It is a fortuitous meeting, Varska’s egg-clutch-kin.
+
+I am pleased Varska did not eat you when you were a whelp.
+
+You may share my territory.
+
+No stealing my pillows.
+
+“Hmmm, yes indeed, the honor is mine.”
+
+Arthur nodded in a very human gesture that signified her agreement that, yes, it was Ereska’s honor and yes, Arthur would magnanimously allow it. Viv wondered if she should give the dragonette some sexual education, but the problem was that she had no idea how dragon courtship worked, or even if Arthur was close to reaching puberty. Or the draconic equivalent. Perhaps this was more documented than proper education. She’d have to check. A problem for another time.
+
+The trio dropped the signed agreement at the entrance desk to an obviously relieved Darla, then they moved Viv’s personal effects with the help of a telekinesis spell. Viv liked how magic could affect every little thing, if one let themselves cast. Heavy crates? Telekinesis. Cold? A fire spell. Dark? A light spell. Person at the restaurant who slurps their soup and blows their nose in the napkin? Disintegration. That’s right. Magic was the bee’s knees. There were rules about casting in social context, but fortunately walking on a stone path surrounded by green grass under the late summer sun was not one of them.
+
+“We were told about the juvenile dragon,” Ereska whispered while Arthur had decided to fly away. “We are supposed to leave her alone and not interact. According to Melitus’ compendium on disastrous fauna, young dragons are not as intelligent as their older counterparts, but your Arthur seems…”
+
+“She’s a bright young girl, yes,” Viv said with some pride. “Do you know she learned how to count in only a day? As long as it’s counting gold, she—”
+
+Viv stopped herself from gushing like a young parent. Instead, Ereska was imparted with dragon-specific knowledge on how not to leave uncovered meat on the table. It went rather well.
+
+The dormitories were secluded in a forest, its windows veiled by the branches of ancient trees. Their room was on the third floor. The door opened with a chit keyed to Viv’s mana, which she picked up at the entrance. There was a common kitchen area with basic supplies but no storage space, a lounge, and a private washing area they were not supposed to use since mages were apparently too important to clean their own small cloth. Ereska warmly greeted other older students who seemed to respect her. They saluted Viv with guarded expressions but the witch didn’t take umbrage. She was a largely unknown factor for now.
+
+Viv dropped her stuff in their room and was pleasantly surprised. Her quarters were not spacious by any means, however they were significantly better than what she expected from a campus dorm room. She would share the bathroom area and a small lounge with Ereska. Viv suspected that the Academy splurged on accommodation and other benefits to bind casters to a network beyond their first allegiance. It wouldn’t be shocking for alumni to kill each other on the field of battle, but she expected they wouldn’t turn on their alma mater without overwhelming reasons. It was a nice setup.
+
+Arthur settled in Viv’s room but made it clear she would be out for long periods of time. The urge to fly around was getting strong, and she found the sea fascinating and filled with delicious things. Viv expressed her concern about sea monsters, but Arthur was confident.
+
+I can feel the mana of big things.
+
+I do not get close!
+
+Sneaky dragon.
+
+“Good. Excellent.”
+
+With housing settled, Viv handled the basic requirements to attend. A seamstress took her measurements for her uniform, which would be deep blue like that of an older student on account of her teacher assistant’s position and also, she suspected, her age. There was enough reading material to devastate a small forest for only the first two months. Many were second-hand and annotated in various languages. Ereska gave her a basic tour of the campus, except for the main building which deserved its own visit. Most of the buildings were spread over large distances and separated by lawns, forests, and gazebos.
+
+“Does the Academy promote physical activity and nature? A lot of effort was spent on those gardens,” Viv remarked, surprised the Academy would be that progressive.
+
+“No, the Academy is designed so that in case of major conflicts, students may only see citizens of enemy nations in class where most murders can be averted. Our dormitory hosts mostly Helockians of the more neutral factions as well as a few free candidates such as yourself.”
+
+“Hmmm.”
+
+“There are basic training sessions for arcane swordsmen that mages can attend as a hobby. You would merely have to join the club. They meet every three days, I believe.”
+
+“We’ll see how things go. It might be interesting.”
+
+Viv met with Sidjin for dinner at a nearby eatery to share her first impressions. He had found an isolated manor by the city’s edge, which he rented at a discount after ridding the landlord of a swarm of carnivorous lizards. The man had tried to renege after seeing how easily Sidjin had dispatched them, but the fallen prince had managed to convince him to reconsider.
+
+“You see a man turn monsters that mercenaries would not face to mince meat, and your first reaction is to break your word with him?” Sidjin reenacted with a husky voice which, coupled with his scars, made him kind of sexy to be honest.
+
+“Were they so dangerous? I could have watched your back,” Viv said.
+
+“They were not dangerous for a fourth step war mage who took his precautions. The landlord could have gotten a proper team to kill them off and kept the pelts intact if he were not so stingy. In any case, the manor is mine for a year. You can visit when it no longer looks nor smells like an old barn.”
+
+“I’ll be sure to. I bet you don’t even know what you’ve got to buy.”
+
+“Of course I do. I am a researcher and a warrior Viviane, not some pampered prince.”
+
+The witch listened to him make a list of everything he needed and completely forget bed linens, pillows and so on. She just smiled.
+
+Viv had a little trouble sleeping that night. The dormitory creaked like old houses were wont to do. It smelled of wax and soap.
+
+She hoped things would be okay for a while.
+
+The black mana teacher received Viv in her office, a small room organized with military rigor. The woman introduced herself as Ashra, just Ashra, and Viv realized when she sat down that the woman was Hallurian. Her traits were easily recognizable despite her pixie cut and paler skin. Most of her compatriots kept their hair long and carefully braided while their skin was mostly tanned. Some surprise must have shown on her face, because the teacher opened frankly after the usual greetings.
+
+“You are an outlander, and relatively tactful and humble so I will not take offense if you have questions.”
+
+“Hmm. Thank you.”
+
+“So ask them,” the woman insisted.
+
+“Oh, I could not help but notice that you were from the east. I think?”
+
+“Hallurian born and raised, yes. Do you know what happens to women when they are found to have caster potential, back home?”
+
+“I imagine it is not pleasant?”
+
+“Oh, but it is. We are pampered and fucked by the important warlords, trained to give Halluria many valuable and strong offspring. We don’t even have to raise them. I can tell from the way you reacted to my colleague that you are not wary of men. I cannot tell if you have been spared unfair treatment, or faced it and prevailed.”
+
+“The latter. I can make some compelling arguments.”
+
+“And we will need it. Stop me if you already know this. Only one war mage in seven is a woman.”
+
+“I… didn’t know that.”
+
+“Enoria, Halluria, many of the northern cities promote gender-specific paths. Baran can be more lax sometimes. The truth remains that in order to teach black spells and their destructive potential, we will have to fight an uphill battle. Be ready for it. Be ready to be doubted, interrupted, called out, belittled, and dismissed, but don’t get discouraged, because what we cannot afford is to give up.”
+
+“Understood.”
+
+“Excellent. I will be relying on you to help those who have not yet worked on all their affinity to call on black mana, since you have a deep understanding of the dye and how to wield it. Drawing mana might be the most instinctive thing a mage will do, so your experience will help everyone. We will also work on concepts with our students. I will help you grasp the concept of shadows, which is extremely helpful for survival and repositioning. If our collaboration is fruitful, we can seek another arrangement next semester.”
+
+“That works for me.”
+
+“One last thing. How is your old imperial?”
+
+“Fluent.”
+
+“Oh. Wonderful. My class will be conducted in old imperial just like most classes here.”
+
+“Wait. No one told me that!” Viv protested.
+
+“It is considered common knowledge since old imperial remains the favored academic language. I notice that you haven’t read many thesis or essays then, or you would have noticed.”
+
+“I’ve read plenty of books.”
+
+“And you’ll read plenty more, starting with this.”
+
+Ashra gave Viv a teacher handbook with not just rules and instructions, but also tips and tools as well as a summary of the Academy’s standing policies on everything. She was supposed to read it before their next meeting which would help prepare the class. Ashra seemed particularly eager to practice. Viv got the impression she liked to control her environment, which was just fine.
+
+Next came her meeting with Tod Seranileso.
+
+Contrary to her expectation, the medical faculty was mostly out of the secure wall that surrounded the Academy, though it was no less protected. Instead, it faced the outer ring of the city on the other side of the hill, where dry grass covered the craggy land and most of it was occupied by farms, the sheep-like creatures eating said herb and their oval dejections. It didn’t smell very good. The medical faculty jealously occupied an isolated elevation fifteen minutes away from one of the academy gates. The sick and the wounded queued outside its vertiginous white walls, attended by a mix of mundane, religious, and magical staff.
+
+Viv was not let in. She was dragged in through a secondary entrance to the office of the tall northerner. Tod Seranileso looked ancient, a rarity in Nyil and even more so among casters. A wispy white beard reached his navel over an unadorned crimson robe that showed off his lean build. He grabbed Viv’s wrist with a thin hand wrinkled by age. Viv noticed the short and very clean nails.
+
+“Hmmm, yes, yes,” the old man said in lieu of greetings.
+
+His voice was low and strained, as if he was a smoker, though he lacked the yellow teeth and the scent. Maybe he was just very, very old.
+
+“Yes. Hmm. Indeed. You are dying.”
+
+Viv raised a brow. She had shit bedside manners sometimes, but this was a little bit too much.
+
+“Not anytime soon, fortunately. Not soon, but within a year, two at the most. Yes. We can alleviate the symptoms. You could last longer by not casting and carrying a mana-absorbing headband. An expensive option.”
+
+“I do not think I can afford to do that.”
+
+“Indeed not, hmm, indeed not. There is but one solution, though it might require some effort.”
+
+“Becoming part elemental?”
+
+“I see you are not quite as ignorant as I feared. Yes. Although, it presents some risks, yes indeed. Hmmm. And I can only think of Elunath to help you. He is the only… available elemental archmage around. The others do not want to be found and, sorry to say, they will not care. I can get you an interview with him at the very least.”
+
+“When?” Viv asked.
+
+“Soon. A message will expose your situation, and I believe he will try to help a talented young woman rather than let her perish. Indeed. Hmmm. I will do that for you, yes. Now, there is something you can do for me.”
+
+“The regrowth spell?”
+
+“Is this what you called it? Yes. To use black mana for its changing nature, now that is innovative. If slightly heretical. Except Neriad approved it, for some reason. Who can understand the gods?”
+
+Tod spoke those last words as if they were an expression of sorts. Viv was starting to think any psychiatrist with a specialization in megalomania — and possibly mommy issues — would do just fine, but wisely decided to keep those remarks to herself.
+
+“Sure. I already said I’d share with whoever is interested.”
+
+“Excellent!” Tod said, clapping his boney hands together, “I have prepared a room just for that.”
+
+Viv realized her ‘visit’ would probably turn into a full work day and sighed.
+
+Tod walked her down past patient rooms and testing areas. Viv was surprised to see the staff wore white robes complete with gloves and masks. Many of their tools were enchanted but the similarities with a modern hospital were quite striking. She considered asking if an outlander had brought some knowledge of microorganisms before realizing it would sound condescending. Also, for all she knew, some diseases here could actually be caused by bad spirits.
+
+Tod seemed well-respected, with several people asking him quick questions without ceremony. Some of them were obviously low on the totem pole from the lack of decoration on their clothes, yet Tod gave them his attention nonetheless. It took them quite some time to find a dedicated room on the first floor, which had been cleared for the occasion. Viv was asked to draw the construct with a piece of chalk on the smooth floor.
+
+She was an old hand at that by now and it only took her half an hour of patient efforts, just to make sure it was as perfect. Tod went out for a while but seemed to sense when she was done. He immediately asked a series of questions.
+
+“Have you considered using Makar’s convergence to accelerate the sludge sublimation process?”
+
+“I have no idea what this is.”
+
+“What about a Baranese knot on the analysis part to prevent environmental influence?”
+
+“Still no idea.”
+
+“Hmmm. You are an instinctive caster. Indeed. Do you mind if I try a few changes?”
+
+“Be my guest.”
+
+Tod brought some changes, but when Viv tried to channel her mana into the construct, it would not react the way she was used to and the spell would fizzle. It was like trying to dance a familiar routine with manacles. All was well until she tried to spread her metaphorical hands.
+
+“A little disappointing, but expected. Do you mind proceeding with some tests?”
+
+“Not at all, but while we are discussing theory, I wanted to share one of the issues we were having.”
+
+Viv explained Sidjin’s plan to use a memorial spell to force the soul to ‘remember’ its lost corporeal shell. Tod nodded, a hand twisting his beard while he pondered on their difficulties.
+
+“If we leave the basic structure intact and plug the memorial spell to your diagnostics circle with a minimum of interaction, I believe you may cast it as is, provided you understand how the memorial itself works. I also note that the memorial uses black and colorless mana. An elegant solution. Who came up with the idea?”
+
+“His name is Sidjin, and I would like to heal him quickly,” Viv asked.
+
+She gave Tod a pointed look that signified it was not a request. The old man easily accepted.
+
+“Of course. Would you be willing to operate on patients between classes? You would be well-compensated.”
+
+“What sort of compensation are we talking about?”
+
+“Two gold talents per rich client. Less for charitable cases, more for royalty if we can find them. The Academy will take half but we will cover all expenses and organize everything.”
+
+Tod waited.
+
+His offer was more than generous. The creation and sale of magical items or the performance of services through the Academy was heavily taxed, close to two thirds. In return, the students were insured in case something happened. It was in the agreements she had signed. On the other hand, Viv knew she could get much better terms by working through a temple, and even more through a private, ad hoc organization she would create herself. With that said, the medical faculty would organize everything for her which would save a lot of time, one of her most precious resources. It was the appeal of good will with a man she was beginning to respect that decided her in the end. Tod would be an invaluable ally in negotiating with the elemental archmage for her salvation. Money was a lesser concern, and so was building influence with Nyil at large.
+
+“Fine, but I get to pick cases we handle in priority if there is someone I want to heal.”
+
+“Agreed on two conditions. No more than one per day, and you do not undercut us.”
+
+“That’s fine.”
+
+“Shall we get started?”
+
+Tod scored another point in Viv’s mind by selecting a grizzled nurse with a missing arm as her first patient. The woman had probably survived a disaster of some sort if the burn scar on her neck was any indication. She cried and hugged Tod after the procedure was done with the help of a cleric of Sardanal, god of prosperity. It felt pretty good. The memorial spell was also easier to use than expected since soul perception helped with it.
+
+Arcane construct: Beginner 9
+
+Soul Mastery: Beginner 2
+
+Viv knew the most complex spells would all require preparation like this one, and training those specific skills would help her improve on the battlefield as well. When they were done, Viv returned to her dorm for the night. She spent the next day reading materials and scheduling two important events. The first was Sidjin’s surgery. The second was the meeting with archmage Elunath. The elemental powerhouse had agreed to meet her the next day, which spoke highly of Tod’s pull.
+
+“Then we can go together,” Sidjin commented. “He agreed to receive me as well to discuss my stolen research. I hope we are both successful.”

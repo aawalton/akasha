@@ -1,0 +1,585 @@
+---
+id: 10ff1b66-9903-5ec0-9e61-a206d2833cfd
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FORTY-EIGHT: Everyone, Everywhere II"
+slug: 0149-one-hundred-forty-eight-everyone-everywhere-ii
+partOf: super-supportive
+position: 149
+ownLength: 7298
+unit: words
+publishedAt: 2024-06-13
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1674937/one-hundred-forty-eight-everyone-everywhere-ii"
+royalRoadId: "1674937"
+---
+
+148******
+
+“I don’t have time for your personality right now, Elias,” Archibald Carisson’s voice snapped from the watch around the Informant’s wrist. “Your little fiefdom is too close to Sānjiǎo Beach. LEAVE.”
+
+“It’s a neighborhood full of interesting people.” Elias, wearing the same galoshes and accompanied by the same umbrella drone that had guarded him from the rain during his walk earlier that night, was helping an ancient-looking man down the front steps of a townhouse. “Not a fief. And my personality has vastly improved since we first met. Don’t you think you should reevaluate your friends at least every half century?”
+
+He released the man’s arm at the bottom of the stairs, and the fellow shuffled off, following a poodle down the street. Elias watched him go before ambling away from the house toward the grassy central square in front of it.
+
+“SkySea can’t come rescue you if anything goes wrong. Official orders have come in for most of our members. It’s the same for the battle and aid groups. We’re not in charge of responding to this catastrophe. The Artonans have decided it’s their business.”
+
+“You sound so unhappy about that,” Elias said. “Would you actually rather have the children on the current High Council direct us through a magical disaster? Just so that we can all pretend a truly independent Anesidora isn’t still a dream caught between a rock and a hard place? By the way, the rock in this analogy is Earth, and the hard place is—”
+
+“Do you at least have a helicopter?” Archibald ground out.
+
+“I donated a couple to the rescue efforts. Tarek’s flying one. His wife is in her hover suit. We’ll be fine here without them.”
+
+A few other people were emerging from houses. Several of them nodded or waved at Elias, but they all headed in the same direction as the old man. None joined the Informant in the well-lit square. It was only him, standing by a three-meter tall fountain shaped like a pithos, and his wet golden retriever running toward him, tennis ball in its jaws.
+
+“They all have their gear on them, don’t they?” he asked as he accepted the ball. “Nobody left out?”
+
+“All neighborhood residents are on their way to the community center as you instructed, and everyone has at least two connected devices with them.” The voice in his ear was smooth and calm.
+
+“Mood?”
+
+“Calm overall. The parents of the children that were teleported away—”
+
+“Yes. I see. Send a message from me to each of them. The content should be a firm reassurance that their children will be well cared for and that minors being teleported out by the System in this situation is completely expected. Tweak each note to comfort the individual recipient. Without lying of course.”
+
+“Such a personal touch,” Archibald said caustically.
+
+“You’re still there, Archie?” The Informant tossed the ball for his dog again, then shoved his hands into his coat pockets. At his back, water spilled over the rim of the pithos and through a grate that was nearly hidden by the grass. “Don’t you have better things to do than worry over my business? I’d hate to think I’m distracting one of the best Water Shapers on Anesidora from his duties. What quest have you been given, by the way?”
+
+“I haven’t been the best in years. Don’t give me another one of your speeches about the nature of magic. And you know what I’m doing! I’m carrying your bloody spy equipment around with me while I shove water back into the ocean. Every two minutes, here it comes again, trying to crawl toward some random spot like it’s been magnetized. The evacuation is almost done. We’ll be ordered to completely abandon Sānjiǎo soon and you and your people with it.”
+
+“How are you all liking the infogear tonight?”
+
+“How are you going to protect yourself and all the rest of them from giant waves? I don’t doubt you’ve had your Wright fan club—”
+
+“I assume you mean my employees and apprentices.”
+
+“—kit the place out. But unless that thing you’ve built—”
+
+“You always act like it’s something shocking. It’s just a larger version of what I’ve always done, improved over the course of the years by myself and other talented Wrights. With a nice custom personality helping me keep track of it all.”
+
+“—can see the future now, I don’t think you prepared for this!”
+
+“I didn’t. But I didn’t need to,” said Elias. “After all, the Artonans have decided the events of tonight are their business. Good luck with that sailboat, by the way.”
+
+“What sailb—?”
+
+“That one,” said Elias, as Archibald’s half of the conversation devolved into shouted orders and splashing sounds. “See you in the morning.”
+
+He ended the call.
+
+“You know, his granddaughter was grateful for the phones I sent her,” he said to the dog. “She thanked me through the drone. I only took one peek to see how she was using them, and of course she’s being responsible to a fault. She’s already got a hundred other teenagers sorted out and obeying a call schedule.
+
+“Impressive. And a shame. It would be interesting to see how far a Carisson could go with their powers if they were just a little more willing to color outside the lines.”
+
+“The negotiator you’ve been expecting just sent a message ahead,” the voice in his ear said. “It’s Former Ambassador Libv-eth.”
+
+“They’ve pulled her in? It was probably her own idea. I did always like her.”
+
+“She says she must ask if you are finally amenable to selling your personal creation to the Triplanets, given the fact that it will almost certainly be damaged or destroyed by tonight’s events without their intervention.”
+
+Elias reached out toward the fountain, and the smooth curtain of water parted for him automatically. An object was embedded in the stone there—a small black circle, glittering with magic around the edges and so dark at the center that it looked like a hole. He pressed his hand to it.
+
+“Tell her I’m touching the first key of voices I ever made. So much tedious enchanting. Tell her I’m feeling nostalgic, and I couldn’t possibly part with it.” He looked around the empty square. “Or with any of the other keys I’ve created on my own time in the past eight decades.”
+
+A minute later, the voice said, “She understands and looks forward to negotiating with you for the use of your creation and its protection. She is bringing a tattooist with her and hopes you will pardon her presumption.”
+
+“Of course,” said the Informant. Then he sighed. “I suppose we can’t drive a very hard bargain. At some point it becomes too tempting for them to build their own from scratch.”
+
+******
+
+******
+
+Winston Heelfeather wasn’t the kind of man who could stay in the school gym while innocent people were dying.
+
+He’d realized that when he overheard a couple of girls from the Sciences program saying how this was the worst thing that had ever happened to Anesidora. A night that would go down in history. Something everybody in the world would be talking about when the dust settled…or the water drained away.
+
+A time for heroes.
+
+It would just be too lame, when everyone asked him what he’d been doing during the crisis, if he had to say, “Staying in the school gym with my teachers like they told me to.”
+
+That wasn’t the Win-Win way.
+
+I don’t know about Win-Win as a nickname, he thought. What if it’s too catchy, and it gets used more often than Heelfeather?
+
+He was blasting through Boomtown. One of his personal camera drones watched from above, and two were set up to catch shots of him speed climbing the side of a building to break into an apartment and see if a woman he’d met at the bus stop had left the stove on.
+
+Not quite the heroic mission he’d been hoping for, but there just wasn’t a lot of drama in midtown Apex right now. He’d have to build the story into something more. Sometimes being a hero isn’t about doing the glamorous thing; it’s about helping whoever needs you even if the need is small…
+
+That sounded lame. His fans would know it was lame. He really needed to not be lame tonight.
+
+He’d left the mall right after the class dinner to edit the gym footage, and it was just…his parents could never be allowed to see it. The world could never witness it. Winston was going to make Heelfeather a household name.
+
+Even before the sirens had started, Winston had known he wouldn’t be able to sleep. Because what was he going to do if someone let the full footage slip?
+
+It wasn’t just his classmates. The other first years had access.
+
+So many people had seen a Rabbit kill him and then walk off without even looking at him.
+
+“All right,” Alden had said as he stepped around Winston’s gasping face. “So that’s done.”
+
+That’s done.
+
+Like beating a higher ranked Avowed with a piece of string was an errand he’d checked off his list.
+
+I knew it, Winston thought, jumping up and grabbing onto one of the dips in the building’s honeycomb facade. I knew he was doing it all on purpose.
+
+The Rabbit boy was sneaky and a really good actor, so he’d doubted his own suspicions. But now he was sure of one thing—Alden Thorn was only pretending not to care about his own growing popularity.
+
+B’s got zero attention from the people who enjoyed watching the talent development programs. The adults loved the thrill of picking a winning horse before anyone knew about it; the teens loved imagining themselves becoming an Avowed one day, too. Neither group rooted for the underdog.
+
+So of course Alden couldn’t act like he wanted a fanbase. It would be so embarrassing. Like that B-rank chick in one of Winston’s classes who everyone gossiped about because she was open about wanting to rank up.
+
+Instead, the Rabbit orchestrated his image in secret and acted innocent about it. Oh, I accidentally attended a party full of the superrich while dressed like the boy next door, and I unexpectedly encountered a crazy person there, and I just happened to deliver some more dramatic backstory about myself on camera. It was a total coincidence that I was holding a plate of class-themed food! It’s not like I dropped it to call attention to it!
+
+He’d messed up this time, though. There was no way he hadn’t been wildly celebrating his victory over Winston. Walking over a higher ranked competitor like they were invisible was too far. It was something you’d only do if you were desperately trying to look like you didn’t care.
+
+There had been other signs, too. Obviously, Alden’s play was to let rumors about him build and build among other peoples’ fans so that when he finally posted something online like everyone else…it would explode.
+
+It was so smart that Winston was afraid the school might be in on it. They could be setting Alden up as one of the faces of the first year class. There had been rumors for months about a CNH reality show of some kind. What if he’d already been cast?
+
+“Winston! That’s you, isn’t it?”
+
+At the sound of the hated accent, Winston’s musings cut off and he looked down.
+
+That singing Scottish show-off was standing in the alley beside a pile of Wright scrap. Out of breath. Ruining Winston’s footage. Actually, it was already a little ruined. He’d stopped climbing to mull over Alden Thorn’s true nature. He’d need to do this again just to make sure he had it all smooth.
+
+“What are you doing?” Finlay called. “Shouldn’t you be at school?”
+
+“I’m helping people! There’s a stove on in one of these apartments. It could set the whole place on fire.”
+
+He started climbing again.
+
+“But, Winston!” Finlay’s voice was loud. “Couldn’t you just go inside and use the lift?”
+
+******
+
+******
+
+Connie kept waking up from dreams she couldn’t remember, with a bad feeling in her gut that the girls would be gone. It had just happened again, and she lay in bed listening to Brodie’s heavy breathing, trying to convince herself not to go check on his two nieces. They were sleeping over for the first time tonight, giving their parents a weekend off.
+
+It’s dumb. They’re fine. Just go back to sleep.
+
+Instead, she threw off the warm covers and slipped out of the bed, careful not to wake her boyfriend. Fiancé probably. That ring he’d been hiding for at least a couple of weeks was for her probably. She was going to say yes probably.
+
+It all felt a little unstable.
+
+Trying to find some solid ground, after distracting yourself for your whole adulthood with a merry-go-round of a life, was hard.
+
+She’d started looking up people she remembered from back home, and she knew they weren’t all tucked away in great careers, in big white houses chosen for their school districts, in clothes that looked like the clothes their parents had worn. But a lot of them were. A whole lot of them.
+
+They were taking their eight-year-olds to ballgames. They were packing lunchboxes with cheese slices cut into star shapes and giving each other tips about how if you used chocolate chips instead of raisins for your ants on a log, you could get the kids used to eating celery.
+
+The vinyl floor was cold to her bare feet. The old hall carpet had been stained ever since she and Alden moved into this place. It had looked gross even if you vacuumed, which she hardly ever did. A couple of months after he had gone missing, she’d freaked out and ripped it all up.
+
+Brodie had called one of his cousins, and new vinyl had gone down.
+
+She mopped it twice a week. She couldn’t figure out if that was too often or not often enough.
+
+Maybe I stayed on the merry-go-round for so long I’ll always be dizzy.
+
+In the living room, the girls were fine. Of course.
+
+They were side by side on the air mattress their parents had sent with them. The little one was a drooler. The older one was sleeping with a hand against her cheek. In the light leaking through the window, the manicure Connie had given her was on full display. A different color for every fingernail.
+
+Maybe I should have let them have Alden’s room.
+
+Nobody had asked. She hadn’t offered. But that was the obvious thing, wasn’t it? To give them the second bedroom instead of letting them sleep on the floor.
+
+She couldn’t even figure that much out.
+
+She went to check the fridge to see if they’d eaten any of the pricey lime green goo in the squeeze tubes. The parents who cut cheese into star shapes said neon colored Artonan vegetable pudding was in.
+
+Not yet.
+
+She stared at the groceries for a while. Then the floor. Then the girls.
+
+If I gave them his old room, I don’t think he’d mind.
+
+She wasn’t sure she’d know if he did. He’d never been a kid that would make you feel too bad. He would put up with a whole lot before he even showed he was annoyed.
+
+Which should’ve made me put in more effort. Not less.
+
+The sound of the front door’s deadbolt sliding, as if invisible fingers were unlatching it, caught her attention. She looked over, not quite as alarmed as she would have been if she’d understood what was happening, and saw the knob turning.
+
+What?
+
+Before she could panic, the door was open. A wizard stood there, sliding a ring into the pocket of her pants. She was holding a two liter bottle of cherry cola under one arm, and there was a laundry bag squirming at her feet.
+
+Her facial expression was gloomy.
+
+“Healer Rynez-yt?!” Connie whispered. The head of the Chicago House of Healing was familiar to her from a brief meeting when Alden was younger and, more recently, through occasional local “good news” stories about people she’d saved.
+
+She always looked either grouchy or depressed in those photos and videos, as if she wished the patients had died. According to Alden, his mother had been very fond of the healer and proud to work with her. Connie didn’t get it, but it wasn’t like she’d been around to see it for herself.
+
+“Connie Hatcher,” said Rynez-yt, “for some reason, Leah’s child thinks your life should be prioritized above those of geniuses, Avowed, and other humans who contribute greatly to your species.”
+
+Her eyes slid from Connie’s startled face to the squirming bag at her feet.
+
+“I suppose it is too late to try to guide his decision making now.”
+
+The bag meowed.
+
+******
+
+******
+
+Emilija’s heart drummed, and her hands curled into fists at her side as she stood quietly in a cramped employees-only bathroom with her roommates. They were all so still that the motion sensitive lights had cut off, but they’d been trapped in here for long enough that she could make out shapes by the yellow glow that slipped through the gap at the bottom of the door.
+
+Natalie was standing against the sink, swallowing so frequently that Emilija had learned the sound of it. And Hadiza was beside the toilet brush, her feet covered in multiple layers of the novelty socks they’d found in this little knickknack shop when they first sought shelter here.
+
+It was only supposed to be for a minute. They’d been hurrying away from the Bunker Street situation when some swift and awful shift in the crowd  had turned the angry press toward the shelter into a true riot.
+
+The girls had run down a street, and then they’d all been suddenly blinded by a pink bolt of a spell that had ripped Natalie’s umbrella from her hand. Emilija didn’t know why.
+
+They’d seen a metal grate go flying through the air, into the face of a man on a moped. They’d smelled smoke. They’d heard a woman screaming instructions through a spell tool of some kind, but none of them knew if the instructions were for them. They couldn’t understand the language she spoke.
+
+Most people were angry. A few people were laughing. Everyone shouted. Nobody shouted in Lithuanian.
+
+Emilija understood English words like chaos, red, fuck them, ours without understanding what was causing the battle around her.
+
+Getting off the street, away from the impossible thing that was happening—Avowed fighting Avowed right here in public where other people could be hurt—hadn’t been a decision the girls made together. They had just moved in unison toward the first hiding spot they’d seen. This dark little shop with the door broken in.
+
+Normally, a place with a broken door would be somewhere Emilija avoided. But it had looked like safety tonight. It had been safe at first. So safe that they’d stayed, huddled in the back of the shop, watching the madness on the street through the window like it was a theater screen.
+
+The traffic had rapidly disappeared. Sometimes, a couple of minutes would pass without anyone running by. But the sound of the ongoing riot—still at the bunker entrance, Emilija assumed—didn’t let up. The three of them had started for the exit at one point, only for a traffic light to slam into the pavement right in front of the door, sending fragments flying through that barely missed them.
+
+For a while, it had felt like going outside would be stepping into a war zone.
+
+And now…
+
+The voices of the people who’d entered the shop were muffled through the bathroom walls. It made picking out even the few words Emilija might have known impossible.
+
+But Natalie and Hadiza weren’t moving, so she didn’t move either.
+
+They should be gone by now.
+
+Natalie at least. Her timer had been shorter. Had it changed? Had she rejected her teleport so that she could stay with the two of them?
+
+There was no way to ask.
+
+The System was still telling them to head to the condominium building. Another notice had come through about not interfering with the people wearing the red halos. Emilija would not be getting a teleport timer.
+
+I couldn’t have used it anyway right now. I couldn’t have used it with the girls still here.
+
+They were younger than her. Hadiza could be too mature for her own good, but they both felt like they needed looking after.
+
+What am I going to do if the people out there come in here? What if they want to fight? What if they won’t let us go?
+
+She felt weak.
+
+She knew she was practically the same person she’d always been. Anesidora threw rank and class in your face more than she’d expected. But it didn’t really bother her very often.
+
+Being hung up on getting less magic, when you’d been expecting no magic, was stupid. Six months ago, Emilija was an ordinary girl. She was worrying that her life was going to stall if she didn’t get out of her hometown, but she didn’t want to hurt her mother’s feelings by saying home wasn’t enough. That day the System had spoken to her had felt like an answer.
+
+Anesidora. Avowed. A brand new life in the most exciting place on Earth.
+
+She wanted to love it here. She had loved it here.
+
+But every now and then…
+
+During Diwali, when they’d been trying to watch the fireworks with the crowd at The Span, she’d gotten shoved around too much. And it wasn’t like being jostled in any crowd she’d ever been in. Arms moving so fast that she couldn’t tell if they were going to hit her or not until the owner was already past. Little bumps that almost took her off her feet even though the other person didn’t seem to notice.
+
+Natalie and Hadiza didn’t seem to have the same trouble, but…well…they were both really high on the noticeability scale.
+
+The balcony with the hot tub had taken her mind right off of the discomfort that night. But here it was again.
+
+I am not someone who can fight back against an Avowed.
+
+Not any Avowed.
+
+Maybe another little F-rank Rabbit.
+
+I don’t think the people out there are all F-rank Rabbits. Aren’t they ever going to leave?
+
+It was probably only the dark, the stillness, and the fear. But their incomprehensible conversation had a tone to it that Emilija though was conspiratorial. They sounded like they were planning something. And like, maybe, they were hyping each other up for their plans.
+
+Suddenly, there was a clatter from outside the door that made her flinch and Natalie gasp. The bathroom light clicked on for a second, and they all three froze again, staring at each other.
+
+One of the voices shouted, “Be serious! This is serious business! They’re keeping us away from one of the only chaos-rated shelters. They aren’t allowed to do that. They aren’t allowed to send us to some random tower without a single fucking shield on it. We ran halfway across F to get here. This is our island. We’ve got rights.”
+
+Emilija understood they, serious, chaos, demon, and shelter.
+
+She imagined terrible things.
+
+“I’ve got to take a leak,” another voice said.
+
+Emilija understood none of that. But she understood the sudden change in Hadiza’s expression, the tiny sound Natalie made, the stomp of feet getting louder and louder.
+
+The light went off.
+
+The door swung open, and it blinked back on. A long-haired man who looked just a few years older than her, wearing heavy bracers with stones set in them, stared at the three of them.
+
+“Our bathroom,” said Emilija, her voice coming out hard. Like she actually had some authority over this particular lavatory. “Not for you. Go.”
+
+“We’re just hiding out in here from the danger,” said Natalie. She was talking too fast, but she’d turned on that smile that seemed to make every quirk charming. “It was bad out there. Do you think it’s safe for us to leave yet?”
+
+Emilija couldn’t even decipher the words, but she found herself nodding along in agreement.
+
+Hadiza had paused in the act of reaching for the toilet brush. What she was going to do with that was anyone’s guess.
+
+What kind of a weapon is a toilet brush, anyway?
+
+“We were on our way to Norsehorse Condominium,” said Natalie. “It’s that way, isn’t it?”
+
+She pointed toward a wall.
+
+The man was gaping, mostly at her.
+
+Emilija analyzed his face. This might be all right. That’s a good face.
+
+People gaping at Natalie Choir was business as usual. The high Appeal was startling, but most people liked it. It was, after all, something you were suppose to like.
+
+“Oh, yeah! Yeah!” The man smiled at them. “That’s the way, all right! But it’s pretty rough out there. Don’t you three want to wait here? When we bust into the bunker, everybody on our side can come with us, and you can—”
+
+“You can work for your chance at safety or you can leave.” The tall brunette woman who’d stalked up behind the man to see what was going on had a face like an iceberg. “I didn’t help build that shelter with my own two hands only to be teleported off to a random highrise when the big day finally came. And I didn’t build it so a bunch of pretty faces could waltz in after we’d fought for it.”
+
+She and the man exchanged a few words in another language, and then she stared at Natalie. “That much of a beauty boost and still stuck here? Obviously a Rabbit. What’s a Rabbit going to do when the demons come?”
+
+“Ummm…” said Natalie. “I just want to do what the System says. And chaos exposure is low. I don’t need…a special shelter or anything, ma’am?”
+
+“We are going,” said Hadiza firmly.
+
+Emilija nodded in solidarity. She didn’t get the conversation, but she got that her friends weren’t happy. And the word going.
+
+Yes. Let’s be going. Let’s go. Away from all of this.
+
+She was sure she’d rather deal with whatever the ocean was doing than with these people.
+
+They shuffled out of the bathroom.
+
+Emilija felt odd all of the sudden. Like her body was too light and the world was too slow.
+
+Maybe, she thought, I locked my knees while we were hiding out in there.
+
+When she was little, her teacher had locked her knees for too long during a school program and had fainted.
+
+She walked out behind Natalie and Hadiza, through the little shop. There were only five others in here. It had sounded like a much larger group from the volume of their conversation. One woman had a cut on her forehead. A man, standing on guard by the door, had a wrist cannon.
+
+None of them had the red halos.
+
+“Infogear has cut us off. Should’ve known an old high rank like the Informant was on their side,” a gray-haired man spat. “I voted for the Bunker Street shelter every year for a decade! People said it was a waste of funds to prep for chaos, but now they all want in.”
+
+“We need to find a member of the Sway relay. Talk to the others.”
+
+These are not normal people, thought Emilija. Whatever they’re saying, they’re saying it so angrily.
+
+“Hey.”
+
+Natalie had just made it out the door. Her shoes were crunching on pieces of traffic light. She stopped as the man on guard grabbed her arm. “Hey! We could use this one!”
+
+He looked back at his friends.
+
+“We could use all of them. Bait. Or put them out front when we go in. The red rings are still playing around like they’re scared of their own powers, and if these three are Rabbits they’re not tough at all. They’ll have to think and think again about how to attack us, right?”
+
+An argument started around them. Chinese, English, something else. The gray-haired man had gone to stand on the other side of Natalie. The door was blocked now.
+
+Are they going to keep us here? How long? What if the tsunami happens? What if more spells fly in?
+
+Hadiza’s voice was rising as she rounded on the woman with the iceberg face.
+
+Emilija didn’t know the words.
+
+Natalie was biting her lip and struggling to break away from the grip around her arm. Her golden eyes were watering.
+
+“You’re hurting her,” Emilija said in Lithuanian. “Wrist gun! You’re hurting my friend! Let go!”
+
+Hadiza made for the door, and the woman with the cut tried to grab her. Hadiza ducked. Natalie cried out.
+
+Emilija took a step.
+
+It was the first step of a running tackle. She was aiming for the arm holding Natalie. She was going to throw her entire bodyweight at the arm, and then maybe it would give, and maybe they could run, and it wasn’t really a plan, it was just what she was doing because suddenly this was all going wrong so fast and their choices were to hope for the best or get away.
+
+And she wanted them to get away.
+
+The first step should have been one of several. Three or four to the door, to the man, to freedom.
+
+Instead, that first step launched her body across the room like she’d been shot from a gun.
+
+She’d been shot from a gun…but everything was just a little slow. She felt so light. She was flying toward that arm, and it was different than she’d thought it would be. She had time to pull her elbows in, to put her fists up in front of her face, to think, What the—?
+
+And then she hit him.
+
+It hurt. Like tackling someone as hard as you could should, she imagined.
+
+But that was the only normal thing about it. There was a crack of sound, and his arm was no longer an obstacle. She tried to slow herself with a second step, but the momentum of her own body was too much. She didn’t quite get a foot underneath her properly before she slammed into obstacle number two—the other man blocking the door. Then he was falling backwards over the remnants of the traffic light, slamming into the pavement, and she was falling on top of him and righting herself almost in the same instant.
+
+Her body had become a baffling machine she was trying to drive, completely unpredictable even as it felt like it should be easier to control.
+
+“Run!” she was screaming as she stood back up.
+
+She knew that word in English. Hadiza was shouting the same thing.
+
+“Let’s run!”
+
+She started to go. But she went way too fast and had to stop herself so that she wasn’t leaving the others behind. She stood in the middle of the battle-scarred street with her chest heaving, her arms out, and her legs splayed like a newborn foal’s. Like she was trying to balance even though her sense of her body being wrong didn’t seem to be improved by the posture at all.
+
+Emilija was very, very confused.
+
+When the other two caught up, Natalie was sobbing. Hadiza grabbed Emilija’s arm and pulled. She shouted “run,” and Emilija ran again.
+
+And it happened again.
+
+She ran too far too fast and stopped. Same useless safety posture as before.
+
+This time, when the other girls reached her, Hadiza shouted a question.
+
+“Natalie good?” Emilija asked. “Not hurt?”
+
+Natalie grabbed her around the neck and hugged her. So that was probably a sign that she wasn’t hurt too badly.
+
+Hadiza shouted a question again, staring at Emilija.
+
+I bet she’s asking me what’s going on.
+
+I would like to know that, too.
+
+******
+
+******
+
+The Span had been emptied of people some time ago. Plopstar had teleported away to another assignment. The abandoned vehicles stood there, being periodically washed—or washed away—by the contaminated sea.
+
+No Avowed had received official orders through the System to guard the bridge, so members of the Apex and F-city police forces who hadn’t been called for duty as red halos had been assigned to stand at either end and prevent crossings.
+
+The job had been rough earlier, particularly on the Apex side, but now that almost everyone had seen what the deadly water could do, either in person or through local news, they weren’t having as much trouble. It had been twenty minutes since someone had made a serious attempt to break through the loose line of high ranks and try their luck on a bridge that was looking more and more impassable with every watery assault. There were sections missing. The wreckage of a sailboat had landed two kilometers from the F side.
+
+Only a few people had broken through after The Span was cleared, and those few…
+
+“It’s like this, son,” an old A-rank Brute said gruffly to the short blond boy who’d approached the barrier that had been set up to save fools from themselves. A series of ten barrel-shaped devices stood in a line, powering a curtain shield. “If you were strong enough to cross the bridge without trouble, you’d be strong enough to get past us without asking. Now, why don’t you head with Samira to a shelter? You don’t mind do you, Samira?”
+
+Before the woman he’d called out to could answer, the boy pursed his lips and then said, “I hate to try this, but would it make a difference if I told you I was a Velra?”
+
+The Brute peered down at him. “Are you attempting to bribe me?”
+
+“I’m not sure. I don’t usually do things like…would bribing you work?”
+
+“You know,” said the officer tiredly, “this isn’t a game. What’s happening out there is serious. People have been hurt. And we don’t have time for kids who—”
+
+“I know it’s not a game,” said the boy. “I’m trying to get to my dad. One of his friends texted to say he was last seen hours ago, drunk and heading to a beach. I’m just going to go have a look around for him.”
+
+“Your father’s probably already somewhere safe!” Samira piped up from her post in front of the curtain. There was a break in the rain at the moment, but her raincoat was still freckled with droplets.  “The Artonans are helping with emergency response and the System has been teleporting everyone who needs it. There’s nothing to worry…”
+
+She trailed off as she saw the look on his face.
+
+“The Interdimensional Warrior’s Contract isn’t giving a free salvation teleport to everyone,” he said flatly. “Not everybody who lives on Anesidora is an Avowed.”
+
+“Well…uh…”
+
+“I’m sorry. It’s not your fault…I’ll go to the shelter on my own. I can get there. I’m an S-rank. Don’t worry about me.”
+
+The boy started to walk away, then he looked back over his shoulder to peer at the curtain. “How high is that? Twenty meters? Fine. Have a good night.”
+
+******
+
+Lute Velra didn’t know what he had expected from that conversation.
+
+Nothing had been the most likely result, and nothing was what he’d gotten. But there were still rules in his head that had to be followed. Listen to police. Obey grown-ups. Keep your head down and live quietly around all the Avowed.
+
+That last one was almost gone. Crumbling. You couldn’t actually be a strong Avowed and not know, on some level, that you were. Lute had so many of the same thoughts and hang-ups he’d always had, but his body was different. Those thoughts came from a mind that worked differently. When Lexi made snide comments, he could turn his ears on if he wanted and notice the exact tones he was using to tell if his roommate was really in a bad mood or if he was just saying ill-tempered things out of habit.
+
+It was habit at least half the time. Lute blamed Konstantin for probably being the kind of brother who required constant nagging.
+
+But Chainer was a class that had kept Lute more separate from other Avowed than others probably would have. He had a part-time job on the Triplanets. He couldn’t join any class-focused clubs or properly talk about his magic with anyone but his own relatives and an overly enthusiastic, intimidatingly zealous Artonan.
+
+So there was still a part of him that despaired when he saw all those high ranks standing in front of the Wrightmade shield, guarding the bridge that separated him from that stupid idiot moron Cyril.
+
+Those were real Avowed. Those were the strong people at the top of the Anesidoran rank pyramid.
+
+Lute was…
+
+Packing a second S skill that’s useless for this. Gifted with some of the best hands a human can wear and a voice that can hit notes nobody should be able to.
+
+Completely incapable of targeting people without the System’s help unless they’re hot or hatable.
+
+Before he’d gotten the text telling him about where his dad had last been seen, he’d been wandering the MPE gym, trying to get his targeting to work. To distract himself from the anxiety of not knowing where either of his parents were and to prove to himself that he was not some terrible System-born lustcreature whose powers were supposed to work that way.
+
+He had managed to gift chains by deliberately obsessing over someone while he cast. He’d been relieved to discover the “hatable” method because at least it was proof there wasn’t only one way to do it.
+
+I just needed to access a certain quality of focus. It was coincidence that I figured that out in such an awkward way.
+
+He’d learn to do it in a less embarrassing manner as soon as possible, take the secret with him when he died, and nobody would ever know.
+
+But for now, he walked away from the police line, focused on a few of Emilija’s wonderful qualities, and wove his hands while he chanted one more Force of the Traveler’s Body for her. He’d already done three of those. And a few other things. Desperately hoping…
+
+She was an F-rank Rabbit. She’d be super low priority for teleport, and who knew what trouble she might run into on a night like this? Lute doubted any of the wordchains were landing on her. He had no clue what his range was; he’d never tested it because it had always been far enough to do his job. But he didn’t believe it was the ten-plus kilometers it would need to be to actually help her.
+
+Maybe, if he was very lucky, just one would make it through.
+
+Now for me.
+
+He had already layered so many that he’d felt like he was trying to operate an alien being by remote control on his run here. Self-mastery was working overtime. He’d given up on controlling some of the things he usually enjoyed micromanaging—his expressions, his tone—so that he could focus on the big things that needed to be operated perfectly to avoid disaster.
+
+Like his arms and legs.
+
+And the negative side effects of that one…Lute didn’t know if it was even possible to become aware of individual cells, but he had reached a point where he was seriously considering that it might be. The human body was a disgusting meat puppet entrapping the soul, and nobody should ever be forced to acknowledge their own guts processing their last meal.
+
+What makes someone a great Chainer?
+
+A question he had never wanted to care about.
+
+The System gave you the hands. The mouth. The ears. The memory.
+
+And it gave you the package of tools for the actual Mass Bestowal part of the job…which Lute couldn’t currently access.
+
+To make you a Chainer, the family or the Palace shoved your nose into a book for decades and forced you to gobble down hundreds of obscure chains that did almost the same things as the hundreds of other obscure chains you’d already learned.
+
+Eternal. Memorization.
+
+Homework forever.
+
+But other than that…what was there?
+
+What was it, anyway, that made a Chainer good?
+
+It’s getting wordchains to land on you or on the people you’re casting them for.
+
+Chains didn’t always answer. Aulia had obnoxious theories about how high ranks were more in tune with the universe. About how that made wordchains like them more or something. Maybe Lute should have stolen a few more lessons from her before he cut her out of his life, so he could understand exactly what she thought.
+
+He did know that most people couldn’t stack more than a dozen casts of a single wordchain on themselves. They were supposed to stop landing for you at some point.
+
+He hadn’t thought he could do it. But he’d just done it. With more than one chain.
+
+Huh.
+
+The thing was, Lute didn’t actually know truly strong wordchains yet. He was still a novice. He had his questionable understanding of Artonan and his beginner chaining books that he’d been memorizing for the past year like a good boy. And Harmony, which he’d asked for specifically.
+
+Plus whatever specialty things Parethat-uur gave him for work or as random surprises.
+
+It was a lot compared to everyone else, but by S-rank Chainer standards he was barely taking his first step.
+
+But to run kilometers across a partially destroyed bridge, to guarantee he could survive in the water if it sank, to make it to F and, hopefully, his father…Lute Velra felt, for the first time in his life, like he needed a lot of magic.
+
+All he had, though, was one skill he could barely use, another he couldn’t use at all in this situation, and his too-small wordchains.
+
+So he kept casting them. And they just kept coming for him.
+
+He decided it wasn’t a time for questions.
+
+But he remembered his grandmother turning blind eyes toward him that night and smiling. He remembered Hazel, losing that cruel little wordchain casting contest to him, even though he didn’t speak Artonan. Even though she was a prodigy.
+
+He cast another Force of the Traveler’s Body on himself.
+
+It gave you “strength for your travels” which was just plain old strength as far as Lute was concerned on a normal day, but he was hoping for more now.
+
+That’s enough. That’s got to be enough. One more, and I’ll explode.
+
+He was stronger, faster, and more durable than he’d ever been before. The vision in his eye was more acute. He could count every strand of hair touching his face. His mental focus was wildly enhanced, though there was so much to focus on that it didn’t feel like it was.
+
+He stopped walking down the abandoned street and turned back to look at the line of guards and the shining barrier. He’d gone far enough that they had to be relaxed by now. He’d gone so far that most of them probably couldn’t even see him anymore.
+
+Dad, you dumbshit. I hate you. I miss you. Please don’t be dead.
+
+He wondered what it was going to feel like to leave the ground. To make the choice.
+
+To finally, once and for all, throw himself into the sky.
+
+Fast enough that the speedster over there can’t catch you, thought Lute. Strong enough that the strong one can’t grab you. Get there before any spell can reach you.
+
+Now.
+
+He launched himself forward. The pavement released a sharp report.
+
+By the time they realized Lute Velra was coming, he was already thirty meters over their heads.
+
+******
+
+******

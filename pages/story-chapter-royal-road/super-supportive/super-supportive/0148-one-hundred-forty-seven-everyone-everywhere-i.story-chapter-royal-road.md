@@ -1,0 +1,405 @@
+---
+id: bcaf8c62-5852-54a4-9bfd-8c1b55cdfb36
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FORTY-SEVEN: Everyone, Everywhere I"
+slug: 0148-one-hundred-forty-seven-everyone-everywhere-i
+partOf: super-supportive
+position: 148
+ownLength: 4470
+unit: words
+publishedAt: 2024-06-09
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1670237/one-hundred-forty-seven-everyone-everywhere-i"
+royalRoadId: "1670237"
+---
+
+*******
+
+147
+
+*******
+
+“Now this is what we’re talking about. This is what we mean when we say Avowed are not us, they’re tools for controlling us.” The voice of the talk show host flowed from the radio of a restored 1959 Ford Fairlane as it cruised the dark, quiet streets of a California suburb. “For our listeners who haven’t heard about the situation in Uruguay—”
+
+“I think our listeners have heard by now, Wilbert. They’re smart people. They’re staying informed.”
+
+“You’re right, Polly. You’re right. But for anyone tuning in for the first time, this situation we’re hearing about is a sign of things to come if we slack off on monitoring the Avowed. If we let people who are not us live among us. This woman in Uruguay, she is already a member of their Chamber of Representatives. They have let her in there. And she almost certainly is Avowed. People who know her have said it. This is not a rumor, folks.”
+
+“It’s really not,” Polly agreed. “People have said it.”
+
+“And even if they hadn’t said it, you only have to look at her. You can tell through these videos that people have found of her that there is some magic and some mind control…can you imagine what it’s like in person? Forgive me, Polly baby. You’re the love of my life. You’re a breathtaking human being—”
+
+“I am. One hundred percent human.”
+
+“Take a look at Polly’s picture on our website. That is what a gorgeous, all-natural human being looks like. But the woman in Uruguay—I mean just look at her. Just listen to her. They say that Appeal doesn’t have a strong effect through screens. But what else would they say?  She’s an Avowed. At least a B-rank.”
+
+“Definitely, definitely,” Polly agreed. “At least a B. He’s a really good guesser about this kind of thing.”
+
+“And she says…get this, listeners…people have asked her about it, and of course she denies it. But she also says she feels sympathetic towards unregistereds and hopes her country will change the way it does things.” A loud bell sound effect played. “That’s the warning alarm ringing! She’s ringing it herself. It’s coming out of her own mouth. Can you hear it?!”
+
+“Wilbert gets frustrated,” said Polly. “I’m frustrated, too. How can so many of our fellow human beings not understand the risks? This woman—I shouldn’t really call her that—this alien tool is already a politician. One day, she could lead a country she shouldn’t even be allowed to live in. She could be speaking at the UN. If that happens, she will have an effect on our President. On the leaders of other nations.”
+
+Wilbert groaned dramatically. “And it’s not like it was in the old days. You old timers remember. There used to be a lot more pushback from humans against the idea that just meeting some Artonans should change how we do things on our planet. But we all live now in a world where people, most people, almost all of our fellow humans are feeding at what I like to think of as that poisoned alien trough—”
+
+“It really is poisoned. That sweet taste is poison.”
+
+“And they’re saying you and me and Polly are crazy. That these ‘superhumans’ are just talented humans. But they’re not. They’re not. When they were children, they were human beings with some kind of a weakness. That’s the theory that makes the most sense to us.
+
+“And it’s very sad, but if you’ll read our books, We Dream of a Lonely Earth and Chaos is a Lie, you will understand that Polly and I are gentle people. We feel sorry for boys and girls with this weakness—a mental pliability is what we think it is—that makes them easier for the Artonans to manipulate and use. They are victims. But once they become Avowed, once they’ve become tools, they…I hate to say it, but we probably can’t save them. They aren’t one of us anymore. When you hear them saying things, you have to know it’s really a wizard speaking through them.”
+
+“If humans were meant to have magic it would have come to us through evolution,” Polly said.
+
+“Tell them about the book, baby.”
+
+“At this very moment, we’re writing a book about raising human children,” said Polly. “We are writing it as fast as we can because everyone needs to read it.”
+
+“That’s right, Polly. It’s a parent’s job to raise children the Artonans would be terrified to use. Strong, safe human boys and girls.”
+
+“We like to call them our little future listeners.”
+
+“Hahaha! That we do. Now, if you’ve already taken your kids to a House of ‘Healing’ or if you’ve been sending them to a school that uses magical devices to ‘enhance’ the educational experience, don’t panic. Our new book is going to include traditional human alternatives—advice from so many ancient human cultures. We really want to get to the heart of what human childhood is supposed to be. And we talk about ways to cleanse your family of—”
+
+The driver, whose fingers had been drumming against the steering wheel as he listened to the radio show, suddenly reached over and switched it off. His hands tightened on the wheel again. The vintage car accelerated.
+
+Just a few minutes later, it had to slow down to make the turn into a driveway. The headlights shone briefly on the house number. Below it, a matching plaque bore the name of the family who lived there:
+
+MOORE
+
+A blueish glow leaked through a gap in the blinds of the guest room window. The woman inside was up late, staring at the screen of a tablet, trying to think of all the right things to say to her son, Jacob.
+
+Even though his text messages had stopped coming a while ago.
+
+******
+
+******
+
+“All right, who set the sound system to play that Walter and Molly trash?”  The middle-aged woman who was speaking set her cards on the table and leaned back to look around the room.
+
+The nonAvowed-only speakeasy was just a pair of apartments in an F-city free housing block. A couple of years ago, some resourceful people had knocked out a few walls, installed soundproofing, and hung up a sign behind the bar that said “Stormy’s." As far as such establishments went on Anesidora, it was of the lowest caliber, but it was limping along thanks to the location.
+
+“It’s Wilbert and Polly,” said a young man wearing a NesiTechnical jacket. “They’ve said each other’s beautiful human names about twenty times so far.”
+
+He’d been struggling to finish the mint julep he’d ordered an hour ago, and the glass had left a ring of condensation on the laminate tabletop. The older man beside him was having no such trouble. All that was left of his fifth whiskey was a melting ice cube. He was glaring at it.
+
+“I don’t really care what their names are. I come here to hang out with people who aren’t casting spells every few minutes or giving me surprised looks when I have to pay for things with a NesiCard instead of an interface,” said the woman. “That doesn’t mean I want to listen to a pair of foreigners tell me that all my relatives are Artonan mouthpieces and that I’m diluting my humanity by enjoying a good wrestling match at Brutal Ring.”
+
+“How many Avowed could they even have met in real life if they don’t live here?” another woman added. “And what happened to the canyon drum songs that were playing? I haven’t heard all of this year’s batch yet. The bagruoodas were really outdoing themselves.”
+
+The man with the empty whisky glass pushed himself up from the table so hard the poker chips they were using rattled. “Turn that shit off!” he bellowed.
+
+“Cyril,” said the woman who’d complained first, “don’t—”
+
+He was already stalking across the sticky floor toward the bar. A couple of other people at the table winced or sighed.
+
+“He’s been in a bad mood for a year and a half,” someone muttered.
+
+“It has gotten…”
+
+“I know his feelings are hurt, but isn’t he treating his kid horribly? His own parents basically disowned him. You’d think he’d want to do it different than they—”
+
+“His kid?”
+
+“Shhhh.”
+
+“Who’s his kid?” the NesiTechnical student asked curiously.
+
+Before anyone could answer the question, there was swearing from over by the bar, followed by the clatter of a polycarbonate beer mug bouncing across the floor.
+
+“I don’t need this place! I don’t need people like this!” Cyril shouted. “I’m going TO WALK ON THE BEACH!!”
+
+He thundered out. In the ensuing silence, everyone looked around at each other. A few people laughed.
+
+“There are literally no beaches anywhere near here,” said the student. “Should one of us—?”
+
+“Let him go,” said the older woman. “He needs to cool off. Cops are forgiving to drunks without powers. Reason this place is still open even if it’s less than subtle. Whiff-pity perk.”
+
+The student took another swig from the julep and made a face. “At least there’s something. Maybe if I tell my family there are perks, they’ll stop acting like I’ve died.”
+
+The talk show cut off, and a moment later, the canyon drum songs started up again.
+
+An infogear watch was left behind on the table beside Cyril’s poker chips.
+
+******
+
+******
+
+“One more, Bird! Please, just one more!”
+
+<<It’s late, and you said that three spells ago.>>
+
+“And she’ll say it ten from now. Don’t keep spoiling my daughter. She’s insatiable.”
+
+“What did she say, dad?”
+
+“She said you’re tons of trouble. Stop forgetting to charge your phone if you want a translator.”
+
+“She did not say that! You didn’t say that about me, did you, Bird?”
+
+A pretty woman with dark, waist-length hair was standing on the deck of an old yacht. She smiled at the girl who was begging for spells, then turned and let out a singing chant, her arms undulating through the air. As she sang, a brachiosaurus appeared ahead of them, walking meters above the waves. It was lit as if it stood under a sunny sky, even though the night was a cloudless blanket of stars.
+
+“SUPER wow!” the girl ran forward. “S-ranks are the best. You’re the best of the best, Bird. I’m glad we found you in Thailand. I didn’t know Adjusters could do illusions of things they haven’t even seen before!”
+
+“You do realize we didn’t discover her, don’t you, Annalise?” her father said from his seat in a deck chair. Beside him, an older man lay snoring, one hand gripping a quarterstaff tipped with carved crystal on the ends.  “She and Mr. Dawa are just here because of our job. We don’t get to keep them.”
+
+“I knooow…we all sail for SAL!” Annalise punched her arm into the air. “Hey, Bird, I’m almost eleven. I could be an S-rank soon. It could happen.”
+
+“That’s unlikely considering your mother and I aren’t even A’s.”
+
+The girl gripped the boat’s railing and leaned over it. Strands of hair, once dyed purple but faded now to a dull pink, blew around her tanned cheeks as they approached the brachiosaurus and sailed beneath it. “Magical,” she breathed.
+
+<<Tell her I have seen this before,>> the Adjuster said. <<An educational park’s megafauna experience. And I have a skill that helps me recall images.>>
+
+He repeated the message.
+
+“Hey, that’s really cool,” said Annalise. “Mum gets loads of work on the Triplanets, and she’s been saving up. So if I do get S, I can probably trade into Adjuster.”
+
+<<Tell her if she does want to when the time comes, I’ll help her get to a consulate for trading without being seen,>> said Bird.
+
+“Will you really? That’s—”
+
+<<Tell her if anyone gives her trouble, I will hit them with my staff,>> Dawa muttered without moving.
+
+The father glanced from one of them to the other. After a second’s hesitation, he translated their words for his daughter. Her eyes grew round, and then she started chattering at Bird even more excitedly than before.
+
+<<Avowed helping each other live freely. That’s how it should be,>> Dawa said, his voice intense despite the fact that he’d just been sleeping. <<That’s what this is about.>>
+
+He finally opened his eyes and peered up at the sky. <<These people we’re going to meet, the magical machine they’re bringing us, the weapons—they will all help Avowed for years to come. My group doesn’t always get along with the ones that call our purpose ‘SAL’. But for this…we unite. One step up the mountain at a time. This is a big step.>>
+
+<<A big one,>> Bird agreed.
+
+“Well, I look forward to seeing what all the fuss is about,” said the father. “This is the most SAL has ever paid us for a job, and I’m curious about this item they’re using to get off the island. It doesn’t sound like it’s worth two S-ranks coming along for something like that. But it’s good to have you both around.”
+
+“Dad, have you gotten another message from the Captain of the boat we’re going to meet? What does he say?” Annalise asked.
+
+“He actually hasn’t answered my last message. Maybe he’s sleeping, like we should be.”
+
+******
+
+******
+
+“I have put our daughter to sleep for the third time,” Ethan Roberts announced as he flopped onto the bed beside his wife, Ekaterina.
+
+“Thank you,” she said, her hair spilling across one pillow, her arms clutching another to her chest.
+
+“I scrubbed the last tattoo off her foot. I resisted the urge to use Brute strength.”
+
+“Good.”
+
+“I made up a bedtime story about that turtle rug Lexi bought her.”
+
+“That was Konstantin.”
+
+“Really? That was nice of him. He’s growing—”
+
+“It’s hiding some dents and scratches on the floor.”
+
+He groaned.
+
+“Making up bedtime stories about turtles is sexy,” she said. “If Irina doesn’t start calling for us again in the next five minutes, let’s do something about how sexy you are.”
+
+He smiled. “By the way…did you get us a new mattress?”
+
+Her brow furrowed. “I keep thinking it feels different, too.”
+
+“Maybe we just got used to the ones we used on the trip to—”
+
+Sirens broke their conversation and the peacefulness of the night. One screamed from just overhead on the rooftop of their building. In an instant, the Robertses were down the hall in Irina’s room, and Ekaterina was wrapping her arms around the little girl, who was covering her ears with her hands and howling her own confusion and fear back at the sudden noise.
+
+“What is this?” Ethan asked, as they stood there staring at each other over their daughter’s head.
+
+Disaster messages started to roll in, only to be interrupted by a more personal one.
+
+[Emergency teleportation to a safe location is recommended for your child. Teleportation will be available shortly. The Triplanetary Government urges you to accept. Caretakers and comforters, bound by contract to their duty, will be on site to greet children as they arrive.
+
+When you are ready to consent to the teleportation of your child, please select ‘yes.’
+
+YES]
+
+“Yes.”
+
+“Da.”
+
+They were both silent for a single second.
+
+“I’ll…I’ll get some things packed for her,” Ethan whispered. “In case it doesn’t mind sending them with her.”
+
+While he rushed around the room, stuffing a couple of beloved toys and favorite clothes into a small green backpack, his wife sat on the edge of the bed, consoling Irina with pats and whispered words. Explaining what was about to happen.
+
+A few minutes later, the little girl was gone.
+
+Her mother stood on a turtle rug that covered a scarred patch of floor, her arms suddenly empty.
+
+“This is the right thing,” Ethan said. “We both definitely know an emergency teleport isn’t something you say no to.”
+
+“Yes. Our boys…”
+
+“They’ll be fine. We’ll find some way to call. But the CNH campus should be safer than almost anywh—”
+
+He stopped speaking as his interface flared a bright red.
+
+[EMERGENCY ORDERS ISSUED. No summons incoming. You are already at the location of your assignment.
+
+ORDERS: Persuade Avowed inside Nilama Apartments to follow Contract orders and evacuate. Do not use force or threats of force against other Avowed for the purpose of completing this assignment. Do not leave Nilama Apartments until all Avowed are evacuated or new orders are issued.
+
+Refusal is not allowed. Payment will be…]
+
+“Ethan…you have a red ring of light over your head.”
+
+“You do, too.” He was still reading the assignment. “I have to persuade our neighbors to listen to the System, without using force. Most of them will do it on their own, but how am I going to make Mr. Wei leave? He hasn’t left 509 since before Lexi was born. What kind of order is—?”
+
+“You just have to talk to the neighbors?!”
+
+“Why? What do you have to do?”
+
+“I have to rip a bunch of equipment out of a boat in the marina and then run with it across the city!” She looked down at herself. “All right…I can…it’s not too hard. But I should probably put on some pants.”
+
+******
+
+******
+
+Lawrence, aka Skiff, polling as the number one most popular hero on the Chicago team since February and enjoying a contract-stipulated raise as a result, had recently bought a historic six-bedroom house near Montrose Beach. He’d thought…hoped…that the promise of a ton of space and spare bedrooms would lure his parents or his older brother into more frequent visits.
+
+So far they hadn’t come. Christmas could happen, though. Maybe.
+
+Saturdays were always crammed with events, so he had to wake up hours before dawn if he wanted a little personal time. He ate a cold beef sandwich in his new formal dining room and watched a recorded broadcast from Madrid on his interface while he answered fan mail. Chicago kept telling him to let an assistant do this, one who would PR the letters to death. And the Anesidoran government funded a service for high profile Avowed that would also do the job—better, faster, and more subtly—if he wanted his fans PR’d to death in a slightly different way.
+
+But no. Emails and hand-written replies from the real Skiff were going to be a thing.
+
+Even though he was behind by a few months.
+
+“Look at him,” he said in annoyance as a familiar face appeared on the broadcast. The man was modeling one of Madrid’s new hero ensembles. It was hoopoe inspired. So fun. “Sebastian, you dumb jerk. SMILE. They gave you a feathered cape and a headdress, and you look like you’re at a funeral.”
+
+His old roommate swished the cape half-heartedly, and Skiff rolled his eyes before shutting his interface off so he could focus.
+
+That reminds me, he thought as he turned his attention back to the letter he was writing, I have to talk to that company that wants to sell ‘Skifflops’ about renaming them if they want me to take them seriously.
+
+He finished five letters, writing quickly. As he was approaching the end of the sixth, there was a loud banging on his door. At this time?
+
+It was way too late, or way too early if you looked at it that way, for it to be for normal job reasons. Something had to be wrong.
+
+Why didn’t they just call?
+
+He stood up, but before he could leave the table, a wash of false red coated the room, courtesy of his interface, and he dropped his pen in surprise.
+
+[EMERGENCY ORDERS ISSUED]
+
+“Fuck.”
+
+It had happened. He was going to another planet. And not for an awesome money-making adventure with some wild wizards like a couple of years ago. Emergency. The real deal. They were going to make him fight something. A demon. An evil wizard. Or de-flood something awful like a chemical plant full of toxic magical fumes.
+
+I’m wearing board shorts. They have to gear me up for emergencies, don’t they? If there are fumes I get a gas mask? That’s their responsibility.
+
+Now Mom will be sorry she didn’t come see the new house when I begged.
+
+[Summons to Nilama Family Neighborhood, F-City, Anesidora
+
+Teleport in 9s…]
+
+“Huh? I’m going home?”
+
+Nine seconds later, he was gone.
+
+The letter he’d left on the table, almost done, was in reply to a little girl whose sister had died in a car accident.
+
+“Why,” she’d asked, “didn’t the System save her? Why didn’t it send you to stop the other driver? My Mom says it doesn’t work like that, but my Aunt says it could if it wanted to.
+
+“I hope my letter doesn’t bother you. I went off the high dive at the pool because I saw you talk about how not to be afraid of that on Skiff Says. Please write back.”
+
+***
+
+Dear Tanwyk,
+
+I’m proud of you for going off the high dive. And for being brave enough to ask hard questions.
+
+And I’m so sorry about your sister.
+
+There aren’t any answers that will make you stop missing her and feeling sad about what happened. And I’ll probably only be able to tell you things you already know.
+
+The System is a very amazing part of our planet. It allows us to talk to the rest of the universe, and it gives us a way to learn about people we would never in a thousand human lifetimes be able to meet without it. You may have heard of the Artonans using it to help during serious disasters. Or you may have heard that on Anesidora, where most Avowed live, we use it the way people here in Chicago use ambulances—to get to the hospital when we’re hurt or get to safety when we’re in trouble.
+
+Because of agreements with the Triplanets and the System, Earth gets teleportation allowances for humans to use in all kinds of different helpful ways. Anesidora has a larger allowance than most places, but even Avowed can’t always teleport whenever we’d like. There have been times when the allowance was used up, and there was no more left for people who needed help.
+
+That’s always very hard.
+
+A hopeful thing to think about is the fact that the teleportation allowances have been growing ever since the System first became a part of Earth. On Artona I, II, and III, they have teleportation centers and alcoves all over the place.
+
+Someday, Earth might be like that. And you may be able to use the System for a trip to the other side of the world yourself, just because you’d like to travel. And we’ll be able to save more people who need help.
+
+But for now, I try to remember that the System isn’t strong enough to fix everything, everywhere. And it’s not meant to do that for us. It has important jobs to do that we can’t always imagine…
+
+******
+
+******
+
+[OFFICIAL ORDER: Apply Life Jacket spell impression to designated human beings. Not objects.]
+
+“Are you sure? If I make a sunken boat float again a lot of people can ride on it.”
+
+[I am sure.]
+
+“It’s sure,” Jeffy reported to the others who stood in the warming room that had been set up in the TC for cold, wet red halos who were in between tasks.
+
+“Does he get paid extra for every individual order it has to issue?” a man murmured in Chinese.
+
+“Is that the most important thing right now?” someone else said in the same language. “He’s actually good in the water.”
+
+[OFFICIAL ORDER:  Rescue people from flooded location and direct them toward shelter. Follow instructions from assigned partner.
+
+Teleport in 6s.
+
+Teleport is directly into water.]
+
+“Yesenia!” Jeffy said to the woman beside him. “The tel—!”
+
+“Yes, Jeffy. We’ve got this,” she said, winking one aquamarine eye at him.  “Brute divers go!”
+
+******
+
+******
+
+It was a summer night at LeafSong, and the hungrycup flowers were feasting on the members of the klerm swarm that hadn’t been repelled by the spells coating the campus. Their staccato screeches were almost loud enough to drown out the conversation of two wizards who strolled a pathway between darkened buildings.
+
+“An ancient Sinker Sender, almost certainly driven by half-witted humans feeding it nonsensical directions, fragmented into minute particles and ejected into the ocean of a foreign planet by a shield built on reversal theory rather than nullification…”
+
+The speaker clicked her throat in a mix of interest and disapproval.
+
+“It sounds like a problem from one of Exalted Master Gyako-tim’s proving tests,” her companion said. “Do you remember how we set aside a room just for moaning that year?”
+
+“The screams. The stress sweat….I think discussing the response of the nascent Contract will be a good topic for the winter meeting.”
+
+“Maybe. We’ll see when it’s over. Right now, I’m just hoping that this somehow leads to the loosening of summoning restrictions on the species rather than even tighter ones.”
+
+One of the campus’s automated carts approached from behind them and then passed. The lone first year student riding in it didn’t look their way.
+
+“Wasn’t that…?”
+
+“Yes.”
+
+“Where is he going in such a hurry at this hour?”
+
+******
+
+Sina Stu-art’h stepped off the cart and headed toward the domed, windowless black stone building. He didn't pause to properly straighten his student uniform, and when the door opened for him, he didn’t hesitate to head around the curved hall that formed the hot lab’s perimeter.
+
+“Young Stu-art’h,” said Worli Ro-den, looking up from his desk as the Primary’s son entered his office. “You must have so many questions about your class’s recent exploration of the fourth bowel of—”
+
+“You aren’t answering your messages in a timely manner,” Stu-art’h said in a rush. He leaned over the professor’s desk.
+
+Ro-den’s eye flicked behind his monocle. “The last message you sent was a mere four—”
+
+“And I don’t think anyone else on campus will come deliver news to you when that news might help you to shed a portion of your great shame.”
+
+“You are such a charming conversationalist. I’ve missed an opportunity by not chatting socially with you before.”
+
+“Something is happening on Earth that puts many Avowed at risk,” said Stu-art’h. “A large magical spill of some kind in their ocean. Volunteers are gathering in the Grand Senate’s inking hall now to be sworn to task. If you head to the summonarium immediately, you will arrive in time to join them.”
+
+Ro-den froze.
+
+“It must be difficult for you to commit highly visible acts of service to the Triplanets while monitoring student explorations of fourth bowels,” Stu-art’h said, staring at him.
+
+“Well…that’s not untrue. But why would you—?”
+
+“I brought you a cart.”
+
+*******
+
+*******

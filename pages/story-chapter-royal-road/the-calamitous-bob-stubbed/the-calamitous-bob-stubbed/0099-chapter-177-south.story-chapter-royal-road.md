@@ -1,0 +1,413 @@
+---
+id: f2c3e917-87d6-5d8e-b0ca-a33e942fb93d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 177: South"
+slug: 0099-chapter-177-south
+partOf: the-calamitous-bob-stubbed
+position: 99
+ownLength: 5214
+unit: words
+ownProgress: 5214
+publishedAt: 2024-09-20
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1812235/chapter-177-south"
+royalRoadId: "1812235"
+markedReadAt: "2026-06-29T21:18:10.681Z"
+---
+
+It was year five after Viv had been unleashed upon Nyil, the spring after the golem recovery, and New Harrak remained blessedly unfucked with. This was extremely suspicious and made Viv nervous as hell. Rather than waiting for trouble to come to her, as it inevitably would, she decided to go look for it instead, and her next destination was already decided.
+
+It was time to see if there was anything left alive of the old empire. And maybe, if Solfis’ information was correct, recover a few ships as well.
+
+There was just the question of legitimacy but she was confident they would find an arrangement.
+
+But before that, she would look around her empire one last time and make sure everything was going well. It would be a pain in the ass to recall the expedition before the next calamity hit the empire mid trip.
+
+She nodded to herself and stood up in her study, ready to track the slightest hint of impending doom. Nothing would stop her. She valiantly grabbed her door’s handle, and it, of course, broke under her fingers.
+
+“Nous dammit.”
+
+***
+
+Deep inside the forest near Kazar hid a series of camps dedicated to training. Busy parents sent their children there for outdoor practice but mostly to get them out of their hair without having to pay for food. Those camps had become a necessity because the increasing number of twerps meant the Kazaran outskirts were picked clean of anything edible in days, and also because the children had achieved what many kingdoms believed to be utterly impossible.
+
+They had hunted beastlings to extinction. New extermination grounds had to be sought.
+
+“How many is it now?” Viv asked Zero-Five.
+
+The axe-wielding Hadal shrugged, the movement only a ripple underneath his black armor. A mask covered his face except for the eyes, so it was even harder than usual to guess his reactions.
+
+“Item thirty-seven,” he finally rumbled.
+
+“Alrighty then. Add item, ugh, I can’t believe I have to do this. Add item thirty-eight: though the use of fire wasps is permitted, it is forbidden to shove an entire live beastling inside a fire wasp hive to, and I quote, ‘see what would happen’.”
+
+She watched the charred remnant of an entire section of forest. It had not fully regrown yet, which showed how absolutely devastating the blaze had been. The earth was baked, cracked and solid. Completely dry. Even the roots underneath were charcoal by then.
+
+“I mean, I’m not mad, right? It is quite obvious what would happen?”
+
+The tall Hadal kept his peace. Only the yellow iris of his eyes peeked from behind the mask. He whispered his answer with cold detachment.
+
+“Of course.”
+
+And this was the moment Viv finally realized what was missing.
+
+“You know what I really need, what every evil empire has? A yes-man. Someone who follows me everywhere muttering ‘yes your munificence’ and ‘your intellect is a light in the darkness of this world’ and ‘they are not fit to clean the soles of your stylish and fashionable moccasins, milady’ and so on. I am spending my days wrangling hyper-competent egotistical assholes expecting some form of validation while all they want is for me to solve their shit and then get out of the way. That’s it. I need a minion.”
+
+Zero-Five considered her in silence for a few seconds, then he extended both hands and closed them to form small tubes pointed towards her — the Enorian symbol of approbation.
+
+“Good job.”
+
+“Aw. Thanks, Zero-Five, you are a dear. Now, shall we attend to the wounded?”
+
+“Burn scar tissue.”
+
+“Yes, that. They’d better have magical biomass and gags prepared because I’m out of patience.”
+
+The pair returned to the children's encampment, where most of the little menaces were learning about herbs and whatnot. The burnt ones were learning first hand.
+
+“Wait. Why didn’t you Hadals stop it. Your guards must have seen it, right?” Viv asked, suddenly suspicious.
+
+“We were curious. We thought it would be funny.”
+
+“Fuck you.”
+
+***
+
+Cool and quiet defined the insides of the Golden Scale bank. Cool from the stone, for there were no windows and the blue light came from candelabras shining with supernatural intensity. Quiet for the reverence and professionalism which the mistress’ minions displayed in the hallowed presence of their visitor, the empress, and also the boss’ mom. Sandaled feet shuffled, feathers scratched paper, and the susurrus of conversation was kept to a minimum. Viv made her way at a leisurely pace to let her daughter finish what she was doing — no one entered without her being aware of it anyway. At the end of a large room filled with desks lay the entrance to the office of ‘She-Who-Feasts-on-many-and-collects-much’. To the right, and visible from the waiting room, hung a panel of simple make inscribed with Harrak’s squarish alphabet. It was a warning.
+
+‘Contract compliance enforced by dragonfire.’
+
+And below:
+
+‘Dragonfire count: 3’
+
+And, again, below:
+
+“Don’t be number 4.”
+
+It was rather blunt. There were no guards here since, on Nyil, they were tasked with defense and not stopping people from killing themselves. She still knocked because it was important to respect boundaries, especially with teenagers. Or so she believed.
+
+Come in.
+
+Viv pushed the door open onto a well-lit grotto. The rock roof above rose to form a natural cave, well-lit with various enchantments. There were no decorations. Instead, Arthur had carved the walls with complex patterns that caught the eye briefly before they seemed to disappear. The mistress of the place currently reclined behind a massive desk matching her proportions, small bells hanging from her horns clinking delicately as she moved. The light chime came with the gurgle of water from a corner fountain that kept the room cool. Arthur lifted a clawed finger and her book, the current object of her attention, moved by itself, flipping a few pages before resting again. Her crimson eyes found Viv’s own.
+
+Third default this month.
+
+All within expected parameters.
+
+Crops from faraway places that do not take.
+
+“We should make a list of stuff that doesn’t work.”
+
+Difficult.
+
+Highly reliant on laborer expertise and preparation.
+
+I will offer warnings.
+
+Sparring time?
+
+“Tonight. First I wanted to talk a bit about how you’re doing since I’ll be leaving for a while. Any impending doom I should be aware of?”
+
+All is well.
+
+Arthur reached for her neck, where the wallet Viv had made for her waited on a leather necklace. It was… larger than she remembered. Weird that she’d made an artifact like that but… she wasn’t displeased.
+
+There is none.
+
+“That’s just weird. Nobody has anything special to report.”
+
+The dragon placed a small pile of silver talents on a nearby plate, then she reached for a bell and, once again, made it ring without touching it. A feather flew through the air before dipping in ink. It wrote on a note with speed, and then, a flourish. Arthur was showing off.
+
+“Great control on that Telekinesis.”
+
+I need more items to match my size.
+
+My only concern is what you called sunk cost fallacy.
+
+It appears I am a victim of it as well.
+
+I have forced myself to calculate project viability again instead of giving more funds and help to failing businesses.
+
+I suspect I simply hate losing.
+
+“Understandable. You seem to have done well so far anyway.”
+
+An armed man entered the room. He bowed a bit rigidly once he spotted Viv, then picked the plate of money with some ceremony.
+
+I am done for now.
+
+I would be willing to spar immediately.
+
+“You just want to unwind with a good fight, don’t you?”
+
+Yes.
+
+“Then sure. Let’s go.”
+
+***
+
+Above the skies of New Harrak, two figures flew in a deadly dance. Spells flew as they chased each other. Short range teleportation made the fight absolutely confusing from the ground as spells chased shadows or surged through the air, impacting a shield as the target appeared. The two shapes flew north for a little while, then closer to the ground until the earth itself answered the dragon’s call.
+
+I AM THE WILL OF THE WORLD.
+
+“You’re not going to intimidate me easily.”
+
+THEN FACE THE FIRE OF THE DRAGON.
+
+Viv dodged to the side and smirked, then she fed more mana to her new harness and accelerated after her daughter.
+
+***
+
+Abenezigel’s voice was gentle and kind. Patient. It made the experience even worse because Viv could feel how genuine he was. She couldn’t possibly be an ass about the whole experience.
+
+“The greatest test of justice comes not from corruption, or mistakes, or from emotional judgment. Those are failures of the individual. Failures of the individual must be expected, for we cannot be perfect, and we cannot always agree on what is fair. What is just. As long as we all agree that Justice is an ideal to strive forward, then I am content. No, the greatest test of justice comes from the sovereign.”
+
+The laborers listened with rapt attention. Their early fear evaporated before the ex-lich’s impressive eloquence, an ability that was much more effective because he truly believed in his own words. Viv felt the fire of his conviction brush against her skin. She wasn’t sure how justice related to Enttiku — she suspected it was more of a personal passion — but the goddess kept him alive and he hunted the undead with ferocity so… whatever.
+
+“The most dangerous, challenging test from the one in command, the one whose words carry such weight that they can do away with justice entirely. Whether they intend it or not, they decide the purpose of the justice system. They decide what our justice is for, and they have two paths.”
+
+Abe extended his arms in a grand gesture.
+
+“They can take the easy one, the imperial highway paved with all the power and stability in the world. It is a comfortable way and one they know. It consists in treating Justice as a tool of rulership. Name allies as judges, make sure your allies are satisfied with rulings, and your land will prosper. It will prosper because the ruler’s power is secure. That is a lie, an illusion and a barrier on the path to greatness. The road will collapse at the first hint of revolt because no one will go to the judges for justice. They will take matters into their own hands.”
+
+A few people nodded, though Viv wasn’t actually sure they’d gotten all that.
+
+“But instead of taking control of Justice, the ruler can instead let it go. They can take the high path. It is harder, steeper, and fraught with frustration. It is a difficult path that sets them on equal footing with the people, and that is dangerous in itself. But if they do that, then they have placed Justice above their own interest. Justice is no longer a tool of domination in the hands of the ruler. In that moment, the ruler has placed the state above themselves. The empire above themselves. In that moment, we serve ideals instead of people. We are united in one purpose with the certainty that, no matter what, we can give everything to Harrak because Harrak will give everything to us. For Harrak!”
+
+“For Harrak!”
+
+“But we need proof from the ruler. Viv, if you please?”
+
+Viv sighed and removed her purse from a chest pocket. She counted two gold talents, a little bit more than what was needed.
+
+The peasant on whose land they were now standing waited at a distance, their expression a mask of shock and terror. He bowed deeply when it became clear Viv was making her way to him, her feet lifting ashy dust with every step. She stopped and addressed him in a voice that showed she wasn’t sore about it or anything.
+
+“Due to the destruction of your field by dragon fire following a training session, the crown acknowledges that you deserve compensation and accepts responsibility in this incident. As such, I award you the sum of two gold talents, the value of a full harvest and some in compensation for the… fear experienced. It should be enough to get you started before next year, and I will be staying a little while to make sure there are no lingering embers hidden under the ash.”
+
+The empress looked south, where her daughter had conveniently escaped.
+
+“You just fucking wait.”
+
+***
+
+A complex was emerging around Efestar’s statue. It was a large endeavor and one that would take a long time to finish. In full view of the walls of Sinur’s Gate, the complex nonetheless kept its secrets with high walls hiding many buildings, barracks, and small zen gardens that were richer in strange stone than in actual greenery. Viv didn’t know where the newly made clergy of Efestar, God of Redemption, Retribution, and Second Chances, had found so many volcanic rocks and she wasn’t exactly eager to ask. The place was secretive enough as it was.
+
+It turned out that there was a price to redeeming oneself. Efestar asked of its new followers both isolation and dedication, cutting off their old lives while they repented and worked on themselves. There were no bishops yet, but the priests still whispered in hushed tones of life-changing revelations, meditation and harrowing experiences facing the weight of their sins.
+
+Viv was giving all of this the benefit of the doubt. A god’s mantle couldn’t be a lie, so she just let them find their paths. Some of the stuff she’d heard reminded her of indoctrination and mind-control but perhaps it was necessary for some people? She wasn't sure. All she knew was that none of the addicts and career criminals who had willingly gone in had left yet, and that they were at the very least still alive.
+
+She found Lorn standing at the gate. Neriad’s servant was clearly acting as a guard in full regalia, his counterpart a mousy woman with a crossbow and a guarded expression, carrying the symbol of Efestar: a hand grasping upward.
+
+“I didn’t expect to see you here,” Viv said in lieu of greetings.
+
+“Some people in town were looking for revenge. Abenezigel has decided to talk to them, but I am here in case some of them choose the path of violence instead.”
+
+“Not what I meant. More…”
+
+“The fact that I am protecting some of the worst humanity has to offer?”
+
+The crossbow woman flinched, but she didn’t object.
+
+“Oh don’t be like that Sahey. You know what I meant,” Lorn half chided, half apologized. “And, well, it relates… to Farren.”
+
+Viv waited to see if he wanted to continue. He did.
+
+“He was right in the end. A bit too early and we lost him for it but… he was right.”
+
+“I thought you would be more angry. You seemed angry.”
+
+“Are you taking the piss?” Lorn suddenly said, and Viv immediately shook her head.
+
+“No, Lorn, I am not taking the piss.”
+
+“I apologize. Ugh. Well, I was angry, and still am. I was also grieving. It took me a while to realize that. Koro has been of great help. She is very proficient at expressing her emotions and naming them. What Farren wanted was a better world, one where genuine regret can lead to genuine redemption. Many people are facing great burdens that either life or their own poor decisions have placed on their shoulders. I will defend their right to receive help. And I will always support the retribution aspect of the new god. Some of the new Hadal followers and I have already hunted those who thought they had escaped the grasp of the law.”
+
+“It’s interesting how some of the mantle overlaps.”
+
+“If you are referring to the attributes of the gods then yes, they overlap. The two gods are still brothers in arms. I hope that one day, they will face the darkness together as equals. Until then, I am willing to lend a hand.”
+
+“Ok, I admire you for it.”
+
+“You are not a very forgiving person, Viviane of Harrak. On the other hand, those you killed never expressed remorse, so I suppose I cannot hold it against you.”
+
+***
+
+Viv remembered one of the concepts her online friend Gevaudan had mentioned. It was the idea of balance. Balance was a mechanism that made several choices viable and fun in any sort of game. His greatest source of entertainment was finding a way to break it. Viv thought this applied here. In any balanced system, the number of available portals would be limited so there would be some sort of arbitration. Does she choose to keep the path east open for trade? Or the path north into the deadlands so her army can loot it and try their teeth on the undead? Here, she didn’t have to choose. The portals didn’t have to be constantly powered, so mana wasn’t an issue, and as far as glyph coordinates went, she had a perfect memory. She could install a thousand portals and remember each active pair with unerring accuracy.
+
+It was great when the world bullshitted in your favor, she thought.
+
+The expedition to search for remnants of the old empire started south of Kazar, at the end of the old fertile strip where one of the temples of Neriad’s old fortress still stood — though now it was unmanned. Directly south of there, the forest was no longer quite the Deadlands. Its magic fizzled, keeping space stable and vegetation growth at a reasonable rate. For this endeavor, Viv brought a squad of scouts led by Zero-Five, one of the few Hadals who really enjoyed fighting, a group of Kark fighters led by Marruk who absolutely begged to get away from her duty as the local Kark leader, and helpers with beasts of burden so she wouldn’t have to sleep under the rain. She didn’t expect much to happen until they reached the surviving Old Harrakans, so they traveled light.
+
+It was now the beginning of spring and the woods were filled with burgeoning life, fucking life, and things killing each other. The scent of sap and living things provided a nice change after too much time spent either in the deadlands or in the more crowded and developing spots of Viv’s budding nation. Latrines didn’t smell nice. It was also a pleasant break from people expecting stuff from her. There was only the contemplative walk, the rare encounter with a crazed predator and their subsequent cooking in the cool air beyond the mountains. Mushrooms provided some nice variety, after they were checked, and they sometimes came across edible roots. Sadly, berries were not yet in season, but her rations had permon slices.
+
+“Do you think we will find something?” Marruk finally asked her one morning, shortly after one of her sentries bellowed there was nothing to report.
+
+“Yes. Solfis confirmed the armor is of recent make, but of an old technique. Our only concern is the quality. It’s… subpar. Wouldn’t match Harrakan standards. They may have lost some of their techniques over the years, but the main interrogation is the political situation. The death of the old empire must have been an extremely traumatic event. The south lands were not well-connected to the rest of the empire but it still needed a lot of supplies, so they would have had to adapt.”
+
+“A shame that Solfis cannot join then.”
+
+Viv shrugged.
+
+“Can’t be helped. He’s no longer mobile. We knew it would come to this. There are charging stations across the land but a stroll like this one cannot be achieved without a dedicated carriage and those need special roads.”
+
+“He can still join us at the end. When we have arrived.”
+
+“I think he will want to, but let’s hold back for now.”
+
+“Why?” Marruk asked with a deep frown.
+
+“Because he is a massive war machine with an attitude.”
+
+“Oh,” she replied. “Oooooh. I only see him as Solfis.”
+
+“You have known him for a while. Just remember what he does to people he doesn’t like.”
+
+“I have seen the head collection.”
+
+They both shuddered.
+
+“Anyway, more planning?”
+
+***
+
+There was one more reason why Marruk had joined. Viv would participate in the Glastian wall purge very soon, but after that she would both help Marruk and even the score with the Pure League. The two were still at the brainstorming part, however. What Viv wanted was a permanent solution.
+
+“Will Enoria allow your army to go through?”
+
+“Maybe but… the supply chain will definitely get attacked. The Pure League has more than enough operatives to destroy several caravans and, although Enoria is allied with us, its lords will not favor us fighting in support of non-humans. No, I have… another idea. But even then, if we are here, we can only campaign for a while. The Kark should have the tools to win by themselves.”
+
+“I know guerilla,” Marruk replied.
+
+And she did, to an extent.
+
+The two remained quiet for a while. This was an old topic they never really agreed on. Marruk insisted that she could change things but her attempts to organize and reform her band of young traveling males had hit a roadblock: subterfuge was utterly alien to Kark culture and they fought her off every step of the way. This made Viv’s usual approach of getting the right weapon for the job difficult. For the first time in a while, she didn’t know how to approach the problem.
+
+“We might need to go there and assess. Usually, I try to have a solution to a problem before I show up but this time we might have to improvise, and more importantly, your tribe may have ideas.”
+
+Marruk grunted. It was clear her hangups had only grown in the recent years since helping other exiles like herself. Viv wasn’t sure, but she believed the Kark might have a harder time adapting to new circumstances than humans did. That didn’t mean they deserved to be ethnically cleansed.
+
+“We’ll figure out something.”
+
+The worst thing was, Old Harrak and the Kark steppes had a common border far to the north, though they were separated by mountains. The Old Empire deemed that the steppes had no resources worth fighting the Kark over. It was funny how that had turned out to be true, now that the Pure League got to experience a dust bowl.
+
+They continued in silence. Viv just enjoyed the moment, step by step. Everyone’s physical stats meant that walking at a brisk speed was barely an exercise, even through the heavily forested terrain, and the temperature was just perfect. A part of her wanted to just fly off and set up portals as fast as possible but this wasn’t the deadlands. There were perhaps things to explore and, more importantly, she was destructive but not invincible. It would be stupid to kill necrarchs and then get sniped off by some weird wasp species that shot darts or something. For once, she was not in a hurry. The Glastian gathering wouldn’t be until a little later that year.
+
+The first sign of civilization came from a tower, standing apparently randomly in the middle of a clearing. The Harrakans approached it with caution but the lack of danger or mana confirmed this was indeed just a wreck. It took a little while for Viv to realize what was happening.
+
+“The green mana has returned to normal forest levels.”
+
+“What does that mean?” Marruk asked.
+
+“We are out of the Deadshield Woods. This is an old guard tower for the old Imperial way. There should be a tunnel entrance north of here, back towards the Harrakan heartlands.”
+
+A quick search found the overgrown remnants of an ancient stone road. They decided to follow it since it would be the optimal path towards whatever was left of the old empire.
+
+“Solfis said this way was seldom used. Merchants much preferred to reach the southern islands by sea. It was quicker and safer.”
+
+“But we have no ships now,” Irao said.
+
+Viv blinked. She just now remembered he was around.
+
+“Yes. The forest seems healthy and the trees are old though, so there is a good chance this place escaped the cataclysm.”
+
+“Beastlings,” a Hadal scout reported.
+
+Everyone turned to Viv.
+
+“I mean, why not?”
+
+***
+
+There was no battle. The beastling horde was small with a single shaman, and their only surviving beast appeared wounded. It had been a very long time since Viv accompanied Varska and the Kazaran militia against a horde. Now, they were just a formality. She opened on them from the air and then the rest of the escort swept in to finish off the stragglers. After they were done, Viv landed by the dead shaman to check his gear.
+
+“Hmmm, I thought you were easily disgusted,” Marruk remarked as she approached, mace still dripping with brain matter.
+
+“Just making sure… ah, here it is.”
+
+The shaman had a piece of gray cloth tied around his neck. It was filthy and disgusting, but that was all she needed.
+
+“Human craft. It’s unlikely to have come from the Kazaran outskirts due to the distance.”
+
+“You believe the beastling found it on a human… to the west?”
+
+“Possibly. We’ll find out soon enough.”
+
+“I also find it strange the stench of undeath does not bother you, but people eating with their mouths open does.”
+
+“One, it’s the sounds. They just rub me the wrong way. Two, I kill the undead for their transgression.”
+
+“That makes sense.”
+
+***
+
+Rather than building a portal every evening, Viv set them up at the maximum, most efficient distance which would reduce the mana expenditure for long trips. Since she and Hadals didn’t need to sleep as much as the others, they spent parts of their evening training. That training mostly consisted in Viv trying to survive not being tagged all while using only colorless mana to defend herself. Those masked fuckers were a vicious lot. She had never been happier to have them on her side, and they were also amazing at catching her with her pants down, metaphorically, when she thought she’d gotten away. Paradoxically, Zero-Five struggled more despite being the strongest due to his in-your-face style that really didn’t work against Viv.
+
+He kept sticking leaves in her hood as revenge. Every time she put it down, it took a minute to get them out of her hair.
+
+After two weeks on the trail, the forest opened around the buried road. They came across more deserted towers and other abandoned facilities clearly made for travelers. A little later, they came across their first town.
+
+It appeared deserted, and in poor repair. Viv recognized the brutalist architecture of Old Harrak, but there were also additions made of a mix of thick logs and low stone walls, fitting for the cold winter down here. The gates were open, one of them hanging miserably from a rusted hinge. More importantly, mana was behaving erratically here.
+
+“Do you feel it?” she asked.
+
+“I smell it,” Zero-Five replied.
+
+The Kark split into a half-circle with the Hadals disappearing. Soon, the stench of rotten meat became overwhelming. Something shuffled among the derelict buildings. They heard a pained gurgle.
+
+A cancerous mass of flesh and tentacles erupted out of the doors with a ghastly scream. It was strangely humanoid except for the back which was a mess of appendages, spikes, and other revolting growth. Viv reacted immediately.
+
+“Excalibur.”
+
+With the range extended to a few meters, she sliced the creature’s feet off which barely slowed it down. Marruk received the charge on her shield and slammed the beast back, then the Kark struck together. The wounded aberrant collapsed against the wall. The Hadals emerged from shadows before it could right itself and planted their blades in its bulbous flesh. Viv knew for certain the thing had no organs, and yet thick arterial sprays erupted when the blades withdrew. The creature died a few seconds later.
+
+She had stopped herself from vaporizing the thing because the others clearly needed some mid-travel entertainment but… so many elites together against a weak aberrant certainly made the fight trivial. She shrugged. Gaining experience was all well and good but she could use some more trivially easy battles from time to time.
+
+By her side, Marruk frowned.
+
+“We need to burn—”
+
+Viv disintegrated the thing down to the blood it had shed, then she did the legs as well.
+
+“— it. Or I guess that works as well.”
+
+“Let’s check the city.”
+
+“We go first,” Zero-Five said in a voice that brooked no argument.
+
+The town was abandoned, but a cursory search revealed it had been done peacefully. Most of the furniture was missing along with any coin or valuables. They found only one house intact in a corner, filled to the brim with broken things. The damage hinted that the person living there might have been the one to go aberrant.
+
+“Peaceful evacuation means survivors, hopefully? Maybe they left when trade died out?” Marruk asked.
+
+“Yes, though we will get our answers sooner rather than later.”
+
+The journey continued, the mood just as good as before. Those were people who’d seen death too many times to let an aberrant ruin their mood though Viv’s appetite was shot for a day. Those were really nasty beings.
+
+Three days later, the group stopped at the edge of the woods. The ground lowered onto a vast plain of rolling green hills peppered with small copses. In the distance, smoke rose to the horizon, coming from the charred remains of a village a few kilometers away. Viv used a farview spell to have a clearer look.
+
+Basic buildings, the kind built without skill but with patience. They were burnt to a crisp, completely demolished. Nothing moved. Not even carrion birds. It was recent too.
+
+“By the Ancestors,” Marruk said.
+
+The group moved forward, keeping their eyes open for danger. Whoever had done this might still be around and more importantly, they were without mercy. Viv remembered Anelton, the border town in Enoria, after Elix had been done with it. It paled compared to the level of destruction seen here. Whoever had destroyed the village had been very systematic. She had to learn more.
+
+She had not expected danger.
+
+And then, something itched at the back of her neck. She recognized the sensation immediately. It was danger sense.
+
+“Wait, something is —”
+
+“Is Arthur supposed to be here?” Zero-Five asked.
+
+Viv looked up to the blue sky and cotton clouds, to a distant yet familiar seek shape. The sun reflecting on shiny white scales, the crimson glow of malevolent eyes. Wings, longer than the main body.
+
+The dragon roared. It was a lower pitch.
+
+More muscular. Larger. Significantly larger. Around Viv, mana twitched in a way she recognized, as if the world itself became a weapon in the hand of her enemy. Every hue shivered when the creature pulled power to itself. It grew larger in her normal and mana sight, a tiny, multicolored sun contained in a package of fangs and claws.
+
+The dragon dove.
+
+“Spread out,” Viv said.
+
+“What?”
+
+“Spread out. That’s not Arthur. That’s her brother.”

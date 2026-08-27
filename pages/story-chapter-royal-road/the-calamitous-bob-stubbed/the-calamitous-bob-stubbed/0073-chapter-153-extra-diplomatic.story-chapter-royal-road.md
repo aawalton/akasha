@@ -1,0 +1,575 @@
+---
+id: 13ecd008-2ed1-5019-b419-dcfa691f99c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 153. Extra Diplomatic"
+slug: 0073-chapter-153-extra-diplomatic
+partOf: the-calamitous-bob-stubbed
+position: 73
+ownLength: 6083
+unit: words
+ownProgress: 6083
+publishedAt: 2024-02-16
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1520866/chapter-153-extra-diplomatic"
+royalRoadId: "1520866"
+markedReadAt: "2026-06-29T21:17:19.896Z"
+---
+
+Viv approached the supine form of the dragoness with measured steps. By her side, the smoldering remains of a corpse still let out ribbons of smoke drifting in the cool morning air. A human corpse. He looked burnt to the nineteenth degree. Hell, Mount Vesuvius wouldn’t have done a better job.
+
+This was a little bad.
+
+Viv sat by Arthur’s side and watched the morning sun rise over distant woods. Active dots peppered the renewed land as they tilled the fields. From this far, the purple tree of Kazar appeared almost tiny, merely a dot that used to mark the edge of the deadlands but now remained as a greeter to newcomers looking for a new life. The dead man had been one of them. It was too bad the life he’d been searching for was one of crimes. It was even more unfortunate he had targeted the wrong person. Terminally unfortunate.
+
+I do not understand.
+
+Viv patted the smooth scales over Arthur’s tail, the heat they emitted quite intense.
+
+He stole from me.
+
+He planned to steal from me.
+
+How can someone be so stupid?
+
+“I’m sorry to say but, as we say back on my planet, the creator has not seen it fit to evenly distribute the gift of intelligence. Some people are just deeply incompetent. Some people are just evil. Not a lot of them, thankfully, but enough to ruin your day at some point. There is nothing anyone can do about those people except managing them.”
+
+We should kill them all.
+
+“How do you identify them? Where do you draw the line? Don’t answer that, it was a metaphorical question. No, you cannot kill them because justice needs to mostly be impartial. I can’t kill people because they annoy me.”
+
+What about that, then?
+
+Am I in trouble for killing without your leave?
+
+They are your minions.
+
+I was just… so angry.
+
+“You know, we’ll just call robbing someone who just came out of your bank suicide by dragon.”
+
+Does that work?
+
+“I mean who would complain? That would be suicide by dragon.”
+
+Arthur sighed deeply. Her spirits were low, despite the recovery of her valuables.
+
+How do you deal with idiots and assholes?
+
+“Easy. I hire competent underlings who do it for me.”
+
+You offload unpleasant work to your minions!
+
+As expected, mother has brilliant solutions to every problem.
+
+Would the minions not complain, however?
+
+“Of course but then you have angry minions who have power over assholes since I put the minions in charge, and then the situation usually solves itself.”
+
+Mother is cunning.
+
+“Are you ready to return? I think we’re on someone’s field and they might be scared.”
+
+Alright.
+
+I will return to the bank.
+
+Much to do!
+
+“You do that. And if you feel like you need a break, I am sure our next adventure will come knocking soon enough.
+
+***
+
+Viv watched the message laid in front of her with some measure of consternation.
+
+Adventure was here.
+
+Jaratalassi’s letter was expected. She had been counting on it since he had warned her he would need her help. The spark of luck never disappointed. The problem was the end of said message.
+
+“Viviane,
+
+Things moving as expected. Enemy forces coming from the east soon, possibly next month. Will need all the help you can bring. NOT Hallurians.”
+
+Not Hallurians.
+
+The Old Empire’s borders stopped at the marches of Halluria, with even the most war-like emperor giving up on invading that unforgiving land. They knew that to take and hold Hallurian cities would be a costly endeavor with no reward for the Hallurians fought to the last and used any means at their disposal.. And now, foes were coming from that shithole country… from the other side? That would require an insane military as well as a will to conquer that defied all logic. Unless those were space aliens or a colony of invasive man-sized spiders that reproduce by laying eggs in chest cavities. She wondered what fuckery the world had in store for her unpadded buttocks this time.
+
+Sighing, she reached for a nearby pen. It snapped between her fingers, spraying ink across her desk. And the letter.
+
+“Nous fucking dammit.”
+
+***
+
+“We need to decide who goes and who stays,” Viv told the assembly gathered in her throne room.
+
+She had a cool throne and a crown now, which was kind of nice.
+
+“The One Hundred will come,” Ban assured with certainty.
+
+“Yes, it goes without saying that the army will accompany me. The question would then be, who stays?”
+
+“The city guards should stay,” Lady Azar said. “Some of our newcomers have been lax in their respect of the law. The same should go for our militia. They are not ready to function so far from our towns.”
+
+“We won’t raise the militia at all. There is no guarantee we will be back before the harvest.”
+
+“Quite so,” Lady Azar agreed.
+
+Viv and her exchanged a glance. They both knew their finances could not suffer a poor harvest. Without the tons of grain they were expecting, Harrak would default on several contracts with Enorian customers. They needed the food and they needed the export. No laborer, no taxes.
+
+“Half of the temple guard will stay,” Farren said.
+
+The Voice of Neriad stood confidently. Viv hadn’t caught up with him much these days. He seemed wary of her, and quite busy too. Maybe it was the bishop assassination that bothered him? Viv wasn’t sure. She wouldn’t blame him.
+
+“But Lorn will guide the best of us. I will come as well.”
+
+“You will?” Viv asked, a little curious.
+
+“My brothers and sisters will take over my duties. As a representative of Neriad, I will assist you in making helpful alliances with your peers. Friendly contacts. You will need this specific approach,” Farren finished with a very pointed look.
+
+“That may be so.”
+
+“Solar agreed to stay and lead a Temple Guard team against any threats that materialize, though I have contacted the border forts and there have been no signs of danger as of late.”
+
+“Excellent. That covers the soldiers. Mages?”
+
+“I will come, of course,” Sidjin said by her side.
+
+“And I,” Lana agreed.
+
+The Blue Mage glared at Viv as if defying her to object, which Viv still found inexplicable. They had trained together on the Tercio for weeks. Of course, Viv expected Lana to come.
+
+Viv glanced at her. The mage still wore the same impeccable, flawless dress as before while the other liberated apprentices walked around the city in whatever clothes they fancied, sometimes even peasant garb which was technically below their station. Paramese society placed a lot of emphasis on one having the appearance to match their station after all.
+
+Viv wasn’t sure what her problem was but she just didn’t have the time to find out what it was. She sighed. That was it, really. Too many capable underlings with their own agenda. Too little time. Maybe Abe could tell her more.
+
+“The other girls will stay,” Lana continued in a voice that brooked no objection.
+
+“And I will, as well. My place is here,” Abe said with a calming smile.
+
+Immediately, the tension left Lana’s shoulders.
+
+“Very well. I’m glad you’re here to hold the line. Can I count on you to assist Solar if anything happens?”
+
+“Of course. I will continue to cleanse the deadlands in your absence. I will also make sure the ward stones are maintained as well. You can leave with a calm heart.”
+
+Viv almost believed him.
+
+“Oh, and I will look after Rakan’s students, of course.”
+
+“Hmmm.”
+
+“I will come,” the young mage assured her. “I am ready, this time.”
+
+Viv would be a complete hypocrite to deny him at this point and besides, he had proven himself in the deadlands.“We will be glad to have you around. That leaves us with the scouts?”
+
+“The hadals will come.”
+
+A few yelps at the back heralded the appearance of a tall, gaunt figure with slitted yellow eyes. The hadal man towered over the surrounding notables like an ominous bouncer. A black scarf covered the lower part of his face while his naked scalp shone under the morning light, the only pale note on his person. Dark cloth covered the rest of his body while a comically large axe rested on his back. The silvery blade looked enchanted. He could show up at any audition for the brutal right hand of an evil sorcerer and not only get hired, but get the role rewritten for him specifically. His appearance was just that stereotypically villainous.
+
+//I like his style.
+
+Come to think of it, Solfis was kind of villainous-looking as well.
+
+Maybe Arthur too.
+
+Could it mean that Viv, herself a sorceress trying to resurrect an evil empire from the ashes, qualified as a B-movie antagonist?
+
+Nah. She was far too classy.
+
+“I’m overthinking things. How many of you can we count on?”
+
+“Six. We will handle scouting.”
+
+“Six is few,” Lady Azar noted.
+
+“Not six of us. We will handle scouting,” the man repeated, tension rising in his voice.
+
+“Sure. What do I call you?”
+
+“Zero five.”
+
+“Ok… what about the yries?” Viv continued to remove the attention from the hadal before he got any more flustered.
+
+“We come,” the shrill leader said. “We bring wasps.”
+
+“Good.”
+
+“A lot of wasps.”
+
+“Excellent. I think that was everyone, or am I missing something?”
+
+//You are missing me.
+
+//I will come as well.
+
+//I will stay here while you pave the way.
+
+//I fear my presence tends to alarm the provincials.
+
+“We Baranese are not savages,” Lady Azar noted with resentment.
+
+//No, you are not.
+
+//However, I have met your forefathers, Lady Azar.
+
+Viv swore she could see the golem smirk.
+
+//Briefly.
+
+//They tend to talk a lot and I tend to respond in ways that would not favor a positive diplomatic outcome.
+
+“Indeed. The murder golem will come with the army. What about the supply train?”
+
+That turned out to be a whole new discussion Viv had hoped she could leave to someone else. Unfortunately, there were disagreements between Lady Azar and Farren, both people who’d managed supply trains in the past.
+
+An army didn’t just march on their stomach, they also used water and iron. In an army, everything was a consumable, including armor sets. Even the tanks would need constant care.
+
+Farren advocated in favor of bringing rune smiths who had a much better time repairing equipment, both mundane and otherwise. Meanwhile, Lady Azar believed they should remain in Sinur’s Gate to produce more gear which could be either used to form new troops, or sold for export.
+
+“I believe the smiths in question are all servants of Neriad…” Viv interrupted.
+
+“True. Granted to you as a reward for service rendered,” Farren noted.
+
+“And I believe the benefit of having them outweighs the funds they will generate if they stay. We are facing unknown attackers. We can’t afford to hold back for minor gains.”
+
+Lady Azar consented. Viv got the impression the objection had been more of a maneuver than a real statement born from belief.
+
+“If that is all, I will leave Harrak first, tomorrow” Viv concluded. “I still need to set up the teleporter network. I will go first with some guards and use this opportunity to establish diplomatic relations with our neighbors. You will make ready and travel as we progress. Baran promised supplies but we cannot count on it so bring what you can.”
+
+***
+
+The next day, Viv rode by the Enorian border city of Anelton, Rollo by her side alongside a contingent of Knights of the Blue Rose. Their plate armor sets looked even better now that they painted azure blooms on its dark surface. It complimented their many-colored liveries quite nicely without letting viewers forget the steel underneath. She looked at the barricaded town to her right. It was healing much faster than she’d thought as the constant and rapid trade bolstered the city’s value. Truly, the portals were a game changer for everyone involved. Between Sidjin and her, they had a massive potential for altering the entire continent.
+
+They didn’t stop at the border city. It was still morning. She had a lot of ground to cover if she ever wanted to cross a third of a continent in time before the next shitstorm took it out. Sometimes, she wondered why she was bothering. Anything coming from the east meant Harrak would be the last one left standing…
+
+Viv shook her head. That was a slippery slope. And there was the snowball effect to consider. Besides, she’d given her word.
+
+“The escort should be there any minute, Your Majesty,” Rollo said with a soft voice as if they were attending a ball.”
+
+“Thank you. Did I mention I loved the flower pattern?”
+
+“They were drawn by my paramour.”
+
+“You have chosen well.”
+
+“I agree. Ah, here they are.”
+
+Viv finally spotted a group of cavalrymen coming in at good speed. They outnumbered her detachment by a factor of three, which she was sure was a breach of etiquette. An old man with a missing arm led them. He seemed worried.
+
+Her Knights stopped, spreading around with their visor opened but the spears in their hand. Their stand made a solid statement and Viv’s wings, which she always let out these days, made another. She allowed the silence to draw on when the Enorians stopped at a respectable distance. Their gazes went from her to her stoic bodyguards. Paradoxically, the uniformity of their enchanted armor sets lent the Harrakans the image of a more disciplined, more respectable outfit with Viv as its black-clad heart while the Enorians formed a more mismatched force of retainers of various quality. She leaned on it when she spotted the old man’s second, a younger knight with a large scar. A young mage in the center of the formation had the gall to inspect her. She inspected him in return just to let him know she wasn’t fooled. It was still considered rude to do so and he withered under her glare.
+
+“A crown on a rebel? Must we, grandfather?” the arrogant young knight said before spitting on the ground.
+
+Ah so they were related.
+
+Rollo moved his steed by a few steps.
+
+“You will apologize for your act now or meet me tomorrow morning on the field with your sword in your hand.”
+
+A stunned, cold silence received Rollo’s matter of fact’s threat. Viv had to admit, she had seen Rollo teaching his squires and she didn’t give the sour young noble a snowball’s chance in hell to survive the ordeal. Rollo didn’t fuck around. That said, killing a scion within twenty-four hours of entering Enoria was not a habit she wanted to further develop, so she decided it was perhaps time to calm things down, especially now that Rollo had presented such a perfect opening.
+
+“Now now, I am sure the gentleman let his… youthful enthusiasm get the better of him,” she said while the grandfather blanched, possibly seeing his bloodline quickly reaching extinction.
+
+The old man cuffed his descendant before he could lash out again. The younger man turned to him then stopped, struck by the mix of horror and fury twisting the old man’s face into a ghastly mask of crimson skin and bulging white eyes. Viv had never seen such a powerful expression of ‘I love you and I also will hit you so help me Neriad’ without a single word being uttered. It took a good ten seconds for him to regain his composure, during which everyone waited in polite silence.
+
+“Yes. Yes… please forgive my grandson. The war has been most cruel on Reixa. The outlaw Elix seized the city while part of my family was away, dying on the fields of Regnos. Many of us were left bereaved on that fateful day.”
+
+“Ah, Elix, yes. We were briefly acquainted.”
+
+The old man’s gaze grew dangerous.
+
+“When I tore his pet gray mage to pieces in Anelton for what they did to the city.”
+
+It was all she had to say.
+
+Immediately, the tension dissipated. Many of the retainers nodded in approval. Viv’s dad had been right. No cause united different factions quite like shared hatred.
+
+“No one will mourn his passing,” the old man agreed.
+
+“May the cur rot in the afterlife!” his grandson agreed, anger successfully redirected.
+
+“Right. You must be the Lord of Reixa.”
+
+“Indeed I am, Ediar of Reixa. And this is my grandson and heir, Gedis. I understand that you will require our guidance to set up those… teleporters the king—”
+
+Viv could hear the quotation mark around that word.
+
+“— wanted across the country. Unfortunately, he left little direction.”
+
+“Oh, the location is up to you, of course,” Viv replied amicably. “May I suggest somewhere near a location of business interest? It would make the lives of your merchants easier.”
+
+The man frowned. Apparently, Sangor had not explained things properly.
+
+“Our merchants?”
+
+“Of course. The portal network will open a direct line of communication between your city and Anelton on one side, and the next duchy on the other. You may activate it and use it — and tax traffic — at your leisure. The crown will pay me for the upkeep.”
+
+“Oh…”
+
+Viv smiled seeing the golden glint of greed in her counterpart’s pupils. Gotcha.
+
+“Shall we depart?” she asked.
+
+“Hm? Yes, of course. Ride with me, woman. Tell me more about that portal.”
+
+Viv gave one warning glare, the black sclera making a point without having to resort to real intimidation.
+
+“If you please.”
+
+“But of course, dear host.”
+
+The two squads merged until they formed a hundred-men strong cavalry detachment.
+
+The subsequent trip gave Viv a strong sensation of deja-vu. It was the second time she was following this road, the previous one being two years before during spring. She had been going to the Academy then. The mood had changed for the better since that time of troubles. The isolated villages now stood with gates open as they rode by, laborer toiling in the fields to plant seeds. Most bowed when they passed by but none ran in fear. Back then, Viv had only faced terrified refusal to even buy bread.
+
+There were still marks of Enoria’s decline in the abandoned, isolated farmsteads they ran across. Many fields lay fallow, some overtaken by new growths and saplings. Burnt estates  still harbored hastily dug graves with poorly carved symbols of Enttiku on improvised tombstones. Elix was not the first raider to terrorize the kingdom.
+
+“We will rebuild,” Lord Reixa said in a low tone.
+
+“Yes. Speaking of rebuilding… would you like a new arm?”
+
+It was as if she’d told him she was Santa Clause wearing a bra.
+
+“You… you are serious?”
+
+“I assume I can count on your hospitality tonight?”
+
+“Naturally! We will honor the rites.”
+
+“Give me enough monster meat and I can do it.”
+
+“And… my daughter. She was stabbed in the womb. The healers said…”
+
+“I’ll need a partner. A healer priest or priestess. They need to control the blood flow.”
+
+“I will get you one. I will. Tell me what you want in return and I will grant it to you to the best of my abilities.”
+
+Viv smiled. Lady Azar was wrong. She could be diplomatic when she wanted to.
+
+***
+
+Viv reached the spot chosen for the next portal two days later. The local noble had picked an isolated meadow within view of the castle, giving newcomers a pleasant outlook on the city, not least because the slums were on the other side of it. She noticed that a few catapults were currently aimed at the spot which got to show that she wasn’t the only one to understand their true potential. As requested, a brown caster had cleared the ground and raised two circular stone platforms as smooth as a palace floor. Two portals, one for the link east and the other for the link west to allow for a larger volume of people. It wasn’t necessary but Viv anticipated some traffic. She got to work immediately.
+
+Disintegration magic usually struggled more against inanimate matters but recently, she had less and less difficulty carving the rock. Inscribing runes in the material was a matter of minutes. She knew exactly what to do. The stone would also help keep the portal alive for longer.
+
+Her last addition was as subtle as she could make it, of course. Witch spells tended to vary greatly between individuals but one could never be too careful, especially because that addition was a kill switch. If Enoria ever went to war with her, she would cripple their supply chain in a moment. She was soon done and then it was time to continue.
+
+Carrots were good and all but she had always favored a nice stick.
+
+***
+
+“Assassins. Ahead.”
+
+“Hold!”
+
+Viv stopped her horse, looking down at the nearby figure of Zero-Five. An intrusive thought pictured him coldly executing a retired knight while his son looked on from under the bed, with goons burning a village in the background. He had the unfortunate look.
+
+“Assassins?”
+
+“Eight archers with Enorian long bows. Hiding in ambush. No liveries.”
+
+“I see.”
+
+“They look weak, old. Broken. I can kill them for you.”
+
+Viv considered her options.
+
+Funny how two years ago she’d come across a group of such bandits and casually executed them. It had been a necessity then. The Viv at the time couldn’t allow witnesses to report her presence in case she got an army after her. And an army had captured her eventually. That was also why she had requested Zero-Five’s support. She would not be caught off guard again if she could help it.
+
+“I swear, milady, I had no knowledge of such things,” her Enorian knight escort assured her with a worried, candid voice. She waved his concerns away.
+
+Lady Azar insisted she should be more diplomatic and, if she had to be honest, she was not interested in killing. There was no reason to make a point through brutality, not anymore. Those who hadn’t gotten the message by now never would, either through arrogance, despair, or sheer stupidity. She wondered which one it was this time.
+
+“Take this token with you. Leave it right behind them, undetected.”
+
+“As you will.”
+
+“Then return.”
+
+Zero-Five bowed and disappeared from the perception of nearby soldiers. Viv could still track him through his use of black mana, which meant that as powerful as the axe wielder was, his skills still paled in comparison to Irao’s. They waited in silence until the hadal appeared again. He was fast.
+
+“It is done.”
+
+“Guide the knights to the ambush location at a solid trot.”
+
+“Milady?” Rollo asked with some concern for her.
+
+“I will teleport behind them. Do not be concerned. They have nothing that can take me down.”
+
+“As you order.”
+
+Viv took a deep breath, then she cast her new aegis and gated. The clear road turned into an old forest covered in low ferns, several forms huddling behind a natural bank formed by packed soil and the exposed roots of a collapsed oak. They jumped when she appeared. Viv used the aspect of the guardian to reinforce her defense as one of the attackers swung around, aiming his massive bow at her.
+
+“Do it,” she ordered. “Take the shot.”
+
+She pushed him with intimidation. He half-released, half fumbled the draw and the arrow smashed against the side of her sphere.
+
+This version had tiny interlocked hive patterns over a flowing layer. It was harder to breach since the shock spread over a large surface, the components reinforcing each other and floating in position in case of breach rather than her having to consciously regrow them. It was probably one of the strongest defensive spells in Param right now at an individual level. Even at point blank range, the javelin-like arrow pinged uselessly against it before disappearing into the still-open portal.
+
+The disheveled sniper paled when she casually pressed her horse up. A quick flay severed the string with a dry sound like a whip crack which forced him back against the ground, disarmed.
+
+Viv deployed her soul and the terror smothered whatever was left of the ember of defiance still burning in their chests. Zero-Five had been right. These men were already broken before the attack even began. She looked around. They had no way of escaping the horsemen they had to know accompanied her. It was a suicide mission.
+
+Her knights rumbled in sight a moment later. They formed a silent line above the bank, spears lowered and helmets closed. It was already finished.
+
+“You don’t look like hired thugs. Or bandits,” Viv said, seeing that they were mostly clean. The attackers were mostly older men with clean clothes and haversacks possibly holding supplies. Their bows were well-maintained. They lacked the scruffy edge of bandits or the finesse of assassins.
+
+“Why are you even after me?”
+
+“You can’t just… get away with it all!” the sniper screamed.
+
+So, revenge, she supposed. After a fashion. They lacked the preparedness of professionals so she assumed they were just lashing out.
+
+“The war is over. You lost. There is nothing you can possibly attempt that would take me down. Normally, I would kill the lot of you for the attempt but the truth is that you were never a danger to me.”
+
+“Now you show mercy? Now?”
+
+“Yes. Unless, of course…”
+
+Her intimidation aura flared again. She felt it affect her mood, going from jaded to cold and matter-of-fact. They would do as she said or they would die and their deaths would be no scale, errr, skin off her back.
+
+“You really want to die that much? I am honestly curious. Why? Even if you had somehow succeeded by some miracle, you would have all perished for it. Don’t you have families who need you?”
+
+“I don’t,” the leader said. “Because they were all killed in a raid while I was away! You and the other rebels… I got nothing to lose. Nothing at all. Nothing left, because you took everything.”
+
+“I’ve heard that one before. If you want to end it, then die doing something useful. Fight monsters. Protect villages. None of you are crippled to the point you can’t function without help. You have no excuse coming here to waste your training, weapons, and my time when you could be out there spending your lives to make the world less shit. Help a starving widow. Kill a snakehound. I don’t care. Stop using me as a tool.”
+
+“I… I…”
+
+“Look at me. Look at me, that’s right. I… am beyond your reach. That’s it. Give it up.”
+
+Sullen, slightly shameful silence answered Viv. It was clear she had gotten to most of them in the way they sat despondent, their precious bows held like lifelines and not the tool of war it was meant to be. Only the leader still fought her influence but it felt brittle, the last pillar holding together a crumbling reason to live.
+
+“Dunno that I can give that up.”
+
+“At least do it for the others around you, unless you want to drive them to a pointless death as well?”
+
+“No… no, I don’t wanna do that.”
+
+“Good. You have each other at the very least. Find a worthy cause to spend your lives in, if you really must , alright?”
+
+“Yeah.”
+
+“Excellent. Now, FUCK OFF.”
+
+“Yea, yeah. Sorry, Fine. And… thank you.”
+
+“Get lost before I change my mind.”
+
+The archers scurried away as fast as emotionally broken wrecks could. Viv watched them go with a feeling of relative satisfaction. She didn’t have to shed blood and so she didn’t. It was as simple as that.
+
+His Enorian escort approached with his helmet held respectfully between gauntleted fingers.
+
+“Milady… I am not sure it was wise to let those men go. His Majesty King Sangor decreed that those who still resist ought to be slain, for they act against the kingdom itself.”
+
+“I know it sounds hypocritical coming from me but, in a way, I’m glad this didn’t end in bloodshed. There’s just no point here. Maybe we could just forget this whole incident ever happened?”
+
+Viv could almost hear the cogs grind behind the man’s contemplative gaze. One less pile of paperwork. One less round of executions. Her offer was more than tempting.
+
+“As you say, milady. You are the offended party.”
+
+“Good man. Now, let’s go. Something tells me a lot of blood will be shed before the season is over.”
+
+“Very well. And I do not mean it as an insult when I tell you that… you are not what they say.”
+
+“My violence has a purpose. If those guys had shot one of my people, you would have realized that I am exactly what they say.”
+
+***
+
+Two weeks later.
+
+Some places deserve to be painted. As the crimson dusk kissed the meadow in front of Viv, it gave the green grass a warmer tone, an ephemeral feeling enchanting the last moments of a nearby festival. Already, the jousters were packing their spears while the last revelers finished their bottles or gathered in warm embraces. Group after group left in small clumps, on horseback more often than not. The nearest road snaked between growing fields and cozy farmsteads protecting ripening vineyards. This was an old land, a rich land, tame and bountiful and filled with colors seen in the merry garments of its inhabitants. Viv could not have pictured a more idyllic nation of knights and princesses if she had found it in a library book. Even the distant castle with its white stone and blue spires would be more fitting in a fairy tale than in a war.
+
+They were finally in Baran. The richest, most powerful country of the continent. The seat of its mightiest military and its most elite knights. Viv sighed, a little jealous. Why couldn’t she have landed here among the romance segment of some high budget Arthurian show instead of the touristic equivalent of a purulent boil on Satan’s sphincter? Why?
+
+As she watched, a servant accidentally backed into a noble wearing a red dress, pushing her against a tent picket. Two muscular lads immediately jumped the poor sod and left him bleeding on the ground.
+
+Ok, perhaps that was why.
+
+“Milady,” her Enorian escort said, “We may not go on further. However, I am told a detachment of Knights of the White Orchard awaits in Coelette castle. Over there. They will guarantee your safety.”
+
+“Excellent. Thank you.”
+
+“Then I shall take my leave.”
+
+The knight departed at a good trot leaving her with her own detachment. Rollo approached her. She turned to him. He seemed… tense.
+
+“I took etiquette classes at the Academy. Nothing mentioned my specific situation, however. Do you have any advice?” she asked.
+
+“You are safe. You are a noble caster lady, a combination that gives you a position of respect both from the warring folks and the scheming folks. The issue is not for you but for us. Over half of the Order is of Baranese origin. As far as they are concerned, we are defectors.”
+
+“Ah.”
+
+“I will add that Baran allows for a marriage between several adults.”
+
+“Oh I knew that. It makes family law… interesting?”
+
+“That is a polite way to phrase it, Your Majesty. My point, however, was that men may join other men in matrimony and although they are expected to honor their wives, nothing precludes them from being intimate with each other. Most Baranese would see my act as a betrayal when I could have swallowed my pride and done my duty. I could have satisfied my urges with a like-minded individual, they would say. I did not want that. I wanted Elber.”
+
+“He…”
+
+“He died facing Prince Lancer’s champion. Yes. Sometimes, I wonder if… but nevermind my qualms. The Order will come under attack and our honor will be questioned. They will not understand that I wanted to live my love openly with the one my heart chose. What I ask is that you do not intervene.”
+
+“Pardon? I should just let my knights get insulted?”
+
+“Yes. Defending us is not your role here. We are defending you. And our honor.”
+
+“Fine. I just don’t want any of you to die.”
+
+“It will not come to this, milady. And besides, we are merely passing through. The locals will not have enough time to drag you into their games. At least, not this time.”
+
+***
+
+Two weeks later.
+
+Viv sighed in relief.
+
+Finally, they were there.
+
+“Hello, Viviane. Welcome to the crucible.”
+
+Viv saluted Jaratalassi with a fist upon her heart. It was a common Northern greeting and also it was pretty fucking cool. The general looked more spry than usual despite a mouth set in a stress-filled line. Rollo and the rest of the escort formed a line by the portal’s side, their focus on the nearby forests of craggy pine in case of maraudeurs. The eastern marches of Baran were semi-arid though the late spring had yet to turn any needle yellow. It was an airy land that smelled of sap and dust. All in all, a rather pleasant experience. For now.
+
+Jaratalassi rode down by her side along with a dozen lancers who formed a loose circle around them. He sized her up.
+
+“You look regal, Viviane of Harrak. Thank you for being here. Now, I asked for soldiers...”
+
+He sighed. His gaze swept the portal.
+
+“I hope you brought me some because I will need them.”
+
+“I bring one thousand five hundred.”
+
+Jaratalassi gave a bitter smile. He wouldn’t meet her eyes. Viv had never seen the old general more nervous than now. She still didn’t know what was coming but it had the old veteran worried sick.
+
+“That… is better than nothing. And most of what you have, I presume. How many levies?”
+
+Viv smirked. Instead of answering, she fed mana into her witch gates.
+
+The portal activated.
+
+For a moment, the aperture showed the lush green grass of a Baranese field, but soon the air was filled with the blaring calls of warhorns. The ground shook when twenty knights in full armor rode across the opening, soon followed by the barded steel tank that held Viv’s primary shield array, Solfis standing on it like a grim ornament. The pilot waved at her and Viv realized there were even more spikes and blades jutting from the vehicle’s front.
+
+After them, the rest of the army followed at a brisk pace. Columns of grim One Hundred came first, soon followed by Hightree soldiers armed to the teeth then the Fingers with their long bows.
+
+“I shall guide them to the camping site,” Zero-Five said as he emerged from the shadows, spooking the nearest lancers.
+
+“Please do so.”
+
+The companies followed each other. Jaratalassi’s expression was one of quiet contemplation while the parade continued. He only shook his head once when Poacher arrived at the head of the Sisters of the Eye, then later when one of the Bitter Hearts called him handsome. As the heavily armed column reached its end, more rumbling heralded the coming of shield arrays and the Shrill’s many catapults. Sidjin saluted from his seat, looking quite smug. Lana nodded at her.
+
+It took another five minutes for the supply train to pass through with an escort of Children of the Scale and Temple Guards forming the rear guard. Smiths, cooks, healers, menders, cleaners and builders came in strength to assist the force for an extended deployment. Then there was the supply train Baran had promised.
+
+Jaratalassi remained quiet for quite some time after the last of the Harrakans had disappeared down the trail. Viv closed the portal.
+
+“We do not do levies,” she told him.
+
+“I see. We… may have a chance after all. I will need to reassess our deployment.”
+
+“Care to tell me more about our mysterious invaders? Where do they even come from?”
+
+“As far as I can tell from the handful of defectors we’ve talked to, they came from the isthmus separating Halluria’s eastern tip from whatever lands wait beyond. We have no idea what’s there.”
+
+“They crossed the entire Halluria from side to side? How? How did they get enough supplies?”
+
+“As far as we understand, they eat humans.”
+
+“They what?”

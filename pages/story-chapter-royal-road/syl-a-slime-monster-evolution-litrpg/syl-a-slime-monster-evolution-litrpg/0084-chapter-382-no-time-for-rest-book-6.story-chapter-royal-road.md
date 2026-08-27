@@ -1,0 +1,117 @@
+---
+id: 3a0ebf5c-3b7e-50d2-8aa5-8e73269c835f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 382 : No Time for Rest [Book 6]"
+slug: 0084-chapter-382-no-time-for-rest-book-6
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 84
+ownLength: 3026
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3430429/chapter-382-no-time-for-rest-book-6"
+royalRoadId: "3430429"
+---
+
+After defeating, looting, and then watching the dungeon collapse, we all returned to our island for some well-deserved rest and relaxation. Or at least, that was how things started. I had been forgoing far too much sleep, trying to maximize everything, and felt like I could hibernate for a week, except I was out and about after only nine hours.
+
+I mean… It's one hour more than normal. That's enough, right?
+
+Our most pressing task was to organize everything we had taken from the dungeon, and other than the foundation and walls that Leon had taken, it was frankly less than any of us had expected. The shadow octopus was evidently a very cheap [Dungeon Master], and must have spent a scarce amount of resources as actual rewards for his dungeon.
+
+I was even willing to wager that he was probably only maintaining the bare minimum, although at the moment I couldn't understand why he'd resorted to such tactics. Everything I currently knew about dungeons was that they wanted to entice challengers, yet this guy, if anything, wanted nothing to do with them. Maybe this was the reason he refused to join the dungeon alliance.
+
+Still, what we did find was relatively interesting, and I piled together anything with even a hint of an enchantment for Sylvester to investigate. At the same time, he revealed that during their initial exploration, the party had stumbled across gauntlets that enhanced strength. Strength! I couldn't believe what I was hearing, and I eagerly set aside time for Sylvester to study it, assuming he could tear them away from Sylbera, their current owner.
+
+At the same time, I asked Sylbera to start exploring metals and their uses a bit more for me, since she was our resident, up-and-coming blacksmith. I explained the link I had found between mithril and resisting holy attacks, while also somewhat resonating with light and countering the darkness. There were far too many metals and combinations for one slime to handle, so I passed over the responsibility.
+
+Sylthaeryn and Sylvain, I kind of left them to their own devices; I didn't really have a plan for either of them at the moment, and the former would only really come into play when [Core Collective] finally gained another level. That certainly didn't stop Vee from using Slythaeryn to take care of various plants, though, and she was also in charge of keeping Logan well-fed. Sylvain was on double guard duty for the island and for Vanessa, though if the siren was supposed to be a prisoner, she certainly didn't act like one.
+
+Speaking of Logan, the tree had been sleeping considerably more lately, which was apparently crucial for his growth phase. Arguably, we could've carved out rooms inside his trunk already, but we held back as it would apparently hinder his progress. That didn't stop Vee from making herself a hanging web-home in one of his branches, as she appeared to prefer that to one of the stone homes Leon had chiseled.
+
+That only left me, and I still had far too much on my plate. Between cuts, folds, rifts, auras, domains, and long-distance teleportation, I was overwhelmed by all the possible avenues. I was actually grateful that my [Dungeon Master] promotion was still pending, as I might have torn myself apart trying to figure out what I wanted to do.
+
+Under my spidery friend's advice, I carefully took things one step at a time and tried my best not to rush headlong into some spatial catastrophe. I had plenty of puzzle pieces to put together and still to uncover from the grand tapestry of [Dimension Magic], so I was never bored, even though I was taking things a little bit slower.
+
+As time went on, the island began slowly shaping itself. I was deep in uncovering mysteries, so whenever I popped my head out to see what was happening, I was always surprised at the progress. Vee's plantation was growing out of hand, and I wondered how she planned to take care of something of that size on her own. In fact, when the island could already be inhabited by far more than just us, I couldn't help but wonder if we should have others live here.
+
+Trixie came to mind first, although I hadn't heard anything about the troublesome pixie lately. Either she stuck around the dwarves, went back home to the spirits, or was still trying to track me down. This lack of knowledge of the events related to me underscored my goal of combining [Mapping] and [Triangulate], as without it, how was I supposed to reasonably revisit my old haunts?
+
+There were also my friends from the adventurer's guild, although I wasn't sure if they would want to live out here. If we got up a working portal network, it would be a hub to the greater world, which anyone could appreciate, but it would also mean revealing the slimy truth to them. I had no idea of how they would react, and while I wasn't concerned about surviving anymore, I was afraid of losing them entirely.
+
+Then there were other possibilities, such as the goblins. Now that I was presumably halfway to becoming a [Dungeon Master], would I have enough authority to keep the madness at bay? This was assuming they hadn't already lost themselves, as I had not even a faintest idea what had become of them after they went into the cavern depths.
+
+Finally, there was one other possibility: more fellow [Experiments]. While including them as potential residents was obvious, it came with significant risk, as who knew how amicable they would be? Not everyone was like Vee, and by extension, Leon. The blood troll and I already had a falling out, and the dragon seemed to be burning anything and everything to the ground, so what if the others were half as crazy, or possibly even worse?
+
+Unlike every other option, [Experiments] genuinely worried me. As evidenced by Vee, me, and even Leon, the possibilities were endless. Who knew what unnatural or bizarre evolutionary paths the other [Experiments] had taken, or what strange classes or professions they had unlocked, and that was before taking into account any secret benefits they might have been given by the god behind them.
+
+I guess I'll just take them as they come. No use worrying about "what ifs," I'm better off focusing on the present! Or better yet, more slime powers!
+
+If anything was my biggest regret about this whole adventure-vacation we took, it had to be that I'd seen not even the faintest hint of a slime. Surely there were ocean slimes, right? I'd tasked Sylvain with prying the information from Vanessa, and even let them explore the waters together as their own separated network, grounding myself to the island while they went galivanting.
+
+Apparently, there was an ocean-based slime, but it was actually a jellyfish that evolved into slime, rather than the other way around. I'd never even considered other creatures becoming one of my kind, and I'd always assumed slime would be the origin. I hoped they could find me one, but I kept my expectations tempered.
+
+The days continued to trickle by, with almost never a dull moment. When I hit a roadblock in my teleportation, I swapped over to another task, like [Spatial Severing], or even helping Vee develop the island. I even took a moment to explore enchanting with Sylvester, which was a very strange occurrence of effectively talking to myself out loud.
+
+I also took some opportunities to show Vee what I had learnt from folds, and even managed to share [Spatial Severing] with her. Surprisingly, the skill actually affected her [Rift Threads], although in quite a minor way. It was already a tip-top attack trait, so it was genuinely a shock that it could even be improved, even if it was minor.
+
+Unfortunately, such moments were very rare, as even though this was Vee's bread and butter, she just didn't share my enthusiasm for the subject. When I tried talking about my discoveries from taking apart [Dimension Magic] and other related skills, her multitude of eyes seemed to glaze over. Once again, I couldn't help but feel a little sorry for Mother, and I presumed this was why she gave me an unusual amount of attention.
+
+Eventually, after taking apart [Triangulate] and [Mapping] countless times, the latter finally stopped giving me any new information. This was startling and ultimately meant that I had everything I needed, and it was up to me to now piece together my solution. While I didn't want a solution to fall on my lap, I couldn't help but feel a little disappointed that I was left this much on my own in this regard.
+
+Once again, as I dove into the information, I lost track of time. I had no idea that a skill as simple as [Mapping] actually had so much depth to it, and the more I explored, the more I found of the strange magic I was unfamiliar with. Like [Position] and [Temperature], there was another "affinity" that seemed to be related to information, or perhaps the system itself, and [Mapping] was full of it.
+
+I was going in blind, trying to reconstruct it, and kept hitting numerous dead ends that left me frustrated. I was tempted to take apart other skills I suspected were similar, like [Identify], which had been performing rather poorly as of late. It wasn't until I took a moment to reflect that I realized I had an item that might be the key to bridging the gap I was missing.
+
+My gold-rank tag!
+
+Yes, the adventurer's guild could somehow interact with the [Mapping] skill and even [Identify]. I had no clue how they achieved this, but my tag probably held the answer! The only issue was that I didn't want to destroy it, so I abducted both Leon and Sylvester to study it with me. Sylvester would no doubt share my enthusiasm and dig into the mysteries, and this seemed ripe for something Leon's artificer profession could dig into.
+
+Thankfully, the crab was baited, and as long as we didn't mention the word "magic," he wouldn't spit out the hook. In what seemed like endless days, we poked, probed, and prodded the device with various skills, spells, and even strange tools Leon had produced. The longer we spent on it, the more invested Leon became, and as a result, his profession levels actually soared.
+
+On more than one occasion, I was tempted to eat the damn thing, hoping [Consuming Osmosis] would answer me, but it was the last link I had to my primary identity, and I didn't want to discard Syl the Adventuring Elf. We even contemplated breaking into the adventurer's guild back in Saltport and stealing one, only to discover that they were inert crystals until the guild did something to them.
+
+Yet, thankfully, we eventually found something linking the two together. This involved teaching both Leon and Sylvester the [Mapping] skill, and through their combined effort, they achieved what seemed impossible. It was layers of enchantment like no other, and I even suspected it might touch on a governing principle for this "information magic" as I was calling it, if not the system itself.
+
+Leon had actually passed out due to a migraine when he tried to study it, leading him to call it some eldritch creation beyond the human mind. Thankfully, I wasn't human, but more than likely the real reason for my understanding was thanks to [Skill Deconstruct] and the limit I had reached in dismantling [Mapping].
+
+I thanked both of them profusely, even creating a few more yellow slime cores for Leon to experiment with, and apologized that this section of research was something only I could investigate. Sylvester seemed disappointed, but he knew he would get the information from me if I synced it, so he was fine with it. Leon was annoyed to let go, but after he passed out again while trying to study, he reluctantly admitted defeat.
+
+I took these strange symbols and began weaving them into a spell. I had plenty of strange components from [Mapping] itself, and vaguely following the blueprint, I eventually created a spell. What spell, you might ask? Well, it was simply called [Map], and unlike any previous spell I had learnt, it didn't reveal where it came from.
+
+Casting [Map] produced an image of, well, a map. It was just as if I had used [Mapping] on myself, minus a few features, except for one big exception: others could see it. At first, I thought it might have been an illusion, and Leon even speculated it could be light forming something he called a "hologram," but we all eventually realized and accepted what truly was… The System.
+
+Yes, this simple and, honestly, crude little spell was actually using the system interface that every living being in this world did. In fact, the appropriate comparison would be to say it was almost exactly like when sharing a trait or skill with someone.
+
+I was delighted by this, although my companions seemed strangely hesitant about what I was doing, as if I had touched on something taboo. It even went so far that, if I were working on this spell, they would distance themselves from me, as if overcome by some strange repulsion. None of my personas had this effect, though when Vanessa caught sight of it, she seemed overcome by an almost primal fear and fled.
+
+Talk about an overreaction… It's literally just a [Map].
+
+I brainstormed with a few of my personas about why everyone else was affected by this, but I wasn't. If you ignored the fact that this was "my spell," then the only reasonable answer was that I had access to [Skill Deconstruct], or perhaps, it was something I had learnt through its usage, like some weird knowledge-gained resistance. Vee and Leon were probably less affected, being [Experiments], but Vanessa was just a natural-born monster in this world.
+
+I wonder what effect this would have on humans, elves, or dwarves?
+
+The temptation to teleport to Saltport and cast [Map] in the middle of the marketplace was overwhelming, but I ended up not listening to those seductive whispers. If this were a taboo, then revealing it to too many people might cause a random god to smite me for all I knew. For now, it was safer to keep this under wraps.
+
+Now that I had [Map], I wanted to modify it so I could use [Triangulate] on it, or with it, but before that, I needed to upgrade this spell, as it was too barebones. The [Mapping] skill got plenty of upgrades as it leveled up, but what I wanted to apply to [Map] was the landmark feature. Once I had landmarks, in theory, I could get the coordinates from them and then teleport myself there. This was the ultimate goal I had been striving for and pieced together after multiple uses of [Skill Deconstruct] on the two skills.
+
+Compared to before, adding a few new features to it was actually completed rather quickly, and soon, I had landmarks added to the spell. At the same time, I discovered that our island had actually been officially named Tanglebay, as it appeared on my [Map]. I showed it to Vee, and although she was uncomfortable, she was still delighted to see it there, clear as day, on the system interface.
+
+Is that the reason? I suddenly wondered.
+
+Everyone's access to the system was personal, and as far as I was aware, you couldn't affect someone else's interface. For example, if I were reading a skill, it was, other than attempting to read my body language, an entirely private affair. Yet here I was projecting a [Map] that forced itself into others' systems, regardless of their opinion. Yes, there was sharing skills or traits, but that was something actually granted by the system itself.
+
+Very strange… Maybe it's something to ask about next time I get a chance to talk with Gramps.
+
+I moved on from that subject, and now, arguably, it was the most difficult part of the matter. I had [Map], but now I needed to add [Triangulate] to it. As expected, this was not simple, and I constantly ran into hurdles I couldn't quickly circumvent. When this happened, I would try a few times before pivoting, hoping to gain more [Triangulate] levels as a byproduct and then dismantle it for more information. At the same time, this would let me progress some of my other projects, which I still had far too many of.
+
+My artificial affinity was looking good, and with a few more dismantles, I might have a breakthrough there. As for [Spatial Severing], I had reached a point where I had reproduced it as my very first dimensional attack spell. I had hoped I was the first to discover it, but sadly, I was beaten to it, and it was officially named [Rift Rend].
+
+Well, at least that's a cool name! It even kept the alliteration.
+
+My attempts to create a dimensional aura were also progressing well, and I had a few rudimentary ones that were already working, such as an aura of expanded space around me. What I really wanted was an aura version of [Displaced] so I could make every enemy around me weaker to dimensional tampering, but as if the gods knew what an absurd ability that was, it was proving quite the unexpected struggle.
+
+Even when I tried making it a domain, the results were almost the same. I swear, maybe it's the paranoia talking, but I feel like someone or something is interfering here. Why else would my spell weaves fail so spectacularly?
+
+Regrettably, my cries of unfairness went unanswered, so I had to continue struggling to have my dream spell fully realized. Yet when a door was closed, a window opened, as I had a rather timely breakthrough with [Triangulate]! Yes, my latest deconstruction of this fantastic skill seemed to finally touch on the aspects I wanted: coordinate storage!
+
+Next stop, coordinate calculation!

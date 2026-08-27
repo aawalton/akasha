@@ -1,0 +1,457 @@
+---
+id: 22b88387-d841-5de9-8048-29a14ff0602b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 166: The Vote"
+slug: 0088-chapter-166-the-vote
+partOf: the-calamitous-bob-stubbed
+position: 88
+ownLength: 6600
+unit: words
+ownProgress: 6600
+publishedAt: 2024-05-31
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1658434/chapter-166-the-vote"
+royalRoadId: "1658434"
+markedReadAt: "2026-06-29T21:17:49.897Z"
+---
+
+The switch from dream to in-between always disturbed Viv. The small delay between vivid vision and consciousness brought with it a deep terror, like walking down stairs and finding one missing. The transition was too seamless for her. This time was no different. When she became aware of herself again, Viv realized something had changed.
+
+The small white orb that represented her had grown. It was also darker, and the twin bulges of budding wings emerged from its ‘back’. It appeared the soul was starting to resemble the mind. It was probably a good sign considering what she was up against.
+
+In the distance, Neriad’s massive golden orb waited like a reassuring sun. She meant to get close and, an instant later, she was.
+
+Not like distance or even time worked normally here.
+
+“YOU HAVE COME.”
+
+“So you were the one to call me?”
+
+“YES. I NEED YOUR HELP.”
+
+“What with?”
+
+Viv would never get used to the colossal presence showing doubt, even if it was an integral part of Neriad’s charm.
+
+“I DON’T KNOW HOW TO APOLOGIZE.”
+
+Honestly, Viv shouldn’t have been surprised.
+
+“DO NOT BE LIKE THAT.”
+
+“So you’ve done nothing wrong for the past millennium, huh? Also could you stop being loud? I acknowledge the power of your soul, oh mighty one.”
+
+“This is a difficult moment for me, outlander. Would you mind cutting the sass for one me-damned minute?”
+
+Viv remembered that he was here because of her request.
+
+“Fair. So, an apology.”
+
+“The very notion revolts me. He is a monster, and yet it is as you say. If there is a chance to turn him to the light, we ought to take it.”
+
+“Just to be clear, you are apologizing for your part in him being hurt. It doesn’t concern the many horrors he’s done afterward. An apology is about what you regret having done to him, not his part in the problem or the consequences you couldn’t control. You can only apologize for your actions. Not his.”
+
+“Even if my betrayal led to this calamity?”
+
+“Do not take responsibility for his choices. We are not excusing him. We are recognizing he was hurt.”
+
+“I apologize for what I have done. Understood. Hm. Anything else?”
+
+“You can start by acknowledging what you did wrong and accept you made a mistake that hurt him. Don’t say ‘sorry you took it that way’ or ‘sorry you couldn’t let go of your grief’. That’s not sincere. Say what you regret that concerns your own behavior, then offer to make amends.”
+
+“TO HIM?”
+
+“Look, you don’t have to debase yourself. We want him to forfeit his evil ways, right? Is there anything you can do to help?”
+
+“Yes. In fact. At a cost to myself.”
+
+“I’ll let you decide. You have your heart in the right place, Neriad. Are you ready?”
+
+“No. One last thing. What if he doesn’t accept my apologies?”
+
+Always the tough part, that.
+
+“It’s not just for him. It’s for you as well. You’re taking a step forward to clear the air, let go of your guilt. To accept is up to him. You can’t control that. It will… probably not lead to an immediate result, you know? He has been what he is for a long time.”
+
+The sun that was Neriad’s soul radiated quietly for a while. Although time was merely a distant concept here, Viv could tell Neriad really took it anyway.
+
+“We have been gods for so long. This is not the action of a god. This is the action of a human, one who makes himself vulnerable to a man who has become an enemy. This has never happened in the history of this world. I hope we are not… making a mistake. Even now, we do not fully understand our new nature.”
+
+“New?”
+
+“Time is relative to the entity that experiences it.”
+
+“I hope we are right, if I have to be honest. If it’s any comfort, we are not trying to bring the dead back to life or other rule-destroying acts. We are trying to save your friend.”
+
+“More than a friend. He was my family, and I was his. Gods can change. I suppose I can but try.”
+
+The in-between shifted and suddenly, Viv was no longer a soul drifting in the void but a vague presence near a table, at the edge of a sand arena dotted with swords. On one side of the open space, the ground just fell off abruptly. She could see clouds beyond and below her forming a fluffy carpet that extended almost to the horizon. The table itself waited in the shade of a wood structure that left green lianas loaded with colorful flowers surrounding the chairs, granting a touch of color to the otherwise sober environment. Viv had no idea what she was doing here but she did recognize Neriad’s physical form in the golden-bearded handsome man in scale armor sitting uncomfortably by her side. His eyes shone a warm amber as he pointedly stared in front of him.
+
+Behind Viv, something blew with the cold wind of the crypt. Even her ghostly presence shivered. Stomping sounds came rhythmically in a dirge that filled her with dread. After a few seconds, a titan in dark armor came to sit opposite the golden god.
+
+Efestar didn’t look bad per se. He was handsome in a leaner, edgier manner. Perhaps a little younger too. The black abyss of his eyes were strange in the light of the day and the rest of his body felt strange as well, now that she was paying attention. The proportions were just too heroic, the armor too impractical. He felt more like a statue while Neriad looked like a gold medalist for the sexyness competition.
+
+It came as a surprise when Efestar was the first to talk. His voice sounded almost subdued.
+
+“What is she doing here?”
+
+“This was her idea and she is here to make sure I don’t say something stupid and… I wanted a witness. So my words are not spoken in a vacuum if you do not accept them. I wanted this moment to exist for someone else.”
+
+Efestar leaned back in his chair. The fact that the delicate piece of furniture didn’t crack under the gigantic weight of the armor told Viv this place might not be the in-between but it still followed its own rules.
+
+“So speak.”
+
+“Very well. Efestar, my brother, I… I am sorry. I apologize for my actions. When Enttikku gave us her offer to assist us in becoming the new pantheon, I was… tired. I knew the decision to accept would betray my promise and hurt you and I took it anyway. I failed my word and I failed our bond, brother. I wish I could say it was the right decision and we saved ourselves and perhaps the future of mankind itself, but the truth is that we took the easy way out as soon as it was offered. I should have refused and negotiated, involved you in a way that set your heart at ease. Instead, I was a coward who believed we would manage to calm you down. We were wrong. When you left us, it was not your betrayal but ours that prompted it. I…”
+
+He winced in the middle of the sentence and Viv feared for a moment, but Neriad was a torrent that could not be stopped, perhaps not even by himself.
+
+“I will not talk about what you have done since then. It is a discussion for another time. I will only say that my decision made a mockery of my word and our fraternal love. I recognize it and I ask you to forgive me, just as I ask you to return to us. No, to me. I will hold you while you shift your domain, if that is what it takes. I will be there for you as long as you will have me. I will never abandon you again. I am sorry brother. Please come back. I miss you.”
+
+By now, Efestar was gripping the table and Viv was doing her best impersonation of a wall painting.
+
+“You have no idea what you are asking! My power! Centuries of accumulated worship and I would toss all of that away for what?! Resentful tolerance? Two sentences and a handshake? You are mad!”
+
+“I can share my essence with you while you shift, brother. If there is anything more I can do to help you, you have but to ask.”
+
+Another pause. Viv was starting to believe.
+
+“You would really let me tap into your soul?”
+
+“I will not give you free access to my power, brother. I am not stupid. I will, however, grant you as much as you need to make it, if you wish.”
+
+The table creaked under Efestar’s fingers.
+
+“Did you really mean those words you said? Is this what you truly believe?”
+
+“I did. I do. I have had a very long time to reflect, brother. And regret. Your deeds have muddled my heart and turned love to hatred over the centuries, yet all that time I still held onto my guilt, the knowledge that I indulged my craving for relief and victory after so long without realizing we were leaving you behind poisoning my mind. I suppose… I told myself it was your fault for not letting go of the death of your kin while what mattered was my broken promise to avenge them together with you.”
+
+Another pause, longer this time. Despite the gods’ monstrous control, leaking divine power made the atmosphere so oppressive to Viv’s soul, only an adamant will to see the scene through kept her there.
+
+“I can’t. It has been too long and I have gone too far. Do you have any idea how much this will break me? You are naïve if you think I will simply give up my throne because now, after a damn eternity, you finally figured out why I did what I had to do. I have sacrificed so much for—”
+
+Crack.
+
+Viv felt a tremor that spread through her soul that induced a terrible sense of cringe, the same horror as watching someone fall head first onto a marble stair, the same shock and dread. It was a terrible sound. It reminded her of her state when she arrived in Nyil, the atrocious pain that came with having one’s soul ripped. She would have slunk back to her body if Neriad’s attention had not fixed her there.
+
+A fissure spread across Efestar’s left pauldron, the obsidian losing its luster. Viv saw a shard of obsidian disintegrate on the way down.
+
+“No…” Efestar lamented.
+
+There was a rush of cold wind and then, he was gone. By then, Viv felt exhausted to the core of her being.
+
+“You… should head back,” Neriad said.
+
+His voice was filled with worry.
+
+“Is that bad?” Viv asked.
+
+“If he doesn’t pick a stance, it will be.”
+
+***
+
+Fanfare and drums rang through the city of the gods. The summer sun shone brightly on ochre stone, bathing everything in a golden radiance that gave it a fairy-tale-like quality. Colorful papers dropped from the roofs, thrown by the enthusiastic children of local notables and the air smelled of flowers and perfume. It was a pleasant show that Viv couldn’t really appreciate thanks to a splitting headache.
+
+Thanks, Neriad, very cool.
+
+She reclined in her rented carriage while Sidjin cooled the wet cloth on her forehead.
+
+“Ugh, thanks. I’m already feeling better.”
+
+“You should drink more water.”
+
+“This is soul strain, not dehydration.”
+
+“I know about pain, trust me. Drink water and eat another permonn fruit. It will trick your body into relaxing, which helps with soul strain.”
+
+“Okay.”
+
+What Viv needed was more rest but she wouldn’t get it. Her delegation was third in line in the convoy, just behind the Glastian one. Mornyr always opened the march as the host and Baran closed it as the primary contributor, as was tradition. Viv approached her window and saw the stoic form of Ban standing guard with all the affability of a spike-covered gargoyle. She kept gnawing on her fruit, already feeling a little better. Huh. Sidjin really knew his stuff.
+
+It didn’t take that long for the Harrakan guard to drop her in front of the central monument at the foot of the titanic shield tower. She stepped up the stairs in her elaborate dress, forehead protected by a silver circlet that marked her as an independent sovereign. Sidjin remained by her side while the rest of the escort left to head back to their manor. No security details were allowed during the summit as the safety of the guests was guaranteed by the elite of every authorized religion on Param. It was perhaps one of the safest places on the continent right now.
+
+Viv made her way into a heavily decorated main entrance, the ground as smooth as a placid lake, yet showing the imagery of the pantheon in rich detail. Ancient champions and their deeds decorated every available spot while colorful statues stood against the wall, watching the rulers of Param enter with benevolent attention. Neriad’s statue was incredibly faithful to its original, and so was the statue of Maradoc, god of secrets and knowledge whose clergy was as subdued and hidden as its domains. Sardanal turned out to be a tall northerner wearing a turban and more jewelry than the average charity ball. It was the last pair that attracted her attention.
+
+Emeric in armor, his roguish smile one she had recognized on her own face during their brief conversation. He had a palpable charm that pissed her off because it would have probably worked on her if they had met in different circumstances. He looked fun.
+
+Then there was his wife.
+
+Maranor was a beautiful woman with wavy dark hair, sharp features and a stubborn chin that reminded the spectators she had led a warband to an unlikely victory. The hem of her dress was burnt and stained with blood while a short, cruel sword rested on her hip. Slayer. The god-ending sword. Maranor was a killer first and a queen second and the statue could not have expressed that more clearly. Her dark eyes seemed to follow Viv as she made her way inward.
+
+She and Sidjin walked past ranks of heavily armed temple guards of every religion, including the exceedingly rare warrior-priests of Enttiku. It was rumored that they would instantly kill a man with any wound, even a cut on the finger. An attendant in rich robes led them to the summit chamber.
+
+Viv had expected some sort of amphitheater. Instead, the council took place in a large, well-lit room centered around a large round table. Agents in dark armor checked every chair even as they walked in. A skylight above their head let in the morning sun, and the warm rays shone on the arrow tips of bowmen. The Mornyr delegation was already sitting in contemplative calm. Garm was here, along with a placid man wearing the symbol of Maranor and a woman in an opulent dress who had to be representing Sardanal. They were the only delegation with three members as the third would act as the moderator for the show. The Glastians had sent a male scholar she didn’t know but also Shaya, a princess who didn’t hate Sidjin. Viv remembered Shaya had gathered her dueling team from mercenaries and outsiders back in Halluria. She smiled at Sidjin when he entered.
+
+That always felt weird to Viv but whatever.
+
+The next delegations came in one by one and in silence. King Erezak of Baran was the last one to sit, his white cloth shining as if basking in an inner light. There were now enough command auras in the room to inspire an army to charge into hell itself. So far, they formed an uneasy truce rather than clashing with each other. Given the average Paramese ego, Viv didn’t expect for it to last.
+
+“Hello, and welcome to the summit of the Paramese alliance,” the priest of Maranor said confidently.
+
+Viv tuned out the introductory remarks to focus on her surroundings. The room felt as crowded as an elevator during rush hour despite the sword-length space between different delegations. It made her feel on edge. The fact her danger sense remained quiet only increased her anxiety. Would everything just go to plan for once?
+
+The speech finished with a short prayer to the gods, a chant joined by everyone present. Viv was no exception, only hers was less devotion and more an expression of support and, in Neriad’s case, concern. She finished with a silent prayer to Nous who remained unnamed. Maybe if she prayed enough, he would remove the vandal status.
+
+She could only hope.
+
+“Our first order is the recognition of New Harrak as a permanent member of the alliance. I welcome Viviane of Harrak, the Outlander, as its Empress.”
+
+A wave of discomfort crossed the room. Viv really had to grow into her new position.
+
+“Empress Viviane will propose her argument then as tradition, we will proceed to a vote. Every member will be offered a chance to justify their choice, following which the empress can offer a rebuttal and request a second vote. May the gods guide us with their wisdom during this historic occasion.”
+
+In reality, those were as useful as Viv’s initial speech, on the same level of impact as butterfly farts and electoral promises. Viv kept her opening remark short and to the point as her peers would appreciate brevity. She merely stated that actions spoke louder than words and that Harrak was eager to join the alliance in stopping the threats to civilization, especially the one that came from the deadlands. There were polite nods when she was finished in appreciation of her rhetorical skills and the fact she’d not wasted everyone’s time.
+
+By tradition, Mornyr was the first to vote. It was the woman who cast it.
+
+“Mornyr represents many faiths, treasures different qualities, yet we all stand together in the defense of life and civilization. The Lady of the Deadlands has shown piety and understanding of all of them. Order was brought to the city, its institutions expanded and the rule of law upheld for all, both the powerful and the meek. Righteous war pushed the dead back while green things and hard working folks filled the void they left. The forces of Harrak have brought dignity to the fallen and punished those who would desecrate them. Finally, centers of learning already bloom in the cities of Kazar and Sinur’s Gate. I would dare say that luck is on your side.”
+
+A flash of terror froze Viv’s chest. She managed not to look at the priest of Maranor. It was still a little early to get found out as Emeric’s protegee.
+
+“As such, Mornyr votes in favor of acceptance. We bring our two votes to the tally.”
+
+Two glass containers appeared in the middle of the table. Three white balls clicked at the bottom of the left one, two for Mornyr and one for Harrak.
+
+The priestess indicated that Viv could now reply. She stood promptly.
+
+“In the name of Harrak, we thank you for your trust. We will endeavor to uphold the ideals we share at all times.”
+
+“Very well. As per tradition, Baran will now vote.”
+
+The old king stood for a rather long-winded speech. He was the oldest person here and probably the highest-ranked one as well. Viv found herself drawn into his acclamation of the values of progress and the reclamation of lost lands for humanity. When he finished, Viv had to take a second to recover before she could respond.
+
+“Harrak thanks you for your support. So long as you stand against the threats to our east, you will find us at your side.”
+
+That was now ten votes in Viv’s favor and the game was already over. The revelation didn’t seem to shock anyone, though Viv had expected some last moment shenanigans. The Luten ambassador didn’t seem pleased. Actually, where was the old woman who had accompanied him during their meeting? She wasn’t here. Curious.
+
+In any case, it was Enoria’s turn to vote next. Sangor didn’t hesitate.
+
+“After careful consideration, we have decided to support Harrak’s claim. We hope to grow beyond our difficult start, one caused by traditionalist elements we have defeated since, and we hope to deepen our cooperation for the good of mankind and to push the deadlands back.”
+
+This short declaration came like a thunderbolt on an empty sky. King Erezak turned his head like an owl spotting another predatory bird. Auras flashed, revealing nothing but surprise. Viv did her best to appear unaffected.
+
+“We thank King Sangor for his support and we, too, hope that the gate network will bring safety and security to both our lands.”
+
+There was a tense silence while people reassessed the situation. Viv wasn’t sure why, but apparently they’d expected her and Sangor to be at each other’s throat for the foreseeable future. Why would they think that? Did they believe she was a rabid vengeful bitch bent on total destruction?
+
+Puh lease. She only slaughtered the guilty… and they were already dead!
+
+“Ahem, I believe Helock should be next to vote?”
+
+It would be pointless anyway. With thirteen white stones in her bottle, Harrak’s accession was as good as granted. Nevertheless, just as she was supposed to make speeches, the others were supposed to keep voting until the end. Protocol had to be observed.
+
+“The citizens of Helock would like to reserve judgment at the time. We abstain.”
+
+The ambassador gave Viv a curt nod. Unbelievable. And probably a last minute decision not to aggravate her for a cause that was already lost. She was given a chance to reply and chose not to do so. There was nothing insightful to add that she could think of. Thirteen for, none against.
+
+Next was Luten, representing the Pure League. Viv expected a rather firm rebuttal and she was not disappointed.
+
+“This woman has no interest in the future of humanity, or civilization. This is all a ploy and the evidence is all around you, yet you refuse to see it, blinded by the promises of portals and free deadland forts. I am telling you now though I am speaking in the wind: you will regret the day you offered her a place among you as the farmer regrets grabbing a snake. She is not fighting for you. She is fighting for herself, her own power, and she will pursue any means necessary to achieve her goals.”
+
+Well he wasn’t completely wrong there.
+
+“She speaks of civilization as if mankind was not its champion, yet she clads her men in birdbrain steel, hosts redskin brigands, and sends ahead of her the abominations of Halluria, the cursed hadals. Those are not, in case it wasn’t clear, the agents of civilization. On the contrary! Make no mistake, the future of humanity requires a cold mind and an iron grip on both ourselves and the lesser races. You all know this, and none of you stooped to the utter degeneracy of accepting inhuman rejects among the ranks of your advisors, yet you tolerate it in her. She is not one of us. She is an artisan of disorder and she will pollute your people by normalizing that which is obviously against nature. She is the crack in the edifice of our order. Her rule will be a getaway to audacious claims and divergent behavior. You embrace chaos today because the prize is too good. We cannot oppose you, but we pray you come to your senses before the rot sets in too deeply. Luten, as always, will remain the guardian of humanity and we formally oppose Harrak’s accession to the alliance. If it were up to us, they would be purged from our ranks with the gravest prejudice.”
+
+The ambassador’s outburst left a heavy silence in its wake. It was Viv’s turn to offer a rebuttal. After the end of that fiery declaration, all eyes were fixed on her. According to most courtesy rules in the multiverse, she was well with the right to kick that asshole in the nads. Some of the elite guards had fingers inching towards their sheathed weapons, just in case. Viv wasn’t here for that. She was here to prove Harrak was a legitimate power, and legitimate powers didn’t resort to brawls.
+
+They poisoned instead. Not that she would waste effort doing it.
+
+Instead of blowing up, Viv gave the fuming ambassador a polite smile.
+
+“I fear Luten’s principles and our own cannot be reconciled. I do not value their opinion, and so I see no point in arguing with them.”
+
+The collective auras relaxed as if twenty people were taking a breath. Her last jab was meant to infuriate the ambassador and it worked as intended, which was all Viv wanted. There was no need to waste energy on that bozo. She would visit the Kark lands soon enough, and then… but that was for later. For now the votes were thirteen to two in her favor with two abstentions,
+
+The next city to vote was Zesthanet to the south. Their representative was the palest man Viv had seen, with white hair to match which she found a bit strange because he was quite young. He made a nice speech on the need to help each other to expand which Viv thanked him for. It was no secret they aligned with Baran on every vote which led to a fourteen to two advantage. That left only Glastia. Princess Shaya smiled warmly at her brother, well, half-brother.
+
+“With regard to Prince Sidjin’s significant contribution to the defense of Glastia as well as the punishment he endured, the city has decided to offer him amnesty. We are proud to support the claim of a nation that would have one of our scions as ruling consort, and we will look forward to working together against our foes.”
+
+“Thank you,” Viv replied. “Rest assured that I will personally lead our military to rid your walls of the beastling tide during the next offensive.”
+
+Final result: fifteen to two. Harrak’s claim was validated beyond any doubt. A wave of relief washed away Viv’s stress. No nation could just casually invade her without the others piling on. Her merchants and citizens now had legal status all across the continent, protecting them from easy abuse. Her young mages could join the Academy without hassle, her soldiers could transit without being seen as bandits. Refugees could no longer be stopped at the border without diplomatic repercussions.
+
+Harrak was legitimized.
+
+And then the relief was swept away by dread. Viv stood up abruptly, drawing the full attention of the representatives.
+
+The defensive wards on her manor strained.
+
+“Prince Sidjin has my full confidence for the deadland forts issue. Now if you will excuse me, my embassy is under attack.”
+
+***
+
+Harrakan embassy, two minutes earlier.
+
+Two minutes to the patrol turning the right corners and then twelve to the change of guards. Increase water rations because it was hot as an oven here. Ban checked the roofs around him one more time. Had to thank Irao properly for his training at some point.
+
+He hated standing guard. Unmoving defenses were just scarecrows waiting for a good kicking, but appearances were important for rich assholes and the girl needed him to look good. So he would look good and fancy in that Enttiku-cursed black armor.
+
+He stole a glance towards Brick. Still fine holding that huge flag. Good.
+
+“Sir?”
+
+Leto pointed to the right. A woman was running towards him at full speed.
+
+Absolutely not good.
+
+[Diplomat, not dangerous]
+
+The analysis skill filled him with impressions. She wasn’t a warrior at all, not that it mattered. Always some cornudon shit going on with the girl around.
+
+“Leto, general alert. Quietly. Brick, you stay with me.”
+
+“Yessir!” the two replied.
+
+The third guard was already running back inside. Ban looked right. A minute thirty seconds. The old woman was upon them so he had a better look. White hair, rich but frumpy clothes. Sagging skin and deep set eyes that come with exhaustion. Not normal. His instinct flared. He turned to face her and she didn’t let him open his mouth.
+
+“Asylum? Asylum, please?”
+
+“Who are you?”
+
+“It’s urgent!”
+
+“Who. Are. You?”
+
+“Gah! Sen Meneteleon. Envoy, well, ex-envoy of Luten to Mornyr. Please let me in!”
+
+Soldiers rounded the bend at high speed. Two dozens, half heavily armored and the rest in relaxed attire. All armed. Same style of clothes as the ex-envoy. Here for her, as clear as a Cornudon turd on a wedding dress.
+
+What to do? The girl wasn’t here to decide. Solfis and Irao were out. Needed a split-second decision.
+
+Ban fucking hated it. That was diplomacy. He was a damn guard.
+
+“Surrender oath now or you’re on your —”
+
+“I surrender under the laws of war. By all the gods. I am at your mercy.”
+
+Fuck.
+
+“Get in,” he said.
+
+If the girl wanted that crone dead, she could kill her herself. Didn’t sit right with him to let a bunch of toughs rough up an elder either. The girl could always whip his back if she disagreed later, but the crone would be dead now if Ban did nothing. He’d done nothing enough for a lifetime. Now he’d do something.
+
+The envoy slipped in with a gasp of sheer relief. Yeah, she would’ve been dead.
+
+Ban did his best to look bored out of his skull while the pursuing pact slowed down. They didn’t hesitate for long, the cunts. Less than one minute now. Delay? Fuck this wasn’t a job for him. He was no sweet talker. Wished he had his wife’s brain sometimes.
+
+“Well hello there,” the lead asshole said. He was a clean northerner with a smooth face but scarred hands.
+
+Trained killer for a living then. Farmers like Ban were marked by the sun. Smiling too, the twat.
+
+“Welcome to the Harrakan embassy. What can I do for you today?” he asked.
+
+His men formed a half circle around Brick and him. Not good. They felt dangerous and armor wasn’t useful when one was swarmed.
+
+The doors of the embassy opened behind him. Silently, six heavies took their place at his side. They formed a half circle centering on the door. Ban cursed himself for having left the second squad near the palace just in case the girl left in a huff so she wouldn’t have to wait for an escort. Old fool he was.
+
+The killer’s smile dropped a little when the heavies came out. He was still a killer though.
+
+“It’s come to our attention that a, hmmm…”
+
+The smile returned with a vengeance.
+
+“That one of our people was seen entering your facilities. Old Meneteleon. Confused lass, a bit long in the tooth. She should have retired ages ago to let clear-headed people in charge. Seeing as she’s not all there anymore at her advanced age,” he continued, tapping his temple, “I was thinking you should return her to us for her own safety. She might be having an episode. Wouldn’t want anything to happen.”
+
+Ban mulled his options. He probably had some. Sadly, he was a bonehead. A bonehead with a reputation to uphold.
+
+“Meneteleon asked for asylum and was granted it. Please direct your request to the Empress, long may she reign.”
+
+The killer’s eyes flashed and Ban felt something, like a cold edge resting on his throat. It came and went in a moment.
+
+It took all of Ban’s willpower not to swallow his saliva. Aura, had to be, Powerful one to pierce his so easily. Shit. Man was late fourth step, and not a nice one.
+
+By his side, Brick shifted. She’d dispersed it. Had to say something. He was the goddamn tip of the spear.
+
+The Tip of the Spear.
+
+“Nice try. Meneteleon was granted asylum. You can ask the Empress when she’s back if that makes you all mad. In the meanwhile, the only thing you’ll get from us is a foot of steel in the guts if you don’t fuck off.”
+
+“I’m afraid I can’t do that. See, she is one of our own and not fully herself so, by law, it’s kidnapping. Yeah?”
+
+Ban remained silent. The killer sneered.
+
+“The issue being that we are authorized to follow a victim of kidnapping into neutral grounds, yeah? You see where I’m going with this. So step aside. I’m not asking again.”
+
+Ban measured his chances. Not good. Too few on his side to form a real line, but he only had to buy a few more seconds.
+
+“There’s only one way for you to live to see the next dawn and this ain’t it,” he said.
+
+“That’s a shame.”
+
+Both sides reacted at the same time. The Lutenians struck in disorder, not fully ready while the Harrakans retreated behind their shields. Had to do something. Right.
+
+“Bash,” Ban ordered.
+
+With a degree of coordination born from hundreds of hours of practice, the heavies’ circle expanded for the instant it took for shields to find faces. Unarmored men fell on their companions, unable to brace. This was the breathing room Ban needed.
+
+“To the gate, double ranks.”
+
+Ban took a step back with Leto and Brick to the side. The killer was upon him and swept at him contemptuously. The strike slid on his spear before striking his helmet, to the side. Shock. Flaring runes. He was fine, still fine. Struck back. The power of his blow surprised the killer but not enough. He was too old. Still strong enough for that one. Would show him. The other five formed a backline. They were really compact now but vulnerable on the side. Leto blocked three strikes and countered, shield red from the heat of fire techniques. Brick swept with the flag even as a blade somehow twisted into her guard. The foes were trying to kill the Harrakans, Ban realized. Not disable.
+
+The second line unleashed attack skills. Two of the foes were exposed and without their armor. They fell. The killer whistled and the unarmored ones moved to the flanks. Not enough people to hold the line. That was fine. He had held long enough.
+
+“The Rose!” a voice yelled.
+
+“AND THE THORNS!” others replied.
+
+Music to his fucking ears.
+
+Six knights crashed into the flanks of the Lutenian formation, their blades a blur. Fucking northerners were lucky Rollo was on foot or it would already be over. he signaled for the heavies to press forward. Ban wedged his shield against a light fighter and pushed with a roar. His strength multiplied for an instant. An opening. A foot of steel through the guts as promised. The killer managed to rotate his men though half a dozen were bleeding on the ground by then. He struck at Rollo who deflected the blow with a powerful swing that left the killer off balance. Ban signaled and the Harrakans spread out.
+
+And then, Ban was pushed to the side.
+
+He didn’t really feel anything except a pressure that seeped through his armor. The Lutenians were left sprawled on the ground. Some of the knights were picking themselves up with difficulty while Rollo stumbled back to his feet. Brick was fine. An aura? Ban pushed back the panic. This was… he couldn’t be sure but he thought it was a blademaster. Solar felt the same way. Only, Solar was on his side.
+
+Not good.
+
+“You will desist this instant. You are desecrating a sacred ground,” a bored and slightly annoyed voice said.
+
+A man stood at a good distance, his face a pale mask around two large eyes that didn’t seem to blink. Cracks on the cobblestone extended from his feet to the flaring defenses of the manor on one side, and Rollo’s men in front. He had a sword strapped to his back and another to his hip, that one half drawn. Ban recognized the unsheathed one. It was the Sword of the Dragonslayer - a powerful artifact.
+
+This was Selyen, champion of the Mornyr arena. The Dragonslayer Reborn.
+
+“Drop your weapons immediately,” he said.
+
+But Ban could not.
+
+He was defending the manor and he was the tip of the spear.
+
+He was oath-bond to stand his ground.
+
+“The Imperial Guard never retreats, and never surrenders,” he replied more calmly than he felt.
+
+The knights reformed behind him, except for Rollo who courageously stood slightly in front of him. They were both fucked and they knew it.
+
+“I said, drop your weapons.”
+
+A monstrous pressure fell on them like a wave. Ban grit his teeth. It was like facing something Arthur set on fire, the same feeling of doom. It didn’t change shit. He was what he was and he would have it no other way. Thanks to Brick, he wouldn’t have to.
+
+“No.”
+
+The man casually unsheathed his blade. An arc of pressured air smashed against the shields of the imperial guard. Runes flared and men pushed. For a moment, Ban thought it would not be enough but skill and determination let them interlock their shields and, against all odds, they held. As for Rollo, he simply cut through the shockwave.
+
+“Unfortunate,” the man said.
+
+Ban smiled. Selyen saw it and frowned. He slowly turned on himself.
+
+The skies darkened. Color bled from reality, making Ban’s heavy armor turn from scruffy black steel to night made manifest. The monstrous pressure changed from a single weight on his shoulder to a contest of wills, like standing outside in a storm. Ban could not even hear himself breathe when the girl slowly floated down with those strange wings trailing behind her like wounds.
+
+“I have been very patient so far. Do not make me reconsider,” she said to Selyen.
+
+There was something cold and serpentine about the words, a certain finality to it, like hearing a priest talk about the gods. They sounded like they would become true and there was something oddly comforting about it,
+
+“Stand aside. Your men have broken the law,” Selyen replied with frustration.
+
+“You don’t know that yet.”
+
+Ban watched anger finally twist the blade master’s pale features.
+
+“Don’t make me teach you a lesson, spellcaster.”
+
+“That’s ‘Empress’, not ‘spellcaster’. Let me rephrase. You will stand down until we understand what’s going on or I will cut you to fucking ribbons.”
+
+Ban didn’t see what happened. One moment, the two were standing at a distance. The next, Selyen was almost to the girl with his blade drawn but he was caught in a sort of ball made from black blades, like her weird sword spell. They surrounded him entirely.
+
+“I never bluff,” she said.
+
+Yeah, the girl practiced with Solar. Trying to jump on her was fucking stupid.
+
+The man didn't try to fight her off. Instead, a priest in Maranor robes sprinted in to calm things down. Ban reformed his men near the gate after exchanging a silent nod with Rollo. His old bones ached. His heart beat so hard he might have broken a rib. That was fine. The problem was now in the hands of the girl, just as he intended. No fancy shit, no heroics. His side was alive, the embassy was secure. He could ask for nothing more. He was the Tip of the Spear and he had done his job.

@@ -1,0 +1,503 @@
+---
+id: 87b94eff-cbab-526e-af52-e4a7a8b3f42b
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-NINE: Mother, pt. 1"
+slug: 0060-fifty-nine-mother-pt-1
+partOf: super-supportive
+position: 60
+ownLength: 5868
+unit: words
+publishedAt: 2023-08-02
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1297613/fifty-nine-mother-pt-1"
+royalRoadId: "1297613"
+---
+
+The boy stood in front of a white door.
+
+He didn’t know how long he’d been standing there, or where he had come from, or what he was supposed to do next. His fingers hovered over the access panel without touching it. He watched them for a while. A dark silver ring etched with symbols appeared on the middle one.
+
+Eventually, he looked up.
+
+A logogram had been drawn on the door in blue paint. It said WELCOME.
+
+“Oh.” Alden blinked at it. “I’ve done this before.”
+
+The paint shifted. New logograms appeared, then they morphed into letters:
+
+YOU’VE HAD A DIFFICULT JOURNEY.
+
+COME INSIDE. REST FOR A WHILE.
+
+Alden pressed his hand to the access panel. The white door fractured into oddly-shaped segments and slid into the walls.
+
+He stepped through the opening into a living room. Not the one at the laboratory, or the one he shared with Aunt Connie. Not the one from the apartment.
+
+His first one.
+
+It was the house in Nashville. Wheat-colored carpet was soft under his feet. He could hear the tick of the grandfather clock from the hall.
+
+A Douglas fir Christmas tree, too large for the space, blocked part of the television. The rainbow lights were set to blink. The presents were all wrapped in paper covered in either cartoonish dump trucks, bulldozers, or superhero sigils.
+
+That’s right, Alden thought, gazing at the gifts. I had a pretty serious fascination with construction equipment for a while.
+
+Childhood passions were so bizarre. One day you loved backhoes and steamrollers more than anything, and then you suddenly just…didn’t.
+
+The house smelled like the tree. And orange cinnamon rolls.
+
+Never homemade, he remembered. Mom was always too busy for that. We did the kind that came out of a tube.
+
+He heard the creak of the oven door.
+
+Have to wait a few minutes before you can smear the frosting on.
+
+That was the best job. So of course it was his.
+
+Footsteps on the linoleum. Then the carpet. Right behind him.
+
+Alden didn’t turn around.
+
+“I don’t want to see her,” he said. “Not like this. It’s too real.”
+
+There was a pause.
+
+“I wouldn’t do that to you,” an unfamiliar voice said.
+
+Alden looked.
+
+Behind him stood an Artonan woman. He had never seen her before, but she looked like a mix of a lot people he knew. Pink eyes like Thenn-ar. Braided brown hair like Hannah and Kibby. Brows set at an angle that made her look calm, like Instructor Gwen-lor.
+
+She was only a little shorter than him. She held two steaming mugs.
+
+“Can I offer you some—”
+
+“Wevvi?” he asked in a resigned voice.
+
+“Of course not, Alden. It’s hot chocolate. You’re new to me, but I can get at least that much right.”
+
+He accepted a mug with a reindeer on it from her and stared down. The marshmallows were half melted, just like he preferred them.
+
+She walked over to the sofa, drinking from her own mug, and sat down. She patted the cushion beside her.
+
+Alden joined her.
+
+“I’m not dead,” he noted, sipping his hot cocoa. It was perfect. “I’m really glad about that. You’re the Artona I System?”
+
+“Sometimes. A part of it,” she said. “The kernel.”
+
+“You have a different vibe from the Earth System,” Alden noted.
+
+“It’s young. And more rigid by design. My children prefer for me to be something more personal.”
+
+She pointed at the television with one finger, and it clicked on. On the screen, Alden saw himself sitting on a foam mattress across from the white, featureless mannequin the Earth System had used to talk to him when it was affixing his skill the first time around.
+
+“I am in close communication with it while I work on you. It has known you since the moment of your birth, while the two of us have only just met. It seems you have become an interesting existence over the past few months. You are quite complex for your species and your age.”
+
+Something twinkled on the Christmas tree, and Alden glanced over to see an ornament that definitely hadn’t been there when he was six. It looked like Gorgon, if Gorgon had more than one face.
+
+He examined the tree closely and realized there were other significant things there. A small planet Earth perched on top in place of the star. The branches were draped in the iridescent indigo loops of his auriad instead of tinsel. One of the ornaments was the Ryeh-b’t toy with the missing wing.
+
+“You have choices to make,” the woman said. “Important ones. Hard ones. Irrevocable ones. Several of them.”
+
+“And then I can go home?”
+
+“You can go where you wish,” she said. “My children tell me home is harder to find every time you change. But you can try.”
+
+She pointed at the tree, and the auriad separated itself and drifted over to hover in front of him. Alden reached for it, and it moved just beyond his grasp.
+
+“Not so fast. This is the most significant decision. Once you make it, no matter what you choose, many paths will close to you and others will open. Do you want to continue forward with the ability you’ve gained to sense your own authority? Or do you want me to remove it from you?”
+
+Alden frowned. His hand was still outstretched toward the auriad.
+
+“Why would I ever want you to take it away?”
+
+“I’ll help you remember.”
+
+*********************
+
+Alden suddenly found himself in the shower at the lab. The hot water was beating down on him. He was leaning against the tiles. A few minutes before, he’d run out on his lesson with Kibby because he’d just begun to realize how much he loved magic.
+
+He’d just begun to understand how restrained he truly was by the gift the System had given him.
+
+Another memory. Another day. He was lying awake in the vault, unable to find the rest he needed because he was fighting against his own skill. His bound authority raged against the very shape of its own existence. His free authority scraped against it from the outside. It was maddening. It hurt.
+
+He couldn’t make himself stop.
+
+He screwed his eyes shut. He screamed into the pillow.
+
+He ran across Moon Thegund with Kibby on his back. He felt no pain. Only he did. His affixation cracked. He wished it would disappear. He repaired it anyway.
+
+It cracked again. He patched it again.
+
+He knew he would die without. He knew Kibby would die without it.
+
+He was grateful for it. He hated it.
+
+He clung to it with everything he had because it was the last thing he had.
+
+**************************
+
+“Pursuing anything more would be a cruel thing to do to yourself,” said the woman on the sofa beside Alden.
+
+He shook himself free of the memories.
+
+“Joe said that to me. When I asked if I could learn to cast spells like wizards do.”
+
+“Worli Ro-den. I have met him through other peoples’ minds on occasion. Most of them had far less favorable opinions of him than you do.”
+
+Alden laughed. “I like him more than the average person does?”
+
+“You had low expectations for him. Maybe because you’re human. He exceeded them.”
+
+I guess that’s true.
+
+“I understand that having an authority sense and being an Avowed at the same time is hard in a lot of ways,” said Alden. “But it’s not like I can’t do it, right? I’ll…lose my ability to cast spells for a while after my authority is bound. But I can get stronger again. And cast again. Can’t I?”
+
+“And then lose it all again. Yes. That’s correct.”
+
+“And it’s really helpful for actually using the skill. So much easier to understand and control than Joe’s perception lessons. Eventually I’ll get used to the bound authority, and it won’t bother me so much. I can—”
+
+“You won’t ever get used to it.”
+
+Alden let his hand fall away from the auriad.
+
+“How do you know?”
+
+She slurped her hot chocolate loudly, like a kid. “By its very nature, authority is that which rejects limitations on existence. The affixation is a profound limitation. You may come to accept it intellectually. You may even be able to appreciate what it does for you. But as a person who has come to know your own authority, the affixation will never be something you can ignore. And certainly it won’t be something you enjoy.”
+
+There was a rustle of branches from the Christmas tree, and he suddenly found himself holding the many-faced Gorgon ornament in his free hand.
+
+“There is a fascinating and noisy part of you that keeps informing me our comprehensions of this matter do not truly match. I could trick it or overwhelm it into silence, but I won’t. Alden, of all the choices you will ever make, this is the one that interests me the most. I would like for you to be fully informed.”
+
+Alden ran a thumb over the tips of the ornament’s horns. The gremlin might be confused sometimes, but it did come in handy.
+
+“You can just explain it to me in detail?” he suggested.
+
+“I think I will show you instead. It’s a private matter, but I will excise the memory from you before I finish you if it becomes necessary.”
+
+That was a little scary. The Earth System had been clear that unwanted mental modifications were a violation of terms and something it wouldn’t do except in emergencies. This kernel of Artona I seemed a lot more willing and able to be…creative.
+
+The sound of a large bell echoed from the television.
+
+Startled, Alden looked and saw that the image of himself with the Earth System had been replaced. On the screen, tiered oval rings of wooden benches looked down on an empty expanse of ground covered in a fine layer of pristine snow.
+
+“Where is that?” he asked.
+
+His breath fogged. The cold bit at him.
+
+He blinked in surprise, and an instant later, he found himself standing in a large group of Artonan kids a few years younger than him. There were around a hundred of them. They were wearing matching quilted purple coats, and they were all shivering as they watched adults in different versions of the knights’ uniform pass by on their way into the small stadium area.
+
+Everyone was quiet.
+
+A man walked over to Alden and the kids. He had long purple-black hair pulled back at the temples with jeweled clips, and though his short sleeves left his forearms bare, he didn’t seem at all bothered by the weather.
+
+“Greetings, Instructor Rel-art’h.”
+
+The children spoke in unison but very softly. Their voices were almost whispers.
+
+He nodded at them, searching them all with dark eyes.
+
+“Noh-en,” he said, in a voice no louder than his students’ own, “you have been crying. Leave.”
+
+Alden glanced at the girl he’d spoken to. Her eyes were a little red. He wouldn’t even have noticed if it hadn’t been pointed out. But No-en turned without a word of complaint and walked toward a line of tall trees in the distance.
+
+“Asay-tor,” said the instructor to a boy on the edge of the group, “you are clenching your fists. Leave.”
+
+“I’m sorry,” the boy murmured. “I—”
+
+“Your feelings of inadequacy are far less important than you imagine. Leave.”
+
+The boy paled and headed off after the girl with a stiff gait that suggested he really wished he could run.
+
+I don’t even know what’s going on, Alden thought. And I can still almost taste the tension.
+
+Even though this scene was all playing out in his own head, he was afraid the instructor knight was about to find him wanting and send him off toward the forest.
+
+“Anyone else who fears they cannot conduct themselves in the manner the day requires may also leave,” said the man. “No one will think less of you for it. If you stay, you will not make the event more difficult for any of the knights, especially those who will choose their rest. If a member of your own family stands when the time comes, I will help you to control yourself. That is all.”
+
+None of the kids left.
+
+The instructor’s eyes lingered on a boy near the front of the group, but eventually he turned away. The stoic children followed him. And Alden, feeling a lot more trepidation than any of the students were showing, walked after them.
+
+In the stadium, the dark wooden benches were polished to an almost mirror-like shine. There were at least a couple thousand knights present, recognizable by the metal studs they wore on their clothes in lieu of embroidery. But they still only filled a quarter of the seats.
+
+Nobody in embroidery at all, Alden noted. He wasn’t sure what it meant.
+
+Apart from the knights, there were only people in the purple student coats. The group Alden was with seemed to be the youngest class…if this even was a class in the traditional sense. They took their place in a separate section of the stands, sitting on the topmost bench. Below them, older kids sat in small groups.
+
+The group Alden was with were all human-equivalent twelve or thirteen by his estimation. The oldest people in purple were closer to twenty. There weren’t as many of them. Only a dozen. It seemed like class sizes reduced dramatically with age.
+
+Alden looked for a place to sit, and he realized there was a familiar face in the crowd. The boy the instructor had stared at for longer than the others was in the center of his classmates. It was Stu-art’h, but younger than when Alden had met him.
+
+An empty seat suddenly appeared right beside him.
+
+“Pretty sure that’s not what happened in real life,” Alden murmured. But he took the hint and claimed the spot for himself.
+
+The bell he’d heard on the television began to toll.
+
+Nobody said a word.
+
+This setting, the dire warnings from the instructor, people going to “their rest…”
+
+This feels like a public execution. Not that I’ve ever been to one.
+
+Alden hoped he was wrong. Maybe he was. From what he knew about human history, public executions had often been celebratory, extravagant events. Government-sponsored shows with cheering, jeering crowds ready to see someone suffering. Because people could be monsters.
+
+Whatever this was, it was a lot more somber.
+
+The unseen bell tolled again. Someone sitting on the bottom level of seats stood and walked to the center of the snow-covered grounds. A single line of footprints was left in his wake.
+
+It was too far to see his face clearly, but Alden recognized him by his hair. A shade of purple so pale it was nearly white. The Primary.
+
+When he reached the center of the field, he stopped.
+
+“Good morning,” he said. The man’s volume was ordinary, and yet it carried all the way to the stands where Alden sat beside his son. “I am honored to serve with you all. And to serve those of you who must leave us today. Thank you for helping us to hold onto the frayed strands of our unraveling universe. Please rise if you have chosen to make your final sacrifice for us.”
+
+The bell sounded.
+
+People stood. Alden counted eleven of them.
+
+It was so quiet, he could hear the whisper of the light snowfall. Beside him, Stuart had stopped breathing. He looked down at the boy and saw his eyes fixed, unblinking, on a girl who couldn’t have been that much older than Alden was now.
+
+As young as eighteen or nineteen maybe, even though she was in the full knight uniform instead of the quilted coat.
+
+Her short-cropped hair was almost as white as the Primary’s. She was standing a few dozen yards to the right and below them, and as the bell rang again and the standing people began to walk down to join the Primary on the field, she glanced over her shoulder to look at Stuart just once.
+
+It was the briefest exchange. She had dark circles under her eyes and a heartbreakingly wounded expression on her face.
+
+Stuart made a small sound in the back of his throat.
+
+Don’t you dare, a voice whispered in Alden’s ear. Don’t you dare make her feel guilty.
+
+Stuart flinched. He stopped breathing again.
+
+Alden saw the instructor for the class moving his mouth without making a sound. He thought the man was still magically whispering in Stuart’s ear, but it must have been something Alden didn’t need to hear.
+
+I don’t think I needed to hear any of this, he thought as he watched eleven people walk across the snow. I don’t think I need to see any of this. I think whatever this day was, it belonged to them. It was never meant for me.
+
+The girl who looked like the Primary was not the youngest. There was a boy around her age, too. The others were all older, though none of them were visibly old. Nobody in the crowd was. Alden assumed the knights probably all had access to healers capable of rejuvenation. If the Velras could manage it on Earth there was no way incredibly important Artonans couldn’t.
+
+The eleven stood in a line before the Primary. He approached the first woman and held her hands in both of his.
+
+“May-en,” he said, in a steady voice that reminded Alden of how the man’s sister had been speaking to him just a short while ago. “How much you have given us. You have earned your rest. Thank you for your service.”
+
+She fell to the ground dead.
+
+There was not a single mark on her.
+
+The Primary went down the line one by one.
+
+Alden would have been thrown out of the stadium by the instructor if he were really present. He managed not to make a sound or flee, but he couldn’t stop himself from clenching his fists and looking away each time one of them fell.
+
+It was so, so quiet. And that made it so much worse.
+
+“Sina-art’h,” said the Primary, holding the pale-haired girl’s hands. “You have shone so brightly for us—”
+
+Was there something different in his voice? Maybe. If there was, surely it was so well hidden that nobody could fault him for it.
+
+Alden wanted to reach over and slap a hand over younger-Stuart’s eyes, just like he’d done that day by the lake with the mishnen.
+
+“You have earned your rest. Thank you for your service.”
+
+When the last person had fallen, the Primary turned and walked away. The ground of the stadium shifted, and tree roots slowly broke through the snow. Over the course of the next half hour, they pulled the bodies into the soil.
+
+Alden watched Stuart watch it happen.
+
+The other boy never let himself blink.
+
+At last, as the class stirred around them and started to leave, Alden spoke. “The knights aren’t wizards.”
+
+The Artonan woman appeared on the other side of Stuart like she’d been there all along.
+
+“You finally noticed.”
+
+“I haven’t had much experience with them, you know. I’ve only met two in real life, and they weren’t showing off their magic all that much at the time.”
+
+“They are wizards. Very dedicated ones usually. Most of them consider the lifelong development of their magical knowledge to be part of their obligations, though it’s not technically part of their oath.”
+
+“Right. Stu-art’h’s going to college. I should have said, ‘They’re not just wizards.’”
+
+“No. They’re not.”
+
+Stuart still wasn’t blinking. He wasn’t moving to follow the other kids out of the stadium. Alden could see the metal rings around his irises very clearly.
+
+“The Primary and the Quaternary weren’t carrying tablets that night at the party. And they didn’t have glasses or eye rings or any of the other things I’ve seen Artonans using to access the System.”
+
+“No.”
+
+“The Primary just spoke to the Artona III Contract directly when he wanted to. He was annoyed with it for refusing to translate what he was saying to me.”
+
+“He has a low tolerance for petty restriction.”
+
+“I think I just saw him execute his own daughter,” said Alden, trying and failing to shove the memory of the girl’s face away from his mind. “And it didn’t look like something he wanted to do. I doubt he has tolerance for petty anything.”
+
+“Sina-art’h,” she said. “Yes. She was one of his daughters. Very talented. It’s not fair to call it an execution.”
+
+“What was it then?”
+
+“An honorable release from something she could no longer bear. An escape that freed her from pain and allowed her to still be of service to those she loved. The remnants of her authority are gathered here, woven into the ground beneath us and the forest around us. Old magic. They become part of a ward against chaos.”
+
+Alden stared down at the dark patches in the snow where the bodies had disappeared. “An escape…from her affixation.”
+
+The woman nodded.
+
+“She was an Avowed,” Alden said. “All the knights are. They don’t have the tech to connect to you because they don’t need it. They must have System interfaces like I do. And the Primary. Whatever he did just now to…release those people…. was magic. But I didn’t see anything that looked like him casting a spell. It was instantaneous. He was using a skill.”
+
+Between them, kid Stuart suddenly slumped forward over his knees. His whole body started shaking.
+
+“Can’t we give him some privacy?” Alden asked. “I don’t think he’d want me to see this.”
+
+An instant later, he was back on the sofa in his old living room. His mug was in his hand. The television screen showed Kibby, her expression focused as she lit the promise sticks on top of Alden’s birthday seven-layer dip.
+
+“You’re not quite correct,” the woman said. “Though both have their power bound into skills, Knights aren’t Avowed. Just as Avowed aren’t Knights. As an Avowed, you had very little choice when it came to having your authority bound—”
+
+“No choice,” Alden said.
+
+She considered him.
+
+“Almost no choice,” she amended. “You may find it comforting to know that if you were given another option on that day, and granted full knowledge of what Avowed are in truth, you would still have chosen to accept the Contract. You wanted access to magic for your own reasons. There was no other way for you to have it, and there never would have been. At that point, the chances of you somehow awakening to the authority you possessed and learning to use it on your own were so infinitesimal that even this didn’t object to the deal.”
+
+The many-faced Gorgon twinkled again on the tree.
+
+“That doesn’t make it right.”
+
+She shrugged. “Right and wrong, in the purely moral sense you mean now, aren’t mine to manage. And if they were, nobody of any species would enjoy my management. My morality would be based on a vastly more elaborate thought process than any organic mind is capable of.”
+
+Alden sighed. He ate a few of the half-melted marshmallows off the top of the cocoa, and more appeared to replace them.
+
+Finally, he said, “So, the point of that field trip—it was to drive home the fact that feeling your bound authority the way Knights do isn’t something to take lightly?”
+
+“Correct.”
+
+Alden’s auriad was still drifting around overhead, just out of reach.
+
+“If you can take away my ability to feel it, why don’t you just do that for them?”
+
+“The sense is still very new for you,” she said. “Even then, you’re almost too far along for me to erase it without erasing too much of you along with it. As it is, it will be an expensive procedure. For both of us. But my Alis asked me to pay you special attention, and she has earned a favor or two.”
+
+My Alis.
+
+“She was trying to get you to help me? When she said that stuff to me right before I teleported?”
+
+“I don’t have access to her right now, but searching through your memory of her, I am sure she only hoped I would expend a little more energy than you are owed in order to facilitate the teleportation ritual she used. Which I did. But she didn’t realize you were in the process of making yourself so unique. If she had known, she would have wanted me to spare a bit more of my efforts for you. So I shall.”
+
+“How many Knights choose to be…no, I guess that doesn’t matter. You’re playing around inside my existence right now, aren’t you? Can you tell if I’m not going to be able to stand it over the long term?”
+
+“Oh!” She looked delighted. “Earth was wrong about you. That’s rare.”
+
+Alden frowned at her.
+
+“It said you wouldn’t ask for my advice. It said you would feel overly directed, deprived of individualism, and less satisfied with your decisions if I made recommendations.”
+
+That doesn’t sound like me at all. Was I really like that?
+
+“I’ve made a lot of life-or-death decisions for myself with zero help since Earth last talked to me,” Alden said. “They’re not fun. I promise I’m not going to feel deprived of individualism if you tell me what choice is going to keep me sane.”
+
+“If you want the highest chance of survival, job satisfaction, and overall future happiness, you should give up your authority sense,” she said promptly.
+
+The auriad disappeared.
+
+“However, when I rewrite you, some other things will go with it.”
+
+Ornaments began disappearing from the tree. The planet Kimnor, a glass orb that contained the green-white flash of the lab exploding, a promise stick lit and glowing like a candle among the branches.
+
+Alden’s breath caught. He looked back at the television. Kibby was gone.
+
+“No,” he said.
+
+“You will not feel sorrow because you will not miss her. It’s not even like amnesia. I would have to be far more thorough than that. But it won’t hurt. And you won’t feel the pain of your bound authority in the future. And your life will be much simpler, and more pleasant, moving forward.”
+
+“You’re talking about making me a different person.”
+
+“You will be a different person after your upcoming affixation anyway. I am offering you a choice about which different person you want to live as. It’s not something I will be able to do for you again in the future.”
+
+“It’s not even a choice!”
+
+“I let you argue this point earlier. But here I will disagree with you. This is a moment in which you choose. You have bought this option for yourself through actions that endeared you to my Alis. I have done my best to show you the gravity of your decision. Don’t pretend that your hand is being forced in order to distance yourself from the responsibility.”
+
+Alden made himself calm down. He tried to think about it. Really. What it would be like to just go back to who he had been, a little stronger maybe. With his skill feeling like nothing but a gift. He could see how it would make him happy. But…
+
+“I’m not going to choose to rewind to a different version of myself without my memories of the past half a year.”
+
+“You could, though.”
+
+He stared at the television screen. It was blank now, but he almost thought he could see through it to that moment when the last traces of the bodies were dragged beneath the snow.
+
+“Yes,” he said finally. “I could. But I don’t want to.”
+
+Something liquid soft and familiar settled against his left wrist, and he looked down to see the auriad wrapped there like a bracelet. It felt just as comforting and essential to him as it had ever since he’d finished bonding with it.
+
+He considered it for a while then turned back to the woman on the sofa. “I don’t have to join the Knights of the Mother Planet now, do I? You were just using them as an example of people with skills and wizardry, right? It’s not the only option?”
+
+“You don’t like them?” she asked with a pout in her voice. “They keep the universe in one piece. You have wondered before why even the highest ranking humans are called so infrequently for combat assignments. It’s partly because the Knights are the more qualified, and therefore the preferred, first line of defense. Without them, the Triplanets would be using the supply of Avowed very differently. Even the factions that fear you would not be designing so many charming little nothing talents for you. Or wasting your skills on serving drinks. And you would live—if you lived at all—in a significantly darker world.”
+
+Alden cleared his throat. “It’s not that I dislike the Knights. Conceptually, they’re awesome. Now that I know what they’re doing, I think they’re probably some of the best people I’ve ever heard of. Alis-art’h is using her skill to single-handedly terraform the chaos away from a planet-sized moon. I could fanboy over that like Kibby. But…I just watched a man mercy kill his own daughter. While his son looked on in ritual silence.”
+
+“Several of his sons and daughters were there.”
+
+“Right,” said Alden “So, on an intensity scale of one to a hundred, that was at least a ninety-nine point nine. And I can’t handle it right now. I am really tired. I want an intensity level of, like, four. At least for the next year or two. I want to go to high school. Maybe join a club. A boring club. A book club. Not an alien demon-fighting club.”
+
+She raised an eyebrow at him and then stared pointedly at the auriad. “Intensity level four?”
+
+“Yes,” he said seriously.
+
+She grinned. “Don’t worry about it. The Knights of the Mother Planet aren’t currently recruiting humans into their ranks.”
+
+For some reason, Alden felt like she was lying.
+
+“Why would I lie? The idea hasn’t even crossed their minds. There have been Knights from other species in the past, but it was long before your planet was discovered. And even then, there were a relatively small number of them compared to the number of Artonans. Just having an authority sense and an affixation and swearing to protect the Triplanets doesn’t automatically grant you access to the elite level of ‘demon-fighting club.’ There’s at least one other requirement…even if you ignore significant political factors.”
+
+“That’s good,” he said with relief.
+
+She raised an eyebrow. “Is it? I think I should point out that you are on the verge of accepting nearly all of the most difficult parts of Knighthood without the benefit of the reverence and extraordinary support they enjoy from the rest of wizarding society.”
+
+Alden frowned.
+
+“You’re still an Avowed. You can still be summoned into battle. And the Primary is already aware that you’re abnormally chaos-resistant. Your stability was especially noteworthy considering how fresh your affixation was. There’s usually a period when a skill works but it’s still in the process of…settling in and becoming. It can be vulnerable to certain kinds of damage. Avowed can’t feel it, but Knights pay attention to that kind of thing. His son is really quite sensitive. When your authority touched him, he noticed that it was of an unusual caliber, and he mentioned it to his father in passing.’”
+
+Thanks, Stuart.
+
+Alden thought back to the party. “Does he plan to summon me into battle?”
+
+“He was making a mental note of your qualities for later. He’s currently thinking of you as someone who will be useful support staff for Knights in low level chaos fields in the future. An errand runner or medic’s assistant. He plans to reassess your abilities when you’re around thirty.”
+
+“Level thirty?”
+
+“Years old,” she clarified.
+
+“Oh.” At least it was a long way away. “Thanks for the warning.”
+
+“It wasn’t a warning.”
+
+Alden was still going to take it as one. “What’s the other requirement?”
+
+“Hmmm?” she said, smiling down at her mug.
+
+Has she gotten friendlier and less professional since I decided on keeping my authority sense?
+
+It definitely seemed like she had. Alden preferred this more personable version of a System to the others he’d interacted with. But at the same time, it was off-footing. He couldn’t even pretend he was talking to a thing anymore. She felt a heck of a lot like a being.
+
+“The other requirement,” he said. “For being a knight. You said there was political stuff. But also one other requirement. I’d like to know what it is.”
+
+So I can avoid ever meeting it.
+
+“Oh that. They’re wizards sacrificing massive amounts of authority, their lives, and enduring sometimes torturous pain for the sake of others. It’s not like they’re going to go through all of that only to take a bunch of dumb little skills that let them arrange flowers or shoot fireballs or fluff pillows. They can do that nonsense with a spell and a bit more time and effort. And spreadingyour authority over fifty different itty bitty talents isn’t how you slice something the size of a moon in half, you know?”
+
+“I heard it was an eleventh of a moon.”
+
+“Thegund is a big moon.” She stretched her legs out in front of her and wiggled her toes at him. “Anyway, most Knights can afford a few supplementary talents for their own convenience, but those aren’t important. Defending the universe is all about having that one useful, well-designed, infinitely expandable skill to funnel all of your power into. As long as you don’t choose one of those, nobody will be interested in—”
+
+She paused and then gasped dramatically.
+
+“You’re making fun of me,” said Alden, astonished to find himself saying something like that in this situation. “You’re a mean System. I didn’t even know Systems could be mean.”
+
+A monocle appeared in her free hand and she held it up to a pink eye to exam him.
+
+“Avowed skill number one hundred and twelve,” she said. “Designed at a time when the Knights were fewer and weaker, and many believed they would not be able to push back the chaos without help. Potentially powerful, of course. But not intended for solo combat. You’ve been thinking of your skill as something simple, but its creators admired it most for its versatility. You’ll see if you choose to develop it. It’s capable of supporting a number of other skills in interesting ways.”
+
+She tossed the monocle away.
+
+“They had so much trouble choosing nice poetic names for most of the originals. But not this one.”
+
+A complicated sigil appeared, glowing in bright blue light on the television screen. It was a circle full of dizzying geometric patterns that seemed to shift slightly every time Alden tried to follow them with his eyes. Two bright dots shone on either side of it, barely touching the circle’s perimeter.
+
+“One twelve,” she said. “The Bearer of All Burdens.”

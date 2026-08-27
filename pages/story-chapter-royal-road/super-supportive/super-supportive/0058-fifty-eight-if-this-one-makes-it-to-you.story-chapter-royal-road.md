@@ -1,0 +1,171 @@
+---
+id: bccaa6f6-72ee-59da-9d9e-df34efb743a8
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-EIGHT: If this one makes it to you..."
+slug: 0058-fifty-eight-if-this-one-makes-it-to-you
+partOf: super-supportive
+position: 58
+ownLength: 1605
+unit: words
+publishedAt: 2023-07-30
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1294006/fifty-eight-if-this-one-makes-it-to-you"
+royalRoadId: "1294006"
+---
+
+Saying goodbye to Kibby sucked.
+
+Alden asked himself what he would want for the two of them in an absolutely perfect universe, and the answer was that he’d like for them to live together in a peaceful chaos-free cottage on Earth, with a kidnapped Instructor Gwen-lor on the premises to teach them magic every day and nothing but endless amounts of free time.
+
+He told Kibby this while they took a long walk together across the bare, chaos-free soil of Moon Thegund, leaving the dome far behind. It was almost completely private. He could still feel Alis-art’h. But she must not have been able to hear his words or his thoughts, or she’d have had a much better understanding of him than she actually did.
+
+“We would have to be excellent students if we kidnapped her, Alden,” Kibby said. “It would add a lot of pressure.”
+
+“We can handle pressure.”
+
+“Yes,” Kibby agreed. “Will you send me a message as soon as you get back to Earth?”
+
+Alden’s large breakfast was heavy in his stomach.
+
+“It might take me a while to settle in and get used to home and the Contract again,” he said finally. “Give me a few human weeks, and then I’ll send you messages through Knight Alis-art’h and pester you every day.”
+
+If she wasn’t expecting him to reach out for a while, she could relax into life here before she realized something bad had happened. She could be a child; she could grow close to Rrorro and the wizards. She could have some cushion against the news.
+
+“You have to hide the auriad under your flower shirt before we get back,” Kibby reminded him.
+
+Alden realized he’d been rubbing it again and tucked it away. His wardrobe had been reduced to a cleaned but abused-looking Hawaiian shirt and some loaned wizard pants so short they landed just below his knees. He didn’t even have a pair of shoes. He’d been going barefoot everywhere.
+
+He buttoned the top button on the shirt. “Hidden?” he asked.
+
+She nodded. “I don’t think Knight Alis-art’h would care that it’s yours.”
+
+“Do you want to tell her? I don’t mind.”
+
+“You said maybe it would be dangerous once.”
+
+“I don’t know that people will be upset. I’m just not sure.”
+
+“Then we shouldn’t say anything,” Kibby said. “I like keeping secrets with you anyway.”
+
+Alden smiled. “I like it, too. You know what I don’t like?”
+
+“What?”
+
+“The fact that you’re going to get so far ahead of me now that you’re learning magic from wizards who were chosen to be companions for a knight!”
+
+“It’s true,” Kibby said, grinning up at him. “I will exceed you in every way.”
+
+“Even if I’m the best Avowed in the universe?”
+
+“You will be the best Avowed. I will be the next Primary.”
+
+“Wow. You’re killing your hero just like that? So much ambition.”
+
+“He doesn’t have to die. He just has to become Secondary instead.”
+
+“I’m excited.” Alden reached for her hand as they turned back to the dome. “I’m going to have matching face tattoos with the Primary one day.”
+
+******************
+
+Alden got to ride in a spaceship. To a bigger spaceship.
+
+It was something so far outside his imagination that it had never even made it onto his bucket list.
+
+The small egg-shaped transport vessel that ferried them from the ground to the ship in orbit had giant windows. Alis-art’h was the only other passenger, and she quickly realized that Alden wasn’t paying attention to her at all as they rose swiftly but gently through thick yellow-gray clouds and he finally saw what had been beyond them all this time.
+
+Below him, there was the curve of the moon’s atmosphere as it fell away. And there was Kimnor—an aqua and green gas giant with striations like Jupiter’s—set against a field of black.
+
+“God,” he said in English. “It’s beautiful.”
+
+He pressed a hand to the window.
+
+He felt very small.
+
+There was a lot of time to stare, but it still wasn’t enough. When they docked with the larger ship, he tried not to be disappointed that their trip through the narrow white corridors did not take them past any viewing areas.
+
+There were a lot of wizards on board. Most of them stood out of the way and made respectful gestures to the knight as she passed. Someone ran up with a tablet to ask a question about a technical matter and got a look that made even Alden, in the strange mood he was in, feel vicarious mortification.
+
+That guy is probably going to go back to his cabin and cry, he thought, as he watched the wizard jog down the corridor.
+
+They arrived at the teleportation chamber quickly.
+
+For some reason, Alden wasn’t prepared for that.
+
+He knew he should have been. The ship was large, but it was still only a ship. Just because he was walking to what was probably his death, it didn’t mean the trip would get longer out of respect.
+
+The circular door cracked in an odd asymmetrical pattern at their approach and drew back into the walls in segments. Alis-art’h strode into the room.
+
+“Get out,” she said to the five other Artonans assembled there. “I can finish powering it up myself.”
+
+The wizards scurried away from her and past Alden without glancing back.
+
+He just stood there on the threshold, staring.
+
+It didn’t look anything like a teleportation alcove or the summonarium. The floor was covered in gray sand. The ceiling was hidden by an impenetrable darkness. Large rocks and chunks of what looked like driftwood were arranged in patterns that almost made sense…but not quite. All of the light came from a line of flames a foot wide that spiraled across the walls.
+
+The air smelled like blood.
+
+Alden didn’t know how long he stood at the threshold, watching Alis-art’h touch various objects one by one and murmur over them. But he was sure it was too long.
+
+His chest felt tight. He couldn’t quite control his breathing.
+
+The knight never told him to hurry up and step inside the room.
+
+Eventually, he did it anyway. The sand was soft under his bare feet.
+
+“Do I…stand in the center?”
+
+“You can stand wherever you like,” she said in the same steady voice she’d been using with him for hours. “The entire room is the focus of the spell.”
+
+Alden stood in the center anyway. It just seemed like the thing to do.
+
+He looked down at his hands and realized they were trembling, so he stuffed them into the pockets of his borrowed pants.
+
+Artonans are really great about pockets. They put tons of them on absolutely everything.
+
+Probably because they were always carrying so much magic junk.
+
+His left hand found the ball of putty he’d been hauling around for months, and he squeezed it. He wondered what Alis-art’h would think if she knew he was holding onto one of her nephew’s bones.
+
+He’d started to throw it away after the experiment with Kibby’s blood. Gorgon had asked him not to do the Rite again, and he couldn’t even fathom a situation in which he would want to intimately connect with Stu-art’h’s mind and soul in order to be some kind of gremlin-directed, authority-wasting wishing well.
+
+But keeping it together had been pretty hard lately, and Alden had learned to value any little thing that made him smile.
+
+Like…there was definitely something funny about being a Rabbit carrying around a lucky wizard’s foot.
+
+Macabre. But funny.
+
+“Is there anything…” Alis-art’h hesitated, then seemed to change her mind about what she wanted to say. “I will step out of the room. You will remain under my protection until the last possible moment. The teleportation spell will ————— you toward Artona I, and the Contract will take over once you arrive.”
+
+“If it works,” Alden said.
+
+“Yes.”
+
+He dug his toes into the sand. “That sounds good. Thank you for your help.”
+
+“Yes. Of course.”
+
+She turned to go. Alden felt an urge to ask her to wait. He swallowed hard and ignored it. She’d already agreed to do everything he really cared about.
+
+He didn’t have anything else to say.
+
+He just didn’t want to be alone.
+
+Alis-art’h crossed the few paces to the door and stopped there for a moment, then she suddenly spun back around and returned to join him in the center of the room.
+
+Maybe she can read minds, after all? Alden thought.
+
+She cleared her throat and looked up at him. “Before you go, let me give you a message to deliver.”
+
+He didn’t know what she meant. He was startled when she lifted her arms to cup his cheeks in both hands. She stared at him for a moment, searching his face like she was memorizing it, then she met his gaze.
+
+“Mother,” she said clearly, “if this one makes it to you, place both of your eyes upon him. He has done more for us than he had to.”
+
+She let go of Alden’s face, gave him a stiff nod, and left. The strange door shut behind her.
+
+He stood there for several seconds with nothing but the flickering shadows of the things in the room for company. Fists clenched, heart pounding, he tried one last time to control his own raging authority, to reassert the existence of the skill. To do anything and everything he could before it happened.
+
+The saving blanket of Alis-art’h’s authority vanished suddenly. Alden slammed his eyes shut. He felt pure terror.
+
+And pain.
+
+Then, he didn’t feel anything at all.

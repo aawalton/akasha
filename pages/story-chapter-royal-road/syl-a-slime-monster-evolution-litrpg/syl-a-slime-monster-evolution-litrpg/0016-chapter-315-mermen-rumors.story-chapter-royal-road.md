@@ -1,0 +1,169 @@
+---
+id: b20eace1-6656-53b3-8321-b4a589d791d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 315 : Mermen Rumors"
+slug: 0016-chapter-315-mermen-rumors
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 16
+ownLength: 2362
+unit: words
+ownProgress: 2362
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2773789/chapter-315-mermen-rumors"
+royalRoadId: "2773789"
+markedReadAt: "2026-06-29T19:42:20.136Z"
+---
+
+Our first order of business the next day was to do some more sightseeing of what Saltport had to offer. With Vee perched on my hat and hopefully under its bizarre obfuscation, we could explore to our hearts' content.
+
+Since I was Vee's legs, I allowed her to guide us, which meant we spent a lot of time around food stalls. Naturally, spending so much money suddenly would be against Sylvain's cheapskate nature, so I tried to hide it by reluctantly stocking up on food rations.
+
+Being a port, naturally, that meant the majority of it was marine life, much to Vee's delight. She'd experienced the hearty meals of the dwarves, the delectable delights of the elves, and now the bounty of the ocean. Her words, not mine.
+
+In the meantime, I seized the opportunity to explore the topic of mermen and was glad to have gathered a wide variety of opinions. If I had first taken the opinion of the first fool who talked about them, I would have thought they were similar to the elves—a secretive race of beautiful ocean folk like the world had never seen before.
+
+The following person I talked to unintentionally revealed that the previous guy was just a horndog. The old sailor spoke of them like they were boogeymen, who would lure any man of the sea to a watery grave with a siren call.
+
+I kept asking around, and the more I heard about them, the more I wanted to get my tendrils on them for quite a few reasons. Firstly, if there were an [Enchanted Fins] trait, then undoubtedly they would have it, given that their unnatural gracefulness in the water was described by many.
+
+The second reason was that these creatures could disrupt magic with their voice, apparently making them the bane of spellcasters. Considering how magic was supposed to be the most significant advantage to any normal person fighting in the water, it's no surprise they were infamous for destroying the hopes of those who encountered them.
+
+Despite everything I'd accomplished, I was ninety-nine percent sure that magic was still my biggest weakness. Disregarding Gramps smiting me or teleportation mishaps, of course. So naturally, I wanted to know if this was a trait I could steal for myself, or a skill I could potentially learn.
+
+If it were just using [Counter Magic], it wouldn't be such a widespread rumor; this appears to affect any mage. Magic isn't even my strongest ability, so I should have nothing to fear if they can break my spells.
+
+The third reason was that apparently, mermen were natural shapeshifters, something that both Vee and I were interested in. According to the information I gathered, the mermen had the torso of a human and the lower half of a sea creature, which they could shapeshift into a pair of human legs.
+
+I doubted I'd find any trait better than [Chimeric Mimicry], which was personally made by Gramps himself, but I might get a decent utility trait or skill around shapeshifting. Vee, on the other hand, was super excited, saying she might need something exactly like that when she evolves.
+
+I tried using that slip-up to glean some information from her about what to expect, but she went silent and refused to elaborate further. She was determined to leave me speechless and surprised when the time arrived.
+
+The fourth reason was their bewitching voice. I hated anything that could enslave or charm minds, and so I had immediately put them on the shitlist. Vee also vehemently agreed, as I suspected, due to the whole "mind worms" drama when we first met.
+
+Just like I had no qualms about wiping out the savage orcs and how they claimed trophies, I had put the mermen in the same category.
+
+The final reason was obviously to try to find Leon. Mermen was still our only lead on finding Unc's [Experiment] and saving him from whatever trouble he had gotten himself into.
+
+Naturally, the conclusion was that the mermen were a monstrous humanoid race with a frightening amount of intelligence. This made them a threat above orcs, goblins, or kobolds, as even though some of their leaders could be cunning, there was still an underlying savagery to them.
+
+Mermen, on the other hand, were cunning and deceptive, with the only saving grace that they rarely left their underwater kingdoms. The general opinion seemed to be to stay away from them and pray that they don't come your way when venturing out into the deeps.
+
+Overall, it was quite a fruitful day. I even managed to establish a tiny rumor that Sylvain wasn't afraid of mermen, adding to his backstory that he wanted to fight one in a duel to prove his superiority in [Water Magic].
+
+The next day, we visited the guild to see if any quests suited our needs. I didn't expect to find any bounties on mermen, given everyone's desire to avoid them, so my next best bet would be to try to find something that went into the deep ocean.
+
+We could have just gone there ourselves and blindly searched around, which might have worked out. But my hope was that if we were on a deep ocean escort or a salvage operation, then the cunning mermen might attack the expedition.
+
+When I met up with Ethan at the guild, he confirmed my suspicion.
+
+"Unfortunately, there just aren't any bounties for mermen. It's not like we actually know where they might be living," he explained. "The deep ocean is very much not the territory of any civilized species, and it's so vast and endless that we couldn't even point you in the right direction. It isn't like when a particular forest might have a monster infestation and we can point adventurers at it."
+
+"Damn, I really want to fight one and prove myself," I muttered in response.
+
+"Look, Sylvain, sometimes it's really best to not stick your hand in the hornet's nest," Ethan sighed. "However, while I can't promise you an encounter with them, there are some red zones where they sometimes appear. There are a few trade routes that go directly through them, and our salvage zones, even though on the outskirts of them, sometimes get attacked too."
+
+"Sounds just up my alley, sign me up!" I replied, barely hiding my smirk.
+
+Ethan shook his head. "Not while you're a provisional silver. I'm sorry to say this, but any captain going through or near a red zone would avoid you like the plague. You might as well have told the whole of Saltport that you have a death wish."
+
+"Bah, I've fought more dangerous things than mermen."
+
+"Maybe on land where things are on even ground, sure, but this is their home turf. You wouldn't intentionally go fight a worm in magma, now would you?"
+
+I literally did that though…
+
+Sadly, Sylvain could not reveal that. Heck, even my Syl persona couldn't mention that I had actually fought it directly in the river of molten rock.
+
+"I see your point…" I reluctantly admitted.
+
+"It might not be glamorous, but do a few simple quests. Get your feet wet and prove to Saltport that you've got your sea legs."
+
+"Fine, fine… is there anything besides brinelings? Any interesting or strange monsters?" I asked, knowing I was pushing my luck. I doubted this Leon [Experiment] was known to the humans at this point.
+
+"Strange monsters?" Ethan repeated, looking at his quest logbook. "Not that I'm aware of… Your best bet would be to take one of the patrol routes, where you can eliminate any monsters that get too close to the coast. We like to keep the shallows as monster-free as possible for the fishermen."
+
+"I guess that might be interesting. What kind of boatwork could I do?"
+
+"You could guard our supply boats to our floating outposts. If you weren't bluffing about being an aeromancer, you could speed up the deliveries."
+
+"Floating outposts?"
+
+"Effectively, they are giant boats that we've permanently anchored out in deeper waters. If they spot anything large approaching, then they contact us and an emergency quest would be posted. It's not foolproof, hence why we also have patrols closer to home. They also serve as little hubs for our exploration into deeper waters for salvage opportunities or anyone heading out to the dungeons."
+
+"A little home away from home."
+
+"Exactly. Proving yourself to one of the admirals at one of the outposts would be your best bet to get assigned to something near a red zone."
+
+"I see… I guess I'll do a transport run, see how it goes, then maybe a patrol?"
+
+"I agree with doing the transport run first. That way you can at least introduce yourself, just please don't start talking about mermen the second you get there, or you'll just be shooting yourself in the foot."
+
+"Right, right… Who knew it would be so hard to get permission to kill a monster?"
+
+"It's not just you, Sylvain, it's the entire crew on the boat you'd be risking with your attempt to play hero."
+
+I know he's right, but I miss when people just let me do whatever I wanted as Syl the elf.
+
+We chatted for a bit longer about other potential missions, but none of them really caught my eye. Searching for brineling caves was not high on my priority list. I ended up registering for outpost supply duty, wanting to start boosting Sylvain's reputation as soon as possible.
+
+When we left the guild and started heading towards the dock, Vee and I began spitballing a few other ideas that wouldn't rely on the guild.
+
+"I'm sure we could find out where one of these red zones is ourselves. Just steal a map or something from one of the captains or something," Vee suggested.
+
+"It would be better than going in blindly. But would we be a big enough target to tempt the mermen?"
+
+"What if you turned into a giant boat? You could make it look like it's made of gold."
+
+I was surprised by Vee's suggestion because it actually had some legs to stand on. Sure, it sounded absurd, but I could almost picture it working. I'd probably need to distribute my [Sub-Cores] to handle it, since I wouldn't have a profile to use with [Chimeric Mimicry] as a crutch to lean on.
+
+It could be a good trial run for my slime dungeon. I haven't really tried to create a structure out of slime.
+
+We chatted about it a bit more and eventually settled on it as our backup plan in case we get stonewalled by the guild. I'd play ball with them for now, but if they refused to allocate me to one of these dangerous missions, we would take it into our own hands.
+
+The reason we didn't jump on the idea, despite it sounding fun, was that we realized we might get spotted by the humans as well. Vee had pointed out that the humans probably have a way to identify ships, if not an outright schedule for incoming or outgoing vessels.
+
+Our slime ship needed to be big enough to tempt the mermen to attack, but if humans attacked us instead as foreign invaders or worse, then we could end up in a perilous situation.
+
+I'm somewhat glad we learned about these floating outposts before Vee conceived the slime ship idea; otherwise, we might not have considered the possibility of humans spotting us.
+
+We also considered doing the opposite. I could create some big, unknown monster and lurk around in the deep sea until a quest is created. Then I could hope to be assigned to the pursuit.
+
+"Accepting a quest to kill yourself is something else…" Vee joked.
+
+"Let's hope it doesn't come to that. I'm really hoping I just need to help with a few of these deliveries and then we can find a salvage mission."
+
+"I think once we get to the floating outpost, we should split up."
+
+I telepathically gasped. "I always dreaded that this day would come…"
+
+"And then rendezvous back at our inn room," Vee continued. I could feel her multitude of eyes judging my halfassed melodramatic performance.
+
+"Why?" I asked, dropping the performance.
+
+"Well… no offense, but after seeing this floating outpost, I kind of want to do a bit of exploring myself. If you're doing boat stuff or patrols, it's not like I can do anything but be a hat ornament, right?"
+
+"Yeah… Unless I registered you with the guild, it would be a bit weird for you to roam about. I would have suggested you could help me with some subtle magic, but people might wonder why the hydromancer's hat is shooting acid."
+
+"Exactly! And while I do love lazing around, I can only do it for so long."
+
+"Makes sense. I'd go stir crazy."
+
+"Likewise, I'm far faster at exploring now than you are now."
+
+"Since when?" I replied, unable to hide my surprise at such an absurd statement.
+
+"Sorry, Syl, now that I've got [Veil Step], I don't think it's even a competition anymore. And unlike [Warp], I can't bring you along."
+
+"I think my pride just took a critical hit…" I groaned.
+
+"Hilarious," Vee snorted. "Anyway, I figured while you're doing adventurer things, I'll try my luck in seeing if I can trigger anything with the quest. I've got the coordinates of our room saved, so I can always return home safe and sound."
+
+Everything she said made perfect logical sense, and I knew it would be selfish of me to expect her to just hang around doing nothing all day. Still… I couldn't help but feel like I'd be missing a part of me with Vee gone.
+
+"Jeez, why are you sending me so many guilty emotions over our bond? I'm not some baby bird leaving the nest, I'm a big ass grown spider!"
+
+I sniffled. "Just promise you'll write home…"
+
+"We will literally see each other tonight, you silly slime!"
+
+I giggled and agreed to her idea. It would be a more efficient use of her time, and I didn't want Vee to feel trapped because of our connection.

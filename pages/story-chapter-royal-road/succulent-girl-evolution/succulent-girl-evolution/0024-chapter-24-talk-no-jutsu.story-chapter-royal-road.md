@@ -1,0 +1,123 @@
+---
+id: e2ea89a0-5a77-5fb0-86f7-87069ceba823
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Talk no jutsu"
+slug: 0024-chapter-24-talk-no-jutsu
+partOf: succulent-girl-evolution
+position: 24
+ownLength: 2102
+unit: words
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2610185/chapter-24-talk-no-jutsu"
+royalRoadId: "2610185"
+---
+
+The stark iciness of the water startled Bubbles out of her fugue. Instinctively, she struggled for the surface, though it didn’t help much; her buoyancy was already lifting her through the water.
+
+“What happened?” She asked as soon as she broke the surface, dismayed.
+
+“You were… working through some things,” Miss Magpie said cautiously. She was peeking out from behind one of Link’s legs; he was standing planted with all four legs spread wide, his head lowered, watching her intensely. Perhaps he was the one who had tossed her into the water. “Are you all right?”
+
+“Yes,” she said, embarrassed. She swam towards the water’s edge, glad that she wasn’t as graceful in the water as Miss Fish; she appreciated having the extra time to compose herself.
+
+She honestly didn’t know what came over her. She had never felt such a… fiery feeling before. She had experienced plenty of terror before. She was no stranger to mild annoyance, especially when the animals in the garden kept stealing fruits before Master could have any.
+
+She knew joy, calm, peace, and contentment. Confusion. Sadness. Hurt.
+
+But she never, ever, felt like she wanted to knowingly hurt others. Until just now.
+
+What was that? She demanded. Did you feel that, too?
+
+[I felt it,] Rock said warily. [You seem to have just discovered rage. It’s not surprising; you have gone through many stressful situations lately—]
+
+“Have you calmed down?” Link asked as he helped Bubbles out of the water with a paw.
+
+“Yes,” Bubbles repeated, shaken. Rage. She didn’t like it—it made it hard to think, hard to be aware of what was going on around her. At least with terror, even though the intensity of the feeling was equal to that of rage, she had a heightened awareness of what was going on. And when she was scared, she could still hear things; with rage, though, she hadn’t even noticed Link and Miss Magpie talking to her, if what Rock said to her was true.
+
+“As I was saying,” Miss Magpie said carefully, watching Bubbles closely, “the only way to guarantee the Remraf Estate’s safety is if you return and defend it. As the Guardian.”
+
+“But—I’m not qualified!” Bubbles protested. She backtracked. “I mean, I am Rock’s Guardian, but—”
+
+[Unfortunately, we do not have the power to fight back,] Rock said grimly. [I am a mana mineral, it is true, but I have not had the time to establish my network or jurisdiction. So even if we returned, we will be no more adequate at defending the territory than during that first battle.]
+
+Miss Magpie gazed at them, as if not quite able to believe their words. “But you have grown—significantly, in the past three days. Much faster than during that first month when we expanded your diet. How long will it take for you to become more powerful? You will be consuming copious amounts of plant matter starting tomorrow. We can buy you time, we just cannot defend the garden by ourselves.”
+
+[It is more complicated than you imagine, not just about how much Bubbles feeds,] Rock said, clearly getting flustered. [As of now, the only way I can reliably acquire mana is through Bubbles—the longer she lives, the longer we are entwined, the more efficient the mana collection is. We can Leech mana from the artifacts humans use, but that is a less reliable method of gathering mana.
+
+In addition to mana collection, Bubbles has a limited number of abilities at the moment, and though she can improve the abilities she currently has, adopting new abilities is—a trade secret, but perhaps the most difficult part in becoming stronger,] he finished forlornly.
+
+“Help me understand,” Link started, laying onto the ground with a thump. “When my team entered the Estate three days ago, all the plants, insects, and birds attacking us… that was not while under your command, Mineral?”
+
+[Unfortunately not. The efforts were largely coordinated by the magpies.]
+
+Link growled thoughtfully. “It really fooled me.”
+
+“Thank you,” Miss Magpie said graciously, pleased by the compliment. “That was the intention. When I first met Bubbles, she was walking around oddly and I thought it made the most sense to build her image as a terrifying forest monster. I never expected for her to truly be a Forest Guardian!”
+
+[As I mentioned earlier, the Forest technically is not under our jurisdiction,] Rock pointed out.
+
+“This is true.” Miss Magpie turned back to Rock and Bubbles, her good humor gone. “Well? What is your plan? I thought you wanted to protect the garden. But now you are telling me you are unable to?”
+
+Bubbles squirmed under Miss Magpie’s harsh gaze, unsure what to say. “I do want to protect the garden… but I don’t have the ability to…”
+
+Miss Magpie stared, the harshness slowly bleeding out as she saw how miserable Bubbles was at the thought of not being able to defend her home. Her stare turned into a disappointed one, which in a way… was almost worse than her anger. “That… is unfortunate. I suppose that means the Prime Family has incentive to help the Water Guardian recover her lands, then. Given that we may have to evacuate the estate…”
+
+Bubbles flinched, but she didn’t have anything else to say.
+
+Miss Magpie was right. She had already warned her in the beginning that the magpies would only assist in the garden’s defense in exchange for helping them make good on their retribution against the panther, but wouldn’t “win” the war for them. They had also negotiated settling in the garden and helping to care for it after, but that was contingent on how defending the estate went. When it came to protecting their home, the magpies could help, but weren’t the backbone of the defenses.
+
+Bubbles didn’t know what to do.
+
+“There is no point in thinking about this at the moment,” Link said. “We have more pressing problems to worry about. I suggest we get what rest we can tonight… we have a long day tomorrow.”
+
+“Of course, you are very right,” Miss Magpie said. She nestled herself against the wall, turning her body away from Bubbles and tucking her head under her wing. “Good night, everyone.”
+
+Link sniffed Bubbles briefly, as if making sure she was all right, before he headed to his own corner.
+
+Tonight was the first night Bubbles spent alone.
+
+~ ~ ~ ~ ~
+
+The next morning, bright and early (though Bubbles felt heavy and dismal), Miss Magpie flew off through the opening in the cave. Link monitored her progress with his keen ears, and after he confirmed that she had successfully evaded the spurts from the wisteria vines, Miss Fish collected Link and Bubbles and brought them back out to the pond. There was already a small flock of thrushes gathered at the edge of the pond, twitchy creatures who huddled together as they eyed the wisteria flowers looming over them.
+
+“I already dispensed the herbicide in this vicinity for today,” Miss Fish told them. “Unfortunately, they seem to be recovering against the effects of the herbicide faster and faster, which is how they were able to attack you last night…”
+
+“They are growing immunity!” one small bird chirped at them. Bubbles admired the blue on its wings.
+
+“Indeed they are,” Miss Fish said regretfully. “I think, however, it would be helpful if you were able to begin cutting vines away from the roots… and dig them up? You can leave them here for me, and I will dispose of them. I expect I can use them to refine my herbicides and other pills… Perhaps I can reformulate the poison pill I regurgitated so that it will be more effective…”
+
+Miss Fish muttered to herself for a moment before the birds began chirping for her attention, and then she shook her head furiously to clear her mind before turning to Bubbles. “While Sir Link is working on separating the vines from the roots, the birds will begin dismantling the vines and bring them to you to dispose of. Will you be able to keep up?”
+
+Fern saluted proudly, and Bubbles translated for her: “Of course! Fern is excited to try something new and she looks forward to tasting all the different colors.”
+
+Miss Fish gave her a watery smile. “Thank you. I will check in periodically to bring some more herbicide to replenish the stock, should you and the birds need it… be on the alert, and let’s keep safe until the magpies arrive.”
+
+At the break, everyone went off to do their assigned duties: Bubbles planted herself near the edge of the pond so that she had easy access to water; the birds began ripping down clusters of flowers and dropping them into Fern’s eager maw; and Link began tearing through the slender green vines that were growing out of the ground with a combination of his sharp claws and fangs.
+
+Bubbles’s job was undoubtedly the easiest. All she had to do was sit there and wait for the birds to feed her. Fern was an important contributor, of course. She was gorging the flowers with gusto, easily keeping pace with what the small birds were bringing her; it seemed like the delicate flowers dissolved very easily in the digestive acid, and contained a surprising amount of nutrition for how dainty they were.
+
+Rock quickly went to work directing the abundant influx of energy into various aspects of Bubbles’s growth, focusing on things that he didn’t explicitly track for her, but told her was important in order to increase her survivability: less about her size, and more about improving her robustness. Her natural leaves became more hardy and sturdy, taking on a darker green hue, and he shored up the graft locations for Fern and Cuddles; her roots, which had primarily consisted of several thin strands of loose, fibrous roots twirled together, thickened and matured, which incidentally also meant she became more efficient at digging into the earth and soaking up water, which synergized well with slaking Fern’s thirst as she kept Digesting.
+
+Eventually, they cleared out a good portion of the vegetation around the pond, allowing the late afternoon sun to stream through the branches that had been previously choked out by the wisteria clusters. Link made his way over to Bubbles, panting heavily.
+
+“You did well!”
+
+“Thank you,” he said after a long drink at the pond. He flopped onto the ground beside her, his tongue continuing to hang out. “I pray the magpies are able to gather reinforcements. This is hard work, and there is much of it.”
+
+“But you accomplished a lot!” Bubbles looked at all the ground he covered—and he really did clear a lot of the area. Deep holes peppered the ground around the trees and dried bushes, marking areas where he had dug up the seeds that had taken root in the earth.
+
+The churned earth made it extremely clear to Bubbles just how little Bubbles had contributed to the effort so far. Link had managed to pull up all of the root systems around the pond, to Miss Fish’s pleasure; the vines remained on the trees, but according to Miss Fish, they were less of a concern once they were severed from the roots; once the small critters came back, they could gnaw the vines and any new growth off over time before they sprouted new roots.
+
+The vines had been completely stripped of the flower clusters, thanks to the thrushes’ tireless work. Even the smaller tendrils had been pulled off and fed to Fern; with Link and the thrushes working in tandem, they had managed to make a visible difference to the area.
+
+And what did Bubbles do to help?
+
+If she had Link’s strength, she could have pulled roots alongside him. Or at least helped sever the growth from the root. But no, all she could do was sit by the water.
+
+This was why her Master’s beloved garden was going to fall, razed to the ground by the ruthless humans. Because she didn’t have any special powers to do anything to protect everyone.
+
+She had managed to scare the humans off because Rock helped her, granting her the ability to move.
+
+The next group of humans, better equipped to deal with a “monster” in the garden, had been wary of her because Miss Magpie had orchestrated the illusion that all the plants and bugs in the garden were working under her direction. But even with the magpies’ extensive support, she had still gotten captured.
+
+All because she didn’t have anything of worth to offer anybody.

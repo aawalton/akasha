@@ -1,0 +1,431 @@
+---
+id: cd80e8df-8e7b-599b-bd2a-723c9b12a2ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 202: Core of the Matter."
+slug: 0127-chapter-202-core-of-the-matter
+partOf: the-calamitous-bob-stubbed
+position: 127
+ownLength: 5807
+unit: words
+ownProgress: 5807
+publishedAt: 2025-04-18
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2212118/chapter-202-core-of-the-matter"
+royalRoadId: "2212118"
+markedReadAt: "2026-06-29T21:19:11.279Z"
+---
+
+“I could just stay in my room until it’s time to depart,” Viv told herself. “I really could.”
+
+Really really. Nothing compelled her to do anything. The core operation was scheduled for later today, if you could call it an ‘operation’ or even a schedule. Rakan was getting ready thanks to a group of water witches who’d escaped from Halluria. All was well.
+
+Nothing could force her into an adventure and — oh, who was she kidding? This place reeked of potential. Who was this mysterious figure Lana thought she recognized? Why was this place falling apart when it was under the protection of a monstrously powerful mage with clear benevolent tendencies? Why even settle here, so far off the coast? Gods, even getting seaweed here ought to be super hard considering how far the ground had to be. Seaweed grew on the ground, right? She wasn’t sure.
+
+“I am curious. Curious and bored.”
+
+What a terribly dangerous combination. It didn’t help that Sidjin had decided to stay on the ship just in case. That bastard probably had heated water for his bath as well. The water in here was tepid. Also, her room was so damn small and she was pretty sure it belonged to someone. Too many signs of stuff that had been removed in a hurry. It also smelled faintly of perfume.
+
+“Ok, we’re going,” she told nobody in particular.
+
+Viv stepped out of her room, making for Lana’s den and ignoring the glare of the local blade master who had apparently decided to camp at her doorway.
+
+She stopped in front of him. He glared, grayish features twisted with a deliberate attempt to look annoyed. He wasn’t really good at it. Viv had met plenty of people who could appear both polite and really condescending. It was a skill he hadn’t yet mastered.
+
+“What’s your name anyway?”
+
+He took a deep breath.
+
+“My name matters not to you, for I find you — bla bla bla”
+
+Viv tuned him out in favor of checking her surroundings. The Azure Lady’s presence was overwhelming around here, to the point that Viv wondered if the woman was at all constrained to her body. Maybe it was advanced elemental mage shenanigans?
+
+“But you come here and expect all of your wishes to be fulfilled! Do you not realize —”
+
+Well it looked like he was going to be at it for some time.
+
+“I have been nothing but respectful,” she corrected.
+
+“You didn’t even announce your coming!”
+
+“I told you, Helock’s authority considers me a criminal.”
+
+“You could have sent a messenger.”
+
+“How would I have known without getting in touch with your office? Anyway, if you think the Azure Lady didn’t accept my presence, you are mistaken. She felt me coming from leagues away, yet she didn’t stop me. I also stayed in my ship until I was invited in. If she accepts me, why won’t you? Or do you doubt her judgment?”
+
+This was obviously a sore point.
+
+“How dare you imply I would question her? The Azure Lady’s mind is clear and sharp like a diamond!”
+
+“Then perhaps you should accept her decision.”
+
+That shut him up for a couple of blessed seconds, which Viv used to go on the offensive. She could have been nicer, but she was also out of patience.
+
+“Look, I have shown deference to the Azure Lady and to you by asking your name. Would you at least consent to being cordial while we are here?”
+
+He deflated. Gods, he was kind of naive and innocent, in the way very honest people can be.
+
+“My name is Fantos Exile,” he finally blurted.
+
+Viv decided to address the elephant in the room since he clearly expected it.
+
+“Is Exile your family name, or?”
+
+“It is now. Many of us are exiles. More so, recently.”
+
+He blushed, embarrassed as if she had let on a secret.
+
+“Can I call you Fantos?”
+
+“Yes!”
+
+“Right. Fantos. Since we are here, I would like to visit the palace of the Azure lady together with my friend Lana. It’s… very impressive.”
+
+“The Azure Lady’s power is unmatched!”
+
+Viv nodded. Because she needed to butter him up to make him less insufferable.
+
+“Of course, I can show you around…” he added, eyes narrowing.
+
+“No need to be suspicious. I’m bored, and a pretty good spellcaster myself. Shall we?”
+
+It turned out that Lana was more than eager to visit the floating island. She hadn’t had her interview with the Azure Lady yet. Stress was making her go crazy. Fantos led them towards one of the water tendrils linking the smaller islands together. The more he spoke and the more excited he grew, though he still cast suspicious glances at Viv every five seconds in a way that irked her.
+
+“This island is called the haven. Most of us live here," he said.
+
+Too many people clogged the narrow stone alleyways. What had started as a stone settlement had grown through the addition of log houses with a strange shape — Viv was pretty sure they were made out of ship planks. Other stone structures showed the ochre of the nearby Hallurian wastes, all consorting to give the place a mismatched, completely nonsensical look. She passed a group of bored children being taught basic writing by a mage shaping water as letters. The poor teacher completely lost the children’s attention when Viv walked by.
+
+Fantos kept explaining things too fast, an embarrassed host caught in a dirty house. Viv politely accepted the explanations on which specific group built which house and when. Now that she was paying attention, it was true that the island’s population was pretty eclectic. Beyond the fact most were at least half decent mages, they had little in common. There were ashen-skinned Shadowlanders, northerners, Hallurian, even a couple of Baranese. It was all pretty interesting.
+
+“Are you interested in anything specific?” he finally asked.
+
+“I would like to know how you fish,” she replied.
+
+“Oh yes, the Azure Lady has blessed us with powerful magic… and an ingenious system. Let me show you.”
+
+Viv forced herself to use the water tendril transportation, though she would have very much preferred to fly instead. It wasn’t a good time to stick out more. Every pair of eyes on this overcrowded place followed her with a mix of terror and curiosity that pressed against her soul like a stranger in a crowded bus. She could almost feel their breath on her neck. One bit of good news was that people here appeared well-fed and free, which was always good. They were just having to do a lot with very little.
+
+Fantos led them to a distant section of the compound, far from other structures. It consisted of a smattering of wood sheds surrounding a large disc of churning waters. While the surface was as smooth as a mirror everywhere else, here, they bubbled and moved in a more natural manner. An old shadowlander directed a group of younger people with crisp orders. She didn’t understand what he said, but when his keen eyes found them, he addressed them in northerner.
+
+“And you must be the visitors who have our community in an uproar? Are you here to see the farm?”
+
+“A farm? Yes, I am here to ask about fish.”
+
+“Then I’m your man. Harbormaster Kif is my name. I oversee the fishing, fish farming, seaweed farming, shellfish farming, and recycling here. Didn’t think some fancy mage would be interested.”
+
+“You are doing a lot with very little,” Viv frankly said.
+
+“That we are!”
+
+He rolled his eyes at Fantos’ accusatory glare.
+
+“Oh, enough. The lady has eyes, no?”
+
+Just then, a young woman’s head pierced the water. She swam towards the platform they were standing on, speaking a few words as she approached.
+
+“Ah, she’s telling me it’s starting soon. You’re right on time for the fishing!”
+
+“Eh?”
+
+“Well, you see, there isn’t much fish to be had here on account of being almost on top of the abyss. The floor is really, really far away, yes? We still get the occasional weird creature from the depth and they tend to be tasty. We also move. The Azure lady carries us to and fro.”
+
+“Why not get closer to the coast, then?” Viv asked.
+
+This time, it was Kif’s turn to be a bit embarrassed.
+
+“We are here at the Azure Lady’s sufferance, milady. She meditates on the abyss and the entities that live there. It is not our place to tell her where to live.”
+
+“I see. So how do you feed yourselves?”
+
+“We have stone beds for suspended forests under our feet! We grow seaweed on top and shellfish on the side! Elevation is maintained thanks to magical ballasts,” he said, not a little proud.
+
+“Wow.”
+
+“We had to work hard to design it. There are some small fish farms as well. For compost, we use fish remains and… human excrements.”
+
+He waited for Viv’s reaction. She felt obligated to comment.
+
+“It makes a lot of sense. Are you slowly building up… a mass of biological matter?”
+
+“Yes! Absolutely, but not fast enough… Oh, it’s starting!”
+
+The water’s bubbling turned into a boil. Viv felt something coming, a massive surge of mana as powerful as some of the strongest arrays she’d seen. Fear chilled her spine but her instincts were silent, and nobody else looked worried so she relented.
+
+The circle turned into a geyser. It just happened like that. One moment, it was placid and the next, Viv was facing a wall of white. Droplets wetted her face. By her side Kif was smiling.
+
+“Impressive, isn’t it?”
+
+“I’m more impressed by the fact that the rest of the palace remains completely unaffected.”
+
+“This is the sort of control centuries of practice can bring! Not that… I can lecture you on magic, milady. Obviously.”
+
+Viv waved his embarrassment away. The geyser stopped as abruptly as it had started, and a good ten seconds later, the fish fell down. Viv had to admit that a rain of fish was up there in the list of weird magical shit she’d been subjected to on this damn planet. Viv noticed some tentacled things and some really weird shit that looked like badly folded origami. None of those were very large though, so she assumed the Azure Lady filtered what went up. The men and women around Kif used basic manipulation spells and a couple of metal poles to drag the poor fish to the shore before killing them. The creatures barely offered any resistance. That tended to happen when one fell for long enough to reach near terminal velocity.
+
+“A decent haul!”
+
+“Don’t you ever get anything bigger?”
+
+“The Azure Lady no longer brings those up since the accident. She is so strong that sometimes, she forgets we are not.”
+
+He smiled bitterly.
+
+“Do not speak ill of the lady!” Fantos warned, but Kif remained unimpressed.
+
+“My nephew died that day. I will speak of that mistake if I deem it necessary,” he told the younger man.
+
+There was a moment of silence while tension remained between the two. Viv saw it as an opening for the questions she was waiting to ask herself. Clearly, Kif wasn’t caught in hero worship. He might be the source of information she’d been waiting for.
+
+“There’s a lot of people here. Is that recent?”
+
+“Yes,” Kif said, “Well, not too recent. ‘Bout three seasons since the last ship came. She’s been turned into two houses now.”
+
+“You speak with the outlanders too much!”
+
+“And you think you speak for the lady,” Kif retorted.
+
+They argued ferociously in their tongue while Viv waited. Meanwhile, Lana was busy checking the various enchantments and making notes. Eventually, Viv grew a bit tired of the fussy blade master.
+
+“Excuse me, Fantos.”
+
+“What?”
+
+“Do not take that tone with me. It feels to me that you are very protective of your benefactor, the Azure Lady. You have built something wonderful here, but it is quite clear you are under significant pressure. Perhaps I can help with —”
+
+“We don’t need help from some foreigner upstart!” Fantos roared in her face, spittle and everything.
+
+Rude.
+
+He planted his finger on her sternum, just above the core.
+
+The violation felt like a slap. It was all Viv could do not to dust him right here and now.
+
+“You’re going to return to your —”
+
+Viv grabbed her soul, caught the part that others could feel and wielded it like a scalpel. She directed it at Fantos, and only at Fantos. The air stilled as she shoved the full horror of everything she’d inflicted upon others into the mind of the daring little shit.
+
+[Aspect of the Paragon]
+
+He froze. She enunciated her answer with very crisp, very slow syllables because she was this close to losing her patience.
+
+“Out of respect for my host, I will forgive your transgression. Just remember that the laws of hospitality protect you as much as they protect me. If you touch me again, you will lose a limb.”
+
+She released him. He staggered back with a look of shock. Damn pre-internet civilization meant they hadn’t heard about her out here, or at least not yet. Some people were taking liberties, and they were doing so with the well-dressed outlander lady with the ship, and the elemental eyes. It was as if the lack of information made people delusional about their chances of success. Maybe that was the case?
+
+“Go away, boy. You’re not protecting anybody. You can’t hide with words what she sees with her eyes.”
+
+Fantos grumbled. For a moment, Viv wondered if he was going to try something. Fortunately, he managed to calm himself down into a sulky retreat.
+
+“Forgive him. He means well, but his pride is all he has left. He would rather starve than ask for help. Young ones…”
+
+“I know the feeling well,” said Viv, the retired combat medic.
+
+“As to the difficulties we are facing… What do you know about the Shadow Lands?”
+
+Viv got the feeling he really wanted to tell her about the damn Shadow Lands, and she had no interest in interfering. News from that place was rare, its people never seen on Param. Lady Azar would never forgive her if she let precious information like this slip through her fingers.
+
+“I know it was a flourishing nation devastated in a catastrophe and a civil war.”
+
+From the man’s face, she could tell it wasn’t the right answer.
+
+“Oh, stranger, you butcher so much history with those simple words. My heart wilts to hear them. Shall I tell you about it?”
+
+The fishermen all worked with the kind of pretense focus that she associated with amateur eavesdroppers. She was definitely in for a show.
+
+“I would like to hear your tale, old man.”
+
+“The Shadow Lands are a very old civilization. I am told you are bringing back the Old Empire from the graves of history. The Shadow Lands flourished at the same time, as well, but it fell earlier, and because of the betrayal of its favored son. Have you seen the murals near the palace’s entrance?”
+
+“Yes.”
+
+“Imagine that,” he said, eyes dreamy. “Imagine an archipelago. Imagine every island a jewel on the ocean’s necklace. Imagine a proud people of seafarers trading with Vizim as they were but infants. Imagine the Harrakan Empire at the height of its power, proud, hiding its fleets for fear of being smashed to smithereens. The Shadow Lands were often called the Shaded Lands then, because lush green trees hid its people from the sun. Our skin was tan, or pink, not the gray it is now.  It was a place of plenty, of much wealth, prestige, strength. Plenty of wondrous magic. Plenty of heroes! Plenty of villains too…”
+
+Kif seemed to be pulled back to reality then. He gave Viv a wary glance, but she was just as absorbed as he was.
+
+“My grandfather was a storyteller. He used to tell me tales of those times and when he did, I could… I could smell the heavy scent of wet forests. I could feel a kind sun filtered by canopies. The taste of fresh fruit on my lips. Peace… I am sorry for growing sentimental.”
+
+“Please continue,” Lana whispered.
+
+She had abandoned her study of enchantments. Her notebook lay discarded on a railing. Meanwhile, the fishermen and women worked slowly for those who worked at all. Kif chuckled. He hesitated, but his longing got the better of him.
+
+“The story starts in Korrim, the Shaded Land’s most powerful city. Once, a council ruled the archipelago. Elders arbitrated disputes to stop my people from eating at themselves. Wars were few and they were codified. Honor wars, we called them. Only soldiers would participate, champions from every clan of a city. Those who lost were often offered mercy. The founding of the Korrimian League ushered in a golden age — although the opposing cities might have disagreed. It was then that the most favored son of Korrim came of age. Now, he is known as Kor the Baleful, but at that time, he was Kor the Honeyed-Tongue. Kor the Bright Child. Even just Friend Kor. It was said that he could sway men and women off their feet, and that once you had his attention, you felt like the most important person under the eyes of the gods. He would leave on expeditions with an army and return with two. He would turn enemies into allies, wars into marriages, and once he truly took to the field, none could match his fury.”
+
+Lana gave Viv a very long side glance. Viv resented that. None of her own followers wanted any attention. In fact, most of them wanted to be left alone unless it was war or they needed something from her! What unfair accusations.
+
+“Kor was so popular that when he offered the Korrimian Council of Elders to unite the islands under their rule, they offered him the command of all the troops at their disposal. For a while, the League trampled all opposition. They won every battle, bringing back much loot, prisoners, and beautiful princesses to adorn the league’s many harems. But it was not enough. It was never enough… Kor proposed that the League must take Vizim, for they, too, were a sea-faring people. They were misguided cousins who needed to be brought back into the fold. The scattered ports of Vizim allied with the remaining cities and those who, under the yoke of the league, refused the fate of slaves. It was a long war and there were not that many victories, for the survivors had learned to fight without honor.
+
+Kor’s star still shone the brightest, yet he was troubled. Now some of his people no longer understood his vision of the future. Their dreams were not his dreams, and that was something he could not understand, and the longer the war drew, and the more fractures spread across the league. Kor disobeyed the council for he could do no wrong and commit no mistakes, and the more he disobeyed, the more he felt that he knew better than them. Any failure was their fault, any success, his. Once, Kor won a great victory by sacrificing Shahira the Swift. He rejoiced, but Shahira’s tribe wept for their daughter, and their other children whose bodies they could not even bury. Kor grew angry when the tribe left the league, for had he not brought everyone triumph? Was a sacrifice not a necessity of war? Bitter resentment filled Kor’s heart once those he had used as mere tools rebelled against their role. At the same time, his most ardent supporters resorted to more and more drastic acts for the glory of Kor was the glory of Korrim. They were one and the same. To turn against one was to betray the other, and the penalty for betrayal was death. Even the elders were afraid. Elders! Imagine that!”
+
+By now, the fish was safely stacked, and the workers had gathered in a circle around the weeping figure of Kif, his eyes now vacant as he remembered a memory of a memory, what his people had lost, what they had forgotten they’d lost but still felt in their heart.
+
+“Now Kor was no longer Friend Kor. If people were loyal, then they ought to sacrifice everything to his cause. Anything else was a betrayal of the city, for he was the city, and he loved it, and the people were like his children. In his madness, Kor wreaked more destruction than any dark god had managed in centuries for he could not understand that others may not obey and love him.
+
+Eventually, one of the Elders gathered enough courage to oppose him. History has forgotten his name. We only remember that he was nicknamed the Stone. Some said he was Kor’s lover. Or his best captain. Or his mentor. All we know is that he rose against the tyranny of the Brightest Child and when he did so, he did unto his followers what they had done unto rebellious clans, and that the streets of Korrim ran with the blood of entire families. The purge was sudden, brutal, and it left Kor in a rage. Now, he was no longer the head of the League. Now, he was the one cornered, but Kor was crafty, and his followers were many for he had lost none of his charm.
+
+For three years, three exhausting years, the two sides fought without mercy and without rules. It was a dark time for the Shaded Lands but still some hoped they would bring it to an end, a definitive end, for Kor could not live while Korrim did, and Korrim could not rest while Kor drew breath. The Stone finally managed to lead his side to victory through a series of decisive naval battles which left Kor trapped on the archipelago’s largest island: Old Red Light.”
+
+Kif lifted both hands to the skies, voice loud and tremulous.
+
+“Oh, Kor, oh, you monster, you hero, you villain, you madman! When Man braved the seas with their first ships, Old Red Light guided them in the darkest of nights, for the mountain was tall, and its maw ever bled the blood of the earth! Plumes of smoke drifted up even in the sunniest, windiest of days! Oh, Kor, you madman, you monster, we curse you. We curse you! We curse you a thousand times, for on the verge of defeat, Kor climbed the cliffs of Old Red Light. Messengers were sent back to Korrim to speak of the Stone’s triumph, for all expected the Bright Child to throw himself into the fire. He did not. Oh, Stone, you should have rushed after the madman and plunged an obsidian blade in his back heart. You should have tossed his corpse down the glassy cliffs, naked, and without honor. You should have left his broken body for the carrion eaters to feast on. He deserved no better! But you did not, and your destiny was ended. On the smoldering edge of the crater, Kor and his followers committed an unspeakable ritual. On that day, that fateful day, the Old Red Light awoke. It awoke and all of the world felt its wrath. It is said that in Harrak, the skies cried ash, and even the blue roses of the Imperial Ziggurat grew a coat of gray. Curse Kor. Curse his soul a thousand times, for he stirred the volcano from its slumber.”
+
+Kif’s voice broke. His gaze grew distant, as if remembering the smell of sulfur.
+
+“The Shaded Lands became the Shadow Lands. Old Red Light destroyed the archipelago. Waves as high as mountains drowned cities, leaving nothing but rubble and death in their wake. Entire forests lost all of their leaves, and then the fire turned the naked trunks into coal. The few survivors lost the sun. Those who could sailed to Korrim because due to a twist of fate, that city was the furthest off from the disaster, the only one that survived. The Azure Lady was just a mage then. She lived through this. Like many others, she fled, but the disaster hounded us in our very blood. The children of the faded land would be born with skin like the ash of Old Red Light forever more. Even today, many of the islands are dusty hells scoured by raiding tribes eking out a living from scarce sources of fresh water. Only Korrim survived, and even then as a shadow of its former self. It is a den of excess and cruelty, the face of a strong body torn apart by disaster, one that has healed crooked and painful. Perhaps one day it will recover, but that day has not yet arrived. No, it has not…”
+
+Silence hung for a while. Curiously, Viv could almost smell dry, dusty air though they were still in the middle of the sea.
+
+“Enough of this. Get the fish to the kitchen, children.”
+
+The workers made their way out in silence, leaving Viv and Lana alone with the old man. He walked around the platform to check the enchantments.
+
+“I used to be the harbor master in Korrim. It was up to me to make sure the ships and their contents were safe so the city’s wealthy could sate their appetites, but I left because the city’s corruption was too much. The Azure Lady offered me shelter. She has offered many people shelter. Her heart remains good after all those years. Perhaps a little too good…”
+
+He looked ashamed to have said those words.
+
+“Your palace is overcrowded,” Viv stated.
+
+“That it is, that it is. There is a king in Korrim now, so much has changed. He has tried to bring hope to a doomed land, but the people are not interested in making things better. They do not even believe it is possible, so he brought order instead. That, too, the survivors do not understand. For them, order means a pecking order. For him, order means rules that everyone must respect. The walls of the city reek from the hanged corpses that adorn it. He has been very indiscriminate, but the news has come recently that he has succeeded where even Kor failed.”
+
+“What do you mean?” Lana asked.
+
+“He has united the Shadow Lands under one rule. One people, for better and for worse.”
+
+“Wait, are you telling me someone just united one of the three great land masses?”
+
+“Yes. You should know him too, Viviane of Harrak. After all, are you not also an outlander?”
+
+A dark realization gripped Viv’s spine in an icy clutch.
+
+“What did you say his name was?” she asked.
+
+“Oleander. The hero.”
+
+***
+
+Oleander. He and the powerful mage Crest were the first to visit the Harrakan capital since the disaster. He had left the isolation circle Viv had used not to die of mana poisoning. She had heard about him off and on for ages, but now he was like a legend returning from the kingdom of books and back into the world of politics, and not in a good way. Mass executions never bode well. A brutal leader at the head of a sea-faring civilization was even worse. Try to trade with them and next thing you know, they’ve invaded half of the world, stolen their spices, and then had the gall to never even use them in their own damn food.
+
+He had to be so damn powerful by now. Outlanders grew more quickly. They also came for reasons. Some of those reasons were idiot fucking gods, but others were skill, or fate, or their own power. Oleander visited Harrak almost a hundred years before. It meant he had a century over Viv in terms of development. Even if he were not progressing really fast, he had taken over an entire fucking continent while being a stranger there. Viv could go toe to toe with avatars and dragons. What was this fucker capable of now? Not to mention, he had Crest, and probably also a retinue. Damn.
+
+He probably packed a punch.
+
+His and Kor’s story made Viv realize why history and technology were so slow to develop here. It wasn’t just that people studied magic more readily than natural science, though that was a major part of it. It was also that at least two major civilizations had been virtually wiped out because of magic. Mana gave rulers insane individual power, and longevity as well. Even the most abject fucker could only actively harm people on Earth for sixty years or so. Here, they could keep going for hundreds of years. Then there were the powerful mages and their rituals. It was like distributing nuclear weapons to random individuals, and that was barely an exaggeration.
+
+Immense individual power gave people immense capacity for evil. With enough casters around, the probability that one would pull volcano-level or deadland-level bullshit approached 1. It wasn’t just that humans were built to be assholes, it was also that everyone had their limits. What would have happened if someone managed to kill Arthur to spite her? What if she lost people again and again to enemies who hid behind treaties? What would she do if she were pushed beyond her limit?
+
+A crater.
+
+A crater, or… She looked down, a black flame hovering over the palm of her hand. The flame twisted in strange shapes, sometimes a grotesque flower, sometimes grasping limbs.
+
+Yeah.
+
+Yeah, she would. To defend Harrak, she would use change against a person. The power of change, along with annihilation, could bypass a great many defenses by twisting them.
+
+“Viv?” Lana asked in a soft voice.
+
+“It’s nothing.”
+
+Kif stood at an awkward distance, like he didn’t know how to react.
+
+“You have heard of Oleander?”
+
+“By reputation. He sounded like an adventurer. I am surprised he would suddenly become king.”
+
+“I listened to his sermons, at first. He really seemed to believe. Unfortunately, the Shadow Lands have a way of twisting the best of intentions because nothing has gone well for a very long time. People have forgotten what it means to believe in something. At first, Oleander was patient, but as time went by, he would repeat his laws and cover the squares with the remains of those who had broken them. ‘It is simple’, he would say, ‘obey and live, disobey and die’. The people ignored his ultimatum. The same could not happen to them, because they were too crafty, or too unimportant, or they knew someone. But it did. It took a very, very long time for the city to return to civilization, and when that happened, it was on the bones of entire families. An adventurer, aye, I don’t know about that. I just… remember the tone in his voice. He sounded almost bored…”
+
+Fed up, more like, Viv thought. Jaded.
+
+“Did people rise against him?”
+
+“There were assassination attempts. He would display the corpses on the main square every time. I saw him fight once…”
+
+Now that was strategic information.
+
+“Well, seeing is a stretch. He was on the sands of the arena surrounded by five champions, then there was a blur, and then blood. Just blood… and body parts. I never saw him draw his sword.”
+
+Arcane blade master for sure. Viv would prepare just in case. She could spar with Solar. He was still a tough nut to crack.
+
+“I feel like we are getting sidetracked, though I’d love to hear more about him later. You were going to tell me why this place is falling apart.”
+
+“Ah! Yes, well, this was originally a haven for the Azure Lady’s relatives. They died some time ago,” he finished with an apologetic look.
+
+The waters behind churned a little bit. Viv raised a brow.
+
+“She can hear us everywhere,” Kif said with some embarrassment.
+
+Kinky.
+
+“Although I don’t think she is paying much attention. Mentions of her family tend to upset her.”
+
+“So if I call her name, she will appear?”
+
+“You could if it were important. Someone apparently made the mistake of wasting her time five years ago. She drowned.”
+
+“I see.”
+
+“So this place was never designed to host many guests, but with the recent rise of King Oleander, the population has increased. He does not trust mages, not even that pet of his. Many a family left out of fear.”
+
+“He’s just jealous.”
+
+“Ahem, well, perhaps. I was saying there are too many people. The last batch came with a ship. We turned the ship into houses… It’s a temporary measure. The folks are worried. They don’t know what to do.”
+
+“Were you trading before?”
+
+“Before yes, some ships would come and ask us to enchant pieces for the tribes. Korrim has guilds now, thanks to the king. I suppose he did some things right. Even then, ships fear his anger. No one is coming anymore.”
+
+“Have you considered trading with Param?”
+
+“With the Hallurians?” Kif asked with clear disbelief.”
+
+“No, but Helock is close.”
+
+“What would we sell them? Magic?”
+
+He raised his hands to the air in a mocking gesture.
+
+“What about fish?”
+
+“Fish? They already have more fish than us. They live on the coast. We could sell them monster meat if, I don’t know, we had a ship that could carry it.”
+
+“I could arrange that,” she offered.
+
+“No you cannot. I heard the rumors. You are not welcome in Helock.”
+
+“There are other cities.”
+
+“And then Helock would ban us, not to mention we would need the Azure Lady’s active participation in the hunt. She is… as awake as can be, but…”
+
+“She is contemplating the abyss.”
+
+“Correct. This place isn’t meant to sustain a population.”
+
+He gave her a glance.
+
+“Perhaps some of the families would be interested in moving inland?” Viv offered.
+
+“They fear oppression. They will not trust you.”
+
+“They might trust me,” Lana said. “I know about oppression. I know their plight. I can offer a sincere hand.”
+
+Viv pretended not to be offended. She was actually very sincere. More sincere than most rulers. But welcome assassins, wear a bone crown, and activate genocidal golems and suddenly everyone’s a critic.
+
+“Well, I won’t go around making offers then. I assume Lana looks more trustworthy.”
+
+Silence.
+
+“Lana?”
+
+“I… just saw someone. I will be back. Please, do not follow me.”
+
+“What?”
+
+“Do you trust me?” she suddenly asked.
+
+“Of course, I trust you,” Viv lied.
+
+She didn’t, really. The girl had issues.
+
+“Then please let me handle this.”
+
+And then she was off.
+
+Viv shrugged. Was the Spark of Luck pushing other people into adventures now? How very mysterious.
+
+“I’m going back to my room.”

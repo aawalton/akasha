@@ -1,0 +1,311 @@
+---
+id: a567bfc4-b0a4-5df9-98b3-50e1627015fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: The Secret Lives of Servants"
+slug: 0062-chapter-61-the-secret-lives-of-servants
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 62
+ownLength: 2644
+unit: words
+publishedAt: 2026-03-01
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3105976/chapter-61-the-secret-lives-of-servants"
+royalRoadId: "3105976"
+---
+
+The new guards were stationed at the estate immediately. Ren sent the three siblings—Kaelthos, Zairen, and Qura—ahead to secure the perimeter of the construction site. The two others, Isara and Varon, remained at the inn as his personal detail.
+
+Ren gave Kaelthos, Zairen, and Qura strict instructions: monitor the burial site.
+
+"If a single sprout appears," Ren told them, his eyes gleaming with the fervor of a gardener gone mad, "I want to know immediately. The only thing better than a freshly plucked tomato is a freshly plucked magical tomato."
+
+Dinner that evening was a quiet affair in the suite. The puppies were asleep in a pile by the fireplace. Lily was rolling around on the rug, making happy bubbling noises.
+
+Ren sat at the small dining table, sipping tea and reviewing his inventory list. Mira and Sylas stood nearby, waiting to be dismissed.
+
+[Ana: Aren't you forgetting something?]
+
+Ren frowned, not looking up from his ledger. "I don't think so. I restocked the mayo. I checked the gold count."
+
+[Ana: I’m talking about your little crush over there. The one with the silver hair who looked like she was about to cry in the Union hall.]
+
+Ren froze. A flush crept up his neck. "How did you... who told you... What are you talking about?"
+
+[Ana: Ren, you do realize we share senses, right? I can hear your thoughts. Even the less savory ones about me. And I saw the way you looked at her when she was holding the baby. You're smitten.]
+
+"Not even my head is free from this tyrant," Ren muttered.
+
+He cleared his throat, pushing the ledger aside. "Mira. Sylas. A moment, please."
+
+Mira, who was just bending down to pick Lily up for bed, froze mid-motion. Sylas stiffened, his hands clasping behind his back.
+
+"Master?" Sylas asked. "Is something amiss?"
+
+Ren looked at them. He saw the tension in their shoulders, the way they braced themselves for bad news. It was a habit learned from years of bad masters.
+
+"What happened at the Union?" Ren asked quietly.
+
+Mira blinked rapidly. She straightened up, holding Lily close. "Nothing, sir. We hired the guards. It was a productive trip."
+
+She was a terrible liar.
+
+[Ana: Pulse rate elevated. Pupils dilated. She's lying through her teeth. Grill her.]
+
+Ren leaned back in his chair. "Mira. I saw you stop. I saw you looking at that older couple in the back. And I saw your fist."
+
+He pointed to her hand, which was currently white-knuckled around Lily's blanket.
+
+"Who were they?"
+
+Mira stared at the floor. "Just... people I knew. From before."
+
+[Ana: She's stalling. Push her.]
+
+"Mira," Ren said gently. "If they are people you know, why didn't you greet them? Why did you pretend they weren't there?"
+
+Sylas stepped forward, intervening. "Master, if I may. It is... against the rules. Union protocol strictly forbids contact between potential hires and the staff of a patron. If she had spoken to them, they would have been punished. Beaten, likely. And she would have been reprimanded upon our return."
+
+Ren felt a cold knot of anger in his stomach. "Punished for saying hello?"
+
+"For disrupting the sale," Sylas corrected. "They are merchandise, sir. Merchandise does not speak out of turn."
+
+Ren looked at Mira. She was trembling slightly.
+
+"Were they your parents?" Ren asked.
+
+Mira let out a small, choked sob. She nodded.
+
+"Why didn't you tell me?" Ren asked, his voice soft. "I would have bought their contracts. I would have brought them with us."
+
+"Because they are old," Mira whispered. "They are weak. You needed guards. You needed strength. If I had asked you to buy them... I would be taking advantage of your kindness. I would be a burden."
+
+"A burden," Ren repeated. He looked at Sylas. "Is this how it works? Families are separated?"
+
+"Often," Sylas said, his voice tight. "Children are sold separately. They are under different contracts. But a married couple... their bond is witnessed by the world. It is enforced by magic. Even nobles cannot separate a husband and wife. They must be sold as a block."
+
+"So your parents are still together," Ren said. "At least there's that."
+
+He drummed his fingers on the table. He thought about the vast, empty estate he was building. He thought about the garden he wanted to plant. He thought about the two old elves standing in the back of a crowded room, watching their daughter walk away with a stranger.
+
+"Tomorrow," Ren announced, looking up. "We are going shopping."
+
+"Shopping, sir?" Sylas asked.
+
+"For a Noble Title," Ren said. "This pesky 'seven elves only' rule isn't working for me. I need more staff. And I think those two would make excellent gardeners."
+
+Mira looked up, her eyes wide. She stared at Ren as if he were an alien. A Noble Title? Just to hire her parents?
+
+Nobles were the ones who had destroyed her life. They were cruel, capricious, and distant. But Ren... he was buying a title to game the system. To help her.
+
+A complicated mix of emotions washed over her face—hope, fear, and a deep, terrifying gratitude.
+
+"Master..." she began, but words failed her.
+
+Sylas, however, did something unexpected. He took a step forward, breaking his perfect butler posture. His hands unclasped. He looked nervous.
+
+"My Lord," Sylas said, his voice uncharacteristically hesitant. "If you... If you truly intend to expand the household... may I make a request? If you do not think it rude?"
+
+Ren was intrigued. Sylas never asked for anything. "Go on."
+
+"This is a large estate," Sylas said. "We will need a cook. A proper chef to handle the daily meals for the staff and the guests. I have... an excellent candidate in mind."
+
+Ren raised an eyebrow. He felt a flicker of professional jealousy. "A cook? I'm the cook."
+
+"With respect, sir," Sylas said quickly. "You are the Lord. You are a genius of flavor. But you cannot be expected to peel potatoes for twenty staff members every day. You need a head chef. Someone to execute your vision."
+
+[Ana: He's hiding something too. Look at his hands. He's fidgeting.]
+
+Ren looked at Sylas’s hopeful, terrified face. "Who is she, Sylas?"
+
+Sylas froze. "Sir?"
+
+"The candidate," Ren said. "Is she just a good cook? Or is she something else?"
+
+Sylas sighed. He slumped slightly, the professional mask slipping.
+
+"She was... my first love," he admitted quietly. "Years ago. Before I was a butler. I was a footman. She was a kitchen maid. We fell in love. We went to our master to ask permission to marry."
+
+He looked at the floor. "He was not happy. He said love distracted the help. He sold my contract to a company in the north. I haven't seen her in twenty years."
+
+Ren felt a heavy silence settle over the room.
+
+[Ana: So he saw her in the Union hall, too. Just like Mira.]
+
+"She was there?" Ren asked. "Today?"
+
+Sylas nodded. "Standing near the back. She looked... tired. But it was her."
+
+Ren stood up. He walked over to Sylas and placed a hand on his shoulder.
+
+"If she is willing," Ren said. "If she still remembers you. Then we will bring her home."
+
+Sylas looked up, his eyes shining behind his glasses. "Thank you, Master."
+
+"But remember," Ren added with a grin. "She will always be the Sous Chef. Because I am the only Chef in these lands."
+
+Sylas laughed, a rare, genuine sound. "Understood, sir."
+
+"Get some rest," Ren said. "We have a lot to do tomorrow. And don't oversleep."
+
+He waved them away.
+
+As Mira and Sylas turned to leave, a movement on the floor caught their attention.
+
+Lily was crawling.
+
+She wasn't crawling well—it was more of a determined scoot—but she was moving across the rug. And behind her, in a perfect line, were the three puppies.
+
+Smokey was nipping at her heels. Frosty was sliding on the wood floor. Stormy was barking at a chair leg.
+
+They followed her like she was their pack leader.
+
+"Looks like she's already running a guild," Ren noted.
+
+Mira scooped up the baby in one practiced motion. "Come along, little majesty. And your court."
+
+She carried them into the bedroom, leaving Ren alone in the quiet suite.
+
+Ren walked to the window, looking out at the lights of the harbor.
+
+"Noble Title," he whispered. "Gardens. Lost loves. I came here to sell mayonnaise, and now I'm running a soap opera."
+
+[Ana: It's better than viscosity reports, isn't it?]
+
+Ren smiled. "Yeah. Yeah, it is."
+
+. . .
+
+Grandmaster Ordan was in the middle of a delicate sip of imported tea when Ren dropped the bomb.
+
+"I want to buy a Noble Title," Ren said, placing his hands flat on the ironwood desk.
+
+Pffffft.
+
+A fine mist of tea sprayed across the room, coating a stack of invoices and hitting Shorgan directly in the chest. The clerk didn't even flinch; he just pulled a handkerchief from his sleeve and began wiping his lapel with the resigned efficiency of someone who worked for a very expressive boss.
+
+Ordan coughed, his face turning a shade of alarming purple. He slammed the teacup down.
+
+"You want to what?" he wheezed.
+
+"A title," Ren repeated calmly. "A Barony, preferably. Something with low land obligations but full legal status."
+
+Ordan stared at him. He looked at Ren’s velvet tunic, his calm demeanor, and the utter lack of sanity in his eyes.
+
+"Lad," Ordan rumbled, leaning forward. "You've been in the capital for less than a week. You've made a fortune selling spices. You have the favor of the Duke. Why in the name of the Golden Ledger do you want to throw it all away?"
+
+"I'm not throwing it away," Ren said. "I'm investing in human resources."
+
+"It's a money pit!" Ordan roared, gesturing to the window. "Do you know how many merchants walk through that door, pockets heavy with gold, thinking a 'Lord' in front of their name will make the nobles respect them? It doesn't! They'll just eat your taxes, sneer at your pedigree, and wait for you to go bankrupt so they can buy your estate for pennies!"
+
+"I don't care about their respect," Ren said. "I care about the labor laws. Specifically, the cap on hiring Elven staff."
+
+Ordan paused. His mouth hung open slightly. He blinked.
+
+"That's it?" he asked, his voice dropping to a baffled whisper. "You want to become a Peer of the Realm... so you can hire more maids?"
+
+"And gardeners," Ren added. "And a cook."
+
+Ordan stared at him for a long, silent minute. Then, he threw his head back and laughed. It was a deep, belly-shaking sound that rattled the windows.
+
+"By the Golden Ledger!" Ordan wiped a tear from his eye. "You really are different, Ren. Most men buy titles for vanity. You're buying one for... logistics."
+
+He shook his head, still chuckling. "Alright. If you want to burn your gold, I won't stop you. Shorgan, bring the Book."
+
+Shorgan nodded. He walked to a heavy, iron-bound cabinet in the corner. He unlocked it with a key he wore around his neck and pulled out a massive, dust-covered tome bound in black leather.
+
+He placed it on the desk with a heavy thud.
+
+"The Registry of Dormant Houses," Shorgan announced. "We call it the Book of Dead Dreams."
+
+Ordan flipped the cover open. The pages were yellowed parchment, each one detailing a noble house that had fallen into ruin, debt, or extinction.
+
+"These are the titles currently held in escrow by the Guild," Ordan explained. "Families that died out or sold their rights to pay off gambling debts. You buy the debt, you get the crest and the name. The King rubber-stamps it because he gets the tax revenue."
+
+Ren stepped forward. He began to turn the pages.
+
+It was a catalogue of failure.
+
+House Gilded-Trout. Crest: A fish jumping over a coin.[Ana: Tacky. Also, implies you smell like fish.]
+
+House Iron-Fist. Crest: A gauntlet crushing a skull.[Ana: Too aggressive. We sell curry, not war crimes.]
+
+House Vane.Ren paused. That was the name Mira had mentioned. The house that betrayed her. He glared at the page. It wasn't for sale yet, but it was listed as "Financially Unstable.""Soon," Ren whispered. "One day, I'll buy that one just to burn it."
+
+He kept flipping. House of the Weeping Willow. House of the Red Shield. House of the Three Badgers.
+
+Then, he stopped.
+
+Page 402.
+
+The crest was simple, elegant, and striking. On a field of midnight blue, a silver wolf profile roared at a crescent moon. The lines were sharp, the design radiating a quiet, predatory power.
+
+[House Fenris]Status: Dormant for 50 years.Motto: "The Pack Survives."
+
+Ren felt a chill run down his spine. He traced the outline of the silver wolf. It looked exactly like the mother he had buried in his backyard.
+
+"This one," Ren said, pointing.
+
+Ordan looked at the page. "Ah. House Fenris. An old line. Northern border lords. They were wiped out during the Monster Surges fifty years ago. Died holding the line against a tide of beasts."
+
+Ordan leaned back, stroking his beard. "Legend says the founder of the house was saved by a Fenrir—a mythical wolf—during a blizzard. He dedicated his line to the beast. Said they would be the guardians of the wild."
+
+Ren stared at the crest. A Fenrir. A house dedicated to guardians. And now, he had three Fenrir pups sleeping in his room, and the mother was buried on his land.
+
+"System," Ren thought. "Is this a plot hole? Or is the universe just lazy?"
+
+[Ana: It’s narrative convenience, Ren. Just accept it. It fits. ‘Lord Ren Fenris.’ It has a nice ring to it. Sounds expensive.]
+
+"It feels... right," Ren admitted.
+
+"How much?" Ren asked aloud.
+
+"For House Fenris?" Ordan checked the ledger. "The debts were significant. But the land was reclaimed by the crown long ago. You're buying the name, the crest, and the legal status. One thousand, five hundred gold coins."
+
+It was a fortune. It was the price of a small ship. It was more money than Ren had ever seen in one place before he started the Mayo empire.
+
+Ren didn't hesitate. He reached into his inventory. He pulled out three heavy sacks of gold, the earnings from his bulk sales to Gilder and the bonus from the quests.
+
+He stacked them on the desk.
+
+"Done."
+
+Ordan raised an eyebrow. "Cash? You really are liquid, aren't you?"
+
+"I don't believe in credit," Ren said.
+
+Shorgan drafted the papers. The quill scratched loudly in the quiet office. Ren signed his name at the bottom.
+
+Ren Fenris.
+
+Ordan stamped it with the official seal of the Merchant's Guild and a second seal of the Royal Chancery.
+
+"Congratulations," Ordan said, handing him the deed. "My Lord."
+
+Ren took the paper. He didn't feel like a lord. He felt like a man who had just bought a very expensive key to a very specific lock.
+
+"Thank you, Grandmaster," Ren said.
+
+"Don't thank me yet," Ordan grunted. "Now you have to pay the annual tax. And if you embarrass the peerage, the King will strip the title faster than you can say 'treason'."
+
+"I'll be on my best behavior," Ren promised. "Mostly."
+
+He turned to leave. He paused at the door.
+
+"Ordan?"
+
+"Yes?"
+
+"Does this make Lily... a Lady?"
+
+Ordan chuckled. "Yes. It's Lady Lily Fenris now."
+
+Ren smiled. It was a genuine, warm smile.
+
+"I like the sound of that."
+
+He walked out of the office, the deed tucked safely into his tunic. He was a noble. A Lord.
+
+And he had a shopping trip to finish.
+
+[Ana: Alright, Lord Fenris. Phase one complete. Now, let's go get the families back.]
+
+Ren adjusted his cloak. "To the Worker's Union. And this time... we're clearing the shelves."

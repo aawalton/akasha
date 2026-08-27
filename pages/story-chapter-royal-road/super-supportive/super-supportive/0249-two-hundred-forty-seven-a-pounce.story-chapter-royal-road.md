@@ -1,0 +1,227 @@
+---
+id: fb489a00-5b8d-5345-988b-67062ece55b6
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-SEVEN: A Pounce"
+slug: 0249-two-hundred-forty-seven-a-pounce
+partOf: super-supportive
+position: 249
+ownLength: 2966
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2641996/two-hundred-forty-seven-a-pounce"
+royalRoadId: "2641996"
+---
+
+247
+
+******
+
+The sun still hid its warmth below the horizon when Stu left the cottage and headed toward the main house. He hadn’t slept enough, but he wanted some things from his room. And because Alden was visiting, he preferred to give up a small amount of rest in exchange for avoiding many of the family members who were currently in their beds.
+
+One problem with doing anything unusual in such a large household was that answering everyone’s curiosity could be a day’s labor. Knowing a human was physically present among them filled his relatives with questions.
+
+Some of them were actually warnings and criticism wearing the skin of questions. Those were bad. It was hard not to be overwhelmed when someone he loved said something he thought was ignorant and wrong-hearted.
+
+Mostly, thankfully, the things they asked weren’t like that.
+
+Was the human comfortable in this or that way? Had Stu chosen new clothes for him, or was that his own idea? What did he think of the Rapport, of wizards, of Artonans, knights, flatseed candy, toilets, the ryeh-b’t, and contract magic?
+
+Was Stu going to make sure he had a nice job with someone trustworthy? Maybe the lab at DawnStep? Maybe a crafter of potions in one of the Rapports?
+
+What did the two of them even talk about when they were alone together?
+
+Stu wasn’t upset by questions like those. Much. If someone else had come home with an alien they wanted to befriend, he imagined he would have been curious, too.
+
+But he’d come to realize that every question was basically about the same thing, whether the asker meant well or not.
+
+Alden is very different from you and us. Here’s one way and another and another.
+
+The differences were present, but Stu was used to being very different from everyone he’d ever wanted to be friends with. And their similarities were so many he marveled at them. When it was only the two of them spending time together, a lot more was going on than one of them being a wizard and the other being an Avowed. Stu had occasionally been surprised when Alden brought that point into whatever they were doing.
+
+And some of the differences between their species were fun to discover and laugh about, now that they knew each other better.
+
+Alden really needed to quit eating things without checking what they were first, though.
+
+He’s thoughtful. And brave. He is compassionate. And he demands much of himself. He likes my company. He made a video flapping his arms to tease me about gokoratches. He shares rolls made of a bark spice called cinnamon and tells me about making them with his mother when he was young.
+
+These things were so treasurable, and so much more important than Alden being from another planet, that Stu didn’t want all the questions about differences to intrude on him when they’d woven friendship peacefully last night.
+
+He did want his learning cushion and clean school clothes, though, so he slipped into the house and hurried for his room. He fetched everything, released some fresh beetles into Other Alden’s room, then went down the hall to make sure that Emban hadn’t come back.
+
+Her whole squad was supposed to be sleeping over at one member’s house in Root. Hopefully they were listening to advice from their elders while they made new plans for next year. A suggestion that they welcome a knight from the second Rapport had left Emban looking lost when she heard it, even though it was an expected idea and not entirely related to Ryada-bess taking time away from them.
+
+She’s still gone, he thought as he approached her door and carefully reached out, looking for her presence.
+
+If Stu had been born here under the tree that all his siblings had been born under, and if he’d taken his first steps in these halls instead of by that river, would he have been more compatible with Emban?
+
+Who might he have grown closer to after declaring, and what would it be like to go to them, very soon now, and ask them to watch him cast his last spell as an unbound wizard?
+
+This is the kind of wondering you do when you’ve hung upside down for too long.
+
+A child of Jeneth and Iella born under this tree would simply be someone who wasn’t him.
+
+And there was a chance he’d be invited to witness some last spells from old schoolmates this weekend. Asay, Meer, and a couple of others were going to do that with one another after they left the Welcome End celebration. It was one of those things Stu had tried to tell himself he didn’t want to find out about, even though he’d kept his ears open for information every time he’d been over at the school caring for the bokabv.
+
+He wanted them to invite him. It wouldn’t take too long, so even if Alden was over it would be fine for Stu to go. And Asay would surely invite Quinyeth, so…they might remember another person who they believed should be a votary.
+
+The dining room was empty when he passed through it. All the personal closets had been dealt with, and the annual evaluation and repair project had moved downstairs to the supply library.
+
+Stu planned to fetch a bitter tea that he thought might taste like coffee, based on Alden’s description of that human drink. As soon as he entered the kitchen, he saw that someone else had been here. They weren’t around now, but they’d pulled out the cured sebaba haunch that had been stored at the back of the cold pantry for years.
+
+Why would they do a thing like this?  The haunch was bigger than Stu was. It had a chunk taken from it, and it hung from a carving loop. I guess we’re eating sebaba meat for the next few days.
+
+“Your enthusiasm shouldn’t be that low when you haven’t even braved your first bite,” someone said.
+
+“Jozz! You’re home!”
+
+The kitchen wasn’t empty after all. Stu had just missed the man standing at the counter a few steps away, pinching small pieces from the meat on his plate and dragging each one through sap sauce.
+
+“Hello, Sina Stu. Don’t blame me too much for the sebaba. Veln told Kofa we liked it and were just saving it for a special occasion, so now Kofa thinks it’s an appropriate Welcome End gift. He sent me a message asking me to take it to the Rapport school or DawnStep with his well-wishes. My oaths as a knight prevent me from doing that to people who are about to face first binding. We’ll have to end the beast ourselves.”
+
+“How is it?”
+
+“I can taste why our ancestors only hunted them as a last resort.”
+
+Jozz’s smile was a familiar one. His facial features were so much like their father’s and like Sina’s, who’d been his full sister by blood in addition to love and only a year younger. Stu had once regretted that he didn’t look more like them. He still did at times, but getting older had made it a less frequent thought.
+
+“Your subtlety spell is excellent,” Stu said. “I didn’t know you were here, and now that you’ve called my notice, it seems that all is normal.”
+
+“I’m glad to hear that. It would be embarrassing for someone who just requested a test for the third illusion symbol to be caught by a sleepy little brother who wasn’t even trying.”
+
+“The third already! Congratulations, Jozz.”
+
+With a third symbol of illusion on his coat, he’d have completed the practical requirements to graduate from the university. It was later than he would have finished if he hadn’t become a knight but very quickly considering how much time he’d spent away over the past years.
+
+“Don’t be too excited for me. I’ve put off every useless requirement I could, and now I have to spend the next half a year attending classes I don’t like before I earn the diploma.”
+
+The next half year. He’s planning to be home for a while then. Stu focused on him, reaching out to sense him.
+
+“You’re home because you need to bind again,” he said.
+
+“Yes. I’m not slowing down even a little. I’ve told myself how I feel about that, but I just don’t listen. Also, poke me when you do that. How am I supposed to say hello when I don’t know you’ve drawn close?”
+
+Jozz, like many members of their family, was an existence who wasn’t naturally aware of anything going on beyond his own spot. He had to make a deliberate effort to perceive the nonphysical world around him. It was the opposite of Stu’s own sensitivity, which sometimes led him to limit his perception.
+
+This difference had resulted in a family training period years ago, after Stu had begun to feel at home at the siblinghold. No tiny whispers of greeting from him toward people who couldn’t hear those, and no authority embraces from them that struck him out of nowhere. The ones who were mutually unable to recognize a subtle approach were used to pouncing on each other like that.
+
+Stu embraced his brother’s existence. Jozz nodded and returned it.
+
+They weren’t very good together in this way. They hadn’t been since Sina had died. Stu didn’t want to know why. He did want to be as comfortable with this brother’s authority as he once had been. He thought Jozz felt the same because he never pulled away first.
+
+“That was a pounce,” he told Jozz when he withdrew.
+
+“I can tell when I’m watching for it, you know,” Jozz said. He hadn’t stopped eating.
+
+“How was Goldbush?” Stu asked.
+
+Jozz grunted. “Festering.”
+
+“You didn’t clear your patch?” He was surprised, but he tried not to sound like he was.
+
+Goldbush had been one of the main planets young knights were sent to for the past three years. Jozz had been certain when he’d left home for this latest trip that he’d be able to see the corrupted patch he’d been assigned to two years ago finally stabilized.
+
+“We were so close. We were talking about finishing early and showing up to surprise the squads clearing another area. Someone must have become complacent and let a bad one slip through.”
+
+“I’m sorry that happened.”
+
+“It’s fine. The next group will get to enjoy seeing it finished. Unless our elders really are sabotaging us on purpose because it’s such a convenient training world. I met someone who actually thought that.”
+
+“At least you’re home in time for Father’s call. He’ll be so happy to hear about your third symbol.”
+
+“I’d better not fail the exam.”
+
+“You wouldn’t have asked for the exam if you thought you might fail.”
+
+Jozz liked to be over prepared.
+
+“Enough about my school. Am I keeping you from yours? Are you well at LeafSong these days?” His pink eyes were looking at the uniform and the learning cushion.
+
+Stu hadn’t seen Jozz since Alden started coming for visits. And Alden…
+
+The painting. He’ll be excited to meet him.
+
+“I’ve got time before I have to go,” Stu said. “I was going to contemplate in the streamview cottage and have first meal with my soon-friend. Alden stays there when he’s visiting. He’s my guest. Did you hear everything about that? And Jozz, he’ll be pleased to meet you because he was moved by your—”
+
+“The human boy Aunt Alis honored and spent a favor for?” Jozz set the pinch of meat he’d taken back down. “He’s here now?”
+
+“Yes,” Stu said. “And I’m weaving a friendship with him that I hope will last for our lifetimes. He’d like to meet you. I think he admires you.”
+
+Jozz made a short hiss. It was only a sound of mild disapproval, but it struck Stu somewhere in his stomach and sent an ache of warning through him before the next blow.
+
+“An alien who’s contractually obligated to serve wizards can’t be your friend. Not the kind of friend you want, at least. He’s not your peer.” Jozz shook his head. “You’re avoiding your actual peers, or being avoided by them, because they can’t agree with you. And you’re avoiding friendship with the people you’ve met at LeafSong because you can’t agree with them. I know it must be hard, Stu, but it will pass. And when it does, you’ll regret having tattooed yourself with someone who won’t even understand…are you running away?”
+
+“This is walking,” Stu said, keeping a shrill out of his voice.
+
+“Oh, rot. Stu! I’m just trying to advise you!”
+
+“Try listening instead of advising next time! Wouldn’t that be a unique experiment!?”
+
+“Stu. I’ll listen. The human—”
+
+“Alden!”
+
+“Alden…that makes me think of your other Alden, which is weird. Please turn around, and don’t make me chase you like I’m a child. Alden admires me? Why? I’m sure I admire him, too, if you and Aunt Alis do. That doesn’t mean I think you should be lifelong friends of the dearest sort, but of course, I’d be happy to meet him.”
+
+Stu rounded on him.
+
+“No!” He said it very shrilly. How shitty. “You can’t meet him!”
+
+Jozz sighed. “I want to meet—”
+
+“He’s my guest. You can’t. You can’t go to streamview cottage, and you can’t have a bite of cinnamon roll made by a Ryeh-b’t who imbues food with pleasurable magic. You can’t interrupt Alden’s studies and his preparations for Yenu-pezth, and you aren’t allowed to enjoy his company and hear how deeply he has considered your painting in the top library. Because he will sit there sincerely admiring your sacrifices, and you will sit there thinking about how odd I am for having him over. He…he deserves better than that.”
+
+Stu stalked away.
+
+“Don’t you think your response to this is too much?” Jozz called.
+
+“I do not! Don’t bother my friend!”
+
+******
+
+******
+
+“My little brothers are so cute.” As soon as Stu was outside, Evul stepped into the kitchen. “I regret not being around all the time when you were growing up. I’ll make up for the lost years by giving you loving lies now.”
+
+“Let’s not so early in the morning.”
+
+“My love for you lasts all day.” She hopped up to squat on the counter beside his plate.
+
+“Are your feet clean?”
+
+“They have the clean soil of our Mother world between their toes. Here we go with the love! You didn’t just hurt Baby Stu’s feelings by telling him something everyone else in the house has already tried to force on him until he screamed them down. He will forgive you quickly without expecting an apology. He doesn’t like Human Alden more than you right now. He will gladly share whatever food-drugs they’re playing with in their cottage. And telling adolescents they can’t have contract tattoos with their favorite fellow adolescents always works.” Her pink eyes held his. “Well..are you comforted?”
+
+“Not at all.”
+
+“I must need practice.”
+
+Jozz cast one eye in the direction their youngest sibling had gone. “Is he all right?”
+
+“I’ve been thinking about it a lot over the past few weeks,” Evul said. “He likes me.”
+
+“Well done.”
+
+“He talks to me. Or he did. I think he’s getting tired.”
+
+“What does that mean?” Jozz asked.
+
+“Just that he’s getting tired. We’ve all been fighting him for a long time. If he were a demon, I’d have listed him for capture so that his stamina could be studied.”
+
+“Don’t call our family members demons. It’s obscene.”
+
+“I said if. Your squads must go lighter on the jokes than mine do if you aren’t calling each other demons regularly. Our brother seems to be slowly wearing out. And maybe everyone else sees that as an opportunity, but I’ve realized that I don’t know what happens when Stu gets tired of fighting. We’ve never been here before, and I don’t think I like it. It’s all so far away from where it’s supposed to be. I was going to find you and tell you to let him have some air. I heard you came home late last night. I should have found you then, before you were mean to him.”
+
+Jozz frowned. “He’ll be fine…I didn’t say anything new to him. Apparently.”
+
+“You’re closer to his age. That makes whatever you say louder.” She lifted a hand and placed it on his shoulder. “Which is why, after hearing that your mission ended in failure and that you go soon to your torment, he responded by telling you that you were unworthy of speaking to Human Alden. Don’t you dare let your breath fall upon the cottage where he studies human things!”
+
+“I did notice a certain harshness uncommon among votaries… ”
+
+“He and Alden attempted to have someone beheaded a few days ago.”
+
+“What?”
+
+“A wizard made a nuisance of himself while Emban was trying to have fun with her squadmates at a Here-to-There. Stu and Alden fixed the problems the nuisance had caused, tucked all the knights safely back in the Rapport, and then went directly to an executioner to demand an aggressive response. Veln thought Stu would spend a week immersing himself in legal processes and considering options, thus gaining confidence as a young wizard and a votary. But Stu had Alden watching the nuisance wizard for crimes all along, and so as soon as he nuisanced, they had plenty of evidence and they dragged him to the nearest person with a ring of death. Veln seems surprised…but proud.”
+
+“Something about this story sounds untrue,” Jozz said slowly. “But I don’t know enough to argue with you.”
+
+“Watch your back. They’re thirsty for blood.”******

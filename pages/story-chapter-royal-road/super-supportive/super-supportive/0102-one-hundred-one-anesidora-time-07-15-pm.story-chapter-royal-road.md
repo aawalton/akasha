@@ -1,0 +1,613 @@
+---
+id: 31a0a900-06fd-5232-8fb2-ad9bc47e48fd
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED ONE: Anesidora Time, 07:15 PM"
+slug: 0102-one-hundred-one-anesidora-time-07-15-pm
+partOf: super-supportive
+position: 102
+ownLength: 5289
+unit: words
+publishedAt: 2023-12-17
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1446199/one-hundred-one-anesidora-time-0715-pm"
+royalRoadId: "1446199"
+---
+
+101
+ 
+
+
+In F-city, there was a neighborhood where apartment blocks and towers gave way to rolling lawns, miniature patches of forest, and sporting fields. The mansions—decadent odes to magical architecture—nestled around the curves of artificial hills or in groves of trees, strategically planted to give the owners the illusion of space and nature in a city-state where those two things were precious commodities.
+
+
+The boy found the address he’d been looking for in a thatch of bottlebrush-shaped trees that backed up to the largest racetrack on the island. He walked along the edge of a paved driveway that was crammed with parked luxury cars and motorcycles. One of his hands clenched the handle of a heavy metal cooler; the other worked nervously on the edge of his jacket.
+
+
+He flinched as a drone sailed over his head. And again as one of the rocks lining the drive—apparently an artificial one—suddenly played birdsong through a hidden speaker as he passed.
+
+
+Private property warnings flashed on his interface, and he checked the address in his messages again.
+
+
+This was it. This was the spot.
+
+
+He drew in a breath and knocked on a tall, smooth bronze door with no apparent handle. It opened, and a woman with cat-eye contact lenses blinked at him. She was wearing a leopard print bra and jeans. He didn’t know where to put his eyes.
+
+
+“I’m here to see Orpheus,” he said.
+
+
+She leaned forward and looked at his cooler. <<Hey! That’s great!>>
+
+
+She almost stumbled over her own high heeled boots as she stepped aside to let him in. <<Orpheeeeee!!! There’s a guy here for you.>>
+
+
+There were people moving through the house behind her. Walking up a floating staircase, pressing each other against a railing, laughing at nothing in the floor beside a four-foot tall antique vase.
+
+
+<<He’s not coming. Go to him. Go. He’s on the verandah. Take your shirt off. Get comfy with us!>>
+
+
+She hugged him as he passed, and he blushed. He didn’t take his shirt off.
+
+
+It took the boy a long while to find who he’d come to see. The man wasn’t on the verandah but outside floating on an inflatable chair in a pool that had been heated hot enough to steam. He was completely naked, which was less of a shock after the amount of nudity the boy had encountered on his search through the house. The drone he had seen earlier hovered over the man, drizzling his forehead with something that looked like honey.
+
+
+“Orpheus,” said one of the women in the pool. “Orpheus, I think the presents you promised are here.”
+
+
+She took a swig from a bottle that didn’t look like it had originated on Earth. The float Orpheus was on rotated slowly. He drifted over to the side.
+
+
+He blinked up with blown pupils at the boy with the cooler. The pool lights in the water below him suddenly cut on and glowed an eerie green. The sun hadn’t set yet. It was probably on a timer. Just a coincidence.
+
+
+“You bring the drugs?” Orpheus asked.
+
+
+Were they just going to talk about it casually like this? Out in the open?
+
+
+“I brought you…some snacks.”
+
+
+“Haha! All right! Jacob, wasn’t it? How did someone your age get your hands on the good stuff? Hand them over! Your half of the deal is in the cabana over there. Good luck hauling it out of here. It’s heavy.”
+
+
+Jacob leaned over and held out the cooler. Orpheus took it in both hands.
+
+
+A brown-haired girl, remarkable mostly for the fact that she was fully clothed in slacks and a polka-dotted blouse, was sitting on the edge of a teak lounge chair. She glanced over at Orpheus and raised an eyebrow. “Aren’t you even going to check to make sure your snacks are there so you can destroy your organs properly this time? For all you know, he brought you takeout.”
+
+
+Orpheus ignored her.
+
+
+He set the cooler in the water. “Hey it floats!”
+
+
+Eager to take his earnings and leave, Jacob hurried over to the cabana. There was a padded duffel bag on the pavement beside some kind of alien hookah.
+
+
+He squatted and unzipped it. The thing inside looked like an aquarium full of yellow oil and clear water. A small silver ball floated in the precise center, in the place where the two substances met and refused to mix.
+
+
+There were less parts than he was expecting. No mechanicalness to it.
+
+
+Jacob preferred the open complexity of wires, pipes, and circuits to something so obviously not of this world. Because the complexity was still there. It had to be, for this thing to do what it was supposed to do. But it was all hidden. All magic.
+
+
+It made it feel not quite real.
+
+
+He pointed at the object to target it, and then said the name of one of his talents—“Device Identification.”
+
+
+His interface responded.
+
+
+[Device: Submerger
+
+
+Device Status: Complete]
+
+
+That was less information than he was hoping for. But it was enough.
+
+
+The Submerger would help him, and then it would help the people who were helping him, and then—
+
+
+“You have to shout the name of your talents to use them?” asked a voice from behind him.
+
+
+Jacob looked over his shoulder to see the girl standing in the entrance of the cabana. One of the canvas curtains was almost brushing her hair.
+
+
+“You might want to work on actually learning how to use your powers without the Contract holding your hand…instead of doing whatever it is you plan to do with that.”
+
+
+“I don’t see how my life is any of your business,” said Jacob.
+
+
+She shrugged. A mini drone appeared behind her head and made a cute, cartoonish snapping sound.
+
+
+He stood up. “Did you just take my picture?”
+
+
+“Yes.”
+
+
+“Why?!”
+
+
+“Because my brother is giving you extremely rare magical equipment in exchange for a few illegal potions and snorts he could have gotten in other ways. Stolen equipment…it’s not his, you know. He’s a brat in his thirties, so you’re getting something extraordinary practically for free. I dislike that.”
+
+
+“Who are you to—?”
+
+
+“I’ll keep this.” She shooed the drone away. “Maybe one day you’ll be something other than a drug dealer. And I’ll ask you to pay off your debt.”
+
+
+“I don’t owe you anything. I made a deal with Orpheus Velra, not whoever you are! And I’m not a drug dealer!”
+
+
+She arched a perfectly plucked brow. “Did you not just deal drugs?”
+
+
+He stared at her.
+
+
+She smiled, waved, and left.
+ 
+
+
+
+
+
+In F-city, there was a neighborhood where the skyscrapers seemed to grow taller by the year. Nautilus Needle crowned the district. Its silver spire glimmered like a Christmas tree topper, and the protective helix shields wrapping it were visible from every exterior angle.
+
+
+If you could afford Wrightmade shielding devices for an entire skyscraper, you wanted people to know it.
+
+
+At 7:15, the karaage restaurant at the base of the Needle was in the middle of its dinner rush. The doors barely had time to close before they opened once more to let customers in and out. A woman in a caramel-colored pantsuit stepped inside, and an employee hurried over at her wave.
+
+
+The girl smiled. <<Hello! Do you need help with your order toda—?>>
+
+
+“Someone took the calligraphy menu out of the window,” said the woman. “Why?”
+
+
+“Ma’am?” the girl asked in an uncertain voice.
+
+
+The woman tucked a strand of graying brown hair behind her ear and sighed. “It goes there. It’s the perfect piece for that spot. Put it back.”
+
+
+<<I think a customer complained about it blocking the view…>>
+
+
+“Don’t cater to outliers. This is a business.”
+
+
+<<I don’t under—>>
+
+
+“Ah! Ms. Barre. Ms. Manon Barre! You’ve come back after only a week this time! I’m flattered!” The owner of the restaurant trotted over and took her hand in both of his. Shaking it, he said, “The usual?”
+
+
+“Yes. And have someone find the big menu. Your exterior is out of balance without it.”
+
+
+“Mo, go find the menu!” he said to the girl. “Make sure you put it back exactly where it was.”
+
+
+<<All right?>>
+
+
+“She’s new,” he explained to Manon. “She doesn’t know what your advice does for us.”
+
+
+As the girl headed toward the back of the restaurant, he called, “And keep venting the scent onto the sidewalk! That’s what I hired a Sky Shaper for!”
+
+
+A few minutes later, the menu was back in place, and Manon was crossing the street, one hand gripping a paper bag already flecked with grease and the other wrapped around a cherry lemonade.
+
+
+She sipped it, her eyes fixed on the words floating in front of her eyes instead of the people, shops, and cars around her.
+
+
+[Of course there’s nothing to worry about, dear. It’s only a hiccup. I always pay my debts.]
+
+
+That. And only that.
+
+
+To make matters worse, Manon couldn’t risk bothering the sender more than she already had.
+
+
+Even after all this time, she had so little power in this relationship. So little ability to make sure she wasn’t cheated out of what she’d been promised all those years ago. Some people were just too high above her for her to even bother trying.
+
+
+“Fucking S-ranks,” she whispered.
+
+
+It had been months since she’d sworn. That bitch of a university student…Bti-qwol. She had interfered in a system of carefully orchestrated relationships that had been running smoothly for years, just because she was eager to impress her instructors.
+
+
+Wizards grew more tedious the older Manon got. Everything grew more tedious the older Manon got.
+
+
+Like the personal rule about swearing.
+
+
+She’d decided thirty years ago that it didn’t fit her image. Image mattered. Everything mattered for a C.
+
+
+They were the most common rank. Most people were comforted by it. A C-rank was never alone. Never the weakest. Never the strongest. Anesidora’s everyman.
+
+
+She couldn’t understand how everyone around her could be so content with their own mediocrity. But they were.
+
+
+Most humans didn’t really want glory, despite what they said. They wanted comfort, and they wanted to fit in. Not that she would complain about that. Fitting people into places that made them feel so comfortable they never wanted to leave was her specialty.
+
+
+On the way up to her apartment, she scanned her contact list. It was different than most. She used it for brainstorming. Hundreds of groups were listed, each of them combinations of personalities she thought could be managed in specific ways. These were her pride and joy. They were what made Manon Barre more than a C-rank interior decorator.
+
+
+They were the proof that she was not content with mediocrity. Every personality group was a custom, moldable piece that would make it easier to complete large puzzles.
+
+
+The boater alone was divided into dozens of possible arrangements. Naya and Chris—the youngest, most attractive member of the boater and the sweet, awkward man who couldn’t help but notice those things. If she invited just the two of them over, said the right things, served the right amount of wine, reprioritized their thoughts just a little…they would almost definitely go to Chris’s apartment after they left and have sex.
+
+
+Naya would be embarrassed and confide in Manon. Chris would be smitten and confide in Manon.
+
+
+Afterward, they would both become even more subject to influence.
+
+
+She wasn’t a Sway. She couldn’t create ideas for people. She could only arrange what already existed in their minds—a little clumsily, a little blindly, using a skill that was best at making sure people positioned their sofas correctly. In-group passions were powerful and easy to understand, but Chris would be hard to patch up afterward. It was the only reason she hadn’t molded that piece yet.
+
+
+Her thoughts hovered over the Karl/Chris/Laura group. She could always put them together and take them somewhere that would allow Karl to play at his version of manly posturing. Maybe the golf course next time. He liked the game.
+
+
+Laura’s knee was fully healed, and her spirits were finally up again. She had a damsel fantasy that got worse when Chris was around. Careful placement and suggestions would have her pretending to be hopeless, in an effort to make Chris notice her. Manon would prevent Chris from doing that. Instead, Karl would get to be an expert on the use of a putter or a driver or…were there more types? Some kind of ball hitter anyway.
+
+
+Manon didn’t actually play golf, she played people.
+
+
+Karl probably does require the boost.
+
+
+If Laura had damsel fantasies, then he had dominance fantasies. It was a painful character trait for a low-rank living on Anesidora, but it made him useful. He could easily be persuaded to take risks the others would have to be ever so gently steered toward.
+
+
+He could also become easily enraged about things that less chronically frustrated people would ignore, which was more troublesome.
+
+
+The memory of the last time she’d almost lost control of him made her glance at another trio.
+
+
+Naya/Alden/Karl.
+
+
+A piece she’d imagined at LeafSong. It was more of a half-baked, last-ditch emergency scheme than a real plan. The boy was a terrible target for her powers. He’d been doing private work for an unusually invested professor, and apart from that, teenagers changed all the time. Their bodies flooded them with hormones. Their immature brains gave them unpredictable notions. Every day they encountered ideas and experiences that were completely novel to them simply because they hadn’t lived long enough to notice them before.
+
+
+She could shove them in one direction, but they might turn around and run in the opposite ten minutes later because they’d suddenly discovered butterflies, French kissing, or communism.
+
+
+Most adults were more…finished. But the piece hadn’t relied on Alden anyway. Naya would have spent time with him with little prompting. She wouldn’t have been interested in a fifteen-year-old, but she would have jokingly flirted if given enough of a push. It could all be tailored so that, at a particularly bad moment, Karl would see a woman who never gave him the time of day batting her eyes at a higher ranking boy who was making more than twice his salary.
+
+
+It would be a knife plunged into his insecurities about himself.
+
+
+Manon couldn’t really plan it out beyond that. But if the pieces around that moment were all correctly placed, she thought it would have ended with Karl starting the fight away from the rest of the boater. He would be fired. The boy wouldn’t be invited back to LeafSong either. The Artonans wouldn’t have been perfectly sure who was at fault for the quarrel, and in the absence of perfect surety they’d simply blacklist both of them from working there again.
+
+
+Pineda’s job for next year would likely be re-secured. But much more importantly, Bti-qwol would have been blamed for mismanaging the Avowed on campus. Manon couldn’t afford for her to have the position again.
+
+
+And she won’t be there now. I’m glad it worked out without me having to create such a sloppy three-person puzzle piece on the fly, she thought as she stepped out of the elevator into her apartment. And cutting Karl loose would have been a shame.
+
+
+She kicked off her high heels and walked across the cold marble in her hose. The apartment had been Hollywood Glam for a couple of years now. Manon—who could find styles to suit anyone—could never seem to find one that suited herself for longer than that.
+
+
+Most adults were finished. Most C-ranks were content.
+
+
+She was different. Even the part of her that chose textiles for her own enjoyment refused to be satisfied.
+
+
+She stepped over to the window to look down on the people below her.
+
+
+It was lonely, at times. But it was better to be lonely than to be average, wasn’t it?
+
+
+She shoved a nugget of the fried chicken into her mouth and looked around. She had a team of Rabbit maids clean the place twice a week. It was so flawless she’d probably need to scuff it up a little if she ever tried to sell it. People thought they wanted perfection, but true perfection made them feel their own flaws more.
+
+
+But Manon liked true perfection. The one object that didn’t fit in with the rest of the place stood out like a sore thumb to her eyes.
+
+
+It always stood out, no matter how she changed the style of her home.
+
+
+That was the way it should be. An eyesore. A thorn she refused to stop pressing her thumb against, for fear she’d forget it and enjoy the rose.
+
+
+She stepped over to the bookcase. The device was on the second shelf. She’d found it in a shop long ago. It had been ugly then and it was now, too. Some Wright’s project, no doubt. It was a fifteen year timer. The sand in the left side of the horizontal hourglass shape slid over to the right, one grain per minute. More than half a million grains per year.
+
+
+So many individual moments that added up to a pathetic handful of dirt.
+
+
+The left side of the glass was nearly empty.
+
+
+Manon stared at it. She ate the chicken. She shoved the pieces into her mouth faster as she watched another grain of sand disappear. She thought of LeafSong. She wished, pointlessly, that the Artonan year could be shorter. It was close to fifteen Earth months.
+
+
+[Of course there’s nothing to worry about, dear. It’s only a hiccup. I always pay my debts.]
+
+
+She thrust two pieces into her mouth at once, barely chewing the meat before she swallowed. Her oily fingers dove into the bag again and scrabbled against the crumbs at the bottom.
+
+
+Blinking, she looked down into it.
+
+
+It was empty.
+
+
+Twenty pieces gone just like that. She told herself she’d been planning to save some for later. But she wondered if that was true.
+
+
+She’d eaten all twenty last time, too.
+
+
+She felt stuffed. The heartburn would hit soon.
+
+
+Manon had never had heartburn until she hit fifty. She’d never had a gray hair. She refused to fix either problem.
+
+
+More thorns to remind herself of what really mattered.
+ 
+
+If you stumble upon this narrative on Amazon, be aware that it has been stolen from Royal Road. Please report it.
+
+Every few days one of Kivb-ee’s new instructors took her by ship to the other side of Moon Thegund, to Chayklo, the only populated city of significant size. There, they forced her to interact with other children for her wellbeing.
+
+
+Officially, the trips were for her to have fun. But she had much more fun in the travel dome, examining Rrorro’s feather structures and sticking her head into the back of Kraaa’s mouth to see where the amazing serrated lash of his tongue was stored when it was not fully extended. These were, her honored instructors and Knight Alis-art’h agreed, educational pursuits. However, for some reason, they did not consider them to be sufficient to her socialization.
+
+
+The Quaternary said that her intellectual abilities and her background meant she needed to spend more time with other young Artonans rather than less. Playdates were arranged with local families and schools.
+
+
+The events weren’t terrible, but the first couple had gone strangely.
+
+
+Hopcatch had always been a good game when she played it with her sister. It had been a good game when she played it with Alden, too, though of course his size meant he’d had to bounce with just one foot and catch with just one hand to make it fun and fair for both of them.
+
+
+When she played it with the children in Chayklo, she always won.
+
+
+After she realized that they were letting her win at a game she wasn’t particularly good at, she couldn’t even trust her victories in the games where she probably was superior. Of course she could answer trivia questions faster than a class full of her peers, but…what if there was someone who could compete with her and they were staying silent because it was now clear that she would one day bear the responsibilities and receive the dignities of the wizard class?
+
+
+Before, there had been doubt. Distinguished Master Ro-den—who would remain distinguished in her mind no matter what terrible misunderstanding had led to the removal of his higher title—had not truly yielded to her ambitions yet.
+
+
+He’d been warming up to the idea. She would have convinced him and earned real approval soon, but then he’d been sent away…
+
+
+Now Alden, a brave and honorable Avowed, had told Knight Alis-art’h that he believed Kivb-ee had the makings of a true wizard. Even if Knight Alis-art’h didn’t know that Alden himself had embarked on the path of higher onus, she respected his opinion. As was natural.
+
+
+Kivb-ee was still somewhat perplexed about the fact that the Avowed couldn’t sense their authority.
+
+
+Avowed were important people. They performed magic. Distinguished Master Ro-den had always treated them like friends on the occasions when he summoned one to the lab. She’d been confident she understood, so she’d never checked her assumptions.
+
+
+How embarrassing.
+
+
+Almost as embarrassing as her excitement at winning that first game of hopcatch, before she realized the others were yielding to her.
+
+
+“I don’t think they enjoy playing with me,” she had informed Instructor Dalat-orni after they walked away from the school that had been the location for their second social adventure. “I think they are nervous around me.”
+
+
+The instructor had looked down at her and smiled. “It does seem so, doesn’t it? Don’t give it both halves of your attention. They are only afraid because they rarely deal with wizards who are even deserving of the name here. Thegund has been…a small place. For quite some time. On the Mother, the children of your birthclass will not be nervous in your presence. They will often expect more of you, and because of that, it will not occur to most of them that letting you win a game would be anything but an insult. In fact, many of them will be deeply disappointed in you whenever you lose.”
+
+
+“That sounds bad, too.”
+
+
+“It’s the way of things. Through our efforts may the way grow closer to perfection.”
+
+
+“Through our efforts,” Kivb-ee repeated.
+
+
+“Perhaps you wish to suggest an effort that would make your social hours more enjoyable for everyone,” the instructor prompted gently.
+
+
+Oh. Was this a lesson?
+
+
+The right answer was probably not that social hours would be better spent testing Kraaa’s bite strength against various materials.
+
+
+“I think we should plan noncompetitive activities,” she decided.
+
+
+“A wise choice. Plan some and show them to me,” Instructor Dalat-orni said. “Consider the comfort of your agemates and yourself.”
+
+
+Her next playdates had involved practicing formal table manners at a restaurant with the owners’ children and participating in an art-garden program. Those worked out much better.
+
+
+Magic lessons were also going well. Kivb-ee hoped they were anyway. She was improving faster with teachers available to help and personal advice from Instructor Gwen-lor in every new video. But it wasn’t proper for instructors to tell a student of her level how she compared to others. It was their job to worry over such matters in their own minds, and it was hers to devote herself fully.
+
+
+If she was in a proper class with a proper partner on the learning cushion beside her—or even better, with Alden—she would have had some sense of relative progress. Comparing herself to the adult wizards who traveled with the Quaternary didn’t offer the same opportunity for understanding her abilities.
+
+
+She assumed her control and sensitivity remained well below normal. However, Instructor Dalat-orni had begun to imply that they should work with her auriad soon. He had almost finished correcting the flaws in her beginner’s plainhand casting.
+
+
+Kivb-ee hadn’t been looking forward to this.
+
+
+She would have to reveal that she didn’t have an auriad. And they would all be confused, since she’d claimed to previously and they’d seen it. Or they thought they had.
+
+
+Alden wished for his bond with an auriad to remain private. He had told her she could tell whoever she wanted whenever she wanted, but that was only because he was trying not to create difficulties for her.
+
+
+Kivb-ee refused to make difficulties for him.
+
+
+She could lie and say she’d given hers to him, but that would be regarded very oddly. She had more lessons available to her now and understood that if she’d given him her auriad and he’d traveled so far away, the distance would have severed it from her violently. It would have destroyed the auriad and wounded her.
+
+
+Kivb-ee was not obviously wounded. How would she make that story seem reasonable?
+
+
+Another solution had to be found quickly. And auriads didn’t sprout up from the ground like fungus.
+
+
+In fact…Kivb-ee had determined after some consideration and study that there were only two unbonded auriads on all of Moon Thegund. And five more in orbit.
+
+
+There was one here in the travel dome in a spell-locked case. It—like the five on the large ship—was for Alis-art’h or the wizards traveling with her to use if their own auriads were severed. Or if, during the course of the long voyage, they progressed with their casting to such an extent that they wished to bond a second one.
+
+
+Kivb-ee couldn’t take any of those. She would have, since six spares was an excessive number of auriads for the Quaternary’s group to possess. It was a quantity they would only need if they encountered truly awful problems during their travels.
+
+
+But she couldn’t open the boxes. And even if she could, she suspected the auriads would be inventoried at the end of the journey. Adults loved to inventory things. At the lab, entire days had been devoted to making sure everything was where it was supposed to be and what it was supposed to be.
+
+
+That left just one option. Only one on this entire side of the solar system. Her plan to obtain it had already been in motion for three Earth weeks.
+
+
+Kivb-ee liked to think in Earth weeks with one half of her consciousness so that she always knew what Alden was probably doing. Right now it was Mundee night on Anesidora. Since his last set of videos, he would have achieved his goal of entering an educational program that would help him on his journey to becoming the best Avowed.
+
+
+He and beautiful, fat Victor the kyat would be living in a school. And they would have access to instructors all the time.
+
+
+By the time she received his next video, she would be a robber in addition to being a laboratory bomber. She was sure he would not mind.
+
+
+While Alden and Victor were learning from the human instructors, Kivb-ee was at the local Museum of the Empire with hers. She was accompanied by a group of other children who had been invited along for her socialization. And by Kraaa, who had forced his way into the experience after she had maybe exaggerated the amazing terribleness of the antique weapons on display in the museum.
+
+
+Kraaa was an important part of the plan. People looked at him a lot whenever he was around, which meant that they looked at everything else less. Two eyes on the griveck Avowed at all times…very silly.
+
+
+Kivb-ee clenched her fingers as they approached the room where the unbonded auriad was stored. It was part of a collection of magical tools. She had seen it once before when her father had brought her and her sister here.
+
+
+It’s still there, she thought as they entered the room. It’s still out on the table like I remember.
+
+
+None of the wizarding supplies in this room were dangerous or fragile, so of course none of them were displayed with barriers between them and the public. To separate objects of learning from the very people who had come to learn about them would imply all kinds of terrible things about the museum and how it viewed its visitors.
+
+
+Kivb-ee felt guilty.
+
+
+She felt awfully guilty as her bare feet carried her closer and closer to the polished table with the white auriad on it.
+
+
+But after careful consideration, this was the only course of action that she thought wouldn’t hurt anyone. The museum’s collection would be less accurate, but that was not as serious as the worst possible outcome she could imagine.
+
+
+What if someone took Alden’s auriad from him?
+
+
+Kivb-ee had now realized her own understanding of Avowed wasn’t perfect. Alden seemed to sense some risk to himself. She would trust his judgment.
+
+
+He was supposed to have an auriad. He did have one. And it was a lovely shade of purple-blue that was also now her favorite color it absolutely was forevermore.
+
+
+It was his.
+
+
+He had bled for her. She had smelled it. She had seen it when they cut off his clothes. What if Rrorro hadn’t been there?
+
+
+Alden was going to be the best Avowed.
+
+
+And they would both be wizards.
+
+
+Through our efforts may the way of things grow closer to perfection.
+
+
+“Oh Kraaa!” she called when she was only an arm’s length away from the loop of soft white string on the table. “You should show everyone that trick you can do with your tongue!”
+
+
+Heads and eyes turned. She took it on faith that all of the heads and eyes turned. She acted.
+
+
+Once, she had failed to take a small risk out of fear. Once, she had hesitated to act. It had cost her almost everything. And it had almost cost Alden everything, too, though he would never admit that it was true.
+
+
+Kivb, her father had said on that last, most awful day. This human is an Avowed. Distinguished Master Ro-den has sent him to help us. Be brave for your sister.
+
+
+Kivb-ee wouldn’t be someone who hesitated anymore.
+
+
+A couple of hours later, when they left the Museum of the Empire, she had an auriad in her pocket. It was real. She’d been a little afraid that it wouldn’t be. What if she’d been wrong, and they were much too valuable to be left out on tables even in an important educational location?
+
+
+What if instead of a real auriad, it had been a fake, like the one she’d left in its place?
+
+
+It was a perfect-looking fake. She’d tried to make it herself, but she’d quickly realized she wasn’t talented enough to get the sheen right. She’d asked Instructor Dalat-orni to make it for her, claiming she wanted to give it to one of her dolls.
+
+
+Fortunately, the instructor didn’t keep track of her dolls, so he didn’t realize that she didn’t have an Artonan one.
+
+
+They took the personal transport ship back to the travel dome. It was a long trip to the other side of the planet, but they would arrive in time for third meal—a quirk that the Quaternary enjoyed every night.
+
+
+“Instructor,” said Kivb-ee, her fingers still stroking the string in her pocket the way she’d seen Alden do so many times after he’d bonded with his own. Perhaps the more she mimicked him, the braver she would be. “I would like to take a mourning name.”
+
+
+There was a pause.
+
+
+“I see,” Dalat-orni said. “That is a very serious decision. Have you thought it through as carefully as you can?”
+
+
+“I will not live a life that would bring shame to it,” she said. “I wasn’t sure before, but I am now.” 
+
+ 
+*

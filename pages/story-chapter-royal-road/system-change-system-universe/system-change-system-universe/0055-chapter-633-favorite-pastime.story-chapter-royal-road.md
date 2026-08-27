@@ -1,0 +1,122 @@
+---
+id: bf49aa68-2f31-5f2a-9304-c813b7df3154
+page-type-slug: story-chapter-royal-road
+title: "Chapter 633: Favorite Pastime"
+slug: 0055-chapter-633-favorite-pastime
+partOf: system-change-system-universe
+position: 55
+ownLength: 2148
+unit: words
+ownProgress: 375
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3113921/chapter-633-favorite-pastime"
+royalRoadId: "3113921"
+---
+
+Chapter 633: Favorite Pastime
+
+As time went on, it felt like they were thinning out the herd, but as far as Derek could tell, it didn’t look like there were any fewer striders than there were to begin with. “How many of these things did you piss off?” Derek suddenly shouted at the young man.
+
+“I… I don’t know,” the young man panted as he slowed a couple of beasts running at Jace. “I accidentally disturbed a nest… so… anywhere from thirty to three hundred, I’d say.”
+
+“Three hundred!?” Both Derek and Jace shouted at the same time. However, Jace had a very different expression on his face than Derek did.
+
+His group was slowly dismantling the beasts, but with Amelia only occasionally taking out two at a time, Silvi swooping in and taking out one every once in a while, and Derek only able to slay them when his Spatial Collapse or Multi-Strike skills were full, they could really only say they were defeating a few Kethian Striders every few minutes. Still, Derek could see that the turning point would happen soon.
+
+Looks like I’m probably not going to have to show off my armor’s ability in front of this random guy after all, Derek thought to himself as he noticed fewer and fewer striders getting past or pushing Jace back. Finally, Jace was beginning to receive fewer injuries while dishing out more damage. That meant that the wounds scattered around his body were finally getting more time to heal.
+
+Derek wasn’t the only person who noticed this. The young stranger had been using his crowd control skills multiple times more on Jace’s side than on Derek’s. But now, while still not having to focus evenly on both sides, he was having to help Jace less and less.
+
+One Multi-Strike with a void-enhanced Whirlwind Slash would take care of so many, Derek couldn’t help but think to himself. I should have used the boot’s active skill at the beginning of the fight, too. I was dumb for not doing so. He sighed as he removed another part of a strider’s brain with Spatial Collapse.
+
+“Wait a second!” the young man suddenly yelled, startling Derek out of his thoughts.
+
+“What is it? More enemies? Different?” Derek asked quickly.
+
+“He… he’s… he’s a Battlelust user!” the young man finally stated with wide eyes while staring at Jace. “A human with an affinity for Battle… alive at level 250…”
+
+“So,” Derek muttered. “What of it?”
+
+“Did… did the Legion send one of their young elites here? To a dead Planetary Battlefield?” he spoke low to himself, but Derek was able to make it out.
+
+“The Legion?” Derek asked. Dave had told him a bit about the people like Jace, how he’d only ever known a few, and how there would be tons of organizations looking to recruit any Battlelust user that was able to live to see level 500. From the young man’s reaction, it seemed that Dave might have been downplaying the matter a bit.
+
+“The War Surge Legion,” the man said. “Is he not with them?” His eyes widened even further. “Then he is an unaffiliated Battle Affinity user? Which means… he can be recruited?”
+
+“Does it matter?” Derek turned his head and stared at the young man. “It’s not like he’s level 500 yet.”
+
+“That doesn’t matter,” the man said as he slowed another strider, and Jace bashed his kukri down onto its skull. It was the first one he was able to kill outright in one hit. “Any organization would want to get on his good side before he becomes an Ascendant.”
+
+“Well, none of that matters if we don’t make it out of this fight alive,” Derek said. “Now shut up and concentrate on the fight,” he commanded, and the young man’s face turned serious as he nodded. Another hour went by, and Jace had really started to shine. When he was at full strength, his offensive attack was possibly as strong as Derek’s own.
+
+This time, the man hadn’t used his skill that rapidly increased his Battlelust at the cost of a backlash. Instead, he started the fight by getting his ass handed to him, but slowly—or quickly, depending on who was looking at it—built his Battlelust up. Derek swore that as the man’s Battlelust increased, so too did the menacing smile on his face.
+
+However, during the fight, Derek finally noticed something a little different again. All the skills he was using actually seemed more potent than back in the Davenresh System. His ability or speed in casting them hadn’t changed, either. But even with Greater Meditation going, he was seeing his mana deplete more than usual. Not to the point where he would need a potion to refill it during a fight like the one they were having—but usually, while meditating, he’d gotten to the point where it basically dropped a tad and instantly refilled.
+
+Now, it was dropping and taking a little time to refill. It was quite possible that if he were using all of the skills available, he would even have to pause for a second to recharge. He’d gotten some suspicions after fighting the gourups, but those fights hadn’t lasted long enough to experiment, and he hadn’t even noticed it until the last couple they killed.
+
+As he killed another strider with Spatial Collapse, something that Dave had told him clicked. He said my travel skill wouldn’t work as well in the Origin System because the essence here is thicker. But he didn’t elaborate on it and basically told me to learn about it myself… he thought. I think… thicker means more potent? Maybe… If that’s the case, then the slower recovery makes sense… the potions may make sense, too.
+
+They weren’t even made out of materials that grew from a place with this essence, he thought. Maybe they are just incompatible with this system, or… it could be that the Origin System really is just more thorough than the other systems, and being able to drink potion after potion would just be cheating. At that thought, he decided he really needed to talk with Marrick and Amelia once the fight was over. And, looking at Jace’s body start to turn red and even let off some steam, he knew that it was about time.
+
+“Amazing!” the young man shouted as he saw the transformation. “This is the ghoulish Battlelust form! It’s the stuff of legends. What did Father say? It only happens when a user of Battlelust reaches at least eighty percent capacity. He said that if you’re fighting someone like that and they reach this point, you royally messed up.”
+
+“I kicked his ass after he overclocked,” Derek yawned from the side.
+
+“Overclocked?” The young man tilted his head in confusion.
+
+“Yeah… you know, overfilled his Battlelust pool,” Derek explained. He actually didn’t know if Jace had done that during their fight, but he did look way more ghoulish than he currently did, and he had way less control over himself back then.
+
+“You mean overcharged?” the young man asked.
+
+“Same thing,” Derek replied.
+
+“You beat him? At the same level? And you are both still alive? But… the backlash? He would have had to use the surge skill that the War Surge Legion is known for.” The man narrowed his eyes at Derek. “But you don’t seem that strong. Look at him go.”
+
+“I’m more of a one-on-one type of fighter,” Derek replied with a shrug. “Now, can you fly?”
+
+“Can I… what?” The man shook his head from the whiplash of the sudden change of subject.
+
+“Can you fly? Can you hang out in the sky? It’s about to get messy down here,” Derek said. “So, either go up there with the others or run back to where the old elf is protecting the other two.”
+
+“Oh… uh… I can’t… fly… but I can float and move around a bit,” the young man said.
+
+“Then get to it. I don’t have all day,” Derek said, and the man nodded. After that, he saw the young man form odd strings like the ones he was connecting to the beasts and slowing them down with. With these strings, it was like he connected them to different parts of the area overhead. After that, he jumped and landed on one, then started jumping up higher and higher.
+
+That’s like… a really slow and painful-to-use version of my Void Steps, Derek thought as he blocked a strider’s velociraptor-like teeth with his gauntlet and felt the sharp teeth dent the metal and push into his forearm. Once again, he threw his hand up, and Silvi swooped in and took off with the strider. Finally, he dodged a bunch of attacks and moved closer to Jace.
+
+“You up to one-hit kills yet?” Derek asked.
+
+“Not every time, but close,” Jace replied with a sadistic grin.
+
+“Feel like playing some baseball?” Derek asked with a smile back.
+
+“My favorite pastime,” Jace said.
+
+“Really?” Derek asked.
+
+“No, not really,” Jace replied. “It’s too boring to watch.”
+
+Derek snorted. “Anyway, get ready. I’m going to be moving fast. Try to keep track of me.”
+
+“That will be easy enough in this state.”
+
+Derek nodded, sent Harbinger away, then activated Void Shift. It was one of the few void skills that he had that he felt like he didn’t need to worry about using—especially if any strangers around him were close to his level. To them, it would just look like a teleportation skill. Dave knew the skill well, and he hadn’t even brought it up in their talks, so he was sure it was okay to use in front of anyone except for maybe an actual tracker.
+
+Like that, Derek vanished from everyone’s eyes. When he entered whatever layer of the void that Void Shift used, he noticed that the surrounding ripples were much more solid and easier to make out. He also felt like he was moving even a bit more sluggish than he usually did while using Void Shift. Of course, he’d used it before, but this was the first time he’d used it after making the connection with what Dave had said.
+
+Ignoring his thoughts, Derek pulled himself through a ripple and appeared behind a strider. He moved to the perfect angle, deactivated Void Shift, then kicked the strider directly at Jace. His friend turned around at the perfect time and brought his kukri up to strike at the beast. Seeing that, Derek shifted into the void again and moved to the next beast. He did this over and over again at an insane speed. He did, however, notice that he was losing more mana than he was gaining with this strategy.
+
+That was because his mana didn’t really regenerate while he was inside the void since he wasn’t able to have his Greater Meditation active. Still, it regenerated in chunks because he made sure to activate Greater Meditation every chance he got. Also, Jace wasn’t the only person having monsters kicked and tossed to them.
+
+The young man stood high above the battlefield with eyes as wide as saucers. “Are they both really only around my level?” he muttered as the confident man practically flashed around the battlefield with seemingly endless mana and kicked, punched, and threw the Kethian Striders at the Battle Affinity user. The Battle Affinity user made perfect, precise cuts in fatal spots on almost every beast that flew his way. When he didn’t make precise cuts, it was because he decided to separate their heads from their bodies instead.
+
+Occasionally, a strider would fly into the sky, and a small whirlwind sphere would swoop down and take off with it, or two would be sent flying toward the Ascarian Giant. That was another thing that blew his mind. This group of people who were helping him was extremely diverse. He couldn’t think of a single organization that would send a group like this to the abandoned Planetary Battlefield.
+
+Ascari, a Battle Affinity user, two elves, two humans—not counting the Battle Affinity user—and some… weird… I don’t even know what the last person is. I can’t even find him… I just… sense him everywhere, the young man couldn’t help but wonder.
+
+However, it felt like he’d only looked away and lost himself in thought for a minute or two, but when he looked down again, the Battle Affinity user was standing on a mountain of corpses covered in blood while the other man teleported around, sending the remaining few Kethian Striders his way.
+
+He’d been shocked from the second he’d arrived—mostly because of how easily they decided to help him—but his shock had only grown more and more as he fought with them. Then, he was beyond shocked when he finally saw the two men fight for real.
+
+“What the hell have I gotten myself into?”

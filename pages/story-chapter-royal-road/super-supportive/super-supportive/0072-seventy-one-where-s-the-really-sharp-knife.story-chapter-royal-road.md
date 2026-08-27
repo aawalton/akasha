@@ -1,0 +1,405 @@
+---
+id: 25a11789-1e1a-513a-b3bc-4c84fa1096a1
+page-type-slug: story-chapter-royal-road
+title: "SEVENTY-ONE: Where's the Really Sharp Knife?"
+slug: 0072-seventy-one-where-s-the-really-sharp-knife
+partOf: super-supportive
+position: 72
+ownLength: 4444
+unit: words
+publishedAt: 2023-09-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1335020/seventy-one-wheres-the-really-sharp-knife"
+royalRoadId: "1335020"
+---
+
+Another two weeks blurred past. Neha’s schedule filled half of Alden’s days, and his own side projects more than filled the rest of his time.
+
+He had his first of three interviews at CNH. It was in-person but just ten minutes long. Only B-ranks had to attend the first interview, and Alden had the strong impression that the whole point of it was to discourage them from applying. The questions had all walked a razor’s edge between professionalism and insult.
+
+“Do you think your disadvantages will prevent you from being a valuable part of a hero team?”
+
+“How will you keep up with coursework designed for people more super-abled than you?”
+
+“What will you do if you spend the next several years of your life pursuing this only to be unemployable as a superhero?”
+
+Joke’s on you, thought Alden while his mouth spouted a pre-prepared statement about how he would never give up on his dreams. I’m just here for the best government-funded Avowed education on the island. Unemployment is so far down on my worries list these days that you can’t scare me with it.
+
+The questions weren’t personalized. He knew because they didn’t ask anything about the commendation or his time on the Triplanets. No way that was getting left out of the real interviews that were coming up next month.
+
+Alden’s entrance timing was going to be a little awkward. He was too late for the quarter-schedule classes starting in October, but waiting until January to start the new quarter was a waste of time. So once he jumped through all the hoops and, hopefully, became a student, he’d be polishing off the second half of classes he was confident in and taking their final exams for credit. And he’d be auditing some others so that he’d be better prepared for them when they started back up.
+
+It would work out. For obvious reasons, Avowed schools were set up to slot in new kids year-round.
+
+Alden was getting the usual package of Avowed-life orientation classes out of the way at least. They were all offered in some form at the dorm.
+
+He’d already done the three on basic Artonan etiquette. He was concerned about how basic it was, for his fellow students’ sakes. But he guessed it was different for most of them. If you were only getting summoned half a dozen times in your life, did you really need to do a deep dive into an alien culture that was fairly good about accommodating other species on its own end of things?
+
+Yes.
+
+The others didn’t agree with him, though. It was mostly the Rabbits and the other people with specific subclasses known to be popular with the Artonans who took the extra etiquette classes. Them and the alien fans.
+
+Alden skipped out on those since they weren’t required, and he’d covered way more with his friend Klee-pak.
+
+But he still had to attend five sex-ed lessons with Gustavo and a Wright counselor named Gretchen, in a large auditorium full of teenagers in various states of hilarity, mortification, and horror.
+
+Once you got over the subject matter, you could appreciate the necessity of the things. Even the first two classes—which were the Earth-focused ones—were kind of important. A lot of people came from cultures where sex education wasn’t standard. And nobody came from a culture where the superhuman version of it was standard.
+
+The slides—because of course there had to be a slideshow—said petrifying things like, “That spell impression doesn’t work there.” And, “Stat differences matter more than you think they do.”
+
+By the time they reached the interspecies lessons, Alden felt like he’d gained an amazing new power.
+
+I’m no longer capable of feeling embarrassment, he thought, staring at a slide that was just a picture of a griveck with the word NO! written on it in twelve major languages. I hit some lifetime maximum a while back, and now blushing is a thing of the past for me.
+
+Apparently it wasn’t the same for his fellow victims.
+
+<<I don’t want to be here,>> Paolo hissed. <<What kind of crazy person needs to know this much? Why do I have to be here?>>
+
+Several of the other Rabbits Alden had been sitting with during this wonderful bonding experience were nodding in agreement.
+
+“It’s because the pH level of your partner is almost as important as their clear and undeniable consent,” said Alden, pointing at a slide that said exactly that.
+
+Everyone stared at him.
+
+He marveled at how much he did not care.
+
+“I’m made of steel,” he told Boe on one of his daily phone calls.
+
+He was on another rental bike, on his way to meet with a parkour club Bobby had introduced him to. They were mostly low-rank Brutes, but not all. The group was welcoming and really eager to share the discipline with newcomers. Alden wasn’t amazing, especially without his trait active, and nobody minded. It was fun.
+
+“I have been forged by Gretchen and Gustavo into something beyond a mortal, and now I am untouchable. Also, Jeremy and I are finally going to get to hang out together soon. You’re the worst for not joining us.”
+
+After parkour, he sat on a bench along an oceanside walkway and ate his lunch.
+
+Natalie Choir was officially his personal chef. His fridge was full of meals and snacks in individual containers. She’d bought a label maker, and she used it to stick motivational quotes to each one along with the nutrition content. As part of their agreement, she got a massive shopping budget so that she could master new ingredients. He was eating a lot of things he’d never heard of before.
+
+So good, he thought, holding back a moan as he dug into an insulated container full of hot lentil bolognese and pasta. How can it be this good and still be healthy?
+
+There was a small container full of herbed oil to go on top of it. And a ginger matcha protein drink. And a side salad with the fruits and vegetables chopped into perfect rainbow-colored cubes.
+
+Alden was bleeding money for this sort of treatment, and he did not mind.
+
+[Video call from Twenty-seven Hundred and Sixty-third General Evul-art’h, Artona I. Connection fee waived.]
+
+Must be the weekend on the Triplanets.
+
+“Answer,” he said after swallowing a mouthful of food.
+
+He wondered if Stuart’s sister would be crushing him underneath pillows again, but she must not have been in as much of a tormenting mood today. They were outside, and she only held the tablet out of his reach while she observed Alden.
+
+“You’re not sweaty.”
+
+“Not at the moment,” he agreed. It was fifty degrees and windy. After parkour club had broken up for the day, he’d thrown on the cable-knit sweater Dragon Rabbit had gotten for him.
+
+“My brother wants to talk to you again.”
+
+“I want to talk to him, too.”
+
+She tilted her head. “I know who you are now. You’re the dead human he named his pet after.”
+
+Alden paused in the act of digging his fork into the pasta. “Did you not realize that when you saw my name last time?”
+
+“I noticed. But I thought you were dead. So I assumed a lot of humans had the same name.”
+
+That's what Rel-art’h assumed, too. The art'hs must not hang out with many of us.
+
+“My name’s not particularly common.”
+
+“Evul,” said Stuart, peering at Alden from around his sister’s arm, “just give me the tablet. Please?”
+
+“Okay,” she said, shrugging as she passed it over. “The human doesn’t seem to mind your <<strangeness>>. I guess it works.”
+
+Stuart glared at her, but he took the tablet without comment and hurried off into the trees to get some distance from her.
+
+“I have messages for you from Kivb-ee. Eleven of them.”
+
+Eleven messages from Kibby. Alden couldn’t think of a single thing that would have made him happier.
+
+Stuart blinked. “Your smile is very wide.”
+
+“I was worried people would change their minds about letting the human talk to her.”
+
+Stuart’s face went still. Alden realized he’d been too honest. And then—wonder of wonders—Stu-art’h navigated the two of them around a point of social awkwardness all by himself.
+
+“I figured out why you enjoy the word hyektch so much. You’ve been watching a lot of children’s shows. Do you actually like the goodchild <<genre>>? I always found those stressful when I was young.”
+
+“How can you tell?”
+
+“I didn’t view your messages from the girl. But she gave each one a very long title so that you could sort them by subject. She wants to talk to you about those shows, demons, the videos of the ocean you sent her, recipes for something she calls stripey birthday goo, and your evil kyat?”
+
+“Cat,” said Alden, grinning broadly. Kibby pronounced it a little funny. “My evil cat.”
+
+“Oh.” He stared off into the distance for a second, and then he said, “A common small pet on Earth.”
+
+Stuart always looked like he was staring off into space when he accessed information through the eye rings. Alden had seen him do it several times during their previous, very long conversation. Most often to look up the English swear words Alden had been using to enforce casualness.
+
+It’s unusual that he doesn’t do the split-eye thing much.
+
+In fact, now that he was thinking about it, Alden couldn’t remember if he’d ever seen Stuart do it. He was fairly sure the other boy could split his focus like other Artonans, since he’d been able to carry on a conversation while hand-casting on his metal block for the spell ring. Maybe he didn’t like double visuals?
+
+“How was your week?” Alden asked.
+
+“Busy. Not in an enjoyable way. I had too much work that seems irrelevant to my future.”
+
+“How was Ro-den?”
+
+Stuart hopped up on a giant tree root and took a seat. “You were only partially right with your guess. He didn’t swear at us as much as usual. He did it more. It scared one of my assistants so badly that I gave her permission to leave, but that made her scared that I was upset with her. So I gave her permission to stay. And then she said she was worried she’d pressured me with her emotions, and now I don’t even know what to do to reassure her.”
+
+Alden took another bite of his pasta. “I’ve never had an assistant, so I can’t help you there.”
+
+Stuart sighed. “I’ve never had personal ones either. And I grew up around the people who work for us at home. A couple of them are even distant relatives. It was never so strange. Multiple assistants are necessary for school, though. Labs and a few other classes require more than one set of hands.”
+
+“My week…it’s been two human weeks actually, and they were busy, too. But it’s mostly been the enjoyable kind of busy for me.” Alden smacked his lips.
+
+“You really like whatever you’re eating, don’t you?”
+
+“You’ll just have to forgive me.” Alden pointed his fork at his bowl. “This was made by an S-rank Ryeh-b’t with Cook of the Moment. I’m not going to put it away and let it get cold while we talk.”
+
+“I don’t know which human skill names correspond to which skills.”
+
+“You guys read skills as a kind of spell code?”
+
+Stuart raised an eyebrow. “We can…there are so many. And they’re much more complicated than most spells. And they're usually re-designed and affixed slightly differently for each species. If you don’t already know what they do, and you don’t want to trust that they’ll do what the Contracts tell you they will for some reason, then you have to actually take a look at how they’re built. It’s <<a pain>>, from what I understand. I haven’t taken classes in that subject area yet. I just meant I wasn’t sure if it was one of the Ryeh-b’t cooking skills I’ve experienced at special meals before or not.”
+
+“I only know it tastes like someone made this just for me. I’ve never eaten it before, but it feels like comfort food. Like something I have fond memories of eating in the past, even though I don’t. And it smells like…like happiness.”
+
+“Oh,” said Stuart, giving him a small smile. “I do know that one. Do you want to be alone with it?”
+
+Alden shook his head. “I’m fine. I eat three meals and two snacks like this every day now. For first meal I had an almond muffin so good that, for a second, my vision blurred.”
+
+“…you’re having someone cook for you with that skill five times a day?”
+
+Alden opened his rainbow cube salad and dug his fork in eagerly.
+
+Stuart stared at him. “There is a boy in my student house whose family has their long-term ewtwee Ryeh-b’t teleported to campus every night to <<tuck him in>>. She preps the room for ideal slumber and maintains a soothing environment for him until he falls asleep. Until now, I thought that was the most excessively luxurious use of magical resources I would ever see from someone my own age.”
+
+“No way,” said Alden. “I met those LeafSong kids. They can do so much worse. And sleep is very important. I should find a soothing environment maintainer for myself.”
+
+“You’re going to warp the pleasure centers in your brain.”
+
+“There are probably healers for that. You’re just jealous because this salad dressing tastes like angel tears. I bet you can sense it from Artona I.”
+
+While Stuart tried to figure out the phrase “angel tears,” Alden finished off his lunch.
+
+“Now I have to go suffer for a couple of hours,” he said. “At the gym. With my trainer. You can hang out in my head if you want to, but it’ll probably be boring.”
+
+Stuart looked fascinated by the idea of watching someone else work out. Because despite improvements, he was still weird as heck. “Why are you training?”
+
+“For fitness. Humans do that. Also, for not looking like I’m lazy at school.”
+
+“Is that a risk?”
+
+“I’m going to school with people more powerful than me. Soon. Everyone seems to think it’s going to be difficult for me to fit in. They’re probably right.”
+
+“Why do it then?”
+
+“Because…”
+
+Alden had been concealing his true thoughts a lot lately. Sometimes out of necessity, sometimes because it was just easier not to give everyone else an opening to pry at painful things. But occasionally, some expression would cross Stuart’s face that reminded him of what the boy had looked like that day. When he was younger. When he watched his father and his sister in the snow.
+
+“I was really scared for a long time,” Alden said eventually. “I think I still am. I need to get over it. Throwing myself at something challenging that will make me stronger might not be a perfect answer, but it seems like an answer. So I’m chasing it.”
+
+Stuart sat there quietly, leaning back against the trunk of the tree for ages. Finally, just when Alden thought the other boy must have decided that the best answer was none at all, he said, “I wish you were my classmate at LeafSong.”
+
+“I think that one would be too much of a challenge for me.”
+
+“I still wish it,” said Stuart, staring up into the branches. “You never say anything that makes me hate you.”
+
+********************
+
+A few nights after that conversation, Alden finally got nine solid hours of only mildly restless sleep for the first time since he’d made it back to Earth. He woke up feeling almost like he was really among the living.
+
+Lying in bed with the early morning sun streaming through the window, he took a deep breath and a deep look at himself.
+
+Himself.
+
+It was always in the corner of his mind, but he’d avoided giving it his deliberate focus for weeks.
+
+Am I okay now?
+
+He was not. But he was okayer, definitely, than he had been.
+
+For the first time, he traced the new edges of his skill on purpose. He held his authority in check, and he didn’t allow it to batter and rend itself in the way it had been trying to do ever since that day. Slowly, carefully, he took in the affixation.
+
+It was bigger. Stronger. A bit more complicated. New buttons to press.
+
+He was both less and more than he had been when he left the lab behind.
+
+That’s all right, he told himself. It’s not only a bad thing.
+
+A portion of him was still free. More than there had been right after the binding, he thought. Though maybe that was just reason seeing things more clearly than his emotions had.
+
+Enough to cast a spell with?
+
+Alden thought so.
+
+Not the auriad spells yet. But the one that lit the promise sticks. The one that made the little song in the air. The hand sanitizer spell.
+
+They had been his. He wanted them again.
+
+But I don’t think that’s the best way to start back.
+
+He put a lot of thought into it while he took his time getting dressed. Starting back with the kiddie wizardry, which he craved and knew he was going to love just as much as he had before, was…a mindset problem.
+
+Do you want to hate your skill more than you have to?
+
+She’d asked him that. And he didn’t. He wanted to like it like the other Avowed did. Or at least be proud of it. Or get some little thrill from it, like he had before he’d known.
+
+Assuming he passed his upcoming second interview, he had just a little more than two weeks before he’d be required to use his powers for Celena North High’s talent and combat assessments. The latest updates Neha had made to his schedule called for him going on a campus tour today. Just a couple of hours from now.
+
+It seemed like a good morning for a debut.
+
+He walked across the hall and knocked on the door of the girls’ apartment. Emilija answered. The other Rabbit was in her pajamas still, and she wore a suspicious look until she saw him.
+
+<<Oh, it’s just you.>>
+
+“Harsh.”
+
+<<I thought you were one of the stalkers.>> She tucked a strand of dark hair behind her ear. <<You’re not a stalker. You’re the bad person who stole our chef.>>
+
+“She still cooks for you guys.”
+
+<<Not nearly as often.>>
+
+Alden smiled. “Is there still vegan ice cream stuff? And is Hadiza in?”
+
+<<Hadiza!>> Emilija shouted, stepping aside to let Alden in. <<The thief wants you!>>
+
+In the girls’ apartment, there was Emilija with her chipped paint skill, the girl with Tailor Environment, Natalie, and Hadiza. The Nigerian Rabbit was a B-rank like Alden. She had a skill that made small objects more beautiful.
+
+It wasn’t like Tailor Environment or the hair cutting. She didn’t have to do or arrange anything by hand. She just pointed at things the size of a shoebox or smaller and, whatever they were, they got more aesthetically pleasing in a dozen tiny ways.
+
+It was a fun skill to watch work. One of those that really looked like magic.
+
+“Hi, Hadiza,” he said when she came out of her room and gave him a curious look. “Can I buy the world’s prettiest ice cream cone from you?”
+
+“Yes,” she said. “I’d like that. <<What are you going to do with it?>>”
+
+“I’m going to carry it around in my pocket all morning.”
+
+Emilija gasped. <<Natalie! Natalie! Come out here. Alden’s finally going to show off his skill!>>
+
+“I am. My very impressive ice cream carrying skill.”
+
+Peer pressure was good in this case. It would keep him from throwing the ice cream across the room if it hurt really bad.
+
+Natalie dashed out of her own room with her toothbrush in her hand. “Did he do it?! Did I miss it?”
+
+“It’s really not that great.”
+
+She wiped foam off her chin with the back of her arm. Her gold eyes were excited.
+
+Hadiza started pulling things out of the fridge and freezer. The second fridge and freezer. The first thing Natalie had done when Alden started paying her was buy a ton of new kitchen stuff. She was going to take it all with her when she left intake, but for now their apartment looked ridiculous.
+
+There were six cookbooks open on the counter, and there were flour spatters on the walls. Both fridges were totally crammed with experiments. There was a new electronic pizza oven half-unboxed in the corner.
+
+Alden sat down and watched. Never had an ice cream cone had so much input from so many people who were deeply invested in its final appearance.
+
+<<Why are you starting with an ice cream?>> Emilija asked.
+
+Alden watched Hadiza and Natalie put sprinkles on top of raspberry sauce.
+
+“Neha says you should do things just because they bring you joy sometimes. And I think carrying ice cream around in my pockets when nobody else can do that is neat.”
+
+The other Rabbit nodded.
+
+The triple-decker ice cream cone was completed. It was pretty before Hadiza even did her thing, but then she pointed at it, and it turned into something that looked like it had been clipped from a magazine cover. The sauce turned glossy-bordering-on-glittery, the sprinkles were suddenly perfectly distributed, the vanilla coconut ice cream got whiter, the chocolate banana got darker, the strawberry turned lipstick pink. The scoops even looked rounder.
+
+“Do we think it’s an illusion? Or does it really do stuff to all of it?” Alden asked.
+
+<<It’s magic,>> Emilija said with a shrug.
+
+“Now you do yours!” Natalie said eagerly.
+
+“Right,” said Alden. He felt nervous. “Just let me target Hadiza.”
+
+He could have pointed, or said “Target Hadiza,” and the System would have flipped that internal switch for him. He’d never actually targeted someone without the assist, since he’d simply refused to let the target on Kibby drop for months for fear it might not work.
+
+But he remembered the feel of it. The weight of that pull between him and his target. He wanted to do it himself.
+
+He found the place inside him—the permanently bound mote of his authority that would never do anything again except for this one specific task. He woke it up. He flexed it. Her, he thought. Hadiza.
+
+He felt an ache. He felt the connection.
+
+A halo of white appeared over her head on his interface.
+
+She didn’t feel anything. She was waiting for some indication that he’d done it. So he pointed at her.
+
+She smiled and held out the ice cream cone.
+
+All right, thought Alden. I’m the Bearer of All Burdens. I ran across a moon. I think I can handle a little frozen dessert.
+
+He took it from her.
+
+He wrapped his skill around it. Consciously. Deliberately.
+
+It worked just like it was supposed to. Of course. His bound authority was still oversensitive, but it did its job flawlessly. He slid off the stool.
+
+The damn carriage rule is still in effect. I’m going to work on breaking that down as soon as possible.
+
+<<Did it work?>>
+
+“It did!” said Alden. “Sorry it doesn’t look very impressive.”
+
+He glanced down at the preserved ice cream. Then he shoved it into the pocket of his hoodie and walked around their living area with it before pulling it out and revealing that it was totally unharmed.
+
+They applauded. And then…
+
+“I’ll get the blowtorch!” Natalie cried.
+
+“Excuse me?”
+
+“It’s just a little one! For creme brûlée and meringue.”
+
+That would be fine…but it probably wasn’t going to feel good.
+
+<<Can I slap it?>> Emilija asked, heading toward Alden with her hand outstretched.
+
+<<Where’s the really sharp knife?>> Hadiza muttered.
+
+Were they always this violent? Alden wondered, looking down at his perfect ice cream. Were they just waiting for their chance ever since I told them I could carry bombs?
+
+Emilija slapped the ice cream lightly. And then, excited by her failure to do any harm to it, she did it a second time with what was probably every bit of her F-rank upper body strength.
+
+<<OW!>> she said, shaking her bright red palm.
+
+“You should meet my friend Jeremy."
+
+The slap was nothing. There wasn’t really an increase in pain or even difficulty. Alden had detected it. Even with his eyes closed, he would have known something had impacted his object. But it was nothing at all like…
+
+Well, what did you expect? A girl slapping your preserved object to feel like a chaos assault on Kibby?
+
+Curious, he let the girls experiment. The knife was fine. The blowtorch was fine. It was just a little baby blowtorch, like she’d said, but still…
+
+So this is what powering up the skill does for you.
+
+“Can I hit it now?” Natalie asked, flipping a meat hammer in one hand.
+
+“That depends,” said Alden warily. “You’re an S-rank…you didn’t…what’s your Strength stat?”
+
+<<That’s sweet. He thinks you look like that naturally.>>
+
+Alden didn’t. But just because she’d clearly put the lion’s share of the free points she would have gotten as an S into Appeal that didn’t necessarily mean she’d put all of them—
+
+“I put all my extra points in Appeal!” Natalie said cheerfully. “I am stronger. Because it’s more appealing if you move well, and that takes strength. But it’s nothing crazy.”
+
+“Oka—”
+
+She walloped the ice cream and then laughed excitedly when the hammer flew out of her hand and across the room.
+
+“This is the best!”
+
+<<Let’s take him upstairs and see if the Meisters can break it! There’s that girl with the katana.>>
+
+“I have to go on a tour now,” said Alden, grinning in spite of himself. “You scary people need to leave me alone.”
+
+He tucked the ice cream in his pocket and left.
+
+He waited until he was out on the street to say, “System, ditch the targeting assist. And the halo. I don’t need it.”
+
+The point of light that represented Hadiza’s location winked out. He could feel where she was still.
+
+He focused on the preservation for the rest of the morning.
+
+It was so easy. Despite the pain, it was just so much easier.
+
+And when he pulled his triple decker ice cream cone out of his pocket in the middle of the tour and finally ate it—earning a few curious looks from the other people in the group—he did feel a little bit cool.

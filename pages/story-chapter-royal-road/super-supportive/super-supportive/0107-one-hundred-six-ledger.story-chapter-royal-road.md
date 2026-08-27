@@ -1,0 +1,543 @@
+---
+id: 5f3f4d4b-e0f1-5388-aec5-143e207f6f0b
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIX: Ledger"
+slug: 0107-one-hundred-six-ledger
+partOf: super-supportive
+position: 107
+ownLength: 6721
+unit: words
+publishedAt: 2024-01-07
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1468935/one-hundred-six-ledger"
+royalRoadId: "1468935"
+---
+
+106
+
+At North of North that morning, Alden had a plyometrics session with Bobby and the guy who’d been analyzing how his movement trait stressed his body.
+
+They’d roped off a section of the building’s marble-floored foyer just for him because they wanted to watch him on different types of “ground,” and they hadn’t tried marble yet. He was doing his best not to feel self-conscious while he jumped up and down on progressively higher boxes.
+
+Regular jumping. Magic jumping. Higher, Alden. Faster, Alden. Ignore all the superheroes getting their smoothies, Alden.
+
+There’s an actual hyperbole watching me hop around. That’s not strange at all.
+
+She was a spunky-looking girl with teal hair.
+
+Well, not a girl, he corrected himself. Isn’t she like forty?
+
+She was a U-type, and in English, her name was Plopstar. Alden had always found that concerning.
+
+Laying waste to acreage with falling magic sparkles? Awesome.
+
+But calling yourself Plopstar while you did it? Could she really be trusted to aim her magic sparkles at the right spots?
+
+“Let’s get some more height on the next one,” said Bobby, moving a mat out of the way. She’d brought it to toss in front of him in case he overshot a box on a high jump. “Tell me if anything starts to hurt.”
+
+While Alden was checking to make sure the enamel rabbit pin he was using as his preserved object was still tucked deeply in the pocket of his shorts, a text message from Lute popped up. He’d just woken up, and he was booking the privacy booth for them to have their wordchain tutoring session.
+
+[Do you want a creepy one, a snobby one, or an underwater one?]
+
+Why are those the only three options? Why are those options at all?
+
+When he’d heard the phrase “privacy booth” he’d assumed it would be similar to an office cubicle or a restaurant booth. Lute seemed like someone whose idea of creepy might be really creepy.
+
+[Isn’t there a normal variety?]
+
+[What about one in the back of a Wright shop? They’ll check our molars for explosives and teach us a secret knock.]
+
+[Snobby sounds good,] Alden said immediately.
+
+If molar checking happened at these places, he wanted the least creepy molar check available.
+
+“Throw your hips into it!” a voice shouted across the foyer. “You can go higher, kid!”
+
+[Plopstar is yelling at me,] Alden told Lute.
+
+He tried to ignore her. Then he realized that ignoring was probably not the way to go with one of the most powerful people in the world. So he smiled and waved instead.
+
+[R.I.P.] said Lute. [It was nice knowing you. When she glitters you to ash, can I have your room?]
+
+******
+
+Alden survived his gym session with only a little more input from a Rank 1 than he would’ve liked, and afterward, he set off on a rental bike for a skatepark where Lute was hanging out with Haoyu.
+
+It was a gorgeous day for Anesidora—blue sky, sunshine, breezy. People were walking around in flip-flops and tank tops and pretending it was actually warm instead of just warm enough.
+
+Lexi thinks the rest of the planet isn’t for us, and it never will be, Alden thought as he pedaled.
+
+He felt so unsettled by the sentiment, and he couldn’t understand why he did. He was perfectly aware of what Anesidora was. He’d had multiple conversations with people about it. A lengthy government letter was still in his inbox, announcing the official date his U.S. citizenship had expired.
+
+Maybe it was the way Lexi had delivered the opinion. Like it wasn’t really up for debate…just a simple truth.
+
+“Hey, System,” he said, as he wove around a stroller that had been parked in the bike lane outside a clothing store. “Pull up my exit letter. The one that de-citizens me. Text to audio.”
+
+He didn’t know exactly what he was trying to figure out as he listened to the message read itself. He wanted to judge the tone, maybe, and that wasn’t the easiest thing to do. The letter sounded like it had been crafted by a roomful of writers who’d been threatened with execution if there was a single negative connotation toward any party.
+
+There was no line in there that explicitly said, “Fuck off, Alden Thorn. The country just works better for the rest of us without you in it.”
+
+It was, of course, professional and full of language that implied he was a good person and should be proud of himself. They were confident he would use his “extraordinary gifts in protection of and service to our United Nations of Earth and all other known peoples throughout the universe.”
+
+Yeah, it’s pretty final.
+
+He was surprised they’d thrown the other species into the mix, though. It felt like an unusual show of solidarity with the other resource worlds in the first place, and in the second, this was a letter about how Alden had to live on Anesidora now.
+
+Stay there. That’s the spot where we put the people with the extraordinary gifts. Good boy.
+
+It really didn’t have anything to do with the “other known peoples throughout the universe” at all.
+
+…so that’s it. They couldn’t manage to make living on an isolated island sound like my noble duty, so they talk about how I’m protecting and serving as an Avowed instead and hope I won’t notice the two are entirely separate things.
+
+Not surprising. Nothing new.
+
+It just sounded different a few hours after he’d heard Lexi describe Anesidora as “the place that actually wants us.”
+
+He looked around him. A girl in a university t-shirt was in the lane ahead, using Shaping gestures to power her bicycle instead of the pedals. On the street, people were making full use of their running licenses, whipping around cars and motorcycles. And he’d spotted Bedlam Beldam on his way to the gym, soaring around above the drone traffic layer on her broomglider.
+
+He’d taken a quick video for Boe.
+
+It was all so Anesidoran. So Apex.
+
+A couple of minutes later, he reached a small skatepark. He racked the bike and took in the scenery. It had sounded like his roommates were just going to hang out together, and Haoyu was going to teach Lute how to use a board. But their plans must have changed.
+
+He saw Haoyu, but there was also a large and peculiar assortment of their classmates present. Kon was there, so it was probably his doing. Lexi’s brother went through the day picking up people like they were Easter Eggs.
+
+Maricel, Vandy, Tuyet, and Everly were all playing around with a single skateboard. It was obvious they’d never used one before. Heloísa was doing conspicuous kickflips in Mehdi’s line of sight, and he was pretending not to see her while he went up and down a ramp.
+
+Haoyu was on a board at the edge of the park, animatedly explaining something to a watching Kon and Jeffy.
+
+The girls were closest, so Alden headed over to them.
+
+“If I ice the top of it and use my skill to stick myself to it do you think that will make me better or worse?” Everly asked Tuyet and Vandy. She had her arms crossed over her chest and she was watching Maricel skate away from them across a flat section of concrete.
+
+“You might damage Haoyu’s board.” Vandy’s hands were making a pressing motion down by her sides.
+
+Alden looked around for whatever patch of air she was working on. Vandy was almost always doing something with her magic. It took him a while to spot it today. Her shoulder-length hair didn’t seem to be moving in the breeze like everyone else’s.
+
+“Hi, Vandy! Are you shaping the air around your face?”
+
+Blue-gray eyes fixed on him.
+
+“Yes,” she said. “I’m practicing stilling rather than moving today. Maricel is practicing soil compression with the dirt in her pockets. Everly is thinking about freezing skateboards. And Tuyet…is taking a day off. For rest.”
+
+Everly shook her head.
+
+Oof, thought Alden. The judgment in her tone.
+
+“I can’t throw darts around out here in public!” Tuyet protested. “It’ll scare people. They’re weapons, and they're little. It’s hard for anyone to know if I’ve got safety blunting on them or not.”
+
+Vandy was the kind of person who asked you with utter seriousness how you were going to overcome your Rabbit disadvantages so that she could make plans for shoring up your weaknesses if you happened to be in battle together fifteen years from now. It had to be tough to be her friend sometimes.
+
+“Not everyone wants to practice every minute of every day,” Everly told her. “Weekends are healthy. Alden’s not practicing right now.”
+
+“Yes, he is,” said Vandy.
+
+Alden looked at her in surprise.
+
+“He’s almost always practicing,” Vandy informed the other two. “It’s just that his skill is subtle, and you can only tell he’s using it if you’re watching him walk across ground element surfaces. Or examining his pockets.”
+
+Maricel was skating back toward them. Her pixie cut had gotten a dye job. She had a few small pink streaks at the back of her neck.
+
+She smiled as she joined them.
+
+“Are you really time-stopping something right now?” Tuyet asked Alden.
+
+A few people almost always referred to Alden’s power with temporal language rather than using the words he himself usually did when he was talking about it—preservation, freezing, shielding…
+
+They all pretty much knew what the skill did by now. He thought the vocabulary difference had to do with whether he had tried to explain it to them himself or if Konstantin had gotten to them first. The Adjuster liked talking about time magic for obvious reasons.
+
+I’m just glad Maricel is a nice person who doesn’t tell people about the pickles misunderstanding.
+
+Pickle Man would be a difficult image to escape from.
+
+“What are we talking about?” Maricel asked brightly.
+
+“Vandy says she can tell when Alden’s practicing his skill,” said Tuyet.
+
+Everly was staring at Alden’s butt.
+
+“Not my back pockets,” he clarified. “I almost never have an item there.”
+
+Because his skill wouldn’t work if he accidentally sat on his object instead of letting it sit on him.
+
+“No,” said Vandy. “He keeps objects in his front pockets if he doesn’t have them in his hand or his bag. Usually his hoodie. I always check to see if he’s practicing in Intro to Other Worlds.”
+
+So I’m going to have to make sure I don’t stick anything too weird in the pockets from now on.
+
+“You could just ask me…”
+
+“It’s good to examine other Avowed and determine when their powers are in use,” Vandy explained. “You’re one of the best people in our class to practice observation on.”
+
+Now they were all staring at him.
+
+“He doesn’t have a hoodie on today,” said Everly.
+
+“The front pockets look normal,” said Maricel, examining his jeans.
+
+“Maybe it’s one of his shoelaces?” Tuyet bent over to poke at Alden’s feet. “He could do it to keep a shoe from coming untied.”
+
+I hadn’t thought of that one yet.
+
+“I know he has something,” said Vandy. “He has a trait. It’s tied to the skill’s use like a lot of Rabbit traits. It makes him walk differently on ground when he’s protecting something.”
+
+“She’s right,” Alden admitted, digging his hand into his front pocket and producing the enamel pin. “I can cut the trait off, but I usually don’t bother. I carry this sometimes when I just want to practice and I don’t have anything I really need to preserve. Or I pin it to my shirt. It’s small, so it doesn’t get in the way.”
+
+“Aww, it’s a bunny!” said Everly.
+
+“They gave them to all the Rabbits in intake.”
+
+Maricel looked at him for permission, then reached out with a finger to poke the pin on his palm. “I really can’t touch it. It looks like I’m touching it. I’m touching something. But it’s not the pin.”
+
+“You’re touching a layer of protective magic.”
+
+Vandy looked very satisfied.
+
+“All right,” Tuyet said with a sigh. “I’ll practice later. Not here where I might accidentally poke out somebody’s eye.”
+
+Right. “Have you guys seen Lute Velra? I’m supposed to be meeting him here, but…”
+
+He trailed off as a distinctly uncomfortable shift occurred. Vandy stiffened up like a board. Tuyet’s lips pursed. Everly wrinkled her nose.
+
+Maricel hadn’t noticed. She was still rubbing the preserved pin curiously with her finger.
+
+“Why are you hanging out with him?” Everly asked.
+
+“He’s my roommate.”
+
+“Yeah. I know. Haoyu’s living with him, too.”
+
+“He was here when we got here,” Tuyet said slowly. “And then he left.”
+
+Alden frowned at them. “He’s tutoring me.
+
+Everly scrunched her nose again. “Are you learning music?”
+
+“Wordchains,” said Alden.
+
+“I need to try that!” said Maricel, looking up. “I’ve never done one.”
+
+“Let us teach you,” Vandy said immediately.
+
+“I know two different ones,” said Tuyet.
+
+Maricel suddenly caught the vibe. She looked between Alden and her roommates. “Um…”
+
+“I don’t mind teaching you, too” Vandy said to Alden. “It’s good you want to learn some. Supplemental magics will be particularly important for you.”
+
+Holy shit, they must hate Lute.
+
+They hadn’t said anything terrible, but Alden hadn’t even realized Tuyet had a critical bone in her body. She got nervous if people argued during breaks in gym. And he rather liked Everly. She was super tough and hard-working. And Vandy had just offered to tutor him…instead of saying, “Will the expert tutor me, too?” Which would have been more in line with what he thought of her character.
+
+If they were known dicks, like Winston or Mehdi, he’d probably have said something cutting…but they weren’t. And Maricel was here. And these were the people she was trying to make friends with.
+
+Evacuate, he decided.
+
+“Thanks, but I’m grateful Lute’s teaching me. He’s been taking time out of his schedule to tutor me all week, and he’s amazing at it. I’ll track him down.”
+
+[Lute, where are you?] he texted quickly.
+
+[Skatepark still.]
+
+[I’m here. I don’t see you.]
+
+[Already? Meet me on the side farthest from the street. By the trees.]
+
+“Found him,” said Alden, even though he hadn’t yet. “Bye, guys.”
+
+He spun and headed away from the street, walking along the edge of the park to steer clear of the skateboarders. A second later, he saw Lute drop out of a tree and take a seat on a metal railing that marked the boundary between the park and a walking trail.
+
+When Alden joined him, Lute said, “We’ve got half an hour until our car comes.”
+
+“Car?”
+
+“We’re going in style because we can…and because my boss is paying for it.” He nodded toward the park. “You want to go hang out with Haoyu and your hero program friends while we wait?”
+
+The girls Alden had just left behind had their heads together. He wondered if Maricel was getting some kind of Lute-related gossip right now.
+
+“Are you going to hang out with them?” Alden asked.
+
+Lute pulled his knees up so that he was sitting on the railing like a gargoyle. He was wearing his safety pin pants and a t-shirt with a Jolly Roger flag on it. It wasn’t the first time Alden had seen him boldly go for pirate themed clothing with the eyepatch.
+
+“Not my thing,” he said after a moment.
+
+“Well I’m tired from jumping on boxes, so I’m good over here, too.”
+
+Lute smiled. “Tell me about meeting Plopstar then.”
+
+“She cheered me on while I exercised. Or maybe it was heckling. One or the other. Normally, Bobby would’ve asked her to stop. The gym has a ‘no bothering’ policy.”
+
+“Don’t tell me you expected your personal trainer to yell at a hyperbole for you.”
+
+“Of course not. I was just noting the difference.”
+
+“A kooky hyperbole, no less.”
+
+A thought suddenly occurred to Alden. “Do you think you’ll be one someday?”
+
+“Huh?”
+
+“A hyperbole,” said Alden. “I just realized you’re probably the person I know who has the best chance—”
+
+“No!” said Lute, gripping the railing and staring at him. “What a thing to say!”
+
+“You are super strong and you’re only fifteen,” Alden pointed out. “I know you’re not a Unique, and nobody except the rank-uppers have got confirmation about how the System makes the upgrade choices. But power has to be a major part of it. Surely people mention it to you sometimes?”
+
+Lute coughed. “No. They don’t. That’s…probably because most of them think I’m jerking everyone around with the second S. But even if they did believe me, it doesn’t mean anything. S’s get second and third S-rank talents. It doesn’t mean you’re about to hyperbolize.”
+
+Not fifteen-year-olds, thought Alden.
+
+But Lute was looking wild-eyed, so he let it drop.
+
+They watched the skaters for a while, paying more attention to the older people who were doing tricks with their magic than to Alden’s hero program classmates. While Lute was saying that someone who could float was way less impressive than professional non-Avowed skateboarders, Alden got a notification email he’d been waiting for and dreading.
+
+[New Update from Barre Fine Environments!]
+
+When he clicked the link, it took him to Manon’s main social media page, where, instead of the usual photo post filled with luxury goods and interiors, her away notice had appeared. It was an animation of a gold hourglass with the words “Currently Designing for Clients on the Triplanets” beneath it.
+
+She’d been summoned.
+
+He watched the hourglass turn over. He knew from looking at older posts that she was usually gone for at least a few hours.
+
+So…this is our first chance to go through with the plan since we decided what the right plan was.
+
+He sighed so heavily that Lute looked over at him. “You good?”
+
+“I have to send a bunch of messed-up cult members messages letting them know I have observed the fact that they are in a messed-up cult and advising them to go promptly to the nearest Sway or Mind Healer to have themselves checked out for their own safety.”
+
+“What the hell?” said Lute, tilting his head and giving Alden a confused look. “I need to ask. Do you just wake up every morning and try to make your life bonkers in a brand new way?”
+
+“This is the first bonkers thing since I’ve met you!”
+
+“Do you want me to give you a blow-by-blow of your past week? You did attend classes like a normal person. Sort of. But usually, prompting me to place a phone call to Parethat-uur on your behalf would be enough action for a couple of months, don’t you think?”
+
+Alden stared at him. “Would it?”
+
+Lute huffed. “I knew you didn’t think of it that way at all, which was why I wanted to do it for you in the first place. And then you had your own interesting phone call a couple of days ago. And now this. You are so busy, man.”
+
+“I thought the past few days had been relaxing,” Alden said. “Actually, I know that they were relaxing for me.”
+
+The System had totally pointed out how relaxing and pleasant his week had been before it trapped him in his old school counselor’s office and threatened him with levels.
+
+“I’ve even been sleeping at night!”
+
+“Oh yes. Sleeping at night, of all times, is proof that you’re taking it easy.” He slid off the railing and punched Alden lightly on the arm. “Come on. Our ride’s here. You have got to tell me about why you’re involved with a cult. I’m excited. Living with you is exciting. Let’s go spend five thousand argold on a tutoring session.”
+
+“How much?”
+
+“Probably more than that actually. I’m not sure what the little gifts cost.”
+
+“The what?”
+
+******
+
+They got in a car with tinted windows and a driver who spoke not a word to either of them. He took them to a parking garage where there was another driver in another car with tinted windows. They didn’t transfer vehicles. They just waited for a few minutes, and then both cars drove out of the garage together and turned in opposite directions down the street.
+
+“Lute, is all of this necessary?” Alden hissed. “We’re going to talk to each other, not commit crimes.”
+
+Lute was sitting crosslegged in his seat, eating a chocolate bar that had been provided in the car’s snack basket.
+
+“Call me Mr. Velra. That’s my crime name.”
+
+Alden snatched a bag of peanuts from the basket and started eating them nervously.
+
+“Chill. It’s just part of the experience. If we were actually doing crime or concerned about people knowing we were having a private meeting, then we’d be doing something completely different. You can arrange a much more secret rendezvous if you’ve got enough money and put enough forethought into it. Teleportation is what the best bad guys use.”
+
+“Seriously?”
+
+Lute nodded. “The allotment the System gives Anesidora is enough for the government to sell local rides. Just not that many.”
+
+The car made two more stops at locations where it could have put them out without them being spotted before it arrived at their actual destination. It was another parking garage. This one was for a luxury mall in midtown Apex, not that far from where they’d started.
+
+Alden raised an eyebrow at Lute as they followed a slender woman in a tight black pencil skirt down a service corridor. She looked like she was in her early twenties. When they reached the end, she turned to them.
+
+<<My profile,>> she said in Spanish.
+
+A moment later, her full Avowed profile appeared in front of them. She was a D-rank Sway with nothing but a lie detection ability. <<Do you consent to me using my powers to confirm the honesty of your answers?>>
+
+“Yep,” said Lute.
+
+“Okay,” said Alden.
+
+He felt her target him almost at once. Being targeted was even more subtle now that he wasn’t suffering from post-affixation sensitivity, but he still noticed it when he wasn’t very distracted or when he was a little on edge. <<Do you have any intention of damaging the privacy booth you are about to enter?>>
+
+“No,” he said.
+
+<<Do you have any intention of leaving a device of any kind behind when you leave?>>
+
+“I don’t.”
+
+<<Do you have any intention of betraying your companion’s secrets to any entity?>>
+
+Alden looked at Lute in surprise. Was this a standard question or one he’d requested specifically? “No.”
+
+Lute answered the same three in the same way. “Both parties are honest.” She cracked a smile for the first time since they’d met her in the garage. “You’ll have to trust me on that since you’re not traveling with your own personal Sways.”
+
+To Lute, she added, “The packages that arrived for you are waiting inside.”
+
+Then she knocked on the wall behind her six times, and it swung open to reveal a room that definitely didn’t belong in this dull back corridor.
+
+“It’s a replica of a suite on a European luxury train,” Lute said as soon as the door closed behind them. “I’m glad you picked snobby.”
+
+It was compact, but the quality of everything made it feel like it wasn’t a closet. The walls were glossy wood with decorative geometric inlay. Light came from glowing sconces and a line of panels along one wall designed to look like windows with semi-transparent shades pulled down. The tiny seating area was just a green velvet chair, a cream-colored loveseat, and a side table with a stack of packages on it. Right behind the chair, a queen-sized bed with an inlaid headboard filled the rest of the room, and if they squeezed past the foot of it, there was a tiny bathroom behind a sliding door.
+
+“Privacy spaces tend to be small,” Lute said. “It’s expensive to magically shield them from the million different ways people can pry, I think. So it’s smart if they’re designed to look like cool places that are supposed to be cramped. The underwater one was going to be a little submarine.”
+
+Lute kicked off his shoes and flung himself on the brocade bedspread.
+
+“Do they all have beds?”
+
+“It seems to be a common feature.” He clucked his tongue before rolling off the bed and stepping past Alden to examine the boxes on the table. “We’ve got this place for six hours, so if you need to send your messages or something, go ahead. I’ve got to look through the supplies before we get started to make sure I understand what it is Parethat-uur expects me to actually do with you. While I’m opening these, please do tell me about your cult problem. I am incredibly interested in peoples’ cult problems.”
+
+Alden took off his own shoes and sat down on the loveseat. It was so soft that it took him a second to stop appreciating the fabric with his fingers before he spoke.
+
+“If there was an Avowed talent that was capable of mind control and it wasn’t known as that kind of power, how bad would it be for the people who had it if the news got out?”
+
+Lute was undoing the latches on the front of a leather case.
+
+“It depends. There’s plenty of magic that skirts the edges of mind control, and people usually don’t freak out about it. Everyone knows if you whack Appeal up far enough interesting things can happen before the System cuts you off or starts offering you alternatives. And there are some iffy spell impressions outside of Sway. As long as it’s still in a gray area where you can’t say for sure the person used magic directly on your actual thoughts—”
+
+“I’m ninety-nine percent sure she does something directly,” said Alden. “I don’t think it’s the main way she controls her minions, necessarily. But it exists. I was really suspicious of her one day, and I knew she’d behaved badly toward me, then a couple of days later it was like that knowledge was at the back of my thoughts. My friends had to remind me that I had a problem with her, and I’m not usually forgetful about people who creep me out. And I was having a picnic with her cult once, and they were all being nice to me and I was being nice to them and then they just started strongly disliking me again mid-supper. And she totally convinced a lady with a busted leg that she was too shy to ask the medic for help.”
+
+Lute looked up. “Yeah…that’s less gray area and more actual mind control. It would be awful for the people who had the talent without knowing it.”
+
+Alden groaned. “I don’t want to ruin the skill’s reputation, but if the people I’m trying to help take me seriously, it’ll probably come out. I feel terrible about it.”
+
+“It’s not your fault someone found a dangerous use for a skill.” Lute shut the case and opened a carved wooden box. “This kind of thing happens. Anyway, if it’s got a mind control component, it’s going to be news eventually. If it’s today or twenty years from now, the only difference is when it gets ruined for people. And there could be someone taking it right this second who wouldn’t if they knew it would make them look suspicious for the rest of their life. So you might be saving more people than you destroy.”
+
+“Could we not use the word ‘destroy?’”
+
+“What’s the skill?”
+
+“It’s Tailor Environment. You know, the—”
+
+Lute spun toward him. “Shit. That’s bad. I was assuming it was something obscure. That skill is so popular.”
+
+“I know.”
+
+“It’s one of the sure-thing skills for C-rank Rabbits.”
+
+“I know.”
+
+“Everyone loves that skill. It makes the world comfortable. And it makes people so much money.”
+
+“The woman who’s misusing it is older. Probably one of the first people to acquire it, before it even got really popular here on Earth.”
+
+“Ohhhh…” Lute bit his lower lip and furrowed his brow. “Has the skill found its top yet?”
+
+“The guy who really popularized it says his is at level fourteen now. So probably around there.”
+
+“So it’s a skill that gets fat, too. That makes it more desirable. But it should make you feel better.”
+
+“Why?”
+
+“You say the person you met is one of the first to ever select it. She could’ve topped it off a decade or more ago. I’m sure there aren’t any C-rank Rabbits running around at level four or five who could make you too shy to get help when you were injured. And since it’s such a beloved talent, it might end up being a situation where people with it just have to be more open about their profiles from now on to prove they haven’t taken it really high. It’ll still be upsetting for them, but not life ruining. The Artonans might even change the skill for future human users…wouldn’t count on it though. Sounds like the mind control might be a desirable part of it, if it wasn’t a bad person using it that way.”
+
+Alden threw his legs up onto the loveseat. “You think they want it to do that?”
+
+“You think they designed one of their own favorite skills for their most frequently summoned class haphazardly?” Lute countered. “Tailor Environment is about arranging things so that they’re exactly where someone likes for them to be, right? Say you’re a wizard about to do some stressful wizard job. You snap your fingers, and a Rabbit appears. They clean your potion kitchen or whatever, prep your equipment in the perfect way and put all your tools exactly where they’ll be the most useful to you. Then, before you send them off with a pocketful of argold, you have them tuck your doubts and stresses behind task-focused thoughts so you can get down to business. Like having someone put the files in your head in order…it would be great.”
+
+“I assumed she was pushing the skill way out of line from its intended use,” Alden said.
+
+“She sounds like a freak. She touches brain without permission. If telling her victims makes the word spread, it’s a shame for all the nice Rabbits. But sometimes Avowed just have to deal with people thinking our powers are icky. And maybe, if it does work like I just guessed, it’ll be seen in a more positive light.”
+
+Alden glanced back at Manon’s hourglass animation. He checked his other messages just to make sure Boe wasn’t back from catspace yet.
+
+[Boater is getting their warnings today,] he texted. [Doing it the way we talked about. When you get back from your timeout, it’s your turn.]
+
+Then he went into his System profile and, for the first time ever, he got creative with his name.
+
+The Contract didn’t care what Avowed called themselves, and it didn’t mind them setting their preferred name to be entirely different things for different locations, people, or situations. It was normal among some species for an individual to have tons of names, and the Artonans were used to calling aliens whatever they wanted to be called.
+
+Sending messages under false identities was frowned upon among human Avowed. Just like spam mail was frowned upon. But nobody could punish you for doing it if they couldn’t prove beyond a shadow of a doubt you had.
+
+Alden changed his name to Alice. It was a decision he’d made in around a minute when he was working out the details of this plan. A female name was better for a couple of reasons. It started with A. He liked it…probably because someone named Alis had kept him from dying recently.
+
+He set the emails to go out at staggered intervals. He’d spent hours tweaking them until they were as perfect as he could manage. Laura would receive hers in a few minutes. Half an hour later, the second would go to Chris. Then half an hour after that, to Naya. And so on…all the way to Pineda.
+
+Then he hired a courier service to deliver hard copies of the emails to all the members of the boater in a few hours, after the last one had been sent. One would also be delivered to Alden at his dorm, as if the sender was concerned about him, too.
+
+Finally, he created a special social rule for himself. Every action he had just taken had been done under the preferred name Alice, and the rule said that when referencing these past few minutes of his life the System should never call him by another name.
+
+It was a sneaky feature from a human point of view. But the System liked doling out tons of options for the most trivial things…or maybe it was there because the Yumanit species had the concept of “momentary names.”
+
+Alden switched his name back.
+
+All the messages he’d just sent would now be from Alice. And if someone asked the System who’d sent them it would still answer “Alice” even though his name was now back to his original.
+
+It was secure because the Systems were disinclined to tattletale.
+
+Alden hadn’t always planned to send his warnings anonymously, but he’d decided there were significant benefits.
+
+First, Manon had pre-disposed the boater to dislike him. What if her brainwashing would prevent them from believing any message with his name on it?
+
+Second, if this all turned into a huge shitshow, he didn’t want Manon to try to sue him for defamation of character or something.
+
+She was probably going to think it was him. Cly Zhao would think it was him if the news ever reached her. The boater members, if they didn’t suspect one another, would think it was him. Everyone and their uncle was going to suspect Alden Thorn, but if his name wasn’t on anything, how would they ever prove it?
+
+He’d even used a girl’s name. Alice could have been ThwartHog, and there was no way they were going to get her onto Anesidora to say otherwise.
+
+The physical letters were being sent in case the boater people had their interfaces set to block messages from non-friends or people with recent name changes. And so that Alden would have a copy of his very own to take with him when he went to talk to Laura. He could say he’d gotten the same warning as the rest of them and use it as his opener.
+
+“I did it,” he said. “I warned the cultists.”
+
+He’d expected to feel a sense of relief once the job was done. He was glad that he would wake up tomorrow with this task erased from his to-do list, but he also felt a little like he’d just stepped off a ledge without checking to see how far below him the ground was.
+
+“Neat. That was fast.”
+
+Lute could out him as the sender, but Alden didn’t think that he would. If he did…if anything did…Alden would just have to stand behind the letters and say, “Yeah. It was me. Manon Barre hurts people. Sorry that the way she does it is going to make a whole bunch of other Rabbits look bad.”
+
+He hoped that a few of the boater members would go get themselves checked out…or even just one of them. And then, with proof in official hands, the legal system could deal with it all in a graceful way.
+
+Maybe Anesidora is good at this kind of thing. If they’re not, then nobody else could be.
+
+“The plan was in development for a while,” he told Lute. “Will you stay on the phone with me this evening while I go talk to one of them in person? In case she gets angry and attacks or the cult leader shows up and tries something on me.”
+
+He’d promised Boe he’d have local backup.
+
+“Of course. We’re having a special day together anyway.” Lute held out his hands. “System, I need my books.”
+
+A stack of books that looked like they ought to be called “tomes” appeared in his hands. His head barely peeked over the top of them. “Impressive, aren’t I?”
+
+“For using System storage?”
+
+“For having free System storage,” said Lute. “It’s just for the books and some other job supplies, though.”
+
+He turned and dropped the books onto the foot of the bed. “Good thing, too. They’re going to give me even more of these if I ever finish the first set.”
+
+“What are they?” Alden asked.
+
+“Most of them are full of wordchains I’m supposed to be learning. Sometimes it feels like my job as an Avowed is just perpetual homework. So much memorization.”
+
+Alden stood and went over to look down at the book covers. “These are all written in logograms. Can you read them?”
+
+“They get read aloud to me while I follow along. Like incredibly boring bedtime stories. To make matters worse, a lot of them aren’t even in modern Artonan. They’re from before the lingual unification. I was just memorizing the sounds of those ones…and then it turned out my boss was not impressed with that method even though it was working for me. So now I’m supposed to remember what all the sounds mean. You can imagine how well that’s going based on our Conversation classes.”
+
+He rolled his eye.
+
+“This…” He grabbed the smallest and plainest-looking of the books. It had a simple brownish red cover that flipped open from bottom-to-top instead of side-to-side. “This is what I was actually getting. I wanted to show off my homework and complain about it in the process. You can have this.”
+
+“Do I need to read it?” Alden asked.
+
+“No. It’s a ledger. They gave it to me on my first day as a Chainer for whenever I wanted to take a student.”
+
+Lute held it out toward him, and he took it.
+
+“You asked whether Self-mastery was an ‘exclusive’ wordchain, and I told you it wasn’t really. That I’d just need to vouch for you and get permission to teach it. This is the final step in me vouching for you. Giving you this means I’m taking responsibility for your wordchain usage.”
+
+He scratched his head. “You’re supposed to write down all your chains in here. And then show it to me or send me a copy through the System, so I can remind you when it’s time to pay them back. Sorry…I know it’s childish.”
+
+Alden flipped open the book. Inside, the first page had a spot for him and Lute to both sign their names. There was a line in logograms down one side that talked about following sacred paths. The second page was a grid. Despite the thick paper and some more poetic language sprinkled around, it was quite simple. There were spaces for chain names, casting dates, and finishing dates.
+
+“You want me to write down everything I use?”
+
+“Just what I teach you. If you wanted to write down more common ones when you use them, too, that would be a good thing for me. Parethat-uur is going to ask me about you all the time since he’s decided you’re the best, and you having a fuller ledger would make him very happy.”
+
+“I don’t mind doing this,” said Alden, thinking it through. “I can’t imagine why it would be a problem for me. But I don’t understand why it’s necessary. Wordchains pay themselves off if you don’t pay them off in a timely fashion, right?”
+
+“This is one of the things I was happy my boss ordered me to teach you about. The duty that I totally knew I’d get assigned when I called him. Wordchains do land the debt on you. If they’re healthy.”
+
+“Healthy?”
+
+“Let’s sit down,” said Lute, throwing himself at the green velvet chair. “This is only going to take a second to explain, but then we have to have our tutoring session and that’s going to take ages. Try not to get into trouble for the next few hours, all right? One mind control cult per day.”
+
+*

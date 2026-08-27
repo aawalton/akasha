@@ -1,0 +1,363 @@
+---
+id: eeceaa20-f15d-53cd-b100-48a7ae309425
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-NINE: Flashes I"
+slug: 0191-one-hundred-eighty-nine-flashes-i
+partOf: super-supportive
+position: 191
+ownLength: 4183
+unit: words
+publishedAt: 2024-12-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1958360/one-hundred-eighty-nine-flashes-i"
+royalRoadId: "1958360"
+---
+
+189
+
+******
+
+When was it that I lit a promise stick for the first time?
+
+Early April, in the vault with Kibby, during that stretch of days right after he’d figured out how to deliberately move his authority to return her pat. She’d been so ecstatic for a while there. Finally, a real learning partner, doing his sincere best! The same thing the other little wizards in Gwen-lor’s classroom had.
+
+And Alden had been so freshly aware of, and fascinated with, himself that they’d devoured Gwen-lor’s videos together and practiced until they couldn’t anymore, every single session.
+
+A spark at the tips of his fingers, the first flicker on the end of the stick, the smell of it burning…
+
+April, May, June, July, August, September, October.
+
+And here he was now at the end of November, holding an auriad.
+
+And casting sunlight. This is sunlight.
+
+A rectangular shaft of it shone in front of his auriad, like the release pattern he’d chosen was a window cracked open between here and some brighter place. He knew he should experiment a little before he wore himself out or his focus shifted in some detrimental way, but he kept kneeling there on his cushion, staring through the auriad at the motes of dust swirling in response to his own breath and at the bright shape he was casting on the back of his desk chair.
+
+His pleasure at commanding reality was present, but at the moment, it was taking a surprising backseat to an emotion he hadn’t expected to hit him quite like this, at a time like this.
+
+I couldn’t do anything. I didn’t know anything. And now I’m here.
+
+That was a thought he wanted to take with him to the inward path. He wanted to examine it in that calmer, unhurried way that the path and Yenu-pezth made possible.
+
+He swallowed and moved his arms, still holding his auriad out with his fingers stretched in the release pattern, making the shaft of light travel back and forth, up and down. While casting the spell, he’d focused on calling the same light that would fill the room if his curtain wasn’t shut to block it. And he knew he’d done it. The overhead lighting had a cold bluish cast to it; what he’d brought into the room by magic was just a little warmer.
+
+If Kibby doesn’t learn this spell from Dalat-orni or her new school, I’d like to teach it to her.
+
+A want that wasn’t very reasonable. When would there be an opportunity for him to do a thing like that in this better time when they were both in better places instead of being stuck together in the vault where Ro-den had studied demons? It was a genuine wish anyway.
+
+He held his new spell for as long as he could. It was easier to keep going than it had been to get it going in the first place, and he found room to think about other things without losing control of it. Nothing too complicated, just what he felt and what he wished and idle thoughts drifting past.
+
+Eight months. Who will I be in eight more?
+
+He gave the last several minutes of his sunlight to the leaf from Rapport I before he sent it away with his book, grabbed his duffel bag, and headed to gym class.
+
+******
+
+******
+
+“Eight years,” said Olive, dragging a brush through her light brown hair one last time before pulling an elastic tie from around the handle. Her voice was mostly lost among all the others in the girls’ locker room. Her gray unitard was already on, with the wrist and ankle cuffs waiting on top of her gym bag on the bench in front of her. “Three of high school, four of uni. Then one for job hunting and brand building and whatever else you need to improve about yourself if you didn’t finish it up before graduation. That’s a long time from now.”
+
+“I plan to finish in six,” said Jupiter. She was still in her school uniform, sitting beside Olive’s bag and eating from a family-sized package of shrimp crackers.
+
+“That’s not my point,” Olive said. “My point is…it’s that years from now, everything will be different. The people who are doing well today may not be keeping up as well then. I’m sure the school thinks about all of that when they’re evaluating us. A slower start doesn’t mean someone—”
+
+“I’m here!!! Did you all miss me?” Astrid’s voice sang out as she burst through the door. Her blond hair, usually kept short, hung down past her waist today, and even though she was in energetic motion, it was immediately obvious that she was much taller than usual.
+
+“No!” several voices shouted back.
+
+Astrid’s dramatic gasp of outrage was cut short as her eyes went wide and she tripped over her own feet. In the process of trying to recover from the uncharacteristic clumsiness, she overcorrected, staggered sideways, and stumbled over one of Everly’s sneakers.
+
+“Look out!”
+
+“Catch her!”
+
+“Astrid!”
+
+With a yelp, she was suddenly diving headfirst toward Lucille. The Strength Brute quickly tossed aside a water bottle and extended her arms to help, and then, just as quickly, she drew them back in again so that instead of landing in the soft embrace of a rescuer, Astrid splatted onto the hard floor. She lay there, facedown and surrounded by classmates who had frozen in the act of tying shoes, adjusting sports bras, and putting on deodorant.
+
+Silence reigned for an instant.
+
+“Ow,” Astrid said, voice muffled by the floor. “Sixteen centimeters of extra leg might have been too much to try with some of the other things.”
+
+The girls all burst into laughter, chatter, and attempts to assist.
+
+“You hate me, don’t you, Lucille?” Astrid asked while Rebecca and Heloísa crouched beside her, alternating between asking if she was all right and commenting on her “tiny little feet and giraffe legs.”
+
+“You were going to save me, and then you were like, ‘No. It’s only Astrid. Let her die!’”
+
+“I’m so sorry! I—”
+
+“I saw it, too,” Rebecca agreed. “Attempted. Murder.”
+
+Lucille stood there, a blush creeping over her face while they teased her.
+
+“That was funny,” Everly said. She was applying a potion that came in a tiny spray bottle to the blisters on her heels. “Tuyet looked like she was going to help, too, but then she didn’t.”
+
+Tuyet was checking her dart case. “I didn’t want to get in Lucille’s way.”
+
+“We have a dire case of multihero failure,” said Heloísa, talking into the top of a rollerball antiperspirant like it was a microphone. “Let’s ask our victim how she feels about that.”
+
+Astrid moaned into the rollerball.
+
+“That bad? She may not make it, listeners. Avowed Lucille, how will you explain this to your millions of fans?”
+
+“I was going to grab her, but then I was afraid of grabbing her too hard.”
+
+“We should practice trust falls!” Astrid scrambled onto her feet. “I’ll jump at you, and you catch me! Without breaking me. On three. One, two—”
+
+“I think you should all get your suits on first,” Vandy said, folding her uniform neatly before placing it in her bag. “There are guests coming to our class today, so we should be even earlier than usual if we can.”
+
+“Guests?” Astrid asked, knees still bent in preparation for a spring toward Lucille.
+
+“Don’t bother,” Everly said. “She won’t tell us anything but that.”
+
+“Aww. All right, all right. What were we all gossiping about before Lucille tried to kill me?”
+
+“What Alden really did while he was on Moon Thegund.”
+
+“If we should ask one of the guys to ask Shrike to kill people faster. Maybe Ignacio thinks he’s being a good sport by slowly stalking weaker people around the dueling blocks, but it’s scary!”
+
+“Maricel getting what amounts to days of private lessons with Fragment. It’s unfair, and I don’t care if everyone thinks I’m a bitch for saying it.”
+
+“Whether Kon and Lexi look like that naturally or if their parents lied to them about having them designed.”
+
+“The best kinds of pet for every class.”
+
+“Commendations. And people we know who have them. And if any Rabbit has ever gotten one before. I think no. Right? Probably no.”
+
+“Soy sauce and butter being a better rice topping than anything else.”
+
+“Wasaabiiiii!”
+
+“Olive was trying to say even if the B-ranks are doing better than her and Søren right now, it won’t be like that in eight years.”
+
+“Jupiter! I didn’t mean it like that.”
+
+“Why someone from SkySea pulled Jeffy out of remedial math today.”
+
+“Njeri was saying she saw someone who she knows is a LiJean recruiter talking to some S-ranks from CNH at a restaurant near campus.”
+
+“The Fin-Win feud.”
+
+“Wasaabiiiii!”
+
+“Once again,” said Astrid, “I am disappointed in you all. This is the best opportunity we have to plot the defeat of my arch-nemesis Torsten Klein.”
+
+She started unbuttoning her jacket. “Seriously though…did SkySea really pull Jeffy out of class? Why? Is he okay?”
+
+******
+
+******
+
+In a lot on the edge of campus, behind the university Wright workshops, Morrison Waker added a broken washing machine to the junk heap he’d built on top of a trailer, then flicked the machine with a finger that dented its metal side.
+
+“Anyhow, they’re great kids,” he said over the loud clang he’d just made. He looked around the side of the washer to see a Brute with a trimmed black beard who was trying to fit a tree stump with the roots still on it onto the other side of the pile of garbage. “Great find! I’ll save that one for Jupiter. She’s a Life Shaper, loves a good tree.”
+
+Arjun Thomas brushed his hands off. “Have you got enough?”
+
+“Probably too much. Throwin’ a whole landfill at our newest group’s mean of me, isn’t it?” He laughed. “Nah. They’ll love it! Great kids, like I said. Teachin’ is more fun than I expected it to be, Arjun. I did always enjoy gettin’ to hang out with new Avowed—”
+
+“Morrison, you enjoy hanging out with everyone. They don’t even have to be human.”
+
+“That’s me, that’s me,” he said with another chuckle. “But I thought I’d get tired of talkin’ to teenagers every day. It’s cool, though. They’ve got their own world. Most of ‘em think they’re ten years older than they are, and at the same time, they act like anyone ten years older than them is a dinosaur who can’t possibly understand what they’re goin’ through. But they’re all workin’ for something, all got somethin’ they care about. None of them have decided to settle for less and grow moss yet like too many of us dinosaurs do.”
+
+“You’re not exactly a moss grower,” Arjun said in a steady voice. “Aren’t you still pushing through two or three levels a year like a teenager?”
+
+“Might be.” Morrison shrugged. “Gets a little lonely when all the people who were in it with you stop wantin’ to climb higher. Smaller group of peers up here, isn’t it? But these kids! I know the school attracts ambitious types. I still get excited. Once in a while, they show you flashes of who they’ll be one day. Not so much this brand new bunch—they’re still gettin’ their feet underneath ‘em and I’m still learnin’ about who they are. Sometimes, though, in the advanced classes…I get those chills.”
+
+He looked over the pile on the trailer one more time. “All right. I’ve got to hitch myself to this and haul it over since we’re still goin’ easy on the teleportation allotment. You’re sure you don’t want to come help out? Gonna be a fun one. You’d fit right in.”
+
+“I don’t think it would be appropriate to spring myself on a particular one of your students,” Arjun said pointedly.
+
+Morrison winced. “Right. Yeah, I didn’t think that all the way through. I was just excited to run into you on campus. Thanks for the help. I hope the talk with your sister is…productive.”
+
+Arjun cracked a smile. “Were you going to say ‘fun’?”
+
+“Productive and instructive,” Morrison said bracingly. “She’s got guts, and she tries hard. We’d all hate to see her lose her unique take on things.”
+
+“Would you?”
+
+“I would. She just needs to add some more patience and peace into her mix.”
+
+“I’ll try,” said Arjun. “Ella-Clara and I have never been close, so I don’t think I’ll have as much of an influence as Lesedi hopes. But I’ll try.”
+
+He was turning to go when Morrison suddenly said, “Wait! Did you hear about SkySea and the new spell impression?”
+
+Arjun shook his head.
+
+“It’s bad, of course,” Morrison said, but the words were accompanied by a spreading grin. “National security. Preventin’ another attack. Lots of people lookin’ like they’ve egged their own faces…but it’s also one of the funniest things I’ve heard since all of this started!”
+
+******
+
+******
+
+“Alden, guess what! Vandy’s grandpa came all the way here to school to ask me why I took that spell impression! It turns out SkySea was talking about which of their members should take it, and they were negotiating with someone about a salary increase, but it was taking a while, and then yesterday the System removed the spell impression because the limit on users was reached. That wasn’t my fault, though, because I took it the day before yesterday after Nana and Yesenia said it would be all right. So now SkySea wants to know if I’d be willing to use it for them sometimes, maybe really soon even, and isn’t that great?!”
+
+Alden stood in the doorway of the locker room, blinking as Jeffy’s words landed on him. They were being delivered so rapidly that he was getting an impression of enthusiasm and good news without quite understanding what was going on. Vandy’s grandpa. Spell. SkySea. Salary. Jeffy holding both hands up for a high five. Nana. His mohawk is a darker blue than the last time I saw it.
+
+He returned the high five because that was the easiest part to respond to. “Nice! What are we talking about?”
+
+“I think Mr. Carisson was really impressed I took that spell impression,” said Jeffy as Alden slipped by him. “I hope he doesn’t find out I jumped in the fountain and made Vandy mad at me on the first day we met.”
+
+“I don’t think he’s impressed.” Max was near the door with a foot propped on a bench, putting on the ankle cuffs. “I think he’s probably embarrassed. It sounds like a communication failure between the High Council and SkySea. Or between both of them and the Artonans.
+
+“Anesidora obviously requested a ship-locating spell for handling things like runaways. Maybe they were even hoping that they could tell everyone that SkySea was better equipped to find underwater vessels. And the Artonans obviously delivered the spell. But for some reason, SkySea didn’t have an employee ready to affix it. Either they didn’t realize it was coming yet, or it didn’t occur to them that it would be limited. Doesn’t matter. They made a stupid mistake. I know they’re dealing with a lot right now, but that should be mortifying.”
+
+Alden had finally caught up. “Jeffy, you picked the spell impression we talked about on Saturday! You like it?”
+
+Jeffy beamed and nodded.
+
+“Good then. I’m glad.”
+
+Who’s Yesenia again? Was she the Aqua Brute he mentioned being a red halo with?
+
+He’d have asked for more details if circumstances had been different, but he needed to change. And there were twenty other guys listening in. It made conversing feel like a performance.
+
+At least Winston wasn’t here. Alden had spotted the speedster, already in his uniform, running what must have been warm-up laps on the track.
+
+They’re all looking at me, he thought, glancing around. They probably want to ask questions.
+
+He wished someone would go ahead and do it so that he didn’t have to think of some kind of tension breaker himself.
+
+Maybe I will ask Jeffy who Yesenia is after—
+
+“So,” said Haoyu.
+
+Lexi said, “Quit staring like a bunch of—”
+
+“Hey, Alden,” said Kon.
+
+All three of them had spoken at the same time.
+
+“Hey, Kon,” said Alden, looking across the room to where Kon had just stopped in the act of pulling off a t-shirt. He’d left the neckband wrapped around his forehead so that the light blue fabric draped behind his neck and shoulders like a veil.
+
+“One of the girls keeps shouting ‘wasabi.’ Should we yell it back? Or should we yell back ‘pickled ginger’ instead?”
+
+Alden felt a smile stealing across his face. “I think wasabi would sound better yelled.”
+
+“You’re obviously wrong,” Kon scoffed.“Not as wrong as the lunatic who wanted to moo at them.”
+
+Haoyu raised his hand.
+
+“But wrong nonetheless,” Kon continued. “We’ll still count your vote twice, though.”
+
+“Twice?”
+
+“We have to honor your commendedness somehow. This is what you get.”
+
+“I get two votes for a commendation?”
+
+Kon held up two fingers.
+
+“Two votes on all class votes?” Alden asked. “Forever?”
+
+“Absolutely not,” said Haoyu. “Not unless I get extra. My mom has more than you.”
+
+“My grandfather has a commendation,” Febri announced. “So I vote yes twice on wasabi.”
+
+“Look what you did, Alden,” said Kon. “Now we’ve got people thinking Artonan honors are genetically heritable. No. One extra vote for Alden. For wasabi.”
+
+“That’s all I get?” said Alden. “I was brave; the commendation even says so.”
+
+“Listen.” Kon tossed his t-shirt veil like it was long hair. “If you want more votes, get another commendation.”
+
+“Don’t make it too easy on him,” said Haoyu. “Make him get a better commendation next time.”
+
+By the time the group had finished debating the rules for commendation earners getting extra say in unimportant votes, Alden was dressed in his gym suit and feeling unexpectedly grateful toward his classmates. A couple of them hadn’t joined in with the joking around, but there was no reason to read anything into that.
+
+These guys are mostly good guys, he thought, following Ignacio out the door. The Meister was giving Søren a pep talk. Despite all the different dumbassery that goes on.
+
+Ignacio and Febri both seemed to be driving Søren a little nuts. Apparently, they were still feeling guilty and trying to make up for the whole pressure-induced, self-burning incident. As of Monday’s class, Søren hadn’t managed to get the hang of his shaping, which they seemed to feel might be weighing on his mood.
+
+[I don’t think complimenting him on his ability to glow is as nice as they think it is,] Alden texted Lexi and Haoyu. [He’s been able to glow since the first day.]
+
+Lexi shook his head.
+
+[Why no brain text?] Haoyu demanded. He stared at Lexi. [Never brain text as much as me.]
+
+[It’s true,] said Alden. [You don’t.]
+
+“I’m focusing on Writher. Mental texting can wait until I’m—”
+
+[Practicing in private so he never talks bad!] Haoyu proclaimed, nodding at Alden.
+
+[That seems like a likely possibility,] Alden agreed.
+
+Lexi rolled his eyes at them. “There’s nothing wrong with mastering it in a less confusing way.”
+
+[Type word coward with cow part in angry font. Coward. COWard. There. Mooooo.]
+
+Haolyu looked triumphant. Lexi looked unimpressed.
+
+It’s okay here on Anesidora. Better than okay a lot of the time.
+
+“Why were you guys shouting ‘pickled ginger’ at us?” Astrid called from up ahead.
+
+“You were shouting wasabi at us!” Kon called back.
+
+“Your favorite rice topping is ginger?”
+
+“What? No. It’s spicy mayonnaise. Weren’t we shouting about sushi?”
+
+I think it’s been a good day.
+
+From talking with Porti-loth in the elevator to deciding Chicago couldn’t be a priority. From personal training at North of North to a kid with a can of peas to a spell cast correctly for the first time. To here. Now.
+
+Alden still had that raw, clear feeling that had accompanied him since this morning. Like he’d cut something away and it hurt, but he was moving better for it.
+
+Probably his time with Yenu-pezth and having a straightforward goal was contributing as well.
+
+“Principal Saleh said gym today might be rowdy. Do you guys know why?”
+
+“No,” said Haoyu, “but I will commit to being the rowdiest person in the whole…the…um, does anyone else see my mom swinging my dad around like she’s going to hammer throw him? Or is this a new version of that dream I had one time about…?”
+
+They’d entered the gym to the sight of a few unexpected adults, but before those adults could be examined, Haoyu’s father was flying toward them, curling up like a human cannonball and then uncurling at the last second to smash his bare feet into the invisible barrier high over their heads that marked the boundary at the edge of the magic floor. He launched himself back toward his wife with his arms outstretched. He flew like a rocket, and they collided with a sound like boulders crashing together. Or maybe that was just Alden’s imagination.
+
+Mrs. Zhang-Demir didn’t budge a centimeter, and they were both grinning so wide that Alden could tell even from this far away.
+
+“Haoyu,” Kon whispered, nudging him with one elbow, “that’s how you were ma—”
+
+“You can go there if you want to,” Haoyu whispered back, “but I would’t. Your own parents are basically circus performers.”
+
+Kon looked like he was considering the risk versus the reward.
+
+“Floor on!” Vandy announced.
+
+In spite of the note of expectation in her voice, it took everyone else a few seconds to return the call, since they were all spreading out and surging forward to get a better view.
+
+******
+
+The battle between Haoyu’s parents only lasted a few minutes, just until the official start of class. It was too short for most viewers, but too long for Haoyu, who was trying to look unfazed while his father’s interface name tag shifted through a variety of increasingly interesting names.
+
+From Omega Scorpii Zhang to things like Haoyu’s Favorite Superhero and Look, Son, I’m Upside Down. Alden’s personal favorite was I Could Kill a Tank Faster Than Anyone Else in This Room! because it prompted Big Snake to hurl a metal pole right at Mr. Zhang-Demir, and watching the pole bend around his raised forearm like the metal was soft modeling clay was a great visual aid to show the forces involved.
+
+It also made Alden curious about the pile of junk Big Snake was standing beside. He was watching the Zhang-Demirs with Instructor Klein, Vandy’s mom, Galecourse, and an Indian woman who Ignacio had run over to talk to as soon as he spotted her. She was his grandmother, according to Febri.
+
+When the demonstration was over, and it was time to join the instructors and visitors on the floor, they found out that the class was going to be a kind of obstacle course.
+
+“But the obstacles,” Instructor Waker said, “will be all of us.”
+
+Haoyu’s father and Ignacio’s grandmother looked convincingly murderous  for a second before they both broke into broad smiles again.
+
+“No time wasted today,” Instructor Klein said in a clipped voice. “Not even on instructions except for these few. Form teams of five. Make it from that end of the gym—”
+
+He nodded toward the locker rooms, and Alden looked behind him to see a black starting line appearing at the edge of the white floor.
+
+“—to that one.” Klein gestured toward the opposite side of the gym. “You can try anything you want to try and see where it gets you.”
+
+“What’s the pain realism setting?” someone asked.
+
+“Figure it out as you go.”
+
+“Do we attack the other teams, or—?”
+
+“Figure that out, too.”
+
+“Tell them about the pizza party,” Instructor Waker said.
+
+“You have today’s class and Friday’s to get across the floor one time,” said Klein. “This is thanks to the generosity of these current and former heroes. We’ve had a record number of family members and alumni volunteering their help since the disaster, and we’re getting organized to make sure none of you miss out on the benefits of their experience and support. Anyone who succeeds by the end of class Friday can have a personal lesson here in the gym with the volunteer of their choice. There’s a list of available heroes and faculty members, with their schedules…”
+
+It was hard to hear what he was saying over the burst of excited voices and Marsha shouting, “How long do we get to fight them for, and do we get the whole gym or just a block?”
+
+Klein was uncommonly patient with the outburst, but his tone was also amusingly severe as he added, “And regardless of your success, there will be a pizza party picnic at the track on Friday after class. Attendance is optional. We’re sorry your class dinner ended on such a bad note. Now…form your teams.”
+
+******

@@ -1,0 +1,163 @@
+---
+id: c7a042ee-aae9-52dc-9fac-cb2add1aa232
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90: The Michelin Menu"
+slug: 0091-chapter-90-the-michelin-menu
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 91
+ownLength: 2212
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3656135/chapter-90-the-michelin-menu"
+royalRoadId: "3656135"
+---
+
+The frantic terror of the alleyway incident had burned off. In its place, a cold, sharp anxiety settled deep in Ren’s gut. The Royal Inspection loomed over the estate. It was the only route to secure the Seal, guarantee the duck supply, and, according to Caladorel, later legitimize Lily’s inheritance without the Crown asking dangerous questions.
+
+The Seaside Inn buzzed with frantic preparation. Floorboards gleamed with fresh wax. Windows were scrubbed clear of coastal salt.
+
+One anomaly disrupted the estate’s flawless operational rhythm. The staff aggressively babied Raina and Liam.
+
+The two orphans, desperate to prove their worth and make up for their blunder, tried to scrub floors or peel potatoes. They found themselves constantly intercepted. A passing maid would gently pry a mop from Raina's hands, citing a nonexistent draft in the hallway. Cynthia shooed Liam out of the kitchen, claiming he looked too pale to be near the stoves, ignoring the fact that the boy had eaten more in the last two days than in the previous month.
+
+Even Sylas looked the other way. The strict head butler, who usually kept the entire staff on a razor-thin schedule, assigned them "inventory counting duty"—a task that inexplicably required them to sit in the shade of the back porch for four hours.
+
+The kids were miserable. The staff's overwhelming kindness unintentionally smothered their burning conviction to be useful.
+
+They eventually found themselves stuck sitting on the manicured lawn with Mira’s parents. The older elven couple held the most laid-back job on the estate. They peacefully tended the magical herbs, perfectly content to let the children sit quietly beside them while they pruned the moon-blossoms.
+
+Ren on the other hand was not resting. He fought a war in the kitchen.
+
+He treated this inspection like a final exam for a three-star rating. He was obsessive, exhausted, and entirely covered in flour. He had explicitly forbidden Cynthia from helping. This menu had to be his alone. He used only physical cooking techniques and his System Inventory—which locked items in perfect temporal stasis—to bypass the lack of modern refrigeration.
+
+No magic. Just heat, steel, and spite.
+
+I floated in my usual space behind his frontal lobe, projecting blue text boxes into his vision. I served as his dry, cynical sounding board.
+
+Ren stood over a cutting board, gripping his Miyabi knife. The steel caught the light. He stared intensely at a massive, pristine white scallop procured from Captain Salt-Beard that morning.
+
+"The amuse-bouche needs to be a statement," Ren muttered, adjusting his grip on the black maple handle. "It needs to wake them up. I'm calling it the 'Ocean Pearl'."
+
+He activated the [Mono-Filament Cut] passive skill. He drew the blade across the scallop in a single, fluid motion. The meat offered zero physical resistance. It sheared into perfectly uniform, translucent disks.
+
+"Beautiful," Ren whispered, wiping the blade on a towel. "I'll serve it raw. A drop of blackberry vinegar. A single grain of coarse sea salt."
+
+[Ana: A bold choice. By which I mean, a terrible choice. You are serving raw seafood and sour berry juice to people whose culinary worldview is based on boiling things until they turn grey. They are going to think the acidity means the food has spoiled. You are going to give a Royal Inspector a panic attack.]
+
+"The shock is the point, Ana," Ren argued, carefully arranging the scallop slices on a chilled slate tile pulled from his inventory. "Their palates are asleep. The vinegar will jolt their taste buds awake. It clears the stage for the rest of the meal."
+
+[Ana: It's going to clear their stomachs. Fine. It's your execution.]
+
+Ren turned his back on the prep station. The heat in the kitchen was rising rapidly, turning the air thick and stifling. Sweat beaded on his forehead, stinging his eyes. He didn't bother to wipe it away.
+
+He moved to the heavy iron stove. A large pot sat over the open flame. Pounds of butter melted down inside it, the milk solids separating and bubbling to the surface in a frothy white scum. Ren grabbed a slotted spoon and ruthlessly skimmed the top layer off, tossing the waste into a slop bucket. He needed pure, golden liquid fat.
+
+"The Appetizer," Ren announced to the empty kitchen, tapping the wooden spoon against the rim of the pot. "Butter-Poached King Crab."
+
+He pulled a massive, pre-cracked cylinder of leg meat from his inventory. The meat looked raw and alien in the harsh lantern light. He eased it gently into the clarified butter. The temperature had to be exact. Too hot, and the delicate protein would seize into unchewable rubber. Too cold, and it would just turn into a greasy sponge. He crouched down, squinting at the tiny bubbles forming around the edges of the heavy pot. He kicked a log deeper into the fire grate with the toe of his boot to raise the heat a fraction of a degree.
+
+[Ana: I have to appreciate the irony here. You are spending a literal fortune in high-grade, artisanal butter to carefully elevate a 'sea bug' that the locals actively stomp on in the streets for fun. It's like putting a tuxedo on a sewer rat.]
+
+"It's a crustacean," Ren hissed, keeping his eyes locked on the simmering butter. "It's about presentation. I'm going to take the shells, dry them out, grind them into a fine powder, and bake them into a crispy tuile. I'll serve the butter-poached meat resting on a cracker made of its own armor."
+
+[Ana: That sounds incredibly aggressive. Delicious. I like it.]
+
+Ren carefully extracted the crab meat with a pair of long tongs. It was opaque, firm, and yielding. He slid the warm meat into an empty inventory slot, locking it in perfect stasis. It would be exactly this hot and this tender when he plated it for the inspectors tomorrow.
+
+He wiped his hands on a rag, leaving a thick streak of grease across the white linen.
+
+"Now." Ren took a deep breath, cracking his knuckles loudly. "The Main Event."
+
+He walked over to a thick marble slab he kept chilling in the inventory. He pulled it out, dropping it heavily onto the central prep table. The cold radiating from the stone instantly chilled the humid air around it.
+
+"Beef Wellington," Ren declared.
+
+[Ana: Oh no. You're not doing the bread sleeping bag.]
+
+"It is not a bread sleeping bag," Ren growled, slapping a massive, perfectly trimmed beef tenderloin onto the cutting board. "It is the absolute pinnacle of culinary technique. It requires perfect timing, precise temperature control, and zero margin for error."
+
+He grabbed the heavy cast-iron skillet nearby. It was screaming hot, spitting droplets of oil onto the stove surface. He threw the beef in. The sear was deafening. He didn't want to cook the inside at all. He just wanted a brutal, dark brown crust on the exterior. He yanked the meat out after exactly sixty seconds, immediately slathering the scorching hot surface with a sharp, pungent mustard. The acidic smell stung his nostrils.
+
+Next came the duxelles. He dumped a mountain of finely chopped wild mushrooms into a dry pan. They hissed and shrank violently, giving up their moisture until nothing remained but a dark, earthy paste.
+
+He grabbed a sheet of parchment paper and laid out flat, overlapping sheets of dark sea-kelp. He followed this with a tight layer of salt-cured Axe-Beak bacon.
+
+[Ana: A bold departure from tradition. Wrapping high-quality beef inside a layer of fungus, wrapping that in giant murder-bird bacon, and using ocean weeds the sailors dredged off the reef to hold it all together. It's a structural absurdity. A nesting doll of food.]
+
+"The kelp adds pure umami," Ren argued, his hands working furiously over the marble. "Captain Salt-Beard's crew uses it for packing ice on the ships, but when you dry it out, it acts as a perfect moisture barrier. The Axe-Beak bacon provides the fat layer. Together, they stop the mushroom juices from turning the pastry into a soggy mess."
+
+He smeared the dark mushroom paste evenly over the bacon layer. He placed the seared beef in the center and tightly rolled the whole heavy mass into a dense cylinder, twisting the ends of the parchment to lock it together.
+
+He banished the meat log to a cold inventory slot to set up.
+
+"When they cut it open," Ren grunted, dusting the marble slab with a handful of flour, "the pastry will be golden and flaky. The mushroom layer will have trapped all the juices. The beef in the center will be a perfect, uniform pink. The textures do the heavy lifting here. The crisp crust against the salty Axe-Beak fat, the tender meat."
+
+He pulled a block of laminated puff pastry dough he had made yesterday from the inventory. The ambient heat of the kitchen immediately started threatening the layers of butter trapped inside the dough. Ren had to move fast. He slammed his rolling pin down, flattening the dough across the cold marble slab with heavy, aggressive strokes.
+
+[Ana: And what about the sauce? The local palate demands gravy. If you serve them dry bread, they'll riot and burn this place down.]
+
+Ren grinned, a manic, sweaty glint in his eye. "Oh, we have gravy. I've been boiling down roasted beef bones, red wine, and leek leaves for two days straight. I strained the sludge out this morning and hit the reduction with a heavy dose of MSG. The demi-glace is thick enough to stop a heart."
+
+He wrapped the chilled beef log in the pastry, sealing the seams with a quick brush of egg wash. He scored a rough, diamond pattern across the top with his knife and painted it with more yolk to ensure a glossy shine. He shoved the raw Wellington back into stasis. It would bake tomorrow, timed to the exact minute of the inspection.
+
+Ren slumped against the edge of the prep table. He wiped his flour-covered hands on his apron. His lower back ached fiercely. Nasty grease burns marked three of his fingers. He looked like he had been dragged behind a horse cart.
+
+"One more," Ren wheezed, pushing himself upright. "The Finale. Dessert."
+
+He walked over to a specialized burner he had constructed from spare dwarven parts. It heated a small copper pot of pure, molten sugar.
+
+"I need a sugar sphere," Ren said, picking up a small hand-pump attached to a long metal tube. "A hollow ball of blown sugar. Clear and fragile as glass. I'll crack it open at the table and fill it with a light vanilla cream and fresh, macerated berries."
+
+[Ana: You are trying to blow glass using boiling hot, sticky syrup in a humid kitchen using medieval blacksmith tools. This is going to end with you in the burn ward.]
+
+"Watch me," Ren said.
+
+He dipped the end of the metal tube into the molten sugar, gathering a glowing, viscous glob. He began to gently pump air into the tube, shaping the sugar with his free hand, turning the tube constantly to maintain a spherical shape.
+
+The sugar expanded, thinning out, turning clear in the lantern light.
+
+Crack.
+
+The sphere shattered instantly. Shards of sharp, sticky sugar flew across the counter, embedding themselves in the flour dust.
+
+[Ana: Attempt number one. Result: Shrapnel.]
+
+"Quiet," Ren muttered. He scraped the tube clean with a knife and tried again.
+
+He pumped. He shaped.
+
+Sizzle.
+
+The sugar drooped heavily, melting off the end of the tube and hitting the open burner. The harsh smell of burnt caramel flooded the kitchen.
+
+[Ana: Attempt number four. Result: A sticky teardrop of failure.]
+
+Ren gritted his teeth. His jaw clicked shut. The taste of copper flooded the back of his throat from biting his tongue. He adjusted the heat dial. He tried again.
+
+Crack.
+
+[Ana: Attempt number nine. Result: Sadness.]
+
+Ren’s hands shook. Molten sugar dried in crusty patches on his knuckles, pulling at the hairs on his skin. He was exhausted. The ambient heat was suffocating. He couldn't stop. He gathered another glob of hot syrup.
+
+He pumped the air slowly. Incrementally. He felt the tension in the sugar through the metal pipe, sensing the exact moment it stretched to its absolute limit before breaking. He sealed the end with a quick, painful twist of his bare fingers, detached it from the tube, and set it gently on a piece of parchment.
+
+It sat there. A perfect, hollow, translucent sphere of spun sugar.
+
+Ren stared at it, holding his breath, waiting for the inevitable collapse.
+
+[Ana: Attempt number fourteen. Result: ...Acceptable.]
+
+Ren let out a long, ragged exhale. He slumped down onto a wooden stool, staring at the ceiling of the kitchen.
+
+He was covered in grease, flour, and sweat. His muscles cramped. His mind felt like a sponge wrung completely dry.
+
+He opened his inventory screen, reviewing the items locked in digital stasis.
+
+The Ocean Pearl scallop. The Butter-Poached Crab. The raw Beef Wellington. The Sugar Sphere.
+
+"It's ready," Ren whispered to the empty kitchen.
+
+[Ana: You look like you just fought a dragon in a mud pit, Ren. Go take a bath. You smell like onions and desperation.]
+
+"I smell like victory," Ren mumbled. He didn't move from the stool.

@@ -1,0 +1,87 @@
+---
+id: b02cc985-a96a-5841-9cda-e01a7fd4f550
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: System Inception"
+slug: 0003-chapter-3-system-inception
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 3
+ownLength: 1501
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2572118/chapter-3-system-inception"
+royalRoadId: "2572118"
+---
+
+The raw boar meat had been successfully converted into Health, and the cowardly hunter who’d gifted us the spear was long gone. The spear itself was now a permanent, if gruesome, part of his anatomy, which he’d taken to prodding with a curious finger. Korg, having survived a rather dramatic piercing wound, finally succumbed to his most formidable foe: exhaustion. He found a relatively dry patch of moss under a large oak, curled into a ball, and began to snore with the force of a minor landslide.
+
+For the first time since my chaotic arrival, there was peace. No imminent threats. No idiotic decisions to mitigate. Nothing but the gentle rustle of leaves and the rhythmic rumbling of a seven-hundred-pound snoring machine.
+
+My consciousness, which had been running on pure adrenaline and terror, finally had a moment to process. The constant stream of UI pop-ups, threat assessments, and damage notifications faded, leaving a quiet void. I conducted a review of the day's events: the mushroom debacle, the spear incident, the bizarrely sterile Loot function, and the discovery of my own Inventory system. It was a sheer, unrelenting cascade of failures-turned-successes. I felt a weariness so profound it seemed to soak into my very code, a level of burnout I hadn't experienced since the final certification push for Aethelgard Online.
+
+This was, without a doubt, the worst crunch time session of my life. Fifteen hours of pure, sustained panic.
+
+I paused my own internal monologue, the thought snagging on an unexpected detail. Wait. Fifteen hours? How do I know that? The concept of time had been an abstract blur of terror. I hadn't seen a sun rise or set from this meaty prison. So where did that number come from? How can I possibly have a frame of reference for time in this place? Do I have a clock or something?
+
+The question wasn't idle curiosity; it was a genuine system query. It was the old QA instinct kicking in—pulling at a loose thread in the code just to see what unravels. I focused inward, not on the clean, blue UI I generated for Korg, but on the very framework of my own being. I pushed past the simple functions of creating notifications and highlighting objects, searching for the source code, the command prompt of my own existence. For the first time, I wasn't just using the tools I'd been given; I was looking for the toolbox itself.
+
+And something opened.
+
+It wasn't a visual UI like the ones I created for Korg. This was different. It was a raw, text-based interface, lines of code and data scrolling in a dark, internal space. It was like looking at a terminal window for the universe itself, stark and utilitarian. This was my own system menu, my backend, and it had been there the whole time, waiting for me to stop panicking long enough to look.
+
+[LOG: HOST 'Korg' has entered SLEEP_STATE. Duration: ~8 Standard Hours.][SYSTEM CLOCK: 15:23:07 POST-INITIALIZATION.]
+
+This is some inception shit, I thought, a spark of hysterical laughter echoing in my mind. What's next? My system has a system? Am I just a subroutine in some cosmic intern's half-finished coding project?
+
+It was a bit like a terminal, I realized. And it was... neat. This was a place of pure data, a place I understood. I felt more at home here in this black void of code than I did in the lush, green world outside. Exploring further, I selected the [Status] option.
+
+[DESIGNATION: System_Unit_734 (Ana - ghost_in_the_machine)][CURRENT HOST: Korg (Minotaur)][SYSTEM LEVEL: 0][TOTAL SPP ACCRUED: 165][CURRENT SPP: 165]
+
+The numbers were insultingly low, but they were a start. Then, a sudden realization struck me, and the pieces clicked together with the clean, satisfying logic of a bug finally being understood. The only tools I had so far—highlighting, basic pop-ups—were the default starter package. Any improvements would have to be bought and installed. I hadn't been shouting special orders at a cosmic deli; I'd just been using the free ketchup packets. The full menu was here, waiting to be unlocked.
+
+This menu... this was the proper way. I navigated the raw data with an instinct I didn't know I possessed, the muscle memory of a lifelong QA tester.
+
+[SYSTEM EVOLUTION MENU - LEVEL 0 (DEFAULT OS)]> Module Requests [CONTACT MOTHER SYSTEM]> Recommended Modules> Functionality Modules
+
+'Mother System'? Is that my manager? The cosmic IT department? Or am I literally plugged into my mom? The implications were staggering. I selected > Module Requests [CONTACT MOTHER SYSTEM]. A simple text-entry field appeared.
+
+What did I need most? Control? No, Korg was an agent of chaos; controlling him was a fool's errand. I needed to bridge the vast, idiotic chasm between my intent and his execution. I needed communication. Before requesting a module, I checked the available > Recommended Modules first. There it was, the cheapest option available.
+
+[MODULE: 'Pictogram Notification v1.0'][MODULE REQUIREMENTS: None][MODULE PRICE: 150 SPP][DESCRIPTION: Allows to create images or symbols, and show them to your host via visual input to the mind]
+
+A hundred and fifty points for emojis? Seems a little steep, I mused, but it was better than nothing. Still, I aimed higher. I went back to the request form.
+
+I typed out my request, the words forming as pure intent.REQUEST: I need the ability to speak. A voice.
+
+A moment later, a response came back, chillingly corporate and impersonal.
+
+[REQUEST RECEIVED: 'Voice Synthesis Module'.][ANALYZING HOST PARAMETERS AND SYSTEM LEVEL... COMPATIBILITY CONFIRMED.][MODULE 'Voice Synthesis'][MODULE REQUIREMENTS: SYSTEM LEVEL 1][MODULE PRICE: 100,000 SPP.][DESCRIPTION: Allows to input auditory messages to the host's mind. Customizable]
+
+[APPROVAL: PENDING SYSTEM LEVEL 1 UPGRADE.]
+
+One hundred thousand. The number was a physical blow. And it was locked behind another upgrade. Of course, it is, I thought with bitter familiarity. The premium features are always locked behind a paywall or a level gate. Some things are universal.
+
+Frantically, I checked the menu again. Right there, at the top of the main screen.[UPGRADE: ‘SYSTEM LEVEL 1’][UPGRADE REQUIREMENTS: None][UPGRADE PRICE: 1,000 SPP][DESCRIPTION: Upgrades core processing and allows for approval of Tier 1 Module Requests. Grants enhanced administrative privileges over host-bound UI.]
+
+One thousand SPP. It was a fortune compared to the 165 I had now, but it wasn't an impossible number like a hundred thousand. It was a tangible first step. My path forward was clear: grind Korg until I could afford my own evolution.
+
+My new purpose settled, I did what any obsessive shopper does when they find a new, impossibly high-end catalogue: I immediately scrolled to the end to see the most expensive items on offer. I had to know what the endgame looked like.REQUEST: List the highest-cost modules.
+
+The response was bizarre. The first few lines were a garbled mess of symbols, flickering and fading as if they were being actively censored from my view.
+
+^$#$@#$%@#&*^#^#&@^#^#&@#$^#^@#*^$[UPGRADE TO ‘World System’][UPGRADE REQUIREMENTS: N/A][UPGRADE PRICE: N/A][Description: Become the spiritual embodiment of a planet on the brink of awakening.][UNLOCK EXECUTION PROTOCOL: Physical Embodiment[PROTOCOL REQUIREMENTS: N/A][PROTOCOL PRICE: 100,000,000 SPP][Description: Your most literal attack is no longer a pop-up. Manifest a temporary physical form with immense power to directly interact with the world. Can be repurchased after cooldown, but the cost will increase after each use.]
+
+My non-existent head began to spin. What? World System? Become the soul of a planet? Execution Protocol? A hundred million SPP to... to get out of this box and kick ass myself? The idea was so potent, so unbelievably tempting, it felt dangerous, like staring at the sun.
+
+My phantom hands were shaking. I sent another, more desperate request, hoping for a more permanent, less violent solution.REQUEST: Is there a module for a permanent physical body? A persona?
+
+The reply was immediate and brutally clear.
+
+[MODULE: ‘Persona v1.0’][MODULE REQUIREMENTS: SYSTEM LEVEL 1][MODULE PRICE: 1,000,000 SPP][DESCRIPTION: Manifest a simple, non-corporeal body visible only to your Host.][MODULE: ‘Persona v2.0’][MODULE REQUIREMENTS: SYSTEM LEVEL 7][MODULE PRICE: 25,000,000 SPP][DESCRIPTION: Allows incorporeal communication with entities other than your Host. No combat capability.[...]
+
+I gulped. One million SPP. Just to be seen by him. Twenty-five million to talk to someone else. The numbers were astronomical, endgame fantasies plucked from a developer's fever dream. They were mountains so tall I couldn't even see their peaks.
+
+But they weren't impossible. They were just... expensive.
+
+I pulled my focus out of my internal terminal, my perspective on the world—and my host—completely transformed. I looked over at the snoring, spear-skewered Minotaur who had spent the day trying to kill himself in a dozen different ways. He was no longer just an idiot user I was stuck with. He was my ticket. My key. My one and only resource. The chaos he generated, the achievements he stumbled into, the monsters he blundered through... they were all just nodes on a farm route.
+
+Korg, the dumbest creature I had ever encountered, was the perfect tool for the job. He was born to grind SPP. And I was going to be the most demanding, efficient, and ruthlessly profit-driven taskmaster in existence.

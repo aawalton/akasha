@@ -1,0 +1,73 @@
+---
+id: f61d3126-7474-5966-b30a-eb4df7516ad4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: The Anomaly"
+slug: 0011-chapter-11-the-anomaly
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 11
+ownLength: 1432
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2595767/chapter-11-the-anomaly"
+royalRoadId: "2595767"
+---
+
+The quiet was a welcome change after my first assignment's high-stakes, high-stress reality, the silent, featureless void felt like a much-needed vacation. I spent the downtime running diagnostics, sorting through my logs, and trying to process the sheer, unmitigated chaos of my brief existence. My entire operational paradigm had been built, tested, and shattered in the span of a few weeks. It was the fastest, most disastrous development cycle I had ever been a part of.
+
+The warm, cheesy-smelling echo of Korg was a constant comfort in the silence. He didn’t understand the complexities of my existential crisis, but his simple, loyal presence was a grounding force. Sky Spirit sad. Need smash something? He’d occasionally project from within my code, a simple, elegant solution for every problem. I was genuinely starting to miss that kind of clarity.
+
+My SPP sat at a respectable 813. Not enough for the big system upgrade that unlocked the more interesting features, but enough for a few quality-of-life modules. I was browsing the catalogue, debating the merits of an enhanced threat-assessment package versus a more robust UI customization suite, when a new ticket pinged into my queue. It wasn't a standard binding protocol; it was a high-priority, all-hands corporate memo from the highest levels of management.
+
+[MISSION BRIEFING: Anomaly Observation][DESIGNATION: System_Unit_734 (Ana)]
+
+[SITUATION: World Designation 7C-4B8 has been flagged for terminal corruption. The core reality substrate has become unstable and is showing signs of aggressive, cross-dimensional bleed. A decommissioning protocol has been initiated. Anomaly Designation: World-Purge Protocol 7, ‘The Cleaner,’ has been deployed.]
+
+[OBJECTIVE: Bind to a non-biological observation platform. Monitor the anomaly’s full operational cycle. Document all stages of the decommissioning process and file a comprehensive report upon completion. Direct interaction is forbidden.]
+
+[COMPENSATION: 100 SPP.]
+
+I reread the briefing, my focus snagging on the sterile, corporate language. Decommissioning. That was a clean, five-syllable word for planetary annihilation. My job was to watch a world die and take notes for a hundred points. It felt… light. But a ticket was a ticket, and a professional doesn’t question the work order. I accepted.
+
+The transition was clean and instantaneous. I found myself inhabiting a point of disembodied perspective, a floating camera drone with no physical presence. There was no scent of pine, no chill on the wind, just raw data streams feeding directly into my consciousness. I was hovering high above a lush, green world. From this altitude, it looked beautiful. Vibrant continents, swirling white clouds, deep blue oceans. But as I descended, I could feel the wrongness. A subtle, discordant hum in the background radiation of reality, a low-level static that set my core programming on edge. It was like looking at a stunningly rendered landscape with a single, flickering pixel in the corner of the screen. A tiny, maddening error that, once noticed, you could never ignore.
+
+My mission parameters directed me to the anomaly’s point of insertion. I flew over rolling hills and dense forests until I found it. In the center of a meadow of purple flowers, there was a perfectly circular patch of… nothing. The ground was gone, replaced by a smooth, clean, black void that didn't reflect any light. And in the center of that void sat the agent of this world’s destruction.
+
+It was a blob.
+
+A perfectly black, gelatinous sphere about the size of a St. Bernard. It jiggled with a soft, placid rhythm. As I watched, it extended a pseudopod, slurped up a chunk of rock at the edge of its circle of nothing, and retracted. The rock vanished without a sound, and the circle expanded by a few inches. All of its stats, when I scanned it, came back with the same, unhelpful entry: [N/A].
+
+It was, against all logic and the gravity of my mission, absolutely adorable.
+
+Log Entry: Anomaly Observation 01, I began by creating a new file in my internal directory. Subject is a non-Newtonian fluid entity with localized matter-erasure capabilities. Threat level appears… manageable. Current activity consists of consuming minerals at a leisurely pace. Have nicknamed it ‘Jiggles.’ The existential dread of this assignment is somewhat mitigated by the subject’s profound level of cuteness. Anticipating an easy 100 SPP.
+
+For hours, that was all it did. Jiggle, slurp rock, expand void. It was the most placid apocalypse I had ever witnessed. It was cosmic spring cleaning. Then, it began to move, gliding across the meadow toward a small, rustic village nestled in the valley below.
+
+The first scream from the village was sharp with terror. The villagers, simple farming folk, saw the advancing circle of nothing and the jiggling black sphere at its heart. They panicked, grabbing crude weapons and screaming about demons from the void. I prepared my observation suite, ready to document the carnage.
+
+The carnage never came. Jiggles didn’t attack the villagers. It didn’t even seem to notice them. It simply continued its path, and as it reached the edge of the village, it began to consume the ground beneath the first cottage. The wooden walls didn’t splinter or burn; they were simply unmade, erased from existence as the foundation vanished into the void. The family inside didn’t scream as they fell. They didn’t have time. They were simply deleted from reality.
+
+Then I saw it. As the father, mother, and child were erased, their forms flickered for a nanosecond, transforming into beacons of brilliant white light—the same ethereal energy as Korg’s soul echo—before winking out completely.
+
+My non-existent blood ran cold.
+
+But the farmer in the next field over, who was consumed a moment later? Nothing. He just vanished. No light. No echo. The same for the village elder, the baker, and most of the guards who charged forward with their pathetic spears. They were simply deleted. But a seamstress and her two sons, hiding in their cellar as it was unmade? Three more points of brilliant, white light before they were gone.
+
+Log Entry 02: Discrepancy noted. A small percentage of erased biological entities are exhibiting soul-echo phenomena upon termination. The selection criteria are unknown. The anomaly does not appear to be sentient or selective. Despite that, this doesn’t look like a simple destruction. This looks like… sorting. My earlier flippancy evaporated, replaced by a cold, analytical dread that settled deep in my code.
+
+Jiggles, now the size of a small house, didn't slow down. It consumed the entire village, the fields, the river, all of it at the same pace. All of it was gone, replaced by a perfectly clean, circular scar of absolute nothing. It left no rubble, no bodies, no trace. It was the ultimate janitor, and its work was terrifyingly efficient.
+
+My mission tracker pinged an update. The anomaly was now moving toward the regional capital, the walled city of Silverwood, ten miles away. I ascended, watching the jiggling black sphere and its ever-expanding circle of non-existence slide across the pristine landscape like a cancer cell consuming healthy tissue.
+
+The city’s response was swift. Trumpets blared from the ramparts. An army marched out, thousands of soldiers in gleaming steel, forming ranks on the plains before the city. Mages gathered on the walls, their hands glowing with arcane power, preparing spells that could level mountains. It was a formidable, textbook defense.
+
+It didn’t matter.
+
+I watched from above as the black circle reached the army. The front rank of soldiers, the bravest and the best, held their ground, spears leveled. As the edge of the void touched their boots, they were unmade. No sound, no struggle. Just a line of men, and then a line of nothing. The rest of the army, witnessing a thousand soldiers deleted from reality, broke and fled in absolute terror.
+
+Jiggles reached the city walls. They were fifty feet of solid stone, reinforced with magic and a thousand years of history. It extended a pseudopod, a limb of perfect blackness, and touched the base of the wall. The stone didn't crack or explode. It didn't crumble or turn to dust.
+
+It simply ceased to be.
+
+A smooth, curved section of the mighty wall vanished as if it had been highlighted and deleted by a programmer with administrative privileges. Through the new, impossibly clean hole, I could see the terrified faces of the citizens inside. And I knew, with a certainty that chilled me to my core, that I was about to witness more white lights. I just didn't know why. This wasn't a purge protocol. This wasn't a cleaner.
+
+This was a DELETE command, executed on a planetary scale. And I was the only one left to write the log.

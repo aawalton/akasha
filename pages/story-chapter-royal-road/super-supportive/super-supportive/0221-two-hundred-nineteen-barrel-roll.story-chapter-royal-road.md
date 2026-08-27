@@ -1,0 +1,415 @@
+---
+id: dbb02cf4-c1bf-5264-be41-6d683de68ae8
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETEEN: Barrel Roll"
+slug: 0221-two-hundred-nineteen-barrel-roll
+partOf: super-supportive
+position: 221
+ownLength: 5527
+unit: words
+publishedAt: 2025-05-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2294345/two-hundred-nineteen-barrel-roll"
+royalRoadId: "2294345"
+---
+
+TWO HUNDRED NINETEEN
+
+Barrel Roll
+
+After his final class on Thursday, Alden napped for an hour and a half, helped along by the mildest potion Yenu-pezth had given him. When his alarm chimed, a notification he’d set on his interface reminded him to go through his new waking routine.
+
+First, a few minutes thinking about the guilt that had contributed to the recurring nightmare. Boe would be smugly exasperated to learn he’d been given that assignment.
+
+Next, he spent a while trying to gather fragments of the dreams he’d had.
+
+He recalled a moment when his body had turned to intercept something dangerous. A demon, a piece of one? And the relief he’d felt upon realizing that he was fast enough. The new memory wasn’t much to go on, but he thought he could trace the origin of that movement—arms raised as he spun, twisting with a shield in his hands just in time to stop what was coming—to his practice at North of North against the evil horse simulation.
+
+And there was another recollection in his head. He’d been looking at the video screen for the car’s cameras. Although he couldn’t picture exactly what he’d seen, he had a very clear memory of thinking, Good. It’s hurt too bad to chase us anymore.
+
+Lying on his side with his arm under his pillow, he stared through the bed rail. Honestly, this might be a dark way to wake up for the average person. Is it okay that I’m so excited about it?
+
+It was just much better than what he’d had before. And he was feeling optimistic that the new dreams being on frequent repeat while Yenu-pezth’s work was fresh would crowd out other nightmares that hadn’t even been targeted by the healer. If Alden was busy escaping from the lab every time he closed his eyes, then his brain wouldn’t have time to cough up memories of children’s skulls and giant waves either.
+
+He slid out of his bed then into his clothes before checking the Happy Avowed Days scheduling software on his laptop. His Keeper of Hot Potatoes avatar was rising from its own nap with a dramatic stretching session. “I only have half an hour until I fly to the TC!” he announced, chipper as ever despite Alden’s refusal to connect his account to the internet and make it public so that Hot Potatoes’s copy of Anesidora would be filled with “my real friends!” instead of randomly generated characters.
+
+“I wonder what I should do with all this free time?” the avatar mused.
+
+“Whoever makes this is so obsessed with Avowed.”
+
+Alden read the list of suggested activities that popped up beside the speech bubble. It included things he’d scheduled for himself in the past like homework, “meditation,” and skill practice, along with short errands and amusements a person playing at being a CNH student might enjoy around campus. Hot Potatoes was unaware that Anesidora had gotten very wet recently, so he thought having a snack on the grass in Celena Circle would be fun instead of a nuisance to the people living in the domes. He was also curious about visiting something called the Sidewalk of Failure over near the workshops.
+
+Alden moved around a couple of things on his schedule for tomorrow morning in case the Here-to-There kept him on the Triplanets overnight, then set the avatar to “socialize.” That would make Hot Potatoes wander around Garden Hall until his flight to the TC.
+
+Close enough to flying to Matadero and attending a parade as Stuart’s surprise helper, right?
+
+Instead of going to find out what a Sidewalk of Failure was, Alden checked the contents of his suitcase one last time and went to say goodbye to whichever roommate was making bumping noises in the living room.
+
+He rolled his luggage down the hall and found both Lute and Haoyu engaged in a project he was immediately invested in.
+
+“We’re going to have a tree!”
+
+“It’s a Bromelimas tree.” Haoyu was standing on top of a chair and steadying his bromeliad while Lute bent the limbs on the base of an artificial tree up to hide the plant pot.
+
+“It was going to be a normal Christmas tree, but then we realized Haoyu’s jungle plant might work on top.” Lute took a step back and turned his head sideways, looking critically at his handiwork. “If I cut some limbs off the original top section of the tree and weave them in, I think we’ve got something here.”
+
+“Happy Bromelimas,” said Haoyu, pointing at Alden with his free hand. “Bromelimas lasts for five days, specifically the five days of Celena North’s December finals week. So that’s the seventeenth through the twenty-first this year. But you can wish people Happy Bromelimas starting on the first.”
+
+Alden parked his suitcase by the kitchen table. A basket full of mixed banana varieties was waiting there. “You invented a whole holiday while I napped. Can I make some ornaments for the tree?”
+
+“All members of the huntksi lodge are brothers on Bromelimas,” Haoyu announced. “All bros must ornament the tree or else.”
+
+“Or else what?”
+
+“I’m working on the traditions still.”
+
+“We only realized Bromelimas existed fifteen minutes ago, Cottontail. Don’t rush him.”
+
+Lute turned around. He was wearing his Jolly Roger t-shirt with baby blue pajama pants.
+
+“So you’re leaving now to go to…” He made a box shape with his hands. “But really you’re going to…” He pointed up at the ceiling. Or maybe that was a number one for Artona I.
+
+“I am. I need to leave in a few minutes. But I can fold a couple of stars for the tree fast.”
+
+“You don’t have to rush. It’s going to take a while for me to make it look cohesive anyway. We’ll either wait to decorate it or leave you a quarter of the limbs. Right, Haoyu?”
+
+“All bros must ornament the tree.” Haoyu cautiously released the bromeliad and stepped down from the chair. His uniform jacket was unbuttoned. “By the way, Alden, did you tell Kon he was invited to come over and use our bathtub anytime?”
+
+“You didn’t.” Lute sounded so betrayed it was ridiculous.
+
+“I didn’t. I told him he was invited to persuade Lexi to let him use the tub if he was feeling lucky. I think that was the opposite of encouraging him.”
+
+Kon had been hamming it up on their walk back from Challenge: Apex Towers last night, talking about how some people got spas and clawfoot tubs while other poor souls got moldy lifematter bags and a shower that was always full of Mehdi and his collection of body washes.
+
+Kon had asked Alden not to mention where they’d run into each other. He’d gone to the towers because he wanted to practice without company from their class. “Laughing off my mistakes and the losses in duels isn’t always easy,” he’d said. “Tonight I just wanted to practice and be in a bad mood all by myself.”
+
+Alden was surprised to hear that Konstantin ever wanted to be all by himself. And maybe maintaining that image was why Kon would prefer to sneak away to practice instead of having to say, “I want to do my own thing,” to all the people he would normally encourage to tag along with him.
+
+“I told him about class on Friday, too,” said Alden. “About how most of them are probably getting a lecture of some kind in another room. Klein hadn’t sent out an official message about it yet at that point, so Kon hadn’t heard. He didn’t seem too worried, though.”
+
+“I talked to him just a little while ago,” Haoyu said. “He still wasn’t worried about that. But he was on his way back from one of the info sessions they’re having for all the S-ranks.”
+
+“I wasn’t invited,” Lute chimed in.
+
+“All the S-ranks in our program,” Haoyu said.
+
+“I’m hurt. I could leave this school and deprive everyone of my Eliteness, too, you kn—”
+
+Haoyu talked over him. “Kon says the rumors are true, and they’ll be guaranteeing S’s more time on the floor than the regular hero programs at Li Jean and Naya Din offer. That’s what he’s worried about, so he’s the opposite of all the other S’s in our group.”
+
+He plopped down into the chair he’d just been standing on. “I feel bad for him.”
+
+“He’s not happy with the extra time?” Alden asked.
+
+“He said it sounded like it’s going to be at least ninety minutes of S-on-S combat every week. If they put him in there, it’s going to be bad for him, isn’t it?”
+
+Alden thought about what he’d seen of Kon’s experience in MPE.
+
+“Shit. That’s going to suck for him unless they do what our instructors do sometimes and give him his own area to practice his spell in.”
+
+“Maybe they’ll do that,” said Haoyu. “Shouldn’t they? Even if you imagine his skill and spell combo being the strongest, most perfect version of what it is, it’s a long cast time for a fight. I think he’ll always have to have a team or be able to plan ahead or sneak around to make it work in combat. Something.”
+
+Lute had bent over to pick up the top of the artificial tree and twist some of its limbs experimentally. “I don’t understand why Kon chose that. At all. He was into flashy Adjuster spells. Classic super-celeb stuff only. And then he coin flips his whole future on a one-of-a-kind that sounds like it’s an experimental workhorse?”
+
+“Oh, it can be flashy,” said Alden. “You should’ve seen us all flying across the MagiPhys gym on a dog crate.”
+
+“That sounds worth watching for sure. But it doesn’t sound like Kon. He wanted to be this darkly alluring Thor character the last I heard. Literally, he wrote ‘with dark allure’ on a poster once. Dressed all in black, lightning in his fists, and glitter in his hair—legions would swoon under his smoldering gaze.”
+
+“What?” Alden was trying to picture it. He thought of Kon’s disposition as more sunny than dark. “When was this?”
+
+“He went through different versions of a hero persona.” Haoyu was watching Lute. “It’s true that he never talked about using any power that’s like what he’s got now, but he seemed proud about getting a special offer from the first day he told us about it at school. We were all surprised. Lexi was freaked out and angry. But Kon said he was really happy with the choice. So that’s what matters. Some people just want unique talents, and since he couldn’t be a U-type, maybe this was lucky for him.”
+
+U-types were rare to start with, and with very few exceptions, they didn’t get selected from among Anesidora-born Avowed.
+
+“I suppose I can see him deciding he wanted the adventure of being the first of his kind,” Lute said. “And I can see him having so much self-confidence that all the things that could go wrong with that pinged off of him instead of penetrating.”
+
+“He’s going to be awesome one day, reassembling whole buildings or something.” Alden said it not because he was sure Kon would really gain the ability to do that, but because he wanted it to be that way. “He works hard, and the System isn’t out to get him. It’s not out there encouraging S-ranks to pick terrible talents that will make them miserable.”
+
+Look at me, defending Earth System all of a sudden.
+
+It had said that the feelings of its Avowed were a factor in its decision making, if not the most important factor.
+
+“You’re probably right. It’ll let you make yourself miserable all day long,” Lute said. “But waving something that isn’t meant to be useful somehow in front of high ranks would be a crazy thing for it to do. So Kon’s probably got the sweetest new Adjuster path in a generation. But it’s still not at all what he was planning for. He’s going to have to redo his whole vision board. The glitter hair just won’t work as well without the fist lightning.”
+
+He raised his eyebrows at Alden. “Hey! What’s your superhero outfit going to be?”
+
+“Bunny slippers and a disposable rain poncho. Of course.”
+
+“Perfect!” said Haoyu.
+
+“Handsome,” said Lute.
+
+“It will be.” He walked over to pick up his basket of bananas and the suitcase. “Don’t forget to save me some limbs for decorating.”
+
+******
+
+******
+
+Alden stood on the edge of the nonagon, hovering above the sidewalk that connected the Garden Hall dormitories to one of the main campus walkways. He was reassuring the first sky traffic control lady he’d ever spoken to that he would come get a real license to fly the general’s cookie. For sure. He’d pass the test and everything.
+
+He finally received his flight path, and he was about to take off when someone called his name.
+
+“Alden! Alden Thorn, I’m so happy to run into you this afternoon!”
+
+He looked down to see a woman standing below him, waving with a brilliant smile on her face. Her skirt had a green, feathery-looking pattern that shimmered in the sunlight. He found himself smiling and waving back before he’d even identified her.
+
+A sunny afternoon, him being in a good mood, and her Appeal made him think, Someone is being nice to me! I’ll be nice back!
+
+Until his memory of the university instructor kicked in, and his thoughts changed to, Oh no. That’s the lady who wants me to dress up in embarrassing costumes and advertise for luxury luggage brands.
+
+Instructor Colibrí kept waving even though his own arm had stopped moving.
+
+She said she was happy to run into me, but I’m twenty feet up. That shouldn’t count as running into each other.
+
+“I’m sorry!” he called down to her. “I just got my flight path, and I can’t be late. Good to see you!”
+
+He pressed his finger to one of the symbols on the driving ring and extended his hand to take off.
+
+Within seconds, the instructor was twirling up into the air in front of him, her arms extended and her skirt flaring. She landed right beside his suitcase, bare feet thumping onto the nonagon’s surface. Shiny red sandals were in one of her hands.
+
+He stared at her
+
+“Caught up!” she said, giving him a curtsy.
+
+“You…did do that. And I’m going like fifty miles an hour right now. Hi, Instructor.”
+
+“You’re off to Matadero again, aren’t you?” Her shoes were already back on, and now her brown hair was going up in a bun to protect it from the wind.
+
+“Yes. I need to be there soon. For something. Can’t delay.”
+
+“Superb! I need to be on the west side of Apex anyway. We’ll have a quick chat, and I’ll just use Whirlybird to get down. You don’t even have to stop flying!”
+
+Alden was weirded out. This was like a teacher climbing through your car’s sunroof on the freeway, wasn’t it?
+
+Is that okay for her to do? I don’t think it’s normal. But we said hello to each other first, and the Nine-edged Son doesn’t have a roof and doors. Maybe it seems more welcoming of passengers than other vehicles?
+
+Trying to figure out if she was being astonishingly rude, or if he was being silly, occupied him so thoroughly that he missed some of what she said next. When he caught up with her words, they were about his relationship with Esh-erdi and the tour Alden and Haoyu had given of Celena North.
+
+“I know the school would prefer I give some warning next time. Principal Saleh told me to call her or—”
+
+“Me! You can always, always call me. First Rabbit in our program! I’m so proud. And an interviewer should take care of her interviewees, shouldn’t she?”
+
+“I thought I was supposed to call the culture advisor if Principal Saleh isn’t available.”
+
+“She’s fine, too,” Colibrí said. “Between you and me, she gets a little bit starstruck around wizards and forgets she’s supposed to be helping Celena North manage its relationship with them instead of pursuing her own interests. She starts geeking out over ancient relics on other planets and forgets to tell them that some of the equipment in our uni Wrightshop is now old enough to qualify as a relic itself!”
+
+She laughed.
+
+Alden upped the nonagon’s speed.
+
+“You know, the Artonans are actually our school’s biggest benefactors when we consider the immeasurable value of the gymnasiums. Oh! That’s right! The generals haven’t toured those yet! If you think they might be interested, we have a maintenance day coming up. It’s scheduled for just after finals, the day after our next combat assessment for incoming students. Will you be staying on campus over the holiday?”
+
+“I—”
+
+“Never mind! That’s your business. But let me make a little suggestion, Alden. If you could swing by on that day, with or without the generals, I know the wizards who do the checks would be excited to have a student around who appreciates their work. Especially one with your language skills! We do like to thank them for their efforts in every way we can. Plus…”
+
+Her tone somehow turned conspiratorial even though she was talking over the wind.
+
+“It’s hours of floor time for anyone who helps them calibrate. I could make sure you have it all to yourself, or you could invite a friend. Your decision. And I’ll be there, so if you’re in the mood for some tutoring or a workout…there you go!”
+
+Hours of extra floor time was something Alden wanted, of course. But the way it was being offered was raising his hackles. “Don’t a lot of people probably need that chance? Especially with the way things might go next term. Wouldn’t it usually be offered to third years prepping for uni entrance or people having a hard time in their—”
+
+“Don’t worry about that. I wouldn’t suggest it if it wasn’t fair, would I? Now, about…”
+
+Soon, Alden was itching to try a barrel roll even more than usual. Colibrí hadn’t run into him accidentally; that he was now sure of. She had way too many Alden-specific suggestions right on the tip of her tongue. Fortunately, she couldn’t come with him to Matadero, and the flight to the coast wasn’t far. She had to Whirlybird down onto a rooftop as promised.
+
+By then, he understood several things he hadn’t been aware he needed to understand. And he was offended on a few different levels.
+
+Did she think I was too dumb to see what she’s hoping I’ll do for them? Or is what she wants me to do such an ordinary thing in her mind that there’s no reason to float the suggestion my way more subtly?
+
+By the end of their one-sided conversation, all she’d technically told him to do was involve her in any future tours he might give to Artonan visitors. She said she had a job title in addition to being an instructor that made her a relevant contact person. Head of Campus Image. Everything else she’d brought up had been more of a suggestion…but they were strong suggestions, with plenty of hints that the school would scratch his back if he scratched theirs.
+
+He zoomed over the ocean, frowning as he thought about how one of the more innocent-sounding requests would play out. Just bring one of the knights on gym maintenance day if you think they’d like a tour, Alden. I’ll be there to chat with them while you practice on the floor.
+
+That was really simple. On the surface. But the ugly layers he could peel off it…
+
+He wondered whether he was being too cynical because she’d reminded him of all the work he’d done to get into a school that had accepted him for reasons unrelated to that work. That still stung. Maybe the affront to his pride was affecting his judgment of the situation.
+
+No. She jumped through my sunroof on the freeway. And Lesedi Saleh headed her off on Thanksgiving when she seemed to want to talk to me. It’s sketchy, and the principal must think it’s sketchy…or at least rude as hell.
+
+How long had Colibrí, and others, been thinking of stuff like this? Had it become a plan when he started flying around on the nonagon, or was it before they even let him into school?
+
+He’d thought they accepted him because they were wary about offending the Artonans. Being a bridge to Artonan pocketbooks was worse. It meant his acceptance wasn’t the end of the matter; it was the beginning.
+
+If he played along with them, they’d have him begging wizards for expensive presents until he graduated. And Colibrí seemed so very confident he wouldn’t object to playing along.
+
+I do object.
+
+Can they use my attendance at the school somehow, anyway? Even if I don’t help at all?
+
+He didn’t like that.
+
+He landed on Matadero and left the nonagon in the hangar.
+
+“System, send a message to Drusi-otta,” he said as he set out with his patched suitcase rolling along behind him and his banana basket swinging from the other hand. He switched to Artonan. “Drusi-otta, if you have time to consider a very small concern of mine on behalf of Hn’tyon Lind-otta and Hn’tyon Esh-erdi, I would appreciate part of your future attention. The matter is not urgent. Thank you.”
+
+Don’t know exactly how I’ll put it when she calls me back, he thought as he headed for an elevator. But I’ll tell her what I’m worried about, and then she can insert herself between any inconveniences and the knights if it’s necessary.
+
+Before he could finish telling himself to put it out of his mind, he reached the teleportation area. Only to stop in the wide entrance, blinking in surprise.
+
+Esh-erdi and Lind-otta lounged in the middle of the main chamber on a low wooden sofa topped with thick cushions. As was often the case, his black hair and her paler brown was styled to match each other’s, today in a five-strand braid down their backs. The coats they usually wore as part of their knight uniforms were absent, leaving them both in simple high-necked shirts. They faced each other, Lind-otta smiling behind a raised wevvi cup while Esh-erdi drank something out of a larger mug.
+
+The beverage was a dark red, as Alden found out almost at once. He hadn’t finished taking in the sight of the two knights before Esh-erdi was on his feet and standing inches away from him in what looked like a single impossible step.
+
+Alden clutched his basket and suitcase handles harder. Behind Esh-erdi, the mug he’d abandoned fell toward the sofa in barely discernible slow motion, a fan of red liquid spilling from its rim.
+
+“Hn’tyon Esh-erdi, what—”
+
+“What is the matter of universal concern?” the knight demanded, his face intent. “This is now <<a shared emergency>>. I will bring all my authority to bear for the cause—”
+
+“No!” Alden gasped. “Did I say something wrong in my message? I’m so sorry! It’s not an emergency! There’s no emer—”
+
+“Your enemies will die before I do, young Avowed, and—”
+
+“Too much, Esh,” Lind-otta said gently.
+
+“My very blood will stain the ground as I chase the—!”
+
+“I said we could tease him a little, not frighten him.”
+
+“What’s going on?” Alden looked from one to the other frantically.
+
+“Hello, Alden Ryeh-b’t,” Lind-otta said from the sofa. “Esh wanted to be funny, but he’s bad at it.”
+
+Her voice and her expression made it impossible to believe she thought anything about Esh-erdi was bad. There were warm vibes in the room so strong they almost felt solid to Alden.
+
+Esh-erdi turned to pout at his partner.
+
+Lind-otta laughed.
+
+Esh-erdi laughed.
+
+The warm vibes laughed with them.
+
+Alden froze, his grip on his luggage suddenly weak compared to his grip on himself.
+
+Those vibes aren’t vibes. They’re a thing going on for real. Near him but not about him, like the echo of someone else’s shout.
+
+He swallowed, feeling exposed even though nothing was interacting with him as far as he could tell. It wasn’t like being targeted by another Avowed or having a spell used on him.
+
+Think. What is this? Is it dangerous to me? To my secrets?
+
+The knights were as happy and relaxed as he’d ever seen them. Out of uniform, having drinks together on a sofa that would have a big red stain on it in a few hours at the rate Esh-erdi’s drink was falling.
+
+They’re making the vibes?
+
+He thought that must be it—something happening between their two existences. Wizard children did the pat-pat control exercises with their learning partners. Zeridee-und’h could let out a distress call. Alis-art’h had surrounded Alden with her authority and kept him from destroying himself at her travel dome. Now there was this.
+
+And I’m noticing because whatever they’re doing is really big. Unless…it’s super basic like the learning partner pat and they’re so powerful it’s making it more epic.
+
+They were clearly in a good mood.
+
+Could this be part of their esvulgivnas and the “breaking selves together” thing?
+
+He was staring at them like a deer in headlights. They were going to think Esh-erdi’s joking had traumatized him if he didn’t say something normal soon. He went with, “Is that the couch from your rooms?”
+
+The teleportation area at Matadero had never had furniture in it before.
+
+“Yes!” Esh-erdi said. “It’s fortunate I asked Drusi to send all of your requests directly to me. With her help and your Contract’s we were able to arrive down here before you without even leaving our seats.”
+
+Alden felt his panic smile easing into a real one as he realized these two weren’t just happy. They were so happy they’d gotten goofy. They’d asked the Earth System to teleport the sofa they were on.
+
+It was only down a few floors into a literal teleportation zone, but still…
+
+“Are you all right, Alden?” Lind-otta asked.
+
+“I am.”
+
+“Come sit with us!” Esh-erdi led the way over to the furniture, where he scooped his mug out of the air and his drink into the mug with a couple of swoops of his arm. “Talk until you are summoned away to whatever brings you here. Healing? A social visit? You have many bananas with you. This cushion is best. Sit on this one.”
+
+This is really going to confuse anyone who teleports in.
+
+He took the cushion Esh-erdi had just left while the knight seated himself in the middle. The vibes that were more solid than vibes were fading.
+
+“I don’t have something important enough to bother either of you with if you’re busy.”
+
+“Minor problems can be as satisfying to solve as large ones,” Lind-otta said.
+
+“And we’re always busy,” Esh-erdi added. “But until sunrise tomorrow, we’ve decided to be busy with what pleases us. Nothing has sunk anywhere on Earth in days! Actually, I’m sure many things have sunk, but nothing has sunk unexpectedly due to the <<spillage>> of magical devices for which we’re responsible.”
+
+That was a good reason to celebrate.
+
+“All right. I was only calling Drusi-otta to tell her…”
+
+Alden didn’t have what he wanted to convey smoothed for presentation yet. But they were waiting, and the invite from Emban would be coming. And if Instructor Colibrí could be so blatant about what the school wanted from Alden, then why shouldn’t he be forthcoming about what he thought of it?
+
+“I think my school has hopes that wizards will give them extra magical equipment and support because I’m a student there. Because of the commendation and other things.”
+
+“Do you lack something necessary for your education?” Lind-otta asked.
+
+“No,” Alden said, brushing off a thought about how much he’d like to have some more video lessons from Instructor Gwen-lor’s class. “Of course there are always things that could be made closer to perfection.”
+
+“An endless pursuit.” Lind-otta nodded.
+
+“But I’m not asking you or any other wizards to give large gifts to Celena North. So if anyone ever says that I am, or if they suggest that I’m having difficulties in a class that can only be fixed with an improvement to our magical buildings or very expensive supplies, they’re…mistaken.” He felt that the word mistaken was a charitable concession on his part. “I’m not sure anyone will actually make that mistake, but if they do, in front of you, now you’ll know they’re incorrect. That was all I wanted to say.”
+
+“What about small gifts?” Esh-erdi was twiddling his fingers against his mug. “Do you want any small gifts for yourself?”
+
+“You’ve given me a lot. Even if we don’t include you saving my life, and I think we should include that. Also, Olorn-art’h gifted me an earring she made that helps me focus and enjoy instruction. So my education has been improved beyond my expectations already.” Realizing that praise was insufficient, he added, “It’s a wonderful earring.”
+
+“She gave you the work of her own hands! Lind, I told you I wasn’t being <<overwhelming>> by providing him with a few necessities.” He settled deeper into his section of the sofa, looked thoughtfully at his partner, then said, “Alden, where do you go from here?”
+
+“A Here-to-There with Hn’tyon Emban-art’h.”
+
+A thrilled whistle came from Lind-otta. “A Here-to-There! They were so common in my youth that a wizard would occasionally be caught in an <<unchaperoned>> one by accident and gain an unlooked-for task. I haven’t been to one in so long.”
+
+“I’ll be going to help Stu. Emban is bringing two members of her squad. I don’t know much about what’s happening, so I’ll… ” A good word for tag along wasn’t coming to mind. “Be casual and helpful company however I can.”
+
+“Don’t be soft-voiced during the <<challenging>> and the announcing,” Esh-erdi said. “Shout as loud as you can. As loud as your best croak!”
+
+Alden watched the knight sip the red drink, trying to tell by his face if this was a prank attempt or legitimate advice. When he couldn’t be sure, he looked to Lind-otta.
+
+She had a placid, competent way about her when she wasn’t ritually starting off a meal by cracking turkey bones with her jaws.
+
+“Why are you looking at her like that? Lind! Do you see this? The human child doubts my advice!”
+
+“Of course I don’t doubt,” Alden said. “I was just…wondering if she had advice, too.”
+
+Lind-otta laid one of her hands against Esh-erdi’s arm. To Alden, she said, “Be patient with our young siblings <<of circumstance>> if they’re <<moody>> right now. And don’t expect them to be as knowledgable and proper as a fully diplomaed wizard even if they now have many of the privileges of one.”
+
+“I’ll keep that in my thoughts.”
+
+“And I have heard your best croak,” she added, her eyes alight. “That volume will be adequate for the challenging and the announcing.”
+
+Esh-erdi grinned.
+
+“Oh…thank you…he really did share that with you. I’ve been recorded. Good. That’s good.”
+
+“You seem to be better at turning pink than most humans I’ve met.” Esh-erdi spoke in an innocent tone that was definitely fake.
+
+“It’s one of my many talents…and there’s my invitation to the first Rapport! I shouldn’t make Emban-art’h wait.”
+
+The invite actually came from Evul, so he assumed it was really Stuart initiating the teleport through his sister’s tablet again.
+
+“Go,” said Lind-otta. “Thank you for tolerating Esh.”
+
+“What about me must be tolerated?”
+
+Alden stood.
+
+“Don’t worry about us hearing the requests of your elders and thinking they speak in the voice of your own desires,” Esh-erdi said more seriously. “This truly is a small matter, if it happens. And it is neither surprising nor offensive to us, if you worried it would be so.”
+
+“I’m glad. I don’t want to be trouble, and I don’t want other people to cause trouble in my name.” Alden bent to pick up the basket.
+
+“We should talk about how Alis’s commendation is regarded, perhaps. When you’re ready to have that longer conversation with me and deal with the matter of the secrecy contract for this place.”
+
+“Whenever you want,” Alden said. “Whenever is convenient for you.”
+
+“Send me a list of days and nights that are easy for you,” Esh-erdi countered. “And I will choose one. Not immediately after one of your meetings with the healer, though.”
+
+“I’ll send you as many options as I can.”
+
+Alden stepped into one of the smaller alcoves that surrounded the central chamber. Seconds later, he was on Artona I.
+
+******
+
+******
+
+“He’s a sincere person,” Lind-otta said.
+
+They were back in their sitting room, still on the sofa.
+
+“He is.”
+
+“Jeneth’s youngest is also sincere.”
+
+“Yes.” Esh-erdi set his empty mug on the armrest beside him. “I hope they’re mature enough to handle that sincerity. If not, they might rip away each other’s shade leaves without being prepared for all that can be known in harsh light.”

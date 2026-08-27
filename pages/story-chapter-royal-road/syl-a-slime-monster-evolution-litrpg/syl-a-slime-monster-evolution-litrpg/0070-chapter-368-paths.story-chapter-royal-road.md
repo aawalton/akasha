@@ -1,0 +1,159 @@
+---
+id: e2d30976-bda9-5d04-b4ba-cc164dad17e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 368 : Paths"
+slug: 0070-chapter-368-paths
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 70
+ownLength: 2312
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3225328/chapter-368-paths"
+royalRoadId: "3225328"
+---
+
+When I got back, the first thing I wanted to do was distribute the levels, so while everyone else ate dinner, I was working behind the scenes. From my observation, basic class levels were useless to me, so I wanted to rid myself of as many as possible and leave only a few behind as a foundation, just in case.
+
+I promptly gave five Mage levels to Sylvain, bumping him up to ten, then I gave Sylvester and Sylthaeryn both four, bumping them up to five. I still had another seven levels to give away, which would drop me down to an even ten. I wasn't sure who needed them, but Vee suggested I just ask them.
+
+I jumped on that idea and activated Sylvester and Sylthaeryn, even though they were degraded from exceeding my maximum active personas, because they could still talk. We had a bit of back-and-forth, and I ended up giving five levels to Sylvester, bringing him up to an even ten as well. The reason I gave it to him instead of Sylthaeryn was that she suggested she take a few levels in archery, rather than purely magic, as that was what the original Sylthaeryn had.
+
+"Wait, if you're planning on giving the Feirelle's another Syl… What about me?" Vee suddenly asked.
+
+"I hadn't thought about that…" I admitted.
+
+"Does that mean you'll make a fake me?" Vee asked.
+
+"I could… But to be honest, I don't want to donate dimensional skills or class levels to a copycat persona. I already feel like I broke the bank donating Elementalist four times…"
+
+"Um… Well, that sucks," Vee sighed. "But I guess it would just be like another you, kinda."
+
+Vee's casual remark gave me a flash of inspiration, as I suddenly realized that I didn't need another persona, as Vee couldn't even talk to other elves. Therefore, did I even need another persona? Wouldn't a basic [Sub-Core] in a spider shape and sitting on her shoulder be enough, since it could use my own abilities?
+
+It's almost like the reverse of my idea, where I wanted to create a rideable flying monster to get to the floating island, except I've got a fake [Bonded Companion] sitting on the shoulder.
+
+A [Sub-Core] on its own wouldn't be as powerful as Vee, especially since I couldn't replicate her [Rift Thread], but a shoulder spider who can teleport you or open rifts was definitely nothing to scoff at.
+
+That just left me with two more levels to get rid of, and I was scowling at them as they looked very out of place. That was when Sylbera sighed and offered to take them, and at the same time, she made a suggestion.
+
+"I was thinking of taking some levels in warrior. You don't really need another spellcaster, and perhaps I can find a good hybrid for it."
+
+"Sure, I don't mind," I quickly agreed.
+
+"Imagine a magma swordsman!" Vee exclaimed excitedly.
+
+The idea definitely sounded good, and I had to agree that I didn't really need this many spellcaster personas; it had just ended up that way.
+
+"The other reason is that… A spellcaster doesn't really need weapons or armor, so at least this is more appropriate," Sylbera pointed out.
+
+"I don't think any of us really need arms or armor, but I see your point," I answered with a chuckle.
+
+At this point, I would be genuinely surprised if something crafted could beat the combination of [Primordial Slime] and [Slime Mastery], but maybe I had just not seen enough. Plus, it certainly wouldn't hurt to have extra equipment, and if it made Vee and Sylbera happy, why not?
+
+Actually, now that I think about it, equipment might make more sense for the personas. They lose a lot of benefits without my presence, so having equipment to fill in the gaps is a great idea.
+
+As if prompted by Sylbera's sudden request, Sylvester also spoke up. "I also think I should perhaps try focusing on a different path… Perhaps alchemy?"
+
+I frowned. "What about enchanting?"
+
+Sylvester sighed. "I definitely want to continue it, but…" he paused and shook his head. "I don't want you to give it up as well, after all, I know you enjoyed it too."
+
+My eyes widened in shock. This was not a conversation I had expected to suddenly have with a split personality. When I didn't respond, he continued.
+
+"Unlike the other two, Sylthaeryn and I are effectively just slightly altered versions of you. Sylthaeryn has had some changes due to the role you had to assume during your stay in Caelthal, but I've had no such adjustments, so I believe I understand you."
+
+"Remember the description did warn you that not everything should be discarded," Vee chimed in.
+
+The three personas nodded in agreement.
+
+"Can I just say that this is rather disturbing?" Leon suddenly declared.
+
+The five of us glanced at him, and he instinctively shrank back into his shell.
+
+"No offense… But you're practically talking to yourself from my perspective," he finished.
+
+"Says the one who I've witnessed having discussions with Sylvester on several occasions," Vee scoffed.
+
+"He's sort of right, although the lines are definitely more blurry now," I replied. "For example, they have their own skills and classes, but also their own memories. Meaning, unless I go digging through, I have no idea what they've experienced."
+
+"No wonder the skill felt so ominous," Vee commented.
+
+I nodded. Again, if not for my [Sub-Cores], I could quite easily lose myself by abusing this ability.
+
+"Speaking of experience, any idea how that will work?" Vee suddenly asked. "Do they get experience from you? Do they get their own? Can they join a party?"
+
+It was an excellent question, and one that I had no current answers to. But we could quickly test a few things before we ventured to the dungeon.
+
+I initiated a party and was able to invite all my personas, implying that they each received their own portion of the experience. Usually, I wouldn't be so happy about splitting experience several times, but I recalled that larger parties received bonus experience distribution as compensation. Not to mention that, as the party leader, I could allocate more of it to myself if I wished.
+
+There was, however, one big unanswered question: what about their race levels? The personas had their own separate class, but they used my race levels as their foundation. We reasoned that there were likely two outcomes: either the personas only gained experience towards their class, or, better yet, any experience towards their race went directly to me!
+
+"I really hope it's the second scenario," I openly admitted.
+
+Race levels were going to be hard to come by, especially since I wanted to focus on Riftmancer at the moment for obvious reasons. If I were gaining additional racial experience from each persona, then it would elevate my already good opinion of this ability tenfold!
+
+Throughout the evening, we chatted a bit longer and discussed our plan for the dungeon we were raiding tomorrow. Our plan was to split into two parties; I'd go solo, and Vee would form a group with the personas. As we discussed, I received a very welcome surprise.
+
+<Proficiency gained. [Split Personality LV 1] improved to [Split Personality LV 2].>
+
+I wasn't sure whether it was because the two weakened personas were still active during the conversation, but the skill finally leveled up, bringing them both to full capacity. They both sighed with relief, indicating how uncomfortable it must have been to be in that partially active state.
+
+Moving back to our conversation, Leon refused to participate.
+
+"I'm a builder, not a fighter," he declared and firmly revealed his intention to retreat back to the island after showing us the dungeon's location. Even the allure of the dungeon bricks wasn't enough to sway his judgment, and he was quick to point out that he could just grab them after the fact.
+
+When our conversation finally ended, and we were heading to bed, the three personas asked me to join and maintain the island's slime network. They wanted to form a small party together and go grab some basic class levels to gain some skill points, and hopefully unlock some better intermediate classes.
+
+I was curious why they wanted to do this, but I quickly got an answer—they wanted to acquire some basic essential skills they were missing. I had a plethora of skills, but I wasn't running a charity, so I hadn't given them too much.
+
+Another reason for their request was that they wouldn't be able to easily change classes while in the dungeon—unless they directly accepted a class change through a revelation. Considering how fast the basic classes had gained levels, it was much better to have them go into the dungeon as intermediate classes at the bare minimum.
+
+I agreed and connected myself, allowing the three of them to disconnect after attaching a slime tendril to one another, and suddenly, their team was formed. In the interest of a trial run, I gave Sylthaeryn an additional [Sub-Core] and had it assume the copied form of Vee on her shoulder. This way, they would have some extra security and, more importantly, access to teleportation, since none of these three could do it with their currently available skills.
+
+With that, I waved them off as they rushed out to sea, promising not to go too far or too deep, as they would lose a lot of their effectiveness without my presence, enhancing all nearby cores.
+
+I can almost call it my own king or queen buff, since it's sort of the same thing the various monster races have had. It makes me wonder if I do end up taking the Slime Queen evolution, will I get my own versions? And, more importantly, will they boost my [Sub-Cores] too?
+
+Since I was reattached to the network, I had the remaining [Sub-Cores] continue practicing [Elemental Praxis] throughout the evening before I went to sleep. Now that I was positive I wasn't going to donate any more parts of it, I wanted to regain its missing levels.
+
+And tomorrow is dungeon time!
+
+***
+
+The next day, we began forming our teams, and we were welcomed by two of the four personas donning new classes. Sylbera was a Spellblade, apparently a somewhat generic intermediate class that combined Mage and Warrior. Sylthaeryn took Ranger, which was apparently the non-companion alternative to Tamer, and was still searching for something that melded spellcasting and archery.
+
+Sylvain and Sylvester had both just settled on Elementalist, which made sense since it was hard to imagine a better class for them at the moment. Sylvain seemed a bit peeved that he wasn't invited to the party last night, but I told him he was welcome to go hunting on his own with Vanessa.
+
+Speaking of her, she had come with, as she deemed the dungeon raid too risky for him to go on his own. I rolled my eyes at the situation and just thrust the problem onto Vee, as she was the one who wanted this drama.
+
+Vee, Sylbera, Sylvain, Vanessa, Sylthaeryn, and Sylvester together formed a full party, which meant they would receive the maximum benefits. Vee was the party leader, and I secretly told her to set Vanessa's experience distribution to the absolute minimum.
+
+Since we would be split up, I also needed to recall the entire slime network, as I could only maintain two at the moment. I stored it all and gave each persona two additional [Sub-Cores] for good measure.
+
+With a combined might of twelve cores, and Vee as a backup, I felt confident that nothing the dungeon could throw at them would shake them. This also left four [Sub-Cores] for myself, which felt like plenty since I was a one-slime army, and my primary core outperformed all of them.
+
+Leon had finally arrived and was quite distant. Evidently, he wasn't too happy about returning to the deep ocean and the dungeon, and he was nervous about this operation, even though he was retreating after playing tour guide.
+
+"Just stick close to me, I'll keep you safe," I told him.
+
+"Appreciated…"
+
+And with that, after saying goodbye to Logan, we set off for adventure. I had distributed the abyssal pendants to everyone, even though only Vee and maybe Vanessa needed one. Still, for appearances' sake, it was best not to reveal that the personas were nothing more than slimes in disguise.
+
+Sylvain cast [Bubble] on all of us, and we all plunged into the ocean. I pulled out a massive chunk of deepstone, causing Vanessa's jaw to drop. Obviously made from [Metal Slime], but she had no idea. Then we all grabbed hold of it, and I began to channel Mana into it, causing us to plummet towards the oceanic trench with great speed.
+
+"With this necklace, I can actually explore the deep ocean. This is pretty exciting!" Vee said.
+
+"Bah, why would you be interested in that place? It's a load of rubbish," Leon scoffed.
+
+"Well, there's plenty of monsters at the very least," I pointed out.
+
+"I know. It's dreadful," Leon sighed.
+
+Vee and I shared an awkward glance and decided to change the topic. This was going to be somewhat of a long trip, and we didn't want it soured by a grumpy crab the entire way.
+
+"I really wish we could've just teleported," Vee said to me secretly.
+
+"I don't really want to show Vanessa that we can do that," I replied. "Also, Leon said he didn't want to, as it would mess with his sense of direction. I'm also afraid I don't think we can teleport him with his shell, even with his permission."
+
+Vee sighed but agreed. At least she was going to get to see some new sights on the way.

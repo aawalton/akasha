@@ -1,0 +1,523 @@
+---
+id: 8fb8f487-d497-560c-9135-403d9afe1f65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102: River"
+slug: 0021-chapter-102-river
+partOf: the-calamitous-bob-stubbed
+position: 21
+ownLength: 6368
+unit: words
+ownProgress: 6368
+publishedAt: 2023-01-20
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1092619/chapter-102-river"
+royalRoadId: "1092619"
+markedReadAt: "2026-06-29T21:15:25.156Z"
+---
+
+It only took one afternoon of discussion with Sidjin to convince Viv she had to make headways on arcane magic, starting now and then continuing at the academy.
+
+“Colorless mana is used to bolster almost every spell at high level. For example, the artillery spell, the mainstay of battlemages everywhere when they do not have the time to do something more…”
+
+“Take a deep breath,” Viv suggested.
+
+“Sorry, yes, I tend to use longer sentences when lecturing. My apologies. The artillery spell uses transparent mana layers to prevent the colored mana from dispersing before impact.”
+
+“So transparent mana makes the missile, and colored mana makes the payload?”
+
+“An interesting turn of phrase. Something from your world?”
+
+“Hmmm. Yes.”
+
+“Weapons, I’d wager. But I digress. The answer is no. The colored spell is the missile and the payload. Colorless mana is used to reinforce and enhance it.”
+
+“I see.”
+
+“Arcane is not limited to reinforcements, it can also allow mages to achieve feats unique to specific hues, albeit at a higher cost. For example, flying.”
+
+Viv’s mind went into overdrive, thinking of the possibilities.
+
+“Hold on… there is a weight rune!”
+
+“One often misunderstood or used for parlor tricks. And yes, very astute. Arcane magic lets a person reduce their weight until the smallest impetus propels them across the ether. You will never outdo a gray mana specialist, of course…”
+
+“But I’d be airborne.”
+
+“You can make light, which requires very little energy but is rather complex. Personally, I have never achieved the white color.”
+
+“Hmm, my school days are behind me, but I think I might know why. You need to reproduce colors from all across the visible spectrum to achieve white light. You are probably creating light with a high temporal coherence, meaning it’s the same color all around, and huh…”
+
+She wilted a bit under Sidjin’s intense gaze.
+
+“And now I absolutely must ask you questions about your world,” he said. “And we are getting sidetracked again. Arcane magic has many applications. Someone like you will profit a lot from its flexibility. First, we are going to examine the most simple spell, as a proof of concept for you, so to speak…”
+
+Sidjin coached Viv into making her own lamp. It took the light glyph and some measurements inscribed in circles, otherwise light would only occasionally flicker. The calculations made Viv’s head hurt and annoyed her on a fundamental level. Those were arbitrary numbers based on some nonsensical scale made by some old geezer who picked his favorite color as a base. Quickly understanding the problem, Viv ditched the pointless math and created her own spectrum, picking the ‘high’ and ‘low’ glyphs as anchors. It took her half an hour of effort, but she had a working light source she could dial between red and indigo. Sidjin glared at the spell for twenty minutes and asked her to change the color until the deck of the ship felt like a cheap rave. Eventually, the mage licked his lips and considered his next words.
+
+“I believe I know how you ended up in Nyil. You mentioned your homeworld didn’t have magic?”
+
+“Yes?”
+
+“Then you would have been wasted there. I am not saying you could not have been successful. Successful people tend to be successful everywhere. I am saying that you are gifted, Viviane the Outlander. It would have been a shame not to have you here, converting mage spells into witch constructs.”
+
+“Who’s being a flatterer now?”
+
+“And by this, I mean that I expect your efforts to match your talent, because you have no excuses.”
+
+“Alright, alright.”
+
+At the end of the first session, it was done. Viv could cast light. She would not have to rely on her stone anymore. She decided that the teal/cyan wavelength was nice and strangely peaceful, and that it would be her standard choice from now on. After that, they discussed the theory of spell layering, adding colorless elements to other spells.
+
+Sidjin coached Viv. He was amusingly intense and single-minded when it came to magic, which she found endearing. He also had a habit of storing questions for later, then asking them one by one and by chronological order. Viv was starting to think that under his guise as a scarred and kinda cute prince, the man was a little bit of a nerd when it came to magic.
+
+Layering the artillery spell to make it go faster and farther proved to be excessively complicated, not because the principle was difficult, but because she needed to wield two different sorts of mana at the same time. It was the first time she was confronted with this difficulty while virtually every other caster experimented with mixes early on. The exercise was unfamiliar. Nevertheless, Viv did not give up, she would just need a bit more time. In the meanwhile, there was the issue of fire.
+
+So far, the crew and Captain Leit had been willing to accomodate the two mages. However, mention of the fire experiments during dinner forced his hand. Sidjin had to promise he would keep Viv under control to assuage the man’s fears, and the crew gave them a wide berth the next day.
+
+The colorless spell was based around a very rare rune, that of friction. For almost a day, Viv could only manage to create sparks while Sidjin had flames with the same structure. She quickly concluded that an adjustment had to be made so she could cast as a witch, but couldn’t exactly think of one until she realized the problem was fuel. Somehow, Sidjin used mana as fuel naturally, which she hadn’t considered. She added an energy rune to hers and now she had an uncontrolled explosion. Mercifully, Sidjin stopped them before they could even escape the spell structure. It did give her some ideas. If she could compress…
+
+“Do not get distracted by another concept,” the mage interrupted.
+
+“Yeah yeah.”
+
+“You were being distracted.”
+
+“I know!”
+
+The witch expediently solved the issue by lowering the mana input. Now, she had tiny balls of flame at will, and could light a fire if she found herself without a lighter again. As Sidjin said, those were low-hanging fruits, but they displayed the sort of things she could accomplish.
+
+And if anyone asked her to light a pipe or a cig, she could snap her fingers and make it happen. That was cool.
+
+On the evening of the third day, the slow river tub stopped at its first destination. It was not a village, despite her first impression, but an extremely large estate overseeing the cultivation of the rich soil along the shore. The ‘River Flower’ unloaded bales of cloth, tools, and luxuries, then charged its stores with oil from a large fruit that reminded Viv of olives except for its color which was a vivid red. It smelled particularly fragrant.
+
+“Ganar oil. Cooks swear by it from the cold south to Halluria’s hot deserts,” Leit declared.
+
+He frowned.
+
+“Those Mornyr merchants can turn it into scented soap and perfume. They won’t tell us how, the beasts.”
+
+“Trade secrets are always bad when it’s the other guys doing it, huh?” Viv teased.
+
+Captain Leit rolled his eyes.
+
+“I would not be so sore if my wife didn’t like it so much. Seven silvers a jar. Highway robbery, is what it is.”
+
+Viv cajoled the canny merchant into admitting the gift wouldn’t be so appreciated if it were cheap. There wasn’t much to do on the shore, but Viv wanted to walk a bit on firm ground, and so they moved to the inner courtyard of the estate’s central building. It was as large as a football field, and surrounded by thick brick walls. Soldiers and scouts trained in a corner they walked by. They eyed Sidjin with pity instead of focusing on their damn forms. She heard the words for ‘cripple’ and a few insinuations from sneering warriors watching an ongoing spar. Sidjin didn’t seem to mind, possibly used to it all, but that rubbed Viv the wrong way, so she requested the use of an archery target for a little ‘demonstration’ on colorless fireballs. He traced the glyph slowly and with perfect control, each symbol and each layer appearing carefully to give her plenty of time to observe them. One smoking crater later, the jeers stopped. Sometimes, it felt nice to be petty.
+
+“Thank you for the demonstration,” Viv said.
+
+“No,” Sidjin replied with a knowing smile, “it was my privilege.”
+
+They walked a bit more at a slow pace. It soon became obvious that Sidjin tired quickly, so Viv offered her arm to him, which he accepted with muttered apologies. He was clearly in pain. Viv also noticed that he didn’t eat much. There would be a lot of work before he was mostly fine again.
+
+They moved on shortly after.
+
+Viv realized the cruise would have been deathly boring if it were not for Sidjin. Leit was nice. He was also a man of habits whose interests were limited to trade and its intricacies. Viv could not relate to a man who thought the storage requirement of various kinds of cereals deserved hours of discussions. She didn’t look down on him for it. It just didn’t interest her that much.
+
+Or maybe it was just that Sidjin was different. He explained to her how a single earth mage had changed the food production industry in his hometown and made it feel like a saga. There was spying, treachery, one murder, and a properly bedded diplomat’s wife.
+
+The next few days were spent training telekinesis, or as Sidjin called it, far control. It required only two runes in its most simple configuration. It was also the single most complex and tiring mental exercise there was, a single lapse of focus sending the selected bottle to the mercies of Newton.
+
+Mana mastery: beginner 9
+
+“I know it can be frustrating,” Sidjin said as he placed a delicate hand on Viv’s own to guide her.
+
+“Oh no, I find it quite rewarding,” Viv replied.
+
+At her level of understanding of magic, perception and manipulation felt more intertwined than ever before, and she knew she was on the verge of a breakthrough. Besides, learning magic was fun, and that was before all the exciting implications of telekinesis came into play. Like doing a Darth Vador impersonation, or sending high-velocity ball bearings through someone else’s cortex.
+
+About halfway into the trip, they stopped at another major city: Markeis. It was the last Enorian city on the river. Past that point, they would be going through the territories of the northern city-states. Viv was eager to go out and move a bit, especially because the ship would be staying the night. Unfortunately, her hopes were dashed as soon as the ship passed a bend in the river, and the city came into view on the southern shore.
+
+It was an absolute fucking dump.
+
+She could tell it at first glance from the tatty roofs to the damaged walls, even before she spotted the shanty spilling through the gates life fresh vomit. There were guarded fields farther up, so tents and makeshift cabins sprawled all the way to the edge of the trees going along the shore. The stench hit her like a hammer. It smelled like shit, piss, and unwashed bodies.
+
+Leit leaned against the railing by her side as he brought a perfumed handkerchief to his delicate face.
+
+“Markeis, the pus-filled abscess on River Shal.”
+
+“What sort of business is there to be had?” Viv asked.
+
+“The unsavory kind. But someone has to do it.”
+
+Viv looked the man in the eyes and released just a tiny bit of her intimidation, a task made possible by the small control she already had over her soul.
+
+“This better not be slaves or drugs or we’re going to have a problem.”
+
+Leit scoffed.
+
+“Of course not, the guild has rules, you know? Very stringent ones! And they have a very long reach,” he retorted.
+
+The implication was clear, though Viv noted the beginning of sweat on his brow.
+
+“I wonder how you intend to protect us while we are in this den of iniquity.”
+
+“As your host, I can guarantee your safety so long as you remain on board. We have some understanding with the, ah, concerned citizens trying to keep some order in that lost place. We take no responsibility for your safety if you do decide to step out, though I would be happy to give you some piece of advice depending on what you seek. Just remember to exercise caution. There are many in these walls who are versed in the art of… disposal.”
+
+Leit feigned a huff.
+
+“Oh, if only the dukes kept a better handle of that place. Now that the war is almost over, things could change for the better.”
+
+Viv thought it would take less effort to launch a nice SCALP missile on that rot and rebuild somewhere else. Just have to make sure not to do it downwind.
+
+“Will you be going out?”
+
+“Are there churches here?”
+
+“I understand that Enttiku and Sardanal have a presence. Would you like to see a priest?”
+
+“Yes.”
+
+“I am sure it can be arranged.”
+
+Leit gave Viv some advice on where to go. Fortunately, the city was not so large that Viv had to get lost in the seedier sections. The path from the pier to the church of the goddess of death was straightforward enough, and the only safe hotel in the vicinity was practically across the street from it. Viv could definitely use a night of sleep on solid ground. She also wanted to get started on Sidjin, if only to see how much work she had. A quick request to Arthur for monster meat yielded a mighty scowl.
+
+You wait for me.
+
+Too stinky.
+
+Unsafe.
+
+“I promise I’ll wait for your return, and yes, some of the humans here will be very bad. We have to be careful.”
+
+You go with Sidjin?
+
+“We’ll go together, all three of us.”
+
+Mother fancies Sidjin?
+
+Strong male.
+
+Hurt, though.
+
+“Maybe…”
+
+Mother cannot make eggs too soon!
+
+I am too small!
+
+“I will leave my eggs unfertilized for now and the foreseeable future, thank you very much. Don’t you worry, you magnificent scaley lady.”
+
+Okay!
+
+Arthur left once more. Viv was getting concerned that the dragonling was spending more and more time ranging out. She wasn’t sure how fast dragons grew. Arthur’s growth was astoundingly fast, but maybe it had merely been put on hold by the complete lack of food in the deadlands. Maybe she was much older than she looked. Or maybe that was just proper stimulation. In any case, her presence in Helock might be much more troublesome than Viv had anticipated, and there, she wouldn’t be strong enough to protect her. It didn’t matter to Viv if a dragon armada burnt the place to the ground to avenge Arthur’s death. She would still be dead. Viv could not let that happen. She had to find a solution, but what? Her clock was ticking.
+
+She would have to check with the academy. That was best. Failing that, she would find a way to make sure the dragonette had enough room not to feel cramped. She had to get to Helock. A dead Viv could not protect anything.
+
+Sidjin joined the crew on the deck while they moored. The piers were perhaps the cleanest and most organized part of the city, according to what she could see from her vantage point near the prow of the River Flower. An official type of guy walked to Leit, flanked by sturdy men wielding truncheons. There was even a mage clad in gaudy robes keeping an eye out near the dockmaster office. Viv could perceive black and blue from here. She associated it with water and death. The mage paid them no heed, perhaps because they kept their aura under control.
+
+“Do you want to have a stroll? I would warn you against the attempt, as I think your sinuses may not survive the ordeal,” Sidjin offered.
+
+The mage had used a spell to make the air fresh around them for now, but had warned it could not be maintained on the move without some preparation and Viv was unwilling to risk getting too much attention from the local guards and mages. This was not the best part of Enoria, but a city that had what she believed was a third step mage playing grunt on their docks were bound to have some more serious opposition deeper in.
+
+“I was thinking about a quick visit to the church. Unless you think it’s too risky?”
+
+“The only people who are protected in Markeis are those who don’t need it, so we should be fine. If I may come with you.”
+
+“I want to have a look at you for the healing spell, so yes.”
+
+“Oh, shall we go then?”
+
+“We wait for Arthur to return.”
+
+Sidjin knew she was a dragon and frowned, perhaps concerned about the flammability of the wooden buildings. Nevertheless, he didn’t protest. Arthur soon returned with a pair of green-coated male harriens, their hare-like bodies intact beside the broken necks.
+
+“Let’s go then.”
+
+The odor landscape was just as fucking dreadful as Viv feared. Rancid waters and rotten fish piled on with the rest to lift the mix to nauseating levels. Viv had to grab a shawl to fold over her nose, which made the already warm temperature unbearable. They walked over cracked cobblestones at a slow pace to save Sidjin’s strength. That was fine. The passersbys mostly ignored the show of weakness thanks to Arthur’s presence. People didn’t need to recognize a dragon to understand fangs and scales meant fuck off. Nevertheless, she saw too many calculating gazes for comfort.
+
+The crew of Markeis was a mixed bunch. There were workers with grim airs laboring quietly and rather efficiently, but there were also lowlives of two types: the successful and the scum. Some of the scum had appearances she would have never expected to see outside of movies, complete with missing teeth and bloodshot eyes. There were also whores and street urchins, none of whom dared approach on account of, again, Arthur. They were hailed though, and asked for alms, or offered various services. Viv thought it better not to stop for anything and Sidjin didn’t protest.
+
+They saw less bustle farther in. Beggars and vagrants lined the streets while stalls sold patched up shirts and watery soup. Thugs seemed to be the main occupation for men. More than once, Viv saw town folks disappearing into crowded, unmarked houses. They were offered mind-altering substances on seven separate occasions.
+
+“Dream powder, lady? A walk on the wild side, ey?”
+
+People finally left her alone when they arrived near the temple of Enttiku. Viv judged that finding a priest of trade and fertility in this city invited trouble, but death must be a familiar presence here, and she expected the place to be neutral ground. She wasn’t disappointed. The temple occupied an isolated square around a statue sporting a cowl and a ritual mask, the symbols of the goddess of death. It was kept clean by a sweeping acolyte, and no one stood around to annoy people.
+
+“You are rather guarded, Viviane. I may not look like much but I can defend myself and us, should the need arise. We could even find a shop for magical tools, if you wished it.”
+
+“I’d rather not walk around too much. When I asked Leit if he intended to get slaves, he said the guild would not accept, meaning it’s possible to find some here.”
+
+“I would be surprised if you couldn’t, though they will be called indentured servants or similar euphemisms since slavery is currently not tolerated in Enoria. Does the sight of slave upset you?”
+
+“Yes. If I see something too horrendous, I might do something everyone will regret. Look, it’s much easier for me not to do anything if I don’t see anything. Call me hypocritical, if you must.”
+
+“Then every person is. The correct balance between helping others in need and helping oneself is so difficult to identify. Many have tried and failed. If it’s any comfort, one woman cannot fix this cesspit, not even with your powers and all the time in the world.”
+
+“Thanks, Sidjin.”
+
+“We can still murder idiots if it looks like we won’t get caught. I can make the bodies disappear.”
+
+“Thanks Sidjin, you’re a dear. That would be quite the date.”
+
+Sidjin choked on that, and dragged Viv onward with more strength than she expected.
+
+The church compound began with dark iron gates. Past that was one of the most lush, beautiful gardens Viv had ever seen anywhere. The terrible stench of Markeis stopped once they passed through, to Arthur’s obvious delight. Viv was tempted to walk to the large black brick-and wood edifice, obviously the main building, but Sidjin signaled to the side towards where they could hear a voice. They walked under an arched passageway laden with thorny bushes ripe with black roses, their perfume enticing. They stopped at the edge of a clearing surrounded by hedges and blooming trees. Four people occupied the center of the place near an artificial spring that burbled happily in the background. There was an old man and a younger one, both clad in dark garments and showing kindly expressions.
+
+[Priest of Enttiku]
+
+[Acolyte of Enttiku]
+
+Viv’s budding soul sense revealed that the older man was quite more powerful than he let on, probably a necessity in this place. He was talking softly to a young man leaning on the ground, his skin pale and clammy. A cloak covered his chest, while one of his hands rested in the frantic grip of a younger girl on the verges of tears. Viv briefly smelled a waft of spoilt meat before the garden took back its hold.
+
+They stayed at a respectful distance while the priest soothed his patient. The young man’s breath was frantic, but it slowed down when the priest’s voice rose.
+
+“Forget your sins, for you are human and no human is without sin. Enttiku has weighed your heart and did not find you unworthy. Forget your mistakes, as you shall forget those of others, for only those who have never tried do not know the taste of failure. Leave without regret, because you are in the embrace of the cowled one. Sleep, now. Sleep.”
+
+The young man gave one last rattling breath, then he died. A light glow shone under his skin and his body slowly fell apart into ashes, not like a crumbling statue, like petals or leaves in autumn. Viv felt it wasn’t so bad, though the girl cried hard. She quickly inspected her.
+
+[Scullery maid]
+
+Yeah, not the best option in such a lawless place. As far as she remembered, this path could lead to high administrative roles but she doubted the girl would be given a chance. The priest picked the bereaved by the elbow and gently guided her to a side door, where a nun took over, then he returned. Meanwhile, the acolyte had been collecting the ashes with a trowel and ceremonious attention. Suddenly, she could guess what they used as fertilizer. There were worse ends, she supposed. One could end up floating on the river Shal.
+
+“How may I assist you?” the priest asked.
+
+The man had lost his fatherly demeanor in favor of a more solemn poise.
+
+“I would like access to a room to conduct a healing ritual, and I need the assistance of a priest. I’m willing to compensate you for your time.”
+
+The man looked both relieved and annoyed at the same time, even more so when he cast a cursory glance at Arthur and the dragonette reacted in the normal way to being glared at: by rising on her hind legs and spreading her arms and wings in defiance. Like that, she was only slightly less tall than the priest.
+
+It was the most adorable ‘the fuck you want’ Viv had ever witnessed. A part of her told her she should teach Arthur to be respectful but the greater part thought it was a lost cause in a dragon and she should just make sure Arthur didn’t steal, murder, or pillage. Unprovoked.
+
+“A healing ritual?”
+
+“Yes. If you’ll accompany me, I’ll be glad to show you.”
+
+“Madam, we are in a place of worship. Please do not waste our time.”
+
+Viv immediately unleashed the full extent of her intimidation. The priest did not back out and his own skills rose up in defense. The acolyte staggered, however.
+
+“You will accept, or you will refuse, but you will do so with respect. Goddess or not,” Viv stated with absolute finality.
+
+“I expected a man of your stature to show more discernment,” Sidjin said. “All who seek succor can find it in the embrace of the cowled one. Is it not so in Markeis?” he asked.
+
+The priest took a calming breath, then he nodded.
+
+“Please do not take my doubts as refusal. Our door is always open for the needy, yes, but you are not healers. Neither of you. Are you serious?”
+
+“Quite so,” Viv said. “Look, you have two casters obviously here for a ritual. Why would we be joking?”
+
+“Hmm. This is highly unusual. Keep in mind that any magic that violates Enttiku’s credo will be met with maximum force. I am Kinnir, and I accept. Now please, follow me.”
+
+Viv rolled her eyes at the man’s back, clearly within sight of the bristling acolyte while Sidjin merely chuckled. The pair walked at their pace after the priest who had to slow down to match them. Viv leaned and whispered in Sidjin’s ear.
+
+“He looked relieved before he heard our request. What was that about? Do you know?”
+
+“I think he expected a euthanasia request. They are forced to accept, although it goes against their faith that all should meet Enttiku when their time comes, and not before.”
+
+“Interesting.”
+
+Viv saved this information for later. Maybe one day, she…. better not think about that. She would find a solution before black mana killed her. Had to.
+
+The room they were offered was barely more than a clean cell. The first distraction occured when she realized she had to prepare the monster flesh first. Butchers had done it for her, back in Kazar.
+
+“You merely need to shred this, right?” Sidjin asked.
+
+“Yes.”
+
+“Oh, I can shred.”
+
+And indeed, he could. The bucket provided by the church was soon filled with reddish goop. The main difficulty had been to keep the innards from splattering on the walls. Sidjin’s spell was not nice.
+
+“Remind me not to piss you off,” The witch mumbled.
+
+“Oh you would need to go quite far for that, Viviane.”
+
+By then, Viv was almost done drawing the healing spell on the ground, and the priest’ expression had gone from dubious to amazed.
+
+“You! You are her! This is a regrowth spell! You are Bob the Calamity! I mean, Bibiane. Of Kazar.”
+
+It was an improvement over “Great Black Slut”, Viv judged.
+
+“Alright, lay on the table, SIdjin. Hmm. Naked.”
+
+“I beg your pardon?” the fallen prince asked in panic.
+
+“I’m sorry but I need to have a full analysis of your body’s current state and… you should be naked. I assure you, this is a medical procedure. I will be professional.”
+
+“Right. Yes. Of course. I should have… anticipated that. Obviously.”
+
+“Do you need assistance?”
+
+“What? No! No. But, hmmm, let me cast a warming spell. This place is chilly, and my constitution is not what it used to be.”
+
+“Of course.”
+
+Viv recognized a stalling tactic when she saw one, but if the prince needed a moment, she would grant him one. When he was ready, he disrobed, then awkwardly lay down on the cold stone.
+
+It was just as dreadful as she had expected. The state of the unmarred skin reminded her of death camp pictures. The rest was filled with horrifying scar tissue. He was also painfully thin, though not deathly so. Entire muscle fibers were missing, leaving a crevice behind under the taut skin. Many of the lesions were burn scars. He had also been emasculated. Shaved completely. There was nothing left.
+
+The emotion that welled inside of Viv’s heart was not disgust, but anger. Anger that someone would do that to a person she appreciated. All of this for having saved a species from an unwilling sacrifice. She counted every wound as she checked his body and tallied them in case Glastia fucked with her one day. As for why he was still thin, it was clear to her via the diagnostic tool.
+
+“You have severe nerve damage in multiple places. Are you suffering from chronic pain?”
+
+“I have pain tolerance in the fifth tier, if you must know,” Sidjin said with a fragile grin.
+
+Viv placed a folded band under his head as a pillow.
+
+“Oh. Thank you.”
+
+“Priest Kinnir, if you could put the patient to sleep?”
+
+“No, wait!” Sidjin screamed.
+
+The others froze. Even Arthur squealed softly from her corner.
+
+“Please, no sleep. I can take the pain, but I can’t…. not know. Not move. Sorry.”
+
+“Well, alright,” Viv said. “But no fussing or I’ll have to stop.
+
+“Agreed.”
+
+Viv started with his left hand, which had no fingers left. The painful part was that she had to cut some of the scarred but healthy flesh to regrow the finger properly. Reattaching the tendons required her to work fast, but she had ample experience by then. One by one, Viv rebuilt his digits. Sidjin inspected them after she was done.
+
+“I… can feel them. And this one, I used to have a scar on the last knuckle.”
+
+Although it was possible to keep a patient awake during surgery, Viv found being talked to spooky and annoying.
+
+“Please remain quiet while I operate, thank you. Priest Kinnir, if you would use your healing powers on the fingers.”
+
+Blessed silence returned while Viv checked the other hand. Paradoxically, regrowing the tendons would be more delicate and require her to cut more tissue.
+
+“This is quite a fascinating bit of magic.”
+
+“Oh my god Sidjin, if you don’t shut up, so help me!”
+
+“Sorry sorry sorry sorry.”
+
+Viv finished soon enough, did the eye quickly since she had experience with those, then it was Kirrin who interrupted her.
+
+“My apologies, caster, but the time for the night prayer comes soon, and…”
+
+“Yeah okay, he needs to rest and recover from the blood loss anyway. One last surgery, it should be quick.”
+
+“Yes, I was about to say, we will not have the time to heal this man within the next week I’m afraid, but I would happily stay a little longer.”
+
+“Okay. Then, teeth. With this, we’ll have healed some of the most sensitive body parts so it should drastically improve his quality of life.”
+
+The mage had hidden his teeth during all the conversation they’d had, but Viv had just seen the damage up close. Unfortunately, the surgery required her to pull out some pretty good prosthetics and that was a rather unpleasant moment for everyone involved. Eventually, however, Sidjin had all his teeth, both his eyes, intact lips, and functional hands.
+
+It didn’t fix the rest but it was a start.
+
+By then, Viv was more excited than tired, but Kinnir had duties to attend, and night had fallen. She helped Sidjin dress up since the stone had not helped with his pain. That left Kinnir hesitantly waiting for them by the door.
+
+“Lady Bibiane. If I may. The church is willing to compensate you if you can leave the circle. We can —”
+
+“Keep it. For free,” Viv interrupted.
+
+Kinnir’s mouth kept moving but no words came out.
+
+“I already told the church of Neriad they could spread the knowledge as far as they wished. Your difficulty is that you will need a black mana specialist to use the spell successfully, but I think someone may eventually find a workaround. Keep the circle, copy it, spread it, I don’t mind. Just credit me or something.”
+
+Kinnir walked her back to the gates of the compound. From there, they only had to cross a square to get to the inn.
+
+“I apologize for the way I treated you,” the priest said. He seemed moved. “I have been in Markeis for over a decade, trying to keep things together. Every request is a trap. Every favor comes with strings. I just… this place got to me.”
+
+“Don’t worry,” Viv replied, suddenly mollified. “I think I understand. Arthur?”
+
+“Squee!”
+
+“Can you see if anyone is waiting for us?”
+
+They could see the gates of the inn from here, but Viv was paranoid.
+
+As it turned out, someone was waiting for them.
+
+A female human!
+
+With a bow!
+
+“Alright, we’re going to cross. If she draws the bow, land on her and kill her. No flames. If she doesn’t draw the bow, land on her and bite her.”
+
+Bite!
+
+Scary dragon!
+
+“Exactly.”
+
+“I could just walk you, they wouldn’t dare attack me,” Kinnir offered.
+
+“That’s kind but we would be bothered tomorrow.”
+
+Viv crossed the plaza with a shivering Sidjin. As they reached the large metal doors, a piercing scream shook the night somewhere behind them. Viv didn’t turn, and a few moments later, Arthur landed quietly by her side.
+
+I bit her ass.
+
+Sneaky dragon!
+
+“Well done, Arthur. Thank you for protecting us.”
+
+“Squeeeee!”
+
+“Thank you, Arthur,” Sidjin politely added. “You are a true terror of the skies.”
+
+The dragonette puffed up with pride. Her chin lifted, then she blew some smoke and walked towards the doors first.
+
+The lobby of the Haven Inn was more fortified than the average bank.
+
+“One night, one room, please,” Viv asked.
+
+“You don’t need —”
+
+“Look, Sidjin, you’re shivering. Let me help, okay?”
+
+The man didn’t protest while they were led to a small but tastefully decorated room. It had a window leading to an inner courtyard, itself covered by a skylight. Lamps cast it into a favorable light as flowers abounded. So did the guards, and they wore mail.
+
+Sidjin refused most of the help. He was only too happy to use his intact fingers again. Sometimes, he would flex them with exaggeration. Once they had changed into something more comfortable, Viv proposed that they should sleep. The bed was large enough to accomodate them both comfortably.
+
+“Viviane. I have to thank you. This is… I never imagined I could get better. Really better. I am so sorry you had to see me in such a state, broken and ugly. I’m no longer much of a man, and — hmm?”
+
+Viv leaned forward and kissed him gently. She made sure to give him ample time to push her away just in case. She also broke contact immediately after. Her proposal was on the table, so to speak.
+
+“I think you’re much of a man, Sidjin. I think you have what it takes there,” she pointed at his head, “and there,” she finished, pointing at his heart.
+
+“As for the rest, well, it’s a work in progress.”
+
+She’d lost him. He was blinking owlishly, the expression almost comical on his scarred knight’s face. He placed his freshly healed fingers to his lips and pressed.
+
+“I… errr. They tickle so much.”
+
+And then he laughed. It started as a derisive chuckle, but soon morphed into a loud, free, full-belly laugh that left him panting. He opened his eyes to see Viv’s flabbergasted expression and laughed again.
+
+“Sorry… sorry…” he eventually managed to croak. “This was just so forward! And unexpected! Ahem!”
+
+His expression suddenly turned serious for all of three seconds before he broke into another fit. By then, Viv was laughing by association. It was just so bubbly and contagious.
+
+“Ahem. Right. I, Sidjin, Ex Prince of Glastia, accept your courtship. Ah, Viviane. You have no idea. Normally, I would always be the one to take the first step. You just caught me off guard, but yes. Although it is too early for me to name the feelings welling in my heart, I think I want you as much as you want me, you foolish madwoman. With all of the passion left in this decrepit frame, I long for each and every one of our conversations and your smile in the morning. Yes, I long for you. I just didn’t think anyone would fall for me ever again. Or take the first step!”
+
+“Ok good then kiss me again to make things less awkward.”
+
+“Gladly.”
+
+They did so, quite chastely, then when they separated, Sidjin had a twinkle in his eyes. Both of them.
+
+“By the way, this technically makes you the head concubine. Would you like — “
+
+Viv mock-slapped him.
+
+Arthur sent a chastising message from her pillow nest.
+
+NO EGGS!
+
+They fell asleep shortly after.
+
+***
+
+The trip back to the ship went without a hitch. Viv was also pleased to see that Sidjin’s appetite had redoubled now that chewing was not an exotic form of torture. He was giddy, though he knew they had to postpone the rest of the treatment until the next major city.
+
+“I can wait a few more weeks. I’m just so happy to have some of my stuff back.”
+
+He closed one eye and looked around with the new one.
+
+“It works!”
+
+“Of course it does,” Viv scoffed.
+
+The mood plummeted once they reached the River Flower, however.
+
+“A major faction the guild collaborated with has, ah, recently changed management. I’m afraid they have requested a renegotiation of the terms. They’ve asked us to dock at a private pier farther down the river, and I fear we might be a little delayed, but rest assured —”
+
+Sidjin and the poor captain looked flabbergasted when Viv raised a fist to the air and screamed on top of her voice.
+
+“What did I say? What did I fucking say? I warned you!”
+
+It was time to test some new spells.

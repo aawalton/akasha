@@ -1,0 +1,435 @@
+---
+id: 6728de23-5bb1-5d57-ae6e-c9286a767f0c
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-FOUR: Echoing Klerms"
+slug: 0166-one-hundred-sixty-four-echoing-klerms
+partOf: super-supportive
+position: 166
+ownLength: 5008
+unit: words
+publishedAt: 2024-08-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1774261/one-hundred-sixty-four-echoing-klerms"
+royalRoadId: "1774261"
+---
+
+164
+
+******
+
+“Well?” Evul asked, stealing an ink brush from the tray in front of Emban. She twirled it once, then dragged the tip of it around one of her middle fingers. It left a slender spiral of red ink in its wake. “You braved Stu’s wrath to go have a look at the two of them. What did you learn? What do you think of Human Alden?”
+
+“That was my next brush.” Emban didn’t look up from her work.
+
+They were the only ones in the formal dining room. Evul sprawled on top of the table in front of Emban’s tray, which was full of brushes with colorful enameled handles. She was using them to ink an intricate pattern of lines onto a hexagonal white card.
+
+“As for the human, I think…”
+
+After a moment, Evul rolled over to face her, propping her chin on her hands. “Think faster.”
+
+“It’s hard to think of anything but the fact that you’re lying on the dining table like a roast.”
+
+“Live long, my young cousin, and learn that everywhere can be your lounger.”
+
+“What if the Avowed walks through?” Emban lowered her voice. “How will he feel seeing a powerful hn’tyon rolling around and painting meaningless designs on herself? He may never sleep at ease again.”
+
+“Didn’t he just watch you get covered in fruit juice?”
+
+“That wasn’t my fault! And I’m sure he doesn’t hold me to the same standard.”
+
+“Baby Stu’s new friend seems very casual on our calls,” said Evul. She waved the brush she’d taken under Emban’s nose. “Tell me about him.”
+
+“I barely spoke to him.” Emban said. “But he seemed…”
+
+Evul sat up. “Do you not like him? Is he bad for my brother? Should I bury him in a hole so deep that even Aunt Alis can’t find him?” She gasped. “Does he not like Stu? Is he faking it?”
+
+Emban set the brush she’d been using aside.
+
+“Alden was inoffensive. He seemed very interested in Stu’s spell, despite how long he must have been sitting there watching. I just expected him to be…”
+
+“Taller? Hairier?”
+
+“Special,” said Emban. “Or impressive. In some immediately apparent way. For Stu to become so attached and insistent about him…I know he spent too much time contemplating the human boy’s death because your father scolded him about that ridiculous situation during his school entrance exams.”
+
+“Stu does like his contemplating.”
+
+“And I know that Alden must have depth of character, for him to have earned Grandaunt Alis’s favor.” She lowered her voice even further. “But Stu’s expectations for a lasting friendship don’t make sense, do they? He’s a Ryeh-b’t whose passion must be something like lab assistant work. Stu doesn’t even like laboratory classes. They have absolutely nothing in common that I can think of. And their lives will be even less alike next year, three years from now, thirty.”
+
+Evul rolled over again and sat up, wearing a thoughtful look. “That could be one of the things Stu likes about him.”
+
+“The fact that they’ve got nothing in common?”
+
+“The early years of your knighthood are the hardest,” said Evul. “There’s nothing like the closeness you feel with your first few squads. You carry each other. But you lose people so unexpectedly.”
+
+Emban looked away.
+
+“Human Alden might not be able to walk with Stu, but he’ll be a lot easier to keep safe.”
+
+“Do you think Stu thinks that way?” Emban asked.
+
+“Maybe not!” Evul said brightly. “But I’m thinking that way now! We can summon Human Alden every day to keep Red Alden company, and that way nothing bad will ever happen to either of them.”
+
+“I suppose that’s true. I don’t know how Stu might feel about that—”
+
+“Don’t worry about it. Go back to decorating your bonfire cards…why are you decorating those?”
+
+Emban swept her hands slowly over the tray. “I’ve decided this is the perfect hobby. Over the next few weeks I will make hundreds of these.”
+
+Evul peered at her. “That’s your idea of the perfect thing to do to sort your thoughts after your second affixation?”
+
+“Yes. It’s taken me a while to pick, but this will be ideal.”
+
+“You could go to all the best parties. I could introduce you to people. Why don’t you try some pleasure travel? Oooo…demand that an Exquisite Tongue of Knowledge tutor you to sleep every night. Or if you want to make things, Kofa dug a cave into the side of a cliff one year. ”
+
+“I’m going to make a card for every guest at my parents’ Summersending feast. Someone is sure to say, ‘The cards are almost too beautiful to burn this year!” Emban’s eyes lit. “And I’ll say, ‘I made them for you with my own hands. Every line has been touched with my thoughts on the importance of sacrifice. Think of me as you burn them.’”
+
+Emban picked up another brush.
+
+Eventually, Evul said, “So the thing that’s going to keep you motivated over the coming days is adding a coat of misery to a Summersending ceremony?”
+
+“I’m only adding a coat of perspective. If misery is the result…” Emban shrugged.
+
+“As long as it makes you happy, I support it! I do retract my offer of taking you to parties with me, though.”
+
+******
+
+******
+
+Two learning cushions, both made by the Craftswoman Enyl-tirg, rested side by side in front of the cottage window. Alden and Stuart knelt facing each other.
+
+“All right,” said Stuart. “Tell me everything you can about your skill. That way I can help you practice! And we might come up with ideas for defeating some of your classmates together.”
+
+Alden wanted to tell him then.
+
+Stuart had just shared his own skill. It was important and personal and…
+
+And I can’t fully reciprocate.
+
+He didn’t know if he would have.
+
+Probably not, right? If I’m not lying to myself. It’s just too soon. And too dangerous.
+
+Most of the control Alden had over his own future relied on him not showing anyone else what he was until he was ready. He was way too aware of that.
+
+But of his two enormous secrets, the skill would have been the one he was a little less afraid of sharing. Especially if he didn’t mention the authority sense along with it. And at this particular moment, knowing that he wouldn’t be able to do that without permission from Joe…rankled.
+
+Why does Worli fucking Ro-den get to control how I talk about myself? Why should he?
+
+Alden only knew the truth about his own skill because of the wizard. Most likely, he would have spent years not knowing without Joe’s intervention.
+
+It wouldn’t have been forever, though, would it? Having an authority sense, leveling at this rate, I would have figured out something was up with my skill on my own a lot faster than Joe expected.
+
+Because it was a useful talent, because Gorgon had recommended it, and because it had saved Kibby, Alden would have tried to top the skill out. He might have gone down some side paths, but not that many before he noticed that Bearer just kept growing and growing.
+
+Who knows what the System would have shown me to manage me? And when? It could have been worse than I’m thinking. But still…he could have locked everything else behind the tattoo, all the other tidbits, without making it impossible for me to tell another person what my own skill really is.
+
+“I hate Ro-den right now,” he blurted.
+
+Stuart, who had been kneeling there like a model of respectfulness and patience, looked understandably surprised by the response.
+
+“We can gossip about him if you’d rather do that than talk about your skill?” he said hesitantly. “Maybe not on the learning cushions, though…”
+
+“No.” Alden shook his head. “I just…of course I’d rather tell you about my skill. I’ll tell you what I can about all of my Avowed abilities. Um…I’ll start with the smallest one. I have a spell impression that makes temper spheres scream and turn invisible. I can show you. I’ve got a sphere in my bag. Hold on just a moment.”
+
+He forced himself to stop dwelling on the fact that he was still bound to keep his mouth shut by a wizard who had changed his mind about using Alden some more in the future and told him to forget all of their lessons and “take the easy road for a few decades.”
+
+That kind of thing will drive me nuts if I let it.
+
+Instead, he leaped up and hurried across the room to grab his messenger bag from the other side of the bed. When his hand wrapped around the glass ball in the bottom of the bag, he had a surge of unfamiliar discomfort. When he identified it, he didn’t know what to think.
+
+Am I seriously embarrassed to show Stuart my spell impression? Because it’s so much less than what he showed me?
+
+He didn’t want to be that way about it.
+
+“I’ve never managed to do anything very useful with this one,” he admitted. “Yet. Although Brutes do enjoy borrowing invisible balls and throwing them at people. I’ll just…you might want to cover your ears.”
+
+Alden tossed the ball onto the bed and activated the impression. His fingers and lips moved. His focus narrowed. The temper sphere turned invisible and shrieked.
+
+And that’s it.
+
+He let his arm drop back down by his side and stared at the dimple in the sandy-brown bedspread where the invisible sphere lay. “So. That’s a thing I do. I can make it scream as many times as I want before the invisibility wears off.”
+
+He seriously doubted Stuart was staring at his back thinking, How pitiful.
+
+But Alden hadn’t expected to be thinking it and feeling it quite this hard himself. Even though he didn’t like the way the spell impression felt and he wasn’t passionate about it, he’d enjoyed showing it off to Jeremy the first time he’d used it. Making something invisible was still interesting.
+
+It’s just different because Stuart knows more about everything. That’s all.
+
+“There weren’t a lot of Ryeh-b’t spell impressions I wanted from the list the Contract offered to fill out my affixation,” he explained.
+
+The silence stretched until it was so uncomfortable he considered making the damn sphere scream again.
+
+“You couldn’t find anything you wanted more on the list?” Stuart asked finally. “Was it so limited?”
+
+“I…” Alden swallowed. “I was annoyed by it at the time, but that was a personal…there were spells I would enjoy having so much more. There really were. A lot of them.”
+
+The Rabbit spell impression list hadn’t actually been bad. It had been a good list for Rabbits. But Alden had automatically dismissed all of the low-rank household spells as boring and useless.
+
+Because I couldn’t use them to get into CNH or fight crime.
+
+He could have taken a spell that fluffed pillows, dusted surfaces, or straightened stacks of paper and used it a hundred times by now.
+
+“What’s this spell impression for anyway?” he asked. “Do you know?”
+
+“No.” Stuart’s voice was a little higher than usual.
+
+I swear I can hear him blushing back there. Alden looked around. Sure enough…
+
+For some reason, the sight of Stu-art’h squirming on his cushion and turning purple like the terrible liar he was, made Alden feel instantly more at ease.
+
+“Whoa! Your face…did I take a spell for something completely awful? You’ve got to tell me now.”
+
+“It’s not!” Stuart said. “It’s useful. It’s good.”
+
+“What is it?”
+
+“A…um…”
+
+“Are you trying to think up an amazing use for it?”
+
+Stuart cringed.
+
+Alden walked back over to kneel on his cushion again. “I’m sorry,” he said. “I didn’t mean to start my show with the spell impression I regret picking. And then I acted weird about it. I’m really fine.”
+
+Stuart’s hands were resting on his thighs. They tightened into fists. “I don’t want you to have any regrets.”
+
+“Thank you, but…” Alden scratched at the fading mark where his injured left hand had been mud-healed. “That’s probably unavoidable, isn’t it? In my case. Let me back up. You know that I’m going to superhero school now, and you also know that I don’t actually think I want the job. At least not the version of it most people are there hoping for. The hero schools are just the best places for skill development, and I want to develop mine. Thegund’s still bothering me.”
+
+“You want to challenge yourself,” said Stuart in a serious voice. “To master your abilities.”
+
+“Yes. But what you don’t know is that I used to think I wanted a superhero job. I admired a superhero I knew. She was confident and kind, and she…was good at being inspiring. So I wanted to be more like her. I wanted to support other Avowed with my powers and together we’d stop evil people from hurting innocent ones. We’d be…an English phrase—more than the sum of our parts.”
+
+Stuart was listening with a fascinated expression.
+
+“When I was selected by the Contract, that was what I wanted. And I still think it’s a good ideal, especially the part about not being on your own when you’re fighting something bad. I’m just not sure it’s what I want for my future anymore.”
+
+I was naive.
+
+“I’m a little envious of you, Stuart. When you talk about your choosing season, I want it for myself so much. If I could choose my talents now, for the person I am now…I’d spend years thinking and getting to know myself before I picked. If that was an option.” He closed his eyes and sighed. “When I was selected, I was just so focused on the wrong things. I didn’t realize how much I was rushing, but I was rushing. My friends and I thought affixing as soon as possible during my class-trading period would give me extra time to practice with my new abilities before I had to leave to go to Anesidora. Which would give me a better chance of getting into the school I wanted. Which would give me the job I wanted…and that seemed like the most important thing. And it was exciting. So I didn’t ask myself enough questions, and everything fell into place quickly.
+
+“I decided on my skill in just a few days…”
+
+A strangled gasp of horror made Alden’s eyes snap open. And then he almost fell backwards off his cushion at the sight of Stuart’s nose a millimeter from his own face.
+
+“Stuart! You have a habit of sneaking up on—!”
+
+“What planet’s days?!” Stuart shouted in an appalled voice.
+
+Alden stared at him. “Are you hoping I’ll name one with a slower rotation than Earth or the Artonas?”
+
+“Yes.”
+
+Still leaning back, Alden couldn’t help but roll his eyes at the intensity in Stuart’s voice. “Earth days. Obviously. And yes. I know. You’re weaving a friendship with a big idiot.”
+
+Stuart brought his hands up to his cheeks and finally returned to his starting position on his own cushion.
+
+“Are you <<miserable>>?” he asked in a whisper.
+
+“No.”
+
+“Do you hate yourself?”
+
+“No! And you look sick. Like you’re the one who ate a container full of oil. I promise I don’t hate myself. Or being an Avowed. Or my talents. And my skill is way more important than the rest of what I chose anyway, and it’s…exactly the kind of power I wanted for myself back then.”
+
+If Gorgon had described the skill in vivid detail instead of giving just a name, Alden doubted he’d have hesitated to grab it. The special skill that could get stronger than others, the one that resembled Hannah Elber’s power, the one that demanded sacrifice—I’d have eaten it up. I’d have thought a lot of the things that worry me now were positives.
+
+The fact that it was a rare skill that would capture the interest of important Artonans would have given him pause. The possibility of being always, or almost always, on summons away from Earth would have occurred to him. And the entrustment requirement might have made him hesitate, too.
+
+But other than that…
+
+“Going from having nothing to having the ability to do magic was thrilling for me. I don’t want you to think it was some awful moment. Almost every child on Earth hopes they’ll become Avowed at some point. I just didn’t guess right about how my life would go after it happened and how I’d change and grow up because of it.” He watched Stuart’s face. “I didn’t mean to upset you.”
+
+“Would you change your skill now?” Stuart asked, voice still a little faint. “If you could…no! I’m sorry for asking. It’s not an—!“
+
+“It’s fine. I’m the one who took the conversation here.”
+
+I wanted to be forthcoming about the things I could afford to be forthcoming about.
+
+“I want to tell you stuff about myself. And my answer is—I don’t even know how to wish I’d chosen a different skill. Everything that’s happened to me this year has happened because I chose that skill. I wouldn’t just undo it.
+
+“If I did, I would be a different person, with different friends, in a different place.”
+
+I wouldn’t know anything. I’d probably be a Brute or an Adjuster down in F.
+
+I would have gotten over being rejected from Celena North by now, and I’d either be focused on prepping for uni tryouts or I would have met some people and encountered some ideas that made me switch gears.
+
+Maybe Boe would have told me the truth about himself sooner. Maybe I wouldn’t have tried CNH at all. Maybe I’d be an unregistered living in Chicago because a few extra months influenced me in a different way.
+
+Those might-have-beens didn’t really matter.
+
+“I don’t want to live in a universe where I never helped Kibby escape from that place. Or in one where I don’t ever get to catch zansees in jars with a future knight of the Mother Planet.”
+
+Stuart sat up straighter.
+
+“I don’t hate myself,” said Alden. “I don’t hate my skill. It’s a great one. I just recognize that everything flowed from that one choice that I made so quickly. And…here I am, a slightly different person wishing that it didn’t feel like so many of the most important decisions in my life were already made.”
+
+When Stuart didn’t say anything else, Alden cleared his throat, “Anyway, what’s the spell impression for? Back when I chose it, I imagined myself using it as some kind of distraction in fights.”
+
+“We could find a way for you to do that with it!”
+
+“That’s not necessary. Just tell me what it’s actually good at. If you know.”
+
+Stuart clasped his hands together. “I think they use temper spheres that way in Jatonta for…killing <<a seasonal pest known to infest houses in large numbers>>.”
+
+Alden re-read the translation.
+
+“So it’s excellent! Important!” Stuart was saying. “Nobody wants an infestation!”
+
+Part of my authority is eternally bound…to pest control. I can kill one particular kind of alien roach using an overpriced glass ball.
+
+Does the loud sound scare them to death? Do wizards really need an Avowed to come do that for them? Maybe it’s supposed to be part of a larger housekeeping package. Make the beds, mop the floors, scream the seasonal infestation to death.
+
+He snorted.
+
+“Are you <<devastated>>!?” Stuart said. “Don’t be dev—“
+
+“I’m good! I’m great!” Alden laughed. “I can kill things for people in Jatonta. Thanks for solving the mystery. Let’s talk about my better magic.”
+
+******
+
+The best way to show off Bearer was to show what he’d been doing with it for the last few weeks, so Alden shared all of his gym highlights with Stuart.
+
+It was eye-opening in a lot of ways. Stuart was even more focused than usual, and he was asking a ton of questions about everything. But although he’d had such firm opinions about some of Alden’s regular classes, he made only a few judgments when it came to gym. An occasional comment on weapons he recognized, several on whether or not a spell impression had been used to its best effect—beyond that, he actually had a much worse sense of whether Alden’s classmates were doing well or poorly than Alden did himself.
+
+I feel like I’m introducing a kid to a new sport. Only the kid is familiar with a similar sport featuring racehorses and this one is being played by, like, dachshunds.
+
+“Do you feel you did well there?” Stuart asked, replaying the moment when Alden had lifted one of the heavy bags off the scaffolding and brought it down with his paracord.
+
+“I was showing you that to talk about distance limitations. When I’m shielding something that extends a long way from my body, like the cord does here, I tire myself out faster. This was actually at the very beginning of term. Let me show you something I started to figure out last week. Here. Look.”
+
+Alden shared the video of him catching the tennis balls.
+
+“I’m proud of this, so I saved it for last. This is the newest, most impressive thing I’ve discovered about my skill…well, the most impressive thing that I can actually do somewhat on purpose instead of waiting until I’m nearly dead and in a crisis mental state.”
+
+Morrison Waker was flinging a Wimbledon’s-worth of tennis balls at the Alden on the video.
+
+He minimized the image on his own interface so that he could more easily see Stuart’s reaction.
+
+Notice my eyes are closed! Notice how cool and magicky my skill and I are being together!
+
+He knew just how Stuart had felt showing off his bean-transport spell earlier.
+
+Don’t get too excited. He probably won’t realize what’s happening at first. We had to watch the replays a few times before Lexi noticed.
+
+“Your eyes are closed!” Stuart exclaimed the second the Alden on the video shut them.
+
+“They are!”
+
+“How did you do that?!”
+
+He does think it’s cool!
+
+“I was really focused, and I felt like I was in the zone. Sorry, I can’t think of how to say that in Artonan right now. And something important was here.”
+
+Alden made a gesture he’d seen Kibby use a couple of times—a grabby motion with both hands beside his own ears. It was the equivalent of saying an idea was right in front of your nose or that you were on the verge of a breakthrough. “So I focused on the fact that Instructor Waker was throwing things at me—”
+
+Stuart looked surprised. “Were you not focused on that already? He was throwing a lot of yellow balls at you.”
+
+“I didn’t phrase that well. I’m just happy you noticed and I’m talking too fast—!"
+
+“He threw so many. They’re very yellow.”
+
+“Yes. I know. What I meant to say was I stopped thinking of it as him throwing weapons at me. I started thinking of it as him throwing something to me. And there was this feeling of getting it—”
+
+“You were only getting some of them.”
+
+“No. Getting it is a way of saying ‘truly understanding’ in English. So I was getting it more than normal. My skill. And it felt like the gym faded away and what really mattered was Instructor Waker being my entruster and me being the—”
+
+The Bearer of All Burdens.
+
+He almost said the words. But they wouldn’t come.
+
+He hadn’t meant to say even this much, but here they were. And Alden wanted to share something real and important he’d noticed about his skill. With someone. With Stu-art’h, who had spent the past day sharing real and important truths of his own.
+
+What am I doing? I just thought about how this was a bad idea even if I kind of want…
+
+The secrecy contract had stopped him. The gremlin was awake now and giving him the mental equivalent of a suspicious look, like it thought he might be thinking of trying something forbidden.
+
+Ro-den told me I might be summoned into a bullet. He said Stuart’s father would somehow make my life an endless misery if he ever found out about my skill. I shouldn’t want to.
+
+He’d probably only gotten this far into his explanation because he’d had no intention of arriving at this moment when he’d set out. And now he was just kneeling here with his mouth hanging open and his thoughts scattered.
+
+“Alden?” Stuart asked. His eager expression morphed into an amused smile. “What is it?”
+
+Alden stared into his rust-colored eyes.
+
+I mean it’s probably for the best, right? a voice in his head said. What were you going to do? Trust him with your life this fast?
+
+Alden took a breath. He shut his mouth.
+
+The endless misery was probably something obvious. Like being summoned a lot…or being forced to train the skill for the good of the Triplanets or something. Everything under the Intensity 99.9 category probably qualifies as “endless misery” to Joe.
+
+“Alden? You just stopped talking so suddenly. Are you all right?”
+
+“I hate Worli Ro-den.”
+
+“<<Echoing klerms>>!” Stuart exclaimed. “What’s he been doing on Earth to make you keep saying that?”
+
+“Nothing. He’s working so hard that half of the people on Anesidora think he’s a hn’tyon.”
+
+Stuart’s face scrunched. “You should correct them.”
+
+“I will. But let me tell you some things about Ro-den. I was so happy to see him on Earth because I didn’t expect to get the chance to meet him again. And I did go to a dangerous chaos moon to pick berries that he wanted. He paid me, but…I thought since so much had happened, maybe we’d talk about some of it.I wanted to drink some wevvi or some tea and tell him how his loyal assistants died. Because I thought he might want to know where their bodies fell so he could honor them. And I wondered if he personally knew Kibby’s new guardian. I just wanted to make sure they were a good person who would take good care of her.
+
+“Tea, a short period of socialization, him acting like I was a person instead of a broken tool he couldn’t safely use anymore—obviously that was crazy of me. He ran away from me like I was a demon, and I had to chase him into an elevator and force him to talk to me. And then he told me he would speak to me for the time it took to go up twenty floors and then never again.”
+
+Stuart’s mouth was hanging open now.
+
+Alden replayed everything he’d just said in his head. He adjusted his position on the learning cushion. “Thanks for letting me drop all of that on you. It just surprised me that he would treat me that way.”
+
+“He hurt your feelings.”
+
+Alden grimaced. “He did a little.”
+
+Stuart made a doubtful humming sound.
+
+“More than a little,” Alden admitted. “I didn’t think we were friends. But I thought…he would respect what I’d been through enough to give me some of his time without acting like everything was about him. Or something like that. ”
+
+“Last week,” said Stuart, “he made us practice identifying the elemental alignments of a <<residue>> embedded within the fourth <<bowel>> of a dead <<large quadrupedal animal from Left Bagru>>.”
+
+“Yuck.”
+
+“My arm was almost too short to reach.”
+
+Alden blinked. “You had to reach? You couldn’t use a spell? Or a knife?”
+
+“He is a <<foul>> instructor. I could sense the alignments from the exterior, but he kept acting like there was some secret within that I might be missing. I was afraid to be mistaken, so I had to reach inside and feel around like everyone else.” He shuddered. “If you want, I’ll tell you all the rumors my classmates shared about him after that lab.”
+
+Tempting. Very tempting.
+
+“Our time is too precious to let him steal any more of it,” Alden said. “Wouldn’t you rather throw things at me and see if we can get my skill to work like it did in that video?”
+
+Stuart nodded. “I would.”
+
+“Me too.”
+
+They stood from their cushions, and Alden headed over to the bed to pick up the temper sphere he’d tossed there.
+
+“Alden.”
+
+He turned back.
+
+Stuart stared at him for a few seconds. “I’m going to say this even though it may not need to be said. It will be heavy for me if I don’t.”
+
+Alden drew a sharp breath.
+
+“It would upset me,” said Stu-art’h, “if you ever accepted a skill or a spell that didn’t <<perfectly suit>> you, just because it was the best available on a list offered by Earth’s Contract.”
+
+Then, he smiled.
+
+Alden didn’t know what his own expression looked like, but he was sure it wasn’t bland.
+
+“I don’t know much about the options human Avowed have,” Stuart added, “but I do know it’s possible for me to increase those options for you. And it wouldn’t be hard. So if you didn’t ask, and you ended up with another spell impression that you didn’t even know the purpose of…it would upset me. A lot.”
+
+Alden found his voice. Or someone’s anyway. It sounded like it belonged to another person when he finally used it. “Thank you. I understand.”
+
+“Yes?”
+
+Alden placed a hand over his chest.
+
+“I’m glad,” said Stuart. “And stop being envious of my choosing season while you’re busy with one of your own. When you were standing out in the storm and we spoke of life purposes—”
+
+As the two of us tend to do, thought Alden.
+
+“—I was thinking how good it was to talk to someone who recognized that he had important choices to make, too. You should contemplate. And I won’t bother you about it unless you ask me for advice. That’s how a choosing season should be.”
+
+******

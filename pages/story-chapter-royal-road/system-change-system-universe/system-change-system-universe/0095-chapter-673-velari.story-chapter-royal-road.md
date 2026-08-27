@@ -1,0 +1,135 @@
+---
+id: f787251d-6ff6-59f9-a59e-f0ddea4074a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 673: Velari"
+slug: 0095-chapter-673-velari
+partOf: system-change-system-universe
+position: 95
+ownLength: 2218
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3770733/chapter-673-velari"
+royalRoadId: "3770733"
+---
+
+Chapter 673: Velari
+
+Rook looked at Derek, then at his son, then back again before his face changed to one of understanding, and he said, "Ah... yes, that makes perfect sense now." He nodded. "If Hall Master Sheen has evaluated you so highly, then it is only natural that bringing a possible future powerhouse into the clan as a friend or ally would increase Alex's rankings by so much."
+
+"I should have realized that sooner. And please, do not let that fact sour your opinion of our clan. We do value our interpersonal relationships, but in the System Universe, strength is valued more than anything. So, yes, I can understand if the rankings change and that badge makes you feel more like a valuable object than a person, but I hope you don't hold that against us," Rook explained.
+
+"It's fine by me," Derek replied with a shrug. "I'm wearing it more as a deterrent so I don't get interrogated by every person who passes me since I'm obviously not part of the Loomis Clan."
+
+"That is as healthy a way as any to use the badge and what it represents," Rook said. After that, things went quiet for a short while before Rook frowned and asked Derek, "I, of course, will not ask you about your affinity or your power, but may I ask, are you human?"
+
+Fuck...Derek thought. Why wouldn't he wonder that? His branch is the one that does all the studying and research, after all. I bet the hall master wondered the same thing but didn't have as much curiosity as Rook does. Derek quickly glanced around and saw that Tanya was staring intently at him, and Alex was fidgeting in his seat. After a moment of hesitation, Derek chuckled.
+
+"You caught me," he said.
+
+"I caught you?" Rook widened his eyes. "So, you are saying... you are not human?"
+
+"I... am human," Derek replied. He wasn't technically lying. He was a Void Human now, but that was not the direction he had planned on going. So far, Dave's advice hasn't led me wrong. He told me to 'get rid of' anyone I fight, which I did with Nikolai, so hopefully... "But I am also part Velari."
+
+"Velari?" Rook looked Derek up and down, then smiled and nodded. "Now that I can see. The eyes are a dead giveaway. I can also tell that your hair has the slightest tint to it, as well." He squinted his eyes, then nodded. "Though, I do not see the horns, which would suggest that you are at most half-Velari?" He reached up and rubbed at the top front of his head, where Derek assumed the horns would have been.
+
+"Damn," Derek said as he stared at the man, dumbfounded. He then looked at Alex. "So you aren't the best in your branch when it comes to worldly knowledge, then?"
+
+"Alex is certainly quite adept, but I have many centuries more experience than my son does—even if he studies harder than I ever have," Rook said as he looked at his son with a smile. Turning his head back to Derek, he said, "It has been some time since I have spoken to a Velari—or even a half-Velari. Most Velari live on the other side of the Origin System."
+
+"That makes sense," Derek replied. "My mother was human, and I was raised around them." Derek rubbed his head, going off of what Rook had said. "Not having horns made it easier to fit in, but also a bit disappointing."
+
+"Disappointing?" Rook asked.
+
+"Well, yeah," Derek replied. "Who doesn't think those horns are cool?"
+
+"Hahaha," Rook slapped his leg while laughing. "Velari horns certainly are cool. And although I do not know your affinity, I can see how not having the horns of a Velari would be disappointing for a half-Velari. They do make control over manipulation skills so much easier."
+
+"That's true," Derek replied. "But easier doesn't always mean better." He thought about demonstrating a Spatial Collapse or Spatial Rend in front of the man to show that he had a space affinity, but figured it would be best not to offer up that information yet. It would make it more believable if it wasn't given freely. He only had the three spatial skills, after all—unless he counted Time Prison, which could be considered as such, along with the time affinity. But a skill that combined time and space was much too close to void for him to be comfortable showing to just anyone.
+
+"You are not wrong," Rook said with a nod. Finally, he sat back in his chair and looked at Tanya. "Tanya, why don't you take Mr. Hunt to get settled while Alex and I catch up?"
+
+"Of course, Father," Tanya said, and then stood. "If you will follow me," she told Derek, then headed towards the door.
+
+"It was nice meeting you, Rook," Derek said after standing. He liked the man, so he offered him a small bow. "And please, stop with the Mr. Hunt... call me Derek."
+
+"Very well," Rook said with a smile.
+
+Derek then looked at Alex, who was still sitting there nervously. He sent telepathically, 'Feel free to tell him anything that I spoke about with the hall master. Just be careful with anything else.'
+
+'I will do my best,' Alex replied without turning his head.
+
+"Come find me when you're finished, Alex," Derek said out loud.
+
+"I will," Alex said.
+
+"Okay, Tanya," Derek looked at the woman who was standing next to the door. "Let's go. Show me around."
+
+"Ugh," Tanya said, stretching her arms after the door closed behind them. "It's so stifling to sit in a meeting with Father and act all proper because we have a guest."
+
+"So the two of you aren't like that all the time when you're with Rook?" Derek asked.
+
+"Of course not," Tanya said. "He is our father, and all of us have a good relationship with him. Some relationships are better than others, but all are good. We just can't act all casual around a guest wearing that badge—well, Father probably wouldn't mind it now that he's met you, but not during initial introductions."
+
+"I see," Derek replied. "Well, your father seems like a pretty good guy—at least from that short visit. Then again, I didn't think I'd like you at first with the way you acted around your brother at the beginning."
+
+"I fought hard for that ranking—I still fight hard every day for that ranking. Of course, I'm envious of him. What kind of stupid luck does he have to survive a betrayal, then show up to the clan with someone that Hall Master Sheen deems worthy of a Tier III VIP Badge?"
+
+"Why don't you head out and go make a powerful friend? Seemed pretty easy for your brother," Derek replied with a laugh.
+
+"If only it were that easy," Tanya rolled her eyes. "Besides, I would rather get there with my own skills and hard work than rely on the power or rank of someone else. That's a fast way to the top, but an even faster way to the bottom."
+
+"I can't argue against that," Derek replied. "Now, where are we going?"
+
+"I don't know," Tanya said with a shrug. "Where do you want to go? What do you want to see? With that badge there, I can't think of many places Father would consider off-limits to you—at least not on our estate."
+
+"That's neat," Derek replied as he glanced at the badge again. "Uh... I really don't know what I want to see. How about you just show me what you think is cool, and we go from there?"
+
+"Okay," Tanya replied. "We do have a pretty 'cool' library."
+
+"Then we can add that to the list," Derek replied.
+
+After that, Tanya led Derek through the estate, showing him everything. Obviously, the most astounding thing about the entire place was the massive library that they wandered through. The inside was much larger than the entire building that it was in—showing that there was some kind of spatial manipulation at play in the room.
+
+It was also interesting to note that although there was a lot of information available on their devices and screens, the people in the Origin System—or at least the Spindle Branch of the Loomis Clan—preferred physical books. Derek wanted to ask if there was a reason or if the Origin System limited information that could be obtained or found digitally, but it would have been an odd question for someone who they thought was from the Origin System to ask.
+
+As they left the library, Derek turned and took one more look at it and sighed, "It really is a nice library. How many books, scrolls, and things do you think are in there?"
+
+"Off the top of my head?" Tanya asked. She stopped walking and pondered. "Including books, maps, manuscripts, and everything else? I don't know, probably over 75 million items. We only have things that the librarians and clan members deem important, so it's not the biggest library."
+
+"It's not the biggest library?" Derek asked. "It's the biggest library I've ever been inside."
+
+"Really?" Tanya asked. "That's surprising. There are much bigger public libraries around. Sure, most of the information you can get in them is garbage since it's all public, and all the single-use scrolls and books are in private collections, but there are libraries in certain cities with billions of books."
+
+Wish I knew how big the Library of Congress was back on Earth. That would give me something to compare it to at least... my fault for not caring about any of that stuff in school, I guess. Football was much more fun, Derek thought. "Well..." he said. "I'm not much of a reader or researcher. I'm more of a get-out-and-doer."
+
+"Obviously," Tanya said.
+
+"What is that supposed to mean?"
+
+"You don't get to where you are at your level by researching and reading," Tanya said. "You get to where Alex is by doing that. So, obviously, you are a 'doer.'"
+
+"Oh, yeah... exactly," Derek replied. "What about you?"
+
+"I'm a bit of both," Tanya said as she took Derek through a hallway. "I don't research my affinity and skills nearly as much as Alex does, but I do much more than most people. And I'm quite a bit more combat-focused than my siblings, as well."
+
+"How many siblings do you have, anyway?" Derek asked.
+
+"Thirteen," Tanya replied. "Father hasn't had nearly as many children as most of the other branch heads."
+
+"That... isn't a lot?" Derek asked. Actually... with how long people live, I guess the virility and fertility problems that elves and stronger people have probably have easy solutions in the Origin System—nothing like how it was back in the Davenresh System.
+
+"Not at all," Tanya replied as they turned a corner. So far, the entire building had been both old and modern. It was as if the clan preferred the aesthetic of older-looking stone structures, but with more technological or modern furniture and objects for the inside. "One of my uncles has 37 children. The youngest is only five years old this year... the oldest is my father's age."
+
+"That... sounds about right, actually," Derek replied.
+
+"Okay, that's about it for all the 'cool' places inside the estate. Overall, our estate is one of the more basic ones—with the library being the most important part. I'm sure Alex will be around soon enough to go do whatever mysterious thing with the Amber Tyrant's amber goo he didn't want me to know about. This is the 'VIP' guest room. Go in  and do what you like. Rest... whatever," Tanya said as she placed her hand on the wall by the door, and they heard a click. "And no, you don't have to worry about any spying or anything like that. We wouldn't dare do such a thing to someone with that badge."
+
+"Oh... I wasn't," Derek said. "But thanks for the assurance. And thanks for the tour."
+
+"Once you're inside, you can attune the room to you so you can enter and exit as you wish," she said as she turned around. "If you need anything, there are servants, or you can ask one of them to find me."
+
+"Okay, sounds good," Derek replied as he walked inside. He watched Tanya walk away, then pulled the door closed. He then put his hand on the designated spot on the wall by the door. It scanned his hand, then gave him options. He chose to 'lock' the door. Then he turned and looked at the room.
+
+It was nice. There was a comfortable-looking bed, along with a desk with a holo screen that he didn't have the first clue how to use. There was also another door leading to what Derek expected to be a bathroom. I hope there's a shower. Even if not, I still have a portable one, he thought.
+
+Finally, he sighed and sat on the bed. He wanted to pass out right then and there. It had been a long time since he had good sleep on a bed—or anywhere, actually. However, before that, he had something to do. "Let's see what all that fighting before we teleported did for me."

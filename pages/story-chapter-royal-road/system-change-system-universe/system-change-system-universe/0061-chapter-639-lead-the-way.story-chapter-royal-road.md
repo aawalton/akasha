@@ -1,0 +1,123 @@
+---
+id: a78f7018-90cf-519a-9ced-573bdab5fdb3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 639: Lead the Way"
+slug: 0061-chapter-639-lead-the-way
+partOf: system-change-system-universe
+position: 61
+ownLength: 2071
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3197638/chapter-639-lead-the-way"
+royalRoadId: "3197638"
+---
+
+Chapter 639: Lead the Way
+
+Derek opened the door of the Time Prison and signaled for the others to come out. Once they were out, he looked at Nivara. “I need you to swear an oath,” he said.
+
+“An oath?” the former queen of the elves frowned. “What kind of oath?”
+
+“A simple one. Just swear to the Origin System that you won’t intentionally harm any of my allies inside the Time Prison,” Derek said. “That is all.”
+
+“That…” Nivara’s frown deepened, but she relented. “Fine… I swear on the Origin System that I won’t intentionally harm any of Derek Hunt’s allies inside of his Time Prison.” Derek instantly received a notification of her oath, then dismissed it.
+
+“Good,” he said. “Thanks for making this easy.” He then pointed at the open door. “I need you to go inside and wait. You’ll be in the way for the next part,” he explained. Nivara huffed but soon turned and walked back inside—casting a final glance over her shoulder before Derek closed the door, then the space around it. After that, he turned to Klaus.
+
+“You can either swear the same oath and go inside, or you can make yourself as scarce as possible. Either way, if you get in trouble, I won’t be able to save you. And it would be best if you stayed out of range of anyone’s senses,” he told the man.
+
+“The fewer oaths, the better,” Klaus said. “I’ll take option two.” After that, he disintegrated into molecules and disappeared. Derek could still feel his presence, but it was vague. Soon, it vanished almost completely.
+
+“That is astounding.” Alex stepped forward and stared at the space where Klaus had just stood. “That man is such a mystery.”
+
+“He is,” Derek replied, then looked at the remaining party members. He was left with himself, Amelia, Marrick, Jace, Edgar, and Alex. “Alex, you said that it is not common for someone to be sent with escorts that are close to the same level, but it isn’t unheard of, right?”
+
+“Yes?” Alex said. “Usually, in that case, they send more than one. They are usually standouts from branch families or lesser families who produced a prodigy and are trying to curry favor.”
+
+“That is exactly what I wanted to hear,” Derek said before continuing, “Okay, listen up. We’ve decided on our next move. The six of us are going to use Jace’s Battle Instincts to find a group of system users. Once we find them, we’ll play it by ear. But, as of right now, I am Alex’s new escort, Amelia is Jace’s, and Marrick is Edgar’s.
+
+“The three escorts will stay a bit behind the others. That way, any group we meet may hesitate a bit before attacking. It will look like there are three duos working together. I doubt it will take long for them to figure out that something’s up, but any extra time could help. We don’t know how many people are going to be where we are headed,” he finished explaining.
+
+“Why can’t I pretend to be one of the escorts?” Jace asked before anyone else could say anything.
+
+“Because you are either the second or third weakest one here until you get your Battlelust high enough,” Derek replied. “Can you beat any of the three of us before then?”
+
+“No…” Jace said. “But I bet I can get close to beating the old elf.”
+
+“Battle idiot…” Marrick muttered.
+
+“How is his skill going to lead us to the system users?” Alex asked.
+
+Derek nodded at Jace. “They popped up after our last battle. They feel different to him than monsters do, so it is highly likely that they are more intelligent—which means that his instincts are probably sensing users,” he said. “That’s another reason why he’s in front with you and Edgar. He’s going to take point.”
+
+“Oh…” Alex replied. “What was with making us all go inside your living storage while the two of you stayed outside?”
+
+“We were just figuring things out,” Derek replied. “Doing a bit of experimenting. Nothing for you to be concerned about.” If Jace wanted to tell anyone, he could, but it wasn’t Derek’s information to give.
+
+“Oh…” Alex said again.
+
+“So, Jace… point the way,” Derek said.
+
+Jace pointed one arm one way and the other a different way. “There are people over there and over here. Which ones do we go find?”
+
+“Anyone got a coin?” Derek asked, and Marrick produced a copper coin and handed it to Derek. Derek looked at it, then up at Marrick. “Why do you have copper coins on you?”
+
+“I don’t know,” Marrick said. “I didn’t keep a lot of money on me to begin with, so there was no sense in going through the trouble to leave what I did have behind.”
+
+“Oh…” Derek shrugged. “Okay then…” He looked at Jace and said, “Heads, we go right, and tails, we go left.” After receiving a nod, Derek flipped the coin in the air, then let it land on the ground. “Tails,” he said. “Looks like we are going after the ones you’re pointing at with your left hand.”
+
+Derek bent down and picked the coin up, then made to hand it to Marrick. “Keep it,” the old elf said.
+
+Derek looked at the coin and frowned. He’d gotten rid of all his copper and silver coins and only kept a few gold ones just in case they proved useful, but after verifying the System Store, he knew that they would be pretty worthless. Malorie still kept plenty if they did find a need for them one day, though.
+
+“May I… have that?” Alex asked as he looked at the coin.
+
+“Go ahead,” Derek said and flicked the coin to the young man.
+
+“Neat!” Alex said as he inspected the coin.
+
+“Is it useful?” Derek asked with a frown.
+
+“Not at all!” Alex replied. “But it’s not every day that you get to hold a coin that comes from a system and planet two tiers below the Origin System. Even though it holds no real value, it’s a pretty cool thing to have—at least in my opinion.”
+
+Marrick flicked a silver and gold coin over to the young man. “Might as well complete the set,” he said.
+
+“Thank you!” Alex said after catching the coins.
+
+“Okay,” Derek said. “Now that all of that is settled, how about we go find us a portable teleportation device?” Once everyone nodded and looked ahead, Derek said, “Lead the way, Jace.”
+
+“Sir, yes sir!” Jace did a mock salute, then turned and began walking.
+
+“Marrick, we don’t have Nivara scouting ahead this time, so if you can, keep a check on the ground around us. I don’t think we have to worry about the gourups anymore after fighting so many. I’m sure that each of us can detect one of them by now,” Derek said as he fell in about fifteen feet behind Alex. Marrick walked behind Edgar, and Amelia walked behind Jace.
+
+For the next couple of days, the six continued traveling in the same manner. Derek even went as far as to have the three of them fight while only intervening when he really needed to. Amelia always landed the first hit on any gourups that attacked from above, and all six fought together to kill them because of their insane tankiness and recovery. But for all the other monsters, the three ‘escorts’ allowed their ‘charges’ to fight. Derek couldn’t help but compare it all to the time he took Thomas into a dungeon and let him fend for himself for the most part.
+
+Of all of them, Edgar needed it the most. He wasn’t exactly weak, as he was still as strong, if not stronger, than Alex. However, the wasteland planet with all the earth-based creatures just wasn’t a good fit for him. He knew it, and the old Edgar—the one who tried to max all skills before taking his final class upgrade—really came out. He got quiet and focused. It really was a side of him that Derek had only ever seen glimpses of back in the raid dungeon.
+
+Silvi also just stayed perched on Derek’s shoulder for the majority of the time. Occasionally, she found a monster to her liking and took it out herself to activate her skill, but for the most part, she was idle—only occasionally speaking to Derek about the best way to cook a monster or what sides might go well with them. She also cooked a monster or two during their downtime.
+
+Finally, Jace started changing directions much more often. The more erratic his movements became, the closer they were to their targets. It meant that they were close enough that just the slightest change in direction from their targets was enough to alter his path. Soon, he slowed before coming to a stop.
+
+“They are close,” Jace said, his sadistic grin starting to form on his mouth. “I’d say about as far away as Looney was when we first saw all the dust being kicked up from a distance.”
+
+“Finally…” Derek muttered. He then looked over his shoulder at nothing, and the presence that he’d only briefly felt when they stopped vanished. Klaus was still tagging along but was doing his best to stay out of the way. “Can you tell which way they are going?”
+
+Jace closed his eyes and focused on his Battle Instincts. “They are almost coming straight to us but are moving slightly in that direction,” he said as he pointed to his right.
+
+“Okay… let’s move that way,” Derek said, and they all rushed in the direction Jace was pointing.
+
+“We’re good,” Jace finally said. “That is, if you want them to stumble upon us like it’s an accident.”
+
+Over the days, Derek had thought about the best way to do things. With the way Jace’s Battle Instincts reacted to them, he was certain that they would attack soon after seeing Alex. However, if possible, he would like to do things without bloodshed—without making new enemies as soon as he arrived in a new system. He didn’t like the idea of just hunting down a group of people he didn’t know and taking them out just for a teleportation device.
+
+So, he figured that if they appeared and didn’t attack Alex, then he would be more than happy to negotiate. And for that, he would let Edgar do the talking. He didn’t act like it around Derek and the others, but Edgar was a former prince, after all. Whether he liked to admit it or not, he was decent at diplomacy and knew proper etiquette. Alex had also told them about a mid-sized organization called ‘Stormveil’ that would occasionally appear on this or other Abandoned Planetary Battlefields.
+
+He gave Edgar a quick rundown of Stormveil’s history and current layout. It was an organization that mostly accepted lightning, wind, and water-based users. Of course, just like most other clans, houses, and organizations, if a talented individual showed up with an affinity for some other element, they would make exceptions for them.
+
+For now, Edgar would act as if he were part of that organization and see if things could be negotiated peacefully. Even if they said no, if they chose not to attack, Derek didn’t plan on initiating it. He would let them go and head to the others. It was a bit hypocritical since he was setting them up to attack, but they did need to get off the planet sooner rather than later.
+
+With Edgar in the lead, they slowly continued to walk in the direction Jace pointed out. Soon enough, the silhouettes of three figures appeared in the distance. It looked like they saw Derek’s party at the same time as Derek saw them. Both groups stopped before anyone could make out the others, then Edgar took a step forward and headed in their direction, with Alex and Jace walking behind him and the three others behind them.
+
+When they finally got in range, Marrick floated up to position himself beside, but one step behind, Edgar, and Derek and Amelia did the same with Alex and Jace.
+
+Finally, the groups were within shouting range, and Edgar acted shocked to see people, ran forward a bit, and was the first to speak. “Good day!” he shouted and gave the others a half bow. “I’m Ed Windham from Stormveil!”

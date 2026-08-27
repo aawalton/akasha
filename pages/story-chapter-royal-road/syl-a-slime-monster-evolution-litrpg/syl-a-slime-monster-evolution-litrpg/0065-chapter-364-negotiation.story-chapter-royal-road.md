@@ -1,0 +1,129 @@
+---
+id: 7118ade3-d7e4-54f0-a6ea-7735cb4797b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 364 : Negotiation"
+slug: 0065-chapter-364-negotiation
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 65
+ownLength: 2084
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3182387/chapter-364-negotiation"
+royalRoadId: "3182387"
+---
+
+At first, I questioned Vanessa's capabilities and knowledge: did she have [Roleplay], and did she know about deductions? From looking at the siren infiltrator profile, I knew they innately had the [Acting] skill, but whether they upgraded it was the big question.
+
+Vanessa was hesitant to answer at first, until coaxed by Sylvain. Honestly, if she knew the truth that Sylvain, at the moment, was just a [Sub-Core], and that everything had been one giant charade, she would probably go crazy. I cautiously glanced at Vee, wondering if that was exactly her plan—did she want to see someone lose their mind?
+
+No… Trixie might do something like that, but I don't think Vee is that far gone, at least not yet anyway.
+
+I wondered where that troublesome pixie even was, and realized I probably should have asked Paeris if he had heard anything about her, or requested he leave a message for her. If she could still track my whereabouts or had any inkling of where I was abducted to, then she probably would show up on the doorstep of the elves sooner or later.
+
+Or maybe she's busy doing stuff for the Fairy Queen? I guess I'll find out when I finally manage to teleport back to Dhoggurum. Anyway, back to negotiations!
+
+Vanessa did indeed have [Roleplay], and to my relief, it was maxed out. No doubt she'd spent years pretending to be a liaison for the mermen, sending potential candidates to be enslaved. Just thinking about that again made my slime boil a little, although I at least tried to chalk it up to her species' natural instincts.
+
+If Alpha, I mean, Sylvain can reform her, then maybe this will be worth it. It's not like she's going to charm anyone else after she's found her 'one'.
+
+As for the deduction, nobody present knew anything about it, including Vanessa. Thus, I gave a brief explanation to everyone involved, ensuring it was loud enough for Leon, whom I detected was safely hidden at a distance and spying on the situation. Their reactions to the revelation were mixed; all of my [Sub-Core] personas expressed visible disgust at the idea, no doubt born of my deepest, ingrained feelings. Vee seemed quite apprehensive. While she was more spendthrift with her points than I was, she didn't seem to like the prospect of gambling.
+
+I couldn't gauge Leon's reaction at this distance, but Vanessa didn't seem too shaken by the idea. Her philosophy seemed to be that any boon granted by the system was a blessing and required an appropriate commitment or sacrifice. Frankly, I should have seen it coming, as a natural denizen of this world, they seemed to be encouraged to spend points whenever possible—the adventurers routinely using them to upgrade skills, for example.
+
+"Anyway, I want you to make some deductions on [Roleplay]," I declared. "There should be an upgrade for it, one that allows greater compartmentalizing of the personas, especially with regard to classes and skills."
+
+"If it allows me to stay with Sylvian, then I don't mind using all of my available points," Vanessa promptly agreed. "However, I have to ask… Why do you even want this? [Roleplay] is already a risky skill to use, and I can't see it gaining you as an elf much benefit even if upgraded."
+
+"Oh, I'm not an elf," I replied and proceeded to shift my form a few times. I grew some wings, a tail, scales, increased my size, produced tendrils, and turned my distinctive shade of blue.
+
+Vanessa was speechless as she witnessed my plethora of freeform shapeshifting. After my demonstration, I settled back on my elf form just to keep up appearances.
+
+"What are you?" she finally blurted out.
+
+"A slime," I answered. I felt no risk revealing it to her, as I doubted she could find my primary core, let alone have the chance of destroying it.
+
+"Gods… I can't even imagine how much you must have mutated to become like… this!" Vanessa hissed.
+
+"I'm a tier five monster, if that matters," I answered and pointed to Vee. "She's also tier five."
+
+"Hey, don't go revealing a lady's tier," Vee whined playfully.
+
+I rolled my eyes at her antics, but Vanessa now looked visibly distraught. "No wonder you destroyed Azulean…" she murmured, shaking her head. "How are you still sane when so close to the pinnacle? Or did you have a fit of madness and that was why you wiped out the mermen?"
+
+"No madness here," Vee answered with a giggle.
+
+I nodded in agreement.
+
+Vanessa couldn't hide her surprise. "You must have found a powerful vice to keep you grounded if that's true," she murmured.
+
+"Oh? You know about staving off the evolution madness?" I asked, jumping at the unexpected opportunity to learn more.
+
+"Just a little," Vanessa admitted. "The obvious is to stop evolving, or lower your racial levels. The less known is to find something that drives you even further than the prospects of evolution ever could…" She glanced at Sylvain and smiled. "Admittedly, sirens have it rather easy in that regard. I can't imagine what would drive a slime or a spider."
+
+"Food, especially fruits," I whispered with a chuckle.
+
+"You're one to talk, you slime core glutton!" Vee snapped back.
+
+Vanessa looked surprised by our brief comedic routine, but continued her explanation. "The other is to be suppressed by a leader of your race who is superior. This is the most common method, although the leader still has to keep their own cravings in check, and eventually they succumb. The mermen king and queen kept each other in check by constantly trying to outdo one another, and together they pursued an overall goal of conquering the Vaelyssan Sea. Even so, they probably only had a few more years left before they eventually killed one another…"
+
+"So an orc chieftain keeps them in check until he eventually succumbs. Then the whole tribe goes crazy with him?" I asked.
+
+"More or less," Vanessa answered.
+
+No wonder the non-monstrous races gave up trying. As soon as the leader snapped, the entire group would go with them. But… What about us [Experiments]? Could we lead a race of monsters and keep them all in check? The only risk would be someone rising to try to usurp our leadership.
+
+I had expected Vanessa to mention the other method I knew about, but her explanation apparently ended there. That method was, of course, to become a [Dungeon Master], and by becoming an assistant to the gods, you would retain your sanity as a sort of signing bonus. Sure, it probably came with its caveats, but it seemed like the most straightforward solution in my opinion.
+
+I wonder if a [Dungeon Master] can still be the leader of a race? There's Qhilleeqeth the Spider Queen, after all. Unfortunately, I'm a slime, and while I can shapeshift into other races, I've been unable to get the [Chieftain] emblem multiple times, so I don't actually know if I could become a leader.
+
+I thought about that blood troll I had fought ages ago. In theory, he could create a civilization of civilized orcs if he could somehow keep their instincts in check. Although judging by their actions, they probably died well before the madness ever kicked in.
+
+If I could find a goblin experiment, I could get him or her to lead Yuzz, Garz, and the rest of the goblins. Of course, that's me assuming they are still alive, or not mad already.
+
+I sighed, feeling the urge to deconstruct [Mapping] and [Triangulate] bubbling up again. I wanted to travel to my old haunts and see my old friends again. I felt guilty that Thern and his family probably had no idea where I was unless Trixie had given them an explanation.
+
+It's next on my agenda, as soon as I finish up with my tasks here. Upgrade [Roleplay], defeat that dungeon, and create an amalgamation of [Mapping] and [Triangulate]. I'll probably go to the Kingdom of Keld after I check in on everyone.
+
+I turned my attention back to Vanessa, who was whispering to Sylvain. Of course, I could hear everything she said, and I didn't doubt that Alpha would keep me informed if there were any potential risks. However, what she was actually doing was just asking him if he was okay and whether he had been eating and sleeping well.
+
+I rolled my eyes. What are you, his mother?
+
+"Moving on… So, do you agree to deduce the upgrade of [Roleplay] for me?" I asked, interrupting the couple. I sensed some minor annoyance coming from Vee, who apparently was upset I interrupted her drama.
+
+What, are you a people watcher now?
+
+I put the silly spider in the back of my mind and turned to Vanessa. She turned back to Sylvain, who nodded his head.
+
+"Okay," she acknowledged. "But what happens after that? What about Sylvain and me?"
+
+"Sylvain can't leave the island, as he's one of our defenders. You can join him and protect the waters for us," Vee replied.
+
+"Alright," Vanessa agreed, surprisingly quickly.
+
+Vanessa went quiet for a moment, no doubt focusing on her profile and going through the motions. After a brief moment, she came back with a result. The skill was called [Masquerade], and it seemed more like a natural upgrade of [Roleplay] with reduced downsides and more natural blending of your disguise. However, this was not the skill I wanted, and I shook my head.
+
+"Don't worry, I think there's another route, just this one suited me more," Vanessa explained.
+
+"You got that impression from your deduction?" I asked curiously.
+
+Vanessa nodded. "I received this one rather quickly, but I can feel that there's another option."
+
+While she went quiet with her deductions again, I frowned. Did Paeris not receive this? Did he keep it from me to not upset me, or did he hold it back intentionally? Or, perhaps he just doesn't use [Roleplay] in this manner.
+
+I shook my head. It felt odd, but there was a good chance that Paeris just used the skill differently and thus didn't qualify for [Masquerade]. Rather than creating personas for fake roles, he could, for example, just use the skill to manage his emotions between his various jobs. Meaning at the end of the day, he was still Paeris, just different sides of him.
+
+"I think I have what you want…" Vanessa finally replied, looking visibly distraught.
+
+"Is something wrong?" I asked.
+
+"I don't know who would ever use a skill such as this… This seems…" she paused and shook her head. "I suppose that doesn't matter. If I give this to you, do you swear to leave me with Sylvain?"
+
+I'd been warned about using [Roleplay] too much. Is this one even worse in that regard? Considering [Masquerade] lessened the adverse effects, maybe this one heightens them? Well, regardless, I think I should be pretty immune to them since I can just order a [Sub-Core] to stop.
+
+"I promise you two can stay together," I replied.
+
+"Yes, and I'll have a house built for the two of you," Vee chimed in.
+
+Vanessa slowly nodded, and then, with a sigh, she shared her skill deduction. When it was revealed, I instantly pulled up the description. The name alone sounded promising, and I gasped at what might have been the longest skill description I had ever witnessed.
+
+<[Split Personality] Fragment your fabricated identities from yourself, allowing them to exist as independent personas rather than mere performances. Each personality is shaped from intent, memory, and will, forming a distinct presence with its own mannerisms, priorities, and sense of self. Unlike other fake personas, these identities are no longer sustained purely by deception. They are instantiated, capable of growth, specialization, and action as if they were real. A manifested personality may develop its own class and acquire skills; however, this comes at the cost of degraded performance of skills still held solely by yourself. Skill level determines the maximum actively sustained fabricated identities, which can be made dormant to allow new creations. Furthermore, this skill's level determines the penalties the persona faces when acquiring its own levels and proficiencies. When creating a personality, you may sacrifice skills, binding them permanently to the new identity. What is given is truly lost; such offerings cannot be reclaimed, transferred, or restored, even at the cost of destroying the persona. Be warned that not all roles are meant to be discarded once the performance ends.>

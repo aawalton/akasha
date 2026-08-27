@@ -1,0 +1,239 @@
+---
+id: ca058c2b-2baa-5604-926d-327dc015e706
+page-type-slug: story-chapter-royal-road
+title: "Chapter 126: Montage"
+slug: 0046-chapter-126-montage
+partOf: the-calamitous-bob-stubbed
+position: 46
+ownLength: 4955
+unit: words
+ownProgress: 4955
+publishedAt: 2023-07-14
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1276824/chapter-126-montage"
+royalRoadId: "1276824"
+markedReadAt: "2026-06-29T21:16:19.619Z"
+---
+
+Viv’s mortality notwithstanding, there were a few tasks that required her attention. The first was the raid in the Deadlands to liberate their first major city after Kazar. The second was the impending war with Param’s boogeymen: the Hallurians. She suspected the second part might take much longer as it had been a long time since the last conflict and the various countries had a lot of spare poor people to feed their war machines.
+
+Viv wasn’t sure this was the best use of their people. Or rather, she thought it was a shit idea despite some historical evidence to the contrary. The monsters on this stupid planet had a tendency to stay in their territory until challenged, which explorers tended to do. Then some of the more canny ones realized there were entire places filled with sweet-tasting humans ripe for the taking and ventured out, eager to feast. This led to the destruction of villages and, sometimes, cities. There was a real incentive to claim savage territory very slowly while also taking land someone else had cleared much faster.
+
+It annoyed Viv but there was little she could do to change an entire civilization.
+
+In any case, her recent progress with magic and more free time gave her the opportunity to develop her arsenal. She had validated all the basic lessons including the ethics one, leaving her with black and colorless mana studies, the military class and dueling. The time had come to make use of the Academy’s resources.
+
+The first and most important priority was her mainstay, the purge and flay spells. Those sent tendrils of black mana charged with the meaning of annihilation to sweep the air in front of her. While it was very good at what it did, the range remained fairly limited and it required to stay focused on it. Her ability to cast several spells at once meant that it was not handicapping but she thought she could do better with a ‘fire and forget’ long-range tool.
+
+The idea came from the latest effort of the black-mana tenured professor, Ashra, to make her class more relevant for the conflict to come. Artillery spells were layered constructs designed to stay cohesive during the arc so they could properly explode at the end. However, shields almost always covered the juiciest targets. There were plenty of historical examples of black-mana minor practitioners lacing the color to the payload to increase penetration. That was the angle Ashra picked, and though the most advanced students made some promising efforts, it was clear they were not at the level to achieve it at the moment.
+
+Viv had another idea.
+
+Since black mana was her payload, she could replace the shield piercing portion by a compression construct, the same she used to create fire through friction. It would undo itself on impact to explosively release destructive mana in a much larger sphere. It took a lot of trial and error but eventually she succeeded with the help of both Ashra and the colorless mana professor. The results were… convincing.
+
+“Astra.”
+
+Viv focused on the practice room target. With a slow hum, a sphere of arcane mana gathered around a core of annihilation and compressed it. That was the most delicate part of the process and Viv had practiced hard to keep the spell coherent. Just using two types of mana in conjunction with a dozen glyphs and a concept required a level of concentration and innate understanding she could not have dreamed of a year ago when her best spell was yoink. Both stats and her own understanding played a role in her success.
+
+Alright so it was still her best spell against undead and it was still called yoink but that one was much better. Viv added the finishing touch, a much simplified artillery construct that was barely more than a direction and velocity, then she let it go.
+
+The transparent sphere sung on its way to the target, gaining speed as it hastened to deliver its abyssal core. Most of Viv’s spells were silent. That one was not. A loud thump rang through the air, soon followed by the telltale hiss of black mana at work. There was nothing left of the target dummy except for a half-severed head resting on a small depression in the parquet where the spell had turned the wood floor to atoms. Or at least, she hoped it had turned it to atoms.
+
+“Is… is your spell transporting the target somewhere?” Ashra asked.
+
+“I don’t think so.”
+
+“Oh.”
+
+Ashra still hadn’t managed to learn the annihilation concept. Viv thought that was because the professor didn’t actively intend to harm anyone. That had never been an issue for Viv. There were plenty of people she wanted gone.
+
+The second tool she developed was a harness.
+
+Gravity-repelling runes were insanely complex to create and activate, but fortunately Viv had jumped from a plane and dived before so she was familiar with the illusion of weightlessness. It made her task marginally easier, though she could never have done it without Sidjin.
+
+Viv had been tempted by the enchanting class. Sadly for her, the teacher only accepted those who intended to make enchantment their vocation in the higher levels of the curriculum, something Viv was unwilling to do. Enchanting was merely a means to an end to her. On the contrary, Sidjin’s relentless pursuit of the subject made him an invaluable helper. He was more than happy to assist Viv on her projects now that he had so much free time between establishing teleporters and collecting fat purses. The anti-gravity harness still took a long time to design because it was completely experimental.
+
+Flight was not new to Nyil. Helock didn’t just have griffin riders. They also had flights of gray mana experts, some of whom could be seen darting between the lowest of the floating rocks hanging over the Academy’s sky. It was just that those who wanted to fly either asked those people for a lift or gave up. No one seemed to want to fly for fun. Or perhaps, no one with the means to actually do it wanted to fly for fun. Mostly, Viv wanted to fly for Arthur.
+
+Mother.
+
+Flap arms faster!
+
+The harness dug into Viv’s waist, armpits, and crotch. She felt dragged up by a crane more than truly weightless until the magic kicked in. Even then it felt like being stranded in a vacuum rather than flying.
+
+“That’s not how it works. Ugh! Propulsion!”
+
+Since Viv had no way of using gray mana, her solution had been to use Sidjin’s grinding spell as base to create her own rudimentary propeller. Instead of blades, she used a higher amount of large panes that moved as fast as she could manage to create an air flow. It gave her about as much speed as a slow mobility scooter.
+
+Viv sighed. Sidjin had used the harness and achieved high speed with a gray mana. It was just not her thing.
+
+“Maybe I need to create a turbojet. There’s just no way I can cast a spell this complex though, not any time soon.”
+
+Arthur sighed, or huffed. It sounded suspiciously like a forge bellow. A breath of hot hair blew Viv’s hair forward. Suddenly, claws grabbed her shoulders and thighs and she was off over the canopy of the hidden spot they had selected.
+
+“Woohoo!”
+
+It has taken I, She-Who-Feasts-on-Many-and-Gets-Much-Gold, many weeks to fly well.
+
+I must be patient with mother.
+
+Now I show proper flying!
+
+And she did, and the first thing Viv decided when she was back on the ground with shaky legs was that she should get flight goggles so they could go even faster the next time. Flying was absolutely awesome. It was just unfortunate that she had to be held like some sort of fuel tank just under Arthur’s belly.
+
+***
+
+With the harness done, Viv’s last piece of art and craft was not for herself. It was also one of the most ambitious and complex enchanting works Sidjin had ever faced. The nerdy prince loved every second of it as he spent hours upon hours pondering single lines for maximum efficiency.
+
+The rewards for the necrarch hunt included not just tools to help her transition into a form that would let her live. It had also yielded three cores of excellent size from the nascents they had defeated. Enough to power large-scale constructs for hours. Now, Viv would dedicate those cores to turning the Harrakan into the viable tercios she envisioned them to be.
+
+The issue with Harrakan troops right now was that they were too good yet too few, the perfect target for large-scale artillery spells. They needed protection from bombardment to do what they were meant to do. Viv had a solution. The idea was simple: powerful, mobile shield arrays carried on the back of Yries machines.
+
+The execution would be slightly more complex.
+
+While there would be no friction between the machine’s systems and the shield itself, it was extremely challenging to pack a spell circle in a surface small enough to be portable. In order to solve that issue, Viv had come up with a solution inspired from the shield she’d spotted in the necrarch cave during her first visit.
+
+The ancient inhabitants of the lone mountain placed pieces of metal into the wall in the shape of glyphs, glyphs themselves being three-dimensional. Apparently. Sometimes, they felt more complex yet drawing them as such always seemed to work so whatever. In any case, Viv’s solution was a deployable circle of levitating metal components emerging from a large cylinder. The cylinder would be made of steel by the Yries but the floating symbols needed to be made with a silverite alloy. That exhausted the rest of her reserves and some ore she had to purchase from the university at great cost, but in the end, they had a working prototype of the glyphs and a blueprint.
+
+“Why do you keep calling it a blueprint? It is clearly yellow in color?” Sidjin asked.
+
+“I think it was based on a process in my world to create engineering drawings on a light-sensitive sheet. Why, what do you usually call it?”
+
+“A drawing?”
+
+“Could you make it blue?”
+
+“... fine.”
+
+They had a blueprint, which she would deliver to the Yries during her next visit.
+
+***
+
+Viv walked in the armorer’s shop in her best clothes, the doormen letting her in on sight. Sometimes, it paid to be discreet but sometimes one had to let themselves be known. This was such a moment, and the robe waiting on a mannequin in the middle of the clean room would serve the same purpose.
+
+The piece of armor looked almost incongruous among the fancy dresses and panes of polished wood. Black and white with notes of silver, it was a queenly piece of garment, exquisitely made with a strong eastern influence in the upper part and a split skirt that reached the knee. Mail peered out from under the void-color spider silk. Finely embroidered glyphs covered the entire surface. There were pockets and it was designed to accommodate a backpack, as well as a potion harness the armorer couple in charge of the project had also done. There were clasps, small cores, and silverite workings all over the place. It looked like what it was, both a mighty piece of gear and the symbol of someone with means and ambition. It would serve as her field uniform.
+
+Viv put it on before the final adjustments but the tailors had done a prime job. The colorless self-cleaning and repair enchantments meant that the incredible piece of equipment would not just remain fresh throughout a campaign, it would also contribute to making her better. That was a technology she wished she had back in Afghanistan.
+
+She couldn’t wait to test it on the field.
+
+As soon as that thought hit her synapses, Viv cursed herself for inviting catastrophe.
+
+***
+
+Helock had an arena.
+
+Viv was not a fan of blood sports as a matter of principle. The rest of the continent had no such qualms, to the extent it was probably only a matter of time before Harrak requested its own coliseum. Helock’s arena was not the largest. That honor belonged to the Hallurian capital’s blood ground. It was still a large structure at the edge of the noble district that Viv had never been to before.
+
+Just entering the place was an experience. There was a queue coming from the lower districts for poor people and another for rich residents, which Viv used with Rakan. It led to a circular ground surrounded by rafters split in two tiers, or three if one counted the VIP lodge at the top. A fence separated the lower from the higher section which meant that, although this was entertainment for everyone, they were not meant to mix. Salespeople carrying dizzying amounts of food hawked their wares to the few spectators already present in the mid-afternoon. Viv bought herself and Rakan a few grilled nuts and some toasted bread dipped in spice and oil. They even had some cooled, lemony water made fresh with blue mana, all of it for a reasonable price. They munched on the goods while watching the early shows.
+
+Most of them would be fillers until the number of people reached a paroxysm in the early evening. The first fight was always special, however, and this time was no different.
+
+“Ladies and gentlemen, fine people of Helock…” a man in a mask announced.
+
+Viv tuned him out in favor of cleaning her fingers with a tissue and some cool water. Those snacks were sticky as hell. The gist was simple enough. Some people fell deep into debts and since Helock forbid the sales of relatives as slaves to cover the expanse, desperate people’s first option was to volunteer at the arena. The pay was awesome whether someone survived or not, and the arena had high security, preventing knee breakers from entering the facilities. Those thugs that did try never committed that mistake again.
+
+Today’s first fight would take place between a ruined smith accused of dishonest practice and a woman who had been touring loan sharks for mysterious reasons, made the money disappear, then entered the arena immediately. Viv found the host entertaining, painting the two losers as a dastardly criminal and a daring and secretive avenger, respectively. The reality even matched the show to an extent. The smith came out dressed in black leather and spiky metal pauldrons, shaved, wielding a warhammer of intimidating size while the woman only wore tight clothes and wielded a spear. Someone had braided her hair in the Hallurian fashion though it remained painfully short. The fight began almost immediately.
+
+While the woman had reach, it was clear the smith had brawled before and he took his time, trying to force his opponent into over-committing. It happened soon enough, and he let her spear bite into his flank while delivering a devastating blow to her forward knee in revenge. The woman fell with a howl, leg shattered, but when the man approached for a killing blow, she turned on him. She unexpectedly managed to jump on her good leg and landed a powerful, skill-backed attack into his gut. Viv was impressed. She inspected the two.
+
+[City smith, not very dangerous, one who has dedicated his life to the crafting of metal tools used in industry. Very strong.]
+
+[Blood sands maraudeur: not very dangerous, one who will face death or triumph in the arena despite inadequate training. Suicidal. High pain tolerance, all or nothing, decent close quarter combatant.]
+
+So that was it. The woman had switched class while the man had not, giving her the edge despite her vastly inferior physique. It soon became clear that the smith could not handle the pain of the deep wound in his abdomen. He tried to charge one last time, but his opponent kneeled with a scream of pain, managing to force the spear into his groin. She climbed on top of him while he lay dying and stabbed him with a hidden dagger in a display of utter savagery. She was left panting and covered in blood with a slightly shell-shocked expression.
+
+It was chilling, brutal, and morbidly fascinating, Viv thought. No wonder the arena was so popular.
+
+The next fight involved Sonagi, their would-be dueling teacher. He was pitted against an arcane fencer who used air-infused daggers she threw with impressive speed. She was a southerner and awfully young, a fact clearly visible through the makeup. Nagi looked half-decent in a shady mage robe made artfully scruffy with strategically placed bands and patches. Viv thought the arena did a great job creating a story for everyone.
+
+It soon became clear that Nagi was limited to using colorless mana. The girl did her best to overwhelm his defense but she stood no chance. Gray mana’s penetrative properties were the lowest.
+
+Nagi did a good job dancing around the attacks, even pretending to falter when one of the knives mysteriously returned to its sender like a boomerang, clipping his ear and eliciting a cry from the crowd, but Viv knew it was a show. The mage had an almost full tank while the girl quickly exhausted herself in a flurry of dazzling attacks. Nagi finished the fight by gathering all the discarded knives she had not recovered and sending them at her, letting most bounce off her thin chest plate. She gave up soon afterward.
+
+More fights followed, each one made at least a little interesting by the gifted head of ceremony. He always managed to make Viv care a little bit either through sob stories or interesting tidbits. The crowd loved it.
+
+Fights to the death were quite rare, and mostly involved convicts or heavily indebted people. It still happened three times that evening.
+
+“That Nagi man seems capable. You said he was a four color mage?” Rakan asked.
+
+“Yes.”
+
+“So he was fighting with one of his lesser schools? That is… very impressive.”
+
+It was, Viv thought, especially since he was probably a little tipsy. The last major fight of the evening was a demonstration between the champion of the Mornyr area and one of his apprentices.
+
+Apparently, people prefered arcane fencer fights to pure mage fights because it was flashier and Viv had to agree. She had not thought that the northern city dedicated to religion could produce such a powerful fighter, yet the champion cracked the earth and split the air. She didn’t think she could beat him, even with preparation. He was certainly a match for Solfis or Solar.
+
+The man and his second, a burly fighter with a mace, exchanged blows at blinding speed. The shock of their weapons impacting sent ripples through the sand while mana danced in many colors, manifested as tongues of fire or walls of ice. Viv knew there was a measure of choreography involved yet she still found herself impressed.
+
+“Bet Sidjin or Nagi could give those showoffs a taste of true magic,” Rakan grumbled, clearly annoyed at the wild support from the mob of spectators now blotting the arena.
+
+“Thank you, thank you! Please show your appreciation for Selyen, the dragonslayer reborn!”
+
+That was a neat title, Viv thought.
+
+Unfortunately, the two were caught in the queue that was leaving, and then in the queue going to the gladiators’ quarters along with groupies. Also unfortunately, Nagi was nowhere to be seen.
+
+“Wasn’t that to be our first meeting? And first class?” Rakan asked.
+
+“Yep.”
+
+A quick request with a guard and a tiny donation gave her the answer she needed. Nagi was getting piss drunk at the bar. He joined them soon after being reminded of his obligation, sauced beyond redemption. Tonight was a bust.
+
+Viv reconsidered her option and thought it might be better to work around Nagi’s messed up life rather than try and fight it head on. They decided to get him between noon and the moment he was supposed to fight in the arena for a change. Still, it was a major disappointment.
+
+Fortunately, the plan worked. The pair managed to pick Nagi up from his place as he woke up. The following class went okay.
+
+It was clear Nagi’s abilities impressed Rakan very much. The drunk gladiator was an expert at absorbing spent mana from the environment which allowed him to recover quickly. He also had a diverse and unpredictable arsenal of offensive and defensive spells that always gave him enough tools to function in various colors. Viv was hard-pressed against his versatility, but Rakan was having the time of his life trying to outwit the veteran duelist. That was fine for Viv. She had already known the slurring teacher would be more useful to him than to her. Her reliance on colorless mana for non-lethal options would always hinder her.
+
+Viv spent a month and a half training and slowly improving herself, then came the announcement that she would be mobilized on the first day of winter. This gave her a couple of weeks to conduct the siege of Shinur’s Gate back in the deadlands.
+
+The trip home was extremely fast now that she had a hidden teleporter network. A few repairs proved necessary, but nothing that would truly disable one of her sites. She found that quite a few things had changed in Harrak in her absence, most of it for good.
+
+The many patrols at the edge of the quickly developing new villages adopted a new measure inspired by Koro, the ever-bombastic southern hunter turned temple guard. With her first kid well on their way, she had taken to sharing her experience and some nice southern customs. One of them was face painting. Hunters from her clan would wear the semblance of the strongest foe they’d taken down as an ash mask upon their face to show others they were not to be messed with. The young warriors absolutely loved the idea and now most went to battle with skull patterns on their face, which seemed to drastically improve morale.
+
+The second change was that the Harrakan army was now capable of moving in formation. This would help a lot against the unending hordes of revenants they were meant to face. Viv had shared the blueprints of her portable shield arrays with the Yries who had been quite excited about the innovation, and promised they would deliver them soon. It would not be in time for the next operation but that was fine. Viv didn’t expect them to meet many casters anyway.
+
+Although the many patrols into the deadlands had given her troops valuable experience, it had not been without cost. Mana poisoning strained the healers even now, making Viv realize they had a dearth of qualified medics. There had been casualties as well. A heavy had been mauled by an undead monstrous bear while covering the retreat of its squad while a crossbow woman had received a headful of deadly acid, killing her on the spot. Nevertheless, spirits remained high.
+
+The last and strangest development affected the children and came, curiously, from the Hadals. Rather than clearing the surrounding woods of beastlings, Hadal hunters carefully herded tribes into the direct vicinity of Kazar to give the many scavenging bands of children a chance to face monsters. A pre-teen was more than a match for an individual beastling physically, and the two sides had waged a merciless war for the control of berry bushes and nut trees. There had been many wounded, yet the timely intervention of Hadal watchers meant that no one had died yet. Viv wasn’t really sure what to do about it, mostly because every last kid remained tight-lipped about that shadow war and the loot they collected to the extent that she doubted she could even convince their parents of the massive conflict happening under their noses. They had even waged full scale battles! In the end, she let it happen after making clear a single casualty would end the war games.
+
+Nyil was just weird.
+
+Also, those kids were cruel beyond measure. Viv shivered at some of the tactics they’d implemented to flush out a small cave. Patient, nasty little buggers.
+
+This led her to today.
+
+The sky was gray as it always was at the edge of the deadlands, but a southern wind chased off the ever-present scent of ash. Rows upon rows of soldiers in armor and mana-isolating cloth waited by the edge of the last fort for her signal to depart. Almost two hundred heavies and the same number of crossbowmen and women awaited the signal to depart. Horse-dragged carts and support wagons stood by in order. Sidjin was here for the occasion, providing much needed magical support. There were also Hadal scouts, Kark regulars, two dozen knights in heavy armor, and a contingent of temple guards led by Lorn to assist in this endeavor. Overall, close to six hundred trained warriors would assault a city that used to host thousands. It was a daunting prospect but they were well-prepared and more disciplined than brainless revenants.
+
+Viv was still worried, and the fact the black-armored, black-caped soldiers looked like the demon lord army waiting to invade the hero’s pastoral village had little to do with that. Yep. The white tassels flowing from spears and armor only provided a sharper contrast to the dark iron used for the armor.
+
+Viv watched all those waiting eyes and decided a short speech was in order. She cast a sound spell with a wave of her hand.
+
+“No one has ever taken a city back from the deadlands,” she began, and she had their attention.
+
+“The deadlands receded a little after the catastrophe, but since then it has stopped. Until us, that is. No one has ever taken land back except us. Hell, no one even tried. They gave up on this place like they gave up on many of the land ravaged by tides and disasters. Today and with this campaign, we shall achieve the impossible. and provide a safe anchor for our people to flourish. Shinur’s Gate has resources, it has tools. More importantly, it will become a fortress from where we can withstand hordes, the cornerstone of our reclamation for the next decade. Such an ambitious project will not be easy.
+
+“So far, we have only fought limited battles. This will be our first real campaign and a prelude to what is to come, because there is no way the rest of Param will leave us alone.”
+
+A wave of approbatory grumbles washed through the ranks. Lancer’s aggression had turned people paranoid and certain that it was only a matter of time before people tried to ‘obtain’ what the Harrakans had liberated from the cold grasp of the dead. Viv agreed with them if only because her fate was tied to this country and she had a very peculiar luck.
+
+“We will face a new world of hardship, but with your training and determination, I am certain we will prevail.”
+
+“Hear hear!”
+
+“Now remember that the key to victory will be endurance. The enemy may not be as strong as Lancer’s elite, but they are relentless and without numbers. Conserve your strength. Cover each other. There will be no room for bravado and senseless risk-taking on this battlefield if you wish to see its end. Now enough talks, time to reclaim our homeland.”
+
+“About face!” Ban roared by her side.
+
+The heavies commander had mercilessly drilled his troops, and they moved out in a column without problem. The temple guard took to patrolling the edge of the formation, eliminating and purifying the revenants they came across. As the expedition moved deeper into the corrupted land, the sky darkened and the last of the vegetation died out. Rolling gray hills of barren soil expanded in front of them, the hills and valleys almost indistinguishable in the gloom of a sunless sky. Armored boots sent puffs of dust in the air so the army formed a trail that could be seen from afar.
+
+Viv and Sidjin stayed near the center of the formation alongside Solfis. Arthur had joined as well and provided oversight because she had, apparently, a grudge against undead fliers. She thought they were useless as they had no meat or gold and thus provided no value to this world.
+
+They walked for hours at a good pace. The front elements were forced to form up and fight a short standing battle near noon when the amount of revenants streaming towards them had grown too large. Viv and Sidjin helped to clear it, then the bodies were gathered and burnt.
+
+The soldiers had lunch shortly after. How they managed to keep anything down, Viv wasn’t sure.
+
+It took until the late afternoon to get there, but eventually they did. A cliff rose over the horizon, blocking the way further in. A large, dusty road led to a fortress city nestled in its flanks, many of the lodgings dug into the very stone. A palace with an imposing white cupola topped the small city. There had to be thousands of undead there, Viv thought. She could see shapes squirming on the parapet. A single road dug into the cliff turned on itself until it reached a massive gate. Imposing doors hung open, visible even from afar.
+
+As planned, Viv set up two obelisks while the army prepared to make camp. They would assault the fortress at dawn with a third of the army holding the line at all times while the rest slept. Stamina would make or break them. Viv just hoped she wouldn’t be found wanting.

@@ -1,0 +1,169 @@
+---
+id: 71525982-ab97-5eec-8cf6-6ca49c9e2447
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-EIGHT: Always More"
+slug: 0260-two-hundred-fifty-eight-always-more
+partOf: super-supportive
+position: 260
+ownLength: 1812
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2793685/two-hundred-fifty-eight-always-more"
+royalRoadId: "2793685"
+---
+
+******
+
+258
+
+******
+
+A lit candle, clean hands, a quiet tune that was almost “Jingle Bells” played by the twitch of his fingers against air. One smashed marshmallow. A pillow tumbling into more pillows after being pummeled by an invisible, square-shaped punch. The memory of the light that had once filled this room becoming real light that shone on a blade-shaped leaf—still green after all these days.
+
+Alden held the spell, striving for another ten seconds while the feeling of resistance grew. If the first spells he’d cast had been like diving into water and feeling it part for him, then this was like swimming with tired muscles as the water thickened and hardened and, finally, refused to give way.
+
+The light dimmed, then vanished. He let his auriad fall loose and enjoyed the way it settled around his wrist.
+
+Midnight casting done.
+
+He stood up from his cushion and carried Whan-tel’s Art and his leaf over to his desk. He sat there, flipping through pages by lamplight, resisting the urge to put on his study earring this late at night.
+
+What next?
+
+The flashlight spell wasn’t mastered, but he was itching to add more to his casting list.
+
+At the end of the book, there was a summoning spell. Just a basic one—line of sight, bring that object to me. The thing you summoned traveled toward one waiting hand while the other held the auriad.
+
+Basic. But difficult.
+
+He’d often entertained the idea of leaving this one for last, as a prize for reaching the end of the book. But tonight that sounded like a long time to wait for such a cool new spell.
+
+“Maybe you’re a prize for beating Winston,” he murmured.
+
+He was almost finished reading the first page of instructions when Stuart called.
+
+Alden slipped his leaf back into place as a bookmark, and dropped Whan-tel’s Art into his desk drawer. Shoving his auriad up his arm almost to his shoulder so that it was hidden by the sleeve of his T-shirt, he looked around the bedroom like there might be more signs of magic going on that he’d forgotten. But it was only scattered pillows and a cedar-scented candle burning by the learning cushion.
+
+One long breath to collect his thoughts.
+
+He’d been expecting this call and worrying about it in the back of his mind, even though the battle with Winston had been won and hanging out at the diner had been so much fun and casting spells made him feel like a badass who could tell the universe what to do if he wanted.
+
+Last day of Welcome End for Stuart, and I left him with who knows what fallout from my encounter with Emban-art’h this morning.
+
+Please don’t have had a horrible afternoon because of me. Please don’t have been embroiled in even more family drama because I talked to your cousins.
+
+He answered the call, and Stuart appeared. He was stepping out of the elevator that carried people down to the siblinghold’s underground floors. He looked calm. There was even a small smile on his face.
+
+The call with his father must have gone well. And Emban must not have complained about me to him. Good! I didn’t cause problems after all!
+
+“Are you in the supply library?” Alden asked.
+
+“No. This is the manuscript library.” He turned so that Alden could see more of the room.
+
+Stuart stood in a lighted area with comfortable-looking chairs, small tables, and something that looked like an easel. Shelves surrounded the seating, the gaps in them leading into dark corridors of more shelving.
+
+“It’s not only manuscripts, though. We also keep art on this floor, memories, some learning tools….You <<quarreled>> with Emban about me this morning.”
+
+Alden’s relief vanished, along with his urge to ask to see what kinds of books the art’hs had. He slumped back in his chair. “I’m a horrible guest.”
+
+“I overheard the samefaces telling Rel about it. You said it was sad that I’d spent all of Welcome End with you instead of my family and childhood companions. Then Emban said you would never understand the shades of my sadness as well as my family does. Then you said my family couldn’t tell the difference between helping me and being unkind to me. You called them mean-mean.”
+
+He had distilled the argument in a different way than Alden would have, but the identical twins had obviously conveyed the whole thing to Rel-art’h.
+
+“I’m sorry I lost my temper. Especially at her. Especially today. If I made things hard for you—”
+
+“She was wrong,” Stuart said lightly, dropping into a chair and tapping a statuette on the table beside it. It was in the shape of a bird resting on a branch—a panpi’i, Alden guessed—and it glowed at the touch.
+
+“My family has known me longer, but when it comes to understanding me, I don’t think they have as much of an advantage as Emban thinks. My life has been very different from theirs. And I hope that your <<tactic>> is superior to theirs because I like it much more.”
+
+“My tactic for understanding…do you mean the tactic of listening to you and believing what you say about yourself?”
+
+“Yes. That one. More people should attempt it.”
+
+Alden returned his smile. “You’re in a good mood. I’m glad. I was afraid I’d accidentally ruined your day.”
+
+“I had a chance to talk to Father alone,” said Stuart. “It was a comfort. And even if our conversation was a brief one, he said things that will last long in my thoughts. I’ll tell you some of what we talked about after I’ve kept it as my own for a time.”
+
+“I’d like that.”
+
+“You failed at your tactic today, though. That’s why you had a quarrel with Emban.”
+
+“I didn’t believe you about something?” Alden asked.
+
+“You don’t seem to believe me about you. It’s my fault in part. I have been mentioning the other declared often and wishing they would welcome my company. But I’m sure I must have conveyed how much I enjoy your presence just as many times. Why would you tell Emban my weekend was really sad when we stole the wevvi cart together and I showed you the patient creatures?”
+
+“Of course it was a great weekend. I was just thinking…”
+
+The look Stuart gave him then was irritated. “Don’t tell people your company is inferior to that of declared I rarely speak to these days. Tell them the opposite. I call you my friend.”
+
+“Oh,” said Alden. “Okay. I will.”
+
+Stuart crossed his legs and settled deeper into his chair. “How was your day?”
+
+“It was good. I dueled Winston—the person I told you I was practicing for.”
+
+“I remember the names of people you like and dislike. May I watch the duel?”
+
+“I can’t wait to show it to you. It’s not as exciting as discovering something new about my skill, but it’s still me using what I already know in a new way. Winston wasn’t as good of an opponent as he could have been, but I tried the same maneuver out on some of the others afterward and learned a few things from them.” He accessed the gym footage.
+
+“Alden, there will be more.”
+
+He turned his attention back to the call and saw Stuart watching him closely.
+
+“More?”
+
+“When you’ve searched every corner of your skill and found the limits of its power, I think you’re the kind of person who’ll be disappointed the journey’s over rather than satisfied that you’ve completed it. But there will be more—other skills to explore or to expand the possibilities of your current one with. Always more. And better. It will be like that.”
+
+For some reason, Alden was reminded of himself a few nights ago, looking at the mother bokabv and her calf and insisting they would have peaceful lives and never suffer from chaos, like he had the authority to control that just by wanting it.
+
+“Was it a long duel?” Stuart asked. “Would you have been injured if it were real?”
+
+Alden blinked, resetting. “No, it was quick…don’t ask for all the details when I’m about to show it to you. It won’t be as fun.”
+
+******
+
+******
+
+After Stu finished talking to Alden, the manuscript library was completely quiet. Everyone was upstairs. They were having third meal outside tonight. Every available family member had already gathered because of the opportunity to wish his father well, and it was going to be a warm, clear evening.
+
+It would probably turn into a party. The ens would come over to join them.
+
+Stu stood and looked toward the shelves.
+
+“Contract,” he said, “I want to research skills based on concepts of protection.”
+
+His eyerings activated, showing him specks of purple-white light to indicate how many useful research materials could be found in every direction within the library. The names of experts he might want to contact also appeared. All of them would be happy to answer his questions.
+
+“I’d rather just study what we have here,” said Stu.
+
+The list of names disappeared.
+
+There were still an overwhelming number of options in this room alone. He should have expected it. Protection was at the core of many bindings. It was good that Alden liked that part of his skill because it gave Stu a broad starting place to search for something that would complement what he could already do.
+
+But this is too broad.
+
+“Have any of the skills mentioned in this library been adapted for humans already?”
+
+“You haven’t received the proper education or earned the necessary permissions to access that information. However, if this will help you with your skill selection, a request can be sent to—”
+
+“You know what it’s for,” Stu murmured. “Don’t send a request.”
+
+It didn’t matter anyway. If a skill that approached perfection hadn’t been adapted, that didn’t mean one couldn’t be.
+
+Something like what he already has perhaps, but better. Ah…I know how to begin.
+
+“Show me everything related to skills that Jozz accessed in the last half year before he became a knight.”
+
+Whisperer of Refuge had significant similarities to Alden’s skill. Jozz was thorough and picky. Whatever skills he’d wanted to study in the days before he made his final decision would be worth looking at.
+
+And he had been rude about Alden, therefore it was right that his past efforts benefit Alden.
+
+Most of the specks of light disappeared. Many of the remaining ones were concentrated on a single corridor between shelves.
+
+“Would you like to know what order he accessed the manuscripts in?”
+
+“Yes. Thank you, Mother.”
+
+Stu whistled, and the panpi’i lamp lifted off from its perch and fluttered to his side. Together, they headed toward a bookshelf that had just begun to glow at the end of the corridor.
+
+******

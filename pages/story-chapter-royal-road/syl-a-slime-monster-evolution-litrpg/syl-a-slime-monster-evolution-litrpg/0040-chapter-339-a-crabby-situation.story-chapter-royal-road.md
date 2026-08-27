@@ -1,0 +1,269 @@
+---
+id: cd4ecd92-2f87-5c78-b7ce-6281d6f8a101
+page-type-slug: story-chapter-royal-road
+title: "Chapter 339 : A Crabby Situation"
+slug: 0040-chapter-339-a-crabby-situation
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 40
+ownLength: 2155
+unit: words
+ownProgress: 2155
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2956801/chapter-339-a-crabby-situation"
+royalRoadId: "2956801"
+markedReadAt: "2026-06-29T19:43:08.591Z"
+---
+
+Arthropod?
+
+Vee was confused by the rewarded trait, but after reading the description, she realized that it included insects, arachnids, and crustaceans.
+
+Vee quickly put two and two together and assumed that the god behind Leon must have wanted a method for them to communicate without Syl present. Although Vee couldn't help but feel somewhat bitter about the reward.
+
+Why couldn't it have just been the full version of telepathy?
+
+Vee's race was incapable of learning it naturally, which is why even though Syl tried to share it, she was unable to buy it. Likewise, it was the same reason why Syl had to keep mimicking the trait, despite having probably earned enough proficiency experience to obtain it for free!
+
+The spider queen Qhilleeqeth had been able to communicate with Vee using a trait called [Telepathy (Kin)], and had even shared it so she could buy it if she wanted. However, Vee had turned it down, as she didn't really want to talk to other spiders. Qhilleeqeth had the trait herself, so Vee could save the point.
+
+Now I've ended up getting a slightly better version… It's still not what I really wanted, but I guess it's better than nothing.
+
+Vee sighed and attempted to use the new trait to talk to the crab that was still hiding inside its bizarrely well-fortified shell.
+
+"Hello?" Vee asked.
+
+"Oh my giddy aunt!" Leon cried out in horror. "Now there's a voice in my head, can this day get any worse?"
+
+"I can turn you into experience points if you'd prefer," Vee replied, dripping with venomous sarcasm. "My next evolution is still far away."
+
+"You're the bloody arachnid assassin!?"
+
+Vee rolled her eyes. "And you're the idiot crab I was asked to save."
+
+"Save me?" Leon snorted. "You've ruined me, you harlot!"
+
+"Okay, I guess you've decided on becoming experience points. Hopefully you're worth at least a level or two," Vee said and began to tighten the webs around the shell, causing an ear-piercing screeching noise to emit as the webs slowly dug into the shell.
+
+"Ahhh!" Leon cried out in terror; any of his previous bravado was washed away. "Keep your hair on, I was only joshing!"
+
+But Vee didn't relent, the screeching noise increasing in intensity as the web began to grind and dig into the shell.
+
+"I'm sorry! I'm sorry! I'm sorry! Please forgive me, Miss scary spider!"
+
+Vee paused the assault. "That's a little better. Just remember who's in charge."
+
+"Yes! For crying out loud, yes! I submit!" Leon pleaded.
+
+Vee sighed, although she didn't release him. "So are you also an [Experiment]?"
+
+There was a cautious pause until Leon finally responded, "Unwilling, yes. Are you also in this predicament?"
+
+"You, me, and a bunch of others, from what we've gathered," Vee replied. "Unfortunately, my partner isn't here right now, or she could give you a more detailed explanation."
+
+"There are more horrific creatures like you?" Leon shuddered.
+
+"If you think I'm scary, wait until you meet Syl," Vee snickered. "Syl's a one-slime army, and future dragon slayer."
+
+"Slime?" Leon replied curiously. "Is this the elf slime?"
+
+"Syl can turn into an elf, yes," Vee replied. "I'm surprised you knew that…"
+
+"The voice now called Unc suggested I join forces with an elf slime… Although admittedly, I hadn't put much thought into it."
+
+"Apparently, we were supposed to urgently save you from mermen, but it looks like that's no longer the case?" Vee asked.
+
+"Those bloody mermen," Leon cursed. "They hounded me relentlessly! I only managed to escape from their clutches through a fortuitous event, and have been fortifying myself ever since."
+
+"I guess that explains the cannons…" Vee murmured.
+
+"Which are now ruined, do you have any idea what I sacrificed?" Leon snapped.
+
+Vee frowned and began to tighten the web again, causing another panicked flurry of apologies from Leon.
+
+"If you didn't shoot first, ask questions, never, you wouldn't have ended up in this situation. You also almost ruined my island dream home!" Vee asserted.
+
+"I'm sorry, Miss Spider! Terribly sorry! It won't happen again!"
+
+"Vee."
+
+"I beg your pardon?"
+
+"My name is Vee, not Miss Spider."
+
+"Oh. Right, introductions, my manners must have been lost in the explosion…" Leon grumbled.
+
+"Watch it," Vee warned, momentarily tightening the webs again.
+
+"Yes! I will Miss Vee!" Leon obediently replied. "I was called Leon back in the day, before being confined to this crab-like existence."
+
+"I'd say it was nice to meet you, Leon, but that would be a lie. Honestly, this whole situation and quest to save you has been a mess," Vee moaned.
+
+"I'm terribly sorry. I ask you to please direct your ire towards Unc."
+
+"As much as I would, I don't want to get smited," Vee sighed. "Maybe I can ask Mother to put him in his place."
+
+"Mother?" Leon asked. "First Unc and now this. Where are these names coming from?"
+
+"Syl, my traveling companion and partner in crime," Vee answered. "Gave them nicknames and the three of them started using them."
+
+"This… Syl, person, gave nicknames to gods?" Leon asked in disbelief.
+
+"Slime, not a person, but yes. I'd love for Syl to resolve all of this, but unfortunately, she's deep at the bottom of the ocean," Vee answered.
+
+"Deep at the bottom of the ocean?"
+
+"Yup, almost directly below us if I'm not mistaken."
+
+"Oh… Your friend might be in a spot of trouble then," Leon replied. "Assuming you mean below the oceanic trench, then that is where the mermen live."
+
+"I guess Syl found them before me," Vee grumbled, feeling like she'd lost the competition.
+
+"Umm… Are you not worried about your friend?" Leon queried.
+
+"Worried?" Vee snorted. "I wasn't joking when I said Syl was a solo army. If anything, I expect those mermen to be reduced to slime food and their city to be exploded in a day or two."
+
+"I… See…" Leon murmured in astonishment. "Speaking of explosions, how did you manage to stop my fortress's self-destruct, if you don't mind me asking?"
+
+"Oh. Well, I just expanded the space around it," Vee answered honestly. "That way, the explosion ran out of energy before it reached normal space again."
+
+"Y-you expanded space?" Leon stammered.
+
+"Yes?"
+
+"H-how!?"
+
+"With magic, of course," Vee replied candidly.
+
+"This accursed magic can defy physics?" Leon asked, sounding horrified.
+
+"And much more," Vee giggled.
+
+"Preposterous!" Leon retorted. "How on earth do you expand space!?"
+
+"Well, we aren't on Earth anymore," Vee pointed out.
+
+"Even so, that's utterly absurd! What's next, erasing time?"
+
+"I know a guy who might be able to do that," Vee answered mischievously.
+
+"You... know a guy?"
+
+"Yeah, he's an elf chronomancer," Vee answered.
+
+"Please tell me you're pulling my leg?" Leon pleaded.
+
+"Nope, not at all. There are elves, dwarves, magic, monsters, and everything in between!" Vee replied.
+
+Leon let out some pained noises but didn't respond further.
+
+"Now… What to do next?" Vee pondered.
+
+"What do you mean?" Leon asked.
+
+"Well, the way I see it, we have two options," Vee explained.
+
+Leon gave a defeated sigh. "I suppose I don't have a choice in the matter of my involvement?"
+
+"Well, after Syl meets you, you can probably do whatever you want," Vee explained. "But unless you want to be hunted for the rest of your life, then we are probably your best bet."
+
+"Look… I just want a quiet life, building things, maybe doing a few artificer experiments. I don't want to go on some grand adventure fighting dragons and demons and who knows what else."
+
+"Sure, that's fine," Vee replied. "We aren't going to force you to do something. We were just following a quest since we're all in the same boat with the [Experiment] thing. Heck, if you want to just build stuff, we might have a good use for you."
+
+"A use for me?"
+
+"Well, we want to build a home base that we can always return to for safety. We had some ideas to keep it defended, but honestly, we were relying on the remoteness of its location as its key factor."
+
+"Wouldn't a remote location be terrible for a home base?" Leon asked. "Unless you're planning to explore only the ocean."
+
+"Oh well, we can teleport and create portals. So we can get back to base no matter where we are," Vee answered.
+
+"Teleporting and portals…" Leon stammered.
+
+Vee giggled. "As I said, we're at the tip of the iceberg. Wait until you hear about the dimensional root network the elves have and the living tree we want to grow."
+
+"I'd rather not, if I'm honest… All this talk is shattering what little scientific knowledge I'm desperately clinging on to."
+
+"Then I've got some bad news for you, because I think when you meet Syl that's going to be thrown out the window, set on fire, and exploded with slime."
+
+"...Slime explodes?"
+
+"For Syl it does," Vee answered.
+
+Leon made more pained groaning noises, causing Vee to snicker. This crab had no idea what he was in for.
+
+"Anyway, moving on... We could use a builder, and Syl can probably get you more resources than you could ever dream of," Vee explained.
+
+"That… I'd be lying if I said it doesn't sound tempting."
+
+Vee nodded. "Good. Well, the way I see it, we have two options for now."
+
+"I'm listening."
+
+"We can either clear out the volcano rubble and start laying the foundation for the island. Or… We could try to help Syl finish off the mermen."
+
+"I'd prefer the first option," Leon admitted.
+
+"I figured as much," Vee sighed. "Sadly, I can't really get down there myself; the pressure is too much for me.
+
+"Then I'm definitely picking the first option. I'm not going down there again until I'm confident those mermen are gone for good!" Leon declared.
+
+"What did you even do to upset them? Or do they just naturally hunt monsters?" Vee asked.
+
+"Well, at first they were actually rather nice," Leon explained. "I was having an extremely rough time, but when the mermen found me, they started feeding and taking care of me. I presume they wanted me as some sort of pet, but when I didn't listen to their demands, things took a turn for the worse."
+
+"Sounds actually quite similar to Syl and the goblins," Vee commented.
+
+"Goblins too… Well, I guess I shouldn't be surprised after seeing those brinelings," Leon sighed. "Anyway. Once I realized that I'd outstayed my welcome, I decided to flee."
+
+"And they hunted you down just for running away?" Vee asked.
+
+"Well…" Leon gulped.
+
+Vee rolled her eyes. "What did you do?"
+
+"I may have… Dismantled and took a few pieces of their infrastructure," Leon replied. "But only a little! Who knew they would take it so personally…"
+
+"You stole from them? Why the heck would you do that?"
+
+"To upgrade my shell, of course," Leon declared. "It was the most advanced resource I could find at the time, and it did wonders for me. From there, I explored shipwrecks and discovered a wide range of treasures. Of course, all of that paled in comparison to those dungeon bricks I appropriated."
+
+Vee shook her head. "Oh great, it sounds like we've got a kleptomaniac crab on our hands."
+
+"I resent that remark!" Leon defended himself. "I only took a little off the top. I just didn't expect such… Visceral reactions from the inhabitants."
+
+"Well, from one arthropod to another, make sure you never steal anything from Syl. Especially not a slime core, or not even the gods will be able to save you from her wrath!"
+
+"I shall spare no effort to avoid such a tragic outcome," Leon replied somewhat nervously. "Of course, that's assuming I decide to stick around after meeting this slimy friend of yours."
+
+"Well, if you want access to orichalcum, obsidianite, deepstone, floatstone, mithril, and who knows what other types of strange things Syl's eaten at this point. Then I don't think you'll want to ever leave," Vee said, chuckling to herself.
+
+"Wait, the slime eats metals!?" Leon asked in disbelief.
+
+"Oh, trust me, Syl eats everything and anything," Vee chuckled.
+
+"I believe it's now my turn. Why?"
+
+"To recreate it. Syl can even duplicate metal," Vee answered.
+
+"Duplicate metals!?" Leon cried out.
+
+"And potions, and poisons, and who knows what else at this point."
+
+"I'm finding this extremely hard to believe," Leon admitted.
+
+"You haven't even heard the worst of it. Wait till you hear about the exploding worm!"
+
+"I'd rather not—"
+
+"Too bad!" Vee interrupted. "Because I'm going to tell you all about it while you fix the mess you made."
+
+"But—" Leon attempted to protest.
+
+"No buts!"
+
+Leon gulped nervously. "Yes, ma'am."
+
+Vee giggled to herself, not expecting the crab to give up to her bossing around so easily.
+
+Now let's see how much work we can get done before Syl returns. I hope she deals with the mermen soon.

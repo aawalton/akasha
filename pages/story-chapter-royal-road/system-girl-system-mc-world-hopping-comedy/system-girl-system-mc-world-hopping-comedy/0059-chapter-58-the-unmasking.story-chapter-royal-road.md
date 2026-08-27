@@ -1,0 +1,307 @@
+---
+id: 976f549a-9027-5304-9cde-69bb85809743
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: The Unmasking"
+slug: 0059-chapter-58-the-unmasking
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 59
+ownLength: 2566
+unit: words
+publishedAt: 2026-02-15
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3057156/chapter-58-the-unmasking"
+royalRoadId: "3057156"
+---
+
+As we walked away from the depressing grey block of the Workers' Union, Shorgan kept glancing at Ren. It was the expectant look of a dog waiting for a treat, or a Guild clerk waiting for his client to realize he'd forgotten something crucial.
+
+I floated in the void, watching the scene unfold. What is it? Did we forget the receipt?
+
+Then it hit me. We were walking through the capital city carrying a baby and a bag of gold, accompanied by two newly purchased servants, and we had zero security.
+
+Ren, bless his heart, was oblivious. He was humming a little tune, adjusting the strap of his bag.
+
+Before I could ping him, Shorgan spoke up.
+
+"Sir," Shorgan said, his voice polite but strained. "Are you planning on... hiring adventurers?"
+
+Ren stopped. He blinked. "Adventurers?"
+
+"Guards," Shorgan clarified. "Muscle. You just spent a small fortune. People will notice."
+
+Ren’s eyes widened. He realized his mistake. He tried to recover, adopting his 'Confident Merchant' persona. "Ah. Yes. Well. The estate still requires a lot of time to finish. I thought it best to wait until we had a perimeter to defend."
+
+It was a weak excuse. Shorgan didn't buy it.
+
+"I understand," Shorgan said smoothly. "But for a man of your stature, moving around the city without a detail is... unwise. Shall we turn back to the Adventurer's Guild?"
+
+Ren froze. He knew, intuitively, that turning back would look indecisive. It would cost him Style Points. And in the high-stakes world of fantasy commerce, Style Points mattered.
+
+"Some other time," Ren declared, waving a hand. "It's Lily's feeding time. And I don't have supplies with me."
+
+I stared at him from inside his head.
+
+[Ana: Lies. Dirty lies. My inventory has six bottles of warm milk perfectly preserved in stasis. Shame on you, Ren. Using an innocent child to cover your incompetence.]
+
+Instead of shouting at him, I simply opened the Inventory UI in his vision. I highlighted the milk bottles. I made them glow with a judgmental red aura.
+
+A single bead of sweat rolled down Ren’s temple.
+
+He knows, I thought. He knows that I know.
+
+Shorgan, sensing the awkwardness but misinterpreting the cause, nodded. "Of course. Prioritize the child. That brings us to the living situation. The Merchant's Guild has a separate dormitory for staff. It's... functional. Similar to the Workers' Union. We usually house new acquisitions there until they are processed."
+
+Ren looked at Sylas and Mira. They were standing quietly behind him. Sylas was stoic, but his shoulders were tense. Mira was looking at the ground, clutching the baby basket like it was the only solid thing in the world.
+
+Sending them back to a dormitory? Back to a cell?
+
+Ren felt a wave of nausea. "I have imposed on the Union for far too long," he said abruptly. "I guess it's time I rent an Inn. Now that I have a butler of my own, I shouldn't impose on your hospitality."
+
+Shorgan blinked. "This is no problem at all for a member. Our facilities are always open."
+
+Sylas stepped forward. He realized what was happening. Their new lord was too kind. He was offering to move from the lavish, secure Guild quarters to a public inn just so his servants wouldn't have to sleep in a dorm.
+
+"Master," Sylas said, his voice low. "It is quite all right. You shouldn't be forced to live in a lowly inn for our sake. We are accustomed to... simpler accommodations."
+
+Mira didn't speak. She was slower on the uptake, her trauma coloring every interaction. She saw kindness as a trap. A trick. She just looked at Lily, sleeping soundly in the basket, and retreated into her duty. As long as the child is safe, she thought.
+
+"Nonsense," Ren said, cutting off the debate. "I want to be closer to the construction site anyway. Shorgan, take us to the best inn near the Harbor."
+
+…
+
+The Gilded Anchor was a high-end establishment that catered to wealthy sea captains and visiting dignitaries. The lobby smelled of beeswax and expensive tobacco.
+
+Ren marched up to the reception desk. The concierge, a man with a mustache so waxed it could probably deflect arrows, looked down his nose at the group.
+
+"We have one premium suite available," the concierge said, eyeing Mira’s simple clothes with distaste. "It has an attached servant's closet. Suitable for two."
+
+"No," Ren said.
+
+"Sir?"
+
+"I need three rooms," Ren said. "Three Premium Suites. Adjacent."
+
+The concierge’s mustache twitched. "Three? For the... staff?"
+
+"Yes," Ren said. "Is that a problem?"
+
+"It is... unconventional," the concierge sniffed. "And expensive."
+
+Ren slammed a bag of gold onto the counter. "I didn't ask for a discount. I asked for keys."
+
+Behind him, Sylas’s eyes widened. A Premium Suite? For a servant? It was unheard of. In his last house, he had slept in a pantry.
+
+Mira looked up, startled. She looked at Ren’s back, then at the gold. Why? she wondered. What does he want?
+
+Ren took the keys. He handed one to Sylas and one to Mira.
+
+"Get settled," he told them. "Rest. We start work tomorrow."
+
+He took Lily’s basket from Mira. "I'll take her for now. I imagine you both need a moment."
+
+He walked up the stairs, leaving two stunned elves and a very confused concierge in his wake.
+
+…
+
+Ren’s room was luxurious. A four-poster bed, a velvet chaise lounge, and a balcony overlooking the harbor.
+
+He set the basket down on the bed. Lily was awake, gnawing on her fist.
+
+Ren sat down next to her. He felt a sudden, sharp pang of melancholy.
+
+"You have a nanny now," he whispered to her. "Mira is going to take care of you. She's going to feed you, change you, rock you to sleep."
+
+It was what he wanted. It was logical. He had a business to run. He couldn't be a full-time dad and a Supply Lord.
+
+But looking at her chubby face, he felt a loss. He had grown used to the weight of her in the carrier. He liked the smell of milk and baby powder. He liked being the one she looked for.
+
+"I'm going to miss this," he admitted.
+
+He decided to do one last thing. A dad's duty.
+
+"Bath time," he announced.
+
+Lily squealed. She loved baths.
+
+Ren filled the copper tub in the corner with warm water. He added a drop of lavender oil he’d bought from the shop.
+
+He undressed her. She splashed, giggling, smacking the water with her hands. Ren washed her hair, careful not to get soap in her eyes.
+
+"You're a mess," he told her affectionately. "Sticky. Smelly. Perfect."
+
+As he washed her neck, his fingers brushed against the pendant. The blue stone pulsed, warm and steady.
+
+"This thing," Ren muttered. "It's useful, but it gets in the way of scrubbing."
+
+He hesitated. He remembered what happened last time he touched it. The heat wave. The crying.
+
+But she was in a warm bath. She was happy. She trusted him.
+
+"Just for a second," he said. "To clean under the chain."
+
+He reached out. He unclasped the silver chain.
+
+Lily didn't cry. She didn't react. She just kept splashing.
+
+Ren pulled the necklace away.
+
+"See?" he said. "No problem."
+
+Then, the air in the room changed.
+
+It wasn't a sound. It was pressure. A sudden, heavy density that made Ren’s ears pop.
+
+He looked at Lily.
+
+She was glowing. Not with a magical aura, but with an inner light that seemed to shine through her skin.
+
+And her ears...
+
+Ren watched in horror as the round, human-like tips of her ears began to elongate. They stretched, tapering into fine, elegant points.
+
+Her eyes opened wider. The blue deepened, swirling like a galaxy.
+
+Ren stumbled back. He fell onto his butt, staring.
+
+The cute, chubby baby was gone. In her place sat something... ancient. Something powerful. She looked like a baby, but she felt like a queen. Her presence filled the room, a commanding, regal aura that demanded obedience.
+
+[Ana: Put it back!]
+
+My voice screamed in his head.
+
+[Ren! Put the necklace back! It's a suppressor! It hides her true form!]
+
+Before Ren could move, a thunderous knocking shook the door.
+
+"Master!" Sylas’s voice was urgent. "Master Ren! Are you alright?"
+
+Ren scrambled up. He grabbed the necklace. His hands were shaking. He fumbled with the clasp.
+
+Lily looked at him. She tilted her head. The ancient aura didn't fade. She looked at her father, confused.
+
+Click.
+
+The clasp snapped shut.
+
+Instantly, the pressure vanished. The ears shrank back to round nubs. The glow faded. Lily blinked, looked at the water, and splashed again, giggling like a normal baby.
+
+Ren slumped against the tub, panting. "What... was that?"
+
+The knocking continued. "Master! Open the door!"
+
+Ren stood up. He grabbed a towel and wrapped Lily in it. "I'm coming!"
+
+He opened the door.
+
+He expected to see Sylas and Mira.
+
+Instead, he saw a crowd.
+
+The hallway was packed. Every elf in the inn—maids, porters, even a few guests—was standing there. They looked dazed. Confused. Their eyes were wide, their ears twitching.
+
+Sylas was at the front, looking pale. Mira was beside him, her hand over her heart.
+
+"Master," Sylas gasped. "We felt... a calling."
+
+"A pull," Mira whispered. "Like... like home."
+
+They looked past Ren, into the room. They looked at the bundle in his arms.
+
+"Why are we here?" a maid asked, looking around as if waking from a dream. "I was cleaning... and then I was running."
+
+Ren’s mind raced. The pendant blocked her lineage. When he removed it, her true nature—the High Elf royalty—leaked out. It called to them. It commanded them.
+
+But they didn't know what it was. It had been thousands of years. They had forgotten what a High Elf felt like. They just felt the echo of an instinct they didn't understand.
+
+"I..." Ren stammered. "I slipped. In the tub. I shouted."
+
+Sylas looked at him. He looked at the baby. He didn't buy it. But he was a butler. His job was to smooth over the cracks.
+
+"A slip," Sylas repeated loudly, turning to the crowd. "The Master slipped. False alarm. Everyone, return to your duties."
+
+The elves lingered for a moment, looking confused, before slowly dispersing. The pull was gone. The instinct faded.
+
+Sylas and Mira remained. They stepped into the room and closed the door.
+
+They looked at Lily.
+
+"Master," Sylas said quietly. "That was not a slip."
+
+"She..." Mira’s voice trembled. "She feels... important."
+
+Ren looked at them. He realized he couldn't hide it. Not from them.
+
+"She is," Ren said. "And that is why you are here. To protect her. Even from herself."
+
+He placed Lily in Mira’s arms.
+
+"Take her," Ren said. "She's clean. And she's tired."
+
+Mira held the baby. She looked down at the round ears, at the silver hair. She didn't ask questions. She just held her tighter.
+
+"I will," Mira whispered.
+
+As they left, Ren collapsed onto the bed.
+
+[Ana: That was close. Too close.]
+
+"Yeah," Ren breathed. "No more baths without the jewelry."
+
+He stared at the ceiling. The reality of his situation settled in. He was raising a nuclear reactor with a pacifier.
+
+And he had just hired the only people in the world who might figure out how to detonate it.
+
+Ren lay on the bed, staring at the canopy of velvet and silk. The room was quiet again, but it was a heavy, loaded silence. The echo of the hallway incident still vibrated in the air.
+
+"System," he whispered. "We need to talk."
+
+I materialized the chat window in his vision. I kept the font soft, the colors muted. He looked like he needed a break.
+
+[Ana: I'm here, Ren. Drink some water. Your adrenaline is spiking.]
+
+Ren sat up, swinging his legs over the edge of the bed. He ignored the water pitcher. "That wasn't just a glowing baby, Ana. That was a summons. Did you see them? They looked like sleepwalkers. They looked like... subjects."
+
+[Ana: High Elves were royalty. It's biological. Pheromones? Magic frequency? It doesn't matter. The point is, it works. And it's dangerous.]
+
+"If I take that necklace off again," Ren said, running a hand through his hair, "every elf within a mile is going to know. And if the wrong elf knows... if someone who remembers the old stories sees her..."
+
+[Ana: Then we have a war. Humans won't tolerate a High Elf. They'll see a threat to their dominance. They'll come for her.]
+
+Ren’s jaw tightened. "Over my dead body."
+
+[Ana: Let's try to avoid that outcome. We need a plan. A containment protocol.]
+
+Ren stood up and began to pace. It helped him think. "Okay. Step one: The necklace stays on. Always. Bath time, sleep time, no exceptions. We clean around it. We engineer a waterproof cover if we have to."
+
+[Ana: Agreed. I'll scan the shop for magical sealants. Maybe we can reinforce the clasp so she can't pull it off herself when she gets older and curious.]
+
+"Step two," Ren continued, ticking off a finger. "Sylas and Mira. They suspect. They felt it. We can't gaslight them forever."
+
+[Ana: You hired them because they're loyal. Lean into that. Don't confirm she's a High Elf—that word is too dangerous—but confirm she's special. Frame it as a bloodline curse or a rare magical affinity. Make them feel like co-conspirators in protecting a vulnerable child, not servants hiding a queen.]
+
+"A curse," Ren mused. "That works. 'She has a rare condition that attracts unwanted attention. We must keep her hidden for her safety.' It plays to Mira's trauma and Sylas's protective streak."
+
+"Step three," he said, stopping by the window. He looked out at the harbor, at the ships rocking gently in the tide. "We distract the world. If everyone is looking at me—the eccentric spice merchant, the culinary genius—they won't be looking at the baby."
+
+[Ana: Be loud. Be flashy. Be so incredibly successful and weird that no one notices the nanny in the background.]
+
+"Exactly," Ren said. A grim smile touched his lips. "I'm going to build that restaurant. I'm going to make it the most famous place in the city. I'm going to serve crab cakes so good they make grown men weep. I'll be the shiny object."
+
+[Ana: And I'll be the bank. We need to upgrade your security. Wards on the new house. Anti-scrying spells. I can buy those once we hit System Level 3.]
+
+Ren nodded. "How close are we?"
+
+[Ana: Close. We need about 500 more SPP. That's a lot of mayo, Ren.]
+
+"Then we'd better get cooking," Ren said.
+
+He turned away from the window. The fear was still there, a cold knot in his stomach, but it was manageable now. He had a plan. He had a team. And he had a secret weapon: a jar of mayonnaise and a dream.
+
+"Sleep well, Ana," he whispered.
+
+[Ana: Goodnight, Ren. Try not to cause any more accidental uprisings until breakfast.]
+
+Ren chuckled, extinguished the lamp, and lay back down. For the first time in hours, the room felt peaceful.
+
+But in the void, I didn't sleep. I watched the door. I watched the window. I ran simulations on siege defense and escape routes.
+
+Ren was playing a merchant simulation. I was playing a tower defense game.

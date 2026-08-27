@@ -1,0 +1,199 @@
+---
+id: 2e93b5d7-69f3-5e12-9529-4a1dbd44f171
+page-type-slug: story-chapter-royal-road
+title: "Chapter 420 : Travel Training"
+slug: 0122-chapter-420-travel-training
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 122
+ownLength: 2316
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3866229/chapter-420-travel-training"
+royalRoadId: "3866229"
+---
+
+"Hold on for a minute here… The slimy master of magic wants lil old me to teach [Mana Shaping], a crude and barbaric form of spellcasting?" Vee asked in a haughty tone.
+
+"I never called it crude and barbaric…"
+
+"But you were thinking it."
+
+I frowned.
+
+"Anyway, why do you need me to teach you? Can't you just buy it?" Vee questioned.
+
+"I can't because I have [Mana Dominion], which supersedes all of it. In theory, I can now use [Mana Shaping], but I don't have the system's help to guide me. So, I need you to show me the ropes, and then I should be able to do it on my own."
+
+"Huh… Crap, does that mean I'm going to be forced to learn [Mana Weaving]?"
+
+"Only if you want to. If you ever want to create more complex blends of spells, it's probably mandatory. Like my teleporting fireball."
+
+"I still can't believe you pulled that off. Although, can you even call it a fireball anymore? It feels like it should have a new name… Firewarp or something?"
+
+"It wasn't officially registered, so the system only saw it as a variant spell for whatever reason."
+
+"Mother probably didn't want to officially endorse your latest war crime," Vee teased. "Although you've unknowingly brought up a good point, my shaped spells don't get registered… So that's one legitimate reason to eventually get around to learning how to weave spells."
+
+"I'm sure Mother would be proud," I teased back.
+
+"And you must be disappointing her by going down such a dark path. You were the good kid, and now you've been corrupted."
+
+"Very funny."
+
+After a bit more joking around, I showed Vee my two latest spells. At first, she seemed underwhelmed by [Fester], but when I showed [Disintegration Ray], she lost her marbles.
+
+"Oh crap, you've really gone and created a new war crime. No, actually, this goes beyond that. This is a doomsday-level spell!"
+
+"It's an official spell, so spare me the melodrama."
+
+That quickly shut her up, and naturally, she wanted to learn it herself. An official spell of a higher level meant a ticket to free bonus proficiency experience, something even the normally lazy spider was happy to partake in.
+
+"I'll teach you while we are traveling. We've got quite a long way to go."
+
+"Fine!" Vee reluctantly agreed.
+
+With Vee's agreement, we said our farewells and left Sylbera in charge of the island while we were away. As arguably the most responsible of my personas, she was the first person we both turned to. Sylvain and Leon might have complained, but considering she had been at Vee's side for almost all of the island setup, she was the best one for the job.
+
+From there, I teleported us to Glimmerock, where I gave Vee a bit of a tour around the place. She was a bit sad she didn't get to see any unicorns or pegasus, for some reason, so I ended up using [Slime Puppetry] to create a few mimicked ones to prance around for her enjoyment.
+
+"That new ability of yours is genuinely terrifying. You already were a one-slime army, but now…"
+
+"If you're jealous, I'm pretty sure your next evolution will give you something absurd."
+
+"Here's hoping."
+
+I nodded. "Besides, it's not like it's only [Slime Puppetry] doing all of this. If I didn't also have [Chimeric Mimicry] and [Morph Slime], well, [Slime Mastery] now, I wouldn't be able to do any of this."
+
+"Yes, yes, I know. You're a hardworking slime combining multiple abilities. I'm half-joking when I complain."
+
+When Vee had had her fun experiencing a floating island, we teleported to our next destination. Needless to say, she was not nearly as impressed by the scorched wasteland I had brought us to, and we left after only a brief glance.
+
+We could've teleported together off into the horizon, but that wouldn't have let us spend some time training together, so we needed another solution. Thankfully, I had plenty of flying under my belt, and I ended up creating the body of a large, bird-like monster under the control of two [Sub-Cores].
+
+As for Vee and myself, we were on its back, where I'd even made a structure for us to stay in and protect us from the elements. Well, it was mostly for Vee's sake, as technically speaking, I was still being battered by the wind, rain, sleet, or whatever else was in the skies above.
+
+As promised, I first started off teaching her both of the new spells. She wouldn't get as much discovery proficiency from my help, but I hoped it would be counteracted by the boost provided by [Companion Training]. Regardless, it wasn't like Vee was complaining, and she welcomed the shortcut to make her life easier.
+
+With some guidance and the use of [Ritual Casting], I quickly taught her the necessary steps to recreate the spells herself. When all was said and done, I even received my own small reward for my effort.
+
+<Proficiency gained. [Companion Training LV 9] improved to [Companion Training LV MAX].>
+
+"I'd be lying if I said I wasn't a little curious what uncapping it would do. Like, would I be able to teach you anything?"
+
+"Who knows. I thought you had a boatload of skill points?"
+
+"Maybe a rowboat at best… I spent most of it," I admitted.
+
+"Well, maybe it's a good thing. You uncapped [Companion Growth] kind of on a spur of the moment, and it's barely been used since."
+
+"If you came out more, it wouldn't be wasted."
+
+"I've got an island to manage! With all the slimes and goblins running around, not to mention a very cranky crab, there's a lot to do. Plus, with the way you're handling things, I wouldn't be surprised if we have more residents, or maybe even tourists."
+
+"I thought Sylbera was helping you? I could also create an island manager persona if you want."
+
+"No, don't take my job away from me. I like doing all that stuff!"
+
+"I won't, don't worry. Still, if you really want to handle tourists, then you're definitely going to need your next evolution. Unless you want Sylbera to be constantly handling the telepathy for you."
+
+"I'd be lying if I said the constant telepathy wasn't convenient. I wouldn't be able to talk and eat without it. Still, I'd prefer some independence. What if it suddenly stops working?"
+
+"Like if something happens to me?"
+
+"I don't think anything can happen to you at this point," Vee snorted. "No, I need to correct that… There's probably a good chance you'll blow yourself up or get lost in a dimensional warp or something even more absurd. But, I was more thinking about something that blocks telepathy, or maybe a person or creature that can't be talked to with it."
+
+"I suppose that makes sense. Although you can at least talk to Leon without my help."
+
+"Ugh… I don't even consider that an option. Other than being stuck in this [Experiment] situation together, we have almost nothing in common. Besides, when he's not building, I basically never see him; he's always cooped up in his shell working on something."
+
+I couldn't help but laugh at that. To me, it sounded like they had more in common than she was willing to admit, as a certain spider had been cooped up on the island until I forced her out. Of course, I was just as guilty, as my moments of magical seclusion were probably far worse than Leon or Vee combined.
+
+With Vee's training done, we took a short break to watch the sights and eat some food, during which Vee shared some stories about her progress with our goblin chef. From what I could tell, Glooz was making some considerable progress, although he seemed inexplicably drawn into recreating his "gloop" masterpiece despite all of Vee's punishment.
+
+"I don't know what's wrong with him. The worst part is his cooking levels are at such a level that he should be able to create something delicious from dirt, but that foul concoction of his defies all of that."
+
+"At least Yuzz is doing well, although she's still very much a handyman rather than a specialized tailor."
+
+"That she is, her omnicrafter profession is great for filling in any gaps. Also, I can see why you two got along; she's smarter than the average goblin."
+
+"I feel bad about not spending more time with her, but even when I say I'm taking a break, I end up messing around with magic or something else."
+
+Vee sighed. "Well, at least you admit it. That's a start. Which reminds me, when are you going to go speak to your old friends?"
+
+I froze. "What do you mean?"
+
+"You know exactly what I mean. You ran away before asking about them, didn't you?"
+
+"I might have done something like that…"
+
+Vee sighed. "What was the point of working like a maniac to create that absurd [Landmarks] spell then? I thought you wanted them to know you are alright."
+
+"Well, they should know I'm fine now, thanks to Keldenar… He's announcing that he's protecting Princess Sylthaeryn."
+
+"Which isn't you."
+
+"I mean… Kinda…?"
+
+"I know she's copied mostly from you, but that's not you. Sylthaeryn won't be going out adventuring."
+
+"I mean, what are you suggesting? I based my entire appearance on her. I still can't exactly wrap my head around just abandoning it, and that includes the subtle changes I made to it. As for when I might try seeking out my old friends… I was thinking after I reached diamond rank."
+
+"I guess that's fine… You only need to beat two more labyrinths for that?"
+
+I nodded. "Although I'm still not sure what to say. Especially if there are two of 'me' running around."
+
+"Actually… Maybe you could use that?" Vee suddenly suggested.
+
+"I don't think that's a good idea. That might make people think I'm a doppelganger, which, if that demon is to be believed, is a despised species."
+
+"I still can't believe you ran into that demon again… I'm almost sad I didn't get the chance for a rematch, since last time all I could do really was watch. But that's besides the point, no. What I'm saying is, you could say you're Sylthaeryn's body double. You could use the whole assassination plot to your advantage."
+
+"I'm not sure I follow… Is that another one of your world's things?"
+
+"I'm pretty damn sure this world has body doubles. Ask your golemancer friend about it."
+
+"I just wrote a note for Sylvester," I replied. "Anyway, please continue."
+
+"Okay, listen up. So you say that you're Sylthaeryn's body double. The whole adventuring thing was to bring more attention to yourself so that the 'real' Sylthaeryn was protected. Not only that, but you were also hoping to lure the assassins after you, so you could capture or eliminate them and hopefully resolve the situation."
+
+"That actually makes sense."
+
+"I know, I'm a genius, aren't I?" Vee said smugly. "Anyway, with Keldenar now officially protecting Sylthaeryn, that means Syl is kind of out of a job. Therefore, Syl is now able to walk around and do whatever she wants."
+
+"Wow… That genuinely sounds like it might work. It's much better than the sort-of plans I came up with."
+
+"Oh? What did you have in mind?"
+
+I blushed and shook my head. "Don't worry about that. Your plan is way better."
+
+"I bet you didn't even have a plan yet. Probably were too busy fooling around with magic," Vee snickered.
+
+"Speaking of magic, I think it's time you started teaching me [Mana Shaping]!"
+
+"Wow… Nice segue," Vee said, dripping with sarcasm.
+
+"Come on. You promised. It's the least you can do after everything I taught you."
+
+"Hey, no need to guilt-trip me. I said I'll do it, so I'll do it. Sheesh…"
+
+I immediately brightened up and stared eagerly at her, which seemed to cause Vee a bit of turmoil.
+
+"Listen, I'm not the best teacher, so don't get your hopes up. You're the magic expert between us, so don't blame me if things are rough…"
+
+"Don't worry about it. I'm sure you'll do great."
+
+"I wish I could steal some of your optimism… Okay, umm… Let's start with something simple? Maybe how to overload spells."
+
+"Sounds good to me."
+
+I felt Vee wince; clearly, my optimism wasn't helping her situation, so I decided to tone it down a little. Just as she said, she started by creating a simple [Acid Dart] spell and began demonstrating it as she pushed it well beyond its usual limits.
+
+Obviously, I had empowered spells before, but the maximum was about a fifty-percent increase. This excluded [Magical Overcharge], but that was an entirely different effect that vaguely capitalized on creating an opposing force through the backlash.
+
+By my estimation, Vee's empowerment reached a hundred percent, and whenever I thought the spell would break apart, it was effectively hammered back into shape. It was a very brute-force approach, but I actually liked it, and, better yet, perhaps thanks to [Mana Dominion], I could understand it.
+
+I'd watched Vee work with magic before, and while I wasn't blind to what she was doing, it was ultimately incomprehensible. Now, though, I can actually get a relatively clear picture of what's going on.
+
+One thing I noticed was that Vee would preemptively temper the spell; she would empower it and immediately "strike" it with her willpower hammer, before any signs of instability had even shown. Whether this was instinctive or done at random, I couldn't tell, but it proved that preventive measures were better than reactive ones in this situation.
+
+Once the spell goes out of control, it can be almost impossible to bring it back. Yes, I think I get it… I think these lessons are going to be better than Vee realizes.

@@ -1,0 +1,171 @@
+---
+id: e8df24a6-2980-55c0-b085-160b0a9f75da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 341 : Volatile Situation"
+slug: 0042-chapter-341-volatile-situation
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 42
+ownLength: 2186
+unit: words
+ownProgress: 2186
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2970188/chapter-341-volatile-situation"
+royalRoadId: "2970188"
+markedReadAt: "2026-06-29T19:43:12.522Z"
+---
+
+Ignoring the hagfish incident, our hunting experience was actually quite enjoyable. Contrary to what I thought, Vanessa also fought alongside me from time to time, and we made quite the duo.
+
+Vanessa wielded a cutlass and, occasionally, a dirk in her offhand, and she was quite proficient with both. Not only that, but she was particularly agile and gracefully glided around like she owned the place.
+
+My curiosity piqued, and on one of the rare occasions, I actually handled the conversation between us, rather than leaving it to Alpha and [Roleplay].
+
+I asked about her class curiously, figuring it was some water-based agility warrior type, something similar to what Kurt was going for. Vanessa was more than eager to tell me more about her, and she held nothing back.
+
+To my surprise, Drownblade was actually a hybrid warrior-rogue class, to which Vanessa was quite proud of. Of course, I brought up the fact that the adventurers looked down upon hybrid classes, finding them often lacking against someone with a dedicated class.
+
+Vanessa actually agreed, noting that most mermen felt the same way, except for one big exception—specialized hybrid classes.
+
+"Normally with a hybrid class, you're never more than the sum of your two parts. With specialized hybrid classes, however, you can overcome that," Vanessa explained.
+
+It was an interesting theory, although to borrow another Vee-ism: "the math wasn't mathing." If a hybrid class was two fifty percents, adding up to one hundred, then according to Vanessa, a specialized hybrid was two seventy-five percent, adding up to one hundred and fifty.
+
+The restriction was obviously the specialization; Vanessa could only demonstrate this while fighting in the water. But the flaw in my mind was that the same could be applied to a specialized warrior. Wouldn't a water-based warrior just be a singular one hundred and fifty?
+
+Vanessa, however, disagreed and said that two classes get more out of a specialization than a singular one, and that was why hybrids were better in this case. I could only accept her explanation, as Sylvain wouldn't disparage her, but it still made my core itch.
+
+I've always thought that people overlooked the hybrid classes far too much. I enjoyed my time as a Shadowcaster, and even now, Elementalist is basically a mega hybrid class between hydromancer, pyromancer, aeromancer, geomancer, and all the rest of the intermediate elements, too!
+
+During our hunt, I even gained my first racial level since evolving, giving a much-needed trait point to my rapidly diminishing reserves.
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 2.>
+
+<17 Trait Points are now available.>
+
+Sadly, a class level didn't come with it, but I was still happy and left Alpha and [Roleplay] to handle Vanessa while I contemplated my trait point situation.
+
+I can only afford to uncap one trait at the moment… which means I need to be extra picky. [Core Collective] is my ideal choice, but it might not be my first to reach level ten. [Chimeric Mimicry] would be my second choice, but it's not even level nine yet.
+
+There was a good chance that [Soul Sight] would reach level ten first, although I couldn't see a reason why I would uncap it right now, if at all. [Mana Circulation] was another, but did I really need more Mana regeneration? [Soul Mastery], though, was a worthwhile choice, in my opinion, but it was unfortunately in the same boat as [Chimeric Mimicry], as being hard to level up.
+
+No… I think [Core Collective] is the best choice, considering [Chimeric Mimicry] is too far away. I have a good feeling it will finally let my [Sub-Cores] work outside of my slime, and if it doesn't, I'll go straight to the big man in charge and complain about it!
+
+The unfortunate part was that it had leveled up somewhat recently, which meant I was pretty far from getting it to ten. Of course, there were a few ways I thought of to intentionally increase its experience gains. The first was obvious: buy more [Sub-Cores] and have them all work endlessly inside [Core Storage].
+
+But my trait points are so low… I'd love to buy more, but I can't afford it, or I'll have nothing for [Chimeric Mimicry].
+
+The other option was to intentionally damage all my cores to improve their durability and repair them. I could even go so far as to break them if I were truly desperate, as part of [Core Collective] was to reduce reforming costs.
+
+I do have a lot of slime stored, and I could certainly afford to be a bit wasteful. Not to mention, I should be getting a lot more slime mass when I defeat the mermen.
+
+Despite knowing full well that I was being irrational, it was hard to shake the feeling that I was "wasting" slime. It was only more infuriating that, as Vee rightly pointed out, I didn't feel the same way about [Nitro Slime].
+
+I'll just have to force myself to bear it. Uncapping [Core Collective] will be worth it, I'm sure of it!
+
+Eventually, Vanessa led us back to Azulean, and she was pretty proud of it. She had gained a lot of levels from our fighting, as she had slightly skewed the experience distribution towards her favor. Figuring that out had peeved me off, but it was still a far cry from what Krutz had pulled off with that bear.
+
+We dropped off our spoils, leaving it to the mermen peasants to prepare. Meanwhile, Vanessa was basking in the shock and awe of the sheer amount we had accomplished, and throughout the entire trip back to the human pen, she was glowing with pride.
+
+Returning to Sylvain's "home", they spent some time together. Right as it looked like Vanessa was about to leave, she suddenly perked up.
+
+"I'm going to be forming my pearl," Vanessa declared.
+
+"That's… Good?" Sylvain asked.
+
+Vanessa surprisingly blushed before nodding. "Yes. I'm going to tell the Queen right away and start. Then we can be together forever."
+
+"I look forward to it," Sylvain replied, a cheesy grin on his face.
+
+"We will be apart for a bit… But please hold on," she urged. "If anyone bugs you, I hope you can get rid of them with some trinkets."
+
+Sylvain agreed, and after an awkward goodbye between the two that I refused to watch, she departed. I cringed and promptly dropped [Roleplay].
+
+I guess I'm on a time limit now. I'd better get to work.
+
+I began exploring the underground again, using the time to refresh the priming of all my hidden bombs. At the same time, I left Alpha with instructions to give away as many "gifts" as possible. It was a good thing I did so, as, like clockwork, the vultures returned shortly after Vanessa's departure.
+
+While I was exploring, I also happened to notice that Vee had not only gotten closer but was also vaguely above my location. I figured she must have come searching for me, but unless she had a way to teleport straight to me, then the deep water pressure would be too much for her.
+
+That reminds me, what about that Leon [Experiment]?
+
+Unc had asked me to save him from the mermen, but I had no idea how to go about it or even who or what I was supposed to be saving. With that reminder and my underground network, I tried to go about sensing the various inhabitants of Azulean.
+
+Unfortunately for Unc, unless Leon happened to be a mermen or human, then he wasn't here. On the slim possibility that he was somehow captured and beyond my senses, then I would just have to hope he could escape during the chaos.
+
+I continued my plotting even throughout the "night" cycle, where the mermen turned down the lighting and went to sleep. Everything was going as planned until I got a signal from Alpha—someone was approaching my home.
+
+Who would bother me this late? I smell trouble.
+
+I hastily retracted everything, but I kept a steady supply of slime in my house. If there was a chance of a fight, then I wanted to have all the cards in my favor.
+
+At the same time, I extended a bit outside of my house, so I could observe who was approaching. There were two figures: a beautiful mermen woman and Lewis.
+
+"Are you sure about this, Amelia?" Lewis asked in a hushed whisper.
+
+"Yes. We need to act before she gives him her pearl," Amelia replied calmly. "If we miss this golden opportunity, then we will have to settle for being in their shadow."
+
+"Surely not?" Lewis asked. "I'm a few levels away from my next ascension. I'm sure we will be able to match them."
+
+Amelia shook her head. "I heard about their hunting report and also had a friend do a thorough [Identify] on him. Unfortunately, he's too far ahead."
+
+Lewis frowned for a moment before it turned to worry. "In that case, isn't this even a greater risk? What if you get hurt?"
+
+Amelia smirked. "That's what I'm hoping for."
+
+"But…"
+
+"Don't worry, even a scratch or two will do, and I can have almost anything healed," Amelia reassuringly replied. "If he harms even a hair on my head, then it will be all the proof we need to rid ourselves of him permanently. But, if Vanessa gives him her pearl, then that all goes away."
+
+"I understand…" Lewis sighed. "I just don't want anything to happen to you, my angel."
+
+Amelia caressed his cheek. "I trust you to protect me, my knight. And we only need a few moments for the prince on duty to arrive, sealing his magic and any chance he has for survival."
+
+Lewis shuddered at her touch before nodding in agreement, a confident smirk creeping onto his face.
+
+Well, this throws a wrench in my plans… I had hoped to have more time to prepare, but now I've got no choice in the matter.
+
+The king and queen were the only two I had yet to evaluate, but even if things went catastrophically wrong, I was confident I could safely escape. While teleporting might be out of the picture if they could lockdown magic like the prince and princess, I had numerous aquatic forms and both [Enchanted Fins] and [Aquatic Finesse] to my advantage.
+
+The two miscreants were outside my home, and Lewis opened the door and politely gestured for Amelia to enter. I had turned the entire inside of the house into a hidden den of slime, with only Alpha inhabiting Sylvain while the rest of me and my cores were either on the ceiling or under the floor.
+
+"Who's there?" Sylvain asked as soon as the two entered.
+
+"Is that any way to address your superior? Didn't Vanessa teach you any manners?" Amelia questioned.
+
+"I don't even know who you are, lady," Sylvain answered. "And I must have missed the lesson where uninvited guests are allowed to let themselves in. Especially this late at night. "
+
+"Don't you dare disrespect her!" Lewis snarled.
+
+Sylvain chuckled. "Oh. Seeing this roach crawling behind you, I guess that explains who you are."
+
+Lewis glared in response, but waited for Amelia to speak first.
+
+"I wonder where all that confidence comes from?" Amelia asked. "You're only a pet who has fallen for a simple charm ability. Do you even know that you're a prisoner?"
+
+"You're lying!" Sylvain snapped back.
+
+"Oh? You think so?" Amelia chuckled. "Then why are you here with the other human pets? Why aren't you living together with your precious Vanessa?"
+
+"I could say the same for your roach," Sylvain said, pointing at Lewis.
+
+Amelia smirked. "Lewis is my partner. We sleep together, eat together, and are together! Can you say the same about you and Vanessa?"
+
+Oh! Is she trying to undo the charmed effect? That's actually quite a clever idea, then Sylvain would snap and lash out at the mermen enemies.
+
+"I…" Sylvain stammered.
+
+"You're not even her first man," Amelia continued. "She's used you, brought you here as one of her many sacrifices to the mermen. Once she's done with you, she will move on to the next adventurer, like she has done before."
+
+Sylvain looked visibly distraught. Conflict and anguish were painted all across his face.
+
+Do you really need to go this far, Alpha? Or is this how you have fun?
+
+While Sylvain was mentally wrestling with himself, Amelia gave Lewis a small, hidden gesture. Realization flashed in his eyes, and he began to cautiously cast [Icicle], attempting to hide it from sight. When it was done, he fired it straight at Sylvain's leg, the ice shard appearing to pierce straight through as he cried out in pain.
+
+"Time to put you down like the stray dog you are," Amelia taunted.
+
+I mentally rolled my eyes and used my slime to close the door behind them. Lewis flinched at the sudden noise, turning to stare at the door that had seemingly closed by itself.
+
+The show was over, and it was time to close the curtains.
+
+Boom!

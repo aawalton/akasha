@@ -1,0 +1,415 @@
+---
+id: f7d66460-6332-5b1f-b579-bb8211919be6
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FOURTEEN: Scoot"
+slug: 0216-two-hundred-fourteen-scoot
+partOf: super-supportive
+position: 216
+ownLength: 4644
+unit: words
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2230849/two-hundred-fourteen-scoot"
+royalRoadId: "2230849"
+---
+
+214******
+
+Earlier that day...
+
+Anesidorans liked to joke that the current Brute councilor had forgotten how to get to his house, and he was just too embarrassed to admit it. When he wasn’t in meetings, he could almost always be found out in public—sunrise walks along the coast, lunch in busy restaurants or crowded parks, evening pick-up games at the courts and fields down in F.
+
+He never advertised his own whereabouts. He didn’t even travel with personal drones. There was no need to do that when he’d be spotted by thousands of Anesidorans every day, and some of them would do the advertising for him.
+
+He was a C-rank, a Strength Brute, raised in an apartment complex that had been torn down to build Nautilus Needle. He smiled a lot. He’d been summoned once. He had grandparents from three different continents.
+
+A man of the people. An Anesidoran to his core.
+
+Lute Velra was suspicious of him. The man was a politician, and Aulia was also a politician. They’d sat on the same High Council together at one point. There really wasn’t much reason for suspicion beyond that, but why risk falling for the likability of people whose careers depended on them maintaining a certain degree of popularity?
+
+Since come back from Convo class, Lute had been lying on the floor in his bedroom—exhausted, slow, and feeling like his muscles were made of something gooey.
+
+Pureed jellyfish. Or the slime that grows around bathtub drains when you don’t have a housekeeper.
+
+Since he was useless for anything more interesting right now, he was on Trime, watching a trio of F-city uni students who’d tracked down the Brute councilor in the wild to interview him for their followers. Lute had been paying a lot of attention to the news lately. He couldn’t decide if he was hoping to hear more about what everyone thought of his relatives, or if he was hoping to discover that people were getting tired of talking about them.
+
+Eventually it will stop. Eventually nobody will care about Aulia…who owned the Submerger. Or Orpheus…who sold the Submerger.
+
+Maybe Lute was actually watching the news because he wanted someone to announce that the Artonans had decided to permanently remove a select few Velras from Earth. For the sake of global security.
+
+He had seriously considered asking Parethat-uur to work on it. The Artonan wasn’t the most powerful person in the Palace of Unbreaking’s leadership, but he had a lot of energy and a willingness to annoy the higher-ups.
+
+The terms of the contract branded above Lute’s backside made badmouthing Aulia to the Palace difficult, but not quite as impossible as she no doubt thought. Lute only had to be miserable enough for Parethat to get worried about him and start demanding answers on the grounds that Lute’s mood was impacting his sacred duties. Or on the grounds that Parethat-uur considered instructing and molding Lute into the perfect Chainer to be his own sacred duty.
+
+But Lute hesitated to actually go through with anything major in that direction. At best, Parethat-uur might be able to get Orpheus sent off to vacation in an isolated place where he could no longer be used in plots to drown whole islands. Not a bad outcome.
+
+At worst, though…
+
+Lute was afraid Aulia might have enough pull to get Parethat-uur demoted and Lute reassigned to her own branch of the Palace. If she thought she really had to.
+
+And that would be the kind of situation he had no idea how to extricate himself from. Working under Aulia’s wing, surrounded by people she’d been ingratiating herself with since she was just a little older than Lute was now.
+
+He would have shuddered at the thought if shuddering didn’t sound like too much exertion for his drain-slime body.
+
+“… the new protected zones might be?” The question from one member of the trio that had cornered the Brute councilor drew Lute’s attention back to the video.
+
+They’d found him at a food truck called <<Global Dumpling>>, and he’d graciously stepped out of line to talk to them.
+
+Idiots, thought Lute. Did you really waste a question asking him to give you hints about where the Artonans are putting magical protections?
+
+After the Bunker Street incident, it was obvious that some people weren’t going to behave civilly if they thought incivility would get them into a better shelter than the one they’d been assigned. And it didn’t take many Avowed freaking out to cause problems.
+
+If Lute was the System, he wouldn’t announce where the extra protection was until he’d tucked all his favorite people inside it and barricaded the door.
+
+Sure enough, the Brute councilor didn’t reveal the locations. Lute doubted he even knew them unless a secrecy contract was involved.
+
+“What about the recent word from the Triplanets on evacuation priorities?” one of the interviewers asked next. “Who will the System teleport to safety first, and how will that be decided? What is the High Council doing now to…”
+
+He had an upbeat tone that didn’t match the audience’s feelings about the seriousness of those questions. The live comments below the video were suddenly peppered with derision and facepalm emotes instead of chatter about the councilor’s friendliness and the interviewers’ patriotic attire. They were all in green and decked out in Anesidora Forever gear.
+
+Yes. What about that evac priority decision, sir? Lute wondered, letting the councilor’s dilemma distract him from the fact that the floor was getting uncomfortable. Rolling over sounded like a pain. The last time I heard you say something about it, you were right there with most of the others, implying that you could actually do something to influence the Artonans about something that important.
+
+“As Anesidorans, and as Avowed, I think it’s time for us all to take a look at what we can do to strengthen ourselves in case anything like this ever happens again. Of course System decisions aren’t something we can control.”
+
+“Ha,” Lute said.
+
+The councilor was smiling his great smile, and he was looking at ease surrounded by people with cups of jiaozi and pierogi. But Lute was onto him. This wasn’t the tune he’d been strumming a couple of days ago.
+
+“What we do have control over is how we use the resources we already possess. Our powers. Our island. Where were you three when the sirens sounded? What did you do when the water came? And how, if you don’t mind the questions, did it make you feel?”
+
+Did he just decide to fix the interview by becoming the interviewer?
+
+That was something Aulia would absolutely do. Lute was thinking of starting a scorecard for each High Council member, since he was seeing so much of them these days anyway. Points would be subtracted every time they reminded him of his grandmother. He was going to live here forever, after all, so he might as well develop opinions about the people in power to—
+
+Knock, knock, knock, knock, knock, knock, knock, knock, knooock…
+
+Someone was tapping on the door to the apartment. Unusual. They didn’t get many knockers since almost nobody was invited over, and that knock had been magically altered.
+
+“Für Elise?”
+
+Knock, knock, knock…knock…
+
+It was “Für Elise.” Almost pitch perfect. Not quite.
+
+There’s a spell that makes knocking on doors a musical opportunity?
+
+“Not for Chainers. I’ve been robbed.”
+
+He dialed up his hearing in an attempt to identify the visitor. After one more melodic knocking session, he caught the sound of something sliding under the door. And then came the sound of something else being jammed under the door more laboriously. A girls’ voice was muttering about not wrinkling whatever it was, and then she said, “Next is…,” under her breath.
+
+She headed down the hall toward the stairs, and Lute let his hearing drop back to normal. But his curiosity was rapidly growing.
+
+A mystery had just happened. Two new things, slim enough to fit under the door, had entered the apartment. He was the only one here.
+
+Moving that far sounds about as easy as climbing Everest.
+
+What if there was a love letter?
+
+A coupon?
+
+An invitation to a secret high-Dex-only video game tournament?
+
+A note from Jessica?
+
+An envelope full of poison addressed to Aulia’s grandspawn?
+
+It’s probably a coupon.
+
+But what if it was one of the other things?
+
+Lute steeled himself and started to scoot bravely across the floor, still lying on his back and propelling himself with his sad jelly legs.
+
+He was slow, weak, and low on stamina. He hoped Parethat-uur didn’t call to coo at him about the beauty of balance. The guy was weird but sincere, and Lute would have a hard time saying the correct things back to him right now without sounding sarcastic.
+
+Not sure if he can detect human sarcasm, but let’s not test it.
+
+His head had made it out of the bedroom into the hallway. Way to go.
+
+He kept scooting, nice and safe and thankfully unwitnessed by anyone except for Sunny, who was no snitch.
+
+The Trime video was still playing on his interface.
+
+“That’s understandable,” the Brute councilor said.
+
+One of his interviewers-turned-interviewees was telling him she’d felt helpless and afraid for her family when she’d seen the lights go out in parts of F-city. She’d watched the disaster with other people from the roof of the skyscraper the System had told them to shelter at.
+
+“That’s understandable. That’s human. But don’t you think it’s in times of struggle when we Avowed should feel a little less human? And a little more like what we really are?”
+
+Scoot. Scoot.
+
+“Superhuman.”
+
+Scoot.
+
+“Earth’s defenders against chaos.”
+
+Scoot. Scoot. Scoot.
+
+“We have the best education system on this planet, but we fall short at educating our people when it comes to the very thing that makes us a united people.”
+
+Where is he going with this? Lute felt like he’d scooted a kilometer. He was about halfway to his destination.
+
+“Right now, it’s only an exceptional few who truly train themselves to handle disasters like the one we’ve just endured. Those exceptional few are critically important for Anesidora, humanity, and the Triplanets. You’ll never hear me or any other honest member of a lower rank deny it. Am I right?”
+
+A few people with lunches in their hands were listening in and bobbing their heads in agreement.
+
+“Maybe it’s time to ask even more of our exceptional few. And I believe it’s past time for us to give more training opportunities to our many.”
+
+Almost there. Lute had his eye on the bottom of the door. An envelope was waiting there.
+
+He decided he wanted it to be an envelope full of blackmail material on Aulia, delivered by someone who’d sensed Lute’s innocence and his willingness to torpedo his grandmother like she was an enemy battleship.
+
+A gift from a bright vigilante with a musical knock. She could have his gratitude but not his heart.
+
+Because Emilija had told Lute she was thinking about it.
+
+Lute had confessed to her that he was the one who’d given an F-rank Rabbit the power to break a Brute and outrun motorcycles. He’d had to so that she’d stop trying to get answers about what had happened from Healers and the System. But then she’d wanted to know why Lute would pile multiple wordchains on just her when he knew that Natalie and Hadiza might also be in trouble.
+
+And…yeah. That was a complicated question. He’d fumbled around with his reply until he panicked and blurted out the truth.
+
+She’d laughed. And said, “Oh. Really?”
+
+And they’d eaten cheese and crackers together, and she’d cracked jokes about his targeting method until he was sure that she wasn’t offended and also sure that she had the power to mortify him into an early grave. And he’d said the boldest thing of his life, not counting words spoken under the influence of self-confidence chains: “If you think I’m this funny, we should go out sometime.”
+
+And she’d said, “I’ll think about it.”
+
+In Lithuanian. Gorgeous language. Forget Artonan. He wanted to learn Lithuanian instead.
+
+While Lute slowly progressed toward the peak of his personal Everest, the Brute councilor had speechified some more. Now, he was talking about languages himself.
+
+“How many languages do you speak? Fluently?”
+
+It wasn’t only his interviewers who’d become part of his audience. He was asking people in the food truck line the question.
+
+“Three.”
+
+“Five.”
+
+“Three.”
+
+“And you learned at least one of them in school, didn’t you? You studied it for years because we prioritize that for our young people. Then one day you’re a Brute, a Meister, a Shaper. ” He nodded toward a guy who was floating balls of tea from his cup to his own mouth. “A Water Shaper. Or a rare Tea Shaper”
+
+Everyone laughed except for Lute. He was almost…
+
+Scoot.
+
+Almost there…
+
+“Did anyone teach you how to protect yourself with Shaping in school?”
+
+<<I had some electives at Franklin,>> the man said. <<Basic Shaping. Water Arts.>>
+
+“But did any of that really prepare you for an emergency?”
+
+Lute’s hand touched the first offering from the musical knocker. It probably wasn’t blackmail unless blackmail possessors regularly used envelopes that changed color in response to being touched. The soft tan paper was turning a brilliant gold beneath his fingers.
+
+That’s pretty.
+
+And it had his name written on the front.
+
+The second half of the delivery was paper, too, but it was a little thicker. A white rectangular booklet of some kind, with a logogram on the front.
+
+You’re the one that was hard to wedge under the door.
+
+Lute grabbed it, turned off the councilor, and opened the envelope first. He read the single-page letter inside several times over the next minutes.
+
+“I scooted all this way for junk post,” he said finally.
+
+Though it was the fanciest junk post he’d ever gotten. And thought-provoking whether he wanted his thoughts provoked or not. He didn’t need to open the booklet, since the letter explained what it was, but he did anyway.
+
+He stared at it. He thought about the contents.
+
+What was inside made him remember the clarity he’d found on that night when he’d been asked to sweep up the splintered shards of a carving Hazel had thrown. He remembered finding a condom in a school desk, the sound of dice rattling in their bags, the taste of the brownie he’d eaten in the locked dressing room with Jessica on the day he’d announced his selection.
+
+S. Baby, you’re going to be an S-rank! For the rest of your life, nobody can take that from you.
+
+And then a more recent memory—the way he’d felt running right into one of those dark, dangerous neighborhoods that others had only seen from the rooftops of the safe buildings the System had sent them to.
+
+Lute had trained his fingers for harp strings. But he’d bent steel with them there in the dark and then reached with them for the only man he felt like calling a father. So fearfully careful. So soft.
+
+Pianissimo.
+
+The gentlest of notes, played by a boy who finally saw how life might be hard even for the people who lived in the sky.
+
+“Yep. This is junk post.”
+
+He’d keep it, though, and turn it into an art project. He dialed his ears up once more and listened to the dorm. Down the hall, someone else had received the same kind of delivery, and the musical knocker—a professional courier, Lute decided—was banging out “Ode to Joy” on a door upstairs.
+
+Curiosity satisfied, he stopped eavesdropping. He had a long trip back to the comfort of his bedroom floor. He turned the video back on to entertain himself during the journey, but the interviewers were letting the councilor eat now. Instead, they were prattling about how SAL could do anything, anything at all, and how they felt the councilor really had it right. Anesidora needed a more prepared populace.
+
+Lute had heard some news earlier this morning and yesterday with this same tone.
+
+“And you know,” said one, “I’ve got to say that Aulia Velra also has a point. She’s been talking abou—”
+
+“Aghhh.”
+
+Lute shut them up by shutting them off.
+
+My life isn’t normal. All I did was be born, and it came out like this. Why is it this way?
+
+A new sound all of the sudden.
+
+Ka-click, ka-click.
+
+Lute turned his head toward the noise. The robot vacuum was waking up. He was in its territory.
+
+Whirrrr!
+
+“So this is how I die.”
+
+******
+
+******
+
+Haoyu came in a little while later and bent over to stare into Lute’s eye. “Why are you in the middle of the hallway letting the vacuum circle you?”
+
+“It’s bullying me,” Lute said. “It knows I’m too weak to escape.”
+
+“Should I move you for it?”
+
+Lute frowned. “Aren’t you supposed to ask if you can move it for me?”
+
+“It cleans. You just lie around in its way.”
+
+“Fair. Drag me to my room and leave me there to rot.”
+
+Haoyu grabbed Lute’s arms and dragged him the rest of the way into his room, then hopped up to fetch the fried egg pillow from the loft bed.
+
+“My life is a mess, Haoyu.”
+
+“You’re just having an interesting time.”
+
+“What if all of our lives are like a television show the System is playing to keep itself entertained?”
+
+“Did you cast a wordchain that makes you loopy?”
+
+“I could be its main character for this season. It would explain a lot.”
+
+“Why would it want you as a main character when it has me?”
+
+They made fun of each other until Lute was too exhausted to keep up, then Haoyu left to do math.
+
+Lute covered his face with his mail to block the light instead of asking Haoyu to come back and hit the switch. He dozed for a while, drifting in and out of awareness until he heard Alden’s voice.
+
+He was back. And offering food.
+
+Lute put in a very realistic and small grocery order that was soon being mocked by two jerks. He tried to channel his affront into a desire to scoot again.
+
+Tacos sounded good.
+
+******
+
+******
+
+“You guys are going to enjoy this. I hope. It’s the…what’s the best kind of steak?” Alden stood at the counter, waving his hand above the surface of an electric skillet he’d borrowed from the community kitchen.
+
+It had been an uneventful trip back to campus. He’d swung by the MPE building on the way, wanting to see the terrible anti-B-rank protest that Liam Long thought might change the fate of Celena North if they didn’t fight back. But he’d found no protestors whatsoever and plenty of chattering teenagers heading to and from class.
+
+“Filet mignon,” Lute said from where he was slumped at the table.
+
+Alden stopped hovering his hand over the skillet, satisfied that it was around the same temperature as the hot rock he and Stuart used to sear meat petal.
+
+“I’ve liked every steak I’ve ever tried.” Haoyu was using a marker to write “Duck for Van Nutmeg” on the bag of precooked chicken tenders Alden had bought when he couldn’t find anything more similar to the rilletes Lute wanted.
+
+Lute hadn’t noticed yet. He was resting his chin on the table and staring at the stack of ramen Alden had dumped in front of him. He’d said that the wordchains he was paying off would end soon enough, and he’d be able to eat. At the moment, though, Alden was worried he was going to fall out of his chair and hit the floor with all the grace of a half-cooked pancake.
+
+“Hey!” Haoyu protested as the chicken tenders were snatched away from him by Lexi, who’d come back to the apartment to attend a video lecture in the peace and quiet of his room. He’d changed course at the sight of all the groceries sitting around.
+
+“I was labeling that!”
+
+The tenders were already going in the fridge, and Lexi was looking at the two baguettes accusingly. They must not have fit in with his organizational scheme for the shelves.
+
+“Ribeye,” he said, stacking the bread in the corner. “My Dad likes ribeye. And I do. It’s good.”
+
+“Then this is the ribeye of plants,” Alden announced, opening the bundle of meat petal Stuart had given him and holding it out to show off the identical pinkish slices of vegetable.
+
+“Looks like a cross between salmon and watermelon,” Haoyu said.
+
+Lexi stepped closer to see better. “It’s not going to hurt us if you cook it wrong, is it?”
+
+“No.”
+
+“That’s right. If it digests meat, and we eat uncooked pieces of it, do our stomachs win versus it? Or does it win versus us? I’m sure I’ll survive as a Dura Brute, but what about the rest of you?”
+
+Lexi frowned at the meat petal and then at Alden.
+
+Lute lifted his head a few inches. “Digested from the inside out.”
+
+“Meat petal is safe when raw! Do you three think I just walk around eating poisonous things?”
+
+A recent memory crossed his mind as he said that. He turned hastily to the pan and dropped a piece of the meat petal on it. “It’s really good. You’ll see. Lexi, I’ll even let you grill some with Writher if you want.”
+
+“I’m not going to grill with—”
+
+“You could make grill marks with it. In all kinds of patterns.” Haoyu looked at the whip.
+
+“You’re both confusing me with Jeffy. I’m not going to grill food with it.”
+
+“Why not?” Haoyu asked. “You open bottles. Alden got you all these new marshmallows to practice with. Don’t just practice picking them up this time! Think grander thoughts. Grill them to perfection.”
+
+“You just want an excuse to make s’mores.”
+
+Despite Lexi insisting he needed to get back to work and Lute looking about as vibrant as a sodden dishrag, it wasn’t long before the four of them were sitting down at the table together around a hot pan of meat petal.
+
+All the condiments Alden had bought to go on the tacos were scattered around the skillet. Haoyu was ripping the top off a bag of shredded cheese, and Lexi was opening a tub of pre-sliced peppers. There was a snapping sound, and part of the plastic lid broke off in his hand. He dropped the container and the lid fragment and stared at them.
+
+“So strong. Honorary Brute,” said Haoyu, adding pieces of steaming meat petal to a tortilla.
+
+“Next thing we know you’ll be ripping the knobs off the doors,” Lute said.
+
+Lexi was still frowning at the lid. “I think it was a faulty package. Not me.” He picked up the container and held it toward Alden. “You try to break it.”
+
+Alden had just taken his first bite. As he’d suspected, meat petal was a natural fit for Mexican food. Cruel circumstance had caused it to evolve on the wrong planet.
+
+He swallowed. “Do you seriously think I’m weaker than a plastic tub?”
+
+“I just want to know if I made a mistake or if the packaging is bad.”
+
+Lexi wasn’t the type to clumsily destroy things. If Writher wasn’t involved, anyway. But he was the type to worry excessively about mistakes.
+
+Alden took the container and pried on the remaining lid. Almost immediately, he heard a snap and saw a crack forming.
+
+“Yeah, it’s brittle. You weren’t unnecessarily destructive or anything.”
+
+Relief spread across Lexi’s face.
+
+“Alden, this is amazing,” Haoyu said suddenly. “It tastes a lot like steak. The texture’s different, but I like it. Why don’t people import this?”
+
+“Right?” said Alden. “I should quit the hero program and take business classes. Found a company that brings better meat substitutes to Earth.”
+
+“Become richer that the Grandwitch.” Lute was speaking into the wooden tabletop now. “Buy all the things she wants before she can have them. Steal the politicians. Take all the real estate. Burn her evil empire to the ground.”
+
+“I think you might be projecting your own dreams onto mine there. Speaking of people quitting the program…did any of you hear about some kind of protest? One against B-ranks being allowed in Talent Development?”
+
+“No,” said Lute.
+
+“You’ve barely left the dorm.” Lexi carefully arranged three slices of pepper on his tortilla then reached for the meat petal. “Not that you would have noticed the protestors anyway unless you were in the right place at the right time. It was only a few idiots. Instructor Klein scared them off about twenty minutes after they showed up.”
+
+“Six people carrying embarrassing signs without a protest permit isn’t much to think about,” Haoyu added. “You’re not worried, are you?”
+
+“I just found out about it from a guy I ran into at the store. He made it sound like a crisis for all the B-ranks in the program…but he’s not the most logical person I’ve ever met.”
+
+“Let me guess. Were the protestors a group of A’s who couldn’t make it into the high school hero program, and who probably won’t make it into the uni one either, because they were raised to think a special letter would open every door for them?” Lute asked. “And now they’re shocked and appalled to discover that Apex is full of other high ranks who don’t find them impressive.”
+
+“Wow,” said Haoyu. “You sat all the way upright for the first time since you came in here, and you used so many words. Are the wordchains finished?”
+
+“Not quite. Almost.”
+
+“You’re running on pure judginess then. Impressive.”
+
+“That was accurate, though,” Lexi said after swallowing a bite, blinking, and then giving Alden a rare look of approval. “So many people tell themselves that they barely missed the cut-off for Talent Dev. That they had unfair interviews, unfair fights…some of them are probably right, but a lot of them who aren’t right are going to blame anything and everything but themselves.”
+
+“Those protestors must have killed whatever chance they did have of entering the program in uni, though,” Haoyu said. “Waving a sign that says, ‘Why a B Instead of Me?’ in Max’s face while he was minding his own business on the way to class did not make them look like they’d be good representatives for Anesidora or the school in the future.”
+
+Alden agreed that bothering current students and Instructor Klein during school hours was a nail in the coffin for those few peoples’ chances of getting what they wanted. But being bold enough to make a scene in the first place meant they expected some others to agree with them, didn’t it?
+
+He remembered the huge crowd that had come to observe the advanced gym class. And Max pointing out that it didn’t even include all the teens in F-city who would have been watching through interfaces because of restricted travel.
+
+“A couple of weeks ago, Max was thinking that the applications for January entry into the program might be more than normal. A lot of first years from our Science and Arts programs and the other Apex schools came to the observation period for Talent Development this time. He thinks it might have been good that he and I got in when we did.”
+
+Haoyu and Lexi exchanged a look.
+
+“I have heard that it will be big,” Haoyu offered.
+
+“A lot of people are going to apply,” Lexi agreed. “Have applied. Some have been mentioning it in classes. But…I wouldn’t think Talent Development would quit accepting B’s altogether.”
+
+“I want to comment on this.” Lute let his head flop back onto the table. “Just give me ninety-four seconds and a taco, and then I’ll be ready.”******

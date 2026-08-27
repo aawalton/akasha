@@ -1,0 +1,153 @@
+---
+id: 6677f2b8-0f14-5835-b319-a538c4707491
+page-type-slug: story-chapter-royal-road
+title: "Chapter 402 : Traveling Visits"
+slug: 0104-chapter-402-traveling-visits
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 104
+ownLength: 2347
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3669545/chapter-402-traveling-visits"
+royalRoadId: "3669545"
+---
+
+Traveling by following the direction pointed out by the little golem revealed that, despite having the ultimate form of travel through [Dimension Magic], I was still limited to having been there first. Yes, I could use [Blink] across the horizon, but it wasn't nearly as fast as I'd like.
+
+What I really would've appreciated was a form of long-distance teleportation. While I could've thrown in some guesstimated coordinates, it was at risk of ending up inside a mountain, or even underground, depending on the curvature. If system-recognized points of interest had been shared, [Landmarks] would have been a potential solution, but life wasn't that convenient.
+
+Not that that was even possible for me, as despite Keldenar sharing the location to my adventurer tag, I couldn't access it with [Map]. I had tried a few times, but it seemed this item was created specifically to interact only with the skill. When I mentioned it to Vee during one of my return trips, she laughed and threw out a joke.
+
+"It sounds like the guild doesn't like your bootleg version of the skill. That's what you get for pirating," she cackled.
+
+I couldn't share in her amusement as most of what she was saying, as usual, went completely over my head. Considering Leon gave a small chuckle, I could only imagine that Keldenar would also get a few kicks out of their shared humor.
+
+I had obviously taken the time to inform her of everything that happened, and Vee seemed genuinely worried for a moment. From her perspective, I'd gone out for only a few days and had my secret identity instantly exposed, from a threat that I couldn't easily deal with. When I mentioned his golems using dungeon materials to prevent teleportations, even Vee seemed vexed.
+
+"Unlike the holes you tear in space, I can't do anything against that," Vee sighed. "Even [Veil Step] obeys dungeon restrictions. I probably need a new skill from a higher level."
+
+"Maybe you should do some leveling," I suggested.
+
+Vee shook her head. "I'm putting it all towards my race, though. I want to evolve and get to talk without one of your [Sub-Cores] hooking me up with a telepathic phone."
+
+"Honestly, I completely forgot about that… At this point, I just expect you to be able to talk," I admitted.
+
+Vee sighed. "I do too sometimes, until I try to talk when Sylbera or someone else isn't around and I'm met with silence. Thankfully, it's only happened a very few times, but it's still unnerving."
+
+Considering Vee could talk with Leon, that meant she probably had a situation with the goblins, unless she was trying to have a social visit with Vanessa, which I doubted. The mermen pretty much refused to talk to anyone except Sylvain, and apparently, my summons had caused her quite a lot of distress.
+
+As for Keldenar, Vee wanted to meet him but agreed to wait until it was declared totally safe after the dust had settled for a while. She kept calling herself a "juicy steak of experience points" that any adventurer would love to claim, while also saying she lacked my "cockroach tenacity" to come back from death. I ignored the slightly insulting remark, as it was true, especially if I could revive into another slime network.
+
+Not that I'm willing to test that. Just imagine trying to explain that to Gramps if I'm wrong.
+
+Since I could save my location and resume my journey to the labyrinth at any time, I also went back to Keld a few times to check on Sylvester. The first time I came back, I was met with intense jealousy from Keldenar over the convenience of teleportation. My second visit was full of Sylvester, revealing the golemancer going on a rant about wishing he could just pop back home whenever he wanted.
+
+Looks like his ability to swap places with a golem does have a range limit. Good to know.
+
+As for Sylvester, he was apparently having the time of his life. Not only did he get to indulge in enchanting, but he also got to take a brand new class like never before. In just a short few days, he'd gone from being able to control only a single golem to three, all of them made out of ice for now.
+
+"[Golem Control] seems quite easy to level up, but [Golem Refining] is frustratingly slow. I can't even use ordinary metals at the moment, and I'm not sure if it's an error or oversight that I can refine [Permafrost]. It's far above regular materials, but it's giving me almost no proficiency experience," Sylvester complained.
+
+"Maybe it thinks it's just normal ice, which would be a terrible material for golems?" I suggested.
+
+Sylvester nodded. "Keldenar and I had the same theory. But making shoddy rock golems feels so… Inferior."
+
+If I weren't a little jealous, I might have felt bad for Sylvester; he was simply too used to using some of the best materials through slime replication. Interestingly, I noticed that Sylbera didn't seem to have this issue, and she threw herself at the low-quality metals without a word of complaint.
+
+Hmm… I wonder where he gets that from? I certainly didn't intentionally put that in him. Oh well.
+
+Understandably, he hadn't made much progress in combining [Identify] and [Rune Reading], with his time being consumed with either golem creation or enchanting. I didn't mind, especially with the latter being highly beneficial, focused mostly on unraveling the ancient teleportation pads that the Adventurers Guild used.
+
+While the actual technology was useless to us, with Vee's Web portals being far superior, I had the feeling it would be very beneficial if I were ever to create [Dimensional Praxis]. The fact that these enchantments still worked, without any Riftmancer or otherwise, spoke volumes about the prowess involved in their creation.
+
+I also learned through Sylvester that Keldenar apparently really wanted me to experience being teleported around. He called it the dream of any adventurer to have the world at their fingertips, but he was likely hesitant as he had his own reservations about me. Yes, on his home turf, he was totally confident he could overcome anything, but at the moment, he wasn't going to risk being teleported to who knows where.
+
+I was actually rather relieved to see he was somewhat cautious around me. If he had been blindly trusting of me, I would have thought he held ulterior motives. While I wouldn't call it mutual respect, it was probably the closest thing to it, as during our battle, he had shown zero fear of anything I threw at him.
+
+As for my traveling, it was surprisingly light on interesting sights. The labyrinth was even further north, in an area known as the wastelands, according to Keldenar. Before I could even ask why it was called that, he laughed and said, "You'll understand when you get there," and, true to his word, it became absolutely apparent.
+
+The wasteland was a mixture of desert and scorched rock, with barely any signs of life. The monsters that roamed these parts were either insectoid or undead. I did find a few emaciated-looking orcs, but when I actually fought them, I soon discovered they were unliving ghouls.
+
+Because of this, I didn't see much point in sightseeing, so I continued hastily following the path pointed out by the golem. One benefit of this area was that there were almost no prying eyes, and I could do whatever I wanted, since it seemed extremely inhospitable to anything living.
+
+On my next return, I asked Keldenar if there was a guild outpost at the dungeon, but he shook his head. "The area is too wild, so the guild gave up. Plus, the labyrinth isn't popular enough, so it didn't receive enough regular visitors to justify it. I did, at one point, try having some golems stationed out there. Unfortunately, their presence kept attracting wasteland monsters to attack them, and they eventually fell apart from continuous wear and tear."
+
+"I'm surprised to hear your golem army was defeated."
+
+"It's not too big a secret, and you'll find out from Sylvester, but the stronger the golem, the quicker it runs out of power. The golem cores are like batteries that are automatically charged when in the presence of their golemancer. If I want them to stay away from me for extended periods of time, then I need to keep them relatively low spec."
+
+"But… How do you sell golems then?"
+
+"Mana supplied by their new owners. Just because they are automatically recharged by being near me doesn't mean there aren't other options. Of course, being manually recharged isn't as effective, but it gets the job done. This is another reason why I like to design them for efficiency."
+
+"I'm guessing Mana potions don't work?"
+
+"Sadly, not. It was one of the first things I tried. I'm hoping that if I make them an official race, they will be able to self-generate. I certainly don't want to run out of power until a kind stranger donates me some Mana in my next life."
+
+I wonder if a blue slime core would work… Or better yet, if Leon could devise a solution? His artificer class might have some interesting solutions. I should have him work with Sylvester a bit next time he's on the island.
+
+I didn't want to mention Leon to Keldenar in case his excitement over such a class put me in an awkward situation. If even Vee was being cautious about coming here, there was no way Leon would agree to meet him. The cowardly crab had refused to leave the island, which only grew more extreme the further he fortified it.
+
+Which means realistically, the only way for them to meet would be to bring Keldenar to our island… Which would require a huge level of trust from both of us. It's better not to mention it for now.
+
+Keldenar also told me that I was pretty close to the labyrinth by examining the little golem guide he had given me. It was located at the heart of the wasteland and was apparently a somewhat historic site from back in the day.
+
+"It's why the place is such a mess," Keldenar sighed. "Apparently, it was the focus point of a demon king invasion. Ruined the whole scenery, which might be why the gods haven't allowed such an event to occur recently."
+
+"They allowed it?"
+
+"Yeah. You'll quickly realize that the gods of this world don't exactly always have the best intentions. If one of them grows too bored, they might throw out a world event and really shake things up."
+
+"Such as a group of people all reincarnated as monsters?"
+
+"Well, when you point it out like that, yeah… Sounds like someone must have gotten bored with the status quo and decided to shake things up. Although compared to a demon king, it sounds pretty mild."
+
+"Well, there is a dragon…"
+
+"Wait. Shit. Really? They let someone be reborn as a dragon?"
+
+I nodded. "And it's already destroyed a dungeon."
+
+"Well, that's dragons for you. Seems a bit unfair considering you got slime…"
+
+"I'll have you know I'm very happy being a slime. Sure, the start was rough, but if I get a chance to eat the dragon, I can be just as intimidating."
+
+"Hey, don't sweat it, you're the strongest slime I know…"
+
+"Aren't I the only slime you know?"
+
+"Yes… But that's besides the point. Anyway, I'd better refine some dragon-slayer golems just in case it comes into my territory. I bet that's worth an Emblem or some Legend Points."
+
+I sighed and dropped the subject. I wanted to brag that I had also destroyed a dungeon, but that would be too much info. I'd save that bombshell for when our makeshift alliance was a little more solidified.
+
+When I left Keld again, I didn't immediately head back to the wasteland. Instead, I took a slight detour to go see Juniper and Ygdran, to ask them if they knew anything about this labyrinth or my pending [Dungeon Master] status.
+
+As per usual, the tree was initially terrified by my sudden appearance, although compared to last time, it was a small improvement. While waiting for Juniper, I updated him on Logan's status, which seemed to improve his mood.
+
+It didn't take long for Juniper to arrive, who only seemed a little annoyed that I'd taken time out of her self-proclaimed busy schedule. With both of them present, I informed them of my pending status, but sadly, neither had any idea what I was talking about.
+
+"Sorry to disappoint, but we were both born into our roles," Juniper explained. "You might have better luck asking someone like Qhilleeqeth, although she might not have much more information to go off, as becoming a [Dungeon Master] was what allowed her to regain her sanity."
+
+"Never mind…" I sighed. "Anyway. What do you know about labyrinths? I'm near one that's located in the wasteland. I don't suppose they are in your dungeon alliance?"
+
+Juniper shook her head. "No, a labyrinth owner would never stoop to our level."
+
+"Stoop to your level?"
+
+"They're old… Very old," Juniper began to elaborate. "They are also usually the closest to reaching ascension, so they are confident and have the strength to back it up. They consider the rest of us babies, or in some cases, lesser species."
+
+"They're not the nicest bunch," Ygdran commented.
+
+"So you're saying I should be on good behavior?"
+
+"My actual advice would be to not get involved in them, but I know won't listen to that," Juniper sighed.
+
+"Look, I need to beat three labyrinths to get to my secondary class."
+
+Juniper shrugged. "Then sure, try to be on your best behavior."
+
+"Also, please don't mention us," Ygdran quickly added.
+
+I agreed, and since I had nothing else to talk about, I left them. It seemed that until I was officially a [Dungeon Master], I couldn't expect a warmer reception from the two of them.
+
+Best behavior, huh…

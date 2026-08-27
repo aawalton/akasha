@@ -1,0 +1,191 @@
+---
+id: 58dcb317-1197-56e8-99ae-13fd52200989
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: The New Town"
+slug: 0049-chapter-48-the-new-town
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 49
+ownLength: 1699
+unit: words
+publishedAt: 2025-12-28
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2887924/chapter-48-the-new-town"
+royalRoadId: "2887924"
+---
+
+Ren wiped his mouth with the back of his hand, looking at the pile of clean-picked rabbit bones with a sense of profound, almost religious accomplishment.
+
+"Waste nothing," he muttered, the mantra of every chef who had ever worked with expensive ingredients.
+
+He picked up the iron knife. With the practiced ease of someone who had watched way too many 'primitive survival' videos at 3 AM in his old office cubicle, he finished dismantling the carcass. He cleaned the spiral horn and rolled up the pelt.
+
+He held the horn up to the light. It was spiraled, ivory-colored, and sharp.
+
+"I wonder what this is worth," Ren mused. He tapped the air, bringing up the System Interface. He ignored the Shop for a moment and tapped a tab labeled [ANALYSIS].
+
+He squinted at the floating text. "Instructions: Focus the visual cortex on the target object. Vocalize command: 'Scan'."
+
+Ren held the horn in front of his face. He felt a bit ridiculous, speaking to a dead animal part in the middle of a forest, but he’d said stupider things in corporate meetings.
+
+"Scan," Ren commanded.
+
+I sighed internally. Manual input required. Great. I executed the script, careful to keep the response generic and robotic. A thin blue line of light swept over the horn. A text box popped up next to it.
+
+[Item: Spiral Rabbit Horn][Quality: Common][Description: A calcified keratin growth. Used in basic crafting or sold as vendor trash.]
+
+"Vendor trash," Ren repeated, grinning. "Music to my ears. That means liquid assets."
+
+He pocketed the horn and tied the pelt to his belt loop. Then, he navigated to the [Map] tab.
+
+The holographic topography unfurled. It was a local area scan. To the east, about three miles away, a cluster of grey markers indicated a settlement.
+
+"Town," Ren said. "Civilization. A market. A bed."
+
+He started walking.
+
+The journey was boring. Walking scenes are the bane of any observer’s existence. There’s no dialogue, no action, just the crunch of boots on dirt and the occasional bird noise.
+
+Since I couldn't talk to him without risking a factory reset, and since this wasn't an apocalypse world, I just watched him walk. It was peaceful. But my peace was the fragile, terrified peace of a teenager house-sitting for a strict aunt. I was holding the keys to a high-level Moderator's "project," and if I scratched the furniture—or if the Host broke himself—I was done for.
+
+An hour later, the trees began to thin. The smell of pine and damp earth gave way to the scent of woodsmoke and unwashed livestock.
+
+We crested a small hill, and there it was. The town.
+
+I rolled my metaphorical eyes. It was exactly what you’d expect from a budget fantasy novel. Wooden palisades, thatched roofs, and a dirt road leading to a heavy wooden gate. It looked like every starting town in every RPG ever made. I’d bet ten SPP it was named something creative like "Riverwood" or "Oakhaven."
+
+Ren, however, looked at it like he’d found El Dorado.
+
+"Ingredients," he whispered, inhaling the scent of baking bread like it was a drug.
+
+He marched down the hill and approached the gate. Two guards stood there, leaning on spears. They wore boiled leather armor and looked bored out of their minds.
+
+"Halt," one of them grunted, stepping forward. He looked Ren up and down. "Identify yourself."
+
+Ren didn't have an ID. He didn't have papers. In his old world, this would have resulted in a taser to the face and a night in a holding cell. But Ren had spent years navigating corporate security without a badge because he kept forgetting it at home. He knew how to handle bored gatekeepers.
+
+"Traveler," Ren said smoothly, adopting a weary, slightly traumatized posture. "I was coming from the capital. Merchant caravan. We were hit by bandits about ten miles back. They took the wagon, the horses... my papers."
+
+He gestured to his soot-stained shirt and the makeshift knife at his belt. "I barely got away with my life."
+
+The guard raised an eyebrow. It was a classic lie, but Ren sold it with the desperate exhaustion of a man who really had just survived a fire.
+
+"Bandits, eh? Been a lot of that lately," the guard sighed. "Standard procedure for undocumented travelers. Touch the Orb."
+
+He reached into a pouch and pulled out a swirling, cloudy blue crystal sphere.
+
+My heart stopped.
+
+An Identification Orb.
+
+Panic flared in me. I wasn't afraid of being detected—I was ghost-tech, invisible to their crude magic. No, I was afraid of Ren.
+
+These orbs scanned for Karma. They checked the soul for malice, for bloodlust, for major crimes.
+
+I looked at Ren. I didn't know him. I just grabbed the first compatible soul I found in the queue because I was desperate to get out of the void.
+
+What if he was a murderer?
+
+What if, back in his old world, he wasn't just a corporate drone? What if he was a serial killer who cooked his victims? The way he talked about that duck was borderline obsessive. The way he gutted that rabbit was too precise.
+
+If he touched that orb and it turned red, the guards would kill him on the spot.
+
+And if my Host died five minutes into the assignment because I accidentally picked a psychopath, I would have to explain it to the Moderator.
+
+It would be like someone asking me to watch their prize-winning poodle, and when they came back, I handed them a leash attached to a pile of ash and said, "Whoops."
+
+Please be boring, I prayed to the void. Please just be a guy who likes food. Don't be a villain. I cannot handle a villain right now.
+
+Ren reached out and placed his hand on the crystal.
+
+It hummed. The blue swirls spun faster.
+
+I held my metaphorical breath. The image of the Moderator looming over me, holding a delete key, flashed in my mind.
+
+The orb glowed a dull, harmless white.
+
+"Level 1," the guard read, looking at the text floating inside the crystal. "Class: None. Karma: Neutral. No criminal bounty."
+
+He lowered the orb, looking disappointed. "Just a civilian. Alright, you're clear."
+
+I let out a sigh of relief so potent it nearly crashed my UI. He was clean. He was just a boring, hungry guy. I wasn't going to get fired for gross negligence today.
+
+"Entry tax is two coppers," the guard added, extending a hand.
+
+Ren patted his pockets. He had 400 Dolarion in the System, but that was digital currency. He couldn't exactly swipe his wrist here.
+
+"I... the bandits took my coin purse," Ren said. He hesitated, then reached into his pocket and pulled out the spiral horn. "Will this cover it?"
+
+The guard took the horn. He whistled. "Horned Rabbit. Common, but decent quality. Yeah, this covers it. Go on in. Don't cause trouble, and wash your face. You look like you crawled out of a chimney."
+
+"Thank you," Ren said, bowing slightly.
+
+He walked through the gates.
+
+Unbelievable, I thought, my panic subsiding into snark. They just let him in because he's Level 1. Do they know nothing about storytelling? The Level 1 guy is always the one who ends up burning down the city. Terrible security.
+
+The town was bustling. Carts rattled over cobblestones. Vendors shouted prices. The smell of roasting meat and baking bread filled the air.
+
+Ren navigated the streets with a singular purpose. He found a general store, went inside, and slapped the rabbit pelt on the counter. He haggled with the merchant—a skill he had honed negotiating vendor contracts for paste viscosity—and walked out with ten copper coins.
+
+Next stop: The Inn.
+
+It was a rickety building with a sign that depicted a very drunk bear holding a tankard. The Tipsy Ursine. Creative.
+
+He rented a room for five coppers. It was small, smelled of wet dog and sawdust, and the mattress was stuffed with straw.
+
+Ren didn't care. He locked the door, sat down on the lumpy bed, and let out a long exhale.
+
+"Safe," he murmured. "Alive. Fed."
+
+He lay back, staring at the wooden ceiling beams.
+
+Then, he waved his hand.
+
+[SYSTEM MENU]
+
+He opened the Shop.
+
+I perked up immediately. Yes. Yes, my sweet consumer. You have money left. You have needs.
+
+Ren browsed the 'Consumables' tab. He ignored the health potions. He ignored the mana elixirs.
+
+He stopped at the carousel I had modified.
+
+[Recommended for You:][Small Jar of Black Peppercorns - 50 Dolarion][Garlic Powder - 50 Dolarion][Dried Basil - 30 Dolarion]
+
+Ren’s eyes lit up. He sat up straight.
+
+"Spices," he breathed. "Real spices. Not the synthetic flavor packets."
+
+He looked at his balance. 400 Dolarion remaining.
+
+I watched him, mentally chanting. Do it. Buy the pepper. I need to hit Level 3. I need to yell at you about your poor life choices.
+
+Ren added all three to his cart.
+
+"A chef is nothing without his pantry," he justified to the empty room.
+
+He tapped the 'Purchase' button.
+
+[TRANSACTION COMPLETE.][TOTAL SPENT: 130 Dolarion.]
+
+Three small jars materialized on the bedspread. Ren looked at them with more love than he had ever shown a human being.
+
+Then, the notification I was waiting for popped up in my view.
+
+[SYSTEM COMMISSION (5%): +6.5 SPP.]
+
+I stared at my account balance.
+
+[CURRENT SPP: 113.5]
+
+I did a mental victory lap. 113.5 points. I was rolling in it. I wasn't destitute anymore. I was middle-class.
+
+Ren opened the jar of peppercorns. He took a deep sniff, sneezed violently, and smiled.
+
+"Worth every penny," he whispered.
+
+He placed his new treasures on the bedside table, curled up on the straw mattress, and fell asleep instantly, dreaming of roasts and marinades.
+
+I floated in the silence of his mind, counting my digital coins. It was a start. I still couldn't talk, I still couldn't buy coffee, and I was still terrified of the Moderator coming back.
+
+But as long as Ren kept his obsession with gourmet cooking in a medieval world, I had a feeling my wallet was going to be just fine. I just needed to keep him alive long enough to buy the Paprika.

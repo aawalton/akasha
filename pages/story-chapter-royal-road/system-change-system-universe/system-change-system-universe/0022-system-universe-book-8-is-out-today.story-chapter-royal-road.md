@@ -1,0 +1,25 @@
+---
+id: 9a34d0ec-0674-5e46-9e0d-e739dffc8f21
+page-type-slug: story-chapter-royal-road
+title: "System Universe Book 8 is out today!"
+slug: 0022-system-universe-book-8-is-out-today
+partOf: system-change-system-universe
+position: 22
+ownLength: 307
+unit: words
+ownProgress: 307
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2754640/system-universe-book-8-is-out-today"
+royalRoadId: "2754640"
+markedReadAt: "2026-06-29T19:57:27.165Z"
+---
+
+Hey everyone!
+
+System Clash, Book 8 of System Universe is finally out on Kindle!
+
+Here is the blurb and link: https://www.royalroad.com/amazon/B0DNNKHZ7X
+
+With Alanah having ascended, Derek now has a favor to fulfill.In preparation for things to come, Derek spent most of his time in Cydaria making it safe for all of his friends and companions. He saw Thomas off to the Academy, helped Brandi with materials for crafting, and more.Once he had Savanna to his liking, he chose to adventure with Alanah. They traveled to the other continent and explored different kingdoms before ending up in Linderis—Alanah’s birthplace. Alanah had no good memories of there, save for her mother.Unauthorized use: this story is on Amazon without permission from the author. Report any sightings.The two of them, with a little help, traveled to the Echoing Abyss, where Alanah found a keepsake she thought lost forever. Then, they face the Echoing Willow, the World Boss which haunted the Dawn Siren’s dreams from when she was a child.The willow defeated and everything calm in Cydaria, Alanah ascended and Derek swore to go find her one day. Now, all that awaits Derek is Dave’s favor.Don’t miss the eighth installment of Derek’s journey in the System Universe. Join Derek in this unique combination of the LitRPG, Isekai, and Slice of Life genres. He has friends, a bond that should last forever, and even a home. What more could our overpowered protagonist ask for?
+
+Also, since the Amazon break a week or two ago... you know... when like half the internet died? Ratings aren't going through near as well as usual. I don't know if it will ever catch up, but if anyone reads and enjoys it on kindle, any written reviews would be much appreciated. Also, the same is true for any Amazon book. I'm sure any author would appreciate it. Thanks!

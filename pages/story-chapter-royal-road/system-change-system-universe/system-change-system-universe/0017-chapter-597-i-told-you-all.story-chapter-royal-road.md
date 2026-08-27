@@ -1,0 +1,163 @@
+---
+id: bfec6618-86f5-5226-b1f5-3ab310f75dd4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 597: I Told You All!"
+slug: 0017-chapter-597-i-told-you-all
+partOf: system-change-system-universe
+position: 17
+ownLength: 2083
+unit: words
+ownProgress: 2083
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2712862/chapter-597-i-told-you-all"
+royalRoadId: "2712862"
+markedReadAt: "2026-06-29T19:57:17.487Z"
+---
+
+Chapter 597: I Told You All!
+
+Derek brought Amelia outside the void and dropped her onto the ground. He watched as she stood and brushed some of the dirt off her armor. They were at the end of the invasion, and there were only two Champions—technically one since Amelia lost—left.
+
+“You… met a Void Beast who had a name?” Amelia asked. She’d been quiet in the short time after Derek beat her, then mentioned Asher.
+
+“Yeah,” Derek replied. “Once they reach a certain level, they begin gaining real intelligence. Asher was the most intelligent one I’ve met. He didn’t have a name, so I gave one to him. He still didn’t have many emotions, but I think that with time, Asher will become more like a normal being. Well… maybe. If he has survived.”
+
+“Oh…” she muttered. After a pause, she looked Derek up and down and said, “You’re strong. Impossibly strong. Your movement ability is a cheat. Nobody, not even space users, has ever been able to just slip out of my force so easily. And even fewer have been able to push through my domain to make contact with a physical attack.”
+
+“I just didn’t want to be like Jace and do an impersonation of a basketball being dribbled,” Derek said. “He may have been smiling the whole time, but that was embarrassing.”
+
+“I was biding my time!” Jace yelled from the side. It looked like his Battlelust was finally starting to calm down as he stood and walked over to them. Silvi was seated on his head now, which was a big indicator that he wasn’t so enraged anymore. “And I still could have won. I didn’t use my trump card.”
+
+“She could have crushed your head before you activated it,” Derek said once Jace closed in. “And I don’t think it would have increased your power enough if you’d used it at the very beginning. And… Amelia can fly.” He looked back at the giant-like red woman and said, “Though, I would be very interested in seeing you fight Braxton… Braxi on the list. From what I know about his attacks—which is little—the two of you would have quite the fight.”
+
+“So… we never did have a chance,” Amelia said. “Especially if you think your number two is as strong, or stronger, than me.”
+
+“No,” Derek said. “You didn’t. Not with me here. Not to brag or anything, but I’m too strong to even be here.”
+
+“Right…” Amelia said, but when Derek’s face continued to be serious, she added, “Really?”
+
+“Yeah. If not for the invasion coming, I would have left a long time ago,” he answered. He looked up at the sky and said, “Requirements and all that.”
+
+“Oh!” Amelia nodded. “I see.”
+
+“Yeah, so don’t feel too bad,” Derek said. “You were playing a rigged game. Though… I’m not sure you would have been able to win otherwise. It would have been a lot closer.”
+
+Amelia clenched her fists and shook her head. “Darvin died for… nothing… because of the system.”
+
+“It happens,” Derek said. “There is always someone stronger than you. That is a fact that still hasn’t changed.”
+
+“Who is stronger than you?” Amelia asked.
+
+“I can instantly think of one person, but I can’t talk about them,” Derek said. “And there are probably millions, if not billions, of others who are. I’m special here, but the System Universe is big, and I doubt it ever gets any less dangerous.” He spoke out loud what he’d been thinking ever since meeting the second requirement.
+
+“Hmm…” Amelia, still gloomy, sighed. “Well, you won. I would like to stay and speak about things, but… I need some time to come to terms with everything. You seem like a decent enough human, but you just killed my friend, and there is nothing I can do about it.”
+
+“I understand,” Derek said. He still wasn’t going to apologize for Darvin. He’d given him more than enough chances, and the man refused to take any of them. “Now I have to go squish that damn bug…” he muttered as he turned around and walked into the void. He closed his eyes and searched, then snorted as he found the Champion known as Great Ul’oc.
+
+Derek turned around and walked out of his portal. “He’s still here,” he said to everyone. “He’s just very far underground.”
+
+“Underground, you say?” Marrick floated forward and asked. “I may be able to do something about that. My focus is sand, but I am also quite good with earth.” The old elf stepped off his cloud of sand, slowly went down on one knee, and then placed his hand on the ground. He closed his eyes as a tornado of dust began circulating around him.
+
+“That…” Marrick’s eyes shot open. “Is a ton of monsters.”
+
+“What?” Derek asked.
+
+“The final Champion is building an army,” Marrick said. “We’ll see how smart that was.” The Old Goblin then put his other hand on the ground and concentrated. Below them, the ground began to tremble as Marrick strained. Sweat began beading on his forehead and dropping to the ground. “So many…” he muttered.
+
+“Found him!” Marrick finally said after a while. “Good… good…” he muttered to himself. “Not an earth mage. Just good at tunneling,” he kept talking. Soon, the ground beside Marrick opened up, and a massive ball of sand shot out. Marrick shook as he got back to his feet. “Got him,” he said.
+
+“That’s him?” Derek asked as he looked at the ball of floating sand.
+
+“I learned a lot from my fight with Jace,” Marrick said. “This man is second on the list of Champions, so I’m not going to take any chances… oh… he’s gone.” As he was speaking, some light shone from the sand, then the ball collapsed.
+
+“Xephos does not have much in the way of personal fighting capacity,” Amelia said. “He is well known throughout the system as one of the greatest monster commanders around. In his case, the monsters are insects. He has been building an army for some time now. They were waiting outside the city, closer to our ambush point. It seems that he was bringing them all back for one final attack.”
+
+“Well… that didn’t work,” Derek said with a snort.
+
+“No, it did not,” Amelia said. “But I do not blame him for trying.”
+
+Derek looked Amelia up and down, then finally said, “And then there was one.”
+
+***
+
+“I told you all!” Edgar cheered at the now black screen. It had stopped broadcasting as soon as Derek had taken Amelia into the void with him. Then, it came back on for a short time while focusing on Marrick. At first, Edgar was unsure what was happening, but with the arrival of the new Champion, it all clicked.
+
+“Yes,” Jakis said. “Derek Hunt is most definitely an anomaly. I feel no shame in being beaten by him.”
+
+“Nor do I!” the centaur said. “I am proud of my fight with him, even though it was nothing compared to your own or Amelia’s.”
+
+Cuthos sat next to Trischa, who had become conscious as soon as she had appeared in the room of the defeated. “He is an honorable man. He allowed Trischa to live even with the threat she poses.”
+
+“Threat?” Edgar clicked his tongue. “What threat? She took most of his powers away, and he still shrugged that beam off and incinerated that blue guy.”
+
+“Darvin,” the other floating blue guy said. “His name was Darvin. He was a… capable Malaxi. Many will miss him.”
+
+“And will you?” Briya asked. Surprisingly, when she appeared, she had both arms.
+
+“Perhaps,” Holcom said. “Darvin’s presence has always been an obstacle to my leadership of my race ever since he was chosen as the System Watcher. I did not wish him dead, but I will admit that with him gone, it will make my life easier.”
+
+“Mr. Hunt is quite a capable human,” The Queen finally said. She turned to Edgar and asked, “You are his friend, are you not?”
+
+“I am,” Edgar replied. “We are great friends!”
+
+“Mr. Hunt, perhaps… would he be willing to become a king and help unify my kingdom? I believe it may be time to move towards accepting other races,” The Queen explained. “I have been working on it for quite some time and have been able to make my kingdom more accepting of half-elves, but with a powerful human like Mr. Hunt by my side, we would be able to speed the process up greatly.”
+
+“Oh, yeah!” Edgar replied. “There is nothing that Derek would love more than to marry an elf and gain control of an elven kingdom.”
+
+“Truly?”
+
+“No!” Edgar snorted. “Another kingdom and other elves have already tried that. You have no shot. Besides, he already has somewhat of a relationship with someone you should know well.”
+
+“Oh?”
+
+“Yeah, you all call her the Dawn Siren,” Edgar said. “They are very good friends… maybe more. I’m not sure.”
+
+“Oh.” The Queen ducked her head. “I see.” She sighed. “That is a shame.” She then looked back up at Edgar and asked, “What about you? I saw your fight. It did not last long, but you did well.”
+
+“Me? And you?” Edgar widened his eyes. “Yeah… no thanks. Besides, I’m in sort of a relationship. It is very casual, but you are also not my type. Sorry.”
+
+“Not your type?” The Queen asked. “And what type is that?”
+
+“Political.” Edgar shivered at saying the word. “The worst type.”
+
+***
+
+“One left!” Avery yelled. “And they have stopped fighting.”
+
+“Then it is over,” Braxton said. “I can’t believe he didn’t even bring me.” He took a big gulp of the brew in his hand. “We’ll see if I share my next jug of brew with him.”
+
+“He will be sooo disappointed,” Natalie replied with a roll of her eyes. “I am just happy that the battle was not here in Savannah. I have survived without too much costly damage. And the Assassin’s Guild will repair or pay for the damage that has been done.” She stared at Braxton as she said, “Won’t it?”
+
+“Uh… well…” Braxton took another drink. “We will have a chat with Nyx and go from there.”
+
+***
+
+“The Ul’oc guy left with his storage bracelet,” Silvi whined. “Why didn’t you take it off him like you did the other?” she asked Marrick.
+
+“He gave up before I had a chance,” Marrick replied. “Trust me, I was going to.”
+
+“Fiiiine…” Silvi said, then shifted her gaze over to Amelia—particularly the bracelet on her wrist. “You lost, too! Give!”
+
+Amelia reached over and touched her storage bracelet. She looked down at it, then back up at Silvi, and said, “I do not carry non-essential things into battle. You seem to be very interested in ingredients, but I have none. You may look if you wish, but I have only items that are important for battle or that are important to me. I will give it up if you wish, for you are correct. I have been defeated. But I beg that you at least allow me to keep some personal items.”
+
+“Keep the bracelet,” Derek said with a wave of his hand. “Silvi has enough ingredients…”
+
+“I’ll never have enough ingredients!” Silvi interrupted.
+
+“She has enough for now, and if things are as I suspect, she will soon outgrow any ingredients she can get from you or anyone else here,” Derek said. “And it may even be easier to get them.”
+
+“Hmph…” Silvi snorted. “Keep the bracelet, since you asked nicely.”
+
+Yeah… that’s why, Derek thought, but didn’t say anything. “You heard her,” he said to Amelia. “It’s yours.”
+
+“Thank you very much,” Amelia said with a slight bow. “Now, it seems that I am the one holding up the end of this farce. Mr. Hunt, perhaps we may speak again at a later date, under different circumstances, once I have composed myself.”
+
+“We’ll see,” Derek said with a shrug.
+
+“Well… even if we do not, I thank you for allowing the other Champions to live,” Amelia replied. “Now, if you will excuse me.” The woman looked into the sky, sighed, then said, “I give up.” A bright light washed over her, and she disappeared.
+
+As soon as she was gone, Derek was hit with the notification from the Great System.
+
+The Invasion is Over
+
+You have my thanks for honoring the favor. We will speak soon.

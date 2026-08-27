@@ -1,0 +1,495 @@
+---
+id: 995a0732-d50a-5b91-b801-8b157500c4a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116: Consequences"
+slug: 0036-chapter-116-consequences
+partOf: the-calamitous-bob-stubbed
+position: 36
+ownLength: 5782
+unit: words
+ownProgress: 5782
+publishedAt: 2023-05-05
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1203173/chapter-116-consequences"
+royalRoadId: "1203173"
+markedReadAt: "2026-06-29T21:15:57.872Z"
+---
+
+Solfis stopped on the second roof, placing Viv down on the flattish roof’s surface with gentle care.
+
+“We’re not joining the others?”
+
+//Your high willpower is keeping you fully functional, Your Grace.
+
+//However, you are bleeding out.
+
+//I need you to take the flesh-mending potions.
+
+//Now.
+
+Viv had a few of the life-saving vials on a bandoleer at the small of her back. They were still intact but as soon as she touched one, a spear of agony made her flinch. She looked down and saw her right hand covered with a grimy glove of blood. A black gash in the middle of her palm lanced atrociously. She twisted on herself instead to get the vial with her left hand and realized the armor was soaked. A deep laceration on her side oozed blood, crimson flesh and pale skin revealed under the cut armor. The blaze of the warehouse reached a crescendo and a flame rose above the roof to bring light to the darkness. Only then did she see the bloody footprints she had left behind. Viv realized that she was not okay.
+
+“Alright,” she said.
+
+A bite and the stopper was off. She poured the precious liquid on her flank and watched skin cover the wound as if it had only been cosmetics she could wash away. The new dermis was pale, smooth, and very soft. Vulnerable. She decided to do her leg next. That wound was worse.
+
+A bit of the flesh had been shredded to the muscle, forcing her to push jutting tissue back in with an awkward finger. The strange mix of magic as potent as sci fi tech and using her filthy fingers made her chuckle. She was feeling light-headed.
+
+“Oh that’s not good.”
+
+Adrenaline was pumping her lifeforce away with every beat of her heart. She poured the rest of the potion and felt a peculiar sense of stretching when things returned to where they were supposed to be. She could still see some exposed meat but there was no potion left.
+
+//Another vial, Your Grace.
+
+Viv used the second of two to finish healing her leg. The third ampoule contained a general-purpose antidote instead, and would be of little use right now.
+
+//Now for the right hand.
+
+“Fine.”
+
+Despite her pain tolerance skill, it hurt a lot to unclutch her fingers.
+
+“I think it hit the bone.”
+
+//That is correct, Your Grace.
+
+Solfis then grabbed her arms, forcing the liquid down on the gash and pushing a knuckle against her palm, setting a broken bone in position. The witch’s ordeal was short, but long enough to introduce the neighborhood to a collection of French expletives.
+
+//The bone is set but it has not fused back.
+
+//Please do not move this hand until you have seen a health professional.
+
+“FUCK YOU!”
+
+//She who anticipates suffers twice.
+
+//Is it not one of your mottos?
+
+“Solfis, you are supposed to be on my side. We sass other people and act obnoxious and they hate us for it. How dare you turn on me like that?”
+
+//Changed taunt module setting to: hypocritical.
+
+“Ugh. Alright, fuck it. Let’s group up with the others.”
+
+//Agreed.
+
+//But first, drink the potion’s remaining contents.
+
+Viv bottomed up what was left of the crimson liquid and immediately felt better. Her legs grew less wobbly while her vision cleared up noticeably.
+
+“This is some good stuff.”
+
+//I would hope so.
+
+//At seventeen silvers a pop.
+
+“Ouch.”
+
+Viv had just burned through six gold talents’ worth of money in under a minute. Worse, she was sure some of the liquid had ended up on her bloodstained armor instead. The waste annoyed her. Even though the circumstances were unusual, it grated. Solfis did not give her time to brood though. He picked her up and kept jumping from roof to roof.
+
+Around them, the city was coming to life, but it was not a good life. Crews gathered in small squares and landmarks. Viv could already see a pitched battle breaking out a few streets away. The crashes of broken doors gave a counterpoint to the screams of women and children in this hellish symphony. More fires erupted in the distance as she watched. The next jump revealed a pair of prostitutes gutted at the entrance of an alley.
+
+“What the fuck? It’s only been a minute! They can’t already be…” Viv whined.
+
+But the world didn’t care and the women stayed dead. Solfis didn’t slow down either. The skeletal frame smoothly jumped down and dropped her in front of a circle of rough men and women in armor. Some looked a little worse for wear. Sidjin broke through the protective detail and hugged her before she could react. He pulled back and looked at his own off-white armored robe which was now stained red in multiple places.
+
+“Err, are you alright, darling?”
+
+“Physically I am. We can talk about it later. We should leave the lower districts before it goes fully bad.”
+
+//We will retreat to an undercity entrance.
+
+//You two must not be seen in the noble quarters in blood-stained armor.
+
+“I could get a change of clothes,” Viv admitted.
+
+“Then let’s go now,” Sidjin said.
+
+He sounded so calm and composed. Viv was not having a good time. Despite knowing on an intellectual level this wasn’t her fault, that the riots were inevitable so long as proper authorities allowed it to happen, she felt deeply unsettled. It was just starting and it was already so bad.  Even Afghanistan had not affected her that much, at least that she could remember. Maybe she was just naive.
+
+“Focus, darling. You can’t help if you’re dead,” Sidjin whispered.
+
+The group adopted a loose square formation with the casters in the middle. It was clear that the goons were unused to organized fighting from the awkward way they left gaps in the wall, but it would probably not matter. They ran. Normally, the streets would have been dark at this time of the night, yet the glows of distant arsons bathed everything in an infernal red, turning the familiar avenues into grimmer versions of themselves. The air smelled of blood and ashes, an acrid stench that stuck to Viv’s tongue. They passed by several corpses. A minute later they came across two dozen looters dragging a family out of their home. The two armed groups hesitated. Viv didn’t. She aimed at the man holding a young boy by the scalp and blew his head off. The looters dispersed.
+
+They didn’t stop. The rescued civilians didn’t wait. They gathered to leave.
+
+//Your Grace.
+
+//You seem to care about the fate of civilians.
+
+//Yet they are not your people.
+
+“You know about altruism and empathy, Solfis.”
+
+//Would you like me to use my means to protect them in your name?
+
+“Yes.”
+
+//You have to pick one ethnic group.
+
+“Anybody who breaks doors down to kill civilians should be fair game.”
+
+“You cannot spare them,” an unfamiliar voice spat from behind.
+
+Viv turned in shock. She and Solfis always spoke in Imperial, a dead language few aside from scholars and casters ever used at all. The goon who had spoken had the lighter greenish skin of an Enorian and an accent, but she was still surprised to be addressed by an educated thug.
+
+“If you spare them, they grow up and kill you,” the man added with conviction.
+
+“We don’t judge people according to what they might do in ten years,” Viv corrected. “Which is why you still live, by the way. Solfis, pick whichever side is the most convenient but rein the people in. Anyone who breaks down doors to kill children is a coward anyway. They’ll listen to a group of scary men in dark armor.”
+
+//ORDERS ACKNOWLEDGED.
+
+//But first, we must get you back.
+
+//You are in enough trouble as it is.
+
+Viv thought the golem sounded like some psychotic AI mom right now but decided to keep her observation to herself. Since the tavern was quite far, it took them some time to reach it. Two other marauding bands found them but wisely decided to turn around after a good look at them. Most were muscular men and women with hard eyes and surprisingly good weapons. The first had been made of northerners, the second of a mix of ethnic groups. They came across a barricade manned by pale-skinned Helockian natives, those wearing actual gambesons. Shortly before they arrived, a young Hallurian boy dragging his sister saw them, rushed in their direction, then turned down an alley at the last moment. The following mob of blood-crazed northerners smashed against Viv’s group a moment later. The melee was short, violent, and one-sided. They disengaged. Viv did not pursue.
+
+“Clever boy,” she muttered.
+
+//I have recorded his profile for potential later recruitment.
+
+//We are almost here.
+
+The city had devolved into a nightmarish landscape, blazing with the fires of hell on a background of screams. It was far too late to try and stop anything, Viv thought, but she’d be in the hospital the next day. Making plans and seeing a future took her mind away from the bodies.
+
+A barricade blocked the way deeper in. Solfis had the thugs jump to a nearby roof rather than negotiate for passage. The militia of southerners and Hallurians holding the defenses didn’t try to stop them and they found a known entrance a moment later, hidden near a warehouse. One of the goons removed her hood, revealing the harsh traits of Lim the Fell-Handed. The grim northerners led Viv and Sidjin back to the room where they had left their stuff. Viv had to wash herself quickly using frigid water. It left her shaking. The bath turned pink and her old clothes felt strange on her skin. Cold too.
+
+“You are too pale,” Sidjin said. “You must have lost a lot of blood. Your hand is wounded too,” he said.
+
+Viv lifted her right one. A subcutaneous hematoma expanded from the pale new skin. A purple circle expanding out. It still hurt.
+
+“Right. We need to get you to the faculty and have you rest a little. You can help later.”
+
+“I don’t want to be a hypocrite.”
+
+“We’re all hypocrites, Viv, but we don’t all try to fix it. You must rest.”
+
+Lim took the pair on a small skiff and rowed them to the back of the city. They ran up the shore and found the back entrance to the Academy locked and guarded. Viv was still let in after the wards verified her identity. She walked through the back of the park with its meadows, pleasant air coming from the sea, the ponds, the sorcerous light in a daze. Here, everything was peaceful and dandy while innocents died only a few kilometers away. She could jump on the walls and use a long view and there would be murders to see. Nausea filled her. Should she have stayed? But Solfis and Sidjin were right. She was exhausted.
+
+Viv almost bumped into the crimson-clad form of the dean. The man stood on her path with a staff that glowed a soft red. He didn’t say anything. Viv didn’t say anything because her mind was a blank.  His face was a mask.
+
+“Are you done?” he finally asked.
+
+Viv’s tired mind conjured up an answer. Was she done? For tonight, yes. For Sidjin’s defense, also yes.
+
+“I am,” she replied.
+
+“You should have heeded my warning. Every action has consequences, now you must live with yours.”
+
+A little bit of anger pierced through the fog of exhaustion.
+
+“This would work well if I were asking you to wipe my ass, but I’m not, am I? Out of the two of us, only one had the power to stop this atrocity and it wasn’t me.”
+
+“Why do you have to be so headstrong?”
+
+“I’d be dead otherwise.”
+
+The dean glared.
+
+“I’m starting to regret admitting you here, but you would have probably caused more damage if left loose. Go to the infirmary first.”
+
+Viv resumed her walk, but the dean wasn’t finished.
+
+“One last thing. You think I did nothing but that’s not true. I did what I could to minimize the bloodshed with the tools I had. Tomorrow, you will do so as well. Report to the administration after the first bell.”
+
+“I can go to the healing faculty by myself.”
+
+“People can survive without an arm. The urgency is to save and stabilize people, not make them whole. You will report to the administration building to help with search and rescue. This is not a suggestion.”
+
+“... very well.”
+
+Viv went to the infirmary, a small building with a sleep mage in blue robes, an intern of sorts. The woman used a spell to make sure her metacarpals were in the right place despite Viv’s innate resistance to life mana.
+
+“Sorry about that,” she told the persisting girl.
+
+“No helping it,” she replied.
+
+A more complex potion finished healing her. Viv returned to her dorm room and crashed down. She was asleep in seconds.
+
+***
+
+The city is on fire.
+
+But no one attacked!
+
+Viv woke up to crimson eyes widened in honest concern. Arthur’s large head rested on her chest, propagating heat in the already warm light of light summer dawn. The dragon’s lustrous black horns caught a reflection and shone green and red for an instant.
+
+“The citizens have turned on each other,” Viv replied.
+
+Humans turn on humans very often.
+
+“Not enough food. They gather by origin and fight each other for it.”
+
+If not so soft and squishy.
+
+Move on and find food.
+
+“Yep. Anyway, I’m going to help a bit.”
+
+I come as well!
+
+Find small humans.
+
+To worship me.
+
+Recruitment drive!
+
+“I’d appreciate the assistance.”
+
+Viv didn’t change, though she did wash her face to clear off the sleepiness. What surprised her to most was that she was feeling fine, physically. Potions could be insanely potent, especially those that did so much. She was pretty sure she had drunk the equivalent of three months of elite knight pay within a few hours.
+
+But she was a caster and casters were above, that was how it was.
+
+Viv swallowed the fact that much potion could have stabilized at least three dying people and decided that she would make it up today. The door closed behind her, but she found Ereska waiting in the main room. The pale woman had dark circles under her eyes and she was loaded for bear with a bag and a solid robe filled with pockets.
+
+“You are going to help as well?” she asked.
+
+“Yes, although I absolutely have to. The dean ordered it.”
+
+“You can fill me in on the way.”
+
+Viv did so, staying vague on purpose. They grabbed sandwiches at the refectory and filled their bags, then they rushed to the administration building. A busy Darla directed them to a carriage that departed immediately.
+
+“I’m surprised they’re just letting you out,” Viv told Ereska.
+
+“They know that I’m not on good terms with my family because of their stance on the riot. They probably judge that it is easier to send me with an escort than to prevent me from escaping. Some of the younger students remain under strict supervision but accomplished casters like ourselves are too difficult to control.”
+
+“Always surprises me that the Academy isn’t enforcing more stringent oaths on their students,” Viv mused.
+
+“It shouldn’t,” Ereska replied, eyes half-lidded. “Many places of learning tried it. Only the Academy remains. But I digress. What did you have in mind? In terms of helping, I mean. I always thought your specialty was killing things.”
+
+“And cutting things, and lifting them now.”
+
+“Search and rescue, like Darla said.”
+
+I find people.
+
+You rescue.
+
+Then we take payment!
+
+The two women looked down on the excited form of Arthur. Viv mournfully admitted to herself that rampant capitalism had come to Nyil, and she was to blame.
+
+***
+
+The cleansing was not over, far from it. Sounds of fighting still came from far and wide, but even the more peaceful parts were empty. Soldiers patrolled the streets of the noble quarter, blocking all gates leading down and checking the identity of people coming through. The lower quarters had settled for a low simmer instead of the fiery rage of earlier. Few civilians came out, and most of those that did were fleeing for their lives. The various alliances of circumstances had gathered in districts fortified with barricades and, sometimes, private security forces with weapons and armor. Heavy patrols watched the cart pass like hawks.
+
+“The builders guild has secured the city center. With the merchants guild taking the low markets, they have formed an axis defended by mercenary forces. Most of the conflict will be at the periphery,” Ereska observed as they moved at a brisk pace to where the smoke was thickest.
+
+“It’s going to get worse, right?” Viv asked though she knew the answer.
+
+“Right now there are patrols and some private forces in the streets. People like us as well, or nobles who refuse to stay idle, but it won’t last. We will head back tonight and the violence will resume. This time, it will be deliberate. A lot of blood was shed yesterday. Now, every thug group out there is ready and waiting. It will be much worse than yesterday. And we will take no part of it.”
+
+Ereska fixed Viv with a glare.
+
+“We will take no part of it. No heroics, outlander. You wouldn’t get gratitude and the dean has you in his targeting array. Keep your head low and save people.”
+
+“Yes,” Viv replied, rolling her eyes.
+
+Ereska went on to mother Viv on social expectations for mages in the great city of Helock. It felt weird having such a mundane conversation while passing corpses and blood stains. This lasted until Viv felt a queer sense of dissociation.
+
+If she wanted, she could step down now, find Solfis and spend the entire evening cleaving looters into fun-size bits, thus saving a few innocents at least. Until someone came and stopped her. It was possible. But Viv knew she wouldn’t do that because she needed the Academy’s support system and, at heart, she cared about her own survival more.
+
+“Squee?”
+
+“It’s nothing. I just don’t like pointless deaths.”
+
+Soon, their cart arrived at a ravaged district near the riverside pier. Many houses had burnt here as well. From up high, one could see the path the fire had taken as the wind pushed it inland. Quite a few people were rummaging through blackened husks of houses with sooty faces trailing with tears. Smoke still emerged from half-hearted fires, lingering long after dawn. The survivors swarmed the mages and small dragon as soon as they were down.
+
+“Right,” Viv said. “Arthur, find us people. We’ll cut them out and stabilize them.”
+
+“I can heal and staunch fires,” Ereska said.
+
+They moved to the first house, which was still burning.
+
+People under.
+
+Must free.
+
+“Really?” Viv asked. She could feel the heat coming from the smoldering pile of timber and stone, all that remained of a rather large edifice. A man kneeled prostrate before the destroyed building.
+
+Underground.
+
+“Right, let’s clear a path.”
+
+I remove fires.
+
+Mother’s hands soft and squishy,
+
+No scale no claw.
+
+Like snack.
+
+“You can do that?” Viv asked.
+
+To answer, the dragonette opened her mouth and… breathed in the fire and ambient red mana. It just gathered in her mouth from the building, turning into a small radiant ball. The flames petered out and her horns shone.
+
+“Hmm. Wow. Impressive.”
+
+It is fire.
+
+I am biggest fire.
+
+Arthur nodded, pleased with her explanation as if it made perfect sense and in a way, it did. She had simply done what Viv did when she used her yoink, but with red mana instead. Viv was pretty sure it was beyond any human sort of elemental archmages but that was fine.
+
+The prostrate man turned and saw them then. He was a heavyset fellow with muscular arms and a long beard, half of it lost. Pinkish skin covered half of his face. He had to be in great pain but he merely extended a callous finger and pointed it at Arthur.
+
+“D… Dra.. dra… dra…”
+
+My name is She-Who-Feasts-On-Many-And-Gets-Much-Gold!
+
+Gaze upon my magnificence.
+
+“Thank you for your help, She-Who uhhh.”
+
+Silence, human!
+
+When using your mouth flaps to communicate, you should address me by my borgle: Arthur.
+
+For simplicity.
+
+“Yes, great one… my family…”
+
+Fret not, frail human.
+
+We will help you.
+
+They are not cooked yet.
+
+Show deference to us.
+
+And give reward.
+
+“You can have all the iron in my store if you give me back my family…” the man bellowed, more tears falling down his cheeks.
+
+Viv watched a miffed dragonette realize that most humans did not, in fact, own gold. The witch considered introducing her scaley adoptive daughter to such concepts as ‘market analysis’, but decided that could wait. It was time to work. Viv used telekinesis to push rocks off the direction Arthur indicated while Ereska used brown mana to the same effect. Sidjin’s observations that colorless mana could do everything others could, but with more effort was proving to be true. It took them a few minutes but eventually they discovered the man’s family tucked away safely in their cellar. They had survived thanks to an aeration shaft leading into the street, a large towel, and a generous use of blue mana to create water. The reunion warmed Viv’s heart a bit but by that time the rest of the street was clamoring to get them to save more people. They could not dally.
+
+Unfortunately, the rest of the session did not go as well. Some of the rescued folks were horribly hurt, others simply beyond help. They saved a woman who had curled over the body of her child before their house collapsed on them. The boy had not made it. Only a father had made it out of a family of five. Every life saved came with its lot of misery, every survivor had to be dug out through broken toys and shattered bodies, the cooling remains of a happier life. It was gruesome work. Sometimes, Viv had to use black mana to shear through beams and large stones. They stopped several times to drink, eat, and recover their strength, but not for long. People looked at them with longing and despair, knowing they were the best hope they had at finding living relatives yet knowing Viv and her group were casters while they themselves were poor commoners, undeserving of the attention they received. No one blamed them for not doing more. It made Viv feel sick.
+
+Sidjin arrived at noon with a temple healer. The man wore a war robe and immediately helped, a filled monster core held in his hand. With him around, their speed more than doubled. He would squeeze Viv’s shoulder between rescues.
+
+“Let me handle that one, alright?”
+
+“I’m not too tired yet.”
+
+“But you are a little tired. This is my first free day out in Helock since the assassins started to come after me. I owe you my freedom and if I can use it to help people, all the better. Don’t worry there will be more work to be done.”
+
+And there was. They finished this part of the city in the early afternoon, having rescued thirty people and pronounced three times that number lost for good. Their next destination was higher up near the edge of the city traveling inland. Many Hallurians lived near the city gates and worked in trades and industries dealing with all the goods traveling from nearby villages to feed that unsated great maw that was the city. Viv was once more reminded of the unusual size of the Paramese capital of magic. In ancient Europe, nine people in ten made food while the remaining one made history. A town could only grow so much before food and logistics reached capacity. Only stats and mana allowed Helock to exist, its overgrown population gluttonously eating the works of hundreds of acres of plantations. Of course, it was no longer enough now. The beast had grown as much as it could.
+
+The angry crowds had gone through the more fragile shantytown like a knife through paper, destroying them as they went. Viv and the others spent the entire afternoon until late evening digging through rubbish, tarps, and planks. They saved many more people here but those rescues had nowhere to go. They had no fortified compounds to harbor them.
+
+“Fuck it. Do you think our side could take them in?” Viv asked Sidjin, staring at the milling crowd scouring the wrecks for food and trinkets.
+
+There had to be three hundred of them. The rest had successfully fled.
+
+“Maybe for a couple of days. The docks area is one of the more diverse ones. There are already Hallurians there.”
+
+“Then let’s go. Before the night falls.”
+
+It took surprisingly little time to round up the rescues. Neighbors helped neighbors carry the wounded. They made their way through the city quickly, with patrols standing aside to watch them pass. Ereska had remained silent and Viv wondered if she had gone too far in her eyes.
+
+“Does this violate the neutrality clause?” she asked.
+
+“No? Maybe? I don’t care. We’re acting instead of sitting back in the refectory with a warm cup of klod, lamenting the sad state of affairs. If anyone objects when we get back they can kiss my ass. If anyone objects now I’ll shove a stalagmite up their unmentionables. There are children here.”
+
+To Viv’s unending surprise, no one tried to stop them. Oh, they did have outriders following the group, keeping their distances, but a single look at who led seemed to be able to deter them. It seems no one wanted to take a jab at Sidjin at least. The man walked in front with confidence in his broader shoulders, a shimmering shield surrounding him at all times. Anyone inspecting him would see a fourth step war mage and probably reconsider. They got to the enclave Solfis occupied at dusk and were let in after Viv dished out a few gold talents’ worth of bribe to smoothen things out with the local mercenaries.
+
+I stay.
+
+Fish big fishes.
+
+Get gold.
+
+Viv didn’t have the heart to tell the dragonette that it was probably a lost cause. At Solfis’ insistence, they left through the tunnel and came across another group in a similar boat. The strangers manning the skiff all wore dark cloaks though there were no weapons in sight. After a few seconds of hesitation, both ships passed each other without a single word uttered. What happened in the secret tunnels stayed in the secret tunnels. They used the same exit as usual to reach the plateau above the city, the one where Sterek’s lab still stood.
+
+“I might get it for myself and start a business,” Sidjin said.
+
+“Yeah I’d love to return to Harrak after the end of the semester. If I can shorten the distance through a teleport, that would be great.”
+
+“Of course, darling, and you will always travel for free.”
+
+“Much appreciated.”
+
+“Now who might that be…”
+
+Sidjin was looking forward and so was Ereska. In the distance, two men in the tabard of Helock waited by the deserted, dusty road between the low walls of two cattle farms. They could not be just guards. Too clean, too decorated. Their swords spoke of wealth and expertise. Viv inspected them, even though that might be rude.
+
+[Investigator, not very dangerous, follows a path concerned with ferreting out the truth. Cunning. Close quarter combatant.]
+
+[Prime Investigator, dangerous, follows a path concerned with ferreting out the truth. Leader. Killer. Close quarter combat expert.]
+
+Ah. Not here at random then. The trio of mages keep going as if nothing were amiss, only for the two to casually block their way. Viv felt a pulse of earth mana from Ereska, soon joined by another, colorless, from Sidjin. They had done this without a word or without tracing a sigil.
+
+“Good evening,” the older man greeted.
+
+Both of them had hale skin and a perfectly trimmed beards, though they were clearly not related. They lacked the down-to-earth approach she had seen from other guards and she suspected those two might interact with the more affluent part of the population.
+
+“Sorry to bother you so late. We work for the intelligence branch of the army of Helock, may Sardanal keep her forever. We were looking for Viv the Outlander. It’s you is it not?”
+
+“They’re alone,” Sidjin said in a low voice. “It’s not a trap.”
+
+Ereska nodded as well.
+
+“No trap here, citizen and guests,” the older man continued, “We just want to ask you a few quick questions and send you on your way. It’s getting late after all and you have had a busy day helping the city go through some… growing pains.”
+
+“It’s much better to answer now,” the young man added. “Saves everyone a lot of time.”
+
+It pissed Viv off. Not catching her by surprise nor even the good cop bad cop routine, not even being annoyed while tired. What pissed her off was the man’s comment.
+
+The silence extended awkwardly.
+
+“Right, we’d like to know how it all started. We think you know,” the old man asked.
+
+Viv measured her chances. Maybe it would be better not to cooperate to avoid any risks of saying something she might regret. Only idiots believed that they couldn’t get in trouble because they ‘had done nothing wrong’. On the other hand, they could give her lasting problems and possibly worsen her already fragile standing in the Academy. What she knew from investigator Tars back in Kazar was that they could sense the truth, so maybe there was an angle to pursue. It would still be risky. She wanted to try it. Ereska slightly elbowing her to answer comforted her in the belief that the right to remain silent wasn’t something that worked well on Nyil.
+
+“What started?” she asked.
+
+“The events that triggered the riots. I believe you were around the warehouse district yesterday evening? Some people mention seeing you move with black-clad people and a mysterious, heavily made up individual of great size.”
+
+Hah. Worst description of Solfis ever. Viv considered her opinion and realized she felt truthful about the matter.
+
+“I had nothing to do with the start of the riot.”
+
+Viv considered that this was truthful because she had been a bystander. Tamar was the one who had devastated the warehouse. She’d been outside, running away at the time. She felt she was innocent. Responsible for being around, certainly, but in no way guity. Someone had tried to kill her for crying out loud.
+
+The investigator must have felt the conviction in her words, but the prime investigator squinted, perhaps sensing she was not being entirely objective. It was probably a necessity considering the amount of monsters who saw themselves as innocent. ‘She made me do it’ and all that. Nevertheless, they had little to go on.
+
+“But you were present at that time. What did you see? What started all this? You must have observed something.”
+
+Oh, that was an easy one.
+
+“Oh yes, I saw it well. It was started by several years worth of disinterested laziness by you and your entire government with the absolute belief that population needs to be culled and if it happens to the poorer members of society, well, tough shit. It was triggered when your collective lot decided it was easier to let go and maybe wait for the Hallurian warlords to solve your population problem for you rather than invest in expansion, fleets, frontier villages or even just birth control measures. Growing pains indeed. Chronic pain, you mean, a persistent crisis born from apathy and the belief either the next generation of rulers or the next generation of invaders will solve that issue for you. Yeah, I did see it. In excruciating detail.”
+
+“Now now, there is no need for anger, Miss Outlander. Perhaps you have different customs where you come from but here we expect third step people to exert self-control — “
+
+“Have you had a walk through the city?” Viv interrupted, her voice unnaturally loud thanks to a small magical boost. “Today, I mean. Maybe you should investigate that instead. After you dig out your twelfth dead child, you are welcome to return and talk to me about self-control and overreaction. In the meantime, I'm not interested. Not. Interested.”
+
+Silence spread across the empty path. Ereska conspicuously examined the time on some bronze contraption, then she crossed her arms.
+
+“The riots fragment the city. I believe we are warranted in wondering who, or what, set them off. This is merely caution. No need to be defensive,” the younger investigator finally said.
+
+“And I told you I didn’t do anything to start them. It wasn’t me,” Viv replied, slowly measuring each word.
+
+“Just like the young lady informed you earlier,” another voice came from behind.
+
+Viv realized Sidjin had been smirking and she now figured out why. Garbed in crimson, holding a staff and radiated heat, the dean arrived. He was alone, but he was one of those people who didn’t need an escort. He seemed to fill the entire road. Rather than blocking the way in, the investigators were now boxed between two very hard places.
+
+“Dean Tallit. Sir, good evening,” the older one said with an attempt at calm, but Viv could see sweat bead on his forehead.
+
+“Yes, yes. Now, far from me to question why you would care so much about who triggered an event you yourselves considered inevitable in your latest reports, but there is a time and place and…”
+
+Viv was suddenly standing in front of an oven. No, the desert sun. At dawn.
+
+“This isn’t it,” the scarlet star finished.
+
+The impression faded until Viv wondered if she had dreamt it. The two investigators stood unmoving. They did not say anything when the casters passed them by.
+
+All four walked to the gates in silence. Only when they arrived did Viv finally say what she felt she had to say.
+
+“Thank you,” she told the dean.
+
+He sighed heavily.
+
+“I’m not your enemy. I hope you have seen that now and since your lover is safe, maybe you can focus on your studies while we clean up the city. Your highness, would you stay for the night?”
+
+“Just Sidjin, and yes, I’d love to.”

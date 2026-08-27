@@ -1,0 +1,405 @@
+---
+id: 310071af-55b4-5749-a87e-9e27665f3d7e
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETEEN: Interesting"
+slug: 0120-one-hundred-nineteen-interesting
+partOf: super-supportive
+position: 120
+ownLength: 2223
+unit: words
+publishedAt: 2024-02-14
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1518484/one-hundred-nineteen-interesting"
+royalRoadId: "1518484"
+---
+
+*
+119
+ 
+ 
+The gleaming tip of a slender chain whip inched through the air, approaching its victim with a quiet, lethal grace.
+
+
+“Gently,” Lexi Roberts mumbled, staring at the marshmallow on the concrete floor a couple of meters away. “Calmly.”
+
+
+“Lexi? You’re not jogging this morning?”
+
+
+Writher wrapped around the marshmallow and sliced it in half, filling the apartment with a burnt sugar smell and making Haoyu Zhang-Demir smile sheepishly from where he stood by a leather armchair.
+
+
+“Sorry. You were practicing.”
+
+
+“Not like it was going well.” Lexi huffed and went over to pick up the marshmallow pieces and fling them toward the trash.
+
+
+“Don’t throw them away!” Haoyu protested. “Toasted marshmallows are good.”
+
+
+“They’ve been on the floor.”
+
+
+“It’s pristine. The robot vacuum cleans it every day.”
+
+
+“The bag’s on the counter if you want a fresh one. You don’t mind me using them for this, do you?”
+
+
+“The marshmallows?” Haoyu asked. “Why would I?”
+
+
+“They were on the shared food shelf. I figured you’d bought them.”
+
+
+“No. Alden did. He won’t care. It seems like he’s easygoing about most things.”
+
+
+Writher hung by Lexi’s side, writhing slightly. “Do you think he’s…?”
+
+
+Haoyu looked at him.
+
+
+“Do you think he’s one of those people who just gets how to use his powers naturally?” Lexi asked.
+
+
+Haoyu shrugged. “I don’t know. I haven’t known him that long. I haven’t had powers that long. He hasn’t either really. It’s premature to guess.”
+
+
+“I know you were thinking the same thing as me last night,” Lexi said. “I saw your face.”
+
+
+“When?”
+
+
+“Several times.”
+
+
+Haoyu sighed. “Okay. I was a little envious.”
+
+
+“Yes,” Lexi hissed. “This isn’t the first—”
+
+
+“I know. We met him a little less than three weeks ago, and that skill of his looks vastly more impressive than it did on assessment day.”
+
+
+“It’s so different than I thought it was,” Lexi said. “Even Kon mentioned it this past weekend, and at that point, we hadn’t even seen him do…whatever that was last night.”
+
+
+“The skill seems really versatile. I’m glad for him. Stop worrying about your own progress so much. You’re doing great.”
+
+
+“Writher’s supposed to be versatile, too. But it randomly attacks—”
+
+
+“It was a tiny scratch. It was right after you first got it, and Kon wasn’t even mad about it.”
+
+
+“I don’t want a deadly weapon I’m responsible for to scratch my brother.”
+
+
+“It’s responding to your mood.”
+
+
+“That’s not a good thing for it to respond to.”
+
+
+“I mean it’s responding to your mood right now. It just singed the edge of the fluffy rug.”
+
+
+Lexi swore in Russian, and ran over to stomp on the smoldering spot while Writher withdrew.
+
+
+Haoyu walked over with a pair of scissors and started trimming the burnt fuzz out of the rug.
+
+
+“Maybe I should get Kon.”
+
+
+“It’s such a thick rug. It hides mistakes like this all by itself.”
+
+
+Lexi stared down at him. “How many times have you trimmed it?”
+
+
+“Just once. There was an itty bitty tiny little stain that wouldn’t come clean. And now it’s gone. Like it never happened.” He snipped some more. “I don’t think Alden’s had the opportunity to try most of the things with his skill that he’s trying now. He wasn’t surrounded by older Avowed when he affixed who could take him to safe places and let him experiment. And even though he’s leveled, I doubt he was in the mood to take creative risks when he was stuck in a situation where mistakes would get him killed. If you think about it that way, it’s natural for him to be finding a ton of new things he can do all at once.”
+
+
+“I know. Still. Last night it took him two hours to find the soup…”
+
+
+“Right. And he was like, Oh no that’s such a long time.”
+
+
+“After the first time I activated Writher’s phase out feature, it took me a week to get it to do it again.”
+
+
+Haoyu stood up with a fistful of trimmings. “It was his certainty that he could do it reliably from now on that stung my ego. But maybe he’s figuring his skill out so fast because he’s been through bad stuff with it.”
+
+
+“I considered that.”
+
+
+“So stop comparing your pace to his. He’s just got interesting circumstances. After you’ve been summoned to another planet for months, then you can worry you’re slow.”
+
+
+Lexi was quiet. Then he said, “When do you think it’ll happen for us?”
+
+
+“Late uni maybe? If we both level as fast as we hope to. Unless some wizard who knows our parents decides to request us for a job out of curiosity.”
+
+
+“Are you seriously going to that party tonight?”
+
+
+“Yes. It’s not that much trouble. And Lute needs support. You’re coming too.”
+
+
+“No, I’m not.”
+
+
+“We’ll see.”
+
+
+“I’m not.”
+
+
+ 
+
+
+******
+
+
+ 
+
+
+“The Rabbit’s interestin’.”
+
+
+“Morrison, I hope you’re talking about a cute animal or the zodiac right now and not one of our students,” Lesedi Saleh said as she phased her hand through the top of the mini fridge beside her bed and pulled out a bottle of water. “Students are work. And I don’t discuss work when I’m not fully clothed.”
+
+
+Morrison Waker rolled over to grin at her. “You were just tellin’ me about that time you shoved your hand through a Meister to punch the Brute behind him.”
+
+
+“I’m retired from being Ghosten. Old work isn’t work anymore. Alden Thorn is current work. Current work is off limits when I’m naked or when the person I’m talking to is naked.”
+
+
+“Good policy.”
+
+
+She twisted the cap off the bottle, drained half of it, and then passed the rest to him.
+
+
+He sat up to take it.
+
+
+“When you’re not Big Snake or Little Snake, do people ever call you Medium Snake?”
+
+
+He shook his head. “Hardly ever get around to being my natural self in front of strangers these days.”
+
+
+“I like you this way. You look more like when we first met.”
+
+
+“I can look exactly like when we first met if you want. Right down to the mullet.”
+
+
+She tossed her hair over her shoulder. “Not that I don’t appreciate the possibilities of your morphing, but let’s keep it simple for our first time trying this.”
+
+
+“You’re the boss,” he said happily. Then he gasped in false horror. “Wait. You really are my boss now. I’m sleepin’ with my boss.”
+
+
+She slapped his thigh.
+
+
+“This is terrible. I’m being taken advantage of.”
+
+
+“If you don’t mind, I’m going to take advantage of you a little bit more.”
+
+
+Some time later, as the lights in the room gradually brightened to indicate the arrival of morning, they lay staring at one another across the rumpled expanse of the sheets.
+
+
+“Was this a ‘just in case you die out there’ kind of night?” he asked. “Or something else? I’m happy either way, and I don’t like to assume…”
+
+
+“Come back home safely so we can talk about it more,” she said. “It was that kind of night. There are a lot of people here on Earth who would miss you if you were gone.”
+
+
+He nodded. “Will do. You want me to sneak off before your daughter wakes up?”
+
+
+“Do you need to head home and pack?”
+
+
+“Nope. Got a bag stashed in System storage.”
+
+
+“Then stay for breakfast. She’ll be excited to have company, and she’s too young to care about why the company is here first thing in the morning. But be prepared to hear a lot about treehouses. I read her a bedtime story with one in it and now she wants one.”
+
+
+“Who doesn’t?”
+
+
+“Morrison, do you know how hard it is to find a house with a yard with a treehouse-appropriate tree on this island?”
+
+
+After they’d dressed, while the coffee was brewing, he said, “So. The Rabbit.”
+
+
+Lesedi sighed.
+
+
+“We’ve got clothes on. And this really is interestin’. He can use that skill of his with his eyes closed.”
+
+
+“Why wouldn’t he be able to?”
+
+
+Morrison examined the selection of coffee cups and picked one with red stripes. “I mean he can use it to catch things out of the air and freeze ‘em without opening his eyes to see what’s coming his way. Saw it plain as day, but I still reviewed the video after class just to make sure.”
+
+
+Her expression changed.
+
+
+“See? You are interested.”
+
+
+“I’m surprised. I’ve put quite a lot of thought into his skill, given the situation. An ability like that is beyond my expectations for its development.”
+
+
+“He still has to target the person throwing stuff at him, so—”
+
+
+“That drives Torsten insane. We all know the skill vanished from the list after Alden chose it. But even if it’s experimental, the thing he calls entrustment seems like a pointless limiter on a fairly harmless power. Luna Plim thinks it’s the most wonderful mystery. She’s trying to find other skills with similarly impractical requirements.”
+
+
+“How many levels do you think he’d have to get on the one skill before he can catch bullets with it?”
+
+
+“You want the B-rank Rabbit to be a bullet catcher?”
+
+
+“I want to see him get something worthwhile for his troubles. He’s had it rough.”
+
+
+ 
+
+
+******
+
+
+ 
+
+
+On the rooftop of a mirrored, cube-shaped building that stood by itself, reflecting nothing but the endlessness of the sky and the waves, a woman looked east toward the place where Earth’s newly risen sun hid behind thick gray clouds. Her brown hair hung down her back in three braids, cuffed together with wooden hoops. The uniform she wore was decorated with metal studs, and the fabric of her coat was a pale shade of green that one of the humans on the residence levels below her had said might be called “sea foam” in his language.
+
+
+She was slightly disappointed that the sea here had not produced foam in a similar color since she’d arrived.
+
+
+This is a lonely place on such a lively planet, she thought.
+
+
+But she did not feel alone.
+
+
+She smiled and a minute later, her partner appeared on the roof beside her.
+
+
+“Lind, you’ve been out here for hours,” he complained. “I think you’re doing it just to see if I’ll miss you.”
+
+
+“Did you?”
+
+
+“A little. Isn’t that absurd? I’ve never been more aware of your presence. You’d think it would make me less inclined to follow you onto cold rooftops, but here I am.”
+
+
+His own hair, so dark it was almost true black, was braided to match hers. He crossed his arms over his chest and shivered dramatically.
+
+
+“Are you quite serious, Esh?” she said in an amused tone. “The last time we visited the first Rapport there was a blizzard, and I didn’t notice you complaining about the weather then.”
+
+
+“I was complaining in the privacy of my mind. I’ll make sure you notice it next time.” He looked toward the horizon. “What are you out here for?”
+
+
+“Late in the night I felt something unusual. I wanted to get some distance from the humans to think about it.”
+
+
+He waited.
+
+
+“An authority greeting,” she said. “But such a quiet, undirected one. As if they didn’t seek an answer.”
+
+
+“I didn’t notice it.”
+
+
+“You were observing the Avowed in their training. And as I said…it was very quiet.”
+
+
+“Let’s send a message to all of the unbound here on Earth and demand that the person sending out random hellos confess,” he suggested. “The mystery will be solved in moments.”
+
+
+She laughed. “You cruel man. You’ll have some frightened person convinced we’re angry with them.”
+
+
+“We will tell them that their strange behavior distracted you from your work.”
+
+
+“Let’s leave whoever they are alone. There was something charming about their greeting. It was why I was curious in the first place.”
+
+
+“Speaking of curiosities…I asked the local Contract for the profiles of all commended Avowed on this planet.”
+
+
+She turned to him. “Were you going to invite them over for socializing, training, or work?”
+
+
+He lifted his hands. “I just don’t know what to do with myself when you’re hiding on roofs and there are no disasters in progress. I thought if there was someone very interesting who wasn’t already here we might ask them to stop by.”
+
+
+“Come over. Enjoy the chaos miasma with us.” Her tone was wry.
+
+
+“Yes. Something like that. Do you remember that story we heard about Alis-art’h finding a human on Thegund?” he said.
+
+
+“Of course.”
+
+
+“Because of that experience, he has the highest commendation of any human Avowed. A thirteen-year-old Ryeh-b’t boy. Isn’t that interesting?”
+
+
+“It is,” she agreed. “Very interesting. And disturbing. He must be a remarkable child. I do hope he’s resting well now that he’s made it back home.”
+
+
+ 
+
+
+******
+
+
+ 
+
+
+Alden Thorn dropped out of his bed, and his feet hit the rug beneath him with a thump. He could hear the quiet sounds of Lexi and Haoyu having a conversation in the living room. And the shower running meant Lute was already up, too.
+
+
+Nice, he thought. I slept a reasonable number of hours.
+
+
+His messages light was blinking.
+
+
+[Haoyu: Good morning, everyone! Happy Velra Mafia Infiltration Day! Let’s talk about our goals.]If you spot this narrative on Amazon, know that it has been stolen. Report the violation.
+ 
+***

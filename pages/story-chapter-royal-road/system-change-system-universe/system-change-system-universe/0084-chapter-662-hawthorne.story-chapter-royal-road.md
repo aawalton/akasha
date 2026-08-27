@@ -1,0 +1,129 @@
+---
+id: b87eed93-cbdc-5937-a0c8-322cf732f1bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 662: Hawthorne"
+slug: 0084-chapter-662-hawthorne
+partOf: system-change-system-universe
+position: 84
+ownLength: 2032
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3614513/chapter-662-hawthorne"
+royalRoadId: "3614513"
+---
+
+Chapter 662: Hawthorne
+
+With Derek’s hand on Alex’s shoulder, he was momentarily blinded by a bright flash as the teleporter activated. As the light flashed, he could only hope that Alex had actually put in the correct coordinates and that Jace—in his ghoulish form—had fed the teleporter enough mana to fully activate it. The weightless feeling from teleportation machines was always an odd one for Derek, even though he would only feel it for a moment before he arrived at his destination.
+
+Unfortunately, this time, the feeling lasted longer—a lot longer than any other time before. With his hand on Alex’s shoulder, he even felt the young man tense up with the same worry that was beginning to swell in his own chest. Thankfully, that worry was unwarranted and was most likely due to the makeshift way Brandi had repaired the device, as his feet soon found solid ground once again.
+
+“Whew...” Derek heard Alex let out an audible sigh of relief before the blinding light even had time to disappear. He turned his head towards the young man just as the light faded and the world came back into view, seeing that Alex still had his eyes closed.
+
+“You can open your eyes now,” Derek said.
+
+“Huh? Oh...” Alex muttered, then opened his eyes. For a second time in as many seconds, Alex let out another sigh of relief. “We really made it.” His mouth turned up into a smile, and he couldn’t help but chuckle.
+
+“Yeah... I’m sure it’s pretty funny,” Derek said, then turned his head back to the front and pointed with the hand that wasn’t resting on Alex’s shoulder. “But maybe you should do something about all of that...” Derek was talking about the dozens of guards surrounding them with weapons drawn and spells at the ready. He’d already tried to use Veiled Sight on a couple of them, which had some success, but it had completely and utterly failed on two of them.
+
+Obviously, the two guards that his new identify skill had failed on were well above him in level and could likely take him out with a snap of their fingers. This was where he was banking on Alex’s status in his clan being high enough that bringing a new friend home wouldn’t cause any problems. He just hoped that the guy wouldn’t be in trouble for leaving his so-called ‘training’ so early.
+
+“Alexander?” one of the two really strong guards took a step forward and spoke. “Is that you? How?”
+
+“Captain Hawthorne!” Alex took a step forward with a smile. “You don’t know how happy I am to see you. And what do you mean, how?”
+
+“Alexander... your father held your funeral just this last week. Much of the clan was in attendance—even the Vice Patriarch made an appearance,” the captain explained. “We were informed of your death on the training planet.”
+
+“My... death?” Alex frowned. “By whom?”
+
+“Well... by your escort, Adrian, of course,” Captain Hawthorne explained, but the shock on his face was slowly turning into a frown.
+
+“And everyone just... believed him?” Alex asked, his own look of shock on his face.
+
+“We... nobody had any reason to doubt him,” Hawthorne said.
+
+“No oaths or Truthseekers or anything? My father just took his word for it?” Alex was stunned, but soon a fire burned in his eyes as he said slowly, “Captain Hawthorne, could you please explain to me what happened?”
+
+“Well... not too long ago, Adrian appeared in the same position where you are currently standing. However, he was missing his arm from the elbow down and was cut up very badly. When he was questioned, he said that there had been an attack, and that you were gone, and that he’d come back via the temporary teleporter to at least inform the clan of your fate—no matter the consequences,” Captain Hawthorne explained.
+
+“An attack? I was gone?” Alex frowned.
+
+“Did he use those exact words?” Suddenly, Derek spoke up from beside Alex. The captain turned his attention to Derek, but just shrugged. “Well?”
+
+“He... did,” the captain said.
+
+“So he didn’t lie,” Derek said. “Alex was gone from him. And obviously, there was an attack.” He chuckled. “They just didn’t happen at the same time.”
+
+“He... that traitor!” Captain Hawthorne’s face went from shock to confusion to anger all in an instant. It mirrored what Derek was seeing on Alex’s face.
+
+“Where is he?” Alex asked.
+
+“The clan... healed his arm for having the courage to come back and report your death, then cut all ties and banished him for allowing a prominent young member of the clan to die on a training mission,” the captain said.
+
+“So... the man came back, said some stuff that led everyone to make their own assumptions, was healed, then was able to cut all ties—oaths or contracts—with your clan?” Derek asked. He was surprised and, honestly... impressed. That would take guts to do all that on the chance that everyone would assume Alex was dead. All it would have taken were a couple of in-depth questions, and it would have been game over. “Basically... he left Alex to die and was pretty much let go free for doing so...”
+
+“That...” Captain Hawthorne muttered. “That seems to be the case. There was no reason to question him any further. He willingly gave up any and all storage devices for the clan to comb through. And even if Alex were alive, being left on that planet alone without a way off of it is a death sentence, anyway. The odds of finding another clan or organization on the planet are already low enough. Adding on the odds that they would actually help... no... why question it?”
+
+“I don’t know...” Alex said. “Maybe because the odds are low, but not impossible? Am I not standing right fucking here now? Alive and uninjured?”
+
+“You do not need to be so crass, Alexander,” Captain Hawthorne said, but Derek could see he was still extremely agitated over the situation and was on the verge of cursing himself.
+
+“I think if anyone deserves to be crass, it’s me!” Alex shouted. “I’m the one who has a whole family that thinks he is dead when I am, in fact, very much alive!”
+
+“That... you are correct,” Captain Hawthorne replied. “I am sorry that this has happened to you and your family.”
+
+Alex let out a sigh, then pulled himself back together. “No, Captain Hawthorne, there is no reason for you to be sorry. This isn’t on you—or anyone other than Adrian, really. And whoever he was working with—if anyone. Would you please allow me to go see my family and show them that I am still alive?”
+
+“I would like that, but I cannot at the moment,” the captain said with a pitying look on his face. “As you have been previously announced deceased, we will need to confirm that you are, in fact, who you say you are.”
+
+“Are you serious?” Alex asked, irritated. “I swear to the Origin System that I am, in fact, the Alexander Loomis who I say I am. I am the Alexander Loomis, the son of Rook Loomis. If I am not who I say I am, may the Origin System strike me down where I stand. I swear this to Captain Hawthorne of the Loomis Guard.”
+
+“Alexander! You shouldn’t treat oaths like that!” Captain Hawthorne said with wide eyes. “But... I accept the oath.” After a few moments, he sighed. “That is one way to prove who you say you are. But as a member of the Loomis Clan, you must be more cautious with oaths.”
+
+“Yeah,” Derek said as he looked at Alex, then at the guard. “What if the person who you said was your father wasn’t actually the person who fathered you? Not saying your mother would cheat, but stranger things have happened. You would be dead, and then I would be left in a very bad situation.” Derek was half-joking but also half-serious when he said everything.
+
+Both Alex and the captain looked at Derek with wide eyes at the realization. What Derek said was a real possibility, and if he swore that to the system and it turned out that Rook Loomis wasn’t actually his father, what he said would have actually happened.
+
+“Well...” Alex muttered with a gulp. “That didn’t happen. Are we good?” he directed the question to the captain.
+
+“We are,” the man said with a nod. “But who is this person you have brought with you? And who seems to not have the best of manners?”
+
+“Derek Hunt,” Derek said as he took a step forward and held his hand out to shake. “I’m the guy who ran into Alex on the planet and then saved him. I’d say we’ve sort of become friends since then.”
+
+“Alexander?” the captain asked. “Is what he says true? Did this man save you after you were left by your escort?”
+
+“Left? You mean abandoned and left for dead by Adrian?” Alex snorted, then nodded. “Yes, Derek saved me... and he did so more than once. If I were to be honest, I owe my life to him multiple times over.”
+
+“Is that so?” Captain Hawthorne asked, but it was rhetorical. “If that is the case, then I see no problem in the elders allowing your new friend into the clan as a guest of yours after we ‘bring you back from the dead.’ I will speak on his behalf.”
+
+“Thank you, Captain Hawthorne,” Alex said.
+
+“There is no need to thank me. In fact, it is the least I can do. You see, I was here when your escort came back covered in blood, and I did not ask the proper questions as I had other concerns,” the captain explained.
+
+“It’s not your fault,” Alex said. “You were not the one in charge of the situation.”
+
+“Still...” Captain Hawthorne muttered.
+
+“By the way, why did it take us so long to arrive here? When we teleported, we were in limbo for an exorbitant amount of time when it is usually instant?” Alex asked, changing the subject.
+
+“Ah, well, you see...” the captain sighed. “We are currently on Protocol 2, so the teleportation devices are locked down. The only way to get here is to be accepted on this side.”
+
+“And what would have happened if we weren’t accepted?” Derek asked. He didn’t exactly have a great feeling about what he thought the answer might have been.
+
+“You would have just been reverted back to the teleporter that you came from—or the place where you came from if you were using a temporary device,” Captain Hawthorne said.
+
+“Oh... so we would have lost the device and been stranded on the planet had you not accepted our ‘knock’?” Derek asked.
+
+“Essentially... yes,” the captain said. “But that is the reason that the lieutenant and I are guarding the teleporters right now. So we can accept and deal with any hostile entries.”
+
+“Protocol 2 isn’t that bad,” Alex turned and spoke to Derek. “It just means we are being a little extra cautious. Teleporters not on automatic, visitors or guests needing more vetting... things like that.”
+
+“Gotcha,” Derek said with a nod. “Well... I’m glad that someone was here to answer the door.” He chuckled. “It would have sucked getting stuck on that dead planet any longer than we already were. If I never see another monster worm in my lifetime, it still won’t be long enough. And I have sand in places that I didn’t know I had places in.”
+
+“Yeah... same,” Alex replied. Then he turned back to the captain. “Captain Hawthorne, can you please escort my friend and me to my home?”
+
+“It’s the least I can do,” the captain said with a nod and a small bow. “However, we still need to stop by the clan registry and bring you back from the dead. Now, if the two of you would please follow me.” He looked over at the other higher-level guard. “Lieutenant Jebbs, please contact me if there is any activity, and I will rush over.”
+
+“Yes, sir!” the other guard saluted.
+
+“Let’s go.”

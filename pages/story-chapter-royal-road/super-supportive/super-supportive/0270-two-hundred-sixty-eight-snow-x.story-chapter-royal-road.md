@@ -1,0 +1,385 @@
+---
+id: 3fadf20c-8540-5f7b-b1a7-b8544482b147
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-EIGHT: Snow X"
+slug: 0270-two-hundred-sixty-eight-snow-x
+partOf: super-supportive
+position: 270
+ownLength: 5028
+unit: words
+publishedAt: 2026-01-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2978472/two-hundred-sixty-eight-snow-x"
+royalRoadId: "2978472"
+---
+
+268
+
+******
+
+On the timer Alden had set to count down to the approximate date when Stuart would become a knight, seconds ticked away. He watched a minute disappear. Hours had passed since he’d last looked at it. And days had vanished since he’d set it.
+
+His interface messaging window opened and closed, prompted by his indecision. Since their last call, he had a stronger urge to reach out than usual despite having less to say. He’d already sent three chatty messages today, which was about two and a half more than average.
+
+Stuart couldn’t even respond. It was more practical to wait until he could call on Evul’s tablet so that they could have a two-way conversation.
+
+The message window popped up again below the clocks and timers, and Alden forced all of it to disappear.
+
+Maybe I’ll research grapes instead. I bet there are a hundred grape products I know nothing about, and I can buy all of—
+
+“Astrid to Alden. Astrid to Alden. Come in, Alden Thorn. The dustlings need you.”
+
+He came back to his surroundings—the MPE building’s laundry room—and looked down to where Astrid sat on the floor at his feet. “Sorry,” he said. “What are you saying?”
+
+“I’m pretending to call you on one of the fallen-talkies from We of Dust.” She held the imaginary communication device up to her mouth and shook it like the users did on the popular television show she was referring to. “Since you were ignoring me.”
+
+“I wasn’t ignoring you on purpose.” Just trying to bury my feelings of guilt with expensive texts and fruit. “I got distracted by something on my interface. What did I miss?”
+
+They were in one corner of the noisy, bright room. Alden leaned against the cabinet that was cleaning his unitard and cuffs, and Astrid had seated herself with her back to the neighboring one. She was wearing a shirt she’d bought at Reindeer Selection this morning, signed by the evil Santa, whose team had won many hearts despite the traditional sleigh being the one officially selected as the school’s representative for the Anthropodrome race.
+
+“That unicorn shower cap.” She turned a page in the binder they’d found in here when they arrived. It was filled with glossy pictures of enchanted gear. “It’s for me, right? Say it’s mine.”
+
+The huge box of gifts Alden had brought was on the floor in the middle of the room, being guarded by Vandy, who’d decided to protect it along with her own collection of silver and gold gift bags and the coconut cupcakes that one of the other girls had made to celebrate their final class of their first term as Celena North students. Vandy was trying to make sure the entire class was ready before she let anyone touch the presents.
+
+It shouldn’t be much longer. Alden wasn’t keeping a head count, but it looked like almost everyone was here, being hyper and loud. Vandy had already sent a group text ordering stragglers to hurry. Then she’d followed it up by sending Kon and Heloísa back into the locker rooms to encourage people to move faster.
+
+“I’m sorry, Astrid,” said Alden. “There’s only one unicorn shower cap in there, and you’ll have to fight for it.”
+
+It was more visible than most of the other gifts he’d loaded into the box because he’d put it near the top so that the horn wouldn’t be crushed.
+
+“I’ll get it fair and square then. Feed me gossip while we wait! How did you end up with the Grand Senator’s people during the thing that happened at the Christmas market?”
+
+The heads that turned to hear Alden’s answer mostly belonged to the girls standing nearby. The guys had already gotten their questions in when they were all suiting up before class earlier.
+
+News about the incident was all factual but incomplete. Alden had finally brushed up on it so that he’d know what other people had been hearing.
+
+Graham’s tragedy and his moment of rage were taking the lion’s share of attention. Alden’s interception of that rage was more of a side story. It was like nobody could figure out how to tie him in with the emotional narrative of a man who’d lost the love of his life and then tried to throw his own life away by attacking a wizard in a crowd in broad daylight.
+
+Serious people talking about the aspects of the situation they cared about glossed over Alden’s involvement or neglected it altogether because, Alden was guessing, his presence in the Grand Senator’s entourage and him leaping to the rescue with an edible novelty item were distractingly funny. The most intense debates on Anesidoran news about the situation had little room for commentary on him.
+
+Graham’s future, whether or not his violence was a symptom of the government’s failure to provide sufficient help to people affected by the disaster, Bash-nor’s fitness to be an ambassador, and criticisms about the response time of festival security were the major stories from major news outlets.
+
+The pig, Alden, and Lute—in that order—were making their own entirely different splash in the social media sphere. They were like the stars of a separate incident for people who were into the Velras, people who were into Matadero Rabbit, and anyone who thought it was absolutely hilarious to see Alden catching a fist with the pig.
+
+“Li Jean has Elites, but do they have this hero pig and its Rabbit sidekick?” had been the last comment he’d seen before closing Trime for the day.
+
+Emilija was still deleting some of the insults that found their way to his page. “Attention hog” and its variants were the most common, but there were some xenophobic ones that she was dealing with.
+
+“It was a coincidence,” he said to Astrid, before giving her and the  eavesdroppers the same explanation he’d given the guys earlier. The truth, minus a few key details, could be made dull and reasonable sounding.
+
+“So you ran into the Grand Senator unexpectedly, but because your commendation comes from an important wizard, other important wizards are more likely to be interested in you. And she decided that hanging out with you would be an appropriate thing for her to do.”
+
+“Pretty much. I did introduce myself to her in the first place, but it’s not like Lute and I went to the Christmas market planning to do that. I was there to buy stuff, and her group stopped at the booth where we were shopping.”
+
+“Did she pay you to be her tour guide?” Astrid asked.
+
+“No. It wasn’t like a job. Just a casual thing.”
+
+Except for the part where Zeridee-und’h asked him to do it, and he wanted to show everyone that Bash-nor was a jerk, and it all somehow blew up instead of being anything at all like what he’d expected.
+
+It turned out that Drusi-otta had been glaring so hard at Zeridee at the end of it all because the ambassadorial assistant had tried to tackle Graham only to get in the votary’s way during the first split second of her response. There was no interest in that interaction on the internet. Alden supposed it was only interesting to him because he had a lot more background knowledge on those two than other humans did. He was sure Zeridee had been trying to protect Graham, and he thought that Drusi-otta would have blocked the angry Avowed before Alden could manage it if not for Zeridee’s badly timed involvement.
+
+He hoped she wasn’t in too much trouble for it.
+
+“If I go shopping with you can I meet a Grand Senator, too?” Astrid asked.
+
+“Learn to morph into me and be my double. We’ll each take half of all strange encounters.”
+
+“Ooo…good offer. You were fast with that pig, by the way. I thought the instructors might comment on your real-life moves today.”
+
+Alden was relieved they hadn’t. The question of whether or not he’d been smart to try to stop the attack wasn’t one he wanted to have analyzed by the entire class.
+
+“It was a very smooth response and accurate shield placement,” Vandy piped up. “And it was fast for someone with your foundation point allocation.”
+
+“Vandy, do you know my exact foundation point allocation? I don’t think I’ve ever told you.”
+
+Before she could rattle off what was probably a fairly accurate guess about how he’d divided his points, Jeffy bounded into the room, waving one of the gray fabric bags they’d all been given at the end of class. Their cleaned suits were supposed to go in there today. Over the break, they’d be inspected and loaned to the next cycle of prospective students coming in for combat assessment.
+
+“Kon found it for me,” Jeffy said. “By the toilet. I’m here, so we can open presents now!”
+
+“What about Olive?” Vandy asked.
+
+“Got her!” Heloísa dragged Olive in. “Just tell her that her hair looks fine wet.”
+
+“Your hair looks fine wet!” multiple people called.
+
+“All right,” Vandy said. “My gifts to you all are in the bags. Everyone’s name is on theirs. For Alden’s, to make sure everybody has a chance to look through it and discuss what they want, we should devote a few minutes— ”
+
+“Vandy, you’re so good at organizing us, but I’m an animal,” Alden said hastily. “There’s enough in there for everyone to have one toy and one snack. Maricel’s roommates can grab something for her. To claim what you want most, you must be swift and merciless. The first person to reach the box gets first choice.”
+
+“I want the shower cap,” Everly said at once.
+
+“I need that shower cap for a video I’m making.” Finlay spoke at the same time. “Nobody touch it.”
+
+Astrid leaped to her feet. “I know what to do, you guys! Let me come stand beside you, Vandy. What we’ll do is I’ll count to ten, and then everyone can run or use their powers to get what they want from the box. And that way it’ll be fair. Okay? Let’s do that. One, two, foursixeightten!”
+
+She dove toward the box. Finlay almost beat her there. Mehdi, who had been lurking around the presents for several minutes, was ahead of both of them. He plunged his hand into the box and held it up victoriously while Astrid was lifting up the shower cap.
+
+“It’s the Off-color Eagle Mood Beast!” Mehdi yelled, punching the air. “I win!”
+
+“My gorgeous horn hat!” said Astrid.
+
+Did anyone else even want Off-color Eagle? Alden wondered, while Mehdi shook the Mood Beast at the crowd trying to get past him to the box and did a little dance. Finlay mourned the loss of the shower cap, and Everly called Astrid a cheater while they dug through the presents, looking for something else.
+
+This is what I envisioned, thought Alden, as people traded gifts with friends and took turns wearing the masks and the unicorn cap for photos. This is so ordinary in a good way.
+
+Vandy had given them all pocket notebooks and the new unisex fragrance her parents were advertising. Galeblaze was highly coveted according to the few people in their class who considered themselves experts on either perfumes or Vandy’s parents. Alden was an expert on neither. He thought it smelled good, but he was concerned by Jupiter’s revolted expression as everyone started spritzing it around.
+
+He preferred the notebook. It had a brown cover with his name stamped on it and a matching pencil. She’d written a note on the first page of everyone’s. She complimented Alden on his diligence and wished him a rewarding 2041.
+
+“Thank you, Vandy. I bet I use this as my preserved object sometimes. And the note’s good motivation.”
+
+She had just finished swallowing her last bite of cupcake. She wiped her mouth with a paper napkin and nodded at him.
+
+“I took this,” she said, holding up a water bottle with the word “GUTS” on it in all caps. Alden had added it to the basket because he was sure someone would think it was neat, but Vandy had not been on his mental list of people who might appreciate it.
+
+“People keep drinking out of mine accidentally because our bottles look too similar. And Everly picked this for Maricel. We don’t think she has anything like it.” She showed him the blue and white scarf he’d gotten from Mrs. Nancy’s booth at the market, before he and Lute had joined up with Servin-ith’s group.
+
+He looked at it maybe just a little too long. “I hope Maricel enjoys it.”
+
+“I told her she should come today, but she’s at the dome village instead.”
+
+“The one here on campus?”
+
+“She’s on the team that helps people move out when they get a new living situation.”
+
+While Alden bagged his suit and cuffs, he looked around at them all.
+
+Finlay was nervous about his Elites decision, which he still hadn’t made despite a midnight deadline. He was talking himself into running over to Li Jean right now to ask any available faculty member final questions. Febri was listening to him and doing a terrible job of hiding the nerves that Finlay’s vacillations were causing him. Febri seemed to have decided that Finlay rejecting his own offer was the key to him moving from waitlisted to accepted status.
+
+Winston was over in the farthest corner of the room from Alden. The worst he’d done since his loss during their duel was not take anything from Alden’s gift basket, which Alden might not have noticed except for Astrid asking if she could have Winston’s share of the loot.
+
+Other than small patches of tension like that, this evening was a cheerful one full of cheerful teenagers getting increasingly goofy as they shoved junk food into their mouths and allowed their freedom from school to sink in.
+
+Heloísa chased Jupiter around, trying to squirt Galeblaze on her. Lexi was attempting to toast coconut with Writher. Sanjay was convincing Søren to climb into the empty box that had held Alden’s gifts, because he looked like he would fit, which Sanjay felt was reason enough.
+
+And Jeffy was telling anyone who would listen that he hoped they would fill the whole gym with water “several times” next term.
+
+Alden headed over to watch Lexi toast. His eyes lingered on Haoyu, who seemed much more relaxed and like his normal self than he had earlier today. Kon and Max were observing Lexi’s efforts, too.
+
+“You’ve got this,” said Kon, as the glowing tip of the thin chain approached an abused cupcake on the floor.
+
+Alden sometimes wondered if he was imagining it, but since the Here-to-There, he thought Kon was dialing back his brotherly irritations. Definitely not all the way, but there seemed to be fewer of them.
+
+I hope…
+
+He didn’t want to finish his own thought because it felt like such a pointless one.
+
+I hope everything works out for Kon, and he has a great life.
+
+Naturally he hoped that. But hoping for it would have no effect on the situation. He wasn’t sure if he was avoiding looking for a final, official answer about whether Kon would be assigned to the Branch because he didn’t want to have to tell Kon a few days before Christmas. Or if it just hadn’t happened yet because he hadn’t had a truly private meeting with Esh-erdi and Lind-otta. He thought they might tell him if he approached the question well.
+
+Kon was grinning. Haoyu was chanting, “Golden brown, golden brown,” like he was trying to plant the correct idea in Lexi’s head.
+
+Writher touched the cupcake gently. Coconut blackened, and smoke rose.
+
+“That’s just extra toasted,” said Kon, laughing as Lexi flicked the whip away with a thought.
+
+“I don’t know why I agreed to try. My focus isn’t good enough after two hours of gym,” said Lexi.
+
+“Pretend this one is Alden’s rug,” said Haoyu, setting down his own half eaten cupcake. “And toast it less than that.”
+
+Alden smiled with them all because it was funny.
+
+Be here. On this layer. It’s been a good day.
+
+There was a spaceship on Artona I that the boy beside him might be bound for.
+
+And there was a boy on Artona I who got a countdown clock on Alden’s interface, but not enough truth.
+
+Vandy was across the room, folding that blue and white scarf and putting it in her bag. Earlier today, Alden had received a reply to the message he’d sent to the scarf’s creator.
+
+Of course Mrs. Nancy wasn’t rude. She also wasn’t warm.
+
+She appreciated him letting her know he wouldn’t accept her invitation to come over this Christmas. But “all things considered” it was probably for the best.
+
+Maybe, she said, some other year.
+
+******
+
+******
+
+******
+
+On Saturday morning, Haoyu Zhang-Demir woke up before sunrise, put on a Scorpius shirt, and left the apartment quietly so that he wouldn’t bother his roommates.
+
+As he exited Garden Hall, the duffel bag he’d packed the night before was over his shoulder, and his heart was beating too fast for a Brute who was only walking around.
+
+A car was scheduled to pick him up and take him to the ferry. On his way to the street where it would be waiting, he wished for his mother’s safe return forty times.
+
+It was happening for sure at this point. Absolutely. One hundred percent. The call yesterday had been the important thing, and there was no reason to be worried now, just a couple of hours before she was due home.
+
+But he walked slowly so that he could make the last wish before the car’s driver spotted him and interrupted.
+
+All right, he thought as he approached the street, Molly’s text said it would be a green luxury vehicle. Car service cars are usually black.
+
+He spotted his ride almost immediately and stopped, his mouth opening to shout, “You guys!” like it was an accusation. Even though there was nothing at all bad to accuse them of.
+
+The nonagon was parked beside a street lamp. Lexi, Lute, and Alden were all sitting on it, bundled up in warm clothes for an early, windy flight.
+
+Lute sprang off the platform’s edge and ran toward Haoyu. He flourished his arms as he bowed. “Good morning, sir. Good morning. Please allow me to take your luggage.”
+
+“That should be my line,” Alden said to Lexi.
+
+Haoyu gave Lute his bag.
+
+“Very good, sir. Right this way. Don’t worry about the riffraff. If they disturb you, I’ll throw them into the sea.”
+
+“Is this how your helicopter pilot used to talk to you when you flew to school in the mornings?” Haoyu asked.
+
+Lute heaved the bag toward Lexi, who caught it and put it beside his own small suitcase and backpack.
+
+“You all must have gotten up so early! When did you plan this? I thought a car was booked.”
+
+“Lute thought of it, and Lexi called your dad to make sure it would all work out. I’m just the pilot who comes with the vehicle,” said Alden. “Welcome aboard. This is a direct flight to the TC. We have an in-flight beverage service thanks to Lute.”
+
+Lute presented Haoyu with a thermos.
+
+“It’s broth he made with ramen packets,” Lexi warned.
+
+“And a splash of orange juice,” said Lute. “For the health benefits.”
+
+Haoyu had never gone with friends to meet one of his parents after a trip. He hadn’t thought that he would appreciate the company. But this company, on this morning…
+
+He settled between Lexi and Lute, facing Alden. All of them were huddled and making adjustments as Alden sent the nonagon skyward and they discovered which of the things they carried were most vulnerable to the whipping wind.
+
+“I might cry, you guys.” Haoyu thought it was better to announce it in advance so that nobody would be worried if it happened. “At the TC. Sometimes I do. Sometimes I don’t. It can just hit out of nowhere.”
+
+“Now you have to cry, or we’ll know you’re not really happy we did this,” said Lexi.
+
+“I’m happy! This is way better than a car.”
+
+“Drink the broth,” Alden suggested. “Give your tear ducts plenty of liquid and salt to work with.”
+
+******
+
+******
+
+******
+
+Despite the warning he’d given them, Haoyu didn’t cry when his mother came out of the arrivals hall at the Teleportation Center. All three Zhang-Demirs were beaming and talking over each other.
+
+The details of their exuberant greeting struck Alden at least as hard as tears would have. He could feel the images of them together sticking in his mind, and he thought he’d be able to remember this, even years from now, with perfect clarity.
+
+Their voices echoed in the large open space. Their hugs lifted each other’s feet off the floor. Haoyu didn’t realize his hands were greasy from the breakfast sandwiches they’d eaten while they waited with his father, and when he grabbed his mother and clutched the back of her shirt, his fingers left dark spots on the silk. If they noticed the smudges at all, none of them cared about them.
+
+It was a beautiful scene. Alden fought not to let it become something more complicated in his head.
+
+Were you on Goldbush? he wondered, watching Hale Zhang-Demir. She ran a hand through her husband’s hair and asked her son about his final grades. Or somewhere worse? What did you see there?
+
+And how far away did you feel from home?
+
+His interface clocks popped up, responding to an unwanted twitch of thought. He banished them with a more deliberate one.
+
+He had a call scheduled with Yenu-pezth later today. He hoped it would settle his mind.
+
+******
+
+******
+
+“I can tell I’m doing better in a lot of ways, but I’m starting to think I’m getting weird in new ways now that I finally have more room in my head and in my life.”
+
+“How so?” asked Yenu-pezth.
+
+Alden had chosen to come to Matadero to talk to the healer, to take advantage of the privacy of his hospital room. Sitting across from the life-sized image of her displayed on the wall, it was almost like they were in the same space.
+
+She’d congratulated him on achieving the type of outcome he’d wanted in his bokabv dreams. They’d talked about how great it was to spend multiple days in a row with no shadow of doom hanging over him. He’d mentioned the doors he was trying to look through.
+
+And now this.
+
+“For the past couple of days, whenever I’m enjoying something, it’s like I make myself look for signs that the good around me is as thin as paper. It’s not as if I can’t appreciate it. But I’m much more aware of all the…smudges on the world than I want to be. I keep trying to look past them, so I can properly live my life for a while and find out how that feels. But there the smudges are.”
+
+“Perhaps you should try looking at them instead of turning your eyes away.”
+
+Alden grimaced.
+
+Yenu-pezth wore a green and white robe today. She was sipping on something in a tall cup, and the jar of honey Alden had given her was on a tray beside her.
+
+“Why do you want to look past these ‘smudges’ at this time when you are a person who chooses a nightmare full of demons for your healing?” she asked after she’d regarded him for a while. “And why can you not look away from them? Is there a reason you can find within the pattern of your thoughts?”
+
+She took another sip. “If you walked the inward path today, what truths would you eventually tell me and yourself about this?”
+
+“I could find out the next time I walked there for real.”
+
+“Yes,” said Yenu-pezth. “But I don’t think the answers to these questions are beyond your natural reach. You’ve come a long distance already, and it sounds like whatever this is may be hard to ignore because it’s only a few steps away from you now.”
+
+******
+
+******
+
+Alden walked for miles down hallways devoid of life, past signs warning of flood traps and doors that would become inoperable once they were closed during an emergency.
+
+Despite Yenu’s belief in him, he didn’t feel any of the clarity he usually enjoyed on the inward path.
+
+Stuart called a couple of hours into his directionless trek, and Alden sat in a stairwell that looked like it might not have been used since the facility was built while they talked. Of course Stuart wanted to talk about skills he might like.
+
+“I don’t know if I would rather be a Healer than what I am,” he said to the Artonan who was sitting in a library full of possibilities most humans could barely imagine. “And I don’t know if I’d take the ability to fly or teleport or leap mountains over all the other options you must have there in front of you. I keep thinking about how good it is that Haoyu’s mother came home today without a single scratch, so maybe that’s an indication there’s something special to me about their Dura Brute build. Really, I’m all over the place right now. I know nothing about myself.”
+
+“You have sent me an unusual number of messages since we last spoke,” Stuart noted. “And they do seem…less focused than usual. About the one from earlier today—just grapes are fine. The fruit itself, not all of those other things you mentioned. Maybe a couple of varieties of grapes?”
+
+“I’ll get you the best grapes on Earth,” Alden said.
+
+“That’s good. But if you are digging for lost focus, I’d rather you apply what you find to this,” said Stuart, patting one of the books in front of him. “Let me continue. When you protect something with your skill, do you think about nurturing more? Or stabilizing? Do you prefer one to the other in general? And are you usually more attentive to yourself, to what you preserve, or to the person who entrusts you with the thing you preserve?”
+
+Alden couldn’t answer him.
+
+“I have a timer that shows me when the next Welcome End is,” he said instead. “Would you tell me if the date I’ve set is right?”
+
+That caught Stuart’s interest. “A timer? For me?”
+
+“Yes. So I’ll know. It’s part of my interface now. I want to make sure it’s accurate.”
+
+“It’s so encouraging to think someone has done something like that with hope for me in mind instead of negativity! What does the timer look like with your language’s numbers on it? May I see?”
+
+Alden asked the System to send him a copy of it. Stuart was so delighted by the countdown clock that he started thinking up things to say about it in their shared study journal on the spot.
+
+“I may go to first binding well before the time on this expires,” Stuart said. “But knowing you keep track of the days for me in this way means much.”
+
+I’m glad such little gestures matter to him…oh. He’s just said something I didn’t know. Something big.
+
+Alden placed a hand on the bottom of the stair rail. “You might go to first binding sooner? But…the promise to your parents…”
+
+Stuart looked up as if he was imagining his family walking the floors of the house above him.
+
+“They don’t know what Father said to me during our conversation, so don’t mention this in their presence. But we spoke of confidence. It was in my thoughts because of you, of course. He said he hoped I would find a confidence in my path stronger than what I had on that morning when I first told them all my decision for my choosing season and they reacted…as they have reacted. He said that if I have such a confidence within my grasp, I should act on it with my full strength and with the knowledge that he will not be disappointed. He asked me to promise him I would.”
+
+Stuart sat very straight in his chair as he spoke those last words.
+
+Alden felt like the walls were swaying, just a little. Perhaps Matadero had come loose from whatever magic held it in place, and it was now rocking in the ocean.
+
+Or sinking.
+
+“Don’t mention it to anyone,” Stuart said again.
+
+Alden nodded. “I won’t.”
+
+******
+
+Alden continued to walk for nearly an hour after he finally got off the call. His countdown timer was now useless except for Stuart liking that it existed. He felt as though he’d been cheated.
+
+Months or days or minutes left. Who knows? Not me.
+
+“The Primary is trying to drive me insane from fifty dimensions away,” he said aloud. “This is all his fault. I should complain to his sister.”
+
+Actually, Alden was glad Jeneth-art’h had given Stuart advice and permission not to keep perfect promises, especially when the family wasn’t holding up their end of the agreement in the way Stuart had believed they would. But blaming someone else for this minor disaster was briefly satisfying.
+
+Extremely briefly.
+
+Alden heard a faint noise and looked up to see a short wizard with large ears staring at him from about thirty feet away. He was holding a plastic cup full of Kabir’s croutons, and he was giving Alden the same look Alden might have given a giraffe he overheard whining about the President.
+
+I’ve wandered too close to the residential section.
+
+“I was just talking,” Alden said quickly.
+
+“I did not hear you talking,” said the wizard who had clearly heard him talking.
+
+“I mean what I said wasn’t real. I didn’t mean it. I was—”
+
+“I did not hear you with either ear,” the wizard swore.
+
+What does this guy think?
+
+“It was like a joke,” said Alden. “Just for myself. I thought I was alone.”
+
+“I will be properly discreet.”
+
+“About wh—? Okay. Thank you.” Alden sighed. “Enjoy your croutons.”

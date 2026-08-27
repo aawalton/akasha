@@ -1,0 +1,609 @@
+---
+id: 36087073-d4b0-5d54-acfa-325b056a0e46
+page-type-slug: story-chapter-royal-road
+title: "Chapter 193: Taking Steppes"
+slug: 0117-chapter-193-taking-steppes
+partOf: the-calamitous-bob-stubbed
+position: 117
+ownLength: 6495
+unit: words
+ownProgress: 6495
+publishedAt: 2025-02-14
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2067167/chapter-193-taking-steppes"
+royalRoadId: "2067167"
+markedReadAt: "2026-06-29T21:18:49.458Z"
+---
+
+Wind buffeted Viv, high up over the kark homeland. It was as unceasing as the plains that extended from horizon to horizon, a vast tapestry of gold and green crossed by the distant shapes of large beasts lurking under the tall grass. When the wind truly picked up, vegetation flattened like the fur of a wet beast while distant clouds drifted at dizzying speed. High above, Viv experienced an emptiness that was almost enough to give her vertigo. It lingered when she returned to the ship, though right now, she really didn’t want to.
+
+The landship was designed to accommodate cargo and a crew of up to seventy. It could technically operate on a skeleton crew of eight. Right now, over three hundred kark warriors and sailors clogged every corridor to the point they rotated on the bridge to make the trip tolerable. Viv had even given up her cabin so people could sleep in shifts. As for Arthur, she had elected to sample the local wildlife so they barely saw a scale of her.
+
+Viv had expected the kark to lose patience, yet every time she returned, gaggles of youths glutted the railings, looking out wistfully in peculiar silence. Longing, nostalgia, anguish, their emotions bled out to give the trip a melancholic mood Viv didn’t really enjoy. It wasn’t exactly a good portent. It also reminded her of what she expected to find.
+
+The older men in her unit back in France, the ‘vieux briscards’, had opened up after she’d proven herself. When bottles ran empty, tales of lands torn by civil war surfaced along with haunted gazes. It was always the same thing. The sickly sweet stench of rotten meat. White teeth exposed to the moon, from rictus that would never fade. Burnt toys. Children. It was always the children that broke them in the end.
+
+This was what Viv was going to face. It didn’t matter that the kark were not human. They were people. And the Pure League had been in ethnic cleansing mode for more than a decade.
+
+One of her fears was the turnaround. If Marruk’s tribe counter-attacked and managed to reach the human villages profiteering from the carnage, then what? She knew what was right: to spare the civilian population. It was Neriad’s path.
+
+She knew what she would do if she were in their place. Her rage would burn like a poison. Her path would be that of Efestar. Without the second chance part.
+
+Hopefully, she would manage to rein in her emotions.
+
+Around her, a light rain began to fall. Viv pulled a few runes to create a transparent shield that repulsed only solid water — mage superiority meant no need for umbrellas. Her mana senses picked up the quickly approaching form of Frosthawk.
+
+The old archmages smiled, one of the few genuine expressions of joy he ever gave. He was in his element far above the earth and its concerns. He flew with control and grace in a way Viv would never manage to match, and the very air repulsed droplets of water around him.
+
+“Patrol on our left,” the archmage said, using a spell to allow his voice to carry over the ever-present howl.
+
+Viv nodded. She’d seen the tiny dots in the distance. Local kark riders on their strange beasts, the pakar. They had to have amazing sight to spot the landship from that far away.
+
+“Intercept?” Frosthawk asked.
+
+Viv shook her head.
+
+“They won’t catch up. Marruk confirmed this section of the steppes is neutral. We have no reason to wait for them.”
+
+“We should still consider stopping some time soon,” Frosthawk said.
+
+He looked at the landship, its deck even now crawling with people. It had already been two days since they had started sailing at breakneck speed. The landship moved almost as fast as she did, but it also did it at night thanks to rotating crews. She still installed teleporters at some distance for the return trip.
+
+Even then, the steppes were immense. Her people would grow restless very soon without a break, especially since most of them were young warriors with no outlet. They had to stop on the way, let people stretch their legs and their tempers.
+
+“Marruk mentioned a lake where her people gather. We will go there.”
+
+“It will delay us.”
+
+“That is acceptable,” Viv said.
+
+Viv landed near Marruk. The poor girl was spending much of her day managing her restless people, so she welcomed Viv’s presence.
+
+“We should stop soon.”
+
+“Oh bless the ancestors. If I have to break apart one more scuffle, I will throw the assholes overboard.”
+
+Her eyes grew distant.
+
+“We can go to the Great Bazaar. Near the Sky-Mirror Lake.”
+
+“That was my plan.”
+
+“I have never been there. We might not be welcome.”
+
+Marruk’s brow furrowed with concern.
+
+“The travelers will see how much metal we have. They will be greedy. We must stay vigilant.”
+
+“Duly noted. Your people need, ah, shore leave. They wouldn’t be attacked, right?”
+
+“They would be robbed.”
+
+“Hmmm. Have them move in groups of no less than five. I will provide oversight.”
+
+Marruk shook her head.
+
+“No. You cannot. The tribes will want to meet you. Yours is the role of the ambassador.”
+
+She hesitated.
+
+“I think?”
+
+“What’s the tradition?”
+
+“There is no tradition, Viviane. No outlander king has ever come to the help of a tribe against other humans, and never on the back of a steel beast. Curiosity will push the tribes out of their farming grounds. The important people will want to speak to you.”
+
+“Well, maybe we can use this opportunity to learn more about what is going on.”
+
+“Yes. They could know where my kinsmen are. Or who is currently at war with whom. Or if we have gained any support… not that I expect it.”
+
+Marruk sighed. Viv remembered it was a sore topic.
+
+“You told me the tribes warred with each other as much as they warred with the Pure League, right?”
+
+“There are long histories of Blood Feuds, and my tribe… participated in most of them. We live in the easternmost fringe of the steppes. That means some stable farms, much wood, metal, and trade with the northern cities before the Pure League soured it all. We were rich. We had the most iron of any tribe, and my people used it… selfishly.”
+
+Viv nodded in understanding. Caring for your own nation to the detriment of everyone else was a constant of Paramese politics. Only exceptions like General Jaratalassi drove cooperation forward when most participants wanted nothing more than to stab each other in the back for two acres of land and an extra biscuit.
+
+“Many grudges remain unsettled. We are weak, and we are prey now. Those of us that are left.”
+
+Viv patted Marruk’s shoulder.
+
+“We’re going to change that.”
+
+“Yes,” the stout girl said, “we will try to.”
+
+***
+
+Sky-Mirror lake was much larger than Viv had anticipated. Water seemed rare in the steppes, mostly isolated ponds and brooks that dried too quickly, so it was with some surprise that she found a strikingly blue surface extending for several kilometers in every direction. A bright sapphire spot in a sea of emerald, its shores were high and devoid of vegetation, like the edges of a crater. Actually, it might be, perhaps the site of a meteor fall or the last remnants of a long-dead volcano. Cries of relief and excitement came from the land-ship below. Viv touched her aching sides as she flew faster.
+
+She had just tried to tether herself to the mast. Just to see if it would be fun. It had been a painful and brief mistake as the enchanted sail gathered a lot of wind power, and temporary accelerations could drive a rope into a foolish girl’s ribs with the vindictive force of logical consequences to one’s brainless actions. Viv landed on the deck just as the first yurts came into view.
+
+A semi-permanent encampment gathered around the lake in a structure that vaguely reminded Viv of old pictures of kibbutz she’d seen in history books. An outer ring of tents surrounded seven bands of cultivated fields that all narrowed towards the lake, with a much denser gathering of tents in the north. Numerous kark worked those segregated fields, visible even from high up. There were quite a few trees as well.
+
+“One section of fields for each tribe,” Maruk said. “I’m surprised ours is still standing, even with the holy truce.”
+
+“So this is neutral land?”
+
+Marruk nodded.
+
+“Always has been. Shedding blood here is taboo.”
+
+“YET IN THE YEAR OF THE BLOOD PLAGUE, THE SEA TRIBE—”
+
+“Hush,” Marruk said, interrupting an enthusiastic warrior. “Please don’t start a long litany of all blood feuds of our people, thank you. I don’t want to be here until winter.”
+
+“I need to get changed. I’ll be back soon,” Viv said.
+
+Viv rushed downstairs to her cabin, regretfully evicting five sleepy kark girls from her bed. She quickly changed into her regal armored robe and returned to the deck, just as Arthur descended. She was excited.
+
+Fish!
+
+The large dragon pushed her way below deck. Surprised yelps and crashing sounds marked her progress until she returned a bit later with a small barrel held between two claws.
+
+“Is that sauce?”
+
+Of course.
+
+I always have fish sauce.
+
+I created my own artisanal shop in Frostbay!
+
+They almost got it right.
+
+“Huh. And you want to fish in the lake then? Be careful.”
+
+Yes, yes, I know how to approach unexplored water places!
+
+The dragon rolled her eyes. It was always a little funny seeing Viv’s own expressions on her daughter’s reptilian face.
+
+I will find you later, in the big place.
+
+Make sure you have a cook around.
+
+Needs proper fish preparation experience.
+
+Then we hunt worms.
+
+Big worms.
+
+“Those would be Sudden Deaths, one of the steppes most dangerous predators,” Marruk commented laconically.
+
+Silly red woman.
+
+I am the most dangerous predator.
+
+Find me worm sauce, minion.
+
+“I am not a minion.”
+
+The two exchanged a glare, with Marruk not backing down.
+
+“I stole meat from the pantry for you back in Kazar,” Marruk reminded her.
+
+“WHAT? THAT WAS YOU?”
+
+It is true that you helped me when I was very small.
+
+Now that I am large and mighty, my gratitude should be obvious for the world to see.
+
+I am upgrading you from minion to friend.
+
+“Thank you.”
+
+Borgling friend.
+
+Not dragon friend.
+
+Sorry.
+
+The dragon didn’t actually seem sorry.
+
+“I’ll take it. You should go now. We have almost arrived.”
+
+The landship veered sharply north to head for the main cluster of yurts, which let Viv study the outer ring of tents as they passed by when she was not calling Marruk a traitor. Kark workers also watched them go on with expressions of complete bafflement. There were deep variations from one field to another, one that showed cultural divergences between tribes. Some preferred white, low tents that barely popped out of the ground while others stood on platforms made of woven grass.
+
+“Sand dwellers and marsh dwellers,” Marruk commented. “And here is my tribe’s land.”
+
+The mood plummeted when the next field came into view. Malnourished farmers in tattered red clothes toiled with wooden tools, with some of the fields tended by much better looking neighbors. Rented out, possibly. The yurts themselves looked patched up from scraps, and there were noticeably fewer of them. They even came across a group of kark in green clothes harassing a few red-clad children. The children used the distraction to escape.
+
+Marruk’s knuckles made the steel railing groan.
+
+“There is truce and there is truce, I see,” Viv said in a low voice.
+
+“Were it not for it, my people would have been evicted. It could have been worse, I suppose. See how promises and oaths twist when the other is no longer worthy of respect.”
+
+Viv patted Marruk’s shoulder, and since both were in armor, the clink clink sounded ridiculous. Marruk smiled bitterly.
+
+“And to think we ride enough metal to buy ourselves the entire Bazaar.”
+
+“Steel has much value here, then?”
+
+“You have no idea. The first time I left the steppes, I thought eight iron bits were the ransom of a prince instead of daily wages. Ah, here we are. Look, this is the pakar market.”
+
+A long, rectangular mud building formed a barrier that covered the entire approach from the south. Groups of laborers came and left, carrying dejections in wheelbarrows. Viv used the long view to watch a column of pakars leaving the compound.
+
+They were weird beasts, she had to admit. They had the shape and gait of ant-eaters, though more muscular and significantly larger. Their robes ranged from deep brown to white and the muscular front legs reminded Viv of bears, but it was their faces that were rather unique. A bit triangular, they showed deep, intelligent eyes over a large snout devoid of fur. Marruk had explained the pakar had exceptional smell and tremor senses. Viv also noticed that the dominant male’s snout was scarred.
+
+“Majestic beasts, yes?” Marruk said.
+
+“I have never seen noses like those.”
+
+“They are very sensitive. Pure League archers aim for them in every battle so they can inflict debilitating pain.”
+
+“Why have you never bought one?” Viv asked. “You could afford it.”
+
+“They are steppe creatures. Even if I bought a small herd, they would be sad in the deadlands. And then die off after a generation.”
+
+Another deep sigh confirmed Marruk was not having a good time. Quick, time to distract the poor girl.
+
+“What about the big gaudy pavilion there?”
+
+“The tribal council gathers there when something important happens — bunch of argumentative old pricks.”
+
+A few of the nearby warriors gasped.
+
+“Important auctions are held there, such as for creature cores or metal. We will be invited.”
+
+She looked at the ship, then at Viv.
+
+“You will be invited. You should accept.”
+
+“And I invite you as my interpreter and bodyguard.”
+
+Marruk huffed.
+
+“Just like the beginning.”
+
+“Hopefully with fewer surprise attacks.”
+
+***
+
+The Harrakan ship stopped at the edge of the grassless field, behind the main encampment. It was there that the larger convoys camped if they didn’t want to join their assigned fields. There were at least ten thousand kark milling around, along with thousands of pakar and other beasts. Colorful tents formed a kaleidoscope of styles and influences, with the red ones being the rarest. A large crowd of stupefied onlookers formed as soon as the landship stopped at a respectable distance. They huddled in a large mass, though none dared approach for now.
+
+Frosthawk had a plank lowered. Viv was the first to get down, stopping at some distance with the archmage and Marruk at her side. People muttered when they saw her, but it was the arrival of hundreds of heavily armored kark that sparked the strongest reaction. Marruk’s people carried a lot of steel, or at least that was what Viv guessed they were saying. She recognized the word for iron but little else. Learning the kark language had not exactly been a priority.
+
+Viv wasn’t exactly sure where the Hadals were but she assumed they would show up when the food was served.
+
+Viv knew she only had to wait for someone important to show up, and indeed, two minutes later, roars and exclamations warned her someone was cutting a path through the crowd, pushing them aside with threats and injunctions. A heavy-set kark with a large hat finally broke his way through. He was flanked by two dozen muscular guards carrying heavy cudgels. They immediately adopted the ‘violent mook’ glare, with which Viv was quite familiar.
+
+They were also wearing wide hats. What was it with people and large hats here? Even her crown wasn’t that gaudy.
+
+The newcomer immediately started a grand speech so loud some sort of skill had to be involved. It lasted a good five minutes and finished in an embarrassing silence. Viv leaned towards Marruk.
+
+“I think you’re supposed to introduce us and, also, translate.”
+
+“Oooh. Yes.”
+
+In what was a quiet voice according to kark standards, which meant it wouldn’t be overheard over a passenger plane’s jet engine, Marruk introduced them. She then leaned towards Viv and whispered at barely opera soprano levels.
+
+“He welcomes us here as travelers and inquires as to the purpose of our visit.”
+
+Viv gave her a look of disbelief.
+
+“That’s it?”
+
+“I am cutting away the politician's bullshit.”
+
+“You can tell him we are here to resupply on our way to the eastern steppes.”
+
+“Should I tell him we are going there to fight the Pure League?”
+
+Viv shrugged.
+
+“If you want. I think he can infer it from the situation though. Any chance the Pure League has spies here?”
+
+“No, because they are extremely racist.”
+
+“So?”
+
+“Would you spy on beastlings?”
+
+Was this a trick question?
+
+“Yes.”
+
+Marruk sighed.
+
+“Would you recruit a beastling spy?”
+
+The answer was that she would hire a talking squid in a felt hat if that gave her an edge, but she got the point anyway.
+
+“No spies, got it. You can also mention the possibility of trade, now that the tunnel is open. I suppose we might as well start enquiries.”
+
+“Oh, they will love this.”
+
+And he did. The kark saluted with his hat, showing carefully combed white hair underneath. Just moving that gaudy thing around probably required twenty points in power or higher given the size of the horror. His ruddy red skin glistened with sweat. Maybe he just wanted to air it a bit.
+
+Another five minutes of speech followed. Viv refrained from casting a sound-dampening aura to protect her eardrums.
+
+“He says he wants to offer a guided visit and then retire to the big tent to talk.”
+
+“Marruk, you really need to make an effort to sound more pompous. You’re gonna make him angry.”
+
+“He called me a wayward daughter of the Red Tribe. He used a condescending word. If he keeps talking, I will strangle him.”
+
+“Fair enough.”
+
+As Viv was about to accept the invitation, a distraction broke the meeting.
+
+Under the mesmerized gaze of the assembly, one of the oldest Paramese Viv had ever seen barrelled his way towards them from the flank. He was tailed by a panicked, overweight kark woman crying like a fountain, probably a caretaker considering the male kark was hunched, thin, slightly stooped, and shriveled like an old prune. He had to be positively ancient.
+
+More surprising was that he was carrying the tip of a familiar spear design on a long wooden haft. A ratty yet familiar flag hung from the ancient implement. Viv gasped in surprise while Frosthawk turned to her, probably as lost as she was.
+
+He stopped in front of her with an excited rattle. Straightening up, the old kark bumped a gnarly fist on his thin chest.
+
+“Glory to the legion! Glory to the Empire! Harrak eternal!”
+
+“What the fuck? Err, I mean. At ease…”
+
+There was an insignia on the man’s shoulder.
+
+“Corporal?”
+
+“Long live the Emperor!”
+
+***
+
+The breathless caretaker explained the situation on the way to the bazaar while the proud ancient kark was allowed to brandish a brand new flag. As Viv expected, he was six hundred years old and a veteran auxiliary of one of Harrak’s legions. He was probably one of the only three living people to have been part of the ancient Harrakan military, though calling Abe and Solfis ‘living’ was debatable in itself. Viv would have absolutely loved to bring him back just to watch Lady Azar’s face, but that wouldn’t have been right. Instead, she had the sail engineers turbo-weave him a dress uniform before sending him on his way with some iron and a promotion to sergeant.
+
+The tribal leader who had welcomed them headed the semi-permanent council. His title could vaguely be presented as ‘Mediator’, and that was how Viv chose to call him. The kark was absolutely ecstatic to show her the pakar stalls, indulging in long discussions on bloodlines and price variation, and distance traveled, and long list of merits and achievements that Marruk laconically translated in five words or less. Viv muttered the appropriate words of amazement while a crowd of surprised kark watched them go with open mouths. At least, that meant they wouldn’t be talking for a while, offering her a brief respite, because she’d been to quieter punk rock concerts.
+
+After leaving the stalls and its smells behind, the group seamlessly entered a cluttered maze of stalls and large tents displaying a variety of wares. This time, Viv did cast a sound dampening enchantment she created on the fly because it was this or a ruptured eardrum. The diversity of stuff that could be bought or sold here was nothing short of amazing. The scale also varied from children selling dirt-stained bundles of root vegetables to rich merchants piling gold ingots on an elevated table. Carved woods, ivory, bone, and stone waited next to furniture and agricultural tools she didn’t recognize. Weapons, mostly spears, and bows could be found alongside gambesons and boiled leather armor. The only thing missing was steel, really. Delicious smells emerged from some of the more distant tents. Aromatic herbs fought for space with pots and pans in a colossal mess of dizzying aromas. Viv felt that every single sense she had was assaulted with the exception of touch, mostly because she would just start disintegrating faces at that stage. Even mana burnt in many hues on the backs of cloaks, the bases of stoves, and the trinkets of the wealthy.
+
+Viv aspired to a brief respite when they reached the largest tent. Inside, enchantments kept the air cool though a bit rank, but more importantly quiet. The Mediator helped bring her guard down when he left to order some tea. Even the following negotiations felt more subdued. Her host teared up when he learnt the trade to New Harrak would soon be reestablished. A request for a list of tradable goods garnered his approval, though a quick skim could summarize it as ‘if it’s metallic, we desperately need it’. Viv deftly deflected an offer on her land ship by saying the complex piece of engineering required a maintenance team they didn’t have. It was more polite than telling them they were broke.
+
+When Viv was finally feeling better, the Mediator sprung his trap.
+
+He invited her for lunch.
+
+Viv couldn’t refuse since she intended to stay for the evening. The witch was forced to wait until the various bigwigs showed up. Food was quickly brought in large plates, and as the empress tried some of it, she was pleasantly surprised by the quality.
+
+Her pleasure lasted exactly as long as it took for the first kark to start chewing. She paled and turned to Marruk who gave her a look of pity. The old girl knew what was coming. Nothing could save Viv now.
+
+Viv had always disliked people who ate noisily. As for the kark, they were not the kind of people to chew with their mouths open.
+
+No.
+
+That was entirely too pedestrian.
+
+By culture, they had to express their appreciation to the cook by consuming it in the noisiest way possible. Immediately, the common space turned into a concerto for molars and gullets in B depressed. The Mediator opened the prelude with loud slurps of his soup which punctuated with a satisfied ‘aah’ in a two-beats leitmotiv, soon joined by a crusty shaman gnawing on an ear of some sort of cereal with all the grace of a woodchipper. The staccato of a merchant chewing with his mouth so open he lost a piece of food with each smack accelerated the dance. The cherry on top was a scarred warrior slurping noodles that were either two-meters long, or he was really bad at it.
+
+After five minutes of this, Viv was considering switching sides to Team Genocide.
+
+After another minute, Marruk dragged her outside for a quick breather. Viv used the opportunity to meditate and calm down. This was fine. She was exaggerating. They were just people living according to their own norms, and she was merely a guest so she ought to chill. Not to mention that they were in no way showing disrespect, quite the contrary.
+
+“You needed a moment, yes?” Marruk asked in a blessedly quiet voice.
+
+The sounds of feasting and singing rang all around them, though distance and a barricade on the side secluded the private square they were on. It appeared Marruk had selected a sort of garden where people might gather in relative quiet. The ground was made of packed dirt with tufts of dry grass but an effort had been made to provide beautiful flowers on the side. It was almost relaxing.
+
+The wind changed direction, and the stench of a nearby latrine ruined the moment. Viv winced. The perpetual presence of Solfis in her throne room had spoiled her, with rude people aware that they were only ever one snap away from enthusiastic defenestration. The world there catered to her needs. Here, people were oblivious to her desires, and she had no intention to change that. One should not get used to entitlement, after all.
+
+It could be worse. They could be smelly and dirty.
+
+Having sufficiently coped with her predicament, Viv nodded to her trusty companion.
+
+“I know they don’t mean anything by it.”
+
+“It annoys me very much as well,” Marruk said.
+
+Her eyes grew unfocused.
+
+“Always so noisy, always claiming this and that. They have to show everything with big words while their actions fail to follow. Sometimes. Big claims about victory. About… about protecting my mom.”
+
+Viv wrapped her arm around the stout kark’s chest, managing to reach maybe halfway to the other shoulder.
+
+“I will ask them where your tribe council is. We will get you back and then we will make things better, yes? Your warriors, you have already changed them. They respect you.”
+
+“There are only a few hundred of them. Hardly enough.”
+
+“It takes only one person to carry an idea. See, you were alone, and now, as you say, bam. Three hundred.”
+
+Marruk chuckled.
+
+“You are good at telling me the truth I like.”
+
+“It’s called politics. You should try it sometimes.”
+
+“Hah! Well, shall we head back? We should not miss dessert.”
+
+Reinvigorated, Viv just decided to focus on the delicious food until Marruk needed to translate something. The kark were not a meat-eating people but that didn’t stop them from having a great love for gastronomy. Soups, pies, mashes, vegetables sauteed, braised, or baked, and all manners of dried or smoked stuff seasoned to perfection provided one of the best and most novel culinary experiences Viv had had since leaving Helock. She also managed to engage with the tribe representatives who were curious to learn who she was and what New Harrak had to offer. Viv wisely decided to wait until they served some of the freshest kava she had ever drunk before talking. By then, the representatives were full and happy, so they indulged her without much issue.
+
+“Your timing is great. My little Shola said the Red Tribe has gathered near Small Fall for the harvest. They are collecting all the food and allies they can find,” the shaman said.
+
+“As usual,” her neighbor grumbled.
+
+He didn’t sound like a fan.
+
+“Luten is gathering strength for another push,” the scarred veteran grumbled.
+
+He gave her a measuring look.
+
+“Not a strong one. The Pure League is reconsidering their expansion. The dust storm has been especially strong this year so their people clamor for food. Many demand that the taxes be lowered.”
+
+“That just means they need a win,” another said, but the veteran shook his head.
+
+“Their knights have all but deserted the frontline. Only Purist fanatics and the soldiers will be here this time.”
+
+“And the Dark Blades,” someone whispered.
+
+The mood grew somber. Viv wasn’t so sure the outfit had survived a decade of war unscathed, but those that remained had to be aggressively dangerous.
+
+A bit like the Hadals but the Hadals had been playing that game for much longer.
+
+Marruk remarked they should hurry. She wanted to be reinstated and alter the course of the war before it started. They would already lack time to prepare.
+
+Viv patiently waited for the representatives to finish talking. Marruk explained that none of them held power, not really. They were just stand-ins for the true leaders who were currently all managing the hunting and gathering of the season. She was still impressed by their knowledge of the current situation. Information moved decently fast in the steppes, and that was just what they were willing to admit in front of rival factions.
+
+“The Long River Tribe has declared a Blood Feud against the Red Tribe,” the Mediator suddenly said.
+
+He smiled. The other kark suddenly paid attention to the candied fruits served with the kava. Viv had the feeling this was relevant.
+
+“They are in the way. The Mediator helps us by warning us. It is a small favor that shows preference and might endanger his position,” Marruk added.
+
+“Make sure to tell him I appreciate it.”
+
+Marruk nodded.
+
+“We have a course now. We go to Small Fall to find my people. Then, we fight.”
+
+“Let’s not forget getting you unbanned first.”
+
+“Oh, I have a plan if you will help. We will not even have to kill anybody.”
+
+Viv was intrigued.
+
+***
+
+A small gathering of confused children had gathered not far from the landship. They scurried around, bringing twigs of dried wood from a small pile to feed the fire under a grill, upon which fish gently seared. A small dog sniffed at a nearby pile of offal.
+
+Arthur presided over the improvised kitchen.
+
+“Arthuuuur!” Viv said, suddenly concerned. “Who are they?”
+
+Helpful minions.
+
+Very disciplined.
+
+“Very afraid you mean? Have you looked at the color of their clothes? They’re not even from the same tribe! And where are the parents? You can’t just grab children off the streets!”
+
+No streets here.
+
+“Don’t you go semantic on me, young lady!”
+
+Fine.
+
+Not captured minions.
+
+Interns.
+
+“Unpaid interns? Do we need to have that discussion again?”
+
+The dragon sighed.
+
+Two iron bits for the performance.
+
+Each.
+
+Except little Rana.
+
+The dragon pointed at the young boy in charge of the fish sauce.
+
+Very motivated.
+
+He gets three.
+
+“No kidnapping!”
+
+Fiiiiine.
+
+Oh, I have found something you might like.
+
+The dragon’s maw opened, revealing a row of serrated fangs. A smile, or an imitation of one. Arthur was really good at imitating human expressions.
+
+At the bottom of the lake.
+
+I think Marruk will like it.
+
+“Do tell?”
+
+Arthur did tell, and Viv planned.
+
+***
+
+The landship sped through the steppes leaving behind only trampled grass and utter confusion. They came upon one notable hurdle, a small river that they managed to cross by finding where the kark did it, then doing it while they ran away screaming. Two days later, they trespassed upon the lands of the Long River Tribe.
+
+Viv noticed an assembly of pakar riders arrayed in their path from high above. They had a few shamans with them, and were quite numerous but when Viv notified Frosthawk, the mage wasn’t overly concerned. The landship veered north. With the speed at which the Harrakans were going, it took a very long time for the mass of riders to trot themselves on an intercept course. A group detached itself when it became clear that they were outmatched speed-wise. Shamans grew walls and pillars in the way in a desperate attempt to slow them down.
+
+Frosthawk calmly walked to the center of the landship, where the core was. He interacted with the central array. Their speed faltered. In return, the ground in front of them flattened as they advanced as if smoothed by some divine hand. Truly, Sidjin had done a good job.
+
+The land ship leveled all obstacles in its way. Those riders that were too close fled before they could experience Newton’s first law, and the land ship was through.
+
+“Damn, that was smoother than I expected,” Viv said.
+
+She sent a massive prayer to Maradoc, God of Travelers, so he would be sure to watch the replay. Harrak for free transit!
+
+“Yes. Our engineering cannot be matched!” Frosthawk replied with pride.
+
+“Maybe we should give the landship a name?”
+
+“I was thinking about it, but I didn’t want to call it the ‘Unstoppable’ only to crash on a mid-sized stone.”
+
+He gave her an accusatory glance.
+
+“My luck doesn’t work like that.”
+
+“Sure.”
+
+“Let’s name it after we arrive, and quickly. It can’t be good luck to leave a ship unnamed like that.”
+
+***
+
+Frosthawk slowed the ship down once they approached the renowned Little Fall. Far out east, the land grew greener and patches of actual forest sprouted here and there. It was a more fertile ground where semi-permanent villages emerged as tiny dots in the distance. The Red Tribe clearly enjoyed more resources than what they’d seen so far in the steppes, but Viv assumed it came with a side of hardships.
+
+They heard the waters of Little Fall over the wind long before they spotted it. The landship climbed a slope towards a low ridge stretching wide over the plains, the highest point for leagues in every direction. It formed a quieter natural barrier. Soon, the landship found a path it followed gently up. Permanent fields and stone dwellings showed that this was an important place, and right now, it was packed with harried-looking kark.
+
+Viv felt the difference. It wasn’t in the clothes, though they were on average rattier. It wasn’t in the belongings either although there were fewer of them. It was in the guarded gaze that expected no surprise to be good, though the presence of red-wearing kark on the deck stopped them from running. It was also in the tense postures, in the gaunt faces, in the fearful expressions of the children and the absence of males of warring age. It was, also, in the general feeling of exhaustion obvious in everyone, a fatigue that wrung out the soul until all that was left was a sort of stubborn hope that things wouldn’t possibly get worse, and if they did, well, at least it would be over.
+
+At Marruk’s request, they only stopped the imposing steel construct once in view of a great stone overlooking a pond where the waters came to rest. Warriors in tattered armor had gathered in great numbers here, thousands of them stretched in small groups over a large meadow. It was a respectable force, but hardly something that would stop an army. The veterans were too scarred and too few while the younger warriors were… too young. Not yet in their prime. And the gear they used was just shit.
+
+Her inspection skill painted a rather grim scene, yet there was still defiance in their eyes as the ship passed them by, at least until they spotted Marruk then it turned into naked curiosity.
+
+Marruk was the first down the gangway. She walked with a predatory confidence that was unusual for her. Viv knew Marruk was more guarded than this, but she was also here to convince her people. That meant some posturing. The door maiden had grown a lot over the past five years.
+
+On the elevated rock, some of the fiercest warriors waited without a word besides an ancient, decrepit shaman of piddling power and an old warrior with a gray beard and actual metal armor. Many of the warriors there had some as well. With how long the conflict had gone, Viv honestly expected many more to have some sort of pilfered gear as well, but the kark simply lacked smithies. She assumed they’d traded what they got away.
+
+They had also probably lost many battles.
+
+“You! Daughter! You dare return here? NOW?” the leader said.
+
+Viv came to stand by Marruk’s side, soon joined by nearly 300 armored kark. The sight of so much steel sent ripples through the assembled crowd.
+
+“I dare.”
+
+The old shaman walked forward with some difficulty. He smiled kindly, and Viv saw Marruk soften. The contrast between him and the steely, unyielding old warrior went a long way to explain how the Red Tribe had survived thus far.
+
+“Who is that person? Your employer?” the shaman asked.
+
+One of Marruk’s trusted warriors had been translating. Viv stepped forward to reply, with her helper translating.
+
+“Marruk is not in my employ. I am here as her friend, and also because I will wage war upon the Pure League as retribution for attacking my people.”
+
+“What were you promised?” the graying warrior spat.
+
+“With Neriad as my witness, I ask no boon of Marruk or your people,” Viv said.
+
+The oath settled without difficulty. She wasn’t sure but there might have been a bit of golden light.
+
+“I am here to help.”
+
+“You brought steel…”
+
+“I did not. She did,” Viv said, pointing her chin at Marruk.
+
+“It changes nothing!” the warrior bellowed. “You are still an exile! I cast you out.”
+
+“You cast me out of the clan, father, but you cannot cast me out of the Red Tribe. I am still a daughter of the eastern marches… and I have brought my warband with me!”
+
+She thumped her chest, the armored glove clanging brutally. Her warriors beat the ground with the butts of their spears, then a proud roar covered the plain, dispelling some of the gloom. The other tribesmen gathered in tighter ranks.
+
+“Who would stop me? Who would refuse my spears? Who would refuse steel?” she said, as crates of weapons were piled on the ground.
+
+“You are a woman,” her father said, though his refusal garnered little backing.
+
+“I am a warrior of my people.”
+
+The two faced each other in a stalemate. Viv didn’t dare inspect the warrior but she could tell he was mighty, though she wasn’t sure it would make up for Marruk’s superior gear.
+
+“She has come to fight, and she has brought help. We will not turn her away,” another warrior said.
+
+“That is for the council to decide. I will not rescind her banishment.”
+
+“I have not come to be reinstated,” Marruk said, her tone resolute.
+
+The shaman gasped in surprise. He was not the only one, but Marruk merely took a step forward.
+
+“Reinstated in the clan while I bring more warriors? More weapons? No. I am not here to follow the one who would send me away. I am here… to lead.”
+
+She pointed a steel-clad finger at the chest of the old warrior.
+
+“Father, I challenge you to a contest of speed, wisdom, and strength. I challenge you… for the role of warchief!”

@@ -1,0 +1,193 @@
+---
+id: 24e25f81-f288-5485-930d-560dfd081f00
+page-type-slug: story-chapter-royal-road
+title: "Chapter 397 : Ceasefire"
+slug: 0099-chapter-397-ceasefire
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 99
+ownLength: 2207
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3615571/chapter-397-ceasefire"
+royalRoadId: "3615571"
+---
+
+"Were you originally a human?"
+
+His question was so unexpected that I was left momentarily dumbstruck. Even the elves hadn't fully believed me, and that was with that truthseeker, yet here he was making the assumption himself entirely unprompted.
+
+"What makes you think that?" I asked.
+
+"Answering a question with a question…" Keldenar grumbled. "Sure, I'll bite. I think if you were originally a human, it would make sense why you didn't bomb my city, or why you're smarter than the average slime. That's obviously ignoring all the strange things going on in your profile that are censored even to my prying eyes."
+
+"I guess that's reasonable…"
+
+"So…? Are you going to finally answer my question?" he pressed.
+
+"Yes and no."
+
+Keldenar slapped his forehead in frustration. "Did you seriously just drop me with a yesn't answer…"
+
+"No…? What I mean is I'm not sure what I was before this. I can assume it was human, but it might have been an elf or a dwarf for all I know."
+
+"Oh!" he exclaimed, I could practically see sparkles in his eyes. "I knew those gods were holding out on me. They claimed it wasn't possible to be reborn as anything but human, elf, or dwarf, but here you are! Or maybe they stole the idea from me after I suggested it?"
+
+"You suggested it?"
+
+"Well, I asked if I could be reborn as something else," Keldenar answered. "They tried to offer me an elf or a dwarf, but I wanted something more exotic, and that's ignoring the outrageous price they quoted me. I couldn't take Golemancer if I wanted to be an elf, for example, and who would want to be reborn as a dwarf?"
+
+"Hey!" Sylbera cried out, hefting her warhammer.
+
+"Sorry, but height is extremely important to a man," Keldenar replied, then tilted his head. "Also, aren't you a slime? Or… Both? What exactly am I looking at?"
+
+"Sorry, can't answer that," I quickly interjected before Sylbera said anything by accident.
+
+"Sure, sure, gotta keep our secrets…" Keldenar said, waving his hand. "Moving on, I made do with what I had and managed to make quite a name for myself. My original plan was to leave enough of a mark on the world that I could pick something else next time, but now it seems that might not be necessary…"
+
+"I'm not sure I understand," I admitted.
+
+"Well, my original thinking was that if I couldn't pick another race, I'd make one myself. I figured if I earned enough levels, accomplishments, and whatnot, I could choose whatever I wanted. My hope was to maybe make golems a new race of their own, and then I could choose to be reborn as one for my next life."
+
+"You want to be a golem?" Sylvester asked, astonishment on his face.
+
+"Yes. Who wouldn't?"
+
+None of us agreed, leaving Keldenar looking surprisingly flustered. He seemed to realize something and snapped his fingers with excitement.
+
+"Wait! You're thinking of my grunt golems. No, no, I don't want to be something like that. The golems I'm thinking of are closer to androids."
+
+"Androids…?" we all whispered, never hearing the word.
+
+"Oh come on, you must know androids if you were once a human," Keldenar insisted.
+
+I shook my head.
+
+"Wait. Are you not from E4r7h?"
+
+All my personas and I were left speechless. Whatever he had tried to say was censored by the gods, something I'd never really experienced firsthand.
+
+So that's what Vee and I sounded like when we tried to explain [Experiment] to the elves…
+
+"Judging by the expression on all of your faces, I'm guessing that's a no… So, you're actually a native? Huh, that's genuinely surprising."
+
+"And to me it sounds like you're possibly similar to my two friends."
+
+Keldenar looked genuinely surprised. "You actually know two more people from E—I mean, reincarnators? I've struggled to find even one… I guess things really have changed since I first arrived here."
+
+"So, can we go?"
+
+"You really want to leave, just like that? You just got here. What about my offer?"
+
+"I'm not sure. Honestly, the fact that you can stop my teleporting has me extremely concerned, regardless of your true intentions."
+
+"Frankly, I'm just as surprised that they worked as you are. [Dimension Magic] isn't exactly common, so it's not like I could do much testing. Which is even more reason why I want you to stick around, you've fallen on my doorstep, and can potentially solve three of my biggest issues.
+
+You've got a connection with the elves, which I still haven't managed to establish. You've got [Dimension Magic], which I've been wanting to study for enchanting. And, you could potentially be the piece I'm missing to make my golems more alive."
+
+"The first two I can understand, but what exactly do you mean by that last one?"
+
+Keldenar pointed at my four personas. "That's what I want with my golem, or at least the starting point. I don't know if I'm missing a skill, or I just need to earn more attention from the gods, but I've sort of hit a wall when it comes to my golem race development."
+
+"So you basically want to be like the elf progenitor…" Sylthaeryn murmured.
+
+"Yes!" Keldenar exclaimed, clapping his hands. "I want to create the perfect race, then when my time comes, I can pick them for my next life. It's the perfect plan, don't you think?"
+
+"I suppose…" I replied hesitantly.
+
+"So, please work with me. I'll be sure to make it worth your while."
+
+"Oh? What do you have in mind?"
+
+"Well, I'm loaded for one thing. I'm probably richer than most of the kingdom."
+
+"Not really interested in money, to be honest. I can create obsidianite and even regeneration potions if I need to."
+
+"Crap, that's amazing, you're like a money-making machine. I even want one of those potions. Um… I can offer you golems? Protection? Endorsement from a diamond-rank adventurer? Would you like a castle in my city? Honestly, if you name it, I can try my best to make it happen."
+
+I was genuinely surprised by the amount of effort he was putting into this. I certainly had my suspicions, but he appeared to be trying to form an amicable relationship between us. Truthfully, he had a lot to offer me, and even though he said it half-jokingly, an endorsement from him might be exactly what I needed.
+
+If a diamond-rank adventurer says I'm a safe monster… Would that be enough?
+
+But before I could take any of that into account, we needed to come to an agreement. Keldenar had revealed my biggest secret like an open book, and I needed his silence as well as protection from him.
+
+"We need a contract…"
+
+"Sure, what do you have in mind?" he promptly agreed.
+
+"One sworn to the gods; you keep my secret and promise not to harm me."
+
+"If that's what it takes to get my foot in the door, I'm willing to. But I'll have to include some clauses for my and my people's safety. I mean, sure, you're a good slime right now, but what if that changes in the future? You never know…"
+
+I nodded, understanding exactly where he was coming from. He quickly began to hash out an oath on the spot, swearing to keep my identity a secret unless I gave him permission to reveal it and refraining from capturing me or causing me direct harm. The caveats he set in place to break his restraints were if I attacked him or anyone living in his city, or if I started slaughtering humanity.
+
+"You might need to change that last one…" I interjected.
+
+"You can't be serious…" Keldenar said with a frown.
+
+"It's not what you think… It's just that together with the elves, I'm sort of a target of the Outeatus Kingdom."
+
+Keldenar whistled. "Wow, you got a whole kingdom against you. I'm surprised they haven't announced that to the world."
+
+"Well, they think I'm an elf."
+
+"Ah… So I'm the first to see through the real you?"
+
+"A pixie and several elves beat you to that," I chuckled.
+
+"Well, at least I'm the first human then," he corrected.
+
+The oath negotiation continued, and he was willing to exclude the Outeatus Kingdom from his bottom line. It certainly helped that they were sworn enemies of the elves, whom he wanted to create diplomatic ties with.
+
+"I guess it's a good thing I never sold them or anyone any war golems," Keldenar chuckled nervously.
+
+Once we were both happy, he swore the oath on the spot, and I accepted it. I suddenly felt a lot safer and began retracting my slime domain in recognition of our agreement.
+
+"I don't know where you're keeping all that slime; you seemed to spawn it from nowhere. Seems a little unfair."
+
+"You summoned an entire army of golems with the wave of your hand," I countered.
+
+"True… Moving on, can we go back home? Talking outside isn't exactly comfortable," he asked, gesturing back to his city.
+
+"Sure. Just give me a moment, I need to quickly do something."
+
+"I just swore an oath, and you still don't trust me?"
+
+"No… I just need to send my personas off," I answered.
+
+"Okay. I'll be waiting for you then. Feel free to teleport back to the throne room when you're done."
+
+I nodded, and then Keldenar abruptly vanished; in his place was an ordinary golem. It glanced around for a moment as if lost and trying to gather its bearings, before it began to slowly walk back in the direction of the city.
+
+I sighed, letting more of my tension out. It was a good thing that Keldenar seemed to be amicable, otherwise I would have lost all my secrets right away. Part of me wondered whether ripping the band-aid off, as Vee put it, would have been the better option, but I also needed to consider other people's positions.
+
+Ignoring my adventurer identity, if the truth got out, it might be disastrous for the Feirelle elves who sheltered me if it reached the ears of the council. Considering the Outeatus Kingdom and its link to the Dornhallow elves, I bet that information would have spread to the whole of Caelthal like wildfire.
+
+"Master, are you sure you don't want us to stick around?" Sylbera asked.
+
+"No, go back to the island and let Vee know everything is alright. She's probably worried why I called you all here. Also, I'm going to set my [Rift Beacon] so I can escape no matter what."
+
+My personas all nodded in agreement, and I deposited their cores one by one. Sylvester seemed a bit reluctant, no doubt interested in the enchantments of Keld, but I told him to focus on [Identify] and [Rune Reading] for now.
+
+With that out of the way, I began casting a teleport back to Glimmerock, while making sure to entangle my spell with the patterns I'd received from deconstructing [Stabilized Fluctuations].
+
+Better to be safe than sorry…
+
+I needed to create a new preset with these incorporated so that I'd be safer from tracking, even if it did complicate the spell. Either that, or I needed to repurchase the skill and let the system handle that automatically for me.
+
+I'll worry about that later. I'd better return quickly before Keldenar gets suspicious. I haven't even had the time to look over my proficiency gains yet.
+
+Arriving at Glimmerock, I quickly jumped off the floating island and placed my [Rift Beacon] in what I assumed was an inconspicuous location. Losing half of my rift wasn't great, but it was nice knowing that I had a practically flawless escape method now. Finally, before teleporting back, I traveled a distance so that the exact location of my emergency exit wasn't accidentally revealed.
+
+With everything ready, I shapeshifted back into my original form before teleporting to the border of Keld, and to my surprise, my arrival was noticed by several golems who approached. As before, they gave me a salute before walking on, while one of them pointed at the city.
+
+Well, he did give me permission to teleport. Still, I wonder what he used to detect my arrival?
+
+While my recreation of [Stabilized Fluctuations] probably wasn't perfect, the fact that he sensed my arrival was slightly concerning. It made me glad that I had taken the extra effort to obscure my locations and that I hadn't teleported my personas back to the island directly.
+
+Actually, if we are going to be allies, maybe I can get him to reveal his secrets to me?
+
+I nodded to myself, thinking that sounded like a terrific idea. I wanted to know how he could detect my teleportations, and also how his golems had gradually grown immune to all my attacks. I certainly hoped the latter was a rare ability, as if others could easily replicate it, that would be terrible.
+
+Also, if he's a diamond-rank adventurer, maybe I can finally get information on how to get a second class? Or where to find a black or gold slime?
+
+All of it sounded great, and I quickly began making my way to the city with bubbling excitement.

@@ -1,0 +1,261 @@
+---
+id: 6f3158d9-e04d-5c04-a2c2-3cf8db939da6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 354 : Branch Out"
+slug: 0055-chapter-354-branch-out
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 55
+ownLength: 2257
+unit: words
+ownProgress: 2257
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3090172/chapter-354-branch-out"
+royalRoadId: "3090172"
+markedReadAt: "2026-06-29T19:43:37.336Z"
+---
+
+"I hope our tree doesn't sound like an old man," Vee said as we were waiting for the big event.
+
+"I don't think we get a choice in the matter," I replied. "We could get a Dran, or we could get a Juniper."
+
+"But the diamond acorn came from Ygdran," Vee pointed out.
+
+"You think that might have an influence on it?" I asked.
+
+"Maybe? Isn't he the father?"
+
+"Do trees have parents?"
+
+"Everyone has parents."
+
+"Stop! Please stop!" Leon begged.
+
+Vee and I chuckled at his outburst and eased up on our playful back and forth. I continued feeding the tree Mana, and shortly after, there was a substantial change in it.
+
+Its growth for the past few days had been significantly reduced, but suddenly its roots frantically spread out even further while its branches sought the sky. Right before our eyes, the tree was rapidly expanding in height and width, and at the same time, there was a magical aura being released from it.
+
+The aura pulsed, almost like a heartbeat, and with each beat it grew in strength. Through my sight alone, I watched as the area's excess essence began to draw into the tree before shortly stabilizing. The tree had stopped its period of rapid growth, perhaps roughly half the size of the one we'd claimed from the crazy horses on the floating island.
+
+I wasn't sure if it was due to [Nature Commune] or the fact that I was the one growing the tree, but I immediately sensed that the spirit had been awakened. I was expecting it to be like a newborn, but strangely, it felt almost ancient.
+
+"Hello?" I reached out.
+
+An awkward silence followed, with Vee and Leon both staring at me expectantly. I was about to call out again when I heard a tired yawn.
+
+"Is it morning already…?"
+
+The voice sounded dreadfully tired, like some poor sod who just got off the graveyard shift. I was expecting an almost youthful voice since it was literally just born, but this spirit sounded like it was already middle-aged!
+
+Are they born old? I feel bad for him.
+
+"Has it said anything?" Vee asked.
+
+"Oh, he has… Kinda," I answered.
+
+"Am I still dreaming?" the spirit asked.
+
+"No. You just woke up," I answered,
+
+"Then why is there a spider, a dwarf, a crab, and a… slime?"
+
+"After all the effort I put into feeding you, this is the thanks I get?" I complained.
+
+"Hmm…? Oh, are you the one who raised me?" the spirit asked curiously.
+
+Before I could answer, I felt like I was suddenly probed by an unseen eye. Suddenly, the spirit sounded as if it were choking and frantically panicking.
+
+"You're the [Branch Head]!?" the spirit cried out. "Please forgive me! I mistook you for someone else, since you didn't have the golden oak blessing!"
+
+"You mean the golden oak bag?" I asked and pulled it out of my [Core Storage].
+
+The spirit sounded even more frantic. "You have it!?"
+
+"Yes…?"
+
+"Oh, joyous days. My time has finally come!" the spirit sang.
+
+"Uh… Can we get some information on what's happening?" Vee asked impatiently.
+
+"Master, with your permission, I can relay the information," Sylbera offered.
+
+"You can do that?" I asked, ignoring the tree spirit who was still on cloud nine.
+
+Sylbera nodded. "There should be some compatibility between the two since both are telepathy-based traits. It should be simple to form a bridge."
+
+With my permission, I let Sylbera handle it, which brought the tree spirit into our telepathic group chat. Both Vee and Leon seemed quite surprised when they unexpectedly heard the tree happily singing.
+
+"Okay, okay, now that we are all connected, can I please get an explanation?" I asked.
+
+"Yes, [Branch Head]! What would you like to know?" the spirit quickly replied.
+
+"Just call me Syl," I replied. "And can I get an explanation on the golden oak? Why does it mean it's your time?"
+
+"Also, do you have a name?" Vee asked.
+
+"I'm more than happy to explain," the spirit replied. "As for a name, I might have had one in the past, but it's lost to time. If you wish to give me one, I'm more than happy to accept it."
+
+"Logan," Vee suddenly said.
+
+"Why that name?" Leon asked.
+
+Vee giggled but didn't immediately answer.
+
+"Do you wish that to be my name, [Branch Head]? I mean, Syl," the spirit questioned.
+
+I shrugged it off. "I don't mind."
+
+"Why Logan?" Leon asked again.
+
+"Well, I can't name him Willow, so Logan will do," Vee replied, although she was still snickering.
+
+Leon sighed and seemingly gave up. "As long as it's not Syl-something…" he muttered.
+
+"Wonderful. I will accept the name Logan, then," the tree spirit, Logan, declared.
+
+With that settled, I pressed him for answers, as I wanted to know what the significance of the golden oak bag was to him. I was also curious about the nature of tree spirits and why it seemed like he was a blend of old and new life.
+
+Thankfully, Logan was more than happy to answer any question I had as if he were a loyal soldier. It was a stark difference from our first introduction, although I could still hear the tired attitude poking through occasionally.
+
+Tree spirits were effectively recycled lives, and until they were promoted to grand spirits, they would endlessly be awakened and reborn. According to Logan, there was a limited amount of spirits of each type that could be in existence, and unless one was promoted or killed, the balance would be kept.
+
+Logan had no idea how many times he'd been recycled as a tree spirit, but now he had the opportunity to become a grand spirit by integrating with the golden oak bag. This explained why his previous attitude had been so lackluster: when he was awakened, he didn't sense its presence and immediately presumed it was another recycled life.
+
+He had assumed I was some noble brat who got gifted a diamond acorn. Then, when he noticed I was a slime, he thought I was a thief who somehow stole one. When he saw my [Branch Head] Emblem, he had a moment of hope that I merely didn't have the treasured item on my person, which was why he was so panicky.
+
+"I don't know how a slime became a [Branch Head], but you've got the golden oak blessing to prove it as well!" Logan said joyfully.
+
+As to why he kept calling it a blessing, he actually didn't know it also functioned as a bag. At first, I thought he might be mistaken, but he said he could feel an unconscious connection to the item.
+
+As for the benefits he would gain, the growth of his tree was one thing, and the other was that his roots would spread toward the mother tree and join with it. This was how all the true elf hometrees were connected: a bond to the mother tree, which was classified as a "supreme grand spirit".
+
+"What's next, ultimate supreme grand spirit?" Vee asked sarcastically.
+
+Leon was surprisingly amused by her remark and also threw his hat into the ring with a few titles of his own. However, their teasing had zero effect in dampening Logan's mood.
+
+"When I become a grand spirit, I'll finally be able to meet my seniors!"
+
+Arguably, the biggest benefit for Logan was that, once he ascended, he would be functionally immortal. Even if his tree was destroyed entirely, a portion of his soul would forever be within the mother tree. Rather than being recycled, all he would need is another diamond acorn nurtured by me, and he could be resurrected.
+
+Logan had other tidbits of information, though he said he could confirm much more once his roots connected with the mother tree. He'd be able to share and gain information with all the other tree spirits across the world!
+
+Suddenly, the elves' rise to power makes a lot more sense…
+
+I was thrilled I'd allied with them, as the idea of being hunted down through a permanent tree information network was particularly horrifying.
+
+When we exhausted our questions for Logan, he finally asked if he could have the golden oak blessing. I didn't see any reason not to give it to him, after all, this was why Loreleia had given it to me in the first place.
+
+"How does this work?" I asked.
+
+"Just throw it in my mouth," Logan replied.
+
+"You don't have a mouth—" Leon tried to point out, when the trunk of the tree splintered and cracked open into a maw.
+
+Vee and Leon both cursed up a storm of expletives in shock and horror, and even I was startled by the abrupt transformation.
+
+"Throw it in there," Logan said.
+
+I gave one last look at the bag. I had thought I'd seen the last of it when I finally gave it to the Feirelle elves, but then they gave it right back to me. Now, I was finally going to be rid of the thing.
+
+I tossed it in, and the mouth excitedly closed. There was chomping and chewing noises that sounded like grinding rocks, and I could feel a surge of energy erupting from the tree. Vee and Leon must have sensed it too, as both of them began slowly retreating.
+
+"Grand spirit, here I come!" Logan cheered.
+
+The island began to quake, and the roots, trunk, and branches once again grew explosively. It felt like the entire island was being sucked into the tree.
+
+"Uh… I hate to ask, but do you have any extra nutrients for me?" Logan suddenly asked.
+
+I nodded and scattered brown slime at the base of his trunk. Logan let out a blissful cry of delight.
+
+"This is wonderful! Now I won't need to drain the island," Logan suddenly revealed.
+
+"Drain the island!?" Vee gasped. "My crops! Syl throw out some more!"
+
+I chuckled and unloaded more brown slime, while also casting [Grow]. Everything thrown at the tree was promptly sucked up like a sponge as the growing continued. When it finally stopped, it was already slightly larger than the great floating island tree.
+
+"Wow. I didn't think trees could grow this big," Leon admitted.
+
+"This isn't even the second biggest tree I've seen," Vee responded.
+
+"I'm still growing!" Logan defended himself.
+
+"How long till you can make rooms inside the tree?" Vee asked.
+
+"Hmm… Maybe a few weeks?" Logan answered.
+
+"That quickly?" I asked in surprise.
+
+"Once I finish connecting to the mother tree, I should have far more information and strength to use," Logan replied.
+
+"How long till you can make portals to the other trees?" Vee questioned.
+
+"Uh… Longer," Logan answered, sounding reasonably unsure.
+
+"No rush," I replied. "We can teleport ourselves until then."
+
+"Yeah, the spider portal network is my next plan once the farms are done," Vee said excitedly. "I was just hoping for a quick trip to visit Ygdran for some… Donations."
+
+"Umm… Sorry to bother you so soon after everything you've done, but can you help me get rid of something troublesome?" Logan suddenly asked.
+
+"Sure, what's the issue?" I asked curiously.
+
+"There's something stuck in my mouth. I think that blessing wasn't empty," Logan replied.
+
+"You forgot to empty the bag?" Vee asked, staring at me.
+
+"I thought it was empty…" I admitted. "I haven't used it as a bag in ages."
+
+"Well, I bit on something hard, and I'd like help spitting it out," Logan said, and the horrific trunk maw opened up again. "It's stuck in there, near the back left."
+
+"Why does this sound like a trap to eat you?" Vee suddenly said.
+
+"I'd never!" Logan denied.
+
+"Ignore the teasing spider. Plus, you'd quickly realize I'm more than you could chew," I chuckled and walked over to the gaping hole in the trunk.
+
+Sure enough, at the back of this "mouth" there was something small and shiny sparkling in the darkness. I extended a tendril and grabbed it, only to find it was something I was pretty familiar with.
+
+"Is that what I think it is?" Vee asked in surprise.
+
+"A class crystal," I answered. "Although it looks slightly bigger than normal."
+
+"Why was that in the bag?" Vee asked.
+
+"I honestly have no idea…" I replied.
+
+"What's a class change crystal?" Leon suddenly asked.
+
+"It lets you swap your classes to another you've unlocked," Vee answered before I could.
+
+"We can change our class without the system voice?" Leon asked in surprise.
+
+"Yes, but they only function inside cities," Vee answered again.
+
+"Oh… That's a pity," Leon sighed.
+
+"I don't suppose it works?" Vee asked.
+
+I looked at the crystal and clutched it. To my surprise, it started shimmering softly, but nothing happened.
+
+I sighed. "Doesn't look like it—"
+
+"Oh! Gods!" Logan abruptly yelled out.
+
+The three of us turned to look at the suddenly yelling tree.
+
+"Syl, would you like to establish a city?" Logan asked.
+
+I flinched in surprise. "We can do that?"
+
+"It just suddenly popped up," Logan answered.
+
+"Do it!" Vee demanded.
+
+"Does that mean we can use the crystal?" Leon queried.
+
+"I don't see why not if we become a city," I speculated.
+
+"I'll take that as the go-ahead then," Logan replied. "Hm… Looks like it takes twenty-four hours to establish."
+
+I was genuinely shocked and surprised. I stared at the crystal clutched in my tendril.
+
+Looks like Loreleia left us one more surprise gift… I'll have to thank her when we meet again.

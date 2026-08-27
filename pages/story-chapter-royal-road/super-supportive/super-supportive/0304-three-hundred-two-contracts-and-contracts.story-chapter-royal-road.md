@@ -1,0 +1,285 @@
+---
+id: 97e57fde-1052-5bbd-bc36-3deb6ee0986e
+page-type-slug: story-chapter-royal-road
+title: "THREE HUNDRED TWO: contracts and Contracts"
+slug: 0304-three-hundred-two-contracts-and-contracts
+partOf: super-supportive
+position: 304
+ownLength: 4734
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3814667/three-hundred-two-contracts-and-contracts"
+royalRoadId: "3814667"
+---
+
+302
+
+******
+
+There was a place Esh-erdi liked, half an hour’s walk from Alden’s birth tree, where a copse of the native trees surrounded nestlike seating circles made of woven grasses. Each circle was big enough for a dozen people to sit with room to spare, with footrests waiting in the center and bulbous carved lanterns that could be turned on with a touch or a word. It was a comfortable spot that looked ready for visitors who hadn’t shown up.
+
+“People were out here all day and night when I first came to Rapport III. But the nearby houses are full of busy adults instead of <<boisterous>> adolescents like they were then, so I suppose it’s natural that it sees less use.”
+
+“Why were there a bunch of adolescents here before?”
+
+“The housing used to be designated for newcomers who hoped to be knights or votaries,” said Esh-erdi. “Then we all grew up, and enough of us wanted to keep our places here for the newcomers to end up elsewhere.”
+
+He tossed a lantern to Alden. It was lightweight and organic-looking except for the silvery blue light shining through a diamond pattern cut into the surface. Alden thought it was made out of something like a gourd. He set it on a spare footrest to the left of the one he was about to prop his own feet on while Esh-erdi took a seat beside him.
+
+Their walk to this place had been chatty, but the chat had been about birth trees, storytelling class, and Esh-erdi’s family rather than the business they needed to take care of now. Alden had learned that the knight’s sister was one of several siblings, and she was the only one who had followed him here and devoted her own life to the Rapports as a votary. The two of them rarely saw their brothers and sisters or their parents.
+
+Esh-erdi settled in, adjusting a cushion behind his back. “Almost everyone who sees inside the structure your people call Matadero is contracted to secrecy.”
+
+“I know.”
+
+“There are people on Earth and elsewhere who wish to harm others or gain profit for themselves by having information about that place and its purpose. It’s very secure, but its security is also so important that not taking such an easy measure to protect it would be careless.”
+
+“I understand that, too,” said Alden. “I’ve only seen what the hospital and the residential section look like. And the halls I have to travel through to get around between those and the teleportation area. It doesn’t seem like dangerous information. But, at the same time, it’s not so fascinating that I’m going to have regrets if I can’t tell other people about the weird stockpile of canned peaches, the number of bathrooms, or the flood traps.”
+
+“One of those is unlike the others.”
+
+“The peaches,” said Alden. “I should have known they were the cure for chaos all along.”
+
+Esh-erdi chuckled. “I haven’t already given you your tattoo because of your age and your history. You deserve to have a proper talk about contracts before you have another one drawn on yourself, and I decided I’d be the one to give you that talk. I’ve kept adding things to it as I learned about you. Now it’s too long, and you have your own questions to lengthen it more. You’re also in a different mood than when we first met. You change very quickly, Alden Thorn.”
+
+“You met me at a really bad point. That point was never supposed to be my normal.”
+
+“I’m glad.”
+
+“And my favorite Artonan drug is the inward path at the House of Healing near Vethedya. That’s a change accelerator.”
+
+“I’ve walked such paths before. I wouldn’t call them a drug.”
+
+“My brain likes them so much that I have to be dragged out of my steeping grotto sometimes.”
+
+“So if I’m rudely blunt during this talk and I hurt your feelings, I can take you to an inward path grotto and put you there for a while to reset you? That’s a technique I haven’t considered. And simple!”
+
+Alden looked at his own boots. Though they were so recently purchased to go with his Triplanets outfits, they were already looking broken-in. He’d been coming and going even more than he’d expected on the day he’d bought them.
+
+They’ve been in desert sand, forest leaves, and river mud. They’ve been pecked at by o’odees. Who could’ve seen that coming when Tuck and Yinuo asked how rough I planned to be on my new clothes?
+
+And who knew what might be coming in the future?
+
+“I’d rather you be blunt,” he said. “I’m not in a position to sacrifice knowledge for the sake of my feelings.”
+
+“I’ll do my best to follow Zakithee-und’h’s example then.”
+
+“Nobody needs to be that blunt!”
+
+“You’re too young to make contracts in private with your summoners,” Esh-erdi said. “You’ll be too young for several years to come. Do not agree to any.”
+
+“Oh. That’s what you wanted to be blunt about.” Alden tried to sigh out the lingering shreds of his embarrassment about the deal with Ro-den. “I know it was a mistake to trust someone I’d just met like that. You don’t have to tell me. I was immature, and I won’t do anything like it again.”
+
+“Let me talk to you about it anyway. I don’t know if you were immature, but even if you are the most mature human of your age ever to have lived, you’re still too young. The dangers come from your ignorance, and your ignorance isn’t a fault of your personality or your efforts. It’s a natural, unavoidable consequence of being young and unfamiliar with the places and people you’re encountering.
+
+“Think of the most mature child you met today at rock class, or the most mature Artonan child around that age you’ve ever met. How difficult would it be to convince them that most humans wear socks on their hands and live at Earth’s poles? If you told them blue rocks were sacred to your people and collecting enough would allow you to buy rare food for your sick uncle’s final meal, wouldn’t they rush to help you gather them? That you could lie to them so easily doesn’t mean that they’re stupid or unusually immature for their age. They’re simply nice people who haven’t lived enough years to encounter better information. It takes time for a young Artonan to learn the combination of facts that would prove you a liar. Likewise, no matter how intelligent you are, it will take you time to understand all the ways a wizard might want to lie to you or gain advantage through an association with you. You have to worry about that more than most Avowed do. Because of your commendation.”
+
+“You mean people might think I’m a way to meet Hn’tyon Alis-art’h? Or get favors from her somehow?”
+
+“Not clever people. But you may meet unclever ones. When you do, be prepared to refuse their offers, no matter how innocent or even necessary they sound.”
+
+I like this advice. Just refuse all tattoo-happy wizards on principle for the next decade or two. Delete risk. “I’ll do that,” said Alden. “But is this a tricky way of telling me to turn down the tattoo for Matadero? Because—”
+
+“Matadero’s completely different because I’m a good wizard who has your best interests held safely in my pockets.”
+
+Alden nodded.
+
+Esh-erdi threw one of the smaller gourd lanterns at him. “Wrong! Don’t trust me when I say that! That’s exactly what a bad wizard might say!”
+
+“But it’s you,” Alden protested, letting the lantern fall between them. “I know you’re not a bad wizard. You saved my life. You’re warning me. And there are so many other things…Grand Senator Servin-ith, Lute, Ploomp.”
+
+“Were those three individuals listed with any particular ranking in mind?” Esh-erdi asked. “Tell me later. The real answer is that the tattoo for Matadero is only a contract for secrecy, not a contract I’m asking you to make with me in secret. It’s also not my own personal idea but an established policy you were familiar with before you met me. You can ask other wizards you trust, or certain Avowed, to listen to me go over the terms with you if that would make you more comfortable. I might insist on it just so that you have the practice. It’s a simple contract, but we could call a professional tattooist to oversee its completion if you like. If you need time to ask questions, you’ll have it. Even if you held much more serious information than you do, and it wasn’t safe to send you back to Anesidora without the protection of a tattoo, I would provide you with a safe place to think without being rushed.”
+
+He paused, then added, “This is no generous offer. It’s how you should be treated by an honest person who wants you to agree to a magical contract. And that’s even more true when you’re in the weaker position. Wizards use contracts so frequently. You’ll meet many who are careless about them and some who hope you will be careless about them while they themselves are careful. Both types will be annoyed if you refuse or insist an agreement be evaluated by trustworthy others. So let them be annoyed and call upon trustworthy people at once.”
+
+“I’ll do it,” Alden said firmly.
+
+“Haoyu’s parents?” Esh-erdi suggested. “If you did want to talk to humans who have already been sworn to secrecy about the cube, they would be an option.”
+
+“I’ll call them if I need to call someone. They’re a good suggestion. But the contract is just going to be, ‘Don’t tell people what you’ve seen at Matadero,’ isn’t it? Basically?”
+
+“Basically that,” said Esh-erdi. “Unless you’d like to know more about why we kill demons there. Then you’d know as much as the Avowed who train there do.”
+
+Eagerness made Alden drop his feet from the rest and lean toward Esh-erdi, ready to say, “Yes, please. What does Matadero do for Earth, and what other things are protecting my planet, and how?”
+
+Only…if he tells me now, I’ll end up with a stricter tattoo about it. And if Stuart tells me or I figure it out myself I won’t have to have a contract unless I want one.
+
+Right now he felt even less inclined to tell the universe why demons were killed at the cube than he did to share details about the place’s bathrooms. But he hadn’t imagined how much he’d want to tell someone about his skill when he was agreeing to everything Ro-den suggested either.
+
+The more important knowledge is, the more likely it is that having a choice about it in the future is going to be something I care about.
+
+“Let me think,” he said.
+
+“Of course,” Esh-erdi said. “You’re already following my advice. I knew I had the makings of an instructor.”
+
+Alden sat back and let his gaze rest on a lantern while he considered his own resources.
+
+Stuart probably knew as much about Matadero as Esh-erdi planned to share. It seemed like the kind of thing he would have a decent general understanding of. And the proper discretion that had kept him from talking about certain subjects and Alden from asking about them had recently gone out the window.
+
+I should give us both more credit than that. Proper discretion didn’t change; my life goals did. And now we both agree that I should know as much about chaos as he does. Can’t walk as brothers on the same path if I’m stumbling around in the dark, can we?
+
+If Stuart didn’t know about Matadero’s purpose, he would be able to find out when he was a knight. And we’re hoping for me to be accepted as one, too.
+
+He looked at Esh-erdi, surprised by a sudden impression that an insurmountable gap between them had narrowed until the knight was only a step away.
+
+Even if Stuart doesn’t know everything, this feels like something we can figure out together just by trying. He knows chaos facts. I know cube facts. I’m learning more about magic every day.
+
+If, once he found out the truth about Matadero, that information needed protecting, wasn’t it better to make the contract with Stuart, who would be more readily available to release him from it during future unforeseen circumstances than Esh-erdi would?
+
+Esh-erdi’s going to be way out of reach a lot in the future. Doing battle. Beside the Primary.
+
+That thought expanded the gap between them a bit for sure.
+
+Brim and Droon’s uncle. Ploomp’s rider. The heart of the pitcherhouse on Wathe’s Ribbon when he visits.
+
+Lind-otta said that they would remember their time in the light and know it was only one layer away when they go to places that are much darker. With what they’ve got looming ahead of them, days like today must feel so important for him to hold onto. To savor.
+
+It’s not generous of him to give me time? Bullshit. Time may be something I deserve, but it didn’t have to come from him. He could call Drusi-otta to talk to me while he goes to visit with his sister.
+
+I’m lucky to know someone like him, really.
+
+“I’d rather have the Matadero hallways tattoo instead of the Matadero demon truths tattoo. Thank you for being willing to tell me. It’s a shame not to hear it from you because I know you’d explain it well. But I’d rather skip that part.”
+
+“Not curious?” Esh-erdi blinked. “It’s fine if you’re not.”
+
+“No, I’m very curious. I told you all those things I want to know about earlier, and ‘chaos on Earth’ was on the list. But the information I want doesn’t have to come right this moment from you.”
+
+“From me? You’re not planning to squeeze the knowledge out of some other, younger wizard you know, are you?”
+
+Alden’s boots seemed safer to look at than Esh-erdi’s face. “No. I won’t be squeezing or pressuring anyone. Don’t worry. Besides, there are other things you could tell me instead. Things I couldn’t learn from someone else, like your personal opinion about whether or not we can beat chaos. Can it be corrected before I’m ancient or dead? Is there any chance at all I could wake up one morning in a universe where none of us have to worry about that?”
+
+“My personal opinion is probably farther than you realize from being one of the best-educated opinions.”
+
+“You’re a powerful hn’tyon.”
+
+“I am. But my opinion on the likelihood of us defeating chaos isn’t rooted in our historical successes or our finest research. I was out here with Lind one day, not that long ago, at a time when I was hunted by doubts, and she slowed the leaves that blew from that limb there during a gust.”
+
+He was nodding in the direction of the limb that shaded the other side of their seating circle. “Those leaves hung in the air as if pinned there. While we talked, I eventually stopped watching them. By the time night came, the sky above us was clear of them. They’d all reached the ground. And Lind said, ‘What seems still may just be moving slowly in the direction it should. Trust that what we <<pit our might against>> moves.’ And I said, ‘What moves at all can be destroyed once a weakness is found. I’ll find it.’”
+
+They both watched a leaf break away from that limb and flutter down to fall on the woven seat across from them. There was only a gentle breeze tonight, and the leaf was green.
+
+Esh-erdi must have made it fall.
+
+“Those two things are what I believe. It’s the answer to your question. It’s not the answer of a chaos researcher or a strategist who has found the route to a logical victory.”
+
+“It’s faith,” said Alden.
+
+“In myself and Lind. In all who fight alongside us. Yes, it is.”
+
+Alden smiled. “I’m glad I asked you.”
+
+“You don’t think the answer is insufficient, coming from someone who’s supposed to be repairing the universe?”
+
+“No, because…I think I’m just happy to hear you say that everyone pushing back against chaos matters. It would be great if you could give me a list of things that have to happen to make it end. Knowing the Primary needed to kill eight hundred demons of a certain danger level by next summer to set everyone else up for success—that would be something I could cheer for from the edges and look forward to hearing about. But I’d still need to have faith that my own tiny pushes were doing something to make chaos move. If faith is enough for you and Lind-otta, then I can go forward with it, too. I should be good at it. My father was…someone who tried to understand God. He taught at a church.”
+
+He had to fall back on English for the word ‘church’. He knew a few Artonan words for religious buildings and groups, but he was wary of what subtle connotations might be packed into them. He didn’t want Esh-erdi to picture the Palace of Unbreaking. Mother would surely do him the favor of selecting a descriptor that didn’t call that to mind for the translation.
+
+A word for God was easier. Alden remembered a couple his dad had liked to use, so he had picked one of those.
+
+“Your parents were taken from you,” Esh-erdi said. “I struggle to imagine the weight of that loss.”
+
+“It was an Avowed,” said Alden. “The person who killed them.”
+
+“I am aware.”
+
+“He got stronger by hurting people. His powers were really…were they just random? The Contract gave something like that to him randomly?”
+
+Boe had described his own abilities as random.
+
+“How do you feel about Avowed like him? Those who fall outside of Earth’s class categorizations?”
+
+“Uniques? I think they have interesting powers. The head of my school program is a famous one. They’re fairly popular on Earth—in our stories and television shows—because of all the special circumstances around them. Considering how few of them there are, a lot seem to become celebrities. I have a close friend who’s an unregistered Unique.”
+
+Esh-erdi began to watch the stars with one eye while he kept the other on Alden. “At some point in your childhood, your planet’s Contract identified you as an unusually high-risk chaos <<matrix>>. Which means that if you were exposed to chaos, you were more likely than others to continue living, for a time, by becoming a problematic entity.”
+
+The way he said it was matter-of-fact.
+
+Alden responded in kind. “I knew that. Not quite in those words, but I figured it out on Thegund. That Avowed might be people who had the potential to become demons before our existences were stabilized by our bindings.”
+
+“I’m relieved that you don’t sound concerned. The people in power on Anesidora seem convinced that humanity will be unable to cope with that information being formally confirmed by the Triplanets. They prefer the present state of things, where truth shares a basket with falsehoods they consider more pleasant. But a fact widely known on other planets can’t remain controversial on Earth forever, surely.”
+
+“They’re probably hoping it goes from a rumor to a fact without ever becoming a serious reputation problem for us,” said Alden. “Today if someone shouts, ‘Avowed were born demon people!’ they sound like they belong to a crazy hate group. But one day, maybe someone will say that and everyone will respond, ‘That’s technically true, but why are you being weird about it? It’s been that way for a century. Old news.’ Anesidora must be worried about the transition between those two points.”
+
+“You were never a ‘demon person’. Only a person whose spot in reality was identified as a potential risk. From the moment the Contract recognized you as such, it devoted additional attention to you that reduced the chances you would be touched by the influence of chaos even further. Before they are selected, the children it plans to choose as Avowed are the best protected people on Earth. In that particular way.”
+
+“Isn’t it dangerous to have all the children on Anesidora so close to the cube?”
+
+Alden had been wondering that ever since the floods.
+
+“In the event of an instantaneous, catastrophic Contract failure, yes,” said Esh-erdi. “But in almost all the more likely scenarios, having so many of the children it needs to keep a close watch over in one location benefits it. A few places like Anesidora spread around your planet, rather than a singular one, might be its ideal, but the present situation does have advantages.”
+
+“So Earth guarded me extra from chaos when I was little.” Alden let his head fall back to join Esh-erdi in stargazing. “That’s kind of nice to imagine if I don’t overthink it.”
+
+“The ones you call Unique types are people who weren’t identified as high-risk until the moment when chaos began to blossom around them,” Esh-erdi said. “Your Contract’s response to such situations is swift, but its options are limited. It attempts to bind the person’s authority, maneuvering against a change that’s already begun. If the individual survives, they are given the Unique classification. Their abilities are a cauldron surprise that results from random ingredients.”
+
+If the individual survives…
+
+“This should be a temporary phase in the growth of your planet’s Contract. There’s usually a period in which a Contract isn’t adept enough to prevent every such occurrence but is adept enough for a few people to be saved with its assistance. Earth has been extraordinarily good at the saving part, so you have significantly more Unique Avowed than anticipated. It may be because the variety of talents designed for humans has given Earth unusual insight and creative potential for a Contract of its age.”
+
+Esh-erdi stopped there to let Alden think for a while. But Alden’s thoughts were so full of Boe—who’d been moments away from becoming some kind of demon before the System managed to customize him into an empath instead—that he almost forgot what had started this explanation of U-types in the first place.
+
+When Esh-erdi finally spoke again and said, “The one who killed your parents had powers resulting from such creativity on Earth’s part,” Alden found himself blinking like Body Drainer had come out of left field.
+
+Right. That’s who we were talking about. Not Boe.
+
+“Are Uniques in danger afterward? The binding makes them as sturdy as regular Avowed, doesn’t it?”
+
+“They’re not at heightened risk of becoming demons afterward. Their new magic can cause them problems beyond the ordinary, though. Your Contract prioritizes saving them during their initial binding. Making their powers function well has to be a secondary consideration. Most come to the Triplanets at some point to have their abilities studied. They can have our Contracts and our skill designers plot a course for their development that will eventually make their powers more harmonious.”
+
+“Your skill designers! Like the same ones who would advise knights?” Alden was fully focused on Esh-erdi’s face once more.
+
+“Some of the same. Learning about unique bindings and their effects on reality is of interest to them.”
+
+But designing harmonious skills for Contract refusers must be way lower on their priority lists than advising people like Principal Saleh and the Primary’s son would be. And the significant help Boe said he could get if he agreed to certain things…it’s probably that. Otherwise, it’ll just be him and Earth figuring it out together.
+
+“I can’t be sworn to secrecy about this,” Alden said urgently. “I need to talk to my friend. The Unique friend. So I can tell him I understand what he wanted to say to me about this once. And then you can swear me to secrecy. I won’t breathe a word about it to anyone else.”
+
+Esh-erdi gave him half a smile. “I would have warned you before telling you something that required another tattoo. Perhaps I should have. But I didn’t.”
+
+Alden looked at that half smile. Maybe it was more of a sad smile. It’s because I led us this way via my parents, isn’t it?
+
+“Thanks,” he said. “I really will be discreet.”
+
+My parents. Body Drainer. I should let him put the Matadero hallway tattoo on me so he can spend more time with the people he loves.
+
+But there was one more thing that Esh-erdi might be able to answer better than someone like Stuart.
+
+“Sometimes, Avowed go missing after they’re summoned,” said Alden. “Not like I did, with the Contract telling everyone I was missing. They’re just gone without any news at all. We have funerals for them without knowing anything for sure. One of the superheroes who was there on the night when I lost my parents went missing like that. Is there a way for me to find out how she died or where she was lost? Even if it’s bad, I think I’d like to know now.”
+
+“You refer to Hannah Elber.”
+
+Alden stiffened. “You already know her name. From researching me…or because you’ve heard of her? Do you know what happened?”
+
+“I heard about her before I met you. From the Avowed who Lind and I trained at Matadero. Some of them knew her well, and others consider themselves friends of her mother. A couple hinted that they would like an explanation for her disappearance. One asked outright that I look into it.”
+
+Alden had known The Gloom would have talked to her important Artonan contacts, but he’d forgotten that many of Hannah’s friends and former classmates were high-ranked Avowed who had access to their own information sources. Of course some of the people in a Matadero battlegroup would have thought to ask the knights. They’d probably had a gym class or twelve with Hannah at Celena North when they were teenagers.
+
+Alden braced himself. “Did you look into it?”
+
+“Only enough to determine whether or not all had been properly handled. It was.”
+
+“It was?”
+
+“Yes. I’m sorry for the pain the lack of information causes, but there’s little I can do to ease it. From my point of view, all Contracts and any summoners who may have been involved with Avowed Hannah Elber have behaved as they should.”
+
+Alden sat there staring.
+
+“Are you angry?” Esh-erdi asked.
+
+Alden shook himself. “No. Surprised. Confused. I believe you, and it’s good her last summoning was handled properly. But I was almost certain you were going to tell me an awful wizard had summoned her to fight a hopeless battle against a solar flare or something and then decided not to bother telling anyone that she was gone. And I hated that imaginary situation and every imaginary person who caused it, but it was very…over. Now I’ve got nothing at all to imagine. Are there a lot of proper reasons to hide what happened to a missing Avowed?
+
+“Several at least.”
+
+“She wouldn’t have run away to live somewhere else on Earth. Not without telling her mother. But her mother was really sad at her funeral, and I don’t think she was acting…”
+
+“No matter how intently you look at me, I will only say what I have said,” Esh-erdi replied.
+
+Alden rubbed his hands over his face. “Sorry. Let’s tattoo me. What’s it going to look like? And can I see the way you’ve arranged yours on your calf again? That band is multiple contracts, isn’t it? But they look so good together. Did you get them all at the same time, or is there a method for choosing designs that are easy to add to others without looking scrambled?”
+
+“You like my leg!” Esh-erdi said, swinging the very leg they were talking about toward Alden. “As you should. Picking what symbols you’ll carry with you is most of the fun. And isn’t it best if they’re lovely to your eyes as well as serving their practical purpose? Look at mine for inspiration. I’m also sending you images of the standard Matadero tattoo and hundreds of others I think are much better.”
+
+“Hundreds?”
+
+“Remember,” said Esh-erdi, “you have time. And I’ll be honored to share a mark with you if it’s well chosen.”
+
+******

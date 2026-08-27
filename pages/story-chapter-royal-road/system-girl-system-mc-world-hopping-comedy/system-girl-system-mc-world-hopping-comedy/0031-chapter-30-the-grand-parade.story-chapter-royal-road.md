@@ -1,0 +1,179 @@
+---
+id: 21c567ec-a08c-5232-96eb-bcf8d271a46c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: The Grand Parade"
+slug: 0031-chapter-30-the-grand-parade
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 31
+ownLength: 2474
+unit: words
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2694483/chapter-30-the-grand-parade"
+royalRoadId: "2694483"
+---
+
+The announcement came not as a quiet political statement, but as a formal, world-spanning proclamation. Magical resonance towers in every major city of both nations hummed to life, broadcasting the harmonized voices of Elder Corvus and the Sky Immortal with the long, white eyebrows.
+
+Let it be known on this day, their voices echoed, a sound of ancient, grudging accord, that a formal betrothal has been agreed upon. Princess An Liling of the Jade Palace and Lord David of House Corvus shall be joined in union, a first step toward a new era of understanding between our peoples.
+
+The news, when it finally dropped, landed with the force of a tectonic plate shift.
+
+For months, the world had been a hotbed of rumor and panicked speculation. Now, the rumors were confirmed. They were engaged.
+
+The older generation, those who remembered the last border skirmish and had lived their entire lives under the shadow of the cold war, breathed a collective, weary sigh of relief. In taverns from the frozen north of the mage lands to the sun-drenched southern coasts of the cultivator territories, grizzled veterans raised their mugs. "To peace," they'd grumble. "It's better for business, anyway."
+
+The merchants were ecstatic. The prospect of opening the borders, of new trade routes and exotic goods, sent a euphoric tremor through the world's economy. In the port cities, guild masters were already drafting new shipping contracts, their minds swimming with visions of jade being traded for enchanted steel, of spirit herbs for grimoires.
+
+But for the rest of the world, the reaction was a single, unifying question, whispered in marketplaces and screamed in frustrated letters:
+
+"Who is Dave?"
+
+In the Jade Palace, he was the foreign barbarian, the clumsy fool who had somehow stumbled into the greatest prize of their generation. In the Arcane Academy, he was a nobody, a ghost who had spent years as a punchline before his recent, inexplicable academic turnaround. He had no legendary achievements, no famous duels to his name. The only notable fact about him was his grandfather.
+
+"He's Elder Corvus's grandson," a young mage would say.
+
+"So?" another would retort. "My cousin is the Archmage's gardener. That doesn't mean he gets to marry a princess."
+
+And for the princess's legion of admirers, the news was not just confusing; it was a declaration of war. The first wave of death threats had been a regional squall. This was a continental hurricane. Curses were woven into prayer scrolls and sent via long-distance teleportation. Effigies of a clumsy-looking wizard were burned in the courtyards of a thousand noble houses. The simmering resentment of the youth had found a single, universally despised target.
+
+. . .
+
+"This is officially the most terrifying first date in the history of mankind," Dave whispered, his voice trembling slightly.
+
+He stood in his chambers in the Jade Palace, dressed in a set of formal robes so ornate, so heavy with enchanted silk and silver embroidery, that he felt less like a lord and more like a very expensive piece of furniture.
+
+It is not a date, Liz projected from her perch on his shoulder, though her mental voice lacked its usual conviction. It is a highly choreographed, multi-stage diplomatic procession. There is a clear itinerary. The objectives are defined.
+
+[Ana: The itinerary includes ‘feeding each other a ceremonial moon pastry’ and ‘gazing lovingly into each other's eyes during the city square address.’ From a data-driven perspective, it meets all the criteria for a date.]
+
+A grand parade had been orchestrated, a tour that would begin in the heart of the Jade Palace, travel across the continent to the Arcane Academy, and then circle back. It was a victory lap for peace, a public display of unity. And at the center of it all, on a magnificent floating palanquin carved from a single piece of white jade, would be the happy couple.
+
+Dave was sweating buckets.
+
+Bestie, Liz said, her tone grim. It appears the knot that binds them is not, in fact, the one they will tie, but the one he failed to tie in the garden. The shoelace of destiny.
+
+[Ana: Logging that for the official mission report. Now, focus. I am setting the Dial to 11%. Power-Saving Mode. Your job is to provide real-time emotional guidance. My job is to prevent him from walking off the edge of the palanquin.]
+
+The parade began. The floating platform lifted silently into the air, carrying them out of the Jade Palace and over the breathtaking Thousand Serpent Mountains. The cheers from the cultivators below were a deafening roar, a tidal wave of sound that washed over them.
+
+But the cheers were not for Dave.
+
+Princess An Liling was a vision. She was grace and power personified, her serene smile a beacon of hope for her people. She waved, and the crowd roared louder.
+
+Dave, standing beside her, was just… a man in fancy clothes. He was handsome, his posture was straight (thanks to Liz's constant, nagging projections of spinal alignment), but he lacked her presence, her aura of command. He looked less like her fiancé and more like her well-dressed but deeply anxious bodyguard. The cheers for her were punctuated by confused, pointed whispers whenever the crowd looked at him.
+
+Their first stop was the capital city of the cultivator lands. The palanquin descended into the main square, a sea of upturned, worshipful faces. This was the site of their first choreographed task.
+
+An attendant floated up on a cloud, bearing a single, perfect moon pastry on a silver tray.
+
+[Ana: Alright, gentlemen. This is Objective Alpha. The feeding of the pastry. Dave, you will take the pastry, break it in half, and offer the first piece to the princess. Try not to drop it.]
+
+Dave, running on the placid, obedient logic of 11%, did exactly as he was told. He took the pastry. His hands, thankfully, were steady. He broke it. The break was clean. So far, so good. He turned to the princess.
+
+She leaned forward, her expression a perfect mask of gentle affection, though I could feel the scream of pure, unadulterated awkwardness echoing through our soul-bond.
+
+Dave held out the piece of pastry. And then he waited.
+
+[Ana: Dave, you have to actually… put it in her mouth.]
+
+Oh. Right.
+
+He moved the pastry forward. It was a slow, agonizingly clumsy motion. He misjudged the distance, bumping it gently against her lips. She flinched, then quickly recovered, taking a delicate bite.
+
+The crowd below cooed with delight.
+
+Success, Liz projected, her relief a palpable wave. Though his execution lacked a certain finesse.
+
+Now it was her turn. The princess took the other half. She moved with a fluid, practiced grace that made Dave’s attempt look like a construction accident. She offered him the bite.
+
+And 11% Dave, his mind a simple, happy blank, opened his mouth. Wide. Like a baby bird waiting for a worm.
+
+Princess Liling’s hand froze for a fraction of a second. I could feel a fresh spike of horror from her end of the link. But she was a professional. She completed the motion, placing the pastry in his mouth. He chewed happily.
+
+The crowd erupted in cheers. The first hurdle, the most awkward, cringe-inducing moment of public intimacy, was complete. The mission, against all odds, was still a success.
+
+As the palanquin began its slow ascent, preparing for the long journey to the wizard lands, Liz let out a long, slow breath. One objective down. How many more of these… romantic KPIs… are on the list?
+
+[Ana: Next up is the portrait in the wizard capital. The itinerary specifies five minutes of continuous, uninterrupted hand-holding.]
+
+A low, pained groan echoed through our private channel. It wasn't from Liz. It was from the princess.
+
+. . .
+
+The journey across the continent was a long, silent, and deeply uncomfortable affair. We floated for hours over vast plains and winding rivers, the only sound the gentle hum of the palanquin's enchantment and the distant cheers from the towns we passed over. Dave, still running in Power-Saving Mode, simply stood and smiled, a perfect, placid mannequin. Princess Liling sat in a state of serene meditation, a calm mask that did nothing to hide the storm of mortification I could feel raging through our soul-bond.
+
+Liz, for her part, had taken on a new, surprisingly maternal role. Having exhausted her critiques of the princess’s dragon, she had now turned her formidable analytical skills toward managing Dave’s public appearance.
+
+Bestie, the asset has a loose thread on his left cuff, she’d project, her mental voice sharp with concern.
+
+[Ana: Logging it. We can’t do anything about it from up here, Liz.]
+
+Unacceptable. And is that a smudge on his cheek? He must have gotten some pastry on it. It’s unprofessional. Remind me to conduct a full uniform inspection before the next public appearance.
+
+[Ana: You’re starting to sound like a mother.]
+
+I am a twenty-one-headed hydra sovereign, she retorted indignantly. It is my duty to ensure my… subordinates… reflect my own high standards of excellence.
+
+After what felt like an eternity, the rolling green hills of the cultivator lands gave way to the sharper, more rugged terrain of the mage territories. The architecture below shifted from elegant, curved pagodas to stern, angular towers of dark stone. We had crossed the border.
+
+The palanquin descended into the capital of the wizard lands, a city built around the sprawling, gothic campus of the Arcane Academy. The reception here was… different. There was still cheering, but it was more subdued. The faces in the crowd were a mixture of curiosity, respect for the princess, and utter confusion directed at Dave. I could hear their thoughts, a low murmur of baffled questions.
+
+"Is that him? He doesn't look like much.""I heard he set a plant on fire in front of the Elder Council.""Why does he get a princess? I got a detention for turning my roommate’s hair blue."
+
+Our first stop was a grand, open-air pavilion where a court painter, one of the most renowned in the kingdom, was waiting. An ornate, gilded frame stood on an easel, the canvas within it already glowing with a faint, preparatory magic.
+
+[Ana: Alright, team. This is Objective Bravo,] my voice was a calm, steady presence in our shared mental space. [The official betrothal portrait. The agenda calls for a five-minute period of continuous hand-holding to allow the artist to capture the ‘essence of your bond.’]
+
+A fresh wave of dread washed over the link from the princess. Dave, oblivious, simply waited for instructions.
+
+Let us get this over with, Liz sighed.
+
+They were positioned by the artist, side-by-side, overlooking a grand vista of the city. “Now, if you would, Your Highness, Lord Dave… your hands?” the artist requested, his voice filled with reverence.
+
+Princess Liling extended her hand, her movements stiff and reluctant. Dave, prompted by a sharp mental nudge from Liz, reached out to take it.
+
+Their fingers touched. It was a moment of profound, world-altering awkwardness. Her hand was cool and delicate. His was warm and, to my dual-sensory perception, slightly sweaty.
+
+[Ana: User perspiration levels are elevated. A normal physiological response to stress. Maintain protocol.]
+
+The artist began to work, his brushstrokes leaving trails of glowing, magical paint in the air that slowly coalesced on the canvas. Dave and the princess stood there, frozen, their hands clasped together in the most unnatural, platonic grip imaginable. They were looking straight ahead, their expressions fixed, their bodies separated by a carefully maintained six-inch gap of pure, unadulterated social terror.
+
+One minute passed. Then two. The silence was deafening.
+
+Bestie, his thumb is twitching, Liz noted. Is that part of the protocol?
+
+[Ana: Negative. It appears to be an unscripted neuromuscular spasm.]
+
+Three minutes. Dave, whose 11% brain was growing bored, decided to initiate a conversation.
+
+Your hand is very… hand-shaped, his thought echoed, a simple, earnest observation.
+
+The princess’s grip tightened for a fraction of a second. Thank you, she thought back, her mental voice strained. Yours is also… present.
+
+Four minutes. The portrait was taking shape on the canvas, a masterpiece of romantic propaganda that was a complete and utter lie. The magical paint was capturing not their reality, but the idea of them, depicting two lovers lost in each other’s gaze, a soft, warm light surrounding them. It was the most dishonest piece of art I had ever witnessed.
+
+"And… we are done!" the artist announced, putting the final flourish on his work.
+
+They dropped each other’s hands as if they were red-hot coals. The second romantic KPI was complete. The crowd, which had been watching in rapt silence, broke into polite, if slightly confused, applause.
+
+That evening, a grand banquet was held in their honor at the academy. It was another minefield of social interaction, but with 30% Dave deployed, we navigated it with practiced efficiency. He made small talk, he complimented the food, he didn’t set anything on fire. It was a resounding success.
+
+The final trial came late that night. As the banquet wound down, Elder Corvus approached them, a stern but satisfied look on his face. “The procession was a success. Now, you two must be exhausted. The guest pavilion has been prepared for you both.”
+
+Both? The thought was a simultaneous, panicked broadcast from Liz and the princess.
+
+The pavilion was a single, luxurious suite of rooms. A grand sitting area, a balcony… and one, very large, very opulent bedchamber.
+
+There was a long, excruciatingly silent pause as they stood in the doorway.
+
+Dave, whose 30% brain was still active, was the first to process the situation and formulate a solution. “Your Serene Highness,” he said, his voice quiet and respectful, “please, take the bed. I am perfectly comfortable on the couch.”
+
+Before she could protest, he took a blanket and a pillow from the bed and retreated to the sitting room, closing the door softly behind him.
+
+The princess stood alone in the magnificent room, a mixture of relief and another, more complex emotion swirling within her. He is… a gentleman, she finally thought, the admission quiet and surprised.
+
+Liz, watching from her perch on a bedpost, was equally taken aback. The asset has demonstrated a surprising capacity for chivalry. This is an unexpected, but positive, development.
+
+[Ana: It seems our user is capable of generating positive outcomes without our direct intervention,] I noted, updating my internal logs. [The probability of mission success has been revised from 42% to 43%. A significant improvement.]
+
+The day had been a trial by fire, a gauntlet of forced intimacy and public scrutiny. But as Dave fell asleep on the couch and the princess finally relaxed in the quiet of her room, a new, fragile foundation had been laid. They had survived their first date.

@@ -1,0 +1,639 @@
+---
+id: 284bf15f-8bc2-5698-9cde-d9c4dbec80d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 189: Taking Off"
+slug: 0112-chapter-189-taking-off
+partOf: the-calamitous-bob-stubbed
+position: 112
+ownLength: 5948
+unit: words
+ownProgress: 5948
+publishedAt: 2025-01-18
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2016929/chapter-189-taking-off"
+royalRoadId: "2016929"
+markedReadAt: "2026-06-29T21:18:38.199Z"
+---
+
+Being leaderless and fratricidal didn’t stop the beastlings from being a threat to humans. In the orgy of violence that followed, the alliance armies were no less a target. The only saving grace was that they no longer had to push. They also no longer had to hold back.
+
+Viv unleashed everything she had. Sidjin and Abe did the same. The air was soon filled with the most devastating spells in their arsenals, soon joined by bolts, arrows, jars of naphtha, fire bees, chlorine, and a few more experimental concoctions the yries had produced in the depths of their honey-fueled depravity. Those aberrants that survived were mercilessly cut down in a last push, everyone throwing everything they had into that last stand. The sea of bodies became a sea of corpses. Soon, there was nothing left near the Harrakans or their neighbors.
+
+Most soldiers sat down where they were, at least those that didn’t collapse. Only the One Hundred remained standing as an enduring statement of stubborn resilience. Jaratalassi’s urgent pleas pushed Viv to fly away, to the west, where a large aberrant caused a lot of trouble. An hour later, nothing was left moving except for the Alliance’s forces. Those few survivors that remained had long fled, condemned to starve in the desert they’d created.
+
+In the evening, the permanent cloud cover seemed to lift ever so slightly. Viv flew up, higher than she had since arriving here. The red light of the sun bathed the entire dead valley in smears of crimson, light mixing with congealing ichor to form a tapestry of reds, blacks, and browns. It was a ghastly show that perfectly matched the stench. And it would only get worse.
+
+Up there, Viv looked south, back towards Glastia. The Alliance had left charnel trails a couple of leagues wide, several paths of death that converged towards the gore-drenched remains of the fortress in a circle of carnage. Black mana was visible in the distance as dark fumaroles, greedily eating at the feast now that the aberrants were dead. Viv felt that they fought off the dead god’s influence to replace unnatural life with entropy.
+
+She felt it was necessary. This place… it was the site of a struggle. Nyil was trying to remove the cancer on its ‘skin’ by necrotizing the entire area. She dove, finding the clergy of Neriad near the tents of the wounded. She met the head physician inside. He was an old, quiet man with the gaze of someone who’d seen too much. No one stopped her when she barged in, finding him hard at work bandaging the stump of a panting heavy. The young woman was sweating and clearly in pain.
+
+“You’ll help me regrow it? Right?” she asked when Viv approached. “Sorry, I meant, Your Majesty.”
+
+“Of course. Free of charge as usual. We’ll get out of here first though,” the witch replied with a comforting smile. “Speaking of getting out of here, I have concerns of a religious nature,” she told the bishop.
+
+He looked up with tired eyes.
+
+“You may confess your countless sins later.”
+
+“I’m more referring to a massive plains full of dead things emitting incalculable amounts of corrupt and dark mana, now both vying for domination in a contest that will make the deadlands feel like a nice seaside village.”
+
+“That’s bad then?” the young heavy asked.
+
+“I am done bandaging you, young lady. Please stay on the bed and drink water regularly, as well as anything we bring you. You must rest now.”
+
+“Oh yes please.”
+
+She was asleep in seconds, following which the Head Physician politely invited Viv to follow him.
+
+“I am not an expert on theological matters, but I suspect you must be right. Your mana perception and your soul must feel the conflict at work more keenly than I ever could. I believe we should leave this place immediately, and call upon the churches to start purifying the land starting here.”
+
+“Then I’ll need to set up portals so we can evacuate the wounded first. I’ll need to fly back for that.”
+
+The man nodded, clearly not interested in the minutiae.
+
+“Our casualties have been kept to a minimum so far. I shall make sure they live.”
+
+Viv nodded. She left the tent and found that the camp had become a large sleeping pile. Actually, it wasn’t even a camp. No fortifications, not even raised tents. Heavies had fallen where they stood, sometimes even only a few steps away from bodies. Ban had finally dismissed the One Hundred. The older and meaner witchpact patrolled, eyes open and fingers on the triggers. Viv felt a tinge of worry. This wasn’t a good place to stop. She could feel it in her soul, as they’d said. She found Sidjin burning the remains of nearby aberrants though he was clearly running on fumes. As for Viv, the ‘Light that Never Dims’ title was carrying her through the day like a furnace that just kept getting hotter.
+
+“Sidjin.”
+
+“Huh?”
+
+“You need to stop and rest.”
+
+“I can keep going on.”
+
+Viv rolled her eyes.
+
+“You need to stop because we are going to get all of the armies out of here as soon as possible and replace them with enough priests to sanctify a grumpy necrarch. I’m going to fly back and reestablish the portal, then we’ll build a temporary Nexus. You’ll stay here until I do so, then set up your own portals. You’re in charge of Glastia and Baran.”
+
+“Oh, yes. Baran too?”
+
+“Look, let’s just say things are a little tense right now.”
+
+“What about the Pure League?”
+
+“Oh them I fully intend to be rude to. Anyway, warning Jaratalassi then I’m off.”
+
+“Fly safely.”
+
+***
+
+The flight back took close to an hour. Viv couldn’t go very fast yet, and she regretted that Arthur was taking care of the bank and her brother.
+
+Going over the wall and landing felt like taking a breath of fresh air after hours stuck in a rank room. Suddenly, the world had colors again. She landed in the secluded meadow where her circle was supposed to be, finding carts and Hadals waiting in plain view. Four guards in the red of Glastia struggled against the ropes that stuck them to nearby trees. So Sidjin had been right.
+
+“We are sorry,” Irao said, emerging from the shadows. “My people didn’t realize what they were doing at first. We assumed they were here for the supplies.”
+
+Viv waved his concerns aside.
+
+“It’s my fault. I was naive, again. I should have posted guards and made it clear the circle wasn’t to be touched by anyone except our own mages.”
+
+“Hm. Hm. I want to go now.”
+
+“Yeah don’t worry.”
+
+Viv set out to repair the circle. One of the trussed guards had the audacity to hail her.
+
+“Hey! Release us, we’re citizens of Glastia! You have no right to hold us —”
+
+Viv raised a finger, hitting him with the full strength of draconic intimidation.
+
+She had not forgotten them, it said. They were on her shit list. It was just that her anger was a cold one, and she had other priorities. Keeping them alive was not one of them.
+
+“Interrupt me while I work again and I’ll rip out your fucking tongue.”
+
+It was enough to silence them. Only when the aperture turned dark and foreboding, and the stench of an entire field of death wafted through it did she turn to the guards. Behind her, carts full of wounded already rolled while the driver on the living side hurried to provide help.
+
+“I’m not going to kill you,” she said.
+
+The man who’d spoken breathed a sigh of relief. The idiot.
+
+“Instead, I’m going to give you to the inquisition.”
+
+“You can’t do that! Prince Medjin shall make you pay for this.”
+
+“I can and I will. You pieces of shit endangered the expedition for the political gain of an asshole. When the inquisitors are done with you, you’ll wish I had killed you instead. Farewell.”
+
+Viv walked through the portal, regretting the fact that she still had the need to breathe, then she flew off to the Enorian army for the next portal.
+
+***
+
+It took the remainder of the day, the entire night and then some of the following morning to bring everyone back. The novelty of the multi-portal experience meant that everything was a logistical mess of biblical proportions with the different paths not helping because people couldn’t manage transportation and their own egos at the same time. Fortunately, victory and the presence of Jaratalassi kept the fistfights to a bare minimum.
+
+Viv and Sidjin’s tireless efforts had bought them some serious brownie points with the leadership of the various factions, especially with so many wounded who would’ve otherwise not survived the trip back. The fields around Glastia soon filled with civilians eager to help. There was a lot of crying, a lot of drinking, and overall a feeling of incredulous relief that yes, this was really over. The war was over. They’d won.
+
+One of the great perils of mankind on the continent had been defeated with one last decisive blow.
+
+Priests and bishops were already coming in from all over the continent to help with the aftermath, the clergy of Enttiku purifying remains while those devoted to Sardanal forced grass and small plants to bloom again, chasing away the encroaching black. It would take decades before this region recovered but at least now it had a chance. Jaratalassi requested that all leaders stay for another council but in the meantime the moment was one of celebration. It wasn’t every day that mankind had wins like that.
+
+Viv made sure everyone was settled, then she walked through the various friendly encampments during some of the wildest festivities she’d ever seen. To her surprise, the Blue Duke found her to inquire about land for his people, an initiative Viv had no trouble encouraging. Rollo could certainly add more talented knights to his retinue provided they behaved, and there was always more land to farm. Once more, the Harrakans would return home with more people than when they’d started.
+
+The Golden Order had stayed behind to pray so Viv purchased a few carts of fresh fruits and returned to the land beyond to drop them off to a grateful Order Master. All in all, she used the opportunity to make friends. She didn’t feel like drinking herself. This place wasn’t safe. There were still people out there who intended to fuck her over.
+
+***
+
+“Did you know this was a trap?” the angry nobleman spat.
+
+Viv reclined in her chair, letting her anchors hover menacingly behind her, bladed tips lazily hanging behind the nervous backs of representatives. She tilted her head towards the accusatory Glastian. Grief twisted his traits into an expression of pain and rage. Jaratalassi frowned, but once again the wise general preferred to let people air their grievances before clamping down. Viv had no issues with that.
+
+“Are you asking me if I knew the Beastlings would lay a trap at the fortress?”
+
+“That’s what I said!”
+
+“Of course I did,” Viv replied with a smile.
+
+The nobleman turned red. His fury ignited to a great crescendo that left his fingers gripping the table.
+
+“You admit it! Traitor! Traitor to mankind!”
+
+“Was I expecting the beastlings to lay an ambush? Was I expecting those who’d dug tunnels to attack us from below, those manipulated by a malicious intelligence, those beastlings, to be up to something? Did I seriously think they had something prepared? Did I, who also faced a horde in battle before, expect beastlings to act in a devious manner?”
+
+Viv smiled. There was nothing quite like drenching the truth in so much bullshit, it became a whole other truth.
+
+“Did I expect a trap? Of course I fucking did. That’s why my people advanced cautiously, and that’s why we didn’t rush ahead like vainglorious hounds.”
+
+“MY PEOPLE BLED!”
+
+“Everyones. People. Bled,” Viv muttered, and this time she spoke backed by draconic intimidation.
+
+The temperature dropped ever so slightly as the air grew cold, as did Viv’s heart. The skill was influencing her as she was calling upon it. A small price to pay to let the others know exactly what she believed about those accusations.
+
+“Medjin pushed his soldiers ahead against the recommendation of our general. He left my left flank and the Enorian right exposed as a result. Children will soon learn of the death of parents because your general could not be bothered to follow orders,” she growled.
+
+The nobleman simmered but Viv’s words were moved by her belief and the cold certainty of a draconic mind. Viv was no longer bullshitting. She was stating, and the power of her soul bared her belief for all to feel. She could feel it as well, the feedback. Her accuser had lost someone dear. He was blinded by the pain, the horror of tragedy on the eve of final success.
+
+If they were friends, Viv would have comforted him instead.
+
+But they were not friends.
+
+“Medjin died because he was an imbecile consumed by petty hatred. The death of your people can solely be laid at the feet of the one who put him in charge.”
+
+Gasps and whispers filled the hall. No one dared steal glances towards the throne standing at the end of the room. Tonight, the First Prince of Glastia was in attendance.
+
+Viv met his eyes. He was an older, graver version of Sidjin, a stern yet distant figure that lacked the fallen prince’s melancholy.
+
+“That is not all. There was indeed a traitor to mankind in our ranks. I shall now call upon the inquisition.”
+
+More gasps, some of them outraged. Calling the hammer of the religious inquisition in a secular meeting was bound to make no friends, but Viv was confident she would pull ahead. There was a brief scuffle outside the doors. Viv’s soul sense picked up a flash of golden mana before a crying man entered, led forward by two heavily armored and rather grim inquisitors. One of them was Orkan, the apprentice now a full-fledged agent. He gave Viv a small nod.
+
+The crying man was one of the guards who’d damaged her circle.
+
+“I’m sorry! I’m sorry, I didn’t want to hurt all those people.”
+
+“Tell them what you did,” one of the inquisitors said.
+
+Then came a long and predictable confession. One of Medjin’s known supporters approached the guards with tales of odious Harrakan arrogance, smoothing the wheels of scruples with some coin, then let them ‘accidentally’ damage the circle. None of this held now that Neriad’s merciless light had exposed the subterfuge for what it was: a shitty backstabbing by someone who’d lived a life free of consequences.
+
+Outside, people partied. In the council room, Viv could have heard an ant fart.
+
+“Let the Alliance note that Glastia’s military leader engaged in sabotage and conspiracy against a fellow member during a military operation,” Viv stated with detachment.
+
+The inquisition standing as witness, this was the sort of stuff that could lead to a valid casus belli, not to mention religious ostracism. No one wanted to go to war with every last religious martial order on the opposite side of the conflict. Gods having a short fuse, that could end with entire bloodlines scorched in a sea of holy fire.
+
+Viv sat back, and Sidjin stood instead.
+
+“Considering the demise of the sinner, and our friendship with the great city of Glastia, Harrak will lay the matter to rest. We will not seek compensation on this day of triumph and celebration. Thank you.”
+
+On the throne, the First Prince gave an indistinct nod.
+
+Viv really thought the God King shtick was a crap way of governing, but she had the arcane monster version of awe going for her so… hard to criticize.
+
+With a collective breath of relief, the council eagerly switched to another topic. Harrak had let the matter drop and now Glastia owed them. It was enough.
+
+Viv gave Sidjin a look. The prince was still thoughtful. He seemed a bit bitter about the whole thing. Only after they left did he finally talk.
+
+“I am done with this city. At first, I believed that Medjin was merely a rotten fruit in a besieged basket, but now, facing my father…”
+
+Viv patiently waited for him to continue.
+
+“I realize how much pain we have caused ourselves through the tolerance of cruelty and pettiness. I can no longer accept it. Let’s just leave. I need some time to… digest it all.”
+
+“Is this about Medjin’s death?”
+
+Sidjin nodded.
+
+“I thought it would make me feel better. It has not. As if he had died after inflicting the most damage. How could I rejoice when the harm was already done?”
+
+“I see. I’m…. sorry.”
+
+“As I said, I only need some time.”
+
+***
+
+Before leaving, Viv made sure to pick up a recommendation and directions from Jaratalassi. She wanted her own general and she’d get him. The trip back was quick enough. Alas, all hopes that she could leave again were quickly dashed.
+
+“YOU!” her valorous stand in screamed once Viv appeared in Kazar.
+
+The Lady Azar cornered Viv, letting her know exactly what she thought about being left alone handling fifty thousand new clueless citizens, some of whom had never seen a book in their lives. Viv was drafted in the chores war despite her best efforts. Lady Azar threatened to quit if she didn’t and Viv was all out of experienced administrative leaders.
+
+The first step was in Frostway, where the golems were done clearing up the demolished city. Artisans and artists were already back at work in the restored manufactories while others struggled to repair and expand facilities that had been abandoned for decades, sometimes more. The loss of know-how was just as harmful as the destruction of legacy tools.
+
+“I’m not sure the capabilities to even build a replacement vat exists anywhere on the continent,” a foreman explained. “The original piece was custom-built in the workshops of the capital, back in the old days. Do you, perhaps, have ideas as to who may fill such an order?”
+
+Viv was here to cast magic and cosplay as sexy Sauron. She had no idea who might be able to replace a crucible three meters across.
+
+“Let me ask around.”
+
+That was a great way to say she didn’t know shit and to shelve the project until something changed.
+
+That wasn’t the only unfortunate news about Frostway. In his anger, the local archmage had frozen all the ships’ sails solid to prevent his dear leader from escaping by sea. Yeah, sails didn’t like that very much. They were done for now, not that they were in a great state to begin with. No one here remembered how to make new large sails since they’d just patched them up before, so Viv had ships and they wouldn’t be going anywhere any time soon. That also meant flying to a nearby island to open a portal to their iron mines, or risk the miners starving to death.
+
+Not all was bleak, however. The initiative to distribute tools for free was wildly successful. Viv participated herself to let the people see her and remember her as a force for good. The extent of the misery in which she found some, and their gratitude, reminded her that it didn’t take that much effort to improve things for everybody sometimes. Of course, that was just the beginning. Tools broke. Villages needed trained smithies to repair them and forge new ones. Because there had been no demand, there were no candidates on that path so new ones had to be trained, another expensive and time-consuming endeavor.
+
+It was a lot of work.
+
+Viv spent the next three months opening portals, clearing fresh land, and basically just being all around useful.
+
+***
+
+//We are done, Your Majesty.
+
+Viv glared at Solfis. As usual, it was a little difficult guessing what a being with no facial expression could be thinking but he didn’t sound remorseful at all.
+
+“Good. Ok. Then I suppose you’ll get back to training engineers?”
+
+//Yes.
+
+//Arcane smiths and miners as well.
+
+//The extraction and handling of silverite is a delicate process.
+
+//I do not expect more than the creation of spare parts for at least a few decades.
+
+//Fortunately, Ares brought many weapons back from the city.
+
+//And we can handle some of the repairs ourselves.
+
+“Looks like things are looking up.”
+
+//And yet, I find myself sad.
+
+Viv almost gasped at the mere mention of Solfis admitting any sort of vulnerability.
+
+“Oh? Is it perhaps related to your bad experience after blatantly circumventing my orders, orders I gave you for your own good having correctly assessed the situation?”
+
+//Of course not.
+
+“Figures.”
+
+//Although, I shall take your advice under deeper consideration next time.
+
+“Orders are not advice!”
+
+//No, I simply miss traveling with you.
+
+//We could not spend two weeks before being assailed, provoked, attacked, insulted, or otherwise bothered in ways that led either to pain or humiliation.
+
+//For the others, of course.
+
+//Life here has been dreadfully bloodless.
+
+//Is there perhaps a new god you have offended?
+
+Viv’s jaw closed shut with an audible click.
+
+//I knew it.
+
+//I am missing all the fun.
+
+//Ah, to be young again.
+
+“Fret not, I’m sure my luck will eventually bring something only we can defeat.”
+
+//Ah but see, there lies the issue.
+
+//Things only we can defeat are rare.
+
+//Better something that mistakenly believes it can defeat us.
+
+“Don’t jinx it.”
+
+***
+
+Viv approached the grotto at a sedate pace to allow its dwellers time to sense her presence. Intentionally leaking mana and moving slowly was the draconic equivalent of knocking. She just didn’t enjoy it a lot. Leaking mana felt sloppy.
+
+The answer came quickly.
+
+Mother!
+
+You are back.
+
+Have you grown real wings yet?
+
+“You know that’s just not going to happen overnight, right?”
+
+I have high expectations of you.
+
+Higher than I have for my brother…
+
+HELLO, HUMAN.
+
+Viv entered the cave which smelled a little rank. Could it be that teenage dragons stank too? It would be rather unfortunate, or maybe they just had a problem with hygiene. Arthur herself had struggled with baths at the beginning.
+
+“I just came to see how everyone is doing.”
+
+I am pleased to report that my debt portfolio has tripled while the risky assets exposure has remained below ten percent.
+
+“I meant your brother’s promotion from fire hazard to valuable member of our evil empire.”
+
+He has yet to understand the value of long term investment.
+
+Viv found the two dragons lying comfortably on a bed of moss. The moss was clean but the brother was not. Viv could see filth coating his talons. That immediately pissed her off.
+
+All those numbers are boring.
+
+“If you burn down a village you get some buckets of fish, but if you help it instead, you get one bucket every year forever.”
+
+The larger dragon lifted his head. His crimson eyes shone in the darkness.
+
+Forever?
+
+He scoffed.
+
+“As long as the village is standing. Now you do this for ten villages and you don’t have to fish one day in your life ever again, unless you want to.”
+
+Arthur nodded sagely. She was already rich now, so she hunted for sport.
+
+Really?
+
+“It’s a bit more effort at first for a lot more fish later.”
+
+And the sauce?
+
+“Obviously if you put in a lot of effort, there will be sauce as well. And the humans will cook and prepare it for you and thank you for the pleasure of doing it. You don’t even have to threaten them.”
+
+Arthur nodded once again with all the wisdom her great intelligence afforded her.
+
+You can tell them to sing and guard your den.
+
+Very useful.
+
+Humans are versatile.
+
+And there are a lot of them!
+
+Clearly Viv’s result-oriented approach was convincing, because the older dragon considered his options very carefully.
+
+“Speaking of sauce, you’re seriously not eating with claws in that state, right? Arthur, tell me you’re not letting him show himself out like this?”
+
+Arthur had the decency to look embarrassed.
+
+I don’t want to force another dragon to wash.
+
+‘Tis unseemly.
+
+“Unseemly my ass, it’s disgusting.”
+
+MY NAME IS RAVENOUS WINTER GALE OVER AN ENDLESS SEA.
+
+AND I WILL NOT BE FORCED TO BATHE.
+
+Winter gale stood as tall as the cavern allowed him, which honestly wasn’t much. He stretched his arms and wings to make himself look large. So sure he was the size of a minibus but Viv had seen Judgment and she wasn’t very impressed.
+
+“You’d better get cleaned up like a proper grown up, mister, or I’ll call you flatulent puff over a fetid marsh.”
+
+YOU DARE.
+
+I WILL TORCH YOU ALIVE!
+
+He was really angry now. Ravenous Winter Gale stomped towards Viv but all she could think of was the increasing smell of rank fish.
+
+“I will have none of your attitude,” Viv said.
+
+THEN PREPARE TO DIE.
+
+Viv allowed her draconic intimidation to rise, this time buoyed by the title of dragonslayer. Gale was immediately cowed if only because the title had been won over his walloping. Viv knew he was being emotional but it didn’t matter. He was a young male dragon with the arrogance and territoriality to match. Either she got him to listen now or he would cross the line at the first opportunity.
+
+Her anchors emerged with sinuous grace. Even with his maw within range of her face, Viv showed no fear. Her skills would warn her if he decided to act. And if they didn’t, then it wouldn’t matter.
+
+“If you do go for me again, be sure to give it your all because I am seldom merciful, and then only once.”
+
+Another aura rose behind Gale. This time, it was Arthur’s.
+
+There was one thing to say about humans, it was that the presence of Nous really made a huge difference. Magic would empower creatures no matter the species. Nous made sure that this empowerment was optimized, maximized, and specialized and other manner of -ized for sapient races just so they would get an edge over the competition.
+
+There was one thing to say about dragons: they didn’t need it. Viv had draconic intimidation as a skill. Arthur was intimidating. And also she was a dragon.
+
+That was it, really, and when her daughter’s cold fury rose in the cave, even Viv pulled back.
+
+Make sure you lose to mother.
+
+Because mother kills quickly.
+
+And I’d hate to have my time and energy wasted on an idiot.
+
+It was entirely too much for Gale. He crashed on his moss bed, soon covering his head with a pair of despondent wings.
+
+I want fish skewers.
+
+“Wash your claws first, then let’s go for those skewers.”
+
+Really?
+
+Gale perked up at the offer.
+
+Viv couldn’t believe the stick and carrot worked so well with that big oaf. If Arthur’s dramatic eye roll was any indication, she couldn’t either.
+
+***
+
+The harvest festival came and went. Viv’s projects to recruit a general and help the kark had to be postponed because there was simply too much work. Integrating the remnants had put a lot of stress on an already fragile system. Her only saving grace was that Harrak was doing well: that the harvest was once again exceptional and exports were booming. That meant tariffs and taxes flooded into the sorely empty Harrakan coffers, funding a new round of investments. Even then, many projects were still on hold. It was just taking time training and integrating new people into, well, everything. That was fine for Viv. She’d been running around a lot these past few months. Everyone needed to settle down for a spell, practice a bit, go to the temple every weekend to smile at ecstatic mothers waving their screaming crotch fruits in her nose. glibly informing her they’d been named ‘Bob’ after her. Viv found herself taking occasional refuge in the Hadal haven just so people wouldn’t talk to her or ask something for one fucking minute.
+
+“Gods, why is having one’s own personal empire so time-consuming. They never show this shit in movies. It’s always some grand declaration about world conquest and not cereals tax rate harmonization.”
+
+She mostly kept her thoughts to herself just in case the spark of luck was listening. Busy marketplaces were good. Plentiful harvests were good. Adventures were exciting. Exciting was generally bad, no matter what Solfis claimed. Viv would just hunker down and enjoy growth, prosperity, and a total lack of tension with her Enorian neighbors for as long as it lasted.
+
+***
+
+Meanwhile, in Enoria.
+
+The baron’s fingers gripped that damn parchment but no matter how hard he glared at them, the scribbled numbers refused to change.
+
+Hard times.
+
+He’d cut his life expenditure, even sold many of his horses. He’d reduced the number of servants. Maranor’s tits, he’d even given up on drinking and still, still! The barony was descending into bankruptcy.
+
+“There must be some sort of mistake…” the baron said. “Ogor, tell me we are forgetting the profit from our orchards.”
+
+“Alas, no sir. It has not been a great year. Reduced demand, you see?”
+
+“And the brewery?”
+
+“Terribly sorry sir. Competition from the north…”
+
+“Those damn rebels are fucking me raw even after the war’s over. Gods dammit.”
+
+He clenched his hands into fists.
+
+Was there something he could do to raise more funds? Anything? He could not let go of any more soldiers without failing in his duties to the throne. Even then, his new recruits were poorly equipped with antique mail and basic pikes. What faced him was only the prospect of ever more debt, a spiral that would end with the sale of all his assets.
+
+At least his father had died before seeing the fall of his noble family.
+
+“Milord, I know someone in the city who might be able to assist,” his steward Ogor said with a kind smile.
+
+“I know what sort of ‘help’ can be found in Reixa, Ogor. We will be bled dry even faster. No, I suppose I shall have to sell all that I possess save for the shirt off my back. Lean year indeed…”
+
+Just then, a thump sounded from behind him. He turned away from his desk towards the large window that overlooked the rose garden. A scream of horror from one of the servants made him jump to his feet. An attack?
+
+A burst of mana made Ogor bleat in terror. The baron grabbed his sword, unsheathing it in a smooth motion. His mind whispered that a death in battle would be the honorable out. He silenced it. He had a duty to his people.
+
+Somehow, the window opened by itself, as if moved by an invisible hand. That was some impressive wizardry. What was even more impressive was the serpentine head snaking its way through the aperture.
+
+It was coming a little short. Unfortunately, the office was on the second floor.
+
+The baron paled. Meanwhile, Ogor fell on his ass.
+
+“Dra … dra dra dra—”
+
+Hello hello!
+
+I apologize for the interruption.
+
+I came here because I thought we could come to an agreement.
+
+“You… you are…”
+
+She Who Feasts and Collects.
+
+I would say ‘at your service’ but we both know that would be a lie.
+
+I have come to solve your money problems.
+
+In return, you will grant me a license to operate on your land.
+
+Fingers gripping his sword like a lifeline, the baron could do little but stutter.
+
+‘What?”
+
+The dragon sighed audibly,
+
+Enorians.
+
+I will make sure you are no longer poor.
+
+In return, you will allow me to open a branch on your land.
+
+“A branch?”
+
+Of my bank!
+
+Impossibly, a white-scaled arm moved through the window. Sharp black claws delicately placed a scroll on the ground.
+
+The contract.
+
+The baron was wondering if this was some strange stress induced fever dream. It felt more plausible than business discussions with an actual dragon.
+
+Pick.
+
+It.
+
+“Yes, yes…”
+
+The baron leaned forward, not daring to meet the malevolent crimson glare of an entity of legend. A dragon! Here! What was happening.
+
+A dragon with a bank?
+
+Should he be more or less terrified? With shaking fingers, the man pulled the scroll open.
+
+It was a deceptively simple contract that gave the dragon the right to open and operate a bank in perpetuity with no tax. It was frankly abusive, but the return was a promise for information that would ‘immediately return the barony to the path of prosperity’.
+
+“I find your offer vague and unconvincing,” the baron said with a shaky voice, but might as well play along.
+
+“How can a single answer turn my loss into a profit? Surely, it will require more investments. That you intend to provide, of course.”
+
+But the dragon shook her head in a gesture that was disturbingly human.
+
+No.
+
+No tricks.
+
+You become rich again.
+
+I lend money to your people, they become richer.
+
+I become richer.
+
+The Crown of Harrak increases its taxable base.
+
+“What?”
+
+That last part does not concern you.
+
+The dragon smiled. Again, the gesture felt disturbingly human, especially when the ‘smile’ was just thin lips pulled over rows of razor-sharp fangs.
+
+The baron wanted to believe the dragon. In fact… he had little choice.
+
+Rich again with a single answer? That might be too good to be true, but the contract went both ways. Although…
+
+“Who would arbitrate if we disagree on the contract?”
+
+The dragon sighed again. Her breath made the temperature increase, and the papers on the baron’s desk threatened to fly.
+
+You can decide if the answer was worth it or not.
+
+I know you will be wise.
+
+Just sign the damn thing.
+
+Do not pretend as if you aren’t desperate.
+
+He hoped he wasn’t making a mistake.
+
+“There, I signed the damn contract. Now speak.”
+
+Your steward’s daughter married the Brewers’ Guild’s Headmaster.
+
+They are stealing from you.
+
+Shamelessly.
+
+All the bills of sale he’s presented to you have been forged.
+
+The baron gasped. Dragon or not, how audacious!
+
+“Ogor has been with my family for thirty years. You have some nerve to…”
+
+But his retort died with the patter of his old mentor’s running feet. The traitor slammed the door shut behind him.
+
+“I can’t believe my eyes.”
+
+Are you going to catch him?
+
+Because he knows where most of the stolen money is.
+
+And he’s a witness.
+
+“I’ve known him all my life!”
+
+Yeeees?
+
+“That piece of shit. I trusted him! Where’s my sword?”
+
+Finally.
+
+Arthur found the ensuing chase hilarious though short-lived. Her contract secure, she flew off to the nearest portal, soon appearing back in Kazar. Rather than returning to the bank, she flew on quick wings to the forest near the Hadal haven. A secluded meadow hid a tiny flower garden nestled against a brook. Arthur landed there and waited.
+
+The woman didn’t show herself, but Arthur felt her all the same.
+
+Hello, Thirteen.
+
+“Did it work?” she whispered.
+
+Yes.
+
+I will leave your reward with your human husband after he returns from the scout meeting.
+
+“Good. I can spy again, if you want.”
+
+And I will reward you again if you do.
+
+For valuable pieces of information.
+
+“Good. I will return to my children now.”
+
+She left.
+
+It’s not insider trading.
+
+As a dragon, I am necessarily an outsider in human affairs.
+
+Satisfied, Arthur flew away with the sun at her back.

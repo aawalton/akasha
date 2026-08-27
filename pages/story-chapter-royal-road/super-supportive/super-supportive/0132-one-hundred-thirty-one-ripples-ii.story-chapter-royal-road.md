@@ -1,0 +1,443 @@
+---
+id: 80d8aa2b-f4b8-501b-99af-0116042f7e6c
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED THIRTY-ONE: Ripples, II"
+slug: 0132-one-hundred-thirty-one-ripples-ii
+partOf: super-supportive
+position: 132
+ownLength: 5471
+unit: words
+publishedAt: 2024-04-04
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1580044/one-hundred-thirty-one-ripples-ii"
+royalRoadId: "1580044"
+---
+
+131********
+
+The bus was less than half full on the way back to campus, so Alden had taken two seats. The lights were off, and he was letting himself sprawl, watching the city pass by as they approached the north shore of F and The Span.
+
+Anesidora is starting to look familiar in a lot of places.
+
+A motorcycle zipped through traffic, its rider accelerating to pass the bus before they reached the long bridge, and a police drone up ahead flared yellow in warning.
+
+But some of it’s still crazy.
+
+Behind him, Haoyu was leaning out of his seat to talk to Kon. “Jeffy’s standing in the parking lot with Reinhard right now," he was saying. "They’ve been looking for the bus.”
+
+Kon turned his head toward the front, where Instructor Klein was sitting in the driver’s seat with his arms crossed over his chest like he was having critical thoughts about the road instead of just monitoring it. There was a touchscreen and a wheel if he needed to take over as the vehicle’s operator. “I feel kind of bad for them, but he did warn us not to be late.”
+
+They were both whispering. Beside Kon, Everly had already fallen asleep. Her head was against the window, pillowed by one of her silver buns, and her mouth was hanging open.
+
+The bus doors had closed at 12:05 AM. Alden was pretty sure Klein had timed their departure down to the second.
+
+“They were having too much fun racing some boys from Reinhard’s old middle school on the slide and lost track of time,” Haoyu said. “Then they accidentally followed signs to the parking garage instead of the lot where the bus was.”
+
+“What a shock,” Lexi murmured.
+
+“Tell them they should try to meet up with Astrid,” said Maricel from a couple of rows in front of him. She was sitting by Tuyet. “She should still be there. She was with us, but she went back in to get a pair of pants she saw in a commercial on the way out the door.”
+
+Alden hadn’t bought anything. He’d tried to find something for Stuart, but he wanted a gift that somehow said, “Thank you for the learning cushion and also good luck with that irrevocable life choice you’re about to make.”
+
+Scented candles and lamps with bugs in them felt way too shallow.
+
+[The Filipino food was great,] Alden texted Maricel. [I’m still stuffed.]
+
+That seemed better than reminding her about the day’s troubles. He assumed she would’ve updated him if she’d heard anything over the past hours.
+
+Near the front of the bus, Marsha was drinking a can of strawberry milk and occasionally bothering Ignacio with questions about his knives. She and Mehdi were the only members of their team who’d stayed to ride the bus back to campus. Even Vandy had left as soon as dinner finished.
+
+Alden thought it was a fifty-fifty split between her being embarrassed about her team’s performance and her being unwilling to compromise her personal schedule and stay out late.
+
+While everyone continued to murmur around him, he started mentally drafting a letter to Kibby. It would make a nice addition to his usual video messages, and taking the time to translate it into logograms for her would be good practice. Plus he didn’t want to fall asleep like Everly.
+
+Having a nightmare on the bus would be unfortunate.
+
+They were coming less often, but the last one had bothered him enough that he was more worried about a repeat than usual.
+
+He’d been on Thegund, wearing his coat, trying to make it to the lab on the first day of the disaster. He’d heard the whistle, and he’d run as fast as he could to the car to get her, only to find she wasn’t there. It was just the bodies of her father and sister.
+
+The sound of the whistle had called to him again from the endless plain, and he’d chased it for what fell like hours, with the tall grass withering around him and turning to dirt as if its death had been put on fast forward. Then the last blades had rotted away and he’d stood there alone.
+
+Just him and the chaos. No more whistling.
+
+And he realized he was going to have to go through the whole thing again, without her. Without another living soul.
+
+“Thank you! I’m going to wear mine on Monday,” Haoyu said.
+
+Alden refocused and realized Njeri was passing around temporary laurel wreath tattoos that she'd bought for their team at the mall in celebration of their victory. He took the small square of paper from her with a thanks.
+
+“They’re supposed to last a week,” she told him. “So make sure you stick it somewhere you like it.”
+
+She went back to her seat, and he smiled at the little circle of dark green leaves for a second before he tucked it into his bag.
+
+Instructor Kivb-ee, he typed on his interface with a thought, I’d like to tell you about the team I worked with this week and what we accomplished together. I’m also including some video of my skill in use, so you can see what I’ve learned…
+
+A minute later, the bus bumped slightly beneath them as they hit the bridge.
+
+Apex, and what would hopefully be a good night’s sleep, were just a few miles away.
+
+******
+
+******
+
+Riley cried out and dropped the lantern she’d been holding aloft. Jacob leaped back.
+
+The girl who had just appeared between them and the door to the cabin waved her arms. “Don’t be afraid! Don’t be afraid of me!”
+
+“Where did you come from?!” Jacob shouted.
+
+She looked strangely familiar to him, though. Her sudden presence was somehow startling and not at the same time in a way that made him feel disoriented.
+
+“I’m sorry! I’m so sorry! Ijustdidn’twanttogetthrownofftheship!” She was still flapping. “But something’s wrong and I can’t open the door and I can’t target the captain anymore and I think something bad is going on and I can’t fix it by myself!”
+
+“Who the hell are you?” Riley demanded. “And what in the name of Boomtown’s Backside are you doing here?”
+
+“Mina,” said the girl, taking a step toward them both. “I’m Mina. But listen to me. It doesn’t matter who I am. The System’s not here. Where did it go? And the door to the cabin is locked. Why aren’t the people inside talking anymore? The blinds on the windows shut themselves all of a sudden. I think that Object Shaper I have trouble controlling did it. Something’s not right. It’s not right at all.”
+
+“You—!” Riley exclaimed.
+
+“Are you listening to me?!” Mina’s voice was so high it was piercing. “The System’s GONE!”
+
+She sounds crazy, thought Jacob. But a moment later, he realized that she wasn’t.
+
+He hadn’t been doing anything with his interface while he listened to Riley talk about Superhumans At Large, but there were supposed to be a couple of surreptitious lights in the corner of his vision that he could gesture toward to call it back up since he hadn’t mastered a mental command. Those lights had disappeared.
+
+He waved his hand in the area they should’ve been in, feeling odd.
+
+This is what everything used to look like.
+
+The last System notification had been the warning.
+
+“Is it just because we crossed the blockade? Is that what happened?" Mina asked in a frantic voice. "Isthatnormal? Doyouknow?”
+
+Riley was staring at the space in front of her own nose with a perturbed expression.
+
+“I was only a little worried when it first went away, but I’ve got a bad feeling now,” Mina said. “Like something’s out there in the water watching over my shoulder. We have to get out of here.”
+
+“Out of here is two miles below the Pacific Ocean,” said Jacob slowly. “So…where did you come from?”
+
+“Are you a Sway?” Riley hissed, stalking toward Mina threateningly. “Are you doing all of this to us? Give me my interface back!”
+
+Mina staggered away from her until she smacked into the wall of the cabin. “ET!” she shouted. “System, ET me! Emergency Teleport. I would like to be teleported immediately! Please! Please!”
+
+Nothing happened; Mina kept babbling.
+
+Jacob realized he was starting to breathe heavily. “I don’t understand why the System is gone," he muttered. "How can it just be gone?”
+
+Nobody had had an answer for Mina, so of course there wasn’t one for him either.
+
+Maybe I should call for an ET, too. Maybe I should. It might still hear me
+
+Riley had frozen in the act of reaching for the terrified girl. Changing her mind, she suddenly spun toward the cabin door. She grabbed the handle and pulled.
+
+Nothing happened. The handle wasn’t even budging; it was like it had been cemented in place.
+
+“Hey!” she called, slapping the door with the palm of her hand. “Hey! Let us in! Captain Adi! Mr. Belasco! Will!”
+
+No reply.
+
+“Jacob, do you have any Wright gear that can open doors or—?”
+
+A huff of laughter escaped from him even though none of this was funny. “I took talents to help me make detector flashlights. I’m useless.”
+
+“You know what?” Riley said. “Fuck this. It's getting uncomfortable. I’m a Brute, and it’s just a door.”
+
+She took a step back, lifted her leg, and kicked the handle hard. There was a popping sound, and the handle flew off.
+
+“Ha!” she said.
+
+But when she threw herself at the door, it still didn’t open.
+
+Pressed to the wall nearby, Mina said, “I told you it’s theObjectShaper! He’sprobablystabilizingthedoorandwindowsfromtheinside—”
+
+Jacob jumped as Riley reached over and slapped the other girl lightly on the cheek.
+
+“Talk like a normal person!” she commanded. “We are members of Superhumans At Large. We aren’t going to panic. This is not a time for us to panic.”
+
+Mina held a hand to her cheek. “I think…I think…”
+
+“Spit it out at a normal speed!” Riley shouted at her.
+
+“I think everyone in there is dead except for that man Will!” Mina yelled back. “I think he killed the captain and the other one! I think he’s trying to kill all of us!”
+
+A brief silence fell in the wake of that pronouncement.
+
+It’s not true, thought Jacob. It’s not going this way. Everything can't just suddenly go wrong for no reason. Can it?
+
+“I am a Sway, okay?” Mina’s lips were trembling now. “But I’ve only been hiding until I could decide if I should reveal myself! I was reaching out to relax everyone some more because I really wanted to take a break and it would’ve been nice if you all went to bed. But then when I tried to target the captain again, I couldn’t. So I tried the robber, and I couldn’t target him either. It’s like they’re…they’re gone. That Will person is still in there, but my relaxation alter does almost nothing to him. I think he’s a high rank. Is he?”
+
+“An A I think,” said Riley, glaring at her. “You nasty little…never mind. He wouldn’t kill the captain. They’re friends. We’re all trying to escape together. And the System is only down because of Matadero. Probably. Maybe it shuts off around the island.”
+
+For a second, her words hung there comfortingly. Jacob wanted to believe them. But…“You just told me the System always warns people over and over until they crash into the real restricted area. It’s not warning us anymore. We only got the first one.”
+
+Mina was wringing the hem of her polka-dotted sweatshirt between her hands.
+
+Riley grabbed a fistful of her own curly hair and stared around them.
+
+“Listen,” she said. “Listen. This is a lot of panic for nothing. Maybe they’re doing something private in there. Probably it’s because they realized we had a stowaway on board, and they’re trying to think of what to do about you.”
+
+She was nodding along with her own guesses. “And if the System isn’t here…well, the Submerger could’ve started interfering with it. It’s powerful magic, right? Everyone keeps saying so. Works in oceans on all kinds of planets! That’s completely wild! Our interfaces will come back again as soon as we reach the surface and shut the device off.
+
+“Or, if that’s not the problem," she continued, "then Matadero’s just...different right now for some reason. Maybe tonight is go night for the big guys, and they’re punching a demon’s lights out. The System might take a break for that?  It’ll come back on when they get finished. Or we’ll just pass out of the blockade zone and find Earth’s Contract waiting for us on the other side.”
+
+“You don’t really believe any of that!” Mina exclaimed.
+
+“You—!” Riley took a deep breath. “Look. I’m happy to help you to freedom even if you are a mind violator. But stop freaking out. We’re fine. Look around. It’s calm. Nothing’s changed for hours.”
+
+She motioned at the darkness.
+
+Jacob was already staring out at it, harder than he had been. As if staring is going to make me see more clearly.
+
+“How would we know?” he asked quietly.
+
+Both girls looked at him.
+
+“What do you mean?” Riley was favoring one foot after her kick to the door.
+
+“How would we know if anything had changed out there?” Jacob could hear his voice tightening with every word. “Do you have any idea how fast we’re going? Or what direction we’re headed in? It’s not like we can feel ourselves moving or hear the water rushing past from in here. How would we tell if someone turned us around or sped us up? We could be shooting toward the patrols on the surface right now. Or toward Anesidora. Or the sea floor.”
+
+He stared into Mina’s pale eyes. “You can’t target the captain? You’re sure you’re not just making a mistake with your powers?”
+
+She nodded. “I learned mental targeting as fast as I could. To impress schools. I was trying to get into hero programs.”
+
+Riley walked toward the boarding platform where she’d been spending so much time leaning back against the magic that protected them. She stepped down onto it, closed her eyes, and leaned again. Her hair drifted up around her.
+
+“What are you doing?” Jacob protested. “Just ignoring the problem won’t—”
+
+“Shut up. I’m focusing. I thought…” Her forehead wrinkled as she concentrated. “I thought it was softer earlier. The magic envelope. There was more of a floaty feeling? I assumed I was just getting used to it, but maybe it really changed. It’s like it’s firmed up.”
+
+“How long ago?” Mina asked.
+
+“Right after we got the message?” Riley opened her eyes. “That was only a few minutes ago. It’s not like we could have gone too far off course in a few minutes.”
+
+“How far is the edge of the blockade from Matadero?” Mina asked. “The timing is… and if he has taken control of the Submerger because he wanted to change our direction, that’s…the cube is the main thing out here. So...so you know...”
+
+Riley swallowed.
+
+Jacob swore. “It doesn’t matter how far anything is from anything, you two! Like I said, we don’t know how fast we’re going. We could be flying toward the place where they kill the demons like a bullet! We have to break into that cabin. Now.” He stared at Riley. “Now.”
+
+For a few seconds, the decision stood there with them like a question. Then she straightened up. “Let’s do it. You—Mina—sway the hell out of Will. I don’t care what you hit him with. Give us an opening! Jacob, you—”
+
+He nodded. His fists clenched.
+
+They ran at the door together.
+
+Here are the things they thought. As they tried. As they realized. That something had gone wrong. That something had ended. That something was about to end.
+
+Riley Lin thought about how when she was a little girl, she’d had a recurring dream about running so fast through the streets of Anesidora that she created a river of wind in her wake. All the litter on the island tumbled through the air after her. And when she stopped at the northern edge of the Apex crescent, it all blew past her and out to sea.
+
+At the end of the dream, she always turned around to see that everyone was astounded by her. Lightning Riley. Cleaning up their home for them every time she went for a jog.
+
+She’d been really young.
+
+Mina Nowak thought about how she’d never been that serious about coming along with these people. It was only a tantrum. A childish misbehavior to prove to herself that she was strong enough and smart enough to misbehave in a major way and not get caught at it.
+
+She hadn’t meant it. She really hadn’t. Deep down, she’d known all along that she would ET back home within a day or two.
+
+Next week, she would be sixteen. Her father had already bought the ingredients for her birthday dinner. She’d seen them in the fridge last night. She couldn’t remember why she hadn’t appreciated them.
+
+Jacob Moore thought about how his mom would wonder why he’d lied to her in the last text message. In so many of them over the past months.
+
+Would she be upset he hadn’t confided in her? Would she wonder if he hadn’t trusted her?
+
+He thought about how his dad had always said the System only chose people who were mentally weak. "If you have a spine," he’d said, "why would it pick you? The Avowed are all desperate for it on some level no matter what they whine about. Damaged. They’ve got a need to be controlled. Why would the Artonans give real power to someone like me who can think for himself?"
+
+A couple of years ago, Jacob had decided those words were crap. He was sure he had forced them out of himself. He was sure they weren’t still inside him, shaping who he was.
+
+Riley thought, I’m going to bust this fucking door down and I’m going to save this fucking ship and I’m going to make it to my friends fighting for our rights. I’m going to do things in this fucking world no matter what my rank is.
+
+Mina thought, Relaxrelaxrelaxrelax. Why won’t the Object Shaper relax? I know it’s not my strongest alter, but it should work. Did I use it too much hiding from them all? Is he really high level? Am I out of magic?
+
+Jacob thought, Not here. Not like this. I don’t know what I want. I’ve never known what I wanted. But I want something different than this.
+
+Riley thought, Kick it harder. More. I’m an Avowed. I’ve got power. Use it all.
+
+Mina thought, If my mind control isn’t working, I’ll punch the door, too. I’ve got stats. He’s only an A. He’s only an A, and he’s trying to close off the whole cabin. There are three of us.
+
+Jacob thought, I’m so glad I couldn’t talk anyone else into coming on this trip with me. They were all right when they told me I was going too far.
+
+There was blood on the door.
+
+Inside the facility the humans called a slaughterhouse—Humorous? Serious? The grivecks would be delighted by the name, but they might take it as an invitation—Esh-erdi was watching the fight below him with both eyes.
+
+He stood on one of the transparent barriers that sealed the top of the containment area. The entity the fighters dealt with now was dangerous enough that Esh would not relax or trade banter with Lind, who stood beside him. But the demon was also simple enough in form and ability that he wouldn’t interfere unless one of the humans needed him.
+
+The two dozen Avowed who'd been chosen approached the battle with one of the methods they had decided on days ago. Six at a time, using their abilities against it in waves. The demon was about the size of the riding terackerin Esh had recently given his nieces. The humans kept shouting “centipede” at it.
+
+The Contract had withdrawn from this one small patch of Earth for now, so Esh and his partner wore translation devices in their ears. The equipment defined the word well enough, but he wasn’t sure why the humans had all named the demon so swiftly and surely based on nothing but its outward appearance. If it shifted its shape, would they start calling it something else? He almost wanted to ask one of the non-combatants who stood on the second barrier above him for an explanation, but his curiosity could wait. Being close to the battle, even as witnesses, was an educational experience for them, too. He should not interfere with their learning.
+
+I wonder how they perceive it?
+
+During his time here, he had heard the ones with some experience describe weak incursives like this to their newer members, but the descriptions still left him uncertain about the depth of their understanding.
+
+Did they have some sense of what this creature was? Did they feel the becoming and unbecoming? The chaos oozed around it as it struggled against them and the richness of this world they lived in.
+
+It had broken through in the spot where such things should break through if they were going to, and it would be gone soon.
+
+The Avowed had been training together. They were dedicated to the task. And the way they used their skills was…workmanlike.
+
+His partner made a pointed noise in the back of her throat. Perhaps his last thought had been gleaned. Or she had anticipated it.
+
+“He is interesting,” she said softly.
+
+She did not indicate the man with a gesture, but he knew which one she meant. The cheerful one who did less damage than most of the others but who did not tire. Avowed Zhang-Demir had a highly self-defensive fighting style, and there was a unity of purpose to the choices he had made for himself since being bound.
+
+His path was simple. Strong. And he was proud of being those things, Esh imagined. Or selfishly hoped.
+
+It was a path that would protect the one who walked it as he followed it so that he lived long enough to see it widen before him.
+
+Now that is truly a hope.
+
+Esh-erdi worried about humans a little more than he wanted to. So many of them. So few Avowed among them.
+
+So similar to us.
+
+What a fearful marvel Earth was.
+
+And what a terrible responsibility.
+
+On the boat, they were screaming—words, profanities, pain. The sounds battered the door in time with their fists and feet; they disappeared without echoes into the magic that held back the weight of the sea.
+
+Fuck this door, thought Riley.
+
+It doesn’t matter if it hurts, thought Jacob. Keep going. Get in there so you can get out of here.
+
+RELAX DAMN YOU, thought Mina, slamming her shoulder into the door, imagining herself reaching out with her mind to scream the words into the face of the man inside.
+
+And then, finally, the door broke open.
+
+They fell through it.
+
+Several miles from Anesidora, aboard a ship that served as a low-security housing facility for Avowed who were best kept away from the larger population for a variety of reasons, a dark-haired man sat alone in a billiards room. He was curled up in a chair, a quilt wrapped around him, and the lights were off save for the one over the large table. A few balls had been left behind on the baize from an unfinished game.
+
+A woman poked her head into the room. “You’re up late, too!” she said. “Do you want to come on a walk around the deck with me?”
+
+He didn’t seem to hear her. His mouth was moving quietly. The word “relax” was the only one loud enough for her to make out.
+
+“Bad night?” the woman said. “You haven’t had one in a while. Do you want some coffee? I don’t make it as well as you.”
+
+She waited for a reply that didn’t come, then said, “I’ll make us both a cup.”
+
+The captain was dead.  Blood from a large head wound saturated the bunk below him. He’d died fast enough that his paperback was still resting on his stomach. As for the thief, his body lay in the kitchenette where blood spray stained the cabinets and a red pool spread out to cover some of the stickers left on the floor.
+
+“Ohnononono.” Mina turned and ran. Her feet pounded the teak deck behind Jacob, then they stopped.
+
+Nowhere to go. Nowhere to hide. It was a small boat.
+
+Jacob's own mind was nearly blank.
+
+Will squatted on the floor beside the Submerger. He was holding the holographic cube sticker he’d picked up earlier in one hand, and with the other, he was pressing the stylus to one of the logograms on the Submerger’s control dial. The metal bead in the tank was sunken still, but it was no longer in the center of the device. Instead it was battering itself against one of the glass walls of its container, like a tiny fish trying to break free of the aquarium that protected it.
+
+“Sorry,” said Will, his eyes looking right through the teens. “You can’t feel it, can you? I can feel it. It’s right there, scratching and scratching at the door. Why does everyone on Earth pretend it isn’t there?”
+
+“Okay,” said Riley, her voice remarkably calm as blood dripped from her hands onto the floor. “Sir. Will. We’re all friends. We all want the same thing. Give me the Submerger. Let’s talk about this.”
+
+He blinked at her for a few seconds, then the stylus that controlled the device lifted into the air and snapped cleanly in two with a tinkling sound. The Shaper didn’t even have to use a gesture to do it.
+
+“No!” Riley shouted, arms lifting as if she wanted to stop what had already happened.
+
+Just outside the cabin door, Mina let out a sob.
+
+“We’re almost there,” Will said, dropping back onto his butt and staring down at the sticker in his hand. “Almost there. Sorry. Sorry about the trip. I changed my mind.”
+
+He picked up something from the floor that Jacob hadn’t noticed because of all the other horrific things there were to notice in the cabin. It was a potion injector, probably taken from the supplies the dead thief had stolen.
+
+Will pressed it to his own neck. He spoke a word in Artonan then slumped to the floor. Unconscious or dead. Did it really matter?
+
+Riley ran over to the Submerger and tried to lift it, but the control dial came with it. “Help me!” she said, fumbling with the broken stylus. “You two! Do something to help me!”
+
+There’s nothing I can do, thought Jacob.
+
+But he found himself dragging his getaway bag out of the corner where he’d stashed it. He reached inside and pulled out one of the few things he’d made as a Wright.
+
+Some components, a spell impression that had to be cast a ridiculous number of times on the lens, a skill that fed it power if the battery ran out—a weak detector flashlight.
+
+Jacob preferred the open complexity of wires, pipes, and circuits. Magically created items functioned in ways he didn’t understand, even if he’d made them himself. So he’d chosen the talents needed to make a magical gadget that might help him inspect nonmagical ones.
+
+Some nonmagical ones anyway. His detector flashlight only worked on objects, and parts of objects, that had been crafted by hand or by spell. It didn’t help at all with mass-produced, machine-made parts.
+
+I doubt the Submerger came from a robotic assembly line.
+
+Jacob held his finger against the switch and pointed the dull red beam at the Submerger. He was surprised his heart could sink further, but it did.
+
+“What is it?” Riley said. “What do you see?”
+
+“Nothing.” The detector was supposed to show you places that were “disordered” on crafted objects. Loose screws, broken enchantments, malfunctions—almost everything had a flaw. They were supposed to turn hot pink under the light. “There’s absolutely nothing.”
+
+And the flashlight was working fine; the snapped stylus was shining brightly. When Jacob swept the beam around the room, he could see all kinds of disorder. Even the thing under the tarp—the thing he was sure was some kind of a Wrightmade bomb—was giving off a small pink glow.
+
+But the Submerger…
+
+“That thing is really well made,” he said. “If it’s got weak points, they’re too small for me to see them. It’ll keep…it’ll keep doing whatever he told it to do. I guess we could try breaking it. But…”
+
+But then we’ll die. If we break it, we die. If he’s set it to crash into Matadero, we die.
+
+“We’ve got powers,” Riley said in a faint voice. “We’ve got powers. There must be something we can do.”
+
+Mina stumbled into the room. She was pressing her hand to the front of her sweatshirt, right over her heart. “He said it would be soon. He said we were almost there. Did that mean a minute? Two? An hour?”
+
+Neither of them answered her.
+
+She stared at Will’s body. “He wouldn’t have knocked himself out would he? If it wasn’t reallyreallysoon.” She took three breaths so fast that the air whistled between her lips, then she smashed her hand over her chest even harder, her fingers sinking into the thick fabric. “Ihopethisistherightthing. Activate Fragile Atmosphere!”
+
+“Oh my god,” said Riley. Her voice was shaking. “This…this is really happening.”
+
+She pressed a hand to her own chest. “Activate…activate Fragile Atmosphere.”
+
+They both looked at Jacob. There was a layer of something like silver glitter covering their skin.
+
+So that’s what it looks like, Jacob thought. It looks like that when you use your once-in-a-lifetime Contract signing bonus.
+
+“Did you…?” Riley asked.
+
+“I took a device identification offering.” Jacob’s voice sounded distant in his own ears. “Everyone said it was so much more useful. For a Wright.”
+
+A gasp from above drew a portion of Esh-erdi’s attention. He glanced up with one eye. The sound had come from the messenger.
+
+Her only function in this place, at this time, was to maintain a mental connection with another Avowed who still stood under the Contract’s shelter. A much surer form of communication in this environment than technology.
+
+“What is it?” he asked.
+
+“A message,” she said in one of the human languages.
+
+A message when no word is expected, he thought while he watched her face and the demon below him at the same time. The news is never good.
+
+“Relax, damn you?” The words didn’t really go with the questioning tone, and swearing--even in a perplexed whisper--sounded odd coming out of Tuyet’s mouth.
+
+Alden looked toward her curiously.
+
+“Tuyet?” Maricel asked.
+
+“Sorry! I’m not talking to you. I just got a message from my brother. The oldest one. He’s a Sway, and he’s not…completely well. He lives on a residential ship. Sometimes he does strange things. He must be having a difficult time right now. Let me text him back.”
+
+The bus was halfway across the bridge. The traffic was surprisingly heavy for the hour, but it was a Friday night.
+
+“If Lute’s in the tub when we get home,” Lexi was saying to Haoyu, “then I think we should—”
+
+An ear-splitting wail filled the air.
+
+Alden was out of his seat in an instant, ready to move without any clue where or why he should move. And he wasn’t the only one. The siren was hideously loud. Everly, startled from her sleep, screamed and shoved Kon away from her like she thought she was under attack.
+
+He staggered sideways a step and didn’t say anything about it. His eyes were fixed on Lexi, who was standing up from his seat, too.
+
+At the front of the bus, Instructor Klein had also risen.
+
+“What’s the siren for?” Kon asked.
+
+<<That’s not the chaos siren is it?>> Ignacio asked from the front of the bus.
+
+“We have a chaos siren?” Alden demanded.
+
+“Nobody lose your heads,” Klein said. “Notices should be coming in any second. Stay calm.”
+
+Notices appeared. Alden’s nerves were suddenly so bad he could barely make sense of the words the System was sending him even though he could read them fine.
+
+[Disaster Alert: Attack on Matadero]
+
+[Disaster Alert: Low Probability of Chaos Exposure]
+
+Nobody had time to say anything about the two shocking “Disaster Alerts” before a third arrived:
+
+[Disaster Alert: Oceanic Anomalies - Imminent
+
+Avoid seawater. Seek high ground. Beware of possible tsunami.]**************

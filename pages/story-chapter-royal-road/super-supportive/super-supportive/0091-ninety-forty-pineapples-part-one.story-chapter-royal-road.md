@@ -1,0 +1,940 @@
+---
+id: f49e6e15-4eee-5bc6-a84f-ae295558026e
+page-type-slug: story-chapter-royal-road
+title: "NINETY: Forty Pineapples, part one"
+slug: 0091-ninety-forty-pineapples-part-one
+partOf: super-supportive
+position: 91
+ownLength: 8136
+unit: words
+publishedAt: 2023-11-08
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1401688/ninety-forty-pineapples-part-one"
+royalRoadId: "1401688"
+---
+
+90
+
+
+“I don’t have to count Lute Velra, right?”
+
+
+It was Friday. Alden was packing a suitcase with all the possessions he’d acquired over the past couple of months, while Boe sat on the bed with a notebook, writing down potential good deed schemes for when he got back home. Over the past forty-eight hours, Alden had gone from panicking about his friend’s new “Hero Type”, to being absolutely furious about it, to… now.
+
+
+Now he felt an inexplicable desire to simultaneously hug and strangle the bastard.
+
+
+Because he was actually serious about them doing this. Boe wasn’t usually whimsical, but Alden had still wanted this to be a whim. If anything, though, he was getting more and more into it, in a completely friendship re-shaping way.
+
+
+It was as if he’d found the answer to a question Alden had never even suspected he was asking. And now he’d been reborn as someone who intended to mimic Alden’s moral lead.
+
+
+It was scary. And at least a little messed up.
+
+
+And Alden thought he might be a little messed up, too. Because the new plan was already working on him like a freaking enchantment.
+
+
+When he finally calmed down enough to oblige Boe by considering what he would really do if they were “partners in heroics, long distance style,” he no longer felt any uncertainty about the boater. Knowing his friend planned to mimic his efforts gave him so much clarity he almost didn’t recognize himself.
+
+
+What did the two of them owe the boater? What should they do to stop Manon? Should they buy spy gear and try to sleuth out her true purposes like the protagonists of a mystery series?
+
+
+The answers were: strongly-worded emails, nothing, and obviously fucking not.
+
+
+So simple. So clear.
+
+
+His guilt and shame level? Nearly ZERO.
+
+
+An adult superhero who was an expert on mind control had already been informed. The boater members should be informed, too. It wasn't completely safe to poke the wasp nest in that way, but it was safe enough he thought. And it was the right thing to do. When he tried to imagine Boe doing more than that—spying, using his powers against Manon, or wading through the swamp of trouble and moral conundrums that would come from publicly decrying one of the most popular Rabbit skills—it sounded baffling.
+
+
+This is nuts, he thought as he tucked his growing collection of lavender sachets from the gym into his bag. My decision-making shouldn’t be this altered just because I’m considering how doing similar things would affect him. I can’t have been holding myself to such a completely different standard than one of the people I care most about.
+
+
+And if I have been…is that damaged?
+
+
+“You told Lute he could be your roommate because you felt sorry for him. That could be considered sticking your neck out for a stranger, given who he is.”
+
+
+“Let that one go.” Alden folded a shirt and tucked it in beside the others. “It was more about me being mad at myself for letting Aulia Velra push me around from the shadows.”
+
+
+“Okay. I can’t figure out a workable equivalent for it anyway.”
+
+
+“I’ll be stopping by Laura’s apartment in person,” Alden said. “Not this weekend but soon. I might try waiting until Manon is off-planet. She posts about getting summoned for jobs on her socials often enough, and the warnings might break through to them better if she's not around.”
+
+
+“Laura?”
+
+
+“That’s the Brute woman who Manon hurt the worst. I decided today in class. She’s the only one who gets a personal visit to go with the message. I’m not even going to step inside her place. I will literally just stand in the hall and tell her face to face that I think she needs to take it seriously.”
+
+
+The emails would be sent through the System at staggered intervals, with the people who Alden thought were least likely to be willingly in cahoots with Manon receiving theirs first and Pineda receiving his last.
+
+
+“Sweet. An in-person action. Should I back one of mine up with an in-person visit, too?”
+
+
+Boe had settled on sending people emails about the criminal or adulterous behavior of their lovers. He’d decided, somewhat regretfully, that it would be quicker than trying to track down a small-time cult leader of his very own.
+
+
+Alden still didn’t quite understand how they’d ended up here, but here they were.
+
+
+“Once again, don’t try to make minute details of your schemes match mine,” he said firmly. “It’s too stressful for me to think through.”
+
+
+“Fair. I’ll use my own judgment about whether someone deserves more from me than an email.”
+
+
+“I’m telling Laura because I’m one hundred percent sure she doesn’t know what’s going on, and because I think it won’t be too dangerous,” Alden explained. “I’ll stay on the phone with some trustworthy local the whole time I’m talking to her. If she doesn’t believe me and she won’t go get help…that’s her problem. I won’t do anything else. The boater gets zilch after this. And I’ll stay out of F-city as much as I can for the next six months.”
+
+
+Boe looked up. “That’s new. What’s your thought with that one?”
+
+
+“Risk mitigation. Manon’s power could, conceivably, be used for elaborate and difficult to avoid vengeance schemes. I don’t think she’d attempt it? But even if she wants to, she and all of her puzzle pieces live here in F. And they actually stopped trying to shake me down for money once when I implied I had friends in Apex. They’re cautious about messing around with high ranks. I’ll be on campus ninety-five percent of the time from now on. I’ll be surrounded by actual superheroes.”
+
+
+“So it’s a win for human decency and minimal risk. I like it.” Boe hummed to himself. “And I’m going to help good people discover that they should choose their romantic partners more wisely. We are making the world a much better place here.”
+
+
+It’s like he’s turned himself into a mirror for me. And whatever I do, I won’t be able to look away from the reflection.
+
+
+Alden thought about that while he collected his shoes from his closet. Turning around with four pairs of them in his arms, he said, “Listen…if we’re really going to try this, and you want me to take it just as seriously as you are, it has to go both ways.”
+
+
+Boe was drawing little broken hearts by the name of one of their eighth grade teachers, who was no doubt a future divorcee. “What?”
+
+
+“If I have to tell you when and how I’m sticking my neck out for strangers, then you have to do the same thing.”
+
+
+Boe blinked at him. “Um…have you met me? I don’t think you’re going to be getting many surprises along those lines.”
+
+
+“Something else then. I want to copy you somehow, too.”
+
+
+Boe pushed up his glasses. “Sorry. This is already an attempt to correct my general scumbaggery. I don’t think I have any other bad habits you can fix by copying me.”
+
+
+You’re not a scumbag just because you don’t help every troubled person you can sense with your powers.
+
+
+Alden didn’t say it, because he knew exactly the look Boe would give him if he did.
+
+
+“Everyone’s got something,” he said instead. “You’re mirroring me. Let me mirror you.”
+
+
+“Like I said, be my guest. But I don’t know how you think it’s going to work.”
+
+
+Alden dropped the shoes onto the bed. It was true. It seemed like almost everything he could think of that worried or bothered him about Boe was a problem Boe was already aware of and planning to deal with—repairing his friendship with Jeremy, un-dropping out of school, getting Alden to learn contract tattoos so he could get his guilty secret intel off his chest.
+
+
+The empathy thing was more complicated. Over the past few days Alden had been trying to detect when Boe was bothered by it, but after that first meeting, he seemed to always be shielding or keeping such a tight grip on himself that Alden couldn’t tell when he wasn’t.
+
+
+He’s really good at hiding things from me. And I can’t hide things from him if he doesn’t want me to. That’s not fair.
+
+
+Oh, that might be…
+
+
+Alden pondered it for a while.
+
+
+“This thing you want to do might be okay for me,” he admitted. “And it seems to be making you happy for now.”
+
+
+“I’m delighted. My genius has outdone itself.” Boe was scribbling on his notebook again.
+
+
+“The whole dynamic relies on me being very honest with you.”
+
+
+“If I read about you taking a bullet for someone in the news before you tell me about it yourself, I’m going to assume you’ve done it a hundred times in secret.”
+
+
+“Don’t bother to assume. I’ll commit to telling you the truth. And also…” He hesitated for just a second. “Also, from now on, you can read my emotions. Whenever you need to. Or even if you just really want to. I would appreciate it if you’d tell me about it when you do it, but you don’t even have to do that much.”
+
+
+Boe’s pen stopped scribbling against the paper. “No. Blanket permission for something like that is way too much for any friendship.”
+
+
+“Is it?” Alden was wearing his auriad around his neck this afternoon, and he ran his fingers along it while he thought through how to say it. “If you seriously tell me it’s the wrong thing, I’ll believe you, and I’ll retract the offer. But I’ve been chewing on it ever since I found out, and if I was an empath, I don’t think I’d be able to stop myself from doing the reader part of it a hundred percent of the time. The skill you have that pushes people—I think I could resist that one. But the reading?”
+
+
+“I haven’t read you at all this week except for the times you already know about!” Boe set aside his notebook. “I swear.”
+
+
+“I’m not accusing you of anything. See, this is why I think it’s best if I do give you blanket permission. If I had that power, and I was afraid you were hurt or scared or lying to me about something important…I hope I’d respect your privacy. But realistically, I would slip up. Probably a lot. It’s way too easy, isn’t it? To do it and to justify it. Sometimes, I bet I’d just be too curious about someone to stop myself.”
+
+
+Boe’s expression was tight.
+
+
+“Right,” said Alden. “So if we both agree that you shouldn’t read me…it’s not going to work. We can pretend you’re perfect. But I’m always going to know that you must screw up sometimes, and I’m going to resent the boundary violation a little even if I try not to. And you’re going to feel like a piece of shit for betraying my trust every time you do it, and that’s just going to make you all…withdrawn and down on yourself. It’ll eventually ruin our friendship.”
+
+
+Boe’s grip tightened on the blanket beneath him. “I won’t let it.”
+
+
+Okay, Alden thought. So this is an actual problem. I was right.
+
+
+“Let’s just take all the work out of it. For both of us. Boe, you can emotion check me whatever amount is right for you. Unless I’ve specifically asked you not to for some reason. And I…will be all right with that.”
+
+
+It would be easier in the long run. Mortifying at times, but knowing he’d agreed to overshare wouldn’t be nearly as bad as feeling like his friend was taking something he hadn’t offered.
+
+
+“Alden, you won’t be all right with that,” Boe said harshly. “How could you be? You’re worried about how unfair it will feel knowing I occasionally slip up? How are you going to feel walking around just assuming you have no emotional privacy from me?”
+
+
+“I was getting to that part. Why don’t you try to make it fair?”
+
+
+“What’s that mean?!”
+
+
+“You can make it fair to me,” Alden repeated.
+
+
+It was nice to be the calm one for a change. He’d been such a dramatic wreck this week, and he finally felt like he was starting to get a handle on himself again.
+
+
+“You want to match me in other ways. So match me in this one, too. You’re the only one who will know for sure what the right amount of give and take is anyway. Balance us out so that it’s not just one-way openness on my part. Don’t worry about the times when it’s a true accident, or when we agree to hang out even though your barrier is exhausted. Just make it so that the reads you do on purpose are fair.”
+
+
+All the color left Boe’s cheeks. “You want me to share my emotions in exchange.”
+
+
+Alden stared at him. “Not magically or anything. I know you said you don’t want to use Skill 2. You can just tell me things about yourself I would know if I were an empath, too.”
+
+
+Why does he look so freaked out? Is he misunderstanding something?
+
+
+“For example, when you inevitably read me at the wrong moment one day and finally realize I am a little too into ultraplush socks now…tell me your own version of that. Or we could agree that I get to ask you how you’re feeling when I want to sometimes, and you have to answer honestly. Easy.”
+
+
+“Just enough to balance out the on-purpose reads,” Boe said faintly. “Easy.”
+
+
+“If you want to cheat, it’s not like I’ll really know. But it would make you a huge dick.”
+
+
+Boe swallowed. “What if me balancing it out in that way just makes your life even harder? How would that be fair to you?”
+
+
+“You mean because I’ll be worried about your mental health or have to deal with knowing that you hate my guts every sixth Wednesday?” Alden asked. “Don’t you have to deal with that kind of thing, too? I don’t know if you’ve noticed, but I’m not a paragon of stability right now. I have nightmares about literal demons. And worse.
+
+
+“To me, ‘fair’ doesn’t mean you pay me back for reading me with nice, happy things that will make me feel good. It means we deal with each other more equally. Good and bad. If it’s mostly bad, then…like you said when you decided on this new plot of yours, ‘Do you think I’m a coward?’ I’ll be fine.”
+
+
+“I don’t think I will be.”
+
+
+“You’ll get used to it.” Alden headed back to his closet. “I’m already getting used to the idea that you’re my own personal copycat hero. It’s almost flattering if I look at it sideways.”
+
+
+Ten minutes later, he was through packing. Boe was gazing down at his notebook with a blank expression on his face. Alden wondered if a request for empathic equality had broken him.
+
+
+At least he’s taking it really seriously I guess.
+
+
+He targeted Boe and poked him in the knee.
+
+
+“Let me show off. Tell me to pick up my suitcase.”
+
+
+Boe looked over at the absolutely massive blue suitcase Alden had ordered from Dragon Rabbit this morning. He shook his head. “Everyone who sees you carrying that is going to think you’re a Brute.”
+
+
+“I know!” Alden said. “I’m so excited.”
+
+
+“Your new skill discovery is decent.”
+
+
+“Give me my command.”
+
+
+“Alden,” Boe said seriously, “take the luggage.”
+
+
+Alden focused. Just the suitcase. Nothing else.
+
+
+He’d been practicing. When he tried to do just the suitcase handle, it wouldn’t work. Yet. But that was only a mind game. He’d get it before long.
+
+
+Preserving the suitcase without the contents, though, had already become relatively easy.
+
+
+He lifted it, and he immediately felt the skill activate. The suitcase was preserved. The clothes, shoes, cat toys, and accumulated junk inside were not. He could feel the weight of them against his authority while he picked the bag up with two fingers and beamed at Boe.
+
+
+“I just know you’re going to carry that with you everywhere with that smug look on your face. Even though it’s got wheels.”
+
+
+“Wheels are for the weak.” Alden swung the suitcase around, almost clipping the bedside table. “I could smash this over somebody’s head. One-handed! I just drop the preservation at the last second so that my magic isn’t holding the weight anymore, and WHAM! So easy.”
+
+
+“Very heroic.”
+
+
+“I know you’re jealous. I don’t have to read your emotions to figure that one out.”
+
+
+“I’m not jealous at all right now,” said Boe. “I’m relieved.”
+
+
+Alden looked over in surprise. “Relieved?”
+
+
+“You’re the kind of person who gets into a lot of trouble. You’ve joined a school that trains you for combat. When I see you swinging around seventy pounds of luggage like it weighs two, I feel relieved.”
+
+
+“Ah!” said Alden. “Emotional transparency. You’re doing it with me. Thank you.”
+
+
+Boe smiled faintly. “Oh, that wasn’t much. I’ll…balance us out. Just give me time to think of how to make it fair. Maybe I’ll have something figured out when you get back from the party with all your new classmates.”
+
+
+Alden set the suitcase down. “Nooo,” he moaned. “I don’t want to go. Let me beat you at pinball again.”
+
+
+“You have to go. You already told the dude who’s throwing it that you would.”
+
+
+“I’m going to stay here. I’ve decided.”
+
+
+ 
+
+
+********
+
+
+ 
+
+
+Boe almost had to shove him out the door to make him attend Konstantin’s party.
+
+
+[I’m going to see those strangers all the time for the next who knows how many years!] he protested from out in the hall, using the text font they had agreed was “the angry one.” [You have to go home tomorrow morning!]
+
+
+[That’s my point! Don’t snub the popular guy who’s the brother of your new roommate and be the only one in your acceptance group who doesn’t hang out with everyone else on top of being the B-rank Rabbit!]
+
+
+[Wizard Rabbit!]
+
+
+[Pull yourself out of a hat if you want, but you still have to go. I curse you for making me the one who’s insisting on socialization. It’s wrong.]
+
+
+[You’re the empath. You’re supposed to love people.]
+
+
+[What kind of a cartoon-colored idea is that? People are needy, selfish, insecure, filthy-minded little feelers. Go party with them.]
+
+
+Alden sighed. [Fine. I’ll drink a mocktail for you.]
+
+
+He started down the hall. The leftover Halloween decorations were still littering most of the doors. For some reason, the air smelled like sparklers.
+
+
+[Hey, do Anesidoran teens pretend to get drunk on their mocktails?] Boe asked.
+
+
+[Probably. That’s probably exactly what you’re signing me up for.]
+
+
+The mental texting had gone from being pretty easy, to being completely natural over the past few days. Alden was starting to feel like he had telepathy.
+
+
+He kept an eye out for Maricel as he headed through the building, hoping to spot her. He’d seen her a couple of times on campus, usually with Tuyet or Vandy. The Dart Meister and the Sky Shaper were going to be her roommates, and she seemed to get along with both of them despite their three very different personalities.
+
+
+That’s going to be a lot of S-ranks in one room.
+
+
+When he didn’t catch her in the lobby, he headed out on his own. He stopped at a fancy corner grocery not too far from intake.
+
+
+[What are good mocktail ingredients?] he asked as he wandered down the aisles, staring at jars of olives and candied fruit.
+
+
+[How should I know? Do you think I’ve ever had a mocktail in my life?]
+
+
+[I’m supposed to bring something. I like pineapples. How many pineapples would I have to bring for a party, though?]
+
+
+[I dare you to use your new trick to carry forty pineapples.]
+
+
+[I’d try it, but I’m sure it would make everyone hate me on the train.]
+
+
+He ended up buying a bunch of differently flavored sodas. The store had a self-checkout. Alden took the NesiCard Boe had entrusted him with a few minutes ago from his pocket, pulled the enchantment off the metal disc with a finger, and used the card to cover what he was doing while he held just the enchantment itself toward the card scanner.
+
+
+He dropped the preservation.
+
+
+The screen showed that he’d paid for the drinks, and the enchantment, separated from its home, burned out for the last time.
+
+
+Not the most practical thing he’d ever done, but it was interesting to know that he could finger-pay for things with that type of enchantment at least once. He figured the info might apply more broadly to other kinds of enchantments and magical scanners. And he’d get another card when he took Victor and Boe to the Teleportation Complex tomorrow.
+
+
+[You’re still my target,] he texted. [Tell me to pick up the bag full of drinks right in front of me.]
+
+
+[We’ve tried that twenty different times. It won’t work from this far away.]
+
+
+[It feels like it should, though. If you can do it by text from a couple of floors away why not a couple of blocks?]
+
+
+[Pick up the bag full of drinks in front of you,] Boe said.
+
+
+Alden did. The skill didn’t activate.
+
+
+He prodded around at the Bearer of All Burdens. What gives? What’s the difference in me being this far away when the entrustment is given? Why are you being picky?
+
+
+“Alden?”
+
+
+He looked up to see Maricel just entering the shop. After having her ponytail chopped off for the sake of the combat assessment, she had gotten her hair repaired into a pixie cut. It looked nice enough to Alden’s untrained eye, but he couldn’t tell if she loved it or hated it. It was usually on full display at school, but whenever he spotted her in the dorms, she had her hoodie pulled up to cover it.
+
+
+“Hey, Maricel! I was looking for you just a minute ago. Are you buying ingredients, too?”
+
+
+She nodded and headed toward one of the freezers in the back. “This place has calamansi juice.”
+
+
+After she paid for her juice, they headed for the nearest station and traveled toward Kon’s home on the northwestern edge of F-city.
+
+
+“I expected to see you around more,” Maricel said half an hour later as they followed the directions on their interfaces toward a place called Nilama Marina. “Are you hanging out with your new roommates a lot?”
+
+
+Alden hadn’t even seen Lexi or Haoyu this week. “I have a class with one of them. Sorry for being a recluse. I’ve just been enjoying the last few days of peace and quiet in intake.”
+
+
+And by peace and quiet I mean shocking revelations and negotiations with my friend the criminal.
+
+
+“That’s probably a good idea.” She looked curiously at a man in a turban who was casting a spell over the keyboard of a street piano. “Maybe I should have taken it easier, too, but I wanted everything to be better with my new roommates than with my old ones. By the way, I think you should expect people to ask you some questions tonight.”
+
+
+Alden frowned. “Why?”
+
+
+“Because Vandy and Tuyet ask me questions about you. And neither one of them ever gossips about anyone else.”
+
+
+“Uh…right. I appreciate the warning.”
+
+
+[I hate you,] he texted Boe.
+
+
+[What did I do?]
+
+
+“They don’t say anything bad about you. They just seem very curious,” Maricel added. “They don’t want to date you, though. I asked. So that’s not why they’re interested.”
+
+
+“You asked them if they wanted to date me?” Alden gaped down at her. “Why would they want to date me? We don’t even know each other!”
+
+
+She smiled at him. “I asked in a teasing way when they wouldn’t shut up about you. It wasn’t strange. I was checking for you.”
+
+
+He felt alarmed. But I guess she’s helping?
+
+
+“Thank you,” he said uncertainly. “…do they want to know about me because of my rank or my class or—”
+
+
+“It’s all the other things. I think word is spreading around. I haven’t talked about you. And Tuyet probably wouldn’t share rumors with just anyone, but I think she does tell her sisters and brother everything. She seems really close to them.”
+
+
+They turned onto a narrower street where attempts had been made to transform identical, shoebox-shaped buildings into something more cheerful with pastel paint colors and lines of tall palm trees that must have been regularly maintained by someone’s magic given how inappropriate the climate here was for them.
+
+
+“It’s fine,” Alden said as they passed a tattoo parlor where a girl around their own age was hanging a string of marigolds over the door. “Anyone from intake could be talking about me. Or the faculty could have said something where people could overhear. And I wouldn’t be surprised if Max was running background checks on us all.”
+
+
+“Why would you think that, Alden?” a male voice asked.
+
+
+Alden whirled, his bag of drinks swinging wildly. Maricel shrieked. She dropped her own bag of juice onto the pavement, her hand flew out, and a ball of dirt shot from one of her pockets toward the tall boy who had just spoken. He was standing so close behind them that he had to have been deliberately masking his footsteps for them not to have noticed his presence.
+
+
+He threw an arm up in front of him at the last second, and Maricel’s dirt ball smashed into him. Hard.
+
+
+Max’s fist flew back into his own nose. He slapped his other hand to his face and swore in a muffled voice.
+
+
+It was all over in a couple of seconds, and the three of them stood there staring at each other in horror.
+
+
+<<I’m so sorry!>> Maricel shouted, her eyes huge. <<You scared me, and I —>>
+
+
+“It’s fine. I’m fine.” Max pulled his hand away, and a little blood dribbled down his face.
+
+
+Maricel yelped and started patting her hoodie pockets like she was searching for a tissue. But instead she just pulled out another handful of dirt and looked at it with a blank expression.
+
+
+“Max…hi there. You’re bleeding,” Alden said finally.
+
+
+Max's lips compressed. “I noticed.”
+
+
+“I’m sorry I was talking about you behind your back. Saying that you were background checking all of us was not meant as an insult. I was just noting that you are a thorough person. In a positive way.”
+
+
+He hoped that sounded convincing.
+
+
+“Sure.” Max’s voice was flat.
+
+
+Alden narrowed his eyes. “You were literally sneaking up on us and eavesdropping just now.”
+
+
+“I thought it would be funny. And now my nose is broken.”
+
+
+“Is it really?!” Maricel gasped. “I’m so—”
+
+
+Max waved at her with his not-bloody hand and felt at the bridge of his nose. “I’m kidding. It doesn’t feel broken. I just wasn’t expecting your reaction to be an attack. With your powers. I thought you’d yell and then laugh like a normal person.” He arched an eyebrow at her. “I will not surprise you in the future.”
+
+
+Alden noted that he wasn’t excluded from that.
+
+
+“Really though…” Max pressed a knuckle to his bloody nostril as he tipped his chin to look down at Maricel. “You do understand you can’t do things like this? Not here. I know you’re probably not used to Anesidora, but you’re an S. And this isn’t Apex. We’re a few hundred meters from one of the family zones. If we were standing over there—”
+
+
+He pointed in the direction they were headed. “—instead of here, you’d be caught on a dozen cameras, and whoever’s on call for this area would land on you like the wrath of God. I don’t think they’re going to arrest you for a first offense with a little dirt baseball. But they will definitely fine you, ban you from safe zones for a while, and put your name on a list that shows up in all the local news.”
+
+
+Maricel’s eyes were still fixed on him. Her expression had frozen on her face.
+
+
+Alden looked back toward the family zone. There was an advisement on his interface that they were approaching one—a tiny glowing house symbol in the section he’d assigned for local pop-up warnings. But it was so easy to get used to those things and ignore them. Especially since there wasn’t much risk of him using his own skill offensively as a knee-jerk reaction.
+
+
+He could free his auriad and hit something with his square punch spell, but he wasn’t worried that he was going to do it accidentally.
+
+
+That’s a good thing. I’d hate to be afraid of my own magic.
+
+
+“I’m not trying to scare you,” Max was saying. “I’m just pointing out that you have to get used to extremes in this place. Avowed like playing with our powers, and this is home, so we let ourselves be really irresponsible with them in some settings. And then in others, like when you’re out in public in the family neighborhoods, it’s the opposite. You have to have a Don’t Zap It mode.”
+
+
+“That tattoo parlor probably has something that will help with your nose. And there’s a clothes shop a couple of blocks back according to the area map,” Alden said. “Do you want me to run in and get you a new shirt?”
+
+
+He didn’t know what else to do to make the situation less uncomfortable.
+
+
+Max glanced at the pale green button-down he was wearing. “Wonderful. Blood and dirt.”
+
+
+“It’ll only take me a minute,” said Alden.
+
+
+“I’ll pay!” Maricel said immediately.
+
+
+“No. Let’s just walk quickly. If we get to Kon’s place in time he can fix this,” Max said, setting off with long strides. “And he seems like a person who likes to show off his talent. I would, too, if I had that one. One of the most useful powers I’ve ever heard of.”
+
+
+Alden walked beside him, and Maricel hurried to catch up.
+
+
+“I heard some people saying at the meet and greet that they were worried he wouldn’t get into the program because of it,” Max said. “Idiots.”
+
+
+“He was actually a little worried about that himself.”
+
+
+Alden thought conversation was a good plan. It made it feel less like they were a trio made up of an eavesdropper, a gossiper, and an attacker who had all just run afoul of each other on the sidewalk.
+
+
+Max rolled his eyes. “I’m afraid sometimes that wanting to become a professional superhero might be something you’re not supposed to do if you have even the tiniest speck of common sense. Konstantin Roberts is the most employable member of our entire admissions group. He’s probably going to be one of the most employable people in all of Celena North. He would have had to bite an instructor for them not to take him.”
+
+
+He threw both hands out in front of him and made a series of gestures. A pair of matching copper-colored bracelets peeked out from beneath his sleeves. Alden thought they looked more like equipment of some kind than jewelry.
+
+
+“Speed increase in around five steps. It feels like a moving walkway. Don’t stop or fall down,” said Max.
+
+
+Without pausing for breath, he continued, “Even if we ignore the investigative potential of Kon’s object reading and just focus on the spell impression…does nobody else realize how much damage Avowed do to everything around us when we fight each other? In some places and situations, it’s fine. Because it’s what people really want—superhuman battle theater they can feel good about watching. But that’s if you’re fighting in a scrapyard or an empty park. When you start devastating property the fine citizens of Earth actually care about, you subject yourself and whoever’s paying you to a lot more negative judgment.”
+
+
+Alden was trying to keep track of Max’s speech, but he was a little distracted by his anticipation of the upcoming magical effect. Suddenly, his foot hit a spot in the sidewalk that felt less solid than concrete. His stride took him three paces farther forward than it should have. Looking down made him feel dizzy, so he jerked his eyes up.
+
+
+Behind him, Maricel made a startled noise. Max was casting again.
+
+
+“If Kon gets a spell that lets him repair larger objects, or if he can significantly extend his time window, he’ll be able to clean up after other heroes. And both of those things seem possible based on how Adjuster usually works. He’s an S, so even if he gets no offensive spells he should be able to take care of himself on the edges of a fight. Ideally, everyone will get to see someone wreckingball through a town, and then they’ll get to watch it magically put itself back together again. Nobody will be inconvenienced, and insurance companies will send Kon so many gift baskets he’s going to have to shovel his way through them every morning to greet his fans. Which he’ll have legions of even if he isn’t a combat specialist. Because in addition to having been Systemically blessed, he’s going to be a natural on camera. Three or four steps until the speed zone ends. Then eight until the next one.”
+
+
+“I don’t think battle theater is what most people want from their superheroes,” Alden protested.
+
+
+Neither Max nor Maricel responded.
+
+
+As they stepped out of the second speed zone, Max finally looked over at him. “I understand why you might feel that way. I think it depends on whether or not they’re actually scared of criminals with superhuman abilities. And how they regard Avowed in general. But for a large percentage of people…a superhero is just a pretty, likeable character who uses fun magic powers to beat up a nasty, unlikeable character. It’s no more serious to them than that.”
+
+
+“What do you even want to be in this program for then?”
+
+
+Max didn’t answer until they’d reached the end of the palm tree-lined street. They headed toward a seaside apartment tower with a giant lettered sign—currently unlit—at the top, and he shoved his way through the revolving door.
+
+
+“Just because most people think like that doesn’t mean I do,” he said, glancing around the red-tiled lobby then beelining for the elevator bank. As the car played a theremin-heavy soundtrack and zipped up to the seventh floor, he added, “Also, Maricel’s right.”
+
+
+“About what?” Maricel asked.
+
+
+“People have gotten curious about you, Alden. I’m surprised you haven’t noticed if you’ve been in class this week.”
+
+
+“It’s been a busy week. And I don’t have academic classes with anyone from our group except for big lectures. Not a lot of opportunity for chatting.”
+
+
+Intro to Other Worlds and Preparatory Sciences were the only classes where he ever spoke to anyone, and then it was only Maricel and Finlay, who were both nice enough not to pry at sensitive subjects.
+
+
+“We’ll all be seeing a lot more of each other starting Monday. Gym class. Should be delightful.”
+
+
+“What exactly is the gossip about me?” Alden didn’t want to ask Max, but he did want to know. And he felt sure that Max would know.
+
+
+The Adjuster smiled as the gold metal doors of the elevator opened. “Only the things anyone on Earth would find if they did a background check. And by that, I mean typing your name into a computer.”
+
+
+Wonderful.
+
+
+[You’re a bad friend,] he texted Boe. [You sent me out to deal with these people all by myself.]
+
+
+[You live with those people now.]
+
+
+[That’s a mistake. I admit it. I’ve made a big mistake. Teach me how to enter catspace.]
+
+
+[No.]
+
+
+ 
+
+
+*******
+
+
+ 
+
+
+Alden had been to a “my parents aren’t home” style high school party before. Once. He’d drifted miserably through someone else’s house, wondering if he’d entered an alternate reality where all of the people he saw at school behaving normally every day had committed themselves to pretending they were movie-teen stereotypes.
+
+
+He was expecting the same thing from this one, with a possible side order of nosey questions based on Max and Maricel’s warnings. So he braced as the door to the apartment opened, and he promised himself he only had to stay for a single hour.
+
+
+“Hey! You guys are early, too!” Kon said exuberantly. “That’s great!”
+
+
+He was wearing his Celena North uniform and a bright yellow paper cone hat of the type that usually only made an appearance at birthdays. He stood aside and gestured them into a spacious apartment. Around twenty people, many of whom Alden recognized from the admissions meet and greet, were sprawled on furniture, sleeping bags, and pillows arranged in front of a projection screen that was showing the end of a Chinese martial arts film.
+
+
+This looks different than I was expecting. In a positive way.
+
+
+“Everybody, we have Alden, Max, and Maricel!” he shouted.
+
+
+“The globies are showing up!” a boy wearing what appeared to be the uniform for one of the local middle schools cried. His shirt was covered in signatures.
+
+
+Like a yearbook page maybe? Alden guessed. That would make sense. For the locals who hadn’t opted to go ahead and start classes at CNH this week, today would have been their last day at their old schools.
+
+
+“My mother’s Anesidoran,” Max said.
+
+
+“Oh boring.”
+
+
+A few other people waved and shouted hi.
+
+
+“You’re a little bloody.” Kon stared at Max. “What happened?”
+
+
+“I fell on my face in some dirt. It was around four minutes ago. Can you fix my—”
+
+
+“Yeah! Sure! I’m the king of stain removal. Four minutes is nearly my limit, though, so let’s heal your shirt right away. Maricel, Alden, you two can go in the kitchen and set your stuff down. Make yourself a drink. There’s a bunch of baklava. More snacks are being delivered. Grab a hat!”
+
+
+He took Max by the elbow and steered him down a hall.
+
+
+The kitchen was full of a large and very random assortment of drink supplies. Astrid—the spiky-haired Morph Brute Kon and Alden had “rescued” during the heroes vs. villains game—and a short girl with cornrows were giggling and throwing some of everything into a blender together.
+
+
+<<What did you bring?>> the shorter girl asked, pouring almond extract into the pitcher and looking at their shopping bags eagerly.
+
+
+“Oh my god!” said Astrid, pointing at Alden. “America! Have you ever seen a moose?!”
+
+
+Her tongue wasn’t obviously pierced anymore, but her eyebrow was.
+
+
+Is moving her piercing around shapeshifting practice? He set his sodas down on a mint green counter and tried to figure out why he was being asked about moose.
+
+
+“Not in a zoo or something,” Astrid clarified, throwing a handful of cocktail onions in the general direction of the blender. “A real moose. In the wilderness.”
+
+
+“I have not,” Alden said slowly.
+
+
+“Damn it!”
+
+
+“Why…?”
+
+
+“All of us taking Normie Studies—”
+
+
+The other girl cleared her throat.
+
+
+“Fine. Non-Avowed Experiences and Cultures. We’re doing homework bingo, and for one of the squares, I need to interview someone about fearful things they’ve encountered in nature. And I saw this program about moose attacks once, and I really want to interview someone who’s seen a moose.”
+
+
+“I’m Rebecca,” the other girl said. She made a flicking gesture beside her ear, and a name tag appeared. She was an A-rank Brute. Instead of calling herself by one of the subclass names Alden was familiar with, she’d listed “jumper” as her specialty. He didn’t know what that meant in terms of her real powers. “I’m in the same class. Have you ever been in a forest fire?”
+
+
+Alden and Maricel both shook their heads.
+
+
+“Forget bingo then!” Astrid cried. “Bring an offering for the blender.”
+
+
+Rebecca was throwing a spoonful of espresso powder on top of the onions.
+
+
+“You’re not going to drink that, are you?” Maricel’s face twisted as she studied the blender’s contents.
+
+
+“Everyone will! It’s for a game later. It will bind us to each other forever.”
+
+
+“Until we die of food poisoning,” Rebecca said.
+
+
+“It was my idea,” said Astrid. “Or maybe Mehdi’s. I’m not sure. We got a little stupid on the way over from school earlier and the blender of binding was born. When a couple dozen more people show up with their offerings, this may have enough ingredients to qualify as a real wizard potion.”
+
+
+“Is our whole admissions group coming?” Alden asked.
+
+
+“Kon invited everyone. Plus around forty others.” She shrugged. “Realistically, almost none of the people who failed to get in will come. It’s too soon, you know? Need time to lick their wounds.”
+
+
+“It’s a good thing, too,” said Kon, breezing into the kitchen with a cleaner-looking Max behind him.
+
+
+Kon’s new roommate, Mehdi, was sipping something that looked like coffee out of a martini glass and bringing up the rear.
+
+
+“Eighty people would definitely break building rules. Our neighbors are cool, but not that cool. I booked the roof just in case, but the weather’s going to be miserable tonight. Have you seen the swells out there?”
+
+
+He nodded toward one of the large oval windows that looked out over the marina and the ocean beyond. The sinking sun was only occasionally visible through cracks in the clouds, and the water looked almost storm-tossed.
+
+
+“Your brother’s going to drown.” Mehdi was speaking to Kon but examining Max. Then he turned dark eyes on Alden, scanning him from head to toe.
+
+
+Is he judging my outfit or something? If he was, Alden was sure his jeans and sweater combo was found lacking. Kon’s new roommate was wearing a knee-length black coat with a stylized lion’s head painted on the back in bronze.
+
+
+“I know,” Kon was saying. “He’s crazy.”
+
+
+“Did he go swimming?” Max was fixing himself some complicated drink that involved a lighter and an orange peel. “I know people do, but—”
+
+
+“No, the water temperature is about six degrees today, isn’t it? And he’s not quite that crazy. He’s just out in his boat with Haoyu.”
+
+
+“He’s got a boat?” Alden asked.
+
+
+“A little one. Our parents got it for him for his birthday.”
+
+
+“Shit Sixteen present,” Mehdi said, raising his glass.
+
+
+The other Anesidorans all nodded.
+
+
+Maricel looked around at them all. “A boat sounds like an expensive gift to me, though?”
+
+
+Kon turned to her, blinking. “It was! I guess this is completely an island thing…I hadn’t thought of that. But when you start to age out of the usual selection window for the rank everyone thought you were going to have, sometimes your family suddenly gets too generous with the gift giving.”
+
+
+“It’s usually a Shit Seventeen,” Mehdi added. “But when your younger brother gets selected as an S before you get selected at all…”
+
+
+Kon threw his head back and groaned. “I didn’t even tell them for a whole week! I knew he was going to be so upset. And that he might kill me. I was hoping the System would take pity on us both.”
+
+
+“Wooow…you are stronger than me,” said Astrid. “I woke half the neighborhood up at the crack of dawn when I got my A. I woke up my dog to tell her.”
+
+
+Kon smiled at Maricel. “Anyway, Lexi was really hoping for A or S. We’ve both known we wanted to go the hero school route for years. And you have to have the rank for that…unless you’re Alden and Max here.”
+
+
+Max was throwing a sugar cube into his glass. Alden had just opened a lemon soda.
+
+
+“We weren’t panicking for him yet, but we were definitely starting to have more awkward dinner conversations where Mom and Dad were conspicuously saying positive things about the lifestyles of D’s and F’s.”
+
+
+“Gotta lower those expectations all the way down once you start lowering them.” Mehdi pointed at the floor. “My aunt and uncle did it wrong with one of my cousins. They went level by level, prolonging the torture every few months. He affixed as an F. Outlier at almost nineteen. And he was completely depressed and done with our whole family by then.”
+
+
+Kon winced. “Yeah. I finally had to come out about it. You can’t just wait when it’s S. It’s so hard to trade, and I really wanted Adjuster. Because we’re the best.”
+
+
+“Hey!” said half the people in the room.
+
+
+“I speak only the truth,” he said. “Anyway, Maricel, when I told my family, it was about ten weeks after Lexi’s sixteenth birthday. And suddenly, in addition to shelling out a ton of money to help me top off the trade for the class, they found enough for a boat. I don’t think he even wanted a boat at the time, but he uses it a lot.”
+
+
+“So your brother got a boat and a high rank in the end,” said Astrid. She saluted the ocean with a half-peeled banana. “Now that’s the way to do it!”
+
+
+“He felt bad about it when when he got selected a couple of months after me. They’d just finished paying for my trade, and his boat, and then they had to help him get Meister, too. He offered to sell the boat, but they didn’t want to admit it was a ‘We’d given up on you’ present, so they wouldn’t let him. The fact that they had this Artona II tour lined up was a huge relief.”
+
+
+“Trades were so rough this year,” said Rebecca, her lips turning down. “I wanted a ranged weapon Meister, but I couldn’t trade into it, and my parents couldn’t afford to offer enough money on top.”
+
+
+“You’re going to kill it as a Brute, though,” said Astrid. “We’re awesome, too.”
+
+
+“Yeah, according to the surveys Brute actually has a higher satisfaction rate than Meister or Adjuster. So, in the long run, you guys will probably be better off than any of us,” said Kon. “Except maybe Alden.”
+
+
+Alden had been standing off to the side with his soda, wondering just how much Anesidoran parents had to save up to arrange to make their children’s dream classes a reality. “Why me?”
+
+
+“Rabbit’s right below Healer for class satisfaction,” Kon informed him. “I know that’s probably a self-selection result considering how hard it is to nab a rare, but it’s still interesting to note. You are, mostly, a happy class.”
+
+
+I can believe that. “Rabbit intake is fun from what I’ve seen. Compared to the other groups.”
+
+
+Mehdi had set down his martini and was making micro-adjustments to his hair using his reflection on the fridge handle. “I know in my heart that you intakers are partying every day. Three full months of no school. All that nice stuff. I tried to sneak in with friends a couple of times last year, but they have guard ninjas to keep us out.”
+
+
+“They’re just security people in dark clothes, man,” said Kon.
+
+
+“Ninja-like security people.”
+
+
+“They don’t want us bothering the new citizens,” said Rebecca.
+
+
+“They don’t want us to enjoy our youth!” said Mehdi. “All those globies with new powers, nothing but free time, and no parents nagging them like they’re still children. Some of them come out of that place pregnant. It’s obviously a fu—”
+
+
+Astrid threw a bottle of black currant syrup at his back, and he spun and snatched it out of the air. It shattered with an explosive tinkle. Maricel shouted. Alden covered his face half a second too late.
+
+
+Fortunately, he just got a splattered instead of cut.
+
+
+“Fuck, you two! Come on!” said Kon, leaping back from the spreading puddle. “Fucking glass?”
+
+
+“Oops.” Astrid’s eyebrow ring fell off her face and hit the floor. She really must have been maintaining the piercing to practice her morphing. “That was my bad. I knew he could catch it, but I threw it harder than I meant to. ”
+
+
+“…it might have been my fault, too,” said Mehdi shaking syrup from his fingers. “I haven’t got grip strength down when I’m surprised. I’ve been breaking things at home a lot. My hand’s not cut, though. So we didn’t overdo it too much!”
+
+
+People were running into the kitchen to see what the noise was.
+
+
+“All right!” the Meister who'd shot Alden with a lot of arrows during their duel last weekend shouted. “Party’s really starting up now!”
+
+
+He fist-bumped the boy in the autographed shirt.
+
+
+Max stood there, absolutely dripping with dark purple liquid. The expression on his face was louder than any sigh could have been. If you stumble upon this tale on Amazon, it's taken without the author's consent. Report it.
+
+ 
+
+ 
+
+
+*

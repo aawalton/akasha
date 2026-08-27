@@ -1,0 +1,191 @@
+---
+id: 67ac5335-7526-52ae-b413-25d5ca55b25e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 352 : Growing"
+slug: 0053-chapter-352-growing
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 53
+ownLength: 2211
+unit: words
+ownProgress: 2211
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3073305/chapter-352-growing"
+royalRoadId: "3073305"
+markedReadAt: "2026-06-29T19:43:33.625Z"
+---
+
+I continued feeding the sapling with Mana, which was actually a considerable amount, all things considered. I had thought this would be a relatively simple job, but perhaps, due to the sheer complexity of the plant involved, it required far more than usual.
+
+More is good, though; it should give more experience, right?
+
+[Nature Magic] was very weird to me, as it sort of flew in the face of everything I had learnt prior. I'd seen a few different spells of it cast over time, from various monsters, elves, and, of course, plantoids.
+
+I don't think I could just make a "Natureball" or any of my previous spells, really. It almost feels like the odd one out in terms of [Elemental Magic]. I can only assume nobody wanted to make mud magic.
+
+To my relief, after a few minutes of uninterrupted [Grow] casting, I received my first level up.
+
+<Proficiency gained. [Nature Magic LV 1] improved to [Nature Magic LV 2].>
+
+<[Nature Magic LV 2] spell [Overgrowth] learned.>
+
+Oh! This is exciting.
+
+I quickly recognized the spell as this was what a few monsters had used against me in the past. This turned any ordinary plant into dangerous roots, vines, brambles, and so on. It even gave you temporary control over them while the spell was in action, which I thought was pretty cool.
+
+However, I instantly noticed three drawbacks with this new spell. Firstly, it strictly needed some form of plant matter to exist, and you couldn't get around this. Yes, it could be a few blades of grass, but Mana apparation was not an option. The other issue was that anything you used [Overgrowth] on would die shortly after, and the final issue was that it could only be used on mundane plants.
+
+The last one makes sense. Imagine fighting a treant or plantoid and then casting this to kill it.
+
+I naturally cast the spell a few times, targeting some grass, roots, and even moss that was nearby. I could make it surge into various momentary attack forms, which was relatively useful. I imagined this was the closest thing [Nature Magic] had to a resource generator spell, for now at least.
+
+If I could remove the drawback, that would be a plus. Should I use [Skill Deconstruct] on it?
+
+I was tempted, especially at this low level, but the stunning lack of information I'd received from deconstructing [Magma Magic] still left me feeling bitter. I shrugged it off and continued supplying the sapling while throwing [Overgrowth] spells around to gain extra proficiency.
+
+Since I had a network of [Sub-Cores] around the island, I had plenty of variety of plants to play around with. I figured I'd likely get a first-time bonus with each addition, so I sought out as many different plants as I could. To do this, I left my main body casting [Grow] while I changed my perspective to my various cores around the island.
+
+I tried it out on mushrooms, trees, shrubs, and even fruit. The last one was quite a surprise, turning the fruit into a sort of juice bomb. While I found the result funny, I decided to hide it from Vee, as I had no doubt she would be enraged by it.
+
+When I'd finished playing around with [Overgrowth], I came back to my sapling, to find it had already grown to around the size of a teenager. While I was happy with what I'd managed in only a morning, I was a little surprised at how it had slowed down from earlier.
+
+Does it need more water? More brown slime?
+
+I wasn't sure, so I gave it both, making sure to provide the soil with a nice bath in the enriching slime. After that, I continued casting [Grow], and from my observations, the roots below spread even further.
+
+Okay, magic alone isn't enough. I need to keep feeding it as we go along.
+
+I borrowed [Nature Commune] and tried talking to the tree. I sensed something there, but I got the impression it was still dormant, at least for now.
+
+I took some time to watch Vee at work. I swapped to Beta's perspective and saw that Vee was doing some landscaping. The ground was being tilled with [Earth Magic], and it looked like the start of a dedicated plantation.
+
+"Oh. Master has joined us," Sylbera suddenly said.
+
+"Hey, Syl, are you spying on us?" Vee asked with a giggle.
+
+This damn spider asked Beta to inform her if I swapped over. I don't know whether to be offended or praise her for the clever idea…
+
+"No, just curious what you were up to," I replied with telepathy.
+
+"I'm having Sylbera smooth out the land a bit. Hopefully, we can have a bit of a farm going on. I definitely want an orchard at the very least!" Vee said excitedly.
+
+"Perhaps some livestock, too?" Sylbera suggested.
+
+"That's a great idea, Sylbera!" Vee praised. "We can have our own homegrown foods and everything."
+
+Wait… Beta is offering ideas?
+
+I was a little shocked at this unexpected development. Was [Roleplay] actually capable of this? I'd always projected a little on my cores, but this was beyond my expectations.
+
+Should I have more cores running around the island? I can even have Vee do the creating for me, since she did such a good job with Sylbera so far…
+
+Again, I was tempted, but I decided to hold back for now. I wanted to observe Sylbera for a little longer and see if there were any side effects to having a [Sub-Core] keep [Roleplay] active for extended periods of time.
+
+Also, I don't really have the cores to spare right now. Unless I want to do some more purchasing…
+
+I looked at my trait points and mentally shook my head. Ten points were already reserved for uncapping [Core Collective] as soon as possible, so I couldn't afford it at the moment.
+
+"Well, let me know once you've planted stuff. I need to cast [Grow] a lot more times," I said.
+
+"Will do," Vee replied.
+
+I said my goodbyes and left them to continue their work, returning my attention to the sapling.
+
+Oh, Pi is back.
+
+I crushed the [Sub-Core] again. Unfortunately, there wasn't a level-up this time, so I just stored away the precious pink slime shards.
+
+For the rest of the day, while I babysat the sapling, I tried seeing if I could weave anything with [Nature Magic]. I had so many different spell components and concepts that I felt like there must be something I could do.
+
+I tinkered the hours away and did manage to make a few discoveries by the end of the day. We were also attacked a few times by more mermen stragglers who had come for me, but as soon as they set foot on the island, they were promptly taken out by the [Sub-Cores] I'd stationed.
+
+As for my spell weaving, many of my concepts weren't appropriate, and the most effective ones I found were anything that manipulated the area or targets. For example, my very first success was creating a widescale version of [Grow], which would make Vee's farming idea a breeze in the future.
+
+[Chaos Elements] did come into play as I was able to combine a few oddities, like producing burning vines with [Overgrowth], although as a result, the plant died even faster than normal.
+
+All was not lost, though, as my effort eventually paid off and I was rewarded with the next level of [Nature Magic], which awarded me the spell [Seedrend]. The spell allowed you to sacrifice a willing plant and turn it into a varying amount of seeds, spores, or otherwise.
+
+So this is the true resource generator for [Nature Magic]...
+
+The amount of seeds you got varied with the plant's health and condition, but could be offset by expending exponentially more Mana. The more complex the plant, the more Mana was required, so I could see a dying super rare plant emptying even my reserves if I pushed it too far.
+
+As for the "willing" part, that seemed to only be automatically true for anything that wasn't magical. I had no issue creating seeds from anything I set my eyes on.
+
+I imagine the permission is for things like plantoids… Can you create treant seeds? This branch of magic gets stranger and stranger.
+
+I had to admit I was a little disappointed when I first saw it, as I was hoping to get the spell that would let me make the little plant helpers that I'd seen Trixie use. However, when I told Vee about my new spell, she was positively delighted.
+
+"This solves almost every problem with creating our farm and orchard!" Vee enthusiastically declared. "I can hand you a fruit or veggie, and you can convert it into seeds for us."
+
+"Sure. I need to gain as much proficiency experience as I can. I'm not having much luck creating spells…" I admitted.
+
+"Have you already made a plant debuff?" Vee suggested.
+
+I waved a tendril dismissively. "I tried. Remember, [Nature Magic] is supposed to be the opposite of [Corrosion Magic] according to the guild and elves."
+
+"Not to mention that it sounds preposterous," Leon chimed in. "Have you ever heard of something being weak to a plant?"
+
+"Hey, there are allergies and stuff," Vee pointed out.
+
+Leon snorted. "I cannot imagine that warrants taking additional damage from plants."
+
+"There's not much damage to begin with," I sighed. "Other than slapping something with vines, or trying to crush them, there's not much offensively."
+
+"What about what that elf girl did in the duel?" Vee asked.
+
+I paused for a moment to recollect my memories of that evening. "Do you mean grafting?"
+
+"Yeah, that," Vee confirmed. "You could mix rare plants together. Although I guess that still isn't directly damaging. Plus, you can't make plant minions yet."
+
+"Nope… Although the idea is worth exploring. I do have the profile for plant horrors stored away."
+
+"Just don't turn my crops into mutants or anything like that," Vee chuckled.
+
+"The more I hear from you two, the less I understand what is going on," Leon lamented.
+
+"What's the issue? Syl ate a plant monster, and now she can turn into it," Vee explained.
+
+"Why? How!?" Leon demanded.
+
+"My first evolution was the Mimic Slime mutation, and that lets me turn into other creatures," I answered.
+
+"Yeah. It's pretty straightforward," Vee agreed.
+
+"That's a load of tosh," Leon grumbled.
+
+"Your own abilities make just as much sense, Mister Leon," Sylbera said. "How else do you describe your ability to fuse materials into your shell?"
+
+"What? It's far more believable than magic-shape-changing slime. My modifications are at least somewhat similar to alloying metals," Leon said defensively.
+
+"Which you somehow can grow and shape into other parts?" Sylbera continued.
+
+"Ooooh! She's got you there," Vee chimed in.
+
+"That's… Err… Bollocks," Leon sighed and seemingly gave up.
+
+Vee was cackling with laughter, with Sylbera looking pretty amused. Meanwhile, I was staring in fascination at what I'd just witnessed. Once again, I was blown away by how lifelike Beta had become and couldn't help but wonder where this would lead.
+
+Is this… Pride?
+
+<Proficiency gained. [Roleplay LV 7] improved to [Roleplay LV 8].>
+
+Wait, another level already?
+
+I knew it had accumulated a lot of proficiency from the time I handed over control of Sylvain to Alpha, but still, this seemed far sooner than I expected. At the same time, I couldn't help but wonder what would happen if I uncapped [Roleplay].
+
+No… I don't really have the skill points to afford that. Especially since I'll likely get a whole new set of skills when I finally swap to Riftmancer.
+
+We continued to chat for a bit, with me focusing a bit of attention on Leon. I asked whether he had made any progress with the resources I'd dumped on him or whether he'd investigated the yellow slime core.
+
+He seemed pretty surprised to be the sudden focus of attention and explained that he would need to build something around the core to utilize it. As for the materials, he'd started integrating some of them into his shell and was in the process of refining it.
+
+"It'll take a bit more time, but I should be able to craft some defenses in a few days," Leon explained.
+
+Bringing him into the conversation also had a surprisingly good effect, as he started offering his own little suggestions for our island. Vee explained that the tree would be our primary residence, and we could either build something inside it or around it.
+
+At the same time, the island's perimeter needed protection, and Leon offered to build outposts along the coast. While they weren't as defensible as his occupied fortress, they could function together if he upgraded the appropriate skills.
+
+He even explained some of his unique abilities, such as [Watchtower], which let him scan for something within the range of a fortress or outpost. He claimed that not only could it find hidden enemies, but also locate resources.
+
+All of it sounded juicy, and collectively, we all seemed to be imagining how this island would look in the future.
+
+We've all got some big plans in the works…

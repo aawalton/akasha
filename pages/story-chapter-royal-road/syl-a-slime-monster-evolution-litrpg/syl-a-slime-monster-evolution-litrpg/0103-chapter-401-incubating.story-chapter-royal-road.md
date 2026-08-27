@@ -1,0 +1,151 @@
+---
+id: 83bb25fa-b188-5fc1-b246-00d91f0c4c7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 401 : Incubating"
+slug: 0103-chapter-401-incubating
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 103
+ownLength: 2200
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3656131/chapter-401-incubating"
+royalRoadId: "3656131"
+---
+
+Despite what I said, I didn't just suddenly leave; I spent a bit of time hashing out a few details. One of which was bringing Sylthaeryn over to talk over some of the details with the elves, and I gave her permission to store herself and be withdrawn via Sylvester when she was ready.
+
+Abusing our shared storage space to "teleport" was far better than actual [Dimension Magic] and flawless, as not even Keldenar could sense when I was accessing it. From his perspective, it was like I suddenly spawned an extra core or slime, and while he guessed I had some kind of storage trait, he had no idea about the particulars.
+
+His [Eyes of Truth] had apparently become less reliable when used on me or my personas; he could still see most of my skills, but many of my traits had started to be censored—even ones he had previously looked at. I could only assume Gramps wasn't happy about someone snooping around his work. I, for one, was grateful for the privacy, as it felt a little too revealing, in my opinion.
+
+Keldenar had tried to give me the labyrinth location through [Mapping], but we ran into a hitch: he couldn't seem to pass it along. I predicted that I would need to cast [Map] to actually interface with his information, but a small part of me felt like I shouldn't reveal my rudimentary system magic just yet.
+
+To alleviate this, he pulled out a small, handheld-sized golem and fed it a skill crystal with [Mapping] and the location before handing it over to me. With it as my guide, I could easily find the labyrinth and begin my hunt for a black slime, as well as start the process of unlocking my secondary class slot.
+
+"I'm not going to ask questions to avoid angering whatever god is censoring you, but I also added the location to your adventurer tag," Keldenar explained.
+
+"I forgot it could do that…" I murmured, touching it.
+
+"They can do a lot more. When you officially beat three labyrinths, I should be able to promote you to diamond rank. Trust me, nothing we can make at the moment comes even close to these beauties," he said and showed off his own necklace.
+
+I nodded in agreement, wondering if I could access the location through my spell. Sylvester also had a hint of greed in his gaze as he stared at it, as he still hadn't completed his work on combining [Identify] with [Rune Reading], which might be exactly what we needed.
+
+"Hopefully, I can get my enchanter class back soon. I might not be able to progress my research much without the benefits," Sylvester sighed.
+
+Keldenar gave him a reassuring pat on the shoulder. "Don't worry, it shouldn't be too bad. We can put our heads together. I definitely want you to take a look at some of my attempts at dimensional enchanting."
+
+Sylvester didn't have [Dimensional Magic], and I briefly considered donating him a level in the skill until I realized it would set me back quite a bit. I still needed to browse all my gains, but seeing the skill so close to level seven and whatever the next spell was made me not want to lose the progress.
+
+Get it to level seven, get the new spell, use [Skill Deconstruct], level it up again manually to level one, donate it?
+
+It sounded good in my head, as what I was really after was inevitably reaching [Dimensional Praxis], assuming it existed. There were probably a few other dimensional skills I would need to deconstruct before that was possible.
+
+I just hope I don't need to dismantle [Personal Rift]...
+
+While I didn't give Sylvester the skill for free, I did transfer over all of my current knowledge of [Dimensional Magic] and the spell blueprints. With that, even if he couldn't cast the spells, he should be able to work with enchantments, and since he was me, he still had the affinity regardless of his current class.
+
+Before departing, I gave Sylvester a few words on what he was allowed to share with our prospective ally. I gave him permission to use his own judgment on a "fair trade" as I figured he wouldn't go against our own interests. He was allowed to create various slime fluids, including rare metal alloys, where I only put a restriction on pink core shards. I still had far too many of them from when I was destroying Pi over and over, but it felt like that was a kingdom-level disaster waiting to happen.
+
+Plus, those are the future rewards for my dungeon!
+
+That was another thing I forbade Sylvester from revealing: my pending status as a [Dungeon Master]. Keldenar didn't even casually mention it, which probably meant his [Eyes of Truth] failed to decipher it.
+
+Likewise, Vee, Leon, and our island were also temporarily forbidden. I wanted Vee and Keldenar to eventually meet, but she lacked the numerous backup lives that I did. If something were to happen to Vee in particular, I'd never forgive myself, and thus I felt it was better to keep her safe and sound.
+
+Maybe if the elves agree to an alliance with Keld, then I know he won't even think of risking our relationship.
+
+Everything ended up taking a day, so I rested and finally departed early in the morning. With Sylvester and eventually Sylthaeryn handling the diplomacy, I was sure that things would work out just fine without me.
+
+And this way I get to do the fun stuff. Nope, I'm totally not shirking my responsibility, this is called delegation!
+
+Once I left the border of Keld, I sprouted wings, having already revealed my shapeshifting abilities, and took flight. The handheld golem acted like a compass, always pointing its hand towards the dungeon. Other than that, it had no other abilities that I could tell, and if I was worried about it potentially spying on me, I could throw it into my [Personal Rift], where it would be in a state of stasis.
+
+Although Keldenar did admit that he has a range limit on seeing directly through golems. I don't think he would lie about that, as we can assume Sylvester will eventually gain the skill himself.
+
+The way the golems he sold worked was that he would designate the new owner as the master. The golem would follow their orders, much as I gave my own [Sub-Cores] their commands, though with far more limitations. Keldenar did admit that he had a way to upgrade golem cores to increase their range, functionality, and so forth, but this tiny golem certainly lacked such a complex core.
+
+Now with nothing but the sky before me, I took the time to digest all my gains from our fight. It had been a long time since I benefited from [Apex Hunter], and I had high hopes this would be a big cashout. First up was my traits, which I was quite excited about.
+
+<Traits:
+
+[Core Collective LV 12]
+
+[Chimeric Mimicry LV 9]
+
+[Core Storage LV 8]
+
+[Soul Vision LV 8]
+
+[Slime Mastery LV 13]
+
+[Mana Reinforcement LV 9]>
+
+There were some big upgrades here, and I was pleasantly surprised to see both [Slime Mastery] and [Core Storage] in here. I'd already noticed [Core Collective], but it was still probably the crowning achievement, along with [Chimeric Mimicry].
+
+I had been hoping for [Soul Mastery] or [Mana Circulation] to reach max level, but sadly, that didn't happen. [Primordial Slime] and my [Sub-Cores] also didn't gain a level, but the latter was inevitable, while the former would probably upgrade once I ate a black slime core.
+
+Alright, now onto skills… Wow, there's quite a bit here…
+
+<Skills:
+
+[Personal Rift LV 5]
+
+[Folded Geometry LV 5]
+
+[Spatial Severing LV 3]
+
+[Attack Mastery (Greater) LV 4]
+
+[Affliction Mastery LV 8]
+
+[Exploit Weakness LV 7]
+
+[Magical Subterfuge LV 6]
+
+[Magic Efficiency LV MAX]
+
+[Split Personality LV 6]
+
+[Elemental Praxis LV 6]
+
+[Corrosion Magic LV 7].>
+
+I can't believe [Split Personality] is already level six… It's honestly a little frightening how fast it's leveling up. What will happen if I uncap it?
+
+I actually shuddered a little. The skill was undoubtedly one of my strongest, but I couldn't shake the risk it entailed. I still retained ultimate authority as the primary slime core, and as long as I didn't resort to indulging in another personality myself, I should be fine… In theory.
+
+Let's forget about that for now and move on to happy things.
+
+Many skills that had remained relatively dormant finally saw some level-ups. I didn't actively seek to train them; I just allowed them to passively work on their own during battle, such as [Affliction Mastery], [Exploit Weakness], [Attack Mastery], and [Magical Subterfuge].
+
+Seeing [Magic Efficiency] reaching max level was a bit of a surprise, although I knew it was inevitable. If anything, I was more disappointed that [Mana Weaving] hadn't joined it and was still at level nine. My gut told me it was on the verge of max level, and I just needed one big discovery in either system magic or dimensional magic to push it over the edge.
+
+And then… [Mana Dominion]? Let's hope.
+
+Even though [Magic Efficiency] was maxed out and ripe for being uncapped, I decided against it, at least until I did another big earning for skill points. Yes, I was sitting on twenty-seven points, but I wanted to keep them all for upgrading [Mana Weaving]. Deducing would be painful, especially if I needed more than one attempt, but I felt like I needed that upgrade.
+
+There's also [Identity Fabrication] and [Companion Training], both one step away from max, which might be worth uncapping... Not to mention there's no way I haven't been beaten to influence the uncapped direction for [Magic Efficiency], which probably just makes spells even cheaper. Cheap spells are literally the last thing on my mind!
+
+I was still disappointed that [Dimension Magic] hadn't reached level seven, considering everything that had happened, but to my surprise, not only did I gain a level in [Elemental Praxis], bringing it very close to finally reaching a new height, but also [Corrosion Magic].
+
+It must have been all the debuff spreading. I did go a little overboard. I wonder if it is a decent way to level eight? Let's see what the new spell is.
+
+I excitedly pulled up the information and found my brand new spell waiting to be examined: [Incubating Blight]. I spent some time digesting the information on it and couldn't help but marvel at what an interesting little spell construct this was.
+
+Can I add this concept to other spells?
+
+As its name implied, this spell would incubate in a target, being virtually undetectable until it was triggered. It appeared to deal that rot-type damage, which was highly effective against living creatures, meaning I didn't need to feel bad about not using it against the golem army. On its own, that didn't seem too impressive, as you normally wanted to deal with enemies right away, but for enemies that fled, or for laying traps, it sounded ideal.
+
+Can I spread the incubated spell with [Contagion]? If so, then what about spreading an incubated [Frostbite]? Also, would this trigger [Trap Mastery]? Should I take it apart and try adding it manually to the spell?
+
+I was tempted, but quickly shook it away. I still had to recreate [Identify], and this shiny new toy was trying to seduce me. Still, at the very least, I was going to see if I could take this "incubation" aspect and if it applied to other spells. Even if I couldn't infect a target, even allowing it to stage itself at a location before detonating was quite useful, and [Nitro Slime] had taught me the joy of setting up a good bomb.
+
+Imagine a teleport trap, or maybe even a [Rift Rend]? That would certainly help against people dodging it. Heck, I could even make [Fireballs] that act like proximity bombs, couldn't I?
+
+Seeing how one new spell could result in several new ideas, I was a little disappointed I didn't just randomly throw around other spells. [Healing Magic] and [Light Magic] were prime examples, and then there was [Arcane Magic], which I had long forgotten about.
+
+Maybe I should make another personality to work on those. Even if I don't get the spells myself, I'd get access to their blueprints from our shared knowledge pool. Just like how Sylvester discovered [Permafrost], speaking of which…
+
+I copied his spell construct for [Permafrost] and cast it a few times, receiving a prompt for its early discovery and bonus experience. Sadly, that wasn't enough to bump [Elemental Praxis] to level seven. Still, I wasn't going to be picky, as I had expected the early discovery bonus to already be claimed by Sylvester.
+
+This really makes me think my idea of having other personalities do discoveries for me might be worthwhile… Although I'd better add the quirk that they aren't allowed to chide me for neglecting the work. I get enough of a tongue-lashing from Vee, I don't need my own [Split Personalities] verbally attacking me too…

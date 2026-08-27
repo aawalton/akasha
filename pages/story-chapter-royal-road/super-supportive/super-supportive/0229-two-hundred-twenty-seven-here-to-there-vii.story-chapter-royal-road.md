@@ -1,0 +1,175 @@
+---
+id: 23779766-f6b9-5d3a-8b35-8b6f4028ab8b
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-SEVEN: Here-to-There VII"
+slug: 0229-two-hundred-twenty-seven-here-to-there-vii
+partOf: super-supportive
+position: 229
+ownLength: 1865
+unit: words
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2399442/two-hundred-twenty-seven-here-to-there-vii"
+royalRoadId: "2399442"
+---
+
+227
+
+******
+
+Moving hundreds of people was easier with magic involved, but it was still a process with its share of mishaps.
+
+“How could you not notice the syrup was leaking? There’s a stream of it going all the way back to the train!”
+
+“I forgot my bag.”
+
+“Hold still. I’m trying to count you all, but I only have two eyes…where’s your brother?”
+
+“She forgot her egg collection!”
+
+“Where’s my right sandal? Has anyone seen a sandal?”
+
+“Ojoo fell on the steps. He was busy complaining about the rooflines.”
+
+“Ojoo!”
+
+“Don’t worry. The Avowed caught him.”
+
+And so it went. What had started as an orderly unloading of people and luggage turned into Alden running back and forth across the station so many times that it started to be funny. There was always one more errand, and sometimes on the way to complete it, he needed to stop a man with firm opinions about roofing from tumbling down the stairs.
+
+Surely this is the final trip.
+
+After several minutes of searching, he’d found a child’s missing bag beneath a table at the stall that held the used tablets. He straightened with the satchel and looked around the station for any stragglers. It was an open space, and Leeter-zis’s paint made it easy to identify participants in the Here-to-There. But Alden spotted no coral marks on the faces he could see, and among the backs turned toward him, there was only one that he recognized.
+
+What’s she doing here?
+
+Ryada-bess’s sage-colored knight uniform made her stand out. So did her hair, which had followed its own ambitions and begun to escape and frizz around her head.
+
+Alden jogged toward her to see if she needed help. She was standing on one of the poems embedded in the floor. The pale beige words were a sharp contrast to the dark brown that surrounded them, and with some help from his flashcard translation, he could read them as he approached. A line about an animal called a t’tchispa caught his eye, but Ryada’s gaze was turned upward while she watched the stories playing out high above them. The swirling sand painted images of a trio of wizards who were making a spring bubble up from the ground.
+
+He stopped just before he reached her, realizing something.
+
+Ryada was alone. She was more alone than he’d seen her since they left Rapport I this morning, perfectly positioned for someone to have a quiet word with her.
+
+Their departure had been delayed so many times already. A few more minutes wouldn’t matter if someone did want to have that quiet word. Happy to have identified this opportunity before he ruined it, he reversed course and headed for one of the exits.
+
+[Stuart, Ryada’s the last person left in the station. She’s distracted by the ceiling.] In case that wasn’t a clear enough suggestion, he added, [Maybe Emban should come and tell her that it’s time to go.]
+
+Was it odd to be so hopeful for the sakes of a girl who’d flown paper flyers with him and another who’d shown him the tattoo she’d gotten with the squadmates she’d faced chaos with?
+
+Those weren’t deep connections. If he disappeared right now, back to Earth never to return, he doubted either of them would think of him again unless they happened to run across a basket full of bananas.
+
+I’d wonder about how they were doing a lot more often.
+
+When he studied his spell book, every time he heard about a successful demon slaughter at Matadero, after his next affixation…
+
+As he left the station, he looked around until he found Stuart standing below one of the golden flags that decorated the haulers. The vehicles had been provided by a wizard who’d met them when the train first arrived and welcomed all of the ordinary class members. It had been a warm ceremony but much briefer than the one that had set them off on their travels this morning.
+
+Stuart saw Alden at the same time and lifted a hand.
+
+I guess he’d make it hard for them all to forget me right away. If nothing else, there was a ryeh-b’t flapping around the siblinghold with Alden’s name. So the other members of the art’h family would have to think of him a little, even if they were just thinking how relieved they were that he’d stopped being a confusing interloper.
+
+Alden delivered the satchel to its owner, and made his way back to Stuart slowly, trying to give everyone who saw him one last chance to say, “Oh dear! I can’t find my…”
+
+But nobody did.
+
+The sun was about to dip behind the irregular swoops of the white rooftops lining the street. Alden imagined they must look like tumbled piles of pillows from above. All around, people had stepped onto second and third floor balconies to watch what was happening with the Here-to-There.
+
+It wasn’t much longer before the cheering and cries of welcome from those watchers told Alden that they were finally underway again. He’d joined Stuart and Bithe, and they were soon walking at the back of a procession that felt more like Alden’s original vision of an Earth-style parade than everything else they’d done today.
+
+Many people had started singing. Stuart was rattling off a list of everything they had to do to houses and worrying that some of the wizards here didn’t know how to turn the blessing liquid he’d brought into a home-filling mist.
+
+“I practiced that spell. It’s very traditional! Why didn’t everyone else learn it?”
+
+And Bithe had his own concerns. “I think he wants Uro-bor to plead on his behalf to his mother for the second wand to be promised to him. It’s extremely inappropriate for him to make the gift a source of guilt for her.”
+
+“If I do a few extra houses myself…” Stuart muttered. “They can’t possibly plan to splash it on the floor!”
+
+“All of the bors take the honor so seriously. They’re going to put the wand above their family stone. Where are Emban and Ryada? I can’t see them ahead.”
+
+Alden didn’t know if Bithe and Stuart were comfortably carrying on parallel conversations by splitting their attention, or if they were just talking to themselves with no expectation of input from each other. But Stuart did hear that last question. He looked back toward the station’s front steps and then whispered an answer in Bithe’s ear, before adding, “Alden saw that she’d been left behind and thought Emban might want to have her chance.”
+
+Alden gave him a thumbs up.
+
+Stuart knew that gesture now and returned it eagerly.
+
+“So…it’s now,” Bithe said slowly after he turned his own gaze away from the station. “That’s…this is good. Emban has to ask. She’s been holding the request for too long to do nothing. And Ryada will say the right words to make everything as sweet as can be wished for after the sour has been bitten.”
+
+“What does that mean?” Stuart asked before Alden had finished unpacking the flowery language. “Do you know her answer already? The sour…is she going to refuse?”
+
+His hands rose to grip the wooden beads on one of the enchanted necklaces he was wearing. “But you’ve encouraged Emban for so long. Why would—?”
+
+“I found out what Ryada’s answer would be yesterday,” Bithe said. “And it’s not yes or no. She’s…just decided she’s not ready to deepen with anyone. If she was, it would be Emban, but she’s not.”
+
+Bithe was whispering so quietly that Stuart’s small, alarmed noise was loud by comparison.
+
+“Why isn’t she ready?!”
+
+“It’s not…you’ve got no reason to be upset, Stu-art’h. It’s between the two of them, and—”
+
+“Emban’s been gathering courage for so long!”
+
+“—and Ryada will say it better than I have. They know each other well. Don’t worry. We will not worry.”
+
+“Will we not?” Stuart asked worriedly. “I worry you have handled this badly! You should have warned Emban.”
+
+Bithe blew air out of his nose like a bull. “If I’ve handled it badly, you only prove my point that Ryada should handle it.”
+
+Stuart closed his mouth.
+
+Alden’s opened like it had a mind of its own. “I’m worried,” it blurted for him. “I don’t want either of them to be disappointed.”
+
+Bithe looked like he might be thinking of burning a moth to death.
+
+“Sorry.”
+
+They walked a little farther before the knight replied. “I don’t want either of them to be disappointed either. They are like family to me. You don’t even know them. I’m not sure you even know what we’re talking about, though your <<sentiment>> is well meant.”
+
+“Alden is going to be my—”
+
+“Lifelong friend. I heard your introduction of him this morning. And you’re going to ignore every voice raised against you to be one of…” Bithe shook his head. “How did I end up back here arguing with you two? It will all be fine, Stu-ar’th. Alden Ryeh-b’t. Think about misting spells. And home. We’re supposed to be thinking about home…that assignment could have been easier…”
+
+He left, grumbling to himself, and they stared after him.
+
+Lifelong friend.
+
+“He’s bossy suddenly,” said Stuart. “Home is easy. Misting a dozen homes when I’m only one person is not. And Emban…”
+
+He twisted the beads on the necklace a few times then dropped them. “We can’t do anything else to help Emban. We must hope it goes well even if it’s not what we expected.”
+
+There was a young girl with a blue pet ryeh-b’t watching from a balcony to their left. The animal stood on the railing, spreading its wings. Over the snapping of the flags, the calls of locals and newcomers exchanging phrases rose loud:
+
+“Where have you come from?”
+
+“Where do you go?”
+
+“There are houses here where no hearthfires have burned for many nights.”
+
+“We have brought wood. Maybe those houses are for us. Maybe the fires will burn again.”
+
+“Actually, home can be difficult,” said Alden. His eyes skimmed over Olget-ovekondo, whose own eyes were watching Bithe join the bor family on their hauler. “As soon as Leeter-zis told me to think of it, my thoughts emptied. Except for a couple of things that I don’t…they probably aren’t right for his spell.”
+
+A house in Nashville, helping his mother wrap small gifts for children who visited the House of Healing in Chicago, Boe coming over one night when Connie was out—memories of places that he didn’t have anymore.
+
+Stuart didn’t reply for a while, and Alden assumed he was back to figuring out all the details of the move-ins. But when he looked that way, Stuart was still focused on him.
+
+“I saw Leeter-zis’s plans,” he said. “You can’t do it wrong. Anything you think will be fine.”
+
+“That’s a relief,” Alden answered. “He folded in my Earthliness.”
+
+******
+
+******
+
+I left but did not know I left myself behind.
+
+Like a t’tchispa after its shedding,
+
+I don’t know how to live in new skin.
+
+I press my soft belly to once-familiar stones, asking,
+
+“Why do these not fit me?
+
+How far must I run
+
+to find myself again?”

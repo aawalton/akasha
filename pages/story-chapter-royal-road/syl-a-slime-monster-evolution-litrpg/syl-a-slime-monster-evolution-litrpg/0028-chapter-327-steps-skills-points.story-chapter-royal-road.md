@@ -1,0 +1,151 @@
+---
+id: a2529e64-0d62-5400-a813-ab83acdb2098
+page-type-slug: story-chapter-royal-road
+title: "Chapter 327 : Steps, Skills, Points"
+slug: 0028-chapter-327-steps-skills-points
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 28
+ownLength: 2167
+unit: words
+ownProgress: 2167
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2860715/chapter-327-steps-skills-points"
+royalRoadId: "2860715"
+markedReadAt: "2026-06-29T19:42:44.350Z"
+---
+
+After I obtained the skill, I had information flooding into my mind on how to activate it and what it could do. I was already intimately familiar with everything [Wind Step] could do, and I felt like I was on the verge of creating [Wave Step], but the other two came as quite a surprise—especially [Terra Step].
+
+I had initially written off the earth movement ability as probably not being anything too outstanding. Still, I was immediately proven wrong, and it could even be the best of the bunch depending on how you looked at it.
+
+[Terra Step] would let you move through the earth, as long as your final destination ended up with you being fully emerged. I could imagine the consequences of not adhering to this warning could prove particularly hazardous, if not fatal, as both [Blink] and [Thunder Step] had proven.
+
+I thought being inside an object and being shunted out was bad, but being buried alive sounds horrible! Well… if I wasn't a slime that is.
+
+[Wave Step] was very much in line with what I had assumed initially with it, as it would let you glide through the water unimpeded and even walk on water for a time after its usage. I'd never seen a skill with this sort of lingering effect before, so I was pretty intrigued by it. If used on dry land, it wasn't as impressive and would cause your lower body to be engulfed in a wave that carried you in the direction of your choosing.
+
+[Ignition Step] was just like I had pictured, a fiery explosion that propelled you in a direction. What I didn't know, however, was that it also had a subsequent explosion upon your arrival.
+
+I guess that's where [Thunder Step] gets its explosive personality from.
+
+Despite my earlier protests, I was happy with this pickup and eager to complete the remaining three spells before using [Skill Deconstruct] on it. However, I was still troubled by my recent purchase…
+
+<Skill Points remaining: 9.>
+
+My skill points aren't going up…
+
+I knew I would need ten skill points to uncap something, but now with [Skill Deconstruct], I was encouraged to buy and take apart skills to further advance my knowledge. I'd bought [Warp] and immediately taken it apart, and although I was delaying it slightly, I had bought [Elemental Step (Basic)] for the same reason.
+
+There was the rare chance I could acquire skill points from [Apex Hunter], but it had been ages since I'd last done so. My "total combined level," a term Vee and I had agreed upon, was now so high that even creatures stronger than me were unlikely to trigger it.
+
+For example, a level one hundred dragon would probably be stronger than me due to its focused levels, while I was more spread out. Yet, in the eyes of the system, I would be declared the superior of us. It certainly didn't help that I had my profession class levels bloating my total.
+
+I wonder if there are other ways to earn skill points… Or maybe if I use [Skill Deconstruct] on an uncapped skill, I won't need to worry about that anymore?
+
+One of my companion skills was likely to be the first to reach ten, as they had quickly outpaced every other skill I had. I had thought [Dissection] would be my first, and I had even had some foolish hope it would secretly be some secretly hidden skill once uncapped.
+
+I wonder if I can get Vee to pay half for uncapping a companion skill?
+
+From what I could gather, Vee probably had quite a collection of skill points, and since she wasn't as spread out as I was, she didn't have my issues. Although this had its own issue, as she kept wanting to waste them to immediately level up something, despite my warnings.
+
+I could go back to a basic class for a bit… maybe something like scout or warrior?
+
+Vee's abundance of points had come from her swapping between low-tier classes early on. I had warned her from going to intermediate and advanced classes too early, and she'd taken that to heart. Even though Lisa, the [Guild Master] of the Kaerlin Adventurers Guild, had warned me that finally moving on to a higher-tier class had a permanent detriment for gaining levels, it might still be an option for me.
+
+Gramps did say my soul was special, though. Trixie called me an old soul… so maybe I can get away with leveling up more classes than I need to?
+
+My biggest issue with gaining levels at the moment was Elementalist being such a high level, and it was another reason I was pretty eager to pick up Riftmancer. I assumed it would be an advanced class, so it wouldn't be too fast, but there was a big difference between level one and level twenty-five!
+
+After finishing my internal debate on skills, points, and levels, I returned to my work. I really hoped to complete [Wave Step] before we reached our destination, and just before lunch, I appeared to have finally succeeded!
+
+<Spell [Wave Step] discovered.>
+
+<Proficiency gained. [Mana Weaving LV 3] improved to [Mana Weaving LV 4].>
+
+I was positively delighted. Not only did I successfully recreate the spell, but I had once again progressed in my spell-weaving abilities. It seemed recreating skills as spells was worth quite a hefty chunk of proficiency experience!
+
+Only now… I was in a bit of a pickle. I had run out of things I could reasonably do while on the deck of the ship. I wanted desperately to work on the earth and fire movement spells, but Sylvain couldn't do that.
+
+One option was to work on a new custom spell, but I didn't really feel like doing that as I was more intrigued by discovering the depths of [Skill Deconstruct]. Trying to find something to occupy myself with, I perused my skill list for anything wind or water-related, as those wouldn't really arouse any suspicion.
+
+Should I take apart Aerial Finesse], [Aquatic Finesse], or [Tranquil Flow]?
+
+Those were really my only three options if I was sticking to water or air, but for some reason, they didn't really speak to me. I continued searching and found myself staring at [Multitasking] and [Magical Overcharge].
+
+General stuff should be fine… The latter would probably give me some kind of component that I could apply to boost spells, and maybe I could even figure out how to remove the drawback. The former… I'm actually not sure what it would do.
+
+[Multitasking] was a skill I'd neglected despite it being such a key component to spellcasters after it was upgraded with the [Multicasting] subskill. The subskill part was actually why I was very intrigued with taking it apart, to see what information I could glean from it.
+
+I mean… You can't blame me for not using it, right? Anything it could be used for, a [Sub-Core] would easily be able to handle it and do a much better job of it.
+
+After defending my disuse of such a valuable skill, I had effectively made up my mind. It was just sitting there gathering dust, and it would be much better off feeding my knowledge of the system and skills.
+
+<Skill [Multitasking LV 6] has been lost.>
+
+The skill was gone, only to be instantly replaced by a torrent of information that assaulted my mind. Weirdly, a lot of it seemed like garbage, like some kind of self-help manual on how to effectively split your focus. I was greatly disappointed at all this seemingly useless knowledge, until it finally reached what could only be the [Multicasting] section of the skill.
+
+I had been worried that the subskill would not be included, as it wasn't mentioned in the system prompt when I deconstructed it, but now that fear was proven to be unfounded. Not only that, but it appeared to be something akin to spell constructs, which had me wanting to dance in excitement.
+
+When the torrent finally stopped, I took a moment to calm down before slowly assessing everything I had received. As I combed through the knowledge, I quickly grew more and more excited. While I wouldn't be unlocking a new spell, what I'd just received had the potential to change spellcasting as I knew it.
+
+I'd always wondered why it was so difficult to handle multiple spells at once, and yet when I had initially gotten the skill, it was like all the roadblocks in my path had been removed for me. I had waved it off as simply being the system doing the heavy lifting for me, but I had no idea it was actually fundamentally changing my spells during the casting process.
+
+Yes, [Multicasting] had actually changed our spells. Or, maybe a more apt term would be to say it slotted our spells into a grander construct, and now this schematic was at my fingertips.
+
+To reproduce the effect, I would just need to create this grand construct and put my spells in the slots available, which would let multiple of them be active at once. This might have sounded tricky on paper, but in practice, I could just create setups with the slots already filled when casting, allowing a much greater effect.
+
+If each spell is a plate of food, then [Multicasting] is the table. The stronger the spell, the bigger the plate, and if your table isn't big enough, it wouldn't be able to support more plates. A higher level in [Multicasting] meant a bigger table, and now I can make the table myself!
+
+I wondered if I could explain this to Vee or if it would be breaking the rules on [Skill Deconstruct]. I just knew she would love the food analogy, and this really explained why, even if your skill level was five, you couldn't just cast any five spells together.
+
+The first thing I did was tell my [Sub-Cores] they could use this [Multicasting] template whenever they needed to. While I had never really used the skill, they might have, and I didn't want to hamper their capabilities.
+
+The next thing I did was start to test out this phenomenon myself. To my surprise, it was actually easier than I had anticipated, and I could simply form the grand construct before throwing my spells into it. From there, I just needed to feed my Mana into it, and it would properly distribute them to every spell I had given it.
+
+I actually loved this outcome, and there was now a good chance I'd actually use it. Not to mention, I wanted to work on not only expanding it, but also seeing if I could take this concept and use it elsewhere, such as within dual elemental spells.
+
+I was having so much fun with my new toys that I had almost not heard the captain when he called out to me.
+
+"Sylvain, you can stop and take a break; we will be arriving shortly," he said.
+
+"Already?"
+
+"Don't act so surprised, you've sped up our trip considerably," he replied and pointed into the distance.
+
+I followed his gesture and nearly flinched in response to what I saw; a large island was visible on the horizon with a large mountain jutting out from what looked like the center.
+
+I must have really been distracted to not see that coming.
+
+"That's a big mountain," I replied in response.
+
+"Volcano, actually," the captain corrected.
+
+"Really? Seems like a bad place to set up shop."
+
+The captain snorted. "How else do you think they refine the deepstone?"
+
+I whistled in response, making sure Sylvain seemed highly impressed by this revelation.
+
+"I'm surprised you need to go this far. Can a magical furnace not handle it?"
+
+The captain shook his head. "Only magma works."
+
+That… doesn't seem right? Even if I was cheating with my slime abilities, I had no issue refining it myself…
+
+"Maybe you can ask to see it for yourself. It's a dangerous process, and we lose around sixty percent of the material to the process," the captain went on.
+
+I flinched in response, staring at the captain long and hard. Were my slime cheats that much of a difference?
+
+"Well, I look forward to the guided tour then," I joked.
+
+The captain gave a noncommittal nod. To me, he seemed less prickly than when we started, maybe due to the lack of attacks.
+
+Or maybe he was impressed by my work ethic, how many mages can stand on the deck casting spells for hours on end?
+
+"So does the island have a name?" I asked curiously.
+
+"Officially, yes, although that's classified. Unofficially, we just call it Volcano Isle."
+
+I stared at the approaching volcano, wondering why even the name was classified. Was deepstone refining this much of a secret? Or was something else going on? Either way, I was eager to get off this boat and hopefully finally find some mermen.
+
+Volcano Isle, huh…

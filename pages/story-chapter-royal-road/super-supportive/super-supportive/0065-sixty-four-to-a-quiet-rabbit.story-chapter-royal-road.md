@@ -1,0 +1,603 @@
+---
+id: d489de78-bee9-5b4c-9db1-71113abc8846
+page-type-slug: story-chapter-royal-road
+title: "SIXTY-FOUR: To a Quiet Rabbit"
+slug: 0065-sixty-four-to-a-quiet-rabbit
+partOf: super-supportive
+position: 65
+ownLength: 7130
+unit: words
+publishedAt: 2023-08-14
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1309534/sixty-four-to-a-quiet-rabbit"
+royalRoadId: "1309534"
+---
+
+Alden was stuck in the teleportation bay for so long that he finally took a seat on the floor of the phone booth-sized space and rested his back against the wall. About every five minutes, the security lady updated him and apologized again for the wait.
+
+They’d asked him if he was claustrophobic before telling him he’d need to be here for a while. The problem seemed to be his very long stay on the Triplanets combined with his age and his lack of a psychological profile. They’d wanted to know if he’d been in “a high-stress environment”  while he was away.
+
+Probably I shouldn’t have laughed.
+
+Anyway, he was going to get a video call from a therapist who specialized in Avowed trauma soon. That would help everyone figure out if he was a healthy, happy new kid who could go to the intake dorms with the other baby Avowed who’d recently arrived. Or if he was a damaged superhuman who needed to be closely monitored and kept apart from the general population for a while.
+
+It makes sense.
+
+Not so much for Alden—what was he going to do, preserve people to death?—but if you imagined an S-rank with serious offensive power suddenly arriving back home from a bad situation…
+
+Alden thought the Artonans would probably do a decent job on their end of things under normal circumstances. They didn’t have a reputation for  dropping dangerously unstable people back on Earth, as far as he knew. But that didn’t mean the Anesidorans should completely trust the process.
+
+While he waited for his phone call, he rested his arms on top of his bag and accessed Wardrobe with a mental command.
+
+He was just going to look at his tabs and his reward gift to make sure they were still there now that he wasn’t on Artona I. He didn’t want to open the present yet because if random stuff started appearing in the bay with him that would only add to the worries of the people who were trying to classify his threat level.
+
+But, to his surprise, the image of the box in Christmas paper was gone.
+
+When he focused on the empty space where it had been, words appeared:
+
+[From: Mother
+
+To: a Quiet Rabbit]
+
+Alden was confused.
+
+But a couple of seconds later, the particular mote of light that would let him access his main menus started flashing. Alden selected it and saw the Privileges button glowing again. The present is a privilege?
+
+When he chose the button, he discovered a completely new option had been added to the category, and it was one he’d never even heard of before.
+
+[Choose Persona]
+
+Temporarily forgetting his mental commands altogether, Alden lifted a hand and pressed it. Two large, semi-transparent information panes filled his vision. Each one had a picture of him as he currently looked—wide-eyed and dirty—in the top left corner. Each had a single additional tab with a logogram at the top. They both had a button at the bottom that said, “Share Contract Verified Information.”
+
+The windows held a breakdown of his full Avowed profile. They included his rank, overall level, skill level, spells, stats, experience—all of it.
+
+Alden had seen this profile with the share button before, when he was playing around with his interface. It was obviously the thing you would need for applying to schools and jobs, where they wouldn’t want to just take you at your word that you could do some particular magic thing at a certain level.
+
+But when Alden had seen it before there had only been a single, accurate profile. Now he had two to choose from.
+
+And one of them was a lie.
+
+Name: Samuel Alden Thorn
+
+Preferred Name: Alden
+
+Class: Rabbit
+
+Rank: B       Overall Level: 4 ✶
+
+Commendation: Exceptional Bravery in the Absence of Obligation
+
+— Awarded by Fourth General Loh Alis-art’h
+
+Skills:
+
+Let Me Take Your Luggage, B (Level 3)
+
+Skill Type: item preservation (single item, total)
+
+Flickerer, F (single level skill)
+
+Skill Type: minor enchantment interruption — temporary
+
+Spell Impressions:
+
+The Haunting Sphere, D
+
+Light Candle, F
+
+Trait:
+
+Azure Rabbit
+
+Trait Type: movement, limited to element — ground
+
+Enhancements:
+
+Sympathy for Magic +4,  Agility + 3, Dexterity +2.5, Speed + 2.5, Stamina +1.75, Strength + 1.5, Proprioception + 1.5, Appeal + 1, Visual Processing + 1, Processing +1.75 (in progress)
+
+Recommendations and Merits:
+
+Social Recommendation (LeafSong University, Artona III)
+
+Emergency Response Merit (LeafSong University, Artona III)
+
+“Mr. Thorn,” said the security woman’s voice, “we’re detecting a significant increase in your heart rate. How are you feeling?”
+
+Way creeped out now that I know the teleportation bay monitors my vital signs.
+
+“Uh…I’m fine,” he said, trying not to look as shocked as he felt. “Just going through some messages from home. Everyone thought I was dead, so it’s a lot to take in.”
+
+“I can imagine. Give us a few more minutes to sort you out.”
+
+“Yeah. Sure. No sweat. I’m good in here.”
+
+Honestly, they could leave him to his own devices for the next hour, and he would probably still be trying to get over the fact that he now had a Contract verified fake persona he could use if he chose.
+
+But they probably aren’t going to give me that long, so I should think fast.
+
+He compared the fake to his real one.
+
+His real rank and overall level was B-9✶.
+
+He was guessing the star indicated his commendation from Alis-art’h—the one that had also earned him the embroidery shoulder patch design he could wear if he wanted. He couldn’t think of what else it might be. And it was something way fancier than he’d realized if the System thought it was important enough to tack onto his level.
+
+His real skill section looked different of course:
+
+Skills:
+
+Let Me Take Your Luggage, B (Level 8)
+
+Skill Type: item preservation  (total)
+
+enchantment preservation (end results vary)
+
+I can see how this is going to start to look out of hand as I add new facets to the skill.
+
+Right now it was kind of like… “Well, the skill does two similar things. That’s flexible. Lucky Alden.”
+
+But if he underwent a couple more affixations, even this pared-down, human-approved version of the description was going to make people do a double take and wonder what the heck it was.
+
+It’s level 8. And since he hadn’t taken another spell or skill that meant the extra authority that was adding up to the ninth level had pretty much all gone to his foundational enhancements.
+
+The math doesn’t quite work out between the profiles as far as apparent level value goes. Must be more wiggle room between how the System presents the numbers than you’d think.
+
+She had said Earth sometimes pandered to peoples’ egos by rounding up.
+
+I bet the version of the profile a summoner sees is more accurate.
+
+Alden had not previously had access to something like that. But now there were the tabs with the logograms at the top of both the profiles. He selected the that tab on the real profile and held back a groan at the sight of it.
+
+Why would you make something this unnecessarily complicated?
+
+It wasn’t a profile at all. He thought it was more of a 90-page long user manual for the Ryeh-b’t known as Alden, but he wasn’t quite sure.
+
+He suddenly understood what Joe had meant when he said there wasn’t a big flashing sign announcing what his skill was, and that many Artonans wouldn’t even recognize it. Presumably summoners got plain verbal talent function descriptions when they ordered up an Avowed from the System.
+
+Maybe they say something like, “I need someone to preserve hazardous materials in a laboratory setting in a big hurry.” And the System says, “Let me introduce you to this foolish Rabbit who just bought a lab coat.”
+
+But if the summoner wanted to dig into it and see how the foolish Rabbit worked, they got this mess. It looked like it was lots of numbers plus some completely unfathomable magical codes. Like Alden was looking at the guts of a computer program written by…well, by aliens. And he was trying to guess what it was for. There were words that indicated he could preserve stuff. But beyond that, even with his new logogram flashcard translation perk trying to help him, it was indecipherable.
+
+The name “Bearer of All Burdens” was nowhere to be seen.
+
+I guess you learn how to interpret skill function in wizard school?
+
+Or, if Artonans were even a little like humans, most of them half-learned it to pass their classes. Then they forgot it. And they just trusted the System’s recommendations and the Avowed’s own word about their abilities when they needed to hire someone to do a job.
+
+Probably goes double for Rabbits. If you’re summoning someone in a hurry to do minor tasks, you’re not reading through all of this.
+
+More interestingly, there were several completely different measures of Alden’s Rank in the profile manual. Including one that let the summoner know he was an Earth B. And another one that he kept staring at.
+
+It was being translated as Priority Rank.
+
+It was an absolutely massive number. And it constantly fluctuated.
+
+The more he thought about it, the more Alden felt sure that this was his literal rank in importance. Among all known intelligent beings living under the rulership of the Triplanetary Government.
+
+There are a lot of commas in that number, Alden thought as it was re-translated for him by the System. If I ever develop an arrogance problem, I’ll just come here. And humble myself.
+
+He compared the numbers on the real profile and the fake. They were both stupidly big. But the fake one was way higher.
+
+Real me is a much larger speck of dust in the universal scheme of things. Good to know.
+
+And on top of all that, there were so many other things to consider about the profiles.
+
+Apparently Earth liked to call Alis-art’h “Fourth General” in English?  That seemed way off-base tonally. She wasn’t really commanding troops from what Alden had seen. He was going to have to look up what the System was calling her in other languages.
+
+It was also interesting that the fake profile was giving Alden a false skill and a false spell impression to explain away some of his abilities for him. Flickerer was clearly a cover for his new enchantment preservation. Light Candle…it had to be something similar to the little hand-cast spell that he’d been using to light the promise sticks for his lessons with Kibby.
+
+Maybe it was even the exact same one, just the infallible, locked-into-your-being version of it they gave Avowed.
+
+That’s nice. It would have looked bizarre to people if I didn’t have the second spell impression at least.
+
+But even with so many details to consider, Alden could barely pull his mind away from the most shocking thing about this gift.
+
+By adding on the tab with the logogram, the System was making it clear that this new fake profile was designed to lie to Artonans, too.
+
+Right now, the fake was enclosed by a gold border that said ACTIVE PERSONA along the left edge.
+
+This was the thing—it had to be—that the System used to tell wizards whether or not Alden was summonable for their job in the first place. It was what determined how he was actually used as an Avowed.
+
+And…she was going to help him lie about it.
+
+To a quiet Rabbit, he thought in wonder.
+
+She was going to help him stay under the radar, like he’d said he wanted to.
+
+Somewhere, the security people must have been worried about his heart rate again. Because he could hear his own pulse in his ears.
+
+This isn’t normal. This isn’t even a little bit normal. All I did was wander around tracking dirt through the Primary’s house for a while and drink wevvi with Stuart.
+
+This one, stunning gift was something he’d never even imagined he could ask for.
+
+It was more than secrecy.
+
+Maybe it wasn’t that big a deal at this point in time, but as he grew stronger, being thought weaker and less valuable by summoners would be a gift of safety. Alden hadn’t realized just how desperately he wanted it until this very moment.
+
+He was hurt. And he was tired of being scared. And when the therapist finally called, he’d been crying a little despite enormous efforts not to do that in a small metal room where strangers worried about his mental wellbeing were watching him on cameras and checking his vitals.
+
+He blamed it on his aunt’s voicemails and the school lunch lady.
+
+And as a show of good citizenship, he volunteered to share his Contract Verified Avowed profile information with the security people. Just to prove he wasn’t some rare variety of dangerous Rabbit.
+
+“You gained three levels in half a year. And a star. We don’t see many of those even from adults,” said the woman who eventually came to escort him out of the bay. She had on a security uniform and a badge that said her name was Emily. Alden was pretty sure she was a speedster of some kind based on the way she moved. “Great work. Really impressive. And I’m not just saying that to make you feel better.”
+
+“Thanks,” he said, adjusting his bag on his shoulder.
+
+“You get to hang out with me until they send a car to take you to the intake dorms. So many new teens coming in this month. I swear they all just got together and decided that September was the time to register. Have you had dinner yet?”
+
+“I haven’t eaten all day. I think,” said Alden. “I might have had breakfast. But that could technically have been yesterday. I lost track of at least a few hours.”
+
+“Trips out there must be hard. I’ve never been. You like Jamaican food?”
+
+“I haven’t had it before. It’s from Earth, so I bet I love it.”
+
+“We’ve got a spot that just opened up in the atrium. Reminds me of my old home. Let me treat you and give you a proper welcome to your new one.”
+
+*************************
+
+Alden woke up at two o’clock in the Anesidoran morning. The sheets on his new bed were soaked with sweat thanks to a horror soup nightmare featuring demons and a dead Kibby and running through trees, trying to get away from an unseen thing that wanted to hurt him.
+
+He was normally pretty good at going back to sleep after bad dreams, but he knew the second he opened his eyes that he wouldn’t be able to right now.
+
+His freshly bound authority was roiling. It was a sickening, awful sensation.
+
+He took a few deep breaths, trying to calm himself and refocus.
+
+“Don’t be such a whiner,” he told his authority finally, as if it was something separate from him instead of the essence of who he was. “Avowed are supposed to bounce up from our affixations feeling mighty and blasting out new kinds of magic.”
+
+He recalled how he’d started using the skill right away when he first got it. It had been really fun to experiment with it while Boe and Jeremy watched.
+
+It’s so strange. I can’t quite remember how it felt to not feel it.
+
+With a groan, he tossed off his damp sheets and rolled out of bed. A motion-sensitive light below the frame lit up as soon as his feet hit the floor. It illuminated the reddish faux-wood flooring and the pile of Alden’s dirty clothes at the foot of the double bed.
+
+This was a luxurious room by Alden’s standards. There was a television on the wall with dozens of global streaming services. A small private bath held a shower that operated at human temperatures. There were F and Apex cityscape sketches on the walls.
+
+Instead of curtains or blinds, the bedroom’s window had an adjustable tint on it. When it was in transparent mode, like now, it looked out over the water of the Pacific Ocean. The intake complex was right at the water’s edge on the far south side of F-city. And the apartment tower Alden was staying in was on the perimeter of the complex.
+
+Right now, there was nothing but miles and miles of dark sea between where he stood and Antarctica.
+
+He stared at the ocean for a while, until finally the fact that he was standing around stark naked started to bother him. He had just collapsed into bed without caring about it when he made it through all the hoops that had come with his arrival and he was finally left to his own devices. Now, though, it was a little odd to be a nudist.
+
+He glanced at his one filthy clothing option and wrinkled his nose.
+
+“Nah. Can’t sleep. Have money,” he muttered to himself. “There’s got to be something better even if it is the middle of the night.”
+
+His old Wardrobe purchases—the housekeeping uniform and the cargo pants—were listed as in-transit right now. He didn’t know what that meant except that they’d been stored somewhere and were coming to him slowly instead of through the more expensive direct teleport into his arms. Anyway, what he wanted was underwear, socks, t-shirts...the Wardrobe didn’t really do basics.
+
+He wrapped a towel around his waist, opened the door and poked his head out to examine the rest of the apartment suite. It was empty. The other three bedrooms had their doors open just as they had when he’d arrived, and they were still unoccupied.
+
+The nighttime intake counselor who was in charge of the two Rabbit floors—a middle-aged guy from Brazil with strong everyone’s-favorite-teacher vibes—had told Alden not to expect roommates for at least a few weeks.
+
+Alden suspected that wasn’t the norm. It was probably a stealthy accommodation to make sure he was okay without completely separating him from the other newcomers. But he was grateful for it, and he didn’t mind taking advantage of the privacy.
+
+He headed into the living area, feeling almost as impressed with it as he had the first time he’d seen it. Effort had clearly gone into making a space that invited social interaction. There was a kitchen with a two-burner stove, a microwave, a toaster oven, and the world’s fanciest, Wright-designed magic coffee maker. Alden was intimidated by the number of features on the thing, but the counselor had said it was one of this particular apartment’s “talking points.”
+
+The other one was a pinball machine in the corner by the sofa.
+
+Every suite had stuff like this, to encourage people to hang out with their new roommates and venture into other apartments to meet the neighbors. There was an entire cabinet stocked with coffee syrups, glassware, and mugs, in case Alden or any future residents wanted to be the dorm’s barista.
+
+The idea was that a bunch of superpowered teenagers who’d left behind not only their homes and families, but also their countries and cultures, needed new friends fast. There was a calendar on the fridge and available through his interface that was filled with community activities and classes for the month, too. About half of them were completely optional, and the other half involved a credit system Alden hadn’t looked into yet. It seemed like you had to attend a certain minimum number before you were allowed to leave and get your own place, unless you were heading straight into one of the schools’ boarding programs.
+
+He headed over to the counter where he’d dropped off the pair of large welcome gift bags they’d given him at the counselor’s desk. He dumped them out, and shook his head again at the randomness of the contents.
+
+Candy, a bag of mixed nuts, deodorant samples, an enamel bunny rabbit pin, a stress ball with the logo for a dance studio on it, a dark green baseball cap with the Anesidoran flag design on the front, an invitation to a Rabbits-only welcome party that would be held in a ballroom somewhere in December, and coupons.
+
+Tons and tons of coupons.
+
+It turned out there was a fairly well adhered-to no System spam mail policy among superhumans. Having junk mail in your actual brain was just uncool. And since loads of Avowed didn’t bother to receive messages in any other way, advertisements on Anesidora came to you on paper.
+
+Alden started sorting through his coupons.
+
+All right, he thought. Which of you sells clothes and is open 24/7?
+
+He organized them all for his own amusement. The largest stack by far was for restaurants, but everything else a person might need was there, too. All new Avowed got a decent argold stipend every month for their first year and a half on the island. So they were probably an ideal target audience for advertisers.
+
+There were several clothing stores. Most seemed to be popular name brands from various countries, but a few were purely local. None said they were open all night.
+
+But there were errand runner services, and one of them was delightfully named DRAGON RABBIT GETS YOU THINGS.
+
+The postcard was written in Spanish. Alden was decent enough at it to read the simpler words, but the System translation was helping.
+
+Dragon Rabbit would get you anything, anytime, day or night. Drone delivery available. Just try it if you didn’t believe. Ten percent off for first-time customers.
+
+There was a picture of a dragon with bunny ears sitting on a hoard of food, accessories, and electronics. Alden felt compelled to put his fellow Rabbit to the test.
+
+He held up the card. “Call this person,” he said. “Voice or text only.”
+
+A millisecond later a man’s voice answered. <<Alden, this is Dragon Rabbit. You need things. I get them for you.>>
+
+Alden was already inspired.
+
+“Can I get a couple of t-shirts and some jeans and boxers and socks and a pair of sneakers delivered by drone? Tonight?”
+
+<<Yes.>>
+
+“Really? Cool. What do I owe you?”
+
+<<How fancy do you want the t-shirts and jeans and boxers and socks and sneakers to be?>>
+
+Alden found himself faced with a dark temptation. He couldn’t sleep. And he had twelve million dollars. And he was standing around in a towel talking to someone named Dragon Rabbit while he ate candy all alone in a luxury apartment.
+
+“Actually, let me change my request a little. What I want is five hundred…no, a thousand argold worth of clothing,” he said. “I want stuff that fits me well. And I want to look like an average American teenage guy.”
+
+<<Yes,>> said Dragon Rabbit. <<I will get that for you. Authorize the System to send physical measurements.>>
+
+“I have a coupon.”
+
+<<Ten percent off the service fee for first time customers.>>
+
+“Awesome.”
+
+He transferred the money.
+
+The thing was, it was no big deal if a complete stranger who didn’t even use their real name cheated him out of around three thousand dollars. Alden had never been rich before, and he wanted to see what would happen if you gave an unsleeping errand Rabbit a mission and the money he needed to complete it.
+
+About two hours later, he got a notification from the intake facility’s security person that a package had arrived for him by delivery drone. Several minutes after that, one of the dorm’s own delivery drones—a rolling box with uncanny cartoon eyes painted on it—trundled into the apartment right by itself and spat a large parcel onto the floor by Alden’s bedroom door. He spied on it through the crack.
+
+The drone quietly left, and the main apartment door shut behind it.
+
+Alden dragged the package into his room and opened it.
+
+He would have been happy, he thought, even if it was full of random ugly things that didn’t fit. Novelty had its merits when you were trying to focus on anything outside yourself.
+
+But Dragon Rabbit was good at his job.
+
+Everything was new stuff, still in its original packaging or with the tags on. It was all pretty much the right size. And it was interesting to see how the errand runner had decided to interpret “average American teenage guy.”
+
+Alden could be preppy in a cable-knit sweater and chinos. Or he could do jeans—strategically ripped or unripped—and a black t-Shirt with a skull on it. Or he could wear a random fan football jersey for a team he did not know. There were also some plain colored t-shirts, a plaid button-down, a brown hoodie, twelve pairs of socks, leather flip-flops, and two new sets of sneakers—one a casual high-top and the other a more athletic pair.
+
+“Pajama pants,” he said to his empty room as he held up some flannel ones. “Nice touch. Didn’t think of those.”
+
+He’d also gotten a stocking hat. Who didn’t want a nice stocking hat every now and then?
+
+It was all so human. It felt good to be surrounded by it. And it made the room look more lived-in to have something to stick in the closet.
+
+After he was done trying on all the new things, he declared himself officially successful at surviving his first night back on his home planet. He managed to persuade the coffeemaker to give him what he thought was a double shot of espresso, and he drank a sip while he sat on a counter stool in his non-ripped jeans and the skull shirt.
+
+He was thinking it was the ironic choice. Since he was not dead.
+
+“Text this to Boe,” he said. “Hey. How do you drink coffee, anyway? It’s bitter as hell, and I don’t think it’s just because I’ve been stuck on wevvi for too long.”
+
+It was seven o’clock in the morning in Chicago. Alden finally thought that he could have a conversation with his friends without worrying about coming across as different in too many worrying ways.
+
+Boe should be up by now, and if he wasn't, he needed to be woken. The jerk hadn’t even answered his “I’m alive” text from yesterday. Admittedly, Alden had said he would reach out again when he’d dealt with the Anesidora stuff, but complete silence from Boe was odd.
+
+Jeremy had texted back several illegible things before he’d finally gotten control of the autocorrect. Alden hoped he’d slept.
+
+Boe didn’t answer.
+
+Alden added non-dairy creamer to his espresso and stuck out his tongue at the taste.
+
+Nope. Still bad.
+
+He dumped it into the sink and poked different parts of the machine, trying to see if he could get it to spit out something better.
+
+It gurgled. He got hot water. He threw a tea bag he found in the supply cabinet into it and waited for it to steep while he stared at the light that would blink when his friend texted him back.
+
+It didn’t.
+
+“Text Jeremy,” he said finally. “Hey. You awake? I’m back on Earth and officially among the living.”
+
+He got back nineteen exclamation points, and a millisecond later, a video call came in. Alden accepted it, and Jeremy’s face appeared, wobbling around as he held up his cell phone with one hand and walked through the living room into his family’s big, industrial-chic kitchen.
+
+Alden took in the sight of his friend. He still looked just like Jeremy. Same haircut. Same slightly crooked nose. He’d broken it in a skateboard accident before they knew each other.
+
+Seeing his face felt like time travel.
+
+But the speed of his answer and the slightly bloodshot eyes were unusual. He’s probably been waiting around all night for my call.
+
+“Sorry it took me so long,” Alden said.
+
+He didn’t know whether he meant the call or everything else.
+
+Jeremy just stared at him for a full minute. “I’m so fucking glad to see you, Alden,” he said finally, leaning back against the sink. “Are you okay?”
+
+“I’m okay.”
+
+“Yeah, but…are you really okay?”
+
+This is going to be a thing with everyone, isn’t it? He’d gotten an almost identical question from several total strangers yesterday. And even Stu-art’h, now that he thought about it.
+
+“I’m definitely more okay than I have been for the past several months,” he said after a moment. “I’m glad to be home. I’m looking forward to doing normal stuff. Normal-er stuff. I think I’m all right.”
+
+“Can I come see you? Or can you come back home for a while? Is that a thing we can do?”
+
+Alden nodded. “Yeah. At least on the you coming here front. I think it’ll be a few weeks, though. Anesidora is good about immediate family travel passes, but friend passes are harder. The therapist yesterday mentioned it would be an option. I’m talking with her again this afternoon. I think she’s going to put some kind of recommendation in my file to expand my guest list, since I’ve only got Connie. And Cly Zhao might be working on it, too.”
+
+“Adopt me,” Jeremy said immediately. “I’ll be your non-Avowed son.”
+
+Alden felt a huge rush of relief. So they could still joke around with each other. It wasn’t all going to be super serious. Thank goodness. “My son who’s three months older than me?”
+
+“Age is just a number.”
+
+Alden grinned. “Yeah. Anyway, I’ll adopt you or declare you my blood brother or something if I have to. They seem to have a really strong focus on getting new Avowed settled into life on the island with minimal friction, so it’ll work out. Uh…how have you been?”
+
+“I’m fine, man. I’ve been here on Earth. Eating chicken nuggets and going to high school.”
+
+“And helping Aunt Connie. A lot,” Alden added. “She mentioned you in like every other voicemail she sent me. Thank you for that.”
+
+Jeremy looked surprised. “Well, yeah! Obviously I wasn’t just going to let her deal with everything on her own. It turns out my mom really likes having her over for dinner every other Saturday. She’s a lot more fun than the people from the law firm.”
+
+Alden hadn’t realized Jeremy had gone so far as to pull Connie into his family circle.
+
+“Jeremy, you might actually be a saint.”
+
+“No. I let her put your stuffed wombat in her room. She and Mr. Tiger Shorts are getting serious about each other, by the way. The things that poor innocent creature has seen by now…”
+
+Alden laughed so hard he spilled hot tea all over the counter. “Oh shit.” He shook liquid from his fingers. “You’re a cruel man. Why would you put that image in my brain?”
+
+“It’s your punishment for making me think you were gone.” Jeremy tilted his head. “Uh…can you tell me where you were? No details necessary if you don’t want. Is it all top secret Avowed stuff a regular human guy can’t hear? It wasn’t that Manon person—”
+
+“No. It was just a random accident,” Alden said. “Mostly. I accepted a side quest from one of the professors at the university. To go to Moon Thegund.”
+
+“That’s…some planet near Artona I?” Jeremy asked.
+
+“Giant moon orbiting Kimnor. It’s not a very important place even though it’s in the same solar system as the Mother Planet. I think it used to be more significant, but now it’s a low-population backwater with a System that’s been half-broken since before Earth became a resource world.” He found a roll of paper towels in a cabinet and started wiping up the mess he’d made. “Anyway, while I was there it went from half-broken to completely gone.”
+
+Jeremy frowned. “Gone?”
+
+“Yeah.”
+
+“Like…no System at all?”
+
+“Yep. It was a total collapse. There’s a big team of wizards there now. They’re going to have to build a new one from scratch. It’s something that takes a few months.”
+
+“What was that even like?”
+
+“Inconvenient,” Alden said dryly, tossing the soggy paper towels in the trash. “No teleports. No communications. I was on the wrong half of the moon, and there wasn’t even something like a cell phone tower.”
+
+“Damn. So you’ve been roughing it on a moon for six months?”
+
+“Well, there was a giant mad scientist’s laboratory full of supplies. And a chaos event and some demons and a really cool little Artonan girl named Kibby.”
+
+Jeremy’s eyes were huge.
+
+“See…I realize now I should probably have opened with the chaos problem.” Alden ran a hand through his hair. “That was why the System went down in the first place. I haven’t had a lot of practice telling the story.”
+
+“What the heck, Alden?”
+
+“They were very little demons. Like drunk hell bees.”
+
+“Dude.”
+
+“And they were only around for a couple of months.”
+
+“Seriously?”
+
+“Chaos sucks. By the way. Much, much more than anticipated.”
+
+“Are you sure you’re all right?”
+
+“I have a fancy coffee pot in my intake apartment. And a pinball machine.  And I have twelve million dollars.”
+
+“Okaaay.” Jeremy’s eyebrows were drawn together in concern. “Those are all positives?”
+
+“Where’s Boe?”
+
+It just popped out. Alden had been planning to talk to Jeremy about other things for longer. But ever since the last unanswered text, he had a knot of something like panic in his chest. No voicemails from Boe in months, no mention of him from Connie or Jeremy…
+
+“Um…” Jeremy looked away from his phone’s camera.
+
+“He’s not dead, is he?”
+
+Alden wasn’t joking. Some part of him that was now a little too used to horrible things happening was really waiting for Jeremy to say, Yes, Alden. Your closest friend died while you were away.
+
+“He’s fine,” Jeremy said quickly. “Or he’ll tell you he’s fine and get super pissed if you disagree. When he bothers to contact you. Once every five or six weeks. Or maybe that’s just me, and he’ll actually answer your messages. He says he’s not ignoring me, that he just doesn’t get my texts. But I don’t know.”
+
+“What happened while I was gone?”
+
+Jeremy’s face was uncharacteristically serious. “I think your death really messed him up,” he said. “Way more than I realized at first. And he decided you were dead right away, man. The same day the official Missing on Assignment: Irretrievable status came in from the Artonans. He looked up some statistics on his phone, and then he said, ‘So, he’s dead.’”
+
+"Oh."
+
+Jeremy groaned. “Alden, I was so mad. I could have strangled him. Connie and I were both telling each other, ‘We could hear back from him any second now. Wait and see.’ And he came into the conversation with that.”
+
+“Boe’s not…” Alden tried to think of how to put it. “I don’t think hopeful is part of his makeup? He’s always been that way. He didn’t mean anything bad by it, he just prefers to operate on facts.”
+
+Alden understood it. When you had a choice between desperately hoping for something unlikely and moving forward with your life…hope wasn’t always better. There was a reason people held funerals even without a body. Denial couldn’t go on forever.
+
+“I get it. But it’s still hard to deal with someone like that when you’re in the maybe-this-isn’t-really-happening phase of your friend going missing,” Jeremy replied. “He apologized about it the next day. And then he was very, very nice for a while. To me and Connie and even people at school. Even the ones he hates.”
+
+That was possibly the most alarming thing Jeremy could have said.
+
+“He was great, actually,” Jeremy admitted. “For a few weeks. And I realize in hindsight that he must have been putting in crazy amounts of effort because emotionally supporting others is not something he usually does.”
+
+Actually, Boe could be good at that despite his own protests to the contrary. He just very rarely made an effort to be. Jeremy probably hadn’t seen it before.
+
+“He finally…I think he just snapped. You were all over the local news. They dug up all the old Body Drainer stuff—”
+
+“They did?” Alden hadn’t expected that.
+
+“Sorry. Once it finally got out, it was a big thing. Tragic victim of the worst supervillain incident in Chicago in recent years becomes a B-rank Avowed, gets summoned on his way into the consulate to register, dies on his first assignment…”
+
+Jeremy gave him an apologetic look. “You only blipped across national news for a couple of days, but here, it was two weeks worth of seeing pictures of you and hearing hot takes from random people about the dumbest stuff. Should traumatized youth ever be selected as Avowed? Are Artonans evil for summoning fifteen-year-olds? Are humans evil for forcing fifteen-year-olds to leave their home countries? What did Alden Thorn’s friends and classmates think of him?”
+
+“Ugh. They called me a traumatized youth? Like Body Drainer was still messing me up so bad I can’t function? It was years ago.”
+
+“I can send you clips of some of it if you—”
+
+“I never want to see it,” Alden said. “It’s just…noise. With my name attached. Please tell me it finally died out.”
+
+Jeremy nodded. “Yeah, you’re old news now. Your return from the dead will probably change that for a minute, but you can just refuse to comment, right? And it’ll go away again.”
+
+“The internet will remember,” Alden said darkly.
+
+Jeremy didn’t disagree.
+
+“Anyway, we were steeped in that. And then there was your memorial thing at school right before summer break, and Boe was mad about it. I could tell. But he didn’t say anything. And he went to it and sat there like a statue for the whole service. Then, when I got home, the window was open in my bedroom and he’d dropped off your cat with a bag of food. There was a note  on my pillow that said, ‘I’m taking a vacation from people.’”
+
+“A vacation from people?”
+
+“He ran away from home. And everything else. Doesn’t answer his phone. I was scared he had hurt himself or something, but he swung by around a week and a half later. He looked just as bad as he did at the funeral, and he was in one hell of a unique mood.”
+
+“Unique how?” Alden asked, dreading the answer.
+
+Jeremy slouched against the sink. “Honestly?” he said in a near whisper. “I think he wanted me to beat the shit out of him. He said the worst things to me. They were too fucking awful. To the point where I stopped being mad and started thinking he was actually going insane.”
+
+“Jeremy…”
+
+“Once he realized I thought he needed an exorcist instead of an ass-kicking, he punched my bedroom wall, apologized, and left. I haven’t seen him in person since. I just get the occasional phone call. I thought maybe he’d come back when school started again, but he didn’t.”
+
+Alden didn’t know what to say.
+
+“Sorry. It’s not great news to come home to. I know you two have been best friends for years. Don’t worry too much about him. His last call was actually normal. We argued about movies for a couple of hours. He seemed like himself again. And I’m sure you being alive can’t hurt.”
+
+Boe, you weren’t supposed to fall apart.
+
+He recognized that it was an odd thing to think. Why couldn’t Boe fall apart? Time hadn’t just frozen here at home while he was away. People kept moving and changing and dealing with stuff.
+
+He stared out over the apartment’s living room area without really seeing any of it.
+
+“Hey,” said Jeremy, a note of forced cheer in his voice, “you’re going to see Connie today, right?”
+
+Alden shook himself. “Yeah. I think so. I thought I’d teleport her in later after I sorted some things. I have to find out if it’s okay for her to come stay here at the dorm overnight or if I need to get her a room someplace else.”
+
+“Can I send Victor with her? Can you have pets?”
+
+Alden blinked. “I…have no idea. Wait. Did you say Boe left the cat with you?”
+
+“Yeah. Your landlord is on a rat poisoning mission, and Connie was afraid Victor would eat one of them. There’s fur everywhere in my room. I have to keep him in there because my dad and my sister are allergic.”
+
+“Victor’s more of a street cat who deigns to let me feed him. He’s not really a big fan of confinement. Isn’t your room completely destroyed?”
+
+“He’s used to it now. It’s fine except for his weekly bath.”
+
+Alden had never once attempted to bathe the semi-evil cat. He valued his body too much.
+
+“About my room, though,” said Jeremy, a strange expression on his face. “Let me show you my new poster.”
+
+“Poster?”
+
+“Yeah,” he said casually. “Got it a few months ago. Haven’t shown it to anyone else. I don’t think we should talk about it. I think you need to see it.”
+
+“Sure?”
+
+Jeremy was already walking toward the stairs with his phone. A minute later, he opened the door into his familiar room and switched on the light. A shockingly fat and fluffy orange cat, with a collar and a bell, was stretched out on the duvet.
+
+“My poster,” said Jeremy, striding over to a brick wall and turning the phone toward it so Alden could see.
+
+“It’s…Yellowstone National Park,” said Alden, baffled. “That’s outdoorsy of you.”
+
+“Right?” Jeremy’s tone was odd. “Make sure you take a good look at this part.”
+
+While Alden watched, his friend pried up the tape at the bottom of the poster and lifted the paper.
+
+There was a hole in the wall. Not a massive one. But a couple of bricks were missing, there were some cracks, and the copper pipes on the other side were visible.
+
+“Yellowstone,” said Jeremy, dropping the poster back. “I spend a lot of time thinking about it.”
+
+Alden stared.
+
+“Jeremy. Did you say Boe tried to hit you?”
+
+“No. I was on the other side of the room. Guy just needed to relieve some tension. Hit the wall. After I refused to beat him up.” Jeremy paused. “Apparently he has a lot of faith in my workout routine.”
+
+Alden laughed. He wasn’t sure if it was actually funny or if he was just too shocked for another response.
+
+“That…asshole,” he said finally.
+
+“Such an asshole,” Jeremy agreed. “Such a skinny, pale, weak-looking asshole.”
+
+They both stared at each other, and then, for some strange reason, they burst out laughing at the same time.
+
+“I really missed you,” Alden said when they’d stopped cracking up. “Sorry everything got turned sideways because of me. But I really did miss you so much.”

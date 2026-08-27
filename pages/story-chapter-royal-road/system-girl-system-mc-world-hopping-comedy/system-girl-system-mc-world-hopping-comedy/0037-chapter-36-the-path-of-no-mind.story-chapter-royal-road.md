@@ -1,0 +1,119 @@
+---
+id: ceff5fb0-4935-5a4e-b388-a805e216b1f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: The Path of No-Mind"
+slug: 0037-chapter-36-the-path-of-no-mind
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 37
+ownLength: 1825
+unit: words
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2752617/chapter-36-the-path-of-no-mind"
+royalRoadId: "2752617"
+---
+
+My newfound clarity, fueled by a steady, disciplined drip of virtual Americanos, did not solve the maze. It did, however, make the endless, soul-crushing monotony of it all significantly more bearable. Our lives settled into a grim, surreal routine.
+
+We designated a small, unremarkable alcove as our "base camp." Each rest cycle, Dave would pull his small, enchanted tent from his spatial ring, and it would spring into shape with a soft fump of fabric. The sight of it, a small pocket of temporary reality in the endless grey, became a comfort. We'd sit, eating the bland but nourishing travel rations he'd packed, the silence broken only by the soft sounds of chewing.
+
+Liz, in a desperate bid to maintain her sense of regal superiority in the face of this profoundly undignified situation, developed a meticulous grooming ritual. She would spend a full hour each cycle cleaning her scales, her tiny claws methodically removing every speck of the pervasive grey dust. It was a small, defiant act of order against the encroaching chaos of the labyrinth.
+
+My own routine was simpler. I would purchase my 3 SPP Americano, feel the glorious, synthetic warmth wash through my code, and then spend the next hour running pointless but deeply satisfying analytics. I cataloged the subtle variations in the stone's composition from one corridor to the next. I mapped the minute fluctuations in the ambient magical field. I created a comprehensive, multi-page report on the acoustical properties of the identical T-junctions. It was useless, unproductive work, but it kept my processors occupied. It kept me sane.
+
+Then, after our rest cycle, we would pack up the tent, put away the rations, and begin walking again, our left hands tracing the cold, indifferent stone, following a path that always, inevitably, led back to the same five-way crossroad.
+
+It was during one of these rest cycles, as Dave was napping and Liz was midway through polishing her left hind leg, that the world shattered.
+
+It wasn't a sound or a sight. It was a feeling, a sudden, frantic, and desperate pulse of emotion that flooded through the soul-bond, raw and unfiltered. It was the princess. The connection was weak, distorted by the dimensional barriers of Limbo, but the feelings were brutally clear: pain, exhaustion, and a rising tide of pure, unadulterated terror.
+
+Fragmented images bled through the static. The flash of steel-grey claws. The brilliant, desperate flare of a jade-green defensive barrier. The cold, obsidian gleam of an altar. And a single, overwhelming thought, not a word, but a concept: endless.
+
+Princess! Liz shrieked internally, dropping her grooming routine in an instant. She scrambled onto Dave’s chest, trying to get a clearer signal.
+
+A moment later, Ruby's voice, bless her cold, robotic heart, cut through the emotional chaos with a clean, concise data burst.
+
+[Ruby: Alert. Host An Liling has cleared the second trial. She has been engaged in the third and final trial for approximately 73 standard hours.]
+
+Three days? Liz’s thought was a spike of disbelief. We’ve been in here for weeks!
+
+[Ruby: Time dilation between trial chambers is a known variable. My host has reached the Altar of Duality. The Yin and Yang Pill is present on a central pedestal. However, the Altar is protected by a ceaseless, self-generating horde of Shadow Elementals. Host’s Qi reserves are at 14%. Her spiritual barriers are failing. She cannot hold out for much longer.]
+
+The message was a bucket of ice water to our weary souls. The maze wasn't just a puzzle; it was a cage, a holding pattern designed to keep us occupied while the real trial was happening elsewhere. And the princess was losing.
+
+Dave! Wake up! Liz’s frantic projection jolted him from his sleep. He sat up, his eyes wide and confused.
+
+[Ana: Dialing to 30%. Now!] I slammed his competence up, the information from Ruby and the raw emotion from the princess flooding his newly-cleared mind.
+
+The effect was immediate. The placid confusion was wiped away, replaced by a pale, sharp-edged panic. The news that Liling was in danger, that she was hurt and fighting for her life while he had been napping and walking in circles, shattered his carefully managed calm.
+
+"We have to get to her," he said, his voice tight with adrenaline. He scrambled to his feet, his eyes darting between the five identical corridors of the crossroad. "Which way? Which is the right way?"
+
+He abandoned the left-hand rule. Logic had failed. Now, he would rely on instinct. He chose a path at random and began to run, his boots pounding on the stone.
+
+The maze, which had been a passive, indifferent prison, seemed to wake up. It became an active, malevolent entity. Corridors that had been straight now seemed to lengthen before him, stretching into impossible distances. Passages he had mapped in his mind twisted and turned, doubling back on themselves. He would run for what felt like miles, only to burst back into the five-way crossroad, gasping for breath, sweat pouring down his face.
+
+The more he struggled, the more desperately he tried to force a solution, the more the labyrinth seemed to work against him. It was feeding on his focused intent, on his desperate will, and using it to tie itself into ever more impossible knots. He was no longer just lost; he was being actively, maliciously toyed with by the very architecture of his prison. He was the rat, and the maze was the cat, and it was enjoying the chase.
+
+. . .
+
+Hours of frantic, useless effort bled into a state of ragged despair. Dave was on his knees in the center of the five-way crossroad, his head bowed, his breath coming in ragged, painful gasps. He had tried everything. He had run until his legs burned and his lungs screamed for air. He had tried blasting the walls with unfocused bursts of Mana, only to have the energy fizzle uselessly against the inert stone. He had tried shouting Liling’s name, his voice swallowed by the suffocating silence.
+
+Every attempt, every surge of focused will and desperate intent, only seemed to tighten the labyrinth’s grip. The corridors actively mocked him, their geometry shifting in response to his struggle.
+
+He was the problem. He was the lock. And he was the key.
+
+He finally slumped against a wall, utterly defeated, the last of his energy spent. I can’t do it, his thought was a broken whisper, a thread of pure despair in our shared consciousness. I’m not fast enough. I’m not smart enough. I’m going to fail her.
+
+No, Liz projected, her own voice, for the first time, gentle and unwavering. She scurried from his shoulder and sat on the floor in front of him, looking up at his face. You are looking at the problem the wrong way. You are trying to break down the door. What if you just need to stop pushing?
+
+[Ana: She’s right, Dave,] my voice was calm and steady, reinforcing her point. [The maze resists intent. Your struggle, your desperate desire to get to her, is the very thing that is holding you back. The harder you try, the more impossible the path becomes.]
+
+He looked from Liz on the floor to the empty air where he perceived my voice. The logic was paradoxical, insane, but it resonated with a deep, fundamental truth he had discovered during his own cultivation lessons. The Qi had only flowed when he had stopped trying to command it.
+
+In a moment of quiet, desperate insight, he looked back at Liz, a new, fragile understanding in his eyes.
+
+Dial me down, he requested, his voice quiet but firm. All the way down.
+
+Liz and I were shocked. He was asking us to render him completely mindless, to abandon the very competence he was relying on. It was an act of absolute, terrifying trust.
+
+[Ana: Are you certain, Dave? At zero percent, you will have no conscious thought. You will be operating on pure, base instinct.]
+
+I know, he replied. And right now, my instincts are the only thing that aren’t getting in the way.
+
+There was no other option. It was a ludicrous, last-ditch gambit, but it was the only one we hadn’t tried.
+
+Do it, bestie, Liz said, her voice filled with a nervous resolve.
+
+I took the system equivalent of a deep breath and slid the Dave Dial all the way to 0%.
+
+The change was profound. It wasn't just a calming of his thoughts; it was a total cessation. The flicker of 30% competence, the undercurrent of panic, the desperate desire to save the princess—it all vanished, wiped clean. His eyes, which had been filled with a tortured exhaustion, went completely blank. They were the eyes of a beautiful, empty statue.
+
+He stood up, not with the grace of his higher-competence states, but with a slow, placid motion, like a sleepwalker. He was an empty vessel, a perfect automaton with no will of its own.
+
+And he began to walk.
+
+He didn't choose a path. He just moved, his feet carrying him forward. He came to the five-way crossroad. With no thought, no hesitation, no logic, he turned right.
+
+The effect was instantaneous. The oppressive, malevolent presence of the maze, which had been actively fighting against us, simply… disengaged. With no will to resist, the labyrinth offered no resistance. It became what it had always been: a simple series of corridors.
+
+He walked for what felt like minutes. His pace was slow, steady, and unhurried. He made three simple, unthinking turns.
+
+Right.
+
+Straight.
+
+Left.
+
+A wall of grey stone in front of him shimmered, the illusion of solid matter dissolving like mist in the morning sun. Light and sound flooded our senses.
+
+We stumbled out of the labyrinth and into a vast, circular chamber. The air was electric with the clash of energy, the acrid smell of ozone, and the high-pitched shriek of dying shadows.
+
+At the far end of the chamber, on a raised dais of black obsidian, two pills rested on a pedestal. One was a luminous white pearl radiating a soft, gentle light—the Yin Pill. Beside it, a jet-black sphere seemed to drink the light around it, pulsing with a deep, contained power—the Yang Pill.
+
+And in front of it stood Princess An Liling.
+
+Her jade-green robes were torn and stained with a dark, ichorous fluid. Her breath came in ragged gasps, her face pale with exhaustion. A thin trickle of blood ran from the corner of her mouth. She was holding a desperate, flickering barrier of pure, white light, a fragile shield against a churning, endless tide of shadowy, multi-limbed monsters that swarmed and clawed at her defenses.
+
+As we emerged, the barrier finally shattered. A dozen shadow creatures lunged at her.
+
+She turned her head, her eyes wide with shock and a final, desperate glimmer of hope as Dave, the bumbling wizard, the empty-minded fool, finally arrived.

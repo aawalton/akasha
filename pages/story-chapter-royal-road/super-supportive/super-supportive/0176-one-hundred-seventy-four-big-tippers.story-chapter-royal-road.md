@@ -1,0 +1,383 @@
+---
+id: a39ac97f-7f89-5b9a-95e5-ce7910b92733
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-FOUR: Big Tippers"
+slug: 0176-one-hundred-seventy-four-big-tippers
+partOf: super-supportive
+position: 176
+ownLength: 4546
+unit: words
+publishedAt: 2024-10-10
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1843176/one-hundred-seventy-four-big-tippers"
+royalRoadId: "1843176"
+---
+
+More wizards arrived over the next few minutes. Alden answered questions and accepted compliments while he showed off the spread.  Kabir was explaining the sweets.
+
+People circled the table, making approving comments about the fertility of the planet and the efforts of the ones who’d provided the food. A woman was taking pictures of each dish, and someone else was doing the same thing with the cards.
+
+“The shadow trees?” Alden said in reply to a man wearing a lime green auriad around his neck who’d just asked about the poetic intent of the candles. The shadowy branches on the ceiling were swaying in an unfelt breeze. “I think it’s likely that they were designed for beauty. For showing the way some trees look at the end of summer. But you would have to ask the Avowed who made them to know for sure.”
+
+Then that wizard moved on, and Alden was trying to explain the difference between lettuce and cabbage to the next one.
+
+“Drusi! Come see the Thanksgiving!”
+
+At the sound of Esh-erdi’s voice, Alden turned and saw a wizard with two large beige bags, one slung over each shoulder, approaching. That’s Drusi-otta?
+
+The votary did vaguely resemble her cousin. Her short braid was the exact same shade of brown anyway. Her outfit was also brown, and its relatively simple style—loose high-necked shirt and harem pants—might have made her seem drab in comparison to most of the wizards around them if not for the fact that she was heavily embroidered and jewelry-laden.
+
+Bracelets clacked and jingled at her wrists. Chains, beads, and cord hung around her neck. Stacks of rings shone on every finger.
+
+If she was an assassin, thought Alden, she wouldn’t have to use a spell. She could just backhand someone, and the weight of the jewelry would knock them out cold.
+
+He was pleased to put a face to a name. “Hello, Drusi-otta. I’m glad to meet you in person.”
+
+She whipped something out of a pants pocket and passed it over the table to him, one of her necklaces coming treacherously close to a bowl of venison goulash. “Hello. These are for your convenience. They work in the same manner as stickers.”
+
+Stickers?
+
+Drusi-otta had said that particular word in English, and Alden definitely knew what stickers were. So it was confusing to be handed a stack of half a dozen small paper packets with no image on them. He opened one and found it full of a nest of what looked like gray thread.
+
+“Thank you. But what are they?”
+
+“Quick embroidery,” she said.
+
+“Not as appropriate as doing it yourself by hand,” Esh-erdi added. “Or having a needlesinger do it. But good for when you’re in a hurry.”
+
+Instant commendation patches?
+
+Before he could worry too much about whether the votary had been judging him for walking around undecorated, Esh-erdi announced, “I’m hungry, and I think everyone has had enough time to gather.”
+
+“Alden,” Lind-otta said, “are there any human traditions that need to be observed with the eating of the meal?”
+
+He shook his head. “Everyone should have fun and eat whatever they like.”
+
+The next thing he knew, Esh-erdi was leaning over the table toward Natalie’s turkey. He ripped off a whole drumstick and presented it to his partner. She accepted it with a delicate-looking hand and a dignified nod, then turned to face the majority of the Artonans present.
+
+Everyone quieted down.
+
+Is she going to say something to them?
+
+Lind-otta bit into the drumstick like a wolf. Alden thought he heard the bone crack. Then the knight swallowed, smiled with juice dripping down her chin, and loudly announced, <<An old woman’s jaws are still good!>>
+
+The sentence was in some language or dialect Alden didn’t know. But he understood from the cheering and the eager rush toward the food that she had just officially rung the dinner bell.
+
+******
+
+“That one is blackberry cobbler. Heating it up and adding some ice cream would be customary…or you could mix it with the duck instead. Unusual choice, but probably fine.”
+
+Alden watched Porti-loth stuff the duck cobbler into his mouth. Sweet and savory is a thing, and he does look happy.
+
+It had been around an hour since Lind-otta went feral on the turkey leg, and now the situation was shifting from everyone eating dinner to everyone having fun in their preferred way. For some of the Artonans, that meant methodically tasting all the food that was left. Others were pulling out wands, potions, and auriads to make improvements to the cafeteria so that the meal could morph into what Alden suspected would be a debauched all-nighter with a loose Thanksgiving theme.
+
+He was content with the role he’d ended up with—food describer for the knights’ table. Porti-loth sat on his right, listening to Alden make suggestions and then ignoring them.
+
+The lady who sometimes took naps in the cafeteria was on his left, periodically asking him for his opinion on “human matters.” She’d lulled him into a false sense of security by wanting to know easy stuff at first. At what age had he learned to ride a bicycle? What purpose did fake fingernails serve? Hummingbirds—didn’t Anesidora need some of those to brighten the place up?
+
+Then she’d hit him with a question about how he would feel if the Triplanets demanded that the population of powerful Avowed be split into at least one more community on Earth so that they couldn’t all be taken out by a single disaster. Lind-otta had rescued Alden by changing the subject, and now the questioner was yawning while she picked just the peanuts out of some pad Thai.
+
+Roaming wizards stopped by the table frequently. Drusi-otta kept disappearing to take care of quick errands. Kabir had been sitting with them all, but now he was standing on top of a chair across the room, holding two bottles of champagne over the top of a tower of glasses he’d decided to build after Momo-neen and one of her friends asked about drinking traditions.
+
+Can that really be called a tradition? Alden watched as the golden wine bubbled and foamed, spilling its way down the tower of glasses.
+
+It was kind of cool anyway. He’d never seen anyone do it before. He’d also never seen a face quite like the one Momo-neen made when the waterfall ended and she tasted the drink for the first time. Her eyes widened, her forehead wrinkled, and her lips disappeared into her mouth like they were trying to escape.
+
+“It must be terrible!” Esh-erdi said, standing up. “I want some.”
+
+People had started singing. One very short wizard was volunteering a boomy rhythm for others to match while he danced around performing a blinding blue and green light show with a pair of wands. Alien hookahs were appearing. Lind-otta glanced at her cousin, and the votary nodded.
+
+Alden watched as she opened one of the bags she’d brought and started pulling out cases, bottles, and pouches. She left some on the table and then walked around the room distributing the rest. Everyone seemed very excited to have it.
+
+Better quality party potions?
+
+“None for you,” said Porti-loth, squinting at him.
+
+Or else I will force you to drink more mud, his face added.
+
+The sight of the potions did make Alden take an inventory of all the people in the room. Still no Ro-den.
+
+Zeridee wasn’t here either, but she had thanked him for inviting her. She’d said she was going to stay away since she wasn’t allowed to eat Earth food. He suspected it was half that, half whatever discomfort she might feel being surrounded by wizards when she was trying to make the class shift.
+
+Alden watched the party develop for a while longer. Esh-erdi was over at the buffet now, drinking his champagne while he studied the turkey carcass. Every bit of meat and skin had been devoured. The citrus wedges were gone, peel included. Other than the knights sharing the drumstick with each other, everyone had gotten just a tiny piece.
+
+Watching them all enjoy it had been a fascinating contrast with the scene Alden had witnessed at the girls’ apartment earlier. The Artonans had a lot more variety to their technique. Porti-loth had quietly held a piece in his mouth for five minutes, with his eyes closed and a smile on his face, before swallowing and diving into the rest of his meal like nothing had happened. The group Alden was beginning to suspect were big humanity geeks had let Momo-neen taste a tiny sliver of turkey. Then they’d consulted her and held a lengthy discussion before enacting a full Thanksgiving scene at their shared table while they consumed their own pieces.
+
+They ceremoniously carved one of the ducks and then passed a plate they’d filled with different breads around. Alden was sure they’d consulted a comedy he’d seen once as their source because they each slid something off of their own plate onto a distracted neighbor’s at every opportunity, which had been a gag in the movie.
+
+And then there were the wizards who just casually ate the turkey. Or those who laughed and laughed while they clung to their colleagues and shared kumquats.
+
+He concluded that the Artonans had much more experience with magical comestibles than the bunch of teenagers who’d gotten dazed and dumbstruck over the soup Natalie had made. They had preferences about how they enjoyed their enhanced food and, seemingly, the know-how to control their own reactions to it.
+
+I need to practice eating more, thought Alden. Increase my food appreciation level. It’s the obvious thing to do.
+
+Esh-erdi waved Drusi-otta over to join him and a dour-looking wizard with lines of tattoos running across the backs of his hands in their examination of the remaining turkey bones.
+
+What on Earth are they doing?
+
+His confused expression caught Lind-otta’s attention. “He’s consulting them because he wants to <<powder>> it without damaging the magic your friend performed on it.”
+
+“Powder it?”
+
+“For later. It’s a shame to let any of her artistry go to waste. Nobody will ever make it exactly the same way she did on this night. Not even her. That is the nature of the skill, and it is worthy of appreciating.”
+
+She was sitting sideways with her feet and back supported by spells that seemed similar in effect to the one Stuart had used to provide the two of them with cushions during Alden’s visit.
+
+“She’ll be happy everyone enjoyed it,” Alden said.
+
+Porti-loth had gone to try the champagne. It turned out it was a controversial beverage. Half of them liked it and the other half thought it was a crime against fruit. The booming light show guy was passing the healer a glass.
+
+“Are you happy, Alden?” Lind-otta asked.
+
+He looked back at her. “I’m pleased everyone liked the meal. I wanted it to be special for you all. I’m a little tired, though.”
+
+“Since Porti seems unwilling to let you have a wakefulness potion, I suppose I should encourage you to sleep.”
+
+“I feel like I should stay and help Kabir clean after all this.”
+
+She shook her head. “You’re underestimating the amount of cleaning…and overestimating that man’s chances of seeing the party’s conclusion.”
+
+She nodded pointedly toward the corner behind Alden, and he turned to see Kabir, his shirt unbuttoned, demonstrating a dance move that had been popular several years ago.
+
+“You might be right about that.”
+
+“Go sleep,” said Lind-otta. “It will be taken care of by others.”
+
+Alden winced at the sound of breaking glass.
+
+“That will be taken care of by others, too,” the knight said.
+
+“All right.” He rose from his seat. Just one thing left to do.
+
+It took him forever to fix a tray of food. Having left the knights’ table, he had become fair game for everyone else. And as the host of “the Thanksgiving” everyone wanted to make sure they said something to him.
+
+Wasn’t it just the other day when they were all acting like they were afraid to talk to me?
+
+He added a mooncake to the tray while a pair of wizards tried to hint something to him about how their young twins were absolutely fascinated by humans and they supported their cultural curiosity and what did Alden think of that?
+
+“I think that’s good,” he said, a cloud surrounding him as he pulled the top off the cooler that held the ice cream and dry ice. The wizards went away so happy, he worried for a second that he’d given his human stamp of approval to something he didn’t understand.
+
+They seemed nice, so I doubt whatever it was could be too out there.
+
+He selected a single serving carton of White Chocolate Pretzelmint, then headed for the elevator.
+
+He remembered Ro-den, just a few days ago, pressing all the buttons. Telling him he could have twenty floors and then nothing.
+
+“I suppose a conversation must be had since you insist on it…if you’ll tell me what things you would like me to apologize for…Take the easy road for a few decades, won’t you?”
+
+“I should spit in his food,” Alden said as he stepped out onto the hallway at the top floor of the residential section.
+
+He didn’t. He hadn’t even done what he’d planned to do when he first realized Ro-den wasn’t likely to show up, which was deliver a crumb of Natalie’s turkey and absolutely nothing else.
+
+He gets a whole smorgasbord. Matadero Thanksgiving isn’t about my issues with a single wizard. So…
+
+He’d even kept the turkey chunk preserved in his shirt pocket since he’d cut it off the bird. It would be hot and fresh.
+
+Now, where’s his room?
+
+Dropping preservation on the turkey and targeting Ro-den to find him was an option, but not an option he liked as much as just knocking on every door in the long hallway.
+
+He got started on the job. About halfway down, the sound of a door opening drew his attention. An Artonan was backing out of one of the rooms.
+
+On television, the wizard usually wore somber gray or brown, but tonight he was wearing a coat in a cheerful egg yolk color with gold embroidery, and matching jewelry pinned up his hair. So Alden’s first impression was of an alien he didn’t know, in high spirits and dressed up for the party.
+
+“Excuse me,” he said. “Can you tell me where Worli Ro-den’s room is?”
+
+It was only when they were a couple of paces apart and the sound of his own name was coming out of the man’s mouth that he realized who he’d just asked for directions.
+
+“Alden,” said the wizard, looking him up and down.
+
+“Ambassador Bash-nor.” Alden’s heart had stopped beating, but he was smiling. Because smiling was the default social nicety, and his face was stuck.
+
+What is he doing here? Is he supposed to be here? Am I supposed to say something about what happened or say nothing or call Drusi-otta to come punch him with her rings or—
+
+“How wonderful to meet you unexpectedly. I’ve wanted to apologize to you for the trouble you endured at my residence,” the ambassador said. “That must have been very frightening for you.”
+
+“I’m fine,” Alden replied automatically. “An apology isn’t necessary.”
+
+Yes it is. He’s the bastard who was so petty he didn’t talk to me about my evacuation status just because he didn’t want to have to say congratulations to a Rabbit. He thinks Alis-art’h commended me because she was focused on people like him.
+
+His shock at the encounter was fading. He tried to read the situation…and found he couldn’t.
+
+Bash-nor’s tone of voice was a mystery. It felt like it fell somewhere in between warmth and bored recitation, in a valley that Alden was unfamiliar with. Was it intentional? Careless? An Artonan vocal quirk he hadn’t encountered before that he was interpreting completely wrong?
+
+“No,” said Bash-nor. Two narrow strands of gray-brown-pink hair—a color that reminded Alden of earthworms—hung in front of his ears. “I must say I’m sorry. I blame myself for overestimating the ambassadorial assistant’s <<ability to prioritize>>.”
+
+The tone was still uncomfortably obscure, but at least the words themselves were clear enough.
+
+“Zeridee-und’h did well,” Alden replied. “It was the Avowed who were to blame. She fought bravely to protect me. She did her best.”
+
+Bash-nor’s smile was understandable, too. It was so patronizing that Alden’s hands tightened on the tray.
+
+“Such an <<innocent>> Ryeh-b’t, surrounded by monsters.” Bash-nor tilted his head. “If I <<scurried>> around on foot doing chores by hand that would take me moments with a spell…no. A better example. If I slapped an enemy who was trying to kill a child instead of using my full strength…”
+
+He lifted a hand, flared his fingers in and out rapidly, and a sharp metallic-looking thing appeared hovering over his palm. It looked like a crown made of icepicks. Alden was pretty sure it was a spell effect generated partially by his rings, but he couldn’t swear it wasn’t a solid object.
+
+“Would you still say I had fought bravely and done my best?”
+
+Alden’s eyes were fixed on the icepick crown. It disappeared suddenly and he blinked, refocusing on the ambassador’s face.
+
+“It doesn’t matter,” Bash-nor said dismissively, that hand flicking through the air as if he were shaking the spell off. “I’m only relieved you have survived our failings and our foolishness.”
+
+He looked at the food Alden was carrying and raised an eyebrow “For Ro-den?”
+
+“Yes.”
+
+Bash-nor kept one eye on the tray and pointed the other toward Alden’s face. “Loyalty and care are qualities that any wizard would appreciate in a servant. But don’t burn yourself out, as humans say, by giving those qualities to a <<type of fungus that’s only edible for a day>> like Ro-den. It doesn’t surprise me that he’s too lazy to get his own food. I had to come all the way here because he was too self-important to answer a message.”
+
+Does he expect me to reply to that? None of the replies in Alden’s mind right now felt safe considering Zeridee’s warning about Bash-nor’s nature.
+
+Intolerant of slights from people weaker than him. Be a normal Rabbit.
+
+“One of my friends asked me to make sure he tasted what she’d cooked.” Surely that was neutral enough.
+
+Bash-nor groaned. “He’s made such a <<spectacle>> since he arrived, hasn’t he? Unsurprising. He’s in the room I just left.”
+
+He gestured behind him.
+
+“Your little Thanksgiving idea is so <<charming>>. I suppose I shouldn’t complain about Ro-den sharing in it.” He smiled again. “Alden, you must come to one of my parties when all of this is over. You’ll love it!”
+
+“A party…um..”
+
+“All the rumors are true,” Bash-nor said in English, his tone finally shifting to one Alden fully recognized—a conspiratorial whisper.
+
+Alden shifted his weight, trying to think of something to make the interaction even slightly less awkward. Does he think every Avowed hears rumors about him the second we set foot on Anesidora?
+
+“Unfortunately, I’m a busy person right now,” the ambassador said. “Have a good night.”
+
+“You too.”
+
+Leeeeave. You’re scary, confusing, and cringey at the same time. Why do so many people like hanging out at your house?
+
+Bash-nor started to step past him then stopped. Alden’s muscles, already tense, stiffened even more. High on his bicep, his auriad tightened so much it felt like a tourniquet.
+
+“There’s no way to unmake the terrible experience you had, but here. Buy yourself something to warm your mood.”
+
+He walked on.
+
+Alden stood still, facing the end of the hall. When he heard the elevator doors opening, he slowly turned to see Bash-nor—hair-jewels winking in the light—stepping into the car. He didn’t glance back to see Alden. His smile was gone, his expression distant and irritated.
+
+As if Alden had vanished from importance just that fast.
+
+When Bash-nor was finally gone, he made himself take a slow breath. Then he took in the System notification for another second before banishing it.
+
+[Argold Received: 300,000]
+
+******
+
+“Back already, Bash? I can’t wait to hear what magnificent thing you’ve found in the past few breaths that might tempt a more potent wizard to follow your <<whims>> like a—”
+
+“I brought you food,” Alden interrupted in a neutral voice the second the door opened a crack. “My friends wanted me to thank you for helping with the Bunker Street problem.”
+
+“No,” said Worli Ro-den.
+
+Alden stuck his sneaker in the crack just in time to prevent the door from shutting.  Then he blew on the piece of turkey he’d dropped on top of the savory food plate before knocking.
+
+The smell was enough to make his own mouth water even if he should have been used to it by now.
+
+Ro-den’s tattoos creased as a surprised look crossed his face.
+
+“Are you sure you don’t want it?” Alden asked. “Because there are many people downstairs who will be grateful if I arrive with another piece. They’re trying to grind the bones now.”
+
+He waited, staring at Ro-den’s tattooed forehead. If he said no again, that was fine by Alden. He’d made the offer and even provided a free sniff.
+
+“Set it down on the table.” The door swung, and Ro-den stepped aside to let him through.
+
+Just drop it off. No chatting.
+
+Alden was determined to avoid eye contact, not that it was hard when the room was full of so much else to see.
+
+Despite the professor whining about the size of the place, it was twice as big as Alden’s room in the hospital. There was even an area that had probably held a sofa and other seating originally. But it felt cramped because Ro-den had absolutely filled the whole space with supplies and work.
+
+Even the closet—it was missing its door, and it had been stuffed with cabinetry that the professor must have traveled with. There was a section that looked like an old school, library card catalog with tiny windows set in the faces of the drawers. Alden saw motion behind more than one of them.
+
+Ro-den seemed to be sleeping under a mountain of his clothes. Two of the smart boards from his LeafSong office were behind the largest work surface, which Alden assumed was the table he was supposed to leave the food on. A giant ball made of bright blue tubing was there with a pair of glowing wands sticking out of it, like an abstract commentary on yarn and knitting needles.
+
+He set the tray beside the tubing ball, careful not to touch anything.
+
+“The turkey is traditional for Thanksgiving,” he said, still carefully neutral. “A Ryeh-b’t named Natalie Choir made it. She has a skill called ‘Cook of the Moment’. She and Emilija Navickaitė and Hadiza…”
+
+He trailed off as a large bug buzzed past his ear and down, landing on the corner of the tray. Sand colored, dark markings on its wings, whitish patches where the bulbous eyes would have been on a…
+
+Grasshopper.
+
+A tattooed hand closed over it.
+
+“You have those here with you,” Alden said.
+
+Ro-den had his hand cupped to his chest. Alden could hear the sound of the bug’s wings beating. “I always have a few around.”
+
+“That’s nice.”
+
+“They bother you?”
+
+“No. Why would they bother me?” Alden cleared his throat and tore his eyes away from the hand with the Thegundese grasshopper in it. Where was I?
+
+“They—my friends—had trouble on Bunker Street, and they saw you on the news, catching the people who threatened them. So. They say thank you. That’s all. Enjoy your meal.”
+
+He strode for the door, remembering something halfway there. “I almost forgot. Your ring is in my room. I’ll go get it.”
+
+Then our sharp break will really be done. He hadn’t been wearing it since their last conversation anyway.
+
+“Keep it,” said Ro-den from behind him.
+
+“I don’t want it.”
+
+“Then sell it. Or give it away.”
+
+Two big tippers in one night.
+
+He could fuck around with the enchantment on the ring for practice if nothing else. And it was easier not to stand here arguing over its ownership.
+
+“I hope you like the food. Bye, Ro-den.”
+
+******
+
+That night, he dreamed the lost-Kibby dream again, only with a side of normal grasshoppers mixed in among their demonified brethren. One of the live bugs kept eating the demons, growing larger every time. Eventually, the absurdity of a horse-sized grasshopper bouncing after him ruined the horror element of the nightmare and woke him up.
+
+Sweaty sheets are such a fucking travesty, he thought, throwing them off. They completely ruin your chances of conking out again.
+
+“Thanksgiving ended up so weird,” he told the empty room. It was now officially the day after.
+
+I could go online and see what people are saying about Matadero Thanksgiving. He discarded that terrible idea as soon as he had it.
+
+I could look up that little shit Winston and see if he’s apologized like I told him—
+
+He stomped that one out of existence, too. Yesterday had been so high drama.
+
+All I wanted when I woke up was simple stuff.
+
+Today he had gym. He could possibly go to convo class with Kelly the grad student as well, but maybe he’d give his fame time to cool off instead. That would be a smart thing to do.
+
+Who am I kidding? I just want to play with my earring for as long as I can. And…
+
+He rolled out of bed and put on his sweat pants, his complimentary hospital socks with the grippy bottoms, and a plain blue t-shirt. Then he sent a text to Boe and Jeremy informing them that Matadero was compatible with loungewear.
+
+They wouldn’t be awake yet, especially on a Friday off from school, but he looked forward to doubling down on the claim when they called him later.
+
+He went to the cafeteria.
+
+“They did clean,” he said, thrilled at the sight of a spotless room. “And…they re-floored it.”
+
+Some people might find sod flooring in the middle of a building impractical. Those people had no sense of adventure. Alden was betting that the tree candles and drugs and the camaraderie of celebrants had somehow made this all seem like The Thing to Do at the end of the night.
+
+He strolled across the blackish green grass, and when he reached the kitchen he found it just as clean and grassy.
+
+Cool.
+
+It took him a while to find everything, but it was all still there.
+
+Fresh lima beans, ears of corn, a specific variety of sweet onion.
+
+“System,” he said, as he looked at it all spread out on one of the counters. “Is it okay if I film a cooking video in here?”
+
+[Yes.]
+
+“Thanks.”
+
+He set up his tablet. The place where he positioned it was only marginally important, since the Artonan device could do multi-angle filming.
+
+“Hi, Kibby!” he said, holding up a tomato. “This is an Earth plant. I’ve got a recipe from my grandmother, and I’m going to cook it for first meal. It's called succotash.”
+
+******
+
+******

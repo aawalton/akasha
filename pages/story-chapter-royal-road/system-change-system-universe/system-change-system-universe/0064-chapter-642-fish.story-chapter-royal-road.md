@@ -1,0 +1,101 @@
+---
+id: da094b49-1670-5583-bbfb-d90a4948e6be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 642: Fish..."
+slug: 0064-chapter-642-fish
+partOf: system-change-system-universe
+position: 64
+ownLength: 2073
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3302683/chapter-642-fish"
+royalRoadId: "3302683"
+---
+
+Chapter 642: Fish...
+
+Meanwhile, as Derek and Nikolai walked away to take their battle elsewhere, Marrick watched their figures disappear. Out of everyone, the old elf figured that he was the only person who was still in the mindset where he wasn't exactly fearful of dying. He'd given in and accepted it long ago—even if he had just recently been given a new lease on life.
+
+Still, he had a job to do, and he had a fight to look forward to. Besides, they'd planned for this, and after hearing the levels of those they would be facing, he certainly wouldn't categorize it as insurmountable odds. On top of that, as long as he could keep the idiot alive long enough for his Battlelust to peak, he felt that the two in front of them wouldn't be too much of a problem.
+
+Now, the high-level guy that Derek went off with would be different. If he came back and Derek didn't, then Marrick doubted they'd be able to do much. As long as we don't rush things and do it right, we should be able...
+
+"Alright, you fish fuck, let's see what you got!" Suddenly, Jace charged forward with both blades drawn and rushed at the man who was said to be around level 300.
+
+"Jace! Stop!" Marrick heard Amelia shout, but the woman was too late.
+
+Nobody was expecting Jace to rush in like that, but they honestly should have been. The battle idiot had a menacing smile and a crazy look in his eyes. Marrick clicked his tongue, then shot forward as well. However, before he was able to get anywhere near Jace, a bolt of steaming water formed in front of Herring and shot through Jace—ripping his crappy leather armor and his sternum to shreds and continuing on.
+
+Jace flew backward with a trail of blood following the whole way. Marrick quickly formed a cushion of sand to catch the man, then moved to his side. When he arrived, Jace coughed a mouthful of blood out as he took a health potion. It seemed that Jace shifted his body just enough to cause the water bolt to miss his heart, and the wound started to slowly heal.
+
+As the wound healed, Jace slowly climbed to his feet—blood still rolling down his armor and dripping onto the ground. His eyes were bloodshot, and his teeth were crimson from blood. But he still wore a smile on his face. Still... he had both of his blades and hadn't even let them go while flying through the air.
+
+Jace looked at the man who'd nearly grievously injured him, then said, "I've seen minnows that hit harder than that." He spat more blood into the dirt, and his smile turned even more vicious. He looked at Marrick and whispered, "Nothing like a jump start to my Battlelust."
+
+"Idiot," Marrick said... then all hell broke loose. Multiple bolts of water appeared in front of Herring and fired out at extreme speeds. Marrick raised his sand to protect everyone and was successful for the most part. As the bolts hit the sand, instead of going through, it absorbed the majority of them. Still, Herring was more powerful than Marrick, so some got through.
+
+Then, Amelia acted. She actually tanked a couple of bolts while focusing on sending other ones back—not at Herring, but at Davis. Realizing that Amelia had some way to counter his attack—if only by a little—Herring stopped firing and took a step back. Then, he shot a few bolts and intercepted the ones flying at his charge.
+
+"Sir Grimshaw," Herring spoke. "You must move away from this battle. It seems we are dealing with a group of abnormal system users."
+
+Davis nodded seriously, then backed away before turning to run.
+
+"I don't think so!" a shout sounded out, and a pair of lightning wings formed on Edgar's back as he took to the sky. Behind him, Alex audibly gulped, then jumped into the air to balance on one of his strings.
+
+"Like I would let you..." Herring said as he formed more water bolts and aimed at the two, but that small distraction was enough for sand to form around his feet, followed by a red blur crashing into him—causing the bolts to disappear.
+
+"Thanks, Amelia!" Edgar shouted as he blasted off over everyone's heads and rushed in the direction that Davis had fled. Alex was quite a bit slower than he was. The young man paused for just a moment to look down at Herring, Jace, Amelia, and Marrick, then took off behind Edgar.
+
+***
+
+Herring didn't have to tell Davis to run twice. When his personal guard told him something, he did it. Nikolai was a hired mercenary, but Herring had been with him for a very long time, and he trusted the man. In fact, Davis was ticked off when Nikolai went off with the mysterious man to fight. He felt that the guard his parents hired should have been able to wipe their entire team out with a flick of his wrist, but he didn't.
+
+If he'd known this was going to be the situation, he might not have openly said what he did. He would have found that good-for-nothing Alexander Loomis and taken care of him in the night. He should have done that, anyway. But he guessed his father was right. Davis was too impulsive for his own good. But Herring shouldn't have any problems with those five, right? He already took care of the weird bald one with the creepy smile.
+
+As he was thinking this while running, the hairs on the back of his neck stood up, and he rolled to the side, only to see a bolt of lightning crash to the ground where he had previously stood. Davis's eyes went wide as he looked at the disruption of the dirt and ground, then up into the air to see the silver-haired man with glistening armor now glowing with inscribed blue patterns.
+
+He's fast! Davis thought as the man floated above him. Davis wasn't a slouch when it came to running away, but, of course, he wasn't quicker on foot than a lightning user was in the air. And how did he get past Herring? The young man gulped as he stared up at the figure. Just my luck to be chased by a lightning user from Stormveil during the day.
+
+"Dammit!" Davis shouted. Herring has to hurry up, he thought. Then he looked up, threw his hands in the air, and yelled, "Blackout!" Suddenly, a dome of darkness the size of a football field appeared with him in the center.
+
+Edgar floated above Davis after the young man dodged the lightning bolt he had cast at him. He didn't make a move because Alex was still on the way, and—even though he wanted to go directly in and fight—they weren't in a situation where everyone could act like Jace. He needed to be careful and cautious.
+
+After staring at Edgar for a few moments, the young man threw his hands up, screamed something, and then a dark dome surrounded him. Is that like the shadow dome that Vanessa uses? Edgar wondered. He wanted to rush in like he had when Torith and Vanessa had his brother, but he wasn't going to change his plan from playing it safe.
+
+What he did do, however, was test the waters. He held his sword out, then concentrated his lightning into a single point and fired off a beam at the center of the dome. When the concentrated lightning hit the darkness, the darkness scattered. However, as soon as the lightning disappeared, the darkness rebuilt itself. One worrying thing that Edgar saw as the lightning sliced through the darkness was the inside of the dome.
+
+It wasn't just a shadow dome keeping people out. No, there would be no destroying the outside to get in, then fighting inside. The dome was solid—pure darkness. There was no defensive barrier at all. It was very inviting. Edgar figured that he could walk up to it, then take another step, and just go inside without any problems.
+
+"The one time I need Blitz with me to bombard the darkness while I fight... and he's inside Derek's space sleeping. I should have let him out to play the last time Derek asked me," Edgar muttered to himself as he caught movement behind him in the air and saw Alex running toward him on what he could only assume were the threads that he said he used.
+
+"He's... scared," Alex instantly said as soon as he arrived next to Edgar.
+
+"What? What do you mean?" Edgar asked.
+
+"That dome... it's solid darkness, right?" Alex asked.
+
+"I'm almost certain of it," Edgar replied.
+
+"Then... he's hiding," Alex said. "There's no way that we're stupid enough to go inside and fight with our main senses muffled. We wouldn't be able to see a thing inside, while he can move normally. That kind of darkness also messes with your other senses as well. Unless you're a pure light user or don't need to use your eyes, it would be suicide to go in there."
+
+"I understand that, but why would you say he's scared?"
+
+"Because... look how big it is. It's not like it's a domain. That thing must take a terrifying amount of mana to keep active. He's trapped himself inside. He is either hoping that we are dumb enough to enter and fight blind, or he's trying to buy time for his escorts to come help. Either way, he's not fighting back, and he can't run anymore. Once the dome disappears, he'll be a sitting duck," Alex explained.
+
+"Dammit!" Edgar clicked his tongue. "Why do I keep getting the short end of the stick here? First, it ends up basically being a desert planet with nothing but stone, earth, and sand monsters, now I chase someone who isn't going to do anything but hide? I should have stayed back and fought the water user—at least lightning is effective against water. I could have at least helped a little. Should have sent Jace here. He'd already be inside fighting that bastard."
+
+"Jace..." Alex muttered. "Do you think he's okay? That wound didn't look good."
+
+"That guy? He'll be fine. He's probably already healed up and getting his ass kicked again," Edgar answered.
+
+***
+
+Jace lay on the ground for the third time. He was in so much pain that it hurt to laugh. Still, he couldn't help but chuckle as he looked at his Battlelust meter. He had to build it fast, or Derek would be back, and he wouldn't get to have any real fun with the enemy before him. So, the only way to do that was to take some even riskier chances than usual. But in the short time they'd been fighting, he already had a quarter of his Battlelust, which meant that the slow use of potions was beginning not to matter.
+
+His regeneration was enough that the wounds were closing relatively quickly. Though he clicked his tongue as he looked up from the flat of his back, and saw Amelia and Marrick fighting the fish man. He still didn't quite understand Amelia's affinity, but he was beginning to get an idea.
+
+The giant of a woman was acting as support for the old elf. It seemed like Herring's go-to ability was the water bullets that he kept hitting Jace with. Some came out as ice, some came out as steam, but they were all deadly. However, any time they got close to Marrick or Amelia, the giant red woman was able to push them away just enough to miss.
+
+Then, Marrick would go in with his sand and sling it around. He shot earth spikes, covered parts of the man's body in sand, and tried to grind him down, and everything. But the fish man's durability was insane. Once, when Marrick thought he'd gotten lucky and covered the man's face in sand, the man broke free, and his face was almost perfectly fine—it looked much better than that time Jace was ground down.
+
+Jace coughed up blood one last time, then pushed himself to his feet. He could feel it now. He wasn't at the other two's level yet, but he wouldn't be staring up from the flat of his back any longer. He would be able to contribute.

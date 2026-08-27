@@ -1,0 +1,113 @@
+---
+id: ed01f00d-5e51-5deb-8eda-010d45dacab1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 404 : Crowned"
+slug: 0106-chapter-404-crowned
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 106
+ownLength: 2232
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3687653/chapter-404-crowned"
+royalRoadId: "3687653"
+---
+
+As I continued wandering the halls while tracing my path with [Map], I couldn't help but wonder when I would ever find something to interact with, ignoring the crude traps, of course. The reason I didn't start blindly tearing open apertures into new passageways wasn't just because I was trying to be polite or on my best behavior; I was actually on the lookout for a breach large enough to reach a lower chamber, which I suspected this labyrinth held.
+
+Sadly, things weren't exactly going to plan, but at least thanks to [Map] I wasn't lost and retracing my steps. Each path was brand new, despite it looking effectively identical, and I felt like if I brute-forced it enough, I'd eventually reach my destination.
+
+While this was going on, I was passing the time by sending messages to my personas for updates and occasionally tinkering with magic. Usually, I would have jumped at the opportunity to make some good progress with magic, but I found it hard to concentrate while traversing the maze. It certainly didn't help that I was also highly anticipating the potential black slime encounter.
+
+Maybe Sylvester noticed my growing annoyance as he suddenly had a message for me from Keldenar. He told me that if I wanted to find a black slime, I should act the part of an overconfident mage and be sure to throw around lots of magic without a care in the world. The more powerful and effortless I killed things with magic, the more likely I was to run into a black slime.
+
+I guess the labyrinth uses them as ambush assassins against spellcasters? That's rather nasty…
+
+It made sense in my mind, as with the three classes, there seemed to be a sort of equilibrium, or rock-paper-scissors, as Vee would put it. You would use a mage to beat a warrior, a warrior to beat a rogue, and a rogue to beat a mage. Obviously, there were exceptions; those spellbreaker or mirror knights that I'd fought were proof of that, but agile assassins had repeatedly been a thorn in my magical side.
+
+There was a part two to the message, although it only further soured my mood. Apparently, Keldenar was flabbergasted by how unlucky I was to keep picking the wrong paths and was joking about it with Sylvester. He even suggested picking a path and then choosing the exact opposite to actually walk down.
+
+Jerk… Maybe I will make a maze in my dungeon, just for you. I can have the paths constantly shift and change with slime.
+
+I still followed his first advice, or I would have if I had found any monsters to use magic on. Still, it was easy enough to add more magic to my current appearance. Rather than relying on my [Darksight], I used [Lantern] to illuminate my surroundings, and I was preparing to start using apertures soon if my latest path also led to nowhere.
+
+"Another dead end…" I grumbled.
+
+I consulted my [Map] and then began feeling around with [Personal Rift], cross-referencing the tunnels I had explored with what I could reach. When I finally found an unexplored tunnel that wasn't currently on my display, I promptly tore open the space and stepped through.
+
+[Map] was quickly updated, and by estimating the path, I could roughly deduce where this would have linked up. Rather than heading back to one of my junctions, I followed along the unexplored path while still feeling around as much as possible.
+
+I repeated this process several times, creating an absolute monstrosity in my [Map] with plenty of broken routes, but on the positive side, I was at least moving in one direction. If I pissed off the owner of this place, so be it; it was their fault for creating this twisting maze in the first place.
+
+"Oh!? Is that a room?" I yelled out with joy, finally feeling something in the distance that was larger than a tunnel.
+
+I didn't jump in immediately; instead, I cast a few spells to prepare myself for what I hoped was a battle. I cast several buff spells like [Aegis], [Glacial Aura], and even [Infernal Crown], making me well prepared for battle. Sadly, while [Dimension Magic] was far better, it wasn't nearly as flashy as the things I could pull off with [Elemental Praxis].
+
+Speaking of which… I wonder if my personas worked on any alternative versions of [Infernal Crown]? Let's see…
+
+It was an idea I had thought of when I reached level eight in [Basic Elemental Magic], but I hadn't pursued it. After all, when you have so much magic at your fingertips, it can be hard to decide what to do, especially if something more complex and interesting happens to come along.
+
+I copied over the knowledge from [Split Personality], which had become a lot easier to do thanks to its recent improvements. I could almost effortlessly sift through the knowledge or memories they had obtained and selectively pick what I wanted. For my own safety, I always avoided memories; not only did I not want to be corrupted by this double-edged skill, but I certainly didn't want to experience their lives.
+
+Even thinking about Sylvain gives me chills…
+
+I shuddered, happily skipping the memories, and began pulling in some spell knowledge. It seemed I was right, and just like Sylvester had been experimenting with [Ice Magic], my other personas had also been busy. Sylvain had found [Aqua Crown] and [Tempest Crown], while Sylbera had found [Volcanic Crown].
+
+Sylvester, where's the [Glacial Crown]? Have you been slacking on the job?
+
+While chuckling at my own joke, I found that he had not pursued that path, as he thought he wasn't exactly combat-focused. That was why he had made [Permafrost], and between that and enchanting, his own frosty crown was the last thing on his mind. With his switch to golems, it was probably for the better.
+
+If Sylvester isn't going to be my Cryomancer anymore… Let's give that to Sylvain, since there won't be any overlap anymore.
+
+I left him a note saying he was free to pursue [Ice Magic] if he wished, then checked on Sylthaeryn's progress. Sadly, there were no crowns here either, which was sort of to be expected. A plant crown would probably be rather weird, and instead, she had been looking into grafting and controlled pollination with plants, most likely at Vee's request.
+
+Well, that's three more crowns to add to my collection. Let's try them out.
+
+I cast the newly copied spells and officially unlocked them. None of these were new discoveries, so none of my personas had received much experience for reproducing them. In fact, after receiving the official versions, they had corrected their mistakes in the design.
+
+I now had four magical crowns floating above my head, and combined with my already large hat, it looked quite odd, with each crown stacking atop the previous like a weird floating tower of headwear. As ridiculous as it looked, I felt quite powerful, and I wondered how feasible it would be to make a dimensional crown, not to mention the corrosive crown for Vee.
+
+I could have fourteen crowns if I went all out, fifteen if there happens to be a healing crown! It would look absurd, but imagine the power!
+
+Finally feeling ready, I tore open space and stepped through, and to my delight, it was indeed a room and one actually occupied by monsters!
+
+The room was divided into two parts, with an ancient barricade between them. The monsters appeared to be trying to pass through it, which meant they had their backs to me when I arrived. If I had taken the normal route to this room, I would have probably ended up on the other side of the wall and had it as a defensive position against the monsters.
+
+Not that I need it.
+
+The monsters themselves looked like demons, or more accurately, like creatures or people that had been twisted into demons. One looked like a deformed orc, while another appeared vaguely to be a human. There were also twisted animals, and all of them were striking against the barricade.
+
+I wanted to cackle with delight, but instead I simply raised a hand and began unleashing my magical barrage. The four crowns atop my head began glowing, and each began casting its respective spells.
+
+The two burning crowns shot out [Fireball] and [Magmaball] respectively, the latter of which was a big upgrade compared to its purely fire counterpart. When it struck one of the demonic creatures, not only did it explode into a fiery blast, but it also scattered molten rock across the area.
+
+The other two crowns didn't shoot out a ball spell; in fact, both were entirely different, with [Tempest Crown] shooting out blades of wind, while [Aqua Crown] appeared capable of firing its own degraded version of [Waterjet]. Even degraded, it was a shock to see such a powerful spell fired so effortlessly, even if it was from a basic element, and I realized that Sylvian must have put a lot of time and effort into this crown.
+
+The unsuspecting monsters stood no chance, and while they appeared to be somewhat resistant to magic thanks to their demonic corruption, it wasn't enough for the sheer onslaught I was capable of launching. The demon orc was the toughest of the bunch, able to shrug off even the exploding [Magmaball] without any issue, until I cast [Rift Rend], my most dazzling spell from [Dimension Magic], and cut him down the middle.
+
+My actions actually left a deep cut into the ancient barricade, which I could only wince at and silently apologize to the labyrinth for committing. I wasn't sure whether the demonized monsters were constantly attacking the barricade even when there were no challengers, or only when there were. If so, it had stood the test of time until I accidentally stumbled upon it.
+
+Hopefully, I don't get blamed. But at the very least, I hope to put on a good show of my magical capabilities.
+
+Three of the four crowns had begun to disperse now, with only the fire one remaining. It appeared that the three newly made crowns were highly effective but relatively short-lasting. Of course, for us with our glorious [Mana Slime] reserves, it was only a matter of casting it again.
+
+I wanted to collect my spoils, even if I assumed it would just be a template applied to existing profiles I had eaten. Unfortunately, I found that the demonized monsters left no corpses, and I even caught a glimpse of the orc's two halves burning up into a black mist.
+
+I'll have to try eating one alive to see if I can get a profile or not. Although I don't want to reveal that I'm a slime… Should I just throw them into my rift? If the rift slime eats them, that's certainly not me, right?
+
+I wasn't sure, and part of me thought I shouldn't take the chance. The black slime core was far more important than these demonic creatures, unless it happened to be something I had never eaten before. Speaking of which, even though I didn't currently have [Identify], I could still glean some information from the defeat notifications.
+
+All of them had "Demonized" as a prefix to their race: Demonized Human, Demonized Orc, Demonized Wolf, and so forth. While I could easily overlook the monsters, the humans certainly had me scratching my head.
+
+I thought dungeons couldn't summon humans, or does that not apply to labyrinths? Or… were these humans that were demonized while exploring and kept around as pets? Am I going to find demonized adventurers deeper in the labyrinth?
+
+It was certainly an eerie situation to think about. Could I become demonized? What about my personas? I tried searching the room for clues, even teleporting to the other side of the barrier, but all I found was ominous warnings about letting the abyss escape.
+
+I glanced at the cut I had left in the barricade before awkwardly averting my gaze. If there were any real meaning to this labyrinth and it was genuinely sealing some great catastrophe, then I might have made a bit of a blunder. I eventually shrugged it off, fully believing this was all just part of the theme of this place, designed to unsettle and test the mettle of the brave adventurers.
+
+"Damn, those demons didn't even give me enough experience to level up," I said, clicking my tongue in annoyance. "No loot either… Hopefully, the next room has something for me."
+
+I didn't have to try too hard for my acting; I was, in fact, a little upset that I hadn't leveled up. Riftmancer was only a short few levels away from twenty, which would hopefully be another juicy milestone skill, and perhaps even another piece of my [Dimensional Praxis] puzzle.
+
+I sighed, shaking my head before teleporting back to behind the barrier. Now that I had shown off a little and found what I presumed was the right way, I no longer needed to continuously tear open apertures around the maze.
+
+I cast [Lantern] again and confidently strode deeper into the labyrinth. While my outer appearance was solemn with a mix of annoyance, my inner voice was chanting "ambush, ambush, come on ambush," as if hoping to wish it into existence.

@@ -1,0 +1,137 @@
+---
+id: f6d970ad-0bde-5f9d-81da-3384a0bb81bf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93: The Five Pledges"
+slug: 0094-chapter-93-the-five-pledges
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 94
+ownLength: 1966
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3720488/chapter-93-the-five-pledges"
+royalRoadId: "3720488"
+---
+
+Sylas stood at the edge of the estate grounds. The coastal wind pulled at the hem of his dark coat. Beside him, Mira hugged her arms across her chest to ward off the chill. Kaelthos waited a few paces ahead, his hand resting casually on the pommel of his sword.
+
+None of them understood the current operational directive.
+
+Ren had issued strict, highly unusual instructions earlier that evening. He ordered them to meet him in the middle of the night near the tree line. The parameters were explicit: make absolutely certain no one followed them. If they suspected a spy tailing them, they were to maintain a casual demeanor, mimicking a simple late-night stroll.
+
+They reached the designated rendezvous point to find Ren already waiting. Caladorel stood beside him, leaning heavily on his ironwood cane.
+
+What truly baffled Mira was the bundle resting against Ren's chest. He was holding the Little Lady in his arms.
+
+Mira bit the inside of her cheek. Bringing the child out into the damp night air way past her bedtime violated every childcare schedule she had meticulously established. Massive yawns escaped Lily every few seconds. She rubbed her sleepy eyes with a chubby fist.
+
+Ren had explicitly forbidden Mira from putting Lily in the nursery tonight.
+
+Kaelthos narrowed his eyes at the tree line, scanning the darkness. A midnight meeting with the Archmage suggested a tactical briefing. Bringing a toddler to a war council made zero sense.
+
+Ren offered no explanation. He turned on his heel and walked toward the deep forest bordering the back of the property.
+
+"Don't worry about spies," Ren whispered over his shoulder. "The spirits won't let any rats enter these woods. An infiltrator won't make it fifty yards with their shoelaces tied together or glowing bugs buzzing directly into their eyes."
+
+The group began their trek into the ancient timber. Ren led the way. The three retainers fell into a tight defensive formation around him. Caladorel wobbled along on his walking stick at the rear.
+
+The old man walked with a much brisker pace lately. Ren and I surmised this resulted directly from the biological level cap shattering due to Lily's passive presence. The ambient mana she generated was literally winding back his biological clock.
+
+It was a terrifying variable. The foremost magus of the nation, a walking natural disaster, was actively regaining his youth.
+
+The three retainers slowed their steps, reacting to the magical phenomena occurring around them. The ancient oaks physically groaned, bending their massive trunks out of the way to create a clear path. Thick, thorny vines slithered away from their boots like retreating snakes. The path seamlessly closed shut behind them as soon as Caladorel passed, leaving a solid wall of impenetrable vegetation.
+
+This was a stark contrast to navigating the woods by regular means. Usually, a man required a heavy machete and hours of backbreaking labor to hack through the undergrowth. Here, the forest actively welcomed its lord into its core.
+
+They arrived at the large clearing where the primal spirit resided.
+
+Leafy roused from her slumber high in the canopy. She bypassed the tiny, doll-sized form she usually took to play with Lily. She manifested entirely in her real form. She dropped from the branches as a figure of condensed green light and shifting leaves, standing easily a foot tall.
+
+Kaelthos grunted, his knees buckling under the sheer atmospheric pressure. He dropped to one knee at the sight of a primal spirit. Mira and Sylas followed suit immediately.
+
+Leafy hovered over to Ren. She crossed her glowing arms over her chest. "So. You have finally decided to do the smart thing. Hand the little one over to me. Now give her here, where she belongs."
+
+She unfolded her arms. She held out her hands in a demanding posture, her glowing palms facing Ren.
+
+Ren didn't flinch. He swiftly reached out and landed a solid flick against the baby size spirit's glowing forehead.
+
+Thwack.
+
+The impact made the baby size spirit shimmer. She stuttered slightly in the air, losing an inch of altitude.
+
+"You can play with her later," Ren said, his voice flat. "I am here for work."
+
+The action made Lily giggle loudly. She found her Papa hitting the green lady hilarious.
+
+The spirit grumbled a sound like grinding stones. She shrank down, pulling her mass into her small, doll-like form. She darted forward and immediately sat right on top of Lily's head, completely ignoring Ren's instructions to wait.
+
+The attendants stared. They instantly recognized this smaller form as the glowing bug that constantly hovered around the Lady during the day.
+
+Ren let out a deep breath. He turned to face his staff.
+
+"What I am about to show you is top secret," Ren said. He dropped his voice into a commanding register. "It concerns the prosperity of the elven race as a whole. The wider implications will be explained by Caladorel. He will answer your questions."
+
+Ren reached toward the silver pendant tucked into Lily's onesie.
+
+This action surprised Mira. The little lady vehemently rejected anyone touching the necklace, usually breaking into a torrential storm of tears followed by hours of angry pouting. Lily simply watched Ren's hands, entirely calm.
+
+Ren lifted the pendant, unhooking the heavy silver clasp, and pulled it away from her neck.
+
+The change hit them instantly.
+
+The air pressure in the clearing dropped. A wave of ancient mana exploded outward from the toddler, washing over the adults like a physical tidal wave.
+
+Lily’s rounded, human-looking ears elongated. They stretched into elegant, sharply pointed tips. Her silver hair caught the moonlight, glowing with a soft luminescence.
+
+The spirits in the clearing reacted. Leafy let out a sharp, commanding chirp. Hundreds of lesser spirits—wisps of fire, water, and wind—erupted from the trees. They flew in frantic, tight circles around the clearing, creating a swirling vortex of elemental magic specifically designed to mask the massive surge of aura radiating from the child.
+
+Sylas sucked in a sharp breath. Mira stumbled back a step. They recognized this feeling. They had experienced a brief, muffled echo of this exact sensation on the first day of their arrival to the Lord's service. This was the raw, unfiltered presence.
+
+Kaelthos caught himself on his hands. His warrior instincts screamed at him to submit. His head bowed toward the dirt. Even Caladorel, who had suspected the truth, swayed on his feet, experiencing the unsuppressed aura in an open space for the very first time.
+
+The attendants stared at the physical changes. They felt the pressure bearing down on their souls. This was no half-elf. Lily's blood demanded absolute obedience.
+
+Ren quickly snapped the pendant back around her neck. The crushing aura vanished as if someone had slammed a heavy vault door shut. The pointed ears shrank back down into soft, rounded nubs.
+
+Leafy hovered down from the canopy, giving Ren an annoyed pout. "A warning next time. The little one cannot control her aura yet. It is deafening."
+
+Caladorel stepped forward. He leaned heavily on his cane, his milky eyes burning with a fierce academic light.
+
+"The records from the First Era are fragmented," Caladorel began, his voice trembling slightly in the quiet clearing. "The human kingdoms spent centuries burning every text, every scroll that detailed what we truly lost. They reduced them to myth to ensure compliance. But the truth remains in the blood."
+
+He looked at Kaelthos, then Sylas, and finally Mira. "What you just felt was not a spell of compulsion. It is the biological hierarchy asserting itself. High Elves are not simply a sub-species. They are the apex. They are the keystone of our entire ecosystem. They possess the innate capacity to bond with Primal Spirits—plural—where a standard elf struggles to bond with even a lesser wisp. Their mana acts as an amplifier, enriching the land and the kin around them."
+
+Caladorel gripped his cane tighter. "They were hunted because they represented absolute sovereignty. While a High Elf breathes, no human king can truly claim dominion over an elven soul. They are the living, breathing mandate for our freedom. They are the foundation upon which a true elven nation can be built. Equals in both might and right."
+
+Ren cleared his throat loudly. The sharp sound drew their attention back to him.
+
+"As explained by Caladorel," Ren said, his gaze level, "My daughter is a High Elf. History says she is destined to rule."
+
+Ren stepped forward, looking each of them in the eye. "I need you to understand the implications of this. I support her. If one day she chooses to embark on a campaign and create a nation of elves, I will back her. If she chooses to live a quiet life running a bakery, I will back her just the same. I will allow no one to force her into the role of a savior. Or a weapon."
+
+He paused, letting the silence stretch. "Before anyone questions it, she is my daughter. My blood. The Archmage verified it."
+
+The revelation of her parentage, despite the biological impossibility of a human siring a High Elf, met zero resistance. The magic had proven it, though the subsequent barrage of frantic questions directed at Caladorel made it clear they were terrified by the political fallout, interrogating the Archmage on how quickly the surrounding kingdoms would mobilize for war if the truth leaked.
+
+"I need to know where you stand," Ren said softly. "This path only gets harder from here."
+
+Kaelthos moved first. The warrior drew his steel sword. The blade glinted in the moonlight. He drove the tip into the soft dirt of the clearing and dropped to one knee.
+
+"My blade belongs to House Fenris," Kaelthos swore, his voice rough. "If she wishes to lead, I will carve a path through the human kingdoms to secure her throne. I pledge my life to her ascension."
+
+Sylas stepped forward next. He adjusted his glasses. He placed a white-gloved hand over his heart and bowed deeply from the waist.
+
+"My loyalty is to the Master of the House," Sylas stated smoothly. His professional mask remained firmly in place, though his eyes shone behind his lenses. "I will follow the path you choose to lay out. If there is a court, I shall manage it. If there is an estate, I shall tend to it. My pledge is to the stability of this family, regardless of the shape it takes."
+
+Mira's hands shook. She gripped the fabric of her apron to steady them. Tears spilled over her lower lashes, tracking through the dirt on her cheeks. She looked at Lily. The toddler was currently trying to catch a glowing blue wisp in her mouth.
+
+"I lost a child to the ambitions of nobles," Mira whispered. "I see only a child who needs protecting. I refuse to let her bear the burden of a broken race. I refuse to let her become a target for assassins or politicians. I pledge to protect her from those who want to force a crown upon her head. She is just a little girl."
+
+Caladorel spoke last. The ancient mage didn't bow or kneel. He leaned on his cane, his gaze fixed on the toddler.
+
+"I have lived for three thousand years searching for a ghost," Caladorel rasped. "I care nothing for human politics or elven rebellions. I prioritize her survival above all else. If she must burn this continent to the ground to survive, I will provide the spark. If she must hide in the shadows for a century, I will weave the cloaks. I pledge to ensure her survival by any means necessary."
+
+Ren listened to the pledges. He looked at his staff.
+
+"Thank you," Ren said quietly.
+
+He held Lily close. The path ahead bristled with political daggers and royal spies.

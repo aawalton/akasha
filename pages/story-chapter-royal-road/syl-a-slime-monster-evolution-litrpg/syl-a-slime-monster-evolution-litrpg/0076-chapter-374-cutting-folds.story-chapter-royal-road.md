@@ -1,0 +1,153 @@
+---
+id: 1ef8bbf4-97f0-549e-872d-bc4cc90ffa4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 374 : Cutting Folds"
+slug: 0076-chapter-374-cutting-folds
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 76
+ownLength: 2178
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3284037/chapter-374-cutting-folds"
+royalRoadId: "3284037"
+---
+
+Of course, before running, one must properly learn to walk, so I didn't immediately jump on trying to add another fold to my attack. After all, I still wasn't entirely sure whether I'd simply gotten lucky, and I needed to make sure it was repeatable.
+
+Treron was sadly quite uncooperative, as now that he'd been wounded for real, he'd become more aggressive in his approach to attacking and dodging. In fact, now that blood was spilled, he seemed to get some form of physical enhancement as he kept sniffing wildly, as if intoxicated by the aroma of the blood.
+
+I guess he is a shark… man… thing…
+
+The first success evidently was me getting lucky, at least on the timing, as now I was struggling to line it up correctly. I abandoned any attempt at extra folds until I sorted out the timing and alignment of the folded space.
+
+Eventually, I found a reasonable tempo by coordinating with [Vector Sense] on Treron's projected path to lay a trap. It thankfully succeeded, although the result confused both my victim and me. Rather than five deeper gouges, there were now ten papercuts. Rather than enhancing my attack, I'd somehow doubled it?
+
+Treron glared at me, as if wanting to know what I was trying to do.
+
+You tell me, I wish I knew!
+
+After a few more attacks, where I successfully managed a deeper cut, followed by a few more random doublings, I finally noticed a pattern forming. Not only did I need to worry about cutting across the folded space before the enemy moved out of it, but I also had to take into account where I was cutting!
+
+The effect I want is cutting directly across the fold; anywhere else will cause it to double instead!
+
+Going back to Vee's "origami," I started thinking of how the way I folded it would also probably play a role. I felt a headache brewing. I was having enough problems with timing and alignment for the folded space; I had just discovered that the placement of the cut mattered, and now I expected the type of folds to matter too!
+
+Why couldn't it just be a simple, stronger effect? That's all I wanted! I whined to myself. I bet Vee would say, "No duh, it's dimensions, of course it's complicated!" and yes, that's a good reason, but still!
+
+I sighed. Whining about it would get me nowhere, so I needed to just suck it up. I'd made complex spells across multiple affinities; surely I could handle a bit of folded space calculations?
+
+Maybe there is an origami skill? No… Wouldn't it be inside a profession? Is paper folding a profession? Ah!
+
+I slapped myself back to reality, once again reminding myself that this was not the time for inner turmoil, even if this poor shrine guardian was incapable of penetrating my ludicrously stacked defenses. Focusing back on the task at hand, I began trying to repeatedly replicate cutting directly across the fold.
+
+With each success, I gained more confidence, while Treron grew increasingly dismayed. I wasn't sure how much time had passed, but at one point his beloved harpoon broke, and after a moment of screaming rage and grief, he retreated to the shrine to grab a replacement weapon.
+
+"If I can't pierce you, I'll crush you!" Treron roared as he pulled out a large sledgehammer.
+
+In theory, his idea was sound, especially if his violent pummeling could cause internal injuries from the impacts.
+
+But… I'm not called a cheating slime for nothing!
+
+I probably didn't need to change anything about my defenses, since a slimy interior would likely absorb any tremors before they could reach my cores. Still, I felt like testing a few slime abilities I'd neglected.
+
+So when he swung his hammer, I'd added some bouncy elasticity to my slime, as I wanted to see if I could repel his attack. With my smaller body size, this probably wouldn't have worked, as I figured I'd need more mass to cushion the blow. But it wasn't called [Slime Mastery] for nothing, and I wanted to see what it could do!
+
+The blow struck and partially sank into my slime before abruptly rebounding and nearly sending Treron flying. The look on his face was priceless; he never could have expected his own attack to backfire so spectacularly.
+
+While giggling to myself, I capitalized on the opportunity and folded a larger portion of space than usual into roughly the same size, then immediately sliced it. As the two effects combined, the shock on Treron's face turned to horror as five large gashes appeared and nearly took off his head!
+
+Clutching his wound, his panic quickly became overridden by wrath. His eyes turned bloodshot, his muscles began to bulge, and even his aura seemed to be radiating killing intent. Completely ignoring his wound, he charged back, even faster than before, and struck repeatedly.
+
+I kept trying to find an opportune moment to combine the effects again, but with his newfound speed, it was actually too much for me and these skills I'd not gained enough proficiency in. I even attempted letting my [Sub-Cores] handle the folding, while I do the cutting, and the other way round.
+
+Seeing no real goal, I focused on hunkering down and outlasting his bloodlust, as, despite his rage, his wound had not sealed. Eventually, my prediction came true, and despite still containing enough wrath, his body couldn't keep up with his darkest desire. His blows became weaker, and so did his speed, and I finally began landing the killing blows to seal the deal.
+
+"Dishonorable… Despicable…Disg—"
+
+I silenced his lunatic ramblings with a decisive strike and claimed victory over the first guardian I found. However, before I could bask in my victory, I noticed his body was actually beginning to fade away, as if the dungeon was trying to reclaim it!
+
+"Stealing the food from my mouth!?" I yelled out in outrage.
+
+Countless tendrils lashed out and began grabbing what they could. I managed to eat enough to gain the profile, but definitely a considerable amount of potential slime mass. Not only that, but the hammer the monster had been using, and its armor, went with it.
+
+"The armor, sure, whatever, but that hammer was from the reward pile!" I shouted angrily to the void.
+
+Whether the [Dungeon Master] heard me, or even cared, I wasn't sure, as there was no response. Grumbling to myself, I added a mark in favor of not sparing this asshole.
+
+"Stealing food and loot… What next, experience?"
+
+<Class Experience threshold reached. Riftmancer is now LV 7.>
+
+<24 Skill Points are now available.>
+
+<Your class has revealed the following skill: [Spatial Severing].>
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 10.>
+
+<9 Trait Points are now available.>
+
+Looking at my notifications, that didn't appear to be the case. I gained two levels in Riftmancer for defeating this guardian and another in my race. The other party must have been hard at work for me to achieve another slime level so soon, as my own earnings were only a measly ten percent at the moment.
+
+I reached level ten, Gramps! Where's my milestone revelation?
+
+No response.
+
+I sighed, as I couldn't help but wonder what slimy traits I was missing from all the other mutations or types I was still missing. Sure, borrowing and learning about traits from other monsters was cool, but at my heart, I was a slime!
+
+I briefly glanced through the sharkman profile, but nothing really caught my eye, as I didn't want to focus on rage or bloodlust, and the rest were "incompatible with my race," so the system claimed.
+
+Stupid strength traits…
+
+The one cool thing was that I found out the sharkman was somehow linked to both the original shark monster I had previously eaten and to mermen. He wasn't actually that evolved, and it seemed he was like a halfway point in becoming a mermen.
+
+Judging by his low monster level, he must have had more in his class. Otherwise, why else did I gain so many levels?
+
+Sadly, [Apex Hunter] did not trigger, which either meant I was still higher-leveled than him or that my donated class levels didn't count as an official reduction.
+
+Does it count my skill points earned? Or something like that? Or maybe he just wasn't apex enough?
+
+I had no idea, but at this point I felt my interest waning. After all, I had reached an absurd thirty skill points earlier, so my point-based poverty was not really an issue anymore.
+
+Now, if I could get trait points, that would be a different story!
+
+Dreams aside, I looked over the shrine and found a small shell that looked important. It had a mark on it that looked like a shark, and [Identify] called it a shrine token. I took a guess that this must be what I needed to collect to officially enter the Hall of Glory.
+
+"So I have the shrine token… Guess I'll start looking around? But before that, something reached level two!"
+
+Yes, [Spatial Severing] had reached level two during my finishing blows. I tested it out and found that the only improvements were that the cut was slightly deeper, thicker, and longer. I had half-expected to get an additional cut per level, but apparently that wasn't the case.
+
+Well, if I keep folding, I can have more cuts if I need to, but quality is my biggest issue right now, not quantity.
+
+I had won through attrition, and while my final cut was the killing blow, it was after much wear and tear. Looking at the sharkman's profile, he didn't have any form of regeneration, but his class might have given him something; he hadn't managed to seal the wounds I inflicted. I had no idea whether that was a feature of my attack or his own weakness.
+
+Guess I'll find out as soon as I find a monster with regeneration… I wonder if any of the guardians will be a starfish?
+
+Before I left, I tried out one last thing—multiple folds in the exact location. There was no way I could do it in battle, but with time on my hands, I wanted to settle my curiosity. I first tried stacking it with the help of [Sub-Cores], but it seemed there was an incompatibility.
+
+I could have five separate folds between all of us, as long as they didn't overlap. I thought that might be the end of the experiment right then and there, but when I tried to do multiple folds at once, with the same activation, it looked like it might be possible.
+
+Since separate folds weren't possible, I linked up with my [Sub-Cores] to add their processing power to my own activation. Then, with our combined might, I attempted a double fold, and after some considerable time and effort, I managed to do it.
+
+"Definitely not something I can do in combat, unless my enemy is immobile…" I sighed.
+
+The worst part was that the space was desperately trying to unfold, leaving little time to work with. I quickly made a single cut, moments before the space turned to normal, and noticed that I had two enhanced cuts.
+
+I frowned slightly, the gears in my mind slowly turning. "Huh… I thought it would be one super-enhanced cut? Why are there two?"
+
+I tried thinking about it and wondered if I cut in the wrong place or folded it incorrectly. I had done a vertical and horizontal fold, but wondered if I should have done two of the same fold. For some reason, my brain was rapidly heating up as I tried to imagine the difference in folds; I was struggling to wrap my head around this.
+
+So strange…
+
+I repeated the process, but made the cut elsewhere. I got another two enhanced cuts. I tried again and this time got four regular cuts; my final attempt was another four regular cuts.
+
+"Should I try two vertical folds?"
+
+My head was hurting, but I was curious. I tried folding twice, only to find out that this was notably more strenuous than two folds in opposite directions. I was about to give up, but finally succeeded and quickly made a cut. Looking at the result as the space rapidly returned to normal, I frowned.
+
+"Why is there one enhanced cut, and two normal cuts!?"
+
+I tried to imagine the folds in my head, but I was struggling. Again, I was feeling frustrated. How could someone who was trying to master magic be confounded by mere folds…
+
+I'll have to ask Vee more about this 'origami' thing; perhaps it's actually some secret technique from her previous world, and I mistakenly blew it off.
+
+I wasn't sure, but at this point, my head hurt, and I wanted to vent my frustration on some monsters. I moved around the shrine, but there was no way to go down, so I picked a random direction and tore open a tunnel to my new destination.

@@ -1,0 +1,213 @@
+---
+id: 9c257141-f9c6-5334-84b2-8fa688c01a87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 411 : Suppression"
+slug: 0113-chapter-411-suppression
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 113
+ownLength: 2405
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3771681/chapter-411-suppression"
+royalRoadId: "3771681"
+---
+
+Shortly after the defeat of Traz-whatever, I received a flood of notifications. The first that came through was surprisingly an Emblem, and it was a lot more fitting than [Banisher]. I made sure to show the results to my companions to hear their thoughts.
+
+<Your accomplishments have been acknowledged.
+
+Emblem Achieved: [Demon Slayer].>
+
+<Your exceptional deeds have been acknowledged, and this Emblem has received an additional effect.>
+
+<For slaying your first demonic entity and sealing a major incursion point, you have been awarded 1 Legend Point. Legend Points remaining: 6.>
+
+<[Demon Slayer]
+
+Increases all attributes by a minor amount. Provides immunity to demonic corruption. Provides safe passage when traversing the demonic realm.
+
+As a [Demon Slayer], you will find the forces of good more willing to aid you should you willingly reveal this Emblem due to its prestige.
+
+Equipping this Emblem boosts all bonuses, and members of your party will receive your protection effects.
+
+Additional effect: Once per day, it can provide stabilized coordinates to the demonic realm.>
+
+"Huh. I expected a bit more, especially in terms of equipping it, but maybe I'm overlooking what sort of prestige it comes with. It certainly sounds impressive."
+
+"Although reading between the lines, I believe it will also make the evil factions attack you on sight," Sylvester pointed out.
+
+"More experience for us then!" Sylvain declared confidently. "That first demon was a pushover, but at least he provided us with a juicy meal."
+
+At that mention, I looked at the other pending notifications, and Sylvain was totally right, we had a juicy meal indeed!
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 17.>
+
+<16 Trait Points are now available.>
+
+<Class Experience threshold reached. Riftmancer is now LV 20.>
+
+<31 Skill Points are now available.>
+
+<Your class has revealed the following skill: [Spatial Suppression].>
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 18.>
+
+<17 Trait Points are now available.>
+
+<Class Experience threshold reached. Riftmancer is now LV 21.>
+
+<32 Skill Points are now available.>
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 19.>
+
+<18 Trait Points are now available.>
+
+"Wait… Why did I get only two levels in my class? That seems low…"
+
+"Master, the class experience is distributed between us as a party," Sylbera responded.
+
+"Right… I guess that's a bit of a bummer," I sighed.
+
+Sylvain shook his head. "Only you would complain about gaining two whole levels in an advanced class for rather minimal effort. Also, you're overlooking the fact that we gained three whole levels in our race."
+
+"And that's with only a ten-percent allocation on your part," Sylvester pointed out. "I must admit I don't know how it is resolved with all of us, but it feels like you gained four times the amount you'd normally get if I had to hazard a guess."
+
+"Probably more. We aren't capable of lowering our experience distribution," Sylthaeryn sighed. "So if we are each giving fifty, that's two hundred percent from us, and ten percent from you."
+
+"Basically, all the race levels are from us. You're welcome," Sylvain snorted.
+
+"Well worth it considering Master is the one who gave us this life," Sylbera responded.
+
+"Suck up," Sylvain spat.
+
+"Damn, I don't remember making you so arrogant," I pointed out.
+
+"I think he's bored on the island, especially after what you gave Sylvester," Sylbera replied.
+
+"Sounds more like jealousy," Sylvester commented, earning him a few glares from everyone, even me.
+
+"Well, with [Slime Puppetry], our range has greatly increased. If we set up relay points around Pi on the island with our spare [Sub-Cores], you should be able to explore the ocean like never before," I offered.
+
+"Have you considered buying more [Sub-Cores]? It would probably boost our proficiency experience gains," Sylthaeryn asked.
+
+"And increase the network further," Sylvain added, sounding notably more pleased.
+
+I looked at my trait point total and sighed. Arguably, I had points I could spend and still keep ten in reserve for an uncap. I also had six Legend Points, so I could convert them in case of an emergency. Part of me still didn't want to; I was especially frugal with these trait points, but considering my personas were probably earning them for me at the moment, it made sense to reward them.
+
+"Okay, I'll buy two for each of you," I said and began a spree of purchases before I could talk myself out of it.
+
+<Trait [Sub-Core Rho LV 1] obtained. Trait Points remaining: 17.>
+
+<Trait [Sub-Core Sigma LV 1] obtained. Trait Points remaining: 16.>
+
+<Trait [Sub-Core Tau LV 1] obtained. Trait Points remaining: 15.>
+
+<Trait [Sub-Core Upsilon LV 1] obtained. Trait Points remaining: 14.>
+
+<Trait [Sub-Core Phi LV 1] obtained. Trait Points remaining: 13.>
+
+<Trait [Sub-Core Chi LV 1] obtained. Trait Points remaining: 12.>
+
+<Trait [Sub-Core Psi LV 1] obtained. Trait Points remaining: 11.>
+
+<Trait [Sub-Core Omega LV 1] obtained. Trait Points remaining: 10.>
+
+<Warning: Maximum [Sub-Core] limit has been reached.>
+
+I stared at the unexpected message. "Oh…"
+
+"Master, you didn't need to buy that many…" Sylbera groaned.
+
+"I swear you're incapable of doing things in moderation," Sylthaeryn joined in on the berating.
+
+Sylvain was unexpectedly cheerful. "Hey, this is great, imagine the area we can cover."
+
+Sylthaeryn shook her head. "You forget that now we have eight new leeches on the network. We have to bring them up to level seven before we have a shot at reaching the next level ourselves."
+
+"It shouldn't be too hard. We can put them through a hell of a crash course just like the many times before," Sylvain said, not perturbed in the slightest.
+
+Sylvester, however, was the only one who apparently noticed my strange reaction. "Is something wrong?"
+
+"We hit the limit on [Sub-Cores]. It looks like Omega is the last one."
+
+The group gasped in varying degrees of shock; evidently, they hadn't seen the system messages I'd received. Honestly, a bit of a relief that proved I still had supreme authority.
+
+"That's not too bad, that's five for each of us," Sylvain replied.
+
+"You forgot about Pi stationed on the island," Sylbera quickly pointed out.
+
+Sylvain shrugged. "Well then, four for each of us, and a few in reserve. That's still good enough."
+
+"Bold of you to assume that Master will give you that many," Sylbera warned.
+
+"We will worry about the logistics later. For now, be happy with the two new additions each of you got. Hopefully their low levels don't affect [Slime Puppetry] too much."
+
+"I forgot about that…" Sylvester murmured. "Although conversely that means when our [Sub-Cores] reach the next level, we might have an even further range."
+
+"And combined with [Slime Mastery] gaining more levels, who knows what our maximum reach will eventually be," I said positively.
+
+The group was quite eager, arguably more so than me, since, while [Slime Puppetry] was the ultimate tool and a long-desired power to me, for them it was effectively a form of freedom. At least I knew that I could count on the four of them eagerly grinding out proficiency experience for me.
+
+I had hoped [Dimensional Magic] would have gained a level from all the teleporting I did during the battle, but sadly, that didn't happen. However, judging by the expressions on the others' faces, they had gained quite a few skill upgrades from the fight. As for myself, I did have the next milestone skill to look forward to from Riftmancer, and I eagerly opened it up.
+
+<[Spatial Suppression]
+
+By utilizing a localized dimensional space under your control, you can suppress a specific region.
+
+Dimensional coordinates in suppressed space are difficult to tamper with without your permission, and even skills that provide teleportation effects will be difficult to operate, if not negated entirely.
+
+Furthermore, by overlapping the space, you can inflict harm upon the natural inhabitants of the dimension. At low levels, this is merely a crude form of restraint, while at higher levels, it can crush them between the boundaries of overlapping space.
+
+The level of spatial suppression and the offensive capabilities scale with skill level, but cannot exceed the strength of the localized dimension under your control.>
+
+Finally, I have a way to counter teleporting!
+
+Of course, this skill could do more than that, but arguably, that was the highlight for me. During the fight against Traz, I had better informational skills than he did, so I could read him like a book, but I still couldn't shut him down. Now, I had that option available, with some extra bonuses on the side.
+
+<Skill [Spatial Suppression LV 1] obtained. Skill Points remaining: 31.>
+
+After swiftly acquiring the skill, I promptly tried it out. As expected, it worked impeccably with [Personal Rift], which was the strongest and most readily available "localized dimensional space" I had to work with. Of course, by using spells such as [Rift Door], it was possible to create such a space through magic, although at the moment, I saw no reason not to use [Personal Rift] for all of this.
+
+I feel sorry for Vee; she's going to have to do this magically since she can't buy [Personal Rift]. Oh well, maybe it will finally give her a project to work on, I'm sure Mother would appreciate some effort on her part.
+
+So far, I'd shared more skills with Vee than I had gotten in return, and while I was admittedly a little disappointed, I also understood the reason. Vee desperately wanted to evolve, so her class was the last thing on her mind, and thus, I'd have to wait for some potential skills from Veilstrider to be shared.
+
+Maybe she can party up with Sylvain and Sylbera and, as party leader, allocate the majority of the experience distribution to herself? Either that or she comes with me on a trip, and we exploit the hell out of [Companion Growth].
+
+Speaking of skills, my personas also had a few I could've bought myself, but none seemed useful for me. Sure, Sylthaeryn's bow skills looked really good, but why would I bother using a bow at this point? It would arguably just be something cluttering my skill list, although that did mean such things were ripe for [Skill Deconstruct].
+
+If they collect enough weapon-related skills, maybe I can take them apart and determine the shared universal principles. Heck, maybe then I could try applying it to areas outside of weapons. Imagine getting the arrow bonuses applied to [Fireball], for example, or better yet, slimy tendrils!
+
+Of course, I hoped that Sylvain would discover such a skill for me by focusing primarily on his three elements. At the moment, he was still using the Elementalist class while waiting to see if he ever unlocked something else related to Water, Wind, or Ice. At the very least, he would eventually reach and potentially surpass my levels in Elementalist and potentially get some new skills to share from there.
+
+After that momentary distraction, I brought my attention back to [Spatial Suppression] and what effects I could use at its currently low level. I had my personas help me test it out, as while they didn't have [Dimension Magic] itself, they could at least cast the spells "raw" with some difficulty, thanks to sharing my natural affinities.
+
+When I activated the suppression effect, all their efforts were snuffed out like a candle in a blizzard, even at this low level, because of their lack of appropriate skills. Any attempts to work with coordinates were impossible, and it could be summed up as the antithesis of [Triangulate].
+
+"I'd imagine using this against Mistress Vee, it would be like granting her negative levels in [Triangulate] temporarily," Sylbera suggested.
+
+It was a good comparison, and I liked it. I wasn't planning on fighting Vee, but against anyone else that tried to teleport around me, hopefully, I could stop them. I was curious if it would work on the Golemancer's skill, but Sylvester was nowhere near acquiring it.
+
+As for the offensive ability, it left a lot to be desired at such a low level. When in use, it felt like I had formed an invisible hand from my [Personal Rift] and was using it to crush my target. Against all of my personas, it did nothing; they could freely move about, with maybe a fraction of minor sluggishness at best.
+
+I tried it against some ordinary rocks and saw the opposite effect as they had no defense against it and were smooshed into oblivion. Weirdly, I saw it as kind of the opposite of [Spatial Severing], which was like a scalpel compared to this sledgehammer, but I hoped further levels would change that.
+
+With nothing further to focus on, I returned my attention to the room. The signs of demonic corruption were significantly reduced, thanks to my persona's snacking on it with our newly acquired [Necrotic Slime].
+
+If I had to make one complaint, it was that I hadn't received a profile from defeating the demon, likely due to the fact that I couldn't really eat him. I understood he wasn't exactly from our dimension, which granted him several benefits.
+
+Wait… Why do I know this? Is it knowledge from [Demon Slayer]?
+
+I had no answer at the moment, but it was the most probable cause. Although if I extrapolated this information, I reckoned that if we were to go to the demon realm, we might receive similar boons.
+
+Is that why I was granted the ability to get its coordinates? It might be a great place to train and feast… Although until I learn more about it, I don't exactly want to teleport there. Plus, what if I accidentally create another incursion point? And can I reliably make my way back?
+
+While I had faith in [Landmarks], I wasn't sure whether that applied across dimensional realities. Maybe I'd get the coordinates of Glimmerock in relation to the demonic realm, rather than a reliable way home.
+
+[Rift Beacon]... That would be my failsafe.
+
+"Master, apologies for interrupting you, but a door appears to have opened. We suspect that once the room's demonic energy was reduced, it triggered it," Sylbera said, pointing towards it.
+
+"No problem, I was basically done. We might as well explore it and see if there's anything left of this labyrinth."
+
+The group nodded, and after confirming there was nothing left here for us, we headed towards what I presumed would be the treasure room and exit.

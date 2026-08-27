@@ -1,0 +1,107 @@
+---
+id: 7b45752e-04f1-5f58-8e4f-a99fb76dac4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: It Sleeps"
+slug: 0013-chapter-13-it-sleeps
+partOf: succulent-girl-evolution
+position: 13
+ownLength: 1823
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2541456/chapter-13-it-sleeps"
+royalRoadId: "2541456"
+---
+
+The growl that had been right on top of her, intense enough to vibrate through her entire being, suddenly cut off with a yelp as she continued sprinting through the bushes.
+
+Catching a front root-leg around the narrow stem of a bush, Bubbles swung herself around in a circle, dissipating her speed as she peeked out to see what had caused Link to stop chasing her.
+
+It turned out he was pinned to the ground by a thick branch the chromewood tree above them had dropped. Even with how large and strong the wolf was, he wasn’t able to claw his way out of the cage-like branches that had descended from the heavens, casting judgment on this unwelcome and terrifying foreigner.
+
+As grateful as she was to have been saved, she couldn’t believe the tree was willing to eschew its life’s work for her. Metal trees took a long time to grow, the difficult conditions of sprouting a seed notwithstanding. Given its current size, it must have been one of the oldest trees in the garden… and it had just decided to sacrifice a limb in order to protect Bubbles. It now looked distinctly lopsided.
+
+“LINK!”
+
+The pained, enraged bellow rose above the cacophony of battle, and Bubbles could hear the man’s wordless roar as he tore through the plants and insects that were trying to stop him.
+
+“Run, little one,” the chromewood tree whispered to Bubbles as the spitweeds continued shooting burrs at the captured wolf—doing more insult than any true injury. “You are unique among us, so you must live on.”
+
+“Thank you!” Bubbles called gratefully as she headed towards the third waypoint.
+
+It was less of a designated waypoint and more of a backup location the magpies had been building in case they had the time to establish another battleground. As it was now, it was just a seeded plot of land with minimal defenses around it… a few magpies and clusters of spitweeds assigned to watch over the seedlings, making sure nothing harassed the growing sprouts.
+
+Bubbles had long lost track of the juvenile magpie that had been assigned to watch over her, so she didn’t know what the corvids’ plans were; but she trusted they would know to find her there, since they obviously had wings covering all of the intruders.
+
+[You did well,] Rock offered as she hurried through the winding path she had practiced on for the entire month. She was gratified to see that the defenses lining the route were undisturbed, as well as by his words.
+
+I’ll have to find a way to repay Mr. Chrome, she confided to him. I would have been done for if it weren’t for him.
+
+[Regretfully, he has no seeds nor sprouts you can take. He would be a powerful ally. Speaking of allies,] Rock said as Bubbles continued running, [I recommend you stop growing spines. You have exerted significant amounts of energy, and have not had time to recuperate and recover yet. Furthermore, you have not been able to capture any prey to Digest during these events. At this rate, your energy reserves will be depleted once you reach the waypoint.]
+
+What should I do? Bubbles asked, concerned. She slowed down, taking the opportunity to rest beneath a bush. Being on the path wasn’t as safe as being at that half-built waypoint, but at least she had cover.
+
+Now that Rock drew attention to it, she did feel a bit… sluggish. And thirsty. Just like when she first pushed herself while working the magpies’ obstacle courses. Unfortunately, there were no fine feathered friends to help replenish her energy stores. She would have to figure out her own recovery regime. There were also no insects nearby for her to feed Fern; they must have realized something big was happening and evacuated the area.
+
+[I believe you are far enough removed from danger for a brief respite. Root yourself, recover what you can, and wait for a magpie to come find you. We are close enough to the waypoint that you should be able to make it there with your current levels.]
+
+Agreeing with Rock’s assessment, Bubbles buried her roots into the earth, feeling herself relax as she sank into the earth. The tension slowly melted away, flowing out of her roots the same way water flowed up into her.
+
+You’ll watch for the magpies? Bubbles asked Rock as she looked over Fern and Cuddles on her back. She felt her attention fading, tempted as she was by the comfort of the earth, but she couldn’t let go until she made sure her companions were all right.
+
+Thankfully, the two of them were fine, their bodies unharmed from the fire, though several tips of Fern’s fronds had gotten singed. They were still firmly attached to her trunk, easing her worries.
+
+[Of course. Rest while you can.]
+
+Murmuring her thanks, she let her consciousness dissipate, allowing herself to become just another plant.
+
+~ ~ ~ ~ ~
+
+Rock brooded while Bubbles slept.
+
+Without knowing what was happening in the rest of the garden, it was difficult to estimate what the results of today’s battle might be, let alone ascertain their next steps. They had successfully enabled the isolation of the corvid congregation’s target, so as far as he was concerned, they had fulfilled their obligation to the magpies in receiving their help. There was no other reason for them not to look out for their own wellbeing, but he had a feeling the hopeful little succulent would insist that there was more to do before they could flee.
+
+He wished nothing more than to hijack his host’s body and force her to depart this travesty of an arboretum, but that was (most unfortunately) not part of his skillset.
+
+He looked through Bubbles’s dismal stats again, forlorn. Despite utilizing the magpies’ resources, which admittedly accelerated her growth and greatly improved her overall health, she was still not in any interpretation of the word capable of helping others.
+
+Her belief that she was obligated to devote herself to helping others was one he couldn’t understand. Granted, he hadn’t had the opportunity to socialize with living organisms before, so he didn’t know if her optimism was the prevailing sentiment among the land life. However, he wasn’t wrong about that penchant for self-neglect being detrimental to survival, was he?
+
+Ironically, it was wholly within his capabilities to help her. With his ability to bestow powers that allowed one to break through their limits and ascend beyond their potential, he was confident she could become the saintly figure she so desired… if she managed to live long enough to fully commit to the long, arduous path of cultivating the skills one desired, that was.
+
+Perhaps this was his punishment for being so careless with his expansion. If he had strictly kept to his five-hundred-year plan instead of taking the not-insignificant risk in accelerating his mineral network growth, he wouldn’t be in this position: forced to bind himself to a mortal before he had fully established his foundation and power. If he hadn’t rushed, he would have the ability to mitigate whatever stupidity a mortal tried to inflict on him.
+
+Regardless, the situation was what it was; he refused to fall into the same emotional trap his host was so prone to fall victim to, wherein she let herself be completely swallowed by emotions, thereby incapacitating her decision-making ability and preventing her from rectifying her mistake (though in his case, it was aggravation at his own blunder, which he contended was more acceptable than Bubbles’s habit of bowing to the thought of others’ welfare). He had to figure out how to move forward, which in this case meant framing his arguments in an emotional context for the tenderhearted plant to best understand how important it was that they begin prioritizing their own safety.
+
+Before he had finished marshalling his thoughts, a magpie flew over to them, perching on the bush. It looked both ways, as if making sure there were no suspicious characters around, before twittering quietly.
+
+“Report: the wolf and corresponding human are still occupied with the chromewood trap. The party has splintered again, with the fire mage and juvenile ranger continuing on to seek you out.”
+
+Rock roused Bubbles, who sleepily asked his questions for him: “And what of the young human female, male and the leopard? The owl and the hawk?”
+
+“Target has been incapacitated, and the human male and his hawk partner are tending to her.” The magpie trilled uncomfortably, peering around the surroundings again before continuing with the report. “We… may have lost track of the other human.”
+
+If Rock could shudder, he would.
+
+“She fell into a holding trap, but disappeared. We currently have a squad of magpies combing the grounds to find her again. However, the current danger is the fire mage, guided by the young human. His owl partner is still in the air, covering the skies, which is hindering our search efforts as we are limited to near-sight searches.”
+
+The magpie hesitated, remarkably twitchy even for its species. “The Prime Family recognizes your contribution in helping us achieve our goal. We deem your duty and obligation to us in exchange for our assistance in fighting against the intruders fulfilled. You are now free to go your own way.”
+
+Rock leaped at the opportunity the bird offered, but Bubbles was more resistant—not because she was being cautious of any unclear contractual terms, but because the bird did not provide the appropriate validation to assuage the plant’s naive guilt.
+
+“Are you sure? Is there anything else you need help with?” she asked earnestly, overriding Rock’s triumph.
+
+“No, no, no,” the magpie said swiftly, spreading his wings as if to take flight. He composed himself and settled down, though he still kept a wary eye on his surroundings. “However, perhaps it would be best for you to leave for now, at least until we are able to find the human again.”
+
+“Leave? I was on my way to the third waypoint—”
+
+“Leave the garden,” the bird corrected. “Find somewhere else to hide for the moment, as we can be reasonably certain the humans will continue searching this garden to confirm you are no longer here. We will stall them so that you may have more time to escape.”
+
+“Why do I have to run?” Bubbles asked, bewildered. “Are we… losing?”
+
+The corvid ruffled its feathers uncomfortably. “It is complicated. However, time is of the essence—I have been designated as your guide. As soon as you have reached safety, we can—”
+
+A faint whistle sounded through the air, and the magpie’s words cut off with a sick thud as an arrow fixed the body to a tree.
+
+Bubbles instinctively bolted as the plants around them erupted in a frenzy. But as she darted out from under her bush, she heard a guttural cry, distinctly human.
+
+“OH NO, YOU DON’T—GET BACK HERE!”

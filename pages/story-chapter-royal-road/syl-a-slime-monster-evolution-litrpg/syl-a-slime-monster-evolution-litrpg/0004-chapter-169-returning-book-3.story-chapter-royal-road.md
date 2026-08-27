@@ -1,0 +1,197 @@
+---
+id: ba51fad1-0f48-5856-b660-5d46579a0c58
+page-type-slug: story-chapter-royal-road
+title: "Chapter 169 : Returning [Book 3]"
+slug: 0004-chapter-169-returning-book-3
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 4
+ownLength: 2724
+unit: words
+ownProgress: 2724
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1878473/chapter-169-returning-book-3"
+royalRoadId: "1878473"
+markedReadAt: "2026-06-29T19:41:54.966Z"
+---
+
+Book 2 Recap:
+
+Even the sky wasn’t the limit for Syl, as Glimmerock was found and conquered. On the floating island, Syl fought magical equines, ghouls, and harpies and even made a friend, Trixie the Pixie.
+
+Trixie, a knowledgeable guide in the world of magic, taught Syl some magical tricks while also unlocking the prestigious Elementalist class. In return, she promised to help Syl obtain the elusive yellow slime if Syl helped defeat another powerful spirit, an undine. With determination and newfound skills, Syl emerged victorious in the battle and later secured the yellow slime core, claiming the power of lightning!
+
+However, Syl’s journey was not without its challenges. Always one to experiment, Syl inadvertently caused a fatal glitch, forcing an early evolution. This unexpected turn of events resulted in a hefty experience-level debt, but it also transformed Syl into a powerful Cluster Slime, granting the lovable [Sub-Cores] even more utility.
+
+Eventually, it was time to say goodbye, and Syl and Trixie, their bond stronger than ever, parted ways, promising to reunite at the Dwarven Empire.
+
+While Syl was excited to complete the tasks required to be promoted to Gold rank, there was still enough time for a side quest—professions!
+
+Syl became Sylvester, a human cryomancer, and returned to Kaerlin intending to join the Merchants Guild. Sylvester received direct tutelage under Greg, a seasoned Enchanter who could grant a powerful apprentice Emblem at the behest of his noble employers.
+
+Sylvester blazed through Enchanting, thanks to an excellent teacher and the unfair advantage of being a slime prodigy with near infinite Mana and being unnaturally indefatigable.
+
+With training complete and the final enchanting task complete, Sylvester returned to Syl, but not before doing one final set of enchantments directly on each and every core!
+
+Syl’s official return was later than expected, but thankfully, Thern had patiently waited. After reporting the island escapades, Syl was given the dungeon’s location and the final task required for the promotion to Gold rank.
+
+Initially, Syl struggled to find a team but eventually joined a ramshackle adventuring squad called The Misfits. Together with The Misfits, they ventured into the Mutation Dungeon, a lair of three floors with a differing mutation theme that applied to all its inhabitants.
+
+After a relatively easy first floor, the dungeon stepped up its game for the second and third floors, throwing some obscure mutations on its monster minions. But Syl still came out on top and managed to secure an orange slime by convincing the dungeon to spawn one in a pseudo-truce with the Dungeon Master.
+
+After conquering the dungeon and receiving a positive evaluation, Syl had no remaining roadblocks toward being promoted to Gold and accompanying Thern to the Dwarven Empire. Syl also finally paid off the level debt and received a juicy list of slimes, furthering Syl’s ever-growing desire to consume more and more slime cores!
+
+I woke up feeling refreshed and ready for the day, but my mind was still relatively buzzing with the information I had received from Gramps. While I was eager to capitalize on seeking out the other types of slime, that would have to wait until after the Dwarves and I got my tendrils all over that delicious silver slime core. Reluctantly crawling out of my bathtub, I stored it away and began to exit safely to the surface.
+
+'I'm sure Thern will want to leave almost immediately. However, there's a brief stop I want to take before I head back to Kaerlin...'
+
+I was about to [Thunder Step] away when I realized I'd probably be waking up a bunch of hungover adventurers—it was barely sunrise, after all—and decided to shift into a griffin and soar into the air. [Aerial Finesse] combined with [Enchanted Wings] was a blessed way to travel, and I happily soared through the sky.
+
+'Man, I missed flying... I must figure out a good excuse for my persona to fly.'
+
+I abruptly realized that I still had my giant hat to worry about, which would be detrimental to my monstrous disguises. However, when I looked at it, I noticed it had already transformed into a very subtle, small hairclip, barely visible and clipped securely behind one of my ears.
+
+'I keep forgetting this hat exists... I definitely didn't change it myself, but if it responds to my intent, then it's a little more useful than I realized. Although other than being transforming headwear, I still don't know if it has a beneficial effect.'
+
+Once sufficiently away, I started to add [Thunder Step] while in flight. My top speed was significantly improved, although the backlash was fierce when I chained one too many jumps.
+
+'I really wish [Voltaic Slime] was a higher level...'
+
+I consulted my [Mapping] and saw that Glimmerock was, regrettably, a great distance away. Trying to take a small detour to attempt another yellow slime hunt just wasn't feasible unless I wanted to further risk Thern leaving me behind. Sighing to myself, I continued my journey towards Stantondale, ensuring that any large multi-chain jumps were safely discharged into the ground.
+
+Combining flying with [Thunder Step] shaved off almost two days of travel time despite the greater distance to Stantondale than Kaerlin. However, that was also with a higher level [Thunder Step] skill, which meant I could do far longer chains, so my rough mental calculation was a guesstimate at best.
+
+I also caught and ate a few wild monsters I spotted on the way. While it felt like bullying, and the experience was clearly not worth mentioning, I wanted to build up a bit of a reserve of slime mass. My latest acquisition, [Nitro Slime], was simply amazing, and I wanted to try it out in various ways and see what it was capable of. However, I would require sufficient slime mass to do this, as the trait utterly destroyed the slime when it detonated.
+
+It was a fascinatingly powerful trait, and a few monsters on the way fell victim to my experiments. One of my most nefarious experiments was when I made a tiny bunny and primed it to hold its form, then left it on the ground near an unsuspecting wolf. I would have thought the bunny's utterly lifeless and frozen state would have made the wolf suspicious, but it wasted no time in savagely biting on the fake bunny, which then detonated.
+
+'While leaving explosive traps behind is one thing, my ability to mimic and disguise the bombs as something else is frighteningly powerful. Gods... Imagine if I could move them? I could make homing bombs, like tiny pigeons, to fly at a target before detonating.'
+
+During the evenings, I spent some time looking into [Stunvolt]; the obvious application would be to see if I could add the stunning concept to my other spells or create a greater affliction effect like I had with [Frostbite]. I wasn't exactly sure how that would work because of the short duration of the stunned ailment. Freezing something was basically a finisher; not much could survive the final stage of the ailment, whereas stunning was rather easy to apply but extremely short-lived.
+
+'Perhaps rather than a build-up, I could work on it by applying the condition periodically. Then it would stun the target briefly every few seconds? Would that work?'
+
+It was definitely something worth exploring.
+
+***
+
+When I neared Stantondale, I halted all [Thunder Step] usage and stuck to flying high in the sky, trying my best to blend into the background by maximizing my transparency. By the time I had officially arrived, it was late afternoon, so I spent some time casually waiting and practicing my sustained flight and [Eagle Vision]. I patiently waited until the evening approached, watching the people go about their final day activities from the sky.
+
+'It's slightly horrifying to think they have no idea I'm here... If I were a crazy monster, what would be able to stop me from flying over the town and dropping [Nitro Slime] bombs on them? Which... Is what dragons apparently do to kill anyone who awakens their bloodline... Yikes.'
+
+Once sufficiently dark, I shifted into a small blue slime form and slowly descended as stealthily as possible. Once I landed, I hid my wings away and threw my magic hat into storage. The fact that it could be easily thrown into storage gave me comfort over the strange item supposedly soulbound to me.
+
+'To think I'm back here again...' I thought, feeling slightly nostalgic as I watched the slimes bouncing around me.
+
+Their numbers had greatly replenished since my last feast, and it seemed the humans had grown tired of them being feasted on. There was also now a rudimentary fence surrounding their extremely large enclosure. The fence wouldn't stop any slimes from escaping, but evidently, the hope was that it would keep any predators out.
+
+Looking through my profiles, I borrowed the [Telepathy (Lesser)] and attempted to contact one of the blue slimes.
+
+Silence.
+
+I tried reaching out to others, but there was nothing. Not even a hint of a thought. I even tried keeping contact with one while I produced some food for it, but other than greedily devouring it from my hand, there was not even a hint of a thought.
+
+'I'm really beginning to understand why Trixie couldn't believe I was a slime...'
+
+Focusing on [Companion Bond], I tried to see if I could establish a link that way. I had never used the skill before, so I wasn't sure what to expect, and in a way, it felt like I was reaching out to make a mental handshake with the creature in front of me. I had a brief moment of hope, but my mental hand grew cold, and the slime showed no hint of acknowledgment of my offer.
+
+'I didn't even get a rejection notification, which I assume I would have gotten if it said no... Are slimes just incapable of it?'
+
+I felt quite bitter, as one of my solutions was to try to appear as a slime tamer, but if it was impossible, I was in a bad situation.
+
+'I can't handwave something as cut and dry as this. There's only so much bullshit people are willing to believe as Elf things.'
+
+With that bitter confirmation, I moved on to the final activity I wanted to try. I wanted to know if eating a few more slimes could further improve my [Mana Slime] trait. I reached out with a tendril and engulfed an unsuspecting blue slime whole, devouring its slime and core entirely.
+
+<Slime (Blue) LV 2 defeated. Experience gained.>
+
+<Slime (Blue) Core absorbed. Trait [Mana Slime] gained.>
+
+'Hmm... I gained the trait but no level-up. Perhaps I just need to eat a few more...'
+
+<Slime (Blue) LV 1 defeated. Experience gained.>
+
+<Slime (Blue) Core absorbed. Trait [Mana Slime] gained.>
+
+...
+
+'It's shocking how uncompressed their slime is... Was I really this weak back in the day?'
+
+...
+
+...
+
+<Slime (Blue) LV 1 defeated. Experience gained.>
+
+<Slime (Blue) Core absorbed. Trait [Mana Slime] gained.>
+
+<Existing Trait [Mana Slime LV 11] improved to [Mana Slime LV 12].>
+
+'Ha! It worked!' I cheered happily.
+
+It had taken far more slimes than I thought it would have. I had eaten six slimes for a single level.
+
+'And I have to assume that it was only six due to me partially leveling up the skill...'
+
+I had to know. My tendrils spread out and started to grab more slimes.
+
+<Slime (Blue) LV 1 defeated. Experience gained.>
+
+<Slime (Blue) Core absorbed. Trait [Mana Slime] gained.>
+
+...
+
+...
+
+...
+
+<Slime (Blue) LV 1 defeated. Experience gained.>
+
+<Slime (Blue) Core absorbed. Trait [Mana Slime] gained.>
+
+<Existing Trait [Mana Slime LV 12] improved to [Mana Slime LV 13].>
+
+'Eleven slimes!' I exclaimed.
+
+It was a shockingly high amount required, and the field was starting to look barren of slime life. My guilty conscience rose as I realized I was eating away the primary income for the town.
+
+'Uh... Maybe I can make it up to them? I mean, my slime is far better than this garbage... Although saying that, I still can't even feel or see a difference between this trait now and when it was still at level ten.'
+
+I started pulling out some of the empty vials and containers in my storage, ensuring they were both clean and empty and ready for me to fill them with my own slime. I confirmed it was only [Mana Slime] and filtered it down so it wasn't ultra-dense. I scattered the containers on the ground, hoping it would be good enough compensation for my meal.
+
+'It's a good thing I have quite a few canteens and the vials I took from that ghoul lab.'
+
+Feeling slightly less burdened by my conscience, I sprouted wings and flew straight up. While flying high up in the sky, I also flew over Stantondale, seeing the few windows illuminated by the lights within. I also pulled out the adventurer tags I had taken back when I was with the goblins and dropped them inside the town one by one.
+
+'Hopefully, someone finds these... I should have returned them ages ago, but I kept forgetting I had them.'
+
+Part of me wanted to drop in and say hi to Roderick, Tabitha, and Kurt, while my stomach desperately wanted me to visit Trevor's Inn for some, no doubt, high-quality food. Sadly, I had to give up on either idea; it was far too risky, and I didn't want the disappearing slimes linked back to me even if I gave some compensation. I soared into the night sky with the stars and moon guiding me while I headed toward Kaerlin. I briefly glanced at the mountain deep in the forest and wondered if the goblins had survived... Something to look into when I didn't have obligations.
+
+***
+
+When I neared Kaerlin, I shifted my trajectory toward the dungeon so that my arrival would make more sense. Landing down stealthily, I shifted back to my elven persona, stretching and confirming my profile, and everything was in order. Then, after a bit of stretching, I grinned as I began my thunderous arrival.
+
+I couldn't help but chuckle as the guards and citizens waiting in line were startled when I arrived. I even overheard some muttering from the older guards bemoaning Lisa.
+
+'Sounds like Jet wasn't joking when he said she was a bit of a prankster back in the day...'
+
+Thankfully, there seemed to be no resentment, and I was let inside the city with minimal interaction. Despite not getting told to head straight to the Adventurer's Guild, I still made my way there, seeing no reason not to report in and see if Thern hadn't grown tired of waiting.
+
+'I wonder how the dwarven city will compare... Hopefully, I won't have as many eyes always staring at me.'
+
+Arriving at the guild without issue, I politely waited until Luke had finished dealing with his current client. While waiting, a few other parties asked me if I was interested in joining for a quest, which I had to politely decline, saying I had prior obligations. Unlike the fiasco at the dungeon, there was no outburst of anger or insults thrown at me.
+
+'That situation still really bugged me... I wonder what that guy's problem was? My paranoia can't help but feel like it was somewhat staged.'
+
+Finally, Luke arrived, smiling brightly. "Good to see you again, Miss Syl."
+
+"Pleasure to see you as well, Luke. I'm back from a successful dungeon run."
+
+"I did receive Sir Jet's communication and gave it directly to Master Lisa. She told me to send you to her office as soon as you reappeared." Luke paused and chuckled. "Some bets were going on if you were going to be gone for months again."
+
+"As fun as that would've been, I don't think I could keep poor Thern waiting any longer. Assuming he hasn't left me behind already?"
+
+"No. He's still waiting and mentioned that he wants to drag you off as soon as you get your new tag. By force if necessary."
+
+I couldn't help but wince, feeling remorse for leaving him waiting for so long. I made a mental note to expedite giving him some more alcohol slime. We exchanged a few more pleasantries before I headed to Lisa's office.
+
+'Gold-rank, here I come!'

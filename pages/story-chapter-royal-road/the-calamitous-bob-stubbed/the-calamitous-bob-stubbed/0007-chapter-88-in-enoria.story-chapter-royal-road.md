@@ -1,0 +1,417 @@
+---
+id: b0fffeef-ca18-54dc-8b30-0f8c966e8ebe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88: In Enoria"
+slug: 0007-chapter-88-in-enoria
+partOf: the-calamitous-bob-stubbed
+position: 7
+ownLength: 5600
+unit: words
+ownProgress: 5600
+publishedAt: 2022-09-09
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/990619/chapter-88-in-enoria"
+royalRoadId: "990619"
+markedReadAt: "2026-06-29T21:14:53.563Z"
+---
+
+Traveling through the Enorian spring was the closest Viv had felt to being on Earth since landing on this weird planet. Fields of flowers and copses of trees shone a vibrant green on either side of the dirt road. Sometimes, they came across an abandoned field or the ossified remains of a stone building that could have been an abandoned shepherd's retreat, and she almost expected to crest a hill and find an asphalt road and a board announcing Carmaux or Marvejols in twenty kilometers. Frequent hills blocked the view, which should have set her on edge but just gave the setting a more intimate feel. The illusion lasted for a blissful ten minutes at most, then something came to break the immersion.
+
+Strange, colorful dragonflies or butterflies with strange wing patterns reminded her of where she was. Or the white frame of a hunting Arthur would swerve in the distance. Or Marruk would turn to inspect something and she would go from funny LARPer to actual alien. Funnily enough, this did little to mar Viv’s mood. She was free of responsibility for the first time in six months. Half a year of constant pressure, decisions, and efforts now finally over. Harrak was in good hands, she believed. Solar had been very obvious about not wanting the job, which made him the best candidate. It was just her, the others, and the road. Even the weather was on their side.
+
+They camped the first night in an abandoned farmstead. The solid compound had only been left very recently, and they found many tools and pots of low value neatly stacked in a shed. Viv surmised that someone had moved away because of the civil war out of concern for their safety. Given what she had seen in Anelton, it felt reasonable enough.
+
+“Yes. I saw that as well,” Marruk confirmed. “In good times, people expand in good spots for villages. But in bad times they contract. People go hungry then. They throw stones and send their dogs.”
+
+She frowned.
+
+“Some of the new villages survive, others are lost or abandoned.”
+
+//A mark of poor planning.
+
+//Harrakans have and must plan their expansion properly.
+
+//A population cannot be wasted building a village on a Frilled Roc migration path.
+
+//Truly, the barbarians have returned to their ways.
+
+//They will have to be taught again.
+
+“Not by us and not any time soon,” Viv replied. She had much on her plate.
+
+Viv spent her evening listening to Solfis reading a magical theory book from his data bank, discovering in passing that ancient scholars did not consider clarity as particularly desirable when exposing their theories. It still gave her some ideas on the next step of her training. So far, she had tossed balls of mana with symbols on it, but apparently it was possible to combine several ‘layers’ to make complex spells with various effects. She was intrigued, but it was hard to do, and harder still when alone.
+
+They left early in the morning after a breakfast of meat skewers and tubers, courtesy of Arthur and Marruk, respectively. They came across their first village around noon and Viv realized her mistake.
+
+She should have taken a fifth member, a face, someone smooth, because they were too memorable.
+
+Solfis could not buy fresh bread for obvious reasons, same for Arthur. Marruk would attract too much attention this close to Kazar. As for Viv, she had auburn hair while everyone’s was black, and unique green eyes. It was possible to change one’s appearance through magic but that was a life mana domain and thus closed to her. She should have found a way to dye her hair. She should have brought a fifth person, a man. That was a mistake on her part. As it was, they had to avoid the village.
+
+//A good thing, Your Grace.
+
+//That way, you are not tempted.
+
+“I am tempted by fresh bread!”
+
+//We still have a significant amount of travel biscuits.
+
+//Plus the roots and meat your companions find.
+
+“Yeah yeah.”
+
+That evening, they failed to find a house so they set camp under a particularly large pine tree. The fallen needles were softer than expected and Viv woke up smelling like corporate toilets, which was actually an improvement. They found a well later that day and used it to refresh themselves. They also came across a small convoy.
+
+Viv had not come across any lone travelers so far, which reinforced her belief that people around were not complete idiots. The convoy must have had some sort of scout because they detected her presence before she could see them, though she knew of their presence thanks to Arthur. She was asked to stand at a respectable distance across a clearing by a bunch of nervous hunters with bows, which Viv was fine with. The convoy itself looked rather cheap. It was mostly villagers on their makeshift carriages accompanied by the town’s guards, carrying food and bales of wool. The few women present wore long skirts and braided hair that popped out of shawls. Conservative stuff. Viv and her companions were studiously ignored.
+
+“Wartime measures?” She asked.
+
+//They must expect bandits, Your Grace.
+
+“I would think that the prince cleaned the place on his way here.”
+
+As soon as she said that, she knew her opinion was stupid.
+
+“There are always more bandits when an army just fell apart,” Marruk said.
+
+//Especially if government rules are stringent.
+
+“You sound disapproving, Solfis. I thought you would prefer stringent rules.”
+
+//A path of salvation must be offered so the surviving meatbags may redeem themselves.
+
+//Otherwise, the victor must deploy light cavalry and hounds.
+
+//And exterminate the resistance.
+
+//I disapprove of half measures.
+
+“I shouldn’t have asked.”
+
+//I am ever happy to offer you a chance to learn, Your Grace.
+
+//In any case, we should expect bandits.
+
+On the third day, they found a suspicious tree across the path while they were moving through a large patch of wood. Viv took one good look and almost groaned.
+
+“Isn’t this too obvious?”
+
+“I agree,” Marruk said, then her face froze and Viv’s sight was suddenly blocked by thick steel. There was a ping.
+
+“Archers!” the Kark said. Viv had felt the danger as well. She dismounted quickly and placed her roundshield in front of her. There was a man standing in the distance. She had not seen him. His expression was one of pure terror. Other ruffians in stained gambesons and dirty shirts were rushing her now.
+
+“No! Wait! Run!” The man said. “It’s her! The Great Black Whore!”
+
+The handful of outlaws slipped on the gravelly earth in an attempt to reverse course, cries of dismay echoing through the empty woods. The archer was already fleeing.
+
+//Your Grace.
+
+“I know. Purge net!”
+
+They didn’t run fast enough.
+
+Black mana was not the most flexible but it sure worked at what it did. Killing, to begin with. Cutting down trees into logs worked as well. If that whole evil imperialistic overlord schtick didn’t pan out, Viv could always start a sawmill. Didn’t even need the mill.
+
+“I think that should do it?” she asked Marruk. The Kark frowned disapprovingly.
+
+“One more layer.”
+
+“We have dragonfire.”
+
+“One more layer!”
+
+“Fiiiiiiine.”
+
+All bodies had to be disposed of or risk rising as revenants, and Viv didn’t have Neriad’s powers to give peace. The god had sent a tinge of sadness after she had prayed for forgiveness, but it looked like conflict between members were rather common and so she wasn’t excommunicated yet. In any case, she was not part of his clergy. They had to burn the corpses. Viv took comfort in the belief that the lice would burn as well.
+
+“Squee?” Arthur finally asked from the stump on which she throned.
+
+“One more layer.”
+
+Work
+
+Faster
+
+Want
+
+Hunt
+
+Explore
+
+Observe
+
+“You could always help, you know?”
+
+Help
+
+With fire!
+
+“Yes, yes, one moment.”
+
+They soon had a pyre going. It smelled disturbingly meaty.
+
+“Five silver talents, a hundred iron ones. They were probably waiting to save enough so they could start over somewhere else,” Marruk observed.
+
+Viv split the money between herself and Marruk. Arthur didn’t get anything on account of having done nothing at all! The rest were battered weapons, filthy pieces of cloth and wine Viv wouldn’t have used to clean her windows. Slim pickings.
+
+“Maybe we’ll get luckier next time,” Marruk said,
+
+“I hope there isn’t a next time! Wait. Marruk. Did you ever hunt outlaws to steal their stuff?”
+
+“Well. It’s not stealing if they’re outlaws, right? It’s, errr, liberating. Outlaws are not protected by law, by definition.”
+
+Viv was starting to think that the Kark’s trip through human lands had been a bit bloodier than she let on.
+
+Whatever.
+
+The journey went on until Viv finally came to miss her comfy bed and regular breakfasts after another week on the saddle. It had rained for a full day when they had finally moved north to avoid the major hub of Reixa, a city where everyone likely knew who she was. She had used a colorless shield to stay dry which was, she had to admit, completely awesome, but the cold and humidity could not be fended off that easily. The relative absence of signs and posts meant that finding their way was delicate without stopping at any of the many farming villages now dotting the plains. Thankfully, Marruk was talented at finding direction, skilled as well. And easy to get along with, which mattered when even the handful of monsters ran away rather than provide an amusing diversion. Viv breathed with relief when they arrived at the border town of Koltis, which sat happily at the crossing between northern and southern Enoria. The many villages on the way had been spared most of the horrors of war, and laborers of all ages busied themselves in the fields, plowing and seeding for this year’s harvest. Songs filled the air.
+
+“Looks like they’ve been left untouched, just like Farren said,” Viv commented as she put on her ‘incognito’ cloak which was dark blue and velvety with a silver brooch.
+
+“There are few people who would mess with the town. It’s not worth angering so many churches.”
+
+The troop transports that ended in the deadlands paused in Koltis, and most of the churches had a strong presence here, with the guards that came with it. It was when they came across a caravan of ‘merchants’ that Viv guessed the second part of the city’s function.
+
+“Smugglers,” she commented.
+
+“Not even hiding,” Marruk added, “means that it’s safer to look like smugglers and they’re more afraid of bandits than guards.”
+
+//Frontier towns between two countries that do not trade officially tend to attract this sort.
+
+//As well as spies and other operatives.
+
+“I don’t think we can avoid going there. We’re out of supplies. We should not linger, though.”
+
+//Agreed.
+
+//We must save my reserves for as long as possible.
+
+//There will be no easy opportunity to recharge me.
+
+The roads were packed for the first time ever. People in simple garb were bringing flocks of the large egg-making birds Viv had seen in Kazar, but also cornudons and other animals Viv had never seen before and that looked like oversized rams. A group of children ran by them, laughing all the way. Koltis came into view soon after.
+
+The town sat atop a lone hillock in the middle of a flat valley, with a brook flowing lazily in the distance. Walls surrounded a village of tall houses, while an actual castle dominated the view. Viv could spot the shine of steel and siege engines from here so the reason why people left the place alone was not just because of its influence. Nobody paid the party any mind, especially with Arthur flown somewhere else for the day. The lack of danger made the dragonette positively greedy, and she hunted with diligence. The gates were opened and a line had formed by its side. Viv considered stopping but Marruk shook her head.
+
+“We look rich so we must act the part. No self-respecting caster would queue with peasants, even a wild one, and we have horses to boot.”
+
+They moved on to the short queue, ending behind a carriage of respectable size bearing the symbol of a black gate. Viv recognized a dignitary of Enttiku, the God of Death. They were let in immediately.
+
+“You guys merchants?” a guard asked. He spoke with a lazy voice and was using his polearm as a walking stick, but Viv was not fooled. The man had keen eyes and he was inspecting them. She pulled in her soul. No need to cause a scene. It didn’t look like this place liked scenes, or asking names for that matter.
+
+“No, we’re travelers,” Viv replied.
+
+“You with anyone?” he asked, and Viv suspected that the question was loaded.
+
+“No, just passing through,” and because the man frowned just a bit, she added more to be safe.
+
+“We were hoping to find the local branch of the Manipeleso Bank and Exchange.”
+
+“You got a chit?”
+
+Viv obliged, foraging in her cleavage to find the damn pendant. The doorman relaxed when he saw proof.
+
+“Standing rate is half a silver per rider. No fees on horses or luggage for bank guests. It’s your first time here?”
+
+“Yes.”
+
+“The bank is in the royal square. Can’t miss it. Just follow the main road until you see the statue of a twat on a horse, and I’m not saying anything but don’t try to sell anything without approval or you’ll catch a steel-based stomach-ache, mage or not.”
+
+“Yeah. Sure.”
+
+Viv paid the silver talent. The guard waved her in without another word and she soon realized that they had come during market day.
+
+Koltis was old, or at least it hadn’t burnt down in a long time. All the standing houses were at least three-stories tall and they loomed over the main road like crones over a cradle, dark and pitted by age. Conical roofs designed to ward off snow only increased the vertiginous feeling brought not by height, but by the suffocating narrow paths packed with a crying, laughing, haggling humanity. Stalls and carpets covered every spare finger of available space that wouldn’t result in active trampling. Viv was compelled to slow down to a crawl. Men and women with dangerous eyes watched her pass from windows and balconies. It smelled very strongly of perfume and sweat, of fresh pastries and piss. The heady scent overwhelmed her after so many days outside. Reflexively, she made sure that all of her pockets and saddles were closed, not that she expected to compete with people of the thief path. The slow pace gave her the time to see what people were hawking and the variety was something to behold. There were toys, small enchanted stones that produced a variety of effects, knives, umbrellas, and simple tools. The farther they went, and the more elaborate the goods were. A blacksmith was offering a discount on training blades, unadorned and heavier to build muscle. A handful of jewelers sold pendants and rings under the paranoid gaze of bodyguards. Viv could see and feel mana from a lot of those, some of those she didn’t recognize.
+
+“Defensive rings, milady?” the daring salesman asked, seeing her interest. “A compass ring? A cold seed ring for your lover?”
+
+Viv gave the man a half-lidded smile. Truth be told, compass and no-kids-no-STDs rings sounded quite useful but she could not hide her eyes or hair color from up close. Not worth it. Not stopping for anything.
+
+They arrived at the square after far too much time. It was less crowded and guards had multiplied, the official ones that is. There had been plenty of thugs. No one stopped her from going in. She supposed that the expensive cloaks, spare horses and obvious hired muscle gave off the right vibe. The bank looked suspiciously like the one back in Kazar including the small columns and austere exterior. The only concession to the town’s esthetic was the use of dark tiles that decorated every roof in town. A dark-skinned young man in a pristine white doublet grabbed their beasts and bowed, inviting them in without a word. Viv left a folded Solfis in his special saddle and walked in through reinforced gates.
+
+The interior of the bank was an exact copy of the one she had visited in those last days before the departure down to the wood used for the welcome counter. It was the same warm tones, the same dim light and understated charm. It even smelled of wax and wood like its Kazaran counterpart. The only difference was the size, as the Koltis office was significantly larger. Several coffee tables occupied the open space leading farther inside, surrounded by chairs and separated by wood screens to afford several groups their privacy. They were currently empty. A dark-skinned guard in shiny mail with a white tabard took a step forward with a genial smile. He has a straight sword by his side, sheathed for now.
+
+“Welcome to the Manipeleso Bank and Exchange, Koltis branch. May I ask your business?”
+
+“I wish to inquire about guides. My final destination is Helock.”
+
+“I assume that you are already one of our valued customers. May I see your chit?”
+
+Viv grabbed the pendant from her neck, but the guards stopped once he was close enough to see under the cloak’s hood. He retracted his hand.
+
+“That will not be necessary, after all. Mr Manipeleso has been expecting you. Please, follow me. Your mounts will be taken care of.”
+
+Without waiting for an answer, the guard made a sign to his partner who started the complex task of securing the gate behind her. It seemed to involve a large amount of locks and enchantments. A beautiful woman stood and bowed as she passed her by. Just like the guards, she had the dark skin of a northerner.
+
+Viv followed a set of corridors to another reception room in warm tones, lit by lanterns giving a warm light. High windows gave a modicum of daylight as well. She half-collapsed in an elegant chair made of curved woods and a soft pillow. Marruk did not relax, but took her position by the door. A moment later, the desk woman knocked and brought a floral infusion with a set of cups and sliced fruits. She was soon followed by a burly pair of soldiers carrying a folded, silent Solfis. Viv had a sip of the infusion and liked it, exchanging a smile with the woman who had remained. It only took a couple more minutes before the master of the place arrived. By then, Viv had removed her cloak, leaving her exotic traits fully on display.
+
+“The Calamity herself. It is such an honor to welcome you in my humble abode,” the man said with a winning grin, one Viv could not help but return.
+
+“My name is Zan Manipeleso, head of the Manipeleso Bank and Exchange, Koltis branch. We have much to discuss.”
+
+Her host had a perfectly trimmed beard and a shaved skull. He was very handsome in a patriarch kind of way, a bit old for her taste but impressive nonetheless. A white robe covered his muscular chest, much broader than she would expect from a man of finance, and his hands showed the scars she had seen in Marruk and other professional fighters. Keen eyes surveyed her but his smile felt genuine, wrinkling crows feet. Viv noticed the grey on his temple as well, enhancing the feeling of respectability he exuded.
+
+“The pleasure is mine,” she replied amicably, “although the fact that you expected me is a concern in itself.”
+
+“Oh, do not worry about this. Tom Manitaradin has given us an account of the recent events, as you can imagine. Your arrival here was expected provided that nothing went wrong on the way.”
+
+“Ahem.”
+
+“And nothing has, it seems. How exciting. Right, before we begin, let me cut to the chase. Your arrival has necessarily been noticed by local cartels, especially because your eyes and hair are quite recognizable by those who pay attention. We will evacuate you via our secret route tonight so that you can flee north. I apologize in advance for the upset if you expected to relax and visit the place, but I fear that any delay would give our opportunistic friends the time to lay a proper siege, or to try and kidnap an employee, perhaps. Greed often blocks the path of self-preservation. In the meanwhile, please give us a list of supplies you would like to acquire and I will send runners to purchase them for you, for a very modest fee.”
+
+Viv frowned at that, but to her surprise it was Marruk who intervened.
+
+“What you pay with the fee will be offset by what the northerners save through bargaining,” the Kark reluctantly admitted. “They are very good at negotiation.”
+
+“Quite, Mistress Marruk.”
+
+“Hold on, I understand that the ‘loyalists’ would want my head, but I thought this was neutral territory?”
+
+“It most certainly is. However, Koltis’ sovereign after Count Serril is profit and we have received news a couple of weeks ago that concerned you. It appears that Constable Toreno has taken a keen interest in your person.”
+
+Viv blinked.
+
+“I have no idea who this is.”
+
+Zan’s smile widened, then the man chuckled, which turned into a full belly laugh that lasted for a couple of seconds and left Viv a bit baffled.
+
+“Ah, forgive me this outburst. Constable Toreno has taken over the royalist faction. By the way, using loyalist clearly identifies you as a southerner, which you should avoid doing so close to the frontier. The neutral terms would be royalist, as I mentioned, and separatist. Using the term rebel is regarded as a major faux-pas among certain circles. It amuses me that you would not know the identity of the man pushing so hard to save his side.”
+
+“Why is he interested in me, then?”
+
+“I am not certain but I can surmise that it relates either to the brazen execution of the de facto crown prince, or to your mysterious ability to heal what was considered as beyond help.”
+
+Viv realized that she had not considered how momentous her regrowth spell construct could be. She should have.
+
+“Constable Tarano has offered a thousand gold talents for your capture alive, or a hundred and fifty for information that could lead to it.”
+
+Viv swallowed not to spit the content of her cup. That was… enough to buy one’s own barony.
+
+“Neriad’s, errr, unmentionables. Really?”
+
+“Quite so. You can understand the urgency of the situation.”
+
+“I’m surprised I wasn’t shot down in the streets.”
+
+Zan’s eyes twinkled in the intimate light.
+
+“I think you can answer this question yourself. It is said that you matched Eteia in a duel.”
+
+“Briefly.”
+
+“Then you can understand that even the most addled bounty hunters know that they cannot collect if they’re dead. Besides, dear Tarano made it abundantly clear that your corpse would get no reward beyond a noose. It takes quite a bit of planning to take down a caster of your talent without killing her, and even more when they have your instincts… and entourage. Nevertheless, some will try soon enough. That is why we will make sure you are out before it happens.”
+
+Viv blocked the benevolent aura coming from her gracious host for a moment so she could ask the real question.
+
+“Not that I am not grateful, but what do you get out of this?”
+
+“Ah, yes, the motives.”
+
+If the man was offended by his question, he gave no signs of it.
+
+“First, the smuggling cartels always maintain a delicate balance between two secret wars. I deem it a bit too soon for the next one to start so competitive violence would be inadvisable right now. By removing you from the city, I put a lid on an untimely eruption of bloodshed. If you cannot believe anything else, believe this. Second, the Manipeleso Bank and Exchange has taken a great interest in your performance. We do so love an underdog. Not to mention the enticing prospect of reclaiming the deadlands, which would, as I am sure you are aware, require a large amount of capital to jump start. Third, our noble institution is present in every nation of this continent including Halluria because of our reputation. For us, reputation is everything…”
+
+Zan’s elegant companion interrupted him with a few whispers in their tongue. The mighty banker sighed deeply, and for an instant the mask fell to reveal intense regret. It disappeared again so fast that Viv thought she might have imagined it.
+
+“Speaking of which, I have a regrettable business to attend to. Please, consider it a token of our commitment.”
+
+The original pair of guards came in without apparent prompt. They carried between them the very same attendant who had collected Viv’s horses back outside only a few minutes ago. Perspiration pearled on his skin and he looked terrified.
+
+“Uncle, I…”
+
+“Shhhh,” Zan said without mirth. “My dear Rel, we tolerate a bit of theft and some insider trading in our recruits, if only so they expect it from their subordinates, but we have one golden rule. One rule that we never, ever break. Which one?”
+
+“I…”
+
+“Which one, Rel?” the powerful man hissed between clenched teeth.
+
+“Protect client confidentiality.”
+
+“That is correct. Nol, which one?”
+
+“The bloody knives, sir.”
+
+“Rel, not only are you without honor, but you are also without brains. Everyone in town worth a damn already knows she’s here. This secret is worth nothing.”
+
+“I am sorry, uncle.”
+
+“Yes, my boy. So I am.”
+
+It happened very quickly. The banker’s large, scarred hand closed around his subordinate’s throat like a vice and twisted. The younger man barely had the time to gasp before the telltale crack of snapped bones silenced him forever. His body fell like a puppet with its strings cut in the waiting arms of the guards, who pulled him away. He was still gasping for a breath that would never come when the door closed behind them.
+
+A part of Viv thought that it was a nice touch to remove poor Rel before he could stink up the room with his loosened sphincters. She took a sip of tea.
+
+Another part was screaming in her head. That was fine too.
+
+Marruk rumbled something in Kark. It was obviously not very diplomatic because the man froze in his tracks and the atmosphere grew heavy indeed. Viv belatedly remembered to use her fucking skill.
+
+[Death dealer, extremely dangerous, one who conducts business on the edge of a blade. Close quarter combat specialist, slayer of men, slayer of Kark, smart, merciless. Very fast]
+
+Viv turned to Marruk, whose hand hovered over the handle of her nasty flanged mace.
+
+“Could you please not?”
+
+//I agree with the Heiress, long may she live.
+
+//Please return to the main objective.
+
+Solfis’ voice helped the banker calm down. Viv hadn’t dared using her intimidation because she felt like Zan knew he would die and was considering gutting Marruk anyway.
+
+“Yes… As Miss Marruk said, the hungry dogs do tend to devour each other.”
+
+He gave her a venomous smile and the stout Kark reddened with embarrassment.
+
+“Sorry about this,” Viv said on behalf of the proud woman. She knew that Marruk had been rude but on the other hand the banker’s people and Marruk’s tribe had been at war for a long time and things had gone genocidal. It was like asking a Jewish soldier to be patient with Nazis or something. Viv gave herself a Godwin point and a scolding for that shit comparison and wisely decided to move on.
+
+“I understand. Now, if you will excuse me, I must see to tonight’s preparations. Lan will assist you with everything you need.”
+
+The large man left in awkward silence. The elegant woman, Lan, stood and clapped her hands once in a preppy gesture that dispelled some of the mood.
+
+“I am sure you are tired from your journey and you have a long night in front of you. I have taken the liberty of preparing the guest quarters where you can relax and bathe in preparation for your departure.”
+
+“That sounds great. Please, lead the way,” Viv replied genially.
+
+They walked deeper into the complex with the pair of guards still carrying Solfis. It felt weird to Viv but she supposed that no one in their right mind would want to watch him unfold. Except her, of course.
+
+“So, I wanted to ask if it’s not trouble, Lan. I cannot help but notice that Mr. Manipeleso shares his name with the bank. Is this a common occurrence?”
+
+“Oh yes, Mr. Zan Manipeleso belongs to the main branch of the family. In fact, he is related to the current head. They are second cousins, I believe. Mr. Manitaradin whom you met belongs to a secondary branch, although, if he were to compete for leadership, he could be accepted in the main one with sufficient merits.”
+
+Viv asked a few more questions which led to a lengthy explanation. Apparently, the family was actually a clan and they owned the bank fully. She got the impression that competition to become boss was extremely fierce, but that they were united when it came to outsider interference. Lan finished answering while Marruk was moving inside the guest quarter they would be using, which was spacious and had two beds.
+
+“Please give me a list of supplies you would like purchased at your soonest convenience. The cost will be deducted from your balance plus a finder’s fee that depends on the haggler’s skill.”
+
+“Hm, truth be told, not sure of what this city can offer.”
+
+“I will be happy to assist an outlander, Miss Viviane.”
+
+It took some time, but Viv finally got a comprehensive package that included food as expected, but also a variety of enchanted objects that Kazar couldn’t produce due a lack of qualified workforce. The enchanters they had acquired had focused exclusively on weaponry.
+
+Viv’s logic was that she could paste anything as long as she was conscious, so she had to work on staying in that state. She purchased a ring that would vibrate and ‘poke’ her if she was ever poisoned as well as a set of wide-spectrum antidotes, as well as a magical helmet. Those would set her back a solid twelve gold talents, which was what a knight captain earned in a year (before taxes). The helmet was cool though. It looked like what Achilles would wear in a Hollywood remake of the Iliad but without the massive crest. It was also dark grey and had the welcome feature of limiting incoming light. A side effect of that enchantment was that her iris looked black instead of green as long as she kept it on her head. There were also soaps and a hair dye she used just after her bath. Her hair was long enough to reach her shoulders now, so even the helmet wouldn’t cover it properly. A compass joined the collection, and then came the difficult choice of buying magical prophylactics.
+
+She didn’t intend to bonk anyone during her trip.
+
+But well, better be prepared just in case.
+
+“If you use it, you must keep it on for at least three days afterward. A week is safer,” Lan told her during an embarrassing conversation. Eventually, she was ready and went to bed for a nap. She woke up at nightfall and had a light dinner with a sulking Marruk.
+
+“Sorry about earlier,” the Kark mumbled.
+
+“I understand your reaction… Just…”
+
+“I know. It was stupid and served no purpose.”
+
+Viv thought that the matter was close, but when a soldier came to tell her that the time had come, Viv thought the Kark would smash his head in.
+
+The newcomer was not one of the guards she had seen earlier, but a man wearing dark leather armor enchanted to the gills. He had long dreads decorated with ribbons and other trinkets Viv found curious but she didn’t comment. A variety of knives hung from a bandoleer across his chest. The design of his armor was rather specific and reminded Viv of her old scout armor, the one she had found in Harrak. He seemed to sense the tension and retreated after delivering his message.
+
+“What was that about?” Viv asked as they finished dressing.
+
+“He is a Dark Blade. You will forgive me if I react to the uniform his associates wore the night they murdered my mother in front of me.”
+
+“Oh.”
+
+“Yes. Oh. Let’s get out of here before I do something everyone will regret.”
+
+The pair followed the Dark Blade out of their room and then down a flight of stairs leading to a passage so long Viv felt like they ought to have left the city already. They emerged later in a barn and Viv realized that she was, in fact, out of the city. Four different horses awaited with Solfis and their usual saddles, as well as six Dark Blades on light mounts. The fields outside were empty but Nyil’s moon shone clearly on the forest in the distance and the white dragonette landing with an excited squee. They left at a gallop.
+
+“I just want to get to Helock,” Viv whispered under her breath. “Nothing more.”
+
+Behind them, unseen men yelled in alarm.

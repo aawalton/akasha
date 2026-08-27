@@ -1,0 +1,121 @@
+---
+id: c0ffa8f0-99c5-544a-a743-21f61a055a6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 375 : Holy Crab"
+slug: 0077-chapter-375-holy-crab
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 77
+ownLength: 2279
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3295197/chapter-375-holy-crab"
+royalRoadId: "3295197"
+---
+
+As I descended upon each room like a plague of locusts, killing the monsters within and stripping it of any valuables, I began feeling much better. Yes, it was a little mindless, but it was the perfect remedy for my frustration with the folds.
+
+I primarily stuck to using [Spatial Severing], [Personal Rift], and [Folded Geometry]—one fold only, of course—with some slime tentacles thrown in for good measure. Glossing over the fact that anytime my slime was involved, it would be significantly more effective, I still felt like these techniques were highly efficient. Even when I started combining elements together, I hadn't felt this powerful with Elementalist, or maybe I hadn't invested enough time into using all the tools I had available.
+
+I have to admit, but having a smaller pool of abilities with Riftmancer is probably better for me. With ten elements to choose from, I was definitely suffering from a bit of choice paralysis, and that's not even including [Chaotic Elements]!
+
+Maybe I was making excuses for myself, but there was something very satisfying about tearing monsters apart with dimensional slices or pulling them into my rift. Treron was definitely an exception, and the normal monsters couldn't just shrug off even basic cuts.
+
+There was one big and unfortunate downside I found out, though: I couldn't combine the powers of [Spatial Severing] and [Personal Rift], or at least the way I tried wasn't right. Passively, [Spatial Severing] gave the attack aspect of my apertures a small buff, but I wanted to try combining them actively, like I did with folds.
+
+The actual result? I cut my own aperture in half and collapsed it. I should have expected it, as my apertures were already a tear in space, and cutting them was just further ruining the location's dimensional integrity.
+
+To make matters worse, I had actually lost the ability to recreate that specific aperture. At first, I feared it was gone for good, but after some time, my [Personal Rift] seemed to repair itself. However, there was a silver lining to this experiment: the collapse was destructive to whatever was unfortunate enough to be caught in it.
+
+Whether it was worth the temporary sacrifice of one of my apertures, I wasn't sure, but at least it was an option. A last-ditch effort before swapping to another avenue of attack, for example. I had the idea of multiple apertures in close proximity, slicing them all at once. Still, I quickly strangled that line of thinking as I was actually scared I'd permanently damage my rift, which I'd grown particularly fond of.
+
+The whole time, I kept trying to find the next shrine guardian or the Hall of Glory, but either my sense of direction was terrible, or the dungeon was making it hard for me to find them. However, with enough brute force, I finally found something.
+
+Just like the shrine, the room layout and atmosphere were different from the ordinary dungeon, and it was once again outside the water. The only thing that gave me pause was that it wasn't a shrine, more like a temple, and that everything was constructed to venerate the Great Lord of the Ocean, with murals and even stained glass dedicated to him.
+
+It looks like the Great Lord of the Ocean is some type of squid or octopus? Unless those tentacles are just for show, but I can't think of any other reason for so much imagery.
+
+The silhouette of the actual "Great Lord" was obscured, maybe left to interpretation or to prevent the unworthy from casually witnessing him. Hence, the only thing that was notable for me was the tentacles. If he were some type of cephalopod, then the only question that remained was whether he was the [Dungeon Master] or just the final boss monster.
+
+I continued exploring the temple, looking for clues, another guardian, or treasure. The strangest thing about this was that this was all one room in the dungeon, but there was an entire building inside it. Was the [Dungeon Master] being cheap and didn't want to dedicate multiple actual rooms to this temple, or was this some kind of exploit?
+
+If it's the latter, that might work for me. I'm assuming that no matter what I do with my slime dungeon idea, I have to officially make something the dungeon proper. If I can make one giant "room" and place my slime tower inside that, then I don't need to make anything else.
+
+I was probably getting ahead of myself, especially since I hadn't even secured the [Dungeon Master] Emblem yet, nor did I have any idea of what that entailed. Still, I couldn't help getting excited about the prospects and dreaming of what type of slimes I could spawn for myself to eat.
+
+"By the way, if this dungeon is supposed to be all ocean-themed, why are there no ocean slimes!?" I shouted, feeling a little frustrated since I was hoping to get a new snack and ability for [Primordial Slime].
+
+"Child, why would the Great Lord of the Ocean belittle himself with baser creatures like slimes? They are nothing but pests and cattle for the masses," a voice echoed out from within the temple.
+
+I turned to face the source and saw a robed "man" wearing a long white robe with golden trimmings, far larger than his body. It would probably be more accurate to say it was draped over him than actually being worn. Not only that, but I saw peeking beneath one of his sleeves, something that looked like a big meaty claw.
+
+<Irthrid, Guardian of the Temple.>
+
+I was glad to finally find another guardian, although I couldn't overlook the badmouthing he had just done against my entire species.
+
+"Slimes have a lot more going for them than you realize, after all, how else would I be conquering this dungeon so easily?"
+
+Irthrid's face seemed to twist unnaturally as he frowned, and I heard a snapping noise. "You filthy slime, you dare disgrace this hallowed ground?"
+
+I shrugged. "Well, now you're just being petty. I'll have you know I'm very clean, probably the cleanest thing in the world."
+
+After all, what dirt could survive level seventeen [Acid Slime]! I'm the ultimate sanitizer.
+
+The guardian didn't seem to appreciate my remark, as his anger only intensified. Not only that, but a golden aura began to radiate off of him, and I was instantly reminded of both Evan and Loreleia.
+
+[Holy Magic]! Wait, I shouldn't be surprised, he is the guardian of the temple, did I expect him to throw a [Fireball] at me?
+
+Irthrid raised his arms over his head, causing the sleeves of his loose-fitting robe to slide down. His left arm was mostly human, with what appeared to be barnacles and a carapace growing on it, and in his hand was a large, bronzed eight-pointed star pendant with a golden eye in the center. Eight tentacles were emerging from the eye, each reaching out towards one of the star's points.
+
+His other arm, however, was indeed a big, meaty crab claw, with the carapace extending well beyond the claw and likely covering a large portion of the right side of his body. Rather than a monster, he seemed like a mutated human, but I realized that was impossible.
+
+There's no way a dungeon can spawn a human. No, this is probably some monster the [Dungeon Master] twisted to appear human, for whatever reason.
+
+I had some thoughts about that: perhaps, if human adventurers came here, this guardian would preach about the Great Lord of the Ocean and try to convert them. I wasn't entirely sure of the purpose; it could just be a ruse before the guardian ambushes them when they let their guard down, or perhaps the [Dungeon Master] wanted to collect believers for a grander purpose.
+
+But, as a fellow monster, the ruse was promptly dropped. I was actually surprised the guardian even tried talking to me first, as I wasn't exactly hiding my slimy nature down here at all, or perhaps their innate intelligence was questionable.
+
+"Perish!" Irthrid declared, the pendant in his hand glowing brightly.
+
+Above his head, a golden sword of holy light formed, but it had a jagged, organic shape, curving like half of a massive claw. The blade hooked downward into a serrated edge, while the handle was wrapped in bindings, as if it had been carved from some fallen beast.
+
+I felt an instinctual urge to dodge, as I knew magic was still my system-declared weakness and, as far as I was aware, I had no resistance to [Holy Magic]. But, as long as my cores were safe, so was I, and thus I wanted to test my defenses against this holy forged spell blade.
+
+I braced my slimy body for impact as my cores retreated to safety through some rapidly growing slime. Moments before it struck, I saw a sneer forming on the guardian's face. There was some resistance as it met my slime, hardened through various traits, yet Irthrid began yelling as if exerting pressure and swung his claw arm.
+
+There was more pressure on the divine blade, and it managed to overcome my slime and slice through the arm I had blocked. I was genuinely surprised, as I hadn't seen anything that could cut my slime in quite a long time.
+
+I thought an adamantine and obsidianite blend would be enough, but evidently I was mistaken. Do I need to use different metals? Adamantine was supposed to be highly resistant to magic. Did the obsidianite somehow dilute it even with [Primordial Slime] boosting [Metal Slime]?
+
+My thoughts had to be interrupted as the holy crab claw blade had not faded with that one strike. It must have been some kind of persistent spell that he could command, as he waved his clawed hand again and the blade attempted a horizontal cleave this time.
+
+Again, I felt the urge to dodge, but my cores were still safe, and now I was curious if I could actually stop this blade. I changed the internals of my slime body, creating varying layers of [Metal Slime] with only a few thoughts. Irthrid showed no sign of knowing what I did, and instead seemed to be already basking in the victory he was securing for his Great Lord of the Ocean.
+
+The blade flashed before it struck again, slicing through my layers of slime. I winced a little at the loss, even though I had far more than enough in reserve—old habits die hard, after all. Looking at the results, pure adamantite seemed to fare a little better than the alloy, but was still defeated as Irthrid roared and exerted more effort.
+
+However, to his shock and horror, the blade eventually stopped, and no matter how much he roared and swung his clawed arm wildly, it would not budge. Despite having a divine sword half-embedded in my body, I grinned maniacally at him.
+
+Looks like Mithril was the solution!
+
+I'd been studying the various layers of [Metal Slime] as they were defeated. Mithril put up a very good defense, almost as much as Adamantite, and what finally stopped the blade in its tracks was an impossible alloy of Mithril and Adamantite.
+
+I made a mental note of this property of Mithril and returned my attention to the guardian. He was cursing up a storm as he continued trying to slice through me, sweat beading down his face. I almost gave him the small victory, just for the fun of it, but decided against it when I remembered how my previous meal had been stolen.
+
+Well, this guardian has outlived his usefulness. I now know what to do to protect myself against [Holy Magic]; it's time to end it.
+
+I activated [Personal Rift] and formed an aperture directly behind me, and three exit points directly around him. With my gateways ready, my slime invasion began, and the unsuspecting guardian had no time to retreat or protect himself before he was seized.
+
+"Unhand me, you blasphemer! How dare you make a mockery of the imagery of the Great Lord!" Irthrid yelled.
+
+His sword was beginning to fade, but his holy symbol was still growing brighter. Most likely, he was going to try a different spell or approach, or somehow defend himself, but I wouldn't allow that.
+
+With him unable to move, I quickly folded the space around his hand and, with my remaining arm, made my own gesture, a mockery of his previous attacks against me. [Spatial Severing] was activated, and with one quick slice, his hand and the symbol were cut from his body.
+
+Irthrid's eyes went wide in shock, and he began to yell and squirm like a maddened beast. He no longer spoke words, his mouth only capable of frothing rage, as his holy symbol clattered across the floor. However, I was paying very little attention to whatever foul things he was shouting, as I just received some great news!
+
+<Proficiency gained. [Spatial Severing LV 2] improved to [Spatial Severing LV 3].>
+
+I can finally deconstruct it! Hopefully, it will have enough for me to make an attack spell or two. Although I have enough skill points now to repurchase if it's still not enough.
+
+I was very pleased and wanted to drop everything to use [Skill Deconstruct] right then and there. However, I wasn't going to leave a potential threat unattended, or, worse, stolen from me. I turned my attention to the mutant crab man and grinned.
+
+"Dinner time!" I declared, as my slimy tendrils began pulling him into the rift where my mass of slime was waiting for the meal delivery.

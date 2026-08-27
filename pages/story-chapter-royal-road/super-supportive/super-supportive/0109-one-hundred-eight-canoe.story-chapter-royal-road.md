@@ -1,0 +1,463 @@
+---
+id: d5aca612-d29d-54b8-a3fb-1c31a0b766d2
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHT: Canoe"
+slug: 0109-one-hundred-eight-canoe
+partOf: super-supportive
+position: 109
+ownLength: 3654
+unit: words
+publishedAt: 2024-01-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1477672/one-hundred-eight-canoe"
+royalRoadId: "1477672"
+---
+
+108
+ 
+The dead silent driver, who Alden was trying hard not to think of as “the Mob driver,” picked them up in the parking garage in a slightly different SUV with equally tinted windows.
+
+
+“Where are we going?” Lute asked Alden as he buckled his seat.
+
+
+“I assumed you were going back to campus,” said Alden. “And I thought I’d catch a bus from there down to F.”
+
+
+“What kind of backup would I be from that far away? I’ll ride with you. Let’s use the secret car like it’s a proper secret car! You’ll take us anywhere, right? As long as I keep paying the privacy company?”
+
+
+In the rearview mirror, the driver nodded once.
+
+
+Alden couldn’t think of any reason why taking a possibly private and definitely overpriced automobile would be worse than just taking public transport. The seat was more comfortable anyway.
+
+
+“Okay.” He leaned forward to talk to the burly, suited man who definitely wasn’t a mobster. “We’re going right down the road to CNH because I need to pick something up from my dorm. Then it’s down to F, to Milagro Lakeside Village.”
+
+
+“The Miracle Lakes neighborhoods are so twee,” said Lute.
+
+
+“You know the place?”
+
+
+“Yes. It’s an area with decorative ponds surrounded by themed housing and restaurants. I’ve never been to Milagro Lake specifically, but one of my aunts took some of us to Kiseki Lake for Children’s Day once. I got to feed the koi.”
+
+
+As the driver set off, Lute was air typing enthusiastically.
+
+
+Alden wondered what he was so excited about until twenty minutes later when, just as they were leaving campus with the courier-delivered letter from “Alice” tucked in his pocket, the driver rolled down the passenger window to let a small drone in the car.
+
+
+“It’s for you,” said Lute. “For your digestion.”
+
+
+The driver took the injector from the drone and passed it back to Alden.
+
+
+“We could have just stopped to pick one up,” Alden said with a sigh.
+
+
+“Secret delivery is better. Everyone knows that.”
+
+
+“If you say so.”
+
+
+Lute reached into the seatback pocket and pulled out a ski mask. “Look. You’ve got a balaclava on your side, too. You can wear it to go meet the person you’re helping.”
+
+
+Alden stared at him.
+
+
+“They come standard with the ride,” Lute said defensively. “There’s a bag with more stuff in the back. Anyway, you’re in a hero program. You should get used to costumes.”
+
+
+“I’m going to visit her as myself. Besides, I think costumes that make me look like a stereotypical bank robber are unlikely to be in my future.”
+
+
+“You never know. Peoples’ tastes in superheroes gets stranger every year.”
+
+
+It was sunset when the driver parallel parked them on a street near their destination. Alden was holding a ball cap and a pair of dark sunglasses from the car’s supply of incognito wear…mostly so that Lute would stop suggesting disguises to him. There was fake facial hair and glue, and Alden was sure they had only been one traffic jam away from his roommate insisting on a handlebar mustache.
+
+
+“This is it. You want me to go with you?” Lute asked.
+
+
+“I think it’s better to have you here, right?” Alden said.
+
+
+“We haven’t really talked about it. Do you think this lady is actually going to try to beat you up?”
+
+
+“No. Of course not. It’s just…you know, in case.”
+
+
+Laura was a D-rank. But she was also a Strength Brute who’d been mind controlled for years. Alden had no idea how she was going to react to seeing him. He thought they’d just have an uncomfortable conversation. But if she opened the door and cold-cocked him before he could say hello, someone needed to be safely out of reach and able to call for help.
+
+
+“Actually…” he said, “wasn’t there a jacket in the bank-robbing supplies?”
+
+
+“A very large black puffer coat,” Lute confirmed. “You want it?”
+
+
+He was already reaching behind his seat for the bag of miscellaneous disguises.
+
+
+Alden targeted him before taking the coat.
+
+
+He was sure he was being overcautious. And he was also sure that if he died because someone who liked to cosplay as a French maid punched him hard enough to make his kidneys explode, his last thought would be about how stupid it was for a guy with a shielding skill to go out like that. Worrying about how he’d look if he wore heavy winter wear out of season just wasn’t a good enough reason. The puffer was slightly less of a fashion statement than the poncho, at least, since there wasn’t a drop of rain.
+
+
+He stepped out of the car wearing his supplies. A woman in a tank top walked past with a pair of leashed Dalmatians then turned back to stare at him.
+
+
+“Don’t worry about her,” Lute said with a grin. “She’s just jealous of your style.”
+
+
+Alden shut the car door.
+
+
+He’d only taken three steps down the sidewalk toward the arched gateway that said Milagro Village before Lute’s video call came in.
+
+
+He accepted it and minimized the display so that it was in his peripheral vision rather than directly in front of his face.
+
+
+“All right,” said Lute, pressing a button to make his seat recline. “I’ll be your handler for today, Cottontail. Call me Odin.”
+
+
+“I’m not sure if you’re being funny or unforgivably ridiculous right now.”
+
+
+“Silence, Cottontail. You’re on a mission.” Lute paused. “And you’re the one who decided to have a mission, of all things. I don’t think the other hero hopefuls are doing missions this afternoon. It’s only you. All ridiculousness that happens from this point on is your fault.”
+
+
+“It’s a neighborly warning, not a mission.”
+
+
+Also why does he get to be a Norse god when I have to be Cottontail?
+
+
+He passed through the arch and walked beside a narrow road lined with flower beds full of carnations. Signs advertising the magical landscaping company that kept the flowers alive were picketed here and there among them. He caught a glimpse of the small lake between two buildings just ahead, but Laura’s apartment wasn’t on the water. Instead, he turned right and headed down a path that lead through more flowers and past six-story-tall buildings with wrought-iron balconies.
+
+
+This place wasn’t marked as a family neighborhood on his interface, but there was plenty of evidence that families with children lived here. Child-sized bicycles stood in the racks, and toys lay forgotten on some of the balconies. From the direction of the lake, he heard the faint sound of music.
+
+
+Not the fanciest area I’ve seen, but it seems really pleasant. Though…he’d yet to see anywhere on the island that looked sketchy or shabby to him. Even Boom Town, where the girls lived, had felt upscale. I might need to adjust my standards.
+
+
+“Hey, is this a nice neighborhood?” he asked.
+
+
+Lute was examining the bottle of mustache glue. “I think most people would call it middle class. Why?”
+
+
+“Just getting a feel for things.”
+
+
+“I spent a lot of my childhood on a magical megayacht,” said Lute, “and when I wasn’t there I was in the family mansion or Aulia’s midtown penthouse. I’m probably not the best judge of real estate values.”
+
+
+“You grew up fancy.”
+
+
+“You should’ve seen how I got to school in the mornings.”
+
+
+“I’ve been meaning to ask you about school.” Alden was striding through a gazebo. The heavy coat was already getting toasty. “Not our current one. I mean the one you attended before. It seems like a huge amount of high rank kids are all familiar with each other from elementary and middle school. From things you’ve said, I know you were in classes with people we know.”
+
+
+Haoyu, Vandy, Kon, and Tuyet all seemed to have been in class with Lute at some point. Possibly at multiple points. And Konstantin’s friend group on the day they’d all come for final interviews and combat assessment was huge and full of students who talked like they shared homerooms.
+
+
+“Did they separate you all by prospective rank even before you got selected?” Alden asked. “A single classroom with more than a couple of S’s in it should be uncommon otherwise, right?”
+
+
+Lute’s eyes went wide and he sat back up in his seat. “No, they don’t separate out kids by guessrank in school. Doing that in an official way would be a step too far even for the super elitists. But I went to a private academy that catered to the crème de la crème, and more than half of the kids had high-rank parents. Elbow rubbing is one of the reasons people send their spawn there. Plus small class sizes, personal attention, and slick blazers that make you look like a future CEO.”
+
+
+He had an unsettled look on his face. “Alden, didn’t anyone ever tell you about me being…?”
+
+
+“Being what?”
+
+
+“Nothing. I was wondering whether you’d picked up on everything or not. But I just assumed you would have already heard about…my basics, I guess? I thought people were probably still making so much noise about it behind my back that you couldn’t have missed it.” He looked down at his hands. “Self-centered, right? But if you don’t know, I’ll get to tell you about it myself. That’ll be…nice. For a change.”
+
+
+He cleared his throat. “Focus on your mission for now, Cottontail.”
+
+
+“Are you okay?” Alden asked.
+
+
+“I’m Odin. Why wouldn’t I be?”
+
+
+******
+
+
+Alden debated the merits of clicking the buzzer with Laura’s name on it for a couple of minutes before a man dressed in disco pants and wearing a shirt made of what looked like plastic bubbles held the door open for him. <<The party is at Club Dandelion tonight,>> he said, giving Alden spirit fingers. <<And the party will still be at Dandelion come dawn. See you there!>>
+
+
+“Uh…will you?” Alden asked as the door swung shut behind him.
+
+
+Bubble Shirt was already skidding down the sidewalk, propelled by magic boots.
+
+
+“What was that about?”
+
+
+Lute was laughing. “He thinks you’re some kind of badly dressed clubber!”
+
+
+Right then, Alden happened to catch sight of himself in a mirror beside the building’s elevator. He was dressed all in black except for his jeans and sneakers. Black ball cap, black glasses, knee-length black puffer jacket that would have fit two of him.
+
+
+Well, I’m committed anyway, he thought, while Lute snickered and regaled their nameless, speechless driver with a dramatized description of Alden’s encounter.
+
+
+He took the stairs up to the fifth floor to give himself just a little more time to get in the right headspace.
+
+
+Hi, Laura, he thought. Remember me? You probably don’t want to hear this from a sixteen-year-old you don’t particularly like, but I think Manon made you crush your knee and be too embarrassed around Chris to ask for his help. I think she needed to throw a wrench into the party to spite Bti-qwol, and I think she chose to do it with you because you were about to get that bodyguard job with one of the professors and she didn’t want you out from under her thumb.
+
+
+Something like that. But…slower. With more details.
+
+
+No panicking and no getting mad at her if she’s angry or impossible to persuade. It won’t help anything. If it’s going badly I just apologize for bothering her and leave.
+
+
+He pulled up the hood on the puffer coat as he reached the landing of the fifth floor. He experimentally preserved and unpreserved the garment a few times. It was much more restrictive than the poncho, and if he had to beat a retreat from an angry Brute he was going to be the silliest looking person on Earth, waddling away under heavy shielding, unable to fully bend his knees due to the coat’s length and unable to move his arms at all inside the sleeves.
+
+
+But if Heloísa can’t bust my shield in a single hit with her overpowered throw, then there’s no way a D-rank is getting through it tonight.
+
+
+As long as Laura didn’t take out his face or his ankles, he’d be fine.
+
+
+[Switching to texting,] he told Lute.
+
+
+Lute waved at him and went back to describing the disco pants to the driver.
+
+
+Alden stepped into the hallway. The floor was painted to look like colorful tile, and the apartment doors were in alternating shades of terracotta, teal, and saffron. He headed for 519, at the far end of the hall.
+
+
+Hi, Laura, he thought. I’m sorry to bother you, but I hoped we could have a serious conversation about Manon.
+
+
+The other Rabbit’s hourglass away notice was still up. It would be fine.
+
+
+Laura, you should really go to a healer. You should do it tonight, before she gets back home from the Triplanets. If I’m wrong, there’s no harm in it, but if I’m right then…
+
+
+Maybe she’d already done it. That would be best for everyone.
+
+
+The door to 519 opened before Alden reached it. He stopped in front of 515, and stood there as a woman backed out into the hall. It wasn’t Laura. The Brute from the boater was standing in her apartment doorway, though, seeing her guest off.
+
+
+Manon, he thought.
+
+
+But it was an absurd thought born of pure nerves. Laura’s guest looked nothing at all like the head of the boater. She had a thick rope of white-blonde hair that fell down her back in a braid all the way to her knees. She was slim and so short Alden might have assumed she was a child, if not for the fact that she was wearing a sharply tailored suit and three-inch heels. And calling Laura “dear.”
+
+
+“Dear, I think we completely understand each other,” she was saying in a soothing voice. “You were right to call me. We’ll handle this, and everything will be smoother moving forward.”
+
+
+[Lute, she’s got a visitor,] Alden texted. He looked around like he expected to find a convenient hiding spot in an empty hallway.
+
+
+“I can’t see or hear that far,” said Lute. “It’s off-screen for me.”
+
+
+[Do Mind Healers make house calls?]
+
+
+Lute shrugged. “All of my family’s doctors and healers made house calls, but that’s not the standard.”
+
+
+Alden pretended to admire the brass number plate on 515’s door, while shooting surreptitious glances down the hall.
+
+
+“It’s not all right,” Laura said in an annoyed tone. “You tell her that. A good job is one thing, but when it turns this sour…it’s not worth it anymore. You tell her. Tell her I said it, and it’s not just me.”
+
+
+“I understand. I understand,” said the smaller woman, shaking her head. “You have reason to be upset.”
+
+
+“Manon isn’t the only person who matters! It takes the whole team.”
+
+
+[I don’t think she’s a Mind Healer,] Alden reported to Lute.
+
+
+“And I want to be paid for…for pain and suffering!” Laura said angrily. “Tell her that, too.”
+
+
+She slammed the door in the blonde woman’s face.
+
+
+The woman sighed and turned around. Alden forgot himself and stared at her openly for a couple of seconds.
+
+
+She looked Artonan.
+
+
+She looked so Artonan that he had to actually stop and think about whether she was one or not. As far as facial features went, it wasn’t strange to see a human who had a couple that called to mind the other species’s average individual. Prominent cheekbones, unusually wide-set eyes, narrow brows, a high forehead, small chin—they were common enough that even seeing the full combination on a human face wasn’t shocking. But in this woman’s case, all of those features were pushed farther than they could be without registering as alien.
+
+
+And there were other cues, apart from her face, that made him question his initial assumption about her species. Her skin was just a couple shades darker than he would usually have expected of a human with such strikingly pale hair. The ice blonde seemed to be natural. Her eyebrows matched anyway. Skin and hair were quite varied for both species, but this combo felt more unlikely for a human than it would have for an Artonan. Then there was the height. She was maybe five feet tall with the heels. Petite was normal enough, but when you added it to everything else…
+
+
+Even her hands, thought Alden. Was it his imagination or were the fingers wrapped around the large cell phone she was holding just a little long?
+
+
+Still, she was human. Even if he disregarded the context of their current location, Artonan women were almost always flat-chested, and the woman who’d just left Laura’s apartment wasn’t. Plus her skin had a honeyish undertone, rather than a purplish one.
+
+
+She’s just a very rare looking person. Possibly one who’d had a much more artful plastic surgeon than his old wordchain teacher. Or maybe she’d asked the System to tune her Appeal in an uncommon way.
+
+
+He didn’t have to stare at her for long to take in her appearance and get over the surprise. She must have noticed him standing here, but she didn’t seem interested. Her eyes were on the phone.
+
+
+What do I do? What were she and Laura talking about?
+
+
+Alden had heard just enough to think that things were not going the way he’d hoped or expected. Laura had called this person instead of a healer. She wanted to be paid for pain and suffering?
+
+
+So my message prompted her to do something, but I don’t understand exactly what.
+
+
+Still facing 515, he cut his eyes to see the woman again. She was pushing up the sleeve of her suit. She had a smart watch on her wrist and a second piece of tech in the form of a bracelet that was casting what looked like a lighted computer display across the skin of her forearm.
+
+
+I can’t just stand here silently. That’s the most conspicuous option.
+
+
+Knocking on Laura’s door right now, with this stranger checking her email or something just outside it, didn’t seem like the right call.
+
+
+Leave and come back?
+
+
+Alden turned.
+
+
+“You’re leaving?” Lute asked curiously. “Is the person who’s probably not a Mind Healer scary?”
+
+
+[I’m just getting out of sight while she’s here. Laura was complaining to her. And asking for compensation. And I think asking her to report how dissatisfied she is to a boss?]
+
+
+“Sweet! There’s a boss. Is the cult leader the boss, or is there a bigger boss?”
+
+
+[How should I know?]
+
+
+If this woman worked for Manon…then Alden was at a loss. How did he help the boater members if their answer to finding out they were mind controlled was to call the mind controller? And ask for money.
+
+
+He heard the click of high heels behind him as he headed for the stairs. Fast clicking. He’d been deliberately strolling at a leisurely pace in an effort not to look like he was running away. Now he had to fight the urge to speed up.
+
+
+Don’t be dumb. Your legs are way longer than hers, and you had a head start. And she’s just walking down a hall, not running after the strangely dressed guy to stab him in the back.
+
+
+He still felt relieved when he reached the door to the stairs.
+
+
+Then considerably less relieved as a butt dressed in cargo pants backed through it. The man attached to the butt had…a canoe.
+
+
+Why is a canoe coming up the stairs at a time like this?!
+
+
+“Who hauls a canoe indoors?” Lute asked. “Who hauls a canoe up a staircase instead of using the elevator?”
+
+
+<<Do you mind getting the door for me?>> the man asked Alden.
+
+
+“Sure,” said Alden, holding the door open.
+
+
+“Maybe canoes don’t fit in elevators? I’m impressed he got it up the staircase really,” said Lute.
+
+
+Fine. This is fine. Now I’m helping Mr. Canoe. That probably makes me look less suspicious.
+
+
+“I get that these people want to live the lake life, but can’t they just rent boats if they—”
+
+
+Lute’s merry chatter stopped. His expression was shocked. And then his eyes widened even further as a look of horror transformed his face.
+
+
+[What’s wrong?] Alden texted him.
+
+
+The woman in heels had just reached him. She stopped a couple feet away. She couldn’t get to the elevator because the canoeist was in her way as he maneuvered his vessel into the hall.
+
+
+“Alden,” Lute said. “Don’t…”
+
+
+Don’t what? Alden wondered.
+
+
+“Don’t look,” maybe. “Don’t say anything.” Or something more personal.
+
+
+Whatever it was, it remained unsaid. And Alden did look. The woman didn’t have herself name-tagged, but when she was standing this close, a special notification appeared beside her thanks to his interface.
+
+
+He blinked at it in surprise.
+
+
+[She’s not Avowed,] he reported to Lute. [She’s a regular human.]
+
+
+Lute took a deep breath. “You need to come back here. To the SUV. Don’t say anything. Keep your sunglasses on. She’s not acting like she’s recognized you, but she might if she gets a good look at your face.”
+
+
+Something in his tone made Alden freeze up. Literally. He activated his skill like he expected to be on the receiving end of an attack after all. The puffer coat stiffened around him.
+
+
+He forced himself to drop it. Being unable to move your arms wasn’t exactly subtle.
+
+
+The canoe was finally through. <<Thank you!>> the owner called, hefting it over his head and trotting off toward his apartment.
+
+
+The woman headed toward the elevator. Alden slipped through the door and took the stairs down quickly.
+
+
+[You know her?] he asked, keeping up with the texting since Lute had made him even more nervous.
+
+
+“Yes,” Lute said.
+
+
+[Is she dangerous?]
+
+
+“She’s my mom.” This tale has been unlawfully lifted without the author's consent. Report any appearances on Amazon.
+ 
+*

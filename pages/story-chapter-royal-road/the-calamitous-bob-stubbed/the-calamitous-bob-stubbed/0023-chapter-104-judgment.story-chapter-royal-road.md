@@ -1,0 +1,523 @@
+---
+id: 01a78164-7bad-580e-bcec-fa1dc60431d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104: Judgment"
+slug: 0023-chapter-104-judgment
+partOf: the-calamitous-bob-stubbed
+position: 23
+ownLength: 5130
+unit: words
+ownProgress: 5130
+publishedAt: 2023-02-03
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1104864/chapter-104-judgment"
+royalRoadId: "1104864"
+markedReadAt: "2026-06-29T21:15:29.346Z"
+---
+
+It was day, then it was night. There was no time to leave, no time to plan, not even enough time to look up before a wave of pure world-bending mana drenched her soul under a torrent, numbing her senses.
+
+Once, Viv had gone diving off the coast of Eilat, at the south end of Israel. There was a peculiar feeling to going down when the pressure increased and water seemed to close around her. She imagined a deep diver must feel something similar while the more primal part of their brain screams incoherently. There was exactly one flap, one so powerful it lifted rocks, then the dragon was on the glade.
+
+He took a lot of space.
+
+Viv caught a taloned finger moving as the monster settled, more graceful than a creature this size had a right to be. She lost herself a few seconds in the vastly complex, mesmerizing fractal of mana emitting from the obsidian scales like heat from desert sand. It was Arthur who woke her up from her reverie.
+
+The dragonette raced around, hunting her tail then squealing excitedly. She bounced around the clearing then climbed a flabbergasted Viv.
+
+It’s him.
+
+It’s hiiiiiiiiiiiiiiiiiiim.
+
+She finally looked up into a green iris larger than her head.
+
+It was him.
+
+It was really him.
+
+The book really didn’t give it justice.
+
+The Desolation of Aristan pulled his wings back and sat comfortably. Suddenly, it was day again.
+
+His aura withdrew.
+
+Viv fell forward, one hand on the ground. She felt every detail of the grass under her with perfect clarity. Her mind was fully her own again. The dragon had sent a message when it landed. Now it sent another. The first was about power, and the second, about control.
+
+Arthur’s obvious excitement gave the surreal scene a farcical angle that tested Viv’s sanity. She had rubbed elbows with her fair share of nobles, but the desolation operated on another level. The dragon was a myth, and that myth was now looking at her with his emerald eyes, patiently waiting for her to recover.
+
+Greetings.
+
+Again, the tone was given. The dragon could probably melt Viv’s brain inside of her skull with a roar, but right now his mind carried concepts directly to her with a light touch.
+
+“Wow, huh, hello.”
+
+Viv stood there like an idiot, unsure of what to do except to keep her balance while Arthur repeatedly bumped her knee.
+
+You must come from an unusually egalitarian culture.
+
+Most humans kneel by reflex.
+
+“Oh, uh, no offense meant.”
+
+Worry not.
+
+I understand where you are coming from, and how it affects your behavior.
+
+“You came for Arthur then?”
+
+VIv knew what the answer was, but she hoped they would have a little more time.
+
+I came because she called, and our meeting was long overdue.
+
+I have been observing you.
+
+And the way you cared for She-Who-Feasts-On-Squirrels-And-Gets-Much-Gold.
+
+The adult dragon turned his head to his tiny kin.
+
+It is spiders now, she tells me.
+
+I will remember.
+
+He returned his attention to Viv.
+
+I have known of your existence since Cold-Gale-Over-Spring-Meadows warned me.
+
+He was wise to inform me of this matter without delay.
+
+“Is he the green dragon we met in the woods?”
+
+Yes.
+
+“I… assumed his name would be longer.”
+
+We shorten our names as we grow older and more powerful, thus refining the concept we wish to be known by.
+
+Cold-Gale-Over-Spring-Meadows is still quite young.
+
+Viv was pretty sure the green dragon was a century long, probably older than that. This was… interesting.
+
+“So, may I know your name?”
+
+My name is Judgment.
+
+“Ah.”
+
+We are solitary creatures, as diverse as the world meant us to be.
+
+We push many fledglings into the wild to spread their wings.
+
+The wisest and strongest live to adulthood.
+
+Dragons can fly, and our mastery of mana is unmatched.
+
+One who picks the wrong battle against a powerful beast and loses, deserves it.
+
+This is the way it should be.
+
+The strong and wise survive, leading to stronger and wiser offspring.
+
+Viv realized the implication immediately.
+
+“But humans and other sapient species change that.”
+
+They hunt those they believe they can defeat.
+
+Too many promising young ones would be lost.
+
+And so, I took it upon myself to be the shield for those who need it.
+
+“So dragons cannot be kept as captives because…”
+
+I act.
+
+The sapient races are welcome to share this world with us.
+
+Sometimes, they grow too arrogant.
+
+Sometimes, they wish to mine breeding grounds for wealth.
+
+As Aristan did.
+
+An event your ward seems quite knowledgeable about.
+
+“She loves the story. She finds your performance inspiring and wants to grow to be as large as you.”
+
+Viv didn't quite get his answer this time, but it evoked pride and hope for the future. She felt that Judgment’s vision of the future was rather more complex than what she was used to, and why should it not be? He would probably be there to see it.
+
+This leads me to you.
+
+I have set rules of my own on interventions.
+
+A dragon who attacks humanity to serve their own greed will receive no support from me.
+
+I have decided to observe you before passing judgment.
+
+You have acted like a parent, while taking into account the difference of your ward’s nature, compared to your own.
+
+Some of your rules and codes will serve her well in growing her own.
+
+Especially the hygiene rules.
+
+The dragonette fell dramatically backward and rolled on the ground squealing piteously at this odious betrayal. Her idol had sided with Viv on matters of keeping one’s claw fishless and soap-scented. Oh, the dragonity.
+
+Judgment huffed, his hot breath pushing Viv’s hair back. It felt like standing in front of an open smelter.
+
+Thus, and despite your many failings, I have decided to let you live for her sake.
+
+“Thanks? I guess?”
+
+I have shared information with the dean of the academy, in Helock.
+
+He will facilitate her stay.
+
+If you are admitted.
+
+But you must realize that your time is running out.
+
+She will foray farther and farther.
+
+Such is our nature.
+
+You will know to let her go.
+
+“She’s still very young.”
+
+She is.
+
+And you will let her go.
+
+When the time comes.
+
+“How do I know? I don’t want to send her to her death. I don’t give a damn about your survival of the fittest philosophy. I want her to live.”
+
+You will let her go, because this will be her choice.
+
+Viv was about to object when Judgment stopped her. He pressured her into silence, not too strongly but as a warning. Arthur had been unusually silent during the later part of the exchange, and this latest disagreement worried her. Viv provided the requested scritches.
+
+One last thing.
+
+“Hmmm, yes?”
+
+Did you inform She-Who-Feasts-On-Spiders-And-Gets-Much-Gold that I pressure-cook knights?
+
+Awkward silence spread over the clearing.
+
+“I mean, do you?”
+
+No.
+
+“Squee?”
+
+I have spoken all that needed to be said.
+
+You know what must happen.
+
+You will not share what you know, nor speak of dragon rearing.
+
+I have tolerated your choices because, at the time, you saved the young one.
+
+Her mother was too proud, but we still felt her loss.
+
+The return of the child absolves you of your meddling.
+
+The dragon waited, perhaps expecting some sort of reaction. Viv didn’t speak.
+
+Goodbye, Viviane the Outlander.
+
+Judgment jumped up, then spread his wings and flapped them. It felt like standing next to a helicopter.
+
+In a few instants, the older dragon was gone, disappearing completely from her sight. Only the mark of his claws on the ground confirmed that the meeting had not been a fever dream. Arthur still had stars in her eyes, but Viv was more circumspect. She didn’t like the implications. Judgment had observed her. Even his last sentences had been a test of sorts. Perhaps he had expected her to demand a reward for the return of a child, or at least some protests at the high-handed treatment. Viv believed she knew better. Dragons were an unknown, motives-wise, and one didn’t play games with unknowns unless one was desperate.
+
+It was true that the nail that stuck out got hammered down. She didn’t need more attention than she already had, and especially not from a being so beyond her powers, even all of Kazar’s current military couldn’t put a scratch on him.
+
+“Squee?”
+
+“Let’s head back for now.”
+
+Arthur agreed, still dizzy from her recent encounter. Viv thought about what Judgment had said. Arthur had grown quickly, too quickly. She assumed growth slowed down with age, and that lone hunters would have trouble finding meat with potent enough mana to fuel a quick development. It was still very impressive, and possibly unusual. Her theory that the dragonette was older was making sense. It was a shame she couldn’t ask Judgment more about proper upbringing, but he had made it clear it was not for her to know. It was still a shame.
+
+The outpost Viv returned to shocked her by its normalcy. No one had seen Judgment land like the fire-breathing jetliner he was. The laborers went on with their tasks while children played in the vegetable gardens under the benevolent gaze of their elders. Soft-spoken conversations in the northern tongue rang throughout the couple of streets surrounded by high walls. The locals mostly ignored Viv. Or at least, they pretended to.
+
+It was yet another aspect of this world that marked Viv. Back on earth, peasants had formed the backbone of every society until the late days of industrialized society. It was the same here. Politics, wars, and monster hunting were performed by the minority of those who didn’t toil in the fields and orchards. Viv was part of that minority whether she wanted to or not. She wouldn’t trade the ability to cast and defend herself for anything, yet watching those kids running after a cloth ball reminded her another life was possible.
+
+She’d probably be bored to death after a month.
+
+“Are you alright, Viviane?” Sidjin asked when he saw her. He squinted, inspecting her face and the still-bouncing Arthur.
+
+“Long story. I’ll tell you over dinner.”
+
+That night, Viv went over everything that had been said from the admittal of her limits to Judgment informing her she would have to let the dragonette go. Sidjin listened quietly, carefully refilling her glass. Meanwhile Arthur was blissfully asleep.
+
+“Even if she leaves, it will not change the fact you raised her. She will return.”
+
+“Are you quite sure?”
+
+“Dragons are territorial yet also emotional. The few times dragons were taken down in history, the fiery vengeance was brought by their relatives. You left your home yourself. Did you never think about returning?”
+
+“I am human, she is not.”
+
+“You are her adoptive mother. I am certain she will come back to you often. It is also possible that she would choose Harrak as her range when she claims a territory. If what you say is correct, the areas of life are quickly expanding. It is likely she will return.”
+
+“Of course…” Viv admitted. “And I have forgotten the main motivator. Yes, you are right, she will definitely return to me even if she leaves to travel. I am sure of it.”
+
+“She already discovered a proper lair?”
+
+“Worse. She discovered banking.”
+
+The next day, Arthur simply wouldn’t shut up about her experience.
+
+Did you see? Did you see?
+
+“Yes I did.”
+
+He was soooooooooooooooo big!
+
+“Absolutely massive, bigger than some castles.”
+
+And did you see? Did you see?
+
+He was sooooooooooooo strong!
+
+“I bet he could crush a rock between two fingers.”
+
+I can do that!
+
+“A very big rock.”
+
+Oooooh yes! Very big. And his control…
+
+She wouldn’t stop for the whole morning and Viv didn’t have the heart to dampen her enthusiasm. Thankfully, the small one decided she would practice how to land like he did. While she did not attain the level of ponderous majesty Judgment had displayed on account of being the length of a timber wolf and about as heavy, her efforts were commendable.
+
+Despite the belief Arthur would return to her eventually, Viv could not completely shake out the funk she found herself in, so Sidjin came to her rescue.
+
+“When events caused my mood to grow somber, I would throw myself into training.”
+
+“Of course you would,” Viv answered, then softened the jab with a light kiss.
+
+“You are trying to distract me, woman. I was the one supposed to distract you. How about telekinesis? I bet I can teach you how to juggle before we arrive in Helock.”
+
+“Oh, that sounds nice.”
+
+They practiced more. Viv was able to hold objects reliably now. The spells’ feedback was strange, like flexing a muscle that didn’t quite exist. It was not just applying pressure. She could feel the object’s shape in her mind, though the details escaped her. Moving two at the same time proved easier than she expected, until Sidjin asked her to move them in opposite directions. There, the difficulties started. She still thought the spell had enormous potential.
+
+“Why don’t I see mages flitting across the battlefield?”
+
+“It can be a good option in some scenarios, but definitely not against humans and especially not against Enorians. Even gray casters would hesitate to take to the sky against an army with the continent’s best archers. There are variant artillery spells with homing functions as well, though a master can dodge them. You also forfeit the use of a circle.”
+
+“Hmmmm.”
+
+Telekinesis gave her an idea. The cave where she had discovered the hive shield’s template had glyphs directly in the walls. What if she could forge runes and hold them in the air to create a three-dimensional circle? That would be tiring, but multiply the potency of the spell. It was worth pursuing in the short term.
+
+Viv spent the next few days practicing for the examination in the morning and colorless magic in the afternoon. She knew the material reasonably well by now, in part due to her training with Varska and in part thanks to her hard work since then. Sidjin helped even more by giving her tips, especially on the written part of the exam. It was the difference between having the materials and being helped by a tutor who had passed themselves and knew all the tricks.
+
+“The written part matters less for instinctive casters. Essentially, some mage classes have prerequisites that can be cleared by having a high-enough grade in the entrance examination. I suspect they will be of limited use to you. We can discuss this further after we have arrived… if you still want to stay with me, of course.”
+
+He would sometimes give her a way out of their budding relationship. When that happened, she would try to hug him, which always made him squirm until he relented.
+
+“Of course I’ll keep you around, you are too irresponsible to be left out on the streets.”
+
+“Thank you, and… thank you.”
+
+Sidjin’s warmth comforted Viv. He smelled pretty good as well, which was always nice.
+
+The last stop before Helock was the city-state of Talyris, on the northern shores. It was the first major northern city they came across, and the difference with Enoria was quite telling. The northerners favored cubic architecture and brightly painted walls. The street food Viv bought was spicy and fresh. Sidjin bought roasted hearts and gizzards of small creatures served with slices of palate-cleansing vegetables. No one bothered them, no one petitioned them. They were just a couple out in the street, some local gentleman and his exotic wife or something. By Sidjin’s own request, they didn’t attempt to regrow anything this time. He needed to help her perfect the spell first.
+
+“The issue I’ve had is that I don’t have a model of the original body. So far, I have used remaining limbs as a model to regrow the lost ones, which was good enough for most cases until someone came with two missing legs. What I did then was to use their body as base to avoid rejection, then rebuild limbs with my experience and knowledge of anatomy. In both cases, those are not true copies of the original.”
+
+“What do you mean by that?”
+
+“If someone breaks their arm and the fracture doesn’t fuse properly, the arm can be bent. It’s not the original shape of the arm and yet someone’s soul will consider it the new normal. The same is valid for scars and other marks of, well, essentially living. Someone specialized in fighting with a spear will have a slightly different muscle structure from someone training with a sword and shield. They are all the current arm of the person. Flesh is malleable. The limbs I regrow without a model are functional but they could be shorter or longer than what they would have been before the amputation.”
+
+“You just say flesh is malleable. I also know that the body compensates for losses, so a period or reeducation will almost always be necessary. So long as the regrown limb is functional, it should not be too problematic, should it?”
+
+“Yes, however we could limit this drastically by rebuilding as close to the original as possible.”
+
+“I can see how that would be preferable. Hmmm.”
+
+Sidjin considers his options in silence.
+
+“We could modify a memorial spell, an extremely rare and niche construct developed by Hallurian investigators to reconstruct the image of a body from a single piece of flesh. It is frequently used to identify unrecognizable bodies. I think I could make it work. I only have one request: after we have finished the upgraded spell and you operate on me, we should start with my missing muscles before we work on my, ahem, crotch.”
+
+Viv gasped.
+
+“You care more about your dick than about full leg functionality?”
+
+“Yes.”
+
+“Typical male.”
+
+“Yes. And when I recover fully, you will understand why it was also in your best interest.”
+
+“Hoho, very bold of you sir. We shall see if you can put your junk where your mouth is.”
+
+Viv stopped and winced.
+
+“That didn’t come out the way I thought it would.”
+
+“I think it came out just fine.”
+
+Arthur changed her relationship with Viv following their conversation and after she spent some time fangirling. She took Viv’s advice to heart, and tried to communicate her desires and opinions more often. Unfortunately, and unsurprisingly, she wanted more meat and more gold. Viv managed to lure her away from those base concerns with magic and flight, using Sidjin’s help. The dragonette could immediately move things around with her mind when she understood the concept, and she did so better than Viv despite this being her first try. Viv found it mildly frustrating.
+
+“And to think you thought me gifted,” she lamented to Sidjin.
+
+“I regret to inform you that you are not, in fact, better than a dragon at magic. I hope your self-esteem will recover from this terrible revelation, one day.”
+
+“Ha ha. How about flying then?”
+
+Arthur tried lifting herself with mana and declared it inferior to her method in every way, sounding very smug about it. She did concede it could help for sharp turns. Viv thought the exercise a waste until she found the dragonette suspiciously quiet.
+
+Arthur was sitting quietly on the deck of the ship.
+
+A small bag of nails lifted slowly from a nearby barrel, then landed again. It happened a few times in a row. The clink of metal rang softly.
+
+Her eyes narrowed in cold calculation.
+
+“No!” Viv interrupted. “Don’t even think about it.”
+
+“Squee?”
+
+“Don’t pretend, I know exactly what you are thinking about.”
+
+“Eeeeeee.”
+
+Viv frowned at the dejected wannabe pickpocket. Such greed. In any case, her idea could be of use. Arthur didn’t learn magic per se because she didn’t have to, but perhaps giving her a glimpse of what could be achieved would help her develop in a way hunting could not. Viv decided to expose her to a lot of sorcery after she was admitted. Hopefully, it would keep her interested.
+
+As they approached Helock, the landscape changed drastically. So far, the River Flower had coasted along green shores of endless glades, then prairies of dry grass as they traveled along the edges of the Kark steppes. Soon, however, the relief grew steeper with tall, tree-covered peaks and strange needle-like formations, most of which should have collapsed at the slightest tremor.
+
+“We’re arriving. Here is the vigil rock, floating between those two mountains,” Sidjin soon said.
+
+His words slowly registered in Viv’s incredulous brain.
+
+“I’m sorry the rock is doing what?”
+
+“Floating?”
+
+“Floating? Floating?”
+
+Viv rushed to the prow and gawked at the new sight. For the others, the unassuming piece of weathered rock crawling with ivy might have been mundane, but to her that was absolutely insane.
+
+“It’s flying! What? How can it be flying? It’s a trick of the eyes? Are you pranking me, Sidjin?”
+
+The man seemed to be at a bit of a loss.
+
+“As much as I enjoy your trust in my abilities, I cannot casually lift several tons of stone for a practical joke, I’m afraid.”
+
+“How come I never heard of floating rocks? Should they not mention that in the… hmmm…”
+
+Come to think of it, most of what she had read were dry historical recountings and exam material.
+
+“I didn’t read it in anything I’ve seen so far.”
+
+“You must have read about the attempt to reach the Chalice?”
+
+Viv used her stat-enhanced memory to remember that particular tidbit. Some people had tried to explore this high place several times throughout history, but had always failed due to mana-reinforced storms.
+
+“I always assumed it was a mountain.”
+
+“It’s the largest floating rock, vaguely shaped like a cup as its name infers.”
+
+“It’s just weird that Varska never mentioned it.”
+
+“Ah yes, well, I can understand if she didn’t want to talk about the place that exiled her.”
+
+Viv frowned. Varska had shared memories, but most of them had been specific moments that had marked her, not full accounts of Helock and its features. She would still have thought someone would mention it.
+
+“I bet you are wondering how they levitate,” Sidjin remarked excitedly.
+
+“Of course I do.”
+
+“It is due to a stone called gravitite that reverses gravity when subjected to intense mana concentrations. Helock was founded on a confluence, a place where ambient mana is more potent. The deep woods are such a place, and so is the Harrakan palace, for example.”
+
+“I see.”
+
+“You can find gravitite everywhere if you look hard enough, but it is mostly indistinguishable from quartz so most people will not bother.”
+
+“Ok so where are my flying ships?”
+
+“I beg your pardon?”
+
+“Nyil has flying stone so obviously there should be flying ships, no?”
+
+Sidjin looked a bit surprised, then sighed.
+
+“You have a strange sense of priorities. As for using gravitite to create anything, you will have to face several challenges before you can accomplish anything. First, the larger the vein and the more potent the effect. Second, a broken vein loses a large amount of efficacy. Two pieces of gravitite are far from being as effective as a single piece made from both, so carving it out presents massive risks. There is also the issue with feeding the stone enough mana to keep it aloft anywhere else but here. Finally, Helock strictly prohibits tampering with the floating rocks, not just because they are considered features of the city, but because breaking a vein would likely cause the entire rock to collapse. The Chalice levitates two hundred meters above the government district and the academy. If it were to crash, the ensuing destruction would destroy Helock’s heart. That is why generations of archmages have tried to scout it, in vain. The surrounding mana disables enchantments while gales blow beasts and vehicles against nearby rocks, smashing them to smithereens.”
+
+“Damn, there goes my dream of a floating ship.”
+
+“You can always look into it after you have saved yourself from death.”
+
+“Maybe using a brown mana specialist to fuse veins together carefully…”
+
+“AFTER… you have saved yourself, Viviane dear.”
+
+“Yes, of course.”
+
+“And learned space magic.”
+
+“Oh, yes.”
+
+“And perfected your regeneration spell.”
+
+“I got it, Sidjin. I’m capable of prioritizing my projects. Let me be excited for new things, alright?”
+
+Sidjin flinched, mortified.
+
+“I apologize. So many have tried to take me away from my pursuit and now I’ve done the same to you.”
+
+“Don’t worry about it. I know you care about my survival.”
+
+“I do…”
+
+They fell into a contemplative mood as the River Flower approached the floating rock. As the ship moved on, the river widened. Terraces appeared and they were not the bareboned alterations of the mountain folk, but complex systems with clear irrigation paths. Some of them were being drained and laborers walked through the soaked ground to harvest a rich bounty from the revealed stalks. Travelers, wagons, and horsemen clogged the roads. Viv even saw a cavalry detachment with banded armor and spears help clear a traffic jam through a generous application of violence. Ships were more numerous too, not just transport ships like their own, but also fishing boats and, in one case, a heavily fortified and enchanted frigate. The dress style here reminded her of Varska’s dresses, with large sleeves and a slight oriental feel, though that might just be her bias. Padded shoulders were a constant for both men and women, at least among the rich ones.
+
+“I know you also enjoy the company of the fairer sex,” Sidjin said, interrupting her musings.
+
+“Yes?”
+
+“Helock tolerates almost of forms of intimacy, on account of its mages coming from extremely diverse backgrounds. The Academy is especially rife with connections. It means that you will be surrounded with young, healthy, capable people who might very well be searching for partners.”
+
+He sighed and placed his hands on the railing, but his eyes never left Viv’s and he sounded quite serious.
+
+“We have known each other for only two weeks, and I realize I have no right to make demands of you. I love what we have. You are making me feel human again, that not all is lost for me, and I am someone who deserves to be loved. Your smiles have opened a pit of emotions I had bottled since the torture started. You have made me brittle, but in a good way. So please, do not disappear on me. I can accept if you want to end it, but please do not play games with me. I will still teach you what you need to know. I just do not want another betrayal.”
+
+“I understand. And I accept,” Viv replied with solemnity.
+
+Sidjin grunted, and stretched. Something creaked in his shoulder. Now that his teeth were fixed, he was eating more, which was good, Viv thought.
+
+“You know, a Glastian princess would have been disgusted by my confession. She would have taken it for weakness.”
+
+“I don’t think you’re weak, Sidjin. I think you’ve endured a lot and have the scars to prove it.”
+
+“Good, because I don’t think I’m weak either, and I will remind those who stole my research of that fact.”
+
+Viv remembered why Sidjin was coming to Helock.
+
+“Do you have a plan?”
+
+“I have options, depending on what the situation is. I could use your help if you are willing, but first, we need to get you admitted. Whoever stole my research has backers. It would be a shame if they managed to veto your presence before you had a chance to forge your own connections.”
+
+“We will need to find a place to stay and contact the church as well.”
+
+“And we will do all of that after we have arrived.”
+
+The first thing Viv saw of Helock was the ocean. Past the city, the Shal spread wildly then spilled its gray waters into the sea’s blue. A storm was brewing over the horizon. The low, dark clouds hung over in shades of cobalt lit by the afternoon sun until the sea and the air merged in a dizzying overlap of cold hues. On the west embankments, private estates peppered the hills behind layers of hedges and copses of trees while the east contained the Helock harbor hidden behind a forest of masts. Buildings covered the rise on which the city had made its nest, each district forming a band of progressively cleaner, more expensive constructions. Churches and markets sat like fat cats among their lesser brethren, forming small courts, but the city was clearly dominated by a massive dome around which grew a great many towers in all shapes and sizes, next to a large park. She recognized the academy from her textbook. Pennants fluttered in the wind, visible even this far in their multitude. The smell of humanity and spices reached her even here.
+
+“Breathtaking, is it not?” Sidjin asked with a smile. “I remember the first time I traveled here. I had not left Glastia before then for more than a couple of days. In truth, you have traveled more than I have, Viviane the outlander.”
+
+“It’s moments like those that make it all worthwhile.”
+
+Leit joined them with a smile. The merchant kept his distance after the tongue lashing he had received, not that Viv blamed him. Clear relief flooded his happy face. Viv bet he couldn’t wait to see them go.
+
+“Our destination, at last.”
+
+The River Flower sailed into a private stone pier. Dockers rushed forth to help unload the cargo while the passengers disembarked. A civil servant in a yellow robe bid them welcome and had Sidjin pay a reasonable entry fee, but Viv got exempted as a prospective student. He also seemed to know about Arthur and made no comments on her, merely bowing and wishing her a pleasant stay, which made the dragonette preen.
+
+“How did he know I was here for the Academy?” Viv asked after he was gone. “I could have been lying.”
+
+“Custom officers have modified inspection skills that give them business-related insights. Even if it didn’t, anyone who has practiced magic to any reasonable degree will feel the way mana shifts around you when they get close enough.”
+
+“I see. Well then, let’s find a place to sleep for tonight.”
+
+“And tomorrow we will go to the academy and register you.”
+
+They said their goodbye to Leit who advised them to take a room at a nearby hotel owned by the guild. The room was cramped, but clean and affordable. It would be fine for a few days. They had a lot to plan.

@@ -1,0 +1,433 @@
+---
+id: 23ea0323-4fdf-540b-a4f8-e4f5290c8985
+page-type-slug: story-chapter-royal-road
+title: "Chapter 128: Fourth Step Caster"
+slug: 0048-chapter-128-fourth-step-caster
+partOf: the-calamitous-bob-stubbed
+position: 48
+ownLength: 6137
+unit: words
+ownProgress: 6137
+publishedAt: 2023-07-28
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1292037/chapter-128-fourth-step-caster"
+royalRoadId: "1292037"
+markedReadAt: "2026-06-29T21:16:23.850Z"
+---
+
+It was fortunate that Nous would give her a hand because there was a lot to unpack, and she wouldn’t have had the time to do so at the breakneck speed the knights were going at. Her slow perception helped her think.
+
+She quickly wondered if the interface offered this to everyone who progressed mid-battle but decided that knowing didn’t matter at the moment. She had a choice to make.
+
+A brief inspection revealed that all choices were valid, in the sense that none of them felt clearly underwhelming. In the end, picking a path depended on, and would shape, how she saw herself in Nyil and what she intended to do. For that reason, she eliminated Tabula Rasa almost immediately.
+
+It was perhaps the most powerful class all around, able to match the others on every aspect from politics to survival provided it was done for the sake of change, and therein lay the problem. It would require that Viv never stop, and she didn’t like that one bit.
+
+‘Capacities are increased when used for the purpose of altering the path of the world’ was broad enough that she could justify using them here to conquer Sinur’s Gate. It was a required step to establish a durable seat of power and she needed power to act, but then it would continue from then on. Conquering the Deadlands would not change things durably, or at least, she would not be able to convince herself that she was changing the path of the entire world. She would need to go after Enoria, then Baran and the northern cities, then Halluria, then what hid beyond the sea or the far eastern isthmus. Tabula Rasa meant turning the world into what she envisioned by sword, knife, or manipulation. Or guns. There was merit to bringing a modern mindset into a world that envisioned stagnation as the natural state. Mankind would gain ascendancy if she guided them through an industrial revolution that did not send children into coal mines. She could avoid most pitfalls of progress. Become the messiah of a new civilization. However… that wasn’t her.
+
+It was not that Viv was fundamentally selfish or self-centered. She cared. It was more that the path required a firebrand, a believer. A zealot. And Viv had been jaded through her teenage years. That path would burn her out before they even conquered Enoria. And that was even before taking the cost into account: the countless bodies this would leave in her wake.
+
+She had studied the ‘Terror’ in history, that period of time that followed the French revolution. It had been a bloody epoch that led to the expression that a revolution devoured its children. That path was lined with the corpses of her allies and enemies. Rivers of blood would clog its gutters. Even if she succeeded, it would… not be worth it.
+
+Viv hated fanatics. To them, the ends always justified the means. That made them the perfect monsters. She wouldn’t be like that. Never. Tabula Rasa demanded a level of forward-moving tension she was unwilling to pay.
+
+Ascender was next.
+
+The gist of it was clear enough. That path would make her more well-rounded, with a strong focus on defense. In particular, the shield skill meant she would not just use her physical shield better — that was always a secondary thing — she would be using her shield spells better. Aegis was already quite powerful. Improving it further would give her defenses unmatched except for the strongest brown mages. Between a bolstered aegis, her danger sense, and the acuity-based reflexes, the only reliable way to take her out would be to overwhelm her. That, or send someone much more powerful and those were no longer that common. She was a fourth step. That was already the human elite.
+
+It would also make her more physically resilient. The most interesting part was not that, however. It was the soul mastery skill.
+
+She had a feeling that knowing and manipulating one’s soul was extremely important for a variety of advanced skills, and quite possibly turning into an elemental as well. Ascender’s whole point was to allow that ascension to happen. It was a stepping stone towards a more powerful option of the fifth step. That wasn’t saying the other wouldn’t have a strong option as well. She had a feeling several of the offered options might be offered at the top. It was more a question of prioritization.
+
+There was also an issue with the stepping itself. Even with her traveler’s gift, it was clear that it would take a while to reach that level. A long while. Years at the very least.
+
+Still, it was a tempting option.
+
+The third one was Abyssal Conduit and its focus on raw magical power.
+
+Viv had loved magic the moment she’d touched it, back on the outskirts of the fallen capital. She was born for it. She didn’t need the interface to tell her that, although it had. Magic was just great and she was good at it. It fulfilled a fundamental wish of mankind to see their emotions and thoughts influence the world directly, rather than through their weak bodies. That path would focus on that and purely that, and she was okay with it. The lack of focus on social skill could be remedied through practice and returned to at a later step. That was fine. Once again, she would not be losing her progress, merely focusing on the magical aspect of her path. The focus on arcane meant that she would become much more versatile on and off the battlefield. Large-scale black mana purification or a transportation gate network could be achieved, perhaps, or achieved faster. The aspect of the messenger would also mean she could obliterate her targets through a surprise attack. She would become a peerless duelist and gain the ability to go against far more powerful foes, overwhelming them before they could bring their higher abilities to bear. There was just one problem: the pain tolerance thing.
+
+Viv had a deadline in the form of her body being on the verge of shutting down. Aspect of the messenger would turn it into a conduit, temporarily overloading every cell. That didn’t mean just intense pain, it meant actively attuning her body to black mana. The path description failed to mention that, and it also failed to produce a solution or a way to help her transition to part elemental. It was the path of the glass cannon, powerful for a short while, then she would have to see Elunath immediately after. And that was a problem.
+
+It was not just the idea of service that worried her. The issue was that Elunath had promised to do his best, and it was in his interest for her to survive… but there was no guarantee she would make it because, among other things, no one had helped someone else turn part-elemental before. All those who had succeeded had been mighty and knowledgeable archmages. Her luck wouldn’t save her. It created opportunities, not certainties. Straining her body further felt unwise to her, despite the lure of raw power. She would have to pass for now.
+
+The last option was Abyssal Lady, the normal continuation of Lost Heiress. Abyssal Lady considered her dual roles as leader and mage then fused them into a path that bolstered her the most when integrated within her army. It was the leader's path, and it provided everything she needed. The one-woman tactical array ability would help her face Harrak’s main problem right now: the lack of qualified war mages. It would also be useful in scuffles and ambushes provided she had the time to set up. The main point was, of course, the merged skill.
+
+Merged skills were always more powerful than their parts and then they started at a lower rank, which meant that they improved faster. Viv used intimidation to negotiate what she wanted, or else, while leadership supported her speeches. It also helped her inspire and guide people if they saw her as a leader. She felt the new skill would give her an aura of danger and respectability that would carry her through any meeting while pushing her men to new heights. It sounded perfect.
+
+So by elimination, Ascender and Abyssal Lady remained the most preferable choices. Both were perfectly viable. In the end, it was really about what she prioritized, how she saw herself.
+
+Viv wished she could have consulted Solfis, even though the golem probably didn’t have enough data to advise her.
+
+Ascender was an investment in herself while Abyssal Lady was an investment in Harrak, possibly. One of them was more conservative and would help her survive while the other would help her develop her ‘nation’, to use the term broadly. For a moment, she wondered if it would matter after she transformed, but then remembered Elunath still had a class. Viv decided that Abyssal Lady was probably the best option. The other felt too careful.
+
+But then… there was soul sense.
+
+Soul sense was the key, she felt. All the gods had massive souls and were able to use them. Social skills relied on the soul. It had to be involved in the transformation process, not least because she had to remain attached to her mortal coil while it underwent the ‘procedure’. And there was something else. Conduits were not physical. Neither was her core. Her ability to cast magic and progress in its mastery were not linked to her body beyond the need for it to withstand its effect. Her soul made her a caster, not her fingertips.
+
+She felt that this was the secret to greater heights and that Nous was giving her one path to grow to greater heights, all while giving her the best chances at making it.
+
+Viv felt an intense burst of frustration at having to give up such skills as Aspect of the Messenger, but her decision was made. She picked Ascender.
+
+It would do.
+
+You have picked: Ascender. Mental statistics are five times more efficient when wielding black mana, twice as efficient for arcane (colorless) mana. You may not manipulate any other color. Associated skill acquisition is massively improved. Soul mastery has become a class skill at Beginner 4
+
+Shield mastery has become a class skill at Novice 1
+
+Shield mastery will apply to magical shields.
+
+For every step before, she had felt little difference. Progress had been slow, and although casting was made easier, the effect was not so significant. This time, things were different. She immediately felt a quantitative difference in the way mana seemed to concentrate in her hands. Her grip on it clenched more tightly, and the mana answered more readily. She also felt a difference in her soul, a new mark to show her progress. Her body relaxed as mana filled it, ready to change it according to her efforts. She felt as if a dam had broken and she was free to progress again.
+
+Mana coiled around her as time returned to normal. One of the knights looked at her and the black mana roaring around her form, then returned his attention to the revenants they were trampling. Meanwhile, VIv was having a quick epiphany.
+
+There was no real reason to keep the hive structure of her aegis shield as it currently was,  not with those new skills. She could use smaller, more numerous pieces and improve the overall integrity of the construct. In fact, she would do just that from now on. There was also no real reason to limit shields to just being a barrier. There were plenty of opportunities for her to make her protection more elaborate, like perhaps reactive spells. She would have to look into it later.
+
+Later, because the charge kept going and didn’t stop.
+
+Viv didn’t know if the knights were perfectly suited to the situation or if they were doing their best to impress her. As she grabbed onto the front knight’s shoulders for stability, they kept plowing through disorganized ranks of revenants on the way to the higher city. They didn’t care about the stairs, they didn’t even speed up. Their barded warhorses moved and the crowd was trampled.
+
+“Spiller!” someone roared.
+
+Viv spotted it as well, a massive, bloated horned creature standing on a ledge over them. Caustic bile was already flying in the air. Her danger sense had not warned her because it wasn’t aimed at her. The back of the formation was going to get it.
+
+“Nope.”
+
+A twisted, thin tongue of black mana formed above their heads to match the spray. Could be better, Viv thought. Efficiency was still low. Nevertheless, the attack was entirely absorbed. She barely felt the difference when her yoink turned the spiller to ash.
+
+Between the knights and her, the attack didn’t stop. They left the rest of the expedition behind but Viv could hear them fight on. Soon, they reached the bottom of the palace.
+
+Viv jumped down and yoinked a crawler mid-flight. Those pesky ghoul like creatures were getting on her nerves.
+
+Just like the rest of the city, the palace managed to feel crowded without being stifling. Steep stairs led up to a thick double gate, the way too narrow to allow more than four people abreast, yet they had managed to cram a flower bed on either side. It was dead now.
+
+Viv looked back to see the knights had formed a circle. The sight here was amazing, a rare gap in the tall towers giving a commanding view of either side of the cliff. To her left, the plain extended back to Kazar, though the city could not be seen from up here. Viv couldn’t even spot a hint of green, only the desolate expanse of dusty ground.
+
+The scene to her right was worse. The colors were a little darker, a little more bland perhaps, but that was not the issue. The issue was the tidal wave of undead flesh moving towards them. First distant dots, the shambling forms merged into mobs, then a veritable sea of the dead. Taller figures emerged from the wave like reefs at low tide, though they moved as well. There were too many of them, far too many. Even if Viv had a week and they stopped moving, she wouldn’t be able to kill them all. They were beyond numbers.
+
+She had to kill the lich or the Harakans might not even manage to evacuate.
+
+Viv caught sight of Solfis on a nearby roof and made her decision.
+
+“Head back, I’ll face the beast myself.”
+
+“Your Grace…”
+
+“Cover the army. And don’t worry. I got this.”
+
+With this, Viv turnedand walked to the gate.
+
+“Your Grace, those who pathed up sometimes…”
+
+“I know I’m high on power right now, but I’m not alone and… I was made for this. That undead is mine.”
+
+The man nodded once, though he didn’t seem fully convinced.
+
+“Just remember, we all depend on you.”
+
+With that he turned, and the horsemen turned with him.
+
+Viv moved on. The gate was unlocked but she still checked it for enchantments. They were there, just not active. The lich was extending an invitation.
+
+That was fine with Viv. She still made sure to sabotage them as she went by. They could be recovered later.
+
+The gates led into a large hall. Sparse light came in from high windows to the front and back of the building, all of them still intact. Stained glass dyed them in shades of blue and green. Even the light of the sun was faded here, having crossed through the thick layer of cloud. The faded colors still felt strange here, in that den of undeath.
+
+The ambient mana was increasing.
+
+Viv had not felt this intensity since the necrarch’s den. Black mana swirled and congealed here, giving the air a spicy taste of change and death. There was a surprising lack of dust. The place felt more like a well-maintained mausoleum than an old ruin.
+
+Viv tested for traps and found one in the middle of the room. She deactivated that one as well. A door in front of her led to an inner courtyard while passages to her left and right gave access to the palace’s wings. The Ascender was on a timer, however, so she decided to go straight. No time to explore. Her only question was: what other traps waited for her? A brief look through the windows revealed no strands of mana, buried or otherwise. Just cracked soil and the ever-present dust. She looked up.
+
+Aha!
+
+Viv pushed the gate open and threw three sigil-shaped pieces of metal on the ground. Telekinesis made them rise and form the most basic array for a physical shield, and not a moment too soon. A rain of bones smashed around her, turning into strange, mantis-like constructs that immediately rushed her.
+
+“Yoink!”
+
+Tendrils of black mana elegantly weaved to catch the fast-moving guardians as they tried to dodge. A large hand pierced the ground at the center of the defunct garden, soon followed by a head. Viv killed the large construct before it could extricate itself from its hiding place underground. Too tightly packed, Viv thought. Or the construct was too weak.
+
+A shriek of rage echoed from deeper within.
+
+“There you are,” Viv said.
+
+She recovered her portable glyphs then walked to the far wall at a reasonable pace, checking for more traps. There were none in the garden, but the room beyond that was something else.
+
+The palace extended up but this place was its heart, the center of power of the ancient lords of Sinur’s Gate. Attendants would gather in the massive, circular room under an open cupola decorated with ancient engravings. An elevated platform on the far end hosted a throne, while the sheer rock of the mountain climbed up beyond, reminding people that the city had been carved directly into it. The union of finely chiseled stone and an untouched rock perfectly reflected the essence of the place.
+
+The throne was not the original one, judging from the amount of bones involved in it. Poor taste. It also said a lot about the lich that it would create a court where only the mindless dead would attend. She shifted her focus to the side, where a small stone bookshelf had been raised. It was a crude thing loaded with tomes. There were also a few baubles placed here and there in a poor imitation of interior design. More interesting were the many, many circles hidden on every wall, ready to be triggered. Only a token attempt had been made at hiding them, but the dormant mana was clear to her acute senses. This was a death trap and a sanctum rolled into one. There was no need to go farther. The lich would try to stop her here. It was far too arrogant to tolerate her intrusion.
+
+But first, a little preparation.
+
+Viv cut the window open and stepped in, having noticed that the door was the fantasy equivalent of a claymore mine. She dropped the shield glyphs on the ground and traced a hasty circle in the corner of the room she had found herself in. With her defensive array ready, she finished her preparation.
+
+“Aegis.”
+
+The shield felt thicker and more resilient with more hexagons composing it. Viv felt safer just having it deployed around her.
+
+Now, there was a way to reliably disarm the traps by severing the proper lines, letting the residual mana disperse harmlessly. But Viv didn’t have the time or patience, and also there was little point.
+
+“Astra.”
+
+The first howling projectile hit a cluster of mines and detonated them.Some of them triggered, sending spears of black mana across the room, while others exploded where they were. This quickly degenerated into a chain reaction with shrapnel hitting more traps and destabilizing them. Soon, the throne room was the scene of constant explosions. Viv waited for the dust to settle to look around.
+
+The empty space was now littered with gravel. The explosions had been unexpectedly weak, so she assumed the lich intended to charge the traps before triggering them. Only a single spear had hit her shield and none had reached the platform where the throne waited. There were still no signs of her host.
+
+“Not taking the bait yet?” Viv asked.
+
+She stepped out of the shield and carefully made her way to the platform. The bookshelf was filled with tomes of various ages, she noticed. It reminded her of the one she used to have in her bedroom back on earth. Comics and children stories stood side by side with school books and dictionaries, all of them mixed in ever more confusing arrangement until her mother inevitably forced her to tidy up. The lich had history books and other mundane items alongside ancient tomes of power that gave off puffs of mana, a clear sign glyphs were written on their surface. She approached the throne. It was heavily warded, with a fancy noose designed to bind whoever sat on it unless they knew the spell.
+
+“I’m going to smash that ridiculous chair of yours now,” she said to no one in particular.
+
+The corners of the room hissed, half-whispered words muttered from the shadows.
+
+“No? Your choice. Excalibur!”
+
+A sword of pure black mana as long as the largest two-hander emerged from Viv’s dagger focus, extending it in a cool way that totally didn’t remind her of a lightsabers.
+
+Viv didn’t really feel displaced air or hear the swoosh of fabric, there wasn’t enough time for it. Acuity reflex and danger sense let her act as soon as she felt the lich teleport. A dense ray of annihilation smashed into the floor where she used to be. The lich turned to see her, but she was already back into the aegis.
+
+She could teleport in the middle of combat now. She was fast enough.
+
+It changed everything.
+
+“Astra.”
+
+The lich blocked several projectiles on its own shield as it rose towards the ceiling. Suddenly, the ambient black mana concentration spiked until even a heavy would have died in a few seconds. She could practically see mana crystallize in the air in fleeting fractals before the lack of guidance broke them again.
+
+“CHOKE!”
+
+Viv quickly engraved an absorbing circle in the wall by her side and used it to drain her immediate surroundings. Then, she gathered all that power and sent it at the lich.
+
+“Greater blight.”
+
+The lich screeched when the all-devouring spell stuck to its defenses, consuming them with every second. It teleported again near its throne and activated another array.
+
+“EFESTAR’S REBUKE.”
+
+Suddenly, divine magic filled the creature’s empty orbs, turning them from empty to a deep green. A tide of skeletons rushed in from two lateral entrances.
+
+“True mass yoink. Blast.”
+
+It was just more fuel to Viv. Tendrils snaked on either side of her, maintained by her ability to cast several spells at once. It was easier when it was the same spell cast several times in a row, something to explore later. Each new seeking spear was an extension of the previous one. Each one grabbed the undead’s power effortlessly, pushing aside the lich’s weaker grip and claiming the power for Viv. Her conduits sang with the pilfered mana. There was simply so much of it, she didn’t know what to do except feeding them in more constructs. Her spells grew more sloppy and less precise but it didn’t matter. There were just too many of them to fire and forget. She was a walking avatar of magic, taking and giving back with every fiber of her being.
+
+It felt good to be at the top.
+
+Her own emerald glare matched the lich’s borrowed power and slammed it back into its face. A large defensive array had surged to life around the throne and it was already being overwhelmed, Viv’s annihilation too aggressive for its insidious pace. The lich roared again, but it was frustration, not anger.
+
+“LIVING INSECT. ARROGANT TODDLER.”
+
+Viv felt the lich reverse course. Power left its dying creatures, its many traps and constructs to gather in the lanky skeleton. The damage Solfis had done repaired itself in front of her very eyes. Its arms regrew, the legs soon to follow. The show was horrifying, yet another example of the dangers of the deadlands. All its dwellers had to be slain definitively, or the pervading black mana would always fix them back to their original shape. The lich was no different. It gathered all its power above its head then simply slashed towards Viv.
+
+It was the first time Viv had seen a mage turn to wild magic.
+
+So far, the lich’s power had remained structured and logical. All of those traps were magery, codified to the last line. The call to Efestar was divine magic and thus borrowed, but this was different. The lich was swinging mana through hatred alone, a departure from its earlier methods. It was extremely powerful. It was also excessively hard to wield.
+
+The lich missed, striking the ceiling above her head, The entire top of the room was simply gone, windows gutted halfway up. Black mana escaped into the courtyard through the massive hole, while pieces of masonry rained down all around. The palace had withstood three hundred years of abuse, but not the lich’s spell.
+
+The lich swung again.
+
+This time, the torrent of darkness clipped Viv’s shield and the power was enough to rattle her teeth. Nevertheless, she shifted the pressure around, reforming the damaged parts and placing the intact one near the impact.
+
+Adjustment made: Shield mastery is now at Beginner 1
+
+“ENOUGH!”
+
+The lich split the remaining power in two, holding part of it above its head while the rest formed firm ropes around the room, all of them converging on Viv’s shield. The thick, destructive links covered the shield and fought it for control. She realized the construct was too tight for her to shadow dance through it.
+
+“NO ESCAPE THIS TIME.”
+
+The lich walked slowly, then turned most of its remaining strength in a single, vertical ray of void energy. Viv was still caught in its net.
+
+“NOW DIE!”
+
+“Shatterstar.”
+
+Viv’s shield exploded outward, sending accelerated panes of deleterious shrapnel everywhere around her. They shredded the chains, flayed the frescos, raked the earth, and pierced the foe.
+
+She could see light through the many holes in its form. The jaw hung loose, perhaps in surprise. Viv didn’t wait. She shadow danced to the creature side.
+
+"Excalibur.”
+
+She didn’t swing. The blade materialized where the lich’s head was, then she sliced down and through most of its body. Only when it turned to ash did she relent and let the spell go.
+
+You are suffering from mild mana poisoning.
+
+“I’d better get out of here.”
+
+//Yes, Your Grace.
+
+Solfis emerged from a side passage, uncoiling from the ceiling like a demented spider.
+
+//A capital performance.
+
+“I have grown a lot since we found each other.”
+
+///Yes.
+
+//Your contribution was the most important one, of course.
+
+//Yet allow this one a moment of pride.
+
+//What a wonderful little harbinger of destruction you have grown up to be.
+
+“Let’s leave before you make me blush.”
+
+//I would shed tears if I could.
+
+“You can always make someone shed tears on your behalf.”
+
+//That would be unhygienic.
+
+//Now, let us solve our undead horde problem.
+
+Viv walked out of the palace to find wounded people waiting on the steps, many of them too hurt to fight again. The din of battle still sounded deeper in, and the temple support folks were bringing in more victims. Viv could see more undead gathering through the gap in the towers. Without pause, she turned a nearby statue into a mana-absorbing obelisk. The wounded were particularly sensitive to black mana.
+
+Lorn was seated by the stairs with many of his temple guards. The captain was cleaning gore off his massive zweihander. It wasn’t going very well, but Viv thought it might just be the gesture that helped him relax. Especially because he could set his weapon on fire.
+
+“Lorn, how are you?”
+
+The man looked up and blinked, then he stared to the side towards the lines of battle.
+
+“You killed the lich. I can no longer feel its call.”
+
+“Can you give me a report? Otherwise I’ll find someone else.”
+
+“No, sorry.”
+
+The tall man shook his head, then smoothed his beard which was quite dirty.
+
+“Ugh. Yes, the situation. We moved everyone up so we only have to defend in one direction. That let a lot of people rest, but there is a problem. The dead keep coming. Even with the lich dead, they have our scent. We might need to break out before we are too tired to fight and the dead overwhelm us. I already exhausted my mana taking down crawlers and some of the Hadals got wounded.”
+
+“Don’t worry, I have one more card to play.”
+
+Viv walked to the wagon and rummaged around to find the item she’d make sure to pack.
+
+Life energy beacons were designed to peel off a necromancer’s army of undead by attracting them to a different point. That usually meant that the team that set it up died surrounded unless they forced their way out quickly enough. It could also be used to drive a horde away from a location before letting it disperse, as long as there was no one to direct it. It was time for Viv to use it. The only issue was to activate it away from her troops.
+
+“Arthur? Arthur!”
+
+Viv put on her harness, the white dragon landing next to her an instant later.
+
+“Squee?”
+
+“We need to drive the undead away from our folks. Can you help carry me away? And, uh, hopefully back.”
+
+One gold talent.
+
+No.
+
+Two gold talents!
+
+Round trip!
+
+“You’re charging me to save everyone’s lives?” Viv said, pretending shock “Who’s going to feed you meat behind my back if the soldiers fall here?”
+
+Oh.
+
+The dragonette looked dejected.
+
+“Just kidding, I accept your terms. I’m taking it off your share of the lich’s treasure anyway?”
+
+Treasure?
+
+TREASURE?
+
+“You can only see it if there are no undead crawling all over the place.”
+
+WE FLY TO RUIN AND THEIR FIERY DEATHS
+
+“SKRAAAAA!”
+
+“Yes, yes. Onward, noble steed. Hey, Farren! Help me get that thing primed!”
+
+The Voice of Neriad rushed from reattaching a finger to helping her. Viv was left holding a small sphere brimming with energy then completely contained. As she touched the metal, something touched her perception, the mark of Neriad. She could recognize his soul from their many contacts. He would help activate the item.
+
+Viv activated her harness and felt gravity lose its hold she floated up, watched on by a few sentries hunting for fliers, then she was over an arch and towards the heart of the deadlands. Sinur’s Gate receded in the distance as Arthure picked up speed. A few yoinks were enough to kill the nearby undead birds.
+
+There were a lot of the buggers.
+
+The next ten minutes were spent keeping the slower dragonette safe while she carried her. Viv’s feet dangled over dead desert and the coming masses of monsters. High up in the air, they merged into each other to form a squirming, maggoty tide. If she dropped now, she’d die.
+
+Her danger sense screamed at her.
+
+Viv formed a massive shield around herself and Arthur just as the dragonette swerved to the side, avoiding a black bolt sizzling by her side. Arthur roared and climbed sharply. Viv felt the gray mana coming off the dragon’s core in great torrents, pushing her wings up. Once again, she felt in danger but this time, they were traveling up, where the threat was. She quickly made an adjustment to her shield so it moved with her and cast, not a moment too soon. Another blast of power hit it.
+
+The sheer might was close to what the lich had managed.
+
+Air blew in Viv’s face from the suddenly increased speed. The clouds above approached, and she finally spotted their foe: a massive bird as wide as a jet. Dark fathers clung to desiccated limbs and tattered flesh. Only some mana fuckery could let that thing fly.
+
+They couldn’t land with that creature bombarding them from afar.
+
+“Let’s take it down! ”
+
+Oh really?
+
+The dragon had learned sarcasm. The world was doomed.
+
+Arthur climbed like an arrow and Viv got her first taste of draconic aerial combat. The furious juvenile did not just use gray to push herself up, the same gray formed a small vortex that destabilized their fleeing adversary, disturbing the flow of air around it. The undead bird was flapping its ratty wings with increased desperation. Another blast of energy was so wide, Viv didn’t attempt to stop it. She just clung to Arthur and tried to make herself as small as possible.
+
+They moved into the cloud cover.
+
+Arthur was relentless, moving and dodging with calm control. She didn’t lose focus even when the bird disappeared behind thick mist. Blue mana turned the water around them into a gathering storm of ice. Suddenly, Arthur dove under an attack, then she surged up. The gathered water smashed into the undead bird, eliciting a horrid squawk. And Viv was flying.
+
+“Heh?”
+
+Arthur had dropped Viv. Inertia and her harness kept her going up through the cover. She saw Arthur turn around and roast the bird in one single, devastating attack. Then the sun rose.
+
+Above the clouds, pink and red dyes colored a cottony sea. The radiant orb of the sun kissed Viv’s skin and brought with it the promise of hope. Towering columns of cumulonimbus rose high in the distance like4 mountains above the ocean. It was breathtaking. She had only seen such sights through the sanitized hole of a plane, but here it was raw and untamed with its freezing wind and nothing under her feet.
+
+Arthur picked her up softly, and they dove back down.
+
+See, mother.
+
+That is why you must learn to fly!
+
+“I’ll find a way. Hey, we make a good team.”
+
+What team?
+
+You are my luggage.
+
+“Fine, fine.”
+
+It took quite some time to return to the gloomy world under the ever-present sky. One day, she would see it cleared over Sinur’s Gate.
+
+They landed heavily on a small hill overlooking the cliff’s approach. A few revenants shambled their way, but they were at the edge of the masses, and Arthur made short work  of them.
+
+Viv activated the primed metal sphere. A massive pulse of life blasted out. Viv perceived a mighty shield, a pair of golden eyes.
+
+They winked.
+
+The nearest wave of undead turned like a single person. Viv watched even distant, towering behemoths rotate to get to her. She activated her harness and they lifted off once again. Viv sent a silent thanks to her luck for not deciding to damage the harness to make things more ‘interesting’.
+
+The trip back was uneventful. They landed near the frontline and immediately joined the fight. Viv’s legs felt uncertain under her after spending some time in the air, but her finesse kept her upright. Not all undead had taken the bait. Those that were already in the city kept coming.
+
+So the Harrakans kept killing.
+
+Minutes turned to hours and Viv cast again and again until her conduits screamed but she didn’t stop, not even when Sidjin offered to replace her. He could not stop elites like she did, instantly and effortlessly. Night fell and the battle turned into a grind as the most dangerous undead had fallen. Only then did she allow herself to sleep.
+
+She rejoined the fight at dawn.
+
+Endurance +1
+
+Again and again, Viv cast. There were still birds flying to them, then a few more elites came, probably those who had returned after the life orb stopped broadcasting its siren call. Viv kept fighting until night and noticed that the line was now held by witch pact with their short swords. They were enough to manage most revenants.
+
+“The heavies are exhausted, they just can’t fight anymore,” the poacher lady explained, her long gray hair matted with sweat and worse.
+
+Sidjin took over again. She vaguely heard someone say that they might have to leave.
+
+On the dawn of the fourth day, Viv heard something she had forgotten was possible: blessed silence. A gore-covered Solfis waited by her tent.
+
+//The assaults have stopped.
+
+//I spent most of my energy taking out stragglers and ambush monsters.
+
+//We are safe for now.
+
+//The city is ours.
+
+“We have won.”
+
+//Yes.
+
+//Now, to enjoy the spoils.

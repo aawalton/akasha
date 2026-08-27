@@ -1,0 +1,279 @@
+---
+id: 354e781e-e67b-55f8-b87f-8f9f1ebee038
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-NINE: By Appointment"
+slug: 0181-one-hundred-seventy-nine-by-appointment
+partOf: super-supportive
+position: 181
+ownLength: 4343
+unit: words
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1878183/one-hundred-seventy-nine-by-appointment"
+royalRoadId: "1878183"
+---
+
+179******
+
+At five o’clock in the morning on a Saturday, the school library was so quiet that Alden felt like he’d sneaked into the place instead of walking through the front doors. He saw only one woman on the ground floor, and she was staring sadly at a line of empty vending machines.
+
+There were still plenty of oddities like that around; signs that something had gone wrong recently stuck out like sore thumbs in the middle of a world that was back to running smoothly in most ways. You could go to restaurants and movies, or you could hang out in potion saunas with knights. But one of the links in the chain that made these particular vending machines have snacks in them was obviously still broken—an absent employee, a teleportation restriction, all the food being funneled into the meals that the school was supplying for the temporary dome neighborhood.
+
+Alden’s thoughts tried to turn to the interconnectedness of the people in the village and how the attitudes of the elder and younger brothers would apply to missing chips and sodas, but he managed to stop them. He was here on campus at the crack of dawn instead of enjoying one of his two available beds because the story about the croak had plunged into him too deep. And he believed the sediment it had stirred up when it hit the bottom was best left to settle without examination.
+
+For the first time in weeks, his affixation had woken him.
+
+Not nightmares about affixing, but the affixation itself. Himself. Even now, he had that vivid sense of being trapped, of struggling against himself, of straining for more space and freedom.
+
+And it wasn’t helping that he was pissed off about it in such a weird way. Specifically, he was mad that being mad was putting a damper on how unforgettable his night had been. Watching Esh-erdi correct the scale of someone’s gokoratch whiteboard art, eating leftovers with him and Lexi and Haoyu, being told an Artonan children’s story with crazy sound effects and then letting himself be talked into belch-croaking as loud as he could at the stars of the southern hemisphere…
+
+It was cool. It won’t stop being cool just because the aftereffect was stolen sleep.
+
+At least his heightened fixation on affixation had reminded him that someone had recently asked for his opinion on that topic. Fortunately, the guy happened to be one of the earliest risers he knew.
+
+“Hi, Jeffy,” Alden said, dropping his messenger bag on the conference table and taking in the sight of the Aqua Brute. Jeffy was sitting in front of a computer and drinking something called “Protein Attack.”
+
+“Alden, you came!”
+
+“Yeah, of course. I didn’t change my mind in the past twenty minutes. You know there are a ton of empty study rooms, right? This huge one we used for the team meeting is—”
+
+“Ours,” said Jeffy, holding his hand up for a high five.
+
+Alden snorted. “I’m good with that. So…you’re talking to people about talent selection. That’s smart, and I have time this morning.”
+
+******
+
+But maybe not enough time to understand this…what is he thinking?
+
+He sat in the chair beside Jeffy, looking at the recommended talent builds some faculty member had made and helpfully linked to exciting reference materials that should have appealed to an S-rank Aqua Brute of a certain personality type. They could carry Jeffy through the next eight to ten years, with only minor tweaking along the way, if the System offered him what it usually did and if he progressed at a fast pace with no stalls.
+
+The plans might have been leaning too optimistic, but they were all the more impressive because of that.
+
+Enviro Brutes seemed to have it okay on the talent selection front. If the System was keeping tons of secrets about their spells and skills, it must have been happening at heights beyond the ones Jeffy was projected to reach in the next decade. All of the faculty recommendations, and most of the other talents Alden asked him to read aloud off his selection windows, sounded like they would do what any reasonable person would think the class should be able to do.
+
+Aqua Brute is how you become Mr. Does it All in the Deep Water Guy.
+
+In addition to the regular foundation point choices, the System was providing a limited list of Morphish abilities that would kick-in semiautomatically in response to Jeffy’s environment. A little like spell impressions moving a person’s hands and mouth for them, although the automorphs were said to benefit from regular activation.
+
+Celena North didn’t want Jeffy getting fancy right now. He already had Sink and Surface. They expected him to continue leveling that and taking either automorphs or spell impressions that would let him fully leverage the skill. Basically, they wanted him to be able to safely sink even deeper, resurface even faster, and move through the water even more quickly than he already could. All while hauling stuff around with him.
+
+Alden would have understood if Jeffy found the prospect of starting out that way boring, especially with some entirely new powers staring him in the face. But he didn’t even seem to like the version of superhuman that the plans were promising to turn him into in the far future.
+
+Is he still hung-up on being a land hero? I thought he’d changed his mind about that with all the talk about the strength and wisdom of the ocean he was doing while he crushed me in gym.
+
+And Jeffy was really bad at articulating what the issue was.
+
+“How do you feel about what you had to do last week?” Alden asked, hoping to pin him down. “Being  summoned into the water when it was trying to eat whole cities—that must have been crazy for you.”
+
+The label Jeffy was peeling off the empty Protein Attack bottle stopped crinkling. “It was crazy! At first, when the System told me I was going to be summoned, I was worried. Because what if I messed up and somebody died? But then there were all these other Brutes and one Adjuster, and we were teamed up. All the people who saw us were really happy to see us. And Yesenia said I was learning the ropes fast, and…”
+
+Okay, so he’s not on the verge of making a strange decision because he’s traumatized. He actually liked the disaster work.
+
+Alden listened to him describe how awesome the older Avowed he’d met that night were while he skimmed the list of spell impressions Jeffy had said were available to him.
+
+He paused on one the faculty hadn’t put on any of their plans even though it sounded interesting. It was for finding “oft-named” objects that were in the same body of water as the caster. While the remarkably specific spell was most obviously useful on Earth for locating ships, it sounded from the description like it could be used to locate any object that had its own unique-enough name.
+
+It would be like a very restricted version of Roman Velra’s skill, and that skill is awesome. SkySea Guard could have really used this the other night, right?
+
+As soon as that thought occurred to him, Alden typed the spell name into his laptop. “Jeffy! This spell impression is new. It’s not on the internet. The System must have started offering it just this week. Wow. The Artonans can roll one out fast when they want to.”
+
+He was intrigued to see talent selection shifting in response to recent events.  Affixation options appearing and disappearing happened, but having such an obvious explanation for why a new spell had been added was new to him. He wondered if it was a sign that the Triplanetary government was now especially concerned about the dangers of watercraft or if they were putting out a bunch of talents they thought their Avowed might appreciate after what they’d been through. As an apology or something.
+
+Anesidora might have even asked for a spell like this and been granted it. I should see if there’s anything about that on the news sometime.
+
+“I know. That spell wasn’t there when I had advisement,” Jeffy said, setting aside the bottle. “Do you think that means I have to let them advise me again?”
+
+Alden sat back. “If you’re interested in taking the spell you could, but I don’t think you have to do anything. I am a little confused about what you want, though.”
+
+Jeffy had added a plan of his own to the faculty’s. Not a ten-year one, just what he wanted to choose for this affixation. He thought he wanted more Strength, Speed, Agility…and another life jacket spell impression.
+
+“It could be something else,” Jeffy said. He picked up the sheet of notebook paper he’d written his wishlist on, his fingers crumpling the edges. “But I think something like this is better. Only the teachers said no as soon as I showed it to them, in this really obvious way, like of course it was wrong. They were excited about their plans for me, and they had those videos of the other Aqua Brutes and the list of places and organizations that could benefit from me if I had different talents. They had all these facts. And I didn’t have any facts, so I didn’t know how to talk about any of it. Then, it was over.”
+
+They saw what his idea was, thought he was a dumb kid, and steamrolled him.
+
+On the very first day they’d met, Alden had assumed the faculty would try to talk Jeffy out of his then-goal of being a “building puncher.” Now that he knew the guy and he wasn’t freshly annoyed by him, he felt like a dick for not considering how a conflict between what Jeffy wanted and what the school thought he should want would actually affect him.
+
+“Sometimes teachers are way too pushy accidentally,” said Alden. “They probably didn’t mean to pressure you…much. Can you explain what you’re thinking now? To me?”
+
+“I still don’t have facts.”
+
+Alden peered at him. “But you do know why you want what you want, right? It doesn’t have to be backed up by science or statistics, but you must have a reason. I’m not surprised you’re into the foundation points. Everyone knows you really like those. But why more life jackets?”
+
+He was careful not to ask the question in a way that might sound derisive.
+
+I can’t believe he wants another copy of the same spell impression. That’s very peculiar and not nearly as useful as thirty other things he could choose.
+
+But it was Jeffy’s affixation. If casting the life jacket spell made the guy so happy that he wanted to do it even more, then Alden would make room for the notion.
+
+Other people will give him so much shit for it, though. I hope he has a goal he can talk about to shut them up at least.
+
+“Life jackets are for people,” Jeffy said. “You can use the spell on things that aren’t people, and that’s fun unless you make a big mistake. But the System said it’s mostly for people and not to waste the jackets on anything else during the floods.”
+
+Alden didn’t have a reply to that, so he settled for smiling encouragingly.
+
+“A lot of the talents aren’t for people. A lot of them just take me away from everybody else. And I don’t like that. I want to be a superhero, not a submarine.”
+
+“What do you mean, man?”
+
+About ten minutes later, he finally had an answer. Jeffy was trying to choose his talents based on the fact that he hated feeling like he was cut off from the rest of the world. He hadn’t known that about himself before getting the class.
+
+“I like swimming a lot. I like the water. But in the deep ocean, you go down and down, and there’s nobody else there. Probably nobody else has ever been exactly where you are before. Even if you have a light, there’s nothing to see but more of the same everywhere.
+
+“It’s okay if I know I can come back up whenever I want. But if I had a job to do down there, I’d have to stay for however long my boss told me to. And what if it was hours? Or days?”
+
+“You’re the one with the powers,” said Alden. “If you ever get freaked out doing something in deep water, you can just come back up. See the sky, say hi to whoever is nearby on the surface, and then go back down. If you’re an insanely fast Aqua Brute, who’s going to mind? It’s like taking a bathroom break for a normal employee.”
+
+“Maybe,” said Jeffy.
+
+“And you have the System.” Alden tapped his own forehead for emphasis. “So you can have people talking to you while you’re down there. Doesn’t that make it better? Or does it make it worse somehow?”
+
+“That’s good,” Jeffy said again. “But that’s on Earth.”
+
+Oh.
+
+“I’ve been watching a lot of Abisal’s channel,” said Jeffy. “Because she talks about all her jobs. Look.”
+
+Abisal wasn’t an Avowed Alden knew much about. He mostly thought of her as that lady who’d saved a container ship crew two or three years ago, and he wasn’t sure he would have been able to recognize her on the street. But she was informative and exuberant on the channel Jeffy introduced him to. She also obviously loved the very part of Aqua Bruting that Jeffy was trying to avoid.
+
+The video he was most upset about was titled “El Mejor Trabajo de Mi Vida” and had been posted three months ago.
+
+[Hello, everyone! I’m finally back home after swimming for almost two weeks in an ocean that has never had a human being in it!] she began, smiling widely. [That’s a first-in-the-universe achievement, but there’s no medal. So I made myself this one.]
+
+She held up a disc of chocolate she’d attached a ribbon to. And then took a bite out of it.
+
+[I’m going to make myself another one tomorrow. I did miss chocolate a lot. But I had so much fun! And now I can tell you all about what it’s like to eat, sleep, and work on a water world!]
+
+She went on to explain the best job of her life. She’d been summoned by a team of wizards who had built a device that had some assembly required on the bottom of an ocean floor, on a planet inhabited only by aquatic wildlife.  She’d gotten trained up, geared up, and then dropped off for a two-week-long assignment that sounded a lot like hammering giant tent pegs into very specific locations in a very specific way while trying not to let any curious animals touch them.
+
+She’d literally slept underwater to avoid the terrible storms on the surface and drank her meals out of pouches. She’d had nothing but some kind of magic music box for company, which they’d let her keep as a souvenir. Extra time was built into her trip just in case she needed it to complete the task, but she was happy she hadn’t needed it because it gave her an opportunity to leave the construction site and “really experience the adventure.”
+
+She’d done the job and then swam around exploring everything.
+
+“See?” Jeffy whispered. “Two weeks. With nothing but fish.”
+
+“I do see,” Alden said slowly. “The good news is that, right now, you’re definitely not qualified to have that kind of experience. You’re missing a lot of abilities you’d need for that one.”
+
+“She couldn’t even make phone calls,” Jeffy said. “She didn’t have anything but that emergency signal. What if they gave me one of those and I made a mistake and lost it? There wouldn’t be anyone to help me find it. She was down there forever. I don’t want to do that. I want to swim toward people and help people and then celebrate with people. That’s what other superheroes get to do.”
+
+Pointing out that Abisal probably did a lot of that too wouldn’t help anything.
+
+“I get you,” Alden said.
+
+“You do?”
+
+“Yes.”
+
+“So what do I do?”
+
+He took his time thinking of a reply. “First of all, I think you’re right not to just do whatever the faculty says. Especially if you didn’t even get the chance to tell them what you’re worried about. You should talk to them again when you’re ready to explain, and talk to other people you trust who know more than you.
+
+“And only take talents you want. If someone says you have to have a certain ability to succeed as a superhero, but you feel uncomfortable about it, then ignore them. Don’t take it. You’re going to level more in the future, so you can always pick up what you need later.”
+
+“What if I fall behind everyone else? I don’t want that to happen. It sucks to be at the bottom of the class.”
+
+Alden briefly wondered how it was possible for him to be worried about a thing like that, then he reminded himself that Jeffy had been in a regular school until recently.
+
+“This is Anesidora, and you’re an S. You won’t fall to the bottom in our gym class, which is the class everyone in the program cares the most about. You could take nothing but Appeal and Life Jacket for the next year, if the System didn’t cut you off, and even though the instructors would be freaking out and yelling at you, you still wouldn’t be losing every duel.
+
+“The thing is, you’re already awesome. The System picked you to help people during a real crisis. You were a red halo. You’re already a superhero. I bet if everyone had to rank the class right now, you’d be really close to the top.”
+
+Jeffy’s posture straightened, and his grin returned.
+
+At least he bounces back quickly.
+
+“All right,” said Alden, looking back at the computer. “So now I understand. At the moment, you don’t want anything that will make you a perfect longterm submarine like Abisal, and the faculty plans are all on the way there. Eventually. But that doesn’t mean everything they suggested is a no-go at this point. And Life Jacket isn’t the only option that would guarantee you get called to work in places with other people. Like that new locator spell…looking for named objects usually means you’re somewhere inhabited by intelligent life. There aren’t a lot fish naming things, right?”
+
+Jeffy’s eyes widened. “I hadn’t thought of it that way!”
+
+“Some wizard might drop something on an abandoned planet and then send you to go look for it. But I doubt that would happen very often.”
+
+“Maybe I should choose that one right now,” Jeffy said. “What if it’s a spell that the System will only give out a few times, and other people get it first?”
+
+He lifted his hand like he was going to touch something on his interface, and Alden barely stopped himself from tackling him. He did stand up from his seat, shouting, “No! Whoa! No! Don’t take something as soon as I suggest it!”
+
+Jeffy pulled his hand back, staring at him.
+
+Alden’s heart was pounding. “You didn’t just…”
+
+“I was answering a text message from Max.”
+
+“Oh! Um…good. Sorry. You should do that.” He took a deep breath. “Just don’t rush your decision. Do you want me to help you make a list of more options? And then you can talk to people who aren’t me. Other Aqua Brutes. Max? Your grandparents. And make sure you tell them everything.”
+
+Jeffy nodded.
+
+Alden was trying to trust the nod. It was hard. “Actually, let’s make a list of the good, knowledgable people you’re going to talk to first. And then we’ll write down what you want to say to them.”
+
+******
+
+******
+
+By late morning, Alden was feeling better. Helping Jeffy had been perfect for a reset, and he was looking forward to seeing Gustavo. Going shopping for the clothes he would wear to meet the healer was something he’d decided a couple of days ago that he should be excited about…so he was.
+
+To make choices about my future and deal with whatever is coming my way, I need to be at my best. The mind healer will help me be at my best faster. Proper clothes will keep me from embarrassing myself or the art’hs in front of the healer.
+
+Therefore, buying an outfit worthy of embroidering that commendation on is an important part of my choosing season.
+
+Mentally framing it all that way made it seem like the massive questions ahead of him could be approached one millimeter at a time.
+
+Listening to The Elder’s Croak was probably an important part of my choosing season, too.
+
+He kept trying to think of more millimeter-sized goals until he was standing outside the shop Gus had said they would meet at. He wondered if the intake counselor had checked to make sure the place was still open for business after the floods. It was in a lucky pocket near Apex’s northern coast that hadn’t been inundated, just a couple of streets back from the water. But the curtains were shut over the window, and the door was locked.
+
+It was called Needle & Wheedle, and there was no sign advertising it. A custom doorknob with the name on the front in raised letters was the only way Alden could be sure he was at the right spot. He poked around for a while, looking through the windows of a few other places on the street. There was a steakhouse, an attorney’s office, and a store that claimed to be the provider of the finest pocket knives in the world.
+
+He sat on a bench across from Needle & Wheedle, in front of a white stuccoed building. Beside him, a post drop with a wraparound screen was playing silent footage of famous Avowed being epically photogenic. If he spoke politely to the mailbox and tried to target it repeatedly…well, that was nobody’s business but his own.
+
+At exactly the scheduled time, his shopping partner pulled up in a zippy little rental vehicle that looked like an auto rickshaw trying to disguise itself as an apple.
+
+“Hey!” said Alden, as soon as Gus had stepped out. “Thank you so much for helping me with this. You didn’t have to come in person, but it’s good to see you.”
+
+<<New Rabbits are mine until they’ve been here for ninety days. New Rabbits shopping for clothes are also mine. Intake kids who watch football with me after midnight and cheer when I tell them to—mine.>> He shut the door of the rental. “These are all you! Of course I came. Gretchen, too, if we need her. Later. She’s visiting a friend.”
+
+“I don’t need too much today,” Alden told him. “If we could just make sure I have a couple of very nice outfits, that will be a start.”
+
+Gus laughed as if Alden had said something funny, then patted him on the arm.
+
+“What?” Alden asked, smiling at the infectious laugh.
+
+“You called me on Wednesday to say you’d be going to Artona I sometime next week. Not for work. Personal business. You need perfect clothes for this trip, you said. I thought, <<We should take care of Alden fast. A week isn’t a lot of time. I’ll meet him on Saturday and introduce him to the people every busy Rabbit needs to know.>>” Gus was still laughing. “Thursday you call again and ask if I want to cook something because you are giving a Thanksgiving meal to every wizard at Matadero! So I’m in the kitchen, cooking and watching television, and there you are appearing on the news, flying around to host a party for Artonans. In a stained t-shirt.”
+
+“I’d just spilled something on it! I did change out of that before the party.”
+
+“So I think you do need much.”
+
+“I swear I changed it.”
+
+Gus led the way across the quiet street to the shop. The curtains were still closed.
+
+“The door’s locked,” Alden told him. “I think maybe they’re not open this weekend. Because of everything. But I found the names of other places that sell clothes for—”
+
+“By appointment only,” Gus said. “Don’t worry. I made you an appointment.”
+
+Alden blinked. There’s such a thing as an appointment for clothes shopping?
+
+Just before they reached the entrance, the door swung open. A tall, dark-skinned man wearing a pale blue striped jacket held it for them. A pair of steampunky-looking goggles were hanging from a strap around his neck. Just beyond him, a woman in a yellow sweater that hung down to her knees was pulling boxes and fabric swatches from a shelf.
+
+“Hello, Gus,” said the man. Then he turned to Alden and looked him up and down. And up and down.
+
+And a third time.
+
+The woman was doing it, too.
+
+“Welcome to Needle & Wheedle,” said the man.
+
+“What name do you prefer?” the woman asked. “And would you like a coffee? Tuck makes the best pour-over.”
+
+They make me coffee while I shop. And there are swatches.
+
+“Just Alden is fine. Coffee would be nice.”
+
+Their smiles were warm enough and their Appeal stats high enough that even all of the staring didn’t feel as invasive as it should have.
+
+“This is where Rabbits who are frequent visitors to the Triplanets come when they need clothes,” said Gus.
+
+Swatches, thought Alden.
+
+“That’s us!” the woman said. “You’ll need to authorize the System to give us your measurements, but first, just have a seat. We’ll talk about what you want from your wardrobe for as long as it takes. You’re our one and only priority for today.”
+
+These people are going to take a lot of money from me.
+
+******

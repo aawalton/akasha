@@ -1,0 +1,419 @@
+---
+id: 8b5e2d88-ecdc-5481-a805-a9b28467b8d4
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-TWO: Uneven"
+slug: 0022-twenty-two-uneven
+partOf: super-supportive
+position: 22
+ownLength: 4751
+unit: words
+publishedAt: 2023-03-02
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1126741/twenty-two-uneven"
+royalRoadId: "1126741"
+---
+
+Alden had been kidnapped for around a minute. His brain wasn’t handling it well yet.
+
+In fact, it was like someone had given his stream of consciousness a shot of adrenaline and then shoved it into a rave. All his thoughts were smashing into each other so that he couldn’t properly address any of them.
+
+She said Corin and that must be Corin Velra, and she said they just want to talk, but she is a crazy person, and I want to talk but not like this, am I going to be murdered, and what if I miss the funeral, why are there cupcakes, and oh my god how fast is she driving, if I can shout for help I can make a call…
+
+Finally. A thought that was concrete enough to prompt an action.
+
+“System, call Clytem Zh—!”
+
+Alden spoke quickly, but at exactly the wrong moment, the car hit a pothole. Aimi had been waving a purple cupcake under his nose while she drove, and she accidentally rammed it into his face.
+
+Alden inhaled a large quantity of frosting.
+
+“Don’t call her!” Aimi said frantically while he coughed up pieces of cake. “I said my family just wants to talk to you. She’s a brain melter. That’s not cool! Who are you anyway?”
+
+Strangely, having blackberry frosting shoved up both his nostrils calmed Alden down a lot. The discomfort gave his mind something to latch onto.
+
+“Hey, Uncle Corin. I’m pretty sure the kid is trying to call Clytem Zhao. Unless you know someone else running around with the name Clytem.”
+
+She nodded as if in answer to an invisible comment, sighed, then turned to Alden, completely ignoring the street in front of them.
+
+“He says, ‘Please don’t act in haste. I’m trying to get you what you want right now, so that all parties will be satisfied,” she reported. “He also says I should apologize to you sincerely. So. Sorry. Sincerely.”
+
+Alden wiped at his face and stared at her cautiously. “Why’d you grab me?”
+
+“Because you’ve got Chainer,” Aimi said, whipping her ponytail over her shoulder. “Unless you don’t? If you don’t, you should definitely tell me that right now so that I can release you back into your natural habitat.”
+
+“…I don’t?”
+
+“Ha! Liar.” She grinned at him. “You totally do. Wow. Listen, my grandma used this insane wordchain to coat the whole family in good luck because her favorite descendant is right up against the deadline to affix. You know about Chainer?”
+
+“A little,” Alden admitted, settling back into his seat and buckling the safety belt.
+
+He could always shout for Ms. Zhao later. That was the right call, wasn’t it?
+
+He had reached out to the Velras himself. He’d expected some kind of reply back. In a few days. Through lawyers or emails… but this might be fine?
+
+All superhuman dealings aren’t this high stress, right? Should I just have expected a kidnapping half an hour after mailing a letter?
+
+“Well, if you know a little, you probably know enough. Chainer’s our whole thing. We don’t just use it individually; we have ways to use it collectively. Not getting it is a big deal. Kind of means you’re not part of the family proper anymore.”
+
+Aimi stared at him like she was expecting a comment.
+
+“Uh, yeah,” said Alden. “That’s definitely a big deal?”
+
+“Right! So we keep the Chainer class lined up and ready to go, especially for more talented kids. We have selectees trade it from person to person as their grace periods end. But sometimes, it’s just not possible. Everyone thought my niece Hazel would be an S. We had one saved for her for the past couple of years. But then she came out as a crappy B, and it was the one rank we couldn’t lay hands on. The clock ticked down, Grandma Aulia lucked us all up, and presto! Here you are.”
+
+She paused for breath, then added, “By the way, what’s your name?”
+
+“B’s not crappy.” He was so used to Boe’s digs already that it came out automatically.
+
+“It kind of is. I should know. Been one for two and a half decades. You’re powerful enough that the little guys are jealous of you and weak enough that the big guys don’t think of you at all. Welcome to the club.”
+
+Alden frowned at her, trying to slot B-rank Chainer in to what he knew about her so far. She wasn’t wearing armor, but she was strong enough to haul him around easily. So she had increased physical stats. It didn’t seem like something the System would normally dole out to the class though.
+
+Is there such a thing as physical enhancement wordchain? How does that work? Does she collapse into a puddle when the sacrifice half comes due?
+
+Also…
+
+She looked like she was in her early twenties, but if she’d become an Avowed that long ago, then she must be older. Forty?
+
+“Does Chainer have a life extension component? Like Healer?” He was going to ask for so much more money if it did. “Or do you just have amazing genes?”
+
+“Huh?” she said, swerving around a motorcycle. “Are you throwing me compliments? Nice! And no. Sorry. But there are a couple of healers on Anesidora who do full  rejuve if you can get on their list. Grandma’s got a guy. Our family basically is his list.”
+
+Well, no wonder they managed to pull even non-family Chainers into their club. Aimi was talking about having the fountain of youth on retainer.
+
+“So…” she said. “You gonna reveal your secret identity? Or does Corin need to run pictures of your face through a search engine until he finds you?”
+
+Alden grimaced.
+
+“I wanted to be anonymous,” he said, annoyance creeping in now that his fear was ebbing. “So I could enjoy the next few months figuring out my class without governments breathing down my neck.”
+
+“Corin says something very polite about how he understands your feelings,” Aimi reported. “I say, ‘Don’t be dumb. You’re not a local, right? Why’d you come to the island in person if you didn’t want people to know who you were?’”
+
+Hannah.
+
+“I’m here for a funeral. Ms. Zhao is coming to pick me up in two hours.”
+
+Aimi’s eyebrows lifted. Her lips pressed together. For the first time since Alden had gotten in the car she was silent. He didn’t think it was out of respect for the dead. Judging by the way her eyes were flicking back and forth, she was doing something with her System interface.
+
+“Yeah,” she muttered after a while, “I’ll drive faster.”
+
+In her Tokyo apartment, Keiko Velra had given up on sleeping. Notifications from the family kept pinging in her brain.
+
+“Didn’t have to add me to the confab,” she groaned as she threw off her covers.
+
+They had zero respect for her hero work. It had been fifteen years, but they all still thought of it as a hobby she’d grow out of.
+
+She slid her feet into a pair of slippers and scuffed into the kitchen. As she rummaged through a drawer for a coffee pod, she glanced at the clock. It was around five hours until Hazel’s timer ran out. They were cutting it close, but not so close that it couldn’t be done.
+
+As long as the boy her stupid sister had just kidnapped didn’t want something too exotic.
+
+A mean-spirited part of her thought it would be funny if he was holding out for something even rarer than Chainer. But there were hardly any of those at all.
+
+She had audio-to-text turned on so she wouldn’t have to hear what was rapidly becoming a massive family conference call. She flicked her eyes up and down, directing the System with the mental commands she’d been forced to master years ago.
+
+Ah. So it’s Rabbit.
+
+Not the easiest, but doable. There was a teen holding it for them apparently. Uncle Corin had been lining up assets for months after all.
+
+She kept reading as the coffee brewed.
+
+[Slight hiccup,] Corin said.
+
+The Rabbit holder wanted Meister of Rifles, and they only had a Crossbow Meister to offer her. She was turning her nose up at it, even though she would be able to do most of the same things with it from a practical standpoint. A proper wright-made crossbow with the enchanted arrows she’d get access to should be fine.
+
+Island-born kids are so damn picky.
+
+Obviously, Keiko’s own family was the premium example of that.
+
+From what she understood, it was a harsh wakeup for outsiders who arrived on Anesidora with their shiny new random classes only to realize that the local teens had been prepping for their own for years.
+
+By the start of middle school, the upper echelon all had a strong sense of what they wanted and could reasonably expect to get based on the popularity of the class and their parents’ social connections. There were even private trading groups, organized by estimated rank, where all the involved families agreed in advance that little Suzie would get Wright and little Klaus would be a Shaper.
+
+Someone always drew the short end of the straw thanks to bad luck and infighting. Maybe little Suzie didn’t get chosen at all, and Klaus’s rank was wildly different than what you’d expect based on parentage.
+
+But more kids came out of it with their future in hand than didn’t.
+
+[If it’s Rabbit he wants, the boy will probably accept additional monetary compensation instead?] one of Keiko’s brothers was saying.
+
+Solid bet. There were only a couple of reasons to want Rabbit.
+
+Money. And summons.
+
+Usually the first one. But plenty of people did think of it as a safely-explore-the-universe ticket. Get summoned a lot, see alien worlds, don’t get killed.
+
+In the conference call, everyone was discussing amounts. They all agreed it would be much easier to drop a ton of money on the foreign kid’s head than it would be to pay off the local girl with the death grip on Rabbit. She had upper middle class parents, and she had her dark little heart set on shooting people in a specific way. It didn’t paint a picture of someone particularly yielding.
+
+Keiko’s brother was looking up the current annual Rabbit salary now.
+
+Congrats, kid, thought Keiko, stirring hazelnut creamer into her mug. You’re about to be a millionaire.
+
+Then she noticed Aimi’s part of the conversation. Her sister was on a different wavelength from everyone else, and as usual, they were all ignoring her.
+
+[What about the funeral? Two hours isn’t long. My brain is gonna be destroyed.]
+
+What’s she talking about?
+
+Keiko scrolled back up. Aimi wasn’t talking a lot, probably because she couldn’t mental text well, and she did have their conversation topic riding shotgun in the car with her.
+
+Ah, there it is.
+
+Keiko blinked. The kidnapping victim was on the island to attend a funeral. With Cly Zhao.
+
+Aimi was afraid she’d be sniped after the gloss wore off. Everyone else knew Zhao was only a danger in a theoretical sense. Yes, she could kill them. No, she would not do it.
+
+By necessity, the S-rank mind sniper was a Good Girl™. Her power was only for assassination. That meant it was nigh unusable as a deterrent on an island full of other superhumans. If she so much as issued a serious sounding threat, some paranoid hero would wipe her off the map.
+
+Keiko felt a familiar, gnawing annoyance in her gut. Her family had just dismissed the teen’s whole reason for being on Anesidora out of hand. Like he was a gift that had been delivered to them by the chain and not a whole entire person.
+
+It was typical.
+
+But Keiko had bucked the family’s private education tradition and gone to superhero school. The same one as Zhao. And Zhao’s BFF, Hannah. They weren’t close, but they were friendly…
+
+That’s got to be the funeral the boy’s come for.
+
+She couldn’t remember the exact date. She’d put it out of mind because she couldn’t attend. But it was sometime this month.
+
+He’s from Chicago right?
+
+She’d caught that from one of her talks with Aimi yesterday. Chainer had popped up there right after the Gloss was set.
+
+Chicago. Teenage boy. Cly Zhao. Funeral.
+
+That’s crazy, though. What are the chances that kid ended up being chosen as an Avowed?
+
+Everyone in their peer group knew about Hannah and Arjun’s disaster mission. It was nightmarish stuff. Double digit civilian deaths and the dream team falling apart in the wake of it.
+
+Keiko set aside her coffee and unplugged her tablet from the wall charger. She typed in “Body Drainer incident” and a couple minutes later, she had the name. And a little-used social media account.
+
+“Hey, Aimi,” she said, “send me a picture of your passenger.”
+
+Her sister complied. It was a profile shot of a teen looking understandably tense while F-city blurred past him through a car window. He had something purple smeared on his face.
+
+That’s definitely him.
+
+She started speed reading through the rest of the family conversation, trying to catch up now that she was actually interested.
+
+Yes. Things were going about how she’d thought they would be. Uncle Corin was delivering politely reassuring messages to the kid through Aimi, telling him this would all be sorted out in time for “your next engagement.”
+
+He didn’t mean that.
+
+Oh, he would try to arrange things so they were pleasant and convenient and everyone fell into line. But he had the same warped sense of priorities as the rest of the family.
+
+And the kid was refusing to give them his name. Probably he was still freaked out. So he couldn’t talk to Corin in person yet, and that was creating a miscommunication that would ultimately make all parties unhappy.
+
+“System, can I send a text message to Alden Thorn?”
+
+She got an instant confirmation. Newbie hadn’t even set up his contact priorities yet.
+
+She thought about it for a minute longer, then she nodded to herself and started composing a message.
+
+###
+
+Alden was trying to sort out what, exactly, the Velras were doing based on the chaotic one-sided conversation Aimi appeared to be having with…more than one of them?
+
+It sounded like they were in touch with a B-rank Rabbit already. So that was good? Someone named Hazel was literally sitting around waiting for them to bring her Chainer. That was good, too.
+
+He’d be done quickly and then go to the funeral.
+
+Big numbers kept getting thrown around, though, which had Alden a little worried. I mean if they want to give me lots more money than I asked for, that’s okay. But why would they?
+
+Maybe they’re trying to pay me off instead of going through with the part where they convince everyone I was totally ignorant and not someone who directly contacted them.
+
+He…could live with that. He might have to. Things were moving really fast. As long as he got the class he wanted.
+
+“You could involve me in the conversation, you know?” he said to Aimi. “I’m right here.”
+
+“How are we going to do that, Mr. Anonymous?” she said. “They’re all talking through System communications right now. We don’t even know how to call you. If you have demands or something, make them known.”
+
+Right. That was reasonable. For someone who’d almost pulled his face off a few minutes ago.
+
+“Well, how many of you are there? Talking about me right now, I mean. Can’t I just give my name to you and Corin and Aulia Velra? I don’t have to communicate with the whole family, do I?”
+
+“Not that many. Only fifteen or so.”
+
+“Oh so just a small group,” Alden said sarcastically.
+
+“Hey, I’ve got eight siblings. We do things big in this family.”
+
+Alden was about to tell her they couldn’t just invite the whole city to make hasty decisions without his input. But before he could get that out, his interface flashed.
+
+Ms. Zhao? he wondered, glancing at the notification.
+
+He stared at it, and a text message appeared:
+
+[Hi, Alden. This is Keiko Velra. Sorry about my family. I’m about to video call you. Answer it if you want to sort things out calmly. No need to explain anything to Aimi.]
+
+What was this? Keiko was the Chainer superhero he’d read about. She was in Tokyo. How was she in on this?
+
+And how did she know Alden’s name if the rest of the family didn’t?
+
+What the hell was with that mailbox? Do they work completely different here? Are they psychic? Is there some superpostman who busts the sound barrier to deliver packages?
+
+An instant later, the incoming call notice came in. Alden accepted it with a quickly muttered “Yes” that had Aimi giving him a curious look.
+
+A woman in pajamas appeared. She was visible from the waist up, and she was centered on a circular “screen” that floated in the top half of Alden’s line of sight.
+
+Keiko looked a lot like Aimi, but with a bob haircut and the beginnings of crow’s feet around her eyes.
+
+“Hi,” she said, leaning back against the kitchen island behind her. “You can talk if you want. Or just go with ‘one blink for yes, two for no’ if you don’t want Aimi butting in. Like I said, I’m Keiko. I’m Aimi’s younger sister. You were on your way to Hannah Elber’s memorial service when they ambushed you, right?”
+
+Alden blinked once.
+
+“I’m sorry. I was Hannah’s classmate. She was an admirable person. We didn’t really mesh, but I had lots of respect for her. Also, I know who you are. The boy from the Body Drainer incident.”
+
+Alden froze. Oh. It felt uncomfortable to have a stranger bring that up unexpectedly. It was something that used to happen all the time when he was a kid, but it had been a long while.
+
+“So, about my family…they’re not terrible. For the most part. But they’re so insulated by the Anesidoran bubble that they’re completely out of synch with normal people.” Keiko took a sip from her coffee mug.  “You know how many of us have ever lived off the island? Me. And the really old folks, too, but that was before the island was even built. That’s it. And the last time a Velra died during a summons? It was never.”
+
+Alden frowned at her, trying to figure out what she was getting at.
+
+“Most of their friends are people exactly like them. They’re talented, rich, and powerful. But they don’t do the superhero thing. They’re all crazy deep in Avowed politics, but they probably know more Artonans personally than they do non-Avowed humans.”
+
+She stared into the distance. “Anyway, I’m only making excuses for them at this point. I’m really just calling to facilitate so that they don’t steamroll you with their assumptions. I’m betting Hannah’s memorial service is first on your priority list, and delivering Chainer to my niece is a distant second?”
+
+“Isn’t that obvious?” It was a funeral.
+
+“You’d think so. But no. It’s not to them. They were just going to install you on a sofa beside Hazel for hours while they background searched you and tried to fix things with the current Rabbit-holder.”
+
+Alden shook his head.
+
+“Got it. Now, I’m also assuming, given your personal history, that you must have very strong opinions about what kind of Avowed you want to be. So are you willing to take something other than Rabbit? Like a giant mountain of cash? Or no?”
+
+Alden kind of wanted to ask just how mountainous the cash would be, but there was no reason to tempt himself. “Only Rabbit,” he said firmly.
+
+“Who are you talking to, kid?” Aimi asked suddenly. She sounded baffled. “Me? Use more words, okay.”
+
+Alden ignored her and focused on her saner sister.
+
+Keiko’s face had softened. “Yeah, I understand,” she said in a sympathetic voice.
+
+You definitely don’t, Alden thought. She probably guessed he was latching on to one of the safest classes because of his childhood trauma. Or maybe even Hannah’s recent death. It rankled, but it wasn’t like he could correct her without an hour-long explanation.
+
+“All right. Rabbit. Is there anything else you would need to make the deal?” she said.
+
+“I’d like…”
+
+How to put this? It was there in the letter. Maybe she didn’t have access to it, though.
+
+“I’d like some assurance that I’m not going to be embroiled in political stuff. I’d rather not be some kind of outcast because I gave the class to your family?”
+
+“Ha!” cried Aimi, apparently still under the impression that Alden was talking to her. “Good luck with that! But don’t sweat it. We’ll like you. Beyond that, who cares?”
+
+Keiko gnawed her lip. “Well, you won’t be ‘embroiled in political stuff’ anyway. You’re what, sixteen? And all of your political value will evaporate the minute you hand Chainer over. But if you mean it in a more…age-relevant…way, are you saying you want to give us the class but have nobody be mad at you for it?”
+
+That sounds childish now. But I don’t care.
+
+“Yes,” Alden said stubbornly.
+
+“Okay.” Keiko looked a little strained. “First of all…it won’t be that bad. There are a few unpleasant individuals who will blame you for it no matter what you do, but most people will assume you’re an ignorant nobody. Also, the Gloss—ask Aimi about it if she hasn’t told you—isn’t common knowledge yet. But it will be by the time you have to move to the island. Using that particular wordchain is going to buy us tons of shit and you tons of forgiveness by extension. The majority will think unavoidable weirdness happened to you and give you a pass.”
+
+Well that wasn’t even a lie. It felt a lot like unavoidable weirdness was happening to him right now.
+
+“So you’re saying I’m good?”
+
+“More or less…”
+
+“Why are you hesitating?” Alden asked, tightening his grip on his seatbelt.
+
+Keiko sighed. “Grandma Aulia has this thing. It’s part of her personal religion almost.”
+
+Alden didn’t like the sound of what was coming.
+
+“She’ll want to keep ties with you even if you don’t want that. She believes people brought into the family’s orbit by powerful wordchains are significant. For us. Like…cosmically ordained friends. Or enemies. Or assets. Or spouses.”
+
+“No,” said Alden. “Especially to the last one.”
+
+“It’s fine really,” she said in a placating tone. “The rest of us know it’s nuts. We mitigate. Uncle Corin is probably already planning to steer his mother into ignoring you. It hardly ever gets out of hand.”
+
+“Hard pass.”
+
+“You can’t pass on something that’s already swept you up,” she said gently. “Trust me. Grandma will already think you’re important. So you want to land on her dance card, not her hit list.”
+
+Alden glared at her.
+
+“Hey, don’t look at me that way. I moved to the other side of the planet to get away from them. Just…be boring for a few years, and you’re golden.”
+
+Be boring?
+
+“One last thing, and then I’ll make my sister let you go.”
+
+Alden sat up straighter. Really? Right now. He hadn’t known that was on the table.
+
+“Would you be very offended if Hazel attended the memorial service?”
+
+“What? So we can trade right there? Absolutely not. That’s so—”
+
+Keiko held her hands up. “Before you lose it, let me clarify. Hazel’s affixation timer will be running out in just a few hours. Given the kind of service it will likely be, it might very well be a race to see which ends first. Once my family has managed to cut a deal with the Rabbit, she can trade with Hazel. Hazel will come to the funeral. You can swap person to person. It’ll take like two text messages and half a minute. I swear.”
+
+Alden stared out the windshield, thinking. It was stupid to feel like the suggestion was inappropriate. Especially if it was a necessity because of an alien time limit. But he still did feel that way.
+
+Hannah wouldn’t have cared. She liked practical, simple solutions.
+
+“Fine,” he said. “But what about witnesses?”
+
+“Hazel’s an authorized witness. She can vouch for both of you herself.”
+
+Alden stared at her. “That’s the sketchiest thing I’ve ever heard.”
+
+“I told you my family knew more Artonans than they did regular humans. Wordchains are a big deal on the Triplanets, so someone who reaches a certain proficiency level with them is automatically considered worthy for some unique privileges. Hazel’s…a genius.”
+
+The last words were said with something like grudging admiration.
+
+“Yeah.” Keiko sighed. “Anyway, I’ll take care of everything we just discussed and send you the details. I’ll get them to throw in some bonuses. Do you like wordchains? Want a couple of freebies?”
+
+Alden felt like that might be a trick question. “Does saying yes mean your grandmother will pay closer attention to me?”
+
+Keiko’s face said it all.
+
+“I’m fine with Rabbit. And as much privacy as you can manage. And the money I asked for in my letter.”
+
+“I understand. Go to the funeral. Hazel will show up. She’ll be discreet. Nice to meet you, by the way.”
+
+“You too. I think. Thanks for helping to sort it all out.”
+
+###
+
+Three minutes later, after arguing with the air for a while, Aimi pulled her car over beside a bookstore.
+
+“Okay,” she said, pointing at Alden. “If you run away, get lost, or get taken into custody by the police, the Gloss might not get you back for us since Keiko has interfered. So do not do any of those things. She’ll be in big trouble.”
+
+“Did she really interfere? I feel like she was actually helping your cause,” Alden retorted as he unbuckled his seatbelt.
+
+“Hard to tell. I’m not one of those people who can feel fluctuations in the chain’s spheres of influence and various balances. That’s mumbo-jumbo for prodigies and Artonans. I’m just saying if you get my sister in trouble I’ll give you trouble. Got me?”
+
+He wanted to tell her she was exhausting. But there was no reason to stir things up when he was so close to getting back to the day he’d had planned for himself. He wanted to be alone and think. And maybe take a minute to appreciate the fact that he was getting Rabbit squared away far more quickly than he’d thought would be possible.
+
+“I got you,” he said. “Thanks for the ride.”
+
+“Hey! You’re welcome!” she said. “Anytime. No hard feelings?”
+
+She smiled and held her hand out for him to shake. With a mental sigh, Alden reached for it.
+
+Only to freeze when his fingers were a couple of inches away from hers.
+
+She’s uneven.
+
+With a feeling of shock, Alden recognized the foreignness of the thought. It had come from that new gremlin part of his brain that had strong opinions about burgers.
+
+What? Hello? What does that even mean?
+
+Then Aimi leaned forward to complete the handshake on her own. Their fingers touched.
+
+She’s uneven! the gremlin screeched.
+
+In his hand, Aimi’s felt…odd. Uneven wasn’t a bad word for it. It was like it weighed too much. Or it was too far to the right or left of where Alden knew it should be.
+
+But though it was an uncomfortable sensation, it wasn’t like the hard limit he was met with when he tried to eat meat. Shaking hands with Aimi Velra wasn’t forbidden, it was just not right.
+
+“Are we going to shake forever?” Aimi asked, still pumping Alden’s arm up and down. “Because it’s getting weird.”
+
+Alden realized he’d been clinging to her despite the feeling of wrongness, trying to figure out what was going on.
+
+He jerked away. “Sorry,” he said, flustered. “Got distracted.”
+
+After he watched her drive away, he spun and marched right into the bookstore. Maybe it’s an Avowed thing? I haven’t shaken hands with one since the mysterious blood ritual.
+
+Channeling his non-existent inner extrovert, he walked up to the guy shelving books and stuck out his hand. “Hi, I’m new in town!”
+
+The handshake he received was awkward. But it was not uneven.
+
+Gorgon, thought Alden, staring down at his own fingers like they belonged to a stranger, what did you do to me?

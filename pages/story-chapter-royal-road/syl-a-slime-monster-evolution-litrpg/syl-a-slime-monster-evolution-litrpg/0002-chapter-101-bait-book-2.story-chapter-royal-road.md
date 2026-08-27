@@ -1,0 +1,117 @@
+---
+id: b72970ad-248a-53e3-923f-d85c50fe81ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101 : Bait [Book 2]"
+slug: 0002-chapter-101-bait-book-2
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 2
+ownLength: 2006
+unit: words
+ownProgress: 2006
+publishedAt: 2024-05-29
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1655151/chapter-101-bait-book-2"
+royalRoadId: "1655151"
+markedReadAt: "2026-06-29T19:41:51.115Z"
+---
+
+Book 1 Recap:
+
+Reborn as a simple blue slime, Syl sought to escape the confines of being farmed. Heading into the forest, Syl caused all sorts of mayhem and began defeating the monsters that ruled the forest. After evolving, Syl ran into a dying elf who bonded and commanded Syl to kill her. Feeling confused and violated, Syl fled the forest as quickly as possible.
+
+Syl then gets involved with a tribe of goblins bearing a grudge against humans, and Syl decides to join them in hopes of finding someone who would accept a monster. While with the goblins, the human adventurers attacked, leading to Syl eventually pretending to be a captured elf and securing safe passage into the human town.
+
+Syl ended up joining the Adventurer's Guild and picking up the Mage class to get access to the wonders of Magic. Shenanigans ensued, and Syl ended up defeating a dungeon, killing a noble out for blood, and then being transferred to the next city over.
+
+In Kaerlin, Syl was promoted and immediately sought out completing quests to earn income for slime cores and for rare monsters to eat. Syl killed a salamander, stopped a large orc raid, and took part in an emergency quest to stop a monster stampede.
+
+Now Syl has set sights on the nearby floating island, intending to obtain a yellow slime for new slime traits and lightning magic!
+
+I woke up the next morning feeling amazingly refreshed, which is hilarious, considering I was in a hole in the ground. Despite the minimal mental tax of holding a form, returning to slime for a good night's rest just couldn't be beat.
+
+'Maybe I should buy myself a big, fancy bathtub, the ultimate slime bed.' I pondered the idea, 'Although I'll need to work more on getting my [Core Storage] to the next level. I can't believe I've run out of space...'
+
+I peeked into my storage, almost entirely occupied by an ocean of slime. While debating what to do, I came to a realization.
+
+'Wait. Is this even my maximum compression anymore? [Slime Density] was integrated into [Morph Slime] and gained an extra level or two...'
+
+I started withdrawing portions of my slime and tried compressing it again. Some of it was already at the new maximum, clearly generated after the trait fusion, while a large amount was still at the old maximum. I had automated the process of dumping excess slime into storage so long ago that I had completely forgotten about needing to do any maintenance.
+
+'Alright, let's set my [Sub-Cores] to sift through all the slime and recompress it. Goodluck!' I mentally cheered at being able to delegate the work. This had the added benefit of working towards my next [Core Storage] and [Morph Slime] level, as they would need to withdraw it to compress it further.
+
+'It's too bad I can't interact with my internal inventory. That would be certainly handy, or maybe that's a feature at a higher level?'
+
+I continued walking along the path toward my mental quest marker. It was extremely early in the morning, so I had the road to myself. I occasionally observed the progress my [Sub-Cores] made with the task, and I wondered if perhaps I had given them a potentially endless task - how would they differentiate between the slime confirmed at maximum density and not?
+
+The answer became apparent as I watched them proceed with their ruthless efficiency: They had somehow segregated my slime into different portions within my internal storage. It was like an invisible wall between my slime and the one side rapidly filled after being withdrawn and recompressed.
+
+'Is that a feature I unlocked at some point and never knew about?' I questioned.
+
+I tried adding another dividing line between the slime and another territory being cleanly created in the inventory space.
+
+'Huh... Okay, new orders, everyone. After compressing everything, let's divide it into four portions: half will be maximum density slime, twenty percent will be [Blaze Slime] at maximum density and temperature, twenty will be [Cryo Slime] at maximum density and minimum temperature, and the remaining portion will be regular slime.'
+
+This would be quite the task for the [Sub-Cores], but I thought calling upon different types of slime at a moment's notice would be worthwhile and handy. [Poison Slime] and [Acid Slime] could be activated like a toggle, whereas the two temperature-based traits did have some delay in reaching their limit. I also set up an order to replenish the stocks, as I felt like I'd be using both as ammunition to deal with flying monsters.
+
+'Previously, I had to mentally be aware of where it was in my storage; this feels much more convenient.'
+
+While my [Sub-Cores] worked hard, I got to continue playing around with magic. I was making decent progress until I spotted something immensely large on the horizon; my spell fizzled out as my concentration broke, and I stared in awe at the massive floating chunk of landmass. It was still extremely far away, but to be able to see it from this distance, it had to be enormous.
+
+"They said it was a floating island, but that feels like an understatement..." I murmured, a bubbling excitement building up. I couldn't wait to explore it.
+
+It was late afternoon when I reached the quest area, where the floating island was now much closer and in range. Best of all, my [Sub-Cores] had finished their task and even improved the trait level.
+
+<Proficiency gained. [Core Storage LV 5] improved to [Core Storage LV 6].>
+
+"Now the question is... How do I find the griffins?" I said, sighing as I tried to examine the skyline. "I can't see them. They'd probably look like tiny specks of nothing to me."
+
+I decided to attempt Luke's bait strategy. When no onlookers were on the road, I formed a tendril disguised as a leash and had Alpha turn into a deer. When I was happy with the disguise, I sat on a nearby rock and waited. And waited. And waited...
+
+The number of stares I got from travelers was grating, the strange sight of an elf sitting on the side of the road decked out in high-quality armor and magically stacking rocks with a pet deer. At least Alpha seemed to be having a good time, clearly utilizing [Acting] and even pretending to graze. I tried to just focus on my [Arcane Hand] practice while passing the time.
+
+A few did question why I was sitting on the side of the road, and the simple explanation of griffin bait was enough to satisfy their curiosity. I wasted the rest of the entire day sitting there with nothing to show for it. I eventually decided to retire for the evening and blobbed out.
+
+The next morning, I stared up at the floating island, and its gradual drifting approach was much more apparent after an entire night of not examining it. I attempted the bait strategy again, except this time, I had Beta also pretend to be a deer, and rather than sitting around, I decided to walk toward the floating island.
+
+I was getting annoyed when early afternoon approached, and I still hadn't been attacked by the so-called griffins. I wondered if someone else had killed them. Would my quest get updated if that was the case? Could the guild remotely cancel something?
+
+"In the worst case, I could try to use the bug wings and hope it's enough. Maybe if I just create like ten of them?"
+
+I was busy thinking of contingency plans when it finally happened. I was contemplating if I could build a slime pillar towards the island when there was a sudden loud screech, snapping me back to reality. A large shape had swooped down and plucked Beta from the ground; the slime leash rapidly thinned out when it stretched to its maximum before snapping when I didn't think to expand it quickly enough.
+
+<Griffin LV 8.>
+
+<Connection to [Sub-Core Beta] lost.>
+
+"Beta!" I shouted in horror as I saw it falling from the sky like a lifeless blob and splattering on the ground in the distance.
+
+Unbeknownst to the griffin, what it thought was a meal had lost its form as soon as it lost connection to me. I hoped Beta survived the fall; otherwise, I'd have to wait until tomorrow to regenerate it. The griffin was climbing high up into the air, preparing for another divebomb.
+
+This time, I reinforced the tendril to Alpha and planned on being dragged up with them. Unlike before, I wasn't going to be caught by surprise as I waited for its inevitable attack.
+
+As it appeared again, with a high-pitched screech, I saw it grabbing Alpha. When the griffin started ascending, I retracted the tendril leash and pulled myself towards it. The griffin seemed to notice something was amiss and tried releasing its grip on Alpha. This monster was intelligent enough to attempt to use gravity as its weapon, but I commanded Alpha to grab on.
+
+In what I could only assume were panicked screeches as it realized its prey was a predator, Alpha inverted and burst out like a maw clamping shut over its clawed front legs. I had already swapped over to a different profile, deposited my armor, and discarded my disguise, all while the wind rushed past me. Now, as pure slime, I fired all my cores through the tendrils connected to Alpha and watched the slime mass rapidly follow after.
+
+'It's been a long time since I used the slime grapple. I'm glad it still works.' I thought happily.
+
+The griffin was not happy; it had stopped ascending and instead flapped in place while it tried to rip and tear with its razor-sharp beak. I had Alpha defend with [Acid Slime], and when its attempts to bite were countered by burning pain, it frantically stopped. It immediately did a nosedive and tried aerial maneuvers to shake me off. But with all my cores safe and sound close to its body, I had already begun the process of enveloping its entire body tightly with slime except for its wings.
+
+In what must have been a panicked last-ditch effort of barrel rolls, it lost control of its flight and violently crashed to the ground. Its body and my slime scraped across the surface, causing a trail of blood, slime, and feathers. I had wrapped my cores in a pocket of dense slime and set the elasticity to the maximum, hoping it would protect them. Somewhere, through the violent, uncontrolled tumbling across the surface, I received a notification.
+
+<Griffin LV 8 defeated. Experience gained.>
+
+'I mean... It kind of killed itself, not that I'm complaining about free experience.'
+
+I gathered my bearings and checked that all my [Sub-Cores] were accounted for. I had lost a lot of slime mass across the ground, but honestly, it felt like a drop in the bucket at this point. I looked at the mangled corpse of the griffin and sighed as [Dissection] berated me for ruining a large portion of its valuable parts. I was surprised that its feathers were considered valuable, but very few were intact after that terrible landing. I let [Dissection] salvage what it could and happily ate the rest.
+
+<Profile [Griffin] complete.>
+
+I was excited to review the new profile, but I had a more pressing concern. I needed to check where Beta had fallen. I shifted into a wolf to run faster, and thankfully, [Mapping] made it easy to find my previous location. After a brief search, I saw a blue puddle and a slightly scuffed and cracked apple-green core. I immediately grabbed the core with a tentacle and plunged it into my slimy depths.
+
+<Connection to [Sub-Core Beta] reclaimed.>
+
+'That's a relief... Sorry about that, Beta.'
+
+I could feel slime mass being used to repair the tiny fractures in the [Sub-Core], but I was just grateful it wasn't destroyed.
+
+'Now let's have a look at what that griffin had to offer.'

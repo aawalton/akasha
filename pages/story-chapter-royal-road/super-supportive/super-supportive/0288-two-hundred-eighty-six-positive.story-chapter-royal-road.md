@@ -1,0 +1,377 @@
+---
+id: a8f105a0-f707-5aee-b147-b7b66376a0ba
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY-SIX: Positive"
+slug: 0288-two-hundred-eighty-six-positive
+partOf: super-supportive
+position: 288
+ownLength: 4838
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3380315/two-hundred-eighty-six-positive"
+royalRoadId: "3380315"
+---
+
+286
+
+******
+
+“I’ve been using it as a tool to mark my page.”
+
+“A <<bookmark>>,” said Stuart, holding Alden’s living leaf up so that the sunlight coming through the streamview cottage’s front wall filtered through it.
+
+It was early Sunday on Anesidora and a weekday morning here. They’d agreed last night that if Stuart’s parents weren’t pounding down the door of the cottage to demand answers he should go to school and Alden should head back to Earth. But now they were both dawdling—Alden packing up too slowly and asking too many questions, Stuart eating his first meal in microscopic bites.
+
+“I think the tree might appreciate it more if you wore this against your skin or set it out in your student house. Let it accompany you. You can give it back to the forest before your next binding.”
+
+Alden considered one of his socks, which was being gnawed on by the ryeh-b’t in the corner, and decided he didn’t really want it back after she’d punched a bunch of holes in it.
+
+“Is that what I’m supposed to do with a leaf like this?” he asked. “A little like what you did with the stick?”
+
+“It’s one option…not an obligation. The tree gave it to you. Assigning emotions to the offering isn’t incorrect, but guessing exactly what the tree felt and trying to understand it in our own terms, isn’t likely to approach truth. This leaf is a wish to connect with you. Whether it was given to comfort you, honor you, or out of curiosity is harder to say.”
+
+“But if I’m nice to the leaf, the forest will hear about it?”
+
+“If you bring it back here. I don’t think a single leaf can convey something all the way from Earth.” He tilted his head. “But our planets are connected through the Contract, so maybe? I don’t know if anyone’s ever tried something quite like that.”
+
+He looked at the leaf harder.
+
+Alden zipped his suitcase. “As long as it’s positive.”
+
+“It’s very positive! If I received one, I would wear it. They’re not spontaneously given frequently even to knights of Rapport I or my family. I could ask for one, but that’s different.”
+
+“You think I can be a knight, and the trees do, too. That’s a lot more support than I did have.”
+
+Stuart set the leaf back on top of Alden’s spell book. It was on the table, surrounded by first meal dishes. “I want to tell you that you don’t have to prove yourself…”
+
+“But it would be untrue.” Alden went over to tug on the sock for Other Alden’s amusement. She sank her back claws into it and bit the hem of his jeans in retaliation.
+
+“I have to prove myself, too,” Stuart said. “More than others.”
+
+“You shouldn’t, and I shouldn’t,” Alden replied. “But we do.”
+
+“So it is.”
+
+“We’ll do it together.” Alden let go of the sock and rubbed the smooth warm scales on the side of the ryeh-b’t’s neck. “One step at a time. And shouldn’t we really do what we said we would and get you to LeafSong? I’d rather stay here and talk, but we’ve got at least a year’s worth of things to talk about now. We couldn’t cover it all in a few days even if we did refuse to leave the cottage.”
+
+When they’d returned from the old house last night, they’d continued discussing Bearer and making plans for what they’d do in the coming weeks. It had been wonderful. But Alden had come down enough from his unprecedented string of emotional highs to feel concerned about how much he’d knocked over in Stuart’s life by firing almost every truth missile in his arsenal at once.
+
+Yes, they were both excited and determined to move forward together. But only days ago, Stuart had had no idea that he’d be carrying secrets of this size, too. He hadn’t known that Alden’s news would put him even more out of synch with his family, or that he’d need to start thinking about having a partner for his knight career in a definite, immediate way.
+
+And it wasn’t like he hadn’t already been dealing with his own trouble.
+
+“With the Ro-den contract,” said Alden, “you really looked at what was going on with me and tried to understand what was wrong. And then you fixed the problem. My problem. Even though it wasn’t something easy. I…haven’t had many moments like that in my life. When someone else was paying attention and being present, when and how I needed.”
+
+He’d been trying to put that thought into words since he’d been freed from the enforced secrecy. He wasn’t sure he’d hit it exactly on the mark. There were some vulnerable untapped depths to this gratitude, as well as some weirdness he didn’t want to get into about growing up with either no attention or the wrong kind.
+
+“You did really good for me,” he said. “It’s all right if you focus on yourself for a while now. I know everything I’ve told you about me is new and…”
+
+“Intense?” Stuart suggested.
+
+“Oh, no! You called me the word.” Alden almost laughed. “I think of you as the intense one.”
+
+Stuart did laugh.
+
+“Because you are,” Alden insisted. “Ask Ro-den. Ask him in class today. In front of everyone.”
+
+“That would be amusing, but not wise.”
+
+“You have a funny-mean side.”
+
+“He told me he was considering what was best for you just as much as what was good for himself. And he assured me that you had a close understanding of each other and that he believed you wouldn’t want to have your contract broken.” Stuart paused. “Those were all lies.”
+
+“Of course they were.”
+
+“And he intended to run over me with one of the campus carts,” Stuart said with a nod. “Before he realized who I was.”
+
+“Huh?”
+
+“I should say he only meant to threaten me. Everyone else was getting out of his way. Why should they have? He can’t run over students.”
+
+“When was this?”
+
+“Moments after I decided he might be responsible for your strange behavior. Alden, I don’t want to focus on myself to the exclusion of your situation. What happens to you from now on will affect me. And the reverse.”
+
+“I know. I’m not trying to say let’s ignore all my complications. I think…I’m worried that the complexity of my complications is making them seem more urgent than you finalizing your own decisions. And they’re not. Me being a wizard, me planning to be a knight with you, me wanting to learn more about everything and needing your help to do it—those all matter. But they’re still going to be here causing trouble for a long time. Now that you know I’m The Bearer of All Burdens and can stop worrying about what I’m going to do for a skill, the most important thing for us is getting your feet planted on your final path. Right?”
+
+“Yes, you’re right.” Stuart said it firmly, but his fingers twitched against the table.
+
+“That’s what I mean by asking you to focus on yourself. It’s not that I don’t matter, it’s just your turn. I’m also trying to remind you it’s a good time for you to take whatever you need from me. You have to do all the hardest parts of this yourself, but if you find a way to burden me with some of it, do.” Alden held a hand to his chest. “I can bear it.”
+
+“Are you going to be one of those knights who does that frequently?”
+
+“Will it be a burden for you if I am?”
+
+“I’ll endure it.” Stuart looked up at him. “I know it’s my turn. In the way you mean.”
+
+Alden nodded. “I’ll be here as soon as you need me, for as long as you need me, even if Earth is on fire and your parents are trying to punish you by banning me from the Rapport.”
+
+They had both acknowledged the possibility of that happening.
+
+“I can get at least one more teleport favor, can’t I, Mother?” he added.
+
+[Of course, Alden. If Stu wants you here, here you’ll be.]
+
+Stuart inhaled deeply.
+
+“You saw her message, too, didn’t you?”
+
+“Yes.”
+
+“So we’ve got that much of the future taken care of, whether you go to first binding right now or next summer.” Alden stepped over to collect his book and his leaf.
+
+Stuart handed them to him. “Have you ever thought it would be better if I just became your votary?”
+
+The words seemed to sizzle in the air even though he’d spoken them quietly. Alden was shocked by the question. And, after a blink, Stuart was flustered by it himself.
+
+“I mean,” he said, glaring down at his own hands as he let go of the book, “some streams of thought must naturally lead you in that—”
+
+“I believe what you’ve said about yourself,” Alden said. “And I’ll believe what you say in the future.”
+
+He thought the question was probably no more than a hiccup, and just a little bit of proof that he was right about all of his missiles changing the landscape for Stuart in more ways than could be grasped in only a few days.
+
+Stuart seemed much more displeased with himself about it than he should have been. “Why did I ask that?” he said darkly.
+
+“It’s not like it was an insulting question.”
+
+“It is, though!”
+
+“To which of us?”
+
+Stuart unleashed a shrill scoffing sound that made Other Alden drop the sock and flap across the room to check on him. Alden saved a plate from being knocked off the table by nudging it with his shin.
+
+“See?” he said, while Stuart tried to protect his school clothes from a worried ryeh-b’t. “I’ve given you all of the stress and questions I’ve had all this time. And you’ve handled it much better than me, but you’re not perfect. You have to think about stuff.”
+
+“I am not offering to be your votary.”
+
+“I understand that.”
+
+“I would be good at it, but I will not do it for you or anyone else. It is not my path.”
+
+“I believe you.”
+
+“What if my parents had heard me say that? Or Asay? Or Noh?”
+
+Alden snorted. “I think, for at least a while, they’d be too confused about why the Avowed needed a votary to be excited that they’d finally forced you to do things their way.”
+
+“Maybe,” Stuart grumbled.
+
+“We’re all right,” said Alden. “I’ll see you in a few days if I’m not banned. Let’s get to work.”
+
+******
+
+******
+
+Alden’s school weeks now started on Monday mornings with “Accelerated Combat 1— A/B Fitness” at eight o’clock.
+
+It was a class he had been mildly disappointed to have on his schedule because it was basically two hours of regular PE once a week, and he’d thought he could get more out of his time by using the slot for a workout with Bobby. After seeing how it was actually going to go, he was more enthusiastic about it.
+
+On Tuesdays and Thursdays, the whole Accelerated Combat 1 class would be in the gym, but this Monday meet-up was only for the A and B-ranks. For their first class, they joined Instructor Ivanova at the track behind the MPE building. She explained that they’d have a different activity every week and hopefully a few guest instructors. She might set individual challenges for them based on their talents and whatever was going on in a particular session, but mostly this was going to be a fun, casual class where they learned from one another.
+
+They could wear their gym suits or regular workout clothes. They were allowed to bring enchanted gear to try out if they had any. She’d give advice when she could, but the only real rules were that they had to show up, participate, and not kill anybody.
+
+Their assignment for the first class was to play tennis with at least five different opponents. Ivanova had the track draw them lines to make “courts,” and they had its wall-style hurdles in place of nets. The basic rules of tennis popped up on their interfaces, but they were welcome to ignore them if their opponent agreed. They didn’t even have to use rackets if they didn’t want to.
+
+Alden saw it as the school putting together a menu of other Avowed for him to choose from.
+
+He let Max layer zones on both halves of the court so that he could practice taking advantage of the one that boosted speed and work on maneuvering around the other two. Then, Haoyu agreed to a more cooperative game where he punched the balls with Boxing Gloves and neither of them scored a point unless Alden managed to catch the ball on his racket with his skill instead of hitting it back. Since Haoyu had trouble sending the balls where he meant to, and Alden found halting a ball’s momentum with a racket instead of his hands a little brain melting, it was hard for both of them. They celebrated when they finally got it right.
+
+By the second hour, Njeri and Lexi had both developed impressive accuracy that sent Alden running or jumping toward the least convenient corner of the court every time. And the Object Shaper played true to his class by redirecting the ball toward his own racket or away from Alden’s with swift gestures.
+
+And, to make it a little more interesting, there were some new faces to look at. Everyone else was trying to play with the newcomers or size them up, so Alden didn’t bother asking any of them for a game. But he’d enjoy meeting them later.
+
+They ought to be decent enough at whatever they do, he thought as he sprinted for the field house at the end of class. Since they’ve had a whole term to practice.
+
+It felt odd not to head toward the gym locker rooms, but those should currently be crammed with S-ranks who’d just finished their special new S-rank-only class.
+
+The field house smelled like new paint. There were showers free. Nothing to complain about, in Alden’s opinion, but of course people were complaining.
+
+He heard them griping while he rushed to clean off and get into fresh clothes. They were so hung up on the fact that this was real MPE time for the S-ranks that they couldn’t appreciate how valuable the tennis games they’d just played had the potential to be.
+
+Mehdi was commiserating with a Strength Brute, and Reinhard was explaining some idea he had about the Meisters getting together and trying to convince the school that they should be allowed into the S-only class because they were better at duels than a lot of the non-Meister S’s.
+
+Alden did agree that the situation wasn’t fair, but these three were overlooking how much they’d sucked during this class. They’d been sending fuzzy yellow rockets into orbit. Lexi had had the same problem at the start, not quite getting how his Avowed strength translated to a tennis racket, but he’d taken the opportunity for what it was and adjusted until he looked like a Racket Meister. Which had to be the point for someone in his position.
+
+It must feel pretty boring and delicate to them, though. Not like firing arrows or dodging a throw from Big Snake that makes the ball explode.
+
+“Alden, what do you think?” Reinhard demanded when Alden stepped out. “This is stupid, right?”
+
+“Don’t ask him. This kind of thing is more at his level.”
+
+That little barb came from Winston, who’d been surprisingly focused on his performance instead of his drone all class. Alden couldn’t find any approval for that, or even much annoyance at the attempted insult.
+
+“I got a great workout,” he said, raising the shaker of peanut butter and protein powder he’d packed before leaving the dorm in salute. “I’m going to make the most of it. And I’m glad we don’t have to wear uniforms anymore.”
+
+He had on a comfy brown shirt, and he was letting his leaf ride on his arm, carefully held in place by his auriad. Both were hidden by his long sleeves. He was training to fight chaos. It was a new year. He would give these complainers the gift of his positivity whether they deserved it or not.
+
+“Me too!” said Mehdi. “I spent my stipend on new outfits. I’m going for something more East F this year.”
+
+Alden hadn’t realized there was a specific look associated with eastern F-city. He supposed he’d find out what it was when Mehdi made it to their next class. “Sounds good. See you in Coursing.”
+
+“See you there,” Mehdi said.
+
+“You’re in Coursing?” Reinhard asked.
+
+“He’s in Coursing?” Winston demanded.
+
+“Whose team is he on?!” they both asked at the same time, with a note bordering on outrage in their voices.
+
+Whoops. So much for spreading a better attitude, Alden thought, letting the closing door be his only answer. They sound pissed.
+
+He added water to his shaker at a fountain. One of the new faces passed behind him while he was there.
+
+“Alden?”
+
+“Yeah?” he looked around. “You know my name?”
+
+The girl smiled wide. “Of course.”
+
+He didn’t like that ‘Of course’ was such a fair answer to that question, but she seemed nice enough. Her name was Opal, which she delivered with an eye roll despite it being a fine name and her wearing opalish looking studs in her ears. She had long auburn hair and a figure he was going to get tired of a few people trying to make into a conversation topic after every class.
+
+Most excitingly, she was another B-rank. And second most excitingly, she’d brought rice balls to share with everyone.
+
+“They’re just rice and seasoning. I can’t really cook much,” she said, “But I had a morning MPE last quarter, and we were always starving afterward. I thought this class would be the same.”
+
+She pointed a wand that didn’t look much different from the one Stuart used to levitate things at a rice ball and sent it toward Alden’s waiting hand.
+
+“I’d make it spin for you,” she said, making a couple of loose casting motions with her left hand in the direction of the ball. “But I got rice all over that girl Olive when I was trying to show off a minute ago, and she didn’t seem okay about it.”
+
+B-rank Adjuster. With a wand.
+
+Alden wasn’t going to gossip with someone he’d just met about another classmate, but knowing Olive…she was freaking out about the possibility of being worse than another B-rank. Max and Alden regularly beat her in duels. She was sensitive about it. Here came a girl Adjuster with an “O” name who might be able to do the same, and that person was throwing food at her?
+
+She probably won’t care about the “O.”  That’s just me being weird.
+
+“Thanks for breakfast,” he said. “So, do you make stuff spin with a spell impression? And what you do with the wand is also a spell impression?
+
+Always good to see more spells in action.
+
+“Yes. My skill is boring. It just lets me sense the location of anything I have an active spell on. That makes it possible for me to send things behind me without losing track of them and stuff like that.”
+
+“Neat.” He was thinking he’d have to treat her somewhat like a Shaper when they fought. Anything he wasn’t preserving might get yanked out of his hands or thrown at him.
+
+“Can you lift people?”
+
+“I’m size limited,” she said. “People are too big for now.”
+
+He should be able to hit her with the heaviest of the heavy sandbags then.
+
+“You look like you’re thinking of how to duel me.” Opal was squatting beside her big container of rice balls, trying to get the lid to snap back on.
+
+“No. Well, only a normal amount. I was having appropriately violent thoughts for a student here.”
+
+“Don’t worry.” The lid of the container finally sealed with a pop. “I’m not somebody to be scared of. I’m in this class because I was having trouble matching the pace last quarter. I wasn’t terrible, but you know….” She shrugged. “B stuff.”
+
+B stuff.
+
+“If you want to study together sometime or get in some practice, I’ll be around,” she added.
+
+Alden doubted he’d take her up on that, but he thought about her while he downed his shake on the way to the MPE building.
+
+Opal and the other new faces here today had already taken a Combat 1 class previously. Right now on campus, there were two Combat 1’s. Brand new students were placed in the regular one. Alden and most of his classmates from last quarter, who’d had the half-term introductory MPE course, were in this accelerated class.
+
+There was a regular and an accelerated version of each of the basic six “Combats” that made up the core gym classes for hero program students. Passing two accelerated courses would allow someone to skip a number and go to the next basic course. So if Alden passed this term’s Accelerated 1 and next term’s Accelerated 2, he could jump straight to Regular Combat 4. He’d still have to have the same number of MPE gym class credits to graduate, but if he did that, he could replace the combat class he’d skipped with an extra elective, like Rescue or Coursing.
+
+This created some more flexibility and was a way for students to move forward a little faster or slower depending on their situation.
+
+Not that everyone viewed it as an opportunity when the faculty recommended they step down to an easier level. Søren wasn’t with them this morning because he was taking Regular Combat 1 instead, hoping to get his Shaping under control at a slower pace and then maybe bounce up to rejoin them in Accelerated Combat 2 next term. He was the only one who’d agreed to do that, even though there were a couple of others who must have been given the same suggestion by their advisors.
+
+I wonder if I’ll still be here for Combat 4, 5, and 6. Or what.
+
+Last term, that thought would have been tangled up with choosing season panic. Now it was just a thought.
+
+He’d do his best, enjoy school as much as he could, and get ready for the day when Stuart was ready to go be knightly together.
+
+It’s good.
+
+Almost everything is really good.
+
+When he was on Anesidora, he wanted messages from Chicago a little more than when he was busy in Rapport I. Jeremy was texting like usual. Boe though…
+
+He doesn’t exactly seem angry anymore.
+
+Boe had sent a picture of himself holding up the toy caboose Alden had bought him and rolling his eyes. He’d sent another one that said he’d read the letter Alden had included with it and, “It was well written. I understand.” Whenever Alden messaged him, he replied with something that sounded close to right.
+
+Close to right. But not quite.
+
+I’m pretty sure we’ve officially hurt each other’s feelings at this point.
+
+It had happened before and been fine before. Alden was trying not to worry that it wouldn’t be this time.
+
+It’s harder when we’re this far apart.
+
+He didn’t know what to do other than keep being Boe’s friend while he waited for the messages to feel right again.
+
+“Too slow!” Mehdi shouted, sailing past him and running ahead down the hall and into the classroom where their Coursing class would be meeting four days a week. On Fridays, at the indecent hour of five AM, they’d be meeting in the gym instead to run obstacle courses with their teams.
+
+“Were you racing him?” asked Ignacio, poking his head out of the classroom door as Alden reached it.
+
+“Mehdi? Only in his imagination.” Mehdi was wearing baggy black pants with light-up stripes on the side now. Maybe that was East F style? “I heard that Kon had conned you into joining our bonkers team, Shrike. What were you thinking?”
+
+A blue elastic hairband hit Alden’s ear. “Hey!”
+
+“Say nothing negative about our team, or I’ll kick you out and you will no longer be Konstantly Awesome with us,” Kon said. “Sit. Sit your Rabbit butt down. This is our team seating area.”
+
+He started slapping the tops of desks in the back right corner of the room. Seven of them. To get into this class, they had to be on a team. Runs would be five people or fewer, but they were supposed to have alternates.
+
+Kon had put this team together with remarkable speed considering it had all been accomplished last week while people were making final adjustments to class schedules. But the more remarkable thing was that he’d gotten this team approved when its composition was sort of rough.
+
+“I’m thrilled to be here,” Alden said sincerely. “And I’m looking forward to practicing with all of you guys. But you have to admit our team looks…not like the others. We’re a more creative grouping of talents.”
+
+“Alden, would you give me back my hairband?” Everly called from a few seats over. “He took it from my desk.”
+
+“Don’t help her, Alden. She could have been one of us, but she chose the worse option. Love means nothing to her.”
+
+“I want to be <<more social>> this term,” Ignacio said. “Kon says we will have fun.”
+
+“Yeah, we will,” said Alden. “We don’t have to win to learn a— ”
+
+“Why are you so negative today?” Kon asked.
+
+Alden blinked. “I’m not. We’re going to learn a lot and come up with some interesting strategies.”
+
+“We’ll win!” said Kon. “Say we’ll win. Try it.”
+
+Their teammates were taking the desks he’d slapped. Alden, Kon, Haoyu, Lexi, Mehdi, Jeffy, and Ignacio.
+
+The other teams in the class were made up of hero program students who’d been at CNH longer, with the exception of the girls occupying the cluster of desks to their left. And Vandy had put that team together. It was her, Everly, Tuyet, Maricel, Jupiter, Rebecca, and Heloísa.
+
+If Alden looked at it one way, it was a group of girls who all liked hanging out together. But if he looked at it and compared it to their own team—
+
+“We’re going to die so much in this class,” said Haoyu, slipping into the seat beside Alden. “Except maybe if there’s a water obstacle. Hi, Vandy!”
+
+“Nobody wore their uniforms,” Vandy said, looking at them all with disappointment. Her own uniform was neat as a pin.
+
+“I look forward to dying with you whenever there isn’t water, Kon,” said Alden. “And possibly when there is.”
+
+“At least the weakest member of our weakest team has a sense of humor.”
+
+The words made Alden stiffen. They’d been said offhandedly, and it wasn’t some idiot like Winston saying them. It was the adult who’d just entered the room. He was a tall man dressed mostly in black, including the black socks he wore with no accompanying shoes. He had a disinterested look as he stood there blowing on a cup of coffee.
+
+“I’m Instructor Ash. Sit down, everyone who’s not sitting down. I don’t want to wade through a flock of you to get to the front.”
+
+All the students went quiet. The only sounds were rear ends landing in seats.
+
+“Nice set of rings,” Instructor Ash said to Alden as he passed on his way to the front.
+
+Alden wasn’t sure if that comment was meant to be an insult. The instructor said it in the exact same whatever tone he’d used to call Alden weak. And though the words had gotten the entire class to stare at Alden, Instructor Ash just went to the smart board and started writing on it. With a hand covered in more rings than either of Alden’s hands.
+
+Are they real?
+
+Alden reached out with his authority to check. He was trying to do more of this type of thing even though it didn’t feel natural. Yesterday, he’d practiced with the kit Stuart had put together for him, trying to feel the patience and life of a wild nyip pod.
+
+That was too hard still. This was much easier by comparison.
+
+Yep. Most of those are enchanted. They’ve got something more to them than metal and wood.
+
+I can tell just by trying.
+
+“Weakest for now.”
+
+The words came out in a whisper. Alden hadn’t meant to let them out at all. He was just feeling the truth of it in a new way. Only Haoyu heard him well enough, or cared enough, to acknowledge him.
+
+With a thumbs up.
+
+Alden grinned at him and returned the gesture. Then he pulled his tablet out of his bag to start taking notes.
+
+******

@@ -1,0 +1,47 @@
+---
+id: 654abb83-13ba-5685-abd9-c884a3527db6
+page-type-slug: story-chapter-royal-road
+title: "Big Announcement!"
+slug: 0003-big-announcement
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 3
+ownLength: 500
+unit: words
+ownProgress: 500
+publishedAt: 2024-10-05
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1836079/big-announcement"
+royalRoadId: "1836079"
+markedReadAt: "2026-06-29T19:41:53.045Z"
+---
+
+Hi all!
+
+Lunadea here! I've got a bunch of announcements.
+
+Our beloved Syl has wandered all over Royal Road and will soon be wandering over to Amazon to explore what's going on there! Unfortunately, that does mean the story is going to get stubbed, as KU pays so much, and I enjoy things like paying my rent and being able to write more Syl.The story will get stubbed from RR on November 6th. It'll be live on Amazon on November 8th!
+
+I want to express my appreciation to each and every one of you for being a part of this incredible journey. When I first started writing about Syl, a neurotic little slime (and Gramps!), I never imagined the overwhelming support it would receive.Your encouragement and enthusiasm have been the driving force behind my continued writing, and I can't thank you enough. I'm truly excited to see what the future holds for us and Syl!
+
+Only the first book is being stubbed, and RR postings will continue as normal for all the slimy goodness you've come to expect.
+
+We've also got a shiny new cover! Thank you, Tsuu and Mango Media, for making it happen! I adore Tsuu's work, so when I was given the option to pick her as my cover artist, I literally jumped at the opportunity!
+
+Patreon: I'm not trying to slip in a Patreon change in the middle to hide it, but there are going to be some changes to the Patreon.
+
+The current $5 Mana Slime tier is going to get locked and grandfathered on November 1st. Everyone still in the tier when it closes - all of my early followers who made this all possible - will continue to get the same level of content as the new $10 Slime Core tier. A permanent reward for being an early subscriber and supporter of Syl. Fair warning, though. If you lose the tier, there's no way to get it back.
+
+So, on November 1st, there will be a $5 Slime tier (10 advanced chapters) and a $10 Slime Core tier (25 advanced chapters).
+
+There are also going to be a few new vanity tiers that offer nothing besides a fancy Discord role and maybe a personalized thank-you note from me. Again, there is nothing extra besides vanity and being able to support me. There's a $15 Sub Core, a $25 Trixie, and a $50 Gramps tier.
+
+For my existing Mana Core followers, I haven't forgotten about you. The tier will also be locked on November 1st, and you'll be treated like the other vanity tiers. Thank you for giving more support when you didn't need to.
+
+Rest assured, I'll share the preorder links with you as soon as they're available. The audiobook is currently undergoing its final check, and I'll update you on its status as soon as I have more information. Your patience and understanding are greatly appreciated.
+
+Thank you all for understanding and supporting me on the journey!
+
+Luna.
+
+Amazon Page
+
+Audible Page

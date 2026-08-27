@@ -1,0 +1,123 @@
+---
+id: 67fd46f0-b32d-5d49-976a-9fba15184622
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Boundaries!"
+slug: 0029-chapter-29-boundaries
+partOf: succulent-girl-evolution
+position: 29
+ownLength: 2048
+unit: words
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2640623/chapter-29-boundaries"
+royalRoadId: "2640623"
+---
+
+Despite Bubbles, Fern, Cuddles, and Link’s combined best efforts, they weren’t able to extricate themselves from the wisteria woods. After a while, it seemed Throttler wasn’t even actually trying to capture or hurt them; it seemed more like she was toying with them, blocking off exit points, redirecting them so that they were forced deeper into the forest.
+
+Finally, Link slowed down, breathing heavily. “We may be in trouble.”
+
+“What’s happening?” Bubbles asked anxiously, peeking up. She saw what Link meant: they were now very deep into the woods, and the vines here looked extremely old and tight, as if new vines had grown on top of their woody predecessors and browned and hardened, becoming a climbing structure for the next generation of vines. There were barely any gaps between what Bubbles presumed used to be independent trees, leaving them in what was effectively a corner.
+
+Her attention caught by the sound of rustling, Bubbles looked up to see new, fresh green vines crawl over the makeshift walls.
+
+“Are you done running?” Throttler’s voice echoed through the woods, though she didn’t show herself this time. “I’m starting to get bored.”
+
+“You know, if you let us leave, we’d be more than happy to come back and play with you later,” Bubbles called back.
+
+“Or you’ll just come back and try to rip out my growth again!” Throttler shot back. An eerie red glow emanated from between the vines as her flowers approached. “No, I don’t think so.”
+
+Her flowers finally arrived, now a flustered pink shade than an angry red. “And now that I finally have you where I want you, I don’t have to hold back anymore.”
+
+As Throttler spoke, several tendrils whipped towards Link and Bubbles. Despite Link’s quick reflexes, they were well and truly trapped, and had no space to maneuver. Cuddles did its best to fend off the vines, covering Bubbles completely in wicked spikes, but the vines still snatched her up in a vicious grip, crushing Cuddle’s defenses like a stone slab falling on twigs.
+
+At the same time, several thick, green tendrils stabbed into the ground several paces in front of where Link and Bubbles were, prying apart the old, thick stems that sprouted from the original roots, exposing the soft, loamy soil.
+
+Watching Throttler rip out old growth with such violence, slowly clearing out what was presumably a planting ground, filled Bubbles with inexplicable dread. She saw Link beside her, tightly wrapped again in a cocoon of vines. His fangs were bared, but she recognized the fear that flattened his ears to his skull.
+
+“You wanted a plot of land to yourself, right? Well, here you have it.” Throttler lowered her flower cluster so that she was in front of Bubbles. “You can have your plot, and then my roots will grow back in, and then we can become one, just like you with your two other plant ‘friends’... we can live and grow forever, and what’s mine will become yours.”
+
+“I don’t like this idea,” Bubbles protested weakly. “I like being able to walk around…”
+
+“Maybe your ability to walk will give me the ability to walk, too!” The prospect of letting this vine monstrosity have the ability to freely walk around, coupled with Throttler’s cheerful demeanor, made Bubbles tremble at what might be unleashed upon the world.
+
+Will it work that way? Bubbles asked Rock desperately.
+
+[I do not know, but I also do not wish to find out,] he said grimly. [I fear for the moment she discovers a mana mineral is in her possession…]
+
+“I was thinking, since your wolf friend is so strong, his sap would provide really good nutrients for us. And since your other friend eats, we can use his high-quality wolf meat to grow you!” Throttler’s elation was downright sinister at this point. “He shouldn’t mind, right? As your friend, he won’t mind ‘sacrificing’ himself for you to live well.”
+
+“I would mind!” Bubbles screamed, struggling in her vines. “Friends don’t eat each other!”
+
+“I guess this is the true test then, isn’t it? By your logic, if his sap were to flood your roots, that means you won’t partake, and your other friend won’t be able to break down his flesh even if we put him in there,” Throttler said mulishly.
+
+“That’s not the point! He’ll die, and I don’t want him to die!”
+
+Throttler sighed, annoyed. “I’m really questioning if you’d be a good friend. Everything I offer you, you complain about.”
+
+Something in Bubbles snapped. She had been so certain that Throttler was misunderstood, her worldview tainted and warped because of all the struggles she had been through trying to survive in such a competitive world… Bubbles had thought she was a pitiful creature who deserved empathy, because she didn’t have her own loving Master to guide her. But trying to convince her to self-reflect, see that she had already done enough, and that she was in a good position to make room for others—to have all her efforts thrown back in her face as Throttler deliberately, willfully misunderstood and twisted her well-intentioned words against her—all so that Throttler didn’t have to take on the burden of true growth, infuriated Bubbles beyond measure.
+
+“MAYBE WE AREN’T MEANT TO BE FRIENDS, THEN!” Bubbles exploded.
+
+Everything froze in the woods, even Link. Throttler’s flowers cooled, returning to its original purple color. But despite calming down, Throttler didn’t seem to be any less angry.
+
+“Then I guess there’s no point in negotiating anymore,” she said softly. A vine snaked its way around Link’s snout, wrapping him tightly so he couldn’t snap. “We’ll see what happens. Either I grow over you, or… you grow over me.”
+
+Bubbles was stuffed unceremoniously into the loose earth, the vines holding her down so that she couldn’t escape no matter how hard she struggled. She saw another vine wrap around Link’s neck, tightening its grip.
+
+NO!!
+
+Link’s eyes bulged as he thrashed his head against the tightening noose around his neck, making one last bid for freedom. Bubbles renewed her struggle, doing everything in her power to distract Throttler from living up to her name—
+
+A harsh spray of wetness splashed across Bubbles’s leaves, and then she felt the pressure of the vines holding her down lighten, before everything collapsed on top of her, burying her.
+
+“Link!” Bubbles wailed, though her despair went nowhere, echoing back on her. She pushed aside the vines that were heavy on top of her, but was unsuccessful in crawling her way out of the tangles.
+
+[—CALM!] Rock’s voice thundered through her, making Bubbles cease her futile struggles. She belatedly realized she had been ignoring Rock’s guidance through much of the standoff with Throttler as he attempted to keep her from losing her mind. [Help is on the way!]
+
+But Link, Bubbles protested, trembling beneath the dead weight on top of her. Now that she wasn’t tunnel-visioned on trying to dig her way out, she could hear—and feel—nonstop crashing above her.
+
+[Do not worry about the wolf, worry about yourself right now.]
+
+Then, there was silence. Rock refused to let her begin trying to dig herself out ([What if you accidentally dislodge a support, and you thus become completely crushed?]), so Bubbles remained hunkered down underneath the plants.
+
+After who knew how long, she heard the tell-tale signs of an excavation above her. “Help! Over here!”
+
+A pause, and then she heard sounds of shifting, as if someone was digging, and steadily the weight on her decreased. Finally, one of her leaves poked out, gratefully gulping in fresh air. She hadn’t realized how stale the air pocket she had been in was getting.
+
+“Link! You’re okay!”
+
+“As are you,” Link growled appreciatively, repositioning himself as he resumed digging through the wreckage. Finally, enough rubble was cleared that Bubbles could climb out of the hole Throttler had been cramming her into.
+
+“What happened? Where’s Throttler?”
+
+Rainbow feathers flashed through the air as a bird arrived, a small net of pills hanging from her beak. “Greetings! I have brought refreshments!”
+
+“Miss Magpie!” Bubbles cried gladly as several more magpies arrived, all bearing Miss Fish’s nutrition pills. “How did you get here without getting attacked?”
+
+“Our cockfighters distracted the seedshooters,” Miss Magpie said matter-of-factly as she began feeding capsules into Fern’s maw. The other magpies untied their nets and rolled the pills into a pile for Link to munch on. “That allowed the hens through.”
+
+“But is it safe to remain here?” Bubbles asked worriedly. “Throttler—the wisteria—was about to kill Link! And make me drink his sap! And make Fern eat him!”
+
+“There there,” Miss Magpie said comfortingly, accidentally making Fern gag as she packed her well to its maximum capacity. “We will depart soon, as soon as you two are recovered enough to leave.”
+
+“I am ready to depart,” Link growled. He shook himself, shedding all the leaves and plant paraphernalia from his thick coat. “I hold no fond memories for this place.”
+
+Miss Magpie hopped between Bubbles’s leaves, so that she had acceptable coverage from any potential attacks. The other magpie hens hopped over as well, glancing at Bubbles inquisitively. She allowed them on, glad that Rock’s improvements of her leaves could protect others.
+
+“Head that way,” Miss Magpie directed, stretching a wing out to gesture towards a wide, demolished path with flattened trees and shrubbery that uncomfortably reminded Bubbles of the wide road the humans had made at the front of her garden. “That is the direction of the Guardian’s pond.”
+
+Not needing further encouragement, Link and Bubbles began climbing their way through the wreckage as the magpies kept cautious eyes out for any approaching vines or attacks. As they traveled, Miss Magpie informed them of what occurred while she was gone.
+
+Bubbles’s garden was still safe for the moment. The humans, fortunately, were in such a state of disarray over her escape, and due to their chaotic reporting structure, were still trying to figure out what their priorities and authorizations were. One voice demanded they continue lightly bulldozing the grounds, which could theoretically flush out any more creatures that were like Bubbles; and if none came out, then it didn’t matter if the land was razed, because that meant there wasn’t a new, exotic species they had to preserve. Another voice argued they couldn’t act so hastily, because there was a strong possibility the creature would return home, and that was the best way to trap it; if the home was razed, then there was no way for them to lure the creature back.
+
+Several other opinions made themselves known, but the magpies concluded they were too perplexing to lead to any viable actions on the humans’ end.
+
+Relieved that her home was still in the same condition, Bubbles braced herself for the magpie to question her commitment again, but Miss Magpie said nothing; she merely began telling them about how the magpie congregation had approved sending a small squad with her to help Miss Fish in her fight against the invasive vines. They brought along cockfighters, but also dispatched messengers to make contact with other mammalian tribes they had done business with, offering them the opportunity to help fight for the woods: if they successfully reclaimed the forest, they could have a head start on preparing their respective dens and nests.
+
+The offer, Miss Magpie assured them, was very compelling.
+
+“But how did you break through Throttler’s defenses to come rescue us?” Bubbles asked, bewildered. As they had been traveling, she had been examining the damage to the forest and vines. It was all very astounding: trees that looked like they could rival the elders’ ages in her garden were torn down; claws that ripped through thick vines, deep enough to leave gashes in trunks far larger than Link’s fangs or claws despite the layers of protection they already had, marked the path they were following; pools of water were collecting everywhere. There was no way the magpies could have organized a rescue operation like this.
+
+Miss Magpie and her hens chuckled, but none of them answered Bubbles’s question.
+
+“We aren’t the infiltration squad, we are the relief squad,” Miss Magpie said, preening one of Bubbles’s leaves. “Our job is quite easy. But, well… the story is not ours to tell.”

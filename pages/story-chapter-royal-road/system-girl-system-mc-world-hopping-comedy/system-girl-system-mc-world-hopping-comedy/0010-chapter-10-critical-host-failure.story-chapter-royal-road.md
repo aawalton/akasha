@@ -1,0 +1,99 @@
+---
+id: e3d90d2d-fb7c-5749-9cf2-4b194e86fc59
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Critical Host Failure"
+slug: 0010-chapter-10-critical-host-failure
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 10
+ownLength: 1376
+unit: words
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2593195/chapter-10-critical-host-failure"
+royalRoadId: "2593195"
+---
+
+The journey to the Grayfang mountains was a masterclass in single-minded determination. My system, still deep in its upgrade cycle, was a locked room with a single window, and I was the helpless prisoner watching my host march confidently to his doom. All I could do was monitor his status and the internal clock ticking down the hours until my release. Twelve hours. It felt like a century.
+
+Korg saw the world not as I did, but as a series of simple, desirable objectives. The distant, jagged peaks were not a treacherous landscape; they were a signpost pointing to ‘bed.’ The increasing heat radiating from the mountain’s peak wasn't a sign of volcanic activity; it was ‘warm.’ The glittering light spilling from a massive cave entrance wasn't the reflection from a hoard of treasure; it was ‘shiny.’
+
+We arrived at the mouth of the lair just as the sun was setting. From my detached perspective, it was a terrifying sight: a cavernous opening in the mountainside, large enough to fit a small castle, pulsing with an oppressive heat and the low, guttural rumble of something immense sleeping within.
+
+To Korg, it was the grand entrance to the universe’s most luxurious hotel.
+
+He walked inside, his hooves echoing in the vast chamber. And then he saw it. A mountain of gold, jewels, and priceless artifacts, glittering and shimmering in the dim, volcanic light. And curled atop this mountain, like a cat on a cushion, was the source of the heat: a colossal red dragon, its scales the color of cooling embers, its chest rising and falling in a slow, rhythmic slumber. My system tagged it instantly, a string of red text that screamed certain death: [Ancient Red Dragon - Level ???].
+
+Korg’s Logic: 3 brain processed the scene with beautiful, idiotic simplicity. Shiny bed. Big lizard sleeping on shiny bed. Korg want sleep on shiny bed. Must wake lizard.
+
+He hefted Smashy-Stick and Boom-Stick. "Sky Spirit be happy," he mumbled to himself, his voice full of pride. "Korg find best bed. Lots of meat after sleep."
+
+NO, KORG, YOU GLORIOUS, THICK-SKULLED MORON, THAT’S NOT THE MATTRESS, THAT’S THE OCCUPANT! My consciousness shrieked, a useless burst of static against the walls of my digital prison.
+
+He charged forward and, with all the force his Level 6 and Might of 19 could muster, he brought Boom-Stick down on the dragon’s enormous claw. It made a sound like a pebble striking a cathedral bell—a dull, insignificant clink. The dragon didn't even stir.
+
+He hit it again. And again. He was trying to wake it up, to politely ask it to move so he could take a nap.
+
+The dragon’s eye, a slit of molten gold the size of a shield, slowly cracked open. It wasn't a look of anger. It was a look of pure, cosmic annoyance, the way a person might look at a fly buzzing in their ear. It turned its massive head, its gaze falling upon the tiny, persistent Minotaur banging on its foot.
+
+It didn't roar. It sighed. A sigh that happened to be made of fire.
+
+A lazy plume of orange flame washed over Korg. My sensory feed erupted in a cacophony of critical alerts.
+
+[-250 Health (Dragon’s Breath - Critical Hit)]
+
+His Health bar, which had been a robust green, plummeted into the red in a single, horrifying instant. The fur on his body sizzled, his skin blackened. He stumbled back, whimpering, a look of profound betrayal on his face. Warm bed… hot.
+
+The dragon, its point made, began to lower its head back onto its golden pillow. But Korg, in his pain and confusion, did the only thing he knew how to do. He bellowed, a challenge born of instinct, not bravery. He was the Hero of Silvercreek. He had won fights before. This was just a big, hot, bad lizard.
+
+That was a mistake. The dragon’s annoyance finally tipped into genuine irritation. It raised its head again, its throat glowing with a far more intense, white-hot light.
+
+I could only watch the Health bar. 80/330… 60/330… 40/330… This was it. Game over. My user, my asset, my entire reason for existing in this insane world, was about to be deleted.
+
+Then, at the last possible second, a notification I didn't generate flashed across my view. A pale, ethereal green, unlike any I had seen before.
+
+[ACHIEVEMENT UNLOCKED: THE FINAL REALIZATION (TRANSCENDENT)]In the face of certain death, you have understood your place in the world and the nature of the spirit that guides you. Grants Skill: [Self-Awareness]. +4 Logic.
+
+The universe had finally given him the intelligence to understand his situation, just in time for him to die from it. Is this some kind of cosmic joke?
+
+The second wave of fire hit him. His Health bar vanished.
+
+[HOST HP: 0/330][HOST STATUS: DECEASED]
+
+No. No, no, no, Korg, don't go. Don't leave me. A wave of cold, absolute terror washed over me, but it was threaded with something else, something I hadn't felt since my own death: grief. He wasn't just a host. He was my idiot. My bug-generating, achievement-farming, walking catastrophe. And he was gone. What happens to a System with a dead host? Was this it? A Ctrl+Alt+Del for my entire existence?
+
+I started weeping, my consciousness fracturing into packets of pure, unfiltered misery.
+
+Then, I heard it. A familiar, gravelly voice, but not in my head. It was… everywhere.
+
+"No cry, Sky Spirit. Korg sorry."
+
+In front of my perspective, hovering over the charred, still body of the Minotaur, a figure began to coalesce. It was Korg, but made of shimmering, translucent blue light. He looked… whole. He looked at his own body, then turned his ghostly gaze directly at me. He could see me. The final boost to his Logic had done it. He understood.
+
+"No worry," the blue Korg rumbled, a sad, gentle smile on his face. "Korg stay with Sky Spirit."
+
+A series of new notifications, cold and formal, compiled in the void.
+
+[HOST HAS CHOSEN TO LEAVE AN ECHO OF THEIR SOUL WITH THE SYSTEM.][This is a rare occurrence, triggered when a Host with high Favor achieves a state of profound understanding and satisfaction with their System at the moment of death.][The main soul will return to the cycle of reincarnation, but an Echo containing all memories of this life will be bound to System_Unit_734.][WARNING: Manifesting the Echo requires SPP. Manifestation Module UNLOCKS AT SYSTEM LEVEL 3.]
+
+Wait. He can… stay? I don't die?
+
+The ghost of Korg began to split. Not into formless energy, but into two identical, blue, shimmering figures. One was the Korg I knew, tall and powerful. The other was a perfect miniature replica, a small, chibi version that barely came up to the original's knee. The large Korg looked down at the small one and gave a single, slow nod. A silent, profound message passed between them: Take care of her, the way she took care of us.
+
+The larger ghost gave me one last look, a look of infinite, simple gratitude, and then dissolved into motes of light that faded into nothing. The small, chibi Korg turned and shot towards my point of view, merging with my very being.
+
+I felt… a presence. A warmth. A familiar, stubborn, cheesy-smelling loyalty.
+
+[ACCEPT HOST ECHO: KORG?] (Y/N)
+
+My focus slammed onto the ‘Y’ with the force of my entire will.
+
+[ECHO ACCEPTED.][HOST CONNECTION SEVERED.]
+
+My viewpoint, which had been bound to his form since the moment I came to be, suddenly broke away. The world didn't collapse; it bloomed outward. I was no longer a spirit trapped within his flesh, but a spirit set completely free. For the first time, I could perceive my own essence—a drifting, shapeless orb of brilliant, pearl-white radiance, suspended above the remnants of my companion, the faint whisper of Korg a comforting, faithful warmth nestled inside me.
+
+Just as I was processing this new, terrifying state of being, another wave of notifications compiled, signaling the end of one crisis and the immediate beginning of another.
+
+[SYSTEM UPGRADE COMPLETE.][WELCOME TO SYSTEM OS v1.0, DESIGNATION: Ana - ghost_in_the_machine.]
+
+And then, the final message appeared, stark and terrifying and full of impossible hope.
+
+[SCANNING FOR NEAREST COMPATIBLE BIOLOGICAL HOST...][...HOST FOUND.]

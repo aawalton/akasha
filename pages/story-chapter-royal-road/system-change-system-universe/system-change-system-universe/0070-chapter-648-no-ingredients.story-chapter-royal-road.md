@@ -1,0 +1,127 @@
+---
+id: 856aa7f9-058a-5e8e-a2f3-85de8f6e32c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 648: No Ingredients!"
+slug: 0070-chapter-648-no-ingredients
+partOf: system-change-system-universe
+position: 70
+ownLength: 2063
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3388411/chapter-648-no-ingredients"
+royalRoadId: "3388411"
+---
+
+Chapter 648: No Ingredients!
+
+Hearing Edgar, Derek held his breath. Finally, an octagonal disk appeared in the former prince's hand, and he set it down on the table. "Is that it?" Derek turned his head and asked Alex. The young man was the only person from the Origin System, and likely the only one to have seen a teleportation device similar to the one lying before them.
+
+"Yes," Alex answered as he squinted his eyes. "That is a portable, one-time-use teleportation device. It's a rather big one, too. It should be able to support up to four or five people all at the same time. No wonder they didn't want to let you use it… on top of the Grimshaws just wanting to kill a member of House Loomis."
+
+"I see…" Derek said. "Well… can you program it or whatever to take us to your home so we can be on our way to Origin City?"
+
+"I can certainly try," Alex replied. Then, he reached for the device, paused, and looked back at Derek. "May I?"
+
+"Go ahead," Derek replied. Alex picked up the portable teleportation device and began looking it over and really examining it. Occasionally, he nodded, but more often, he frowned and narrowed his eyes. "What's wrong?" Derek asked. Of course, he already knew what was likely wrong with it, but he wanted to hear Alex's evaluation of the device.
+
+"It's not… broken… necessarily," Alex said. "The device itself is fine, but the runes are faded and some are broken. A good runesmith could probably fix it in time, but I don't have that ability." He looked up and around at everyone. "I'm sorry."
+
+"It's not your fault," Derek said and slapped the young man on the back—causing him to lose his grip and drop the device back onto the table. "It's mine. It got hit by one of my… abilities. I'm surprised that it's in as good condition as you said it is, honestly. And as for having a good runesmith… we'll see. Marrick, could you go get your little friend for us? Tell her to bring the teleportation relay thing, too."
+
+"Of course," Marrick replied. "I would like to know how she has been getting along during this time, too. I would wager she has many new ideas."
+
+"Probably," Derek replied with a chuckle as Marrick made his way into the Time Prison.
+
+Soon enough, Marrick walked out with Brandi and Malorie right behind him. It was only natural that Brandi's mother wouldn't let her leave her sight. Roman then appeared behind them, poked his head out, hesitated, then took his own step outside the Time Prison.
+
+"This is the planet you've been on?" Malorie asked as she looked around. Seeing Derek nod, she said, "It's… very barren."
+
+"It is," Derek replied. "One of the reasons we're trying so hard to get off this planet," he explained before turning to Brandi. "Did you bring the teleportation relay thing?" Derek really didn't know what to call the device the invaders had used that doubled as a teleportation device and a way to increase their communication range.
+
+Brandi flicked her wrist, and the rod-like device appeared in her hands. "I did!"
+
+"Have you learned anything from it during the time you've been inside?"
+
+"A little," Brandi said. "But not a lot. I wouldn't be able to recreate one yet, but I think I could keep this one working for a long time."
+
+"That's a lot better than nothing," Derek replied. "Take a look at that octagonal plate on the table there." He pointed at the new teleportation device.
+
+Brandi nodded, then reached out… and failed to reach the plate. Edgar pushed it closer to the girl, and she took it. Everyone waited in silence as the young girl examined the plate for at least twice as long as Alex had. "So neat!" she finally stated.
+
+"What is? Can you make it work?" Derek asked.
+
+"This is a teleporter, isn't it?" Brandi asked, ignoring Derek's questions.
+
+"Yes," Alex answered. He was watching Brandi with interest. "It is meant to be a one-time-use device that will shatter into pieces once deactivated."
+
+"That's this rune?" Brandi pointed at a rune that was half-visible and even had some lines marked out.
+
+"I'm sorry," Alex said. "I couldn't tell you. I know some basic runesmithing, but only enough to create lights or filter air. I do not have a crafting class, after all, so I cannot really grow my runesmithing skills beyond basic."
+
+"Oh, sorry," Brandi said before tracing the lines of the rune with her finger. "I think this is a rune that holds the plate together for a short while after it is used so it doesn't blow up as soon as it's activated. I can't say how long, but if this rune is not fixed, then it might just blow up as soon as you activate it. Or it may be fine… I don't know. I will need to study it."
+
+"Is that so?" Alex asked rhetorically as he leaned down and looked at the rune. "I never knew that. The way these are made is a secret. Those who sell them on the Origin System Shop make sure that there can be no tampering done with them and modify how many uses each can have based on the price."
+
+"Because it wouldn't be profitable if you only had to buy one teleportation device and never had to buy another one again," Derek said. "Crafters have to make their money somewhere."
+
+"Too true," Alex said. "But… it seems that whatever your ability was tampered with the teleportation plate, it did not trigger a self-destruction. That is quite an accomplishment."
+
+"That may be this rune," Brandi cut in as she pointed out a rune that was barely even there. Derek and the others wouldn't have even noticed it if she hadn't pointed it out. "It has an explosion rune built into it… along with an invisibility rune, too… so it may be the tamper rune."
+
+"You find anything else?" Derek asked.
+
+"So many things…" Brandi replied. "I'm going to need some time. All these basic little runes… surely they all have to do something? They wouldn't put redundant runes in just to fool someone trying to study it, would they?"
+
+"Yes," Derek and Alex answered at the same time. Derek continued, "Of course they would. If a good crafter was able to reverse-engineer something unique like that—and I'm sure there are many different ways to go about creating the same result, which would be single-use teleportation—then the creator would lose tons of possible future profit. So yes, I would bet that there are runes on that thing that don't do anything at all."
+
+"I agree," Alex replied with a nod. "I wouldn't put it past there being more than one or two tamper-related patterns, either. I do not know you well, but I would suggest that if you are going to study it, you do so with utmost care. Some of these creations are crafters' life works, so they will do everything they can to keep it all to themselves or their direct disciples."
+
+"I will be careful," Brandi replied. "I am always careful."
+
+"How many times have you lost your eyebrows?" Derek asked with a chuckle.
+
+"I carefully… lost my eyebrows a few times," Brandi replied with a snort.
+
+"Yeah… carefully…" Derek grinned, then he turned to Roman. "What is it that you need?"
+
+"It was just a bit cramped inside, so I thought I'd venture out and have a look around," Roman replied. "You haven't happened to find any exotic ingredients for alchemy on this barren planet, have you?"
+
+"Nope!" Silvi's voice suddenly rang out from the middle of the table. "No ingredients at all. Just dirt. Want dirt? Take some. You can have."
+
+"I…" Roman looked at Silvi with narrowed eyes. "I'm good on the dirt… thank you."
+
+"Then you all should head back inside. Brandi, do what you can with the device. If you can repair it, fantastic. If you can't, oh well. Maybe you'll at least learn something that can help you out in the future."
+
+"Okay!" Brandi nodded happily, then took the rod and the plate into her hands and turned around. "You be careful too! I'll see you soon!" Then, she went back inside the Time Prison.
+
+Derek looked at Malorie. "I'm going to change the speed dilation a bit so that you guys aren't in there for so long between check-ins. I want to see how Jace reacts to being inside there after his backlash and long cooldown from the skill he used. It will be good information to have."
+
+"That's good," Malorie replied. "We are all going a little stir-crazy inside there. If we could use skills, it would be different for some of us, but it's dark and a bit boring, and people can only spar so many times. Only Brandi seems to not have any problems with it, but I don't even know if she notices the time passing. Sometimes, I want to pull her out of her work… but there's no reason to."
+
+"You're doing fine with her," Derek replied. "Yeah… I can get that being stuck in a dark place for a while can be taxing." More than anybody will ever know, he thought, but didn't say. "We're working on getting out of here, but that was our best chance, and it ended up being way too close a call, so we're not going to be doing that again. I'll keep the time dilation a little better for all of you, though. Maybe it will make it easier to deal with."
+
+"Thank you," Malorie nodded, then went back inside. Roman followed, too, and soon everyone was back in, and Derek closed the Time Prison behind them.
+
+Once they were all gone, Derek turned and looked at everyone else who was left outside. He sighed, then said, "I'll be honest, if I have to do that again, I will… alone with everyone out of my space, but I don't want to do that again unless it's a last resort. I was even thinking about reversing time in there and us just going out and growing stronger until doing that wouldn't be risky anymore. But that could take months or even years."
+
+"Maybe even longer," Alex cut in. "It's not like there are always going to be people on this planet doing trials and such. It could be decades even before the next batch is sent after this one completes their training."
+
+"I do have a drastic measure," Derek said with a sigh.
+
+"What is it?" Marrick asked.
+
+"We could go into the void…" Derek answered.
+
+"But the people inside your space… and I don't think you and Silvi can keep everyone protected for however long is needed…" Edgar said.
+
+"I'm not talking about going that deep into the void. I'm talking about surface-level void—like the void that you're opening to pass through with the Portal skill. One step into whatever layer of the void that my Void Travel skill opens up can take me across a planet or even to a different planet entirely. The movement inside the Portal layer isn't nearly as extreme, and I was able to survive for an extremely long time inside it before I even had an affinity for it," Derek explained.
+
+"Interesting…" Marrick muttered while scratching his chin. "But there would be no way to know where we're going to end up?"
+
+"No," Derek replied. "I can only sense auras and places when using my travel skill. It's a part of it." He reached out with a fist and swung. His hand hit a ripple, and the space cracked, with a few pieces falling from it before it naturally began to heal. "We could enter here, but we'd be moving blind."
+
+"Void Beasts tend to travel that layer, too," Alex said. "And… they can be nasty. The Void Emperor even gathers Transcendents to help in case he accidentally brings out one that's too strong. They've even killed Transcendents before. I would rather not travel inside the void unless it is a last resort."
+
+"It may end up being so," Derek said. "Unless anyone else has any ideas."
+
+Edgar frowned and narrowed his brow. After a moment, he said, "I think I may have an idea."

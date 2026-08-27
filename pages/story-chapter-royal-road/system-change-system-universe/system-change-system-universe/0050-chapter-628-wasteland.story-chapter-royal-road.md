@@ -1,0 +1,143 @@
+---
+id: 82b31e66-5b24-559a-a688-bd5a451d441c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 628: Wasteland"
+slug: 0050-chapter-628-wasteland
+partOf: system-change-system-universe
+position: 50
+ownLength: 2185
+unit: words
+ownProgress: 2185
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3034735/chapter-628-wasteland"
+royalRoadId: "3034735"
+markedReadAt: "2026-06-29T19:58:19.956Z"
+---
+
+Chapter 628: Wasteland
+
+After closing all his notifications, Derek looked around. Amelia and Marrick were still wandering around the perimeter they’d set up, Jace and Edgar were speaking enthusiastically about something while Nivara kept trying to insert her opinion but was being ignored, and Klaus was just standing by himself, staring up at the sky.
+
+Derek walked over to his Time Prison and poked his head in. “I’m closing this now. I’ll try to open it once a day my time, which I will set as once a week for you. Be careful, and Brandi… limit the explosions since nobody has their skills in there when it is closed.”
+
+After seeing Brandi nod along with everyone else, Derek took a deep breath in and then closed the portal. He then walked back to the center of the perimeter and clapped his hands just loud enough for everyone to hear him and understand what he wanted.
+
+When they all gathered, before he could even speak, Marrick spoke. “Are you finally through sorting through all your gains and new status?”
+
+“I am,” Derek replied.
+
+“Then let me, too. I’ve been waiting,” Marrick replied, and Derek wanted to facepalm.
+
+He’d sent Marrick to watch the perimeter, but, of course, the short elf had a lot of things to go through. He’d evolved and completed all the requirements to ascend. He just hadn’t gone the way the system predicted. The same was true for Edgar regarding the requirements, but he didn’t have an Origin System evolved body, so he probably didn’t have as much to sort through.
+
+I should have just put Klaus and Nivara on one side and seen how well I could trust them, Derek thought. Then, he nodded to Marrick. “Go ahead. We don’t know where we’re going, so it’s best to get everything sorted.”
+
+Marrick nodded and then walked a little away from the group. After about five minutes, a stream of sand was pulled up from the wasteland beneath the old elf. Soon, it started circling him like a tornado. Finally, it exploded out and fell back onto the ground like rain. When it stilled, Derek looked at his friend and saw a smile bigger than any he’d seen on the man’s face before. Marrick practically skipped his way back over.
+
+“What has you so happy?” Derek asked.
+
+“I thought about what you told me about Mythical requirements. Since I’m well past the affinity to receive a Mythical class and have managed to get four of my stats to 1,500 points to complete the four requirements for advancement, I strategically allocated the stats I received from all my new Titles. I thought it might mean that I was handicapping myself a bit by not going full intelligence and wisdom, but I deemed it a risk worth taking.”
+
+“So… you are saying… that…” Edgar muttered as he looked the man up and down.
+
+“We have a second Mythical class in the party,” Derek answered for Marrick. “Right?”
+
+“That is correct,” Marrick replied with a smile.
+
+“Did you get a chunk of stat points like Avery did when he grew from epic to legendary outside of a class upgrade?” Edgar asked, stars in his eyes.
+
+“I did.” Marrick nodded. “An extra 500 points that I spent on my intelligence and wisdom. The thing is, I don’t think distributing the stats the way I did would have worked had I not had this new body. This evolved body is special.”
+
+“It is,” Derek replied. “From my inside source from the Origin System…” he took a deep breath—happy that he could speak freely about Dave and their conversations if he wanted to. “From… Dave… he seemed genuinely shocked when he learned that you evolved. Also, congratulations on being able to regrow body parts with just natural recovery.”
+
+“I believe I am on the verge of being able to do that, too,” Klaus suddenly spoke. “Young elf… if you would lend me a finger to study…”
+
+“Fuck off!” Marrick, Derek, and Jace all said to the man at the same time.
+
+Klaus held his hands up, palms out, and took a step back. “Fine, fine. You cannot blame me for asking. I was only thinking that if I could create a type of… synthetic evolution, it would benefit not only me but the others here. I have skills that I did not believe could be leveled that have ‘unlocked.’ I believe I will soon be able to alter more than just my own molecules.”
+
+“I’m sure that if that’s possible, someone in this Origin System has already figured it out,” Derek replied. “Yet my inside source didn’t say anything about it.”
+
+“Ah, but was your source worried about us?” Klaus asked. “I do not believe he would be. And are you not already evolved? Why would he speak of such things to a person who had already evolved in the natural—and most probably better—way?”
+
+“You’re not wrong,” Derek said. “But there will be plenty of time later if Marrick decides he wants to help you.”
+
+“I won’t,” Marrick said. “I like my fingers. Every one of them, and all the extras that I may end up growing now that I apparently don’t have to worry about losing them for good.”
+
+Klaus sighed. “Very well. But if you change your mind, do let me know.”
+
+For a few moments, everyone but Jace, Derek, and Silvi looked at Marrick with a hint of jealousy in their eyes. Derek thought Jace would have, too, but the man really didn’t seem to care. Instead, he looked at Marrick with a fire in his eyes, which meant that he was thinking about the rematch that he could have with the old elf. Derek snorted.
+
+“Okay… has everyone finished up with everything they need to do and checked on their new status?” Derek asked, and he received a nod from everyone. “Good… now, does anyone have any ideas about what is going on here? Or where we should go?”
+
+“Easy,” Jace said, then he pointed in a direction. “We should go that way,” he said.
+
+“And why should we go that way?” Derek asked.
+
+“Because my Battle Instincts are telling me that there is a lot of fun to be had that way,” Jace said casually. “My Battle Instincts are never wrong. They also won’t lead me into a battle that cannot be won.”
+
+“Do your Battle Instincts work for the whole group? Or do they work only for you?” Amelia asked. “Will we be walking into a fight that is hard, but ‘fun’ for you? Or one that is hard, but ‘fun’ for the entire group? Because if it is the latter and your instincts are including Derek and Silvi in them, I suspect that the ‘fun’ would be hard for all of us to survive.”
+
+“Hmm…” Jace rubbed his chin and then pointed in two other directions. “My Battle Instincts are screaming at me not to go that way or that way. Like… really screaming. There are things over there that wouldn’t even be a fight. Just… instant death, probably… maybe.”
+
+“What about that way?” Derek pointed in the final direction.
+
+“Nothing…” Jace said with a shrug. “But I would feel something if there was anything that could help me get to a good fight. And the main thing I need to get to a good fight is to get off this planet. I feel absolutely nothing from that way. The first way is the best… by far.”
+
+Derek furrowed his brow and frowned. “And you are one hundred percent sure about this?”
+
+“Can one ever be that certain?” Jace asked back with a shrug. “My Battle Instinct has never let me down before—even bringing me to you—so I would say that I’m as certain as I can be. I’ve never actually used them as part of a real team. The team I had before just stayed back and waited for me, so even if it does work for the party as a whole, I wouldn’t know. However, I’m also pretty well-versed when it comes to Planetary Battlefields.”
+
+“What does that have to do with this?” Amelia asked.
+
+“You were on the council. You should know,” Jace replied. “Then again, I guess you did spend a lot of your recent time sitting back and sending people places instead of going yourself. Look around at this wasteland. What do you see?”
+
+“Nothing,” Amelia said, then suddenly her eyes lit up. “It’s been stripped.”
+
+“Exactly,” Jace said. “Whoever is in charge gave up on this planet a long time ago.”
+
+“What are the two of you saying?” Derek asked. Jace had told him about his time on Planetary Battlefields, but where they were at currently didn’t look much like what he spoke of.
+
+“This was once a Planetary Battlefield,” Amelia said. “That is a planet that beasts and system users fight for control of, for its resources or to claim it as a livable planet. If it looks like this, then it means that whoever was in charge decided that it wasn’t worth making it into a proper planet, so they stripped it of most of its resources and left it to the beasts. At best, they may send some teams to come clear out the monsters for their resources occasionally.”
+
+“Oh… so we’re on a dead planet with no resources?” Derek asked. “How the hell are we supposed to get off of it?”
+
+“Well… they have to be able to teleport to the planet somehow,” Amelie continued. “I would bet that there are a few bases around that have teleporters in them. All we have to do is find one of them.”
+
+“Oh… that’s not as bad as I thought,” Derek said.
+
+“It won’t be as easy as you’re thinking,” Jace said. “She said that there would be a few bases, but not active bases. I would bet my kukri that they only activate the teleporters when there are people on the ground here. If they even do that. Who knows what kind of methods this system has versus the Universal System V3?”
+
+Those words were like a cold bucket of water poured on Derek’s head. He had gotten a bit too optimistic when he heard Amelia. “Well…” he finally said. “The number one priority is still finding one of these bases. Who knows? Maybe we came here at the perfect time. Maybe the bases and teleporters are active and just waiting for us.”
+
+“Yeah… and maybe the unknown system users we’ll run into, if that is the case, won’t try to kill or torture us for being on a planet like this without their permission,” Jace replied with a snort.
+
+“We’ll just have to figure it all out when we get there,” Derek said. “I guess there’s no sense in thinking about all these what-ifs until we learn more.”
+
+“Does anyone have any problems going the way that Jace suggested?” Derek asked. He didn’t want to be a dictator and decide everything himself since there were people with him who he truly trusted and liked. Everyone looked around at one another. Derek could see that Klaus might have wanted to go in one of the other directions for some reason, but he never knew with that man. In the end, everyone agreed to go in the ‘fun’ direction.
+
+“Okay, then we will go that way,” Derek said. “So, who is the best scout? There’s really nothing but wasteland, so there aren’t many trees or other structures to hide behind.”
+
+“If someone will carry my body, I will scout ahead,” Nivara suddenly spoke up.
+
+“Carry you?” Derek asked.
+
+“Mhm…” Nivara said with a nod. “I can create a physical illusion—almost like a clone. To use it properly, I must transfer my consciousness into it, so my body will be unable to do anything. However, the range the illusion can travel is farther than a normal illusion of mine.”
+
+“Oh.” Derek thought about it for a moment, then nodded. “Then we’ll do that.”
+
+Nivara smiled widely, then walked over to Edgar. “Edgar… if you…”
+
+“Klaus, you’re carrying the queen,” Derek said, ruining whatever plans she may have had. “We need all the fighters free just in case.”
+
+She couldn’t argue with the logic, so she pouted, then walked over to Klaus. “If you touch me inappropriately, I will kill you,” she said.
+
+“And why would I want to do that?” Klaus said, deadpan.
+
+“Hmph…” Nivara then turned and closed her eyes. Soon, an identical copy of her appeared before everyone’s eyes. “You better not let me fall or drop me,” she said, then closed her eyes again. Soon, her body fell back, and the illusion opened its eyes. Klaus caught the woman and then threw her body over one of his shoulders.
+
+Nivara, as the illusion, looked at the way Klaus was carrying her body and narrowed her eyes. In the end, she chose not to say anything.
+
+“I’ll keep an eye out underground,” Marrick said.
+
+“That sounds good to me,” Derek replied, then looked at the illusion of Nivara. “Okay, let’s get to it.”

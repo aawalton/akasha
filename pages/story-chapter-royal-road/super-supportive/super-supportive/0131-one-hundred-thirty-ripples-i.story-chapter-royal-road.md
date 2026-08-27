@@ -1,0 +1,395 @@
+---
+id: b8e3afe2-6032-57d4-8dde-3f8897ec9a62
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED THIRTY: Ripples, I"
+slug: 0131-one-hundred-thirty-ripples-i
+partOf: super-supportive
+position: 131
+ownLength: 5418
+unit: words
+publishedAt: 2024-03-28
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1571112/one-hundred-thirty-ripples-i"
+royalRoadId: "1571112"
+---
+
+130*******
+
+After their dinner, the class broke up. Some people left to head back to the dorms, meet up with friends, or get an early start on weekend family time. Principal Saleh and most of the instructors took their leave, while Torsten Klein was stuck with the job of seeing the bus safely back to campus.
+
+The vehicle drove itself, but the school required it to have a babysitter.
+
+“The mall closes at midnight!” he called after the students as they scattered. “If you’re not on the bus five minutes later, you can find your own way!”
+
+Haoyu wanted to throw coins into a particular fountain because he did it every time he came to the mall, so Lexi and Alden tagged along. Three people heading in the same direction with a goal, even such a small one, must have had some natural attraction to it because several other guys with no plans of their own ended up following them. Jeffy and Finlay weren’t that surprising; like Alden, they didn’t know their way around the giant shopping complex all that well. Reinhard came, too. And Mehdi seemed to have ended up with them accidentally.
+
+He’d tried to go with Kon, only to have Everly Kim give him such a frosty look that he’d run to join the nearest available group.
+
+“Why the fountain?” he groaned. “It’s for little kids.”
+
+“Because throwing coins in the fountain is good luck,” Haoyu said. “If you leave Rosa Grove without throwing coins in, it’s bad luck. You guys can do the slide if you’d rather. It’s right next to it.”
+
+Mehdi brightened. “I haven’t been on the slide in forever! There’s always a line when I go shopping with my mother and she never wants to wait.”
+
+Reinhard gave him a superior look. “So you love the sliding board, but the fountain’s for little kids?”
+
+They bickered just like the little kids they were both so insistent they weren’t until the group reached an atrium. You could see all four floors of the mall from here, and the panels that made up the roof could be opened to make it open air. They were closed now. The rain that had been promised by the thunder earlier had begun, and water streamed down the glass.
+
+Alden patted his messenger bag. He had two disposable ponchos in there. He felt the smug satisfaction of the properly prepared. Never mind the fact that I could probably buy all kinds of rain repelling gear here in the mall.
+
+With the roof closed, the atrium echoed with the voices of nighttime shoppers and the happy shrieks of a few children who were going down the slide with their parents. Wide enough for five people to ride it side-by-side on slippery mats, it ran from the fourth floor to the ground. As passengers zipped down it, colorful trails of light appeared in their wake then faded out to match the deep gray surface again.
+
+“There’s no line!” Jeffy said excitedly. “Let’s go!”
+
+Everyone but Alden and his roommates shot off toward a staircase that led up to the fourth floor.
+
+“I hope they’re not disappointed,” said Haoyu, taking the same stairs down to the bottom level a few seconds later. “I used to love the slide.”
+
+“Used to?” Alden asked. It looked fun to him. Definitely not just for “little kids” despite all the arguing about it.
+
+Haoyu looked over at it. “I’ve been kind of worried since we started school that things like that were going to turn boring. I don’t know. I just don’t want to ride it and find out I don’t get the swoopy guts thing anymore. It’ll be sad if it’s not special now.”
+
+“Because of the gym.” Lexi was nodding.
+
+Alden suddenly realized what they were talking about, and he didn’t like it at all.
+
+“No! Is the insane stuff we do in the MagiPhys gym going to ruin carnival rides?”
+
+“The rooftop-to-rooftop coaster was still great,” said Haoyu. “But just think of everything we did today. And if you compare that to the slide…”
+
+“I’m quitting school.”
+
+“Switch to Arts or Sciences at least so we don’t have to find a new roommate,” Haoyu told him.
+
+The “fountain” Haoyu liked was actually a huge, beautifully detailed scale model of Anesidora. It stood on the pavement at ground level. The interior of the knee-deep basin was a dark gray-blue, and the water inside it formed tiny waves that matched the ocean. At the center stood F-city and Apex, the circle and the crescent connected by the Span. There were no vehicles or tiny people, but lights glimmered in the windows of the buildings and skyscrapers, occasionally flicking on and off. A single purple beam shooting upwards served as a “You Are Here” indicator over the model of the mall.
+
+A couple of kiosks placed on opposite sides of the fountain sold coins.
+
+“You pick the project you want your donation to fund,” Lexi explained while Haoyu poked at the screen. “And you get the coin designed for it…or coins.”
+
+Eight shining tokens about the size of silver dollars clattered into the kiosk’s tray.
+
+Alden wondered if Haoyu had gotten so many to share, but that wasn’t the case. He took all of them for himself and walked about a quarter of the way around the fountain with the air of someone who had an established favorite coin tossing spot.
+
+Lexi bought a single coin for himself, then Alden stepped up to read about the projects the fountain was funding right now. The one that was farthest from its goal was creating a permanently balmy custom climate for the second largest park on the island.
+
+Do we build that kind of thing for ourselves or do we pay wizards to do it for us?
+
+He donated to a plan that would beautify one of the streets near campus because he figured he’d get to enjoy it more often, and coins with images of buildings on one side and trees on the other fell into the tray.
+
+Eight for eight Argold was a lot more expensive than tossing pennies, but he had more than enough wishes to justify it.
+
+He flipped a coin through the air, trying to see if he could land it precisely on top of the spot Lexi had just hit with his own toss.
+
+I wish for Kibby to be happy.
+
+The coin hit the miniature sea with a satisfying plop. It didn’t land in exactly the spot he’d been aiming for. It might have if his wordchain hadn’t run out.
+
+He threw the next one.
+
+Boe stays safe and gets to live however he wants.
+
+The silver disc sank beneath the surface.
+
+His third coin was for himself.
+
+I wish for more moments like this one.
+
+His stomach was full of good food. His body was tired in a nice way from the course. People were laughing as they went down the slide. Calypso music poured out of one of the shops. And at the kiosk he’d just used, a small girl was patiently reading aloud the project descriptions to an even younger boy who was holding a NesiCard in both hands and staring up at the screen.
+
+Nothing too fancy. Just more moments like this one. As many of them as I can have.
+
+The coin hit the water. The ripples didn’t spread very far before they disappeared into the waves.
+
+On Apex, a man wearing lounge pants tucked into the tops of a pair of galoshes stepped out of a brick townhouse. He chuckled as a golden retriever, tail wagging, shoved its way past him and bolted down the steps so fast it almost tripped over its own paws.
+
+“Even in the rain?” a woman’s voice called out from the house.
+
+“He’s a good boy,” he said. “And I promised.”
+
+He closed the door. The dog waited on the sidewalk, standing on his hind feet and whining excitedly. His owner took the steps down, galoshes splashing in a puddle that had gathered in a dip in the concrete. A large drone over the man’s head kept him dry. It had no propellers, but it hovered quietly and easily above him as if the wind had little effect on the dark fabric sails it used to shield him.
+
+The dog was chubby, and his fur was going silver around his muzzle. But he raced across the one-lane street with the energy of a puppy and bounded into the grassy square that the townhouse faced. Other, similar houses surrounded it. They were mostly quiet right now, curtains pulled tight against the night.
+
+The man lifted his left hand as he reached the square and snapped his fingers twice. Street lamps and pathway lights turned on in an instant, illuminating the wet grass and the dog running in eager circles.
+
+“All right. Fetch it is.” He pulled a tennis ball from his jacket pocket and threw it. The dog raced after it, barking joyfully, heedless of the rain.
+
+They played for several minutes before a chirping sound called the man’s attention to his watch.
+
+“What is it?” he asked.
+
+“Elias, why won’t you answer your damn interface when the SkySea Guard is calling you?”
+
+“Hello, Archibald. Why do government officials keep calling me on my interface when they know it’s not my preferred contact method for the information business?”
+
+“You stubborn old—”
+
+“You’re almost as old as I am. And I keep SkySea fully supplied with top of the line infogear.”
+
+“Nobody wants to wear your spy equipment, Elias!”
+
+“Many people do.”
+
+While Elias tossed the soggy tennis ball again, the other man sighed. “We’re having some trouble with the runaways we queried you on earlier this evening. It’s been long enough that they might…might…have slipped past the bulk of our patrols. We’d like to find them before they hit the edge of our territory and run into less tolerant parties.”
+
+As he finished speaking, notes appeared in front of Elias’s eyes, and a soothing, male voice whispered in his ear. Elias listened to its report for a few seconds, then said, “I see you requested intelligence on a seventeen-year-old boy, a couple who thought an escape attempt would spice up their love life, and that funny woman who enjoys the thrill of being plucked from the waves every couple of months.”
+
+He also saw that the couple and the thrill seeker had already been brought back.
+
+“The audio recording and video you purchased indicated the boy left in the company of five others. And it seems you haven’t found any sign of them, judging by the fact that most of the members of your day shift haven’t returned to their homes.”
+
+Archibald grumbled something, then said more clearly, “Where are they?”
+
+“I doubt my creation knows the precise answer to that. I can have it make guesses based on the captain’s personality profile and the capabilities of their vessel, but I don’t have recording devices out at sea.”
+
+“We want anything you’ve got that will help. We’ll pay the fee.” Archibald Carisson said the word ‘fee’ like it was a curse.
+
+“How uncharacteristically generous you’re being with the budget tonight. It’s because of the two high ranks traveling with them, I suppose?” Elias whistled, and his dog trotted toward him, head high and tail wagging.
+
+“You ought to be required by law to help with matters like this if you ask me. Every time an Avowed makes it off the island and causes trouble for ordinary people it’s a setback for global relations and puts our efforts to function as an independent nation without interference in jeop—”
+
+“If I was required by law to do any such thing, I would get on a boat myself. And you would not find me.” He bent to lay a hand on top of the dog’s soft, wet head. “Or I would run for election.”
+
+He could practically hear the other man shuddering at the thought.
+
+“You’ll just have to be content with the fact that I don’t hold myself to the same privacy standards as our System. If I did, I’d tell you nothing at all. Now…how much help do you want?”
+
+Archibald didn’t hesitate. “No need to help your creation along with your power,” he said at once. “Just its own work will be sufficient.”
+
+The Informant sighed. “You heard him. What do we know about the missing boat? Synthesize all relevant information and make predictions.”
+
+Data began to pour in at once.
+
+“You’re looking the wrong place,” he said mildly. “You need to look deeper.”
+
+“Did they sink?” Archibald asked in surprise.
+
+“They almost definitely did, but not in the way you mean. I hope you have a lot of manpower for tonight’s search. And that they’re strong swimmers.”
+
+It was silent at the bottom of the sea. And black.
+
+Jacob had been doing his best to ignore the nothingness beyond the windows of the submerged cruiser by browsing the internet and texting his mom. He’d told her he was out for the night with some new friends he’d made, so their chat back and forth was light. She didn’t need more worries.
+
+He was on the settee, curled up in the corner to stay out of his companions’ way. He could hear them all breathing. With the engines off, the boat was that silent. No crashing waves or rushing wind. The lights came from a few battery powered lanterns and the Submerger, which was shining in the cockpit, the crystal dial that had become its new base occasionally flickering and calling the captain’s attention toward it.
+
+Though he never touches it, Jacob noted.
+
+He’d halted the engines, then set their course using the dial and a glass stick that might have been called either a stylus or a wand in Jacob’s opinion. There were logograms on the dial that controlled depth, direction, speed, and Jacob didn’t know what else.
+
+After the captain had played around with the thing—pressing the stylus to one logogram and then another, timing himself with a stopwatch for some reason every time he made an adjustment—he’d flipped the whole Submerger over, so that the oily yellow liquid inside the tank was on the bottom instead of the top. When he’d placed the Submerger back on top of the dial, the silver bead in the middle of the liquid had sunk almost to the bottom.
+
+And then so had the boat.
+
+Magic encasing it, water crawling up the sides to pull it under...Jacob shuddered.
+
+“No touching this or casting spells at her,” the captain had warned in an ominous voice, shooing the man with the scabby hand away from the device when it was over. “She’s a powerful but sensitive piece of equipment, and she’s all that protects us from our enemies and the deep.”
+
+Jacob had no desire at all to touch the Submerger.
+
+He just wanted the magical, creepy part of their journey to be over. If possible, he would’ve moved their company’s thief away from the crate full of stolen medicine and looked around for one of those knockout drugs they’d given him the last time they’d hauled him back to intake. Being unconscious until they were back above the water sounded like a great idea.
+
+Other people weren’t as anxious as he was.
+
+“Well!” said the girl, Riley. She clapped her hands together and bounced onto her feet. “It turns out that traveling away from home gets boring after only a few hours. I’m going to go see what it’s like outside if that’s all right with you, Captain.”
+
+He was lying on one of the bunks now, reading a paperback. “It’s fine to go out. You can even touch the envelope if you want to get a first hand look at the power of Jacob’s gift to us.”
+
+Riley snatched up one of the lanterns and squeezed her way through all the supplies toward the door.
+
+“You coming?” she asked, beckoning toward Jacob.
+
+He shook his head. He didn’t see the appeal in getting even closer to the darkness.
+
+She left, and he tried to relax. It wasn’t made any easier by the company. The thief kept laughing loudly at whatever he was watching or reading on his interface, and the other man was poking around the boat with an intensity that was only matched by his randomness. He stared at a nick in one of the cabinets, then at one of the weapon cases, then he peered at the tarp that covered the large object that sat where the dinette had once been. The edge of the tight canvas started to pull up at the bottom.
+
+“Um,” said Jacob, alarmed. “Should you be doing that?”
+
+“Get away from that, Will,” said the captain, looking over the top of his book. “It’s delicate. Dangerous.”
+
+The man leaped back, muttered an apology, then went to stare at the label on a jar of peanut butter.
+
+The captain had only introduced the strange man as a friend who needed a lift earlier. Seeing Jacob’s s expression, he seemed to decide further explanation was needed.
+
+“Don’t worry about Will,” he said. “He only fidgets around like this because he’s nervous. Isn’t that right, pal?”
+
+“I’m not nervous,” Will muttered, rocking back and forth. “It’s just very small in here.”
+
+“Claustrophobic?” the thief asked in an unconcerned voice.
+
+“What’s a boy your age doing cooped up in here with us?” the captain asked Jacob. “Go out and take a look. Not many times in your life you’ll get to see such a thing.”
+
+Will opened a cabinet and yelped as dozens of large stickers slid out and fluttered around him. He scrambled backward, his socks slipping on some of the stickers as he fled.
+
+Stickers seemed like a wasteful addition on a boat stuffed so full of necessities. Jacob stood up to get a better look at them.
+
+Most of them were square or rectangular. A few were die-cut, horned monster faces. They said things like “SAL for True Peace” and “Who’s gonna save you from the demons?” Some were in English, others in Chinese. He even spotted one in French.
+
+The captain shook his head. “I told Riley she could bring one box of those since she’s spent so long designing them. Should’ve specified the size of the box. She’s got them tucked in every nook and cranny.”
+
+Will had picked up a sticker that looked like a holographic cube. He was staring at it now.
+
+Guess it’s just as interesting as the peanut butter label.
+
+Jacob tried to help clean up the stickers, but Will swatted him away.
+
+Fine then.
+
+He didn’t want to go outside and ‘take a look,’ but staying in here wasn’t much better after all.
+
+“Excuse me,” he said when he was halfway to the door.
+
+Wait, who was I apologizing…he needed to relax and focus on getting outside.
+
+By the fountain, there was a home furnishings store that specialized in extraterrestrial imports.
+
+Now this is not the kind of shopping experience you get in Chicago, Alden thought, sitting on a very short stool in one corner of the store, waiting for his body heat to make the stone-like material it was made of release a scent. The sign beside the stool had said it would happen, and nobody else had wanted to try it.
+
+Where is their sense of adventure? How often do you get to experience a sit-and-sniff stool from Tmith?
+
+There was plenty of other adventure to be had in this place, though. Finlay was trying to figure out how to read a device that said it was a clock even though it just looked like a jar full of differently colored gels. Mehdi was sinking deeper and deeper into a squishy blob-shaped massager; soon nothing would be left of him but his nose. And Haoyu and Lexi were browsing the shelves.
+
+Jeffy and Reinhard had hung back to do the slide one more time, but it had been so long, Alden suspected they’d either gotten lost or forgotten they were supposed to be rejoining them.
+
+A sickly sweet smell that vaguely reminded him of apples filled the air, and with his curiosity satisfied, he stood up to look for a new weird experience. He found Haoyu tapping on a two-foot-tall cylindrical lamp that was lit by a swarm of tiny luminescent bugs. Lexi was right beside him, examining all the supplies you would need to keep your bug lamp alive.
+
+“You’re finally off the stool,” Haoyu said. “We were just talking about you.”
+
+“Were you saying nice things?”
+
+“We were wondering if you still wanted to come with us to Matadero. It’s a long trip out and it’s not much to see since we can’t get too close, but the boat’s fun.”
+
+“Tomorrow?”
+
+Haoyu nodded. “Or Sunday if the weather’s better for it then. We’re going to ask Vandy too. Her mom’s in residence there, and she’s so down about the way things went in class this week.”
+
+Lexi wasn’t complaining about being a water taxi. Alden looked over at him.
+
+“I’m selling the boat soon,” he said. “My parents were just trying to distract me with a new hobby and give me an escape so that I wouldn’t go crazy waiting for selection, but I don’t have time for it now. Having the money is more practical.”
+
+“This is our last chance to farewell a noble vessel.” Haoyu saluted the lamp for some reason.
+
+They don’t plan to get close. There’s no reason to be weirded out by the idea of viewing Matadero from a distance. “I’ll go,” he said. “Thanks for inviting me.”
+
+He spent a few more minutes browsing with them, pausing to admire a case full of the same colorful rock creatures he’d enjoyed watching with the other Rabbits in intake. They were all in their hibernation mode right now. The store had the date of their next wake-up posted on a sign.
+
+“We placed bets on these dudes in intake,” he told the others, pointing. “The guys in the apartment next door to mine had a whole table full of them.”
+
+“Seriously? They’re kind of expensive.” Haoyu leaned toward the case, and his breath fogged the glass beside a mottled pinkish creature.
+
+“All the apartments have unique fun features. For socializing. Some people just went from room to room, trying out everyone else’s games and furniture.”
+
+“What did you have?” Lexi asked.
+
+“A very dramatic coffee pot and a pinball machine.”
+
+“Sounds like fun,” said Haoyu.
+
+“It was. They make it as comfortable as they can. It’s supposed to be a soft landing.”
+
+Not soft enough for everyone I guess. He wondered if Maricel’s friend had been caught yet.
+
+“CNH has been even better believe it or not.” The rooms weren’t as luxurious, but the busyness and the good company were making him feel more settled in than intake had managed to.
+
+“Well we have a polar bear,” said Haoyu. “It’s hard to compete with that.”
+
+“True. Sunny is the main reason I stay with you all. Plus the spontaneous outbreaks of mooing.”
+
+[WARNING: You are approaching a blockaded area. Turn back or request teleportation to Anesidora now.]
+
+“Told you!” Riley’s soft curls were freed from their barrette, and they drifted in the magic the captain called ‘the envelope’. She had unfolded the boat’s stern boarding platform so that she could get even closer to the ocean that surrounded them. She leaned back, arms spread wide. Behind her there was nothing but blackness; any faint light from the night sky so far above them couldn’t penetrate this deep. The angle of the girl’s body made her look like she was about to fall into an endless void, but the Submerger’s magic held her in place.
+
+Jacob had touched the magic himself just once, right after he came out here to join her an hour or so ago. The protective envelope was invisible, but it felt like the air itself grew denser and denser the farther he extended his arm from the edges of the boat, until he couldn’t push through anymore.
+
+“Captain couldn’t resist kissing the edge of the forbidden zone. One last—” She lifted a middle finger covered in magenta polish to the sky. “—to all those Avowed who go along with playing captors to our own kind.”
+
+Jacob was still staring at the blockade notice. “What if the System sends us back?”
+
+Riley snorted. “It doesn’t do that unless you ask it to. Trust me. I’ve lived here my whole life. People who make it through to Matadero on dares say it just keeps flashing the warning. When you get close enough, your boat smashes into shielding. That’s the real restricted area. And we’re not headed that way anyway. We’re just sneaking along the perimeter, right below all those patrols.”
+
+She smiled up at the silent blackness over their heads. “Hear that, assholes? There are superhumans soon to be at large under your noses and you don’t have a clue!”
+
+Her voice disappeared into the envelope. She crossed her arms over her chest. After a little while, she said, “You know, you’re quiet for a hero.”
+
+“I’m not a hero.”
+
+“You sort of are,” Riley said. “The captain thinks so anyway. Apparently this thing you’ve brought us is rare on Earth. SAL only has one more, and the person who brought it back from the Triplanets years ago won’t let it be used for anything but helping runners hide or relocate. They’re not really caught up with the times. Those of us who don’t like the way things are done need to start pushing people to think, don’t we?”
+
+Since meeting her for the first time this afternoon, Jacob had come to understand that Riley’s reasons for leaving Anesidora weren’t at all the same as his. She liked the island. She was just bored. She’d really wanted to be powerful, but she was a C-rank Stamina Brute who couldn’t pick a uni major because they all sounded pointless.
+
+“On track for a do-nothing life like my do-nothing friends and family,” she’d said. “I’d rather be an activist.”
+
+She’d been spending a lot of time System chatting with anonymous unregistered Avowed who were members of SAL, and she wanted to ‘join the fight for Avowed rights.’
+
+“We’re Earth’s protectors, you know,” she told him a few minutes after they’d received the message. She was still pressing herself back into the envelope as far as she could. “Even if chaos stays away, you and I are protecting Earth right now. With our lives.”
+
+“We’re not really—”
+
+“Just think of how many people are benefiting from the Contract at this very moment. Billions of them. In all kinds of ways. And what did they have to give up for it?” She pointed at him. “Nothing. If there’s some kind of universal apocalypse, I guess they might have to make room for some alien refugees, but right now, they pay nothing. All they have to do is let the System make us. We’re what the Artonans care about here. I’m not a supremacist or anything, but every Avowed should be treated like we’re saving human lives just by breathing. Because we are.”
+
+She’s so Anesidoran, Jacob thought.
+
+She was no Hazel Velra by any means—bossing him around like he was a servant, blackmailing him into being her date, and then introducing him to everyone in her family as Jacob the C-rank like she was hoping someone would make comments about his unworthiness.
+
+But there was a similar arrogance. A pride he couldn’t connect with. And a kind of blind lack of interest in the lives or feelings of people who hadn’t been born with a magical purpose.
+
+Riley rattled on, explaining that Avowed should be allowed to walk across every border on Earth if they wanted and be welcomed with open arms. According to her, that was clearly how the Artonans had imagined it going based on how their own culture worked.
+
+“What if they hurt people?”
+
+Riley paused in the middle of a sentence. “They?”
+
+Jacob was jarred for a moment. This wasn’t the first time he’d run into this feeling of disconnection, but no matter how many times it happened, it always made him feel lost. “We. I meant we.”
+
+Riley’s nose wrinkled. “You’re a globie. You weren’t one of those lunatics who thought Avowed were disgusting or something before you were selected, were you?”
+
+“No,” Jacob said in an annoyed voice.
+
+“Then why would you default to thinking ‘What if they hurt people?’ It’s stupid. You’ve been living on an island entirely full of superhumans. Were we all murdering each other in the streets?”
+
+“Avowed do use your powers on people when you think you can get away with it. This girl I know used her skill to mess with a guy’s wordchain. And there are other examples.”
+
+“You did it again,” she said. “Do you seriously not think of yourself as an Avowed, too? ”
+
+“I know I’m an Avowed,” he said. “I don’t have a problem with them. Us. Don’t accuse me of stuff when you don’t even know me! I…people like my dad think superhumans are…I don’t think that way. I was just asking a question about the point you were making.”
+
+Riley went quiet and Jacob tried not to let that make him uncomfortable. She hadn’t had many quiet spells at all since the boat set out.
+
+I didn’t mean to let her wind me up. She just won’t shut up about all these things that I’m too tired to think about, and she acts like I should care about them but I don’t. I don’t want to. That’s not who I—
+
+Finally, she said, “You know you’ll still be one of us, right? No matter where on Earth you end up. You can run away from the island, but you have to take yourself with you.”
+
+He turned away. But the only place to go was back in the cabin with the others.
+
+“Hey. Don’t be upset. I’ve just never met anyone like you before,” said Riley. A hand landed on Jacob’s shoulder, and he whirled to see her smiling at him. “Did your dad think magic was unnatural? Or that Avowed were an Artonan infection that needed to be quarantined?”
+
+He took a step back from her.
+
+“Or was it one of the even crazier ideas?” She shook her head. “Doesn’t matter. It’s good you’re coming with us, Jacob. You need to be around people who’ll show you how it really is.”
+
+“How what really is?” he asked.
+
+She leaned toward him. “We’re awesome,” she said softly. “Stronger, healthier, kinder and prettier if we want to be. Smarter. It’s harder to see on Anesidora, where everyone’s one of us. Why do you think they make us stay there?”
+
+She sounded so sure of herself it was impossible not to listen.
+
+“‘Oh, what if you hurt us ordinary people with your terrible alien magic? You’re like walking weapons,’” she scoffed. “That’s not why they want us all tucked away. Most people would welcome us with open arms, but the ones currently in power…?”
+
+She looked up into the darkness. “They say that if the first generation of Avowed had been chosen at forty, instead of in their teens, they would’ve become Presidents and Prime Ministers. They would’ve ended monopolies and carved out kingdoms for themselves.”
+
+Jacob had never heard anyone say that before.
+
+“Some of them almost did things like that anyway. But they were kids who’d grown up in a world without magic, and the people in power saw what was coming before they did. And they decided to bottle the genie back up before it realized what it really was…”
+
+She bent suddenly and picked up the electric lantern. She held it up high like a torch. “We’re not going to stay in the bottle for much longer. I’m going to be one of the first ones to break free.”
+
+Everyone thinks something different about Avowed, Jacob thought. I miss not being confused.
+
+“I—” he started to say, only to be interrupted by a second girl’s nervous voice.
+
+“Um…um…you guys?”
+
+She was standing right there on the stern of the boat with them. She was so thin that the pink and white polka-dotted sweatshirt she was wearing looked like it had swallowed her. Her pale eyes were wide.
+
+“Something is reallyreallywrong.”
+
+******

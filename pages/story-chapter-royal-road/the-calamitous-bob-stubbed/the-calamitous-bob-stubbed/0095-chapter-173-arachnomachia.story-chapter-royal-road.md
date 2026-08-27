@@ -1,0 +1,327 @@
+---
+id: 310e6fad-8fa6-5241-a063-ee47d3fe5abb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 173: Arachnomachia"
+slug: 0095-chapter-173-arachnomachia
+partOf: the-calamitous-bob-stubbed
+position: 95
+ownLength: 5174
+unit: words
+ownProgress: 5174
+publishedAt: 2024-08-23
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1771472/chapter-173-arachnomachia"
+royalRoadId: "1771472"
+markedReadAt: "2026-06-29T21:18:02.889Z"
+---
+
+It was impossible, looking at Many-Legs, to assume that he had once been human. Some champions embraced the teachings of their masters but Many-Legs had gone a step beyond. He had not accepted the necessity of change. He had craved it, embraced it. He had forfeited his shape. He had forfeited his name. Eventually, he had gone so far as to forfeit speech and all the things that made him a person. All that was left behind was power, violence, and ambition.
+
+The path to supremacy did not rely on others, or on concepts or methods, to Many-Legs. It only relied on the triumph of the fittest, and on such a world as Nyil, the fittest ought to be a true monster. Even his soul was now a twisted and piteous thing, so when he felt the touch of his goddess, he whimpered with pleasure.
+
+It was time. Time to embrace his destiny. The forest of limbs on his thorax shivered when he accepted her caress, her blessing. He let her in, her perfect vessel, and together, they roared.
+
+***
+
+Hunger.
+
+All that was left was hunger.
+
+It could be directed. With some effort, it could be contained for a while, but it always returned and when it did, a frenzy overtook the Ravener, one that only flesh could satiate until it returned, stronger than ever.
+
+Hunger.
+
+One day, the Ravener had feared disease, an infection that crawled over her flank in a wave of constant, exhausting agony. The wound was open and fetid and bleeding pus, and it dug ever deeper. Fear of the inevitable had led her to a solution. It had been easy. The god had lent her enough strength to fetch the child of a neighbor — nasty little bully. He died quickly. She feasted on his meat for some time, made soup with his bones, but the meat ran out and the hunger came. The neighbor lost his wife but by then he was suspicious. A crowd ran her from her home. She walked the roads, hungry and questing for her next meal. She wasn’t sure when she had stopped looking like a person. Each feat had brought more strength, more resilience, more power but that power could only be put into service locating her next meal, so strong was the need. It gnawed at her day and night now.
+
+It was almost a relief when the change took over. She let Gomogog seep into her flesh and allowed her psyche to dissolve into his warm embrace. An end, finally.
+
+The large flesh walker leaned back from its stopped posture. Meat bubbled, defining bulbous muscles. Maws opened on the surface of its body. They wailed in unison.
+
+***’
+
+It burnt.
+
+Just like the day the Wandering Lord had burnt his family. He’d survived because the ropes tying him had been too loose. His leg was just a chunk of pain where the dragon had torched him almost casually, in passing, as he was already defeated. The winter sea wasn’t enough to kill those flames. They burnt with a will of their own and Sai’s poor understanding of blue mana meant he was nearly defenseless.
+
+It was always the same, always the damn same. The powerful destroyed casually, demolished everything in their path and they did it because they didn’t care. They knew with absolute certainty that they would get away with it. Who would stop them? Not Sai, with his year of gruesome, lonely training without resources, his years of effort to take vengeance against the Wandering Lord and his lackeys. Not Sai who’d fought every hour of his life against the tyranny of the uncaring. And now he was here again on a lonely rock surrounded by idiots and sycophants just for standing for what he knew was right.
+
+A burst of agony made him delirious. The flesh-mending potion wasn’t working properly. Scarred, bruised flesh regrew in uneven patches where it regrew at all because he hadn’t cut away the burnt meat, and how could he? The pain. The atrocious pain.
+
+It never changed.
+
+No matter how hard he fought, the world didn’t change. It was always the same. It always followed the same rules. A fresh pang of agony tore at his mind. It was never going to change unless he did something drastic, something to even up the board. It didn’t matter that Octas won so long as the powers that be lost because it could not just… keep… happening.
+
+He had to make a mark on history, remind rulers that they were not safe at the top. Every atrocity would be paid in blood if one had the will to sacrifice everything to make it happen.
+
+And Sai was ready. Black, ichor-like liquid covered his limbs and silenced the pain. It flowed to form a mighty plate armor.
+
+They were ready.
+
+But… something felt wrong.
+
+***
+
+“I really thought we would have more time. Until tomorrow, maybe,” Viv said.
+
+They would have to fight at sunset. Definitely not ideal. At least, Sardanal’s blessing kept everyone at peak condition, physically. It wasn’t just a boost that would be paid for later. She was genuinely feeling well-rested. Only the mental toll affected the others. Nevertheless, the sun was about to set and the thought of fighting incarnate dark gods during the night was… less than enchanting. And it was going to happen. She had seen Many-Legs turn into Octas’ incarnate. Everyone had seen it. There were not enough tall trees left on all of the island to mask that sort of transformation.
+
+Even then, soldiers and militia members rushed to the walls, ate their bit of provisions, or sharpened their weapons one last time before the inevitable showdown. Women carried barrels of arrows and water to the crenelations while others tirelessly worked to craft more from the tips Emeric’s Girl had brought, and fresh wood grown by Sardanal. Viv watched the last preparations with some measure of detachment. This would be a fight of gods this time, but a few more arrows could not hurt. People needed to act, to feel useful in a time of crisis.
+
+The walls were packed with warriors now. Viv had turned a ring around the city into a scene out of the  deadlands so Octas’ harassing spiders could not get through. The effect would last until the battle started. Sardanal’s Cradle and its defenders had gotten the breather they desperately needed before the last big push, and that was what mattered.
+
+Denerim and Orkan joined her on the battlements. The old inquisitor had brought her a cup of piping hot klod. Viv took a grateful sip and let the taste of the warm, mashed cereal distract her.
+
+“I tested it for poison, by the way,” Denerim told her with a smile.
+
+The inquisitor looked better than when she’d first arrived, though many of the defenders remained too thin. Orkan followed in subdued silence.
+
+“Oh, I have this,” Viv said, pointing at a jewel hanging by her neck. “It’s a poison detector and canceller.”
+
+“It looks expensive.”
+
+“Gifted by Enttiku’s clergy, if you will believe it. I’ve made several weird friends in the past couple of years.”
+
+“Do we qualify?” Orkan drawled.
+
+“Let me think about it. Does the Hallurian deserter turned follower of the God of Righteous War standing on a wall in the middle of the ocean count? Hmmm.”
+
+“Sarcasm doesn’t befit a ruler,” the man deadpanned.
+
+“I’m a ruler so anything I do befits me. What are you gonna do?”
+
+Orkan faked shock before turning to his mentor.
+
+“Teacher, remind me again of your lesson on the nobility and sass.”
+
+Denerim gave a long-suffering sigh though a smile creeped at the corner of his lips.
+
+“My dear apprentice, you are unlikely to meet many Elemental archwitch empresses with sass during your life, and I simply urge you to follow advice number seven?”
+
+“Always adapt to the circumstances…” Orkan grumbled.
+
+“When not dealing with exceptions, you will find that my lessons will serve you well, my dedicated apprentice.”
+
+“Technically I’m already a full-fledged Inquisitor,” Orkan informed Viv.
+
+“Whatever my dedicated apprentice says.”
+
+Viv chuckled. The warriors around her were relaxing, dispelling some of the dread hanging over the city.
+
+“By the way, nice armor you have there,” Denerim added with some appreciation.
+
+“Thank you! It has pockets and nice comfy boots. I insisted. The circlet is a stand-in until I can get a huge crown made instead.”
+
+“Really love the dread lord city-destroyer aesthetics you have going on,” Orkan added.
+
+“What is the ninth rule, my apprentice?”
+
+“Deception is as powerful as a blade,” Orkan groaned again.
+
+“Now Viv can confuse the servants of the dark gods by wielding destruction more effectively than they can. Devious.”
+
+“I have been called devious on occasion,” Viv conceded. “And yes I picked a dress to impress. This is a battlefield!”
+
+“Indeed,” Orkan agreed. “And in Halluria, there is a tradition, sometimes. Ah. I think it’s a good one.”
+
+His hesitation stopped when he saw there were no hostile reactions. Hallurian culture was looked down upon on most of the continent but she was beyond that.
+
+“As you know, we don’t travel much. Only a few privileged people get to travel and it’s always a risky endeavor, because distant cities don’t always respect agreements. On the eve of a… a difficult battle, the weathered travelers would sometimes share tales of places people wouldn’t otherwise get to see. I know this because one of the old gladiators, well…”
+
+“I would love to hear about Earth,” Denerim said.
+
+“Hmmm.”
+
+It was a good point. She’d shared stuff with Sidjin and Solfis but never with the others. She also realized Denerim was speaking in the northern tongue. She’d assumed it was out of courtesy as most of their side understood that tongue, but perhaps there was more to it. Many of the soldiers surrounding them were moving more slowly now, and the hushed conversations had stopped. People were studiously not looking at her.
+
+She considered talking about cities but it would require dazzling people with descriptions of technology and… perhaps it wasn’t the best choice here and now. Instead, she considered another option. A warmer one.
+
+“There is a place far to the north called the Island of Ice. There, the burning heart of the planet was close to the surface, and many volcanoes made this place their home.”
+
+“Volcano?” some asked.
+
+“A fire mountain,” someone else whispered. “Shhh!”
+
+“We decided to visit there with my family. My father, mother, little brother and I traveled there, then we moved around with a marvelous piece of technology that moves without horses. Like a mana-powered carriage!”
+
+“Ooooh.”
+
+“The Island of Ice was a wonderful and unique place, with great waterfalls and beaches of black sand decorated with blue ice. The people were warm and welcoming. I remember once we went alone through a black landscape at the feet of a dormant volcano. The mountain pierced the air with strangely shaped stones while black dust clung to our wheels. It was an alien landscape under a gray sky unlike anything I had ever experienced, and for the first time I accepted that there might be other worlds out there and that perhaps, some of us may walk them - though I never imagined it would be me!”
+
+A few people chuckled.
+
+“We were mercifully alone which made the experience that much more surreal. I remember my tracks in the dust, but then I turned around and saw my family all gathered here pointing at many things. My brother was grumpy, of course, as he was thirteen at the time and angry at the entire world.”
+
+“Seems humans are the same everywhere!”
+
+“And while watching that strange place, I noticed small, green spots all around. We were visiting in early spring and life was already returning to this inhospitable place. The air was crisp and cool. Wind blew and sent all those little tufts of grass aflutter and reminded me of the life that would soon bloom again. We had a great time and then we left to visit hot springs. Those are like naturally warm baths in open air.”
+
+“I could use a bath right now,” Orkan said.
+
+“We all could. Thanks for the story.”
+
+Around them, people were smiling.
+
+“Actually…”
+
+Viv used a few illusion spells to show a few of her memories. Iceland. Her family. People took turns watching things about Earth and commenting on windows making places too indefensible against errant beastlings. The islanders were particularly interested in catamarans. Viv intentionally walked around to show the images until people were distracted enough to relax. She eventually made her way back to Denerim as he was finishing a wrap.
+
+“I think I distracted everyone thoroughly enough.”
+
+The inquisitor took a few blissful seconds to savor the last of the meal, which Viv was ok with.
+
+“Thank you. Now I think…”
+
+Far in the distance, at the base of the slope, something was coming. The avatar of Octas was not there yet but the spiders that she controlled were already crawling up the slope.
+
+“How can there be so many?”
+
+“Her divine power can turn even a tiny spider into a horse-sized horror given enough time. What you are seeing is the overflow. In any case, it is my turn to speak as the senior inquisitor here. I hope my command of the northerner tongue will suffice. I am not much of a linguist.”
+
+“Yet you talk that much,” Orkan grumbled from the side.
+
+“Thank you, apprentice. Now, it’s time.”
+
+Denerim casually stood on the crenellation. An otherworldly wind made his hair flutter, and his beard took on a golden tint. When he spoke, his voice was not loud and yet it could be heard across the entire city.
+
+“People of the cradle, fellow inquisitors, templars, temple guards, soldiers, mages and mercenaries, friends, hear me. You all know who I am, so I will tell you this now. It is as you imagined. The final battle is upon us, and Octas walks the world again.”
+
+Mutters of fear rose from the battlements. People knew, of course, but they still wanted to believe it would not be so, that slaying the Beast would have inflicted a setback on the Weaver Queen and that they would only face a rather large spider.
+
+“That is not all. You are not going to like what I say next, so steel your hearts and grab your weapons tight, for it is an ill omen I shall now share with you. The Eight-Legged one does not come alone. The Eater stands with her and so will the Cruel Avenger.”
+
+This time, the cries were louder.
+
+“I know you are afraid. I am afraid too,” Denerim said, and the admission shocked the younger fighters.
+
+“But I am here with my sword in my hand, on this wall, undaunted. Do you think that this is because I trust in Neriad, the God of Righteous War?”
+
+“Yea,” a few people said.
+
+“NO!” Denerim replied, surprising them again.
+
+“No. Neriad does not embrace suicidal last stands when they achieve no results, and yet here I remain. I remain here because I trust in you, all of you.”
+
+Denerim let that sink in for a few seconds.
+
+“For the last year, the dark gods have mercilessly besieged us. They have razed our homes, torched our fields, blighted our forests. They have sent their legions against us. They have tortured and threatened. They have sent their spiders to harry us and sink our ships. They have starved us and made a mockery of human dignity, and yet despite all of this, more champions have flocked to our banner. Despite a year of suffering, blood, and tears…. the Cradle still stands… AND WE ARE STILL FIGHTING!”
+
+The crowd roared. Hundreds of weapons rose to the sky and the last rays of the sun dipping beneath the cloud caught them, turning them a deep red like a promise. And Denerim was not done.
+
+“We have endured the onslaught as one - not because we are united by race, or city, or even by religion. We are united because we believe the same thing, that there is a better future and that it must be achieved through our own success rather than the destruction of others. We are here because we are builders and healers and believers, and because we all know those are ideas worth fighting for. Worth dying for. Look around you and you will see many strangers, but see where they stand and you will know they are brothers and sisters. I am proud to be among you today and I want all of you to remember that the Light Gods are on our side, and that we are here for each other. What we have, the dark gods can never achieve. Trust that we have a plan. Follow your orders. Look after each other. Trust that you are fighting for the noblest of causes. And kick some spider asses!”
+
+The army of light roared again. An emerald light surged across the fortification to remind everyone that although Sardanal was no warrior, he would still be by their side to the end. Viv felt revitalized and energetic, her mind clear and at the top of her form. She made her way to the right of the battlefield where she was placed and prepared to cast.
+
+The tide of spiders appeared immediately after, like a squirming carpet. Very few were hybrids this time. Sadly it didn’t mean that their numbers were depleted, only that they were drowned in a mass of quickly growing spiderlings. The tide crawled with a low hiss. The city was ready for them.
+
+“Loose!”
+
+Battle-hardened archers let out volleys of arrows now freshly made with wood blessed by Sardanal and steel blessed by Neriad. They picked off monster after monster without pause, not sparing their reserves now that they’d been replenished. Mages let out streams of fire and other spells to rain down on the attackers. The field in front of the city became a slaughterhouse. Viv didn’t wait. She rushed to the right side where the militia and original inhabitants of the island defended the least vulnerable section of the wall. Viziman mages torched the ground near the center, while Sidjin held the left and the city’s only path to the sea. Blender spells already shredded waves of attackers but Viv had something special planned.
+
+She stood in the middle of the circle she’d drawn at the center of a tower. It was something special she’d come up with Sidjin’s help. The inspiration came from what she’d seen other witches do, particularly the one that had used bones a long time ago. If witches could play with the laws of physics, surely she could as well, she’d asked herself.
+
+Sadly no.
+
+But her attempt at creating a stable annihilation ball had born strange fruit. The sigil of multitude joined the sigil for endurance and stability in an unholy union. The spell array turned black and energy sizzled along its lines. Around her, the gambeson-wearing militia cast fearful glances towards the potent construct while a small team of elite templars watched her back for any surprises. She allowed her elemental nature to take over with confidence. Black mana flooded her conduits. There was so much of it now, an incomparable amount compared to the beginning. The spell array hummed while she pushed more and more power into it, enough to blow up a palace. Enough to kill ten fields for a decade. The spell crackled as the first spiders reached the walls and the militiamen and women pushed them back with rudimentary polearms. The screech of salivating creatures joined the cries of the wounded. Those were people fighting for their homes and they had been through hell and crawled out the other side. Viv wouldn’t let them down. With one last sigh, she allowed the spell to trigger. Colorless mana joined the construct to complete the delivery. A black pillar surged towards the sky. It absorbed the light where it went and for an instant, the battlefield looked in her direction.
+
+“Storm of Zamhareer.”
+
+A tiny portal appeared in the air and from there, a flow of dark particles blew like snow pushed by a blizzard. The motes were small, barely larger than an actual flake, but they were innumerable. They spread across the darkening sky like fragments of the void until they covered Viv’s entire section of the wall and then some up to the destroyed forest at the base of the slope. It suddenly became even colder, and the breath of the soldiers on the walls formed little puffs of condensation. The abyssal snowstorm drank the light as it fell very, very slowly, motes shifting under an unseen wind.
+
+At first concerned, the spiders and hybrids soon resumed their assault. Viv could only assume they did not perceive the thick layer of black mana sustaining the spell or they would have run for their lives. She returned to the fray, clearing the walls as fast as she could and helping where the militia was hard-pressed by surging spiders. The first dead and wounded were carried down, the spiders frenzied to a murderous mania. It was all Viv could do to carve great swaths in their ranks before the press of their bodies alone would push the humans aside.
+
+And then, the first flakes reached the field. A hesitant spider lifted an arm to collect one, perhaps sensing the mana in it. Its barbed leg extended and with a very light pop, the leg disappeared.
+
+A chunk of its claw fell while ichor bled from the stump. The spider shrieked, alerting its allies. The flakes fell slowly, ever so slowly, but the field was vast and it was entirely covered. Viv wasn’t sure even Solar would have escaped at this point. The flakes might be slow.
+
+They were also everywhere.
+
+Pop. Pop. Popopopo—
+
+The battlefield in front of Viv turned into a sea of exposed flesh and tiny explosions. The creatures crawled over each other, some tried to hide, some used the corpses of their brethren as shields. It didn’t matter. There were too many flakes, they moved too erratically and they were just that destructive. In a couple of seconds, their section of the wall went from contested to completely in human hands. She stole a glance towards Sidjin’s section where a moving twister of a spell was corralling spiders into a mass of archers. The center was a sea of flames.
+
+They were holding for now. Even as the more dangerous flesh walkers and hybrids trickled onto the various sections of the battlefield, the templars and allied mages called together great constructs, pouring everything they had into the struggle. Columns of purifying light engulfed the regenerating flesh and turned it to charred glass. Sidjin’s precise blows took out sniper spiders as they showed up or after they spat a single dart. Viv herself ravaged the field from side to side with large ‘nuée’ spells, devouring clouds cleansed the field of both the living and the dead. The forces of the dark ones died again and again, breaking on the city’s unyielding defenses. For a while, green and gold dominated the darkness and stood defiantly against the wave but this time, it was not a champion they were facing.
+
+First, the trees parted before a titan of poorly formed flesh. Hungering mouths covered its form and where it walked, screeching spiders, hybrids, and even the odd archer were pulled as if by a strong current. The gnashing orifices crushed bones and gulped whole gobbets from still screaming carcasses. Arrows rained and spells flew but the flesh was unyielding. Every wound disappeared in seconds. Even fire fizzled on its bubbling meat and the scars that covered it could no longer be lit. Sidjin unleashed a vast construct of brown mana to open the ground beneath it and it seemed to work, until the colossus leisurely pulled itself out by melting and reforming its body.
+
+Then she came.
+
+Perhaps it was because the battle was so intense or perhaps the black mana surrounding her was simply too strong, but even Viv failed to see Octas before her titanic form entered the field. She was now a spider, not a hybrid or a chimera but a spider of unknown species, barbed and sharp and wicked with eight malicious eyes reflecting the fire the defenders were attempting to use. When the first massive leg fell with a thump like a crashing tree, the entire battle stopped.
+
+A presence filled the island. Viv didn’t know how else to qualify it. Her soul sense represented it as being inside of the goddess’ influence. Only the support of two other gods still let the failing defenders fight but even then the divine mana supporting them flickered. The titanic avatar chuckled and it was a guttural sound like a rockfall. It carried no meaning beyond amused contempt. The spider opened its maw. A small dark pearl grew below its dripping fangs. Viv felt the dark mana inside.
+
+Now THAT was annihilation.
+
+“Ok, off the wall. Now. NOW! JUMP!”
+
+“Jump off!” Denerim bellowed and the order spread across the wall.
+
+It was fortunate that stats and experience had turned the defenders into a quickly reacting group. Or, more likely, the slow ones had already died. The militiamen and women hit the ground around Viv as she rushed to the street below with her templar escort. Like a wave, the defenders retreated to the devastated city, taking position among the ruins. And not a second too soon.
+
+The earth shook. Viv’s ears rang from a sound like a semi crossing the valley at the speed of the average of a race car, if the semi was the size of a manor. The wall was obliterated. Even the defense glyphs failed to hold for more than an instant. The laser beam crossed over Viv through a hole in the wall and for an instant she could see what her hyper beam spell ought to be, what a real death ray was like.
+
+In front of the defenders, the wall was now nothing but a pile of rubble and whoever had failed to jump off in time was now dead. The defenders stood frozen. Only the first spiders cresting the ruin woke them up from their shock. There was nothing left to stop them coming in now.
+
+Viv almost reengaged, but her danger sense screamed and she turned, her templar escort jumping in horror when they realized they were no longer alone.
+
+In the broken remnants of a barn’s door stood a giant in obsidian armor, with pale skin, and eyes of pure shadow. He didn’t move. It gave Viv enough time to see the multiple cracks covering his body. A normal statue would have collapsed by now.
+
+He winked.
+
+“Hello, Efestar,” Viv politely greeted.
+
+The shattered god gave her a lopsided grin. To her surprise, it looked genuine. A piece of his face cracked and fell off.
+
+“What, no Fefe?”
+
+“Figured I shouldn’t tease you under these circumstances.”
+
+The avatar and the archwitch faced each other in silence while around them, men and women braced for the renewed assault. Viv remained patient. She didn’t need her soul sense to tell her it was a pivotal moment in the history of Nyil.
+
+“I have been talking with Neriad, in the in-between. Enttiku too. She is a great listener. I… I think I am ready.”
+
+Viv didn’t know what to say. She just took a step forward and placed a comforting hand on Efestar’s shoulder. He might be one of the most terrible monsters in the history of the planet but… she had to believe in second chances. She had to believe the world would be better off without following the Talion law. A part of her recognized she was hypocritical as she had done an eye for an eye often enough but… adhering to a principle and always following it were two different things. She, too, had to get a better hold of her emotions. It was ok to admit she could always improve.
+
+Efestar looked at the hand. He didn’t move, just sighed.
+
+From outside, a terrible presence made itself known. The being known as Many-Legs had forfeited language so Octas merely communicated in feeling or impressions. They assaulted Viv’s mind with the intensity of them. Her guards recoiled. Some fell to their knees.
+
+Honor agreement made.
+
+Destroy.
+
+Make our cause true.
+
+Kill everyone.
+
+The nauseating message came with a chittering, manic fury that raked across Viv’s mind. She kept a grip on herself and her hand on Efester. She glanced into the abyss-colored eyes. There was a star in them now, a tiny dot white where his pupils ought to be.
+
+Viv took a step back.
+
+Efestar sighed. It was brief, yet carried a powerful meaning, like a heavy cloak falling from someone’s shoulders. Freedom.
+
+“NO,” the God of Scorn replied.
+
+No?
+
+NO?
+
+Then.
+
+Die with the weak!
+
+The assault on Viv’s mind was almost blinding and she wasn’t even the recipient. Octas’ hatred ran deep, and her glee manifested in the way the chittering spider jumped. Beyond the walls, she heard human screams.
+
+You were always frail.
+
+Your followers will be meat for mine.
+
+Failure.
+
+Efestar opened his mouth to reply, but the answer died when his chest cracked. The titan stumbled and fell backward with a terrible sound like broken glass. Viv kneeled by his side and grabbed his hand even as he searched for her. He was in terrible pain. Shards of his being fell to dust, revealing muscles underneath. A moment later, Octas crashed through the city gates.
+
+They didn’t offer much resistance. Whatever was still standing erupted in a shower of debris, pelting the beleaguered defenders. She was so massive Viv saw her come even above the walls as she towered over all but the temple here. Her horrific form hurt the eye and where she came, no one stopped her. The humans fled and fell with spiders on their heels. The emerald glint of the walls was extinguished. Night fell.
+
+The avatar’s massive head turned to where Viv was kneeling, slowly. A barb jutted from its mouth between squirming chelicera. Viv recognized it as a sniper stinger. It was meant for her. And she would have tried to stop it, but Octas was here, not a weak avatar this time but a true incarnate carrying much of her essence onto Nyil, and no matter how powerful she’d grown and how much she’d achieved, Octas had achieved more. Fate tethered the projectile to her heart in a way she felt inside of her soul.
+
+Octas shrieked in triumph as she spat. A shadow came upon Viv, blocking her view. She heard a thud, and then her mind was hers again.
+
+Denerim collapsed on his side with the stinger in his heart.

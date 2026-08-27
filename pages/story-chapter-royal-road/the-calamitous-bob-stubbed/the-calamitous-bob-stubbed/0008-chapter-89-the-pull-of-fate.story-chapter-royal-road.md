@@ -1,0 +1,449 @@
+---
+id: 68550b7b-9de9-5d15-8577-ed89a33b456a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89. The Pull of Fate."
+slug: 0008-chapter-89-the-pull-of-fate
+partOf: the-calamitous-bob-stubbed
+position: 8
+ownLength: 4304
+unit: words
+ownProgress: 4304
+publishedAt: 2022-09-16
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/995460/chapter-89-the-pull-of-fate"
+royalRoadId: "995460"
+markedReadAt: "2026-06-29T21:14:55.778Z"
+---
+
+Viv rode on the back of a galloping horse, cursing every moment she had spent thinking pony girls were uncool. If she had learned to ride better, she wouldn’t be feeling like a potato bag strapped to a roller coaster right now. At least, she took solace in the fact that Marruk had it even worse.
+
+“Damn. Stupid. Beast! Gah.”
+
+It was cultural. Probably. The pair clung to their saddles on the mad dash to a large dirt road lining the forest that surrounded the farmland. Once there, they turned north at breakneck speed and Viv finally caught a glimpse of their pursuers.
+
+So here on Param, there were people who could rival a sprinting horse. She saw men in civilian clothes racing over the growing cereals on an intercept course. A woman with a pixie cut lifted a shortbow but she hesitated. The fastest runners got close enough that she could see the white of their eyes. They probably wouldn’t be able to sustain that speed indefinitely. The horse had slowed down to turn, but now they were accelerating again.
+
+For a brief moment, the two sides took each other’s measure. Viv knew hired muscle when she saw it. Many of them wore colored shawls, armbands, sometimes even whole dyed shirts, a luxury Kazarans had no way to afford. They formed a colorful, eclectic group of city cutthroats from different bands, eyes shining under the moonlight like a pack of jackals. She inspected them calmly and felt no fear.
+
+Viv let the pursuers know what she would do if they got any closer. There was a certain reluctance in her to kill again, but it would not extend past their attempt to get her. She opened her soul and gave this piece of information to them freely, without artifice.
+
+The air suddenly smelled of ashes and roasted meat.
+
+They faltered.
+
+The men and women froze in their tracks, cowed. Viv spared them one last glance and galloped away.
+
+The Dark Blades guarding her sheathed their throwing knives without comment. The group fell silent. Behind them, the towers of Koltis’ keep disappeared behind the odd trees. They were leaving this strip of farmland behind on their way out. Soon, the forest surrounded them on all sides again, and the visibility decreased, but they didn’t stop. The horses and the dark blades apparently knew where they were going, though Viv was blind as a bat right now. After less than ten minutes, they slowed down dramatically.
+
+“Trap,” a dark blade whispered before Viv could ask what gave. No sooner had he said so that Viv felt mana burst in front of her.
+
+The forest always had a familiar blend of brown mana with a life and black background. A rush of brown warned her of the impending attack before it even launched. Her training and experience took over.
+
+“Nope.”
+
+The shield expanded past the dark blades as they yelled warning. It hit something, which exploded mid-air. Shrapnel snapped against the ground and nearby trunks with loud thuds. Viv spread black mana on the ground to nullify traps, though she felt nothing, and for a good reason. The path in front of them stopped as a wall rose to block their way. Viv felt the locus of power causing the spell somewhat to the left of the road. She didn’t hesitate.
+
+“Purge.”
+
+The thickened version of her simple spell speared through the wall and into the person behind. She heard a gasp. The magic weakened. Her instincts screamed at her of danger in the darkness. She felt projectiles coming at her more accurately than ever before. Two to her left, and back. She sent large shields after them.
+
+“This way!”
+
+The horses barely ever slowed before they changed course, diving into a gap between trees to the left. A branch slapped Viv in the face. She couldn’t see anything. There were noises, and screams. Snaps. She huddled and held to the bridle with all her might.
+
+Acuity Reflex: Intermediate 1
+
+A net shredded a projectile coming at her from behind until pieces of it clanged uselessly against her roundshield. Another pull of magic warned her of an enemy at their back. She spread black mana in the air. A roar of wind shredded the bushes behind her, showering her in rocks and splinters but failing to harm her. She pointed at the ground behind and channeled change into the earth. Alien columns rose up. A tree toppled, roots displaced by the aggressive movement. Cries of dismay echoed as their pursuers faced the eldritch walls. Viv’s group angled left, back towards the road which they reached a moment later. Viv could see again. She pulled a piece of something from her helmet-covered neck. It was a ball of something cut in two.
+
+“Bolas. They want you alive,” Marruk said. She had another one wrapped around her mace.
+
+“Well, tough luck for them.”
+
+“Hush,” a dark blade said. Viv frowned but didn’t comment. The man was right. They had to keep moving.
+
+For an hour, the horses rode at great speed. They came across many villages, all of them surrounded by wooden palissades. Once, they even scared a patrol of guards who scrambled to get out of the way. Only after the land grew wild again did the dark blades slow down to a slow canter.
+
+“Those were not gangers,” the leader said.
+
+“Oh really?” Marruk retorted, unrolling another bola from her mace. She tossed the thing to the side with anger.
+
+“No, they were bounty hunters. Emlyg the Undying’s crew,” the man continued with dripping annoyance. “They are pretty known around those parts. Professionals with a witch pair, brother and sister. A brown and a grey, respectively.”
+
+“Just the sister then,” Viv replied. The dark blade stared at her with widened eyes.
+
+“You killed one?”
+
+“Unless they can endure a fist-wide hole in their bodies, they are at least disabled.”
+
+The leader hummed under his breath, but he was clearly not happy.
+
+“They might be less willing to take you intact, then.”
+
+“I hope you don’t expect me to peacefully surrender to a faction whose prince I publicly executed.”
+
+“I do not do politics. My goal is to see you out alive and well. Emlyg the Undying is known for his extremely high endurance. Some say it is in the fifth or even sixth tier. He never gives up. He doesn’t even need to sleep anymore.”
+
+“Let’s keep going then.”
+
+Viv looked up, but didn’t see Arthur. They kept going at a good pace on the same road as it moved through light forests and isolated hamlets. They only slowed at dawn, when Viv faced an unpleasant view.
+
+The next village had been large at some point. It had sat on a recess near a pond. A single cabin overlooked the placid waters with a lone canoe half-sunk near the shore. Now, the palissade looked like the teeth of an old hag, whatever was left of it. Burnt husks rotted away behind the crumbling defenses, with many suspicious dark spots staining the ground and logs. Someone had written ‘Fate of the Rebels’ in large letters on the cracked gates using an undetermined ink. Ropes still hung from some of the trees. The silence was deafening. Not even insects buzzed. Dark mana was thick and cloying there, reminding Viv of the edge of the Deadlands, but its presence felt new and raw. It permeated whatever little life there still was and smelled like worms and flies.
+
+“Ristin. Royalists got to them last autumn,” the leader explained. “We don’t have time to —”
+
+//Contact.
+
+Before anyone could react, one of the blades collapsed forward in his saddle, gurgling. A feathered shaft emerged from his neck.“Go! GO!”
+
+Viv didn’t have to be asked twice. The issue with danger sense was that it didn’t extend to her allies. She couldn’t protect anyone but herself.
+
+“How the fuck?” Viv mumbled.
+
+“He must have followed us,” Marruk said. “It came from the trees.”
+
+“What, on foot?”
+
+“Yeah. People with high endurance can do that.”
+
+Viv realized that she was dealing with a persistence hunter. He would probably just wait until they were exhausted to go in for the kill.
+
+“Shouldn’t we track him instead?” she asked.
+
+“We don’t have time. His men must be following behind!” The leader answered.
+
+Dammit.
+
+“Solfis, can you track him?”
+
+//Yes.
+
+//However, I suggest waiting until we inevitably make camp to do so.
+
+//Otherwise, the energy expenditure to rejoin you would be too high.
+
+Viv wanted to say that people were dying, but those were banker assassins and so not really her problem. The golem would probably see them as expendable as well.
+
+They kept going until noon, but by then it was clear that the horses wouldn’t last much longer.
+
+“There is an inn a little farther. We can rest for a few hours,” the leader finally said.
+
+“We can?” Viv asked with some doubt.
+
+“Remember, those are royalists who asked for your head. We are in separatist territory.”
+
+“Whatever you say.”
+
+//The tracker will avoid enclosed space.
+
+//But we will be ambushed on our way out.
+
+“The horses need a break,” the dark blade said in a tone that brooked no compromise.
+
+Viv realized that the man had just lost a subordinate and was probably also more experienced than her in tracking, so she decided to cut him some slack. Marruk didn’t share this opinion though.
+
+“One word from you and we split from those assholes.”
+
+“Let’s see how things turn out. We don’t know enough,” Viv replied.
+
+The possibility that they might backstab her crossed her mind. It could be that Zan wanted her killed quietly by the roadside rather than in the city with all the consequences it entailed. Thankfully, she had Solfis. If it ever happened, they would try to poison her. Better check that poison ring she got and see if it was any good.
+
+The road widened onto an artificial clearing made by extremely determined loggers and she got a first glimpse of the ‘inn’. It should have been obvious that anything remote and isolated would be fortified to the wazoo. Their haven-to-be was a grey stone castle with crenelated high walls and a tower that matched Fort Sky in sheer height. She could spot a courtyard beyond a half-open door two handspans thick. There were axe marks on its surface. A grumpy old man with a longbow glared at them as they approached and spat to the side, which Viv found very rude.
+
+“What do you lot want?”
+
+“Shelter and breakfast.”
+
+“You ain’t there to kill a man, by any chance? I know what those uniforms mean, ‘dark blades’.”
+
+“Shelter and breakfast. That’s it.”
+
+“See that it stays true or I’ll shove steel up your arse, see if I don’t.”
+
+Viv and the others had to dismount to get through. The courtyard was clean and well-maintained by a young man with fearful eyes. There were horses in the stable, Viv noticed, though she didn’t know how to take it. No guards that she could see. Perhaps the travelers were meant to defend the place themselves.
+
+The blade leader threw an iron talent at the boy and, with a last gaze cast out, walked in the main building which was at the base of the tower. Viv walked in the narrow door and almost bumped into his back. Marruk was right behind her.
+
+Viv let her eyes adjust to the semi-darkness and witnessed a rather tense situation. Inside, there was a common room with a bar at the back that was exactly what she would have expected from a fantasy movie right down to the wooden mugs. A hairy man with a face like he ran into walls for fun stood, frozen in the middle of applying sauce on something out of sight. The three surviving blades had fanned out on the straw-covered ground, dominating a room filled with a team of men and women in gambeson and chainmail who were looking back with obvious concern. They seemed Enorian to Viv, so locals. She wondered what was wrong and got her answer immediately.
+
+The leader of the group was an old woman with braided gray hair and an impressive quarterstaff on her back. She had her hand on the round table in front of her, where a map was deployed with a couple of pins. A reward poster lay on the side. It showed Viv’s likeness to a breathtaking level of precision. Someone had drawn her face at a three quarters angle, grim and a little tired. Although the portrait was in black and white, there was no mistaking her, and the tavern’s current occupants made it clear they knew who she was. Brown, bloodshot eyes traveled from one blade to another. They avoided her with comical intensity. They were like kids caught in the middle of some mischief and just as smooth. The fiercest warriors among them licked their lips and made for their weapons. It was kind of entertaining. Or it would have been, but Viv was tired and she had no time for that sort of shit.
+
+“None of that now,” she said, and the bounty hunters froze. A moment later, Marruk stepped in, huge flanged mace on display.
+
+She felt red mana focusing on one of the men, a solid fighter with a thin blade. She let the draconic intimidation flow and he stopped. No one moved.
+
+“Let’s get the obvious out of the way. You know who I am. I know what you do. Try anything, and I’ll kill you where you stand.”
+
+“Stand down, everyone,” the older woman said in a soft voice. “What do you propose, witch Bibiane?”
+
+It was amazing how quickly she could think, these days.
+
+“We will swap our horses for yours,” she said before turning to the dark blade leader for confirmation. The man nodded.
+
+“Theirs are mountain breeds. Fresh. More stamina. Almost the same price.”
+
+“I’m not leaving Thunder to some two-bits shaman,” a man spat behind.
+
+“Jay. Shut up,” the old woman said. Her subordinate relented.
+
+“You will also swear that you forfeit the bounty,” Viv finished. She could ask more but desperate people tended to do stupid things. Desperate, angry people were even worse.
+
+“On Enttiku,” the blade leader added.
+
+The old woman licked her lips but she nodded soon after.
+
+“You serious, boss?” the red caster asked. It was more bravado than anything, Viv thought. He was just saving face.
+
+“Yeah. Bad luck to come upon them here, is all. And that’s a third step war caster, in case that wasn’t obvious, you dimwits. Fine. We’ll swear.”
+
+“I’m not swearing anything!” The man about to lose his horse said. He stood up. Viv saw him grab a spear and lashed out. A thin line of destructive mana speared forward. The rebellious one jumped in fright but nothing happened, except that his weapon fell in two separate pieces.
+
+“Next time it’s your throat,” Viv commented laconically. She hadn’t moved.
+
+“But Thunder…”
+
+“Maybe we can reach an arrangement…” the blade leader said.
+
+Viv sighed and pulled the intimidating aura back.
+
+“I’ll let you handle the details. I’ll be outside, I need a moment.”
+
+“You should find a room and sleep for an hour or two, then we will keep going. Emlyg will be after us but if we can lose his team, we will stand a better chance of handling him while he’s alone.”
+
+“Yeah yeah.”
+
+Viv walked out with an overprotective Marruk around, then had her carry Solfis to a bedroom with a tiny window and Spartan furniture. The blades were being stupid. If they were stopping now then Emlyg would be around to make sure they stayed put. Now was the perfect time to find and kill him. Suspicion filled her heart. The blades could not be trusted.
+
+//Your Grace?
+
+“Can you assess the quality of a poison ring from its engraving?”
+
+//Yes, Your Grace.
+
+//And from the material.
+
+//I can also monitor your health if I am close enough.
+
+//Although, it is not entirely reliable.
+
+//And would not function with fast-acting poisons.
+
+“What about this one?”
+
+She removed her skinsuit to reveal a finger, which took time and forced her to bare a shoulder.
+
+//Excellent quality.
+
+//It should have cost more than what Zan demanded of it.
+
+“Hmm.”
+
+Curious, but welcome.
+
+“What about the blades? I find stopping here strange. And they should be going after Emlyg.”
+
+//Their behavior is in line with bodyguards.
+
+//Their first priority is to keep you alive and moving, not going after your enemies.
+
+//Forcing Emlyg the Undying to distance himself from the rest of his men before tracking him down is logical.
+
+//They just assume that I cannot help.
+
+“But you can?”
+
+//Of course.
+
+//I am a strike golem, not a guardian.
+
+//I am not designed for protection.
+
+//I am designed for threat disposal.
+
+“Then let’s eliminate the threat.”
+
+Viv walked to the window and whistled. She heard a whoosh of displaced air, then a serpentine face nudged itself through the opening, looking for breakfast. Viv provided the tasty jerky and a fresh egg.
+
+“Any humans outside, hunting for us?”
+
+Yes.
+
+One male.
+
+Good cloak.
+
+I steal the technique/glyphs/concept.
+
+Sneaky dragon!
+
+“Can you show Solfis where he is?”
+
+Hunt?
+
+“Yep.”
+
+Hunt!
+
+Viv let the two go first, Solfis sliding through an opening a child would have had trouble crossing. He was like a cat but marginally less psychopathic. She made herself some warm klod and sipped it before exiting her room. A dark blade stood at attention in front of it, which did little to comfort her now that paranoia had set in. They moved out with Marruk, and the man protested once she entered the courtyard.
+
+“It isn’t safe.”
+
+“Then follow me and make sure I am.”
+
+Viv walked out of the door, ignoring the grumbling of the guard above. Something about frivolous casters and safety concerns. He choked on his protests when a blood-curdling scream rang through the meadow. Soon after, a man raced across the open field. He was on fire.
+
+It sounded quite painful.
+
+Viv mercy-killed him with a net through the head before approaching the smoldering corpse. Arthur landed with a victorious squee while Solfis walked lazily from the edge of the forest a moment later. She took the time to inspect the dead. He was covered with scars, some of them apparently ritualistic in nature. A few of his old wounds should have been fatal. Even his scalp was just a sea of red tissue. None of his preparation had helped him survive the ordeal.
+
+“So, just Emlyg then?” She asked the corpse.
+
+//He was amazingly durable for someone on this step.
+
+//Although, it backfired.
+
+“I would think that a guy like him would have pain tolerance in the high tiers.”
+
+//Dragon fire ignores a lot of skills.
+
+“Squeee!”
+
+I win.
+
+“That you did.”
+
+I snuck up.
+
+Sneaky dragon!
+
+“Wonder if it will work when you’re house-sized.”
+
+When house-sized.
+
+No need to sneak!
+
+“True.”
+
+Sneak anyway.
+
+“Alright, let’s get back. I want to be on the road before we create too many grudges.”
+
+//I have a proposal that will prevent grudges from occurring.
+
+“It’s leaving no survivors and it doesn’t always work.”
+
+//Spoilsport.
+
+They returned to the inn with Marruk dragging the body by its feet. The scared stable boy was done transferring her belongings to the new horses. They were smaller, studier beasts with thicker hair. The sentry hailed them.
+
+“You a necromancer?”
+
+“No, this is a golem.”
+
+“Yeah. Alright. Dark blades wouldn’t tolerate a necro anyway. Just keep that thing away from me.”
+
+//Leave your bow where it is and I won’t have to come up and say hi.
+
+Draconic intimidation: Expert 2
+
+Ah, whatever. The dark blades’ leader saw the body and berated Viv for going out by herself, following which they left in a hurry. Viv munched on a breakfast roll that tasted pretty fresh, waiting for the poison ring to warm up. It never did. They kept going until noon and reached a crevice running between two patches of forest. The path was barely wide enough for a small carriage.
+
+“It looks like a perfect place for an ambush,” Viv said.
+
+“That’s because it is one and we already have guests,” the leader replied.
+
+“I sense danger,” Marruk added.
+
+//I detect hidden ropes fifty paces into the passage.
+
+Arthur landed.
+
+Sneaky men!
+
+“Yeah, ok, ok, I get it. Go around or go through?” Viv asked, out of patience. She had slept three hours in two days and didn’t have everyone else’s high endurance.
+
+“Since we have reached this point… I have a proposal.”
+
+Viv glared.
+
+“There are bounty hunters after you and quite a few of them. You must have been recognized in Koltis. The smugglers employ mages capable of sendings, so now everyone knows where you’re going.”
+
+“What do you propose?”
+
+“A diversion. I will disguise myself as you and trigger the ambush. We will draw the pursuers.”
+
+“And they will buy it?”
+
+“I am an infiltrator, outlander. I could act like you and your own mother wouldn’t know.”
+
+Viv huffed.
+
+“Will they buy it if I appear without Solfis or Marruk?”
+
+“Overestimating an opponent is just as foolish as underestimating one. They have your portrait, not a detailed plan of your traveling arrangements. I saw it on the table.”
+
+“How do they have a portrait anyway?”
+
+“Did you hide in Kazar every time troops walked through?”
+
+Viv remembered a meeting in person with an Enorian officer and cursed. It looked like the man had gotten the last word after all.
+
+“Right. Not important. We split, then what?”
+
+The man pointed to the side of the road. A dry riverbed angled to their left. It was filled with rocks and branches.
+
+“You take four horses and go that way. Follow the riverbed for as long as you can and keep heading north. Eventually, you’ll reach the edge of Lake Hydon, which marks the limit between northern Enoria and Kark territory. Then it’s just a matter of finding a ship to bring you downstream to Helock.”
+
+“Yeah…”
+
+She really just wanted to get to Helock. Just that.
+
+“We are close to the Northern Deadshield Woods. So long as you keep out of the way and avoid villages, you will be fine.”
+
+Viv recalled that no one had bothered her until she got into Koltis. Then the proverb had hit the fan.
+
+“Alright. Maybe. We’ll do that.”
+
+“Don’t slow down until tonight and if you find a river, use it to hide your tracks.”
+
+“Fine.”
+
+The blade leader nodded once.
+
+“Now give me your cloak.”
+
+“What? Why?”
+
+“So I can impersonate you, Outlander. I have lost a friend and now I may lose more protecting you because I was ordered to do so. Please do not test my patience any further.”
+
+“Fine, fine. And good luck to you.”
+
+“And the same to you, outlander. May Enttiku watch over your path.”
+
+Kind of weird to wish someone the attention of the God of Death but it didn’t feel malicious and who the fuck cared anyway? Viv dismounted and guided her mountain horse through the difficult terrain of the riverbed. They heard an explosion behind but never stopped. They kept going until nightfall.
+
+“There is a large pine here. We can probably sleep under it.”
+
+That night, they set camp in silence and slept immediately after setting alarms. They departed at dawn, still groggy. The happiness of the earlier days of travel had disappeared now that Viv knew she was actively hunted. Every shadow carried danger. They crossed a small path and she had to look both ways before crossing instead of just following it like a normal traveler. Marruk even stopped to hide their tracks.
+
+They traveled like that for two days, making slow progress. Eventually, they found and followed a small trail going in the right direction, barely more than a beast path. In the late afternoon, they heard a shout in the distance. Someone was loudly calling for help.
+
+“I just want to get to Helock,” Viv mumbled, “Nothing more. No pursuit. No mad dash. No distraction.”
+
+But she hurried anyway. The horses trotted onto an overgrown clearing where the burnt husk of a farm rested. A man was desperately climbing a dead tree, screaming for help as he went and for good reasons. A monster had decided to turn him into lunch. It was, to Viv’s dismay, a giant spider. Huge. Hairy. Many-eyed and many-legged. It deftly jumped aside to avoid a heavy stone.
+
+“Jesus.”
+
+//A forest spider, Your Grace.
+
+//They live in large colonies.
+
+“Please no. Purge net!”
+
+The first attack went a little wide because of the icky factor messing with Viv’s aim. The second went wide as well because the sight of severed, giant legs bleeding yellow ichor had sent Viv in panic despite her high willpower. The third one missed because the spider was jumping on her with the speed and grace of a cheetah on steroids. The last one missed again because Marruk had slammed the flying spider down with a ghastly crack of broken chitin.
+
+“Nooooo…” Viv lamented to herself. The man crashed down the tree as soon as he spotted his saviors. He was young and suntanned with a solid build and a wide face, which gave him a slight caveman feel, although his eyes shone with intelligence.
+
+“Oh, you are sent by Enttiku himself, great ones. Please, please help us! Our village is under attack! No one will answer our call! I beseech you, if you do not help us then we are all doomed.”
+
+Viv spared one glance at the pulped giant tarantula, bent forward and screamed into her mount’s mane.
+
+She just wanted to get to Helock.

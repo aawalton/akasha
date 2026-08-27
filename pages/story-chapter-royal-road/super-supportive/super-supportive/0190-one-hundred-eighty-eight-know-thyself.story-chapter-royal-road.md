@@ -1,0 +1,405 @@
+---
+id: c38de4aa-1d1c-5f60-9a5f-0fa01f8faae6
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-EIGHT: Know Thyself"
+slug: 0190-one-hundred-eighty-eight-know-thyself
+partOf: super-supportive
+position: 190
+ownLength: 6156
+unit: words
+publishedAt: 2024-12-09
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1947310/one-hundred-eighty-eight-know-thyself"
+royalRoadId: "1947310"
+---
+
+188
+
+******
+
+A large cargo delivery drone shaped like a helicopter headed toward the eastern tip of the Apex crescent, following the flight path it had been assigned over a landscape marked with evidence of both ruin and recovery. As it approached Sānjiǎo Beach, most signs of human habitation below it disappeared. Land was being readied for new construction, but for now, the one neighborhood that had been untouched by the disaster stood by itself. From the drone’s altitude, the town square at the center of it was a vibrant green postage stamp, surrounded by dollhouses. The manufacturing facilities, the workshops, and the community center around the perimeter were all whole as well. “Γνῶθι σαυτόν” was written on the roof of the largest building, irrelevant to the drone but a source of curiosity for human viewers. The letters stood out like a legible, three-dimensional marble sculpture from every angle.
+
+The drone began its descent, and at the sound of its approach, the only person currently enjoying the square looked up.
+
+She was a gaunt young woman, kneeling beside a chubby golden retriever so that she could rub his belly. Droplets from the pithos fountain near her splattered her heavy coat and crocheted hat. Her eyes followed the drone as it set down at the edge of the square. The dog showed no interest, but he whined a little when her hand stopped rubbing. She went back to it, ignoring the delivery, and a couple of minutes later, the door of one of the picturesque townhouses opened.
+
+The Informant, with a jovial expression on his bearded face, came down the stairs and crossed the street at a stroll. He was wearing slacks and a light, red sweater. He took the time to remove his shoes and socks so that he could walk across the grass barefoot. Then, he spoke to the woman for almost fifteen minutes, not glancing even once at the drone, though her own eyes turned to it curiously a few times.
+
+Finally, he nodded, complimented her on her hat, and headed to fetch the package that had arrived.
+
+When the cargo drone’s door slid aside for him, a single wooden crate was revealed. The Informant pulled it out and shook it—something the average non-Avowed wouldn’t have been able to do given its size. The muffled thump of something heavy moving around within it could be heard. His smile widened, and he shook it a few more times.
+
+“HANDLE WITH CARE” was stamped in white letters on the side.
+
+On the short way back to his house, he managed to flip the crate twice, and once, he sat down on top of it to have a lengthy discussion with one of the current residents of his neighborhood. The Wright had a question about the feasibility of purchasing a component for his latest project from Fetuna Avowed, instead of trying to have it crafted by one of his fellow Anesidorans.
+
+“Everything is possible,” the Informant replied in Mandarin. “I’ll make sure you receive what you need.”
+
+He watched his employee head down the street, then lifted the crate again and carried it up the front steps into his house. He placed it in the sitting room beside a dog bed that was same shade of olive as the low sofa and almost as large. Then he knocked on the lid a few times and waited.
+
+The crate rocked sideways. With a crack and shriek of protest from the lid and the metal tabs that failed to hold it in place, a woman stood up as gracefully as if she hadn’t just splintered plywood with the top of her dark blonde head. She was wearing a torso-hugging, long-sleeved black shirt and leggings. Her own smile was unperturbed as it met her host’s.
+
+“Elias! It’s been too long since you’ve had me over, so I invited myself. I hope you don’t mind?”
+
+“Of course not.” He offered her a hand as she stepped from the crate. “I’ve already ordered a coffee cake for us.”
+
+“That sounds perfect,” said Aulia Velra. “I haven’t had a decent meal since I loaned my chef to Matadero.”
+
+“All in black,” Elias noted as Aulia’s boat shoes touched the edge of a pale wool rug. “You’re showing off too much of your stunning figure to be in mourning. Have you come to burgle?”
+
+“Is there still a ten million argold prize for stealing from you without being caught?”
+
+“Always.”
+
+She stepped over to the sofa and sat down, letting her arms stretch outward along the back. “Did you have to shake my little traveling box so much?”
+
+“Did you have to arrive by crate?” he countered. “I haven’t heard that you’re wanted by the law. In the official sense.”
+
+“I didn’t want to be filmed on my way to see you. Or joined by anyone. Or publicly invited for a sit-down with any of the people who would so like to have a little talk with me just so that they can make implications about me with a pinch more credibility.” She sighed and let her head fall back to stare up at a metal light fixture made up of vaguely floral shapes that opened and closed one by one. “Elias, I’ve found nothing.”
+
+“I told you that you would find nothing.” He took a seat on the opposite end of the sofa and angled himself to face her. “If you weren’t you, I would be stunned that you thought you could hunt for information better than the people who’ve already looked. Did you think the System was lying? Or even if you did, did you think I was?”
+
+She cut her eyes toward him.
+
+“I’m hiding nothing about the Submerger from the rest of you. Why would I?” he said mildly.
+
+“Maybe for the Artonans,” she said.
+
+“Maybe,” he agreed, “ if they asked. But they haven’t. And I’ve asked a thousand questions a thousand ways, standing at the fountain. A boat left Anesidora full of people. Those people wanted different things from the trip. None of those things were the immediate destruction of Matadero.”
+
+“We’re missing something.”
+
+“Life itself happens because coincidences line up.”
+
+Her lips pursed. “You don’t really think it was an accident either.”
+
+“I think there must have been an accident or two along the way because if it was a conspiracy to attack us, it must have been a very complicated one, and very complicated conspiracies have flaws.” His fingers drummed against the front of the armrest. “But I also think that the origins of a few of the coincidences are…suspiciously obscure.”
+
+“Yes!” Aulia straightened. “Who told Orpheus to take the Submerger from Libra? Who told him how to do it?”
+
+“That’s one of the suspiciously obscure points,” Elias agreed. “But my friend here—” he lifted a finger and made a circling gesture with it to indicate the neighborhood around them “—can’t find a culprit for the theft beyond Orpheus. From what we can see and hear, it looks like he came up with the idea himself.”
+
+“That’s the most ridiculous thing I’ve heard in my life. He isn’t a mastermind. He couldn’t even break into the area where it was stored. He’s tried before because he knows there are things of value in there, but he tries with as much effort as he puts into everything else. He rattles knobs and bangs on walls with his fists for a couple of minutes, then he goes away to look through all the first aid kits so he can guzzle the potions inside them. Like usual.”
+
+“That doesn’t change the fact that every question I ask in that direction has no conclusion other than him. My records show he went to sleep one night in New Sybaris with a woman who later complained to a friend wearing an Infogear watch that he’d hired her for the whole evening and failed to give her the wordchain he’d promised.”
+
+“He was probably too high to figure it out,” Aulia spat. “He enjoys having no self-control. I swear I think he…never mind. What next?”
+
+“Next, he woke up in the mood to sell your Submerger for some drugs and with the knowledge he needed to do it. As far as I can prove, anyway.” He grinned. “So far.”
+
+She made a sound of disgust. “You’re enjoying this, aren’t you?”
+
+“Archie accuses me of the same thing. Yes, I admit that puzzling over a problem of this magnitude is fun. There’s no harm in appreciating the moves of an opponent. Or an imaginary opponent if a chain reaction of bizarre occurrences really is all we ever find.”
+
+Aulia chewed on her lower lip for a second and then released it. “A Sway could have put the idea in his head while he slept.”
+
+“Sure,” Elias agreed. “And the Contract wouldn’t have revealed that to me explicitly. I was asked by the investigators from the Triplanets to provide detailed intelligence on several people who seem to have very tenuous connections to the situation. But if you shift the blame from Orpheus to a Sway of your choice, you still run into the same problem. Why did the Sway do it? If they were knowingly part of a serious plan to upset the balance of things on Earth or Anesidora, the Contract would be aware of that.”
+
+“Obviously it made a mistake.”
+
+“If it did, we all did,” he said. “My creation, the System, all the Avowed who nose around looking to stop trouble, and all the wizards, too. Meditate on that while I go make coffee. Our cake is here.”
+
+He stood and went toward the kitchen. On his way past the front door, he opened it to allow his dog inside. The retriever was wagging his tail and carrying a pink cake box in his mouth by the twine that wrapped it.
+
+Elias praised him profusely, then pointed toward Aulia, who was watching with an arched brow.
+
+Several minutes later, with cake and coffee in hand and the dog sprawled on his bed, Elias said, “There’s a piece of information I’d like for you to confirm.”
+
+“Gee, how rare.”
+
+“You’ve said that Orpheus has forgotten most of the thoughts and interactions that led to our current mystery. I assume that the truth is he never remembered them in the first place?”
+
+“He’s fond of trading away his ability to recall information, yes,” Aulia said bitterly. “Sustaining a few mind-altering chains may be the only contribution he’s made to the universe. It means there’s nothing there for a mind reader to find.”
+
+“And since the charming Hazel is volunteering on another planet, I haven’t been able to watch her behavior. You did read that special letter from her during your update from ‘mission headquarters.’ But the truth is…?”
+
+Aulia’s mouth twisted. “She knew what the device was, and what it did, and what it cost me to obtain it all those years ago. She was having a little pity party for herself, and when she saw what her brother had gotten his hands on, she decided to let him trade it away to punish me and her parents for our failings.”
+
+There was a pause.
+
+“You’re sure?” Elias asked.
+
+“Yes, I’m sure. Do you think she planned an assault on Anesidora?”
+
+“No,” said Elias. “She doesn’t strike me as someone capable of orchestrating a cool-headed plot that would have involved the careful manipulation of multiple people. I ask because one of the more likely possibilities, in my opinion, is that if there was a scheme, it must have originated with someone who isn’t on Earth right now. Or someone who spends long stretches of time away.
+
+“If you want to hide your intentions from a System, the best way to do it is probably not to be around one too much, or to be around one that knows you less well than your native one.” He plucked a walnut from his piece of cake and ate it. “I’m suggesting that someone like that might have whispered an idea or two in Hazel’s ear while her ear was off-planet where a System that was a little less attuned to Earth-protection might have found the words unremarkable.”
+
+He blew on his coffee. “Maybe Orpheus stole the Submerger because his sister somehow suggested it. Maybe she suggested it because someone she met in the course of her work on the Triplanets provided a sympathetic ear and put the idea in her head.”
+
+Aulia was frowning deeply.
+
+Elias shrugged. “With no answers, I’ve fallen back on imagining ways it could be done. This is just one of several possibilities I came up with. Our Contract doesn’t know everything, but it can usually find out what it thinks it needs to know. If someone were going to play a trick on it, I think they might want to do it by using another person with innocent—or innocent enough—intentions who didn’t realize they’d become the Trojan Horse.”
+
+Aulia ate and drank, staring off into space for a while. “No,” she said finally.
+
+“You don’t think it would work?”
+
+“It might, but not with Hazel. I know the people she regularly interacts with on the Triplanets. None of them would want to do this, and none of them would understand everything they would need to about human nature in order to make deliberate attacks on Matadero through such convoluted methods.”
+
+“Hazel was only an example of a possible avenue. One I wanted to cross off my personal list. Do you think I could…?”
+
+“What do you want me to do, implant one of your keys in her hip so you can hear every word she says?”
+
+“That would show real commitment to your cause as Anesidora’s protector!” he said brightly.
+
+Aulia frowned. “I’ll bring her to you for a discussion. You can use lie detection methods. She does owe you a favor.”
+
+“Surprisingly few people have queried about Manon Barre,” he said. “And all of them have reason to assume that the lock on information about her was purchased by her. A hazard of her personality type. What were you thinking when you hired her?”
+
+Aulia didn’t answer.
+
+“Did she even acquire anything worthwhile for you, or was it—?”
+
+“A few interesting baubles, a few insights. Less than I hoped,” she said in a brusk voice. “I came here to barter for your services.”
+
+“Do tell.”
+
+“I want to question people.”
+
+“Which people?”
+
+Aulia stared at him. “All of them. Anyone who we know was involved. At the rate this is going, I’ll have little choice but to cast blame on SAL—”
+
+“You have the choice not to do that. After all, you’re not sure they’re to blame.”
+
+“They’re not innocent. That was a sizable bomb they had with them.”
+
+He fixed his attention on his cake.
+
+“I think some of our old friends are still around,” she continued, “waiting to see if the latest generation is going to be useful enough to them for them to kick off a war between humans and Avowed.”
+
+“So you’re going to poke them in the eye? Make sure you get the first strike in?” Elias shook his head. “I wish I could persuade you to slow down, Aulia.”
+
+“You’re one to talk. I remember when—”
+
+“It’s been half a lifetime and then some,” he interrupted, “since I learned to let go of ambitions that might destroy what I’ve already built and what I love.”
+
+She looked away from him and stood, going over to peer through a gap in the curtains toward the square.
+
+After a while, she said, “I hear them all effervescing about what you’ve built here. ‘Oh, the Informant is someone even the Artonans turn to for help! His Infogear came through for us even when the System couldn’t.’”
+
+“I’m getting more credit than I should for that. Cutting nonessential communication was such an exciting decision for it to make. It threw an unexpected wrench in the works for any schemes that might have relied on its services, altered everyone’s behavior, reduced the number of authority figures trying to weigh in…”
+
+“And forced everyone to feed you more words about the trouble.” Aulia’s eyes were on the fountain.
+
+Behind her, still on the sofa, Elias shrugged. “Violating the privacy of millions of humans and Avowed to help the Artonans investigate would have been very expensive for the System. If it had to do it by itself. So it created a scenario that provided plenty of intel to a much cheaper source. Do you know how many times someone said the word Matadero within reach of one of my keys that night? How many people specifically asked what had happened there through Infogear? I’ve never gotten such crystal clear reception for a targeted question before. Just between the two of us, I’ve got a complete recording of what was said in the Oval Office during the first ten minutes I spent scanning.”
+
+“Good for you.”
+
+“Thank you. But I still haven’t found satisfactory answers, and the information grows more muddled every day.”
+
+Aulia walked back over to join him. “Use your skill. Let me talk to some members of SAL—whoever was in contact with the captain. I know you must know who that was by now.”
+
+“That’s a waste of my time and yours,” Elias replied. “I activate the keys. I make a phantasm of some unregistered Avowed for you to talk to…and whatever they tell you might be true or not. The flip of a coin. Remember, I’m not widespread beyond Anesidora. Any unregistered smart enough to arrange for your own great-grandson to steal from you is smart enough not to be around Infogear unless they’re trying to get my attention or send misinformation.”
+
+“Then let me speak to the captain of the boat and the one who killed him. The teenagers. All of them who were onboard.”
+
+He blinked at her. “How many keys with unadulterated records of those people do you think I have left? And it’s not necessary. The Artonans interviewed the phantasms of all of them in the aftermath. And I did my own investigating. I’m much too close to burning out the keys I’ve set aside, and I might want to ask my own questions of them in the future. You can speak to the versions of them I’ve stored in M—”
+
+“I don’t want to talk to a machine that thinks it knows how a person would behave. I want to speak to your skill, your gift, to magic.”
+
+He set aside his half-drunk coffee and rubbed a hand over his chin, like he was considering something. Aulia’s lips tipped upwards.
+
+“No,” Elias said.
+
+She started to protest.
+
+“No,” he said, “because I have very methodical approaches to talking to the phantasms. Questions are carefully planned in advance so not a single moment is wasted. You’ll ask them whatever your gut instinct and your…faith…tells you to in the moment.”
+
+“I know you think I’m some kind of woo-woo woman,” she said after a beat.
+
+“Yes, but you’re my favorite woo-woo woman.”
+
+“However, I haven’t been doing badly blazing my own path forward. I’m sure you’ll agree.”
+
+“The past year hasn’t been your finest,” he said delicately.
+
+“Growing pains from a few family members proving more of a bother than expected. In a few years, they’ll all—”
+
+“Laugh about it?” His voice was dry.
+
+“Make peace with it and learn that most of their dissatisfactions are their own faults, not mine,” she said. “At least let me talk to the one who bought the Submerger. Jacob Moore. My connection to Orpheus may prompt the universe to reveal something.”
+
+“No. And this time it’s not just because I’m saving keys for my own future use. I can tell what kind of mood you’re in, and I know you’re not asking me to use my skill through MBF—”
+
+“I still can’t believe you changed its name.”
+
+He shrugged. “MBF decided it didn’t like being called The All-seeker…or anything else I came up with. And unless I’m mistaken and you came today to ask me to use my skill in the normal way, then you and I have no path to an agreement about this.”
+
+Aulia crossed her arms over her chest and sat back, staring him down. Her neutral expression was marred only by the rapid tapping of an index finger against her own elbow.
+
+“I’m more patient than you are now,” Elias said eventually. “You might as well say what you want to instead of having a staring contest with me.”
+
+“If you were as patient as you think, you wouldn’t have spoken first,” she said, her voice turning irritable. “Elias, that skill has been costly for you. I know that. But you used to revel in it anyway. This new ‘normal’ way isn’t normal at all. If you don’t want to be the mouthpiece, I’ll get you someone else. A human being, not a Wrightwork thing you cooked up with the help of however many Avowed it took—all of whom are too young to have ever seen you use your own keys correctly.”
+
+“Now you’re being sadly purist. I’ve had just a few summoners in the past three decades who insisted on the original, less informative method, and they were so ancient and boring that I think you’d be embarrassed to be in their company.”
+
+“Filter the spirits of the dead—”
+
+“They’re not spirits.”
+
+“—through me, then,” said Aulia, exasperated. “I consent. I will be magic’s vessel, its outlet, your muse. Surely that’s not immoral to you?”
+
+For the first time since her arrival, he looked shocked. “It is actually. And what do you think that will gain you? How will you interview the dead if you’re the one speaking for them?”
+
+“I’ll get a feel for who they really were. Like you used to! I’m confident in my ability to remain uninfluenced. I think I know myself well en—”
+
+He crossed his own arms and smiled at her, but something in his eyes stopped her from continuing her attempt to convince him.
+
+“Ask again,” he said, “and I’ll refuse to answer every information request you send my way for…I think until the newest Velra S-rank agrees to have his eye replaced. Based on what MBF has observed of him, that should be between 2054 and the end of time.”
+
+“Lute isn’t that stubborn,” she said slowly. “He’s young. And unprepared for the reality of his position thanks to his mother.”
+
+“Let’s see if my friend’s guess is better than your natural gut instinct about your own family. We only have to wait fourteen years. A bump on our timelines.”
+
+The tension in the room increased until the dog whined and rose to lay his head on Elias’s knee.
+
+Aulia watched the two of them with her jaw clenched for a minute longer, then groaned and slumped, a hand coming up to cover her eyes. “I didn’t come here to annoy you, Elias. Really, I didn’t.”
+
+“That’s a shame,” he said, giving the dog a thorough scratch behind the ears before reaching over for his coffee cup again. “If anyone was bold enough to annoy me just for the sake of it, it would be you.”
+
+“Some other time maybe. Today, I hoped you’d give me the answers I wanted, and then we’d sneak into a closet to screw each other silly and plot against the guards and talk about learning everything there is to know about magic.”
+
+He laughed so explosively that the last sip of his drink almost escaped from the cup.
+
+“Don’t laugh at me. I’ve had a couple of bad weeks.”
+
+“Just when I’m about to tell you again to slow down and be reasonable, you remind me that I’d miss you if you did,” he said.
+
+She let her hand slide off her face and hit the cushion she sat on. “I know it’s been a while. But you’d tell me, wouldn’t you? If you’d solved the riddle and found the way to the next stage.”
+
+“About wizardry, I know the same things you do,” he said, “unless you’re hiding wonderful secrets.”
+
+She shook her head.
+
+“Then we know almost everything there is to know, Aulia. And at the same time, absolutely nothing. I prefer to focus on a subject where I have the advantage these days. Avowed talents are such fantastic things; a good skill in the hands of a good user has potential that even the Artonans can’t always anticipate. Isn’t that worth studying?”
+
+“Yes,” she muttered. “After I’ve found a way to talk to the universe like they do.”
+
+“You might have been born without a voice. A voice might not even be the thing you’re searching for. If the Artonans looked like foxes, mantis shrimp, or puddles of slime would you be so eager to find a sense within yourself that matched one of theirs?”
+
+“If it would give me access to all that magic can do, I would.” She was staring up at the light fixture again. “I’ve always thought it was meant to be me. My rank, of course. My sense for magic even more so. And my position within the Palace—”
+
+“Most knowledgeable people would consider that one a major handicap.”
+
+“I did once. You remember. But I’ve worked my way in, and our place at the Palace will protect me when the time comes. When I finally cross the threshold. It all lines up. I’m always almost there.”
+
+“I won’t argue with you about this. I learned better last time.”
+
+“Who else could do it?” she asked. “My willingness to make sacrifices. All my years of striving…even if someone is out there with natural talent and power, how likely are they to have chased this as ardently as me? I’ll find it. Nobody else could be so close.”
+
+******
+
+******
+
+Alden thanked Cappuccino Girl—who kept looking around the crowded coffee shop like she suspected a certain knight might have come along with him this afternoon—and accepted the iced hibiscus tea he’d ordered.
+
+“He’s not here today,” he said as she passed him a straw. “As far as I know.”
+
+She laughed. “Sorry. He was nice though, right. Isn’t he?”
+
+She was speaking quietly.
+
+“Very,” Alden agreed.
+
+“If he comes back, I was thinking yuenyeung might be good for him. I make a great one.”
+
+“Should I tell him you hope he comes back?”
+
+<<No!>> God. Of course not. I meant just in case.”
+
+“Okay.”
+
+“Take your tea. Next customer! Not you, Rosalind, I can tell you’re just going to stare at the menu for five more minutes. Guy who always orders oat milk with caramel and hazelnut, it’s your turn.”
+
+Alden got out of the way and headed to Garden Hall, noticing how more eyes than usual turned toward him and more whispers seemed to follow in his wake.
+
+Nobody’s talking about my radish drop anymore, he thought. But Thanksgiving is catching a lot of mentions.
+
+More than it should have been maybe. He’d left the nonagon parked at the dorm, hoping that walking around with everyone else would be a blendy thing to do. Especially since the campus was a sea of school uniforms now.
+
+But people he didn’t recognize at all kept coming up to him to say, “Hey, it’s you! How about that…Thanksgiving? Great holiday. Welcome to Celena North!”
+
+Most of them didn’t mention the commendation at all. The few who did, inevitably said something that made him mildly uncomfortable, but it wasn’t like they were being terrible. Nobody’s been too rude. There’s just a lot of badly disguised curiosity. Maybe I should stop being surprised most people have self-control in person. Real life isn’t as bad as the internet, thankfully.
+
+To keep himself from watching all the people who were watching him, he focused on his preserved burden.
+
+Sorry, Vandy, he thought, peeking at the edge of a golden spiral of enchantment that was just visible to him if he looked under the cuff of his jacket sleeve. He’d pulled it from a temper sphere he’d gotten Bobby to entrust to him before leaving North of North. This isn’t one you could have spotted no matter how thoroughly you check my pockets.
+
+He’d caught her studying him more than once during Intro to Other Worlds.
+
+The good thing about carrying around the invisibility enchantment for the afternoon was that he could tire his skill by an appropriate amount before the start of gym class. The double preservation practice he usually did was effective, but it was too tempting, sometimes, to drop it and push for just a little more when gym was exciting. And since he’d been forewarned by Principal Saleh that they had something interesting going on today…
+
+A shadow passing over him made him look up to see a flying platform of a different, slower kind than the nonagon.
+
+Ground Shaper.
+
+Shapers often flew around campus at heights that he now knew were low enough to keep them from getting in trouble for flying without a license. This one was drifting past on a compressed disc of soil, with a passenger. Alden recognized them after only a couple of seconds.
+
+Maricel. And Marsha?
+
+He hadn’t caught more than a glimpse of Maricel Alcantara over the past days, not in person at least. He’d seen more of her on the news, though, usually accompanied by Fragment and doing clean-up work. When he’d passed through the Garden Hall common area earlier, the television had been turned to a channel that was showing a clip of her meeting with her whole family at a magic conference table that made it look like they were all sitting together in the same room instead of being a world apart.
+
+He’d watched briefly while they talked about how proud they were of her. It had looked like a heart-warming, happy meeting, but the careful orchestration of it made it feel just a little off. Now there she was, focused on her shaping to keep her dirt compressed and aloft, both hands in motion while Marsha stood beside her chatting cheerfully. Alden thought he caught the phrase, “more like Superlatives finally!”
+
+But whatever it was Marsha was comparing to the school’s S-rank club, he didn’t know.
+
+Thinking it might be good to catch up to Maricel and talk to her for a minute, just to resolve lingering worries for both of them, he sped up. He intended to catch her before she went into the dorm. Hopefully apart from Marsha.
+
+She’d probably like to know that I’m not going to contradict the image that’s being built for her, right? And I’d like to make sure my name doesn’t come up in some half-truth connected to Jacob and the other people on that boat.
+
+Even Maricel saying something honest like, ‘And when I found out Jacob was running away, the only person I told other than the teachers and SkySea was Alden Thorn,’ in an interview could land him somewhere even weirder than he was now. He seriously disliked the idea of being rebranded as a model globie who encouraged other new Avowed to love Anesidora as much as he did, for the good of humanity, superhumanity, and peace on Earth. That seemed to be the direction they were going with Maricel’s protective, or corrective, new image.
+
+It doesn’t seem that likely to happen since nobody has pushed me that way yet. Being Thanksgiving Guy and General Esh-erdi’s Favorite Commended Moon Rabbit probably makes it hard to slap another label on me, right?
+
+But being Mr. Good and Lawful Globie Citizen would be a problem. Mainly because he didn’t think the right way to fit into that mold.
+
+Lying about it would be…and not lying about it would land trouble on me.
+
+He didn’t get a chance to talk to Maricel, though. He arrived in time to see Marsha jump off the dirt disc from two stories up and land easily on the sidewalk that led into her dorm. Before her feet hit the ground, Maricel had risen, picked up speed, and headed for Celena Circle.
+
+Alden glanced at the nonagon parked on the roof above his room. He started to lift the finger with the ring on it, then stopped. Chasing her down wouldn’t be subtle.
+
+He shot her a text instead, saying he’d like to talk when she wasn’t too busy. When she didn’t text back right away, he turned and went through the automatic doors. In the common area, a first year student from one of the other acceptance cycles waved at him from a table, beaming like they knew each other. Maybe we do? I met like a hundred new people during the Thanksgiving madness. They’ve blurred together.
+
+Before he could be captured and socialized with, he waved back, leaped toward the staircase, and hurried up to his apartment. He seemed to have the place to himself, and this time block before gym was supposed to be his study hall.
+
+During study hall, he thought, slurping the bright, acidic tea through the straw and then raising his cup to acknowledge the polar bear watching him from the end of the hall, we get to study magic.
+
+He stepped into his room and closed the door behind him.
+
+Alden couldn’t yet hold an enchantment and give his undivided attention to a spell he was trying to figure out, especially not if he wore the earring or if there was a risk of setting the building on fire. And his skill was pretty fatigued already. So he let the temper sphere invisibility enchantment go, by pulling it off his arm and laying it on top of his cup.
+
+Which disappeared.
+
+Oh. It’s better than I expected, he thought, blinking in surprise. He’d guessed it would be a very weak camouflaging effect. Definitely something worse than he’d gotten when he’d tried it out on Victor’s fuzzy ball cat toy, because that had been an appropriately-sized sphere.
+
+But this was an improvement. The cup and the tea inside it were invisible except for the place where the words Cafe Forthright were stamped on the side. The words looked like they were floating there, and so did the top half of the yellow straw where it stuck out of the cup lid. He pulled the straw out curiously, and found that he could see his drink through the hole left in the invisible lid.
+
+Fascinated and more excited than he had been during previous similar experiments, he watched the seconds on his interface clock tick by. At fifty, there was a discernible cup-shaped something in his hand, and by fifty-two, it was back to normal.
+
+He stuck the straw back in and took a victory sip, thinking about why it had worked better.
+
+He swallowed. “Transparency,” he said to the smiling wombat that stood on the cheaper of the two learning cushions in the room. “Possibly transparent containers specifically? That’s what the cup has in common with a temper sphere.”
+
+Glassish ball that held glitter sand. Plastic cup that held tea.
+
+“My ponchos are clear plastic. Clear plastic body containers.” A lot bigger  than a cup, though. “I wonder if temper spheres come in sizes.”
+
+He set his cup on the desk and dropped his bag on the rolling chair. Then, he changed out of his uniform and into a t-shirt for comfort.
+
+A System request had his spell book appearing beside the tea at the same time as his auriad slipped down his biceps, over his elbow, and across his forearm into his fingers.
+
+“The nights on Thegund last forever,” he said, taking his place beside the stuffed animal that was the first toy his parents had bought him in Chicago, and the last.
+
+He opened Whan-tel’s Art to his living leaf bookmark, wondered for the dozenth time if he should try rooting it in a cup of water or a pot of dirt instead of using it as a page marker, and looked down at the flashlight spell he’d modified the other night when he woke from the dream about going to fetch the car. “Bokabvs have this bioluminescent drool that helps them see each other and everything else just well enough to get by. Very weird. Good for them. I don’t have that, so …”
+
+He held the auriad up and wove his fingers into it in the starting position. Around him, reality felt almost attentive. He thought he was imagining that, but he liked imagining it.
+
+He, himself, stretched in a way. It was as if after a day of being quiet and staying in his spot and playing only within the rules that formed the folds and corners of his skill, he was finally moving to claim something new.
+
+Call the memory of light toward the symbol of the lantern…carefully this time. Controlled. Focused.
+
+“Let’s do some magic.”
+
+******

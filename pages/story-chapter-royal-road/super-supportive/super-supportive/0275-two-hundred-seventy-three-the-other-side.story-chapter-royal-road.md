@@ -1,0 +1,389 @@
+---
+id: 738016dc-9ccd-5144-b725-8d1e9409a8ad
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-THREE: The Other Side"
+slug: 0275-two-hundred-seventy-three-the-other-side
+partOf: super-supportive
+position: 275
+ownLength: 3704
+unit: words
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3093627/two-hundred-seventy-three-the-other-side"
+royalRoadId: "3093627"
+---
+
+273
+
+*******
+
+Stu approached the hn’tyon’s gate on the road to Rapport I’s burial ground, his boots making little sound against the stones. This was the first morning of his weekend, and a call had come while he’d been engaged in his search for skills worthy of Alden.
+
+Quinyeth-wit waited beneath the high arch of entwined wood that formed the gate. She hadn’t seen him yet. She was so close to the blood mark on the ground that she risked being reminded that standing with one’s toes touching the boundary wasn’t much more respectful than stepping over it. And she was also bouncing in place, whether from anxiousness or some other feeling Stu couldn’t tell.
+
+“Quinyeth,” he said when he’d almost reached her.
+
+“Stu!” She spun, an elbow technically crossing the blood mark without her noticing. “Asay says…Hn’tyon Asay-tor…Declared Stu-art’h, Hn’tyon Asay-tor waits for you in the circle.”
+
+In contrast to her demeanor, her votary uniform was in excellent order. Her pale hair was usually done in playful styles, but she wore it in a simple three-strand today.
+
+Her face.
+
+“Quinyeth, have you implanted a devotion chip in your cheek?” He could see that she had. The raised circle of flesh wasn’t likely to be anything else. “Why? Nobody does that anymore. Doesn’t it hurt?”
+
+“For Asay to see…but he told me to have it removed.”
+
+It sent random painful shocks to the wearer, so Stu couldn’t imagine Asay would’ve wanted his votary to keep it.
+
+“I thought you’d understand,” Quinyeth said. “You follow old traditions and do painful things sometimes. He’s not taking me seriously. I told him I’d been preparing…all year…to be ready to go with his squad on their first mission. But he said no.”
+
+She was young for that.
+
+Asay might have diminished her efforts too much when she told him, though.
+
+Stu looked at the gate. “Why does he want to meet here? So soon after his first binding.”
+
+If he’d asked to meet somewhere else, Stu would have been filled with wary optimism that Asay wanted to mend some of what had been torn. The early days after binding were a time for seeking comfort in friends and family.
+
+“Is he well?” Stu asked. “I thought he’d call me for his last spell. I was sure he’d call before he went into the woods, at least. I even thought he might write a letter asking me to keep vigil for him that night.”
+
+Instead, Stu had heard about Asay completing his first binding from others.
+
+Quinyeth fidgeted. “He’s doing very well. A little sad, but not too much. Everyone has faith in him.”
+
+Maybe he does want to mend something then.
+
+Stu crossed the mark and headed down the path to the place where, each winter, a few knights chose their final sacrifice and their rest.
+
+Asay waited for him at the very top of the stands that surrounded the field. It had been a while since the last assembly here—a show of skills early in the summer. The grass had grown long, and the ground was gifting the sky hundreds of tiny red flowers on fragile stems that brushed against the wide legs of Stu’s pants as he headed toward the new knight.
+
+Asay watched him come with a solemn smile.
+
+He wore the uniform in dark gray, his purple hair caught in familiar jeweled clips. Stu wasn’t surprised Rel had given them to him. Asay saw Stu’s brother as his most important mentor, and he’d have been upset if Rel didn’t give him something to welcome him to knighthood.
+
+Stu made the climb up.
+
+“Hn’tyon Asay-tor.” He bowed slowly. It was his first time acknowledging the path Asay had taken. He would honor it well.
+
+“Sina Stu-art’h,” Asay said, as Stu rose. “Did you see what Quin has done to her face?”
+
+“I did.”
+
+“All I did was ask her to wait another year and focus on school instead of rushing to follow me, and she came back the next day with that implanted. It makes me think she needs to wait more than another year.” Asay shook his head. “Sit with me. How have you been, my friend?”
+
+My friend. Stu searched his face. Asay’s mannerisms had changed much since they were younger. From one of the least mature children in the Rapport, by some measures, to someone who competed with Noh-en to take on responsibilities. But this was a familiar smile, wasn’t it? Something from before the rupture.
+
+“I’m all right,” said Stu. He sat down. “How are you, Asay? Are you glad with what you’ve chosen? Do you need my help with something?”
+
+“It’s harder than I thought.” Asay looked down the rows of bench seating toward the flowers. “I believed our elders, of course. I’ve sat in this place and seen. How much more clearly could anyone know the truth of it before taking the final step?”
+
+His throat moved in a gulp. “I think there is some ignorance that is impossible to shed until a person has gone through with it. The way of things is not kind.”
+
+He laid his hand beside Stu’s on the smooth wood of the bench. It was so close Stu could feel the warmth of another person if he concentrated on his fingers.
+
+“I’ve heard others say that,” Stu said. “But you’re not regretful?”
+
+“Not more than is normal. Maybe I shouldn’t have asked you to meet me here. It must have made you worry.”
+
+“I was worried about you already because I hadn’t heard from you.”
+
+“When the others and I were talking last night, meeting you here seemed like a good idea,” said Asay.
+
+“Is someone else coming?”
+
+“No, they talked themselves out of it. I think they’re not feeling up to much. But I’m here. I knew it was important for me to speak to you, now that I’m a knight.”
+
+“Why?”
+
+“Because I’m someone who was a child with you. And your friend. And I’ve taken this step, so I can finally speak to you from this side of things, where my words hold less ignorance.” Asay looked at Stu with unfathomable expectations. “Do you want to ask me anything?”
+
+Stu peered at him. This is a strange opening. Is he inviting me to seek his support? Or an apology?
+
+“I…hoped somewhat that you would invite me to celebrate last spells with you,” Stu admitted. “It’s fine that you didn’t. I’m sure you chose what was best for you at that time. I hope it was everything you needed and wanted.”
+
+Asay pulled his hand away. He looked taken aback. “Oh. Thank you. I’m sorry we didn’t really…I’m sorry. It would have been good to have you there.”
+
+“It’s all right.” The apology meant more than Stu had expected it to. “Show me what spell you chose some other time. Cast it for me when you have the strength for it again.”
+
+“I will,” said Asay.
+
+Stu moved his hand a little, inviting Asay’s back. Asay caught the gesture. Stu knew by the flick of an eye that no longer wore its ring.
+
+Asay spoke swiftly. “Stu, I’m here to tell you no.”
+
+The sting of realization.
+
+“No? No to what.” He already knew. It was just so…
+
+“No,” Asay said, determination settling into his face, sorrow touching his voice. “From this side, having been bound and being bound, as your friend who has known you before and after I was like this—”
+
+Stu stood.
+
+Asay-tor stood, too. “No, you can’t do this. It’s too dangerous for someone like you, and it’s not the best way for you to serve our people.”
+
+“Goodbye,” said Stu. “I’m glad you’re all right.
+
+“I say this because I care.”
+
+“What unique power do you think your ‘no’ has?” Stu said. “The first word out of almost everyone’s mouth on the morning when I told them, with so much pride and joy, who I want to be, was no. ‘No, Stu! No. You can’t. Never!’ My own family. What does Asay-tor’s thousandth ‘no’ mean?”
+
+“It’s different because I’m a knight. Before, I didn’t know as well. Now, I do. You have to acknowledge— ”
+
+Stu’s hands landed lightly on Asay’s shoulders. He could feel the enchantments on the coat, subtle but strong. “Please apologize to me. I haven’t begged you for your approval in a long time. You called me here to this place suddenly. I rushed here even though I was busy in the manuscript library doing something important. I was afraid for you.”
+
+“Stu-art’h.”
+
+“Take it back.” Stu’s throat felt tight. “Isn’t this ‘no’ just some project you came up with to distract you from your new binding? There isn’t a reason for you to do this to me that makes sense.”
+
+“I knew you would be emotional,” Asay-tor said, “but for the good of everyone—”
+
+“You are not my friend,” Stu said. “You’re selfish.”
+
+“I’m selfish?” Asay said. “I’m here for you.”
+
+“You don’t even know me anymore. You haven’t tried to.” There was no wall up here. Stu could see all the way to the edge of the forest. “You’re…a prick.”
+
+“A wha—?”
+
+Stu shoved Hn’tyon Asay-tor over the bench. He shrilled as he fell. The uniform made it harmless to his body. The Mother was here if he’d somehow gotten the only malfunctioning knight uniform ever made.
+
+“Look it up!” shouted Stu, as Asay hit the ground lightly. “It’s not a compliment!”
+
+He refused to let a single tear fall on the way back home.
+
+******
+
+******
+
+******
+
+“Victor, my dude! Look at you. You’re slimming down. Good cat.” The scarred orange cat gave Alden a perfect look of annoyance as Alden pulled him out of his carrier. “I missed you.”
+
+He’s thinking of biting me.
+
+Victor pressed his head into the back of Alden’s hand for a greeting. “Aw. Thank you. I’ve bought you so much stuff. You’re a rich man now.”
+
+“I see who you really wanted a visit from.”
+
+“You already got your hello, Aunt Connie.” Alden continued to pet his cat. She’d just arrived at the TC, and they were both surrounded by the things she’d brought. The antlers from the storage unit, Alden’s favorite giardiniera, a few presents, and whatever else she had in her bags.
+
+“My old computer?” he asked.
+
+“I’ve got it for you,” she said.
+
+“I really wanted my playlists off it. Thanks for hauling all of this with you. I’m sending you back with almost this much.”
+
+“It’s no trouble.” Her hair was in a ponytail. Her jeans were tucked into the soft boots that she’d said were only for around the house when she bought them a couple of years because they were too ugly for anywhere else.
+
+“Are you planning to walk down the aisle in those?”
+
+Connie looked at her feet. “I just might.”
+
+“Come on. We’ve only got the day together.”
+
+He’d thought a lot about it. There were so many things he could ask her. Or tell her. Arguments, apologies, and heart-to-hearts. “Let’s just have fun.”
+
+He put Victor back in the carrier.
+
+“I’m up for that,” Connie said cheerfully. “How’s your break been?”
+
+“Good.” He led the way toward the exit. “I ended up with more to think about and do than I expected, but yesterday I bummed around the apartment with Lute. Tried to learn to play the guitar…. How’s life with Brodie?”
+
+“I haven’t messed it up yet.”
+
+He thought she wasn’t quite joking.
+
+“I do get a lot of questions about you from his relatives. A superhuman’s more exciting than me.”
+
+“Says who? Those people don’t get any mac and cheese at the next family event.”
+
+“I brought you the recipe notebook,” she said. “You seemed interested in it, so I made myself copies of everything.”
+
+“You’re giving me the original?”
+
+“Your mom wrote on some of them. Mostly random notes like ‘half the butter’. There’s one that says ‘No onions for Alden’. I guess you didn’t like them when you were little.”
+
+Victor turned in his carrier, his tail briefly making an appearance through the bars.
+
+<<There’s a cat in there!>> a girl trotting by with her hand gripped in her mother’s exclaimed. <<Mom, that man has a cat!>>
+
+“You’re not going to mess it up, Aunt Connie,” said Alden.
+
+“We’ll see. I’m trying.”
+
+“I got a ritual fertility ember from an Artonan thing I went to. I’m supposed to bury it outside my future home.”
+
+“You got what?”
+
+******
+
+Lute and Connie hit it off within minutes. Before Alden had finished sorting through everything his aunt had brought him, Aulia Velra started catching insults from a woman she’d never met, and ownership of Lute’s Velra Christmas present—a gift basket stuffed with expensive art supplies—had been transferred to Brodie’s nieces.
+
+Alden thought that Lute could still use all of it without forgiving his mother and grandmother, but Lute disagreed. Yesterday, he’d been talking about Alden building a contraption with his skill to catapult the art stuff “as far as Rabbitly possible.” So this was a positive turn of events. The nieces getting to color with professional materials sounded better than Alden becoming the guy who rained hundreds of markers down on Apex.
+
+Alden’s own gift basket from Aulia had arrived along with Lute’s. It was full of premium event tickets he hadn’t bothered to look through yet.
+
+The girls came over for lunch. Supposedly it was to say hello to Connie, but the way they all rushed toward Alden’s room to baby Victor and offer him treats Natalie had made revealed their true intentions.
+
+“They used to come over to my intake apartment and have their fancy coffee drinks with him,” Alden explained to Lute.
+
+Victor had been sticking to the calm safety of the bedroom all morning, but he followed Natalie out, weaving around her ankles for ten minutes before he finally decided to start his exploration of the rest of the apartment.
+
+<<Are you worried about him?>> Emilija asked, probably noticing how often Alden’s eyes lingered on the cat.
+
+“I’m going to be gone. Sometimes. I don’t want to leave him in a new place if he hates it.”
+
+<<I’ll watch him whenever you want.>>
+
+“I volunteer to kitty sit,” Natalie said.
+
+“Our apartment allows pets,” said Hadiza.
+
+Victor leaped easily up onto the kitchen counter and started checking out the sink.
+
+“You hear that, Victor? You’ve got options. We’ll be all right no matter what comes up.”
+
+******
+
+Alden had to take his aunt back to the TC that night.
+
+She held onto him and demanded that he drive the nonagon like they were at a theme park. He managed to keep everything he was responsible for onboard. Her cell phone would never be seen again, though.
+
+“You okay, baby?” she asked later, standing in front of the departures hall with his arms around her. “This is a long hug, and your heart’s really going.”
+
+“Yeah, I’m okay.” He stepped back. “Final instructions! See how Boe’s present is in a bag that says ‘Happy New Years’? That’s because he can’t have it until then. Don’t give it to him early.”
+
+“I should be able to handle that much.”
+
+“Jeremy’s levitator discs are heavy. Have you—?”
+
+“I’ve got ‘em.”
+
+“You have to make an appointment and go in person to the Chicago House of Healing to pick up the first aid kit I ordered for you. You can’t send Brodie or somebody else.”
+
+“Another opportunity to meet that healer. Oh boy.”
+
+He managed a laugh. “You’ll survive her. What else did I need to…?”
+
+There was nothing.
+
+“Don’t worry about me,” he said. “Take good care of yourself. And…I love you.”
+
+“I love you, too, Alden.”  She reached out to touch his jacket. It was the custom one from Needle & Wheedle. He’d wanted to look nice today. “You grew up good.”
+
+“I’m still working on it.”
+
+She hesitated. “Sorry I wasn’t— ”
+
+“Don’t.” He grabbed her in another, quicker hug so that she wouldn’t. “I hope I get to see the wedding. If the timing doesn’t work out, for whatever reason, have a blast without me.”
+
+“Why wouldn’t it work out? We’re waiting on you.”
+
+“Right. But if something comes up…”
+
+He watched her leave.
+
+The Teleportation Center was full of people, but as soon as she disappeared from view it felt like he was alone in the building.
+
+That was it, he thought. Last thing on the list.
+
+The time had gone by so fast. Like he’d been facing Arjun only a moment ago, instead of five days.
+
+Stuart was expecting him to come over tomorrow. Noon Alden’s time would be around dawn at Rapport I.
+
+“I am okay,” he said under his breath as he turned to go.
+
+He was sure and also scared. He’d been sure and scared for days.
+
+Hoping for so much while trying to plan for scenarios in which his hopes were crushed was starting to take a toll.
+
+******
+
+“I like this cat,” Lute reported from where he lay sprawled on the sofa when Alden entered the apartment. “The vacuum dared to move. Victor attacked. Now, he’s with Ham.”
+
+The stuffed pig was on the floor, and Victor was curled up on its neck.
+
+“If you have any trouble with him while I’m gone, call Emilija.”
+
+“Victor, you’ll be trouble sometimes, won’t you?” Lute pointed at the cat and waited like he expected an answer.
+
+Then, he sat up to see Alden better. “You’re planning to be back after the Artonan weekend?”
+
+“I think so. I’ll try to call you if that changes.”
+
+“Sounds good.” Lute flopped back down.
+
+******
+
+Alden packed his luggage before bed that night. After he’d zipped the suitcase shut, he rubbed a finger over one of the patches Stuart had used to repair a ryeh-b’t bite, then he set the bag aside.
+
+He went to read over the notes he’d spent hours writing the day after Christmas. Each card was in a matching envelope with the recipient’s name on it. Boe’s was now in Chicago, tucked into the Happy New Years bag with the model caboose. Alden intended to call and tell him what it said before he ever read it, but just in case that couldn’t happen, it was a long letter.
+
+He’d kept his chats with Boe normal for the past few days. He hoped it wasn’t the worst way to go about things.
+
+The other envelopes were for Jeremy, Connie, and people here on Anesidora. His roommates. The girls. A couple of others. They all said personalized versions of, “Thanks for making my life better. If you’re reading this, I’m sorry I disappeared without any explanation. I’m making a choice that matters to me, so be happy for me and don’t worry.”
+
+Each one had an unassigned ten thousand argold NesiCard in it. The first person to use the card would become the owner. And there was one designated specifically for whomever ended up keeping Victor. For a lifetime of topnotch feline care.
+
+Alden looked forward to burning all of these notes and using the NesiCards himself. And he thought he would get to in most possible futures beyond the door.
+
+The notes are fine, he told himself. They’re done. It’s all done. Hide them in your closet where they won’t be found quickly, and go to bed. You want to have a functional brain tomorrow.
+
+Instead of listening to his own advice, he read through them twice more and spent too long moving them around to different hiding spots before he finally used one of the injectors Yenu-pezth had given him to knock himself out.
+
+He woke up at four in the morning anyway.
+
+******
+
+Alden told himself he needed rest. Patience. He just needed to pee, then go back to sleep, get up at a normal hour, and wait for the call to come.
+
+But he was sure that if the lights all went out in Apex right now they could just plug into him and power the island.
+
+He found Victor roaming the living room and bothered him for a little while. He opened the fridge to look at the three huge clusters of grapes he’d picked out for Stuart. They were still there. Being grapes.
+
+I’ll get dressed. That’ll take some time.
+
+He put on his favorite Artonan-style clothes as slowly as he could. It only took five minutes even with him fiddling with every piece as much as he could.
+
+He stood in the middle of his bedroom looking down at himself.
+
+I’m going to have a heart attack before noon.
+
+If Stuart’s still up, I can call and ask for an earlier teleport.
+
+Or…
+
+“Could…?” He swallowed. “Hey, for something like this…if I fly over to Matadero right now and step in an alcove, could you teleport me a few hours early?”
+
+He paused.
+
+“Mother.”
+
+He remembered how it had felt last time he’d asked for a teleport like this. Like he was trapped. Giving up. Losing.
+
+It didn’t feel like that now. Momentous, but not like that.
+
+“It’s so nice to hear from you, Alden.” The familiar, feminine voice spoke in his ear. “Did you have your heart set on a long, cold flight? We can do better for you.”
+
+“You answered.” Of course. She’d answered. “I don’t need to fly. Let me go get the grapes.”
+
+He scribbled a note for Lute about his early departure, took the grapes from the fridge, and headed back to his room.
+
+When he reached it, he stopped for a few seconds in front of the door.
+
+It’s all right. It’ll probably be all right. Even if it’s not, though…
+
+He stepped through and pulled the door behind him.
+
+Alden left it slightly cracked, in case Victor wanted to get into his room, but it felt like he closed it with a slam.
+
+He allowed himself to imagine all the others that must be slamming with it.
+
+He grabbed his messenger bag and his suitcase. Everything was gathered.
+
+“I’m ready.”
+
+Nobody saw Alden leave Earth. Nobody saw him arrive in Rapport I.
+
+But he hoped somebody would welcome him soon, here on the other side of the door.
+
+******

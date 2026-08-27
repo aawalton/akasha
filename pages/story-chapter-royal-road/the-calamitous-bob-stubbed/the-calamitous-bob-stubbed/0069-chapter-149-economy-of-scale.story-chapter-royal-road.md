@@ -1,0 +1,481 @@
+---
+id: de25be29-4d1a-5dfe-a614-ebac3c30d805
+page-type-slug: story-chapter-royal-road
+title: "Chapter 149: Economy of Scale"
+slug: 0069-chapter-149-economy-of-scale
+partOf: the-calamitous-bob-stubbed
+position: 69
+ownLength: 6254
+unit: words
+ownProgress: 6254
+publishedAt: 2024-01-19
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1487141/chapter-149-economy-of-scale"
+royalRoadId: "1487141"
+markedReadAt: "2026-06-29T21:17:10.672Z"
+---
+
+Radiant light filtered through the dome skylight. Aides had assembled long benches for the expected spectators. Viv had been offered a chair, thought it was too small and turned part of the dais into an eldritch horror of scales, tentacles and spikes blooming from a center in which she sat.
+
+She promptly stood up again and demanded a pillow, which was offered. Lady Azar stood by her side.
+
+“Would you not prefer to sit?” Viv asked.
+
+“Traditionally, an advisor stands by the side of a ruler’s throne. If you do not mind, however, then yes I would use the chair we prepared for you. Just make the throne a little higher so you dominate the room even while sitting.”
+
+“Sure thing.”
+
+Soon, Viv was ready. The One Hundred had a squad on hold as her personal guard though they were probably not even trained for it. It probably wouldn’t matter much. They were meant to stand around looking menacing and that was a task they excelled at. And besides, Solfis was here. He was worth a thousand men.
+
+“Right. We’re ready. Open the gates.”
+
+Hesitantly at first, citizens trailed in, some sitting in the benches after curtsying, others forming a line under the direction of a master of ceremony, actually one of Kazar’s original clerks. It took less than a minute for a queue to form though. Just as ordered, the first were bankers.
+
+Tom Manitaradin had been one of the first people Viv had met in Kazar. The impeccably dressed and styled man stood aloof, his assistant standing by his side holding a package. Viv gestured and he came up, bowing smoothly.
+
+“Greetings, Your Grace. Welcome back to Sinur’s Gate. As a representative of the Manipeleso Bank and Exchange, I would like to extend an invitation to discuss deeper matters of cooperation. However, I fear a public setting might not be the best place to do so. Would you consider joining me some time this week?”
+
+“It is a matter of some urgency,” Lady Azar whispered in Viv’s ear. “It relates to private loans given to our citizens and, to some extent, the throne.”
+
+“Wait, we’re indebted?” Viv asked.
+
+“Of course we are. I leveraged our finance to start several projects, including new ironworks and the renovation of the city. We’ll get our money back within a year. And this is not the time.”
+
+“Right.”
+
+Viv turned back to the banker who was still waiting with a winning smile, a smile that felt more predatorial the longer Viv looked.
+
+“Of course. Would tomorrow morning work?”
+
+“Fantastic. We will come here, unless you would prefer to visit our branch?”
+
+“Here is fine.”
+
+“Then we will reconvene at that time. In the meanwhile, please accept this Northern garment made for you as a gesture of our appreciation.”
+
+Tom bowed smartly and left, his sashaying assistant following closely behind. Viv checked the gift. It was a nice, close-fitting dress in black and white with golden filigree. Very nice, though she would let Solfis have a look at it before wearing it, of course.
+
+“It’s pretty good.”
+
+“Oh, they can afford it,” Lady Azar grumbled. “Although you keep a better relationship with them than most rulers I have ever met.”
+
+“Yeah we’ll see how long that lasts. Next?”
+
+The following petitioner was a farmer who begged for help finding his son, who’d never returned from a trip to the mountains. Irao surprised everybody by basically popping into existence and offering his services, which satisfied everybody. Then the parade began.
+
+The first to appear was an old man, rarities on a continent where war and monsters could always be counted on. He was, in fact, positively ancient. Those who reached that age usually had stats to back it up but he felt terribly weak to Viv’s mana perception. She frowned, then frowned even more when Azar facepalmed. Viv signaled for him to come forth and he did so, bowing stiffly until his mop of white hair almost touched the carpet. Snickers erupted in the assembly.
+
+“Your Graceship, I come to you because old Gogen she told me, she told me I couldn’t get into the kitchen and I said, I said, why your son can and he ain’t even a cook! He ain’t I know he because he’s a forrester down south near the the edge so I said to her—”
+
+Viv listened to the man rant without much structure for another minute during which the room grew gradually more amused. By the time the old man stopped to catch his breath after a particularly inflamed tirade on the character of local dogs, there were jeers and mutters everywhere. Finally, an opening for her to exploit.
+
+“Silence.”
+
+Viv decided to use leadership rather than intimidation this time and to make sure people got the message, she cast a colorless quiet on the entire assembly. There were no casters around so no one resisted. Citizens turned from hilarity to fear in an instant. She moved forward on her throne and pulled her wings out, finding she was more comfortable that way.
+
+The display of power and alienness served their purpose. In the ensuing calm, she leaned towards Azar who was now the very picture of controlled fury.
+
+“What the fuck was that.”
+
+“Crocus the senile. I specifically told the entrance guards not to let him through. When this is over, I will hang them from the ramparts by their feet.”
+
+“You can do that in your free time. For now I’d like to salvage my first official reception.”
+
+Viv returned her attention to Crocus who was waiting, a vacant expression painted on his face. He was drooling a little bit.
+
+“Right. This appears to have been a rather eventful morning for Crocus. Let a guard accompany him to the refectory so he can drink something hot, yes? Now.”
+
+The next person moved up in an atmosphere like a classroom after the usually gentle teacher had a screaming bout. He was a merchant offering scented candles, an expensive rarity since it required wax. Viv thanked him and sent him to her bioweapon division since they liked wasps and might be convinced to work on a less lethal, honey-making variant. The person after that was dressed in a long tatty mage robe with stars sewn on it, along with a hat that had seen better days. The hat had a large moon symbol on it, the magical glyph though it was incomplete. She feared another disaster and inspected him quickly.
+
+[Researcher: one who follows a path dedicated to the understanding of magical and natural laws.]
+
+“Your Grace, I beseech your help and patronage in one of the grandest endeavors of scientific discovery of this era, nay, of all eras, a tremendous work that will revolutionize the way we see the world! A ruler such as yourself—”
+
+“The short version, please.”
+
+“Yes, yes, of course. Forgive the theatrics and my excitement. My purpose is to prove… that Nyil… is a sphere.”
+
+“A sphere? The planet Nyil is a sphere?” Viv asked just to confirm.
+
+“Yes! Yes, a sphere. Not a flat surface as some have argued.”
+
+“One moment please.”
+
+Viv leaned towards Lady Azar.
+
+“What’s the consensus on this issue?”
+
+“It has been a matter of some debate among researchers, a question made more complicated by the, ah, lack of funding and ‘qualified’ personnel dedicated to such endeavors. Most centers of learning are more interested in how to stop the next monster invasion and how to cast better spells.”
+
+“I see. You there, how do you intend to proceed?”
+
+“By climbing the tallest mountain and taking precise measurements using a magical box I have, ahem, yet to develop, to demonstrate a curvature of the horizon over the Endless Sea.”
+
+“Right. Hmm.”
+
+Viv searched her memories. Was it… Eratosthenes who’d done it? Yeah. What was it again?
+
+“Right, errr, have you considered, hmmm, measuring the distance between two cities on the same meridian, that is the north south axis, then planting two perfectly vertical straight rods in the ground at noon on a summer solstice and measuring the respective angles made by the shadows, thus—”
+
+“Your Grace. You are assuming that the light of the sun comes to us as parallel rays.”
+
+He shook his head.
+
+“But it cannot be so, for it would imply that the sun is extremely far while we know that it cannot be so, this celestial body moving so much in the day and night cycle. Your Grace, you are clearly a person of great intellect but you should probably focus on magic and let me handle the science.”
+
+Someone coughed in their sleeves.
+
+Solfis would never let her live that down.
+
+“Right. We may consider helping you in your endeavor if you make yourself useful for our cause. I believe we have need of archivists?”
+
+“Yes, Your Grace,” the ‘mistress’ of ceremony replied. “Urgently so.”
+
+“You may obtain our support if you work for us. You will also be compensated, which will allow you to fund the expedition and research yourself.”
+
+“But… science suffers no delay,” the scientist replied, dejected.
+
+“It can most definitely suffer delays and difficulties,” Viv replied drily. “Help us and receive help, or do not. The choice is yours. Next?”
+
+The next three persons were fairly uneventful. One was a knight who offered his services, requesting land in return which Viv was only too happy to agree to. A local mayor requested assistance with his mana-conversion stone, something Rakan could have handled but the man had apparently not been aware of it. A smith requested more ores for his brand new smelter.
+
+“We will have to reopen our side of the mines. We have delayed long enough as it is.”
+
+Lady Azar nodded in support. Her expression soured when she saw the next visitor. It was a child. A girl, to be precise. hunched forward, eyes filled with scorn and teeth bared. She was also missing two fingers or her left hand. Practically feral. Viv had barely made a gesture when she spoke in a heavily accented Enorian drawl.
+
+“Ya know what I want. Give me my damn collar back!”
+
+Her vitriol was not aimed at Viv, at least not entirely, but to Lady Azar. The countess leaned towards Viv with obvious annoyance.
+
+“I have forbidden children from participating in those awful beastling hunts. It was getting absolutely unacceptable.”
+
+“The baldies can still do it, so why can’t I? Huh? At least give me back my stuff. You got not right to keep it.”
+
+“Why did you stop it?” Viv asked in a low voice. “Were there deaths?”
+
+“That girl lost her fingers because it was gnawed off by a beastling and still, she wants to get back to the fray? There were no deaths but there have been many wounded. The Hadal’s definition of ‘safe’ needs to be reconsidered! And do you know that they’ve burnt beastlings alive? And tortured them? Children have no limits. They must not be exposed to this level of savagery at a young age or they may bear the marks of those conflicts for their entire lives.”
+
+“The hadals keep doing it! How is that fair?”
+
+“Right,” Viv thought. “Hm. Perhaps beastling hunts should be codified rather than entirely banned. I’ll set a lower age limit and forbid the most heinous war crimes, including torture. No hazing either. Those who don’t want to participate will not have to.”
+
+“That’s always been like that! Raiders and builders and gatherers so we have grilled acorn pancakes! Until that harri—”
+
+Viv silenced the girl with a gesture and before she could fully insult her prime minister to her face. Although that was a French tradition, Nyil took a dimmer view on such things.
+
+“And what is it I hear about a pendant?”
+
+“Young Trill here gathered one made of pierced beastling canines, a grisly trophy I confiscated as it had no place in a civilized nation.”
+
+Viv had a quick glance at the bone abomination made by a civilized nation in order to off political rebels on the other side of a battlefield.
+
+“I will have to side with Trill here for two reasons. First, we have no laws against morbid prizes. If we did that would mean confiscating Solfis’s collection.”
+
+//Extremely inadvisable.
+
+“And second, we will have no ‘ex post facto’ laws here thank you very much. You can’t retroactively punish someone for hunting beastlings when it was not illegal to do so. Where is the necklace now?”
+
+Viv assumed it was destroyed but Lady Azar pushed out an answer between gritted teeth.
+
+“I gave it to the Temple for purification. They might have kept it.”
+
+“I’ll ask! Thanks,” Trill said, and she was off.
+
+During a short recess, Azar asked for a moment of privacy.
+
+“I just want to make sure we are on the same page. Is there a problem between us? Reversing my decisions weakens my position here,” she said.
+
+“There is no issue between us. I am applying Harrakan law in a rather… tolerant manner that may reflect my own culture. Rather, working as a kind ruler, strict ruler pair might help in the long run. We merely have to get more used to each other’s working methods.”
+
+Lady Azar nodded. Viv decided it was time to butter the old harpy up a little.
+
+“Look, I appreciate everything you’ve done so far enormously. I am still not sure why you are lending us your talents, I just appreciate that Harrak would not be the same place if you’d not held the fort while I turned part elemental.”
+
+“And I appreciate you listening to most advice with attention,” the old countess replied.
+
+She sighed, suddenly looking more approachable. More human rather than just the immaculate noble.
+
+“You were not my first choice, if I have to be honest. I tried advising my daughter and then a young up and coming duke fighting to reclaim his family’s past glory. They fought me at every step, curtailed what I could do until I felt that I was a dangerous rival to be hampered rather than a hand extended in friendship. I am still unsure as to why you, an outlander, tolerate me so much without constantly doubting my motives.”
+
+“I’m pretty sure you just love building a kingdom.”
+
+“Yes! Exactly! Is there a nobler accomplishment in this world? A more difficult one? I think not, and yet I will manage it not once but twice, Enttiku willing. So you do understand. Was that why you never doubted me?”
+
+“I do not doubt you because I know that if you have to choose between us and your daughter sitting on the throne of Baran, you won’t pick us. In the meanwhile, you’re possibly the best advisor on the continent so I’ll just count my blessings. And as to why I’m not afraid… Black mana elemental archmage? Between Arthur, Solfis and I, we have enough raw power to fend off pretty much any power grab anyone could attempt.”
+
+“No one will make a power grab,” Lady Azar said with absolute confidence. “No one can compete. It might come as a surprise to you so I will remind you of the obvious. Citizens find that being led by a proven spell-casting war leader with a dragon child and the loyalty of an ancient war machine is, in fact, rather ‘cool’. Much more so than some inbred idiot whose sole merit was being born in the right family. I would be much more concerned about foreign attacks if I were you.”
+
+“I’m working on it,” Viv grumbled.
+
+Trill didn’t return. The next supplicant asked for help after his field was ravaged during a battle between heavies and a large undead bear they had to put down. A brief discussion with Lady Azar confirmed that the state didn’t act as an insurance in case of an accident so Viv sent the man away, even reminding him that the bear would have done more than tear a field apart. She couldn’t afford to just say yes to everybody.
+
+The next woman came to the stand munching on what looked like a juicy apple.
+
+“Good morning, Your Grace.”
+
+“Do not talk to me with your mouth full.”
+
+“Oh sorry, the wait just made me hungry, haha.”
+
+Her mouth was still full.
+
+Viv eyed the nearest window. Solfis dutifully stood up to open it.
+
+“Wait wait wait sorry, Your Grace, I came to offer the results of my labor, those pila fruits. If you like them, I simply request assistance in setting a well near the orchard I intend to develop. Please.”
+
+“We need more water to feed all the new farms,” Azar explained. “There simply isn’t enough rain yet to let things grow. We have been digging wells left and right. It has not been enough. Many of the villages need regular supplies of water.”
+
+“It looks like I have Lana’s first job.”
+
+“A mage of her caliber might resent being tasked with such mundane work.”
+
+“You mean like me building obelisks left and right?”
+
+Azar nodded.
+
+“I will remind her that you lead by example.”
+
+More people followed after that but none as exciting. The visitors were either demanding compensation, advertising products or simply being sycophants. Others came to swear allegiance to her, mostly because their paths demanded it. Courtiers and knights both, they were an interesting mix of the desperate, the ambitious, and the stupid. One of the warriors offering his service was dying from an improperly healed heart that would need to be regrown and that was going to require finesse. Another was a courtier escaping forced marriage. Viv welcomed them all anyway. The only real surprise to Viv was the lack of request for judgment, except for Trill’s interruption. She prompted Azar on that topic.
+
+“I would like to remind you that Neriad is your Patron God and truce is within his purview. I have delegated the… judiciary work to them. Since they don’t pay taxes, they might as well make themselves useful.”
+
+“They know the laws of Harrak?”
+
+“Neriad’s churches always work with local law. The god of righteous battle tolerates differences in laws and customs, after all.”
+
+“Got it.”
+
+The flow of people only weakened as the sun came down. For a population of less than ten thousand souls, Harrak certainly had a lot of people come to visit, though Viv supposed there was a backlog. Nevertheless, the experience had made her more popular and given her the opportunity to put a finger on Harrak’s pulse. The ‘empire’ reminded her of her own country after the revolution, a place where the social structure was yet to become rigid and where the competent could carve themselves a path to success. A night council gave her the opportunity to give some orders, especially to the mages who had just settled in the various towers across the city. She wondered if there was a natural affinity between mages and towers.
+
+Abe wanted to work as a judge during the day, undead hunter the rest of the time and that was fine by Viv. The ladies were also open to building wells, fortifications, and helping reopen the mine. Weirdly, they thought doing so for people was more exciting than doing so for guilds. Viv hoped the novelty wouldn’t wear off too fast. Once those orders were given, however, came the problem of budget allocation.
+
+Saying mines should open was all well and good. Dispatching the mages was relatively cheap, just as encouraging people with mining skills to go there. Unfortunately, she still needed to hire an overseer, people to maintain barracks. The mine would need tools and supply trains to carry the ore to smelters. Fortunately, the treasury was doing well right now.
+
+“We expect a massive payout in fall, after the harvest. Plenty of new products such as mushrooms will be sent to the markets in Enoria and beyond, and we expect a large payout thanks to high black mana levels that make the goods both nourishing and resistant to corruption. Your portals have made a world of difference. Unfortunately, it is spring now. We have half a year before we reap those benefits and I still have to pay hundreds of soldiers, the staff, and possibly fund more urgent work. I borrowed from the bank at a competitive rate to make sure we would have enough coin to face all the spendings with some leeway. As soon as the harvest is completed, we will be doing quite well.”
+
+“Yes we have quite the bloated military. How is that holding up?”
+
+“They have some frankly incredibly low pay considering their quality. We are doing fine because they have full rights to what they find in the deadlands, and also because the yries provide most of our supplies against regular food deliveries. The crux of the matter is that we are growing fast but we need to watch out not to develop too fast and invest too much or we will go bankrupt. Hence the importance of tomorrow’s meeting.”
+
+Viv considered the question. Lady Azar didn’t know it but Viv was rich. Really rich. Between the limb regrowth pay, the cores she found in Elunath’s mansion and what she’d accrued before, her fortune was over a thousand and a half gold talents. That was absolutely massive, and the Manipeleso bank held most of it in reserve. By contrast, the crown owed six hundred gold talents to be repaid over two years while Harrak as a whole owed close to five thousand.
+
+There was something to explore there.
+
+Viv ended the council quite late. This had been a busy day. There would be more like that before things settled.
+
+Viv found herself missing her practice with Abe. Magic was now an integral part of her life. By comparison, ruling felt more like a means to an end. It was interesting and necessary. It just felt more like a job. She just hoped things wouldn’t get too interesting too fast.
+
+She sighed, looking out of the window of her new palace.
+
+“Fuck it.”
+
+Viv flew to the farmer’s field, the one she had denied during the day. She turned the corpse of the large undead bear to ash, repaired the collapsed walls using the change meaning then draining the black mana out. Once she was done, most of the damage was cleaned up. There was only a demolished shed left to rebuild. She headed back feeling much better.
+
+That night, Viv invited Sidjin to her brand new bedroom for some relaxing fun together. She had the bankers accompany her the next morning over breakfast, which was provided by Gogen the cleaner and her army of cooks, maids, servants, and warehousemen. Somehow, the old woman had put herself in charge of everything and no one had bothered to stop her. That was fine by Viv.
+
+***
+
+“This dress really suits you,” Tom said with pleasure as he sat at the breakfast table.
+
+His assistant did the same, then a servant came with plates of wraps, fresh bread, fruit, and monster meat in cold cuts. Viv helped herself to a cup of kava then sat back. Tom was right. The northern dress fit her like a glove now that she was mostly back to normal, the shoulder paddings giving her a regal profile.
+
+It was Viv, Tom, his assistant Lan and Lady Azar in the small room midway up the tower. The sun shone on green fields rife with opportunity. From the window, they could not see what was left of the deadlands so the vista was only hope and profit, not the daunting prospect of decades of relentless effort.
+
+Tom started with small talk and Viv obliged. She was in no hurry to get to the heart of the matter on an empty stomach. Tom’s delay soon proved to be a tactic, however. The opening salvo of the business discussion proved immediately deadly.
+
+“Lady Viv. Your Grace. I would like to inform you that as of now, Harrak and its citizens are indebted to the Manipeleso Bank and Exchange for an amount of two thousand five hundred and sixty gold talents.”
+
+Viv froze with a fruit halfway between her lips. She put it down back onto her plate.
+
+“I’m sorry?”
+
+“This includes private citizens and quite a few new ventures ranging from tanners and ore smelters to tailors and even a luthier. Nevertheless, our exposure has reached a critical level and my administration wishes to make sure the funds are well allocated. And that the projects of private individuals bear fruit. As such, we would like to make a few mutually beneficial arrangements. Please take your time to consider them… carefully,” he said with a soft voice.
+
+Lan produced a nice, white paper with a short list on it. Viv knew what was going on even though Tom refrained from using any social skill on her. A written proposal was always more impersonal than a voiced one, thus making offensive content slightly less likely to cause the offended party to blow up in one’s face. Viv went down the list.
+
+The bank wanted to put Harrak under tutelage.
+
+Oh, they voiced it nicely but that was it. Tom would be named finance minister along with a list of executive powers including the ability to veto budgets. There were a list of other measures including production restrictions on illegal goods, something that she didn’t intend to do anyway. The Manipeleso bank would also retain a monopoly over Harrak to ‘make sure the citizens do not get into too much debt by double dipping’. It was as ballsy as it was vile. From the way Tom’s aura pulsed, she could tell he was terrified though calming by the minute since Viv had not killed him yet. And she wouldn’t.
+
+When a duke defaulted on another bank, the bank risked a collapse. When a duke defaulted on the Manipeleso bank, those fuckers sent hit squads. That was why they’d endured for so long on a continent ravaged by wars and monster tides. Viv had no doubt she could survive most assassination attempts. Her people, however, could not, and that was before mentioning sabotage. She had much to lose and nothing to gain by opposing them directly. On the other hand, they could not be allowed all the conditions or they would simply push Harrak so long as it was profitable, all while milking them for every iron bit they could reasonably squeeze. Viv would never allow it.
+
+“Failing that, I fear that I am no longer allowed to extend new loans. You understand, I am sure.”
+
+Viv understood that investments would stop. Refugees would find themselves without the resources granted to those that came before. Many new projects would need an extension, or some more cash, and they would not find it.
+
+Unless, of course, it came from Viv’s pocket.
+
+Branches didn’t have a unified accounting system because there was nothing like the internet here on Nyil. For most branches, it didn’t matter since transactions mostly took place between members of the same country. Or the same guild. Viv had traveled a lot and she had become fabulously rich… on the other side of the continent. Tom might simply have underestimated how much money she had saved. Or he believed that she could last one season but no more.
+
+It was quite likely that he expected her to negotiate the political cost down, hence why the initial offering was on the outrageous side of things. He would concede several points, calming her anger while still getting what he wanted.
+
+There was one way to deal with the situation that didn’t involve becoming adversarial: delay, counter, change the situation. After all, the bank had been quite useful so far and she was more than happy to poach Tom’s skills for her own cause.
+
+“This is a very serious decision. I would like some time for thoughts before I come to a decision.”
+
+“We understand, of course.”
+
+The bankers stood, dismissed.
+
+“Oh, one last thing,” Viv asked. “I’d like a withdrawal. All I have except for a hundred talents. That’s the limit for the VIP account, yes?”
+
+“Why yes,” Tom replied with pinched lips. “Just be aware that it might take some time if the amount goes beyond two hundred gold talents. I will be contacting Helock then?”
+
+Viv was pretty sure, from Tom’s face, that it was an expensive endeavor.
+
+“Yes, please.”
+
+“Very well then. Goodbye.”
+
+Viv spent the rest of the morning visiting Solar, whose son was all small and chubby. The blade master seemed relaxed and happy now that he has less responsibilities and Viv noticed he was carving toy swords of increasing length so he would have something to play with.
+
+“I have not forgotten the blade, mind you, and I still take students among your most dedicated soldiers. You will find quite a few experts among the Hightree company. I merely wish to take a more contemplative approach to what it means to cut, now that I am back at the summit of my skill.”
+
+“And still modest,” Viv smiled.
+
+“Throw a spell at me,” Solar said with a smile as he stood away from the wall where they rested, his cup of klod left there.
+
+“You sure?”
+
+“Nothing too bad. A push spell perhaps?”
+
+“Sure.”
+
+Viv weaved a colorless kinetic spell that would send Solar sprawling ass first into a nearby ditch. She hurled it at his chest.
+
+The blademaster lifted his hand, palm open, then made a cutting motion. It was a simple gesture, smooth and slow. His entire body followed as if moving a great weight.
+
+Viv’s spell burst apart. She felt the strands break, cleanly sliced by something incredibly sharp.
+
+“Oh wow.”
+
+“Yes. I am on the verge of understanding, and I partly owe it to you. Thank you for not pushing us away. And for not pressuring us into service all the time.”
+
+“We have quite a few people who come here hoping to live a normal life.”
+
+“Like the hadals,” Solar agreed. “I spar with Irao on occasion. A good man, if a little strange. The last time we met, we fought without exchanging a word for an afternoon straight. He left me a lake fish afterward. We had soup. It was nice.”
+
+“A lake?”
+
+“In the forest, I would presume.”
+
+Viv left shortly after that. When she returned to the city, the bank had left her over three hundred talents in gold as well as a request for a delay while they gathered more metal from nearby branches. Viv snickered at the thought. She grabbed the chest and walked out of Sinur’s Gate, making her way down the path and greeting citizens on the way. She stopped around halfway, where a small fort had been turned into a guard station. Next to them, what used to be sheer rock now showed the opening of a grotto, the entrance like a gaping maw in the surface of the cliff. Trill stood around with a cudgel hanging from the hip.
+
+“No entry till the boss lady says you cawawawawawawa—”
+
+Viv dragged the tiny guard by the ear until they were eye to emerald star in an endless void.
+
+“I appreciate bluffing as well as any politician but I do believe you’re pushing it. Why are you not training to be a witchpact?”
+
+“Poacher says I’m too small!”
+
+“Hmm. I’ll ask for a derogation if only so that you stop aggravating everybody. A word of advice, attitude can only carry you so far.”
+
+Viv left the pipsqueak behind. A main cavern extended in front of her with a passage to the left. Enchanted light bathed the place in a reddish glow. She followed the path to a smaller room. It was split in half by a large stone desk. In front of that desk sat a middle-aged couple showing hope and terror in equal measure, and behind that desk, was Arthur.
+
+Mother!
+
+I was finishing my agreement with mister and missus Telus.
+
+Their business plan is sound and the plot they have selected appears suitable.
+
+All that is left to do is to sign the contract.
+
+I was explaining the finer details of loan repayment.
+
+“The northern bank. They refused me plan,” the man explained fearfully while his wife huddled against him.
+
+“The dragon lady said she’d help us. We’ll work hard, we promise!” she said.
+
+Yes.
+
+Sign here if you are ready.
+
+Arthur pulled the stopper off an ink bottle. A black bubble levitated over a piece of parchment, then, with careful gestures, Arthur directed it to form letters until a contract was drawn. She repeated the terms and Viv saw that the contract was exactly as advertised. The dragoness believed in the importance of reputation.
+
+“Do… do I sign with my blood?”
+
+Arthur’s tail whipped left and right. Viv could tell she was annoyed.
+
+No.
+
+You sign with the ink and feather I have provided.
+
+If you cannot write, a print of your thumb will do.
+
+“Alright!”
+
+The man pressed a calloused finger to the paper, sealing the deal. They left with a small pouch of gold provided by Arthur. Once they were gone, the appearance of confidence disappeared from the dragon and she bounced around the cavern.
+
+My first loan!
+
+It worked!
+
+Now the humans will toil and give me gold every year, more gold than I gave them…
+
+And I do not have to lift a wing!
+
+I checked everything, even the market price of the tubers they plan on growing for the past five years.
+
+And if there is a flood or a draught, I will help them with my magic.
+
+It will work, yes?
+
+“I hope so. By the way, I believe a few changes to your den might be appropriate.”
+
+Too intimidating?
+
+“No, not grandiose enough. Where are the pillars? Where is the name of the bank written over the entrance in bold letters? You need to see things bigger.”
+
+Yesssssss.
+
+I will do as you say, mother.
+
+Let the humans know I am in business.
+
+“Speaking of, the Manipeleso is trying to strong arm me into giving them unfair terms.”
+
+Mother warned me against monopolistic practices done by someone else.
+
+“Yes. They are relying on two things. First, that we do not have enough gold to avoid defaulting without them, and second, that no one would have the courage to undermine them once they have clearly stated their claim. After all, they do have assassins.”
+
+Arthur stood on her hind legs. Her wings opened, two white standards on a field of black stone. The temperature inside the cave increased while a low rumble shook the very walls. Viv saw mana and matter bend around the young dragon in waves, ready to obey her command.
+
+They can try.
+
+“Yes, my point exactly. I believe the time has come to shake that monopoly a little. I need better terms. Now, I know you are good at this and we are both taking a risk but I have faith in you, and I believe this is a risk worth taking. So…”
+
+Viv placed her chest on the desk. It opened, revealing a familiar shine that reflected in Arthur’s crimson iris.
+
+“I’d like to make a deposit.”
+
+By the time Viv left, the simple entrance had turned into a marvel of Cthonian design proudly advertising the Golden Scale Bank, and people had lined up for new job openings.
+
+The next morning, Tom came to visit again. He was much more direct than the day before.
+
+“Well, congratulations. I’ve never seen the Elders backtrack so fast on any project. We will have a new offer ready by tomorrow, so bear with us in the meantime. Of course, we would still want some concessions before we keep taking risks, however I believe you will find the terms much more generous.”
+
+“I hope you are not too disappointed, Tom. I would still love to employ your services as an advisor.”
+
+“And I believe I will gratefully accept. I expected you would hold a grudge, to be honest.”
+
+“I can hardly blame a member of a family for showing loyalty to that family. That plan was the Elders’?”
+
+“Yes. They wanted to capitalize on your temporary vulnerability.”
+
+“And the bank sending me money just as we fled Kazar for the iron mines three years ago?”
+
+“That was my own initiative. For the record, I disapproved of the grab because I fully expected you to find a way to throw us off. I honestly believed you would use your golem’s memories to dig up yet another treasure.”
+
+“Oh I’ll do that as well. It’s just time-consuming.”
+
+“Yes. I also found it easier to convince the Elders by mentioning your track record. You left… a very strong impression in Helock. You have proven to be a faithful ally and a calamitous adversary.”
+
+“Finally, people are learning.”
+
+“Why yes, though I expect some will need a reminder. Not us, though. And with this, I must bid you goodbye. I fear the next few days will be quite busy.”
+
+Viv accompanied Tom back. She didn’t mind having two banks compete, even though she had a vested interest in the success of one of them. For now, Harrak was stable and growing. Her next two big projects would be turning her forces into a coherent army and coronation, but first, there was an urgent task that needed completing.
+
+Viv sighed.
+
+She had to go clear the sewers.

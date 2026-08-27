@@ -1,0 +1,533 @@
+---
+id: aa3de3ee-d407-59f6-9816-7c7ee14e31b6
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-ONE:  Event Planning Isn't Hard"
+slug: 0173-one-hundred-seventy-one-event-planning-isn-t-hard
+partOf: super-supportive
+position: 173
+ownLength: 6434
+unit: words
+publishedAt: 2024-09-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1820869/one-hundred-seventy-one-event-planning-isnt-hard"
+royalRoadId: "1820869"
+---
+
+171
+
+******
+
+Maybe I’ve found my true calling, thought Alden. He was sitting in the cafeteria at the table he’d helped clear dishes from. His tablet was in front of him, and he was adding Bobby’s name to the list of people who wanted to donate food. Event planning isn’t that hard.
+
+Because he’d told Kabir he would take care of informing the generals, he’d sent a message to Drusi-otta earlier, asking her if it was all right to offer Esh-erdi and Lind-otta food gifted by humans who weren’t the official Matadero chef. Alden couldn’t bring himself to call Esh-erdi personally about it. “Are you too important to be in the presence of food made by people without a culinary degree?” was a bizarre distraction of a question, so…votary.
+
+Not an assassin. One trip to a Rapport sure could reframe a lot of things.
+
+He’d also updated the votary on his planned movements to and from Matadero today, since the last he’d heard she was still monitoring him when he left.
+
+Drusi-otta, with her typical brevity, had thanked him and told him that the dishes presented at the day’s second meal were not something the knights considered at length.
+
+Maybe they’ll consider these at length in a good way, though. It looks like it could be a great meal.
+
+He sent a text to Haoyu, telling him to expect his personal trainer to show up at the dorm bearing a cucumber salad. Alden had been sending most of the Apex residents there to drop off their donations.
+
+The hardest part of each phone call was the beginning, when he covered why and how he’d ended up at Matadero planning a Thanksgiving dinner. But he’d mastered it now. The trick was to say, “It’s not really Matadero, only the cafeteria at Matadero.”
+
+And everyone seemed willing to let it slide even if they were still confused.
+
+“People are so helpful,” he said, admiring some of the first entries on the list.
+
+Natalie: magic turkey
+
+Zhang-Demirs: stuffed peppers
+
+Molly: blackberry cobbler
+
+Gustavo: feijoada
+
+Gretchen: shortbread bars
+
+And Kabir had just scored them a small flock of Peking ducks from a friend’s restaurant.
+
+“The entree table will look good with those in a circle around the turkey,” said Alden.
+
+Kabir nodded absently. He was muttering and counting on his fingers. “I think we have plenty now. It’s a good mix of main courses and sweets,” he said when he finished. “For pickups—”
+
+“I’ve told people in F to take their dishes to the TC for the batch teleport that’s scheduled for 7:45 p.m.,” Alden said promptly. “I’ll be picking up the Apex food and the turkey around then, too. After I’ve eaten dinner with my friends. I’ll be back here with it all in time…just a second, someone’s calling.”
+
+He looked at the name. Jeffy? What does he want?
+
+“Hey, Jeffy,” he said as soon as the Aqua Brute’s image appeared, floating in front of his eyes. “What’s—?”
+
+“Do Artonans like jalapeño or maple smoke better?” Jeffy was standing in the Apex Wright shop, beside one of the impulse item bins, holding up two bags of beef jerky.
+
+“Huh?” Alden stared at him. “I guess you heard about the thing I’m doing somehow. We’re good on food, though, and jerky isn’t—“
+
+“Hey!” Jeffy dove toward the jerky display, and it shook violently. “Oops. But look. They have turkey jerky, too!”
+
+He waved another bag eagerly at Alden.
+
+Alden hadn’t called everyone he knew to request food. He’d focused on adults and the classmates he got along with who had Avowed parents. Mature people with access to full kitchens had been the goal, and since enough of them had said yes, he hadn’t had to resort to asking all of his peers for help.
+
+How did the news filter to Jeffy already? he wondered.
+
+No reason to reject him when he looked so excited, though. Alden could just leave the jerky in the kitchen instead of putting it on the feast table. Some wizard looking for snacks might find it later and appreciate it.
+
+“Okay. Just don’t get too much,” he said. “You need to put like twelve of those packs you just grabbed back. And you can take the rest to Haoyu at the dorm. I’m asking him to collect the food in one spot, so that I don’t have to fly all over the island.”
+
+“I could run all over the island and get stuff for you,” said Jeffy.
+
+You still aren’t licensed to run on the highways.
+
+“No, that’s not necessary. The plan is set. Just take your jerky to Haoyu, and I’ll go get it myself. Thanks.”
+
+Jeffy nodded. “I’ll see you there! I need to ask you about talent selection.”
+
+“Your own talent selection?” Alden asked. “You haven’t done it yet?”
+
+He hadn’t realized that. He’d assumed Jeffy had accepted something that looked fun as soon as the System offered.
+
+“The teachers all told me to wait until they’d advised me, but now I’ve let them advise me. And I don’t think they really get me, you know? So I’m asking everyone else.”
+
+“It’s important that you like what you choose,” Alden said. “We can talk about it. Maybe not today, but soon.”
+
+“It’s cool that you’re the Thanksgiving man for Matadero now,” said Jeffy.
+
+A woman wheeling bags of something called “instant steel” on one of the shop’s heavy-mover carts turned to stare at him.
+
+“Let’s not mention the cube loud enough for the entire island to hear,” Alden said.
+
+“Sorry,” Jeffy whispered. “Is it a surprise party?”
+
+When Alden had finished with him, he refocused on Kabir, who’d stood up from the table but failed to make it more than two steps before he received another call of his own.
+
+“With the dry ice it should be fine,” he was saying. “All right. Thanks. We’ll take care of it when it reaches us. I’m sure they’ll appreciate it.”
+
+He scratched the back of his neck and turned to Alden. “That was an ice cream parlor in Rosa Grove. They’re donating, too. We don’t need it, but I couldn’t tell them no. The woman who runs it wanted to thank the generals for saving her parents’ apartment.”
+
+“That’s awesome.”
+
+Kabir was still frowning. “I should text everyone and let them know we’ve got enough now. I’m not sure how the ice cream parlor woman found out. She said someone named Larry had just called her. I don’t think I know a Larry.”
+
+“That’s funny,” said Alden. “My friend who just called must have heard about it from someone else, too. I wasn’t even planning on asking him for anyth—”
+
+[Jupiter:  Don’t worry, Alden. The cornucopia will be ready in time. I got permission to skip a class, so I could make it.]
+
+Alden re-read the text. He’d told the System to send all messages directly to his interface, so that he wouldn’t miss anything from the people he’d called.
+
+Jupiter wasn’t one of the people he’d called.
+
+What cornucopia? What are they doing?
+
+“We’d definitely better let everyone know we’re through now,” he agreed. “I didn’t tell people to spread the news, but there’s obviously been a leak or two.”
+
+Kabir nodded. “Yes. I’ll…and there’s another one. Let me answer it.
+
+<<Hello? We’re done accepting…sushi probably would be refreshing, but we have plenty to feed the wizards alrea—yes. Yes, I understand. Someone named Korev-alm?>> He sighed. <<If I see them I’ll tell them you sent it. Yes, take it to the TC…oh, you already know that. How? No! No, don’t tell your neighbors! We’ve got plenty.”
+
+While Kabir talked the sushi donator down from informing the neighborhood, Alden quickly sent a mass text out to everyone he’d spoken to, telling them that the Matadero Potluck was now full. No need to get more people involved. And please let everyone they’d told know the same thing.
+
+[Jeffy:  OK. I got the maple smoke, too.]
+
+[Everly:  I’ll make sure my parents know.]
+
+[Astrid:  My mother is making meatballs.]
+
+[Haoyu:  Someone just sent a pizza to our room.]
+
+[Astrid:  Should I tell her to stop?]
+
+[Haoyu:  There’s not even a name. It just has a pepperoni smiley face on top.]
+
+[Haoyu:  I’ll call the restaurant and ask who it’s from.]
+
+“It’s only been an hour since we called the first people,” Alden said, trying to mental text answers to everyone who needed them. “Everyone must have a lot of pent-up gratitude.”
+
+Kabir’s face was pained. “Not all of them. Someone who owns the restaurant next door to one of the ones I called is asking me how many of the Artonans are here to make employment offers and if I could put in a word for him after they eat his burgers.”
+
+Alden sat up straighter. “The burger maker has the wrong attitude. If there’s way too much food, the burgers get frozen and eaten months from now when the next demon slaughter day happens.”
+
+“Shhh…why would you say that?!” Kabir stared at him in horror. “Don’t remind me what this place is!”
+
+“Right. Sorry.”
+
+[Liam: Alden, Tina’s taking lemon bars to your dorm later. Is Candy Corny there?]
+
+[General Esh-erdi is snakesitting right now,] Alden texted back.
+
+“We’ve definitely got enough now,” he said aloud. “By the time the ‘stop’ message gets around it might be slightly ridiculous. But it’s fine. The TC stuff will all just arrive downstairs like a normal supply order.”
+
+“There’s nothing normal about picking up groceries from a deep, dark basement covered in signs letting you know it could be flooded at a moment’s notice.”
+
+Alden didn’t point out that the teleportation room was only deep. It was as well-lit as the rest of Matadero, and nothing down on that floor resembled a basement.
+
+[Haoyu:  The pizza sender is anonymous. Lexi says anonymous food is too suspicious to feed to wizards. He says I’d better tell you that since your judgement about anonymous food and wizards is off.]
+
+“Hey!” Alden said, affronted. “My judgement of both is just fine, Lexi.”
+
+******
+
+When ten minutes had passed with no more calls or texts from his half of the potluck volunteers, Alden left Kabir arguing with someone who was insisting that the Artonans needed a cheese course.
+
+He went to the kitchen to find out if they had the ingredients for the dish he hoped to contribute to this dinner as well as Natalie’s. He searched through the fridges and freezers.
+
+Corn, peppers, no lima beans. Can I just use canned beans of some kind?
+
+In the storeroom, he stared at the jumbo cans. Some of them were new and familiar, but most of them had black labeling in multiple languages, with no brand names. They were stacked on shelves made of stone that glowed a little when Alden touched them.
+
+I hope they didn’t can all of this in the 60’s and just leave it here. But it sure looks like they might have canned all of this in the 60’s and left it here.
+
+Maybe I shouldn’t bother cooking, after all. Everyone else’s dish is going to be better, and I want to take my time and make it exactly right the first time I try it.
+
+On the other hand, didn’t taking a person’s turkey obligate you to add food to their table even more?
+
+He checked the time on his interface. Natalie’s dinner was starting at 6:30 p.m. and continuing until everyone left. Alden didn’t have to show up on the dot. And the recipe was only supposed to take 45 minutes according to his grandmother’s note at the top.
+
+Connie’s cooking from the family cookbook.
+
+He didn’t know why the thought kept crossing his mind. The angry, lost feeling from a few days ago was gone mostly.
+
+I just want to do it, I guess. A little family thing on the family day. Nothing wrong with that.
+
+Drusi-otta was fine with him leaving the cube. Grocery shopping would take a while, but if he flew fast…oh, I could do that!
+
+“System, call Dragon Rabbit.”
+
+A near-instant pickup. Voice only of course. “Alden, this is Dragon Rabbit. You need things. I get them for you.”
+
+The familiar greeting had Alden grinning at a can of probably-ancient evaporated milk.
+
+“Dragon Rabbit! I’m glad you survived all of this stuff. Can you deliver fresh lima beans to the ocean?”
+
+There was a pause. “You want me to throw them in?”
+
+******
+
+Alden and The Nine-edged Son Whose Own Mother Forsakes Him arrived at the delivery point a few minutes ahead of schedule. He decided to use his time wisely, by lying on his back in the sun, watching videos of guys using slings. He needed some offensive options for duels, and Luna Plim had mentioned slings. They were probably more practical than Alden’s desire to put something enormous on the end of his string and then smash it around like a hammer.
+
+I’ll try that too, though. And probably dislocate my arms.
+
+The man on the current video—a hobbyist who studied historical weaponry—launched a small rock toward a milk jug and missed for the fifteenth time.
+
+It was obviously hard to aim, and it became even harder to aim when your sling was longer.
+
+But Alden wouldn’t actually have to deal with that problem to the same degree. Especially if he was imagining his projectile and his sling rope as a single object.
+
+I should be able to spin it then preserve it in a couple of different ways. Even before the start of a fight. Then, I launch the rock or temper sphere when the attacker is close, and I’m sure I won’t miss.
+
+Practice would be necessary, and he was sure there would be some wrinkles. But he should at least be able to learn from it. More importantly, if he practiced offense instead of defense versus heavy hitters like Marsha, he wouldn’t exhaust his skill even if he lost the battle. He’d be able to keep going for the next one.
+
+I’ll start trying it out on people I can’t possibly defend against, he decided. I still think my plan yesterday might have worked on Reinhard, though.
+
+Dragon Rabbit’s delivery drone arrived right on time. It was a large green one with a crown of propellers overhead and fangs painted on its bulbous nose. Alden stood up to greet it and gave it plenty of room to drop the soft-sided cooler bag it was carrying. But it kept circling overhead, propellers buzzing, apparently bewildered by the nonagon.
+
+“Right here, dude,” said Alden, pointing at the nonagon’s surface. “No, not like that. Don’t go under me.”
+
+He spun the driving ring on his finger and flew a few feet higher. “Come here. Put the delivery on this. On top of this.”
+
+The drone flew up again and hovered. Its lights flashed. “Please clear the deck of your ship for delivery.”
+
+It had a voice that Alden thought was supposed to be sultry.
+
+Of all the choices…
+
+“The deck is clear. To get it any clearer, I’d have to jump off.”
+
+He thought he was lucky not to have a brand new case of thalassophobia after what had happened. But he still didn’t feel like going for a cold swim.
+
+“Please clear the deck. I want to deliver your parcel,” the drone said.
+
+“If someone were here to entrust me with you, I’d…System, call Dragon Rabbit again.”
+
+Another instant pickup. “Is something wrong with your vegetables?”
+
+“They’re being held captive by a drone with a weird voice.”
+
+“I can fix that.”
+
+A minute later, the drone had been remote piloted into position. It lowered the cooler onto the nonagon across from Alden, along with a surprise t-shirt in a plastic bag. As it flew away, Alden examined his repeat customer reward.
+
+The bunny-eared dragon lounging on its mound of luxury goods was cute as far as advertising went, but he couldn’t help wondering how much mental effort Stuart would expend trying to interpret the shirt if he ever saw Alden wearing it.
+
+He opened the cooler and found the lima beans, with ice packs, plus the specific variety of onions his grandmother had recommended and a smoked spice blend that was supposed to be a good substitute for the bacon flavor.
+
+He smiled. I get to eat something my mom probably ate, with almost all the right stuff in it.
+
+He was still feeling pleased with how well his day was going by the time he made it back to the kitchen. Kabir was absent, but the radio station the chef liked was turned up again, and he’d dug out white tablecloths from somewhere.
+
+Matadero really does have almost everything if you look hard enough.
+
+Couldn’t expect people to fight and then eat at a naked table.
+
+Alden found an appropriately sized pot, figured out the stove, and congratulated himself on starting the water boiling process without any mishaps.
+
+He read the recipe again.
+
+Measure everything in advance, he decided. No mistakes.
+
+He was looking through drawers and in cabinets, trying to find the measuring spoons, when Kabir returned, carrying an impressive tower of coolers and boxes. One giant takeout bag started to slide as he came into the kitchen, and Alden jumped toward him to grab it.
+
+“What’s all this?” he asked.
+
+It wasn’t time for the TC to send over a delivery yet.
+
+Once Alden set down the bag and grabbed a box full of aluminum pans covered in foil from the next level of the tower, Kabir’s face was revealed. He looked worried.
+
+Slowly, he said, “We may have misjudged…some things.”
+
+“What do you mean?”
+
+“The TC called,” said Kabir. “They wanted to know if it was all right to send the food that had already arrived, since they were worried about the staff at the teleshipping area getting overwhelmed with packages.”
+
+“Must be a busy day,” said Alden.
+
+Kabir grimaced at him. “I think they were saying that we are the busy day.”
+
+“Come on. We can’t be contributing that much to their load. Even if they’re having to run it all through extra security checks or…are these candles?”
+
+He stared at the next box. The top was taped, but the label said it contained “Special Occasion Candles—Autumn Evening Picnic Set—Made by Wrightwax Studio.”
+
+“You got decorations, too?” he asked.
+
+“I didn’t,” said Kabir.
+
+“Then these are…”
+
+“I didn’t ask for most of the things downstairs. There are buckets full of pickles. Who needs that many pickles? We aren’t starting a deli. And people keep calling me to ask if I’ll be sure to put their restaurant’s name on the food.”
+
+“But you called everyone and told them we were good,” Alden said. “Did they not pass that on? I haven’t gotten any messages from my friends, so I don’t think it’s still leaking on my end.”
+
+Surely if teenagers could chill out and control their urge to gossip, then adults should be able to. He looked at the lima beans waiting to go into their pot and the onions sitting beside the cutting board.
+
+“I’ll come help you clear the teleportation room.” He grabbed a couple of the tablecloths. “I can haul a lot of stuff at once if we put it in these. And maybe you can call all of these places and tell them to cease and desist?”
+
+“It’s gone too far,” Kabir said. Instead of panicking, he now sounded gloomy. “There’s nothing we can do but accept our fates.”
+
+“I think you’re being a little…never mind. We’ve got this. It’s going to be fun.” He clapped the chef on the shoulder. “Let’s go collect some Thanksgiving!”
+
+******
+
+We don’t got this, Alden thought a few minutes later, blinking in mute fascination at the room full of donations. We don’t got this. Too much Thanksgiving. Abort.
+
+The Matadero teleportation chamber smelled like twenty kinds of takeout, and it looked like a post office had crashed into a food court. He waded through it all, trying to beat down the growing, nervous worry that he might have screwed up somehow.
+
+“I mean it’s food.” His eyes landed on a stack of plates that looked like they might be hand-painted. “It’s mostly food. Food can always be eaten later…are those French fries?!  That bag says French Fry Truck! French fries are gross left over. Why would anyone—no. No, it’s fine. All we have to do is take all of this upstairs and sort it. And you need to make sure it stops coming. And I will call my friends and make sure nothing weird is going on over there. We can handle twenty gallons of pickles. I have been mistaken for a pickle expert in the past. Long story. Let’s do this!”
+
+He spun around to give Kabir a high five of solidarity. He ended up standing there with his hand lifted awkwardly. Kabir was staring at a bag of croissants.
+
+“Let’s do this!” Alden said again. “We’ve got hours still. Teamwork!”
+
+He started making a clear spot on the floor to spread out his tablecloths. No problem. No sweat. Gratitude is great, and the fish can have the French fries.
+
+“The wizards are going to be really surprised when they see everything,” he said.
+
+What if they’re surprised in a bad way?
+
+“They’re going to be really surprised in a good way!”
+
+Arguing with my own inner voice is healthy.
+
+“Don’t you think you’re overloading the tablecloth?” Kabir asked, finally pulling himself away from contemplating the bakery bag.  “I don’t know if shoving everything into a tablecloth sack will actually make it easier—”
+
+“Trust me! Carrying things is my thing. I can empty this room in two trips if I stack things right and put my mind to it.”
+
+Four trips later, he was crammed into the elevator with the last of it. Kabir had been left upstairs to unpackage and sort. Alden had a giant tablecloth sack gripped in both hands in front of him. A few things were probably getting more jostled than the creators had hoped they would be, and he was getting more of a workout than he’d expected since he’d been moving everything onto the tablecloth as fast as possible. But this was all fine.
+
+He smelled like seafood after accidentally spilling some kind of broth on himself, but that was fine, too.
+
+He called Haoyu, trusting that the System would do its job and block out the background if the elevator buttons were Earth-ending intel.
+
+“I hate to say this,” said Haoyu when he answered, “but I kind of love having so many video lectures instead of regular classes this week. It feels like we’re on a vacation from school, doesn’t it? And someone just brought an entire case of mooncakes to our room. They’re good. They’re really good. I’m putting them in the dessert pile.”
+
+The relaxed tone and the sight of Haoyu standing beside his bromeliad and casually biting into a half-eaten pastry was a balm to Alden’s mood.
+
+“Everything’s normal there, then? Nothing’s wrong?”
+
+Haoyu swallowed. “This is my first time collecting food for a wizard Thanksgiving, but other than that, it’s all normal. The strangest thing going on is probably Jupiter’s cornucopia. I went over to the girls’ dorm to see it, and it’s too large. But everything else is okay. We’ve got a couple of unexpected dishes so far, but I figure that’s fine as long as they taste good. If I get full, I’ll ask my dad to help me taste test when he gets here.”
+
+“You’re tasting all of it?” Alden asked.
+
+“Of course. My dad thinks what you’re doing is fun. He says Matadero needs an injection of fun. And he bets nobody has found where he hid the rice bomb. Whatever that means. But then he said that if we served subpar food, maybe the wizards would let Anesidora get submerged next time. And I know he was joking, but I started thinking about you getting in trouble for serving subpar food. So I’m tasting it for the good of the nation. And so that nothing bad happens to you.”
+
+“Thank you.”
+
+“I’ve got your back.”
+
+“I’m relieved things are going smoothly over there,” Alden said. “You wouldn’t believe how overboard the restaurants are. They’re all telling each other. I’m worried we’re going to have to trash some of it. Artonans can eat a lot, but they’re not bottomless. Okay. Call if anything changes. Bye.”
+
+Haoyu’s mouthful of mooncake muffled his own goodbye.
+
+<<NO!>> Kabir was saying when Alden stepped out of the elevator. <<No more! I don’t care if it’s not fair! This is not a chance to show the Triplanets what you can do with your spell impression and a pie crust. It’s for thankfulness, and we have plenty!>>
+
+Alden knew it wasn’t the most admirable reaction, but he was so much more relaxed now that he had final confirmation that his helpers probably hadn’t contributed to the gossip chain that was responsible for the overabundance of food. In the light of his own innocence, Kabir’s renewed irritation seemed like an overreaction.
+
+“Kabir, it’s fine,” he said in a placid voice. “A few extra loads of food to carry upstairs is nothing in the grand scheme of things. It will all work out.”
+
+Kabir shot him a look.
+
+Alden carried his tablecloth sack to the sorting corner they’d established and started cutting through tape and opening carryout containers.
+
+Work fast, finish grandma’s succotash, go to Natalie’s…
+
+The music was upbeat. It was keeping him going at a good pace, and when one of the songs ended and the voice of the announcer came on for the “happy thought of the hour” thing they were doing throughout the broadcast to keep everybody’s spirits up, Alden was looking forward to hearing it.
+
+<<Happy thought of the hour! For those of you celebrating Thanksgiving with your family and friends tonight, you won’t be alone. A young man who had a difficult welcome to Avowed life earlier this year is not only thriving at one of our Apex schools now, he’s also organized a group of his new friends to bring some holiday joy to our Artonan visitors.>>
+
+Alden was bent double, reaching for an ugly organic lump that had rolled out of one of the packages. He thought it might be a truffle.
+
+I’ve never held a truffle before. I wonder what it tastes…what? What did the radio lady just say?
+
+It was something terrible. He knew it because his whole body had clenched as his subconscious processed the words.
+
+<<—Alden Thorn, a Rabbit attending school at Celena—>>
+
+“NO!”
+
+<<—haha! I’m not sure how a sixteen-year-old ended up at Matadero, but there’s a rumor that General Esh-erdi—>>
+
+“Stop saying my name. Why are you saying my name on the radio?! With his name! About this?!”
+
+“—Rabbit teenager organizing a feast for exhausted wizards returning to Matadero tonight is a very happy thought. According to one of his friends—>>
+
+“Whoever it was, you’re unfriended!”
+
+It took him about three minutes to find the culprit.
+
+Because the culprit was live streaming about Alden and the Thanksgiving dinner.
+
+******
+
+******
+
+DurnMary Davis, named for her great-grandma Mary and Durn-afor, the wizard who her parents admired for founding the passenger pigeon de-extinction program, was sitting at her desk eating a candy bar. The limited edition box it had come in featured Carousel, New York’s homegrown hero, looking dazzling in his Winter 2040 costume.
+
+DurnMary’s social studies homework lay untouched on the desk beside her while she stared at the handsome boy on her phone. Sun-kissed hair, a slightly mischievous smile, and he did the Win-Win wink exactly three times per live Q&A session. To let everyone know which questions were his favorites.
+
+Some of your fans are switching over to Finlay, Win-Win, she thought. You must be so sad, but you just keep smiling for us.
+
+She was going to type that into the Heelfeather Club forum later. If a comment got more than a thousand upvotes, Winston would autograph a photo for you.
+
+DurnMary had a soft spot for A-ranks, so she’d keep boosting Winston’s spirits as he inevitably faded into obscurity compared to the obvious superstars of the new classes at the Big Three hero programs.
+
+Some people focused all their affections on a single Avowed, but DurnMary thought the best part about being kind of maybe a little bit famous herself in the superteen fandom world was following all of the new kids together. The friendships, the scandals.
+
+They were the same age as the people she went to school with, but they were hotter, richer, and powerful, with the shadow of unknown futures hovering over them.
+
+Any one of them could be a star in the making. Or they could die. Or disappear.
+
+Sometimes, you could even see love blossoming for them.
+
+The cool breeze on Konstantin’s face, she thought. It was always there when he needed it most. When he was walking back to his lonely room in Garden Hall after a hard day in the gym, one where he’d struggled to match the other S’s in combat and suffered another string of humiliating defeats, that breeze came to him.
+
+Just when he was wondering if he should give up and return to the solace of ballet, as his jealous brother Alexei kept commanding him to do, he felt it again—so soft, so silky. The wind brushed over the hair on the back of his neck…almost like…a kiss.
+
+Thank you, gentle breeze, Konstanin thought, sighing woefully. You’re the only one who cares about the most useless S-rank.
+
+In the dark shadow of the MagiPhys building, Vandy watched over him with her hands coaxing the wind to caress him, her beautiful eyes full of a hopeless yearning.
+
+DurnMary slapped the desk. “Yes! That’s going up tonight. It’s the next chapter in CNHearts. It’s practically a prophecy.”
+
+Vandy and Konstatin were perfect for each other.
+
+Everly could have that new fire adjuster at LiJean.
+
+“So naturally I volunteered to help him out,” Winston’s voice said.
+
+DurnMary shook herself free of the ideal romance she was planning for Kon-who-should-always-go-by-his-full-name-stantin. She looked back at the phone.
+
+Duper Supers, chat’s going nuts. What did you do, Win-Win?
+
+“Of course the whole class is contributing, but it’s an American holiday, so…I can take a leadership role if they decide they need me to. I’ll be making hotdogs. Like a cooking show with all of you watching. Make some suggestions. What should I top them with? What kinds of condiments do Artonans like? Hit me with your answers and grilling tips in the comments.”
+
+“Holy Duper Supers,” DurnMary breathed as she read back over the chat history so fast her thumb was getting sore from the rapid scroll. “We have confirmation that RadishBunny is at the cube. My god. Oh my god! I thought that was just a stupid rumor. He could be the first B-rank there ever. He probably is. This is proof that…that something! He must be friends with a wizard or maybe—“
+
+She couldn’t think straight.
+
+Alden Thorn. The most mysterious teenager on Anesidora. Maybe on the whole planet. People who said he wasn’t that interesting compared to real heroes needed to stuff some non-limited edition Frosted Brutie-O’s in their mouth and chew so nobody else had to hear them speak.
+
+He was silent on social media even if you tried to tell him your parents were into pigeons, too. He had such a tragedy of a life. He had been spotted flying around on a green thing that belonged to one of the powerful anti-demon military wizards. But all the curiosity about why he was doing that had dried up after the Maricel Alcantara bombshell. That girl had shot up the popularity rankings fast.
+
+But now Alden was definitely at Matadero? For sure? And he was doing something there?
+
+More. Info. Needed.
+
+[Win-Win, Heelerman, Sir Winsalot,] DurnMary typed. Three heart emojis. One prayer hands. [You are my FAVORITE Avowed. But what is that Alden guy doing at Matadero? Is it safe? Is he breaking the law?]
+
+Win-Win was adorably uncomfortable about discussing people in his class who might be more popular than him. Most of his fans didn’t notice, but DurnMary had a gift for detecting his little facial twitches. Or maybe she’d just realized that he was more likely to answer questions about his classmates if the person asking the question said something negative about them.
+
+Winston Heelfeather looked at the camera. He put down the pack of hotdogs he’d been displaying. He was sitting in his dorm room, in front of the bulletin board with all his non-digital fan mail pinned to it. His roommates didn’t let him film in the rest of the apartment.
+
+“We’ve got a question from FeathersFavoriteNYC that I feel like I have to answer. You guys know I always run, but never from the truth.”
+
+He winked at the camera.
+
+DurnMary winked back at him.
+
+“I’m positive Alden isn’t doing anything illegal,” said Winston. “How could a Rabbit break into Matadero when even a deadly organization like SAL couldn’t? No, he’s just really, really close to the Artonans. He lived with them for months during that thing on the moon. Some people in our class are even saying the System rescued him from The Span before them—oh my gosh, by the way, you guys have to remember to visit the socials of all my classmates who suffered through that. Tell them how glad you are that they’re okay! It was really terrifying for them. But yeah. Alden got saved from The Span first. Even though his combat potential…well, he’s the best B-rank in our class!”
+
+Winston laughed.
+
+“So it’s natural for him to be close to the wizards and want to thank them for protecting him and cleaning up Anesidora. Some of us are even thinking that with that green octagon he’s flying around, he’s probably on his way toward a dream job for a Rabbit. There are rumors that he’s really hoping that General Esh-erdi will offer him a permanent position if he does a good job as an assistant and octagon driver.”
+
+Winston smiled. “It’s only a rumor, but…good for Alden. A job like that would probably pay better than superhero work. If it ends up taking him away from the program so soon after we’ve met, I know we’ll all be sad, but  we’ll also be happy he found the career that makes his heart race like a speedster.
+
+“So…when I heard he wanted to host a big Thanksgiving for the wizards and he was worried there wouldn’t be enough food, I was so glad to help him out with it. We’re going to make this a great party together!”
+
+The next twenty minutes were some of the best television DurnMary Davis had ever seen. Winston kept dropping hints about how close Alden Thorn was to General Esh-erdi and it started to sound more and more like his position as the General’s personal Rabbit errand person was a done deal. Meanwhile, the Super Tomorrow group that talked about all the young Avowed was blowing up—almost as big as it had on the day Maricel’s involvement in trying to stop the SAL terrorists had gone public:
+
+“Is RadishBunny leaving us? Nooo. It’s too soon! This group only just named him RadishBunny!”
+
+“Is General Esh-erdi the reason RadishBunny got lost in the first place? Or did they become best friends on that Thegund asteroid?”
+
+“STOP EVERYTHING. Guys, did RadishBunny help Maricel defeat the SAL people? Maybe she’s going to be at #MataderoThanksgiving!”
+
+“Alden has no family. Remember that. Maybe he met General Esh-Esh on Moon Thegund and became like a son to him. I wish an Artonan would adopt me, too.”
+
+Winston was so busy talking it took him forever to get his hotdogs downstairs to the grill outside Garden Hall. But DurnMary stuck with him every step of the way.
+
+She watched as Jeffy—S-rank Aqua Brute, definitely going places—came over to say hello.
+
+“You’re not doing the charcoal right, Winston.”
+
+“I think I know how to grill,” Winston said, massaging one of the briquettes with the flame on the end of his lighter.
+
+The Brute shook his head. “My Grandpa grills all the time. He doesn’t just light the coals while they’re spread out flat. You need to go get the chimney from the community kitchen.”
+
+That sounds pretty logical, thought DurnMary.
+
+Jeffy almost walked into one of the filming drones. He didn’t seem to realize he was part of a cooking show.
+
+“Like I was saying!” Winston said loudly. “Today we’re making hotdogs because Alden asked for my help. And I’m always here for my friends.”
+
+“These are for the Thanksgiving potluck at Matadero?” Jeffy said excitedly. “I made beef jerky.”
+
+He looked at the camera. “I made beef jerky. Actually I just bought it, but I mixed it up so every wizard gets a bite of smoky maplepeño turkey jerky instead of only one flavor.”
+
+So he does know he’s being watched.
+
+“Alden realized that the wizards weren’t going to have a Thanksgiving, so he’s planning it for them,” said Jeffy. “It’s a special Anesidoran Thanksgiving with food from lots of countries. He’s a nice guy. He gave me his shirt when mine broke once.”
+
+Winston grabbed the tongs before Jeffy could.
+
+“I was just telling my fans how Alden is probably going to be making a lot of money working for General Esh-erdi. As his Rabbit assistant.”
+
+He keeps saying assistant and Rabbit like he’s driving a point home, thought DurnMary. Careful, Win-Win. You’re being more heavy-handed than usual.
+
+“That’s why he’s at Matadero,” Winston said.
+
+“I thought he was there because he got hurt and the healer wanted him to stay,” said Jeffy.
+
+DurnMary’s face was so close to her phone she was fogging the screen.
+
+“That’s what he told us,” Jeffy said.
+
+“These are American beef hotdogs,” Winston said. “Arfdogs! My favorite brand.”
+
+“He came to school in a cast and everything,” said Jeffy. “It was a magic cast.”
+
+“ARFDOGS,” said Winston. “I’d love to talk to the people who make them about a collab because they are delici—eep!”
+
+A green blur dropped out of the sky so fast that Jupiter, who was collecting peppers from a nearby plant, dropped several. Winston, apparently under the impression that an aerial attack was taking place, ran away so fast he completely vanished from view.
+
+“Hi, Alden!” Jeffy said brightly. “Are you here to pick up my jerky?”
+
+******

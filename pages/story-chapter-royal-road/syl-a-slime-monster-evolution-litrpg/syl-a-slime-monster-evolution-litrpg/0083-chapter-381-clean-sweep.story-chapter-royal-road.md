@@ -1,0 +1,265 @@
+---
+id: f5cb9250-c864-5bc0-8ca3-6556cbc30218
+page-type-slug: story-chapter-royal-road
+title: "Chapter 381 : Clean Sweep"
+slug: 0083-chapter-381-clean-sweep
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 83
+ownLength: 3509
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3361101/chapter-381-clean-sweep"
+royalRoadId: "3361101"
+---
+
+"Why I never… Even the mermen didn't treat me like a sack of potatoes," Leon grumbled as I shoved him through another aperture.
+
+Throughout the entire process of reaching the final room before the dark abyss, he'd been complaining insistently. I had half a mind to just leave him in the dungeon and proceed on my merry way, but I figured that wouldn't earn me any favors from Unc.
+
+How does Vee get this guy to listen? Do I need to start threatening him more?
+
+Personally, I preferred the carrot to the stick, as the latter usually had me plotting the other party's eventual downfall, if the goblin chief and the mermen city weren't evident enough. Yet, despite rewarding him with treasures beyond his wildest imagination, he still kicked up an endless fuss about every little thing.
+
+Seriously, do you know how much effort I had to go through to get a yellow slime core? How would you like to fight a bunch of flying horses and a water spirit?
+
+In the interest of unity, I kept my complaints to myself. Still, perhaps Leon could vaguely sense my growing anger as he was beginning to glance around nervously from time to time.
+
+Eventually, we reached the room, and I dumped him right before the massive door. The final symbol was still glowing, so Vee and her team had yet to find the final guardian.
+
+"There, try to dismantle this, and anything around here. I'll come find you closer to the deadline," I replied.
+
+"You're leaving me down here!?" Leon shrieked.
+
+"I've got monsters to hunt and treasures to seek, I can't sit around playing babysitter."
+
+"Can you at least leave Sylvester with me?"
+
+"I would if I could," I sighed. "I can only maintain one extra slime network right now, and they are traveling with Vee and Vanessa."
+
+"I see… But how will you find me? I'm assuming you want me to dismantle more than just this room."
+
+Although he was making it sound like I wanted him to do this task, I could almost taste the greed in his voice. This crab had expensive tastes, and no doubt this one dungeon room was not enough to satiate him.
+
+Still, he did have a point, and I didn't want to spend too much time hunting him down after the fact. I crafted a small necklace out of slime and primed it, as I could sense the location of my slime bombs even through the dungeon walls. Of course, it would need to be refreshed at least once to survive for the rest of our time limit, but that was a simple task.
+
+"Keep this outside of any storage, and I'll be able to locate you," I said and tossed it towards him.
+
+He fumbled a little with his claws before successfully grabbing it. It looked like he had questions about the rare item I had left with him, but at this point, I wanted to get to my own tasks. I tore open space and jumped through, leaving behind a very confused crab.
+
+The first thing I did after freeing myself from that burden was seek out Vee, just in case they had managed to locate the guardian. Following our bond, it didn't take me too long to meet up with her and the rest of the party.
+
+We updated each other on the situation, and, sadly, no, they hadn't found the guardian yet. They did, however, have one juicy morsel of information they discovered during my absence.
+
+"The dungeon monsters are kind of going wild," Vee explained. "They aren't dutifully waiting in their rooms anymore. If they can escape, they are, and they're even fighting amongst themselves."
+
+Apparently, the monsters had gone wild, and unless they were the same species, they were even killing each other. Any room that had a mix of monsters, such as sharks and squids, would be fighting to the bitter death, but a room full of only jellyfish would work together to escape.
+
+This was both a blessing and a curse; it would make our job significantly easier, but it would also cut into the final amount of experience we could gather. After that update, we split up, with me opening a rift back to the first floor for Vee and her group to clean up, as it was far easier for them to traverse than down here.
+
+After we split up again, I began rapidly traveling around, cleaning up whatever monsters I could find while searching for the final guardian. Eventually, I stumbled upon it, and to my surprise, it was a giant starfish that walked upright, as if poorly imitating a person.
+
+However, that wasn't the only strange thing about it, as it had a large eyeball at the end of each of its arms. Yet the creepiest part was its mouth, two rings of rotating teeth spinning in opposite directions. When I first discovered it, it had latched onto a poor lobster and was shoving it into its grinding maw to be devoured.
+
+"Are you the final guardian?" I asked, wondering if this one could talk.
+
+"Guardian… Lord… Great…" it muttered incoherently.
+
+I tried a few more times to converse with it, but it seemed unable to form sentences and only spewed a few random words as if it lost its script. Evidently, whatever false intelligence the [Dungeon Master] had bestowed upon them had deteriorated as soon as he absconded.
+
+I suppose this is all the things I'll learn when I officially become a [Dungeon Master] myself. I already knew that the dungeon monsters aren't 'real', so to speak, and it appears that, without someone to control them, they revert to extremely poor base instincts.
+
+I curiously pulled out the CUBE and poked it, but all I got was a message about my application still pending. I sighed and put it away, returning my attention to the former guardian mindlessly eating its fellow dungeon minions.
+
+I guess it doesn't see slime as an appetizing meal. Unfortunately for it, it looks like a big juicy meal for me!
+
+I jumped at the opportunity to eat another guardian, as no doubt it would be an interesting profile and plenty of experience points. After being denied the kill on the shadow octopus, I wanted to grab what I could.
+
+When I latched onto the starfish, it ceased ignoring me and started trying to fight back. Its entire underside was dedicated to dragging prey into its maw as thousands of tiny little tentacles moved in unison. But if it came down to a competition of eating monsters, I didn't think I could be beat, as my entire body was both a mouth and stomach.
+
+As the starfish was trying to drag me into its mouth, I was already eating it. Yet, surprisingly, the more I ate, the more starfish I was finding. It was a strange sort of stalemate between us, but I wasn't exactly dedicating maximum effort into devouring it.
+
+Eventually, I got its profile and discovered that it had rapid regeneration, as long as it had enough stored nutrients to support it. Either it had been prepared to regenerate by its former master, or it had eaten more monsters than I realized, as it seemed practically endless.
+
+If I shoved the entire thing into my slime, I could eat it in one gulp, or I could use [Bloodrot] to stop it from regenerating. But that feels like a waste of such a bountiful meal!
+
+Yes, as long as it kept regenerating, I could keep eating. Yet I couldn't carry around a giant starfish with me; it was far too impractical. As I was gnawing on my regrowing snack, I gazed through the profile and learnt a bit more about starfish. Surprisingly, they could regrow from as little as a single arm, and thus, I had a perfect plan to carry around my meal while I fought in the dungeon.
+
+I rapidly ate what I could, leaving only a convenient arm I could carry around inside of me. I'd keep it around for as long as it kept regenerating, and when its energy ran dry, I'd claim its experience points.
+
+About a day later, the starfish finally ran out of its reserves and stopped regrowing. At this point, I had explored most of the dungeon and had run out of interesting things to find. I gulped down the last remnants of the former guardian, finally gaining the experience of another boss monster.
+
+I was a little upset about losing such a constant supply of slime mass, but at this point, I was close to running out of space in my [Core Storage], unless I gained another level. It was genuinely getting to ridiculous levels, and I felt my previous frugality over slime rapidly diminishing.
+
+During our stay in the dungeon, I routinely met up with Vee and exchanged information, but it seemed we had run out of monsters and treasures. Returning to Leon was a shock, as he had quite literally stolen the bricks and foundation of the dungeon.
+
+He had, in fact, managed to take apart the door, although according to his own words, it wasn't anything too special. Yet I couldn't help but notice his shell had a shiny new coat on it.
+
+Whatever, let him have his fun.
+
+Eventually, we were nearing the time limit and needed to evacuate, although Vee and I had long run out of work we could actually do down here, and I'd let her return to the island with the others. Having the slime network reestablished across the island let me empty out a lot of my [Core Storage], and suddenly I had a lot more room for extra food. It was too bad the dungeon had been wrung dry.
+
+While waiting for the final moments before I took Leon out, I had summarized all my gains throughout this conquest of the entire dungeon. Experience-wise, I had gained seven class levels and three racial levels!
+
+<Class Experience threshold reached. Riftmancer is now LV 16.>
+
+<30 Skill Points are now available.>
+
+<Your class has revealed the following skill: [Rift Beacon].>
+
+<Racial Experience threshold reached. Chimeric Cluster Slime (Prismatic) is now LV 15.>
+
+<14 Trait Points are now available.>
+
+I was genuinely surprised by the gains, as even though I hadn't looked at it since the decorator crab, it still seemed a little too generous.
+
+Maybe I really did lighten my soul by getting rid of those class levels… Either that or [Split Personality] and my newly uncapped [Companion Growth] is doing wonders for me.
+
+I had even reached a milestone in Riftmancer and received a brand-new skill!
+
+<[Rift Beacon] At the cost of half of your [Personal Rift], you can create a stabilized spatial location. For all intents and purposes related to spatial skills or [Dimensional Magic], this stabilized locale is treated as if you occupied that space. The beacon can be retrieved; however, doing so puts this skill on a 12-hour cooldown. This trait has no levels.>
+
+Reading the description, I felt a bit of relief and some confusion. The relief was that my negligence in checking this sooner wasn't going to bite me, but the confusion was about the purpose of this newfound skill.
+
+This also clearly cemented [Personal Rift] as the signature skill for Riftmancer, as this was a supplementary skill specifically for it, and I figured I'd likely gain more at the next class milestone. Yet, the actual usefulness of the skill was what confounded me.
+
+It costs half of my rift to place this beacon! Why would I do that?
+
+Exploring the dungeon so easily wouldn't have been possible without the large area I'd gained in my rift, so I couldn't even imagine why I'd ever sacrifice half of it. Its size was literally the biggest benefit!
+
+Of course, I wasn't an idiot; there was an obvious benefit to having a beacon: long-distance teleportation at effectively no cost. But was that really worth being a milestone skill?
+
+I'll have to play around with it more after we leave the dungeon.
+
+I did naturally try it out, but since I needed my full-sized rift to travel freely in the dungeon, combined with the twelve-hour cooldown, my efforts were limited.
+
+Functionally, it was very similar to a stabilized [Rift Door], keyed to a location rather than a person, except that it could affect its surroundings. When I activated [Personal Rift], it really felt like I was in two places at once, and yes, I could freely tear open apertures around myself or the beacon and have them seamlessly connect.
+
+But I still only have four apertures, so it's not like I've doubled my effectiveness.
+
+Of course, that was only in relation to [Personal Rift], and the description of [Rift Beacon] mentions being able to interact with both other spatial skills and [Dimension Magic].
+
+Although it specifically mentioned spatial skills, it was also compatible with [Spatial Sense]. I wasn't sure if this was an oversight or the description or the effect, but it was somewhat cool to be able to view the area of my beacon even though I wasn't there.
+
+I could also make folds and cuts through my beacon, which was a nifty feature, but unless I wanted to remotely defend a location, I wasn't sure of any other benefits. As for [Dimension Magic], I found only two uses during brief testing.
+
+Firstly, coordinates, which were obvious: the beacon provided quick, easy access to its coordinates within its range while also making things within its range easier to modify. The second was the space itself, and when I cast [Expansion] or [Reduction] through the beacon, it could upkeep both spells with significant cost reductions.
+
+The same applies to me, though, if I use it through my own rift. So, I'm not exactly sold on placing the beacon…
+
+I decided to shelve it for now; it would be something to look at back at home. Of course, my skills also received quite a few upgrades.
+
+[Split Personality LV 5]
+
+[Split Personality] was the biggest winner, as having four active personas fighting and living on their own was, no doubt, tremendously beneficial. I had hoped [Core Collective] would have shared in this achievement, but sadly, it didn't gain a new level just yet.
+
+It's probably close, though…
+
+Once we were back on the island, I planned to settle down and sort out all my [Dimension Magic] theories and, hopefully, piece together my [Mapping] and [Triangulate] combination.
+
+There's also trying to get the rest of the governing symbol for [Dimension Magic], and trying to piece together a spell version of [Spatial Severing] for my eventual rematch with the shadow octopus, or any other annoying entities I come across.
+
+Speaking of [Spatial Severing], it reached level three again, and I took it apart. I gained a lot more this time, filling in quite a few gaps, but it was still not enough to get a functional spell on its own. Thus, I bought the skill again, which, combined with my purchase of [Rift Beacon], brought my skill points to a solid thirty.
+
+I was tempted to take apart [Rift Beacon], but I was going to wait until I was back on the island. I already had too much to work with, and we weren't even out of the dungeon yet.
+
+[Folded Geometry] reached level four, which made double-folds far more manageable than before. This was great as it was the best method I had available to quickly level up [Spatial Severing].
+
+"It's time to go," I told Leon.
+
+"Five more minutes! I can get a few more bricks!" the crab insisted.
+
+"Nope, this is the third time you've asked for five more minutes… We're genuinely out of time," I warned. "Or I can leave you here to witness the dungeon collapse firsthand."
+
+Leon paused and shockingly seemed to be considering it! Thankfully, he saw reason and eventually relented. After repeatedly shoving him through apertures, we exited the dungeon, with only a few minutes to spare.
+
+At this point, Vee appeared, and the three of us were staring at the dungeon, waiting to see what happened. The final moments ticked down, and at first, we thought nothing happened. Leon actually started making motions to head back into the dungeon to take more resources, when there was a sudden quake that trembled throughout the ocean floor.
+
+Before our very eyes, the dungeon was collapsing in on itself. [Spatial Sense] was going wild as I saw the dungeon turning itself inside out. Vee was yelling a constant stream of expletives as she, too, saw what was happening.
+
+"It's just a small earthquake, maybe only a three or four on the Richter magnitude scale," Leon said, not understanding Vee's panic.
+
+"Richter can go shove it, he didn't calculate for space falling apart!" Vee yelled back.
+
+Leon went silent, trying and failing to observe what was truly going on. After roughly thirty minutes or so, the trembling stopped, and whatever remained of the dungeon had been removed from existence.
+
+Vee and I were genuinely shaken, having never witnessed a dungeon being reclaimed in such a shocking manner. Leon was still unperturbed and began trying to excavate the collapsed ground, only to find that nothing remained of the dungeon.
+
+"How odd…?"
+
+Vee and I glanced at one another and sighed. There was no way we could get through his stubborn shell, what had just happened, and how close he was to not even leaving a smear on the ground.
+
+"Let's go home," Vee said.
+
+"Sounds like a good idea, I'm going to sleep for a week," I promptly agreed.
+
+"More like a few hours, I bet you'll be tearing apart dimensions by tomorrow," Vee teased.
+
+"I do have a lot of plans…" I admitted.
+
+I pulled out my CUBE and gave it another poke.
+
+Still pending… I wonder what's going on?
+
+I shrugged and put it away again. Securing it was arguably the hardest part, and now I just needed to wait. Thankfully, I had plenty of other things to keep me occupied.
+
+***
+
+"I don't understand why you are putting up so much resistance. You have no claim to be the supervisor," Gramps said, a stubborn frown plastered on his face.
+
+"Gloto was under me, so it only makes sense that his replacement is also!" Unc said, putting his foot down.
+
+"Gloto?" Mother asked as she joined in on the conversation.
+
+"It's what I called him," Unc answered.
+
+"As if a coward like that deserves a name," Gramps scoffed.
+
+The two continued to bicker endlessly, with Mother ultimately sighing and trying to intervene.
+
+"Why not just let him? At least it will save you some of your allocated resources," Mother suggested.
+
+"I've already got you tampering with Syl on the magic front, now you want him to also interfere?" Gramps replied with a scowl. "Need I remind you that the slime is my [Experiment]?"
+
+"The sooner you agree, the sooner Syl can start using the CUBE and [Dungeon Master] Emblem," Mother pointed out.
+
+"Exactly!" Unc agreed.
+
+Gramps snickered. "Great, then I can just not agree and fend off another distraction!"
+
+"I shouldn't have said anything…" Mother sighed.
+
+***
+
+Name: Syl [Dungeoneer] Race: Chimeric Cluster Slime (Prismatic) LV 15Class: Riftmancer LV 16 Status: HealthyMana: Overflowing
+
+Emblems:[Experiment][Unique][Apex Hunter][Elven Legacy][Dungeoneer]*[Nature's Bane][Manhunter][Banisher][Branch Head][Dungeon Master] (Pending…)
+
+Legend Points remaining: 5
+
+Traits:Slime:[Primordial Slime LV 17][Slime Mastery LV 12]
+
+Core:[Core Collective LV 11][Core Storage LV 7][Sub-Core Alpha LV 7] [Sub-Core Beta LV 7] [Sub-Core Gamma LV 7] [Sub-Core Eta LV 7] [Sub-Core Delta LV 7] [Sub-Core Theta LV 7] [Sub-Core Epsilon LV 7] [Sub-Core Iota LV 7] [Sub-Core Zeta LV 7] [Sub-Core Kappa LV 7] [Sub-Core Lambda LV 7] [Sub-Core Mu LV 7] [Sub-Core Nu LV 7] [Sub-Core Xi LV 7] [Sub-Core Omicron LV 7] [Sub-Core Pi LV 7]Mimic:[Chimeric Mimicry LV 8][Chroma Shift LV MAX][Consuming Osmosis LV MAX]
+
+Mana:[Mana Circulation LV 9][Mana Reinforcement LV 8][Mana Infusion]
+
+Attributes/Other:[Soul Mastery LV 8][Enhanced Vitality LV 6][Magic Resistance (Greater) LV 1][Curse Resistance LV 4][Illusion Resistance LV 4][Sonic Resistance LV 2][Spatial Resistance LV 5][Prodigy]
+
+Senses:[Soul Sight LV 9][Soul Sense LV 9][Soul Vision LV 7]
+
+Trait Points remaining: 14
+
+Skills:General:[Universal Language][Skill Deconstruct][Equipment Swap][Split Personality LV 5][Dissection LV 8][Tracking LV 3][Identify LV 6][Perception LV 5][Aerial Finesse LV 5][Aquatic Finesse LV 5][Thunder Step LV 5][Elemental Step (Basic) LV 4]
+
+Tamer:[Companion Bond][Companion Training LV 9][Companion Growth LV 11]
+
+Combat:[Tranquil Flow LV 5][Attack Mastery (Greater) LV 3][Affliction Mastery LV 7][Exploit Weakness LV 6]
+
+Magic:[Elemental Praxis LV 5][Corrosion Magic LV 6][Arcane Magic LV 5][Light Magic LV 3][Dimension Magic LV 6][Healing Magic LV 2][Mana Weaving LV 6][Magic Efficiency LV 9][Magical Overcharge LV 3][Counter Magic LV 5][Personal Rift LV 4][Folded Geometry LV 4][Spatial Severing LV 1][Rift Beacon][Ritual Casting][Mana Suppression]
+
+Sneaky:[Vanish LV 7][Assassinate LV 7][Identity Fabrication LV 9][Rogue Expertise LV 4][Magical Subterfuge LV 5][Trap Mastery LV 6]
+
+Skill Points remaining: 29
+
+Profession:Enchanting:[Rune Reading LV 7][Rune Engraving LV 3][Rune Framework LV 8][Rune Tracing LV 5][Rune Design LV 5][Runecrafting LV 4][Rune Inspection LV 6][Rune Filigree LV 3][Rune Repair LV 2][Brand]
+
+Profession Points Remaining: 5

@@ -1,0 +1,171 @@
+---
+id: 5bfa1bd0-9350-558a-b60c-7056270e5f43
+page-type-slug: story-chapter-royal-road
+title: "Chapter 617: Braxton/Jace"
+slug: 0038-chapter-617-braxton-jace
+partOf: system-change-system-universe
+position: 38
+ownLength: 2598
+unit: words
+ownProgress: 2598
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2899995/chapter-617-braxtonjace"
+royalRoadId: "2899995"
+markedReadAt: "2026-06-29T19:57:57.302Z"
+---
+
+Chapter 617: Braxton/Jace
+
+Derek had closed his eyes as he left the meeting. He had a lot to think about. However, before he was able to get even one thought, he heard the sound of metal crashing into metal. Suddenly, his eyes shot open to see Jace standing in front of Braxton with both of his blades pushed against Braxton’s warhammer.
+
+Oh, right… they were just starting a fight, weren’t they? Derek thought. He knew that the dungeon Jace went inside wasn’t very hard and that the man probably didn’t build up a ton of Battlelust. However, he definitely built up enough to be a handful.
+
+Jace disappeared and reappeared behind Braxton. A loud clang sounded out as Jace tried to slash at the man’s hamstring. All he found was hidden armor underneath the dwarf assassin. Jace cursed, then did a backflip just before Braxton’s warhammer came crashing into his chest.
+
+This went on for a while. It always seemed like Braxton was on the back foot, but Jace was never able to take advantage. Every time the two of them collided, after a few attacks, their positions seemed to reset. Derek narrowed his eyes at the scene. Braxton is controlling everything, he thought as Braxton’s fiery golden aura exploded from his hammer. Jace’s eyes went wide, and he brought both blades back up to block.
+
+The hammer hit, and Jace was sent flying. Derek lost sight of the man after he crested over the second set of trees in the forest. Braxton looked over at Derek and tilted his head.
+
+“You seem a little out of it right now,” Braxton said.
+
+“Just… lost in thought,” Derek replied. It was hard for Derek to remember that, to the two fighters, he’d never been in a meeting room with Dave. It really was a blink between when he left and when he got back.
+
+“Okay,” Braxton said without asking anything else. Instead, he flicked his wrist and took a good chug of some brew. After letting out a content sigh, Braxton asked, “Does he get stronger based on the number of kills or the length of the fight?” Braxton asked Derek with a furrowed brow.
+
+“Length,” Derek replied. It didn’t take a veteran like Braxton long to figure out why Jace used the dungeon and how his powers worked. Since Braxton had decided on a quick breather, Derek added, “And the stronger the opponents, the faster his strength builds.”
+
+“I see,” Braxton said with a nod. “So he’s basically a type of modified berserker class. I assume that there is a limit, but if he gets to that limit, it would make things very hard for me.”
+
+“Yes,” Derek replied. “And his ability to control himself degrades the stronger he gets.”
+
+“Got it,” Braxton said as he placed his warhammer back on his back and waited. Derek squinted his eyes as he saw the head of the hammer faintly glow the same fiery golden aura as Braxton.
+
+Just what is he doing? Derek wondered as he saw the glow on the hammer grow brighter and brighter.
+
+It took two minutes for a floating Jace to reappear through the trees. He didn’t have any cuts or wounds on him, but the clothing he was wearing was covered in blood. Braxton’s hit must have really done a number on his internal organs. It doesn’t look like his new movement skill has the speed yet, either, Derek thought as Jace slowly floated towards them. He needs to level it up, and quick.
+
+“You have potions and stuff on you, right?” Braxton asked Derek.
+
+“I do…” Derek answered. Not liking the glint in Braxton’s eye, he asked, “Why, exactly?”
+
+“Because, obviously, the only way to end a fight like this is a nice little… one-hit knockout,” Braxton replied.
+
+“One… hit…” Derek muttered. It was the same strategy that Marrick had come up with for if he ever fought the man again. It was a strategy that Amelia had figured out but was unable to use because Derek was there watching the fight. Derek sighed. “Don’t go for the head,” he finally said.
+
+“I’ll try not to.” Braxton took one last drink, then put the brew away. A few seconds later, Jace floated down from the sky and landed in front of Braxton.
+
+“That was some hit!” he exclaimed. “I knew you would be a good fight!”
+
+“But you aren’t,” Braxton replied. “A spar should be a fight to make both fighters better by the end. That is not possible with you. From what I can tell, you would only be in good sparring range for a few minutes. Before that, you aren’t strong enough, but after, you would be too strong.”
+
+“What are you talking about? A good fight is a good fight,” Jace said.
+
+“That depends on your definition of a good fight,” Braxton said. “There is a reason I haven’t tried to fight Derek. I know he is stronger. He won’t gain anything from beating me, and I won’t gain anything from fighting him. It is a waste of time when I have someone at home waiting for me.”
+
+“So… you are finished?” Jace asked. He didn’t look happy.
+
+“No,” Braxton said with a sigh and reached behind him. He grabbed the warhammer by the haft, then propped it against his shoulder. “I said I’d spar, so I’ll at least finish the spar.” He reached over and placed his other hand on the hammer. “Come on,” he said. “I don’t have all day.”
+
+“That’s the spirit!” Jace shouted, then charged.
+
+Derek watched, and it all seemed to happen in slow motion. As Jace brought both of his blades down, Braxton, instead of blocking, ducked his already short body and slipped under the blades while making a large horizontal swing with his warhammer. Jace’s eyes looked right at the dodging Braxton, then left at the hammer heading straight for him.
+
+By this time, the glow on the hammer was all Derek could see. It didn’t even look like there was a head connected to the haft anymore—just a fiery golden ball of light. Jace tried to bring his blades back to block, but with the amount of Bloodlust he’d built up, it just wasn’t enough. Only his arm made it back in time.
+
+The center point of the ball of light connected with Jace’s forearm, as it was all the man was able to get in front of the attack after missing wildly with his own swing. An explosion sounded out, then Derek saw Jace fold into himself as the brunt of the force that wasn’t blocked by his arm connected just above his left hip.
+
+That was a home run swing, Derek thought as Jace was there one second, then gone the next. Derek facepalmed, then shifted into the void. He had to go through a few ripples before he made it to Jace, and he winced when he saw him.
+
+The man was certainly alive, but he did not look good at all. The arm he used to block was completely mangled, multiple parts of it holding on by a thread. That explosive part of Braxton’s affinity is crazy, Derek thought. He had connected on Jace’s left side, but his entire right side, from his hip to the middle of his ribcage, had been blown out.
+
+I’m going to get so much blood on me, Derek clicked his tongue, then shifted out of the void. As soon as he was back, Jace crashed into him. Derek jumped back with Void Steps a few times to cease the momentum. “You dead?” he asked once he made it to the ground with Jace.
+
+“Yup…” Jace answered with a pained grunt. His insides were healing, but slowly. The hit had left a huge wound that couldn’t be healed all at once. “Take me to the dungeon,” he said. “Tell the dwarf… that it’s his win… this time.”
+
+“Good thing he wasn’t there when you attacked either of those cities,” Derek said as he carried Jace in the air.
+
+“It would have been different then,” Jace said. “I had more Battlelust both of those times, and I would have used Surge of War if I had needed to. I didn’t use it this time. But I was at a point where it would have been enough to heal me and push me into contention with the dwarf.”
+
+“Maybe,” Derek replied as they broke the tree line and landed close to the dungeon orb. “But I doubt we’ll ever know.”
+
+“He’s not in a Dying State?” Braxton asked in surprise when Derek and Jace made it back.
+
+“By 3,000 health points… give or take,” Jace replied. “You got me to like… five percent, and if not for my healing… I would have been in a Dying State. Still, it’s only just enough right now to barely win out against what I’m losing from the whole… not having a right side…”
+
+“Want a health potion?” Derek asked as he took a red vial out of his storage.
+
+“Nah, I’m good,” Jace said. “Just put me down close to the dungeon orb thing.”
+
+“Okay…” Derek shrugged, then walked Jace over to the dungeon and set him down. Jace reached up and placed his hand on the orb, and a short while later, he disappeared.
+
+“Your friend…” Braxton started. “Is… weird.”
+
+“He is,” Derek agreed.
+
+“I put… a lot into that hit,” Braxton said. “I was certain he’d survive with a resurrection potion because of where I aimed… but he wasn’t even put into a Dying State…”
+
+“He can certainly take a beating,” Derek replied. “I should know. I beat him into a Dying State when he had full Battlelust and used a skill that pushed him past his limits. It was like fighting a ghoul with near-instant movement and crazy good battle instinct.”
+
+“I wouldn’t want to do that,” Braxton said with a yawn. “I’m getting too old for that. It’s the perfect time to retire. I feel that I’m getting very close to a second requirement, but I don’t want to ascend. I can’t leave my darling.”
+
+That’s one person I don’t have to worry about going with me, Derek thought. He did think it was a shame because Braxton was so strong. The dwarf assassin would be a great help during any fights. But Derek already knew that he wouldn’t want to leave Gretchen. He’d still ask and give him a chance because he considered the man an ally—perhaps even a friend—but it would only be out of respect, a formality, really.
+
+A while later, Jace reappeared from the dungeon. His pale skin was slightly pink, and his eyes had gone crimson—indicating that his Battlelust was pretty high. The massive wound on his right side was halfway healed, and Derek could at least make out that the thing on his left arm was trying to be an elbow and forearm.
+
+“One more,” Jace muttered and placed his hand on the orb. He disappeared soon after.
+
+Like that, they waited a bit longer. This time, what looked to be a fully healed Jace appeared. His skin was even redder, and he was panting—releasing something like low growls. “Looks like you’re finished now?” he asked.
+
+“Yes,” Jace said. It came out gravely. The man sat down cross-legged, then closed his eyes. Twenty more minutes went by before he reopened his eyes. The Battlelust in his eyes was gone, his aura was reined in, and his skin was back to its sickly white. Jace hopped to his feet and started to run toward Braxton.
+
+Braxton quickly reached behind him and hefted his hammer, but Jace stopped about five feet away.
+
+“That was fun! It went by a little too quickly, but it was fun!” Jace said happily and stuck out his hand. Braxton shook his hand hesitantly.
+
+“Why didn’t you just take a potion?” Derek asked. “Why go through the trouble of increasing your Battlelust to heal, then having to meditate to calm down?”
+
+“Because that would be a waste?” Jace said, looking at Derek as if he were an idiot. “It would have taken one hell of a health potion to heal those wounds. Probably like… fifty to one hundred credits… minimum. Probably even more. So, why take a potion when I can go into a dungeon and heal naturally in less than an hour? Unless… we were in a hurry. In that case… my bad.”
+
+“No,” Derek said, waving the man off. “Not necessarily in a hurry.”
+
+“I am,” Braxton cut in. “Can you just take me straight to Gretchen? It’s late, and the invasion is over. I’m sure she’s going to have something good for supper.”
+
+“Oh, of course,” Derek replied. “Why didn’t you say anything? I could have already taken you while he was in the dungeon.”
+
+“I wanted to make sure he lived,” Braxton said with a shrug.
+
+Derek made to tear a hole into space, but suddenly, a pot the perfect size for Braxton appeared in front of him.
+
+“Get in,” Silvi said. “I take.”
+
+“Are you sure?” Derek asked.
+
+“Yes,” Silvi said. “She offered dinner last time. Couldn’t eat because of the magic food. Want to try… supper.”
+
+“Oh…” Derek said. Gretchen did offer him and Silvi dinner when they first met her. It looked like that was stuck in Silvi’s head, and she wasn’t going to miss the opportunity now that she didn’t have cake that almost made her explode in her system. “Only if it’s okay with Braxton,” Derek said.
+
+“Of course!” Braxton said. “The more, the merrier. Gretchen loves company. You two should come too.”
+
+Derek and Jace looked at each other, then Derek shook his head at the same time that Jace nodded. “I’d like to, but I have a lot to think about. But… in three days, I would like to have a meeting at my shop if you’re available. There are some things that I have to discuss.”
+
+“Three days? I can do that. Just swing by and pick me up… wherever I am,” Braxton said.
+
+Derek snorted at the fact that he was going to be a taxi again, but shook his head. “Oh, and tell Nyx that he should come, too…”
+
+“And Mara?” Braxton asked.
+
+“Eh… she can come… but she won’t gain anything but some knowledge if she does,” Derek explained.
+
+“I’ll let them know, then,” Braxton said. “You coming for supper?” he asked Jace.
+
+“I can’t wait,” Jace said.
+
+Silvi looked from Jace to Braxton, then back. She scrunched up her little nose, then released a small breath. A moment later, the pot that she had summoned grew again. “You both get in,” she said.
+
+Derek watched the two elite warriors try to cram themselves inside a pot like a clown car. In the end, they were basically a pretzel, but they fit. Finally not moving, Silvi placed the lid on the pot and latched it down. She then looked at Derek, and if he didn’t know any better, he’d think that she had a smirk on her face. Suddenly, the pot grew by a third.
+
+“You could have done that the whole time, huh?”
+
+“They didn’t ask.”
+
+Derek laughed, then told his companion to go have supper. Once they were all gone, he sighed. “Three days… ten people…” Just how am I going to choose ten people… will ten people even want to come with us? He couldn’t help but sigh. With that, Derek left to marinate in his thoughts, and before he knew it, the time had almost come.

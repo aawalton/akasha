@@ -1,0 +1,579 @@
+---
+id: 27806486-39d1-56b1-b173-b003a04f8d92
+page-type-slug: story-chapter-royal-road
+title: "Chapter 206: What Now?"
+slug: 0131-chapter-206-what-now
+partOf: the-calamitous-bob-stubbed
+position: 131
+ownLength: 5241
+unit: words
+ownProgress: 5241
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2284050/chapter-206-what-now"
+royalRoadId: "2284050"
+markedReadAt: "2026-06-29T21:20:27.667Z"
+---
+
+The horde traveled south. It wasn’t moving very quickly, but it was moving, and it never slowed down. By day or night, the dead shuffled in a great tide that climbed over hills and valleys, pouring over the land in a great plague. The horde always made for the next settlement after reaching the previous one. Fortunately, Viv had all of them evacuated in the great flight.
+
+News traveled to Sinur’s Gate and beyond. Fortunately, though, people didn’t seem too worried. Viv’s reputation was such that people were absolutely confident she would find a solution to stop enough undead to film a zombie apocalypse trilogy (plus prequel). It was nuts.
+
+As for Viv, she had no idea. While her people evacuated, Arthur had consented to flying her closer to the horde to test for more Storms of Zamhareer. They’d barely made a dent. Worse, the horde tended to scatter as long as there were no obvious targets in sight, so the spells ended up being much less effective.
+
+And then there were the necrarchs. Viv could spot some of them, sometimes, skulking around in the shadows behind the thick ranks of other undead. Very few of her elites could stop a necrarch without risking death. None of them could stop a hundred. Even she wouldn’t manage.
+
+There had to be more than two thousand in Old Harrak, crawling over the epicenter like flies over a corpse. How many of them had joined the tide? She had no idea.
+
+“We should head back,” Viv said, watching the last of her third spell peter out.
+
+Agreed.
+
+The evacuation should be over by now.
+
+I never knew there could be so many humans.
+
+And those are all dead!
+
+“Yea…”
+
+And not just humans, but animals, monsters, flying things to darken the sky. It was then she realized that she had received an option to become a ritualist back when she pathed up, and she’d picked something else. A ritualist could have cooked up a titanic undead-slaying spell that fed on itself without issue.
+
+Yeah, that was coming back to bite her in the ass right now. Hindsight was 20/20 etc. It was ok though, she was going to find a solution. Surely there was one.
+
+***
+
+The mood in the council room was dark. For once, everyone had showed up, even Irao. Sahin sat next to Viv, seemingly meditating in his seat while the windows showed a mercifully undead-less scenery. For now. They would be coming soon enough.
+
+The place was packed.
+
+“Right. I think we can begin,” Viv began, rather unceremoniously.
+
+She tended to be more casual behind closed doors.
+
+“As you know, an unprecedented number of undead is coming right for us. They will be here in…”
+
+She turned to Sahin.
+
+“Eleven days at this speed. Eight days if they reach a frenzy level. I do not know enough to surmise if it is likely or not,” he replied without opening his eyes.
+
+“We obviously need to stop it, however I’ll tell those who haven’t seen it now that they are beyond number and that even by doing it around the clock, I won’t be able to destroy all of them before they reach the city. Worse, they have necrarchs.”
+
+Rakan and Irao shifted. They hadn’t been part of the earlier expedition but they knew the power of a single necrarch.
+
+“How many?”
+
+“We don’t know for sure, but at least dozens. It could be hundreds.”
+
+“Hundreds?” Lady Azar blurted.
+
+She made the protective sign of Enttiku with her hands. Viv didn’t do it because you couldn’t count on the gods to save you when those bastards couldn’t save themselves without her help.
+
+“Are you saying that there is no way for us to stop them all?” Ban asked from the sidelines.
+
+//THERE IS ALWAYS A WAY.
+
+Most people turned to the window, from whence a cold mask had spoken.
+
+//It is merely a matter of strategy.
+
+//The undead are numerous and relentless.
+
+//But fortunately, they are quite dumb.
+
+//Even should we be dealing with the actions of an intelligent being.
+
+//There are ways to trick them.
+
+“An entity powerful enough to control so many undead would be nigh unstoppable.”
+
+//The undead are significantly harder to control with my claws around their throats.
+
+“A fair point. This isn’t a normal migration though. It cannot be,” Lady Azar continued.
+
+She turned to Abe for confirmation. As the resident undead and expert, he was the most qualified to know.
+
+“Indeed not. The undead do consume some measure of black mana though they emit it back. They tend to scatter unless something starts a stampede, or a migration, which is just the equivalent of enough grains of sand rolling to collapse a dune.”
+
+“What’s a dune?” Ban asked.
+
+Abe stopped and blinked. Viv resisted the urge to chuckle. Maybe she should find a sand beach somewhere off the coast. In summer. It would be nice.
+
+“It’s a very big pile of sand,” she said to move the discussion forward. “There’s also the necrarchs.”
+
+Abe nodded again.
+
+“It is as the Empress says. Necrarchs are territorial. They would never remain side by side without some measure of contest unless the circumstances were special. Your Majesty, the mana concentration was nowhere close to that of the epicenter, am I correct?”
+
+“No way, although they were at levels close to that of the capital by the end of the battle. The… mana was acting weird though. Something pulled at the threads before I could properly weave them, before the cast but after the core extraction.”
+
+Most of the council appeared perplexed. She had to remember that only a few of them were casters, like Sidjin and Abe slowly nodding to themselves.
+
+“Imagine you’re drawing a sword. Every time you do so, some invisible hand grabs the handle to contest you. You can still draw and fight if you’re much stronger, but it’s a bother. Not to mention, it happened every time I got close to the horde.”
+
+“It must be a sign of something new. I have no recollection of anything similar ever happening.”
+
+“Can Enttiku help us explain what is happening?” Viv asked.
+
+“I will offer prayers. We will get guidance in these trying times.”
+
+“Right,” Viv said. “Ok so, before we think about solutions, let’s list what we know and what that means.”
+
+“We know it’s not natural,” Ban proudly said.
+
+At least he’d been paying attention.
+
+“Ok good. We also know it relates to something that can affect black mana on a very wide scale. Having said that, I doubt it’s a necromancer. Efestar was the best at providing this sort of power, and we flipped him to our side.”
+
+The rest of the council looked distinctly uncomfortable. Viv sighed, then sent a massive amount of mana Efestar’s way.
+
+“WHAT IS IT?” a voice roared in her soul.
+
+“I just kind of belittled you. Sorry,” she whispered.
+
+“AGAIN?”
+
+“I’m under a lot of stress. There is a titanic horde of undead heading my way.”
+
+“IT’S NOT MY FAULT.”
+
+“I know, I know.”
+
+“ENTTIKU WILL HELP. IT’S THEIR DOMAIN.”
+
+“Thanks, on it.”
+
+Viv returned to the present to realize everyone was now looking at her.
+
+//Were you communing with the divine?
+
+“Yes and he said that was fine and to ask Enttiku. Counting on you, Abe.”
+
+The living lich gave Viv a thumbs up. She knew she shouldn’t have let Solfis show him Terminator. Now both of them were getting insufferable with random quotes.
+
+“So it’s most likely not a necromancer, but could it be a lich?”
+
+Nobody commented. In fact, everyone's attention was on her.
+
+“What?”
+
+//Your Imperial Majesty.
+
+//The continental expert on black mana and undead disposal…
+
+//Is you.
+
+Viv hated being the most qualified person in the room. Wait, no, she hated being the most qualified and having no idea what the fuck was going on. Maybe it was all part of being an adult.
+
+She missed the days where fucking up just meant she’d lose grades on a school project.
+
+“I didn’t feel any presence controlling the undead, but there has to be one, somehow. I just don’t feel like it’s a lich due to the presence of necrarchs. There was something weird happening in the previous battle: the necrarchs didn’t appear until I did. I don’t think it was a coincidence because… they appeared all at once.”
+
+“I share this opinion,” Sahin added. “We were fighting for hours. Any necrarch in the horde would have had ample time to come. If they are indeed spread out, they would have come one after the other. Instead, they came all at once almost immediately after the Empress arrived. This might have been a trap.”
+
+“Do you mean that the necrarchs were held back?” Ban asked with clear worry.
+
+“Not just them,” Sahin added.
+
+He finally opened his eyes. Reclining in his chair, he placed a long finger under his chin. He was almost talking to himself.
+
+“The undead we fought did so with all their might. Given the size of the horde, however, the assaults should have been more dense. I fully expected to lose an entire company.”
+
+Viv was aghast. She hadn’t been aware of that.
+
+“Instead, they came piecemeal. It was as if we were being kept alive on purpose.”
+
+A chill crawled up Viv’s spine.
+
+“You were… bait? For me?”
+
+“But then why not immediately surround you? All of the necrarchs came from the front. It would have been easier to have a few of them hide on the other side of the shelter. And why keep the fliers over the city instead of having enough overhead to block your avenue of retreat? I find it all very confusing.”
+
+“There is also the matter of necrarch control,” Viv continued. “Necrarchs are the hardest creature to affect since their reserves of black mana is massive, yet when I used yoink on one of them, I didn’t feel any foreign presence at all.”
+
+Never had the occurrence of such a silly word been received with such gravitas. It made Viv so happy she’d switched to edgier names for her spells, as befit her evil witch queen aura.
+
+“So to summarize, we are facing an unknown intelligence that pursues less-than-optimal strategies for dubious purposes, and that isn’t a lich, or a necromancer,” she finished.
+
+Irao raised his hand. It was so unusual for him to participate that everyone turned to him
+
+“So. We don’t know shit.”
+
+“That’s it, yeah,” Viv freely admitted.
+
+“Our first priority shall henceforth be to learn more,” Sahin said, unamused. “I propose that our most proficient casters work on it. Meanwhile, I have work to do for your apprentices, if you will allow it. After all, even if we do manage to find out and stop whatever intelligence moves the creatures, they themselves will remain a problem for the foreseeable future. Now that they have been moved so close to us, we must thin the herd.”
+
+“You have an idea on how to deal with that many creatures?” Viv asked, a little surprised.
+
+“I wouldn’t be much of a strategist if I did not. I shall require the entire army, all the mages you can spare, about five thousand laborers, and the help of my dear friend Lak-Tak.”
+
+Sir Warcrime’s ears twitched with excitement. Viv wasn’t surprised. Once again, mankind would suggest to him more exciting ways to kill stuff in great numbers.
+
+“I mean, sure. It’s kind of important.”
+
+“One last thing,” Lady Azar said. “We should call upon the Paramese alliance.”
+
+“They’ll never get here in time,” Viv said, but she realized that wasn’t entirely true. “But their elites might.”
+
+“Yes. I will also personally request the help of the Golden Order. The sisters of Enttiku will surely be of help in this grand endeavor.”
+
+Viv nodded. After ironing out a few more details, the meeting was adjourned.
+
+It was remarkable how everybody was still mostly calm. Viv certainly felt like screaming. The Spark of Luck was working overtime to make her life interesting even when it looked like she’d erased every major threat in the continent by cautious application of overwhelming violence. Why couldn’t it be finding a buried treasure though? Or secret spells written on an ancient wall by mysterious precursors? Or her favorite sock? Why did it have to be zombies and spiders? With a series of uttered curses and complaints to fate in general, Viv gathered Sidjin, Rakan, Lana, and Frosthawk for a brain-storming session. She made sure to have cups of warm kava on hand. This was going to be a long week.
+
+“I suggest we go to the site of the old capital,” Frosthawk began. “It is a blight upon the surface of Nyil, an abomination. If anything cursed and unnatural occurred, it must have originated from that gods-forsaken shithole.”
+
+Viv tried not to think about the fact she was a cursed and unnatural creature originating from that gods-forsaken shithole. Frosthawk didn’t mean it like that
+
+Wait, was she some sort of fated calamity? Surely not.
+
+“I agree with Froshawk,” Sidjin said, “especially considering the presence of necrarchs. They were all inside or around the city, therefore the likelihood that something started there is rather high.”
+
+“Ok, let’s add exploring Harrak to the list. There’s still the matter of the horde though. The magical power required to keep a working spell increases with the distance. The distance between Harrak and the horde right now is about four to five times the maximum distance for portals — and those are specialized spells. That means either the horde is bringing what’s making it move, or there is some sort of relay. Yeah… Yeah, that makes a lot of sense. The black mana tug must have an origin.”
+
+“What if it’s an all-encompassing cloud of things?” Rakan asks.
+
+“That’s a good point,” Viv replied, “but I would have felt it as a presence. Anything with true intent, such as was displayed by the horde, must have a soul of sorts. Not necessarily a human one but an imprint.”
+
+“Golems have intent though,” Frosthawk said.
+
+“And they have an artificial soul. It says so when you inspect Solfis,” Viv insisted.
+
+A few of the mages around the room shivered.
+
+“It’s never a good idea to inspect Solfis,” Sidjin said.
+
+“Last time it told me my chances of success were in the negatives. What does that even mean?” Lana complained.
+
+“The interface called me a meatbag,” Frosthawk added.
+
+“It asked me if I wanted to meet Enttiku in person,” Abe commented. “I am not particularly in a hurry.”
+
+“What?” Viv exclaimed. “Is it working weirdly with everyone? Why am I getting normal feedback?”
+
+“Because,” Sidjin patiently explained, “you are one of the only entities Solfis actually respects.”
+
+It didn’t make sense unless Nous was in on it as well.
+
+Actually, he probably was.
+
+“Looks like being dead makes gods really bored huh.”
+
+User input detected.
+
+“Nevermind hahaha.”
+
+Viv grabbed her cup of kava. The handle promptly broke, causing her to spill piping hot liquid all over herself.
+
+“Gah! Alright, enough stupidity. We’re doing serious work to save people. So! Let’s assume there is something in or around the horde that directs it, using black mana in some form. Let’s assume this is the same thing that tugs on every scrap of black mana it detects. The solution, then, is to find it. How? Since it’s not some disincarnated soul floating in the middle of nowhere, then it must have some sort of physical location, maybe a core or something, therefore I suggest creating a ritual to detect the, well, the center of the horde.”
+
+Viv was making a lot of assumptions here, but the issue was that since this was unprecedented, there were no readily available solutions to find. She’d have to make one herself. The horde having some sort of decision center was the safest bet she could make.
+
+The mages discussed options in a low voice but she knew what it would come down to. She was the best black mana expert they had. It would be up to her.
+
+“Right, I’m going to create a fast ritual I can cast while moving because the horde won’t just let me hang around. It will have a tug-detection compass that detects interference, some support detection element, and… I think an amplifier. That should be all I need.”
+
+“Do we tell her this violates Erengis the Elder’s non-directional unmanifested mana paradigm?” Lana asked Rakan.
+
+“She’s a witch. They don’t care about that sort of thing,” Rakan wisely replied.
+
+“What the hell is a non-directional unmanifested rule?”
+
+“Erengis the Elder is a researcher from the late Harrakan era who observed that so long as mana is not manifested onto Nyil, it doesn’t technically exist on this plane of existence and therefore cannot be in a direction.”
+
+‘What do you mean? The mana is in our conduits.”
+
+“Which are metaphysical organs that do not technically exist in this plane of existence either.”
+
+Viv blinked.
+
+This was so fucking stupid.
+
+“Well, existence or not, they’re literally tied to my body and I know where my arm is related to my eyes so I guess it’s good enough to get a direction,” she retorted.
+
+“See?” Rakan said while Lana nodded to herself.
+
+“Ok, you smartasses work on the amplification while I remind the planet that directions are a thing. Again.”
+
+“Do you not make it forget about directions and distances with your portal spells?” Abenezigel asked with some measure of confusion.
+
+“I don’t make it forget anything, I convince it to temporarily make two distant points merge as one. I even tell it which specific points should be linked. And then I give the mana to fuel the working.”
+
+The room erupted in a debate on the merits of ‘convincing’ the world of anything. That was the problem with mages. Get two of the fuckers to argue and you’d get three separate opinions. Four mages were a symposium. Five were a controversial video’s comment section.
+
+“I would like everybody to focus on stopping the uncountable horde of undead and necrarchs descending upon our city as first priority,” she gently reminded them.
+
+After twenty minutes of intensive work, the group had a working prototype. That would have surprised Viv before, but she was currently leading a team of geniuses including one with literal centuries of experience working with complex constructs. It was, however, decided that it would be much simpler to create a tool rather than have Viv constantly keep the thing active since she would presumably be under constant attack. As Viv left the Palace, she looked to her right, north, where the undead horde would come from. On the desolate plains beyond the high city, a multitude now labored to save their empire. She had to stop to take it all in.
+
+Civilians and soldiers formed organized columns, hard at work digging, shoveling, carrying, stacking and moving the soil. Vast cooking pots had been erected at the edge of the work site to keep the thousands of people fed. An entire convoy of water barrels was now making their way around under the competent leadership of New Harrak’s civil servants. Mages dug deep while others rested to replenish their mana, and priests moved around to bless and help where they could. It was a great sea of humanity labroting towards a common goal, and with every minute that passed, more trickled in from distant villages. There were red turbans from the mountain tribes, white embroideries from Kazar, blue fabric from Baranese immigrants and black cowls from Efestar’s converts. As she watched, the first of the yries diggers rolled down the path from the city. They were immediately directed to the front.
+
+“Holy hell.”
+
+“This is our land,” Sidjin said. “It wasn’t before, but now it is. We will defend it. Against everything.”
+
+Arthur flew over the plain. She roared, and the humans roared with her. Flags rose in a crescent that faced north.
+
+They had eleven days.
+
+A lot could be achieved in eleven days.
+
+“Let’s go to the workshop.”
+
+By the time Viv reached Sinur’s Gate’s most famous smithy, Vulcan was already there along with her squabbling gaggle of mages. They were in the middle of intense discussion, though Viv could only hear the golem’s side. This was standard when one group used vocal chords and the other used mana-powered speakers.
+
+//No, it will be made of silverite steel alloy at four percent purity.
+
+//Yes, we have it.
+
+//Yes, I can work it.
+
+//Yes, it is the most reliable material for a tool this small.
+
+//No.
+
+//Because you know magic and I know metallurgy.
+
+//You can certainly try.
+
+“Let the golem work,” Viv ordered as she approached. “We need the frame quickly so we can inscribe the runes. Hurry.”
+
+Honestly, there was nobody better at precision work than Vulcan, who was pretty much a walking computer integrated machining workshop with snark. Under his control, it took less than an hour to create the tool from picking ingots to the finished product, with Frosthawk providing cooling. The group of mages then worked on each part with three different last-minute arguments on mana efficiency that Viv had to quash because it wasn’t about getting the perfect tool, it was about getting a functional one on time. Arthur arrived at the end of the process and immediately agreed to carry Viv on her back again. The dragoness really took the situation, and the fate of her investments, seriously.
+
+By mid-afternoon, Viv was ready. She jumped back into what was left of the portal network to find the horde. Something told her it wouldn’t be too hard.
+
+***
+
+Viv recognized the large rock formation below her. Once it had been the training site for some of the empire’s best scouts, but little of it was left save for derelict structures among a forest of dark stumps.
+
+Incidentally, it looked like a ballsack. Solfis had once confirmed it was called exactly that by its students.
+
+Arthur was still picking up altitude in preparation for their mad dash. Her wings might have only worked because of magic, but even violating the laws of physics was easier when diving. She brought out her detection tool. Its central piece, a tiny copper sphere, was empty for now. They were still outside of the range of the horde, though closing fast.
+
+Viv looked at them. It didn’t get any better the third time. Their fliers still formed a lazy hurricane of desiccated flesh over a squirming carpet of grasping limbs that covered the land for kilometers upon kilometers. It was an impossible sight, a cataclysm on the march, more a natural disaster than an invasion force. Just watching them all move gave her vertigo.
+
+Closing in.
+
+The pair climbed up to just below the dense clouds. Viv activated the compass. A perfect ball of black mana formed inside of the copper circlet.
+
+“Active. Ok, go.”
+
+Arthur dove. The pair picked up speed as they approached while Viv continuously fed the tool. As they crossed over the first real clumps of revenants far below, it activated. The ball showed a spike. That spike was aimed upward. It pulsed, reached, fighting Viv for control.
+
+“What the…”
+
+The spike moved.
+
+They made contact with the first fliers, then it was all Viv could do to kill them as they arrived. A fire shield formed in front of them, turning all the lighter birds and bats on their path to ashes. Arthur weaved between the larger monsters. As planned, they were too fast for them to catch up.
+
+“It’s up. Up!”
+
+A flying thing?
+
+Where?
+
+I don’t see it.
+
+The ball pulsed again.
+
+“Climb.”
+
+They did so, flying away from the lazy river of fliers following them. The hundreds of creatures soon lost interest as they returned to their old patterns. Viv looked up where the arrow was pointing. Still nothing. Just dark clouds upon dark clouds.
+
+“Is this thing working?” Viv mumbled to herself.
+
+But she knew the answer. It was working. She just didn’t like what it was telling her. Arthur kept climbing, this time more slowly and in a circle to conserve her strength. The black mana held in the cloud infused her with power.
+
+Ugh.
+
+That is too much, even for me.
+
+“Wait, are you getting poisoning?”
+
+Yes!
+
+The concentration is too high!
+
+It had to be as high as the Imperial Ziggurat if she was suffering like that. Viv winced. Should she stop now? Arthur coated herself in a thin layer of life mana, making Viv uncomfortable but it was a sure sign she didn’t intend to give up.
+
+Suddenly, they burst through the cloud cover and into a mass of radiant, gray light, as sickly as it was powerful. The dome of the blue sky should have been a rejuvenating sight, but instead, the dark air reminded Viv of the Helockian arena when she was done with it. Viv gasped. Her sight caught up to the vast bone construct gliding above her head, its wingspan equal to that of an airliner. She inspected it as fast as she could.
+
+[Reanimated Dragon]
+
+And then her eyes drifted to the next.
+
+And the next.
+
+And finally, to the largest one. That one was different. Its eyes didn’t glow with the blue fire of liches, yet silvery runes ran all along its spine, its mighty jaws, right down to the tip of people-sized claws. The creature was absolutely monstrous. It radiated black mana with a rare intensity.
+
+Its head turned to her.
+
+“Fuck. Yoink!”
+
+The spell didn’t even connect. It evaporated a meter away from the creature’s body. Viv’s last minute inspection worked though, but before she could read it, a pulse of black mana tore through the air. Arthur buckled under Viv. She looked down and saw that black lines were crawling over the poor dragoness’ skin.
+
+“Pull out,” Viv immediately said.
+
+Arthur didn’t wait. She dove back under the cover of the cloud. A cough shook her entire frame.
+
+Viv didn’t even consider returning.
+
+They were not ready for this.
+
+***
+
+Arthur was suffering. Viv could see it and it was tearing her heart apart. A black sheen tarnished her healthy white scales, and she shivered from time to time.
+
+I can feel your concern, mother.
+
+Kindly stop.
+
+I will be fine.
+
+“We’re making a detour. Go west.”
+
+Mother?”
+
+“Go west, now. I recognize the place.”
+
+What do you —
+
+Oh.
+
+“Unless… it’s too hard for you.”
+
+No.
+
+I am curious now.
+
+I will go.
+
+***
+
+The two flew over hard terrain, then over dunes that had seemed endless five years before, as a feverish Viv had crossed them on her sled. They soon found the derelict remains of a small town adjacent to a low elevation, the mouth of a grotto waiting like an invitation. A waft of pure air emanated from its openings. Viv and Arthur landed in front of it.
+
+The soft gurgles of water welcomed them. They moved in, wordless for now. Inside, the dim light of the deadlands took on a more pale hue. Steps descended into a pure pool from which vapors rose. In the distance, a tattered veil covered the mummified remains of Cassia, one of Neriad’s many worthy champions. This was Cassia’s Last Gift, possibly the only artifact that had survived the death of the Old Empire inside of the fallout zone.
+
+It was there that the two had met.
+
+Without waiting, Arthur carefully stepped down into the pool. Smoke rose from her body as the pure water washed away the corruption. She sighed with pleasure. After hesitating for a moment, Viv disrobed and joined her. They still had much to do if they wanted to save Harrak, but it was also important to pace oneself. They both needed a short break. Viv offered a prayer to Neriad as soon as she was inside of the pleasantly warm water. It might have been her imagination, but she thought she spotted golden light briefly embracing the remains. There was no soul here, only the traces of a courageous essence.
+
+Viv relaxed. She wanted to forget the invasion for a little while.
+
+It has been a very long time, mother.
+
+“And you have grown so much,” Viv replied, allowing herself a smile.
+
+We have grown so much.
+
+Although, still no wings!
+
+“I’m doing my best.”
+
+The dragoness huffed. Her powerful breath pushed Viv’s hair away from her face.
+
+“Do you ever regret it?” Viv asked.
+
+What?
+
+“Me raising you, instead of returning to the wilds. Like your brother did.”
+
+My brother?
+
+The unwashed simpleton?
+
+Who can’t even cast properly?
+
+Who is POOR?
+
+“I, err, when you put it like that…”
+
+It is not the right time to question yourself.
+
+I am dragon.
+
+If I hated being with you, I would have left a long time ago.
+
+I stay because I want to.
+
+You are making us strong.
+
+Arthur’s ruby eyes glittered malevolently in the dim light, and Viv was reminded that her adopted daughter had and would again burn people to death.
+
+This is Nyil.
+
+Our power carves our will onto this world.
+
+She spread her wings in a totally-not-evil display. Droplets of water splashed over Viv.
+
+So no, I do not regret it.
+
+I think Judgment is reconsidering the way we raise whelps because of you.
+
+“You mean, not raising at all?”
+
+You are exaggerating.
+
+I meant to do more than just guarantee survival until fledge.
+
+You are such an important borgling that dragons are thinking about you as not-prey.
+
+Truly, mother is remarkable.
+
+But that is not what your question really is about, is it?
+
+Arthur smiled, and it was a ghastly reveal of a forest of fangs. Funny thing was, baring her fangs was an imitation of a human gesture, but in dragon body language, it was a promise of imminent violence. Arthur was really, really good at leaving the actual result ambiguous.
+
+You are afraid.
+
+You are afraid because for the first time in a long while, there is nobody around who can give you a clear solution to your problem.
+
+That is how you resolve most difficulties.
+
+Identify it, obtain the right tools, then usually ultra violence.
+
+But now, you are afraid.
+
+Because you must fumble in the dark.
+
+So you revert to the human habit of worrying about everything.
+
+It will not help.
+
+But I have a solution!
+
+A very easy one.
+
+“Ok, do tell.”
+
+Just be dragon.
+
+What are human souls, but pathetic seas of doubts and guilt?
+
+You will never find enough reasons to be certain of success as a flawed, short-lived, hairless monkey thing with only two useful skills: prehensile thumbs and lying.
+
+Therefore, you can never convince yourself you will succeed.
+
+It is human nature to overthink, or die.
+
+Sometimes, overthink, then die.
+
+That is why you must be dragon.
+
+Feel supremely confident, act supremely confident, never doubt that you will succeed.
+
+For the power of your conviction shall move your minions to a devoted frenzy.
+
+As befits us.
+
+“That is… surprisingly good advice. Sounds like a ‘fake it till you make it’ kind of thing but with more fire and claws.”
+
+As long as you stop moping.
+
+As it is an activity that serves no purpose.
+
+Let us return and prepare our next strike!
+
+“Alright. Just… maybe five more minutes?”
+
+It was really comfy in here.
+
+Five more minutes.

@@ -1,0 +1,175 @@
+---
+id: b843ce1e-b726-53fd-ba8b-9252075a9ca0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 340 : Deep Waters"
+slug: 0041-chapter-340-deep-waters
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 41
+ownLength: 2017
+unit: words
+ownProgress: 2017
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2963425/chapter-340-deep-waters"
+royalRoadId: "2963425"
+markedReadAt: "2026-06-29T19:43:10.372Z"
+---
+
+Vanessa was furious. During her brief absence from Sylvain, the other mermen had jumped on him like starving vultures. The worst part was that they were using her name to do it, risking her goal in the process.
+
+If that wasn't bad enough, while they were promising Sylvain that his "gifts" would bring her back sooner, the actual truth was the opposite—they were doing everything in their power to delay her!
+
+Truly, she had underestimated the greed that drove the princes and princesses, but thankfully, it hadn't been enough to wrest Sylvain away from her. Truthfully, she was also upset that they were taking away things that belonged to both of them, but at the end of the day, as long as they had each other, they could earn more.
+
+Together with Sylvain, I can become the top siren!
+
+To her relief, Sylvain didn't seem too upset about his missing items and was just genuinely glad she had returned. She did curiously ask about all those items and where they came from, to which he simply replied.
+
+"I never trusted the adventurer's guild, so I kept them on me."
+
+Vanessa vaguely recalled the rumor she heard about him when she was digging for info, and it aligned with what he just said. Sylvain's distrust of the guild, combined with his recent recruitment and rapid rise to fame, was the reason she initially sought him out.
+
+Well, if Sylvain kept most of his wealth on him, then I don't need to risk trying to get it from the guild. We weren't together long enough before our staged tragedy, so it would be strange if I wanted to claim it as his widow.
+
+Vanessa knew she had taken a considerable risk bringing him in so soon, but her every instinct was driving her to do so. Her biggest fear was losing him to his wanderlust for adventure, as he seemed to be growing quickly bored with the simple tasks on Volcano Island.
+
+What's done is done. Tomorrow I'll take him on a bit of an adventure and solidify our bonds. I'm sure if I get his blood pumping from fighting some trench monsters, he will see how good we are together!
+
+***
+
+Vanessa had returned while I was still out and about exploring the underground of Azulean. I unfortunately couldn't find a siren to complete my collection, but I did leave behind plenty of spell orbs for my future trap.
+
+At the same time, plenty of smaller bombs had been given away as gifts under the guidance of Alpha and [Roleplay]. At the rate things were going, soon I'd have enough explosives to blow up Azulean in one big blast!
+
+I slinked back, ensuring I kept everything sealed up and reunited with Sylvain, just in time to hear about Vanessa's plans. She wanted us to go hunting to show everyone how good we were. Naturally, I agreed, as I wanted the experience points and any potential profiles of the deep-sea monsters.
+
+After that, she spent some time socializing before they shared a meal together. Thankfully, things didn't get too intimate between her and Sylvain, or I might have needed to retreat again, as it seemed Vanessa was holding back for now.
+
+The next day, while waiting for Vanessa, I had the displeasure of meeting Lewis, the current "top dog" among the humans. I had been chatting with Nick, who had come to ask me why I had so many mermen princes and princesses approaching throughout the day.
+
+That was when Lewis showed up and injected himself into the conversation. Lewis was so arrogant and full of himself that not even Johnathan Green or Galan "Dewdrop" Elarinwe combined could outdo him. My immediate thought was "some noble brat," but surprisingly, that actually wasn't the case, or at the very least, he didn't have another name.
+
+"So you're the trash that Vanessa brought in," Lewis sneered. "I don't see why such a dignified siren would pick you."
+
+<Lewis; Human LV 27; Hydromancer LV 48. Elemental Affinity: Water, Ice.>
+
+He's missing Air… Is that why he can't qualify for the Cryomancer class?
+
+My ponderings aside, I couldn't see any reason why he was so confident in himself. His level was higher than the rest of the humans, sure, but he was still lower than the disguised level I'd given Sylvain.
+
+"I guess we just fell head over heels for each other," Sylvain replied with a shrug.
+
+"With you? I bet you begged to be brought here," Lewis scoffed. "Just like Nick here and the rest of the unchosen."
+
+Sylvain frowned and began releasing some of his Mana threateningly, an amount that could easily overwhelm Lewis. Lewis began to sweat visibly, his confident smirk fading.
+
+"Don't," Nick warned in a hushed whisper. "He probably wants you to do something so Amelia will punish you."
+
+I was very tempted to do just that. If Amelia came, then I'd have a siren profile delivered right to my doorstep, but I restrained myself until I was entirely sure I was going to commit to my assault. I still hadn't seen the rumored king or queen mermen, and there was always a possibility they could threaten me.
+
+"What? Are you scared?" Lewis taunted.
+
+Sylvain sighed and chuckled, shaking his head. "I'm going on a hunt with Vanessa soon, so I wouldn't want to waste my energy."
+
+"You? Hunting? That's a laugh," Lewis snorted.
+
+"It should be quite the trip. I'm sure we will earn some merits, after all, with both hydromancer and aeromancer under my belt, it will be simple enough," Sylvain replied.
+
+"That's a bold claim," Lewis replied, evidently not buying it.
+
+Sylvain shrugged and held out a finger, a [Vacuum Blade] forming at the tip before slashing at the ground beneath him. It cut a clean gash into the ground, causing both Nick and Lewis to yell out in shock.
+
+"[Wind Magic] isn't so hard," Sylvain said smugly.
+
+"You—" Lewis snarled.
+
+"Sylvain, sorry I'm late," Vanessa said, interrupting the escalating tension.
+
+"For you, it's always worth the wait," Sylvai replied, turning to her and immediately ignoring Lewis.
+
+Lewis opened his mouth to say something, but nothing came out. He gave one final glare before scurrying away.
+
+Looks like he won't cause any issues in front of Vanessa. I can only imagine his goal was to have his word against mine, and even if I had Nick backing me up, it wouldn't be enough.
+
+Waving goodbye to Nick, I followed after Vanessa as we headed outside the air section. I cast [Bubble] on myself again as we left for the water, with our destination being one of the exits into the ocean.
+
+"Be careful while you're under probation," she warned. "Amelia has always been petty, and now she feels threatened by us."
+
+"I will," Sylvain promptly agreed.
+
+"I got you a present… Although it's more for your own safety once we leave the city," Vanessa said.
+
+"Oh?" Sylvain asked curiously.
+
+Vanessa nodded and pulled out a necklace, the pendant of which was shaped like a nautilus shell and coated in what appeared to be refined deepstone. She reached into the bubble and placed it over Sylvain's head, the item dangling at his neck.
+
+"This will keep you safe in case your spell fails; otherwise, your body might not be able to survive the deep ocean," Vanessa explained.
+
+"What about you?" Sylvain asked, with apparent worry in his eyes.
+
+Vanessa giggled and pulled out another one. "I have one too. Don't worry."
+
+Sylvain sighed with relief, the worry evaporating and giving way to a warm smile.
+
+I swear Alpha and [Roleplay] are getting far too good at this. I'm even getting fooled.
+
+I took a glance at the pendant, which was the only enchanted portion of the item, and was immediately puzzled by what I saw. I could vaguely tell it was a water-based enchantment, but the runes were not the standard I was familiar with at all. Considering that even dungeon loot appeared to match the same enchanting standard, it was truly baffling.
+
+Departing Azulean was simpler than I imagined, and soon we were out of the dome and out in the deep dark ocean. Of course, Vanessa already knew I had [Dark Vision] from when she was asking questions to pass the time, so nothing would stop us from venturing out.
+
+I did have to reinforce my [Bubble] almost immediately after exiting, as Vanessa had warned me about, and that was one of the reasons for the necklace. It was a simple task, and Vanessa looked delighted at how quickly I rectified the issue.
+
+"I knew none of the others could come close to your capabilities. Amelia and Lewis have no idea who they are messing with," Vanessa snickered.
+
+"Of course. Just point and I'll take care of any problems for you," Sylvain replied confidently.
+
+"Follow me, I'm confident you can keep up," Vanessa said and began swimming away.
+
+To keep up, we were forced to use either [Hydrokinesis] or [Wave Step]. With the latter, I was momentarily concerned there might be some incompatibility with [Bubble], but thankfully, there was none. As long as I kept the [Bubble] restrained, more like a coating than a vessel, then it behaved perfectly.
+
+Of course, this close coating modification lacked the protective properties the spell usually granted, but with [Hydrokinesis], I felt safe that nothing could approach me unless I wanted it to.
+
+For our hunting, Vanessa was almost like a bloodhound, pinpointing creatures and monsters with ease. The variety on display was astounding, with creatures that looked practically alien—from skeletal to pale and jellylike, and everything in between.
+
+Our goal was to ensure the city's perimeter was safe and to bring back food at the same time. Thanks to my "storage bags," I volunteered to carry everything, which meant I could snack on everything we came across.
+
+Crustaceans, eels, jellyfish, sharks, cephalopods, and more, we made sure to collect them all. I was always perusing the traits for anything exciting, but at this point, it was mostly about collecting new body parts and shapes for future transformations.
+
+I had thought I'd peaked in terms of ocean monster traits from what I'd gotten from the few mermen I'd secretly disposed of. That was until I came across one particular trait name that caught my eye. It came from an unassuming creature known as a "hagfish," and I honestly thought I had misread the name at first.
+
+<[Expansive Slime] Your body produces a specialized mucous compound that reacts explosively when exposed to water. Upon release, the substance rapidly multiplies in volume, expanding into a thick, gelatinous mass capable of filling space, clogging gaps, or overwhelming attackers. The slimy mucous' expansion ratio improves based on trait level.>
+
+A slime trait!? I've hit the jackpot!
+
+If I could turn water into slime, then I could expand endlessly. This was even better than [Slime Conversion]! I immediately tried to purchase it.
+
+<Trait [Expansive Slime] is incompatible with your race.>
+
+How!? I'm a bloody slime!
+
+I was so outraged that if it wasn't for Alpha and [Roleplay] holding the show together, our cover would have been blown.
+
+I immediately tried to purchase it again and again, refusing to believe this message.
+
+<Trait [Expansive Slime] is incompatible with your race.>
+
+…
+
+<Trait [Expansive Slime] is incompatible with your race.>
+
+…
+
+…
+
+…
+
+<Trait [Expansive Slime] has been renamed [Expansive Mucous].>
+
+Coward! Give it to me! It has slime in the name!
+
+<Trait [Expansive Mucous] is incompatible with your race.>
+
+But, no matter how much I cried out in rage, the system wouldn't allow it. Logically, I knew it must have just been a naming mistake, as it didn't have the familiar "compatible with other slime traits" line in the description, but my heart wouldn't allow it.
+
+I tried endlessly while Sylvain continued following Vanessa's direction, but sadly, it looked like Gramps wasn't going to let this slip by. Feeling unfairly defeated, I continued to sulk for the rest of the day.
+
+Stupid ocean. Stupid hagfish. Stupid Gramps… I'm going to blow it all up!

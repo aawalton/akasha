@@ -1,0 +1,181 @@
+---
+id: 5a7ddd2a-9f63-53eb-941b-7891edc0c475
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87: The Shadow of the Beast"
+slug: 0088-chapter-87-the-shadow-of-the-beast
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 88
+ownLength: 2230
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3590666/chapter-87-the-shadow-of-the-beast"
+royalRoadId: "3590666"
+---
+
+I could feel Ren’s heart rate skyrocketing.
+
+The frantic spike in his pulse pushed the biometric overlay in my vision deep into the danger zone. The numbers flashed an angry red. I didn't even want to check his cortisol levels; the physical data alone was enough of an indicator. He was on the verge of a complete breakdown.
+
+What was I even supposed to say to him right now? I was just as enraged at the sight in front of us.
+
+The two kids Ren had taken in from the streets, the ones he had tried so hard to protect, were broken. They lay on the floor of the makeshift infirmary, covered in mud, blood, and rain. Liam's arm was bent at a sickening angle. He looked incredibly frail, his face swollen, his breathing a shallow, wet rattle. Raina was covered in lacerations, her eye swollen shut, clutching her brother's good hand as if holding him to the earth. It was a state that would make anyone sick to their stomach.
+
+Sylas had rushed off immediately to find Caladorel. Thankfully, the scholar was still residing at the inn, renting one of the premium suites to keep a close eye on Lily's development. As one of the top magical practitioners in the entire nation, Caladorel naturally possessed a mastery over healing magic that dwarfed anything a local priest could offer.
+
+The elf arrived moments later. He didn't hobble in on his cane. He grasped the severity of the situation the moment Sylas burst into his room, bypassing his usual frail facade to use a levitation spell, gliding down the hallway with terrifying speed.
+
+He didn't waste a single second on questions. Caladorel knelt beside the children and began drawing a rapid series of glowing green magical circles in the air, his hands a blur of motion.
+
+I took this opportunity to talk to Ren, whose mind seemed to be a jumbled mess of awful possibilities.
+
+I made certain my text prompt was a light blue, the digital equivalent of a reassuring voice.
+
+[Ana: Don't worry, Ren. They are in capable hands. I overheard some of the maids whispering the other day; Caladorel serves as one of the royal physicians for the King's inner circle. They have the absolute best medical help you can get in this world.]
+
+"But this is all my fault," Ren whispered, his voice cracking as he stared at the blood on Raina's torn dress. "Instead of sending them away to the scrublands, I should have kept them here at the estate. I should have kept them safe."
+
+[Ana: You did this to keep them safe, Ren. You sent them away so they wouldn't be associated with you while the spies were watching the inn. If they stayed here, they would have been locked in, trapped under a microscope. There was no right answer here. You picked the best option you had, with the hope of keeping them from being dragged into this exact scenario.]
+
+"I know," Ren said, rubbing his eyes aggressively. "But I should have picked the safer option. I shouldn't have gambled with their lives."
+
+[Ana: The past can't be changed. All we can do is learn from it. Even I didn't expect this world to be so brutal. Everything looks like sunshine in this coastal town. Who knew this kind of darkness lurked under the shadows of the nobility?]
+
+Our mental conversation was interrupted by the weight of a gnarled hand on Ren’s shoulder.
+
+It was Caladorel. The glow of the magical circles had faded.
+
+"From the look on your face," Caladorel said softly, his ancient eyes studying Ren’s fraught expression, "it seems you didn't expect things like this to happen. Nobles might look like harmless buffoons at banquets, preening, but there are darker sides to their power. Come. Let's go to your study. I will fill you in."
+
+Ren looked back at the two kids. They were still unconscious, but they looked different. The swelling had gone down. Liam's arm was straight.
+
+"Do not worry," Caladorel reassured him, reading his thoughts. "I have healed all their wounds and repaired the bones. All of their physical trauma has been dealt with. As for the psychological wounds... I do have ways to deal with that, but I think it is best I discuss it with you before doing anything drastic."
+
+The two men moved to the privacy of the study. Sylas stayed behind in the infirmary, standing a silent guard over the children.
+
+When Ren took a seat behind his desk, Caladorel immediately cast an isolation barrier. A dome of shimmering magic enveloped the room.
+
+"The nobility falls into two distinct categories," Caladorel explained, settling into the armchair opposite Ren. "There are the buffoons who simply live off their inheritance, and then there are the ones who crave more power. The latter banded together centuries ago and created a group called the Old Circle."
+
+Caladorel leaned forward on his cane. "Usually, nobles never resort to such brutal measures openly due to strict royal oversight. But the Old Circle wields so much influence from the shadows, they can get away with these sins. They maintain their grip on the kingdom through such violent measures. I have been on their radar for a long time. They have been waiting for me to join them, to add my magical weight to their cause. I played dumb and avoided the trouble."
+
+The old man sighed, a sound that carried the weight of three millennia. "It looks like they are not happy with you, Lord Fenris."
+
+"They sent a thug to beat children," Ren growled, his hands clenching into fists on the desk. "Over what? Mayonnaise?"
+
+"They are looking for a can of worms, and you are currently a sealed jar," Caladorel corrected. "You cannot pick a fight with them right now. They own the courts, the guards, and the trade routes. Keep your cool. Do not blow things up. Act dumb. I will help you."
+
+He paused to take a breath, his milky eyes pinning Ren down. "This next part is a secret. No one else knows of this magic. I developed it myself. I have a series of original spells that deal directly with the mind. I can use it to erase the horrific memories of what happened today from the children's minds. I can give them peace."
+
+Ren’s eyes widened. Memory magic. It was a terrifying concept, the kind of invasive spell that could shatter a mind if handled poorly. For the kids, it might be the only way they’d ever sleep soundly again. But wiping a trauma wasn't a choice he could make for them. They had to agree to it.
+
+"And," Caladorel continued, his voice dropping to a dangerous whisper, "if we can capture the perpetrator, I can read his memories. I can find out exactly which member of the Old Circle ordered this attack."
+
+"Listen," Caladorel said, fixing Ren with a stare that brooked no argument. "We need to find out what this thug knows. This concerns Lily's safety."
+
+That broke Ren out of his mental fog. The clarity returned to his eyes. "How do we find the culprit?" Ren asked, his mind already racing through the logistics. "He vanished into the city. He could be anywhere."
+
+The old man reached into his robes and pulled out a blood-soaked cloth. "This blood belongs to neither of the children. It is the culprit's."
+
+Ren stared at the rag. The man must have suffered a superficial scrape from hitting the kids, or perhaps catching himself on a jagged piece of brickwork while throwing them against the alley wall. The sheer volume of violence inflicted upon the children practically guaranteed the attacker had injured himself in the process.
+
+"I can track him down myself," Caladorel offered, "but an Archmage wandering the Lower District looking for a specific blood signature would arouse too much suspicion. Instead, I propose you use the shadow pup."
+
+Ren looked confused. "The pups?"
+
+Caladorel shook his head. "No. Just the shadow pup. In my recent days staying here, I have noticed they are not normal magical wolves. They are Fenrirs. A fact that I am quite certain you already know, as you are their contracted master."
+
+The old man chuckled dryly. "I do not know where you are pulling these incredibly rare anomalies from, Ren. If you told me there was a dragon sleeping under the estate, I wouldn't be surprised at this point. But back to the issue at hand. A shadow Fenrir is the most lethal hunter in existence. They can track a target to the ends of the globe from just one sniff of their blood. And, through an incredibly odd turn of events that I still cannot believe I am saying out loud... you actually have that mythical creature lounging around your backyard. Fenrirs are smart. Their intelligence rivals that of humans."
+
+Caladorel placed the bloody cloth on the desk. "Bring the culprit to me. I will handle the rest."
+
+I immediately pulled up Smokey's stats in Ren’s vision, just to confirm what we were working with.
+
+…
+
+[COMPANION STATUS: SMOKEY]
+
+[IDENTIFICATION]
+
+Name: Smokey Title: The Silent Huntress of House Fenris
+
+Species: Fenrir (Lesser Strain, Pup)
+
+Level: 8 Type: Magical Beast / Apex Predator
+
+[CORE STATS]
+
+Strength: 50
+
+Agility: 120
+
+Stamina: 75
+
+Defense: 40
+
+Intelligence: 55
+
+Mana: 60
+
+Luck: 50
+
+[ELEMENTAL AFFINITY]
+
+Primary: Shadow / Darkness
+
+Secondary: Stealth / Subterfuge
+
+[CORE ABILITIES (Currently Active)]
+
+[Shadow Meld]: Smokey can perfectly blend into any shadow, rendering herself completely invisible to both optical and magical sight. While melded, her body temperature drops to match the ambient environment, hiding her from thermal signatures. She can adhere to walls or ceilings as long as a shadow is present.
+
+[Intangibility (Phase Shift)]: For brief bursts (1-2 seconds), she can turn her physical body into pure shadow. This allows her to let physical attacks pass harmlessly through her, or to slip through solid barriers like iron bars.
+
+[Shadow Step (Short-Range Teleportation)]: If standing in one shadow, she can instantly "step" out of any other shadow within a 50-meter radius. Makes her impossible to pin down, allowing for rapid flanking maneuvers.
+
+[Umbral Fang & Claw]: Fangs and claws are coated in potent shadow-aspected energy. A strike inflicts a 'Shadow Taint' status effect, draining the target's stamina and causing wounds to actively resist healing.
+
+Sub-Skill [Grasping Shadows]: At her discretion, shadow energy can be modulated into a non-lethal binding force. A controlled bite injects a curse causing phantom tendrils to erupt from the wound, temporarily binding the target's limbs.
+
+[TRAITS & BEHAVIORS]
+
+[Alpha's Bond]: Deep loyalty to the young High Elf, Lily. Recognizes her as the true Alpha. Designated herself as Lily's personal mount. Primary instinct is ensuring the child's safety.
+
+[Pack Father's Authority]: Respects and is bound to Ren through the [Beast Tamer] contract. Views him as the "Pack Father" (source of food, shelter, strategic command). Will obey his orders, but interpretation is filtered through the lens of protecting Lily.
+
+[Predatory Drive (Food Motivated)]: Obedience to non-critical commands correlates directly to the quality of treats offered.
+
+[S-Rank Potential]: Latent biological potential to grow into a world-class threat.
+
+…
+
+Well. The stats definitely matched the legends.
+
+What should I do, Ana? Ren asked in his mental voice, staring at the cloth. I'm sending a baby wolf to hunt down a professional interrogator.
+
+[Ana: Let's deal with one thing at a time. Look at her skill set. Smokey is basically a shadow-assassin. She'll be perfectly safe. She can phase through walls and teleport. He won't even see her coming.]
+
+Ren took the cloth from Caladorel. He walked out of the study and headed toward the pups' sleeping area near the courtyard. It was a small alcove, protected from the rain.
+
+Smokey was lying down, chewing lazily on a bone. Ren's approach woke her up. She trotted over, her tail wagging, thinking it was mealtime.
+
+Ren knelt down. He pulled out the bloody handkerchief and held it out to her.
+
+"I need you to bring this person here," Ren said, his voice serious. "Alive."
+
+Smokey looked up, tilting her head to the side, clearly confused by the lack of snacks.
+
+Ren reached into his mind. He used the beast tamer bond to convey the emotional weight of the request. He pushed the feeling of fear, of protection, down the mental tether. This concerns Lily's safety.
+
+The pup's demeanor changed completely.
+
+The playful wagging stopped. Her hackles raised, the black fur along her spine standing on end. Her eyes, usually wide, narrowed into glowing slits. She stepped forward and took a deep sniff of the cloth.
+
+She let out a silent snarl, and simply melted into her own shadow, vanishing from the physical world.
+
+"Ana," Ren whispered, staring at the empty space on the floor. "Will it be okay?"
+
+[Ana: Ren, you can't second-guess every decision moving forward. You made the right call. If it makes you feel better, here is the real-time location of Smokey.]
+
+I pulled up a mini-map in the corner of his vision. A black dot was currently moving away from the estate at an incredible speed, darting from shadow to shadow across the coastal road.
+
+That seemed to put Ren slightly more at ease, his shoulders dropping a fraction of an inch. I needed to find a way to break him completely out of his slump.

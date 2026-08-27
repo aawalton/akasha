@@ -1,0 +1,215 @@
+---
+id: d54f7eb9-b494-5c19-9bc3-5e185d83b58c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 400 : Slime Method"
+slug: 0102-chapter-400-slime-method
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 102
+ownLength: 2492
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3647212/chapter-400-slime-method"
+royalRoadId: "3647212"
+---
+
+"How do you feel?" I asked curiously.
+
+"Considerably weaker… But I did go from an advanced class to a basic one," Sylvester replied.
+
+Keldenar coughed and loudly cleared his throat. "Technically speaking, it's not a basic class; it's what we would call a growth class. The start is slow, but it ramps up over time."
+
+"I see…" Sylvester replied and seemed to be examining his profile. "I can only have one golem?"
+
+"It ramps up, like I said. Also, your first golems won't be anything special unless you use good materials in their construction. I hope you aren't having buyer's remorse already?"
+
+Sylvester shook his head. "It will just take some getting used to."
+
+"Throw a [Fireball] at me," I suddenly said.
+
+"Hey! Not in the castle—" Keldenar shouted, but it was too late.
+
+Sylvester threw a [Fireball] straight at me, although it looked more like a [Fire Arrow]. Heck, I'd seen more intimidating [Water Orbs], which went to show how much his offensive abilities had been reduced. I was planning on swallowing up the magic with an aperture to avoid any damage, but this was so pathetic that I just reached out and snuffed it out with my hand that I slightly enlarged with slime.
+
+Keldenar sighed in relief; if anything, perhaps he was the one experiencing some buyer's remorse now.
+
+"If we include the bonuses you lost from having the preferred class, I'd say you're about eighty to ninety percent weaker before accepting the class," I roughly estimated.
+
+"Hopefully the golems are worth it," Sylvester replied. But I've still got enchantments to fall back on."
+
+"Oh, trust me, you'll be happy with that choice. Golems and enchanting go hand-in-hand like peanut butter and jelly," Keldenar said, having recovered from the abrupt [Fireball].
+
+From there, I shared [Roleplay] with him while going over the drawbacks and warnings I'd been given when I had it. Thankfully, it looked like Keldenar had no desire to use the skill himself and would instead install it in his golems, as he had previously mentioned.
+
+"Watch and observe!" he said excitedly, and held out his hand. It shone brightly, and after about five minutes of nothing, an iridescent diamond emerged from his palm. "Wow, that took longer than I expected…"
+
+Sylvester and I both stared at the strange item with intrigue. Thankfully, Keldenar was planning to explain his process.
+
+"This is what I call a skill crystal, and it's something entirely unique to golems, and eventually my future golem race," he said excitedly. "I can install this into any golem, and it will grant them the skill at whatever level the crystal is at. The golems can then grow the skill crystal, just like any normal skill, but it's significantly slower than actual skills."
+
+"Judging by the smile on your face, I'm assuming that there's some benefit despite the drawback?" I asked.
+
+Keldenar grinned. "Correct! What it lacks in speed, it makes up for in flexibility. I can remove a skill crystal and replace it in any other golem, immediately granting it to them and all the accumulated growth."
+
+"So you make a bunch of skill crystals, grow them over time, and then use them when necessary?"
+
+"Basically."
+
+"It's a pity you can't merge multiple crystals together, then you could use mass farming to nurture a super crystal," I murmured, drawing a comparison to trying to get [Sub-Cores] to train for me, or more recently, sending out my personas to fight in their own party.
+
+Keldenar suddenly slumped. "Well damn, go and ruin the surprise, why don't you... That's exactly what I do."
+
+"Sorry…" I shrugged awkwardly.
+
+Sylvester chuckled, "Great minds think alike, I suppose…"
+
+That caused Keldenar to smile, and he then summoned a golem, and we watched as he inserted the crystal into its head. He explained that he could insert it anywhere, as it gets absorbed by the golem core anyway, but he prefers the head for appearances.
+
+After a few moments, the golem began walking, talking, and acting like a real person, much to our host's delight. I even noted that that particular strangeness to their voices was gone.
+
+"And this was with a level one crystal… Imagine what higher levels can do. I guess I'll need to start mass producing these crystals and have my golem farm start upgrading them," Keldenar said, a burning excitement in his eyes.
+
+"It shouldn't be too hard to level up, even if you are getting penalized. This is kind of what I did—"
+
+I then explained how I had [Roleplay] work for me and how just keeping up the new persona for extended periods was enough to level it up. I also explained that, for me, it became extremely flexible and that I used it in conjunction with my [Sub-Cores] to effectively create autonomous personas.
+
+Keldenar was clearly inspired, as he immediately wanted to do something similar, claiming that his advanced golem cores worked in a very similar way. While he was explaining, he gave Sylvester a brief lesson on creating his first golem.
+
+"It all starts from the golem core. At first, you will only be able to make dumb cores that need to be told exactly what to do at all times. Move here, swing your weapon, and so forth. When you increase your skill level a bit, you will be able to create more advanced ones, and these are where the Golemancer class really gets its chance to shine!"
+
+I had expected the golem core to be similar to my own slime cores, but from what Keldenar showed us, they looked nothing alike. Rather than a sphere, it could be any shape, size, and even material, although Keldenar suggested keeping compatibility with the main body in mind.
+
+"Don't go making a golem core out of wood and then placing it in a magma golem," he chuckled.
+
+Of course, while it could be made out of anything, Sylvester wasn't capable of that yet. We had tried using a piece of obsidianite slime, but his skill was too low-level to transform it. We tried several other pieces of [Metal Slime], but even simple copper was too much for him.
+
+"I don't suppose slime is incompatible?" I pondered.
+
+"I hope not, that is our most abundant resource by far," Sylvester sighed.
+
+"Let me try," Keldenar offered.
+
+We threw him over a piece of obsidianite slime, and he quickly got to work. The chunk of metal slime began to glow, but rather than instantly being completed as he'd previously shown, there was noticeable strain.
+
+"Give me a moment, I need to put my back into it…" Keldenar muttered and began scrunching up his face. "This requires… Maximum effort!"
+
+After a long and strenuous ten minutes or so, Keldenar finally let out a sigh of relief and slumped back into his chair. "Done… That was the hardest golem core I ever had to make. Whatever that stuff is, it's top-top quality. I give it the Keldenar seal of approval."
+
+From a distance, I couldn't tell any difference in the piece of slime I had given him. I even still retained my full ability to make it explode on the spot. When he handed it back to us, I gave it a more thorough examination and found that tiny intricate pathways had been carved throughout the entire structure.
+
+"It's kind of like circuits…" Keldenar said, as if predicting what I was scrutinizing. "Or I suppose, for this world, calling it a massive, enchanting framework would be more appropriate. Either way, I've tried a few times to replicate it without my class ability, but it's never worked. I think there's something intricately missing that is the final piece of a puzzle."
+
+"Probably something like an affinity," I suggested.
+
+"An affinity that theoretically anyone can get, but it is only granted through a specific class. Interesting…" Sylvester murmured.
+
+I knew what Sylvester was thinking, and the thought had certainly come to mind. If we could've created an affinity construct for golemancy, that would have been spectacular. Unfortunately, I was the only one with [Skill Deconstruct], and I could not grant it to my personas, much to my disappointment.
+
+I had previously considered using it to break down skills within my personas, but that was sadly not possible. My plot of creating a persona, donating it a single skill level, possessing it, and then deconstructing that skill was snuffed out before it got its chance to shine.
+
+I wonder if Gramps or Mother read my mind and quickly stopped it. I should have tried it when I first had the thought…
+
+I wasn't too mad about it, as it would effectively remove the only downside of [Skill Deconstruct] and who knows what I might have accidentally discovered or broken by doing that. I didn't want to end up on the chopping block by breaking something that even Gramps or Mother couldn't fix, since I wasn't sure if a broken skill would be in either of their jurisdictions.
+
+Returning to our golem creation, Sylvester took Keldenar's advice and tried a more basic material. He cast a spell and soon held a sphere of ice that began to shine as it slowly transformed into a golem core.
+
+"Uh… I hate to be the bad guy, but isn't that just going to melt?" Keldenar said, pointing at the ice.
+
+"No, it's [Permafrost]. When testing with Sylbera, it could withstand even being submerged in magma for a time," Sylvester replied.
+
+"[Permafrost]...?" I said curiously.
+
+"I accidentally discovered it while mixing [Earth Magic] and [Ice Magic] together in hopes of improving our somewhat neglected elemental magic. It's actually the official spell for level seven," Sylvester explained.
+
+I wasn't sure how to respond to that. I was glad that Sylvester had made a discovery, but upset that I hadn't been informed about it. Not to mention his chide remark about me neglecting my elemental magic.
+
+I'm sorry, I was trying to work on [Dimension Magic]! Not to mention [Map] and [Landmarks]! Hell, who do you think discovered [Elemental Praxis] in the first place!
+
+I expressed none of this; I just remained silently fuming as Sylvester slowly built his ice golem. I used the opportunity to copy over some of the knowledge from [Split Personality] and the respective spell frameworks, noting how, despite using the remnant principles from [Chaos Elements], it had accidentally produced something extremely stable.
+
+No, bad Syl, don't get distracted. You promised to work on [Dimension Magic]!
+
+I shook away the thoughts and watched as Sylvester was putting the finishing touches on his ice golem. Compared to Keldenar's creations, it was terrible, but the fact that it was made purely from ice was certainly something to behold, and even the man himself looked impressed.
+
+"If I had [Ice Magic] from the start… Maybe I would have had an easier time…" he murmured.
+
+Sylvester had the golem perform some basic maneuvers, then started experimenting a bit. He started by carving an enchantment into the ice, using a technique that only we slimes could reproduce.
+
+"You're controlling liquid gold to form the enchantment directly?"
+
+"Technically, this is an orichalcum and gold alloy, but yes," Sylvester replied.
+
+"Well damn, now I'm really glad you accepted my offer," Keldenar admitted. "I've never even heard of such an alloy, and you can produce it on a whim?"
+
+"Sadly, it can't be replicated outside of slime," I revealed. "Although if it's pure metals, we can double their quantity using the dwarven method."
+
+"I'll pretend I didn't hear that and just imagine that you can conveniently duplicate metals," Keldenar chuckled nervously.
+
+Seeing Sylvester's now enchanted golem, the improvements were very noticeable, and he hadn't even used any complex enchantments. I certainly couldn't think of a better slime for the job to show what golems and enchanting could accomplish together.
+
+"I wonder if we could create a spell orb golem…"
+
+"I don't see why not. Although I don't think I could create the golem core out of orichalcum just yet," Sylvester replied to me.
+
+"What about just the body?"
+
+"It should work… Although I imagine there might be some conflicts from the core not matching."
+
+"Sorry, what are spell orbs?" Keldenar asked, interrupting our back-and-forth.
+
+I pulled one out and casually tossed it towards him. He caught it, and his eyes seemed to flash periodically, most likely utilizing several abilities to decipher it.
+
+"Spell storing? I don't understand…" Keldenar pondered. "It's incomplete in its current state; it's missing the release portion of the enchantment."
+
+"It only needs to store magic," I explained. "Then I detonate it and watch the fireworks."
+
+Keldenar blinked several times, no doubt trying to simulate the scenario in his imagination. Suddenly, his curiosity gave way to shock and horror.
+
+"And you want to turn this into golems?"
+
+"Yes?"
+
+"I think that would be a war crime," Keldenar said with another nervous chuckle.
+
+"Really? I think I've done worse when I dropped almost a hundred of these onto kobolds."
+
+"Don't forget the giant worm, too," Sylvester added.
+
+"Yes, but that was just pure [Nitro Slime]. I imagine if I added spell-storing enchantments along the body, it would have made a much bigger explosion."
+
+"And caused even more of a mess for Vee to clean up."
+
+"True… On the positive side, I should be able to clean up myself now that I'm a Riftmancer."
+
+"Or at the very least just throw them into an aperture and forget about it," Sylvester sighed, shaking his head.
+
+"Um… Please stop the crazy talk for a moment. You're suddenly making me a little nervous about our alliance now," Keldenar said, pointing at the orb.
+
+"Don't worry, I only use it on special occasions," I replied.
+
+"Oh come on, even I don't believe that," Sylvester said.
+
+"Hey, whose side are you on?"
+
+"I'm just stating the facts…"
+
+"Stop, stop…" Keldenar interrupted, letting out a deep sigh. "Let's just drop it for now. Um, try to hold back on the spell orbs if you can, and please don't turn them into golems. If people suddenly see exploding golems, I just know I'll be the one to get the blame."
+
+"Okay, no exploding golems," I agreed.
+
+Keldenar raised an eye at me, but then turned to face Sylvester.
+
+"I promise not to make any exploding golems," he said.
+
+"Good… That was a PR nightmare just waiting to happen," Keldenar sighed with relief.
+
+Well, if I get that black slime, I won't need exploding golems, will I? I could make exploding monsters of all shapes and sizes! Speaking of which…
+
+"Moving on, can I get the location of that labyrinth?"
+
+"You want to go already? You kind of just got here…"
+
+I pointed to Sylvester. "Sylvester here can be my representative. I'll bring him over when I reach the boss, so he can hopefully get the credit."
+
+"I don't know if you'll be able to teleport directly into a labyrinth…" Keldenar admitted.
+
+"Who said anything about teleporting?" I giggled.

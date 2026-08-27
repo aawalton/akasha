@@ -1,0 +1,77 @@
+---
+id: d776965d-3cae-5014-891c-c7498e6fa177
+page-type-slug: story-chapter-royal-road
+title: "Chapter 653: Much More"
+slug: 0075-chapter-653-much-more
+partOf: system-change-system-universe
+position: 75
+ownLength: 2034
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3462501/chapter-653-much-more"
+royalRoadId: "3462501"
+---
+
+Chapter 653: Much More
+
+"You asshole!" Derek half-shouted at the massive snake trying to trap him inside the area it was coiled around. I better get these back, or I'm going to make a new pair out of this thing's hide, he thought as he used Void Creation to cover his entire body from head to toe in a layer of void armor, then worked on slipping out of his boots just as the jet of sticky amber goo reached him.
+
+The goo hit him almost simultaneously as he pulled his feet free from his stuck boots. He'd seen how the amber goo had attached and stayed with him even in the void, so he knew that if he got trapped there, it was possible that it would be game over. He couldn't have that, and he hadn't been able to remove himself from his boots fast enough to just use Active Void Shift to get away, so he had to rely on Void Creation.
+
+If it can protect people from that crazy void energy, then this should be a piece of cake since it isn't anything that causes any real damage, he thought as, to his surprise, the goo hit his thin void layer and slid off. Now that's interesting, he thought as the dark area started filling up around him.
+
+Somehow, with the void protecting him, Derek felt very safe in the middle of what should have been a devastating move by the World Boss. He was able to silently watch as the transparent amber goo rose past his head and continued rising. Not long after, the snake stopped the jet stream and uncoiled itself from around Derek. Light finally broke in, and Derek looked around.
+
+He was 'trapped' inside an almost cone-shaped mass of amber goo. It had taken the shape of the inside of the coiled snake but was cut off at the top where it had stopped filling the area up. Derek turned his head slowly and was surprised that he could do so without it being too hard. Then he moved his arms and legs. He clicked his tongue when he looked down and saw his boots.
+
+They seemed to be perfectly fine, other than the fact that they were stuck inside the thick substance without a layer of void protecting them. When he looked back up, he was almost startled to see the massive head of the snake staring at him in what looked like curiosity. It still had the one dim eye and charred areas around its face from meeting Silvi's Dragon Flame head-on, so it was a bit eerie looking into its eye.
+
+Derek gave the monster a smirk. The Amber Tyrant was not amused by the smirk and the fact that the human it had trapped was able to casually move around inside the mass it had made. Derek saw it draw back, hiss at him with a half-burned-off tongue, then start furiously shaking its rattle.
+
+With fascination, Derek observed as the cone of goo began to solidify around him. Soon, it was hard as rock, and he could no longer move freely. The snake came back and stared at him with what felt like a smirk of its own. Derek snorted, then disappeared with Active Void Shift.
+
+When Derek reappeared, he was just above the snake and the sticky battlefield it had created. He took Harbinger and pushed as much void into it as he could in a short amount of time. As far as he could tell, the snake was staring dumbfounded at the spot where Derek had just been.
+
+With a tinge of anger over the possible loss of his boots, Derek activated Sweeping Slash and swung down in an arc as hard as he could. Unfortunately, Multi-Strike was still on cooldown since he'd just used it to try to destroy the rattle, so he couldn't get that huge boost that way. Still, the snake wasn't going to stay confused forever, so he had to strike fast before it broke out of its state.
+
+The arc came out and connected directly on the top of the snake's head—right at its good eye. It barely even left a mark, but that didn't matter. It was the void that would do the work. Moments later, the snake looked up and let out another piercing squeal-like hiss, then its good eye twitched multiple times as it went dim. Since he knew that he wasn't going to be able to kill it in a single shot to the brain, Derek decided to cripple it in the quickest way he could think of—by finishing what Silvi had started.
+
+After losing some, if not all, sight in its remaining good eye, the beast panicked. It started flopping its head left and right and letting out stream after stream of the amber liquid. A couple of the streams even hit him, but he'd refreshed his armor with Void Creation already, and the sticky goo just slid right off.
+
+I think... Derek started. I think I may actually be this thing's kryptonite, he thought. So far, the main abilities that The Amber Tyrant had shown were the manipulation of the amber liquid. It could turn it into sticky goo, small liquid drops that attach and harden, or even fully hardened crystals like the cone below him. And so far, it looked like his Void Creation ability was the perfect counter to the first two.
+
+He'd likely still need to watch out for any hardened amber projectiles, but after escaping from the amber cone, Derek was able to take a breath and reassess the situation.
+
+As the tyrant hissed and randomly attacked, Derek couldn't help but let a smirk appear on his face. No matter how intelligent a monster looked and acted, unless it was a bonded companion like Silvi or a Void Beast like Asher, a beast was still a beast. As for his Void Creation, he didn't know if this was some sort of new ability after ascending since it unlocked the ability to progress, or if it was just due to the nature of the amber liquid.
+
+He wasn't going to complain, though. If he thought about it, Nikolai and the Amber Tyrant would have likely been a close match to one another. However, even though Derek struggled to defeat Nikolai and even had to use real strategy to do so, it was looking to him like the fight was about to get much less deadly for him. It may not be easy, but in a battle of attrition against a void user, Derek would choose himself any day.
+
+Derek kept a thin layer of void around his entire body and then thought about Silvi. A few moments later, a pot lid appeared in his left hand while he held Harbinger with his right. He grabbed the lid by the handle and held it like a shield. It was funny for him to think that he was more familiar with the lid she floated around on than a shield, so it was easier for him to create without thinking much about it.
+
+The snake continued to thrash around as Derek thought of a new plan. I need it to sit still for a minute, but it doesn't seem like that will happen with it blind. I guess it would be better if I had a little backup, he thought. He then reached out to Silvi, 'Are you about ready to join this fight? I think we'll be able to defeat it by ourselves.'
+
+'Ready!' Silvi chimed in his head, and moments later, she was sitting on his shoulder—well, the void shell layered on top of his shoulder. 'Why using this?' she asked. 'That's my lid!'
+
+Derek quickly gave her a rundown of everything that had happened, from the hardened amber to Void Creation countering its other forms. He didn't leave anything out. Before he had even finished his explanation, Silvi had moved from his shoulder onto a lid of her own, and she had three other lids revolving around her.
+
+The first move they made was a Void Lightning Bolt directly onto the snake's head. It caused the beast to pause for not even a second, then thrash its tail out in front of it. Not long enough to do much, Derek thought, noting the short time the snake was stunned.
+
+Brute force it is, then, he snorted, then disappeared. When he reappeared, he was right above the thrashing head of the beast. Before, he wouldn't have even been able to get near the head—the tail would have already struck him. However, with Silvi floating around, hitting it with pot shots and deflecting its attacks while it couldn't really see, it didn't even notice Derek appearing right above it.
+
+Derek pushed off a void ripple, dismissed the makeshift shield he'd been carrying, and dove onto the snake's head—grabbing the corner of its eye to gain balance. It may not have noticed him before, but with him now on its snout and holding onto it, it was impossible for it not to notice. The snake froze when it felt him grab on.
+
+The action reminded Derek of how he fought the Wyverns back in the trial dungeon. He dismissed Harbinger for the moment, coated his free hand in the void, then hit. There was barely a pause, but in between his first and second punch, a bolt of void lightning landed on the monster's head. The pattern of void attacks from Silvi and Derek made it seem as though the Amber Tyrant was almost glitching. Neither of their attacks was enough to stop or stun it, but it all slowed the monster down massively.
+
+Because of the constant barrage of attacks, the monster wasn't able to mount any offense. It wasn't exactly being hurt—at least Derek didn't think—but it was definitely halted. The fact that it seemed like its vision was still gone or very impaired told Derek that, though it was huge and likely had a massive health pool, its regeneration was on the lower end of monsters he'd faced. There was a reason why it did everything it could to keep everyone away after its initial surprise attack was stopped by Silvi's flames, and it knew what that weakness was.
+
+With all the jerking and twitching from the attacks, it was hard for Derek to keep hold of the corner of the eye and maintain his attack. Still, as he was punching, he squeezed the hand he was gripping tight and activated the biggest Spatial Collapse he could right in front of him. The snake twitched at just the wrong time—making the attack miss its brain, but it didn't miss its blinded eye. The skill removed a good portion of the beast's already maimed eye.
+
+Almost, Derek thought as he held on. As he was planning his next attack, he received another Telepathic transmission.
+
+'May I help?' Amelia's voice came through.
+
+'You don't have to ask,' Derek sent back. No more communication was needed. From a slight upward angle, Amelia came flying in like a blur. Her foot landed where part of the eye used to be, and Derek heard a sickening squish as the giant woman's body continued forward until she got stuck at the waist. Derek looked at the woman, and she smiled. Then she launched herself out of the eye with her affinity, stopped midair, and did it again.
+
+The first hit from her caused the snake to seize, and the second caused it to fall to the ground. Derek took the short respite to summon Harbinger, channel the void, activate Multi-Strike, and then use Sweeping Slash. Coming in right behind, Silvi carefully approached the empty eye socket. Then her cleavers appeared around her in a whirlwind, and she entered the tunnel.
+
+Derek could only imagine what was going on inside the snake's skull, but he didn't have to imagine for too long. A notification appeared at the edge of his vision, and a blood-drenched Silvi floated out on her pot lid with what looked like a smile. Through her communication crystal, she said, "This will be much more delicious than the tree."

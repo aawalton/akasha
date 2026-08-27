@@ -1,0 +1,239 @@
+---
+id: 9ff5e126-68e9-5595-94e0-2e925b51234f
+page-type-slug: story-chapter-royal-road
+title: "FORTY-SIX: Life"
+slug: 0046-forty-six-life
+partOf: super-supportive
+position: 46
+ownLength: 2715
+unit: words
+publishedAt: 2023-06-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1250159/forty-six-life"
+royalRoadId: "1250159"
+---
+
+“What is this ugly thing?” Kibby asked, wrinkling her nose at the results of an entire morning’s work in the kitchen.
+
+“Kibby stinks. She’s mean-mean,” Alden said brightly, jabbing a few of the sacred burning chopsticks into the top of his concoction.
+
+“You stink! Humans stink the most. Go climb in the launderer and wash yourself!”
+
+Alden laughed. Insults were coming along nicely. Kibby really liked being friendly-mean.
+
+“———-! ———- ——! ————.” Sometimes she got a little too into it though.
+
+“This is my special birthday meal,” he said. He didn’t know ‘cake’ yet, and anyway, it was more like a seven layer dip made with colorful vegetable mash. “Yum! Delicious! It’s a human custom.”
+
+“Why are you putting my promise sticks in it?”
+
+“For beauty.”
+
+“You’re dumb. Promise sticks aren’t ————-. They’re important.”
+
+Alden paused. “Are you feeling bothered? Seriously?”
+
+Seriously was a good word. Kibby would stop joking around to answer him thoughtfully whenever he used it.
+
+“No. It’s fine. For your birthday. Your shirt is —————.”
+
+Alden held out his arms and spun so that she could admire the garish Hawaiian shirt. Oh, she really does like it, he realized, examining her expression. That must have been a compliment then.
+
+“Today we eat on the top of the building.”
+
+“Roof,” she reminded him.
+
+She’d shown him the way up there about a week ago. They’d both agreed that it was a bad place and a good place.
+
+It was good because the lab lacked windows, and the only way to see the surrounding landscape and not feel a little claustrophobic was from the rooftop. And it was bad because the landscape didn’t look like it once had. The endless sea of grass was all wilted, rotted, or just plain missing. It smelled funky.
+
+And in the distance, visible through a set of very cool binoculars Alden had found, he’d spied some kind of trail through what was left of the grass. Like something about the size of the armored car had ambled drunkenly around out there. It was a pretty chilling idea. He’d asked Kibby about it, and she’d said one of the three words she liked to use for the demon bugs.
+
+So…yeah.
+
+The roof was good and bad. That had been a complicated conversation to navigate. But Kibby really enjoyed her new role as Alden’s language tutor. Managing his word choices pleased her. She had extremely bossy tendencies for someone who was the equivalent of eight years old by human standards.
+
+Artonans aged a little more slowly.
+
+Every day Kibby gave Alden brain-breaking “tests” by taking him around the lab and pointing at things, demanding he come up with the name. In addition to the three words specifically for the bugs, she’d made him learn six for what he thought of as simply chaos. He’d memorized them, but he wasn’t sure what the nuances were yet.
+
+When the cake was finished, they headed up to the wide flat roof, where Alden had already set up the party spot. “Surprise!” he shouted, gesturing to the two reclining chairs, the ball-shaped lamp, and the table he’d hauled up while she was sleeping yesterday afternoon. He’d called it strength training and counted it as his workout for the day.
+
+A pitcher of the same blue tea Joe had served him on his last evening at LeafSong was on the table along with cups. Kibby examined it all thoroughly.
+
+“Why are we eating on the roof? It’s ——— ———. Do humans have to do it for their birthdays?”
+
+Alden resisted the urge to make up some insane tradition on the spot.
+
+“No. I just thought it is happy to eat outside while we can. There aren’t many demons now, and night is coming.”
+
+They’d been living in the lab for twenty-eight days. By his math, give or take a few hours he’d lost track of on the first day, he was now sixteen. And in a few Alden-days the real Thegund day would end, and a very long night would come. The light shining through the cloud cover seemed like it was already growing dimmer.
+
+He was a little hung-up on it. Kibby, who’d lived here her whole life, thought it was strange that he was nervous about it.
+
+“There are lots of ——— everywhere,” she said, pointing at the tall lightpoles on the grounds of the complex. “Some of them will be broken, but not all of them.”
+
+“You’ll keep me safe,” Alden said.
+
+“No.”
+
+“You will. Inside, you’re all friendly.”
+
+“You are the Avowed. And you’re old. You have to keep me safe. ————- ———— ————— embarrassed.”
+
+Alden held out his mushy veggie cake. “Make fire for my promise sticks,” he demanded.
+
+She groaned and stomped like it was a terrible imposition, but she pulled her little lighter disc out of her pocket and lit the makeshift candles. Alden set it on the table and sat beside it in his recliner.
+
+“Now, I’m going to say lots of words together for beauty,” he announced. “It’s part of the birthday custom.”
+
+“Say lots of words together for beauty?” Kibby asked in a fascinated voice.
+
+Alden cleared his throat and belted out the happy birthday song. He was not a gifted singer. Kibby looked stunned and horrified.
+
+But since he’d said it was a custom she didn’t stop him or cover her ears.
+
+“That is… a nice custom?” she said when he was done. “You don’t call it ‘saying lots of words together for beauty.’ You mean ——. I think?”
+
+“Singing?”
+
+“Maybe,” she said doubtfully. “Now what?”
+
+Alden leaned over and blew out all of his sticks.
+
+“Oh, I understand,” Kibby said confidently, whipping out her lighter again.
+
+Alden watched her light them all. And then she blew on them, too.
+
+“Was that right?” she asked.
+
+“Perfect.” He pulled one of the sticks out and licked some mushroomy-tasting paste off the bottom. “Now we eat it.”
+
+#
+
+After the meal, Alden attempted birthday parkour around the grounds of the laboratory. When Kibby had asked to watch him exercise after their first baby magic lesson, he’d tried to turn the simple laps around the facility he’d initially planned into something more entertaining for her.
+
+It was a bit of a failure, but with his trait active it was at least a high-energy one. He’d decided to keep at it. Plain old running wasn’t as much fun as launching himself with unnecessary force off of expensive-looking equipment and buildings that belonged to a corporation that was indirectly responsible for his presence here.
+
+He wouldn’t call himself good at it, but he was definitely improving. Even when he didn’t wear the coat. Usually he didn’t. It was in the vault, saving whatever magical oomph it had left for whenever he might really need it.
+
+He used the heck out of Joe’s ring, though.
+
+Alden’s ring, he decided, letting it do the gripping for him for a split second as he hung from the edge of one of the huge pentagonal satellite dishes. Happy birthday to me. If Joe asks for it back, I’ll look him dead in the eye and say I lost it on the demon moon he sent me to.
+
+He didn’t really blame Joe. It wasn’t like Alden hadn’t known something bad could happen here. But he still felt like he could have been a little more thoroughly informed. About everything. And if Joe had gotten him out of the party…
+
+Don’t go there. It always pisses you off.
+
+If he hadn’t gone to that stupid party, if Manon hadn’t been trying to stick it to Bti-qwol, then Kibby’s sister and her father and the scientist in the green lab coat would all be alive. And Alden and Kibby wouldn’t be here. Only Thenn-ar and the woman in coveralls would have died.
+
+Not like Manon knew. Not like anyone did. It wasn’t on purpose.
+
+But he was looking forward to ratting his fellow Rabbit out to the Sways when he got back home a lot more than he had been.
+
+He ran at one of the curved walls of the perimeter building and tried to do that thing some people could do. A proper run up, amplified by his trait.
+
+He ate gravel. He always did.
+
+He heard Boe’s voice in his head, telling him not to choose a trait that was tied to a fundamentally alien concept he didn’t understand.
+
+“It will suddenly be not fucking ‘ground’ anymore because it’s over-crafted or the altitude is six inches too high.”
+
+Whatever the shiny walls of the building were made of was definitely not ground. Alden was going to work it out, though. Either by mastering the art of his final kick-off or reconceptualizing the alien definition of ground that seemed to be built into his trait…if that was even a trick that applied in this situation.
+
+It really might not be.
+
+He’d asked Kibby about it. She seemed to think it was obvious that ground could never be something that wasn’t native to the planet you were standing on. The building material for the exterior of the residence apparently wasn’t. And if you just wanted to talk in a general way about the substance beneath your feet, you used “floor” instead.
+
+It was a great insight actually, if Alden could just get a handle on the reason for it.
+
+Something about being closely connected to the native soil?
+
+He was honestly surprised his own shoes didn’t prevent him from receiving the trait’s benefits here on Moon Thegund. Was footwear just automatically considered part of its owner? Was the power like a coating that extended far enough to encompass the soles of his shoes?
+
+Ground is weird. And interesting. Inconvenient, too.
+
+He’d get the hang of it in one way or another and make Boe eat his words.
+
+At least Moon Thegund wasn’t overly warm. He could conduct his workout sessions without getting heat stroke. Also, he had a cheerleader/drill sergeant most of the time.
+
+“Climb up the side of the ——— facility!” Kibby yelled enthusiastically from her recliner on the roof.
+
+Alden knew which of the little shed-like buildings she meant, though its name had so far escaped definition. It turned something into something else, according to the girl. So maybe it was transformation? Or conversion?
+
+Alden obliged her by brushing himself off and running at the shed. Kick off the gravel like this, not too much force, grab the lip of the roof.
+
+He’d totally launched himself into the wall the last time he tried this. But today he managed it just a little awkwardly. Also, the concretey-looking roof here was ‘ground,’ so that was fun. He could leap off of it with enough force to land on top of the neighboring shed.
+
+Kibby thumped her feet against her chair and applauded.
+
+#
+
+Magic class happened in the vault now.
+
+Alden had finally found something his tiny roomie wanted badly enough to persuade her to spend significant amounts of time there.
+
+The authority-control exercise that resulted in the existential fist bump was very important to her. So important that she was willing to explain it in exhaustive detail when she realized Alden was open to the idea of practicing with her.
+
+Apparently she’d assumed he wouldn’t be at first. Because he was a great and awesome Avowed, and she imagined him to be well beyond this point in his education. He found this assumption almost as mind-blowing as she found his total lack of talent for the fist bump.
+
+“But you can do things with your authority,” she kept insisting. “You have to understand.”
+
+“I don’t understand things. I only do things. And I can only do them at all because of the Contract.”
+
+“Why?”
+
+“I don’t know.”
+
+“Why don’t you know?”
+
+“Because…humans are different than Artonans. Avowed are different than wizards. We don’t feel our authority. So we don’t have to learn magic to do our skills.”
+
+She looked baffled. He was baffled. There was a lot of mutual ignorance going on.
+
+Maybe it would have been different if Kibby had had a normal magical education. Apparently she was behind where she should have been, which was why the children on her video class looked a few years younger than her.
+
+Alden had pieced together enough to understand that Joe had advised her father not to send her off for formal training when she was a toddler. He thought she shouldn’t pursue wizardry, because she was ungifted. It wasn’t easy to read between the lines, but it sounded like Joe and Kibby’s father both believed that life as a bottom-rung member of the wizard class was harder than life as a highly educated and important member of the non-wizard class.
+
+But a while back, Kibby had decided that she wasn’t going to accept that, and she’d refused to learn calculus until she was allowed to study magic, too. Joe had caved, had a teacher he knew record the little wizard lessons for her, and bought her the cushions.
+
+Two of them. Because you were supposed to have at least one partner for the fist bump.
+
+“Distinguished Master Ro-den gave me eight lessons,” Kibby said seriously.
+
+It was a relationship dynamic Alden hadn’t expected. He was curious about Joe’s reasoning. And he wanted to ask Kibby if maybe she was a genius in the traditional, non-magical sense of the word, since she’d been learning advanced mathematics at age seven, but he didn’t want to out himself as someone who could not have done that.
+
+If she realized she was smarter than him at magic and math, how was he ever going to persuade her to brush her hair and chew her tooth gum and sleep in the vault so she wouldn’t be constantly irradiated by chaos?
+
+“Today you will be better at this,” Kibby announced. She was carefully measuring the distance between their cushions with the promise stick while Alden cleared some of her toys away. “Because it is your birthday.”
+
+“I’ll try,” Alden said. As always.
+
+He wondered if she thought birthdays actually had the power to transform humans into natural mages, or if she was attempting psychology on him.
+
+They’d done the beginner’s exercise at least once a day, and more often twice, for the past eighteen days. Alden would have given up on it by now if he wasn’t using it as a bribe, but Kibby wasn’t a quitter. She wanted a partner like the children on television, and if Alden was willing, she was going to keep patting at him until he finally figured it out.
+
+She lit a promise stick that still had birthday veggie residue on it, and they said the special pledge. Alden had memorized it properly after a few repetitions, and it made him glad that the little girl got such an obvious thrill out of hearing it said to her.
+
+They promised to be respectful to each other during their lesson and patient with each other. They promised to honor the sacrifice of their teacher’s time by bringing their ————- to bear.
+
+Alden was pretty sure that word he hadn’t gotten the hang of was something like ‘acuity,’ but he hadn’t committed to defining it that way yet.
+
+And they ended by saying “I promise I will give my ———-, to you, my partner.”
+
+Alden was still working on that word, too. He thought it was too much of a coincidence for it to really be what he’d been privately thinking of it as in his head: sincere best.
+
+“You’re smiling,” Kibby said as she knelt on her cushion. “It’s a ————. Because you’re going to do better today.”
+
+Oh she’s definitely trying to psych me up.
+
+“Maybe I will.”
+
+He didn’t.
+
+And he didn’t the next day either. Or the one after that.
+
+But finally, shortly after the first long night had fallen on them in truth, Kibby reached out with a determined pat-pat-pat.
+
+And a part of Alden that had been straining against the encroaching chaos for weeks and feeling its own presence for the first time ever—a part of him that had never known it could move as it pleased—reached out toward the small, kind existence that had been trying to get its attention for so long.
+
+And it patted back.

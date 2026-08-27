@@ -1,0 +1,163 @@
+---
+id: 63a9347c-5fdb-5121-8173-5f0aed5d2028
+page-type-slug: story-chapter-royal-road
+title: "Chapter 384 : The Art of Brute Force"
+slug: 0086-chapter-384-the-art-of-brute-force
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 86
+ownLength: 2522
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3452074/chapter-384-the-art-of-brute-force"
+royalRoadId: "3452074"
+---
+
+In what I could only describe as another mad frenzy, I spent endless attempts stitching the two spell constructs together, no matter what. I had lost count of the number of failures, and at this point, it didn't matter as I'd just try, try again.
+
+With each dozen or so failures, the next batch seemed better, and my technique was notably improving, only furthered by the fact that I had numerous [Sub-Cores] linked together in groups attempting this as well and sharing their experience with me.
+
+Yes, [Split Personality] was utterly broken; I was willing to admit that. But here, right now, with almost all my cores linked up, it looked like a cheap mockery. I was willing to bet nobody could brute force a solution better than me, or survive the process of doing so. The Manaburn from the backlash was bad enough, but the mental anguish took its own toll.
+
+But, as always, I managed to endure it all and push through with a single-minded focus on the task at hand. Was this because I was a slime, so I'd long since discarded the bits of humanity that held me back? Or was this something that I'd gained through the various iterations of my soul?
+
+I have no idea if Gramps was just talking me up back then, so I'd agree to be an [Experiment], but even I have to admit that I don't think being a slime alone is the reason I'm… Different?
+
+I pushed those stray thoughts aside and continued onward, as I had more stitching to do. Time soon became a non-factor, and sleep suffered because of it, with my only moments of rest when I would pass out, wake up, and resume.
+
+I'd considered gathering more information through [Skill Deconstruct], but I rejected that idea because I definitely had all the pieces I needed at my disposal. No, this was a matter of lacking the finesse and aptitude to complete the task, not the knowledge, and I could only stumble forward as I slowly learned from each fumble.
+
+I bet if I had [Mana Dominion], I wouldn't be struggling so much.
+
+Juniper had casually mentioned that skill, no doubt the next step after [Mana Weaving]. While my skill had jumped up levels in leaps and bounds from all the work I had been doing, it had not reached the maximum level yet. That was even taking into account that I most likely gained an entire proficiency level for finalizing the latest version [Landmarks] as well as [Map]. Two entire levels from a mere two spells; such a thing was unheard of!
+
+Maybe it was because I didn't have a magic skill, leaching some of the proficiency experience? I certainly haven't gained a skill called [System Magic] or whatever… Anyway, when [Mana Weaving] reaches level ten, I can use that deduction ability to get the upgrade.
+
+I certainly had the points to spare, and I felt like nobody would be willing to pay that sacrifice for me in this regard, or if they were even capable of doing so. Just like how Paeris couldn't deduce [Split Personality] and it needed the warped mind of a long-time deceiver like Vanessa, or me, the same would probably be true for [Mana Dominion].
+
+I'm sure Mother will throw me a bone too, since she wants me to explore Magic. When I complete this spell, I might gain another level up, meaning I would be one level away from max!
+
+I double-checked my profile, just in case the skill had leveled up and I'd missed the notification.
+
+<[Mana Weaving LV 8]>
+
+So close, yet so far. Although I probably shouldn't complain. I have now gained more levels in the skill than I ever did before. Risk begets reward!
+
+With renewed vigor, I dove back into the depths of madness, weaves of Mana writhing as if they were slimy tendrils and wrangling them into orderly fashion. At this point, I'd discovered the pitfalls of trying to combine the two spells, as when they were meant to mesh together, it was often false. Yes, they would eagerly combine, and then moments later, when you took your eyes off it, they would ravage each other! It wasn't compatibility; it was more like a forced magnetism that needed to be worked around.
+
+***
+
+Days? Weeks? Perhaps even months? I had no clue, but at some point, I emerged from my "cave" as Vee had officially named it and looked around at the bright island. My emotions were mixed as I looked on at how things had changed. Structures had been built, fields had been sown, and the iconic landmark of Logan, our hometree, had grown considerably, as his branches continued reaching for the heavens.
+
+I regained my focus, my mental acuity returning to me as I overcame the daze. Shortly after my emergence, Vee arrived on the scene, perhaps sensing me through our bond or perhaps having been informed through Sylbera.
+
+"Hey Syl, long time no see!" Vee said cheerfully.
+
+"Hey…" I mumbled out.
+
+"What's wrong? Are you upset because you failed?" Vee asked.
+
+I paused for a moment, then shook my head. "No. I succeeded."
+
+"Aww shucks, that's too bad, don't worry, you'll get it—" Vee drifted off mid-sentence, then she jumped up. "Wait, what!? You actually succeeded?"
+
+I nodded.
+
+"Then why the hell are you so glum? Shouldn't you be celebrating? Cheering? Jumping for joy? Wiggling those tendrils?"
+
+"I'm not glum… I'm just… Tired…" I replied, and my form drooped a little. "And honestly, a little overwhelmed trying to comprehend what I actually made. I'm even kind of having problems recalling what happened, and my memory is usually one of the best."
+
+"Jeez, Syl, you basically gave me a heart attack. You head straight to bed then!" Vee declared and began to march, then suddenly turned around. "Actually, here, have some food and then go to bed!"
+
+I suddenly had various fruits thrown at me, all entirely mundane compared to the wonders that Ygdran had created, but no doubt tasty, as why else would Vee have grown them? I wasn't actually hungry; I had enough slime to last for a lifetime if I pushed it, but I still accepted it before Vee flew into a rage.
+
+Eating the fruits and pretending to savor them, for her benefit, I slowly followed her to our home, and after mumbling a few words, I collapsed into the bedtub I had created for myself. Not a few moments later, I fell into a deep slumber…
+
+***
+
+Waking up, I felt as good as a fresh slime core, my form energetically wrapped around my core, and I slithered out of the bedtub. I did a few stretches by shapeshifting through various forms; I felt alive again!
+
+Shortly after, Vee appeared again and threw more fruit at me. Before I could complain, she teleported away, saying we could talk later when I'd mentally gathered myself. I sighed and understood what she meant. I'd left in a daze after succeeding and still wasn't sure of what had happened. I needed time to mentally recollect myself now that I'd rested.
+
+Snacking on some of the fruit, which I noticed actually gave a surprisingly decent amount of slime mass. I was momentarily surprised, wondering if Vee had fed me some strange fruit-shaped monster, but then I recalled I had [Mulch Slime] incorporated into my [Primordial Slime].
+
+I guess I can survive on plants now, although high-level monster meat is still the best.
+
+With that out of the way, I finally addressed the elephant in the room. With the help of a few [Sub-Cores], I reconstructed the finished product. It was a marvelous mess, with wonders beyond ordinary comprehension. The aspects of it that touched on the system interface were utterly eldritch, and then wrapped around that mysterious package were weaving layers of [Dimensional Magic]. What had once begun as a slightly modified [Position] was barely recognizable in that tangled mess, and yet, somehow, the construct was holding together.
+
+I think Leon would literally explode if he saw this.
+
+Chuckling to myself, there was just one final thing left to do: actually cast it. I focused for a moment, then, with a flourish, allowed the spell construct to activate. It was a wonderful and extraordinary abomination, and seeing it activate left me feeling weirdly conflicted, as if I was touching on something I shouldn't be. Still, all those negative feelings faded as a list of destinations appeared before me.
+
+Which do I pick first…?
+
+Stantondale or Kaerlin came to mind first; even Dhoggurum would be a good choice, as I could theoretically get back to Kaerlin that way. Yet, what gave me pause on all three of those options was the concern of where I would appear.
+
+If I just appear in the middle of the city in my slimy glory, wouldn't that be bad?
+
+Even if I came back as Syl the elf adventurer, teleporting into a city probably wasn't a good idea. What if they had defenses or alarms for such an event?
+
+No… It's too risky until I know better.
+
+I eyed Glimmerock and concluded it would be the best location. I'd have easy access to either Stantondale or Kaerlin, and from there I could safely reemerge into that part of the world. I confirmed my selection, and the spell proceeded to the next stage as my mind received a precise set of coordinates.
+
+"Success!" I cried out with joy.
+
+But before I celebrated further, I quickly had a [Sub-Core] save them, just in case the spell failed for whatever reason on a second attempt. Yes, if I didn't teleport soon, Glimmerock would drift off, but even if I emerged into empty skies, that was still perfectly acceptable, as I just needed access to that region.
+
+For pure convenience, I should keep [Triangulate] from now on. I'm not at the stage where I can make an ongoing spell version of its coordinate calculations. Maybe [Mana Dominion] will solve that.
+
+Looking through my backlog of notifications, I had indeed reached level nine in [Mana Weaving]. I was so close, but in reality, I realized I was actually very far away. Unless I was willing to commit to creating another system-level spell, I wasn't going to reach max level anytime soon.
+
+Huh… [Soul Mastery] also gained a level? I suppose all the Manaburn and suffering were enough to push it over the edge.
+
+It was also now sitting at level nine, just one step away from reaching the max. Then I'd have the choice of either uncapping it or risking deducing a new trait.
+
+No, my trait points are far too rare to gamble on deducing.
+
+I continued looking through the backlog and found that, strangely, both [Enhanced Vitality] and [Magic Resistance (Greater)] had also gained a level. The former I could maybe understand why it had leveled up, as I'd been taking damage from the Manaburn, but the latter confused me.
+
+I'd always considered Manaburn irresistible, or at least that was what I had presumed from the way Trixie described it, and how it felt. Or, maybe it wasn't resistible with the lesser version of the trait?
+
+I wasn't entirely sure, but either way, I wasn't going to say no to a free level up. [Dimension Magic] had also regained a considerable amount of levels, and once again, I brought it to the chopping board of [Skill Deconstruction]. Hopefully, this would be the last time I'd need to, and I'd finally have enough pieces to start assembling the governing symbol and create my pseudo-affinity.
+
+That might give me a good chunk of proficiency experience towards [Mana Weaving]... Maybe [Mana Dominion] is closer than I realized?
+
+But those thoughts had to wait. I sought out my friends and began catching up on what I missed while also officially announcing my success. Despite missing a considerable amount of time, things on the island had gone business as usual. Unfortunately, there was no luck in sourcing the elusive jellyfish slime just yet, but everything else had been going swimmingly.
+
+Finally, I told Vee and Leon my intention to teleport across the continent to my place of origin.
+
+"No, thank you," Leon quickly rejected the idea. "I'm staying right here, where it's safe. If you want to get lost in the eldritch warp for all I know, then be my guest."
+
+I wasn't really wanting to take him along, so I didn't mind his rejection. I turned to Vee to see what she thought.
+
+"I don't mind coming along, but maybe later?" Vee replied.
+
+"You don't want to come with me?" I asked.
+
+Vee shook her head. "It's not like that. I just feel like you should handle a few things on your own there, especially since your alternate identity has been absent for so long, which might lead to a lot of drama. But once you've established a good spot, you can fetch me for the spider portal network."
+
+I still felt a little hurt, as I'd expected Vee to jump on the opportunity. I couldn't help but wonder if she was doing this "for my own good" or something, but I wasn't going to force her. Plus, what she said sort of made sense: this was my original backyard, and I should be able to get through things quickly enough on my own.
+
+"Alright, but I hope when I'm going to the Kingdom of Keld that you'll be there?" I asked.
+
+"Sure thing," Vee agreed. "I want to see this place that has invited you twice. Plus, you said it was a golem kingdom, right? Maybe we can get some golems to work on our island."
+
+I nodded. I wasn't sure what they cost, but with the riches of the dungeon and Azulean plundered, we had plenty to trade. If I really wanted to, I could even sell a pink slime rejuvenation and make a fortune, or if I wanted to abandon morals, I could sell some slime-created obsidianite or other rare metals.
+
+"By the way, we briefly mentioned this before, but what do you think of potentially having some goblins live on the island?" I asked.
+
+"Assuming they are actually somewhat civilized, I don't have any issue," Vee replied. "But if they behave like the brinelings, then I don't want them."
+
+"I'll make sure to only invite the good ones," I promised.
+
+I just hope nothing happened to them…
+
+I left those negative thoughts unsaid and brought my attention back to one last thing before I prepared to leave. I brought out the dungeon cube and poked it.
+
+<Application pending…>
+
+Still!? How long does this damn application take? I swear, if it's not done by the time I get back, I'm going to look into reversing the quest system to send Gramps a message.
+
+I sighed and returned the item to my storage. I had everything I needed on me already, so my preparations were more just saying goodbye to everyone. But considering that they were just one short teleportation back, it didn't really feel like I was leaving.
+
+Next stop, Glimmerock!

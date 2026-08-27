@@ -1,0 +1,217 @@
+---
+id: 1365beb4-3956-52a3-b12e-f09513cc5086
+page-type-slug: story-chapter-royal-road
+title: "Chapter 363 : Gamble"
+slug: 0064-chapter-363-gamble
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 64
+ownLength: 2296
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3171794/chapter-363-gamble"
+royalRoadId: "3171794"
+---
+
+Paeris quickly apologized, perhaps sensing my disappointment with the results. I didn't hold it against him, though, as I knew it wasn't his fault if the system decided to be a jerk. In fact, I felt sorry for him, having wasted fifteen points just like that for such a lackluster answer—those couldn't have been easy for him to come by, as no doubt his level was extremely high!
+
+Gambling for points… I just can't believe it.
+
+Paeris did emphasize that the answers were usually better if you are suited to what you are attempting to discover. This particular path was naturally unsuited to him, as even though he was capable of wearing many hats for an outstanding performance, he wasn't capable of literally becoming someone else.
+
+I asked after Llewel, but Paeris said he was busy in the capital and unlikely to be free for some time. I couldn't help but feel relieved I had avoided what was no doubt a political nightmare of meetings and decisions, none of which I was equipped to handle.
+
+Sorry, Llewel, I'll remember your brave sacrifice!
+
+While we were catching up, I was also trying to come up with a solution. My current best bet, other than exploring a different regional sea, would be to force the dungeon to spawn a siren for me—assuming that it could.
+
+During our conversation, Paeris abruptly stood up, a look of panic flashing across his face. "We have an intruder!"
+
+"Is it the Dornhallows?" I asked.
+
+"No, it's—" Paeris said before his expression deflated and was replaced with a look of annoyance. "It's for you."
+
+"Me?" I questioned.
+
+Paeris nodded. "It appears your companion has followed you here. She tried teleporting to your location but was rebuffed."
+
+At this point, I finally noticed that our bond had been reestablished; I must have missed it while I was juggling talking and thinking about a solution to my predicament.
+
+"Damnit, Vee," I grumbled.
+
+I followed Paeris out of the room, and there, waiting right there, was the silly little spider.
+
+"It's good to see you again, Lady Vee," Paeris said politely. I couldn't tell if he was still annoyed by her intrusion, as he seemed genuinely happy to see her.
+
+"Hey, sorry, can't talk for long," Vee apologized, then turned to me. "Syl, we got a situation back on the island."
+
+"Really? I've barely been gone for even a day…"
+
+"Your girlfriend showed up," Vee replied, laced with sarcasm.
+
+Before I could deny it and ask her what she was talking about, she interrupted.
+
+"Vanessa."
+
+I was genuinely surprised. "Vanessa?"
+
+"Dare I ask who this Vanessa is?" Paeris questioned.
+
+"A mermen," I answered.
+
+"Syl's ex-lover," Vee replied at the same time.
+
+I glared at Vee, but before I could deny it, she hastily continued.
+
+"We need to go back as soon as possible. I've got Sylbera and Sylvester handling it for now, but we need Sylvain."
+
+"I'll… Leave it to you then," Paeris said; I could feel his desire to be as uninvolved in whatever this messy situation was brewing.
+
+"Okay… Let's go," I sighed and turned to Paeris. "Thanks for the help. I'll try to keep you informed and send Sylthaeryn when I can."
+
+"Thank you. Safe travels," Paeris said with a deep and respectful bow.
+
+"Let's go!" Vee insisted, and I could feel her already spinning dimensional Mana into a spell.
+
+I sighed and reciprocated, keying in the island's coordinates for myself, since I had a better discount than she did and could readily afford it. The world warped around us, and we both appeared shortly after, near the center of the island.
+
+"Oh, you're back already!" Logan said excitedly, the first to notice us. "Did you meet Ygdran and Juniper? Did they say anything about me?"
+
+"Not now, Logan," Vee snapped and turned to me. "She's on the beach."
+
+I frowned, now wanting a real answer before I got involved in whatever this was. "Why didn't you just get rid of her? Surely you didn't need me to resolve this."
+
+"Isn't that a bit too cruel?" Vee asked.
+
+"Cruel? She wanted to brainwash me," I pointed out.
+
+"Yes, but… Well…" Vee mumbled. "All she wants is Sylvain now, so I don't think that's a problem anymore."
+
+"Did you forget the part where the mermen want to murder me for destroying their race?"
+
+Vee shook her tiny head. "She doesn't want that. All she wants is Sylvain."
+
+"I don't think it works like that…" I replied, although I didn't admit that I had already received my reward for defeating the mermen, according to the system.
+
+"She disavowed the mermen, even saying that the death of the king and queen doesn't matter. Again, all she wants is Sylvain. Of course, she said, if you've killed Sylvain, then she will fight to the death to avenge him."
+
+"I don't like where this is going…"
+
+"Really? I think it's a great idea. Didn't you want to gain more proficiency?" Vee asked.
+
+I frowned.
+
+"Think about it!" Vee insisted. "We can have her swear an oath to us, and then not only would we have another small powerhouse to protect the island, but also a local who might know the nearby resources better than us."
+
+"I don't think oaths are enough to stop a monster from going crazy," I replied, shaking my head.
+
+"Well, she's already crazy. Crazy in love that is," Vee chuckled.
+
+"And when she discovers that her lover is just a fake personality from a skill? I think we should rather just nip this problem in the bud."
+
+"So heartless! Aren't you the least bit curious about how normal monsters behave? Didn't you say you had some goblin friends you were worried about going mad?"
+
+"I did…"
+
+"Also, aren't you planning on becoming a [Dungeon Master], you need monster minions then!" Vee asserted.
+
+I deeply sighed. I could already feel a throbbing pain in my core. I could already tell that Vee had, for some reason, decided to die on this hill. I really wasn't sure why she was being so insistent on this, and couldn't help but wonder what the heck had happened during my absence.
+
+Honestly, the only reason I didn't outright quash her suggestion was the hints I'd received from Paeris. If I wasn't drawing the wrong conclusion, then a siren could receive the correct skill deduction.
+
+I can save five whole points that way… Just think of the points!
+
+I also had to admit that Vee was partially right; I was absolutely curious about how Vanessa had staved off the murderous intentions stemming from the downfall of her entire species. Was she really that obsessed with Sylvain?
+
+If she can deny this, then can she actually prevent the evolution madness? Do you have to counter an obsession with an even greater obsession?
+
+It might be worth exploring, but it still sounded too simple in my opinion. Surely others had tried something similar before, but the Adventurers Guild had been quite insistent that everything was tested and that it always ended in tragedy.
+
+Well, as long as I don't get involved and just shove all the responsibility onto Alpha, then it's none of my concern.
+
+With that last thought, I had effectively made up my mind. I was going to reluctantly agree, try to gain what benefits I could, and then do my best to ignore whatever happened next. If Vee wanted to have some weird romance drama between a fake persona and a crazy siren, then she could have her fun.
+
+All I'll say is thank Gramps for the separate network, so I don't have to get involved in this at all.
+
+I removed Alpha and had it assume the form of Sylvain, even going as far as to use my findings from [Elemental Praxis] to create a pseudo-affinity for him. Once that was done, I banished him to the other network, not wanting to even touch this situation. In fact, I was deliberately keeping myself from joining the island slime network directly.
+
+"I'm glad you've listened to reason!" Vee cheered excitedly. "I know you're probably still upset, but just think of all the proficiency you'll gain!"
+
+I'm more focused on the point savings… But fine.
+
+"Shall we go?" I asked Vee.
+
+"Yeah, we'd better not keep her waiting for too much longer before she tries to murder Sylbera and Sylvester."
+
+"Talk later, I guess?" Logan finally spoke, right as we were departing.
+
+I waved him off, putting that somewhere on my nebulous to-do list.
+
+As we hastily traveled to the beach, Vee caught me up to speed on what had happened while I was away. According to her, the island was besieged by a large number of sea creatures, even a massive whale. When the whale was defeated, Vanessa had emerged from it and begun fighting, screeching like a banshee about unhanding Sylvain.
+
+"We tried to contact you by sending a few notes, but Sylbera said you weren't reading them," Vee said.
+
+I looked in my [Core Storage] and saw several new additions. I hadn't been paying close attention to it, and I hadn't asked any of the cores I had brought with me to monitor it either, so it made sense that the messages were left unread.
+
+"Sorry, it must have happened shortly after I left Dran and Juniper," I replied.
+
+Vee didn't seem particularly bothered by it, as she just shrugged it off. From there, she explained that they fought her, but as she drew closer to defeat, she began begging and pleading to be released. Vee said she even went as far as to try to trade her life for his, which was why her heartstrings had been pulled.
+
+From there, Vee finally communicated with her and started "negotiating". Vanessa quickly surrendered, especially when Vee mentioned that Sylvain was safe and sound. Vee danced around the issue for a bit before eventually revealing that Sylvain had directly caused the downfall of Azulean.
+
+That was when Vanessa proudly announced that she didn't care, and even declared that she no longer cared for her people. It was mind-boggling to hear, as I had no idea her obsession with Sylvain had progressed to such an extent.
+
+Is it because she formed her pearl? So she was away when I destroyed Azulean, and returned to find it destroyed and Sylvain missing.
+
+My headache only grew further, but now I at least understood why Vee had gotten involved. For whatever reason, she seemed to delight in such tangled webs of drama, almost feeding off it. I wasn't going to discourage her hobbies, as long as they didn't involve me directly.
+
+If not for uncapping [Core Collective], I would have instantly rejected her crazy plan.
+
+By now, we had reached the beach, where there was a showdown happening between Vanessa and my two personas. Unfortunately for her, with my presence on the island alone, the two instantly received massive bonuses, so they could likely defeat her single-handedly.
+
+"Master, you're back," Sylbera said excitedly.
+
+"About time, I have more engraving I need to do…" Sylvester muttered.
+
+I felt my eye twitch. Since when was Sylvester so… Grumpy?
+
+I guess he was always rushing to do his next job… Is this the personality we've established for him? Eh… I'm sure it will be smoothed out eventually.
+
+Vanessa finally glanced in our direction. There was a look of scorn on her face, which then suddenly bloomed into unbridled joy.
+
+"Sylvain!" she cried out.
+
+The siren attempted to rush forward, but was instantly barred from proceeding by a combination of ice and magma. The two island defenders were not about to let her run free. She glared at the two of them, but halted her advance.
+
+"Vanessa, I'm glad to see you survived!" Sylvain responded, looking genuinely happy.
+
+I held back my bile and sighed. "So you've surrendered to us?"
+
+"Are you the one in charge?" Vanessa asked, and then she glared furiously. "Is an elf hussy after my man!?"
+
+I stared at her in genuine bewilderment. I only then realized that I was still in my full Princess Sylthaeryn disguise.
+
+I glanced at Sylvain and couldn't help but chuckle as I shook my head. "Not interested in the slightest."
+
+"Good! Keep your hands off him!" Vanessa demanded.
+
+"That's weird, she didn't seem so defensive over Sylbera," Vee commented.
+
+"Maybe she doesn't think a dwarf has a chance?" I suggested.
+
+Vee gasped. "How dare she! Sylbera is so lovely and cute, she could charm a hundred Sylvains!"
+
+Vanessa quickly turned to Sylbera and snarled. "Don't you dare!"
+
+"I live only to serve my Master, Mistress, and the people of Tanglebay," Sylbera replied, ignoring her outrage.
+
+"Vanessa, calm down…" Sylvain said and turned to me. "Can I go over to her?"
+
+"Fine, but no touchy feely," I grumbled.
+
+Vanessa immediately brightened up again, and to my surprise, she actually listened to my request when Sylvain approached her, even though she looked like she desperately wanted to wrap her arms around him and steal him away. Apparently, just being near him again was enough for her.
+
+I still think this is a terrible idea… But as long as they stay away from me, I don't care. We can throw them into a corner of the island and have them be in charge of protecting the waters, or something…
+
+That was my rough plan so far, although it all would depend on the outcome of this negotiation. At the bare minimum, I wanted her to deduce the upgrade for [Roleplay], as overcoming the innate monster madness was, in my opinion, secondary.
+
+I rubbed my temples in frustration and turned to her, our former position as captor and captive now utterly reversed. "Okay… I guess we should get down to business."

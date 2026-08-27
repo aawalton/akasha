@@ -1,0 +1,151 @@
+---
+id: ee0e2717-caa8-510d-8d69-a5404adf03dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 636: Origin System Oath"
+slug: 0058-chapter-636-origin-system-oath
+partOf: system-change-system-universe
+position: 58
+ownLength: 2122
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3163763/chapter-636-origin-system-oath"
+royalRoadId: "3163763"
+---
+
+Chapter 636: Origin System Oath
+
+Derek and everyone else watched as the young man swore the oath to the Origin System. Once Alex finished the final words, a notification popped up for Derek to read.
+
+…
+
+Alert!
+
+Alex Loomis has chosen to swear an oath on the Origin System with you as the target. As target of the oath, you may choose to accept or deny this oath.
+
+Do you accept the oath?
+
+…
+
+That’s interesting, Derek thought. He never got to accept or deny oaths back in the Davenresh System, but the Origin System was giving him a choice. I guess it really does have more options and customization than the other systems. After that, Derek mentally accepted the oath.
+
+…
+
+Alert!
+
+You have accepted an oath from Alex Loomis.
+
+Note: Please remember the details of the oath.
+
+…
+
+After reading the last notification, Derek opened up his status screen and looked for the oath, but there was nothing. He thought the Origin System might make things a little easier and display the oaths like the Davenresh System did with the contracts, but it didn’t. While thinking that, he also realized that all the contracts he’d had were no longer displayed.
+
+I do think they are still there, though, he thought. The reason he thought this was because of the contract that bound him and Silvi together. It no longer showed up, but he was still bound, and their skills were still shared. Or… they could be deactivated because I’m not even close to being in the same system anymore… he thought. The fact was that Silvi’s contract may have been working because she was still with him in the same place.
+
+He didn’t have any other contracts to compare it to, as the one that he had with Stella was transferred to Avery when she chose to leave the Crown Restaurant and go with him. Everyone else was still in the Davenresh System or whatever system Alanah had ended up in. I think… the contract with Alanah still appeared even after she left, though… he thought.
+
+Could have just been that the contracts will always be there in the system they were made in. Derek rubbed his chin in thought, then shrugged. Doesn’t matter. None of that is my problem anymore. He looked over at Alex, then nodded. “Okay, the oath is finished.”
+
+Alex sighed and nodded back. “I hope I don’t come to regret this,” he said.
+
+“If you do, it won’t be because of me,” Derek replied with a shrug. “Now, how about you tell us what happened?”
+
+“Okay…” Alex took a deep breath. “As you know…”
+
+“Assume we don’t,” Derek replied. “Know anything, that is.”
+
+“Oh… uh… okay…” Alex frowned but nodded. “Well… this ‘abandoned’ Planetary Battlefield is also one of the more promising training grounds for those not far off from their level 200 class upgrade. Since it is completely overrun by monsters, the surrounding houses only have to give it six months to a year for the monster population to renew after each wave of training.”
+
+“I see,” Derek replied. “So, technically… this place is constantly active with members of different clans and organizations, other than the six-month downtime for the monsters to repopulate the planet?”
+
+“Exactly,” Alex replied with a nod.
+
+Okay… that makes more sense… Derek thought. I thought that maybe we had just gotten super lucky to land on this wasteland of a planet while there were people on it, but it seems like there may be a small number of people on it the majority of the time. Derek nodded and then said, “Continue.”
+
+“Well, the monsters here range from level 250 to level 350, with the occasional boss monster that may be a bit higher. And as it is mostly a wasteland and desert, with only a few parts with any greenery, it also tests our survival in bad conditions as well as against monsters. Sure, we don’t need much food or water to survive—not like lower-level users do—but the open area, on top of the monsters, makes it a better training ground,” Alex explained.
+
+“Got it…” Derek replied. “Keep going.”
+
+“So, any promising members of the houses or organizations near this sector are sent here for up to two years—depending on the situation of the clan—for their training,” Alex said.
+
+“And what exactly is considered ‘promising’ when it comes to selections?” Derek asked.
+
+Alex furrowed his brow but answered. “Promising members are those who have received epic, legendary, or… Mythical class upgrades at their level 200 class upgrade. And of course, they must be combat-related classes. A clan certainly isn’t going to send a promising young crafter who has a legendary class to a former Planetary Battlefield.”
+
+“So you have a Mythical class?” Derek asked.
+
+“Me?” Alex snorted. “Heaven’s no. Even with the ability to track their affinity, it is not that easy for combat classes to keep their essence and affinity balanced as they level. Only a few people each generation are chosen to receive all the resources to boost their affinity high enough to obtain that rarity at the level 200 class upgrade. No, I am very lucky to have obtained a legendary class at level 200.”
+
+This time, it was Derek’s turn to frown. He looked around. Marrick had a Mythical class now, Edgar had a legendary class, and he hadn’t asked Jace outright, but he was certain that the man had a legendary class—maybe even a growth-type one. There was no way that Amelia’s class wasn’t at least legendary. And then there were Brandi and Thomas. Even with his current class, Thomas would be considered ‘promising.’ Brandi would be considered a monster because of her current class and level.
+
+“You don’t look impressed,” Alex said.
+
+Since there was an oath in place already, Derek didn’t feel the need to hide all of his thoughts. “We’re not…” he said. “Pretty much our entire group is Mythical and legendary,” he said with a shrug. “And we all did it without those precious ‘resources’ that you were talking about.”
+
+“You… are serious?” Alex asked with wide eyes.
+
+“I am,” Derek said.
+
+“It’s no wonder you have a relationship with a Transcendent from the Gravenholt family,” Alex took a deep breath.
+
+“I guess,” Derek said. “So… you are a ‘promising’ young member of the family and are sent to an abandoned Planetary Battlefield… what next?”
+
+“Well… we are sent here with an escort. My escort’s name was Adrian. Escorts are usually just strong enough to defeat one of the boss monsters alone and are only to interfere when their charge is in life-threatening danger,” Alex explained.
+
+“Like… being chased around by a horde of Kethian Striders?” Derek asked with a smile.
+
+“Yeah… exactly like that…”
+
+“What happened to your escort? Where is this Adrian?” Derek asked.
+
+“I… don’t know,” Alex replied. “I fell asleep with him on watch one night not long ago, and when I woke up, he was no longer there.”
+
+“Do you have any clue where he may have gone?” Derek asked.
+
+“He’s either dead, betrayed me somehow, or teleported off the planet with the teleportation device he kept on his person,” Alex replied.
+
+“Teleportation device?” Derek’s breath caught, and he asked with some hope.
+
+“Yes, of course,” Alex replied. “All escorts are given small, portable teleportation devices that can teleport two users to get themselves and their charge off the planet. Speaking of which, if you allow me to borrow one of your devices, I can promise that I will have someone bring it back to you within a day.”
+
+“Yeah… we don’t have any of those,” Derek replied with a shrug. Right now, it was enough to know that there were certainly more devices on the planet. However, he couldn’t be sure how much stronger one of the escorts would be than he was.
+
+“You… don’t have a device?” Alex asked in shock. “But… how do you plan on getting off the planet?”
+
+“I don’t know,” Derek said with a shrug. “It’s starting to sound like we’re going to have to find and borrow someone else’s.”
+
+“But… that’s impossible,” Alex replied.
+
+“Didn’t you just try to borrow ours?” Derek asked.
+
+“B-but… that was different. Do you know how big this Planetary Battlefield is? How unlikely it will be to meet another group? And there is almost no way that they would give up their only way to get off this planet… not to a strange group like yours.” Alex looked very downcast as he finished. “And… how are you even on this planet if you don’t have a way off? Did you lose your devices?”
+
+“Sure didn’t,” Derek replied with a laugh, then continued when Alex stared at him. “We just came here without any is all.” Alex opened and closed his mouth multiple times at Derek’s words but wasn’t able to let anything out. Derek turned to Jace and then said, “So, do you think that dangerous reaction from your Battle Instinct is from one of these escorts or one of those boss monsters?”
+
+Jace stepped forward and said, “I was just wondering that myself. I think it is almost certainly one of the boss monsters. There is usually always the chance to talk to a human… or system user…” Jace said. “So my instincts don’t react quite as harshly to that… at least… usually.”
+
+“I see…” Derek replied before turning back to Alex. “So, how long have you been on this planet already? Is it close to two years? If you don’t come back after the two years, will your family send some people to come look for you?”
+
+Alex broke out of his daydreaming and sighed with a shake of his head. “Unfortunately… I had only just arrived with Adrian two or three months ago. My training has only just begun.”
+
+“Dang…” Derek clicked his tongue. “What if you stay alive for the two years? Will they look for you then?”
+
+“Doubtful,” Alex replied. “I am a promising member of the family, and my father is decently high up in the hierarchy, but I am not promising enough, and he is not high enough ranked to waste the resources on.”
+
+“Sounds like we are going to need to find this Adrian person and take that teleporter if he’s still on the planet,” Derek replied. “Do the portable teleporters send you to a specific, static place, or can the destination be changed?”
+
+“It is programmed to take you to a specific place, but the proper crafter or someone with the right knowledge could reprogram it to teleport elsewhere,” Alex replied. “But only if you know the exact coordinates. That was why I would be able to borrow one. I’ve had those coordinates pounded into my brain since I was a child.”
+
+“I see…” Derek replied. I guess it’s a good thing we found this guy, he thought. If they stole… borrowed a teleporter and used it, they would obviously be sent to whatever place was pre-programmed into the device. There would certainly be a lot of unfriendly faces around if we used it and the people they expected to appear weren’t the ones that appeared. Still… it’s nice to know that the Origin System didn’t put us in a hopeless situation. If all else fails, I can toss everyone but Jace inside the Time Prison, and we could go level up enough to take out the boss monsters and fight some of the escorts.
+
+“So, as long as we find a portable teleporter, you will be able to use it to take us to your family?” Derek asked.
+
+“Well… myself and one other,” Alex replied. “They can teleport only a couple of people, after all.”
+
+“Oh, that doesn’t matter,” Derek replied. “As long as you can get me there, we’re good. And your family wouldn’t have any problem if you showed up with me instead of this Adrian, right?”
+
+“No, and especially not after I explain the situation…” Alex said with a frown. He was obviously confused about why Derek would be okay leaving the rest of his party on the planet while he left with Alex. But the young man didn’t need to know that he could transport people inside his Time Prison just yet. He would find out soon enough the next time he opened it to check on those inside. “While leaving out certain oath-related information… obviously.”
+
+“Obviously,” Derek replied. “Then I guess it’s settled… looks like we need to see if we can go find a teleportation device to borrow.”
+
+“Wait…” Alex said. “I told you about myself. What about you and your group? How did you end up here without a teleportation device? Just who are you?”

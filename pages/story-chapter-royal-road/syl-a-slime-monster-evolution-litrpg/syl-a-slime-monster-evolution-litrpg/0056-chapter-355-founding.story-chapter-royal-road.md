@@ -1,0 +1,237 @@
+---
+id: d36de943-58ab-5519-92bc-ecb3c78d0cb9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 355 : Founding"
+slug: 0056-chapter-355-founding
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 56
+ownLength: 2388
+unit: words
+ownProgress: 2388
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3107135/chapter-355-founding"
+royalRoadId: "3107135"
+markedReadAt: "2026-06-29T19:43:39.247Z"
+---
+
+With our future hometree being the equivalent of a city, we could be entirely self-sufficient, as the last remaining troublesome factor was access to class changes. While I could always sneak in as a human, the same could not be said for Vee and especially Leon.
+
+Vee was registered with the guild, so as long as I showed up as Syl the elf, I shouldn't have too much trouble. Leon was a different story, however, and the only solution I could think of was if we secretly teleported him into a room where I had access to a city and one of its crystals.
+
+I was drooling over the prospect of changing to a Riftmancer sooner than I expected. However, I still had one more level to get in [Magma Magic] so that I could get [Intermediate Elemental Magic].
+
+"Alright, I'm going into magical seclusion for a bit," I declared.
+
+"What are you, a hermit now?" Vee asked.
+
+"I want to see if I can get my last level of [Magma Magic] before we become a city," I answered.
+
+"I'll assist where I can, Master," Sylbera said.
+
+"Yeah! We can start dumping magma into the ocean," Vee said excitedly, and cast [Warp], taking both of them away.
+
+I turned to face Logan. "Do you need anything?"
+
+"No, I should be perfectly fine for now. Thank you for nurturing me," Logan replied.
+
+"Good luck," Leon replied before he started scuttling away, evidently not seeing any need to hold me back.
+
+With that out of the way, I dedicated all of my time and effort to magma, and this time I was taking full advantage of [Chaos Elements]. I started applying various burning effects to earth spells from the get-go.
+
+I also worked on creating a debuff that, upon discovery, was named [Eutectic]. I curiously asked Vee or Leon if they'd ever heard of the word before, and Leon answered that it meant "easily melted".
+
+Happy with that nugget of information, I continued slaving away through the night and most of the next day's morning. My only breaks were when I occasionally threw some brown slime at Logan and a few empowered [Grow] spells. Eventually, I saw the beloved notifications I had been anticipating.
+
+<Proficiency gained. [Magma Magic LV 4] improved to [Magma Magic LV 5].>
+
+<[Magma Magic LV 5] spell [Crucible Aura] learned.>
+
+An aura!
+
+I was beyond delighted that I'd finally received another aura spell, and from the sounds of this one, it was pretty nasty. [Glacial Aura] tried to gradually freeze everything around me, even going as far as to slow things down, even if they couldn't be frozen.
+
+[Crucible Aura], on the other hand, tried to melt anything around me, with an enhanced effect on anything related to rocks and even ores. Yes, as the name suggested, this spell would even target metals, which was a terrifying prospect. Imagine if your sword melted in your hands, or worse, your armor! You could be cooked alive inside your protective shell if you weren't resistant enough.
+
+After that, I attempted to create the elemental fusion skill.
+
+<Your intermediate elements are in perfect harmony.>
+
+<Would you like to Fuse: [Ice Magic LV 5], [Lightning Magic LV 5], [Magma Magic LV 5], [Steam Magic LV 5], [Nature Magic LV 5], [Dust Magic LV 5]?
+
+Becomes Skill: [Intermediate Elemental Magic LV 6]
+
+This will cost 1 Skill Point.>
+
+I was both delighted and shocked by this message. When I'd fused my [Basic Elemental Magic], the fused result was the same level. However, this time it was going up a level.
+
+Are enough of my intermediate elements close to level six, so it's enough to be rounded up to the next level?
+
+This was the only reasonable explanation I had, as I knew Ice, Lightning, and probably even Nature were decently progressed through level five.
+
+Let's do it!
+
+<Fused Skill [Intermediate Elemental Magic LV 6] obtained. 13 Skill Points remaining.>
+
+<[Ice Magic LV 6] spell [Cryokinesis] learned.>
+
+<[Lightning Magic LV 6] spell [Electrokinesis] learned.>
+
+<[Magma Magic LV 6] spell [Magmakinesis] learned.>
+
+<[Steam Magic LV 6] spell [Thermokinesis] learned.>
+
+<[Nature Magic LV 6] spell [Blightgraft] learned.>
+
+<[Dust Magic LV 6] spell [Lithokinesis] learned.>
+
+I was surprised that this seemed to be the kinesis level for everything except [Nature Magic], which I'd gotten last level. While it was a little disappointing, I was surprised by the fact that I'd gotten this particular spell for every element now.
+
+It's strange… I wouldn't have thought it would be so broadly applied. Out of ten elemental magics, I only received two auras in six and seven levels, respectively, but I received a kinesis spell for all of them!
+
+Evidently, despite their similar names, there was a more profound secret behind each element having its own kinesis spell. I knew it wasn't just a simple matter of being able to manipulate the element, as even [Pyrokinesis] also had the ability to swell or smother flames.
+
+I also consulted Leon again, as the name [Lithokinesis] confused me. What did that have to do with dust or sand? His answer was that it probably came from the word "lithosol," which was thin soil from weathered rock fragments.
+
+Did Mother pick this name just so it sounded fancier than Dustkinesis?
+
+I shrugged it off and looked at the only entirely new spell I gained from this unexpected level up. [Blightgraft] was particularly interesting as it forcibly combined two plants together, not unlike how the plant horror worked.
+
+However, there were obvious downsides to this spell: the donor plant would almost always die unless the union between the two plants was harmonious. The receiving plant would almost always survive the process, but would be crippled if it were a particularly chaotic graft.
+
+I wonder how that elf did it… Did she modify this spell, or is there a future spell to make this process smoother?
+
+I wasn't sure, and to be honest, I wasn't exactly chomping at the bit to get deep into plant experimentation. No, if I ever wanted to go down this, I'd likely make a new elf persona to handle the full exploration of [Nature Magic].
+
+By my estimation, there was still plenty of time before the city was established, though even then, I might not switch to Riftmancer immediately. Now that I finally had [Intermediate Elemental Magic] and two auras to play around with, I wanted to see what I could discover.
+
+Instantly, I started playing around, but if I just used the exchange feature of this combined magic skill, the results weren't too outstanding.
+
+For example, exchanging [Crucible Aura] for a lightning variant just made an aura of surging lightning that crackled around me. While this effect was certainly valuable, it lacked that extra oomph that the premade auras had.
+
+But now that I had the fundamental element set up, I could fix that quite easily, and after some well-applied elbow grease, I managed to make a proper lightning aura. Not only did this new aura have the damaging lightning surging around it, but it also gradually made any victims caught in its grasp more and more conductive.
+
+I tested it a few times, and the results were quite substantial the longer they remained in the aura. Eventually, even rocks and wood became fully conductive and attracted lightning with startling efficiency. With this aura, I could play a waiting game, and as long as they didn't escape, they'd eventually fall prey to it.
+
+When I told Vee about this new spell, she was pretty surprised by the effect. She jokingly said I should call it the "charging aura," but surprisingly, it already had a name: [Surging Aura].
+
+After that, I was quickly seeing what other auras I could accomplish. It was straightforward to make a damaging aura that also weakened victims who stayed in it, such as the appropriately named [Conflagration Aura] that tried to set everything aflame, and those who didn't, gradually became flammable over time.
+
+[Nature Magic] strangely did nothing when I directly swapped it to an aura, and I was left puzzled. Thankfully, the conversion alone was a good foundation for me to craft with it, and soon I made a relatively simple upgrade to [Grow] by turning it into an almost passive aura I could keep maintained.
+
+This naturally delighted both Vee and Logan, so I placed the [Sub-Cores] near her plantations and the hometree, keeping them active for the most part continuously. I certainly had the Mana to do it, and it would passively grant me proficiency for various traits and skills.
+
+At some point, the time for our city's founding came and went. I had worked through the entire affair. I came to discover that without me, the four of them had already named it.
+
+"We decided to call it Tanglebay," Vee informed me.
+
+"Not that I'm complaining, but why that name?" I asked curiously.
+
+"Cause anyone who tangles with us will regret it!" Vee declared, giggling to herself.
+
+"She originally wanted to call it Fruit Island," Leon sighed.
+
+"Which is better than your suggestion of Port Monster," Vee retorted.
+
+"I wanted to call it Slime Paradise," Sylbera said disappointedly.
+
+"My suggestion was Golden Oak Archipelago," Logan said.
+
+"Then where the heck did Tanglebay come from?" I asked curiously.
+
+"Well, we tried finding some commonality between us, and between your slime tendrils and my webs; we can certainly tangle our enemies up," Vee explained.
+
+"My roots can also entangle enemies," Logan chimed in.
+
+"I can build traps, so it's sort of relevant to me too," Leon admitted.
+
+I shrugged. "Sure, Tanglebay it is."
+
+"Sadly, it's too late for your input now; it's already on the map," Vee informed me.
+
+I blinked a few times and noticed that when I pulled up [Mapping], indeed, it was already labeled Tanglebay. I almost felt like complaining that I was left out of the decision, but, truthfully, I didn't really care enough. Also, I couldn't think of a better name myself, so perhaps it was good that I was excluded.
+
+I pulled out the crystal and found that it was shimmering brightly. Sure enough, I could change my class right now if I wanted to.
+
+"Who's up first?" I asked.
+
+"Are you not changing to Riftmancer?" Vee questioned.
+
+"I really want to…" I admitted. "But there are a few things I want to get sorted out with these elements before I do. I know that I'll lose quite a lot of my bonuses if I change right now."
+
+Since Logan couldn't really do much right now while he was still growing and establishing himself, I handed over the crystal to Omicron. This way, not only would it be safe, but anyone who needed it could use it.
+
+Vee took a few moments to switch to her various tailoring and weaving classes, which saw a massive jump in levels for all she had accomplished over time. She was cackling like a maniac over all the new profession points she'd earned before swapping back to Veilstrider.
+
+Leon used the crystal for a few moments, but ultimately didn't change either of his classes. He had quite a few professions available to him, but, combat class-wise, he only had a few warrior professions.
+
+"I'll stick to the two I've got," he declared.
+
+"Master, I want to become a blacksmith," Sylbera informed me.
+
+I touched the crystal again and looked, and I saw that the option to become an apprentice blacksmith was available to me.
+
+"I can swap to it to unlock it, but we won't have any profession points to spend…" I sighed.
+
+I'd already gotten my first freebie point, so I'd need to earn more to get us started. I could spend a legend point, but that felt wasteful.
+
+"Are you honestly saying you've earned no levels in enchanting?" Vee asked.
+
+"Mistress Vee is right, you should have gotten quite a lot of levels in Runecrafter by now," Sylbera urged.
+
+Despite Vee literally doing the same a few moments ago, it had slipped my mind. I really did have elemental magic and Riftmancer on the brain.
+
+I chuckled and quickly swapped to Runecrafter, which was the first time since I'd left as Sylvester.
+
+<Calculating…>
+
+I waited with bated breath. But after a few minutes, nothing had happened.
+
+"How long does the calculation take?" I asked Vee.
+
+"Mine was almost instant," Vee answered. "You really should have swapped back sooner."
+
+<Class Experience threshold reached. Runecrafter is now LV 37.>
+
+<6 Profession Points are now available.>
+
+<[Rune Reading LV 7]
+
+[Rune Engraving LV 3]
+
+[Rune Framework LV 8]
+
+[Rune Design LV 5]
+
+[Runecrafting LV 4]
+
+[Rune Inspection LV 6].>
+
+I nearly choked in shock when the calculation abruptly finished and awarded me with far more than I realized. I'd wondered why nothing seemed to be going up in my profession, and now it seemed like everything was being stored away.
+
+"This doesn't seem right…" I said, staring at the absurd nineteen levels I'd gained.
+
+The strangest part was that I'd gained levels in my profession skills after they had been stagnant for so long.
+
+"No wait… That doesn't seem right?" I immediately questioned and then turned to Vee. "Don't your profession skills go up regardless of your class?"
+
+"Yup. Why?" Vee asked.
+
+I explained my situation, causing Vee and Leon to stare at me in astonishment. What I'd gone through didn't make any sense.
+
+"Maybe Gramps didn't want you getting distracted?" Sylbera suddenly suggested.
+
+I was about to reject that idea when I paused and sighed. "Actually, that does make sense."
+
+"Do you faff around so much that a god is required to restrict your system to keep you on track?" Leon asked, sounding dumbfounded.
+
+"Oh, trust me, you haven't heard even half of it yet," Vee revealed.
+
+"I don't get that distracted…" I said defensively.
+
+"You're literally not becoming a Riftmancer because you found something new and shiny with Elementalist," Vee quipped.
+
+I waved a tendril dismissively. "Whatever. I'm unlocking the blacksmith for Sylbera, then I'm leaving. I've got more important things to do right now."
+
+I quickly swapped to the Apprentice Blacksmith class, which revealed only one skill: [Beginner Smithing]. I hastily bought it and then swapped back to Elementalist.
+
+"There. Have fun," I said to Sylbera and merged into the slime network before anyone could say otherwise.

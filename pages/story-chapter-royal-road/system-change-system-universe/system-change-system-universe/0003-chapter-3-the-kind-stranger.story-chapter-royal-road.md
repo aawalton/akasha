@@ -1,0 +1,99 @@
+---
+id: 3fce169c-11e7-550c-82ae-2a7d82ba9283
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: The Kind Stranger"
+slug: 0003-chapter-3-the-kind-stranger
+partOf: system-change-system-universe
+position: 3
+ownLength: 2047
+unit: words
+ownProgress: 2047
+publishedAt: 2020-09-01
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/548007/chapter-3-the-kind-stranger"
+royalRoadId: "548007"
+markedReadAt: "2026-06-29T19:56:50.758Z"
+---
+
+Chapter 3: The Kind Stranger
+
+“Ooomph!”
+
+Derek landed hard and started tumbling end over end down a vast hill until he finally came to an abrupt stop by smashing into a boulder.
+
+Looking around, Derek noticed that the grass was pale, the wind was stale, and the overall quality of the land at which he arrived was just in very poor condition. “It’s beautiful.” He said with a glint in his eye, a tear threatening to descend onto his cheek. “It’s all I could have ever hoped for.” Derek choked out, his voice becoming gravely. He wiped at his eyes to remove any tears that had somehow made it out.
+
+Standing up, brushing himself off in the process, Derek checked the System again since he was finally out of the void.
+
+Stat… ERROR… Pleas… Err…
+
+“Ah!” Derek wailed in pain, almost as if something within his brain had broken. A massive headache threatened to overtake his consciousness. I haven’t gotten a headache since the damn System took over the world. Why now all of a sudden? Derek inwardly groaned. Wondering why his absurdly high Endurance and Vitality was not working yet. I guess I’ll just deal with it. I can survive being stabbed in the heart. A little headache like this won’t kill me… I think.
+
+What I would give for a pain killer right about now. He had not had to take anything for pain well before the System arrived. He usually just suffered whatever ailment came along during his days until it went away on its own. Oh well, let’s see what’s going on here.
+
+Derek looked up at the sky. He could just see the outline of where the monster had shattered space to go into the void. The remnants slowly closing at a rate visible to the human eye.
+
+Unexpectedly, a wave of gratitude washed over him. Gratitude to the monster who had freed him of his endless torment. More tears pooled in the corners of his eyes. This time, not caring about his appearance, Derek let the tears flow as he smiled wistfully at the cracks that had finally sealed, leaving no sign that there was ever anything there to begin with. If I ever meet that kind stranger again, I have to make sure to treat him to a coffee, or tea, or whatever beverage this place has to offer.
+
+As he was thinking, he looked around again, noticing that while there were trees and there were signs that there could have been a luscious forest once upon a time, it was hard to actually call it a forest. Weird, looks like all the greenery was diseased or something. The temperature was not too cold or too hot, the sun was out and about, illuminating everything. All things considered, this should have been the ideal location for a forest. The trees were at the cusp of dying, or already dead, but it did not look like extreme heat or extreme cold caused it.
+
+Suddenly, a rustle was heard from some nearby shrubbery. Derek did not bother turning around to see what it was, everything indicated that all of his stats and skills were still working. If anything could approach him fast enough for him to not be able to take action, he was already as good as dead. Besides, I still have my armor on. The kind stranger was only able to dent it, and if I have to fight something as strong as him, or uh, it, I wouldn’t even be able to fight back.
+
+Finally, the rustling in the bush quieted. Light footsteps made their way closer and closer to Derek. He turned his head, slowly as to not scare whatever was approaching. Seeing what was behind him, he grinned.
+
+It was a little boy, no older than ten, with dirt around his face and tears staining his cheeks. His eyes were bloodshot and his hair was brown. Or blonde, really, really dirty blonde. Derek chuckled to himself.
+
+The chuckle must have scared the hell out of the boy because his eyes widened and he turned to escape. Damn it, I have no clue what I look like and I haven’t showered in ages, literally ages. Of course I’m going to scare any child I come across. Not to mention that my armor is not the most accepting piece of equipment. Hell, I had it made to look menacing in the first place.
+
+“Boy! Stop, I’ll help you. I need to find out where I am.” Derek yelled at the boy. The boy slowed for just a second, long enough to turn his head around and see the demonic looking figure again. He let out a yelp and started running faster than before.
+
+What the hell? I said I’d help. Kids these days, not trusting menacing looking complete strangers. Derek sighed and started walking after the boy. He may have been running as fast as he could, but to Derek, it was not very fast at all.
+
+Tripping over a tree branch, the boy fell, making his already tattered clothing even dirtier. He reached for his knee and grabbed it with both hands. Derek could hear sobs coming from the boy. He must have hurt himself. Derek continued lumbering toward the boy.
+
+Soon, the boy realized his mistake. If he was not moving, then that meant that he wasn’t getting any further away from the demon. He turned again, only to find the evil creature towering over his body. He shrieked, rolled to his back and started to feverishly crawl backwards on his hands and feet.
+
+Derek almost could not hold in his laugh. I feel like I’m some villain in a b-grade horror film. All I need now is a hockey mask and a machete. Finally, Derek could not hold it in and let out a loud belly laugh. The boy stared at him in shock and horror, a puddle of liquid appearing underneath him as his eyes rolled back in his head and he went limp.
+
+“Uhh…” Feeling ashamed, Derek did not quite know what to do. Maybe that was a little too much. He looked down. Damn, he pissed himself. Good job Derek, the first actual person you see in… well, in forever and not only do you scare him, you make him soil his clothing and pass out. Who knows, those trousers may have been the last pair of pants that his grandma sewed him before she passed, and now you’ve gone and made him ruin them. Derek berated himself as he bent down to pick up the boy.
+
+Not wanting to get bodily fluids on his armor, Derek picked the boy up by the neck of his shirt with one hand as he strolled back to the boulder he smashed into. The two cut a striking image as they moved through the dilapidated forest. The image was not a good one. It could be described as a crazed demon bringing his prey back to camp to be eaten.
+
+They don’t pay me enough for this shit. Derek complained as he got closer to his “camp.” A few seconds later, he arrived at the boulder and set the boy down, allowing him to lean on the rock.
+
+After settling the boy in, Derek went back out to gather some wood for a fire. Who knows how cold it gets at night. Derek looked up at the sky. Or if there is even a night. He pondered while looking towards the sun.
+
+Derek was not subtle. Instead of gathering the dead branches and twigs that were already on the ground, he went to a decently sized tree and summoned his glaive out of his bracelet. He launched a Heavy Blow onto the tree. It was overkill as the blade sliced right through and the tree fell.
+
+While watching the tree fall Derek’s head abruptly felt like someone had gone in with a pair of scissors and started chopping on his brain. It was worse than the previous headache by far. Derek could not help but wonder about the cause of these new, sudden headaches.
+
+Derek leaned against the newly made tree stump and closed his eyes. He did not enter Meditation because he did not want to be defenseless in this new world just yet. After a while, the headache cleared, and he stood. Grabbing the felled tree, he began dragging it back to his camp while pondering.
+
+The headaches never happened with the System before, and they didn’t happen while in the void tunnel either. No, wait, I did have one headache similar to this one on Earth. The day the System was introduced. I was driving my knife down into that catfish when I felt it, and it lasted a few minutes. Derek was thinking about his previous interactions with the System. The first headache happened when I tried to view my status after landing on this world. The second happened after I used a System skill to chop down the tree. Does that make the System a taboo on this world? Or maybe it is trying to integrate and get used to this new world. Yeah, I’ll just go with that for now and limit the use of my skills.
+
+Derek got back to camp with the tree and dropped it on the ground. Summoning a dagger out of his bracelet, he went to work shaving down the tree so he could have some good kindling to start a fire. After getting enough shavings, he put the dagger back into his bracelet and summoned his glaive again. This time, instead of using Heavy Blow to chop at the tree, he did it with normal strikes. Good, one normal strike is still enough to go through the tree.
+
+After chopping the tree into eight pieces, then halving them all again, he started to really examine the wood. Yep, it’s pretty much dead. Great for firewood, bad for forest. After the dead firewood was arranged neatly on the ground Derek continued towards the shavings, grabbing and placing them down in an open area a few meters away from the boulder. What else should I do?
+
+Bashing and banging sounds could be heard from deep within the forest. Drawing in close, it was Derek with a hammer busting up some rocks he had found. That should be enough to make a pit. Everything around me is already so dead, I don’t want the fire to grow out of control. This should contain it. Carrying the broken stones back to camp, Derek placed them by the stack he had already made. Then, taking the stones one by one and placing them, the beginning of a circle formed around the kindling.
+
+He walked back and grabbed some firewood and sat it beside the fire pit. After summoning what looked like a small stone out of his bracelet, he dropped it onto the kindling. The stone started heating and finally began to glow red. Smoke started rising, then the kindling ignited. Derek hurriedly placed a piece of the wood onto the small fire. After a few seconds, it was set ablaze, and he placed a couple more pieces down. The red rock stopped glowing, then turned to ash. Another firestone gone. Derek thought as he stared into the fire, then sat down on one of the remaining cuts of wood and closed his eyes.
+
+Not long after, Derek could hear whimpering coming from across the fire. Opening his eyes and glancing in the boy’s direction, was the boy with his tear-stained face and runny nose. Derek tried to be as gentle as he could as he spoke. “It’s alright boy, I’m not gonna hurt you, sorry for scaring ya earlier.”
+
+The crying stopped and the boy observed Derek. The boy was still frowning, but this time it was not a frown full of sadness, it was one of confusion. He furrowed his brow and started to speak to Derek.
+
+The language was foreign, and Derek had no clue what the boy said. This is going to be… Derek began to think as the System showed a new message.
+
+New Language Detected
+
+Trans…
+
+System interference detected…
+
+Analyzing interference…
+
+Invading system detected…
+
+ELIMINATING THREAT
+
+“WHAT!” Derek screamed and everything went black.

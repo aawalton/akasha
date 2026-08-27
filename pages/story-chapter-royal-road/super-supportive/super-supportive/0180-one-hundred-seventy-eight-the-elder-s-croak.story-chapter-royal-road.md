@@ -1,0 +1,417 @@
+---
+id: 02bcb7dd-1f56-5c98-9d73-23f577442624
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-EIGHT: The Elder's Croak"
+slug: 0180-one-hundred-seventy-eight-the-elder-s-croak
+partOf: super-supportive
+position: 180
+ownLength: 5293
+unit: words
+publishedAt: 2024-10-28
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1871569/one-hundred-seventy-eight-the-elders-croak"
+royalRoadId: "1871569"
+---
+
+178******
+
+“That’s enough staring at our neighbors, Ro,” a woman said. She touched the switch that darkened the bedroom window, hiding the view of the house next door and turning Thegund’s day into night.
+
+“But they’re leaving. Even the grandfathers. And they called a wizard from Chayklo. She’s wrapping the house in—”
+
+“No more about that. Sit down with your sisters. It’s time for a story, and then three wordchains each before sleep.”
+
+*
+
+“Would you like me to tell you the story now?” Jeneth-art’h asked as his fingers gently captured his son’s hair into a loose braid.
+
+Stu sat perfectly still, face turned toward the stream. “Were they right not to let me hear it? Will it make me cry?”
+
+“I hope it will make you laugh,” said his father. “And if you cry at the sad parts, is that wrong?”
+
+“Can you tell it all in Rityan?” Stu asked quietly.
+
+“Yes. I’m sure it will be even better that way. It’s an old story, after all. It starts like this—”
+
+*
+
+“In the time before books but not before memory,” said Esh-erdi, kneeling across from Alden Thorn on a green nonagon above a moonlit sea, “in an age before cities, but not before magic, when the Mother Planet was full of dangers that have long since passed away, there was a village hidden in the deepest part of the deepest forest in the world.”
+
+******
+
+******
+
+Now, I know what you’re going to ask because everyone asks. Is this the same village from those other stories? The one where the Traveling Man with a Tail Finds Home? The one where The Woman of Power Meets the Detcha?
+
+Yes, this is that same village. Far away and lost except to those who live there.
+
+But this is that village as it was before most of the other stories happened. The Woman of Power had not been born, and the Man with a Tail hadn’t taken the first steps of his trip. This is that village back when they had only two wizards, and the people often lived in fear.
+
+Magic in those days was different than it is now. There were no schools to train people in the ways and responsibilities of commanding reality, so the wizards of the village weren’t as you may be imagining them. The two of them were brothers, twins some say.
+
+The younger brother’s authority was vast, and his brain was clever. When smallspells and wordchains were more than most people knew, he learned the secrets of the elements and heard the whispers of others like him in distant lands. When he was only a boy, he could suck nectar from thrumming flowers without being stung, and as a young man, he hollowed a log and filled it with hungerless fire to keep himself warm at night.
+
+You must be thinking what anyone would think the first time they hear this story. The people of the village had a luck larger than the size of the sky, didn’t they? To have one like him among them, even in a time before schools. Surely he made their hammocks so strong they’d never break and used his authority to seal their baskets so that they wouldn’t leak. Surely he shared all the nectar he could find with them and warned them of trees with heartrot and lifted the weak ones to safety when the unclimbing beasts came hunting.
+
+Well, he didn’t.
+
+He made his own hammock strong, and he came back to the village each night with nectar on his breath and no flowers in his basket, and he whined even when it was his own family that wanted to share the warmth of the hungerless fire.
+
+“I take care of myself. The rest of you have nothing I need, so why should I help you?”
+
+That was the kind of person the younger brother was. He has no name in this story because why should his name be remembered? He took the Mother’s air and ate from her ground and gave nothing back except what others in the village bought or berated from him.
+
+For himself, he lived. Alone, he died. And on our tongues, dead he stays.
+
+His elder brother, though, does have a name we remember even after all this time.
+
+And his name was BRRR-BRRRRUUP-BRRWEEEEE-eeeeeeeemp!
+
+*****
+
+*****
+
+The sound that issued from Esh-erdi’s mouth was so startling after the rich, lulling voice in which he’d been telling the rest of the story that Alden almost jumped to his feet. He ended up on one knee, leaning away from the knight and holding his hands to his chest, while the horrible croak echoed around them.
+
+Esh-erdi shut his mouth and beamed at him.
+
+“No!” Alden said, unable to keep himself from laughing. “No. It was even louder and weirder than last time!”
+
+“I don’t know what you mean. It’s just the elder brother’s name.”
+
+“That’s his name? I feel so sorry for him. What were his parents thinking?”
+
+“It wasn’t always his name. Come back here and listen. If I frighten you into jumping off The Nine-edged Son Whose Own Mother Forsakes Him, the art’h family may not let me visit their house anymore.”
+
+******
+
+******
+
+You may be wondering how any person, even an ancient, could end up with a name like that.
+
+And the answer is: because he wasn’t like his younger brother at all.
+
+The elder one’s authority was stronger than the other villagers’, but it was like a breath against the wind compared to the younger’s. And the elder was no more clever than many people who lived in that place. But he was full of effort and patient in his thoughts, and as the years of his youth passed, he found a way to use his authority for the sake of the others.
+
+He learned to use it to change his voice.
+
+…are you maybe questioning if that’s really an example of magic at all?
+
+I understand why you might be, but at this time, in this village, even the adults had very simple voices. They could only whistle with their lips and clap with their hands and drum with their fists. Their throats would make none of those sounds, no matter how hard they tried.
+
+And they were a quiet people because shouts or songs would call danger to them. During the season of whispers, especially, they might not hear their own voices more times than they had fingers.
+
+So it was then, though strange it sounds to us now.
+
+But the elder brother! Even during the season of whispers, he could sing for them all. He sang in the voice of the stillwings that flew so high above the trees no beast bothered to come at their sound.
+
+Try it yourself now. Like this:
+
+Ayyytututut, ayyyytututut, ayyy…
+
+The wizard sang like that one day. And on the next, he would sing in the sound of the rain on the leaves. And on the third, he chose the kssksssksskss of the kesbug because it reminded the village that the hard season would end and an easier one would come.
+
+And with every sound he learned to make, he found a new way to help his people. And his voice became the most valuable thing in the whole village. To his neighbors, the elder brother was beautiful, useful, and kind.
+
+And the younger, more powerful brother became jealous when he saw how everyone smiled at his sibling. That wizard huddled beside his warmth while others shivered and kept his healthfat while others chewed on bark, and he told himself his brother was wrong to help the village.
+
+Only a stupid person would give when they weren’t forced to, he thought. My brother is just as selfish as me; he’s selfish for their friendship. That’s why he helps them. That’s all it is. If it cost him much more, he’d abandon them.
+
+He gave all of his attention to thoughts like that, until they darkened to hatred.
+
+I’ll show them the truth, the younger decided. I’ll show them they’re wrong to frown at me and smile at him.
+
+And so he rose from beside his log, and he walked to a beloved wevvi tree not far away. Every precious fruit was plucked the moment it ripened and shared by all, as it had been for generations. So the people of the village didn’t know that if the fruits were allowed to fall and rot, the scent would drive the unclimbing beasts mad with greed.
+
+But the younger knew. Because he had once hungered and ripened some fruit for himself before its time, and then he’d left it in one of his hideaways so nobody could complain to him about putting the tree at risk.
+
+On that day when his thoughts turned to hatred, he ripened several of the tree’s young fruits until they burst. Then he left pieces of them in a trail leading toward the village, and he waited.
+
+Let’s see if my brother helps them now, he thought. Let’s see how useful his voice is when the beasts arrive. He’ll leave the weak old people by the fire. He won’t run to the river to save the children who’ve gone there to catch food. When he sees the beasts acting more terrible than he’s ever seen them before, he’ll take to the trees.
+
+Anyone would.
+
+Anyone...
+
+Do you think he was right about that?
+
+No?
+
+What if I told you that the only thing the beasts enjoyed more than rotten wevvi fruit was the flesh of the villagers? What if I told you they were so fast you had to point your eyes in two directions at all times to have even a chance of dodging them? Or what if you found out they had such vile claws that a single scratch would sicken a person and slowly kill them?
+
+Those were what the beasts were like on a normal day.
+
+Those were the beasts the younger brother set loose on his village.
+
+The first one is arriving right now, and it sounds like this:
+
+Shhhhhhhhhhhhhhhh.
+
+Shhhhhhhhhhh.
+
+Shhhhhh.
+
+Even when they move too fast to see, even when they are drunk on the sweetness of the rot, the unclimbing beasts know how to be quiet. It’s only the sound of the forest you hear, passing beneath their claws and scraping against their sides as they run toward their feast.
+
+So you don’t know one has reached the village until you hear one of the watchers cry out in warning,“The beasts are here. The beasts are here.”
+
+The words are no scream in this season, but everyone moves as soon as they’re heard.
+
+The villagers begin to climb—up rope, up limb, up vine. Some of them are running toward the river. A child too young to know better is trying to hide beneath a blanket leaf.
+
+The younger brother is watching.
+
+And the elder is rising from the place where he has been talking worms out of the roots of a bush. He is seeing the first beast and a second behind it. A third. All of them more ferocious than he’s ever known them to be, and he thinks, I can’t do it all.
+
+I can’t save the babe under the blanket leaf and the young ones at the river and the old who are struggling to help each other up from beside the fire. What should I do?
+
+And hidden only a step away by magic—for he really is that clever and that talented—the younger smiles at the fear on his brother’s face. Because he assumes the elder is afraid for himself.
+
+As soon as he climbs, I’ll kill the beasts, thinks the younger. As soon as they all stop believing that he’s so much better than me.
+
+If only my brother was here now, thinks the elder, he could save our people. He can do so much magic, and all I have is my voice.
+
+All you have is your voice, thinks the younger. Climb a tree. Forget the others.
+
+All I have is my voice, thinks the elder.
+
+All he had was his voice, and as the jaws of one of the beasts opened wide to take the first life, the elder brother did the only thing he could think of with that voice. Please forgive the storyteller for his poor imitation of it, but the elder brother said, BRRR-BRRRRUUP-BRRWEEEEE-eeeeeeeemp! BRRR-BRRRRUUP-BRRWEEEEE-eeeeeeeemp! BRRR-BRRRRUUP-BRRWEEEEE-eeeeeeeemp!
+
+BRRRRRRRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUP.
+
+******
+
+******
+
+“Are you all right?” Esh-erdi asked.
+
+“I’m fine,” said Alden, still covering his ears just in case it happened again. “But I think maybe you should call all the seismologists and tell them that was you. Not a shift in our tectonic plates.”
+
+Esh-erdi looked flattered.
+
+******
+
+******
+
+The sound the elder brother made was so awful that the beasts it had been directed at died in an instant. It was so frightening that flying creatures fell from the sky and burrowing creatures tunneled so deep they never returned.  The children at the river could have filled their baskets with the fish that floated to the surface in the wake of that noise, if they hadn’t been hiding in terror.
+
+Even the people who had seen the elder do it, and who celebrated his victory, were shaken. One man lost all his hair, and nobody felt like procreating for the rest of the season.
+
+But they were fine, really. It was better than being eaten. And once they’d recovered, life in the village was easier than it had been.
+
+The beasts avoided them. The elder brother sang for them all the time to wipe away the last of the fear. And the younger brother became much more distant from them.
+
+It wasn’t as good as him joining them in their joys and helping them in their work, but at least he wasn’t so eager to show off all the treasures he found and the pleasures he made for himself.
+
+Delightful years passed...but then a bad one came.
+
+And another.
+
+The weather was dry when it should have been wet and cold when it should have been hot. The wevvi tree weakened before its time and gave them less and less, and a strange new fish with flesh that poisoned stomachs drove the good ones from the river.
+
+The air filled with swarms of bloodeaters that could drain a child to death in an afternoon. The nights filled once more with the shhhhhhhhhhhh of the occasional unclimbing beast.
+
+Through the use of his voice, the elder brother kept the village from dying. He knew the noise that drove away the bloodeaters and the one that called the last of the good fish to the surface. Sometimes he stood for an entire day by the wevvi tree, tempting the pollinators toward it with the sounds of their mates and sending the pests away from it with the cries of those that preyed on them.
+
+He was a great man, but he was only one person. Everyone knew that soon, he wouldn’t be able to hold back the trouble. There would come a day with not enough food, and they would have to start choosing. Which baby? Which old one? Which unique and precious self could the village continue on without?
+
+And then…a girl of the village disappeared on a hunt.
+
+A whole day and a night passed, and just when they decided she must be lost to them forever, she stumbled back into the village. Her body was covered in stings. Only one of her eyes would open. Her hands and arms were so swollen she could barely carry the gift she’d brought them, and a wonderful gift it was for those hungry people—a basket lined with wax and filled with the nectar of the thrumming flowers.
+
+She told them that she had walked much farther than she should have, following a smell that had reached a nose made more sensitive by need.
+
+“And I found them there,” she said through lips so thick they could barely understand her. “I stayed until I had squeezed the nectar from every one. Eat. Eat.”
+
+Why, they all asked her. Why hadn’t she cut the flowers and brought those instead? In the village, the flowers could be dried, and the stingers that lived inside them would die. They could have had the nectar that way, without her being hurt.
+
+“We could only have the nectar once that way,” she explained. “If the flowers and the stingers are still alive, someone can walk to them and harvest every few days.”
+
+She said she would do the job herself every time she could.
+
+“I wish I could thrum like you and soothe the stingers,” she told the elder brother. “But since I can’t, and since you are so busy for us, the pain must be endured.”
+
+Upon hearing that, the good, tired wizard suddenly had an idea. He went to the home his younger brother had built for himself; it was nearly a tree palace by then, with more room than any family in the village had. And when he found his brother he said, “You are so powerful, and you find new truths as easily as I might discover a twig on the ground. I’m sure you’re busy, but just this once, won’t you find a truth our people need and make it into a magic for us? Won’t you find a way for everyone in the village to make this noise?
+
+“Hurrrummmmmm. Hurrrummmmmm.”
+
+It was a sound he often used in his songs, and I’m sure you can hear why. Such a soft tickle against your ears.
+
+“Hurrrummmmmm,” said the elder. “Hurrru—”
+
+“I know the sound the flowers make,” said the younger. “I don’t need you to reproduce it over and over. Why would I go around figuring out how to give people new sounds? And why would you even want me to do that? If everyone in the village can thrum, half of your songs won’t be special to them anymore.”
+
+******
+
+******
+
+“There are two versions of the story from here,” Esh-erdi said.
+
+He’d pulled a small bottle out of one of his pockets, and he was taking occasional sips from it. Alden was afraid he was preparing for another croak.
+
+“The first is the version everyone else tells, in which the elder brother speaks words of reason, then appeals to the younger brother’s <<absent>> compassion, and finally pleads and praises until that filthy stain of a wizard has an orgasm of the ego and decides he can offer his time if everyone in the village will talk to him like that while he works.” Esh-erdi gestured dismissively. “But you’re not as young as most audiences, so I can tell you my version instead. It’s better.”
+
+“That doesn’t surprise me,” said Alden.
+
+******
+
+******
+
+“If everyone in the village can thrum, half of your songs won’t be special to them anymore.”
+
+And that was when the elder looked upon the younger and finally accepted the truth—he was related to one of the worst people who’d ever drawn breath. There was probably a poisonous fish in the river, missing a couple of eyes and a fin, that was more valuable to the village than this man. After all, the emotional damage caused to everyone else by having such a person living in a tree palace above their starving village had to be taken into consideration.
+
+That younger brother had been nectar-sucking his whole life, but he let that girl go milk flowers by herself until she almost swelled to death? You think someone as powerful as him didn’t already know those flowers were there?
+
+And so the elder resolved himself not to tolerate the younger’s personality for a moment longer.
+
+“My brother,” he said, “you are not my brother anymore. And if you do not help us now, then I will croak at you like you are one of those beasts I killed that day….I’ve always been very suspicious about that situation, by the way. I know I’m not the clever brother, but that doesn’t mean I’m stupid.
+
+“So are you going to help us, or are you going to find out what the sound of your death is?”
+
+******
+
+******
+
+“I like that version,” said Alden.
+
+“Thank you. I made it up when I was a child. I think it’s an improvement.”
+
+******
+
+******
+
+The younger had finally swallowed a grain of the fear that the people less fortunate than him ate daily. He agreed to do what his brother had asked of him. And though he did work day and night, the teller of this story hopes you won’t praise him for help he was forced to give.
+
+The village that had nurtured him in his youth might have been so much safer and happier, if only he’d used a small fraction of his power for the sake of the others all along.
+
+At least he was working now. Every morning, the elder came to him and said, “Have you found something that will help our people thrum?”
+
+He answered no. And no. And no, not yet.
+
+Until one morning, when the elder came, the younger said, “Your strength is enough to bend a stick, but your hands reach for the whole forest. If you want one of them to thrum for today, I can do it. But you want all of them to thrum forever? You ask too much.”
+
+“One day, my body will nourish these trees that shade us,” said the elder. “Our people will still be here. Another time of hardship will come. We must give them something that will last.”
+
+When he came again the next morning, the younger said, “I’ve thought of a way to do it, but I’m sure you’ll say no. Your sounds are things of power you’ve made for yourself. I think if I perform a certain magic, you might give  the thrum away to many people, and as long as you do not make the sound ever again yourself, they will keep it. If you live long enough in this way, then when your body goes to nourish the trees, perhaps the village will continue thrumming without you.”
+
+“Yes,” said the elder.
+
+“Yes?” the younger asked in shock.
+
+“What an amazing thing you’ve just told me,” said the elder. “That the sacrifice of one of my sounds could do so much good for so many other people…truly, the universe is a kind place if that is possible.”
+
+“You fool,” said the younger. “You think it’s so easy? The song you sang to comfort the girl with the stings last night was the most beautiful of your life. If you do this, you will never sing so beautifully again.”
+
+“Will the others not sing with me with the new sound I have given them? Will there not be many hurrrummmmmms, when always before there has only been mine?”
+
+“You fool,” the younger said again.
+
+But the magic was completed that night, and in the morning, the villagers  all went together to the flowers. They coaxed the nectar from the blooms and drank of its sweetness, and nobody was stung.
+
+And when it was time again for the elder to sing, it was true that his song wasn’t as good. Worse storytellers say that it mattered not, that he felt nothing but pride and happiness, and that when his people added their new thrumming to his song, all was made more than right.
+
+I doubt that’s true.
+
+Though the elder was certainly proud and he was certainly happy, was there not a new splinter in his heart? A small one. One he could live with without regret.
+
+But must we pretend it wasn’t there even on that first day, when he had sacrificed only a single sound?
+
+Even the worse storytellers agree it appeared at some point, that splinter. For there were so many sounds to give.
+
+The one that tempted the pollinators, the one to frighten the pests, the one that traveled far to call back villagers who’d gotten lost in that dark forest. He gave away the sound that eased a mother in her labor and the one that pulled the worms from the roots. The whisper that reached a single ear. The sounds of every animal and plant in the forest, one by one, as his people found uses for them.
+
+Call the flying creatures from their nests, the running ones toward your net. Make the soft patter of the rain to hide your footsteps from the ones that hunt you.
+
+Here. Try reenreenreen, as high as you can, and the mogaroo will come. Her meat will be rich even when all the other game has turned to bone.
+
+Try otyuuuut, very softly, and you may look at the beautiful grippertail in its plumage season without frightening it.
+
+Try zzzzzz, zzzzzz, zzzz. And then tatatatatatatatat, as fast as you can. That will get you something good out of the pinkbark trees.
+
+The elder brother gave all those sounds away. Eventually, he gave every sound away, except for the most dangerous one.
+
+By the time he was an elder of the village in truth, he would not even risk using the speech he’d been born with, for what if a word was too close to the sounds he’d given away? What if, by a single word, he broke the magic his brother had devised, and robbed the people of their new voices?
+
+They hadn’t had another hard season since he gave them the thrumming. Whatever terror came, whatever problem arose, the flexible voices of the villagers could solve it.
+
+The younger had left after the last sound was given. He couldn’t stand being reminded of his brother every time someone opened their mouth, and I’m sure he was envious of the elder’s many friends, lovers, children, and grandchildren.
+
+And the unclimbing beasts? They rarely hunted near the village, because the elder, with only one sound left to him, had to use it every time he spoke. He learned to say BRRR-BRRRRUUP-BRRWEEEEE-eeeeeeeemp! in many different ways—quietly, merrily, gratefully, sadly—but it was still an ugly sound that made even the people who had heard it all their lives feel a shiver of fear.
+
+Once every few years, when a beast who didn’t know of him came too close, he would once again be forced to unleash its power to protect them all: BRRR-BRRRRUUP-BRRWEEEEE-eeeeeeeemp!
+
+Pardon the coughing. I think I vibrated something too much with that last one.
+
+The children born in the village thereafter were born with the beautiful voices, too, and for each of them, a day would come when they asked their parents what was wrong with that kind elder who walked around with no songs at all and only different versions of a repulsive croak? He couldn’t even speak a name for himself other than BRRR-BRRRRUUP-BRRWEEEEE-eeeeeeeemp!
+
+He couldn’t talk a fish toward him or a bloodeater away from him. The thrumming flowers grew everywhere around the village by then, but the elder couldn’t even taste them without someone else soothing the stingers.
+
+He seemed to the children like someone so different he barely belonged in the village at all, but their parents treated him with more respect than any other old one. And they talked to him plainly, as if the croaks he gave them in reply were nothing more than normal words. Sometimes, they even urged him to sing with them, though he almost never did.
+
+Why didn’t the adults complain about all the croaking? Why didn’t they ever ask that broken elder to stop it? It was a mystery so hard the children couldn’t squeeze the juice from it.
+
+Then, their parents would tell them this story, and they would finish it by saying, “The elder is a wizard who could sing and speak more beautifully than any of us if he chose to. Instead, he chooses to croak, so that the village thrives. He lives with a splinter so that we have everything else. Why would we mention his loss to him, or the ways that he is different from us, when we know it might drive the splinter deeper?”
+
+Most of the children understood; they grew in wisdom from the story and learned to respect the elder as their parents did. Only a few silly ones went on feeling that the croak and the elder who made it were a lot of trouble. And those only thought that way until the first unclimbing beast of their lives came.
+
+The croak had grown the more the elder used it, you see. And with no other sound, he mastered every nuance of the one he had left. By the time he was old, the elder’s greatest croak would shatter the skulls of every beast within a week’s walk of the village, while up above them the flying animals still flew and in the river, the fish still swam.
+
+It was the most terrifying of sounds, but it did real harm only to the dangerous beasts.
+
+“Can you make a sound like that?” the parents would ask the children who trembled at their legs.
+
+Of course they couldn’t. Even the elder hadn’t been able to make a sound like that until he gave up all the others. The perfect croak that hurt the hurters and spared the innocent was the talent his suffering had bought, and they say that on the eve of his death, the elder unleashed the best one of all.
+
+For many generations after that, the unclimbing beasts vanished from that forest. And though it was long before The Woman of Power was born to take her turn protecting them, those people slept at ease and ate their fill and the village the elder had loved grew high and wide.
+
+They remembered him, and we remember him, and your children will remember him when you tell them this story.
+
+For his people, he lived.
+
+In our voices, may he continue to live forever.
+
+******
+
+******
+
+“What did we learn from that story?” the woman asked. “Ro, you first. And stop staring at the window. You can’t even see out of it.”
+
+“I think that wizard outside is the cousin the grandfathers are always saying mean-mean things about,” said Ro. “I think our neighbors are hypocritical, and if they ever come back home, we shouldn’t speak to any—”
+
+“Ro! Enough about that wizard. What did we learn from the story?”
+
+“You only like my answers when I lie. Ask Ru and Ree instead.”
+
+*
+
+“Brrreep?” Stu said uncertainly.
+
+His father laughed. “That was a tiny little chirp! Let’s try it together. At the same time.”
+
+“But…what if it hurts the zansees?”
+
+*
+
+“I can’t,” said Alden, shaking his head hard. “There are so many reasons why I can’t do that.”
+
+“I know you’re at a disadvantage, but how is his name going to live on in your voice forever if you don’t even try?”
+
+“It’s not just a disadvantage. I’m probably missing body parts I’d need to make that sound happen. Whatever comes out of my mouth is going to be so embarrassing it might kill me.”
+
+“I’ll never repeat your human croak to anyone,” said Esh-erdi.
+
+“Not even Lind-otta?”
+
+“I’ll never repeat your human croak to anyone but Lind.”
+
+The knight looked so eager.
+
+Oh, man. Alden cleared his throat. I can’t believe I’m doing this. I can’t believe this is where my life has taken me. Maybe I should think of it like self-confidence training. Once I’ve done this, I should be able to do anything, right?
+
+He’s not recording me, is he?
+
+Alden Thorn closed his eyes, opened his mouth, and did his damnedest to croak.
+
+******
+
+******

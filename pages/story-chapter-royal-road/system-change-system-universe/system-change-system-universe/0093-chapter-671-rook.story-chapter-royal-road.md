@@ -1,0 +1,147 @@
+---
+id: 113fa848-7c8d-56eb-9b03-54fec85754ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 671: Rook"
+slug: 0093-chapter-671-rook
+partOf: system-change-system-universe
+position: 93
+ownLength: 2106
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3748556/chapter-671-rook"
+royalRoadId: "3748556"
+---
+
+Chapter 671: Rook
+
+"Let me go first," Tanya said as she stepped forward past Derek and in front of Alex. "I want to see the surprise on his face."
+
+"Okay..." Alex replied with a shrug.
+
+Tanya reached out and turned the handle on the door, allowing it to swing open.
+
+"Tanya... come in," a voice sounded from the room, and Tanya stepped inside. Alex followed her in, and Derek walked in after, closing the door behind him.
+
+The room was large but not grandiose. The walls to the left and right were lined with filled bookshelves, and the end wall had a mirror with a view of the backyard and some surrounding structures. In the center, close to the back wall, was a young-looking man sitting behind a white wooden desk. Derek couldn't see his facial features because he was looking down, but his white hair and hands didn't appear aged at all. In front of the desk were a couple of white wooden chairs for visitors, and there was a small lounge chair in each corner of the room in front of the desk, beside the bookshelves.
+
+There was a stack of papers on one side of the desk and a holo-screen pulled up in the center. On the opposite side of the papers, the man continuously moved his hand and fingers as if clicking on something while never looking up.
+
+"Father..." Tanya said, trying to get his attention.
+
+"Hmm?" the man muttered, still without looking up.
+
+"I have a tiny bit of good news..." she said. "If you would like to hear it."
+
+"Oh?" he questioned while continuing to work. "Did you rise in the ranks again? Which member did you surpass this time?"
+
+"No..." Tanya said. "I... actually fell a position."
+
+"Oh... I'm sorry," he said. "Then what is the good news?"
+
+"That is the good news... that I fell a position," Tanya couldn't keep the smile forming on her face from affecting her voice.
+
+"What?" the man said, then finally slowly raised his head to look up. "How is falling in rank a good..." he trailed off as his baby blue eyes landed on Tanya, then the person standing a step behind her to her right. "Alex?" The man shot to his feet, vaulted over his desk—causing a few papers to fly off—and ran over, scooping his son up in a giant hug.
+
+Alex's father held him by his shoulders and lifted him into the air before inspecting him up and down. "Is it really you? You're alive?" Tears welled up in the man's eyes and began rolling down his cheeks.
+
+"You can put me down, Father," Alex replied, his voice cracking a bit. "It's me. I'm really alive." He couldn't help getting watery-eyed at his father's reaction.
+
+Alex's father placed him back on the ground and cleared his throat. He brought the sleeve of his robe—the same one Tanya was wearing, but with a slightly different outline of the crest—to his eyes and rubbed the tears away. "I'm so sorry for sending you there," he said. He still had one hand on Alex's shoulder. "I thought it would be a good learning experience and that Adrian would be more than enough to keep you safe... I never expected that he couldn't handle whatever it was that happened."
+
+Derek couldn't hold back the snort that left his nose. He didn't want to interrupt the reunion, but the snort was involuntary after hearing Adrian's name. It was enough for Alex's father to realize that there was one other person besides his two children in the room with him.
+
+Alex's father quickly removed his hand from his son's shoulder and straightened up before removing his eyes from Alex and looking over the young man's shoulder. After glancing at Derek for a moment, his straight-backed, formal demeanor relaxed slightly. Guess he used an identifying skill and saw my level, Derek thought as the man relaxed.
+
+"And who is this?" the man asked with narrowed eyes.
+
+"Father!" Tanya said excitedly as she moved beside Derek. "This is Derek... uh... this is Derek. Apparently, he's Alex's friend."
+
+"Alex's friend?" the man asked. "I don't remember any of Alex's friends looking like this."
+
+"It's Hunt," Derek said. "Derek Hunt. And Alex and I met on the abandoned planetary battlefield. I... tagged along with his teleportation."
+
+"You tagged along?"
+
+"Father," Alex said, tugging at his father's sleeve. When the man looked at his son, Alex said, "Derek is the only reason I made it off that planet alive. If not for him, I would have died. He saved my life."
+
+"Oh, did he?" Instantly, Alex's father's demeanor changed. "Why didn't you say so?" He held his hand out. "It is my pleasure to meet you, Mr. Hunt. I'm Rook Loomis, Head of the Spindle House, Sixth Ranked House of the Loomis Clan."
+
+Derek took Rook's hand and shook it. "That's a mouthful," he said with a chuckle. Then he added, "I'm just Derek Hunt. No need for any long introductions."
+
+"Well, no matter what, you have my gratitude for helping my son. If there is anything I can do for you, just let me..." he said, but as he was speaking, his eyes fell on the badge that Derek was wearing.
+
+Derek felt the man's hand grow limp in his own as he let out an audible gulp. "You okay?" he asked.
+
+"T-tier... III?" Rook stammered. His reaction was even more dramatic than Tanya's, which surprised Derek a lot more.
+
+If her father was reacting like this to the badge that Derek was wearing, then he couldn't help but think to himself that Tanya had handled herself pretty well after Derek told her to drop all formalities. Just how big of a deal is it that even the head of one of the branches is reacting like this? He's not about to try to engage Tanya to me, is he? Derek inwardly sighed. Alex had already warned Derek about the badge and its effect.
+
+"Yeah," Derek replied. "Old Man Sheen may have gone overboard when he was giving me this VIP status. Really, he should have given me Tier IV or Tier V," he explained, trying to calm the man down a bit. "And no need to be formal about anything. Just think of me as a regular one of Alex's friends."
+
+"Alex doesn't actually have any friends," Tanya said, causing Alex to glare at her.
+
+"I do, too!" he said.
+
+"Name one," Tanya replied. Meanwhile, Rook was still gathering himself and hadn't even removed his hand from Derek's.
+
+"Jaqi," Alex said.
+
+"She's just chasing after you because our house is higher ranked than her own and wants to marry up," Tanya said, bursting Alex's bubble.
+
+"Pritchard," Alex said.
+
+"Same thing as Jaqi, but not romantically. His house is ranked twelfth," Tanya replied. "Name all your friends within one or two house ranks from our own, or within like... five positions of you in our rankings. You know, a friend who is also a peer."
+
+"Just because they are ranked lower than me doesn't mean that they aren't my friends," Alex replied.
+
+"Maybe," Tanya said. "But the rank disparity will always be there, making you wonder. And Pritchard, for sure, is. He tried befriending members of House Thimble and House Weft. He probably would have tried with members of House Warp or House Shield if they were a little easier to talk to."
+
+"That... but Jaqi isn't like that," Alex replied.
+
+"Maybe not, but you can do better," Tanya said with a smile.
+
+"Children..." Rook suddenly spoke in a low tone as he finally realized he was still holding Derek's hand and pulled it away. "Could you please stop bickering for a moment? We have an esteemed guest." He then looked into Derek's eyes. "I am sorry for their rudeness." Then, with wide eyes, he asked, "Wait, did you say Old Man Sheen? You're not talking about Hall Master Sheen, right? The Grinning Maniac Sheen? The man from House Warp who has sharpened his Soul Thread to the point where the sheen from his affinity spills from his body when he's not suppressing it? That Sheen?"
+
+"Oh... is that why he was so shiny?" Derek asked. "That's good to know. Yeah, that's the one. Nice guy. I was thinking about going and sharing a drink with him before I leave soon."
+
+"Derek..." Alex said. "Please stop teasing my father."
+
+Derek finally laughed out loud. He didn't know why he enjoyed seeing people's reactions to him so much, but he'd started enjoying it with Rayna and Thomas when he first appeared in Cydaria. Then Walter finding out he was legendary ranked was entertaining, and he just couldn't help himself when he had the chance to do so.
+
+"Fine," Derek replied. "But, to be fair, I told him to just think of me as one of your regular friends. But after what Tanya said, it seems you don't really have any regular friends, and I don't want to be treated like that Pritchard guy. So... maybe treat me like one of Tanya's friends? She seems like she makes friends everywhere she goes."
+
+"That..." Tanya muttered, then looked down and fiddled with her hands.
+
+"Ha!" Alex laughed. "She has even fewer friends than I do."
+
+"Hey... Mr. Loomis," Derek ignored Alex and asked his father.
+
+"Y-yes?" the man muttered. "And please call me Rook."
+
+"Okay... Rook," he continued. "Are you an Ascendant? I was just kind of wondering about the rankings of each of the heads of the branch families."
+
+"Oh..." Rook nodded. "I am a Low Ascendant. I haven't made any progress in the last couple of centuries. Some of the lower houses are headed up by High Mythicals, though. House Warp and House Shield are both headed by High Ascendants, as is the clan as a whole. The third and fourth ranked houses are led by Mid Ascendants. This information is public and easy to access."
+
+"I see... so there aren't any Transcendents in your clan?" Derek asked.
+
+"We had a member who was on the cusp of becoming one, but nobody has seen him in quite some time. I've only ever laid eyes on him once. I don’t even know if he is alive or dead. There was no system wide notification, so I do not believe he reached it." Rook replied.
+
+"Why didn’t he lead the clan?" Derek asked with a frown.
+
+"Why would he? He was very old and tired of clan matters," Rook replied. "Of course, if he wanted to, the old patriarch would have handed the mantle over to him immediately, as clans are seen as more reputable with a Transcendent or Ascendant on the cusp like him at the head. Besides, just having an Ancestor at his level in the family is quite good. He has some achievements and occasional sends a day pass to Origin City to the family.”
+
+"Oh..." Derek muttered. What the fuck, Dave?! Just how crazy powerful are you? And how hard is it to reach Transcendent? Derek wanted to ask Dave so many questions. Alex was super proud of his family's status, and it turned out that they didn’t even have a full-blown Transcendent, and many of the house leaders weren't even Ascendant. "Do you plan on becoming a hall master?" he remembered what Tanya said, so he asked the man.
+
+"Me? A hall master?" That drew a smile from the man. "I'm much too low of a Low Ascendant to become a hall master. Maybe if all the hall masters retired at once and the clan was in dire need, but other than that? No, it is very doubtful. But Tanya here may have a shot."
+
+"Father..." Tanya said in a low voice, causing her father to turn from Derek and look at her. "Remember what I said about rankings?"
+
+"Yes? You lost one? That's okay, you'll get it back," her father said.
+
+"No... I doubt I will. You should... go look at the rankings," Tanya said.
+
+"I should?" Rook frowned, then looked back at Derek and bowed slightly. "Please have a seat. If you don't mind, I need to humor my daughter for a moment. But I would love to continue our conversation in a moment."
+
+"Sounds good," Derek replied with a grin, then went to the corner and sat in one of the more comfortable chairs in the room.
+
+A few moments later, Rook was behind his desk, moving his hand to control the holo screen. After a short time, the frown on his face deepened. He looked up at Tanya, then Alex, and said, "How?"

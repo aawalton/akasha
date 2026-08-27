@@ -1,0 +1,309 @@
+---
+id: 69080e19-db28-5396-aed2-75fc27f59670
+page-type-slug: story-chapter-royal-road
+title: "Chapter 171: Sardanal’s Cradle"
+slug: 0093-chapter-171-sardanal-s-cradle
+partOf: the-calamitous-bob-stubbed
+position: 93
+ownLength: 4464
+unit: words
+ownProgress: 4464
+publishedAt: 2024-08-09
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1751221/chapter-171-sardanals-cradle"
+royalRoadId: "1751221"
+markedReadAt: "2026-06-29T21:17:59.169Z"
+---
+
+There were no cheers when Sardanal’s Cradle came into view. The crew gathered on the deck, watching the island approach with consternated expressions as the cold wind dispersed the last of the good mood. Viv herself had to consult with Sidjin, her faith in her own memory failing.
+
+“Wasn’t this supposed to be… green?”
+
+“The jungle north of Glastia were green as well. And they stayed green… for a while.”
+
+The island was supposed to be a beacon of hope, a green jewel standing in the middle of the ocean to welcome ships for a day or two as they crossed the ocean. Now only blackened land latched to the highest point like a rotten foot to a surviving heel, the city at its top barely surviving. Plumes of dark smoke rose from ashes to meet the low clouds above. They seem particularly ominous above the island though there was no rain.
+
+Viv had known the war had been ferocious but she didn’t expect… this. The low lands, most of the island except for the easternmost tip, were completely overrun. From the beaches to the crags to the scorched forests, nothing remained of the erstwhile emerald jewel. She was forced to use a lens spell to confirm the city was still standing or, well, at least it wasn’t currently on fire and the walls were not obviously breached.
+
+“By all the light gods,” Captain Sil said by her side.
+
+“It wasn’t that bad last time?”
+
+“The temples were still holding the promontory! Now it looks like everything but the city has fallen. Neriad’s bollocks, I don’t think they’re even holding the docks. How are we going to unload our supplies?”
+
+“If the docks are in the black section of the island…” Viv began.
+
+“They are. They were. The island has several ‘ports’ where one may moor, or at least used to have. Now though, we need to reach the unloading dock at the bottom of the cliff protecting the city. A narrow path leads up. I don’t think the pulley system is still intact. By all the gods, what a nightmare.”
+
+“We’ll make it work,” Viv said. “Worst case scenario, we can strike the shore from Emeric’s Girl. I doubt they can match the three of us with what they can shove on that narrow strip.”
+
+“Yes, most likely,” Sil said, though it was clear she wasn’t listening.
+
+A moment later, the captain left to order her men around. Emeric’s Girl turned eastward towards the city’s promontory and the pier that was still hopefully in its shadow. It was already afternoon and it was going to get darker fast so Viv hurriedly inspected what she could of the island. It wasn’t good.
+
+The plains were mostly black and devoid of life but on the west side, the scorched forests hid strange pink trees, large swaths of silk nests and other strange shapes she didn’t recognize. Quite a few ships were moored here and there in the ruins of the island, civilian transports, most of them. A couple didn’t look like they had business in the high seas but, Viv supposed, they didn’t have much to fear from monsters. That was a worrisome development. Octas obviously never used logistics so those belonged to either Efestar or Gomogog and if they dared to reveal those resources to that extent, it meant they were committed.
+
+The sky darkened the closer they got to the hostile shores. Between the black smoke and the low clouds, between the burnt island and gray ocean, the landscape turned into a vista of the apocalypse. Viv stopped the lens spell when she realized the flesh trees in the distance were squirming. She spotted no army moving to bar their way though that didn’t mean they would land unopposed, so she reconvened with the temple guards, this time resolved not to underuse any of her resources.
+
+A part of her wondered if it was already too late. If the churches were reduced to such a tiny pocket… but maybe they just decided to hunker down and wait for food. Viv wasn’t sure what would have happened if the Beast sank the ship but she guessed she would find out soon enough. Half an hour later, they were getting close enough to see that the pier had been the scene of an intense fight.
+
+“Reef the sails!”
+
+The ponderous shape of Emeric’s Girl approached the pier at slow speed. It may have been nice and welcoming once, but the war had shown it no mercy. The mosaics on the stone embankment were defaced, the crates smashed and empty. Nothing was left of the warehouse and dock offices but ruined husks, their stones cracked and blackened by an intense heat. Beams planted vertically bore awful fruits. Viv didn’t want to look but she had no choice, because she was going to have to walk past them. There were bodies attached to them, desiccated corpses held by tight rope with nothing left but bone and torn skin waving in the wind like banners of horror. Many of the skeletons were small. Too small. As Viv watched, a ruby-bodied spider crawled out of an eye socket.
+
+“Shit, be ready for spiders,” Viv said.
+
+“Oh really,” a nearby soldier mocked, but he deflated under Viv’s glare.
+
+“How are we to send the supplies up?”
+
+Viv looked. The pier had a single trail leading around the cliff to the mainland. Another snaked up the incline towards the city walls. It was partially hidden from sight.
+
+Arthur landed near Viv. The dragoness’ mood was forlorn. Viv could see it in her half-lidded eyes.
+
+“We need to have sailors carry it while Sidjin and I guard the convoy.”
+
+Sidjin guards the ship.
+
+I lead the convoy up!
+
+“The temple guards don’t know we have a dragon with us.”
+
+“It will be fine if she sticks with them,” Sidjin said. “And besides, I’m much better on defense than offense.”
+
+“Alright. So I’ll make landfall and cover a squad of templars. We clear a path up. Arthur covers our back with some other squads while Sidjin provides fire support and guards the ship. Would that work?”
+
+The various temple guards didn’t object. Rather, squad leaders discussed who would be where. Captain Sil approached Viv.
+
+“I’m coming with you. I will be in charge of my crew. I need to see the mayor anyway.”
+
+“Okay?”
+
+“To get paid.”
+
+Viv chuckled though her heart wasn’t into it. Slowly, the ship aligned with the quay. Those docks were really small, barely fifty meters across. Emeric’s Girl dwarfed it so that people would have to jump down from the deck.
+
+There was still no movement from the shore. Viv checked her armor one last time, strapped her round shield on, coated herself with a layer of mana, then it was time.
+
+“Ok, go.”
+
+She dropped down. Her mana sight guaranteed there were no spells hidden nearby but that didn’t mean there were no traps waiting for them. The squad of temple guards who’d won the right to go first landed soon after, forming a protective ring around her. They moved in.
+
+Viv felt weird having solid ground under her for the first time in weeks. The squad cleared the quay without problem just as more squads jumped down, followed by the first crates and sailors.
+
+“Something underground. Higher concentration of mana,” Viv whispered as they approached the trail leading up. It wasn’t paved like the quay, rather made of packed earth.
+
+“Deep underground?” a templar said by her side.
+
+“No. Surface. It’s probably…”
+
+One of the men took a step too far and the earth writhed. A carpet of spiders crawled from the sand like crabs, bodies shining with ardent colors and nevermind that those were not even supposed to fucking burrow to begin with. The squad leader pulled his man back just as Viv deployed the ultimate solution in pest eradication.
+
+“Nuée.”
+
+Using the least power possible Viv cast her blanket spell, letting it disperse at point blank range in a tiny, roiling cloud that spread over the packed earth with the sizzling of flash disintegration. All that remained was blighted earth as devoid of life as the deadlands themselves. Viv guided the spell to glut on the land up towards the path and down along the shore until she was absolutely certain the path was clear.
+
+“Well, that solves that,” Captain Sil remarked.
+
+Viv resisted the urge to chastise her. Couldn’t do that in public and besides, she was a civilian. Instead, she moved forward with the squad now firmly committed to protecting her from the way they were looking around.
+
+“Wait, over there!” One of them announced.
+
+Viv raised an aegis before she could spot the threat, she’d reinforced it with mana which had probably saved her life. Her danger sense screamed at her at the very last instant. She overloaded the spell and shifted her posture ever so slightly. It was all she could do until she heard a ping.
+
+She looked down.
+
+Sneaking its way between two of her bodyguards, piercing through her aegis AND her coating and coming to rest against her roundshield was a black spear, no, actually a spike, an organic, yellow-tipped stinger as ornate as the finest sculpture. It radiated in her sight with black and divine mana to the extent she didn’t dare touch it. Battle instinct made her look up towards the threat. She cast an artillery spell towards a fleeing, eight-legged form but it teleported to the side.
+
+“What the f—”
+
+An instant later, the entire area disappeared in a grinder of fire and colorless mana coming from the ship. Sidjin’s magically enhanced voice rang through the dock.
+
+“Walls. Block their line of sight.”
+
+“Eldritch wall!”
+
+Should have done it from the start, maybe. Viv sprayed the entire path with the meaning of change, turning the earth and stones into towering waves of reaching limbs. Maybe she was feeling panicked but it was notably spikier than usual.
+
+Also wait.
+
+Their lines of sight? Their; plural?
+
+Viv turned, looking behind her towards a strange gurgling sound. Captain Sil was behind her. She had a stinger stuck in her heart. Black veins snaked up her scarred cheeks. Her eyes were bulging. Her arms contracted and she fell, slowly, like a toppling tree. She was dead before she hit the ground.
+
+“Fuck.”
+
+The sailors panicked. Viv opened her soul and flooded them with leadership and intimidation in equal measure.
+
+“You will stand your ground if you want to live because those supplies WILL reach the city, with or without you. Pick up the fucking crates.”
+
+She didn’t even hesitate. A distant part of her reminded her forcing civilians to participate in a military operation was technically a war crime but she was long past caring. The group reformed in record time along with a worried Arthur. They gave Sil’s body a wide berth. It made Viv feel guilty.
+
+This is meant to pierce magical defenses.
+
+My scales are not enough.
+
+Viv was about to say something but Arthur shook. Rocks flowed from her feet up her body before hardening into a silvery extra shell that made her look extremely intimidating.
+
+All good now.
+
+Cannot fly.
+
+“What the fuck was that anyway and how do we fight it?”
+
+“Sniper spiders,” one of the templars said. “You can’t really fight them. The only good thing is that they are few and it takes them a long time to create a spear. Or at least I hope so. I have never heard of any time when there was more than one…”
+
+“They’re officer killers,” another said.
+
+“Their aim is, well, you saw. Octas is fully committed to our doom, it seems. Alright lads. Double ranks!”
+
+Viv wanted to complain that she couldn’t see shit but the death of Sil had chilled her to her core. One of the templars purified her body to be carried aboard while Viv moved up the path, a casting of nuée almost permanently active in front of her. The path was only broad enough to fit three people abreast but unfortunately, it was plenty good enough for spiders. They crawled from the rocks to jump at exposed skin, small and slow and yet they couldn’t be ignored because they carried a venom cursed by a furious goddess. The guards stomped and splattered the bulbous creations against the metal covering them. That, at least, was still holding.
+
+A woosh came from below and fire came to lick the edge of the formation. Heat made Viv gasp.
+
+“That was… the dragon!” a templar whispered. “Did it turn on us?”
+
+“SHE wouldn’t do so and if she wanted you roasted, you would be roasted, tin box. Now cut the chatter,” Viv reproached.
+
+She caught an annoyed look from the squad leader and shrugged. It was his job to discipline his men but Viv was just too distracted. The next bend in the road was the site of another ambush, with Viv reforming an aegis to prevent the multitude of tiny spiders from overwhelming them. That bend overlooked a good section of the island proper and so she stole a glance towards the apocalyptic vista. Dark earth, squirming with activity. Men and women and monsters. Quite a bit of monsters, in fact. A flying man lorded over a group of armed fighters, their weapons shining the flashy green of the god of scorn. A mage, certainly. Active winds carried the stench of smoke and carrion to her nostrils as she turned around, casting eldritch wall to hide them from view. No more stingers came flying towards them. Either Sidjin’s attack had gotten them all, or they were waiting for a better opportunity.
+
+The way up turned into a slog, but Viv was nothing if not disciplined and no spiderling survived her methodical approach. A single mistake would cause deaths; she wouldn’t allow any more of them to die if she could help it. As they progressed, however, thick spider silk started to cover the cliff. Viv was faced with a conundrum. She couldn’t set them on fire to get rid of them in a systematic manner, but what about swapping with Arthur? The dragoness could clear webs quickly.
+
+As she thought that, the roar of flames came from above, as well as an unmistakable golden light that reminded Viv of earlier days.
+
+“A sortie?” someone asked.
+
+“We’ll meet them halfway,” the squad captain said. “There is a platform with benches and a view of the ocean. It should have enough space for everyone.
+
+He looked towards her for confirmation. She nodded, and the detachment resumed their climb. There was now an anticipation, especially among the sailors who were never supposed to be in harm’s way. Viv kept her spells up to make sure their path was clear.
+
+The resting area would have been very pleasant, were it not for the dead children attached to columns. Just like the victims on the beach, these had been devoured by spiders as they hatched but unlike them, feathered shafts still emerged from their empty torsos. The sight revolted Viv. Those had been placed within sight of the walls as bait. Someone had not just callously sacrificed children. They’d moved them here first on purpose to inflict emotional pain on the defenders, and they’d done so while the children still lived. Viv knew what the arrows meant. Mercy killings. She prayed that she’d never have to make that decision herself.
+
+Anger boiled in Viv’s veins. It was one thing to fight against a certain vision of the world like Octas did. It was another to be so purposely cruel. She had forgotten what Octas really stood for. That was fine. Fine. She would remind the spider queen what she was up against.
+
+“Purify the bodies,” Viv ordered in the following silence.
+
+“Yes ma’am.”
+
+The squads formed a protective ring around the panicked sailors. The descending forces coming from the walled town were getting closer but Viv’s gaze was drawn to the ocean to the east. A sudden breeze brought the smell of the sea, providing a brief respite from the cloying scent of death.
+
+Damn, she was already missing it.
+
+Arthur walked around the circle. The dragoness was puffing fire rather than breathing it, and the purifying spell expanded across the white thread in shimmering bubbles that cleansed the mountain of its shroud. Little motes of light popped when the embers reached tiny spiders. It would have been beautiful in other circumstances, yet despite the urgency of the situation, Viv still enjoyed the sight of her adopted daughter puffing and stomping around. She was feeling a little better when the descending convoy finally met them.
+
+Headed by a fire mage wearing a cowl, the group was made of scruffy inquisitors and templars in dented armor wielding swords, banners and bandages bearing the gold of Neriad and the rusty red of their many wounds. They were gaunt and tired with deep pockets under their eyes and yet there was a spring to their step, a determination that Viv found inspiring. She smiled when she recognized the two people leading the formation.
+
+“Denerim! Orkan!”
+
+The inquisitors she’d met in Kazar smiled when they spotted her. Denerim was still the same bearded wise man exuding confidence, while the ordeal had turned Orkan from rockstar to doomed poet, pale and wan and so very precious; every daughter of a good family would pine for this stuttering flame. Damn him for being attractive.
+
+“The Black Witch in person! You came! I told everyone you would be coming but they didn’t believe me!” Denerim said, his malnourished face splitting into a large grin.
+
+“Let’s rejoice when we’re back behind the walls,” Orkan added, dark eyes searching the vicinity.
+
+“Right. We bring carts!”
+
+Hand-drawn carts dragged by soldiers, to be precise. It took a minute to organize everything then the sailors walked back down escorted by Viv. Several more convoys pushed crates up at great speed. The local guards were so happy with the delivery they were almost frantic with their emaciated faces exuding a joy Viv didn’t feel. In such a dreadful situation, how could they be so happy? She didn’t get it.
+
+“Is Sil not there?” Denerim asked her during the second journey up.
+
+“I’m sorry. She was killed by a sniper spider on arrival.”
+
+“Curses. She was the only one with the courage to help us. Her sacrifice shall be remembered… and the decisions of the other captains will not soon be forgotten. The situation here is… well, you will see for yourself soon enough. You have the food we requested?”
+
+“All of it and more. I killed the Beast and we ate it. You can have the leftovers.”
+
+Denerim looked shocked.
+
+“The monster part only, obviously.”
+
+“You managed to slay the Beast? I assumed Octas would reclaim the avatar’s power or you would fend it off but death… oh, that meat will be a blessing. We need to regain our strength…”
+
+We left you some sauce.
+
+Arthur stood on her hind legs as a statement of power to express exactly how magnanimous she was. Denerim, wise that he was, bowed to express his gratitude. The news and the crates carried up towards the city until there was an uproar and enough light in the late afternoon to turn the ancient town into a radiant beacon. Viv was one of the last to reach the city gates, casting one last glance towards the retreating form of Emeric’s Girl, its cargo holds empty but its coffers full as reward for the surviving sailors and the families of those who’d fallen.
+
+Colossal white stone marked the border of the Cradle, and colossal white stones formed its walls. Wards competed for space on every available surface alongside numerous impacts to form a strange tapestry, one born from constant conflict. Inside, the mood was… strange. Viv was at the very tail of a column receiving the acclamation of a starving population. Already, hymns were filling the air. Soldiers on the walls kept a firm vigil with interspersed mages sitting randomly, perhaps to avoid being picked off. Some of the houses were destroyed. Others were overflowing with people moving supplies with bony hands. Traces of destruction were everywhere among the crude white houses but so were the marks of a tenacious hope. The enduring green of Sardanal’s light clung to small patches of vegetables that shouldn’t be growing in this season. Desperate teenagers with bulging eyes stared at the ground with old shoes tightly clasped in their hands, hunting for spiders. Those vermin hunters seemed to be more and more a fixture of this place the deeper Viv walked into the besieged city.
+
+“We’re going to the Last Stand,” Denerim told her.
+
+“What? But shouldn’t you guys recover first?”
+
+“No,” Denerim chuckled. “The Last Stand is a place. It’s the vault below the main temple. You’ll see.”
+
+Another detail struck Viv.
+
+“Where are the children?”
+
+“Where we’re going.”
+
+Viv walked past funeral pyres. Many of the fighters lining the streets were not temple guards, she realized. Her inspection skill returned a lot of ‘militiamen’ and ‘militiawomen’ which were not technically paths but desperation picks for civilians forced into a combat role for an extended period of time. Those who survived, anyway. Most people here had dark skin. Denerim and Viv were in the firm minority. Those soldiers that watched her pass did so with a distant stare that no relief could reach. Their weapons were mostly polearms, simple ones made in a rush by harried smiths. They wore mismatched pieces of armor when they wore any at all. Ratty gambesons were the norm, few of which were intact.
+
+After a short walk, Viv finally reached the central plaza. It was currently occupied by a massive tent from which emerged the sickly smell of infection. An actual ring of teenagers surrounded it, hands glowing with basic light spells.
+
+“Octas got to the wounded five days ago. Hollowed out the corpses overnight before unleashing her venomous minions. Seventeen people died before we could contain them.”
+
+“I’m sorry.”
+
+“It’s been a… a very long time, my friend.”
+
+The inquisitor patted her shoulder. He seemed so moved, it almost disturbed Viv. He’d been the one to help her back in the day, first against Gomogog’s apostle and second during the siege against Lancer’s forces. He had remained this pillar, this force of justice in her mind. The man who seized the guilty by the temples before inflicting upon them the suffering of their victims. Now he was frail and he looked older. Stress did that, she knew.
+
+“I wouldn’t miss it. We’re on the same side.”
+
+“I know. The Black Witch of Harrak!” he grinned. “Now we’re probably saved.”
+
+“Or at least we’ll go down swinging.”
+
+“Just as Neriad intended. Ah, we’re here.”
+
+Great pots had been prepared, filled with water. An army of salivating attendants shoved strings of Beast meat, vegetables, herbs, and butter into them. It already smelled quite nice. Denerim walked past the line of bowl-holding survivors already queueing for a chance to be among the first. He guided her down stairs and nodded at powerful guards protecting the way in. Finally, Viv arrived in a large room filled with columns centered around a single array. Groups of children slowly ate soup-soaked bread from cracked bowls under the smiling attention of tired women. Viv heard them make sure the kids chewed and slowed down. The array attracted her gaze. Despite her vast knowledge, it took her a long time to make sense of the divine construct.
+
+It was a suicide array, a dead man’s switch. A kneeling priestess waited in its center, her own lifeforce linked to that of the children. If she died, so would they. If she activated the spell, the same would happen. It would be painless, at least.
+
+“The Last Stand. We would have fought all the way back to here if we'd had to. Or at least, that was what we told each other. Hard to fight with no strength left. It may look cruel but… what Octas does to them…”
+
+“You don’t have to explain. I saw the dead captives on the resting platform. There are fates worse than death.”
+
+“I’m sorry. We failed them. And you.”
+
+“I volunteered to be here, Denerim. You don't have to apologize.”
+
+“We were supposed to defeat Octas and go home. Now people from the mainland have come and the locals… had to pick up arms or die. We have failed to stop the cultists.”
+
+“You helped me when I needed it. Now it’s my turn to help you carry the fight against this evil. You’re not alone, yeah?”
+
+“Ah, forgive me. I must be rambling in my old age but it bears repeating. You have grown so much.”
+
+“Thanks. It means a lot coming from you, inquisitor. Now, where is your command room?”
+
+“Over there.”
+
+The leaders of the island’s defenses  had gathered in a common room inside of Last Stand, clearly a converted storage space. It still smelled faintly of paint and dust. A stone table held a few maps as well as tiny statues placed at various spots of the island. Viv thought they looked like they’d been put there randomly, and she doubted they would have scouts out anyway. Several officers stood around quietly chewing ration bars. They watched Viv enter with hooded eyes, then Sidjin. Only Arthur’s muzzle got a reaction.
+
+“What is that thing?” someone asked.
+
+You will address me with respect or the spiders will be the least of your worries, borgling.
+
+That calmed them down immediately. They sort of huddled together in a corner despite Denerim’s desperate attempt to form a circle. Viv saw mages, administrators, a couple of people who looked like village chiefs, and then warriors and templars. They were an eclectic bunch that only shared a certain air of despair about them.
+
+“So…” the head mage finally said. “When are the reinforcements due? We heard the Beast was dead.”
+
+“We’re it,” Viv replied. “Well, us and a few dozen templars.”
+
+Whispers of consternation surged but Viv tapped the table with a gauntleted fist, and the hammering sound brought silence back, as did her expanding wings.
+
+“You do look strong, lady, but we are barely holding up as it is. Maybe the Last Stand will earn its name after all.”
+
+“I think there is some sort of misunderstanding here. My name is Viviane, Outlander and current Empress of Harrak.”
+
+The whispers turned confused. Most people assumed Harrak was long dead, especially beyond the sea.
+
+“I am Sidjin of Glastia, the Red Mist,” Sidjin added.
+
+And I am She-Who-Feasts-On-Many-And-Gets-Much.
+
+I am a dragon.
+
+“Neriad’s bollocks.”
+
+“We don’t do heroic last stands,” Viv stated.

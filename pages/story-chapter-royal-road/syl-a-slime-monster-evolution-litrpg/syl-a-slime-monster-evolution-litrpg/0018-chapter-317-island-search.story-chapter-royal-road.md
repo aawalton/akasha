@@ -1,0 +1,117 @@
+---
+id: 5cbac9d7-e3ad-5c6f-b368-946740351203
+page-type-slug: story-chapter-royal-road
+title: "Chapter 317 : Island Search"
+slug: 0018-chapter-317-island-search
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 18
+ownLength: 2085
+unit: words
+ownProgress: 2085
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2787661/chapter-317-island-search"
+royalRoadId: "2787661"
+markedReadAt: "2026-06-29T19:42:23.934Z"
+---
+
+While Syl was stuck doing grunt work, Vee wanted to use this opportunity to stretch her legs. Ever since her latest class upgrade, it had felt like the world had opened up to her, far more than she had realized.
+
+[Veil Step] seemed to cost Vee almost nothing when used more casually; translated practically, that meant as long as she wasn't rushing the movement, she could do it for free.
+
+Vee's mind almost wanted to immediately classify it in gaming terms, like "out of combat," and while it seemed appropriate, she didn't want to associate it that way. Some small part of her thought that if she started to believe this was nothing but a game, she would begin to dissociate and lose some part of her.
+
+She wasn't sure why she had these crazy thoughts, but she didn't want to tempt fate. This was just one of the small bouts of paranoia she had, much like the mind worms before. Admittedly, that was another reason why Vee wanted to spread her legs a bit more, to test that she wasn't being subtly influenced by the bond she shared with Syl.
+
+And I called Syl the neurotically paranoid one, and here I am still wondering if I'm somehow being influenced. Even Qhilleeqeth teased me when I spoke my mind.
+
+That had been a rather embarrassing experience. Not only did the spider queen point out that they were effectively separated during Syl's evolution, but also across dimensional boundaries. Vee, however, didn't see it that way, as even in a rift, Syl was technically quite close to her.
+
+Vee had taken a risk with the spider queen and not held anything back, and she had just laughed in response.
+
+"It sounds like you've found a true friend, or perhaps a soul mate?" Qhilleeqeth replied after she finally stopped laughing at Vee's expense.
+
+Vee had desperately wanted to crawl into a hole and never come out after that fiasco. From her vague memories of her past, she had plenty of people she thought she was friends with, but none of them had made her feel as safe and secure as Syl did. To say Vee trusted Syl with her life was an understatement as far as she was concerned.
+
+And that was the issue Vee had with it, and why she thought the [Companion Bond] was maybe messing with emotions. Syl had quite literally threatened to eat her at one point before they had joined forces, and Vee had witnessed the slime doing just that to anyone and anything that stood in her way.
+
+Thankfully, her more rational side had kept her from being a full-blown conspiracy nut, as Syl had ample opportunity where she could have taken Vee out if she really wanted to.
+
+And while they made an admittedly good duo, Vee wasn't going to delude herself into thinking the neigh unstoppable slime couldn't have accomplished it all on her own. So, it wasn't as if Syl would greatly benefit from maintaining a fake friendship for so long.
+
+Vee wanted to repeatedly put considerable distance between them, enough to effectively break their bond and see if there were any changes. The isolation would also give her plenty of time for self-reflection on the matter, something she couldn't do while in the presence of Qhilleeqeth.
+
+Well, whatever, that's enough crazy talk from me. I'll use this as a last test and then drop it. No more feeding this paranoid delusion. Besides, I want to use this as an opportunity to arrange a surprise for Syl too!
+
+That was admittedly the real reason why she wanted to temporarily separate from her slimy friend. Vee had little confidence in her ability to find the mermen, unless her quest suddenly pointed her in the right direction or she stumbled upon a massive underwater city visible from a great distance.
+
+But what Vee could do was search for a prime location to plant their tree home. Vee desired to find an uninhabited island somewhere in the ocean to serve as their base of operations. The more remote the area, the better for them as they could use [Dimension Magic] to get around.
+
+Vee even had a desire to set up permanent web portals to various locations if she could, and that wasn't even taking into account the tree network that the elves had.
+
+We could have our own little island paradise to always return home to. If Syl wants to go conquer a dungeon or fool around with another persona, I could stay at home knitting, eating, or whatever.
+
+Likewise, if Syl wants to finally sit still for once, doing enchanting, or whatever her latest hyperfixation is, I could visit Qhilleeqeth, the elves, or go explore some more.
+
+That last one really ticked her fancy. In her mind, she could imagine herself scouting out some area for exploration or conquering, planting down a web portal, and bringing Syl over to wreak havoc.
+
+I wonder if that troublesome pixie could set up permanent illusions to hide our island? Then again, what happens if a boat sails right into it… Perhaps we could make it resemble a volcano from the outside? Or maybe just hiding the tree would be enough?
+
+Vee had plenty of ideas bouncing around her head, and the more she thought about it, the more she realized she had effectively rendered her "test" pointless. What was the point of testing being away from Syl, when she was already planning for their future escapades?
+
+Shaking herself from her stupor, Vee continued her task at hand. Vee would [Veil Step] a considerable distance away and into the air, scan around for any potential landmarks, and then repeat the process.
+
+And despite having a plethora of skills or traits that rendered it entirely moot, Vee had fashioned a parachute out of webbing to keep her fear of heights tucked away.
+
+To her surprise, one of the first things Vee found was another floating outpost. She wasn't sure what this one was called, but decided it was safer to avoid it and expand her initial search area out even further. If they set up their home too close to the humans, they would just be opening themselves up for discovery.
+
+Additionally, I'll have a good chance to properly test long-range teleportation with [Dimension Magic] alone. I've only ever done it in conjunction with [Rift Thread], so this will be pretty exciting!
+
+Rather than continuing her perimeter search, Vee began doing consecutive teleports, moving further and further out and away from Saltport. Once she felt like she'd crossed a considerable distance, she finally resumed exploring around before venturing deeper.
+
+Vee's travel speed was absurd, and soon she found her very first island. She was about to celebrate, but when she got closer, she saw it was occupied, judging by the dock and settlement. Curious about its inhabitants, Vee moved closer as stealthily as possible.
+
+She quickly found that it was occupied by humans. Vee shrank down further and began infiltrating the various buildings, doing a bit of snooping to find out who they were or where they were.
+
+It didn't take her long to find a room belonging to either a captain or a dockmaster, and pinned to the wall was a nautical map that labeled Saltport and Grafgeo Islet, which she could only assume was their current location, judging by the other markers that she believed were the floating outposts.
+
+Enjoying her amateur espionage, she snooped a bit more and found some other maps with locations marked, which she presumed would be other islands or equally interesting landmarks. She did her best to roughly estimate their location from Grafgeo and then left the room to conduct further investigation.
+
+Vee used [Veil Step] to appear on the mast of one of the docked boats, and watched the people loading crates for departure. She then noticed it seemed to be primarily fruits and plants. Delighted by her discovery, she left the small settlement and began rapidly exploring the island for goodies.
+
+Using [Pocket Space], Vee began to pilfer what she could, stocking up on coconuts and even bananas! She noticed that the humans had also created plantations, but she held back from stealing directly from them.
+
+Picking wild fruits is one thing, but taking directly from farmers is another. I want to keep my conscience clean, thank you.
+
+During her brief exploration of the island, her [Spatial Sense] picked up an oddity, and she used [Veil Step] to directly enter it. What awaited her was a tiny settlement of brinelings, not even a quarter of the size of the one they had found previously.
+
+Well, since I've taken some food, I'll clean out these monsters and save the human settlers from future troubles. Well, until more spawn, but hopefully this will stifle their growth!
+
+And thus Vee began unleashing a poisonous plague upon the brinelings. Using [Mana Shaping], she could create impromptu spells like never before, and she'd taken quite a lot of inspiration by stealing from Syl.
+
+"Poisonball" and "Acidball" were two of her favorites, paying direct homage to the trusty [Fireball] that sadly she would never be able to cast. She began lobbing balls of explosive poison magic around the brineling camp, causing the deadly vapors to spread throughout.
+
+The brinelings were screeching in horror, running around frantically before succumbing to the poison magic coursing through them. They had been minding their own business, growing in silence until they could start raiding the humans, but like a force of nature, Vee had arrived and effortlessly thwarted them.
+
+Their numbers rapidly plummeted, and once the kill notifications stopped, Vee quickly looked around for any loot. When Vee found nothing, she finished off the job by destroying the camp by switching to acid, not wanting to leave anything for any stragglers to rebuild with.
+
+Hopefully, the poison lingers and catches any stragglers who return.
+
+The experience was lousy, but it had barely taken Vee any time at all. Plus, it made her feel like she had done a good deed and earned the fruits she had plucked.
+
+Satisfied with a job well done, Vee teleported out and started heading vaguely towards the first landmark she could remember. She thought it would've been another island, but instead it was what could only be described as a coral tree. She positioned herself nearby and made use of her parachute and [Veil Step] to stay as stationary as possible, by regaining height with a timely warp.
+
+Sprouting out of the water was an unnatural formation of coral that left Vee utterly perplexed. Beneath the water, it teemed with life and color, while above the surface, it looked like something out of a horror movie. Its "branches" were blackened and littered with the corpses of birds. Yet, beneath the fishes were swimming in paradise.
+
+Vee was curious and wanted to bring back a sample for Syl to eat, so she used [Rift Thread] to cut off the end of a branch. It effortlessly sliced through it, but then the branch began to squirm and writhe in pain.
+
+Vee was going to pick up the separated segment, but she noticed it was still moving. She hesitated, and when it hit the water, to her surprise, it transformed from its ominous black appearance to another piece of brightly colored coral.
+
+If that wasn't strange enough, the piece began to swim towards the tree like an eel and reunited by merging with it as if it was just another piece of ordinary coral.
+
+Okay, screw that, I'm not touching that thing at all! Maybe I'll bring Syl over to eat it, but I don't want that thing anywhere near my [Pocket Space].
+
+Vee overwrote one of her useless test coordinates in [Triangulate] with the current location and then quickly left, not wanting to be anywhere near this coral monstrosity. If not for knowing Syl would be upset about not getting to eat something weird, she would have drowned the area in [Corrosion Magic].
+
+Judging by the current time, she would probably be able to find the other marked location before she needed to reunite with Syl tonight.
+
+While Vee knew that if it was marked by the humans, it wouldn't be a suitable location for them to set up their base of operations, she still wanted to see what it was. Vee knew she'd have plenty of time to search for an undiscovered or forgotten island while Syl was stuck doing guild missions.

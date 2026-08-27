@@ -1,0 +1,115 @@
+---
+id: 05414baa-35e8-5c2d-92b9-7b3e4752be7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: MOOOO"
+slug: 0033-chapter-33-moooo
+partOf: succulent-girl-evolution
+position: 33
+ownLength: 2182
+unit: words
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2663581/chapter-33-moooo"
+royalRoadId: "2663581"
+---
+
+Bubbles watched over the cow. Just as Miss Fish said, she was unresponsive to any of Bubbles’s inquiries, but seemed to realize she was in a safe enough place to lay down next to Bubbles.
+
+Miss Fish had provided Bubbles with a pile of nutrition pills and instructed Bubbles to urge the cow to eat some when it felt up to it, but it just lay there, its eyes seeming to swirl endlessly.
+
+Is it sick? Bubbles asked Rock nervously. It would be bad if Miss Fish just brought a diseased animal into her safe haven, right?
+
+[It does not look diseased, but it does look a bit malnourished.]
+
+Curiously, Hugger grew a thin tendril towards the pile of pills. With all of the practice she had gotten (and nutrition from Fern), her main stem had thickened and her leaves plumped a considerable amount, but she didn’t grow much taller than the sprout she had been in the pot. The only evidence of her growth from a (Novice) to a (Fledgling) was the finesse with which her vines moved.
+
+Hugger latched easily onto a pill, dragging it down the pile, and then began rolling it towards the cow’s open mouth, where its tongue was laying on the ground. Bubbles held still, marveling at Hugger’s development.
+
+Her vines were still weak, so she couldn’t outright pick up the pill the way Throttler had been able to pick up and manhandle Bubbles, but she had improved her dexterity enough that she was able to move her vine around without support, even making different shapes with it so that she could scoop the ball to its destination.
+
+Finally, Hugger successfully pushed the pill to the tongue where she paused, unsure how to proceed.
+
+That was great work! Bubbles congratulated Hugger. Let me finish the job now.
+
+Unrooting herself, Bubbles used a root tip to delicately roll the pill into the cow’s lips, where she miraculously began chewing despite still displaying no sign of consciousness.
+
+Hugger continued rolling pills to the cow, and Bubbles continued feeding the creature every time her tongue flopped back onto the ground. Eventually, Hugger managed to transport the pill through the air, without needing to roll it along the ground. Rock confirmed Hugger’s development with a solemn announcement:
+
+[Clutch (Fledgling) proficiency has increased: Clutch (Adept)]
+
+Excited about her achievement, Hugger enthusiastically forced the pill into the cow’s mouth, not noticing that the cow had awakened already. The cow choked, scrambling to all fours as she tried to clear her esophagus.
+
+“To the water! There’s water over here!” Bubbles cried, pushing the cow towards the water with her body. Fortunately, the cow was small and light enough that she readily obeyed Bubbles’s directions, and she dunked her face into the rippling stream.
+
+After a few moments, she pulled her head up, breathing deeply before she turned around to gaze curiously at Bubbles with her large, innocent eyes. Bubbles gazed back, enthralled by her thick eyelashes.
+
+“Where am I?” the cow croaked out, her voice deep and rumbly despite her small size. “How did I get here? The last thing I remember was…”
+
+“You’re at the Water Guardian’s forest,” Bubbles informed the cow helpfully. “Miss Fish—the Guardian—found you wandering around and was worried about you, so she brought you here to recover.”
+
+The cow’s pink snout paled. “Th-that’s right! I remember now! A giant monster swooped out of the sky towards me, and I was certain my life was over—I woke up a couple times in the air, realized I was being carried—I concluded I was being brought to her nest to become an eternal slave!”
+
+Bubbles blanched before gathering her wits. She never imagined that Miss Fish might be the cause of someone else’s distress. “Oh, well, no! Miss Fish was actually worried about you, so brought you here to recover… she even asked us to watch over you to make sure you were okay! Anyway, are you still hungry? There’s plenty of food for you to recover your strength, Miss Cow!” she said hurriedly.
+
+Miss Cow blinked her large, innocent brown eyes at Bubbles, before looking back to the pile of pills Bubbles was indicating. Hugger lifted another pill as an offering, just in case Miss Cow was still confused. However, she seemed disinterested in the pills, lifting her snout and sniffing disdainfully at it.
+
+“If you’re worried about its nutritional value, we fed it to you while you were sleeping because you looked hungry,” Bubbles said innocently just as a rumble emanated from Miss Cow’s stomach.
+
+The bovine froze, her nostrils flaring. “You what?”
+
+“You looked malnourished, and Miss Fish said these pills are suitable for an animal like you—”
+
+“I only graze upon the finest grasses,” Miss Cow said, her nostrils continuing to flare as she turned an angry gaze upon Bubbles. “You can’t expect me to graze upon these… mass-produced feed of questionable origin.”
+
+Perplexed at the bovine’s attitude, Bubbles felt herself withdraw from the unexpectedly hostile animal.
+
+“Oh… well, unfortunately we don’t really have grass here at the moment. Do you eat vines? There are a lot of vines deeper into the woods…” Bubbles trailed off as Miss Cow’s gaze grew angrier and angrier, before she suddenly pricked her ears forward, looking behind Bubbles.
+
+Following the cow’s wide-eyed gaze, she saw Link’s shadowy figure emerge from the trees. She waved Hugger enthusiastically, relieved to finally have someone who could help her calm down the angry animal.. “Oh! Hello!”
+
+“What are you doing?” Miss Cow demanded, backing away from Link’s prowling form and lowering her head defensively. “You’re drawing him to us!”
+
+“He’s a friend,” Bubbles reassured Miss Cow, though based on the aggressive stance the ungulate was taking she wasn’t sure she heard what Bubbles was saying. “Hey, relax! It’s okay!”
+
+Completely ignoring Bubbles, Miss Cow raised herself on her hind legs, clawing the air with her front hooves and letting out a bellowing roar that shook Bubbles to her core.
+
+[I would advise you to get out of the way!] Heeding Rock’s instruction, Bubbles scampered back, shouting desperately for Link to watch out as Miss Cow lowered her legs to the ground, tucked herself into a ball, and rolled over her head.
+
+Bubbles crouched, clutching the earth beneath her roots tightly for dear life as the ground vibrated with the pressure of Miss Cow’s travel, aimed unerringly at Link, who was watching the approaching ball of bovine with surprise in his eyes.
+
+“Look out!” Bubbles shrieked, finally prodding Link into action: he darted immediately to the side, and Miss Cow rolled right past him and into the tree directly behind him, the heavy impact causing the trunk to buckle and crack a bit, scattered leaves falling to the ground. Bubbles winced at the damage, though after witnessing destructive power she was grateful Miss Cow didn’t immediately attack them upon waking earlier.
+
+“What happened?” Miss Fish called breathlessly, swooping down out of the sky. She landed on the earth between Bubbles and Link, noticing the disturbed dirt. She followed the grooved dirt to where Miss Cow lay, disoriented again. “Ah… I see.”
+
+~ ~ ~ ~ ~
+
+Deciding it was better to make preparations to keep Miss Cow contained instead of rousing her prematurely, they let her sleep until evening while they rapidly built a small pen around her. It wouldn’t stop her from going on a rampage, but hopefully it would restrain her enough so that they could talk to her before she misunderstood something and became unreasonably angry again.
+
+Miss Magpie was the first to greet her when she blinked awake, unanimously elected by everyone for her diplomacy.
+
+“Good evening, Miss Cow,” Miss Magpie said. “Please do not be alarmed; the pen is not meant to keep you confined, it is just for us to talk. You may step out whenever you wish, but before you do, I’d like to explain to you what is happening here…”
+
+As Miss Magpie spoke soothingly to Miss Cow, everyone else hurried about the campfire Link had set up. Using his experience on a team with humans, he had told them that the best way to build relations with others was around a campfire: having light automatically put everyone more at ease, since they didn’t have to worry about losing one of their senses from an impending attack; the warmth improved everyone’s mood, allowing them to feel more comfortable about sprawling out instead of curling tightly (defensively) around themselves; and allowing everyone a chance to stoke the fire with small pieces of firewood at their side stimulated a sense of camaraderie, because they all had to work together to keep the fire going.
+
+Even though Link didn’t seem to like his time working with the humans, Bubbles was glad they gave him some sort of good memories around a fire, good enough that he deemed it worth sharing. They had invited several of the small animals in the area to come join them, hoping the presence of the critters would convince Miss Cow that Link and Miss Fish were not as terrifying as they seemed. Her job, at the moment, was to help Miss Fish produce more nutrition pills.
+
+It turned out that Fern’s “mishap” in the fight against Throttler wasn’t only limited to creating poisonous “byproduct,” as Rock called it: Fern could also produce nutritional byproduct, if she set her mind to it. Bubbles was glad of that development. It meant that Fern was becoming more and more like her old self in the garden with the nutrition bombs she fed Bubbles. Several of the magpies were resting beside her, helping sort Fern’s nutrition pills into appropriate piles for the animals, based on their dietary needs.
+
+Link was overseeing the campfire, and overall making sure everyone kept the appropriate distance from the flames. Even though campfires brought everyone together, Link warned them it only required a moment’s inattention for a fire to spread beyond its confines.
+
+Miss Fish, interestingly enough, was weaving baskets near the edge of her pond. She had apparently harvested several of Throttler’s vines and decided to turn them into something useful. She seemed to realize her presence intimidated most of the new animals, so was giving them space to approach her as they felt like it.
+
+Finally, Miss Cow approached the campfire, reassured by Miss Magpie’s words that she was safe. She tucked her legs elegantly beneath her bulk, choosing a position on the far side of the fire, directly across from Link so she could keep a wary eye on him.
+
+“Thank you for joining us,” Bubbles said brightly. Hugger offered a nutrition pill, which Miss Cow grudgingly took in her mouth after her stomach rumbled insistently. Miss Magpie fluttered all the way over to Miss Fish, landing on one of her horns. Miss Fish tilted her head thoughtfully as she listened to what the bird reported before she put her baskets away and came up to the campfire. Miss Cow shrank slightly away from the approaching Guardian, as if intending to flee. “Don’t be afraid—Miss Fish is very nice!”
+
+“Hello there,” Miss Fish said, stopping a comfortable distance away. Miss Magpie remained perched on her horn. “I hear you are lost, and seek to be reunited with your herd?”
+
+“Th-that would be much appreciated,” Miss Cow said. Despite her dignified demeanor, Bubbles detected a hint of fear that shook her words. Miss Fish nodded slowly.
+
+“I see. I wish I could fly you to where you need to go, but unfortunately, you arrived at a bad time… and you do not know where your herd’s destination is either, Miss Magpie tells me, so that makes it a bit difficult for me to help you. Are you sure you don’t have any ideas as to where your herd is headed?”
+
+Miss Cow lifted her head as she thought, smoothing away the fear Bubbles had noted earlier. She was impressed at the cow’s composure: the animal was in completely unfamiliar territory, with no allies around her, and yet she still held her head high, as if she didn’t fear them at all. She remembered Miss Magpie and Rock coaching her on how she had to present herself as unafraid and unbothered when the humans first entered the garden… this must have been the kind of attitude they were trying to get her to display. Bubbles surreptitiously lifted her leaves, trying to emulate Miss Cow’s courage.
+
+“I recall my dam said something about us going to a feast, but nothing more than that. Would you happen to know of any feasts celebrating the Bovine Collective?” Miss Cow, despite her youth, asked her question with an imperiousness that made Bubbles look at Miss Fish and Miss Magpie expectantly, as if they had the information Miss Cow didn’t have.
+
+A magpie beside Bubbles perked up at the mention of a feast, then joined Miss Magpie on the long horn and quickly whispered to her. Miss Magpie nodded thoughtfully at the information, then asked Miss Cow: “Is there any chance your herd is heading towards the Hearthfruit Tree?”

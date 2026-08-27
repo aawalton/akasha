@@ -1,0 +1,151 @@
+---
+id: 9baf95d0-5867-50be-bd93-4d20ba48374b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 669: Branch Heir"
+slug: 0091-chapter-669-branch-heir
+partOf: system-change-system-universe
+position: 91
+ownLength: 2038
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3716948/chapter-669-branch-heir"
+royalRoadId: "3716948"
+---
+
+Chapter 669: Branch Heir
+
+Alex and Derek stood in front of a large gate to the courtyard of an estate. From the looks of things, it wasn't the biggest or most luxurious estate that Derek had laid his eyes on during the walk—even though he wasn't paying much attention to his surroundings—but it also wasn't anywhere near the smallest. In fact, once they stopped, Derek actually examined his surroundings, and in the immediate area, the place where Alex had brought him looked to be the second largest.
+
+"This is your family's estate?" Derek asked.
+
+"Yes," Alex nodded. "This is the cluster of estates five through eight. We are relatively close to the center of Loominis City here. Since we are ranked sixth, this is our estate. There is one more cluster a little closer to the center for branches one through four, then there is the main branch directly in the center."
+
+"I see," Derek replied. He looked past the gate and at the main building. It was the same blue and white that he saw everywhere else, but the crest etched into the building was that of a spindle. It didn't have the shield or sword crossed behind it. "Definitely looks like more of a support crest, or even a crafting one."
+
+"The main crafting branch crest looks very similar, actually," Alex replied. "It just has a needle on the end of the thread, and the spindle is facing the opposite direction."
+
+"I see," Derek replied. "I guess that makes sense. A needle and thread definitely lean more heavily towards crafting, and you said that your branch was more of a studious branch."
+
+"Yeah," Alex replied with a nod, then stepped forward and made to push the gate open.
+
+"No guards?" Derek asked, but just as he did, two guards appeared in front of Alex. One was wearing armor, and the other was wearing a robe. They both had the crest of Alex's family on their shoulders.
+
+"No, we have guards," Alex replied with a smile. "Brandon... Robert," he said to the two guards with a nod. "I'm back."
+
+"You... Young Lord Alex?" the one he called Brandon asked—dumbfounded. "But you..."
+
+"Died?" Alex replied with a chuckle. "It seems that my death has been exaggerated quite a bit. We just came back from the Hall of Records with Hall Master Sheen..." As soon as the name was mentioned, Derek heard an audible gulp from both guards. "The hall master re-registered me into the family." He held his bracelet up and tapped on it. The wrists of both guards beeped, and they held their arms up to view whatever Alex had just done.
+
+"Well, I'll be..." Brandon muttered. "It really is you. Branch leader is going to be so happy." He looked at something again, then frowned. "But... your rank..."
+
+"Ah, yeah... Hall Master Sheen decided that I made some minor achievements and said something about raising my rank in the family. I guess that's already happened?"
+
+"It has, Young Master Alexander," the man said.
+
+"Young... Master? Alexander? Not Young Lord Alex?" Alex frowned. "Wait... what did he... why Young Master?"
+
+"Uh... sir... your ranking in the clan," the guard said. "You are now the highest-ranked of the branch heirs. You are even higher ranked than most of the heirs up to branch number two. Young Master... it isn't my place... but... what exactly did you achieve while everyone thought you were dead?"
+
+Alex facepalmed. "Not enough to have my ranking change so much." He looked over at Derek, annoyed. "You just had to make friends with the hall master, didn't you?"
+
+"Like I said... he was a nice guy," Derek replied with a chuckle. "Also... this," he pointed at his shoulder where the Tier III badge was.
+
+"Oh... yeah... shit," Alex muttered. "I didn't think about that."
+
+"Tier III!" the guards finally looked at the badge Derek was wearing instead of muttering something about Hall Master Sheen and 'nice guy.' They both bowed low at the waist. "Our apologies, sir! We did not know who we were in the presence of. Please forgive us!"
+
+"It's fine," Derek rolled his eyes and waved them off. "Just think of me as a nobody. It will be easier that way."
+
+"Y-yes... sir..." the guard, who was doing the majority of the speaking, muttered.
+
+"Can we go in now?" an annoyed Alex asked.
+
+"Of course!" both guards half-shouted in unison and opened the gates. Derek and Alex walked in.
+
+"So... I take it you're not a big fan of the increase in rank?" Derek asked.
+
+"That's an understatement," Alex replied. "I worked so hard to keep myself close to the bottom of our branch. Now, I'm apparently the top heir of the branch and ranked higher than some of the top heirs from the higher branches. I just wanted to live a peaceful life studying and working on my Soul Thread skills."
+
+"Sorry..." Derek replied.
+
+"It isn't your fault... well... it is, but not really," Alex replied with a sigh as they walked through the courtyard. "Defeating Davis Grimshaw was enough to move me much higher up the list in my own branch, but not to number one. I had accepted that, as I could use that reward to live the way I wanted and slowly fall back down in ranking without worrying about taking over our branch from my father. He would be proud, I would be happy, and Tanya would be the new branch leader once my father stepped down."
+
+"Ah..."
+
+"Yeah..." Alex nodded. "Then Hall Master Sheen found out about your backing, and it seems like he tacked some additional prestige onto me for bringing in a friend who is a potential future powerhouse in the entire System Universe. And for that... it seems that my ranking has skyrocketed. I don't even know if I could fail hard enough to be lower than Tanya's before my father retires."
+
+"And Tanya is..."
+
+"My sister... and former number one heir to our branch," Alex replied.
+
+"I see," Derek said with a chuckle. "Nothing like failing up."
+
+"Isn't that the truth?"
+
+"Does that mean you can maybe get an even better reward?" Derek asked.
+
+"I don't know," Alex replied. "I hope so. We can look at the information once we are settled in. Hopefully, I can still lead a peaceful life. Maybe I can keep the ranking but step down as heir for my reward."
+
+As they were halfway from the gate to the front of the building, Derek saw the front door swing open with a crash. There, a beautiful woman with white hair and the same robe Alex wore came stomping out. She did not look happy. "Is that Tanya?" Derek asked.
+
+Alex turned and sent the two guards a glare, causing them to duck their heads, then looked back at the marching woman. "That's Tanya..." he muttered.
+
+"What... did... you... do?!" the woman, without so much as a 'hello,' marched up to Alex, grabbed him by his neck, and spat out.
+
+"Stop that," Derek said from the side, causing her eyes to shift to him.
+
+"And who do you think you are to tell me what to do?" the woman glared at Derek, then her eyes followed his finger as he pointed to the badge on his shoulder.
+
+"Is this enough?" Derek asked. He wasn't exactly sure it would be enough, but he had a feeling based on the ranking debacle Alex was going through. Sure enough, as soon as she saw the badge, the woman let go of Alex and stared at Derek with wide eyes. I think Alex really downplayed this badge, he thought.
+
+"You... that... tier three..." Tanya stuttered as her eyes shifted from Derek to the badge to Alex, then back to Derek. She brought her hand up to her face and covered her eyes. "What the hell is going on?" she asked nobody in particular.
+
+"It's fine, Derek," Alex said while rubbing his neck. "Big Sis was just showing her affection." He turned to his sister. "It's good to see you, too, Tanya. Sorry about this ranking stuff... there may be something I can do about it, but I'm not sure. I accidentally made some contributions while trying not to die."
+
+"I am glad that you aren't dead, Alex," Tanya's entire demeanor changed, and she actually scooped Alex into a massive hug.
+
+"Can't... breathe..." Alex muttered, and Tanya let him go. When she pulled away, she actually had tears in her eyes. "Does anyone else know I'm alive?"
+
+"Just Robert and Brandon... and me," Tanya said. "I was looking at the rankings when it updated a little while ago. I couldn't believe my eyes. I didn't tell anyone about it."
+
+"You are the only person in the branch obsessed with the rankings like that," Alex replied.
+
+"It's not my fault," Tanya said. "If I want to become a hall master one day, I need to maintain a good standing in the clan—and that means becoming the branch head for at least a century."
+
+"You want to be a hall master?" Derek asked with a frown. "I thought that was a punishment."
+
+"Oh no," Alex replied with a snort. "That's a punishment for someone like Hall Master Sheen, who is a fighter and adventurer by nature. But for someone from our branch? It is like a dream come true. If I thought I had any hope of reaching Mid or High-Ranked Ascendant, I would aim for that. To take over the Hall of Records from Hall Master Sheen? That would be the greatest honor for someone from a studious branch."
+
+"I see," Derek replied. "Well... that guy seemed to like you, so maybe you can talk to him about it and he can help."
+
+"That guy? Hall Master Sheen?" Tanya asked. "Likes... you? Likes anybody?"
+
+"It's a long story, sis," Alex said with a sigh. "But no, he does not seem to like me. He tolerated me because he likes my friend here. They hit it off like old friends. I almost passed out."
+
+Tanya turned to look at Derek again. She was in shock.
+
+Derek shrugged. "I get along with certain types of people better than others, I guess. And he enjoyed my mundane coffee, so he has impeccable taste."
+
+"I... I... I don't know..." Tanya finally sighed and shook her head. Her eyes fell on the badge again, and she straightened up, then bowed at the waist. It wasn't as deep as the guards had bowed, but it was close. "Sir, it is my pleasure to meet you. My name is Tanya Loomis, first... second heir to the Spindle House of the Loomis Clan. If there is anything you may need in the future, feel free to contact me."
+
+"Whoa!" Derek held his hands out in a halting gesture. "I like the fiery sister better. No sense in getting all respectful to me now. I hate that shit, just ask Alex."
+
+"It's true," Alex said. "He was even disrespectful to Hall Master Sheen."
+
+"I was not!" Derek replied. "I just wasn't overly respectful."
+
+"Is there a difference?" Alex asked as Tanya stared on, wide-eyed.
+
+"Am I dead?" Derek asked.
+
+"You... are not," Alex sighed, then looked at his sister. "He wasn't super respectful to the hall master. But I guess he wasn't entirely disrespectful."
+
+"Uh-huh..." Tanya muttered, then looked at Derek with squinted eyes. "If that's how you want it, then don't be mad if I say or do something to offend you."
+
+"You don't have to worry about that," Derek chuckled, then looked at Alex. "Now, shouldn't you go let your dad know that you aren't dead anymore?" He looked back at Tanya. "He'll be happy that his son is alive, right?"
+
+"Happy? Father will be thrilled. Alex is one of his favorites, after all," Tanya said, then frowned. "Actually... once he sees Alex's new ranking in the clan... he is going to be Father's new favorite child by far."
+
+"Don't say that," Alex moaned. "You know that Father treats us all the same."
+
+"Doesn't mean he doesn't have favorites," Tanya replied. "And now I'm going to be his second favorite." She pouted. "But let's go. We can't keep Father waiting."

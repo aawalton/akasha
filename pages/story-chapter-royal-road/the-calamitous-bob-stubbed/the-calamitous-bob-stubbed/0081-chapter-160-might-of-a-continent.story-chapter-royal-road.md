@@ -1,0 +1,517 @@
+---
+id: 07cd0c3c-6a0d-5f6b-98cc-28aaebbd7582
+page-type-slug: story-chapter-royal-road
+title: "Chapter 160: Might of a Continent"
+slug: 0081-chapter-160-might-of-a-continent
+partOf: the-calamitous-bob-stubbed
+position: 81
+ownLength: 7438
+unit: words
+ownProgress: 7438
+publishedAt: 2024-04-12
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1592417/chapter-160-might-of-a-continent"
+royalRoadId: "1592417"
+markedReadAt: "2026-06-29T21:17:36.656Z"
+---
+
+Viv followed officers to an exquisitely decorated tent sitting on a hill that hadn’t been here this morning, because nothing quite said majesty like casting tactical spells to make yourself taller. For this occasion, she could only take two people with her since space was limited and she went for Sidjin and Solfis. The explanation as to why became clear as they climbed up nicely carved stairs and saw the flow of soldiers rushing out through the witch gate. It was not just the Enorians and the Baranese coming. The flood gates were open. Right now, northerners in white robes over mail marched out with the twilight sun shining on their spears. Sidjin tensed as he watched the display by her side, prompting her to pay more attention to the flags.
+
+Glastia was here.
+
+That was… well, even if he were still an outlaw in his homeland, which he was not, they still couldn’t arrest him due to the rules of the Paramese Alliance. Nevertheless, the past was not something he could easily let go off. The way Nyil made minds more resilient only worked so far. It was already a miracle he could function after everything he’d been through.
+
+A surge of anger rose in Viv’s chest, though she quelled it quickly. Glastia was a frontier city under constant siege. They were expected to send a token force every time the alliance gathered, and they would be held to higher standard for decades afterward. Of course, they couldn’t afford not to come. She should have expected it. She just hoped they’d sent someone who wouldn’t cause a scene.
+
+Viv walked in, everyone stopping to spare a glance at Solfis. He was getting quite a reputation, and she wondered what would happen if she insisted he attended meetings after he’d regained his original frame. They’d need larger tents maybe? In any case, Jaratalassi was already present alongside helpers who were finishing adding little flags in front of comfortable chairs. A quick study revealed that the arrangement was made to prevent animosity. Notably, she was close to the entrance with Glastia a quarter of a circle away to her right, Helock a quarter of a circle to her left, and Enoria facing her. Out of immediate stabbing range. The more powerful nations filled the back of the tent around the commanding chair which belonged to Jaratalassi. Harried ladies in waiting rushed from spot to spot, placing sealed cups around which a nondescript man checked for poison. There were a few of them around the tent, actually.
+
+//This place is secure.
+
+//For now.
+
+“I imagine attacking anyone here would be suicidal.”
+
+Viv was one of the first to sit, mostly because she was still feeling sore. Solfis came to stand at her side which meant she was given a wide berth, a double-edged tool when other groups were talking in low whispers. She would get a much better chance at socializing during the conference anyway. Right now, she needed a breather. So did Sidjin because, as the two of them discovered at the same time, Glastia had sent Prince Medjin. The same person who’d turned Sidjin’s mentor and Sonagi against them in the arena. Also he was an absolute bastard that looked like an opera villain and the way he glared at Sidjin made it clear he had something in store. So help Neriad, if he tried anything…
+
+Slowly, other groups sat down. The susurrus of conversations covered three different languages and their variations, giving the tent a cosmopolitan ambience reinforced by the vastly different styles of armor people wore. The last of the whispers died down a moment later which Jaratalassi used to open the meeting.
+
+“Gentlement, and ladies, it is my honor to welcome the alliance today. We stand at a decisive junction. You arrive— yes?”
+
+Medjin had lifted a hand under the glaring disapproval of most, especially the two kings. Viv got the distinct impression the man wasn’t aware he wasn’t in the Glastian palace anymore.
+
+For once, she wasn’t the one who would get a culture shock. Nice.
+
+“Before we begin, I wish to make a request related to the presence of Prince Sidjin of Glastia here,” Medjin said, that snake.
+
+Of fucking course.
+
+Viv noticed the imperceptible tension on her lover’s shoulders. Sidjin was one of the most composed people she knew. He kept his calm with a level of control that bordered on mania, a quality in a mage but sometimes a trap as well. She felt the sleeping rage awakening again for the first time since the duels back in Helock when that wound on his soul was freshly reopened. It pained her to see him like this, taking upon himself to bite everything back once again for a city that he still loved, even after everything they had done to each other.
+
+“Prince Sidjin of Glastia is a notorious traitor. The rules of the Paramese Alliance allow for the presence of, shall we say, disreputable elements. However, nothing warrants his presence on his council and I daresay he represents a security risk and should be excluded from every strategic meeting where important information might be shared.”
+
+All eyes turned to Viv and Sidjin so she cast a quick sound-canceling enchantment. It was considered acceptable and faster than a recess.
+
+“I will leave,” Sidjin said, “If you ask me, although this is nothing short of bullying and you should not accept it as a sovereign.”
+
+It was obvious to Viv that Sidjin was exhausted after two days of very heavy fighting. All of her casters had fought until they were almost completely out of mana and then they’d focus on replenishing it, rinse and repeat. It made the usually unflappable Sidjin a bit more raw than usual. He bared his teeth as he glared which was a much better than deep depression.
+
+“Sidjin, you’ve never actually spoken your mind about the whole treason thing. Not in public.”
+
+“I shared it with my father, after he… after my merl friend died.”
+
+“After they murdered him.”
+
+“He ignored me, said it was for the good of the city. There is no point now.”
+
+“There is an obvious one and I think you should share it.”
+
+Sidjin frowned, the whole concept foreign to him.
+
+“We do not play this game in public. It is unsightly.”
+
+“But he started.”
+
+“Viviane, love, we must maintain a certain level of decorum.”
+
+“Which means we can reciprocate when insulted, which he’s just done. You’re not just you anymore. You’re my advisor and my most powerful caster, remember?”
+
+“Viv.”
+
+“If you don’t stand up for yourself, I will.”
+
+“Viv.”
+
+“And I’ll be fucking rude about it.”
+
+“Viv, I…”
+
+“Sidjin. They’ve been slandering you and you’re just biting it all back. Just for once, let it out.”
+
+“I…”
+
+“Let it all out.”
+
+She could see the moment the scales tilted and collapsed, the moment his jaw unclenched and she knew the dam had broken. She dropped the sound enchantment just as he started speaking.
+
+“The moment seared in my mind, the one that changed everything, that wasn’t the treason accusation. It wasn’t being thrown in a cage or even what came after, the torture, the humiliation in front of the various families who’d lost a son fighting for a wall they should have stood on from the start. It wasn’t my father’s scorn or my mother’s tears. It was the moment I left the battlement and felt the heat singe the back of my head. The moment I turned and saw my merl friend Siul’s charred corpse fall, and the moment after, when I turned in horror, and I saw your nephew step away from the upper wall with a sneer. He DARED sneer at me.”
+
+Sidjin breathed in and it was harsh, like the wind howling through a half-closed window.
+
+“For two years I fought on the wall every damn day until they called me the Red Mist. I sacrificed every minute of free time to the cause. I bled and I cried for it, but I didn’t mind, because I was fighting for Glastia. My Glastia. I would have faced the dark gods for her and for you. I would have charged head first into the tide if it meant victory. I would have given my life without hesitation. Glastia could have asked for all of it and I would have given it gladly if it meant it would all stop. Just stop. But you didn’t ask for this. You asked for my principles and my soul! You… you murdered Siul because he was asking help for his people, a people that was dying on the wall alongside ours! Alongside me! A people fighting for us! And you… you just had him murdered… and you had him murdered with a spell that would have slaughtered three dozen beastlings! The sheer, callous, honorless, audacity of it! And after all that, when I freed them and you actually had to fight for your own nation, after you killed your own allies, you dared call ME a traitor? You have tossed every last shred of dignity your entire bloodline could have possibly possessed and to this day, here on this council, you are still searching your pockets for more. The shamelessness of you. The utter absence of decency. There are whoring fisherwomen with more prestige than your entire clan and I am telling you now that I am done with you. I cannot control what you say in your viper dens but if you spit your venom in my presence again, I will demand satisfaction. I will go through your entire retinue and all your battle mages with relish and I want you to remember that I have killed for duty, for honor, for survival, but you… you? I would kill for pleasure.”
+
+Viv cleared her throat then leaned forward, adding her comment in a calm voice.
+
+“For the record, Archmage Sidjin is here as my Arcane Counselor, my paramour, and a vital part of the Harrakan military. His Glastian past should hold no relevance to this council. I will also add that it is the official position of Harrak that Prince Medjin of Glastia’s opinion has no value whatsoever and we will disregard it.”
+
+Silence returned to the council though there were a few half-smiles. It was Jaratalassi who spoke next.
+
+“Prince Medjin, this is a sovereign meeting held for the purpose of developing a strategy to defeat the Empire of Dawn. Our time is extremely precious. Please do not waste it by airing your petty grievances and I will refrain from comparing your contribution to that of Archmage Sidjin. Thank you. Now, I’d like to continue where I left off…”
+
+What followed was mostly Jaratalassi bringing the commanders up to speed, something he did with alacrity and using numbers like range, proportion of elite to standard infantry, or casualty ratios. The description was succinct and really exhaustive. It was mostly the generals around the table who nodded as he spoke. Afterward, Jaratalassi recounted the events up to this day, shared his strategy, and finished with the existence of fate magic. The assassination of Eikart troubled everyone.
+
+//The enemy assassins are capable.
+
+//They are also immune to pain, continuing their initial attack no matter what.
+
+//This piece of information cost us dearly.
+
+//However, they can be stopped by our own specialists.
+
+//I am willing to share what I have learned of their techniques.
+
+//As a gesture of… goodwill.
+
+Solfis’ way of saying the word felt terribly ominous, but there were signs of agreement around the table. Viv wondered if the canny golem was making himself seem like more than a killing machine. It even surprised Viv no one had objected, perhaps a sign her reputation was finally reaching far and wide.
+
+“Concerning tomorrow, I have a suggestion,” Jaratalassi continued.
+
+What followed was a masterclass in tactics that Viv appreciated although she had difficulties following. Her polymath skill let her infer the meaning of several expressions so she could at least get the gist of what was going on. Essentially, Jaratalassi didn’t have a plan. He had a complete roadmap. There were presets, conditions and contingencies with triggers left in the hand of career commanders with a deep understanding of their own forces. Sometimes, one of the generals suggested engaging at a different range, or swapping two units, and most of those suggestions were accepted but Viv was completely out of her depth. It was a great example of the level of thought that went into battles she’d only seen from outside so far. She also realized that Jaratalassi had been playing with only four ducal-sized forces so far which was like forcing a maestro to perform on a shitty flute. Now, Jaratalassi had the full orchestra under his command. He was going to wield the entire might of Param and he was going to make the Empire Dawn regret every second of it. Viv was a little wowed, and also a little jealous. She wanted her own dedicated commander so she could focus on her favorite thing: spellcasting.
+
+Jaratalassi also came up with an idea she’d had as well.
+
+“We should strike the enemy at the time when it is the most vulnerable: in the morning while the land is still cold. Their strange constitution will make them sluggish until the sun warms the earth, which should take at least an hour.”
+
+“Why not attack at night?” somebody asked.
+
+Jaratalassi allowed the interruption.
+
+“We have no guarantee that the Nemeti perform worse at night than we do. Speed and energy are not the only factor. Lack of visibility and confusion matter as well and they could be exploited by our enemies. They have already demonstrated a great ability to adapt and to organize themselves. It is not a risk I am willing to take when we have a much safer option.”
+
+“Not to mention the Hallurians certainly tried,” another added. “They favor night attacks.”
+
+“Yes. I also love the irony of handing the Empire of Dawn’s collective asses to them at dawn. The scaley bastards deserve no less. However, in order to achieve a morning assault, we will need gates. Archmage Sidjin, Empress Viviane, may we count on you to set them up?”
+
+“I’d need to be present at both ends…” Viv said.
+
+//My mistress has been the repeated priority target of their assassins.
+
+//She will remain in a secure location until they are confirmed eliminated.
+
+Solfis’ voice brooked no objection.
+
+“I will make sure we are ready,” Sidjin assured.
+
+The plan was simple in principle: rush their forces through portals to the edge of the Nemeti stronghold, deploy as fast as possible, and engage as the sun rises. The attackers would have it in their face which was less than ideal but it would be compensated by the Nemeti being weakened. The main point of failure, for Viv, was the narrow nature of portals. It would take entire minutes for the tens of thousands of soldiers to sprint through the aperture, a fear she didn’t share considering the generals were aware of the issue. In any case, they agreed it was the best plan and that was it. Viv didn’t feel like contributing. She knew when things were above her paygrade. The most important aspect was that she would be placed in the middle while the right flank would carry the brunt of the offensive based on some subtle terrain thing she’d not quite caught. Once the plan was decided, the generals filed out and she had the displeasure of being addressed by a northern leader she’d never met. A smarmy guy in an annoyingly cool robe she wanted to steal.
+
+“You should consider who you keep as allies, ‘Your Majesty’. There is a cost to defying the order.”
+
+“Thanks for the ‘advice’ but I don’t go back on my loyalties for convenience or profit. I’d go to war over Sidjin and I’d win it too.”
+
+“You are quite arrogant for a self-proclaimed Empress.”
+
+“Yes, it’s in the title. I’ll add that unparalleled arcane might is doing wonders for my self-confidence. Test it at your own risk. Now, you will excuse me.”
+
+Viv left to find Sidjin who’d gone first. He was standing near the edge of the artificial hill, inspecting the incoming troops and supply wagons with his hands behind his back.
+
+“We have changed everything,” he said.
+
+“You have. You’ve solved supply lines.”
+
+“Perhaps. We shall see if this lasts, if others can be taught as well. Shall we go?”
+
+The trio left for their camp which was on the other side of the column. Fortunately, a detachment simply paused to let them through, a perk of being dressed like some dark lady, Viv assumed.
+
+Sidjin was being sad. Quick, a distraction!
+
+“You know, I was thinking.”
+
+“Oh Neriad protect us all.”
+
+“Har har. No, seriously, back on earth, the entire perception of magic gave it such a mystique! Witches were supposed to brew potions from rare and exotic ingredients, then dance naked withershins around a bonfire on a full moon singing incantations at the top of their lungs. And I feel like it’s actually a bit lost here. Not that I’m really complaining since it would make things much more complicated, just… what?”
+
+Rather than distracted, Sidjin was getting increasingly pissed off which was not the expected result.
+
+“Witch traditions mostly work that way. Witches of the Thorns may only cast offensive spells if they have imbibed a brew made from theirs and monster blood. They cannot cast to attack otherwise.”
+
+“What? Is it… acting as a focus? A battery, perhaps?”
+
+“No.”
+
+“What then?”
+
+“The spells will not trigger unless the potion has been consumed.”
+
+“But… that’s preposterous!”
+
+Sidjin threw his hands up.
+
+“Exactly! Exactly, this is how I feel about all of your entire spell library! Do you know I had to invent an array and a formula to calculate the distance between two portals so I don’t end up buried alive? And you? You? You slap three axis and a bunch of identifiers on your targeting hex and that’s enough for, and I quote, ‘letting Nyil know where to aim’. And that’s it. And it WORKS! Scandalous! And then you just shadow port away to avoid having to explain yourself which is, by the way, supposed to be an assassin path master ability. Arrrrggg.”
+
+The two stared at each other, then chuckled.
+
+“I need to express my frustration more often. It soothes the heart,” Sidjin observed. “Oh look, is that…”
+
+A messenger was running towards them, one of the temple acolytes. She looked exhausted, with wisps of hair sticking out of her ponytail in sweaty strands.
+
+“Your Majesty! Ah. Reinforcements have arrived.”
+
+“Reinforcements? We didn’t expect anyone.”
+
+“We know. This way!”
+
+The girl led them by the side of the Harrakan fort which was now surrounded on all sides by other camps being raised. Viv took pride in the fact theirs looked the most professional. A column of warriors waited by the gate in good order. Their reddish skin was unmistakable. Viv rushed at the leader with enthusiasm.
+
+“Marruuuuuuk! It’s so good to see you!”
+
+“Hahahaha!”
+
+The large Kark looked wider and more muscular than ever. Her armor was yries-made and showed a few more scars than last time. Her shield showed considerably more marks and Viv almost laughed when she realized the Kark had someone engrave a stylized handle near the middle. Viv stopped before she could hug or pat the stout girl since she remembered Marruk wasn’t a fan. Instead, she opted for words.
+
+“I see your crusade against doors is still ongoing.”
+
+“It helps me be recognized. It is like a human flag but more convenient and less phallic.”
+
+“Less visible too.”
+
+“I can make it very visible. From up close.”
+
+A few of her Kark shifted uncomfortably. Viv wondered if it was the unkark-like banter or just an intimate knowledge of Marruk’s bashing implement.
+
+“And you brought back… more Kark than you said you’d lead home? I thought you wanted to rescue them?”
+
+“I did! Too many idiots in the clan!” Marruk bellowed, forcing the first five ranks of the formation to huddle around their pikes.
+
+“They say thank you and ask which chief I want to marry! They want me to raise many strong and smart children for their tribe while my husband leads the warband. Idiots! IDIOTS! It was I who brought people back, I who brought us more steel than three trade caravans filled with precious sweet meat! It was I who got our gold back from the Enorian liars! I should be chief! My husband should raise MY children to be strong and smart while I RULE. I have proven myself more than them! We need… Pah. You know this. My people, they are too… set in their ways. See change as a surrender. Losing oneself.”
+
+It was obviously a sore spot.
+
+“Then, uhhh.”
+
+“I make a new tribe with steel and ruse and girl warriors. There are three. Do not mention it. They think I cannot tell. We conduct guerilla warfare and we speak softly.”
+
+“That’s great!”
+
+“I, uh, I was hoping you could help. With the guerilla part. We need new paths. I cannot do it myself. I need to stay as Pillar of the Kark.”
+
+“But of course! And who knows, if we manage to liberate land to the far north, perhaps some of your people can move in. Solfis mentioned the climate was similar to what you guys have in the steppes, except, you know, the soil isn’t shit.”
+
+“That would be perfect, yes. Later. For now, we fight together again. I will help my warriors settle down for the night with minimal screaming. Goodbye!”
+
+Viv let the Kark busy herself with housing. Since their coming was unexpected, Rakan volunteered to expand the base to accommodate them. For some reason, all the other armies gave them a wide berth so there was enough room to raise new barracks next to the Order of the Blue Rose’s poetry tower. Viv finally, finally retreated back to her secured bunker, only to scream in fright when a figure pretty much unmerged from the wall.
+
+//This is Irao, Your Majesty.
+
+“Oh, ok, ok.”
+
+The Hadal blinked slowly, then tensed a little.
+
+“I will give you some space,” Sidjin allowed. “I need a bath and a glass of spiced wine.”
+
+“See you. Irao, I… did Zero Five tell you?”
+
+“He told me many things.”
+
+Viv couldn’t be sure but the old assassin looked dejected.
+
+“I’m sorry for your loss. Your friends came and… they protected me.”
+
+“Yes. Death. There have been many deaths.”
+
+He paused for a while.
+
+“We will bury their ashes in our home. Death is… more a part of life than it used to be. There is life too. Hope. I was the first, you know? First successful one out of the vats. First to be trained. For a long time, I also feared I might be the last. But no longer. Now we have children. I have held those children in my arms. They are very squirmy.”
+
+“Hmm. That’s a good thing?”
+
+Irao nodded wisely.
+
+“Very much so. I feel safer. I feel like death has meaning. But I don’t think I want more of it from my friends. Now, I want to see how the scaled ones wield fate like a dagger. It will be… a nice challenge. Something new.”
+
+“You sound like Solfis.”
+
+Irao stared right into her eyes, for once.
+
+“Yes. We are both old. Sometimes bored too. I think… this will be interesting.”
+
+The Hadal disappeared and Viv knew the Nemeti would regret making themselves interesting.
+
+***
+
+Solfis sat across the path to the Empress’ bunker entrance, not far from its charging station. Data influx was processed by part of its processors while the rest of its mind remained idle, churning the emotions that blazed through its peculiar soul. The one that interested it right now was anticipation.
+
+The Nemeti blades were coming. It could feel it in the way reality shifted ever so slightly, as their fate carried them to its mistress. Solfis had worked out the way they functioned during the first night. A thread carried them to their victim, where they struck with unerring accuracy. It was a powerful ability made even deadlier by the number of assassins and their total disregard for self-preservation. In order to win, the only option was to block every last possible path to her. There could be no fate if there was no possibility of victory.
+
+And so, Solfis calculated every possible path.
+
+And it blocked them.
+
+The shadows shifted. Solfis bent backward, letting the first assailant dig his blade in the packed earth. In the same movement, Solfis lifted itself on its hand and swung both legs around in a circle, catching two more. Pandemonium was unleashed on the camp. Dark-scaled Nemeti battled Enorian rangers, Baranese assassins, and northern dark blades in a flurry of quiet slaughter. Blood soaked the ground. Solfis’ second had cut the first in half as he retreated, then he lunged forward and caught a fourth with the very tip of its right leg. It pinned the body down and twisted.
+
+A sword came at Solfis’ face. The golem twisted its head and struck at the same time, its attack dodged by a hair. A series of swipes was avoided. To the side, the Paramese beat a hasty retreat against a fierce foe that killed them quickly. Another dark figure engaged the master killer and the dance resumed.
+
+Solfis was left against its singular opponent.
+
+//Sent against me specifically, I see.
+
+//Unfortunately for you…
+
+//You are too weak to touch my destiny.
+
+The exchange quickened. Solfis deflected a series of thrusts and managed to catch the foe’s hand, but it slipped away and the golem was forced to pin another assassin to the bunker’s door before it could attack the enchantments guarding it. It was both frustrating and challenging to oppose the assassin without dueling mode, for the golem could not afford to lose sight of its mistress’ abode.
+
+The adversary teleported to Solfis flank. Solfis hip checked him. He was off balance. Solfis surged forward. The dance reached a paroxysm but every time the golem cornered its opponent, the foe slipped away with deceptive ease. The assassin grew bolder and more desperate as time passed and more of its allies fell. Blood soon covered its scales from glancing slashes.
+
+Another Nemeti found the bunker door and placed a package at its base.
+
+Solfis turned. In three quick lunges, it was at the gate, twisting on itself and sending the dangerous item high into the sky. It was the moment the assassin had waited for. He bypassed the golem’s guard and jumped.
+
+The assassin’s dagger plunged deep into Solfis’ eye cavity in a sound of cracking bones. One of the baleful eyes dimmed when the blade pierced the entire skull.
+
+//Well done.
+
+//But my head holds nothing vital.
+
+With a ghastly sound, the golem punched through the Nemeti’s chest.
+
+Some of its sensors were damaged. The repair system kicked in, focusing on the more damaged areas first. Overall efficiency was decreased. Overall confidence remained high. The shadows moved again, revealing the hooded form of Irao, surrounded by a cadre of hadal elders. The old killer touched his shoulder. Glitening blood coated his fingers.
+
+“Interesting.”
+
+//Those are poisoned.
+
+“I am aware. And immune.”
+
+The battle had moved south towards the Baranese camp. More soldiers were joining the shadow war as they returned from patrols or rushed out from tents. It was getting so noisy, some of the sentries might even notice.
+
+//How about… a bout of friendly competition?
+
+Irao’s eyes narrowed.
+
+“Speak.”
+
+//I knew you would take the bait.
+
+***
+
+Dawn rose over the plains of Halluria for what would be the third day of battle. Viv moved after her soldiers through the massive portal made by Sidjin, an active casting the likes of which he’d only deployed once before, when saving the merl from their doom. The Harrakans were among the last to deploy because Jaratalassi assessed there might be a chance they could locate her in real time. Around her, the witchpact walked tensely as they were still mostly out of quarrels. That was fine. Other groups were tasked with carrying the day.
+
+Viv cast a concerned glance at Solfis, still showing signs of damage to his skull and ribcage. The bone was somehow repairing itself but what concerned her was how smug the golem looked. One would think it was difficult to appear smug with no facial expressions, yet here they were.
+
+Also, Viv realized she was tense as well. She was back to normal and as safe as could be on a battlefield, and yet being drowned among other troops, she felt less in control of herself. It was strange and rather unsettling.
+
+It was the first time since coming here that she would just be a cog in a massive war machine. The difference was, back on earth, no one had signed up to follow her.
+
+//Relax, Your Majesty.
+
+//Your tension is influencing the others.
+
+//Even the One Hundred are closing ranks.
+
+“I’m worrying for nothing. Probably.”
+
+//If it is any comfort, even accounting for a significant swell of the enemy numbers, we have excellent chances of winning.
+
+//Much better odds than… most of your endeavors.
+
+“Oi.”
+
+Despite that, Viv still felt nervous. Most of the tension left her when they finally crossed the portal, coming in full view of the plain.
+
+In front of her, the titanic Nemeti camp expanded so far it might as well have been a city. It was still crawling with activity though most of its denizens were now massing in front of it in neat, well-organized groups. The cavalry was back in action, or rather, enough reinforcements had come that the Nemeti could now mass them in large numbers. Viv didn’t notice too many arrays but there were now also roving bands of creatures holding javelins, faster and leaner than their counterparts. The Empire of Dawn, too, had gathered its troops. Worse, despite their losses, the survivors were fit and hale. It was likely that the death of so many the past few days had only provided better sustenance for the remaining ones, another explanation as to how they’d survived the trip through the continent’s second most hostile landscape.
+
+There were just… so many of them. The Paramese army was standing slightly above them and from this vantage point, their numbers defied counting. Oh, she could make an estimate and say there were probably around fifty thousand but that was a number that the human mind couldn’t really comprehend. It was more a statistics, an organization, and now that statistics spread before her eyes in mighty squares determined to kill her. At this distance, they became organic, quivering masses of spears and muscles moving under the will of a hidden cowled creature like the thousand feet of an insect. It was… rather intimidating.
+
+That was until she looked around her. Now, the Harrakans were inserted in a more traditional formation of subsequent lines and those lines extended, and extended, and extended… Her gaze covered spear lines, assault lines in heavy armor with two handed weapons, skirmishers, all mixed for maximum effect. There was mail, plate, leather, cloth, steel helms and colorful hats, flags, pennants, banners, horns and drums and flutes. Such a diverse mix would have been impossible to wield normally, but under Jaratalassi’s masterful hand, it was a complex checker where everyone was exactly where he intended. And behind those soldiers came the casters.
+
+Param didn’t use siege machinery outside of sieges but they had better anyway. Now the mages of many nations worked in circles designed to bring punishment. The mana over the valley thickened, warped in reaction to the monumental amount being drawn from cores and injected into constructs. An orchestra of signals rang across the lines when the last regiment made it through, placing themselves behind the Harrakans to act as a reserve. The Nemeti drummed answered in kind. A dissonant contest of sound heralded the contest of might. Both armies moved towards each other with confidence and eagerness. Raucous calls echoed down the line. A horn blast gave her the signal she’d be waiting for. It was the sign for general charge.
+
+Like a man, both formations on the side marched on. The Harrakans didn’t move though. They were waiting for her.
+
+Viv sighed. Somehow, the fear she felt was evaporating. There was only one path left and it was forward and down. In a way, it was relaxing.
+
+A sort of whine caught her attention. Lak-Tak was looking up with his big owly eyes, pleading quietly.
+
+“Oh alright. Make way!”
+
+The One Hundred split their rank without looking to let the array through. Somehow, the yries had managed to add even more spikes to the front bumper to the point it looked like the business side of a hedgehog. Once she was at the front, Viv used a sound enchantment to make herself heard.
+
+“First to the fight! First to draw blood. For the black tide!”
+
+The array tank jumped forward while her driver trilled his pleasure. Viv belatedly checked the brake lever to confirm it looked solid, then decided she wouldn’t touch the damn thing at all. The Harrakans would not be the first to hit the Nemeti. Some shield breaker formations would get there first. That would be small comfort for the first rank of spearmen receiving them though.
+
+Impact. The belt bit Viv’s shoulder. She activated the shield then, just in case. With a last second roar, the Harrakan wedge slammed into the Nemeti lines, tossing bodies around. As expected, they couldn’t muster the energy to counter-charge with the bouts of speed that qualified them, but their discipline still allowed them to hold on. To her side, spells ravaged the Nemeti flanks, covering them moments before the rest of the Paramese made contact. The melee began, more furious among the newcomers than the wary Harrakans since they had to prove themselves. Squads moved behind the enemy lines, fierce warriors with shields and lithe hunters with what Viv now recognized were javelin throwers. The implements looked like handles with cups at the end.
+
+The skies were soon full of arrows, spears, and stones. With their shields active and their quarrels all but exhausted, the Harrakans were an island in a sea of destruction. The drums of the Empire of Dawn now beat faster, giving orders with more speed than ever before. Formations shifted to answer dangers. Some rotated, and for a while, the battle was in a state of balance. Viv knew it couldn’t last. The Nemeti were the first to break the stalemate.
+
+Screaming red clusters of fiery death were the first across the skies. It was a great surprise to Viv that most of them were not, in fact, aimed her way. A flash of hope warmed her chest. If the Nemeti were no longer focused on killing her, that meant they were either resigned or desperate.
+
+The answer was immediate. Viv shivered, feeling all the concentrated mana released at once around her. Battle mages from Helock, royal artillerists from Baran and Enoria, witches, northern casters and all Jaratalassi could get his hands on, all of them released their spells at once.
+
+For a few seconds, the skies over Halluria were a rain of meteors in daylight. Shrieking projectiles drowned the drums and the cries of the living and for a moment, the world held its breath.
+
+The first crashes happened overhead when interceptors hit the fate bolts, mere pops before the real show and yet, already so damn loud. Viv only had a couple of seconds watching the death kaleidoscope descend like so many sunsets.
+
+“Shit. Brace!”
+
+She increased the energy in her shield, closed her eyes, and blocked her ears.
+
+She gasped when the shockwave reached them. The earth shook hard enough to force her to grip the tank’s frame, then a cloud of dust swallowed the entire Harrakan formation. For a while, the world was reduced to Viv and the steel under her soles, under her gloved fingertips. She’d grown so used to perceiving the world through mana that this blindness woke up an oppressive feeling of claustrophobia. Ambient mana was now a multicolored whirlwind of spent energies, struggling to bleed back into the background. It took a few seconds for combat to resume, and another two minutes for enough of the debris to clear until Viv could see what was happening.
+
+The Nemeti second line was devastated. All that remained of it were vast, limbs-strewn craters. More reinforcements were rushing in to fill it but right now, the Nemeti line was thin near the front. Behind that, the landscape had changed. A tide of steel was closing from the right like a revolving door, trampling enemy formations. The cavalry was here for the knockout punch.
+
+It was a perfect chance.
+
+“Push forward! Nuées!”
+
+The Harrakans went on the offensive backed by a devastating barrage. Quarrels from the witch pacts found elites, sometimes through their shields. Sidjin unleashed one of his nasty blenders on the entire right flank. Led by the One Hundred, the Harrakans grimly shoved the Nemeti aside. Their lines buckled. Out of the gap, the witch pact charged out.
+
+It was like the jaw of a wolf closing on a hapless leg. Every squad isolated from the rest was overwhelmed and shanked in moments. The Sisters were especially rabid. Viv watched it all enfold from the tank. Here, a tall Nemeti was rallying his soldiers. He caught a blast for his troubles. Over there, javelin throwers scored hits against exposed witch pacts. She cleared them out with a net. Viv would have loved to have the Order of the Blue Rose with her but they were out there living their best lives.
+
+The Nemeti army was buckling. They still outnumbered the humans but they now lacked the oomph to match human elites toe-to-toe. The wave of knights fell back, leaving battered formations behind but it was only a matter of time before they were lost. Fate was no longer on the side of the Empire of Dawn, now that their opponents had united. The drums changed and this time, they had a solemn beat. The Nemeti stopped attacking. They withdrew towards the center, where the cowled figure stood.
+
+“Are they retreating?” someone asked.
+
+Viv didn’t think so. The elite Nemeti in scarlet scales all gathered in concentric circles around their leader. It looked more like a last stand than a preparation to fall back. Chants emerged from the formations. The Nemeti army was slowly forming a circle.
+
+The signal to engage came from distant horns. Viv ordered the Harrakans forward at a pace to let her allies reform and catch up.
+
+Suddenly, a strange shockwave made her reel. Looking around, she saw that no one else seemed affected. The ghostly image of Solfis head popped out of nowhere a few steps away from her. It hung in the air like some grisly decoration.
+
+A second later and the tank moved forward. At the same time, Solfis coiled around the array, approaching Viv. He stopped at the perfect time for the bone mask to match the illusion to the millimeter.
+
+//Your Majesty…
+
+“Fuck, it’s a spell. It’s a spell! Charge. Charge! Sidjin, we need to interrupt them.”
+
+Viv sent a runner to Jaratalassi but the old fox didn’t need her help. Already, all forces were converging on the bunched up Nemeti. More spells flew and more victims joined the corpse piles. And then, the first circle of Nemeti, with uncanny coordination, all lifted a dagger and plunged it into their chests.
+
+They collapsed.
+
+“Ok. Not good. Not good.”
+
+A sort of vibration set Viv’s teeth on edge. They had to end this fast. Viv led the charge with her unleashed powers, now that the threat of artillery was gone. First Rakan, then Lana and Sidjin grouped with her until they were just ram plowing through flesh, yet the Nemeti stood and died with unbreakable faith. And the second circle sacrificed themselves.
+
+This time, the hum of power became audible even to the humans. Viv threw spell after spell at the distant shapes of the red scales far behind enemy lines, scoring more kills. The rest of the Paramese didn’t need prompts to understand what had to be done. Enorian archers were especially deadly, picking the unmoving, singing foes at range with terrifying accuracy. The spell weakened but it also accelerated. The singing reached a rushed paroxysm as more of the nobles fell before they could commit their lives to the cause. The cowled figure rose above the ground surrounded by a red halo like a second dawn.
+
+“Hyperbeam.”
+
+Viv wasn’t the only one to try and kill the one who was obviously the focus of the ritual, but the attacks inexplicably missed as they were cast. It seemed that destiny was on the march and as the last of the nobles fell, it could no longer be stopped.
+
+Viv watched powerless as the cowled figure spread its arms in apotheosis.
+
+“Really not good.”
+
+The cowled figure let out a guttural prayer and then he, too plunged a knife down his chest.
+
+The body fell like a puppet with its string cut and the red energy disappeared, suddenly absorbed. For a second, natural colors returned to the plain yet Viv’s meager hope that the ritual had failed dissipated as soon as she saw the remaining Nemeti prostrated in prayers. A wave of power emerged from the center of the army. The dead cowled one inflated, then grew, grew. The scales became more defined and a shimmering red color infused them. Its maw became less insectile and more reptilian until it resembled that of a crocodile. Powerful muscles filled out where lean ones were hidden. The back arched. Powerful claws gripped the earth and still, the creature increased in size. A bus, then a small plane, then a large house. It was… it was a fucking kaiju. A building-sized alligator crossed with a pitbull.
+
+“Nom de dieu…”
+
+It opened its mouth.
+
+It ROARED.
+
+All across the plain, in an extended wave, the mana settled. Sound died. Motion died. Even magic was smothered. The entirety of Viv’s work since she arrived in this word was folded and compressed until she was less than even the lost woman landing in the throne room. The brand of her soul was silenced. She lived through it, felt it happen, but she was completely powerless to stop it. The shield failed. The runes blinked out. The knights scattered into confused groups from a united front. The human army was forced to a bumbling stop.
+
+Terror hit second.
+
+There was no question of willpower, of fighting it. There was no resistance. There was no shame or hesitation because there was no place in her mind, in anyone’s mind, for anything else but fear. It washed away all she was. Viv’s mind was white cotton and primal fright.
+
+//No.
+
+Run. Run. Others are running too. Run.
+
+//Wait.
+
+Claw on her shoulder. Struggle.
+
+//Look.
+
+“Aaaaaah!’
+
+//LOOK.
+
+Eyes front. Running folks. Discarded shields. Lost spears. Tears in her eyes. Everyone had run away.
+
+All except for one.
+
+Viv blinked. The blanket pulled back ever so slightly. She could think. A little.
+
+Everyone had run, except for one person. Normalcy fought back against the tidal wave of horror. A memory nagged at her, an old knowledge, one of life's certainties like gravity and taxes. Viv clawed herself back from the abyss at the sight of a single heavy still standing in line. She grabbed that sight and fought. It was an inescapable, unchanging fact of life that Brick. Never. Ran.
+
+She was still there, facing the advancing titan.
+
+Viv blinked. Fear pulled back, undone. She was herself again because the world was as it should be.
+
+“You asshole, you almost got me.”
+
+“SQUEEEE!”
+
+Viv turned to see a pair of crimson eyes squirting their haughty disappointment.
+
+Mother.
+
+“Ok, I have an excuse, it’s very big.”
+
+No wings!
+
+Poseur!
+
+“Strong magic too.”
+
+Solar came into view as well. Viv assumed he would have stayed but the blade saint apparently had other ideas.
+
+“Hey, majesty. Are you slaying interesting things without me? And I thought we were comrades in arms.”
+
+“Look, I didn’t know they were going to incarnate a god.”
+
+“Well then, let’s bag it.”

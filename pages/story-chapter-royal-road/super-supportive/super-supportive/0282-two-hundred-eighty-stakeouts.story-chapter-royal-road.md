@@ -1,0 +1,339 @@
+---
+id: 79306213-f570-5ab3-8833-6a48c6151eee
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY:  Stakeouts"
+slug: 0282-two-hundred-eighty-stakeouts
+partOf: super-supportive
+position: 282
+ownLength: 3568
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3237614/two-hundred-eighty-stakeouts"
+royalRoadId: "3237614"
+---
+
+280
+
+******
+
+Alden had been left alone, but Stuart had said he’d be back as soon as he could. The cottage was private. It was late in Chicago but probably not too late. There might not be a better time than this over the next couple of days.
+
+Got to call Boe.
+
+He expected nerves to follow that thought, and he got some. But he was surprised to realize he was more excited than trepidatious. Even though he imagined there would be some amount of argument, or anger, from his oldest friend, Alden was calling with great news. He was proud of his choices and thrilled with everything that had happened as a result of them over the past day.
+
+He wanted to share it, and he wanted Boe to get it.
+
+In pursuit of that, he spent a couple of minutes thinking about the scene he would be presenting. He left his auriad visible on his wrist but changed into a T-shirt. His new mini displayer tablet had a pair of glowing Artonan hands floating above it, slowly moving a blue auriad of their own through the patterns of the memory of light spell. That was neat, so he would keep it going. He finished by putting a couple of his most interesting looking sensitivity training ingredients on top of Whan-tel’s Art. Then he sat on the floor with all of it on the low table in front of him and checked what he would look like when Boe accepted the video call.
+
+A good slice of the outdoors was visible behind him. That’s nice.
+
+He was sure if some art’h who wanted privacy walked past, the Systems would make sure that Boe never even saw them.
+
+Alden briefly worried that he’d crossed the line into theater, but he was trying to show Boe what his day had been like in a single glimpse. To get across as much of the truth as he could in case he didn’t get to talk about it all.
+
+The only thing missing was Stuart. He hoped this would go perfectly, that he and Boe would still be talking when Stuart got back, and then they could finally meet.
+
+I’ll aim for it, he decided.
+
+“Call him for me, please.”
+
+Boe answered seconds later from where he sat on a frigid-looking rooftop. He had his back against some kind of pole that looked like it was in danger of rusting through. A battery-powered camping lantern was beside him, and a box of cereal was in his lap.
+
+“Where on Earth are you?” Alden asked.
+
+“Not too far from my place,” Boe said, talking into his cell phone like he usually did whenever he was somewhere he might be seen. “I’ve run into a troubled person, and this is a good spot to think about them in.”
+
+Alden took that to mean Boe could feel the “troubled person’s” emotions from this rooftop.
+
+“You could’ve called me and told me you were on a stakeout. I would have kept you company.”
+
+“I’m not planning on doing anything tonight. Other than thinking.” Boe crunched on some cereal. A dehydrated marshmallow was caught in the folds of his scarf. “I’d ask you where on Earth you are, but…”
+
+His eyes were moving, picking up the details of Alden’s scene.
+
+“As you can see,” said Alden, gesturing behind him, “I’m not anywhere near Earth.”
+
+“Shocking.”
+
+“It’s eighty degrees here.”
+
+“Bastard.” Boe pulled his scarf tighter around his neck.
+
+“Sunny. I have my own little cottage. Stuart and I are going to cook a plant that tastes like steak on a hot rock tonight.”
+
+“Dick.”
+
+“You could come hang out here with me someday, you know. If you wanted. I’m sure Stuart would be able to get permission for that sooner or later. Or maybe I could myself. One day.”
+
+Boe looked at him like he was speaking a foreign language.
+
+All right. Here we go.
+
+“I have great news,” said Alden. “Which…might not sound great to you at first, but it will after you think about it.”
+
+He poked all his magical doodads forward before he realized what his nervous fingers were doing. He made his hands go still, palms down on the table.
+
+“Boe, I've made an important choice. I—”
+
+“You told him,” Boe said.
+
+Alden wanted to rush them both away from the edge in his voice. Before it could cut.
+
+“I told him I’m a wizard, and he reacted exactly how I hoped! Even better than I hoped. Look! He’s given me these things to help me learn, and he’s going to help me figure out how to get where I want to go from here. We’ve got a ton to plan out still. We're going to think it all through and make a million decisions in the coming months. But it’s not a disaster in any of the ways I was afraid it would be. We’re still friends. I’m not hiding this massive secret anymore, and when I told him I want to go with him, and watch his back when he goes on his missions as a knight, he said yes. I said I wanted to walk that road with him, and he said yes.”
+
+Alden took a breath because he had to, but he wasn’t even close to done talking. He needed to somehow get at all the little things that had come together to make this the big thing that it was.
+
+“You what?” Boe’s eyes had widened. He was standing up.
+
+“The knight part? Okay. I explained all of this in the letter Connie has for you, but I’m glad I get to tell you in person instead. It’s a long-ass letter, but I couldn’t use words like wizard in it, so that made it harder. First, you were right about a lot during that conversation we had about Hero Types. About me having issues with guilt and how I saw myself and how I’d been comparing myself to a version of Hannah Elber that probably wasn’t ever real. This is something different. It’s simpler and better. I’m not treating myself like I don’t matter. I’m not playing hero. I genuinely want to go with Stuart when he— ”
+
+“You sent me a freaking letter?”
+
+“As an ultimate backup plan in case everything went wrong. I was ninety-nine percent sure I’d get to talk to you before you ever saw it. I just needed to stay in the right headspace to go through with this. Listen, I—”
+
+Boe was apparently capable of mental texting entire correctly punctuated paragraphs in the angry font at once. While still speaking out loud.
+
+[Boe: Was it a fucking ‘If I never see you again…’ letter? What the fuck, Alden!? If you thought there was even a one percent chance of that being necessary, then….]
+
+“I guess trying to change people who can’t be changed is the story of my whole fucking life!” Boe said.
+
+“Hold on,” Alden said. “I’m still trying to read your text, man. That’s a long text.”
+
+[Boe: ….and you’re throwing yourself right back into the same kind of environment that almost killed you a few months ago like….]
+
+“Listen, damn it. You’re not giving me time to explain how I came to this decision and how much it means— ”
+
+[Boe: ….Sorry I’m not fast enough to keep up with you and Jeremy as you move on with your lives….]
+
+“What’s being fast got to do with anything?”
+
+“I’m so fucking tired of nothing being right! You’re always looking for what’s right. You get to do that. But there is no right for someone like me. The very best I can do is still wrong.”
+
+[Boe:  ….I should just catspace myself until Jeremy has fourteen athletic children, and you’ve been scattered across fourteen planets by the Artonans or some spacefaring demon… ]
+
+It was around then that Alden realized there was no edge here meant to cut him. Whatever was going on with Boe right now, whatever had caused this outburst, wasn’t even about him really.
+
+He didn’t understand what it was about, but maybe…some variety of loneliness?
+
+Not keeping up with me and Jeremy is such a weird thing for him to insert into a rant that’s supposedly about how I’m going to be torn apart by spacefaring demons.
+
+“Boe.”
+
+He’d dropped his cereal. Alden wanted to wait for him to calm down, but he was afraid Boe might just end the call instead. And disappear into a space tied to the life of the first stray cat he saw. Which might be hit by a car before Boe could come back.
+
+“BOE!” he shouted.
+
+The bellow was enough to make Boe pause. Alden didn’t know how long the pause would last. If he only had time to say a little bit…
+
+“I’m not trying to leave you behind, asshole.”
+
+Boe hadn’t opened his mouth again yet. That line must have bought Alden another.
+
+“If you’re ever in any kind of trouble, I’d rather be in it with you, so that you’re not there alone. I feel the same way about Stuart. Because you’re my friends. It’s that simple.”
+
+“Simple?” Boe said like he’d never heard the word before.
+
+“Yeah. Except for the part where Stuart’s definitely going to be in trouble and it’s definitely going to be demons. So I’m going to get more powerful and stick with him and tell chaos to fuck off. Until someone or something stops us. I think you could find a way to join in and help…if that was something you wanted.”
+
+Boe stared.
+
+“My letter makes this point more eloquently. It’s with Connie. She also has your present…oooooo, a present, better not forget to go get it.” Alden made himself smile. “I don’t know how everything goes from here. But I’m really happy with my decision. Even if some things end up going bad. And I want you to know…”
+
+A funny comment about how Boe had played himself by agreeing to mimic Alden’s heroic endeavors crossed his mind, but he wasn’t sure this was the time for it.
+
+“I want you to know you’re in the middle of your own choosing season right now. Choosing seasons are great. You’ve got time, and I’m something of a pro if you’ve got questions. Not really, but…I’m still here. You can run shit by me. Always. Unless I’m on a chaos infested planet beyond System reach.”
+
+He waited a painfully long time.
+
+“I need to go,” Boe said finally. “I didn’t handle this right. I don’t know what I should have…but not this.”
+
+“Okay. We’re good, though?”
+
+“You look good with all that new stuff around you. I don’t know what I am.”
+
+“A vigilante who’s spilled half his cereal. My friend. An asshole who makes the world a better place.”
+
+Boe looked down at the cereal. “I’ll call you, Alden. In a few days.”
+
+“A few days? You’re not catspacing yourself.”
+
+“I’ll write you a letter if I do…kidding. I won’t. Just…have fun with your alien.”
+
+“Stuart.”
+
+“Stuart the poser.”
+
+“Stu-art’h, son of Jeneth-art’h the Primary who is ranked first among all known beings.”
+
+Boe looked back up, eyes narrowing.
+
+“He likes grapes and rescuing animals that are very similar to frogs.”
+
+“I’m hanging up now. You just...have fun. ”
+
+“I might have to text you tomorrow to make sure you’re not tagging along with someone else’s cat,” said Alden.
+
+Boe was already gone.
+
+******
+
+******
+
+For a while after that, Alden paced the cottage, trying to decide how to feel about Boe’s meltdown.
+
+Definitely not what I hoped for. He’s having a hard time. But we’re okay with each other, and he knows I’m willing to help. There was some normal joking around there at the end, more or less. I think…it’s fine. Or it’ll be fine soon, when he sorts himself out and calls back.
+
+He decided he’d call Jeremy tomorrow and subtly ask for an update on Boe’s mood. If Alden was wrong, and it wasn’t fine…he’d do something about it. He’d make an illegal trip to Chicago, if necessary.
+
+“Would you teleport me directly into his apartment?” he asked curiously.
+
+[No. But we could put you in a public location nearby with no cameras.]
+
+“Really? Committing a crime with System assistance is easier than I thought.”
+
+Being recognized doing something like that would still have fairly terrible consequences, but knowing his options was good.
+
+Stuart made it back a bit later than Alden had expected. By then, Alden had managed to settle down, and he’d started practicing with his sensitivity training ingredients.
+
+They felt like they existed. And like they were different from each other. He hadn’t gotten farther along than that.
+
+When he spotted Stuart approaching the door, he rose to open it for him. Stuart was carrying a case that Alden suspected must hold the armor rings he’d gone to get—very exciting—and a tablet that didn’t initially catch his attention because he assumed it was for Stuart’s own use.
+
+“Hello,” said Alden, trying the authority greeting he’d decided to think of as 'the hopeful one.' For this type, you reached out without actually touching the boundary of a neighboring existence and waited for them to notice you and respond.
+
+Stuart’s response this time was an opening of that boundary. An invitation that Alden accepted, brushing past him and waiting to see what else happened.
+
+Stuart glanced at him, then became very interested in taking off his boots.
+
+“Am I bothering you?” Alden asked. “A hundred greetings in a day from the same person must be strange.”
+
+“I like it,” Stuart said. “It might be annoying one day, but not anytime soon.”
+
+He did the thing he’d called closeness earlier and held out the tablet.
+
+“This is for me? You’ve already given me the little displayer. And I do have one of my own.”
+
+“I’m not giving this to you permanently. It is my personal tablet. And it has something on it for you to read right now. While I sleep.”
+
+Stuart was speaking oddly. Slow. Almost like he was over-enunciating things.
+
+“Are you all right?” Alden tried to get a better look at his face.
+
+“I’m just tired!” Stuart whirled away so quickly Alden would have worried he was mad if not for the steady comfort of his presence. “I will sleep now. I’ve written everything you need to know at the front of the book. It is important work for you to do. I hope you will enjoy it very much.”
+
+“You’ve been up for two days because of me,” Alden said. “If you don’t want to go back to your own room just use the bed here. Unless you really like the senva seed cushions better.”
+
+“The bed…yes. I will be under the covers. Please read that book for several human hours.”
+
+“Why are you being so—?”
+
+Stuart ran at the bed like he thought it was going to try to get away from him and threw himself into it with all his clothes on. Five seconds later, Alden couldn’t see anything but a person-shaped lump beneath the covers.
+
+What? he wondered. Is this some kind of normal behavior I’ve never seen before or heard about in xenobiology? That seems…not impossible but pretty unlikely. Stuart-specific weirdness?
+
+“Was your trip to LeafSong stressful or something?” he asked.
+
+“I am close to perfection,” said the lump. “I will soon be asleep.”
+
+At least he took off his shoes.
+
+“Make sure to read!” the lump ordered. “Since it’s my personal tablet your time with it is more limited!”
+
+“I will.”
+
+This was a little disappointing. Alden had been looking forward to learning the rock-heating spell and cooking meat petal.
+
+There will be other days for it. He smiled. Plenty of other days.
+
+He sat down at the table again and brushed a finger over the tablet.
+
+It rewarded him with something much better than dinner.
+
+******
+
+Alden,
+
+You’ve asked several times today for spell recommendations and have said you would like to learn things to supplement gaps in my knowledge.
+
+Perhaps I didn’t answer you as well as I should have.
+
+On our early missions together, my own casting ability and my knowledge of common practical spells may make you feel like you can’t help much with your unbound authority.
+
+But knights do have one casting advantage over wizards, even over wizards who are equally powerful. We find it easier to perform spells that are similar to our main skills. This means that one day you will be able to cast some powerful and complex spells that very few wizards are capable of, even if those spells would normally require anatomical features you don’t possess.
+
+With that future in mind, I give you access to this text. It presents a collection of spells that are considered masterpieces of contemporary magic.
+
+These are the kinds of spells wizards my age daydream about being able to cast when they are renowned figures in their fields of expertise.
+
+If you pick one of these, and it aligns well conceptually with the skill you will eventually choose to be your main one as a knight, you may be able to cast it before my classmates graduate from LeafSong. And I can give you a list of beginner spells that will lead you to gain the knowledge you need to achieve that goal more quickly.
+
+In this way, your wizardry can benefit anyone you share a battlefield with, even when your bound authority is exhausted.
+
+I think picking a masterpiece to work toward is a good place for you to start.
+
+And of course you may choose whatever you want.
+
+******
+
+You sneaky dork, thought Alden. This is so obviously a sideways approach to make me tell you what kind of skill I want!
+
+He looked over at the lump regretfully.
+
+He must have decided I have some kind of mental block that he can bypass by telling me to pick a masterpiece spell I want to learn that aligns with concepts I value. Instead of insisting we talk directly about skills.
+
+Unfortunately, when Stuart woke up, Alden didn’t think he would be able to point to whatever spell in here was most similar to Bearer of All Burdens. His contract tattoo probably wouldn’t allow it.
+
+But I can sure as heck find that spell for myself and read about it.
+
+He turned the page eagerly and discovered a table of contents.
+
+“The Nine Flying Messengers Against Any Storm,” “Cutting Circles for the Dream Worm and Its Children,” “Three Lovers and Three Enemies Forever Parted,” …these spells all have names that go on for miles.
+
+He was into it.
+
+Is there an index that sorts them by concept or…I don’t know, college major?
+
+After poking around, he discovered that the book included something similar to both.
+
+This would be massive if it were printed. More like a set of books than a single one.
+
+He could organize it by looking for spells that made shields, spells that had significant self-sacrificial elements, spells that required partners, ones related to transporting large weights…
+
+Cool. So cool. And he really thinks I can learn to cast some of these if they’re close enough to my skill?
+
+That’s even cooler.
+
+He dug in.
+
+******
+
+******
+
+Under the bed covers, scarcely breathing and so purple he was afraid it might become an eternal feature written upon his existence, Stu viewed what was happening on his tablet screen through his eye rings.
+
+This was a common way of using both devices together. Alden simply hadn’t thought of it.
+
+Or he expects his friend and future brother on the path of highest onus to have morals that would prevent me from spying on him like this.
+
+But the question Stu needed the answer to was such a serious one.
+
+If Alden had shared a contract tattoo with a decent person, maybe Stu could have risked a more direct approach to his question. With Ro-den however…
+
+It’s preventing Alden from telling me about his very self! I think. What good reason could there possibly be for him to be stopped from saying whatever he likes about his own skill and requesting whatever kind of skill he might need in the future? And what else has he agreed to without understanding the consequences properly?
+
+What kind of cruel things might that contract make him do or say if I try to force answers he’s not allowed to give?
+
+Alden would probably enjoy browsing through the advanced spells. If he kept searching through a wide variety, Stu would consider it an indication that Alden wasn’t yet sure what powers he wanted in the future. But if he knew what kind of skill he wanted to have as a knight, he should quickly begin to narrow in on spells that shared similar qualities.
+
+Stu would see him narrowing in.
+
+If I see that he knows what he wants, but he can’t tell me so…
+
+Stu would hide under these covers until he understood. And when he was sure he understood, he would act.
+
+Alden had already figured out how to search the spells.
+
+And while it might be a coincidence, and Stu was determined not to be too hasty with his conclusions, his friend seemed to be searching like someone who knew, more or less, what he was looking for.
+
+******

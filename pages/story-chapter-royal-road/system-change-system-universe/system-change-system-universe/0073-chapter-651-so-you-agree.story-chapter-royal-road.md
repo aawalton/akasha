@@ -1,0 +1,143 @@
+---
+id: afdbb285-4286-5879-b325-ccbe5d81dd09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 651: So... You Agree?"
+slug: 0073-chapter-651-so-you-agree
+partOf: system-change-system-universe
+position: 73
+ownLength: 2213
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3429551/chapter-651-so-you-agree"
+royalRoadId: "3429551"
+---
+
+Chapter 651: So... You Agree?
+
+"You've got to be kidding, right?" Derek asked Jace, but Jace's menacing smile never disappeared.
+
+"Not even a little," Jace finally said. "Though... it may not be one of the exact 'sure-death' spots. But it certainly has close to the same feeling as one."
+
+"So... what you're saying is that we should back away and head to one of the other outposts," Derek said.
+
+"No," Jace said with a shake of his head. "I think we can do it. Especially if we don't have to protect the weaklings," he finished, then turned to Edgar. "No offense."
+
+"Offense taken..." Edgar said with a snort. "But I understand."
+
+"I still think it would be better to go the safer route and try a different outpost. Especially now that you've recovered enough to guide us more with your Battle Instincts," Derek said.
+
+"It's not going to let us leave. Just look at it," Jace said, then pointed at the outpost.
+
+"Look at what?" Derek said with a frown.
+
+"That big-ass monster!" Jace half-shouted. "I know it's pretty dark, but surely you can see that thing."
+
+"I don't see anything but the outpost and the... hill..." Derek muttered.
+
+"Yeah... that's not a hill," Jace replied with a chuckle. "My Battle Instincts are going crazy in every direction right now. It's either waiting for us to come closer or run away. Any way we go leads to a massive battle. So... the weaklings need to get inside your space... now!"
+
+"Go!" Derek said. Edgar sighed, then threw his arm over Alex's neck and pulled him along with him. Nivara didn't even try to complain and followed right behind. Marrick, however, hesitated.
+
+"I am stronger than Jace is in his current state," Marrick said after a second. "I think I should stay."
+
+Derek shrugged, then looked over at Jace. Jace just shrugged back. "You'll have to close the space for my instincts to readjust."
+
+"Right..." Derek muttered. They'd already experimented with all that before, so he walked over and shut the door to the Time Prison, then pulled the space closed as well. Seeing that, Jace closed his eyes and concentrated. After a few moments, he frowned.
+
+"I think it's doable with the four of us," he finally said. "My Battle Instincts are sort of all over the place. They don't seem to be too different from they were when we met Looney's friends. They keep fluctuating, so you can take that however you want. They've never done that before. I'd still suggest Marrick go inside since he's a slow little old man."
+
+"Boy... I'll show you little old man if you don't filter yourself," Marrick clicked his tongue.
+
+"So... you agree that you're slow?" Jace said with a nod.
+
+"That..." Marrick started, but rolled his eyes and finally said, "There's no sense arguing with someone like you."
+
+"Okay, you two... that's enough," Derek said. "And you're sure that if we pack up camp and try to slowly move away, it's not going to let us?" he asked Jace one more time for confirmation.
+
+"Like... 90% sure," Jace replied. "My Battle Instincts passive skill is only a guide. There are a lot of things that could throw it off—like an enemy so much stronger that it doesn't even register it. But this gives me a distinct feeling of something like a coiled snake ready to strike its prey at any sudden changes or movements. Now... there is also the chance that we could be faster than it and still get away, I guess... I'm pretty certain that Amelia would be able to, at least."
+
+While they were talking about it, Derek never took his eyes off the hill—which was apparently a monster—that was behind the outpost. Finally, he saw the most subtle shadow of a movement from it that he wouldn't have even noticed if he weren't looking for exactly that. That confirms that, he thought after knowing for certain that the 'hill' was alive.
+
+"In that case," Derek said. "This is what we'll do..." He looked around and saw everyone was paying attention, then looked back at the monster. "First of all... be prepared for battle at any time. But before that comes, we're going to slowly pack up camp and wait the short time until daybreak. If we're going to fight whatever that thing is, we're going to do it in the light. Once it is completely light out, we'll try to back away and retreat. It likely won't let us do so, but I want to try, anyway."
+
+"Sounds like a winner to me," Jace said.
+
+They didn't have a lot of stuff set out for camp, so even moving slowly, they were able to cautiously pack everything up in their storage rings rather quickly. The big shadow of a creature never made any proper movements—just what Derek could only assume was the occasional light breath. Before long, the sun came up, and everyone was able to get a good look at what was in front of them.
+
+"Uh..." Derek muttered. "It still just looks like a hill of dirt or something to me." Still, when it came to fighting, Derek couldn't think of anyone he trusted to know a battle was coming more than Jace. So, he made sure Harbinger was in his hand, his armor was on nice and tight and fully repaired, and that Silvi was floating on her pot lid with her knives already out.
+
+Everyone else prepared for the fight as well. Jace didn't even bother putting on his cheap leather armor this time—he just put a kukri in each hand and licked his lips. Marrick surrounded himself in sand and floated ready on his little cloud, and Amelia hovered in the air and cracked her knuckles.
+
+"Okay," Derek finally said. "Now, let's slowly back away."
+
+Everyone nodded, then, while they were all facing the outpost, they began walking backwards—one step at a time. They did this for a full five minutes. When Derek was just about to think that they weren't going to have any problems, he saw it.
+
+At the very top of the hill, the lid of an eye opened horizontally. The massive diamond-like amber iris of a snake stared at them, then the 'hill' started shaking. Rocks, sand, and dried mud began falling off, and soon, what remained was just what Jace had described. A coiled snake ready to strike.
+
+It was light brown with black stripes. Towards its head, its body flared—like a cobra back on Earth. It slowly began to uncoil, and Derek got a good look at the end of its body and the rattle that was attached. As it uncoiled, a light rattling sound could be heard. All in all, the snake was about three school buses in length and twice as big around—maybe more.
+
+Derek hadn't used his Veiled Sight on the creature before on the off chance it disturbed it and took away a chance at escape, but since it didn't look like that would happen, he used his upgraded appraising skill.
+
+...
+
+Title: The Amber TyrantClass Type: World BossAffinity: Earth/OtherLevel: 325Status: Active
+
+...
+
+"Well... fuck me..." Derek muttered. He looked at the others. None of them were with him when he fought The Echoing Willow with the others. "No wonder it wouldn't let us go. It's a World Boss."
+
+"Like the tree you, Alanah, and the others fought?" Marrick asked.
+
+"Exactly," Derek said with a nod.
+
+"I see..." Marrick said as he, too, scanned the enemy. "So it is..."
+
+"But it is a monster, not a super intelligent being," Derek said. "It being level 325 does give me a bit more hope against it than Nikolai."
+
+"Watch out!" Amelia suddenly shouted as the snake reared its head back, then spat a huge glob of thick amber liquid.
+
+The liquid came out so fast that they barely had any time to react. Derek just barely summoned his Absolute Nullify wall in time, but instead of being drawn in and disappearing, some of the liquid managed to splash out. A drop hit Jace's boots, and a decent amount found its way to Marrick's sand wall.
+
+Jace tried to pull his foot up, but the thick liquid just stretched and pulled it back down to the ground. All the parts of Marrick's sand that he'd blocked it with fell directly to the ground, as well.
+
+"So sticky!" Jace half-shouted as he pulled his feet out of his boots and left them lying in the goo.
+
+"It also has an interruption effect on mana," Marrick said as he looked at the fallen sand. "It disconnected me from my sand for a moment. I was able to reconnect, but it's pointless because the goo is too dense to pull it back out of."
+
+The Amber Tyrant reared back and spat another glob of the amber liquid at them. This time, Jace and Marrick fell in behind Derek's wall, and Amelia blasted off into the sky. Silvi just Active Void Shifted away easily to avoid it. After that, the snake coiled again, locked onto the floating Amelia, and struck.
+
+"No way!" Jace shouted. They were still at such a far distance that nobody was prepared for a physical attack from the World Boss. Projectiles were one thing, but launching its whole body in an instant was something very unexpected.
+
+The snake moved through the sky like a fish in water, and just before it reached the wide-eyed Amelia, Silvi appeared in front of the woman.
+
+"Silvi!" Derek shouted, but it was too late.
+
+Suddenly, the temperature of the area rose rapidly, and the snake was met by a torrent of Dragon Flame directly in its face. Somehow, the World Boss made a screeching noise as the flame hit its open mouth before it was able to close it.
+
+"Where the fuck did that come from?!" Jace shouted. "What are those flames?"
+
+"Just Dragon Flames," Derek replied. "I guess you've seen them revved up like this, have you?"
+
+"That's the same stuff she uses to cook?" Jace asked with a gulp.
+
+"Yup," Derek said.
+
+The blast of the flames and the continued flow halted the giant snake midair. It was like it ran into a wall. The serpent fell to the ground, and the flame followed after. The one downside to Silvi's Dragon Flames was the ungodly amount of mana that it took to maintain. In the past, that had really never been a problem, as just a little of the flame was enough to end the toughest of enemies.
+
+However, when the flame eventually petered out, and the smoke cleared, what everyone saw were many of the snake's scales pulsating a glowing red from the heat, a blackened snout, and a single dull eye. The flame had definitely dealt some heavy damage, but the snake was far from defeated.
+
+In the sky, a huffing Silvi appeared on top of Amelia's shoulder. A mana potion appeared in one of her Mage Hands, and she drank it. As she was getting her mana back, Derek and Jace looked at each other and nodded. "Can't let her do all the work," Derek said as he dismissed his Absolute Nullify. The last thing he wanted was for the skill to be broken by the snake—leaving him extremely vulnerable once again.
+
+"Time to give something a try," Derek said. He took a step toward the snake and sent mana into his boots. The patterns on the boots began circulating as they absorbed the mana he was giving them. The stars rotated more and more, and the pressure built.
+
+Derek maintained the pressure for as long as he could withstand and put as much mana as he could into the boots. Then he took off running. When he felt that he was close enough, he willed it, and a small black sphere the size of a basketball appeared in front of his feet. He brought his foot with the circulating star pattern back and then kicked the sphere like a soccer ball. The star pattern transferred to the black sphere, and the ball launched forward.
+
+The Amber Tyrant whipped its head toward Derek as it felt something amiss. Seeing the equipment ability rocketing toward it, the snake pulled its head back and then shot out another massive glob of the amber liquid.
+
+The liquid and the growing sphere collided in the air, and the sphere slowed dramatically until coming to a stop a good distance from the snake. The ball imploded, then exploded, taking a huge chunk of the battlefield with it but didn't quite reach the snake.
+
+"Dammit!" Derek cursed. The snake's eyes locked onto Derek's own, and then its tail started shaking. The rattle from it grew louder and louder until it was deafening. Then the ground shook. Geysers of sand started popping up from everywhere. It took a second, but Derek soon figured out what was going on—as did everyone else.
+
+"I knew it!" Jace shouted and smiled happily. "No way we were going to be in a place like this and not run into worms. We've got Graboids!"
+
+Derek rolled his eyes. He barely kept himself from laughing at the comment. He snorted, shook his head, and then said, "They're called Tyrant Larva."

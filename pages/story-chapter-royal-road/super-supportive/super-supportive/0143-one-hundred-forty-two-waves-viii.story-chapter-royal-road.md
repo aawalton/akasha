@@ -1,0 +1,461 @@
+---
+id: 200cd101-64a4-5b04-8362-53b8bbb733ab
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FORTY-TWO: Waves VIII"
+slug: 0143-one-hundred-forty-two-waves-viii
+partOf: super-supportive
+position: 143
+ownLength: 4476
+unit: words
+publishedAt: 2024-05-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1638218/one-hundred-forty-two-waves-viii"
+royalRoadId: "1638218"
+---
+
+142******
+
+“Sorry,” Alden said quietly, his fingers lifting the sodden sleeve of the dead woman’s sweater from her wrist and then dropping it the moment he determined she wasn’t wearing a smartwatch.
+
+He’d already checked her pockets.
+
+This was the woman he’d tried to get help from earlier. The motorcycle rider. He only knew who she was because he recognized the clothes and the hair. Her face had been crushed.
+
+When Alden had first approached, he’d turned off the flashlight so that he wouldn’t have to see it so clearly. Then he’d turned it back on because finding a phone might be a lifesaver. But still, he didn’t check for an infogear earpiece until he’d looked in all the other likely spots.
+
+He dragged his fingers lightly down her cheek, tugging hair wet with blood and water aside from the ear that was still intact. She was wearing a small jade hoop earring. No tech.
+
+Alden removed the earring. There was no guarantee her body would be here when this was all over, and there hadn’t been any other identification. Maybe she had left behind someone who would want proof or a memento.
+
+“Okay,” he said, looking away from her. “You next.”
+
+The other body was across the street, mostly covered by a wooden table that was missing three and a half legs. Alden wouldn’t even have spotted it if not for the shine of a broken mirror right next to it that had drawn his eyes.
+
+He picked his way through the debris. When he dragged the table aside, he found that the older man beneath it looked surprisingly unharmed. He was lying on his side, his arms and legs bent in a position that almost looked like rest.
+
+Is there any chance he’s okay?
+
+Avowed could be really tough. Maybe he was only unconscious.
+
+Ignoring a clench of anxiety about the fresh pile of hard choices that was about to land on him if he’d found a wounded man instead of a corpse, he held the flashlight closer, balancing Zeridee’s weight carefully as he leaned over to touch the neck just below the gray stubble on the jaw. The man’s skin was colder than the air around them. And no matter where Alden pressed or how hard, there was no pulse.
+
+Despite his worries about what he could possibly have done if the man had still been alive, Alden’s heart sank.
+
+His lips aren’t even the right color. It was just wishful thinking.
+
+He checked the man’s wrists, then his pockets. In the flannel coat, he found a phone that wasn’t infogear. It wouldn’t even turn on. And in the pocket of his pants, he found a wallet, which didn’t seem strange to him at all until he opened it and realized it was full of soggy American bills.
+
+He stared at them for just a second.
+
+That’s right. Avowed don’t have much use for wallets.
+
+The driver’s license said the dead man was from Iowa.
+
+He must have been visiting family. The motorcyclist probably.
+
+Maybe he was who she was going back for.
+
+Alden wondered why the man had been stuck here. It was unlikely that a regular human was courage testing himself against a disaster like the Long siblings.
+
+He must have ignored the sirens, refused to board the trains…it doesn’t matter why, I guess.
+
+People died so easily.
+
+He tucked the license into his bag beside the snake’s bento and the earring, then he walked on, trying not to think about things other than moving in the right direction.
+
+Trying to stay positive.
+
+It was getting harder to do that. The Peace of Mind chains had worn off. He could tell.
+
+He’d been bracing for a return of the crippling panic he’d felt on the bus earlier, but that didn’t seem to be on the menu. Instead, his bitter thoughts were extra bitter now, his dark ones as dark as the situation warranted.
+
+Someone did this. Someone made this happen.
+
+They made Earth look so much like Thegund.
+
+All I wanted was life. A few people. School. I’ve been trying so hard to claim it. I was only just wrapping my hands around it.
+
+And someone took it away.
+
+“I’ve thought of another reason I don't want to put you down,” Alden said to the dying Artonan on his back. “Terrible people did this. All of this. Whoever attacked Matadero. Those guys who hurt you.”
+
+Zeridee-und'h had stayed behind to put up signs. It was such a small act of thoughtfulness. Not a grand gesture, just a little thing because she was worried for her neighbors.
+
+Alden had taped one to that gate for her, using extra tape so it would last through the rain, and then three men had walked through it. Maybe they hadn’t planned to kill anybody. From the conversation he’d overheard, it sounded like they’d only intended to search the house. But they’d seen Zeridee there, loading a suitcase full of oranges into something that looked like it might be worth money, and that stupid monster had shot her with a knockout gun.
+
+And then...it had all gone the way it had gone.
+
+Even if they’d only knocked her out, it was the same as a death sentence.
+
+Alden didn’t think for a second that those three would have picked up an unconscious person they’d robbed and carried her out of the evacuation zone to safety.
+
+“People like that don’t get to kill someone like you," he said. "They don’t get to make me watch you die.”
+
+His flashlight was getting dim already. He’d have to switch to one of the others soon.
+
+“I don’t have to have a perfect world. But it’s got to be a little better than that.”
+
+******
+
+******
+
+[Disaster Update: Oceanic anomalies resulting from spill of a magical contaminant at Matadero continue. Mitigative efforts are underway.]
+
+*
+
+[Personal Message from Ambassador Bash-nor:
+
+My good wishes to all Avowed currently present on Anesidora. If you are searching for behavioral guidance during this time of difficulty, I suggest following the recommendations of your planet’s Contract with trust. Though this may be frightening or inconvenient, your cooperation will simplify matters and be appreciated.
+
+I empathize with your feelings of distress. Please calm your minds and take comfort from the fact that we of the Triplanets treasure our compact with humankind and the Avowed of Earth.
+
+Finally, I have just concluded explanations to the Anesidoran High Council.
+
+Your elected leaders and I hereby issue a reminder that interfering with or attacking an Avowed who is engaged in the completion of their Contractual duties is a crime against the Triplanetary Government.
+
+Perpetrators will be investigated and justice meted out in accordance with Artonan law.]
+
+*
+
+[Disaster Update Regarding Submerged Materials: Rapid motion continues to occur. Direction of motion remains unpredictable at onset, but once established, materials are unlikely deviate from their course.]
+
+*
+
+[Disaster Update: The probability of chaos exposure remains…]
+
+******
+
+******
+
+“Nagisa. ”
+
+In the packed, noisy corridor that led to the MPE Building’s locker rooms, a teenage girl with a small child in her arms turned at the sound of her name.
+
+“Principal Saleh!” she exclaimed. “I wasn’t expecting—!”
+
+Lesedi Saleh, who had managed to make it through the crowd unnoticed by most of the students, held her arms out to take the little girl. “She’s sleeping?”
+
+“She said she had to use the bathroom, but the wait’s been so long. She nodded off.”
+
+Lesedi kissed her daughter on top of the head and smiled as she stirred. “That will teach me to imagine her afraid and crying for her mother, won’t it? Not a care in the world. Thank you for looking after her.”
+
+“It’s fine. She’s so good.” The teenager gave her a tired smile. “And at this point I really need to use the toilet too.”
+
+As students nearby realized that the woman wearing a t-shirt and a beanie was the usually sharply-dressed head of the hero program, her name spread through the corridor. A few people whispered “Ghosten,” despite her retirement from that moniker.
+
+“Yes,” she said, lifting her voice. “I’m back. I’ll make an announcement regarding what I know about the situation on the rest of the island shortly.”
+
+“Did the System send you to Nilama?” a desperate voice called from the crowd, its owner apparently unwilling to wait for information.
+
+“You’re back so early,” someone else said. “Does that mean it’s almost over?”
+
+“Principal Saleh! Excuse me! I’m sorry. But did you see my dad?”
+
+“I really will answer questions soon. In the gym. For now…No, I didn’t see your father, John. I’m very sorry. If I find out anything, I’ll let you know. I was in Nilama briefly and a couple of other places just as briefly. Many people are hard at work, but the flooding’s definitely not over. In fact, I’m only back here because an extremely large bolt of water went through me; and the System decided I was done for a few hours.” She looked thoughtful. “It was a lot like being hit by an overly fast bullet train. But I think it was actually an inflatable dinghy.”
+
+At the perplexed expressions on the faces around her, she said, “It did hit me quickly, so I’m not completely sure. But if you imagine a column of water moving in unison for the purpose of propelling a submerged object about the size and shape of a rubber boat at high speed, you’ll have the right idea. The System should be dropping someone more substantial than me, in the literal sense, in front of that problem.”
+
+She kissed her daughter’s head again.
+
+“Now, if you all don’t mind, I’m going to break in line for the bathrooms.”
+
+******
+
+******
+
+No. No, come on. Please.
+
+For a while, Alden had been walking through a world filled with evidence that something bad was coming. He’d heard the sound of it first, like close thunder with an unfamiliar rhythm. Then, his eyes had started to catch on signs of wrongness that grew more impossible to ignore with every step.
+
+Lightweight debris, borne by Anesidora’s ever-present wind, fluttered past the beam of his flashlight. The street was littered by more of the same. He saw his first broken window. Another one.
+
+More.
+
+And then, just like that, he found himself standing on the edge of utter ruin, staring at a junkyard that had once been a piece of a city.
+
+The buildings had been getting a little more vertical. Less houses. More businesses, apartment blocks, and offices.
+
+Everything he could see ahead of him from here had been obliterated.
+
+It’s so, so much. I can’t…
+
+He couldn’t.
+
+Grasp it. Deal with it.
+
+Walk through it.
+
+There was no way for him to walk forward along this street as he had the other rubble-strewn ones he’d traversed. He wasn’t sure he could even have safely managed it in broad daylight, unencumbered by passengers. It was like the rescue assignment Fragment had given them on Monday; one misstep, one shifting chunk of concrete…and the water balloons popped.
+
+I think what’s left of that building is leaning.
+
+There was a tightness in his throat. He tried to get a grip on himself while he changed his hold on Zeridee, adjusting her braid and bringing her around to the front again. He’d carried her on each shoulder and on his back. He’d tried different things just in case it helped, but it all felt precarious at this point.
+
+“Tiny Snake, do you want some air?” he asked.
+
+He opened the bento a crack, just enough to see that his slithery passenger still looked alive, then he put it back in his bag.
+
+He knew he was stalling. Just trying to delay the decision a little longer.
+
+His plan had been to head in a straightish direction from here. Whenever that failed, he was diagonaling to his right as much as possible, toward the curve of coast that formed the bottom of the Apex crescent. Despite what had happened to The Span, it made sense to him that the contaminant coming from the west and slightly northward wouldn’t be as bad along the south coast.
+
+And there had been lights in this direction when he set out.
+
+But the way the debris in front of him was arranged…it looked like whatever had hit had hit from the east.
+
+Can’t go forward. Can’t go back. I know there’s water coming from both the left and the right now.
+
+Without any hope at all, he pulled out the scratchart card Liam had given him. He’d been checking it every fifteen minutes or so, just in case.
+
+He’s probably gone. I’m probably the only living human left in this forsaken place.
+
+Alden pointed the flashlight at it.
+
+Nothing.
+
+He stared at it for too long before putting it away.
+
+“So now we just pick. Like on Thegund. Point your face in a direction and move that way. It’s not that hard. The only two valid options are left or right. Just go.”
+
+Left.
+
+If he went far enough left, he’d find the end of this wreckage, wouldn’t he? And then he could get around it and get back on track.
+
+“I thought I was paranoid and grim. But no. I was way too fucking optimistic when I left Apogee,” he said, backtracking down the block to the next cross-street. “‘Going to make a straight shot for safety!’ This is more like being a mouse in a maze.”
+
+Lexi had just been talking about sleep-deprived maze mice.
+
+Same situation, but this time the scientists are a bunch of sadists with garden hoses.
+
+Every time he turned, he was all too aware that no matter how fast his legs moved, his forward advancement was a crawl. He walked three blocks, checked the disaster zone, walked three more.
+
+Oh my god it goes so far.
+
+He kept going and going. Until his flashlight caught something strange up ahead.
+
+Some kind of blockage?
+
+His back twinged dully through the painkillers.
+
+Fine, we’ll just backtrack even more to get around it.
+
+He took a few more steps toward it, trying to figure out what it was exactly so he’d have an idea of how far he’d have to travel to go around it before he could join back up with this street.
+
+Try to go around one disaster zone, find another one to go around in the process. At least the last time I was carrying a person on my back through hell, it didn’t involve constant “gotchas” from the environment.
+
+Maybe later he’d be darkly amused that he’d found a way Anesidora was worse than Thegund. Way too many destroyed buildings for a proper death run. Too much decision-making and no sense of progress.
+
+What the heck is that? Dirt? A wall? A wet wall?
+
+He stopped.
+
+It was water. Dirty water. Silent. Unmoving. Filling the entire street. Towering over his head.
+
+“What’s it doing?”
+
+He turned the light off, trying to see the water in a different way. The sky was just a little lighter, thanks to the storm clouds pulling back in places. Alden squinted and craned his neck.
+
+He could see the scope of the problem, but at first, it didn't quite register.
+
+He was near the perimeter of a massive water blob—the very thing he’d imagined earlier. What if the water all gathered around something that wasn’t small, like the high heel on the bridge, but humongous, like…
+
+“A building," he breathed.
+
+Or something just as big.
+
+He walked backwards, gaping up. Based on the shape of the dark mass blotting out part of the sky, he thought the center of the blob was still up ahead and everything on this edge near him was just incidentally drowned.
+
+Still in maze mouse mode, it took him whole seconds to realize this was not something he needed to worry about getting around.
+
+It was something he had to get away from. Now.
+
+“Shit!”
+
+His feet launched him into a run. Suddenly, he couldn’t feel all the things that hurt. He wasn’t worried about the fact that he was backtracking south as fast as he could. It wasn’t nearly fast enough.
+
+Hurry. Faster. FASTER. Why the fuck are you so slow?
+
+The water could start to move any second. Or it could just pop.
+
+How much water does it even take to make a mound like that? To cover multiple buildings? When the magic that called it here finally gives out…
+
+It was going to crush everything.
+
+It was going to swallow whole blocks.
+
+******
+
+******
+
+A memory played in Haoyu Zhang-Demir’s mind, summoned up by the events of the night:
+
+The first time you called me Bàba I gained five kilograms. All of it on my stomach. And it never went away. You overpowered my Formation in an instant. Children are very dangerous.
+
+Mom said it didn’t happen all at once like that.
+
+You mean you trust her more than me?!
+
+Haoyu sighed and dropped his comic book onto his lap since it wasn’t doing a good job of distracting him. The escape shuttle was nearly full, but the conversations that were taking place were muted. Too many kids were present for the adults to talk loudly about their own fears.
+
+He leaned around the edge of his seat to watch one of the Artonans who would be traveling with them escort the final passengers up the back ramp.
+
+The Artonan was wearing a heavy coat and pink earmuffs. A few of the newcomers were rubbing their arms. Apparently the TC had gotten even colder.
+
+It had been quite a while since Haoyu had arrived at the unexpectedly frosty Teleportation Complex and been directed to the hangar that held the shuttle.
+
+That’s a good thing, right?
+
+If they really thought this was the end of days, they’d be in more of a rush. It would be different. He hoped. This was way calmer than any of the planetary evacuation scenarios his parents had practiced with him over the years.
+
+The flyer in the hidden security shed at home. Instant teleportation away from your desk at school to a half dozen different places on Anesidora. Or even off it.
+
+You might just blink and find yourself on the Triplanets, Haoyu. Don’t be afraid if that happens. Be polite to everyone and wait. We’ll join you soon.
+
+He swallowed.
+
+You’d better join me, he thought. You’d better. You’d better. I’m doing what I always promised I would.
+
+Finally, the last person boarded. The man took the seat across from Haoyu. They were packed in so close that their knees bumped.
+
+Sonde, he thought. He’s a rare hyperbole sighting.
+
+A couple of years ago, games of “who can spot a hyperbole first” had been a regular occurrence whenever he hung out with his classmates in the city.
+
+The man was wearing glasses with dark blue lenses that didn’t perfectly hide the way he was staring.
+
+“You’ve been very lucky,” said Sonde.
+
+Are you reading me with your weird thing? Don’t do that.
+
+Sonde claimed to “sense the shadows of a person’s potential pasts.” Which was pretty out-there even as far as U-types went.
+
+“I know,” Haoyu said politely. He picked up his comic before the hyperbole could try talking to him again. He pretended to be engrossed in the pages.
+
+It was a story about a boy who’d just become an older brother. Definitely written for children.
+
+When Haoyu was little, he had looked at it until the pages were starting to break free of the binding. He had really wanted his parents to give him a younger brother or sister at the time, so he’d made a show of reading it conspicuously in front of them every chance he’d gotten while making not-so-subtle comments about how they had a spare bedroom.
+
+Which had eventually prompted one of his father’s jokes about babies being too hazardous for his physique.
+
+Haoyu had left the book here years ago in the small cubby that was set aside for children’s comfort toys. His name was written in the front cover, and an Artonan had given it to him as soon as he boarded.
+
+I wonder if my parents didn’t want another kid because they were afraid of days like this one, he thought, staring at that little house where the happy family in the story lived.
+
+A few minutes later, the escape shuttle lifted off.
+
+He wouldn’t have known they were rising into the air at all if an Adjuster sitting across the aisle hadn’t cast a view-through spell on the patch of floor between them.
+
+Anesidora fell away.
+
+Apex looks wrong. Lights are missing.
+
+In the dark, it looked like the whole western tip of the crescent had been chopped off. Is the power just out everywhere, or is it really gone?
+
+He couldn’t even see spellflash or helicopters in that area. It must have been a waste of manpower to protect the fringes when everyone needed to be going inland anyway.
+
+I hope everyone got out in time.
+
+******
+
+******
+
+Alden ran for so long that he thought…maybe.
+
+Maybe this was far enough. Maybe he was wasting his limited energy. Maybe it would be okay to turn aside here, go upstairs there. Stop and breathe.
+
+It was like the cold night air didn’t have enough oxygen in it.
+
+[Disaster Update: Probability of chaos exposure is now negligible. Chaos exposure updates will cease.]
+
+Your timing, Alden thought, is the absolute worst.
+
+A short while ago, that news would have lifted his spirits and given him hope. Now he couldn’t even enjoy it.
+
+What about all the things I’m actually dealing with?
+
+[Disaster Update: Tsunami-like incidents are increasingly likely in the following locations…]
+
+The list wasn’t horribly long. It ended with Punta de la Luna and Sānjiǎo Beach. Two places that the System had ordered everyone to leave hours ago. Alden guessed it was nice that the System was still naming the dead zones at all.
+
+Even though it wasn’t personalized, the update made him decide against stopping.
+
+But I’m going the wrong way. I’m getting farther and farther from help.
+
+I don’t know what to do.
+
+He couldn’t imagine how far the water would spread if it burst. When it did. What would the force of the wave be like?
+
+How many other things would turn into water magnets? Or missiles.
+
+Three more blocks. Just three more.
+
+Then I’ll look for a sturdy building.
+
+He almost made it.
+
+******
+
+When it happened, it sounded like an explosion that wouldn’t end. Alden turned, thinking, I have to get off the street and up higher. Any place will do now.
+
+He gripped Zeridee to his chest with arms that ached. He had half a thought about blowing open a door, and the auriad slid along his wrist in preparation.
+
+The night roared.
+
+Waist-deep water struck him like a battering ram.
+
+He went down.
+
+The physical violence of it was a shock. He was underwater. Things were slamming into him. He kicked his legs, but it was only the flailing of a frightened animal. He didn’t know where up was. He couldn’t possibly have kept his feet under him even if he’d managed to find the ground with them.
+
+His eyes were closed. He was holding onto Zeridee.
+
+He had told himself he would hold her, so he did. He could feel the water and all the things in the water beating against her. And against himself. He held her in that way, too.
+
+They hit something. They hit something else.
+
+Whatever it was, it didn’t give way. Alden was being pressed to it by the water. He needed to breathe.
+
+He’d already been almost out of air from the run. He desperately needed to gasp.
+
+When he finally did, he wasn’t sure if it was luck that the water was below his neck, or if his body had fired an inhale signal because it somehow knew an opportunity had come. As he pulled in another lungful and opened his eyes, he realized he was inside a building. Against a wall. He saw a dark, unidentifiable shape heading toward him fast, tumbled by the water as he had been.
+
+Hiding his face behind Zeridee’s chest was reflex. The big thing hit them and then stayed, the lower half partially resting on top of Alden’s legs, the upper pressing against the wall right over his head.
+
+At least it offered some protection from everything else in the water.
+
+Alden clung to his burden, behind his mystery object, in the dark. He tried to figure out what was happening. Tried to go back to thinking instead of enduring.
+
+There’s a wall at my back. I’m sitting against it. It’s standing. It’s not falling down.
+
+One solid thought led to another.
+
+I lost my flashlight, but I could still see something coming at me. My eyes are all right. And there was just enough light for me to make out a shape. I’m not far off the street. I’ve been shoved into a shop or something.
+
+He was breathing so hard. His body was shaking.
+
+I’m hurt.
+
+He was sure he was hurt. It was so brutal. So cold. He’d felt his face hit asphalt. One of his cheeks stung. Lots of places stung.
+
+His left hand hurt the worst. He was holding one of Zeridee’s shoulders with it at the moment. He couldn’t see it well enough to know what exactly was wrong with it, but it felt like something was stabbing him. Hesitantly, he moved the fingers of his right hand over the back of it, expecting to encounter a giant shard of glass or piece of wood.
+
+Instead, he felt the warm slickness of his own blood, flowing freely.
+
+Something stabbed me and then got pulled out? Or I banged it against something sharp?
+
+In the dark, in the wake of what had just happened—what was still happening—even his own body was hard to figure out. Which was what prompted his next thought:
+
+My fingers. Do I still have all my fingers? How will I cast spells if I’ve lost one?
+
+Alden wiggled each of them individually even though it hurt like hell on the left hand, counting one by one.
+
+That’s ten. Ten fingers. Everything’s okay.
+
+The thought and the relief tinging it was so wrong that after it had passed through his mind he had to briefly ask himself if he had a serious head injury. He decided that he didn’t. He was just a dumbass.
+
+People sitting up to their armpits in a flood laced with magical contaminants aren’t okay, Alden. You’re very close to dying in about a dozen different ways right now.
+
+You need to get out of the water.
+
+******
+
+******

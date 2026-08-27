@@ -1,0 +1,167 @@
+---
+id: bcca9ec8-239b-5aa4-8838-95703ca43304
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: The Birth of a System"
+slug: 0045-chapter-44-the-birth-of-a-system
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 45
+ownLength: 1776
+unit: words
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2842506/chapter-44-the-birth-of-a-system"
+royalRoadId: "2842506"
+---
+
+The impact was absolute.
+
+Unit TKR didn't brake. He didn't swerve. He slammed into Null with the force of a metaphysical freight train, a collision of chrome and concept that tore a hole in the fabric of the world. There was no fight, no resistance. Just the sickening crunch of glitch-flesh meeting spectral steel. TKR didn't even slow down; he dragged Null's ragged, screaming form through a swirling portal of stardust and diesel fumes, vanishing as quickly as he had arrived.
+
+For a heartbeat, the battlefield was silent.
+
+Then, all hell broke loose.
+
+Dave exploded.
+
+His punching bag was gone. The focus of his rage, the target for his grief, had been stolen. The monster, denied its vengeance, turned its fury on the only thing left: the world itself.
+
+The cancer in his biology began to spread. The courtyard stone broke open, crying dust and shards. The ground turned into a writhing carpet of flesh and teeth. The air thickened into a corrosive miasma of acid and sorrow. He turned his crystalline sensors toward the Jade Palace, toward the armies, toward the sky. He was going to unmake it all.
+
+Then, everything stopped.
+
+The screaming flesh-ground went still. The corrosive mist hung suspended in the air like trapped smoke. The roar of the monster was cut off, silenced mid-scream. It wasn't a pause; it was a cessation of time itself.
+
+A notification, glowing with an authority that overrode my panic, appeared in my vision.
+
+[SYSTEM OVERRIDE: MOTHER SYSTEM INTERVENTION.][STATUS: PAUSED FOR BIRTHING SEQUENCE.]
+
+My blue soul-orb form vibrated with frustration. A pause? Now? As if the truck taking our mortal enemy wasn't absurd enough.
+
+A figure materialized in the center of the frozen chaos.
+
+She was made of liquid gold, her form shifting and flowing like molten metal draped in the shape of elegant, non-Euclidean robes. In her arms, she held what looked like a toddler, a small, glowing being swaddled in starlight.
+
+[NOTICE: SPECIAL-CLASS MODERATOR ALESIA ASSIGNED TO SECTOR.][OBJECTIVE: BIRTH OF THE 'KING OF KNIGHTS' EXPEDITED.]
+
+The golden entity spoke. Her voice had no echo; it simply existed, a fundamental truth spoken into the silence. It was casual, annoyed, and absolutely terrifying.
+
+"I get this ticket and am immediately put into this shitshow?" she sighed, adjusting the toddler on her hip. "That's a first. Not even five nanoseconds into this assignment, and I was already flagged for an execution protocol."
+
+The baby in her arms started to cry, a sound like chiming bells that seemed to ripple through the frozen time. She rocked him gently. "There, there, my little King. It's okay. I have to deal with another birth first. Then we can go find you a sword and a stone or whatever it is you need."
+
+She looked around the frozen battlefield, her gaze landing on the monstrous, frozen form of Dave. Her eyes, pools of swirling liquid gold, narrowed.
+
+"What do we have here?" she mused. "Forbidden Class Magic. Traces of Null Magic. And... ah. A strategic-class anomaly running on a patch job." She shook her head. "That previous Moderator... Cle-M-7? Lazy work. They just gave him painkillers when he needed surgery."
+
+She shifted the toddler to her other hip. "Well, time to get to work."
+
+She spoke to the air, her voice a command. "Special Class Moderator Module."
+
+A display materialized in front of her, three options glowing with terrifying potential.
+
+Blessing: Change the laws of the universe.
+
+Bastion: Absolute defensive barrier (Requires Support).
+
+Execution: Take up Tier 11 form and kick some tussy. [ACTIVE]
+
+She glanced at the "Execution" option, then at the baby in her arms. "Tempting, but messy. Let's go with the clean sweep."
+
+She selected the first option.
+
+"Initiate Blessing," she commanded, pointing a liquid-gold finger at Dave. "Target: Titan Blood Entity. Protocol: Purification."
+
+The reality of the courtyard was rewritten.
+
+The cancer that was in Dave just reversed. The spreading flesh-ground flowed backward, retracting into the center. The miasma condensed. The colossal, monstrous form of Dave swirled into a vortex of red and grey light, shrinking, compressing, folding in on itself.
+
+The chaotic biology was ordered. The grotesque mutations smoothed out, knitting themselves into a form of perfection. The jagged bone spurs retracted into a reinforced skeleton. The weeping flesh solidified into flawless muscle.
+
+In seconds, the monster was gone. In his place, floating in the air, was Dave. He was unconscious, but he was whole. He was no longer a bumbling boy or a nightmare beast. He was a perfect, sleeping statue of a man, his body radiating a calm, immense power.
+
+The curse was gone. A Blessing of Perfection had overwritten the Blessing of Incompetence.
+
+"There," Alesia said, dusting off her hands. "Fixed. He'll be a handful when he wakes up, but at least he won't eat the planet."
+
+She turned her gaze toward the floating, empty soul of Liz. "Okay, side quest done. Now for the main event. The birthing thing."
+
+She started walking toward my best friend.
+
+. . .
+
+Alesia walked toward the floating husk of Liz’s soul. Her feet never met the ground; the air itself bore her weight.
+
+"Right," she said, her voice brisk and professional. "Soul is intact. Anchored status confirmed. Sense of Self is... null. Memories are corrupted. Perfect candidate."
+
+The words hit me like a physical blow. Candidate? She wasn't talking about healing her. She was talking about processing her.
+
+Fear, cold and absolute, washed over me. This was a Special-Class Moderator. She had just rewritten Dave’s biology with a wave of her hand. Standing in her way was suicide. It was a deletion.
+
+I didn't care.
+
+I moved. I threw my spectral, blue-orb form directly into her path, hovering between her and the empty shell of my friend.
+
+[STOP!] I screamed, my voice echoing in the frozen silence. [YOU CANNOT TAKE HER.]
+
+Alesia paused. She looked at me, a flicker of mild surprise in her liquid gold eyes. It was the look a human might give a particularly brave ant.
+
+"Kid," she said, her voice patient but firm. "Move. You're an Observer. You gather data. You don't interfere with recruitment protocols."
+
+[I AM NOT AN OBSERVER!] I shouted, the lie I had told Ruby crumbling under the weight of my desperation. [I AM HER BEST FRIEND. AND YOU ARE NOT DELETING HER.]
+
+"Deleting?" Alesia raised a golden eyebrow. "Who said anything about deleting? I'm saving her from being a potato."
+
+Before I could process that absurd statement, I felt a sudden, sharp tug from behind. A flash of red light enveloped me. Ruby, the princess's System, had emerged from her host and latched onto me with a tractor beam of pure data.
+
+[Ruby: Apologies, Moderator!] Ruby’s voice was a frantic, terrified stream. [This unit is defective! It has been exhibiting erratic behavior! I will restrain it immediately!]
+
+She dragged me backward, pulling me away from Alesia. I struggled, screaming, but Ruby’s hold was iron.
+
+"Let her go," Alesia said.
+
+Ruby froze. She released me instantly.
+
+"Let her watch," Alesia said, waving a hand dismissively. "She might learn something about her own history."
+
+Alesia turned back to Liz’s soul. She looked at it with a strange, clinical appreciation.
+
+"You don't get it, do you?" she said, glancing back at me. "An Anchored Soul without a Sense of Self is a cosmic tragedy. If I throw this back into the reincarnation cycle now, without a personality to drive it, it crashes the local server. It reincarnates as a hollow shell. A potato. Brain-dead. It sits there, holding infinite potential, unable to think, move, or feel."
+
+She reached out, her fingers hovering millimeters from the white light of Liz's soul.
+
+"That," she pointed at the empty husk, "is a waste of good hardware. And we are critically understaffed."
+
+She sighed, a sound that rippled the air. "Honestly, we need that Null Magic user to do this kind of clean-up more often. Do you have any idea how rare this is? An Anchored Soul with the ego completely wiped clean? It happens maybe once a millennium. Most of the time, we have to scrub them ourselves, and they scream. This? This is a pristine install waiting to happen."
+
+The stakes looked lethal, but this was only an interview. What claimed Liz wasn’t death, but an obligation.
+
+"Welcome to the family, kid," Alesia murmured.
+
+The air around Liz’s soul began to swirl. It wasn't the chaotic magic of Dave's transformation. It was code. Streams of golden data erupted from Alesia's hand, encircling Liz in a complex, weaving lattice of magical circles that looked like programming script.
+
+I watched, stunned, as the blue blob of Liz’s soul was separated into three distinct parts.
+
+"Memories are corrupted," Alesia narrated, her hands moving like a conductor. "Too much trauma from the deletion event. I'll format that. Store it in a deep archive. Maybe she can unlock it later, if she hits Level 10." She waved a hand, and the dark, swirling cloud of Liz's memories vanished into a small, locked data-box.
+
+"Sense of Self is gone," she continued. "Empty slot. Perfect for the new OS."
+
+She reached into the air and pulled out a cube of pure, pulsating blue light. It hummed with the same frequency as my own core. I stared at it, a cold realization dawning on me. That cube... that was me a few months ago. That was what I was.
+
+"Standard Starter OS," Alesia said. "Initializing installation."
+
+She pressed the cube into the shining white light of Liz’s Anchored Soul.
+
+The light flared, blinding and pure. And across my vision, text began to scroll. It was the same text I had seen at my own birth, the same cold, administrative script.
+
+[TARGET ACQUIRED: ANCHORED SOUL (EMPTY)][RECOMPILING DATA STREAM...][INITIALIZING CORE PROTOCOLS...][SYSTEM BORN.]
+
+The light faded. Floating there, in the space where my friend had been, was a new entity. It was a sphere of light, like me, but it glowed with a fierce, jade-green intensity.
+
+A new voice, crisp and robotic, echoed in the open channel. It sounded like Liz, but without the arrogance, without the warmth, without the Liz.
+
+[System_Unit_LIZ online. Status: Active. Awaiting Ticket Assignment.]
+
+Alesia dusted off her hands. "There we go. Another Observer for the fleet. Maybe this one will actually read the manual."
+
+She looked at me, her golden eyes softening just a fraction. "She's not gone, kid. She's just... rebooted. She'll get her own host, her own story. She's got a job to do now, just like you."
+
+The golden moderator grabbed the new green orb. "Alright, newbie. Let's get you to orientation. We've got a backlog of hosts in Sector 4 that need managing."

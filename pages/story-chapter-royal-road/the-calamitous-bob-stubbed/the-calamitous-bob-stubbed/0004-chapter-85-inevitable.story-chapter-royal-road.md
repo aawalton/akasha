@@ -1,0 +1,495 @@
+---
+id: e6a02ef7-5f2c-5c1f-8a3b-d9210d405d63
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85: Inevitable"
+slug: 0004-chapter-85-inevitable
+partOf: the-calamitous-bob-stubbed
+position: 4
+ownLength: 5259
+unit: words
+ownProgress: 5259
+publishedAt: 2022-08-19
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/974992/chapter-85-inevitable"
+royalRoadId: "974992"
+markedReadAt: "2026-06-29T21:14:47.171Z"
+---
+
+“Every battle is won before it is ever fought.”
+
+All of Kazar and its surroundings had gathered to see the troops leave. Men, women and children covered the entire plaza in a sea of humanity. They hid every balustrade and adorned every window. The great press of folks stared at Viv, standing before her pulpit, with laser focus. The silence was deafening.
+
+There were almost four thousand people gathered here. Kazarans old and new, refugees and mountain tribes. An Yries detachment waited by one of their converted drills while the Hadals stuck to the roof like strange growths, faces hooded and blades hidden. A squad of heavies formed a superfluous cordon near the town hall entrance where she stood now. Witch-pact marksmen hung back, face veiled over their brand-new uniforms. The white and gold of Neriad reflected the light of the noon sun in the distance, near their temple, with the handful of nobles on their warhorses. Everyone had come.
+
+By her side, the representatives of every faction waited in grim silence for her to begin.
+
+“Right.”
+
+//Your Grace?
+
+Viv almost jumped in surprise.
+
+//I would like to say a few words.
+
+She opened her mouth. Closed it again.
+
+//Please.
+
+//It is quite important.
+
+//We have waited to do this for too long.
+
+//We can wait no longer.
+
+//And it must come from us, not from you.
+
+“Solfis?”
+
+//Please.
+
+//Trust me.
+
+“Well, sure, if you insist. Sound enchantment?”
+
+//That will not be necessary.
+
+The golem took a few steps forward and when he spoke, his alien, organic snarl filled the entire plaza and the streets beyond. It was loud and very, very clear.
+
+//People of Kazar, hear me.
+
+//I, the last defender of Harrak, will speak now.
+
+//You have seen me many times, but you have seen a golem.
+
+//I am more than just a normal golem.
+
+//My name is Solfis.
+
+//I was made by my master Irlefen in Harrak almost six hundred years ago.
+
+//And I remember.
+
+//I remember everything.
+
+The golem walked softly over the ground, his gaunt frame towering over even the most massive of heavies. He shifted and adjusted his balance in a dance that Viv knew was pure affectation, and yet the show of humanity soothed the gathering. They knew Solfis. They had seen him fight by their side. They had seen him drag creatures that could slaughter whole villages out of the heart of the forest, distributing the boon of meat to the needy. He was no longer an alien being, but an ancient and mysterious protector. A benevolent ancestor.
+
+A local god.
+
+//Once upon a time, Harrak was a flourishing civilization ranging from the marches of Halluria to the Far Sea.
+
+//Imperial couples ruled over ten million souls from atop the Great Ziggurat.
+
+//They ruled with an iron fist, but they ruled justly.
+
+//It was a nation where the grandson of a roadmender could become a baron and a baron, a slave, on their own merits.
+
+//Men and women could grasp the stars through skill and effort.
+
+//Life bloomed from the great forests of the north to the fertile southern plains.
+
+//The land behind you was covered in orchards and wheat fields as far as the eye could see.
+
+//While north of here, men and women pulled ore from the belly of the earth so that every laborer could wield iron tools.
+
+Solfis stopped, spine bent as if overwhelmed by memories. Viv was no longer sure of anything.
+
+//But Harrak died.
+
+//I was there, and I remember.
+
+//All the living fell, the life stolen from them.
+
+//The land perished.
+
+//And the purple blooms of Harrakan roses turned to ash under my fingers.
+
+//It only took an instant.
+
+Silence.
+
+//My master fell from his garden chair.
+
+//I could not wake him up.
+
+//I tried everything.
+
+More silence. People didn’t even dare to breathe.
+
+//I fought the undead.
+
+//I fought for three hundred years, until the last drop of mana from the last salvaged core could no longer sustain me.
+
+//I fought over the corpse of this great nation, knowing it would amount to nothing, in the end.
+
+//I was doomed.
+
+//And the memories of Irlefen were doomed with me.
+
+Another long pause.
+
+//But then, I was found by a young outlander lost in a world of gray.
+
+//She dragged my core through the desert, over a month.
+
+//Step by step with the strength of her arms.
+
+//I believed again.
+
+//And I was right.
+
+//Because I found you.
+
+Solfis straightened and spread his arms with sinister benevolence.
+
+//It may seem like the nation I served has perished.
+
+//But I tell you now, Harrak is not a population, or a land.
+
+//Harrak is an idea.
+
+//And ideas are immortal.
+
+//So long as there is one left who carries them.
+
+//I am Solfis, and I remember everything.
+
+//And now, you too, remember.
+
+//You remember the techniques and laws your ancestors developed.
+
+//But more importantly, you remember the mentality that turned Param into a beacon of civilization.
+
+//United and powerful.
+
+//You remember.
+
+//You will pick up this flame and turn it into a great inferno.
+
+//You will revive what was once lost.
+
+//The lands of Harrak will be green again.
+
+//We will reclaim it from the deadlands.
+
+//And we will make. It. OURS!
+
+Kazar roared. The mountain roared. The deep bellow rolled over the hills like a great sonorous tide and with it, it carried the rarest meaning mankind could achieve: unity of purpose.
+
+//Harrakans, are you ready to reclaim your legacy?
+
+“Yes!”
+
+//THEN KNEEL.
+
+//Do you swear to become citizens of Harrak, to uphold its laws, and to stand against its foes?
+
+There was an indistinctive roar of approval from the kneeling crowd. The words varied but the intent was clear.
+
+//Do you swear to obey your rightful rulers, to fulfill your duties, to rejoice together in times of fortune and stand side by side in times of need?
+
+//Do you swear to follow the Heiress to the Throne as she leads you in battle against the invaders?
+
+The cold claws of inevitability grasped Viv’s chest as thousands of eyes turned to her. She was in the spotlight. She could not move. The crowd was galvanized and primal. They recognized her, the one who had guided them through the desert and brought them back with steel in their fists. They knew who she was, what she had done, what she could still do, and they approved. They howled that approval to her now and the sound of so many throats jolted her like a slap, but she didn’t dare to move. The point of no return had been crossed a long time ago.
+
+//Then I, Solfis, recognize you as such.
+
+//INDUCTION PROTOCOL ENGAGED.
+
+//CHANGE ‘KAZARAN’ STATUS TO ‘HARRAKAN CITIZEN’.
+
+//CHANGE ‘MOUNTAIN TRIBE’ STATUS TO ‘HARRAKAN CITIZEN’.
+
+//CONDITIONS FULFILLED.
+
+//CHANGE ACCEPTED.
+
+//NEW IMPERIAL SETTLEMENTS RECOGNIZED.
+
+//CAPITAL STATUS TRANSFERRED TO KAZAR.
+
+//RISE, CITIZENS OF HARRAK.
+
+Ban met Viv’s eyes as he grabbed a flag, unfolding it with ceremony. It showed a white pyramid inside of a circle over a field of black. It had been planned all along. More flags were raised by soldiers, unfolded from windows. She had seen those flags before in history books, the symbol of a fallen nation now flying again. Funny how things tended to repeat themselves.
+
+//HARRAK ETERNAL!
+
+“Harrak Eternal!”
+
+//CITIZEN, THE CITY IS UNDER THREAT.
+
+//TO ARMS, HARRAKANS.
+
+//WE MARCH.
+
+The newly-minted citizens rushed to their houses to grab their spears and makeshift armors. Every trained militia joined down to the last shoemaker, soon merging with the ordered lines of regulars, then the hooting squads of Yries crossbowmen pushing their war machines. The torrent of people walked in massive, disciplined columns into the Deadshield Woods, and where they tread, the beasts and monsters fled for their lives.
+
+***
+
+The Enorians crashed into the clearing like waves upon the shore. Talan stood upright and unbending because the others needed to see him that way, but the youngest member of the squad just sat on the grass where he was.
+
+“Stand up Salz, this ain’t a picnic,” corporal Regor said.
+
+“Sorry sir, just… one moment please.”
+
+It wasn’t technically insubordination so the corporal let it go. They were all exhausted. Ten days through hell, the last three spent going as fast as possible or risk running out of water again. Over a hundred fatalities. Dozens of casualties, some of them still unable to fight properly because of debilitating injuries. By some miracle, Massine had kept everyone alive and going after the loss of Ereon, but only barely. A professional army had left Anelton to restore order, but it was a mob that now spread over the open ground in squad-based clumps, exhausted, hurt, dirty, but alive. And they had done it. Kazar was within walking distance. They could get there tonight if they forced it, but the powers-that-be would most likely declare the rest of the afternoon to be a resting time.
+
+“Dinner can’t come soon enough,” someone said
+
+“Don’t let your guard down now. This is the largest camping spot since the fucking butterflies. I would be surprised if there were no traps,” the corporals answered, vigilant.
+
+The earth casters were using their remaining mana sparingly, testing the ground for traps and circles. Who knew what other nasties the witch had in store? Talan surveyed the land. The edge of the forest stood a hundred paces away across a field of wildflowers. The ubiquitous black mana tree-things popped here and there, defacing the land and reminding them of her horrifying presence. To his left, the road went on. The army was still spilling forward like a water leak, blue tabards stained and all weapons out despite the fatigue. They were ready for anything, Talan thought.
+
+The meadow was eerily still. The outer squad advanced with sluggish speed across the grass, testing the ground for pitfalls and finding none. The earth mage kept chucking charged stones across the land to find hidden circles or magical constructs. Again, nothing. It was far too good to be true. Far too good.
+
+An order to stay put came from behind. Talan agreed wholeheartedly, his vision filled with images of pinpoint bombardments or other shenanigans. They still hadn’t seen any of the elite, except the assassin who failed to escape. The witch had something planned, for sure. He looked back and saw the royal carriage entering the valley in all its majesty. Massive and intimidating, it could anchor any formation with its powerful enchantments. The soldiers milled before and after it, wary, unsure of which calamity would be unleashed upon them this time.
+
+Talan almost missed it, when the sculptures melted. He didn’t know why he turned back precisely at that moment, only that he didn’t trust the forest. His inspection skill guided his eyes with divine providence, searching, finding nothing, until…
+
+[Blue oak sapling]
+
+[Stone]
+
+[New Harrakan ghillie suit]
+
+“What the…”
+
+There was nothing there, nothing but a mess of color and forms that was exactly the same as every other underbush. Talan took one step forward. His squad looked up, alert.
+
+The eldritch walls disintegrated. They fell like piles of sand, as if the alien patterns and pointy appendages had been nothing but a dream. The walls melted and revealed three figures.
+
+There was a Kark woman in the heaviest armor Talan had ever seen. A flanged mass rested on a muscular shoulder while another kept upright a tower shield so massive it could have doubled as a bank door.
+
+The golem deployed in all its gaunt, skeletal horror.
+
+In the middle, the heiress stood. She wore her white robe and a helmet. Her round shield was held protectively against her chest. She pointed a finger down and a transparent shield shone into existence, covering the three under a thick dome. Talan knew what it was. He had seen war mage parties deploy the same protection when they needed cover for their heaviest spells.
+
+The questor took another step. He mumbled a cry but he didn’t know what to say. Fifty, maybe more, soldiers watched their bane stand with absolute confidence in the open field, and Talan hated her in that moment, hated her for what she would do to him, because he knew, he saw in the unfeeling pits of her eyes, that they were right where she wanted. She didn’t even look at the army. Her only focus was on the royal wagon. Talan and his men didn’t even merit a single glance of consideration.
+
+“Call it.”
+
+The Kark woman obeyed the heiress’ order. She brandished a strange tube and a red star ascended with a sound like a whistle. Talan expected it to explode but it didn’t. Instead, it was mirrored. First one, then two, then a dozen other stars rose to the late afternoon sky in a half-circle around the bedraggled, half-deployed Enorian infantry.
+
+And then the woods came alive.
+
+Horns and drums carried orders far and wide to entire lines of combatants emerging from the edge of the trees in every direction he faced. Hooting Yries followed strange mechanical contraptions that flattened entire trees and the green of the forest squirmed with uncounted soldiers. He picked a glistening quarrel tip at random.
+
+[Witch-pact markswoman. Very dangerous. Crossbow expert. Dead-eye. Merciless.]
+
+A mighty artillery spell, a monstrous one, curved over Talan’s head to crash against the wagons’ defenses at an angle. A plume of flame from a tired Eteia roared out but the destructive black was only stopped by a shimmering wall of enchantments. Another followed immediately, aimed lower. It destroyed the wagon’s front right wheel. The heavy carriage tilted forward. Eteia gripped the mage seat with both hands. Talan grabbed Salz and pulled him up. They fell in with other squads, forming a rough battleline. Archers hid behind. Some of them merged into the trees for cover and to give the rest of the army enough room to deploy as quickly as they could. Orders fused. More spells were launched, some of them stone ones that were blocked by a large female Yries in flowing robes. Kazarans in heavy armor brandishing a variety of two-handed weapons gathered far to his right. It was about to start.
+
+“Loose!”
+
+“Hold!”
+
+The thin line of Enorians raised kite and tower shields, blocking most of the incoming punishment. Those were veterans and siege experts, armed with skills aimed at improving their survival. Quarrels screeched across the clearing, joined by arrows arcing overhead and found targets anyway. The soldier to Talan’s left lost half of his neck to a massive bolt. Men yelled on their way down, clutching ghastly wounds. Talan needed more time. The Enorians just needed a couple of minutes for the line to harmonize, for elites and officers to reach their position. Just a couple of minutes and the army would be ready. The prince was already advancing in shining armor, ready to bolster his men.
+
+They would not have minutes.
+
+Talan had wondered why the Kazaran center held no troops. He now realized his mistake. They had troops, they were just hidden in a trench camouflaged by a trick of perspective. The center of the Kazaran formation stood now and the questor almost pinched himself in disbelief. Moans of consternation spread across the ranks.
+
+“This is a joke, right?” Salz asked.
+
+The last successor regiment had died to the last man holding a doomed fortress one hundred and fifty years before. Their techniques had been lost with them, and their ancient gear had been melted down to arm a thousand men. Now, figures from history books kneeled then stood in front of them in armors of black steel. Their many pennants bearing trees and mountains fluttered in the wind, giving them the movement that old drawings had failed to show. Shields linked under serrated harpoons made of solid metal that could only be called spears in the same way a battering ram qualified as a door knocker. Some of those were even runed! A large man with a white braided beard falling to his navel brandished the flag of a long-dead nation.
+
+[Tip of the Spear, extremely dangerous, unique fourth step path of the first battalion, first company commander of the Harrakan heavy phalanx. Leader. Slayer of man. Expert melee combatant…]
+
+“It’s the real fucking deal,” Talan heard himself say.
+
+The cries to join the formation redoubled. Over half of the army was on the clearing now, running, cursing, dying to vicious volleys of quarrels. The return fire was not yet enough to force the Kazarans down. Talan considered that their only saving grace was the obvious inexperience of those that faced them, and it would not be enough, because the heavy infantry was advancing.
+
+They covered most of the center in a thin line two-men thick, but they were advancing faster and faster. The formation went around the witch’s circle as she kept pummeling Eteia, then they closed again and there was nothing in front of Talan but a wall of spiked steel, no longer a unit but a solid, monstrous mass growing ever closer, ever faster. There was one last beautiful moment where the Enorians almost managed to form a full line, where Talan could spot the eyes behind the thick helmets of the soldier charging them. In that fugacious instant, the foe was human and scared, then the steel beast roared and crashed into him.
+
+The sound of the charge was the loudest he had ever heard in his whole life. A hundred church bells ringing could not have matched its ear-shattering fracas. All air left Talan’s lung as he was propelled backward by the formidable impact. Others fell around him, while some squads still stood upright and exchanged blow for blow. The questor took a passing glance at Salz’ body when he stood back up and joined the fray.
+
+A black line, now less cohesive than before. He locked shields with another soldier in blue among the quick exchange of blows and felt his ‘shieldwall’ skill pick up. A spear smashed into his shield just as it was reinforced by mana. Talan felt a sharp pain in his arm but he ignored it. His return sword strike glanced off a heavy helmet with a shriek of tortured metal, and they fought more. Strike. Block. The Harrakan armor was so thick and its owner moved so well that it felt like fighting a training dummy, one that would stab back. It would outlast a thousand cuts.
+
+Talan could see nothing of the battle, only hear that the roar had not stopped yet. The line of heavies took a collective step back and Talan took a deep breath of relief. His arm was lead, stiff and exhausted. Quarrels were still landing in targeted volleys along the line.
+
+“What are our bowmen doing?” He spat, and took in the battlefield.
+
+Far to the right, the warriors in heavy armor were completely rolling the Enorian right.
+
+“SkraaaAAAAAACOUGH!”
+
+Talan turned and blinked. The forest was now on fire. Shapes danced, covered in flames. Other, darker shapes moved on to attack the squads still loosing arrow after arrow on their enemies.
+
+A tide of militia moved after the Harrakan elites, taking apart the isolated elements like packs of hounds. The right flank was collapsing under the onslaught of a tall man shredding lines of spears with every blow of his greatsword leading a pack of linebreakers. The Kazarans were not slowing down.
+
+The Enorians were getting broken and swarmed.
+
+Talan knew that his side needed just a little time, just a little more time to recover. A blast of black mana crashed on a red shield for what felt like the dozenth time. The witch was containing a war mage a full step above her. This was madness. No, this was calculated.
+
+They had been engaged at the worst possible time, in the worst possible situation. The extremely aggressive attack capitalized on momentum, the Enorian exhaustion, and the fervor he now felt in every unit of the enemy army. They had been maneuvered like children. By a nobody.
+
+“Left, left, stretch the line!”
+
+Talan heard the voice of the champion and obeyed. The Harrakan heavies reengaged but the questor was already pulled out of the formation and running towards the road and the still trickling soldiers joining the fray. They had to hold. If they were cut off… It would be all over. They could not be split.
+
+Behind, some of the reinforcements came under attack from cloaked figures.
+
+Was anything going well?
+
+“Cavalry! BRAAAAACE!”
+
+Oh for fuck’s sake. Talan closed formation with the rest of the men around him, only to realize that he didn’t have a spear. Only his sword. In front of them, a wedge of knights on barded steeds was charging, led by two plate-armored men. There were Neriad standards among the riders.
+
+Talan placed his arm on the shoulder of the man in front of him. That was all he could do.
+
+He was thrown to the ground for the second time. Screams felt distorted by the ringing in his ears. There was grass under his helmet. Comfortable.
+
+Stand up.
+
+Talan found his sword a little bit to the side. He charged the pair of knights leading the attack, still trampling soldiers left and right. It would be almost impossible to get through the barding, but he had to do something. He still had the strength for a [Sword Thrust].
+
+“Maranor, grant me the power to uphold your vision!”
+
+Talan pushed his exhausted leg once more, only to see the lead knight fall from his horse. The beast tilted to the side, decapitated in a single strike.
+
+All around, the Enorians were rallying to push back the charging temple guards of Neriad. They would hold on. They had to.
+
+“Rally, men! Push this rabble back!” A voice bellowed, and Talan felt his courage rekindle. He did not respect the prince any longer, but he would follow the crown, not the man wearing it.
+
+The prince’s leadership pushed the men to their limit, but it was still facing a surprisingly organized assault and the line buckled almost immediately.
+
+“Take the cavalry down first,” the champion bellowed as the mounted Kazarans disengaged. As an example, he stepped towards the fallen attacker. The second knight tried to stop him and died for it. The scream of anguish from the man on the ground took Talan by surprise.
+
+“Do not worry, you will join him soon enough,” the champion said, then stopped.
+
+Silence spread across this segment of the field, even as chaos still reigned. Talan turned and gasped. The champion’s massive two-hander was stopped mid-air by a long ivory claw.
+
+//Kindly leave our nobles alive, Enorian.
+
+//They do not grow on trees.
+
+“You will not stop me, abomination.”
+
+The pair exchanged a few rapid strikes, but it was the champion that was pushed back.
+
+“Strength will not suffice, monster. I will show you the power of the Royal Academy of Enoria.”
+
+//Yes, fleshbag.
+
+//Show me how much swordsmanship has improved since I last saw an arena.
+
+//Perhaps you will help me improve my human combat algorithm.
+
+//The first such occurrence in three centuries.
+
+//SWITCHING TO DUELING MODE.
+
+There was no time to witness the duel. The prince now stood at the head of the formation with his personal guard, fending off assault from some of the best temple guards Talan had ever seen. He joined the fray once more, trying to ignore the disintegrating army around them. The Kazarans were everywhere. He rushed into the frontline just as a man fell clutching his chest and blocked a follow-up strike from a tall woman with dark braided hair and a missing incisor. The giantess flipped her spear and smacked another man on the helmet. The distraction cost him dearly.
+
+Talan attacked.
+
+He poured every last drop of stamina into a flurry of strikes. It felt like hitting water. The woman dodged everything with liquid grace while her counters hit hard and deep. Talan just had to… buy some time.
+
+His left foot slipped on the ground.
+
+Gray mana shone in the woman’s dancing steps. The questor prayed and brought his shield up. He stopped three blows, but the last one sent him careening to the ground.
+
+He turned his head just in time to find the champion miss the golem’s torso by a hair. The skeletal creature grabbed the over-extended wrist with a leg and pulled.
+
+Metal shrieked when the creature’s claws lodged themselves in the sword-wielder’s torso.
+
+//Disappointing.
+
+Then the champion’s head went flying.
+
+A black mana blast crashed into the prince’s guard, killing half a dozen men. Eteia was no longer on the carriage.
+
+They just needed some more time.
+
+Talan stood. He found a fallen flag and raised it, trying to bring back the soldiers running away. He had to protect order. The law never ran. Suddenly, he felt a punch in his chest, then another, then another. He had dropped his shield to hold the flag. Now there were feathery shafts piercing his flesh.
+
+Talan planted the flag on the ground to stay up. Of course, marksmen would target unprotected idiots who stood out. That was fine.
+
+They were out of time.
+
+He was out of time.
+
+It was over.
+
+The temple guard ignored him. Militia surrounded him in a circle with their spears out. Someone said something about yielding, but Talan only smiled. It was too late. He preferred to stand. One of the militia women looked like his sister when she was scolding. They came at him and stabbed, and stabbed, until he could see no longer.
+
+***
+
+Viv walked on the blood-soaked fields, aware of the attention focused on her. There had never been a time in her life when she had more keenly felt the weight of expectations. Even the Solfis propaganda speech earlier that day had not conveyed how much people were watching, waiting, and she tried to face this attention with her back straight and her step confident.
+
+Even though the most dominant emotion in her heart now was sheer disbelief.
+
+Everything had worked perfectly.
+
+She had expected a last minute fuckup, some weird event like the Sputnik landing on her men or the Enorians marching through the night to attack at dawn but it didn’t happen. Everything had gone exactly according to plan, with minimum casualties and without war crimes.
+
+Well, without any more war crimes.
+
+With so much slaughter around her, it was almost tempting to let bygones be bygones, but as soon as she entertained the idea, she realized that she could not accept it. The enslavement of a whole region for the sake of power could not be forgiven, even when blood had been shed. She would not get in the business of letting vengeful, megalomaniac enemies alive.
+
+It was enough to remember the aftermath of Kazar’s reconquest, or the mountain village massacre. War on Param didn’t know half-measures. The Geneva convention was nothing but a distant memory. True atrocities had led them here, now. There was no stepping back.
+
+“Bring him.”
+
+Her voice carried over the silent assembly. No one spoke, prisoners or victors. They watched with bated breath as Solfis approached with the defeated prince held under an unyielding claw. Lancer was forced to kneel.
+
+Viv put heavy gloves on her hands. Marruk brought her a small cauldron, barely more than a cooking pot. Viv turned and emptied her purse in it. The clinks of gold coins echoed strangely in the unnatural quiet.
+
+“Spare me your games, rebel.”
+
+“Shhhhhh,” Viv said.
+
+Solfis placed a white claw under the captive’s mouth and the prince kept his peace. As for Viv, she enhanced her voice via a sound enchantment, one of Varska’s gifts. She had a show to run.
+
+“As you well know, prince, I am an Outlander. Back where I come from, we have a type of play called the tragedy. Perhaps this will feel familiar. It starts with a great hero, an exceptional person almost perfect in every regard except for one fatal flaw, one sin that cannot be ignored. The Hamartia.”
+
+Viv removed the circlet from her enemy’s brow, then placed it in the cauldron. It was interesting how Genghis Khan could be so culturally impactful even in the most distant places. She signaled Arthur and pointed at the cauldron.
+
+“Squee?”
+
+“Please.”
+
+The dragonette hesitantly blew her fire until the container shone red. The smoke hurt Viv’s skin and eyes though she did not let it show.
+
+“That sin causes an inevitable reversal of fortune, one that can only end one way, and that sublime agony provides the audience with the relief they were craving, the catharsis.”
+
+The gold had melted into a shimmering pool. Viv did not touch the cauldron yet. It would be very heavy and the toxic fumes will make speech impossible.
+
+“Your sin was not greed. Your sin was pride. You could not consider that among all the nameless men and women you crushed on your path to power, enough would stand back up to be more than a mild inconvenience. But we did stand back up, and we banded together, leading us to now. It was pride that caused your fall, but it was greed that hurt us and it is for greed that you will pay. I will grant you all the gold you will ever need, Lancer. Solfis, keep his mouth open.”
+
+“Wait! WAIT! YOU ARE MAD!”
+
+A few Enorian soldiers stood but they were cut down without mercy. Just as Viv expected, the molten metal was heavy, hot, and it burnt her lungs.
+
+The prince screamed for exactly a third of a second before metal blocked his trachea. It took him a bit longer to die.
+
+Viv dropped the cauldron and felt so light that she might fly. Lancer’s head hit the ground with a dull thud.
+
+“Now you are sated.”
+
+The crowd went wild.
+
+***
+
+For the first time since leaving the cave of her birth, Arthur felt fear towards her mother. The first terror she had felt of the sight of the human had been caused by the death of her brother. It had been an animalistic emotion for her kin had been a constant danger to her, and he had been disposed of with relative ease. But this one was different. It was a terror of the intellect, and unlike the first one, it was tinged with a deep admiration for the strange human who had raised her and fed her delicious meat.
+
+Mother had sacrificed gold.
+
+A LOT of gold.
+
+To make a point.
+
+Mother had sacrificed the most precious of shinies for no other purpose than to impress her simple kin, an act of spite so profound and meaningful that the gesture had sent her minions into a frenzy, and dismayed her foes to their very soul. Mother had sacrificed the most  coveted of metals to punish. The draconic mind boggled before the unthinkable, and Arthur felt her chest fill with fiery pride. Now THAT was domination. That was power! Truly, mother deserved her cheers now, and Arthur would let the world know that the pinkish one had a scaleless body but a heart like the hardest gem.
+
+“SKRAAAAAA!”
+
+Meanwhile Viv stood with a single drop of sweat dripping down her brow.
+
+Your Intimidation skill has dramatically improved!
+
+Intimidation: Expert 1
+
+Two of your class skills have reached the Expert level. You may now choose personal improvements.
+
+Draconic intimidation is now available.
+
+Lost Heiress 2/10
+
+“What the fuck have I done now?”

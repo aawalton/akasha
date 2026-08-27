@@ -1,0 +1,165 @@
+---
+id: b34444ee-cdc8-55c1-b73a-f742cbee9fa5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 343 : Calamity"
+slug: 0044-chapter-343-calamity
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 44
+ownLength: 2271
+unit: words
+ownProgress: 2271
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2986780/chapter-343-calamity"
+royalRoadId: "2986780"
+markedReadAt: "2026-06-29T19:43:16.717Z"
+---
+
+Ignoring their proud provocation, I continued my attack against the dome. I felt like I was never one to blindly follow orders, plus I wasn't even their subjects—what gave them the right to try to give me orders?
+
+I watched as the two mermen royals went through a wave of emotions, from shock to horror, before finally ending in anger. Perhaps they had tried to use a skill or trait on me? They did, after all, command various other forms of sea creatures like that transportation whale.
+
+"Kill it!" the king ordered, a surge of energy erupting around every mermen present.
+
+"Defend our home!" the queen added, a similar aura bursting forth.
+
+I wonder if that's from an Emblem? It could be a trait, like that ant princess I killed. If I grab Queen as my final evolution, will I be able to buff all my [Sub-Cores], or is it limited to progeny?
+
+My internal musings were interrupted by a renewed vigor against me. The mermen were not only attacking with nearly double their strength, but their resilience had also received a notable boost. To counter this, my [Sub-Cores] began enhancing their weapons with various other abilities in my [Primordial Slime] toolbox.
+
+As for the king and queen, they appeared to be a warrior-mage hybrid, as they not only boasted impressive physical might but also imbued their strikes with various forms of magic. The king not only had water magic but also ice, while the queen had lightning as hers, which she used to charge her trident.
+
+Both of those would have been terrible weaknesses for past me, but [Cryo Slime] and [Voltaic Slime] had long since removed them. Not only that, but the queen was holding back to avoid catching her subjects in the crossfire.
+
+Being underwater with [Lightning Magic] is a no-go unless you want to give in to the collateral damage.
+
+I tried a few times to cast spells, but was met with the same disrupting effect, only magnified. I would have thought the mermen would be in the same boat, but they were apparently unaffected by this. It wasn't amongst their traits, and even when I tried equipping a few of them, there was no change.
+
+I wonder if the king or queen can grant them immunity. Either way, I'm almost through this dome!
+
+A single puncture was all it took. The moment I opened a hole, the deep-sea pressure slammed through it like a rampaging beast. I was caught so completely off guard that it actually blew a hole straight through my own slime, as I was the final obstacle from it reaching its natural destination. Thankfully, there were no cores in its way, or I might have had to pay a repair bill.
+
+The crystalline dome groaned, then split in jagged lines that raced outward in every direction. In an instant, the dome imploded—shattering inward as a roaring wall of dark water crushed through. The entire dome folded like fragile glass, while everything inside was swallowed in the violently surging currents.
+
+The deepwater pressure was oppressive, even to me, until I borrowed the [Fathomless] trait. Suddenly, I felt on top of the world, the ruler of the depths! I gazed downward at the mermen below me, trying to recover.
+
+Anyone without the abyssal mutation was not looking good. They didn't explode, which I thought might've happened, but quite a few were knocked unconscious, while the ones who didn't were writhing in pain and struggling to move.
+
+They are monsters after all. It would be a bit strange if they didn't have decent resilience.
+
+The king and queen were not amongst the wounded; instead, they looked stronger than ever. It would've been weird if they didn't have the abyssal mutation, and I could only wonder who between us had the higher-level trait.
+
+Time for the real fight to begin!
+
+***
+
+The mermen king and queen were baffled by this strange creature before them. It was unlike anything they'd ever seen before, an abomination between various forms of sea life and even a leviathan!
+
+They'd tried to use their royal authority to command it, hoping it would at least give it pause so they could try to remove it from Azulean. Never in their wildest imaginations could they have predicted that their combined might would not only fail, but the creature would be utterly immune to it!
+
+Was this not a creature of the ocean? But where else could it have come from? The mermen king used [Identify] in the hope of getting a hint, but the result was not only inconclusive but also terrifying.
+
+<Chimeric Monstrosity LV ???>
+
+"Gods, what creature is this?" the king asked his queen.
+
+"Whatever it is, we must defeat it before it's too late!" she replied.
+
+They fought as best they could, fearing that their attacks would both kill their subjects and, more importantly, damage the protective dome. While they could always spawn more mermen, the Azulean dome was not something they could easily recreate.
+
+The battle raged on, and their greatest fear came true. The creature had continued its assault on the dome while fending off its attackers. When the dome cracked, every mermen present gasped in horror.
+
+The ocean depths were relentless, immediately claiming their beautiful city as its own. The king and queen were instantly empowered by the depths, thanks to their traits, and so were many knights and princes. But, even so, this was an outcome they had hoped would never come to pass.
+
+"Kill!" the king and queen jointly declared.
+
+A crimson aura erupted from both of them and enveloped the surviving and still combat-worthy mermen. Not only had they received the strength of the depths, but now they no longer had to hold back.
+
+Deadlier attacks were unleashed as the abyssal mermen let loose. To their horror, however, the monstrosity also appeared to be now giving its all.
+
+"Is it also an abyssal creature!?" the queen cried out in fear.
+
+"That must be why it so desperately destroyed the dome!" the king snarled in rage.
+
+They had no choice but to go all out if they hoped to defeat this creature, so they commanded the abyssal knights to start evacuating the wounded subjects. At the same time, they summoned the full might of their power and hastily separated from one another!
+
+Time seemed to come to a crawl as the depths began to freeze around the king while dangerous electrical energy surged around the queen. The king waved his trident at the monstrosity, encasing the creature in a prison of ice. The queen thrust her trident forward, a beam of lightning surging forth and striking at the imprisoned creature.
+
+The reason for their hasty separation was clear as day—nobody could withstand being in their presence when they went all out. The ocean itself was freezing around the king while the queen's lightning threatened to attack anyone close to her.
+
+This was their power! This was their might! And woe be whoever forced them to unshackle their restraints.
+
+They continued unleashing their power, ignoring anyone caught in the crossfire. If the king's frosty might wasn't enough to kill the creature outright, then the queen's destructive lightning would finish the job. This was their surefire combination and was how they ruled the ocean.
+
+"I must be out of practice, I feel like I'm working up a bit of a sweat," the queen said.
+
+"I too am feeling rather warm…" the king admitted.
+
+"You?" the queen asked, not believing him.
+
+But before the king could reply, the truth of the situation was revealed. The icy prison he created was melting away, unleashing a sweltering heat of supernatural proportions!
+
+"Is it a fire leviathan!?" the king gasped.
+
+"Impossible!" the queen screamed.
+
+Leviathans were powerful, almost dragon-like beings. But unlike their fiery cousins, they were usually limited to storm elements—water, air, ice, and lightning. A fire leviathan was unheard of, unless, somehow, an unholy union of dragon and leviathan had birthed this abomination.
+
+"I fear it might be up to you to kill the creature," the king reluctantly admitted. "I'll focus on protecting us from the heat and flame."
+
+"Alright, make sure to—"
+
+The queen was interrupted by the sound of the sky rupturing. She was familiar with these sounds, as her magic and abilities often produced them, but this was unlike anything she had heard before.
+
+A column of lightning erupted from the monstrous creature, dwarfing every bit of power she had summoned and throwing it right back at her. She had neither the time to cry out in horror nor even react, as she was struck by the powerful blast.
+
+Despite being apart, the power was so great that the king had even taken residual damage from the surging currents. He grit his teeth as the violent energy surged through him. Never had they witnessed such an event in all their time ruling the ocean!
+
+The queen's anguished wails were heard when the energy finally dissipated. While she commanded lightning and had considerable resistance to it built up over the years, she was not immune to it. Lightning was a vicious and deadly weakness to nearly all water-monsters, and she was no exception.
+
+"Are you okay?" the king asked, his tone strangely indifferent to her suffering.
+
+While they were a pair, technically, neither of them needed the other. In fact, if one of them perished, the other could raise a new partner as a replacement. While the newly established king or queen would be notably weaker, this would actually be a preferable outcome to both of them. Who wouldn't want to unilaterally rule the ocean?
+
+"I'll live…" the queen grunted. "But it appears the creature can use my own power against me. Not only that, but it was amplified!"
+
+The king nodded. "I dare say we might need to give up and retreat."
+
+"That seems to be the case…" the queen reluctantly agreed. "At least it looks fully depleted of the energy it stole."
+
+The king nodded, feeling quite thankful. If the creature had targeted him instead of her, they might not be having this conversation.
+
+Both of them were terrified of this creature. Not only could it produce a heat that rendered the king helpless, but it could somehow weaponize even lightning used against it. Their only saving grace was that the abomination appeared to only be able to reflect what was used against it, as it hadn't used such an attack inside of Azulean.
+
+They were about to retreat when they heard a crackling sound. It was like the sound of lightning, but muffled. The king spotted what was happening; magical energies were forming tightly around the creature and striking it repeatedly.
+
+The king gasped before glaring at the queen in outrage. "Are you casting more spells against it!?"
+
+"N-no!" the queen admitted. While the idea had briefly crossed her mind, she was too fearful of the creature throwing it straight back at her rather than the king.
+
+The king saw no magical energies surrounding her, so it must have been true. Which could only mean one thing—the creature had somehow adapted and learnt from what they threw at it.
+
+"D-did we accidentally make it more powerful?" the king asked.
+
+The queen shuddered in terror. In response to ice, it had produced heat, while it threw her own lightning back at her with interest! Now the creature was even willingly striking itself with [Lightning Magic], likely in an attempt to amplify another attack against them.
+
+"Quickly, disrupt the magic!" the king said, and released a tone that vibrated through the water.
+
+The queen quickly joined in, matching frequency with practiced precision, the Mana of the world around them beginning to warble and warp. Princes and princesses' magical disruption could be overcome by restraining oneself to casting within their personal Mana aura, but that didn't apply to a king and queen!
+
+Yes, together, not even a full circle of elven archmages could cast spells before them! But… the spells continued to surge and fuel the abomination further. The two mermen royals were not stupid; they knew the one drawback of their magical disruptions. If the creature was not releasing or using Mana in the world at all, they were unable to disrupt it!
+
+"Is it casting spells inside of itself?" the queen asked in disbelief.
+
+It was the only thing that made sense, but how could a creature cast spells inside of itself? Even ignoring that impossibility, how did the abomination figure out how to counter their spell disruption so effortlessly?
+
+What sort of monstrous abomination could adapt so freely, and learn so quickly? This, coupled with its high regeneration and even its severed limbs becoming weapons against its foes, meant that it was a living disaster.
+
+This was unlike any creature they had ever come across, not even [Dungeon Masters] held such power! Worse, they had unknowingly evolved it further with their attacks against it and teaching it new ways to adapt and destroy!
+
+Usually, monstrous humanoids didn't care much about the world order, but upon reaching certain levels, there was one existence above all that they became terribly aware of—the gods! If they earned their ire, then they could be erased.
+
+The two mermen glanced at one another, a guilt-fueled fear bubbling up. Had they unwittingly aided in the growth of a future calamity? If so, the punishment would be worse than death.
+
+The king gulped. "What have we unleashed upon the world?"
+
+The queen couldn't even muster a response, not willing to admit that they had played a part in creating this living nightmare.

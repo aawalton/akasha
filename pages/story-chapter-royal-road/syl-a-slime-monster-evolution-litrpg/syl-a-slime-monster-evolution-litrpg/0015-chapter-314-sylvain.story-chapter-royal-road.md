@@ -1,0 +1,169 @@
+---
+id: 76acc09f-6d0d-5365-abcb-fb5ef780f795
+page-type-slug: story-chapter-royal-road
+title: "Chapter 314 : Sylvain"
+slug: 0015-chapter-314-sylvain
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 15
+ownLength: 2257
+unit: words
+ownProgress: 2257
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2767671/chapter-314-sylvain"
+royalRoadId: "2767671"
+markedReadAt: "2026-06-29T19:42:16.208Z"
+---
+
+When we left the Adventurer's Guild, I thought everything had gone swimmingly, but Vee was not impressed.
+
+"You big idiot, why did you have to go and make such a scene?"
+
+"What do you mean?" I replied telepathically, using my original voice as she had previously requested. "I had to impress them to make sure I got the provisional license. Being stuck at bronze for who knows how long would have delayed finding out the information we wanted."
+
+"Sure, I get that. But does that mean you needed to use some unknown combination spell that I'm pretty sure required [Mana Weaving] to cast!?"
+
+I thought back to what I had done and how the guild mage had reacted to my spell. It definitely wasn't subtle, but in the heat of the moment, it felt right for something Sylvain would do. [Roleplay] had also agreed with me, so I went with it.
+
+"You probably have a point," I admitted. "Still, it got what we wanted, and I was able to register again under a new name. I'm unsure if changing my name using [Branch Head] was necessary, but I'm too afraid to take the chance. Plus, I even got us a second ring."
+
+"Do we even need a second ring? You have effectively limitless Mana, and I'm pretty sure I can't wear two of the same one."
+
+"No, but I can now experiment on this one without fear of breaking it. Maybe fill in some more missing glyphs, who knows? Also, now I've been doubly invited to the Keld Kingdom."
+
+"Does that even matter?"
+
+"Well, it would give me an excuse to ask for directions, or maybe get teleported close by? I actually have no idea where it is," I admitted. "And it's not like I could use Syl's invitation for Sylvain. It wasn't something I was planning, but it's been an unintended bonus for sure."
+
+Vee sighed. "Whatever, I give up trying to argue with you. By the way, I think your hat helped me."
+
+"Oh?"
+
+"That Ethan guy looked right at me when he was checking you out, then continued on with his business as if nothing had happened. Either he thought I was an ornament or your hat did something."
+
+I reached up and gave the hat a small pat. I wasn't sure if it actually felt anything, but I was grateful if it was helping Vee, even if I thought it was slightly creepy with how it did it.
+
+"Also, since when do you care so much about money?" Vee asked.
+
+"I don't, but Sylvain does."
+
+"Right… and the whole story about your paranoid buddy, is that all made up too?"
+
+"It's half true. Kurt, a guy I was kind of friends with, had told me he was originally extremely reluctant to join the guild for similar reasons. Then my other friend Tabitha bonked him over the head with her ledger over and over until he 'saw the light'. I kinda just twisted it to suit my narrative."
+
+"Did [Roleplay] come up with the idea, or you?"
+
+"A bit of both, I think. I'd even say that Sylvain's hoarding of his money is a trait I've drawn from myself, too. You've seen how I get about cores and don't like wasting slime."
+
+"That last one is true… except for when you blow it up," Vee pointed out. "Is Sylvain going to start exploding his money?"
+
+"No, he's not, but…" I paused for a moment to ponder. "You're absolutely right about what you just said. Why don't I feel my usual apprehension about using [Nitro Slime]? I was even frugal with using [Slime Shot] back in the day, but even now I have no qualms detonating slime. I'd argue I want to use it even more now."
+
+"Ignoring the fact that you just find it ridiculously fun to explode anything and everything, maybe it's simply the nature of orange slimes?" Vee suggested. "Any slime can shoot slime, but the nitro thingy is what actually makes the slime an orange slime, no? It would be the equivalent of breathing for it."
+
+"So because I see exploding as natural as breathing, I don't see it as a waste of slime?"
+
+"Something like that, I guess?" Vee replied with a shrug. "Going back to what you said earlier, you could try to use Syl's tag and see if it works while your name is Sylvain?"
+
+"That's a terrible idea. What if it triggers some security thing that says 'Hey, Syl or someone using her tag is here!' rather than just failing?"
+
+"Then change your name to Syl with [Branch Head] while [Identity Fabrication] shows Sylvain and try to use his one. If it fails, you can quickly swap back and try again. Say it's new, you just got it, and you're having trouble using it?"
+
+"I guess that's something worth trying," I replied. "I don't think they are powerful enough to flag who tried to use it, just that they are unauthorized."
+
+"If it does work like we think, then that means poor Syl can never join the Merchants Guild," Vee joked. "Since Sylvester is using her spot."
+
+"Shit… I didn't think of that. But back then, I couldn't officially change my name. I kind of hope [Identity Fabrication] is strong enough to fool their system. Then again, their registration system wasn't as involved as the Adventurers Guild if I recall correctly…"
+
+Unless my memory is deceiving me, I recall the Merchants Guild having me register my card, which they then added to the system. While the Adventurers Guild had you register and then gave you a crystal, I told Vee this, and she actually had a good idea of why it worked that way.
+
+"What if you register as a company with the guild, rather than as an individual? You'd need other people to be able to use the company card, right? So, you and all your associates register for the card, then register the card with the guild. Boom! Shared access to the assets and whatnot."
+
+Once again, I had to applaud Vee's reasoning as it made perfect sense the way she described it. She must have been a merchant or something in her past life, given her business acumen and wicked tongue.
+
+When we arrived at one of the suggested inns, opting for the cheaper options since Sylvain was a cheapskate, I had already swapped my official name using the Emblem. On the inside, I was feeling absolutely nervous about this somehow ruining my current persona. Still, I wanted to know the limitations of [Identity Fabrication] or how much I could abuse [Branch Head].
+
+It's great that I can access all of its functions without even equipping it. I certainly don't really care for the charisma bonus of having it actually on display.
+
+The innkeeper welcomed me in, and when I flashed my fresh tag, he seemed pleased to have an adventurer in his establishment. I said I'd book a room for a week and motioned to use my tag to pay.
+
+When I tapped the tag on the crystal, it flashed red for a moment.
+
+"I'm sorry, sir, is that actually your tag?" he asked, suspicion evident in his voice.
+
+Internally, I was screaming curses.
+
+Externally, [Roleplay] had taken the reins, and it was time to Sylvain the situation.
+
+"Blasted piece of shit! Did they trick me into taking my money?" I cursed, stomping my foot in outrage. "Burt was right, I knew the guild couldn't be trusted! I should have forced that Ethan fellow to come with me until he proved this blasted thing worked!"
+
+The innkeeper appeared surprised by the outburst, and either he knew Ethan personally or was just trying to defend the guild.
+
+"Sir, it might simply be an error! Would you like to try again?" he asked in panic.
+
+I growled as I looked at him and glared at the tag clenched in my fist. I quickly changed my name again using the Emblem.
+
+"Fine, try it again. But if it doesn't work, I'm going to get my money back one way or another!"
+
+I threw it on the counter in outrage, causing the poor innkeeper to frown at it. "I'm sorry, sir, but you need to use it."
+
+"Well, it didn't come with an instruction manual," I spat and picked it back up before shoving it at the crystal on his desk. This time it flashed green, and the innkeeper let out a relieved sigh as his shoulders slumped.
+
+"My apologies, sir, it looks like it was simply a small error for the first try. I think you'll have no issues in the future," he said politely.
+
+I also let out a sigh, turning down the fake rage to a simmer. "It's not your fault. Sorry for my outburst, but I've heard nothing good about the guild for years, and the day I finally give them a chance, this happens."
+
+"I understand… Can I offer you a free drink as an apology?"
+
+"Thanks, man. Sorry for shouting," I said and clapped him on the shoulder.
+
+The innkeeper still seemed nervous, but he managed to give a smile. He apologized a few more times, while trying to offer some excuses for why it might have failed the first time. He offered to let me try it again to pay for dinner or something, but I turned him down. Sylvain wasn't about to blow his money after all.
+
+After taking the key to our room and settling down, Vee laughed at my performance while we confirmed our previous theory.
+
+"Well, it's a good thing you were super paranoid about using your Syl name," Vee said.
+
+"With how many times my slightly neurotic has saved me, I feel like it can't be called that anymore. It's justified paranoia as far as I'm concerned."
+
+"Slightly is the understatement of a century," Vee replied with a chuckle. "Just be careful you aren't creating a self-fulfilling prophecy. Where you are so paranoid about something that you're the one who causes it to happen in the first place."
+
+I frowned. "That just makes me want to be even more paranoid!"
+
+"Well, shit. Hopefully, once we create our tree fortress, you'll stop that."
+
+I grumbled a bit as we began to calm down to discuss our next steps.
+
+"So what's the plan now that we are here and you're registered? I've still got no update on my quest, so either this Unc person is happy or he isn't desperate enough to add another exclamation mark just yet."
+
+"I took a look at the quest board, but there weren't any public quests related to mermen. I still don't know if they are like dwarves or goblins for the humans. Lots of brineling kill quests though…"
+
+"I guess we could spend the next day or two asking around. Maybe Sylvain can just say he's always wanted to be face-to-face with a merman. I reckon that could be appropriately interpreted as you want to meet one socially, or face one in battle."
+
+I nodded at Vee's suggestion. It would also give Vee some more time to experience the sights and sounds of her first-ever human city, and let Sylvain plant some temporary roots.
+
+"After that, I think I should take a boat quest. Salvage is probably the most profitable, while exploration sounds quite fun. If we are desperate, I could just be on guard duty for the fishing boats. I have a lot of options as a qualified hydromancer."
+
+"I guess it's just up to who's willing to hire a provisional silver member. Just do whatever we can to quickly get that removed and then see what quests it opens up for us?"
+
+"I guess I should also ask if there are any strange monsters that have appeared? Say that I love a challenge and to fight new and interesting things."
+
+"Wait… do we not even know what this Leon is?" Vee abruptly asked.
+
+"I have no idea. I don't think Unc ever brought it up."
+
+"Ugh!" Vee groaned. "This guy is supposed to be a god? He gave us the vaguest of vague directions and didn't even tell us who we are supposed to save, other than a name! How the heck does he expect us to help him!?"
+
+"Leon could be a hint… maybe?" I suggested. Not that I was defending Unc, as I was also feeling peeved by how these annoyances kept stacking up.
+
+"The only thing that comes to mind is Leon, Leo, Lion," Vee replied. "Actually, Leo, Leopard… Leo… Chameleon?"
+
+"Are any of those aquatic?"
+
+Vee sighed again. "No… There is a thing called a lionfish, but that's a stretch too far in my opinion. Not only do I not know if they exist in this world, but even the leo-lion connection is a big stretch on my part."
+
+"Well, this sucks," I admitted. "I guess mermen are our only real clue once again. If they are like dwarves, then we could ask if they have any natural enemies like kobolds; if they are like goblins, we could ask if they have any natural enemies."
+
+"That would make sense why they are hunting him down," Vee agreed. "Although seriously, if I wasn't excited to explore the ocean and islands, I'd call this whole thing off."
+
+I had to agree with my companion. For now, it aligned with our interests, but if it became too much trouble, I had no problem abandoning it for something more exciting.
+
+Well, let's see what tomorrow brings, I guess.

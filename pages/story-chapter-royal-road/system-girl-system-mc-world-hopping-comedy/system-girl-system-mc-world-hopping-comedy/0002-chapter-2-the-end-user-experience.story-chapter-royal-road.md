@@ -1,0 +1,85 @@
+---
+id: b2fee47b-9080-5707-83e6-e63e2a22ca3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: The End-User Experience"
+slug: 0002-chapter-2-the-end-user-experience
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 2
+ownLength: 1195
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2568719/chapter-2-the-end-user-experience"
+royalRoadId: "2568719"
+---
+
+The problem with surviving your own stupidity is that you rarely learn the correct lesson. In fact, you usually learn the exact opposite of the correct lesson, but with the added, dangerous reinforcement of success. Korg, my user, now operated under the firm belief that red berries were instruments of evil sent by a malevolent spirit, and that smashing them was a holy act. He had also earned a skill, Trample - Rank 1, for his horticultural crusade. The world was, apparently, grading him on a curve.
+
+My immediate concern wasn't his flawed theology, but his rapidly depleting Health bar. The poison was gone, but it had left him at a miserable 20 out of 50. A stiff breeze felt like a legitimate threat. He was also, according to the angry red bar that had reappeared at the bottom of his vision, still hungry.
+
+Okay, Ana, I coached myself, settling into my new role as the world’s most frustrated spirit guide. Damage control. Priority one: health. Priority two: sustenance. We need protein. And this time, no mushrooms.
+
+My system-level senses, a strange overlay on Korg’s own perception, picked up the rustling of undergrowth nearby. I focused, and a new data-tag popped into existence in my UI.
+
+Creature Detected: Wild Boar - Lvl 2
+
+Perfect. A starter mob. Slightly higher level, but a big, dumb target. My pre-loaded knowledge confirmed it was a source of Raw Boar Meat and Boar Hide. The plan was simple: point him at the boar and let his Might stat do the talking. No complex choices, no colorful temptations. Just a single, glowing target.
+
+I highlighted the boar with the now-familiar golden shimmer of an OBJECTIVE.
+
+Korg saw the glow. His stomach rumbled in agreement. "Food," he grunted, and began to charge, fists raised.
+
+Wait, you don't have a weapon! At least grab a rock! I tried to project a thought that went nowhere. He was a force of nature, and nature doesn't bother with tactical planning.
+
+The fight was exactly what you’d expect from a user with a Grace of 5: clumsy, brutal, and deeply personal. He swung his massive fists like wrecking balls, connecting more through the law of averages than any actual skill. The boar, in return, was a flurry of sharp tusks and surprising speed, goring his legs and sides.
+
+-3 Health (Tusk Gouge)-3 Health (Tusk Gouge)-3 Health (Tusk Gouge)
+
+His health dipped precariously close to single digits. Just as Korg reared back for a finishing blow, a flicker of movement from the trees caught my attention. Oh, great. A third party.
+
+Creature Detected: Human Hunter - Lvl 4
+
+A man in crude leather armor stepped from behind a tree, a spear leveled not at Korg, but at the boar. He saw an opportunity to poach a kill. He hurled the spear.
+
+And he missed. The boar sidestepped at the last second. The spear, flying true, slammed directly into Korg’s exposed shoulder.
+
+My non-existent stomach plummeted. We're dead. A spear to the chest cavity through the shoulder at 14 HP. That's a critical hit. Game over. The crudely forged iron spearhead burst through the flesh and muscle, emerging a good six inches out of his back in a spray of gore. It was a horrific, visually devastating wound.
+
+A notification popped up.
+
+-5 Health (Piercing Damage)
+
+My panic sputtered and died, replaced by pure, analytical confusion. I ran the numbers again. A spear straight through the torso, and it did less damage than three boar scratches? My QA brain took over, analyzing the data with cold, professional detachment. High Aegis stat mitigating base damage... no vital organs in the hit box calculation... The visual gore is a client-side effect, not representative of server-side damage.
+
+It was a feature of this ridiculous game world.
+
+Korg seemed to agree. He grunted, less in pain and more in annoyance, as if the spear were a bothersome splinter. He turned his massive head, looked at the hunter with an expression of profound betrayal, and let out a roar that promised bloody retribution. The hunter’s face went white. He dropped his quiver and fled, screaming something about a "demon bull."
+
+Ignoring the spear still protruding from his shoulder, Korg turned back to the boar and, with a final, earth-shaking punch, caved its skull in.
+
+VICTORY!+25 XP
+
+The boar fell limp. Korg stood over it, breathing heavily, his Vitality a terrifying 6/50. Then, its body shimmered, and a translucent blue icon appeared above it, the same icon as the LOOT tab in my UI. Curious, I focused my intent on the tab.
+
+ACTIVATE 'LOOT' MODULE ON CORPSE? (Y/N)
+
+A module? I thought there were only skills, a mistranslation perhaps? I didn't hesitate. Yes.
+
+The effect was instantaneous and deeply unsettling. The boar's corpse dissolved in a shower of pale blue light, leaving behind no blood or guts. In its place, sitting neatly on the flattened grass, were perfectly butchered chunks of raw meat, a rolled-up hide, and two sharp tusks. The process was horrifically clean, a sanitized, game-ified version of reality. It was the most efficient and utterly sociopathic butchery I had ever witnessed.
+
+Raw Boar Meat x5Boar Hide x1Boar Tusk x2
+
+Now came the next problem: how does a Minotaur with a spear in his shoulder carry five steaks? I instinctively focused on the INVENTORY tab. A simple grid of empty squares appeared in my vision. With a mental command that felt like dragging a file, I targeted the neat pile of meat. The chunks vanished from the ground and reappeared as neat little icons in the grid. My inner inventory management nerd wept with joy.
+
+Korg, meanwhile, was looking at his empty hands, deeply confused as to where his hard-won meal had gone. He looked up at the sky, a plaintive "Moo?" escaping his lips.
+
+Right. He can't see the inventory, I realized. It's my UI, not his. I dragged one Raw Boar Meat icon out of the inventory. The chunk of raw meat materialized in his hand with a soft pop. His eyes went wide. The Sky Spirit provided! Without hesitation, he shoved the entire raw steak into his mouth and began to chew.
+
++10 Health, -10 Hunger (Raw Food Consumed)
+
+His health bar jumped to 14/50. It was a start. He looked at his hand, then looked expectantly at the sky. I repeated the process. After the fifth steak, he was fully healed, full of energy, and still had a spear sticking clean through his body, which he hadn't seemed to notice.
+
+A notification pinged, this one from the cold, backend system.
+
+System Processing Power Awarded: 50Reason: Host Survived a Near-Death Encounter and Utilized Core System Functions (Loot, Inventory).
+
+I looked at my user, who was now curiously prodding the spear shaft sticking out of his chest. I was beginning to realize that my job wasn't to teach him how to play the game according to the rules. It was to find every bug, every exploit, every broken mechanic this world had to offer, and abuse them until we owned the place. This was a speedrun. And I was going to turn Korg into a walking, talking cheat code.

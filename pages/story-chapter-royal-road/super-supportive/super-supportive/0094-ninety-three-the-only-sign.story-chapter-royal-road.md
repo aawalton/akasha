@@ -1,0 +1,493 @@
+---
+id: b1e8e293-dbe0-53e1-ab22-6f30165923c8
+page-type-slug: story-chapter-royal-road
+title: "NINETY-THREE: The Only Sign"
+slug: 0094-ninety-three-the-only-sign
+partOf: super-supportive
+position: 94
+ownLength: 5237
+unit: words
+publishedAt: 2023-11-19
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1415044/ninety-three-the-only-sign"
+royalRoadId: "1415044"
+---
+
+93
+
+The first time Maricel Alcantara caught a glimpse of her own future, she was five.
+
+The jeepney put them out in front of the hospital on a hot, sunny day. Her mother was gripping her fingers with one hand and helping her grandmother with the other.
+
+“This is the wrong entrance,” her mother said, staring up at the tall building. “We have to walk.”
+
+“We can’t be late,” her grandmother fretted. “If we’re late—”
+
+“Nothing bad will happen. We won’t miss it. And if we do, it’s not like a long time ago. We just reschedule in a few weeks.”
+
+“What happened a long time ago?” Maricel asked.
+
+“Nothing terrible, baby,” said her mother. “When people missed their appointments for special medicine, they just had to wait a lot longer for their next turn. Your lola remembers that. Now it’s all easy and not so serious.”
+
+They walked across a parking lot. Maricel’s white dress shoes—the ones they’d bought for her cousin’s wedding—collected their first scuff when she kicked a piece of stray gravel.
+
+The scuff occupied her attention, even with everything else going on. She was afraid her mother would see it and chide her for ruining the good shoes.
+
+When they reached a set of metal doors covered in logograms, she stood on one foot and wobbled around, trying to hide the damaged shoe under her skirt.
+
+“Don’t play like that, Maricel,” her mother said, feeding a long paper card into a slot. “You’ll fall.”
+
+“What do the doors say, Lola?” Maricel asked, still wobbling.
+
+Her grandmother didn’t answer. She was staring at the entrance. “What if they don’t let us in? What if we’re too late?”
+
+The doors opened.
+
+As Maricel’s mother took her hand again and tugged her through them, a voice seemed to fill the whole building. “Good afternoon, Maricel.”
+
+“Someone is talking to me!” She didn’t know if it was a man or a woman.
+
+“That’s the System. It only does it in special places and on special occasions.”
+
+Maricel stared up at the wood carving hanging from the ceiling. It was a multi-toned sunburst, backlit with gold. “Mama, is it going to give us magic powers?”
+
+“Heavens no!” said her mother, laughing a little. “We’re too old, and you’re too young. And that only happens to a tiny, tiny number of people, anyway. It’s nothing any of us will ever have to worry about.”
+
+Oh, that’s right. Her family had explained it several times before today, but she’d gotten excited by the System speaking.
+
+Her grandmother was having trouble with her memory. It had happened to Lola’s mother, too. She had been sad, scared, and sometimes mad since it started. But now it would be all right.
+
+They’re going to help her. That’s why she’s here.
+
+A man in a strange outfit opened another set of doors for them, and they entered a room full of people. Some were sitting, some were milling around, a few were in wheelchairs.
+
+“It’s so crowded,” her mother said, gripping her hand more tightly. “Maybe I shouldn’t have brought Maricel. They said it was fine, but—”
+
+A hand fell softly on Maricel’s head, and she looked up from her scuffed shoe to see her grandmother smiling at her. “Other families are here. And she helps me feel brave.”
+
+“I’m very brave,” Maricel said.
+
+“Well…it is an experience for us all I guess. Maricel would you like to try some juice? I know you said—”
+
+“Wevvi!” Maricel’s eyes fixed on the heated drink dispensers her mother was looking toward.
+
+One of her friends had bragged that she’d gotten to drink it before. And that she’d seen an alien before. And now Maricel would be able to say, “So have I!”
+
+“It’s going to taste just like wevvi-flavored lollipops, and you don’t like those,” her mother murmured. “I don’t know why you suddenly decided you had to have it.”
+
+But she wove through the crowd and returned a moment later with three paper cups full of a lukewarm, white drink that smelled like spices. “Don’t spill it,” she cautioned as she handed Maricel one.
+
+Maricel held the cup in both hands and took a sip.
+
+“I love it!” she declared. She had decided to love it already, so there was no going back now.
+
+“You do?”
+
+“It’s sweet.”
+
+“Are you sure?”
+
+“I’m going to drink all of it.”
+
+Several minutes later, she was sitting on one of the hard chairs that filled the room, keeping the damaged shoe tucked out of sight behind her ankle and sipping from her mother’s serving of wevvi. She was determined to finish off every drop available to her so that she wouldn’t look like a liar.
+
+The Artonan finally appeared.
+
+“It’s not one of the wizards,” her mother said, more to herself than anyone else. “Looks like a regular person. Unless wizards don’t always wear the fancy clothes?”
+
+The Artonan was going to be a wizard when Maricel told her friends about this, that was for sure.
+
+There was a short speech she was too bored to listen to after the first few sentences, and then they started the recitation.
+
+“Can I say it, too?” she whispered after she’d listened to the adults speak a couple of lines.
+
+Her mother nodded and held a finger to her lips. It was a confusing combination of gestures, but Maricel decided it meant she could join in the reciting as long as she didn’t talk about other things right now.
+
+Repeating after the alien, she said she was a citizen of Earth, a resource world under the protection of the empire. She reaffirmed her personal commitment to the Contract in general. She agreed that in exchange for everything Earth had received in the past and would receive in the future, the Artonans could have…
+
+“What are ‘select warriors and attendants to work under the…’ um…the something ‘of the Contract’?” she asked her mother while they waited for their turns to touch a large glass panel at the front of the room. Whenever anyone pressed their hand against it, it glowed, and the Artonan gave them a polite little nod before they passed into the next room.
+
+“They mean Avowed.”
+
+“Avowed?”
+
+“Superheroes. And the other people who live on Anesidora.”
+
+“Ohhhh…” Then a much more worrisome thought popped into her head. “Why do you have to say the words? Are you sick, too?”
+
+Her mother squeezed her hand. “No. I’m healthy! I just wanted to have it recorded and get it out of the way in case I do ever get sick.”
+
+“I didn’t have to say it when I got my shots.”
+
+The shots had happened a couple of weeks ago, and they were a subject she brought up as often as possible, to remind her mother of the fact that she had not shed even a single tear.
+
+“Your vaccines were different.”
+
+“You said the Artonans made some of them!”
+
+“They did. And I signed a paper that mentioned I agreed to the terms of the Contract then, too. Today is more formal because all of these people are getting special healing, instead of just a few shots. This is a part of it. A ceremony to mark the occasion.”
+
+“There were a lot of shots.”
+
+Her mother grinned and hugged her close. “All right. A lot of shots.”
+
+“Big ones.”
+
+“Huge ones,” her mother agreed, right before she pressed her hand to the glass panel.
+
+It glowed white, and the Artonan person gave her the nod of thanks.
+
+Maricel stood on her tiptoes and slapped her own hand against the panel. Nothing happened.
+
+Very disappointed, she slapped it again.
+
+A hand tapped her on the shoulder. She looked up into a brown face that was a little too purplish to match anyone else in the room. She thought the Artonan was a woman, but it was mostly because they had a colorful embroidered hairband.
+
+“Too young,” the Artonan said in a heavy accent. They smiled at Maricel. “Glow stick!”
+
+From their pocket, they removed a bright pink tube and handed it to her.
+
+“Thank you,” she said.
+
+She waved it around, pretending it was a magic wand, while she followed her mother and grandmother through to the next room.
+
+******
+
+“Maricel, did you hear? Dreaming Bear died.”
+
+She looked up from a video her grandmother had just sent her of her youngest brother trying and failing to feed himself breakfast. He was covered all over in what looked like smashed banana.
+
+One of her friends was running toward her across the expanse of pavement  in front of their junior high building.
+
+“Who?” Maricel asked.
+
+“Dreaming Bear! From China. She was trying to bring in a runner our age who was being held for pick-up and transport to Anesidora, and he killed her.”
+
+Oh. Must be a superhero. She didn’t care, but she didn’t mind pretending for Carmen’s sake.
+
+“That’s terrible.”
+
+Carmen nodded. “Anyway….Jacob?”
+
+Maricel groaned. “I haven’t decided. He’s so, so sweet. But I’m not sure I feel like that about him.”
+
+“You don’t have to be sure! He’s perfect for you! Say yes.”
+
+“I don’t—”
+
+“Say. Yes.”
+
+Maricel smiled. “Maybe.”
+
+Carmen slapped both hands to her face dramatically. “Okay okay! Let’s have school.”
+
+“Let’s have school,” Maricel agreed.
+
+Arm in arm they walked toward the front doors. A gaggle of their other friends were gathered in between a pair of palm trees by the entrance. Her phone pinged again, and she looked down at it.
+
+This time her grandmother was forwarding a link to a website for a girls’ swimming club. Maricel smiled. She’d told her lola she thought she should try to find a hobby like so many of her classmates had. Maybe swimming. It seemed like junior high was a time when you were supposed to want some special thing for yourself, and Maricel really didn’t.
+
+She loved hanging out with friends, playing with her little brothers, and spending time in the kitchen with her mother and grandmother, talking about anything and everything while they cooked.
+
+It’s too boring, isn’t it? I’m supposed to want more, I think. Since everyone else seems to.
+
+She’d started telling people she wanted to be a doctor, just so that she wouldn’t sound like she had no dreams at all.
+
+“It’s a lucky thing to be happy with exactly what life has given you,” her grandmother had said last night when she brought up the problem while they were making adobo together. “If you’re happy now, you’ll probably be even happier when you’re a swimming doctor!”
+
+Then she’d laughed and laughed.
+
+******
+
+“Stop squirming!”
+
+“I’m not!”
+
+“Nathaniel! You are wriggling like a fish. How am I going to know if you’re tall or not?”
+
+Maricel knelt beside the door to her parents’ bedroom, trying and failing to look serious. It was evening, and the middle child in their family had insisted on being measured before bed because his teacher had said he might not be the tallest boy in the class and he wanted proof to the contrary.
+
+“You can do it, Maricel!” her step-father’s voice called enthusiastically from the end of the hall.
+
+“Stretch your neck, Nathaniel!” her mother cried.
+
+“If he’s short, we’ll feed him more!” said her grandmother.
+
+Maricel rolled her eyes. “How did I get the hard job when you’re all right here?”
+
+Nathaniel finally stopped bouncing and stood with his back flat against the door. She took the measurement.
+
+She informed him that he was a very average height for a seven year old, and then she tickled him until he forgot to be disappointed about it.
+
+What do I want to be in the future? thought Maricel, as she drank a glass of water and climbed into bed that night.
+
+A note was stuck to the underside of the shelf over her bed, taped up beside the pictures of her and Carmen wearing matching hats at the end of last year. It was a reminder that she was going swimsuit shopping with her mom next Saturday.
+
+Nothing more than this. I don’t want to be anything more than this. I really am so lucky.
+
+The System chose her that Friday. As an S-rank.
+
+It never occurred to her that she shouldn’t tell her family. She thought she needed their help to keep it secret. She thought it was obvious, from the very moment that inhuman voice whispered in her ear, that it had to stay a secret.
+
+Because Avowed got sent away, and they would never want her to be sent away.
+
+But after days of crying and shouting, and Maricel not understanding how everything was going so wrong when it had never, ever gone wrong before…
+
+…they took her to the consulate.
+
+Her family took her there themselves and made her register. Because it was safer for her, they said. Safer for you and for us, Angel, they said.
+
+Because her powers would be frightening. Because it was the right thing to do. Because they could never hide it forever.
+
+There was a good future ahead of her. A great future. A future where she could have so many extraordinary things.
+
+Please stop crying, Maricel. You’re an Avowed now.
+
+And not just any Avowed. A rare, amazing S-rank. You might see other worlds. Because of you, people like your grandmother get to live full lives. You yourself might live for centuries if you’re lucky.
+
+If you’re lucky.
+
+She never did go shopping with her mother for the bathing suit.
+
+******
+
+Stop crying, Maricel, she thought, lying on floor in a bathroom in Anesidora. She was sobbing beside a tub with a turtle-patterned shower curtain.
+
+Someone knocked on the door. She ignored them. She’d ignored Alden Thorn’s texts, too.
+
+I shouldn’t have done that. He’s nice.
+
+She was too miserable to care that he was nice.
+
+I want to go home. I want to go home. I don’t want to live my life just seeing pictures of them all through screens.
+
+And she couldn’t stand to set foot beyond that door, into that party where Konstantin was bouncing around making plans to surprise his parents, and so many of those other people who had happy families, too, were acting like it was a chore to have curfews, rules, and love.
+
+She kept trying and failing to fall into some kind of synch with them. It wasn’t working.
+
+She fixed her eyes on the door. This family actually marked their children’s heights there, on the other side, in permanent ink. They could keep on doing that for years to come.
+
+I’ll probably never measure my little brothers again.
+
+Even if she did, it would just be some odd request she made herself on a rare visit.
+
+A text appeared. The sender’s name was J. He was a Wright in intake.
+
+[Are you sure?]
+
+She thought of the heights on the door. She thought of her family. [I can’t. You shouldn’t either. It’s dangerous.]
+
+[I know what I’m doing. There’s plenty of time if you change your mind.]
+
+She wiped her face on her hoodie.
+
+[Maricel, we’re doing the punch thing if you’re still here.]
+
+That one was from Alden. He was trying again.
+
+Thanks.
+
+She’d panicked when Tuyet texted to ask where she’d disappeared to and lied about leaving with a headache. Stupid. Completely stupid.
+
+There was no way to leave the apartment without being spotted by forty people, but if they were all about to start their drinking thing…maybe she could make it while they were distracted. Maybe her new roommates wouldn’t see her and start to hate her.
+
+Carmen hasn’t called me in two weeks. I don’t think she really wants me to call her anymore.
+
+She was jealous of Maricel. She was tired of Maricel’s complaining.
+
+Why didn’t the System pick her? Maricel thought as she pulled her hood up over her head and listened for the sounds of the drinking contest getting underway. If it had just picked her instead of me, everyone would have been happy.
+
+The giant suitcase stood, packed and waiting, by the door. Smaller bags and containers were strapped to it with all the belongings that had been collected at the last minute. The apartment was clean. The furniture was arranged so that it looked like it had never been used for target practice. Victor was in his carrier, and Alden was making a noble effort to lint roll every last strand of cat hair from the sofa.
+
+Boe sat crosslegged in the armchair beside Victor, holding the smashed aluminum disc that had once been a soda can and watching Alden work.
+
+“You’ve got to tell me the second you get back home!” Alden tried to inject some energy into his voice. “You have to make up fully with Jeremy. And you should swing by the consulate and say hi to Gorgon for me.”
+
+“I will. Gorgon was intensely upset when you went missing.”
+
+Alden peeled another layer of adhesive off the lint roller. “You’ve read Gorgon?”
+
+“Yeah. On purpose. He’s a member of an unknown species chained up for crimes, and you were feeding him snacks. I wanted to make sure he wasn’t having sinister thoughts toward you.”
+
+“Boe.”
+
+“What?”
+
+“I think Gorgon’s a good person.”
+
+“Well, he obviously likes you, too. He seems pretty fond of the people who walk through the lobby in general, as long as they’re not there to gawk at him and they don’t dirty the place up.”
+
+Alden looked over his shoulder. “Really?”
+
+Gorgon didn’t offer humanity a lot of praise in his experience, but he had seemed fascinated by Alden’s memories of the city.
+
+Boe was nodding. “Yeah. He’s not easy to understand, even when you’re feeling what he is. He’s got very alien emotions. Sometimes, he seems to make an effort to mimic human expressions and body language—quite social of him if you think about it. But it can be misleading. I knew he…appreciated you, but I would not have expected him to feel something similar to anguish when you went missing. I couldn’t take his alien mess on top of my own human one, so I steered clear of his feelings after that brief glimpse.”
+
+Alden felt rather touched. “And he says we’re not friends. Do you think he wants a robot vacuum for the lobby? I’ve been thinking he might like one.”
+
+“Go for it. If he hates it, I’ll take it.”
+
+A text message arrived, and Alden read it with a weight like an anvil in his stomach.
+
+“Car’s on schedule,” he said lightly. “It’ll be here in ten minutes.”
+
+He forced himself to stop aggressively rolling up cat hair, and he took a seat on the sofa.
+
+“I’ll be back soon,” said Boe. “Maybe not back here, but back. You can brain text me until our synapses go on strike.”
+
+“I remember saying something similar when I first told you I was an Avowed. And you told me long-distance friendships never worked out like people hoped they would.”
+
+Boe cleared his throat. “I must have been having an uncharacteristically stupid moment. It’ll work out. We’re bound in profound new ways now. You know about my powers. We’ve decided to be a heroic tandem. We’ve wept together.”
+
+“I don’t recall you weeping.”
+
+“I offered to weep with you. It’s the same.”
+
+Alden smiled. “You did. Sorry. I don’t mean to mope. By the way, before you vanish, there’s something I need to ask you to do for me.”
+
+His friend stood up and stretched. “Sure. But you’re feeling nervous suddenly—”
+
+“You’re still reading me then? That’s fine. I’m nervous because it’s important to me that you say yes and that it not be some uncomfortable big deal between us.”
+
+Boe lowered his arms. “What is it?”
+
+“Don’t interrupt me before I’ve finished explaining why I made this decision. I’m sending you around two million argold.”
+
+Boe’s mouth fell open.
+
+“Don’t interrupt. It’s about half of everything I have. It’s not a gift. If you’re willing to take large sums of money as a gift, I’d love to give you some, but I know you won’t. This isn’t a present for you. It’s not me being overly generous or self-sacrificing. It’s money for survival. Yours. Connie’s. Jeremy’s. Victor’s. I want you to use it in whatever way you think is best to make sure that all of you stay alive, healthy, and safe.”
+
+Alden leaned forward and clasped his hands together. “It’s better for me to split my resources this way. What if I’m off-planet, and I can’t communicate with home, and Connie has a major accident? What if you get a summons? It would probably be for an emergency in your case since you haven’t formally agreed to the Contract. I’d really like for you to have enough money to call and let me know what’s happening. Or, if they won’t let you because you’re empathing at the Artonan equivalent of a black ops site, I want you to have enough money to do whatever it is you need to do to get back home safely.”
+
+He bit his lip. “Also…I consider it not unlikely that you will one day have to go on the run from actual superheroes. For being an unregistered. A pretty powerful one. And if that happens, I want you to already have some kind of insanely clever escape plan in place. One that’s foolproof because you spent, like, a million dollars on it. I don’t want to agonize over the escape plan, or try to make it up for you from the other side of the planet. You make it up. And buy yourself whatever it is you need, so that I don’t wake up one morning and see you being dragged to jail or stuffed in a bodybag by Skiff and Sharon.”
+
+He sat back and waited for Boe’s answer.
+
+“How dare you?” Boe said quietly.
+
+Alden started to protest.
+
+“How dare you think that Skiff and Sharon could defeat me?” Boe continued. “He trips over his flip-flops. She deleted her own last name. I could take both of them at the same time and not even be late for school.”
+
+Alden smiled in spite of himself. “So someone more awesome then. Big’nLittle Snake. But, seriously, you’ll take the money and do all of that with it?”
+
+“Yes,” said Boe. “And I’ll try not to let my feelings of inferiority get in the way of spending it. Avowed life gets expensive. I want you to have millions of dollars to keep yourself safe. It makes sense you want to put your own millions toward keeping the people you worry about safe. If we get separated again due to some freak event, we each have a significant hoard to make sure everything that needs to be taken care of gets taken care of.”
+
+Alden sighed with relief. “Thank you so much. It’s a huge weight off.”
+
+Boe ran his fingers through his hair. “Around six million dollars. That’s a lot. I’ll ask the System to let me put your name on the account, so that you can access whatever’s in it whenever you need to. Can I ask you for a favor?”
+
+“Of course.”
+
+“If I ever do get summoned or accidentally exile myself for a long time, would you check in on my parents?”
+
+Alden was surprised. Boe gave him a knowing look. “I realize you don’t like them. They contribute nothing of worth to the world, and I doubt they even wonder where I’ve run off to when I’m gone. If you could read my emotions, you’d know that I don’t like them much either. But I do love them. And worry about them. So…”
+
+Alden was very surprised.
+
+And Boe’s feeling you being surprised that he loves his own family…crap, empaths are hard to be cool around.
+
+His face heated. “I’ll add them to the list of people we look after.”
+
+“Don’t put a lot of time and energy into it. It’s a thankless task. Just check in every three months or so if I’m not here to do it and make sure they’re not living on the streets.”
+
+He took off his glasses and picked up their case from the armrest of the chair. “And mail me these. They’re much nicer than the pair I buried in Jeremy’s yard.”
+
+They stared at each other across the coffee table.
+
+“Why does it feel like we’re never going to see each other again? That’s stupid right?” Alden said finally.
+
+“It is. We’re just freaked out because the last time we said goodbye we almost didn’t get to see each other again.”
+
+“So you’re freaked out, too. At least it’s not just me.”
+
+[Good morning, Alden! This is your driver, Gilbert. I’m parked in front of your building. I’m at your service for the day, so take your time. If you need help with your bags, let me know.]
+
+Dammit, Gilbert. Couldn’t you have caught a few red lights?
+
+“My ride’s here.”
+
+“My ride’s here!” Boe said with fake cheer, gesturing toward the cat carrier beside his feet. “And since I’m about to be completely beyond your wrath, allow me to explain something.”
+
+Alden raised an eyebrow.
+
+“I want you to picture me, months ago, trying to hold my shit together on a really bad day. Connie was crying in the bathtub. Jeremy was obsessively vacuuming your house because he couldn’t figure out how else to help. And I was standing ankle deep in garbage outside because the bag had broken. Then Victor—who had been missing for like half a week—sprinted by with a possibly poison-infused rat in his jaws.”
+
+“I knew it! You did do something to my cat!”
+
+“Yes. I chased him yelling, ‘Here, kitty! Give me the rat. Be a good boy. Stop, you orange asshole! That’s a furniture truck!’”
+
+Alden gasped. “He ran at a furniture truck?”
+
+“Oh, he got run over by the furniture truck. Crouched right there in the middle of the lane while it skimmed his ears doing forty miles an hour. Luckily it had high ground clearance. So I run out into the street, grab the cat, grab the still wiggling rat, and I decide we can’t go on like this anymore. It’s time for Victor to retire from his wandering criminal lifestyle.”
+
+Boe leaned down and stuck a finger through the crate door to pet one of Victor’s ears. “I started lightly boosting his happiness whenever he was chilling out on the sofa and being sane.”
+
+“That’s all?” Alden asked, confused. “And it completely changed his personality?”
+
+“I also did it whenever Jeremy was talking to him or petting him.”
+
+Alden imagined Boe stalking Victor around, waiting for the cat to sit on sofas or approach Jeremy so that he could use his powers to engage in feline emotional massage.
+
+“So you do practice Skill 2 sometimes.”
+
+“It’s different with animals. They have emotions; but those emotions aren’t like ours, and they don’t intrude on me in the same way. And it’s not unethical to make a pet feel better when it’s engaging in safe and healthy behavior, I don’t think? It was like treat training him. Only my treats are zero-calorie.” He frowned. “I shouldn’t have done it, though.”
+
+“Victor does seem happier now, so I guess it’s—”
+
+“He’s great. He’s learned how to enjoy the good life as a house cat finally. He got over some of his anxieties and his hardbitten street cat trust issues. He’s only chunky because empty food dishes make Jeremy panic and think he might’ve forgotten to feed him at all.”
+
+He was still petting Victor through the door. “But fixing even an animal’s problems this way is too tempting for me. It makes me think, ‘Well, it worked out that time, didn’t it? Isn’t everyone better off now? I didn’t hurt anybody. What if I do it just a little bit more…?”
+
+“And that’s a slippery slope,” Alden concluded.
+
+“It’s the blackest of ice.” Boe straightened and cleared his throat. “So now I’ve confessed to being a cat whisperer. I’ve stolen half of your wealth. And I’ve made you late for your luxury car service. My work here is done.”
+
+“God, I’m gonna miss you.”
+
+“You’ll be so busy learning to coexist with the other superteens, you won’t even have time to miss me before we see each other again.”
+
+That’s not true, thought Alden. I already do.
+
+Boe waved. “Bye for now. Pick up your suitcase. Try not to save too many lives until I’m back home and I start to catch up. ”
+
+“Stay safe, Boe.”
+
+“Let’s both do that.”
+
+A few seconds later, he was gone.
+
+Alden took a deep breath and let it out. Then he gathered the pile of clothes from the floor, wrapped them around the glasses case, and collected Victor.
+
+His skill had completely recovered from last night’s experiments, and the bulging suitcase by the door was light when he lifted it, even though his sense of his current entruster’s location was strangely absent. He maneuvered himself awkwardly out into the hall with all of it and stood collecting himself for just a moment longer.
+
+The lines of doors stretched in front of him. A girl was staring at apartment 909. She had one of the welcome bags in her hand.
+
+She looks scared.
+
+Alden walked toward her.  “Moving in today?”
+
+She took in his ridiculous number of belongings with wide blue eyes.
+
+<<Yes,>> she said in Russian. Then she laughed uncomfortably. <<But I’m just standing here instead of going into the room. Are you moving in, too?>>
+
+“I’m leaving,” said Alden. “Don’t be nervous. This is an okay place. The Warren is the best part of intake. Rabbits are a really friendly group.”
+
+Now that it was over, he wished he’d been in a better frame of mind for the past few weeks so that he could have appreciated it all more.
+
+<<My pre-arrival counselor said the same thing.>>
+
+“You’ve got this.” He didn’t have hands free to give her a thumbs up, so he lifted Victor in salute instead.
+
+He piled into the elevator with all his stuff, and he didn’t bother to stop on the eighth floor to visit the counselor’s desk. Neha had left a few days ago, off to work on Artona I for one of her long-time employers. She’d sent him a personal e-mail encouraging him to call her if he ever needed anything and giving him the name of a financial advisor she recommended.
+
+Gus had talked to him a couple of nights ago and reminded him that a Rabbit should be well-dressed and well-prepared for every occasion and ready to act with less than a minute’s notice.
+
+<<And that applies twice for Rabbit superheroes!>> he’d announced. <<When you are ready for your first tuxedo, you call me. I will show you how to dress for any party on any planet.>>
+
+Then he’d gone back to swearing violently at a goalkeeper from Argentina.
+
+The elevator opened onto the empty lobby, and Alden strode out the front doors toward a waiting SUV.
+
+Intake was a place for people who were just passing through. After the professional cleaners went over the apartment and removed every last trace of cat hair, the only sign Alden Thorn had ever lived here would be a line of high scores on a pinball machine.
+
+***

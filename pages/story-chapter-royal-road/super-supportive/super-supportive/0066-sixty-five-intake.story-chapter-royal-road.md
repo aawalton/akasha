@@ -1,0 +1,377 @@
+---
+id: 07d104bb-e61d-5e74-8fc9-265856e32c41
+page-type-slug: story-chapter-royal-road
+title: "SIXTY-FIVE: Intake"
+slug: 0066-sixty-five-intake
+partOf: super-supportive
+position: 66
+ownLength: 4835
+unit: words
+publishedAt: 2023-08-17
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1313034/sixty-five-intake"
+royalRoadId: "1313034"
+---
+
+“So,” Alden said at the conclusion of a very long voicemail to Boe, “Jeremy is an angel among men. And I can’t believe you thought you could really get him to hit you. You bastard. I will be calling you every day and leaving messages, even if you never reply. But you’d better. I’m sorry for…I’m just sorry about it all. Take good care of yourself. Talk to you tomorrow.”
+
+He ended the call and waited a minute just in case there was going to be a reply. When there was none, he flicked off the kitchen lights and stepped out of the apartment.
+
+As the door shut behind him, he heard the bolt slide into place automatically. It opened in response to a command he could give through his interface, too, so there was no need to keep track of keys.
+
+“Oh, hey!” said a voice. “New neighbors!”
+
+Alden looked up to see a tall blonde girl exiting the apartment across the hall. She was wearing faded jeans and a long-sleeved cropped shirt. She had a mild Southern drawl, and she was carrying a tray covered in clear plastic treat bags.
+
+She’s gorgeous, Alden thought.
+
+Then he had to stop for several seconds and analyze that thought. Because it had come on confusingly strong and quickly.
+
+He did notice when other people were nice to look at, but it was in the same way that he took note of whether or not he liked the appearance of a plant or a painting. He had been trying to avoid overthinking it or defining it before he was summoned. Not quite getting something that was so important to others made him feel left out.
+
+Either being away from his own species for too long had done something unexpected to him, or the neighbor girl was really, ridiculously beautiful.
+
+It’s the second, he concluded. I’m still me. She’s just an extra amazing painting…wait, is that an okay thing to think about someone else?
+
+She was the same height as him. Athletic. She had one perfectly charming dimple to go with her warm, perfectly charming smile. Her skin was flawless. Her eyes were an impossible shade of gold, with brighter gold around the pupils. Her face was so symmetrical, except for the strategic dimple, that Alden was sure he’d need a computer to find so much as an eyelash out of alignment.
+
+“Do you want a treat bag?”
+
+“Sorry?” He shoved away his fascination and blinked down at the hand she’d just extended.
+
+“A snack bag!” she said brightly, waving it at him. She was still propping the door to her apartment open with a hip. “It’s got my card on it. I made enough for everyone on our floors.”
+
+“Oh. Thanks.” He took the bag. Even her voice was remarkable. She sounded like she could host radio shows.
+
+“It’s homemade granola. You should take some for your roommates.”
+
+“I don’t actually have any,” Alden told her before she could pass him more bags. “I’m the only one in the apartment for now. I’m Alden. From Chicago. Hi.”
+
+“My fellow ex-American! I’m Natalie. From South Carolina.”
+
+She tapped on the business card she’d attached to his bag, and he glanced down to see that it said Natalie Choir — Room 914 —Cook of the Moment (price on request).
+
+“Cook of the Moment!” Alden felt enlightened. “The S-rank Rabbit skill.”
+
+He was betting she’d gotten some extra foundational enhancement points to allocate as an S-rank, and that most of them had gone into Appeal.
+
+Natalie beamed. “You’ve heard of it?”
+
+“Yes. Awesome choice. I heard one woman who has it stopped a deadlock at the UN with a single pasta dish.”
+
+“Oh my gosh,” she gushed. “She’s so cool! When I got here a couple of weeks ago, and word went around that there was a new Rabbit who’d chosen it, she teleported in from her job on Artona II just to make dinner for me and my roommates.”
+
+“What was that like?” Alden asked curiously.
+
+She stared off into the distance. “Dangerous. One of my friends cried when we had dessert because the meal was almost over.”
+
+Alden was now really looking forward to eating the granola. But maybe not in front of other people.
+
+“Thanks for making it vegan,” he said, holding up the bag.
+
+“Oh yeah! Vegan, gluten free, no peanuts…for my advertising snacks I always try to hit as many diets as I can without ruining flavor. Wait, how could you tell?” She peered down at her tray. “It doesn’t look off or something, does it?”
+
+She sounded anxious about it. As if someone rocking an S-rank skill might really need to worry that her free, magically perfect food would offend a bunch of hungry teenagers.
+
+“I’m just a good guesser. It looks great.” He tucked it into the pocket of his hoodie and headed down the hall.
+
+Natalie Choir let her apartment door shut and tagged along after him.
+
+“I haven’t seen you around. Did you just get in yesterday?”
+
+“Last night,” said Alden. “You said you’ve been here two weeks?”
+
+“Yeah. Me and all my roommates arrived within a couple days of each other. They try to fill whole apartments at once, so don’t worry. You won’t be on your own for long!”
+
+Alden suspected he would, but he didn’t see any reason to explain that. “How many Rabbits are here right now?”
+
+“A hundred and eighty-three,” she said promptly. “Now four, since you’re here.”
+
+“You memorized the exact number?”
+
+“For the snacks!” She held up the tray again. “I’ve already delivered another one of these to our counselor’s desk.”
+
+She kept filling him in while they waited in a large community space for the elevator to arrive. There were beanbag chairs and an air hockey table. Floor-to-ceiling windows looked out on the next building over. Natalie said that apartment tower was almost entirely for Brutes.
+
+“Staying here in intake has been way more fun than I thought it would be,” she said. “I was going to go straight into the School for the Arts at Celena North High as soon as I arrived, but then I decided it was better to settle in for a couple of months after all. It’s a relief, you know? To be surrounded by other people who are totally new to the island.”
+
+“I can see that. It’s probably easier to figure it all out with people who are in the same position.”
+
+Of course there would still be newbies in the Apex high schools’ dorms, but a larger percentage of the kids their age would be native Anesidorans.
+
+“Shapers and Healers are on the floors below us,” Natalie said. “And Meisters and Adjusters are above. There are only a few U-types here right now, but they have their own floor at the top of the Brute tower. They don’t mingle a lot. Wrights are in that square, blocky apartment building. And Sways are over there,” she pointed at a low brick structure that looked distinctly prison-ish. “It’s actually very nice inside. They mingle even less than the U’s. I think they have their own community building activities for credits. Oh, and any ultra-rares usually get mixed in with the Healers or us Rabbits.”
+
+She paused for breath just as the elevator arrived.
+
+They stepped inside, and Alden pressed the button for the next floor down. It opened onto another community area, this one dominated by a large circular desk with a scrolling digital sign across the front that listed currently ongoing dorm activities. Right now, it said “breakfast” in multiple languages.
+
+New counselor, Alden noted as he stepped out of the elevator and spotted a young woman with brown skin and an edgy-looking undercut hairstyle. She was filling some of the welcome gift bags. She must be the day shift person.
+
+She didn’t wear a physical name tag, but she had one through his interface. “Neha” floated at the top right corner of his vision.
+
+“Hi, Neha!” Natalie said, setting the tray of granola beside another one that was already there.
+
+“Hey again, Nat.” She had an Anesidoran accent. She looked past the girl to Alden.
+
+“And Alden,” she added.
+
+“Do I have a name tag, too?” he asked, surprised.
+
+“No. You can if you want one. There’s a setting. But I actually just got in and got an update on your situation. It had a picture of you from last night. And there’s a note saying you arrived without luggage. I was about to call and ask if you needed someone to go get basics for you.”
+
+Alden shook his head. “I’m going to wander around the neighborhood and buy some stuff on my own, if that’s okay?”
+
+“You’re not a prisoner. Go. Be free. Call me if something goes wrong during the day, even if it’s just something minor. There’s a loosely enforced curfew while you’re staying in intake, but it’s midnight. Until then, nobody will bother you.” She paused. “You want a buddy?”
+
+“A buddy?”
+
+“There are volunteer mentors who take new kids and show them around. I can have one meet you?”
+
+“No thanks,” he said. “I’d rather just explore. But I wanted to ask about having visitors in the dorm…”
+
+“Depends on the visitor. Random locals—no. They would flood the place if we let them, and it’s supposed to be a haven just for you new kids. Pre-approved tutors or class mentors—yes.”
+
+“Family?”
+
+“Oh. We can’t teleport in guests from home for the first few months at all,” Natalie said in a sad voice. “Didn’t your pre-arrival guide tell you?”
+
+Neha glanced between her and Alden questioningly. She raised an eyebrow at him. She obviously wasn’t going to bring up his business in front of people without his permission.
+
+He figured it would all get out eventually, but there was no reason to rush it.
+
+“Thanks anyway,” he said. “I’m going to walk around and buy myself a toothbrush.”
+
+“Dental hygiene,” said Neha, turning back to her gift bag prep. “Always important.”
+
+Before Alden left the building, he stopped briefly on the second floor to check out the cafeteria. But as soon as the door opened and the sound of a throng speaking a dozen different languages hit him, he retreated.
+
+So many people. Too much input. Not even the smell of hash browns could tempt him.
+
+He shook his head at himself as he strode out the building’s front doors into the cool, clear morning. I wish I could have a quiet first meal with Kibby. Does that make me crazy?
+
+He turned down the sidewalk and headed toward a set of gates that led onto the street. A security guy opened them for him, and he was officially walking around in F-city as a proper Avowed for the first time.
+
+It was so surreal.
+
+Here was a human city, full of city sights and sounds. There was traffic. People were out jogging. Someone was walking a shitzu.
+
+A week ago, Alden had been living in a vault on a silent moon with a single other person.
+
+He wondered if he’d have felt just this out of place if he’d gone back home instead of coming to Anesidora.
+
+I think it might actually have been worse, he decided as he watched a guy around his own age do push-ups in the narrow stretch of grass along a bike path. He had an honest-to-goodness boulder on his back as an extra weight. One of the green ball caps they gave you in your welcome gift bags at the dorms was on the ground beside him.
+
+Where does one purchase a boulder anyway? Did he bring it with him from home?
+
+Anesidora was artificially made. It wasn’t like the other teen could have dug his pet rock up out of the ground or taken it from a convenient mountain.
+
+I think…it might be easier to try to fit in with boulder guy than it would be to try to fit back into my old life. I hope so anyway.
+
+He kept walking. His interface offered him maps and notifications about the businesses he was passing, but he turned the helpful feature off with a thought. He decided he wanted to see things with his own eyes and figure it all out the old-fashioned way.
+
+It was a distraction. Distractions were good. His new affixation was still a giant weight on his mind. He wanted to ignore it.
+
+I think this is a low-rank neighborhood, he decided as he watched a yoga class rolling out their mats through a studio window.
+
+It wasn’t like locations in F-city were deliberately sorted by rank and class. That was a more common thing in Apex, to make sure really powerful people could use their talents without accidentally killing squishy ones like Alden.
+
+But even here on the southern portion of Anesidora, people tended to group together with those who had similar needs and lived similar lifestyles. So maybe this was a D & F-heavy community. Boulder Dude was by far the most conspicuously superhuman person Alden had spotted around here, and he’d come from the dorms.
+
+He walked on, peering through shop windows and people-watching.
+
+The weather was around fifty degrees. The sun was shining. Alden found a Mexican restaurant with a walk-up breakfast window and ate an unholy amount of chips and guacamole while he sat on a bench and counted drones in the sky.
+
+He tried to remember if he’d ever seen a bird on Anesidora apart from the decorative geese and ducks in the parks, and he couldn’t.
+
+I hope we have seagulls or something at least. No birds at all would be depressing.
+
+A voice call notice flashed, and he answered when he saw it was Neha from the dorm.
+
+“Hey,” the intake counselor said. “I was going to call you right after you left, but mornings are always busy. Took me an hour to duck into my office so we could talk without being overheard. You said you wanted to bring family into your apartment?”
+
+“I booked a teleportation slot for my aunt. I’m going to pick her up in an hour and a half.”
+
+“You haven’t seen her since you got back home?” She sounded sympathetic.
+
+“I haven’t. I literally teleported in straight from the Triplanets last night.”
+
+“Gotcha. So, like Natalie said, there is a rule against having family visitors, but it’s not a dorm rule. It’s a delay in guest approval for newcomers to the island in general. As far as your own guest list goes, they must have decided to treat you like you became a resident half a year ago when you were registered.”
+
+“Why no guests for new people?” he asked.
+
+There was a brief pause. “It’s because a lot of kids are homesick, and seeing family regularly actually makes it harder for them to adjust. Some people spend sixteen hours a day staring at their old life through their interface. We discourage that however we can, but it happens way too often. In some cases there are also just…family dynamic problems. Parents who want to involve themselves way too heavily, coattail riders, anti-alien cultists who’d rather murder their own children than see them under the Contract…”
+
+Hopefully not too many of those last ones, Alden thought.
+
+“Your intake period is your transition,” Neha continued. “Between whoever you were before and who you want to be now that you’ve got new powers, new responsibilities, and a new home. And it’s a big transition. We try to make sure everyone gets a fair shot at making that leap in their own way, with as little outside baggage as possible.”
+
+“That makes sense to me.”
+
+“Well, I’m glad. Your situation is pretty unfair. Usually as soon as you register, it sets a whole pre-arrival process in motion so that you get a lot of time and help thinking about these things before you make your final landing here on the island. Not everyone takes advantage, but plenty of people spend their last three months settling things with their families and friends and crossing stuff off their to-do lists.”
+
+“I didn’t do any of that.”
+
+“I don’t see how you could have. And actually, I want to recommend that you schedule a couple of private planning sessions with either me or Gus so we can help you figure out what exactly you want to take care of before you launch yourself full-tilt at…I don’t even know what you think you might want to do with yourself after you leave intake. I can usually pull up a list of a kid’s personal goals so I can make sure they’re not swimming out to sea.”
+
+Swimming out to sea? That was a very Anesidoran way of saying “going off track,” he guessed.
+
+“Gus is the night counselor?”
+
+“That’s him. Gustavo. And to answer your original question from back before I went off on a tangent—yes. You can absolutely bring your family member back to the dorms with you. Just be aware that most people don’t get to, and don’t rub anyone’s nose in it.”
+
+“I won’t.”
+
+“All right, I’ll let you go. But first let’s do my own personal get-to-know-Counselor Neha icebreaker.”
+
+Alden brushed corn chip crumbs off his leg and smiled. “What is it?”
+
+“Ask me what the worst thing about being a Rabbit is.”
+
+“…what’s the worst thing about being a Rabbit?”
+
+“I’ll be straight with you, Alden. It’s the fact that if you’re very talented at your job, the Artonans keep you busy. It can be the same for other Avowed. But moreso for us. We just tend to interact with them a lot more because for some reason, despite saying things to the contrary, wizards seem to want friendly domestic help way more often than they want hard-bitten warriors. They should boost Rabbit numbers. Don’t know why they keep it so low. Anyway, I spend about two thirds of my year on the Triplanets. It’s good work, but I don’t need it at this point in my career. And I still get called to do it.”
+
+“That is a ton of work time for an Avowed,” Alden said, surprised. “Even for a Rabbit.”
+
+Her skillset must have been really valuable. And she must basically be counseling new Rabbits out of the goodness of her heart because there was no way she needed the money.
+
+“It is,” she agreed. “Now ask me what the best thing about being a Rabbit is.”
+
+“What’s the best thing about being a Rabbit?”
+
+“You get the extra-special answer I reserve for my S-ranks and my very busy bunnies who start getting themselves zapped to the Triplanets weekly before they’re even out of intake: eternal youth.”
+
+Alden blinked. “Isn’t that more of an elite Healer thing?”
+
+“It’s an elite thing,” she said. “Plain and simple. Here on Earth, you’ve got to have an obscene amount of money for it and get your hands on the right healer ahead of everyone else who wants them. On the Triplanets…only slightly less obscene. But it’s easier to actually find someone who can give you rejuvenation treatments. And frequently summoned Rabbits spend enough time on the Triplanets to make that happen for ourselves. Think about it.”
+
+“I will?” he said.
+
+“No. I’m serious. Think about it. Before you spend whatever money they must have given you for that teleporter disaster they put you through. I became an Avowed in 1964, and—”
+
+“Holy shit,” Alden blurted out. “I thought you were in your early twenties!”
+
+He’d also thought from her accent that she was a native Anesidoran, but the place hadn’t even existed then.
+
+“I was in my twenties,” Neha replied, “when I jumped all the way off the aging train and waved goodbye to it.”
+
+She does not act like an old person.
+
+“I know what you’re thinking…wow, she doesn’t talk like an old person!”
+
+“Erm…”
+
+“Kids always say stuff like that. You don’t get a special old-person personality when you hit a certain age. Old people are just members of a different generation than you, which is to say, a different peer group. They usually act like their friends instead of yours.”
+
+Alden guessed that made sense.
+
+“When you stay young forever, you naturally tend to make friends with other young people. Or eternally young people. Or high-class wizards. Makes you a bit different, but it’s not a bad thing. And it more than makes up for the main bad thing about being a Rabbit.”
+
+“Being away from Earth so much?”
+
+Her voice was serious. “I intend to see more than a human lifetime’s worth of sunrises right here on the planet where I was born. I’ll just do it at a different pace than most people.”
+
+Alden didn’t know how he felt about that announcement. But he had to admit that, as far as icebreakers went, Neha’s was pretty mind-blowing.
+
+“Anyway,” she said, “I just wanted to give you the special talk before you bought a house or something. You might not know if you’re the kind of Rabbit who gets summoned all the time yet, but you had this one terrible and no-doubt lucrative incident. So, advice from an old person—save it. In case you decide you want to be laughing about this phone call with me in a century without your mind and body suffering from the ravages of time. Despite what all the fiction tells you, death isn’t the main thing that makes life meaningful. I like being alive even more now that I did when I was your age.”
+
+“I…will consider that.”
+
+“Have fun with you aunt!”
+
+She hung up and left Alden blinking up at a gleaming red drone, feeling bemused. Yeah. It might take me even longer than I thought to get used to all of this.
+
+***********
+
+Alden took a city bus to the Teleportation Complex. He sat beside a Shaper of Life who was wearing vines as accessories.
+
+When he entered the building through the automatic doors, he had a strange moment. He thought he heard an extremely loud toilet flush. He looked to his right in confusion.
+
+I guess there is a bathroom over there?
+
+It was right beside the big metal post drop he’d used to send his letter to the Velras.
+
+That was forever ago. At least they probably won’t bother me while I’m staying in intake, since there’s a no random locals policy.
+
+He kept walking. He heard another toilet flush. He wondered if they had really insane plumbing in that restroom.
+
+A few minutes later, he finally got to see his aunt face to face.
+
+He was glad they’d had the emotional, tear-jerker phone call while he was still hanging out in the forest. Mostly what he felt when she ran out of the local arrivals hall at the Teleportation Complex was pure happiness. They threw their arms around each other and hugged for ages, while she shouted in his ear about the fact that he’d gotten taller.
+
+When they stepped apart, he said, “You’re imagining things. It’s just a quarter of an inch.”
+
+“You measured yourself as soon as you got home? You’re not still racing Jeremy, are you?” She smiled. “I hate to tell you this, but he’s winning.”
+
+He laughed. “I only know because I had the System send my measurements to some guy named Dragon Rabbit so that he could buy me clothes.”
+
+He was 176.4 cm tall.
+
+“You said you didn’t need clothes! I was going to pull your things down out of the attic—”
+
+“Maybe later. I thought it would be more fun if we went shopping.”
+
+It was a good day.
+
+They spent most of it wandering around Rosa Grove Mall. It was the largest shopping center on the island. There were hundreds of stores, and in between buying too much stuff and eating too much food, Alden managed to put together a picture of his aunt’s current life.
+
+She had been devastated he was gone, but these days, she was mostly happy. He could tell. Mr. Tiger Shorts—actually an RV salesman named Brodie—was okay. He had a big messy family, and he’d introduced Connie to them.
+
+Alden was glad, though a little overwhelmed, to hear her chatter about all of the man’s cousins, step siblings, and siblings like they were characters in a show he’d never seen.
+
+In turn, he talked a lot about Kibby and all of the interesting, not-awful things he’d experienced while he was away.
+
+Late in the afternoon, they split a celebratory cupcake in honor of the fact that they had missed each other’s sixteenth and thirty-third birthdays. And Alden decided it was a good time to broach a subject he hoped would only be slightly awkward for them both.
+
+“Can I give you money, Aunt Connie? Without it being weird?”
+
+“No,” she said, licking a finger and using it to pick up stray sprinkles from the cupcake wrapper.
+
+“I really want you to let me. I have a lot more than I need, and it would make me way more comfortable about leaving home.”
+
+She considered him for a moment, scanning his face with blue eyes that sometimes made Alden think he really remembered exactly what his mother’s had looked like.
+
+“I left home at sixteen, too,” she said finally. “I thought the world owed me something grander than life in a trailer park in Tennessee. Pretty different from what you’re doing.”
+
+“I know.”
+
+Connie rarely mentioned it. Both of Alden’s maternal grandparents had died a couple of years later. Alden thought, mostly based on context clues and not anything he’d ever been told for sure, that his mother had never forgiven her much younger sister for breaking their parents’ hearts.
+
+“I meant to grow up,” she said. “At some point. But I felt like everything was forcing me to do it all at once when your mom died, and I think maybe I missed a couple of steps. Because I was busy feeling sorry for myself.”
+
+“You did fine.”
+
+She reached for her drink and jabbed at the ice in the cup with the straw.
+
+“You didn’t tell me,” she said finally. “When you got selected as an Avowed. I just kept thinking about it, every night lying in bed after you went missing. The fact that you didn’t tell me right away.”
+
+Alden took a deep breath. “I was going to—”
+
+“I was always so disappointed in my parents when I was a teenager.” She looked down at the melting ice. “I don’t even know why. They were good people. Maybe I was angry that they weren’t impressive people. Or something like that. But…if I’d been chosen as an Avowed when I was your age, I know I’d have run straight home to my mother and told her. Because even though I was ungrateful, deep down I knew I could always count on her for the things that really mattered.”
+
+Alden sat frozen across the pink laminate table from her.
+
+“I’m sorry I didn’t give you that,” she said finally. “When you’re a kid, you need grown-ups you can trust like that.”
+
+“Aunt Connie,” Alden said quietly, “I trust you. Don’t—”
+
+“You love me.” She rubbed a single tear away from her cheek with the palm of her hand. She smiled at him. “There’s a difference. And I think it might be okay…it might be best…if you were mad at me. A little. I wasn’t too young or too dumb to know I should do better. I knew. You were just so mature for your age, and I kept using it as an excuse to let you take care of yourself. And you should be mad about that. You were supposed to have more.”
+
+She stood up suddenly and started clearing the trash before Alden could even begin to respond.
+
+“Anyway,” she said in a brisk voice as she came back from the recycling bins and shoved her chair under the table, “you said you wanted exercise clothes and weights. So we still need to go to the athletic supply store.”
+
+“Ah…but…okay. Um…according to the map on my interface it’s on the fourth floor.” He stood up, too. “Also, I didn’t want weights.”
+
+“You need weights. Or you need to go to that place full of the sweaty, grunting people we passed on the way over here.”
+
+“The Brutes-only gym?” said Alden. “Why?”
+
+“You picked the bunny class, baby. People are gonna pick on you. You need to be able to protect yourself.”
+
+“Nobody’s going to pick on me. And if some of them want to, then going to the gym is not going to stop them.”
+
+He did want to find a good gym, but not for that reason.
+
+“We’ll get you some pepper spray, then,” she said. She narrowed her eyes. “Or bear spray. And a knife.”
+
+“Sure. Carrying those around will make me look so approachable while I try to make new friends.”

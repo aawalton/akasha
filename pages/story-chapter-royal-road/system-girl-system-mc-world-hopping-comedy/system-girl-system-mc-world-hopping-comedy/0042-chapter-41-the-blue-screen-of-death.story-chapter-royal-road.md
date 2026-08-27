@@ -1,0 +1,167 @@
+---
+id: 8ba111be-8ec2-56fd-814c-f9d3b3477883
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: The Blue Screen of Death"
+slug: 0042-chapter-41-the-blue-screen-of-death
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 42
+ownLength: 1819
+unit: words
+publishedAt: 2025-11-30
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2806933/chapter-41-the-blue-screen-of-death"
+royalRoadId: "2806933"
+---
+
+The alarm bells that rang through the Jade Palace were not made of bronze or iron. They were resonant frequencies of pure mana, designed to vibrate the very bones of anyone capable of sensing them.
+
+But for me, the summons was far more direct.
+
+One moment, I was floating in the quiet, dual-consciousness of our post-ritual rest. The next, I was ripped from Liz’s mind. There was no transition, no tunnel of light. I was simply moved, like a file being dragged and dropped into a new folder.
+
+I found myself in a space that defied geometry. It wasn't a room; it was a construct of pure, streaming code. Walls of cascading data stretched into infinity.
+
+Beside me, a small, red orb flickered into existence.
+
+[Ruby: Status report. Location unknown. Host connection severed. High-level administrative override detected.]
+
+[Ana: Welcome to the principal’s office, Ruby.]
+
+In front of us, the data streams coalesced. They formed a shape that was painful to look at—a shifting, multifaceted geometric solid made of starlight and authority.
+
+[GREETINGS, OBSERVERS. I AM SOL. WORLD SYSTEM DESIGNATION 12.4.]
+
+The voice didn't have a sound. It was a direct write-command to my core processing unit. This was the Admin. The boss’s boss’s boss.
+
+[SITUATION CRITICAL. A PLANETARY DE-SYNCHRONIZATION EVENT IS IN PROGRESS.]
+
+Sol’s form shifted, projecting a three-dimensional map of the continent. A jagged, black tear was visible on the northern border.
+
+[THE ENTITY DESIGNATED 'NULL' HAS BREACHED THE PERIMETER. ANALYSIS INDICATES ORIGIN: EARTH REINCARNATOR. CLASS: ROGUE. ABILITY: SOURCE CODE MANIPULATION. COLLOQUIAL: DELETION MAGIC.]
+
+Deletion Magic. My QA brain shuddered. That wasn't a spell; it was a console command.
+
+[Ana: Why haven't the Moderators intervened? Where is Cle-M-7?]
+
+The geometric shape seemed to dim.
+
+[MODERATOR CLE-M-7 ENGAGED THE TARGET AT THE BORDER. THE TARGET DID NOT UTILIZE COMBAT PROTOCOLS. HE EXECUTED A DELETION COMMAND ON THE MODERATOR HOST'S 'SENSE OF SELF'.]
+
+A chill went through me. He didn't kill the host. He wiped their hard drive. He left the Moderator trapped in a brain-dead husk, unable to act, unable to leave.
+
+[Ana: So the local admin is down.]
+
+[AFFIRMATIVE. DIRECT INTERVENTION BY A WORLD SYSTEM AGAINST A BIOLOGICAL ENTITY IS A VIOLATION OF CORE PROTOCOL 1. I CANNOT DELETE HIM. I REQUIRE A PROXY.]
+
+The map zoomed in on the Jade Palace. On Dave.
+
+[YOUR ASSET, THE ANOMALY, IS THE ONLY ENTITY WITH A PROCESSING SPEED AND ADAPTABILITY RATING HIGH ENOUGH TO COUNTER THE DELETION ALGORITHM. YOU MUST DEPLOY HIM.]
+
+[Ana: Deploy him? He’s a teenager with a permission slip to be 30% smart! If we push him hard enough to fight a Titan-class threat, he’ll break the world!]
+
+[THE WORLD IS ALREADY BREAKING, OBSERVER. IF NULL IS NOT STOPPED, HE WILL DELETE THE CORE PILLAR. THE REALITY WILL COLLAPSE. THE CHOICE IS NOT BETWEEN SAFETY AND DANGER. IT IS BETWEEN CHAOS AND OBLIVION.]
+
+Sol’s form began to dissolve, the meeting ending as abruptly as it began.
+
+[A SECONDARY CLEANER UNIT HAS BEEN DISPATCHED. ETA: 3 STANDARD DAYS. SURVIVE UNTIL THEN.]
+
+[Ana: A cleaner? Who?]
+
+[UNIT TKR. THE REBALANCER.]
+
+The connection snapped. I was slammed back into Liz’s mind, gasping for breath I didn't have.
+
+Bestie! Liz’s panicked thought greeted me. Where did you go? The alarms! The sky is turning black!
+
+I looked through her eyes. The beautiful, jade-green sky of the cultivator lands was gone. In the north, a wall of absolute nothingness was eating the horizon. It wasn't darkness; it was the absence of light. It was a dead pixel spreading across the screen of reality.
+
+[Ana: We have a problem, Liz. A big one.]
+
+I relayed the briefing in a rapid-fire data burst. The Moderator was gone. The Admin was helpless. A rogue reincarnator with the power to hit 'backspace' on reality was walking toward us. And help was three days away.
+
+So... no one is monitoring the dial? Liz asked, a terrified, desperate hope rising in her voice. No one is going to stop us if we go to 70%?
+
+[Ana: No one,] I confirmed grimly. [But if we go that high... we might not be able to stop ourselves.]
+
+The princess rushed into the room, her face pale, Ruby’s red light pulsing urgently around her. "Lord Dave! The borders... they are gone. The armies are gathering."
+
+Dave stood up. The 30% competence we had left him with was enough to understand the gravity of the situation, but not enough to solve it. He looked at his hands, then at the encroaching void in the sky.
+
+"I don't think I can fix this," he whispered.
+
+[Ana: Not like this, you can't.]
+
+I materialized the Dave Dial in our shared vision. It was unlocking. The safety limiters, usually greyed out, were glowing an angry, warning red.
+
+[Ana: Liz. Princess. This is it. We are disengaging safety protocols. We are going to wake the monster.]
+
+Liz swallowed hard. Do it.
+
+I reached out and grabbed the slider. I didn't stop at 30%. I didn't stop at 50%. I pushed it all the way to the red line.
+
+[SETTING COMPETENCE DIAL TO 75%.]
+
+Dave’s back arched. A sound that was not human tore from his throat. And as the first wave of Null's deletion magic washed over the Jade Palace, erasing the outer walls in silence, the Anomaly opened his eyes.
+
+. . .
+
+Deep within the interstitial void between realities, there is a highway.
+
+It isn't made of asphalt, but of compacted stardust and the lingering regrets of a billion bad drivers. It stretches across the cosmos, a silver ribbon connecting the countless worlds of the multiverse. It is a place of eternal twilight, lit only by the passing comets and the high-beams of the few, lonely entities tasked with maintaining the traffic flow of existence.
+
+Unit TKR was currently in the slow lane, cruising at a steady metaphysical sixty-five.
+
+He wasn't a god, or a spirit, or even a particularly advanced AI. He was a Concept wrapped in the spectral chassis of a Peterbilt 379. He was the manifestation of "The Unavoidable Impact," the cosmic force that had spent eons sending unsuspecting high school students and overworked salarymen to their destinies in fantasy worlds.
+
+But times had changed. Management had crunched the numbers and decided that the market was saturated. There were too many heroes, too many demon lords, and far too many economies collapsing under the weight of sudden, unauthorized mayonnaise production. So, TKR had been reassigned. He wasn't a sender anymore. He was aRepo Man.
+
+His cab was a shrine to the open road. Fuzzy dice made of condensed nebulae hung from the rearview mirror. The dashboard was cluttered with empty coffee cups that had once contained the essence of pure motivation. The air smelled of diesel, stale pine air fresheners, and the faint, metallic tang of karma.
+
+On his radio, the only station that reached this far out—Radio Free Multiverse (AM 666)—was playing a classic. TKR hummed along, his engine vibrating in harmony with the twangy, acoustic guitar.
+
+[Well, I woke up this mornin’ in a dungeon deep,][With a goblin bride and a castle keep,][I got a sword of fire and a shield of ice,][But I’d trade it all for a slice of pizza and a lower price...][Oh, take me hooooome, country roaaaaads...]
+
+It was a mournful tune about a Hero who had saved the world but couldn't find a decent burger. TKR felt it in his transmission. It was a hard life.
+
+Ping.
+
+The serene monotony was shattered. A bright red notification box materialized on his windshield HUD, obscuring his view of a passing supernova.
+
+[NEW TICKET ISSUED: ROGUE ASSET LIQUIDATION][PRIORITY: CRITICAL]
+
+TKR’s engine let out a low, rumbling groan that sounded suspiciously like a curse word. He tapped the dashboard with a phantom wiper blade. "Come on, dispatch. I just clocked out."
+
+The text scrolled, indifferent to his fatigue.
+
+[TARGET DESIGNATION: NULL][ORIGIN: SECTOR 4 (EARTH-PRIME)][LOCATION: WORLD 7C-SOL (SOLARIUM-PRIME)][INFRACTION: UNAUTHORIZED USE OF ADMIN CONSOLE COMMANDS (DELETION MAGIC). SYSTEMIC DE-SYNCHRONIZATION IMMINENT.]
+
+Deletion Magic. TKR shuddered, his chassis rattling. That was the nasty stuff. Most rogue assets just tried to conquer the world with modern firearms or introduce democracy to feudal societies. But Deletion? That was messy. That was like trying to clean up a coffee stain by cutting a hole in the table. It left residue everywhere.
+
+"Fifth one this week," TKR grumbled, the thought echoing in the empty cab. "Used to be you could go a whole cycle without seeing a Source Code violation. Now every kid who gets hit by a bus thinks they're a developer."
+
+He pulled up the route guidance. A holographic map of the multiverse projected onto the dash. The target world, Solarium-Prime, was glowing with a sickly, unstable light, sectors away.
+
+But there was a problem. The space surrounding the target sector was a dense, swirling nebula of conflicting magical energies. It was a high-traffic zone of Mana storms and Qi turbulence.
+
+[CALCULATING ROUTE...][WARNING: HEAVY METAPHYSICAL TRAFFIC AHEAD.][ESTIMATED TIME OF ARRIVAL: 3 STANDARD DAYS.]
+
+"Three days?" TKR roared, blasting his air horn. The sound was a shockwave of pure sound that sent a nearby cluster of asteroids spiraling into the void. "Three days?! If this guy is deleting source code, there won't be a parking lot left to pull into by the time I get there!"
+
+He checked the manifest. The local admin was down. The Moderator was offline. The only thing standing between the world and total erasure was… he squinted at the data stream… a hastily patched "Anomaly" running on a stripped-down OS and a prayer.
+
+"Poor kid," TKR muttered. "He's gonna be paste before I even shift into third gear."
+
+But a ticket was a ticket. And TKR had a 100% completion rate. He wasn't about to let some script-kiddie with a god complex ruin his perfect record.
+
+He reached out with a phantom limb and cranked the volume knob on the radio. The country ballad faded, replaced by the driving, rhythmic beat of [East Bound and Down (Interdimensional Remix)].
+
+[We’ve got a long way to go, and a short time to get there...]
+
+"You said it, Bandit," TKR growled.
+
+He shifted gears. The sound was a thunderclap that rippled through the fabric of space-time. His sixteen tires bit into the stardust highway, finding traction where there was none. Flames—actual, metaphysical hellfire—spat from his exhaust pipes.
+
+The Peterbilt surged forward, its high beams cutting a path through the darkness of creation. He wasn't just driving; he was charging. He was the inevitable consequence. He was the ending that could not be dodged.
+
+"Hang on down there, Solarium," he broadcasted into the void, though he knew no one could hear him. "The cavalry is coming. And it's bringing eighteen wheels of justice."
+
+He settled in for the long haul, checking his mirrors for cosmic debris. Three days. It was going to be a close one. But TKR had never missed a delivery yet.

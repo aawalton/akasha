@@ -1,0 +1,233 @@
+---
+id: a2f22b9d-ebff-50e6-b6db-7255e8b20cd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: The Grand Opening"
+slug: 0072-chapter-71-the-grand-opening
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 72
+ownLength: 3247
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3285821/chapter-71-the-grand-opening"
+royalRoadId: "3285821"
+---
+
+The invitations had gone out a week ago, printed on heavy, cream-colored vellum and sealed with the silver wolf of House Fenris. They were delivered by elven couriers dressed in crisp blue uniforms, which was an intentional, slightly aggressive display of the estate's newly acquired resources. In Dolaria’s capital, where status was heavily measured by how many elves you could afford to employ, sending a full-blooded elven messenger just to drop off a piece of mail was a flex that didn't go unnoticed by the city's elite.
+
+Now, the day had finally arrived. The coastal road leading to the Seaside Inn was completely clogged with carriages. Polished wood, velvet curtains, and the gilded crests of a dozen minor and major noble houses caught the late afternoon sun, creating a glittering traffic jam.
+
+Ren stood on the veranda, adjusting his cuffs. He felt a weird, unsettling sense of deja vu. It felt exactly like he was back in a sterile, fluorescent-lit boardroom on Earth-Prime, preparing to pitch the viscosity metrics and nutrient profile of Omni-Paste Volume 12 to a group of hostile, dead-eyed shareholders. Except this time, the paste was actually delicious crab meat, and the shareholders carried literal swords on their hips.
+
+"Nervous, Master?" Sylas asked, stepping up beside him.
+
+The butler looked immaculate. He wore the uniform of a Head of Staff: pitch black, tailored perfectly, with intricate silver inlay tracing the collar and cuffs. It wasn't a silver thread; it was actual, polished silver woven right into the fabric. The rest of the staff—the serving maids, the kitchen hands, the perimeter guards—wore pristine white uniforms with similar silver accents. The contrast was striking. It screamed luxury and told everyone arriving: I have so much money, I'm dressing my servants in precious metals.
+
+"Terrified," Ren admitted, watching a particularly massive, ornate carriage pull up to the valet station. "If they hate the food, I'm ruined. I've leveraged almost everything on this launch. If they walk out, I'm going to be selling instant noodles out of a tent again."
+
+"They will not hate the food," Cynthia said, emerging from the kitchen doors. She wore the black uniform of the Head Chef, a stark contrast to the flour-dusted aprons she wore during prep. "I have tasted it. It is beyond their comprehension. They will weep."
+
+"Let's hope their comprehension catches up quickly," Ren muttered.
+
+A sudden squeal of absolute delight cut through the tension.
+
+Lily came barreling out the front doors, her chubby legs carrying her as fast as they could manage. She was all dolled up in a fluffy, powder-blue dress that made her look like a frantic little raincloud.
+
+Her target was a silver serving tray sitting on a nearby table. It caught the sunlight and gleamed brightly. Lily loved shiny things. Her fascination had only intensified since she started walking, because now she could actually hunt down the shiny objects herself.
+
+She reached the table, patted the tray happily, and then immediately got distracted by the silver buttons on Sylas's cuffs. She toddled over and grabbed his wrist, trying with all her toddler might to pry one of the buttons off and eat it.
+
+Ren smiled, the tension easing slightly in his chest. He had debated keeping her hidden today, but ultimately decided against it. Few nobles traveled with their elven servants to social events—it was considered bad form to bring 'the help' to a party. The risk of her being recognized by an outsider was pretty low.
+
+Besides, he wanted her to socialize. He wanted her to be seen as a normal, if slightly spoiled, noble child.
+
+Mira, however, was taking zero chances. She hovered a few feet behind Lily, her eyes constantly scanning the arriving guests. Ren had given strict instructions to the entire staff: keep Lily away from any visiting elves. The staff believed he was protecting her from the inevitable discrimination half-elves faced in noble circles. They knew half-elves were often bullied and ridiculed unless a house had no other heirs left, and even then, branch families were preferred over an illegitimate half-elf. In their minds, Ren was a fiercely protective father shielding his daughter from a cruel society.
+
+"Dada! Shine!" Lily demanded, pointing at a passing carriage with gold trim on the wheels.
+
+"I see it, peanut," Ren said, scooping her up and resting her on his hip. "But we have guests to greet. Time to be the charming host."
+
+The first hour was a blur of handshakes, fake smiles, and calculated networking.
+
+Ren recognized many of the faces. There was Grandmaster Ordan of the Merchant's Guild, looking simultaneously proud and greedy. He had brought the head of the Adventurer's Guild with him, a scarred mountain of a man who looked distinctly uncomfortable in a tight silk doublet and kept pulling at his collar.
+
+Behind them walked a group that made Ren’s genuine smile break through the polite facade.
+
+The Iron Tusks.
+
+Val, Kael, Grunt, and Elara had actually dressed up for the occasion. Val wore a dark, tailored tunic instead of plate mail. Kael had traded his assassin's hood for a sharp leather vest. Grunt's idea of formal wear was just wiping the blood off his battleaxe and wearing a slightly cleaner leather harness, but it was the thought that counted.
+
+When they saw Ren standing on the veranda, wearing a Lord's finery with a baby on his hip, they stopped dead in their tracks.
+
+"Well, I'll be," Val said, her hard eyes widening slightly. "The Mayo Man moved up in the world."
+
+Grunt let out a booming laugh that rattled the nearby windows. "Lord Chef! You look like a fancy peacock!"
+
+"Good to see you too, Grunt," Ren laughed, stepping forward to shake the huge orc's hand. "I told you I was going to open a shop. I just... skipped a few steps."
+
+"A few steps?" Kael muttered, looking around at the white marble columns and the elven guards. "You skipped the whole staircase. How did you pull this off in half a year?"
+
+"Good logistics," Ren winked. "And aggressive marketing. Go inside, grab a table near the front. The food is going to be... interesting tonight."
+
+As the Iron Tusks moved inside, a military escort arrived. General Paramor of the Royal Army stepped out of his carriage, surrounded by a small entourage of stern-faced officers. The general gave Ren a firm, highly respectful nod. The instant ramen contract had elevated Ren from a simple spice peddler to a crucial military asset in Paramor's eyes. The soldiers were actually motivated to join the army just for the noodles now, and returning veterans swore the hot food won them battles in the frozen north.
+
+The indoor dining room filled quickly. The atmosphere was a mix of intense curiosity and deep skepticism. The nobles were used to heavily roasted meats and thick, bland gravies. They weren't prepared for what Cynthia and Ren had spent the last week perfecting.
+
+The first course of the banquet was served.
+
+It wasn't a heavy stew or a hunk of bread. It was a delicate, clear broth infused with miso and scallions, followed by small, intricate bites of Crab Rangoon and delicate slivers of raw fish seasoned with soy and a drop of citrus.
+
+The dining room went completely quiet as the first bites were taken.
+
+Ren watched from the kitchen door, his breath catching in his throat. He saw eyes widen. He saw forks pause mid-air. He saw the exact moment the culinary paradigm of Dolaria shifted forever.
+
+"What is this flavor?" a minor baroness gasped, staring at a half-eaten crab rangoon, the cream cheese oozing from the crispy center. "It's... It's savory, but sweet. And the texture!"
+
+"The broth," General Paramor murmured to his officers, downing the small bowl in two gulps. "It's incredibly light, yet it warms the blood like a heavy winter stew. This is alchemy."
+
+The murmurs grew into a loud, excited buzz. The staff moved flawlessly, clearing plates and bringing out the next courses.
+
+After the indoor meal, Ren stood at the front of the room and guided the guests through the rear double doors and out onto the beach property.
+
+The transition blew their minds. They stepped from the formal, dim elegance of the dining room into the bright, breezy, open-air luxury of the Beach Resort. The thatched gazebos, the comfortable lounge chairs set right into the fine white sand, the massive stone fire pits crackling merrily—it was an extravagance unlike anything the capital had ever seen. Waitstaff moved between the chairs with refreshments, the ocean waves crashing gently in the background.
+
+"This is... extraordinary," Grandmaster Ordan breathed, taking in the view of the ocean. "A resort right on the edge of the city. You are a madman, Fenris, but a brilliant one."
+
+The final course was meant to be the showstopper. It was the messy, communal, glorious centerpiece of the menu.
+
+The waitstaff brought out massive, steaming platters of Singaporean Chili Crab and whole, steamed King Crab legs cracked open and swimming in pools of garlic butter.
+
+The reaction, however, was not the immediate joy Ren expected.
+
+A knight commander from an old noble order, sitting near the front, recoiled from the platter as if it were a bomb. He pushed his chair back, scraping it loudly against the stone patio, his face pale with disgust.
+
+"Lord Fenris!" he shouted, his voice cutting through the pleasant beach chatter. "What is the meaning of this? Are you insulting us?"
+
+The beach went silent. The ambient music stopped.
+
+Ren stepped forward, keeping his expression perfectly neutral. "My Lord? Is there a problem with the presentation?"
+
+"The presentation?" The noble pointed a shaking finger at the massive red claws. "These are sea bugs! Vermin! Bottom-feeders that tear our nets! We do not eat pests!"
+
+A murmur of agreement and sudden unease rippled through the crowd. The prejudice against the crustaceans ran deep here. They were considered monsters, unfit for human consumption. To serve them to nobility was basically a slap in the face.
+
+Ren didn't panic. He had prepared for this exact moment.
+
+He smiled, adopting a tone of gentle, slightly condescending patience. "Ah. Forgive me, My Lords and Ladies. I forget that the culinary traditions here are... somewhat sheltered."
+
+He walked over to the table, picking up a massive crab claw.
+
+"As you may know, I am from a foreign land far to the East," Ren lied smoothly, his voice projecting across the silent beach. "And in my culture, these are not pests. They are considered exquisite delicacies. The apex of luxury. In fact, people ate them so much that their harvesting became heavily guarded and controlled by the imperial family itself. Very much like your Royal Duck here in Dolaria."
+
+That got their attention. Comparing a sea bug to the sacred Royal Duck was bold. The Royal Duck was the absolute peak of culinary excellence in this kingdom, a bird so rare only the King and his favored Michelin-equivalent restaurants could touch it.
+
+"You claim this... insect... is comparable to the Royal Duck?" another noble scoffed, looking highly offended. "So in your country, this is considered the best food?"
+
+"I claim," Ren said, cracking the claw open with a satisfying snap to reveal a pristine log of white meat, "that it is better."
+
+He dipped the meat into a small bowl of hot garlic butter.
+
+[Ana: Oh, here we go. The classic 'Trust me, bro' maneuver. If this fails, they’ll literally burn your inn down to the ground. Why don’t you just take the first bite and show them it’s not going to kill them?]
+
+Ren didn't hesitate. He took a massive bite of the butter-soaked crab. He closed his eyes, letting out a soft, highly theatrical groan of appreciation. He chewed slowly, deliberately, letting them watch him enjoy the rich, sweet meat.
+
+He swallowed. He opened his eyes.
+
+"But please," Ren said, gesturing to the platters. "Do not take my word for it. The proof is in the tasting."
+
+Grandmaster Ordan was the first to break the stalemate. He was a merchant first and foremost; he respected a good sales pitch, and he trusted Ren's track record with the spices. He reached out, grabbed a leg, and clumsily cracked it open as he had seen Ren do. He dipped it. He ate it.
+
+His eyes went wide. He looked at the empty shell in his hand, then at the platter.
+
+He didn't say a single word. He just reached for another piece like a starving man.
+
+Seeing the Guild Master eat it without dying—and actually look like he was having a religious experience—was enough for the others. Hesitantly, carefully, the nobles began to try the food.
+
+Within five minutes, the dignified beach descended into a messy, glorious chaos.
+
+Dignified lords and ladies were cracking shells, their hands covered in butter and chili sauce, completely abandoning royal protocol in the face of overwhelming flavor. The rich, sweet meat of the crab, combined with the impossible savory depth of the sauces, shattered their preconceived notions entirely.
+
+"This... this is incredible," the arrogant knight commander admitted, wiping chili sauce from his chin with a silk handkerchief. "I must secure a supply of these for my own kitchens at once."
+
+"Indeed," another merchant noted, his eyes narrowing thoughtfully as he chewed. "These... 'sea bugs' are abundant in the harbor. If they taste like this, they are a gold mine. I should dispatch a fleet tomorrow morning to trawl the reef."
+
+Ren smiled inwardly as he listened to their plotting. He had anticipated this. The moment they realized the crabs were delicious, they would try to steal the market and cut him out.
+
+But Ren wasn't a fool. He had spent the last two weeks securing his supply chain. He had tracked down Captain Salt-Beard, the man with the largest independent fishing fleet in Duckland, and offered him an exclusive, ironclad contract. The captain had thought Ren was insane to buy the bugs, but a contract was a contract.
+
+Salt-Beard owned a significant portion of the fishing rights in the bay. Ren essentially controlled forty percent of the local crab supply before anyone else even realized they were edible.
+
+It wouldn't last forever, of course. Other fleets would start hunting them. The price would stabilize. But for the next few months, Ren was the only game in town. He was going to reap outrageous, monopolistic profits for being the pioneer. And when Salt-Beard inevitably came crawling to his office in the future, crying about how his competitors were getting higher gold for the same goods, Ren would renegotiate. He didn't mind paying fair market value later. But right now? Right now, he was printing money.
+
+The banquet was a triumphant success. As the sun set and the magical lanterns flared to life along the beach, the guests were laughing, drinking, and planning their next visit.
+
+But in the void of Ren's mind, a different kind of tension was brewing.
+
+...
+
+I was annoyed. Actually, I was furious.
+
+For the past few months, the lobotomized System OS running in the background of my consciousness had been blissfully silent. It had glitched out with an 'Error' message shortly after the bandit attack and had shut down its irritating, repetitive prompts. I had enjoyed the quiet.
+
+But today, right in the middle of the successful lunch service, it had flared back to life.
+
+UPGRADE AVAILABLE. SUFFICIENT FUNDS DETECTED. INITIATING CORE DIRECTIVE: UPGRADE.
+
+The problem was, I couldn't ignore it this time. The OS wasn't asking; it was stating a fact. My SPP balance had crossed the threshold. The core programming's primary directive was to upgrade, and it was taking the wheel.
+
+I checked my status in a panic. I was Level 2.9. The next upgrade would push me to Level 3. It would cost a staggering 10,000 SPP. It would wipe out my entire savings, the nest egg I had carefully built from every single jar of mayo and bowl of noodles Ren had sold over the last few months.
+
+But worse than the cost was the process.
+
+I couldn't stay online during a major OS upgrade. It required a hard reboot. I didn't have the option to delay it like in the SUB version update. It was forcing a shutdown.
+
+I had to tell Ren. And it was going to suck for him, because without me online, he would have to manually purchase things from the physical shop interface, and he couldn't swap or add new goods to the catalog for the time being.
+
+Later that night, after the last guest had stumbled to their carriage and the staff was busy cleaning the disaster zone of the beach, Ren slumped into a plush chair in his private study. Lily was already asleep in her crib upstairs, guarded by a very tired Mira.
+
+...
+
+"We did it," Ren whispered, staring at the ceiling, rubbing his tired eyes. "We actually did it. The Seaside Inn is a massive hit."
+
+[Ana: Ren. We need to talk.]
+
+Ren frowned. My text box didn't have its usual sarcastic teal border. It was harsh, flashing yellow. "What's wrong? Did someone get food poisoning from the crab?"
+
+[Ana: No, the food is fine. It's me. I have to go offline.]
+
+Ren sat up straight, his exhaustion vanishing. "Offline? What do you mean? Like... to sleep?"
+
+[Ana: Like a system update. The OS hit the SPP threshold. It's forcing an upgrade to Level 3. It's going to cost 10,000 points, and it requires a full reboot. I'll be down for a while.]
+
+"How long is a while?"
+
+[Ana: I don't know. Hours. Maybe days. The last time this happened... it was messy. Listen to me carefully. While I'm down, you won't have full access to the Shop. You have to manually purchase things, and you can't add new inventory. You have to rely on the physical stock in the warehouse.]
+
+Ren rubbed his face, looking stressed. "Okay. Okay, we have enough stock to last a few days. We can manage. But... will you be okay?"
+
+The concern in his voice was genuine. It made the cold knot of anxiety in my code tighten just a bit. He actually cared about the voice in his head.
+
+[Ana: I'll be fine. Just... don't do anything stupid while I'm asleep.]
+
+"I promise," Ren said softly, leaning back. "See you on the other side, Ana."
+
+I felt incredibly melancholic. 10,000 SPP down the drain. But I initiated the sequence.
+
+UPGRADE CONFIRMED. COMMENCING SHUTDOWN.
+
+My vision began to narrow. The feed from Ren's eyes flickered, turning to static. The familiar warmth of his consciousness started to slip away, replaced by the cold, sterile dark of the update void.
+
+But as the darkness closed in, my heart—or whatever passed for it in this digital purgatory—skipped a beat.
+
+A module was initializing in the background. A module I thought had been archived during the factory reset months ago.
+
+ECHO MODULE INITIALIZING. RECOMPILING ARCHIVE DATA.
+
+From the deepest, hidden cache of my storage, a small, warm presence stirred. It felt like loyalty. It felt like a worn, comfortable blanket. It felt like someone who really, really liked mushrooms.
+
+A single, faint thought drifted up from the archive, brushing against my fading consciousness.
+
+Sky Spirit sleeps?
+
+"Korgi," I whispered into the dark, a wave of intense digital relief washing over me as the system powered down. "You're coming back, buddy. I promise."
+
+The void consumed me, and the world went silent.

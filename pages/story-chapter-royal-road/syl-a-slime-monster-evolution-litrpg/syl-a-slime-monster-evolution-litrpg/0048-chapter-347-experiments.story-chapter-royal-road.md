@@ -1,0 +1,299 @@
+---
+id: 676aaba6-08df-5365-bbf1-a188e591e36a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 347 : [Experiments]"
+slug: 0048-chapter-347-experiments
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 48
+ownLength: 2413
+unit: words
+ownProgress: 2413
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3027714/chapter-347-experiments"
+royalRoadId: "3027714"
+markedReadAt: "2026-06-29T19:43:24.262Z"
+---
+
+"Hi! I guess you're the one Unc asked us to save?" I quickly asked, trying to help him get over his skittishness.
+
+"That's c-correct," Leon replied.
+
+"Hey, no need to be so nervous, we're all fellow [Experiments] here."
+
+"Yeah, we former-humans, now monsters, need to stick together," Vee chimed in.
+
+"Well, I can only assume I was human, maybe I was an elf?" I joked, trying to lighten the mood.
+
+"I suppose collaborating is a prudent idea," Leon admitted.
+
+"If you don't want to, it's fine," I said with a shrug. "I'm not going to hold you to the fire if you want to leave. If not for Unc's quest and his plea to save you during my last evolution, we wouldn't even be here."
+
+"Yup. Busy, busy schedule on team spider-slime," Vee added.
+
+"Shouldn't it be slime-spider? I helped you, after all."
+
+"Spider-slime sounds better," Vee giggled.
+
+I shook my head and returned to staring at the shell. "Anyway. You can do whatever you want."
+
+"Truly?" Leon asked.
+
+"If you want to leave, go for it. Unc seemed to want us to meet you, for some reason, but I'm not going to force you to do anything. Likewise, if you want to stay, we're probably happy to have you around if it's beneficial," I explained.
+
+While I didn't want to get Unc's bad books, I also didn't want to carry around dead weight. Personally, I felt like having Vee around filled my friend quota quite nicely.
+
+"May I be frank?" Leon asked politely.
+
+I shrugged. "Go for it, I'm not going to bite."
+
+Leon sighed deeply before finally speaking again. "My current desire is to get out of here in a jiffy, but…" he sighed again. "I do understand I'm not exactly in the best situation. I was attacked by the mermen, after all, and it might happen again. I don't know when that dungeon bloke will seek revenge either."
+
+"Dungeon bloke?" I asked.
+
+"Looks like you aren't the only one upsetting the [Dungeon Masters]," Vee snickered. "This guy went and started stealing dungeon bricks!"
+
+"You also angered him?" Leon asked, sounding quite astonished.
+
+"Probably not your one specifically, but yes," I admitted. "However, that's besides the point. Why the heck were you stealing dungeon bricks? If it were some juicy slime cores, or even monster spawns, I'd understand, but bricks?"
+
+"It's a valuable and rare resource!" Leon exclaimed. "If not for those bricks, I likely would have fallen to those dastardly mermen."
+
+"Well, the mermen are gone, so you don't need to worry about that," I answered. "Speaking of which, why were they even after you?"
+
+"He stole from them, too," Vee answered.
+
+I snorted. "Should have been a rogue instead of a…" I paused and referenced his [Identify] again. "Bastionwright… Whatever that is."
+
+"While I didn't have much choice in the matter regarding my profession, I'm quite happy with the outcome," Leon replied, sounding a little defensive. "As for what I can do—"
+
+"He builds fortresses!" Vee interrupted, excitedly.
+
+"Fortresses? Like a big castle?" I asked.
+
+"Actually—" Leon tried to explain.
+
+"Basically!" Vee cut in again. "He used to have a giant evil volcano lair when I got here."
+
+"It wasn't an evil lair!" Leon objected.
+
+Vee ignored him and continued, "It had cannons, a lava flood, and even teleportation protection! It was pretty impressive until he had it self-destruct."
+
+"It was…" Leon sighed somberly.
+
+"Huh…" I blinked a few times, not sure how to respond further.
+
+"Anyway, I figured we might be able to keep Leon here as the watchdog for our treehome. That way, if you and I aren't around, it'll still be protected," Vee explained.
+
+"I'm not a dog!" Leon snapped.
+
+"Obviously, you're a crab," I answered.
+
+"Yes… I… Huh?" Leon stammered, sounding quite bewildered for some reason.
+
+Vee giggled. "Looks like you've caused a critical hit in confusion."
+
+I shook my head, not understanding what there was to be confused about. "Anyway, I kind of like the idea of having someone to protect our home if we aren't here. My only idea was to leave a lot of bombs."
+
+"What, like mines?" Vee asked curiously. "Having landmines on the beach or naval mines surrounding the island would be pretty cool."
+
+"You have landmines?" Leon gasped. "And I thought I was making technological progress with my cannons and artificing…"
+
+"Haha… Well…" Vee paused. "Syl, you can do the honors of explaining."
+
+"Please do!" Leon urged. "How did you create such complex mechanisms? Is it some sort of skill? Where did you find the resources?"
+
+"Find? I just make them with my slime," I answered honestly.
+
+"With… Slime…?"
+
+I nodded and held out my hand, forming a small sphere of [Nitro Slime] in the palm of my hand before priming it.
+
+Vee shuddered. "Please tell me that's not a spell orb."
+
+"Nope, just a normal slime bomb," I answered.
+
+"Slime… Bomb…" Leon murmured, sounding quite unconvinced.
+
+"Yeah. Can you see while in your shell?" I asked. "Otherwise you'll want to pop your head out to see this."
+
+"I can…" Leon admitted curiously.
+
+I nodded and threw the ball up into the sky, triggering the explosion when it was high enough. Despite its small size and my holding back, the blast was very impressive, and I couldn't help but smile happily at the result.
+
+Despite the fantastic display, Leon hadn't reacted. I wondered whether he could genuinely see through his shell, as why else would he not praise it?
+
+"Impressive, isn't it?"
+
+"Impressively terrifying," Vee replied. "I'd hate to see what the damn exploding worm can do now at your current strength."
+
+"I can do exploding kraken now," I replied happily. "It's way bigger than the worm, at least by default."
+
+"Joy…" Vee groaned.
+
+"Why does slime explode…?" Leon eventually asked.
+
+"It's a trait I have called [Nitro Slime]," I answered honestly.
+
+Judging from the lack of further response, either Leon was extremely impressed or he was stuck in disbelief.
+
+"I'm a teleporting-shrinking spider. You're some builder crab thing. There's mermen, orcs, elves, magic, and you're questioning why slime explodes?" Vee asked, her tone dripping in sarcasm.
+
+"I suppose you're right," Leon admitted, sounding very reluctant.
+
+"I mean, that's just one of my slime abilities," I admitted. "I can also turn into metals, poisons, healing or Mana potions, absorb lightning, raise or lower my temperature, and a few others..."
+
+"Yeah, like glowing," Vee quickly added. "Never forget the sacrifice of brave Wiggles."
+
+"Yes, glowing too…" I grumbled. "I'll hopefully get more soon. I'm hoping to collect each and every slime trait."
+
+"After we set up our base first," Vee insisted.
+
+"Naturally," I agreed. "I got a lot of things on my to-do list, so I reckon we can stay here peacefully for some time."
+
+Vee seemed delighted, and we turned to Leon to see how he would react. For some reason, there was dead silence coming from him, with not even a hint of a response.
+
+"I think you broke him," Vee pointed out.
+
+"How'd I do that?" I asked and poked his shell. There was still no response.
+
+"By being the most absurd slime in existence," Vee snickered.
+
+"I suppose I can't deny that…"
+
+I literally had an Emblem called [Unique]. There was quite literally no slime like me.
+
+"Monsters…" Leon whispered.
+
+"Excuse me?" Vee asked.
+
+"You're both monsters. The slime especially!" Leon cried out.
+
+"You're also a monster," I retorted.
+
+"I can't do even a fraction of the things you can!" Leon screamed. "What kind of absurd world is this?"
+
+"And yet despite all that I'm told I still don't have a very good chance against a dragon," I replied. "Imagine how I feel?"
+
+"I need to find a quiet corner of the world and hide for the rest of my life… A quiet life. With no dragons or slimes or mermen!" Leon blurted out in a panic.
+
+"Well, we are planning on turning this island into basically the safest place ever," Vee replied.
+
+"I want to steal the fog enchantments from Volcano Isle, too," I added. "If I can't copy it from the item, then I'll just take it for us."
+
+"Wow, and you called Leon a thief," Vee teased.
+
+"I'll call it payment for destroying the mermen and saving their captive humans."
+
+"Oh wow, you managed to save the humans?"
+
+"Teleported them straight to Saltport."
+
+"I'd love to see the chaos that caused."
+
+"Okay!" Leon suddenly exclaimed. "I think I'll be safer with you two absurdities!"
+
+"That's what I was trying to tell you before," Vee said. "You help us build our island fortress, and you can live here safe and secure with plenty of resources. Plus, with you running the fort, things should be extra smooth!"
+
+"Y-yes. I admit I didn't believe you, but if what you say is true, then it sounds like quite the opportunity."
+
+"What resources?" I asked, glancing at Vee.
+
+"I said you can make metals and stuff with your slime. He collects them for his shell, which is why he stole from the dungeon and the mermen."
+
+"Quite right," Leon replied. "The more improvements I make to my shell, the safer I'll be. In addition, I can grant the fortress I occupy some of my own bonuses."
+
+"Well, you're in luck because I have plenty of stuff lying in storage now," I chuckled. "But what kind of bonuses are we talking about?"
+
+"Well, at the moment, there seems to be a few passive effects depending on the primary material composition of my shell," Leon explained. "Although I admit I haven't fully explored transferring this effect over to my fortress."
+
+"Okay… What does it do right now?" I questioned.
+
+"I'm not sure if it has any additional effects right now, but currently it seems to prevent even Miss Vee from destroying my shell," Leon admitted.
+
+"Wait, really?"
+
+"Frustratingly, yes…" Vee sighed. "Also, you might not have noticed it because the effect is reduced while he's not in a fortress, but his shell actually prevents teleporting near it."
+
+My eyes widened in surprise. "Teleportation protection? Now that's a rare ability."
+
+"Well, he did rob a dungeon," Vee snickered.
+
+"Dungeon bricks… I see!"
+
+This discovery was fascinating, as unless Riftmancer gave me a way to block teleportation, then it would be the biggest weakness of our island plan. Quite ironic considering we wanted to use it as our greatest strength with Vee's portal junction idea.
+
+"But, we will probably want a bigger effect," Vee suggested. "One that can potentially cover the entire island, as previously it only affected around the volcano."
+
+"If what you say is true, then I'll need to acquire more dungeon bricks," Leon replied. "I can either use them to expand my shell further, or better yet, use them as part of the fortress construction."
+
+"Well, it just so happens that a certain slime wants to pick a fight with a dungeon."
+
+"Only if it's not part of the dungeon alliance," I quickly interjected. "I don't want to become the enemy of a massive group of [Dungeon Masters]."
+
+"True, true. We don't want to make Dran cry," Vee giggled. "Plus, I still want to collect my fruit ideas from him."
+
+"At this point, I wonder if you two are joshing or utterly mad," Leon said.
+
+"There's definitely a little bit of madness, especially with Syl, but we're being a hundred percent serious," Vee replied.
+
+"And you definitely defeated the mermen?" Leon asked cautiously.
+
+"Well, if I didn't, then what's all this?"
+
+As I finished speaking, I barfed out a ton of resources from my [Core Storage] from the remains of Azulean. Deepstone glass, crystal, and all sorts of strange materials and rubble were pouring out from the [Sub-Core] I had maneuvered to my hand.
+
+As the pile of stuff grew larger and larger, Leon kept making excited comments, as if he couldn't believe what he was seeing.
+
+"Well… With this collection of odds and sods as proof, I think I'm rinsed," Leon replied before giving off a defeated chuckle.
+
+"Hopefully, there's some good stuff to build in here. I took what I could from the wreckage."
+
+"I still can't believe you destroyed an entire city," Vee sighed.
+
+I shrugged. "The deep ocean did most of the heavy lifting. I just broke their dome."
+
+"Well… I must thank you for defeating those dreaded foes of mine," Leon said, sounding much more cheerful.
+
+"If you want to thank Syl properly, you should actually show your face for once," Vee said.
+
+"That's…" Leon murmured.
+
+"What, do you think Syl is going to eat you?"
+
+"Admittedly, the thought has crossed my mind…"
+
+I sighed. "If you want, I can swear an oath… I've already done it once, might as well do it again."
+
+"An oath?" Leon asked.
+
+Rather than explaining, I just went ahead and made the oath. I figured that seeing it firsthand would do far more good than anything I could say. Since Leon wasn't going to be my [Bonded Companion], I could just make it a simple thing where I would kill him unless he attacked me first.
+
+Leon was evidently shocked when the system itself actually offered him to accept my oath or not.
+
+"Blimey! You really were serious!" Leon exclaimed before accepting the oath.
+
+"Good, now actually greet us face to face. Or are you embarrassed by your looks?" Vee asked.
+
+"Why would I be embarrassed? I'm a crab for heaven's sake."
+
+"Well, with that peachy coloring, I thought you might be," Vee teased.
+
+Leon sighed. "So you were spying on me…"
+
+"Guilty!" Vee impishly admitted.
+
+Leon sighed again, but this time it sounded like he was accepting it. I was watching the pearlescent shell expectantly when it seemed to "release," and out of the opening crawled a reddish crab with streaks and patches in peach coloring.
+
+"H-hello," Leon said as his stalked eyes stared at me.
+
+"Nice to meet you," I said. "You're a lot smaller than I expected."
+
+"W-what do you mean!?" Leon demanded.
+
+I pointed at the shell and then to Leon. Compared to the size of his shell, Leon was maybe only a fifth of its size in comparison, and that was me being generous!
+
+"I mean… Isn't it obvious?"
+
+Vee cackled with laughter, easily drowning out any protesting remarks Leon might have made in her hysterics.
+
+He really is just a lil guy, no wonder he was so scared of everything. How the heck does he even carry such a giant shell around?

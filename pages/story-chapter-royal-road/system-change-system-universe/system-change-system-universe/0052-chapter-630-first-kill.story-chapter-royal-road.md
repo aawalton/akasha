@@ -1,0 +1,141 @@
+---
+id: 7f043267-04b3-54bc-9e89-c97c46d131a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 630: First Kill"
+slug: 0052-chapter-630-first-kill
+partOf: system-change-system-universe
+position: 52
+ownLength: 2089
+unit: words
+ownProgress: 2089
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3066303/chapter-630-first-kill"
+royalRoadId: "3066303"
+markedReadAt: "2026-06-29T19:58:23.820Z"
+---
+
+Chapter 630: First Kill
+
+Derek chuckled at Silvi’s antics. “Does your skill work if it’s a combined effort as long as you get the last hit?” Derek asked. Silvi had read the description to him before, which basically said that anything she cooked that she personally slew would have increased effects. But he’d never really asked her much else about the skill, and she never offered that information.
+
+He assumed that it worked only on what she killed alone, but that was only based on the time she went Void Beast hunting with Edgar and Avery. And while in the Davenresh System, there was nothing that Silvi needed help hunting.
+
+“Yes!” Silvi answered. “But… effect increase is based on the work I did for kill.”
+
+“Oh,” Derek muttered. “I see. So, if you are fully responsible for the kill, then your skill will give you the most out of it during cooking, but if you only contributed ten percent, then you will only get ten percent of the increase of what you normally would have gotten. Does that sound right?”
+
+“I think!” Silvi replied. “Hope the flying fish don’t taste like dirt. May have to marinate… mhm… yeah. Marinate.”
+
+Derek shook his head, then turned to look at Jace. “What the hell happened to you? You didn’t look this bad after crashing into the thing.”
+
+“It’s tail. Even with it bound and slowed by Marrick and Amelia, its tail still hit like a freight train,” Jace said as he spat out a mouthful of blood.
+
+“And you just stood there and let it beat the crap out of you?” Derek asked.
+
+“No… I fought it,” Jace replied, then held up the part of the tail he’d cut off again.
+
+“So… you just fought the tail?”
+
+“Yes… there wasn’t much else I could do without using Surge of War, and I don’t want to use that unless I really need to. And I didn’t need to because the three of you… well, four of you counting Silvi, seemed to have things under control. So… I took the best battle I could find, the debuffed tail… and I won,” Jace explained.
+
+“I see…” Derek replied. “So, it hit pretty hard? Even with Amelia on its back?”
+
+“Yeah,” Jace replied. “About as hard as Amelia was hitting me back when we fought during the invasion. When she would pull my face to her fist. But it was faster and more precise. It went for vitals, too.”
+
+Marrick whistled. “I saw Amelia punching your face in, so that’s a big compliment for the monster. Even though Amelia was holding back so she wouldn’t kill you back then.”
+
+“It made it worse since my Battlelust was low and I’m not healing quickly right now,” Jace sighed. Then his eyes lit up. “But it was a fun fight! It was like I was dodging a whip with a knife on the end. Well worth it.”
+
+“Idiot,” Marrick muttered, and everyone else agreed with the sentiment.
+
+“Y’all figure out what to do with the monster. If all your storage rings are full, I have a storage skill that needs to get used so it can finally level and not solely rely on my stats,” Derek said. After seeing a nod from the group, he pulled up the kill notification.
+
+…
+
+Congratulations!
+
+You have taken part in the slaying of a level 312 Dunesail Gourup.
+
+Calculating total contribution…Calculating total contribution…Calculation complete…
+
+Total Contribution: 67%
+
+Essence to Next Level Gained: 3%
+
+Total Essence to Next Level: 3%
+
+…
+
+I think I liked Sand Ray much better as a name, Derek thought as he went over the notification. Just to see, he quickly changed the essence gained to experience points again and changed it right back after seeing that the amount of experience he’d received was in the hundreds of billions. I think I’ll keep it this way for now, he thought as he dismissed his notification. He was both a fan and not a fan of the kill notification showing the contribution, though.
+
+It was nice that it showed his contribution and he was rewarded with experience—or essence—based on it. However, because the Origin System had a contribution system like that, it meant that he couldn’t just bring people along to limit the amount of essence he received anymore. In the Davenresh System, if he brought three people along, then all four of them would get 25% of the experience.
+
+It seemed he would no longer be able to do that, so he would need to be a bit more careful before reaching level 500. He needed to raise his affinity to a more secure point before he hit that mark. But he’d think of a way. Not to mention the fact that his affinity was already at a pretty high percentage. Surely I’ll have more than enough to upgrade to an Ascendant rarity class at 500, even if I just go along as I have been. He sighed and thought about the contributions again as he glanced at Silvi.
+
+If only her skill worked like the essence when killing a monster, he couldn’t help but think. Currently, as bonded companions, Silvi’s contribution counted as his, too. But he was certain that her skill wouldn’t give her 67%. It would more likely give her somewhere between five and ten percent—her actual contribution. Sure, the monster could have healed if left alone, but when Silvi went in for the final attack, it was basically already dead. And the occasional Void Lightning Bolt that she launched probably didn’t do a ton.
+
+“Alright, everyone,” Derek said, but he was really only looking at Jace. “Get healed up.” Then he shifted his attention to Amelia and Marrick. “And you two should recover your mana, or at least rest a bit to recover from your mental fatigue. It couldn’t have been easy holding that thing down for so long.”
+
+Jace nodded quickly, then took out a health potion and downed it. A few seconds later, he snorted.
+
+“What?” Derek asked.
+
+“Potions work differently here than they did in the Universal System V3, it seems,” he replied.
+
+“Different? How so?” Derek asked. Back in the Davenresh System, Derek was able to take potions, and the only thing he knew was that the effects of each potion lessened as they saturated his body. For example, he would get the full potential out of the first potion, but he’d only get about ninety percent out of a second, and so on.
+
+It made for easy fighting because, if needed, he could take five or more potions back to back and still get great results. Then he’d just have to wait a while, and the potions would work the same as before. So he couldn’t help but wonder what Jace was going on about.
+
+“They have cooldowns now,” Jace said. “I can take two of these…” he held up two identical health potions. “But then, I have to wait five minutes to take the third… apparently.” He drank a second potion. “Yeah… the second gave me the same as the first.” Then, he took the third potion. “And… that didn’t give me anything. It just wasted it.”
+
+“It’s the same for the stamina potions,” Amelia said as she uncorked a yellow potion and drank it.
+
+“And mana potions,” Marrick replied as he took his own.
+
+“Huh… I always thought the way potions worked was a bit of a cheat,” Derek said, then sighed. “That just means we have to be more strategic with potions.”
+
+“And regeneration-over-time potions are going to be the best for me and you,” Marrick said. “But especially you. You already have that insane regeneration, so that’s what you should focus on potion-wise.”
+
+“Can you take a stamina, mana, and health potion all at the same time and get the full benefits of each?” Derek asked.
+
+“Let’s see,” Marrick replied, then drank a yellow stamina potion. Then, he had some sand wrap around his arm and grind some of his skin off without a wince and took a health potion. The wound healed perfectly in almost an instant. “Looks like it’s based on type,” he said.
+
+“Good to know,” Derek said. Really, all he could think was that this was much closer to the way video games back on Earth dealt with potions. The more I think about it, the more it feels like the Davenresh System was like… a tutorial system, or like… medium difficulty, and now we’re on a higher difficulty… maybe, he thought. That monster was barely over level 300, actually. I’ve never had any problems with monsters sixty or so levels above me, but even though I don’t think I would have died, that would have been a very hard fight with just me and Silvi.
+
+If that was just a basic enemy, then that means that we’re going to have to be even more cautious from now on, he thought. Finally, he looked around and saw that everyone other than Silvi was close by and seemed ready. “Are you all ready to keep going? Everyone back to 100%?” he asked and saw them all nod. Finally, he looked at Jace. “Your instincts still telling you to go in the same direction?”
+
+Jace closed his eyes for a second, then laughed. “Nope!” he said.
+
+“What?” Derek muttered, and everyone looked at the bald man.
+
+“That was the fun fight,” Jace replied. “Now it wants me to go that way!” He pointed close to the same direction they were headed before, but it was a bit off to the left. “Our next fun fight awaits!”
+
+“Your instincts really do just seek fights that they think you would enjoy, don’t they?” Derek asked.
+
+“Exactly!” Jace nodded. “And this next way feels a little more fun than the big flying stingray,” he said. “So, it’s going to be awesome.”
+
+Derek rolled his eyes. “Are all the other ways still the same? Like, certain death if we go one of the ways?”
+
+“Oh, yeah. That’s actually gotten stronger. It would be a guaranteed death for me if we went that way, and likely for everyone else… other than you and your cheating self,” Jace replied.
+
+“Does anyone have any objections to following Jace’s way again?” Derek asked. He was completely okay with going like this. Jace’s senses were coming in very handy already. If they continued to work like they were, then they wouldn’t have to worry about biting off more than they could chew. In the end, the only person who raised her hand was Nivara. “What is it?”
+
+“Can somebody else carry my body?” she asked as she glared at Klaus. “Somebody who isn’t going to toss me down on my face when I return? That was incredibly rude to a lady such as I.”
+
+“Anyone want to carry her?” Derek asked, and nobody came forward. “I didn’t think so,” he said before looking back at the former elven queen. “Looks like you are stuck with Klaus. Besides, we need everyone else to be ready for combat.” He then turned to Klaus, who was examining some blood from the slain creature. “Klaus is going to be much more careful with you from now on, right, Klaus?”
+
+Klaus looked up. “Sure,” he said, then kept examining the blood.
+
+Finally, he turned to Silvi. “Silvi, are you almost finished with that corpse?” he asked. She had cut a lot off the thing and stored it away, but there was still about half of it left.
+
+“I got what I wanted,” her voice chimed. “You take rest.”
+
+Derek nodded, then walked close to the remainder of the corpse. There was about a small car’s worth left. He turned and opened his Void Storage—a skill that he hadn’t used for quite a long time. Then, he picked up the corpse and tossed it inside. He would finally be able to level the skill.
+
+After closing his Void Storage, he turned to Nivara. “Well… let’s get to it.”
+
+Nivara pouted for a moment, then walked over to Klaus. She backhanded his hand that was holding a small pool of blood and sent the stuff flying. “Your focus is on me. Drop me again, and it will be the last time.”
+
+Klaus clicked his tongue as the blood splattered onto the ground. “Yes, yes…” he said. “Derek, I would like a sample of that Dunesail Gourup before we part ways, if that is possible.”
+
+“Sure… whatever,” Derek said. Then, he moved back into formation and set out again.

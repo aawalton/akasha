@@ -1,0 +1,133 @@
+---
+id: a3dc266c-c67f-5db1-aff3-c0737f9ec2f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 646: He Pointed. I Shot."
+slug: 0068-chapter-646-he-pointed-i-shot
+partOf: system-change-system-universe
+position: 68
+ownLength: 2126
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3360021/chapter-646-he-pointed-i-shot"
+royalRoadId: "3360021"
+---
+
+Chapter 646: He Pointed. I Shot.
+
+“What happened?” Amelia asked Marrick with a frown. “It’s like Herring just panicked for a moment, which let Jace go in and cut him apart. It can’t be cheap to reform himself after that.”
+
+“I’m not sure,” Marrick replied as he watched the fight unfold in front of them. “Something certainly distracted the man for a moment, but I couldn’t tell you what.” As he spoke, Marrick shifted his attention to the direction where Derek had gone off to. Suddenly, his eyes widened and his face turned serious. “Amelia, prepare to fight.”
+
+“What?” Amelia asked, then looked in the same direction that Marrick was looking. “Oh… the odd energy that was over there left… does that mean”
+
+“I don’t know,” Marrick replied. “Either Derek won and we’re all going to be okay, or he lost and we need to get ready. Perhaps… with Jace like this, and our support… if Jace can hurry and finish off his opponent… maybe we will have a chance. I won’t blame you if you want to just run away. You should be able to survive on this planet until you get strong enough to make it off.”
+
+“No,” Amelia shook her head. “I’m staying.”
+
+“Thank you,” Marrick replied. He hesitated to turn back to the battle in front of them, but he did. Not too long after, he saw a figure with a pair of lightning wings sprouted from his back. “Could that be what it was?” he asked nobody in particular.
+
+“Edgar won?” Amelia replied with a slightly shocked tone.
+
+“That may be the case,” Marrick replied. Then, something unexpected happened. A huge bolt of lightning shot out from Edgar and hit Herring dead on. It seemed to have really affected the man, as he stuttered and paused for a moment. However, that’s not what was unexpected. What was unexpected was Jace disappearing, then reappearing behind Edgar, then Edgar making his rapid descent towards Marrick and Amelia after Jace slapped him.
+
+Edgar landed about five feet in front of Marrick and slowly got to his feet. “Wha da heerr… puh!” the former prince shouted incoherently as he tried to spit out the mouthful of sand residing in his mouth.
+
+“You’re lucky he didn’t kill you in that state,” Marrick said as he watched Edgar dig the sand from inside his mouth.
+
+“He got his Battlelust fully charged, then?” Edgar asked as he dusted himself off. He quickly removed his armor, then put it back on—minus all the dirt and sand. “Yeah… maybe I shouldn’t have attacked.” Edgar had had a front-row seat to Derek and Jace’s battle after he had been defeated by Jakis, so he knew that Jace wasn’t exactly in complete control of himself at the moment.
+
+“It is quite amazing,” Amelia said. “He went from almost dying to pushing his opponent back and even getting the edge on him. He certainly has a great class.”
+
+“He does,” Marrick replied before looking at Edgar. “Now, what happened with your battle? Where is Alex? Did he die?”
+
+“No, he’s fine,” Edgar replied. “He’s just slow. After we finished off the darkness guy, I bolted this way before slowing down and using my wings once I got close enough. I thought about attacking that guy internally but decided against it. I’m glad I did.”
+
+“So you did beat him?” Amelia asked with a nod. “Great. Perhaps that is what caused the man to pause?”
+
+“I believe so,” Marrick replied. “Did Davis give you any problems?”
+
+“None at all,” Edgar replied. “He turtled up inside a dome of darkness, and I just hit him with a massive lightning beam from above. It was a breeze.”
+
+“Oh…” Marrick replied. “Interesting that he would let that happen.”
+
+“Alex has some pretty decent sensory skills. He pointed. I shot,” Edgar explained. “Speaking of Alex…” he nodded, and they looked over to see the young man making his way cautiously through the sky, then suddenly jumped as something touched his back.
+
+***
+
+After storing Nikolai’s body and collecting his rings, Derek entered Void Shift. He had no clue how the other fights were going—well, he had an idea about one of them based on his reaction before he was hit by Silvi—so he wanted to get there as soon as possible. He found the ripples and began pulling himself through them one by one.
+
+It seemed like he was moving slowly through the void—and he was—but time was nearly at a standstill on the outside. It was hard to remember this when he was moving all by himself and not fighting others. Still, he went in one ripple, then out the other, over and over. Finally, he made it to where he’d left the others, then paused.
+
+Jace and the fish man were fighting out front. They were both strong enough at the moment that neither of them seemed completely still to him while shifted. Even with him in Void Shift, he saw Jace slowly vanish, then reappear behind the water user and slice where his tendons would be if he was in a more tangible form. One of his legs was cut clean off, and the other nearly was, too.
+
+However, the severed leg of water turned into a spike and shot through Jace’s heart before turning to ice. Derek almost made a move, but instead saw Jace grin, reach up, and grab the ice, then pull it out. Oh… well… I guess we know that Jace can survive a lethal blow to the heart when he has enough Battlelust, he thought.
+
+Seeing that Jace was going to be okay, Derek shifted his attention to everyone else. Amelia, Edgar, and Marrick were all standing close to one another, watching the battle, and Alex was moving towards them all through the sky. I guess I wasn’t needed after all…he thought with a sigh.
+
+Finally, he moved behind the group with a grin. He pulled himself right behind Edgar, ended his Void Shift, and then pushed the man forward just a bit. Edgar spun around with his sword and swung. Derek held up his forearm and blocked it. “Things seem to be going well over here,” Derek said with a chuckle.
+
+“Derek!” Edgar half-shouted happily. “You’re alive!”
+
+“Yeah… barely. The guy almost got me. I’m actually lucky to still be here,” Derek replied.
+
+“That bad?” Marrick looked at Derek with wide eyes. “You certainly seem to be less cocky.”
+
+“Yeah, this might not have been the best idea, but we somehow made it through it,” Derek replied. “It’s a weird feeling not being a big fish in a small pond anymore. From now on, we’ll have to be a lot more careful when it comes to fighting other system users and stuff. I think we can still be a bit carefree with the monsters around here, but once we get off this planet… I’m going to have to do some research on… everything, really. That Nikolai guy was evolved, and I think even a Mythical class. I wasn’t prepared for that.”
+
+“How did you even beat him?” Amelia asked.
+
+Derek sighed. “By cheating… luck… him somehow being more arrogant than I was… really,” he said. “I tricked him into getting close to a void portal, then, while he was killing me, Silvi head-butted him into it.”
+
+“Yikes,” Edgar said. “So, even evolved, he wasn’t able to deal with being inside there?”
+
+“No… and he wasn’t even inside for too long,” Derek said as he finally felt a bit of pressure appear suddenly on his shoulder. He glanced and saw a tired-looking Silvi perched there.
+
+“Suddenly… the traveling I did with you inside that pot does not seem like it was a good idea,” Edgar muttered. “I’m glad Silvi was able to make it airtight…” he gulped. “Do not piss Silvi off…” he muttered quietly.
+
+On the battlefield, Herring and Jace slowed and stared at one another. Even in his water form, Derek could see the man panting furiously. Jace, other than being covered from head to toe in his own blood—minus the areas where Herring’s water had hit him—didn’t seem to be too worse for wear. “Do we know if Jace has a limit to how long he can be at maximum Battlelust? Or is it until there is nobody left to fight?”
+
+“I don’t know,” Marrick replied. “I’ve wondered the same thing, and it doesn’t seem like the idiot knows, either. From what I’ve gathered from him, that fight with you was the first time he got to that point, which would make this time the second.”
+
+“How long have they been going at it like this?” Derek asked.
+
+“For almost as long as he fought you in that state,” Marrick replied.
+
+“Want me to kill water man?” Silvi asked from her communication crystal. “Like I did ice man?” She was talking about using her dragon flame attack on Herring. Derek wasn’t sure how effective it would be at taking out a guy who was a much higher level than her, though. And, with the short amount of time that he’d been watching, he could tell that Herring wasn’t just a water user. It seemed like he was able to use it in any state. So, it was likely that Silvi would just turn him into steam, and he’d reform.
+
+“No,” Derek answered after thinking for a bit. “We’ll see if Jace can finish him off. If it looks bad, then we’ll step in.”
+
+“It’s not going to get that far,” Marrick said. “The man has a crazy amount of mana, but I’ve seen him take a few potions. He shouldn’t be able to take any more for some time. Once he’s out of mana, he’s dead.”
+
+Suddenly, Herring’s eyes—or watery blue globes—shifted over toward their group. When he saw that Derek was standing with everyone else, a look of shock appeared on his face. It was hard to read but easy to understand. If Derek was there, then it meant that Nikolai was either beaten or dead. Either way, he realized that it didn’t bode well for him.
+
+“Can you shock him with lightning from here?” Derek asked Edgar.
+
+“I… can… but I really don’t want to,” Edgar replied.
+
+“Why?”
+
+“Because the last time I did, Jace made me eat dirt,” Edgar explained.
+
+“Well, he’s going to try to run away any second now. So, prepare to hit him. You don’t have to worry about Jace with me here. If he can’t control himself, then I’ll let him taste some dirt, too.”
+
+“Okay,” Edgar said, then started channeling lightning through his sword.
+
+A few seconds passed, then Derek shouted, “Now!”
+
+Herring’s whole body turned into a small ball of water, and he started to take off in the opposite direction of everyone. However, before he was able to move more than a couple of feet, Edgar’s lightning beam nailed him—causing him to stutter, shake, then reform into a water-based humanoid. Jace cut through the man multiple times, and when he reformed, his body started shifting into flesh once again. The change occurred from his feet up, and Derek winced.
+
+As soon as he was flesh up to his waist, both legs were severed at the knees by Jace. Then he pierced both of his kukri into the man’s stomach and slowly sliced upward—staying just behind the transformation back to flesh and blood. It was a brutal scene, and when his neck finally transformed, both of his arms fell off, then his neck was severed.
+
+“That… ugh…” Alex, who was now standing with them, vomited profusely at the sight of Jace gutting the man like a fish, then decapitating him before his head could even finish transforming back. When his head hit the ground, the top half just made a splash, as it was still water. Alex threw up again at that.
+
+“He’s dead,” Marrick said. “Just got the notification.”
+
+“Same,” Edgar replied.
+
+“Me too,” Amelia said.
+
+Finally, Jace turned around, and his eyes locked onto Edgar. Edgar’s eyes widened as Jace started running. “Uh… Derek… about what you said…”
+
+“Got it,” Derek replied as he channeled the void into his fist. Jace appeared next to Edgar, but not with his kukri in hand, which made Derek sigh in relief. Even in his current state, he at least wasn’t planning on killing Edgar for interfering. Still, Derek punched him in the heart to stop him, transferred his void to his other hand, then—knowing how much he could damage the man from their previous fight—hit him in the head with Multi-Strike. A second later, a Void Lightning bolt from Silvi landed on his head.
+
+Jace paused, the look in his eyes went blank, then he fell onto his back.

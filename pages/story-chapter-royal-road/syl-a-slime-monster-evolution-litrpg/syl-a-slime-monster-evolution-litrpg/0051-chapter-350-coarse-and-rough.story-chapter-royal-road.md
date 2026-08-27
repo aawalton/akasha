@@ -1,0 +1,169 @@
+---
+id: 85ea7692-ec2c-57da-b7c3-7b1c4bbc8d4b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 350 : Coarse and Rough"
+slug: 0051-chapter-350-coarse-and-rough
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 51
+ownLength: 2243
+unit: words
+ownProgress: 2243
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3058511/chapter-350-coarse-and-rough"
+royalRoadId: "3058511"
+markedReadAt: "2026-06-29T19:43:29.883Z"
+---
+
+Now that I finally had some time to myself, I spent a few hours just doing nothing but occasionally destroying Pi for more pink slime core shards while relaxing in my makeshift tub. I could have spied on Vee through Beta, or Sylbera as she'd named it, but I chose to simply spend some time doing nothing for a change.
+
+I did, however, occasionally glance over at our newest team member, who was using his claws to cut and shape the stone like it was putty. What he could do was certainly handy, and I couldn't help but wonder if he would actually stick around or not.
+
+Unc, you can't blame me if he leaves and gets himself killed. I've done my part.
+
+If he were anything like Vee, I figured a pile of loot while mentioning what benefits I could bestow would be enough to tempt him. If he really needed yellow slime cores to further progress his novice artificer profession, then I was his only stable source of them.
+
+It took me so much effort to get that first yellow core…
+
+My [Dungeon Master] plan came to mind again. If I could gain the authority and create a slime dungeon, then I could maybe spawn in the cores I was missing. I'd collected bits and pieces from the various dungeons I'd interacted with, and I understood that "theming" the dungeon was important.
+
+I definitely don't want an undead dungeon or any trash like that. It has to be a slime dungeon!
+
+Hopefully, Leon still knew the location of the dungeon he'd stumbled across, and then I could ask Juniper or Dran if they were part of the alliance.
+
+Or maybe I should ask the spider queen since she's a minion of Mother? I could just use her name to express my intentions since it was her idea after all…
+
+Once I had spent enough time doing nothing, I looked over my magic skills. I just needed to get them all to five, and then I could finally fuse them together and swap to Riftmancer without any regrets.
+
+It's a good thing [Lightning Magic] never reached level six… I was so distracted by the ability to almost double any lightning through my uncapped [Voltaic Slime] that I'd forgotten about it.
+
+I shuddered. The thought alone was terrifying, as then I would've needed to gain an additional five levels across the board! In fact, I'd also risked it with my usage of [Ice Magic] to get some revenge on that Lewis guy.
+
+Okay, Ice and Lightning are completely banned for now! That's an order! If you catch me using it accidentally, you have permission to stop me!
+
+With that risk hopefully settled by my loyal [Sub-Cores], I looked at the options I had available, excluding [Nature Magic], of course.
+
+Steam was the closest to reaching level five, and I was tempted to just focus on that and get it out of the way, but I actually turned my attention to Dust first. It was the only one I hadn't completed my [Derived Element] on yet, and I wanted to get that over and done with, too.
+
+Dust is Earth and Air… Can I use [Chaos Elements] to make this easier?
+
+I started brainstorming ways to make rocks fly. Obviously, that wasn't the solution, so instead I began focusing on the strengths of the two separate elements.
+
+Both were highly efficient when using existing resources, with Air literally everywhere. Both also had a good focus on large-scale attacks, further emphasized by their efficiency.
+
+If I looked at their unique aspects, then [Earth Magic] had some emphasis towards durability, while [Air Magic] seemed to have significant cutting power. That wasn't to say [Earth Magic] couldn't be damaging, but it focused more on crushing and piercing.
+
+Do I try to make something cutting for earth, or do I try to make durable air?
+
+I shook my head. Even with [Chaos Elements], I wasn't sure it would be possible to make durable air. The idea alone gave me a headache. With rocks, on the other hand, I could sharpen them, but would that be enough?
+
+To get a better idea of what I was working with, I cast [Erosion] and watched it turn a patch of hardened soil into fine particles as the sea breeze blew them away.
+
+It's literally just sand, right?
+
+Watching the sand taken by the wind, I felt some ideas forming. Could I infuse the sand with cutting power and turn it into a windy vortex? The idea of being torn apart by tiny particles sounded surprisingly deadly, and I couldn't help but feel inspired.
+
+Let's do it!
+
+My components would be [Cyclone], [Wind Cutter], and [Erosion]. I avoided using [Vacuum Blade] as I figured I'd start small for now, especially since I wasn't really capable of maintaining a ranged version of it for now. I was tempted to use [Sand Pit] instead of [Erosion], but quickly noticed it was actually an inferior effect.
+
+It can't produce particles as fine as [Erosion], and it's slower, too.
+
+And thus began my trials to make a deadly blade storm of dust. Since my other cores were just sitting around acting as slime relays across the island, I had them help with crunching some of the magical constructs before sending them over to Omicron and me.
+
+Together, we made rapid progress, and I found that many gaps were being quickly filled by an unseen hand. I figured this must be [Chaos Elements] at work, blending the components of air and earth in some strange, chaotic harmony.
+
+In only a few hours, we already had our first trial construct, which turned a large area of ground into dust before swirling it into a tornado. The first issue I came across was that it wasn't flowing as it should, so I had us start adding bits of [Geokinesis] and [Aerokinesis] together to build a bit more unity.
+
+While that took some time to accomplish, it quickly solved the issue, and the dust and wind acted as one collective entity. Already, it was pretty debilitating, as anything with orifices would soon find itself with sand everywhere. But I wanted a weapon, not just a smokescreen, so the last part we needed to add was [Wind Cutter].
+
+This went smoother than expected, especially compared to getting [Geokinesis] and [Aerokinesis] working together; we ran into one last hiccup. The flying sand could cut its targets, but it would be destroyed in the process. Obviously, I could just make more sand, but presently it would be like fighting a war of attrition with myself.
+
+Okay, let's add durability from [Earth Magic] then. I'd love to use [Ore Spire], but let's use [Rock Lob] or [Rampart] to keep things simpler. I don't need the particles to never break, just last a few strikes as the bare minimum.
+
+I kept refining the spell more and more, ignoring any background noise from spiders, crabs, cores, or notifications. I was in the zone and felt like I was on the verge of a resounding breakthrough. I kept doing minor tests by using magical sand to blast a rock, and eventually found a way to infuse the granules enough so they would instantly destroy themselves.
+
+Once that was solved, I just needed to put everything together. Weirdly, this was the easiest part of the project, and soon I had what looked like the working framework of a spell.
+
+I threw a magically densified rock and then cast the new spell on the ground below it. Almost immediately, the ground within a circular radius was vaporized into particles and sent airborne, where a twister of sand and air spiraled chaotically in the localized area.
+
+The unfortunate test rock didn't last long and was soon scoured by the hidden blades within the vortex, leaving multiple lacerations.
+
+Success!
+
+I was delighted and finally brought my attention to what I'd been ignoring so far. It was already late evening by my rough estimate, and judging by the flurry of notifications, everything had gone swimmingly.
+
+<Proficiency gained. [Mana Weaving LV 4] improved to [Mana Weaving LV 5].>
+
+<Proficiency gained. [Chaos Elements LV 2] improved to [Chaos Elements LV 3].>
+
+<Spell [Sandstorm] discovered.>
+
+<Awarding bonus proficiency experience for early discovery.>
+
+<Proficiency gained. [Dust Magic LV 1] improved to [Dust Magic LV 4].>
+
+<[Dust Magic LV 2] spell [Sandveil] learned.>
+
+<[Dust Magic LV 3] spell [Scouring Edge] learned.>
+
+<[Dust Magic LV 4] spell [Burial Field] already learned.>
+
+Yes! Now this is the way to learn magic! Who needs to repeat the same old thing over and over when you can just create and learn new things ahead of schedule!
+
+Not only that, but my [Derived Element] hit the maximum level, and I instantly incorporated it, completing my collection of every intermediate elemental affinity.
+
+<[Trait Derived Element (Dust) LV MAX has been lost]>
+
+I wonder if I can derive chaos elements?
+
+Unfortunately, the answer was no. I also didn't gain any additional benefits for completing my collection other than ticking off another box on my own checklist. Of course, once I got [Intermediate Elemental Magic], that would change, and I'd be able to mix and match spells on a whole new level.
+
+I'm looking at you, [Glacial Aura]!
+
+I'd really thought I would have worked on a new aura spell by now, but I kept getting distracted by one thing or another. However, now that I was so close to getting it for free, I'd lost motivation for trying it the hard way.
+
+Well, I'll make up for that when I try to make a [Dimension Magic] aura. But I'm not going to even touch that until I've got my Riftmancer bonuses.
+
+I also noticed that due to all the calculations I was having my other cores handle, Omicron had already reached level four. The experience-sharing network of my [Sub-Cores] was not to be underestimated, and with fourteen other cores all donating their proficiencies, Omicron was getting the silver-spoon treatment.
+
+I looked at Pi, who had recently regrown and felt a little bad. It was still sitting at level one.
+
+Don't worry, you'll join the network eventually. Plus, I'm sure you'll level up eventually.
+
+I glanced away and quickly crushed Pi again, not wanting to see its judging eye…sphere.
+
+<Proficiency gained. [Sub-Core Pi LV 1] improved to [Sub-Core Pi LV 2].>
+
+See! I told you you'd level up eventually. Ha…ha…
+
+I fake coughed and moved on to looking at the new spells I'd acquired, hoping to get rid of the weird guilt that was bubbling up.
+
+Of course, I looked at the names first before doing a bit of a deep dive, and was surprised that I didn't see [Sandstorm] in the list. Had I created something even above level four?
+
+If that's the case, I might be closer to level five than I expected!
+
+I was delighted, and now I knew I just needed to try to repeat this process a few more times. Then all that would be left would be [Nature Magic], which, unfortunately, I couldn't see a way to exploit right now.
+
+[Sandveil] was a defensive spell that controlled clumps of sand to intercept attacks. Honestly, I was surprised to see a defensive spell from [Dust Magic], as I figured it would be highly ineffective.
+
+I tested it out a bit and was somewhat proven wrong, as the sand clumping together had a strangely effective method of absorbing the impacts, not dissimilar to my slime.
+
+When I looked at [Scouring Edge], I realized I might have jumped too far ahead when making [Sandstorm]. The spell compressed sand and accelerated it into cutting streams, turning the fine grains into a weaponized abrasive.
+
+This is way better than my [Wind Cutter] method. I wonder if the official [Sandstorm] uses this? I should modify it and see if I can get an improved version.
+
+I was very interested to see how the official version compared to my recreation. In my opinion, both versions were open to improvements, as with any spell. Also, further modifying it might even unlock level five right away if I were close enough.
+
+[Burial Field] was the final spell, and my immediate impression was that it was an upgraded version of [Sand Pit]. Coincidentally, they were both level four spells and seemed to be control or area-denial spells.
+
+However, while [Sand Pit] was relatively passive, [Burial Field] was not. Not only did it turn an area into quicksand, but it also churned the sand, and if that wasn't enough, it would clump and grab any victims inside it.
+
+[Sandveil] already made me think of my slime, but isn't this basically a hungry slime pit?
+
+I cast a small version of the spell and watched as it writhed, almost like it was made up of worms. When I tossed in a random sword I had lying around from the mermen, the sand actively "grabbed" at it while pulling it into its depths.
+
+Looks like combining Earth and Air has made a very lively combination. I don't think a rock spell could even duplicate this effect, and even if you used soil, I doubt it would have this level of dexterity.
+
+I was very impressed with what I'd seen and quite eager to see the rest of what awaited me for these intermediate elements.
+
+But that can wait till tomorrow. Let's go see what my two many-legged companions have been up to.

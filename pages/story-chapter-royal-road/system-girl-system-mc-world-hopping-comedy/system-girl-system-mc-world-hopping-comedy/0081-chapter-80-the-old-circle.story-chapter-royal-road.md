@@ -1,0 +1,191 @@
+---
+id: c62b5297-9996-591a-8309-ad911e5524c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80: The Old Circle"
+slug: 0081-chapter-80-the-old-circle
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 81
+ownLength: 2946
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3450697/chapter-80-the-old-circle"
+royalRoadId: "3450697"
+---
+
+[Warning: Gore/Dark Elements ahead in the second half of this chapter!] (>_<)...While Ren was busy building his cozy little slice of paradise and hosting weddings in the woods, the capital city of Duckland within the nation of Dolaria was growing increasingly restless.
+
+Not everyone was happy about the sudden, meteoric rise of Lord Fenris.
+
+In the stratified, deeply entrenched society of Dolaria's nobility, climbing the social ladder was strictly a generational affair. A family spent decades arranging careful marriages, paying exorbitant bribes to Guild Masters, and hosting lavish, ruinously expensive galas just to get noticed by the right Duke. Minor lords would bankrupt themselves throwing garden parties, desperately hoping a member of the inner court would make an appearance and elevate their standing.
+
+This new noble, this "Lord Fenris," completely bypassed the entire system.
+
+Bypassing the usual galas and formal gifts entirely, he found a way to socialize while getting paid for it. He simply opened a restaurant. Almost overnight, the highest-ranking members of the nobility flocked to him, eagerly dropping buckets of gold for the absolute privilege of sitting on his beach and eating sea bugs.
+
+The regular noble families were pulling their hair out in sheer frustration. They spent vast fortunes trying to create exclusive social hubs like gentlemen's clubs and high-end salons, a process that usually took several generations to build the necessary prestige. Ren accomplished the exact same level of cultural dominance in a matter of months.
+
+Commanding such overwhelming social influence was a feat historically reserved for the ultra-elite, the ancient families who had ruled Dolaria from the shadows since the kingdom’s founding.
+
+A group of these very families was currently gathering to discuss this exact problem.
+
+The meeting convened in the heavily warded, subterranean solar beneath the sprawling estate of Lord Cornwall. The men seated in the circle of plush, overstuffed leather chairs were the architects of the nation's hidden economy. They were mostly older men, their bellies thick with years of rich food, their fingers adorned with way too much heavy, ostentatious jewelry. They called themselves the Old Circle.
+
+Lord Greenwood, a man whose face permanently looked like he had just smelled sour milk, began the proceedings by slamming a meaty fist onto the armrest of his chair.
+
+"My Lords, this is outrageous," Greenwood snarled, his jowls shaking. "Who does this upstart Lord Fenris think he is? My family has been supplying the Royal Army with all of their provisions for centuries! It is our birthright!"
+
+Lord Cornwall, the host of the evening, casually swirled a goblet of impossibly rare, aged wine. He took a long, slow sniff, savoring the complex bouquet before taking a sip. He looked over at Greenwood with hooded, profoundly indifferent eyes.
+
+"Well," Cornwall murmured, his voice smooth as silk. "Is this why you called an emergency meeting of the Old Circle? Because a new merchant is cutting into your grain margins?"
+
+A few of the other nobles in the dim room chuckled. The sound was cold and mocking.
+
+Lord Goodhart, a man so thin he resembled a skeleton draped in expensive velvet, leaned forward and rested his bony hands on the table. "You are just salty, Greenwood, because your family is about to lose its prominence and its place at this table."
+
+Greenwood gulped audibly, a thick bead of sweat forming on his forehead and catching the candlelight.
+
+His family had maintained a seat in the Old Circle for a very long time. This elite group essentially ran the nation from the shadows. The Royal Family were mere pawns to their games, kept fat, happy, and completely unaware of who truly controlled the kingdom’s levers of power.
+
+Getting into such a group was extremely difficult, meaning leaving was simply impossible. If one of its members lost their standing or their utility, they would be immediately cannibalized by the other members. Their estates would be torn apart and their legacy erased overnight.
+
+Greenwood’s family prided itself on buying grain in bulk, stockpiling it in massive silos, and selling it to the army and people. This highly lucrative business model formed the backbone of their wealth.
+
+Generations ago, the King handled this logistical nightmare directly. The Crown collected a certain amount of grain from all nobles as a tithe and used it to feed the troops. Greenwood’s great-grandfather managed a brilliant, treacherous political maneuver to change the rules. He tricked the King into handing over his greatest strength.
+
+The ancestor convinced the Crown that managing grain was too complex and prone to rot. He proposed the King receive gold directly from the nobles as a tax, while the Greenwood family took over the physical control of the grain silos, ensuring a steady supply for the military. He who controls the food controls the people. For generations, the Greenwoods held the kingdom by the stomach.
+
+This new Lord Ren Fenris seemed to care nothing about what grew from the ground. He appeared to be pulling hot, spicy, pre-packaged meals out of thin air.
+
+Naturally, when Ren first started taking military contracts for his instant ramen, Lord Greenwood took immediate precautions. He quietly sent word to every major farming conglomerate and grain merchant in the kingdom, ensuring no one would sell to House Fenris. He fully intended to starve Ren out of the market before the man could even begin to produce his miracle stew.
+
+To Greenwood’s utter surprise, Ren never went anywhere to buy bulk grains.
+
+The only things Ren purchased were small quantities of exotic vegetables, fresh meat from local hunters, and basic household goods. He bought in laughable amounts, maybe enough to feed a large estate, but certainly nowhere near enough to supply a military force.
+
+Greenwood escalated his efforts, trying to block Ren from bringing shipments in from outside the nation. He spent a huge amount of money bribing border guards, harbor masters, and mercenary companies, making absolutely certain nothing large or suspicious could enter Dolaria for Lord Fenris.
+
+Alas, no shipments passed the borders. The man was conjuring these noodles from the ether. Tons and tons of food materialized from nowhere, perfectly packaged and ready for the soldiers to eat.
+
+To make matters worse, this sudden, inexplicable surplus of high-quality military food meant Greenwood’s own stockpiles were rotting. His massive silos and warehouses were bleeding him dry. More supply in the market meant drastically lower prices, and Ren possessed a seemingly infinite supply.
+
+The situation was spiraling wildly out of hand, prompting Greenwood to call the Old Circle.
+
+His allies clearly cared nothing about this logistical anomaly. They seemed far more interested in the smell of blood in the water, watching him bleed and waiting for the perfect moment to strike and carve up his remaining assets.
+
+Greenwood cleared his throat, desperately needing to pivot the conversation. He had to show them that Ren posed a massive threat to all of them, a danger far greater than a simple grain monopoly.
+
+"We cannot ignore this young Lord," Greenwood began, his voice taking on a harder, more urgent edge. "Both Lord Caladorel and Lady Parisa have been visiting him on a regular basis. Need I remind you all, those two individuals make up almost fifteen percent of Dolaria’s total military might."
+
+Everyone shifted uncomfortably in their seats. Greenwood had finally found a crack in their complacency. He grabbed it with both hands, tearing it open to save his bloodline from a slow and agonizing death.
+
+"We have tried to recruit Lord Caladorel a few hundred years ago ourselves," Cornwall admitted slowly, setting his wine goblet down on the mahogany table. "The man is too dense to understand our hints, or just painfully clueless, living up to his moniker of the Absent-Minded. That does not change the fact that if he is not on our side, we need to make certain no one else is able to turn him."
+
+Lord Cornwall frowned, the heavy implications settling over the room. "So. What do you propose we do?"
+
+"Lord Fenris is a wild dog," Greenwood said, his eyes gleaming. "I propose we find a leash to bind him. If we don't tame him now while he is young, what is to say he won't bite us later? We need to find a weakness."
+
+"For now, we have nothing," Goodhart pointed out, rubbing his bony jaw. "He is a fresh noble with no skeletons in his closet. We need dirt, or something to tie him down. Might I remind you, there have been talks of the Royal Family wanting to visit his establishment."
+
+A collective, sharp intake of breath circled the table.
+
+The Old Circle could never allow such a thing. Everyone and everything around the King was strictly controlled by them. They managed the information the King received and the merchants he favored. Allowing a rogue element to entertain the royals and potentially poison the King's ear with new ideas was a catastrophic threat to their entire shadow government.
+
+"We must find something to tie him down," Cornwall agreed, his eyes narrowing to dangerous slits.
+
+"He is positioning himself among the upper crust of society," Greenwood suggested, a malicious smile creeping onto his face. "He wants to be seen. So, we will mobilize our networks. We will have every aspect of his life, his staff, his habits, and his estate thoroughly searched. We will observe his every move. We will find the crack in his armor."
+
+"And if there is no crack?" a quiet, previously silent noble asked from the shadows of the room.
+
+Cornwall smiled, picking his wine goblet back up. The dark liquid caught the candlelight, looking exactly like fresh blood.
+
+"Then we introduce a hammer," Cornwall said softly. "We make sure his little seaside venture encounters unforeseen difficulties. We will create a problem only we can solve, and force him into our debt."
+
+The Old Circle nodded in silent agreement. The decision was finalized. Lord Ren Fenris had stepped far beyond his station, and they were going to clip his wings before he could fly any higher.
+
+They cared nothing about his magical noodles or his fancy sauces. They cared entirely about control. Right now, Ren represented the most uncontrollable variable in the entire kingdom, a loose thread that needed to be violently snipped.
+
+The meeting adjourned, the wealthy lords slipping back into the night air. Their minds were already spinning webs of sabotage and surveillance, preparing to bring the full, crushing weight of the old nobility down upon the Seaside Inn.
+
+…
+
+Lord Greenwood’s carriage rattled over the cobblestones, the iron-shod wheels echoing sharply in the quiet, wealthy avenues of the Noble District. Inside the plush interior, the air felt suffocatingly thick. He gripped the polished wooden armrest, his knuckles white, his mind churning with the humiliation of the Old Circle meeting.
+
+He was the provider. He was the breadbasket of the army. He controlled the grain, and by extension, he controlled the very foundation of Dolaria’s military might. His family had spent generations cementing that power, slowly starving out competitors and strangling the King's own supply lines until the Crown was utterly dependent on House Greenwood.
+
+And now, some upstart merchant pretending to be a Lord was rendering his entire legacy obsolete with bowls of spicy, hot water.
+
+"Unacceptable," Greenwood hissed into the dark carriage. "Absolutely unacceptable."
+
+The carriage finally rolled to a stop before the massive iron gates of the Greenwood estate. It was a sprawling, ostentatious manor, built to project wealth and intimidate lesser nobles.
+
+Greenwood stepped out, his mood fouler than a stagnant swamp. He stormed up the marble steps and pushed open the heavy mahogany doors.
+
+The grand foyer was immaculate, as always. Lined up perfectly along the walls leading to his private study was a row of elven maids. They stood with flawless posture, their hands clasped neatly in front of them, their heads bowed in perfect, terrified submission.
+
+Every single one of them was exceptionally beautiful, meticulously hand-picked to suit his specific, demanding tastes. They all came from his family’s personal elven villages, sprawling settlements hidden deep within the Greenwood lands, far from the prying eyes of the capital's inspectors.
+
+Greenwood glared at the line of bowed heads. It was a small comfort, a reminder of his absolute authority within these walls. He was among the higher echelon of the Old Circle for a reason. He who controls the grain controls everything. And here, he controlled life and death.
+
+As he walked down the hall, his heavy boots clicking on the marble, he suddenly stopped.
+
+He looked down at a maid standing near the middle of the line. She was young, her silver hair pulled back tightly, her uniform spotless.
+
+"You," Greenwood snapped, pointing a thick, ring-adorned finger at her. "In my study. Now."
+
+The maid in question shuddered internally, a cold, sickening dread pooling in her stomach. If she was lucky, and the Lord was in a relatively good mood, she would be used, bruised, and discarded back to her quarters.
+
+If she wasn't lucky... no one would return from that room.
+
+The Kingdom of Dolaria had tried to implement a somewhat barren version of abolition, trying to ensure certain basic rights for contracted servants. Usually, contracted individuals were insured. Lords could technically be taken to the Magistrate's Court if anything excessively cruel was done to them. It was a flawed system, but it offered a thin veneer of protection.
+
+But alas, she wasn't so lucky. She didn't possess one of those precious, state-sanctioned contracts. She was, in the truest and darkest sense of the word, a slave.
+
+The State didn't even know of her existence. The dark secret of owning your own remote elven village was that a Lord could govern them entirely outside the law. It was horrifyingly easy to conveniently choose not to report a few dozen elves to the state census, creating a secret stash of undocumented labor. These people were ghosts. They had no rights, no protection, and no way out.
+
+The maid didn't dare look up. Looking directly at the Lord was considered a grave offense in this house, often punishable by severe beatings or worse. Everyone kept their heads down. She couldn't look at his face to ascertain his mood and predict her fate. None of the elven maids standing in the long line dared to do so.
+
+She stepped out of the line, her movements stiff and robotic, and followed him.
+
+She entered the study. The huge, heavy oak doors clicked shut behind her, the sound as final as a tomb sealing.
+
+The hallway remained perfectly silent for several long, agonizing minutes.
+
+Then, the soft, unmistakable sound of a heavy blow echoed through the thick wood. It was followed quickly by the muffled, desperate sound of sobs beginning to seep out from under the door frame. The weeping only seemed to intensify the violence within.
+
+Soon, wet, sickening thuds could be heard, vibrating against the marble floor. The distinct, horrifying sound of liquid splattering against wood and parchment drifted into the hall.
+
+The girl standing next to the now-empty space in the line felt hot tears welling up in her eyes. Her chest tightened, panic warring with absolute terror, but she dared not cry out. She squeezed her eyes shut, fighting to keep her breathing steady.
+
+The one who had entered that room was her only friend in the world. They had come from the same village, torn from their families on the same day. They were the only pieces of home they had left.
+
+The sounds continued, a grim, rhythmic cadence of violence.
+
+Eventually, the heavy doors opened.
+
+Lord Greenwood exited the study. The maids in the hall couldn't see his face, but they could see his velvet robes. They were heavily splattered with dark, wet blood. He was casually wiping his knuckles with a fine silk handkerchief, his breathing slightly heavy.
+
+He didn't spare the line of servants a single glance. He kept walking toward the grand staircase.
+
+"Clean up my study," the Lord ordered over his shoulder, his voice completely devoid of emotion. "And have fresh clothes brought to my quarters immediately."
+
+After the Lord's heavy footsteps faded up the stairs, the Head Maid, an older elf with cold, dead eyes, turned to the whimpering girl.
+
+"Bring the cleaning supplies," the Head Maid ordered flatly. "And begin cleaning."
+
+The girl nodded mechanically. She hurried to the supply closet, her hands shaking violently as she grabbed a bucket, a mop, and a stack of rags.
+
+She walked back to the study, pushing the heavy oak door open.
+
+The smell hit her first. Coppery and sharp.
+
+A large pool of blood was spreading across the polished wooden floor directly in front of her, the dark liquid reflecting the ornate, gilded ceiling and the crystal chandelier above.
+
+Just in front of the spreading pool, her friend lay completely lifeless.
+
+Her eyes were open, staring blankly at the ceiling. Her face was caved in and grotesquely swollen, covered in severe, dark purple bruises. Her nose was visibly broken, blood still sluggishly flowing from it. Her pristine, white maid's uniform was torn and soaked in red, her body covered in a horrific tapestry of fresh bruises and lacerations.
+
+The girl dropped the bucket. It hit the floor with a hollow clatter.
+
+She sank to her knees beside the body. She didn't scream. She didn't wail. She just reached out and took a rag, her movements slow and mechanical.
+
+She began to mop the blood from the polished wood. Small, silent drops of salty tears dripped from her chin, falling and mixing into the dark red pool on the floor, doing nothing to wash away the stain of the estate.

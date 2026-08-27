@@ -1,0 +1,491 @@
+---
+id: 22ae150a-0070-55f3-9d9c-a99d2097c07d
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWO: Shoes"
+slug: 0204-two-hundred-two-shoes
+partOf: super-supportive
+position: 204
+ownLength: 5630
+unit: words
+publishedAt: 2025-02-03
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2044797/two-hundred-two-shoes"
+royalRoadId: "2044797"
+---
+
+202
+
+******
+
+“That woman’s a slicer. I want something sliced!”
+
+Natalie was looking down the pedestrian-only street toward a woman with long, silky gray hair. The color of it matched the skirt the woman wore, as well as the mesmerizing droplets that flowed down the backs of her fingers. A young man had just dumped a mound of what looked like oversized ginger roots onto the folding table in front of her, and she was making patting gestures over and around the pile.
+
+“That doesn’t look like a spell impression,” Alden said, hurrying after Natalie, just as eager as she was to get a closer view of the magic.
+
+He’d parked the nonagon against the wall of a building half an hour ago. Their destination was near enough that they could have been there in minutes, but the Free Spell Saturday event was so much fun that they weren’t rushing. The Avowed offering free magical services were wearing System name tags that said so. Some of them had booths or were carrying equipment with them that made them more obvious in the crowd. Others were casually browsing shops or sitting outside cafés.
+
+Natalie hadn’t activated her own name tag, but she had a barter thing going on. She’d brought homemade sweets in her purse to offer people as thanks for their talents. Alden wished he’d known in advance that this event was taking place so that he could have thought of something similar. He couldn’t even figure out how to describe his skill on his name tag to explain how he might be useful or amusing to others.
+
+They reached the woman with the folding table and stood behind a taped line on the pavement that indicated her space requirements. She had already finished with the roots. They were black inside, and she’d cut them into tiny cubes. A pungent smell filled the air. The man who’d brought them was scraping them into a large, dark green box shaped like a Chinese takeout container.
+
+He tapped one of its corners and said a word that meant “seal” in Artonan. When nothing happened, he repeated it, pronouncing the word slightly differently.
+
+After he failed a third time, Alden said, “I think you’ve got the wrong corner. It’s—”
+
+“That one there!” Natalie was saying at the same time, pointing toward the one that looked a little more interesting.
+
+Sympathy for Magic wasn’t annoying when it was like this—just a nudge that made the correct corner stand out from the others.
+
+Some things that weren’t even powerfully enchanted, as far as Alden knew, glowed and made him turn his head. He wondered if some Artonans thought that their fellow wizards would be too stupid to detect the relevant parts of their creations, so they responded by doing the magical equivalent of writing, “PRESS THIS ONE!” or, “CAUTION! Poking this part with your authority WILL BREAK EVERYTHING!” in neon orange paint instead of keeping it subtle and trusting the end user to figure it out.
+
+The man with the roots pressed a finger to the corner Natalie had indicated and gave the seal instruction again. The thick flaps that formed the box’s lid folded over and melted together.
+
+“Rabbits?” he asked. <<Thank you, Rabbits! Thank you, Netta. I will bring you the inker next week.>>
+
+What were those roots, and what is an inker, and what is Natalie doing with that chocolate covered pretzel stick?
+
+“You want to see?” the woman asked, smiling at Natalie as she put the pretzel stick on the table.
+
+“If you don’t mind.”
+
+“You’re new to Anesidora,” Netta said, no doubt tipped off by Natalie’s accent. “Welcome. And you also.”
+
+She was looking at Alden with eyes almost as silver as Natalie’s were gold. He thought he would have known she was an Avowed even if he’d met her on the street in Chicago instead of here in Apex. A little Appeal, a blue tattoo peeking out of the neck of her shirt that looked more authentic than the decorative ones some people wore in imitation, flawless light brown skin that made it hard to settle on an age for her. Though something about the way she was looking at the two of them did make him assume she was oldish.
+
+“You’re Mr. Matadero Party,” she added.
+
+“I…”
+
+“That’s him! I made the turkey!” Natalie announced. “I cook, and Alden makes this amazing shield around things that keeps them safe. You can give him ice cream and then hit it with a blowtorch and nothing happens to it.”
+
+“I do this,” said Netta. “Step closer. It won’t be dangerous with a pretzel as long as you don’t put your hands in the way.”
+
+They stepped closer, standing shoulder to shoulder and watching as a bracelet she wore sent the silvery droplets rolling down the back of her left hand again. When they reached her fingertips, she flicked them off, and as they drifted through the air, they trailed slender filaments that stayed attached to her skin. The filaments stiffened a moment later, and she made the soft patting motion over the pretzel stick. It fell apart into penny-thin discs. With a beckoning gesture from their owner, the filaments retracted, became droplets once more, and slid back toward the bracelet.
+
+“That’s a slicer for sure.” Natalie’s face said she was as delighted with the bracelet as Alden was.
+
+Netta’s name tag did say, “Slicing Service,” but that really didn’t do her method justice.
+
+“It’s your Meister tool?” Alden asked.
+
+He thought the chances of the bracelet being crafted by a Wright were slim, but if she said she had a bunch tucked away for sale and they could be used by anybody, he’d be happy to be wrong.
+
+“Yes,” she said. “Small, but mighty. I don’t think the System is satisfied with how I’ve grown into it. I haven’t heard of it giving anyone else one, and I once had a wizard ask me if I really couldn’t make the strands longer. But I like them just as they are. I don’t think short claws are such a problem.”
+
+Natalie gifted Netta a fresh pretzel stick. They purportedly tasted like a friend smiling at you or a hug, depending on who was describing it.
+
+“I’ve never tasted a smile before,” Alden hinted as they left. They were walking past a table full of Vocal Brutes who were sipping tea from tulip-shaped glasses while their name tags offered free songs and sound entrapment.
+
+“Not many people have.” Natalie tucked the bag that held the pretzel sticks back into her purse.
+
+“Are the chocolate pretzels vegan?” he asked.
+
+“No, I’m sorry.”
+
+Lies!
+
+Okay. Not lies. The ones she’d just put in the purse weren’t, but he had caught a glimpse of a smaller bag with a single pretzel stick in it, and the gremlin was cool with that one.
+
+“I should take a picture of your face and send it to Emilija and Hadiza,” she said.
+
+“You’ve become cold and evil. They teach you to be mean-mean in culinary high school.”
+
+“Weren’t you just bragging that you killed a teacher?”
+
+“It was a fake death, and Klein had been breaking our legs for hours.”
+
+She started to say something else teasing; he could tell she was going to by the look on her face. But before she could, they were both distracted by a shadow overhead. Alden looked up to see two long swaths of fabric—one red and one yellow—undulating through the air. They danced around each other for almost a minute before tying themselves into a big bow and drifting down to hover above a man with raised arms.
+
+His name tag read, “Free Object Shaping.”
+
+Natalie and Alden watched a family of two teens and two adults talk to the Shaper briefly. When he nodded, they all climbed into the loops of the bow together for a photo.
+
+“That would be a fun picture,” said Natalie. “Do you want…or not, I guess.”
+
+A crowd was already gathering around the Shaper. Alden didn’t know what he would do with a picture of himself sitting in a giant bow, but she sounded disappointed.
+
+“I don’t mind waiting if you want to.”
+
+“It’s all right. There’s so much else to see.”
+
+She was right about that.
+
+They passed a woman who was offering free pain relief and repair for injuries that were too minor to even bother going to a dispensary for. There weren’t many places in the world where you could find a Healer enjoying a day off by watching her Adjuster sister roast chestnuts while people strolling by asked to have the ouch taken out of burnt tongues and hangnails.
+
+A Wright was demonstrating what went into making an electrical appliance run on enchantment. And a group of Brutes, Adjusters, and Shapers were speed-beautifying a couple of storefronts. Watching them work was better entertainment than a lot of the actual street performances. There was even a Sway who looked only a few years older than the two of them, offering “Free Self-control” to procrastinators. The woman talking to him was telling him that she wanted to want to throw away some of the junk in her apartment.
+
+“Lobsters!” Natalie said suddenly.
+
+“Where?” Alden looked away from the giant bubble he’d caught and preserved a couple of minutes ago. Someone was making them and sending them down the street. They seemed to be good old-fashioned soap bubbles rather than something magical.
+
+“I just realized I might have to kill a lobster for one of my classes next quarter. You’re right. The culinary arts track is more violent than the hero track.”
+
+“Do you have to do it even if you don’t want to?”
+
+“I don’t know.” She adjusted her purse on her shoulder. “But I don’t actually mind doing it. If you’re willing to eat something…and some celebrations are about the meat being…you know…fresh. On other planets. What if I’m the person who makes the condiments for a traditional Artonan hunt? Or I get to visit a bunch of lortch when it’s a Night of Emergence? When those little fish-looking things climbed out of their burrows— ”
+
+“You’d eat one of those?”
+
+Her smile was hesitant. “Would it bother you if I said yes? Probably. Lortch are very serious about some traditions, and I wouldn’t want to offend whoever had welcomed me into their village.”
+
+If Alden recalled correctly, lortch stabbed those things with a pair of pointy sticks as they crawled out of the ground by the thousands, then gorged themselves on whatever was left of the previous emergence while they prepared the new ones for storage.
+
+“I don’t want to be invited to that event,” he said, “but it’s fine if you do.”
+
+She looked more pleased with that answer than he thought she should.
+
+“Don’t worry about what I think of your alien-tasting plans,” Alden told her. “As long as you have fun and stay safe out there…running around in the dark with a pair of stabbing sticks. Everybody needs goals.”
+
+She nodded and poked the bubble. “I wouldn’t call that a goal. It’s something that might happen one day. That’s all.”
+
+“Are you sure you haven’t just revealed your actual life’s purpose to me?”
+
+She poked the bubble again, and he let it pop on them both. Her cheek dimpled.
+
+“I have been worried a little bit,” she confessed. “I didn’t think you minded me cooking meat all the time, since you’re always talking about how good it looks and smells. But you’re so dedicated to your diet, and maybe you were just being supportive because it’s my skill, even though you thought…”
+
+Until just then, Alden hadn’t realized why she was going into detail about what kinds of animals she might serve up on platters to diners of various species.
+
+“The vegan thing!” he exclaimed.
+
+She blinked.
+
+“No,” he said. “Don’t worry about me being upset with you for that. I kind of fell into the diet. I haven’t actually pondered the morality of it as much as I should have by now? But I’m seriously fine with you cooking and eating lifeforms that are below a reasonable intelligence threshold.”
+
+“Okay. Good!” she said. “I mean, I do think it’s really nice how much humans care about animals compared to a lot of other—”
+
+“Right? One of the better things about our species. In modern times and most places anyway. So about those lobsters…you do what you feel right about. And then enjoy eating them. Without me.”
+
+“That’s what I’ll do.”
+
+They were both nodding at each other like something serious had been dealt with.
+
+“Sorry for not catching on to what you meant faster. That’s the place we’re going, isn’t it?” Alden nodded toward a restaurant. The people exiting had their food in bags with the logogram for “meal” on them.
+
+“That’s it,” Natalie said.
+
+“The diet is inconvenient in a lot of ways,” Alden added as they headed there.
+
+More than once on Thegund, he’d had the thought that a major eating restriction on top of a limited food supply could have been lethal. What if the lab had been stocked mostly with jerky?
+
+“But it’s been positive for me in others. I’ve tried so many new foods because of it, and a lot of them are way healthier than what I used to eat. And delicious. Your vegan nachos. I thought it was your magic making them taste better than the regular kind, but that afternoon when you made them for me even though you’d fatigued your skill earlier in the day? Still the best.”
+
+At the compliment, she hopped ahead of him and spun to face him. It was a dynamic, graceful movement. One that caught his attention in the way that still happened often enough even though he was used to how the Appeal worked, making all the pleasant things about her sing louder to his senses. There it was in the way her hair gleamed in the sun, and also in the way her long legs carried her back two simple steps that were somehow so perfect it was like watching a fragment of a dance.
+
+“I might,” she said, her voice warmer than the day they’d both agreed felt like summer, “have one pretzel for you in my purse.”
+
+“The truth comes out!”
+
+“You can have it later.”
+
+“I have to wait?”
+
+“You do. I want you to actually enjoy this place, not be distracted by what I made.”
+
+She pushed open the door, and they went inside.
+
+******
+
+The drudgery chest was the heart of the restaurant and the source of the food. There were no chefs present. Instead, a chalkboard listed the current meal and thanked the people who’d trained the magical device to cook it.
+
+Alden and Natalie watched through a series of windows as knives chopped vegetables that then slid themselves onto pans. And as pans traveled to ovens, bouncing slightly like the person who the drudgery chest was mimicking had had a spring in their step.
+
+An oven door opened and closed, a ladle dipped itself into a bubbling pot, and honey drizzled out of a bottle onto chunks of feta cheese.
+
+A couple of people did help the kitchen out by supplying it with ingredients, but according to Natalie, it could go on cooking this meal for a week with only the resupply and occasional troubleshooting of things like dulling knives or drifting pans. Then, when the owner was ready for it to do something new, it was retrained with an entirely different menu.
+
+Six argold bought a meal. There were no substitutions, and everything was served in carryout containers even if you were eating inside at one of the booths or the human-run coffee bar. There were multiple small dishes included, so Alden traded his feta for one of Natalie’s pitas while they talked about how full their new lives as residents of Apex were.
+
+She didn’t want to discuss the night of the disaster and what had happened. Alden was more than fine with that. Instead, she told him about some girls she knew who were planning to break the record for making the world’s longest noodle, then they shifted to school drama. He told her about Winston when she asked if Talent Development had stupid conflicts like Arts.
+
+She brought up Lute and Emilija, and he was prepared to offer the opinion that Lute Velra deserved a much better reputation than he had. But before he could do that, she suddenly leaped from the two of them to him.
+
+“You’ve never mentioned it,” she said, “but did you have a girlfriend before you got summoned and everything happened?”
+
+Alden was surprised by the question, but maybe the surprising thing was that she hadn’t asked before. After all, people who’d only just met you asked you things like this sometimes.
+
+“No,” he said. “I’ve never dated anybody.”
+
+“I’m surprised,” said Natalie. “You’re so mature and thoughtful.”
+
+“Thank you.” A tiny alarm had just begun to sound in Alden’s head. He was going to ignore it. “But I’m not that mature.”
+
+“You are, though!”
+
+The tabletop between them was barely large enough for their spread of food. Beneath it, one of Natalie’s shoes bumped the toe of one of his own.
+
+That, thought Alden, could have been a friendly toe bump. The kind of thing you do for conversational emphasis, like a fist bump with feet.
+
+“Most people would probably have bragged a little about having a commendation. Or shown it off. But you didn’t mention it in intake at all, not even when that guy who Paolo brought over to our apartment said he wouldn’t mind getting stranded somewhere if he got full pay and an apology fee.”
+
+This is a small space, too, so accidental foot bumping happens.
+
+It was just the question about girlfriends coming out of the blue in combo with it that made it seem loaded.
+
+Natalie plucked an olive from the salad cup beside her and popped it into her mouth. “You just ignored him. I thought he was so stupid, and I was going to tell him so.”
+
+“He was stupid.”
+
+“But you were calm and collected about it.”
+
+“Well,” said Alden, “I suggested we all go play with my pinball machine so that I could beat him, so I wouldn’t say I was one hundred percent mature there.”
+
+Her laugh was bright.
+
+“Did you hear about the commendation at school?” he asked.
+
+“I did. People in my classes know I know you, so they were asking a lot of questions.”
+
+“Sorry,” said Alden. “I expected them all to ask me questions, but it seems like most people are going to be semi-normal to my face and then grill my friends when I’m not around. Haoyu and Lexi got questioned by our gym class, and then I think the gym class is gossiping with the rest of the school. So far, all I’m getting personally are stray comments, and some people who didn’t care about me at all last week are acting like everything I say is interesting. Or deep.”
+
+“Maybe you’re being deeper than you realize.”
+
+“I don’t think I am. There’s this one guy who says I’m deep even if the most ridiculous crap in the world comes out of my mouth. I wonder if he thinks I’m scoring him on how many times he says it. You know, for the special commended-person report I send to the Triplanets every evening, letting them know which Celena North students are the best.”
+
+Natalie gasped dramatically and put a hand to her mouth. “The rumors are true! How is my score?”
+
+“Top of the charts!”
+
+“Yes. I knew I was winning.”
+
+The window beside them was briefly shaded by a sheet of red fabric shooting by, pursued a moment later by a yellow one. They both leaned in their seats to watch the fabric weave wildly through the people walking past and then spiral upwards.
+
+“That Shaper has amazing control,” said Alden.
+
+Another toe-bump made him turn back to face her. She was wearing the sweetest little smile as she slurped lemon water through a straw.
+
+Uh-oh.
+
+I mean, she’s almost as tall as me, so long legs make her feet touching mine more like—
+
+“The next couple of months are so full of holiday stuff,” said Natalie, setting down her cup.
+
+Alden swallowed. “Yeah. When I was reading the dorm notice board, I saw that a group of campus carolers is being put together. And Kon, from my class, mentioned that his parents’ ballet company usually does a special show for Lunar New Year. I don’t know if they still will with everything being how it is.”
+
+“They’ll probably do it better than ever,” she said. “Everyone seems to be thinking about showing their—our—Anesidoran spirit. The Rabbit Welcome is still happening. They just changed the location. And I’ve been invited to six holiday parties so far.”
+
+“That’s a lot.”
+
+“They would be more fun if I had someone to go with.”
+
+The alarm was no longer quiet. An entire brass band was blaring warning notes. Red lights were flashing.
+
+“And from the Rabbit Welcome you can actually get invited to other events. It’s called ‘hopping’ which I think is so cute. There’s a pretty famous dance, too. So a partner for that would be the…Alden? I don’t think that fits in your mouth.”
+
+Alden had just shoved three quarters of a large pita into his face. This was a brilliant, subtle way to give himself more time to think before answering, according to the panicked doofus that had possessed his body for a couple of seconds.
+
+Natalie looked disturbed.
+
+I’m the suavest man alive. Alden winced, slapped a hand to his mouth, and tried to chew.
+
+******
+
+The things a person mentally typed into his internet search bubble while he was trying not to choke on, or spit out, a massive gob of dry pita in front of a girl whose toe-bumps were almost definitely, probably, ninety-nine percent likely to be flirting?
+
+Those things shouldn’t be held against a person, in Alden’s opinion.
+
+“How to say no to going out?”
+
+“What is dating really?”
+
+“What is dating for teenagers?”
+
+“How do I know if I’m already on a date?”
+
+“What do I do if someone ever tries to kiss me?”
+
+“Specifically, what do people do with their tongues?”
+
+“Will my friend hate me if I pretend I don’t know she wants me to go with her to a bunch of holiday parties?”
+
+“How many dates before you become someone’s boyfriend?”
+
+“Percentage of sixteen-year-old human males who don’t want to have sex today?”
+
+“How to swallow bread?”
+
+He wasn’t even reading the answers to any of these questions or clicking on links. Despite his ill-considered decision to shove the Pita of Delay into his face, he wasn’t actually a socially hopeless mutant. He could figure most of these out on his own well enough to function under normal circumstances.
+
+“Do you want some of my water?” Natalie asked, holding the cup toward him.
+
+He shook his head and tried to smile at her while his jaws worked.
+
+Wow. Natalie Choir is asking me to ask her out. I think.
+
+She was, even now that he was used to her, so delightful to be around. And despite him wanting to be above and beyond such thoughts, some dumb part of his psyche was preening because it believed that an extremely gorgeous girl or guy liking him meant he was winning at…
+
+Alden wasn’t even sure what.
+
+What even is that? It’s not like this is something I was going for, and it’s so bad that it’s happened because what if I hurt her feelings? What do I do? How much do I say?
+
+And, even more soberingly, if he’d wanted to dip his feet into the world of dating right now, this afternoon…what came next?
+
+When did a boyfriend reveal that he was a wizard? When did he warn someone about that and everything else that went with it?
+
+Probably sometime after I actually figure out what the ‘everything else’ includes.
+
+So maybe when he was thirty. The Primary seemed to think that was a good adult age.
+
+Wait, he didn’t even ask out his own spouses until his sister—
+
+“Why did you try to eat so much at once?”
+
+Alden shook his head.
+
+“Did I freak you out? I freaked you out, didn’t I?”
+
+Alden shook his head harder
+
+“I did!”
+
+He waved his arms in denial
+
+Natalie waited for him to speak.
+
+He ended up having to motion for her water after all to make it happen. “Oh my god, Natalie,” he said, when he’d finally cleared his mouth. “I’m so sorry. I’m an idiot. I’ll get you another water.”
+
+Her smile was awkward.
+
+“I thought maybe you were asking me out,” he said. The words sounded crazy once he’d spoken them. He suddenly doubted them despite all the evidence in their favor.
+
+“And so I…um…” His face was burning hot. “I loaded up on carbs?”
+
+She blinked at him, then her smile widened, and her chest started shaking with a suppressed laugh.
+
+Alden groaned. “I told you I wasn’t that mature.”
+
+“It’s my fault,” said Natalie. “I should have mentioned us going to one thing together instead of so many…and the dancing was…”
+
+“Natalie, I’d love to keep hanging out with you, but to be honest, I’m not in a great place right now for something more confusing than us just having fun together and getting to know each other better as friends.”
+
+“Confusing?”
+
+Alden could probably have just said he wasn’t ready, that he was still recovering from the year he’d had. Leave it simple and nonspecific. But he thought she deserved more.
+
+“Can we talk about other stuff until after lunch?” he asked, looking around the busy restaurant. “I want to tell you some things that are a little personal. The nonagon would be better for that kind of conversation.”
+
+******
+
+Hovering above Apex, legs dangling over the edge of the nonagon, he told her more about Thegund than he had before. Not as much as he’d told Lexi and Haoyu the other day, but that was only because he didn’t want to make the conversation all about him, and a full recounting definitely would do that.
+
+He told her enough to explain that he wasn’t settled back into his life yet even if he did an okay job of faking it. He brought up the fact that he was still back and forth to the Triplanets, seeing a mind healer, and focused on fighting personal demons.
+
+“I’d be an awful person to date, I think,” he said, trying to keep his voice as light and friendly as he could. She did seem more subdued than he wanted her to be. “At least for now. Please don’t hate me.”
+
+“I don’t hate you.”
+
+“Or deprive me of your guacamole. Or send Emilija after me.”
+
+He bumped her shoe with his own. His stomach clenched when he did it, and his hands tightened on the nonagon’s edge. He wanted to do something to show her he really thought she was great, and he wasn’t just saying, “Let’s be friends,” as a brush-off.
+
+But what if it was the wrong gesture?
+
+She looked down at their feet for a few seconds, then swung hers to bump him back.
+
+He let out a breath, and she released a sigh of her own.
+
+“I didn’t think you were into me. Until recently,” she said. “Because you didn’t act like you were most of the time. You didn’t seem to notice me as much as a lot of people do. But then everyone kept telling me you probably did have a crush on me, and I—”
+
+“Everyone who?” Alden asked, startled.
+
+“Hadiza and Paolo and my mom and dad and one of my aunts and a lot of other Rabbits from intake.”
+
+“That’s so many people! What the…your parents, too?” I don’t even know them.
+
+“I mentioned you on calls home.”
+
+Alden was perplexed. “Was it because I hired you to cook for me?”
+
+“I think that was it for my mom. She couldn’t believe another teenager would pay me that much. She thought my rates were too high.”
+
+“I would pay you more. This week. To prove to any doubters that your rates were completely reasonable for a professional of your caliber.”
+
+“I told her you were rich, hungry, and interested in fitness. My dad was different. ‘Nat, you’re such a sweet girl, but I want you to listen to me when I tell you there’s no way a boy his age is acting like your friend without a reason.’”
+
+Alden wrinkled his nose.
+
+“I should have said, ‘Yes, I know his reason, and that reason is my guacamole.’”
+
+He laughed.
+
+“Instead, I started thinking they must be right,” she said. “I thought…you are so nice, and we always get along so well. And if you were just being shy or patient, then it was…but it turns out you weren’t!”
+
+The cheer in her voice was forced.
+
+They were both wearing their almost-matching sunglasses again. He pushed his up onto the top of his head and looked at her without them.
+
+The day was beautiful, and she was being understanding even though he was sure he’d hurt her a little.
+
+“I know you don’t need one more person telling you you’re pretty. But of course you’re breathtaking. I have noticed. I regularly notice. Hot people don’t really trigger—”
+
+He couldn’t find an unembarrassing word fast enough. Where had all the unembarrassing words gone?
+
+“—lust for me, but I do enjoy looking at you. More importantly than that, you are such a good friend to your friends. You’re fun and funny and ambitious. You made me feel welcome and normal when we spent time together in intake, which was an amazing feat because I was such a mess. I am such a mess. I have absolutely no idea what’s going to be happening in my life six months from now. I’m trying hard to find myself.
+
+“And I have no clue how to dance, but I will always be flattered that you asked me to. I will take you to do that, by the way. If I’m not busy and you’re interested in spending time with me when you could be with a stable, hot, lustful guy instead.”
+
+She slowly lifted her sunglasses.
+
+He felt like he was awaiting judgment.
+
+“I think you’re hot enough,” she said.
+
+That was not the judgement he’d been awaiting.
+
+“Do you really not…want people?”
+
+There it was. He wondered if she was thinking his rejection of dating was a bullet dodged.
+
+“It’s not like I’m opposed to having sex,” he answered. “I want to try it sometime. With the right person. I don’t see hot people and crave them in that way. So far. But maybe I haven’t grown into it yet. Or I’m someone who has to fall in love first. Maybe I was a late bloomer, and then Thegund shoved it back even further. Or maybe it’s just how I am.”
+
+He resisted an insane urge to go into further detail about his hypothetical future as a haver of sex.
+
+“Thank you for telling me,” Natalie said. “And for calling me breathtaking.”
+
+“Just…being honest about all the things. Since you were.”
+
+“Do you want to date people ever?” she asked.
+
+“I’ve always assumed I would. One day. But it’s not a priority for me right now. I don’t know what I want in about twenty different life directions.”
+
+“So I can ask you out again sometime,” Natalie concluded. “If we’re both available.”
+
+“You’d still want to?” Alden asked cautiously.
+
+“Not if you put that much food in your mouth at once again.”
+
+He smiled.
+
+“You know…I would be a horrible person to date, too,” she said. “Not right now. But in the future.”
+
+She left that thought there and watched him to see if he would pick it up.
+
+“Because you’re planning to spend most of your time off Earth?”
+
+“I want to see the universe,” she said. “I’m going to. I picked my skill and all the Appeal because being a likable Rabbit is the easiest, safest way to get out there. I probably shouldn’t be asking people to date me when I’ve already jumped toward something like that.”
+
+“You’ll still come back to Anesidora some.”
+
+“I know. I know it’s complicated, too. I don’t want to be lonely, but I chose this, and I’m still heading that way… ”
+
+“Here,” said Alden. “Take this.”
+
+Natalie reached up to touch her interface. “Are you trying to pay me to cook for you again?” she asked when she saw the argold he’d sent her.
+
+“Always. But not with this. This is the exact amount of the Earth to Sreeeakk connection fee. It’s the most expensive call I ever made.”
+
+“Were you calling a griveck?”
+
+“Don’t spend it, okay?” said Alden. “It’s symbolic. It means you won’t be lonely. No matter how far away you go, Earth and all the people here are only a call away.”
+
+As long as the Systems work.
+
+Natalie looked at her interface for a while, then back at him. “Thank you.”
+
+She didn’t give him the special pretzel.
+
+She did go with him to the pick-your-own produce experience to collect fruit.
+
+And on the flight back to her apartment, just before they arrived, she hooked her ankle around his and left it there for a few seconds.
+
+The way Alden cherished those seconds made them feel like they lasted for a much longer time.******

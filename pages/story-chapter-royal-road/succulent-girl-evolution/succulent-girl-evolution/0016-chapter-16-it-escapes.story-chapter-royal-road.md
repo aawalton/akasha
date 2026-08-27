@@ -1,0 +1,147 @@
+---
+id: 1a26ba11-9b1c-57e9-8b8a-c3adf1a3b1af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: It Escapes"
+slug: 0016-chapter-16-it-escapes
+partOf: succulent-girl-evolution
+position: 16
+ownLength: 2107
+unit: words
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2560609/chapter-16-it-escapes"
+royalRoadId: "2560609"
+---
+
+“The enchantment’s about to break,” Randall warned the other two in the carriage. His voice shook with nervousness. “Should we pull over?”
+
+“Looks like we must,” Wolfe said grimly. He reached over and knocked on the window separating the cabin from the driver’s seat. “Lupold, pull over. And let the other carriage know we’ll need support.”
+
+Marco unsheathed his knives, and Toby spread his wings in preparation to attack. He won’t be able to do much in here, Marco thought grimly. He opened the carriage door, sending Toby out with brief instructions to keep watch from above.
+
+Link, on the other hand, remained in the carriage with the rest of them. Wolfe sent the mage out with Toby as backup, leaving just himself, Marco, and Link in the carriage. He gave instructions to close all the windows, so that if the creature burst free it would have nowhere to run. Despite having more room to maneuver, the plan did nothing to calm Marco.
+
+“Yeah, great, I always wanted to be trapped in a confined space with a baby plant monster,” Marco muttered under his breath.
+
+“I permit you to kill it if you have to,” Wolfe said as he drew out one of his short swords, aiming the blade at the capsule that the mage had quickly laid down in the middle of the carriage floor before departing. Link stood over it, growling softly. “The postmortem should still be valuable for the CES.”
+
+“The paperwork, though,” Marco reminded him. He tried to keep the whine out of his voice. “But yeah, okay. Better to be chained to my desk for the next six months than be eternally crippled or dead.”
+
+The snare sphere, balanced perfectly in the middle of the floor, flickered once more before the last of the gold faded. Nothing moved.
+
+Just as Marco inhaled, the sphere burst open in two halves, and the bushy-and-spiky-yet-smooth plant-bug exploded out, skittering beneath Link’s paws and barely dodging his snapping jaws.
+
+Marco lunged forward, swiping between the wolf’s legs as he repositioned himself while Wolfe covered them with his short sword, keeping the creature contained. His blades grazed the wood, chipping the seat.
+
+This is insane, Marco thought grimly to himself as they continued this ridiculous dance. Their teamwork was excellent so they never struck each other, as one would expect from a band of high-dexterity rangers; but the cramped quarters they were fighting in disadvantaged the three of them a lot more than just the one beast, which was seemingly intelligent enough to maneuver itself around them so that they never had a clear shot. It all came down to who made the first mistake.
+
+As if by some unspoken agreement, the four beings in the carriage froze: the plant-bug in a corner near the door, Link taking point facing down the bug, and Marco and Wolfe flanking the canine. Marco was already breathing heavily, and the wolf was panting as well. The plant-bug was quivering, perhaps from exhaustion. This might be it.
+
+Readjusting his grip on his knives, Marco braced himself for the clincher, using all of his senses to predict what his teammates would do so he could fill in accordingly.
+
+Wolfe and Link moved, in perfect synchronization. Marco fell back to cover them.
+
+However, the plant-bug didn’t react predictably. Instead of avoiding Link’s fangs, it sprang right for them, easily avoiding Wolfe’s blade, which he had swung in an effort to herd it away from his side. Link swung his snout, attempting to catch the creature, but it somehow managed to slip through his jaws, leaving him with a mouthful of leaves and needles. Marco readjusted the trajectory of his second knife to cut off the open space between Link’s legs.
+
+From Marco’s vantage point, it was as if he was watching everything in slow motion.
+
+The plant-bug, instead of trying to get away from Link, latched onto his scruff, scampered down his chest and between his front legs, right to where the harness bearing his Trainer Gem was. Link shook himself, trying to dislodge the creature from his body, but it clung on. He nosed down, snapping at the leaves attached to his chest, but he wasn’t able to get a good grip from that position, and only succeeded in tearing out some more leaves; but the bug remained undeterred, stuck to Link’s chest like it was going to be his new decoration.
+
+“I’ve got it!” Marco shouted, leaping forward and brandishing his knives. Wolfe retreated and let Marco through, but Link turned, slipping past Marco’s knives and backed away from them. He growled—at them.
+
+Marco froze, the visceral threat from a wild predator running down his spine. Wait, what’s happening?
+
+Link’s eyes, normally the same striking shade of blue as Wolfe’s, were now green. Marco chuckled nervously.
+
+“Hey buddy, hold still, yeah? I’m gonna get that bug off of you.” He slowly reached forward, towards the sad little bush the wolf still wore on his chest. But Link’s growl intensified. “Wolfe? What’s going on?”
+
+“Back away,” Wolfe said sharply, pushing himself in front of Marco. His sword was raised defensively in front of him, as if he was expecting Link to attack him. Link’s growls didn’t ease up.
+
+“Why’s he being like this?” Marco hissed to his leader. Luna, Rina’s panther, was the temperamental one in their group; none of their other animal companions ever acted up like this, especially not Link.
+
+“Link,” Wolfe said soothingly, ignoring Marco entirely. He didn’t know what had happened, but the connection he normally had with Link—it was gone. The wolf he had captured and tamed as a cub with the Training Gem was now facing him as an enemy. “It’s all right. It’s me. Do you remember?”
+
+He held out the back of his gauntleted hand, urging the canine to smell him. Link’s lip twitched, exposing a fang.
+
+They were trapped in a standoff: Link warning them back, and Wolfe and Marco unable to do anything about it. Despite his best judgment, Wolfe’s eyes lowered to the plant monster, which was now docile, clinging onto Link’s harness.
+
+It did something to Link. Wolfe felt anger surge through him.
+
+“Marco,” he said softly, keeping his gaze fixed on Link and the plant. “New objective. Kill the plant monster.”
+
+His ranger didn’t say anything, but he felt him shift his footing from behind him as he got into a ready position.
+
+Feeling their resolve, Link snarled in kind, his hackles raising.
+
+As Wolfe lunged forward, intent on wrestling his companion down so Marco could have unfettered access to the plant, Link leaped over him, claws flashing. He felt Link’s heavy paws land on his shoulders, all two hundred pounds pushing off of him, sending him crashing into the floor.
+
+Stunned by the impact, Wolfe lay there, listening to another crash and Marco’s yells.
+
+I hope he’s fine, was Wolfe’s last thought before darkness overtook him.
+
+~ ~ ~ ~ ~
+
+Bubbles didn’t know where they were going; all she knew was that she had to hold on for dear life as the wolf loped away from all the shouts and ruckus the humans were making. Sharp cries filled the air as the birds in the sky screamed at their fleeing companion.
+
+Rock was in agreement: as long as they were moving away from humans, it didn’t matter where they were going.
+
+[That went very well,] Rock declared, pleased. [Everything went as planned.]
+
+I’m glad you’re glad, Bubbles said feebly.
+
+[You should be! We are free!] Bubbles had never seen Rock in such good spirits. [And the amount of mana I was able to purify and absorb was significant!]
+
+The wolf slowed to a stop after a long run, and Bubbles took that as a cue to peek up at her ride.
+
+“I appreciate you freeing me from the hold the humans had over me, but I would appreciate it more if you removed yourself from me,” a deep voice said. The rumbling matched the rumble Bubbles felt on the wolf’s chest.
+
+“Oh! Of course—thank you very much for the ride.” Without further ado, she hopped off of him and onto the soft springy forest floor. They were deep under the cover of tall trees. She backed up several paces to look at him. “Thank you for helping me get out of there, Mister…?”
+
+The wolf regarded her with pale green eyes, the same gentle shade as Bubbles’s own natural leaves. He blinked. “The humans called me Link. I was too young to have received a name from my pack before my removal.”
+
+“Should I call you Mr. Link, or would you like another name?” Bubbles asked carefully. After everything Mr. Link had subjected her to, she didn’t want to accidentally offend this fearsome creature.
+
+“Link is fine,” he said after a moment’s thought. “Names are not important.”
+
+“Oh.” Bubbles was perplexed at how to continue the conversation. “Well, you can call me Bubbles!”
+
+Link nodded, gazing unblinkingly at her. They sat in silence, just staring at each other.
+
+“What do you seek in exchange for what you have done for me?” Link finally asked. He settled on his haunches, looking down his snout at Bubbles.
+
+“Oh, I wasn’t really looking for anything,” Bubbles began, though she took note of Rock’s feelings—don’t just let a favor walk away—she pouted at him, not liking the idea of having to come up with some sort of fair exchange on the spot.
+
+“This will not do,” Link said, a growl accompanying his words. Bubbles flinched slightly. “I can sense that you have a unique connection to the world in you. I refuse to be beholden to a creature who has such strong ties to nature and the earth.”
+
+[I like this creature,] Rock said approvingly. [He understands respect and hierarchy.]
+
+But what should we ask for? Bubbles asked plaintively. What’s worth setting him free from the humans?
+
+Bubbles squirmed under the wolf’s unblinking gaze as Rock took his time considering.
+
+[If I had already established my network, I would have immediately offered this creature a place in my community; perhaps as a Guardian. He has proven himself to be an adept killing machine, and would be able to patrol my lands and make sure everything is orderly, with the natural bearing of a leader to back up his authority. However, since I am not able to offer him such a position—]
+
+I don’t think it’s right that we free him from the humans just to force him into another position of servitude! Bubbles said indignantly.
+
+[Regardless, that is not an option that is possible with you as my host anyway,] Rock continued blithely. [However, perhaps—]
+
+“What would you like to do now that you’re free?” Bubbles asked Link, ignoring Rock’s mutters. Those green eyes finally blinked.
+
+“I don’t know.”
+
+“Me neither!” Bubbles informed him. “All I was thinking about was escape. Do you want to travel together for now? Until we both figure out what we want to do?”
+
+Link didn’t say anything, but based on his body language Bubbles got the feeling he didn’t like the idea of traveling with someone else.
+
+“I don’t think so,” he finally said, confirming her suspicions. He looked around at the trees around them before returning his gaze to her. “I think I would like to spend some time alone, which is why I’d like to repay my debt to you as soon as possible.”
+
+“Well, the trouble is that I don’t really know what you can give me,” Bubbles explained. She tilted her stems thoughtfully. “I’m very new to walking the earth, and I don’t know anything beyond what was in my garden. I’m more than happy to just consider your debt repaid, since you helped me escape the humans.”
+
+[No!! That is not an equivalent exchange! He was involved in capturing you first!] Bubbles winced at the roar in her head, but didn’t amend her statement.
+
+Link regarded her silently, digesting her words. Finally, he sighed, shaking his head slightly. “You must be a young spirit. Regardless, I am not foolish enough to try to swindle a potential world spirit. Very well, I will travel with you until you decide upon an appropriate exchange.”
+
+[He is a hunter of integrity,] Rock said admiringly. [What great luck.]
+
+“Thank you,” Bubbles said gratefully. “I’ll do my best not to waste your time!”
+
+Link stared at her, slightly confused before shaking himself off. “Let us be off, then. We are still quite close to the main road the humans are on, and it would behoove us to move and find a place to make camp.”

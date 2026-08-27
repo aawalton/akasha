@@ -1,0 +1,197 @@
+---
+id: 865df216-854b-5433-8969-abffd085e6fb
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-FOUR: Contemplations"
+slug: 0246-two-hundred-forty-four-contemplations
+partOf: super-supportive
+position: 246
+ownLength: 2313
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2603552/two-hundred-forty-four-contemplations"
+royalRoadId: "2603552"
+---
+
+244
+
+*******
+
+“The cups you’ve been making for Emban and the knights of Sina’s birthset?” Stu said. “I didn’t know there was an extra.”
+
+The warmth of the grain tea he’d shared with Olorn had faded from his throat a while ago. Their empty mugs perched on the end of the long dining table, soon to be carried away by one of the assistants if someone else didn’t pass by on their way to the kitchen. But a little of that warmth returned at the thought of why an extra Cup of Many Swallows might have been made.
+
+“Olorn Mom… ”
+
+Stu’s hands brushed over the leather of a sandal on the table. This was the eighteenth pair of shoes he’d examined since he’d come to get first meal and realized the spouses had decided today would be the start of the siblinghold’s annual check of important supplies. That included anything worn or regularly used by one of their family’s hn’tyons. Olorn had begun the day by having everything from the closets of those who were currently away from home brought down here for sorting.
+
+The sandal was one of Kofa’s. Stu had hardly ever seen his eldest brother wear shoes, but this pair would be checked for him anyway. There was an enchantment on the sole. Stu thought it was one for quiet walking, though he didn’t recognize the feel of it well enough to identify it confidently.
+
+He was confident it wasn’t broken, but the quiescence of it in response to the touch of his attention made him think time, some use his brother had put the shoes to, or just the impact of being in close proximity to Kofa had made the magic lose some of its strength.
+
+“These are fine for now,” he said. “They’ll likely need a new enchantment in a couple of years.”
+
+“Kofa likes those sandals.”
+
+Stu looked over in time to see the eye Olorn had turned toward him already flicking back to her own examination of one of Kofa’s old uniform boots. The boot had more advanced enchantments than the sandal. Olorn was using a lens to check them rather than relying on her own senses.
+
+“He likes them?” Stu carried the sandals over to the spot designated for things that would be repaired. If Kofa liked them, they should be kept as well as possible for him. When he returned home, they would be ready.
+
+“Olorn Mom…the cup was a wonderful gift to give Alden’s schoolmate…”
+
+Stu picked up another shoe, but he didn’t focus on it yet.
+
+Why did you make an extra of such a difficult object? If there was an extra to give, was it because you were thinking another child of this house might become a knight soon? When you were crafting them, did you think—?
+
+“I didn’t make an extra,” said Olorn. “So it was dearly given. But the sameface twins always travel together, and should be able to share one. I’ll make another for them as soon as I can.”
+
+Disappointment. It was one of life’s many kinds of pain.
+
+Feeling foolish. That was another.
+
+Stu didn’t understand why he always had a mote of surprise in him during moments like this. Even after everything that had been explained, whispered, and shouted through tears, it was still there. As small and sharp as the tip of a kyumba embroidery needle, it pricked him and released a thought like a drop of blood.
+
+Olorn Mom, don’t you think I’m strong enough now? Don’t you think I can be like the rest of you, finally?
+
+She didn’t.
+
+Stu knew that.
+
+The next time he saw Healer Yenu, he would ask her to check him and see if they’d missed something. Could it really be normal to know a painful truth and continually be surprised when it hurt you?
+
+Maybe this is something that only happens to me.
+
+“Why couldn’t Bithe summon Kon?” he asked.
+
+Stu knew he wasn’t good at hiding his feelings, but he thought he was getting better at it. At least, more practice shouldn’t be making him less able. A question here to give himself something else to think about—one he knew Alden would want the answer to.
+
+“I’m sure you can guess well enough based on what you know,” Olorn said. “His skill was created to meet a specific need, and the ones who oversaw its creation want to make sure he develops himself properly. They don’t want other wizards interfering with his education, forming their own contracts with him, or giving him a poor impression of Artonans.”
+
+Why weren’t all Avowed given education and good impressions?
+
+Why were humans treated with such a confusing brew of coddling, wariness, welcome, and incompetence?
+
+Why did Alden have a spell impression for killing pests? Frivolous, dissonant with his skill, and disappointing to him.
+
+Because not everything is beautiful.
+
+Stu thought every year that his ears were finally hearing that truth at an accurate volume. Every year, he found it was actually louder than he’d understood.
+
+His progress through the less necessary shoes was faster than Olorn’s through the more necessary ones. He soon reached her end of the table, and she set aside the footwear to work on him.
+
+“Were you on your way to LeafSong when you saw me starting on this project?” she asked, touching the symbol for humble wondering on his sleeve, then the burngem strand dangling from one of his ears. Emban had bought the piece of jewelry for him, saying it matched his eyes. Today, he felt guilty for never wearing it.
+
+“I was waiting to see how things are for Emban before I decided. I was going to my morning contemplations instead.”
+
+“You did well on the Here-to-There.”
+
+“I would value your opinion on some of my decisions,” Stu said. “In a few days, after I’ve thought about it all more.”
+
+“I will have to cast a spell of silence on Veln if it’s my opinion you want to listen to. He’s so eager to hear a full account and advise you… and praise you into the treetops.”
+
+She embraced him, and she embraced him.
+
+And he returned both.
+
+“I am so proud of you, Stu.”
+
+“I know.”
+
+Some beautiful things were complicated.
+
+“Go to your contemplations,” she said. “You know how long we’ll be at this. Help when it won’t interrupt your own tasks.”
+
+He left, winding through the ground floor until he found the room Grandpa-Grandpa was sleeping in today. Murmur didn’t have a space of his own because that would make him feel less than fully at home in the rest of the house. All rooms were his to roam, though he was quietly offended by the upper floors and rarely chose them for his naps.
+
+Other Alden, influenced by Weset, had decided the mleirt’s velvety fur and body heat made him an appropriate mattress. The ryeh-b’t was awake and chewing on him when Stu pried her off his back and tiptoed away with her.
+
+This habit couldn’t continue. Murmur wouldn’t notice such small teeth, but other people certainly would.
+
+“They keep letting you do whatever you want when I’m away,” he said when they were outside. “I found that orange you clawed to pieces behind the oath cottage. I know it was you.”
+
+She took off into the sky, and he watched her rise.
+
+Here was a simple, beautiful thing he’d once complicated with his attempts to understand his own flaws. The boy he had named the red ryeh-b’t after liked her in the obvious way that Stu had thought wasn’t enough…for reasons that now seemed counter to the very maturity he’d pursued.
+
+“Hyektch,” he said, watching the animal fly. “So cool.”
+
+Maybe in the days after first binding, Alden would agree to teach him some more English.
+
+Stu didn’t know how he would be afterward. Some sought companionship, pleasures, and work. Others wanted to be alone. Sometimes it was one thing one day and another the next.
+
+Emban had been doing well…
+
+Other Alden dove, chasing prey she imagined for her own amusement. She’d been doing that more often lately. Stu needed to import something lively for her to hunt.
+
+Ryeh-b’ts were sweet-spirited companions, but it would be wrong to forget she had teeth and claws as well.
+
+******
+
+Today, Stu went to the tree Sina had chosen for her first binding, which had also been her first death and second birth. He didn’t intend to walk so far when he left the house, but his feet had been finding their way here a lot lately.
+
+He had come here with Sina in the days before that year’s Welcome End. She had flown them here. Her own version of Breeze Bearing Leaf was a spell she’d promised to teach Stu one day, when he was older.
+
+He’d tried many times to find anything she might have recorded about it in their library, but it seemed she’d taken it away with her.
+
+I’m older now, Sina.
+
+The tree she’d picked was a young one. Its crown wouldn’t find unfiltered sunlight for many years.
+
+“I like that about it,” she’d said. “We’ll grow together.”
+
+She’d brought Stu to see it before anyone else. Because he wanted to be her votary, and she wanted him to know she believed he could be a good one. Despite everything.
+
+Baby brother, you aren’t scared for me, are you?
+
+I am, Sina, but Father says it’s all right to be both scared for you and glad for you at a time like this.
+
+He took a few short breaths and a few long ones.
+
+This might not be the best spot to contemplate this morning, but he didn’t want to come and leave quickly, as if he was running away from her.
+
+He knelt in the fork of two roots and closed his eyes.
+
+Stu liked to contemplate by guiding his thoughts as close to the nowness of the subject as he could. He couldn’t remember which healer had suggested something like it to him when he was younger. He wondered if none of them had and he’d just started doing it on his own.
+
+He didn’t think any of them had expected him to continue evolving the exercise and incorporating it into his daily routine even though it was no longer a way for him to uncover which parts of a difficult moment had been hidden from him or dulled by the mind trap.
+
+He did it now because it was comforting. So many hard situations and decisions could arrive in a single day. Stu wasn’t sure how others ever felt sure about how they’d handled themselves without meditating on it.
+
+This morning, he’d woken up to a message from Alden. It made him want to contemplate his mishnen errors. He was almost done with them. Surely, he’d stop finding new notes in the song of his idiocy soon.
+
+And there was also what had happened with Olget-ovekondo to think about.
+
+Alden was there, too.
+
+That would be a fine place to start then. Stu tightened his muscles and then released them. He tried to remember as if what had already come to pass was as close as now.
+
+I am on my knees, he thought, and…
+
+******
+
+Stu is on his knees by Sina’s still-young tree. And a wizard named Olget is on his knees in an executioner’s courtyard, pleading as if his life will be taken from him instead of his leisure.
+
+Alden is on his knees in the jungle at LeafSong, drenched with water from the summoning pool, and he is on his knees in this forest, covered in sweat and mud after their practice with the hazard mimic. He is standing beside Stu on the executioner’s balcony, looking down at a wizard who asks for more.
+
+Alden is also on his knees beside his schoolmate, passing him the broken wand. The wand is being repaired by a skill that has to have been masterfully designed to do what it does in a way so close to perfection.
+
+Does the Avowed, Kon, feel grateful for the power?
+
+Will he still, after years of service?
+
+The wizard whose error Kon is undoing is drunk on shenav. And Stu is in his bedroom at the siblinghold, studying information he has gathered on a boy he thinks is dead while he waits for a ryeh-b’t egg to hatch. He has a copy of a message his father obtained for him, written by a healer to one of her colleagues, criticizing them for administering an unnecessarily large dose of stimulants to Alden. Just because he holds the Primary’s son in his arms.
+
+Stu is on his knees on a cushion his mother made for him, learning that to be a wizard is to have authority over reality. And with that power comes the joy of making sure there are more most-beautiful days.
+
+Stu is on his knees on the same cushion, even though he is growing too big for it, and his father is teaching the same lesson in different words. To be a wizard is to have authority over reality, and with that power comes a duty to protect and improve.
+
+The path of higher onus is painful at times. The path of highest onus even more so.
+
+No one wants to suffer. But in the universe we live in, sometimes we must.
+
+Stu is joining his family in the dining room on a day he expects to be one of the happiest of his life. Everyone who can be there has gathered to celebrate the end of his choosing season. He tells them he will take the path his mother and father took.
+
+He doesn’t mean to hurt them, but he does. And they do not mean to reveal that he still seems broken to them.
+
+But they do.
+
+******

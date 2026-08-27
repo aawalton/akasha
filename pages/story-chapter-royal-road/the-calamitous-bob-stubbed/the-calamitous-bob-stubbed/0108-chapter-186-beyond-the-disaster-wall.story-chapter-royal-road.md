@@ -1,0 +1,427 @@
+---
+id: 473ce9c3-9959-58fd-acb6-532febad75ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 186: Beyond the disaster wall."
+slug: 0108-chapter-186-beyond-the-disaster-wall
+partOf: the-calamitous-bob-stubbed
+position: 108
+ownLength: 5440
+unit: words
+ownProgress: 5440
+publishedAt: 2024-11-29
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1930632/chapter-186-beyond-the-disaster-wall"
+royalRoadId: "1930632"
+markedReadAt: "2026-06-29T21:18:29.460Z"
+---
+
+Viv’s hope that the campaign would start right away got dashed immediately. It turned out that although everyone important was present, they were missing a plethora of stuff ranging from actual camping supplies to their favorite concubines. Portals didn’t solve every logistical problem. It was super fast transportation; but it didn’t suddenly replace an effective supply chain. To her dismay, terms like ‘logistics’ simply didn’t register in the brains of commanders who cared more about the comfort of their concubines than they did about spare swords.
+
+Once everyone was more or less ready, the second problem made itself known. It was possible for knights to emerge from the fortified gates for a daring attack, since they had skills to operate on rough terrain. That was not the case for supply carts. The issue was that the rough terrain couldn’t easily be flattened, since it consisted of years of compacted beastling corpses. The layer was crusty and mummified on the outside and moist and putrid on the inside, a revolting mass with an eye-watering stench that chased away the walls’ sentries once uncovered. It was that bad. Viv disintegrated a large swath from high on, then used Eldritch walls to push the rest away and even up there in the sky, the place still demolished her nostrils.
+
+“And I thought it was nasty before.”
+
+Sidjin came up with a colorless spell that spared her the worst of the stench later but the horrible memory of that stinky morass would pursue her to the end of her days.
+
+Hopefully it would fade away after they left the vicinity of the wall.
+
+“The path is clear,” she said in her short-range device. Rollo didn’t answer, but battle horns sounded. The gates opened and out came the Knights of the Blue Rose. Fifty of them trotted out in good order, fanning out in a line as soon as they cleared the worst of the obstruction. The heavies, led by the One Hundred, followed in silence, then it was the crossbows and war machines. The mages stuck to their shield arrays, except for a small contingent under Lana and Sidjin. The blue mage woman had decided to join now that her wards were more eager to test their limits. She led a messy bunch of Frostbay graduates, Rakan’s older proteges, and freed Helockians. They all bickered when they managed to speak the same language. Viv wondered if there was something about being a mage that made people stubborn and obnoxious.
+
+The Hadals hadn’t shown up yet. Honestly, she wasn’t sure where they were.
+
+It took some time to get the supply train through the gap because the stench spooked both horses and cornudons. The Bitter Hearts closed the march, as was tradition.
+
+Abe flew next to Viv. She’d been surprised when the redeemed lich asked to come, but in retrospect, this was as much about restoring life as it was about reclaiming the land. His long gray dreads floated in the wan wind that mercilessly made the high air breathable.
+
+“Ah, young Viviane. Look west, and you will see the servants of my mistress.”
+
+Far to her left, the next Paramese Alliance contingent left the wall in turn. A black and gold column emerged from the other gate. The well-ordered group was smaller than the Harrakan army, but Viv knew they were not to be underestimated. A short inspection of their rank-and-file confirmed her suspicions.
+
+[Archer Sister of the Golden Order, not dangerous. One who follows a path of martial worship through archery. Third step. Can see the threads of death upon her target. Expert markswoman. Decent melee combatant. Killer. Beastling slayer.]
+
+[Paladin of the Golden Order, not dangerous. One who follows a path of martial worship through sword and spear mastery. Fourth step. Can see the threads of death upon her target. Expert markswoman…]
+
+Each of the warrior priestesses she inspected had killed dozens of beastlings. Their gear was also excellent and they finished deploying before the Harrakans did.
+
+“I think this flank is secure.”
+
+“I agree with your assessment. The other, however…”
+
+Abe was not the kind of person to badmouth others. He was probably one of the nicest people around, but Viv knew what he meant. The Enorians on their right were barely getting out of the gate now in semi-organized groups. She recognized many of the battle standards, well, the few that they had. Those were the fading colors of loyalist houses that had fled the post-war purges. Along them were a few experienced mages but also a lot of people who had no business being here. Viv counted city guards, hunters, militias. They carried a variety of gear that ranged from heirloom knight plate to stained gambeson and even in some cases, shirts. She could spot at least two dozen farming implements in the spear lines. Well. Spear blobs. A few inspections showed that a majority of them were on the third step, but their paths were not always those of field soldiers. They weren’t particularly bad. They were just too much of a motley group for her to trust.
+
+“I’ll keep an eye on them. They have a solid core but after a couple of battles…”
+
+“Those who fight in the defense of mankind must support each other.”
+
+Abe frowned.
+
+“And yrieskind, I suppose. I am not quite used to you working with several species. I believe… yes, I believe that no multi-species army has existed in the history of the empire beyond temporary alliances and mercenary groups. This is quite unexpected.”
+
+“No one has used non-magical flamethrowers before either.”
+
+“Yes, those engineers of yours are… certainly motivated.”
+
+Viv looked down. On the lead liberator, Lak-tak was removing little pots of blue honey from a box, religiously distributing them among his peers. She scowled. She still wasn’t sure how the mild hallucinogenic substance affected the owl folks but she hoped to hell it wasn’t addictive.
+
+Another horn blast informed her that the deployment was complete. It had gone reasonably fast. She sent a message to her paramour.
+
+“Alright, we’re set. Send the signal.”
+
+Sidjin cast a large flare. The red ball surged up before exploding in a wave of soundless light. A similar golden flare emerged from the Order’s rank a few minutes later, then one of hybrid caster mercenaries managed a purple haze of decent power. It was interesting to Viv because that was good old Efestar’s new color, which meant that the God of Second Chances had already found echoes among the people of the continent. After that, they still had to wait for another half an hour in the fetid heat before the Glastian Keep lit up. Magical flares climbed in a great, luminous conflagration, and throughout the city, horns sounded.
+
+“Harrak Eternal!” Viv yelled, and the army answered. Horns blew left and right. Far, far to her left, she could spot the Baranese contingent moving forward, knights’ pennants like colorful sparks on a bleak background.
+
+The beastling purge had begun.
+
+***
+
+The army walked in a loose battle formation to the edge of the corpse trench. Though the stench became more manageable, the air kept a nasty scent Viv couldn’t quite identify, something beastly and rotten. The deadlands almost felt homey now that she basically drank the mana into her core. This place was now officially the most inhospitable shithole on the planet in her book. And that was with her flying over the formation like a grumpy pidgeon. She kept an eye on the distant masses of beastlings. There were four main groups, all centered around larger, misshapen specimens. Probably the mutations mentioned during the briefing. Why were they not attacking? Beastlings were cunning, but also too aggressive to come up with smart strategies and that was on a normal day. Those beastlings were starving. Starving humans were dumber than that.
+
+She kept watching the small… tribes for a better word, as they maneuvered around each other. Each was several thousand creatures strong, so the moves were organic and instinctive, a bit like watching a flock of migrating birds. The blobs extended then retracted as the larger creatures caught up with their more agile cousins. Viv couldn’t get the logic of what was happening until one of the groups, slowly, ended up cornered by the other three.
+
+It went very fast. From maneuvering, the surrounded group started to run and its formation turned long and narrow, its flanks exposed. The flight stirred the other three into a frenzy. They fell on the overextended group with absolute savagery. It took less than ten seconds for the careful dance to turn into a slaughter, then into a buffet.
+
+“Hooooly crap.”
+
+Viv didn’t even want to cast a long view spell. She notified Ban below as to what was going on, but the old warrior didn’t seem worried.
+
+“Just means there’ll be less for us to kill.”
+
+“They are starving,” Sidjin added. “Beastlings always eat weaker members of the tribe when food is scarce.”
+
+Viv now realized her mistake. She should have gathered a war council of Harrakan teenagers, the world experts in beastling extermination. She bet they would have had excellent — albeit horrifying ideas on how to handle the situation.
+
+“I should have at least asked them for advice.”
+
+“The children?”
+
+“Yes.”
+
+“I’m sure it will be fine, my dear. We don’t need to learn how to lure them into an ambush. See, they are coming for us.”
+
+And they were, Viv realized. The frenzy ended very quickly, some of the meat left uneaten which was… odd. One group each was now moving towards each formation. Viv frowned. It made little sense unless those tribes were really territorial. They should be merging under a dominant chieftain or shaman… what was going on?
+
+“It’s almost like they’re testing us.”
+
+“They could be. You remember how the tide started, right?”
+
+Viv did.
+
+“They killed a massive monster.”
+
+“The beastling that struck the last blow. We don’t know if we killed it.”
+
+Ah.
+
+“They have grown more coordinated over the years. We too, of course, and the walls have held, but that doesn’t mean that there isn’t a central authority. I suppose the fortress might be connected.”
+
+“Yes.”
+
+“Your Majesty, they will be here soon,” Ban said. “What are your orders?”
+
+Damn she really, really needed that general. That would probably be her next stop if everything went well here.
+
+“Ban, maintain formation and engage. Poacher?”
+
+“Yeah?” the rude old woman acting as leader of the crossbowmen replied.
+
+She could almost hear Ban seething at the lack of decorum, but Poacher was irredeemably adverse to authority and too competent to be replaced.
+
+“Hold fire. We’re going to need your quarrels later.”
+
+“Aye.”
+
+“Lak-Tak, I want to see what those liberators can do in a combat situation. And how the beastlings respond to them. Go wild and take notes.”
+
+“Yessss.”
+
+“Rollo, you may do as you see fit.”
+
+“It would be best to conserve our mounts for now, Your Majesty. I am concerned about the mercenaries’ ability to survive.”
+
+“Agreed, then, you have your orders. Mages on standby as well. Let’s see what those aberrants can do.”
+
+Objectively, Viv could just obliterate the group from up high before they closed in but something was telling her this was going to be a week of nonstop battle. She couldn’t last a week without pause or sleep. She might as well wait until a decisive moment to get started. [A light that never dims] meant she grew stronger as time went by while in combat. It didn’t make her immune to fatigue.
+
+No, this was going to be a matter of endurance.
+
+Viv looked on from above, ready to intervene just in case, but after that she’d float down and let one of Frosthawk’s students take sentry duty.
+
+***
+
+The Baranese general used his spyglass to look right, where beastlings were already engaging the Alliance. As expected, the Golden Order attacked the creatures with confidence and the power of the God of Death backing their blows, the gold of their armor shimmering in the dull light of the late morning sun. Whatever filtered through that disgusting air.
+
+At least those southerners knew how to fight. Cavalry, and a solid core of infantry with archers as support. That was the proper way to wage war. He looked beyond, to the ‘empire’ and its upstarts. The enchantments on the eyepiece strained but it was a good object, crafted by the capital’s best artisans. They soon caught the battle, if one could even call it that.
+
+Steel, that was what qualified the Harrakans. No pedigree and no old traditions, no stories of glorious deeds inspire them, no colors and heraldry of noble houses. All of their techniques, all of their stories were stolen from a long dead corpse, puppeteered by that woman. But steel, that, they had aplenty. Enough to equip a force three times that size. The barded squares of heavies advanced between hulks of spikes piloted by subhumans. As soon as the beastling tide charged, they spat fire.
+
+“Neriad’s mercy,” his assistant whispered. “What in the name of all light gods?”
+
+The armored carriages let out long strings of… something. A strange spell as orange as the sun and most likely as hot if the beastlings’ reactions were any indication. Fire stuck to the tightly packed bodies in great deadly curtains. They were too far to hear screams, but the twisted forms convulsing in the thrall of agony made them redundant.
+
+“Where did they find fire cores?”
+
+“Perhaps they traded for them,” the general hazarded.
+
+But with whom? There were tales the woman had taken over the lost tribes of Harrak before their existence even became common knowledge — and before anyone could guarantee their independence to box the witch in. Perhaps they had stashes left from the glory days of their ancestors.
+
+In the distance, the mass of beastlings split. Some ran, the screeches of their dying allies too much to tolerate. Others kept charging. The larger ones. The most blighted of their brethren.
+
+They rushed through the gaps into the loose formation of the heavies, and the armor-clad soldiers leisurely killed them. They didn’t even stop to form a proper shield wall. A large beastling attacked the head of the formation, only to be felled by precise spear thrusts that skewered its vitals before it could close the final distance. The closest a beastling managed to get was when a wounded one had its skull crushed under a tower shield.
+
+Behind them, the crossbows hadn’t even grabbed their weapons.
+
+The mages stood around doing nothing.
+
+A cavalry force trotted to the edge of the formation, away, towards the Enorian mercenaries.
+
+The general looked up to see the distant form of the so-called empress. She floated over the battlefield, searching it for… he didn’t know what.
+
+“Is it the lack of beastling sharpshooters or merely inexperience?” his assistant wondered.
+
+“No. Strong shield.”
+
+“That is daring.”
+
+“I have seen her cast during the Dawn Empire battle. She has strong shields. And good reflexes. It will take a lot of attrition to take her down.”
+
+“Would, sir?”
+
+The general turned, distracted.
+
+“It would take a lot of attrition to take her down?”
+
+The man was getting cocky, as his bitter smirk confirmed. The general knew what he meant, however.
+
+The king was right. His assistant had also guessed his thoughts. They should have quashed her when she was weak. Now, it was too late to do so without unthinkable sacrifices, and the shadows of an old enemy darkened the throne of Baran once more. For three centuries now, his nation had enjoyed its independence from the yoke of the empire to become the dominating power of the continent. Now, the upstart witch was bringing back an old terror. The one that their forefathers had warned them about. Harrak. The ancient monster.
+
+They would not find allies for this task on the continent. Only the Pure League hated her enough to join their cause, and they had their hands full. Portals made the world too convenient. Even Baran was forced to join the network at the cost of the Guild of Caravaneers, or risk being left behind.
+
+What a mess.
+
+“Sir, our forces are victorious.”
+
+“Regroup and resume the march. I want to be out of reach of Glastia’s stench by tonight.”
+
+“Yessir.”
+
+***
+
+Rollo raised his fist. Once he was sure everyone was in place, he closed his helmet.
+
+The world became two slits. It was simpler now, but the thought of killing beastling aberrants left a sour taste on his tongue. Witchery and dark god things. He hated those with a passion.
+
+A sign and the formation pivoted from the back of the Enorian formation to their beleaguered flank. The beastlings that saw them ran. It was too late for that.
+
+“The Rose!” he yelled.
+
+His leadership ability picked up. The knights closed rank, spears lowering to catch the larger monsters.
+
+“ And the thorns!”
+
+Impact.
+
+Crushing sounds beneath the hooves of his charger. The crunch when his spear caught a larger beastling in the chest. Some resistance, then the beastlings broke and the fifty knights rode on, crushing everything to death. He skirted the edge of the Enorian formation on their left flank then they were off. A gesture, and the knights made a short loop. The horses slowed down. With their left flank mostly cleared, the Enorians regrouped and pushed the beastlings away, yet Rollo could see the dead and the dying, their bodies taken over by a strange illness. He tsked.
+
+Those jokers were supposed to be covering them.
+
+“We’ll finish the loop and clear their front next.”
+
+“Must we wipe their arses as well?” his lover said, damn him and his timing.
+
+Men chuckled. Lady Seris huffed her displeasure, the recently arrived recruit completely devoid of a sense of humor.
+
+“Enough chatter. Ride. Crush. Kill.”
+
+“Aye!”
+
+They did so, and they did so well. Rollo was proud. The foes could not stop them but mistakes would leave openings. None were committed. This time.
+
+After the battle was over, Rollo rode ahead to greet the Enorian leader and get his measure. It was a nobleman in shining armor, though his banner was tattered and burnt.
+
+“We… appreciate your assistance. Though it wasn’t needed,” the man said between gritted teeth. “I am the Blue Duke. Do not think this will make us forget the roles you played in the death of the true heir to the crown of Enoria.”
+
+Rollo took the man’s measure. He’d met the true Blue Duke, this man’s nephew, a more… agile thinker. The deposed Blue Duke bristled in the ensuing silence. In the distance, someone’s screams were cut short.
+
+The Blue Duke winced.
+
+“I see. We will be riding back, then. A good day to you.”
+
+Rollo blew his horns, then the Harrakans were off.
+
+“Not an auspicious first meeting,” his lover commented.
+
+“I know old assholes like him. He will only swallow his pride if he has no choice.”
+
+“Can’t anything be done?”
+
+“Reinforce our right flank and hope the beastlings are not too contagious. Fuck those Enorians. I care not what happens to them. Let the witch handle diplomacy.”
+
+“She is not the smoothest negotiator.”
+
+“That is, I believe, the most entertaining part.”
+
+***
+
+“That thing is disgusting,” Viv confessed at the sight of the specimen on the dissection table.
+
+The beastling’s emaciated body showed an ugly, beastly face, thin long limbs and ugly spikes growing from the skull, all covered in a diseased skin that clung to the creature’s bones, but now new additions added to the revolting package: a claw-like appendage extending from a right arm that should have been too frail to lift it. The cancerous growth repulsed Viv by its very presence. It seemed to quiver when she was looking away.
+
+“Good observation,” Abe said with a patient smile, “though rather obvious. That is not what I want you to focus on.”
+
+“The mana…” Viv whispered.
+
+Beastlings were weak, and so was their connection to mana. The misbegotten horror on the table was no exception and whatever feeble power it possessed while alive, it had long evaporated. The claw was the exception. A lingering presence corrupted the air around, swallowing the ambient mana with little sips even though its host had died.
+
+It was an aberrant limb.
+
+“Aberrants are anathema to the planet. How can a creature merge with aberrant flesh? Don’t answer that, I know how. I just can scarcely believe it.”
+
+“More concretely, the limb is dangerous dead and even more so alive. The bodies will have to be burned in the future, to prevent their corruptions from spreading to nearby corpses. Just in case.”
+
+“Just in case indeed. I was going to build a portal anyway since we’ll need more naptha for the liberators. We will just have to double the deliveries.”
+
+“There is something else. Wounds will instantly drain the mana from the wounded, which prevents them from fighting off the infection. Healing magic will only help so much. As expected, divine mana will function best to fight off the deleterious effects of this dark power.”
+
+“Worst case scenario, amputate the limb. We can regrow it later.”
+
+“I will pass on the instruction. We are lucky to have had no casualties thus far. It might change.”
+
+“I’d be surprised, yeah.”
+
+“I have more. Just conjectures, so far.”
+
+The redeemed lich passed his hand over his beard, the gesture slow and methodical.
+
+“Two of them. First, the corruption is somehow helping the specimens coordinate. You may not have noticed it, but the larger, more diseased ones moved almost in unison. Second, I surmise we will face true aberrants soon enough, or at least creatures so corrupted by the influence of the dead one that it makes no practical difference. I see no way of preparing for them that we have not already done, however.”
+
+“More fire.”
+
+“That is certainly an option.”
+
+***
+
+To receive the Alliance’s leaders on this first night of the purge, the Glastians had selected a hillock near the center of the loose Paramese army. A crimson pavillion rose from its heights in colorful defiance to the devastated land around. Red-garbed soldiers provided a protective cordon while the Glastian army itself camped a small distance away. A few gray mages flew around to provide cover. None challenged Viv and Sidjin when they landed.
+
+The overlook still had a few of those white trees she’d seen from afar. She took a moment to look at them. Their bark was chaffed and fibrous. She looked again.
+
+Now, those were teeth marks. The forest was made of normal trees, only every last piece of bark and every last leaf had been gnawed off by tiny teeth until the tree died. She shook her head. The pavilion beckoned.
+
+The elite sentries lifted the tent’s flap to let her in with a courteous bow. The opening revealed a shaft of bright light and a very loud voice.
+
+“— supposed to be covering each other’s flanks, not sod off to chase two dozen beastlings fucking in the woods!”
+
+“They’re already arguing,” Viv noted.
+
+“A Paramese tradition,” Sidjin commented sadly.
+
+Viv walked in on a massive argument, decided she wouldn’t start the evening with this travesty and walked off to serve herself a nice cup of kava instead. The diversion allowed her to eavesdrop while Sidjin poured warm klod into his own mug with a judgmental frown.
+
+“What? Kava’s nice.”
+
+“Not you darling, people arguing after a single day out.”
+
+The argument was taking place between a Pure League group she wasn’t familiar with and the Zazas group. Since Zazas was her only ally among the northern cities, she discreetly backed them with her presence even though, from what she could tell, they were wrong. Zazas favored javelin throwers and those had hunted roaming bands of beastlings, leaving the nearby northern formation to be attacked on their flank. There had been casualties.
+
+She frowned, looking at the ever-present map on the center table. The left flank of the strike force, opposite to her, covered a much larger segment of land while also expecting less violent attacks. As such, smaller yet more numerous armies extended past the official big names like the Royal Baranese Army detachment. Those were supposed to stay relatively close to each other for safety. Clearly, there had been a fuckup.
+
+“I appreciate that you had losses,” General Jaratalassi finally said.
+
+The old man still seemed energetic, a sign things were going well for now. Or that he hadn’t had the time to grow sleep-deprived yet.
+
+“However, our friends from Zazas only followed orders by pursuing fleeing beastling before they could regroup with other tribes… or feed them. If you must blame someone, blame me for my lack of foresight.”
+
+The Pure League noble gnashed his teeth. His respect for old Steel Trap forced him to silence, however, and the general continued.
+
+“The beastlings have done something I never expected from half-feral monsters. I assume you know what I am talking about.”
+
+He looked around. It was an old habit from class he never quite shed. Viv actually expected most people present to know what he meant, but nobody dared say it in case they were wrong. Looking stupid in front of the class was worse when the class was made of famous generals.
+
+“They’re using strategy?” she hazarded.
+
+“Elaborate,” Jaratalassi ordered her as if they were still at the Academy.
+
+“They’re testing us. Some groups are sacrificed to see how we perform. Larger groups are aimed at smaller formations to chip them off. And other groups are trying to lure us. It’s as if there is an intelligence directing them from afar even though individuals remain feral.”
+
+“Precisely. We are seeing sporadic shows of strategic thinking in several spots across the frontline. I can tell some of the attacks are nonsensical, but others feel clearly directed.”
+
+No one dared contradict the old man, though disbelief marred a few faces.
+
+“How does this affect our strategy?” the Baranese general asked.
+
+Jaratalassi waved, and the formations on the map shivered. Viv noticed with pleasure that the Harrakan flag looked just as weird as she hoped — a mix between edgy graffiti and Pink Floyd album art.
+
+Right now, the armies formed a loose line made of different–sized blotches, each one as large as the army it represented. Glastia was several times larger than the rest since they had gone all in. As Jaratalassi waved, the pieces moved forward into a triangle while tightening their ranks.
+
+“Right now, the beastling horde lacks coordination, but I suspect it will stop mattering as we move on and encounter larger tribes. The optimal strategy for them would be to focus on our wings and leave the center alone for later. As we are forming a line and we cannot cover each other that effectively, a concentrated assault could overwhelm the smaller formations before the rest of us can react. As such, we will close it a little to improve responsiveness.”
+
+“The purpose of this purge was to kill all of the beastlings,” the Enorian representative said. “If we cover less ground, that means we could miss a lot of them.”
+
+Jaratalassi shook his head.
+
+“If they can use strategy, then the mind behind their attacks already knows we are here. They will use everything they have to kill us, eat us, and find the walls less defended. We do not need to worry about going to them. They will come to us.”
+
+“Are you sure they will? They could just attack the walls at our backs.”
+
+Jaratalassi nodded in agreement.
+
+“That is correct, which is why I am going to request you to form cavalry detachment and mage wings. I will suggest banner groups at the end of the council. I have, however, good reasons to believe they will fight.”
+
+He pointed at the devastated land, somewhere north into the wilderness.
+
+“The jungle is dead to the last tree so the only food left is other beastlings, therefore there should be no more of the nasty things after a few dozen leagues past the walls, simply because it takes food in one’s stomach to run and there is no more food to be found there. They would starve before reaching the sea. All of the remaining beastlings are here, around us. I also believe that the fortress houses their chieftains, or at least holds something important. If we attack it, they will surely defend it, or at least use the opportunity to try and stab us in the back.”
+
+Viv thought it made sense. Building a fortress took time and effort, so even creatures as vile and base as the beastlings wouldn’t do it for no reason.
+
+“We will adapt if those creatures try anything. In the meantime, I’ll tell you what our priests have found about the aberrants. Bishop, if you’d please?”
+
+Viv listened with one ear. It wasn’t anything she hadn’t already found out besides one observation that the more mutated the creatures were, the less dependent on food they became. They still felt like they were starving, their bodies were just not falling apart. It explained why they’d lasted for so long.
+
+Viv signaled Jaratalassi that she wanted to talk towards the end of the war council, then she kindly waited until the bigwigs had finished taking his undivided attention. The old general smiled at her once he was done juggling egos.
+
+“Ah, you two, just the people I wanted to talk to,” Jaratalassi started, which immediately set off alarms in Viv’s mind.
+
+“Is this about the siege?”
+
+“Not yet.”
+
+He guided them to a corner of the room while the pavilion slowly emptied itself. Viv understood a pointed wink, casting a sound enchantment to keep the conversation private.
+
+“I have unfortunate news. Your asshole brother intends to use the campaign to slander you, Sidjin. He’s spread the word that you are not fighting on the frontlines at all.”
+
+Sidjin’s grip tightened on his cup. Viv was ready to go off and nuke the little shit from orbit.
+
+“He’s just being obnoxious. There is little harm he can do to you.”
+
+“He can have Glastia’s doors close on me. He needs not reverse my pardon. Making it impossible for me to enter would be the same as a banishment.”
+
+“You’re right,” Jaratalassi said. “And you know how I hate those little fuckers who use the good fight to advance their little causes. That is why I would like to name you as the head of the mage wing on our right flank.”
+
+Jaratalassi waited for Viv’s answer. Technically, she was the strongest mage around, but that didn’t mean she needed to show off.
+
+“That sounds like a good idea,” she replied.
+
+“I wanted to ignore my brother dear, but now it looks like I will have to… resort to drastic measures.”
+
+“Don’t do anything you would regret,” Jaratalssi warned. “Or that I would regret.”
+
+“I need time to think and no, I will not endanger the future of the city for my own satisfaction. But I will get my satisfaction. On him. And those who have supported him. It seems he is too afraid to face me now, so he prefers to talk behind my back. How sadly predictable.”
+
+Viv could tell he was fuming. She grabbed his hand. He gave her a little squeeze then returned to the doomed prince broody routine he often had at the start of their relationship. She let him be. He needed some time to process.
+
+“So, I wanted to propose something as well,” Viv said.
+
+“Do tell.”
+
+“Allow the Enorian mercenaries to join up with us if they accept. They are too vulnerable, especially if the beastlings start testing our flanks.”
+
+“I was considering a swap but the farther you are from the center and the more likely it will be that you need to cross a large distance to reach the fortress. I agree. I am only concerned about losing control over too much territory.”
+
+“Not to worry,” Viv said. “I asked some of my Children of the Scale recruits earlier today for tricks on how to handle large groups of beastlings. They suggested sound. A loud enough noise, or a song, will stir them into a frenzy until they either charge or flee.
+
+“And you intend to… sing to them?”
+
+“Oh, something of the sort.”
+
+Sidjin slapped his forehead, dragged from his funk by his impending doom.
+
+“For the love of all that is good, not the Spice Girls karaoke again!”

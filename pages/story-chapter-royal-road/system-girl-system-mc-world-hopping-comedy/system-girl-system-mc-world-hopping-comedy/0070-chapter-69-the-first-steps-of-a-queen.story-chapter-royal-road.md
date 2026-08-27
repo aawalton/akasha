@@ -1,0 +1,281 @@
+---
+id: 6f441241-0a8e-5f9a-84c1-d74f531436d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: The First Steps of a Queen"
+slug: 0070-chapter-69-the-first-steps-of-a-queen
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 70
+ownLength: 2654
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3244668/chapter-69-the-first-steps-of-a-queen"
+royalRoadId: "3244668"
+---
+
+The seaside town of Aethoria was usually a place of calm, salty breezes and the rhythmic crash of waves against the cliffs. But inside the half-built shell of the Seaside Inn, the atmosphere was anything but calm. It was a pressure cooker of culinary obsession and parental anxiety, bubbling over the heat of a deadline that only existed in Ren's head.
+
+Ren was losing his mind.
+
+For three days, he had been a whirlwind of frantic, culinary energy. He paced the dusty floorboards of what would soon be the main dining room, his boots kicking up small clouds of sawdust that danced in the afternoon light. He muttered to himself, his hands moving in the air as if conducting an invisible orchestra of roasting birds, chopping invisible vegetables, and adjusting invisible flames.
+
+"The skin," he whispered, his eyes fixed on a patch of peeling wallpaper as if it held the secrets of the universe. "It has to be glass. Shatter-glass skin. But the meat... it needs to be pink. Juicy. How do I get both without a sous vide machine? How do I render the fat without drying out the breast? The heat distribution needs to be spherical."
+
+He stopped, turning to the empty air, his eyes wild. "System! Can I buy a sous vide? Just a small one? Immersion circulator? Please? I'll pay double commission."
+
+[Ana: No. We discussed this. High-tech items are locked. You’re obsessing over a bird, Ren.]
+
+"It's not just a bird!" Ren snapped, startling a dwarf who was carrying a plank of cedar wood. The dwarf dropped the plank with a loud clatter and scurried away. "It's destiny! It's the Royal Duck! Do you know what that means? It means flavor! It means redemption! It means sticking it to that snooty Maitre D' at the Gilded Swan who served me boiled water and called it soup!"
+
+[Ana: It means you're ignoring your daughter.]
+
+Ren froze. The manic energy drained out of him instantly, leaving him feeling cold and hollow, like a stove that had been abruptly unplugged.
+
+He looked around the chaotic construction site. Hammers banged. Saws buzzed. Dwarves shouted orders about load-bearing beams.
+
+But there was no babble. No giggle. No sound of tiny hands slapping against the floor.
+
+"Where is she?" Ren asked, panic rising in his chest, clutching his tunic.
+
+[Ana: With Mira. In the garden. She's been trying to get your attention all morning. You patted her head and called her a 'good marinade' before walking away to argue with a bricklayer.]
+
+Ren winced. He pressed his hands to his face, rubbing his eyes. "I did not."
+
+[Ana: You did. She looked offended. Ren, look at the calendar. She's fifteen months old. She's getting big. She's talking. But she hasn't walked yet.]
+
+Ren paused. The numbers tumbled in his head. "Fifteen months? Is that... late? Is that early? I don't know. There's no manual for High Elves. Do they take longer because they live for centuries? Or should she be flying by now?"
+
+[Ana: Human babies usually walk around twelve months. Elves... who knows? But maybe she just hasn't had a reason to move because you carry her everywhere like a sacred accessory. You treat her like a Faberge egg wrapped in bubble wrap.]
+
+Ren sighed. The duck obsession faded, replaced by the familiar, heavy weight of parental guilt. He had been so focused on the business, on the revenge, on the duck, that he had missed the fact that his baby was growing up without him.
+
+"Okay," he said, straightening his tunic and taking a deep breath. "Duck later. Baby now."
+
+He walked out of the inn, stepping into the bright afternoon sunlight.
+
+The garden behind the inn was coming along beautifully. Mira’s parents had worked wonders with the soil. The wild, tangled forest floor had been tamed into a lush, green lawn bordered by beds of flowering herbs that smelled of thyme and mint. Apple trees, still young but vibrant, lined the path to the forest edge.
+
+In the center of the grass, on a soft blanket patterned with little stars, sat Lily.
+
+She was surrounded by her pack. Smokey was gnawing on a large beef bone, her tail thumping contentedly against the ground. Frosty was asleep, a puddle of white fur baking in the sun. Stormy was chasing a butterfly, leaping into the air with little snaps of static electricity.
+
+Lily was sitting up, looking regal in a little blue dress with lace trim. She was holding a wooden block, examining it with the intense, scholarly focus of someone deciphering an ancient text. She turned it over in her chubby hands, tasting one corner experimentally.
+
+"Hey, peanut," Ren said softly, not wanting to startle her.
+
+Lily looked up. Her face lit up like a sunrise. "Da!"
+
+She dropped the block. She reached out her arms, opening and closing her hands in the universal sign for pick me up.
+
+Ren walked over and scooped her up, hugging her close. She smelled of milk, sunshine, and the faint, sweet scent of ozone from the puppies. He buried his face in her silver hair, breathing in the scent of her.
+
+"I'm sorry," he whispered. "Dada's been busy chasing ducks. But I'm here now. I'm right here."
+
+He set her down on her feet, holding her hands to support her weight.
+
+"Okay," he said, crouching down to her level. "Let's try this. Walking. It's easy. Just put one foot in front of the other. Like this."
+
+He moved one of his own feet, exaggerating the motion.
+
+Lily stood there, her chubby legs wobbling slightly in her soft leather boots. She looked at her feet. She looked at Ren. She looked at the grass.
+
+She sat down. Plop.
+
+"No, no," Ren coaxed, lifting her up again. "Stand. Walk. Come on, Lily. You're a queen. Queens don't crawl. Queens stride."
+
+She stood. She giggled, showing off her few teeth. She lifted one foot... held it in the air for a second... and then sat down again, blowing a raspberry.
+
+Ren sighed, running a hand through his hair. "Stubborn. Just like your... well, just like me, I guess."
+
+He tried the classic dad move. He stood behind her, holding her hands high above her head, letting her weight rest on her feet while he guided her forward.
+
+"Step. Step. Step," he chanted.
+
+Lily moved her feet, shuffling along the grass. She laughed, enjoying the game, kicking at the dandelions. But she wasn't walking. She was hanging. Her legs were limp, her weight entirely supported by Ren’s hands. The moment he let go, even for a second, she dropped to her butt like a stone.
+
+"She has no balance," Ren worried. "Or she's lazy."
+
+[Ana: She's efficient. Why walk when you have a chauffeur? Why exert energy when you have servants?]
+
+"She's a baby, not a CEO," Ren muttered.
+
+He decided to try bribery.
+
+He walked ten feet away. He pulled a bright, shiny red apple from his pocket. He polished it on his sleeve until it gleamed.
+
+"Look, Lily! Apple! Yummy apple! Come get it!"
+
+Lily’s eyes locked on the fruit. She licked her lips. "Ap-pa!"
+
+"Come on," Ren encouraged, waving the apple. "Walk to Dada. Just a few steps."
+
+Lily looked at the apple. She looked at the distance. She calculated the effort versus the reward.
+
+Then, she looked at Smokey.
+
+She slapped the ground with her palm. "Moke!"
+
+Smokey’s head snapped up from her bone. The shadow wolf trotted over, tail wagging. He nuzzled her face.
+
+Lily grabbed his thick fur. With a grunt of effort, she hauled herself onto his back, straddling him like a tiny jockey.
+
+"Go!" she commanded in babble-speak. "Goh!"
+
+Smokey, the S-Rank mythical beast, the terror of the forest, the creature that could melt into shadows and tear a man apart, happily trotted forward, carrying her mistress across the grass.
+
+He stopped in front of Ren. Lily reached out and took the apple from Ren's stunned hand.
+
+"Ta!" she said politely.
+
+Ren stared at her. He looked at the wolf. He looked at the apple.
+
+"That... that doesn't count! That's cheating! You can't ride the dog!"
+
+Lily took a bite of the apple, looking smug. Smokey licked Ren’s hand, as if to say, We win. Deal with it.
+
+[Ana: I told you. Efficient. She outsourced the labor.]
+
+Ren groaned, collapsing onto the grass. "She's smarter than me. I'm raising a genius tyrant."
+
+The rest of the afternoon became a household project. Word spread that the Master was trying to teach the Lady to walk, and soon, the entire staff drifted into the garden to help.
+
+Mira tried first. She stood at one end of the blanket with Lily's favorite stuffed bear—a ragged thing she loved more than life itself.
+
+"Come, My Lady," Mira cooed, waving the bear. "Come to Mira. Come get Mr. Bear."
+
+Lily looked at the bear. She looked at Mira. She dropped to her hands and knees and crawled over at high speed, snatched the bear, and crawled back to her spot.
+
+"She is fast," Mira noted, defeated. "On four legs. She is like a little beetle."
+
+Sylas tried next. He stood with his shiny gold pocket watch, swinging it back and forth like a pendulum. The sunlight caught the gold, sending little flashes of light across the grass.
+
+"Tick tock," Sylas said in his calm butler voice. "Shiny. Pretty. Come get the shiny."
+
+Lily was mesmerized. She stood up, holding onto Ren’s leg for balance. She reached out a hand. "Shin!"
+
+Sylas took a step back. "Come get it."
+
+Lily frowned. She let go of Ren. She took a tiny, wobbling step.
+
+The staff held their breath. Mira covered her mouth.
+
+Lily swayed. She looked down. She realized she wasn't holding anything. The ground looked very far away.
+
+Panic flashed in her eyes. She sat down hard. "Bah!" she cried, pointing accusingly at Sylas. "Na!"
+
+"I failed," Sylas whispered, pocketing the watch, looking devastated. "I upset the mistress. I shall resign."
+
+"Don't resign, Sylas," Ren said. "She's just... particular."
+
+Even the guards got involved. Kaelthos, the warrior, knelt on the grass. He held out the hilt of his sword (sheathed, of course). It was a beautiful piece of steel, wrapped in leather.
+
+"Warrior," Kaelthos grunted. "Walk to the steel. Claim your weapon."
+
+Lily looked at the sword. She looked at Kaelthos. She blew a raspberry at him, spraying him with spit.
+
+"She has no warrior spirit," Kaelthos sighed, wiping his face. "She rejects the path of the blade."
+
+"She's a baby, Kaelthos," Ren said, laughing. "She doesn't want a sword. She wants snacks. Or naps."
+
+The attempts continued. They tried toys. They tried songs. They tried calling her name. Nothing worked. Lily was perfectly content to crawl, ride the dogs, or be carried. Walking was simply not on her agenda.
+
+"Maybe her legs are weak?" Mira worried, wringing her hands as the sun began to dip lower. "Should we call a healer? Is it the... A hereditary disease?"
+
+"She's strong," Ren said, watching Lily wrestle with Stormy. She was currently winning, pinning the lightning pup to the ground with a surprisingly effective headlock. "Look at her. She just... doesn't want to. She has no motivation."
+
+As the sun began to set, painting the sky in shades of purple and orange, the staff gathered around the fire pit for dinner. The construction crew had left for the day. It was just the family.
+
+Ren sat in his study, the door open to the garden. He was tired. The adrenaline of the day had faded, replaced by a deep, aching exhaustion. The stress of the restaurant opening, the pressure of the Royal Seal, the fear of failure... it was all heavy.
+
+He sat at his desk, staring at his blueprints for the duck oven. The lines blurred together. He wasn't eating. He wasn't working. He was just slumped in his chair, feeling the weight of the world.
+
+"Maybe I'm pushing too hard," he muttered to himself. "On everything. The duck. The walking. The business. Maybe we should just... slow down. Maybe we stay small."
+
+He put his head in his hands.
+
+Outside, on the grass, Lily was having a snack. Mira had given her a small bowl of purple grapes (cut in half, of course). She was happily munching on them, juice staining her chin.
+
+She looked up. She saw Ren through the open door.
+
+He looked sad. He wasn't smiling. He wasn't playing. He looked lonely.
+
+Lily frowned. She stopped chewing.
+
+She looked at the bowl of grapes. She picked one up. It was big and juicy. A good grape.
+
+She looked at Ren again. Dada needed a grape.
+
+She looked at her legs. She looked at the distance to the study. It was far. Across the grass, up the wooden step, across the floor.
+
+She looked for Smokey. He was asleep by the fire, twitching in a dream. No ride.
+
+Lily set her jaw.
+
+She got onto her hands and knees. She crawled. She moved fast, determined, the grape clutched tightly in one sticky fist.
+
+She crossed the grass. She reached the wooden porch step.
+
+This was the hurdle. It was high. Too high to crawl over easily.
+
+She grabbed the doorframe with her free hand. She hauled herself up, grunting with effort. She got one knee up, then the other.
+
+She was on the porch.
+
+She looked at the floor leading to the desk. Crawling on the wood was hard. It hurt her knees.
+
+She looked at the desk. It was high up.
+
+She realized something. If she crawled, she would be low. If she walked, she would be tall. Walking was faster. Walking was... efficient.
+
+"Master! Look!"
+
+Mira’s voice cut through the evening air, sharp and urgent.
+
+Ren lifted his head from his hands. He blinked, looking out the door.
+
+He froze.
+
+Lily was standing there. Just inside the doorway. She was wobbling slightly, like a sailor on a deck, but she was standing.
+
+She took a step. It was clumsy. Her foot came down hard. Thump.
+
+She took another. Thump.
+
+The garden went silent. Sylas stopped polishing a glass. Kaelthos lowered his whetstone.
+
+Lily walked. It wasn't graceful. It was a toddler's lurch, a controlled fall forward. Her arms were out for balance. Her eyes were locked on Ren.
+
+She crossed the floor. Five steps. Six steps. Seven.
+
+She reached the desk. She grabbed the edge with her free hand to steady herself.
+
+She looked up at Ren. She was breathing hard, her face flushed with concentration and triumph.
+
+She held out her hand. It was sticky. In her palm lay a single, slightly squished purple grape.
+
+"Da," she babbled. "Nom."
+
+Ren looked at the grape. He looked at her determined little face. He looked at her standing there, on her own two feet, just because she wanted to share a snack with him. Because she saw he was sad and wanted to fix it.
+
+The duck didn't matter. The money didn't matter. The Royal Seal didn't matter.
+
+Tears pricked his eyes. The exhaustion, the stress, the fear... it all melted away.
+
+He reached out and took the grape.
+
+"Thank you, Lily," he whispered, his voice thick. "It's... It's perfect."
+
+She beamed. She clapped her hands. And then, satisfied with her work, gravity finally won. She sat down on the floor with a thump.
+
+"Yay!" she shouted.
+
+Ren picked her up, swinging her into the air. "You walked! You did it!"
+
+The staff cheered. Mira was crying openly into her apron. Sylas was aggressively cleaning his glasses, sniffing loudly. Kaelthos nodded solemnly. "A warrior's spirit, after all. She charged the objective."
+
+Ren held her close, feeling her heart beat against his.
+
+His daughter had walked to him.
+
+[Ana: Okay. That was cute. I'll admit it. That was very cute. I recorded it. I'm backing it up to three different places.]
+
+"Best day ever," Ren agreed.

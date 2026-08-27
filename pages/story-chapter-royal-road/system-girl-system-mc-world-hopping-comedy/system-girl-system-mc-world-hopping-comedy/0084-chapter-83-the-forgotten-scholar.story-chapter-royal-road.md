@@ -1,0 +1,167 @@
+---
+id: 361858f1-c09d-5f99-95fa-fe40186f2e32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83: The Forgotten Scholar"
+slug: 0084-chapter-83-the-forgotten-scholar
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 84
+ownLength: 2093
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3510800/chapter-83-the-forgotten-scholar"
+royalRoadId: "3510800"
+---
+
+Sylas stepped down from the carriage, adjusting his spectacles as he took in the imposing, crystalline spires of the Mages' Guild. The air here always felt thin, vibrating with a high-frequency hum of ambient magic that made his teeth ache.
+
+He approached the reception desk, carrying a stack of heavy, leather-bound tomes.
+
+"I am here on behalf of House Fenris," Sylas said smoothly to the clerk, a young human who looked entirely too stressed. "Master Caladorel left several of his research texts at our establishment. My Lord deemed them important enough to warrant personal return."
+
+The clerk made an 'O' shape with his mouth, looking at the books as if he expected such a scenario. "Master Caladorel? Ah. Yes. Of course. Left them behind. How... expected."
+
+He waved a hand, dismissing the wards on the inner gate. "You may pass. He should be in his personal archives."
+
+Sylas walked through the shimmering gate, his butler's intuition tingling. Something felt off. The clerk's reaction wasn't one of awe or deference, which was the usual response to anything involving the Arsenal Magus. It was pity.
+
+The books Sylas carried were, of course, a complete fabrication. They were a precaution Caladorel had established weeks ago. If Ren ever needed to contact the ancient mage in an emergency without arousing suspicion from anyone, a 'forgotten item' delivery was the perfect excuse. Hidden deep within the pages of a treatise on subterranean moss was Ren's coded letter detailing Kaelthos's impossible level shift.
+
+Sylas navigated the winding, marble-floored hallways. The Guild was massive, separated into distinct spires signifying the different schools of magic—Abjuration, Evocation, Illusion. Caladorel’s archive was located in a detached, squat building near the botanical gardens, a testament to his isolation from the rest of the faculty.
+
+As Sylas passed a sun-drenched courtyard, he heard a group of acolytes talking loudly.
+
+Acolytes were different from true practitioners or formal apprentices. They were essentially glorified helpers. Due to their magical capability being too low to cast complex spells, they couldn't become proper apprentices to a high-ranking mage. So, they chose the next best option: performing menial labor in the Guild in exchange for access to the library and a steady paycheck.
+
+Sylas wasn't trying to snoop. He was simply walking along the designated pathway, his footfalls silent on the marble. But the acolytes, wearing the pointed hats of the Evocation school, were not bothering to keep their voices down.
+
+"Word around the spires is that Caladorel the Mindless finally did it," a young human acolyte snickered, leaning against a fountain. "He forgot the most important thing to him. His research."
+
+A second acolyte, added, "Well, it was expected. He never told anyone what his research actually was. He never took on a real apprentice or students. The man guarded his secrets so badly he didn't even write them down. Now his mind is going, and he forgot what it is he was looking for."
+
+Sylas furrowed his brows, slowing his pace slightly. It was a well-known fact across the continent that Caladorel's mysterious, lifelong research was the driving force that pushed him to reach the absolute pinnacle of magical excellence. It was his entire reason for living. What could have possibly happened to make him abandon it?
+
+A third acolyte chimed in, lowering his voice conspiratorially. "Furthermore, he has been seen in the elementary libraries. The ones in the lower city."
+
+"The elementary libraries?" the first acolyte scoffed. "Where the children's books are located?"
+
+"Exactly. The greatest mage of our age is reading picture books about talking horses and basic arithmetic."
+
+Sylas kept walking until he left the range of their loud discussion. He digested the information carefully. Caladorel abandoning his life's work? Reading children's books? It didn't fit the image of the sharp, ancient mind Sylas had interacted with at the estate.
+
+Unless... maybe the research hadn't been forgotten. It had been completed.
+
+Sylas arrived at Caladorel's personal archives, expecting the mage to be hunched over a desk surrounded by floating scrolls. But the archive was empty. Dust motes danced in the sunlight streaming through the high windows.
+
+Sylas began asking around, his frustration mounting as he was directed from one empty room to another. No one could lead him to the old man. This mage had done a complete 180 in recent days, abandoning his usual hermitic routines. Sylas was starting to get frustrated, walking around in circles through the sprawling complex.
+
+Finally, just as Sylas's back was starting to ache from carrying the heavy, decoy books, he noticed a solitary figure out a window.
+
+A man was kneeling in the dirt of the botanical gardens, carefully aligning a row of small, flowering seedlings. He was using a trowel.
+
+Sylas was flabbergasted. Caladorel, the Arsenal Magus, the man who could level a city with a thought... was gardening? Manually?
+
+Was he really going through an end-of-life crisis?
+
+Sylas exited the building and approached the man, clearing his throat politely.
+
+Caladorel looked back, raised a bushy, white eyebrow, and got up with the help of his walking stick—a twisted piece of ironwood that doubled as his primary wand. He dusted off his knees.
+
+"To what do I owe the pleasure of this visit from the diligent steward of House Fenris?" Caladorel asked, his voice dry but carrying a note of genuine amusement.
+
+Sylas hinted at the books he carried. Caladorel's expression shifted instantly. He led Sylas toward a secluded stone bench under a weeping willow.
+
+Caladorel picked up the book on subterranean moss, flipping through the pages with practiced ease until he landed on the letter. He opened it, his milky eyes scanning the text rapidly, decoding the message in his mind.
+
+A moment later, the paper burst into a small, controlled flash of blue fire, crumbling into fine ash that blew away in the breeze.
+
+Caladorel's demeanor shifted. The eccentric gardener vanished, replaced by the ancient, calculating scholar. He mumbled under his breath, "This is quite interesting. It seems a great deal of history has been kept from even me regarding this specific matter."
+
+He looked up at Sylas and offered a benign, grandfatherly smile that didn't quite reach his eyes. "I am so grateful to you all for taking care of my books. I know I should spend a few more days at your establishment to rest my old bones by the sea air. Shall you take me there now?"
+
+...
+
+Caladorel arrived at the Fenris estate an hour later and immediately requested Sylas lead him to the one called Kaelthos.
+
+Sylas realized this matter must be directly related to Kaelthos's impossible level progression. The master of the house must have asked for Caladorel's help in understanding it.
+
+He told Caladorel to wait inside the master's study while he fetched the guard.
+
+Caladorel hobbled down the hallway toward the study, his cane clicking rhythmically on the polished wood floor. Suddenly, a little ball of pure, chaotic joy ran toward him.
+
+It was Lily.
+
+She was wearing a tiny pair of overalls and a shirt covered in mashed peas. This small kid, with chubby fingers and chubby cheeks, was the living embodiment of what he had searched for his entire life. The missing link. The progenitor.
+
+Lily loved this old man. His long, white beard was endlessly fascinating to her. She could braid it, tug it, or hide her toys in it.
+
+Mira was jogging behind her, trying to catch up. She knew the importance of this old man; he was the most renowned wizard in the lands. He wasn't a playground fixture.
+
+Caladorel leaned down with surprising agility, letting Lily grab onto his long beard. He scooped her up with one arm, transferring a significant amount of weight onto his cane.
+
+"Oh, My Lord, I apologize!" Mira gasped, skidding to a halt. "She is much too energetic today. I will take her—"
+
+"It is quite alright" Caladorel said, his ancient face splitting into a wide, genuine smile. He bounced Lily gently on his hip. "The young lady and I are quite fond of one another. Are we not, little sprout?"
+
+Lily giggled, yanking a handful of white hair. "Beard!"
+
+Mira hovered anxiously, confused as to why this incredibly powerful, notoriously cranky man gave Lily so much attention and priority. She had once seen him cast a highly complex, Tier-4 illusion spell—a miniature, glowing Cat chasing a butterfly—just to entertain Lily when she was crying over a dropped toy.
+
+It was bizarre behavior for an Archmage.
+
+He just really likes children, Mira told herself, putting the thought away. That must be it. The lady is just overwhelmingly adorable. Yes. That is the only logical explanation.
+
+But a small, quiet part of her mind, a part that shared a racial memory she couldn't quite articulate, noted the deep, profound reverence in the old man's milky eyes.
+
+Sylas, returning down the hall with Kaelthos in tow, caught the tail end of the interaction. He saw the way Caladorel held the child—not like a curious noble, but like a priest holding a sacred relic. Sylas adjusted his glasses, his analytical mind filing the data point away next to the impossible level cap. Kaelthos, marching stoically beside the butler, remained entirely oblivious to the subtext, focused solely on whatever test the Master had summoned him for.
+
+...
+
+The heavy doors of the study closed. Ren sat behind his desk. Caladorel stood in the center of the room with Kaelthos.
+
+Ren explained the situation, detailing everything.
+
+Caladorel listened intently. He used his own spirit to check Kaelthos. He simply closed his eyes and extended a hand, his fingers hovering inches from Kaelthos's chest. A faint, golden resonance hummed in the air.
+
+Caladorel's eyes snapped open. He swayed heavily, slumping down into a plush armchair opposite Ren's desk.
+
+"You may leave us, Kaelthos," Caladorel rasped, waving a trembling hand.
+
+Kaelthos looked at Ren, received a nod, and exited the room, leaving the scholar and the Lord alone.
+
+"It is true," Caladorel whispered, staring at his own hands. "Seventy-three. The hard cap is broken."
+
+"You seem surprised," Ren noted, leaning forward. "I thought you suspected this might happen."
+
+"I theorized it," Caladorel corrected. "But to see it... to feel the biological lock unspooling in his mana veins... it is staggering."
+
+The old man looked up at Ren. "It appears the Kingdom, and the world itself, has buried this knowledge deeper than I thought. The presence of a High Elf does not just unlock the potential of the elves around her; it passively rewrites their limitations over time. She is acting as a localized amplifier for our species."
+
+Ren rubbed his temples. "So, Kaelthos is going to keep leveling up. And Mira. And Sylas."
+
+"And the twenty-five other elves you employ," Caladorel added grimly. "If anyone from the outside scans their levels, the secret is out. You will have an army of S-Rank anomalies living on a coastal estate."
+
+"What do we do?" Ren asked.
+
+"I need to stay here," Caladorel decided instantly. "I need to observe the situation. I need to monitor their progression and develop a localized cloaking ward that can mask their true levels from standard guild members. I will be staying here for the foreseeable future, Lord Fenris."
+
+"I'll have Sylas prepare a guest suite," Ren said, relieved to have the expert on hand.
+
+"There is another matter," Caladorel said, his tone shifting from academic wonder to political pragmatism. He leaned heavily on his cane. "My time in the capital has not been entirely spent gardening. I have been listening to the whispers in the high courts."
+
+Ren tensed. "Whispers about me?"
+
+"About your food," Caladorel clarified. "Your 'Warrior's Broth' and your exotic beach restaurant have caused quite the stir. It has become a matter of national interest."
+
+"That was the plan," Ren said. "Be too famous to hide."
+
+"You may have succeeded too well," Caladorel warned. "The Royal Family will be sending a delegation of inspectors within the week to examine the quality of your food and the operations of your establishment."
+
+Ren blinked. "Health inspectors?"
+
+The old man was confused by the term ren used.
+
+"Culinary judges," Caladorel corrected. "If you pass their inspection, the Royal Family themselves will make a visit to sample your food. It is the ultimate test."
+
+The old man looked Ren directly in the eye. "If they like it... if you impress the King... you will be awarded the Royal Seal of Culinary Excellence."
+
+Ren sat back in his chair. The Royal Seal. The key to the monthly stipend of Royal Duck Birds.

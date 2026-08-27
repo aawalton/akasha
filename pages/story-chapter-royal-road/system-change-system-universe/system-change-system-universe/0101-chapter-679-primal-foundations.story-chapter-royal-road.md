@@ -1,0 +1,113 @@
+---
+id: 4be5e35a-72ee-5ff4-a6ad-131738de018f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 679: Primal Foundations"
+slug: 0101-chapter-679-primal-foundations
+partOf: system-change-system-universe
+position: 101
+ownLength: 2162
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3865208/chapter-679-primal-foundations"
+royalRoadId: "3865208"
+---
+
+Chapter 679: Primal Foundations
+
+Over the next couple of hours, Derek played with the robe that Alex had given him. He had Alex explain the different runes that were enchanting it and give him suggestions as to where to start with his newly obtained void-flavored flame. The results were hit and miss.
+
+They were right about one thing, though. The enchantments on the robe were much sturdier and more durable than the ones on the light globe had been. Touching the end of one of the runes didn't automatically burn through it and turn the robe into ash, like it had the light rune. The jury was still out on whether it was because of the quality of the rune or the material used, however.
+
+At one point, Alex pointed out a rune that was layered below a couple of other ones. The robes that the family wore—at least the most basic ones like the one he'd handed over to Derek—were more basic than those that the higher-ups in the family wore, so there weren't any tamper runes or the like hanging around.
+
+The robe had four runes sewn into it. At the very bottom layer, there was a durability rune. Then there was a mild defensive rune—it was nothing to write home about. It was more of a rune that defended against the elements and lower-tier things than anything else. It would survive a basic, non-magical fire, but that was about it. Then, there were cleaning and repair runes on the outermost layer.
+
+The runes were also sewn throughout the robe and were very large. It was easy to see that basic robes such as the one he was practicing on were created by the newer runesmiths in the family as a way to learn and practice. Still, 'new' was relative, as everything from the runes to the material was far above what many of the runesmiths back in Cydaria could do.
+
+By the time the robe turned to ash in the same way that the light orb had, Derek and Alex had learned a good deal about his new flame. The first and most intriguing part was that the repair rune was not able to repair the damage from his flame to any of the other runes. Also, as soon as his flame touched the repair rune, it stopped working for good.
+
+Derek also had to focus harder on his flame than anything else he'd ever used, or else he would lose control of it, and it would quickly circulate through the runes and eat the mana used in them. He even found himself sweating from pure concentration. In the couple of hours or so of working on the robe, Derek's new skill even gained a whole percentage of progression.
+
+"That was a learning experience," Alex said as he reached down and grabbed some dust from the ground, then let it fall from his hand. "It's scary to think of what it's going to be able to do if it touches a living being."
+
+"Why do you say that?" Derek asked. He hadn't been thinking of anything like that during his practice. His mind was solely on using it on the runes, and he was concentrating so hard that it hadn't even wandered.
+
+"Because it's basically following a channel when you let it loose, and it's devouring all the mana that is used to create the channel—which is the rune pattern in this case," Alex explained.
+
+"Yeah, I get that," Derek said. "But that's with runes."
+
+"Yes, but what about the channels through which a user's mana flows in their bodies?" Alex asked. "Is it just going to go in and devour all of those? Will it devour the mana flowing through first? You saw how it caused the repair rune to be unable to repair. Will it do that to a person? Or will it be useless on living things? Is it something that will do damage, or is it more of a support skill that will debuff a target that it hits?"
+
+"We'd already know if you would have touched it," Derek said with a chuckle, then sobered. "But you aren't wrong. I can see the skill being anywhere from useless in a battle to being a trump card. I mean, it's almost like a portable Absolute Nullify skill—which is one of my B-rank skills, by the way. It draws any ranged magic attacks toward it, then consumes and nullifies them. This flame seems to work similarly—except for the fact that it seeks out the mana, and I have some control over it."
+
+"It is a shame that we cannot go to one of the training areas and test it in some live combat situations," Alex said. "Those areas are private to an extent, but not so much that I would trust them like I trust a private bedroom like this."
+
+"I can understand that," Derek replied. "It makes sense that the rooms for guests have more privacy than everywhere else."
+
+"I can, however, obtain a lower-level monster from the kitchen sometime tonight that you can at least test that much on," Alex said. "That way, even if we only see what happens for a split second, you won't be going in blind if you are pushed to use it in a battle later on. Of course, if you would want to try that."
+
+"I would appreciate that," Derek said. "The kitchen wouldn't think anything of you taking a live ingredient from them in the middle of the night?"
+
+"Not at all," Alex replied. "It would be a bit weird since it would be me doing it, but people do so all the time. Not for practice like this, but some of my siblings dabble in cooking and other general skills as a way to relax. I tend to gravitate towards reading instead. But it wouldn't be weird enough for anyone to ask any questions."
+
+"Then, if you don't mind, I'd like to do that," Derek said. "Also, speaking of reading, can we talk about that library of yours?"
+
+"What would you like to know?" Alex asked, his eyes sparkling.
+
+"Your sister said it's filled with books your family considers important to them," Derek said, and Alex nodded along. "Are there any books that are void-related? Or ones that would be useful to me? Even though I'm not much of a researcher or even much of a reader anymore, it was hard for me to walk through it without looking at everything."
+
+"I can only think of three books that even mention the void in our library because of how controlled the information is," Alex said with a shake of his head. "What is mentioned is just general knowledge of it and other more complicated affinities. There is nothing that we have not already gone over tonight—just that void is the combination of time, space, and chaos all bundled up into a single affinity."
+
+"Right," Derek said with a nod. "What about time, space, and chaos?"
+
+"Well... time and space are both considered primal affinities. They are affinities that have just always existed. As for chaos, it is a combination of two other primal affinities," Alex explained.
+
+"Which are?"
+
+"Creation and destruction," Alex said. "Chaos is the result of two opposites existing at the same time."
+
+"Interesting," Derek said. Is that why I have a Void Creation skill? He wondered. Will I be able to get a Void Destruction skill down the line? Or is the void destructive enough as it is? It also helped him understand a bit about why everything reacts like it does when it is put in the Void Travel layer of the void. It isn't just the time and space affinities doing the affecting. It's everything at the same time. Derek did latch onto something else, though. "What is the difference between primal affinities and other ones? Are they much stronger?"
+
+"Oh, not at all," Alex replied. "Now, those four are at the top of the food chain when it comes to affinities in general, but even fire and water are both primal affinities. And they are only considered so by scholars and the like. Fire, water, earth, air, light, dark, life, death, creation, destruction, time, space, arcane... they are all considered primal affinities."
+
+"I see..." Derek said. "What about blacksmithing or, like... sword-handling?"
+
+"That's why I said the term is only used by scholars and such. Since an affinity can be anything, there's no sense in classifying them differently for normal people. But piggybacking off our earlier conversation to break it down further, those that I just listed are some foundational affinities that can be combined easier."
+
+"What do you mean?"
+
+"Well, take your smithing example," Alex explained. "All crafting has a touch of creation in it. Smithing, much of the time, has a touch of fire as well."
+
+"So... combination like void?" Derek asked.
+
+"Not exactly," Alex shook his head. "More like a specialization. Think of it like this... Creation can exist without smithing, but smithing can't exist without creation." Alex rubbed his chin. "So, think... a combination would be chaos, which is creation and destruction. Frost would be water and air, and nature would be life and earth, and so on. Specializations would be smithing, swordsmanship, farming, cooking, and the like."
+
+"I think I understand. That's why I can focus on the void instead of worrying about all the stuff that makes it up," Derek replied, starting to understand better what Alex was explaining earlier. "But also why any skills with the affinities that make it up are a little stronger for me and easier to use? Because I guess subconsciously, I'm using those affinities, too, even if they aren't a focus... I think..."
+
+"It's more complicated than that, but that isn't a bad way to look at it," Alex said with a shrug. "But yes. Basically, true combined affinities become their own affinity. Others become regular combination affinities. And then there are specializations. With combined affinities, your affinity with those that make the combination is naturally higher than the other affinities, which makes skills with them easier to use or stronger, or more efficient."
+
+"And then, like with my companion, you can even have a combination with a specialization and a combination?" Derek asked. "She has void cooking," he explained.
+
+"Yes, you can," Alex slowly nodded. "But that happening is much rarer than any of the other concepts. You don't hear about it with cooking often at all, but it is a little less rare in smithing-type specializations. Like frost smithing. It may mean that the smith is much better at smithing with ice-related runes or materials or something."
+
+"Got it," Derek said. "Basically, with how I understand it right now... there are no real limits. Someone could get a class with an affinity that nobody has ever heard of tomorrow, and it could be an amazing affinity or complete and utter shit."
+
+"Yes. The Origin System doesn't care what scholars think. We only have classifications because people like to organize things into categories, and there are so many exceptions that I often wonder why they even bother trying."
+
+"Obviously, they categorize and try because it makes it all easier to teach and understand," Derek said with a shrug.
+
+After that, Alex gave Derek another robe to practice on while he left to take care of other things. Derek didn't get much further in his testing before the robe turned to ash. A couple of hours later, Alex came back and took him to dinner with some of his family.
+
+It was pleasant enough. Derek met a couple more of his friend's siblings, and they were much more shocked at the sight of Derek's VIP Badge than Tanya or their father had been. So much so that they didn't speak the entire meal unless directly answering a question, and no matter how much Derek insisted, they would not treat him as a normal person. However, they were the youngest of the siblings, according to Alex, so it was understandable.
+
+Not long after, Derek went back to his room to sleep. And, just like he said, Alex came knocking in the middle of the night while carrying a cage with a fat bird inside. He also brought back Derek's Starfury Boots with him, which increased Derek's mood even more.
+
+"It's always a bird..." Derek said as he took the cage.
+
+"Huh?" Alex questioned with a furrowed brow.
+
+"The experiment is always with a bird," Derek said.
+
+"Oh... uh... I guess?" Alex shrugged. "They are delicious, so they are the easiest monsters for me to find without going out."
+
+"Yes... they are," Derek replied with a laugh. "Anyway... Let's see what this does with a living being with mana." He held his index finger up, and the tiniest little flame appeared at the tip. With extreme caution, he moved it closer to the bird, then touched the flame to its talon.

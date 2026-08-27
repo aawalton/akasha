@@ -1,0 +1,367 @@
+---
+id: 27135c74-20b8-565d-a20d-edafa2e4d883
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84: Confluence of Hatred."
+slug: 0003-chapter-84-confluence-of-hatred
+partOf: the-calamitous-bob-stubbed
+position: 3
+ownLength: 6221
+unit: words
+ownProgress: 6221
+publishedAt: 2022-08-12
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/969659/chapter-84-confluence-of-hatred"
+royalRoadId: "969659"
+markedReadAt: "2026-06-29T21:14:44.861Z"
+---
+
+The white shapes bounced up and down the treeline at great speed, faster than they should. Talan was on his feet screaming before he could think about what to say. Gesticulating and pointing led to more people looking. Screams erupted among the lines.
+
+“You have to go! You have to hide!” He told the apothecary.
+
+The bald man nodded and collected his things, then lifted a poisoned man with some difficulty. Lines of archers and spearmen were already forming. A sergeant was asking for the war mage. Talan realized that he didn’t have a formation to join so he stayed at the back, helping the wounded move away. At the same time, he was doing his best to inspect one of the flying monsters that were definitely coming their way. The task was almost impossible. He could only catch glimpses before the shapes would disappear back under the canopy.
+
+“Come on, come on, come on.”
+
+He got it. One of the butterflies flew down then up, allowing him to get a visual.
+
+[Pleiada Blaze Drone, extremely dangerous, mobile, volatile…]
+
+Talan gasped as the meaning of ‘volatile’ flooded his synapses, bringing with them the taste of scorched earth. They could not be allowed to come closer. He looked around, found the royal carriage trudging close with Eteia at its top. The war mage was already casting.
+
+“They explode!” he screamed, then a second time. His warning was relayed up. Eteia frowned, traits drawn with concern and the exhaustion of constant vigilance. She raised her hands and called upon power, and it answered.
+
+Red mana flared in a circle above her head, arrayed with exacting precision to bend the world to her will. A fire set the forest aflame on the side of the lake opposite the Enorians, then it spread, and spread, until the view of the butterflies was covered by a roaring inferno. The farthest spearmen groups started to run back to the safety of the wagon line.
+
+Talan could feel the heat from here, like standing in front of an oven.
+
+White shapes emerged from the sides and over. The drones were too spread out. A few archers let out arrows. They might have hit something, Talan would never know.
+
+Eteia screamed and the wall exploded out.
+
+The first of the drones dove on the nearest squad.
+
+The world went white. It also turned upside down. Talan’s ears screamed at him while his body fell to the ground, numbed by a powerful jolting sensation unlike anything he had ever felt before. It took all his strength to breathe in air that tasted like heat and ash. For a minute, he could do nothing but gasp. Then, progressively, his vision returned. The bald apothecary was by his side with a bleeding wound on his scalp, which trailed blood down to his simple robes. The man forced a potion between his teeth. He swallowed it down as much by reflex as anything else. His vision cleared and his mind settled an instant later.
+
+“What the hell happened?” he asked.
+
+But he knew, and he turned his head to take in the carnage.
+
+Where men had been, now there were small craters. Indistinct pieces of flesh seeped red on the darkened ground here and there. Many soldiers still lay on the ground. The waters of the large pond roiled like a sea. Dust and flaming debris rained down upon the apocalyptic landscape, some disappearing behind the thick wall of smoke leading farther into the forest, or what had been a forest. Nothing was left standing in an avenue wide enough for the entire army to camp in.
+
+“Enttiku, mother of mercy. Spare us,” he heard someone whisper.
+
+They had lost the entire vanguard. All forty men who had gone to scout the edge, and it could have been worse. Much worse. Only Eteia and everyone’s quick reaction had prevented the beasts from falling over the whole column. It would have been over in an instant, the entire expedition, swallowed by the Deadshield Woods.
+
+“Talan, I need your help,” the apothecary said.
+
+Right. Help. Help now. The living came first, like they always did. They still had some wounded. Talan followed the man in a daze as they walked to a pile of intact barrels, the kind that used to contain food. Grim-faced nurses and soldiers were filling them with poisoned water. The bald apothecary grabbed jars of glass containing a black powder and emptied one in each barrel.
+
+“I’ll need to make more. Talan, I need you to mix this until your inspect skill returns [activated charcoal water]. Understood?”
+
+The questor was moving a provided ladle before the apothecary was done talking. The dark powder dyed the poisoned liquid with a sinister hue.
+
+“Activated charcoal binds with the poison,” the apothecary explained.
+
+“Even a magical one?” Talan asked, then winced. It was not his place to question, or so he had been taught. The wisdom of this statement was wearing thin in his mind.
+
+“Yes, it’s magical activated charcoal, you see?”
+
+Talan nodded and focused on his task. He ignored the soldiers securing the ravaged clearing for the second time. There was only the next barrel until his thirst could no longer take it.
+
+Even the thought that there were body parts bobbing in the water right now failed to distract him from his pain. He had to drink.
+
+“Allow me,” the apothecary said. He picked a cup and drank his fill from a barrel. Talan stared at him, aghast.
+
+“I always put my mouth where my mouth is,” the apothecary explained with a sad smile.
+
+A minute passed and he failed to throw up his stomach lining.
+
+“I want to take a piss but it’s probably unrelated. It’s safe, I think. Alright, everyone, go.”
+
+Talan gulped down greedily. The poison failed to kill him, so he drank again. Meanwhile, the army settled down with their usual efficiency. Slowly but surely, the Enorians cleaned and organized the open ground until they had an encampment worth the name. Talan left Eteia and the bald man making more charcoal. He found his tent by some miracle and crashed down.
+
+It was late afternoon when he woke up. The men sat around fires, with tents in orderly rows. The pond was dark but clean and a large group of soldiers were repurposing containers to hold water. He saw some of the wounded sitting at the edge of the watery expanse, pinkish scar tissue fully exposed. They didn’t look good but they certainly looked better.
+
+A tall barricade now surrounded the camp, probably set up by the caster siege specialists. Nothing too fancy, but the earthworks masked the view from the forest. First thing first though, Talan found his squad, only to realize that they were relaxing. The men were happy to see him finally awake and shared some vegetable soup with him, made thicker with flour. The simple taste settled his mind and he found himself grateful that there was no meat, for once. He eventually left to clean himself by a large barrel. The pond’s water left dark spots on his skin, which he didn’t mind. It felt great not to smell himself every time he moved his arms.
+
+The mood was calmer, now that the men finally felt safe for the first time in days. He was about to return to the squad when a runner called all leaders to the prince’s carriage, which included him as a questor. He heard the men whispering on his way there. Their voices flitted in the unsteady calm of the fading afternoon. ‘Return’, they said, ‘give up’. ‘Not worth it’. He clenched his fist at their cowardice. They didn’t get it. It was a matter of principle, of reputation. If they failed here against Kazar, Enoria would lose its last legitimate heir. The king was broken. The first prince was maimed and his sister dead. All the important northern rebels had perished in the cavalry charge, cut down as they were trapped. If they failed here, Lancer would lose his legitimacy and, with it, the dream of a reunited Enoria. They could not fail. They could not let the sacrifices that had been made on the trail be in vain. And yet, as he neared the meeting, he found his outrage disappear as quickly as it had come.
+
+The wagon stood immaculate in the center of the base like a bastion of civilization, shining with enchantments. Eteia was not in her spot on top of it right now, probably resting. It comforted Talan to see that order had prevailed, and that the just hierarchy of things still reigned so deep in the Deadshield Woods.
+
+Then he noticed the soldiers in tight ranks facing the closed door and his joy evaporated. It wasn't fair. A leader… should lead from among his men.
+
+He shook his head to chase the errant thought. This was not his belief. He trusted results, and…
+
+Talan clenched his chest and prayed. The favor of Maranor was still there, deep inside his soul. He could waver but he could not fall and he could not show it. That was the deal. Let his betters do their job and he would do his, until he ascended the ranks through merit — or by replacing someone less fortunate.
+
+Talan joined the group and soon the Prince walked out. His regal appearance silenced the crowd and the light of cooking fires shone on the circlet he wore, lending golden hints to the silvery metal.
+
+“Men, I have heard disturbing rumors from the rank, and I am displeased.”
+
+His frown made Talan feel like cowering. He was not at fault, however, and so he stood straight and without guilt.
+
+“Some of our soldiers talk about leaving, returning to the kingdom with our tails between our legs. Shamed. Chastised. Defeated by pitfalls and tree sap. I am telling you now, in case this wasn’t clear enough. It will not happen. We have not come here to turn back with our duty unfulfilled, even if the path is long and arduous. Our task is more daunting than expected, yes, and I understand the weight on everyone’s shoulders. I really do. However, this weight is the same as we have always carried, for what is at stake is nothing less than the fate of our nation. A nation that has stood since the end of the Old Empire. A nation now on the verge of the abyss!”
+
+The Prince scolded and the mood turned sullen.
+
+“This war will not end by retreating. We are committed now. If we retreat, no one will ever trust any of us again. We will be the laughing stock of Param and a public embarrassment for the crown. More importantly, there are three scores of dead defenders of Enoria whose deaths will have been in vain because our stones withered like old prunes at the first signs of trouble. I will not allow it. We will reach the city and make those separatists sorry they ever thought about defying us.”
+
+Talan could understand the underlying message. Once they reached the town, there would be a reckoning. The prince might even order a hecatomb: one inhabitant in a hundred randomly put to the sword. It was a harsh punishment, but it was within his rights.
+
+Again, a thought wormed itself in his mind. The prince had taken slaves. The prince had broken an agreement. It was… all his fault.
+
+Talan prayed harder.
+
+“You, the officers, are the spine of our army. You will enforce discipline now and until we settle down in Kazar after our ultimate victory. Until the time has come to rest and mourn, you will maintain a steel grip over your charges because I assure you that these woods have swallowed armies before, and they will do so again. That is all. Dismissed!”
+
+The assembly saluted, then dissolved in slow trickles. Few people talked. Talan could not blame them. He felt… empty. The prince’s words had not achieved the results he had hoped for. At the same time, he was a questor. He didn’t need anyone to remember his duties.
+
+He joined Bishop Ereon for an evening prayer. The older man didn’t say anything but he was solid and dependable, and that was enough. Talan had to believe that order would prevail, or it would all have been for nothing. And this couldn’t be allowed to happen.
+
+***
+
+The Yries warchief was maintaining his spear when Viv found him. His large, owl-like eyes remained fixed on his gear. Only the slight twitch of his bristling hair informed Viv that he had perceived her presence. The Yries could feel a lot through their skin. Things like tremors and wind, she’d been told.
+
+Gar-Gar placed the polearm in front of him with religious care, then kneeled back in a position that reminded Viv of Seiza, the Japanese proper seating. He invited her to join with a sweep of his thin arm. She obliged.
+
+“Human warlord. What do you want?”
+
+His Enorian was clipped and heavily accented. Viv realized that she had grown used to his curt sentences. He was not being rude.
+
+“Can I ask you a question?” She started.
+
+“Ask.”
+
+“Why do you fight with us here, in the forest? I know that you could defend your city against most forces now that you have steel and that you have settled. I also know that you don’t like us much. I’m appreciative, make no mistake, I’m just curious.”
+
+The Yries made a strange series of clicks that she had not yet learned to interpret. It was always an experience to maintain eye contact, yet Viv persevered, because the Yries took it as a sign of stability.
+
+They loved their stability.
+
+“Not dislike. ‘Click’. Pity. Fear. Not dislike.”
+
+Gar-Gar gestured at the cavern around them.
+
+“When we live in forest, we live in the trees. When we live in mountain, we live in the caves. You, humans, you dig caves in the forest. You bring wood in the mountains. To make the tunnels larger. Instead of asking the stone.”
+
+He leaned forward. Viv caught a whiff of his musk. It was curiously bird-like.
+
+“You claw the earth to make fields. You cut the forest to make walls. When you run out of space, you find more. You fight and you wage war on the beasts. On us. On yourselves. It is… never enough. You never have enough. You cannot stop. It is beyond you.
+
+“I used to hate it. But it serves no purpose to hate the snow. The cold. They just… are. You just… are. I see it now. When you took Kazar, we sent a young one with you. He witnessed… destruction. He said… that it was glorious. When he pierced the human walls with an Yries tool. I understand now. We cannot live without you… anymore. Not since we arrived in the deadlands. I picked a human. And I will work with this human. You. To keep our city. For vengeance. And for ideas.”
+
+“Ideas?”
+
+“You… are outlander. You see Yries machines and think weapons. We did not think weapons. We do now. And if you turn on us… we still have weapons.”
+
+“I will not turn on you, Gar-Gar,” Viv replied. “I meant what I said. I will not attack people because of what they might do. Only trust will carry us all through the day.”
+
+“You believe now. And maybe you will, later. So long as you do… you have us. Because we want to believe as well. You have our weapons.”
+
+The Yries smiled, and it was not a pleasant sight.
+
+“They are very good weapons, yes?”
+
+Talan woke up to a noisy crash. He rushed out of his tent with fear, fastening his armor as fast as he could in the darkness of the pre-dawn night. Cries of alarm rang through the camp. Then, he heard the buzz.
+
+When the fire wasps came this time, they came from every direction. There were no trees left for Eteia to burn, though she did manage to destroy some of the insects mid-flight. The rest of the hive warriors crashed on the camp in a swarm of embers, setting tarps and supplies ablaze. Two landed on Talan as he was stomping on a nearby fire. His breastplate stopped the first but the second landed on the elbow. The pain sent him to the ground, screaming for a while. The battle turned into a Helockian farce. He could swear he had extinguished the same drying underwear three times.
+
+It took ten minutes for the last wasp to self-immolate. Eteia ran everywhere, catching flames in her fist as if it were paper to collect. No one died this time. No one managed to sleep again either. Once more, they waited for an attack that never came until dawn found them, tired and sooty. They departed mid-morning despite their exhaustion, with Talan once more in the lead. They were fully in the deepest part of the forest now. Small hills and tall trees played strange tricks with his perspective, and the questor remained vigilant, but they came upon few traps and none that contained sap anymore. It appeared that the Kazarans had run out. Not that it mattered. The damage had been done.
+
+Talan adjusted his bracer for the fifth time. The company didn’t have nearly enough leather to replace the lost straps, so he had to make do with torn tarp. Many others were in the same situation. Between the sap and the wasps, few tents or cloaks remained intact. Even Bishop Ereon had a hole in his tabard. As for the champion, he had caught all the wasps on his gauntlets.
+
+The prince was intact as well. He had stayed inside during the crisis, which was probably for the best since the opportunity was perfect for an assassin’s strike, Talan thought.
+
+Yes, that was for the best.
+
+The day went on, with the landscape changing into more of the same. There were the trees, the occasional bird, and the constant presence of those strange walls of altered earth. Talan had no idea what they were for since nothing had happened. He was relatively sure that they could not contain spells or traps. Perhaps they were an attempt at intimidation, a constant reminder that the witch was out there somewhere, watching. Making ready.
+
+Nothing happened that day besides a monster attack. The beast was quickly dispatched by the champion and Ereon working together, and its carcass was butchered to provide meat for the men that evening. Talan went to bed expecting trouble. He was woken up again, in the darkness, by a horrid whistling sound. Put the armor on. Latch it. Draw sword. Get out. His mind flailed against fatigue when he came out and gathered his exhausted men around him, but this time nothing happened. The noise had come from a hollow ballista bolt. It had only been an elaborate whistle.
+
+“Looks like they ran out of fire wasps as well,” one of the soldiers said.
+
+“Good because we were running out of tents.”
+
+Talan reached a certain sense of detachment the next day as they kept going and the ankle-snappers increased in numbers. There were still a lot of wounded, so many that Ereon had to stay with the moving infirmary. Everyone’s mana was running low, which was dangerous, but like the day before, the champion and Bishop Ereon slew the few monsters attracted by the column. The prince even came out with his sword and participated. They made a great show of exposing the carcass of a furry quadrupedal creature, cleanly beheaded. The prince stood by it, sword bloody. Talan was sure that the men appreciated his efforts but, to him, it felt farcical. Just a charade. If the prince wanted to make himself useful on his off time, he only had to visit the infirmary. Talan was sure that the man had more life mana than the average grunt.
+
+A great emptiness filled his chest at that thought and he calmed himself down. Maranor’s faith required respect for power in the pursuit of power. Either he followed the prince or he deemed him unworthy, and thus a target. The goddess tolerated no middle ground. Now was not the right time to reconsider his obedience. Not in the middle of the woods. He would have time to do so in Kazar.
+
+If they ever reached it.
+
+It was the first time that the possibility of failure entered his mind, and he chased it away. The Kazarans were only delaying the inevitable. Even battered and hurt, the army was still over seven hundred battle-hardened, professional soldiers. They had proven themselves in Regnos and other places. They had trained for years in preparation for the civil war. It wasn’t something that a year of preparation could offset. Never.
+
+Talan’s thoughts grew feverish as the day went on. They were almost past the heart of the woods, arguably the most dangerous leg on the journey. He could already see the trees return to normal proportions. They were so close.
+
+Something cracked on both sides of the road.
+
+The men immediately reacted and so did he. The slope led up and disappeared into a thicket of thin, white-barked trees. He just knew that something was coming from the rumble. Something heavy. One of the nearby bridger sergeants started to yell.
+
+“Shit, don’t stay in formation! Spread out! Bombardment protocol!”
+
+They obeyed with practiced ease and soon, Takan could see why. Enormous, spherical rocks were rolling down on them. The bridgers moved up to meet them. And dodged.
+
+Talan did the same. The siege specialists knew what they were doing. He ran up to the nearest ball and swerved around the quickly accelerating projectile. There were not a lot of them but by Maranor, were they big. As tall as a man. Fortunately, they were all past him now.
+
+“Watch your back!” a bridger told him, and he did.
+
+The soldiers fared rather well. None of them had finesse below the third tier and it showed in the way they ducked and ran. By spreading out, the soldiers avoided running into each other but the danger was not gone yet. The rocks on the opposite slope were now climbing back up through sheer inertia. Some found each other in deafening shocks that sent boulders as large as torsos crashing to the ground. Others found wagons.
+
+By some miracle, all four bridger earth casters were at the top of the formation that day. Quickly raised walls deflected or slowed the impending doom but for others, it was too late. Talan saw a food wagon turn to splinters, its contents smushed on the muddy ground. Then, a horrible thought hit him.
+
+The wounded.
+
+Talan sprinted with everything he had, ignoring the tiny voice in his head that said that he was too late and besides, powerless. The mobile infirmary stood in the middle of the formation. perhaps it had escaped destruction? He moved faster, until he saw a flash of grey light.
+
+The back of the ambush had held much better. As he watched, a fire lance split a boulder in two while the champion swung his two-hander, stopping another completely in its tracks. Ereon had moved forward in an attempt to block the other side. He brandished a mace and screamed the name of the goddess.
+
+For one breathtaking moment, the grey light of Maranor’s power silenced the constant rumbling as the bishop successfully punted the threat away. The tall veteran saw Talan jumping and smiled knowingly, but then the grin faded from his lips. Talan’s mentor gasped dreadfully and arched his back. Talan imagined more than heard a crack, then a blade emerged from Ereon’s mouth, coming from the other side.
+
+The Bishop fell. Talan screamed. He ran. A shadow darted away, cloaked in black. It weaved between running bridgers with such ease that the experienced warriors looked like stumbling children. A voice sounded at Talan’s back, strangely loud in the chaos of the trap. It was princely and very, very cold.
+
+“Do it.”
+
+The slope exploded in front of Talan. The heat pushed him back and the men on it died a fiery death. He saw the shadow fall. He saw it die too. None of the soldiers around survived the blast but it, no, she, almost did, and when her corpse rolled by his side, he stared at a strangely intact face with gaunt yet elegant features. On her burned chest, he could spot the numbers two and six tattooed in black ink.
+
+“Hadal monsters,” the prince said by his side. “So the witch will stop at nothing to delay the inevitable. She would go as far as allying with freaks. Well, I should not be surprised. Men, get that corpse on the spike so that our column may see the face of our foe.”
+
+Talan wanted to see as well, but all his sight was taken by the body of his master, mangled below a scorched stump.
+
+***
+
+That night, five soldiers attempted to desert. The champion spotted them and the prince had them hanged by the gate for all to see. He talked to everyone of duty, of dying for the cause, of the importance of seeing things through. He spoke of those who had fallen and of their sacrifice, but it was wrong. Sacrifice implied choice. Eteia’s spell had given them none. They had been victims. Talan tried to tell himself that their deaths had been necessary but, this time, he failed. Bishop Ereon the brave had not died to kill but to save. His assassination should not have led to collateral damage, even if eliminating a Kazaran elite would save lives in the long run. It was the sort of calculation that treated people as figures on a piece of parchment. it was… unworthy.
+
+The faith in Talan’s breast died out like an exhausted candle. He walked through the rings of tents to the infirmary to make himself useful, finding the apothecary there.
+
+“Here to help?” the bald man asked. Talan realized that he could not tell the age of the man. He also realized that he didn’t know his name.
+
+“It’s Massine. Nice to meet you, Talan.”
+
+“I apologize.”
+
+“And I understand. You are exhausted. You need rest tonight. Everyone is stable, I give you my word.”
+
+“But…”
+
+“No buts. Exhaustion leads to wounds and then where would that leave us? Come on, let’s have a cup of klod.”
+
+They walked to the edge of the earthworks that were now erected every night despite the tremendous mana cost, and sat by a raised, sharpened log. The smell of ash gave Talan’s drink a peculiar taste.
+
+“Are you alright, questor? You look… different.”
+
+“Different bad?”
+
+“Yes.”
+
+“Having a bit of a crisis of faith right now.”
+
+“That is problematic for someone on the path of a warrior priest.”
+
+“It is, isn't it? It happens though. Bishop Ereon said that…”
+
+Talan choked on his next words. Massine the apothecary patted his shoulders for the next minute while he cried a bit.
+
+“I’m starting to wonder what’s the point. I promoted order, power, and obedience because I thought that it was the only way for humanity to thrive. Only by being united could we stop the monsters and aberrants. We could join in one glorious union instead of eating each other like rats stuck in a pot. But here we stand, one year after hostilities flared up, and no closer to unity. Worse, we’re actually falling apart. Thirty thousand corpses later and nothing has changed. I tried so hard. So fucking hard. But Ormin died and so did others. It’s all fucking pointess.”
+
+More shoulder patting. For some reason, the gesture was both kind and respectful.
+
+“I’m older than you so I could share my experience on the matter, if it helps. Otherwise, feel free to talk more. I find that it lightens the heart,” Massine said with a steady voice.
+
+“No no, please talk. I don’t want to speak up my mind right now.”
+
+“Very well.”
+
+The older man pondered for a moment, then he started. In the distance, the sun disappeared behind charred trunks.
+
+“I often asked myself this question, you know? As a healer. Why do people die after I tried so hard to save them? Why do they stop breathing when they have so much to live for? What sort of world do we live in when a young couple loses their child to a one-in-a-thousand freak accident while criminals retire unimpeded? I could not find an answer and so I fought, because I was angry.”
+
+The apothecary rubs his calloused fingers together. His delicate hands were pitted with burn marks and scar tissue, though his nails were clean. Talan found an echo of his distress in the man’s bitter smile.
+
+“I fought Enttiku and her grasp. I fought with all my strength and cursed her every day for every person whose eyes I closed for the last time. My potions delayed poisons fit to kill a king. I mended together fragments of bones. It was never enough. Every day, I cursed her just as I prayed to her. I even heard the voice of… you know of whom I speak. It offered enduring flesh but I refused it, because it was not survival at all cost I was seeking, but salvation. Enttiku never answered my provocations. She never chastised me. Every time I prayed I felt… empty afterward, but in a good way. Like a lanced wound drained of its foulness. She drew the fury out of me when I let her.”
+
+He sighed deeply.
+
+“I think I found the way when a man came asking for a merciful death. I tried to refuse him but he wouldn’t budge, and he wouldn’t get angry either. I think I already had my answer, but I needed to take one last step to accept it for myself. It was that man who gave it to me, with his incurable disease. He told me that death was not a failure. This is important and something I want you to know. Death is not a failure. It is an inevitability, but it is not a failure. When you finish a journey, you do not fail by reaching the destination and the destination of life is its own end. More often than not, that end comes too soon, but in the end, we must all reach it.
+
+“My role as an apothecary is not to fight off death but to provide and improve life, even if sometimes it means ending it. That is why I fight to save a man from a heart attack even if he has only a month left to live. Every new dawn we see, every breath we take is one more beautiful experience we get to have before we take the final journey. Now, I am no theologist, so I cannot tell you what souls do after they cross Enttiku’s final gate. Hell, I don't even know if the experience we gather during our lives matters. I want to believe it does. Every extension of life is something I want to celebrate and if my treatment didn’t work, then too bad, but I will have tried, and I will live without regret. You cannot save everyone, Talan, even those you thought you might have. There is no purpose in thinking what ifs because you were, and still are, only human. Fragile. Prone to mistakes. You mentioned Ormin but you didn’t mention the others, those who still depend on you as their chaplain. You can be the glue that holds them together to face the good, the bad, and the ineluctable.”
+
+Talan looked at the man in a new light because he thought he had an answer, then he frowned humorously.
+
+“You’re not trying to turn me into a priest of Enttiku, are you?”
+
+“All light gods bring something to the table. The order and strength Maranor provides helps to create the stable kingdoms we need to survive, so no, but I guess you got my point anyway.”
+
+“I think I did. I think I was too focused up instead of… around. All that shit is beyond me anyway, but the men I serve with are not. I’ll be there for them. No matter what… no matter what, I will not give up and I will show no fear. No hesitation. If I can give them one more day, I will.”
+
+The apothecary nodded and, this time, his smile was peaceful.
+
+“We all extend lives in our own way. I have potions to brew, my friend. See you later, or see you on the other side.”
+
+“And if there is a bar, I’ll meet you there.”
+
+“It’s a deal.”
+
+Willpower +1
+
+That was encouraging. And he would need it, because the prince wanted to accelerate. With many wagons and stores destroyed, they had to reach Kazar as soon as possible or risk even more attrition. That was it. Do or die.
+
+***
+
+Somewhere back on the road, Viv climbed down from her horse in front of the savaged remains of Two-Six. The woman’s body had been sanctified not to rise again, but that was the only mercy she had been shown.
+
+“I told her not to go,” she said.
+
+It felt empty but she had to mention it, because it was not her fault and she was a bit of a coward. It was tactless, however, and she knew it. Viv breathed and settled her soul. It felt strange to control it to some extent, but now was not the time for introspection or prayer. She walked to the bereaved’s side.
+
+“I’m sorry, Irao.”
+
+“You are,” he acknowledged. He was looking at the Hadal woman with an expression that Viv could not read.
+
+“Let’s get her down?”
+
+“Yes.”
+
+They worked in silence. Viv had brought a shroud and wrapped the body in it. One of Two-Six’s legs was missing, blasted clean off. There was spit on her tattered clothes. Once the body was secured, Viv looked at the Hadal leader with some circumspection. The man was so silent that it was difficult to read him, but she thought he might be sad. She would be in his stead. She decided to just give it a go.
+
+“Do you want to go bury her?”
+
+“No, I built a pyre. Follow me.”
+
+It amazed Viv that the man had already set it up. It was a nice one, large and built in a tiny clearing that smelled of wild flowers. Irao carefully placed the body on and stopped then.
+
+“I don’t know how to do a funeral.”
+
+Viv pondered the question for a while before picking an answer she thought would help.
+
+“My dad used to say that funerals were truly for the living, so we can grieve and remember. Just say something meaningful to you. Then… we can say goodbye.”
+
+“She cared for us very much.”
+
+Viv was surprised that Irao would speak so fast, then she was surprised that he would speak so much.
+
+“Our first home is in Kazar. We didn’t have one before. We had hideouts. She said that we had to defend it.”
+
+He paused for a while, so Viv waited.
+
+“I held back because I didn’t want to be used. Sometimes, I find it hard to tell if I want something or if someone wants something and I have to do it for them. The child went forth because she thought she had to defend us. She thought she was alone. That she had to carry the future for all of us. That was why she didn’t fully trust your plan, because she could not trust me to act. Us. Her own family. I think I failed her. I think I see a way to make sure I don’t fail the others, and those who will be born soon.”
+
+He turned to her and his eyes were still yellow and slitted, but they no longer disturbed her. It was just Irao. Her ex roommate. A bit weird and traumatized but ultimately someone who just wanted to live a life of his own choosing.
+
+“I will not murder for you, or for anyone, but I will fight for you. The Hadals will be there in three days when the Enorian army arrives. I will be there too. I think that we will all be there. Everything will be decided then.”
+
+“Thank you, as for me, I wanted to say that Two-Six helped save the kidnapped mountain folks before we took back Kazar. Thanks to her, everyone’s first impression of you guys was positive. She’s been a cornerstone between the Hadals and the rest of us for months and we all owe her a lot.”
+
+Irao nodded, then waited.
+
+“I think, if we’re done, we can light the pyre and say goodbye.”
+
+“Okay.”
+
+They stayed there for a while, then returned to the hidden, temporary trails made with black mana and the Yries machines. With the addition of the Hadals to her ranks, their side of the conflict was fully committed, Viv thought to herself.
+
+“We’re all in.”
+
+“Not yet but soon,” Irao corrected.
+
+“Pardon?”
+
+“Nothing.”

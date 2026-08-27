@@ -1,0 +1,375 @@
+---
+id: 9814b8de-f988-5270-a1de-e6bd1708be8a
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SIXTY-NINE: It's Definitely Thursday"
+slug: 0171-one-hundred-sixty-nine-it-s-definitely-thursday
+partOf: super-supportive
+position: 171
+ownLength: 4388
+unit: words
+publishedAt: 2024-09-19
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1809899/one-hundred-sixty-nine-its-definitely-thursday"
+royalRoadId: "1809899"
+---
+
+169
+
+******
+
+“Why did you think I was over a hundred years old?”
+
+Alden’s fingers stopped tracing the seam where the table’s crystal inset met polished wood. Darn it, Esh-erdi.
+
+“I just thought you were a little older than you are, not that old.”
+
+Zeridee was sitting across from him in the only other chair. Behind her, the wall of her hospital room had turned into a giant “window” with a view of an Artonan city. Alden didn’t know which one.
+
+“It is uncommon for someone my age to have the position that I do. However—”
+
+“We’d just been rescued from drowning,” Alden interrupted. “It was a bad time for me to be estimating ages.”
+
+The two of them had been talking for a while. At first, they’d apologized back and forth, but the trading of, “Sorry for this choice I made that might have almost killed you,” and, “I don’t think you should be sorry for that, but I’m sorry for,” had become undeniably ridiculous. So they’d just stopped.
+
+Lacking any teas, Zeridee had presented Alden with a bottle of orange juice that she’d taken from the cafeteria last night. Porti-loth had caught her with it and told her she couldn’t have the fruits of foreign worlds yet.
+
+Alden reached for the bottle now and drained the last of it.
+
+The conversation they’d had since they gave up on being sorry at each other had been informative for him. Zeridee had strong opinions, covered by a veneer of professionalism and propriety that wasn’t that hard to break through. At least not as far as the subject they’d been discussing the most was concerned.
+
+“So Ambassador Bash-nor delayed telling me about my planetary evacuation priority and all the procedures associated with it just because he’s offended that Alis-art’h gave a human Ryeh-b’t a commendation. And the idea of  having to congratulate me irritated him.” Alden huffed. “That’s crazy and petty. He definitely sounds like a piece of shit.”
+
+“He conducts the duties of his current office with more of a concern for his personal agenda than is normal,” Zeridee said primly.
+
+Whenever she reached for her ambassadorial assistant mannerisms, the effect was undermined by her healing outfit. It was hard to look serious when you had things that resembled walnuts stitched to the knitted sack you were wearing.
+
+As for Bash-nor’s personal agenda, Alden found everything he’d just learned about it uncomfortable. The current ambassador was a proponent of Avowed…
+
+I don’t even know what to call it. Defanging? Demilitarization? Cuteification?
+
+“He seriously wants Earth’s Avowed to be all Ryeh-b’ts?”
+
+Technically, she hadn’t said “all Ryeh-b’ts.” She’d said more Ryeh-b’ts, and with the other classes being modified to more closely resemble the Ryeh-b’t model. According to Zeridee, Bash-nor was against combat-focused Avowed classes and talents for many species. But his current focus was humans. Weapon Meisters, destructive Adjusters, even things like Haoyu’s Boxing Gloves—all absent from the ambassador’s ideal world.
+
+Instead of the Interdimensional Warriors Contract, he wanted the Triplanetary Government’s relationship with human Avowed to be something utterly different than Alden was familiar with.
+
+What would the farewell letter from your home country look like if there wasn’t even a possibility that you could fight chaos? Instead of that line about using our extraordinary gifts to protect and serve the known peoples of the universe, I guess we would just get one about assisting important wizards with their important work.
+
+Oh, but there probably wouldn’t be an Anesidora if everyone was more harmless. So no letter.
+
+“You’re still recovering, and this is upsetting to you,” said Zeridee. “We should talk about something else.”
+
+Alden leaned back in his chair and crossed his arms over his chest. “No, I’m not that upset. It’s not like he’s going to actually be able to do it, right?”
+
+Zeridee started to shake her head, then stopped. “Of course not. Some members of the wizard class will always push for more Avowed with the specific abilities that would be useful to them personally, as well as for more access to those Avowed. And others will always push against them in favor of what they believe to be better. Compromises will be necessary.”
+
+Rabbits, thought Alden. Nearly instant summons for non-emergencies, limited refusals, powers that are way more useful in everyday life than being a sword-wielding death machine.
+
+Powers that are way more useful to the average wizard than us being death machines, too.
+
+“Completely changing the current state of things would be unrealistic,” said Zeridee. “At the moment, the ambassador’s goal is only to increase the percentage of Ryeh-b’t class assignments for your species. The request has been presented many times over the years and held back due to…the adamance of certain others. The percentage is currently low, especially considering how popular the idea of more summonable humans is among most wizards.”
+
+“What about how humans feel about it?” Alden demanded.
+
+“…it’s moderately popular among Anesidorans, too.”
+
+Alden let his arms fall and took a breath. Right. Duh. I myself find the idea of not being summoned into combat totally desirable. I would vote for that if I had a vote.
+
+And Rabbit’s a class people struggle to get.
+
+If Bash-nor wanted to start by doubling or tripling the number of Rabbit class assignments offered on Earth, there would probably still be plenty of takers.
+
+Alden had been letting his distaste for the man’s presumed reasons affect his own reasoning.
+
+But everything I know about him looks even more unpleasant in this light.
+
+Not just the personal situation with the flyer. What about those parties Zeridee had mentioned, where he challenged Avowed to try to break his shields on the ambassadorial residence? If he was against humans with combat powers, was that just party stupidity, or was it some way of proving a point about human battle prowess?
+
+And on top of that, Bash-nor didn’t like Zeridee because of the attempted class shift. Alden hadn’t figured out how to bring that up and learn more without prying into what was possibly personal territory. He’d been hoping she’d take the conversation there herself, but she hadn’t.
+
+She did say something when we were arguing about whether or not I should leave without her. “I am sure the commendation you have earned for your actions is not a political move by the Quaternary!”
+
+He stared at the image of the city. A building shaped like a shark fin rose above treetops that occasionally peeked out of a cloud of mist. Behind it, another structure towered, with balconies and terraces so covered in plant life that it was hard to spot windows.
+
+“Zeridee,” he said, “does Alis-art’h not approve of Ryeh-b’ts? As a class?”
+
+She looked away. “I will not presume to speak for her again. It was wrong of me.”
+
+“Just because Stu told you not to use his name to force me into things!?”
+
+“I am sure Hn’tyon Alis-art’h’s opinions are considerate and nuanced,” said Zeridee.
+
+“But those opinions are definitely in opposition to the faction, or factions, that believe every Avowed should be a harmless Ryeh-b’t,” said Alden. “Is that right? Bash-nor’s not just irritated she commended me. He thinks I don’t deserve one and that she only did it to make some kind of a statement.”
+
+A statement about how humans were too brave to be relegated to Rabbithood maybe. Or even about how someone being a Rabbit wouldn’t stop knights from summoning them and using them griveck style.
+
+Alis-art’h held me together while she helped me write my will. And Bash-nor imagines that while she was doing that, she was busy thinking about how to use me to stick it to him and whoever else thinks like him? Like I’m so unimportant I couldn’t possibly be the main factor in the equation.
+
+He had never felt more like he deserved the commendation than he did right now. “I’m going to have it embroidered on a t-shirt with a ryeh-b’t on the front and then walk back and forth in front of the embassy.”
+
+“Don’t.” Zeridee’s voice had turned to steel.
+
+Alden felt his indignation fade as he took in her expression. “I wasn’t that serious.”
+
+“Take him seriously. Anesidora is now full of wizards who Bash-nor will often be busy with, and Esh-erdi has made it very clear that he’s invested in your wellbeing. It’s not worth it to the ambassador to remain offended by your commendation, so he won’t. But if you ever meet him, be what he expects a Ryeh-b’t to be.
+
+“He is intolerant of slights from those weaker than him. And he is prone to pleasurable excesses that sometimes make him lose his fear of consequences.”
+
+Alden’s seat suddenly felt a lot less comfortable. “I wish you didn’t work for someone like that.”
+
+“He’ll be gone soon enough,” said Zeridee. “And I have chosen to be here on Earth surrounded by Avowed for my own reasons.”
+
+After a minute of casting around for a more lighthearted thing to say, Alden found something he did want to ask her.
+
+It might be more creepy than lighthearted, though.
+
+“When it’s all right for your brain to get shaken a little, can I…no, never mind.”
+
+“What is it?”
+
+“I’m sure it’s not really necessary.”
+
+“Please ask,” Zeridee said, her smile returning. “I want to be of assistance if I can.”
+
+Behind her, the shark fin building was extending a large balcony from one of the upper floors.
+
+“I’m trying to learn about my skill,” Alden said hesitantly. “And it was working more thoroughly than usual when I carried you. So, can I pick you up sometime?”
+
+Zeridee looked startled. “Of…of course. If you think it would help you to train your abilities.”
+
+And maybe I could drop you over and over on a mat to see if I could make the no-hands thing happen again, Alden thought.
+
+He decided to wait to mention that part of the idea.
+
+******
+
+After leaving Zeridee’s room, Alden headed toward the cafeteria. He was hoping that the place would be mostly empty and Kabir wouldn’t mind loaning him a corner of the kitchen for his cooking endeavor.
+
+The din he heard before the doors even opened let him know it probably wouldn’t go like he’d planned. The cafeteria was wizard-packed from wall to ocean view window-wall.
+
+It’s the crack of dawn, thought Alden, nodding and smiling at anyone who looked at him while he skirted around the edge of the space to get to the kitchen. I guess they’ve all aligned themselves with an Earth-based schedule while I was away, and this is first meal before they go to work.
+
+He thought about retreating. They’d probably all disappear in an hour or two to get back to doing good deeds around Anesidora. But he at least wanted to check and make sure Kabir wasn’t alone chopping eleven thousand squash in a potion-fueled haze.
+
+He spotted a bald head, and his steps faltered briefly before he realized it wasn’t Ro-den. Just a little old wizard who looked delighted after biting into a banana. And now he’s tasting the peel. Is that even allowed?
+
+In the kitchen, he found that Kabir had lost a lot of his manic energy and gained a few helpers. Three people who were either ordinary Artonans or wizards in casual clothes were working with him. Judging by the lack of spell casting, Alden was assuming they were the former.
+
+I’ve never seen that many eggs in my life.
+
+Kabir was cracking two at a time into a huge steel bowl that was already full to the rim.
+
+“Do you need another pair of hands?” Alden asked.
+
+“No, no,” Kabir said tiredly. “We’ve got it. It will be over soon. I’ve already decided second meal when everyone comes back tonight is just sandwiches. So many sandwiches.”
+
+They’ve taken away his energy potions. Good. Poor guy.
+
+Not wanting to be in the way, Alden left them all to it. He’d come back when the rush was over.
+
+When he was back in his room, he called Lute. The System notified him that there would be a fee.
+
+He’s still at the Palace of Unbreaking, then.
+
+Lute answered. Voice only.
+
+“Hi!” he said. “I never get interplanetary calls from people who aren’t related to me.”
+
+“I’m not interrupting you, am I? I didn’t have anything that important to say.”
+
+“No,” said Lute. “This is a fine time. I just finished the work that was on my schedule. My boss is ecstatic that I want to stick around for more.”
+
+“So you’re staying longer? I was going to ask if you were going over to Thanksgiving dinner tonight at the girls’ apartment.”
+
+“It wouldn’t be the best idea even if I was there. They’re having a pretty big group, aren’t they? I don’t want to end up meeting someone who almost died or lost their house thanks to my family. It would just add bad drama to the holiday, and I only like good drama.”
+
+I almost died, and Lexi did lose his house and we’re still willing to hang out with you, man. Alden was glad he ran those words through his mind once before he actually said them aloud.
+
+“You know, there’s so much crazy going on right now,” he said instead. “Lexi pointed it out to me. There are a lot of fingers pointing in every direction, and people are busy. It might not be as bad as you think. Haoyu’s already decided to be your part-time body guard and PR person. He’s thinking of telling everyone you’re looking into a surname change. Just say the word, and we’ll spread whatever story you like.”
+
+Lute didn’t answer right away. “You guys are great,” he said at last. “But I think I’m going to wait and see for a couple more days. At this point, I expect Jessica to announce on live television that she’s the head of SAL while Corin waltzes with Hushmaker in the background.”
+
+“I don’t think SAL has just one head,” Alden replied. “And if Corin did that, everyone would be really impressed with him for finally getting an infamous supervillain to reveal themselves.”
+
+He ended their call shortly after that, and looked over at his learning cushion. It was in the corner, on top of his patched and repaired suitcase.
+
+He had a science lecture he should watch. But it had been so long since he’d gotten to study his spell book. And if he was going to try his new piece of jewelry for the first time…
+
+He carried the learning cushion into the bathroom, then spent too long debating whether it was all right to put it on the floor or not.
+
+Is a bathroom disrespectful to the cushion? It’s a pristine bathroom. I don’t think anyone but me has used it in the past several decades.
+
+He ended up leaving the cushion on his bed, but he did take the earring Olorn-art’h had given him out of the hidden pocket. Then he went into the bathroom again and shut the door behind him.
+
+One extra layer of privacy. If someone opened the main door without knocking, he would hear them from in here and have time to hide the evidence.
+
+He sat down on the cool tile below the towel rack and requested his books from storage.
+
+Whan-tel’s Art: Conducting Power Through the Hands
+
+He turned the pages, reading it a little differently than he had the last time he’d opened it. When his eyes paused on the crushing spell, he thought about how good it was for destroying a door knob. And if he’d chosen to use the flying triangle dagger, what might have happened in the greenhouse?
+
+Something better? Something worse?
+
+Was there a spell in here that would have saved me if the bridge fell? Or that would have helped me get away with Zeridee faster?
+
+The book wasn’t full of extremely powerful stuff, but having options was a kind of power, too. When Lute came back, he’d ask if they could have another wordchain lesson. He wanted to learn something to enhance his strength and his speed.
+
+As for auriad spells, I’ve got the square punch and the flying triangle. Crushing. The popsicle maker.
+
+Still to be learned, among others, there was a close-range cutting spell. A voice throwing spell. One for levitating small things. A spell that drew heat toward a targeted area. One that was basically an adjustable flashlight. And the summoning spell Alden had been looking forward to at the end of the book.
+
+Flashlight, he decided after a while. That one’s next.
+
+Sure, he had a tiny fire starter. But setting fires wasn’t always safe or feasible, and seeing was nearly always something you wanted to do. Plus there were strength requirements to consider.
+
+The book didn’t specify how much most of its spells would strain the caster’s authority. Alden thought it was probably supposed to be obvious from context and experience that he didn’t have. But he was hazarding a guess that this one might not be that draining. It didn’t seem like making light should be hard in the same way the crusher was.
+
+The description mentioned that he should keep in mind the fact that this spell relied on “the memory of light in the place where you cast it.”
+
+I assume it’s going to be easier to cast outdoors and in rooms that are usually brightly lit. So it would have worked well on Friday night or on Thegund during the dark days.
+
+He’d learn this one and never have to worry about fumbling around in the dark again, unless he ended up in some underground chamber light had never touched.
+
+One day I’ll learn those giant light spells Esh-erdi and Lind-otta used to make everything bright when they were rescuing me. This one will be my starting spot.
+
+It was still early. He would spend an hour practicing the auriad shapes and then he’d head back to the cafeteria.
+
+He stood up, earring in hand. Watching himself in the mirror over the sink, he touched the thin tip of the pale clay spiral to his earlobe.
+
+“That’s strange enough for sure.”
+
+As soon as the tip touched flesh, before he’d applied any pressure, his ear pierced itself in what he assumed was the exact spot Olorn-art’h had chosen. A single drop of blood beaded there, and the earring absorbed it.
+
+Blood sacrifice to the knowledge spiral. Wonder if Gorgon would approve.
+
+He pressed it through, then examined himself. “I don’t think I’m an earring person.”
+
+He sat back down and opened the book to the spell he’d chosen. His auriad slipped down his arm and into his hand.
+
+******
+
+The first drawing of a pair of hands wrapped in string caught Alden’s eyes in a way it never had before. He leaned closer.
+
+Whoever drew this did such an amazing job. The way the auriad is twisted there…and that little loop around the tips of the pinkie fingers! I can tell just from the image that I’m going to need to control the way the auriad sticks right there if I want to be perfect.
+
+And he did want to be perfect. He’d been hungry to learn a new spell anyway, and now that he’d picked one, he could just sit here and enjoy himself and learn.
+
+Alden was slightly obsessed with his auriad and the way casting made him feel. The coolness of being able to make magic happen all by himself, no System-given talents involved, was unfading. So he’d never had to force himself to study this material. It was already a treat.
+
+But with the earring, he was suddenly getting a best-scene-of-your-new-favorite-movie dopamine high just from reading the first lines.
+
+The logograms—the freaking logograms—were so interesting. The way the author had spaced them indicated where the mind should pause and digest concepts, of course. But although Alden had been aware that spacing could be used artfully, he’d never had the inclination to appreciate it before.
+
+Now he did, and he found himself studying harder, desperate to memorize the logograms and grasp their meanings as fully as possible so that he could appreciate the beauty of this instructor’s teaching style.
+
+When he finally turned the page, he felt an actual rush of excitement.
+
+And then on the next page.
+
+And the next.
+
+It felt like he hadn’t been at it for long at all when Boe texted him. He’d sent a picture of a roll loaded with turkey and stuffing.
+
+[Happy Thanksgiving,] said the message. [This is dessert. It should finalize my food coma.]
+
+He went to Jeremy’s, Alden thought, emerging from his study haze. They’re having a pretty early lunch, aren’t they?
+
+[Good job,] he replied.
+
+He smiled and started to go back to his book, before suddenly realizing that it was less likely Jeremy’s family was having a Thanksgiving brunch and more likely…
+
+He checked the time
+
+“Shit! Really?!”
+
+It was after noon. He’d been studying for more than five hours. Alden scrambled to his feet, almost stumbling because he’d been sitting still for so long that his butt had gone numb.
+
+Stuart’s mom doesn’t play around when she makes a study aide.
+
+Maybe you weren’t supposed to use them for things you didn’t have trouble focusing on to begin with? If Boe hadn’t interrupted, Alden would have happily sat on the bathroom floor until midnight.
+
+He pulled out the earring and took a look at it. “You’re amazing. I will keep feeding you my blood. But maybe not without setting an alarm first.”
+
+Olorn-art’h probably deserves a thank you note, he decided a few minutes later. That’s what you do after you use a gift someone gave you for the first time and find out that it’s even better that you realized.
+
+He had left his room, and now he was walking through the empty hallways of an empty hospital, in a giant cube that had been built for some dark day that hadn’t yet come. But he couldn’t focus on the uncanniness of Matadero when he felt like he’d been enlightened.
+
+He remembered everything he’d read, every finger position he’d eagerly tweaked to match the drawings, every logogram and its definition.
+
+It wasn’t like he suddenly had photographic recall. Instead, it was the kind of remembering that came because you found the subject inescapably interesting and you couldn’t not remember.
+
+Forget Thanksgiving. Forget school. I want to go lie in front of the toilet and absorb knowledge.
+
+And he actually had forgotten school. He’d had tentative plans to make his succotash early so that he could attend Artonan Conversation class, even though he didn’t have to anymore. Kelly the grad student seemed like she’d be fun, and he wanted to see how she taught the class.
+
+So much for that.
+
+When he made it to the cafeteria, he found it empty except for Kabir, who was sitting at a table mounded with dishes and trays. The chef was just drinking a cup of coffee and staring blankly at the mess.
+
+Alden wondered where his helpers had gone.
+
+“Couldn’t bring yourself to serve wizards on paper plates?” he asked as he approached.
+
+“I’m having some regrets,” Kabir said woodenly.
+
+“Want me to do the dishes?”
+
+“I’m seriously thinking of throwing them into the sea and then buying all new ones for second meal tonight.”
+
+He’s burned out.
+
+Alden stood by a stack of plates. The one on top was covered in what looked like honey. Actually…
+
+He targeted the chef. “Do you mind if I take this plate?”
+
+Kabir gave him an agreeable-looking wave.
+
+Just the plate, thought Alden, focusing on the white ceramic. Only the plate.
+
+He picked it up, preserved it, and flipped it over. The honey and crumbs dropped off and hit the plate that was next on the stack.
+
+Alden unpreserved, sniffed the plate, then ran a finger over it.
+
+“Yep,” he said. “Clean and dry. Not sanitized probably, but I don’t think that’s a problem for the wizards.”
+
+Kabir was staring at the plate.
+
+“I can’t promise my skill will hold out for all of this,” said Alden. It wasn’t like preserving a dish was difficult, but this was going to be a lot more on-off-on than normal. And he was assuming the kitchen was full as well. “But I’m almost positive it will.”
+
+Kabir took the plate from him, looking touched. “You’re a good person.”
+
+“Not really,” said Alden. “I’m greedy and want you to let me have a burner on the stove and some ingredients. I’m going to make succotash for a Thanksgiving supper I’m going to in a few hours.”
+
+“Of course,” said Kabir. “You can…Thanksgiving?”
+
+“Yes.”
+
+Kabir shook his head. “No. Thanksgiving is on Thursday. Today is Wednesday.”
+
+“It’s definitely Thursday.”
+
+Kabir shook his head again. “It can’t be.”
+
+Alden grinned at him. “You were enjoying a lot of…magical assistance… earlier this week. So it’s fine if you lost track of time.”
+
+“It can’t be Thanksgiving, though,” said Kabir stubbornly. “Because Thanksgiving is basically a harvest festival. And Artonans love harvest festivals. And when they find out one is going on, they will research it and tell each other about it and get excited. And when I serve them pre-made sandwiches—”
+
+“Nothing wrong with a good sandwich.”
+
+“They’ll say ‘Is this the appetizer? Where is the traditional dead bird, Kabir? Where is the pig with the apple in its mouth—”
+
+“That’s not even a Thanksgiving thing, is it? And I really don’t think they’ll be that unreasonable. Most of them seem excited just to be on Earth, and they’ve been eager to eat anything you put in front of them so far.”
+
+“Kabir, where are the bowls of your croutons?” the chef continued. “When is the cranberry sauce with orange zest coming!?”
+
+He was rising from the table, his eyes gaining a wildness Alden had last seen on that first meeting, when he’d had a spell set up to watch the elevator for demons.
+
+“You’re right!” Alden said quickly. “It’s not Thanksgiving. My bad. I was confused.”
+
+“System, what day of the week is it?” called Kabir.
+
+Oh well.
+
+“No worries,” said Alden, as he watched a man’s spirit crumble. “I can help with the dishes.”
+
+******

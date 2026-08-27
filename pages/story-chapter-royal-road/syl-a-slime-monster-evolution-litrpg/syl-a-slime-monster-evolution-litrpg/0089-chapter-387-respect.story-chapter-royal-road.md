@@ -1,0 +1,155 @@
+---
+id: faba9fcd-a76a-56e8-9301-fa2698b9ab85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 387 : Respect"
+slug: 0089-chapter-387-respect
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 89
+ownLength: 2095
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3495117/chapter-387-respect"
+royalRoadId: "3495117"
+---
+
+I continued exploring the tunnels, which, if not for [Tremor Sense], might have been an issue. Many false paths were dug that led only to dead ends, which might have confused the casual explorer.
+
+I wasn't sure whether the goblins had dug these out, but it was likely, which gave me some confidence that they had survived. Of course, it could have been the badgers, perhaps exploring for food until deciding to turn around, but from my perspective, that seemed unlikely.
+
+It continued being eerily quiet right up until I sensed something up ahead. Either it was a creature with many legs hitting the ground, or a large squadron of creatures. Considering the location, I took my chances, and I shapeshifted into a goblin form of my own creation. With [Chimeric Mimicry], I no longer had to copy Tarz; instead, I just modified my blueblin form to be goblin green while ditching the wings.
+
+Should I have a goblin name? Sylz? Or is that too obvious… Slyz?
+
+I didn't think it would matter, since only the chief had [Identify] previously, but I changed my profile anyway. I changed my class name to "Spatial Shaman," thinking it was more goblin-coded, even though the system frowned at the fake name by marking it in red.
+
+I wanted to test the waters and see what was happening here, rather than just announcing my slimy self. If Garz was still in charge, we hadn't exactly left amicably, as he had sort of blamed me for everything that happened.
+
+I guess he wouldn't be wrong, although with Krutz's ambition, he would have caused the adventurers to attack sooner or later. Not to mention, he would have sacrificed the entire tribe to do so. You can never trust a filthy warlock.
+
+To add to my guise, I made fake fur-and-leather robes, and the hat matched them, with patches, holes, and stitches. While I appreciated the effort, I also knew it could have been a golden crown with rainbow-encrusted jewels, and everyone would've thought it perfectly suited me. I also made a bone staff and used it as a walking stick, adding to the illusion.
+
+It seemed my efforts were rewarded as I quickly discovered they were goblins, and they had somehow noticed my approach. Armed with spears and bows, they aimed them at me and ordered me to halt.
+
+"Who you!?" one goblin demanded
+
+"I'm a shaman! I come seeking a new home," I responded, attempting my best goblin impression without resorting to using [Split Personality].
+
+The goblins began to discuss amongst themselves, not exactly knowing how to treat a self-proclaimed shaman, from what I was overhearing. Roughly a quarter of them wanted to kill me and steal my fancy hat, while the others were squabbling between respecting me or asking someone in charge what to do.
+
+"Prove it!" another goblin shouted, which caused a chorus of agreement from the others.
+
+I rolled my eyes and accessed [Personal Rift] and clawed at the air with my hands. The goblins didn't know what I was doing, but when they saw my gnarled nails tear through the air, they collectively gasped. For low-level creatures like this, seeing a rip in the fabric of reality was a mind-blowing experience.
+
+"Gods help us!"
+
+"Have mercy!"
+
+"Grand Shaman!"
+
+Their attitude had done a complete flip, and I chuckled as I sealed the rip with a casual wave. The goblins were still tense, but they relaxed and had a newfound level of respect for me.
+
+"Come. We take you to tribe!" the leader of the group finally said.
+
+I nodded and walked forward, causing the crowd to rapidly part and make way for me. Perhaps I had gone overboard with my display, but at least it quickly resolved any issues without me resorting to violence.
+
+As we walked, I took note of the goblin guards and noticed that some of them were actually hobgoblins. Krutz had denied the goblins evolving, likely to keep his power in check while also preventing the evolution madness, assuming he even knew about it. Still, from the looks of things, they didn't seem too bad.
+
+Or their [Chieftain] is keeping them in line. If they evolved again, though, then things could get hairy.
+
+They led me to another secret tunnel, although I had detected it ahead of time, which sort of ruined the surprise. After crawling through a somewhat tight space, it opened into a large cavern, where crude, makeshift structures stood.
+
+They're really doing well for themselves. This is at least as good as their old village.
+
+"Make way for Grand Shaman!"
+
+"Make way!"
+
+"Respect!"
+
+I had my own little escort parade as we headed into the village. The other goblins seemed confused at first, but upon seeing the reverence from their guards, they quickly adopted the same attitude.
+
+I let my senses spread out and got the gist of their entire setup. The entrance we used was the only one, and they had others that looked like they led to other parts of the mountain or to deeper areas. One of them even went to the surface, if I guessed right, judging by its gradual incline. However, it would exit to the opposite side of the mountain, no doubt to avoid the notice of Southbrook.
+
+Looking at the goblins themselves, their average levels were much higher than previously, and several hobgoblins were in the population. However, that wasn't the only change, and a few of the goblins had a kind of subterranean mutation. Their iconic green skin had been replaced with an ashen gray, likely to better blend in with the rocky terrain.
+
+Class-wise, it was a mixed bag; I didn't see anyone above an intermediate class at best, which meant that if the adventurers discovered this place, they would probably suffer a similar defeat. As I was observing, I was brought to a large, sturdy structure, and judging by its decorations, this was where their leader lived.
+
+"Chief!" a goblin shouted. "We have guest!"
+
+"Grand Shaman!" another added.
+
+"Our tribe is blessed!"
+
+It was amusing how their tune had changed after a simple gesture, but I didn't burst their bubble. I waited to see how their [Chieftain] would react.
+
+The cloth door was brushed aside, and out walked two large hobgoblin guards. Unlike the rest, they had what looked like real armor, possibly stolen from adventurers they'd managed to kill. They had more than one weapon on them, and their swords also looked to have been looted.
+
+The two guards gave me the stink eye, and as they parted, they revealed the sturdy figure behind them.
+
+<Garz [Chieftain]; Greater Hobgoblin [III] LV 6; Warlord LV 33.>
+
+Wow, he's become rather rotund.
+
+I hardly recognized the goblin, but he had evolved twice since I last saw him. No longer the archer, his girthy frame was now wrapped in multiple hides with fragments of metal patched on. On his waist was a spiked mace, while on his back was a large club fashioned from the bone of some kind of monster.
+
+Not only that, but he was heavily scarred with one of his ears missing entirely. Combined with the foul look he had on his face, it looked like he wasn't the friendly type.
+
+"Grand Shaman?" Garz repeated, scoffing. "You're a Spatial Shaman. There's nothing grand about you."
+
+I gave a mischievous smile. "I only said I was a shaman. Your people called me Grand Shaman."
+
+"Don't play word games!" Garz ordered.
+
+His guards were even reaching for his weapons; evidently, he was used to getting his way no matter what. It seemed that times had changed the goblin from his previously friendly demeanor.
+
+"Games? Do you not understand that space is the grandest form of magic there is!" I replied, already reaching for my [Personal Rift].
+
+My words went entirely over their heads. I probably should have called myself a flame shaman, or something simpler for them, but I had wanted to stick to [Dimension Magic] whenever possible. I caught Garz making a hidden gesture, and one of his guards rushed to apprehend me.
+
+I snickered in response. I was already surging with dimensional Mana unbeknownst to the magically inept goblins. As soon as the hobgoblin guard touched me, he vanished from the spot.
+
+"Torkz!?" his companion blurted out, shock and horror in his voice.
+
+Even Garz's arrogant face had turned grim. "What have you done to my man?"
+
+I grinned and pointed upward; their gazes followed my finger, and that was when they heard the screaming. Torkz was falling from the sky, as I had teleported him directly upwards, and to prevent him from arriving too early, I had allowed him to fall through two apertures repeatedly looping him on the spot and causing his speed to accelerate.
+
+I'll have to thank Vee for this suggestion. I didn't expect it to be so effective.
+
+The goblins were now in a bit of a panic, as one of their elites was helplessly falling at a tremendous speed towards the ground. They were already crying out in horror, but right as he was about to splatter across the ground, I let go of my prepared [Lock] spell. The timing was perfect; he was only an inch away from becoming another victim of gravity, and now he was safely held in place.
+
+"Satisfied?" I asked Garz.
+
+Sweat was dripping down his chubby face as he swallowed. "What do you want?"
+
+"Want?" I asked.
+
+There was a spark in Garz's eye, as if he was fearing I'd ask to be the [Chieftain]. But that same spark also contained a barely controlled rage, as if he were ready to attack and fight me for it. Luckily, I couldn't take the position even if I wanted it, so he could keep his throne.
+
+"I don't want anything. I just came to visit and see my fellow goblins," I replied.
+
+Doubt was all over Garz's face, but he didn't say anything. His loyal bodyguard was still babbling like a baby after his dreadful experience. I snapped my fingers and released the [Lock], causing him to collapse on the ground. He scrambled away from me, abandoning all sense of reason, no matter who saw it.
+
+Garz ignored him, still staring at me as if trying to discover what I was plotting. "Prepare a home for Grand Shaman Slyz," he finally said and returned to his home.
+
+His remaining bodyguard scrambled after him, evidently not wanting to be left near me in case he also got to experience what it was like to fall endlessly. I chuckled to myself, shaking my head, and turned to the other goblins. Again, while they had fear in their eyes, there was also an undeniable reverence. I would even hazard a guess that they were upset I didn't want to take the role of [Chieftain].
+
+Well, let's see if I can find Yuzz…
+
+Part of me had hoped I could have reconciled with Garz, but judging by his appearance, he had eventually succumbed to similar seductions like the former [Chieftain], Krutz. The power was undoubtedly intoxicating, and combined with the evolution madness, it was probably inevitable.
+
+Yet despite that, he still has enough self-awareness to avoid a confrontation with the humans. Why else collapse so many tunnels between here and their original home?
+
+As we were walking, my goblin escorts were offering me a variety of homes to pick from. They claimed I could pick any I wanted and that they would evict the current residents; some even offered me their own homes. I turned them all down, asking for whatever is unoccupied.
+
+The goblins seemed reluctant, but when I insisted, they succumbed. Whether they were trying to butter me up with generosity or not, I wasn't sure, but my ascetic request had left them baffled. I genuinely asked for any small shack and forced it until I got my way.
+
+"Is there nothing we can get for you, Grand Shaman?" a goblin asked, evidently uncomfortable that I'd resisted all their attempts at brown-nosing.
+
+I put on an act of pondering for a moment and then smiled. "I've been looking for a crafter. Does your tribe have any?"
+
+"Yes! Many!" one of the goblins quickly answered before his companions.
+
+"I'm not looking for just any crafter, I want the very best," I replied.
+
+The goblins' eyes glinted with understanding, and before I could say anything more, they had scurried off to meet my demand. If Yuzz were still around, I had full confidence that she would be the best in the tribe.

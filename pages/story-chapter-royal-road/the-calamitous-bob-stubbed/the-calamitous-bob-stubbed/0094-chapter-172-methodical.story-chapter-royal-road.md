@@ -1,0 +1,313 @@
+---
+id: 89711b43-e7f4-5c65-bcb2-77d9c2ad02ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 172: Methodical"
+slug: 0094-chapter-172-methodical
+partOf: the-calamitous-bob-stubbed
+position: 94
+ownLength: 5765
+unit: words
+ownProgress: 5765
+publishedAt: 2024-08-16
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1761321/chapter-172-methodical"
+royalRoadId: "1761321"
+markedReadAt: "2026-06-29T21:18:01.095Z"
+---
+
+The light of dawn rose over Sardanal’s last refuge and Thunder Lord Sai was furious. The curs had food now, food and weapons. And some reinforcements, if the incoherent screeching from the spider fuckers was any indication. The only thing he could agree on with his ‘peers’ was that they had to strike now before the templars put some meat back on their bones. The assembled forces of the Dark Gods made their way up the cliff, whatever troops had answered the call anyway. Some days it was like herding beastlings.
+
+Gomogog’s flesh abominations led the way, lumbering titans of writhing meat with pits where their mouths ought to be. Scabs and scars marked where fire and arrows had gnawed at their monstrous forms to little effect. So close to him, they stank horribly. Theirs was a rotten smell mixed with delicate flowers that made the mix deeply revolting. Then spiders and hybrids under Octas followed with those nasty little assassins she had tossing spindles at mages. He shivered. They were allied in the cause of showing the deeply flawed nature of society, the hypocrisy and lies it relied on to maintain some people at the top but beyond that… uneasy was their alliance indeed.
+
+Efestar’s troops were by far the least numerous, mostly because the God of Scorn preferred to act from the shadows. Veiled archers, quiet assassins, they snuck in the wake of larger threats with poison-tipped arrows.
+
+Sai frowned. There was something weird going on with the dark god. His magic was acting… erratic, but it was not for man to question the divine. Instead, he focused his attention on the mess of a column climbing up the desolate slope towards the hated walls where so many of his minions had perished.
+
+This place used to be lush and green. It was said that Sardanal’s Cradle never truly knew winter, that there were always flowers blooming but looking at it now, it was hard to believe. When Sai had landed, the cultists occupied only the forest. They had later breached the defenses of the servants of the light near the central valley, then devoured their way up the island from there. Many of Octas’ hybrids were corpses of villagers and soldiers, attached to the bodies of her infamous spiders through dark sorcery. They moved over the cracked earth, the fallen houses and the burnt orchards like locusts. Not a pleasant sight but war never was. Those scorched fields were all that remained when fat lords rested on their laurels and Sardanal was no different.
+
+A skittering announced the coming of Many-Legs, Octas’ champion. Whatever he had started as was long gone. Now all that remained was a patchwork of shells covered in appendages: claws, arms, paws, legs, tendrils, tentacles, stingers, anything and everything that struck its fancy. A mental image formed in Sai’s head. Few of Octas’ fiercest champions kept the ability to speak.
+
+Moving up.
+
+Now.
+
+Sai shivered again when the message clawed at his mind in all its alien horror. The house-sized abomination scurried forward with deceptive speed. From his position at the back, Sai could see the verdant mana of Sardanal covering the ramparts and the defenders behind, filling them with vitality. It was the only thing that kept them standing and it wouldn’t last. The light gods always failed their followers at the most critical moment.
+
+Sai the Thunder Lord was standing there with the fetid wind at his back amid the chittering of advancing hybrids when something strange moved in his mana sight. Threads expanded and contracted to the side. He heard a meaty sound. Something sprayed his war mask. He touched the liquid with a gloved finger. Red. Thick. Familiar. Blood, not his.
+
+To his side, the mass of flesh walkers stumbled. Long gashes dripping putrid ichor and atrophied organs covered their unholy forms. The ones that held the center collapsed and didn’t rise again. Space seemed to shiver where they once stood.
+
+“What?”
+
+What just happened? His dark gray robes were soaked, though their enchantments remained intact. The sneak attack surprised him so much he checked himself for wounds but found none. The Cowl of Efestar should still be hiding his presence. Was this the reinforcement he should be concerned with? He turned to Many Legs by force of habit but of course, the brainless abomination was already rushing towards the fortifications with a low hiss of rage tinted with glee. What kind of spell could do this? There had been no warnings, no colors marring the canvas of the world. Colorless mana? Unlikely. Sai watched the assault progress with trepidation. He had to learn, then he could strike.
+
+At first, everything proceeded as planned. The dark mass of the spiders and surviving flesh walkers surged through a cloud of ash. The rare surviving templar archers and his own assassins exchanged the few remaining arrows on the island, then a group of shelled spiders disappeared. This time, Sai saw it happen. The packed formation was racing up, ignoring the few pitiful fire spells cast at them by the rare surviving enemy mages and then they were just… gone? Cut to ribbons by… something. A colorless construct that turned flesh to slender streamers. It reminded him of a report he’d read a long time ago. His eidetic memory searched for the exact recollection.
+
+A prince tortured for his crime against a city that had turned its back on him and his friends. A recruit ripe for collection, but he had not been bitter enough, apparently? His name was Prince Sidjin. Could it be the same man? What was he doing here anyway? This was a Viziman battlefield. Even he, as a champion of the Shadow Islands, was but a guest on this ancient battleground.
+
+Sidjin was a… siege defense specialist.
+
+Not. Good.
+
+“Spread out,” he ordered, his pitch lowered by the war mask. “Do not stand next to groups of warriors.”
+
+A few assassins stopped hiding behind packs of spiders. Sai cursed. Many-Legs would not listen to him. He had to take off despite the risk. His shoulder still lanced from a lucky arrow. With a breath, he cleared his thoughts. Gray mana spooled from his core to extend all around him. His superior mind handled two spells at once, one that would cover his body in a thick layer of gray mana infused with the meaning of avoidance, the other in a powerful construct that would carry him up. He soared into the air in a burst of mana.
+
+The sky was his.
+
+It never got old, feeling all that gray mana around him, even in the bleakest of moments. A grin curved his lips as he watched the town become smaller under him. As before, verdant mana blocked his sight and muddied the mana signatures. He would have to make do with what he had.
+
+The chittering carpet of creatures kept advancing. Strange, transparent constructs of immense complexity bloomed among their most dangerous hybrids to tear them limb from limb. After the fourth such slaughter, even Many-Legs perceived the danger. The insane champion screeched and the assault scattered, but it was already far too late. What had started as a relatively organized assault had devolved into a mad dash for the walls, the relatively tight pockets of the dark gods’ forces dispersing into a chaotic mess. It was not the end of the magical assaults. Invisible javelins tore through flesh walkers one by one, saturating their large forms until even their regeneration couldn’t keep up. They fell.
+
+A part of Sai felt relief at the death of those abominations. The rest of him knew this was a problem, one he had to solve personally.
+
+Suddenly, a figure in a heavy cloak appeared on the battlements, hands clutching a large staff. His head was covered by a cowl. He waved his hands around until a large fireball formed, then he tossed it at the approaching spiders.
+
+It was rather obviously bait, one his assassins did not take. Unfortunately, the stinger-spitting spiders did. A thick spike clanged on the form’s body, revealing the extremely thick armor underneath. Sai recognized Kal the Mountain, a champion of Neriad. It was so obvious! And there was a diagnostic spell and… there was a short-range blast taking out one, then two of the rare and valuable spiders from their hiding place. Sai cursed under his breath. The diagnostic spell came from… there, inside a squad of heavily armored guards. He had to time his assault well. The Cowl of Efestar would only hide him until he attacked. then he would be a very valuable flying gray mage in bow range.
+
+He merely needed some patience.
+
+The assault began. Spiders crawled up the wall. Animalistic ones jumped the defenders while others spat poisonous gobs and nets, but where the servants of the dark gods had been on the cusp of victory before, now they were struggling. The defenders were haler, their weapons repaired, their arms strong and kept energetic through the green mana constantly renewing them. Colorless mana had dispersed the deadlier groups so that the attackers reached the crenelations piecemeal rather than as a united force and it made a world of difference. The hybrids swung in vain at shield walls before being pierced by spears. It was obvious the assault would fail but perhaps Many-Legs could still salvage some sort of gain. The abomination scaled the wall with ponderous grace, as unstoppable as fate itself. He attacked the troops on the tower with rabid frenzy. His appendages wailed on the defenders with rage. Sai saw a body tossed over the battlements. The shield wall crumbled, then corpses crashed to the courtyard beyond. It stopped as soon as Denerim arrived, that naive fool.
+
+The bearded warrior fought Many Legs conservatively. He cut the legs as they attacked, taking few risks. It was like watching a gardener prune a tenacious plant while his apprentice, the Hallurian defector, hovered at the edge, ready to move in and attack Many-Legs’ true body. Another stalemate. Idiots.
+
+The Fallen Prince ought to act soon. Sai knew it. Many-Legs was too tempting a target, and as expected, another transparent spell emerged from the hazy mist of Sardanal’s protection. A thread-thin construct. It whistled through the air before embedding itself deeply into Many-Legs’ flank.
+
+The damn creature screeched. The Prince must have hit something important.
+
+That also meant he was focused on offense.
+
+Carefully, Sai wove his personal hex. The sky rumbled above when he infused the air around him with the meaning of potential. Pride filled his chest. He was one of the few casters in history capable of using it.
+
+Potential crystallized in front of him, then he guided the deficit down towards the prince. He would not feel it. How could he? Potential was not mana. It couldn’t be felt through normal means, only through the tingle on one’s skin and the coppery taste on one’s tongue. Sai relished that special moment when he was alone, hidden from view, away from the vicissitudes of the fight against oppression. There was only him, the gray mana flowing from his core, and the complex array hanging in the air before him. He was the storm and he could not be touched. Power coursed through him. The power to liberate. The power to be free and to scorn the world itself.
+
+“Storm.”
+
+A massive bolt crossed the sky, landing among the soldiers in a cataclysmic first strike. The blinding flash faded to reveal white lines coursing through the cracked pavement over bubbling stone and the shaking form of a couple of guards. Shaking, but not dying. Sai reacted immediately by moving aside but Sidjin did not counter immediately. Sai’s opponent stood next to an enchanted metal rod he’d raised from below at the last moment. Even the excess energy had dissipated on a transparent shield with a few templars catching stray energy. As Sai dodged, Sidjin had been repairing his defense rather than countering. A patient opponent.
+
+For a second, the two took the measure of each other. Sidjin, a tan Glastian with a scar on his cheek and deep brown eyes looking mournfully upwards, curly hair hidden under his cloak. Sai, the Thunder Lord, face hidden behind a mask, body covered in a protective gray robe. A fallen prince and the apostle of a dark god. Two experienced combatants. Two archmages.
+
+Then the spells flew.
+
+Sidjin opened with a salvo of skewering transparent spears Sai had to dodge without seeing. Only his trained perception and the almost imperceptible trail of the spells gave him any sort of warning, and he used his speed and flexibility to great effect in dodging them. Meanwhile, gray mana spells and a smaller thunderbolt fell upon impenetrable defenses, the prince’s fortress an array of complex hexes designed to counter Sai specifically. Efestar’s champion tried fire and his own colorless attacks to destabilize Sidjin but it was clear the archmage was a master of defense at the top of his art. Sai needed options. He needed the unpredictable.
+
+“Efestar, bless my aim.”
+
+The dark green energy of scorn fused in his fist like acid. Scorn clouded Sai’s mind. Had to crush. Had to take revenge, but Sai prevailed over the dark god’s domain. It was not his first divine spell.
+
+Once again, the energies stuttered, threatening to waste Sai’s efforts. He regained control at the last moment then dodged a gray spell cleverly hidden behind a transparent barrier. Sidjin was canny.
+
+A baleful spear surged towards Sidjin. This one wasn’t gray mana but hatred made manifest. Sai followed the spell’s trajectory with anticipation, but Sardanal’s light surged forth and for an instant, it was as if a bejeweled hand swatted the spell aside.
+
+“Dammit.”
+
+An arrow flew by. His shield pushed it away but below, the situation was getting worse. The walls held strong despite the forces thrown at them. Spider corpses formed a small embankment in front of the walls. Many-Legs was reeling from several wounds. Sai’s time was running out.
+
+And then something attracted his attention. It didn’t come from within the walls but from the harbor, the natural one at the western tip of the city. The one where his ship was waiting for him.
+
+“No. No!”
+
+Sai flew as fast as he could.
+
+***
+
+The prisoner gave himself two more days of life, maybe less. He licked his parched lips and thanked Emeric for having him be captured during winter, at least. Sometimes, he could suck on snow when the others were not looking. The other prisoners didn’t trust him. Wretched things, all of them. Some were surviving villagers from the fallen villages, thin and dying but still occasionally fed. Fodder for some ritual, no doubt. Others had been carried over the sea from the Shadow Lands by slavers eager to sell to those who didn't value gold. The slavers had learned that Octas hated every form of civilization, even the most cruel ones. They were also ritual fodder. Maybe a gaze, maybe something the savage bitch would cook up. The prisoner didn’t care. His only hope was to be executed as an example because he was too much of a coward to kill himself by other means.
+
+A woman stared at him from the other cage. She was a lower caste thing from the mainland, also a coward, but one made meek from birth. She was hopeless. When their eyes met, she turned away.
+
+The prisoner was bored. Why was dying so very tedious? He almost wanted the cultists to get to it. Instead, the cowled idiots were lowering crates from one of the many small ships who’d made the trip from the homeland or Vizim to carry men and supplies for the great work. Turned out that it took a lot of flesh to keep their ravenous allies going. In the bay, a makeshift port had assembled itself to welcome those blasphemous shipments. The prisoner watched a man roll a barrel up the rickety pier towards one of the warehouses. Actually, they were improved fishing shacks but that still made them one of the few remaining intact structures outside of the walls. The spider bitch was thorough.
+
+As for the flesh father…
+
+The prisoner turned to the nearest flesh tree, one of the most active on the island. It was an unholy meat construct capable of producing cursed fruits that sustained the flesh walkers. Towering over the burnt husks of real vegetation, they only took the vague shape of a real trunk, a grotesque parody of life. They smelled weird as well, a strange mix of sourness and floral notes. Eminently disturbing. The prisoner averted his gaze. He didn’t want to find another eye looking at him. Again.
+
+“Careful with those, they contain iron bars, you dimwit,” the quartermaster screamed at a fumbling cultist.
+
+“Boss, do you hear that?”
+
+“Hear what?”
+
+But the prisoner heard, and soon, so did the quartermaster, and then so did everyone. The cultist looked up at the ubiquitous gray sky with incomprehension. It was… a screech?
+
+Light.
+
+Heat.
+
+Sound.
+
+The prisoner jerked back against the cage, feeling it bite against his thin chest. He took a deep breath. His ears popped. Where there was once a small ship before him, now there was only an expanding ball of fire sending scorched debris falling like rain. The man pushing a barrel had died. The pier was a flaming wreck. On the other ships, men and women panicked. Some jumped into the water while others pulled on rope. Others still looked up to the sky to find what was attacking them. The prisoner did it as well. He had nothing better to do. There was a sort of liberating feeling to being helpless in the face of death. No need to struggle.
+
+A flash of white scales. A serpentine shape. Gray mana blurring with speed as the creature attacking them made a second pass and another ship was annihilated. Corpses were tossed  by the explosion, cloaks burning. They were dead before they hit the water.
+
+“Neriad protect us,” someone whispered in the next cage. “It’s a dragon.”
+
+It was, in fact, a dragon. The prisoner stared uncomprehendingly at the shape of archers and a cultist mage attempting to stop the flying calamity, but their target was a blur of spells. The earth buckled under them without a circle appearing or symbols being used. Only the Thunder Lord could possibly slow that beast down, curse that backstabbing cur. Why was there a damn dragon here, of all places?
+
+And why was there a foreign woman as well?
+
+The prisoner blinked. Next to him, a pale-skinned caster carved circles and symbols into the suddenly flattened ground. She was tall, with a black armored robe and a strange, misshapen shield covered in heraldry. A silver circlet adorned her helmet. He reassessed her as a leader of some sort as well as a caster. Her hair was colored strangely. A Paramese, for sure. Or a savage from the Empire of Dawn. No, she was no thrall. He frowned.
+
+[Foe of Efestar, Ascender, Fourth step of a well-rounded black war caster path. Elemental.  LETHAL. Peerless war caster. Born for magic. Empress of New Harrak. Monster Slayer… ]
+
+So many… what? He’d never heard of her! Harrak? Wasn’t the place destroyed? And she was an enemy of Efestar? Elemental? What was she doing here all calm and — but wait. That was his chance.
+
+“Lady? Lady? The gate? Please?”
+
+His voice revived the spark of hope in the chests of the other wretches. They crammed themselves against their cages with emaciated limbs grasping at her, filthy nails clawing the air for the salvation she represented, but she didn’t budge. With methodical speed, the witch kept drawing an increasingly complex array on the ground. The prisoner knew enough about rituals to realize this one was excessively complex despite the… rather artistic arrangement. She was also drawing several at once. It was something only the best casters could do. The prisoner didn’t know what an elemental archmage was but it was clearly one of the light gods’ champions. Fresh off the boat then? Maybe he still had a chance.
+
+“Lady, we can be of help.”
+
+She didn’t reply. The array completed, then she fed power into the construct.
+
+There was so much mana here the prisoner could feel it press against his skin. The air shimmered, then the world inexplicably split open, smoothly, like a window, and beyond that was a courtyard covered in flowers with mossy, damaged walls, and warriors in heavy armor. Quite a few of them.
+
+“Go. Go!”
+
+The fighters actually crossed the space. They were here now, soldiers of the light. From the city to the pier in an instant.
+
+A portal? This was a portal? It was! The prisoner thought only Oleander’s team was capable of such a feat! The soldiers immediately opened the cages around him while the witch created another circle. Behind him, the bay’s last boat went up in flames yet the witch wasn’t worried. The dragon was on her side? How?
+
+Then he was facing a furious man.
+
+“This one is a cultist. He’s one of them.”
+
+Uh oh.
+
+The templar attempted to break the cage, only to realize the lock was enchanted. The prisoner gave him an apologetic shrug which only enraged him even more.
+
+“Sorry, Neriad’s dog. I wouldn’t need you for a normal lock.”
+
+The elemental one approached in turn, and the prisoner had his first good look at her. She was… exotic. Very strange, and beautiful if you liked that kind of thing. The eyes were the catch. They were pure black with emerald rings where the iris should be. What was she doing serving the light ones? She looked at him with her alien eyes and there was an assessment there he didn’t like.
+
+The woman approached and a blade of pure void erupted from her extended hand. She casually flicked it through the lock. Part of the metal and all the enchantments were… just gone with a hiss.
+
+The templar opened the gate. Well, at least they would make it fast.
+
+“Let him go,” the woman said.
+
+The templar twisted around, outrage plain on his face.
+
+“Milady, this is a servant of a dark god.”
+
+“I know. Stand aside.”
+
+The templar grew defiant but something hit him. With his advanced soul sense, the prisoner could feel it as well, though it was focused on someone else. Intimidation. Powerful. Perhaps even specialized. It felt like standing in front of a scaled oven with a cold patience behind. It was pointless to fight her off. She would get her way and quickly.
+
+“NOW!”
+
+The templar obeyed, though reluctantly. The prisoner didn’t wait until they could change their minds. He was out and away in a rush. He raced past burning buildings, charred corpses and panicked cultists rushing here and there. Exhaustion made every step a chore. Had to work on his endurance a bit, after this was done. Hunger gnawed at him but that one was an old companion and it didn’t stop him. Suddenly, thunder roared behind him.
+
+The free man slowed down then. Behind him, down the slope, the bay was a scene of utter devastation. The carcasses of ships still smoldered so that it looked like the ocean itself was on fire. An inferno devoured the husks of structures where a makeshift port used to stand. Smoke and screams clogged the atmosphere, and while he could see the templars freeing the other prisoners and killing the surviving cultists, behind the island was but a hazy landscape of red and gray beset with black smoke and flying embers. The dragon shrieked again and the top of a distant hill burst into flames. But all was not over for Efestar’s servant. Sai was here.
+
+The free man still resented Sai’s ascension to dominance over Efestar’s scattered servants. He resented the archmage’s cocky confidence, but there was little he could do because Efestar’s blessings affected him in… another way. The Thunder Lord floated over the scene clad in a halo of clean air, his a purifying presence. Just then, the sun found a small dip in the clouds. Light backlit the flying figure to give him a colorful aura. Here was the flying champion coming to the rescue while below, the black witch carved away at the ground, abyss-lined jade looking up with cold disdain.
+
+“You have courage, I will grant you that,” the Thunder Lord rumbled.
+
+The witch didn’t bother to answer. A black shield surrounded her. Electricity still crackled on its surface. The Thunder Lord’s spells lingered and rock didn’t stop them but it appeared black mana had. She had never stopped casting.
+
+The Thunder Lord must have felt something because he attacked with insistence. Air blades met strange disruptive spells. Fireballs were swallowed effortlessly. Another thundering attack had the same result as before, so Sai apparently decided to target the templars instead as they evacuated the last of the rescues but it was too late. They were already within her protective aura, and she intercepted his attacks with ease.
+
+“Hyperbeam.”
+
+A thick black ray speared the clouds. For a moment, the free man expected, no, hoped that Sai had finally perished for his arrogance but the archmage was a survivor, and thanks to his strange understanding of gray mana, he was suddenly… not there. Another spell that made the air unbreathable was immediately countered when the witch saturated Sai’s surroundings with black mana, shattering the delicate construct. He flew higher, above the thick air yet below the gloom of the perpetual dark clouds. His form blended in the world of gray.
+
+The free man knew what was coming so he ran faster. The wind picked up, yet before the Thunder Lord could trigger his attack, the witch struck.
+
+“Metamorphosis.”
+
+The leftover mana made him shudder, as if his skin didn’t quite fit.
+
+Despite the imminent danger, the free man still turned as he edged the slope. He wanted to see. He needed to see. The leftovers of the attack made the clouded air even darker, and it was now clear that the witch’s target had never been the Thunder Lord.
+
+The free man realized it had never been a duel. The witch had an objective. The Thunder Lord was merely in the way.
+
+“I swore to myself I would never inflict the aspect of change on a person,” the witch said in Old Imperial, her voice carried by the wind.
+
+“But you’re not a person.”
+
+The flesh tree shivered. The free man had seen temple guards hack at it and die, grabbed and absorbed into its flesh. He’d seen mages attempt to set it alight and fail. The tree had regrown from the voracious attention of the flesh walkers. Now, for the first time, the free man saw it writhe in pain. Limbs erupted, flailed, and fell off like torn petals. Tumorous growths bubbled over its horrid surface and slowly, it half-melted, half-fell forward. Mouths bloomed and screamed. The din was deafening. When the trunk touched a nearby rock, it broke to spill a vile liquid that hissed against the flames. More gashes opened, wounds that would have killed a titan. Still more limbs popped haphazardly over the collapsing mass as its regeneration fought against the spell and lost. It was being devoured by the very thing that had brought it life. Suddenly, the tree stopped struggling.
+
+The free man watched with rapt attention, an attention he regretted immediately when a single, perfect eye opened on the last intact piece of skin. The eye turned towards the witch.
+
+Terror froze the man’s breath. This was… this was… Gomogog. The hungering god spotted the witch. The torrent of ichor turned into a wave that aimed for her.
+
+“No you don’t. Deadland domain.”
+
+The witch walked to the portal. She was the only one left behind, and behind her, a sphere of gray expanded. The fires sputtered and died. The grass died. Even the waves lost their color. The cage where he’d been kept turned brittle and the dark god’s attack fizzled.
+
+The free man finally got it now. Not a caster of elements. A caster that is an elemental. A black elemental.
+
+When had Neriad found such a champion?
+
+The flesh tree finally collapsed, but the Thunder Lord’s attack came as well. Wind blew, lifting planks, then entire stones as a hurricane formed, centered on the witch’s location, but she merely raised walls around herself with a gesture. The portal was still active. What was she waiting for? The free man was still a spectator, despite the dangers. His chances of survival were bleak anyway. He might as well learn what he could. Perhaps bargain his knowledge.
+
+Just as the twister started, it evaporated. The free man heard Sai scream when the archmage plummeted head first into the ocean. One of his legs was on fire.
+
+It was a glorious sight.
+
+“What took you so long?” the witch asked the dragon landing by her side. It was a young one, relatively speaking, and white as snow.
+
+Steal spell first.
+
+“Fair enough. Let’s go.”
+
+The pair crossed the portal, which closed soon after.
+
+The free man ran. He ran for a long time. He climbed into the burnt forest with burning lungs and aching legs. After twenty minutes of walking, a spider skittered into view but he merely flashed Efestar’s mana and the creature reluctantly let him go. He finally reached the promontory where he had hidden emergency supplies. An upturned stone surrendered a backpack with some food he devoured, and clothes he changed into. As he turned, the lowlands came into full view. It was, inexplicably, burning again.
+
+A portal flashed open by another flesh tree. Cries and spells surged into the sky, then after five minutes, the tree burst in a geyser of red ichor and a scream like an angry kettle. He looked at the three remaining trees. Perhaps the dark servants could protect one or two, but they would have to assign much of their remaining forces to guard duty. If they didn’t, Gomogog’s servants would starve and they never truly starved so long as there was someone edible around… The man knew where this was all going.
+
+It was the dark god’s turn to be left without choices.
+
+***
+
+It was bright here. Summer light warmed Viv’s skin while a light breeze spread waves across the green grass. She raised an arm to see her burn scar covered by a summer dress. An earth summer dress.
+
+“Nice touch,” she said.
+
+Someone with her soul sense would know when she’d been dragged into the in-between, though it had been done with a considerably lighter touch this time. She wasn’t currently in the City of the Gods either. It was… a different place. Just as she thought the light would burn her skin, a wide-brimmed hat came to rest on her brow.
+
+“I thought you might appreciate a break,” a warm voice said.
+
+A man walked by her. He was a northerner with unusually dark skin, and tall, not Efestar tall, more like tall-human tall with very thin limbs. A turban covered his scalp while a loose, simple white garb covered most of the rest of him. Jewels adorned his delicate fingers in shades of gold with the occasional precious stone glinting pleasantly. Without a word, the two sat on the slope and watched the plain in front of them and the mountains in the distance. The weather was perfect.
+
+“I have never been a fighter,” Sardanal said.
+
+Viv gave him her attention. He was measuring her response, somehow. It didn’t seem like she was being judged.
+
+“I have always abhorred violence. Even at the end despite everything the old gods threw at us. I was always in favor of mending bridges. There are some who could not be redeemed, like Gorok and some of his most ardent followers, but I believed until the end that Enttiku and Octas could absolutely be. We turned the goddess of death to our cause and, as a result, we lost a friend. This battle is a penance for me as well.”
+
+“You might be proven right in the end.”
+
+“Perhaps. I lament the cost, especially since it will be paid by others.”
+
+Sardanal touched the rings on his hands, thoughtful.
+
+“You have come to defend my cause and so I shall tell you, thank you for standing for what is right. I must apologize in advance because… there is only one way this can end. Octas has invested too much in this battle to back up now. Not that she ever learned how to do that.”
+
+“I know what she will do. She’s been very consistent so far.”
+
+“It will be worse this time. If she is proven wrong here, it will hurt her essence. She will be broken and cast into the shadows for decades, maybe longer. I am telling you this because I… will not incarnate.”
+
+Viv waited for more to come. It didn’t. Sardanal merely looked forward.
+
+“Due to a lack of suitable candidate or…”
+
+“My incarnations are always brief and gentle. Sometimes, I appear in the grandest festival, or during famines or plagues when I am needed, so candidates are numerous, but as I said, I am not a fighter. If I manifest here, I will only be a target and when that form is killed, I will become unable to support you anymore. Worse, my host might be made an example of. I apologize for not being here while you fight for me.”
+
+“That’s… ok.”
+
+Sardanal seemed surprised.
+
+“Truly?”
+
+“You will still support us with your magic, right?”
+
+“Of course.”
+
+“The view of soldiers is different from yours, in my culture. You don’t have to be the one to shed blood to serve the cause. We need doctors, cooks, quartermasters, smiths, drivers, all of those as much as we need warriors. You don’t need to stand in the shield wall to be instrumental in our victory.”
+
+“I agree. Many do not. Are you prepared enough for the battle to come?”
+
+“The dark ones only have one option left but it’s a strong one. I think we’ve done the best we could. The rest depends on us… and Efestar, I suppose.”
+
+“I wish you success. Remember that I will always be at your back, and if you do save my island, I will make sure Harrak receives its fair share of our victory.”

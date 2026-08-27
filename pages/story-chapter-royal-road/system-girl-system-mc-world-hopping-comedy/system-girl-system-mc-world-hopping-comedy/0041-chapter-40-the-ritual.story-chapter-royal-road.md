@@ -1,0 +1,131 @@
+---
+id: a737b2d8-917a-5884-9525-bf90dc68f34b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: The Ritual"
+slug: 0041-chapter-40-the-ritual
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 41
+ownLength: 1896
+unit: words
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2797443/chapter-40-the-ritual"
+royalRoadId: "2797443"
+---
+
+The day of the ritual dawned with a quiet, almost reverent stillness. The usual morning bustle of the Jade Palace was hushed, the disciples speaking in whispers, their gazes often turning toward the high, isolated pavilion where the fate of their world was, in a very real sense, being decided.
+
+The chamber was simple, a stark contrast to the opulent pavilions we had grown accustomed to. It was a perfect circle carved from a single piece of pale, luminous jade, the walls bare, the air cool and smelling faintly of ozone and ancient stone. In the very center of the room, on a simple, unadorned obsidian pedestal, sat the two pills. The Yin Pill was a sphere of flawless, pearlescent white that seemed to drink in the ambient light, radiating a soft, cool glow. The Yang Pill was its perfect opposite, a glossy, jet-black pearl that seemed to absorb all light, exuding a faint, almost imperceptible warmth.
+
+We were alone. The grandfathers, having set the stage, had wisely made themselves scarce. It was just Dave and the princess. And, of course, the silent, invisible peanut gallery in Dave’s head.
+
+The awkwardness was a physical presence in the room, thicker than any magical barrier.
+
+[Ana: Alright, gentlemen. This is the first and only Key Performance Indicator for this phase of the project,] my voice was a calm, professional murmur in our shared consciousness. [Objective: The Kiss of Sincere Intent. The goal is to align your spiritual signatures. Just… try not to make it weird.]
+
+Too late, Liz projected, her mental voice a low groan.
+
+Dave, dialed up to a stable 30%, was a perfect gentleman, but visibly nervous. He stood stiffly, his hands clasped behind his back, his gaze fixed on a particularly interesting spot on the floor. Princess Liling was attempting to maintain her serene composure, a feat of willpower that was failing spectacularly. A faint, rosy blush colored her cheeks, and she was fiddling with the sleeve of her silken robe.
+
+They stood on opposite sides of the pedestal for a long, excruciating minute, the silence broken only by the faint hum of the two pills.
+
+Someone has to make the first move, Liz noted, her tone that of a frustrated theater critic. The pacing is dreadful.
+
+Finally, Dave took a deep breath. He had faced down a golem the size of a mountain, survived a labyrinth that defied physics, and been verbally eviscerated by a hyper-intelligent version of himself. This, somehow, was harder.
+
+He took a hesitant step forward. "Your Serene Highness," he began, his voice quiet.
+
+"Liling," she corrected softly, not looking at him. "My name is An Liling."
+
+He stopped, surprised. "Liling," he repeated, testing the name. He took another step, closing the distance between them. "Liling," he said again, this time with more confidence. "I…"
+
+He faltered. All our carefully prepared scripts, all the polite, diplomatic phrases, seemed to evaporate in the charged silence. He was left with nothing but the simple, unvarnished truth.
+
+"...I'm scared," he admitted, his voice barely a whisper.
+
+She finally looked up, her own surprise mirroring his. In that moment, the masks they had both been wearing—the serene princess, the competent lord—crumbled away. They were just two young people, standing on the precipice of something terrifying and immense.
+
+A small, genuine smile touched her lips. "So am I," she confessed.
+
+The admission seemed to break the spell. The crushing weight of expectation, of politics and power, lifted, leaving something simpler in its place. He reached out, not with the confidence of a suitor, but with a hesitant, questioning gesture. She met him halfway, her cool fingers gently touching his.
+
+He leaned in. The kiss was not passionate or romantic, not the stuff of legends or ballads. It was simple. Hesitant. A brief, soft, and profoundly awkward meeting of lips.
+
+But the moment they touched, the world exploded.
+
+The soul-bond between them, a quiet, background connection, flared with a brilliant, blinding light. The Yin and Yang Pills on the pedestal shot into the air, hovering between them, humming with a resonant energy so powerful it shook the very foundations of the chamber. Their spiritual signatures, once two distinct melodies, were being forcibly harmonized, tuned to the same cosmic frequency. The kiss ended, and they stumbled back, breathless, their eyes wide with a shared, profound shock. The two pills gently floated down, one into each of their waiting palms.
+
+The first part of the ritual was complete.
+
+They were immediately escorted by silent attendants to separate, identical chambers. Each room was dominated by a large, sunken bath carved from a single piece of flawless white jade, filled with steaming, fragrant, herb-infused water. The air was thick with the scent of a dozen different spiritual herbs, a potent, earthy aroma.
+
+They consumed the pills and entered the water.
+
+The agony began without warning.
+
+My dual perspective, which had become a manageable headache, now became a front-row seat to two simultaneous, synchronized torture sessions. It was a violent, biological and spiritual purge, a forced evolution on a cellular level.
+
+From Dave, I felt a searing, white-hot fire erupt in his Dantian, the Yang Pill a miniature sun in his core. From Liling, a piercing, soul-deep cold spread from her own spiritual center, the Yin Pill a shard of frozen moonlight.
+
+I could feel their bones grinding, the sound a low, resonant vibration in my own consciousness. Their muscles tore and re-knit themselves, a wave of tearing, burning pain that made them both cry out. Black, foul-smelling "gunk"—the physical manifestation of their mortal impurities, the accumulated dross of a lifetime—began to seep from their pores, clouding the pristine, herb-infused water.
+
+It was a process of deconstruction and reconstruction, a violent and terrifying rebirth. And it went on for three agonizing days.
+
+. . .
+
+For three days, the world outside the ritual chambers ceased to exist. There was only pain. A constant, grinding agony that threatened to shatter their minds. I was a helpless observer, a QA tester watching a critical system process unfold, unable to intervene, able only to monitor the screaming red lines of their bio-metric data and pray the system didn't crash.
+
+The stoic, silent attendants were the only other witnesses. Every few hours, they would glide into the steam-filled rooms, their faces impassive masks. They would drain the now-foul, black water, their movements efficient and practiced. They would clean the jade tubs of the thick, oily residue, and refill them with fresh, steaming medicinal liquid, tactfully ignoring the groans of the semi-conscious royals undergoing their torturous rebirth.
+
+Then, on the fourth morning, the pain subsided.
+
+It did not fade; it ceased. One moment, they were drowning in a sea of agony. The next, there was only a profound, euphoric calm. A flood of new, pure power washed through their reforged bodies, a warm, golden tide that healed the damage and filled them with a vitality they had never known.
+
+My UI, which had been a constant stream of critical alerts, suddenly went haywire with a different kind of notification.
+
+[USER_MASTER DAVE - RANK UP: WIZARD (RANK 6 - ARCANE LORD)][USER_MASTER DAVE - RANK UP: CULTIVATOR (RANK 6 - EARTHLY CONNECTION)][HOST_PRIMARY AN LILING - RANK UP: CULTIVATOR (RANK 8 - DAO ENLIGHTENMENT)][HOST_PRIMARY AN LILING - RANK UP: WIZARD (RANK 6 - ARCANE LORD)]
+
+Then, another wave hit.
+
+[USER_MASTER DAVE - RANK UP: WIZARD (RANK 7 - MAGE SOVEREIGN)][USER_MASTER DAVE - RANK UP: CULTIVATOR (RANK 7 - CELESTIAL BRIDGE)][HOST_PRIMARY AN LILING - RANK UP: WIZARD (RANK 7 - MAGE SOVEREIGN)]
+
+They had done it. In three days of unimaginable agony, they had achieved what would have taken even a prodigy decades of painstaking work. They had both broken through to the Seventh Rank in both disciplines.
+
+The heavy stone doors to their respective chambers slid open. They stepped out into the quiet hall, exhausted, draped in simple silk robes, but transformed. They were no longer just attractive; they were radiant. Their skin held a faint, luminous glow, their eyes shone with a new, deep clarity, and their very presence seemed to bend the light around them.
+
+They met each other's eyes across the hall. The awkwardness, the shyness, was gone. It had been burned away in the crucible of the ritual, replaced by a new, profound understanding born from shared suffering and shared triumph. They didn't need to speak. They simply nodded, two equals acknowledging a journey completed.
+
+The news of their breakthrough sent a shockwave through the Jade Palace. Their new, otherworldly appearances became the subject of hushed, awestruck whispers. The young attendants who had once barely noticed Dave now followed him with their eyes, their faces flushed. A quiet, unofficial "fan club" was born in the servant's quarters.
+
+. . .
+
+The two grandfathers, sharing a drink in the Sky Immortal’s private office, celebrating the successful ritual. Bushy-Brows was boasting about his brilliant matchmaking. Elder Corvus was in a state of happy disbelief, having just received the report. "My grandson... a Rank 7 dual-practitioner. I never would have believed it."
+
+Their celebration was cut short.
+
+A sound echoed through the world. It was not a physical sound, but a mental one, a resonant chime that cut through all thought, bypassing the ears and striking directly at the soul. It was heard by every practitioner of Rank 7 and above, a silent alarm bell that only the powerful could perceive. And it was heard by every System user.
+
+[Ruby: Alert. Unscheduled, high-priority, world-level broadcast detected.]
+
+[Ana: I'm getting it too. What is this?]
+
+A calm, ancient, and impossibly powerful voice, genderless and vast, spoke directly in their minds. It was a voice that felt older than the mountains, as inevitable as the turning of the stars.
+
+"A threat has manifested. All who can hear this call are summoned. Protect the foundation. The coordinates are embedded. A call to arms to save the world."
+
+The grandfathers were instantly sober, their expressions turning grim. They looked at each other, a shared, horrified understanding passing between them.
+
+"It's happening again," Elder Corvus breathed, his voice a low, gravelly whisper.
+
+"The scriptures spoke of this," the Sky Immortal said, his face pale. He walked to an ancient bookshelf and pulled down a heavy, dust-covered scroll. "The last time the Proclamation was heard… it was a hundred thousand years ago."
+
+He unrolled the scroll, his hands trembling slightly. "The last call was for the birth of a 'super dungeon,' a cancerous growth in reality that threatened to consume our continent. See? The wording is precise." He pointed to a line of elegant, archaic script. "It warns of a 'Dungeon'."
+
+Elder Corvus leaned in, his eyes wide. "And this new message?"
+
+"This one," the Sky Immortal said, his voice dropping to a whisper of pure dread, "warns of an 'Entity'."
+
+The distinction was terrifying. They were not being called to cleanse a place. They were being summoned to fight a being.
+
+Alarm bells, silent to the common folk but deafening to the powerful, ringing throughout the Thousand Serpent Mountains. Runic circles, dormant for centuries, flaring to life in the grand halls of the Arcane Academy. The two great nations, who were just on the brink of a fragile peace, now find themselves unwitting allies, their armies and their masters preparing to face an unknown, world-ending threat.
+
+The honeymoon was over. The war had begun.

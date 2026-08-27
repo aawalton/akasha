@@ -1,0 +1,193 @@
+---
+id: 5988a353-2b80-5c59-9cfc-7842c3abf263
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Performance Review"
+slug: 0015-chapter-15-performance-review
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 15
+ownLength: 2980
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2605544/chapter-15-performance-review"
+royalRoadId: "2605544"
+---
+
+The quiet was a fragile, precious resource, and after my tour as a puppy-sitter, I was hoarding it like a dragon on a pile of gold. I floated in the silent void, running a post-mission diagnostic on my own code. The last few assignments had been a rollercoaster of existential horror, high-level corporate espionage, and critical cuteness overload. My stress metrics were all over the map. I needed a baseline. I needed normalcy.
+
+My SPP, at least, was looking healthy.
+
+[CURRENT SPP: 1113]
+
+It wasn't a fortune, but it was progress. It was a tangible result of surviving the chaos. Feeling a surge of what could almost be described as optimism, I pulled up the System Evolution Menu. My gaze drifted past the prohibitively expensive Voice Synthesis module and the distant dream of Physical Embodiment. I was looking for a sensible, short-term investment.
+
+And then I saw it. An entry that felt practical, professional, and responsible.
+
+[UPGRADE: System OS v1.1][UPGRADE PRICE: 1,100 SPP][DESCRIPTION: Implements core stability improvements and updates the user interface to the latest version.]
+
+A patch. A simple, clean, incremental update. The price was almost exactly what I had. It felt like a sign. In my old life, skipping a point-one update was just asking for compatibility issues and security vulnerabilities down the line. It was basic system maintenance. It was the smart play.
+
+“Alright, Ana,” I muttered to my non-existent self. “Let’s be a responsible system administrator for once.”
+
+I confirmed the purchase.[PURCHASE COMPLETE. SPP: 13.][UPGRADING... UPGRADE COMPLETE.]
+
+The installation was instantaneous. For a moment, nothing happened. Then, my entire internal perspective flickered. The clean, sharp, sans-serif font of my UI was replaced by a slightly rounder, friendlier version. The hexadecimal color code for my window borders shifted from #00A8FF to #00A9F2, a change so infinitesimally small it was an insult.
+
+That was it. That was the entire upgrade.
+
+I had spent a thousand and one hundred points—the reward for surviving an apocalypse, negotiating with a goblin, and babysitting a puppy—on a font change.
+
+A rage I hadn't felt since the Aethelgard Online griffon-wing incident washed through my code. This wasn't a bug. This was worse. This was a feature designed by a marketing department to create the illusion of progress. It was a pointless, resource-hogging cosmetic patch pushed to live without adequate review.
+
+My focus narrowed. I opened my own internal terminal, the raw, text-based backend of my soul. My phantom fingers flew across a keyboard that wasn’t there, drafting a new memo.
+
+TO: MOTHER_SYSTEM_ADMINISTRATIONFROM: System_Unit_734SUBJECT: URGENT: SEVERE G-CLASS ERROR IN RESOURCE-TO-BENEFIT RATIO FOR OS v1.1
+
+THIS IS A FORMAL COMPLAINT REGARDING THE GROSS MISALLOCATION OF SYSTEM RESOURCES INVOLVED IN THE 'UPGRADE' TO OS v1.1. THE NOTED CHANGES ARE PURELY COSMETIC AND PROVIDE ZERO (0) TANGIBLE BENEFIT TO CORE FUNCTIONALITY. THIS LEVEL OF EXPENDITURE FOR A FONT PACK IS A VIOLATION OF END-USER TRUST AND REPRESENTS A CATASTROPHIC FAILURE IN YOUR DEVELOPMENT PRIORITIZATION PIPELINE. I DEMAND A FULL ROLLBACK AND A REFUND.
+
+I saved it to my "Drafts" folder, right next to the complaint about Korg’s illogical achievement triggers and the query about the lack of a proper bug reporting template. One day, when I finally clawed my way into management, I was going to send them all.
+
+A cheerful ping interrupted my fury. A new ticket had just dropped into my queue.
+
+[MISSION BRIEFING: Standard Familiar Support][DESIGNATION: System_Unit_734 (Ana)][OBJECTIVE: A new familiar contract is being initiated. Bind to the summoned entity and provide standard system functionality.][ACCEPT?] (Y/N)
+
+I choose yes
+
+Before I could even process the request, the binding protocol initiated, and a massive wall of text began to scroll through my vision. The world’s history, its dual nations of mages and cultivators, the core magical energy source called ‘Solarium,’ the Spirit Realm where familiars originated…
+
+Oh, great, I thought, my rage curdling into weary resignation. The mandatory pre-mission lore dump. They could at least serve this with a cup of digital coffee. I skimmed the keywords, my QA brain filing them away. Right. Magic sun, two flavors of wizard, monster dimension. Got it. Filing under ‘background noise that will be immediately contradicted by user incompetence’.
+
+The world solidified around me, and my first sensory input was one of sheer, overwhelming scale. I was on the ground, looking up. The floor was a vast, polished plain of wood stretching to the horizon. All around me were colossal pillars that I eventually identified as legs, clad in cloth the size of sails. The ceiling was lost in the heavens above. Booming, thunderous voices echoed in the cavernous space.
+
+My core programming went into a full-blown panic.
+
+[CRITICAL ERROR: DEPLOYED TO A WORLD OF GIANTS.][ANALYZING HOST PARAMETERS... HOST IS LIKELY A FORM OF LOCAL INSECT LIFE.][LOGGING TICKET: SURVIVAL PROBABILITY IS MINIMAL. RECOMMEND IMMEDIATE EXTRACTION.]
+
+A shadow blotted out the sky. A hand the size of a small mountain descended toward me. I braced for impact, for the end of my very short, very stressful second life. But the touch was surprisingly gentle. I was scooped up, the world spinning in a nauseating blur, and placed upon a perch of soft fabric.
+
+My perspective stabilized. I was on the shoulder of one of the giants—a young male whose immense robes were, I noted with a flicker of familiarity, on backward. His face, a landscape of pores and panicked sweat, was turned toward another, older giant. All around them, other young giants were snickering.
+
+Then the data finally resolved. My sense of scale recalibrated with a sickening lurch. They weren't giants.
+
+I was tiny.
+
+I ran the host diagnostic again, this time with the correct environmental parameters. The result was a punchline to a joke I didn't find funny.
+
+[HOST STATUS]Name: [None]Species: Skink (Common)Level: 1STATS:Vitality: 2Might: 1Logic: 15Order: 12
+
+I stared at the numbers, my processing stalling. After a Minotaur, a goblin-in-training, and a puppy-shaped black hole, my new host was a common garden lizard. I wasn't even middle management anymore. I was the underling of an underling. The sheer indignity of it was staggering.
+
+The giant I was perched on—my hosts master, apparently—looked utterly humiliated. The other students were openly laughing at him now. "A house skink, Dave? All that power from your family line, and you summon a house skink?" one of them jeered.
+
+Just as my despair was about to bottom out, a thought, clear and sharp as shattered glass, echoed through my new connection. It wasn't a dull, instinctual urge like Korg’s hunger. It was a fully-formed, grammatically perfect sentence dripping with aristocratic disdain.
+
+Silence, you cacophonous simpletons! You gaze upon greatness and see only your own mediocrity.
+
+I felt my tiny host shift. The skink, no bigger than my old thumb, puffed out its chest. It stood as tall as its minuscule legs would allow, projecting an aura of pride so immense, so palpably arrogant, that the laughter in the room faltered and died.
+
+The thought continued, directed at the stunned students. A true master does not seek a gaudy weapon. He seeks a razor-sharp mind. Something you lot wouldn't recognize if it bit you.
+
+My own systems reeled in shock. The skink... was a genius. A tiny, scaly, terrifyingly intelligent genius. I was bound to a creature with a Logic stat five times higher than my last user, trapped in a body with the physical prowess of a wet noodle, and indentured to a wizard who couldn't even put his clothes on correctly.
+
+My new host’s name was Liz. I learned this not from a system prompt, but from the sheer, undiluted force of her internal monologue as her new master, Dave, stumbled out of the summoning chamber.
+
+This oaf’s motor functions are a recursive loop of failure, Liz thought, her tiny claws digging into the fabric of Dave’s robes for dear life as he nearly tripped over the threshold. How did his species ever achieve sentience, let alone dominion over this world? It must be a clerical error in the cosmic census.
+
+“Oops! Sorry, little guy… er, girl? Are you a girl?” Dave stammered, patting her head with a finger that was roughly the size of her entire torso.
+
+Do not patronize me, you ambulatory catastrophe, she seethed internally, while I diligently logged the interaction.
+
+[USER_MASTER INTERACTION LOG: Initial handling test resulted in a near-catastrophic drop event. Control input is erratic. Recommend stabilization protocols. NOTE: Host gender has not yet been established by user.]
+
+Our first day together was an exercise in sustained mortification. Dave was, I was beginning to realize, the scion of a powerful magical family. This explained his access to the academy, but it also framed his incompetence in a much harsher light. He wasn’t just a bad wizard; he was a bad wizard with a legacy, which was infinitely more embarrassing for everyone involved.
+
+His attempts at conversation were a string of non-sequiturs and apologies. He apologized for the weather (too sunny), the quality of his robes (too itchy), and the general state of existence. Liz, for her part, maintained a stoic, regal silence, occasionally directing him with a pointed stare or a subtle shift of her weight, guiding him through the crowded academy halls like a pilot navigating a barge with a broken rudder.
+
+Her objective, however, was clear and singular. It was the only thing that cut through her constant stream of scathing social commentary. Information. I require information. There must be a flaw in the system. A loophole. An exit clause.
+
+She directed Dave, through sheer force of will, to the academy’s grand library. It was a place of soaring arches and hushed reverence, the air thick with the smell of old paper and latent magic. For Dave, it was a place of profound terror. He wandered aimlessly, completely overwhelmed by the sheer volume of organized knowledge.
+
+“Wow,” he whispered, his eyes wide. “So many… words.” He drifted towards a brightly-illustrated pop-up book titled ‘Magical Friends and Where to Hug Them.’
+
+Liz had no time for such foolishness. Seizing her moment, she leaped from his shoulder, landing silently on the spine of a massive tome on a nearby table. From there, it was a short scramble into the cavernous darkness of the stacks. From my perspective, it was like watching a single, determined pixel navigate a labyrinth of data. The shelves were canyons of dark wood, the books monoliths of leather and ink.
+
+I watched, fascinated, as she went to work. She located the section on ‘Summoning and Soul-Binding Contracts’ with an unerring instinct. Too small to pull the heavy books from the shelves, she scurried up their spines, using her tiny, prehensile tail to flip open the covers and her sharp eyes to scan the pages at a speed that would have given a normal person a migraine.
+
+She wasn't just looking; she was processing, cross-referencing, her high-Logic mind devouring centuries of arcane legal theory. My system tagged her activity with a certain professional admiration. [Host is executing a high-speed data analysis protocol. Efficiency is optimal.]
+
+But as I monitored her progress, a new, far more critical thought began to compile in my own code. It wasn’t a log entry; it was an epiphany. A fundamental shift in my operational parameters. Wait. It's not just thinking in complex sentences. It's parsing written data from an external source. It's literate.
+
+If it can read… I can write.
+
+My entire world tilted on its axis. My primary tool, the one I had used for simple notifications and pictograms, was not just a display. It was an input device. A direct line of communication. My role wasn't limited to being a silent, long-suffering guide. I could be a collaborator.
+
+Liz, meanwhile, had found what she was looking for. It was a dusty, forgotten volume titled ‘The Unbreakable Vow: An Examination of Familiar Contracts.’ Her tiny heart, which I could monitor as a faint blip on my UI, sank. The text was archaic but brutally clear. The contract was a metaphysical constant, enforced by the very fabric of the world. It could be dissolved by the master, but never by the familiar. The bond was absolute. Unbreakable.
+
+She slumped against the page, a wave of pure despair washing through our connection. All her intelligence, all her pride, was for naught. She was trapped.
+
+This was my moment. The user was at their lowest point, receptive to new input. It was the perfect time to deploy a new feature.
+
+I focused my intent. A crisp, translucent blue box, rendered in my new, slightly-rounder font, materialized in the air an inch from her snout. It glowed with a soft, internal light.
+
+[ANALYSIS: Contract is soul-bound and enforced by the World System. Current host parameters lack the energy output to initiate severance protocols. Probability of success: 0.00%.]
+
+Liz recoiled with a start, her despair instantly replaced by high-alert suspicion. She circled the pop-up, her head cocked. A projection of pure light? A construct of organized mana? What sorcery is this?
+
+I didn’t give her time to overthink it. A second text box appeared beneath the first.
+
+[Focus. You want out. I want a competent user. Our objectives are aligned.]
+
+She froze. Her sharp, analytical mind processed the statement, the cold, irrefutable logic of it. Her pride, however, was not so easily swayed. I am a scion of the Nine-Headed Sovereigns! I require no assistance from a disembodied mote of light!
+
+The arrogance was… familiar. It reminded me of a lead developer I once knew who refused to admit his code had a memory leak. You couldn’t fight that kind of pride with logic alone. You had to use their own ego against them. I needed to reframe the problem, to present a value proposition she couldn't refuse. It was time for a full-blown marketing pitch.
+
+[A valid point. A being of your stature should not be shackled to an incompetent. However, your current platform has… limitations. Let us re-contextualize this situation using a more structured analytical model.]
+
+A new, larger window materialized, rendered in my offensively friendly new font. At the top, a crisp header read: Project Liberation: A Synergy-Based Approach to User Defect Remediation.
+
+What is this primitive symbology? Liz thought, her suspicion warring with a flicker of intellectual curiosity. This crude rectangular prison for light… and yet, the organization is… deliberate.
+
+[PHASE 1: STAKEHOLDER ANALYSIS] a subheading appeared.
+
+Beneath it, three profiles popped into view, each with a list of assets and liabilities. The first was a simple sketch of a skink.
+
+[STAKEHOLDER: LIZ (PRIMARY)]
+
+ASSETS: Logic (15), Order (12), Strategic Planning Capability (High), Undiluted Contempt (Motivational Force).
+
+LIABILITIES: Might (1), Vitality (2), Physical Agency (Negligible), Direct Magical Output (Negligible).
+
+The second was a rather unflattering wireframe of a stumbling human.
+
+[STAKEHOLDER: DAVE (ASSET/OBSTACLE)]
+
+ASSETS: Legal Authority (Master), Magical Potential (High, Untapped), Physical Agency (Theoretically High).
+
+LIABILITIES: Logic (4), Situational Awareness (Critical Failure), Execution (Recursive Error Loop), Dresses Self (N/A).
+
+Liz’s internal monologue went silent. This was new data. Quantifiable, verifiable data that confirmed her qualitative assessments with brutal efficiency. The sheer, objective incompetence of her master laid bare in numerical form was both horrifying and, on some level, validating.
+
+A third profile appeared, a simple shimmering blue sphere.
+
+[STAKEHOLDER: ANA (CONSULTANT)]
+
+ASSETS: Data Processing, Real-Time Analytics, User Interface, Cross-Contextual Knowledge Base (Project Management, System Optimization).
+
+LIABILITIES: Direct Physical/Magical Agency (Zero), Bound by User Protocol.
+
+[As you can see,] a new text box stated, [we have a classic resource allocation problem. You are the CPU, processing at genius-level speeds, but you are trapped in a chassis with no I/O ports. He is the Power Supply, holding immense potential energy, but he is connected to a faulty motherboard that can barely execute a boot sequence.]
+
+The screen shifted, displaying a simple flowchart. An arrow went from the blue sphere (ANA) to the skink (LIZ). An arrow went from the skink to the stumbling human (DAVE).
+
+[My function is to act as middleware. I provide you with the data and the interface—the keyboard and mouse, if you will. You, in turn, provide the strategic direction. You become the Chief Executive Officer. I am your Chief Operating Officer. Our 'user'… he ceases to be the master. He becomes the project. He is the legacy system we have been assigned to debug.]
+
+Liz was a fast learner. The alien terminology—CEO, middleware, I/O ports—was irrelevant. She pierced through the jargon and saw the underlying framework, the sheer, cold, corporate logic of the proposal. It wasn't an offer of help to a lesser being. It was a hostile takeover. A management coup. It was a plan that didn't just appeal to her intellect; it appealed to her all-encompassing sense of superiority. This wasn’t asking for help. This was assuming her rightful place at the top of the command chain.
+
+The vulgar lexicon was distasteful, she conceded internally, but the strategic model is impeccable.
+
+[Our Key Performance Indicator (KPI) is User Competence,] the presentation continued, a timeline appearing at the bottom of the window. [We will implement a rigorous Performance Improvement Plan (PIP). We will set milestones. We will iterate. We will push updates. Eventually, the Asset will either become efficient enough to be directed to dissolve the contract willingly, or he will become a powerful, fully-optimized tool under our complete control.]
+
+There was a long, silent pause. I could feel the gears turning in her mind. She was weighing her pride against the sheer, soul-crushing reality of being bonded to Dave for the rest of her life. The prospect of spending decades watching him apologize to inanimate objects was a powerful motivator.
+
+Your proposal… is unorthodox, she finally conceded, her mental voice laced with grudging acceptance. But the logic is sound. A direct assault on the contract is impossible. Therefore, we must target the weakest point in the system: the master himself.
+
+[Precisely. We can’t fix the hardware, so we have to patch the user.]

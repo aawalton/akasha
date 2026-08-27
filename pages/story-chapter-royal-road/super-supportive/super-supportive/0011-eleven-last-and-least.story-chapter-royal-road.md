@@ -1,0 +1,217 @@
+---
+id: cd1de9cf-0669-529f-888d-3ca8c37f7855
+page-type-slug: story-chapter-royal-road
+title: "ELEVEN: Last and Least"
+slug: 0011-eleven-last-and-least
+partOf: super-supportive
+position: 11
+ownLength: 2380
+unit: words
+publishedAt: 2023-02-17
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1115805/eleven-last-and-least"
+royalRoadId: "1115805"
+---
+
+“Look at what you’ve done to me,” Alden said pitifully.
+
+It was evening, he was sitting in the cricket-filled lobby with Gorgon again, and he was picking chunks of tofu and pieces of lettuce out of a naan wrap that had been incorrectly labeled vegan at a food truck he’d passed on the way over.
+
+“Do you know why the bread at that place tastes fabulous? It’s because it’s grilled in butter. Do you know how I know that? It’s because my brain now has an anti-joy narc living in it.”
+
+“How long do you think you will complain about this particular topic?” the alien asked, licking coconut curry sauce from his own fingers.
+
+“How long is the narc going to be in residence?”
+
+Gorgon shrugged.
+
+Alden eyed him suspiciously. “I’m not gonna grow horns, am I?”
+
+“Perhaps if you try very hard.”
+
+“Ha ha. You’re a comedian now.”
+
+“You were telling me about your ambitions for your future,” Gorgon reminded him. “If you don’t plan to continue, you can ride up and down the elevators again. Preferably in silence.”
+
+Alden slumped against the cushions of the sofa he’d chosen for himself tonight. “So you’re a bossy alien now that you’ve drunk my blood? That’s just my luck.”
+
+But Gorgon had a point. Alden had been whining for a while.
+
+He sighed. “I’ve pretty much told you everything, though. Hannah was a big influence. What happened to my parents was, too. I think battlefield support is a seriously important and underrated job. Plus it’s cool. As for more specific ambitions…I’d love to be a frost-focused Adjuster or a trap Meister or maybe something that was heavy on the buff abilities. But it’s all just idle wishes. Even if the System does choose me, it’s not like I can pick exactly the class I want.”
+
+“The pre-affixation trade is always an option,” Gorgon said. “No doubt it will be a necessary one in your case, since you seem to have an uncommon vision for yourself. I’m sure you’ve realized that most classes lean strongly toward improving an individual’s personal offense or defense. Classes that do otherwise tend to be ill-suited to spontaneous combat.”
+
+Alden felt his eyebrows lift. When the System called you, there was a grace period of around three months before you had to accept your class. During that window, a selectee could trade classes with another willing person of equal rank who was still in their own grace period. It was the only time class trades were allowed.
+
+“That’s all true,” he said, popping a cube of tofu into his mouth, “but nobody trades good classes, do they? Isn’t it just a bunch of unhappy people swapping the garbage classes around? That’s what the internet says anyway.”
+
+Gorgon made a humming sound. “A reasonable percentage of new Avowed make trades. It’s skewed heavily toward the lower ranks, of course, but it’s not rare.”
+
+“Wait. You can tell me stuff like that?”
+
+Gorgon shrugged again. “People who want to trade must do so with an approved witness at hand. I’m the witness for this region. It’s my job to tell selectees this kind of thing.”
+
+“Oh. But no specific class advice?”
+
+“None beyond what should already be abundantly obvious.”
+
+Alden grimaced. “What do the Avowed need a witness for anyway? What do you witness exactly?”
+
+“It’s a safety measure to confirm that someone who agrees to a class trade isn’t suffering from undue outside influence. Many selectees have superhuman parents with strong opinions about their offsprings’ class choice. Sometimes they attempt to manipulate the situation.”
+
+“You mean the parents of island-born supers? Their kid gets a class they don’t like, and they…what? Threaten or mind sway someone into trading with them?”
+
+“They attempt to. Sometimes. It’s not the norm, but it happens.”
+
+Alden didn’t doubt Gorgon, but he was surprised. He’d never heard so much as a whisper about something like that. You’d think it would be all over the place if heroes got caught bullying teenagers into giving up their powers for worse ones.
+
+“What’s the most traded class? Can you tell me that?”
+
+“It’s Brute. Obviously.”
+
+“Oh, yeah. That is obvious. Sorry. Numbers matter.” Roughly thirty percent of those chosen by the System were a Brute type, which was a much higher percentage than any other class. Of course it would also be the most traded one.
+
+“Of the Brute classes, longsights seem to be the least popular variety. They are often offered up for trade and rarely accepted,” Gorgon added.
+
+“Well, yeah. Having a superpower that lets you see really far away isn’t very special. Binoculars exist.”
+
+Gorgon made the clicking sound Alden had decided meant he wanted to say something but couldn’t. He waited for a minute, but the alien didn’t offer up any further comments on the subject.
+
+Alden considered the different classes. Only an idiot would trade Healer of Body, and a person would have to be an absolute moron to trade the super rare Healer of Mind. Even Alden would shift all his future plans in a heartbeat if those were offered.
+
+Sure, you were no good in a fight. But you could still help loads of people, and the class perks were the best.
+
+Any healer above D-rank automatically received a passive that reduced the mental and physical effects of stress and a blessing called Twice Life. Which was exactly what it sounded like…
+
+A doubled lifespan.
+
+Combined with the fact that you could fix any normal disease that might want to take you out, it was a first class ticket to living for an extra century. And at the highest ranks it was even better. There was an S-rank Healer of Body on the island who’d been chosen in the first year the System went into effect; she was nearly eighty, and she still looked sixteen.
+
+So yeah. Nobody was going to put that class up for trade.
+
+“Hannah said once that almost none of the people who grew up on Anesidora would take the Sway class if they could help it. She had a friend who wanted to trade hers when she got it, but it was S-rank and there was no one willing to trade for it at that level during her pre-affixation period.”
+
+Gorgon nodded. “That’s true. Sway is the class that is the most frequently successfully traded. Almost always from the children of Avowed to those who are not as intimately familiar with the class’s drawbacks.”
+
+Alden understood how that could happen. Being a mind controller sounded really impressive until you realized that you would get great power in exchange for life as a social pariah and near-prisoner on the island. Someone who didn’t have that realization in time would get suckered into it.
+
+“Do people ever trade Adjuster?”
+
+“Yes. But not often. The class is so flexible that it can be built in ways that would satisfy all but the pickiest user.”
+
+“What about unique classes?”
+
+“Ah,” said Gorgon. “Those…are different. They can’t be traded.”
+
+“Really?”
+
+“They’re automatically affixed. No grace period.”
+
+“Seriously? Why?”
+
+Gorgon shook his head.
+
+Alden sighed. “Whoever bound you with such overkill restrictions should be kicked in the ’nads.”
+
+“That would be impossible for a number of reasons,” said Gorgon. “But I appreciate the sentiment.”
+
+###
+
+Hours later, after Alden had fallen asleep with one leg and an arm hanging off the side of the sofa, Gorgon turned out the last of the lobby lights.
+
+His eyes adjusted to the darkness in an instant, and he watched the boy silently. Human adolescence was such a foolish, vulnerable phase of existence—an extended period of childish expectations warring against adult realities.
+
+It was beautiful and stupid, like so many other aspects of life on Earth.
+
+Gorgon hoped his actions hadn’t ruined whatever the boy had left of his own beautiful, stupid youth.
+
+You have chosen at long last, a voice from the distant past whispered in his mind.
+
+I have not chosen, Gorgon replied tiredly in his own language. I have only done what little I can in a world where there are no choices left to me.
+
+The voice was the echo of someone who had never even imagined such a world, so it had no way of answering him with useful advice or words of comfort. But he found himself hoping for some anyway.
+
+Teach him well, the echo said sagely.
+
+Gorgon sighed—a human habit he enjoyed mimicking on occasion—and rubbed at his manacles. He’d been pushing at the limits of his bindings in more ways than Alden knew, and they’d burned more in the past couple of weeks than they had in decades.
+
+I can’t teach him at all. And if I could, he couldn’t use my teachings. Our ways have disappeared, and there’s no point in passing them on to a human. His world has its own problems. Those will be his to face. Our world’s troubles will be…no one’s.
+
+Here, too, was something the echo could not comprehend. That the whole of the universe it had known might pass from existence, that Gorgon might be utterly and truly alone, that a successor’s purpose could be his own and not The Purpose that had been the very center of every other chosen one’s life.
+
+Now is the time to be fearless and accept the blessing of the Devouring with humility, as your predecessors did before you.
+
+“No,” Gorgon whispered into the quiet lobby. “No. I won’t be doing that. I’m sorry to disappoint you, my teacher. I am full of fear and unwilling to end. Not yet. Not until my work is finished.”
+
+Our work is done when our successors are chosen, the echo said. So it has always been.
+
+My work now is different than any you’ve known before, Gorgon replied. My current work is revenge.
+
+I have not heard of this work.
+
+Perhaps it was only Gorgon’s imagination but the echo sounded concerned.
+
+I know, my teacher. Don’t worry. It’s not so far away from purging an infection or correcting an imbalance. It’s just taking me a long time.
+
+If the price has been paid, the work must be completed. The echo sounded more confident now. No matter how long it takes.
+
+“Oh, the price was paid,” Gorgon muttered. “It was paid and paid again, by those who could not refuse to pay it.”
+
+Beyond the cold glass, the sun was rising. It was a breathtaking sight on this planet. Such a near, warm star.
+
+“How you would weep to see me here,” he whispered. “The last and least of us, chained up in a foreign paradise while our home lies dead beyond the gates of space and time.”
+
+The echo had no response to that, which was something of a relief.
+
+Gorgon headed back to his computer and clicked away from the security feed. His custom System access sigil was right in the center of the desktop, like always.
+
+He clicked it, and lines of teeth-grindingly familiar text appeared on the screen.
+
+[HONORABLE GUEST #231, NAME UNKNOWN, would you like to accept a Contract of Service in exchange for great power, future opportunity, and significant personal freedom?]
+
+“No,” Gorgon said.
+
+He liked to pretend that not cursing at his captors every time he was asked this question would bother them more in the long run.
+
+[HONORABLE GUEST #231, thank you for your consideration.]
+
+[Logging you in as PRISONER #12005794 — PREFERRED ID: GORGON]
+
+[How may I assist you in the completion of your duties today, Gorgon?]
+
+“Access all current pre-affixation trade requests.”
+
+[ACCESS GRANTED.]
+
+Gorgon scrolled down the familiar list with a great deal more interest than usual.
+
+A lot of it was the normal dross. The boy was right, to an extent. Even foolish teenagers rarely traded the obviously superior class assignments. But after decades of use, humans had barely scratched the surface of the System. They had such a poor understanding of all but the most simple classes.
+
+Gorgon knew, though he couldn’t explain it clearly to the boy, that there was no such thing as a weak class. Situationally weak, yes. Longsights really were useless…for the first few years. On Earth.
+
+But the System was designed from the ground up to create a theoretically balanced power trade between the Avowed and the Artonans who would summon them for various “quests.” The trick was in knowing how to use a class properly to take advantage of that.
+
+Of course, the Artonans preferred not to help Earth along on that front. All the better for them to technically gift other planets every bit of the power they promised while offering meager or misleading instructions when it came to its usage. It kept the lower species in line.
+
+Gorgon’s nostrils flared as he stared at the list in front of him.
+
+Even he didn’t have a perfect understanding of what all the various classes did. But the battlefield support role the boy desired should be manageable with a trade into…
+
+Yes, there it was!
+
+And…it was gone just as quickly.
+
+Ah. Frustrating.
+
+The class Gorgon had in mind was seen as an extremely undesirable one for those who dreamed of being superheroes, and at the same time, it was a class certain other people longed for. In fact, some newly chosen Avowed waited through their entire grace periods trying to acquire it.
+
+And it wasn’t common. Less than two percent last time he’d checked.
+
+So it popped up at random intervals and was snapped up just as quickly. Much like the Sway class.
+
+How was he supposed to point the boy toward it in the event that it became necessary? He couldn’t just tell him to choose it. Or maybe he could, but he wasn’t willing to pay the price for doing so. He liked Alden, but not enough to die for him.
+
+The magic that bound him worked on a very clever spell framework that had a limited ability to read his true intentions. So it was more flexible than it might have been, but it was also better able to identify infractions on his part.
+
+Well, he had nothing better to do with his time right now. He would work on the problem.
+
+Scheming was as good a cure for boredom as any other.

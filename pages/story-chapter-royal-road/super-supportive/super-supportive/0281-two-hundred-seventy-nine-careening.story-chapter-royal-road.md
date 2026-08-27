@@ -1,0 +1,163 @@
+---
+id: bf9e02b6-67cc-50eb-a3f3-78a5d8fcd60d
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-NINE: Careening"
+slug: 0281-two-hundred-seventy-nine-careening
+partOf: super-supportive
+position: 281
+ownLength: 2319
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3198720/two-hundred-seventy-nine-careening"
+royalRoadId: "3198720"
+---
+
+279
+
+******
+
+At any of the great universities of wizardry, the students and professors were supported by a sizable community of ordinary class workers. LeafSong was no different. Many people took pride in serving a school so prestigious, and of those servants, the ones granted the position of General Assistant to the Faculty pursued a level of excellence that a few of the faculty—and more than a few of the faculty members’ own personal assistants—found intimidating.
+
+People shared stories about wandering the campus late in the night, troubled by a research problem, only to be met by a General Assistant carrying exactly the object that would lead them to their solution. Favorite snacks regularly appeared by elbows before they could be requested. And one professor, prone to oversleeping, claimed to have woken up one morning in a cart that was heading toward his first class, dressed for the day through no effort of his own and with his lesson materials on the seat beside him.
+
+No task was too large or small for the General Assistants. No time too late or early.
+
+So when a Superior Professor arrived in the LeafSong summonarium with more luggage than he could easily manage and there wasn’t a single assistant waiting to help him get it all to his lab, the insult was similar to a more normal group of people flicking kamyump feces at him.
+
+Which had happened once before, though it had been years since he’d last thought about it.
+
+Worli Ro-den actually stood around for a while, assuming someone was about to appear. When nobody did, he glanced at his messages. His arrival time was known. He hadn’t ordered a General Assistant to be here, and they would surely come if he did. But there were times when ignoring a slight was the wiser choice, and this was one of them.
+
+He shoved up his sleeves, smirked knowingly at a trio of arriving students who he knew absolutely nothing about, and began to perform a flashy spell. It would be even flashier when cast on so many objects in a fraction of the usual amount of time. He skipped over a few things that shouldn’t be jostled and a couple he preferred to keep close to his person. He thought about experimenting a little, giving the spell a bit of a twist so that his luggage would all twirl about amusingly as it followed him out of here and across campus.
+
+He decided he was too tired and annoyed for that. He’d just finished packing up his room at Matadero so that he could leave with all possible haste, as ordered by an ambassador much more capable than Bash-nor but hardly more likable in this instance. Ro hadn’t planned on this trip to Earth, but having found himself there, he’d been making the most of the opportunity. Now, ideas he’d been in the middle of developing, reports he’d just started writing, and a few questions that might have been answered once he’d carved out a bit more freedom to explore the human world would have to be set aside. None of it had been important enough to really fight for, but this sudden interruption was still inconven—
+
+“What are you doing?”
+
+With half his thoughts on constructing the spell and half on his misfortunes, Ro had failed to notice a passenger cart entering the summonarium. It and its rider—a familiar, wrinkled man who didn’t look quite right in the luxurious blue and white wrap that his new wizard had chosen as a uniform for him—were already halfway across the symbol-covered floor.
+
+Ro hadn’t realized the campus carts would come inside this building. In fact, he was sure they shouldn’t if they were operating normally.
+
+“What are you doing?” the wrinkled man said again, this time with a roughening of his voice that was clearly disappointment. “Waving your arms around, Distinguished Master Ro-den, and chanting at a bunch of packages! I knew you wouldn’t call those arrogant ones and demand they give you proper service.”
+
+“Hello, Weld.” Keeping this spell going while not chanting should have been impressive enough to silence almost anyone, but his former assistant was still looking at him like he was wallowing around helplessly.
+
+“What kind of service are you giving your new master?” Ro grumbled. “Surely not a proper amount if you’re here frowning at me. You shouldn’t even be near this campus. We’ve talked about why. Several times.”
+
+“She demands that everyone in the household relax on the weekend.”
+
+“How awful of her.”
+
+“I once worked for a Distinguished Master who gave his assistants freedom to use his labs and his own vast talents as they pleased on the weekends.”
+
+“A jewel of a wizard surely.”
+
+“Yes,” Weld said. “He knew better than to let some school assistants treat him like this.”
+
+Weld was someone whose opinions entrenched themselves more deeply when they were challenged. It wasn’t a good quality, especially for a scientist. But having the Grand Senate disrespect the leader of a project he was a part of had turned his loyalty to stone. And his pride and affection for Worli Ro-den had become mountains. He wasn’t one of the assistants Ro would have imagined having this sort of relationship with even a couple of years ago, but here they were now.
+
+He no doubt wanted Ro to roar their defiance aloud to the campus and say they’d all be back on Moon Thegund in an even better laboratory before the turning of another season.
+
+Some of the others held truer images of him in their minds. If they were here, they would have been more critical and willing to give practical advice instead of this prideful bluster.
+
+But Weld was here. And trustworthy. And among the living.
+
+Ro applied himself to the end of the spell and watched all of his things lift into the air except for the few he’d left out.
+
+“Come then,” he said, picking up the habitat full of Thegundese hoppers and climbing into the cart beside the man. “Since you’re here and the spell is done, what reason do I have to trouble myself with some school assistants? Take me to that wretched shed we call my lab.”
+
+Weld grinned at him and tried to bow in his seat. “Yes, Distinguished Master. We all expect great things. You mustn’t forget your way forward.”
+
+“I haven’t forgotten anything. Not out loud with the ‘distinguished’. It would be inconvenient if you were overheard, at least.”
+
+“It’ll be more than distinguished before they can blink at us,” Weld said patting him on the arm. He pulled a hexagonal remote from his pocket, and the cart turned around in a wide circle. It had definitely been stolen and modified. Hopefully for nothing more dramatic than collecting Ro's luggage, which was now trailing after them, every piece bobbing merrily along one after the other in a long line.
+
+The sight, the knowledge that it would annoy so-called superiors who couldn’t manage the same spell on a whim, the kiss of a more comfortable climate, and even the display of loyalty from Weld worked together to put Ro in a better mood. He leaned back, propping his long legs on the seat across from him.
+
+“Let’s hurry along then,” he said grandly. “The speed restriction on these carts has always been tedious anyway.”
+
+Weld beamed. “Yes, Master Ro-den.”
+
+The cart burst through the doors and out onto a campus raucous with klerm calls. They kept picking up speed, and Ro’s possessions chased after them, some of them whistling through the air to keep up. He saw a young woman in a student uniform point down at him from the third floor of a building. He saw Professor Newyon-darf—tedious man—looking gloomy and disapproving beside her.
+
+People on foot or in carts of their own were scrambling now to get out of his cart’s way. And so many of them were people who had never had to scramble out of anyone’s way in their lives. Word ran ahead of them almost instantly. Everyone was marking Superior Professor Worli Ro-den as an oncoming pathway hazard on the local tellingbush.
+
+He chuckled. “You do know how to welcome a person back, Weld.”
+
+Someone crouched ahead of them, picking something small up from the pavement. Ro prepared to appreciate their scramble. Soon.
+
+Weld leaned forward, hand on the remote, ready to dodge if necessary.
+
+Very soon.
+
+Very, VERY soon.
+
+Ro suddenly understood that Weld was leaning forward because he was also eager to see a student leap out of the way, not because he was preparing to steer them clear of trouble. And at the exact same time, he realized who the boy crouching in front of their oncoming cart, collecting a pestilential klerm of all things, was.
+
+If the boy had only turned his head a little earlier so that Ro could have seen the bald side…
+
+If Ro had thought to ask Weld what exactly he’d modified on this cart and which of the normal safety features were still intact…
+
+If the strange little beast had just moved out of the way like everyone else…
+
+But Sina Stu-art’h stood and turned slowly, one hand holding a klerm and the other a jewelry case. He stared directly at Worli Ro-den with eyes that were nothing like his father’s. And everything like them.
+
+Ro understood the situation he was in. It was too late to make any choice but an expensive one. He gripped the container full of hoppers, wrapped one arm around Weld, and sent their cart careening backwards.
+
+Without any spell or preparation at all, it was a gargantuan effort that barely left his authority strong enough to activate one of his defensive rings. The ring was a beautiful piece of work that created a brief protective field around him and anything that touched his flesh, and it would save them from whatever happened next…
+
+Which turned out to be nothing more than the sudden backward motion of the cart. Weld hadn’t messed with the most important safety features after all. The vehicle, interpreting the series of irregularities and deciding it was either crashing or catching stray spells, sealed them in with opaque white walls that hid the disaster Ro knew must be taking place behind them.
+
+He wished the walls would stay for a while, but they disappeared all too soon. He let go of Weld, who’d been stunned into silence, and turned in his seat to look back along the path behind them.
+
+The massive movement of his authority to stop the cart had broken the comparatively delicate attachment the levitation spell had to him as its caster. The procession of his personal belongings had crashed, at the speed they’d been traveling, toward the ground. They were strewn almost all the way back to the summonarium. Everything important or dangerous had been stored in enchanted containers, but he saw several of those enchanted containers rolling around in public view. His favorite kettle glimmered among the carnivorous plants. Some of his underwear was festooning a tree.
+
+He whirled to see the culprit.
+
+Some students would have been kneeling or wailing their apologies. Some would have fled. Some would be calling parents or other instructors.
+
+Stu-art’h had approached the cart while its walls were up and now stood an arm’s length away. He was silent, and his eyes were roaming every bit of Ro’s body like he was searching for something.
+
+Unnerving.
+
+“You didn’t even know if this cart would run over people or not,” the boy said in the tone of someone collecting a fact. His eyes traveled over the backs of Ro's hands, his fabric covered knees, his tattooed scalp.
+
+“I’m not injured,” Ro said. “Why didn’t you move?”
+
+Stu-art’h’s eyes finally detoured from their journey to meet his. There was something even more peculiar in that gaze than usual. “Why should I have?”
+
+“Well,” said Ro, “as nice as seeing you always is, please take your klerm and go somewhere where I won’t see you. You can even skip our next class together if you want. You’ll have not only my permission but also my gratitude.”
+
+The boy blinked.
+
+Finally.
+
+Then, he leaned even closer. “I’d tell you that you should feel shame for this,” he said. “But I think you are probably doing much worse than making the pathway hazardous, even at this very moment.”
+
+Ro frowned.
+
+“I think you might be evil,” Stu-art’h said. “I’m going to find out if you are. And then I’ll fix it.”
+
+Ro had just been told to get off a planet by an accomplished ambassador. It made no sense that this conversation was so much harder to manage.
+
+“Thank you,” he said. “I enjoyed your last attempt to save me. Very much. I’m just coming from Earth, in fact, which is better off than it was when you so passionately suggested I go there. I have brought honor to LeafSong and therefore to students like you! I’m becoming a better man every time we talk. Be glad! And go away.”
+
+The Primary’s son stepped away. He turned.
+
+Thank every fruit-bearing shrub.
+
+The boy looked back over his shoulder as he stepped into an arriving cart of his own. “I meant that I’m going to fix the evil you’ve done. Not that I’m going to help you.”
+
+Ro watched the cart leave. It dodged a pair of his pants and the chest that held some of his wands.
+
+“Why do I feel like I’ve been threatened?” he asked Weld. “You heard him squeaking at me. What does he want? And what does he think I’ve done?”
+
+“What have you done to him?”
+
+“I don’t know! It’s quite disconcerting.”
+
+“I’m sure it’s not important, Master Ro-den. There is nothing evil about you. Let me help you collect your things.”
+
+I miss Thenn. She’d say something truer.
+
+******

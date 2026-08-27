@@ -1,0 +1,243 @@
+---
+id: f35ecb21-aac4-5a4a-ac83-0d49938a8b1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 486: World Boss"
+slug: 0012-chapter-486-world-boss
+partOf: system-change-system-universe
+position: 12
+ownLength: 2114
+unit: words
+ownProgress: 2114
+publishedAt: 2024-12-11
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1950336/chapter-486-world-boss"
+royalRoadId: "1950336"
+markedReadAt: "2026-06-29T19:57:07.635Z"
+---
+
+Chapter 486: World Boss
+
+“Looks like all that’s left here is an Echoing Stump,” Derek said to Avery and Edgar, who were standing at his left and right, respectively.
+
+“Uh…” Edgar muttered.
+
+Derek tilted his head in confusion. “What is it?” He looked over at Avery and saw that the archer was looking forward with raised eyebrows and wide eyes. Avery met his gaze, and the archer smiled.
+
+“Just check your notifications,” the archer said. “I think you’ll be pleasantly surprised.”
+
+I guess there were a few notifications after toppling the tree, he thought. He hadn’t bothered checking any of them yet, but since it looked like there might be something good—considering how his two friends were reacting—he guessed that he’d go ahead and give them a quick browse.
+
+You have assisted in killing level ??? Echoing Willow
+
+8,800,000,000,000 Experience Gained
+
+8,800,000,345,850/11,600,525,450,650 Experience to Next Level
+
+“Whew.” Derek whistled. “That’s a lot of experience gained for a single kill—especially when splitting it between five people.”
+
+“Yeah…” Edgar muttered. “Ignore that. Check your next notification.”
+
+Derek shrugged. He wasn’t exactly all that excited about checking his notifications. After all, in order for him to gain Achievements or Titles, he had to accomplish a great feat that would require the Great System to request assistance from the Origin System to gain a reward. Now, the tree was tough and all, and he doubted he would have been able to beat it by himself, but he figured that he and Silvi could have taken it out as a duo. Actually, Silvi may have been able to do it herself with enough mana.
+
+Oh well, Derek thought before moving on to the next notification.
+
+…
+
+Congratulations!
+
+New Title unlocked!
+
+User cannot currently receive Titles.
+
+…
+
+Now that’s a familiar sight. Just like before, when he gained ‘The Impossible’ Achievement, the Origin System had made itself known before the Great System came in. He hoped that everything else would play out the same as before.
+
+…
+
+Advance to receive unlocked Titles.
+
+One out of two requirements met for advancement!
+
+Meet more requirements for advancement.
+
+Congratulations on all your current accomplishments!
+
+We eagerly await your future achievements!
+
+…
+
+Looks like whatever this Achievement is going to be wasn’t enough to push me through whatever the second requirement is. Oh, well… Derek then moved to the next notification.
+
+Achievement ‘World Boss’ Unlocked
+
+???????
+
+Requesting assistance from another system…
+
+Requesting assistance from another system…
+
+“Oh, damn!” Derek blurted out.
+
+“I know, right?” Edgar replied. “I’ve never even heard of a World Boss before.”
+
+“Yeah…” Derek replied. He had heard of World Bosses before. Not through the systems, but from different video games from before the system took over Earth. Looks like they got the same Achievement, he thought. But it seems like the Great System was able to reward them, while it has to request aid to reward me. Still, it’s a good sign, at least—especially since the Origin System has already sent a notification. Surely it will assist again.
+
+Derek waited while the system requested assistance.
+
+Requesting assistance from another system…
+
+Requesting assistance from another system…
+
+Connected to other system…
+
+This time, it didn’t take as long to connect to the other system as it had when he earned ‘The Impossible’ Achievement. Does this mean that it’s not as good? He questioned internally. Honestly, permanent stats are a crazy reward. I doubt I gain anything like that again. While he was thinking, an all too familiar notification flashed in front of his eyes again.
+
+…
+
+Request for assistance received…Scanning request…Information obtained…
+
+…
+
+Here we go again, Derek thought. Now, all he was waiting for was another line to pop up, showing that the assistance had been given. And he was not disappointed.
+
+…
+
+Help requested in granting system (Achievement)…(Achievement) Scanned…(Achievement) similar to received Title…Assistance Granted
+
+…
+
+This time, he didn’t feel the increase in power wash over him like before. It looked like he wasn’t gaining another permanent increase in stat points again.
+
+…
+
+Title removed…
+
+(Achievement) granted…
+
+Congratulations on all your current accomplishments!
+
+We eagerly away your future achievements!
+
+…
+
+With all of that out of the way, Derek moved on to the next notification.
+
+Achievement ‘World Boss I’ Unlocked
+
+Permanent 5% of Total Stat Points Gained or 350 Free Stat Points Gained (The Lesser of the Two will be Rewarded)
+
+3 Skill Upgrade Points (Origin System) Received
+
+Oh… wow, Derek thought. It actually did reward me stat points… and free ones at that. He currently had 386 stat points sitting in his status sheet that he could distribute anywhere he wanted. It was hard for him to see his vitality and endurance stats sitting at 1655 and not adding 345 points to one of them just to see if hitting 2,000 in a stat would give him anything else. However, now was not the time or place, so he held off.
+
+It’s been a while since I saw Skill Upgrade Points, he thought. Though, the Origin System designation is interesting. Is that just something that Dave added on to show that he—or the Great System—isn’t the one that would be increasing my skill level? Could they be used for something else entirely? He couldn’t help but wonder what the difference was. What if they can push skills over level 20? That’s definitely something to try later.
+
+“Oh…” From beside Derek, he heard Avery mutter. “I see now…” The man turned around and looked down at Alanah.
+
+“What?” Derek leaned in and asked in a whisper. Avery looked around, and his eyes locked onto Edgar. He shrugged.
+
+‘Can you hear me?’ Avery sent to Derek via Telepathy.
+
+‘Yeah,’ Derek replied. ‘What is it? Why so secretive? I’m sure everyone got the same Achievement for defeating the World Boss, right?’
+
+‘Yes,’ Avery said. ‘Requirements… for… advancement.’
+
+‘Oh…’ Derek replied. ‘I see.’
+
+‘I distributed my points like Alanah told me to. I now have four stats at 1,500 points each,’ Avery explained. ‘So, the reason she’s in such a rush to do everything—including coming back here, of all places—is because of those requirements, isn’t it? She has both of them met, doesn’t she?’
+
+‘Yes,’ Derek answered. ‘But now that you have that unlocked, you need to speak with her. She should be able to tell you a bit more than she could before.’
+
+‘So, you know all about it?’ Avery asked.
+
+‘More than most,’ Derek confirmed. ‘But there is a lot… and I mean a lot, that I can’t speak about to anyone without pissing of a system.’
+
+‘I see,’ Avery said. ‘Thank you for looking after the Mistress. I’m glad she found someone like you to help her.’
+
+‘It was my pleasure,’ Derek replied.
+
+“I’m heading down,” Avery stopped his Telepathy and spoke aloud. The next instant, he disappeared. Derek turned his head and looked down at Alanah and saw that the man was already standing next to her with a big smile.
+
+Huh… Avery might get to her before I do, Derek thought. I’m sure he’s not far away from whatever the other requirement is. Not bad for someone who only had an epic ranked class when he first reached level 250. Alanah really pumped his stats up with all that Void Beast cooking, didn’t she?
+
+“That was much more rewarding than talking politics with my family,” Edgar said from the side. “250 Free Stat Points isn’t bad, is it?”
+
+“250?” Derek started. “Oh… you mean for the Achievement. Yeah, that’s not bad at all.”
+
+“And the two Skill Upgrade Points are awesome, too,” the prince said. “Man… my brother and father are going to be extremely jealous.”
+
+“Just out of curiosity,” Derek started. “How many stats do you have to 1,500 points?”
+
+“Just the one right now,” Edgar replied. “My wisdom stat. And I’m about to have 1,500 in my intelligence stat once I distribute these points.”
+
+“Don’t,” Derek said.
+
+“Don’t?” Edgar asked.
+
+“Edgar… do you consider me a friend?” Derek asked.
+
+“Of course,” Edgar said. “One of my only, actually. I mean, I have other ‘friends,’ but they are also my soldiers or trainees. It’s hard to maintain friendship when you have more power and command over people. I don’t have to worry about that with you. I actually dropped in on my old team once the war was over. They’re in good hands and are doing just fine without me.”
+
+“I’m sorry,” Derek said.
+
+“It is what it is,” Edgar replied. “Now, why do you ask? Do you not consider me a friend?”
+
+“Oh, no…” Derek replied. “I was just thinking about it, and I do. Both you and Avery.”
+
+“I see.” Edgar nodded.
+
+“But if you consider me a friend, don’t put those free stats in intelligence,” Derek said.
+
+“But increasing my intelligence—breaking through with it—will put my strength on a whole new level,” Edgar explained.
+
+“Yes, it will,” Derek said. “But intelligence is one of the few stats that is very easy to get out of Void Beast meals—along with strength and endurance.”
+
+“I know,” Edgar said with a nod. “I’ve had a bit.”
+
+“Then let me supply you with those,” Derek said. “Or, not that, necessarily. Talk with Alanah—I think that she would be more than happy to give you the recipe now. Then we can go hunting.”
+
+“You think she would do that?” Edgar asked with wide eyes.
+
+“I do,” Derek replied. “As long as you promise not to spread it. I’m sure she trusts you to do the right thing.”
+
+“Then I won’t increase my intelligence,” Edgar said. “Vitality it is.”
+
+“That is a good choice,” Derek said. “It’s a hard stat to get—along with dexterity.” Derek liked Edgar. Like Alanah, both Avery and Edgar were able to fight beside Derek without being a hindrance. Of course, Alanah was on a different level, but Derek had a feeling that both Edgar and Avery could get to that level as well. As for Tyron… Derek liked the smith, but he wasn’t sure if he considered him a good friend yet—more like a friendly acquaintance.
+
+The man was too consumed with his crafting to really get to know. Besides, Derek was sure that he’d be over the moon with his new stat points and materials from the tree. The Walking Forge really earned them in that fight.
+
+Derek and Edgar spoke for a few minutes, then they both came down off of the broken trunk of the former World Boss. Soon, everyone gathered at the base of the tree—the molten lava having finally gone away.
+
+“We’re taking this whole thing,” Derek said out of nowhere.
+
+“The whole thing?” Edgar looked at the tree and took a deep breath.
+
+“Yes,” Derek replied. “Silvi,” he said.
+
+“Yeah?” his companion replied.
+
+“Sorry to ask this of you, but are you okay being the workhorse for now?” Derek asked.
+
+“I’m not a horse,” she replied.
+
+“I mean… nevermind,” Derek said. “Are you good to transport this tree if we store it in rings? You can drop it all off by the dragon kennels.”
+
+“Only if I can have a lot,” Silvi said.
+
+Derek looked around at everyone, and they all shrugged. “I’m sure you’re going to have more than you would ever need,” he said. “Can you do it?”
+
+“I can,” Silvi said. “Will need mana potions though…” the bunny tilted her head and looked at the giant dead tree. “Lots and lots of them.” Instantly, everyone but Derek dropped a bunch of mana potions in front of the bunny. “It’s a start,” she said. Then she formed a portal, tossed all of her stuff in her pot, and made to hop in.
+
+“Wait,” Derek said. “What are you doing?”
+
+“Storage rings full,” Silvi said. “Need to go empty.”
+
+“They’re full…” Derek muttered. “You know what? Nevermind. Just do what you need to do.”
+
+Silvi nodded, then hopped inside her portal. She didn’t bother closing it behind her. She was a smart companion, no matter how dumb she might act at times, and she knew that it would be easier on her mana if she left it open. After all, she didn’t have to worry about anyone going inside and dying at the moment.
+
+“Okay,” Derek said. “Now that transport is taken care of…” he looked at Tyron. “Time for Dismantling.”
+
+“I’ll get on it,” Tyron said. He was obviously the best person for the job.
+
+Of course, that didn’t mean that everyone else wasn’t going to help. Everyone scattered and began dismantling the massive tree. It was going to take a while. Later on, Alanah emptied a few storage rings and handed them to Silvi so she could carry more. Both Edgar and Avery did the same.

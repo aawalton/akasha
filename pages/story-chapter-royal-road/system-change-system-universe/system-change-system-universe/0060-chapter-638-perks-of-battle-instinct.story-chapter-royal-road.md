@@ -1,0 +1,173 @@
+---
+id: c7650da6-c82d-5373-80b8-c193b468fbf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 638: Perks of Battle Instinct"
+slug: 0060-chapter-638-perks-of-battle-instinct
+partOf: system-change-system-universe
+position: 60
+ownLength: 2096
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3189910/chapter-638-perks-of-battle-instinct"
+royalRoadId: "3189910"
+---
+
+Chapter 638: Perks of Battle Instinct
+
+“A dragon?” Derek asked back. “Of course not… it’s a wyvern.”
+
+“That…” Alex sighed. “You even brought a low-level, legendary-tier dragonkin along with you from another system. Yet… you are bonded with a horned rabbit. Your companion must be something special.”
+
+“She is,” Derek replied. “And Blitz is bonded with Edgar over there, by the way.” He pointed over at Edgar, who was discussing something with Jace.
+
+Alex followed where Derek was pointing, then nodded when he saw Edgar. “I see. It is not a bad idea to have the weakest of your fighting party bonded with a legendary creature. With the right conditions, the wyvern could evolve into a dragon, and then possibly even an Ancient Dragon, and help your friend in the process as long as they continue to share the same exact affinity. But the bond would likely need to be broken before the evolution to Ancient Dragon, that is. They are Ascendant rarity creatures, after all.”
+
+“Maybe you can talk to him about that sometime. It really doesn’t have anything to do with me,” Derek said. “But for now, we have to find that teleportation device or base camp with a fixable or working one.”
+
+“As I said before, as long as we can find a landmark or something that is recognizable to me, I can get us on track easily,” Alex replied. “Though… that may not be easy.”
+
+“For now, we’re just going to rely on our current method of searching that led us to you,” Derek replied, then looked over at where Jace and Edgar were talking. “Jace!”
+
+Jace turned and looked at Derek before finishing saying something to Edgar, then walked over. “Yeah?” he asked.
+
+“Where to next?” Derek asked.
+
+“We’re done here?” Jace asked.
+
+“Unless you want to go dismantle and store the rest of the materials from those striders,” Derek said. “But for some reason, I get the sense that their skin and bones aren’t worth much in terms of credits or materials for crafting. Or am I wrong, Alex?”
+
+“You are not wrong,” Alex replied. “Kethian Strider nests can be found in a lot of areas on many planets. They are the…” the young man looked over to Silvi, then continued, “they are the horned rabbits of epic tier level 250ish monsters. You can get some good meat from them, but nothing really restaurant-quality. That’s about it.”
+
+“How many credits would a whole intact corpse fetch at the System Shop?” Derek asked, curious.
+
+“At their levels? Hmm…” Alex scratched his chin in thought. “Maybe five hundred credits per… slightly more for ones with rarer affinities. Likely no more than a thousand.”
+
+“Oh… that reminds me,” Derek said. “Would you say that a million credits is a large or small amount?” he asked. He had a bit over a million credits to his name, and he hadn’t had a chance to ask anyone about it, so, with Alex there, it was perfect.
+
+“I wouldn’t say either,” Alex replied. “I guess… for our levels… it is on the higher side. You could get a nice Mythical tier weapon and armor for that much, but nothing custom-made for you… well… you may be able to get a nice custom-made legendary set. Or a piece or two of Mythical armor, but that would be worthless without a full set’s ability, really.”
+
+“I see…” Derek muttered. Alex was right. That seemed to be neither a small nor large amount. “So… three million could get a full custom Mythical set of armor?”
+
+“If you found a good deal… it could,” Alex replied. “Four million is more common.”
+
+“And a weapon?”
+
+“Custom-made? Hmm…” Alex thought about it. “Three million could get a good one. Two million could get a cheaper custom one. And a million could get a non-custom, low-tier Mythical one.”
+
+In that case…Derek thought, then walked over to the pile of strider corpses. Everyone had taken any that they wanted, and the rest were just lying there. There was no telling how long they would be on the planet, and the sand stingrays already took up a lot of space in their storage devices, so it looked like nobody wanted the striders.
+
+‘Help me put these in my storage,’ Derek said to Silvi, and she agreed. He then turned and ripped a hole in space to open his Void Storage—which most certainly seemed like a skill that wouldn’t draw attention like Void Call or letting his aura out—and Silvi began tossing corpse after corpse inside until they were all stored. He closed the storage and walked back to the others.
+
+“Then… you are a space affinity user?” Alex asked. “I suspected from that space with the wyvern, but wasn’t sure. But now…”
+
+“Something like that,” Derek said without elaborating. “They may not be worth a lot, but there are a bunch of them, and the credits may add up.” Unfortunately, his Void Storage wasn’t the most stable of storage spaces, so he didn’t know how the corpses would be by the next time he opened it. Still, any credits were better than none.
+
+“So, did you figure it out yet, Jace?” Derek asked his friend. “Which way to go?”
+
+“It’s… very interesting,” Jace said after pausing for a second.
+
+“What is?”
+
+“Well… since our new weak friend joined us…” Jace started. “My Battle Instincts have been telling me to go in a couple of other directions that they hadn’t before.”
+
+“And the certain death direction?” Derek asked.
+
+“Still certain death,” Jace replied.
+
+“Okay… so these other directions… death?” Derek asked.
+
+“I’m… not sure,” Jace replied. “I can’t quite get a good read on them. And you know what that means, right? I explained it before.”
+
+“Yeah… system users… people,” Derek replied.
+
+“Exactly,” Jace replied.
+
+“Why would they only show up once Alex joined us, though?” Derek asked. He had an idea, but he wasn’t sure about it.
+
+“I can only think of one reason, really,” Jace replied.
+
+“And the reason?”
+
+“Because… when he wasn’t with us, there wouldn’t have been a fight at all. But now that he is with us, things have changed, and my Battle Instincts are detecting them as a threat now… Hey… I have an idea,” Jace said. “If you want to entertain an experiment of my skills with me.”
+
+“I do like a good experimentation of skills,” Derek replied. “What do you need me to do?”
+
+“I need you to put the new kid inside your prison,” Jace replied.
+
+“Prison? I don’t want to go into a prison!” Alex spoke up. “Also… you have a prison?”
+
+“That’s what it’s called, but it’s the room that the wyvern you saw was in,” Derek replied. Then, he telepathically sent a message to Amelia. He had the oaths and stuff, but he still didn’t quite trust Alex. Seconds later, Amelia landed beside him.
+
+“What do you need?” she asked.
+
+“I need you to go inside my Time Prison with Alex and make sure he doesn’t do anything stupid,” Derek replied. “If he does… well… I’m sure with your current physical strength, there won’t be any problems.” Of course, they would be disconnected from the system—so that is why he chose Amelia. Her physique as a Volcano Giant was still ahead of others for the time being.
+
+Amelia nodded, then Derek opened the Time Prison once again. This time, Alex and Amelia went inside, and he shut the door and closed the space behind them.
+
+“Now what?” Derek asked Jace, and Jace closed his eyes.
+
+“How interesting!” Jace half-shouted.
+
+“What?” Derek asked.
+
+“The two directions disappeared again,” Jace said. “So… with Loony not outside, there likely wouldn’t be any conflict with the users. You know what that means?”
+
+“Yeah… I bet one of the groups has that Adrian guy, and he actually betrayed Alex without breaking any oaths,” Derek replied. "Can't be sure, but Alex seems a little... naïve, so I wouldn't put it past someone like his escort doing something like that. Of course, I could be wrong."
+
+“Oh… I didn’t think that… I just figured that the two directions had clans or houses that were against the Loony house,” Jace said.
+
+“Loomis,” Derek replied.
+
+“Too hard to remember,” Jace said.
+
+“But yeah… that's likely it. His escort being in one of the groups is more unlikely than what you said,” Derek replied. “But still, it's a good thing to know. Having him out is a direct line to one of the portable teleportation devices. Did anything else change with Amelia gone?”
+
+Jace closed his eyes, then opened them and shook his head. “There is an extra directional pull, but it doesn’t seem too fun.”
+
+“And the deadly way is still deadly?” Derek asked.
+
+“Yeah…”
+
+“Okay, I have another idea. I was actually thinking about this before,” he said before calling everyone to him. When they all gathered around, he said, “I’m going to need everyone to go inside my Time Prison other than Jace.” Without allowing for questions, he opened the door again, and they all went inside. Since there was nobody patrolling, he quickly shut the door and closed the space.
+
+“Now check it out,” Derek said.
+
+Jace smiled, nodded, and then closed his eyes. Derek watched as his smile grew into the unsettling grin it always did when he was in a great battle. Soon, he opened his eyes and looked at Derek. “The certain death is no longer certain.”
+
+“Because I don’t have to worry about saving other people,” Derek said.
+
+“Of course, the certain death from before was my death… I don’t think my Battle Instincts care about you or the others… just about the assistance provided,” Jace said. “With you only focusing on keeping me alive until my Battlelust grows high enough, there is a chance I make it out alive. When your focus is split… I’m as good as dead… at least… that’s what I imagine.
+
+“It’s… not a bad guess,” Derek replied with a shrug. “With just the two of us, we are more mobile, and once your Battlelust grows… we’re pretty strong.” Derek nodded. “So, what do you think? What do you want to do?”
+
+“What do I want to do?” Jace asked back. “Of course… I want to go with the more deadly option now that there’s a non-zero chance that we survive.”
+
+“Okay… how about this… what should we do?” Derek asked.
+
+“That… obviously we should go track down one of these users… or groups of users and see if we can’t get a teleportation device,” Jace replied with a sigh. Then, his smile came back. “Then, we send them to the prison and go have some real fun afterward!”
+
+“You really don’t want to leave this place until you find out what the thing is that is giving your Battle Instincts so much dread, do you?” Derek asked.
+
+“Do you?”
+
+Derek thought for a bit, then smiled. “I don’t,” he said. “But the difference is that if I die, look at how many other people die as well.”
+
+“True…” Jace replied. “How about you go inside your Time Prison and let me see what everything is like for only myself? You know… since I won’t be going to that Origin City with you. It may be fun to stay here for a while.”
+
+“Sure,” Derek replied, then opened and went inside his Time Prison. Not long after, he came out. “Well?” he asked.
+
+“Yeah… things are much more deadly when it’s just me out here…” Jace said with a chuckle. “But it should be fun enough for me.”
+
+“When I get to Origin City and meet Dave again, I’ll have him really check and see whether it is okay for me to use Void Travel or not. It’s likely that it’s fine, but if I can get some assurances from him while in the Origin System, then, if you choose to stay here, I could always come back and fight that monster with you or pick you up and take you somewhere,” Derek said.
+
+“Or we could borrow an extra teleportation device,” Jace said with a smile.
+
+“Or we could do that,” Derek replied. “Alright… I’m going to let everyone out. After that, you pick the group of users that seems likely to be the easiest to deal with. That will be our first move.”
+
+“Sounds like a plan!”
+
+“And people say my abilities are like cheating,” Derek laughed.
+
+“But you don’t have to try to control the urges that might get me killed,” Jace snorted.
+
+“Let’s bring the others out.”

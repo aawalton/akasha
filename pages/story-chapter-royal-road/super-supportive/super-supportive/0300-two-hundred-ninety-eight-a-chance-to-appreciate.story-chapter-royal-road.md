@@ -1,0 +1,369 @@
+---
+id: ba1fb8c6-1b9f-5931-ad23-29505f620cf2
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-EIGHT: A Chance to Appreciate"
+slug: 0300-two-hundred-ninety-eight-a-chance-to-appreciate
+partOf: super-supportive
+position: 300
+ownLength: 5415
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3692436/two-hundred-ninety-eight-a-chance-to-appreciate"
+royalRoadId: "3692436"
+---
+
+298
+
+******
+
+Alden hurried into the teleportation area at Matadero on Saturday morning, his nose still cold from a swift flight over, and found Esh-erdi and Lind-otta waiting for him.
+
+“Good morning! I hope your family likes these,” he said, holding up the bag of oranges that was his only luggage for this trip other than what he carried in his messenger bag. “And that I brought enough. I’m not sure how many relatives you have.”
+
+Esh-erdi was already waving him into a teleportation alcove. “Naturally, you’ve guessed that my offspring outnumber the art’hs and their names sing throughout the universe.”
+
+Alden looked to Lind-otta.
+
+“Esh has no offspring. You’ve brought plenty of fruits.”
+
+“I’m glad. I gave Stu’s family oranges, and they seemed to like them.”
+
+“Esh’s nieces will enjoy them, though they might be too excited by a human guest to appreciate them while you’re there.”
+
+“I feel like I’m being ignored,” said Esh-erdi. “It’s such a strange feeling that I’m sure it can’t be true.”
+
+“You’ll have to look after him for me, Alden,” Lind-otta said. “I’m going to the Rapport as well, but I’ll be in the city to meet with some people. You’re visiting a different area.”
+
+“I’ll try.”
+
+A couple of his oranges ended up in Lind-otta’s pockets before they teleported away.
+
+******
+
+“No trees.”
+
+“These want to know what you think they are.” Esh-erdi swung his arms wide as if to embrace the landscape that surrounded them.
+
+This summonarium was an open-air pavilion with a roof that extended halfway across the lazy brown river that bounded one side of the structure. A long, unmanned barge loaded with humps of covered cargo was approaching. On the opposite side, Alden and Esh-erdi faced a stretch of nature. It was mostly yellow-green grass that was too tall to enjoy walking through and tan-barked trees with sparse branches and pillowy tuffets of leaves as their crowns.
+
+“Sorry. Those are trees. I associate Rapport I so much with the forest that I started imagining every Rapport had the same kind of trees. I know that was illogical. Stu even told me their history. It wouldn’t make sense for those to be here on a different continent.”
+
+Rapport III was on the other side of an ocean, near the equator. Midday would be approaching at the art’h siblinghold, but they were only a couple of hours from sunset here.
+
+“Rapport folk travel freely between the Mother’s seven Rapports, and the culture we’ve woven makes us much more alike one another than like outsiders. But at the same time, each Rapport has its own way about it.” Esh-erdi turned his face toward the sun, looking downriver. “I’ve brought you here to show you lovely things, and to answer your questions about less lovely ones, I suspect. It’s past the proper time for that conversation we keep promising each other. This seemed like a place where words would sound better than they do at Matadero.”
+
+Am I getting a tattoo this weekend, then?
+
+One for Matadero shouldn’t be much of a problem for him, and it was long overdue.
+
+But I only just got free of the last one.
+
+“Don’t sigh yet,” Esh-erdi murmured. “I haven’t even told you anything unfortunate.”
+
+“I’m grateful to be here,” Alden said since he couldn’t deny the sigh. “I want to know all about the Rapports, knights, you and Lind-otta, Goldbush, oaths, chaos everywhere, chaos specifically on Earth, how a knight like you thinks the war against it is going…if it can be won…I want to know everything. Stuart and I—Stu and I—talk a lot. But there’s only one of him, and recently, I’ve thought of more questions. And bigger ones.”
+
+“That’s a large basket to sort through!” Esh-erdi patted him on the back. “For some reason, I once worried you were nervous about asking me for things. I won’t answer all of those. We don’t have time.”
+
+“I don’t mean to be grab-greedy. I know you’re a person who has things to do.”
+
+“One of the things I wanted to do when I arrived on Earth was meet humans worth remembering. And I have. You’re one of them. A very good representative of your planet.”
+
+“I’m not sure how many humans would agree with that.”
+
+“You’ve shown me some of Anesidora,” said Esh-erdi. “I’ll show you some of my home.”
+
+Alden looked around them. “It’s nice here. How do we leave this summonarium?”
+
+There were no roads or paths leading to where they stood and no sign of vehicles other than the barge, which had just paused to have its cargo teleported off. He didn’t see any terackerins around.
+
+Esh-erdi pointed up, and Alden heard a chime that reminded him of the carts at LeafSong. An airy bubble of a flyer dropped down to hover at the edge of the summonarium, its bottom brushing the tips of the grass blades. On the side facing them, a hole had already opened to allow entry.
+
+Alden followed Esh-erdi into it and sat on the soft white bench. Looking up through the clear dome, he could see cloudless blue.
+
+“A chance to appreciate the sky,” he said.
+
+“A chance to appreciate the sky,” Esh-erdi echoed, taking a seat across from him as the bubble sealed. “So you’ve picked up that type of thankful saying? I was always in a hurry as a boy and never happy to make journeys in any way but the fastest. I was scolded once for announcing that my family could have had a chance to appreciate the sky instead of the <<marsh>> slipper we were boarding.”
+
+“I heard some adults talking to children about manners while traveling during the Here-to-There. ‘A chance to appreciate’ was mentioned a lot. Is it always appropriate?”
+
+“Some would say not to comment on the beauty of the sky while falling through it to your death, but I think that might be the best time of all.”
+
+Alden laughed.
+
+The bubble rose to a height just above the summonarium’s rooftop before it set off, following the river downstream. Esh-erdi crossed his legs. “We’ll have the night for more serious conversation. For now, I’ll tell you about this Rapport since you were surprised not to see the trees you expected.”
+
+“I know those are ancestral art’h-related trees. My thoughts were just off.”
+
+He definitely knew. After all, he was wearing one of their leaves against his calf right now, with his auriad. He hoped the forest would enjoy learning about his trip to another Rapport in whatever way it was that a forest enjoyed things.
+
+“It’s understandable. Those trees leave an immense impression. We do have a few here, but that’s because they embody the connection between our Rapports. They don’t usually grow in sensible climates like this one.”
+
+The weather was in the mid-nineties Fahrenheit and so humid it felt hotter. Alden’s pezyva and sleeveless shirt combo was doing its best, but he was glad most of this trip would be during the local nighttime.
+
+“You’re familiar with the first Rapport,” said Esh-erdi, “which lies on land that fell under the rule of the art’h family long ago. They claimed even more than that once. And nobody ever took it from them, either. Their winters and their wizardry were too much to deal with. I think they were only tempted into interacting with the rest of our planet because they wanted better food. The first record we have of one of your friend’s ancestors in this part of the world is from somebody complaining that a woman with the power of a century storm had come from across the water to take all the summer’s bundlefruit and ‘the two men the vines loved most’.”
+
+“This…would have been thousands of years ago?”
+
+“Yes. The art’h name wasn’t recorded, but we know it was one of them because of the descriptions of her magic and language.”
+
+I wonder if she carried a walking stick. I bet she did.
+
+Another barge was on the river below them, heading toward the summonarium.
+
+“Chaos happened at some point,” said Alden. “The center of Rapport I is mostly the trees because of a major chaos incident. They’re part of the magic that protects this planet. There’s some situation like that here, too?”
+
+“There is, but you can’t see many signs of it from here. We’re near the edge of Rapport III. If you crossed the river and walked that way, you’d reach the border before sunset. If you go the other way, toward our interior, you’ll start to notice more obvious evidence that chaos once struck here. You might run into one of our training fields. And you’d find the homes of knights who enjoy the countryside along the way. This territory is smaller than the first Rapport, but we have a much larger population. Significantly larger than any other Rapport. Most of those people live in our city. Wathe. It stands near where this river, Wathe’s Ribbon, meets the sea.”
+
+“How do knights decide which Rapport to live in?”
+
+“As long as everywhere is <<well-guarded>>, it’s personal preference. Rapport III is in the middle of the most densely populated coastline on Artona I. It’s as exclusive as all Rapports, but more visible. I was born south of here. Not far. I saw votaries and occasionally even knights visiting places I knew. Their homes weren’t so distant from mine, but their lives were much more interesting and impressive. Eventually, seeing became desiring, and now I’m sitting here, the most interesting and impressive of them all!”
+
+Alden wanted to agree with him since he held the all-time record for catching up to his partner in power, but he wasn’t sure how to say he admired that without it sounding wrong.
+
+“So you weren’t raised in the Rapports. You came from outside before declaring.”
+
+“No knights among my ancestors,” Esh-erdi said. “I chose the path of highest onus after a youth spent looking toward the edges I could see of this Rapport. I imagined something different than the truth of it, and that’s the same for many young people today. Most change their minds before they join us, but many become votaries. A few become knights. Wathe is primarily a city of votaries. A lot of boring necessary business is done there. I’m a knight, so I don’t have to help with any of it.”
+
+The walls of their flyer briefly changed. Instead of a window to the real view outside, they suddenly displayed a sprawling city of low buildings with streets winding between them like rivulets on their way to the ocean.
+
+“That’s Wathe,” said Esh-erdi. He waited for the scene to fade before speaking again. “Some people come from outside like me. But we do have our renowned knight families here in Rapport III. You’ve even helped save the <<wayward>> daughter of such a <<clan>>. If only we lived in different times! You could demand Zeridee-und’h’s weight in manyadeeth from her parents. Actually, you should try that anyway. It will be years-funny, and there are some und’hs old-fashioned enough to try to fulfill the request even if her parents don’t.”
+
+Alden had to read the definition of manyadeeth. It was a pigment extracted from tiny sea creatures.
+
+“What am I going to do with Zeridee’s weight in pink dye?”
+
+“Well, you could’ve bought an estate with it at one point and still had enough left to stain every stone. Now, though, you could show it to her and see the look it puts on her face, which is much more valuable.”
+
+“Are the und’hs like the art’hs?”
+
+“No.”
+
+Esh-erdi said it so quickly that Alden wondered about it.
+
+“They’re alike in ways that all knights share. And the und’h name belongs to a more diverse group of knights and votaries than art’h does, so there are some running around here who might slide comfortably into the siblinghold. But I would expect them to be different. More difficult for you to get along with. Though I don’t plan on having you meet any old enough for that to matter on this trip.”
+
+“Old enough?”
+
+“I won’t be surprised if there’s a small und’h with my nieces. They get to select their own lessons later in the day. This season they’ve chosen to learn about rocks. We’re going to rescue their instructor from them.”
+
+“Are we really going to tell them stories?” Alden asked.
+
+“You don’t have to, but a good story might be the only way to save yourself from their questions. It’s not enough to save you from mine, though.”
+
+“Do you have questions?” Alden asked.
+
+“I do,” said Esh-erdi. “I’m sorry to ask you to share what might be the private thoughts of a friend, but Lind and I would like to understand what his wants are without letting him know we’re thinking of doing anything about the matter.”
+
+“You want to know something about Stu?” asked Alden. “Or is it Kon?”
+
+“We could freely talk to either of them ourselves if we needed to. But Lute Velra…” Esh-erdi’s voice had an indecipherable note in it. “Does he prefer having only one eye?”
+
+Alden’s answer was only slow in coming because his thoughts had been miles away from there.
+
+“No. Of course he didn’t want for that to happen.”
+
+Are they thinking of doing something about that? For Lute…this would be so, so great!
+
+“He wanted to get it healed, but there was some reason he couldn’t,” Alden explained, leaning toward the knight. “He said something about his family lying to him about how easy it would be, then finding out it was really expensive in some way. He said he couldn’t afford it. I know he couldn’t have meant money because the Velras have too much of that. Because of how it happened, I assumed something magically complicated must be going on. It was a wordchain that made him lose it. It’s called— ”
+
+Alden abruptly realized he didn’t know what the Gloss was called in Artonan. “It’s a big luck chain. Really big. It even affected me. I held the Chainer class during it for a while.”
+
+“We learned how he lost it from your internet. We looked into it after we met him that day when you two decided to help Bash-nor find his way off Earth. The rumors weren’t hard to polish into truths.”
+
+“I didn’t know you were thinking about his eye that day! I’d have told Hn’tyon Lind-otta right then if she’d asked.”
+
+Esh-erdi’s mouth twitched. It wasn’t really a smile. “Neither of us were going to loudly comment on something like that. Servin-ith and some of the others were concerned, too. Because he’s a Chainer, the situation is more of a knot than it should be. Another question for you…does he follow the beliefs of the Palace of Unbreaking himself?”
+
+“Their beliefs? About wordchains needing to be maintained so they don’t break?”
+
+“Not that. Does he believe that protecting wordchains is his <<holy calling>>? Or that most ways of doing magic other than wordchains are <<sinful>> unless done <<in accordance>> with rules set by the Palace of Unbreaking? Does he view himself as a <<special existence>>, pure of the wrong kinds of magic, and therefore worthy of standing before the Palace’s followers as they prostrate themselves?”
+
+“What is Lute’s job?!” Alden exclaimed. “What is it? Why does everything about it sound so weird? He hasn’t been able to talk about it as much as he should because his grandmother makes the whole family get loyalty tattoos before she lets them have the Chainer class. But I know he’s not thinking of himself as a pure existence who stands above people prostrating away the sin of…wizards? Is the Palace of Unbreaking against most wizardry? But his main summoner is a wizard! I think he likes that guy—Parethat-uur—from the way he talks about him. But I also think he thinks Parethat-uur is a little crazy.”
+
+Esh-erdi closed his eyes. “His story yesterday would have been a strange one for him to tell if he viewed his own position as the Palace does. But Lind and I wanted to have your opinion to be sure of ours. The situation must be as we feared, though. <<Vile.>>”
+
+He said the word as if he wished to splatter it, whatever it described, across the horizon. Alden leaned back.
+
+“Did…the Palace do something wrong to him? Is that why he couldn’t be healed?”
+
+Esh-erdi’s eyes opened. “Don’t tell Lute we had a conversation like this. The Palace of Unbreaking doesn’t approve of people mitigating the negative effects of wordchains through wizardry. Their Chainers occupy an exalted position in the organization, even above the leaders in some ways. I’m sure they regard him being maimed by a dangerously powerful wordchain as a sign of his dedication. They’d rather show him off than cure him.”
+
+Alden was appalled. “They won’t let him have two eyes because it was a wordchain accident? But the chain is over! It’s done now. Esh-erdi, that has to be against the terms of Earth’s Contract! Doesn’t it?”
+
+“It is,” said Esh-erdi. “The Palace of Unbreaking is run by wizards even if most of its membership is ordinary class, and those wizards have to follow the same laws as other summoners. Ordering an Avowed not to receive treatment for an injury isn’t something they can do. Your friend’s family wasn’t telling him the whole truth when they said he could be healed, but it wasn’t a lie either. For situations when one of the Palace’s leaders, or their Chainers, want to avoid the cost of a wordchain, a substitute is provided. The same can be true even for something like this. The wordchain Aulia Velra used and its injury to a Chainer who performs bestowal for the masses were probably declared a special occurrence. When Lute asked for healing, they must have told him he needed a substitute.”
+
+A substitute. “If he gets healed…they’re going to cut out someone else’s eye.”
+
+“There would be ten thousand volunteers for the honor, I’m sure,” said Esh-erdi. “But the first allowed to volunteer, and the preferred one, would likely be his symbolic Opposite.”
+
+In the indigo blue messenger bag on the seat beside Alden, there was a crystal checker that blinked whenever a person somewhere else in the universe cast a wordchain.
+
+Lute’s Opposite…he was so serious about the Opposite Stone. He felt ashamed for leaving his in the laundry once.
+
+“No.”
+
+“That’s how they think,” said Esh-erdi.
+
+“Lute’s about to turn sixteen. In Earth years. We’re going out for his birthday next week. His Opposite is a child.”
+
+“Lute is also a child,” said Esh-erdi. “One whose goodness I will remember. The Palace isn’t allowed to have Artonan childrens’ eyes removed, either, even if they volunteer. They probably would have let the Opposite’s mother or father sacrifice one until the Opposite came of age. That would have made it harder for Lute to turn down the offer, I assume. Knowing it would technically be adult fanatics paying a stupid price of their own choosing.”
+
+Alden had a weight on his chest just imagining Lute in that situation.
+
+Hurt because of a wordchain he hadn’t wanted to be part of, surrounded by family he couldn’t trust and alien worshippers he couldn’t possibly be comfortable with, maybe on a call or even in the room with his little blinky checker person who would have been talking about growing up to give their own eyeball to the Gloss so Lute didn’t have to.
+
+“Can you fix it?” he asked. “You can, can’t you?”
+
+“It’s not simple,” Esh-erdi said. “To do it in a way that doesn’t interfere with Lute’s decision not to have someone else lose half their vision in his place will mean making the Palace view his healing as right. One way might be to have him cast another wordchain that leads through a series of surprising coincidences to the restoration of the eye. As if the chain itself has decided to make him whole without him trying for that effect. Lind will give the problem to some people. It won’t happen quickly, but it can be made to happen. Your help might be needed.”
+
+“A series of surprising coincidences. And another wordchain. And Lute…can’t know it’s going to happen in advance?” Alden frowned. “Are we talking about something like him casting a wordchain for luck, then me accidentally on purpose knocking him unconscious during it and taking him to a healer who accidentally on purpose fixes more than they should? Then he wakes up with two eyes, and we all swear it was a gift from the wordchain?”
+
+“That’s a course of events that might work.”
+
+“I’m willing to help however I can,” Alden said. “But isn’t there a less ridiculous and deceptive way?”
+
+“We could borrow him from the Palace of Unbreaking and come up with some role for him among knights that allows us to claim he needs to be in near-perfect physical condition. But the role would have to impress the believers well enough to keep them from feeling the wordchain that cost him the eye was being disrespected. Lind and I are willing to lie to such people and invent acts of valor for him, but he’d have difficulty hiding the truth himself. They’ll question him whatever we do.”
+
+Alden looked down at his hands. They were clenching his pants just above the knee. “It’s wrong. That he ended up hurt in this way and that he can’t just be healed. That he has to work for people who believe extreme things about him that he doesn’t believe at all, and that we’re probably going to lie to him to help him. It’s wrong, Hn’tyon Esh-erdi.”
+
+“I agree.” Esh-erdi said. “Much is wrong.”
+
+I wanted him to say more than that. To say he’d fix it all.
+
+He knew that solving all of that wasn’t Esh-erdi’s job.
+
+It meant a lot to me that Stuart figured out what was going on with the secrecy contract and helped me out with it behind my back. Doing the same for Lute…
+
+Doing the same for Lute was different. Alden didn’t want it to be different, because giving Lute back what Aulia’s Gloss had taken away was great to imagine. But it was.
+
+A minute or two had passed.
+
+“We can’t do that actually,” he said.
+
+Behind Esh-erdi, he could see the grass bowing and straightening in response to the wind.
+
+“I think Lute would love to be healed. But I know that having control over his own decisions matters to him. Human Avowed have powerful forces blowing us around more than we would prefer anyway. For Lute, it’s even worse because his family is…you heard his story. The people who should have helped him have a good Avowed choosing season did everything they could to crush him into a mold they’d picked instead.
+
+“Haoyu and I heard as much as he can tell without violating the contract Aulia had tattooed on him, and we think what happened to him is insane. They made him think he had to take the Chainer class to buy his mother access to one of the Healers that does life extension treatments on Anesidora. It’s complicated how that misunderstanding existed for them to take advantage of. But they surrounded him with pressure and lies ‘for his own good’…and now he’s a Chainer. Until he dies.”
+
+Esh-erdi looked calm. It was the same calm look he’d used when Alden was telling him about the guys who’d attacked Zeridee-und’h, though.
+
+That’s not real calm. It’s his carefully calm face.
+
+“What I mean is, I think it’s even more important to Lute than it is to most people not to have the choices he can make in his current position taken away. What’s happened to him is horrible and more than he can handle on his own, but his friend manipulating him to interfere with a decision he’s already made might be worse. I can’t do that to him.”
+
+“I hear what you’ve said,” Esh-erdi replied.
+
+“I hope I’ve said what’s right and that I haven’t cost Lute anything. Can I tell him you’re trying to help him? Let him say yes or no? If he says yes, I bet Yenu-pezth could erase his memory or lock it away somehow so that the distressingly weird people he works for never find out. Or there are contracts to hide the information, right?”
+
+And with contracts on my mind…
+
+“You could break the tattoo he has with his grandmother, couldn’t you? He hates it. It was a decision he made based on other peoples’ lies, not something he ever wanted. And if I’m wrong…but I’m not about this at least…it’s much easier to get a new tattoo than to say no to a new eye.”
+
+“Could I break it?” Esh-erdi asked. “I think you’ve offended me.”
+
+“I didn’t mean—”
+
+“A lengthy fart could finish off a contract like that.”
+
+Alden snorted.
+
+“All right,” said Esh-erdi. “I’m glad I asked for your opinion. You may tell Lute that Lind and I are concerned about him and share the ideas I just shared with you. And you may try to stop Porti from taking him away in the night to bury him in one of his favorite healing groves.”
+
+“Oh. Porti-loth. He was paying a lot of attention to Lute yesterday.”
+
+“Because a child’s eye could be restored but isn’t. He’s never seen such a thing. If he’s not burying Lute when you get back to Earth, he may be busy burying members of the Palace of Unbreaking instead. In a much less healthy way.”
+
+“The Palace of Unbreaking. They’re really run by wizards who hate wizards?”
+
+“They like themselves very much for following their own rules. It would take a week for me to explain their thinking to myself so that I could explain it well to you. Some of them are sincerely pursuing what they believe to be a better way of life for our species, and they are supportive of knights. They’ve decided we’re allowed to take wordchain halves as we wish. That’s a convenience.”
+
+“But you don’t like them?”
+
+“I can’t worship the balancing of a scale,” Esh-erdi said. “It’s too easy to ignore what’s being weighed and to feel righteous while you measure out harm.”
+
+Those words were the last either of them spoke for a while.
+
+“We weren’t supposed to talk about anything dark this early in our trip.”
+
+“It’s all right,” said Alden.
+
+“I thought I was giving you good news about treatment for your friend when I started.”
+
+“It is good news. He has more choices now than he did. I’ll tell him you’re offering help, and I’m sure he’ll be glad someone understands even if he says no.”
+
+Alden smiled to prove the trip hadn’t been darkened by the details of Lute’s situation. “This has been a very productive and educational visit already. For example, I’ve found out that I’d like to be excommunicated from the Palace of Unbreaking. That’s something I needed to know.”
+
+******
+
+******
+
+The flyer put them out on a dock. One of the posts at the end held colored pegs attached to strings, and at Esh-erdi’s instruction, Alden took out the peg nearest to the bottom and dropped it into the water. It was a scent call for their next ride.
+
+They went back to enjoying lighter conversation topics while they waited.
+
+Esh-erdi didn’t think Alden needed to be excommunicated just because he’d been assigned an Opposite. Together, they reasoned that Lute wouldn’t have agreed to teach him if it gave him the same “special existence” status with the Palace that a Chainer had. But Alden would be quadruple checking before he ever uttered a syllable of his next wordchain. For now, they were both amused by the various things one could dramatically announce if they wanted to break away from the Palace.
+
+Esh-erdi had had to ask the Contract for the information, so he was learning of the possibilities for the first time himself.
+
+“‘I take my stench with me and go to shiver in yonder hole by myself, alone and unloved,’” Esh-erdi said to a vatha that was sleeping on the side of the post that held the pegs. “That one is so <<mopey>> it becomes humorous, don’t you think?”
+
+“I like the one about ‘Dancing brazenly while drinking the power that belongs only to the stars,’” said Alden. “If someone said they were going to go do that when they left a group I was in, I’d think maybe I should follow them out the door.”
+
+He’d just found another vatha, resting on the dock with its brown wings blending in against the boards. He stepped over it carefully.
+
+“I like wordchains. It’s nice that they’re a kind of magic more people can learn to do. But it’s so disappointing that the organization that takes care of preserving that magic is this way.”
+
+“They’re only imperfect,” said Esh-erdi. “Things I consider bad are entwined with things I consider good. You said yourself that Lute seems fond of his main summoner.”
+
+“Parethat-uur. Apparently, he was excited that someone commended by Hn’tyon Alis-art’h wanted to learn some wordchains. And I’ve liked having an Opposite until now. Every time I perform a chain the stone flashes like they’re casting every one they know.”
+
+“That’s because they like it, too. You’ve made something important to them more fun.”
+
+Can it still be that simple?
+
+He’d have to decide some other time. An animal was coming toward the dock. It was already surprisingly close by the time he detected the motion of its approach in the way the water moved.
+
+“Hi, Ploomp!” said Esh-erdi. Only ploomp was a sound he made that Alden didn’t think he could mimic.
+
+The creature seemed to recognize its name, and a smooth dark blue back breached the surface. It would have a head sort of like a catfish’s, Alden knew from looking at pictures of them. Also paddle-shaped fins. No gills.
+
+This one was the size of a small bus.
+
+“Bloat,” Esh-erdi said as the terackerin reached the end of the dock. Immediately, a layer of skin on its back expanded, turning translucent and electric blue as it stretched thin, like the animal was blowing bubble gum with its own body. The top of its head became visible even though its eyes and mouth were still underwater. There was now plenty of surface area to ride on above the water, though.
+
+“Isn’t she an excellent terackerin?” Esh-erdi said proudly. “Ploomp, this is Alden. He’s human. New rider, new rider! Alden, stick a hand in the water so that she has your smell.”
+
+Alden quickly laid down and dropped his hand over the edge of the dock, getting as close as he could to the nose, which he assumed was involved in smelling.
+
+“She’s hyektch!” he said. “Can I really stand on her back, though? I’m not too heavy?”
+
+She was large, but the skin that had filled with air looked fragile.
+
+“They’re tough,” said Esh-erdi. “And this one comes from a long lineage bred to enjoy company. Say her name.”
+
+“No. You just want to laugh at me.”
+
+“I’m giving you a chance to practice,” said Esh-erdi. “Before you meet the harsher critics.”
+
+One of the terackerin’s long whiskers brushed Alden’s hand. It felt firmer and sharper than he’d expected. Maybe she smells with these?
+
+“This is really amazing, Esh-erdi. I hope your nieces won’t mind me riding her.”
+
+“Let’s go ask them,” Esh-erdi said, hopping off the dock onto the terackerin.
+
+Alden followed. Stepping onto the animal’s back was easier than he had imagined. It was just a slightly rounded, surprisingly firm surface.
+
+“I think I’m the first person from my planet ever to do this. I looked on the internet, but even though there were videos of Artonans riding one and mentions from people who’d seen them in the wild, I didn’t find a single human who’d ever touched one.”
+
+Riding them seemed to be an antiquated local hobby.
+
+“Some things about being an Avowed are very special,” he added. “Can I try to give her directions?”
+
+“Say, ‘Oceanward’,” said Esh-erdi. “We’ll find out if she listens.”
+
+“Oceanward, Ploomp!” Alden said. “We have a chance to appreciate the river!”
+
+The terackerin shifted her fins as if she understood him well and began to swim downstream.
+
+******

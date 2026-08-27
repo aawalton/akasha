@@ -1,0 +1,165 @@
+---
+id: d1fb5b8f-e10c-5373-b63a-e96b555fef26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 641: Nikolai"
+slug: 0063-chapter-641-nikolai
+partOf: system-change-system-universe
+position: 63
+ownLength: 2142
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3283187/chapter-641-nikolai"
+royalRoadId: "3283187"
+---
+
+Chapter 641: Nikolai
+
+“Did you hear that?” Derek said as he looked over his shoulder at Alex. “We’re not going to get a better offer than that.”
+
+Alex’s face was pale, and he was having a hard time looking up from the ground. Finally, after a few moments, he steeled himself and took a deep breath before stepping to the side and forward-fully revealing himself to the other group.
+
+“Davis,” he finally said. “Do we really have to do this? Here? Why does the hatred from the old members of our houses have to carry over to us? Can’t the younger generation work something out?”
+
+“Bahahaha!” Davis Grimshaw burst out laughing at the thought. “You’re only saying that because you know you’re outmatched. Don’t think that we can’t tell that all your escorts-if they are even escorts-are in their 250s. Herring here...” he pointed at the escort who had yet to say a word. "He’s already level 300, and Nikolai over there is already above 335. Nikolai could solo boss monsters on this empty planet.”
+
+Hearing Davis, Derek didn’t falter. Amelia’s fists tightened, and Marrick drew in a calm and calculating breath. Jace’s smile grew, and Edgar suddenly became excited. I... can I overcome 85 or so levels? Derek couldn’t help but wonder. Then, he smiled almost like Jace. Even if I can’t... it’s not just me. Silvi wasn’t sitting on anyone’s shoulder at this time-in fact, she’d been quietly floating behind everyone, not in view of the other group.
+
+I think... the only thing I have to worry about is releasing my full aura right now. We’ll see how far I can take him without going all out, then figure something out after, he thought. Silvi would be by his side, so he wasn’t too worried. In fact, he wondered if things might be starting to go their way. He honestly expected one of the escorts to be level 350 or even 400, but he was pleasantly surprised at the declaration-even before he was able to scan the men.
+
+Alex turned with his head hung low and whispered to the group, “You should all just take their deal. There’s no sense in getting killed over me. You are all way too talented for your lives to end over someone untalented like me.”
+
+“Alex... raise your head and look at our faces,” Derek said-his smile still showing. “Do it.”
+
+Alex finally lifted his head, then his expression began to show signs of confusion as he examined the faces of each person around him. Not a single person looked scared of the fight, and some of them even seemed to be anticipating it. “You all...” he muttered.
+
+“We’ve been itching for a good fight,” Derek said. And I’d want it even more if I didn’t have so many people in my Time Prison that I have to be careful with.He’d have to fight a lot more cautiously because of his friends, and he didn’t have his guaranteed escape route with Void Travel because it would likely destroy everyone inside if he used it.
+
+“I don’t like those looks,” Davis suddenly shouted. “It seems to me that you’re all choosing that pathetic Loomis over saving yourselves. How stupid.”
+
+“That’s not it at all!” Jace shouted back.
+
+“Oh?” Davis tilted his head.
+
+“Yeah... I couldn’t care less about the loony,” Jace replied. “But doesn’t this seem like a fun fight? Derek...” Jace looked over at Derek.
+
+“Yeah?”
+
+“You got the big guy, right?” Jace asked.
+
+“The high-level one?” Derek confirmed and then nodded. “Yeah, I got him.”
+
+“I want the fish,” Jace replied.
+
+“The... fish?” Davis asked.
+
+“Yeah... Herring... the fish,” Jace explained.
+
+Derek snorted. He wasn’t sure how the system was translating the man’s name for everyone else, but he definitely understood what Jace was saying. “Okay... you can have the fish. Just be the punching bag for all the others until you can punch back, okay?”
+
+“That’s the plan!”
+
+“What the hell are the two of you talking about?” Davis seemed to be on the verge of blowing a gasket. Jace really had a way of getting to people. “You’re not saving the weakling, but you want to fight? Are you lot crazy?”
+
+Derek and Jace looked at each other, and for the first time, their grins really did match one another. At the same time, they nodded, then looked back at Davis and both said, “Yes!”
+
+Derek cracked his neck, then stretched a couple of times with side lunges before looking Nikolai in the eyes. “So, Nikki, what do you say the two of us go somewhere a bit away so your precious charge doesn’t get caught up in our fight?”
+
+“Why would I do that?” the escort asked with a smirk. “You act like you have even a small chance of victory, but you don’t.”
+
+Derek’s smile turned into a smirk as he slowly slashed his hand through the air and used Spatial Rend. As he did, he said, “I’m Mythical and my affinity is nearing 70%.” The strike opened behind the man, and Nikolai sidestepped it as it just caught the hem of his robe. “Is that enough?”
+
+“Space...” Nikolai muttered. “And Spatial Rend...” Finally, his expression turned serious. “You’re not joking about your affinity.”
+
+“I’m not,” Derek replied. “So, kill me now, or your Grimshaw family just made enemies with someone with a very, very bright future. Also... this is your only chance.” Derek reached out and grabbed at the space.
+
+Mentally, he activated Time Prison, then slightly peeled back the space before putting it back together before the door showed. “If you don’t want to go fight, I’ll just take my leave. Like I said... I could bring the teleportation device right back to you. It’s the others that need it, really. I’m not so great at bringing others or traveling such a distance without knowing the exact destination.”
+
+“Herring,” Nikolai said to the other escort.
+
+“Sir?” Herring replied.
+
+“Protect Davis,” Nikolai commanded. “I’ll make sure this ends quickly.”
+
+“Good luck fighting the fucking cockroach,” Jace muttered as Nikolai finally agreed to the battle. Nikolai frowned at Jace’s words, then snorted.
+
+“Follow me,” he said, and Derek nodded.
+
+“Don’t get yourselves killed,” Derek said. “Amelia, you’re in charge. Just try to keep everyone alive until I come back... or... you know... Jace.”
+
+“Got it,” Amelia said, then she, too, cracked her neck in response to the upcoming fight.
+
+“You might as well bring one of your other friends with you so you at least last long enough for this to be fun,” Nikolai said as he walked away.
+
+“Oh, you don’t have to worry about that.” Finally, Derek took off behind Nikolai-happy that he’d get his fight. As he fell in behind the man, a slight pressure appeared on his shoulder, causing Nikolai to pause and look back.
+
+“What’s that?”
+
+“My bonded companion,” Derek replied. “Got a problem with it?”
+
+“With a little bunny?” Nikolai snorted. “No... you go ahead and bring it. It will make crippling you a cinch.”
+
+“Are you part of that house, or just a guard?” Derek asked as they moved away from everyone else.
+
+“A well-paid third party with an oath,” Nikolai surprisingly replied.
+
+“And I guess the oath keeps you from betraying your charge?” Derek asked.
+
+“Of course.”
+
+“What if he dies?”
+
+“Then he dies, and the oath dies with him,” Nikolai replied.
+
+“Yet you’re willing to walk away from him and leave him to battle five other people with just a level 300 guard to protect him?” Derek asked.
+
+“This won’t take long,” Nikolai said before increasing his speed.
+
+I’m not liking how confident this guy seems, Derek thought, but sped up behind him to follow. After a few minutes at high speeds, the two stopped. Derek looked back, and the others were just out of sight.
+
+“This is far enough,” Nikolai said.
+
+“I guess so,” Derek replied as he held his arm out, and Harbinger appeared. A plate appeared beside him, and Silvi hopped onto it before drawing her knives.
+
+“A glaive and cleavers,” Nikolai said. “How... unique. And I assume that a high-tier Mythical-ranked user like you is also wearing Mythical armor?”
+
+“Maybe...” Derek replied.
+
+“So... you’re an undying cockroach with a space affinity, huh?” Nikolai asked as he grabbed his robe by the collar and ripped it off-revealing a bare chest with a finely toned body. He was wearing scaled plate from his waist down, and his arms were also covered in it. He reached for the back of his head and removed the band that had his long brown hair tied down, and it fell to his shoulders.
+
+“Something like that,” Derek replied as he watched the man prepare. Surprisingly, the man didn’t draw a weapon of any kind. Fuck... pure magic? Derek wondered. His scan hadn’t given him anything to work with.
+
+“Let’s see how much of a cockroach you are!” Nikolai shouted and pushed his arms out with his palms facing Derek.
+
+Suddenly, an itch as bad as when he broke through the endurance thresholds appeared on Derek’s body. He instantly activated Greater Meditation and watched as parts of his skin eroded before reforming. What the actual hell is this? Derek looked up and saw that the man’s chest was doing the same thing as Derek’s whole body was. Is he damaging himself to damage me? Is it some sort of damage trading power?
+
+“You really are a cockroach,” the man chuckled. “But it seems that your companion isn’t one.”
+
+Derek quickly looked around and saw that Silvi was nowhere to be found. ‘Silvi!’ he sent to her.
+
+‘Fine. Domain thing. Can’t be in long. Healing not as good,’ she sent back.
+
+Right... a domain. Derek nodded. “Is this your aura domain or a skill?” he asked, then shook his head. “No... this is a skill. Aura wouldn’t be hurting you, too.”
+
+“Smart,” Nikolai said.
+
+With a severe itch, Derek slashed out with Harbinger in his right hand and clenched his left at the same time-using both Spatial Rend and Spatial Collapse almost simultaneously. He recalled the way the man had moved when he used rend earlier, so he placed a Spatial Collapse in the exact spot he’d dodged to before. A much bigger rend appeared behind the man, and he sidestepped.
+
+This time, he stepped directly into a Spatial Collapse, which... did almost nothing. A baseball-sized portion of his side was destroyed, but it came back almost just as quickly. “And they called me a cockroach,” Derek muttered. The man wasn’t the least bit scared of anything other than rend, it seemed. And why wouldn’t he be? Rend was a skill that slowed healing dramatically.
+
+“My turn!” Nikolai shot forward and punched out with a fist. His speed was a good deal faster than Derek’s own, so instead of dodging, Derek brought up Harbinger to block. The fist landed on the center of Harbinger’s shaft, and Derek watched as the part touching the fist started decaying. No... it’s eroding. Son of a bitch! Alex had just told them all about the erosion power being great for this planet but rare, and now he was fighting someone many levels above his own with that power. Of course they hired someone with that affinity.
+
+“Erosion?” Derek asked to confirm as he kicked the ground and shot backward.
+
+“Got it in one,” Nikolai replied as he shot toward Derek again.
+
+Derek didn’t wait to take a hit or damage Harbinger again. Instead, he used Active Void Shift and appeared where Nikolai had just leaped from. As soon as he appeared, he struck down with Harbinger-using Sweeping Slash and Multi-Strike in combination.
+
+The arc shot out and landed directly on the man’s back, and blood went flying. He let out a muted grunt as the arc finally disappeared. He didn’t turn around. He just stood with his back facing Derek. Fuck, he’s intimidating, Derek thought as he watched the not-very-deep cut mend itself before his eyes.
+
+Finally, Nikolai’s hair drifted into the air as he released his aura. He turned, and Derek saw solid gray-brown eyes and a smirk on his face. The man reached forward with his own hand, like Derek had done with Spatial Collapse. Derek winced as he felt an incredible itch coming from his hand gripping Harbinger. He quickly stored his weapon as his hand disappeared before the bone started to crumble.
+
+“Told you this wouldn’t take long,” Nikolai muttered, and Derek moved away with Active Void Shift again. “Pesky space teleportation skills.”
+
+Derek reappeared and held his stump up. Suddenly, the stump started to reform into a bone hand, then muscle, then finally skin.
+
+“And he’s evolved,” Nikolai let out a sigh. “It may take a bit longer than I thought... but no worries... that just means I get to have extra fun.”

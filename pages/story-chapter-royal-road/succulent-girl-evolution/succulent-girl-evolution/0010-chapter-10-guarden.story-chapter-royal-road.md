@@ -1,0 +1,107 @@
+---
+id: 6fe82963-de0a-5a9f-975e-c9cee6bbe594
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Guarden"
+slug: 0010-chapter-10-guarden
+partOf: succulent-girl-evolution
+position: 10
+ownLength: 2132
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525701/chapter-10-guarden"
+royalRoadId: "2525701"
+---
+
+[Name: Bubbles
+
+Species: Plant
+
+Moisture Level: Soaked
+
+Traits:
+
+Abilities:
+
+Bubbles admired her new size as Rock dutifully reported her latest stats. The magpies had brought them accurate information, and after a total of three “weeks” (which she had learned consisted of five weekdays and two weekend days), today was supposed to be the day the humans resumed their campaign against their home.
+
+She felt more confident to face them. The magpies had been wonderfully helpful in getting the garden’s defenses ready. Not only did they build their own nests throughout the garden as outposts for their cockfighters, they also built traps to supplement the plants and obstacle courses to train Bubbles with.
+
+The core intelligence they had received was that the humans were seeking to perform a thorough survey of the garden to confirm there were no exotic species living in the estate before they resumed clearing the land. However, they had also heard rumblings within the first few days that the humans had good reason to believe there was a unique creature living on the estate; the human workers who had facilitated Bubbles’s transformation had allegedly come across a creature that evaded all the Ranger beasts’s senses, yet looked like a plant and moved like an insect.
+
+The magpies had therefore very matter-of-factly concluded that the humans were hunting Bubbles, and politely suggested she become the focal point in their plan to capture the individual they wanted words with.
+
+Rock had become apoplectic with rage when Bubbles agreed easily to their training protocol instead of making use of the birds’ information to make her escape. In the torrent of words he had levied at her, she managed to piece together his intent: they had received confirmation that she (and by extension he) was the humans’ target, and therefore it made the most sense to act on the information and begin making their escape.
+
+She had firmly countered that knowing she was the target meant they couldn’t just escape, they had an obligation to the rest of the plants; who knew what the humans would do to the garden in their efforts to find her? She had to let them spot her so she could lead them away, at the very minimum. And besides, they still had to fulfil their end of the bargain with the magpie congregation, especially since the birds had already invested so much time and effort in building up the garden’s defenses by that point. If she reneged on their deal, then she would never be able to live with herself.
+
+She’d expected more pushback from Rock, but he had surprisingly accepted her explanation with nothing more than a frustrated huff, instead grimly directing her how she should best use her time improving her Pierce ability when she wasn’t busy with the magpies’ obstacle courses.
+
+Not even Rock could complain that the magpies weren’t useful partners. Miss Magpie, serving as the primary liaison for Bubbles, noticed her flagging spirit after the first day of running what the magpies called a “basic” obstacle course to test her physical capabilities (not even Fern had been able to keep up with her energy expenditure), and brought her fresh morning dew to replenish her hydration.
+
+Seeing how solicitous Miss Magpie was of her condition, Bubbles (with Rock’s wary consent) had told her she now depended on Fern to recover the bulk of her energy. Understanding the situation, Miss Magpie quickly organized a squad of adolescent birds to collect and deliver various insects and nuts for Fern to consume.
+
+It was thanks to her attentive care that Bubbles managed to put on significant size, making her feel much more solid and strong.
+
+Once Rock saw that Miss Magpie was able to produce such a diversity of items for Fern to digest, he even begrudgingly had Bubbles ask her to acquire poisonous insects that she had never seen before, thereby increasing her Toxicity level from Very Low to Low.
+
+So the higher my Toxicity level goes, the more powerful my poison buds, right? Bubbles had asked him eagerly. The fact Rock didn’t have a specific metric to track her poison buds’ growth and development had been a point of confusion for Bubbles, given how inconsequential the other traits he was noting seemed. Finally, exasperated by all her questions, Rock had added the Toxicity category, though he warned her it was a more difficult category to track because it was something she had begun developing on her own.
+
+[Correct. It also serves as a passive defensive system if you were to lose any of your leaves or appendages again. The sap that flows within you is also toxic, so if any creature were to ingest you, they will suffer. One would hope, at least.]
+
+As a result of all her training and feeding, Bubbles now felt ready to become the face of the garden. The Guardian of the garden.
+
+Miss Magpie landed on Bubbles’s back, depositing another juvenile scorpion into Fern’s eager maw. “The humans are on their way. Are you prepared?”
+
+“Yes.”
+
+“Very good. Everyone else is in position as well. I will signal to you when to begin playing your part. Watch over yourself.” With one last affectionate nibble, the magpie flew off.
+
+~ ~ ~ ~ ~
+
+Wolfe was in a bad mood. What should have been a straightforward assignment that could have been completed in three or four working days dragged out for nearly a month.
+
+They hadn’t managed to submit the proper documents before the Committee office closed on Friday, so they filed first thing the following Monday morning. That in itself wasn’t a big deal—he had already started speaking with the Ranger and Mage guilds over the weekend about additional support for their assignment in the Remraf estate, lining up the pieces so that once the CES approved their paperwork they would have their team ready.
+
+What he hadn’t expected was the Duke’s heavy involvement in seeing their assignment completed as soon as possible, which, contrary to expectations, slowed the approval process down with all the additional eyes sucked into the typical workflow. The clerks, their supervisors, and even the respective department heads for the Botanics, Invertebrates, and Vertebrates groups, hearing that Duke Grede was personally invested in the project, all rushed in to look over their documents, advising (insisting, really) they revise the forms to add certain key phrases to emphasize just how critical the work was; all of this extra time spent was so that the upper levels would approve their request faster.
+
+He understood Grede was just trying to help, but ironically, his interest and involvement flustered the administrative staff into strictly following protocol, inadvertently countering the very efficiency he was trying to lend to Wolfe and his team. Granted, they didn’t face any formal rejections for their permits… In Wolfe’s two decades of service as a ranger, this was perhaps the most perfect case he had seen of bureaucracy going perfectly right.
+
+Again, this unexpected development normally wouldn’t have been a big deal—except for the fact that the delay meant the Mage Guild couldn’t continue holding onto the Specialist-level mages he had requested. After the first week of waiting for approval to come back, they could no longer justify reserving his top-five preferred mages; not when there were other approved priority missions on the guild’s list. By the time the approval finally came back, no remotely qualified mage was available to take on the job. Instead, he was offered a Novice mage—not even an Adept. A fresh graduate from the Silver Winds Conservatory of Magick with no apprenticeships under his belt, an utterly unproven quantity.
+
+The Ranger Guild, meanwhile, also received an influx of requests to lend support to the more rural areas of the duchy; allegedly, the farms and ranches were dealing with a suspicious increase in predations on their crops and animals. Given how these remote areas were the source of the duchy’s food supply, the Rangers couldn’t spare a single additional group to help Wolfe with the Remraf Estate, so they were stuck on their own.
+
+In light of all the exasperating hindrances, Wolfe would have preferred to wait one more week for his second-choice Specialist mage to become available, but Duke Grede had insisted he could make do with the Novice immediately. All the while smiling and shaking his hand in congratulation, as if they had accomplished a significant feat. With the relieved CES clerks, supervisors, and Guild representatives nodding encouragingly at him, he had sighed and accepted the Duke’s conditions.
+
+He’s the boss.
+
+He glanced at the assigned mage out of the corner of his eye, who was squished into the corner of his carriage despite there being plenty of room, even with Link curled at his feet. The kid was clearly nervous, hanging onto his staff as if it was the only guardrail preventing him from flying out of the carriage.
+
+Wolfe had his other three members and their beast partners pack into their second carriage so that he could get a read on the newest addition to their temporary team. If they wanted to efficiently complete their assignment, he had to understand the individual members of his team. What their personalities and predispositions were, strengths and weaknesses…
+
+If he was lucky, this kid would at least take direction well. If he was unlucky… well, at least his team had spent the past month making preparations.
+
+“Lad, you said your name was Randall?”
+
+“Sir, yes, sir,” Randall stuttered, his knuckles white as he renewed his grip on his simple wooden staff. As a professional mage, he was at least eighteen years old, but he was quite small for his size, looking more like an adolescent than a young man. He inhaled and snorted, causing Link to look up at him in concern as the boy choked, his knuckles white.
+
+Wolfe waited patiently for the mage to calm down, carefully observing him.
+
+He was less concerned about the young mage’s raw abilities; the Mage Guild had a minimum standard of magical ability, so theoretically whatever level of magic he had should be sufficient for their mission. What he was more worried about was the kid’s ability to operate in an unknown scenario and not lose his head under pressure.
+
+If this were a more normal mission that didn’t require so much finesse, he wouldn’t have minded bringing along a newbie and introducing them to the life of professional questing… But with all the visibility on the Remraf Estate mission, he didn’t have the wiggle room to be cautious and take his time making sure everyone was safe. He’d do his best to protect everyone on his team, obviously, but rushing (which Duke Grede was obviously insisting on) guaranteed mistakes.
+
+Despite being a bit more skittish than he expected of a licensed Mage, Randall at least had an acceptable awareness of his surroundings, and his body language was deferential enough to indicate that he wouldn’t be a contentious addition to his team. An acceptably blank slate to work with, if given enough time.
+
+With how everything had been going so far, though, he wouldn’t hold his breath for that much of a miracle.
+
+“Have you read the assignment papers?” Wolfe asked when the boy’s coughs finally subsided, his face scarlet as he pounded his chest.
+
+“Yes, sir,” he answered immediately. He straightened up, his soft voice steadying as he spoke. “You submitted a request for a fire mage who can perform controlled burns in order to flush out the creature you’re hunting without overly harming the native ecosystem. I may not have done much expedition work while at the Conservatory, but I have been part of my village’s Night Guard since I first discovered my magic. The bulk of my responsibilities as the Night Guard’s only mage is keeping fires lit throughout the night, and summoning fire to chase off nocturnal predators. Fire is my specialty, sir.”
+
+The boy’s face flushed again as he finished his summary, clearly embarrassed at his own boldness. Wolfe nodded thoughtfully to himself, grudgingly impressed with the young man’s articulation. There was none of the fluff or pompous padding to make his duties seem more important than they really were.
+
+Contrary to what city-bred mages thought, rural mages had fewer resources at their disposal, so in a way were more seasoned at using their abilities effectively. While city mages tended to have more raw power, rural mages were more efficient.
+
+And if he was the only mage on the Night Guard of his small town, then that meant he had been in the position of responsibility from a young age, which was more than could be said of most city mages. He didn’t have a glamorous resume, but his humble origins spoke for itself.
+
+Good enough.

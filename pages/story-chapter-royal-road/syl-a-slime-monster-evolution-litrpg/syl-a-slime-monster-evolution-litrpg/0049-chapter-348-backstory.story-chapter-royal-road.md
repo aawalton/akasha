@@ -1,0 +1,221 @@
+---
+id: 65362d19-4324-5ee8-8451-2eaa5db53c80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 348 : Backstory"
+slug: 0049-chapter-348-backstory
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 49
+ownLength: 2192
+unit: words
+ownProgress: 2192
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3035312/chapter-348-backstory"
+royalRoadId: "3035312"
+markedReadAt: "2026-06-29T19:43:26.069Z"
+---
+
+I spent some time getting to know Leon better, including his current situation and capabilities. Similar to Vee, he seemed much more open after the oath, which was good in my opinion, as I didn't want to deal with a potential ally who was always holding back information.
+
+Although, unless Vee also takes an oath, technically, she could attack him. Except, because she's my [Bonded Companion], would that count as me attacking him? Honestly, who knows? It's not like I intend to betray him unless he does first.
+
+As for Leon's story, it was even worse than Vee's, with endless early days doing nothing but hiding in his shell and not even having the courage to move. Vee at least had a reason to stand her ground with her nest full of traps, but Leon had none of that.
+
+However, things changed after his first evolution, which let him "build" his shell. It gave him a unique system for collecting resources and directly converting them into compatible building materials to improve his shell. He could grow it, refine it, enhance it, and much more.
+
+It honestly sounds like he's become a jack-of-all-trades, except it's limited to only his shell. He's a blacksmith, an enchanter, a builder, and probably more, all rolled into one.
+
+I could practically smell Gramps' hand in creating this strange system and wondered if it was some deal he made with Unc. After evolving and upgrading his shell over time, he finally started to venture out. This led him to eventually fall into the oceanic trench, where he met the mermen.
+
+At first, they tried to tame him, but he started stealing resources from them. When the taming didn't show any progress, they wanted to enslave him, and that was when he made his escape.
+
+This was particularly surprising for me, as I couldn't understand how he managed to do so. I explained the difficulty I had in breaking their dome, but thankfully, Leon had an answer. One of his traits enabled him to dismantle almost anything, as long as it wasn't attached to anything living or equipped.
+
+It sounded ridiculously overpowered, but I realized that without it, he would struggle to collect anything for his shell. If I compared it to myself, he had [Acid Slime], [Consuming Osmosis], and [Dissection] all in one ability. I couldn't help but wonder if Gramps had used me as inspiration.
+
+I guess I can't really complain, or Vee will never let me hear the end of it.
+
+After he escaped the mermen, he was hunted down, but luckily, at first, they didn't assign too many to attack him. He was lucky enough to kill a few of them and started drastically leveling. At the same time, he started hunting and improving rapidly and eventually earned the [Ocean Scourge] Emblem for all the sea life he'd destroyed.
+
+After he killed a few mermen, the threat escalated, and they no longer held back, forcing him to flee, where he accidentally stumbled into a dungeon. This saved him as the mermen refused to enter it, and finally, he had some peace and quiet.
+
+Leon spent some time in the dungeon, but the monsters eventually were far too much for him to handle, so he gave up trying to explore it. But whenever he tried to exit, he noticed the mermen waiting at the entrance for him. So, he dug a new exit and, as a result, found out how wonderful the dungeon bricks actually were as a construction material!
+
+"That's when I started getting death threats and screeching in my head. Needless to say, after I collected a bit, I fled the dungeon," Leon explained.
+
+Thanks to the mermen only guarding the entrance, they had no idea he had left, and eventually, he stumbled upon this island. He decided this was the perfect spot to set up shop and began fortifying it and exploring his abilities further.
+
+Everything was going very well for him. Right up until Vee came along. Both of them explained what happened from their respective sides, and I could only laugh at what this crazy spider had done.
+
+I wonder if Vee is still upset about when we first met?
+
+After hearing the overall story, I began asking more specific questions, focusing on his two classes. According to Leon, he got into the building profession after achieving the goal of building a shelter.
+
+"What the heck, I've built so many shelters. Where's my achievement?" I complained.
+
+"Yeah, same… Or did my nest not count as a shelter?" Vee asked.
+
+"I haven't the foggiest idea why I got it. But it gave me the profession, which was delightful since it leveled up rapidly anytime I added to my shell."
+
+Vee and I shared a glance. I could feel her annoyance radiating off of her.
+
+If Vee didn't meet me, she wouldn't have gotten a class. Meanwhile, Leon had something he needed delivered to him for free. What the heck?
+
+As for the direction his builder profession took, it eventually became a master builder, then took a strange turn into Bastionwright. Leon personally felt he unlocked that by defending his home long enough against hostile monsters and by further fortifying it after each attack.
+
+Is this a combat profession like Thern?
+
+It certainly sounded like it, as I had no other way to describe the strange abilities he gained from it. Effectively, he could "occupy" something he built and exert his influence over it, almost as if he were piloting it.
+
+This was why Vee couldn't teleport into the volcano: it was inheriting his effects, and why he could do so many absurd things by himself.
+
+As for his second profession, the answer was honestly infuriating. Shortly after he escaped the dungeon, he had built a new shell using the dungeon bricks, and he got an achievement for "inventing something new" and unlocking the novice artificer.
+
+"That's it!?" I demanded.
+
+"Yes?" Leon answered, apparently not understanding my frustration.
+
+Yes, Leon "invented something new," and then a second profession immediately appeared on his profile. With one "achievement," he had gotten what sounded like a rare profession and his second slot.
+
+Where's my second class!? I've invented new things! There's my spell orbs, my explosive needles, my acid-metal-poison spears, and probably hundreds of other things I'm forgetting about! Heck, look at all the custom spells I've made!
+
+Sadly, no matter how much I ranted and raved, there didn't seem to be any reaction from the system or Gramps. It really seemed like Unc was giving Leon special treatment, and I felt quite neglected. Vee similarly was bleeding some highly negative emotions to me through our bond.
+
+Suppressing my frustrations, I asked him to explain this artificer class. I'd never seen it before, nor heard it advertised in the adventurer's guild, or the dwarves and elves.
+
+"Well, it's quite simple, my dear, it lets me invent!" Leon replied enthusiastically.
+
+After that energetic introduction, he explained some of the things he could do with it. If Bastionwright wasn't impressive enough already, this one sounded crazy. It was like some strange combination of tinker and enchanter, and he could even rapidly modify things on the go.
+
+"So that's why the cannons suddenly got stronger…" Vee muttered.
+
+"Yes, I applied a one-time use [Tinker] to the ammunition. It was the best I could do with my limited Mana supply," Leon answered truthfully.
+
+Leon went on to further explain what he could, although he admitted he'd only just started to scratch the surface of this new class. It was challenging for him to level up, and his pathetic Mana capacity kept running out.
+
+"Well, I can give you Mana potions, so that will probably help," I offered.
+
+"That would be delightful!" Leon excitedly replied.
+
+I shrugged. "Sure, I got plenty to go around."
+
+"I'll have to trouble you then until I unlock the secrets of Mana-Tech. I believe once I have that, I won't be so reliant on my pitiful Mana reserves…" Leon said.
+
+"Mana-Tech? Why do I feel like I've heard that before…"
+
+"Never heard of it. Sounds fancy," Vee commented.
+
+"If I understand the basic information I have correctly, it should allow devices to operate on their own without my input," Leon explained.
+
+"Oh, so like batteries?" Vee asked.
+
+"Quite right! I think it should be some equivalent to electricity, or at least I certainly hope that is the case."
+
+"Electricity?" I asked.
+
+"Lightning," Vee quickly answered, as if expecting my question.
+
+"Oh!"
+
+"I don't quite feel that's an adequate explanation of electricity…" Leon grumbled.
+
+However, I ignored whatever he was saying, as Vee had spurred my memory. Lightning was the key, and I quickly dove into the yellow slime profile. I skimmed through its description until I found the line I was interested in.
+
+Their cores are highly desired and sought after for their usage as Lightning Mana Catalysts and experimental Mana-Tech!
+
+"Yellow slime!" I exclaimed.
+
+"Pardon?" Leon asked in surprise.
+
+"Yellow slime cores are used for Mana-Tech," I explained.
+
+"Why would a slime core be used?" Leon questioned, sounding highly doubtful.
+
+"That's the lightning slime, right?" Vee asked, and when I nodded, she continued. "I guess that makes sense… The core probably can work as a battery or something like that."
+
+"Are you two pulling my leg?"
+
+"No? I'm not touching your leg," I replied.
+
+Vee snickered while Leon sighed.
+
+"Are you telling the truth?" Leon asked again.
+
+"I don't have any reason to lie…" I said, shaking my head. "And I was just reading the system info, so unless the description is wrong, then that should be the case."
+
+Before Leon could pry further, I pulled out a [Sub-Core], which, using [Primordial Slime], I had already turned into a yellow core. I carefully placed it on the ground and immediately began the process of forming a replacement core.
+
+I should maybe do this more often. That or damaging my cores and repairing them if I want to get [Core Collective] to max level as soon as possible.
+
+"This…" Leon said and cautiously approached the core.
+
+"I never thought I'd see the day when you give away a slime core," Vee said, complete with an overly exaggerated gasp.
+
+I rolled my eyes. "I literally gave a pink core to the elves."
+
+"Oh. Right. Ignore me then," Vee giggled.
+
+Meanwhile, Leon was carefully poking and prodding the violet orb as if it were a delicate flower, or perhaps a venomous snake. I appreciated his caution, as if it were an ordinary slime core, he might have potentially damaged it. My cores, however, had long surpassed such dangerously fragile weaknesses.
+
+No kid with a knife can threaten my core! I bet even some monsters can chew on them without damaging them!
+
+"Question…" Leon said, interrupting my self-appreciation.
+
+"Yes?"
+
+"Why is it violet?" Leon asked. "Shouldn't it be yellow?"
+
+I shook my head. "Yellow slimes have violet colored cores."
+
+Leon sighed. "I feel like the more I hear about you slimes, the less I understand."
+
+"Oh, trust me, you haven't even breached the water surface yet on this slimy iceberg," Vee chimed in.
+
+"Oh dear…" Leon whispered.
+
+"Anyway… Is that useful?" I asked, pointing at the core.
+
+"I'd need more time to study it, but if what you say is true, then quite possibly," Leon answered. "I can already feel the charge inside it whenever I touch it."
+
+"Hey, Syl, is that just a yellow slime core?" Vee asked.
+
+"Yes, why?"
+
+"Well. If it's Mana-Tech. Wouldn't a blue-yellow core fusion be way better?"
+
+"Oh… Probably?" I replied to her question. It certainly sounded plausible, but I was going purely off the slime profile description.
+
+"Wait. Why would a blue slime core help?" Leon asked.
+
+"Blue slimes are Mana slimes," Vee answered before I could.
+
+"I think I'm starting to get a slime-induced headache…" Leon groaned.
+
+"And their cores are crimson!" Vee cheekily added.
+
+"Why is it red!?" Leon cried.
+
+"They just are?" I replied.
+
+"Is it color wheel theory?" Leon asked. "Do green slimes have red or orange cores?"
+
+"No green slime cores are yellow," Vee said, her tone as if it were the most obvious thing in the world.
+
+"More of a honey yellow…" I commented.
+
+"Now that's just being nitpicky," Vee snickered.
+
+"Argh!" Leon cried out in frustration, seemingly fed up with the topic of slime.
+
+I didn't expect Vee to remember what I told her about slimes. Who knew she was paying so much attention?
+
+After that, I left the slime core with Leon, hoping it would benefit him. Despite Vee's suggestion, I didn't upgrade it to a blue-yellow core, since I didn't know what type of effects it would have. If Leon were successful with studying the core, then we'd cross that bridge at a later date.
+
+"Well, now that you are here, I think we can finally get to fixing up this island," Vee said to me, brimming with excitement.
+
+"Sure, what's first?"
+
+"Well, there's a big hole that needs fixing," Vee quickly pointed out.
+
+"Nothing a bit of magic can't fix," I said with a chuckle.
+
+It was time to get to work!

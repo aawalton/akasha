@@ -1,0 +1,371 @@
+---
+id: d5c13250-d543-52a1-ba82-65b9309ae9a3
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-NINE: Moon Thegund, pt. 1"
+slug: 0029-twenty-nine-moon-thegund-pt-1
+partOf: super-supportive
+position: 29
+ownLength: 5050
+unit: words
+publishedAt: 2023-04-13
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1167992/twenty-nine-moon-thegund-pt-1"
+royalRoadId: "1167992"
+---
+
+Alden and Joe hammered out the details of their contract fairly easily. In exchange for fifteen minutes of Joe’s “sincere and best instructional efforts” for his skill, Alden would make one trip to Moon Thegund and back, using his own “sincere and best efforts” to return with one of Joe’s stranded assistants.
+
+It was Alden who’d insisted on the “sincere and best” part because he didn’t have any way to be completely sure that what Joe was teaching him was as valuable as the professor said. He figured as long as the guy was trying hard, it would be worth a lot.
+
+Joe seemed to find the requirement endlessly amusing. He kept working the phrase into every other sentence.
+
+It was a short-term contract that would be renewable at any time by mutual agreement. Joe intended for them to renew it every evening while Alden was here at the university so that he could fetch another assistant.
+
+The contract itself was built into the tattoo. Alden had always assumed that the symbols Artonans wore had deep and mystical meanings, but…
+
+“Let’s say this half circle is a sunshine,” said Joe, pointing at the design. “It’s rising. So it will be the part that represents the renewability of the agreement.”
+
+“Okay.”
+
+“Excellent. And this line represents the journey you will undertake. Please do your sincere best to listen while I go over the fine details. I will update your lab assistant quest with instructions for you to go to a farm on Moon Thegund for a berry picking assignment.”
+
+“Berry picking?”
+
+“The System won’t teleport you directly to my old lab, since it’s not mine anymore. The farm is relatively close by. They used to specialize in cultivating plants with esoteric magical properties. It’s been abandoned for a few years, but sending you to get some supplies there is a legitimate thing for me to do.”
+
+“Okay.”
+
+Joe went on at length to describe the rest of Alden’s assignment.
+
+“That sounds do-able,” he said dubiously. “But how is all of that contained in a single line on the tattoo?”
+
+“Some of the shapes we use are traditional. But in truth, the line doesn’t have meaning on its own. Only the meaning we mutually assign it. For more complex contracts, it’s best to have the services of a professional,” Joe explained.  “We would get high together for a few hours and have our minds brought into perfect alignment by the artist so that there would be no imbalances in our understanding of our obligations toward each other. It makes the contract stable and more thoroughly binding. This is the rough and ready version.”
+
+“I think I prefer the rough and ready version. Are you saying that you could draw a picture of anything, and we could decide it meant anything?”
+
+“It’s better to keep it simple. If I draw a detailed picture of a gravestone, for example, we would both be bringing a lot of unique personal baggage into the equation that would be hard to set aside.”
+
+“So what if I accidentally think of our rising sun as a setting sun? Or we have a different understanding about this triangle of absolute secrecy here?”
+
+Joe fixed him with a stare. “The ‘triangle of absolute secrecy’ had better mean absolute secrecy to you because I’m not budging on my requirements in that regard.”
+
+They had already agreed that the purpose of the contract and anything they said to one another within the walls of Hot Lab 7 were never to be shared in any fashion with another living soul.
+
+“I get it,” said Alden. “I was just wondering.”
+
+“Then let me give you my sincere and best answer.” Joe smiled. “I am an experienced and powerful wizard. And you’re a clueless fifteen-year-old human. If there’s a disconnect between what I think we owe each other and what you think we owe each other, then my authority over the contract will absolutely crush yours like an insect.”
+
+Well I guess that answered the question. Alden shuddered. “Don’t sugarcoat it or anything.”
+
+“You’re not stupid enough for me to pat you on the head and tell you this is totally without risk,” said Joe. “You’d know it was a lie. But to give you a more comforting answer—if our understanding of the agreement was severely out of alignment, the contract just wouldn’t form. As it is, I will be taking on the burden of empowering the contract and sorting out inconsistencies on my end of things. You only have to doodle on yourself with the correct intentions.”
+
+“I don’t have to put it on my face, right?” Alden was staring at Joe’s own heavily inked features. He couldn’t imagine trying to explain away something like that.
+
+Well he could…but in his imagination everyone from Boe to Aunt Connie thought he should have his decision-making privileges revoked.
+
+“I’d prefer it if you didn’t, since my colleagues will have some questions for me if you start walking around campus with a tattooed forehead. Most of my human contractees choose to hide it under their clothes. I’m given to understand that bearing such a mark is polarizing on Earth, even among the Avowed, so use your own judgment.”
+
+“Can’t it be removed after we’re done with each other?”
+
+“You don’t actually want it removed, remember? It’s your proof that your illegal deeds were done under contract. Just in case. However, I can unlink everything but the triangle of absolute secrecy. If you use your sincere and best efforts, it will still take you a few months to rid yourself of the rest of it. It’s not like scrubbing off a bit of paint.”
+
+The concentric triangle portion was small, but if it was sticking around, then the tattoo was definitely going somewhere that would usually be covered. When they were done sorting everything out, Alden examined the postcard-sized design and decided it wouldn’t fit on the bottom of his foot.
+
+His upper thigh was probably a good place, hidden and easy to draw on. But he settled on the left side of his chest, partially wrapping the design around so that the triangle would be covered by his arm as long as he didn’t lift it.
+
+Fortunately, he didn’t have to freehand the mark.
+
+Alden stood in front of one of the smart boards, which had become a convenient self-facing camera, and he glued the paper rectangle Joe had made ink-side down in the spot he’d chosen. He could still see the pattern through the semi-transparent paper. He was supposed to paint over it one short stroke at a time with more ink—dark gray instead of violet.
+
+There was even a metronome on the desk so that the strokes would be made according to the proper rhythm.
+
+Joe was freehanding his own on one of his shins. Alden had the impression that he thought using a stencil was beneath him.
+
+“Begin,” the professor intoned with an uncomfortable level of formality.
+
+So I guess I’m actually doing this. Alden swiped the first stroke of ink over the back of the paper while Joe repeated the terms of their contract aloud.
+
+A giant warning sign flashed in his vision.
+
+[YOU ARE FORMING AN UN-MODERATED MAGICAL CONTRACT.
+
+IT IS YOUR RIGHT TO FORM ADDITIONAL CONTRACTS, BUT THE INTERDIMENSIONAL WARRIOR’S CONTRACT CANNOT BE OVERWRITTEN.]
+
+Really wants to be clear on the fact that it comes first, I guess. He swiped the warning away with the hand holding his ink brush.
+
+Giving himself the tattoo was painless. The ink just felt slightly hot as it soaked into the paper. But there was a lulling, hypnotic quality to following the metronome’s timing and listening to the professor’s endless repetitions of the contract’s terms.
+
+Then, about twenty strokes in, Alden’s brain gremlin suddenly took an intense interest in the proceedings.
+
+The bargain is flawed, it told him flatly. Fix it.
+
+His hand stilled halfway through the stroke. What am I supposed to fix?
+
+The flawed bargain. Obviously. But Alden wasn’t clear on what his annoying, meat-hating gift from Gorgon had a problem with. He’d arrived at the conclusion that it could detect wordchain debt, both that incurred by an “uneven” person and that owed to them.
+
+But though that was interesting, he didn’t see what it had to do with his contract with Joe.
+
+Is it because he already gave me a lesson for the day, and I haven’t paid him back by running his errand? Alden wondered. Hey, jerk. You know I can’t instantly fix that right? I have to actually finalize the contract and then teleport across the universe.
+
+He narrowed his eyes at himself in the smart board-turned-mirror and made another decisive stroke with the ink.
+
+The gremlin lost its mind. It was having a full Velra-level freak out in Alden’s head.
+
+Flawed, flawed, flawed!
+
+But at least with the Velras, Alden had been able to detect the strangeness that upset the thing. Aimi’s handshake had been wrong. He’d felt it as an almost physical anomaly, probably because he didn’t have his magical senses sorted out. And even with Lute there had been an off-ness that he was aware of.
+
+But now it was just the gremlin having a solo breakdown about something Alden couldn’t perceive no matter how hard he tried.
+
+Dude, you’ve got to chill out. I can’t fix a problem if I don’t know what it is.
+
+Was it worse because the contract was related to him directly? Maybe the gremlin held him to a higher standard than other people?
+
+Alden glanced over to where Joe had his foot propped against the desk. He was about to apologize for holding up their double tattooing ceremony, but the professor had stopped moving as well. He was staring at the marks on his shin with such deep frustration that Alden felt it might be rude to interrupt.
+
+A moment later, Joe’s expression cleared, and at exactly the same time, Alden’s gremlin went silent.
+
+“Continue,” the professor said.
+
+Well, as long as both of you are happy, I guess?
+
+But it happened several more times while they finished their tattoos.
+
+And every time, Joe appeared more baffled and annoyed than the last. Alden was ninety percent sure that whatever was going wrong was his fault, so naturally he played dumb when Joe started shooting him dark looks.
+
+When they finally finished, the professor was sweating.
+
+Alden hadn’t even realized Artonans could sweat.
+
+Alden peeled the paper off his skin and examined his work. The tattoo was neither gray nor violet but a very dark blue.
+
+“Does it suit you now, your majesty?” Joe asked in an acidic tone.
+
+Alden kept his face carefully straight. “I have no idea what you’re talking about.”
+
+“If you’re that fussy about aligning contracts, you’re going to have to learn to compromise on your own half of things. A few discrepancies between us should be fine. We’re exchanging small favors here, not getting married.”
+
+Alden dropped his shirt and finally turned to look at the professor. “Sorry if I made the magic harder. Or something like that? I didn’t mean to. It just felt a little flawed?”
+
+Joe muttered in Artonan, then narrowed his eyes. “Do you realize you’ve just admitted to something extremely surprising, or do you perhaps think it’s normal?”
+
+“I am normal,” said Alden, picking up his coat. “And don’t I need to go rescue people now?”
+
+#
+
+To Alden’s surprise, Joe took him to the building he’d first arrived in for the teleport. He called it the Summonarium.
+
+“When I say teleportation to Moon Thegund is magically violent, I mean it’s magically violent,” Joe said as Alden positioned himself inside one of the patterns on the floor. “If you were one rank lower, the System wouldn’t even let me send you there. It’ll be much easier on you if you use high-quality infrastructure on at least one end. You should still feel…well, I’m not sure. To me it’s just mildly irritating. Try not to waste too much time rolling around in agony after you arrive.”
+
+Alden hoped he was joking about that.
+
+“Are you sure I’ll have time to make it to the lab and back in time?”
+
+“Yes. Just run on the way there. If you can, use your trait. There’s a small ground vehicle at the lab for the return trip. After today, it will be much easier.”
+
+His eye was flicking around behind its lens.
+
+[QUEST UPDATE: Assist Superior Professor Worli Ro-den.
+
+Teleport to Elepta Agricultural Community, Moon Thegund, and collect marleck berries.]
+
+“I really am going berry picking.”
+
+“I’ve got the quest set to allow you to complete it in whatever manner you see fit, so it won’t bother you when you leave the farm. The place is overrun with marleck plants. Pick just one before your return teleport, and it will count.”
+
+Joe passed Alden a small metal orb that was supposed to be full of instructions for his assistants. Alden took it and felt his skill activate.
+
+[Time to teleport: 11s]
+
+“Can I call you through the System if there’s trouble?”
+
+“Yes. I’ll accept and pay the fee. I haven’t been able to get through to my assistants today, but that’s common. It should be fine with an Avowed there to stabilize the call.”
+
+“How does me being there stabilize anything?”
+
+“I’ll cover it in one of your upcoming lessons.”
+
+The timer finished counting down, and the world went dark. It reminded Alden of the teleport from Chicago to Artona III…had that seriously just been this morning?
+
+He mentally braced himself for pain or nausea, since it was supposed to be “magically violent” but he felt nothing. It was dark. He was disembodied. It seemed to take a long time compared to any of his previous teleports.
+
+Then he was stumbling out of an alcove into a place that was pretty recognizably a produce-packing warehouse, though he’d never seen one before.
+
+It was abandoned, as Joe had said it would be. There was dust on the robotic arms and conveyor belts, and along one wall, plastic crates with colorful logos were empty except for a layer of what might have been blackened and dehydrated fruit skins at the bottom.
+
+The teleportation alcove Alden had arrived through was speaking in Artonan. He managed to get the words “welcome” and “thank you” but not much else.
+
+“Hey, local System?” he asked, his voice echoing off the metal walls. “Do you not translate?”
+
+It hadn’t even given him an arrival notification. He scrolled through his interface and saw to his surprise that some of the features were missing.
+
+Pivotal ones.  The option to choose his post-affixation spell was completely absent. Maybe the primitive System here couldn’t grant skills and spells?
+
+Come to think of it, maybe it didn’t recognize the name “System.”
+
+“Contract, can you translate whatever the teleportation alcove is saying?”
+
+This request prompted words to scroll across his vision.
+
+<<Welcome to Elepta Agricultural Community, honored traveler! Thank you for your patronage. One of our friendly guides will be with you shortly.>>
+
+There was something spooky about being promised a friendly guide when he knew one wouldn’t be appearing.
+
+“Contract, you do maps right?” Joe had said it could. “Can you give me the fastest route to the laboratory owned by Yipalck Corporation? It should be near here.”
+
+There was a brief pause.
+
+[That facility is in a high chaos area. Your rank is too low to approach it safely. You are currently in a high chaos area. You should travel to the Thegund Protected Zone. I have analyzed your susceptibility. You have achieved the lowest score. Yipalck Corporation’s research facility is that way.]
+
+An arrow appeared, pointing toward one of the warehouse’s doors.
+
+“System, are you okay?” Alden muttered. That was a lot of word spaghetti to sort through. Don’t go there, you suck too much, do go there, follow the arrow?
+
+“Susceptibility to what, Contract?” he asked, following the arrow. “What did I get the lowest score on?”
+
+[Susceptibility to incursion and loss of assignment is low. Congratulations, and thank you for your service!]
+
+Does this thing actually speak English? Or is it just doing its best?
+
+Outside, the temperature was comfortable. The sky was yellow and covered with a dense layer of cloud. The ground was dry, hard-packed brown dirt. Alden smelled sulfur and something like mint.
+
+The arrow led him to a field of tall shrubs covered in dark green fruit. The bushes had begun to overgrow the neat rows they’d been planted in, so he had to fight his way through.
+
+Then he remembered Joe said the things had esoteric magical uses and he wondered if it was safe for him to be touching them so much. He didn’t want to break out in hives or poison himself. Or start hallucinating.
+
+“Are these plants safe for humans?” he asked. “Contract? Do you know?”
+
+[The fruit and leaves of the marleck plant should be eaten sparingly by humans with unmodified digestive systems. Do not consume roots. Do not use any part of the plant as an inhalant.]
+
+Well, at least that was clear enough. Something uncomfortable but non-lethal would probably happen to him if he ate them, and he should never smoke them.
+
+He made his way through the field with a little more caution, trying to push away his growing sense of unease. In the first couple of minutes after his arrival, he’d been too busy taking in the obviously alien environment of Moon Thegund to notice some of the finer details about it. But now he was picking up on one that bothered him.
+
+It was dead silent.
+
+The animal noises from the jungles of Artona III were strange, but not in a disturbing way. This total quiet felt unnatural. Alden could hear his own breathing and the rustle of every leaf he brushed past.
+
+He almost jumped out of his skin when one of the tall, plain white stakes stuck into the ground between the bushes suddenly came to life with a hiss and started misting the area with water.
+
+It’s just the irrigation, you dork. Heart pounding, he laughed at himself a little. But the sound broke the quiet in a way that made him even more uncomfortable, so he cut it out quickly.
+
+As he traveled through the huge field, he ran across a few other stakes that seemed at least partially functional. Some of them dribbled constantly.
+
+Alden assumed they’d been left running on purpose to keep the plants alive, but it must have been a long time since anyone had come by to check on them. There were other signs that the farm had been abandoned quickly by people who planned to return.
+
+He passed by a shed, and he peeked inside to find a dozen pairs of rubber work boots arranged in a neat line on a shelf. Tools hung from clips on the back wall, and there was a glowing, high-tech cabinet full of cylinders that he thought might be drones.
+
+There was something that looked like a petrified, half-eaten protein bar on the ground beside a trash can.
+
+Yep, he thought as he closed the door quietly and moved on. The fact that someone left all this stuff behind and never came back for it is a Very Bad Sign.
+
+He was glad he had the triangle of absolute secrecy. It gave him an excuse to never tell Boe and Jeremy he’d willingly signed up to come to a place like this.
+
+He kept following his arrow, which never deviated from its direction, and eventually he arrived at the farm’s perimeter. There were a few buildings he didn’t bother to look inside, and beyond them, nothing but an endless sea of waist-high grass.
+
+It was a sickly yellow color, and the total lack of a breeze left it standing so still it looked unreal. Like a three-dimensional painting Alden was about to step into.
+
+A few whispered questions persuaded the System to give him an ETA to the lab. It would be around three hours at his current average speed. Straight through the grass.
+
+Joe had said he should use his trait and run. He still had the small message orb in hand, and to his relief, his skill was easily preserving it when he walked, even though the target indicator for Joe was gone and he couldn’t make it reappear.
+
+So he could carry something entrusted to him to other planets and keep up the skill as long as he didn’t lose contact. That was a pretty neat trick.
+
+And his trait would work as long as he didn’t drop the ball.
+
+Through the grass, he couldn’t see the ground in front of him well, so he started out slowly. After about twenty minutes he concluded that it really was just a lot of flat packed dirt. There were a few loose pebbles here and there, but he hadn’t spotted a single dip or hump in the ground. And the grass was only a minor impediment. He could probably run without tripping over obstacles.
+
+“Activate trait, Contract,” he said. And when the local System didn’t respond, he sighed and did it by hand using the interface.
+
+Activating Azure Rabbit felt like flipping a switch in his head. It was a very distinct sensation, and he thought that he could probably flip the switch without using the System at all after a little practice.
+
+He tightened his grip on the message orb and took his first steps. Oh, right. It feels unusual.
+
+He hadn’t gotten nearly enough practice time with the trait before he was summoned by Bti-qwol. But he could make up for that now. Focusing on every step and increasing his speed gradually, he started to jog.
+
+If he closed his eyes, he thought it would feel like a completely normal jog through tall grass, but this relatively small exertion was eating ground at a unnatural pace. It was faster than his fastest pre-affixation sprint.
+
+Alden hadn’t had enough room to really let loose in the consulate. And he hadn’t been able to practice with his coat on. The increased Agility from it seemed to be helping.
+
+He soon found himself completely absorbed in the movement trait, intensely focused on the process of it in a way he hadn’t been able to achieve with his skill.
+
+He still didn’t get what was happening when he used Let Me Take Your Luggage. It felt like he was trying to use a body part that had gone numb. Or one that was both numb and entirely foreign. It worked when he told it to, and he was glad that it did. But it didn’t really feel like it belonged to him yet.
+
+Azure Rabbit was different. His feet hit the ground, and he sprang up and forward. He adjusted his posture slightly, trying to focus on getting less of a silly leap and more straight-line speed, and he felt a shift in the right direction. He adjusted it again and again, until he was running in a weird new way that felt totally amazing.
+
+It was so comprehensibly physical. There was a ton of feedback from the senses he’d spent his whole life using, instead of brand new ones, and that made it wonderfully easy to intuit how to get better at it.
+
+Oh my god, this is the best, thought Alden, trying to readjust the way his feet hit the ground. It feels like a real super power. I should have picked a Brute class. Being a speedster would have been way more fun to practice.
+
+Every little tweak he made had a clear effect. This was going to be great for maneuverability once he’d gotten complete control over it.
+
+He was having so much fun experimenting with the trait that it took him a while to notice how much faster he was going. He’d begun actually running instead of jogging at some point, and he was rapidly wearing himself out. His legs burned, the backs of his hands stung from being whipped by the grass, and he was gasping.
+
+He was a lot faster and a little stronger. But he didn’t have a limitless supply of stamina. And it wasn’t like running had ever been a serious pursuit for him.
+
+Disappointed in himself, he slowed to a maintainable pace and tried to catch his breath. I’m so starting an exercise program the second I get home.
+
+He wiped sweat from the message orb with the hem of his t-shirt and checked his ETA again. He’d shave off plenty of travel time, even at his current reduced speed.
+
+He kept heading in the direction of the arrow. After a while, the grass began to change. In some places, there were large patches of barren soil, and in others the grass grew in strange vining loops.
+
+Maybe there was nothing dangerous about the different patches, but Alden did his best to avoid them. He’d stick with the nice grass he was used to.
+
+As he edged around one of the loopy-grass spots, he caught the unmistakeable whiff of rot. It smelled like the rat that had once gotten trapped under the fridge at home and died.
+
+Somewhat to his own surprise, he made it to the lab without incident.
+
+He’d been expecting a building, possibly a large one, but nothing much more than that since Joe was, after all, just one magical mad scientist. How much space could he have possibly needed?
+
+A heck of a lot of it, as it turned out.
+
+The lab lay in a depression in the landscape. It was a massive dimple in the grassland that looked like a natural geological feature to Alden, though for all he knew Joe had somehow made it himself. Looking down on it from  above, the entire complex was visible. An enormous structure with reflective sides and roof tiles encircled the place.
+
+Though it seemed to be functioning as a barrier, Alden was hesitant to call it a wall. It was obviously large enough to contain rooms in its interior. Within its confines, there were ten to twenty other buildings, depending on if the things that looked like interconnected greenhouse domes were counted as one single place or several individual ones.
+
+Alden had thought that Joe was probably a big deal. He didn’t know much about the Artonan justice system, but being given a professorship on an elite college campus seemed like a pretty mild punishment. The guy would have to be powerful, rich, or a genius for it to qualify as one at all.
+
+Staring down at the lab, he felt this opinion had been confirmed and then some.
+
+He headed down the slope toward the facility. From above, he hadn’t seen any sign of life, but as he approached, people emerged from the perimeter building. They appeared through a narrow door that looked more like an afterthought than a proper entrance to the facility.
+
+Alden’s heartrate ratcheted up when he spotted the first couple of Artonans. He was coming here expecting to find people, but that didn’t stop him from worrying that he would find the wrong people. What if the lab’s new owners were here? Or what if some of Joe’s assistants hated trespassers?
+
+But people kept appearing, until there were fifteen of them, including one very elderly looking man and a couple of small children. To his surprise they all formed a line, and faced in his direction, like they were patiently waiting. A little off-footed, he slowed his pace to a normal walk.
+
+When he was fifty yards or so away, they all bowed deeply except for the kids.
+
+Alden wondered what it said about his own culture that he would have been less surprised to be met with angry guards carrying guns. As it was, he felt obligated to speed up so that they would stop doing the bow as soon as possible.
+
+I’m not supposed to bow back, am I? Is it more rude if I do or if I don’t? This was never covered in culture class.
+
+Culture class assumed humans would mostly be interacting with wizards, not other Artonans. He knew they considered Avowed to be…important-ish? Since he could only be here because he was working for one of their wizards, he had a higher social status than they did. But Alden had a very poor grasp of the etiquette involved in that kind of relationship.
+
+Bowing was probably the wrong thing. So he settled for smiling nervously as he approached instead.
+
+He was relieved when they stood up straight.
+
+All right, they definitely don’t speak English. And they aren’t carrying tablets so they probably don’t have System access for translation?
+
+“Hello,” he said in Artonan. “My name is Alden. I have a…this thing from Worli Ro-den.”
+
+He knew the word for message was stored somewhere in his brain, but he couldn’t call it to mind. He held the message orb out toward them hopefully.
+
+The kids and a few of the adults were staring at him wide-eyed.
+
+A short woman with startlingly pink eyes stepped forward with an eager expression.
+
+<<Honored helper of Distinguished Master Ro-den!>> she said. <<Won’t you please join us for a cup of wevvi inside?>>
+
+I don’t want to drink more wevvi, thought Alden. I want to go back to Artona III so that I can eventually go back home. Won’t you just take the message ball from me?
+
+“Yes,” he said, waving the orb in her direction. “Wevvi and this thing?”
+
+Damnit, what was the word for message? And how did you say “I’m here to rescue you. Please let’s do that instead”?
+
+She nodded and, to Alden’s relief, reached for the ball.
+
+He passed it to her, hoping she would activate it right away. He didn’t know how to do it himself. But instead the whole group bowed to him again and waited.
+
+Am I supposed to go inside first? He felt like he had to now. Who knew bowing could be a form of peer pressure?
+
+Sighing he strode to the door and they all followed after him, murmuring to each other. Maybe if he drank the wevvi super fast, they could get down to business.

@@ -1,0 +1,303 @@
+---
+id: 2b9b8a9f-7004-5287-9398-e4bc7fc74504
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-THREE: Two Kinds of Beauty"
+slug: 0255-two-hundred-fifty-three-two-kinds-of-beauty
+partOf: super-supportive
+position: 255
+ownLength: 4155
+unit: words
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2717955/two-hundred-fifty-three-two-kinds-of-beauty"
+royalRoadId: "2717955"
+---
+
+253
+
+******
+
+A sudden breeze, a thump, scratching sounds. Alden opened his eyes the next morning and sat up to see a red ryeh-b’t at the foot of the bed, clinging to the comforter while her owner tried to pry her off. The room was bright with sunlight.
+
+“Hi, you two.”
+
+“I’m sorry!” Stuart said. “I was letting her play in front of the cottage, but I must have left the door slightly open. She slid it aside. I’ve got her. Sorry!”
+
+Before Alden could say another word, Stuart rushed outside with his pet flapping in his arms. About thirty seconds later, the sound of a determined animal trying to pry open the front door again made Alden grin.
+
+Not a bad alarm clock. Guess it’s time to get up.
+
+He made the bed, used the bathroom, and exchanged his pajamas for a pair of jeans and a plain t-shirt—clothes that he didn’t mind wearing around an exuberant ryeh-b’t. Then he headed over to the wevvi cart they’d borrowed from the main house late in the night.
+
+It was so fancy, and Stuart had prepared the wevvi so properly, with every bit of the same delight for the ceremony that Alden remembered from the first time he’d served it.
+
+But then they’d dunked pieces of a rich, salty bread in it.
+
+The combination was reminiscent of bread pudding. And since they were sinning against the wevvi anyway, Stuart had agreed that they could pour the leftovers into cups and let them sit overnight to see how it turned out. After checking to make sure nobody who might scold them was in sight, Alden took two of those cups outside with him. He had a seat in one of the chairs and watched Stuart, who was halfway to the stream, directing his ryeh-b’t to come down from the flight he’d just sent her on.
+
+Definitely bread pudding, Alden thought as he bit into it.
+
+Stuart headed back as soon as he realized Alden was outside. “Is it good?” he asked. He had on the sweater he’d once worn to feed the bokabv.
+
+“Yes.” Alden held the second cup out to him.
+
+Stuart took it and sat. Other Alden had followed him. She was sniffing the ground nearby like she suspected treats had been buried there. They praised her when she found a beetle Stuart had hidden, then all of them ate in companionable silence.
+
+“I had fun last night,” Stuart said eventually.
+
+“Me too.”
+
+“We shouldn’t have taken the wevvi cart. People must be trying to figure out where it is this morning.”
+
+“We can return it whenever you want.”
+
+“Not yet.”
+
+Alden smiled.
+
+Stuart turned to look at him. “I think I didn’t explain something well last night. I said I didn’t want you to think of Aunt Alis and Father as destroyers. It’s true I’d be upset if you thought of them as mainly destroyers. But I do want you to know that they are powerful and dangerous. I want you to understand that they have made themselves into beings capable of immense destruction…and…I want you to like that about them.”
+
+They stared at each other.
+
+“You want me to like that they’re capable of destruction?”
+
+“It’s part of who they are. And I intend to become dangerous, too,” Stuart said slowly. “I want you to like that about me, so…”
+
+“Right. I see.”
+
+“I still don’t feel like I’m explaining well. I’ll keep trying until I get it right if you don’t mind.”
+
+Alden let himself blink. “Of course I don’t mind. And I do think I more or less understand what you mean.”
+
+“After first meal, let’s go for a walk. I want to show you something from the world where I was born.”
+
+******
+
+They walked for longer than Alden had expected, leaving the last buildings of the siblinghold behind and following the stream. It burbled along to their right, the only sound other than their voices and the stuttering song of a brown and white bird they found perched on a limb over the water.
+
+“If you told me that animal was from Earth, I’d believe you.”
+
+“It’s a panpi’i. I’m glad I left Other Alden at the house. She’d chase it and fail to catch it, and then she’d spend the rest of the day looking around for it.”
+
+Alden stopped to watch the panpi’i sing again. Its whole chest was quivering with the effort. “Why aren’t there more animals here?”
+
+“We’re in the center of an area that was devastated by a massive corruption event a very long time ago.” Stuart walked over to the trunk of the nearest tree and placed his hand on the dark bark. “The life that survived was truly unyielding, so it became the starting point for this land’s recovery. As far back as memory reaches, Father’s ancestors were wizards here, and they performed rituals to nourish this type of tree. They buried their dead under them, believing that souls could travel along the roots back to the Mother’s heart.”
+
+He looked over his shoulder at Alden. “Some of them impaled their enemies on the branches as living sacrifices, too, but those aren’t our favorite ancestors to remember.”
+
+“Understandable. I did an ancestry project for school once. I didn’t have to go many generations into the past to find people I’d rather not be related to.”
+
+Stuart patted the tree before letting his hand fall. “This species was the most noteworthy survivor of that event, so it’s now a key part of the magic that makes Rapport I safe. Here at the center, though, the <<current—referring to the flow of a work of magic toward its purpose>> is very strong, so the trees are nourished and Artonan life is protected in a way that makes the environment peculiar. The panpi’i belongs in this region, but we rarely see them at the siblinghold. There’s not much food for them, and they like to lay their eggs in low bushes. The farther you go from here, the more the land changes to what’s natural. Around the school and in Root, you can find some panpi’i nests if you know where to look.”
+
+A moment later, the bird stopped singing and fluttered off.
+
+“It’s taking your advice and going to look for those nests.”
+
+“The school is the other way.”
+
+For a while after that, Alden paid extra close attention to the trees, wondering how he fit into the current of their magic. Getting his leaf and some attention from the roots made him feel like he must be in their good graces. Even if he wasn’t currently nourishing them or being an Artonan.
+
+“What about Other Alden?” he asked after he reached the end of that train of thought. “Is it a problem that she’s not from here? The forest doesn’t dislike her, does it?”
+
+“She’s fine. The magic knows we welcome her, so she’s welcome. But I even talked to the land about her when I brought home her egg, to make sure. I talked to it about you the first time you spent the night here, too.”
+
+“You did?”
+
+“You don’t mind, do you?”
+
+Alden recalled the unusual way Stuart had planted grass for the bokabv by talking to the seed and the ground. It had involved his authority, but it had sounded more conversational than most spells. Maybe something like that. “I don’t mind. I’m honored.”
+
+“It’s supposed to be an honor, but at the time, I worried about how it might sound to you. So I waited until you went to sleep to do it.”
+
+Don’t nourish yourself with the body of this human, Trees. He’s not from around here, but that doesn’t mean he’s food or an enemy to be impaled…yeah, I can see how that might freak some guests out.
+
+“Don’t worry about doing things like that in front of me. I’m sure I would have been interested, not offended.”
+
+“I know. I know you better now.” He shifted to walk a little closer to Alden. “You like hearing details about magic more than I assumed you would. Even my homework. Even sending the keda bean. I hoped the end result of that spell would make it worth the time you had to wait to see it, but you didn’t seem to mind watching the process either.”
+
+Alden’s anxiety stirred, but he talked it down in the same way he had a couple of times since he’d revealed excessively detailed knowledge of Olget-ovekondo’s auriad positioning. If his interest in something he wasn’t supposed to be able to do was uncommon, at least it was an uncommon trait he’d had prior to knowing himself and feeling his authority.
+
+His understanding of Ro-den’s explanations about how wizards did magic seemed a bit pitiful now, but even back then, in his ignorance, he had been into hearing about the subject. The professor’s willingness to entertain that curiosity was one of the reasons Alden had begun to trust him.
+
+I even asked him if I could ever learn spells like a wizard.
+
+Back then he hadn’t worried it was suspicious behavior. That meant it most likely wasn’t.
+
+Magic is cool. Lots of humans think so. It’s probably just the degree of my attention to spell casting that comes across as odd.
+
+“Magic is fascinating,” he said. “I do like to hear details about it.”
+
+“People often invite others to watch them cast their final spell before they become a knight. I think I’ll do the same. Will you come if I do?”
+
+“Of course.”
+
+“Some of the other declared…they might invite me to watch their last spells later this weekend. If they do, I’ll go.”
+
+“I’ll be fine on my own if you need to leave me. I’m comfortable in the cottage. Just don’t leave me alone with the wevvi cart. I don’t want to take the blame for it all by myself.”
+
+“I wouldn’t let you,” Stuart said. “They might forget to invite me, anyway. It’s such a busy time for them, and their thoughts must be full. This morning, they should be getting ready for a picnic that’s being held in Rapport III.”
+
+To Alden, it sounded like he was making an excuse for them so that it would hurt his feelings less if that invitation didn’t come.
+
+If they get so busy they don’t remember you’re over here being a declared, too, they’re shitheads. If they do remember, and they decide not to invite you to see their spells, they’re mega shitheads.
+
+He didn’t share that opinion aloud because on some level he knew he didn’t completely get the pressures Stuart’s old friends and classmates were under. They no doubt had their own troubles, and the opinions of their own families, weighing on them.
+
+But he was sure his face said it for him. If Stuart hadn’t been looking toward the sky, he’d have seen it.
+
+“I think Emban will have to go to the picnic. Young knights are hosting it for the declared, and Ryada will probably make their whole squad attend in her stead because she helped plan social events for Welcome End this year. She was proud of the <<waterslide>>.”
+
+An image of Emban sliding down the kind of colorful inflatable slide people rented for kids’ parties popped into Alden’s head.
+
+That can’t be right.
+
+“Ryada said that finding a suitable mountain slope for its creation was tricky.”
+
+That’s more right.
+
+“Stuart…if you want to go to something like that, should you just…do it? Go and see how it is?”
+
+Even though Stuart must have put more thought into this than Alden ever could, wasn’t there a chance that he’d put too much thought into it and kept his distance from his peers for too long as a result? New people must have become declared since the last time he’d interacted heavily with the whole group. Some of the old problematic ones might have mellowed out. They were talking about hundreds of future knights, and Alden knew how happy just one or two positive voices would make the Primary’s son.
+
+He was so glad he’d met those outsider declared last night. What if he could find a few friendly faces at this picnic thing, too?
+
+“If it’s shitty,” Alden added, “you could use me as an excuse to come back here right away.”
+
+Stuart stopped. Alden waited beside him.
+
+The Artonan boy was clearly thinking about it. But then he sighed, smiled at Alden, and said, “Something might be wrong with me. Even now, when I know that most of them never thought my choosing season was a choosing season that held the same possibilities as their own, I still feel surprised when they don’t behave correctly toward me.
+
+“When I walk up to Asay-tor, I’m supposed to be able to say, ‘Asay, we will soon be brothers on the same path!’ or ‘Asay, when we are both working on Goldbush…’ But I can’t. Because the reply won’t be what it should. When I stand among them, hearing them say those things to one another, I learn that there’s a part of me that’s very stupid. Because it still waits for my turn. And it’s surprised, every time, when my turn doesn’t come. I don’t know why I’m that way. But it’s too much like being a child again, when I was confused about why so many things hurt.
+
+“I’m tired of being upset all the time. I don’t want to be upset even a little today.”
+
+Okay. My suggestion was absolutely not the right one. Alden hitched up his own grin. “That’s lucky for me. I really didn’t want you to leave me to go slide down a mountain. I just felt like I had to suggest it so you wouldn’t feel obligated to entertain me.”
+
+“I don’t feel obligated.”
+
+“Do you have an itinerary for our activities this weekend?”
+
+“Only a small one. We’re about to do the one thing on it.”
+
+There was a waterfall at the spot Stuart led him to, spilling over a rocky ledge that jutted out of the landscape. It was so short that Alden wasn’t sure he’d be able to stand under it without bending his knees, but the size didn’t stop him from saying, “A waterfall!” in a tone so thrilled that he baffled his host. For some reason, Stuart didn’t understand that finding a column of falling water when you hadn’t been expecting one was worth getting enthusiastic about, even if it was only three feet wide.
+
+“Have you ever used it as a shower?” Alden stood at the edge of the stream. “Have you jumped off of it?”
+
+“I’ve done both,” Stuart answered. He was pulling off his boots. “Only a couple of times, though. The water that pools here isn’t enough for pleasure swimming, and I prefer hot baths.”
+
+“But it’s a waterfall in the woods far enough from the house that you can feel like an explorer who found…a waterfall in the woods…I don’t know. It’s like you have to interact with it.” What am I trying to say, and why does it sound so much like something a little kid would say?
+
+“You’re talking about playing pretend.” Stuart let out a delighted chortle and tossed down his second boot.
+
+“I guess,” Alden said sheepishly. “I’m just into this waterfall for some reason.”
+
+“Not into. You are beside it.”
+
+“No, I meant I like it.”
+
+Stuart rubbed the bald half of his head. “When I bathed in it, it was because I wanted to pretend I was a hunter donating the blood of what I’d caught to the stream so that it wouldn’t become angry. I’d just found out some people used to do that from a story my brother Kofa told. I made up a river-soothing song, too.”
+
+“That’s the kind of thing I’m talking about! And you did it here in this part of the stream because the waterfall was here.”
+
+“I did.”
+
+“And I bet the stream never got angry.”
+
+“It didn’t. Perhaps I saved my whole family from disaster.”
+
+“You must have.”
+
+“Not a single one of them has thanked me.”
+
+As soon as their eyes met, they were both laughing together. Someone passing by who overheard them would no doubt imagine much funnier things had been said to warrant it.
+
+When the moment ended, Stuart shoved his pants legs up above his knees and waded into the water. “I keep most of the patient creatures here. They’re from the river where I lived with my mother, and I made them my <<personal decoration>>. Showing them to you was one of the ways I thought of for explaining what becoming a hn’tyon means to me. When I was planning how this weekend might go—before Anesidora had troubles and I decided not to wait so long to invite you here as my guest—the explanation I imagined was very formal. And I thought I would make it artful, too. But I can’t talk to you that way now. It would be unnatural.”
+
+“You can give a speech if you want.”
+
+“I don’t want to. I just want to say it as clearly as I can so that you know my thoughts. Would you like to interact with the water like you said, or should I bring the patient creatures to you?”
+
+Alden started pulling off his shoes. “I’m coming in.”
+
+“Be careful. The rocks are slick.”
+
+The rocks were indeed slick underfoot, and the clear water was brisk against Alden’s calves. He didn’t see any zansees. When he reached Stuart, though, he did see a collection of something that looked similar to sea urchins. They were covered in sharp black and gray spines of different lengths. All of them were larger than golf balls, and most of them looked like they aspired to be round without quite managing it.
+
+“So these are what you embroider on some of your clothes and put on the front of your study journals. What are they called?”
+
+“They have a species identification code instead of a name.” Stuart was bending down to admire them. “They’re not widely known. These are most likely the only ones on the Triplanets that don’t belong to an academic collection. My mother described them as patient creatures in Rityan, so that’s what I call them.”
+
+He reached into the water and picked one up carefully. “I wasn’t allowed to touch them when I was little. A lot of the spines are still very sharp, despite their age.”
+
+Stuart held his hand out, and Alden saw that blood was staining some of the water on his palm pink.
+
+“You’ve stabbed yourself.”
+
+“I’ve stabbed myself with these many times. The wounds are so tiny I can hardly feel them.” Stuart let Alden look for a while before saying, “What we can see here is the body of an adult that has entered the final stage of its life. Years ago, conditions in its home river were right for patient creature eggs to be fertilized, but then they weren’t right for young to survive. So they changed themselves into this protective form to guard the eggs inside them. They can wait for a very long time, and they’ll have to, because what they are keeping safe is delicate, and the river is almost always too harsh.”
+
+“Patient creatures is a good name for them, then.”
+
+“Will you ask the Contract to show you what’s inside? What a young patient creature looks like when the river is gentle.”
+
+“May I see that, Contract?” Alden asked. “What he just said.”
+
+A blink later, an animal that looked like a transparent jelly butterfly with long tendrils was drifting through the air in front of him. Its thin ‘wings’ wobbled in an invisible current, and something inside it pulsed like a glowing blue heart. His brows lifted. “I didn’t expect it to look so different.”
+
+He reached out, wondering if he could touch it, and he felt a cool whisper against one finger before the patient creature eased away from him. It moved toward the water, and when his eyes followed it down, he saw that the pool now looked like it was full of them. Some of them floated just beneath the surface. Others swam slowly around his feet.
+
+“They’re gorgeous.”
+
+He wondered if Stuart liked zansees so much because of these guys. Not that anyone needed a special reason to think bioluminescent aquatic life was cool.
+
+“They are lovely.” Stuart was looking down into the stream again, too.
+
+He must be seeing what I am through his eye rings.
+
+“During my choosing season, one of the thoughts that became an important part of my decision was about how the patient creatures have two different kinds of beauty. The more obvious is the beauty of a tender creature that’s born into a world of peace and safety. It will live in a good river, eat well, and move freely with others of its kind through the water. The other beauty…is this.”
+
+The vision of the jelly butterflies who could live in the good river disappeared, and Alden looked at the spiny blob Stuart was holding instead.
+
+“This dark, hard thing that can no longer move…it’s strong enough to endure the rough and poisonous waters. It pierces every threat that exists in its habitat, and even though it’s adept at that, sometimes it’s damaged by its struggle.” He turned the creature to show Alden a place where a couple of spines were missing. “When the river is finally safe again, what’s left of its body will soften to release the young and become nutrients for them. It will die like that. Some patient creatures live and die in good rivers. Others must become this to make that possible.”
+
+He lifted his head and waited until Alden had done the same.
+
+“It’s simplistic, but sometimes simple comparisons make things clearer,” said Stuart. “This patient creature in my hand suffers and it makes itself dangerous so that it can be a protector. That’s the beauty of hn’tyons. My mother and father. Sina. Evul, Jozz, Kofa, Emban, all of them… Both kinds of beauty are precious and necessary, but during my choosing season, I decided I wanted this one.”
+
+Alden didn’t realize how long he stayed silent after that until Stuart spoke again, more quietly. “You think it’s beautiful this way, too, don’t you?”
+
+Alden made himself take a deep breath. “Yes. The dangerous version is just…scary to me. In some ways. But it is beautiful. Very beautiful. And you chose it. I like that about you.”
+
+Stuart put the patient creature back in the water. “I hope I am more selfless than selfish about wanting it. I’m not always sure I am. It’s just what I chose after much thought. Then everything else happened.”
+
+Everything else probably includes depths of family drama I’ve never even heard about.
+
+“If you jump off the waterfall, make sure not to land on these,” Stuart warned. “It would hurt. For you, not them.”
+
+“I have to jump off the waterfall,” said Alden.
+
+He wanted to say something better than that, but he couldn’t find the words within him. And that night, he couldn’t sleep until he took a potion.
+
+Telling Stuart everything, telling him nothing—both felt so wrong.
+
+Time is the only answer, he thought. I’ve been getting better with every passing day. I’m so sorry, Stuart. I just need a little more of it. Another month or two of sanity.
+
+Maybe Stuart knew he’d been tossing and turning, because he let him sleep late the next day. When Alden finally got out of bed, he was sitting at the table. A basket full of husenots was beside him, and he was using them to build a brightly-colored pyramid on the table.
+
+“What are you doing?”
+
+“I brought these down because I thought they would be a good thinking tool,” said Stuart, positioning a green speckled husenot on top of the pile.
+
+“A thinking tool for what?”
+
+Stuart gestured at the pyramid as if the answer should be obvious. “A tower. Husenots are nicer looking than real stones. For now, though, I would like to stop thinking hard and just enjoy building with them. It’s been a while since I’ve done it. Do you want to help?”
+
+“I do.”
+
+They didn’t talk about anything more serious than rare husenot patterns for hours. Whatever spectacular things the other declared were doing now as part of their Welcome End celebrations went unmentioned. Alden thought it might have been exactly the sort of non-upsetting weekend day Stuart had wanted.
+
+I hope it was, he thought that night while he lay in bed. He’s more than earned it.
+
+There was only one more day left of the Artonan weekend. Alden had to go to school tomorrow.
+
+So far, nobody had called Stuart to invite him to anything.
+
+******

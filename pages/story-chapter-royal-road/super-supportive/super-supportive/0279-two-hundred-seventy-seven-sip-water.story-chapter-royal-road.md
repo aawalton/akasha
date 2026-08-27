@@ -1,0 +1,291 @@
+---
+id: 17e99ee7-43aa-5653-babd-fb9192e50ace
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-SEVEN: Sip Water"
+slug: 0279-two-hundred-seventy-seven-sip-water
+partOf: super-supportive
+position: 279
+ownLength: 3802
+unit: words
+publishedAt: 2026-03-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3175741/two-hundred-seventy-seven-sip-water"
+royalRoadId: "3175741"
+---
+
+277
+
+******
+
+“It’s fine. I didn’t even know I wanted a set of armor rings until today. I can live without them.”
+
+Alden sat on a large, glossy wooden chest, watching Stuart close the lid on a jewelry box that was only big enough for a couple of fists instead of a couple of people. This was the third place they’d checked after realizing the room-sized jewelry box hadn’t held the rings.
+
+“They’re supposed to be here. They were here only days ago. I saw them! And they’re still on the library’s inventory. Someone has taken them without updating the list.”
+
+“And that person should be force fed a cup of cooking fat as punishment,” Alden said, trying to match Stuart’s scandalized tone. “We have to find out who it was. Call the executioner, and may their wevvi forever be lukewarm!”
+
+Stuart let his fingers fall away from the box. “I really wanted you to have those. Soon. I have an idea for where to quickly get a different set, but it won’t be quite as good.”
+
+“Why soon?”
+
+“I told you. To protect your casting ability.”
+
+“I’m not planning to do anything dangerous with my hands this afternoon. I’m not likely to hurt myself.”
+
+“I know, but…. Do you have a saying on Earth like, ‘He could have been a Master, but he forgot to sip water’?”
+
+“I’m not familiar with one.”
+
+“It means you can’t reach a high goal while ignoring your most ordinary needs. I’m trying to think of what those are for you. Your casting is limited by several factors we can’t control, so we ought to take near-perfect care of the ones we can.”
+
+“Sip water,” said Alden. “Protect my hands.”
+
+He got it. And hearing it put this way gave his own bouncing thoughts a place to land.
+
+He had spent a significant amount of his time over the past few months trying to acquire abilities that would have made surviving his first trip into chaos easier. He said as much to Stuart, who’d just opened a wardrobe full of hanging bags that looked like larger versions of Alden’s new ingredient case.
+
+“I should learn more about Goldbush so that I can anticipate what I might need there.”
+
+“You should,” Stuart acknowledged.
+
+“Could you give me a good spell for getting water? Either locating it or drawing moisture out of the air or turning something else into it.”
+
+“You’re taking ‘sip water’ literally.”
+
+“If those sprinklers had stopped working when I was running with Kibby I couldn’t have made it to your aunt.”
+
+Stuart turned to look at him. “There are many spells for that. And you do need to learn some of them, but not for Goldbush. You need to do it for cultural reasons.”
+
+Alden blinked.
+
+“Remember, I told you that being able to provide food, water, shelter, basic protections, and some other types of help are graduation requirements for the Rapport school.”
+
+“I remember. You can’t go to wizard university without being able to do it.”
+
+“An adult wizard should be able to keep a small village of ordinary people alive through a hard winter. It doesn’t matter that that sort of thing is unlikely to be asked of many of us in modern times. It’s still the starting place for the path of higher onus,” said Stuart. “Of course, knights do serve in another way. Evul hasn’t attended a single class at DawnStep despite being enrolled for decades, which is certainly a decision that isn’t well regarded by everyone. But even she would be embarrassed if someone asked her for water to drink, and she couldn’t do it. In a practical sense, it rarely matters. In a social sense… ”
+
+“Knights who can’t cast spells take a votary to the Here-to-There so that nobody has to worry about that embarrassment at all,” said Alden.
+
+“If I hadn’t gone, one of the other wizards would have offered to serve as a caster for them, but that becomes awkward in a different way. You don’t want to end up with someone like Olget-ovekondo representing you at an event like that.”
+
+“All right. I will learn to summon water. And farm. And build houses.” He didn’t want to be an embarrassment, but that was an intimidating collection of jobs already.
+
+“Providing shelter and food doesn’t necessarily mean building houses and farming. First schools often teach a blend of foraging and agricultural spells. But Eeaner-ket—one of my housemates at LeafSong—attended a school dedicated to preserving the wizarding knowledge of the tribes of Ket. They meet some of the standard educational expectations in uncommon ways. He learned their traditional small-prey hunting.”
+
+“Hunting might be a little more useful for me than farming in chaos.”
+
+“They’re both useful. Just for different situations. I’ll give you some water gathering spells to choose from, but in your preparations for Goldbush, you should think less of such basic survival.”
+
+Alden spread his hands. “First, sip water.”
+
+“Yes, but you’re still picturing how it was for you on Thegund, where you were alone except for Kivb-ee. Actually, you seem to be imagining the worst possible version of Thegund. One where you are alone with almost no supplies. On Goldbush, we’re much more likely to die of sudden injury—with full stomachs and within reach of allies—than of hunger or thirst. And we aren’t likely to die there at all if we don’t behave stupidly. People will know where we are and what we’ve been given to do. If we miss a scheduled <<check-in>>, they’ll look for us immediately. Even if we’re not working with anyone else for some reason, we’ll be traveling with redundant supplies. I’m going to take one of these, and we probably won’t even get to use it if we’re with a squad.”
+
+He reached into the wardrobe and touched one of the bags. “This one. It’s old-fashioned, but I like it.”
+
+“What is it?” asked Alden.
+
+“A tent. And it has two different ways of providing us with water.”
+
+“Understood. I should eventually learn to obtain water for cultural reasons, but Goldbush won’t be a wilderness survival experience. The most basic things I can do to prepare are probably…gaining knowledge of how knights and wizards do their work in that place so that I don’t get in the way and improving my ability to defend myself from whatever kinds of demons are common. Self-defense spells would be good. So would learning to use all the equipment you’re taking; enchanted supplies I can’t figure out how to activate won’t help us.”
+
+Stuart let go of the tent.
+
+“All of that is fine,” he said. “You can learn defense spells if you want. But you’re ignoring the obvious so much it’s driving me into an itch thicket! The first step is making a decision about what powers you’ll have after your binding. So that you don’t have to choose moments before it happens. And so we actually know what you’ll be able to do and what you won’t! There are no spells you can learn, and few preparations you can make, that will affect us both more than that. You—”
+
+Alden expected to learn a brand new Artonan word then. Like whatever the more irritated version of bonk-noggined was. But a high ringing sound drew Stuart’s attention to the bell around his neck.
+
+He gasped. “Someone’s coming down here.”
+
+Alden moved immediately to hide his sensitivity training kit in his messenger bag. His auriad was already around his calf, covered by his pants, but he checked it with his eyes anyway. Then he took a short string of white beads from the top of the chest he was sitting on and tossed it into his bag, too. They’d taken it from the giant jewelry box. It was supposed to wrap around a wrist or hang from a belt and detect what kind of magic was happening near it. Stuart said it wasn’t reliable, but that Alden might be able to use it to tell when he was on the right track practicing a new spell.
+
+He tried to look innocent as footsteps hurried toward them. Stuart had just shut the wardrobe.
+
+“The samples are from two years ago!” a voice shouted. “Will they be of any use to you? I can call someone who was in that patch more recently to see what they have.”
+
+“I’ll take whatever you can get quickly!”
+
+Two people had entered the supply library. The first voice was coming from the other end of the room, out of sight behind rows of shelving and roots. The other belonged to a man with very long black hair that had been pulled back in a loose tail.
+
+He was dressed in flowing embroidered pants and a tight, unadorned gray shirt that didn’t match them.
+
+Aymeg. One of Stuart’s parents. And the one who’d suggested they use the relationship with Alden to manipulate Stuart toward their way of thinking. Alden’s posture straightened, but Aymeg only turned an eye to glance at him as he swept past.
+
+The shirt he was wearing looked a bit like an undergarment. In combination with the unbraided hair and the hurry he seemed to be in, Alden wondered if he had been interrupted while he was getting dressed.
+
+Stuart’s face was worried. He slid the ring that was keeping his conversation with Alden private off his finger. “Aymeg Dad, what’s happened? Can I help with something?”
+
+“I have this,” Aymeg called. “Ask your brother.”
+
+“Jozz!” Stuart said, squeezing through a gap between the wardrobe and a shelf to get to the next aisle quickly. “I’m in here! Do you need me?”
+
+“Stu? Find something that will amplify the origin of these samples! It’s fine if it doesn’t last long.”
+
+“What kind of samples?”
+
+Alden wasn’t sure if he should follow Stuart or stay where he was and keep out of the way. Keeping out of the way seemed like the better choice as more seconds passed.
+
+If Stuart hadn’t set the bell alarm and thought of the rings, they might have been overheard by these two, who definitely weren’t Alden’s favorite art’hs, given the little he knew about them. He waited, watching Aymeg since he was the only one in view.
+
+He’d gone to a cabinet with wide shallow drawers. After only a brief look at the labeling, he pulled one out, and Alden realized that what he’d thought were drawers were more like frames. Aymeg removed one entirely, carefully studying the white and black drawing on it.
+
+Alden could see the back of it, and whatever paper or fabric it was made from was thin enough for him to make out the dark lines on the other side clearly.
+
+Looks like a map.
+
+But it was one so simple it wouldn’t be very informative. No marks for cities, only a few squiggles that might have been rivers or borders, and a couple of symbols along each side that meant nothing to Alden—that was all there was to it.
+
+Aymeg seemed satisfied with it, though. He adjusted his grip and started carrying it back toward the elevator, frame and all, still moving rather fast.
+
+“Jozz!” he called out.
+
+“I found it! We’ve got what we need!” Jozz called back.
+
+Aymeg’s steps slowed only a little as he approached Alden again. His eye turned. Alden nodded and smiled. Then, the man was past him, and he relaxed. He saw a flash of movement that was probably Stuart heading back this way.
+
+That wasn’t much of an interruption, he thought, relieved.
+
+“Stu!” Aymeg’s voice rose. “Take that ring from Alden Ryeh-b’t, and put the set back where it belongs. You don’t need those for anything, and they’re five hundred years old. Who knows what effect a human wearer might have on them? They’re not <<playthings>>.”
+
+Alden looked down at the rough stone ring he was still wearing. He hadn’t thought to remove it. He and Stuart had worn them before during the Here-to-There in full view of hundreds of people, so they didn’t feel like something forbidden.
+
+He slid it off his finger.
+
+Aymeg could have just said something to me when he passed.
+
+“And don’t open that chest he’s sitting on!” Aymeg shouted. “It was last unsealed before you were born, and there’s hardly anyone alive who knows how to take care of a material like that if anything goes wrong with it!”
+
+Alden slowly stood up from the chest full of something that hardly anyone alive knew how to fix.
+
+Aymeg and Jozz both left. But it took a couple of minutes for Stuart to get back to Alden, as if he’d paused to look at something on the way.
+
+Or, Alden thought, upon seeing his expression when he did reappear, he might have needed those couple of minutes to deal with his feelings.
+
+“Put the ring back on,” Stuart said slowly.
+
+Alden could tell they were a bit beyond itch thicket irritation now, so he didn’t argue. He grabbed the ring and shoved it onto his right pinky. Stuart was eyeing the chest full of precious whatever like he was seriously thinking of yanking it open.
+
+“Everything all right?”
+
+“No,” Stuart said. “Someone’s missing on Goldbush. I don’t know who. Not a friend or family member of ours, Jozz said.”
+
+“That’s terrible,” Alden said. “Are they going to help?”
+
+“Aymeg’s going to try. He’s been working to master a particular kind of magic for situations like this. He’s not one of the best at it yet, but when a knight goes missing in a corrupted environment, having more people attempting to find them is better.”
+
+Isn’t it odd that we were talking about the bad things that can happen there…and then this happens?
+
+“Does this happen often?”
+
+Stuart sighed. “It’s like I said. A missed check-in. A call for help coming here, though, must mean that the people on Goldbush who should’ve been able to find the missing can’t. Which makes it less likely that they’re alive.”
+
+He looked at Alden. “It is a dangerous place.”
+
+“Good thing you’re taking me there with you,” Alden said after a beat.
+
+Stuart smiled a little. He drew closer, without moving a muscle. Alden’s brain tried to decide what to compare the feeling to, and all he could come up with was the idea of knowing, with your eyes closed, that something good was in the room with you. Like a friend, a delicious meal, or a purring cat.
+
+“I think growing up without a wizard vocabulary makes me pretty confused about how to describe what I’m experiencing with my authority sense sometimes. That’s a comfortable, friendly thing you’re doing right now. What’s it called in Artonan?”
+
+<<Closeness.>>
+
+A different word for closeness than the ones he already knew. Specifically for this thing. Probably better than thinking of it as the purr of a nearby cat. “That’s a good one. What’s in this chest?”
+
+“Part of a demon Father’s sire killed.”
+
+Alden took a step back.
+
+“There’s no danger. The demon had interesting abilities, so efforts were made to salvage some of it. It’s really a piece of the demon’s skin that was transmogrified into something like the demon’s skin in a way that, remarkably, kept the most useful properties. I’m sure Father’s sire intended to have it turned into armor or a tool, but it’s a difficult material to manage. The kind a great craftsperson might work on carefully and still ruin. So it just sits here.”
+
+Alden took note of how Stuart was describing his paternal grandfather. “Sire” implied that Jeneth-art’h acknowledged no more than a genetic connection. Since Murmur was Grandpa-Grandpa to Stuart, that meant the Primary considered the Mleirt to be more of a parent than the man who’d technically fathered him.
+
+And when Stuart had talked about how home could be something Alden imagined for his future, he had said that his father and his father’s siblings hadn’t liked their first one much.
+
+“So your Father’s sire was a knight?”
+
+“Yes,” said Stuart, moving toward the cabinet that had held the framed map. “Father, Alis, and Tesen were among the last children he sired. It’s a story from a different time, but we should talk about it some, so that the history doesn’t catch you by surprise when it leaks into the present.
+
+“Hn’tyon Renjen-art’h fought many battles against <<encroaching>> chaos throughout his life and was among the most powerful Artonans ever to live. Perhaps without him, our people would be much worse off. He has been acknowledged as a great hero in many places, though more quietly these days. My father, my aunt, and many knights of their generation consider some of his actions, and the actions of others like him, repulsive.”
+
+“He was a bad guy?”
+
+“He sired at least sixteen hundred children,” said Stuart, “to help keep the training facilities full. The students in those facilities were raised for the purpose of being bound, with no care for whether knighthood suited them.”
+
+“They were forced?” Sixteen hundred…
+
+“Technically not, but they were taught that becoming a knight was the only decent way for them to live. They had almost no interaction with the world outside the facilities, and they were pushed toward accepting their first binding the moment they were old enough. Under circumstances like that, hardly any refused.” He spoke bleakly. “If hundreds of thousands are churned through the process, then those with surprising capability and resilience will be found. At the cost of all the others. Father was lucky in several ways. He was raised in the art’h dormitory after Murmur was given the job of watching over the children there, and he was very close to Aunt Alis and Uncle Tesen. The list of high priority skills his trainers wanted him to choose from happened to include one he has been able to make his own. And Aunt Alis was deemed extremely talented, so their early assignments were given with more care for their safety.”
+
+What a fucked up story, thought Alden, looking around him, taking in one floor of the massive siblinghold, thinking of how much life was going on up above them.
+
+“Enough of those children grew into their knighthood. They learned what parts of the world had been taken from them and saw almost all of the people who they’d been raised with die,” said Stuart. “The way we do things now—our oaths, our choosing seasons, so much more—is what they should have had. They guard it for us.”
+
+He was looking at the cabinet, at the empty slot where the map had been. “Aymeg took the best of the Goldbush maps.”
+
+“Some are better than others?”
+
+“These are ingredients for the spell he’ll use. The map he selected will be consumed. It took him a long time to make that one. Having them for everywhere a member of our family may go is important to him.”
+
+Alden looked at the labels on the edges of the drawers. They mostly seemed to be the names of planets. There were quite a few of them.
+
+“Now, the lives of young knights are precious to us,” said Stuart. “Many people will look for whoever is lost. It’s a better time. We’re fortunate, you and I.”
+
+On the way back to the elevator, Stuart opened the door of the wardrobe with the tent in it and pulled out a different bag. “This is for you, too,” he said.
+
+“Is it a tent?”
+
+“Of a sort. It will block sound. Even Lute won’t be able to hear through it. You can use it when you’re on Earth to practice spells that require chanting. You might not be able to cast most of them, but you should at least have the option of trying some without worrying someone will hear you.”
+
+“Thank you. This will be useful.”
+
+They made their way slowly back toward the elevator. Stuart seemed out of sorts, but not too much so. He kept up the new kind of existential closeness, and Alden tried to meet it with something similar of his own. Though half the time he just ended up turning it into a pat-pat like he might give Kibby. It was hard to do new things like this and simultaneously listen to Stuart’s explanations about how some of the different gadgets they were walking past worked.
+
+Stuart stopped abruptly when they were finally in front of the elevator, right after Alden had overcorrected into another pat-pat that had felt less moderate than his usual ones.
+
+“Sorry,” said Alden. “Did I just punch you? I didn’t mean to.”
+
+“I don’t think,” Stuart said quietly, “that we should tell my parents about you  yet. Despite what I said this morning.”
+
+Alden saw him swallow hard.
+
+“No?” he asked.
+
+Stuart shook his head.
+
+“Is it because of Aymeg?”
+
+“I don’t trust them,” Stuart said, his voice even smaller. “I don’t trust them to treat you as they should.”
+
+Alden hadn’t been eager to tell Stuart’s parents. But he felt a stab of disappointment that let him know he had been eager to be accepted by them. It had worked out so perfectly with Stuart, why not with just a few more?
+
+“It’s okay,” he said.
+
+“It’s not,” said Stuart. “I do not trust my parents to treat my friend well. Especially at this time, when they still hope to push me toward a path I don’t want. I’m so sorry.”
+
+Alden didn’t know what to say.
+
+“We’ll tell them at some point after I’ve become a knight,” Stuart said. “And demand their help then. Or maybe we’ll wait and tell Father first. Or even Aunt Alis. After I’m a knight.”
+
+“After,” said Alden. “All right.”
+
+“They’ll be terrified of upsetting me then,” said Stuart. “Probably. And you’ll have had time to learn more about everything.”
+
+“Until a few days ago, I was still trying to convince myself that I could keep it a secret for ten or twenty years. You knowing about me is more than enough for now.”
+
+Stuart must have heard the sincerity. He lightened a little.
+
+“Did you like the tablet I showed you in the car?” he asked. “When you were  explaining to me what Olget-ovekondo was doing with his auriad?”
+
+“The small one that projects a hand and shows three-dimensional auriad patterns? Yes. I wanted to ask you if I could borrow it, but I couldn’t think of a good reason at all.”
+
+“I’ll give it to you,” said Stuart. “It’s upstairs in my room.”
+
+Alden moved closer to the elevator.
+
+“I notice you’re not rejecting that offer.”
+
+“That’s because it’s a very necessary object that my life has been lacking.”
+
+“I’ll record some things on it for you, too,” said Stuart.
+
+“I’ll never freeze your grapes again.”
+
+******

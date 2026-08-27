@@ -1,0 +1,377 @@
+---
+id: 1bf2c4fb-15db-5161-9f65-6fa705b1fddb
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-ONE: Snow XIII"
+slug: 0273-two-hundred-seventy-one-snow-xiii
+partOf: super-supportive
+position: 273
+ownLength: 4425
+unit: words
+publishedAt: 2026-01-31
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2999718/two-hundred-seventy-one-snow-xiii"
+royalRoadId: "2999718"
+---
+
+270
+
+******
+
+“You are wasting our youth, Stu-art’h. And I say to you that you should feel shame for that…and make it up to us by being excited with us and by us for a while.”
+
+The speaker’s bare feet were swinging over the edge of a balcony that wrapped around one of the canopy houses overlooking the LeafSong campus. His hair, tucked into a cap that was tinting it, would shift colors throughout the night.
+
+Most of his school uniform lay in a heap on the red wood of the balcony floor. Another boy, still in uniform, knelt on a cushion behind him, painting silver edges on the blue stripes that marked the dark skin of his back.
+
+“If you did want to come with us, I could do your back, too, Stu.”
+
+“Thank you for the offer, Bayab,” said Stu, from the hammock where he lounged. He didn’t look away from the tablet he was reading. “I’m still not attending this sort of party.”
+
+Bayab-oth and Eeaner-ket both knew why.
+
+Stu had explained the rules he’d set for himself after the mishnen debacle far more times than the once that should have been sufficient. But people persisted in encouraging him to stop depriving himself of sex and other experiences that were likely to lead to similarly altered mood. The gatherings at Minya’s house rarely offered much else.
+
+Stu had been tricked into going twice before with promises that they would all be casting rare spells together, which did happen when other students were hosting events, but at Minya’s there were never enough people in a fit state to cast anything interesting.
+
+“Minya has gathered everything for a smoke of flight ritual,” said Bayab, turning a brown eye toward Stu. “It’s one from Yethan, I think?”
+
+“Call me if the ritual actually begins. Last time, the ingredients all ended up in potions and pockets.”
+
+“Wasting our youth,” Eeaner said again.
+
+“Surely if I’m wasting youth, it’s only my own.”
+
+A green bug landed on the edge of Stu’s tablet. Their house was enchanted to prevent the wildlife from coming in, but creatures could make it through if they happened to be buzzing around one of the residents when they entered. Stu leaned over and brushed the visitor off onto one of the plants that grew in their balcony garden. They were all easy to care for, and this bug wouldn’t harm them. More senior students were required to keep more temperamental plants alive.
+
+“Ro-den will be back from Earth eventually,” said Eeaner, “and our work will double because of it. We all have to live in pleasure while we still can.”
+
+“Maybe he’ll stay on Earth,” Bayab said hopefully.
+
+“Maybe he’ll die there,” said Eeaner, touching the tattoo on his stomach that had been there ever since they’d gone with Jel-nor and the others to summon the mishnen. Everyone else’s parents had allowed them to remove theirs after the contracts with Ro-den were ended, but Eeaner’s mother thought keeping visible evidence of the bad decisions they’d made that day was a lesson for him. If he got the tattoo removed, she’d stop paying for nonessentials, and he was someone who enjoyed more nonessentials in a day than most people could find time for in a week.
+
+There was a new necklace made of solar jewels collecting light on the balcony table, and he’d been interviewing an engraver earlier because he wanted a dissection blade he hardly ever used to be decorated.
+
+“Do you think he’s trying to do something nice for the human who almost died, and that’s why he’s taking so long?” Bayab suggested. “If the human spoke in his favor, would they restore his title of distinguishment?”
+
+“Of course not,” said Eeaner. “Perhaps if Ro-den came close to losing his own life in pursuit of something worthy. You need to learn a little about how these things work if you want to be more than a lowly graduate of a good school one day, Bayab. Worli Ro-den has so much wind against him he can barely keep his skin on. He’ll have to come up with something shockingly brilliant just to take the next step forward, but even geniuses can’t have endless breakthroughs.”
+
+Eeaner looked over his shoulder to Stu. “I bet that Ryeh-b’t knows how not to waste his youth. After he survived something like that, don’t you think his friends must still be holding parties in his honor every day?”
+
+Stu didn’t know how to respond to them bringing up Alden like this.
+
+It’s a natural progression of their thoughts. The mishnen, Ro-den, and my refusal to go with them to parties like Minya’s are all related to each other and to him.
+
+But Stu was currently looking over his notes on skills and thinking about Alden, too. In such a different way than his housemates.
+
+“Did your family gift him with something in addition to the commendation from the Quaternary? Is that something you usually do?” Eeaner asked.
+
+“It would be shameful if any Avowed commended by one of our knights had an unmet need,” said Stu.
+
+Eeaner frowned. “So you only look for unmet needs instead of giving extravagances?”
+
+“What reason do you have for being disappointed in that?” Stu asked.
+
+The matter of rewarding Alden had been changed by Stu’s relationship with him anyway. And if Eeaner knew more, he would surely think that the meeting of Alden’s needs had already entailed extravagances beyond whatever he was imagining them giving. Aunt Alis had spent some of the Mother’s favor on him, and while obtaining Yenu-pezth’s healing had cost Stu nothing but a request, there was almost no one else who could request her service and be as sure of receiving a yes as he had been.
+
+There was also what Stu was reading on his tablet right now.
+
+Guardian of Gates was a skill currently being used by two knights who’d had it modified in slightly different ways prior to binding it. Alden was going to love learning about it. The inspiration for it was an older skill called Faithful Guardian that Stu would study next. Tracing a skill’s historical roots wasn’t necessary, but it was one of his preferred ways of encountering ideas that were new to him.
+
+“I wanted to give the human something the next time I saw him,” said Eeaner, “but it’ll be strange for me to do anything if your family hasn’t given him a gift.”
+
+Stu let the tablet fall onto his chest. “When do you expect to see Alden again?”
+
+“Whenever LeafSong summons him again, of course.”
+
+Bayab had just painted the last silver line on Eeaner’s back, and he was putting the cosmetic brush back in its cleaning case. “That’s right. They’ll want to summon him for something, won’t they?”
+
+“It’s difficult to place an Avowed like that,” Eeaner said. “Obviously he won’t work anywhere near Ro-den, but if they don’t get him back here in some way, it will reflect poorly on the school.”
+
+“He can work as a server at parties like last time!”
+
+“He might do work for someone higher up than Ro-den. The librarians could use his skill, and the school could make news of him being trusted to move one of the Great Rarities.”
+
+“What makes you both think he wants to come back here after everything that happened to him?” Stu demanded.
+
+“If he never comes back, it’ll seem that he blames LeafSong for something,” Eeaner said, standing and stepping over to the table to check his necklace. “Do you think he might use a refusal? Why? I suppose they won’t risk that. Maybe they’ll just have him come for something fun. As a guest.”
+
+“He’s…” My friend. Someone who wouldn’t want to be used for the school’s sake like that. “He’s someone who has his own school to go to. And if he wants to avoid LeafSong, he shouldn’t need to use a refusal for it.”
+
+Alden might actually like moving a Great Rarity for one of the libraries or the museum. Stu had to be careful not to refuse on his behalf out of a sudden alarm at the thought of him being here, subjected to people much more offensive than Stu’s housemates.
+
+What if he’s summoned while I’m away?
+
+“If he came to a party here on campus, as an honored guest of the school, you’d have no choice but to attend!” Eeaner laughed. “Maybe that’s how we’ll get you to grow your hair back out.”
+
+Alden could call on anyone in my family for help if these people treated him with disrespect, but would he?
+
+Stu had gotten to his feet, but there was no place to go that would fix the disquiet these two had caused. He looked down at the box he’d been carrying around all day. He’d given it a very weak enchantment for silence. He wished he could put a stronger one on Eeaner and Bayab as they chattered about how delightful Alden had been at that party Stu hadn’t attended during entrance exams.
+
+“He took everyone’s gum, but he never showed up at the real party afterward. I think someone should have explained it to him.”
+
+“Did you ever see what he wore? Stu?”
+
+“That! Yes, that! Did someone already show it to you, Stu? Maybe it’s still here somewhere.”
+
+“We’d have to add his commendation to it if he wore it again, wouldn’t we? With all the transmogrifier’s embroidery.”
+
+“Stu?”
+
+“He’s a serious person,” Stu snapped at them both as Bayab sent him a video of Alden garbed as an accomplished wizard with several of the same marks that Calassa was entitled to wear for her mastery. He also had wings. And fangs. And he was using his skill to amuse inebriated people with special effect drinks. “He earned my aunt’s commendation for saving a child’s life, nearly at the cost of his own. It doesn’t belong on a costume, and he doesn’t want to do tricks with his skill for you all.”
+
+Bayab winced. “I wasn’t disparaging Hn’tyon Alis-art’h. I promise I wasn’t.”
+
+Eeaner looked intrigued. “You’ve spoken to him since he returned. Enough to know such things.”
+
+Stu had avoided talking about the friendship he and Alden were weaving with these two and the rest of the students here. Keeping precious truths to himself was the only way he knew of to ensure that the thoughtless gossip in this place wouldn’t keep him at war with his temper.
+
+Bayab was so worried he’d offended Alis that he provided a good answer to Eeaner’s question before Stu had to. “Of course Stu must have spoken to the human. Avowed Alden. Since his family is seeing to the Avowed’s needs, I’m sure they’ve been thorough and proper in every way.”
+
+Eeaner huffed and turned his attention to Bayab. “Why are you like this? The art’h family will not take some antiquated form of revenge on us if we annoy Stu. He’s very easily annoyed. They must know that.”
+
+“My ancestors were brutal in their vengeance,” Stu said. “Are you sure you should risk it?”
+
+Eeaner brushed his hands together and bowed mockingly.
+
+He is trying to be friendly. Stu had lived with him for long enough to recognize it. He’d even invited it with his own sarcasm just now. But the thought of Alden coming back here to LeafSong and maybe bowing to Eeaner unmockingly was such a weight on his heart that he almost wanted to kick his housemate in the face.
+
+He bent to pick up his box instead and reached into the hammock for the tablet.
+
+“You’re leaving?” Eeaner asked, rising. “Because…?”
+
+“I am busy.”
+
+“At least tell me how my back looks.”
+
+“Better when you’re upright.”
+
+Eeaner followed him inside with Bayab trailing after him, and for absolutely no reason, they stood there watching Stu put on shoes while they enthused about the smoke of flight ritual they’d never get around to tonight and the stripe paint.
+
+“I hate Worli Ro-den,” Eeaner said suddenly. The words burst out of him in a way that tickled Stu’s memory of another person saying the same thing.
+
+He looked around to see Eeaner with the large necklace decorating his chest, giving off heat and light. Eeaner’s hand was covering the tattoo on his stomach again. “Let’s paint over this, too.”
+
+“To hide it?” asked Bayab.
+
+“No. What would that say about me? Let’s paint it silver. Make much of it to make less of it.”
+
+Stu left them before he could snap again.
+
+Eeaner was supposed to be embarrassed by what they’d done, not the aesthetics of the tattoo.
+
+Stu’s own embarrassment was how much he sometimes wanted these two to be different people than they were. Eeaner, especially, would say things that showed he shared a few important beliefs with Stu…and then he’d act as though those beliefs were meaningless.
+
+It was confusing. It was rarely hurtful anymore. Stu still wished.
+
+I am made of wishes for things I can’t make come to pass.
+
+He walked the familiar route of bridges through the canopy and dropped down through a lightfall circle to the ground. The path to reach the summoning pool wasn’t the most pleasant on campus, but Stu didn’t mind swatting at a few biting longbugs. And there weren’t too many carnivorous plants around here.
+
+He went all the way to the pool’s edge today since nobody was using it and crouched there to open the silenced box. The klerms were already cacophonous out here. The shrill cries of the twenty-eight he’d rescued today would blend in.
+
+The vitality steam from the pellet he’d put in the box seemed to have helped these. They were hopping to freedom with more energy than the ones he’d brought out here yesterday.
+
+Two he’d hoped would make astonishing recoveries hadn’t, and he placed them at the base of a sapling trying to become something more.
+
+“You have been a part of the life here. Be part of the life here forever.”
+
+He closed his box and looked toward the pool.
+
+Am I confident enough yet?
+
+It was a question he asked himself frequently since the call with his father.
+
+Eventually, he rose. He thought he’d be back here tomorrow with another box full of LeafSong’s most prevalent nuisance.
+
+“When I don’t come,” he said to a klerm watching him from a deep purple leaf. “When it’s a school day, but I don’t come. Then you’ll know I’ve found my confidence and done it.”
+
+******
+
+******
+
+******
+
+Alden arrived very late to the snowball fight.
+
+It was almost halfway through, and the gym was so loud with the sound of students cheering, stomping, and laughing their heads off that he could feel the noise in his body. Like it was washing through him, uncramping what the day had tightened, and propelling his legs as he headed for one of the higher bleachers.
+
+With most of the school gone for the holidays, it was no surprise that they were only half full, but the enthusiasm of the crowd made this feel as alive as a packed house. The event was called Superhero Snowball Fight, but Alden hadn’t realized the faculty and guests would be wearing their superhero outfits over their gym suits. They looked cool.
+
+Lesedi Saleh, her old white Ghosten gear blending into the flurry around her, phased out to avoid a truck-sized snowball shaped by Luna Plim and then resolidified to swing toward the ceiling on a vine controlled by a man wearing a fern-patterned cape. Alden paused his climb to watch the principal take aim with an ice chunk that flew like a bullet toward Morrison Waker. In Little Snake’s black and red fringed jacket, he was racing around the place fast enough to make speedster heroes have doubts about themselves. He laughed jovially as the ice missed and flung a snowball of his own with a wink that was shown on the floating displays.
+
+A moment later, Alden caught sight of Rahul, hiding behind Instructor Plim for safety while he packed a ball of ice into his launcher.
+
+He looks like he’s having the time of his life down there, Alden thought, continuing his climb. Good for him.
+
+A long line of students in unitards waited on the bottom row of the bleachers, screaming to be chosen, which was why Alden hadn’t bothered to grab his own suit. Price of being late. Being here will still be fun.
+
+He snorted at the sound of Jeffy bellowing, “Pick meeeee!” with a desperation that was probably scaring superheroes who’d never met him before.
+
+The spot Alden chose was near the top, a little empty. He took a seat and leaned back, ready to enjoy the madness and the familiar faces wearing costumes he’d known since he was a child.
+
+Arjun’s here, he realized.
+
+The Brute wasn’t currently on the floor, but he must have been just before Alden walked in because he was brushing snow off the nondescript burgundy suit he wore as his hero costume these days. Alden watched him briefly, a thought drifting across his mind about how it felt somehow appropriate to see Arjun on a day when he’d written a letter to his parents.
+
+Then, the motion of Rahul raising his launcher to his shoulder caught his eye instead.
+
+“Go, Rahul!” he shouted.
+
+Across the gym, a girl in a long yellow skirt was shouting the same thing so loudly that he could pick her voice out of the crowd.
+
+Is that the girlfriend he hopes will be more than a girlfriend one day?
+
+And there, a few rows above her, were Natalie, Hadiza and Emilija. If Alden had thought to look for them when he first arrived, he would have gone to sit with them.
+
+I guess I still could.
+
+Rahul’s ice ball shot across the gym toward the man with the fern cape and shattered against a vine as if the plant was made of stone.
+
+Just wait until Jupiter can do that, and she’ll be even more trouble.
+
+Alden was smiling.
+
+Then, a return snowball made it past Luna Plim, who was firing three at once toward Principal Saleh. It hit Rahul in the chest and burst apart. The Wright stiffened and fell backward into the snow that covered the gym floor.
+
+Alden flinched.
+
+He flinched so hard, before even understanding why he had, that he was momentarily perplexed by it.
+
+Only momentarily.
+
+Oh. He stared down at Rahul. Getting hit with a snowball is death for this game.
+
+Rahul sprang back up when his suit released him and waved goodbye to Instructor Plim as he walked off the floor. The instructor pointed at Jeffy, and he ran in so fast he skidded on ice and fell on his butt trying to get over to her.
+
+This way more people get a turn. It’s nice.
+
+A ball hit a girl Alden didn’t know, and she fell, her long black hair fanning across the white while fresh flakes drifted down toward her.
+
+He flinched again.
+
+It’s supposed to be nice.
+
+A boy, cackling, took a snowball to the face and tumbled into a fluffy mound behind him. He was instantly silenced, his body almost disappearing from view in the heap.
+
+This…
+
+The voices of the crowd didn’t disappear. The game didn’t stop. But, for Alden, they did.
+
+Just as suddenly and with as little fanfare as those bodies falling, one by one, into snow.
+
+A girl wearing a reindeer sweater over her unitard. A boy whose axe cracked ice as it landed beside him. Sina-art’h looking into the Primary’s eyes in the moment before she collapsed.
+
+They all fell together, though they fell worlds and years apart.
+
+Alden stopped flinching. He didn’t look away.
+
+Can’t always have light, he thought as Klein was taken down by a combined attack from the principal and Little Snake.
+
+Can’t fight every darkness. Jeffy’s body slid across the floor.
+
+Rahul was climbing the bleachers toward his girlfriend. There is more than one way to live a good life.
+
+He saw Ella-Clara Thomas and her figurine taken down. Arjun was shaking his head from the sidelines.
+
+None of the doors are perfect. Some are easier. Some are safer.
+
+But there’s not one where I don’t lose something. There’s really not.
+
+Just accept it, then choose what you’re going to fight for.
+
+He looked to his side, where an Artonan boy might have sat if this were a different place on a different day.
+
+I know what I can’t lose after all.
+
+Alden watched the snowball fight. He didn’t exactly see the same show as everyone else.
+
+But he saw a lot of things he’d been looking for.
+
+******
+
+******
+
+“I don’t think that’s a good idea,” Arjun Thomas said when Alden approached him at the end of the fight and made a request he wouldn’t have dared to make an hour ago.
+
+The man had visibly recoiled at the suggestion, as Alden had suspected he would. It wasn’t the end of the world if he refused; but Alden wanted this favor, and he was considering the possibility that he might never get another chance to ask for it. He was willing to push some more, even in front of Ella-Clara, who was listening in from a couple of steps away.
+
+Arjun had introduced the B-rank Figurinist as his sister. Alden hadn’t made the connection before. Thomas was a common surname, and they didn’t look much alike.
+
+“You didn’t think me coming to school here was a good idea either,” Alden said. “It was…unexpected…to get an evaluation from you after combat assessment. I didn’t know what to make of that. But here I am, doing well in MPE. And I’m not asking you to hit me with the pain setting cranked up to a hundred. It can be at zero. Faculty members have hit me this term. I didn’t start sobbing or anything.”
+
+“Then why ask me?”
+
+Is he serious?
+
+Alden studied his face. It was a dignified face. Prominent nose, great beard. Alden couldn’t recall seeing Arjun smile ever, but he must have done it at some point because he had laugh lines forming.
+
+“For the same reason that you don’t want to say yes,” Alden said. “There’s a thread of something awful connecting us. What happened is history. It’s over. But still… ”
+
+Arjun looked so uncomfortable that Alden wondered what people filing out of the gym thought they were discussing.
+
+“You don’t have to. Obviously. I wouldn’t have bothered you except I really want to know how strong you are. Your strength has had a major impact on my life.”
+
+There was no way to explain it that sounded very logical, so he might as well be honest.
+
+“I’m an Avowed now, too. I have shielding magic. I’m worried I won’t get another opportunity like this. Please hit my shield just once. I promise not to be weird with you about it afterward.”
+
+Arjun shook his head. “Alden, I don’t think—”
+
+“What? You’ll hit me and every other kid at this school, but not this guy who actually wants your help with his training?” Ella-Clara said suddenly. She crossed her arms, and beside her, the figurine did the same. “If you don’t want to give him special treatment, fine. But it sounds like you’re giving him negative special treatment. Did you actually become one of his evaluators?”
+
+“He did,” said Alden. “I’m not mad, and he doesn’t owe me anything.”
+
+“If you were a regular student, he’d just refuse or give you some pointers, not talk to you in this sad tone about why it’s not a good idea.”
+
+“It’s fine. I knew it was a big ask.”
+
+“He should—”
+
+“I can answer for myself,” Arjun said so crisply that it almost had to be a response to the comment about his tone. “Alden, go put on your suit.”
+
+Alden felt his brows lift.
+
+“We’ll wait until people finish clearing out, so…” Arjun cleared his throat. “Take your time. There’s no rush.”
+
+******
+
+In a stall where someone had hidden a line of graffiti with an Anesidora Forever sticker, Alden brushed his fingers against the auriad that hugged his bicep, then covered his body with the suit future superheroes wore.
+
+He walked out into the vast and nearly empty gym to meet a man who’d once saved his life but not his parents.
+
+Principal Saleh was one of the few people left, and she stopped him to ask why he wanted to do this in that cautious-friendly way worried teachers liked to ask things.
+
+Afterward, Alden couldn’t remember what he said to her. He must have used the right words because he was allowed to keep walking toward Arjun, who stood waiting in the middle of the floor.
+
+“Sorry,” said Alden. “I just need to know.”
+
+Arjun regarded him. “Don’t you have to have something to hold for your shield?”
+
+“Yes. Isn’t Instructor Plim…?” He looked around until he spotted her. “Hold on.”
+
+He waved and asked her to give him a thin plate of shaped snow. Not quite as great as the water shield Stuart had helped him make out of a puddle, but pretty good. He held it in front of his chest.
+
+“I realize,” he said to Arjun, “that you could probably tap this to break it. But if you’d please give it everything you’ve got?”
+
+Arjun stared at the shield.
+
+“Do you want everything I’ve got, or everything I had that night?” he asked eventually.
+
+“Your current best,” said Alden, after considering the question.
+
+Arjun nodded once and took several steps back.
+
+Alden held up his shield, and for the first time in the gym, he reached out with his free authority, actively trying to feel what would be coming his way.
+
+Ah, he thought, as he found what he was looking for. Arjun must train hard. He’d be much more famous than he is if the past had gone differently.
+
+Then, the man came at him.
+
+Alden sensed what hit him with his authority better than he saw it with his eyes. The effect of Bearer broke in an instant. His body crashed into the far barrier.
+
+There was a purity to strength like this. It was more like being erased than murdered.
+
+Alden Thorn hit the floor and lay there.
+
+He was thinking. Accepting. Being dead, like so many others before him, in an arena that was utterly silent and full of snow.
+
+******

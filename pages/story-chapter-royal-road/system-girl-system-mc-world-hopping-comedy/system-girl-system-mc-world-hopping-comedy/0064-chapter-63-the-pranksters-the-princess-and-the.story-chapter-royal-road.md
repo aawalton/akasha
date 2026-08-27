@@ -1,0 +1,273 @@
+---
+id: e86596f4-ac2d-5ddc-a41e-24567998b1cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: The Pranksters, The Princess, and The Primal"
+slug: 0064-chapter-63-the-pranksters-the-princess-and-the
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 64
+ownLength: 2255
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3139313/chapter-63-the-pranksters-the-princess-and-the"
+royalRoadId: "3139313"
+---
+
+The morning began with the smell of coffee and the sound of dwarven profanity.
+
+Ren sat on a log by the dying campfire, sipping his brew from a dented tin mug. It was a beautiful, tranquil scene—the sun rising over the misty ocean, the forest waking up with birdsong—spoiled only by the dwarf currently wrestling with an invisible enemy near the half-built foundation of the inn.
+
+"Gah!" Borin shouted, hopping on one foot like a demented stork. "Blast it! My laces again!"
+
+He tripped, flailing his arms, and landed face-first in a pile of fresh sawdust.
+
+[Ana: That's the third time this hour. Productivity is down 30%. The spirits are escalating. Yesterday, it was just hiding hammers. Today it's physical assault.]
+
+"They're not escalating," Ren sighed, blowing on his coffee. "They're bored. And mischievous. It's like living with a poltergeist who has a foot fetish."
+
+He watched as another dwarf, a burly worker named Durin, reached for his trowel. The trowel scooted three inches to the left. Durin grabbed empty air, stumbled, and cursed a blue streak that would have made a sailor blush.
+
+"This isn't sustainable," Ren said, rubbing his eyes. "We can't build a house if the tools keep running away. We're bleeding money on downtime."
+
+He stood up, finishing his coffee. "Time for a team meeting. Sylas! Mira!"
+
+They appeared instantly from the large mess tent, dressed in their crisp new uniforms—blue and silver, the colors of House Fenris.
+
+"Master?" Sylas asked, adjusting his glasses. "Is something wrong?"
+
+"Gather the elves," Ren ordered. "We're going on a diplomatic mission."
+
+…
+
+The elves gathered near the edge of the forest, a line of anxious faces. They looked nervous. To the dwarves, the spirits were annoying pests. To the elves, they were sacred, unpredictable entities.
+
+"Listen," Ren said, addressing his small army. "The spirits are disrupting the work. We need them to stop. You guys have a connection, right? Can you feel them? Talk to them. Ask them nicely to leave the dwarves alone."
+
+The elves exchanged glances. Kaelthos, the warrior, stepped forward.
+
+"Master," he said hesitantly. "Spirits are... capricious. They do not answer to us. We can only petition them. And these spirits... they feel old. Wild."
+
+"So petition them," Ren said. "Offer them something. Shiny rocks? Sugar cubes? Go."
+
+They spread out into the trees. Ren watched as they knelt, whispering to the wind, offering small tokens of leaves and flowers.
+
+Nothing happened.
+
+Actually, that wasn't true. A pinecone dropped from a tree and bounced off Kaelthos’s head with a distinct thwack.
+
+Mira stepped forward. She summoned Pip, her small wind spirit.
+
+"Pip," she whispered, her hands cupped. "Please. Ask them to be kind. We mean no harm."
+
+Pip swirled, chirped, and then zipped into the canopy. A moment later, it returned, looking dejected. It drooped on Mira's shoulder, its light dimming.
+
+"They refused?" Mira asked, shocked.
+
+Ren frowned. "Why? Are they angry about the noise?"
+
+"No," Mira said, listening to Pip's silent communication. A look of confusion crossed her face. "They... they think it's funny. They say the short-bearded men make funny noises when they fall. They call them 'Tumble-Rocks'."
+
+Ren rubbed his temples. "Great. We're being besieged by supernatural trolls. They're doing it for the lulz."
+
+He looked at the forest. It was dense, ancient, and humming with a chaotic, playful energy.
+
+[Ana: It's weird, Ren. They're targeting the dwarves specifically. You and the elves are fine. They haven't tied your shoelaces once. Maybe they just don't like beards?]
+
+"Or maybe," Ren said slowly, a thought forming in his mind, "they're waiting for someone with more... authority."
+
+He turned to Mira. "Where is Lily?"
+
+"Sleeping in the carriage, Master. She had a restless night."
+
+"Get her."
+
+…
+
+Ten minutes later, Ren stood at the edge of the forest, holding Lily. She was awake now, gnawing on her fist, her blue eyes tracking the fluttering leaves with intense curiosity. She was bundled in her fuzzy blanket.
+
+"Okay," Ren said. "Let's see if royalty has its privileges."
+
+He turned to Mira and Sylas. "Stay here. Keep the elves back. I don't want to spook them with a crowd."
+
+"Master?" Sylas looked concerned. "Is it safe? Going in alone?"
+
+"I have the ultimate diplomat," Ren said, bouncing Lily. "Besides, if they wanted to hurt us, they would have dropped a tree on us by now. They're just playing."
+
+He walked into the woods.
+
+The atmosphere changed instantly. The moment he crossed the tree line, the playful, chaotic feeling vanished. It was replaced by a hushed, expectant silence. The wind died down. The birds stopped singing. Even the light seemed to change, filtering through the canopy in beams of pure, golden dust.
+
+Ren walked deeper, following a path that seemed to open up before him. Roots that had been tripping the dwarves now lay flat, creating a smooth walkway. Branches lifted out of the way as he approached.
+
+"They are guiding us," Ren whispered to Anna.
+
+They reached a clearing. In the center stood a massive, ancient oak tree, its roots gnarled and twisted into the shape of a natural throne. The air here was thick with mana, a heavy, sweet scent like blooming jasmine and ozone.
+
+And floating above the roots was a wall of light.
+
+Hundreds of tiny spirits—wisps of wind, sparks of fire, droplets of water, glowing stones—were gathered there. They blocked the path, a shimmering barrier of magical energy. They buzzed and chirped, a chorus of curious whispers.
+
+Ren stopped.
+
+"Okay," he said to Lily. "Showtime."
+
+He lifted her, Lion King style.
+
+"Behold!" Ren announced, feeling slightly ridiculous but committing to the bit. "The... uh... the Little Lady! The Princess of Puddles! The Duchess of Drool!"
+
+Lily giggled, waving her arms.
+
+The wall of spirits shimmered. They squinted. They drifted closer, circling Ren like curious butterflies.
+
+Then, they parted.
+
+Like a curtain being drawn, the mass of lesser spirits moved aside, revealing what lay behind them.
+
+Floating near the roots of the oak was a single entity. It was larger than the others, about the size of a beach ball. It glowed with a deep, verdant green light. It had a vaguely humanoid shape—a torso, arms, a head—but its features were indistinct, shifting like leaves in the wind.
+
+[Ana: Jackpot. That's the boss. A Primal Spirit. A Queen of the Forest. She's a sentient mana construct. High-level. Be polite.]
+
+Ren lowered Lily but kept her close. He looked at the green spirit.
+
+The spirit drifted forward. It stopped a foot from Ren’s face. It didn't have eyes, but Ren felt it looking at him. It felt like being examined by the forest itself.
+
+"You have brought me something... very special," a voice echoed in Ren’s mind. It wasn't spoken; it was felt, like the rustle of leaves or the creak of old wood. "What are you to her?"
+
+Ren cleared his throat. "I am her father."
+
+The spirit tilted its head. "Father? You are human. She is... not. Her blood is old. Ancient. But the bond is there. I feel it. You smell of her trust."
+
+"Her name is Lilith," Ren said. "Lily."
+
+The spirit hummed. "Lilith. A strong name. A root name."
+
+It floated closer to Lily. Lily reached out a chubby hand and tried to grab the spirit’s glowing arm. The spirit didn't pull away. It let her touch it. A ripple of green light spread from her fingers.
+
+"She is... quiet," the spirit mused. "Hidden. A veil lies over her true self. A seal? No... a disguise. But I see the spark beneath. It sings to us."
+
+Ren tensed. "Can you keep her secret?"
+
+"Secrets are the soil of the forest," the spirit replied. "We keep many. We remember the Old Kings. We remember the pacts."
+
+The spirit drifted back. "Why have you come, Father of Lilith?"
+
+"I bought this land," Ren said. "I want to build a home here. But your children... they are making it difficult for my workers. The dwarves keep falling."
+
+"The bearded ones are loud," the spirit said, sounding petulant. "They smell of iron and greed. They dig. They chop. We do not like them. Their feet are heavy."
+
+"They are building a house for her," Ren said, gesturing to Lily. "A safe place. A nest."
+
+The spirit paused. It looked at the clearing, then back at Lily.
+
+"For her?"
+
+"Yes. A place where she can grow up safe."
+
+"Very well," the spirit decided. "We will allow it. The constitution of the forest shall be amended."
+
+Ren let out a breath. "Thank you."
+
+"However," the spirit added, its voice firm. "Only the Elves may stay. And you. The bearded ones must leave once the work is done. They may not dwell here. This is a sanctuary."
+
+"Agreed," Ren said. "This will be a private residence. The inn and the restaurant will be outside the forest boundary. The dwarves will go once the roof is up."
+
+"Acceptable," the spirit said. "As long as they do not cross the line after sunset, we will not trip them. Much."
+
+Ren grinned. "Deal."
+
+"One more thing," the spirit said.
+
+It floated closer to Lily again.
+
+"My children... they are fond of her. They wish to visit."
+
+Ren blinked. He looked around. The hundreds of lesser spirits were circling Lily, dancing in the air, creating little patterns of light. Lily was giggling, clapping her hands. A tiny fire spirit landed on her nose, making her sneeze.
+
+"Visit?" Ren asked.
+
+"They wish to play," the spirit said. "They sense her potential. They are drawn to it. Like moths to a moon. It has been... a very long time since we felt a presence like hers."
+
+Ren hesitated. "Is it safe?"
+
+"They would never harm her," the spirit said, offended. "She is... precious to us. A relic of a time we remember fondly. We would guard her as one of our own."
+
+Ren realized he didn't have much of a choice. "Okay. They can visit. But... can you ask them to be subtle? If people see a swarm of spirits following her, they'll ask questions. We're trying to keep a low profile."
+
+The spirit—whose name, she conveyed, was Leafy—rippled with amusement. "Subtlety is not our nature. We are wild. But for her... we will try."
+
+Leafy turned to the other spirits. She let out a pulse of green light. The lesser spirits dimmed, their chaotic energy calming. They settled on the branches, watching.
+
+"Also," Leafy added. "You shelter many of the Kin. The Elves. It is... admirable. Most humans treat them as tools."
+
+"They are my staff," Ren said. "My family."
+
+"If any of your kin wish to come here... to bond with my children... I will allow it."
+
+Ren’s eyes widened. "Really?"
+
+"The bond is a sacred trust," Leafy said. "If they are worthy, we will answer."
+
+"Thank you, Leafy," Ren said.
+
+"Go now," Leafy said. "Build your nest. We will watch."
+
+She drifted closer to Lily one last time. She leaned in and... sniffed her. It was a long, deep inhale, like someone smelling a rare flower.
+
+Then, she hugged her. It was a strange, intangible embrace of light and warmth.
+
+Lily cooed, patting Leafy’s face.
+
+"So sweet," Leafy murmured. "So full of life."
+
+Then, she faded back into the tree.
+
+Ren turned to leave. As he walked away, he noticed something.
+
+A small green spirit was sitting on Lily’s shoulder. It looked like a tiny version of Leafy.
+
+Ren frowned. "Hey. Subtle, remember?"
+
+The spirit blinked. It turned invisible.
+
+"Better," Ren sighed.
+
+[Ana: You realize that big green blob has ulterior motives, right?]
+
+"What do you mean?" Ren asked mentally as they walked back to the construction site.
+
+[Ana: I just checked the lore. High Elves can contract with multiple lesser spirits, but they can only bond with ONE High Spirit. A Primal Spirit. To Leafy, Lily isn't just a cute baby. She's a one-of-a-kind treasure. A potential partner. There hasn't been a High Elf in thousands of years. Leafy is staking her claim. She wants to be the one Lily chooses when she grows up. She's basically calling dibs.]
+
+Ren groaned. "So I have to worry about political marriages and spiritual contracts? She's not even one yet!"
+
+[Ana: Get used to it. Your daughter is the most eligible bachelorette in the multiverse. You're going to need a bigger stick to beat off the suitors.]
+
+Ren returned to the construction site. Borin was waiting, looking suspicious.
+
+"Well?" Borin asked. "Did you fight it?"
+
+"I negotiated," Ren said. "Treaty signed. No more pranks, as long as you stay out of the woods at night."
+
+Borin grunted. "Fair enough. Never liked trees anyway."
+
+That evening, Ren sat in his tent. The construction was moving fast now.
+
+He looked at his staff gathered around the fire.
+
+"Mira," Ren said. "Sylas. Gather the others."
+
+When they were assembled, Ren told them. "The Primal Spirit... she offered us a chance. She said if any of you wish to bond with the spirits, you are welcome in the forest."
+
+The elves stared at him. Then, slowly, smiles broke out. Tears flowed.
+
+"Thank you, Master," Mira whispered.
+
+Ren smiled. "Don't thank me. Thank Leafy."
+
+He looked at Lily, asleep in her crib. She was clutching empty air, but her fingers were curled around something invisible.
+
+"We're going to be okay," Ren whispered.
+
+[Ana: And you're almost broke again. Just reminding you.]
+
+"Right," Ren sighed. "Back to the grind."
+
+He stood up. "Sylas! Get the carriage ready. Tomorrow, we go to the Spice Market."

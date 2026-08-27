@@ -1,0 +1,531 @@
+---
+id: 8036cdad-b837-5a31-80af-46d44f922efa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 162: Roaring Harrak"
+slug: 0083-chapter-162-roaring-harrak
+partOf: the-calamitous-bob-stubbed
+position: 83
+ownLength: 5149
+unit: words
+ownProgress: 5149
+publishedAt: 2024-04-27
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1612715/chapter-162-roaring-harrak"
+royalRoadId: "1612715"
+markedReadAt: "2026-06-29T21:17:40.391Z"
+---
+
+“So, tell me, what have you learned?” the king asked.
+
+His spymaster picked his notes. The old fox didn’t need them as his memory was pretty much perfect, but old habits were a safe house where the mind could more easily find its focus.
+
+“To start with, the weak. Their cavalry consists of exiled nobles from various nations. Their equipment is subpar and they lack tradition, thus cohesion and meaning. As for now, we assess that they will remain a non-issue for the next two decades. The only compliment we can make is that they exist and train hard. Not every city-state can field heavy cavalry, after all.”
+
+“I am well aware. Especially not one led by Lord Rollo, who was supposed to join the royal host, hmm?”
+
+“Ahem, yes. That’s where the good news stops. The crossbow troops are quite capable. We estimate that their paths and gear gives them unmatched penetration at their step. They are a danger to even heavily armored troops.”
+
+“Like our own knights?”
+
+“Even during a charge when our defenses are at their highest. My aides and I assess that the effect will only grow in power as their best soldiers take more steps along their path. We are not quite sure how they will compare to experienced archers down the line but we are certain they will pose a greater threat to elites.”
+
+“The infantry?”
+
+“Best on the continent.”
+
+The king lifted a brow but the spy master merely gave an apologetic shrug.
+
+“It is the truth. They have the best training and some of the best gear outside of royal guards that could possibly be achieved. No nation on Param would spend so much iron on a single soldier, except for New Harrak, and they have not proven avaricious even by imperial standards. Their performance during the battle was exemplary. We also have several confirmed occurrences of shield wall charges, a technique that was thought lost with the last legacy free companies. When I say they are the best on the continent, I mean it. No other regiment can compare. And there are almost a thousand of them.”
+
+“Hmph. The casters?”
+
+“If I may, Your Majesty…”
+
+The king gave assent and the spy master reached for a drawing. It was a detailed side view of one of those abominable constructs, this one a strange mix of elegance and brutality. The shield array showed an exquisite attention to detail while the front was a hellish maw of blades and spikes, ready to rend shield walls like a ravenous beast of metal.
+
+“Those… what do they call it?”
+
+“Armored portable shield arrays sir, though the Harrakans use outlander speech, sometimes calling them ‘tanks’ and sometimes, ‘blindés‘.”
+
+The king rolled those words on his tongue. Savage languages used on worse things.
+
+“What about them?”
+
+“They may represent a step up in military doctrine for small, agile, elite formations. For any other armies, they would be thoroughly expensive and impractical. It only works because…”
+
+“Of the quality of their individual soldiers, and the expertise of their engineers. You believe those should be considered pivotal.”
+
+“Yes. And their fabrication remains shrouded in mystery. I recognize them as heavily modified yries drill machines. They use cores for energy. That version though…”
+
+The king held back a shiver.
+
+“I thought the yries were peaceful and isolationist.”
+
+“Not those. They seem to hold a grudge against Prince Lancer, may Enttiku rest his soul.”
+
+“And it was enough to overturn centuries of peaceful isolationism?”
+
+“Well, yes and no. Gossiping with the Harrakans revealed that the warring group is led by an individual named Lak-Tak, and that he, and I quote, ‘doesn’t hate humans but sure loves killing them’. His tribe sees him as a lunatic. They fear and respect him in equal measure.”
+
+The king sighed with meaning. Once again, the spymaster held the powerful man’s gaze with polite distance.
+
+“So the witch found herself a murderous yries and put him in charge of those war machines?”
+
+“It is only a matter of time before all their arrays double as a speeding battering ram and there are few men who would stand still with that abomination racing down a slope heading for them; Your Majesty, we must take this seriously. There is also the matter of tactics. Their square formation is not the best to cover space and they can be easily surrounded. However…”
+
+“They do not have a clear weakness.”
+
+“No. In this regard, surrounding them only means that all of their forces can engage at once. We also estimate that, provided the array is occupied by one of their archmages, they could withstand strategic spells.”
+
+“You cannot be serious!”
+
+“Head on. And the archmages would no doubt retaliate. Duke EIkart’s mages report that almost none of the Nemeti’s projectiles reached the shield untouched. They were all intercepted and dispersed. ”
+
+“About those archmages…”
+
+“Sidjin the Fallen Prince, a new Hallurian prodigy named Rakan of the Four Colors, and Elunath’s most talented apprentice who men have come to call the Tide Weaver. They are just as dangerous as we were led to believe. Frustratingly so considering the little effort the witch had to make to rally them to her cause. Insolent luck. In any case, the slaying of Elunath was no fluke. Your Majesty, you have seen what they can do. You have seen the elemental witch fighting from the back of a dragon. Need I say more?”
+
+“Indeed not. I know Sangor must have contemplated killing them, yet he has never made an attempt or Jaratalassi would have kept them apart. What can you tell me?”
+
+“We know that the Harrakan military is bloated compared to their size. For now, they are little better than an average northern city-state in terms of wealth and population, however. What we did not expect was that as numerous as their warriors are, it is in, shall we say, specialists, that they have the highest numbers.”
+
+“You mean the freaks?”
+
+“Your Majesty, this term poisons your judgment.”
+
+“My mother died on their blades, or have you forgotten?”
+
+“Must we have this discussion again?” the spymaster said with sadness.
+
+The two men sat in silence while the king mulled over old grudges. The spymaster knew his king put the kingdom before his own emotions. It was only a matter of time.
+
+“Very well. The Hadals protect her.”
+
+“Not just them. The Harrakan war golem never sleeps and never shuts down. Its sense can pierce through the thickest veil. She is also mostly immune to poison and diseases. All those factors together provide her with a level of protection that even the most powerful of rulers would struggle to equal. I cannot think of a feasible way to eliminate her with any degree of reliability. Militarily, they could be defeated but the cost…”
+
+“Would be prohibitive. They made themselves too tough of a nut to crack for the benefits it would bring.”
+
+Silence returned to the luxurious tent while the king mulled things over.
+
+“This situation is not unlike an abscess no one wants to pierce. Whoever does it will pay a heavy price and get no rewards, but if the situation is allowed to fester, we may see a return of the empire, and this time, its weaknesses will not be easy to manage anymore. Not with the teleportation system. Or the way so many various cultures seem to just… accept her rule. Somehow.”
+
+“There is much that could still go wrong. As you said, the witch has united many groups under a single banner, and the peace is only kept by her presence. It would take little for the whole edifice to collapse.”
+
+“You told me many times not to rely on the failure of others for my own success.”
+
+“Some of those difficulties could be… induced. It would be difficult, considering she has the support of Lady Azar.”
+
+“She could be removed.”
+
+“She is an old fox with connections who has survived the Baranese court for decades. Underestimating her or the people who surround her would be foolish.”
+
+“I am sensing a pattern, old friend.”
+
+“And you are correct. I would rather shove my hand in a crimson anthill than send an assassin to Kazar. For now, I believe they should be left to develop because the price of interference would be prohibitive. Besides, Harrak is a thorn in Enoria’s side more than in ours. Better to leave them to grow until their power structure becomes more complex with the inevitable weaknesses it brings. Sovereigns rely on their ruling class, and nobles are always hungry for more. Cracks will appear and when the time comes to widen those cracks, we will have the tools to do so. I will make sure of it.”
+
+“Good, because in a hundred years…”
+
+“I know.”
+
+The spymaster unfolded a map on the table between them. It showed Halluria, now with considerably more detail than there used to be even a year before.
+
+“Concerning your other questions, I have talked to the others. We are not certain the project is feasible.”
+
+“A fortified city in Halluria would be much easier to defend than half a continent of borders.”
+
+“With all due respect, the Northerners disagree. Jaratalassi says that lifting a siege on a city inside of Halluria would be excessively difficult. The risk of early strikes by surviving Hallurians warriors is… non negligible as well, should we send troops now. All for a land we have all seen as inhospitable for centuries. We would be hard-pressed to even find volunteers willing to be posted there. I fear Halluria might remain hallurian for the time being.”
+
+“This is the perfect opportunity to expand…”
+
+“I am sorry, sire. Our people simply do not wish to expand into that hellhole.”
+
+“We are landlocked. This is the only direction open to us. My ancestors and I have been defending our borders for as long as our history has lasted. With Enoria on the rise, this is our best chance.”
+
+“I would suggest outposts then. I believe Hallurian civilians might be more receptive to offers of alliance now that most of their warriors have perished. I have contacts among the exiles. We could arrange something alone, carefully.”
+
+“If this is the best we can achieve, you have my approval.”
+
+***
+
+Viv leaned towards her army’s first defection. Jaratalassi stood at a distance, hands worrying a wide-brimmed hat. Viv had never seen it before. It was a nice hat. Very stylish.
+
+“If you are certain…” she finally said.
+
+The gray-haired Bitter Heart wilted under her gaze. She was red as a lobster, to the point that one of her friends spontaneously came to pat her hand.
+
+“Yes… He’s a very nice man,” the crossbow woman squeaked.
+
+“Then you have my blessing. I officially release you from my service and wish you the best luck in, ah, matrimony?”
+
+“Courting first!” her friend said.
+
+“Well, yes. Fine. And if the old steel trap doesn’t behave…”
+
+“Oh, no problem!” her friend said. “We already threatened him.”
+
+“Good. Well, good luck then.”
+
+Viv stood, announcing the end of the meeting. She still managed to corner Jaratalassi before he could give her the slip.
+
+“Stop poaching my soldiers.”
+
+“It’s just the one, Viviane. I’ll be good.”
+
+“You’d better or the next Harrakan to grace your bed will be Solfis.”
+
+***
+
+Harrak had lost almost fifty people in a single campaign, with many more wounded. Viv wasn’t sure how she felt about it. The early battles had been difficult but she felt she’d done her best. Some things could have gone better, like the ammunition situation. Some others were, well, they’d gone amazingly well. In theory, most losses happened during a rout, or from diseases, at least in medieval armies so… everything seemed consistent.
+
+A part of her whispered it was her fault, that they’d followed her to their death. There had been screams in the wounded tents. The more rational part reminded her she could only try her best and keep going, or find someone better. Problem was, Param was fresh out of outlander archmages with a basic understanding of politics and propaganda.
+
+//The convoy is ready, Your Majesty.
+
+//Let us head home.
+
+“Alright.”
+
+The local armies were filing out of the valley in good order. As one of the smaller groups and the more easily mobilized, Harrak was ahead of the larger troops. The portal was working non stop to transport soldiers away but it was only so wide. She used the opportunity to look back from her spot at the front of the column among her knights, towards the regiments standing between supply carts and yries war machines. Spirits seemed high, perhaps because of the bonus pay that came with more loot. Viv thought they were just jaded, too used to constant death. For Paramese standards, things were fine.
+
+A memory came to her, unbidden. It was the mountain of burning corpses left in the trail of the loyalist army after they’d turned west. That was the norm. She was still soft compared to the locals. She didn’t think it would ever change.
+
+And then there were the Kark and the maniacs at the end. Harrak was the only nation that returned from the war with more people than what it had started with. Her new minions whispered excitedly among themselves in all their strange variety of skin color and faces.
+
+“You think we should learn their languages?” Viv asked the golem as they slowly moved forward.
+
+//I believe it will be required sooner or later.
+
+//I also have plans for a new… military unit.
+
+“You think the Nemeti will return?”
+
+//They will, but not in the same way.
+
+//I’ve discussed it with your daughter.
+
+//Our opinions align.
+
+“You guys have discussions on the nature of fate magic?”
+
+//Yes.
+
+“Without me?”
+
+//As shocking as the concept might be, Your Majesty,
+
+//We are fully independent entities capable of engaging in valuable exchanges of information without your input.
+
+“Yeah yeah, okay. So what was it about them returning?”
+
+//Just as when the Nemeti start winning, they become unstoppable,
+
+//If they do lose as decisively as they have here, the precedent it sets will actually hurt them.
+
+“So they can’t do another land assault.”
+
+//Or they would do it at a massive disadvantage.
+
+“So they might attack by sea next time? Would that work?”
+
+//Yes.
+
+//Which is a massive problem.
+
+“I don’t think it will happen for a while. We can always resurrect the Harrakan fleet.”
+
+Solfis remained silent for a disturbingly long amount of time.
+
+“What?”
+
+//My programming makes it difficult to criticize Harrak.
+
+“So the empire had a shit fleet?”
+
+//The glorious empire achieved many victories.
+
+//Such as in Traeste, off the coast of Bokore, or at Centi.
+
+“Against rebels?”
+
+//Well.
+
+“Against rebels, Solfis?”
+
+//Yes. Also yes. And pirates.
+
+“Huh. And, errr, who are the best sailors around?”
+
+//With the fall of the shadowlands, much of the northern cities have lost their naval military traditions.
+
+//Right now, Vizim is the dominant sea power.
+
+//According to the reports I have read.
+
+“And Harrak, historically…”
+
+//Has struggled to catch up.
+
+//It did not help that, compared to you, the old rulers tended to be less, shall we say…
+
+“Receptive of other cultures?”
+
+//This statement is correct.
+
+//Your flexibility gives me hope for the development of our future naval power.
+
+“Not for a long time.”
+
+//You need to adopt a time frame that matches your life expectancy, Your Majesty.
+
+//Consider the naval issue now, and seed it in decades for results a century from now.
+
+“I mean, with my perfect memory, I bet I could recreate ‘frigates’. Galleons at the very least. With cannons. We’ll have cannons by then. Hey, why are you so close?”
+
+//Tell me more about those ‘galleons’ with ‘cannons’.
+
+“We don’t even have a proper industry yet.”
+
+//Tell me more about industry.
+
+“Sigh.”
+
+***
+
+“Haaaaalt!”
+
+Despite Viv’s enhanced mind, it took her a solid second to lift her fist and force the two thousand strong Harrakan column to a ponderous stop. The man who’d caused this incident was a pudgy guard in a clean tabard bearing the colors of Duke Ediar of Reixa, whose city stood in the background and whose land they were on.
+
+Viv glared into the depths of the guard’s porcine gaze, finding no signs of intelligence there.
+
+“You lots gotsa pay the toll. Everybody pays the toll. No exceptions.”
+
+He checked the column as it was stuck in the portal.
+
+“Not even for noble folks, beg your pardon. Everybody pays the toll.”
+
+Viv felt a sense of disbelief an amazement at this man so dedicated to the cause he felt comfortable standing in front of armored knights escorting a woman with eyes like a ring of emerald over the void between stars (ok that was a little melodramatic) and light-absorbing gashes in the fabric of reality emerging from her shoulder blades. He was really there, standing his ground.
+
+And now Viv was facing a conundrum, a really uncomfortable one.
+
+Because there were no arrangements in her contract that stated she could freely use the portals to move troops around. Even her trade caravans were not exempt of tolls since local nobles tended to see such exemptions as an unfair competitive advantage and that was toxic in the long run.
+
+It was kind of dickish to force a toll on an army participating in an international effort to defend the continent. Viv had made her opinion clear on what dickish moves against her entailed, but here it was different. That guy was implementing the rules.
+
+If she flaunted the rules here through intimidation, she would prove that rules didn’t apply to the sovereign, something that she’d fought against this far. Justice as an overarching principle rather than a tool of control in the hand of the ruler was a pillar of modern society. If she wanted social progress, she had to make concessions despite her pettiness and tendency to get even.
+
+At the same time, this wasn’t one of her citizens and although fairness was required within a society, she was also expected to be an asshole to ‘others’, the outside group. Foreigners. Her people expected it from her. They wouldn’t understand if she just bent to a person who was socially her lesser by a huge margin.
+
+The pudgy guard was sweating abundantly by now, especially since Solfis had deployed behind Viv. Fortunately, her silence was serving her well because a form in the elaborate dress of a noble was sprinting towards her from a nearby booth. The man slowed to a brisk pace as soon as they were within earshot, several guards joining him without prompting. They didn’t look hostile. In fact, they looked scared. The Enorian noble smoothed his beard and put on a pleasant smile as if he wasn’t in plain sight of the entire vanguard. Appearances had to be maintained, Viv supposed.
+
+“Your Majesty Viviane, such a pleasure to see you again so quickly! Words of your triumph have traveled to us with this morning’s runner. Allow me to congratulate you on the alliance’s victory at the Lizard Pass.”
+
+Renaming landmarks already?
+
+“Considering the circumstances, we will happily waive any fee you might incur, haha. You can also avail yourself to the amenities of my lord’s castle, if you wish. He has a standing invitation for visiting sovereigns.”
+
+Viv was loath to place herself above the law. Getting preferential treatment though? That was quite fine. A bit like being bumped to first class on a plane.
+
+She was kind of being a jerk but this was a jerk planet. When in Rome, throw Christians to the lions.
+
+“I appreciate his offer, however I wish to return home quickly. Thank you for facilitating our passage.”
+
+“Oh, it’s nothing! The portals are yours, after all.”
+
+“Nevertheless, our agreement doesn’t cover armies. I will remember your gesture. Now, if you will excuse me.”
+
+“Of course, of course. Safe travels to you!”
+
+As the column moved on, Viv chuckled at the exchange between the guard and his boss.
+
+“But you said no exceptions, boss!”
+
+“With pissy nobles, not the elemental archmage who built the gods-cursed gates! Do you know what she does to those who disrespect her? Why am I surrounded by IDIOTS?”
+
+It was amazing how having a reputation for being a bitch helped, sometimes. She was the continent’s Uber Karen or something. Treat me in a princely manner or I’ll call for a manager and an orbital strike. Whatever. She knew with certainty that, as soon as she was back in Harrak, she would be taken down enough pegs anyway.
+
+Her dad was right, no one was a prophet in their own kingdom.
+
+***
+
+“Why is it that every time you go out, you return with an ever larger pack of mutts? Why do some of those people even have blue skin? Who the hell has blue skin?” Lady Azar muttered.
+
+“They’re from beyond the isthmus, past Halluria.”
+
+“Those fuckers crossed two continents to become mushroom farmers?”
+
+“Err, I think we have some new crops. Some sort of gourds?”
+
+“Are you perhaps knowingly ignoring the point? What am I saying? Of course, you are. Stop bringing new ethnic groups like they are lost kittens. Any more of them and we will officially have more races than are even present on Param. Are you doing a collection? Is that it?”
+
+“Technically, we have Kark, northerners, and Wamiri is from Vizim.”
+
+“Solar’s wife?”
+
+“Yes. So. Yeah…”
+
+The old Baranese countess picked up her dainty tea cup and took a sip while Viv sat there feeling like a naughty student in front of the principal.
+
+“They have requested to be kept together, your blue-skinned strangers from a faraway land. I have selected a village for them,” she finally said.
+
+“They have been through a lot.”
+
+“Most of them do not speak our language. I will have to dedicate one of our newly trained civil servants to the task.”
+
+“You must have someone who is a linguist. This is the first time in recorded history we have contact with isthmus civilizations.”
+
+“Not exactly true. Vizim keeps trade routes.”
+
+“The first time in the history of the continent. Not even the Old Empire knew much about them. There is so much to learn, and some of it could be of interest to us. Magical theories, designs, tactics, methods. Think about it.”
+
+Lady Azar put her cup down. As a gesture of peace, Viv poured tea for the both of them. The older woman acknowledged the gesture with a smile of appreciation.
+
+“You are quite right, though we have a problem. Too many ideas, not enough resources. We are reaching a sort of saturation despite the way our population has exploded so far. The flow of refugees is slowing down as well. Newcomers also need time to set up, build or complete their homes and sow their fields. By the way, your new Kark contingent has requested to live close to the mines. Their fascination with iron is singular.”
+
+“Their land lacks it. They associate iron with power so I expect they will stockpile resources before they return north. Speaking of, how is the mine coming up?
+
+“The first human-made ingots are ready for export or for use. Did you have something in mind?”
+
+“Yes, but I am not sure it fits Nyil and the logic of this world.”
+
+Azar sat back into her chair. It was nice to feel like you had someone’s full attention, Viv thought.
+
+“Kindly elaborate.”
+
+“I want to introduce mass production. Mass production is a way to manufacture goods cheaply, quickly, and in large numbers using the specialization of the workforce, assembly lines, tools and standardization. It’s, well, it would be really useful in making farming equipment cheaply available to everyone which is really important right now, because our production cannot meet the demand. The problem is the existence of paths. We risk turning people into machines who’re only good at one thing.”
+
+“By specialized workforce, you mean someone only does one thing again and again until it’s perfectly done?”
+
+“Yes.”
+
+“Hmmmm. It is not as uncommon as you think for apprentices.”
+
+Lady Azar contemplated the idea for a while.
+
+“I believe we can make it work by employing young people.”
+
+“Child labor?”
+
+“No, young adults. Thirteen and above.”
+
+“Aaaaah that makes me uncomfortable.”
+
+“They would be compensated of course, but consider this. Humans choose their path thanks to the interface. Working for a couple of years in one of the… what are they called?”
+
+“Factories.”
+
+“Yes, an appropriate term. Factories. Well, we can adopt your method to several industries, like coal production. I will set up teams and rotate them often so they do not get too bored. Contrary to what you seem to believe, repetitive activities have benefits. They help increase stats and acquire specific skills such as trances that prove very useful in pretty much every path. You have one yourself, do you not? I have seen you move with your golem.”
+
+“I thought skill information was private?”
+
+Azar dismissed her concerns with a wave of her hand.
+
+“Asking for specifics is rude, stating the obvious is not. Your idea is of interest to me. And the… machines as well. Paths are much more adaptive than you may believe. The interface loves progress. And we do need more hoes.”
+
+“We always need more hoes,” Viv agreed. “And shovels.”
+
+“I am glad to see you keep in touch with our new nation’s rural roots. Now, for the summit. You will attend, of course.”
+
+“We leave in a month. The summit was delayed to allow the Paramese alliance to return home and rest.”
+
+“Excellent. I will not accompany you for the sake of your own image, but I have instructions and files. Will you be doing anything else while you are here in New Harrak?”
+
+“We only have a month and you are right, everyone is busy, especially with the harvest starting soon. I will focus on training the Kark and practicing new spells. Visit the new villages, maybe.”
+
+“That would be good. As I said, I will need to prepare you for the summit. It would be best if you were not constantly running around picking fights with avatars. At least for a month.”
+
+“You’re saying that like I do it on purpose.”
+
+“It certainly seems to occur with concerning regularity.”
+
+“Hey, I win.”
+
+“...”
+
+“No, seriously. It’s hard work, you know?”
+
+***
+
+Viv decided, as her next order of business, to take a stroll. A stroll was the only way to gauge the mood of a city according to her dad, though he would visit on market day to do so. From baby kissing to thrown excrement, the reflected range of emotions gave the person in charge a good idea of what citizens thought. Viv left the town hall behind and walked over the clean pavement of Kazar’s main square with Solfis in tow, a group of One Hundred tailing her. Most of the other soldiers were relaxing in preparation for tonight’s banquet, except for the Mountain Sons who’d left to see their families, but the One Hundred prided themselves on being hard asses. The mood seemed festive under the purple leaves of the great tree of Kazar with many revelers and only one hanged body. Viv was hailed and recognized by many people, though most kept their distances. The children seemed disappointed that Arthur had flown off to manage her bank. The first to stop her was a meatball seller who offered her a free wrap. He used her approbation which was kind of fair.
+
+“Wraps approved by the empress! Get your empress-approved wrap here!”
+
+Smart lad.
+
+The next person actually hailed Solfis, something that would have been unthinkable two years before.
+
+“My lord! Did you get new skulls?”
+
+//Yes, thank you for asking.
+
+“Did you get the biggest one?”
+
+//Sadly no.
+
+//It evaporated.
+
+“Aw, better luck next time, my lord. Stay safe!”
+
+//Oh, I will.
+
+Viv turned to the golem who had that fixed glare he had when processing a lot of data.
+
+“I bet you didn’t have people asking about your hobbies back in the day.”
+
+//No.
+
+//Most interactions were closer to
+
+//”Oh gods please don’t kill me.”
+
+//Things of that nature.
+
+“It’s an improvement, isn’t it?”
+
+//New Harrakans have no concept of what a golem is.
+
+//They treat me as a person.
+
+//A considerable improvement, yes.
+
+//It gives me hope for the future.
+
+//When we are more.
+
+“When are we going back to Harrak?”
+
+//I believe next year should be perfect.
+
+//Unless we get embroiled in another war.
+
+//Keep in mind that I will no longer be able to accompany you on long expeditions.
+
+“It’s okay. I think I can take care of myself better now.”
+
+//If you say so.
+
+“Your Majesty!”
+
+A man parted the crowd. Viv’s mind switched to serious mode when she noticed he was dragging a woman behind him, but she calmed down when she realized  the woman was more just embarrassed than actually being pulled along against her will. A shaky hand covered half of her face. It wasn’t nearly enough to hide the mass of blotchy, uneven skin characteristic of a burn scar.
+
+“Your majesty, please.”
+
+“Speak your mind, citizen.”
+
+“It’s my sister. She’s burnt.”
+
+“Erel, please!”
+
+“She doesn’t think you can help her. I told her you also helped people who were, you know…”
+
+Courage and embarrassment warred in his features. He believed he was treading on thin ice.
+
+“Defaced,” Viv finished. “Let me see?”
+
+The woman was now a delicate shade of tulip, with more purple where the scar marred her features. It was a nasty one. Must have hurt a lot. Viv would have to remove the scar tissue but it didn’t look too hard, especially because the other half of the face remained intact. It always made the surgery easier. The woman babbled under her scrutiny.
+
+“Lord Tayne, my old lord he… and his wife, she found out… There was a lantern with pitch.”
+
+There were several scenarios that could fill the gaps of that summary and none of them should have led to defacing a rival.
+
+“Your brother is right. I will set up a time with the temple, before we return to Sinur’s Gate. I am certain you are not the only newcomer who came bearing wounds.”
+
+Viv left the grateful pair behind to enjoy an offering of mushroom skewers. The visit continued. People had requests, demands, observations, not everything was perfect under the sun but that was normal. What mattered was that they were doing better and they were not afraid to talk to Viv. People here led good lives, without fanfare but with smiles and street food shared with their friends and families. That was as good as it got, sometimes. She would take those victories wherever she could.

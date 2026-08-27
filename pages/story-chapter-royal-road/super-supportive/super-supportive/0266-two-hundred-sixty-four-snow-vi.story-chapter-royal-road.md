@@ -1,0 +1,335 @@
+---
+id: 631d4d7f-e103-58e3-a54c-30b4800e390d
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-FOUR: Snow VI"
+slug: 0266-two-hundred-sixty-four-snow-vi
+partOf: super-supportive
+position: 266
+ownLength: 4968
+unit: words
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2894246/two-hundred-sixty-four-snow-vi"
+royalRoadId: "2894246"
+---
+
+264
+
+******
+
+Esh-erdi and Lind-otta responded to Alden’s text with a joint video call. They were together in a place that wasn’t Anesidora. It was night, and they stood on a wide, painted staircase that climbed up toward a tall rock formation. What Alden could see of it was mostly a dark shape partially covered with darker vegetation, towering behind the two knights.
+
+There were no other people. Despite the landscape being foreign, he thought they were still on Earth. There was something in the construction of the stairs and in the shape and color of the lights along the edges. Something about the sounds of the night around them.
+
+The knights were both looking at him with smiles, but he felt like he was intruding. And he couldn’t even apologize for it out loud.
+
+[Sorry to bother you when you’re traveling together,] he messaged, suddenly very aware of how his own surroundings must look.
+
+Beside him, Servin-ith was reaching for a cup of cocoa and thanking the Shaper. Lute had a cotton candy pig that had lost so much altitude it was basically a hat. The wizard who’d bought the hot dogs was now reading about hot dogs on the internet and delivering random facts about them to the others in the back of their group. And Bash-nor was being loud again—just a jocular, friendly guy who was ever so close to the Avowed here, offering the Shaper tips for improvement.
+
+[I can handle this myself actually,] Alden wrote. [You two have fun.]
+
+“It looks like you’re having your own kind of fun. How could Drusi have neglected to tell me you were on tour with Grand Senator Servin-ith and that decent wizard who’s illusioned himself to look like Bash-nor? We should punish her, Lind.”
+
+“Being our votary is punishment all too often,” Lind-otta said. “I’m sure she’d rather be shut away in a closet right now. She’s there, Alden. We loaned her to Servin-ith for additional protection and assistance.”
+
+“And so that she could tell us if anything interesting happened.” Esh-erdi shook his head. “She’s doing a terrible job.”
+
+Alden looked around the market. He saw absolutely no sign of the votary.
+
+“What are you doing with that group?” Esh-erdi asked.
+
+[I’m really fine. Especially if Drusi-otta is here. I’ll just send a message to her.]
+
+“What are you going to send in the message to her? Tell me first.”
+
+Alden started to sigh but aborted the noisy exhale halfway through because he didn’t want Servin-ith and Bash-nor to think he was bored. Or think he was on a call with the knights, asking for advice about how to deal with them.
+
+Better text it all quick.
+
+[Zeridee suggested I introduce myself to the Grand Senator,] he explained, taking a cup of artificial wevvi from the Shaper since it was being held out to him. [I didn’t want to, but she made it sound like it was important. Grand Senator Servin-ith seems to like me, and Ambassador Bash-nor is annoyed I’m here. My friend Lute and I have noticed that he’s trying to control the senator’s trip so that she only meets with Avowed who admire him. For some reason, she was going along with that, so we’re suggesting she should go to the gingerbread village next. After that, we could point her somewhere else, just so that Bash-nor isn’t managing everything.]
+
+[I tried to figure out what Zeridee wanted, and I think she might want the ambassador to be fired. She must have thought I could help with that. I just  mentioned almost drowning. He was trying to say all my trauma was caused by Ro-den and not the incident with the flyer, so I brought that up. Is this safe? You told me not to worry about him, but then this happened. I could try to do some more to influence the Grand Senator, or after the gingerbread village, Lute and I could find an excuse to leave the group if that’s better.]
+
+Neither of the knights responded immediately.
+
+“I hear you,” said Esh-erdi, his tone turning almost polite. “I hear that you are helping Zeridee-und’h by wading, with such sudden eagerness, into the political sea you believe she is pointing you toward…and you are now checking with me to see if the water is safe before you go deeper…”
+
+Lind-otta, usually so poised, started cackling. Her voice echoed around them.
+
+“…it’s good. I wanted you to trust me with your questions,” said Esh-erdi, trying to cover Lind-otta’s mouth with a hand and missing as she took a seat on the staircase, her shoulders rising and falling with mirth. “Ignore my magnificent Lind. She’s sharing her voice with the creatures of the Malaysian near-dawn, not laughing at you.”
+
+“I’m really not laughing at him.”
+
+Alden barely caught the fact that they were in Malaysia. Their reactions were making him sweat.
+
+[Did I get this wrong?]
+
+“Wait. I’m asking for a report from Drusi-otta now,” Esh-erdi said. “She’s asleep at that human festival, isn’t she?”
+
+[I can fix it. Maybe. Shit.] Alden mental texted his thoughts by mistake.
+
+“Don’t do anything. Nothing’s broken. Definitely don’t shit.”
+
+“No, I meant I—”
+
+Servin-ith turned at the sound of Alden’s voice. His view of her face was partially obscured by the video window that showed the knights.
+
+“Did you want something other than the wevvi, dear?” she asked.
+
+“Oh, no!” he said. “I was talking to…um…”
+
+He needed to sound like he’d been paying attention to the people around him, but he hadn’t caught most of what had been said in the past minute. His options were limited.
+
+“I was just commenting on the hot dog conversation going on back there. You know how your homeland is famous for mountain glass? Chicago is famous for hot dogs, so I have a lot to say about them. Too much. Let me tell you about they can be improved with celery salt.”
+
+Am I really talking about this?
+
+I had the beginnings of a plan, and now I have celery salt?
+
+Ro-den once told me that pretending to be stupid was a great way to manipulate wizards. Maybe this is good. Bash-nor will never suspect someone with a celery salt obsession was trying to plot against him.
+
+Lute was looking at Alden with confusion.
+
+Lind-otta had stopped laughing, but she was still grinning.
+
+Esh-erdi was brightening at whatever he was hearing from Drusi-otta.
+
+Zeridee’s face, visible through the gap between two other Artonans, was tense. Like she was preparing to run away. Or beat up the ambassador. Or beat Alden to shut him up.
+
+Bash-nor had been forced to fall silent and delay whatever story he’d been about to share while the Grand Senator supplied Alden with Artonan words that might help him explain the flavor of celery to his audience.
+
+At least I’m making him suffer, too.
+
+[Lute: Celery? No elf bingo? More vegetables.]
+
+“On campus, people associate Alden with radishes,” Lute said. Apparently, he was under the impression that this was now the official direction for their Bash-nor attack scheme.
+
+So many people are hearing this, thought Alden. How do I make it stop?
+
+“A root crop? Why is that?” Servin-ith asked Lute.
+
+Lute launched into a dramatic version of the tale about Hazel and the falling radishes. It gave Alden time to catch his breath, and it worked out better than he deserved. Lute was somehow making Alden dropping crudités sound like proof of his gentility. Like the Velras at that party had been such ogres that all decent attendees should have been shocked into losing control of their vegetables.
+
+Lind-otta appeared to be listening to the story intently.
+
+And while Lute was entertaining everyone, Esh-erdi had time to turn back into his usual self and respond to Alden’s questions.
+
+“I understand everything now,” he said cheerfully. “Except for your decision to speak of salt. Here is your introduction to the sea. I will go quickly, so pay attention. Bash-nor is one of Grand Senator Servin-ith’s strong supporters and allies. They agree on how certain things should be done, but they don’t agree on why they should be done that way. And Servin-ith has grown heavy-seated in recent years.”
+
+Alden frowned as he tried to make out what that meant. Esh-erdi guessed what he was struggling with.
+
+“Heavy in her seat. As though she can’t be moved. Her popularity is so high that her position on the Grand Senate should endure some <<setbacks>>. This has been a good situation for Bash-nor because his connection to Servin-ith has helped him to elevate himself. But at the moment, it’s a problem for him. Servin-ith is too powerful to truly need him, and he has now pricked her morals with the needle of <<a plant that causes prolonged skin irritation>>.
+
+“She reviewed all the speeches he delivered to your people during and after the recent disaster and found them disappointing. This wouldn’t have been enough to cause a rift in their relationship, I think, but there are other needles. The und’h family was angry to learn that Zeridee had been left to look after you on her own that night. They have allies who get along with Servin-ith, and those allies have likely encouraged Servin-ith to come take a closer look at whether or not Bash-nor has been a proper ambassador.”
+
+[I understand,] said Alden.
+
+“Then I’ll keep going. I’m unsure if Servin-ith feels responsibility toward Zeridee-und’h. She would if Zeridee were a normal member of the ordinary class, but Zeridee isn’t. However, Servin-ith does treasure her own role as a protector of non-wizards…perhaps in a way that is annoying. Drusi says that she is treating you too much like a young child, and that you’ve noticed.”
+
+She really is watching us, thought Alden. [Drusi-otta is right.]
+
+“In recent days,” said Esh-erdi, “Bash-nor has begun to speak as if he would like to remain the ambassador here for longer. This is a new goal of his. He probably intends to work hard and leave wearing the honor of having overseen Anesidora’s healing instead of being one whose time of service is trouble-stained.”
+
+Alden found himself glancing at Bash-nor in surprise. [Would he actually do good if he got the job again?]
+
+“Perhaps. But why rely on the possibility of Bash-nor becoming a more excellent ambassador when other wizards who have already proven their excellence are available to take his place? Because of what’s happened, a former ambassador—one who was particularly well-liked by Anesidorans—may be <<cajoled>> into serving again. I’ve made some efforts to encourage that outcome. There are many places in this universe where Bash-nor can do good if he wants. Should he be allowed to spend more time polishing his character on millions of Avowed instead?”
+
+[No. He shouldn’t.]
+
+“It seems the daughter of the und’h family agrees with you. Although, based on what Drusi says and that funny expression on Zeridee’s face, she only wanted you to be nice to the senator and endear yourself. I don’t think she meant for you to understand her deeper intentions and start complaining about Bash-nor to Servin-ith.”
+
+Alden pretended to savor his wevvi and flicked his gaze over to take a peek at Zeridee. [She just told me to be myself and be honest if the senator asked questions. But I was trying to figure out why she wanted me to be around Bash-nor when the last thing she said about him was that I should avoid him. And especially avoid annoying him.]
+
+“Zeridee may have intended to say things more directly to the Grand Senator after you’d sweetened her mood and left,” Lind-otta said. “So that Bash-nor’s anger would fall on her, not you.”
+
+Esh-erdi frowned. “That does sound like an idea she might have if Servin-ith is showing signs of giving into Bash-nor instead of getting rid of him. Zeridee is not as fond of her own wellbeing as she should be….Lind, do you think…?”
+
+“All right, my young dears,” Servin-ith said, “what were you two telling me about a village made of bread?”
+
+Lute had run out of story, and the senator had run out of questions about the story. Lute and Alden now stood on either side of her. Bash-nor was beside Lute, being forced to look around the pig.
+
+“What is that thing on your friend’s head?” Esh-erdi asked. “Did you put it there to bother Bash-nor?”
+
+“I believe they’ve already seen the gingerbread village, so they probably wouldn’t like to go there again. There is a wonderful woman you have to meet, Servin-ith,” the ambassador was saying. “Someone who can tell you about work I did last year for…”
+
+Prioritize, thought Alden, as the number of inputs threatened to overwhelm him. I only have one stream of thought to work with, so I prioritize. Number One: stay a friendly, innocent Rabbit for Servin-ith. I have no secrets that would make her want to remove me from Earth.
+
+He couldn’t forget that comment about how not all magic was meant for sharing with humans.
+
+“The gingerbread village is great, though!” he said. “Lute says it’s been here for years, and gingerbread is a Christmas tradition in lots of places on Earth. If you’d like to do something else, there’s also a woman selling gloves and mittens back that way. She’s so caring. She invites young people from intake to her home for holiday meals. Intake is the place where new Avowed from other countries live when we first come to Anesidora. Or there’s also…”
+
+I can’t do it. I can’t say it. No. I can.
+
+“Elf bingo,” said Alden, more or less straight-faced, “which is a game Lute is currently playing.”
+
+Lute whipped out his bingo card. “I only need the silver elf to win.”
+
+“Or,”  said Alden, “if you’re thinking of leaving the market to see more of the city, there’s this amazing shop not far from here that sells Wrightwork masks. They have one that you’d—”
+
+“I think the Grand Senator would love to see the gingerbread village. I know I would. Especially if you two are so fond of it.” Bash-nor’s voice had turned so bubbly Alden wasn’t sure what to make of it.
+
+“He didn’t like that last suggestion at all,” said Lind-otta, tilting her head.
+
+“Yes, he’s panicked about it.” Esh-erdi looked curious.
+
+[He is? About the mask store?] Alden sent.
+
+“Is it not obvious?” Esh-erdi asked.
+
+It was obvious the ambassador had changed his voice and suddenly interrupted, but as far as analyzing the levels of panic in different types of alien fake happy tones went, Alden must have been too much of an amateur.  Servin-ith and a couple of the other wizards were giving Bash-nor one-eyed stares, too.
+
+[I can talk more about it,] Alden suggested.
+
+“Don’t,” Esh-erdi said. “You’ve already won this round of the game, haven’t you?”
+
+Bash-nor did agree to the village instead of the thing he wanted.
+
+[That’s true.]
+
+“No matter how clumsy you pretend to be, you can only bump into a person a few times before they suspect you’re trying to knock them over. And to answer your earlier question—no, it’s not safe for you to deliberately irritate Bash-nor.”
+
+Alden swallowed.
+
+“However,” said Esh-erdi, “the risk of irritating him today can be weighed against the risk of having to live on an island with him for years. He’s not an enjoyable neighbor for you, is he? And you won’t always have such powerful allies supporting you in your cause.”
+
+I just wanted to help Zeridee since I thought she was asking. And she wasn’t asking me to go this far. But if Lind-otta’s right and she’s planning to stick her own neck out as soon as I step away…
+
+That sounded like Zeridee-und’h. She worried about the people who lived here. She’d probably been doing damage control ever since Bash-nor arrived, just trying to stay patient and keep Avowed from getting on his bad side until he was replaced by someone better. Hearing that the replacement might be delayed must have changed her own risk assessment.
+
+[I’d like to bump into him just one more time.]
+
+Esh-erdi’s smile widened. “Then you must watch and wait for an opportunity. Until then, simply be there and create an environment that will make it hard for him to regain his balance. I’ll end this call because I don’t think you’re very good at listening to me and giving your attention to what you’re doing there simultaneously, but I’ll be watching. If I need to say something, I’ll contact you or do it through Drusi-otta.”
+
+******
+
+The next hour was such a strange one. Alden was coiled like a spring on the inside, but on the outside, he was trying to appear carefree. It eventually occurred to him that walking up to a Grand Senator and inserting himself into her entourage was an act that could be considered a display of self-confidence by some people. And deciding on the spur of the moment that he would play an active part in getting a powerful wizard kicked off Earth was so ballsy that if he’d heard someone else was going to do it, he’d have been impressed by them and scared of them.
+
+He wondered if he should be proud of himself.
+
+He wasn’t. It had all just worked out this way. His nerves were alive and writhing inside him, and he was becoming so self-conscious he felt like he was wearing someone else’s skin.
+
+How was Lute handling this with such aplomb?
+
+The longer they spent with the Grand Senator, the more comfortable Alden’s roommate seemed. Growing up in his family must have given him some kind of inoculation against being freaked out by situations like this.
+
+Meanwhile, Alden was trying to stay in Servin-ith’s good graces—priority one. Which helped him keep the environment less than ideal for Bash-nor—priority two. While he waited for one more perfect opportunity to say something.
+
+What that something was going to be he didn’t know. The sermuntha juice idea had popped into his head rather easily, and Bash-nor had set himself up for the drowning comment. Now that Alden was trying harder and feeling more nervous, all the ideas he came up with seemed too unsubtle.
+
+He was beginning to think he’d done enough already, and just continuing to make Servin-ith like him was plenty. Alden and Lute had now become something in between her tour guides and children she had adopted for the afternoon so that she could treat them to a fun time. Alden pointed her toward cool sights that he couldn’t appreciate himself under these circumstances and thanked her for taking such an interest in his life here.
+
+Along the way, he’d made another stab at convincing her that human high schoolers needed their training gymnasiums because they promoted camaraderie.
+
+Esh-erdi had messaged him three times so far. Twice to crack jokes. Once to warn that Servin-ith’s politics didn’t align well with him and Lind-otta or the art’h family, in case Alden was thinking that namedropping any of them would weigh positively with her.
+
+That was helpful to know, but it only made Alden feel more like he was stuck with no real options for a strong strike against the ambassador.
+
+He and Lute let Bash-nor have his way and direct the group where he wanted a couple of times, so that they weren’t so blatantly impeding him at every turn. But they did impede him a lot. Lute had distracted Servin-ith from the last place Bash-nor had wanted to go by asking her if there was a spell to get sugar out of his hair. The pig had finally lost too much of its magic, and Alden was now holding it preserved under one arm. If left to its own devices, it still drifted a bit, so carrying it was easier than trying to keep it on the shopping sled Zeridee was managing.
+
+While Servin-ith had helped Lute, Alden had talked up the lady who’d invited him to Christmas dinner again. Now they were on their way to see her. He was sort of glad he could take the senator to the vendors that he’d liked. The wizards doled out a lot of money and compliments, and Servin-ith was collecting input from people on what they thought Anesidora needed to recover from the disaster. So even if there was some awkwardness, everyone had seemed more happy than not to be visited.
+
+Mrs. Nancy was an older woman selling gloves, scarves, cloaks, and other odds and ends made by the members of a craft club. Some of it was classy looking; some of it was more quirky. She was wearing fingerless gloves and a coat with daisy-shaped buttons while she sat in a folding chair and chatted with shoppers. When Alden and Lute had met her a while ago, she’d been working alone, but now there was a man with her. He wasn’t a welcoming presence. He wore a sweatshirt and shorts that both looked like they’d seen better times, and his brown hair hung lank around a grim expression that didn’t change a bit at the sight of a group of Artonans approaching.
+
+He just stared at them, then picked up the box of leather goods he’d been unpacking and carried it toward the table on the opposite side of the tent. He kept his back to them while Mrs. Nancy stood up from her chair.
+
+“Hello, Mrs. Nancy,” said Alden, wanting to take the lead with the introductions because he was the one who’d suggested this stop and he didn’t like how Bash-nor did it anyway. “This is Grand Senator Servin-ith, and I’m sure you recognize Ambassador Bash-nor. I really wanted them to see your club’s work.”
+
+Servin-ith stepped forward, her pink eyes and her smile both wide. “Alden was telling me you’re an elder who takes special care to welcome people who come here from foreign lands, as he did. What a lovely path that is to walk!”
+
+This was a good place to come, thought Alden, as Mrs. Nancy started chatting without any hint of discomfort and most of the wizards started looking at scarves. Except for that guy maybe? Sorry, guy. We’re just shopping, and we won’t be here long.
+
+Bash-nor was single-eyeing the man hard, but Alden couldn’t even blame him for it. That turned back and refusal to look around was reading more as, “Go away. I don’t like you,” than as average busy person behavior.
+
+[Lute: He ignoring?]
+
+[Alden: Yeah. I think so. Maybe he’s someone who’s not comfortable around wizards.]
+
+[Lute: Don’t lose my pig.]
+
+Alden looked at him. Lute’s grin took a bite out of his tension.
+
+[Alden: You know you’re great company for this kind of mission.] He briefly wrapped both arms around the pig like he was hugging it before returning it to its underarm position.
+
+A new message came, this time from the silent and invisible Drusi-otta, before he could say anything else.
+
+[It would be best if we moved along from this place,] she wrote. [I’m sorry for not anticipating the need. I’ve already informed the Grand Senator, and we’ll be making swift purchases and going after this question.]
+
+Mrs. Nancy was getting along better with Servin-ith than most people they’d met. The senator had just asked how the floods had affected the woman. Was the guy here weirding Drusi-otta out, too? Or was someone troublesome walking this way? Doesn’t matter. I’m not arguing with the votary.
+
+[All right,] he responded. [I won’t try to stall. I’ll tell Lute.]
+
+[Something’s bothering our bodyguard,] he sent to Lute a second later. [We’re leaving quicker than usual from this one. Don’t try to keep us here or suggest another place nearby this time even if it would annoy Bash-nor.]
+
+Lute’s head turned. [Bodyguard?]
+
+Did I not tell him about Drusi-otta? I guess I didn’t. A lot has been going on.
+
+[Alden: Not actually a bodyguard. She’s a silent watcher helper person. :)]
+
+“If I can be honest…” said Mrs. Nancy.
+
+The hesitation in her voice made Alden tune back into the conversation.
+
+“Please,” said Servin-ith, leaning toward her. “Your honesty would be a gift to me and the rest of the Grand Senate as we make our decisions.”
+
+“I don’t think anyone who was here on Anesidora should’ve been left out by the System that night.” Mrs. Nancy laced her hands together in front of her.“Everyone’s talking about who the System should prioritize first these days, and I just wanted to tell someone that I think whatever needs to be done to make sure everyone who’s here gets that teleport offer when they need it…that should happen. There should be enough for that even if we have to give up something else. That’s what I think. It’s not right that a few people ended up without a chance.”
+
+“Of course,” said Servin-ith warmly, picking up a red scarf that matched her outfit. “Of course. We’ll do what we can. Now let me see this beautiful scarf. I think I’d like to take it home with me.”
+
+It wasn’t a very thoughtful response, but Alden supposed it was the quickest one. And they were trying to be quick.
+
+“A tender sentiment,” said Bash-nor. “Of course, except for the poor lives lost at the very beginning of the crisis, all Avowed were given a teleport or directions toward safety. Some were given both. Some did not accept the resources offered to them. Others, unfortunately, chose to <<dawdle>>. We all look forward to the day when your Contract is strong enough to offer second and third chances, so that nobody suffers from the mistakes they make in such a confusing situation.”
+
+This bastard. Alden refused to look at the ambassador. He must have been waiting for the chance to take a little swing of his own. But right now? And in this way? Doesn’t it make him look as bad as me?
+
+Was Bash-nor hoping Alden would react particularly badly to this?
+
+There were bad ways to react.
+
+The whiny, entitled way…claiming I should have gotten a second teleport offer. Blaming the Triplanets for not giving me even more. Pretending like I had no say at all in the events that led up to me and Zeridee almost dying.
+
+Alden swore he could feel the ambassador’s eyes on him.
+
+Whatever, jerk. I wouldn’t behave like that even if you weren’t here waiting for it. Mrs. Nancy was trying to say something about everyone; I know this isn’t all about me. And what about Lute’s parents? His dad was in trouble, and he wouldn’t have gotten—
+
+“Some of the people on Anesidora aren’t Avowed.”
+
+Alden’s head snapped up. The speaker, saying exactly what Alden had been on the verge of thinking, wasn’t Lute. It was the rough-looking guy, and he had such a combative note in his voice that it raised Alden’s hackles.
+
+“Non-Avowed didn’t get any teleport offer, no matter where they were. No matter what they were doing. Just instructions to head toward the nearest safe place.” He stalked across the booth to stand beside Mrs. Nancy. “And some of them weren’t anywhere near a safe place. What if a visitor enjoyed the little water taxis that used to run between Punta de la Luna and F-city? And what if he was lucky enough to make it to shore on one, but not lucky enough to make it inland before the floods? What if his daughter, who was an Avowed, went to save him? Do you think that person ever had a real chance?”
+
+Wait…this story…he couldn’t possibly be talking about…
+
+“Do you think that an Avowed who went to help someone didn’t deserve a second chance?” the man demanded.
+
+I think he might be talking about those people I found. He has to be. A father from out of town. An Avowed daughter. He must have known them.
+
+“I see,” said Servin-ith soothingly. “I hear. You’ve endured something tragic, haven’t you? I would appreciate hearing your whole story if you would like to share it.”
+
+“You lived in Punta. But you didn’t have to be stuck there, did you?” The man wasn’t taking his eyes away from Bash-nor. It was like he hadn’t heard Servin-ith at all.
+
+This is a bad, thought Alden. A person fixating on someone else when a Grand Senator is speaking to them is bad. That’s not a regular amount of angry. That’s an out of control amount of angry…that thinks it’s found somewhere to vent.
+
+[Lute: Watch him.]
+
+[Alden: Yeah.]
+
+“What’s your name?” Servin-ith asked the man, still speaking slowly and kindly. “Honorable Avowed? I would be grateful to learn it.”
+
+“Well?” the man practically spit the word at Bash-nor, whose nostrils had flared. One of the few small jewels in the ambassador’s braids trembled on the end of its pin.
+
+“Do you think an Avowed who went to save someone’s life dawdled?”
+
+He was being so confrontational. He was out of line. It was also clear that he was going through something. Ambassador Bash-nor just needed to say something vaguely apologetic, and then they could all get the hell out of here.
+
+“She was a hero,” said the man. “Don’t you all think someone who behaves like that is a hero?”
+
+Alden was nodding. Lute was nodding. Artonans were nodding along with them.
+
+But Bash-nor looked down on the man from a place that had nothing to do with physical height, and snapped, “Do not ignore a wizard when they speak to you. A Grand Senator of the Triplanetary Government is trying to give you the privilege of her ears.”
+
+The man leaped across the table. His fist flew toward Bash-nor’s sneering face.
+
+It hit a cotton candy pig instead.
+
+******

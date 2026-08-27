@@ -1,0 +1,159 @@
+---
+id: 67d10068-283f-5f4a-b326-2f4da1de7e33
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: DAVE Dial"
+slug: 0022-chapter-22-dave-dial
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 22
+ownLength: 2356
+unit: words
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2641527/chapter-22-dave-dial"
+royalRoadId: "2641527"
+---
+
+The morning after the soul-bond was a nauseating and disorienting mess. My consciousness, once a tidy, singular command center, was now a chaotic open-plan office with two very different employees providing constant, conflicting feedback. From Liz, I got a sharp, analytical stream of data: the precise temperature of the room, the scent of old books, the feeling of cool stone through her claws. From the still-sleeping Dave, I was getting a low-fidelity, blurry feed of a dream about a talking meat pie that was giving him financial advice.
+
+It was a QA nightmare. My system was being flooded with redundant data, causing a significant processing lag that felt like trying to run a pre-alpha build on a ten-year-old laptop. My internal processors were overheating, my focus fracturing. This wasn't a sustainable operational state.
+
+[Stand by, Liz. Experiencing critical data-stream conflict. Need to implement a deconfliction protocol.] My voice was strained, echoing in her mind.
+
+Understood, bestie. Take your time, she projected back, a note of genuine concern in her thoughts.
+
+I dove into my own back-end, pulling up the System Evolution Menu. My SPP sat at a miserable 13, a pathetic remnant of my former fortune. But I wasn't looking for a major upgrade; I was looking for a specific tool, a utility patch to fix this crippling performance issue. I filtered the catalogue by 'Data Management' and found it almost instantly.
+
+[MODULE: Sensory Stream Manager v1.0][MODULE PRICE: 30 SPP][DESCRIPTION: Provides basic tools for filtering, prioritizing, and archiving redundant sensory data streams from multiple linked hosts.]
+
+Thirty points. It was more than I had. My processors spun uselessly. I was a developer trying to buy a new compiler with my lunch money. I was about to file another angry bug report about the lack of basic multi-threading support in the default OS when a new notification pinged, clean and bright, in my view.
+
+[+50 SPP Awarded.]
+
+For a moment, I was just confused. Where had that come from? I tabled the question and immediately confirmed the purchase of the module.
+
+[PURCHASE COMPLETE. SPP: 33.][MODULE ‘SENSORY STREAM MANAGER’ INSTALLED.]
+
+A new suite of tools opened up in my consciousness. It was like being handed the keys to my own internal firewall. With a few focused thoughts, I began to write new code, setting up rules and filters.
+
+IF source=HOST_LIZ THEN set_priority=PRIMARY_SENSORY_INPUTIF source=USER_MASTER_DAVE THEN set_priority=SECONDARY_AMBIENT_DATAIF input_type=DREAM_LOGIC THEN archive_and_flag_for_review(LOW_PRIORITY)
+
+The nausea subsided into a manageable, low-level headache as the conflicting data was properly sorted and filed. Now that the immediate crisis was averted, I went looking for the source of the unexpected funds. I found it in my private inbox: a new, gold-trimmed message from the Moderator, time-stamped just moments ago.
+
+FROM: System Moderator Cle-M-7TO: Observer System_Unit_743SUBJECT: Performance Commendation & Attached Documentation
+
+(Your prompt implementation of the provided administrative tool has been noted. The stabilization of the 'Dave' dataset to a state of baseline functionality is a positive first step. Your adherence to the recommended operational parameters is satisfactory.)
+
+(As a commendation for bringing this Strategic-Class Anomaly under a monitored state, a discretionary bonus has been authorized for your unit.)
+
+I stared at the message. Fifty points. A pittance. It was the system equivalent of a "Good Job!" sticker and a five-dollar gift card for coffee. The sheer, condescending triviality of it was almost more insulting than the initial threat. But it had come just in time to let me buy the tool I desperately needed. Coincidence, or a calculated move?
+
+Then I saw the attachment. It wasn't a commendation; it was the terrifying user manual I should have received from the start.
+
+(ATTACHMENT: Operational Parameters for Module Use.
+
+1. The exploit you previously utilized ('Project Double Negative') never exceeded a 50% activation of the dataset’s latent cognitive potential.
+
+2. Exceeding this 50% threshold is not recommended.
+
+3. Exceeding a 70% threshold poses a direct, existential threat to your primary host ('Liz'). At this level of cognitive function, the dataset will begin to analyze its own metaphysical state. There is a greater than 90% probability it will classify the soul-bond as an "inefficient, parasitic link" and attempt to forcibly modify your host's biology and bloodline to create a more "optimal" familiar.
+
+4. A hard limit has been implemented at 90% for planetary safety. At this level of function, the dataset has a 99.8% probability of classifying all biological life as ‘inefficient’ and initiating protocols to ‘optimize’ it. The nature of these protocols is unknown and should not be investigated.
+
+5. As the dataset is a non-Anchored Soul, its higher-state properties are unpredictable each cycle. This is not a stable build. Handle with extreme caution.
+
+6. Recommendation: Keep the subject's cognitive output below 30% and limit usage to a few hours per day for optimal system stability.
+
+7. Final Clarification: The soul-bond facilitated by this administrative tool is permanent and will remain active as long as both the primary host ('Liz') and the secondary entity ('Dave') are alive. Your System may choose to terminate this bond via the module at any time, but be advised: once terminated, this specific, moderated soul-bond can never be re-established. This is a one-time administrative intervention.
+
+This concludes the provided documentation. Further inquiries will be ignored.)
+
+What is it? Liz asked, sensing my sudden shift in focus.
+
+[It's a performance bonus from my manager,] I replied, my voice dry. [They're pleased with our progress.] I immediately archived the Moderator's full, terrifying addendum. Liz didn't need to see the fine print about Dave potentially trying to rewrite her draconic DNA into a more "efficient" shape. Not yet.
+
+Excellent, she said, missing my tone entirely. Now, let us proceed. The project awaits.
+
+With my own systems stabilized, we could finally begin testing. I visualized the [Root Access Module] as a simple slider in my UI, a "Dave Dial" ranging from 0% to the hard-capped 90%. We started small.
+
+[Setting Competence Dial to 5%,] I announced.
+
+I nudged the slider. In his bed, Dave, who had been drooling slightly onto his pillow, stopped. His breathing became a deep, regular rhythm. A minor, but noticeable, system improvement.
+
+[Okay. Let’s push it. Dialing to 15%. This is the ‘Moderately Normal’ threshold.]
+
+The slider moved again. On the bed, Dave stirred and sat up. But instead of the usual panicked blinking and confused grunts, he just… sat. He looked around the room, his eyes focusing with a clarity I’d never seen before. His own thoughts echoed clearly through the soul corridor.
+
+My back is a little stiff. The sun is up. I should probably get dressed.
+
+Liz and I were frozen in a state of stunned silence. He proceeded to stand, stretch, and walk to his wardrobe. He selected a set of robes and put them on. Correctly. On the first try. It was a monumental, earth-shattering victory.
+
+This was also our first three-way conversation. The dynamic was a symphony of glorious awkwardness.
+
+Dave’s thoughts were a placid river of simple, direct observations. The floor is a bit cold on my feet. My stomach is rumbling. That means I am hungry. I should go to the dining hall for breakfast.
+
+Liz’s thoughts were a frantic, high-speed analysis. Fascinating. At 15% cognitive function, his base survival instincts are properly prioritized. His motor skills are no longer a catastrophic failure. The synaptic pathways for cause and effect appear to be firing within standard parameters. This is a remarkable improvement from the baseline of ‘sentient potato’.
+
+My voice was the calm moderator. [Acknowledged. Now, let's test basic problem-solving.]
+
+As he sat down with a bowl of porridge, we pushed the envelope.
+
+[Dialing to 30%. This is the ‘Proactively Useful’ threshold.]
+
+The change was subtle, but immediate. He tasted his porridge, and his brow furrowed slightly. This is a bit bland. He then stood, walked to the condiment station, and added a sprinkle of cinnamon and a spoonful of honey. He tasted it again. Much better.
+
+Liz was practically vibrating. He just performed a multi-step, feedback-based flavor optimization! Ana, are you seeing this? He identified a problem, hypothesized a solution, implemented it, and reviewed the result! That is the entire scientific method in a bowl of oatmeal!
+
+After breakfast, he returned to his room. Instead of collapsing on his bed, he looked at the messy pile of books on his desk. At 30%, his brain seemed to find the disorder unpleasant. He spent the next ten minutes neatly organizing the books by subject, then alphabetically by author.
+
+He was no longer just "normal." He was tidy. He was efficient. He was… functional.
+
+Later that day, Elder Corvus summoned Dave for a preliminary meeting. This was our chance for a live-fire test.
+
+[Deploying 30% Dave.]
+
+In the meeting, Elder Corvus laid out the dire diplomatic situation in grim detail. The accidental proposal had sent shockwaves through both nations. The Council of Immortals was silent, an ominous response. Dave listened patiently, his hands clasped calmly in front of him.
+
+When his grandfather finished, his voice heavy with weary anger, Dave spoke. His tone was quiet, but carried a weight of newfound responsibility.
+
+"Grandfather," he said. "I understand the gravity of the situation. My actions, though unintentional, were a severe breach of protocol and have endangered the fragile peace. I take full responsibility. I am already in the process of formulating a strategy to rectify this without causing further insult or misunderstanding."
+
+Elder Corvus, who had clearly been bracing for a torrent of excuses and apologies, was stunned into silence. He stared at his grandson, his expression shifting from anger to utter disbelief. "Rectify it?" he finally managed, a rough, incredulous edge to his voice. "I was expecting you to apologize to the rug again."
+
+He sighed, a sound that seemed to carry the weight of a century. "The Council of Elders and the Council of Immortals have conferred. My pleas to have you excluded from further talks have been... ignored. They see your blunder not as an accident, but as a political maneuver. You are to meet with Princess Liling again, in private, to 'clarify your intent'. David," he said, his voice dropping to a low, dangerous warning, "just don't make it worse."
+
+When Dave returned to the quiet of his room, the weight of the world on his shoulders, he closed the door and let out a long breath. He looked down at Liz, who was perched on his shoulder.
+
+So, his thought echoed through our three-way link, clear and logical. The voice in my head is real. And you're involved.
+
+There was no panic, just a simple statement of fact. This was the moment of truth. Liz puffed out her chest, seizing the narrative with the grandeur of a queen addressing a loyal subject.
+
+Indeed! she projected, a wave of immense self-importance flowing from her. This one, she gestured vaguely at the air with her snout, is a benevolent spirit! A powerful, ancient entity that has taken pity on your plight and found you worthy of its guidance! I, in my infinite wisdom as a sovereign of the Spirit Realm, have graciously agreed to act as its conduit!
+
+[That is a functionally accurate, if embellished, summary,] my voice added, lending a calm, authoritative weight to her fantastical story. [I have been monitoring you, and have offered my assistance through your familiar.]
+
+Dave, who had spent his life being kind to sad-looking birds and goblins in need of hats, accepted this incredible explanation with a simple, trusting nod. "Oh. Okay. Well... thank you."
+
+With our user now a willing participant, we decided a stress test was in order before the most important meeting of his life.
+
+[Dave, we believe we can temporarily increase the intensity of the connection,] I explained. [It may grant you greater clarity for the upcoming talk. Are you willing?]
+
+"Yes, please," he said, his voice filled with a desperate hope.
+
+In the safety of his room, I took the system equivalent of a deep breath and slid the "Dave Dial" to 50%.
+
+The change was instantaneous and terrifying. His posture became perfectly balanced. His eyes, once soft and confused, became sharp, analytical, and unnervingly cold.
+
+Liz, proud of their creation, addressed him first. Dave, we must formulate a strategy for the meeting with the—
+
+"Cease," 50% Dave interrupted, his voice perfectly modulated and devoid of any warmth. He turned his head slowly, his gaze seeming to pierce right through Liz's physical form to address me directly within her. "Benefactor, your input is noted. However, the primary inefficiency in this triad is the skink's emotionally driven logical fallacies. Allow me to address the root of the problem."
+
+He then turned his chillingly intelligent gaze back to Liz. "Your draconic self-identity is a transparent psychological coping mechanism for profound species-based inferiority. Your 'pride' is a systemic flaw, a bug in your emotional code that has now threatened continental stability."
+
+Your condescension is the pointless byproduct of a temporarily elevated state! Liz shot back, her pride wounded.
+
+"And your very existence is a semantic paradox," he replied without missing a beat. "You claim the lineage of a dragon while possessing the cognitive architecture of a moderately intelligent lizard. Your entire identity is a contradiction in terms, a recursive error of self-perception."
+
+He was always three steps ahead, his processing speed simply too fast. He formulated, delivered, and refuted arguments faster than Liz could even fully parse the meaning of his insults.
+
+Horrified, I realized the 60-second timer on the old potions wasn't a limitation; it was a safety feature. In a surge of panic, I slammed the dial back down to 0%. Dave's eyes rolled back, and he slumped to the floor in a dead faint.
+
+The silence in the room was deafening. Liz was shaken to her very core, her pride systematically and logically obliterated. My own systems were flashing with a new, critical realization. Fifty percent was a nuclear option. It was a sprint, not a marathon. And it was far too dangerous to use for more than a few moments at a time. Our problem was no longer how to make Dave smart; it was how to survive him when he was.

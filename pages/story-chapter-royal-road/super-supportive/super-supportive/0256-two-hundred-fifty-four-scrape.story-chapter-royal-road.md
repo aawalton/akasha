@@ -1,0 +1,277 @@
+---
+id: 654ace7f-e377-5c00-8ef4-4ac23a145205
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-FOUR: Scrape"
+slug: 0256-two-hundred-fifty-four-scrape
+partOf: super-supportive
+position: 256
+ownLength: 3213
+unit: words
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2736202/two-hundred-fifty-four-scrape"
+royalRoadId: "2736202"
+---
+
+254
+
+******
+
+The cry that woke Stu was full of fear, and when he rolled off his cushioning spell and rushed across the cottage to check on his guest, he could tell that Alden had been struggling in his sleep. His pillows were out of position, and his hair was clinging to the sweat on his face.
+
+The human boy let out another pained sound that made Stu gasp and say, “Alden, wake up!” before he could stop himself.
+
+Flinching at his mistake, he took a step back from the bed. Fortunately, the sound of his voice hadn’t been enough to interrupt the nightmare.
+
+There was an event in Alden’s dreams he wished was different. He wanted a cleaner death for the bokabv demon in one of the scenarios. Healer Yenu had told him it should be possible without her intervention, but that this might be the result.
+
+Some aspects of the nightmares were set more deeply. They would serve as guideposts for Alden, and he should still find his way to safety with Kivb-ee…if Stu left him alone instead of foolishly calling out to him.
+
+The human was just enduring more on the journey tonight because whatever he’d changed by his own desire wasn’t going as well without Yenu’s direct guidance. Wanting to help, knowing he couldn’t do much, Stu arranged all the cushions in the cottage along the side of the bed Alden was sleeping on. That way if he fell off he would have a softer landing.
+
+Then he went outside.
+
+A few times, Alden had indicated that the thought of being overheard crying or screaming in his sleep bothered him. Stu suspected he would have felt the same if he was the dreamer. As the listener, it was obvious to him that embarrassment wasn’t merely a useless emotion in this situation but one that was the opposite of what Alden should feel.
+
+Stu was sorry that his pursuit of courage and compassion made him suffer tonight. The only emotion stronger than that sorrow was admiration.
+
+He walked to the stream so that he could look down at the zansees and up at the stars.
+
+Alden understood about the patient creatures.
+
+Stu had wanted to ask him which type of beauty he wanted for himself. If they followed the simple metaphor and spoke of there being two kinds…but it was an unfair question. Especially right now.
+
+Alden wanted to live a worthwhile life. And he had already done more than he should have had to do. He liked that his skill could be used to protect others, and he feared that he could be ordered to protect others by careless wizards, and he resented things about his abilities that he had not understood before he accepted them.
+
+Because he was human.
+
+The Triplanets had been generous enough to give him a way to do magic, not generous enough to give him the many options and access to the vast expertise Stu had received. His family didn’t want him to be a knight, but some privileges were impossible to withhold from a declared. And for a while, they had seen the process of him selecting what type of skill he wanted as another long period during which he might come to his senses.
+
+Right now, if he had a question about The Maker of Narrow Ways, he could call on a magical theorist or the Contract itself for advice. The requests he could make for information and modifications weren’t limitless, but they were only limited by the nature of the skill and his peoples’ understanding of magic.
+
+And by the pushback he’d get from everyone if he wanted something utterly impractical.
+
+Most humans picked talent names from a list, with only the advice and experience of other Avowed guiding them. And it seemed like the Earth Contract sought to manage what they chose by providing less information on some talents than others.
+
+Perhaps it was leveraging some aspect of human psychology. Granting a large number of options might improve their impression of it, but by making many of those options unknowns, it could still ensure that most Avowed would select from a smaller set of well-understood and more thoroughly defined abilities.
+
+Or maybe wizards had created this problem by designing more abilities for humans than their Contract thought was helpful. It was easier to translate magic into talents for them than for most species. Spell impressions should be particularly simple. And then there were the special situations to consider. Groups that had a need for Avowed with specific abilities. Powerful individuals who spent a decade creating an eccentric skill and then used their political influence to make sure it was listed even though nobody else thought it should be.
+
+The reasons don’t really matter.
+
+It still meant some people would choose their bindings almost blindly, no doubt hoping for a great result from the random outcome.
+
+The thought made Stu feel like he’d swallowed an oontsy and it was trying to find its way back out of his stomach.
+
+And even when humans did know what they were choosing, what they were choosing from was so imperfect.
+
+If Alden had a year and the knowledge he needed to choose the best skill on the Earth Ryeh-b’t list, it would still be so much less than he should have. It’s not fair.
+
+There were reasons not to give all Avowed the kind of powers and resources knights had. Stu knew those reasons. But tonight, thinking of Alden, they seemed so weak.
+
+And so shitty.
+
+******
+
+Am I awake, or is this a twist in the nightmare?
+
+Alden had just made it to Chayklo with Kibby, then his eyes had snapped open in his bed in the dark cottage to the sight and sound of a bipedal shadow monster scurrying around the room. He lay there in his hot tangle of covers, breath held as he tried to figure out what was going on.
+
+“Are you some kind of demon?” he asked. “Or are you Stuart running around in the middle of the night with a bunch of cushions?”
+
+The shadow monster froze in the act of bending down to collect more cushions from right beside the bed, and Alden reached to turn on the lamp above him.
+
+“You’re Stuart,” he said, blinking at the Artonan crouching there with two cushions held against his chest. “What are you doing?”
+
+Stuart glanced left, then right, before finally meeting Alden’s eyes. “I was trying to move these back to where they belong before you woke up.”
+
+“Why?”
+
+“So that you wouldn’t know I had put them under the bed.”
+
+“Were you sleeping down there? Was your senva seed spell not comfortable?”
+
+“No,” Stuart said. “I wasn’t sleeping on them.”
+
+Maybe I’m not awake enough to understand.
+
+“You were having a nightmare,” Stuart said finally. “I was worried that you’d fall out of bed and the impact would wake you before the dream cycle finished, diminishing its value and making your trial for the night fruitless.”
+
+Dammit. Alden felt himself flush. “I woke you up. Sorry.”
+
+“I didn’t mind.”
+
+“Was I screaming or something?” That was so embarrassing. “Maybe you should start sleeping in your room when I’m visiting.”
+
+“I left the cottage as soon as I’d placed the cushions. When I returned from my walk a moment ago, you were quiet. I thought if I moved the cushions back, you wouldn’t feel awkward.”
+
+“I feel so awkward.”
+
+“That’s because you just woke up and caught me doing something unusual,” said Stuart. “Go back to sleep. When you wake again and everything is as normal, you’ll see that nothing embarrassing has happened. Olorn Mom says sun chases away the fog of night.”
+
+He dropped the cushions back onto the floor beside the bed before he stood.
+
+Alden’s groggy brain pieced together the story while Stuart got settled on his senva mattress across the cottage. “Thanks.”
+
+“You would help me in the same way, wouldn’t you? Sleep well.”
+
+It took him some time to drift off again. Eventually the quiet sound of the door sliding caught his attention, and he saw Stuart’s shadow standing there for a moment, then leaving the cottage.
+
+He wasn’t sure if the Artonan had really gone, or if it was the beginning of a normal dream.
+
+******
+
+Alden was dressed in his school uniform before sunrise, which wasn’t that impressive considering the time difference between here and Anesidora right now. There, it was around noon on the first day of finals week.
+
+Stuart was still out of it, wrapped up like a burrito on the floor by the table, where one of yesterday’s husenot towers stood.
+
+This was the last day of Welcome End. Alden wasn’t going to be here for most of it. The big event, for Stuart, was a phone call from his Father. After addressing the people who were about to become knights, the Primary was going to talk to his family.
+
+On Thegund, Alis-art’h was right next door, as far as outer space went, making time-delayed messages a simple option unless someone needed their conversation with her to be instantaneous. But Jeneth-art’h was so far away that talking to him directly using magic was the best means of communication. Stuart was looking forward to it.
+
+It’s still awkward that I had such a rough nightmare I woke you up, Alden thought, looking down at him. Flailing around and yelling about bokabvs in front of someone else isn’t ever going to make me feel like I’m cool.
+
+Stuart hadn’t been entirely wrong, though. Alden’s embarrassment was much milder than he would have imagined it being if someone had told him yesterday that it was going to happen.
+
+When we first started talking, I would have bet you’d be terrible at making someone feel better after something like this. Stuart sharing Artonan opinions about planetary takeovers and whether or not Anesidora was trying to breed stronger Avowed during that first phone call was hard to forget. I was wrong about you there.
+
+He decided to go take a look in the kitchen at the main house, to see if getting their breakfast would be easy enough for him to manage on his own. It should be doable, and it would keep Stuart from running into family members who’d give him a hard time.
+
+A couple of minutes later, he was approaching the back of the house.
+
+I’ll grab the human-safe food basket, he thought. That’s obviously set aside for me, so nobody’s going to be mad it’s missing. And Stuart can eat it, too.
+
+He entered through the narrow room adjacent to the kitchen that had the glass wall and all the plants, where he and Stuart had run into the assistants prepping food one morning. The assistants weren’t there right now, but Emban was sitting at a table with the identical twins who were Alis-art’h’s daughters.
+
+This is good. They’re not the most difficult members of the family to talk to at all.
+
+Their conversation paused as they glanced his way.
+
+“Hello,” he said. “I’m glad to see you, Emban. I came to get something for our first meal.”
+
+“There are crosswater noodles on the stove,” one of the twins said. “You can take one to Stu. He likes them.”
+
+Alden had no clue what crosswater noodles were, but after a brief look around the kitchen, he only found a couple of pots on the stove. One was full of grain tea, and the other held translucent tubes. They were more like foot-long sections of garden hose than spaghetti, but that would explain why the twin had suggested he take Stuart one noodle instead of some noodles.
+
+They smelled sort of sweet. The gremlin disapproved.
+
+I guess if Stuart likes them…
+
+Searching the kitchen for a container to hold one of the tubes made him wonder if he might be chastised for prying into the secrets of the art’h family cabinets, so he found himself rummaging very quietly. Which made the voices of the three young women next door easier to understand.
+
+“…terrifying for a waterslide, but Ryada was right. They bonded over it.”
+
+“Suma from the second Rapport has grown up well, hasn’t she? I met her recently and was surprised.”
+
+“Yes. She was such a little <<scaredy-scaredy>> when she was a child that I never guessed she would choose this. But…”
+
+“It’s been a good weekend. I’m glad we could be here for it this year. Did you hear that someone is changing to Doubtful Footing? I’m curious to see that skill in use. And the ithen triplets are so delightful together. I’m glad they’ll have one another, after all.”
+
+“What about…?”
+
+They’re talking about Welcome End. And all the Rapport declared who will soon be knights.
+
+Alden grasped one of the sections of edible garden hose with a set of tongs and dropped it into the large to-go bowl he’d finally found.
+
+This was a simple conversation. Expected. Pleasant, even.
+
+Wasn’t it great to hear a bunch of people going to their first affixations had bonded, chosen well, and had a good weekend together? Wasn’t it great that they’d all have each other’s support and brotherhood in the future?
+
+Of course it is.
+
+He poured grain tea into mugs.
+
+He found himself moving slower, to listen more. But as he listened more, he began to feel like the good news they were sharing was cutting into him. Really slowly and subtly. Like an invisible spoon scraping away at something he shouldn’t allow to be damaged.
+
+Lids clicked onto the mugs and bowls. His steps seemed to echo as he made his way over to get the human basket.
+
+He stood in the cold pantry, staring at it on its shelf.
+
+Stuart will never have this weekend back and all these things he wanted.
+
+That’s what the spoon’s scraping away at.
+
+Stuart had explained why he didn’t want to try to insert himself at the group events this weekend. Alden had known what he meant. But he really felt it right now, listening to three young knights talk about good things.
+
+Okay. That’s how it is. How it’s been for ages. Can’t change it, so I just need to get back to the cottage with breakfast and keep his mind off it.
+
+He grabbed the basket, dropped the bowl and the mugs into it, and strode out of the pantry. Through the kitchen. Through the adjacent room with the tables. To the door—
+
+“You sent Ryada a message,” said Emban.
+
+Stopping, he faced her and the twins.
+
+“I did. I sent you and Bithe messages, too.”
+
+“I know.” Emban’s smile was strained. “But you must have sent her something more than your gratitude and an invitation to throw paper flyers. She won’t show me what it said, but she appreciated it very much. She’s mentioned it. More than once. Thank you for doing it. Has she replied to you yet?”
+
+“Not yet.”
+
+“She plans to,” said Emban. “Or maybe she decided to wait until you meet in person again.”
+
+“I’m glad. I wanted…” I wanted her to know me. Just a little. “I hope she’s well.”
+
+Emban nodded.
+
+If it’s her, if she’s not one hundred percent focused on her squad today, and if she appreciates that I reached out to Ryada, then…
+
+He hadn’t finished the thought and worked out if it was wrong to say something before that scraping feeling took advantage of the moment to make him speak. “It’s sad that Stu spent this whole Welcome End with a human he met this year instead of his family and the people he grew up with. For me, it was very fortunate because I got to spend time with him, and he’s wonderful. But for him…it’s really sad.”
+
+Six eyes looking at him. No smiles. No sound. The basket in his hand was heavy, the handle rough.
+
+He focused on Emban. She was wearing the braid she must have slept in; it hung long over her shoulder and looked more frayed than a fresh one.
+
+You get it, right? he thought. Say something. Say you’ll help somehow. It means a lot to him that you don’t completely doubt him. Do any little thing to fix—
+
+“Bithe shouldn’t have said what he said to you by the o’odee field,” said Emban. “He was wrong. But in general, not talking so much about things you don’t have complete knowledge of is good advice. We all understand what Stu wants better than a human ever could. And we know the shades of his sadness better than you ever will. You are very welcome here as his guest, and his soon-friend. He cherishes you. But this isn’t your world. There will always be things you can’t know about us. It’s something you’ll have to become accustomed to.”
+
+Oh.
+
+“Emban,” one of the twins murmured, “the human was just expressing worry for our cousin.”
+
+“I think she means…” said the other, “…that we appreciate…”
+
+God.
+
+Alden breathed. The air seemed to dive through his mouth into his lungs like a blade.
+
+So.
+
+“I apologize,” he said, “for interrupting your conversation. And for imagining that I could contribute to something this elevated with my weak human understanding. I thought saying, ‘Stu feels sad because he’s left out of everything,’ was basic enough for me, but I should have gone even simpler. Let me try again. My friend is upset. Everyone thinks they’re being reasonable, but to the human, it looks like a bunch of people have been pushing him just a little more day after day, so that they didn’t even notice when they stopped being reasonable and started being mean-mean.”
+
+He fled before any of them could answer. And before more words could spill out of him.
+
+Ouch.
+
+I shouldn’t have said anything to the girl whose hoped-for soulmate is in bad shape.
+
+Apparently.
+
+But fuck.
+
+He wanted to drop the basket and run. And run. On and on through the forest, until he miraculously found answers about himself under trees sacred to a culture that was not his own. Instead, he only walked swiftly down the hill in the dark, toward the safety of the cottage.
+
+Emban found that part of me the spoon was scraping against and dug into it really good. That was so nice of her. Without her help, I might have gone on thinking I just felt sorry for Stuart.
+
+Look at this gaping wound in my guts! It turns out the hurt is only half empathy for him.
+
+The rest of it is all about me.
+
+Welcome End wasn’t for Stuart.
+
+And it wasn’t for humans either.
+
+This isn’t your world. There will always be things you can’t know.
+
+Seconds later, he entered the cottage a little too quickly and woke his host up.
+
+“Hey! I brought you food.” He wanted to sound bright and unbothered. He thought he did. “There’s something called a crosswater noodle.”
+
+“I like those,” Stuart said sleepily, looking up at him from the floor.
+
+“You do? Great. I appreciate you looking out for me last night.”
+
+“You’re talking fast.”
+
+“I’ve been awake for a while,” said Alden. “That’s all. You want grain tea? I brought grain tea, too.”
+
+******

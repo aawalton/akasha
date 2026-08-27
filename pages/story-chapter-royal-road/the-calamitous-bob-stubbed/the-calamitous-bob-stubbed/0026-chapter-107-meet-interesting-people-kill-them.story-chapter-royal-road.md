@@ -1,0 +1,529 @@
+---
+id: 35f2b409-4395-5dc6-a301-8689898bf8a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107: Meet interesting people. Kill them"
+slug: 0026-chapter-107-meet-interesting-people-kill-them
+partOf: the-calamitous-bob-stubbed
+position: 26
+ownLength: 6293
+unit: words
+ownProgress: 6293
+publishedAt: 2023-02-24
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1121985/chapter-107-meet-interesting-people-kill-them"
+royalRoadId: "1121985"
+markedReadAt: "2026-06-29T21:15:35.772Z"
+---
+
+Viv raced down the slope at breakneck speed. She heard a stumble behind her and faltered when she realized it was Sidjin. He was not fine. Not yet. Leaving someone behind was…
+
+“Go, I’ll be fine. Catch up soon. GO!”
+
+She did. Panic placed springboards under her feet. She cast the telekinesis spell just so she could push people aside if needed. There was no need. People took one look at her and moved aside. Even the carriages slowed down to give her way. The guards at the gate did not block her path either, to her mild surprise. What had taken an hour in one direction took less than ten minutes in the other, so motivated she was by terror, because Arthur needed her. The little one was under attack. Even now, she struggled. Viv didn’t know why or how she knew that, and regretted that, contrary to the little one, she was unable to tell exactly in which direction her adopted daughter was. It would be fine. It would be just fine. She was almost there.
+
+The witch landed in front of the hotel where a crowd had gathered. A screamed injunction backed by a noise spell dispersed them, or perhaps it was the leaking black mana. Viv was a bit tired from the day’s exertions, but terror and anger could be impressive motivators.
+
+In front of the gate, she found a wounded guard being tended to by a clerk. The smell of smoke lingered in the air. There was blood on the stairs. If anyone, ANYONE touch a fucking scale off her nose… Nevermind, someone had touched. It was done. They were done for.
+
+“That way…” the guard pointed with a blood-encrusted hand, towards the port. Viv saw the very obvious mark of a claw on the old pavement. Urgency needled her, but she resisted its pull. She ran up the stairs to a savaged bedroom and picked her shield and dagger from a nearby wardrobe, ignoring the two hooded and masked corpses left there. Immediately, the fresh supply of mana stored in the core made her feel more secure. There were no doubts in her mind that she would need it.
+
+Viv jumped from the upper floor and landed in the lobby below, barely registering that this feat could not have been performed on earth. She took off by following the claw mark and the guard’s indication, finding a clump of whispering people three streets down. A summary look at the ground showed more claw marks. Arthur had resisted, clearly. She kept running in that direction. Another clump of pedestrians staring down an alley made her slow down. Contrary to the guards, they did not help her. Instead, they quickly dispersed. Viv realized she had partially coated and finished the process rather than trying to hold back. There would be subtlety later if brute force failed now. Every minute mattered.
+
+The claw marks were gone.
+
+Either they had managed to lift her, or… Oh god she would do horrible things to them. Viv walked at a brisk pace, looking for a clue, any clue, finding nothing. Most of the doors appeared to lead to shop backrooms and shared tenements. All of them were locked tight, which could be unusual for this part of the day, but she wouldn’t know. There were not specific marks to be found, or if there were, she didn’t have the ability to spot them. Viv reached the end of the alley, which split into a T-shaped intersection. The right one led back up while the left led to the shoreline. Arthur could also be behind, secured in some isolated basement.
+
+What do?
+
+Viv sighed and grabbed her dagger.
+
+“Look, I’m supposed to be lucky, so I’ll leave it to luck. You’d better not fucking fail me right now when it matters, okay? Just this once, just this fucking once, give me back my daughter instead of attracting every aggressive pimp in the city. Fuck. Okay, here goes.”
+
+Viv kneeled on the ground and twisted the dagger, letting it spin on the guard like a TV game wheel of fortune. It slowed down, the tip resolutely pointing towards the wall in front of her. It was a plain wall, old and decrepit. Covered in dust.
+
+“Gods dammit.”
+
+Viv leaned forward to pick her knife back up, which gave her the perfect angle to spot a tiny gash in a nearby wall to her left, the revealed white stone pristine against the grimy background. It was perfectly claw-shaped.
+
+“That works, I guess.”
+
+Viv resumed her active walk, keeping an eye out. The alleys were deserted at this time, perhaps because all the folks living around were working, or possibly because they were smart. Some side passages led back to main streets but Viv doubted the dragonnappers would return to a main thoroughfare. She found confirmation on a beam as she moved on. It was covered in blood. Not congealed yet. She paid more attention to the ground and found the occasional droplet. A little sweep with her boot confirmed it was still liquid. It had to be them.
+
+A few entrances might have been hideouts, but they were cluttered and none of the crates looked like they had fallen recently. First, keep going. Retrace if needed.
+
+The small alleyway led to an open space by the river, its murky waters leaking at moldy piers. Three ancient warehouses squatted on the cobblestones, made rickety by age and poor maintenance. One of them was occupied.
+
+She saw two guards in front of its gate. They wore dark hoods like the corpses in her room had. There were faint enchantments on the door they guarded, diffuse enough that only someone with her mastery of magic could identify them from afar. Her blood boiled.
+
+Viv walked resolutely towards them, heart beating against her ribs. She was furious. She was terrified. They were both taller than her and old earth memory told her she was foolish for attacking louts on their turf with no backup, that it was the height of stupidity. It was washed away by another instinct.
+
+Protect the child.
+
+This was not earth, this was Nyil. Here, she was the top of the food chain.
+
+“Where is she?” Viv asked with deceptive calm.
+
+The first man was muscular and covered in scars. He sneered when he saw her, an ugly smirk that spoke of contempt despite her aura of intimidation. He checked behind her for followers. Foolish. She didn’t need anyone. When he saw she was alone, his confidence returned.
+
+“You mages think you rule this city huh? You got —”
+
+The man’s upper body disappeared under a werfer cone. He had tried to dodge, but Viv had left him nowhere to go to. The other guard removed a knife from his belt so she removed his head from his shoulders. The door was locked. Viv only saw an obstacle. She wished Marruk were here. No door could resist her wrath.
+
+“Excalibur.”
+
+The concentrated blade bit into the lock, slicing down like a knife through hard cheese. The enchantments flickered and died. A sound like a whistle filled the plaza. They knew she was there.
+
+That was fine.
+
+Viv found the warehouse’s interior not just clean, but filled with neat rows of barrels and crates carefully annotated with codes.
+
+“Where is she?” she asked.
+
+A man to her right paused and his eyes flickered up. Her skill screamed. She infused her coating with the meaning of annihilation, surprised at how easily it came to her despite the earlier tests. At the same time, she cast a net upward. Something heaving bounced against her head, but it disintegrated almost instantly. Chunks of black-hooded assassin rained on top of her, the flesh hissing when it touched her. Her reserves dipped a bit, but that was fine, she refilled them from her dagger focus.
+
+Viv coldly inspected the rest of the warehouse for threats, finding none for now. She strode to the man she had first spotted, face covered by her coating. Ho took an instinctive step back. He was a local, clean-shaven and dressed in simple yet well-cut clothes, a sign of wealth in the lower city. Viv categorized him as ‘in charge’ or at least middle management.
+
+“Where is she?”
+
+The man sweated abundantly. Panic made his breath fast. Viv noticed a woman a bit farther, a northerner in a plain, conservative dress. Her fingers were stained with ink. Paper pusher of some sort.
+
+The man licked his lips and calculated his chances. Viv could almost see the cogs grinding behind his glistening forehead.
+
+“I have no idea what you’re talking abou—”
+
+Viv plunged Excalibur in his chest and twisted. He fell with a choking croak, spilling squishy bits on the ground. She left him writhing on the ground and walked to the screaming woman, which she grabbed by the shoulder. Viv almost lost her before her target stopped resisting, reminding her that a power of 21 was still on the low end.
+
+“Where is she?” she asked again.
+
+“The… the beast?” the woman asked in broken Enorian.
+
+Viv grabbed her by the throat and squeezed. Tendrils emerged from her shoulders to touch the woman’s cheeks, living dark gashes bleeding clotted blood.
+
+“Her name is Arthur. Where is she?”
+
+“There,” the other said, pointing towards the center of the warehouse.
+
+Viv placed the northerner in a hold, one hand clamped on the neck and the other twisting her arm back.
+
+“Show me.”
+
+She walked to a pile of crates, where Viv noticed the obvious outline of a trapdoor. The clutter covering most of it proved to be empty.
+
+“You can find a lever there, by the beam. Pull it and it will open. Have to remove the stuff on top first.”
+
+“You sit here and don’t move,” Viv said.
+
+While the woman obeyed, Viv took to removing the empty crates and hollow barrels by throwing them across the warehouse with telekinesis. She cleared the entrance in moments, her attention divided between that, her hostage, and the space where the door used to be. The noise of breaking crates would surely attract attention. They seem especially brittle.
+
+“Ok. You stand up and pull the lever,” Viv said.
+
+The woman obeyed quickly. She was considerably calmer than Viv expected but that was fine. Perhaps a skill.
+
+“You go first.”
+
+The northerner walked down a set of dark stairs in a secluded corridor that smelled heavily of humidity. There were mundane lanterns at regular intervals, their presence barely enough to dispel the gloom. The northerner picked one unprompted and led Viv down. The witch was concerned about her prisoner’s easy cooperation and made sure to walk where she had walked, just in case. Paranoia was not a problem when you had that many enemies.
+
+To her mild surprise, the corridor ended quickly in a hidden pier, bars showing the river beyond and letting some light in. She highly suspected they had a way of removing those to let smuggler crafts in. The canal led farther inland through a low-roofed, half-sunken corridor. A small canoe lay moored at the pier kept together by dried filth.
+
+“The beast. Over there,” the northern woman said, pointing to the darkness. Viv checked and there were no dry paths inland. It was the canoe or swimming.
+
+“Get in,” she said, pointing at the rickety skiff.
+
+The woman hesitated only for a second. Viv noticed that she was sweating as well. Arguably, it was warm and wet in here, even more so than outside. Viv gave her the lone paddle and climbed behind her.
+
+“I do not know… how use.”
+
+“Then learn fast. If anything goes wrong, you die first.”
+
+The woman nodded and breathed deeply, then she did her best to row. They moved on until the light faded and the visibility diminished. Viv put her shield in front of her just in case. She had a spell ready as well.
+
+“I cannot see,” the woman said. Viv cast a blue light and placed it in front of them, far enough to blind possible attackers without revealing much of the canoe itself. She kept her guard up including towards the woman, who Viv realized she had not checked for weapons. Fucking sloppy. She had to calm down and think now that she had found a good trail. A premature death would not help her daughter.
+
+Despite Viv’s paranoia, no strange sound came to break the silence besides the soft splash of the rowing oar. No mysterious arrows or thrown knives reached her armor. It was just a damp, smelly canal.
+
+At least those were not sewers, apparently, but an independent waterway. Lucky her.
+
+The tunnel arched left and stopped after a couple hundred meters at a stone platform lit by another lantern. A much larger and cleaner canoe waited by its side, devoid of occupant but not of their blood, from the spots she could see marring its sordid flanks. A door dug into raw stone led deeper underground. There were no crates here, nothing human or recent. Their canoe bumped against the rocky surface with the finality of a death knell.
+
+“You go first. Find her.”
+
+To Viv’s alarmed mind, the woman stopped at the threshold.
+
+“I want to live,” she said.
+
+Viv considered her next move. If she said no, the woman would act desperate. If she said yes too easily, the woman would assume she was lying and act desperate as well. She considered the question and decided she didn’t need to kill absolutely everyone. It wasn’t like half of the lower city had seen her in hot pursuit, so the hope of leaving no witnesses was already gone. Everyone would know it was her since there was only one dragonette handler in all of Helock.
+
+“We find her safe, you live. We find her dead, you die. We do not find her, you die. You run, you die. You scream, you die.”
+
+The woman slowly nodded, which Viv took as a yes. She slowly moved on, a light appearing above her finger. Viv followed.
+
+She wondered who the fuck had tried to dragonnap Arthur and why. To sell her? It was stupid, though admittedly a great many criminals believed they would get away with stuff probably because they had already done so before. Not this time, though. Even if Viv had failed, chances are the Academy would have intervened and done so decisively. They would not have risked Judgment intervening in their stead. Viv suspected his measures tended to be on the indiscriminate end of the scale, and probably at the melting point of tungsten as well.
+
+It did not matter. She would not let Arthur stay one second more in that gods-forsaken hole than she had to, even if she had to work through the city criminal’s underworld, one chest at a time.
+
+Viv was tiring by then. The colder temperature froze her through the sheen of sweat she had collected during her mad dash, even through the coating. Before the adrenaline rush could completely crash, the pair arrived in a well-lit storage area filled with obvious contraband.
+
+Viv thought that if contraband was booze and fireworks, things were going fine. If contraband was a lot of drugs, things were going poorly.
+
+If contraband was enough weapons to arm a company, things were going to hell in a handbasket.
+
+Swords, hammers, spears, maces, all sorts of weapons lined the walls, or gathered in clumps inside of barrels. The local shelves were packed full with quivers and stacks of reinforced wooden shields. Only a third of the room was reserved for vials and other stuff Viv assumed were intoxicants. The tools of death all shared the same simple yet sturdy quality. It looked cheap but it would get the job done, especially if the receiving side stuck to clubs like she’d seen. Viv felt a chill. At the very least, there were tens of gold talents waiting here to be shipped from the raw iron only. This was a veritable fortune. It was also a strategic asset in what was shaping to be a civil conflict of epic proportions. Maybe even a rebellion, though she didn’t really believe anyone could oppose the Academy. How had Arthur got caught in that, she had no idea.
+
+“I think… over there,” her guide said. “Precious cargo.”
+
+She was pointing at one of three thick doors.
+
+“What’s on the side?” Viv asked.
+
+“This soldiers and office. This the street and tavern.”
+
+The witch got closer and saw that the knob had a very clear bloody handprint. Still fresh. She was on the right path. The woman opened it onto a refectory centered around a large table still covered in victuals. It had to sit twenty people at the same time, at least. The smell of burnt bread emanated from a small adjoining kitchen. Whoever was eating here had left in a hurry.
+
+While her guide walked slowly, Viv made sure to check the angle and keep her physical shield in front of her. The silence was eerie and abnormal. Something was wrong.
+
+A shadow jumped on the northerner from under the table, scaring Viv though she managed to hold back a curse. It was a clean-shaved man wearing the same dark hood she’d seen on the warehouse guards. He was light-skinned with familiar squarish features. Viv understood why when he addressed Viv’s guide in Baranese. It had been a long time since she’d last used this language.
+
+“It’s you who led them here, you Karkfucker. Say it’s you.”
+
+The woman yipped when grabbed but otherwise she stood still, even when her unexpected assailant was joined by two others, one from the kitchen and one from behind a hanging banner. Viv hadn’t perceived them, even though they’d used black mana skills to hide. That was… problematic.
+
+Slowly, the three noticed her presence and turned.
+
+They took out blades.
+
+The northerner closed her eyes and flinched.
+
+Viv made a split decision. She only needed one person to guide her.
+
+A net took out both thugs, but the Baranese somehow slid away using black mana. This time, however, Viv was expecting it. Her follow up caught him in the lower back. He twisted on himself and Viv saw a flash of steel, but once again her reflexes came through and the dagger clanged uselessly against the hive spell. A last net finished him off. He died with a gurgle.
+
+The woman opened her eyes to find herself alive and mostly whole, surrounded by chunks of ex-colleagues. She looked around her with a lost expression and worried at a thin slit in her shirt. Viv had stopped just in time.
+
+“Who is them?” Viv asked in Baranese this time. She should have done so before as the northerner was obviously quite fluent.
+
+“I don’t know, I swear. Something is going on and I don’t know what. I told you the truth. I think your companion is this way,” she added, pointing at a far door.
+
+“What’s there?”
+
+“Black Del’s office. He keeps the good stuff there in case one of us gets any ideas. That door is the larder, and this one’s a guest bedroom.”
+
+“Black Del?”
+
+“Underboss of the wayfarers… You have no idea what you’ve just done, do you?”
+
+“Do you have any idea what you’ve done?” Viv countered.
+
+The sassier woman glanced at Viv and the piles of innards she’d left behind, and reconsidered.
+
+“I guess not.”
+
+“How many people here. How many fourth steps, how many casters.”
+
+“Only Del is a fourth step. He’s no caster though, but he can hide like nobody’s business.”
+
+“If he’s smart, he will. Hold on.”
+
+Viv walked around the room and collected the heads of the three ruffians, feeling very Solfis-ey in the process.
+
+“Lead on,” she finally ordered.
+
+The slightly nauseous northerner guided her into a perpendicular corridor lit with magical lights this time. It was much fancier than the rest of this dump and there was even a carpet on the ground. The corridor led to another guest bedroom and Del’s quarters proper. The problem was that it was filled with corpses. Most of them featured the dark cawl she associated with the local gang, but there were also women including a few that were scantily clad, and a couple of grim soldiers in gambeson. Those were definitely outsiders, and they’d been killed by poison, not bleeding.
+
+“Well, shit,” Viv whispered.
+
+“Lakya? What have they done to you…” the woman said next to the corpse of a portly woman wearing an apron.
+
+Viv felt like killing the cook was a dick move but as someone who had committed her fair share of dick moves, she felt unqualified to judge. Obviously someone had made an attempt on dear Del. She wondered who it was and if they were here for Arthur, in which case they would simply get added to her shit-list.
+
+“Move on,” Viv ordered.
+
+“It’s that door,” the other replied.
+
+“Well, open it.”
+
+She tried. It was locked.
+
+“Let me do it,” Viv replied.
+
+The witch called Excalibur for what she hoped was the last time and slashed the lock open. The heavy gate turned on its hinges with a ghastly creak. Viv strode in with draconic intimidation in full display, an overloaded coating adorned with spikes, her shield in one hand and the heads in the other.
+
+Viv had seen some gaudy horrors in her forsaken life, but that horrid, gold-crusted crimson bordello boudoir topped the fucking list. The corpses somehow improved the decoration. Those were a secondary concern to the living, however. A dozen gambeson-clad men stood at a respectful distance, hands clutched on their weapons. Arthur sat on a carpet, free and whole. She was taking revenge from her mistreatment on a stack of honey-glazed ribs from some fat creature. What attracted her attention the most currently sat on the pompous throne, playing with the decapitated head of her would-be host.
+
+//A RESPECTABLE ENTRANCE, YOUR GRACE.
+
+//THOUGH IN THE FUTURE, I WOULD RECOMMEND USING FIVE HEADS, AT LEAST.
+
+“I ran out of victims.”
+
+//MY CONDOLENCES.
+
+//I KNOW THE FEELING.
+
+“Okay. Ecstatic to see you again, really, but please give me a minute.”
+
+//OF COURSE.
+
+Viv walked to Arthur and kneeled by her side. The dragonette was fine. She looked fine. No bruised scale or anything she could see.
+
+“Arthur?”
+
+They gave me sleepy meat but I wanted to wait until you returned to nap so I did not sleep but the they came and they had those nets and I fought them but I wanted to nap so I still got one but I did not want to set your room on fire so I kept fighting without burning too much and then they walked and I was very very very mad but it was dark and I was sleepy again and then we were on water but then we were on land again and I was no longer sleepy and I almost fell but Solfis caught me and he cut all of them apart and now I am so hungry because the previous food was bad so I want to eat.
+
+“Okay. I’m just glad you’re okay. I was… very worried.”
+
+You found me faster than I think! Happy.
+
+“Just had to follow the blood, little huntress.”
+
+Not tasty! Solfis had meat. Tasty. I sleep now.
+
+And just like that, Arthur coiled on herself and snoozed without a care, her claws still grasping a half-eaten rib.
+
+Viv checked on her link but the dragonette was fine, merely busy purging toxins off her bloodstream or something. Little puffs of superheated air escaped her nostrils with every breath, which was absolutely normal.
+
+“Right, right. She’s fine. Okay,” Viv said.
+
+She crashed emotionally. Thankfully, her willpower let her keep her composure in front of men she could definitely not trust, even if Solfis led them. Or so it seemed. They all had beards, pale skin, and the hard traits and scars of those used to a difficult life. Their gambesons showed traces of repairs and old stains, but their weapons shone softly in the light of far too many candles.
+
+The room smelled a bit, which was a shame.
+
+“So. I’d love some explanations, my dear Solfis.”
+
+//QUERY: CHRONOLOGICAL OR PRIORITY ORDER PREFERRED?
+
+“Chronological, unless we are in a rush.”
+
+//PARAMETERS ACCEPTED.
+
+//AFTER YOU WERE TAKEN, MARRUK SUCCESSFULLY HID ON THE CLIFF.
+
+//WE TRIED TO GIVE PURSUIT.
+
+//HOWEVER MARRUK WAS STILL UNDER THE EFFECT OF POISON.
+
+//SUPPLIES WERE RUNNING LOW.
+
+//WE REACHED THE NEAREST LARGE TOWN.
+
+//MARRUK USED THE LOCAL BANK BRANCH TO WITHDRAW FUNDS AND RESUPPLY.
+
+//HOWEVER, HER IDENTITY AND WEALTH ATTRACTED HOSTILE ATTENTION.
+
+//WE MANAGED TO PAY A CASTER TO RECHARGE ME TO BASIC FUNCTIONALITY
+
+//THEN WE ESCAPED.
+
+“So even without me, she still gets into trouble?”
+
+//A LONE RICH UNAFFILIATED TRAVELER WILL ALWAYS ATTRACT HOSTILITY.
+
+//AFTER THAT, WE LEARNED OF THE BATTLES
+
+//WE DECIDED TO GO TO LOSSEREC AND WAIT THERE.
+
+//UNFORTUNATELY, MARRUK MET A BAND OF KARK MERCENARIES BETRAYED BY THEIR CONTRACTOR, A LOCAL BARON.
+
+//SHE JOINED THEM ON ACCOUNT OF THEM BEING OF THE SAME TRIBE.
+
+“Wow. It’s like I’m contagious.”
+
+//QUITE.
+
+//MARRUK MANAGED TO HAVE ME SHIPPED TO HELOCK WHERE WE KNEW YOU WOULD END UP WITHOUT FAIL.
+
+//I REQUESTED THE BANK TO LEAVE A LAX SECURITY.
+
+//INEVITABLY, THIS LED TO MY THEFT.
+
+The golem seemed extremely smug with his plan. The rough men shuffled uncomfortably, eyeing both the construct and Viv with circumspection.
+
+//I DECIDED TO PREPARE THE TERRAIN FOR YOUR INEVITABLE RETURN.
+
+//UNFORTUNATELY, YOUR ARRIVAL MEANS MY PREDICTION ALGORITHMS WILL ONCE MORE BE RENDERED USELESS.
+
+//NEVERTHELESS, I HAVE ALREADY PENETRATED THE HELOCK UNDERWORLD TO A CERTAIN DEGREE.
+
+“Ok, we can discuss the details later. What I want to know is why do you think we need it, because I’m trying to be a citizen in good standing here, and taking over the underworld through wholesale slaughter isn’t going to help with my school life.”
+
+//AN OBSERVATION, YOUR GRACE.
+
+//YOU ARE NOT DOING ANYTHING, I AM.
+
+//ANSWER: BECAUSE HELOCK IS ON THE VERGE OF EXPLODING, AND YOU WILL LIKELY BECOME INVOLVED.
+
+//THE UNDERWORLD IS A VALUABLE TOOL.
+
+“Are you referring to the tensions I’ve seen?”
+
+//YES.
+
+Solfis went on a relatively detailed speech. Essentially, Helock’s population was reaching an all-time high, due to good harvests and years of peace since the last Hallurian invasion. The ‘native’ northmen resented the arrival of more and more southerners and even a new, significant Hallurian diaspora. The tension between the ethnic majority and the different minorities were on the verge of boiling over. Solfis calculated that it would either occur on the next significant food price increase or during a culturally meaningful celebration.
+
+//ALTHOUGH THE HOSTILITIES WILL BE CONCENTRATED IN THE LOWER TOWN, THE MIDDLE TOWN DENIZENS HAVE BROUGHT SUPPORT TO THEIR COMPATRIOTS THROUGH VARIOUS MEANS.
+
+//THE GOVERNMENT AND ACADEMY ARE PREDICTED TO CONTAIN RATHER THAN PREVENT THE VIOLENCES.
+
+//A POWER SHUFFLE MAY OCCUR.
+
+//WE WILL HAVE TO BE READY TO PROTECT OURSELVES.
+
+//HARRAK ETERNAL!
+
+Solfis’ thug fanclub looked a bit queasy, and Viv realized they’d been speaking Harrakan which some people tended to find a little ominous. Regardless, she was getting tired and the place was growing ranker by the minute. There were also the severed heads, which didn’t help.
+
+“Ok, penultimate question. Why kidnap Arthur?”
+
+//MY HELPFUL SERVANTS WERE OFFERED A REWARD FOR HER CAPTURE.
+
+//THEY BROUGHT THIS FACT TO MY ATTENTION.
+
+//THE UNNAMED BACKER OFFERED TO PROVIDE TOOLS, INCLUDING A SEDATIVE.
+
+//WHEN I LEARNED THE WAYFARERS HAD MADE THEIR MOVE, I HAD TO INTERVENE.
+
+//THE OFFERED REWARD WAS TWO HUNDRED AND FIFTY GOLD TALENTS.
+
+Viv whistled. That was pretty good for a small operation, if the agent were competent and didn’t care about being vaporized afterward. It made sense that everyone would be scrambling for money right now, but to attack a dragon was still the height of foolishness. Unless the wayfarers didn’t know. She tended to forget that most big city folks wouldn’t see a monster in their whole life and the average knowledge of monster anatomy was close to zero. Whatever. It was done.
+
+“Ok, I need to get out of here. Do we leave together?”
+
+//NO.
+
+//WE WILL KEEP OUR COOPERATION SECRET.
+
+//DO NOT WORRY ABOUT MY MINIONS, THEY DO NOT UNDERSTAND HARRAKAN.
+
+//I WILL MAKE CONTACT SOON.
+
+//I WILL ALSO REQUIRE YOUR ASSISTANCE TO RECHARGE MY BATTERY TO OPTIMAL LEVELS.
+
+“Sure, I’ll set up a charging station. The ambient mana will help.”
+
+//I WILL BE KEEPING YOUR PRISONER, UNLESS YOU OBJECT.
+
+Viv had almost forgotten the northerner. She turned to see that the woman had stayed despite her expectation. Or rather, she had assessed her chances to run and found them wanting.
+
+//LIM THE FELL-HANDED.
+
+//I AM SURPRISED SHE DID NOT TRY TO STAB YOU.
+
+//SHE HAS QUITE A REPUTATION.
+
+The golem exchanged a few words with the woman, who appeared more at ease for some reason. Oh yes, Viv had promised to let her live. That was fine. It appeared the golem had projects for her.
+
+//SHE SAYS YOU DID NOT LEAVE AN OPENING SHE WAS CONFIDENT TO TAKE.
+
+“I should have searched her. I was naive.”
+
+//IT WOULD NOT HELP MUCH WITHOUT A SKILL.
+
+//DO YOU NEED HELP RETURNING TO THE SURFACE?
+
+“No I’ll just take the way back.”
+
+Viv picked the still sleeping Arthur and heaved her on her shoulder. Arthur was lighter than she seemed, and also considerably warmer. She retraced her steps and took the small skiff once again, grumbling about her lack of judgment. She should have used the closest exit. Her regrets were dashed when she found a man holding a light orb walking with grim determination across the submerged tunnel, the water reaching his mid-chest.
+
+“Going somewhere, handsome?” she asked.
+
+“I only wish I could heave myself on without capsizing this insult to every ship ever made.”
+
+“Come on, we’ll make it work.”
+
+With only a few scares, Viv managed to drag her boyfriend in. He immediately set to inspect Arthur, who was now snoring and moving her legs in the air.
+
+“She appears fine.”
+
+“Just sedated, It will fade soon.”
+
+“So… I was too late. I did this for nothing.”
+
+“Not nothing, my dear. I am very much impressed by your dedication.”
+
+“I am comforted.”
+
+“You can also help me carry the child.”
+
+“You honor me with your trust. Oh, by the way, some guards are waiting outside. I can talk to them if you wish.”
+
+“That would be best.”
+
+Viv basked in the twilight sun as soon as they were out. Some guards did indeed try to belay the pair, but they were more interested in keeping the peace and nobody did permanent peace quite like Viv, at least here, and at least for now. The sight of chopped humans went a long way towards convincing them to drop their line of inquiry. Viv collapsed in her bed later. The trio reconvened at a nearby restaurant the same night.
+
+“So who served her the poisoned meat?” Viv asked since Sidjin had been keeping in touch with the guild.”
+
+“Recently hired cook. He was eliminated by the wayfarers. The guild will reimburse our expenses.”
+
+“So fucking great, but I think we illustrated a point. We need a more secure place to stay.”
+
+“You need a permanent place to stay in Helock.”
+
+The specific wording stopped her, spoon halfway from her bowl of congee.
+
+“Not we?”
+
+Sidjin leaned forward over the table and refilled his glass with citrus water. He considered his next words carefully.
+
+“I do not believe we should move in together for a number of reasons. That does not mean you cannot stay where I will stay whenever you wish, however you wish. I simply mean that you should have your own independent quarters near the Academy. Let me explain. The Academy offers special arrangements for its foreign students or those who simply wish to use them at very competitive costs. Their actual purpose is to let students form bonds beyond that of their original allegiance which obviously empowers the academy while weakening great families to an extent. By staying at a dormitory, you will get the time and opportunity to meet allies and gather resources. You will also be more protected than most bank vaults.”
+
+“Would they allow Arthur?”
+
+“Undoubtedly. You are not the only student with an exotic pet, no insult intended. Besides safety and opportunities, there is a third reason for you to pick accomodation beyond the walls. Essentially, we have been together for only a couple of weeks and it is too soon.”
+
+Sidjin looked pointedly at her, perhaps expecting her to lash out, but she didn’t.
+
+“You know, I’m annoyed, but mostly at myself because you are right. It’s a little irresponsible. We don’t know each other that well and I think you’re justified to try and take your time.”
+
+“Oh. Well, I feared you might be offended. And I insist that you come whenever you wish as soon as I have secured decent accommodation. I, well, to be honest, this is also about me. I need to know that you stay by my side because you want to. I want you to be completely free of me. It’s the only way I can be sure you are staying by choice.”
+
+Viv smiled and grabbed Sidjin’s hand. Unfortunately, there must have been too much sharpness hidden behind her canines.
+
+“I know you want to tease me so go ahead,” Sidjin allowed with his own smirk.
+
+“Oh darling, you know I want you for your arcane knowledge, not to save on rent.”
+
+“You got me. And that’s fine. I am confident that by the time you finish learning about teleportation magic, I will have replaced the bait by mind-boggingly good sex.”
+
+“Oooooh.”
+
+The banter continued throughout the meal. Viv realized Sidjin was right and she was taking their new relationship too casually. Their companionship had grown so easily and organically that she sometimes forgot they were two very different people from two very different backgrounds, each with their own agenda. Both of them needed some breathing space.
+
+“I’ll accompany you to the Academy tomorrow. We can get you accomodation by noon, I bet,” Sidjin said.
+
+“There is no hurry, I think Arthur will want to stick with me for a while anyway.”
+
+“Yes, but would you not like to know the result of the admission test?”
+
+“Oh. That.”
+
+“Have I ever mentioned I deeply admired your absolute self-confidence?”
+
+“No and do feel free to compliment me on occasion.”
+
+Viv dragged Arthur and Sidjin back to a new room free of burn marks and recently deceased thugs, placed lethal runes on the window, blocked the door with a wardrobe, and then went to sleep. Arthur made herself a bedsheet lair while Viv snuggled with her boyfriend. They woke up the next day fresh and ready to face adversity. A buggy ride to the academy later, Viv had her test results.
+
+“Sorry about leaving. Arthur was kidnapped!” she told Darla the admin with outrage.
+
+Seriously, it had been less than two days. One star review for Helock so far.
+
+“We are aware of this issue and we are looking into it,” Darla replied with a frown. “We take attacks on students extremely seriously. Rest assured that we will get to the bottom of this. In the meanwhile, congratulations on your acceptance. There is the matter of the tuition, which we expect payment for before you start. Oh, and I believe Professor Seranileso would like a word with you whenever convenient. He is the head of the medical faculty. I am so excited to welcome you here! You will have a great time in Helock, I am sure.”
+
+Viv paid a little under ten gold talents for the year which was a complete steal considering the cost she expected. She swore the oath not to murder her fellow students in five minutes and set up an appointment with Professor Ashra the next day. The small woman who had examined her turned out to be the teacher in charge of black mana, which she should have expected.The only urgent matter left was to find a room.
+
+“You are in luck. Most students have already picked their roommates, but we had an unexpected late return from one of our senior students. I’m sure you two will hit it off.”
+
+“Hmmm a roommate?”
+
+“Oh do not be alarmed, the rooms are spacious and, oh, I should have started with that. Dormitories are gendered, of course. You will not have to share your common space with a man, if that was what concerned you.”
+
+“I guess that’s fine. Should we meet first?”
+
+“Of course! Let me show you the way. You can get acquainted while we prepare the paperwork!”
+
+Viv let the admin’s enthusiasm slide off her like water off a cliff. Viv didn’t like to share space. Though, she didn’t have to stay there all the time. And besides, she had missed the whole campus experience. Maybe it would be fine.
+
+Darla led her to a side office where a younger woman waited, head buried among thick books. Viv took her appearance in and stumbled.
+
+“Var…. Var… No.”
+
+The same large brown eyes, the same pale skin, the same black locks falling like rivers to her shoulders. The same lithe arms, but no, it was not Varska. The face was smoother, rounder. The shoulders were a little wide. She was taller too, even when seated. They did share the same frown, however, which Viv got to appreciate when the young woman slammed her book close and inspected her.
+
+“Who are you, and how do you know my sister?”

@@ -1,0 +1,299 @@
+---
+id: 19725aa5-4d89-504f-910e-b900348d7704
+page-type-slug: story-chapter-royal-road
+title: "Chapter 100: Down"
+slug: 0019-chapter-100-down
+partOf: the-calamitous-bob-stubbed
+position: 19
+ownLength: 4304
+unit: words
+ownProgress: 4304
+publishedAt: 2023-01-06
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1080427/chapter-100-down"
+royalRoadId: "1080427"
+markedReadAt: "2026-06-29T21:15:20.833Z"
+---
+
+The late afternoon sun was setting on the peaceful plains around Losserec. Viv reclined in the somewhat uncomfortable carriage bench, studiously ignored by the other occupants. The family who had agreed to take her to the walls were discussing tomorrow’s tasks in low voice while the young boy in front of her focused on a toy, only raising his eyes to cast shy glances at Arthur. The dragonette coiled lazily around Viv. She had categorically refused to leave her for a single second.
+
+Viv just relaxed and watched the landscape. While Koltis down south had been packed within the crowded confines of its walls, Losserec had sprawled all over the land, trailing estates and small villages everywhere. More meaningfully, people were smiling. The war was about to end with their victory, and they knew it. Conflict had never reached the cozy shores of Lake Hydon. The harvest was bountiful this year if what she had heard at the wedding was any indication. She was catching, perhaps for the first time, a glimpse of what prosperity meant on this monster-ravaged world. It felt strangely peaceful.
+
+Even more peaceful, she was being ignored. Dressed in peasant garb and dragged on a family carriage, Viv was no longer a war caster, just one more ordinary laborer going back home after a day of relaxation. Arthur was too low on her lap to be seen from the road, though people behind her sometimes frowned at the white tail hanging from the edge. She had covered her hair with a shawl. To anyone around, she was only one among many.
+
+It reminded the outlander of an Arthurian tale she had read long ago. The story told of the vile Meleagant abducting Gwinevere. Knight Lancelot agreed to ride a cart against information about her whereabouts, an extremely dishonorable treatment for a knight. Today, Viv was not on a horse, wearing armor and escorted by a stout Kark. It felt like a vacation. Or it would, until someone looked down on her or tried to piss her off, which would definitely happen at some point.
+
+Sleepy hamlets gave way to vast, tilled fields as the path led a bit inland, then they turned left directly towards the lake. The city sat on a small elevation jutting into the waters, which provided a natural moat around two thirds of its tall gray walls. Circular towers rose to the skies, bearing the heraldry of the local lord on sheet-sized flags. Soldiers in blue and yellow livery guarded the main entrance. The woman in front turned to Viv and asked in a slightly embarrassed voice if she had identification. Viv could read between the lines and decided to spare the tailor family the indignity of being in her mantle of catastrophe.
+
+“Don’t worry about it, I’ll make my own way.”
+
+Viv climbed down. There was a line waiting to enter the city, though it moved quite fast. Important people didn’t wait in line. She was important people. In fact, she couldn’t not be important people so long as Arthur was around, so Viv decided to own it instead and walked confidently to the gate. Quite a few of the guards noticed her immediately. She had met an instructor with a sixth sense when it came to anomalies, able to pick up a person acting weird out of a hundred in a crowded train station. Here though, she suspected a skill might be involved. They were serious but not alarmed just yet. Viv hoped it would stay that way.
+
+“Hello. I’d like to get into town, this is my first time here.”
+
+One of the busy guards who hadn’t seen her come turned with an angry face.
+
+“Get the fuck back in… Oh.”
+
+Arthur glared at him and stood on her hind legs. Her eyes were level with the guard as this was on the short side. He took a step back so she returned to Viv’s side, crimson eyes inspecting everyone with malevolent focus.
+
+The ensuing silence lasted for only a short time. A grizzled sergeant with impressive, graying chops stepped out of the guardhouse with a mighty scowl. He walked to Viv with confidence, eyes going out of focus for a second which she associated with inspection.
+
+“Caster huh, an instinctive one?”
+
+“Yes.”
+
+“That figured. What’s your purpose in Losserec?”
+
+“I seek passage to Helock by ship.”
+
+“Alright. You got any identification with you?”
+
+“I have a Manipeleso bank chit.”
+
+That got Viv some raised eyebrows.
+
+“I was attacked and lost my gear,” she explained. “My clothes were destroyed and blood-soaked. Some kind souls gave me those.”
+
+“I see. The roads are not safe these days. One more question. Have you been involved in the civil war?”
+
+Viv was rather sure the man could detect falsehoods, so she decided to be mostly honest.
+
+“I fought side by side with Sangor the Nigh King in Green Edge, but I left afterward. I also fought loyalists on other occasions. I’ve never fought against your side.”
+
+Some of the guards shifted at the mention of Sangor, and she got her explanation as to why shortly after.
+
+“His Royal Highness Sangor,” the sergeant politely insisted.
+
+Viv tended to forget it, but Nyil had a much more hierarchical society than nowadays France. Here, people had to show respect to their ‘betters’. She had to keep it in mind or risk annoying the sticklers for protocol.
+
+“Well, sure, come on in. Do you have coin?”
+
+She shook her head.
+
+“I lost almost everything in the attack.”
+
+“That’s fine. Bearers of the chit don’t have to pay the entrance fee, but you might want to go to the bank first. It’s on the main square.”
+
+“It always is…” Viv mumbled.
+
+“Indeed. Now if I could see it?” he politely asked.
+
+Viv spent an embarrassing two seconds lifting the chit from her modest cleavage. The sergeant remained entirely professional, thankfully.
+
+“Everything’s in order. Do you have a leash and muzzle for your drake?”
+
+Ah.
+
+“Ah.”
+
+“Squeeeeeeeeeee?”
+
+“I assure you this is not necessary. Arthur is extremely well-behaved.”
+
+“If you don’t have one I can have a kennel leash modified on the spot…”
+
+“No collars.”
+
+“Squeeee!”
+
+The sergeant looked strangely at Arthur, probably wondering if she could indeed understand human language.
+
+“Look, I was told someone else has a drake here,” Viv said, eager to defuse the argument before it could turn incendiary. “Do they have a leash and collar?”
+
+She sure as fuck hoped not.
+
+“I am not privy to the governor’s habits,” the sergeant coldly replied. “Still, if you have her under control…”
+
+“There isn’t an entity on Nyil that can get her under control. Look, we've been to two major towns without incident before. I’m sure you are just being understandably cautious, however leashes are a no go.”
+
+Violence?
+
+Viv sent back a ‘no’.
+
+“Could you just let us through? We won’t cause trouble.”
+
+“And if you do, it’s my head,” the sergeant replied.
+
+He bit his lip, considering his options.
+
+“Tell you what, I’ll get our local kennel master. If he says it’s fine, then it’s fine. Would that be acceptable?”
+
+“Certainly.”
+
+“Then, errr, Lathas get the lady inside while I fetch him. Mage Urin’s office will do.”
+
+Ah, the time-honored tradition of kicking problems up the chain. Viv considered that Arthur might be recognized for who she was, or rather what she was. It should be fine. It would happen anyway in the larger city.
+
+As she walked by the gate and got into the guard post, a part of her wondered if it would have been wiser to get Arthur over the wall by flight. She expected people in a capital city to be reasonable, sensible human beings. She was just being stupid. Now to hope she was stupid and lucky. Not that sort of lucky, the real kind.
+
+Mage Urin’s office was a small but tidy affair, a packed office with more books Viv had ever seen together in Nyil with a window pointing north. The rays of the late afternoon painted the walls outside red, yet it also made the place feel more familiar. Add a laptop and a phone on the desk, and it could be any scholar’s office back on earth. The murmur of conversation outside made for a pleasant background.
+
+The guard by her side cleared his throat. She had been daydreaming. Without hesitation, Viv sat on the guest’s chair and turned to the guard, who looked distinctly awkward.
+
+“Lathas, was it? Do you think I could get something to drink and then maybe you should return to your post?” she suggested, letting the leadership aspect of her soul leak a bit. The tiny amount of soul mastery she had helped as well, though modestly.
+
+He blinked.
+
+“Oh, yes goodmother. Sure.”
+
+He saluted and left. Viv received her cup of piping klod while she was inspecting the nearby books. Arthur squealed happily when she found a copy of ‘The Desolation of Aristan’, her favorite book, though this copy lacked the nice illustration of a big black dragon roasting the town and its defenders. The diversion lasted until someone subtly poked her with transparent mana, or rather, someone had pushed mana in an expanding bubble and she had been hit like a fat submarine. She was pretty sure it was rude, so she flared her own mana twice, her best attempt at conveying ‘Yes I am here’. Ten seconds later, someone knocked on the door.
+
+Three people let themselves in. The first was an older mage with a belly who had the decency to look sheepish — probably the cause of the magical sonar spell. The second smelled a bit of beasts and looked gruff and annoyed to be here. Too much sun had tanned his skin a deep red, and he wore leather armguards with deep bite marks on it. He looked quite attractive in the gruff and muscular kind of way, and his biceps bulged under his sleeves, which was nice. The last was the most nondescript woman Viv had ever met.
+
+The trio awkwardly moved around the table, with the mage hesitating, then sitting at his desk. The narrow confines of the place made the gathering that much more stifling, but Viv had been in political rallies. This was nothing. At least they smelled mostly clean, and she had tea.
+
+“So, errr, why are we here?” the mage asked.
+
+“Hello, my name is Viv. I would like you to allow Arthur to move freely around the city while we visit. Without a leash.”
+
+“And, errr, I wasn’t aware that we had regulations on the treatment of drakes?” the mage asked his companions.
+
+“We have regulations on people bringing dangerous beasts within the walls,” the person Viv assumed was the kennel master said. “Let me get a look at the drake.”
+
+“Oh,” Viv said, “I never said she was a drake. Arthur? Say hello.”
+
+The dragonette uncoiled from Viv, lifting her head from the witch’s lap and rising above the desk, where she put both of her arms. The claws clicked on the varnished wood with terrible finality.
+
+“OH SH—” the kennel master gasped, and he fell on his ass.
+
+Viv raised both hands in a calming gesture while the mage looked askance, wondering if he should do something. He had a shield half-raised, but he had refrained from any offensive casting yet.
+
+“What’s going on?” The mage asked.
+
+“Arthur is a dragon.”
+
+“Squee!”
+
+“She says she’s a good one too and consents to grace your city with her presence if you provide good meat.”
+
+Viv considered her words and leaned forward, comforting them with a conspiratorial tone.
+
+“I’ll pay, don’t worry.”
+
+It didn’t work well. The mage and kennel master started arguing while the third person… was there a third person? It probably wasn’t very important.
+
+It was clear they didn’t know what to do.
+
+“Listen,” Viv cut, “I have been in several large cities before.”
+
+They didn’t look pleased by her interruption. That was fine. Viv didn’t want to spend the evening on it.
+
+“We never had any sort of trouble. So long as no one attacks her, and there is no reason to, then nothing will happen. We just want to find a ship and relax for a few days.”
+
+“I just want to hear one reason why we should let a dragon inside of our walls,” the kennel master grumbled.
+
+“Ha, I believe I can give you an answer,” Viv said with a pleasant smile. “Let me demonstrate how refined and polite Arthur is. Arthur, if you would find a good book for our hosts here?”
+
+Big dragon book!
+
+‘Yes,’ Viv sent back.
+
+The dragonling slithered to a nearby shelf and picked the ‘Desolation of Aristan’, delicately holding it between two clawed fingers. She placed the precious tome on the desk in front of the terrified mage and opened it with surgical care.
+
+‘Reasons for desolation,’ Viv sent, and the dragonette patiently flipped pages until she reached chapter two. The others did not dare move.
+
+With imperious grace, Arthur tapped the chapter header.
+
+“Why don’t you read it for us?” Viv suggested.
+
+The mage glared, but he obeyed. The proximity of a fanged maw made his diction a little hesitant.
+
+“Ahem. Chapter two, in which we examine the causes of the tragedy. Accounts of the buildup leading to the fateful event remain fragmentary. Indeed, most of the legal documentation as well as the men and women involved in the process were lost on the third day of the battle, when the administrative district burnt to the ground. Whatever second-hand account and fragmentary documents remain have been widely dismissed by contemporary authors (see Tavus’ ‘The flames of Fate’) as being too unlikely, however, I believe that the original theory was indeed accurate, and that the devastation was indeed not caused by a single great disagreement, but by an escalation of petty and minor issues, culminating in the great ultimatum as recounted in the northern toll office accounts. Indeed, the question of dragon whelps… Ah.”
+
+Heavy silence descended upon the room. Arthur glared. Viv inspected her fingernails, which were a bit filthy and needed a cut.
+
+“We could just decide that putting a leash on a dragon is a terrible idea. I will spend a couple of days in town and spend a lot of money, then I’ll be out of your hair and someone else’s problem,” Viv suggested.
+
+“Or we could make it difficult.”
+
+Arthur puffed a little smoke. The scent of overheated metal replaced that of old book then was gone just as fast.
+
+“She’s under your responsibility and we’d better not hear about any incident,” the mage said. The kennel master approved with a nod.
+
+“Of course,” Viv agreed amicably.
+
+The two left and Viv made to abscond as well, but a hand placed on her shoulder brought her down. Viv frowned. It was the nondescript woman.
+
+“Any chance that you would be willing to work here?” the woman asked. Viv felt the grip but, strangely, her danger sense was quiet. It should be screaming at her, she thought.
+
+“No, I’m really here to relax and leave,” Viv replied.
+
+“Excellent. I’ll send someone and make sure you’re not bothered. By anybody.”
+
+“That would be nice,” Viv muttered.
+
+“And one last piece of advice. Your intimidation was cute and effective, if a bit heavy-handed. You are young. You are also not familiar with large cities, so please remember that as dangerous as you are on the battlefield, there are folks in the capital who follow paths that… solve problems.”
+
+A veil lifted. The nondescript woman was a wiry girl with a pointy nose and squarish traits, someone who felt dependable and overall pleasant but there was something off about her smile and when Viv looked down, she saw that a finger rested on her skin, at the base of her neck. That finger bore a strange jewel with a claw at the end, and a skull on its surface. The woman tapped it gently three times.
+
+Viv noticed that Arthur’s jaw was very close to the woman’s chest as well. The two had placed themselves in a stalemate without Viv noticing.
+
+“Sometimes, keeping the peace requires a sacrifice. The dragons know that. We have shown time and time again that we were willing to go all the way.”
+
+“I’m really here to relax, not to attack anyone,” Viv assured.
+
+“I believe you, I really do. And I like your shrewdness. Consider it a, ah, friendly reminder. Enjoy your stay.”
+
+And she was gone. Literally. Viv could not feel her anywhere.
+
+“Squeee?”
+
+“Yeah it’s a big world and we are not the biggest yet. Let’s go, darling. I don’t know about you but I need to unwind.”
+
+Viv finished her cup then left.
+
+The streets of Losserec were idle, and Viv was reminded that today was rest day, obviously. The public attention was a bit annoying. She knew they’d get over her in a couple of days though. Her first stop was the bank. Finding it wasn’t difficult, she just had to follow the main road into the city. It still took her more than ten minutes of fast walking. Losserec was large, really large. Tens of thousands of inhabitants at least. It also smelled surprisingly good for a place this massive. The signs of magic were found less in the people casting in the street like in Kazar, and more in the wards, lights, and other enchantments that decorated the streets. Some of the more affluent citizens wore enchanted doublets though she was not yet good enough to discern what some of them did. She saw a lot of glass windows and shopfronts. More subtle signs also revealed it was an old, well-established place, such as the walking rule. Rich people walked in the middle of the street while wagons and poorer people walked on the sides. A particularly arrogant [merchant] tried to have his guards move her away from her path, which she had kept somewhat in the in between, but a display of black tendrils and Arthur’s hiss had dissuaded them without issues.
+
+“Don’t even try,” Viv had warned.
+
+Besides that, the trip ended without incident on a large square plaza at the edge of the inner walls, where  the keep stood. She made a beeline for the familiar stout building with its thick Doric columns and dim interior. The doorman let her in without asking for her chit once again and she found herself in the familiar, dim and luscious interior. She was offered access to her cash and a few recommendations by a flawlessly polite associate in a form-fitting dress.
+
+Her questions about Marruk and Solfis were met by a wall of silence. Since Marruk was a customer, the associate claimed, she could not reveal any details about them without their express permission.
+
+“I cannot reveal any information on the golem either, as it would be akin to the same thing,” she explained with a knowing smile.
+
+Viv froze and realized what the woman had done. She had heavily implied that Marruk and Solfis were currently or had recently been together, so she knew about them, and so they were alive. Viv breathed a sigh of relief.
+
+“Can I leave them a message, perhaps?” she asked.
+
+“You may. We will convey it during their next visit to any branch of our institution.”
+
+“That’s a relief.”
+
+The witch wrote a quick letter and left them in the bank’s care, then she left with a full purse and a good idea how to spend it.
+
+Viv walked to a nearby hotel and was almost stopped by bouncers before a majordomo rushed out and invited her in. She rented a suite to herself and made a list of requests. She could see the man almost salivate when he realized she was going to burn the yearly salary of a knight squad in only a couple of days.
+
+The first order was for clothes and luggage. She was escorted to a famous tailor who took an order for traveling clothes, formal clothes, and stuff she could wear in the city since she was planning to spend quite some time in Helock. The tailor was a smooth old gentleman who sold her a mix of Viziman and Enorian influence to match her ‘exotic looks’. Viv had the distinct impression he was indulging himself as much as her but she didn’t mind and paid three gold talents plus a few silvers for the whole set. The man threw in some gloves and hats as a commercial gesture. Next, she bought a massive travel case with some good locks from a nearby leatherworker, and got a discount price because the original buyer had died at war. There was even a silvery pane to place her own enchantments later. By that time, night had fallen and she retired for the evening with some good food and a long-awaited bath.
+
+The next morning, she dressed in her newest outfit, which had been delivered at dawn. It was a comfortable, though conservative dress with a high skirt and a small, waist-long cape. Arthur approved of the colorful green and gold dyes. They walked to the pier to find a ship, going though poorer parts of town without more than a feeble attempt to steal Viv’s purse, one that got foiled by a ‘nondescript’ man who issued a warning and a boot up the ass. The largest shipping consortium gave her some good news.
+
+“We have a personal transport ship leaving for Helock in ten days with another passenger. We can guarantee your safety and comfort for a modest fee.”
+
+The ‘modest’ was a lie but Viv paid another gold talent plus change anyway. She wasn’t skimping on safety, not anymore. Her only concern was the cost of tuition in Helock, although she could probably find ways to get an income, and there was no way a semester cost more than the hundred and fifty gold talents she had in her account right now.
+
+Viv spent the day shopping for necessities, then came the part she and Arthur looked forward to the most: relaxation. They found the most expensive and slightly illegal brothel and used it as a spa resort.
+
+“Although we do service female customers on occasion, they are usually more worried about their image than you appear to be,” the courtesan she employed commented.
+
+Viv shrugged and signaled for another basket of ribs for Arthur, who lounged in her own bath pretending to sink a toy ship. She didn’t care much. The spa only entertained her for a day, then she had another amusing moment selling the remaining monster core she had gotten in the forest for a solid four gold talents. The price surprised her.
+
+“Cores used to be so cheap, traveling merchants would carry them, in the olden days,” the matronly owner of the auction house told her around tea. “Of course there were bad things about the olden days,” she corrected immediately. Viv waved to dismiss her concerns.
+
+“Lord Mildery told me about the time before the civil war when the land was united and expeditions delved into the Deadshield Woods.”
+
+“Yes. That poor boy. I hope he finds love once more, after this is over. Green Edge deserves to bloom again.”
+
+They exchanged a bit more on the topic, with the old lady reminiscing about a time when people didn’t object to her owning the auction house instead of her husband.
+
+“Thankfully the complaints all stopped when he died, Enttiku rest his soul. Would you like more tea?”
+
+Viv’s contact with Losserec’s population at large stayed polite and distant over the next few days. She was invited for tea by a few women of the good society she met in various stores, and accepted, if only to learn more about the situation. They tolerated her peculiarities on account of her nature as a visitor and an outsider. The men seemed to avoid her as well, mostly. The social events helped distract her from the thorough lack of tourist attractions. Or rather, there were landmarks to explore, but the Enorians didn’t see them that way. It reminded Viv that Romanticism had marked experience and discovery as part of self-actualization. People here preferred conforming and social climbing. Nevertheless, she enjoyed her down time immensely.
+
+Arthur had a harder time with the city and spent many long afternoons fishing in the lake. She would only return at nightfall, sometimes carrying a fat fish Viv had the kitchen cook for her. Viv also found primers on Helock’s university and the courses she could expect. Apparently, there were general classes on a variety of topics like etiquette she would absolutely need to attend and on which she lacked even the most basic knowledge, so the outlander resolved herself to night of studies once again. At the same time, she was a special case as an instinctive caster and also as someone who was, well, old. Most people attended the university starting from the age of sixteen, so probably eighteen in earth equivalent. Viv was twenty-five. She was technically a post-grad. Admission would require some back-and-forth.
+
+At the end of the ten days period, Viv walked to the pier with her luggage dragged by a hotel employee. No one had tried to kidnap her, no one had stolen from her. She had received a few invitations from suitors but none had reacted strongly to her refusal. No one had started any fires. She had not been involved in any crimes. Viv had spent ten days taking it easy and she felt good and that was awesome. Nodding wisely to herself, she reached the only logical conclusion.
+
+“Next time the spark of luck fucks with me too hard, I’m burning down another village.”
+
+“Squeeeee!”

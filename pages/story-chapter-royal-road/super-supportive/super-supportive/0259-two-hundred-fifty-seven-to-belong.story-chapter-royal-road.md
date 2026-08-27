@@ -1,0 +1,283 @@
+---
+id: 4ba3b626-861e-5b4d-b5d8-9b32faef9dcd
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-SEVEN: To Belong"
+slug: 0259-two-hundred-fifty-seven-to-belong
+partOf: super-supportive
+position: 259
+ownLength: 3370
+unit: words
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2779175/two-hundred-fifty-seven-to-belong"
+royalRoadId: "2779175"
+---
+
+257
+
+******
+
+As the end of MPE approached, Alden hadn’t shaken off all his stress, but the reactions of other students to his Winston fight were surprising him in a a good way.
+
+The faculty had avoided pairing him and the speedster for the duels that took place right after Thanksgiving, even though they should have been randomly assigned to fight each other more than once before now. Of course the others had noticed that. But because Alden had been away or studying so often during periods when he could have been socializing with them, he hadn’t realized how many of them had been waiting to see how the matchup went. And, it turned out, rooting for him to do well.
+
+Even one person who he would have thought might want to see him lose.
+
+“Why won’t you fight me with a serious weapon like that?” Reinhard complained while he watched Alden try to put together a new Winsterminator in the practice area. Lexi had ended the first one’s career in an explosion of sand when Writher sliced open the bag. “I wouldn’t have any problem with you if you fought me like that.”
+
+You would still have problems with me every time I won, Alden thought.
+
+Reinhard had good qualities. He also had a tendency to bury them under his bad qualities when things weren’t going his way.
+
+“You’re one of the only other people in class I’ve made a custom weapon for. And it worked. Which is proof it was a serious weapon even if it looked a little funny.”
+
+So funny Alden had rewatched that duel more than any of his others.
+
+Reinhard grumbled like Alden was giving him a hard time, but then he said, “Congratulations. For Winston. I haven’t seen it yet, but everyone’s talking about it. He’s not exactly a brilliant duelist, but he is a rank above you, and he had it in for you. Even if you two had an argument, he’s being too swaybrained about it. Maybe this will make him shut up.”
+
+“The argument was him lying about me to entertain people on the internet and me arriving to make him stop.”
+
+Reinhard twirled one of his arrows. He’d done it three times since he’d walked up. Alden was wondering if it was some competitive impulse that had developed because he’d seen Alden spinning his own weapon a few times over the past hour. “Whatever. He’s just getting on my nerves. The other day when your Rabbit friends came to the dorm, after you all left, some of us were joking around about you in my apartment, and he was ruining the atmosphere.”
+
+“You were talking about me?”
+
+“It wasn’t like we were saying anything you’d be mad about. You have to know that two of them have over-Apexed their Appeal, and then there was that super cool girl who showed off her skill by making Mehdi’s watch look a thousand argold better, and the funny one in the skirt asked us where ‘Pigeon Picture Boy’ was. They were so flashy as soon as they walked in. And the blonde girl was cooking for us within ten seconds of showing up. So we were talking about it like, ‘Guess Alden’s not coming back to the hero program. The Rabbit bosses finally sent in the elite team to lure him home. We’ll never hear from him again.’”
+
+Alden grinned. “They did look like an elite team, and they did take me away to see the people who come closest to qualifying as Rabbit bosses.”
+
+“It was normal, corny stuff. But Winston can’t hear your name, or Max’s, and stay normal. He made it so uncomfortable that I was shoveling spaghetti into my mouth so that I could use going downstairs for a second serving as an excuse to get away. And it was my apartment.” Reinhard shrugged. “Anyway. Congrats.”
+
+“What did Winston say to make it that uncomfortable, though?”
+
+Reinhard looked toward the high ceiling. “It was something about you going back to Matadero…I’m not going to repeat it…but you should definitely beat him in duels a few more times. If it wasn’t just luck.”
+
+Alden imagined Winston butting in with something about how Alden deserved to be killed by a demon during one of his visits to Matadero instead of being carried off by a bunch of fun Rabbits.
+
+The speedster had picked himself up after their duel, but he was staying as far from Alden as possible when they were both in the practice area. And he was being uncharacteristically serious in his duels against people he usually won against. Actually fighting without thinking about how he looked fighting.
+
+So I sobered him up for at least one day. Not sure he deserved the favor.
+
+“It wasn’t just luck!” he called after Reinhard as the archer left. “Acknowledge the true power of my contraptions!”
+
+“He said luck?” Ignacio had arrived, sliding fast across a melting ice patch Everly had left behind. “No. <<Wrong. I watched the duel against Winston. You were not lucky.>> Excellent. Good duel. Congratulations! <<Fight me like that?>>”
+
+“But you’ll just dodge and put a knife to my throat anyway, Shrike.”
+
+<<I’ll hold still.>>
+
+“Don’t say that. That makes me feel pitiful. Muy triste.”
+
+<<I’ll hold still, and I’ll focus on attacking your weapon,>> Ignacio explained.
+
+Is the idea that he’ll send a flock of knives into the sandbag to see if he can redirect it? Or attack the preserved paracord handle while I’m flicking it around?
+
+Either would be an interesting experiment. But…
+
+“If we get a chance to try it at the end of a class,” Alden said. “Yes.”
+
+<<At the beginning, it would be a better test.>>
+
+Alden felt his face scrunch.
+
+<<Don’t look like that.>>
+
+The Meisters knew Alden rarely presented them with opportunities to try their weapons out against anything he was protecting with his magic. Writher got more attempts than any of the other deadly tools because Writher and Alden lived together, and he was being a good roommate.
+
+“What if I went to Superlatives one day?” Alden suggested. “Or Meister club. Not to participate in a way that would annoy anyone but just as a training target for you to use? You’ll fatigue my skill fast finding out what you can do, and I’ll leave.”
+
+Ignacio brightened. <<That would be fun. I’ll ask Ash.>>
+
+“Ash?”
+
+<<He’s the faculty advisor for Superlatives.>>
+
+“Shrike! I’m here! Practice with me!” Marsha’s shout made them both look over. She was shifting her weapon into glaive mode.
+
+<<I’d better go before she starts swinging.>>
+
+“Remind her that the practice area isn’t just a bigger dueling block with human-shaped objects in the way.”
+
+<<I don’t think it will work today. You heard about Elites?>>
+
+“Probably not. I wasn’t around for gossip this weekend.”
+
+<<They sent Febri a callback and Marsha a rejection.>>
+
+“I’m a little surprised,” said Alden, lowering his voice. “I know she’s got a one-track mind, but the one track seems to suit what they’re doing.”
+
+<<Her dad was an alumni of their program, and he was embarrassing for them. He was caught pretending to be his own nemesis, committing crimes so that it looked like there was a dangerous unregistered for him to fight. Even if she doesn’t have anything to do with him, they might not want to have her around as a reminder.>>
+
+“SHRIKE!”
+
+Poor Marsha, thought Alden. For the first time ever. Maybe she’s got that S-rank fighting obsession because in her mind it’s like the opposite of her dad being a phony?
+
+A minute later, Ignacio sprinted past, pursued by a girl who definitely preferred to interpret “practice area” as “free dueling space.”
+
+On the other hand, she looks thrilled to be chasing him down. Maybe she just likes it.
+
+A couple more people came up to Alden to say congrats before class ended. It wasn’t like everyone was a fan of his work. He caught some glares and wary glances, and there was one comment from a Brute who sometimes hung out with Winston about how things would have been different if Winston had a weapon, too.
+
+But finding out so many of them were glad for his success was a boost. I thought it would just be my roommates and Max who appreciated how I did in one duel. This makes me proud I put some extra effort in.
+
+He found himself smiling as he packed up.
+
+On his way out of the gym, Finlay sprang in front of him to declare that he was taking him out to celebrate. Alden protested that it was going overboard to celebrate one single person’s duel when they’d all just had several of them. But he didn’t protest it too hard with Haoyu making restaurant suggestions and Astrid diving in to say she expected to be taken out for dinner by the whole class when she beat Tuyet.
+
+“Since Astrid will never earn that dinner, that’s more money I can spend for your meal,” Finlay said. “What’s a place you like in Apex? Who should we invite?”
+
+******
+
+Ten of them crowded around two tables at the back of the diner. The checkerboard floor, the glass-fronted fridge full of familiar canned drinks,  and the items listed on the plastic-coated menus were nostalgic for Alden. But the Anesidoran touches were great, too. Their waitress was an Object Shaper who wore harem pants and Artonan jewelry with a cut-off Celena North University shirt. Whatever they ordered left the kitchen and traveled to them through the air under her direction, and dishes that they emptied took flight a minute or two later.
+
+Everyone raised sodas, milkshakes, cups of tea, and decaf coffees to Alden’s victory. Then they did the same for various victories the others wanted to be complimented on. And finally they saluted Winston’s new roommates—whoever they might be.
+
+They chattered about duels, Christmas, and school while they ate the kinds of meals you could only put together at a place that served American breakfast food and dinner food simultaneously. If their volume and Jeffy popping out of his chair constantly was irritating the other people eating there, Alden didn’t really notice it.
+
+“I just like wintry-looking things,” Everly was saying. She sat beside Kon at one end of the table. They were supposed to be splitting a basket of buffalo chicken wings and an order of eggs Benedict. She didn’t seem to notice Kon was scarfing all the chicken. “It’s the same as people who have a bunch of accessories in their favorite color, but instead of one color, I have a theme.”
+
+“I want a theme,” said Astrid, taking a fry from a shared plate in the middle of the table and leaning across Max to dunk it in one of the sauces Alden had gotten to go with his hash browns and plant-based scramble. “Jeffy’s aquatic theme will be sharks, and his land-based theme will be grilling.”
+
+Jeffy lifted half a cheeseburger into the air proudly.
+
+“Lexi’s theme should be that black feather makeup he wore to class the other day. Max’s theme could be—”
+
+“My theme will be asking you why you don’t order your own spicy mustard dip if you like it that much.” Max was trying to wipe a drop of it off his sleeve.
+
+“Next time I will. This time Alden had an ordering advantage. He’s eaten here before and knows what’s good.”
+
+“Kon,” Max said, “if it’s not a problem—”
+
+“A stain!” Kon gasped. “My favorite!”
+
+He’d gotten burger grease off of Jeffy’s jacket a few minutes ago.
+
+“Kon’s the kind of hero people actually want around. I keep waiting for someone to shout, ‘We can’t do this without a Dura Brute!’ in an everyday setting, but it never happens.” Haoyu was sitting across the table from Alden. “What were you saying about Ignacio?”
+
+“He wants me to try to hit him with the weapon a few times,” said Alden. “I asked him if I could do it at Superlatives instead of in class.”
+
+“The Rabbit has taken out an A-rank Speed Brute, and now he wants to fight the entire S-rank club,” Kon said, checking out the stain on Max’s shirt. “I look forward to it.”
+
+Lexi, Everly, and Max were all giving Alden raised eyebrows.
+
+“Did you think they’d actually let you go?” Lexi asked.
+
+“I did offer to do Meister club, too. Ignacio picked Superlatives.”
+
+“Meister club’s going to have a reduced number of gym meetings next term,” Lexi said.
+
+“I don’t think it would be a problem.” Lucille, sitting at the end of the table with a Cobb salad, had been the quietest member of their group tonight. But she’d still been more talkative than normal. Alden was glad he’d invited her. “People can be overprotective of their floor time, but if it’s just for a few minutes and Ignacio gets it pre-approved, nobody should be mad about it.”
+
+“Superlatives is full of normal students like any other club,” said Finlay. “Marsha’s the one who’ll whinge about Alden being there. And to quiet Marsha down all Shrike has to do is promise to fight her next. You might have to wait for your chance, though, Alden. With all the people volunteering to train us lately it’s been crowded.”
+
+“Finlay…” Everly said hesitantly. “Are you staying? Have you decided?”
+
+Everyone knew she meant the Elites program.
+
+Finlay winced.
+
+“You don’t have to answer.”
+
+“I was excited about being invited. And I thought I’d go. But what if it’s like being with a bunch of S-rank Winstons who I won’t have a break from even on the weekends?”
+
+“Why would they be S-rank Winstons?” Alden asked.
+
+“The worst thing about living with him is having someone who insists on competing every second whether I feel like it or not,” said Finlay. “‘How many followers did you gain last night? How fast did you drink that cup of juice?’”
+
+“How fast can you shower?”
+
+“Don’t remind me. It’s been shite like that constantly. I know Elites wouldn’t be those little things. But it’s supposed to be more competition than here. All day. Every day. With them tossing us out if we don’t keep up. And if it’s like that, won’t I go mad? I want to be the best, but I can’t be the best if I go mad. So maybe not. I’ve got until Friday to tell them.”
+
+“Vandy’s grandfather didn’t like the idea of it,” said Everly. “So she’s not going. I thought Tuyet definitely wouldn’t go, no matter what, but she seemed to be thinking about it until she heard Vandy was saying no. Maricel’s only around for about ten minutes at a time, but Tuyet says she talked to Fragment, and Fragment’s advising her to stay at CNH. So she probably will?”
+
+“You must’ve worried you were going to lose all three roommates,” said Haoyu.
+
+“I wondered if I would. It looks like we’ll be together again.” She reached for the basket that had held the buffalo wings and saw that it now held nothing but gnawed bones. “Kon!”
+
+They ordered more wings for Everly and slices of pie for dessert. They all  took pens and styluses out of their bags and tried spinning them. Alden and the other globies ended up answering questions about home.
+
+“You should tell your aunt to order special wedding supplies here on Anesidora.” Astrid was moving the salt and pepper shakers so that a bowl of extra whipped cream could land. “And then you can take it all with you when you go. It’s one of the perks of having an Avowed relative.”
+
+Alden had just mentioned that he expected to attend Aunt Connie’s wedding sometime next year.
+
+“And you should buy your American friends—if they’re real—something that they can’t get at home.”
+
+“When did you guys all decide my friends weren’t real?” Alden asked.
+
+“Right before pie,” said Haoyu.
+
+“They’re fake,” said Astrid. “For sure. You were a loner in your old high school, but then you met us…”
+
+“There are a few pictures of them on my Trime from like a year and a half ago. I told you they’re the reason I like this diner.”
+
+“A year and a half ago.” Max shook his head. “Only a few pictures.”
+
+“You’re getting in on this? Hang on. I’ll introduce you all to them. It’s only two hours later there, so they’re probably still up.”
+
+[Alden: Boe, I’m at a diner with a bunch of people from school who want me to prove that my Chicago friends are real. That’s you. Want to take a call on your cell if you’re awake?]
+
+[Alden: Jeremy, you up? I’m hanging out with classmates at a diner, and I told them about you. They want proof that you exist.]
+
+They both came through, answering from their bedrooms at home and appearing on everyone’s interface.
+
+“Alden’s American friends, our diner has twelve kinds of pie,” Astrid said after introductions had been made. Her hair was slowly getting longer and turning yellow blonde.
+
+“Seriously? Ours only has four unless there’s a special,” Jeremy replied. “But the coconut cream is addictive. Right, Boe?”
+
+Jeremy followed several of Alden’s classmates online because they sometimes mentioned Alden, or posted things like the gokoratch song video in which he could be spotted. He seemed thrilled to be chatting with a bunch of Avowed at eleven o’clock at night. And Boe was being a good sport.
+
+“The coconut cream is human-style magic,” Boe agreed.
+
+“I got coconut cream.” Jeffy was holding up a forkful of it. “Alden beat Winston up.”
+
+“What wonderful news,” said Boe.
+
+“You’re beating people up, Alden?” Jeremy clucked his tongue.
+
+“In MPE,” Alden said. “There was no lasting damage.”
+
+“I wonder if Winston would agree with that.”
+
+“He hit him with a fifty-kilo sandbag, you guys!”
+
+“The fight lasted a few seconds. Alden’s improved since we started school.”
+
+“Winston was so sure he was going to win he bet his room.”
+
+“He offended the mad Rabbit of Matadero, and that was the end for him.”
+
+“Send us more giardiniera. Lute ate it all on ramen.”
+
+“Haoyu’s ordering groceries from America? Can we?”
+
+“Why would we? We have stores.”
+
+“I want a deep dish pizza from actual Chicago.”
+
+“I’ll show you how fast I can freeze a glass of lemon-lime soda if you tell me an embarrassing story about Alden.”
+
+Boe’s polite smile suddenly turned genuine. “One time, Alden climbed onto the roof of a stranger’s house—”
+
+“Don’t tell them this one,” Alden protested.
+
+Jeremy, who had heard this story before, was already grinning in anticipation.
+
+“—because he saw a cat up there he thought was his. And he thought it was having a medical issue. We were like five miles from his own neighborhood, so I don’t know why he was so sure it was his cat.”
+
+“You helped me get onto that roof!”
+
+“Of course the animal ran away from the sketchy guy who was trying to bother it. The owner of the house drove up at exactly the same time, and for some reason, Alden was just standing around where she could see him when she got out of her car.”
+
+“Because you hid from her and weren’t there to help me get down! This story is just as embarrassing for you.”
+
+“He was so nervous that he kept saying, ‘There is a cat here. There is,” instead of using the past tense, so basically he was hanging out on some lady’s roof in broad daylight, swearing he could see a cat that clearly wasn’t there.”
+
+They were all cackling and snorting. They were laughing so hard that they were choking on their pie.
+
+And it didn’t feel bad at all to laugh until his stomach ached, to accept over-the-top praise for a duel, and to be embarrassed in the middle of this group of people he was growing closer to little by little.
+
+Alden looked at Boe making them all laugh. Maybe one day he’ll change his mind and come here.
+
+He looked at Jeremy. We haven’t really drifted that far apart.
+
+It didn’t feel bad to belong, for a while, on Anesidora.
+
+******

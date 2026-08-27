@@ -1,0 +1,485 @@
+---
+id: 903cf0e1-b105-5515-93ec-61cb6b5e610f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 185: The Walls of Glastia"
+slug: 0107-chapter-185-the-walls-of-glastia
+partOf: the-calamitous-bob-stubbed
+position: 107
+ownLength: 5674
+unit: words
+ownProgress: 5674
+publishedAt: 2024-11-22
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1918395/chapter-185-the-walls-of-glastia"
+royalRoadId: "1918395"
+markedReadAt: "2026-06-29T21:18:27.378Z"
+---
+
+The frontline near Glastia looked like some divinity had split the world in twain, showing two versions of a world that could be. Seen from the east, the left part of the landscape was one of mankind flourishing. Well-fertilized fields extended to the horizon, rich with thick ripening wheat, orchards, fat lines of fruit-bearing bushes near columns of salad greens surrounding pens teeming with animals. Neat encampments hug the walls. A myriad of colorful pennants fluttered lazily in the spring wind, speaking of the assembled might of mankind. Groups of soldiers trained, cooked, played and drank in clumps along the wall with the floating smoke trails of Glastia itself far in the distance. As for the wall itself, it was titanic yet misshapen, built in a hurry by mages as the horde of beastlings turned into a tide. Like a giant beast it grew and snaked across the land while soldiers trawled its back. That side was all warm colors and life in all its tamed diversity.
+
+There was the clean side of the wall.
+
+Then, there was hell.
+
+Charred stones, broken crenelations and the presence of war machines marked the limit between the rear and the frontline, after that was what the locals had come to call the corpse trench. For leagues upon leagues, there were only two things: dead soil, and corpses. Dessicated corpses. Burnt corpses. Ossified remnants mixed with the soil until one couldn’t tell gravel from jutting femurs. Fresh corpses. Putrid corpses. The rotting cadavers of great beasts belonging to early shamans, before hunger had pushed the beastlings to eat everything including each other. The devastation reached the maximum range of how far of a target the war mages could kill, and after that, the only difference was that the bodies didn’t have a speck of meat left on them.
+
+Beyond that was a haze, a black, smog-filled land squirming with hidden numbers, black mana and toxic emanations hiding the ground from sight. It was a cursed place that grew more dire and disgusting as time went by. No human had walked there in almost five years. It was about to change soon.
+
+Mostly, it stank.
+
+That was something that the wall didn’t stop. Even in the sun, even with the wind, the revolting stench of carrion clung to the nose of all the humans around like a slimy film that never left. It was so bad that the Glastians had grown insensitive to it, but those visiting fighters called it the ‘Glastian Aftertaste’. It hung in the air like an invisible cloak that no gray magic could dispel. There was no escaping it. Only two things could erase it: the extermination of the beastlings, and time itself.
+
+Over the hill, a group of Enorian mercenaries watched the latest column approach. One of them, an older warrior missing part of his nose,  spat on the ground.
+
+“Damn witch.”
+
+“Oh, cut it,” a younger warrior said.
+
+“She killed Constable Tarano!”
+
+The others groaned out of habit, but then their gaze fell on the Harrakans now marching out of the massive portal set some distance away from the walls of the city.
+
+Some armies, like the Golden Order or the Knights of the White Orchard were grace and aristocracy incarnate. They walked out like heroes from children’s tales in shimmering colors, barded with family heirlooms and armor sets so decorated they were pieces of art. It was inspiring, fighting side by side with those barons and warrior priestesses who sallied out from the gate with beauty and panache. There were also regular armies moving in harmonious disorder, knights covering archers then splitting as they climbed the wall to take their place at the fore. Finally, there were the poor fuckers like them, sods paid iron bits to hold less risky parts of the wall. Those moved in organic blobs under the command of grizzled veterans who knew they had to give up on marching order because they were too busy enforcing basic discipline. Those were drab masses that crossed the nice roads like mud drifting down a canal.
+
+The Harrakans were not like any of those.
+
+“Damn, that’s a lot of iron,” one of them said.
+
+“Steel. Birdmen made,” said one with a pipe and the spare bits to buy the hotweed to fill it.
+
+“Really?”
+
+“Yeah. They got the mines open. My cousins moved there from Regnos. Says they pay well and don’t use lashes.”
+
+“Well they… got a lot out.”
+
+The Harrakans moved like clockwork. They were quiet and organized with the precision of a loom and enough metal to arm a force five times their size. Massive carriages of pure metal rolled without a horse to be seen, and behind, a long baggage train followed at a good pace. Elites walked up and down the flanks but they barely gave any orders.
+
+The looming impression was reinforced by the uniforms those soldiers wore. In the Enorian army, each noble was responsible for arming their own retinue, and though there were color schemes, armor sets and weapons were simply the best the nobles could get their paws on. Here, the various infantry regiments wore gear that identified them at a glance. Young fellows wore scale armor with dragon patterns visible from up here, even having a white dragon on their banners — and that was calling for disaster. Older men and women carried a variety of weapons but they shared the same cloaks and their symbol, a large tree, was present on every tabard. There was a group of quiet, huge fuckers in the heaviest plate the mercenaries had ever seen, faces hidden behind intimidating war masks. Even the flankers, crossbowmen mostly, had commonalities. The oldest group had heart motifs and preferred gray while a black-clad group of younger women favored eye-patterns — a daring boast about their accuracy, no doubt.
+
+“It’s like watching a golem walk,” one of the younger mercenaries said.
+
+“Like you’ve seen a golem walk, bumpkin.”
+
+“I did too! Near the bank!”
+
+“The fuck were you doing in the bank when you don’t got two bits to rub together.”
+
+“Fuck you.”
+
+“Quiet,” the pipe smoker said. “Look.”
+
+More people emerged from the portal. First, mages in robes on carriages bearing strange contraptions, a shining core present at the top. Some of those owl people crawled on their surface. Who even hired yries for war? They disliked being involved with humans.
+
+The next column was made of knights. But those were strange, like the rest. True knights ought to be colorful like in the stories, but these were all wearing black with a hint of blue. Truly, the Harrakans weren’t normal folks.
+
+“Maybe the black mana messes with their heads.”
+
+“Well don’t let them hear that. Oh, look, here she is, the Great Black Slut!”
+
+The Enorians mercenaries watched the newly ascended ‘Empress’ ride forth on a nice horse that must have cost a lot. She didn’t look like much from up there. Certainly not like the monster the rumors made her out to be. Hell, they couldn’t even see her cleavage.
+
+“Doesn’t look so scary to me,” one of them spat.
+
+“Look, there’s the fallen prince by her side.”
+
+“Traitor calls to traitor, I guess!”
+
+“And to freaks.”
+
+“I resent that.”
+
+The mercenaries froze where they sat. Right there, on the hill, suddenly, there was a man. A tall man with an exposed bald head, wearing all black. On his back rested the largest battleaxe they’d ever seen.
+
+“I said. I resent that,” Zero-Five repeated.
+
+And the mercenaries ran away.
+
+***
+
+“Neriad’s bollocks this place smells like a dead skunk’s arse,” Viv swore.
+
+Feeling sorry for her blasphemy, Viv sent a large burst of mana via prayer to her favorite god. It was a huge amount, enough to power a war mage cadre.
+
+“I am sorry for calling upon your bollocks in vain.”
+
+YOU KNOW I PAY ATTENTION IF THE MANA OFFERING IS HUGE SO PLEASE STOP CONTACTING ME FOR STUPID REASONS. I AM TRYING TO SPAR WITH MY FRIEND.
+
+“The blessed one answers!”
+
+YOU ARE BEING OBNOXIOUS.
+
+“Viv,” her beloved said in a diplomatic voice, “Please stop bullying the light gods.”
+
+“Pah,” she groaned.
+
+Her mischief completed, Viv grew despondent. And annoyed. Here she was on the other side of the continent, fulfilling an obligation at a time when her empire was at its most vulnerable. And all for thankless people who would barely spit on her if she were on fire.
+
+“Will you be going to the city now?” Rollo asked from the side.
+
+“No,” Viv replied. “I want to make sure our position at the wall is secure.”
+
+They approached the massive structure through growing fields. At its highest, it was probably thirty-meters tall but the outlying places went as low as four to five meters, enough for the most agile beastlings to climb by hand. Scorched marks showed where the walls had been breached then cauterized by fire mages. It was amazing how several types of stone and architecture were involved to raise or build different sections, yet it all felt like the same wall. She inspected it.
+
+[Wall of Glastia, artifact, drenched in the blood of a million beings, the wall stands battered but unbowed. Limited self-repair. Architectural drift.]
+
+Huh. It explained why the stones and styles seem to flow into each other.
+
+Viv looked down to see that spot they were supposed to occupy. All major forces that would be involved in a purge gathered around gates used to sally out when there were enough knights to justify it. Theirs stood between a large gathering of well-ordered tents with golden flags while to the right, mercenaries gathered in small groups, the runt of the formation meant to hold the far end. As soon as she approached, she knew there was going to be an issue.
+
+“As expected,” she grumbled.
+
+The place where they were supposed to set up camp was a pigsty, an unholy mess of trash and unburied latrines. It stank even worse and it was abundantly clear the location was not just a landfill: someone had specifically dumped trash here.
+
+Sidjin sighed.
+
+“He can’t help it, can he?”
+
+“It might not be your brother.”
+
+“If he didn’t start it, then at least it happened with his knowledge and consent. We are here to help and I am still being provoked,” he bemoaned. “I will complain to father. This is entirely unacceptable.”
+
+Viv felt her own temper raise. They were here to fight for Glastia in the name of the Paramese alliance and the locals were still giving her shit. Well, some of them. The assholes.
+
+“Can I be the iron fist and you the velvet glove?” she asked.
+
+“Certainly. I feel that if I start losing my temper here, people may perish.”
+
+“Ok good while I’ll merely maim them. So. Who’s responsible for this fuckery? Do I have to go to the city?”
+
+“Hold on.”
+
+Sidjin activated his long view enchantment. The air in front of him shimmered as it formed lenses. The construct then followed Sidjin’s gaze. He looked right, then left, then up. He then sighed again.
+
+“As expected, the guilty party is currently looking down on us to enjoy our discomfort. I recognize the heraldry of House Redclaw, a staunch supporter of my dear brother Prince Medjin. They must be in charge of this slice of the wall. They would be responsible for clearing the space here.”
+
+Ah, Medjin, the asshole who caused Rakan to be crippled.
+
+Too bad she couldn’t send him a gift without risking Sidjin’s pardoned status.
+
+“And you say they’re up?”
+
+“Yes, on the wall as we speak.”
+
+Viv cast one last glance at the field of detritus where she was supposed to camp. No. That was just unforgivable. A pure provocation of the lowest order.
+
+“Alright.”
+
+She dismounted.
+
+“Rollo, with me. Sidjin, if you would stay here please. The One Hundred will escort us up the stairs. Masks on, bags down.”
+
+Ban approached, long white beard resting on his massive runic chestplate.
+
+“Battle formation ma’am?”
+
+“Yes but let me take the front.”
+
+“Ah, Your Majesty, there was someone I wanted to introduce you to.”
+
+Viv raised a brow. It was quite unlike Ban to interrupt her so it must have been important. As the One Hundred approached, she took in a newcomer by Brick’s side.
+
+Now Viv had seen some pretty hot people around considering stats just made people healthier and gave them better skin. She’d also seen some really muscular guys such as Ban himself and Solar when he trained bare-chested. But this guy? This guy was a younger Zeus. He was tall as hell too. An absolute giant.
+
+Clad in steel from head to toe, he was the kind of guy she’d put on recruitment posters if they were a thing.
+
+Brick looked at him then averted her eyes, blushing.
+
+Fleeting dreams of the perfect genetically engineered himbo floated through Viv’s addled mind, but she cast them aside. Eugenics was for losers.
+
+“This,” Ban said, “is Ban the Younger, my eldest son.”
+
+Viv was rendered momentarily speechless.
+
+“How very imaginative, Ban.”
+
+“Ban is a great name,” Ban replied. “My son also ranked first in the ranking competition as soon as he joined. I trained him myself.”
+
+“Wow…”
+
+That was absolutely impressive.
+
+“He has sworn fealty to you, aye? Your Majesty,” he finished as an afterthought. “He’s my second in command. Unless, of course, you want to test him yourself.”
+
+“I doubt you would accept anything less than excellence.”
+
+“If that’s a fancy way to say I’m a hardass, then aye. Your Majesty.”
+
+“Well then, Ban and Ban, I hope you’re ready to impress.”
+
+“Aye ma’am.”
+
+Viv looked around and found a set of stairs adjoining the wall. It was wide enough to accommodate a carriage which suited her just fine. The base started next to a rather small gate peeking from underground, which made her wonder how practical sallies even were. She moved up the slope at a short jog.
+
+Behind her, the One Hundred trampled the stone with their steel-capped boots in perfect unison. The booms alerted two sentries lounging in the middle of the road. They moved to the side, paralyzed with fear. Viv stopped right in front of them.
+
+Her intimidation flared. They were both shorter than her and clearly not the pick of the litter. She grabbed one of them by the collar, then slammed him against the wall. Her wings spread behind her like omens of doom.
+
+“You. Who the fuck’s in charge of this section of the wall?”
+
+“I… I… I…”
+
+“WHO IS YOUR SUPERIOR?”
+
+“Lord Redclaw, ma’am!”
+
+She dropped him on his ass and cast a quick mirror spell just to be sure.
+
+Monster eyes? Check.
+
+Bone spike reforged war crown of the Old Empire? Check.
+
+Tall? Fucking check. She would never be tiny again.
+
+Silverite-embroidered regal battle robes? Hell yeah, custom made and it had pockets.
+
+She looked great.
+
+“Onward!”
+
+It took only a few seconds to reach the top of the wall. Although it was rather low here, it was still wide enough to allow for multiple layers of defenders and their supplies. Right now, a hundred or so soldiers huddled in confused squads, uncertain as to what was going on. Viv had no intention of letting them recover.
+
+“Where is Redclaw?” she asked in a deceptively cold voice.
+
+[Aspect of the Sovereign]
+
+Intimidation crashed into them like a wave. The squads wavered, taken by surprise, and a path was instinctively cleared towards the perpetrator of today’s indignity.
+
+He was a thin, aristocratic man in mage robes bearing the symbol of a claw. In red, of course. Right now, he was looking like someone who thought he was doing a fun prank only for two cop cars to pull up in front of him. Viv made a beeline for the fucker. Behind her, the One Hundred pushed his men aside by sheer weight.
+
+She only stopped when she was so deep in his personal space he might ask for rent.
+
+“Do you think this is a joke?”
+
+She smashed her intimidation aura into him. He had some leadership of his own, but under Viv’s monstrous, aspect-boosted power, that resistance crumbled.
+
+“I asked you a fucking question.”
+
+“Who do you think you are?”
+
+“You know exactly who I am. Now, you’re in charge of preparing our spot. Why is there a landfill there? Is this some sort of jest?”
+
+“We… are defending the walls! I have no time for—”
+
+She slapped him. Her enhanced strength sent him tumbling.
+
+One of his men drew his sword. Viv gestured and… nothing happened.
+
+Damn, she missed Solfis already. He would have understood without prompt.
+
+“Ban, if you would?”
+
+The armed man got an instant face full of tower shield. He didn’t stand back up. Redclaw did, however, gasping with disbelief. Viv grasped him by the collar and lifted him until his feet dangled over the ground. She felt red mana coil but even in his stressed circumstances, the man knew that casting offensive spells would lead to his death.
+
+It was immensely cathartic grabbing people like puppets like that. Viv spared a kind thought to the planet for giving her physical stats as well.
+
+“I am giving you and the traveling clown show you call a troop two hours to clean the mess you made, the time it will take me to meet the rulers of the Paramese alliance. If it’s not done when I return then I’ll throw you on the beastling side. Without your feet.”
+
+“WHAT?”
+
+With the help of some telekinesis, Viv tossed the harried noble over the parapet and right on the nearest pile of refuse. His scream was abruptly interrupted, then the swearing began. It wasn’t a very long fall.
+
+Viv allowed herself a smirk.
+
+“See you lot very soon.”
+
+***
+
+By the time Viv left for the city itself, the work had already started. Redclaw had tried to leave the place but having almost two thousand annoyed Harrakan soldiers standing around meant that it was actually quite difficult to depart unnoticed. She rode across a well-traveled road at the head of the Knights of the Blue Rose towards the imposing gates of Glastia. Although she was here as a full member of the alliance, Sidjin and her headed the formation side by side to show that the fallen prince was no one’s lackey.
+
+The ride almost changed her view on Param’s politics. Almost. Past the Golden Order’s encampment, they came across forces from Enoria, Baran, from Neriad’s various smaller orders, then mercenary companies and the like. Each encampment proudly displayed the identity of its owner in either style or structure. Some of the mercenaries had been here for so long that the camps were more permanent fortified barracks than temporary lodgings. Some of the poorer groups didn’t even have tents. They slept on the ground.
+
+The important thing Viv picked up was that there was absolutely no way a city, even one as rich as Glastia, could sustain such numbers. It meant that the rest of the alliance had maintained a presence mighty enough to stop the horde here for over five years, reliably. An achievement she had never expected from the bickering collection of egos that formed said alliance. It was heartwarming in a way. Some leaders here were smart enough to realize danger before it knocked on their windows. Honestly, she wasn’t sure the governments of earth could have done any better.
+
+“Glastia,” Sidjin whispered. “It has been too long.”
+
+Viv returned her attention to the city-state as they approached its noble walls — those much older and made properly from the start. She had to admit, if it wasn’t embroiled in constant conflict, Glastia would be a much larger player. First, the Harrakan delegation rode through a monumental gate defended by guards in puffy red uniforms, then through the outer circle which was where Glastia’s poor districts, warehouses, and most artisans were. People here worked even as the distant retorts of exploding spells roared from over the walls. Viv looked up, but the defensive structure blocked the sight.
+
+“There is always a raid happening somewhere. People have grown used to it by now,” Sidjin stated.
+
+A dark cloud came over his features.
+
+“Sometimes, I couldn’t fall asleep unless I heard the sound of battle.”
+
+“Huh.”
+
+He kept quiet while they traveled under another high arc. The middle city held banks, trader’s offices and other important services. Viv recognized elements of northern architecture in the thick columns and flattish roofs, though many lacked the splendor of Helock. A diverse crowd busied itself throughout the city. Wealth wasn’t seen in jewels but in the nice cut of clothes, a visible concession to the constant siege. Nevertheless, Viv found they lacked the fear she’d seen in other places. The constant slaughter had become a routine. Hell, there were eight year old kids who couldn’t remember peace.
+
+The highest and most fortified circle was occupied by the palace, as much a keep as it was a seat of government. The place was crowded with elites in elaborate armor, war mages and bristling nobles. A tired seneschal kindly requested that her retinue stayed behind before leading them deep into the palace, through what Viv was pretty sure were reconverted stables.
+
+“My father used to keep his vaunted stallions and chargers here,” Sidjin confirmed. “I used to come here between lessons to brush my favorite mare. They’re gone now. Sold out, to placate the nobles.”
+
+“I imagine you have a lot of memories here.”
+
+“It was my home for close to thirty years,” he said with a shrug.
+
+Viv kept an eye on her paramour while he looked around, brows furrowing at either memories or differences with said memories. There were a lot of people who looked at him, but there were also a lot of people who looked at the elemental archmage with a crown so it was hard to gauge how bad it might get. The thought of assassination attempts did cross her mind.
+
+It didn’t take long to reach what had to be the throne room. The space where court would be held had been cleared, and a massive wooden table now occupied the center of it. A detailed map of the wall and the land beyond caught the eye with nice colors and some magical effects. Right now, a dark mass of wriggling creatures battled on a ramp leading to the outer wall. That was certainly a nice enchantment that Viv definitely wanted to steal.
+
+“I shall leave you here. We are still waiting for a few guests, so please make yourselves at home. You will find refreshments in the corner.”
+
+“Thank you, Eldrim,” Sidjin replied absent-mindedly.
+
+The seneschal allowed a very sad smile to fold the corner of his lips before he bowed and left. A quick glance around showed familiar faces, one of whom was heading straight for her.
+
+“My student! Hahahaha.”
+
+“It’s good to see you, General,” Viv greeted.
+
+Old Steel Trap looked much better than during the previous conflict. His curly beard covered his robes and the beginnings of a small belly, a sign he hadn’t been on the campaign trail in a long while.
+
+“I see my Bitter Heart deserter is feeding you well,” Viv teased.
+
+“I married her! Great woman. Incredibly patient and understanding. Can outdrink me, which I thought impossible but here we are. Oh, I got your message and I gave it some thought.”
+
+“Oh? Should we discuss salary?”
+
+“I regret to say that no, I will not defect to the Harrakan Empire. You are not the first to offer to recruit me, you know? The others had the decency of gifting me jewels and weapons, at least.”
+
+“I meant no disrespect.”
+
+General Jaratalassi guffawed.
+
+“Ah, you are too pure yet. And no, I must remain as neutral as can be if I hope to keep this alliance working. Not that it will prevent me from rushing to you to show my preference for members who actually show up when I ask!”
+
+He turned at that, and the shoulders of a nearby nobleman tensed.
+
+“I do, however, have a student of mine that could fit you. Despite his incredible talent, he managed to alienate every possible recruiter due to his terrible personality.”
+
+He grinned.
+
+“But I suppose that just means you two will get along just fine. Don’t lose your patience too fast, he’s worth it. In any case, there are more people to greet for this old man. Why don’t you two go around a bit? We will begin shortly.”
+
+Viv nodded, then grabbed Sidjin’s elbow to allow him to guide her through the room. There were only forty people or so here, and she happened to know at least half of them by sight. Maybe she was getting experienced.
+
+The Enorian representative turned out to be a southerner she knew, one of those who’d readily turned their back on the loyalist cause to welcome Harrakan trade. The Baranese representative, however, proved quite cold. She guessed she’d burnt that bridge by allying with their resurging rival Enoria. Sidjin then deftly guided them through a gauntlet of northerners including his half-sister Shaya, who seemed pleased to receive their consideration. Viv was surprised to see the champion of the Mornyr arena. The dour blade master was far too quiet to claim a title as boisterous as ‘dragonslayer reborn’.
+
+“And you must be Viviane and Sidjin,” a voice said in the northern tongue.
+
+Viv turned to see a short woman in heavy gold and black plate stand with her arms behind her. Next to the diminutive commander was a tall girl with high cheekbones and a haughty demeanor. Both were dark-skinned, but while the commander’s hair was gray and very short, the tall warrior’s own fell in long braided tails over her shoulders.
+
+“Oh, you must be of the Golden Order. You worship Enttiku, yes?”
+
+“We are indeed her warrior priestesses. You have very few threads, hmmm, interesting. You must be very hard to kill.”
+
+“I try, thanks.”
+
+“I am Order Master Kreta. I understand that we will be covering each other’s flanks during the advance, from the way our encampments happen to be side by side.”
+
+“Your reputation precedes you. I am looking forward to seeing you work.”
+
+“Indeed. Our goddess watches over your work in the deadlands with a pleased eye. It would have been easy for a black mana expert to expand into necromancy, yet you decided not to. We take note and we approve. When the time comes, we will be at your side.”
+
+Viv nodded.
+
+To be honest, she’d completely forgotten she could technically learn necromancy. It was just a massive waste of her time.
+
+“Well if it isn’t my dear brother Sidjin.”
+
+Short dark beard, dark elegance, and thwarted heir ambitions announced the coming of Medjin, Prince of Glastia and an absolute twat. Viv kept her temper in check. This was up to Sidjin. He’d been very clear about that.
+
+“Have you found your arrangements to be to your satisfaction? I thought it might suit the quality of your character.”
+
+“Oh you flatter me, brother,” her paramour replied with a pleasant smile.
+
+Only her familiarity with him made her realize that under his polite mask, Sidjin was absolutely livid.
+
+“But no, it is not my habit to have someone else’s underlings clean for me.”
+
+The implication made Medjin frown. Viv guessed dear Lord Redclaw might not appreciate having been worked to the bone for someone else’s revenge as well.
+
+“I see you still keep to the same… company,” Medjin countered.
+
+Viv remained impassive. The asshole prince was just trying to get her to lose her temper. It would reflect poorly on Sidjin.
+
+“Oh my company will be as pleasant as I like once you’ve turned around and fucked off.”
+
+Eh?
+
+She thought she was supposed to be the iron fist and he would be more diplomatic? Red mana bubbled under Sidjin’s controlled aura, and even now, a few of the more experienced warriors were turning in her direction.
+
+“Remember, brother, I kill for honor, I kill for Glastia, but you, I’d always kill for pleasure. Anytime, anywhere, you and me, just say the word.”
+
+Medjin paled a bit. Perhaps he had forgotten that Sidjin was an archmage named ‘the Red Mist’ before he even developed teleportation, and that little display acted as a reminder. In any case, he left, which was a relief.
+
+“Alright everyone, the representatives of Zazas just arrived. Please take your place at the table,” Jaratalassi clamored above the hubbub of conversations.
+
+Viv once more appreciated the fact that whoever had organized things had made quite sure to place people who didn’t like each other at either side of the round table, within sight and out of range of a random punch.
+
+“First, a word from the king,” the old general said.
+
+Sidjin’s father stood with regal grace. Viv appreciated that he’d joined them at the table rather than sat on the throne. It was a small gesture but a meaningful one, and the other representatives seemed appreciative.
+
+“Thank you, my friends, for coming to Glastia. It has been a long fight. We have bled and sacrificed much as an alliance but now, the time has finally come to bring an end to this nightmare that has cost us far too much. I will let the good general explain the plan, however, I felt it important to keep you apprised of the situation now. There are three developments I will explain before we begin the planning stage.”
+
+Viv nodded, as did the others. She appreciated that he wouldn’t waste too much time on posturing.
+
+“First and as you know, the number of beastlings has decreased significantly over the past three months. There was a time when attacks would be constant, when beastlings covered the land outside the walls like a spreading plague. Those were the darkest days of Glastia. I am pleased to announce that their numbers have finally dwindled, as have their food reserves, and we have confirmed a great many cases of cannibalism. We finally have an opportunity to attack. That is, unfortunately, the only good news.”
+
+“In the past month, we have seen an increasing amount of partial or tame aberrants.”
+
+Cries of stupor and horror spread throughout the room, as did mumbles. Meanwhile, Viv’s mind went through a logical path.
+
+The shamans of the beastlings used to draw power from the divine scorn of Efestar. It so happened that the God of Vengeance had stopped answering their call. With Octas out of commission for a long time, they’d turned to new options.
+
+That left Gomogog.
+
+And the semi-dead one.
+
+“Impossible. Aberrants are the bane of existence, of reality. There are no powers that could possibly twist them to service. Magic doesn’t even affect them properly!”
+
+“There is,” a voice said.
+
+The resident bishop of Neriad was a dark-skinned woman wielding a staff. Scars criss-crossed her skin.
+
+“The Righteous God has spoken to me. There is a dark god they thought dead at the hand of Maranor herself, but it appears some of its essence is returning as a corrupting wave. His name was Khaton. Khaton the poisoner, or Khaton the defiler. He is a long forgotten blight that rises in the wake of Octas’ weakening. This might be his attempt to return.”
+
+“And his domain is… aberrations?”
+
+“His domain is defilement, abasement, corruption. Or rather, it is what is left now that most of him has died. Do not mistake the dead god’s nature for weakness, however. No matter how dead he might be, his lingering essence is no less dangerous to us mortals. It is this essence that the beastlings are tapping into right now. It will bring them power just as it will consume those who partake.”
+
+“How dangerous are they?” the Baranese envoy asked.
+
+“They will resist mana effects, will fight longer, be much stronger. Wounded soldiers might become infected and die.”
+
+‘WHAT?”
+
+“The churches will provide their support to prevent this from happening, but we cannot be everywhere. The best would be to avoid being wounded by infested flesh.”
+
+Viv sat back in her chair. Damn. It couldn’t have been easy, huh. There had to be something that went horribly wrong. She thought she’d have some respite after Octas’ fall but now they had a new contender for the title of divine shithead.
+
+She massaged the bridge of her nose.
+
+There was a third piece of news.
+
+“And finally, we have confirmed aerial reports that the beastling leaders are building a fortress.”
+
+This time the stunned silence only lasted a second.
+
+“What do you mean, build?”
+
+“Inconceivable. Are you jesting?”
+
+“This has never happened!”
+
+“Enough!”
+
+The king was not unkind even as he chastised the other delegates for losing their cool — mostly nobles and lesser leaders. The generals and those like Viv remained quiet.
+
+Viv was starting to ask herself questions about the beastlings. If enough gathered, what happened then? Could the smartest of them become capable of negotiations, since they were capable of at least stacking one stone on top of another? It would have been interesting to try. Farren would have tried to talk to them.
+
+Unfortunately, he was dead, and the beastlings were being preyed upon by Khaton. So. Yeah.
+
+Genocide it was.
+
+“We believe that the various beastling hordes will gather to fight us if we march on the fortress and take it, slaying all their leaders in the process. We will need an army capable of laying siege. There is only one such group among us.”
+
+The king looked right at Sidjin, his son, then at Viv, but it was Jaratalassi who spoke.
+
+“We would like the Harrakan forces and their siege weapons to lead this assault.”
+
+Viv didn’t have to think twice. This was why she was here anyway.
+
+“The Empire will answer the call of the Alliance.”
+
+Lak-Tak was going to have a field day.

@@ -1,0 +1,353 @@
+---
+id: ffef7b06-8422-546f-b2f3-dac202689a99
+page-type-slug: story-chapter-royal-road
+title: "FORTY-NINE: Words for Demons"
+slug: 0049-forty-nine-words-for-demons
+partOf: super-supportive
+position: 49
+ownLength: 3431
+unit: words
+publishedAt: 2023-06-28
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1261022/forty-nine-words-for-demons"
+royalRoadId: "1261022"
+---
+
+On Day 152, Kibby woke Alden up with a shriek. It was one of those days when their sleep cycles were way out of synch, so she’d just awakened as he went to sleep. He rolled off his mattress, heart pounding, and saw her sitting on the floor in front of their current television staring at the chaos map.
+
+Expecting the worst, even though he wasn’t sure what the worst would look like, he raced over and stared at it with her.
+
+“Someone’s come,” she said, waving her arms at the tv wildly and looking from it to Alden. “Someone has come to fix it!”
+
+Finally.
+
+Far away, at the edge of the ever-growing wave of color, a chunk was missing. It was a smooth half-circle shape of clean map, like someone had carved the chaos away with a razor. Whoever or whatever had started repairing the damage had arrived. They weren’t exactly at the location Thenn-ar had shown Alden months ago, but they were in that direction.
+
+“Why there?” Alden asked, excited and frustrated in equal measure to see help arrive at such a distant location. “Why not start here in the center?”
+
+“People are in that direction maybe,” Kibby said.
+
+“We’re people. We wrote that we were people on the roof!”
+
+They’d painted a large message on the roof not long after Alden’s birthday. It said, “People living here. We politely request assistance.”
+
+Not at all the urgent HELLLLLLP!!! Alden would have preferred, but Kibby was the one who’d chosen the logograms for it and she was sure polite requests for assistance were the proper way to earn the benevolence of any passing wizards.
+
+“A city used to be there,” said Kibby, pointing a fair distance beyond the cleared zone. “Not anymore, but there are some people still I think.”
+
+They spent the whole day watching the map. And then most of the next. It was nerve-wracking. Clearing the chaos must have been a two steps forward, one step back process. Their excitement peaked every time the cleared space expanded, and they fell into despair whenever the chaos filled it in. The map updated every sixteen minutes. It was a roller coaster.
+
+“All right, that’s enough,” Alden declared, after he heard Kibby growl angrily at the update for the fifteenth time. “This is bad for our brain health.”
+
+“Mental health.”
+
+“That too. We are going to do math, figure out how long it’s going to take them to get to us, and then we’re not going to check it more than once a day.”
+
+“Twenty-six times a day!” Kibby demanded.
+
+“Twice a day!”
+
+“Each,” said Kibby.
+
+“Fine, twice a day each. How far away are they, and how long will it take them to get here at their average clear speed? I don’t know how to read the distances on the map well, but if you tell me—”
+
+“I can do it. I can do the math. If you are quiet.”
+
+Alden shut his mouth.
+
+Kibby stared at the screen for a while, her bare toes wiggling like they always did when she was working on a problem. Then, her face fell. “Oh.”
+
+Alden’s heart sank. He tried not to let it show. “We get to share a room for a long time, then?”
+
+“It’s…it’s a long time,” she said in a small voice.
+
+“Well, that’s all right. We’ll be each other’s company. We can watch a lot more shows. How long is it?”
+
+“One hundred and six more Earth days. If they don’t slow down.”
+
+The chaos raked its fingers against Alden. He took a deep breath and pushed it back.
+
+“That’s not long at all! We’re over halfway there. And maybe they’ll send a ship ahead to look for people here.”
+
+“Do you think they will?”
+
+“I think I would. If I were in charge.”
+
+He spent a lot of time staring up at the sky after that.
+
+Ships never appeared.
+
+In one class, Instructor Gwen-lor started the recording several minutes before the young children entered the room. She spoke to Kibby directly, offering her encouragement and reminding her that she would be happy to answer any questions Kibby might have if she called.
+
+“I wish I could call,” Kibby said with a sigh.
+
+“I wish we could, too,” said Alden.
+
+It was Day 174. They’d watched this video a dozen times by now.
+
+“Do you think Instructor Gwen-lor thinks I’m a bad student for never calling?”
+
+I’m sure Instructor Gwen-lor thinks anyone who used to live here is dead.  “I bet she thinks you’re mastering all the lessons you’ve got, and she’s looking forward to sending you more when communication is available.”
+
+“I wish I could go there.” Kibby stared at the screen.
+
+“To the classroom?”
+
+“I could live there, and every morning at first meal, I could ask Instructor Gwen-lor a question.”
+
+“Do students live at the school?” Alden asked curiously. He only ever saw the classroom, and it hadn’t occurred to him it might be a boarding school. “Even children younger than you?”
+
+“Some of them do. If their family isn’t nearby.”
+
+“I could live there with you.”
+
+“You’re too old.”
+
+Alden gave her his best wounded expression.
+
+“You are,” Kibby insisted. “Someone as old as you has to attend a university instead. I can go to Instructor Gwen-lor’s school, and you can go back to LeafSong.”
+
+“I’m positive they don’t accept human students. And I’d never pass one of Ro-den’s lab exams.”
+
+She didn’t disagree with him. He was so terribly old that he didn’t get loving lies.
+
+“At LeafSong there was a girl who could do that,” he said, nodding at the television.
+
+The instructor had just stepped over to turn off the smart screen built into the wall behind her. She almost never used it for her lessons. The previous class using this room must have been more advanced, because the hand-cast spell steps displayed on the board were really involved. They showed the fingers wrapped with string, like the cat’s cradle spell Jel-nor had used to chop up Stuart’s foot.
+
+“That spell?”
+
+“No. A different one. But she used the string for it.”
+
+“It’s a __________.”
+
+“Ooo! New word. What does it mean?”
+
+“A thing that helps you concentrate. And your authority sticks to it a little bit, so you can control more complicated spells.”
+
+Maybe the new word was something like ‘focusing tool’?
+
+“Sticks to it?” he asked. “Like glue?”
+
+Kibby nodded.
+
+“Can you use any string?”
+
+“Of course not. They’re special. They have to be made —————— so that they tie to you and become only yours.”
+
+Alden sighed. He’d suspected as much. It would have been too easy if he could just grab some random twine and start blowing up things that offended him. Like the thorny vine that had busted out of Hazmat Greenhouse Three and started sneaking its way across the compound a couple of weeks ago. It was purple and oozy, and though it was slow moving, it definitely had bad intentions.
+
+Alden lit the day’s promise stick with a few strategic finger flicks, and they knelt on their cushions. Throughout the lesson, Kibby seemed subdued.
+
+It was a chanting-focused lesson. Not something Alden could do, so during this one he usually cast the hand spells he’d memorized instead. Or, if he was in a masochistic mood, he tormented himself by letting his authority push and shove at the boundaries of his skill.
+
+Now that he’d woken up to the way his power was wrapped within the intricate confines of the skill, straining against it was turning into a compulsion. Like wiggling a loose tooth. Sometimes it actually kept him from sleeping.
+
+Unlike him, Kibby was always laser focused. She went through the motions of every lesson flawlessly as far as he could tell. The fact that she almost never actually cast anything was starting to bother him. She had power. Even if it was clumsier and stiffer than Alden’s, it was still there. She worked at it. She should have been blowing the kids on screen out of the water by now.
+
+When the chanting lesson was over, she batted at the television quickly, trying to find another show.
+
+“Is something wrong?” Alden asked.
+
+“No.”
+
+Maybe one more ask? She didn’t take pushiness well, but she was definitely off.
+
+“If something’s wrong, it’s okay to tell your partner. We respect each other and help each other with class, don’t we?”
+
+“Nothing’s wrong with me!” Kibby said in a high voice. She jabbed at the screen, and it flickered out. She stared down at it.
+
+Alden winced. “That’s all right,” he said. “We’ve still got a few more.”
+
+They had long-since rescued every working screen in the facility, from tablet-sized to medium television-sized, and stored them here in the vault. It seemed to do a little good.  The place was packed to the ceiling with supplies now, which made it less sterile and creepy. But they only had enough empty space to sleep and sit.
+
+Instead of going to pick another television, Kibby just kept looking at her reflection in the dark screen.
+
+“I can’t do both,” she said in a small voice. “I can’t even try anymore.”
+
+Alden waited.
+
+“I can’t do a spell and keep safe. I thought I could. I was getting stronger for a long time. But then I…I don’t think I am anymore. I think today I’m less me, instead of more.”
+
+A uniquely Artonan word for “me.” An expression of identity that included one’s place in relation to everything else in the universe.
+
+Alden knew what she meant.
+
+He hadn’t known when it would happen. Or which of them it would happen to first. But he had known, ever since she told him it would be a hundred more days, that they would probably break down before help came for them.
+
+He’d started to feel the impending disaster of it, lurking somewhere near them.
+
+He could still assert himself. But his askew moments were worse. He kept pulling himself back together, and he thought that the process of wearing down and recovering was still making him stronger. But it was beginning to seem like a fragile state of affairs.
+
+He was getting tired. One day, he would get too tired, and the chaos would start to win the battle it had been losing against him all this time.
+
+An image lit up his mind, one of Kibby’s little sister. Wivb-ee. Still and dead in her father’s arms with hardly a sign of what had caused it.
+
+He tried not to let it show on his face.
+
+“Are you hurt?”
+
+She shook her head.
+
+“Is sleeping under the coat not helping?”
+
+“You said you only gave it to me to keep me warm.”
+
+Alden didn’t answer.
+
+“I thought it was helping. Now I can’t tell.”
+
+“Don’t be afraid. I have plans.”
+
+She finally looked away from her reflection. A tear rolled down her cheek. “You do?”
+
+“Yes. More than one even. If the first one doesn’t work, we’ll try the second. If the second doesn’t work, we’ll try the third.”
+
+“How many plans?” That was the face that was begging for a lie.
+
+“So many,” he said. “So many that a hundred days isn’t even enough to try them all.”
+
+Alden had three plans that weren’t really plans at all. They were just insane things he was willing to attempt after every other option had been exhausted.
+
+Living in demonville made you think about who you really were and what you could really do when you had your back pressed up against the wall. Alden had learned a lot about himself. Now, he just needed to manage what he hadn’t been able to up until now—figuring out which of the first two plans was the least likely to result in a horrific outcome.
+
+He sat on his mattress, writing in one of his notebooks, while Kibby lay under the lab coat watching a talk show on a tablet. The host was interviewing a griveck.
+
+It seemed that Sophie’s sense of humor wasn’t unique. The show had improved Kibby’s mood. She kept giggling and repeating things the griveck said as the Artonan translations went across the screen.
+
+“Slaughter him,” she whispered. Then she laughed again.
+
+“Hey, short and violent one,” said Alden. “When you finish with that show can I ask you a question?”
+
+Kibby paused the device and sat up. “About your plans? When are you going to tell them to me?”
+
+“As soon as I pick my favorite, Instructor. I don’t want to embarrass myself in front of you. Let’s talk about demons.”
+
+“Yay.”
+
+Alden snorted so hard he almost dropped the notebook. “I wanted to ask you about the big thing—the one that made the trails in the grass before it all died. Could it still be out there, or would it have faded away like the bugs?”
+
+“I don’t know.”
+
+“Could there be more like it?”
+
+“I guess so. There aren’t many ________ animals on Thegund, though. Or any people around here. So probably not.”
+
+Yikes. “So…the big ones hunt animals for food? They’re intelligent enough for that?”
+
+“What?” Kibby looked confused. “Maybe. I guess? But that’s not what I mean. I explained this to you when we first got here. I told you all the different kinds of demons there could probably be on Moon Thegund with the current level of corruption.”
+
+Alden grinned sheepishly. “I memorized all the words for demon, but I never have understood exactly what the differences are between them.”
+
+She glared at him, stood up, and walked over with the tablet.
+
+She swiped away from the shows and brought up something that looked like a researcher’s hand-drawn notes. She flipped through them, showing Alden page after page of scribbled Artonan numbers and charts. He understood none of it until she got to a page with an embedded video of a sandy-colored grasshopperish bug in a clear box. The box was in the very vault they were living in now.
+
+Mesmerized, Alden watched as the grasshopper slowly morphed. It darkened, lost definition, and gradually became one of the demon bugs he was familiar with. It spiraled up out of its case. Then, some of the runes he was currently sitting on top of lit up, and the demon was vaporized instantaneously.
+
+Kibby said the word they usually used for demon and tapped on the screen. “My father studied them. It was important to know more about them because they’re unique. They have a weak presence, but almost the whole species has high ———————.”
+
+“I don’t understand that word.”
+
+“If you don’t understand you are supposed to say right away!” Language teacher Kibby said severely. “Instead of going around for months using all kinds of different words for demon without knowing what they mean. This is a science word that means ‘potential to change,’ but in a specific way. There are also ——————, —————, and ——————. And some more.”
+
+“It’s…a category that describes the way the bug changes in response to chaos?”
+
+Kibby nodded. “There are lots of categories. For example, things like the food in the greenhouse are different from the bugs. Because what happens to it is more random. Mostly it dies as the corruption increases, but it does all kinds of different things.”
+
+“If all lettuce seeds turned into Thunder Lettuce—”
+
+Kibby groaned.
+
+“—then would it be in the same category as the bugs?”
+
+“No. Because the big lettuces don’t magnify and spread chaos the way the bugs do.”
+
+Oh. The category for demon bugs includes a contagion factor.
+
+That actually made sense. The grasshoppers didn’t just turn into a different kind of grasshopper; they turned into something much more dangerous.
+
+That would make them worthy of study.
+
+There must have been a lot of categories. It would involve some extremely specific scientific terms if he got into it with Kibby, and that kind of conversation could take hours for them to work through. It was a rare opportunity, though. How many bored, genius Artonan children who’d grown up with a bunch of demon researchers could you expect to meet in your life?
+
+Alden was about to commit to getting himself educated, when Kibby said, “It’s bad to be like the grasshoppers. You’re not allowed to work here if you are.”
+
+“People can be like the grasshoppers?”
+
+“Yes. The grasshoppers are strange. They’re all the same way. Most species are more like the lettuce; every member is different.”
+
+“So not just different categories for grasshoppers and lettuce but different categories for every lettuce plant?” Yeah, that would take a while to learn. “Is the demon bug category the worst one?”
+
+She shook her head. “No, I think the worst ones are for things that come from a broken dimension. We didn’t study those here. Maybe Distinguished Master Ro-den did, but that would have been private work. After those, the worst category is ——————-. It means a being with high authority and high potential for magnifying and spreading chaos they encounter. Then there is—”
+
+“Wait,” said Alden, a suspicion growing inside him. “High potential for spreading chaos. Like the grasshoppers. That’s a way people can be?”
+
+“Yes,” said Kibby. “People like that can’t come to this part of Moon Thegund. We all had to be tested every year. I had to get tested more often because my authority was higher.”
+
+“That made you more likely to have high potential for spreading chaos?”
+
+Kibby frowned. “I don’t think so. I think it just means it would be worse if I did.”
+
+“High chaos potential is…a bad thing,” Alden said.
+
+Kibby nodded.
+
+“Um…just out of curiosity, what does a person with high chaos potential turn into if they end up in a place like Moon Thegund. A demon, right? Do they look like the grasshoppers or…”
+
+“I don’t know. That’s a very bad kind of demon. We didn’t study those here either.” She looked at his face. “You got pale. Don’t worry. There aren’t any of those around.”
+
+“How do you know?”
+
+“The map would be worse. Not red.”
+
+“Red isn’t the worst color?”
+
+“No. It’s very bad for Moon Thegund, but it’s not very bad compared to other places.”
+
+“What if there’s someone around with high chaos potential and they just haven’t turned into a demon yet?” Alden asked, trying to hold back a sudden swell of panic. “What if they’re about to do it any minute, and—”
+
+“No! That’s not how it works. The things with high chaos potential turn right away, as soon as the corruption reaches a certain level.”
+
+He blinked at her. “They do?”
+
+“That why the grasshoppers changed before everything else started to.”
+
+“You’re sure?”
+
+“I’m sure.”
+
+One of the functions of the System was to exert a stabilizing effect on my existence.
+
+Alden had been assuming that meant it stabilized an Avowed compared to whatever the normal amount of instability for a human was. And maybe it did sometimes? But it had never occurred to him that it might also be capable of making a repair to a part of someone that was…weak? Broken?
+
+Susceptible to demonization.
+
+Wait. Do all Avowed have high chaos potential? Or only some of us? Hannah tested Bubble of Patient Waiting on lots of people, she said, and it only had weird effects on some children. But I’m sure she probably tested it on tons of Avowed because that’s who all of her friends were.
+
+Is it chaos potential that really matters for getting chosen or the amount of authority you’re born with? Or some combination of the two?
+
+The whole chaos potential thing had only ever been a theory on Earth as far as he knew.
+
+Alden just didn’t have enough info. Maybe he’d had high potential and then…Gorgon had fixed it? And then the System had doubled up on him?
+
+His authority battered against his skill, and it held as it always did.
+
+Kibby was squinting at him. “Were you scared you were about to turn into a demon?”
+
+“No,” he said.
+
+“That’s dumb. We’d both be gone by now if we magnified chaos. Since we don’t, our authority can protect us. Now that it’s fraying we probably will just…we’ll just…like regular people.”
+
+Her lip trembled.
+
+“I have lots of plans, remember?” Alden said quickly. “And this conversation helped me pick which one I want to try first.”
+
+“It’s a good plan?”
+
+“It’s great!”
+
+That was definitely overselling it.
+
+“It’s weird, though. Please don’t think I’m too weird to be friends with anymore.”
+
+“I won’t,” she said solemnly.

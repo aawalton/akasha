@@ -1,0 +1,191 @@
+---
+id: 345759fb-ce72-5cf9-884c-5e16434294ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 607: Dense"
+slug: 0028-chapter-607-dense
+partOf: system-change-system-universe
+position: 28
+ownLength: 2593
+unit: words
+ownProgress: 2593
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2798002/chapter-607-dense"
+royalRoadId: "2798002"
+markedReadAt: "2026-06-29T19:57:38.558Z"
+---
+
+Chapter 607: Dense
+
+“Jace! Your lift has arrived!” Derek shouted as he walked out of the void. He looked around and frowned. Jace actually wasn’t there. Still, he closed the space behind him and sent Silvi a telepathic message that she was safe to come out without any protection for her storage items.
+
+“Derek!” a familiar voice shouted from the distance, and in only a couple of seconds, a lightly panting Jace was standing in front of him.
+
+“What are you doing?” Derek asked.
+
+“Huh?” Jace scratched his bald head, then said, “I was building my Battlelust back up. I wasn’t sure if the Champions from the system were going to start hunting me down, but I wanted to be prepared for a good fight just in case.”
+
+“Oh… that’s… actually really smart,” Derek replied. And it was. In fact, that was the reason Derek was already there. The only difference was that he was worried about the assassin from the Davenresh System and not the Champions. However, Jace was definitely correct in assuming that the Champions might want him dead. “I came here for the same reason, kind of.”
+
+“Great minds think alike,” Jace said.
+
+“Well, I thought about it because Vendra—the assassin that you didn’t kill—took the job as System Watcher just to come find and kill you. So, when she disappeared, I came to pick you up. You do want to come back with me, right? That’s what you were motioning for before you were teleported away, isn’t it?”
+
+“Uh… not really. I was just telling you that you needed to come find me so we could fight again. But I am totally down to go back with you. I like it there. There are people who I think I can get along with—especially that old man, Marrick. He said he wants to fight me again, after all,” Jace replied.
+
+“We’ll do that, then,” Derek said, then chuckled. “Vendra is going to be so mad. We told her that accepting the position would be the easiest and best way to find and take her revenge on you.”
+
+“Really?” Jace snorted. “You tell her that, then you come to get me before she can find me. Then she will be stuck here and never able to find me. Wow… you’re mean.”
+
+“You’re free to stick around and wait for her,” Derek said. “But she is an assassin, and I’m not sure how hard it would be to keep your Battlelust up and ready at all times. I’d hate to be a monster on whatever planet you happen to be on if that’s the case.”
+
+“That would be hard,” Jace said. “But I do also have my surge skill I can use. For that woman, I’m sure I can activate the ability without any prior Battlelust built up and still wipe the floor with her.”
+
+“Yes,” Derek said. “But she is a sneaky assassin. What happens if she makes you do that, and then she runs away? You won’t be able to use the skill again while it’s on cooldown. That would be the perfect time for her to strike.”
+
+“You’re assuming she would be able to get away,” Jace said.
+
+“Eh…” Derek shrugged. “I’ve watched you fight a lot recently. If someone strong wants to escape, I’m not sure you would be able to stop them—especially if they have movement or flying skills.”
+
+“Ah, but you see… that is where you are wrong,” Jace smiled savagely. “Watch this!” he shouted, and in the next second, a near-invisible layer of red aura formed around his body. It actually looked the same as when Derek would cover someone with his Void Creation skill before using Void Travel with them. Of course, Jace’s aura was a weird, staticky crimson color, and Derek’s creation skill gave everything a shade of dark purple.
+
+Still, Derek was intrigued by whatever Jace was doing. Whatever it was, it wasn’t something that he’d seen his friend use before. As he watched, the aura finished forming around the man, and then he slowly began to lift off the ground. Once he was about seven feet in the air, he stopped gaining altitude and just hovered there.
+
+“You got your flying skill!” Derek shouted happily. “Is it good?” he asked as he kicked off the ground and joined Jace in the air.
+
+“It… has certain requirements,” Jace said.
+
+“Requirements? To use the skill?” Derek asked. “What are they?”
+
+Instead of answering, Jace took off in a straight line in one direction. Derek kicked off a void ripple with Void Steps to chase after him. Surprisingly, Derek caught up in an instant and easily stayed beside him. While Jace was flying forward and concentrating, Derek looked like he was just skipping along beside him.
+
+“Well?” Derek asked. He assumed that the reason Jace was moving so slowly was that the skill was at a low level. However, he was very wrong.
+
+“This skill is exactly like me,” Jace said as he flew forward. Suddenly, he tossed his kukri out, and it landed with precision on a vicious-looking beast. After defeating the monster, the blade made its way back into Jace’s grasp, and he kept moving forward and talking. “It is all contingent on how much Battlelust I have built up.”
+
+“Really?” Derek asked. Jace did have a very interesting class, but everything really was contingent on his Battlelust. It was the price the man had to pay to be able to fight above his weight class. “How so?”
+
+“This is as fast and as high as I can move with the skill,” Jace said. “I really was preparing for a Champion to come, but I was also testing my new skill in the process. You may not believe it, but before you came, and when I didn’t have any Battlelust, I could maybe get a few inches up off the ground, and I moved like molasses.”
+
+“That bad?”
+
+“Yup,” Jace said. “But, as you can see…” He shot down and fought with a few monsters for a minute before coming back up. However, instead of stopping by Derek, he rose higher. After the short fight, he was hovering about fifteen feet above the ground. “The skill’s output really does grow perfectly with my Battlelust.”
+
+“I see,” Derek replied with a nod. “Well, it’s both a good and a bad skill depending on the situation then.”
+
+“Not really,” Jace said. “Like I said, I always have Surge of War when it’s off cooldown. That can get me a really big chunk of Battlelust instantly. I don’t know exactly how fast that would make me or how high I could go, but I have a feeling it would at least be enough to keep certain people—particularly assassins who like to turn your blood into water—from escaping.”
+
+“Blood into water?” Derek asked.
+
+“Oh, that’s just the ability those girls had,” Jace replied. “Hmm… maybe it was the other one who had that skill and not this one… I don’t really remember. But one of them was able to make you unable to stop bleeding from any wounds. At one point, I might have had blood coming out of my ears for no reason.”
+
+“Dangerous,” Derek said.
+
+“Yes. To people with bad regeneration,” Jace said. “When you have good regeneration like I did during the fight, the wound would just heal. Blood can’t flow if there’s no way out.”
+
+“Huh…” Derek nodded. “That makes sense.” Finally, he stopped moving, and Jace followed suit. “So, you got this movement skill as a reward? What else did you get? The elf said that you were going to be penalized, right? What happened there?”
+
+“Stupid made-up rules… I think the systems are out to get me,” Jace said. “Nowhere did it say that you can’t go around fighting people from the same system.”
+
+“I think it’s implied,” Derek said. “Then again, I agree with you. You can’t expect everyone to realize that there are implied rules—especially extra-dense battle fanatics.”
+
+“Exactly!” Jace said with a snap of his fingers. “I shouldn’t be expected to follow rules that I haven’t been explicitly given. And I’m going to ignore that comment about me being dense.”
+
+“Do what you want.” Derek shrugged. “But you know as well as I do that you knew that you weren’t supposed to fight people from your system. You just did it anyway because it was fun. You didn’t care one bit about any consequences.”
+
+“Even if that is true, it’s the principle of it all.” Jace sighed. Then, the red aura around him vanished, and he fell to the ground. “If the systems were actually fair, I would be able to sue and get my extra rewards that the punishments took away.”
+
+“Hey, my mother was a lawyer before all… this. They had to start putting warning labels on things because of people like you.” Derek rolled his eyes, then ran his hand through his hair. “Okay, we’re getting off topic. Why does this always happen with you?” He shook his head. “Let’s get back on track. No more talk of lawyers or suing because the cup doesn’t say that the coffee is hot or because the drink doesn’t actually give you wings. Did you get anything other than the movement skill?”
+
+“Other than the skill, I got a couple Skill Upgrade Points from something called the Origin System. I also received a handful of stat points and a Title called Attacker, which increases attacking skills’ power by a very small amount,” Jace replied.
+
+“Oh, then that’s not too bad,” Derek said. “Definitely save those upgrade points. From what I know, they are very valuable. What exactly were the punishments?”
+
+“It took away an evolution… whatever that is… and it chose not to give me credits for the ‘Origin’ System Store,” Jace said. “Oh, but it did ask if I wanted to be the System Watcher. I’ve never declined a prompt that quickly.”
+
+“Same,” Derek said. “And… yeah… it’s a shame about the evolution. That would have made you able to do things like regrow limbs and stuff on your own. It would have given you a body like mine.”
+
+“Dammit!” Jace clicked his tongue. “Stupid Wri and Kelvin. You really should let better Silvi eat that lizard’s tail.” He looked at Silvi, who was sitting on Derek’s shoulder, and nodded.
+
+“Agreed!” a childlike voice rang out.
+
+“No…” Derek sighed. “That’s not going to happen. But other than the evolution thing, it doesn’t seem like the punishment was too bad. You can always earn credits. Plus, I don’t even know how many credits I’m going to get. It may not even be much. Then, it would probably be even less for you.”
+
+“That’s true, but now that you told me about the evolution thing, it stings…” Jace said. “You got credits too?”
+
+“Yeah. Basically got everything you did plus a few things,” Derek said. Then he told Jace about the things he had received.
+
+“So you got seven rewards and I would have gotten five, but instead got three…” Jace said with a nod. “I was MVP of the side I was on, so I guess that seems right.”
+
+“Maybe next time just… I don’t know… follow the rules of the mission? Even the implied ones?”
+
+“We’ll see,” Jace said with a snort. “No promises.”
+
+“Alright, what do you say we get out of here? I have to get back to Savannah and speak with some people,” Derek said. “I also need to talk to you and Marrick about a few things.”
+
+“Fine by me,” Jace replied with a shrug. “I ain’t got shit keeping me here…” He tilted his head and rubbed at his chin. “Unless you want to make a pit stop and take out a second System Watcher. Who knows? You may end up with a Title if you do it.”
+
+“As fun as that sounds…” Derek said. Then he actually thought about it. Finally, he shook his head. “No… I already made the decision to banish her instead of killing her. No point in changing it.”
+
+“Oh well…” Jace shrugged.
+
+“Plus, imagine how terrible a boss she is going to be to all the other Champions,” Derek said.
+
+“Oh… I hope she doesn’t get along with Kelvin. That would be fun to see.”
+
+“It probably would,” Derek said. Then again. “It probably would…”
+
+***
+
+Universal System V3Council Room
+
+“Oh, my god!” Vendra shouted. “Make it stop! Anomaly this, anomaly that… Ugh!” She shouted as she clutched her head in pain. “Red woman! Blue guy! Help me with this. How do I shut all these warnings off? What the hell are Unknown Creatures and why the hell should I care about two of them showing up together?!”
+
+Just then, the teleporter flashed, and a red human man walked through.
+
+“Alright… I’ve got most of my army calmed down and back to work. What’s going on here? Wait! Why… aren’t you a Guardian?” He shouted as soon as he saw Vendra standing and furiously tapping at the nodes on the screen in front of her.
+
+“She’s the new System Watcher,” Amelia replied from the side.
+
+“Oh…” Kelvin looked down. “I think I’m actually going to miss Darvin,” he said.
+
+“Me too…” Amelia replied.
+
+“Hey!” Vendra shouted. “Stop chatting and help me! What are the Unknown Creatures here? Are they Void Beasts? Is that what the system is talking about?”
+
+“There are Unknown Creatures?” Kelvin asked as he walked around the table to stand next to Vendra.
+
+“Two of them,” the new System Watcher said. “They popped up while I was being force-fed information. Ugh!” She clutched at her head again. “I’m still being fed information…” she panted.
+
+“Two… Unknown Creatures? Together? Where?”
+
+“Here!” She pointed at the screen and clicked on the flashing node.
+
+“There… that planet… where do I know it from?” Kelvin frowned, then his eyes widened. “Oh… I see,” he said.
+
+“What is it?”
+
+“That’s the planet that Jace Whitaker is currently on,” Kelvin said.
+
+“He’s there!?” Through the pain, Vendra’s eyes brightened.
+
+“Yes…” Kelvin replied.
+
+“You don’t sound sure,” Vendra said.
+
+“Well… I’ve seen the two Unknown Creatures pop up out of nowhere before. And… that’s really the only thing this could be.”
+
+“What are you talking about?”
+
+Kelvin pointed at the nodes on the screen, then said, “These two ‘creatures’ are Derek Hunt and his bonded companion. It looks like he traveled back to this system to meet with Jace.”
+
+“Meet? With Jace? Why would he do that? And he can just… travel between systems?” Vendra was losing her mind.
+
+“He is an anomaly,” Kelvin said. “And I imagine he’s there to take Jace with him or something if that is possible for him. They seemed to be friendlier than I initially assumed.”
+
+“He’s going to… take… Jace… with him?” Vendra’s eyes grew wide. She was furious. “I have to go. I have to go there. Now. Where is it? Send me there! I have to kill him! I have to kill Jace!”
+
+“You can’t,” Holcom said from the side.
+
+“Oh? And why is that?” Vendra asked, struggling to suppress her rage.
+
+“Because…” the Malaxi said. “He is with Derek Hunt. Look around this room. You, me, Amelia, Kelvin… even if Xephos and Jakis were here… do you really think we could do anything to him? Trischa is out of the picture for who knows how long, so there wouldn’t even be a way to decrease his strength. Therefore… you can’t kill Jace. Not right now. It is not possible.”

@@ -1,0 +1,147 @@
+---
+id: 0d6a8b72-0c0a-5f55-b329-df109cc39381
+page-type-slug: story-chapter-royal-road
+title: "Chapter 598: Epilogue Book 8"
+slug: 0018-chapter-598-epilogue-book-8
+partOf: system-change-system-universe
+position: 18
+ownLength: 2225
+unit: words
+ownProgress: 2225
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2718092/chapter-598-epilogue-book-8"
+royalRoadId: "2718092"
+markedReadAt: "2026-06-29T19:57:19.410Z"
+---
+
+Chapter 598: Epilogue Book 8
+
+“Haha!” Dave stood from his chair and clapped. “I knew I was right to bet on Derek. Whether or not he decides to join me, at least he kept his word. So, Sereph, what do you think of my decision to rely on that man now?”
+
+“It seems that I was too quick to judge, Master Davenresh,” the elf replied with a bow. “As usual, you are correct.”
+
+Dave’s smile grew wider, and he nodded. Then, he began scrolling through all the notifications from the Origin System that were accumulating before him. “I can’t wait to see the look on my brother and father’s faces. Sereph, in the entirety of our tier, how many times has the invaded system defeated the Universal System V3?”
+
+“How many?” Sereph rubbed his chin, then began tapping at the space in front of him for a moment. “In this entire System Universe Tier… against the Universal System V3, not including this time, the invasion has been defeated five times.”
+
+“So I am number six?” Dave asked.
+
+“That is correct, Master,” Sereph replied.
+
+“And of those five, how many of those systems were invaded as early as we were?” Dave asked.
+
+“None,” Sereph answered. “None of those systems were anywhere near as young when they were invaded.” The elf then poked around some more and continued, “In fact, out of those five, only one defeated the invasion as quickly.”
+
+“Oh?” Dave’s eyes widened. “I was sure that we would be the quickest.”
+
+“No, Master.” Sereph shook his head. “The fastest system to conquer the invasion did so three days faster. However, that system was in this tier of the System Universe for dozens of centuries longer than you.” Sereph again moved things around on the invisible status in front of him before stopping and muttering, “That’s interesting.”
+
+“Hmm?” Dave looked at the elf. “What is interesting?”
+
+“The system with the fastest win is the Kaelith System,” Sereph said.
+
+“Kaelith? I would have thought that House Umbravale, especially Lady Valia, would have made a big deal about something like that. Why have I not heard about it?”
+
+“Because of the length of time she spent before the invasion,” Sereph replied. “The Kaelith System may have been the fastest to conquer the invasion, but it was also the oldest system to be invaded by a large margin.”
+
+“Oh… I see,” Dave replied with a nod. “That makes sense. I bet she cloaked the system until she was fully ready for an invasion.”
+
+“That seems to be the case, Master,” Sereph replied with a nod. “Sir… what is your plan with Derek Hunt moving forward?”
+
+“My plan?” Dave shook his head. “I have no plans for that man. He kept his word and has done more for me than most ever will—even if he does not realize it. He is a free man with a great path ahead . Derek can do whatever he wants. I will reward him and speak with him. I will help him if possible. But in the end, it will all be his decision.”
+
+“Would you still offer him a seat?”
+
+“In a heartbeat,” Dave replied. “I would go so far as to give him the closest seat.”
+
+“I still cannot understand why you have such belief in that man,” Sereph said. “Sure, he was able to get you through the invasion with no problems, but that was all because of how you orchestrated things. He should be thanking you, not the other way around.”
+
+“You are both correct and incorrect,” Dave said. “Yes, I certainly helped, but he was already doing well during his introduction to the System Universe by the Universal System V3. And… he was doing so with no real goal in mind. I can tell now that he has friends and loved ones. He is much more motivated. If he would have had that motivation back on his home planet, I have no doubt that he would have ranked first on the leaderboards. Someone like that would be a boon to anyone.”
+
+What Dave didn’t say was how much potential he believed Derek had because of all the time he already spent in the void. He actually couldn’t wait to speak to the man for real once he ascended. It could be possible to finally see his real potential at that point.
+
+“Still…”
+
+“Sereph… I have told you this before, but envy is not a good look on you,” Dave said deadpan. “Just because he is now from the same place you were, does not mean Derek Hunt is someone you need to worry about. Even if offered a seat, he will not accept. There will be no competition between the two of you. He will be just another system user in the Origin System.”
+
+“A void user,” Sereph said.
+
+“Yes, a void user,” Dave replied. “A void user who will stay unknown to the Void Emperor for as long as possible. Do I make myself clear?”
+
+“Yes, Master.”
+
+“Now, it seems that my father is calling me in,” Dave grinned as he raised his wrist and looked at the device he was wearing. “It looks like it’s time to go back to Origin City for a meeting. Notify me if there are any changes I should be aware of.”
+
+***
+
+Soon, Dave opened his eyes and found himself back in his home. It was a quaint home, probably the smallest transcendent housing in the entirety of Origin City. Of course, it was a quaint home made purely of earth and stone, located in his family’s district of Origin City.
+
+Still, as the ‘runt’ of the litter and considered the most useless, Dave preferred to spend his time away from the rest of his family, and he was able to do so through a multitude of means—one being living in a home that looked like peasant housing. No members of his family ever wanted to visit there.
+
+Dave stretched and stood from the meditation circle in his training room. Sure, it was a quaint home, but everything inside was the best of the best—he made sure of that. The entire room was nothing but sand, dirt, stone, gems… anything that could be associated with an earth affinity was inside the room.
+
+When he wasn’t checking in on the system, his seats, or any of the other numerous things that required his attention, he was training. With the Origin System’s help, especially after his recent success with the Davenresh System, it was entirely possible that he could one day be gifted the Title of Exalted Transcendent.
+
+To everyone else, becoming Transcendent was the finish line. To his family and those like them, they all strived to become Exalted. Dave couldn’t care less whether anyone considered him Exalted or not, but he found the idea of becoming the second Exalted from House Gravenholt extremely hilarious, considering how his entire house viewed him. “Davenresh of House Gravenholt, Youngest Heir to the Gravenholt Line. The Second Exalted,” he snorted.
+
+It was rare for any noble house to have more than one Exalted Transcendent. In fact, in the entire Origin System, only five noble houses had two Exalted, and one had three. The Exalted Title wasn’t something that the Origin System handed out to just anyone, after all. His father would have no choice but to grit his teeth and accept Davenresh, and his eldest brother would go crazy. Even with as much trouble as it would cause them all, they would never turn down an Exalted.
+
+A smile crept onto his face as he thought about what was going to happen. Other than Sereph and his other seats—who were all bound in secret by the Origin System—nobody else even had a clue what he had been up to. He’d been silent and stayed away from everyone for decades. It wasn’t unheard of for one as old as he to step away or go into seclusion for decades or even centuries at a time.
+
+However, Dave was still young compared to other Transcendents, and seclusion was boring. It was especially boring when there were so many things he could do that could ‘unintentionally’ irritate his siblings or parents. “It’s unintentional if you make it look that way, at least,” he muttered as he began dressing himself in his formal robe.
+
+His clothing was a bit different from that of the rest of the family. Even his formal clothing was nothing more than a nice brown robe with some green trim. Really, the only thing that made it different from what he usually wore was the family crest—a shattered boulder—on the robe’s chest.
+
+Looking at himself in the mirror, he nodded, then rubbed his eyes. After that, he messed up his hair as much as possible, then smiled. It looked like he’d been asleep for ages and had just woken up. “Perfect,” he said.
+
+Finally, he turned to one of the walls in the room—which did not have any doors—and flicked his finger. Like that, the wall split in the center and opened up. As soon as the wall opened, a figure appeared. It was one of his two personal servants.
+
+Dave had a single maid and a butler—that was it. He needed no more than that. He paid them well. In fact, since there were only the two of them, they were paid better than almost every other maid or butler in his entire noble house. Like his ‘Seats,’ they were also bound—though a bit harsher—by the Origin System to keep any secrets they may learn to themselves. That was common, especially for servants.
+
+If they chose to, they could leave at any time, but they would continue to be bound not to reveal any information about their previous ‘employer.’ It actually wasn’t a bad profession to have—especially in Origin City. The city was, after all, completely under the purview of the Origin System. It was very explicit about what could and could not be accepted as an oath.
+
+“Liora, how have you been?” Dave asked the maid, who had been with him for over a century already. “I hope it hasn’t been too boring lately.”
+
+“No, sir!” Liora said with a bow. “It has been great, actually. I finally upgraded to a Mythical class last month. I wanted to inform you, but you’ve been busy.”
+
+“Congratulations!” Dave replied, genuinely happy for the woman who had been with him for so long. “I’ll look into some things and see what I can provide to help in your quest to become Ascendant. Do you plan on staying on, or will you look for some other career more suitable for your new station? Either way, you have my support.”
+
+“Oh, sir!” Liora frantically shook her head. “I have no plans of going anywhere. I am beyond pleased that I will be able to serve you for even longer now that my longevity has increased. If you will have me, I would like to stay by your side.”
+
+“Of course!” Dave replied. “I will submit the paperwork and see to it that your compensation is increased to one more fitting of your station.”
+
+“That is not necessary, sir,” Liora bowed. “I am already compensated as though I am a servant at the Mythical level. You need do no more for me.”
+
+“No, it will be done,” Dave replied. “I have only you and Hollis as servants. The two of you will be compensated as I see fit. You were previously compensated as a lower Mythical-grade servant, and you will now earn as if you are a top Mythical-grade servant. Unfortunately, I cannot push for you to be compensated as an Ascendant until you actually become one.”
+
+“T-thank you, Master Davenresh.”
+
+“No need for thanks, just continue doing your best,” Dave waved her off. “Now, where is Hollis?”
+
+“I am here, sir,” a male voice sounded as a halfling butler appeared out of thin air.
+
+“It is good to see you,” Dave said. “Do you have any news?”
+
+“No, sir,” the halfling said with a bow. “I have been training, but I am still stalled as a lower Ascendant.”
+
+“Don’t worry about it,” Dave said with a wave. “It is not easy increasing your affinity at your current level. Even getting there is a feat in and of itself. You should be proud. You know as well as anyone how few true Ascendants there really are.”
+
+“As you say, sir.” Hollis bowed again.
+
+“Now, I hear that my father is looking for me?”
+
+“He is, sir,” Hollis answered. “The Great Exalted of Gravenholt has been waiting for some time. He bids that you make haste to the family’s main residence.”
+
+“I’m sure he does,” Dave replied. “I take it the rest of my family is already gathered?”
+
+“Most, sir,” Hollis replied.
+
+“I see…” Dave said. “I guess I should head over there.”
+
+“Sir,” Hollis said.
+
+“Yes?”
+
+“Would you like some lunch first? Liora has gathered quite the exotic ingredients,” Hollis suggested with a wicked grin. “I would be happy to whip something up for you.”
+
+“You know, Hollis…” Dave said. “My family can wait. It has been a while since I had a good lunch. I’ve recently met someone who has reminded me of the importance of a good meal… But the two of you must join me.”

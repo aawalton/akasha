@@ -1,0 +1,105 @@
+---
+id: fa92f8f9-000b-52e1-9697-13d7f966b5a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 629: Mine!"
+slug: 0051-chapter-629-mine
+partOf: system-change-system-universe
+position: 51
+ownLength: 2108
+unit: words
+ownProgress: 2108
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3041603/chapter-629-mine"
+royalRoadId: "3041603"
+markedReadAt: "2026-06-29T19:58:21.896Z"
+---
+
+Chapter 629: Mine!
+
+The illusion of Nivara slowly walked forward. Derek and the others let her go until she was nearly out of their sight. Finally, Derek gave the nod, and Marrick started forward. With every step that Marrick took, he sent a pulse out to check as deep underground as he could. This way, the group would have an early warning from any creatures in front of them or below.
+
+Like that, they began their journey to the “fun” place that Jace had suggested. Nivara moved quicker than they did, so she was soon nothing more than a small dot way ahead of them. Not long after, she completely disappeared from sight. Of course, that was her job.
+
+She wasn’t going to be a sneaky scout. She was acting more like bait. Being that far ahead meant that if something happened to her, they would have plenty of time to prepare. The former queen outpaced them by quite a lot because of how slowly Marrick was moving. The old elf wanted to be certain everything was safe with each step because, while Nivara’s job was to draw enemies out whether they attacked or not, Marrick’s was the safety of everybody in the party.
+
+It was about half an hour later when Nivara—from over Klaus’s shoulder—screamed out and shuddered. At that instant, everyone stopped and looked back. “Let me… down!” she commanded, and Klaus let her roll off the side of his shoulder. She fell face-first but quickly stood and brushed herself off after sending the former Adventurer’s Guild Leader a glare.
+
+“What happened?” Derek asked. “I don’t even know how your illusion works. Were you attacked, so you came back to tell us?” he asked but then shook his head. No… if that was the case, she wouldn’t have come back screaming.
+
+“Was I attacked?” Nivara asked in return, tilting her head. “I… think. I was walking, then suddenly I was looking at the ground while being carried, without any warning.”
+
+“So you have no clue what attacked your illusion?” Derek asked with a frown.
+
+“None whatsoever,” Nivara replied. “I never saw anything. No vibrations from below, no shift in the light indicating invisibility in front of me… nothing.”
+
+“I told you this was going to be fun,” Jace said as he drew his kukri and licked his lips.
+
+Derek frowned, then held his hand out and summoned his new and improved Void’s Harbinger. Everyone was already dressed in battle gear, so they were as ready as could be. Marrick fell to his knees and placed both hands on the ground, even putting his ear to it.
+
+“There’s nothing. If something is moving underground, then it is far beyond my ability to sense,” he explained.
+
+“Which means…” Edgar muttered, then pointed his sword up at the sky. Derek watched him squint, and then lightning appeared on the tip of his sword and struck out. Instead of going into the sky and fading away, it stopped when it hit something.
+
+“How did you see that?” Derek asked.
+
+“I can see the electric currents of certain things… especially things as big as that,” he said as he continued to stare up at nothing. He may have been able to detect something flying in the air, but the lightning bolt he struck it with apparently wasn’t even enough to uncloak it.
+
+“Hit it again,” Jace suddenly said with a predatory grin. He held his kukri out to the side, and he seemed to be shaking with excitement.
+
+The whole time, Edgar was tracking whatever the beast was. So, he shrugged and sent another lightning bolt its way. As soon as the bolt hit, Derek saw what Jace must have seen before. It was like the cloaking disappeared for only an instant before reappearing. But that was all the time Jace needed.
+
+As soon as the creature became visible, Jace disappeared with a move that Derek was all too familiar with. Idiot, he doesn’t even have any Battlelust built up, Derek thought as he used Void Steps and took off into the air as well. Amelia was right on his tail, just keeping pace. He knew that she could easily pass him if she wanted.
+
+But Jace had used his skill that locked onto a target and shot him directly at them. He couldn’t control it, and he couldn’t fly once the skill deactivated because he didn’t have the Battlelust to do so. Still, he flew through the air with his kukri in front of him, and then he hit something. One of his kukris bounced off of something and out of his hand, but the other hit a point that caused a minor cut.
+
+After that, Jace fell. A terrifying roar suddenly sounded out, but the creature remained cloaked. However, both Amelia and Derek were close enough to see a place where small drops of blood were falling from. He looked at Amelia, then nodded.
+
+Derek quickly checked his surroundings—never forgetting what Dave had told him about using his abilities. Of course, there was nobody around. He was just being safe. Finally, he channeled the void into Harbinger and struck out with a Sweeping Slash. He held back on combining it with Multi-Strike for the time being because he didn’t know what he was facing.
+
+As soon as Derek swung Harbinger, Amelia shot straight into the air like a rocket. She flew much higher than the beast, then paused and waited. As soon as Derek’s strike hit where the target was, she dropped—no… she propelled herself down feet first with all the force she could muster.
+
+A massive eruption of blood shot out from nowhere as Derek’s void arc finally made itself known. And just as the blood was spilled, Amelia crashed into it feet first. Finally, it was more than enough to remove the cloaking from the creature. It plummeted to the ground, and when it hit, it caused a devastating crater to appear. And just like that, Marrick was on it.
+
+Not literally, but parts of the beast’s body were already wrapped in sand before it could even make a move. Finally, Derek got a good look at the beast. The first thing he could think of when he saw it was that it looked almost identical to a stingray… a massive, massive stingray the size of a school bus… or even bigger. Or maybe even a stealth bomber…
+
+Maybe it’s more of a sand ray, Derek thought, because the creature was almost the exact same color as the sand that Marrick was covering it in.
+
+“It has as good, if not better, control of the sand than I do!” Marrick suddenly shouted, and spikes of sand began forming and shooting out at everyone close by. Because of its struggle with Marrick, the projectiles were much slower than they would have been and weren’t overly hard to dodge. Derek did let one hit his chest armor just to see and was surprised by the small amount of damage that was actually done to his Mythical-grade armor.
+
+An instant later, Amelia was rocketing towards it in preparation for another devastating kick. Derek, too, canceled his Void Steps and moved through the void with Silvi’s Active Void Shift. At the same time, a Void Lightning Bolt landed directly where one would assume its brain would be.
+
+Yet, it only released another mouthful of blood. Floating above it with his lightning wings, Edgar was hesitating. Yes, he rained down lightning on it, but it didn’t seem to have much of an effect on the creature. Obviously, he was debating whether he should transform into lightning himself and try to damage it from the inside. In the end, he decided against it, and for good reason.
+
+Jakis had been able to almost crush him when Edgar was trying to harm him internally. What would this flying sand creature do? It was most certainly stronger than Jakis, after all. Plus, if he was inside, the others would have to worry about harming him. So, even though he felt useless, he could do nothing but pepper it with lightning bolts.
+
+Suddenly, Derek appeared directly in front of the beast’s mouth. “Hold it for as long as you can!” he shouted to Marrick.
+
+“What do you think I’ve been doing?” Marrick shouted back, and Derek laughed.
+
+“Fair enough,” Derek said as he reared back with Harbinger and began pumping as much void into it as he could. He could feel the ease with which his upgraded weapon allowed the void to flow through it. Derek didn’t have to push nearly as hard. In fact, it seemed like there was more of a push from him and a pull from the glaive. His smile grew wider as the projection of his blade grew more and more solid.
+
+Just then, Amelia landed dead center on the beast. She drove it even further into the ground. Then, instead of jumping off, she placed both hands on the creature—helping Marrick hold it in place with her own skills.
+
+“That’s much better,” Marrick said with a sigh—sweat pouring down his forehead.
+
+“It’s… strong,” Amelia grunted as she tried her best to keep it as immobile as possible.
+
+“I’m going to use all the time the two of you can buy me,” Derek said, and the two nodded. He felt that if he didn’t pour every ounce of void energy into his next strike, it wouldn’t finish the job. So, while they did what they could, he did too.
+
+However, they weren’t the only ones fighting the beast. Suddenly, Derek saw blood spray from behind it and then heard a familiar shout. “Haha!” Jace’s voice broke through the sounds of the struggling monster and others. Derek squinted and saw Jace holding up a small piece of flesh. It was the tip of the sand ray’s tail. He’d somehow managed to chop it off.
+
+As soon as she could, Silvi sent another Void Lightning Bolt at the beast, and it let out another explosion of blood. This time, though, Derek was standing directly in front of its face, so he was covered from head to toe in it. Still, he didn’t care. What was a little mess when fighting something like that?
+
+Harbinger started to slow its acceptance of the void energy. He waited just a bit longer until it stopped completely, then he yelled, “Amelia! Jace! Get clear! Don’t be in my line of fire!” Amelia shot to the side, and Jace took off too. Derek activated Multi-Strike, then let loose the most devastating Sweeping Slash he’d ever executed.
+
+The arc hit the head of the creature but didn’t do much more than draw a little blood. The true attack was the void arcs that came behind it and moved through. This was the part that Derek both loved and hated with a passion. He always had to wait to see the effect of his attacks.
+
+Finally, he saw the results of his overwhelming assault. The blood didn’t explode out of the creature’s mouth but instead slowly poured from it. The blood also flowed from its six nostrils and twelve eyes. The creature began twitching—seemingly paralyzed.
+
+“It’s not dead!” Marrick shouted. He was correct. The beast wasn’t dead, and Derek had a while before he could use Multi-Strike again. If they didn’t continue to damage it, its natural regeneration would surely fix it up before long.
+
+“Shit!” Derek shouted and started pushing void energy back into the harbinger. However, out of nowhere, a Void Lightning Bolt crashed into the creature’s head and was followed by a small, round tornado of blades reinforced by a… regular… Charge.
+
+The ball of blades that was Silvi dug in and minced the creature’s eyes and nostrils, then was sent flying backward. And somehow, that was enough. The creature’s body went limp, and everyone but Jace let out a sigh of relief. Marrick fell to the ground—mentally exhausted—and Amelia slowly limped over to Derek. Her foot was turned at an unnatural angle, as it must have been broken during one of her kicks.
+
+Jace came limping over, too. He had as much, if not more, blood on him than Derek did. The only difference was that Derek was wearing the creature’s blood, but the blood on Jace was his own. His forearm was at an even worse angle than Amelia’s leg, and his leg was literally being dragged behind him, but he at least still had his crazy smile plastered on his face. Silvi came floating up beside Derek, then, for all to hear, she shouted through her communication crystal, “Mine! I Cook What I Kill!”

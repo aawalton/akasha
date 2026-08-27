@@ -1,0 +1,666 @@
+---
+id: 89b4c05d-71ae-526f-823c-7ac1dc610c9f
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED TWENTY-SEVEN:  Let's Feed Her to Victory"
+slug: 0128-one-hundred-twenty-seven-let-s-feed-her-to-victory
+partOf: super-supportive
+position: 128
+ownLength: 4554
+unit: words
+publishedAt: 2024-03-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1558619/one-hundred-twenty-seven-lets-feed-her-to-victory"
+royalRoadId: "1558619"
+---
+
+127******
+Winning felt good. No surprise there. But the jubilant, giddy atmosphere among the members of the team kept ratcheting higher and higher, and everyone was behaving like they’d accomplished something much grander than winning a race against their classmates. They grabbed a spot together on the bleachers while the other two teams prepped for their own runs, and Alden basked in the victory right along with the rest of them.
+
+
+“We need to figure out how to make the pipe into an even stronger cannon!” Njeri said. “Did you see my ice ball take out Febri?! His arm didn’t work for the rest of the race!”
+
+
+Everly nodded eagerly. “Is there something we could do to make pressure build up inside it? So it was more explosive?”
+
+
+“I should try out for the school team in January,” Reinhard was saying. “Ranged Meisters are so good at this game, and it would give me lots of practice time in the gym.”
+
+
+“You know the rules are different for different courses,” said Haoyu. “So they don’t always favor Meisters so heavily…”
+
+
+“Lexi, you’ve got to be relieved you finally got the chance to use Writher on a person, right?” Reinhard asked, clapping Lexi on the back so hard that Lexi almost dropped his water bottle.
+
+
+“The way you put that sounds dark,” said Astrid.
+
+
+“Meisters need to train our weapons on the rest of you. That’s just how it is!”
+
+
+“I was pleased with Writher’s performance,” Lexi said.
+
+
+“He was really pleased,” said Haoyu. “You can tell by his smirk.”
+
+
+“There’s a smirk?” Astrid, sitting on the other side of Alden, leaned around to examine Lexi’s face.
+
+
+“You have to look close,” said Haoyu.
+
+
+“Stop staring at me that hard!” Lexi protested. “It’s just a face.”
+
+
+“Do you not smile much because it would make you look like Kon?” Astrid asked.
+
+
+“Of course not. I’m just not a smiley person. And technically Kon looks like me. I was born first.”
+
+
+“Thank you for carrying my dirt,” Maricel said to Lucille. “And you Alden. And Lexi.”
+
+
+Alden nodded at her. “Are we going to do it that way again?”
+
+
+“Oh, we don’t have to!” Maricel said. “Didn’t we agree we’d try it for one run and then on the next we’d try something different so that everybody—”
+
+
+“I don’t think any of us minded your efforts this time. And Alden did great getting people over the wall fast,” said Haoyu. “So we don’t have to have you for that necessarily. As long as he’s not on the verge of wearing out his skill—”
+
+
+“I’m fine for another run as long as it doesn’t turn into a big drawn-out mess like we had on our Wednesday attempts.”
+
+
+Alden had planned to use his handicap before the next race. He usually ate the preserved breath mint in the middle of class so that he could double run the skill and burn himself out just about on schedule every time.
+
+
+I don’t have to do it that way, though. It might be nice to have a little extra power at the right moment. And I can still feel it out when I’m close to where the limit should be.
+
+
+When he was close to what he deemed half-exhausted, he would quit. If he pushed it a smidge…
+
+
+A Boe-like voice in his head told him that every time he did something like this he was risking people asking questions.
+
+
+I know, I know. Suspicions stack up over time so you have to be careful from the beginning. I’ll only do it the smallest bit. Only if it really counts.
+
+
+He wanted to win again, not just to keep this good feeling going but also because their final run would be versus Team Vandy/Marsha. It wasn’t like he had a rivalry with Winston Heelfeather, but the speedster had been putting so much effort into being a shit since school started that Alden was sure letting him win would be inviting even worse behavior.
+
+
+Or maybe I’m slightly more spiteful than I should be.
+
+
+“Jeffy, you make the water obstacle so fast for us,” Reinhard said suddenly. “We get through it way more quickly than any other team.”
+
+
+“That’s right,” Njeri agreed. “Without you, our runs would take so much longer.”
+
+
+Their voices had both turned encouraging to the point of being sugary.
+
+
+They’re definitely going to try to get him to agree to stay in the tank for the whole next race.
+
+
+It would be the ideal situation for the team. And Njeri and Reinhard were their most vocally competitive members. Alden suspected that Everly and Lexi were just as interested in winning, but they tended to be quieter about it.
+
+
+“You do make things so much easier for us, dude,” he said to the Aqua Brute. Jeffy was toweling off his hair aggressively, like he thought he could bring the waterlogged mohawk back to life. “I’m looking forward to seeing your…land moves…on our next run, though.”
+
+
+The wattage on Jeffy’s smile made up for the glare Reinhard shot Alden.
+
+
+We promised him, Alden silently mouthed at the archer.
+
+
+Njeri slumped in her seat.
+
+
+“I’m gonna use my spell impression so hard for you guys!” Jeffy announced. “I’m gonna attack everyone on the other team with it.”
+
+
+“I don’t think you can use a spell impression hard,” said Everly. She sighed. “But we all look forward to seeing how it goes.”
+
+
+“I can use it hard. It’s like this feeling in your head. Like determination and wanting it real bad!”
+
+
+A crease appeared between Everly’s brows.
+
+
+“That’s the spirit!” said Astrid. “And maybe, after you’ve used it once, you can use your land moves to get back to the tank fast. Like, speedster fast. That would be cool.”
+
+
+“Yes!” said Reinhard. “After we let you attack the enemy, let’s see how fast you can run back to the tank.”
+
+
+Jeffy tilted his head and looked at Reinhard. “Are you scared of swimming by yourself?”
+
+
+Reinhard fumbled the jar of protective coating he’d been applying to his arrow tips and almost dropped it. “What?!”
+
+
+“I mean if you are, I’ll stay in the water for you. You could’ve just told me you were a bad swimmer.”
+
+
+“You…” Reinhard’s face was twitching from offended to exasperated.
+
+
+“He’s not a bad swimmer,” Alden said, before anyone could decide to stuff Jeffy back into his goldfish bowl with that little excuse. “None of us are bad swimmers. We do work faster as a team when you’re helping us with the water obstacle, but we all agreed that we could try things out on the course, so don’t worry about us. We—”
+
+
+“Alden, come down here for a minute!”
+
+
+They all quieted at the sound of Lesedi Saleh’s magnified voice.
+
+
+Alden stood.
+
+
+“Tell me if she says anything about me,” Jeffy called after him.
+
+
+From behind him, Alden heard Haoyu, voice amused, saying, “Do you think she’d call Alden down there to talk about you?”
+
+
+Alden hopped down onto the gym floor and approached the head of the hero program. Principal Saleh was standing with Instructor Klein, murmuring and pointing toward Tuyet’s back as she headed out toward the track with her team.
+
+
+I’m sure Tuyet’s a big part of the reason their team has to fight back to back today.
+
+
+Unlike the first day, when winners had fought double matches, the run order for this afternoon had been pre-decided. The next race would be Finlay/Tuyet/Jupiter versus Vandy/Marsha, then Finlay/Tuyet/Jupiter versus Febri/Shrike. Finally, Alden’s team would go up against Vandy/Marsha for the last run.
+
+
+“Sorry to pull you away from your team right after such an interesting win,” said Principal Saleh as Alden reached them. “You were moving well out there.”
+
+
+“Thank you.”
+
+
+“Instructor Klein says you’re learning a movement wordchain?”
+
+
+Alden nodded. “My roommate’s been tutoring me.”
+
+
+“Which wordchain is it?” Klein asked.
+
+
+“Well, it’s….” I guess I should use the official name?
+
+
+<<My Body Becomes My Assistant>>, he said.
+
+
+Klein blinked at him. The principal lifted an eyebrow.
+
+
+“It increases my awareness of my own body and my control of it. By a lot. The System mentionec it also increases situational awareness the first time Lute passed it to me, but I don’t know that I’ve noticed that much. I’m still getting the hang of it. Lute says there’s a learning curve.”
+
+
+“When you say ‘by a lot’…?” the principal asked.
+
+
+“The other day I unblushed with it. Like I was blushing, then I stopped. That was cool. I haven’t been able to repeat something like that just yet, but the chain’s making moving easier in general. Balance seems to be a big thing. I’m really aware when it’s off, and it’s very easy to correct. Lute says Keiko Velra calls the chain ‘Gracefulness’ so that makes sense.”
+
+
+He thought of mentioning how Lute used it—to gain control of his own facial expressions for acting. But since he hadn’t tried that out himself yet, he left it off.
+
+
+“That sounds like a very useful wordchain,” Klein said.
+
+
+“Lute’s a good tutor. He had to get permission to teach it to me, though.”
+
+
+“Well, it’s obviously working for you,” said Principal Saleh. She gave him a wry look. “So well that you’ve been anonymously reported for drug use.”
+
+
+For a few seconds, Alden just stared at her.
+
+
+“Me?” he said finally. “What kind of drugs?”
+
+
+“Non-specified performance enhancing ones.”
+
+
+“I’m not on drugs!” 
+ 
+It was such a stupid accusation that he was on the verge of laughing…which he belatedly realized was probably not the appropriate response.
+
+
+ “I’m not on drugs,” he said again. Calmly and maturely.
+
+
+“We know,” said the principal. “I was just informing you in case you wanted to get a drug test to nip the matter in the bud right away. Or you can wait. Every member of your class is scheduled for random testing before the end of the quarter. We can just ‘randomly’ test you now instead. If you want.”
+
+
+I guess they’re thinking that if someone throws it in my face, it might be better for me to be able to prove I’m not high on alien stimulants right away?
+
+
+Not the worst idea. And if it was the same test they’d all taken before it was only a few minutes and no big deal.
+
+
+“Okay. I don’t mind.”
+
+
+“Head toward the labs room, then,” said Principal Saleh. “One of the instructors will join you in a moment.”
+
+
+Before he left the gym, Alden accessed his roommate chat.
+
+
+[Alden: Hey, I’m going to be drug tested! :)]
+
+
+He looked up to see Haoyu and Lexi’s startled expressions from the bleachers.
+
+
+[Haoyu: You’re happy about that?]
+
+
+[Alden: I’m so amazing someone in our class thinks I’m a criminal.]
+
+
+Haoyu rolled his eyes dramatically.
+
+
+Lexi was scanning the class. [Lexi: I bet it was Heelfeather. He’s already gone out to the track, but I bet it was him.]
+
+
+….yeah, he’s the most likely suspect.
+
+
+[Lute: Is this because of the wordchain?]
+
+
+[Alden: Probably. The teachers seem to think so. I’ve become a source of envy with a single chain.]
+
+
+It made him want to learn dozens more and apply them all at once to see if Winston’s head exploded.
+
+
+I need to figure out how many hours I put into learning this one altogether. I feel like it was a really good return on my investment.
+
+
+He added it all up while he left the gym and headed toward the room where they’d done his last drug test.
+
+
+There were all the lunch time tutoring sessions. I could count the in-class tutoring as half since we were only partially focused on me, the time we spent in the privacy booth, all the practice during breaks and in the evenings…
+
+
+More than forty hours probably.
+
+
+Studying the wordchain had taken over his life when he wasn’t in school or practicing spell casting instead. But he had it now. If he made sure to cast it at least once a week, he shouldn’t forget all the little gestures that went into it, and if it always landed for him…
+
+
+It’s more than worth it.
+
+
+I wonder what Lute really ought to be charging me for the tutoring. Even if we ignore the fact that he had to vouch for me with the Palace of Unbreaking to teach this one, there aren’t a lot of amazing wordchain tutors available for the uncommon chains.
+
+
+What do S-rank Avowed charge to teach you things only they can teach you?
+
+
+By the time Foxbolt arrived to test him, Alden had looked up the hourly price for S-rank personal trainers at North of North. They were the kind of people who worked with you in the heavy-hitters gym when you yourself were a beginner heavy-hitter who needed someone to give you one-on-one advice about proper technique for headbutting pickup trucks into submission.
+
+
+He figured it was the best equivalent he could come up with. Lute was only a teenager, but he was a Chainer. They were a really rare commodity.
+
+
+“Let’s get this all squared away!” Foxbolt said, walking down the hall toward Alden with a spring in her step. “Excellent work mastering your new chain so quickly!”
+
+
+She winked. She winked a lot at everyone. It made her eyeliner do the color switch from blue to orange and back. According to Reinhard, who kept track of all the faculty members’ hero careers, it had been a cute camera habit for the instructor when she was a full-time superhero. Now that she was taking a break to spend more time with her family here on Anesidora, she still hadn’t stopped doing it.
+
+
+“Not scared of needles, are you?” she asked, letting Alden into the room and opening a cabinet to grab supplies.
+
+
+“I am not.” He watched the bones of a holographic skeleton in the corner slowly change shape, presumably to mimic the effects of a Morph’s talents.
+
+
+“Great! Have to ask!” Foxbolt said. “We’ve got a second year student who’ll take a sword to the face in gym and keep going without a flinch. So I didn’t ask her before I gave her a little finger poke, and she hit the floor like I’d turned her legs into custard.”
+
+
+Alden held out his hand and let the instructor jab him with the needle. She wiped the drop of blood onto a test strip, he spit into a vial of potion, then stepped into the body scanner.
+
+
+“Going to go ahead and check you for magical tools as well,” she said.
+
+
+Alden’s heart beat faster. He was hyperaware of it thanks to the wordchain.
+
+
+Calm down, he told himself. Control your expression.
+
+
+“Sounds good.”
+
+
+He’d already been through this before. The scanner didn’t pick up on the auriad last time. It wouldn’t this time either.
+
+
+It’s closer to being a part of me than it is to being the kind of magic tool the school checks for.
+
+
+Alden assumed something like Joe’s enchanted ring would set it off.
+
+
+He made his body relax, and he stood still while the scanner worked. Foxbolt was watching the test strip do absolutely nothing.
+
+
+“The wordchain can be quite a feather in your cap,” she said. “If you use it often enough for us to be sure you’ve mastered it and can put it into play on demand, we’ll add it to your official transcript. It’ll become an additional proficiency consideration for entry into certain courses…and for when you’re trying to get jobs one day, of course.”
+
+
+The scanner stopped. Foxbolt was quiet for a moment as she received the readout.
+
+
+“You’re not on drugs,” she announced. “Keep it that way.”
+
+
+“Will do.”
+
+
+“You can head back to the gym now. By the way, how’s it going with the rope?”
+
+
+“I wish it was a poncho sometimes. Otherwise, it’s fine.”
+
+
+She laughed. “Keep plugging away at it! You’re just getting started, and you’ve got your whole life ahead of you to turn it into something amazing.”
+
+
+Alden paused on his way out the door.
+
+
+“Thank you.”
+
+
+There wasn’t really anything else to say, so he spun the knob and headed out.
+
+
+That was unexpectedly nice to hear.
+
+
+“You’ve got your whole life ahead of you,” was one of those throwaway things people said. But it felt a lot less throwaway these days than it used to.
+
+
+I’m not going to die in that awful place. I’m not going to watch Kibby die. My biggest problems, for the next few months at least, are wondering when Boe will get himself unstuck from catspace and dealing with Winston Heelfeather thinking I’m cheating in gym class.
+
+
+Life was really sweet right now.
+
+
+******
+
+
+“Lute!”
+
+
+Alden had ducked into the bathroom, and he was just in time to spot a pair of combat boots disappearing from the narrow gap at the bottom of a stall door as the owner tucked his feet out of sight.
+
+
+“What are you doing here?”
+
+
+The door opened to reveal Lute sitting on top of the toilet lid. He was still wearing his homemade yarn tank top over his t-shirt. “What the fuck? Can you see through walls?” he asked.
+
+
+“I know all your footwear,” said Alden. “I’ve been watching you check for Shoe Pisser’s interference for weeks now.”
+
+
+Then he realized why his roommate was probably hiding out in the bathroom in a building where he definitely didn’t belong. “Were you worried about the team? Have you been spying on us?”
+
+
+“No!”
+
+
+“You were! I’m going to tell Haoyu you’re a spy, too. Lexi and I are the only truly honest men in the lodge.”
+
+
+Lute dropped his feet and stood up. “I was just making sure my wordchain students were actually using what I taught them. I was going to be very angry if I spent hours tutoring those idiots and they didn’t even bother to chain up before the course.”
+
+
+“They did. I think Reinhard actually tried to do the energy chain twice, but it didn’t work the second time.”
+
+
+“They become harder to call toward you as you stack more of them.” Lute took a step closer to him. “Soooo…Self-Mastery was so good you got drug tested?”
+
+
+Alden held up the finger that had just been pricked. It was now sealed with a waterproof bandage.
+
+
+“They stole my blood and everything.”
+
+
+Lute looked pleased. “I know something that small shouldn’t make me feel like I’ve accomplished anything, but it does.”
+
+
+“I can’t stay and talk to you,” said Alden. “I have to do my business and get back to the gym. But yes. You’re the best. Are you just hiding out in here until we start running again or…?”
+
+
+“Once people get on the indoor part of the course, everyone seems pretty distracted,” Lute replied. “I just watched a little from the sidelines. Couldn’t see everything, but I saw enough.”
+
+
+“I’ll show you all our recordings later,” Alden promised.
+
+
+Less than a minute later, he was out of the bathroom and on his way back into the gym.
+
+
+He mentally pulled up the North of North website again and navigated to the page where they sold memberships. Then he texted Lute.
+
+
+[Do you ever work out?]
+
+
+[No. Are you insinuating something?]
+
+
+[Of course not. Just a sec.]
+
+
+He bought the annual spa package. It granted you access to the fun stuff at North of North—relaxation rooms, the pools, and one free spa treatment a week.
+
+
+[Here,] he texted. [A thank you present.]
+
+
+Lute didn’t respond until Alden had nearly reached the team. Instructor Klein was with them. He seemed to be busy breaking down the offensive and defensive decisions everyone had made on the course.
+
+
+[You didn’t have to get me anything,] Lute wrote.
+
+
+[You didn’t have to spend forever teaching me. It’s just me being friendly to a friend. Don’t sweat it.]
+
+
+[I plan to sweat it. In the fancy saunas. I believe I’ve told you I am well trained in the art of spending other peoples’ money.]
+
+
+******
+
+
+By the time the race was a third of the way through, it was obvious that the Finlay/Tuyet/Jupiter team was going to wipe the floor with Vandy/Marsha. Even though Vandy provided a decent counter to Tuyet’s darts. The Sky Shaper turned the air turbulent over virtually every part of her team’s course any time the opponent was on the attack, and since Tuyet couldn’t tell which way the wind was blowing between her sniper perch and the other team’s members, she couldn’t account for it with her throws.
+
+
+“This is where my shooting has an advantage,” Reinhard whispered.
+
+
+“Sure it does,” Lexi said.
+
+
+“It does! It’s not like when I try to shoot at Shrike with his skill active. My arrows will adjust themselves back toward the target if it’s only wind in the way.”
+
+
+“Could you shoot through Vandy’s level of air movement though? I thought you said it would be hard when we talked about it before?” Haoyu asked.
+
+
+“It depends on how much wind is blowing between me and the person I’m aiming at, and air is, unfortunately, invisible.”
+
+
+“So you have exactly the same problem as Tuyet,” Lexi concluded.
+
+
+“Now you’re just being an ass!” Reinhard exclaimed. “This is why everyone likes your brother more.”
+
+
+“I’m reminding you not to take wild shots. You have a history—”
+
+
+“I’m the captain now, and I order you both to stop fighting,” said Haoyu. “You’re creating tension on board my tightly-run ship.”
+
+
+“Our tightly-run ship,” said Astrid.
+
+
+“We aren’t on the course yet,” Lexi pointed out.
+
+
+“Astrid and I are already co-captaining,” Haoyu told him. “Monitoring your morale, ensuring good behavior.”
+
+
+“Anyone who says anything negative to another teammate before the end of class has to chew jerky so that they can’t talk anymore,” Astrid added.
+
+
+“I like that!” Haoyu said.
+
+
+She nodded. “Punishments should fit the crime.”
+
+
+Alden was paying more attention to the happenings on the course than their conversation. Max was out, taken down by Jupiter on his way up the wall. He’d hit his head, and it looked like it was going to count as unconsciousness, rather than death, which was the worst possible outcome from a game perspective.
+
+
+“We’ll have to deal with Max for most of our run, then,” he said.
+
+
+There had been some question about whether or not his team was going to overuse him on the first run again, but since he was currently unable to cast, he’d probably be able to do a lot more damage when they faced him.
+
+
+Well, he’ll be able to if they actually have him doing the right sorts of things.
+
+
+Prior to getting knocked out, he’d been casting zones in the same locations as last time.
+
+
+They were a selfish team. Nobody defended anyone else. They wanted zones that improved their individual ability to conquer specific obstacles rather than increasing the team’s overall chance of winning.
+
+
+Typing notes up for when Instructor Marion came back around to talk strategy, Alden allowed himself to be scathing in his analysis.
+
+
+“Are you worried about Max?” Everly asked him.
+
+
+“Strategically?” Alden shook his head. “Not really. But it’s only because they’re the worst, and he’s decided to spite them by letting them go on being the worst. If he was actually trying to help them, he’d be a serious problem. They should use him to lay down the float zones on the wall so that they can swim up it, then they should send him back out to the track to ruin our life.”
+
+
+“I did expect them to use him that way,” said Haoyu. “They’re not using the treadmill zone at all.”
+
+
+Alden nodded.
+
+
+Max’s trap zone—the one that made it so that the person inside it ran without ever moving forward—was one of the few talents that could be used out on the track against other players. It was completely harmless, so it wasn’t off-limits out there; and even if it only captured someone for a couple of minutes, that was a really long delay on the course.
+
+
+“All he has to do is lay it down after everyone on the other team has gone inside where they can’t see him. There’s no way to know where it is until you step on it.”
+
+
+“And there’s the reason they haven’t been letting him use it.” Haoyu pointed toward Marsha.
+
+
+She was heading toward Jupiter like a rocket.
+
+
+It was abundantly obvious that Marsha considered the attacker job to be hers. When her team had a strike available, she would only hang back if a member of the enemy team was assaulting their half of the course and she felt like dealing with them first.
+
+
+“So she’s really only interested in fighting S-ranks,” Njeri said. “Until now, I was still wondering if she might be thinking of it as going for the most valuable members of the other team, and those all happened to be the S’s. But it seems more like she’s got rank tunnel vision.”
+
+
+On the bleacher below Alden, Lucille was biting one of her fingernails.
+
+
+“We’ll be fine,” he said. “Just like the other teams have been.”
+
+
+“Let’s feed her to victory,” said Jeffy.
+
+
+Njeri held her hand up for a high five.
+
+
+I think we’ve got this.
+
+
+******
+
+
+They were heading out to the track for the final run of the night, all of them in a great mood and hatching plans for how to deal with the other team’s every-man-for-himself style, when Maricel suddenly gasped.
+
+
+The bags of dirt she was floating ahead of her, looking a lot dirtier and worse for the wear after having been repackaged and heavily taped back into useable condition, hit the ground with a weighty thud.
+
+
+“You didn’t just fatigue your skills, did you!?” Reinhard said in a horrified voice. “We’ll lose.”
+
+
+“Wow,” said Astrid. “Go ahead and tell everyone who you think the best teammate is. Don’t hold back.”
+
+
+“Maricel?” Everly asked in a concerned voice.
+
+
+Alden was worried, too. Maricel was staring straight ahead, her face slack.
+
+
+“Hey, are you all right?”
+
+
+“I…” she said. “You all go. I have to talk to someone.”
+
+
+“What?” Reinhard said. “Now? Right this second?”
+
+
+“I’ll be…I’ll be right with you.”
+
+
+She started tapping her fingers through the air, texting somebody.
+
+
+“All right,” said Haoyu, when it looked like everyone was just going to hang around awkwardly waiting on her. “She’ll meet us on the track.”
+
+
+Alden kept looking over his shoulder all the way to the track. Maricel stood staring for a while at something on her interface, her fingers nervously twirling one of the protective cuffs they all wore on their wrists.
+
+
+She said something. Then a shocked look crossed her face, and she froze for a while before whirling around and taking off back toward the gym.
+
+
+“I think there’s a problem,” he said.
+
+
+They all exchanged looks.
+
+
+“Maybe it’s bad news from home?” Everly suggested.
+
+
+I hope not.
+
+
+A short while later, Instructor Ivanova headed for their team. “All right,” she said in a brisk voice. “I just got word from the gym. Maricel had a sudden personal matter to deal with. She’s not going to be able to make this run. You can take a couple of minutes to adjust your plans, and then we’ll start.”

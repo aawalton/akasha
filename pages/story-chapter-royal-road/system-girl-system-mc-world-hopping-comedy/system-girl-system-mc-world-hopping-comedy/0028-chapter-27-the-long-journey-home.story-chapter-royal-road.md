@@ -1,0 +1,171 @@
+---
+id: b57fa007-ca0f-51f9-a1b7-b5602ead52a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: The Long Journey Home"
+slug: 0028-chapter-27-the-long-journey-home
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 28
+ownLength: 2215
+unit: words
+publishedAt: 2025-10-12
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2671329/chapter-27-the-long-journey-home"
+royalRoadId: "2671329"
+---
+
+The portal shimmered closed behind us, depositing us back into the wind-swept silence of the Arena of the Titans. For a moment, there was only the sound of the thin, cold air whistling over ancient stone. The two great councils were still there, but the atmosphere had changed completely. The once rigid, opposing lines had dissolved.
+
+Archmages and Sky Immortals were mingling.
+
+My dual perspective took in the scene with a sense of profound, systemic shock. The impenetrable jade barrier was gone. The obsidian thrones had been pushed into a messy, informal circle. In the center of that circle, Elder Corvus had his arm slung around the shoulders of Princess Liling’s grandfather, and they were both laughing, their voices echoing across the mountaintop. All around them, other demigods of their respective nations were gesturing animatedly, passing ornate gourds back and forth, their stern, ancient faces flushed with... merriment.
+
+They were drunk. The two most powerful ruling bodies on the planet, after a successful ten-thousand-year standoff, had decided to celebrate their first joint session by getting absolutely plastered on what my system identified as high-potency spiritual liquor.
+
+The composure Princess Liling had maintained through a surprise proposal, a system reveal, and a five-way telepathic conference call finally, catastrophically, collapsed.
+
+“Grandfather!” she exclaimed, her voice sharp with horrified embarrassment. “Elder Corvus! What is the meaning of this? We are in the midst of a delicate diplomatic situation!”
+
+Her grandfather turned, his cheeks rosy, and gave her a wide, beaming grin. One of the other Immortals, a man who had looked like a statue of stern judgment just an hour before, let out a hiccup. "Lighten up, child!" he slurred cheerfully. "This isn't a diplomatic situation anymore! It's an engagement party! A celebration!"
+
+Elder Corvus raised his gourd in a toast. "To the third path! And to my grandson, who apparently has better taste than I gave him credit for!"
+
+The princess buried her face in her hands, her internal monologue a tidal wave of pure mortification that crashed over our soul-bond. I want the ground to open up and swallow me whole.
+
+The party, however, was clearly winding down. With a series of whoops and slightly unsteady farewells, the Sky Immortals began to rise into the air, their serene auras wobbling slightly. The Archmages followed, their flight paths noticeably less direct than their arrival had been. Within minutes, they were all gone, leaving the three of us—and one sleeping wizard—alone on the vast, empty stage.
+
+Princess Liling let out a long, weary sigh. "Right. The journey home." She looked at Dave's slumbering form. "We cannot carry him all the way back to the Jade Palace."
+
+She then turned to the small jade dragon, who had been patiently observing the chaos from the table. "Longwei," she said, her voice soft. "If you would."
+
+The dragon blinked its emerald eyes, stretched, and hopped gracefully to the floor. And then it began to grow. The transformation was silent and fluid. Its serpentine body lengthened, its form swelling, the living jade of its scales shimmering as they expanded. In seconds, the cat-sized familiar had become a magnificent, colossal beast, its head held high above us, its long body coiling across the stone stage. It was large enough to carry a small army.
+
+Dave, still asleep, was levitated gently onto a wide, smooth section of the dragon's back. Liz and I scrambled up after him, followed by the princess.
+
+"Hold on tight," she advised, and with a powerful, silent push from its legs, the great jade dragon launched itself into the sky.
+
+The world fell away beneath us. We rose above the clouds into the clear, star-dusted twilight. The wind was a cold, clean roar. But the faint, warm aura emanating from the dragon kept us comfortable. It was a scene of breathtaking, majestic beauty.
+
+Naturally, Liz chose this moment to open our private channel.
+
+His posture is still arrogant, she began, her mental voice a low, critical grumble.
+
+[Ana: Liz, we are flying on the back of a mythical creature thousands of feet above the earth. Can we please enjoy the view?]
+
+I am enjoying the view, she shot back. And I am finding it wanting. Look at the way the wind flows over his scales. It's inefficient. My own form, were it at this scale, would be far more aerodynamic. The curvature of my horns would create a much more stable slipstream.
+
+And so it began. For the next three hours, as we soared across the darkening continent, I was subjected to the most intense, detailed, and deeply petty design review I had ever been a part of.
+
+His whiskers are purely decorative. They serve no practical sensory function. Mine, on the other hand, would be attuned to the subtle shifts in Solarium density in the upper atmosphere.
+
+[Ana: Noted.]
+
+And the luminescence of his scales is inconsistent. Several patches on his underbelly are at least two shades duller than the rest. It's sloppy. A true sovereign maintains a uniform polish.
+
+[Ana: I'll file a ticket.]
+
+Do you see the way he holds his head? It's a clear sign of a creature that has been coddled. Pampered. He has never had to fight for a hoard. He has the soft, complacent look of inherited wealth. My hoard, which I acquired through cunning and strategic market manipulation, is a testament to true draconic merit.
+
+[Ana: The market manipulation was my idea.]
+
+A minor operational detail!
+
+The final straw came as we were passing over a vast, moonlit desert. Liz had been silent for almost five minutes, and I had dared to hope she had finally run out of complaints.
+
+Ana, look, she finally said, her voice a low gasp of outrage.
+
+[Ana: What is it now, Liz?]
+
+There. On the fourth dorsal spine, just behind the shoulder blade.
+
+I focused my dual vision, zooming in on the spot she indicated.
+
+Do you see it? She demanded.
+
+[Ana: See what?]
+
+A speck of dust! One of his scales has a speck of dust on it! The sheer lack of self-grooming is appalling! How can he call himself a dragon?!
+
+I had reached my limit. My patience, a finite resource, was officially depleted. I dove into the settings for the Advanced Communication Module I had purchased. There, nestled among the options for encryption and channel management, was a simple, beautiful, elegant little function.
+
+Mute Participant: Liz Hydrus (Private Channel_01)
+
+I activated it.
+
+Liz’s frantic, indignant thoughts, which had been a constant, high-volume scream in my head, were suddenly replaced by a series of silent, flashing text boxes in her private UI. [...ACK OF SELF-GROOMING IS APPALLING! HOW CAN HE CALL HIMSELF A DRAGON?!] followed by [HELLO? ANA? BESTIE? CAN YOU HEAR ME? REPORT!]
+
+A final, beautiful pop-up confirmed my action.
+
+[PARTICIPANT ‘LIZ HYDRUS’ HAS BEEN MUTED.]
+
+The silence was glorious.
+
+I leaned back in my non-existent chair, my consciousness finally at peace. Below us, the world was a beautiful, silent tapestry of silver and black. On the dragon's back, Dave was still asleep, a faint smile on his face. Princess Liling sat a few feet away, her eyes closed in quiet meditation.
+
+And I, for the first time in what felt like a very, very long time, could finally enjoy the ride.
+
+…
+
+The silence was, predictably, short-lived.
+
+After a long, peaceful hour of watching the clouds drift by beneath us, Princess Liling stirred from her meditation. Her gaze fell upon Liz, who was sitting stiffly on Dave’s chest, radiating an aura of profound, sullen indignation. Even without access to her thoughts, her posture screamed of a manager whose microphone had been cut off mid-presentation.
+
+“Is your familiar alright?” the princess asked, her voice soft and genuinely concerned. “She seems… displeased.”
+
+I let out the system equivalent of a weary sigh. My moment of zen was over. It was time to re-engage with my primary user.
+
+[Ana: Mute protocol disengaged.]
+
+—ABSOLUTELY UNACCEPTABLE! Liz’s voice exploded back into my consciousness, mid-rant, without missing a beat. TO BE SILENCED IN THE MIDST OF A CRITICAL PERFORMANCE REVIEW! THE SHEER INSUBORDINATION! I WILL BE FILING A FORMAL COMPLAINT WITH YOUR SUPERIORS, ANA! I DEMAND—
+
+[Ana: The princess was worried about you.]
+
+Liz’s tirade came to a screeching halt. She glanced over at Liling, her posture immediately shifting from an indignant ball of rage to one of dignified, regal composure. Ah. Yes. Of course. Merely contemplating the vastness of the cosmos. A sovereign’s duty.
+
+Princess Liling offered a small, polite smile, tactfully ignoring the lie. “I was just thinking, it must be getting late. I hope you are not hungry. I took the liberty of packing some provisions.”
+
+From a simple, unadorned ring on her finger, she produced a small, lacquered box. A storage ring. The lid opened to reveal an array of delicate, steaming dishes: fragrant rice wrapped in shimmering leaves, skewers of glistening meat, and small, jewel-like pastries.
+
+Is this a tribute? Liz asked, her suspicion warring with the delicious smells now wafting through our dual senses.
+
+“Please, help yourselves,” Liling offered.
+
+Liz didn’t need to be told twice. She scurried over and, after a brief, critical sniff, began to devour a piece of roasted meat with a ferocity that belied her size. The seasoning is… adequate, she conceded, her mouth full.
+
+Liling then glanced at Dave’s sleeping form. With a gentle touch, she placed a small, flat talisman on his chest. It glowed with a soft warmth, and a portion of the food that had materialized from the box began to steam again. “A simple warming charm. He should have a hot meal when he wakes.”
+
+The simple, thoughtful gesture seemed to break the last of the ice. For a while, we ate in a comfortable silence, the only sounds the rush of the wind and Liz’s surprisingly loud chewing.
+
+“My grandfather’s behavior was… regrettable,” Liling finally said, breaking the quiet. “I do hope you will forgive him. He has not had a proper drink with his old rivals in several thousand years. He gets… enthusiastic.”
+
+The image of the two most powerful men in the world, drunk and laughing like old academy roommates, was still fresh in my mind. [Ana: No forgiveness is necessary. The data from that interaction was highly illuminating.]
+
+He called Dave his grandson-in-law, Liz added, a note of horrified amusement in her voice. I believe Elder Corvus promised to teach him a secret family drinking spell.
+
+A real, genuine laugh escaped the princess, a bright, clear sound in the night air. “He did. I believe this is the most productive diplomatic summit our two nations have had in centuries.” She took a delicate bite of a pastry, her expression turning thoughtful. “Ana… Ruby… you are… spirits? Guides assigned to us?”
+
+[Ana: That is a functionally accurate summary. We are designated support units tasked with assisting what our administration refers to as ‘Anchored Souls’.]
+
+[Ruby: ‘Support unit’ is a colloquialism. We are mobile, soul-bound data processing entities assigned to monitor and assist high-value, causality-significant assets.]
+
+Liz puffed out her chest. She means me.
+
+“I see,” Liling said, though her eyes betrayed a deeper curiosity. “And your purpose? Why are you here?”
+
+The billion-SPP question. The one I had been asking myself since this all began.
+
+[Ana: That is a data point classified above my current clearance level.]
+
+[Ruby: Correct. The ultimate objective of the System Initiative is not available to Observer-class units.]
+
+They’re management, Liz helpfully summarized for the princess. They never tell the people on the ground the real reason for anything.
+
+The princess nodded slowly, accepting our non-answer with a grace that suggested she was used to dealing with bureaucratic entities. The rest of the journey passed in a strange, newfound camaraderie. We were a bizarre, mismatched team of four-and-a-half conscious minds, flying across a sleeping world on the back of a jade dragon.
+
+As the first hints of dawn touched the horizon, Liling pointed ahead. “There. The Thousand Serpent Mountains.”
+
+I looked, and for the first time, I felt a sense of genuine awe. A vast range of mountains, their peaks sharp as shards of glass, rose from the earth. They were not made of common stone, but of a deep, green-veined marble that seemed to glow from within. Waterfalls flowed in impossible directions, some cascading down, others flowing upwards in shimmering ribbons of silver, pulled by the mountains’ immense internal Qi. Buildings, pagodas, and pavilions were not built upon the mountains, but carved directly from the living rock, their curved roofs and intricate balconies blending seamlessly with the natural contours of the cliffs. The entire range was a single, colossal work of art and magical engineering.
+
+“Welcome,” Princess Liling said, a note of quiet pride in her voice, “to the Jade Palace.”
+
+The great dragon, Longwei, banked in a slow, graceful arc, beginning his descent. He didn’t roar or announce his arrival; he simply dove, a silent green comet streaking toward the highest, most ornate pavilion. We landed in a vast, open-air courtyard paved with polished white jade. A small, silent group of cultivators in formal robes was waiting for us. They were all elders, their auras deep and powerful. They bowed as one as the princess dismounted.
+
+We had arrived. We were on enemy territory.

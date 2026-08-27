@@ -1,0 +1,109 @@
+---
+id: 92d39164-67ac-50b0-90b7-3c8628b5fd52
+page-type-slug: story-chapter-royal-road
+title: "Chapter 386 : Southbrook"
+slug: 0088-chapter-386-southbrook
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 88
+ownLength: 2042
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3486011/chapter-386-southbrook"
+royalRoadId: "3486011"
+---
+
+I watched as the box continued to draw in the essence, and the floating island's flow began to stabilize. I still had no idea what the king was using, as, unlike his excessively horny son, he wasn't using it to spawn unicorns and pegasus.
+
+I suppose it doesn't really matter now.
+
+While the cube worked, I cleaned up the tree, feeling a little kinship with it after it had been home to Trixie and me. If it weren't for the island's coordinates constantly shifting, it would have been the perfect spot for Vee to set up one of her spider portals for her master plan.
+
+Perhaps we could lock onto the portal itself… Similar to a landmark and establishing a link that way? Although Vee would need to do that since it's her portals and her webs. Sadly, I don't know if she's willing to go through that much effort.
+
+Once again, I felt I understood Mother's plight a little more. [Dimensional Magic] was rare enough already, but the spider didn't bother to explore the bare minimum to get the job done. Even if you put a tasty treat at the end, she often would grow too frustrated to care.
+
+Well, I suppose she's still better than Leon. I swear Mother will smite him one day for the way he curses magic.
+
+The cube eventually finished its task and went silent. I gave it a curious poke only to once again be met with the insufferable message. I quickly stored it away before I launched it up into the atmosphere in a fit of rage.
+
+With the region stabilized, I took some time to explore it, and to my joy, I eventually found another yellow slime inhabiting the island. I quickly caught it and promptly ate its core, adding some proficiency to [Primordial Slime]. From the looks of things, the island seemed to only ever contain one yellow slime at a time, and I didn't feel like waiting around that long, so I prepared to depart.
+
+I cast [Map] and began manipulating the image in the palm of my hands as I tried to find out where exactly the island was currently floating around. Using my previously discovered landmarks as reference points, I found out I was to the south-east of Kaerlin, or north-east of Stantondale.
+
+Now that I was back here, I felt a bit torn. Part of me wanted to go straight to Kaerlin and announce that I was alive and well, while another part of me was concerned about the questions I'd inevitably be asked. What happened in Caelthal couldn't be revealed, no matter how I felt about it.
+
+Perhaps this was why I found myself slowly drawn to Stantondale. Not only did it potentially have some blue slimes to snack on, but I could also try to investigate what happened to the goblins from back then. I could even visit Simon and ask him about my [Dungeon Master] application.
+
+Even though I was leisurely flying there, it was still at a rather breakneck speed. Occasionally, I'd throw in some [Blinks] or fold the space ahead of me to reach it sooner. I had plenty of travel options, and naturally, I included [Personal Rift] in that rotation. In almost no time at all, I found myself above the town and fields where everything first started.
+
+It looks nicer than I remember…
+
+The town looked spruced up, with the shoddy buildings having been repaired or replaced, and the massive walls being reinforced. Outside, the blue slimes were no longer roaming free, and the rudimentary fences were replaced with what looked like proper corrals. Of course, none of that mattered to the slimes, but they looked content to stay in place and mindlessly wait for food; the barriers were just to keep other monsters out.
+
+My confusion didn't end there; I then noticed that the name Stantondale had been updated to Southbrook on my interface. Apparently, there had been a change in management since my last visit, and my own map had kept the old name until I revisited it.
+
+Interesting…
+
+With the increased security, I couldn't just swoop down and grab some blue slimes without causing a fuss, so I opted to use [Dimension Magic] to resolve the issue. I selected a few juicy-looking slimes and teleported them up to me, quickly snatching them with tendrils as they emerged.
+
+Despite eating quite a few, neither of my two primary slime traits received an upgrade. Still, it was definitely a delicious experience, and to thank Southbrook for the meal, I made sure to leave some premium [Mana Slime] potions scattered around the pens for them to find.
+
+From there, I stealthily entered the city, teleporting from rooftop to rooftop until I was above the adventurer's guild. Combining [Spatial Sense] and [Personal Rift], I sensed the building's occupants, hoping to recognize someone. Yet, despite a thorough search, I couldn't find Tabitha, Harris, Kurt, or even Roderick.
+
+Wasn't he supposed to retire here with his wife? Or is he out on a quest?
+
+I sadly didn't have an answer to my questions at the moment, and the only other person I knew of was the innkeeper. I once again teleported rapidly until I landed on the inn, and quickly spotted Trevor cooking up a storm in the kitchen.
+
+I should buy some food for Vee. She was always upset whenever I talked about Trevor's amazing cooking.
+
+I shapeshifted into a rather average human man and stealthily made my way to the entrance. Just like before, I was warmly welcomed by the staff and asked whether I was looking for room and board or a meal. I quickly fabricated a story about needing plenty of food supplies, with money being no object. I handed over a pouch filled with coins, causing the innkeeper's wife to nearly faint upon seeing it.
+
+Did I give too much? I never did learn how much to pay for things, always relying on my guild tag to pay the bill…
+
+Trevor must have sensed the commotion as he exited the kitchen, and, upon seeing his flustered wife, immediately took control of the situation.
+
+"Sir, this is far too much," Trevor said politely, perhaps expecting me to be some noble.
+
+"Nonsense, I'll take everything you can make," I replied.
+
+Trevor tried to refuse, handing back more than half of the money, but I insisted. I even stressed that he can make as much food as he can for a day or two, and then I'll come to collect it. That seemed to ease his mind, and he agreed.
+
+I nodded and pulled out a few storage pouches, handing them over. This caused further concern from Trevor, but I explained I wanted the food as fresh as possible. These pouches were mostly looted from Azulean, likely spoils of war between them and the humans, and had the highly sought-after food-preservation enchantment. I later learned that this enchantment was more common out on the ocean due to the constraints of ocean transport.
+
+I had given several to Sylvester to study and, hopefully, reverse-engineer, mostly for Vee, as my [Core Storage] was still the best in the business. Even after giving many of them away, I had some on hand, just for an occasion like this.
+
+Trevor cautiously took the pouches and swore to do his best to meet my expectations. I thanked him and swiftly departed before he changed his mind, finding an isolated alley and disappearing with a timely teleport.
+
+Okay… Well, I don't know where the others are, so I might as well go see what's happening in my old hunting grounds.
+
+My first stop was the pond, or more accurately, the tree that I used to live inside. To my relief, it was still alive, despite the damage I had done by eating away at it to make myself a hidey-hole. I soaked its roots in brown slime and cast a few [Grow] spells on it as well, hoping to undo some of the damage I'd done.
+
+As for the pond itself, I saw the familiar sights of the blood bugs, as well as another big frog lurking within the depths. I picked up a few rocks and let them sink into my slime; these would be my ammunition. I pointed at the bugs and, one by one, began firing the rocks using [Slime Mastery] to replicate my good old [Slime Shot].
+
+It was a one-sided slaughter, and no matter how much they tried their best to dodge, they failed. Back then, I only had [Improved Accuracy (Lesser)], but now with both [Attack Mastery (Greater)] and [Slime Mastery]. Their defeat was inevitable.
+
+As for the giant frog, perhaps seeking revenge for the one that tried to eat me, I used [Hydrokinesis] to capture it and bring it to the surface. From there, I turned myself into an even bigger frog and opened wide before chomping down. Yes, this was bullying to the extreme, but back then, I had been fighting for my life, and clearly, it had left a sour mark on me. It was almost cathartic.
+
+However, this small extermination of the pond was as far as I was willing to go. I did sense a few other monsters, and it looked like there were new kings of the forest, but if I killed them, it would cause an imbalance, just like before. Besides, I'd gotten my fill of killing blade wolves back with the elves, where they were just common monsters.
+
+I had hoped I would stumble upon a green slime, but it looked like I wasn't that lucky. It was understandable, though, as green slimes were categorized as 'exterminate on sight' by the guild. I explored the forest for a little while longer, seeing a few prospective adventurers culling the monsters and collecting their rewards; however, none of the faces were ones I recognized, so I moved on.
+
+That just leaves the cave…
+
+Returning here definitely left me with a lot of mixed emotions. The entire inside of the cave was scorched black, and to my surprise, it looked like there were actually human guards on duty. Evidently, if any goblins spawned, they were swiftly exterminated, leaving no opportunity to start another monster den.
+
+I guess this is my fault, too. My final act must have left the humans fearful of another goblin uprising, so now they aren't taking any chances.
+
+I had thought the forest seemed more abundant than I remembered, and if there were no goblins at all, then that made sense. Their essence was returned to the forest, but not only that, they were no longer hunting the monsters themselves. While the adventurers would get less experience hunting monsters without class levels, they would gain more claws, hides, and fur.
+
+Is this why the town was fixed up? They're richer?
+
+I could only speculate, but my true goal was to follow the path where the original goblins had escaped. I secretly snuck to the back of the cave and used [Spatial Sense] to find an opening to that hidden tunnel. I knew we had collapsed the entrance to hide their escape, but from the looks of things, the goblins must have come back to further destroy it, as it was far deeper than I expected. Still, it was child's play for me, who brute-forced through even a dungeon's anti-teleport walls and floors.
+
+There's a spot!
+
+I locked on the location and teleported, as opening apertures was a little bit too flashy and might alert the human guards. Even if I wasn't successful in recruiting some of the more civilized goblins to our island, I didn't want to unintentionally reveal them. As far as I was concerned, the goblins were basically an endangered species for this region.
+
+Traveling through the tunnel, I couldn't help but recall the past. This was where I'd fought the badgers and found my very first purple slime core. Naturally, I couldn't help but hope I'd find another purple slime, but these tunnels seemed utterly devoid of life. No badgers and certainly no purple slime. Even the room where I had fought that mutated badger was completely empty, yet the tunnels still went even deeper.
+
+Down and down we go…

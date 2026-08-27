@@ -1,0 +1,171 @@
+---
+id: d2494933-ca21-50e0-9a06-352ea396555f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 372 : V-Team"
+slug: 0074-chapter-372-v-team
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 74
+ownLength: 2373
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3266620/chapter-372-v-team"
+royalRoadId: "3266620"
+---
+
+Vee had been having a great time in this dungeon, unlike her previous two experiences. The dwarf dungeon was boring, with Syl having her do nothing but mind-numbing repetition over and over again. Back then, Vee had basically no idea about magic, so it was like trying to literally cram encyclopedias into her tiny head.
+
+The tree dungeon was much better, especially considering all the delicious and juicy snakes she got along the way. However, the fights were terribly boring as it was nothing but plantoids, plantoids, and, can you believe it, even more plantoids.
+
+Wait, there was the spider dungeon too… But does that even count? It was more like a vacation than training.
+
+Even with Qhilleeqeth having her do some [Thread Mastery] practice, none of it was anything really taxing. If Vee had to describe her experience there, it was like the spider queen was hosting a tea party for her.
+
+Vee shrugged it off, as at the end of the day, it didn't really matter. Instead, she looked at the current situation and felt glee bubbling up. With four slime personas and a mermaid at her command, Vee felt like an army commander!
+
+Correction, mermen. Silly system naming thing.
+
+Regardless of what the system called it, in her heart, she knew it was a mermaid, just like the fairytales she read as a child. Part of her still couldn't believe that Syl wiped them out with barely a thought. These were genuine mermaids we were talking about here!
+
+Well, I can't really blame her; they did try to enslave her, and Syl definitely seems to hold grudges.
+
+Snapping back to the current situation, their group was tearing through the dungeon. Sylbera was wielding a greatsword she had personally forged, although she kept grumbling that it "wasn't good enough."
+
+She would augment the sword with some fiery spell enchantments, which seemed to get the job done as it was cutting through most monsters like a hot knife through butter. However, on occasion, she would fall back on [Magma Magic], which was devastatingly powerful.
+
+At the end of the day, Syl is a super duper mage. Like, holy shit, I swear we had our gods swapped at birth or something, cause I just can't keep up. I wonder if I can get adopted by that Unc one? He seems stupidly generous. Look at all the stuff he gave Leon!
+
+Sylthaeryn, on the other hand, was using a "bow" made from cheat slime, and the difference in quality was notable to the extreme. Vee actually felt a bit bad for Sylbera, as no doubt she could form a slime sword equally as impressive, but she wanted to use a real sword she made with her own two hands!
+
+Although in reality the bow was almost superficial, as the actual killing was done by the arrows, which were also made from slime. Vee had already seen Syl use needles of explosive slime to penetrate and detonate monsters from the inside, and this elven archer was copying that. After being struck by an arrow, it would more often than not explode, although throughout their battles, Vee saw far more tricks being pulled from the bag. Poison, freezing, burning, and every other slimy trick were being delivered through these deadly projectiles.
+
+That prismatic evolution has really taken things to the next level in terms of slime. I can only hope my arachne evolution gives me a similar power boost…
+
+Yet, ignoring the slime shenanigans going on behind the scenes, Sylthaeryn's archery skills were still weirdly good. Yes, the personality was something splintered off from Syl herself, rather than a fresh creation like Sylbera, but this seemed excessive. Vee was curious and had a private telepathic conversation with Sylthaeryn, trying to get her to spill the beans.
+
+"I'm using a trait called [Elven Marksmanship], while the others, including the prime personality, are using [Elven Magus]," Sylthaeryn explained.
+
+"Is there not one that can help out Sylbera?" Vee asked.
+
+"There's [Elven Bladedancer], but Sylbera is using the wrong type of weapon for that," Sylthaeryn answered. "Also, the prime personality hasn't left enough floating points in the budget to allocate it."
+
+Vee sighed, wondering why the dwarves didn't have any cool cheat abilities like these elves. She was going to drop the conversation there, but had one last question.
+
+"Why do you call Syl the 'prime personality'?"
+
+Sylthaeryn was the only one who did this; even Sylvester called Syl 'Syl,' and he'd been around far longer in terms of acting. Vee found it very strange. That was obviously ignoring the fact that Vee had Sylbera call Syl "Master" as a joke at first, which had now stuck.
+
+Sylthaeryn sighed. "Syl, is supposed to be my nickname, so it feels weird to call her that. If I'm honest, I feel like you two have taken this Syl-naming thing too far."
+
+"Well, aren't you just a spoilsport?" Vee replied teasingly.
+
+"I am supposed to be the serious one after all. I'm the leader of the Feirelle elves. My mother is a High Elf to be seated on the council. I—"
+
+"Okay, okay, enough!" Vee interrupted. "Sheesh, I'm going to blame Paeris for this one. He's sucked all the fun out of you."
+
+Sylthaeryn frowned, but Vee moved on. She got her answers and didn't feel like talking to the snobby princess anymore.
+
+All of that aside, the stars of the show were probably Sylvain and Vanessa. Sylvain's use of [Water Magic] was downright domineering in this environment, and he could literally crush lesser monsters with the very water they were swimming in.
+
+Meanwhile, Vanessa was equally brutal, and the way she wielded her cutlass and dirk combo was eye-catching. She moved through the water gracefully, better than any trained dolphin, and struck at any and every weak point on the monsters.
+
+But what truly set the two apart from the rest of the party was their teamwork. The best way Vee could describe it was that the two were performing a waltz as they worked in harmonious tandem. The monsters Vanessa was targeting were suddenly restrained or shoved into place by Sylvain's [Hydrokinesis]. Similarly, any monster that tried to attack Sylvain was blocked and met an untimely demise from Vanessa's blades.
+
+Of course, Vee poked Sylvain privately for an answer, but it was disappointingly vague.
+
+"I'm her one," he replied.
+
+Vee tried pressing the matter, but she wasn't getting any substantial answer. She even tried asking Vanessa about it, but the mermaid just blushed at her. Blushed! That had caused Vee's heart to skip a few beats, and a few rosy and delusional fantasies popped up in her thoughts.
+
+Vee coughed awkwardly and dropped the subject. Mainly because she was concerned about what Syl might do if she found out. Vee liked these two, and Syl had previously threatened to banish Sylvain into the forgotten depths of the skill.
+
+Just like all the other types of magic Syl collected, now abandoned and gathering dust in her bottomless profile! Vee thought to herself. If that happened to poor Sylvain, it would be a tragedy!
+
+That only left Sylvester, who, by comparison, was a little lackluster. To avoid stepping on any toes with Sylvain, he solely used [Ice Magic], but his crafter origins were quite apparent in his actions. He was reserved and seemed not to enjoy fighting, and Vee wondered if they had tweaked his personality too far.
+
+On occasion, he would use a bit of [Fire Magic], something he was trying to hone for his eventual pursuit of alchemy. Still, compared to Sylbera's [Magma Magic] and even his own [Ice Magic], it wasn't that noteworthy.
+
+Honestly, Vee was wondering if he was depressed, but then suddenly he brightened up and pulled out gauntlets from who knows where. There was a manic sparkle in his eyes that Vee unfortunately recognized, like when Syl was about to do something stupid with magic.
+
+Thankfully, there were no sudden explosions, or spell orbs, or gods know what else, and he proceeded to simply study the gauntlets while everyone else fought. Occasionally, he'd throw up an icy magical barrier or restrain a monster, but his focus was on the gauntlets. He was at least upkeeping an aura at all times, which slowed down all the monsters in the room, so neither Vee nor any of the others complained about his actions.
+
+"Remarkable, dungeons truly are the best way to discover new patterns!" Sylvain replied excitedly after they finished clearing another room, then walked proudly up to Sylbera. "These are for you."
+
+Sylbera seemed surprised. "What do they do?"
+
+Sylvester opened his mouth to answer, but Vee beat him to the punch.
+
+"Wait, do you two not share information?" Vee asked, privately.
+
+"No, only Master can retrieve information from us," Sylbera answered.
+
+Vee was surprised, but supposed it made sense. Whether it was a limitation of the skill or something Syl had set up as a precaution, she wasn't sure, but either way, it was probably for the best. [Split Personality] had made everyone feel a little uncomfortable, and if not for Syl refusing to use it personally, there might have been some serious consequences further down the road.
+
+Sylbera then glanced at Sylvester, indicating that he should continue his previous explanation.
+
+"They greatly increase the wearer's physical strength," Sylvester answered, a twinkle in his eye.
+
+"They increase strength!?" Sylbera said excitedly.
+
+Vee was surprised, almost as if Sylbera had suddenly broken character. If that wasn't enough, there were a few more excited exclamations from the rest of the party.
+
+"Did you say strength?" Sylvain asked with surprise.
+
+"Strength… Can you believe it?" Sylthaeryn chuckled.
+
+Sylvester nodded. "They also seem to provide some weapon proficiency bonuses if I'm understanding the enchantments correctly, while also preventing your weapon from being disarmed."
+
+Sylbera's face lit up like a Christmas tree. Vee had never seen her so happy, and she quickly put them on. In fact, all of the personas seemed delighted for her, even going as far as to say "congratulations."
+
+With no one else to turn to, she privately contacted Sylvester. "Okay, what's going on? Why are all of you so excited?"
+
+Sylvester chuckled, scratching the back of his head awkwardly. "It's a bit of a long story…"
+
+Vee rolled her eyes. "Can I get an abridged version?"
+
+Sylvester nodded and began his explanation, "Syl spent a lot of time trying to get traits or abilities to enhance physical strength, but the system always claimed that slimes were incompatible with it. You could say we've beaten a past rival."
+
+Vee wanted to laugh; it sounded so absurdly silly, but it fit Syl's personality to a tee. For whatever reason, Syl was so affected by this that it bled through to all the personas, even Sylbera, whom Syl had no part in the design of.
+
+"Okay… Not to rain on your guys' parade, but it's only one pair of gauntlets, right?" Vee asked.
+
+"Oh? I thought you, of all people, would recall the spell orbs," Sylvester said with a chuckle.
+
+Vee felt a chill down her spine. "What do you mean…?"
+
+"Well. Just like how Syl took apart the spell-storing enchantment, naturally, we will take apart this strengthening enchantment. Then, who knows, perhaps we can inscribe strength engravings onto pseudopods?"
+
+Vee wasn't sure why, but she felt nervous about this, which was weird because it didn't even involve explosions. Or at least, she prayed it didn't.
+
+However, any concerns she might have had were quickly brushed aside when she received yet another level-up. At this rate, the experience was pouring in, and she suddenly imagined that her dream evolution might be closer than she had realized.
+
+I must be getting experience from Syl, too. I guess it pays to be a [Bonded Companion]!
+
+Syl had offered to remove the bond, since, in theory, they no longer needed the disguise. But honestly, Vee was a little scared to lose it. For one thing, she was concerned that Syl would leave her behind in the dust, as evidenced by the slime going through rooms quicker than their six monster party! Or at least, that was what Vee assumed, considering how their bond indicated that Syl was bouncing around the dungeon at impossible speeds.
+
+I'd swear that slime was teleporting, but I can't even use [Veil Step] between rooms.
+
+Lastly, there was a tiny part of her that worried that, without the bond, she, too, would eventually be forgotten, like a discarded skill in a profile. Vee obviously had more faith in Syl than that, but she couldn't help her own irrational fears.
+
+That damn slime must be rubbing off on me, too much. Usually, Syl is the one who's paranoid.
+
+Vee sighed as her team resumed their march through the dungeon into the next room. That was when she suddenly felt Syl disappear and go down.
+
+Vee was genuinely shocked, as this almost screamed that Syl had teleported. Whether it was of her own volition or a trap, Vee was unsure. However, this also revealed that this massive dungeon had more than one floor, and considering how long they'd been wandering through these marble floors, that was almost unbelievable.
+
+"Syl is getting ahead of us!" Vee informed the team.
+
+Surprise flashed across everyone's faces, as, for some reason, the personas couldn't sense Syl's location within the dungeon, yet Vee could! She informed them that Syl had somehow gone down a floor, and, as expected, it was met with mixed reactions from the group.
+
+"Should we try digging?" Sylbera suggested.
+
+"Can we even?" Sylvester asked.
+
+Vee frowned; even her [Rift Thread] could only scratch the surface of these dungeon bricks. A few of the personas tried to break through, but even when they secretly used slime, it still looked like they couldn't.
+
+"We should have brought that damn crab," Sylvain grumbled.
+
+Vee sighed, very much agreeing with that sentiment. Somehow, he had pulled apart the dungeon when even the cheating slime couldn't.
+
+"Let's just try to find a staircase down," Vee suggested, hoping they could catch up before Syl stole all the glory.
+
+The group nodded, then rushed to the next room. The poor [Dungeon Master] had no idea what was coming…

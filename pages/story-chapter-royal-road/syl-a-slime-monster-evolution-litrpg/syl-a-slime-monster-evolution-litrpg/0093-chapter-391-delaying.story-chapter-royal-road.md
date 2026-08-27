@@ -1,0 +1,121 @@
+---
+id: aa64c7c9-45d8-5658-adc3-52e633d48dd2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 391 : Delaying"
+slug: 0093-chapter-391-delaying
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 93
+ownLength: 2340
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3540872/chapter-391-delaying"
+royalRoadId: "3540872"
+---
+
+Changing back to the random human disguise I had thrown together, I arrived at the inn to a rather peculiar scene. Trevor was in a cooking frenzy, as if trying to make whatever he could at the last minute, with whatever stock he had left. At the same time, his wife and staff were effectively ferrying in goods as quickly as they could.
+
+Why kick up such a fuss?
+
+Thankfully, I received the answer, which was quite funny in retrospect. Trevor had thought the money I had given was my budget, and it was his duty to cook as much as he could to earn as much of that budget as possible. They saw this as a once-in-a-lifetime opportunity and wanted to earn as much as they could.
+
+In fact, when I arrived, they looked upset, and some of the free staff were instructed to keep me occupied while Trevor tried to squeeze in a few more creations and earn a few more coins.
+
+Part of me wanted to humor them, but I turned down the offer. However, before they were dismayed, I told them that all of the money was theirs to keep, regardless of how much they had crafted. None of them believed me; it was too absurd a claim, but I swore I meant what I said and asked to receive my finished products.
+
+The entire time, it looked like Trevor was having a hard time believing me, as if I was suddenly going to go back on my word, but I meant every bit of it. I inspected the bags and nodded happily at the meals, although I wasn't sure what they actually were. Regardless, I thought Vee would love all of them, which was what really mattered.
+
+"Thank you for your expedited service. This is far more than I imagined. I hope to come back here, should I have the time or opportunity."
+
+"Please do! My inn will always accept any orders from you," Trevor quickly replied.
+
+I nodded, then, without any fanfare, departed. The entire inn was speechless. I was truly leaving them with every bit of money in the supposed budget. I noticed Trevor even sent a child to secretly tail me, as if expecting me to do something strange, but when I took a corner and abruptly teleported to the rooftops, I lost him.
+
+The defeated child frantically tried to find me again, but to no avail. I chuckled to myself about what a little bit of money could do for people, then made my departure. I pulled up [Landmarks] and, after some quick napkin math, decided it would be quicker to go to Glimmerock and then head to Kaerlin.
+
+I slotted in the coordinates and began my long-distance teleport, arriving once again on the scenic floating island. I realized I was still holding the goods and, after writing a brief note for Sylbera, deposited the items into our shared [Core Storage].
+
+I had instructed her to give them to Vee, but to be restrained in the distribution. If left unrestrained, Vee would likely devour everything in one sitting and then demand more. I wanted her to at least savor the gifts I had prepared, not inhale them.
+
+Before leaving Glimmerock, I quickly checked the tree and found that it had not suddenly become home to more of the damn horses, much to my relief. I threw down some more brown slime for it to enjoy before jumping off the side, sprouting some wings, and gliding towards my next destination.
+
+Teleporting would have been quicker; even if I didn't want to teleport directly, I could repeatedly warp toward the horizon until I reached my destination. But I was intentionally delaying it. Honestly, my emotions were in quite a bit of turmoil about returning to Kaerlin, and I didn't know how I should act.
+
+Let's go in as a random human first, scout the place, and then decide?
+
+I had no idea whatsoever how the guild had reported what happened to me in Dhoggurum. For all they knew, I was part of another assassination plot, as that was what I had last reported to them. The elves had similarly lost contact when their embassy exploded, and they didn't seem too fussed about reestablishing connections to the dwarves at the time.
+
+The reason? To put pressure on them. The dwarves were flirting with the Outeatus Kingdom, much to the elves' disgust, and so they decided to use the unfortunate event to throw salt in the wound. I even heard that some rumors were spread that my detonation was at the behest of the Outeatus Kingdom, further poisoning the relationship.
+
+So much politics… Why care about all that stuff when you could be exploring the world, collecting rare slime cores, eating good food, researching new magic, making friends, and, of course, leveling up?
+
+I had explicitly told the Feirelle elves that I didn't want to get involved in politics; it was their responsibility. If they needed some muscle, I'd consider it, but I wasn't going to get involved in espionage or anything like that.
+
+Then again, maybe that's what they are planning to do with my Sylthaeryn persona? Hmm… I suppose technically that doesn't count as involving me, since I've been washing my hands of whatever the personas do, like Sylvain, but… If they do use her to do something, I could argue they are in breach of contract and try to get some more stuff.
+
+I quickly shook my head, discarding that line of thinking. It was far too close to sneaky politics for my liking, and precisely what I didn't want to become.
+
+When I spotted Kaerlin in the distance, it was exactly as I remembered it, with maybe a few extra defenses on the wall. It didn't seem to have received any big makeover treatment like Southbrook, but perhaps that was because I hadn't given it the same slimy donations.
+
+Then again, would those even be a drop in the bucket for this place? It's massive by comparison.
+
+As per usual, there was a queue to get into the city, and while I could've bypassed it with a timely teleport, I was still cautious that it might have some way to detect it. It was pure speculation on my part, and Southbrook had shown no signs of my actions at all, but I didn't want to take that chance here.
+
+I briefly considered using Sylvester for my entry, but it would probably reach the ears of the Merchants Guild, Greg, Johnathan Green, or all of the above. If I had a spare slime network, I would have let my persona handle all that, but bringing him over and letting him act independently of me would leave our island without a slime present.
+
+Come on [Core Collective], level up already! Aren't we doing enough? Or do I need to have me and all my [Sub-Cores] involved in endurance training?
+
+The way I saw it, [Core Collective] boosted the robustness of all cores, their reformation, their processing power, and lastly, the newly added separate network function. From my own estimation, we were maxing out the proficiency experience gained from the network and the processing power on a regular basis, leaving only reformation and robustness to be further exploited. Both of which were costly and unpleasant, which was why I had avoided them, other than the extreme measures I took to reach level ten in the first place.
+
+My distracting thoughts helped time pass, and soon it was my turn for entry. I had just used the random human again, and because I didn't have any valid identification on me, I was put under the guards' scrutiny. Whatever their detection skills were, they didn't find anything wrong with me, and I was allowed entry after paying the fee. I did briefly wonder if I was actually squeaky clean, or if my [Identity Fabrication] had just reached the point of completely outclassing the city guards.
+
+It's almost at max level… I wonder what would happen if I uncap it? Or should I try deduction? Normally, I wouldn't even think of deduction, but I think I've found a good way to generate skill points, assuming Gramps or someone else doesn't take that away from me. Then again, if nobody has uncapped [Identity Fabrication] yet, I could suggest a new feature for it, potentially earning another Legend Point. Actually… What would I even want added to the skill?
+
+I genuinely couldn't think of anything too noteworthy at the moment. If anything, just making it harder to see through would be enough in my books, but there was always the option of trying to add extra synergy to a specific trait or skill.
+
+I'm getting ahead of myself again. I don't even know whether someone has beaten me to this.
+
+I returned my attention to the city itself, which was just as bustling as before. As just a regular human, I didn't have to worry about any unwanted attention as I simply blended into the crowd. While wandering the streets, I started secretly exploring again with the usual combo of [Personal Rift] and [Spatial Sense]. I didn't dare open any apertures, but it seemed just having it present around me hadn't caused anyone to notice.
+
+Other than a potential reunion, I had another goal I wanted to accomplish. I wanted directions on two locations so I could find them and add them to my collection of [Landmarks]. The first was the infamous "Capital," or whatever it was called at the time, as I wanted to visit it eventually and maybe see some old faces.
+
+The second was to the Kingdom of Keld, which was more pressing. I had two invitations, and aside from the entire city being run by golems, it also had enchantments like I'd never seen before. With magic, I could bring false life to plants and rocks, but the golems produced were entirely different, and it seemed like something we could potentially purchase for our island.
+
+Leon especially wanted a few to take apart. Although I don't know how much success he will have there. The class is called golemancer, not golem crafter, so it's definitely magical in nature.
+
+I ended up asking around and was eventually directed to a subdivision of the Merchants Guild that served as information brokers. Here, you could buy and sell information, the latter of which apparently yielded a decent income if it proved valid.
+
+One of the best parts was that you could pay extra for anonymity, which made me genuinely consider asking about some more sensitive topics. However, before I even considered that, I bought the two locations I needed, both extremely cheap and, unfortunately, almost in opposite directions from each other.
+
+The Capital was further to the East, way past where I had taken the dungeon test, while Keld was to the north, far, far beyond where I had fought the orcs. It actually made me wonder if the orcs had traveled south due to being cleaned up by the army of golems, but I might have just been connecting dots where I shouldn't have.
+
+After securing maps to both locations, I decided to test the waters. I asked about the current situation in Dhoggurum, and even though I had a very loose understanding of money, I was quoted a price that even I found absolutely ludicrous.
+
+I quickly changed the topic, as it felt too hot to handle, even with the promise of anonymity. I tried asking about a dungeon that held black slimes, but to my disappointment, the broker told me to inquire at the Adventurers Guild. Apparently, there was an agreement between the two guilds that the Merchants wouldn't get involved in any monster-related information.
+
+Well, that's a pity…
+
+I left after that, heading back into the city and pretending to casually browse products and the scenery.
+
+When I later approached the Adventurers Guild, I quickly found that, unlike Southbrook, this building actually tried to resist my intrusion. I wasn't sure whether it was specifically against dimensional tampering, as it appeared intended to prevent eavesdropping on multiple traits.
+
+I quickly stopped poking, not wanting to risk detection, though that left me in a very sticky situation. I wanted to see if I could spot any familiar faces, but now I needed to enter the guild to do so. I didn't want to go through the whole registration process again, especially not for a throwaway disguise.
+
+Ugh… This sucks. Why can't things just be simple?
+
+I immediately began weighing up my various options, but found myself disliking all of them for various reasons. After what felt like an endless back-and-forth, I finally realized I was simply scared. Scared of being scrutinized, of being found out, of being forced to lie some more, and probably dozens of other excuses I was finding.
+
+The more I thought about it, the more the panic in my heart began to grow. I could face down a shadowy octopus, an entire underwater monster civilization, even a summoned demon, yet this was what was finally defeating me?
+
+I wish Vee were here…
+
+The more I tried to suppress the brewing negativity, the faster it seemed to fester. In a strange panic, I quickly ran to a dark alley and found myself teleporting back to Glimmerock. The suffocating feeling instantly vanished, and I let out another sigh.
+
+I'm a stupid coward…
+
+After mentally berating myself for a bit, I eventually recovered. Once again, I considered returning and just announcing myself, consequences be damned, but just couldn't bring myself to do it. It sounded good in my head, but whenever I considered acting on it, I froze.
+
+Instead, I pulled out the two maps I had, selected one, and returned the other.
+
+I think I need a bit of a change in scenery before I'm ready to confront everyone.
+
+Unfortunately, in my stupid panic, I had put myself further from my destination. I shook my head and jumped off, beginning my journey north west.

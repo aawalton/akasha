@@ -1,0 +1,295 @@
+---
+id: c5a3e0e4-499b-5ddc-ba3c-0d45d546faac
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-NINE: Happy Avowed Days"
+slug: 0201-one-hundred-ninety-nine-happy-avowed-days
+partOf: super-supportive
+position: 201
+ownLength: 3881
+unit: words
+publishedAt: 2025-01-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2019379/one-hundred-ninety-nine-happy-avowed-days"
+royalRoadId: "2019379"
+---
+
+199
+
+******
+
+By 8:14 on Thursday morning, Alden was dressed (school uniform—on), educated (science lectures—viewed), and organized (organizational software with multiplanetary calendaring—downloaded.)
+
+He’d woken up in the mood for maximum efficiency. It was an urge he knew was driven by yesterday’s realizations that he couldn’t do everything he cared about and that he wouldn’t be putting any significant amount of effort into impressing Baxter Washington and the Chicago superheroes. But it seemed like a useful urge, so he was welcoming it.
+
+Currently, he was sitting at one of the tables on the roof of the Forthright Building, enjoying the sun and a bowl of sweet potato breakfast hash he’d gotten from the cafeteria, since Haoyu hadn’t made oatmeal this morning. He was keeping the bowl preserved on his lap or in one hand while he worked on his laptop, setting up his new calendar to display times of day for LeafSong and Vethedya as well as Anesidora. He’d just figure Rapport I time based on Vethedya when he glanced at it. If someone ever stole or hacked his laptop, he didn’t want them to see entries like “Wandering around the Primary’s Home Right Here in the Privately Governed Territory.”
+
+Visits to Stuart or Yenu-pezth would just be labeled “Artona I”.
+
+Ooo…it does weather forecasts! It looked like Stuart was having a beautiful morning that would have felt like a hot tub to Alden, assuming he was at LeafSong right now instead of on votary duty for his cousin.
+
+Alden closed the forecast and unpreserved the hash so that he could take a couple of bites. It was just as fresh as when he’d picked it up more than half an hour ago. The Bearer of All Burdens, Keeper of Hot Potatoes, and Preventer of Wilted Cilantro.
+
+Keeper of Hot Potatoes was amusing to him, so he clicked on the logogram for Ryeh-b’t at the bottom right corner of the calendar. The dates slid aside to reveal a character profile. So far, it just had his name and class on it, but if he’d been so inclined, he could have turned the animated character that would act out events he put on the calendar into his lookalike.
+
+When he’d gotten out of bed this morning, he’d wanted to make himself something like the schedules Neha had given him in intake. Typing, “How do busy Avowed manage their schedules?” into the search bubble had landed him on the Trime account of a local Rabbit and Wright couple who were Anesidoran lifestyle bloggers. They said every planet-hopping Avowed needed this software, and Alden had clicked the link and bought it with only a passing thought that it was unusual how all the Avowed testimonials on the website mentioned its realism.
+
+He’d been confused when he opened it and it asked him how many characters he wanted to make schedules for and what their classes were. Despite his rush to become more organized immediately, he’d had to take a few minutes to return to the internet and figure out that yes, he had bought the right thing, and yes, lots of Avowed really did use it to plan their lives.
+
+They just weren’t the main users of the software. Ordinary humans who liked roleplaying as superhumans were.
+
+Alden didn’t quite know what to make of that, but he couldn’t deny that the product was thorough. It came with a map of Anesidora, and changing your character’s foundation points and talents would alter the travel time to different destinations. He typed Keeper of Hot Potatoes in as his first skill and told the software it gave him the ability to fly, then he input a maximum speed.
+
+“Do I have my license yet?” the generic teen boy character asked. “I’ll need a license to fly that fast. Should I add safe flight training and testing to my schedule?”
+
+“I have a special circumstances cookie license, so it’s fine,” Alden murmured, selecting the “fully licensed” option from a list. When he went back to the calendar, the travel time between campus and North of North had been reduced automatically.
+
+“This is nice.”
+
+He finished filling out the next few days and then stared at what he’d made. Is it a little overboard?
+
+According to his plan, he had to start doing homework soon, and the next time he’d be able to do something just for fun was…unlisted. Sometime after he’d resolved his nightmare to his satisfaction, which could be as early as Tuesday if he was very amazing and sure of himself and ready for the healer to implant new dreams as soon as he saw her again. Or as far away as who knew when?
+
+Today, he had fifteen minutes of free time, and they were right now.
+
+Tomorrow wasn’t quite as long because he didn’t have late night training with Instructor Waker, but he had still packed every minute he could with productivity. And Saturday called for him to alternate hologram practice at North of North with spellbook reading, Thegund planning, fruit buying, and wordchain training with Lute if Lute was up for it. He hoped to head to Rapport I either late Saturday or early Sunday because Sunday was also the first day of Stuart’s weekend, and that meant there was a good chance they’d be able to hang out together for at least part of the day.
+
+And then it’s school on Monday, gym, back to the Rapport for a meeting with Healer Yenu…in the middle of the night according to my internal clock.
+
+It’s a lot, but I can do this. Look how much I’m going to accomplish!
+
+His computer tinkled at him, and the Keeper of Hot Potatoes appeared in a pop-up window. He was stepping into an animated version of the Forthright building. “It’s almost time for: Reading Assignment Intro to Other Worlds! I’m doing that at the Forthright Building at 8:55 AM.”
+
+“We are going to accomplish great things together. I can tell.”
+
+******
+
+Alden did homework, made comments of debatable depth in Engaging with the Unexpected, spent an hour fending off a hologram of a horse at North of North, then spent thirty minutes in the recovery sauna while he answered messages and tried not to be distracted by his own curiosity about why an evil horse hologram had been so readily available.
+
+[Mr Washington,
+
+Thank you for reaching out on behalf of the city and the heroes. Of course I would be happy to see Chicago again. If we can work around my schedule…]
+
+He reread the email when he’d finished it. Telling the guy he was busy and his schedule would have to be worked around shouldn’t have felt bold or rude, but it kind of did.
+
+It’s just the truth. I want what he’s offering but not enough to drop everything for it.
+
+He sent the message, then moved along.
+
+Natalie wants to hang out this weekend.
+
+Alden frowned at her text. He’d only allotted himself thirty minutes for his Saturday lunch break. But Natalie had given him a turkey, and he had said he was interested in seeing the drudgery place with her. Next weekend could look like anything, but the weekend after next was almost definitely going to be spent on Artona I, since that had been the date of his original first planned visit to the Rapport.
+
+He thought about the problem while he showered off for exactly five minutes, as demanded by the schedule, and while he flew to the Forthright building on the nonagon. His Intro to Other Worlds teacher was busy talking to a student from the last class, so that gave him time to rearrange his Saturday plans on the calendar.
+
+Aha! There are extra minutes here. If I eat breakfast while I fly to North of North and have Lute train me over supper…
+
+He clicked away at it, tightening it up and finding ways to multitask until a whole hour and forty-seven minutes appeared.
+
+[Hi, Natalie! Saturday would work for me. Can I pick you up on Esh-erdi’s nonagon at 11:35?]
+
+Efficiency! Yeah!
+
+He rewarded the organizer for its help by giving his little avatar green eyes.
+
+Later, as he left the classroom, Vandy caught him in the hall. She looked more animated and eager than usual, and he assumed she wanted to talk about what had happened in gym last night.
+
+“Hey!” he said, stepping closer to one of the walls so that the river of uniformed teenagers could more easily flow past them. “It was so great of your team to come help against Instructor Klein last night. Having three extra fighters as strong as you guys really made it all possi—”
+
+“You were using <<Happy Avowed Days>> at the start of class!”
+
+“Yes. But I stopped when Instructor—”
+
+“I use it, too!” Vandy said, putting a hand to her chest. “If you link your organizer to your Trime, then people can follow your schedule and see exactly where you’re supposed to be on the map.”
+
+“I saw that option. Don’t worry; I made sure not to check it. Thanks for the warning, though.”
+
+Vandy’s lips pursed. “Yes. You’re welcome…for the warning…”
+
+“I’ve got to go,” said Alden. “I’m supposed to be back at the dorm by 2:51.”
+
+******
+
+******
+
+“Would you mind hiding a cup of water from me? Like we did with the soup cup back before everything got crazy?”
+
+Lute was sitting on the floor, watching his grandmother’s daily progress report on the hunt for the real truth, with a look of extreme suspicion on his face. It fell away at Alden’s question, and he paused the television. “You mean for you to do some skill practice? Sure. And how was convo class?”
+
+“I don’t go when you’re not there, I guess. Instead, I went to North of North and trained to get my shield in front of a fast and sneaky horse in one of the combat hologram rooms.”
+
+“Wooow…why?”
+
+“You were gone for too long, and I had to get a new hobby. I filled out my wordchain ledger before bed last night. Should I turn it in to you now?”
+
+“Wait at least another day,” said Lute. “I’m still recovering from spending so much time with Parethat-uur.”
+
+He stood up slowly and moved toward the kitchen in a tired, wobbly-looking way.
+
+“Are you okay?”
+
+“Paying some dues,” said Lute. “Hiding a water cup isn’t beyond me, though.”
+
+In his room a short while later, Alden put his laptop on the desk and opened it.
+
+“Time for Skill Practice!” His avatar, under the impression that he only had a flying skill, was swimming around in the air above Garden Hall. There was also a quote about hard work paying off fading from the screen below him.
+
+I feel good about this, Alden thought as he settled on his learning cushion and tried to focus on himself and being the Bearer of All Burdens and his entruster. I’ll dive into the targeting part of the affixation and explore that like last time.
+
+His first bump in the road came twenty minutes later when his little green-eyed pal proudly announced that he was going to do some more homework. Pulled away from trying to feel out the magic that connected him to Lute and the entrusted cup, Alden watched the avatar sit down with a book on a bench that didn’t exist in the real Garden Hall garden.
+
+Alden had been too optimistic about his speed when he was planning this skill practice session. Do I keep going? Or quit?
+
+He’d been close, he thought.
+
+Cut a little time off the homework and keep at it, he decided, closing his eyes again.
+
+Fourteen minutes later, he found the glass inside Lute’s closet, with a fisherman made of paperclips sitting on the rim of it, trailing a line into the water. The decoration made him forget his irritation at the delay, and he thanked Lute before dumping a cylinder of preserved water into his left hand.
+
+“That’s neat,” Lute said from where he lay on the rug by the infrared fireplace. “We could have some fun with that in Arts. Or you could trick people into thinking you were a Shaper.”
+
+Alden had actually preserved the cup, too, though it wouldn’t be obvious to Lute. He was supposed to do his homework now with both of these things preserved. Multitasking. Optimization. He would reclaim his lost minutes somehow.
+
+He carried his cup and his water back to his room and read the news articles about the Submerger disaster that Instructor Marion had assigned.
+
+Then it would be time for spell casting—only the quietest stuff since Lute was in. Then new spell learning with his earring in. Then brainstorming about Thegund. Then prepping some supplies and questions for his session with Instructor Waker.
+
+Or…that was how it went on the schedule, anyway. The schedule didn’t account for Alden being curious about one of the people interviewed in the article and wanting to know more. And it didn’t account for the mesmerizing power of the earring well enough. And how could he have known this morning when he was planning all of this that his aunt would send him a picture of an engagement ring?
+
+He’d gotten a grip on the dark swell of emotion that had almost sucked him under when he’d first realized she was going to do this serious, happy family thing and he wasn’t going to be around for it. He wasn’t mad at her, now, but he still had to find his way through some complicated thoughts before he could call her and tell her he was, genuinely, glad to hear her good news.
+
+She’d seemed fairly certain about Brodie before, but in a more thoughtful, less giddy way than Alden might have expected if he’d ever mentally written out the story of his Aunt Connie getting engaged. Today, she was absolutely giddy about the ring and saying yes, and she was also acting pretty shocked for a person who had already suspected this was coming.
+
+Brodie had picked her up from the place where she’d started taking some new cosmetology classes, in an RV from the dealership where he worked. The vehicle was so humongous that Alden suggested, not that jokingly, they just move into it instead of the house.
+
+Brodie was a tall guy, older than Connie, with a ruddy complexion and a slight paunch. When she handed him her phone so that he and Alden could meet, he panicked. At least, Alden hoped it was panic that made him start talking about the different upholstery options available for this model of recreational vehicle. If he normally introduced himself that way, then it was going to be up to Connie to make friends for both of them.
+
+After a few minutes, she took the phone back from him and walked to the RV’s bedroom to get some privacy…or maybe just to rescue Alden and Brodie from each other.
+
+“I was going to let him sell me the UV-resistant fabric,” said Alden.
+
+She was still wearing a huge smile. “I told him already that we’d do the wedding whenever you could come. You do want to come?”
+
+“Of course I do.”
+
+Will you have kids?
+
+“I don’t think the timing matters too much. I’m not really interested in doing one of those big extravaganzas with a flock of doves and a Wrightwork dance floor.”
+
+Will I get to know them?
+
+“Are you sure?” he asked. “I know the people who could make you a magic wedding dress.”
+
+She shook her head. There was a giant bouquet of red roses reflected in the mirrored door of the closet behind her. “No. I can’t imagine what something like that would cost!”
+
+“I have a pretty good idea.”
+
+If they play baseball, will you remember to pick them up from practice?
+
+“I love you, Aunt Connie.”
+
+Will they know the person I grew up with at all? Or did Thegund make her disappear, too?
+
+“Love you, too, Alden. You know, you really do look so grown up in your uniform.”
+
+******
+
+******
+
+“How far are you behind now?” Lute asked.
+
+“An hour and forty-eight minutes,” Alden grumbled as he stalked into the kitchen for a drink. Haoyu had been back for a while, and the apartment smelled good from whatever he’d put in the slow cooker.
+
+Lute played a mocking trill on Angela Aubergine. The harp had been moved into the living room since the last time Alden had passed through.
+
+“Hot Potatoes can do it all,” Alden said, yanking open the fridge.
+
+“Hot Potatoes is a mental performance athlete you invented, and he lives in a world where nothing ever interrupts him.”
+
+“I’m pretty sure I’m just having a rough start, and tomorrow the schedule will work.”
+
+“Are you two speaking in code on purpose?” Lexi asked. “Should you be mental texting about whatever this scheme is instead?”
+
+He was standing in the middle of the kitchen with a line of marshmallows on the floor in front of him, one hand clenched by his side while the other gripped Writher’s handle. The chain whip was inching toward the nearest marshmallow almost shyly.
+
+“Alden decided to cram twelve hours of work into seven this afternoon,” Lute said. “That’s what I’ve gathered from the things he says every time he emerges from his room. It sounds to me like he has to eat dinner on the toilet while he plots world domination if he wants to get back on track.”
+
+“I made vegan American food,” Haoyu announced, coming down the hall damp-haired from his bath. “But you can eat it whenever or save it if you want.”
+
+“Vegan American food?”
+
+“Yes. I said I’d cook a bunch of food you could eat, remember? But you haven’t been here regularly, and then we had all the Thanksgiving things to finish.”
+
+Alden’s memory was fried after spending all afternoon and evening trying to get everything on his list done. Dredging up the promise Haoyu was talking about took him a while.
+
+When he managed to send me the long message during the disaster. He apologized because he was worried he’d been rude on the bus and said he’d cook for me.
+
+“I do remember. What are we having?”
+
+“Sloppy joes. But with veggie stuff instead of beef.” Haoyu stepped over the line of marshmallows, and went to look in his cooker. “Do you like it?”
+
+“I can’t actually recall the last time I had one. But yeah. I do.”
+
+So while his avatar continued to race ahead of him, he ate sloppy joes with his roommates.
+
+Unlike certain other Joes, they weren’t at all disappointing.
+
+******
+
+Alden was in the MPE gym, in his suit, by 9:45 PM. He wouldn’t have the whole floor to himself for his private lesson; it was currently sectioned off into eight large blocks, and four of them were already in use, since the barriers had been made opaque to provide the occupants with some privacy.
+
+Big Snake was there early, too, waiting in one of the corner blocks with his arms akimbo in a pose that was reminiscent of some of his more memorable superhero imagery.
+
+If he just had on his cowboy boots…
+
+I hope this all goes well.
+
+“Hi, Instructor Waker,” he said when he reached the man. “Thanks for donating time tonight.”
+
+“Thank you! Think of how embarrassin’ it would have been if I’d volunteered and none of my students wanted to see my face outside of class.”
+
+“I don’t think that would happen. I brought you something.”
+
+“What’s this now?” Big Snake asked as Alden presented him with a yogurt container full of hot leftovers and a hamburger bun in cling wrap.
+
+“It’s from Haoyu. He thought you might like it. He has a slow cooker.”
+
+Lexi had argued that giving a teacher a cup of sandwich filling was odd. Haoyu had countered that lots of people gave teachers homemade sweets, so why wouldn’t homemade savories be welcome, too?
+
+“It’s a vegan sloppy joe,” Alden said.
+
+Big Snake was already pouring it onto the bun, which looked snack-sized in his hand. He took a big bite out of it and chewed. “That’s the kind of pre-workout snack you want, isn’t it?” he said after he’d swallowed. “Since you’re here early, and I’m here early, let’s talk for a minute.”
+
+Alden nodded. A few seconds later the walls of their block went opaque.
+
+“No sound in or out,” said the instructor, nodding at the nearest wall of the spacious rectangular block. “And we can have drones film or not depending on what you want. Some people don’t like ‘em.”
+
+He took another huge bite and gulped it down. “I’ve got lots to say, and there’s plenty I can teach. But we’ve only got a couple of hours here, so what are you hopin’ we’ll do with the time you’ve earned?”
+
+It was actually such a difficult question. Alden had spent a significant portion of his evening thinking it through. I need help with the bokabv of course, had been his first thought, but the more he tried to figure out the specifics of what he’d ask Instructor Waker for, the more he realized he was doing a decent job already of prepping for the most obvious stuff. Getting his shield in front of a charging foe was something he could practice for hours at North of North if he wanted; the MPE gym would be better, but not so much better that he needed that to be the main thing they did tonight.
+
+“There have been a few times recently when I’ve felt like I was getting closer to some important realizations about my skill, or maybe just like I was more in synch with it. I thought it would be…”
+
+The word I’m looking for definitely isn’t fun.
+
+“I thought it would be valuable to try to repeat some of those moments here in the gym. I don’t really expect to have a breakthrough in a single night, but it would good to dig into those situations a little more and there’s not time in regular class.”
+
+“Yeahhh,” said the instructor, smiling, “you want to try the catchin’ again! Eyes closed! Some more dangerous projectiles than last time?”
+
+“I would like to do that.”
+
+“And maybe a little somethin’ like last night? Torsten thought you might have had a good moment there when he hit you with the crate. We should save heavy hits on your skill for the end, though, so we don’t fatigue you too much.”
+
+“That would be good, too.”
+
+“Got somethin’ else?”
+
+Alden swallowed. “There was this small, near-drowning incident during the flood? And I’m pretty sure the dueling block can get pitch black, and the suit can make me feel like I can’t breathe, and I could hold one of those realistic dummies we have in the storage room and you could, like, toss me around a little and rip it out of my arms while I’m trying to save it?”
+
+Big Snake was still smiling.
+
+That’s a good sign.
+
+“Could we try that once?”
+
+“Hell no,” Big Snake said. “I’m gonna go get us some tennis balls.”
+
+******

@@ -1,0 +1,371 @@
+---
+id: 2073e261-628c-5f07-a4b5-06c893e50b42
+page-type-slug: story-chapter-royal-road
+title: "FIFTY-FIVE: Man on the Moon"
+slug: 0055-fifty-five-man-on-the-moon
+partOf: super-supportive
+position: 55
+ownLength: 3508
+unit: words
+publishedAt: 2023-07-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1282960/fifty-five-man-on-the-moon"
+royalRoadId: "1282960"
+---
+
+Alden had heard that some humans could run hundreds of miles without sleep.
+
+Not even Avowed. Just ordinary humans.
+
+Not that ordinary, he thought as he jogged. Ultramarathoners. Trained, awesome people.
+
+He was not trained. Or awesome.
+
+And he was carrying another person on his back.
+
+But if being an Avowed was ever going to count for something, he wanted it to count for this. He had Azure Rabbit. He had a whole lot of ground for it to work with.
+
+It wasn’t that he thought he could travel across country without rest for days, but that he needed to. Depending on when Kibby had stopped the car, depending on how fast his average speed was, the trip could be two days. Or four. Or more.
+
+Maybe there were three hundred miles left to go. Maybe there were twice that many.
+
+Alden hadn’t asked Kibby for the number before he started carrying her because it didn’t matter. They were in it now. He would run, walk, or crawl them out of it.
+
+Or they would both die.
+
+In a way, the clarity of his options was a gift.
+
+There was no longer any point in second guessing the decisions that had led them here. Alden was sure he’d made stupid mistakes. Probably a lot of them. He was ignorant and incompetent in too many ways. But he’d done his best, and now all the choices had been exhausted.
+
+He didn’t even have a compass. He just traveled in what he hoped was a straight line away from the car, even though he knew it probably wasn’t. He tried to aim for large holes or ditches he could make out in the distance directly in front of him. It was the best he could do for landmarks. At least his target—the non-chaos zone—was massive. As long as he didn’t get delirious and start walking in completely the wrong direction, he wasn’t likely to miss.
+
+He ran sometimes. He walked others.
+
+He wished he had music to drown out the drum of his own heart in his ears.
+
+When he got thirsty, he planted a sprinkler deep in the ground and sealed a plastic bag over its head to catch some of the water. “Thanks, Thenn-ar,” he whispered as he paced around the device.
+
+He couldn’t stop moving. Maybe Kibby could still withstand the corrupted environment for a long while. Or maybe it was only minutes. He didn’t think she knew any better than he did.
+
+It took a while for the sprinkler to produce a decent amount for a drink, but it was better than trying to carry jugs of water on top of everything else. He ate some dried fruit while he waited. When he’d drunk his fill, he picked up his sprinkler and kept going.
+
+*****************
+
+Hours later—more than half a day if Alden’s time sense wasn’t totally wrong—he realized something bizarre was going on with the ground.
+
+It might have been going on for a long time. The convenient way his trait interacted with the soil while he was in motion meant he felt like he was kicking off of something solid even when it was it just a thin crust of dirt or it was loose and sandy. So he didn’t notice what was happening beneath his feet by feeling it.
+
+Instead, he saw the whole landscape do something.
+
+The change was so subtle it would have been hard to notice except for the fact that the view on Moon Thegund was monotonous. Before it was grass. Now it was ditches and potholes.
+
+And here…
+
+Did the dirt just move? All of it?
+
+Because there was no wind, Alden was not accustomed to seeing motion of any kind around him. He slowed down to his slowest walk.
+
+Several minutes later, it happened again.
+
+Everywhere he looked, in the same instant, the loosest patches of soil shifted. Then, they settled back to stillness.
+
+I think it’s been less than a day. I’m really tired, but I can’t be hallucinating yet.
+
+It happened a few more times, and Alden finally stopped walking altogether and just took single steps from side to side to keep the skill active on Kibby.  There was a shallow depression in the ground in front of him. A patch with sandy crumbling edges.
+
+He stared at it intently, and a couple of minutes later, the grains of dark sand all shivered in place. A small chunk of the edge collapsed into the depression with the quiet hiss of falling grains.
+
+Then, everything was still again.
+
+“Okay?” Alden said to himself. “What was that?”
+
+He kept walking and watching, trying to come up with theories. The only one that made sense was that the whole ground was moving. Like an earthquake. If an earthquake happened for the briefest of moments at perfectly regular intervals.
+
+Assuming it wasn’t a giant subterranean demon creature’s heartbeat—thanks for coming up with that thought, brain—his next, more hopeful guess was that it might have something to do with the wizards cleaning up the chaos.
+
+It’s like something is banging on Moon Thegund like a drum.
+
+On the one hand, that would be good news. Being close enough to feel the effects meant he hadn’t turned in a giant semi-circle and started heading back to the lab.
+
+On the other…what if they weren’t doing some high-powered cleansing spell to get rid of the chaos like he and Kibby had both assumed? What if it was more like they were dropping magical nukes on it from space?
+
+He was hoping to walk into a clean zone surrounded by benevolent chanting wizards. Not step out of the chaos into a giant bombing range.
+
+Alden thought that most of the things that would make a planet-sized moon tremble would make a human-sized person dead.
+
+But that changes nothing, he decided. Because I can’t turn back.
+
+One foot in front of the other. For as long as he could naturally.
+
+And after that, he still had a couple of tricks in his pocket.
+
+***********************************
+
+When I get home, I’m going to be lazy.
+
+Alden made this decision…sometime. How long had it been? A full twenty-four hours yet? Longer?
+
+Was that only wishful thinking?
+
+One of the sprinklers had given up. He’d gotten water out of it five times. Elepta Farm had earned his business if they ever actually grew something that wasn’t mildly toxic for humans.
+
+I’m going to be one of those lazy, rich Rabbits that everyone envies and hates.
+
+No even worse than those Rabbits. I’m going to be the laziest one that ever existed.
+
+He would never walk another step. He would buy a car. And a driver. He would hire servants to carry him on a palanquin. He’d pay some Adjuster with the right spell to follow him around and levitate him up staircases.
+
+Everything hurt.
+
+Legs. Back. Feet. Shoulders. Authority.
+
+He kept adjusting the straps that held Kibby in place, trying to relieve pressure. They’d started to rub him raw even through the coat and the layers of clothes.
+
+Focusing on his future life as the human embodiment of sloth helped for a while.
+
+When that stopped working, he tried to hold a mental conversation with the gremlin. You were loud about the big chain debt for a while, and then you got quiet, he said. I don’t mind if you want to be loud again.
+
+It stayed silent.
+
+That’s really scary of you. Hey. Gorgon’s confused ancestors. Talk to me. Keep me company at least.
+
+He waited for a reply that never came.
+
+Fine.
+
+Be that way.
+
+When I get home, I’m going to hire an S-ranked Sway to force us to eat an entire rack of barbecued ribs.
+
+He snorted at the image of himself, trying to explain to some disturbed Sway why it would be a necessary and righteous use of their powers.
+
+From far away, there was a single whumf of sound. Staring down at the taped-up toes of his sneakers, Alden saw the ground shake.
+
+They started back.
+
+The distant hammering of something against the moon had gone on for a long time. Then it had stopped for a long time. And now here it was again.
+
+With sound effects.
+
+We’re still moving the right way.
+
+He coaxed a few more steps out of himself with that knowledge. But it was getting way too hard. He thought his left foot might be bleeding inside his shoe.
+
+I guess I should do something about that. It’s still a long way. No matter what, it’s still a really long way.
+
+The supply pack around his waist contained bandages, numbing spray, and a change of socks. He was just scared to stop and drop the preservation on Kibby for the minute or two it would take him to use it.
+
+He was afraid she’d be hurt. He was afraid he wouldn’t be able to pick her back up. Physically or magically.
+
+Whumf.
+
+It wasn’t like the situation was going to get better as time passed, though.
+
+He walked a bit farther, trying to put himself in the right headspace to do and say the right things. What were the right things again?
+
+Whumf.
+
+They came around ten minutes apart maybe. That was cool. He could use the sound of the Artonans bombing the hell out of his destination to keep time.
+
+Whumf.
+
+Alden took a knee in the soft dirt.
+
+It hurt. His knees were starting to hurt. They’d never done that before. Was it just the amount of walking and running, or was the trait taking a toll on his joints?
+
+“Alden?”
+
+“Don’t unstrap yourself,” he said. He was surprised at how dry and raspy his voice sounded. He’d been drinking plenty. “I’m just changing my socks really quick, and then we’re moving again. Can you do just a couple of minutes?”
+
+“I’m fine.”
+
+“No lies right now. We’re making good time.” Ha. Hypocrite. You don’t even know if you’re lying yourself or not.
+
+“I’m fine,” Kibby whispered.
+
+Alden’s feet looked way worse than they’d felt. One of his heels was actually glued to his socks with blood and whatever the clear stuff that came out of blisters was.
+
+He lifted the foot, hunched over so that he could reach his hands around it. Made an attempt at the kindergarten hand sanitizing spell.
+
+If you held something in a specific position between your hands it was supposed to work on it instead of them. So maybe it would help.
+
+His authority shuddered. Straining it in a new direction made him feel how far from himself—Artonan version of the word—he was.
+
+He sprayed the numbing spray. Bandaged the foot. Pulled on the clean sock. Stuffed it in the shoe.
+
+“How long has it been?” Kibby asked, wriggling a little against his back.
+
+She knew he didn’t really know.
+
+“Almost three days,” he lied again. “You know that means we must be getting close.”
+
+Whumf.
+
+“What’s that?”
+
+Alden finished doing the best he could and stood back up.
+
+“That’s where we’re headed.”
+
+His whole body screamed at him when he tried to take a step forward. He almost fell face first in the dirt.
+
+He tried again with almost the same result.
+
+He wanted to lay down. He wanted to sleep right here in the chaos. It couldn’t be that bad could it?
+
+Oh, he thought. So this is how far I go without cheating.
+
+Hey, gremlin. I know you’re not gone even if you pretend to be. Wanna see something cool?
+
+Alden licked his lips and cleared his throat. Then, he said the sacrifice half for the peace of mind chain.
+
+He shuddered as it fell on him. His anxiety spiked. His sluggish, sleepy thoughts turned a little wilder.
+
+I can’t stop moving. I can’t. I’ll die.
+
+He took a step and then another. It wasn’t enough to satisfy his fresh sense of dread. He needed to jog.
+
+So he did.
+
+The opposite of peace of mind was fear.
+
+Occasionally, fear was a good thing.
+
+***********************
+
+Blowback for peace of mind lasted around three hours. Alden made the sacrifice three times, paying back the debt for every chain he’d used to sleep in the car. Then, because he hadn’t physically fallen down yet and his body was still functioning, if poorly and painfully, he used it a fourth.
+
+He was going to enjoy having the positive half in the bank at some point.
+
+By the time the fourth started to run out, he was staggering more than he was walking. Everything hurt so freaking much that even the fear couldn’t keep him moving anymore.
+
+He tried to focus on the auriad. Kibby’s gift was a constant source of comfort, hidden under his shirt against his chest. It was the only thing in the world that felt pleasant anymore.
+
+His body was done. His authority wasn’t recovering. At all. All the new authority he had made still existed…but it had been pushed too far out of alignment…or something like that. It was tired. He was tired. He couldn’t thrust the chaos away. He felt like something was penetrating right through the rest of him to batter at his skill and the trait that was built onto it.
+
+Now, it seemed like even that was at risk of cracking apart. Alden kept urging it along. Kept his fingers deliberately pressed against all of the machine’s ON buttons, so to speak.
+
+But it was getting hard.
+
+He wondered if it would have been better or worse if he couldn’t actually feel the machine. He could see it going either way.
+
+Maybe an Avowed who wasn’t able to feel the skill consciously wouldn’t be able to keep forcing it to work in this situation. Or, maybe they would, and they wouldn’t even know they were in this unique kind of pain.
+
+Alden had never been in pain before, when he felt the thing most humans called skill drain.
+
+He’d just…kind of stopped.
+
+The skill is stronger than it was, though. A lot stronger.
+
+He remembered months and months ago, how that single fleck of a demon grasshopper had landed on Kibby’s hair and made him reel.
+
+He knew it was a direct strike against the skill from a creature that actually magnified chaos. But he thought he could take it much more easily now.
+
+He was positive that the skill could not have preserved another person for days before. And now it could. It could do it even here, in this hostile place, where Alden was falling apart.
+
+At least Level 4, he thought. If it’s not at least there by now, I’m going to have a fight with the System about its abilities as a judge.
+
+He stepped wrong. His ankle rolled.
+
+It had happened before, but this time it was bad enough that he was pulled for a moment from his focus on the skill and the assault of the chaos back into his beleaguered body.
+
+Without his attention, his trait collapsed.
+
+It just turned itself off without his permission. Even though he was still carrying Kibby.
+
+His feet sank an inch into soft dirt.
+
+Yeah. This is worse than bad, he thought tiredly, kicking up soil and sand as he trudged forward. Gotta keep the willpower and the focus up somehow. Abusing my adrenal glands with reverse peace of mind isn’t going to cut it from here on it.
+
+He was so tired his vision was tunneling.
+
+He planted his last sprinkler. It hadn’t worked well for its past two uses, and it didn’t for this one either. It just dribbled water down its plastic sides and he had to wait a long time for his bag to catch enough to make a decent amount for drinking.
+
+This time it didn’t.
+
+He got a measly cup before it quit for good. Alden gulped it down, saving the last sip in his mouth while he fumbled with fingers that had once been kind of dextrous for the very last of his last resorts. He pulled out a small silver pill bottle and poured the contents into his palm.
+
+“This one keeps you from throwing up. This one keeps you from passing out. This one temporarily inoculates you against Thetet Fever, and this last one makes you unable to register physical pain.”
+
+He still remembered them all.
+
+He ditched Thetet Fever. Kibby said it didn’t even exist on Moon Thegund, so who needed it?
+
+He tossed the other three into his mouth and swallowed them with the last of his water. It took less than a minute for the effects to kick in.
+
+Just as he’d remembered from his trip to the hospital with Stuart, the Artonans were great at drugging people.
+
+His vision untunneled. He could straighten his spine without the agony of a couple of different pulled muscles. He could put his full weight on the ankle he was pretty sure he’d just sprained.
+
+He felt normal. Physically.
+
+If he didn’t have common sense and authority sense, he would have thought they’d given him a healing miracle in a bottle.
+
+But he did have authority sense, so even though he felt great in one way, he felt like crap in another.
+
+He took a few steps forward easily, trying to get Azure Rabbit back online. Come on, come on, he thought, pushing at the part of his bound authority that belonged to the trait. You only do one trick, so you’d better do it.
+
+It was going to be a really slow walk without it.
+
+Maybe pushing isn’t the right thing, he thought. Maybe its more…
+
+He tried to picture the way the trait was designed. The thing the System had built for Alden to use. He had been poking at it angrily for ages now, resenting it even as he knew he needed it. So he knew what had gone wrong when he took a closer look at it.
+
+It wasn’t just turned off. It was slightly askew.
+
+This wasn’t something perception or positive thinking was going to fix.
+
+The trait itself had weakened and wobbled. It didn’t want to recover. And now that Alden examined it with his mind free of the burden of a host of bodily aches and pains…it was a big crack in his overall stability, and that crack was deepening.
+
+Not good.
+
+There’s got to be a way to mold my authority back into the proper shape of the trait. Like manipulating it to fill in the empty panes when I make patterns with the auriad. I know I can’t alter the trait, but trying to patch what’s already here by asserting its existence deliberately should be doable, right? Like…
+
+He took another step, and his foot finally left the ground in the way he wanted it to.
+
+“Ha!” he said in a rasping voice as he jogged forward. “Alden can do magic intelligently now. He’s an Avowed with kinderwizard training.”
+
+Admittedly, he was also hyped up on alien drugs and talking about himself in the third person. But it was still an impressive achievement.
+
+**********************
+
+The good-bad thing about feeling a little better was that Alden actually had enough presence of mind to think again.
+
+He could imagine clearly all the terrible things that lay ahead.
+
+The worst, by far, was the thought of what would happen when he collapsed. He was sure that when the drugs gave out, he finally would, too. Permanently.
+
+Kibby would have to see that.
+
+He didn’t want that for her. But there was nothing more he could do to prevent it from happening.
+
+Since running didn’t hurt anymore, he was running.
+
+The whumf, whumf sounds came again. So much louder. He could see the ground shake clearly now. Soil jumped around him every time.
+
+In the distance, on the edge of the horizon, the sky looked strange. Far too dark. Like an approaching storm on a moon that never had them.
+
+Hours passed. The sounds stopped.
+
+The storm clouds grew closer.
+
+Alden let his body move as if it wasn’t being destroyed and focused all his attention on asserting his trait and his skill.
+
+Not even the rest of himself anymore. He’d had to stop. He’d had to choose. So he chose just those two things.
+
+They seemed like something the System had taken from Alden and written onto reality. They chained him. He’d never be rid of them. But if they were the only thing holding him here now, he’d rely on them.
+
+The kept wobbling and cracking, and he kept reasserting them.
+
+Who has language for existing harder?
+
+Me. Now. Apparently.
+
+A lot can change in a little while, I guess.
+
+He could feel his heart racing like it wanted to escape from his body. He could feel himself gasping like his lungs were begging him for air. Under his coat, his clothes were drenched, and he wasn’t sure if it was sweat or blood.
+
+But none of it hurt.
+
+And he thought, maybe, that storm was his destination.
+
+So he didn’t stop.

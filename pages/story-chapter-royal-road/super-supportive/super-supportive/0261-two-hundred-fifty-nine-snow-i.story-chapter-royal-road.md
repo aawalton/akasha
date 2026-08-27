@@ -1,0 +1,377 @@
+---
+id: 355d9eb7-6ae2-5df7-b67a-f69c099e99d8
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-NINE: Snow I"
+slug: 0261-two-hundred-fifty-nine-snow-i
+partOf: super-supportive
+position: 261
+ownLength: 5174
+unit: words
+publishedAt: 2025-12-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2823388/two-hundred-fifty-nine-snow-i"
+royalRoadId: "2823388"
+---
+
+259
+
+******
+
+This is a bad way to kill something.
+
+He was already moving to intercept the demon’s charge. The trip line was preserved, and his steps were light across the unstable ground. He understood how it would play out so clearly that it almost felt like he’d seen it before.
+
+The way one of the bokabv’s legs would break when it hit the line and how its spine would twist in the air. The crack of something else within its body as it hit the ground.
+
+Corrupted dirt and ropes of saliva would fly as it rolled.
+
+He knew it would struggle to rise over and over, its madness and desire to protect the herd it had lost urging it to keep going no matter how badly he’d broken it. Sometime after he and Kibby were long gone from this place, it would succumb to its injuries and the chaos. A gruesome death for a thing that was already gruesomely dying.
+
+I can do better.
+
+His hands were quick enough and accurate enough for a more lethal first blow. His skill would hold for more than one strike if that first one didn’t finish it.
+
+He was stronger. They were going to escape instead of hiding out at the lab. He was going to give this animal, and himself, a tiny mercy in this merciless place.
+
+He moved a little differently at the last instant and aimed his line for the bokabv’s skull instead of the legs. When the demon hit, he didn’t blink or flinch. He kept his eyes wide open and his feet moving.
+
+The bokabv rolled. Dirt and mutated grass showered Alden. He spit a poisonous-tasting clump of it from his mouth as he backed away from the fallen demon. Its final scream hung in the air, but the mouth didn’t seem to be screaming. Blood poured from a deep gash across its head. A chunk of its mutated flesh oozed in the remains of the grass.
+
+“You dead?” he asked.
+
+The chest lifted once, like the demon was taking a breath, and he readied himself. But the huge animal lay there, and no second breath came for a long time.
+
+Alden backed away, never taking his eyes off it until he reached the car. Then he sat there for another minute, watching the still lump through the rear camera.
+
+“Is it dead?” Kibby whispered. Her hands were wrapped around her safety harness as she leaned forward to look closer at the screen.
+
+“I think so, but touching it to check seemed risky.” He imagined the bokabv regaining consciousness after they left. “Can you make a bomb? We’ll make sure it’s over. Nobody should have to be alone in this place.”
+
+“I already made four.” She sounded proud.
+
+“Four,” he said. “That’s a normal number of bombs to keep in our car.”
+
+******
+
+******
+
+A gasp upon waking.
+
+The cold solidity of the metal bunk rail against his palm.
+
+“Good,” he said as he finished collecting fragments of the dream and understood how it had gone. “That one was right. Finally. Rest in peace.”
+
+He breathed deeply in the dark and released the rail as his body relaxed.
+
+When dawn came and his bare feet touched the floor, he thought Earth felt more solid beneath them.
+
+******
+
+******
+
+On Tuesday morning, Alden strolled out of his science exam, satisfied with the ninety he’d earned, and decided the sunshine and the almost warm temperature were good reasons to take a slow flight around campus instead of rushing back to the dorm. Thanks to finals and the approaching holidays, there were some unusual sights to see. Carolers were singing in front of the Wong building, and the student council had set up a stress relief area where people could sit in massage chairs or practice Peace of Mind with a tutor.
+
+When he crossed over to the uni side of Celena North, he discovered that they were having a tacky outfit day. Giant candy cane earrings, belts made of Christmas garlands, and shirts featuring sunbathing elves looked even more garish than they usually would have since he and his fellow high schoolers were still wearing uniforms.
+
+I don’t mind it, he thought, lying on his stomach with his head over the side of the nonagon for a different view. It reminded him of the kinds of things they’d done for spirit week at his old high school.
+
+He people watched, waving at anyone who waved at him.
+
+As he entered uni hero program territory, he spotted a group of students hanging star-shaped lanterns from the branches of trees near the MPE building’s big brother. The second largest superpower training gym on the planet was sometimes called Glass Mountain, due to the appearance of the magic that formed the roof, but the official name was Kynas, an Artonan word that lost a lot of its awesomeness when English speakers translated it as “start” or “beginning”.
+
+It did mean that, but it meant it specifically in the sense of multiple factors coming together to create something new and astounding. Artonans used it to describe the moment when they’d had a world-changing idea or the instant a child was conceived. Whoever had named the building had obviously been suggesting that it would be a place where Earthlings gifted with Artonan magics had epiphanies and began journeys toward greatness.
+
+They’re probably offended that people fixate on the roof instead.
+
+Alden was about to fly on when he realized he recognized one of the college girls decorating the trees. It was Dee, the Adjuster who had stuck with his class while they evacuated the Span.
+
+He dropped lower and hopped off the Nine-edged Son just a few steps behind her. She had her back turned to him while she rummaged through a box of supplies they were using to attach the lanterns and repair broken ones.
+
+“Hey, Dee? I don’t know if you recognize me, but I was with the people on the bus when the Span flooded. And you—”
+
+She spun around with a fistful of zip ties in one hand and a pack of batteries in the other. She had on red and green pajamas. “Wow! Hi!”
+
+“I just saw you and realized I should have thanked you before now,” Alden said. “For staying with us that night. It was great of you to help.”
+
+“Of course I stayed! And of course I recognize you. You’ve got that.” She pointed at the nonagon. “So you’re more recognizable than the average person. How great would that thing have been on Submerger night? Better than flying around on someone’s countertop! Do you do hugs? Handshakes?”
+
+She tossed the batteries to a guy wearing striped socks and sandals before coming over to shake Alden’s hand.
+
+While he gave her a lift on the nonagon up to the higher branches, she explained that as she and her friends had left their ranged combat class last night they’d realized these lanterns they were used to seeing in December hadn’t made an appearance this year. So they were putting them up themselves.
+
+“Everyone’s doing it,” she said. “Finding all the things that were skipped over this year because of circumstances and keeping them alive. The school didn’t cancel the most popular events, like Reindeer Selection, but loads of the minor traditions were going to get left out. And now they’re all back on the schedule because of clubs taking them on at the last minute. So make sure you go to some of the activities this week.”
+
+“I’d love to,” said Alden, zip tying a lantern to a limb. “But I’m pretty busy.”
+
+He was so used to being busy and telling people he couldn’t participate in things. He spent another twenty minutes helping uni students he didn’t know do some decorating before it occurred to him that these were not the actions of a terribly busy person.
+
+It’s nice that today’s like this. I could use more easy ones. Tomorrow…oh, actually tomorrow’s just one final and MPE. But the next day I have to…wait…what on Earth…?
+
+He was surprised by what he’d just realized. And amused at himself for being surprised.
+
+When he made it back to his room, he sat at his desk and opened his laptop to access his schedule. Sorting out the week ahead had been something he planned on doing this afternoon, but it turned out it wasn’t going to be the juggling act he’d come to expect.
+
+Hours and hours of blank time slots greeted him. All of a sudden, Alden Thorn had nothing to do.
+
+He celebrated by casting spells until he couldn’t anymore, then he wore his study earring and read about the summoning spell until his eyelids felt like sandpaper and his brain turned into an ecstatic mush. He didn’t emerge from his room until three in the afternoon, and that was only to get leftovers from the fridge and say hello to Lexi, who was studying for his tests in his favorite chair.
+
+“I thought I was alone here,” said Lexi. “You’ve been so quiet.”
+
+“I’m about to be quiet some more. I’m studying, too.”
+
+Cast, read, cast, feed. I could repeat that cycle from now until January.
+
+Although it was an enticing vision, by evening he was forced to admit that his ecstatic mush might be getting overcooked. He’d been trying to obtain knowledge from a mysterious shape he’d found on one page for ten minutes before he realized it was not a clue Whan-tel had included for the reader but a faint stain from something a former owner of the book must have spilled.
+
+“I’m going out for a jog,” he announced on his way through the living room. The only sign that Lexi had budged in the past few hours was the cup of coffee he was sipping while he stared at his interface. The sound of the bathtub filling was probably proof of Lute’s existence. “Then I’ll grab third meal somewhere. Do you want anything?”
+
+Lexi swiped whatever he was studying aside to look at Alden. “No thanks. Maybe text Haoyu and ask, though.”
+
+“Yeah, I’ll do that. Where is he?”
+
+“Library, skateboarding, North of North, or running around trying to take his mind off things in some other way. He’s not going to say it, but he gets more nervous toward the end of his parents’ trips. And his mom’s supposed to be back on Saturday morning.”
+
+Alden’s eyes landed on their tree. The lights were cycling from a pinkish red to orange. Haoyu’s toilet paper tube Nautilus Needle was still being assaulted by dinosaurs. “Got it.”
+
+“Do you realize you called supper ‘third meal’ just now?” Lexi asked.
+
+“Did I?”
+
+“Yes.”
+
+“That’s because my brain is mush. Nothing to worry about. Do you mind entrusting me with something before I go?”
+
+******
+
+It’s ironic that I gave that “must be nice” Rabbit guy a speech about how I never, ever have free time and then days later, my schedule clears, thought Alden, letting his strides carry him toward the uni gym so that he could find out what the lanterns looked like at night.
+
+One of Lute’s paper polar bears was in the pocket of his jacket, preserved and enabling him to switch between using his trait and a normal jog whenever he wanted.
+
+In my defense, I completely missed the fact that this was coming. And it’s not like I don’t have twenty things I can shove into those blank time slots.
+
+Hindsight showed him all the changes and decisions that had led him here. Some were obvious. Regular classes weren’t held on finals week, and he had studied for his exams early with the help of a magic earring. There were also other things he couldn’t have foreseen, like duels happening yesterday instead of later in the week. He’d intended to spend more time preparing for the fight against Winston, but those plans had been ended by a battle that lasted mere seconds.
+
+And finally, there were a few changes Alden had failed to understand the scope of, even though he’d known that they were happening inside him.
+
+Those are the amazing things.
+
+He could see the peaks of Kynas glowing against the darkening sky. The colorful stars tucked among the leaves of the trees out front looked like mystical fruit.
+
+I couldn’t have free time when I was being driven by fear. Because as soon as I saw some empty time ahead of me, it looked like a spot where I had to slot in all the things I needed to do to save myself from the possibilities that scare me.
+
+He’d had the thought before. It had been really clear to him a couple of weeks ago when he found himself enjoying the first floor of the challenge tower instead of thinking about how he needed to train to keep himself safe.
+
+Tonight, I’m just running because I felt like moving my legs. Earlier, when I practiced the flashlight spell, it was because making light is neat and I like being able to do it, not because I think I’m destined to end up alone in the dark again. Tomorrow, when I ask Lute to watch me practice wordchains or ask Haoyu if he wants to punch my skill a few times, it can be because I want to hang out with them and do some magic, not because I’m afraid I’ll bite it if I slack off for ten minutes.
+
+He might spend the week doing a ton of the same productive stuff he always did, but maybe he’d be doing it without background anxiety that nibbled away at the pleasure. That menace wasn’t with him tonight. And when it came back, it wouldn’t stay forever.
+
+Have I crossed some midpoint now? he wondered. Where the days like this start to outnumber the other kind?
+
+He believed he might have.
+
+The air was crisp. His steps ate ground because he didn’t want to miss his dining slot at Cafeteria North, not because anyone’s life depended on his speed.
+
+Feels good. Feels strong. What is it I do when I feel like this?
+
+“System,” he said, springing over a bench for the heck of it, “set a timer for me. A countdown. Half an Artonan year, minus four days.”
+
+That should be about right. I can adjust it later if I find out the date’s a little off.
+
+The countdown appeared before him, lingering for half a minute before fading. It would hang out with his clocks now and make a reappearance whenever he was checking the time.
+
+“And…” Alden hesitated. “And update me on the hot chocolate situation. Now’s a great time. For me.”
+
+******
+
+Look at me. I’m brave. Stomach of iron. Nerves of steel.
+
+Alden took a defiant bite of mushroom barley pilaf while he read the System’s answer again. He would eat a nutritious, normal-sized meal while looking at his level up, and he would not barf at the thought of affixation. This was like a training exercise for his guts, both the literal ones and the other kind.
+
+Unfortunately, his literal guts weren’t entirely on board with the vision. He chewed slower.
+
+[Well done, Alden. You’ve grown.]
+
+[Your magical capability is increasing, and overall, you’ve earned 1 new level. The reward options from last month are still waiting. New options have now been added to your rewards list. Would you like to see them?]
+
+Asking for the news when he was in a positive headspace had seemed like a clever way of protecting himself from the surprise leveling notices the System had warned him it might deliver in the future. Now that he was looking at the thing, he was less sure.
+
+He’d requested a number that was fairly irrelevant to him, and he was having more of a reaction to the irrelevant number than he wanted to. He was disappointed that the System wasn’t calling his progress with Bearer a level yet, like last time—plus one to Bearer and plus one that needed affixing. It had just felt better to see the skill level going up simultaneously.
+
+And that disappointment made him realize that some unhealthy wishful thinking had been going on in the most hidden corners of his mind. He could literally feel his own authority, and he knew the growth of the free was outpacing the bound. But there must have been a fantasy lingering inside him that the System would tell him he was wrong about himself.
+
+The balance had tilted toward Bearer’s growth for a while, after saving Zeridee, but his free authority had gone right back to closing the gap. If everything kept going as it was, he could still look forward to an affixation in a matter of months.
+
+The System could have called the skill growth a level if it wanted to. To improve my mood and congratulate me on figuring out some new tricks. But would that really have made anything better, or would I have been mad about it manipulating me?
+
+The System had given him an animated border around the announcement window. A golden cat climbed up one side and batted a ball of yarn that rolled across the top of the rectangle and fell off the other side.
+
+Alden thought it was there to help him maintain his sanity. He wasn’t sure how he felt about it.
+
+I will consume grain and chipotle tofu and look at you, cat.
+
+[It’s sort of a scant ‘level’ on the free authority, isn’t it?] he texted the System after watching the cat go around a few more times. [And if I’d waited a little longer, I could have gotten one on the skill, too. It has grown a decent amount. Maybe I should have let you do what I asked instead of rushing it by demanding you tell me.]
+
+He had asked it to be as kind to him as it could.
+
+[Your response to this level announcement is much more controlled than your response to the last one,] it replied.
+
+I think that was a compliment.
+
+It wasn’t awful to receive one from Earth.
+
+He kept eating slowly while Cafeteria North bustled around him. The table he’d gotten was near the edge of the cluster outside the salad place, and there weren’t many empty seats tonight. He expected some stranger to ask to share with him eventually. That was fine since it would limit the amount of time he could spend on this gut training endeavor.
+
+[Admit it,] he sent to the System. [You’re just saving up the +1 to Bearer because you want to deliver the news through a dream again. Probably while I’m strapped to a dentist’s chair having potion injected into my gums…but I’m kidding about that. Seriously. Please don’t set our next meeting somewhere medical.]
+
+[I will honor that request,] it said.
+
+“Thanks for that.”
+
+“Are you on a call right now? Mind if I sit with you? This place is packed tonight.”
+
+Alden’s gaze flicked away from the System’s message to take in the person who’d come to join him at his table. “Rahul! I just finished a call. You can sit.”
+
+He closed the level-up notice. Mission complete.
+
+The president of The B-list took the chair across from him. “Are you very hungry?” he asked, eyeing the veggie pizza box and chicken sandwich at Alden’s elbow.
+
+“I wish I was. No. This is for my roommates. How have you been? Congratulations on graduating.”
+
+“Finally,” said Rahul wryly. “I’ve had one foot in high school and the other in uni for so long it takes the impact out of graduation.”
+
+Rahul turned out to be the right kind of dining companion to settle Alden’s thoughts.
+
+He was a friendly, grounded guy with interesting opinions and a desire to talk about subjects that were just the right amount of important to keep Alden focused on the conversation without it feeling like work. At one point, he shared that he had been frustrated for much of his high school career about the same things that were currently bothering Max.
+
+“He reminds me of me, and if I’m right about that, he’ll have similar ups and downs. Being smarter than everyone else and working harder than them will get you places. Wanting to be recognized for it is natural, but it can make things rough. There were a few times I felt like I was burning myself alive in front of an instructor while they clapped for an S-rank who’d fallen out of bed and wandered into the gym by accident. I blew up in the middle of second year. I shouted at Ash that I was his student, too, and told him he needed to give me some advice for once.” Rahul took a long breath. His eyes turned toward the fountain. “And he looked at me for two seconds, if that, and said, ‘I advise you to be more inspiring.’”
+
+Alden laughed. “I’m sorry. I’m not laughing at you. It’s just…that’s so harsh! I can’t believe a teacher said it.”
+
+“If I could have, I would have shoved him headfirst into my launcher and fired him at the nearest wall. I still wouldn’t say no to the opportunity if it came along.”
+
+“He’s that terrible?”
+
+“It might not be fair to call him terrible. If I’m honest, he’s in the middle of the pack when I consider the amount of knowledge I gained from classes he taught. But he’s definitely the faculty member who enrages me the most. Because he can come up with brilliant ideas and challenges for his favorites, but if you’re not one of them, all you can do is scramble around hoping you’ll earn a word or two from him that week.” He wiped his hand on a napkin. “Anyway, beware of that and be smarter than me. I’ve wasted too many days of my life being outraged about situations that my outrage has no effect on.”
+
+“I’ll keep it in mind.”
+
+“And let’s see…do give a hundred percent, but know that sometimes as the lowest rank allowed in the program, you’re going to give a hundred percent and fail anyway. Instead of blowing up at an instructor, hopefully you go to The B-list and they remind you to stay on track. That’s the kind of thing the club is supposed to be for. If the current second years don’t destroy it. Or you can call me. Even if I decide to quit Talent Development, I’ll still be right here on campus. I intended to be the cool senior who spends his last year of high school mentoring the new students, but I never got to do it much. So you’d be helping me live out my dreams if you ever needed something.”
+
+If that was his aim, it explained a lot about the direction this chat had taken. Earlier, Rahul had been doling out tips about which teachers had annoying grading policies and how to utilize the school’s flex break option. Students at CNH could take one quarter a year off, as long as they completed enough classes for credit during the rest of the year.
+
+“You’re thinking about quitting the program?” Alden asked, realizing what he’d just said. “But…”
+
+“But what?”
+
+“It’s hard not to root for a Wright superhero who shoots garden gnomes at things.”
+
+“I’m glad you approve of my taste in ammo.” Rahul leaned back in his seat. “I’m transitioning to the uni Talent Development program next quarter like I always intended, but after what happened with the attack on Matadero, I’ve had some…priority realignment moments. Calling them doubts doesn’t seem right because I don’t doubt that I could inspire youth to appreciate science and magic through gnome-assisted crime fighting. It’s an all right goal, isn’t it?”
+
+“It is.”
+
+“But having something serious happen here, at home, is making me take another look at what I want. I could focus on building more launchers, in case they’re ever needed. I could found a new Wright workshop and hang out with people who like the same things I do. And I’m hoping my girlfriend is going to be more than a girlfriend one day. She’s not enthusiastic about me working in another country. So I’m thinking. That’s all.” He looked around the room. “There’s more than one way to live a good life.”
+
+The two of them left the cafeteria together, but they parted ways when they made it outside. Alden was going to hang around in the area because one of the Celena North Christmas traditions Dee had said was an absolute must-see was happening at the cafeteria’s closing time.
+
+“The Lighting of the Waffle Cart,” he said. “She told me it was a huge deal.”
+
+“Of course you need to see that,” Rahul said. “And definitely try to get to this if you can.”
+
+He swiped something across his interface, and a moment later Alden received an image of it.
+
+“It’s my favorite Christmas event on campus. I went for the first time last year, and I was so annoyed with myself for skipping it before.”
+
+It was a picture of one of the notices that appeared on the dorm activities boards.
+
+5th Annual Superhero Snowball Fight
+
+MPE Gymnasium
+
+Sunday, December 23
+
+8:00 PM
+
+“You’ll love it,” said Rahul. “Show up early, put on your gym suit, and cheer as loud as you can for whichever faculty member you think likes you best. If you’re lucky, they might even let you join in.”
+
+******
+
+A few minutes later, Alden waited in the cafeteria’s faux town square with around three hundred others. The lights dimmed. A band of university students who called themselves Punchy and the Sways had been playing by the fountain, and they switched over from their original songs to Christmas music while the eateries closed down.
+
+He watched people who were still in their tacky holiday outfits take pictures with each other. One group was sneaking around the edges of the crowd, depositing stuffed black trash bags as they went. The anticipation was palpable.
+
+A drumroll preceded the arrival of the waffle cart, and everyone fell quiet, waiting for the moment when it was lit. By a single strand of colored lights.
+
+That’s it?
+
+The crowd went wild. Students screamed and hugged their neighbors while the trash bags were propelled into the air by magic and ripped apart to shower everyone with tiny white shreds of paper snow. A girl in a Santa hat grabbed Alden’s arm, pointed at the waffle cart, and said, “It’s so breathtaking! The beauty…the beauty…!” with tears welling in her eyes.
+
+Then she fell to the floor, pretending to be overcome for another minute before running off with her friends to get waffles.
+
+So that was a weird one, Alden thought, picking shreds out of his hair on his way back to the dorm. Finding out about a campus tradition was fun, though. Maybe one day he’d be the third year or the college student, confusing newbies by acting like the waffle cart with its dinky strand of lights was the essence of the holiday.
+
+I could be. That door hasn’t closed.
+
+He was approaching the bench he’d sat on after his final admissions interview, when Klein had told him he had no future as a superhero because one skill wasn’t enough. He almost passed it by, but then he stopped and sat on it, as he had that day, to examine himself.
+
+The skill. The free authority that would be bound into the skill.
+
+One more level. A few steps closer to affixation day.
+
+He pulled up his clocks with a thought. They showed him the time of day on Artonas I and III. There was one for Chicago. One for Anesidora. And now he had the countdown to the next Welcome End.
+
+Stuart’s final Welcome End.
+
+The beauty…the beauty…
+
+Almost as soon as the girl had said that, even while surrounded by people losing their minds over a barely decorated cart, Alden’s thoughts had gone to a much quieter place.
+
+To a spiny, hard thing that would endure harsh waters. And the delicate, jelly butterfly with the glowing blue pulse that would be born from it.
+
+To what Stu-art’h believed about beauty. And life. And power.
+
+I like what he believes. It’s noble. Self-sacrificing. Hopeful. It’s very him.
+
+He wondered if Stuart thought he was the spiky patient creature. Or the life that it protected.
+
+What he thinks about that isn’t the real question, though. It’s what I think about it that matters.
+
+Knowing Stuart, bad people weren’t allowed to be patient creatures at all. The jelly butterfly category wasn’t supposed to be a less important beauty, but a different one. A life like Enyl-tirg’s as she made learning cushions and cared for her neighbors. A life like Rahul’s if he got to spend it dispensing helpful advice and creating a Wright weapon every now and then to protect his homeland.
+
+The Olget-ovekondos of the universe were more like toxins or predators that made the river treacherous.
+
+If the river was closer to perfection, the patient creatures would never have to grow spikes.
+
+Alden closed his eyes, letting the clocks become the only thing he could see.
+
+I need to know what I’m like when I’m swimming free in the river instead of drowning in my damage. If I can talk affixation with Earth without puking, I’m fit for that challenge. I’ll look through every door that’s still open and catch a glimpse of who I might be on the other side.
+
+That’s the choosing season.
+
+That’s what I do with all that blank space on the schedule.
+
+“Alden, are you sleeping on a bench?”
+
+He opened his eyes and saw Haoyu standing in front of him, holding a skateboard with a broken deck.  “No. Just thinking.”
+
+“What about?”
+
+“The beauty of the waffle cart. Alien sea urchins. Polluted rivers. Doors.”
+
+“Finals broke you,” Haoyu said sadly.
+
+“Maybe, but what broke you? Is that blood on your knee?” He leaned forward to stare at the knee sticking out of Haoyu’s shorts. “I know your Formation isn’t fully settled, but how does a Dura Brute skin his knee?”
+
+“There’s this building about two kilometers from here that’s shaped like a skateboard ramp.”
+
+“I think I know that building. That’s a pretty tall building. I’ve got a chicken sandwich and a veggie supreme pizza here. You can have either. Whatever you don’t eat will be Lute’s.”
+
+“Chicken!”
+
+Alden passed him the box with the sandwich in it, and he had it in his mouth so fast that Alden wondered if he should have gotten more.
+
+“That building looks even taller when you’re skating down it,” Haoyu said after swallowing his second massive bite.
+
+“I’m going to trust you on that instead of experiencing it for myself. I’m not trying to shorten my life during this break.”
+
+Time to figure out how to live it.
+
+******

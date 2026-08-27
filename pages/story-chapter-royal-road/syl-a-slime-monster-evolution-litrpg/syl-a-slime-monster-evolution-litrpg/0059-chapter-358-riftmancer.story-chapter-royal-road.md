@@ -1,0 +1,243 @@
+---
+id: 6c8d2562-b3f8-5b12-9c9f-9f83222100ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 358 : Riftmancer"
+slug: 0059-chapter-358-riftmancer
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 59
+ownLength: 2445
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3131927/chapter-358-riftmancer"
+royalRoadId: "3131927"
+---
+
+"It's about damn time! I've been waiting ages for this moment!" Vee excitedly exclaimed.
+
+"It's my class. Why are you acting so impatient about it?" I asked.
+
+"Look, at first I didn't mind. But the longer you kept delaying it, the more I kept wondering about it," Vee admitted.
+
+"I, too, would be miffed if I were kept waiting for donkey years," Leon chimed in.
+
+"You don't even believe in magic; your opinion is irrelevant," I quipped back.
+
+"If anything, whatever Syl gets will probably just make you more upset," Vee said with a chuckle.
+
+Leon sighed. "Most likely. What even is a Riftmancer?"
+
+"Just like a Pyromancer, except for rifts," I answered.
+
+"And rifts are dimensional spaces," Vee added.
+
+"I'm already getting a headache…" Leon groaned.
+
+"Master…" Sylbera said, inserting herself into the conversation.
+
+"Don't tell me you also have complaints," I said, frowning.
+
+If Vee had turned my own [Sub-Core] against me, then I don't know how I'd react.
+
+Sylbera shook her head. "No, I just wanted to ask that you swap back to the blacksmith profession again before you run off."
+
+"Sure," I quickly agreed.
+
+"You really should unlock your second class slot," Leon commented.
+
+"I would if I could!" I roared in frustration. I wanted to tear my hair out, if I had any.
+
+"Oof, you went straight for the sore spot," Vee scolded.
+
+Leon coughed awkwardly. "Can you not try to unlock achievements?"
+
+"Our achievements are in the more figurative terminology," Vee said with a sigh.
+
+Both of us were annoyed by that. Sure, we'd gained some tremendous benefits along the way, my recurring quests from Mother on the "mysteries of magic" were a prime example of some preferential treatment.
+
+However, none of us had ever heard of these achievements before. It might have been something only Unc could grant, but evidently, he didn't bother to reward us for allowing Leon to join the team.
+
+We, of course, looked at it from a different angle—Leon couldn't receive quests as he wasn't even related to the adventurer system until he joined us. Vee got access to it through me, and thus got the absurd "go to the beach" quest from Unc.
+
+I shrugged and shook my head. "Whatever, let's go do this."
+
+I grabbed the crystal from Omicron, our loyal defender of the tree and giver of classes, and quickly swapped to the blacksmith profession, as requested. The levels soared up, and it looked like Sylbera had finally progressed enough to lose the Apprentice portion of her title.
+
+I accepted the upgraded class and gave her permission to do whatever she wanted with the Profession Points as long as she didn't touch the five remaining I'd earned from Runecrafter. I'd likely need it to pick up things like [Beginner Alchemy] in the future, and Vee even wanted me to create a persona with the farmer class.
+
+Speaking of [Roleplay], it had reached level nine during my elemental seclusion. I had thought [Companion Training] or maybe [Dissection] would be my first to achieve max level, but then the dark horse arrived. The act of having Sylvester and Sylbera walking around and interacting with Leon and Vee, respectively, was doing wonders for the skill.
+
+We're really stretching the limit of [Roleplay] here. It would be nice if I could actually grant them the class while the skill is active. I wonder if there are any upgrades after it? Paeris had maxed it out, but did he ever try to uncap it? I could teleport back and ask him…
+
+I wanted to teleport near there anyway, as I needed to consult with Dran or Juniper if they knew of the water dungeon that Leon discovered. This area was way too far away from the Nyrelis Grove to be their allied dungeon.
+
+And with that, I activated the crystal again and finally selected Riftmancer.
+
+<Class Blacksmith LV 1 swapped to Riftmancer LV 1.>
+
+<Your class has revealed the following skills:[Triangulate], [Personal Rift], [Blink].>
+
+<[Triangulate] and [Blink] already discovered; granting [Folded Geometry] as an alternatives.>
+
+<Your class has revealed the following traits: [Spatial Sense], [Spatial Resistance].>
+
+<[Spatial Sense] already discovered; granting [Vector Sense] as an alternative.>
+
+I was genuinely surprised by how many notifications had popped up from a simple class swap. I knew this was an advanced class, and naturally, a rare one since how many people actually had access to dimensional affinity, but even so, this was a lot more than I expected.
+
+Not only that, it had offered me alternatives based on my previous discoveries, which was highly unusual; I couldn't recall it ever happening before. Was this the benefit of exploring and discovering beforehand rather than impulsively changing classes?
+
+Or maybe it's a bit of a safety net? You need these basics to function, and somehow didn't get them yet, so here they are.
+
+Requiring [Dimension Magic LV 5] as a bare minimum for entry was steep. You could probably unlock the magic randomly through the Sorcerer class, but progressing in it without the help of [Triangulate] or [Spatial Sense] seemed insurmountable.
+
+I shuddered just thinking about it, where teleporting a simple, ordinary rock was complicated beyond reason without [Triangulate], so some [Sub-Core] intervention.
+
+Seeing that I had gained another sensory trait made me glad I hadn't gotten around to fusing [Mineral Sense] and [Echolocation], as now I had another piece of the giant [Soul Sense] puzzle.
+
+"Earth to Syl, come in Syl," Vee said, breaking me out of my trance-like state.
+
+"Sorry… I got a lot of notifications," I replied sheepishly.
+
+Vee seemed surprised. "Really? I didn't get too many from Veilstrider."
+
+"Three skills and two traits," I answered.
+
+"Five in one go!?" Vee cried out in shock.
+
+Even Leon was rendered speechless.
+
+"Well, three of them we have already," I answered honestly.
+
+"Oh, that's a bummer," Vee replied, although she seemed somewhat relieved.
+
+I felt some mischievous smugness rising and couldn't help but smirk at her. "But… The system gave me two alternatives as compensation."
+
+"You can get alternatives?" Vee was flabbergasted.
+
+Leon snorted. "And you complained about my achievements."
+
+"Sorry, but I think an extra class slot is way better than three skills," Vee instantly replied.
+
+I nodded in agreement. Of course, I was saying that without having looked at what I got yet.
+
+"Okay, it's time to share!" Vee said excitedly.
+
+"Yup, although there's a chance you won't be able to take some of these, like I couldn't take [Veil Step]," I pointed out.
+
+Vee's enthusiasm dropped a few levels, but she was still bubbling with anticipation. I decided to start small, going for what I assumed were the lesser revelations based on the name alone.
+
+<[Vector Sense] You instinctively perceive direction, distance, and relative motion. Accuracy is further enhanced with each additional trait level.>
+
+"What the heck?" Vee said in confusion.
+
+"Vectors!" Leon shouted in excitement.
+
+"It was the replacement for [Spatial Sense]," I answered, ignoring Leon's outburst.
+
+Vee apparently didn't share his excitement. "Seems weird, although maybe it can make us more accurate with ranged attacks?"
+
+"Or teleport more accurately?" I suggested.
+
+Both sounded plausible, but of course, there might be another reason why my class thought I'd need this. I grabbed it and dropped down to eighteen trait points, with the intention to gain some levels in it before I fused it with the other three into [Soul Sense].
+
+Next, I shared [Spatial Resistance], which had two effects. The first was to resist hostile teleportation, which seemed obvious, and the second was to prevent or reduce damage from spatial instability or displacement. The second effect was tremendous, and Vee in particular was delighted by this.
+
+"This suddenly makes [Dimension Magic] and randomly teleporting a lot safer," Vee sighed with relief. "In fact, I think this would actually let you resist my [Rift Thread]."
+
+"We can test it out with Pi," I suggested, noticing a minor flinch from Sylbera.
+
+Both Vee and I grabbed the trait, reducing my points to seventeen. Leon was saddened that he was the only one who couldn't take it, which was rather strange, as I thought resistance traits were for everyone.
+
+I guess if you lack the dimensional affinity, you aren't qualified to prevent it?
+
+With the more normal revelations out of the way, we looked at what I predicted would be the first juicy revelation. However, not even I could have predicted what a strange skill the system had cooked up for me.
+
+<[Folded Geometry] Combines the effects of [Folded Step], [Folded Guard], and [Folded Comprehension], granting the user greater insight and abilities into folding space. The user can fold space not only to move but also to defend or attack from unprecedented angles. Not only that, but the user can accurately perceive through folded space, seeing the intended results through the distortion. Skill levels determine distance, the number of concurrent folds, and the accuracy of judging the fold outcome.>
+
+"Wait, it's three skills in one?" Leon blurted out.
+
+"That's what it says…" I pointed out.
+
+"Why can't I buy it!?" Vee cried out in horror.
+
+"I can't either…" Leon grumbled.
+
+"You don't even have dimensional affinity. What the heck, this is so unfair," Vee whined.
+
+"Is it because it's three skills in one?" I wondered, but when I tried to buy the skill, I had no issue.
+
+<Skill [Folded Geometry LV 1] obtained. Skill Points remaining: 12.>
+
+Shit… Am I really down to only twelve skill points!?
+
+I was horrified that I was only a few purchases away from being unable to uncap even a single skill.
+
+I shook away those unwanted thoughts and paid closer attention to the new skill I'd just acquired. I activated it a few times and found the effect remarkably similar to [Reduction], although to a vastly higher degree.
+
+Did I qualify for this because I discovered [Reduction]?
+
+I wasn't sure, but it didn't explain why Vee couldn't take it. Sure, she didn't discover it without my help, but she still unlocked it. I tried using the skill a bit, and the results were quite satisfactory. I could fold a small portion of space to either reduce the distance to zero or even bend the trajectories around corners.
+
+Not only that, but the effects could be applied rather subtly, and the best part was that it wasn't restricted to [Dimension Magic]. I could shoot a [Fireball] or toss a [Nitro Slime] bomb through the folded space.
+
+If I didn't have a plethora of sensory traits, I could even use it to spy from strange angles since I could "see the intended result" in the folded space.
+
+The movement ability was quite valuable, allowing me to literally take a step through a fold. Arguably, [Blink] was a little better, since it was technically faster by not requiring you to physically cross the boundary of the fold.
+
+The more I discovered, the more furious Vee got. She was green with envy, and I actually felt pretty bad about it. Vee only had two types of magic, and this would help her greatly if she could incorporate it into her combat style.
+
+The only feasible solution I could think of was to take it apart with [Skill Deconstruct] and then create a solution for her with [Dimension Magic]. Although with my unfortunate skill point situation, it wouldn't be ideal at the moment.
+
+"Isn't this the personal skill of the Riftmancer?" Leon suggested. "You said Syl couldn't buy your [Veil Step] skill."
+
+"I guess so," Vee reluctantly admitted.
+
+"No, it's not," I replied. "I still have another skill left, and it's what I assume is the signature skill."
+
+"Really? Bloody hell, what a crappy situation!" Vee cursed.
+
+"It was the alternative skill provided to me," I answered honestly.
+
+"I guess alternatives have other qualifications…" Vee mumbled dejectedly.
+
+I paused for a moment, looking at the description of the skill again. "Can you buy the individual parts?"
+
+"No," Leon replied.
+
+"Not you!" I yelled.
+
+"Sorry…" Leon replied sheepishly.
+
+Vee was silent. The situation was growing quite awkward, and then, abruptly, I felt a burst of joy from her.
+
+"I can! I bought all three!" Vee cried out triumphantly.
+
+"Can you fuse them?" I asked, then quickly continued. "Don't actually do it. Get some levels first."
+
+Vee paused again and then shook her head. "It says I need to comprehend the skills more before I can fuse them."
+
+"That's new…" I pondered.
+
+"Who cares? I got the skills!" Vee cheered.
+
+Vee quickly started using all three, and the difference was quite noticeable when we compared our experiences. I had thought the fusion of the three skills was just a convenience of letting them grow at the same time, but Vee revealed that hers wasn't as "passive" as mine was.
+
+If she wanted to use the skills, she needed to actively use each of them in conjunction [Folded Comprehension], whereas mine was seamlessly incorporated. Hers also seemed a little more basic than mine, since I could do some more complex folds right off the bat.
+
+"Well, it's something I can look forward to in the future when I comprehend them more," Vee asserted.
+
+"So, what was the last skill?" Leon asked, sounding a little impatient while we fooled around with folded space.
+
+"Well, it's got 'Rift' in the name," I teased.
+
+"So probably not something I can get," Vee sighed.
+
+"If you got more involved with magic, I'm sure you can unlock Riftmancer," I pointed out.
+
+"I'll consider it…"
+
+Poor Mother.
+
+While resisting the urge to roll my eyes in exasperation at this silly spider, I pulled up the final skill. None of us could have predicted what a monstrous description this turned out to be.
+
+<[Personal Rift] The user manifests a personalized tear in space, an invisible yet ever-present rift that exists in parallel to the physical world and is bound solely to them. The user can forcibly tear apertures into the rift and, eventually, be partially overlaid with reality, allowing the user to swallow themselves, objects, or effects from normal space. At its most basic level, the rift functions as a private spatial reservoir. Targets placed within are removed from the physical world and may be retrieved at any time, unchanged from the moment they entered. The maximum number of active apertures scales directly with the skill level. The rift's anchor point is fixed to the user, not the locale; wherever the user exists, the rift exists alongside them. While initially limited in size, duration, speed, and precision, the rift and its tears will grow with skill levels and personal proficiency. Additional skills, traits, or magical effects may grant new capabilities to your spatial rift, or enhance existing ones.>

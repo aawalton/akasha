@@ -1,0 +1,123 @@
+---
+id: e9c71818-f509-5611-be3e-e3f362f5cb68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: It Lives"
+slug: 0012-chapter-12-it-lives
+partOf: succulent-girl-evolution
+position: 12
+ownLength: 2110
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2536116/chapter-12-it-lives"
+royalRoadId: "2536116"
+---
+
+Rina couldn’t stop herself from shouting when her partner roared in pain.
+
+Luna, lovely black leopard that she was, was a fantastic predator. She was a battle-hardened beast, never afraid to make the first move, and even though Rina carried plenty of potions to keep her partner in good health, that didn’t make it any easier to bear whenever she got hurt. No matter how often she chastised Luna about her reckless behavior, she refused to listen. But that kind of fearless behavior was what made her such a dependable teammate—you could trust her to follow through and have your back.
+
+She was already pulling potions from her belt as she darted towards the tree, her eyes fixed on her cat’s twisting form in the air. The longer Luna was out of commission, the more irritable she would be post-mission.
+
+However, she was alarmed to see several black and white bodies swoop through the air, slamming into her beloved partner as she fell, unable to defend herself.
+
+“LUNA!”
+
+Incensed, Rina swung the bow from her back and nocked an arrow, but these birds were too agile—dodging and weaving around her flurry of shots. One audacious bird even snatched an arrow out of the air, cawing with triumph as it carried it away.
+
+What is going on?!
+
+“Rina!” Her elbow was caught. “Stop!”
+
+“Those magpies are attacking Luna!” Rina snarled, throwing Marco’s hand off of her. She ran towards the broken bundle of fur at the ground, barely noticing Marco’s shouts for her to stop.
+
+She realized something was wrong when the toe of her boot crashed through a seemingly-sturdy patch of earth, pitching her head over heels into a pit, along with chunks of wood and dried foliage.
+
+“Rina! Are you all right?” Marco shouted from the edge of the pit, poking his head over.
+
+“I’m fine! How is there a trap here?” Rina demanded angrily, pushing herself to a sitting position and wincing when she put her weight on her wrists. In her panic, she had thoughtlessly put her hands out to block her fall instead of rolling with it, but all she had accomplished was hurt to herself.
+
+“I tried to stop you.” Even when things were going wrong, Marco still responded dryly and sarcastically. Rina scowled at him. “I’ll get you a rope.”
+
+“Worry about me later! Get to Luna! Those birds are ganging up on her.” Gritting her teeth at the twinge in her joints, she quickly downed a potion, waiting for her aches to fade as Marco leaped over the trap and ran to the screaming cat, hollering at the pesky birds.
+
+Rina closed her eyes and breathed deeply as the potion—a low-grade one, hence its slow recovery effects, but there was no sense in wasting a good potion on herself, not when Luna was so much more injured—did its work. As she waited, she heard the piercing cry of Toby as he finally joined the fray, followed by more furious chattering from the birds.
+
+Marco came back, tossing a rope down to her.
+
+“Luna’s not looking so good,” he warned her. “Toby is keeping the magpies away from her right now, but I don’t think she’ll be able to continue the mission.”
+
+Rina exhaled as she wound the rope around her arm. She’s going to be in such a crappy mood later…
+
+~ ~ ~ ~ ~
+
+Bubbles successfully made it to the next waypoint. The humans had been able to avoid the majority of the land traps they had set in the garden, and for the few they didn’t manage to avoid, they were able to extricate themselves relatively quickly.
+
+She could almost feel the humans’ displeasure radiate from them as they approached her, standing in the shallow pool of water the magpies had constructed. The magpies were impressively knowledgeable: the day Miss Magpie returned to the garden with the first flock of birds (she introduced them as the experts who scouted new territories), they had done their due diligence and inspected every inch of the garden, noting environmental conditions and compiling a shortlist of viable locations for traps.
+
+The day after that, the next group of magpies (significantly larger than the scout group) arrived, bearing various odds and ends with them that they used to begin shoring up the garden’s defenses: building materials such as twigs, twine, and pebbles; seeds that (with the consent of the plants in the garden) could quickly sprout into projectile plants; and even some capsules containing various critters the magpies promised wouldn’t harm the current ecosystem. Figuring there was nothing left to lose if the humans were to completely destroy their garden, the plants agreed to help the birds nurture the new plants and critters, diverting excess water and resources as the birds directed into this plot of land, which had now become somewhat swamp-like.
+
+Standing in this familiar-yet-different part of the garden, Bubbles was glad she didn’t have to act ignorant to imminent danger this time; the magpies and Rock allowed her to display her emotions fully: wild and upset, still raw from the terror of getting nearly gouged again.
+
+Though they allowed her to express her emotions, they unfortunately discouraged her from acting on them.
+
+“You must stay in this pond, so that you can lure the invaders into the trap!”
+
+[Now is an excellent time to act weak and afraid, so that you can encourage them to come closer.]
+
+Bubbles wanted nothing more than to flee into the woods and be sheltered by the bigger trees. However, she bravely planted her roots into the wet earth, drawing courage along with the mineral-rich water as she waited for the humans to make the next move.
+
+The humans actually seemed wary when they saw her, staying within the presumed safety of the tree line. The three of them (Bubbles had gathered from the magpies’ excited chatter that two humans had remained with the leopard that attempted to ambush her) gathered together, warily scanning their surroundings as they crept together to no doubt discuss their next steps. The dark wolf remained crouched in the bushes, his stark blue eyes gleaming through the shadows.
+
+I hate having to wait for them to start anything, Bubbles complained privately to Rock. She threateningly squeezed out a couple more needles in the direction of the beastly blue eyes, to replace the ones she had lost earlier. I hate having to wait for them to come for me all the time, and be the one who runs away!
+
+[Unfortunately, you do not have the power at your disposal to be the aggressor.]
+
+But you said I am adept at Pierce, she said morosely. If I become an expert, can I be aggressive then?
+
+[Calculating…]
+
+Or do I just have to be faster? You said I had mobility as a trait—how do I increase that? Bubbles thought back to all of the other traits and abilities Rock had listed earlier. Actually… how do I get new traits? I understand I can get new abilities by grafting other plants, but…
+
+Bubbles received a flash of inspiration as she watched a butterfly flutter by, completely unaware of the tension in the air. Can I get the trait to fly?
+
+[Calculation complete. With current known variables, it is unlikely that you will be able to use the ability Pierce as anything other than a passive defensive system. Therefore, I do not recommend you attempt to be “aggressive” as you are now.]
+
+Before Bubbles could ask him again about her traits, the vegetation at the edge of the clearing signaled to them, alerting them of the humans’ movements. The blue eyes remained beneath the bush, staring unblinkingly at her, and she could see subtle movements through the vegetation as the human behind the tree began waving his arms and giant stick.
+
+The other two humans were circling away from the wolf, mirroring each other’s paths. They were much more subtle than the one that stayed near the wolf, to the point that Bubbles likely wouldn’t have noticed their presence if it weren’t for the plants tracking their locations for her.
+
+Was this part of the plan? Bubbles asked bleakly, unsure which human to pay attention to.
+
+[Not everything goes according to plan,] Rock replied, the uncharacteristically gentle reply doing nothing to soothe her doubts. Seeming to sense her misgivings, he added, [In any case, it is far too late to deviate from the intended course of action anyway.]
+
+A heat wave suddenly passed over her, followed immediately by a flaming ball of fire. Shrieking, Bubbles dove into the water, though the small splash she made quickly evaporated, hissing as it was burned out of the air.
+
+[You cannot stay here! You must flee!]
+
+Without waiting for Rock to tell her again, Bubbles yanked her roots out of the ground and splashed out of the water, wailing as the tips of the leaves that didn’t manage to get wetted caught fire.
+
+Fortunately, the flames dissipated unexpectedly, and Bubbles found that her own cries of pain were overshadowed by the frenzied warcries of the plants and animals around her. These comrades of hers, both native plants cultivated by Master, as well as the new, more aggressive reinforcements planted by the magpies as they moved in, along with the garden mammals they had managed to convince to join the war effort, had been waiting in the wings for Bubbles to give the sign before attacking. They must have thought her frantic dive into the water was the signal, as every plant and creature attacked the human closest to where they were. What should have been a concentrated attack ended up becoming split.
+
+I messed up! Bubbles thought, agonized. But there was no rewinding time; the attack clearly surprised the humans as intended, even if not coordinated as efficiently as the magpies had intended, based on the startled shouts as the humans fought back.
+
+[That was not your fault—the magpies did not anticipate the mage having such a long spellcasting range.]
+
+What do I do now? I don’t think they need me anymore… Bubbles stood uncertainly at the edge of the marsh as chaos reigned at the edges of the clearing.
+
+The original plan had been for the humans to all converge on her as the focal point for their own ambush, which would allow the garden’s remaining guardians to launch a coordinated attack on the backs of the humans, demonstrating the full might of a united garden. Even a beehive could overwhelm a wasp, after all.
+
+Although in this case, the magpies had somehow brought in swarms of hornets to help fight the humans. If they all made it out of this battle, Bubbles planned to interrogate Miss Magpie on how the congregation had managed to convince so many different elemental hornets to cooperate with them. She could see flashes of light at each location where a human was, every time a hornet stung its target.
+
+[Agreed. Perhaps you will be able to draw the humans together if you make as if to escape,] Rock suggested, sending an accompanying image of what he meant to her. Having no better idea of what to do, she decided to execute his idea.
+
+Wading through the other end of the pond, she made a break for the woods.
+
+“It’s g-getting away!” one human shouted, before yelping in pain.
+
+“Link, go after it!” a deeper voice roared. “We’ll get Randall and catch up with you!”
+
+The wolf, which had been snapping at the bursts of light around it, bounded out of the bushes and bore down on Bubbles, who hadn’t quite made it to the edge of the clearing yet. The weeds that had been spitting burrs at the canine and the more delicate human split their focus again, lightening the attacks on both individuals. Unfortunately, the wolf’s thick coat easily caught the tiny projectiles, the increasing distance making it harder for the weeds’ launching power to pierce through his pelt.
+
+Fortunately, as the wolf—Link, if she was assigning the name she heard correctly—approached her position, the weeds on this side of the clearing popped up and began spraying their own ammo at the approaching beast. He growled, forced to lower his head to protect his eyes and nose from the barrage, but maintained speed.
+
+Desperately, Bubbles slammed her roots into the ground, trying to put more power into every stride, feeling the ground tremble more and more the closer the wolf came. She didn’t know if she would make it to the hedge in time, where the spitweeds were valiantly firing at the incoming monster, the lines of fire converging as Link approached—

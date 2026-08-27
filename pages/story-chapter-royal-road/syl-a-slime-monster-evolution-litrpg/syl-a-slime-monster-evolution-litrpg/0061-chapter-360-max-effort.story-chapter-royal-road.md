@@ -1,0 +1,137 @@
+---
+id: 278d9ccf-dc6d-53ed-b1f5-8579032c8b5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 360 : Max Effort"
+slug: 0061-chapter-360-max-effort
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 61
+ownLength: 2116
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3146242/chapter-360-max-effort"
+royalRoadId: "3146242"
+---
+
+Our experiments continued for a few days, as both Vee and I were now heavily invested in understanding these abilities. Vee was a bit more focused on the space-folding aspect, while I was trying to uncover what my personal rift could do.
+
+In addition to that, I was still focused on trying to finish out [Core Collective] and [Roleplay], since I wanted to maximize the synergy between the two. This meant not only that Pi was being destroyed more often than not, but also that I was using some webs that Vee set up for me to temper my own core.
+
+Yes, I had once again taken the rather absurd path of hurting myself for proficiency. However, at least this time I wasn't intentionally killing myself to trigger [Defy Death], and I could borrow [Pain Suppression] from the orcs. While I was a little extreme in my own training, I definitely wasn't a masochist.
+
+The continued "flossing," as Vee called it, of my slime core brought [Spatial Resistance] rapidly to level five and even gave me an unexpected level in the long forgotten trait [Enhanced Vitality], taking it to level six. The threat was extreme after all, so the experience was plentiful. I was growing confident that, soon enough, nobody would be capable of forcibly teleporting me ever again.
+
+When [Vector Sense] got to level three, I fused it with [Echolocation] and [Mineral Sense] into [Soul Sense]. The final result brought [Soul Sense] to level nine, which I found particularly exciting. While the latter two, I didn't really care too much about being brought to a far greater level, [Vector Sense] was extremely useful.
+
+Now, if I activated it, I could track the target's path of motion until it either ceased to exist or came to rest. There was probably a maximum distance, but it had reached the point where I wasn't entirely sure where it was.
+
+My [Dimension Magic] eventually reached level six, granting me [Lock] as Vee had mentioned before. Upon reaching that level, I actually immediately used [Skill Deconstruct] on it, with the intention of repeatedly regrowing it and taking it apart until I received the full governing magical symbol. Unfortunately, even at level six, what I received was shockingly low, meaning I'd need to repeat this process quite a few times.
+
+Well, once I make my dimensional aura, I should earn a shocking amount of proficiency experience and send my skill levels skyrocketing.
+
+Once I had the symbol complete, I wanted to use my knowledge from [Elemental Shift] to see if I could make myself a fake dimensional affinity boost.
+
+Speaking of [Skill Deconstruct], I held off on taking apart [Triangulate] until after I returned from my trip. While I was reasonably confident my [Sub-Cores] could keep the saved coordinates, I was still anxious about losing them.
+
+Better to be safe than sorry.
+
+My practice with Vee eventually caused me to reach [Folded Geometry LV 3]. The skill was slow to level, being a highly advanced fusion, but the upgraded effects were highly noticeable. Each level greatly enhanced the number of folds I could maintain, allowing me to even create one complex enough to send a projectile straight back to its origin.
+
+While the effect was scarily good, it still came with the caveat that the folds needed to be robust enough to handle it, which thankfully, the additional levels also granted. Still, simpler folds were definitely the safer option and what I'd likely prefer to use, unless I was showing off.
+
+When it came to [Personal Rift], I was stumped. It was not a fusion skill, yet it took me days just to bring it to level two! I'd never experienced that before; usually, I had no issue getting a level or two on the day I'd received something if I set my mind to it.
+
+I was a little tempted to pull apart [Personal Rift], except what made me deeply reluctant was the trait point I had spent to bind the rift to me. Would I need to pay another trait point to get a new rift after breaking down the skill? The thought alone sent chills straight through my core.
+
+Thankfully, it received quite a significant upgrade upon its new level. The size had seemingly more than doubled, and now I could open two apertures at once, which was unexpectedly the best improvement. One might ask why two entrances to the same exact place were better, especially given its lackluster size; however, you'd be sorely mistaken!
+
+Vee and I had tried a few things with [Personal Rift] and what it could do that [Pocket Space] and even [Core Storage] couldn't do was store attacks! Yes, the rift could swallow anything and everything—this was its signature ability!
+
+Of course, this came with a few caveats, as one would expect, and it seemed to obey rules similar to [Folded Geometry]. If the attack was too powerful, the rift would fail to swallow it, and the aperture would be destroyed!
+
+When this first happened, I was horrified, as attempts to reconnect to my rift had all failed. I thought I would be forced to spend a trait point to create a new one, but after a few hours, it seemed to recover on its own. I was relieved, and my dwindling trait points reserve was saved!
+
+When it finally reached level two, I discovered a few more of its behaviors. Firstly, the rift itself wasn't destroyed by an attack overload, only that specific aperture. This meant each additional level granted a backup in case of destruction at the bare minimum.
+
+The good times didn't end there; it was also possible to combine multiple apertures into a single giant tear. Of course, if it were destroyed, you'd temporarily lose all of them, but by combining them, you could swallow much more powerful attacks or foes.
+
+Since Leon was unwilling, Vee stepped up to the plate and found it considerably more challenging to resist a double aperture. She still succeeded, and in the process even earned herself a level in [Spatial Resistance], making it the safest method for her to raise the trait.
+
+Finally, there was one more benefit to having an extra spatial tear: it allowed for instant redirection of attacks or movement. Not dissimilar to Vee's portals, you could have two apertures linked together, with the only restriction being that they both needed to be within the range of my [Personal Rift].
+
+While the distance was stupidly small, at least for now, it was relatively effortless and, more importantly, free. Yes, from my own findings, I found that only the tear itself costs Mana, and no matter how much you stepped through it, the cost would not scale.
+
+As for redirecting attacks, having two apertures was naturally better, especially if they were linked. Sure, with one, I could swallow an attack with the intention of returning it, but then I'd need to go through the process of closing it and reopening it again. Instead, with two tears available, I could significantly shorten the process and keep my intentions somewhat more hidden.
+
+As this was all going on, one day while I was continuing my routine, I received the message I'd been long waiting for.
+
+<Proficiency gained. [Core Collective LV 9] improved to [Core Collective LV MAX].>
+
+I actually did it.
+
+I knew the day would come; I just hadn't expected it right now. My [Sub-Cores] continued work, the repeated reconstruction of Pi, and my own brutal endurance training had finally culminated in the trait reaching the maximum level!
+
+I wanted to celebrate, I wanted to cheer, but I held myself back. After all, would my crazy idea actually work? My gut instinct told me yes, but I couldn't help being a little pessimistic.
+
+Vee wasn't around at the moment, so I took this moment of solitude to collect myself. I mentally took a deep breath and brought up my profile. Then, with a thought, I selected the trait and hoped it would work.
+
+<Spend 10 Trait Points to uncap [Core Collective LV MAX]? Trait Points remaining: 15.>
+
+I sighed with relief as I had been particularly paranoid that I'd stumble at this very spot. But, flying in the face of my fears, the first hurdle was passed.
+
+Now that I think about it, this is the first time I'm doing it intentionally, isn't it? Previously, I had Gramps taking all my precious points like a damn debt collector…
+
+I sighed, then looked at the notification requesting my approval.
+
+Do it!
+
+<You are the first individual to uncap this particular trait.>
+
+Oh? Well, that makes sense. Gramps kinda made it for me. I'd be dumbfounded if another slime got it before I did.
+
+<To acknowledge this, your desired intent will be factored into the outcome, provided it is within reason. Standby for evaluation…>
+
+Oh!? Is it actually taking my thoughts into account? This is amazing, Trixie never mentioned this part of uncapping! I wonder how long it takes to get approval… Hopefully, it's only a few days, or the suspense would kill me.
+
+<Approved.>
+
+That was fast!
+
+<Trait [Core Collective LV MAX] has become [Core Collective LV 11]. Trait Points remaining: 5.>
+
+I wanted to cry seeing my trait points that low, but I was optimistic that this would all be worth it! But, before I could explore further, I suddenly got another notification.
+
+<For leaving your mark on this trait's history, you have been awarded 1 Legend Point. Legend Points remaining: 4.>
+
+I was flabbergasted. Not only did I get to steer the outcome towards my desires, but I was even awarded a Legend Point for doing so! This was an absolute bargain.
+
+Pi had been reformed at this point, and I nervously shifted it to one of my tendrils. Was this going to work? Would I finally be free from the constraints of being permanently connected?
+
+Please Gramps! I've been a good and loyal slime, right!?
+
+I severed the connection and watched as it plummeted to the ground. But, rather than splattering like a lump of useless sludge, it remained semi-solid. I gulped and gave Pi a mental command to move around, watching with nervous anticipation.
+
+Lo and behold, like a weird slimy snake, it was moving on its own!
+
+"I did it! Yes! Yes! Yes!" I cheered, wiggling and waving with unbridled joy.
+
+Through the island's slime network, I quickly summoned another core, which traveled along at super speed until it reached me. I then repeated the process with bated breath; however, this time, I got a notification that the connection had been severed, and the slime splattered messily onto the ground.
+
+"Okay… So it's just one?"
+
+While I would have loved more, I wasn't going to complain. If every single [Sub-Core] could now act independently from only a single level, well, even I would admit that'd be ludicrous. I could already imagine getting one allowed separation per level beyond ten.
+
+Level twelve can't come soon enough!
+
+I ordered Pi to collect its brethren, and watched as the connection was instantly reestablished. This was terrific news, as it meant I could have an entirely separate network, provided they were all in one cluster.
+
+Speaking of networks, I realized that the range of my slime control had increased quite significantly. [Core Collective] was, after all, a trait that improved the overall functionality of every single core, which meant I could recall several [Sub-Cores] and still keep the entirety of Tanglebay covered.
+
+Thus, I was already piecing together a plan. Assuming that there was no range limit, I would permanently leave one network here on the island. This would protect our home, but also allow Vee, and to a lesser extent Leon, access to slime assistance even if I wasn't around. No doubt Vee would kick up quite a fuss if I took Sylbera away from her now.
+
+While it sucks a little in the short term, not having this separation ability directly with me, it will more than likely lead to getting to the next level quicker. I also just so happen to want to travel back to speak to Juniper and Paeris, so this actually works out perfectly.
+
+I was obviously ignoring the fact that I had intended to visit days ago, but had spent far too much time playing around with spatial rifts and folds.
+
+I reconnected with the two [Sub-Cores] and officially allowed Pi to join the network. The hellish days of brutal reconstruction were over, and this hard worker deserved some rest.
+
+Now… I wonder if I can somehow get Sylbera to prank Vee? After all, she doesn't know that we can now create a single detachment.

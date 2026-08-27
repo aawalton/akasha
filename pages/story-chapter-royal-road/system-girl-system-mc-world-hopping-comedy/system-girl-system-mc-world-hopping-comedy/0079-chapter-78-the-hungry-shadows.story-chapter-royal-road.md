@@ -1,0 +1,235 @@
+---
+id: 0f6cb25b-37a6-5aaa-a5ce-58f0892faf3b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78: The Hungry Shadows"
+slug: 0079-chapter-78-the-hungry-shadows
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 79
+ownLength: 2695
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3411138/chapter-78-the-hungry-shadows"
+royalRoadId: "3411138"
+---
+
+Caladorel cleared his throat, a dry, dusty sound that broke Ren out of his mental stupor.
+
+"Ahem. As I was saying, Lord Fenris."
+
+Ren mentally nudged himself back to the present.
+
+[Ana: We will deal with the 'Tree' problem later. For now, fake it till you make it. It's worked so far.]
+
+"Right," Ren said, straightening his posture. "Um, as you can see, Master Caladorel, I am a human. And my daughter is... very special. I need someone to help her when the time comes. Someone who understands what she is."
+
+Caladorel looked from Ren to Lily, his ancient eyes filled with a reverence that was almost painful to witness. "This is an honor I am entirely unworthy of, My Lord. I have spent my life researching theories based on fragments of bone and whispered myths. To be in the presence of... of this..."
+
+He took a shaky breath. "From what my research indicates, they do not need to be taught magic formally, like regular elves. The magic does not flow through them; it flows from them. It is second nature. Like breathing."
+
+Ren was surprised again. No formal magical training? That sounded dangerously unregulated for a toddler who could already suppress a battlemage.
+
+"Then I will rely on you for her formal education in other matters," Ren said quickly. "History, arts, culture. As I am from a foreign land, I will need to rely on you to teach her the ways of this these lands."
+
+"It would be my profound privilege," Caladorel bowed his head.
+
+"Also," Ren added, leaning forward. "Can we not make this public knowledge? Let's keep up a pretense. You enjoy the amenities here, the coastal air is good for your joints, and you decided to rent a room. Making the nature of her true identity known right now wouldn't be prudent."
+
+Caladorel nodded slowly, his eyes narrowing in understanding. "A fine suggestion indeed. The world is not ready for her return. The King... the King's ancestors were not kind to her kind. Secrecy is paramount."
+
+"So," Ren continued, relaxing slightly now that the old elf was on board. "About your compensation. What is your rate for tutelage?"
+
+Caladorel scoffed gently. "Gold is meaningless to a man of my age, Lord Fenris. It is an honor in itself to be given the duty of being her mentor. Nothing else is needed. I consider my life's work fulfilled just by sitting in this room."
+
+Ren smiled. The old man was genuine. "At least let me offer you food and lodging while you are here. My chefs are quite talented."
+
+"Then I shall graciously accept," Caladorel said. He looked back at Lily, who was currently drawing a square block on top of a spherical one. "I shall begin drafting a curriculum immediately. We must start with the foundational texts of the First Era..."
+
+…
+
+The Seaside Inn was experiencing the midday rush. The dining room was packed with merchants, minor nobles, and wealthy ship captains eager to taste the legendary 'Sea Spiders'. The kitchen was a controlled chaos of shouting elves, clattering pans, and the smell of garlic butter.
+
+While the estate buzzed with activity, two small figures slipped through the dense foliage of the forest bordering the property.
+
+Raina, nine years old, moved with a practiced, desperate stealth. She held her younger brother, Liam’s, hand tightly, pulling him through the thorny underbrush.
+
+"Sis, let's go back," Liam whispered, his voice trembling. He was five, thin, and terrified. "Mom told us never to steal. She said if we got caught, we would lose our free status. They'll put the ink on us."
+
+Raina hesitated for a fraction of a second, her grip tightening on his hand. Her stomach cramped with a hunger that had been a constant companion for three weeks.
+
+"Don't worry," Raina whispered back, crouching behind a thick bush near the back of the storage warehouse. "They have so much food here. I watched them yesterday. They throw away things we would feast on. No one will notice a missing loaf of bread or a piece of fruit. And this area isn't heavily guarded during the lunch rush."
+
+She patted her brother's dirt-streaked cheek. "I've done this before. Last week. Where do you think that huge, fluffy white bread came from?"
+
+Liam pouted. "You said a kind man gave it to you."
+
+"Yes, well," Raina lied smoothly. "They did. But they don't know they gave it to me. It's fine, Liam."
+
+"Sis, please," Liam begged, pulling on her hand. "Let's go back to the city. We can try to find work. I can sweep!"
+
+"You know no one wants to hire us," Raina said, her voice hardening with a maturity she shouldn't have possessed. "We smell like the street. They call us urchins. They chase us away with brooms."
+
+She peeked through the leaves, her eyes fixed on the back door of the kitchen tent. "Don't worry. We just have to be smart for a little while longer. Just until I'm old enough. Then I can work like Mom did, and we will never have to worry about being hungry again."
+
+The conversation was abruptly interrupted by a sound that froze the blood in Raina's veins.
+
+A low, guttural growl.
+
+Raina whipped her head around. Three bundles of fluff, each the size of a large dog, were staring at them from the shadows of the trees.
+
+Smokey, Frosty, and Stormy had caught a scent.
+
+The pups didn't bark. They just stared, their eyes glowing with an unsettling, elemental intelligence. Frosty let out a huff of cold air. Stormy's fur crackled with static.
+
+"Run," Raina hissed, shoving Liam backward.
+
+But they were terrified. They scrambled backward out of the bush, tripping over roots, straight into the open clearing behind the warehouse.
+
+They didn't get far.
+
+A shadow detached itself from the side of the building. Varon, the elven rogue Ren had hired, dropped from the roof, landing silently between the children and the forest edge. Two more guards, their hands resting on the hilts of their swords, stepped out from behind the crates.
+
+Raina gasped, pulling Liam behind her. She was surprised at the number of guards here today. When she had scouted the place last week, the back area had been completely empty during the lunch rush. What was going on?
+
+Liam started bawling immediately, burying his face in his sister's tattered dress.
+
+Raina was apologizing frantically, her voice cracking. "I'm sorry! We didn't take anything! Please, let us go! We're free citizens! We just got lost!"
+
+The commotion attracted attention. The reason the pups were on this side of the estate, and the reason the security was so tight, suddenly became apparent.
+
+Lily had decided she wanted to play behind the shed today. And where Lily went, the pups followed. And where Lily went, the guards established a perimeter.
+
+The two starving orphans had walked directly into the most heavily guarded sector of the entire property.
+
+Lily waddled over from around the corner of the shed, a wooden spoon in one hand. She looked curious about all the noise. Mira followed a step behind her, her eyes scanning the area vigilantly, her hand hovering near the hidden dagger in her apron.
+
+Varon looked down at the shivering children. He explained the situation to Mira in low, urgent Elvish. He had caught trespassers.
+
+Mira’s expression softened as she looked at the kids. They were so young, and so obviously terrified. But the rules of the world were harsh. If they were here to steal, and they were of free status, the local magistrate would force them into a labor contract to pay for the crime. If they already had contracts, their servitude would be extended indefinitely. It was a cycle that was impossible to break out of.
+
+Lily didn't care about the rules of the world though.
+
+She waddled right up to Raina, staring at the crying boy hiding behind her.
+
+"Wa-wa?" Lily asked, tilting her head. She offered Liam her wooden spoon.
+
+Raina, trembling, looked at the little girl in the expensive blue dress. Despite her fear, a spike of bitter, helpless jealousy pierced her heart.
+
+"We just wanted some food," Raina whispered to the baby, the truth spilling out because she didn't know what else to say.
+
+Lily’s eyes widened. Food was a concept she understood perfectly.
+
+"Fud!" Lily declared cheerfully. "Papa make good fud! Come!"
+
+She turned around and began marching back toward the main house, waving her spoon like a conductor's baton.
+
+Raina and Liam stood frozen, unsure what to do. Varon and Mira exchanged a confused look. They were trained to protect the estate, but detaining starving children while the young mistress invited them to lunch was outside their operational parameters.
+
+The commotion had also attracted Ren.
+
+He walked around the side of the warehouse, wiping his hands on a towel. He stopped, taking in the scene: two filthy, terrified children surrounded by his elite guards, and Lily marching dramatically towards him.
+
+"Papa!" Lily shouted, pointing her spoon at the children. "Give fud! Hungy!"
+
+Ren scooped Lily up, settling her on his hip. "Okay, peanut. We can do that."
+
+He looked back at the thieves. He felt a sharp, painful twinge of guilt in his chest. He was building a culinary empire, throwing banquets with King Crabs and butter, while children were starving in the woods just outside his property line.
+
+On the other side of the clearing, the three Fenrir pups sat proudly, tails wagging slightly, waiting for Ren to reward them for their excellent catch.
+
+"Good boys. Good girl," Ren muttered, distracted.
+
+[Ana: This is the reality of this world, Ren. It's not a fairy tale. Poverty exists everywhere. You can't feed everyone.]
+
+"I can feed these two," Ren thought back stubbornly.
+
+He had the guards escort the children into the staff kitchen. He sat them down at a sturdy wooden table and placed two massive, steaming bowls of beef and vegetable stew in front of them, along with a thick loaf of fresh bread.
+
+The children stared at the food. They didn't touch it. They were too scared. They expected it to be a trick.
+
+Lily, sitting in her high chair next to Ren, frowned.
+
+"No like Papa fud?" she asked, her lower lip wobbling in a pout. She sounded genuinely sad.
+
+The kids couldn't say no to that voice. Liam grabbed the bread and shoved it into his mouth. Raina picked up a spoon and took a bite of the stew.
+
+The rich, savory warmth of the broth hit their empty stomachs. They didn't stop to chew properly. They practically inhaled the meal, the fear temporarily overridden by sheer, desperate hunger.
+
+Ren served them a second bowl each. And then a third. Lily clapped her hands happily as they ate.
+
+When the bowls were finally scraped clean, Raina pushed hers away and looked at Ren, the fear returning to her eyes.
+
+[Ana: Now comes the hard part. You caught them trespassing.]
+
+"I know," Ren thought.
+
+Ren pulled up a chair and sat across from them. "So. Why did you think sneaking into a guarded estate was a good idea?"
+
+Raina looked down at her dirty hands. The warmth of the food had given her a moment of comfort, but the reality of her situation was crashing back down.
+
+"We ran out of food," she whispered, her voice trembling. "We've been hungry for weeks. No one would hire us in the city. They chased us away from the market stalls. They called us unclean."
+
+She looked up, tears cutting tracks through the dirt on her face. "Mister, it was all me. I made him come. My brother is innocent. Please, let him go. I'll take the punishment."
+
+Ren raised a hand gently. "We will get to that. Where are your parents?"
+
+The girl swallowed hard. "Mama passed away three months ago. The sickness took her. And we don't know our dad. Mama said he was a traveler."
+
+Hearing the mention of their mother, little Liam perked up, a spark of naive hope in his eyes.
+
+"We won't have to starve for long, mister," Liam said proudly. "In a few years, my sister can work where my Mama did! The manager there told us so!"
+
+Ren frowned. "Where did your mother work?"
+
+"She was an entertainer in the city," Liam continued, ignorant of the heavy silence falling over the room. "She danced! She earned so much that she bought her own freedom! So we are free too! And... we could eat meat every week!"
+
+Raina nodded frantically, trying to support her brother's plea. "Yes, mister! Give me some time, and I'll pay you back for the bread and the stew! Please don't report us to the magistrate!"
+
+Ren felt a cold, sickening realization settle in his gut. The information provided by the innocent boy painted a horrifyingly clear picture. Their mother hadn't just been a dancer. She had worked in a brothel in the city. She had sold herself to buy her children's freedom, and the manager of that establishment was already grooming her nine-year-old daughter to take her place.
+
+And the kids had no idea.
+
+Ren looked at Raina. "What would your mother say if she knew you wanted to work there?"
+
+Raina looked down, her face flushing with shame. "Once... once I said I wanted to work and be like her, wearing pretty dresses. Mama got very angry. She cried. She told me never to do it. To find a good job. A clean job."
+
+"Then why would you go back there?" Ren asked softly. "Against your late mother's wishes?"
+
+"Because no one else would hire us!" Raina cried out, the desperation breaking through. "We have nothing else!"
+
+Ren took a deep breath. His final question was just a formality. "Where do you live?"
+
+"Our mother built a small hut a few hours away from the city," Raina whispered. "In the scrublands."
+
+[Ana: Ren. You cannot let her go down that path. That manager in the city is waiting for them to get desperate enough to come back.]
+
+"I know," Ren thought, his resolve hardening into steel. "We're not letting them leave."
+
+Ren cleared his throat. He looked at the two terrified orphans.
+
+"Your punishment," Ren said, his voice carrying the authority of a Lord, "is this."
+
+The kids braced themselves, squeezing their eyes shut.
+
+"You," Ren pointed at Raina, "will work at my estate. And you," he looked at Liam, "when you are older, you will also work here. For now, you will come with your sister every day."
+
+Raina opened her eyes in shock.
+
+"You will be given the salary of a kitchen helping hand," Ren continued, his tone brokering no argument. "You will learn how to chop vegetables, wash dishes, and sweep floors. And you can never, ever go back to where your mother worked. Is that understood?"
+
+Raina was doing the math in her head. A kitchen helping hand at a noble estate? That was a fortune. It was a very good job. It might pay more than her mother ever earned.
+
+But she was confused about one detail.
+
+"Sir," she asked hesitantly. "Why must my brother come if he isn't working yet? He's too young to lift heavy things."
+
+Ren replied with a matter-of-fact tone. "Because he is now a part of the staff. And all staff members receive three hot meals a day."
+
+The realization hit the girl like a physical blow. Not only would she get paid a fair wage, but she would also receive three meals a day. Even back when her mother was alive and working herself to the bone, they would barely get two meals a day.
+
+She began frantically thanking Ren, bowing her head over the table, sobbing uncontrollably.
+
+In her heart, amidst the overwhelming relief and the lingering grief for her mother, a new thought took root. She looked at the man offering them a lifeline, and the little silver-haired girl who had offered them a spoon.
+
+Not all rich people are evil, she thought, wiping her eyes.
+
+Ren watched them cry, feeling a strange mix of sadness and satisfaction.

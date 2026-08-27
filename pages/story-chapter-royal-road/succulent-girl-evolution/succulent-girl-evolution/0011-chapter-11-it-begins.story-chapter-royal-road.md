@@ -1,0 +1,127 @@
+---
+id: d8b86c75-0409-55d9-a14e-aaaf0f8e406f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: It Begins"
+slug: 0011-chapter-11-it-begins
+partOf: succulent-girl-evolution
+position: 11
+ownLength: 2047
+unit: words
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2530789/chapter-11-it-begins"
+royalRoadId: "2530789"
+---
+
+Wolfe huddled with his team at the edge of the clearing, silently watching the creature sunbathe. If he hadn’t been on the alert for anything out of place, he would have thought this was exactly that: just a succulent bush the size of a low stool. The only reason he took a second glance at the creature, long enough to notice the root-like appendages moving languidly through the earth (presumably to find more comfortable patches in the mud), was because of certain traits that didn’t quite seem to match the primary aesthetic of the plant: spiky needles grew alongside bubbly leaves, and he even spotted a pitcher plant growing among the cluster.
+
+As far as he knew, succulents and cacti grew in completely different biomes from carnivorous plants, definitely didn’t share the same soil composition, and having them grow on top of each other like that was just downright unnatural.
+
+All of his rangers were quiet, focused, their breaths shallow to avoid making any noises to alert the creature to their presence. The two land beasts with them were still, blending seamlessly in with the environment like the predators they were. But the mage boy’s breathing was still a bit too heavy, and getting louder by the heartbeat.
+
+He gestured to his team, having the humans retreat while leaving Link and Luna to monitor the creature. Toby and Celeste were in the skies, providing an aerial view of the situation. At least Randall had the wherewithal to follow suit with minimal noise.
+
+“That monster definitely looked just like the one Luna caught a month ago,” Rina said immediately, her voice low. “But… it’s so much bigger.”
+
+“Is it possible the one Luna caught was an offspring, and this one is the parent?” Wolfe asked quietly. Rina and Marco hesitated, exchanging glances.
+
+“Frankly, I don’t know which option is more terrifying,” Marco said reluctantly. He unconsciously rubbed his arms, glancing around at the vegetation, as if expecting them to be ambushed. “If that one was an offspring, then that means there could be more around. But if this is the same one—”
+
+“Then the rate of growth is alarming,” Rina concluded grimly.
+
+“But it’s a bug, right?” Tom asked. “Invertebrate life cycles are typically faster than vertebrates, so that shouldn’t be so shocking.”
+
+“That’s assuming it really is an invertebrate,” Wolfe replied. “I, for one, am not so convinced it’s an animal. What do you think, lad?”
+
+The mage jumped a bit when Wolfe addressed him, looking around at the group helplessly before accepting the fact he was being spoken to.
+
+“Well, sir,” he started uncertainly, his voice coming out as a squeak when everyone turned their eyes to him. “I, uh… I don’t know much about the types of monsters rangers typically deal with…”
+
+Wolfe waited patiently, willing Tom to control his impatience so Randall felt free to speak his mind.
+
+Fortunately, Tom satisfied himself with a barely suppressed eyeroll.
+
+Randall shivered a bit, his eyes darting back towards the clearing where the creature was. He took a deep breath, his words coming out stronger. “As I said, I don’t know the specific terminology to classify monsters, but I can say without a doubt that that monster is extremely powerful. Sir. Magically speaking.”
+
+The other three rangers seemed surprised by Randall’s pronouncement. Marco lifted his hand as if he was a student asking a question.
+
+“So, just to be totally clear: when you say it’s ‘extremely powerful,’ that’s relative to what? The magic you’ve personally experienced?”
+
+“Um… of course more powerful than what I’ve ever experienced,” Randall said uncertainly. He frowned as he noticed Rina’s lips twitch in a sardonic smile. “But that’s still stronger than the magic at the Conservatory! The magic power from that thing is more powerful than the magic that emanates from the very foundation of the school. Are you telling me it’s not uncommon for monsters in the real world to be significantly more powerful than the oldest magical institution in the world?”
+
+Wolfe smiled grimly as the mocking smiles faded from the younger members’ faces at Randall’s rhetorical question. Marco rubbed his forehead, vexed.
+
+Like most other humans, Wolfe didn’t have the ability to detect the presence of magic, beyond the slight tingle that would make the hairs on the back of his neck stand up. However, that ability could easily be mistaken for adrenaline, and was in most cases quite useless for people in his line of work. Not even Link, as a creature more attuned than a mere human to the nature and spirits of the world, had the affinity for sensing generalized magic. Randall’s sensitivity to the arcane, even as a junior, was still useful to confirm the nature of the creature they were hunting.
+
+“How precise are your magical senses?” Randall’s brows furrowed, making Wolfe elaborate on his question. “For instance, if we were to lose sight of the creature, would you be able to continue tracking it?”
+
+Marco and Rina adopted appreciative expressions as they followed his logic, and Tom gave a low “ooooh,” making everyone glare at him. He sheepishly zipped his lips together tightly.
+
+“With a beacon this powerful, I’m pretty sure I can track it up to a hundred feet, depending on how much interference there is,” Randall replied, closing his eyes and lifting a hand, fingers stroking the air. “There’s… there’s a second beacon in the estate that I can feel, but I can’t pinpoint it. We’re quite far.”
+
+News of a second beacon was unwelcome, but at least they no longer had to worry about losing the creature.
+
+“Sir, are we prepared to capture this monster?” Tom asked, seeing the glint of determination in Wolfe’s eyes. “The specialty snares we have are for reptiles, mammals, or arthropods… and I don’t know how well the general snares will work for a magical creature as powerful as Randall is claiming…”
+
+Wolfe paused, considering Tom’s hesitance. He believed Randall about the creature’s raw magical ability, but he also had the experience to know the amount of power didn’t matter as much as how the power was utilized.
+
+“It will be a challenge,” Wolfe agreed, “but that just means we’ll have to be more careful and clever with our approach. We just need to weaken the creature enough to capture it. As long as we stick together as a team, we can cover each other’s backs.”
+
+He crouched down, sketching a quick map in the dirt as everyone huddled around beside him. “Here’s what we’ll do…”
+
+~ ~ ~ ~ ~
+
+“What’s taking so long?” Bubbles asked the magpie above her anxiously. The plants and magpies had already announced the arrival of the humans, and confirmed the humans knew where she was. Under the magpies’ direction, she had shifted her roots around to make sure to draw their attention, removing all doubt that she was what they were after.
+
+But then they had retreated, leaving just the wolf and the leopard to watch her.
+
+“They are strategizing,” the magpie informed her. “Not to worry, you may play your part soon.”
+
+Bubbles settled back down, though she was still uneasy. During training, she had been worried about whether she would grow strong enough to fight off the humans in time; they could have taken another century to arrive for all it mattered to her. But now that they were actually here, yet not acting on their goal, she wished they would just hurry up and attack. Waiting was misery of its own sort.
+
+I never thought I’d rather move more than stay rooted, she complained bitterly to Rock. He had become more and more taciturn as the moment of truth drew closer, only responding tersely when she probed him for an answer to a specific question. He merely grunted in response to her statement, immersed in his own thoughts.
+
+Yet again, she wondered what the situation would look like if she had listened to Rock and made their escape earlier.
+
+The young magpie that served as her personal assistant fluttered its wings, getting her attention.
+
+“With the humans thoroughly occupied, the scouts have determined now is the best time to make our move.”
+
+Just like that, Rock tuned back in.
+
+[Move carefully, as if you are unaware of them and unbothered,] he instructed. [Present strength, so that they are cautious to approach.]
+
+Following Rock’s directions, Bubbles stretched luxuriously before ambling into the bushes, doing her best to affect a careless demeanor.
+
+Her bait worked. The plants began signaling to each other and the magpies the location of the humans and their beasts as they followed Bubbles, keeping her (technically Rock, since he was the one managing the plans while Bubbles focused on her job) apprised of the enemies’ locations.
+
+The slow meander ended at the Elder Oak’s roots, where Bubbles began climbing up the trunk with the same leisurely pace and into the cover of the boughs. Once she reached the designated knothole, she paused, glancing at the magpie that was stationed nearby. Upon receiving an affirmative blink, she climbed inside, only to face her nerves once again.
+
+Now that she no longer had to focus on making sure she played her part perfectly, she was back to wallowing in apprehension.
+
+She almost wished she had taken Rock’s suggestion to flee earlier. At least then she wouldn’t be bound by obligation to linger and wait for the hunters to catch her. When he tried to urge her to abandon her post earlier, she had pushed back with vehemence about never abandoning her family, home, and honor, but the price of upholding her values was weighing heavily on her.
+
+His arguments to leave coalesced, becoming more sensibly apparent than when he first raised them: even if they managed to repel the small group of humans once, did she really expect them to just give up, never to return? They already came back once, why wouldn’t they come back again?
+
+Rock said they were incentivized by power, and he seemed very adamant that there was a strong source of power in the garden. As long as the power existed, it made sense that the humans would continually return to acquire it, just like how sparrows would continually return to dig for worms or insects in the soft earth… until there was nothing left to eat.
+
+The crushing realization that she was fighting against something much bigger than just a couple humans made her feel small, tiny… just as helpless as when she had been doused in the foul elixir that was supposed to save her, but instead weighed her down, so that she couldn’t collect any sunlight, no matter how much she wanted to.
+
+[Caution, the humans are setting up their trap,] Rock said, breaking her out of her stupor. [Begin making your way to the next waypoint. You have only a moment before they spring their trap.]
+
+Horrified at her lapsed attention, and grateful that she had Rock to cover for her, Bubbles pushed her morbid thoughts aside and clambered out of the hole, making her way across the branches at a quicker clip than before. She wasn’t sure if she imagined it, but she heard a hiss from a human on the ground.
+
+Knowing they were that close made her even more nervous. She increased her pace.
+
+She had one job, a job that she committed herself to despite all of Rock’s warnings, and it was too late to back out now. All she could do was—
+
+[Beware!]
+
+Squeaking at Rock’s shout, Bubbles instinctively curled into herself, drawing her plump leaves and Fern’s well as tightly into her trunk as she could, leaving Cuddles’s improved spikes standing tall and fearless.
+
+Just in time—she felt a slight pressure on the spines, followed by an ominous shudder as whatever contacted her defense mechanism felt the needles enter its soft flesh, before the feeling suddenly disappeared as the spines snapped off of her.
+
+Her own scream joined the piercing yowl as the large cat flipped through the air, waving its paws at its face.
+
+[Critical hit! If you are able to repeat that timing, you may become an Expert!]
+
+Without bothering to acknowledge Rock’s praise or even look behind her, Bubbles took off, focused only on her next destination.

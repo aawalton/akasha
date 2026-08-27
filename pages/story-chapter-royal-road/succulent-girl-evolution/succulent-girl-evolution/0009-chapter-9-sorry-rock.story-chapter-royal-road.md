@@ -1,0 +1,119 @@
+---
+id: b87d53d1-b785-57a3-b89a-11d57f934d69
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Sorry, Rock"
+slug: 0009-chapter-9-sorry-rock
+partOf: succulent-girl-evolution
+position: 9
+ownLength: 1962
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525636/chapter-9-sorry-rock"
+royalRoadId: "2525636"
+---
+
+“If you don’t mind—how did you come about your ability to walk?” Miss Magpie asked conversationally as Bubbles led her to the oak tree that had drawn away the humans.
+
+[Do not tell her of my existence,] Rock interjected quickly. [If anybody knows of me and the abilities I have granted you, it will put your life at risk. Not to mention you will lose any negotiating advantage you have.]
+
+But I can’t lie to her, Bubbles protested.
+
+[Better to pretend ignorance, then.]
+
+That’s still lying! She felt Rock’s annoyance emanate through her at her response, but she remained stubborn.
+
+[Very well. Then tell her you will not tell her.]
+
+Bubbles paused at such an obvious solution.
+
+“I’m sorry, I can’t tell you that for my own protection,” Bubbles said stoutly.
+
+“Ah, of course. Perfectly understandable.” Miss Magpie graciously accepted her reasoning, leaving Bubbles marveling at how understanding she was. After a few more moments, she added, “I hope I do not come across as preening your feathers for you, but I am very surprised and impressed at your acumen. It is very unexpected, coming from a young plant such as yourself.”
+
+[Be cautious of her flattery. She could be fishing for information.]
+
+“Thank you for the compliment. I’m just trying to survive,” Bubbles responded carefully.
+
+Miss Magpie chuckled lightly and said nothing more until they reached the elder trees.
+
+“You have returned, little one. It seems the humans have not attacked today?”
+
+“Yes, we encountered Miss Magpie while waiting for them, and she told us the humans won’t be attacking us for several more days,” Bubbles explained to the ancient oak tree. The bird stepped up beside her, spreading its wings as it bowed, showing off the iridescent shimmers of her feathers.
+
+“My greetings to the esteemed plants of this beautiful garden,” she said in her bow. “I represent the Prime Family of the Magpie Congregation. I had a small chat with this succulent here, and I would like to present an offer of a partnership in dealing with the humans.”
+
+“Welcome, Miss Magpie. We would be happy to hear the details of your proposed partnership, but I’m afraid we don’t have much to offer on our end, what with our impending doom.” The oak tree sighed, before turning to Bubbles. “Have you explained to Miss Magpie our predicament, little Bubbles?”
+
+“Indeed, Bubbles has,” the magpie replied smoothly. “And I would like to reassure you that you have much more to offer than you think.”
+
+“Very well. If you are not tired, we are open to hearing your proposal.”
+
+~ ~ ~ ~ ~
+
+Rock listened to the magpie and the oak tree negotiate details of the partnership. The oak tree was ancient, and accordingly wise with its age, having witnessed plenty of conflict in its life and thus having the judgment to deal with the bird.
+
+Rock, old as he was compared to Bubbles, was still quite young for a mana mineral. He trusted the magpie’s sincerity, but he wasn’t comfortable negotiating for the fate of the entire garden when his priority was to escape the garden entirely. It made more sense for the garden’s elders to have the final say in what happened in their garden.
+
+Bubbles, as much as she cared about the fate of her home, was dozing off. Because of Rock’s power, she had developed sapience at an accelerated rate, letting her become just as intelligent as the largest trees, but without the accompanying experience. It wasn’t surprising that she needed to suspend her consciousness frequently.
+
+This whole ordeal was not how Rock expected to make his debut in the upper strata. He wasn’t ready. His thousand-year plan had been to remain hidden in plain sight for centuries, slowly tapping into the organics, becoming one with their life cycles; develop and fine tune his knowledge and mana abilities so that he could build a self-sustaining closed ecosystem of plants and animals that drew from his power. It would be a mutualistic relationship, where he would supply his inhabitants with mana and evolve them beyond their normal capacities, while they returned their refined essence to him to study and grow from so he could improve the next generation of life, while subsequently improving the efficiency of the mana returned to him.
+
+Ironically, it took mana to create more mana.
+
+Then once he had optimized and maximized the extent of his powers with forests and their corresponding wildlife, he could move onto the next phase and begin hosting some humans, increasing his power.
+
+As much as it pained him to admit it, he had been lax while establishing his foundation: the mineral network. If he had followed the plan of his ancestors, he would still have been deep within the planet’s crust, and likely wouldn’t have been detected for centuries to come. If he was within striking distance of discovery, he would have been able to disintegrate the portion of his network that was at risk, allowing him to continue his growth elsewhere. Unfortunately, he had gotten ahead of himself, growing his network beyond what was reasonable… he had spread himself so far and so thin before he was ready, that he didn’t even notice how many minerals he had invested into the young succulent in exchange for mana.
+
+The younger the creature he began infusing with his own minerals, the easier it was to receive mana from them. All of the other trees who had extended their taproots down far enough to meet with his network were old, too old for him to gather mana quickly, though it normally wouldn’t have mattered if he had the expected timeline. The succulent’s shockingly deep taproot was a double-edged sword: he gathered mana quickly, but the fact she absorbed his mana minerals so easily made it so that they accidentally created a bond. One that wasn’t quite so easy to break. His escape plan was no longer simple to execute.
+
+As focused as he was growing his network (instead of following the practical advice of fully constructing the local lattices before branching out, he had instead opted to extend his primary veins as far as they could go, and passively fill in the lattices once he had claimed sufficient territory), he didn’t realize he had merged with a living creature to such a degree until she had squeezed her roots in fear, alerting him of his mistake. When he began disintegrating his network, he discovered the bulk of his sapience had intertwined with the juvenile taproot. Instead of having his consciousness spread out across a long, thin network, allowing him to set any other point as an anchor, his core was now anchored where the root was—which meant his network would disintegrate everywhere but where he needed.
+
+With impending doom above him, he had made the snap decision to commit to his mistake, and now he was even closer to the humans than he had ever anticipated.
+
+If he could afford to regret his decision, he would.
+
+“Well, it sounds like we’re in agreement,” Oak tree said affably while Miss Magpie curtseyed again. “But I hope you will humor me this: why are you so invested in our garden? You are offering above and beyond what we would expect from a foreign entity, the request for our assistance in apprehending the target notwithstanding.”
+
+“Well, if you really must know…” the magpie glanced at Bubbles, who was still dozing. “I pride myself on having a good eye for talent, and I believe it’s worth the effort to invest in helping talent achieve their full potential. The original mission is important, of course, but I am also looking to the future.”
+
+“Miss Bubbles certainly is a special one,” Oak agreed, chortling. “Never in my lifetime would I have anticipated seeing a plant walking around freely like a squirrel!”
+
+“Indeed! And given how young Miss Bubbles is, it’s surprising to see that she’s already acquired several attributes that aren’t characteristic of her species,” Miss Magpie agreed, walking over to nibble affectionately on one of Bubbles’s main leaves, waking her from her snooze. “My hope is with our help, we can see this little one grow into a formidable garden guardian.”
+
+“Huh? What’s going on?”
+
+“Nothing, little one. We have reached an agreement with Miss Magpie here, and were about to begin knowledge-sharing. Or would you rather we do this tomorrow?” Oak asked the bird. “The sun has set, and I’m sure you need your rest. You may roost here for the night, if you wish.”
+
+“I appreciate and accept your offer of roosting here,” Magpie replied courteously. “And yes, I believe it would be best if we share knowledge tomorrow. I will need to return to my congregation and provide a report, and can return with the appropriate personnel to discuss things in detail and plan appropriately. Fear not, we still have plenty of time before the humans return.”
+
+Did I miss anything important? Bubbles asked Rock privately. He hesitated, unsure what to say.
+
+On the one hand, the magpie’s offers had been undoubtedly generous, yet still fair. If all went well, they would have a new forest to establish a new community of magpies, which signaled their intentions and investment in this new partnership.
+
+On the other hand, he didn’t quite like how the magpie had her eye on Bubbles’s “potential.”
+
+They were supposed to leave, not remain here, in a place which was bound to be continually attacked by humans who were on the hunt for him. If they weren’t careful, the magpies could bind her—him—to their continued service.
+
+However, knowing how beholden Bubbles was to her homeland, he knew it wouldn’t be easy to turn her away from the developments.
+
+[The elder trees and the magpie have reached an agreement.]
+
+That’s amazing!
+
+[Indeed.] Unable to help himself, he just had to remind her of their deal. [You do realize that even with the magpies’ help—]
+
+I know, we might still lose, and that means I have to run away. Bubbles sighed wistfully. At least this will be a good memory of my home. I can remember everyone here with pride, for being brave and protecting and honoring Master’s memory.
+
+Rock bit back his words, recognizing there was no way he could shake his host of her idealism. Besides, he comforted himself; it was unlikely that they would be able to repel the humans long enough for any meaningful length of time, even with the magpies’ help; reality was the harshest teacher.
+
+It had only been a few days since Rock had hopped aboard the succulent, but he was nearly at his wit’s end trying to anticipate how Bubbles might react, and what it would take to make her cooperate with the most logical course of action.
+
+He had hoped she would understand the value of his powers and subsequently see the need to keep him from falling into the clutches of the powerhungry humans, but she was still too naive and innocent to reach that conclusion without having everything spelled out for her… and they didn’t have the time to do that. All he could do was do his best to use his powers to increase her survivability and knowledge to (try to) guide her away from throwing it all away.
+
+He never expected to be in such a powerless, subservient position.
+
+Regardless, at least there was still something he could do.
+
+[It would be prudent to use this time to continue increasing your Pierce ability,] he suggested. [At the Fledgling level, you will be able to regrow your spines faster.]
+
+Aye aye! Bubbles said cheerfully, once again displaying the confounding enthusiasm that initially fooled Rock into thinking she was simpleminded enough to not question the importance of his freedom.

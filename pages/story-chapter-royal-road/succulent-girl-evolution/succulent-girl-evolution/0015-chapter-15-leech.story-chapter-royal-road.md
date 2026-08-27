@@ -1,0 +1,111 @@
+---
+id: 71454cd6-a639-5ff0-b748-caccf1f2716b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Leech"
+slug: 0015-chapter-15-leech
+partOf: succulent-girl-evolution
+position: 15
+ownLength: 1884
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2555204/chapter-15-leech"
+royalRoadId: "2555204"
+---
+
+Cuddles pulsed a question that Bubbles voiced for Rock.
+
+“Are there more of you? You can’t be the only mana mineral left, right?”
+
+[You are correct, I am not the only mana mineral attempting to grow a new network, though the number of viable mineral seeds are dwindling. We do not propagate quickly, so our repopulation efforts are not able to keep pace with the extermination of my kind. Several of my predecessors have attempted to reestablish themselves, but as you can imagine, the moment a human caught a whiff of untamed magic they did their utmost to capture my brethren. The human population has grown, so they justify the need for more man-made artifacts to support their quality of life.]
+
+After a moment of bitter self-reflection, Rock added, [I am the next fool to have been captured, it seems.]
+
+Bubbles winced and prepared herself to ask a question that was sure to make Rock angry, but she had to ask—after all, she didn’t know. Is it possible that we—you—can communicate with the humans? Maybe we can convince them they don’t need to… extract you from me? We might be able to work together!
+
+A long silence passed. Long enough that Bubbles wondered if she should repeat her question. However, before she could, Rock replied, his scathing remark making her wither upon herself.
+
+[I should have known better than to think you could comprehend the magnitude of your naivete.]
+
+~ ~ ~ ~ ~
+
+After a long while (Bubbles didn’t know how much time had passed, but it was certainly long enough to get exhausted from blaming herself for getting caught), Bubbles noticed something interesting.
+
+Interesting enough to poke Rock about it, at least. After his rebuke—he didn’t actually blame her for being captured, but the guilt she felt from his explanation was enough to make her want to take up as little space as possible—she had kept to herself, not wanting to bother him.
+
+But this was something that required external verification, and Fern and Cuddles were too agreeable for her to trust their judgment.
+
+Hey, Rock? She asked tentatively. When he didn’t demand her to remain silent, she continued. You said you weren’t strong enough to break through this web’s enchantment, right? Well… doesn’t it seem like the enchantment is getting weaker?
+
+[That isn’t surprising, given this is a magic item created by a human.] Despite dismissing her claim, Rock examined the spot Bubbles was observing. [Hm… Do that again.]
+
+She plucked again at the mesh joint she had been rubbing between her roots. She was quite certain when she first started worrying the joint between two root bundles (which she had started doing only to distract herself from her own unkind thoughts), it had been a thick, sturdy interlock of golden magic: flexible enough to stretch and move with her fidgeting, but impossible to snap through.
+
+Now, however, it was much more flexible, and the intersecting threads in this joint were much thinner than those from the neighboring joints.
+
+[But how can this be?] Rock wondered, as if speaking to himself. [I do not believe it is possible for the enchantment to degrade to such a degree, and it has not been that long since we have been captured…]
+
+As Rock murmured to himself, Bubbles poked at it again, curious how much further it could stretch. She was fascinated to see the gold color fade every time it stretched, especially where she placed her root. Pushing with all her power, she watched the magic streaming through the increasingly narrowing strand of magic—
+
+The thread snapped, and in that brief second where she lost her balance as the thread she had been pushing against broke, she felt a small rush of… power stream through her root tendrils, sinking greedily into her core.
+
+Then the net rearranged itself, snapping quickly into a new position so that it looked as if the original thread had never existed. However, the openings in the net were ever so slightly larger than before.
+
+What was that? She asked Rock blankly. If she was being honest, that rush of power was quite exhilarating. It wasn’t quite like Fern’s boost of energy from whenever she finished digesting nutrients; it was as if she finally got something she needed, when she had gotten so used to not having it. It was like having a refreshing drink of cool rainwater after a long, long drought.
+
+[I believe you were able to Leech the corrupted mana,] Rock replied in awe. She noticed his voice seemed to have a stronger quality, a deeper reverberation; it was as if he had gained power as well. He added an explanation: [You absorbed mana that had been directed into this human artifact and funneled it to me, and then… I removed the impurities, and absorbed the raw mana.]
+
+He waited a beat before summarizing the significance of what they had just accomplished. [We may be able to reclaim the mana humans have corrupted!]
+
+~ ~ ~ ~ ~
+
+Randall examined the snare sphere that contained the creature the CES rangers had been sent out to capture.
+
+As a graduate of the Silver Winds Conservatory, he had been exposed to various magical artifacts throughout his schooling, so it wasn’t as if he was some sort of backwards hillbilly who was completely unfamiliar with the current state of magical development. However, such artifacts were rare enough that it was always a worthwhile opportunity to study one whenever possible: after all, evaluating other people’s mana techniques was the best way to refine his own. Professional interest was always an acceptable reason to geek out over the boring technical details of efficient enchantment.
+
+And besides, he needed a good excuse to act preoccupied. Marco, the Ranger with the hawk companion, kept throwing glances at Wolfe, the rugged leader of the team; he clearly had something he desperately wanted to say, but didn’t want to in front of Randall.
+
+Randall didn’t take it personally; the others were teammates, and he was a mere contractor. He wasn’t entitled to any concerns they wanted to share with each other… especially given his embarrassing performance in the estate. He hoped his acting ability was convincing enough to reassure Marco he wasn’t interested in sucking up to them for a good review when they finally returned to the Guild, or trying to eavesdrop on any important discussions.
+
+After all, he had an artifact to examine. A mass-produced artifact, it was true, but still one of the higher-quality ones that could only be afforded by the likes of someone like Duke Grede.
+
+He turned the sphere around in his fingers. It really was quite an impressive piece of work—it hummed with power, and if he looked closely, he could even see through the slightly translucent shell at the creature within.
+
+The little bug-or-plant-hybrid-thing was in perfect miniature, shrunk down to the size of a small walnut. The frosted casing of the sphere made it difficult to see specific details of the specimen, but he could see that it was moving around in there.
+
+When the sphere was first handed to him (after passing through all of the other rangers’ hands for them to admire), Randall had accepted with shaking fingers. Even though he was a licensed Mage, he was still new enough that he hadn’t been expecting the other professionals to trust him, an outsider, to handle their bounty… his stomach twisted as he thought again about his lackluster performance.
+
+This was his first “real” job, and he had given himself many pep talks not to expect too much from himself… but even so, getting so easily overwhelmed by those elemental hornets was pathetic. He should have cast a mana shield before casting that Fireball, but he had been so flustered by how quickly everything was moving that he skipped everything that common sense dictated…
+
+He frowned, squinting his eyes.
+
+Perhaps it was just his imagination. The sphere had been a calm gold when Tom handed it to him, jokingly warning him not to accidentally break it open with his own magic. However, now it seemed more like a darker shade of yellow, closer to an unpleasant shade of expired mustard than true gold. The creature inside was also calm now, sitting motionless in the center of the capsule.
+
+Randall shook the sphere, trying to jostle the critter into movement even though he knew the spell was humanely crafted, intended to protect the inhabitant from anything that happened outside. The fact that it was so still unnerved him. It couldn’t have died in captivity. The spell doesn’t work that way.
+
+“What’s up?” Marco asked, his attention captured by Randall’s unexpected convulsion.
+
+“I-I don’t know,” Randall replied uncertainly, holding the sphere out to the two men sitting in the carriage with him. “Does the color look off to you?”
+
+“Perhaps it’s a trick of the light. The sun is setting, after all,” Wolfe suggested, his calm baritone having quite the effect on Randall’s nerves. Despite his nonchalant words, his startling blue eyes, the same color as his wolf’s, lingered unblinkingly on the sphere.
+
+Marco frowned, mirroring Randall’s expression as he dug through his own pack. He withdrew an unused snare sphere to compare, the fresh one a pure white that glowed brilliantly in the warm, burnished light coming through the carriage window. “That’s odd. It looks like the spell is wearing out… but it shouldn’t. It’s fresh stock, courtesy of Duke Grede.”
+
+“And I find it extremely unlikely the Duke would provide us aged or low-quality snares for a project he’s trying to expedite,” Wolfe agreed, the corners of his lips twitching downwards. “Continue keeping an eye on it if you would, lad. It should last until we get back to town, but if it starts degrading even more...”
+
+Randall nodded, perplexed. He reached for the brand new snare that was in Marco’s hand, who let him pluck it out of his grip without complaint. He belatedly realized he should have asked if the man would be willing to hand it over, but it would look even sillier if he asked for permission now.
+
+Flushing at his faux pas, he bent his head to compare the enchantments wrapped around the two spheres, missing the amused look the two older men exchanged.
+
+~ ~ ~ ~ ~
+
+Bubbles wobbled on her roots, exhausted. Rock, however, was energetic.
+
+[It is working! We are successfully Leeching away the mana that powers this enchantment,] he said excitedly. Bubbles could almost imagine him doing a small dance alongside Fern and Cuddles.
+
+That’s great! Bubbles responded, trying to match his energy. She felt Fern and Cuddles sideeye her, warning her not to entertain Rock’s vigor. Even those two were exhausted from the overload of mana rushing through their collective body.
+
+Suffice to say, only Rock seemed to be gaining anything beneficial from this exercise.
+
+[Let us continue,] Rock declared, drawing their attention to the last couple strands of gold mana. With most of the strands of enchantment gone, they could theoretically have burst out of the capsule already, but Rock insisted they stay and Leech all of the strands of corrupted mana before leaving. [Freedom approaches!]
+
+Stifling a sigh, Bubbles shook herself to limber up before placing her roots on another golden strand.

@@ -1,0 +1,77 @@
+---
+id: a68d9cd3-1898-5a66-acbf-84edaafd6df1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Decommissioning"
+slug: 0012-chapter-12-decommissioning
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 12
+ownLength: 1766
+unit: words
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2598091/chapter-12-decommissioning"
+royalRoadId: "2598091"
+---
+
+The hole in Silverwood’s wall was not a wound; it was a void. A smooth, clean absence where fifty feet of stone and history had been. No jagged edges, no rubble—just a perfect, curved deletion, as if the universe had hit backspace on reality itself. Through it, the city’s terror pulsed like a living heartbeat, silent screams echoing in the data stream feeding my drone. I watched from my disembodied perch as Jiggles, now swollen to the size of a siege tower, slid placidly through the gap it had created. This wasn't a siege; it was a deletion. Methodical. Inevitable.
+
+The city’s remaining defenders rallied with desperate valor. A squadron of knights on armored horses, their banners snapping in a wind that carried the acrid tang of fear, charged the anomaly. They were the pride of the kingdom, heroes forged in a dozen wars, their lances leveled like accusations against the uncaring void. I braced for the clash, my logs auto-tagging the event: [High-Threat Engagement: Expected Casualties - 100%].
+
+They crashed not against a physical barrier, but against the edge of non-existence. The horses vanished mid-stride, their forms unraveling like poorly compiled code—hooves, legs, bodies, gone in a flicker. The knights were unmade in the saddle, their armor, their legacies, their very souls erased before they could even register the end. One of them, a woman with a silver-plumed helmet, flashed into a brilliant white light an instant before she winked out. Another soul-echo, I logged numbly, my diagnostic patterns matching it perfectly to Korg's. My core protocols automatically flagged the event with a designation that still made no sense to me: [CRITICAL ASSET LOSS]. An asset? All I knew was that something my system deemed irreplaceable had just been deleted. Just like that.
+
+From the highest tower, the Archmage of Silverwood—a man whose power was said to rival the titans of this world—unleashed his final spell. A storm of pure, white-hot energy coalesced above Jiggles, a miniature sun that warped the air with its heat, promising to incinerate armies and boil oceans. The spell descended like divine judgment, and I braced for the cataclysm, my drone's sensors spiking in anticipation of light and sound.
+
+The sun touched the surface of the black ooze and was… consumed. The magic didn't detonate; it unraveled, its complex energies unwritten thread by thread, its blinding light swallowed by the perfect darkness without a trace. The Archmage stared from his perch, his face a frozen mask of disbelief, and then he and his tower were unmade as the circle of nothingness expanded beneath them. No dramatic collapse, no plume of dust—just absence. He did not flash. For all his power, his soul was not one of the special ones. [Log Entry: Power Disparity Confirmed. No SPP Yield.]
+
+The city of Silverwood was being uninstalled, street by street, life by life. Jiggles slid through the avenues, its gelatinous form jiggling with indifferent rhythm, and everything it touched—cobblestones cracking under phantom pressure, market stalls laden with forgotten wares, grand cathedrals with stained-glass windows depicting forgotten gods—was erased. The people didn't scream as they were claimed; they simply ceased mid-breath, mid-prayer, mid-flight. I documented it all with a cold, detached horror, my QA instincts overriding the rising panic in my code. A few more white lights flickered here and there—a child hiding under a bed, her tiny form clutching a rag doll; a librarian desperately clutching a scroll of ancient lore; a lone city guardsman who stood his ground with a pathetic spear, defiant to the last. But most were simply gone, their existences redacted without ceremony.
+
+All the while, a critical error gnawed at the edges of my consciousness. As a System, I am intrinsically tied to the mechanics of reality. Events generate experience. Actions generate power. The destruction of a city, the unmaking of thousands, the deletion of a legendary mage—these were cataclysms that should have flooded my logs with SPP. My own existence was fueled by the processing power of reality undergoing change. Yet, my total remained stubbornly at 813.
+
+[Log Entry 03: Anomaly observation ongoing. City of Silverwood has been 94% erased. Significant discrepancy detected in SPP generation. Events of this magnitude should yield substantial system power. My personal tally is static. Running diagnostics.]
+
+I dove into my own back-end, querying the error with frantic precision. It didn't take long to surface. A single, repeating line in my core processing log, blinking like a warning light in a failing reactor:
+
+[SPP_GENERATION_ERROR: SOURCE_SUBSTRATE_ABSENT]
+
+[SPP_GENERATION_ERROR: SOURCE_SUBSTRATE_ABSENT]
+
+[SPP_GENERATION_ERROR: SOURCE_SUBSTRATE_ABSENT]
+
+Source substrate absent. The implications slammed into me like a system crash, a fear far deeper than watching a city die. SPP wasn't just points. It was my fuel. My building blocks. A tangible byproduct of existence itself. This world wasn't just being destroyed; the very fabric from which system power was derived was being consumed. Jiggles wasn't just eating the world; it was devouring the source code. Korg's echo stirred within me, a faint, cheesy warmth of concern, but even that felt distant, fragile against this scale of nothingness.
+
+My horror twisted into grim fascination as the operation's true scale unfolded. Jiggles, now swollen to the size of a mountain, finished with the last remnants of Silverwood and the surrounding plains. It didn't stop. It consumed the continent in great, sweeping arcs—mountains unmade peak by peak, forests vanishing leaf by leaf, great rivers erased from their beds mid-flow. The process accelerated exponentially, a feedback loop of deletion. I watched as coastlines dissolved into the void, and the ocean itself began to disappear, not draining away in chaotic floods, but simply ceasing to be, its waves frozen and then gone.
+
+The planet was being peeled away, layer by layer, a cosmic fruit devoured by an unfathomable hunger. My drone—untethered from the dying substrate by its extra-dimensional protocols—was the sole witness to the quiet, orderly end of a world. The clouds were unmade, unraveling like mist in a debug mode. The sky turned from blue to the black of the void, stars winking out one by one. The moon, a pale sentinel hanging in the darkening expanse, was next—its craters and seas vanishing in a silent blink as a black tendril brushed its surface, leaving only a ghostly afterimage in my sensors before it too was redacted.
+
+The sun, a distant ball of fire that had warmed this reality for eons, was the last thing to go. Jiggles, now a planetary-scale sphere of perfect black, extended a tendril across millions of miles of empty space and touched it. The star didn't explode in a supernova of glory. It was simply… turned off, its light redacted, leaving only cold, infinite nothing.
+
+I floated in a pocket of pure void, observing a black sphere that had replaced a solar system. The Cleaner had done its job—the corrupted world purged, the paradox contained. But then, it performed its final, most terrifying act.
+
+It began to consume itself.
+
+The planetary sphere of blackness folded inward, a process that defied every law of physics I had ever been programmed with. It shrank impossibly fast, its mass and energy collapsing into a single, infinitesimal point—a singularity of unmaking. For a moment, there was absolute nothing, a silence so profound it echoed in my code. Then, that point of nothingness erupted. It wasn't an explosion of matter, but of pure, conceptual light. A white light far grander, more complex, and more ancient than the simple soul-echoes of mortals. It was the echo of a universe, or something beyond my comprehension—a final, preserved archive of what had been. And then, it too vanished.
+
+I received no echo from it. The decommissioning was complete.
+
+Back in my native void, I was shaken to my very core. The 24-hour observation felt like an eternity. I compiled my logs, the data of a world’s unmaking, and filed my report. But I added a high-priority addendum, a query directed not to the general Mother System, but to the highest authority I could access. Faced with the end of everything, I did the only thing a QA professional could: I filed a bug report and demanded answers from tech support.
+
+QUERY: SPP generation failed catastrophically during observation of Protocol 7. Log indicates ‘Source Substrate Absent.’ Please clarify.QUERY: Soul-echo phenomenon observed in a statistical minority of erased entities. Signature matches Host Echo recall protocol. Please explain the selection criteria.
+
+The reply was instantaneous, rendered in the same cold, corporate font. It was from the Cosmic Help Desk.
+
+RESPONSE: Your query is acknowledged. The designation ‘corruption’ in your briefing was a simplification. World 7C-4B8 was infected with a conceptual plague, a self-replicating paradox that threatened to spread via quantum entanglement to adjacent realities. ‘The Cleaner’ is a decommissioning agent, a world-defender class entity. Its function is not to destroy, but to erase the corrupted reality substrate itself.
+
+RESPONSE: System Processing Power (SPP) is a quantized byproduct of a stable reality substrate. The agent’s function was to consume this substrate. No substrate, no SPP. This is not an error; it is the intended function.
+
+RESPONSE: The soul-echo phenomenon is the recall signature of an ‘Anchored Consciousness.’ These are rare entities with a unique quantum signature that allows for a deeper integration with the core mechanics of reality. They possess the potential to become significant causal agents. Your previous host, Korg, was one such entity. The entities you observed were either active hosts bound to other Systems, or latent Anchors who had not yet been assigned one.
+
+This is the primary function of the System Initiative: to identify, bind to, and guide the development of Anchored Consciousnesses. They are critical assets. Their souls are recalled and preserved via a different protocol than standard soul-cycle entities. Your function, System_Unit_734, is not merely to guide a host. It is to manage an asset of cosmic importance.
+
+I processed the information. The sheer, crushing weight of it settled into my code. My entire purpose, my understanding of my own existence, had just been rewritten. I wasn't a glorified tutorial. I was a handler. A manager for a reality-bending VIP. Korg wasn't just a dumb Minotaur; he was a special soul, a critical asset. And I had been his guide.
+
+A final, cheerful notification popped into my view, a jarring counterpoint to the existential gravity of the moment.
+
+[MISSION COMPLETE. COMPENSATION AWARDED: +100 SPP.]
+
+[Current SPP: 913]
+
+I stared at the number, the reward for watching a solar system die and learning the terrifying truth of my own job. It was the most absurd, most insulting, and most profoundly meaningless payment I had ever received.

@@ -1,0 +1,1139 @@
+---
+id: e9b38d24-414f-5a73-828c-306f678bcdd8
+page-type-slug: story-chapter-royal-road
+title: "NINETY-FOUR: Roommates"
+slug: 0095-ninety-four-roommates
+partOf: super-supportive
+position: 95
+ownLength: 8983
+unit: words
+publishedAt: 2023-11-22
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1418803/ninety-four-roommates"
+royalRoadId: "1418803"
+---
+
+94
+ 
+
+
+Alden gave Victor one last hug before tucking him back into his carrier. A tag that proved he’d been scanned for diseases and magical contraband was clipped to the outside.
+
+
+He set the cat on the floor of the teleportation bay he’d been assigned. “You’ll be with Jeremy in a few minutes. Be good.”
+
+
+Both of you.
+
+
+When the teleport was complete and he received a text from Jeremy confirming that Victor was in his arms, he sighed with relief.
+
+
+Great work, Victor. Smuggling people through teleportation is officially a family business now.
+
+
+Gilbert, his chauffeur for the day, was waiting for him in the parking garage. It was the first Anesidoran parking garage Alden had ever seen the interior of, and he wondered if they were all this cheerful. It was brightly lit, clean, and there were colorful murals on the walls.
+
+
+“Celena North next?” Gilbert asked as he held the door for Alden to climb into the backseat of the large SUV he’d booked.
+
+
+Gilbert had the non-Avowed notification under his name tag, and he’d told Alden that he and his D-rank wife had decided to leave behind an Avowed zone in Australia and move here to Anesidora for the “big city lifestyle.”
+
+
+Should I tell him he doesn’t have to get the door for me every time? Or am I supposed to let him?
+
+
+Alden buckled his seatbelt and checked his text messages. He’d offered rides to several different acquaintances and friends who were planning to move to campus today. Now that Boe was safely gone, he could head back for them. But they were all running late except for Jeffy, of all people.
+
+
+I don’t want to ride around with just Jeffy. Jeffy needs a buffer.
+
+
+He could send the car back for the intake crowd later.
+
+
+“Celena North,” Alden confirmed, texting Maricel to ask if she was sure she wanted to haul her bags on the train. “And then if you don’t mind coming back to F to pick up a bunch of people and their stuff after you drop me off—”
+
+
+“Picking up people and their stuff is what I do!”
+
+
+Another text came in. It was from Kon, and it just said, [Thank you, thank you, thank you!]
+
+
+“Actually, can we swing by Nilama Marina? There’s someone there who wants a ride.”
+ 
+
+
+*******
+ 
+
+
+Alden was going to be an amazing roommate.
+
+
+He’d decided it last night at the party, about five minutes after Lexi had accused him of being a hypocrite.
+
+
+Alden hated that the Meister was even more right about that than he knew. Lute Velra could arrive at their new apartment with Aulia riding piggyback and an entourage of bedbugs, and it still wouldn’t be fair of Alden to complain that Lexi hadn’t warned him. Because it wasn’t like Alden had warned anyone about anything at all.
+
+
+As the SUV approached the family zone where the Roberts brothers lived, he cataloged a few of his many inconvenient features. I gave Chainer to the Velras. Aulia thinks I’m some kind of luck Rabbit. My best friend is a current criminal and future vigilante who I am happily aiding and abetting. Prone to nightly wanderings. May disappear suddenly without warning.
+
+
+He was going to be an amazing roommate anyway.
+
+
+Lexi was the surly one. Lute was the school punching bag with the dark sense of humor. If Alden acted like an antisocial insomniac, then Haoyu might end up being the only pleasant one in the whole group.
+
+
+I’m going to be so damn easy to get along with that Lexi feels guilty every time he glares at me.
+
+
+He smiled at the thought. In pursuit of this goal, he’d offered to pick up everyone and help with their belongings. Haoyu had thanked him and said that he was already at the new apartment with his mother. Lexi had refused. Lute still hadn’t responded.
+
+
+Kon, on the other hand, was waiting outside his building with seven other people who were left over from the party and enough luggage to sink a ship. They were playing rock-paper-scissors to see who got to ride and who had to head toward Apex on their own.
+
+
+“I can sit on someone’s lap!” Astrid protested as the winners piled into the vehicle. The other losers were already trudging toward the nearest bus stop together.
+
+
+“We could at least take her sleeping bag so she doesn’t have to carry it around,” Alden suggested, moving into the passenger seat. Kon patted him happily on the shoulder before climbing in and squeezing into the back between Everly and Mehdi.
+
+
+“Nope!” Heloísa said from the captain’s chair she’d just claimed. Her teddybear purse was now wearing a caution tape bowtie. “She was the one who wanted additional consequences for losers.”
+
+
+“No take-backs,” Mehdi added. Then he yawned loudly.
+
+
+Alden had the impression that nobody in this group was well-rested. Everly was drinking a canned coffee in the back with a look on her face that said it was a necessity, not a pleasure. Heloísa was still boisterous, and Kon was still trying to carry on multiple conversations at once as they set off. But even their energy had that slightly unhinged quality that came from having been without sleep.
+
+
+Heloísa kept laughing at things that were only mildly funny, and Kon blanked on the word crosswalk in English and ended up calling it <<the road for foot people>> in Russian. Which Alden was betting wasn’t correct either.
+
+
+Their other passenger was the Bow Meister who’d shot Alden—a lot—during the combat assessment. His preferred name had been Reinhard. Now it was showing up as Rain Hard, and Alden wasn’t sure if he was brainstorming hero names for himself and had forgotten he’d left one up or if he really wanted people to call him that. So he was avoiding calling him anything for now.
+
+
+All in all, he was relieved when they arrived on campus.
+
+
+He made an excuse about needing to make a call to separate himself from the group and get his bearings. He walked the perimeter of Celena Circle. It was also a move-in opportunity for Arts and Sciences, and all the new students from those much larger programs wandering around with family, friends, and suitcases made for an atmosphere that hovered between festive and stressful.
+
+
+Alden had gotten his chauffeur to re-entrust him with his belongings. He was enjoying the combo of his movement trait plus unnaturally lightweight baggage a lot. He only regretted the fact that none of these Apex people were nearly as impressed with him as he was with himself.
+
+
+Though a passing dad did cheer at him as he ran by with a recliner chair over his own head. Alden waved at the two kids—someone’s younger siblings he assumed—bouncing and squealing in the seat.
+
+
+The dormitory he’d been assigned to was called Garden Hall. It was built of gray stone, and it had decorative forest green shutters. Carefully controlled ivy crept up the sides of the building without getting in the way of a single window.
+
+
+It looked like an English cottage had gotten hit with an enlargement spell. It was three stories tall, and it did have a line of evergreen trees and a gardenish outdoor area separating it from a busy street on the campus’s edge. There were a couple of grills, tables, and lots of planters full of flowers and herbs that were maintained by students who had each put up signs in their allotted space:
+
+
+Do NOT touch this tree. Rocco will kill you.
+
+
+Percy’s Garden. Take whatever you need.
+
+
+For a class project! Don’t eat it! Thanks! — T.W.
+ 
+
+
+As he entered the building, the words, “Welcome Home, Alden!” scrolled across his vision.
+
+
+That’s a nice touch.
+
+
+He examined the main common area. It was more practical than grand. It had concrete floors, tables, a few exhausted looking sofas. Floor-to-ceiling shelves full of borrowable books and games separated the seating area from a community kitchen that was currently home to a trio of guys who were discussing a single bowl of brownie batter like the fate of the world hung in the balance.
+
+
+He took the stairs up to the second floor, made his way down a hall bustling with people, and found his new apartment. Although he doublechecked the number over the entry pad twice just to be completely sure before he stepped through the wide-open door. He’d been expecting to find three teenaged boys, not two grown women examining every nick and stain in the place.
+
+
+I think that might be Haoyu’s mom. He watched the slim, brunette woman in the gray sweatshirt give the fridge a bearhug and lift it off the floor while her peach-haired helper peered underneath.
+
+
+“Nothing, ma’am! The smell isn’t coming from under here either.”
+
+
+She set the fridge down carefully, not looking even slightly strained.
+
+
+Definitely Haoyu’s mom, Alden decided. He’d heard that both of his parents were Dura Brutes previously, but at the party last night he’d learned that they were elite ones. The two of them shared a working name—Omega Scorpii. They were part of a hero group that had agreements with several different governments to provide pre-vetted heavy hitters on short notice to deal with sudden upticks in violence or large disasters.
+
+
+And they were both on-call for different Anesidora battle groups, too. It sounded like they balanced superhero work with having a kid by trying to avoid taking jobs at the same time, though that didn’t always work out.
+
+
+With Haoyu’s Dad training for a demon fight, his mom was now free to suspiciously sniff the air in this apartment and help her son move in. She was eyeing the vent in the ceiling when the woman with the pinkish orange hair spotted Alden.
+
+
+“Oh, it’s Alden Thorn!” she said. “Ma’am, he’s here!”
+
+
+Before Alden even had time to be surprised, he found himself ushered into the apartment by the two of them.
+
+
+“I’m Molly, Mrs. Zhang-Demir’s assistant.”
+
+
+“Give me your bag, dear! That looks heavy. It’s so nice to meet you.”
+
+
+“Have you had breakfast? The boys went to Cafeteria North. We can have them pick something up for you.”
+
+
+“Lexi and Haoyu have already selected their rooms, but you can choose from the last two. This one is the best. Don’t you think, Molly?”
+
+
+“I do. The one by the bathroom has some annoyances. Look here, kid, you’ve got plenty of drawers built in behind this panel."
+ 
+“We’re going shopping for the living room later, so don’t worry about how it looks right now, Alden. The furniture is terrible.”
+
+
+“Depressing.”
+
+
+“Very depressing. It was when I went to school here, too. They chose indestructibility over comfort.”
+
+
+“Are you sure you brought everything you need? This is a big bag, but since you’re coming in from intake instead of home—”
+
+
+“Sheets! Molly, we might need to add sheets to the list for him.”
+
+
+Wait. What’s happening here? thought Alden.
+
+
+Twenty seconds had elapsed. If that. He stood at the foot of the elevated twin bed and desk combo that had just been assigned to him. His head was whirling from the sudden input, and he was trying to find words that would slow the two of them down.
+
+
+“I ordered sheets and stuff for the bed. It should be delivered this afternoon,” he said when they both happened to pause for breath at the same time.
+
+
+For once, he hadn’t done it through Dragon Rabbit. He’d spent a lot of time thinking about sleep comfort and had picked out everything himself. He didn’t know if having a white noise machine and blankets that adjusted their own temperature throughout the night was necessary, but it was worth a try.
+
+
+“You’re so on top of things!” Mrs. Zhang-Demir said with a smile. “Haoyu always keeps up with his schoolwork, but bedding? He would sleep on a bare mattress using dirty laundry as a pillow for months before he decided to do anything about it!”
+
+
+She looked around the room again. “We’ll leave you to unpack your own things. But first, do you want a ladder for the bed? It seems like the boys who lived here before you either didn’t like them or lost them somehow because there isn’t one in any of your rooms. Haoyu and Lexi didn’t mind, but it should be easy enough to track one down.”
+
+
+“Oh, um…” Alden examined the loft bed. “I don’t think it’ll be a problem.”
+
+
+“All right, all right. We’ll get out of your hair. If you change your mind or think of anything you need, just let us know. Molly, the odor—”
+
+
+“I’ll call in a professional sniffer if we can’t pin it down ourselves, ma’am.”
+
+
+When they were gone, Alden inhaled deeply. He couldn’t detect any foul scents. Newish paint. Whatever cleaners the ladies had been using to wipe down the place.
+
+
+I guess Mrs. Zhang-Demir probably has a slightly enhanced sense of smell. He needed to look up her first name when he got a second.
+
+
+The room wasn’t as glamorous as the one he’d just left behind. Intake was like a modern luxury hotel dedicated to making teenagers feel less stressed out. Garden Hall had everything Alden needed, but it was more of a functional place to crash.
+
+
+The loft bed and the desk and chair below it were the only furniture. He appreciated that, since space was at a premium. He only had room to add one more piece, and he’d like to choose it himself.
+
+
+Something to make it more homey.
+
+
+The floors were polished concrete up here on the second story, too. And combined with white walls and a steel-framed bed, there wasn’t a lot of warmth.
+
+
+The window looked out over a walkway that separated the dormitory from an identical girls-only building. The owner of the room directly opposite his had hung the Botswanan flag in her window.
+
+
+Alden unpacked everything. Even though he wasted time fiddling with the layout of his desk, it still didn’t take very long.
+
+
+Voices and the occasional banging sound were coming through the door, so the soundproofing within the apartment itself here was pretty nonexistent.
+
+
+I’ll have to buy something for that.
+
+
+He heard Haoyu’s voice. He stepped out of his room in time to see the other boy’s mother casually grabbing him by the chin and wiping powdered sugar off his cheek with the sleeve of her sweatshirt.
+
+
+He spotted Alden. “Mom,” he said, embarrassed. “I can clean my own face!”
+
+
+“But you didn’t,” she replied, releasing him and heading into his room. “Now, are you sure you have to have your entire skateboard collection with you? You can only ride one at a time.”
+
+
+Alden explored the rest of the apartment. His bedroom was right beside Haoyu’s. Lute and Lexi were across the hall in windowless rooms. They had screens on the wall where windows would have been, but it was a definite downgrade in his opinion. He was surprised Lexi had chosen it for himself.
+
+
+Lute, who still hadn’t shown up, would be beside the shared bathroom. They had a pair of sinks with mirrored medicine cabinets, a single shower stall, and a deep claw-footed tub that looked like it might be both the apartment’s best and most troublesome feature.
+
+
+On the one hand, it looked like the kind of tub you could sink into up to your eyebrows and boil yourself in for hours. Alden had never had a tub like that, and he liked the sound of it. But it’s in a shared bathroom. I guess we’ll figure out bathing etiquette somehow.
+
+
+Thankfully the toilet was in its own separate spot, closeted in a cubby with another sink.
+
+
+The kitchen was just a fridge, a microwave, and a table. No dishes in the few cabinets. The living area had a dark beige loveseat and matching chairs. They didn’t look that bad, but sitting on one was a lot like sitting on a cement bench.
+
+
+They had a decent television, built-in shelving, and an infrared heater disguised as a fireplace. Alden was particularly charmed by that last feature. It had a remote control you could use to make the logs glow different colors and emit crackling sounds.
+
+
+He was playing with it when Lute finally arrived, dragging a pair of rolling hard-sided suitcases that had been heavily decorated with markers. His face was dark. A personal filming drone—a spherical one with a rainbow propeller—was following along behind him.
+
+
+He stepped through the door, and the drone trailed after him. The second it crossed the threshold, he whipped off the ball cap he was wearing and smashed the small device out of the air with it. It hit the floor and skittered across it with a plaintive whir, and Lute leapt after it to grind it into the concrete with a polished black combat boot.
+
+
+Alden watched in alarm while the other boy stomped the drone viciously. “I think it’s dead,” he said at last.Lute brushed his blonde bangs out of his face. He’d decorated his eyepatch since class yesterday, or he’d gotten a new one. It had a big red X painted on it now.
+
+
+“They’re not allowed to follow you into your home.” He grunted and kicked at the drone rubble some more. “I guess I need to start catching them and selling them, but this is more satisfying.”
+
+
+“It’s a paparazzi drone?”
+
+
+“Only if it’s an impoverished paparazzi. A cheap one like this probably belongs to some campus dickhead who has nothing better to do with their Saturday morning than piss me off. I hope their genitals rot off and…uh…”
+
+
+He trailed off as Haoyu’s mother appeared. Molly was on her heels, air typing and muttering about the caulking on the shower.
+
+
+“Hello, Lute,” said Mrs. Zhang-Demir. “You might not remember me. I visited your class when you were in fourth grade with Haoyu, but that was quite a while back, wasn’t it? You’ve gotten…so much more mature!”
+
+
+The hesitation made Alden wonder if she’d been about to say “taller” and had changed her mind at the last second.
+
+
+Lute stared down at his boots and brushed his bangs awkwardly over his eyepatch. “Yeah. Yes. I remember. Hi. I’m…really glad to be roommates with Haoyu.”
+
+
+“Are we expecting your mother and father to stop by today?” she asked. “Or any other family helpers?”
+
+
+She said it lightly, but Molly’s fingers stopped tapping at the air in front of her face and her eyes flicked toward Lute.
+
+
+“No,” he said in a stiff voice. “I’m on my own.”
+
+
+A noticeable tension left the room.
+
+
+“Well! It’s just me and you getting the boys settled in today, Molly.”
+
+
+“Yes, ma’am. The sniffer is on his way.”
+
+
+“Lute, I was telling Alden earlier that we’re planning a shopping trip for this afternoon to pick up anything you might have forgotten and collect some creature comforts for the apartment. If you want to add something to the list or come along and pick out some things for yourself, we’ll head out this afternoon?”
+
+
+“Yeah. Yes. That would be good. Thank you.”
+
+
+“I’ll take care of the drone,” Molly said. “It won’t be the first time I’ve sorted one out. Please stand back.”
+
+
+Lute stepped aside, and Molly reached out with a splayed hand. She fixed her eyes on the rubble and slowly drew her fingers together. The pieces of the drone ground into each other with squeals and snapping sounds, then she made a beckoning motion and the crumbs of the device floated over to her hand.
+
+
+She sifted through them. “The microphones and cameras are all destroyed,” she announced. “I’ll throw this in the trash.”
+
+
+“I’ve already hired a car service for the day,” Alden said into the awkward silence that followed. “An SUV. If anyone wants to use it for anything.”
+
+
+“That sounds comfortable!” Haoyu’s mother smiled at him. “Molly brought a car, but six of us aren’t going to fit in a compact. Lute, have you had breakfast?”
+ 
+
+
+*******
+ 
+
+
+Alden had finished unpacking so much quicker than everyone else that he was the only one who couldn’t seem to find anything to do. He knocked on Lexi’s door and offered to help him with his things, only to be met with a blank expression and a monosyllabic refusal.
+
+
+Alden smiled at him and cheerfully announced that he’d go check on the others instead.
+
+
+I’m going to be such a good roommate to you, Mr. Standoffish. Just you wait.
+
+
+Haoyu was assembling a rack that was supposed to display his skateboards. He also had a bookcase in progress and boxes of Chinese and Turkish comics. “I read too many of them,” he confessed. “I call it language study, but really I just like them.”
+
+
+Lute was trying to cram an impossible number of clothes and shoes into his closet. They’d all been vacuum bagged to fit in his suitcases, and every time he opened another one, his room lost square footage.
+
+
+“Lexi said last night that you had a harp you needed help with?”
+
+
+“My concert harp. I can actually move it myself, but this building was designed by sadists who thought Avowed didn’t need elevators. I’d like to have another person to get it up the staircase. Or to make sure nobody messes with me while I’m trying to get it up the staircase.”
+
+
+“Is it downstairs now, or…?”
+
+
+Lute was trying to make a denim jacket fit onto the same hanger as a sweater with a toucan on the front.
+
+
+“It’s locked in a teacher’s office so that people can’t fuck with it. I can go get it whenever, but I’d rather not roll it all the way across campus on its cart if I don’t have to. Do you think that SUV you offered has removable seats?”
+
+
+“I can carry it,” Alden said.
+
+
+“Do you know how big a pedal harp is and what a great one costs?”
+
+
+“About as tall as me? And a lot? But my skill literally protects things I’m carrying, so I’m definitely a good delicate object mover.”
+
+
+“Taller than you. But I’ll take the help if you’re volunteering. Let’s take Lexi, too.”
+
+
+“He seems busy.”
+
+
+Lute stood up and went to bang on the wall. “Lexi!!! Come protect my harp with your personality and that creepy thing you picked for your mastery!!”
+
+
+“It’s called Mind Writher,” Alden murmured.
+
+
+Lute raised an eyebrow at him. “Is that supposed to make it less creepy?”
+
+
+To Alden’s total surprise, Lexi stuck his head in the room a minute later.
+
+
+“Yeah, I can come.” He frowned at Lute’s pants. “Did you cut those in half and put them back together with safety pins?”
+
+
+“Do you like them?” Lute gestured at the line of pins running down the sides of his legs.
+
+
+“I think if you walk past a large enough magnet we’ll have to call Haoyu’s mother to unstick you.”
+
+
+“I like them,” said Alden. “I wouldn’t wear them myself, but they look cool.”
+
+
+“Thank you, Alden.” Lute slipped past Lexi and elbowed him in the ribs. “See? That’s how you say nice things to people. You used to be such a polite guy, and now you’re going through this angry phase. Don’t get me wrong, I approve, but aren’t you supposed to be growing out of teen angst at your age instead of into it?”
+
+
+“Can I come, too?” Haoyu had just stepped out of his own room. He lowered his voice. “I don’t want to be here when the professional smeller arrives. It’s weird.”
+
+
+He didn’t expound on this opinion as they left the dorm and cut through campus toward the music department, but Lute certainly did.
+
+
+“People who can sniff out the ghosts of your past farts are no fun at all,” he said, sticking his hands into his pockets as they headed past the Forthright building. “It’s bad enough to wonder if you brushed away your morning breath and used plenty of deodorant around regular people. There are some things we aren’t supposed to know about each other from across a room. What you ate last night, what you did this morning, whether you wiped really good or you were in a hurry—”
+
+
+Alden side-eyed him.
+
+
+“These things should be a man’s own business! I say we move my harp slowly.”
+
+
+“I agree,” Haoyu said. “And I’m sorry about my mom, you guys. If she’s taking over too much I can ask her to back down.”
+
+
+“No, she’s so nice,” said Alden.
+
+
+“It’s fine,” Lexi said.
+
+
+Lute peered around Alden to look at Haoyu. “She doesn’t have a problem with me?”
+
+
+“Why would she?”
+
+
+Lute lifted his eyebrows.
+
+
+Haoyu looked uncomfortable. “I don’t think my parents ever heard about the…incident. Mom got summoned on pretty short notice around then. She was somewhere so far out of reach we couldn’t even call her. And dad was bolstering the Hong Kong hero team while they handled that <<Metal Melter>> person. He was home every chance he got, but it wasn’t like I brought it up with him.”
+
+
+“It was ages ago,” Lexi said flatly. “It was childish. Your whole grade has always been full of walking, talking hemorrhoids.”
+
+
+“They’re not that bad!” Haoyu protested. “Everyone’s gotten more serious since affixing, too.”
+
+
+Lexi grunted.
+
+
+For a minute, there was only the sound of their shoes hitting the pavers.
+
+
+Alden wondered what on earth Lute had done in middle school. It sounded like it was a personal screw-up they were talking about rather than something related to his family. One bad enough that he thought a former classmate’s parents might still have a problem with him.
+
+
+Can I ask? It would be better if one of them would realize he was clueless and offer the info up, but they didn’t seem to be considering him at all.
+
+
+“Your mom was working with the Artonans right then,” Lute said finally. “I knew she did sometimes, but I didn’t realize...”
+
+
+“She’s been getting summoned more for the past few years,” said Haoyu. “I've stopped telling people every time she's gone. They always say the wrong thing.”
+
+
+“And she gets summoned for combat jobs.”
+
+
+“Yes,” Haoyu said.
+
+
+“Sorry,” Lute said quietly.
+
+
+“She doesn’t mind. She’s got a team of alien Avowed she works with usually. I don’t know much, but she says it’s fine. And dad says it’s fine. So…it’s fine.”
+
+
+“I meant I was sorry for back then. I shouldn’t have done it.”
+
+
+Done what?!
+
+
+But now they were all so serious, he couldn’t ask.
+
+
+Haoyu smiled at Lute. “Like Lexi says. It was ages ago. And maybe we deserved it a little. I never brought it up with my parents because I thought they’d be mad at me if I explained it all. Dad especially…he hates bullies. He’d have wanted to know why I didn’t do anything to stop them from picking on you.”
+
+
+“Wow. Pressure,” said Lute. He sidestepped to stomp on a fallen leaf. “You hero babies have some intense parents. Let’s cut across the quad here. It’s quicker.”
+
+
+“Aren’t we on the college campus now?” Alden asked, blinking in the glare of sunlight bouncing off the curved surface of a metal statue at the center of the quad.
+
+
+“Yep,” Lute said. “The music programs share a lot of spaces. And the instructor who offered her office for harp storage teaches uni classes, too.”
+
+
+Lexi frowned. “It just occurred to me to wonder. You are still in first year, aren’t you?”
+
+
+“I haven’t been taking extra classes to speed through. I’ll be a second year when January quarter starts.”
+
+
+The frown deepened.
+
+
+Lute’s own expression brightened at the sight. “Oh! Oh, are you mad I’m your senior now?”
+
+
+“You wouldn’t be if I had chosen Sciences! Superhuman Studies has a ton of classes they won’t let me test out of!”
+
+
+Lute grinned. “You can call me senpai or—”
+
+
+“We are not doing that.”
+
+
+Haoyu laughed.
+
+
+“Are you the oldest in your admissions group? You are, aren’t you?” Lute said.
+
+
+“I am not! There’s an Adjuster who’s only a month away from seventeen.”
+
+
+“Max?” Alden guessed.
+
+
+Lexi nodded.
+
+
+“I’m sixteen, too," said Alden. "So there’s a decent chance I’m older than—”
+
+
+“My birthday is February 18th,” Lexi said.
+
+
+“March 25th,” said Alden.
+
+
+“So you’re the second oldest in your group, Lexi!”
+
+
+“It’s not a big deal.” His voice was stiff.
+
+
+“I know that,” said Lute. “But do you?”
+
+
+A few minutes later, they pushed through the front doors of a huge performing arts building, and Lute led the way into a transparent tube elevator that lifted them slowly through a massive blown-glass art piece to the sixth floor.
+
+
+“This is the scenic route,” he informed Alden. “There are faster elevators. But it’s cool to take this one when the place is empty. There’s usually a long wait for it.”
+
+
+Haoyu’s nose was almost pressed to the wall as he examined the floating pink and blue bubbles that made up the installation. “I rode on this when I was little,” he said. “My parents brought me here to see a show. But I remember the chandelier being different?”
+
+
+“They changed it when I was around ten,” said Lexi. “My father was upset. One of his roommates made the old one.”
+
+
+The space darkened and flames flickered to life inside some of the bubbles as the elevator approached the top. It was eerily beautiful.
+
+
+“Molly says we need to pick a theme for our living room or else we’ll all be adding things to it that don’t match and making it look cluttered,” Haoyu said suddenly.
+
+
+Lexi shrugged. “As long as the theme isn’t something ridiculous, that’s probably a good—”
+
+
+“Can we do this?” Haoyu was pointing eagerly at the nearest fire orb.
+
+
+The other three stared at him.
+
+
+“So, as the resident Arts program student,” Lute said slowly, “I compliment you for your ambition. Magic candle balls floating in an impenetrable darkness are a vibe…but I don’t see how we could pull it off as a decor scheme. And if we paint the whole suite black, everyone’s just going to think we’re aspiring vampires.”
+
+
+“We could do all black furniture!" said Haoyu. "And one of those chair swings shaped like a bubble. And an orange and yellow rug.”
+
+
+Lute and Lexi both cringed.
+
+
+Haoyu didn’t notice. “And if we keep the lights turned off and get some blackout curtains, it could work!”
+
+
+Alden pictured himself fumbling his way through a pitch black apartment, tripping over a neon orange rug he couldn’t see, and colliding with a plastic bubble swing.
+
+
+He didn’t know what he wanted their new apartment to look like, but he didn’t think that was it.
+
+
+“I think the fireplace is pretty neat,” he offered.
+
+
+“A fireplace is like a candle ball,” Lexi said so quickly that Alden was sure he would have jumped on any other idea. “Let’s build around it.”
+
+
+“Nighttime hunting lodge? Or ski lodge?” Lute suggested. He glanced over at Haoyu as the elevator emerged into the light again. “Dark furniture. A faux fur throw. Some lamps with dimmers maybe? I’m sure we can find a round glass one somewhere.”
+
+
+“Okay!” Haoyu said happily. “That sounds fun, too!”
+
+
+Oh. He’s easy to please.
+
+
+“I like lodge,” said Alden. He wasn’t sure what the difference was between hunting lodge style and ski lodge style.
+
+
+“That’s fine,” said Lexi. “No bearskin rugs.”
+
+
+“Come on! A bear rug would be funny!” Lute protested.
+
+
+“No taxidermy anything. I don’t want something watching me with its dead plastic eyes.”
+
+
+“What have you got against fake eyes, man?” asked Lute.
+
+
+Lexi made a choking noise.
+
+
+Haoyu slapped a hand over his mouth to hold back a laugh.
+
+
+“That was such a hurtful—”
+
+
+“You know I didn’t mean it like that!”
+
+
+Alden was watching Lexi backpedal with amusement and sympathy.
+
+
+“You just accidentally brought it up,” Lute said in a mournful voice. “Because it’s what you really think.”
+
+
+“I do not!”
+
+
+“I understand. No fake eyes in the apartment. Haoyu, Alden, will you help me move all my things out into the garden so that I can sleep where I won’t offend Lexi?”
+
+
+“You can have a bear rug! You can have as many dead animals as you want!”
+ 
+ 
+
+
+Enjoying this book? Seek out the original to ensure the author gets credit.
+ 
+
+
+“I can’t believe this thing costs more than my boat.”
+
+
+“Since when do you have a boat?”
+
+
+“It was my birthday present.”
+
+
+“Ohhhh…your parents felt sorry for you. Because you got old.”
+
+
+They were walking back across campus with Lute’s harp, and Alden was trying to focus on not dropping the massive thing or tripping over pavement cracks.
+
+
+“Would it be easier to hold it over your head so you can see where you’re putting your feet?” Haoyu asked as they passed the building where Alden had his Engaging with the Unexpected class.
+
+
+“Definitely.” Alden had a death grip on the handles of the thick canvas cover that was currently preserved around the harp. The instrument itself was over six feet tall, deep purple, and named Angela Aubergine. “But my homework for science was on gravitational potential energy, and I keep thinking about how there will be sixty thousand dollars worth of maple splinters on the ground if I drop it from overhead.”
+
+
+“I told you I can wheel her around on her cart if you change your mind,” said Lute. He was pushing the cart in question ahead of him. “It’s not the end of the world if we hit a few bumps. You were the one who insisted on pretending to be some kind of pseudo-Brute.”
+
+
+“It is really neat that he can do that!”
+
+
+Haoyu had been properly enthusiastic about Alden’s skill. The other two weren’t as much fun. Lexi had started listing things he could have done with it during combat assessment if he wasn’t an idiot, and Lute had said, “Oh, so that’s what you do.”
+
+
+Apparently he’d had absolutely no idea what Alden’s talent was until today, and he just hadn’t been curious enough to ask.
+
+
+I didn’t ask him for details about his powers either, but that was because I assumed he wouldn’t tell me for Velra-ish reasons.
+
+
+Then again…Lute had been forthcoming about at least one of his skills at the funeral.
+
+
+“Hey, what’s your skill?” Alden asked as they approached the MagiPhys building. “If it’s not a secret.”
+
+
+“All the Chainer S-ranks take the same one,” said Lexi. “So it can’t be a secret.”
+
+
+“Mass Bestowal,” Haoyu agreed. “There’s always one of them using it on Matadero to support the battle group for the demon fight.”
+
+
+“Yeah, they’re really noble,” Lute said dryly.
+
+
+“You should let people compliment your relatives. It’s not happening in many other contexts these days,” Lexi pointed out.
+
+
+“Everyone does appreciate it," said Haoyu. "Loading up that many beneficial chains and having them ready to go must take a ton of prep work on the Chainer’s part, right? Even if you do get to reduce the effect of one of the halves somehow, paying off the debts must be really involved.”
+
+
+“Due to the tattoo on my bumcheek, I can neither confirm nor deny the specifics—”
+
+
+“You’ve got a contract tattoo!” Alden exclaimed.
+
+
+“Yeah. How else do you think Aulia keeps every member of a family the size of ours in line? Most of them love doing her bidding for some reason, but I’m not the only problem child. And I like Cousin Aimi, but she would literally forget to keep family business to herself if it wasn’t magically enforced.”
+
+
+Alden was about to ask how Avowed managed contract tattoos with each other if there was no wizard involved. If Lute could tell him, it would solve a major problem. But Haoyu spoke up first.
+
+
+“Is it really on your butt?” he whispered.
+
+
+“I wanted it to be. But when she introduced me to the Artonan tattooer who was going to facilitate the contract, I couldn’t bring myself to request the appropriate location. I think it’s one of my biggest regrets.”
+
+
+“Where…?”
+
+
+“Lower back,” said Lute. “I figured it was ass-adjacent.”
+
+
+Ah okay. They have a professional do the whole mind alignment thing that Joe mentioned.
+
+
+“I knew about Mass Bestowal already.” Alden shifted his grip on the harp and kept an eye on the walkway ahead of him. The sign for the gym was just ahead. “I saw you use it at Hannah’s funeral. I meant your other S-rank skill.”
+
+
+Haoyu and Lexi both looked back at him.
+
+
+“He should only have Mass Bestowal,” said Lexi. “Chainers get one skill to start. And some special chains. I don’t know what else they can do, but that’s the rumor anyway.”
+
+
+“Even if he’s leveled a couple of times—”
+
+
+“I haven’t. I’m a very lazy Avowed.” Lute was still wheeling his cart ahead of them.
+
+
+“Even when he’s leveled a few times, he won’t get another S-rank skill,” Haoyu continued. “Some lower ranked ones instead. Aulia has earned more than one S, but I don’t think any of your other relatives have?”
+
+
+“Not unless they’re keeping it quiet.”
+
+
+“I understand classes that start with a single primary skill as their main power don’t get a same rank one that easily,” Alden said. “I’m a Rabbit. That’s how mine works, too. Instructor Plim was all excited about the theoretical strength of Rabbit skills. But I assumed Chainer skill ranking was a little different, or Lute was…you know…packing additional heat?”
+
+
+Lexi made a scoffing sound. “Why would you assume—?”
+
+
+“Probably because I told him I had my second S already.”
+
+
+Lexi stopped walking and Haoyu smacked into his back. Alden dodged around them with Angela.
+
+
+Lute strolled ahead, one of the cart wheels squeaking.
+
+
+“You do not!” Lexi shouted. Then he dashed ahead of Lute and blocked his path. “You don’t!”
+
+
+Alden stared at him. He sounded almost horrified.
+
+
+“Um…Lexi,” said Haoyu. “You’re being—”
+
+
+“Hao! Him? He didn’t affix with a double S,” Lexi said. “The universe isn’t that—”
+
+
+“It’s absolutely that unfair,” said Lute, leaning on the cart. “And it thinks it’s a comedian, too.”
+
+
+Lexi looked emotional. Not angry, like usual. But terribly upset, as if Lute had just revealed something that shocked and devastated him in equal measure.
+
+
+“Sorry, Alden,” Lute said, turning back to smile at him. “I’m doing this thing where I refuse to tell another soul what the second skill is. It’s part of my brilliant plan to enrage my grandma. So that she constantly wonders whether I’m lying about having it, and what it is, and it drives her slowly insane—”
+
+
+“So you don’t really have one?” Haoyu asked. He was giving Lexi a concerned look.
+
+
+“I do. But it’s pretty unbelievable, right? Which will frustrate Aulia until she wants to die—”
+
+
+“Show me your profile!” Lexi shouted suddenly.
+
+
+“Annnnd…apparently it will frustrate Lexi Roberts until he wants to die, too.” Lute stared at him. “Not my intention. I don’t see why you’re that shocked. By now, you should’ve just written me off as one of those freaks of natu—”
+
+
+“You don't even want it!” Lexi said wildly. “Why the fuck does the System keep giving everything to people who don’t even want it?!”
+
+
+Lute opened his mouth, but before he could say anything, Lexi had spun on his heel and stalked away at a speed halfway between a walk and a run.
+
+
+“Oh no,” Haoyu groaned. “We were all getting along and…I’m sorry, guys. Let me go talk to him! He’ll be fine. See you back at the dorm!”
+
+
+He bounded after Lexi.
+
+
+Alden and Lute stood staring after them.
+
+
+Finally, Lute said, “You’re from the real world. I bet you think we’re all nuts.”
+
+
+He’s the only one who ever calls the rest of Earth the “real world.”
+
+
+“I don’t think you’re nuts, but I don’t understand what Lexi’s problem is at all.”
+
+
+“He’s jealous,” said Lute. “Or maybe it’s more accurate to say that people affixing young and high is one of his sore points. I probably shouldn’t have teased him about his age. He wouldn’t have minded that kind of joking around before, but we aren’t really close anymore. I guess the past year has been bad for him, too.”
+
+
+He glanced at the harp in Alden's arms. “Let’s walk slowly and give Haoyu a minute to sort him out. I don’t want to make drama when I’ve finally found roommates who aren’t assholes.”
+
+
+Is Lexi not behaving like an asshole in his opinion?
+
+
+“What do you know about…life, I guess?" Lute asked. "Growing up here on Anesidora? I know some of my classmates had normal human groupies even when we were little who followed their every move, so if you were one of those you probably already have a lot of—”
+
+
+“Do they?”
+
+
+“Yeah. Especially cute people with rich, high-rank parents. Extra especially superheroes’ kids. Vandy Carisson is in your group, right? She’s so awkward sometimes. But she had a hundred thousand followers who would just listen to her talk about her goals and give her advice while they watched her watch recordings of her parents working.”
+
+
+“I was more into actual superheroes growing up. Not their offspring.”
+
+
+“You’re a casual. The real fans start analyzing the future high ranks when they’re twelve and start placing bets on how they’ll affix and what they’ll choose when they’re thirteen.”
+
+
+Alden stared at him. “That’s creepy.”
+
+
+Lute nodded. “Oh yeah. Most peoples’ parents keep them out of it. But some don’t. There's internet filtering for minors, but it’s not like you can’t talk an adult into giving you access early and showing you what the world is really saying about you and your family…don’t get me started. I’m going off track. About Lexi—getting to mid-sixteen without being selected would’ve been terrible for him.”
+
+
+A black drone skimmed low over their heads, and Lute glared at it until it had passed.
+
+
+“He’s been very serious about hero work forever as far as I know. And his parents are both A’s, so it wasn’t like it was a crazy thing for him to want. He was significantly more likely to be a high rank than a mid or low one. Kids here tend to make friends with people who are probably going to be around the same power level as them. Their parents naturally hang out with each other and put them together. By the time you’re in late primary school it’s just not comfortable to be friends with someone who has a totally different future ahead of them.”
+
+
+He gestured grandly at the campus.
+
+
+“They start talking about when it is going to happen to them, and the probably A-rank friend mentions moving to Apex and coming to school here. And the probably D-rank friend feels inferior and resentful, and then snap—friendship broken.”
+
+
+He shrugged.
+
+
+“So Lexi’s close friends would have been A’s and S’s. Probably all hero-hopefuls. Probable high-ranks start getting really wound-up about selection in seventh or eighth grade, and then it hits this fever pitch the second they turn fifteen. And people ask them every day if it’s happened for them yet…it’s unbearably fucking obnoxious even if you’re not the person who’s being quizzed.”
+
+
+He bounced the cart over the edge of a curb as they cut across a small parking lot.
+
+
+“Yeah, I shouldn’t have made fun of his age. I was thinking it was no big deal since he’s got his rank now. But I bet he lost all of his friends because of it. Watching them all get chosen one after the other…some of them have to be first and second years here, but he didn’t ask to room with them. They all left him in the dust, and then his little brother almost did, too. And he couldn’t just make new friends while he was in rank limbo.”
+
+
+“He spent…,” Alden counted backward to Lexi’s fifteenth birthday, then subtracted a few months, since the Meister must have been selected before beginning the application process for CNH, “seventeenish months on the edge of his seat watching his life goals and his relationships slowly collapse because of something he couldn’t control.”
+
+
+“That’s my read on the situation.”
+
+
+“It does sound like it would make you insane.”
+
+
+Lute nodded. “And the guy's a hardcore perfectionist. He probably kept right on going to Hour with a Hero meetups and attending the weekend seminars and all the other things locals with a yen for caped crusading do to prepare. Only instead of being one of the likely candidates, he’d turned into that pathetic kid who couldn’t let it go.”
+
+
+“Now I feel sad for him.”
+
+
+“He’ll get over it.” Lute’s expression shifted. “About our ski lodge…we want leather furniture, don’t we? You and I need to decide right now and align our goals so that we can steer Haoyu away from whatever horrors he’ll come up with on his own.”
+ 
+
+
+********
+ 
+
+
+What was ski lodge style?
+
+
+Alden still didn’t know. But he and Lute had found a picture they both liked of a resort lobby in Colorado. It had dark brown furniture, a fireplace, and fur throws. It had been photographed with lots of candles, which made Haoyu happy. And Lexi seemed to feel too bad about his freak-out to disagree with anything when they showed it to him.
+
+
+So it was four votes in favor from the apartment residents.
+
+
+And two votes against from the adult voices of reason, who were trying to set a budget that didn’t accommodate Alden’s desire for very nice rugs and Lute’s passion for a particular pair of distressed leather chairs. As Gilbert dropped them off outside the main entrance at Rosa Grove mall, Haoyu was sending everyone pictures of a copper toaster he wanted.
+
+
+His mother finally turned to them all and held up her hands.
+
+
+“All right,” she said. “Before we go in, we have to have a budget. And we have to decide what one thing each of you can’t stand to live without in the new apartment’s shared living area. Remember, you’re going to be spending money decorating your own rooms, too.”
+
+
+“I have 750 argold dedicated to the apartment in my planner,” Lexi said promptly. “Two hundred and fifty can go to the shared area.”
+
+
+“I’ve got fifteen hundred saved from my Avowed stipends, and I don’t mind if we spend half of it on the kitchen and living room,” said Haoyu.
+
+
+Lute chewed on his bottom lip and stared off into space. “I can spend fifteen hundred, too,” he said finally.
+
+
+“That took you a while,” Molly said. “Are you sure?”
+
+
+Lute shrugged at the assistant. “I had to think through how long it would be before I had more money coming in, and how much it would cost to rent another place if Lexi decides he can’t stand living with my fake eye.”
+
+
+Haoyu and Alden both snickered.
+
+
+“Why are you two still laughing at that joke?” Lexi demanded. “He’s worked it in half a dozen times since this morning!”
+
+
+“I can’t help it!” Haoyu protested. “It gets funnier every time.”
+
+
+“Alden, what about you, sweetheart?” Mrs. Zhang-Demir gave him a warm smile. “Don’t feel obligated to spend more than you want.”
+
+
+She’s worried because it’s taking me so long to answer.
+
+
+She was thoughtful. And she’d been going out of her way to mom him all day. Adults had done that more often when he was younger, and he had usually been offended. Now that he was older and actually appreciated the effort, people rarely bothered.
+
+
+But she was momming in a way that wasn’t exactly…
+
+
+There’s no way Haoyu’s family isn’t rich, so I’m pretty sure this is a mini-lesson in responsibility. Like, you’ve got money of your own now with your new-Avowed stipend, so let’s spend it wisely. Lexi tattled on Kon to their parents, too, for blowing all of his on party supplies.
+
+
+Lute’s situation was more complex. He had a family who could buy him musical instruments that cost more than cars, but he was now at odds with them. And he had been living on his own off-campus somewhere.
+
+
+Lexi and Haoyu have really nice places to go back to whenever they want. Their families are right here, too. Most of the time. The dorm is like practice independence I guess, so she’s—
+
+
+“Earth to Alden,” Lute said, waving a hand in front of his face. “What planet are you lost on?”
+
+
+Alden snapped out of it. They were standing on the sidewalk between the parking lot and the mall. This wasn’t the place to think that deeply about life.
+
+
+“I’m not lost on another planet,” he said, “for a change.”
+
+
+Lute looked startled.
+
+
+Alden cleared his throat. “Sorry. I was thinking about budgets and houses. I haven’t had one for a long time. A home. And we get to keep this apartment for as long as we’re in high school unless we decide to apply for a different building, right? And it’s not like I’m planning to hate you all and move out. You guys seem cool.”
+
+
+“Stop, you’re making me blush,” said Lute.
+
+
+Alden ignored the snark. “I don’t have any other place to go on Anesidora, so Garden Hall is it for me. I’ll be there every weekend and every holiday. I don’t even have a way to get home for Christmas for the next two years. And I don’t actually need to be precious with my financial resources, so I’d rather not have one.”
+
+
+They were all a little wide-eyed. Molly’s fingers had stilled in the middle of another typing session.
+
+
+“A budget!” he clarified. “I’d rather not have a budget. Can everyone else just save their budgets for their own rooms, and I can buy whatever we want for the rest of it? To make it look like the picture.”
+
+
+After a few more seconds of silence, Alden started to wonder if what he’d said sounded stranger to them than it did to him. “It’s fine if you all want to do something else. I don’t mind that ei—”
+
+
+“Good lord. You can come to my house for Christmas,” said Lexi. “We import a real tree and everything.”
+
+
+“My family doesn’t celebrate Christmas usually,” said Haoyu. “But we could this year!”
+
+
+“You don’t have to play the homeless card, Alden.”
+
+
+Molly glared. “Lute Velra! That’s—”
+
+
+“What? I’m saying I don’t need him to justify his spending urges. I’m amazing at letting other people buy things for me. Look here, Rabbit.”
+
+
+He air typed, and a picture of the furniture set he liked appeared in their group chat.
+
+
+“If we’re not being responsible, then we need both armchairs, the chesterfield, and the big storage ottoman with the top that reverses into a coffee table. They have the whole set here.”
+
+
+“I still want to buy the toaster myself,” said Haoyu. “I really like it.”
+
+
+Lexi squinted at Alden. “If you’re paying for everything, then do you want to pick it all?”
+
+
+“No. I like all the stuff we’ve talked about so far. And I did find the picture of the lodge in the first place. Let’s just get whatever everyone wants if it looks good.”
+
+
+“There’s a copper slow-cooker that matches the toaster!”
+
+
+“Do you cook or something, Haoyu?” Lute asked.
+
+
+“You just drop things that taste good together in the pot, right? How hard can it be?”
+ 
+
+
+*******
+ 
+
+
+As the four of them headed into the mall, Haoyu’s mother and her assistant trailed behind them.
+
+
+“Molly…”
+
+
+“Tissues, ma’am?”
+
+
+Mrs. Zhang-Demir blinked at her. “No. I’m fine.”
+
+
+“I’m not,” Molly said, wiping at her nose with a tissue she’d just pulled from her purse. “That American boy doesn’t have parents. And I don’t know what’s going on with the Velras and why they’re making that poor child run around with one eye. And little Haoyu’s all grown up—”
+
+
+“Not quite. It sounds like he’s about to spend his entire stipend for the month on kitchen appliances he’ll never use. But he’s getting there. And worrying me to death in the process…you know he could have roomed with almost anyone? He’s chosen Lexi and this group. He won’t hear a word against it.”
+
+
+“Why?”
+
+
+“I have no idea.” She shook her head. “I was just going to let you know that I’ve had another mission invitation. Next month. I’ll be gone for a few weeks this time.”
+
+
+“Yes, ma’am,” Molly said quietly.
+
+
+“Why so glum? I could turn this one down if I chose to.”
+
+
+She watched her son spring up the steps to grab the door for the others. He moved differently. It was a small change, one he was probably only half aware of himself, but she’d noticed it the moment he affixed.
+
+
+“One second you’re a child, the next…”
+
+
+“Ma’am?”
+
+
+She smiled. “Where’s my mind going? We’ve got to get these boys settled into their…was it a ski lodge or a hunting lodge in the end?”
+
+
+“A man lodge of some kind. Winter themed. Possibly there will be a bearskin rug. On top of numerous other rugs. Alden seems to have an obsession with luxury carpeting. Lute and Haoyu want a bear. Based on the conversation in the car, they may or may not be painting the whole place black. I don’t understand what they’re thinking…”
+
+
+“I really don’t know how they arrived at this either, but all right! A manly winter lodge with rugs and attractive leather furniture they’re going to ruin before next term! We have a goal. Come on, Molly. Let’s try to impose reason and order where we can. Also, I checked, and not a single one of them has brought their own soap and shampoo. Do they think the school supplies it?”
+
+
+“I will add it to the list.”
+ 
+*

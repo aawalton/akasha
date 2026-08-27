@@ -1,0 +1,275 @@
+---
+id: 752176b8-5036-5a5d-84a6-397243697a38
+page-type-slug: story-chapter-royal-road
+title: "Meanwhile, the sidekicks."
+slug: 0032-meanwhile-the-sidekicks
+partOf: the-calamitous-bob-stubbed
+position: 32
+ownLength: 1087
+unit: words
+ownProgress: 1087
+publishedAt: 2023-04-01
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1154416/meanwhile-the-sidekicks"
+royalRoadId: "1154416"
+markedReadAt: "2026-06-29T21:15:48.634Z"
+---
+
+Under the azure light of fluorescent growths, the assembly gathered. A table was set. Soon, a paper barrier split the domain of the master from that of the pawns, a symbolic one, yet inviolable.
+
+White paws adjusted the barrier, then a malevolent crimson glare rose above the artificial separation, cold and reptilian. A haughty voice pierced the silence. The sound came from everywhere at once like an intruding thought.
+
+Welcome to this session of Mortals and Portals, fellow superior beings.
+
+It is I, She-who-Feasts-on-many-and-gets-much-gold.
+
+Your host.
+
+I hope you have read your notes.
+
+“Meow.”
+
+Excellent.
+
+Then let us begin.
+
+The dragon looked at every participant in turn. The plushie looked just as innocuous as before, deceptively adorable with its white fur and elegant blue ribbon. Auri bounced in place and threatened to set her character sheet on fire. Flames coursed along her tiny wings with every step. As for Orange, she was grooming herself. Like the tabby cat she was.
+
+After many ordeals, you finally face the monumental door leading to the final cavern.
+
+Due to its intimidating size, it towers over your pathetic bipedal forms in all its gothic glory.
+
+Silvery engraving snake along panes of sheer black stone.
+
+In the pattern of a many-headed lizard.
+
+It is most decidedly closed.
+
+“Meow.”
+
+You use your human hand to pat the door.
+
+No one comes to open it.
+
+You do, however, notice keyholes thanks to your rogue perception.
+
+“BRRRRPT!”
+
+Yes, yes, Auri, well done.
+
+You search your backpack for the key you found in the mummy cave.
+
+The key glows ominously in the dim light of nearby torches.
+
+“Safety is the number one priority!”
+
+The dragon looked at the Plushie, eyes narrowing.
+
+If I catch you manipulating the strands of fate again, I will give your character psychic damage.
+
+“Let’s all be friends!”
+
+So you say.
+
+Roll for perception.
+
+You too, Orange.
+
+The tabby placed a paw on her dice and, maintaining eye contact, tossed it off the table. The dragon sighed while it clicked on the ground. The air shook a bit and the dice lifted from the ground to show a resplendent 16.
+
+No need for another throw.
+
+Yes, you notice a trap, however it deactivates the moment the key enters the lock.
+
+“BRPPT!”
+
+You enter the cavern. It is vast, incredibly so, with stalagmites covered in lichen providing a pleasant glow.
+
+“Mrrrrrow.”
+
+No, Orange, you may not open the door then stay outside.
+
+Stick with the group.
+
+What attracts your attention the most is what awaits in the center of the cave.
+
+It is a pile of gold!
+
+The dragon’s eyes turned dreamy.
+
+A pile of gold as tall as I am. shimmering like the sun as if bathed from within by a soft radiance, beautiful, mesmerizing, a welcome nest just waiting for someone to turn it into a portfolio of assets befitting their risk profile…
+
+“Meow!”
+
+What?
+
+Oh, hmm, yes roll for stealth.
+
+Could you stop throwing things off the table, just once?
+
+“Meow.”
+
+Oh, very well.
+
+Alright.
+
+Using your leather-covered back limbs, you manage a stealthy approach.
+
+“I love all of you!” the Plushie added.
+
+You prepare for battle, and not a moment too soon.
+
+As you arrive at the edge of the pile, a ripple shakes its heavy surface.
+
+Coins roll in a clinky cascade to your feet.
+
+One head, then two, then three appear from beneath the glimmering surface like krakens surfacing from the depths, each of a different color.
+
+It is… a pathetic cousin to glorious true dragonkind.
+
+A flightless and witless but still extremely dangerous existence to you humanoids.
+
+A hydra!
+
+One head is red, another blue, and the last one yellow.
+
+You notice that the yellow head’s throat starts shining.
+
+They blink.
+
+Thanks to your silent approach, it has not detected you yet and only just woke up!
+
+You get a surprise round.
+
+Roll for initiative!
+
+Clickety-clack.
+
+Orange goes first, then Aurie, then the Plushie.
+
+Alright Orange, your turn!
+
+“Meow!”
+
+Using your opposable thumbs, you take the potion from your inventory and drink it.
+
+You gain elemental resistance to twenty.
+
+Then with a bonus action, you disappear into the shadows.
+
+Why did you throw the dice again?
+
+I did not ask you to do it.
+
+“Mrrrow.”
+
+Acrobatics?
+
+Yes, I suppose a human would be able to jump on a stalagmite.
+
+Probably.
+
+Who knows with flightless weaklings?
+
+It counts as your move action.
+
+And with this —
+
+“BRRRRPT BRRRPT BRRRPT BRRRPT BRRRPT”
+
+— your turn ends.
+
+“BRRRPT BRRRRRPT BRRRPT”
+
+It is Aurie’s turn.
+
+“BRRRRRPT!”
+
+Yes yes yes.
+
+You cast fireball.
+
+Roll 6D6 plus your charisma score.
+
+Clickety-clack.
+
+Hmmm.
+
+An orb of incandescent fire arcs through the quiet air of the cave, detonating on the hydra’s chest and covering it — and the precious and sadly low melting point gold — in waves of devouring flames.
+
+You notice that the red head seems unaffected while the blue one shakes with pain.
+
+“BRRRRRPT,” the pocket phoenix said, dejected.
+
+The dragon nodded her scaly head, appreciative of the phenix’s plight. It was difficult to roleplay a fragile mortal, most of the time. She understood that very well.
+
+You are playing a human.
+
+Not your true fiery self.
+
+“BRRRRPT.”
+
+The good news is that you can cast again next turn.
+
+“BRRRRPT! BRRRPT.”
+
+You move away from the creature by eighteen human steps.
+
+And now, it is the Plushie’s turn.
+
+“We will be together forever!”
+
+Yes, your dismemberment feat covers decapitation.
+
+You charge the yellow head.
+
+Make an attack roll with advantage.
+
+Remember that your armor class will be lowered.
+
+Clickety-clack.
+
+Because the hydra is surprised, it loses its evasion bonus to AC.
+
+All attacks hit.
+
+No crit.
+
+Roll for damage.
+
+Clickety-clack.
+
+Hmmm.
+
+You almost succeed but the hydra’s, ahem, legendary resistance allows it to withstand the blow with a supreme effort of will.
+
+How would you like to do it?
+
+“Love is the ultimate solution to everything!”
+
+Very well.
+
+With a furious roar, you cleave through the throat with the Axe of Laceration.
+
+Scales and cartilage explode from the gaping wound, showering the stones around in a hail of gore.
+
+Blood spurts from the ravaged throat in a great geyser.
+
+The power of the blow interrupts the storm building within.
+
+The head wails from the atrocious pain.
+
+You notice that the red head’s throat starts shining in turn.
+
+The hydra is fully awake now, and quite angry.
+
+Clickety-clack.
+
+The round of surprise has ended.
+
+Orange, you start, then the hydra.
+
+“Mrrrow.”
+
+You can pounce on the red head, yes.
+
+Roll for acrobatics!

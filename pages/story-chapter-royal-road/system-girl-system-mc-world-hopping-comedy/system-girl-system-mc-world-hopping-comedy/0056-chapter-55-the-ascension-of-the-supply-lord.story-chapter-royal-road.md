@@ -1,0 +1,251 @@
+---
+id: a0a74f17-e2cc-5e2a-a3f5-181ca40a78ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55: The Ascension of the Supply Lord"
+slug: 0056-chapter-55-the-ascension-of-the-supply-lord
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 56
+ownLength: 2281
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3004325/chapter-55-the-ascension-of-the-supply-lord"
+royalRoadId: "3004325"
+---
+
+The gates of Duckland were not merely wood and iron; they were a bureaucracy made manifest. A line of carts stretched back for half a mile, stalled by the relentless scrutiny of guards in blue-and-gold tabards who checked every barrel, crate, and sack with the enthusiasm of tax auditors.
+
+Ren stood near the front, clutching his letter of introduction like a talisman. The smell of the city washed over him—brine, tar, and the faint, underlying scent of thousands of people living in close proximity.
+
+"Identification," a guard barked, holding out a hand encased in a gauntlet.
+
+Ren presented the letter. The wax seal of the Dolaria Merchant's Guild gleamed in the sunlight. The guard squinted at it, rubbing a thumb over the crest. His eyebrows went up.
+
+"VIP transfer," the guard muttered, his tone shifting from bored to professional. He looked Ren up and down, noting the velvet tunic, the exhausted posture, and the sleeping baby strapped to his chest. "Wait here. Don't move."
+
+He vanished into the gatehouse.
+
+Ren stood awkwardly, shifting his weight. Lily was asleep, a warm weight against his chest, drooling slightly onto his expensive cloak.
+
+Suddenly, a chime rang in Ren's head. It wasn't the harsh foghorn of the alarm clock. It was a pleasant, triumphant sound, like a cash register opening.
+
+[QUEST COMPLETE: THE LONG ROAD][REWARD: 500 XP][LEVEL UP!][REN IS NOW LEVEL 5.]
+
+Ren blinked. He felt a surge of warmth, a revitalizing energy that washed away the aches of the seven-week road trip. His fatigue vanished. His mind felt sharper, clearer.
+
+"Level 5," he whispered. "Finally."
+
+He waited for the next notification. The one that said [CLASS UNLOCKED].
+
+Nothing happened.
+
+"System?" Ren hissed under his breath. "Where's my class? I hit the cap. Do I need to dance?"
+
+[Ana: Check the fine print, genius. Bottom of the status screen. It's not automatic.]
+
+Ren squinted at the floating blue text. There, in tiny font:
+
+Warning: Ascension to Tier 1 requires an external catalyst. Please locate an Ascension Stone to finalize class selection.
+
+"Ascension Stone?" Ren muttered. "Sounds expensive. And mystical."
+
+[Ana: It's standard procedure in these worlds. It stops peasants from accidentally becoming Archmages while plowing fields. You need a Guild. They control the stones.]
+
+The guard returned. With him was a young man dressed in the fine, practical robes of a guild clerk. He had ink-stained fingers, spectacles perched on the end of his nose, and the harried look of someone who managed too much paperwork and slept too little.
+
+"Master Ren?" the clerk asked, bowing slightly. "I am Shorgan. Grandmaster Ordan sent me. We’ve been expecting you."
+
+"Expecting me?" Ren asked, surprised. "I didn't send a raven."
+
+"News travels faster than wagons," Shorgan said with a tight smile. "The 'Mayo Man' is quite the topic of conversation among the high tables. The Duke's steward has been asking daily when the next shipment of 'White Gold' will arrive."
+
+He gestured for Ren to follow. As they passed through the massive gates, Ren braced himself for the smell. Medieval cities were notorious for their stench—open sewers, rot, and unwashed humanity.
+
+But as he stepped onto the cobblestones of Duckland, he smelled… nothing. Or rather, he smelled the ocean, and fresh bread, and the sharp tang of alchemical cleaners.
+
+"It's clean," Ren noted, looking at the gutters that ran with clear water. "Suspiciously clean."
+
+"The sewers are flushed daily," Shorgan explained as they walked briskly through the bustling streets. "We shovel the filth into the ocean currents. It attracts the fish. Cleaner streets, bigger catches. It’s an ecosystem. The fishermen love it, the citizens love it, and the rats hate it."
+
+"Efficient," Ren said. "I like it."
+
+"Welcome to the capital," Shorgan said, dodging a cart full of barrels. "Here, your status is everything. You have no class yet, correct?"
+
+"Level 5," Ren said. "Just hit it at the gate."
+
+"Good timing. You'll need to choose a Guild. It's your legal standing. There are three main pillars in Dolaria."
+
+Shorgan pointed to a distant, spiraling tower that glowed with blue magical light. "The Mages' Guild. Semi-private, but heavily funded by the government. They run the academies. If you spark a magical class—Wizard, Sorcerer, Enchanter—you go there. It's elitist, expensive, and powerful. They have their own laws."
+
+"Not my crowd," Ren noted. "I don't have the hat for it."
+
+Shorgan chuckled. He gestured to a massive, fortress-like building near the castle walls. "The Adventurer's Guild. You know them. They handle the monsters, the bounties. They work with the Royal Army during national crises, providing combat support. If you want to hit things with a sword or throw fireballs for money, that’s your home."
+
+"I prefer my battles to be culinary," Ren said. "And the third?"
+
+"The Merchant's Guild," Shorgan said, patting the crest embroidered on his chest. "We run the economy. Smiths, potion makers, traders, alchemists. Even healers often choose us over the mages because we pay better and ask fewer questions about ethics. We are the blood that keeps the kingdom alive."
+
+He led Ren down a wide avenue lined with high-end shops. The windows displayed silks, jewelry, and magical artifacts.
+
+"There are others, of course," Shorgan continued, lowering his voice slightly as they passed a group of patrolling soldiers. "The Royal Army recruits Knights and Archers directly. It's the path to official military service. Strict discipline, steady pay, but you belong to the King."
+
+"And the... unofficial ones?" Ren asked.
+
+Shorgan glanced around. "The Assassins' Guild. We don't talk about them. But if you need something smuggled or someone... removed... You find a shadow and whisper the right words."
+
+"I'll keep that in mind," Ren said dryly. "If a customer complains about the soup."
+
+"And finally," Shorgan said, pointing to a drab, utilitarian building near the docks, "The Worker's Union. That's for the unclassed, or those with non-combat, non-trade classes. Laborers, maids, porters. They are essentially serfs. They can't run businesses. They can't own land. They work to buy their freedom or upgrade to a real Guild."
+
+He looked at Ren. "You were lucky. When you arrived, you didn't have the mark of a commoner. Most people assume you’re a free man from the East because of your... exotic... goods. That's why the guards treated you with respect."
+
+Ren touched his neck subconsciously. "Lucky me. I guess looking like a lost tourist has its perks."
+
+They arrived at a building that looked less like a guildhall and more like a palace. White marble columns, gold leaf on the heavy oak doors, and statues of legendary merchants lining the steps. It screamed wealth.
+
+"This is us," Shorgan said. "Let's get you Ascended."
+
+Inside, the hall was a temple to commerce. Tickers displaying commodity prices—Grain, Iron, Mana Crystals—floated in the air, updated by magical projection. Clerks scurried back and forth with stacks of ledger paper. The sound of counting coins was a constant, rhythmic background noise.
+
+They went straight to the top floor. The office of the Guild Master.
+
+Grandmaster Ordan was a bear of a man, dressed in silks that strained against his massive frame. He wore rings on every finger. He sat behind a desk made of ironwood, looking at a report.
+
+He looked up as Ren entered. His eyes were sharp, intelligent, and deeply greedy.
+
+"So," Ordan rumbled, his voice like grinding stones. "You're the spice peddler. The one flooding my city with white sauce and yellow powder."
+
+"Supply and demand," Ren said, bowing. "I merely filled a void in the market."
+
+Ordan laughed. "I like you already. Sit."
+
+He looked at Lily, who was awake and chewing on her fist. "And who is this? Your partner?"
+
+"Silent partner," Ren said, patting her head. "She handles the cuteness division. And quality control."
+
+Ordan snorted. "Right. Shorgan says you're Level 5. You want a Stone?"
+
+[Ana: Ask him. Do it now. Before he charges you a consulting fee.]
+
+"Yes," Ren said. "I need to ascend. I can't run a business as a 'Civilian'."
+
+Ordan nodded to Shorgan. The clerk opened a velvet-lined box on the desk. Inside sat a smooth, grey stone, pulsing with a faint, rhythmic light. It looked innocuous, like a river rock, but the air around it felt heavy.
+
+"Standard Ascension Stone," Ordan said. "Touch it. Let the System read your soul. It will assign you a class based on your actions, your aptitude, and your… potential. It doesn't matter that you're in the Merchant's Guild; the stone is neutral. It just unlocks the door."
+
+Ren reached out. His hand hovered over the stone.
+
+"Here goes nothing," he whispered.
+
+He touched the stone.
+
+Cold.
+
+That was the first sensation. A chill that raced up his arm and settled in his chest. Then, the world went white.
+
+Ren found himself standing in a void. It wasn't the empty grey of the System interface. It was a library. Shelves stretched up into infinity, filled not with books, but with objects. Weapons, tools, ingredients, crates, wagons.
+
+A voice—not Ana’s, but something older and mechanical—spoke.
+
+ANALYZING LIFE PATH...SUBJECT: REN.ORIGIN: EARTH-PRIME (CORPORATE SECTOR).PRIMARY SKILL SET: LOGISTICS. RESOURCE MANAGEMENT. OPTIMIZATION.SECONDARY SKILL SET: CULINARY ARTS. BIOLOGICAL PROCESSING.
+
+CALCULATING...
+
+MATCH FOUND.
+
+The white faded. Ren blinked, finding himself back in Ordan’s office. The stone on the desk cracked down the middle and crumbled into dust.
+
+A new window exploded into Ren’s vision. It was gold, intricate, and pulsed with power. Only he could see the details.
+
+[CONGRATULATIONS!][CLASS ASSIGNED.]
+
+[NAME: REN][LEVEL: 5][PRIMARY CLASS: THE SUPPLY LORD (UNIQUE / LEGENDARY)][SUB-CLASS: MASTER CHEF (RARE / PROFESSIONAL)]
+
+Ren stared. "Supply Lord?"
+
+Ordan leaned forward, eager. "Well? What is it? Merchant? Trader? Caravan Master?"
+
+Ren hesitated. He read the description.
+
+[PRIMARY CLASS: THE SUPPLY LORD]Wars are won by logistics. Kingdoms starve or thrive by the flow of goods. You are the master of the chain. You do not just move resources; you control them.
+
+[CLASS TRAITS:]
+
+[Infinite Logistics]
+
+Your Inventory weight limit has been removed. You are limited only by 'Slots' (Current: 100). Items in inventory are held in perfect temporal stasis. Hot food stays hot. Ice stays frozen. Time does not exist in your pockets.
+
+[The Smuggler's Gate]
+
+You can instantly 'ship' items to designated allies within a 1km radius. (Current Slots: 3 Allies).
+
+[Universal Appraisal]
+
+You see the true value of everything. Not just gold value, but strategic utility. You know exactly what an item is worth to the specific person you are talking to.
+
+[Beast Tamer (Logistics Type)]
+
+You can tame and bond with beasts of burden to expand your supply chain. Monsters become delivery trucks.
+
+Ren swallowed hard. Infinite storage? Instant shipping? Stasis? He wasn't a merchant. He was Amazon Prime with magic.
+
+[Ana: My guy... You are overpowered. Infinite stasis? Do you know how much that module costs in the shop? Millions. And you got it for free. You broke the game economy.]
+
+Ren looked at the sub-class.
+
+[SUB-CLASS: MASTER CHEF]Food is not just fuel; it is morale. It is power. You can process biological material with absolute efficiency.
+
+[CLASS SKILLS:]
+
+[Absolute Butchery (Active)]
+
+Instantly process a dead creature into its highest-quality parts. Zero waste. Skin, bone, meat, core—separated in a single action.
+
+[The Mono-Filament Cut (Passive)]:
+
+As long as you are using a kitchen knife, biological matter offers no resistance. Bone cuts like butter.
+
+[Essence Infusion (Passive)]
+
+Food cooked by you retains 100% of the ingredient's mana properties and grants temporary stat buffs.
+
+[The Golden Tongue (Passive)]
+
+You can identify any ingredient by taste. You are immune to food-borne poisons.
+
+Ren looked up at Ordan. He decided to play it cool. If he told them he had a Legendary class, they might try to recruit him for the army. Or dissect him.
+
+"It says... Merchant Lord," Ren lied, downgrading the title significantly. "With a specialization in... provisions."
+
+Ordan nodded, satisfied. "A solid class. High tier. Good for business. 'Lord' implies management skills. Very useful."
+
+He opened a drawer and pulled out a gold card. He stamped it with a heavy thud.
+
+"Congratulations, Ren. You are now a full member of the Merchant's Guild. This card grants you tax breaks, access to Guild warehouses, and legal protection in commercial disputes."
+
+Ren took the card. It felt warm.
+
+"Thank you, Grandmaster."
+
+"Now," Ordan said, leaning back. "You have the license. You have the goods. What's the plan?"
+
+Ren grinned. He looked at Shorgan.
+
+"I want to open a shop," Ren said. "A restaurant. But not just a place to eat. A place to... experience. I need a kitchen that can handle volume."
+
+Ordan rubbed his chin. "Property is expensive in the capital. Especially near the docks, where the fresh ingredients are. But... Shorgan here is my grandson. He knows the city better than anyone. He can help you find a location. For a finder's fee, of course."
+
+Shorgan stepped forward, bowing. "I know a few places in the Harbor District. High foot traffic. Good ventilation. And... discreet landlords."
+
+"Perfect," Ren said.
+
+He stood up, adjusting Lily in her carrier. She had slept through the entire ascension, blissfully unaware that her father was now a logistical titan.
+
+"One more thing," Ren asked. "The seafood market. When does it open?"
+
+Ordan chuckled. "It never closes, lad. It never closes."
+
+Ren walked out of the office, his mind racing with possibilities. He had the tools. He had the ingredients. And now, he had the class to back it up.
+
+[Ana: Hey, Supply Lord. Now that you have your own infinite inventory... can you please move your laundry, your toothbrush, and that half-eaten bag of chips out of my personal void? I need the legroom.]
+
+"Maybe," Ren thought back, stepping into the sunlight. "But first... I need to find a crab. A really big crab."

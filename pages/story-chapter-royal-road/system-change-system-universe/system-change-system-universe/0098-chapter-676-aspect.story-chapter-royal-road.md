@@ -1,0 +1,187 @@
+---
+id: 6dda790e-3dde-54eb-8991-d29e0ead976f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 676: Aspect"
+slug: 0098-chapter-676-aspect
+partOf: system-change-system-universe
+position: 98
+ownLength: 2031
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3810873/chapter-676-aspect"
+royalRoadId: "3810873"
+---
+
+Chapter 676: Aspect
+
+“Shape it into fire?” Derek frowned, then shrugged. “I guess I could try.”
+
+“Well, it’s not something that you’re just going to be able to do,” Alex explained before Derek started channeling. “It’s going to take practice—a lot of practice. It’s something that our parents or trainers teach us when we are children so we’ll have plenty of paths for our channeling or manipulation skills by the time we are able to upgrade them.”
+
+“Oh... so you’re teaching me like a child?” Derek asked.
+
+“I... if you want to be technical... yes,” Alex didn’t deny it. “This is basic ‘ten-year-old with a system’ teachings.”
+
+“Oh... well,” Derek started. “Better late than never, I guess.” After that, he closed his eyes and internally focused on his void energy circulating throughout his body. It had been a while since he had really done anything like this. The last time was probably when he was working on moving it from hand to hand quickly when punching. But he’d never tried anything as complex as shaping it into something else—not even a blade. He’d actually just allowed the blade projection from whatever weapon he was holding to do that for him.
+
+After moving the energy to his hand, Derek frowned, then opened his eyes. He looked at Alex. “Do I need to focus on the properties of fire, too? Or just the shape?”
+
+“To start with, just the shape. But if you can, it won’t hurt to hold in your mind the vision of an instance when the fire impressed you, or the feeling it gave you. It’s always easy to connect with something that has left a mark on you in your life,” Alex explained.
+
+“Something that has left a mark on me?” Derek repeated, then closed his eyes again and thought of the different fires he’d seen. He’d actually seen a lot of fire in his life, but none of that compared to the fire that Silvi was able to breathe. He thought of her using it gently to roast meat, and then to when she appeared in front of The Amber Tyrant and hit it with fire in its open mouth when the snake attacked Amelia.
+
+Then, he thought back to when Silvi lit the branches and leaves of the Echoing Willow on fire from above while Tyron used his molten earth abilities to burn it from the bottom. He thought about the dark fire that one of the wyverns had breathed in that fight, and he even thought about Jacks and his fire abilities. Fire really had been present for so many occasions. Still, his mind kept falling back to Silvi and the dragon flame.
+
+He also couldn’t help but think of how Silvi ended up with the skill, and how Dave had confessed his irritation at Derek for giving her the skill and not learning it for himself. Suddenly, Derek’s eyes shot open, and he looked at Alex. “Wait, do people take basic elemental skills that have nothing to do with their own affinity and class, and learn them just so they can experience them for this upgrade?”
+
+“It is one of the better and more efficient methods, yes,” Alex replied. “It allows users to get a feel for how those elements work, even if they will never be able to use those skills to even a quarter of their full potential without affinity boosts for them.”
+
+“Is that so?” Derek muttered. Half of him was now thinking that Dave tried to reward him that skill with this in mind. Surely not... Derek thought, but he couldn’t know for sure until he asked. “Wait a second...” Derek muttered, then focused his void energy into four of his fingertips on his right hand.
+
+“What are you doing?” Alex asked.
+
+“I don’t have a fire skill that I’ve practiced or anything, but I do have an elemental skill that I maxed out a long time ago that is pretty useless all things considered,” Derek replied. He then thought about when he was cornered by a bunch of skeletons and death-based creatures in the Undying Dungeon so long ago, and how he’d used Chain Lightning to combat them partially. He also thought about Silvi’s Void Lightning skill, which he’d been using for so long without even thinking about it.
+
+Soon, a static buzzing sound of electricity jumping from finger to finger sounded from his hand. But he never activated his Chain Lightning skill. He slowly opened his eyes to see Alex staring wide-eyed at his fingers, then he looked down. The lightning that jumped from each of his fingers was void purple. Suddenly, a notification appeared.
+
+...
+
+Congratulations! Upgrade condition has been met for Channel Void (C).
+
+View Upgrade?
+
+...
+
+“That was easy,” Derek muttered.
+
+“Just like that?” Alex asked.
+
+“Yeah,” Derek replied with a shrug. “I just received a notification that I met an upgrade condition for my channeling skill.”
+
+“Still... the speed...”
+
+“Well, I’ve had Chain Lightning for a really long time,” Derek replied.
+
+“I guess...” Alex said. “It still seems awfully fast.”
+
+“I also share a Void Lightning skill from my companion and have used it for a long time,” Derek replied.
+
+“That makes a little more sense,” Alex gave in. “So, what does the upgrade say?”
+
+“One second,” Derek said, then viewed the upgrade.
+
+...
+
+Condition to upgrade skill [Channel Void] has been met. Please select an upgrade:
+
+[Channel Void (Lightning Aspect)]
+
+...
+
+“It’s Channel Void with a lightning aspect,” Derek told Alex as the young man stared.
+
+Alex nodded. “That sounds about right. It should increase the rarity by one or two ranks.”
+
+“Can I not just use it like this?” Derek asked as the lightning jumped between his fingers.
+
+“No,” Alex chuckled lightly. “Like that, it’s pretty much just visual. It’s not combining anything but looks. It will just be straight void properties.”
+
+“I see,” Derek replied. “So, with it ‘aspected,’ it would be like how lightning spreads through a body and... well... I don’t really know a lot about that other than conduction and stuff. But basically, it would fry organs just like the skill I’ve used so much, but I would be able to control the amount of lightning and manipulate it or something?”
+
+“That’s more or less how it works,” Alex said. “Lightning’s greatest strength isn’t exactly the burning or damage it causes—though it does do that, too. Really, it’s how it disrupts users’ systems. Like, it can cause a heart to stop beating, muscles to seize up... even nerves to cease functioning. A true master lightning user doesn’t just electrocute someone. They choose where the current flows. There are some real horror stories about making lightning users angry.”
+
+“I can only imagine,” Derek replied.
+
+“So, what does the description of the skill say?” Alex asked. “If you don’t mind my asking.”
+
+“Uh...” Derek muttered. “Let me see.” He then mentally selected the skill and viewed the information.
+
+...
+
+Channel Void (Lightning Aspect): A refined and upgraded form of the skill [Channel Void]. This upgraded channeling skill allows the user’s void affinity to take on certain aspects of the lightning element. Lightning follows paths. Void ignores them.
+
+Note: Only one aspect may be channeled. Channeling skill will continue to work as usual.
+
+...
+
+“Huh...” Derek muttered.
+
+“What is it?” Alex asked.
+
+Derek then explained the skill to the young man.
+
+“That is very interesting,” Alex replied. “So it really does take the void’s ability to ignore certain things and strike directly at a specific target. Sounds like a pretty decent upgrade.”
+
+“It does...” Derek said with a nod. But if Dave was trying to get me to use fire for a reason, maybe it would work better with void than lightning... “But I think I want to see if I can get fire to work, too.”
+
+“I understand that,” Alex replied. “It’s always best to weigh your options. Lightning aspect Soul Thread is actually one of the more popular upgrades in our clan,” he explained. “Connect a thread to a target, then send a soul lightning into it. Of course, it’s only an aspect, not true lightning.”
+
+“Right,” Derek replied. “It would just be your affinity taking on forms and acting a bit different.”
+
+“Yes,” Alex replied with a nod.
+
+“I’m going to try fire now,” Derek replied.
+
+“But you don’t have a fire skill already?” Alex asked.
+
+“No...” Derek replied. I wonder if I could use Rejuvenation and have some kind of healing void. That would be weird, Derek thought, but he couldn’t really think how he would combine that like he had with the lightning.
+
+“Then I’ll stay for a little while to see if I can help you, but it will probably take a while for you to get it,” Alex replied.
+
+“That’s fine,” Derek replied. Then, he closed his eyes again and thought back to Silvi. He thought of her roasting meat and enemies. He recalled her turning the ice guy from Astrus into a puddle. He saw her fighting the snake and the tree again. He pushed everything he had into the palm of his hand and concentrated. He thought about Silvi’s darker draconic flames instead of the normal orange and red flames from regular fire.
+
+He concentrated more and more, then projected the void from his palm. Suddenly, he heard Alex gasp. “No way!” the young man gasped.
+
+“What?” Derek’s eyes shot open again, and he looked at his palm. There, hovering just above the center, was a small flame flickering like a candle. “Oh, well... that wasn’t nearly as hard as you made it sound.”
+
+“But it should have been,” Alex muttered in shock. “With no prior practice and no related skill, what you just did in...” he looked at his bracelet. “Twenty minutes... should have been impossible.”
+
+“Twenty minutes?” Derek looked shocked. “That took twenty minutes? I swear I only had my eyes closed for a couple of minutes at most.”
+
+“No, you concentrated for around twenty... and you’re shocked that it took so long?” The young man shook his head. “I don’t understand. I know your affinity is high enough for a Mythical rarity class, but the way you manipulated your energy just then... it’s like your affinity is on par with that of an Ascendant...”
+
+“Right...” Derek’s eyes avoided Alex’s as he looked at the flame bouncing around in his hand. Technically, his affinity was already at the point where his next upgrade could take him to an Ascendant class. But Alex didn’t need to know that. However, it was interesting. “So, you’re saying that the higher the affinity, the easier it is to do things like this?”
+
+“Of course it is,” Alex replied. “It all goes hand in hand.”
+
+“Then why bother practicing when young when you can just do it like I did?” Derek asked.
+
+“Because not everyone is capable of that,” Alex said, aghast. “If people could just shape their affinity so easily, the universe would be full of powerhouses. Not to mention, practice is one of the easiest ways to work on increasing your affinity—not as fast as using it for fighting, but certainly quicker than just studying.”
+
+“I see...” Derek replied. I guess I’m just lucky, he thought. He skipped all the ways others seem to increase their affinity, yet ended up with an affinity that was already close to, if not, Ascendant rank.
+
+“So, did you receive the upgrade notification?” Alex finally asked.
+
+“I did,” Derek replied as the notification flashed before his eyes.
+
+“Well?”
+
+“One second,” Derek replied and pulled up the notification.
+
+...
+
+Congratulations! Upgrade conditions have been met for Channel Void (C).
+
+View Upgrade?
+
+...
+
+He dismissed that notification and moved on to the upgrade.
+
+...
+
+Multiple conditions to upgrade skill [Channel Void] have been met. Please select an upgrade:
+
+[Channel Void (Draconic Flame Aspect)][Channel Void (Fire Aspect)][Channel Void (Lightning Aspect)]
+
+...
+
+“Huh...”
+
+“What is it?” Alex asked.
+
+“It unlocked two more upgrades instead of just one,” Derek explained.
+
+“Two? How?” Alex tilted his head in confusion. “What is the third?”
+
+“Uh... well...” Derek thought for a second, then asked, “What’s the difference between a fire aspect and a draconic flame aspect?”

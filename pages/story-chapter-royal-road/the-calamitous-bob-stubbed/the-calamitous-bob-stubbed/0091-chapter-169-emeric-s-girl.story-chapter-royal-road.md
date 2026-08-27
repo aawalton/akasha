@@ -1,0 +1,471 @@
+---
+id: c60271b5-045f-5240-871a-a343eb60e47b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 169: Emeric’s Girl"
+slug: 0091-chapter-169-emeric-s-girl
+partOf: the-calamitous-bob-stubbed
+position: 91
+ownLength: 5260
+unit: words
+ownProgress: 5260
+publishedAt: 2024-06-21
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1686922/chapter-169-emerics-girl"
+royalRoadId: "1686922"
+markedReadAt: "2026-06-29T21:17:55.565Z"
+---
+
+I’m coming with you!
+
+Viv considered her daughter. Arthur had grown up — again! — and she was now a fine young lady wearing golden threads on her horns but she was also eminently killable, especially by poison gods. And this, Viv would never allow. At the same time… a teenager being told ‘no’. Not a chance she would listen.
+
+“Don’t you have a bank to supervise?”
+
+The bank will be fine.
+
+My minions handle the day-to-day operations.
+
+They only need me for big decisions.
+
+Like lending a lot of gold, painting the lair, and what meat is best.
+
+Very important matters.
+
+I shall leave them with specific instructions.
+
+Her steps carried the witch deep into the bank, past simple desks covered in papers, locally made. She-Who-Feasts-On-Many-And-Collects-Much preferred a world without windows, yet light was warm and abundant, provided by enchanted bulbs glowing pleasantly. They covered the naked rock in a colorful blanket. All of her employees, though she insisted on calling them minions, favored white clothes with embroidered scales especially on the shoulders. It gave the entire company an otherworldly feeling that never failed to awe prospective borrowers. It also helped that Arthur hired a lot of young women. Sometimes, Viv felt like she’d stepped into a Roman temple attended by vestals rather than in a respectable bank’s main office.
+
+From the dragoness' perspective, she was not favoring a gender. It was just that a lot of Harrakans had started as Enorians who traditionally preferred to recruit male apprentices for accounting roles. Arthur had merely swooped down to catch the most promising female prospects because they were uncontested. Now, her apprentices were fiercely devoted to her, some of them even glaring suspiciously at Viv as she entered Arthur’s inner sanctum.
+
+My only concern is security.
+
+I have decided to hire members of the Children of the Scale regiment as mercenaries.
+
+Viv stopped.
+
+“Ehm. You can do that?”
+
+I cannot?
+
+No one stopped me.
+
+No one had refused the dragon to her face, what a surprise.
+
+“Normally, armies of sovereign nations can’t be used as guards for private individuals? I think? But we’re burning through too much money just with salaries so I’ll allow it.”
+
+Yes, and so I am coming with you.
+
+Viv considered her options. Arthur was a powerhouse and her trip could use another monster hunter. And eater, as it were. The problem was that she’d tried to negotiate for more people to come and been sternly refused.
+
+Viv would take a ship going north to Sardanal’s birthplace, and it was packed. To the gills. Neriad’s men had only accepted to take Sidjin in as well because he agreed to share her cot in the minuscule cabin she was assigned. Things seemed to be going pretty badly.
+
+“I don’t think they would refuse a dragon but… you take a lot of room.”
+
+I can sleep when I fly.
+
+“Wow, really?”
+
+But then I am hungry.
+
+“I think we could make this work. I really wonder what’s going on with transportation, besides the aquatic monsters.”
+
+We could have made our own ship.
+
+“Sure we’re just missing a few things like access to the sea, a shipyard, experienced ship builders, experienced sailors, a proper blueprint and extensive testing.”
+
+Mother.
+
+I do the sarcasm in MY house.
+
+“Fine but the point remains.”
+
+We could go to the south west, quick, quick.
+
+Steal a ship.
+
+“Given my luck and even assuming we would manage to get one afloat, it would be beset by dangers long before we even sailed around the continent. I’d also like to spend more time there than just to acquire a ship.”
+
+Flying ship!
+
+“We would need a lot of manatite. Sadly, the highest concentration is over Helock.”
+
+Viv actually considered this for a while.
+
+“You know, I think I’ll talk to Abe about it. He had his base in the Chalice. Surely he’s studied flying rocks. We could use his expertise, but again, it will take years to achieve anything. Not a couple of months.”
+
+So we will take a boat?
+
+“A ship, yes, just as the inquisition asked.”
+
+It is not like you not to make preparations, mother.
+
+“Oh, but I have made preparations. And I’ve trained. We can discuss this on the way.”
+
+I am not carrying you in front of the mortals.
+
+“Relax. I may not be able to take people with me across the ocean, but I will have an escort across the land to get there.”
+
+***
+
+The ruling witch left with little ceremony escorted by mounted knights. Ban vocally disapproved of her leaving on an adventure without her army, but she knew the deal with the spark of luck. She would always have a chance and it would always cost her more to ignore an issue than to solve it, this time more so than before. After all, it was not just Octas trying to sink the island. Where a dark god manifested, the others were sure to follow. She had to attend and for that, she would have to follow Neriad’s rules.
+
+Viv was ready for the trip. Her winter wardrobe in black and silver matched the dark carriage to make her Param’s edgiest sovereign. Sidjin had opted for red colors. She had to admit he looked really good in them. Sidjin often appeared quiet and unassuming though it was not so much bashfulness as a tendency to keep a distance. The red highlights acted as a statement of power that turned him from taciturn to domineering. She liked it a lot.
+
+“We need to find you more red clothes,” she told him with enthusiasm.
+
+“Assorted couple clothes shopping? You were waiting until I was trapped in the carriage with you to spring that odious trap on me, were you not?”
+
+“If I must drag you away from your spell books into the light of good fashion, I will.”
+
+Viv ignored the fallen prince’s rant against ‘abuse of power’ and ‘tyranny’ and some such nonsense. The carriage was transiting through Reixa by the time he was done and Viv took a look out. It was snowing. A thick white layer already adorned the blue roses of the knight’s pauldrons, above their heavy cloaks. A guard with a halberd met her eyes before waving the carriage on, not even bothering to check her papers.
+
+It was weird being recognized on sight like that. When she’d first arrived, there had been some clashes with those who held certain convictions about her role in society, especially Tarano who had believed it was an honor to bear caster children for his cause. Now, rules no longer applied to her. It wasn’t the world that had changed, and Arthur’s staff proved that. She had merely reached that status where rules and expectations no longer applied to her. She was an archmage and an outlander, an individual removed from the fabric of society. Viv briefly wondered if it was a peculiarity of Nyil where the power difference between individuals went far beyond merely wealth and influence. Did earth’s most powerful women share this privilege? She would never know.
+
+“It’s amazing how I was once stopped at the gates of Kazar, even with proper documentation. Now I lift a curtain and I’m let through without a word.”
+
+Just then, the carriage lurched, though neither occupant panicked. That wasn’t the case for the people outside as the screams of horror attested, but the panic stopped before it could begin. A long, serpentine head descended from the roof and snaked through the suddenly open window. Blood dripped from Arthur’s maw on Viv’s brand new cloak.
+
+“Hey, watch it!”
+
+Mother.
+
+I caught a hard-shell turtle spawn.
+
+Crunchy.
+
+I left you the legs!
+
+“Thank you. We will have it for dinner.”
+
+“I am willing to bet.” Sidjin noted, “that you won’t even have to lift the curtain at our next stop.”
+
+***
+
+The journey north proved surprisingly dull. They spent almost as much time waiting in short lines as they did moving, not least because the weather proved dreadful. Heavy snow occasionally turned into damp sleet that made the road muddy and treacherous. Even the portals couldn’t stop the winter traffic from dying down. Besides desperate travelers and the odd merchant peddling skins or chestnuts, the rest had wisely decided to stay home. It barely improved when they crossed the Shal and finished their trip near Zazas after a brief meeting with their ruling couple. They would sail to Helock from there.
+
+When Viv had been near Helock, she’d spent very little time near the port as there was little reason to. Tourism was not an industry here, so the waterfront harbored fisheries, warehouses, and boarding rooms for sailors. It also stank to high heavens. She’d glanced at the boats there from a distance with mild interest. The sea wasn’t really her thing, though the beach could be nice. This time, they would be traveling on a, well, a sloop, she guessed. She was a bulky thing with a single mast and a high hull specialized in slipping along the dangerous coast. It was clear from the beginning that the captain disliked her and he disliked the weather ever more. It only took three sullen days to sail to the Helock harbor.
+
+It was the first time Viv had returned since her dramatic escape the year before, and not much had changed at first glance. The mysterious floating rocks still hung in the sky as a reminder this was a world of magic while a rare layer of snow covered the old city. Yellow lights and puffs of smoke from countless hearths reminded her that the city was merely waiting for better days. Soon, her attention turned to the real ship, the one that would carry them over the ocean. There was no mistaking it since it was the only one of its size and class within the whole harbor.
+
+Viv had to admit, she was impressed. The name written on her flank was Emeric’s Girl and she certainly looked majestic enough, dwarfing every other ship here with a length of close to eighty meters. The hull was reinforced with metal swirls nailed to the tempered wood to form a network of defensive runes, though they were inactive now. Three masts bore large folded sails. Viv judged it looked a bit like a Carrack with an aft castle and a thick, slightly curled shape though it was more massive by an order of magnitude. There were no gun ports at all though, only a single ballista stuck to the front, most likely to throw harpoons. The projectile was missing as well. The entire ship shone like a Christmas tree in Viv’s mana sight.
+
+“Impressive,” she whispered.
+
+“Aye, she is,” the sullen sloop captain said by her side. “One of the last of her kind. Shadowland design. They don’t do it like them anymore.”
+
+He spat overboard.
+
+“After the ashes of Grandfather’s wrath covered the sky, the old kingdoms perished. Some of the arcane shipwrights moved to Vizim, is just, all they and their descendants can do is repair. Now there are two less. Curse that eight-legged monster.”
+
+“Are they that difficult to build?”
+
+“You need dry docks for that, miss, and a lot of money. The Vizimans don’t need’em to trade with us so they don’t build them.”
+
+He shook his graying head.
+
+“Damn shame.”
+
+Viv wasn’t sure what to say. It was the second example of mankind losing a massive amount of knowledge she’d learned of here. The Shadowlands lay for to the north east, a hostile land covered in volcanic ashes, the sun perpetually blotted by dense clouds. Only roving bands of hardened fools still roved its savaged grounds with a few settlements clinging to the coast and the last remnants of long lost nations. That was where the only other living outlander she knew of was. Oleander, champion of Maranor. She wondered what he was doing there.
+
+As the ship approached Emeric’s Girl, it became painfully evident that the old lady was wounded. Something large had raked her flanks, leaving behind splintered furrows hastily patched up with clamps and tar. Nothing that would hamper her, fortunately. The same could not be said of the deck where entire strips of railings had gone missing.
+
+“We have our work cut out for us,” Sidjin said as he joined her.
+
+Viv turned to see Arthur.
+
+She was drooling on the planks.
+
+Squid!
+
+***
+
+Viv’s departure from the sloop was fast and without issue, the only surprise a mellowed captain wishing her good luck. The pair of casters levitated from the deck under the appreciative gazes of the sailors. As they climbed to reach Emeric’s Girl’s deck, the devastation only became more obvious. Entire sections of the deck were brand new with the old parts marked by suspicious stains. A steel sheet covered the central mast to hide battle damage. All of the sailors here were northerners in heavy cloth. The mood was somber. So somber, in fact, that the appearance of two archmages casually floating down with their belongings caused little more than a bleary glance.
+
+Viv alighted in the center, then made her way to the aft castle where the person wearing the fanciest hat stood. In her experience, that was the leader. She didn’t get the chance to make three steps before said leader climbed down with an energetic stride. Two officers followed close with frozen expressions.
+
+To Viv’s surprise, the captain was a northern woman who looked barely older than her. She had a square jaw and the no nonsense aura of people who needed to take swift decisions and live with the consequences. Her uniform was absolutely perfect, a blue gray suit that showed broad shoulders under a feathered hat, but there were carefully managed cricks in that armor. A fresh scar started from the edge of her mouth to disappear down her collar, and there was a certain tension in her shoulders that told Viv the ship hadn’t been the only one to suffer.
+
+“Good day to you. My name is Captain Sil of Emeric’s Girl, and you are?”
+
+“Empress Viv of Harrak.”
+
+Aaaaah it always felt so weird just to announce it like that.
+
+“Sidjin of Glastia. Her paramour.”
+
+“Yes, you were expected. There are few who could make such an entrance without calling on the winds. Welcome aboard. Before I lead you to your quarters, a few words. The trip will last for two weeks plus whatever time it takes to fend off monster attacks. During that time, we will provide for you but I ask that you do not interfere with the ship’s activities. In case this wasn’t clear, this is my ship and I command here.”
+
+“I have no objections.”
+
+“Agreed.”
+
+The captain raised an eyebrow, perhaps surprised at their quick assent.
+
+“What?” Viv asked.
+
+“Thank you. Please follow me.”
+
+Viv and Sidjin followed the woman through a trap door and into the bowels of the vast ship. It seemed that every available space was occupied by tightly fastened crates and barrels. It gave the narrow corridors a cluttered, claustrophobic aura Viv disliked immensely. She guessed the temple would favor supplies much more than new troops for this expedition. She also realized she would spend most of her time upstairs, even if it started snowing. Captain Sil continued the conversation in a lower voice and now Viv realized why she’d insisted on accompanying them rather than let a subordinate do it.
+
+“The bitch goddess kicked our ass on the way out. She has a sea monster with her, an unholy abomination. Some sort of crustacean with tentacles. Killed my second in the battle.”
+
+She stopped by a door near the back of the ship. That one had windows. It felt cramped to Viv but given the rest of Emeric’s Girl, those quarters were positively luxurious.
+
+“This was his room. Look, I’ll be honest. We used all our enchanted harpoons in the past battle and lost our best fighters. I pray to all the light gods you two are as good as they say you are, because if you’re not…”
+
+“One question, captain,” Sidjin said.
+
+“Yes?”
+
+“The ship’s enchantments revolve around a commanding circle at the center of the upper deck. Is there a reason why it’s disconnected from the others?”
+
+The captain blinked.
+
+“How did you—”
+
+“He’s a genius,” Viv interrupted.
+
+She glanced up. It was obvious now that Sidjin mentioned it but she’d not been paying attention beyond making sure there were no traps.
+
+“If you say so. The ship’s arcanist would have stood there in the days of yore, but the art has been lost since the dawn kingdoms became the shadowlands.”
+
+“Can I have a look?”
+
+He was positively vibrating in place. Viv only managed not to tease him because she didn’t want to embarrass him in front of the new girl.
+
+“If you damage my ship…”
+
+“I would never,” Sidjin curtly replied. “I will remind you that we will be on board as well. Your survival is our survival, and besides, it sounds like we will need every advantage we can gather.”
+
+The captain massaged her eyes, though it didn’t take her long to come to a decision.
+
+“Very well, but you will not activate it without my authorization.”
+
+“Agreed. Let’s go up. Now.”
+
+Sidjin thoughtlessly led them out of the room, humming in a low voice while glancing around. He would look like a lunatic but Viv knew he was inspecting the various arrays through the thick walls.
+
+“You have replacement harpoons, yes?”
+
+“Had them delivered, blessed by Neriad but… against that creature? They might as well be toothpicks.”
+
+“Let me have a look. I’m a fairly decent enchanter and my constructs tend to have a… bite.”
+
+“That is what I heard as well.”
+
+As they surfaced, Viv leaned towards the captain once more.
+
+“Oh and I’m sorry but we are bringing a stowaway.”
+
+Captain Sil turned on her, furious.
+
+“WHAT? This was not what was agreed upon!”
+
+“She will sleep above deck or in the air.”
+
+“If this is your version of humor...”
+
+“Oh, no. No. I seldom joke. Oh, here she is.”
+
+The clouds parted and a white shape emerged, a distant roar attracting the air. Arthur elegantly landed on the aft castle then proceeded to wrap herself on the railings.
+
+Hello hello, grateful minions!
+
+Will you give me gold for fish as well?
+
+I am the best fisherdragon ever.
+
+“You are welcome to ask her to leave, of course, but…”
+
+“Dra dra dra dra—”
+
+“She is, and she’s on our side. And she really loves seafood.”
+
+I could go for some giant squid right now.
+
+“Well, Maranor’s cunt. We might make it out after all.”
+
+***
+
+Viv had expected to be bored but that was before they realized Emeric’s Girl had a dormant mana circuit, one as complex as it was comprehensive. Even the damn rudder could be remotely controlled. The problem was that most of those systems were either functioning at minimal capacity or simply broken. Captain Sil accepted a rush order of metal for Sidjin to use.
+
+“I am already indebted anyway. If this trip fails, there will be no need for me to consider spendings,” the captain admitted.
+
+“We will succeed,” Viv said confidently.
+
+“But I have to ask. We do not really have a smithy on board. How do you even —”
+
+A muttering Sidjin tore open a nearby crate, rummaged through several bars with manic focus before settling on one of coppery color. He spread his hands. The rod levitated between them, turned red, then twisted into the desired shape before flash-cooling. The archmage then left as he had come without sparing those pesky noisy people a single glance. What a hyper-competent nerd. Viv was falling in love all over again.
+
+“Nevermind that. We will depart in an hour. Ah, I would advise you to return below deck. It is about to rain rather heavily.”
+
+The first drops of water fell on Viv’s cloak. In the distance, Sidjin waved annoyedly until a half circle of solid mana covered him. Torrential rain soon poured over the ship, leaving Sdjin and his workstation completely dry. From her own bubble, Viv gave the other woman a pleasant smile.
+
+“I am under the impression you are showing off.”
+
+“I am. He’s not.”
+
+Mother!
+
+You should reconsider.
+
+It is really refreshing!
+
+***
+
+Viv’s elation that her daughter’s approach to showering changed was short-lived as the days went on, Emeric’s Girl cleaving the waves under a gloomy sky. It would have been a perfect moment for melancholy but the food sucked and she was extra busy. After running a few diagnostics on the ship, Sidjin declared it was an abused masterpiece in the hands of barely cognizant beastlings to an absolutely mortified Captain Sil. He might have been confronted were it not for his continuous display of arcane might. The witch was once ordered to hover near the hull for three hours without pause just so she could reapply runes and straighten patterns under his exacting instructions. During her free time, she retreated to the depth of the ship to engrave the harpoons in the darkest room, cackling maniacally. Really, they only retired to their cabin to sleep and make love. It was like a last minute scramble before an important exam.
+
+Captain Sil gave the authorization to reactivate the circle on the fourth day for a test run. The base of the masts glowed gray and the wind picked up, propelling Emeric’s Girl across the sea at great speed.
+
+“Sadly, we’re missing a key component,” Sidjin explained. “All those ships used to work on a core. A large one. It must have been salvaged a long time ago because even the receptacle is gone. Some of the energy can be stored in the arrays themselves but without a core, we can only work with short bursts.”
+
+“Are the connectors still intact?”
+
+“What? No. Well, I can easily recreate them, but why would I?”
+
+Viv pointed at herself.
+
+“Very powerful, self-filling core right over here.”
+
+“How, you want to… Oooooh. Yes, but should you not fight directly?”
+
+“I can do both if the connectors are on the deck itself.”
+
+“Great idea. We won’t be able to power all the arrays at once because your core is black while we would need a gray, brown, and blue one. The efficiency will be low. I will still build an ad hoc array that should be compatible with you. In the meanwhile, we need to finish the hull reinforcement on the right flank.”
+
+“And the harpoon launcher.”
+
+“No, the harpoon launcher is not part of the ship’s system.”
+
+“I know but by the time I’m done, it will be.”
+
+Sidjin stared at her for a minute without speaking a single word. Viv waited, knowing he was calculating.
+
+“I’ll make it work. It shouldn’t be complicated since the architecture is modular. There are a lot of redundancies there, as if the designers expected the ship to take massive damage and keep going.”
+
+“Probably what happened. What other system?”
+
+“Navigation, useless without other active ships, and weather control.”
+
+“What?”
+
+“No, not the actual weather, more of a short range calming effect. Oh, it can also deflect a thunderbolt.”
+
+“Let’s get to it then.”
+
+***
+
+For over a week, Viv and Sidjin worked nonstop to reactivate the ship. Arthur spent most of her time flying and hunting. She would sometimes bring catches that would be grilled on the deck to the delight of the crew, as the haughty dragoness accepted Viv’s plight. After all, a happy crew made for more effective minions as had been confirmed many times and Viv couldn’t eat her own weight in discarded, giant shark’s tail. There was another, smaller issue she discussed with her paramour one evening. Namely, that her armor no longer fit perfectly. She’d have to make it bigger on her return.
+
+Captain Sil appeared more confident as the days went by and the runes around the ship were now shining as they had in her prime. She even voiced her guilt.
+
+“Sadly, I cannot compensate you for this feat. I do not have two archmages’ wages to spare.”
+
+“Ah, sorry but I think Sidjin got his own payment by himself,” Viv replied.
+
+“He certainly is… enthusiastic.”
+
+Viv debated telling the truth. In the end, she wanted to see the captain’s reaction so she could gauge what sort of response her future decisions would have.
+
+“Ah, well, there is just the matter that this is the intellectual property of a… defunct nation.”
+
+Captain Sil frowned.
+
+“What do you mean by intellectual property?”
+
+“Ah, I forget that knowledge is more compartmentalized here. Essentially, Sidjin knew the entire spell system by heart by day two and he will definitely recreate it if we ever get a dry dock.”
+
+The scarred woman gave Viv, who was also scarred but sometimes forgot, an assessing glace.
+
+“Tell you what, if you fine people can resurrect the lost art of arcane ships, I honestly don’t give a beastling dick. And I am in your debt for the enchantments if we make it out alive so… I promise to remain quiet about it. And damn the guild.”
+
+So they might have trouble with some Vizimans in the future, Viv thought. If that got her good ships, she didn’t care.
+
+Around that time, Viv finished the whole batch of twenty harpoons. She absolutely forbade the sailors from touching them, instead carrying the missiles one by one to the launcher so they would be stored at its base, whispering to them not because she was crazy but because she wanted to make it clear they were dangerous. The heads shimmered with a malevolent black halo and every available surface bore runes of hatred and retribution. Only the lower shaft was left intact and only because she had runes to connect them to the launcher, itself modified for improved speed.
+
+While the general mood around the sailors had first improved, and Viv had even managed to memorize quite a few names, it grew somber by the tenth day. The temperature was slowly rising but that just meant it went from freezing to merely miserable, or it would if that affected Viv at all. Drizzles and rain showers were pretty much constant. The captain explained the situation to them as they were dining at her table.
+
+“Sardanal’s birthplace has been relentlessly attacked by Octas for the past three years. At first, only inquisitors joined the fight since this is a remote place, about halfway between Param and Vizim. Unfortunately, cultists made landfall in the second year, and the inquisitors were forced to call for reinforcements. A vicious war has been waged ever since. My crew and I were proud to carry temple guards to the valorous defenders. For a while, it looked like we were going to win and also rid the world of decades of effort of cultist recruitment. Unfortunately, Octas found the Beast.”
+
+“The one that damaged your ship, I presume,” Sidjin said.
+
+“And sank many, many more. We only survived because my father splurged on a harpoon launcher many years ago. I was going to auction that thing too.”
+
+“And without supply…” Viv continued.
+
+“Nor reinforcements, or new weapons… The temple guards have held on so far but without the food we’re carrying, they’ll be reduced to eating each other or slicing their own wrists. This is the last attempt, as far as I know. If this fails…”
+
+“Then Octas exterminates the last defenders, her belief is proven true, and she obtains the power to sink the island beneath the waves. Her legend grows and cultist activity explodes in the next decades,” Viv said.
+
+Her soul mastery whispered that it was right. She had studied godhood extensively the past few months with the help of the various clergies to prepare her next plan. Belief and consistent actions were massively important for the gods. Octas would not retreat. Not with the amount of resources she’d sank into the attempt. Viv bet she was running low on manpower as well.
+
+“The Beast attacked us as we had almost escaped the island’s currents. A vicious monster, that one.”
+
+The captain shivered.
+
+“Thought we were dead for sure. Had to be strong. And now we’re going to face it again.”
+
+“You have us this time,” Sidjin said.
+
+“And Arthur,” Viv added.
+
+Couldn’t forget the fire-breathing menace.
+
+“Right, we’re going to enter the killing zone in two days. We’ll be on high alert. Constantly. Octas WILL attack us.”
+
+“We understand,” Sidjin said.
+
+“It’s not the first time we’ve fried spiders.”
+
+***
+
+With the mood definitely morose, Viv shared her need for a distraction with Arthur who had a proposal.
+
+“Let’s fly up!”
+
+It was a good exercise and if Viv’s levitation failed, Arthur agreed to catch her with her legs because she didn’t want to be ridden outside of a really exciting and dangerous battle.
+
+“Does the Beast count?”
+
+Mother.
+
+One does not battle seafood.
+
+One hunts it.
+
+Please.
+
+“It’s divine seafood though.”
+
+It better taste divinely as well.
+
+“You know I’ll tell her that. I’m sure it will piss her off.”
+
+Viv just took the time to warn Sidjin and then she was off, up and up.
+
+Normally, the skies were the domain of gray casters when it came to flying humans. Colorless magic was simply too complex for a sustainable spell. Viv disagreed. She believed colorless mana was the most versatile type and that it could imitate the effects of every other color with sufficient understanding. It also helped that the continent’s most brilliant colorless specialist happened to be her boyfriend. Viv went up, and up, the wind buffeting her hair. Arthur flew encouragingly around her though she was showing off a little as well. The clouds approached and Viv almost wanted to touch their fluffy dark surface. It didn’t happen. She had the gray sea under her, then she was in a world of fog.
+
+For a moment, reality seemed to retreat as she weightlessly floated through an eternity of mist. Even her mana sight showed nothing but gray mana all around her. The otherworldly experience was so intense, she expected to be stuck in limbo. It was silent too. Even the wind lost its grip on her. Condensation made her blink while the chill of the cold hair seeped into her bones.
+
+And then she was out above a plain of cumulus stretching as far as the eye could see, all backlit in a glorious orange glow by the rays of the distant sun. The rare gaps in the blanket showed agitated waves, dark and foreboding, but here above it was a landscape like no other. Arthur flew by and caught Viv in an updraft that carried her forward, clothes flapping in the sudden wind. She was flying, and she was free.
+
+“This is so fun! Thank you!”
+
+If mother likes.
+
+Then grow wings quickly!
+
+Scales optional. Wings not.
+
+She seemed to consider the question a bit more.
+
+Horns optional too.
+
+“Hey, what’s that?”
+
+Through a larger opening, Viv spotted white foam circling a titanic shape pushing through the waves. It was large enough to be visible from up here. Viv stopped and used a colorless spell to act as a lens.
+
+A creature as large as a building with eight tentacles and the shell of a giant lobster, powerful tail propelling it forward.
+
+Octas wasn’t willing to wait.
+
+“Alright, let’s get down. Looks like we’re getting our fight earlier than expected.”

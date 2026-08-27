@@ -1,0 +1,293 @@
+---
+id: 99153c16-8e17-5275-b625-78fdc75280e7
+page-type-slug: story-chapter-royal-road
+title: "THIRTY: Moon Thegund, Pt. 2"
+slug: 0030-thirty-moon-thegund-pt-2
+partOf: super-supportive
+position: 30
+ownLength: 4111
+unit: words
+publishedAt: 2023-04-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1186258/thirty-moon-thegund-pt-2"
+royalRoadId: "1186258"
+---
+
+Moon Thegund, Part Two
+
+The door led straight into a residential section of the perimeter building.
+
+They walked through something like a mudroom, where Alden was pretty sure he made a critical faux pas by neglecting to remove his sneakers, and into a common area full of mismatched furniture. Toys were scattered on the floor, and a couple of the adults hurried to pick them up while Alden was installed partially against his will on a chaise lounge facing a large screen he assumed was for television.
+
+Someone brought him wevvi, and he drank it as fast as he could while trying not to scald his throat.
+
+The two children stared at him from behind a chair like they expected him to do something shocking at any moment. Alden wasn’t sure if they were male or female. One appeared to be around nine and the other might have been a couple years younger.
+
+I wonder if I’m the first human they’ve ever seen? He sat up a little straighter and sipped his unwanted drink at a more polite pace, hoping he looked like a semi-decent species representative even if he had tracked dirt on their carpet.
+
+While the adults fussed around the room, seeming unsure about whether they were supposed to sit down with him or not, Alden tried to locate the woman with the pink eyes. She’d run off with the message orb.
+
+Fortunately, she returned before he tried to stumble his way through more sentences to ask after her whereabouts.
+
+She had what looked like a steel eggcup in her hand, and when she placed the message orb in it, Joe appeared on the screen. His image had that same unusual three-dimensional effect that Alden was used to from lessons at the consulate. Up close like this, it felt like the professor might reach through the screen and grab him.
+
+Several of the people in the room gave relieved sighs at the sight of Joe’s face.
+
+Alden glanced around at them all, surprised. Maybe they were worried I was lying?
+
+Joe started speaking, and Alden followed the translation closely.
+
+<<Hello, my friends! I have some good news for you at last. If you’re seeing this message then it means the Avowed I’m planning to send your way agreed to the arrangement and arrived safely. Please treat him with respect. You loyal few who refused to sign with the usurpers will soon be able to rejoin me thanks to his efforts.>>
+
+There was a lot of excited chatter at this, and the uncomfortable stares Alden had been getting became uncomfortable in a brand new way.
+
+He wished Joe wouldn’t set their expectations quite so high.
+
+Even if everything went perfectly, he could only carry one or two people at a time. And he couldn’t do back-to-back teleports to Moon Thegund because of the limitations placed on Joe’s System usage. Apparently, every wizard had some kind of individual credit limit when it came to using the System for things, and Joe’s had been reduced enough that a single round-trip teleport here was all he could authorize per day.
+
+Alden hadn’t been surprised to learn that there were limits, but it was something he’d never really considered before. For some reason, he’d always imagined summoners doing whatever they liked when it came to zapping Avowed around the universe and doling out magical rewards. But of course even the seemingly all-powerful System couldn’t be an infinite resource.
+
+There were fifteen of the assistants here if he included the kids. He could double up a few times, but to rescue them all, he’d have to come back every single night.
+
+Now, the recording of Joe was giving them instructions. He was telling them more or less the same things he had Alden, though he gave the assistants a sunnier impression of the situation. He did say that the first teleport would be a trial run, but he didn’t mention the fact that Alden could just…choose not to come back again.
+
+As soon as the professor started listing supplies he wanted from the lab, several of the Artonans disappeared.
+
+I guess they’ll fetch everything for me then? Alden thought.
+
+That was convenient, but he found himself a tiny bit disappointed that he wouldn’t get to see the non-residential parts of the facility. It wasn’t every day you got to tour a place that specialized in researching “demonic energy.”
+
+Joe finished off his speech by telling everyone the basics of how Alden’s skill worked, which would save him the trouble of trying to say “Entrust yourself to me!” in broken Artonan.
+
+He could think of about a dozen ways that could be misconstrued.
+
+He wondered if people could be entrusted to him by others. He doubted they could, unless they were unconscious, since he couldn’t steal something a person was holding. Bti-qwol had been able to entrust the frog to him, but that was an animal. Although it was actually the carnivorous flower she’d given him…maybe he could take conscious people if they were bound or trapped in a container?
+
+Super powers put you in some bizarre situations, he thought as he imagined someone handing him a duffel bag full of a struggling third party.
+
+When the professor had finished speaking, there was a discussion among all the assembled assistants about who should go first. Initially, they asked Alden who he wanted to take, but he refused to pick.
+
+He knew so little about the situation really. If he’d wandered up onto this lab with no prior knowledge about it at all, he would have thought nobody here needed saving. It was isolated, but it seemed calm. And comfortable.
+
+Yet they were obviously eager to leave.
+
+And it sounded like maybe some of the people who worked here—the ones who’d chosen to be employed by the ‘usurpers’—were already gone. If it was so dangerous in this place that Joe’s assistants were willing to risk using an untested method to escape, then Alden thought they should maybe give him the kids first.
+
+But, in the end, they selected the elderly man.
+
+Alden hoped it wasn’t because they expected him to fail and the old guy had already had a long life.
+
+With the decision made, the pink-eyed woman led them all through the residential section of the building. It reminded Alden of a long, curved hotel hallway. Assuming the doors all belonged to individual rooms, then Joe’s original staff must have been at least three times its current size.
+
+They exited through another mudroom and stepped out into the main compound. A pair of gray, pentagon-shaped…satellite dishes?…towered overhead. A woman wearing coveralls was sitting in the driver’s seat of an armored vehicle with tires made out of interwoven metal links. Instead of a steering wheel, the thing had a few levers and a bunch of buttons that were identical except for the logograms on each of them.
+
+There were seats for three passengers and the driver, and it had an enclosed trailer that she unhitched with the press of a button. The trailer rolled itself back a few feet, its strange tires leaving only the faintest of impressions in the hard-packed dirt.
+
+The old man who would be Alden’s first passenger went straight to a pair of plastic cases resting on one of the vehicle’s seats. He unlatched them and started looking through them, asking the woman in coveralls questions about the contents.
+
+One case was full of foam padding and tubes full of innocent-looking clear liquid.
+
+The System here wasn’t as stodgy as the one on Artona III. It was happily translating absolutely everything everyone said for Alden. But either it wasn’t great at the job or it just didn’t have English words for alien scientific materials. He doubted the official name of the substance in the tubes sounded as absurd as the System’s preferred translation, which was “bad impact juice.”
+
+And the second case had a piece of equipment in it that everyone was calling a “mixer” even though it appeared to be a solid cube.
+
+They were all treating both cases with a lot of reverence, so Alden assumed the impact juice and the mixer were important.
+
+<<We’ll have the other supplies ready when you come tomorrow, Honorable Alden,>> the woman with the pink eyes said. She pronounced his name with very distinct syllables, so that it sounded like more than one word. <<One of us will meet you at Elepta at the scheduled time for transport. Yes?>>
+
+Alden really wished they had some kind of translator for his half of the conversation. They had so much tech here. Were the tablets with System access, like the one Bti-qwol had used, not available to regular people?
+
+“Yes,” he said in Artonan. “But two? Sometimes two people? I can’t come fifteen?”
+
+I probably sound like a caveman.
+
+The woman didn’t seem to have trouble understanding what he was worried about at least. <<Distinguished Master Ro-den said you would come eleven times. Sometimes you will have to carry two passengers.>>
+
+“That’s right,” said Alden, relieved. Then, just in case they had overly high expectations about his physical strength, he added, “I can’t two big people. Two little people better?”
+
+<<Is the teleportation dangerous with more passengers?>> she asked worriedly. <<Most of us have never teleported anywhere.>>
+
+Right. Because regular people couldn’t even teleport on this planet.
+
+Alden rubbed the back of his neck, trying to think of how to say, I have no idea. I’m just worried about my ability to hold onto two full-grown adults.
+
+Finally, he pointed at himself. “Ryeh-b’t,” he said. “Can’t very big?”
+
+She nodded as if that made sense. Probably it did. He assumed the assistants were knowledgable people. Joe didn’t seem to have the patience to work longterm with anyone who wasn’t. And they must have at least a basic grasp of Avowed classes and other species, so they should know that a human Ryeh-b’t wasn’t a physical powerhouse.
+
+<<All of this is good though?>> she asked, pointing at the old man and the cases. <<Do you want to try it here? Before you travel to the teleport site?>>
+
+“Yes,” Alden said eagerly. He’d been trying to figure out how to suggest it himself without making them worry about his competence. “Yes. I want that!”
+
+He deactivated his trait, since he didn’t want the extra momentum for this experiment.
+
+Come here, old dude. Let’s figure out how this works.
+
+It turned out it worked okay.
+
+The elderly Artonan picked up a case in each hand. Alden targeted him, and after gaining his verbal permission and eyeballing him for a minute, Alden just grabbed him around the waist and lifted.
+
+He’d like to know how to do a proper fireman’s carry, but he didn’t. So for now this would have to do. Alden was taller than most Artonans, and he had a few inches on the old man. The guy wasn’t light, but he could walk with him well enough. The preservation worked.
+
+The skill drain was high. Alden didn’t know if it was because of the man himself or the things in the cases. But it was nowhere near as severe as it had been with the shrieky bowl. And he’d only have to do this for two or three seconds anyway.
+
+The hardest part was the awkwardness of holding onto a whole petrified person. The man’s clothes and limbs felt soft and yielding, but that was a false impression. Once he was lifted, Alden couldn’t seem to reposition him for convenience.
+
+That’s something I’d really like to learn how to do. Maybe if I level the skill…
+
+After around half a minute of experimentation, he realized he was getting some very shocked looks from the assembled aliens, so he set the man back down.
+
+The assistant came to life immediately, looking surprised to find that he’d moved from his original position.
+
+“Are you good?” Alden asked anxiously. “Are you happy?”
+
+Good and happy weren’t the words he wanted at all, but he couldn’t figure out how else to ask if he’d accidentally hurt the guy somehow.
+
+Are all your body parts working? Is your brain okay? You’re my first ever preserved person. I’m so relieved you’re in one piece.
+
+<<Very interesting, Honorable Alden!>> said the fellow, patting Alden on the arm. <<I don’t remember what happened to me at all. What an exciting experience!>>
+
+Alden let out a huge sigh. He felt himself grinning for the first time since he’d arrived on Moon Thegund.
+
+“Awesome,” he said in English. “This isn’t going to be a total disaster then.”
+
+###
+
+There were some tearful goodbyes before they could depart. Nobody was saying it, but Alden had the feeling the group was divided into those who trusted Joe absolutely and thought he could do no wrong and others who were more cautious about the mode of travel their boss had chosen.
+
+The old guy had a great attitude and kept talking about the trip like it was a grand adventure, but Alden was pretty sure he was just trying to calm the others’ fears.
+
+They finally boarded the armored vehicle and left. The driver pressed buttons, and they exited the compound by way of an underground ramp that went beneath the perimeter building.
+
+Alden and the old guy were in the back two seats, buckled in with harnesses that had automatically fitted themselves in place. Alden had been surprised at how thick the windows and doors were when they boarded, and as they left the facility, he was even more surprised when sigils of light started to appear here and there on the floor beneath his feet.
+
+A pudgy bald man had joined them. He was riding shotgun and staring with intense focus at a trio of display screens that showed a three hundred sixty degree view of the grassland around them.
+
+The three Artonans seemed more nervous now that they’d left the lab behind. They were all quiet for the most part, though after she’d put in coordinates for their destination, the driver turned back to look at Alden and told him admiringly that he was very brave for coming to get them on foot.
+
+Which made him feel pretty strange about the journey he’d just completed.
+
+Their anxiety was infectious, and he found himself gazing out the windows expecting to see monsters lurking in the grass. He didn’t. The strange vehicle moved swiftly, leaving a trail of crushed vegetation in their wake. Their ETA to the farm was just fifteen minutes.
+
+Just how far out of pocket was this place? Joe had said half the moon was a protected zone, but they must not have been anywhere near there or these guys would have left the lab in this car thing to reach it, right?
+
+And the professor had indicated that ships were in short supply, but unless he was misunderstanding, someone had come to get the other assistants who’d chosen to change employers. Why didn’t they just pick these people up, too?
+
+Alden had a ton of questions. But with the language limits the best he could do was say, “Where did others go?”
+
+<<Other what, Honorable Alden?>> the old man asked.
+
+Well, he couldn’t just leave it hanging. And he’d already committed himself to sounding like a caveperson so he might as well lean into it. “Other Worli Ro-den friends?” he said. “The other Artonans go before, but you are here. Why?”
+
+Please don’t think I’m stupid. I’m pretty sure I’m doing okay considering how small my vocabulary is.
+
+They understood the question, and the driver in particular seemed eager to badmouth her former coworkers. Over the next few minutes, Alden got an earful about the situation.
+
+Apparently when Joe had first been called to account for his crimes—which weren’t crimes at all! Oh no! They were brilliant and extraordinary magical advancements!—he and his many assistants had assumed he would brush off the charges as usual and return quickly. But he didn’t. And they soon received word that the lab was being handed over to Yipalck Corporation. Another wizard scientist would soon take charge, and Joe’s employees were expected to transfer over.
+
+Only some of them didn’t want to. Joe was, as Alden himself had experienced, good at obtaining peoples’ service. The Yipalck Corporation wouldn’t pay as well as he had, and the assistants, who were mostly crazy science buffs themselves, didn’t expect to have the same freedom to play around with the lab equipment that they’d enjoyed under Joe’s leadership.
+
+But there was a lot of pressure to shift loyalties and a lot of doubt about what Joe could do for them now that he was out of favor with higher powers. Eventually, most of the assistants gave in and signed on with the new owners, and only these few holdouts had refused.
+
+They assumed they would be shipped off to a safer, more populated area as soon as the new wizard arrived. Eventually, Joe would arrange for them to travel to the mother planet by spacecraft, and from there, they would be able to safely teleport and join him at the university.
+
+However, to everyone’s surprise it went the opposite way.
+
+The promised new wizard never appeared at all. The chaos index, whatever that was, rose rapidly for months. And when it finally hit some particular limit a few weeks ago, everyone at the lab requested evacuation.
+
+But the Yipalck employees were classified differently than the Joe loyalists. A ship came to pick them up along with some of the lab equipment, but the loyalists were told they had to remain behind.
+
+Unless they were willing to quit Joe’s service.
+
+It sounded to Alden like the assistants’ skills and their knowledge about Joe’s research were valuable to the new owners. So they were basically being held hostage until they agreed to switch sides.
+
+He was also interested to learn that the people who came to evacuate the other assistants were Avowed. Apparently they were a common enough sight on Thegund. Just not here, on the wrong half of the moon.
+
+It was an uncomfortable thought.
+
+If I’d been given a quest by the corporation, I’d have been sent here to strong arm a bunch of scientists by holding a possible rescue over their heads.
+
+He tried to think of anything in the human morality concessions of the Contract that would prevent that…and he couldn’t.
+
+Supposedly he couldn’t be used as an outright murderer of innocents, but of course he could be told not to help someone. Or to prioritize one group over another.
+
+That would feel awful.
+
+He was still trying and failing to imagine his way out of such a scenario when they reached the farm. They approached from a different direction than Alden had left from, and it took a second for him to orient himself before he could direct them toward the packing warehouse.
+
+He had them stop a little shy of it so he could grab a handful of berries from one of the bushes and shove them into his pockets.
+
+As soon as he did, his quest updated and offered him an option to request a return teleport. He would have been automatically returned in less than an hour anyway, but there was no reason to hang around.
+
+He showed Joe’s assistants the way into the warehouse and pointed at the teleportation alcove. They promised one or more of them would be here waiting for him at the appropriate time tomorrow. There would be no need for him to travel to the lab itself again. From here, his nightly teleportation trips should be swift and simple.
+
+The old man kissed the other two on the cheek, then took the cases full of supplies. <<I’m ready when you are, Honorable Alden.>>
+
+He looked a little afraid.
+
+Alden wished he knew how to say something comforting, but all he could do was smile and nod and act like all of this was business as usual.
+
+“Go home happy,” he said to the other two.
+
+It wasn’t the right sentiment, but he didn’t know how to say “travel safely.”
+
+When everything seemed to be in order, he clicked the request teleport button.
+
+[Request Approved. Please enter the alcove.]
+
+[67 s]
+
+It would be so stupid if I botched the timing here at the end.
+
+He knew he wasn’t likely to develop sudden clumsiness, but he couldn’t help but think of the look on Joe’s face if he showed up alone because he’d dropped the assistant or failed to keep his skill active.
+
+He ushered the elderly Artonan closer to the alcove and then watched the timer tick down. When there were only five seconds left, he picked the man up, felt him freeze, and stepped inside.
+
+He held the guy around the waist in a full bear hug, leaning back to make absolutely sure no part of his passenger was dragging the ground. It seemed to him that his skill usually faded between one and two seconds of no motion, so when the timer hit one, Alden hopped up and down.
+
+His calf muscles, burdened by the extra weight and still sore from his run to the lab, protested.
+
+Then, the teleport hit him and he couldn’t feel them anymore.
+
+Just like before, everything went black, and he became a disembodied awareness. But unlike before he was aware of something beyond his own thoughts.
+
+There was an unwelcome sensation of pressure from every direction. And because he could feel it, here in this place where he had no body, he had faint sense of what it was that was actually being affected.
+
+Around him, cocooning him from the teleportation magic, was something that was uniquely his. He tried to understand it, tried to to see it in a way that had nothing to do with sight.
+
+For an instant, he had an impression of a dense cobweb surrounding him.
+
+That’s my magic, he thought.
+
+Maybe he was aware of it now, when he hadn’t been on his last trip, because it was under more pressure with the added burden of his passenger?
+
+His magic was being buffeted by the teleport, but not in a way that seemed overly dangerous. He was curious. He wanted to figure out what it meant.
+
+But almost as soon as he had the desire, he was back in his body, and his ability to “see” his magic was gone. His arms were clamped tightly around Joe’s assistant. His legs were sore. He felt tired and dizzy.
+
+He dropped the man back onto his feet and stumbled a few steps away, trying to re-orient himself. The light from the runes on the floor of the Summonarium seemed to be stabbing through him in a way that he knew wasn’t physically possible.
+
+A metal pan slid across the floor and stopped neatly in front of his shoes.
+
+Alden stared down at it then glanced up at Joe, who was beaming at the old man and patting him on the back enthusiastically while he tried to bow.
+
+“What’s the pan for?” Alden asked.
+
+Joe turned to him. “Aren’t you going to throw up?”
+
+Alden didn’t feel totally solid, but he didn’t think he was about to lose his lunch. In the past, he’d felt more nauseous during trips to Anesidora. “I’m okay. The teleport was kind of long. And different. But I’m fine.”
+
+“Really?” Joe looked him up and down. “Aren’t we the sturdy one!”
+
+“I guess so?”
+
+“Well, excellent work!” Joe’s voice echoed through the room. “Wonderfully done! How does it feel to complete your first contract?”
+
+The man Alden had brought along with him had finally managed to complete his bow. He was trembling, and Alden worried the journey might have affected him badly. But when he stood up, there was such profound gratitude on his face that it was almost painful to look at.
+
+“Professor…” Alden hesitated. Now that he’d been to Moon Thegund, he realized he should have asked for a little more clarification about just how dangerous the place was.
+
+Joe had told him it was risky, but that he wasn’t likely to run into trouble. And he hadn’t. It had all gone so smoothly. But that oppressive silence and the total abandonment of a large facility like the lab painted a grimmer picture than he’d expected.
+
+Well, I’m only going to be there for a few minutes at a time from now on. Just straight to the farm and back.
+
+And with the old man looking at him that way, he couldn’t quite bring himself to seriously consider not returning for the rest of them.

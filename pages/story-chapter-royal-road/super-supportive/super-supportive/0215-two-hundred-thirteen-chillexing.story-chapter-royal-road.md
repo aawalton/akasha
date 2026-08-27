@@ -1,0 +1,315 @@
+---
+id: 3db441c6-b13e-5475-ad1a-1781b51be674
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTEEN: Chillexing"
+slug: 0215-two-hundred-thirteen-chillexing
+partOf: super-supportive
+position: 215
+ownLength: 3825
+unit: words
+publishedAt: 2025-04-24
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2226876/two-hundred-thirteen-chillexing"
+royalRoadId: "2226876"
+---
+
+213
+
+******
+
+It was evening when Alden left Rapport I with his suitcase, a leaf-wrapped package of meat petal, and a supply of sleep aids he was supposed to use as needed over the next few days. Yenu-pezth wanted him to get plenty of dreaming in while her work was still fresh.
+
+He arrived back on Earth, at Matadero, around four o’clock in the morning local time. Feeling alert but like his day was winding down didn’t bode well for his classes. If he tried to power through without even a nap, he was going to crash at some ridiculous hour, or he was going to be jelly-brained by the time MPE rolled around.
+
+Knock myself out now, or knock myself out later?
+
+He’d had a great day. Waking up from a dream with a satisfying ending instead of one that left him gasping and upset, flying paper planes with Stuart, having bread and honey while Healer Yenu talked about future sessions and explained that the process had gone well from her perspective…
+
+Sleeping after a great day sounds a lot better than rushing back to school.
+
+He wasn’t quite ready to deal with people paying a little too much attention, arguments in Engaging with the Unexpected, and whatever garbage had been happening on social media. Social media.
+
+The memory of Winston Heelfeather asking him to watch an apology video in which the speedster failed to deliver the promised apology made Alden groan.
+
+Like nails on the chalkboard of my mental peace, he thought. It’s a shame I can’t just solve him by telling him an Artonan healer wouldn’t like it if he spoke to me.
+
+Sleep it would be. A real one. He’d just start his Wednesday late and focus on doing well in the second half.
+
+He followed through with the plan and woke hours later with a new fragment of a dream at the front of his thoughts—watching the behavior of the demon bokabv that blocked their way forward, understanding that it was trying to separate him and Kibby from the car.
+
+That’s the one where we run into it after we make it out of the corruption.
+
+He couldn’t recall enough yet to know if the storyline had changed in any way from the exact version he and Healer Yenu had discussed. His sheets weren’t sweaty, and his pulse wasn’t thundering. So it must have been okay.
+
+I’ll remember more later. I’ll get it all eventually.
+
+He’d promised he would think about guilt when he woke up from the dreams, so he made himself do it. Only for a couple of minutes. Dwelling on his hesitation to run help when he heard Kibby’s whistle was uncomfortable.
+
+I didn’t hesitate at all in the new dream. I wouldn’t hesitate to help her in real life…but what if it wasn’t Kibby, and I was that scared again?
+
+Following that line of thinking led him into a mess of questions about who he was supposed to be. He wasn’t ready to answer those yet.
+
+And it called up fading regrets about not being a “Hero Type” who never hesitated. That wasn’t really where he wanted to go.
+
+“Been that way and done it,” he said aloud. He pulled the blanket tight over the bed and fluffed the pillows before arranging them at the head.
+
+“That way is backward. That way is toward…beating myself up over not doing even more to save Manon’s boater. And jumping to help Ro-den without being cautious enough. And maybe dumber stuff. The Hero Type that I built up in my head might have given his seat on an evacuation flyer to Marks with an ‘s.’ Do I really want to agonize over not doing that kind of thing? No. I don’t. Dude was a jerk after I teleported him off the bridge.”
+
+Alden stepped back to admire the freshly made bed and caught himself thinking how welcoming “his” room here would look the next time he came back. He reflected on that, then texted Boe.
+
+[Having your own room at Matadero is normal for some people. Like me. It’s normal for me.]
+
+Boe should be in class right now, but Alden had never known of that to impede him much, even back when he’d replied by phone. With mental texting…
+
+[If a thing is only normal for a single human out of more than ten billion, then it’s weird. That’s how the word “weird” works.]
+
+Alden was trying to decide if Kabir was the kind of person who might have possessive feelings toward the room he was staying in—not likely since the chef still got nervous about being in the cube sometimes—when Boe’s next text arrived.
+
+[I dare you to decorate the place and put your name on the door.]
+
+“Ha! That’s not as potentially embarrassing as he thinks it is.”
+
+Boe wasn’t envisioning the isolation of Alden’s room correctly if he thought that was a decent dare. In an upstairs corridor of a hospital that almost never had doctors or patients, a fair hike from the residential area? Alden could decorate this room and claim it with his very own nameplate, and there was a chance it would go unnoticed for years. Especially if he did it when most of the wizards were no longer in residence.
+
+[Dare accepted. Hey, by the way…how do you think the different Hero Types would handle an inanimate object that might be growing something like a soul?]
+
+The wait for a reply was longer this time.
+
+[I don’t get it. Is this a joke, and you’re challenging me to figure out the punchline? Or is it some morality quiz question you came up with because you enjoy thinking about right and wrong in your free time?]
+
+[It’s not a joke or a quiz. But I did say might. It’s not like I’m a hundred percent sure about what’s happening. Just wanted a second opinion from someone on the situation in case.]
+
+[What the fuck??]
+
+[So you don’t know what to do about it either, then.]
+
+[Avoid whatever it is and never speak of it. Or to it. This should be obvious.]
+
+[But what if it’s not happy with its life? Or this thing that it has that is like a life…semi-life?]
+
+[This had better be an extended joke. It is, isn’t it?]
+
+[I think it donated a pizza for Matadero Thanksgiving.]
+
+[It’s that Wrightmade vending machine you sent me pictures of! Isn’t it? Mr. Blingy. Alden, you’d better not get self-sacrificing for a vending machine.]
+
+I wonder if he’s going to be more or less freaked out when I tell him it’s a post drop.
+
+******
+
+******
+
+“I’m approaching land,” Alden said a while later.
+
+He was adjusting course by pointing a finger to follow the flight path he’d been assigned. Below him and to his left, waves lapped against a construction project that was underway along the western edge of the crescent. It hadn’t been there the last time he passed over.
+
+Wealth, wizards, and Avowed could make some things happen at an impressive pace.
+
+“Our Pacific Ocean is behaving pacifically,” he reported. “And a team of wizards and Avowed are building…not sure what. At the moment, it looks like some arches offshore.”
+
+A large section of one of them was being flown into position by a Shaper who was riding on top. When Alden looked over the edge of the nonagon, he could see a couple of small figures in the water.
+
+[Those arches are part of your new Avowedville protection package], Boe texted.
+
+He was in his last class of the day now. Economics. He’d turned on the video so that Alden could see him sitting there, taking notes on how the world might change if the Earth System suddenly had teleportation capacity equivalent to Artona III.
+
+“What’s the Avowedville protection package?”
+
+[You’d know if you were spending more time on the right planet.] Boe was still texting. [The Triplanetary Government has suggested making a new little Avowed country somewhere remote. An Anesidora II, so that the percentage of Earth’s Avowed living in one spot is lower.]
+
+“Is it Antarctica?”
+
+[It’s nowhere because negotiating that with the UN and Anesidora isn’t happening. Not anytime soon. So Anesidora is getting a trio of magically fortified areas for now. There are going to be neighborhoods with added protection against chaos and whatever else the Artonans decide you need protecting from. The arches are part of it even though they’re not onshore.]
+
+Alden slowed his flight and looked at the work going on below more closely. “That’s positive. Unless it’s a sign of things to come.”
+
+[There are going to be two of the new safer zones in F. One in Apex. The locations are undisclosed until the next disaster strikes. They say that’s for an added layer of protection, but I wouldn’t be surprised if it was really about property values.]
+
+“I don’t think the Artonans care about Anesidoran property values. I do think I might have just seen one of my classmates helping with the arches. He has blue hair. They don’t usually get teenagers to build critical infrastructure, do they?”
+
+[You’d know better than me. Because you are a teenager who spends too much time on the wrong planet. With wizards.]
+
+Alden watched the place where the swimmer who might have been Jeffy had disappeared below the surface until he was too far away to keep track of the spot. Then he turned his attention back to flying. And to Boe.
+
+[Stuart’s a good person. He’s been helping me, and even if he wasn’t, I like spending time with him. He’s cool. We’re friends.]
+
+Boe didn’t look up from his notes. [I didn’t mean anything by it.]
+
+He did. But he knows he shouldn’t have.
+
+Or that was what Alden thought was going on.
+
+It irked him. Not enough to say anything more about it, not enough to end the conversation. Just enough that when he reached campus and the call came to a natural conclusion, he stood on the nonagon above the roof of Garden Hall, looking in the direction of Chicago. Worries, ones he really didn’t want to have, flickered while he tried to smother them with reason.
+
+Boe was a cactus-mode bastard when Jeremy started hanging out with us. I had to run interference and pretend some of his remarks were funny-mean instead of serious for a few weeks.
+
+This isn’t even that bad.
+
+And it wasn’t like he had to force Boe to meet Stuart and get along.
+
+It would’ve been nice if he wanted to, though.
+
+One day. Maybe. Jeremy grew on him.
+
+A ridiculous comparison. Jeremy Levi and Stu-art’h were dimensions apart in more ways than one. But imagining that Boe might warm up to the idea made him feel better.
+
+It would be awesome to introduce Boe to Lute, Haoyu, and Lexi, too, he thought, as he headed into the dormitory.
+
+And it would be hilarious to point him at Winston.
+
+The sight of the speedster slouching in front of the dorm notices prompted that thrilling scenario to pop into Alden’s head. Winston seemed to have a theory that Alden had gotten so much attention recently because he’d cultivated it, and therefore Alden was only pretending not to want it as part of some kind of schtick.
+
+Which makes me a rival in his mind? Only enough room in the class for a few internet celebrities.
+
+Whatever the exact nature of their enmity was, Alden hanging out with an A-rank emotion manipulator would no doubt increase Winston’s suspicions a thousand fold.
+
+Alden passed behind the other boy without calling his attention. Asking why Scotland deserved an apology more than Esh-erdi wouldn’t make anything better. And Winston was probably bad for a person who’d recently undergone mind healing. Contraindicated. A pill too dangerous for those in need of relaxation.
+
+Alden met Febri on the stairs and complimented him on his ability to traverse the flights on a single hand.
+
+“There’s a second year Agi who does it by kicking off the walls. Do you think it’s allowed?”
+
+“I think it probably is until you make a mistake and kick through a wall.”
+
+He entered the apartment and found Haoyu at the kitchen table, clutching his head and staring at his tablet. When Alden glanced at the screen to see what the matter was, the matter was a mathematics problem that gave him flashbacks to the placement exams he’d taken before applying to CNH. He left Haoyu to suffer in silence while he took stock of the kitchen.
+
+Alden’s personal food shelf was almost empty, the shared one was almost empty, Lute’s was covered in empty ramen packaging like he was collecting proof of how much pure junk one man could consume if he was afraid of going to the campus dining halls.
+
+The slow cooker was full of food…and sadly not turned on.
+
+Alden looked through the glass lid, trying to figure out if what was inside was supposed to be sitting here cold. He saw tomatoes, onions, and what appeared to be a dollop of cranberry sauce.
+
+“What is this?”
+
+“Pasta sauce for my lunch,” Haoyu said. “I’m not allowed to have it until I finish my homework.”
+
+“Should it be on?”
+
+“It’s on high.”
+
+“I have some bad news for you about that. But I also have alien steak plant I can share.” Stuart and the family’s assistants had given him a generous amount.
+
+Haoyu jumped up from his chair and sprang toward Alden and the slow cooker. While he moaned over the sauce, Alden went to drop his suitcase in his room. Lute’s door was open, and he was lying in the floor between piles of clothes with one sheet of paper over his face and another shiny white paper rectangle on his chest.
+
+“Are you…asleep?” Alden asked.
+
+“Yes.”
+
+“Did you go to classes today?”
+
+“Only Convo.”
+
+“Have you eaten lunch?”
+
+“I’ll have a late one when I can move in an upright position.”
+
+Alden took in Lute’s pitiful state and considered Haoyu’s. He was hungry himself. His culture class had started a couple of minutes ago, and he didn’t see any reason to burst into it late. The instructor had been easy-going since the floods, he’d gotten an A on his last essay, and the talks were recorded for anyone who wanted to review them.
+
+“If you can make it to the kitchen in about forty-five minutes, there will be exotic veggie tacos.”
+
+This was an opportunity. Being an amazing roommate was still a goal.
+
+“I’m running across campus to that market that always has the interesting window displays to get ingredients. Do you want me to pick something up for you?”
+
+“Instant noodles,” said Lute, batting the paper away from his face with a hand that looked unusually clumsy.
+
+How many chains is he paying off anyway? He had mentioned breaking some things during his rescue of Cyril. How many can a person even use at once? Is there a maximum?
+
+Alden remembered someone asking that question at the Chicago consulate, while they all sat on their chopped-off yoga cushions and practiced with the teacher who’d wanted to look Artonan. She’d said something fluffy about how the only limits were their understanding and strength of heart.
+
+“I’ll get you some. Maybe that lortch delicacy flavor you like.”
+
+“And a good white Stilton,” said Lute. “Rillettes de canard, salt and vinegar potato chips, and a baguette.”
+
+Alden looked down at him. He seemed serious. The System was translating the French as shredded duck preserved in fat.
+
+“I…don’t know if the store will have all of that. But I can look.”
+
+When he was on his way out, he asked Haoyu if he had any requests.
+
+“Pâté de foie gras,” Haoyu said. “A good parmigiano. Barbecue potato chips and a better baguette than Lute’s.”
+
+He met Alden’s eyes, and Alden snorted.
+
+“I hear you!” Lute shouted. “I hear you both making fun of me. It was only a few things!”
+
+“Quail eggs decorated with gold leaf,” said Haoyu. “A bottle of wine smuggled in from the finest wine place in Paris. And thirty microwave noodle cups.”
+
+******
+
+******
+
+Alden decided to treat the shopping trip like a speed challenge. Fifteen minutes to get out with taco stuff, Lute’s stuff, and whatever stuff he saw that looked like something a great roommate would buy to put in the fridge and on the shared shelf.
+
+He rushed through the doors and past a window display that was less impressive than previous ones he’d seen—just the Anesidora flag made out of food boxes. The market was busy, but since it was busy with mostly other high school and college students, a guy sprinting down the aisles with baskets in each hand wasn’t attracting much interest. He wasn’t even in the top three fastest shoppers, and there was someone magically calling groceries towards themselves. Alden jumped to grab the last jar of salsa verde from the back of a top shelf, and just before his hand touched it, it sailed away toward the opposite side of the store.
+
+That shouldn’t be allowed, he thought. What if it had already been in one of my baskets?
+
+He grabbed a red salsa instead and raced for the dairy section at the end of the aisle like it was a finish line in gym. Another shopper joined him before he reached it.
+
+“Alden! It’s you!”
+
+The man had short dark hair and pale skin. Brown eyes narrowed away as he grinned. He’d arrived at a run that put Alden’s to shame, and the liter of carbonated juice in his basket would no doubt drench the person who opened it. Alden watched the man spin to a stop in front of him, juice bottle crashing around as the basket swung from his elbow.
+
+He was wearing a red shirt. The first time Alden had seen him, his outfit had been red, too.
+
+If swim briefs count as an outfit.
+
+“Hey, Liam. How are you? Your snake is—”
+
+“Getting a magical herpetarium!” Liam Long said excitedly. “General Esh-erdi asked another wizard to install one in Tina’s apartment.”
+
+“He’s going to give Tiny Snake ba—a new habitat? That’s great.”
+
+It was. It was. Tiny Snake didn’t want to go hang out with the Primary, and Alden already had one orange pet.
+
+“Candy Corny is going to have a better room than I do.” Liam laughed.
+
+He looked so ordinary. Not at all like a person who built his own horror chambers and tried to face down tsunamis without clothing.
+
+“Do you mind if I shop while we talk? I’ve only got ten more minutes before I have to be out of here.”
+
+Liam didn’t mind. He was thrilled and honored that Alden was willing to “chillex on the ‘pex” with him.
+
+Alden didn’t fully decipher the phrasing until he’d tossed a wedge of parmigiano and some vegan cheese into a basket and started looking around for Stilton.
+
+Chillaxing—or chillexing—wasn’t how he would have described running into an acquaintance in a shop. Especially since the acquaintance was someone he’d recently hidden from in the dark recesses of a flooded building, fearing that his shoes and lifesaving medicines were at risk.
+
+Alden felt guilty for thinking Liam might be a person who could attack him in a panic, but he still wouldn’t trust the guy to behave predictably if he ran into him in an emergency.
+
+Today, though, in this bright grocery store, Liam wasn’t terrible company. He was peppy, and his chatter circled a few topics Alden was interested in.
+
+He talked a lot about Esh-erdi and Lind-otta. How awesome they were, how they’d saved him and his siblings, how Alden knewthem. And how his parents had gotten a message from them after Thanksgiving.
+
+“I think they like General Lind-otta more than their actual friends now. My mother keeps mentioning how she doesn’t see why Anesidora can’t have an ambassador like that.”
+
+“Ambassador to Anesidora is a little below her level. Do you see any shredded duck spread?”
+
+Liam also covered other subjects. His quest to find a new boom room that he could afford to rent and remodel. His worry that Royce and Tina seemed less than enthusiastic about getting back into the family leveling project with him. His happiness that some of his friends from college were more interested in leveling than ever before and they were calling him to see if he had tips.
+
+“I think people should probably get tips from more experienced Avowed,” Alden said. “I’m sure Instructor Waker has given interviews on this. He’s pretty good at advice. Great even. You should look up what he’s said.”
+
+Alden was confident that Big Snake’s advice on leveling would be more helpful than Liam telling people to shove their sisters into iron maidens with some tarantulas.
+
+“We should compare strategies sometime!” Liam was following Alden down an aisle that was eighty percent instant noodles and twenty percent condiments to go on instant noodles. “We’re both B’s. You’re in the program of course, but I’ve got all my DIY experience.”
+
+Yeah, my leveling method is so quick and easy.
+
+Feed Gorgon your blood. Look into his eyes. Get stuck on Thegund and trained in wizardry by an Artonan child. Agree to live with the consequences.
+
+He suddenly realized he’d bought the same salsa brand he’d fed Gorgon that day. He might have to go back for a second jar, so he could add it to his next gift to the imprisoned desk clerk.
+
+Maybe throw in some yovkew trail mix, too. I assume he knows why we can eat that.
+
+He selected the ramen based on the visual impact of the packaging. Some hot pink shrimp with bulging eyes, a fire-breathing egg, one pack that said “Comfort!” in spiky, bloody red text—like the company would come after you if you didn’t agree that their artificial beef flavor was comforting.
+
+“I’ve just started in Talent Dev,” he said. “Give me a couple of years before you ask me for strategies.”
+
+“That’s right!” said Liam, jostling the carbonated juice some more. “B’s will still be here two years from now, ten, twenty! We’ll be training our minds and our might, long after the haters have given up on running us off campus. Northies forever!”
+
+“You have graduated, haven’t you?” Alden asked. He remembered Liam telling him that, but they hadn’t met under the calmest of circumstances. Maybe he’d misunderstood.
+
+“I might come back for a second degree. I could encourage Royce to keep trying for the uni hero program by being a presence here, you know? Keep the protesters from getting into his head.”
+
+“Right.” Alden was thinking about what a good roommate would buy Lexi. It took another aisle for him to notice he didn’t understand what Liam was talking about.
+
+He looked over at the Brute. “What protesters?”******

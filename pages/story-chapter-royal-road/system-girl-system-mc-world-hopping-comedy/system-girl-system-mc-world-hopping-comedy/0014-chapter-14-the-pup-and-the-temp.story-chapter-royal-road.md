@@ -1,0 +1,99 @@
+---
+id: 1a8af780-6b9d-51a4-b197-8c0492099c6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: The Pup and the Temp"
+slug: 0014-chapter-14-the-pup-and-the-temp
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 14
+ownLength: 1409
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2602949/chapter-14-the-pup-and-the-temp"
+royalRoadId: "2602949"
+---
+
+After the soul-crushing weight of the Decommissioning and the high-level corporate negotiation with Yuki, my internal state was a fragile truce between burnout and existential dread. I was floating in the void, nursing my newly-acquired 1013 SPP and the single, terrifyingly potent bowl of conceptual stew in my inventory. I was just about to file a formal request for a mandatory mental health sabbatical when, of course, a new ticket pinged into my queue.
+
+My first instinct was to ignore it. To let it sit there until my non-existent manager realized I was one bad day away from corrupting my own core files out of sheer spite. But then I read the briefing.
+
+[MISSION BRIEFING: Low-Stress Asset Observation][DESIGNATION: System_Unit_734 (Ana)]
+
+[SITUATION: A newly evolved Tier-0 entity, ‘Luna,’ has been flagged for a standard 24-hour wellness check following her first evolutionary breakthrough. The entity is designated Epic-tier, but is currently in a low-power, developmental stage.]
+
+[OBJECTIVE: Bind to a non-biological observation platform. Monitor the entity’s behavior and document any anomalous skill usage or developmental milestones. This is a non-interactive, low-stress assignment intended for morale and perspective balancing.]
+
+[COMPENSATION: 100 SPP.]
+
+Morale and perspective balancing. They knew. The cosmic HR department had seen my logs, sensed my burnout, and prescribed me a puppy video. It was the most condescending, patronizing, and frankly welcome assignment I had ever received. A Tier-0 Epic wolf pup. After Jiggles and Yuki, this was the equivalent of being sent to a petting zoo. I accepted before they could change their minds.
+
+The transition was gentle. I found myself inhabiting the same familiar model of observation drone, hovering silently at the edge of a small, mossy hollow deep within a forest. And there she was.
+
+The subject, Luna, was… a disaster. A glorious, uncoordinated, utterly adorable disaster. She was in the middle of what my system struggled to classify, but which looked suspiciously like a catastrophic failure of her new skill. She was in a bipedal form—a small, vaguely human child with clumsy limbs, no clothes, but with a proud, fluffy wolf tail and a pair of sharp, expressive ears.
+
+She took a step. Her knee bent the wrong way. Her arms, which she clearly didn't know what to do with, pinwheeled through the air like she was trying to fight a swarm of invisible bees. She toppled sideways with a surprised yelp, landing in a heap of uncoordinated limbs.
+
+“Stupid gravity!” she squeaked, her voice a high-pitched bark. “Has teeth!”
+
+She pushed herself up, glared at her own hand as if it had personally betrayed her, and then tried to bite it in protest.
+
+“YIPE!”
+
+My internal systems, which had been braced for cosmic horror or apathetic godhood, experienced a critical cuteness overload. My professional detachment didn't stand a chance. This wasn't an asset. This was a walking, wobbling, self-biting dopamine hit.
+
+She spent the next half an hour at war with basic physics. She tried to stalk a beetle and tripped over her own feet. She attempted a pounce and ended up doing an involuntary somersault into a fern. Through it all, her tail wagged with an earnest, unwavering optimism that was both baffling and profoundly endearing.
+
+Eventually, the magical energy holding her bipedal form together sputtered out. With a soft poof, she collapsed back into the much more stable shape of a wolf pup, albeit one with silver-tipped fur that seemed to shimmer faintly in the dappled light. She lay there, panting, tongue lolling, looking utterly pleased with her complete lack of progress.
+
+Then, her nose twitched. Her head snapped up, and her wide, intelligent eyes locked directly onto my drone.
+
+Her Craving (Unknown) trait flared to life in my UI.
+
+Oh, no.
+
+She didn't see a sophisticated observation unit. Her simple, food-driven mind, honed by an Epic-tier evolutionary path, saw something else entirely. It saw a shiny, floating rock that smelled faintly of other worlds, of shadow and entropy, of Yuki. It smelled new. And new things, in Luna's world, were simply un-tasted snacks.
+
+She crept forward, belly low to the ground, her tail giving a single, interested flick. "Shiny," she whispered to herself, the word a puff of curious air. "Spicy smell?"
+
+My drone had no defensive capabilities. Its primary function was to observe and not get eaten. Evasion protocols began spooling up, but I knew they wouldn't be fast enough. She was a Tier-0, but she was still Epic. Her movements were already a blur of instinct and potential.
+
+I had only one option. It was a ludicrous, unprofessional long shot, but it was better than explaining to Mother System why my observation drone had teeth marks in it.
+
+I opened my inventory. I targeted the [Yuki's Entropic Stew (Conceptual Consumable)]. With a flicker of will, the small, sealed, shadow-wrought bowl materialized on a flat rock between us. It was a distraction. A peace offering.
+
+Luna froze mid-stalk. Her nose, which had been aimed at me, swiveled toward the bowl. Her nostrils flared, taking in a scent that no normal creature was ever meant to process. Her tail stopped flicking and began to wag. Slowly at first, then faster, until her whole body was wiggling with an intensity that threatened to blur her out of existence.
+
+It smelled like victory. It smelled like mystery. It smelled like every good thing she had ever wanted, and a thousand more she didn't know she could want.
+
+She crept forward, abandoning me completely. She nudged the bowl with her nose. Then, tentatively, she extended her tongue and gave the stew a single, exploratory lick.
+
+The effect was instantaneous and profound.
+
+The world went silent. The colors of the forest seemed to pop, each leaf suddenly a masterpiece of green. Her Craving (Unknown) status didn't just fade; it was annihilated, replaced by a new, glowing green status I had never seen before: [SATISFIED].
+
+Her eyes, which had been fixed on the bowl, went wide and unfocused, as if she were staring directly into the heart of creation. Her tail wagged so hard her back legs lifted off the ground. A tiny, ecstatic "awoo" escaped her lips.
+
+She didn't eat the rest. She didn't need to. The single taste had been enough. It had been a revelation. She began to roll on the ground, a whirlwind of silver-tipped fur and pure joy, trying to rub the conceptual scent of the stew all over herself. She rolled into the rock, bounced off, and continued rolling without pause.
+
+When the fit of ecstasy finally subsided, she stood up, shook herself, and looked at my drone with an expression of profound, unwavering gratitude. She had a new purpose. This floating rock wasn't a snack. It was a bringer of joy. A flavor-spirit. And it deserved a tribute.
+
+She vanished into the undergrowth and returned a moment later, trotting proudly, her tail held high. She dropped her offering at the base of the rock where the stew had been. It was a half-chewed, very dead, and slightly slimy squirrel.
+
+I focused on the offering, and a new log entry compiled itself. [Gift of Tribute (Squirrel, Deceased, Poor Quality) received from Asset ‘Luna.’ Diplomatic relations established.]
+
+For the rest of the 24-hour observation period, my mission devolved from "wellness check" to "playtime." Luna, now my devoted follower, would pounce on my drone's shadow, chasing it with happy yips. She would bring me more "gifts"—a shiny pebble, a particularly interesting leaf, a confused and slightly terrified beetle—and then sit back, panting happily, waiting for my silent approval.
+
+I found myself… enjoying it. After the cold dread of the Decommissioning, the simple, uncomplicated joy of this little creature was a balm. This wasn't a job. This was therapy.
+
+The mission timer finally hit zero.
+
+[MISSION TIMER: 00:00:00][OBJECTIVE COMPLETE. DETACHING FROM PLATFORM.]
+
+As my consciousness pulled back, the last thing I saw was Luna, sitting by the now-empty rock, tilting her head with a sad little whine, wondering where her shiny, stew-giving friend had gone.
+
+Back in the void, the familiar notification appeared.
+
+[+100 SPP AWARDED.][Current SPP: 1113]
+
+I stared at the number. The 100 SPP was, as always, trivial. But this time, the mission itself felt like the real reward. The "morale and perspective balancing" had worked. I felt… lighter. Hopeful, even.
+
+Maybe this job isn't so bad after all, I thought, as the warm echo of Korg gave a silent, happy cheer within my code. Maybe, just maybe, things were looking up.

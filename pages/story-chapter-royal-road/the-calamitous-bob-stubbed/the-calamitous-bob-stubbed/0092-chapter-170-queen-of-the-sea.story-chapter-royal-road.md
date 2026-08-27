@@ -1,0 +1,505 @@
+---
+id: bc7e2f8b-6e9d-5f06-a014-32e6a98f99bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 170: Queen of the Sea."
+slug: 0092-chapter-170-queen-of-the-sea
+partOf: the-calamitous-bob-stubbed
+position: 92
+ownLength: 5679
+unit: words
+ownProgress: 5679
+publishedAt: 2024-08-03
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1742966/chapter-170-queen-of-the-sea"
+royalRoadId: "1742966"
+markedReadAt: "2026-06-29T21:17:57.363Z"
+---
+
+Viv made a note of where the beast was before allowing herself to fall. Rushing through the clouds sent moisture on her eyelashes while the fluffy clouds masked the sight. Electricity puffed her hair even as the wind pushed it away from her face, and her eyes searched for the fleeting shadow of Arthur diving at a distance, then the world of gray opened to show the deep blue expanse of the ocean with its foamy carpet upon which Emeric’s Girl was little more than a toy. Viv aimed for it while Arthur twirled and sped around her. She was clearly showing off.
+
+Flying is fun!
+
+“I told you I don’t know how to grow wings!”
+
+Try harder!
+
+Maybe if you eat more powerful things.
+
+Maybe you are just starving without realizing it!
+
+“Daughter, I don’t even need to eat anymore.”
+
+That is what you believe.
+
+Viv fell the rest of the way at high speed, exhilaration filling her chest. It was like jumping with a parachute except she no longer needed one. She could do this anywhere and have fun. Perhaps a new harness was in order. A pang of regret marked the end of the descent, but that lasted only until she remembered there was an angry goddess’s avatar bearing straight for her.
+
+“I saw the Beast!” she screamed.
+
+Sidjin swore and cleaned up his work table. The control circle shone when he activated it.
+
+“Where? When?” Captain Sil asked.
+
+“In this direction. I’d say it will be here in half a period.”
+
+The Viziman frowned.
+
+“An Old Empire period, a Viziman period, or a Mornyr period?”
+
+What a strange time to figure out Vizimans used a different time measurement system.
+
+“Shit. Hmmm. We have some time to get into position but not much else.”
+
+“RING THE ALARM. ALL HANDS AT THEIR POSTS!”
+
+Viv winced at the deafening scream. Panic spread throughout the deck. Sailors raced, fear urging them on and eyes searching the horizon for that one dot that would be their inevitable doom. Viv felt their terror very keenly against her soul. She longed to smother it under her leadership but they were not her people, and she wasn’t sure it would even work.
+
+Octas hadn’t even arrived yet.
+
+“The temple warriors are on their way up,” Captain Sil told Viv as she approached the charging station. It was a grand name for basically two cables with absorbing runes she’d have to grip like a mad scientist.
+
+“We have temple guards? Oh yeah, I remember seeing them during our meals.”
+
+Sil looked at Viv like she was a total idiot and the witch took exception.
+
+“We were extremely busy repairing your ship?”
+
+“Forgive me, the situation left you with few opportunities for meetings. They should help, although we had a full contingent when we last left the island and…”
+
+The captain didn’t finish her sentence. There was no need.
+
+“How about the harpoon team?”
+
+“They will be ready. My… second, he was in charge of them.”
+
+She touched the scar running down her face.
+
+“I hope they will be ready. We missed our first few shots last time. The Beast… it plays with your mind. Once you see it, you can barely see anything else.”
+
+“Hey.”
+
+Sil shook her head. From lost, her expression regained its focus until she blushed in embarrassment.
+
+“You have us and a magical ship this time.”
+
+“Right on. I shall take command from the helm.”
+
+Viv watched the captain turn around with a confident step. Several of her men watched her go with trepidation as her own leadership aura spread its protective embrace over the crew. It wasn’t too impressive, sadly. Viv wondered if the trauma and scars left by the first assault bit deeper than she had thought and the lingering fear would hamper them.
+
+A part of her wanted to take over Sil. Let her know it was wrong for her to assume command. After all, hadn’t Viv repaired the ship alongside Sidjin? Provided the enchantments on the harpoons? But no. That was just draconic intimidation playing tricks on her. Leave the sea command to the sea commanders.
+
+“My love?” Sidjin said.
+
+“Yes.”
+
+“Could you come for a second please.”
+
+“Sure.”
+
+Sidjin was lost in a sea of symbols linked by thin threads of magical energies, all but invisible to non-casters. He pointed through the shimmering curtain.
+
+“Recharging the enchantments is well and all but we have the opportunity for a surprise strike and I think we should take it. I propose that you stick to the railing until the Beast arrives and attack once while its guard is down. If you hide your presence…”
+
+“I could get a devastating first hit in. Provided she doesn’t know we boarded the ship. Hmmm. I’ll try.”
+
+Viv approached the railing, making sure to cover her hair with her billowing black cloak and feeling super cool about the whole thing. Tumultuous waves slapped against the ship’s mighty flanks while at the horizon, the sea merged with storm clouds in layers of dark blue. Octas would come from port (the left flank) so that’s where Viv stood, fingers gripping the varnished wood until it creaked. Any time now. Any time…
+
+The sea roiled, indifferent. A quick look behind her showed clenched fists and hundreds of bloodshot eyes scanning the foamy surface for something, anything. She idly noticed men and women in armor. The temple guard. Not that they would matter.
+
+“The Beast! Port side!”
+
+“STEADY!” the captain bellowed.
+
+Emeric’s Girl turned slightly left towards the approaching danger. Viv used a lens spell to zoom in on the distant form of the sea monster. The waves made it difficult to spot the shape for more than a few moments, but it was enough to see massive limbs propelling the creature forward. Such was its speed that a mantle of water covered its surface until all that could be seen was a bump in the ocean, an approaching night blue spot surrounded by nightmarish flesh. Or perhaps it was a spell. The smooth surface of the face shield was so dark that it stood out among the gloom of the sea. It was growing larger, larger. Soon, a sound like deep white noise covered that of the surf lapping at the hull. On the deck, the silence was absolute.
+
+The ship finished turning. It looked like the Beast would hit her at a sharp angle, near the prow where the harpoon gun waited. Viv made her way up the railing under the scrutiny of the crew. If the avatar remembered the sting of the previous battle, it would go for the ship’s only weapon soon into the fight. Viv stood by the enormous contraption and leaned in to watch the avatar approach. The propelling limbs were octopus arms waving powerfully against the waves, while the water shield could not be seen through. Now that the Beast was close enough, she noticed the tremendous blue power seeped in black mana with some life sprinkled in as well. This was going to be good.
+
+“It didn’t do that last time,” a grizzled man said with a tight voice.
+
+He was the commander of the harpoon gun this time. Viv remembered him drilling his men mercilessly on how to pivot the metal frame on its base. He would do a fine job.
+
+“You didn’t have me either.”
+
+“You think your harpoons will go through?”
+
+“Oh,” Viv replied, watching the thin membrane hiding the beast. “Oh yes.”
+
+The creature had to be huge, Viv realized. Merging with the waves made it even more imposing. Where did the ocean start and where did the beast stop? Octas might be a piece of shit but when it came to absorbing monsters into her, she certainly knew her stuff.
+
+“Aim!”
+
+As soon as the harpoon gun adjusted its aim, the Beast started to swerve. It moved from side to side in erratic patterns.
+
+“Loose!”
+
+The harpoon screamed its way through the air —  and missed. The travel time was too long and its path too unpredictable, Viv realized. Now that it was no longer traveling in a straight line, Viv got a better look at it. The body of an enormous crustacean followed the head of a cephalopod upon which were attached eight powerful limbs, barbed suckers beating the water. The armored body up to the tail moved powerfully, helping the monster forward at a speed that would rival modern warships. It was a powerful combination. The colossal monster finished its course after dodging a second harpoon. Viv braced. The impact was imminent.
+
+At the last moment, Sil turned the rudder.
+
+Mana flared in the sail. The change was so abrupt Viv almost lost her footing. Tilting to the side, Emeric’s Daughter faced the incoming charge head on. The ship split the waves while its sail flared with gray lines. The Beast seemed to waver for an instant, then it jumped.
+
+Viv heard a splash, saw the underbelly of the creature in all its abyssal glory, shell thick and powerful protecting numerous small feet ending in sharp claws, their surface crusted with bony protrusion. It was gigantic. Water droplets hit her in a briny shower. It was time. Viv slowed her temporal perception as much as she could as she pulled deep within her reserves. Her aura flared. Mana surged through her conduits, bleeding through her presence in thick black rivulets to caress the planks at her feet and the air she breathed. As the Beast fell, its head became apparent. There was half a woman jutting from where the eyes may have been.
+
+The avatar looked like what a knight might be if scales could grow from the skin. It was a dash of red, purple and white among a sea of duller colors, possibly a statement. A chitin-encased face turned to Viv and the witch saw surprise, then immeasurable hatred in those deep red orbs.
+
+“YOU!”
+
+“Me. Hyperbeam.”
+
+The avatar covered her face with a massive claw and, impossibly, veered away. Her tail whipped the prow with such violence that the wood splintered, sending shared flying through the air.
+
+Viv’s spell carved through the thick shell and the flesh beneath. Blood flew, mixing with the ocean water.
+
+Viv’s beam followed the retreating form into the stormy waves. For a creature that massive, it was fucking fast.
+
+Well, one claw down.
+
+“I’m so sorry,” the harpoon crew chief said.
+
+“It’s fine, shoot when it’s not moving.”
+
+“Understood!”
+
+Now where had the bitch gone? Viv raced back along the deck.
+
+“Jibe!” a voice said.
+
+Sailors ran and… dove across the deck? Viv’s danger sense and ominous groan warned her. She hit the ground and not a second too soon. With a massive woosh of displaced air, the sails cleaved the air above Viv’s head as they pivoted with the wind. She was up and running before they were set. Octas wasn’t gone. Even now, Viv could hear her scratch against the hull, making her way up and to the side. Sidjin pointed where she would surface.
+
+Around her, temple guards in loose squads took position. Viv should have coordinated with them. She’d been so focused on the ship she’d forgotten to talk with her allies. A mistake.
+
+The avatar hoisted itself to the deck in all its chimeric glory. Below the screaming fused human body, the octopus beak opened to release green acid. A nefarious cloud spread over the railing. It swallowed two sailors before they could run away. They died screaming. Three massive tentacles landed, flailing around and finding exposed legs. Those caught were left holding bleeding wrecks. Viv kept throwing spell after spell while warriors attacked what they could see with heavy axes. In an instant, the deck was a scene of pure carnage. The avatar yelled once a harpoon punctured its shell. Black cracks quickly expanded from the corrupted wound.
+
+“YOU WILL DIE HERE, OUTLANDER! I WILL REND THE—”
+
+A wave of air centered on Sidjin blew outward. All traces of moisture were expelled at once, blood, water and… acid. The avatar was covered in its own spit in an instant. It screamed mournfully before dropping from its perch, Viv managing to Excalibur an entire tentacle.
+
+“Self-drying control,” Sidjin commented. “Oh, was I interrupting something?”
+
+“She was just about to leave.”
+
+“Good now please, the charging array.”
+
+“Right.”
+
+The protective runes were already weakening in her mana sight. Viv rushed to the cables and poured energy into it. The hull enchantment gulped it greedily.
+
+Meanwhile, the Beast submerged itself in water but once again, Sidjin just pointed towards its present location at all times. His perception was better than Viv’s to feel that blue mana in the middle of water. Captain Sil followed his direction, angling the Girl so the Beast could not hit them sideways. The next ramming attempt ended with a dull thud. Viv’s reserves took only a moderate hit and she was glad for the hours she’d spent making sure the protections would hold. A cry and a harpoon whistled through the air before landing on the retreating form of the avatar’s tail. It shivered from the damage though it didn’t seem too hampered. Viv could guess why though, especially with all the life mana the Beast was packing. It could regenerate.
+
+The witch focused on keeping the hull fed with power. Again, Octas rammed her borrowed body against the unrelenting hull and again, Viv held on. The harpoon crew had now landed every hit by waiting until the avatar attacked to fire with confidence on the unmoving and slightly dazed target. Strident screams and expletives reached Viv’s ears through the bellowed orders of the sailors. The ship shook but it held on. From her position near the center of the deck, Viv couldn’t see the attacks but she saw the tip of great waves crashing against unyielding wood, sending plumes of water as high as the sails. Sil remained at the helm, maneuvering Emeric’s Girl tightly. The ship seemed alive now, with monstrous amounts of mana coursing through its systems. It was a contest between sea monsters, both built to champion a vision. The witch refilled the hull’s enchantment again.
+
+Her vision would prevail.
+
+“Starboard!” Sidjin screamed.
+
+Once more, the ship lurched and the sails swept the deck as they crossed the winds. Sailors climbed the rigging to adjust or tense sails while roving bands of guards still patrolled the deck, waiting for the avatar’s inevitable return. The harpoon fired again and something screamed out of sight. She could see it in the manic grins of the men and women now: they finally believed they had a chance.
+
+“Faster!”
+
+“BRACE!”
+
+Viv gripped the charging port tightly while the sailors compensated for the next impact. Only a few guards stumbled. This time, however, the Beast didn’t leave. Soon, a grating sound traveled through the hull, a bit like a saw. The hull enchantments flickered. They were not designed to resist a sustained attack.
+
+“Can’t get a shot, ma’am,” the harpoon crew yelled.
+
+“Viv?” Sidjin said.
+
+The witch raced to her paramour who was busy casting something, something large. All the blue mana he had went into the construct.
+
+“I need to stay near the charger or the hull will fail.”
+
+“It will be breached. Trying to outlast the Beast is a losing strategy. We need to get to it.”
+
+“My spells won’t work through that much water.”
+
+“I know. I’ll open the way, but we need to be fast because I can’t contest control of the surrounding water with the Beast if she’s aware I’m trying. At least, she doesn’t seem very observant.”
+
+“If we have a small window, I can use the aspect of the destroyer.”
+
+“You must.”
+
+The problem was that the aspect of the destroyer required her to be unmoving relative to the earth and the ship was currently sailing at several knots, which meant that even activating the skill would make her fall off. The window would be short.
+
+“We levitate to the side, you activate the skill, I cast the spell and you give that thing the death it deserves. Ready?”
+
+“After you.”
+
+Viv and Sidjin levitated to the side where the Beast was at work. Below, cries of a hull breach reminded her she was working on a schedule. The pair of casters noticed the writhing shape of Octas’ avatar clinging to the side, then moved forward to get the right timing.
+
+“Whenever you’re ready,” Sidjin said.
+
+Viv adjusted her position. The ship was below and behind her. This would have to do. With a thought, she relaxed and let her anchor activate.
+
+The false wings on her back extended and dug down into the fabric of the world. Her motion stopped abruptly, giving her some small amount of whiplash but she’d been expecting it. Powerful mana flooded her body until she felt ready to burst.
+
+[Aspect of the Destroyer]
+
+Below, the Beast tensed. It was too late.
+
+“Parting the sea,” Sidjin said, his brow covered in sweat.
+
+The ship raced by them while below, the ocean opened. White, foamy water rose in twin walls like an opening curtain, revealing for the briefest of instants the thick dark shell and colorful body of the avatar. A muffled scream of outrage pierced through the stifling waves. Sidjin’s surprise attack met with the chimera’s absolute control and lost, but the opening was there and in that instant between instants, Viv took it.
+
+[Sequence: Astra, Astra, Hyperbeam]
+
+Viv carpet bombed every visible part of the avatar. A torrent of spells annihilated what was left of the water and the flesh underneath. Cataclysmic energies crashed through the surprised avatar’s defenses, opening great gashes along its body, revealing flesh squirming underneath. Blood and viscera flew up as the avatar lost its grip and plunged deeper to escape its death. Viv cut the skill as soon as the last of her barrage was off and half-collapsed into Sidjin’s waiting arms. It was still a difficult thing to control.
+
+“I.. I just need a moment.”
+
+“I know.”
+
+The archmage dragged her up with speed, and faster. Both of them were feeling it.
+
+Below them, a maelstrom of energies churned the waters. The boiling vortex intensified until there was enough energy to start a tidal wave. A low, rumbling warned them of the imminent danger. Viv’s danger sense screamed at her to dodge. She pointed towards a safe direction for Sidjin to carry her.
+
+The sea exploded. Large geysers shot all over the place. Vi managed to reactivate her levitation and the pair dodged left and right. Cold sweat and stress gripped Viv’s heart. The spray was so intense she was completely drenched. Saturated mana and the mist obscured her vision until all she could do was cling to Sidjin and rely on their instincts. Her shields would be useless here. Even if they survived, the pressure alone would send them careening across the sky.
+
+“Shit.”
+
+Something huge was coming. Viv accelerated even more. At this height, she could finally see the ship in the distance and the geysers, their efforts exhausted.
+
+The Beast took off from the sea with the largest column of water yet at its back. The nightmarish form surged towards them on a torrent, a shield already forming… and then the water dispersed.
+
+Viv watched the avatar’s face switch from triumphant rage to confusion. Someone was contesting her control over water and winning.
+
+“SKRAAAAA!”
+
+Water sprayed in every direction when Arthur raked the Beast with a torrent of fire. Its skin cracked and bubbled on an entire flank. The young dragoness latched on a side and raked it with violence, deepening ghastly wounds with every claw swipe. The Beast shuddered. A green cloud puffed out of its strange shape.
+
+“No, ARTHUR, GET OUT!”
+
+But it was too late. The dragoness cried in pain as she let go. Her left wing beat strangely. An expanding circle in the delicate membrane spoke of dire damage. Viv dived. She put all of her power into the descent. Arthur was struggling to stay afloat using gray mana. She latched onto Viv as the witch passed her by. A sharp pain told the witch where her daughter’s  nervous claws had latched on. Ok. She was fine. She was going to be fine. It was okay.
+
+Viv veered off towards the ship. That was where they had the advantage. Sidjin came after her, throwing large transparent spells in the path of water attacks.
+
+Mother!
+
+It hurtsssssss.
+
+“Clean it with water. DON’T TOUCH IT!”
+
+It itches!
+
+“Do not fucking touch it. Sidjin?”
+
+“Covering you, let’s go.”
+
+The dragoness was fucking heavy but Viv didn’t care. Fear propelled her forward towards safety while behind them, the screeching form of the avatar cleaved through the waves after them. Speed made her clothes flap in the wind and for the first time since turning part elemental, Viv was cold.
+
+“I WILL KILL YOU!”
+
+The two caster and the wounded dragoness landed on the deck a moment later. Arthur’s wing was now encased in a bubble of water suffused with life mana. The dragoness complained and hissed but Viv was just happy she was doing fine. They were all alive. For now. She’d never been so happy to have planks under her feet.
+
+“INCOMING!”
+
+Sil’s yells reminded Viv of what was at stake. Sidjin surged towards the ship’s controls but Arthur blocked Viv with a clawed hand and a grumble.
+
+I cannot fly properly like this.
+
+And you have only black mana.
+
+I will power the boat so it does not sink and we can make fire and eat the avatar.
+
+You go kill it first.
+
+“Are you sure?”
+
+Don’t let the tail fall in the water!
+
+It’s the best part!
+
+“Okay.”
+
+Viv raced to the railings and grabbed on. Emeric’s Girl was listing to the side. For a moment, she worried the avatar might finish the hull off but it was without counting on Octas’ absolutely unhinged nature. The Beast was crashing through the waves towards them in a flurry of bleeding limbs. Some embers still clung to its reddening, cracked shell. Thing was resilient.
+
+“Damn,” Viv whispered.
+
+Might have to use her training earlier than planned but that was alright. She grabbed her forged shield from her back and approached the edge of the deck, feeling only mildly confident. She’d practiced with Solar. It would have to do.
+
+“Everyone, hold on to something!” The captain yelled.
+
+With surprising speed given her tilt, Emeric’s Girl turned to face the incoming threat.
+
+“Full sails!”
+
+One moment, Viv was standing on her feet. The next, the sails flared with power, a mighty wind roared through its white canvas, tensing it with a sound like the crack of a whip. Viv slammed against the ground, rolling as Emeric’s Girl surged forward like a speeder. Around her, the sailors held on but the idiots who’d not heeded Sil’s words were sent sprawling across the deck. Viv recovered almost immediately and sprinted towards the front of the ship.
+
+There was a crunch when the prow hit the avatar head on. Its screams turned into incoherent yells of horror and fury, and Viv’s hope it would be enough faltered when bleeding tentacles latched on the deck, pulping an unfortunate sailor. The tendrils grappled with a strength that made the wood groan and crack ominously. The nightmarish face of the avatar soon followed. The fallen human was made even more monstrous by the wounds it had suffered, the black-infected gashes on its surface and the deep wounds, the burns, none of it slowed her down. Squads of temple guards attacked the tentacles where they landed, blocking the threshing with kite shields. Viv closed in just as the avatar’s human half cleared the railing. She got a real good look at the way its chest inflated as it breathed it. The effect would have been comical if it wasn’t so horrifying, any semblance of humanity turned grotesque and bulging, like a drowned dead. The mouth opened disproportionately.
+
+The ship’s self-drying activated but what came out wasn’t a cloud this time, but a highly concentrated stream of transparent liquid.
+
+Viv couldn’t let that hit the deck or it might burn through everything on the way down.
+
+“Aegis.”
+
+Viv stepped in the path of the spray, intercepting it with a layer of devouring void. Something hissed, though Viv wasn’t sure what it was. There was a lot of blue mana in that thing and she struggled to cancel it all. She couldn’t open gates here, or use most of her spells for fear of thrashing the ship. Good practice indeed.
+
+A warning screamed in her soul. Viv levitated up, above a sweep from a tentacle.
+
+“Excalibur.”
+
+She allowed the tentacle to slice itself on the blade. Solar was right. She had no need to sweep because the blade’s destructiveness did not rely on momentum. Red blood sprayed in her face, on her clothes. The metallic stench joined that of voided bowels and the tang of acid to add to the chaos. Viv shadow stepped forward to avoid another strike and cut another tentacle at the base. The avatar gave up on killing her to hoist itself on the deck with supreme effort. Its massive bulk pushed the temple guards away. The abomination managed to grab a few to fling overboard in the confusion despite Viv’s best efforts, then another limb grabbed the central mast before snapping it. It crashed down on the combatants behind Viv which added to the general chaos of battle. Meanwhile, Viv didn’t relent. Her mind burned with the effort of casting spell after spell in a flurry of attacks. It would have shredded a cavalry charge but the avatar was divine and it was incredibly resilient. Octas used her remaining claw to block those that did not rake the Beast’s flank.
+
+Viv grit her teeth. Any time now.
+
+With one last Astra, the claw finally fell off. Her opponent bellowed in agony.
+
+“YOU. PESKY. MORON! YOU COULD HAVE HAD IT ALL! YOU WERE A PERFECT VESSEL BUT NO, YOU HAD TO SERVE THE SHINY WEAKLING.”
+
+“I only serve ideas. People tend to disappoint.”
+
+“MORE QUIPS. MORE TONGUE-FLAPPING.”
+
+Viv stepped through the shadows to avoid another hit. The creature’s three free tentacles focused on her but it was an awkward battle. They were not meant to be used this way and the avatar was forced to use two more to stabilize its massive body, now a liability. Sailors and warriors attacked its flanks with axes now that it had sacrificed its mobility.
+
+Nevertheless, it was still an avatar. Even bleeding and dying, it was all Viv could do to stay ahead and dodge the multiple strikes coming her way. The creatures’ suckers were small but each was adorned by an inward-turned hook, a white boney thing that promised great pain. Viv retaliated with Excaliburs and nets thrown at minimal range. The creature was just too fast for her to do much else. Float up, travel through the shadows, strike, dive, block with her physical shield until the metal groaned. Rinse and repeat. The humans by her side were doing their best to assist but the Beast’s regeneration made the task difficult.
+
+“Make way,” a calm voice suddenly said.
+
+Viv didn’t need to be told twice. She moved backward then pushed a squad aside. The avatar turned to her in triumph. It opened its mouth wide again.
+
+It faltered.
+
+Sidjin’s blender spell screeched through the air. The avatar stopped what it was doing to call on water but the blue mana slid uselessly against the dense construct. Feeling the danger itself, she formed a water shield and pulled all of its remaining limbs between the spell and her core.
+
+The blender traveled through them with a ghastly sound like a chainsaw meeting rotten bark. The entire front castle was showered in gore, the screams of the dying avatar eclipsed by the continuous carnage. It was the opening Viv had been waiting for. She stepped in front of the bleeding form of the human torso. It was missing an arm, its scaly skin shredded and bleeding profusely.
+
+“I will see you… on the island.”
+
+“Guillotine.”
+
+A cage of black mana blades opened on the Beast’s ‘head’.
+
+It closed with a sound of seared flesh.
+
+For a moment, the avatar kept glaring, then the head of the beast fell as large cubes on the stained deck with a meaty splat.
+
+Danger Sense: Intermediate 7
+
+Shield Mastery: Intermediate 6
+
+Acuity-based reflexes: Intermediate 9
+
+Acuity +1 (45)
+
+Ascender: 2 / 5
+
+You have made a habit of meeting avatars in battle and living to tell the tale. You are now well-known among the gods, and they are observing your progress.
+
+Nothing like facing a goddamn incarnated deity to propel you to new heights, Viv thought as she breathed a sigh in relief. It was done. For now. Octas had made it clear they would meet again soon and this time, there would definitely be spiders.
+
+Your Huntress title has evolved into ‘Vive la Révolution’ thanks to repeated beheading attempts on dangerous targets.
+
+Your spells will be more effective when attacking the weak points of very powerful enemies.
+
+Enemies that are nominally stronger than you can experience terror.
+
+“Wait a minute. How do you know what the French revolution is?”
+
+Maradoc shared the content of your ‘hard drive’ with me.
+
+“Stop spying on my stuff! Ugh.”
+
+Perhaps the Vandal title should apply to Emeric-given appliances.
+
+“I am grateful for the chance to spread the ideals of democracy.”
+
+I thought so. Good luck, Outlander.
+
+Viv sighed, then she sat on part of the destroyed mast. Sidjin joined her a moment later with a satisfied expression. The two watched the result of their work in content silence while, around them, temple guards and sailors cried and cheered, hugging each other for having accomplished the impossible. A couple of minutes later, a flushed Captain Sil walked to them, her back straight and radiating confidence.
+
+“You did manage it. I dared not hope but you managed it. You killed a gods-cursed avatar. I can scarcely believe my eyes.”
+
+“Not our first time,” Viv said, though she wasn’t feeling as confident as she was projecting.
+
+“It was… talking to you. It remembered you!”
+
+“As I said, not the first time I faced an avatar of the dark gods in battle, though it was probably the most dangerous one. Octas doesn’t like civilization very much and my goal of returning the deadlands to human control runs against everything she stands for. It shouldn’t be a surprise that we butt heads.”
+
+“Butt heads? You… you are being far too casual. Almost blasphemous.”
+
+Viv dropped to her feet and took out her dagger. It was time to work.
+
+“What, errr, what are you doing?” the captain asked.
+
+By her side, Sidjin prepared a levitation spell, probably for easier access to the tail. There were damaged parts contaminated with black mana they would sadly have to excise.
+
+Viv approached the severed torso of the avatar and, with one swift Excalibur, cut off the animal head.
+
+“Oh just collecting a gift for a friend. Got to find a bag. Then it’s time to process the monster parts.”
+
+“What? But… this is… this is the body of a dark god!”
+
+“No, that part is the body of a human turned into an avatar, which we won’t touch. That’s an abyssal octopus—”
+
+“A juvenile,” Sidjin elaborated.
+
+“Yes, and that is some sort of giant lobster.”
+
+“A Perdition Gulf rock crusher. Adult. Female.”
+
+Viv waited for Sidjin to add twenty years old and gravid or something but he thankfully didn’t.
+
+“You two are… no wait! YOU INTEND TO EAT IT?”
+
+“Sure,” Viv said.
+
+“You are MAD! This carcass must be purified then burnt!”
+
+The captain was livid. Around them a few sailors and guards approached with worried glances.
+
+“You can purify and burn the human part and I’ll sanctify the lobster tail with my stomach,” Viv said.
+
+“I know this sounds mad, however I assure you that the monster parts are untainted. There are precedents. Giant spiders animated by divine mana have proven perfectly edible after the death of the avatar. It is a matter of public record,” Sidjin explained with a calm voice while picking large chunks of tentacles. “It would be criminal to let that mana-rich flesh go to waste, especially under the present circumstances.”
+
+“I will not allow my ship to turn into an avatar barbecue.”
+
+Viv and Sidjin exchange a glance, but it was a different voice that broke the status quo.
+
+You would refuse us, your saviors?
+
+All the attention turned to Arthur lounging lazily over the broken mast, one wing still looking a little raw.
+
+It would be a shame if I had to… provide the fires myself.
+
+The captain had one good look at the small fires still clinging to parts of the dead body despite having spent minutes fully immersed in blue mana. She gulped.
+
+On such a joyous occasion.
+
+Oh, and I was wounded while defending you.
+
+Her malevolent red eyes focused on Captain Sil with laser-like intensity.
+
+Are you insured?
+
+“I will have the braziers brought out for you. And have the cooks join you… but my people will stay away from this meat!”
+
+The captain turned around, but the dragon wasn’t done.
+
+And a crate of Helockian sweet fish sauce.
+
+Sil froze in her tracks.
+
+I know you have it.
+
+I smelled it in the front of the boat.
+
+Second layer from the top.
+
+Mother needs more food to grow wings.
+
+Do not stall me further, borgling.
+
+“I, errr, this was ordered by the quartermaster on Sardanal’s Cradle. It is not mine to share!”
+
+The quartermaster is not here.
+
+I am.
+
+“I’ll say it was lost in the battle,” Sil replied, dejectedly. “Is that all?”
+
+The reply was clearly meant to be sarcastic.
+
+“White wine,” Sidjin added.
+
+“And butter,” Viv added to honor her French ancestry. “Oh, and any citrussy fruit you might have.”
+
+“I’m going, I’m going!”

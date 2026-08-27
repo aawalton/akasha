@@ -1,0 +1,179 @@
+---
+id: ed68ec35-623e-501d-80c6-a57f0b2840a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 333 : Azulean"
+slug: 0034-chapter-333-azulean
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 34
+ownLength: 2225
+unit: words
+ownProgress: 2225
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2912795/chapter-333-azulean"
+royalRoadId: "2912795"
+markedReadAt: "2026-06-29T19:42:56.472Z"
+---
+
+As Vanessa led Sylvain around for a tour of the city, I spent my time examining the threats. I spent most of my time using [Identify] whenever possible and trying to gauge the strength of this mysterious monster race.
+
+Through hours of collecting information, I had a rough but decent idea of their power. Initially, I had assumed the mermen started at tier two, since Sybil was tier four and had two mutations. However, judging by the more youthful-looking mermen swimming about, I found out that they started at tier three.
+
+Yes, apparently, the mermen were spawned with a mutation right from the start! Although judging by the ones I saw, it appeared to be more a type of cast system for the monsters than an average mutation. The reason I called it that is that the names of these "mutations" sounded more like ranks or classes than what I'd encountered before: Prince, Princess, Knight, Peasant, Hag, and Siren.
+
+I could probably infer that there was a King and Queen, too, but what surprised me was that Siren appeared to be the rarest of the group, and the few I saw exclusively took Infiltrator for their tier four mutation. Speaking of Sirens, now that she was out of her disguise, I naturally inspected Vanessa too.
+
+<Vanessa; Mermen Siren Infiltrator [IV] LV 5; Drownblade LV 12. Elemental Affinity: Water.>
+
+Well, at least her name is actually Vanessa…
+
+Her levels were lower than Sybil's, but her class name was concerning, and I thought it might be an advanced class, given the low level. The name alone made me think it was some underwater assassin class.
+
+Speaking of classes, I didn't see a single basic class, which was a slightly concerning surprise. If they spawned with a mutation and an intermediate class, well, that just seemed downright unfair!
+
+What I did find interesting was that every mermen had a water affinity, and except for a single hag who had lightning, I never saw anything else. Of course, I could only see elemental affinities, so I had no idea what nefarious type of magic they might be hiding.
+
+Well, at least I haven't seen any warlocks. The Hags all seemed to be hydromancers or oracles.
+
+I was very wary of the unknown oracle class, but to my relief, I found out it was a healer class when one was healing a group of knights that had returned from defending the territory.
+
+As for the tour itself, it was alright. To be honest, I found the elven and dwarven cities far more impressive, while this had a notably more primitive vibe. It was far better than the kobold, orc, and goblin settlements, but still lacked the luxuries of a well-established city.
+
+If not for the wow factor of being an underwater city at the bottom of the ocean, I think I'd be highly disappointed.
+
+Going back to the unusual caste system the mermen were born into, I noted that Vanessa appeared to be highly respected. Every mermen we came across, even some princes and princesses, seemed to give her some level of reverence while she was smugly parading Sylvain around.
+
+The only exception was a prince mermen who happened to also have his second mutation. Vanessa seemed to cautiously treat him as an equal, when she had practically looked down upon almost everyone else.
+
+<Lusca; Abyssal Mermen Prince [IV] LV 15; Tidebreaker LV 22. Elemental Affinity: Water.>
+
+At first, I thought it might have been from the weird "Abyssal" mutation he had, but I saw almost all of the knights had this mutation too. If I had to hazard a guess, it was likely a mutation that allowed them to survive and thrive in the deep ocean entirely unhindered.
+
+Unfortunately, when he made his appearance, it looked like the end of my tour and enemy scouting opportunity.
+
+"Vanessa, why isn't this one collared yet?" Lusca asked in a demanding tone.
+
+"Sylvain here is new, I'm easing him into the family," Vanessa explained. "You can't rush these things."
+
+Lusca sneered with disgust. "I suggest taking him to the corral until he's properly tamed. Letting him wander about like this is a great risk. You know the rules."
+
+Vanessa rolled her eyes. "Fine, fine… Sorry, Sylvain, I'll have to show you more of Azulean later."
+
+Sylvain gave a reassuring smile. "It's alright. I don't want to get you into any trouble…"
+
+Vanessa smiled. "Thank you."
+
+Lusca appeared not to be convinced, as he made sure to escort both of us to the center of the city, the dry zone. The barrier preventing the water from entering allowed me to step through with no issue, and I dismissed my [Bubble].
+
+Vanessa and Lusca took a moment as their tails shifted and split into two scaled legs before following. Vanessa seemed annoyed by his insistence on accompanying us, but soon rushed over and clung to Sylvain.
+
+From there, we were escorted toward the center, which appeared like a strange mixture of a slum and noble quarters. I was confused by the appearance until I gazed into some of the homes and got what I thought was the answer. This was where the humans were kept.
+
+The "noble" houses had a mage living in them, while the slums appeared to have non-mages inside, who were in relatively poor condition and often lived multiple people per house. We were guided to an unoccupied house that seemed to be the bottom of the barrel of the noble houses.
+
+"This is where you will be living for a while… I hope that's okay," she said apologetically.
+
+"It's better than some of the inns I've stayed at," Sylvain replied jokingly.
+
+"Right, hand over your items," Lusca demanded, pointing at my robe and gear.
+
+What!?
+
+I was in a bit of a panic, as nothing Sylvain was "wearing" was actually real. In fact, the only "real" items I actually had were my stuff from acting as Sylthaeryn or Syl's adventurer armor. Everything Sylvain had, except for some deepstone I had kept hidden and his adventurer tag, was all slime!
+
+Yes, for all intents and purposes, it was "real" thanks to [Metal Slime] and [Chimeric Mimicry], and it was probably better than anything an average craftsman could put together. Plus, with enchanting, I had naturally thrown in plenty of reinforcements, so it truly appeared to be some terrific adventuring gear.
+
+My mind raced with a solution, with the obvious being to use the priming feature of [Nitro Slime]. However, doing that would set a time limit on my actions, as when the priming expired, the equipment would revert to its original formless state. That would blow my cover, so I would rather detonate everything moments before the time limit expired and use that as my moment to attack!
+
+But I want more time to plan!
+
+Even [Roleplay] didn't seem to have a solution to this predicament, and Sylvain seemed to freeze up. I was growing extremely concerned when, to my surprise, Vanessa came to the rescue and practically threw herself at Sylvain.
+
+"Lusca, how dare you? Sylvain here is our guest!" Vanessa replied dramatically.
+
+Lusca glared and opened his mouth to say something, but she interrupted.
+
+"Guests don't need to surrender their items. You should know better!" she continued, adding emphasis to her words as if trying to hint at something, but it was lost on me.
+
+Lusca was either just as lost as I was, or perhaps he got the hidden message, as he didn't say anything. Instead, he just stood there glaring.
+
+"Sylvain… I don't suppose you have any gifts on you?" Vanessa asked.
+
+I wasn't sure, but I could've sworn there was a bit of panic in her eyes and worry in her tone. Although weirdly, I couldn't tell if the source of her panic was due to Sylvain or Lusca.
+
+"Gifts?" Sylvain asked, tilting his head.
+
+Vanessa nodded. "It can be anything… Even something small. I just want everyone to see your worth. Trust me."
+
+Sylvain seemed to pause again and then began to scratch the back of his head as if mulling over his decision.
+
+Uhh… damn it, is this up to me? What can I give that won't ruin the cover?
+
+The obvious solution would be to give more deepstone, but that would likely break Vanessa's trust, as she thought she got all of Sylvain's materials. I also refused to offer anything from the elves as it was either too valuable or couldn't be explained—like Sylthaeryn's countless dresses.
+
+No, I need something that, even if it returns to slime, shouldn't matter... Ah! Potions!
+
+Using my [Core Storage] workers, I quickly produced about a dozen potions, a mixture of healing and Mana. [Roleplay] must have understood my intent, as it started handing them over to Vanessa.
+
+The bottles were slime as I didn't have any real glass on me, so I had given them the appearance of being frail and old. This way, I figured the mermen would either transfer them or use them, and if they "broke," well, that was their fault.
+
+"Are these okay as gifts?" Sylvain asked.
+
+Vanessa and Lusca were staring intently, with the latter's stern gaze having been broken. Instead, I caught what I assumed was greed in his eyes.
+
+"Yes, these are wonderful, thank you, dear," Vanessa said, kissing Sylvain on the cheek.
+
+Lusca frowned. "Vanessa, these—"
+
+"Are wonderful gifts!" Vanessa interrupted. "Won't you help me carry them?"
+
+Lusca seemed reluctant, but eventually nodded.
+
+"Sylvain, are you okay with staying here for a bit?" Vanessa asked, fluttering her eyes at him. "I promise I'll be back soon. Perhaps you can introduce yourself to the others staying here?"
+
+"Of course. Just… don't leave me for too long," Sylvain replied sorrowfully.
+
+Vanessa promised to be back as soon as possible and then left after shoving some of the potions into Lusca's grasp. I noted she was being extremely rough with him and was practically pushing him away from me as quickly as possible.
+
+That's interesting… but at least I've bought some time to investigate and prepare. I think my maximum [Nitro Slime] time is just over a day, which isn't enough for me to feel safe.
+
+When the two mermen crossed the water divine, I turned off [Roleplay], once again being the master of my own body. I couldn't help but sigh, wishing I could just blob out and relax, but sadly, that looked far away.
+
+Seriously, what have I gotten myself into…
+
+***
+
+"Vanessa, why are you blatantly breaking the rules!?" Lusca demanded.
+
+"Look, you idiot, do not ruin this opportunity for me!" Vanessa snapped, poking him directly in the chest.
+
+"But—"
+
+"No buts, listen!" she interrupted. "Sylvain is one of the most powerful mages I've come across. Do you know what an opportunity this is for me, for all of us?"
+
+Lusca snorted. "Is he that big of a deal? He had a high level for a human, but…"
+
+"Yes! He's my one!" Vanessa declared.
+
+Lusca sighed. Now he knew that no matter what he or anyone said, there would be nothing changing her opinion. Vanessa, like all sirens, had one overwhelming desire that only grew stronger the more they progressed—to find the one.
+
+Once a siren found the one for them, they would try to bind them to them permanently, no matter what. Regardless of outcome, they would refuse to use [Beguile] on anyone else, effectively swearing themselves to be loyal only to their one.
+
+If they succeeded, the siren and her target would be a powerful force, practically joined at the hip and sharing in might and goals. If they failed, however, the siren would become effectively useless. Not only would they not have the power of [Beguile], but they would go through various stages of melancholy and madness.
+
+Sirens were very rare spawns, and their innate ability was powerful, arguably the strongest of all mermen. If the King or Queen had any control over it, they would prevent sirens from ever choosing their one, as it always had risks. Unfortunately for them, even a siren with the strongest of wills would ultimately succumb.
+
+"Can you even control him?" Lusca asked.
+
+"I just need some time. He's been a tough nut to crack, but I'm so close. It'll be worth it, trust me!" Vanessa said, a hint of almost madness in her eyes.
+
+Lusca looked at the potions that were "gifted" and couldn't help but feel a greed bubbling up inside of him. Not only were potions extremely rare, as they had no alchemists, but from what he could tell, there was a powerful aura to these potions!
+
+"What about his items?" Lusca asked, licking his lips.
+
+"I'll keep asking for gifts," Vanessa answered. "Eventually, he will throw everything at me."
+
+Lusca nodded, realizing it was better to be patient and get the treasures than risk this human breaking free.
+
+"However, once he's mine, I will want it back!" Vanessa declared. "I'll let you keep some trinkets, but I won't have you defanging my one with your greed!"
+
+Lusca nodded while secretly sneering to himself. While the situation was volatile, she might get her way, but once things were settled, he knew that she wouldn't be able to get her way. After all, he felt like this human had lots of treasures, and princes never liked to share.

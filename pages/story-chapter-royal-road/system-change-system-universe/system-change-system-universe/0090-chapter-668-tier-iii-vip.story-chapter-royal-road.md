@@ -1,0 +1,163 @@
+---
+id: 186acd23-0606-599f-910a-a299731019ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 668: Tier III VIP"
+slug: 0090-chapter-668-tier-iii-vip
+partOf: system-change-system-universe
+position: 90
+ownLength: 2206
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3708521/chapter-668-tier-iii-vip"
+royalRoadId: "3708521"
+---
+
+Chapter 668: Tier III VIP
+
+"Nice fellow," Derek whispered to Alex as they walked down the hall after exiting the room with the hall master.
+
+"No... no, he is not," Alex said as he shook his head and shivered. "Hall Master Sheen is not a 'nice fellow.' He is not a 'nice fellow' at all."
+
+"Oh? Why is that?" Derek asked.
+
+"Not here..." Alex sighed. "Let's just get out of this place and head back to my family's estate, please. We can talk about what just happened later. I need to let my father and siblings know that I'm still alive."
+
+"If that's what you want." Derek shrugged and continued walking beside Alex.
+
+They weren't in such a rush to go down the hall again, so Alex let Derek walk slower than last time and really examine his surroundings. Once again, he was impressed by all the portraits, books, and crystals in the hall. "It's still really cool that all of this is kept here for the upcoming generations to use."
+
+"It's not like we're the only clan that does it," Alex replied. "Pretty much every clan has some kind of place dedicated to previous generations."
+
+"Still," Derek replied with another shrug. "The fact that he let Captain Hawthorne—a guard in your family—use it as a reward was nice."
+
+"Yeah," Alex replied with a nod. "We do treat our people well. I will give that to the main branch. Many of the guards or servants are treated just as well, if not better, than some of the heirs to the branches."
+
+"That makes sense," Derek said. "The members of the family shouldn't have everything handed to them. They need to sharpen themselves somehow. And as for the servants... well, you don't want to find poison in your coffee... that's never fun. You also want to keep the guards happy so they don't give away important secrets or find ways to help out rival clans. As we just saw with your escort—there is always a loophole."
+
+"Exactly," Alex replied as he opened the door and they stepped back into the main lobby. The clerk motioned them over with a hand, and they walked up to the counter. When they reached the counter, the clerk reached out a hand with a bracelet in it.
+
+"Take this," she said with a bright smile. "The bracelet has been updated with your information now that you are no longer dead. Your ranking in the clan and access to available information and the like have also been updated. As for the reward for removing from the universe the scourge that is a Grimshaw Clan member, you may make a formal request in writing through your new bracelet, or head over to the Hall of Rewards and request it in person. Personally, you're more likely to receive what you wish if you do so in writing, so keep that in mind. Though, the request and decision will probably take longer."
+
+"Thank you," Alex said as he nodded his head and clicked the bracelet around his wrist.
+
+"It is my pleasure, Young Lord." The clerk beamed a smile. After that, she turned to Derek, and her friendly demeanor changed to one of almost reverence. She held out a badge not unlike the one he wore a long time ago for the Adventurer's Guild. It was blue and white and had the clan's crest on it.
+
+"What's this?" Derek asked as he reached out and took the badge from the woman.
+
+"This is a Tier III VIP Badge," the lady answered with a gulp. She added, "Given only to the most valued guests of the clan. There are only two tiers above it, and they are reserved for Ascendants and Transcendents, respectively."
+
+"Tier III is the highest tier someone who hasn't reached Ascendant rank can obtain in our clan," Alex explained as he looked at the badge with a sparkle in his eyes. "Are you sure that Hall Master Sheen meant to assign my friend a Tier III VIP Badge and not a Tier V or VI VIP Badge?" he asked.
+
+"I am certain," the clerk said, then pointed at the holo screen in front of her. "Hall Master Sheen even made a note that clarifies Mr. Hunt's status in the clan."
+
+"Oh..." Alex replied. He didn't say anything else to her. He looked at the badge in Derek's hand and then said, "You should put that on and wear it at all times. You're going to get a ton of looks, but not many people will bother you, at least. I still think a Tier V badge would have been better. Then you wouldn't get all the attention that you're going to get, and people wouldn't bother you. It's the best of both worlds."
+
+"Well... as long as I don't have to worry about any more interrogating," Derek replied and stuck the badge to his shoulder, then moved his arm. "That work?" he asked.
+
+"That's fine for now," Alex replied. "We can get you some more acceptable clothing once we get back to our estate. You can't be walking around in your armor at all times."
+
+"I have plenty of clothes," Derek replied. "I'll change when we get there."
+
+"It will at least make you stand out a little less," Alex replied with a nod. Then he looked at the clerk. "Is there anything else we need to do, or can I go let my family know that I'm not actually dead?"
+
+"You are free to go," the lady replied. "You two take care, and... Mr. Hunt..."
+
+"Yeah?"
+
+"If there is anything you need..." she clicked away on her bracelet, then reached out before confusion crossed her face and she looked at Derek's wrist. "Oh... no. What happened to your bracelet?"
+
+Derek held his wrist with his storage bracelet from the old Universal System up, then tapped his fingernail on the broken screen. "Oh, sorry. Mine is a bit of an antique, and I haven't had the time lately to get a new one."
+
+"I see..." The woman nodded, then flicked her hand over her wrist. A beep echoed from Alex's new bracelet. "Now the Young Lord has my information. You may enter it into your bracelet if you choose to get a new one while you are here, and you may contact me anytime you need anything. It will be my pleasure to help you."
+
+"I'll keep that in mind," Derek replied. "Thank you." The woman nodded after that, then Derek and Alex turned to leave.
+
+"Aaand... that's one," Alex chuckled as they walked out the door and back outside.
+
+"One?" Derek asked.
+
+"The first person to try to give you their contact information because of that badge you're wearing," Alex replied. "It is certainly not going to be the last, either."
+
+"Good thing I don't have one of those communication bracelets," Derek said with a chuckle. "Or should I say, good thing mine is broken and only the storage function still works on it."
+
+"Just say the word, and I can get you a new one. You will just have to register it at a system node or shop," Alex replied.
+
+"I think I'll get one directly from the system if I can do that," Derek replied. "It's not that I don't trust you or your clan not to tamper with anything like that... it's just that... I don't trust any clan not to tamper with something like that."
+
+"It's probably for the best," Alex replied. "It won't have all the extra 'features' that I'm sure the one I'm wearing now has."
+
+"Features? Like tracking or listening to conversations?" Derek asked with a chuckle.
+
+"This is an Origin System-approved one, so it won't have any listening concerns in it, at least. But yes, while I am in this city, I'm sure they can easily use it to track me. But the Origin System limits range on everything, so once I leave the city... or at least the planet, I don't have to worry about that."
+
+"I see," Derek replied. "And how far does the communication range reach?" He asked because it was something he had never known before. He never really used his bracelet as a communication device either—he didn't really have anyone he wanted to communicate with.
+
+"They have some pretty decent range," Alex said. He lifted his wrist. "This is a better model than my last one. It should be able to cover the majority of our galaxy—maybe a little further."
+
+"What about one that can cover the entire universe?" Derek asked.
+
+"You're joking, right?" Alex snorted.
+
+"No?"
+
+"It's the same as with life stones and stuff of that nature," Alex replied. "We don't use those because they become useless at a certain distance from the connected stone. Not even the Origin System has covered the entire universe, so how can something created through means from it cover more than it does?"
+
+"What about the entire System Universe?" Derek asked.
+
+"Nope," Alex replied. "The only way to send a message from one side of the System Universe to the other would be through a major system node. And it still would take a while to receive."
+
+"I see," Derek replied. "What about skills?"
+
+"Actually," Alex replied with his hand on his chin, "there are some Ascendants with certain advanced telepathy skills out there who could probably cover the same distance—if not a little further—than the best personal communication devices. And... it would be more secure. But still nowhere near the distance of the entire Origin System."
+
+"I got you," Derek replied. So, there are basically areas where even communication devices will get no service. "So, if your device covers a galaxy, but your friend is in a galaxy next to your own, will you be able to communicate because the signals overlap a bit, or do the signals have to overlap with the device itself? And if that works, what about relays?"
+
+"Are you trying to build your own clan or something?" Alex asked, his eyes suspicious. "Why would you need to know any of that?"
+
+"I mean... who knows? I may have a lot of time to work with, so why not find out how communication works?" Derek asked.
+
+"Fair enough," Alex replied. "You can cover a few galaxies' worth of distance before even the relays stop working," he explained. "Instant communication across the entire Origin System would just make things too easy, and the Origin System doesn't like anything being too easy. It wants strong system users, so it keeps certain restraints active."
+
+"I see..." Derek replied. It made sense. If things get too easy, people will become complacent and not grow as the systems want.
+
+"Now, one thing that it would allow would be a people relay," Alex replied.
+
+"What do you mean?"
+
+"Like, if a few dozen Ascendants got together within the radius of the next and the next, and so on... a message could be sent from one side of the Origin System to the other side in just a few hours. The only thing you have to worry about there is user error," Alex explained.
+
+"So, like... the original message and the final message being completely different because of all the people it has to pass through?" Derek asked.
+
+"Exactly!" Alex answered.
+
+"Yeah, I can see that being a problem," Derek replied.
+
+"Yeah," Alex said with a nod. "Any more questions about Origin System communication?" he asked. He was the only one around who knew where Derek was really from, so the young man was being very helpful and patient.
+
+"Not for now," Derek replied. "I think I understand things there," he said. "But how about you tell me what you meant about the hall master back there? Why do you say that he isn't a 'nice fellow?'"
+
+"Because he's probably killed more people than any other Ascendant in the clan, and he's done it all with that creepy smile on his face," Alex replied. "Becoming a hall master was a punishment for him, after all. Everyone knows not to mess with Grinning Sheen."
+
+"But he seemed so genuine," Derek replied.
+
+"Well... I mean... he is genuine..." Alex replied. "He's just as genuine when he is slicing an enemy's head off."
+
+"Did his enemies deserve death?" Derek asked.
+
+"If you ask the majority of the clan... yeah... probably," Alex replied.
+
+"And the reason for his punishment?" Derek asked.
+
+"Not sure," Alex replied. "There are tons of rumors about him killing someone he shouldn't have. But nobody knows who."
+
+"Oh," Derek replied with a shrug. "I don't really see the problem. I guess that is why he liked my answer when I told him I had no qualms against killing someone who crossed me or someone I cared about?"
+
+"To say the least," Alex replied with a chuckle. "Pretty much the same stance that he has."
+
+"Oh, then I'm good," Derek replied. "I read him right. He's just a bit eccentric. I'm pretty good with eccentric."
+
+"Yeah, because you are eccentric," Alex replied, then they stopped walking.
+
+Derek had been paying more attention to his conversation than his surroundings, so he was surprised when Alex suddenly halted. "What is it?" he asked.
+
+"We... I'm home."

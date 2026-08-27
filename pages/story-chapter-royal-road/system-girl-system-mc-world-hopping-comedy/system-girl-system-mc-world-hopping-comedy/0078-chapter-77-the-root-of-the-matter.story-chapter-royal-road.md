@@ -1,0 +1,241 @@
+---
+id: 115be302-fc41-51b2-bf76-8b82c816c1a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77: The Root of the Matter"
+slug: 0078-chapter-77-the-root-of-the-matter
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 78
+ownLength: 2759
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3391535/chapter-77-the-root-of-the-matter"
+royalRoadId: "3391535"
+---
+
+The morning sun hit the garden of the Fenris estate, casting long, golden shadows across the freshly cut grass. But the peace of the morning was shattered by a sound that struck terror into the hearts of everyone present.
+
+Lily was screaming.
+
+It wasn't a cry of pain or hunger. It was the high-pitched, frustrated squeal of a toddler who had decided, unequivocally, that she did not like her new aunt.
+
+"Come back, little apprentice!" Parisa shouted, her voice booming across the lawn. The decorated battlemage, a hero of the northern front, was currently sprinting past the rosebushes, holding a doll that looked like it had survived a house fire.
+
+"Na!" Lily shrieked, her chubby legs pumping furiously as she toddled as fast as she could toward the safety of the back porch.
+
+Ren stood on the veranda, sipping his coffee, watching the pursuit with a mixture of amusement and exhaustion.
+
+[Ana: That doll is nightmare fuel. Did she buy it from a cursed antique shop? It has button eyes that follow you. I feel like it's trying to steal my soul, and I don't even have a corporeal form.]
+
+"Apparently, children's toys in Dolaria lean heavily toward the 'creepy heirloom' aesthetic," Ren murmured into his mug. "In my world, horror movies were banned because the government deemed them harmful to mental health. That doll would have been classified as a biohazard."
+
+[Ana: I’m starting to think your dystopian, paste-eating society had a few good ideas. That thing is going to haunt my cache.]
+
+"I can't blame Lily," Ren said, puffing his chest out slightly. "I've been buying her plushies from the System Shop. Soft, fuzzy, non-cursed animals. I've spoiled her. A normal kid in this world might be thrilled with a burlap sack with eyes drawn on it, but not my daughter. She has standards."
+
+Lily finally reached the porch. She didn't stop running until she crashed into Mira's legs, burying her face in the maid's apron.
+
+Mira immediately scooped the baby up, casting a withering glare over her shoulder at the approaching battlemage.
+
+Parisa slid to a halt, panting slightly, holding out the terrifying doll. "She just needs to get used to it! It builds character!"
+
+"She needs space, My Lady," Mira said, her voice tight with strained politeness. "She warms up to people on her own time. Forcing the issue is only building resentment."
+
+From the shadows near the porch, Kaelthos stepped forward. The stoic warrior crossed his arms, positioning himself deliberately between Parisa and the maid. His hand rested casually near the hilt of his sword.
+
+Right now, Kaelthos looked entirely ready to throw down with a State-sanctioned battlemage if she took one more step toward his tiny liege.
+
+[Ana: Your estate is turning into a magnet for eccentric, heavily armed weirdos. You have a battle maniac trying to force affection, a warrior who hoards pebbles, and a dwarf who used to sleep with a kitchen knife. You need to introduce some normalcy into this kid's life.]
+
+"You're right," Ren thought, walking down the steps to intervene before Kaelthos started a diplomatic incident. "I need that tutor for Lily. Someone calm. Someone boring."
+
+He turned to Sylas, who was standing nearby, watching the chaos with his usual impassive expression.
+
+"Sylas," Ren asked. "Who is the best elven teacher in the kingdom?"
+
+Sylas adjusted his glasses. He didn't even have to think about it. "That would be Caladorel the Absent-Minded, My Lord."
+
+"Why is he called the Absent-Minded?"
+
+"He is the most decorated magical researcher and scholar in the lands," Sylas explained. "He is also the oldest living elf on the continent. Well over three thousand years old. His mind... wanders. He forgets to eat, sleep, and occasionally, where he is."
+
+Sylas paused, his expression turning grave. "But do not let the moniker fool you. In his youth, he was known as Caladorel the Arsenal Magus. He knew a spell for every conceivable situation. He and Lady Parisa are considered the two magical pillars of the nation. And their disdain for one another is thoroughly documented."
+
+Ren raised an eyebrow. "Rivals?"
+
+"Ideological opposites," Sylas corrected. "She views magic as a deterrent, a weapon to kill. He views it as a tool to create, a subject of pure study." Sylas glanced toward the lawn, where Parisa was currently trying to convince Kaelthos to spar with her. "He is calm, collected, and deeply pacifistic."
+
+Ren rubbed his chin. An ancient, pacifist scholar who hated Parisa’s methods. He sounded perfect.
+
+"How do we hire him?" Ren asked.
+
+Sylas cleared his throat, a sound of mild discomfort. "It is... highly improbable, Master. He has not taken a student in over a thousand years. He only accepts requests from the King, and even then, rarely."
+
+"What motivates him? Loyalty to the crown? Gold?"
+
+"He is loyal only to magic and history," Sylas said. "He is driven entirely by scholarly curiosity. He pursues knowledge to the exclusion of all else."
+
+Ren smiled. He had an idea.
+
+"Sylas," Ren said. "I have a task for you."
+
+…
+
+The Mages' Guild in the capital was a sprawling complex of soaring towers and glowing archways. Sylas navigated the polished marble corridors with the brisk, invisible efficiency of a master butler.
+
+He bypassed the busy reception desks and the training halls, heading straight for the Archive Wing—a quiet, dusty section of the guild that most young mages avoided.
+
+He found Caladorel deep in the stacks.
+
+The ancient elf looked like a stiff breeze might knock him over. He was frail, his skin like translucent parchment, his silver hair thin and wispy. He was hunched over a massive, crumbling tome, muttering to himself and ignoring the stack of unread messages next to his elbow.
+
+Sylas approached respectfully. "Master Caladorel?"
+
+The old elf didn't look up. "Busy. Leave the missive. I will ignore it shortly."
+
+Sylas didn't leave. He employed the tactic Ren had explicitly outlined for him.
+
+"I come on behalf of Lord Ren Fenris," Sylas said, keeping his voice level. "He is seeking a tutor for his daughter. Lady Parisa recently offered to take the child as her personal apprentice."
+
+Caladorel’s pen stopped scratching. The ancient elf slowly lifted his head. His eyes, milky white with age, snapped to Sylas.
+
+"Parisa?" Caladorel scoffed, his voice dry as dust. "That warmongering child? She wants a student? She'll turn the poor girl into a blunt instrument."
+
+"Lord Fenris shares your concerns," Sylas continued smoothly. "He rejected her offer. He desires a mentor of profound wisdom and scholarly pursuit. Someone who appreciates the art of magic, not just its destructive application."
+
+Caladorel looked interested, but still hesitant. "Flattery. I have no time for children. I am trying to decipher a pre-Imperial runic matrix."
+
+Sylas played the trump card. "That is unfortunate. Lady Parisa was quite insistent. She claims the young lady is a magical prodigy. She stated, publicly, that the child possesses a latent mana reserve that dwarfs even her own."
+
+The ancient elf went perfectly still.
+
+Parisa was a half-elf with one of the most absurd, volatile mana capacities recorded in modern history. For her to admit that a toddler possessed more raw power than she did... it was an impossible statement. It defied magical theory.
+
+The spark of pure, unadulterated academic curiosity ignited in Caladorel’s ancient eyes.
+
+"More than Parisa?" he whispered. He slowly closed his book. "I... I suppose I could spare an hour. A single meeting. To verify these ridiculous claims. I make no promises regarding tutelage."
+
+"Of course, Master Caladorel," Sylas bowed smoothly. "We ask for nothing more than an evaluation."
+
+…
+
+Caladorel arrived at the Fenris estate the next morning, expecting the usual, gaudy display of new nobility. He prepared himself to endure marble statues of the owner, tacky gold trimmings, and the oppressive, sterile atmosphere of a human Lord's manor.
+
+He stepped out of his carriage and stopped.
+
+He was standing at the edge of a vibrant, living ecosystem.
+
+He looked past the newly constructed inn, and his gaze fell upon the forest. It was a full-blown elven village. Not the miserable, cramped concentration camps the nobles passed off as 'servant quarters', but an authentic settlement. Small, cozy huts nestled at the base of the massive oaks. Elegant treehouses connected by swaying rope bridges.
+
+The air hummed with a pure, chaotic energy. Even the nature spirits had moved closer, weaving their light through the branches.
+
+Caladorel felt a strange, tight ache in his chest. His elven heart found an unexpected peace in this scene. It reminded him of the stories his grandfather had told him, tales of a time before the human conquest, when the mighty High Elves shielded their kin and gave them places like this to simply be.
+
+He gripped his wooden cane tighter and continued his walk.
+
+As he approached the main house, he passed the central garden. He saw the massive black marble statue of the Fenrir. But what truly caught his attention was the ground around it.
+
+The old man stopped. He slowly, painfully lowered himself to one knee and picked up a pinch of soil. He crumbled it between his fingers, bringing it to his nose.
+
+His eyes widened in shock.
+
+The plants growing around the statue... they were all magical herbs. Rare variants. Moon-blossoms, Sun-root, Star-grass. And they hadn't been transplanted here. He could feel the resonance in the dirt. They were growing naturally, their roots feeding off a massive, localized source of ambient mana buried deep beneath the statue.
+
+This was a treasure trove. A localized mana-spring of impossible potency.
+
+"Fascinating," Caladorel breathed.
+
+He finally made his way up the steps to the main house. The heavy wooden doors to the study swung open.
+
+He saw an elegant human nobleman sitting at a large oak desk, reviewing ledgers.
+
+And sitting on the floor nearby, playing with a set of innovative geometric stacking blocks, was a toddler.
+
+Caladorel leaned on his cane. He wasn't impressed initially. The girl looked like a normal human child. Silver hair, bright blue eyes. Nothing extraordinary.
+
+He began to walk toward the desk to greet the Lord.
+
+As he passed within ten feet of the little girl, his knees simply gave out.
+
+His cane slipped from his grasp, clattering loudly against the wooden floor. Caladorel fell, catching himself hard on his hands and knees.
+
+He didn't try to get up. He couldn't.
+
+He stared at the little girl playing with the blocks. His breath caught in his throat. His ancient, milky eyes went wide with an astonishment so profound it bordered on terror.
+
+Sylas, who had been standing quietly by the door, immediately rushed forward to help the elderly mage.
+
+"Sylas, wait," Ren commanded, holding up a hand. "Mira, Sylas, leave us. Please."
+
+Mira, who had been organizing books on a shelf, looked confused but bowed and quickly exited the room, closing the heavy doors behind her.
+
+[Ana: Your hunch was right. The old man is completely overwhelmed. Look at his face. He knows she isn't a half-elf. He feels the aura. You're taking a massive gamble here, Ren.]
+
+"Better to have this happen in a controlled environment," Ren thought back, keeping his expression neutral. "Rather than accidentally out in public. Plus, he's an elf. The blood bond will kick in. He can never bring harm to Lily."
+
+Ren stood up, walked around the desk, and gently hauled the trembling ancient elf to his feet, guiding him to a plush chair.
+
+Caladorel didn't resist. He sat down heavily, his eyes never leaving Lily. He stared at her as if he had finally found the answer to a question he had been researching for his entire three-thousand-year life.
+
+Lily, on the other hand, got bored with her blocks. She looked up, saw Ren, and immediately abandoned her architecture project.
+
+"Up-sies!" she demanded in her cute, babbling tone, reaching her arms up.
+
+Ren smiled, scooping her up and placing her gently on his desk. He handed her some crayons and a piece of scrap paper, effectively placing the most dangerous being on the continent right in front of the stunned scholar.
+
+It took Caladorel several long minutes to find his voice.
+
+"How..." the old man rasped, his voice trembling. "No... where did you find her? I have spent my whole life... my entire existence... trying to find a way to bring them back. I thought I would die before... the Kingdom made certain they could never return. How?"
+
+Ren kept his face a mask of polite confusion. He was certain the old man knew exactly what Lily was, but this was a golden opportunity to probe for information.
+
+"I don't know what you are talking about, Master Caladorel," Ren said smoothly. "This is my daughter."
+
+"Do not lie to me, human," Caladorel spat, a sudden, fierce energy cutting through his frailty. "I have lived for three thousand years. I have encountered the aura of every kind of elf and half-elf on this continent. Someone young and ignorant might mistake her for a half-blood because of the rounded ears, but she is not. Now answer me. How?"
+
+"As I said," Ren repeated firmly. "She is my daughter. My flesh and blood."
+
+The old man became exasperated. "Very well. I will perform a blood resonance spell. You are clearly a human, and she is clearly..." He stopped himself, refusing to say the words out loud, as if speaking them would wake him from this impossible dream.
+
+Ren leaned back in his chair. "Go ahead."
+
+He was curious himself. He planned to let the man perform the spell, let it fail to show a connection, and then explain that she was adopted. It was the perfect segue into asking the scholar exactly what he knew about High Elves.
+
+Caladorel pulled a small, glowing crystal from his robes. He chanted a complex string of archaic words. A soft, blue light pulsed from the crystal, washing over Ren, and then over Lily.
+
+The light shifted, turning a deep, vibrant crimson. A thin, magical thread of red light visibly connected Ren's chest to Lily's.
+
+Caladorel stared at the thread. He dropped the crystal.
+
+He performed the spell again. He performed three other, increasingly complex diagnostic spells, his hands moving with frantic speed.
+
+The results were the same.
+
+The old man slumped back in his chair, looking utterly baffled.
+
+It was Ren's turn to be shocked.
+
+"It appears you are telling the truth," Caladorel whispered, his voice laced with profound confusion. "She is your child. The blood bond is undeniable."
+
+Ren tried to play it cool. He thought instantly of the magical necklace hiding under Lily's collar.
+
+"Are you certain?" Ren probed carefully. "Could it be... an illusion? A magical trinket disguising her true nature?"
+
+The old man shook his head slowly. "I saw through that cloaking pendant the moment I walked in. Even that cannot fool the spells I just used. I checked the cellular structure. I checked the soul-binding resonance. There is no doubt. You are her biological father."
+
+Caladorel leaned forward, his eyes boring into Ren. "But that is not the most baffling part. The spells... they indicate she only has a single parentage. Your genetic markers are the only ones present."
+
+Ren froze.
+
+"Wait," Caladorel muttered, his ancient mind racing, putting pieces together. "The only way that is possible... the only way a child can be born from a single source and possess that specific aura... is if a World Tree was involved in her conception."
+
+The old man looked at Ren, terror and awe warring on his face. "But there are no more World Trees on this globe. I have researched this for centuries. They were burned during the conquest. Then... how?"
+
+Ren sat perfectly still. The world seemed to tilt slightly on its axis.
+
+He had wanted to probe the old man for information. He had wanted to play a clever game of chess.
+
+Instead, he had just been slammed with the reality that the baby he had found in a basket in the woods wasn't adopted. She was his biological daughter. A clone? A magical, immaculate conception?
+
+And she only had one parent. Him.
+
+I sat in the silence of my own mind, feeling the digital equivalent of a massive, migraine-inducing panic attack coming on. First, Korgi turns up with a "Spirit-Touched" tag that required a connection to a World Tree, and now Lily—a biological impossibility—needs one to even exist? Where is this damn tree? It's like I'm standing right in the middle of the forest and I can't see the leaves.

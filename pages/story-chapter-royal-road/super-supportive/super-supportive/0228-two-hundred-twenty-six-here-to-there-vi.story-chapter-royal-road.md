@@ -1,0 +1,239 @@
+---
+id: 95f28c1f-8f80-5c3d-97e5-8dace42ead0a
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-SIX: Here-to-There VI"
+slug: 0228-two-hundred-twenty-six-here-to-there-vi
+partOf: super-supportive
+position: 228
+ownLength: 3377
+unit: words
+publishedAt: 2025-06-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2385959/two-hundred-twenty-six-here-to-there-vi"
+royalRoadId: "2385959"
+---
+
+226
+
+******
+
+The impact of the bokabv demon’s body shook the ground, and its cry of rage—or was it agony?—shook the air. Dirt fountained up as it rolled. Alden had gotten the rope in front of the beast just in time, and now his second shield was already covering them as he grabbed Kibby by the back of her shirt and tossed her through the open door of the car.
+
+“Turn it on! Turn—!”
+
+Something slammed into him—like a diseased wave, it broke against the thin foam shield he’d prepared before they left the lab. Shaped like a turtle shell, large but very light. It had seen use as a laundry tub a couple of times, but nothing like this.
+
+They were supposed to be out of the chaos now.
+
+He watched the grass warp near his feet. Kibby screeched as the car rocked, threatening to tip. Alden’s shield had taken the worst of the blow, but it wasn’t large enough to protect the whole vehicle.
+
+Kibby was punching buttons. He jumped into the car, still holding the shield through the open door in case their enemy…no. The demon wasn’t coming. Not yet. He could see the grotesquely transformed bokabv through the car’s exterior camera system as the screen switched on. It was still down, screaming and struggling to rise. That wave had only been the chaos associated with its charge.
+
+Drive. He slammed his hand into the control panel, and they shot forward.
+
+It can’t chase us now. I hurt it bad with that trip line. It just doesn’t quite know it’s dead yet.
+
+The demon’s next scream, as they barreled away from it, was so pained it made his stomach clench.
+
+He didn’t know why the sound made him think of an Artonan girl, a young woman, carefully shaking sand out of a blanket that seemed to have a mouth.
+
+I remember that, don’t I? Wasn’t that during the Here-to-Th—
+
+Something hit him in the stomach.
+
+The dream winked away.
+
+******
+
+******
+
+Alden should have slept for around six hours. Even without accessing his interface, he knew he must have gotten less than that because he felt like he could go right back to the dream if only he didn’t open his eyes. His body was heavy, his breath was steady and deep, and the sofa that had seemed too firm earlier now held him to it like a magnet.
+
+Good potion. Poor demon bokabv. I love Healer Yenu.
+
+He was almost back in dreamland where he belonged.
+
+“No. Unfortunately he’s drugged himself to sleep. I tried to ———, but he didn’t wake up. They’ve given him a ——— Traveler’s bag. Yes, a real one. What a life it must be to live as a hn’tyon’s ———! Having a nap while the rest of us work…not that I’d take his place. Proper respect to our guardians here, far, and lost of course. Of course! But I’m not one of those who can ——— the thought of enduring such a ——— process. Feeling ————— is natural for all of us, but I do think I’m more sensitive than most to the purity of my own —————.”
+
+Alden could have gone right back to sleep if not for whoever this chatterbox was. The Artonan’s words were only half registering, some of the less familiar ones disappearing altogether thanks to his inactive interface and uneager brain.
+
+Shhhh, person.
+
+The person didn’t shhhh.
+
+“Oh, yes. I know. I might have, too, if I could stand it. But when they showed us as young…exactly, exactly. Proper respect, but, unfortunately, the thought of doing such a thing to my self or being forever around those who do, turns my shit liquid.”
+
+Alden grimaced. You officially suck, person.
+
+That last bit was too gross not to drag him to real wakefulness. And as he gained awareness, the first thing he noticed was that his nice, cold room was now hot. Which meant the sucky person had changed his thermostat.
+
+The next thing he noticed was that his messenger bag was on the sofa with him, against his stomach, and since he hadn’t gone to sleep with it there, that meant someone had taken his bag from the table and moved it. Or dropped it on him. He vaguely remembered thinking something had hit him in the stomach.
+
+He didn’t carry anything incredibly precious in his bag, but touching other peoples’ stuff? Or throwing it at them? He was definitely too irritated to sleep now.
+
+He opened his eyes a crack only for them to be pierced by the blazing light coming through every single window. His very unwelcome company hadn’t even left the one over Alden’s face shaded.
+
+He glimpsed the culprit—Tass-ovekondo’s weak-diplomaed son Olget—then clenched his eyes shut again.
+
+He came into my room and tried to wake me up to make me leave?!
+
+Technically, this part of the car was for wizards during normal operation. But Stuart had said it wouldn’t be used today unless something unexpected came up. The wizards guarding the Here-to-There weren’t supposed to cloister themselves away from the ordinary class. It was counter to the spirit of the event.
+
+And even if someone needed to do something in here, they could have shared like civilized creatures. Shining lights in sleeping peoples’ faces and throwing bags at them was utterly indecent.
+
+Olget-ovekondo wanted the wizard room all to himself so that he could call a friend and ramble on about the consistency of his bowel movements?
+
+Alden would lie on this sofa pretending to sleep until the end of time. Let this cupcake-flushing butthole turn the temperature up past a hundred if he wanted. Alden would “sleep” through it as obnoxiously as he possibly could.
+
+Or is that punishing me too much more than him? Should I wake up and try to make him leave by explaining that I’m under healer’s orders to dream for a certain number of hours each day?
+
+He was trying to decide which method would get his space back fastest when the words the man had been saying began to hold meaning.
+
+Alden forced his face to remain in something approximating the peace of his stolen rest. It was hard. Olget-ovekondo might have said he respected the knights, but it sounded like it had just been an opening to make room for him to say that…
+
+I think one of the words he used meant “repulsive” or “vile”. Is he saying he was unfortunately unable to take the path of highest onus because the thought of having his authority bound is so revolting it gives him diarrhea?
+
+No. He took it a step farther than that.
+
+Couldn’t even bear to be around the knights. The mere thought of what they were gave him the heebie-jeebies. His purity was that delicate.
+
+Alden’s temper cooled because he was really thinking about those words. And also about “The Elder’s Croak” and wizards pat-patting away at each other’s authority. And he was realizing that shallow wizards—shallow, unserious people like this grown adult who whined when his mother gave a valuable possession to a former assistant—must be able to look at someone sacrificing themselves and think something as empty and immature as, “They’re ugly.”
+
+He wasn’t even embarrassed he thought it. He was gabbing away.
+
+Alden’s eyes opened. The wizard didn’t notice. He was sipping a drink at one of the two-seater tables, looking out a window. They’d coupled with the larger train while Alden slept, and a string of long white cars in front of them was visible as they all curved to the right for a direction change that had no visible reason.
+
+The wizard had already had his little say about knights, and now he was having a little say about the Here-to-There he’d agreed to protect. Someone named Mutty was hearing that this day was a tragedy and a betrayal. His mother’s devotion to the village, his own devotion to the village, the gifts given—it was all so unfair to Olget-ovekondo. These people had no real loyalty. They should have supported him as the next village master. They were supposed to be his inheritance. Instead, his mother was sending them off with many other things that were supposed to be his inheritance.
+
+She intended to die broke sometime this century, one of her two bound wands was now ruined, and none of his siblings cared enough to protest.
+
+Olget was having such a sad day. Forced to pretend none of it bothered him. Stuck on a train with a drugged human who could not be irritated into leaving.
+
+I can’t believe I wanted to be spiteful to this person, Alden thought, watching him with an emotion he wasn’t sure he’d ever experienced before. Something fairly cold. Detached. Disappointed not in Olget-ovekondo but in…society maybe.
+
+What’s the point?
+
+He decided he would sit up and tell Olget to go away, plainly and politely. Firmly if politely didn’t work. This man wasn’t worth his anger, and he certainly wasn’t worth Stu-art’h’s time. But before he could rise and do it, the door to the room slid aside and a grouchy Bithe stepped in. His dull red coat was as pristine as it had been when they left this morning.
+
+“What are you doing in here?” he asked.
+
+Olget scrambled out of his chair. “Hn’tyon Bithe! I was making a quick call. Important business.”
+
+Bithe looked at the drink on the table in front of the wizard, then at the temperature control panel. “Quick?”
+
+“I’ve just finished.”
+
+“Nobody else has needed to come in here on this trip. I don’t understand how you could have missed our votary’s request that our Avowed remain untroubled. He put it on the tellingbush. Are your eyerings malfunctioning?”
+
+“No. I…just haven’t accessed the leaves recently.”
+
+“How irresponsible of you.” Bithe’s tone would have eaten through steel. “Get out. Take your important calls elsewhere.”
+
+Olget looked offended, but he moved. He glanced at Alden as he went, purpled at seeing him awake, and rushed for the door.
+
+“Wait.”
+
+The wizard froze beside Bithe.
+
+“Don’t sit near the bor family,” said Bithe. “And don’t speak to Uro-bor Elder again.”
+
+“I have known the bors my whole life! While you…I don’t know what her son might have said about me. He has a <<quarrelsome>> personality. Uro-bor is my mother’s assistant. She heard my every step as a child! You don’t have any cause to tell me—”
+
+“One wand is hers until the last closing of her eyes, as your mother wishes. The other will also be <<bestowed>> as your mother wishes. Let Uro-bor enjoy this day without worrying about a wizard’s feelings.”
+
+Bithe was actually less harsh when he said that. Alden wouldn’t describe his demeanor as pleasant, but he’d managed to sound neutral.
+
+Olget-ovekondo’s hands clenched. “I’m not someone who behaves as improperly as you seem to think. That you have that impression of me is…it’s…”
+
+He stalked from the room without finishing the thought. The auriad he’d lost control over earlier didn’t make an appearance. Alden had watched for it.
+
+Bithe slid the door shut and headed for the temperature panel. “This is much too hot for you,” he said. “Isn’t it? It’s not even ideal for me.”
+
+Reminded of the awkward way the knight had handed him a worm earlier, Alden didn’t tell him not to bother with the controls.
+
+“Thank you.” He got up to put his bag back beside his carved o’odee egg. Then he tapped the lamps back on and carried Olget’s cup to the drink dispenser, pressing the button that pulled it down to wherever the dishes went to get cleaned.
+
+“That man…” Careful with the pronunciation. “He has grown nothing, and he plants nothing.”
+
+Bithe continued to look at the panel even though he’d already set it. “You said that well. I shouldn’t have insulted your speech this morning. I was already upset about something else, and I had a yell waiting in my throat because of it.”
+
+“That happens sometimes.”
+
+“I appreciate your understanding. Don’t pick up the large box with the green corners when we unload. Ryada and Emban have set a trap they think I don’t know about, and they’ll be disappointed if it catches anyone but me.”
+
+Green cornered box is boobytrapped. Got it.
+
+Bithe left him to his rest, which was easy enough to get back to with the potion still in his system.
+
+When he woke up again, it was because the train was approaching their station.
+
+******
+
+******
+
+“This day is good for our young knights, and our young knights are good for this day. I hope you are providing them with all the help and happiness you have in you, tall Ryeh-b’t. Your act during the attack of the koobas was excellent. Spit.”
+
+Leeter-zis shoved the shallow bowl full of paint under Alden’s chin, and after setting aside a concern about how many people must have spit into this same bowl today, he obliged. Two of Leeter-zis’s fingers began zig-zagging through the spit, mixing it into the coral-colored paint while he hummed.
+
+Kibby would be so into this.
+
+Alden was sitting on the bench he’d been carrying to one of the haulers waiting outside the station. Leeter-zis had caught him half way and told him it was his turn to have paint applied to his face. Mr. Stripes Out had gotten hold of every other participant in the Here-to-There while Alden slept.
+
+The wizard was still topless, shoeless, and looking a little like a wild creature that didn’t belong in this setting.
+
+The city they’d arrived in was nowhere Alden had ever heard of. He wasn’t a geography geek who knew the name of every mid-sized city on Earth, and certainly not on the Triplanets. There was something eye-opening about stepping off a train into a place he knew was average for this world and thinking it outshone much of what he’d seen so far living on Anesidora, where the concentrated wealth, magic, and beauty sometimes felt surreal.
+
+The station was protected from the elements not by a ceiling and walls, but by a cocoon of sand in colors ranging from white to a dark, reddish brown. The sand was in constant motion, flowing around the station and high above it to form moving pictures that were related to the region—animals, plants, people in shirts with tasseled sleeves that blew in the wind. There were no advertisements anywhere, but there were poems about journeys written on the floor, with seats grouped around each one. Stalls provided food, drink, and potions, and a few of them were unstaffed, their offerings laid out invitingly for anyone to take. Artona I was not a place where you were expected to pay for hygiene supplies or a simple cup of tea. They even had free tablets—old, but functional.
+
+On the Artonas, the ordinary class worked for prestige, fulfillment, to acquire luxuries, or to avoid being looked down on by their neighbors. Everyone could live from birth to death at a natural old age—fed, clothed, healed, and housed—without contributing their labor to the community. But, as on Anesidora, most people did work, and many worked a lot. Some devoted their lives to a career; others devoted themselves to the career of a wizard they assisted, like the bor family.
+
+Uro-bor Elder was sitting beside one of the poems, running her wrinkled fingers over the box that held the wand. Bithe kept an eye on her even as he chased down one of the o’odee feathers that had exploded out of the container with green corners. Alden thought the knight would be relieved to get Uro-bor safely tucked away in the new house. Judging by the sound he’d made when a little kid bumped into Uro-bor’s knee as they disembarked, he thought the old woman and the wand would both break if they were exposed to a breeze.
+
+“Fun choice on old Tass’s part,” said Leeter-zis as his humming ended. One of his eyes had strayed to see what Alden was looking at. “<<Magnanimous>>, loving. But also fun. There is a ritual to pass a bound wand made of eskya to an heir. Such wands gain influence as they age. But if she had any desire to do that, she wouldn’t have allowed it to be separated from her for even a day.”
+
+Alden scanned the station until he caught sight of Olget. He was helping with the unloading.
+
+“Lift your chin.”
+
+Having seen the artwork on everyone else’s face, Alden knew what to expect. Leeter-zis drew a curve under his right eye with a finger coated in the paint, then slowly dragged the finger up his temple and over his brow, stopping before he reached the center of his forehead and curving it upward. The shape was like a hook or an unfinished “S”.
+
+And there was an odor. He was hoping it was Leeter-zis himself and not the paint. The guy hadn’t freshened up at all since the start of the day. He had dirt on his chest, kooba ingredients in his hair, and his lips were stained with something red he must have consumed.
+
+Alden’s theory was that the wizard was collecting debris from the whole journey with his body to perform his spell later. He was proud of himself for coming up with this interpretation because it sounded like something Porti-loth might do. Leeter-zis was a little more serious about all of this than first impressions had led everyone to believe.
+
+“You’ve worked hard to make the Here-to-There better,” Alden said.
+
+The preparation required for the koobas, the cart and windmemorizers, staying on his feet for the whole train trip and applying paint to every face—he’d been going all day and possibly all of yesterday, too.
+
+“A Master wizard can’t be lazy.” Leeter-zis set his paint bowl beside Alden on the bench and stepped back to twist his spine in a stretch. Then he reached for his toes. “And we must sometimes be tricky. Communal magic requires participation from others, but it’s so tedious and time eating to organize hundreds of people. And then you have to keep them from getting bored while the ritual steps are completed. I’ve discovered that it’s better to build my spells around people who are already organized and entertained. If my wealth and my body can withstand three hundred more days like this one, then I should do well when my contributions and expertise are next evaluated. And everyone loves a celebration!”
+
+He straightened and picked up his bowl again.
+
+“If the paint comes off during your usual activities, it’s fine, but please don’t try to remove it. And think about memories of home with one half of your… ah, whenever you’re not thinking of something else is enough.”
+
+“If this spell affects the mind, Master Leeter-zis, I don’t think I should be a part of it.”
+
+“Don’t worry! Another has already worried on your behalf…and asked me to submit my ritual design to him so that he could send it to someone he trusts more for evaluation.”
+
+“I’m sorry.”
+
+“Don’t apologize. That wonderful young ingredient doesn’t need to apologize either, and he knows it. If only we were conducting the spell in the land of his blood!” Leeter-zis was grinning at Stuart, who was sweeping the main pile of feathers back into the box with his auriad.
+
+“Did you call Stu-art’h an ingredient?”
+
+“Yes! I have interesting ingredients today. Several of them.”
+
+“I…might also need to leave before the afterparty. Or during it. I have a class I shouldn’t miss.” The schedule for the last half of the Here-to-There was looser, since it depended on when the wizards finished performing ceremonial magic at all the new houses.
+
+Leeter-zis gasped and turned back to him. “How long is this class? I’ve already painted you! And arranged to fold in your Earthliness.”
+
+“It’s two hours. That’s around—”
+
+“Only that long? Then it’s fine. No proper afterparty could last for less time than that.” Leeter-zis relaxed. “We’ll do it before you leave or after you return!”
+
+I guess I could return?
+
+Leeter-zis left him a minute later.
+
+Alden caught the sound of him saying, “Leaf-eyed ingredient,” to himself and chuckling as he walked away.
+
+******

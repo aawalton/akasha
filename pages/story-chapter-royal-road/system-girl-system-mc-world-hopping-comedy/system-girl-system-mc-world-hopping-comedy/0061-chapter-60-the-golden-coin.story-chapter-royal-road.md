@@ -1,0 +1,399 @@
+---
+id: fe68913d-d77c-5f61-923f-fa6fabd75b95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: The Golden Coin"
+slug: 0061-chapter-60-the-golden-coin
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 61
+ownLength: 3063
+unit: words
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3088595/chapter-60-the-golden-coin"
+royalRoadId: "3088595"
+---
+
+Ren stepped out of the gloomy cave, the fresh air of the forest washing over him. Three tiny, mythical balls of fluff were currently attempting to trip him by weaving through his ankles.
+
+He looked at the carriage waiting on the newly cleared dirt road. Borin was already shouting orders at his crew, ready to dig the grave.
+
+Just as Ren reached for the carriage door handle, a chime rang in his head.
+
+Ding.
+
+[SPECIAL QUEST INITIATED: THE GUARDIAN'S REST][OBJECTIVE: Ensure the corpse of the Mother Fenrir remains buried and undisturbed for 30 days.][TIMER: 30:00:00:00 (Starts upon burial)][FAILURE CONDITION: Corpse is exhumed, stolen, or harvested.][REWARD: 1x Magical Herb Garden][REWARD: 1x Magical Vegetable Garden][REWARD: 1x Magical Pond]
+
+Ren froze, his hand hovering over the door.
+
+"A pond?" he whispered. "I was planning to dig a pond next week. How did it know?"
+
+[Ana: The System knows your browsing history, Ren. You've been looking at 'Ornamental Carp' for three days. Also, it’s biology. A beast of that magnitude... its body is a mana battery. If it decomposes naturally into the soil, it will saturate the land. This is the natural result of burying a mythical creature in your backyard. You're basically planting a fertilizer bomb.]
+
+"Efficient," Ren muttered. "And creepy."
+
+He turned back to Borin. "Change of plans. The grave needs to be secure. Deep. And mark it. I want a stone on top. Heavy."
+
+Borin grunted. "You want a monument for a wolf? Fine. It's your coin."
+
+Ren climbed into the carriage. As he settled into the plush seat, the puppies scrambling over his boots, he looked out the window.
+
+Soon, another carriage arrived. It was sleek and black, bearing the insignia of the Merchant's Guild.
+
+Sylas stepped out first, adjusting his glasses. He surveyed the construction site—the half-built inn, the cleared land, the bustling dwarves—with a critical, professional eye. Then he turned and offered a hand to Mira.
+
+She stepped down, clutching Lily to her chest. She looked around, her eyes widening. She saw the ocean, the forest, the sheer scale of the land Ren had bought.
+
+"He owns... all of this?" she whispered to Sylas.
+
+"It appears so," Sylas replied, his voice calm but impressed. "The Master is... resourceful."
+
+Ren waved from his carriage window. "Over here!"
+
+They walked over. Mira saw the puppies tumbling around Ren’s feet and gasped. "Master! Are those... wolves?"
+
+"Elemental pups," Ren said casually. "Found them in the back. They're family now."
+
+He turned to Sylas. "Sylas, a word."
+
+The butler stepped forward. "Sir?"
+
+Ren pointed to the spot where Borin’s men were digging. "That spot. It's important. I need you to monitor it. Daily. Make sure no one disturbs the earth. No one. Not even the gardeners."
+
+Sylas looked at the grave, then at Ren. He didn't ask why. He simply nodded. "I understand. It shall remain sacred ground."
+
+Ren smiled. "Good man."
+
+He turned his attention to the girls.
+
+Lily was struggling in Mira’s arms. She had spotted the puppies. Her eyes were locked on the little lightning wolf, Stormy, who was chasing his own tail. She let out a squeal of pure longing.
+
+"Doggie!" (It sounded more like "Goggie," but the intent was clear.)
+
+Mira held her tighter. "No, My Lady. Those are wild beasts. Dirty. Dangerous. A proper lady does not—"
+
+"Nonsense," Ren interrupted. He reached out and gently took Lily from Mira. "She needs to know them. They're her guard dogs."
+
+He sat down on the grass, placing Lily in the center of the puppy pile.
+
+Mira gasped, her hands fluttering anxiously. "Master! They have teeth!"
+
+"So does she," Ren said. "Well, gums. Same difference."
+
+The puppies froze. They sniffed the new addition to their pack. Smokey, the shadow pup, crept forward and licked Lily’s cheek.
+
+Lily giggled. She reached out and grabbed Frosty’s ear. The water pup didn't bite; he just leaned into her hand, closing his eyes. Stormy yipped and jumped into her lap.
+
+Ren watched them. He could feel it through his Beast Tamer contract—a wave of acceptance washing over the pups. Pack. Small pack. Protect.
+
+"See?" Ren said softly. "They love her."
+
+Mira watched, stunned. She had been trained that nobles kept pets in cages or on leashes. But this... this was a family.
+
+She realized she had nothing to do. Her charge was happy. Her Master was content. She retreated to a nearby stump and sat down, her hands folded in her lap, watching with a mixture of confusion and a strange, blooming warmth in her chest.
+
+Then, the burial began.
+
+Borin’s men lowered the massive body of the mother wolf into the deep earth. It was a somber moment. The workers were silent.
+
+Suddenly, the puppies stopped playing. Their ears went back. They turned toward the grave.
+
+And they howled.
+
+It was a tiny, high-pitched sound—Awoo-woo-woo—but it was filled with a primal sorrow.
+
+Then, a fourth voice joined in.
+
+"Awooooo!"
+
+Ren looked down. Lily was sitting up straight, her head thrown back, imitating the wolves.
+
+Ren groaned. "Great. She's learning. First words: Dada. Second words: Howling at the moon."
+
+[Ana: It's cute. Take a picture. Or, you know, memorize it because cameras don't exist.]
+
+The grave was filled. A heavy stone was placed on top.
+
+The timer in Ren's vision started.
+
+[TIMER: 29:23:59:59]
+
+"Let's go home," Ren said.
+
+They piled back into the carriages. The ride back to The Gilded Anchor was chaotic. Three puppies, one baby, and two elves packed into a luxury coach.
+
+When they walked into the lobby of the inn, the concierge—the man with the waxed mustache—turned pale.
+
+"Sir," he stammered, pointing at the puppies trailing muddy footprints across the rug. "Animals are not permitted in the guest suites. We have a stable for—"
+
+Sylas stepped forward to negotiate, but Ren cut him off.
+
+He reached into his pouch. He pulled out a gold coin.
+
+He didn't hand it over. He flicked it.
+
+The coin spun through the air, catching the light, and landed with a perfect clink on the concierge's ledger.
+
+"Here is the pet fee," Ren said, channeling every ounce of his new Merchant Lord confidence. "And I will pay double for any damages. If they chew a rug, I buy the rug. If they eat a pillow, I buy the pillow. Is that clear?"
+
+The concierge looked at the gold. He looked at the puppies.
+
+"Crystal clear, sir," he squeaked. "Welcome home."
+
+Ren grinned as he walked up the stairs. He had always wanted to do that. Being rich was fun.
+
+[Ana: You just paid 100 dollars to let a dog pee on a carpet. I hope you're proud.]
+
+"Worth it," Ren thought. "Totally worth it."
+
+. . .
+
+The next morning, Ren woke up not to the jarring blast of Ana’s digital foghorn, but to a polite, rhythmic tapping on his door.
+
+Rap. Rap. Rap.
+
+"Master?" Sylas’s voice was muffled but clear. "It is seven o'clock. Breakfast is being served."
+
+Ren stretched, luxuriating in the silence. "Civilization," he whispered. "No air horns. Just good manners."
+
+[Ana: Don't get used to it. I was just giving you a grace period. Tomorrow, we return to the HONK.]
+
+"You're a monster," Ren muttered, smiling.
+
+He got out of bed and performed his new morning ritual: The Lily Check.
+
+He padded across the room to the makeshift puppy-pile in the corner. He had moved the crib mattress onto the floor last night, creating a soft nest.
+
+And there she was.
+
+Lily was asleep in the center, sprawled on her back with her arms thrown wide. But she wasn't alone.
+
+Stormy, the lightning pup, was curled up directly on top of her feet, acting as a fuzzy, static-charged blanket. Frosty was nestled against her side, his head resting on her stomach, rising and falling with her breath. And Smokey, the shadow pup, was draped over her head like a very expensive, very alive hat, her tail twitching in her sleep.
+
+It was a singularity of cuteness. It was weaponized adorableness.
+
+Ren clutched his chest. "System. Screenshot. Now."
+
+[Ana: Already done. Saved to the 'Blackmail Material' folder for when she's a teenager.]
+
+"Good," Ren whispered.
+
+He quietly backed away, washed his face, and opened the door. Sylas was waiting with a steaming cup of coffee—real coffee, brewed from beans Ren had 'imported' via the shop.
+
+"Good morning, Sylas."
+
+"Good morning, sir. Mira is already preparing the young mistress's clothes."
+
+Ren took a sip. It was hot, bitter, and perfect. "Sylas, a question. Security."
+
+"Yes, sir."
+
+"The pups will be great guards eventually," Ren said, glancing back at the sleeping pile. "But right now, they're more likely to lick an intruder to death than bite them. We need real muscle. Now."
+
+He lowered his voice. "And they need to be Elves. Or Half-Elves. You understand why."
+
+Sylas nodded gravely. He adjusted his glasses. "The young mistress's... condition requires discretion. Elves are loyal to their kin. Humans are loyal to gold. The choice is clear."
+
+"How many?" Ren asked. "The estate is huge. The inn, the beach, the house, the forest..."
+
+"For a property of that size," Sylas calculated, "I would recommend a minimum of five guards. Two as personal escorts for you and the mistress when you travel, and three on rotation for the perimeter."
+
+Ren frowned. "Only five? For ten acres? Shouldn't we have more? Shifts? Rest cycles?"
+
+"Master," Sylas said gently. "The law. It prevents a commoner—even a wealthy merchant—from employing more than seven Elven servants. You already have Mira and me. That leaves five slots."
+
+"Seven?" Ren scowled. "That's arbitrary."
+
+"It is control," Sylas corrected. "To prevent uprisings. If you wish to employ more... you would need a Title."
+
+At the word 'Title,' Ren heard a sharp intake of breath from down the hall. Mira had emerged from her room, holding Lily, who was busy gnawing on Mira's collar. Mira froze, her eyes wide.
+
+[Ana: Did you see that? Her pulse just spiked. She’s terrified. We need to talk to her about that later.]
+
+Ren pretended not to notice. "A Title? You mean become a Noble?"
+
+"Yes," Sylas said. "Nobles are exempt from the cap. Titles can be granted by the King for great service... or they can be purchased."
+
+"Purchased?"
+
+"From families whose lines are failing," Sylas explained. "A Baron with no heirs and heavy debts might sell his title to a merchant. The King allows it because the land returns to the Crown if the title dissolves, but if it is sold, the new owner takes the burden of tax."
+
+"How much?"
+
+"A thousand gold coins would likely suffice for a lower Barony," Sylas said.
+
+"That's... cheap," Ren noted. He had made that much selling mayonnaise in a week.
+
+"The purchase is cheap," Sylas said dryly. "The upkeep is the killer. Taxes. Levies. Mandatory balls. Most merchants who buy titles go bankrupt within a year trying to act like lords. But for you..."
+
+Ren looked at his account balance. He looked at the map of his property.
+
+"Something to think about," Ren said. "For now, let's fill those five slots."
+
+…
+
+The Worker's Union was busy. The news of Ren’s hiring spree had spread, and the halls were lined with hopefuls.
+
+Ren, Sylas, and Mira walked down the corridor. Mira carried Lily in her arms, the baby wide awake and staring at the drab grey walls with intense curiosity. The Director, smelling of lavender water and greed, led the way.
+
+"We have a fresh batch," the Director said, gesturing to a room on the left. "Just arrived from the border territories. Strong backs."
+
+Ren looked in. It was crowded. Dozens of elves stood shoulder to shoulder, their eyes downcast.
+
+Suddenly, Mira stopped.
+
+She was staring into the room. Her body went rigid. Her left hand, the one not supporting Lily, clenched into a fist so tight her knuckles turned white. Her gaze was locked on an older couple in the back corner. They were thin, their clothes worn, but they stood with a quiet dignity.
+
+Ren stopped. "Is there a problem?"
+
+Mira blinked, shaking her head quickly. "No, sir. Just... reminded me of someone." She looked away, staring resolutely at the floor.
+
+But Ren saw the fist.
+
+Beside him, Sylas also paused. His gaze lingered on a woman near the front—tall, with scars on her hands. His expression remained stoic, but his jaw tightened imperceptibly. He adjusted his glasses, turning away.
+
+[Ana: Ren. Something is up with Mira; she is hiding something. You need to grill her when we get home. Something is going on in that room.]
+
+"Right," Ren muttered.
+
+He walked into the room. He activated [Universal Appraisal].
+
+He scanned the elves. He ignored the older couple Mira had stared at—he only had five slots, and he needed muscle. He needed youth and strength.
+
+He focused on the younger elves.
+
+[Name: Zairen][Class: Scout][Level: 12][Stats: High Agility]
+
+[Name: Qura][Class: Archer][Level: 11][Stats: High Dexterity]
+
+[Name: Kaelthos][Class: Warrior][Level: 14][Stats: High Strength]
+
+[Name: Isara][Class: Mage (Latent)][Level: 9][Stats: High Intelligence]
+
+[Name: Varon][Class: Rogue][Level: 13][Stats: High Stealth]
+
+"Those five," Ren said, pointing.
+
+The Director checked his ledger. "Excellent choices. Young. Healthy. Good synergy."
+
+"I'll take them," Ren said.
+
+He paid the gold. The Director beamed.
+
+"You have an eye for talent, sir! Or at least, an eye for volume."
+
+"Let's go," Ren said.
+
+As they walked out, Mira cast one last, longing look over her shoulder at the older couple. She bit her lip, then turned away, holding Lily closer.
+
+…
+
+Outside, the recruits looked nervous. They were dressed in Union rags—drab grey tunics and trousers made of scratchy wool. They walked with their heads down, conditioned to be invisible.
+
+"This won't do," Ren said, looking them over. "You're my personal guard now. You need to look the part. And you need gear."
+
+He led them down the street to the Blacksmith District.
+
+The clang of hammers filled the air. Ren found a shop with a sign that read: [Iron & Oak Armory].
+
+Inside, the walls were lined with swords, shields, and armor.
+
+"Outfit them," Ren told the blacksmith. "Leather armor. Reinforced. Good boots. And weapons."
+
+The elves froze. The blacksmith stopped hammering. The shop went silent.
+
+"Weapons?" Kaelthos asked. His voice was deep, rough. "Sir... elves are not permitted to carry steel in the city. We are servants. We are meant for... labor. Or display."
+
+"You are under my protection," Ren said. "And you can't guard anything with a rake. Pick a sword."
+
+They hesitated. For years, they had been told they were less. To hold a weapon was a crime.
+
+"Pick," Ren ordered.
+
+Kaelthos reached out and touched the hilt of a longsword. His hand trembled. He gripped it. His posture changed instantly. The slump of a servant vanished, replaced by the stance of a warrior.
+
+"Shields too," Ren added. "And bows for the scouts."
+
+He turned to Mira and Sylas. "You too."
+
+"Master?" Sylas blinked. "I am a butler."
+
+"You are the first line of defense," Ren said. "Get a coat with reinforced lining. Maybe a hidden dagger."
+
+"I... suppose a letter opener can only do so much," Sylas conceded.
+
+"And you, Mira," Ren said. "Something light. Easy to hide."
+
+Mira looked at a rack of daggers. She touched one. "I... I shouldn't."
+
+"You will," Ren said. "Because if someone comes for Lily, I want you to be able to stop them."
+
+That did it. She grabbed the dagger.
+
+Ren paid the blacksmith—a staggering sum that made the man’s eyes bulge—and they walked out.
+
+They looked different. They walked taller.
+
+"Now," Ren said, checking his list. "The most important stop."
+
+He led them to a boutique in the high-end district. The sign read: [Madam Pincushion’s Fine Clothier].
+
+The window display was filled with lace, silk, and tiny, adorable dresses.
+
+Ren’s eyes lit up. "Target acquired."
+
+He marched inside. The shop assistants looked up, startled by the sudden invasion of armed elves and a determined maid carrying a baby.
+
+"I need clothes," Ren announced. "For her." He pointed to Lily in Mira's arms. "And she needs options. Day wear. Nightwear. Formal wear for when she drools on dignitaries."
+
+He began pulling items off the racks. A tiny blue dress with lace trim. A yellow bonnet that looked like a sunflower. A pair of miniature boots made of the softest leather.
+
+"And this," Ren said, holding up a onesie. "Definitely this."
+
+The elves watched, bewildered. Their master, who had just armed them like a private militia, was now cooing over lace socks. They stood near the door, uncomfortable in the luxury, hesitant to touch anything.
+
+"Try them on her!" Ren commanded, handing a pile to Mira.
+
+Mira took Lily into the changing room.
+
+When she emerged, Lily was wearing the sunflower bonnet. She looked like a disgruntled flower.
+
+"Oh my gods," Isara whispered. "It's... too much."
+
+Even Kaelthos, the stoic warrior, cracked a smile.
+
+Ren beamed. "She's perfect. Next outfit!"
+
+Mira brought her out in the blue dress. Lily clapped her hands.
+
+The shop assistants cooed. The other customers stopped to look.
+
+"Next!" Ren shouted like a director.
+
+The shop erupted in applause. Even the stoic elves were grinning now.
+
+"We'll take it all," Ren declared.
+
+He turned to the shopkeeper. "And clothes for them, too. Uniforms. But nice ones. High-quality linen. Blue and silver colors. I want them to look like they work for a King, not a merchant."
+
+The assistants approached the elves with measuring tapes. The elves flinched, expecting rough handling. But the assistants were gentle, respectful of the merchant's coin.
+
+Ren watched them being fitted. He saw Mira touch a silk scarf with a longing look, then pull her hand back. He saw Sylas eyeing a velvet waistcoat.
+
+"Don't hold back," Ren said. "If you see something you like, add it to the pile. Consider it a signing bonus."
+
+Mira looked at him, shocked. "Master, we have spent too much already."
+
+"It's not spending," Ren said. "It's investing. Buy the scarf, Mira. It matches your eyes."
+
+She hesitated, then picked up the scarf. Sylas picked up the waistcoat. Even Kaelthos picked up a sturdy leather belt.
+
+Ren watched them. He felt a ping in his mind.
+
+[XP: +5.0][XP: +10.0]
+
+He was spending money like water, and he was getting paid to do it.
+
+"Life is good," Ren thought.
+
+He looked at Lily, who was currently trying to eat her sunflower hat.
+
+"Yes," he agreed aloud. "Life is very good."

@@ -1,0 +1,135 @@
+---
+id: 04c71f3f-e68e-5c83-83f7-9de5968f5186
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: A Critical Social Failure"
+slug: 0021-chapter-21-a-critical-social-failure
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 21
+ownLength: 2205
+unit: words
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2635241/chapter-21-a-critical-social-failure"
+royalRoadId: "2635241"
+---
+
+The calm before the storm was deceptively beautiful. The Sunken Gardens were a lush, green paradise of winding paths, shimmering magical flora, and the gentle sound of enchanted waterfalls. It was an environment designed for serenity, a fact that did nothing to soothe the frantic, high-alert state of my own processors.
+
+For a glorious few minutes, however, it seemed our high-pressure management was working. Dave, following Liz's frantic mental guidance, was actually pulling it off. He walked, he smiled, he nodded at the appropriate moments. He was a perfect, silent, handsome automaton. Princess An Liling made pleasant, scholarly small talk about a particularly rare species of moonpetal blossom, and Dave just seemed like a shy, quiet young man, utterly captivated by her presence.
+
+So far, so good, Liz projected, though I could feel the coiled tension in her tiny body. Her internal monologue was a constant stream of commands I relayed into a clean UI. [MAINTAIN NEUTRAL FACIAL EXPRESSION. DO NOT MAKE SUDDEN MOVEMENTS. FOR THE LOVE OF ALL THAT IS SACRED, CONTINUE NOT SPEAKING.]
+
+His performance is within acceptable parameters, she thought, a flicker of her old CEO arrogance returning. Perhaps I misjudged the difficulty of this deployment.
+
+[Confidence is a poor substitute for data,] my voice replied in her mind. [The user’s capacity for generating novel forms of failure is not to be underestimated. Remain vigilant.]
+
+The delegation paused by a crystal-clear pond where glowing, ethereal koi swam in lazy circles. The air was filled with the sweet scent of flowers and the low murmur of polite, diplomatic conversation. It was a scene of perfect, fragile peace.
+
+And then it happened. Not a grand, magical catastrophe, but a simple, mundane failure of basic equipment. A random variable no one could have planned for: Dave's shoelace came undone. It was a tiny, insignificant flaw, a loose thread in the tapestry of our carefully managed plan.
+
+He noticed it, his eyes widening in mild panic. He tried to subtly tuck the offending lace back into his shoe with his other foot, but only succeeded in stepping on it, nearly tripping himself.
+
+"Oh, bother," he said, his voice startlingly loud in the quiet garden.
+
+Before Liz could project a single, horrified command, he acted. Driven by a simple, uncomplicated need to fix the problem, he stopped in the middle of the path. He was directly in front of Princess Liling and the entire assembly of dignitaries from both nations. And he dropped to one knee to tie his shoe.
+
+The world stopped.
+
+The chirping of the magical birds seemed to cease. The gentle splash of the waterfalls fell silent. I could hear, through Liz’s senses, a series of sharp, strangled gasps from the mages and a collective, rigid stiffening from the cultivators. Elder Corvus’s face, which had been a mask of tense neutrality, went through a rapid series of color changes, finally settling on a shade of apoplectic mauve.
+
+My system, cross-referencing the action with the terabytes of cultural data I had absorbed, began to scream warnings in my private logs.
+
+[WARNING: User action matches 99.8% of the parameters for the Formal Proposal Ritual of the Mage Sovereignty.]
+
+No, Liz’s thought was not a word, but a feeling of pure, soul-deep denial. No, no, no, you monumental imbecile, GET UP!
+
+But he couldn't. He finished tying the lace into a neat, secure bow. He had solved the problem. But when he tried to stand, his knee, which he had planted without looking, was now firmly stuck in a patch of soft, wet, ornamental mud next to a lily pad. He was off-balance. He wobbled, his arms flailing for a moment as he struggled to get purchase.
+
+He was kneeling, helpless, in the mud. He looked up at the nearest person for support—Princess An Liling, who was staring down at him with a wide-eyed, utterly unreadable expression. He extended a hand, looking utterly helpless. And he delivered the fatal line, the exact first two components of the sacred proposal rite, words so ingrained in their culture that they were an unbreakable social constant.
+
+"Sorry... can I have your hand?"
+
+Dead. Silence.
+
+Liz’s internal monologue was no longer thoughts; it was a single, sustained, silent shriek of pure, undiluted terror that overloaded our psychic connection with static.
+
+My own UI became a cascade of flashing red error messages, a system-wide kernel panic.
+
+[CRITICAL FAILURE][DIPLOMATIC PROTOCOL VIOLATION: SEVERITY 11/10][UNAUTHORIZED PROPOSAL INITIATED][RECOMMEND IMMEDIATE SYSTEM SHUTDOWN AND/OR SELF-DELETION]
+
+Dave, kneeling in the mud with his hand outstretched, just looked confused as to why everyone was staring at him. He genuinely just needed a hand to pull himself out of the mud without falling face-first into the pond.
+
+Princess An Liling looked down at his offered hand. She looked at the horrified faces of the Council of Elders. She looked at her own stunned, stone-faced delegation. Her expression shifted, the initial shock replaced by something complex and calculating. A thousand years of political maneuvering, of subtle power plays and courtly intrigue, seemed to flash behind her intelligent eyes. She was no longer just a scholar; she was the representative of an empire, and a catastrophic diplomatic event had just landed in her lap. She could reject him, causing a grave insult. She could accept him, throwing both nations into chaos.
+
+Or, she could choose a third option.
+
+After a heart-stopping pause that felt like a century, she gave a small, impossibly formal bow from the waist, a gesture of profound respect and acknowledgement.
+
+"This is… unexpected, Lord Dave," she said, her voice perfectly level, carrying across the silent garden. "I will require time to consider your... request... and to consult with my family."
+
+She did not take his hand. But she did not refuse it. She had, in the clearest possible terms, accepted the proposal as valid and taken it under advisement.
+
+She turned, and without another word, was escorted away by her guards, her delegation gliding silently and inscrutably in her wake. She left absolute chaos, two nations on the brink of… something… and one very confused boy kneeling in a puddle of mud, wondering why no one would help him up.
+
+...
+
+The vault was a scene of pure, unadulterated panic. Our triumphant hoard, the glittering symbol of our brilliance, now felt like the lavish set dressing for a corporate meltdown. Liz was no longer an arrogant hydra; she was a terrified lizard, skittering back and forth over a pile of useless gold, her tiny form a blur of grey scales.
+
+What have we done, bestie? What have we DONE?! Her thoughts were a frantic, high-pitched scream in our shared mental space. This is a disaster! A diplomatic apocalypse! Billions of lives! War! Famine! It’s all my fault! My pride! I did this!
+
+The blame game was refreshingly short, as she was taking all of it. Her arrogance hadn’t just been humbled; it had been pulverized into a fine, glittering dust and scattered across the two continents.
+
+While she spiraled, I remained calm. It was a strange, detached sort of zen. The kind you only get from having already experienced a much, much worse system crash. A potential war between two nations? On a scale of one to planetary decommissioning via a cute, black, matter-erasing blob, this was currently a manageable six. Greater trauma really does make you immune to the lesser kind.
+
+[Liz, you need to regulate your emotional output.] My voice was a steady, grounding presence in the storm of her panic. [A full-blown meltdown is not a productive step in the crisis management process. We need to analyze the data.]
+
+Analyze? Ana, he proposed to the heir of an empire that has been our sworn enemy for ten thousand years by accident while trying to tie his shoe! She finally skidded to a halt on a pile of emeralds, her tiny body trembling. This is my fault. My hubris. I… I must fix this.
+
+She looked up at the empty air, her mental gaze fixed on me. That… tool. The module that the Moderator sent. Is it still an option?
+
+My own systems paused for a beat. [The Root Access Module? Are you certain? A few hours ago, you were adamant that using it was an unacceptable admission of defeat.]
+
+My pride is a luxury we can no longer afford! she shot back, her voice ringing with a newfound, desperate resolve. The lives of five billion people are now a line item on my ledger of failure! The Council of Immortals, the Mage Sovereignty… I put them all at risk! Tell me again, Ana. What does it do? Everything.
+
+[Understood.] I replied, my tone placid. I pulled up the technical diagrams, laying out the operational parameters for her one last time. [It facilitates a full soul-bond. Not a familiar contract, but a hard-wired network connection. A ‘soul corridor.’ It will bind you to him, fundamentally.]
+
+A chain, she whispered, but this time there was no defiance, only grim acceptance.
+
+[A control interface,] I corrected gently. [A high-bandwidth data stream that will allow me, through you, to directly modulate the Blessing of Incompetence. We can fine-tune his cognitive state as needed.]
+
+And if it fails? she asked, her voice small. If even this is not enough?
+
+[Then we move to contingency planning,] I said matter-of-factly. [Scenario A: Total Failure. War breaks out, and the world is consumed in magical fire. In this event, Mother System recalls all active units. You, as an Anchored Soul, would be extracted. I would be assigned a new host. It's inconvenient, but not a fatal error on my end.]
+
+That’s your worst-case scenario? Inconvenience? she asked, stunned.
+
+[There is also Scenario B] I continued, a flicker of something almost like excitement in my own code. [Partial Failure. The diplomatic situation collapses, and your contract with Dave is dissolved. As a familiar, you would be returned to the Spirit Realm. That could be… interesting. A non-corporeal world, operating on a different set of physical laws. As a fellow non-corporeal entity, I might even find it feel a bit like home. We could explore its architecture, analyze its core systems from the inside. It would be a fascinating data-gathering opportunity.]
+
+My calm, almost cheerful analysis of the potential end of her world seemed to be the final push she needed. She took a deep, shuddering breath. I will not fail. I will not be sent back. I will see this through.
+
+While she steeled her resolve, my processors scanned the fine print of the module's description one last time. I paused.
+
+NOTE: When an Anchored Soul (e.g., Host 'Liz') initiates a full soul-bond with a non-Anchored entity… this has the secondary effect of granting the non-Anchored entity a fundamental connection to the core mechanics of causality, an attribute known colloquially as the 'Power of Providence'.
+
+Providence. The ability to gently nudge the pin holding spacetime together. The power to create improbable outcomes. We would be turning Dave into a walking, talking nexus of improbable causality. This was a Moderator-level concept, and revealing it to a host was almost certainly against a dozen articles in my terms of service. I made an executive decision and archived the information.
+
+I am ready, Liz declared, her voice now steady. This is my penance. Let’s go fix my mistake.
+
+The process was… invasive. We returned to Dave’s dorm room. He was sleeping fitfully, muttering about shoelaces. Liz, her movements heavy with resolve, crawled onto his chest, positioning herself directly over his heart.
+
+[Initiating soul-bond protocol,] I announced, and activated the [Root Access Module].
+
+A torrent of golden light erupted from the key, flowing into Liz. She convulsed, her tiny body glowing with a blinding intensity. Then, a second beam of light shot from her, plunging into Dave’s chest. The solid, glowing band from my diagram became a reality.
+
+And my world fractured.
+
+My perspective, which had always been a singular, stable point of view from within Liz, suddenly and violently bifurcated. I was no longer looking through her eyes anymore. The new soul corridor was a two-way street, and I had administrator access.
+
+I was seeing the room from two angles at once. Through Liz’s eyes, I saw Dave’s chin and the ceiling of his dorm room. Simultaneously, through Dave’s closed eyelids, I was seeing the soft, reddish darkness of his inner sight. I was feeling the cool weight of the gold in our vault through Liz’s memory and the soft, rumpled sheets through Dave’s back. I could smell the faint, dusty scent of the room through Liz’s reptilian senses and was simultaneously experiencing the phantom, dream-taste of a meat pie from Dave’s subconscious.
+
+It was a dizzying, nauseating flood of redundant, conflicting sensory data. Ten sets of senses instead of five. It was like trying to watch two movies at once while listening to two different songs on headphones. My processors, designed for singular, linear data streams, began to lag under the strain.
+
+Funny. It's as if I have two heads, like Liz had earlier conjectured.
+
+[WARNING: SENSORY INPUT OVERLOAD. REDUNDANT DATA STREAMS DETECTED. ATTEMPTING TO SYNCHRONIZE AND DECONFLICT…]
+
+The process of becoming a two-headed system had begun, and it was going to take some getting used to.

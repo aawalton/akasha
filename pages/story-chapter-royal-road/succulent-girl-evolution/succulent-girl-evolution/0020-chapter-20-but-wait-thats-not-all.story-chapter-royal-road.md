@@ -1,0 +1,119 @@
+---
+id: 3f54c72a-39a2-5f8d-bcd9-a8dbfa5545f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: But Wait! That's Not All"
+slug: 0020-chapter-20-but-wait-thats-not-all
+partOf: succulent-girl-evolution
+position: 20
+ownLength: 2263
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2587381/chapter-20-but-wait-thats-not-all"
+royalRoadId: "2587381"
+---
+
+“Help me understand: what will happen if you give up on trying to recover your forest?” Link asked. “Will the wisteria eventually stop growing, or are you hoping for a new competitor to arrive and fight back the vine? Do you have an escape route for yourself?”
+
+“I… My patron has offered to teleport me elsewhere, to restart in a new pond,” Miss Fish said, her voice trembling. She shook her head vigorously, splashing them with her vehemence. “I don’t want to, though. I don’t deserve it. He entrusted this forest to me, and I ran it into the ground. I would rather go down trying to save it, than run away and start over.”
+
+Bubbles perfectly understood Miss Fish. “That’s so noble! I support you in your cause,” she declared thoughtlessly. She noticed Link stare at her with heavy disdain. “What?”
+
+Rock’s own disapproval followed Link’s stare almost immediately after. “What??”
+
+“I apologize in advance for my crudeness, but isn’t that mentality what led you to be captured by my team in the first place?” Link asked flatly.
+
+Bubbles was thunderstruck. “H-How did you know?”
+
+Link sniffed. “We have been traveling together for several days now. I have observed unreal amounts of optimism in you that meaningfully painted a clear picture of what happened at the Remraf Estate. Regardless, that is not the topic of discussion at hand.”
+
+He turned back to Miss Fish, who was watching the exchange, and Bubbles in particular, with wide-eyed curiosity. “Like my benefactor, I applaud you for your sense of integrity. However, common sense—as well as a live example of a martyr standing right in front of you—should warn you that your noble intentions will lead to unfavorable outcomes for you.”
+
+“I know that,” Miss Fish said miserably. “My patron has explained to me, numerous times and in several different ways… I understand the logic, but it’s hard not to be led astray by my emotions.” She looked back at Bubbles. “Do you regret your decision to stay?”
+
+Bubbles was caught off-guard at this sudden swerve in conversation. She had done a lot of thinking while trapped in the snare sphere, and her emotions in there had been decidedly negative; if she was asked this question back then, she would have fervently admitted that she regretted the outcome of her actions.
+
+However, things ultimately turned out well: she met a new friend (she hadn’t broached the subject of a title change with Link yet; he was so serious, like Rock, yet much more intimidating. She had the feeling it would be better to ask his permission to call him a friend first, instead of openly claiming him as one) who was invaluable in making her feel comfortable navigating the unfamiliar wilderness; she met two more new friends, in the form of Miss Fish and little Wisteria, and Rock made contact with another mana mineral like himself. Would all of these events have happened if Bubbles had agreed to run away from the start?
+
+Granted, she had happened upon the two newest friends and mana mineral while they were in an existential plight, so not everything was rosy…
+
+“If it is taking you this long to decide, then clearly a significant part of you has no regrets,” Link sighed. Before Bubbles could defend herself, he turned back towards Miss Fish, who seemed even more flustered by Bubbles’s turmoil. “Let’s play this scenario through: say you decide to stay and fight. Assuming you had all of the resources at your disposal, how would you go about culling the invasive vines? Your ideal scenario.”
+
+“I would… If I had enough herbicide pills, and enough animals to help, I would begin distributing the herbicide as soon as possible. Once the vines are paralyzed, I would send the small creatures in to begin eating the flowers to prevent seeds from dropping, and the large predators to begin digging up and removing the roots. Then I would have the roots brought back to me so that I could dispose of them safely,” Miss Fish said uncertainly, glancing upwards as she thought. “Once all the vines are cut from the roots, they won’t continue to grow, so the roots are the primary target to tackle if I were to halt the incursion...”
+
+Link nodded somberly. “Sounds logical. Let’s step back to reality and evaluate the logistics, starting from the top: using your ideal scenario as a template, what resources are already available to you? What resources would be easy to acquire, with some time or help? What resources are absolutely impossible to collect?”
+
+Bubbles was awed watching Link’s methodical approach as he slowly and patiently guided Miss Fish towards creating a plan of attack. She hadn’t been part of the magpies’ planning committee with the elder trees, so this was the first time she witnessed absurd ideas transform into viable actions.
+
+Link is a natural-born leader, she said reverently to Rock.
+
+[Indeed he is, although his experience working with the humans must have taught him much as well,] Rock agreed. He focused more on Bubbles. [However, it would be a bad look if we allowed the enemy to be more helpful than us. Let us put our minds together and see if we can contribute to the fish Guardian’s efforts.]
+
+Link was using a variety of small objects to help Miss Fish visualize all her resources: several clumps of his own bristly fur to represent the area the vines had already spread across; loose scales from Miss Fish to represent herself and her flock of birds, and several nutritional pills placed across the makeshift map to indicate where Miss Fish could stockpile her herbicides for any animal to pick up, should they wish to join the fight.
+
+“May I?” Link asked Bubbles, nosing towards a spine. Cuddles obligingly sprouted several more. “Thank you.”
+
+Link carefully harvested several needles, his teeth remarkably gentle. He poked the needles into various places across the map to signify the points that most needed backup.
+
+What do you think? Bubbles asked Rock after inspection. Just as expected, Link introduced a simple, yet very intuitive way of organizing the information Miss Fish knew, and what she was missing. The bristles far outnumbered the scales, and the nutritional pills, though separated, were still clustered too closely together to be effective at combating the vines, if their reported growth rates were accurate. Most daunting of all was the number of needles Link added to the map: those spines were the clearest indication of how overwhelmed Miss Fish was.
+
+[We may be able to deliver herbicide on our own; I can only imagine the feast little Fern will have.] Fern perked at Rock’s mention of a feast, and she leaned over to look at the map as well, though it was quite meaningless to her. [Presumably, Link will be able to rip up the roots; however, I am skeptical that we will cover enough ground to truly combat the wisteria.]
+
+Miss Fish looked at the map silently for a long moment. Then she sighed. “Thank you, Sir Link, for performing this exercise with me. I see now that I was naive to believe I had a droplet’s chance of surviving the summer heat.”
+
+“Take heart; it is not cowardice to escape an impossible situation with your life,” Link said gently to the sad fish. “As long as you bring your learnings to your next post, you can still add good to the world.”
+
+“Thank you for your kind words,” Miss Fish said miserably. Her voice was much more shaky, and the muscles in her body limp, as if she had finally relinquished her burden. Despite coming to terms with the outcome, she began crying in earnest, her fins vibrating. “I am sorry you have to see this… let me bring you back to the surface. I don’t want to keep you any longer.”
+
+Without waiting to hear their protests, Miss Fish swept them into another pair of bubbles and dove into the water.
+
+~ ~ ~ ~ ~
+
+Bubbles and Link made camp a ways away from the pond, after being seen off by a tearful Miss Fish. Neither one spoke for a while, both absorbed in their own thoughts.
+
+For Bubbles’s part, she was just wallowing in sadness. Miss Fish’s situation was so similar to her own, except worse: she barely had any supporters on her side. Bubbles at least had the entirety of the garden share her sentiment in making a final stand, while Miss Fish essentially had to face the end on her own. The number of scales she had placed down on the map was so few…
+
+Link lifted his head from the curled position he was in, staring intently into the trees, his nose twitching. “I believe someone is here to see you.”
+
+“Really?” Bubbles asked, surprised. She unrooted herself from her spot at Link’s rump and headed towards the direction Link was staring in. “Halloooo!”
+
+[You shouldn’t announce your presence in unfamiliar territory like this,] Rock said reprovingly, though his words had no bite. [You are fortunate you have the wolf acting as your protector.]
+
+I know, that’s why I’m not afraid!
+
+After a few seconds, a bird with iridescent plumage fluttered into view, eyeing Bubbles and Link warily from a high branch. “Greetings, Miss Bubbles. Are you in danger?”
+
+“No, no, not at all!” Bubbles laughed. She waved for Miss Magpie to come closer as she introduced her to the wolf who was still curled serenely on the ground. “Come meet Link! We managed to break the spell that kept him beholden to the humans, so he’s now a friend!”
+
+Bubbles stuttered to a stop as she realized what she was saying: she hadn’t yet cleared it with Link if they were friends yet. Worried about how he would take the introduction, Bubbles glanced at him anxiously.
+
+As usual, he took everything calmly. “Actually, it is more of a benefactor-beneficiary relationship. Miss Bubbles has yet to decide what a suitable repayment is for her freeing me from my compulsion. Until she releases me from my obligation, I will be following and serving.”
+
+Bubbles was disappointed; Link’s answer made it clear he didn’t consider her a friend, only a necessary companion. For some reason, Rock seemed to find her distress amusing. Miss Magpie, however, seemed impressed.
+
+“Indeed! Our Miss Bubbles certainly has a way of bringing everyone together.”
+
+“Nevermind that,” Bubbles said hastily. “What brings you here? How did you find me? How is the garden doing?”
+
+“Ah, that’s right. Everyone in the garden was upset, of course, when news spread of your capture,” Miss Magpie informed her. “However, spirits recovered quickly when we heard of your escape. The humans, as you can imagine, are duly embittered. They have yet to reorganize and resume their activities in the garden, but we are keeping close watch on their movements. In the meantime, we have been bringing in reinforcements to further dissuade them when they finally arrive; we actually enjoy living in the garden, so would like to preserve it as it is.” Miss Magpie shrugged her wings halfheartedly. “Funny how things change.”
+
+“So nobody else got hurt?” Bubbles asked anxiously.
+
+“Well, we lost a young scout when you got captured,” Miss Magpie said grimly. “But other than him and a few trampled weeds, everyone else will recover. Casualties were, thankfully, shockingly lower than anticipated.”
+
+“Of course. It is the Rangers’ foremost duty to preserve the natural order of things; and if that is impossible, to minimize harmful effects to the natural environment,” Link sniffed from his spot on the ground. He grudgingly added, “You all put up an impressive fight, but if we were allowed to fight with our full power, you would stand no chance.”
+
+Miss Magpie blinked at Link before letting out a raucous laugh. “I will accept your compliment on behalf of the Prime Family!”
+
+“Did you end up getting your target?” Bubbles persisted. Even though Miss Magpie was in a good mood, she was desperate to know if the plants were able to help the congregation achieve their goals.
+
+“Ah, yes, we did indeed.” Despite having seemingly reconciled with the wolf, Miss Magpie kept a wary eye on Link as she continued to divulge details to Bubbles. “We didn’t kill the cat, but we taught her an appropriate lesson, we believe. Please consider your obligation to us fulfilled.”
+
+Link huffed out a laugh. “So that was a targeted attack? We were wondering why the rest of us were relatively unscathed, but Luna suffered such grievous wounds.”
+
+“Well, yes. We aren’t monsters,” Miss Magpie said, affronted. “We don’t attack unless provoked, and your team member had been going on a corvid killing spree for a while now. Please understand, if she had only accidentally harmed one of our own, we wouldn’t have sworn revenge; but as it was, she was demonstrating a pattern of malice, so we had to teach her a lesson.”
+
+“You don’t need to justify anything to me,” Link said, shaking his head as he chuckled. “I never liked her anyway. Too needlessly ruthless and bloodthirsty, as you’ve noted.”
+
+[Your instincts were correct about Miss Magpie,] Rock said privately to Bubbles. [She and her tribe really are quite honorable people.]
+
+Bubbles felt herself relax as two unlikely animals chatted and bonded. Miss Magpie’s arrival certainly brought welcome news, and she was glad the congregation appeared to enjoy living in the garden enough to continue protecting it. However, she couldn’t stop herself from wondering just how long the good news would last.

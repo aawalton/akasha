@@ -1,0 +1,487 @@
+---
+id: 7188df02-7db5-5fc5-a924-0855b83e6d2f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 174: Theomachia"
+slug: 0096-chapter-174-theomachia
+partOf: the-calamitous-bob-stubbed
+position: 96
+ownLength: 5419
+unit: words
+ownProgress: 5419
+publishedAt: 2024-08-31
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1782058/chapter-174-theomachia"
+royalRoadId: "1782058"
+markedReadAt: "2026-06-29T21:18:04.807Z"
+---
+
+Viv rushed to Denerim’s side, unheeding of Octas lazily striding forward across the devastated wall. Her bodyguards were holding back spiders while far in the distance, islets of resistance remained around Orkan, Sidjin, and a few other elites. The others were running.
+
+She couldn’t blame them.
+
+To her surprise, Denerim turned to her when she approached.
+
+He… was still alive?
+
+“Denerim!”
+
+“All… all necessary. Had to have her commit with intent or… she tends to hide.”
+
+“You…”
+
+The old inquisitor’s voice was calm and his eyes remarkably clear considering the divine weapon lodged in his chest. His breath was measured. It was a little surreal.
+
+“It was only ever going to end one way, Viviane the Outlander. Now, listen, because this is the most important thing I’ll ever tell you.”
+
+He grabbed her shoulder with remarkable strength. The pressure could be felt even through her thin armor, and the sensation grounded her.
+
+“You plan and prepare a lot and that’s good, but sometimes? Sometimes you gotta have a little faith.”
+
+His eyes glowed golden, not the normal gold of divine casting but something deeper, more intense. Something fundamentally other.
+
+“Now, you might want to stand back.”
+
+A shockwave sent her tumbling before she could really react. Her bodyguards lost their footing as well but it was nothing compared to the spiders and other lackeys who were propelled away, smacked contemptuously aside by divine power. The golden aura around Denerim grew more and more intense until she could no longer look at it and far in the distance, Octas hissed. A moment later, the spine in his chest fell to dust.
+
+Then Denerim roared.
+
+It was not an expression of pain as she expected but one of outrage, of anger, and of hope. The roar went on and went past the point even the most dedicated opera singer could sustain. It was primal and visceral and yet very human. The golden aura spread across the city, along the ruined walls and over the desperate defenders. Hearts were reignited, spirits were lifted. Warriors Viv thought dead stood up, their flesh knitting from even the most grievous of wounds, and still Denerim was roaring.
+
+The witch had to step back when Denerim… grew. His battered armor flowed to form a glorious scale mail engraved with precious metals, his round targe melted into a kite shield. He grew younger as well, graying beard turning a lush gold. Where a man had kneeled, a titan now stood in a sea of power. The intensity of the mana was stronger than in the heart of Harrak. It overflowed and saturated the air with the smell of metal and hot sand. Denerim lifted his sword to the sky. The clouds parted, the night retreated, and a massive bolt landed on the weapon with a crack. When Viv could look again, the colossus was wielding solid sunlight shaped for purification.
+
+Neriad, God of Righteous War, had joined the battle.
+
+The incarnate was the most powerful one Viv had ever met.
+
+“BROTHERS AND SISTERS, HEAR ME.
+
+I, NERIAD, HAVE COME TO HOLD OUR ANCIENT COVENANT
+
+THAT NO WARRIOR OF THE LIGHT SHALL EVER STAND ALONE
+
+AS YOU HAVE FOUGHT IN DEFENSE OF THE INNOCENT.
+
+SO TOO SHALL I FIGHT IN YOUR NAME.
+
+FOLLOW ME, BROTHERS AND SISTERS
+
+WE SHALL MAKE THE WORLD A BETTER PLACE
+
+ONE BLOW AT A TIME.”
+
+The God of Righteous War’s aura spread across the battlefield until every hero and heroine basked in his golden halo. They screamed with shared fury as their eyes gained a golden glow of their own. Viv watched them reform lines with barely contained energy as Octas took a few steps back. The energy didn’t reach her but it was close.
+
+Neriad took a step in her direction. He was surprisingly graceful and quiet for something that size and covered in metal. He kneeled by the broken form of Efestar’s avatar. The dying god’s abyssal gaze found that of the light god. He smiled, though it was brittle.
+
+“BROTHER,” Neriad said with clear love.
+
+“Glad to… be back.”
+
+“VIVIANE.
+
+I AM COUNTING ON YOU.”
+
+“Got it.”
+
+“AND NOW, FOR SOMETHING I HAVE BEEN CRAVING FOR A VERY, VERY LONG TIME.
+
+OCTAS YOU HAIRY, DOG-FACED BITCH!
+
+I’LL KICK YOUR ASS SO HARD YOU’LL PISS SILK!
+
+HAVE AT THEM FRIENDS
+
+CHAAAAAAAAAAAAAAAAAARGE!”
+
+The ensuing warcry was completely deafening. The assembled forces of light practically flew over the collapsed wall, jumping great distances at once. Viv had only seen elites move like that before. That aura had to be something strong, wow.
+
+“Alright. No time to lose.”
+
+She reached for her belt and removed the various pieces of a small altar, which she assembled by Efestar’s side. The fallen god was fading quickly. She hoped there would be enough time.
+
+“It was good to see him one last time,” Efestar whispered.
+
+“Fefe, if you think I’m just going to let you quit while you’re ahead, you clearly don’t know me. You got a lot of life to see yet and you also got a lot to answer for. So hold tight.”
+
+“What… do you mean?”
+
+“I keep telling everyone. I don’t do tragic last stands.”
+
+The altar was ready. It was a communication altar used by many of the clergies, especially the one that belonged to Maranor.
+
+“Ahem. Oh, Neriad, hear thy servant’s-”
+
+“I AM RIGHT HERE JUST ACTIVATE THE DAMN THING.”
+
+“Oh right.”
+
+It took a lot of mana but the connection was made, and soon she was facing New Harrak’s Bishop of Neriad. The man’s hooked nose positively shivered with anticipation.
+
+“Your Majesty! All our preparations are complete! For the record, the priests of Sardanal are still a little hesitant.”
+
+“The time has come. Begin the ritual!” Viv said, feeling very much like an evil overlady ordering a war crime.
+
+“As you command!”
+
+Then Viv settled to wait over Efestar’s ruined body, hoping she’d made the right decision.
+
+***
+
+On the plains before Sinur’s Gate, the assembled people of Harrak waited in a festive mass around tents, fires, grills and tables. Almost fifty priests of various churches stood at the center of the gathering, praying and saying hymns. The green of Sardanal, the gold of Neriad, the Black of Enttiku led by that strange man Abenezigel, and even a few rare shades of the blue of Maradoc mixed in a harmonious whole. Only Maranor was truly missing, for second chances were not her thing. As the Bishop of Neriad exited the tent, he joined the group with a hasty pace, a smile plastered to his ecstatic face.
+
+“My children! My people! The time has come to change this world forever! Let us pray, everyone, let us pray and bring forth a new age! For the light gods!”
+
+“For the light gods,” the priests answered in unison.
+
+With commendable haste, the ten thousand Harrakans gathered around the colossal statue standing proudly in the middle of the valley, and at the feet of which the priests were now busying themselves. It was a strange statue as tall as twenty men, and it represented a cloaked man wielding two hooked swords. His face was a little too angular to be called handsome and his gaze carried a terrible weight, but it was still him, carefully carved over the past few months to Neriad’s specifications. The Righteous God had sent visions to his sculptors so that they may recreate the face of his friend as it was before he fell. The statue evoked great pain and exhaustion, yet the subject still stood proud against adversity, despite it all.
+
+“Oh, Efestar, the Redeemer, the Justicar, you who returned to the light.
+
+We greet thee and welcome thee home.
+
+Help up those who have fallen and seek solace.
+
+Grant salvation to those the law has scorned.
+
+Guide us to a path of betterment.
+
+Give us the will to go on when all is dark.
+
+Oh, Efestar, the Redeemer, the Justicar.
+
+We grant you thine salvation.
+
+So that you may grant us ours in turn.
+
+Come back, Efestar. We beseech you.
+
+Come back and take your rightful place.
+
+We greet thee and call thee home.”
+
+The chant repeated, carried by tens of thousands of voices both in Harrak and in other temples across the continent, but it was there, at the foot of the fallen god’s true representation, that mana was at its thickest.
+
+The Bishop of Neriad ignored the tear falling down his cheek. Now this was worship, now this was a good cause. He happily joined his voice to the choir. It was not everyday one could save a god.
+
+His eyes found the statue again, Efestar’s determined face. The giant stone construct gave him hope.
+
+He just prayed Her Majesty Viv would stop calling it ‘El Efestaro Redentor”, whatever that meant.
+
+***
+
+Efestar turned to dust. At first, Viv panicked and thought she’d been too late, or that she’d fucked up, but the shell of the Dark God of Scorn fell away like a mask. The porcelaine of his perfect face broke like an egg to reveal scarred, rugged skin underneath. The armor cracked and crumbled, revealing a ratty cloak which framed a leather chestplate decorated with metal studs. Greaves and gauntlets gave way to cloth bands wrapped around wiry muscles. Efestar, the man, stood from the ruins of his glorious self like a lost child, blinking away power with brown eyes shining with a dull purple light. Thin and long fingers brushed the last scraps of scorn away from his new form and he stood up on shaky legs with Viv’s help. The strange thing was, he looked so human, lost and all, but Viv’s soul sense could not be mistaken. This was a god, with that strange domain around him. A newly remade god, a weakened god, a lost god, but a god nonetheless.
+
+“You going to be ok there, Fefe?”
+
+“Yes. I… this is so strange, mortal girl. I haven’t felt this weak in centuries and yet… I feel so free. So full of potential again.”
+
+He reached for the air and two twin hooked blades appeared in his hands. Sunlight slowly faded from around the old weapons, and Viv felt a hint of hot sand and flowers on the wind. Efestar chuckled.
+
+“Heh. He kept them. Of course he would.”
+
+“Soooo are you good enough to fight?”
+
+The city was empty now except for those protecting the Last Stand. Beyond the broken wall, the battle raged in a great din.
+
+“Yes. I cannot let that cheerful idiot get all the glory. And… he’s alone. Maranor should be standing with him.”
+
+“I think… they’re kind of having a bit of a tiff?”
+
+“That is good… bad news. That is bad news.”
+
+He chuckled.
+
+“I am going to need some time. To adjust. But this battle is about redemption and absolution. I should be able to use my new aspect to its full extent.”
+
+“It’s important?”
+
+“Yes, very much so, mortal girl. You have seen Octas. This fight is entirely hers, what she stands for and Neriad… it’s also absolutely him. You will understand when his aura touches yours. Try not to resist too much. You are already walking your own path, after all.”
+
+“I’m not sure I understand.”
+
+“There will be time for that later.”
+
+Viv quickly crested the remains of the Cradle’s walls and stepped into a vision of cataclysm. Night had fallen now but looking forward, she couldn’t tell. Dark clouds hung low over the burnt forests, their dark blue mixing with the rising soot of the battle field. Octas sat on the line like a black monument to savagery. She struck with spells, quick jabs of her razor-sharp legs and spat stingers. Silky tendrils reflected the light while by her side, Gomogog’s titan turned flesh to mush with every step. A veritable sea of squirming creatures crawled behind her until even the ground writhed and slithered. If there was a representation of Ragnarok, this would be it. Well, maybe with more wolves or whatever. The most remarkable thing was… they were not winning.
+
+A thin line of warriors and mages, cloaked in golden and viridian light of such intensity that it was as if the sun had fallen to earth, held back the tide. They sang hymns and crushed creatures twice their sizes with a fury and a fervor they absolutely shouldn’t be able to display. Sidjin launched twisters of shards and grinders that tore through the horde in devastating strikes. As she watched, mesmerized, a farmer plunged a fork into a giant’s spider cerebellum and the creature’s entire head erupted in flames. Wounds closed almost as fast as they were opened, and their weapons reformed with every blow, shining ever brighter. The divine mana covering the battlefield gave her vertigo. Meanwhile, Neriad was a flash of speed holding back two avatars at once.
+
+A part of her regarded Neriad as kind of a himbo. Well-meaning, strong, a good man but not necessarily a genius. Perhaps it was his own admission that he didn’t know what a good cause absolutely was, or maybe she was just biased. But looking at him now, she realized she’d made a mistake. Obviously, no one who had followed Emeric to the end could be normal, and Neriad was certainly not the weakest. It was watching Solar fight, if Solar had reached the pinnacle of his art. Perfect positioning, perfect moves, every strike pushing, deflecting, endangering, every step meaningful, he was a whirlwind of directed violence. His shield was not just an invincible barrier, he also used it to bash and push. By himself, he held two incarnates at bay.
+
+A second after Efestar reached Viv’s side, Neriad planted his shield in the ground. A golden barrier surrounded the forces of light who took a step back to catch their breath while the dark squirming ocean rabidly scratched at the divine protection. Neriad appeared right in front of his lost brother with such speed that Viv had to take a step back.
+
+“BROTHER.”
+
+“Neriad. I suppose you were right in the end. I am here now, and I’m not leaving.”
+
+“I NEVER DARED HOPE THIS DAY WOULD COME.”
+
+“I am sorry I won’t be of much help. I am weak, so weak. Pathetic, for a god.”
+
+He chuckled again though it was bitter and filled with regret.
+
+“YOU ARE NOT PATHETIC.
+
+YOU HAVE WON ONE OF THE HARDEST BATTLES THERE CAN BE.
+
+QUESTIONING YOURSELF AND ACCEPTING YOUR MISTAKES.
+
+BROTHER, YOU ARE NOT PATHETIC AT ALL.
+
+YOU ARE THE MOST MAGNIFICENT SIGHT I HAVE EVER BEHELD.”
+
+“I’m sorry to be interrupting your broment of pure bromance but… the big fucking spider?”
+
+Both gods glared and Viv suddenly felt very small indeed, but that didn’t last. Neriad sighed.
+
+“THE PESKY ASCENDER IS RIGHT.
+
+THERE IS MUCH TO BE DONE AFORE THE SUN RISES.
+
+ARE YOU READY?”
+
+“I may be weak but I believe the world has forgotten what we could do together. Let’s remind everyone here… who it was that brought the old gods to their knees.”
+
+Neriad grinned. For the first time, Viv saw a hint of bloodlust there and she remembered that perhaps the God of Righteous War admitted he had limits because maybe, just maybe, he’d reached them before.
+
+“JOIN US, ASCENDER.”
+
+Viv’s vision turned gold, or rather, the night was banished and there was only light and darkness. Her soul sense shivered from an overload of sensation she was paradoxically more vulnerable to than the average swordsman. Thankfully, Neriad’s touch was light enough and she managed to accept the invasion. Energy poured through her veins like lava. She gasped from the absurd pressure.
+
+There was a pressing request, as Efestar had warned. She allowed Neriad’s faith to take over her. A part of her wanted to resist it because it was altered by Neriad’s own mind, his belief. She would be embraced in his existence rather than living her own. It was inherently abhorrent, and yet a part of her wanted to know, to experience what it was to have faith. She didn’t see Neriad as a supreme existence. She didn’t really want to, but perhaps, for the duration of a single battle, it would be fine.
+
+She breathed out and let it take her, and it was magnificent.
+
+White light illuminating the darkness.
+
+Power like lava coursing through her veins and conduits both. She breathed deeply of the heat and the anger until her lungs were full. Relief washed over her, through her, cleansing all fear and all doubt. No thoughts of the future remained, or of the past for that matter. There was no need to plan. There was no need to reconsider. Only two things existed on this evanescent plane of existence.
+
+Us, the good guys.
+
+Them, the assholes.
+
+The world was perfect clarity and the belief that she was right, absolutely right, overloaded everything else. It was true. It was so true. Octas was unambiguously an asshole. She’d sieged that village, killed its people. She had tried to make Viv fail during her transition to elemental archmage. She was now trying to sink an entire island. Octas needed to have her ass kicked to oblivion and Viv was going to be the one to do the kicking. This blind faith felt better than good. It felt transcendent.
+
+Tonight, Viv was righteous.
+
+She would follow the incarnated God into glorious battle and triumph against the forces of evil.
+
+It could be no other way.
+
+She was so transported that the notifications barely registered.
+
+You are now under Neriad’s Mantle. The God of Righteous War’s mantle is at full power.
+
+Due to attributes of your own soul, the effect will be limited.
+
+You are invested with an aura of righteous anger. Your stats have been temporarily improved
+
+Power +12
+
+Finesse +6
+
+Endurance +7
+
+Focus +3
+
+Acuity +3
+
+Willpower +10
+
+You have acquired the following temporary skills:
+
+Divine weapon mastery.
+
+Divine battlefield awareness
+
+War God’s reflexes
+
+Dauntless.
+
+Sardanal’s aura of renewal will extend the effects to the end of the battle with no ill effects.
+
+Viv’s awareness expanded to include the entire battle line. Orkan took the center in a hurricane of blades, fighting dangerously close to the avatars. Other champions anchored the line while mages thinned the horde with every spell, their mana rushing back in thanks to Sardanal’s blessing. Sidjin was the heaviest hitter. Every last spell he cast shredded through dozens upon dozens of spiders in a ceaseless wave of colorless grinders, but it was at the center of the formation that the true battle was happening. Facing them, Octas remained a monolith of savage rage while the lesser form of Gomogog endured monstrous punishment, but now she could see why Neriad and Efestar would have been so close. They complemented each other perfectly.
+
+Neriad was the showy knight in shining armor as well as a peerless duelist. His presence could not be ignored as he controlled the flow of battle with precise strikes. Meanwhile, Efestar appeared and vanished in his wake with every opening. The Redeemer struck fast and true, aiming where their adversaries least expected to devastating effect before vanishing again under the cover of his brother’s assault. Neriad was the torrent and Efestar was the sharp rock. They worked together so seamlessly, they might have been two bodies under one mind.
+
+Viv settled into her new state and she knew what she had to do.
+
+There was a horde; it was evil.
+
+She was the dedicated horde solver.
+
+[Aspect of the Destroyer]
+
+Her wings anchored Viv over the line, slightly to the side. Octas noticed her and made to attack but Neriad instantly carved a leg up for her trouble, making full use of the opening. Octas simply didn’t have the time to do anything.
+
+[Sequence: Triple Storm of Zamhareer]
+
+Even to her, the spell should have been difficult to cast on the fly. She had to hold the array with her mind instead of writing it on the ground, and she didn’t have matching metal symbols ready yet, but none of that mattered. She was righteous. Her cause was just. Divine weapon mastery stretched to help her focus, discipline helping her maintain the array. There was no need for her to doubt or think about anything distracting like tactical positioning or cover or maybe being skewered by a divine arachnid stinger. None of it registered. She had Sidjin already laying defensive arrays around her while another champion pushed the line forward. A tiny part of her registered this fact before no longer paying attention at all. There could be only one outcome to this moment, and it was the one Neriad was showing her. Mana the color of dark, burnished gold flooded her being as it lit the array with divine intensity. The spell triggered once, twice, thrice and the sky under the clouds turned into a beautiful field of golden motes expanding over the battlefield. The delicate embers floated down with ineluctable slowness.
+
+Octas recognized the danger too late. The hex was out; the die was cast, and not even Neriad could stop it now. The spider goddess fought harder to push the light gods back but in doing so, exposed her flanks before Gomogog could cover them. Neriad was simply stronger, and with Efestar by his side, the two were unstoppable. Out of options, the Spider Queen lifted her bulbous rear end and sprayed silk up in a large cloud. Viv tsked. That would intercept her spell.
+
+“SKREEEE!”
+
+A distant shape crossed the skies in a dash of white, spraying fire on the ascending shield and burning it in the air before it could manifest. Octas’ hiss of frustration made Viv’s ears ring and for a moment, she feared for Arthur, but Octas could not afford to go after the dragoness and live. Her flanks already bled thick ichor.
+
+“Arthur!” Viv bellowed.
+
+Am not staying.
+
+Weird human magic!
+
+I am already very righteous!
+
+I don’t even eat people!
+
+“Thank you anyway!”
+
+With Octas’ last effort defeated, the rain of golden motes fell on her followers.
+
+The battlefield in front of the human line erupted in a colorful display of popping balls. The sound was curiously subdued considering the devastating effect it had on the skittering mass. For a moment, the effect was blinding and the screeches, deafening. Octas spat silk again to protect herself while Gomogog merely absorbed spiders to form a protective layer of chitin that thwarted the spell but it didn’t matter. The assault continued on Neriad’s lines for a few moments and then, it stopped.
+
+The horde had perished to the last flesh eater.
+
+Viv followed her borrowed instincts. Followers formed a half circle around the fighting avatars rather than engaging. Shields and polearms gathered in a staunch line but it was clear they were outclassed.
+
+Viv wasn’t though.
+
+[Aspect of the Destroyer]
+
+[Sequence: Hyperbeam, Astra, Astra.]
+
+She almost flinched when a stinger whizzed her way but Neriad intercepted it with his shield. Sidjin struck next with a sharp and barely visible spike. The gods readjusted their tactics on the fly, the information communicated directly into Viv’s mind. They were a whole, united in purpose. It was absolutely glorious fighting side by side with those monsters, like singing next to a star or playing an instrument along with a soloist. She cast golden spells when her instincts pushed her to aim at seemingly empty spots and by the time the spell triggered, Gomogog’s avatar had been thrown there. The dark gods fought tooth and claw against the inevitable for several minutes with all their tricks and dark powers but somehow, the most horrible were pushed away from the humans under the auspicious mantle of the light god. Little by little, the dark ones were chipped away. Octas was the first to crumble when Efestar shattered the second leg on one side. Viv was ready for it.
+
+“Guillotine.”
+
+The cage of gold-tinged void blades closed in on Octas’ flank and carved deep gashes through the thick carapace. It was too much for Octas. Her screams of agony hit Viv like a solid wall. They were pushed back.
+
+Neriad was not. While Efestar slashed at Gomogog’s arm, the righteous god lifted his blinding blade above him.
+
+[Execution]
+
+The divine blow cleaved the dark goddess’ head from top to bottom in one strike. Her body collapsed with a sound like broken glass, as if reality itself was shattering, it set Viv’s teeth on edge. Even outside of her mantle, even as her foe, it was as deeply disturbing as nails on a blackboard.
+
+The ensuing scream sent shivers down her spine. The phantom pain of her soul wound washed through her mind.
+
+Gomogog’s avatar lasted only a little longer. He abandoned the vessel rather than fight to the bitter end. As the abomination’s body turned to sludge, both humans and avatars took a few steps back, and waited.
+
+It was done. It was over. Nothing moved anymore.
+
+A cold wind swept over the silent battlefield as the light of Neriad faded and the warriors clumped together in weary bands, exhausted, traumatized, but alive and victorious. Gold radiance blinked out but a cool verdant green replaced it, calmer. A light of healing and everyday life. It washed over wounds and then over the carpet of corpses, the burnt trees and the desolate fields. The clouds parted to show the twin moons in all their glory. The weather was cold here in the heart of winter but it also carried the crisp scent of the sea.
+
+The first dark green sprout popped up almost between Viv’s feet on land she’d recently blighted. It was soon followed by a wave of green, then joined by the red and blue of small winter flowers. Sardanal regained control over the island and the soil breathed for the first time in months. The trees did not bloom again, but offshoots popped from the stumps while deeply buried acorns grew new meadows around clearings of wild flowers. Crops filled the fields, and grass covered the burnt remains of many houses. Cries of wonder erupted from behind when the children left the Last Stand, joined by the remaining civilians and support people. All of the island’s survivors stood on the slope of the Cradle to watch the island come to life. The scars of war would take a long time to heal but they would get that chance, and that was all the forces of the light could have hoped to achieve.
+
+Sidjin placed a hand over Viv’s shoulder to draw her into a hug. Arthur landed nearby with a grumble about human gods and their weird lack of love for wealth. Meanwhile, Nous thought it was a good time to bombard her with notifications.
+
+Due to your victory today, your soul has been permanently marked. You have gained the following title:
+
+Always a Chance: You do increased damage to powerful entities, especially those that are stronger than you. They will never be safe.
+
+A light that never dims: the longer a fight lasts,the more powerful you grow.
+
+Your draconic intimidation skill has been enhanced to reflect this new reality.
+
+You have gained a new title: True Ascender.
+
+You are one of two human True Ascenders alive.
+
+That… had implications. She could guess where this was going and she was a bit hesitant. At least, the titles meant she would be able to protect Harrak better against unexpected threats.
+
+Draconic Intimidation: Expert 9
+
+Mana Mastery, Intermediate 8
+
+Focus +1 (46)
+
+All good and she would have to unpack some of these changes with Solfis. In the meantime, Efestar’s avatar stepped into the shadow of a tree and disappeared. Neriad’s own avatar had unfinished business.
+
+The God of Righteous War walked towards Orkan. The light faded from his shape until he returned to more human dimensions. Viv could feel with her soul that the god was staying but also withdrawing most of his essence and from behind his overwhelming mantle, Denerim appeared again. Like Viv, the others stood at a respectful distance. Everyone knew this was a personal moment.
+
+“This is goodbye,” Denerim said.
+
+“I’m not ready,” Orkan forced out. “It’s not fair.”
+
+“We’re never really ready to let go of people we love, I think.”
+
+“Damn. Still with the lessons.”
+
+“I love you too, my apprentice. I already said my goodbyes to my wife, and now I say them to you. You have made me very proud. I am amazed by how much you’ve grown while we journeyed together. I leave the place in your capable hands now.”
+
+“Yeah. Yeah, I’ll keep making you proud. You can count on me.”
+
+“I know.”
+
+The eyes flashed gold and the voice belonged to a god now.
+
+“THIS IS AS LONG AS I CAN STAY.
+
+THE TASK OF REBUILDING IS YOURS.
+
+REMEMBER THIS DAY WHEN WE FOUGHT SIDE BY SIDE.
+
+AS I WILL REMEMBER ALSO.
+
+BUT BE SURE TO LIVE AS WELL.
+
+FOR THAT IS WHY WE FIGHT TO BEGIN WITH.
+
+FAREWELL MY BROTHERS AND SISTERS.”
+
+The god dissipated, and with him, so did Denerim. All that was left was his armor. Not even dust remained.
+
+Orkan fell to his knees and cried.
+
+***
+
+Neriad stood at the center of the sandy arena, where a hundred weapons were resting. He walked to a corner and caressed Denerim’s sword. He sighed.
+
+“It never ends. Thank you, Denerim.”
+
+The God of Righteous War ceremoniously laid the sword to rest. One more blade stuck into the ground. One more brave joining the ranks of those who’d died fighting for a better tomorrow. There would be more in the future, and he would be there for them.
+
+Neriad unsheathed his own blade to practice his form. Perfection was a fleeting thing. Effort wasn’t. He owed them that much. Once he was done, he felt more centered, though a little tired.
+
+“Heard an eight-legged hag has been sent limping into the in-between,” a voice said from the side.
+
+“We won’t hear from her for a long long time. Welcome, Maradoc. Thanks for the help with Efestar. I think he’ll be ok.”
+
+“Yes, speaking of.”
+
+A cowled figure stepped from behind the blue robed shape of the God of Secrets. Twin hooked blades hung by his side.
+
+“Drinks?” Efestar suggested.
+
+“Absolutely.”
+
+***
+
+The war didn’t finish with the battle. The survivors of Sardanal’s Cradle were never meant to become warriors, so Viv and the others made sure to help with the grieving and rebuilding. Around half of the population was left to mourn the other. All of the houses needed to be rebuilt. During the time it took for ships to return, everyone worked tirelessly to help them cope with the end of their long nightmare. They’d held for so long with nothing but grim fatalism. Now that it was no longer needed, they fell apart. Viv found herself listening to a lot of sad tales that made her hate Octas even more. For others like Sidjin or Orkan, it was nothing new.
+
+Emeric’s Girl picked her up after another three weeks. She made sure to pack the Beast’s head for Solfis. The trip led them into a storm but thanks to Sidjin, Emeric’s Girl did well. The new captain happened to be Sil’s father and though there was certainly a history there, the man was closed off and taciturn, and Viv never managed to get more than a few words out of him. They made landfall in Zazas during the heart of winter before teleporting back to Harrak in just a few days' time. Viv didn’t enjoy Arthur’s incredible advantage of having wings to fly away from every annoying social situation. She was mercilessly grilled by everyone on how the battle went and what had transpired. As for Harrak, everything was going well including a burgeoning clergy of Efestar. Solfis was particularly eager for their next project as he led her onto the training field for Harrak’s newest corps.
+
+//I have recruited them from your worshippers.
+
+//The one you freed from the Nemeti.
+
+“I think I was abundantly clear. No worshippers!”
+
+//Pardon me, I misspoke.
+
+“Riiiight.”
+
+//I meant to say, devoted fanatics to the cause of Harrak.
+
+The new group trained with enthusiasm. They favored heavy armor but no shields.
+
+“Linebreakers?”
+
+//Yes.
+
+//But that is a secondary concern.
+
+//If the season permits you to be away without much damage, I propose that we carry on with our next project.
+
+“Back to Harrak, then?”
+
+//Yes.
+
+//Where it all began.

@@ -1,0 +1,217 @@
+---
+id: c96968f6-1c30-5d18-8285-dc18788ca2d9
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-FOUR: To Everything"
+slug: 0276-two-hundred-seventy-four-to-everything
+partOf: super-supportive
+position: 276
+ownLength: 2319
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3121733/two-hundred-seventy-four-to-everything"
+royalRoadId: "3121733"
+---
+
+274
+
+******
+
+Here I am again, thought Alden, wandering the siblinghold without anyone having invited me.
+
+He set his bags down inside the familiar cottage, then stepped out. Zansees flashed in the stream. The night air was heavy and moist. It had been raining right before he arrived, and drops of water still fell from the trees, plapping onto the carpet of leaves.
+
+The chairs where they’d often sat together waited empty.
+
+Stuart’s either asleep or in the manuscript library.
+
+Alden would bet on the second one.
+
+How do I do this? What exactly do I say?
+
+He’d been writing the lines of the conversation in his head for days, finding words to describe what was true and what he hoped would become so. But those words had scattered. He felt empty-handed in more ways than one, so he went back inside to pick up the bowl of grapes and a cookie shaped like a klerm that waited in a ribboned cellophane bag.
+
+“I want you to show Stuart anything about my life that helps him with his binding. When the time comes.” He set the cookie on top of the grapes. “If I end up imprisoned in another dimension, or I can’t speak to him after this…I don’t think it’s going that way, really, but…you know. You used a scene from his life to help me, so feel free.”
+
+[I hear you, Alden.]
+
+“Same for Kibby. If it’s ever necessary.”
+
+Here I go. It’ll be fine.
+
+On the way up to the main house, he spotted a wizard sitting in an open window on the third floor, enjoying the outdoor air while he chatted with someone in the room behind him. And there was a woman leaving the house and heading into the forest. Alden thought he recognized her as one of the assistants, probably going toward her own cottage. But the siblinghold wasn’t bustling at this hour, and he encountered nobody else on his way inside. Nor on the walk to the elevator that led down to the underground levels.
+
+Manuscript library. Just minutes left.
+
+He caught himself humming and forced himself to stop.
+
+The elevator reached his destination a moment later, opening to reveal the seating area. The library was warm but cooler than the upper floors, and there was a faint, almost toasty smell in the air.
+
+Alden knew the table and the armchair Stuart favored because he’d seen the Artonan boy working here several times now through his interface. It looked a bit different in real life. The same elegant furniture waited under soft lighting, and the same shelves extended into the darkness. But the area where he’d thought he would find Stuart sitting was hidden by a layer of dense white fog that hung in place like it was trapped in an invisible bell jar.
+
+Alden looked toward it, uncertain, wondering if Stuart was in there trying out a spell or if the fog hid someone else. I’d better text him after all.
+
+But then he glanced down to the place where the fog met the floor and noticed the edge of a familiar red wing sticking out.
+
+“Stuart? Are you here?”
+
+In seconds, the fog disappeared. Stuart stood at the table where Alden had thought he would be, reaching over a pile of research materials. A glass polyhedron that looked like it was full of mist was in his hand. It clacked onto the table’s surface, becoming opaque black as he let it go, and he turned.
+
+“Alden!”
+
+The ryeh-b’t sleeping behind his chair twitched her tail but didn’t wake.
+
+“You’ve come early.” Stuart beamed. “I’m glad! I had a frustrating day. Asay-tor interrupted my study. I wished I could call and tell you about it. How was your visit with your aunt? Now that you’re here, we have so many things to…. How did you get here, though? Should I thank Evul?”
+
+He’s always happy to see me.
+
+Stuart was wearing an earring—not the gleaming burngem piece Emban had given him, but a familiar clay study spiral. He noticed Alden’s eyes settle on it.
+
+“It’s an old one.” He reached up to brush it with a finger. “It doesn’t have potency, but I sometimes use it for special learning anyway. Come! I want you to see what I’ve found for you so far.”
+
+Alden headed toward him, taking in the scene.
+
+Books stood in neat stacks. Tablets displayed what sounded like skill names arranged with webs of lines and squiggles between them, as if the skills were members of overcomplicated family trees. “Watch out for the corner of that,” Stuart said, indicating the floating drawer full of stone and wood shapes that could hold information and memories. “I caught my sweater on it earlier.”
+
+He lifted his arm to show Alden a pick in the brown fabric of his sleeve, then he spotted his gift. “Grapes!”
+
+Alden looked for a place on the table to set the bowl down. There wasn’t one. Every inch of it was covered in evidence of Stuart’s work.
+
+How many hours has he spent here already?
+
+“Is this for me, too?” Stuart was reaching for the gingerbread. The cellophane crunched, and he withdrew his hand as if it had startled him. He looked at Alden questioningly.
+
+“I should’ve told you the truth about myself sooner.”
+
+“What?”
+
+Alden took a deep breath. “Right. Merry Christmas. These are the best grapes I could find. The huge green ones taste like candy. And the bag has a traditional holiday sweet in it. A gingerbread cookie. I asked them to make it klerm shaped.”
+
+Stuart picked up the bag and peered at the cookie. “How swiftly I have I become associated with these animals.”
+
+“I didn’t think eating a patient creature would be right.”
+
+“Thank you for the food. Now, please sit! I have much to show you. I’ve been organizing skills by—”
+
+“Stuart, is this place private?” He was almost feeling lightheaded. “If I tell you something important, is there any chance someone else will hear us? Is that fog some kind of isolating enchantment?”
+
+Rust-colored eyes blinked a couple of times. “The fog you saw was an illusion. It’s to indicate that I would like privacy if someone comes down here. Are you all right?”
+
+“I am,” Alden said. “I’ve made a choice. To tell you something. I would like to tell you now, and I wouldn’t like to be overheard.”
+
+“I will listen to you with both ears and my whole attention,” Stuart said, steady and earnest. “My room and the cottage are private as long as the doors and windows are shut. Are your belongings at the cottage already? We can carry some of this down with us. Let me pick out the most important things.”
+
+He grabbed the tablets and started collecting other research materials. Alden helped, but he was only half aware of what he was being handed. Stuart passed him whatever, and he obediently stacked it all up to take with them.
+
+It’s time. I’m really doing this. What words? How do I explain? What happens to me tomorrow? I can’t fall apart at this point. I need to—
+
+“Alden?”
+
+And they were at the cottage just like that. Alden was standing outside watching Stuart through the door, like he’d forgotten how to enter.
+
+“Coming.” He stepped in and set everything down while Stuart slid the door closed behind him.
+
+“We’re in private now,” Stuart said. “Unless you’re worried about her overhearing.”
+
+He nodded toward Other Alden, who had followed them down here. She slammed into the big blue suitcase just once, like it was a chore she’d assigned herself, then climbed on top of it and settled in.
+
+Alden stared at her. “Stuart, I’m a w… ”
+
+No.
+
+This wasn’t what I was going to say first. First, I wanted to say the more important thing.
+
+He looked around to see Stuart taking a cushion by the floor table and carefully positioning the grape bowl so that it would be dead center. He’d taken the cookie off it and placed it on the table. “They’re cold,” he noted, plucking a green grape.
+
+“I just took them out of the refrigerator.”
+
+Stuart popped the grape into his mouth and chewed, waiting patiently.
+
+“You’re strong enough to be a knight, Sina Stu-art’h, if that’s what you want to do.”
+
+Alden took a deep breath.
+
+Stuart had straightened at the use of his full name. He opened his mouth to thank Alden, or ask him what he was talking about; but Alden had found his way forward, and he couldn’t risk stopping.
+
+“Affixation…binding…it’s hard. Solitary. You feel so helpless and violated. Altered. It hurts. Yourself hurts. Even the being you could have been hurts as you’re destroyed and redefined. Unless that was just me losing my mind for a while….
+
+“There’s still life. You resent your binding sometimes. You even fight it. But that’s not all there is. You can also appreciate what you’ve become and enjoy  your new abilities. You lose something, but you don’t only lose. There’s also gain.
+
+“That’s what it’s like. You can do it, and you’ll be fine. Even though I’m afraid for you, I truly believe that.
+
+“Your family…I’m sure if they knew the truth about me, they’d all think I’m destined to fail or die. But I haven’t yet. I don’t want to. I don’t plan to. I won’t. And you won’t either.”
+
+Stuart was staring.
+
+That’s okay. This is it. Keep going.
+
+Alden walked over to kneel beside him, facing him.
+
+“You can do it. That’s the first thing I wanted to say. The second is that you can trust my opinion on what it’s like as much as any hn’tyon’s because I have a sense of my own authority, too. I can do magic, too. Not like an Avowed, like a wizard. So I do know what having bound authority is like.”
+
+Stuart’s gasp had a whistling sound to it.
+
+“No, don’t speak yet!” Alden leaned closer. “The third thing I need to say is that I’ve made the hardest choice of my choosing season. I don’t know what’s going to happen to me, but I know what I hope for.
+
+“I hope you’ll stay my friend. I hope you’ll help me learn how to use my power. Take me with you when you go to Goldbush, as long as I won’t be in your way. In the future, whenever you go anywhere dangerous, take me along. You’re so ridiculously intense, wanting to fight chaos and kill demons, but if you’re going, I want to be there, too. I would rather stand beside you in a place like that than enjoy the easy river while you suffer.”
+
+Haoyu’s fingers clutching his mother’s shirt when she’d made it back home.
+
+The power of Arjun, a Brute who’d altered Alden’s life, and who he could one day surpass.
+
+Everyone falling into snow.
+
+“If I’m not useful now, that will change. I’ll get stronger. I want to guard your back…and I hope you’ll guard mine. If it’s possible, if the politics of my situation don’t get in the way, I want us to be brothers on the same path. I want to be a knight with you, Sina Stu-art’h. Or as close to one as I can be.”
+
+That was it.
+
+The cottage was so still.
+
+I said it.
+
+“You can take your time,” Alden said. “I’m sure you need to think.”
+
+Stuart stared and stared.
+
+“Um…I don’t know if I’m allowed to be what I am? I hope my life on Earth isn’t over. If it is, that would…be very hard for me. And if you think your government is going to kill me or imprison me or do experiments on me, I hope you’ll help me keep all of this a secret. But I know you have to consider your oaths.”
+
+Such agonizing silence.
+
+“I’m sorry I didn’t tell you sooner. You’ve been so honest with me about yourself, and I…I know I said you could take your time, and you can. But would you please say one thing to let me know you’re there? This tension is a lot.”
+
+Stuart finally blinked. “Yes.”
+
+Alden swallowed. “Are you agreeing that the tension is a lot? Or something else?”
+
+“Yes to everything you are,” Stuart said slowly. “And yes to everything you’ve just said you want from me. I…. Yes.”
+
+Yes.
+
+The word was perfect. It was too good to be true.
+
+“Yes?” Alden asked.
+
+“Yes, Alden. Samuel Alden Thorn. My friend.”
+
+Alden’s eyes closed. The air was suddenly doing a better job of filling his lungs.
+
+When he looked again, Stuart was shoving a whole handful of grapes into his mouth. The Artonan gulped them down after only a couple of chews. “Are you…are you sure, though?” he murmured.
+
+“I am. Wait. About which part?”
+
+“The second thing you wanted to say. You said it very quickly. And it was something I think you should’ve said less quickly. ”
+
+“I’m a wizard,” said Alden. “Possibly not in a legal sense? Because I haven’t had training, and I’m not Artonan. But I’m a wizard.”
+
+Stuart shoved another fistful of grapes into his mouth. “I know I am not hallucinating. The cookie is too weird, and I… ”
+
+Alden moved in the way he had wanted to many times. Reaching out to the presence beside him, politely and with hope, he pat-patted like they were learning partners.
+
+Stuart’s body stilled.
+
+Then, Alden received a light tap of acknowledgement. It was delicate and cautious compared to Kibby’s way of saying hello, but with someone much more powerful behind it. He felt a smile breaking across his face. He patted again, trying to match the more delicate approach.
+
+Stuart’s brows lowered. His eyes locked on Alden’s.
+
+“There you are,” he said. “You’ve been so quiet. That must have been lonely.”
+
+******

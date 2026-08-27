@@ -1,0 +1,41 @@
+---
+id: bde7c7df-1e64-51a2-83cb-9faa753486ff
+page-type-slug: story-chapter-royal-road
+title: "System Univers Book 6 is Out Now!"
+slug: 0009-system-univers-book-6-is-out-now
+partOf: system-change-system-universe
+position: 9
+ownLength: 485
+unit: words
+ownProgress: 485
+publishedAt: 2024-06-19
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1684140/system-univers-book-6-is-out-now"
+royalRoadId: "1684140"
+markedReadAt: "2026-06-29T19:57:01.820Z"
+---
+
+Hey everyone! It’s finally June, which means that my sixth book in the System Universe series is here!
+
+Today marks the launch of System Universe Book 6: Indaria. It’s now available through Amazon’s Kindle Unlimited, Kindle, Paperback, and Audible (narrated by Adam Verner).
+
+Available through these links:
+
+Ebook: https://www.royalroad.com/amazon/B0CV28VP2W
+
+Audible: https://www.audible.com/pd/Indaria-Audiobook/B0D5YZHQB3
+
+Now, as for how people can support the release, there are a couple things, if you were here for the last announcement, you already know this:
+
+-Ratings and Reviews: On Amazon (Also, keep in mind that anything below a 5 is basically bad because of how their rating skew) ratings and reviews are the biggest help for authors. Also, you don’t have to buy the book to rate it, which is good because you most likely already read it here. Though, I would for sure love for you to pick it up again on KU or Audio to get in on some of that good editing and narration. XD
+
+-Kindle Unlimited Downloads: With the way Amazon’s algorithm is, reading the book on KU or even just downloading it helps a ton. The more downloads/reads, the more Amazon likes the book.
+
+Here’s the description!
+
+The raid did not turn out to be what he was expecting…After some unsettling news brought to them by an unexpected messenger, Prince Edgar fled the Raid Dungeon to hurry back to his kingdom, leaving Derek as the impromptu leader. Being concerned about his people on the outside, Derek chose to rule with an iron fist to finish the dungeon as soon as possible. This choice didn’t make him any friends, but he didn’t need any for it to work.By taking the strongest to battle, he was able to lead the remaining party members to a successful dungeon completion, though, not without casualty. Things are never easy. On their way out of the dungeon, Derek and Silvi were abducted by a strange elf of unknown power. This man, known only as Dave, was strangely helpful and shared much of Derek’s own distaste of the system interference that had been occurring ever since his evolution. Now, with more questions than ever before, and answers to questions that he’d never thought to ask, Derek and Silvi head back to Savannah to lend their help. What has happened to Cydaria? Was Edgar and Lyra leaving the raid the correct decision? Did Cydaria even need the prince’s help? What does dragon taste like when properly cooked?Don’t miss the sixth installment of Derek’s journey in the System Universe. Join Derek in this unique combination of the LitRPG, Isekai, and Slice of Life genres. He has friends, a bond that should last forever, and even a home. What more could our overpowered protagonist ask for?
+
+I want to thank everyone who read and continue to read the series, and those who left me kind reviews and messages. You are all awesome!
+
+And as always,
+
+Thanks for reading!

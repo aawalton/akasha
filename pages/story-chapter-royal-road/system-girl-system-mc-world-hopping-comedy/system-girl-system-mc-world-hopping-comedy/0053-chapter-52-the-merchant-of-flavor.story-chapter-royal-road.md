@@ -1,0 +1,391 @@
+---
+id: df514b45-c631-589d-b268-15b75a701123
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: The Merchant of Flavor"
+slug: 0053-chapter-52-the-merchant-of-flavor
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 53
+ownLength: 3062
+unit: words
+publishedAt: 2026-01-18
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2955637/chapter-52-the-merchant-of-flavor"
+royalRoadId: "2955637"
+---
+
+The morning light filtering through the frost-rimmed window was gentle, painting the room in soft shades of grey and white.
+
+Ren was awake before the sun. He sat on the edge of his straw mattress, staring at the drawer that served as a makeshift crib. Inside, Lily was fast asleep. She was a picture of absolute peace—silver hair fanned out on the pillow, chubby cheeks flushed pink with warmth, tiny hands gripping the edge of her blanket with a strength that belied her size.
+
+She let out a soft, bubbling snore.
+
+Ren smiled, but the expression didn't reach his eyes. His gaze drifted to the corner of his vision, where his status screen hovered.
+
+[NAME: REN][LEVEL: 2][CLASS: NONE]
+
+"Level 2," he whispered, the words heavy with anxiety.
+
+In a video game, being Level 2 in the starter town was fine. But this wasn't a game. This was a world with monsters and bandits.
+
+He looked at his hands. They were calloused from typing, not swordplay. He had killed a rabbit and a mini-bison, but those were prey animals. If a goblin kicked down the door right now, or if a dire wolf attacked them on the road... what could he do? Throw mayonnaise at it?
+
+"I need to get stronger," he muttered. "But I can't go hunting. Not with her."
+
+He looked back at Lily. She was helpless. Fragile. And for some reason he couldn't quite articulate, the thought of anything happening to her made his chest ache with a sharp, physical pain.
+
+"Okay," he said, standing up and shaking off the dread. "One problem at a time. First, money. Then, power."
+
+He began the day's prep. He had a delivery to make.
+
+He opened the System Shop interface. It was becoming second nature now, swiping through the holographic menus with the practiced ease of someone ordering lunch on a kiosk.
+
+He selected the [Bulk Goods] tab.
+
+[Item: Creamy Mayonnaise (500g Jar)][Quantity: 50][Total Cost: 1000 Dolarion]
+
+It was a significant investment. A huge chunk of his bison-hunting money. But Ren knew the cardinal rule of business: you have to spend money to make money.
+
+He confirmed the purchase.
+
+A flash of blue light filled the room, and five heavy wooden crates materialized on the floor, each packed with jars of the white condiment.
+
+Somewhere in the back of his mind, I watched the transaction log update.
+
+[TRANSACTION COMPLETE.][COMMISSION (5%): +50 SPP.]
+
+[CURRENT SPP: 720.0]
+
+I let out a silent, digital squeal of delight. Fifty points. In a single click. This guy wasn't just a chef; he was a whale. A high-roller. I mentally swam through my coin pool like Scrooge McDuck. With this kind of income, I could buy the communication module and a nice virtual sofa.
+
+Ren didn't hear my celebration. He was busy loading the crates into his Inventory—a feature he had discovered allowed him to carry up to 500kg of weightless goods. He left one crate out to carry by hand, just to keep up appearances.
+
+He wrapped Lily in her winter bunting, making her look like a very angry, silver-haired starfish. He placed her in her basket, hooked it over his left arm, and picked up the crate with his right.
+
+"Let's go make a deal," he told her.
+
+The walk to Gilder’s spice shop was brisk. The town of Dolaria was waking up, the streets filled with the sounds of merchants setting up stalls and the smell of woodsmoke.
+
+When Ren kicked open the door to Gilder’s shop, the bell jingled violently.
+
+Gilder was behind the counter, polishing a set of brass scales. He looked up, his eyes sharpening when he saw Ren. He didn't smile. He didn't offer a greeting. His gaze flicked to the crate, then briefly to the baby basket, before dismissing it entirely. To Gilder, children were just noise machines that broke merchandise.
+
+"You're late," Gilder said, though Ren was actually five minutes early.
+
+"Supply chain issues," Ren lied smoothly, setting the crate on the counter. "The caravans from the East are slow this time of year."
+
+He opened his Inventory and began stacking the other four crates next to the first. It was a casual display of magic—spatial storage was rare and expensive—calculated to impress.
+
+Gilder’s eyebrow twitched. "Inventory magic? You must be doing well for yourself, traveler."
+
+"Business is good," Ren said. "Fifty jars. As agreed."
+
+Gilder opened a crate. He pulled out a jar, unscrewed the lid, and inspected the contents. He dipped a small silver spoon into the mayo and tasted it. He nodded, satisfied.
+
+"Acceptable," Gilder grunted. He reached under the counter and pulled out a heavy sack of coins. "Here. Two hundred gold pieces. minus the down payment."
+
+Ren took the bag. It was heavy. It felt like security.
+
+[TRANSACTION COMPLETE.][COMMERCE SUCCESSFUL: +50 XP.]
+
+Ren froze.
+
+The blue notification hovered in his vision, bright and undeniable.
+
+XP?
+
+He blinked. He hadn't killed anything. He hadn't discovered a new location. He had just... sold condiments.
+
+A realization washed over him, warm and dizzying. The world didn't just reward violence. It rewarded success. Completing a contract, negotiating a deal, fulfilling an order—it all counted. The System didn't care how you overcame a challenge, only that you did.
+
+He didn't need to be a warrior to level up. He could be a tycoon.
+
+A slow, ambitious smile spread across Ren’s face.
+
+"Pleasure doing business with you," Ren said, pocketing the gold. "I'll be in town for a few days. If you need a restock, you know where to find me."
+
+Gilder just grunted, already arranging the jars on his premium shelf. "We'll see how it sells. The nobility can be fickle."
+
+. . .
+
+The next three days were a blur of commerce and caretaking.
+
+Ren spent his mornings scouting the market, buying low-quality herbs and reselling them to the alchemists for a small markup. It wasn't much XP—maybe 5 or 10 points a pop—, but it was steady. He was grinding.
+
+In the afternoons, he took care of Lily. He learned that she liked warm goat milk but hated cold air. He learned that she would sleep through a thunderstorm but wake up if he stepped on a squeaky floorboard. He learned that her smile, a gummy, toothless expression of pure joy, was worth more than the gold in his pocket.
+
+And in the evenings, he plotted.
+
+He scanned the System Shop catalogue, looking for his next big hit. He needed something shelf-stable, impactful, and addictive.
+
+He found it in aisle 4.
+
+[Miso Paste (1kg) - 40 Dolarion][Pure MSG Crystals (500 g) - 30 Dolarion]
+
+"The umami bomb," Ren whispered.
+
+On the third day, he returned to Gilder’s shop.
+
+The atmosphere was different the moment he walked in. Gilder wasn't polishing scales. He was pacing. The shelves where the mayonnaise had been were empty.
+
+When he saw Ren, Gilder practically leaped over the counter.
+
+"You!" Gilder exclaimed, his usually stoic face flushed. "Where have you been? I've been sending runners to every inn in the city!"
+
+Ren raised an eyebrow. "Is there a problem with the product?"
+
+"Problem?" Gilder laughed, a manic, high-pitched sound. "The problem is I don't have enough! The local Lord bought the entire stock for the Duke's banquet. Every jar! At triple the price! And now the Duke wants to know if I can supply the royal kitchens!"
+
+Ren smiled. "I see. Supply and demand."
+
+"I need more," Gilder demanded. "A hundred jars. No, two hundred. By tomorrow."
+
+"I can do that," Ren said calmly. "But... I have other things. Better things. Things the Duke has never tasted."
+
+Gilder stopped. He looked at Ren with a mix of suspicion and greed. "Better than the white sauce?"
+
+"Much better," Ren said, leaning in. "My family... we have many secrets. Tell me, Gilder. Have you ever tasted the essence of the ocean? The soul of flavor itself?"
+
+Ren pulled two small items from his pocket. A jar of dark paste and a pouch of white crystals.
+
+"Soup," Ren said, dissolving the Miso into a cup of hot water he requested.
+
+Gilder drank it. His eyes widened. "It's... savory. Deep. It lingers."
+
+"And this," Ren said, sprinkling the MSG onto a dry cracker. "This is Flavor Essence."
+
+Gilder ate the cracker. He stopped chewing. He stared at the wall. The bland cracker suddenly tasted meaty. Rich. Satisfying.
+
+"Witchcraft," Gilder whispered.
+
+"Chemistry," Ren corrected. "I mean... alchemy."
+
+Gilder looked at the jar of white powder with fear and hunger. "I want it. All of it. The Duke... he complains that his food is bland. This... this could change everything."
+
+Ren smiled. "I can get you ten kilos by next week. But it's expensive. The extraction process is... difficult."
+
+"Name your price."
+
+"Fifty gold per kilo," Ren said, marking it up by roughly 5,000%.
+
+"Done," Gilder choked out. "Do you need a deposit?"
+
+"Half up front."
+
+Gilder scrambled for his coin purse.
+
+Ren walked out of the shop ten minutes later, his pockets heavy with gold and his XP bar flashing.
+
+[COMMERCE SUCCESSFUL: +200 XP]
+
+He checked his status. The bar was full.
+
+[LEVEL UP!][REN IS NOW LEVEL 3.]
+
+He stood in the street, letting the warm glow of the level-up wash over him. He felt stronger. Faster. His mind felt sharper.
+
+He looked down at Lily in her basket. She was awake, staring up at him with those big, round eyes.
+
+"We're moving up in the world, Lily," he told her. "We're not just survivors anymore. We're monopolists."
+
+But as he walked back to the inn, a thought nagged at him. He was making money. He was gaining levels. But he was just a middleman. He was selling things other people made.
+
+Was that enough?
+
+He looked at the butcher shop. He looked at the vegetable stalls.
+
+He was a chef. His soul demanded that he cook.
+
+And if selling things gave XP... what would creating things do?
+
+He needed a kitchen. And he knew just where to find one.
+
+. . .
+
+With his pockets heavy with gold and his XP bar steadily climbing, Ren returned to The Tipsy Ursine. It was late afternoon, and the common room was starting to fill up. The air was thick with the smell of stale ale and the innkeeper’s questionable mutton stew.
+
+Ren walked straight to the bar. Helga, the innkeeper, was wiping down a mug with a rag that looked older than the building. She glanced at him, her expression softening when she saw the basket on his arm.
+
+"Back again, Traveler?" she grunted. "And with the little one. Is she sleeping?"
+
+"Wide awake," Ren said, lifting the blanket. Lily immediately cooed, waving a chubby fist at Helga.
+
+Helga’s tough exterior crumbled instantly. "Oh, look at those cheeks! Just like a little cloud." She leaned over the bar, making ridiculous faces. Lily giggled, a sound that cut through the gruff atmosphere of the inn like a bell.
+
+Ren seized the moment. "Helga, I have a proposition."
+
+"If it's about the rent, you're paid up," she said, tickling Lily’s chin.
+
+"It's about food," Ren said. "I want to rent your kitchen for the evening."
+
+Helga stopped tickling. She looked at Ren, her eyes narrowing. "My kitchen? Why? You want to poison my customers?"
+
+"I want to make dinner," Ren said. "Real dinner. Not... whatever that is." He gestured to the pot of bubbling grey sludge behind her.
+
+"Hey! That's my grandmother's recipe!" Helga huffed.
+
+"Your grandmother must have hated flavor," Ren countered smoothly. "Look, I'll pay you. Ten silver for the use of the stove and some prep space. And I'll make enough for you to try."
+
+Helga hesitated. Ten silver was a lot just to let a man boil water. Plus, the baby was looking at her with big, pleading eyes.
+
+"Fine," she grumbled. "But you clean up your mess. And if you burn the place down, I'm cooking you next."
+
+Ren grinned. "Deal. Here, hold this."
+
+He handed her the basket. Helga looked startled, then secretly delighted as she cradled the baby against her chest.
+
+Ren marched into the kitchen.
+
+It was rustic, to say the least. A large stone hearth, a couple of cast-iron pots, and a chopping block that had seen better centuries. But it was functional.
+
+"System," Ren whispered. "Let's go shopping."
+
+He opened the Shop.
+
+I watched with glee as he navigated the catalogue.
+
+[Calrose Rice (5kg Bag) - 200 Dolarion][Japanese Curry Roux (Extra Hot) - 50 Dolarion][Potatoes (1kg) - 10 Dolarion][Carrots (1kg) - 10 Dolarion][Onions (1kg) - 10 Dolarion]
+
+He bought it all.
+
+[TRANSACTION COMPLETE.][COMMISSION: +14 SPP.]
+
+My balance was now a staggering 734.0 SPP. I felt like a dragon sitting on a hoard.
+
+Ren got to work.
+
+He washed the rice, rinsing it until the water ran clear. He set it to steam in a covered pot.
+
+He diced the onions, carrots, and potatoes with a purely hypnotic rhythm. Chop. Chop. Chop.
+
+He pulled the leftover bison meat from his inventory. He seared it in a hot pan, the sound of sizzling fat filling the kitchen. The smell of browning meat drifted out into the common room, turning heads.
+
+Then, he added the vegetables. He sweated the onions until they were translucent. He added water and let it simmer.
+
+Finally, the pièce de résistance.
+
+He opened the box of curry roux. He broke off the blocks of solidified spice and fat and dropped them into the pot.
+
+The magic happened.
+
+The thin broth thickened, turning a rich, dark, glossy brown. The smell exploded.
+
+It wasn't the smell of a medieval stew. It was complex. It was spicy, sweet, savory, and deep. It smelled of turmeric, cumin, fenugreek, and a dozen other spices that didn't exist in this world.
+
+In the common room, conversation stopped. Patrons sniffed the air like hunting dogs.
+
+"What in the hells is that?" a dwarf at the bar asked, his nose twitching.
+
+"Smells like... fire and honey," someone else whispered.
+
+Ren stirred the pot, tasting it. He nodded. "Perfect."
+
+He plated a dish. A mound of fluffy, steaming white rice—a grain unknown in these parts—smothered in a ladle of thick, dark curry, chunks of tender bison meat, and vegetables glistening in the sauce.
+
+He carried the bowl out to the bar.
+
+Helga was still holding Lily, who was happily chewing on the innkeeper’s thumb. Helga looked up, her nostrils flaring.
+
+"Here," Ren said, placing the bowl in front of her. "Payment."
+
+Helga looked at the dark brown sauce. "It looks like mud."
+
+"Taste it."
+
+She hesitated. She took a spoon. She took a bite.
+
+The reaction was immediate. Her eyes went wide. She froze.
+
+The spice hit her first—a gentle burn that warmed her chest. Then the sweetness of the caramelized onions and the apple in the roux. Then the savory depth of the meat.
+
+It was a flavor profile completely alien to her palate. It was aggressive. It was comforting. It was delicious.
+
+She didn't speak. She just took another bite. And another. She ate with a focus that was terrifying.
+
+The patrons watched in silence. Helga was known for having a stomach of iron and a tongue of stone. Seeing her enjoy food was unnerving.
+
+She scraped the bowl clean. She licked the spoon.
+
+Then, she slammed the spoon onto the bar.
+
+"I'll buy it," she declared.
+
+Ren blinked. "Excuse me?"
+
+"The recipe," she said, her voice serious. "I'll buy it. Fifty gold. Right now."
+
+The room gasped. Fifty gold was a fortune.
+
+"Or," she continued, leaning forward, "I'll hire you. Head Chef. You run the kitchen. We split the profits 50/50. You can live here for free. I'll even... I'll even watch the kid while you cook."
+
+Lily let out a happy gurgle at that.
+
+Ren looked at Helga. He looked at the empty bowl.
+
+"I can't sell the recipe," Ren said honestly. "The... spice blocks... are a family secret. I can't teach you how to make them."
+
+Helga looked crushed.
+
+"But," Ren added, a sly smile forming, "I can be your supplier."
+
+He leaned in. "I can sell you the blocks. You just add meat and vegetables. It's easy. Foolproof."
+
+Helga’s eyes narrowed. "You supply the magic mud. I cook it. We split the profit?"
+
+"I sell you the blocks at a wholesale price," Ren corrected. "You keep the profit from the meals. But you have to buy the blocks exclusively from me."
+
+"Deal," Helga said instantly. She reached out a massive hand. "Shake on it."
+
+They shook hands.
+
+[CRAFTING & COMMERCE SUCCESSFUL: +75 XP]
+
+He had done it. He was gaining XP Experience Points by cooking.
+
+Ren took Lily back from Helga, feeling a surge of triumph. He walked back up the stairs, leaving a room full of hungry patrons demanding to know when the "Magic Mud Stew" would be on the menu.
+
+Back in his room, Ren tucked Lily into her drawer. She fell asleep instantly, her belly full of warm milk and her dreams likely filled with spice.
+
+Ren sat on his bed. He felt safe. He felt powerful.
+
+"I don't need a sword," he whispered to the sleeping baby. "I have curry."
+
+He lay back, staring at the ceiling.
+
+"System," he murmured. "Shop."
+
+I watched him. He wasn't looking for ingredients this time. He was looking for...
+
+[Soft Feather Pillow - 30 Dolarion]
+
+He bought it. He put it under his head.
+
+"Ah," he sighed. "Civilization."
+
+He closed his eyes.
+
+I floated in the void, watching his bio-signs drift into sleep.
+
+[CURRENT SPP: 749.5]
+
+I looked at the number. It was enough. It was more than enough.
+
+I navigated to my own System Menu. I bypassed the Coffee Machine, though it pained me. I bypassed the visual upgrades.
+
+I selected the [Advanced Communication Module].
+
+Price: 150 SPP.
+
+I confirmed the purchase.
+
+[MODULE INSTALLED.][TEXT COMMUNICATION ENABLED.]
+
+A new interface opened in my mind. A chat window.
+
+I could type to him. I could send him messages that weren't generic system alerts. I could warn him. I could guide him. I could tell him that the "Flavor Essence" was just chemical salt.
+
+I looked at the sleeping Ren.
+
+Not tonight, I decided. Let him sleep. Tomorrow... tomorrow we talk.
+
+I settled into the void, a new sense of purpose humming in my code. I wasn't just a shopkeeper anymore. I was a partner.
+
+And we were going to make a lot of money.

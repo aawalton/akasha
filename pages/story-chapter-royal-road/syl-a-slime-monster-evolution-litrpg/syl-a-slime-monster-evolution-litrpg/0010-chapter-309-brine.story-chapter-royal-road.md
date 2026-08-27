@@ -1,0 +1,269 @@
+---
+id: 17b888e3-f762-560d-84bb-17c5787acef6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 309 : Brine"
+slug: 0010-chapter-309-brine
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 10
+ownLength: 2284
+unit: words
+ownProgress: 2284
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2733695/chapter-309-brine"
+royalRoadId: "2733695"
+markedReadAt: "2026-06-29T19:42:06.448Z"
+---
+
+"Okay, you're always jumping at any opportunity to go full worm. Why not now?" Vee demanded an explanation.
+
+"Well, don't we want the element of surprise? We have no idea what's down there, and it could even be friends. This isn't like the kobold tunnels."
+
+Vee groaned in frustration. "I hate when you're suddenly logical. I swear you do this on purpose."
+
+I could only shrug in response. While I found her reaction delightfully hilarious, I certainly hadn't planned on it.
+
+I began spreading out enough slime to create a decently sized tunnel, activating [Acid Slime] to start melting through, and applying downward pressure. It was disgustingly fast how quickly I could eat through the ground; it might as well have been water or air I was passing through.
+
+I'd better lower the acidity. There's no reason to use the full power, or I could end up in a bad situation, like when Vee falls through the ground using [Phase Out].
+
+"I don't know whether to be impressed or terrified," Vee commented. "Like, I know we are in a world of magic, but this is almost like comic book levels of absurd powers."
+
+"I mean, with seventeen levels in it, I'd certainly hope it could at least do this," I responded. "Anyway, we will be reaching the cave in no time, so get ready."
+
+"Sure. I'll teleport down to you when you stop being all melty."
+
+It was probably for the best. I didn't want to accidentally hurt Vee, even if I could undo the damage by applying some [Heal Slime]. This reminded me that I still needed to advance my [Healing Magic] beyond its initial, pitiful levels.
+
+So much to do… Well, at least I won't get bored anytime soon.
+
+Just like I predicted, I melted through to the cave in no time at all. However, before I broke through, I ensured I was entirely opaque as I didn't want sunlight potentially announcing our arrival.
+
+I gave Vee the signal, and she poofed with a quick use of [Warp] before scurrying across the ceiling. I left a plug of slime in the hole and primed it with [Nitro Slime]. This way, it not only blocked any sunlight, but I could always pinpoint our escape route.
+
+I was almost gloating with my genius idea until Vee pointed out the obvious. "Wouldn't we just teleport back to the beach? Or even just up?"
+
+I held my tongue, refusing to give Vee the satisfaction of ruining my brilliant idea.
+
+"Anyway, moving on… look below, it looks like there's a whole little village down here," Vee replied.
+
+I finally surveyed the cave we'd broken into, and immediately I was assailed by a strange sense of familiarity. It looked damn near identical to the setup of the goblin village I lived in. The houses made from scrap, the small creatures milling about, and even an area for captured monsters!
+
+Well, this is a weird blast from the past.
+
+I looked closer at the creatures and was shocked to find that they were almost like goblins. Rather than green, they were blue, and between their toes and fingers was webbing. I threw out an [Identify] on a random one to figure out what they were.
+
+<Krooblub; Brineling [II] LV 15; Sniper [III] LV 25. Elemental Affinity: Water.>
+
+"And here I thought they were just blue goblins, but apparently they are called brinelings?"
+
+"They do look pretty goblin-like. Do you think they evolved from them?" Vee asked.
+
+"Maybe. Although I would have expected them to just be goblins with the aquatic mutation then."
+
+I continued examining their setup. Their ramshackle homes were built on either elevated rock or rickety stilts to avoid the rising tide. Clearly, despite being ocean dwellers, they preferred sleeping dry.
+
+I was briefly contemplating whether I should try a friendly approach with them or not when Vee grabbed my attention.
+
+"Hey, look at their animal pens, they've got sharks and dolphins!" Vee said excitedly, waving her front legs wildly.
+
+Just like Vee pointed out, the water surrounded by a makeshift barricade was filled with aquatic animals swimming around. Weirdly, I had no recollection of what a shark or dolphin was in my memories, so I could only gaze at the long, sleek, and greyish creatures with curiosity.
+
+"I bet you'd get some great traits from those. I always wanted to ride a dolphin!"
+
+"Really? With those teeth?" I replied.
+
+"Those are the sharks you silly slime. Have you really never seen them before?"
+
+"I don't think so. I guess I should have just used [Identify]. I wonder what traits they might have."
+
+Having said that, I did, and was quite surprised by the results.
+
+<Glac [Enslaved]; Shark [I] LV 6. Elemental Affinity: Water.>
+
+<Plioq [Enslaved]; Dolphin [I] LV 9. Elemental Affinity: Water.>
+
+"[Enslaved]…" I growled.
+
+"Can't say I've ever seen that Emblem before," Vee replied.
+
+"I think that means they have a warlock."
+
+"So definitely not friends then."
+
+I nodded. "Although on a more interesting topic, I'm surprised that the dolphin and the shark are the same tier. I would have thought the shark would've been higher. Not to mention the dolphin has a higher level."
+
+"That's not that surprising. I vaguely recall something about dolphins killing more sharks than sharks could ever kill in return."
+
+"Really? But they look so happy with that smile."
+
+"That's the smile of a killer," Vee replied ominously.
+
+I couldn't tell if she was joking or not, but the level difference definitely meant the dolphin had done more killing than the shark. Or perhaps its master had shared more experience with it. Regardless, I wanted to claim all three profiles for my collection.
+
+"So are we killing all of them, or just the warlock?" Vee asked. "You let the other goblins run away, didn't you?"
+
+"I did… although that was before I really knew the nature of monsters. We certainly didn't show the kobolds any mercy."
+
+"Just playing devil's advocate, but the kobolds were constantly attacking the dwarves like lemmings. Are these brinelings the same?"
+
+"Well, I could turn into a goblin and see how they react. Maybe demand their warlock's head?" I replied.
+
+"Uh… I mean, go for it, I don't really mind either way, unless one of these happens to be another [Experiment]. Then I might feel a bit weird killing them."
+
+I could see where Vee was coming from, and it was close to how I felt as well. While I still hoped that goblins like Yuzz were alive and well, part of me worried that they'd succumbed to their innate nature.
+
+Well, whatever, it's not like I want to play philosopher.
+
+I mentally sighed and shapeshifted into a hobgoblin, and even then, I needed to give a bit of extra girth to my form. I had far too many [Sub-Cores] now to take on smaller forms without removing them.
+
+I can't put them in [Core Storage], but I can put them in [Pocket Space]. Hopefully, that restriction on the former will get removed at a higher level.
+
+After finalizing my form, I used [Blink] to teleport to the boundary of their little village, not wanting to appear directly in the middle.
+
+"I demand to see your warlock!" I yelled out loud.
+
+My loud demand was quickly heard, and in no time at all, a large group of brinelings had come to see what the racket was about.
+
+"It's the land vermin!"
+
+"Kill it!"
+
+"Drown it!"
+
+"Feast on it!"
+
+Well, so much for diplomacy.
+
+They charged at me with tridents and harpoons, while some even began slowly casting [Water Orb] spells.
+
+"Permission to cut loose?" Vee asked.
+
+"Granted."
+
+Vee warped down into their backline and began casting shaped acid spells. She'd gone out of her way to copy the appearance of some of my other spells and replace them just with acid. Of course, none of them were "officially" recognized by the system, but that point was rather moot when the ball of acid exploded and melted a large swath of brinelings with minimal effort.
+
+In a similar manner, I promptly discarded my hobgoblin appearance; there was no reason to limit myself to such a form, and I swelled to a more appropriate size.
+
+The charging brinelings halted, but I let out an endless swarm of tendrils in response. My slime was nimbler and stronger than ever, as precise as a scalpel while as damaging as a greatsword, [Slime Mastery] had really allowed me to encapsulate both aspects to their fullest.
+
+The brinelings I caught were either crushed immediately or brought into my gelatinous body for eating. I watched as their profile was collected along with some minimal amounts of experience.
+
+Through our combined racket, eventually the chieftain made his appearance, and yes, he was a warlock as I predicted. I had expected him to be an evolved brineling, but I estimated his combined levels were actually lower than Krutz's.
+
+Weird, maybe he's newly promoted.
+
+The warlock tried hexing and cursing me, but it all fell flat. My constant paranoia led me to having both [Magic Resistance (Greater)] and [Curse Resistance], which meant that I was immune to his antics.
+
+He seemed to quickly realize that no amount of cursing or desperate attempts to empower his spells through the sacrifice of his people would overcome my resistances. He seemed about to beg for mercy when Vee poofed behind him and cut his head off with some razor-sharp thread. It wasn't even [Rift Thread], that's how little she cared about him.
+
+<Class Experience threshold reached. Elementalist is now LV 23.>
+
+<12 Skill Points are now available.>
+
+Well, at least I got a level out of it.
+
+"Well, that was anticlimactic," Vee sighed.
+
+"I guess we are top of the food chain," I replied. "Let me go grab the shark and dolphin, and we can get back to our journey."
+
+"Before you do, I've got an announcement to make!"
+
+"Riftmancer?" I guessed.
+
+"Bzzz, wrong answer!"
+
+"Then what?"
+
+"Veilstrider!" Vee answered.
+
+"What the heck is that?" I asked.
+
+"Well, I did level up. But I guess I don't properly qualify for Riftmancer. I can only assume this is some sort of hybrid class. Should I take it?"
+
+"Unless there's something you're hoping to get from your current class?"
+
+"Not that I can think of," Vee admitted. "Hell, I was hoping to ignore class and focus on my race to get my next evolution."
+
+"Then maybe don't, in case the class is tempting?"
+
+"Even if the class lets me shoot lasers out of my eyes, I don't think it can tempt me away from focusing on my next evolution. I want to be able to talk without the slime radio network, no offense."
+
+"None taken. I'm more worried about your future victims."
+
+Vee snickered before going silent. She must have accepted the class change and been reading through what it was now offering her.
+
+"Okay… this is interesting," she finally murmured.
+
+"Laser eyes?"
+
+"I wish. I think this is a dimensional assassin class."
+
+"Now that sounds fancy. And quite suitable for you, since you seem to prefer simple magic."
+
+"Yeah, definitely. "
+
+"Actually… I wonder if [Mana Shaping] is why you didn't qualify for Riftmancer."
+
+"Are you saying I'm too dumb for advanced [Dimension Magic]?"
+
+"Your words, not mine."
+
+"Bleh. Anyway, how attached are you to [Warp]?"
+
+"It's useful, but I'd file it under convenience. Why?"
+
+"I got a new one called [Veil Step]. It replaces [Warp], but doesn't have the 'bring people with me' part."
+
+"That's hardly a dealbreaker. What do you get in return?"
+
+"Increased range, faster speed, reduced costs, blind destinations, oh, and nigh undetectable teleport points. And I quote: physically, magically, perceptionally, traits and skills."
+
+"Now that sounds like a cheat."
+
+"Not that we've really run into anyone but the [Dungeon Masters] who could sense our teleports. But the reassurance is certainly great."
+
+"I'd say go for it. I can teleport myself, and this sounds like it has far better combat applications."
+
+Vee nodded and paused, clearly accepting the skill and giving it a read over. Once she was done, Vee asked me to use [Spatial Sense] and tried out the new trait. Her body slowly faded away, and suddenly I felt a poke in my side.
+
+"Boo!"
+
+"I didn't sense a thing," I answered honestly.
+
+"It's actually better than I thought," Vee giggled mischievously. "I actually teleported earlier than you realized!"
+
+"What do you mean? I saw you fade away, which I assume was the teleport."
+
+"Nope! That wasn't even me; I teleported way before I started to fade! This is amazing!"
+
+"I don't suppose I qualify for that skill?"
+
+"Be my guest."
+
+<Class requirements not met.>
+
+"Denied," I sighed.
+
+"What about this one?" Vee asked
+
+<[Stabilized Fluctuations]
+
+Reduce the detectability of all your tampering with space and dimensions, including but not limited to [Dimension Magic], traits, and skills.
+
+Additional skill levels improve the size of fluctuations you are able to conceal while also further reducing the chance of discovery.>
+
+"Oh!?" I cried out in surprise; although not as amazing as her [Veil Step], this was definitely something I wanted.
+
+<Skill [Stabilized Fluctuations LV 1] obtained. Skill Points remaining: 11.>
+
+"Got it!" I cheered.
+
+"That's great. Hopefully, when you get Riftmancer, you'll also have something to share with me."
+
+"Definitely something to look forward to. But before I forget, let me grab those two monsters," I said, pointing at the enclosed pen.
+
+Now that the creatures had lost their [Enslaved] Emblem, they were currently bashing their heads and bodies against their enclosures.
+
+"Better hurry before they escape," Vee warned.
+
+I promptly used [Blink] to appear next to their pens before sending out the swarm of tendrils.

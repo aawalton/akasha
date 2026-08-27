@@ -1,0 +1,401 @@
+---
+id: 3a8202c9-53e3-5301-8d84-77f6b988c634
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY-ONE: Unquiet Mind"
+slug: 0283-two-hundred-eighty-one-unquiet-mind
+partOf: super-supportive
+position: 283
+ownLength: 5180
+unit: words
+publishedAt: 2026-04-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3259026/two-hundred-eighty-one-unquiet-mind"
+royalRoadId: "3259026"
+---
+
+281
+
+******
+
+The needs of a person’s body could become medicine that quieted their mind.
+
+The healer who’d tried to teach Stu that lesson had been so incompetently premature with it that they’d never had a second meeting. A child whose whole day could be ruined by the taste of a disappointing berry or the prick of a splinter was years away from understanding what those words had meant and even farther from wanting to apply them.
+
+Now, Stu appreciated the intent behind the advice enough to pause with the cool tip of a potion injector pressed against his skin and reconsider what he was about to do. He’d been hiding under the covers, watching the progress of Alden’s study, for a long time. Alden showed no signs of stopping soon.
+
+He was absorbed, and Stu was exhausted.
+
+I’m also angry. Worried.
+
+The urge to do something was strong, but he lacked a direction. It was a frantic feeling he didn’t like.
+
+And now I have a stimulant pressed against my arm. When exactly will my thoughts settle into decisions after I take this? When will I rest? When will I talk to Alden again, and what mood will I be in?
+
+His mind was very unquiet.
+
+I can’t make a mistake. Not with this.
+
+It’s Alden’s life.
+
+Reluctantly, he put the injector back in one of his pockets and triple checked to make sure his eye rings were recording the tablet in Alden’s hands.
+
+He still hesitated for a while after that, not wanting to miss anything, risk anything, or rest when he knew something was wrong.
+
+Wasn’t it me telling him about those who could have been Masters except for failing to sip water?
+
+He closed his eyes.
+
+When he opened them again, it was long after nightfall.
+
+Alden had only recently gone to sleep himself. Stu could tell by the end time on the recording from his tablet. At some point, the human must have worried about the temperature because he’d put an extra blanket on top of Stu, who now slithered his way out from under it as quickly as stealth would allow.
+
+His thoughts were clear enough for him to know that the sense of urgency that drove him from the cottage was something he should control instead of obey. There was some place where a fast answer to the problem and a flawless one found compromise. Stu needed to seek that place even if he couldn’t quite reach it.
+
+Easier to know than do.
+
+In the main house, he went through the kitchen like a storm, grabbing food from every convenient platter and pot, barely wondering why there was so much left out late at night. Then, he swept up to his room without speaking to anyone and collected clothes and bathing supplies that he carried back downstairs with him and outside into the dark forest.
+
+He tried to calm his mind by caring for his body.
+
+While he watched the recording of what Alden had spent all evening and half the night reading, he soaked himself in the hot pool. Emerging to eat a cup of sweet chopped hemaswa, counting his chews, returning, emerging again to rub oil into his skin—small circles with the brush—returning, emerging, returning…becoming ever more certain that Alden already knew something about his future that he wasn’t able to share.
+
+Stu had never imagined spying on someone this way before. He wouldn’t have guessed that in doing so, much more than what he’d been looking for would become obvious to him.
+
+Alden had spoken of reading the study journals he’d found in the library at the Rapport school and being upset about how little he understood. Of course he didn’t understand, and of course that was upsetting, Stu had thought. But watching him read a sentence, then search for an explanation for every word in the sentence, then search again for more explanations that would help him understand the first explanations, digging and digging until finally he found principles he was familiar with…it was unexpectedly painful.
+
+And familiar.
+
+Cracks in Stu’s past he’d thought were healed ached in sympathy. Missing entire categories of knowledge that everyone around you took for granted was a weakness that hurt and embarrassed with such relentless, invisible consistency.
+
+Learning to speak modern Artonan instead of Rityan was fun and easy. But comprehending all of the words in the same way people with standard childhoods did was so hard that he still ran into doubts every now and then.
+
+One day you learn you have siblings, like some animals do.
+
+You learn they love you, and you think all love is your mother’s love.
+
+You learn love is different from and toward everyone. Siblings can yell at you. Or be tired of you.
+
+It seems like you should learn what the words “sister” and “brother” mean very quickly because babies do it in only a few years, and you are much older and smarter than a baby.
+
+But a few years go by, and you can tell you’re still not like everyone else. The babies are faster than you. They started like soft clay, and the knowledge of your people shaped them from the beginning, but you arrived in the new world already sculpted into something different.
+
+At least he isn’t in as extreme a situation as that.
+
+The recording of Alden’s study showed him six layers deep into definitions, trying to figure out how building up a spell over the course of days worked, which seemed as obvious as walking fast or slow to Stu. But that was still a more acceptable thing to be confused about than the existence of sour berries and siblings who didn’t love you flawlessly despite every annoyance you caused.
+
+I’ll help him.
+
+Stu was sitting on a bench in the hottest lobe of the pool, carefully working two different potions into his scalp to make sure his hair didn’t grow back on the bald side or fall out on the other, while he evaluated the trouble ahead of them both.
+
+Alden would be able to catch up with Stu’s academic knowledge eventually. If he wanted to and put in the years of work, there was no reason he couldn’t. He wasn’t unintelligent or lazy, and Stu was unwilling to consider the possibility of him dying young. Again.
+
+So wizardry would be solved in time and could be considered a temporary trial for them to endure and enjoy overcoming together.
+
+He’s already mostly sculpted into an adult, though. An alien adult.
+
+His fingers slowed to a stop, resting against his head. One of the light globes drifted past his chest. It glowed like a small moon.
+
+An alien adult who gained his authority sense after first binding. I…might have spent yesterday overlooking some difficulties.
+
+Of course he had. Alden had delivered the kind of news that could be argued over by brilliant elders for a generation. Stu wasn’t going to worry about those kinds of questions just yet. But there were some much more basic assumptions he’d made that he now realized could be wrong.
+
+Even the authority greetings we’ve been practicing…
+
+Alden might learn excellent authority control but still be unable to judge if he was engaging with other people gracefully. It was cultural. A hundred thousand moments of social interaction taught you rules that weren’t written anywhere, and then you felt how to behave like a normal member of the wizard class.
+
+If you missed your hundred thousand moments, or if they came to you differently than they did to everyone else because you were an outsider in some way, then you couldn’t practice enough to make up for it. Not without wasting half your life on it.
+
+Quite a few members of Stu’s family were awkward with their social authority interactions. That tendency to pounce.
+
+Stu’s own eyes bothered people. He was aware of it, and he was unhappy about it; but splitting his vision often enough to mimic the average wasn’t realistic for him.
+
+Being different in those ways was a little hard. And they were Artonans. The Primary’s family. How much worse would it be for a human?
+
+Alden had asked multiple times in a single day for help getting the greetings right. He really wanted to do it.
+
+He’ll learn the basics. He’ll learn not to be rude in his interactions with strangers. But he might not ever learn to blend in like he was born here. I should’ve thought of that.
+
+How many other things, at that same very basic level, had Stu already missed?
+
+Four immediately came to mind. A fifth rose to the surface of his thoughts while he bent his knees and dropped below the water to rinse his head.
+
+He hooked his toes under the bench and sat on the rough stone floor of the pool for as long as he could without discomfort, watching the recording. Alden understood about building spells now. Or at least he thought he understood it well enough to appreciate the masterpiece he was reading about.
+
+Stu watched him go back to the beginning of the spell’s description.
+
+He likes this one.
+
+Stu rose up for nine slow breaths of air, then went back down.
+
+From the beginning, Alden had been seeking spells that had things in common with the skill he already used. It was one obvious way to start, so it might not have meant much if he’d eventually branched out.
+
+But he hadn’t branched out.
+
+He’d looked at a couple of spells related to spatial manipulation, but since it was only a couple and he’d skimmed them, he’d probably been thinking about Maker of Narrow Ways. That gave Stu a strangely nice feeling and an even stranger urge to go push Asay-tor from a high place again, like Alden being curious about his future skill somehow made Asay’s treatment of him worse. Other than those two spells, Alden had stuck to spells that shielded, preserved, or carried in some way, only occasionally detouring to read about ones that were anchored to a second person, or—too frequently for Stu’s comfort—ones that caused the caster pain or loss.
+
+Stu supposed that Alden was thinking the anchored spells were similar to his skill’s requirement for an entruster. He was more mistaken about that than not, but it was an understandable mistake. The book probably didn’t have anything much like that aspect of his skill in it, so he’d found what seemed closest.
+
+And the sacrifice-heavy spells made sense…even if Stu didn’t like the sense they made.
+
+Alden had soon narrowed in on shields, taken a side path from there to wards, and now he seemed excited about this one. If the amount of rereading and the fact that he was looking up the animal it was named for could be trusted.
+
+There was a sacrificial component, but it was interesting and mild compared to some of the others he’d been reading about.
+
+I wouldn’t mind him picking a spell like this. Everybody appreciates a good warder. It will be simple to break down into basics for practice, and the final version doesn’t require any difficult ingredients. Practicing on Goldbush would be frustrating for him, but it should train his sense for what he’s doing faster than a dedicated instructor could.
+
+Setting a ward in a corrupted environment would be an achievement.
+
+Stu finished another cycle of nine breaths while he watched Alden linger on a diagram and then magnify it to see different parts of it better.
+
+Yes, he definitely likes it.
+
+He trailed his hands through the water, letting his auriad drift from the tip of one finger as he went down again. He wanted to enjoy imagining a future in which he and Alden worked together, protected by this ward Alden was so obviously curious about, unimpeded by any of the difficulties Stu could see looming on the horizon.
+
+But before he could indulge in anything so pleasant there was the increasingly ugly question of that contract tattoo.
+
+There are hardly any reasons for Alden to suddenly become reticent about skills. It’s the tattoo causing problems because I started asking more specific questions recently. It has to be.
+
+A night’s rest—a partial one anyway—had only made Stu surer that Ro-den was to blame.
+
+Someone who’d told Stu the truth about being a wizard, someone who’d trusted him with so much fear and hope, with his whole future, wouldn’t suddenly balk at talking about a skill they’d already practiced together happily several times. It was too bizarre.
+
+And a knight facing his next binding without knowing what skills he could choose from ought to be deeply distressed. To not care, Alden would have to be insane.
+
+He’s methodically focused on spells similar to what he already has. It’s so purposeful. I know he read and understood my instructions properly. He’s not careless. He’s not a fool. He knows he’ll soon outgrow any normal Ryeh-b’t skill.
+
+So he thinks he’ll be able to cast spells like these one day because he expects a skill just like the one he already holds to be a significant part of his future.
+
+Just like it.
+
+Stu couldn’t draw many conclusions from that. And even the best of them made his insides roil like the water would if he depressed a certain stone along the pool’s edge.
+
+Once I combine what I know about Alden with what I know about Ro-den, the possibilities only narrow more.
+
+Why would any wizard go to the trouble of preventing an Avowed from speaking freely about his own skill?
+
+Because the skill was important, because the wizard had done something wrong with the skill, or because the wizard planned to do something wrong with the skill. Some combination of those three.
+
+It doesn’t seem impossible that Ro-den could arrange for a specific human to choose a specific skill that he wanted them to use on his behalf.
+
+Once morality was removed from the calculations, power allowed for some unthinkable actions.
+
+Perhaps it was mostly to get Alden to do the smuggling back and forth from Thegund?
+
+Contracts weren’t supposed to stop people from doing the majority of illegal things, but Contract-to-Contract teleportation was a service that prevented many illegalities as a matter of course. Contracts might not report a wizard for brewing Vapor of Eternal Screams, but if the wizard tried to teleport with it, the Contracts would just leave it behind along with anything else that the wizard didn’t have the right to move around at the Contract’s expense.
+
+Alden’s skill was Alden’s self. Anything he protected with it had the same travel permissions he did as an Avowed. The Contracts wouldn’t have let him carry an actual demon from Thegund to LeafSong, but Ro-den’s assistants, and whatever they’d stolen for him from his former lab, weren’t serious enough dangers for the Contracts to object.
+
+Everyone assumed the professor had gotten more than some of his people back. Stu thought Alden probably had no idea what he’d actually delivered. How would he be able to recognize esoteric magical equipment even if it had been fully displayed instead of hidden away in boxes or bags when he moved it?
+
+It was obvious he’d wanted to help people. Ro-den had preyed on his kindness.
+
+He planned to keep preying on it.
+
+Stu was fairly sure of that. The only way to keep others from noticing, over the long term, that you’d restricted an Avowed’s ability to talk about himself was to make certain that the Avowed didn’t develop a close working relationship with a different wizard.
+
+I guess that could take years, but for a Ryeh-b’t with such a generous personality and such a versatile skill? Years…but not too many years.
+
+The sight of Ro-den racing toward him in that cart with that exquisitely done levitation spell making his possessions dance along after him was easy to bring to mind.
+
+He was sure everyone would get out of his way. He was sure it would work out in his favor. I bet he was sure when he put that mark on Alden that he’d be able to keep what it does a secret.
+
+He might have planned to persuade Alden to agree to a longterm arrangement in the next year or two. The best way to make sure no other wizard had access to an Avowed was to summon them yourself so frequently that they were never obligated to work for anyone else.
+
+Ro-den wanted a longterm smuggler?
+
+Stu didn’t know much about that kind of thing, but he could imagine it being valuable to someone with criminal inclinations.
+
+Still, plenty of other Avowed should be able to smuggle in their own ways. On its own, it’s not a good enough reason to hide the skill, is it? Ro-den would’ve wanted him to hide it because there was something unique about it that Ro-den hoped to keep to himself.
+
+A special skill.
+
+Worli Ro-den was exceptionally brilliant and involved in deep studies of multiple subjects that Stu could scarcely touch the surface of. Not only was it possible for him to think of a special use for one obscure aspect of a skill that nobody else would ever consider, it was likely. If his motivation for the contract of secrecy had been something like training Alden to use it in an extremely specific way that would support just a few forbidden experiments, Stu might as well give up on figuring it out.
+
+But Alden was acting like there was something special about his skill, too. And Stu was more confident in his ability to comprehend Alden’s motivations. He was behaving as if the preservation skill was still going to be the main one he was working with years from now. He’d even spent time looking at spells based on parts of it Stu knew he wasn’t pleased with.
+
+Stu had already told him he could have another skill very similar to his without the entrustment. There weren’t reasons for him to seek out spells that required a second person or ones that fueled themselves on his own suffering…unless he thought the skill he was already stuck with was going to grow and grow. And, in doing so, make spells that relied on those principles useful whether he liked them or not.
+
+Stu climbed out of the pool and started seeing to his nails. Poorly. He accidentally ran the sharp edge of the trimmer over his thumb and left a shallow slice. It bled, and he held it out for an eager root, thinner than his pinky, that rose up from the ground and reached toward him.
+
+If he thinks his skill is more powerful when he’s suffering for it, he’s probably not wrong.
+
+It was the kind of thing an Avowed might be confused about, Stu thought, when they were new to their skills. But Alden could feel what was happening in a different way.
+
+And there have been signs.
+
+The run on Thegund, protecting a child for that long, was a little too astounding for someone with Alden’s amount of power. It was a story that made more sense if enduring agony for his entruster was a particularly good way of expressing the skill.
+
+I’d already thought about it, but it mattered less if that was part of a skill that would one day be only a tiny part of his whole.
+
+Alden’s research was implying the skill would be a limitless part of his future.
+
+Stu hoped that wasn’t true. Not because there was anything wrong with what Alden could currently do. Stu admired it very much. But a skill chosen in haste by someone who didn’t understand it…better for it to be less instead of more.
+
+It seems like an old one. Brutal. Beautiful. Not the kind of power you’d lead another person toward without explaining it very clearly.
+
+There were old, infinite skills for Avowed. Historical artifacts kept around just because people wanted them to be kept around. Found by luck or, Stu supposed, dredged up by special request. But people in a position to make such requests didn’t have to limit themselves or the Avowed they were helping to a few antiques.
+
+If Ro-den had anything to do with him choosing it…but…if Ro-den had anything to do with him choosing it, why would he also have that pest control spell? Ro-den wouldn’t have recommended that.
+
+And Alden had said he picked the pest control spell himself. Regretfully. Stu didn’t think that was a lie.
+
+It could just be coincidence that Ro-den found a smuggler in Alden. I don’t have to blame him for every part of it.
+
+But the tattoo was there, and Alden couldn’t say what he wanted. That was plenty to blame the man for all by itself.
+
+“You’re doing it when dawn comes, aren’t you?” A voice spoke suddenly and softly from across the pool. “Do you want me to walk with you to the tree you’ve chosen?”
+
+Stu was so startled he fell back into the water and rose sputtering. It took him too long to realize that Ryada-bess, in a robe that belonged to Emban and with her surprising curls spilling over her shoulders, wasn’t one of his relatives. And much too long to comprehend what she’d said and what she’d incorrectly guessed. She was smiling at him, but it was a sad one.
+
+“No!” he said. “I’m not doing that today. I’m so busy today.”
+
+He couldn’t go to first binding immediately after discovering Alden was a wizard who wanted to be a knight and who was stuck unable to speak of his own skill because of Worli Ro-den. The two of them needed to stabilize, and Stu didn’t expect to be particularly stable after he went through with that.
+
+“No? You’ve been taking one of the longest ritual baths I’ve ever seen, all by yourself in the middle of the night. I considered that I might be wrong, but then you started feeding your blood to a young root while wearing a look of grief.”
+
+“How long have you been watching me?” Stu asked.
+
+“I’ve come three times to check on you. I never stayed long. You ran past me in the kitchen, shoving food in your mouth, but you didn’t seem to notice me so I was a little worried about you.”
+
+He hadn’t seen her.
+
+“I realize this looks indicative of something important,” he said, “but I was only using the bathing to calm myself. Care for the body as medicine for the mind. And then I happened to cut my finger. That’s all.”
+
+“Are you sure?”
+
+Stu’s irritation at the question was too swift and too obvious. Ryada bowed her head in apology, which made him feel guilty.
+
+“I’m sorry I didn’t see you in the kitchen. I didn’t know you were here tonight.”
+
+“We’re all here. Not doing anything useful for the two who’ve been lost, of course, but being together and staying up for news feels like purpose for a while.”
+
+He assumed she meant her whole squad had come…former squad. And he realized other people must be over, lingering around and talking about whoever had gone missing on Goldbush. Late company explained all the food being out.
+
+“Two? Traveling together?”
+
+She nodded. “Our age. Not from the Rapports.”
+
+“Two is strange.”
+
+It was odd for a knight to go missing without a trace on Goldbush in the first place. Odder still for it to be two of them. Chaos made for unpredictable accidents, even when people were well prepared, but death was more common than vanishing.
+
+“All I’m doing with the dawn is fetching Alden first meal,” Stu said. “I was a bad host. I don’t think he had anything to eat for the last half of the day.”
+
+Her expression lightened. “Alden Thorn is here?”
+
+“Yes. He’s visiting.”
+
+“I didn’t know. That’s fine then. I’m glad you’re not alone!” And she stood to leave, apparently satisfied that with Alden’s company Stu was sufficiently looked after.
+
+“Wait.”
+
+She stopped and watched him wade closer to her side of the pool.
+
+“You came out here to check on me several times. You didn’t tell anyone?” If she had told anyone what she suspected, they’d be out here watching him, too.
+
+“It’s easy to go for walks without being chased if you’ve been insisting on doing exactly that for days. Not that it was easy to make it happen the first day. Lots of arguing and crying. I know I’m lucky people care enough to argue and cry.”
+
+“And…were you really going to walk me to the tree I’ve chosen?” Stu asked. “Without saying something about it to my family?”
+
+He didn’t even know her that well. He didn’t think she’d ever visited the siblinghold prior to becoming Emban’s squadmate.
+
+“It’s hard,” she said, looking up into dark branches. “You shouldn’t have to go alone if you’re going. That was what I decided while I watched you. And people…people who are scared of losing you…they can’t always hear you well. That’s a kind of loneliness too.”
+
+“Thank you, Ryada.”
+
+If he could have found a way to put more gratitude into the words, he’d have said them again.
+
+“You don’t need me if Alden’s here, though. He wrote me such a good letter. I think I talked about it too much, and that somehow made Emban feel like fighting him. Did she tell you what he said to her? About you?”
+
+“She didn’t. But I overheard the samefaces telling Rel, and I assume Emban knows why she doesn’t have a votary being helpful right now.”
+
+Ryada nodded. “He was right to criticize. We should have made sure you were a part of Welcome End.”
+
+“I understand why I wasn’t.”
+
+“You should be less understanding.” She held his eyes. “Except with Alden. He’s got a yell in his throat. I think it’s for you. If it’s hard to hear…try to hear it right anyway.”
+
+“I did,” Stu said slowly. “I think I am.”
+
+“He told you whatever it was?” She smiled. It wasn’t sad this time. “Already? And you’re both going to be friends still? That’s good news, Stu.”
+
+“Better friends,” said Stu. “As honest as we can be. The problems that are left are from the outside.”
+
+“You’ll handle them.” She sounded sure. “Having an Avowed friend might be complicated, but he’ll be a great one. You will, too. And art’h is a good name to have if you’re dealing with problems.”
+
+She waved at the little root that was still reaching for Stu.
+
+“It’s been a while since we’ve fed anyone unwilling to the trees,” he said.
+
+Ro-den would probably make them ill.
+
+“Yet you immediately knew what I was suggesting,” Ryada said, shaking her head. “The possibility is awfully close to the surface with you.”
+
+She was only teasing. But it made Stu think and keep thinking after she’d gone.
+
+This moment in his life was so very precious. He had a new brother. And Alden had told him plainly what kind of brother he wanted to be. “In the future, when you go anywhere dangerous, take me along.…I would rather stand beside you in a place like that than enjoy the easy river while you suffer.”
+
+It was a wonder. He wished he could run into the house and tell every single person there what he had found. He wished that doing something like that would go as well as it should.
+
+Alden would struggle to be a part of this world in ways Stu couldn’t solve. It wasn’t fair. So Stu would just have to make sure he didn’t miss any of the problems he could help with.
+
+It’s hard for a mere LeafSong student to solve Superior Professor Worli Ro-den. He’s too clever, too powerful, and too willing to break rules.
+
+Maybe it’s not so hard for an art’h, though. It shouldn’t be.
+
+If I’m willing to do the kinds of things we don’t usually do.
+
+He lay back to float in the water, gradually realizing that he was willing to do more than he’d ever been willing to do before. Even things that would shock and appall the people he lived with. Ro-den was fortunate that there were options in between doing nothing and asking a tree for a favor.
+
+Stu would start with an option that was very generous.
+
+My parents might never trust me again. Father should understand, but everyone else…I don’t know.
+
+The thought was a sad one, but he wasn’t sorry.
+
+Have I changed so much in a day?
+
+He had.
+
+It didn’t feel like a bad change at all.
+
+******
+
+******
+
+Alden woke in the cottage, a little late thanks to how long he’d stayed up last night reading Stuart’s tablet. The spells in there were amazing things. Just…flashy, potent, and cool as hell. Every one of them. The idea that he could learn one in a few years was exciting even if he wished a few years could be sooner.
+
+Like tomorrow.
+
+Stuart was awake. He’d changed into a green tunic, and he was doing homework or spell practice, flicking his fingers over a wooden board with seemingly no effect. Alden was thrilled to see a full spread of meat petal and side dishes waiting on the table.
+
+“I promised to teach you the spell that heats the rock,” Stuart said apologetically. “Did you go to bed hungry?”
+
+“I could’ve gone up to the house if I really wanted something, so it’s not a big deal.” His stomach gurgled. “But I am still growing. So if the rock heating spell is very hard, let’s eat some and then you teach and then we’ll eat some more.”
+
+Stuart nodded. “Come sit down. Were there any spells in particular you enjoyed reading about last night?”
+
+Wards are cool. There’s this ward called Burrow of the Stormtail. I could protect a whole city with it. While sleeping in a different city. It’s like my skill in enough ways that I think it fits your not-so-subtle instructions for finding something similar to my future knight powers well.
+
+He really, really didn’t want to lie. Or argue over breakfast.
+
+“They were all so fascinating.”
+
+“All of them equally?” Stuart asked, setting aside the wooden board and pulling the rock closer to himself.
+
+“Some of them caught my eye…”
+
+“Nothing in particular, though?”
+
+Alden said nothing. He was waiting for Stuart to call him a bonk-noggined, self-hating idiot who didn’t care about his future. It would, under the circumstances, be understandable.
+
+“That’s all right,” Stuart said calmly. “You can read it again whenever you want.”
+
+That easy?
+
+“Did you try on the rings yet?”
+
+“No. You went to sleep so fast, and I didn’t want to risk making a mistake with them. Can I just put them on?”
+
+“Of course. They’re yours. Now watch closely while I cast the spell. It’s not a hard one at all. I learned to cast it before I even knew what brothers were.”
+
+******

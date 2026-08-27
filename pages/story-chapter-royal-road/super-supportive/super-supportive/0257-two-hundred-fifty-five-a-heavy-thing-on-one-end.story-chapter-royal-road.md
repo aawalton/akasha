@@ -1,0 +1,317 @@
+---
+id: 491998fc-7c31-51b8-8971-865cfb69dd5e
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-FIVE: A Heavy Thing on One End"
+slug: 0257-two-hundred-fifty-five-a-heavy-thing-on-one-end
+partOf: super-supportive
+position: 257
+ownLength: 4052
+unit: words
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2750040/two-hundred-fifty-five-a-heavy-thing-on-one-end"
+royalRoadId: "2750040"
+---
+
+255
+
+******
+
+In a chilly classroom on the first floor of the MPE building, Alden sat in the corner in a plastic chair, taking an exam on Anesidoran power use laws and how not to be an idiot in the gymnasium. He was halfway through, in the middle of a true-or-false section, when a question finally made him stop focusing more on the situation at the siblinghold than on the test.
+
+[22: Unscheduled street racing is legal in F-city as long as none of the participants exceed the speed limits of their street traffic licenses.]
+
+Was this one covered in anything we read or talked about? I don’t remember racing specifically. Seems like a question for Winston and Finlay. Or Jeffy since he thought he could just jog in the middle of the highway without a license. Marsha would challenge someone to a spur of the moment race in traffic. Throw a spear through the back of a bus because she was trying to use it for a speed boost…
+
+Should I have warned Stuart about what I said to Emban?
+
+It wasn’t really a fight. I said something like, “Hey, think of what Stuart’s going through this weekend.” And she said, “You don’t understand anything, and shouldn’t speak about anything, human, because this isn’t your world.” And I said, “You suck, and you’re mean.”
+
+Then I got out of there before she could respond.
+
+Fine.
+
+It was a very brief fight.
+
+Just fighting with Emban-art’h in her own house first thing in the morning like a great, mature guest. In front of those twins who didn’t have much of an impression of me before now.
+
+Stuart’s guest telling off the knight he’s playing votary for…that can’t possibly be viewed as good behavior. I bet I’m the worst guest ever in siblinghold history. What if they’re all scolding him about me now on top of everything else? I should’ve warned him before I left.
+
+He started to text Stuart.
+
+The System immediately reminded him he’d agreed not to use it for communication while he was taking this test.
+
+Right. Test.
+
+I’m being tested here in the world where I do belong. In this classroom where I do definitely belong. With all these people who would totally still think I was one of them if I stood up right now and announced I was a wizard.
+
+They wouldn’t start behaving differently around me at all.
+
+He did think Lute and Haoyu might take it in stride. And Kon could fake handling it well so that Alden would never be sure if he was really ill at ease about it or not.
+
+Would Lexi make me move out of our apartment, or would I just feel guilty when he started packing his own bags and move myself out for him?
+
+Of course, that was assuming the Artonans let human wizards stay on Earth, attending human schools. Then he had to assume that human schools allowed wizard students. He looked at Instructor Klein, who was standing at the front of the room, watching them all with a gaze so stony it made Alden suspect himself of cheating.
+
+How would he treat me if I was someone who could summon him? Would he be scared I was an evil creep who’d retaliate against anyone who beat me in gym?
+
+Why would anyone want to summon other people if those people weren’t willing to be summoned?
+
+It’s wrong.
+
+But if this classroom was being attacked by a supervillain and Klein was drinking a mock piña colada with his feet propped up on the teacher’s desk while Astrid had her arms ripped off, I’m sure I would be demanding that he help us. So I don’t completely reject every possi—
+
+The stony gaze landed on him.
+
+I should have imagined a different teacher ignoring student dismemberment and liking umbrella drinks. Neither suits him.
+
+Alden stared at the test.
+
+I’m losing it. I barely remember my answers on the first twenty-one questions. That’s because they were so easy I could do them without really thinking.
+
+Isn’t it?
+
+I wasn’t just selecting at random…
+
+He went back through the previous questions. They all seemed right.
+
+When he returned to number twenty-two, he decided the word “unscheduled” was a clue, so he marked it false and moved along.
+
+[23: Anesidoran law enforcement officers may ask to know my Avowed talents for any reason, and I am required to answer.]
+
+That’s false.
+
+He made himself finish up quickly after that so that he could go send Stuart a message. But when he stood in the hall, on the verge of issuing the warning, it seemed like a worse idea. If Emban and the twins were already complaining to Stuart about his guest, there was no point, and if they weren’t planning to complain at all, then Alden would be taking Stuart’s mood down a few notches and distracting him right before the call from his father.
+
+Fine. No confessing to this morning’s incident unless he brings it up.
+
+Maybe Emban and the twins understood me, and they’re making things better for Stuart at this very moment.
+
+Seems unlikely.
+
+Even this long after the encounter, there was an energy in his body he didn’t want. It wasn’t clearly anger or hurt anymore, but it was negative. Like the remnants of those two feelings buzzing through him, making him tightly wound.
+
+He let his feet strike the floors sharply, slapped his locker door shut a little harder than necessary after he collected his gear, and dropped his duffel bag from more of a height than usual onto a bench in the locker room.
+
+“Alden, how did you do?” Haoyu asked. He was already in the gray unitard and protective cuffs, on his way out to join Lexi and other early exam finishers on the gym floor.
+
+“Ninety-eight,” said Alden. “I was distracted, and I misread one of the questions.”
+
+“Good job. I got a ninety-six.”
+
+“How did you get a lower grade than me? You’ve lived here your whole life.”
+
+“I didn’t study for this one. My others are going to be a lot harder, so I’ve been focusing on them. I feel like I’ve seen loads of people having races on the streets without being punished. Who would have guessed that was illegal?”
+
+“Vandy’s still taking it,” said Alden. “I thought she’d be one of the first done.”
+
+“She goes back over everything several times when she takes tests. She never finishes first. Max, though—he finished so fast that when he stood up I thought he must need to go to the bathroom, not that he’d answered all fifty questions….See you in a minute. By the way, I already looked in the gym. They’re set up for one-on-ones.”
+
+“Yeah? Okay. See you soon.”
+
+Duels.
+
+I was hoping we wouldn’t do duels again until Friday.
+
+Alden stepped into the stall he usually used for getting dressed. There was a space for changing, then the shower. Someone had written, “Elites Can’t Fix You Wormkicker,” on the wall above the towel bar. Alden didn’t know who Wormkicker was, but he took this as evidence that other classes were being stupid about Elites, too.
+
+Just let the people who are going to go, go. Let the people who are going to stay, stay. Keep gym hours fair. Be at peace, you rank-obsessed essholes.
+
+He wondered if this was creating so much drama because too many of the school’s S-ranks had never missed a step on their way to the top.
+
+You want the best rank, and you get the best rank. You want a certain class, and you get a certain class. You want CNH hero program, and CNH welcomes you with open arms.
+
+Then another school invents an even specialer tier of education and doesn’t invite you.
+
+I know it’s more complicated than that. Everyone’s got their goals and reasons. But they’ve been acting like Li Jean insulted their entire way of life instead of rejecting them.
+
+…I wouldn’t mind beating Febri in a duel right now.
+
+That was out of reach. He couldn’t even beat Mehdi yet. Agility Brutes weren’t fun opponents for someone who’d mostly been coming up with different ways to trip people and hurl things at them. Febri could shift position instantaneously, and Mehdi could sense incoming attacks. They were never where Alden needed them to be to land a solid hit. He still didn’t have the best sense of what was normal for new Avowed of every type, but Lexi and Haoyu both thought the two Agis were above average duelists for their age. And having Klein right in front of them all the time wasn’t hurting their understanding of how to use their class.
+
+Febri’s not who I’m supposed to beat anyway.
+
+Unless the instructors were going to be blatantly unfair about the match-ups, they had to put Alden up against Winston in this class. Once Winston showed up. He was still testing.
+
+Did Max really get him to say he’d move out of their apartment if I beat him? That’s nuts.
+
+He’d have to say it in front of other people for it to work. Otherwise he’d just go back on his word. I haven’t heard anything about it lately. Maybe Max changed his mind or didn’t get it done?
+
+[Alden: Hey, Max. I’m supposed to be trying my best to beat Winston today, aren’t I? For our agreement.]
+
+Max must have been mid-duel; it took him a minute to answer.
+
+[Max: Yes.]
+
+[Max: Don’t you want to anyway?]
+
+There were many reasons to want to.
+
+He picked on Lucille for views. He told everyone Esh-erdi was paying attention to me because I begged to be his octagon waxer. He refused to apologize after asking me to watch an apology video.
+
+[Alden: I’ll do what I can. I’ve been practicing.]
+
+******
+
+last week
+
+******
+
+“Look at us. Two Apexian bros chillexin’ together, stepping into North of North like the famous people do. I wish I was a rich kid. If Tina, Royce, and I had memberships here we wouldn’t have needed that boom room at Apogee!”
+
+“They don’t have iron maidens or tarantulas here,” said Alden, hoping he hadn’t made a mistake when he selected his practice partner for the day. “And I’m positive you aren’t allowed to bring in your own.”
+
+Liam Long wanted to train his powers, and Alden wanted a Winston substitute to attack him for several hours. Liam was a Speed Brute about Winston’s size. He was a B-rank; but he was a decade older than Winston, and he hadn’t slacked on the leveling. He might have insights. He was also available whenever. It seemed like a decent idea.
+
+Bobby met the two of them in a training room she’d prepped. She’d dyed her short gray hair a Christmassy green since the last time Alden saw her.
+
+“You’re great,” he said, after looking around the place and seeing how she’d gotten it ready for them. “I didn’t give you much warning, and I was worried I explained what I wanted to try wrong.”
+
+“You’re not my most complicated client.” Bobby clapped him on the arm before turning to Liam. “Hello. You must be Mr. Long. I’m going to need you to sign a waiver, and I’ll have to go over a few rules with you. Standard procedure. Alden, check out the weapons I made for you, and see if you want anything else.”
+
+He set down his bags.
+
+Bobby had taped off a rectangle on the rubbery tan floor to mark an area the size of the dueling blocks that Alden’s teachers usually created for one-on-ones. The room itself wasn’t too different in size from the larger blocks they’d used a time or two. The CNH faculty could have Alden fight Winston in a giant circle, a tiny square, or across the whole MPE gymnasium if they wanted, but there was a better chance the space would be something like this.
+
+Bobby had also gone ahead and prepared safety versions of the weapon idea he wanted to try. She had different lengths of thin red sticks laid out, with a white foam ball stuck on one end of each and a larger foam block stuck on the other.
+
+Alden picked up the nearest stick. It was about four feet long. He swung it like the block end was a hammer a couple of times. He jabbed with the ball end. He held it over his head and tried to give it a fast twirl with three fingers.
+
+He dropped it.
+
+He picked it up and tried again.
+
+“Those will break like they’re made of straw,” Bobby said as she finished up with Liam and came over to watch him. “So don’t worry when they fly apart. It’s better than you catching Liam here across the neck with something that could hurt him. I’ll be putting together some more for you as we go. How do you like them?”
+
+“Pretty good,” said Alden. “It’s hard to picture what it will actually be like with a serious weight on one side. So I’ll need to try some realer versions. Without attacking anyone, obviously. Maybe I could do that in a hologram room later? And as weird as this is to say because they’re so light, they might be a little too heavy. To mimic the way I wanted to…”
+
+He held his hand out with the stick between two fingers and twitched them to make the ends of it whip back and forth quickly. “On second thought…maybe it’s not too heavy. Maybe I’m just clumsy.”
+
+“You’re going to hit yourself in the face a lot today,” Bobby predicted.
+
+“I am not! Three or four times at most.”
+
+“I feel obliged to tell you that a speedy A your age can probably be beaten without that fancy twirling you were trying a second ago. I like that you want to leverage one of your assets in a new way, so let’s definitely work with these.” She waved her own index fingers. “Cool stuff. Anyone can twitch a pen so fast it blurs, and you’re better than normal with your hands, so I’m sure you can eventually learn to control the way something like this is blurring. But the most effective move with them for the duel you’ve got coming up might just be a simple flick in the right direction at the right time.”
+
+Alden thought about it. “Won’t getting used to manipulating things with my fingers in all kinds of ways help me execute that perfect flick when the time comes? Until I’m in the fight, I won’t know if I need to flick what I’m holding up, down, behind me…”
+
+“True. You’ll have to practice with your hands a lot if this is something you want to make a part of your arsenal,” said Bobby. “I’ve never actually trained anyone for lethal finger flicks, but I know it’s going to take time to form those hand-brain connections that will help you know how a tiny twitch at the center of a big, unusual baton affects what’s going on at the ends. More time than you have. But, on the bright side, you’re not preparing yourself to fight one of the world’s finest superheroes next week. Some control and a little thought might take you a long way against a peer. Let’s find out what you can do right now and go from there.”
+
+Alden nodded and turned to see Liam watching the two of them. He was retying the drawstrings on his bright red shorts.
+
+“I’m going to make you both wear padding,” Bobby said. “Liam, don’t actually try to hit Alden even though he’s got safety equipment. You’re too much of a Brute for me to feel good about that, so just go for light tags. He will try to hit you with these toys I made because they’ll just sting. I feel like this is all obvious, but if you start smacking into each other in a way that looks dangerous we’ll cut this short.”
+
+“All right! Are we being recorded?” Liam asked eagerly. “Are you going to show us replays?”
+
+“Yes,” said Bobby. “If neither of you has a problem with it, the room records from multiple angles so I can reference the video to show you what you might want to work on.”
+
+They put on the padding and had a couple more minutes of discussion about what they’d be doing. Liam asked some questions about how Alden’s skill worked to make sure he understood it. Then, they stood at either end of their taped-off dueling block.
+
+“Sixty seconds?” Bobby asked, raising a whistle to her mouth.
+
+“They do sixty or ninety a lot,” Alden answered. He pointed the ball on the end of his weapon toward Liam. He swung it, imagining a different Brute about to run at him. “So that’s fine.”
+
+The whistle blew.
+
+Liam Long took two steps.
+
+“Crap,” said Alden, his nerves spiking as soon as he realized how Liam was going to approach their first duel. “I mean, this is perfectly fair. Of course. But I’m hoping the fight next week will be against a dumber speedster.”
+
+******
+
+now
+
+******
+
+[Alden: Haoyu, would you please entrust me with this temper sphere in my left fist?]
+
+Haoyu had just finished a duel with Everly. He waved across the gym, and Alden waved back from where he stood in the practice area the instructors always set aside on duel days, holding a temper sphere in one hand and his best sling in the other.
+
+[Haoyu: I entrust!]
+
+Alden dropped the sphere into his sling’s pouch, secured it in a way that would have been detrimental if he actually planned to use it as a sling stone, and spun it like he was planning to take the head off the dummy in front of him.
+
+This sphere is under my control. It’s going really fast now. And…I agree to bear the burden of it. Not a switch on and off, but enfolding it with my skill. Which is myself.
+
+Like this.
+
+He was trying to think right whenever he had time to think right. Today, it seemed important for another reason.
+
+Stuart wants to have a skill. I do understand what that’s like. I really do.
+
+Alden put the preserved temper sphere in the utility pouch he wore around his waist. Several other temper spheres were in there. Another  waist pouch beside it was full of sand.
+
+He didn’t plan to use the accelerated sphere on Winston. It would be for whoever he dueled first if they weren’t Winston. Now he needed to focus on preparing his weapon for the speedster.
+
+And as for weapons…Foxbolt kept glancing at him when she wasn’t monitoring duels.
+
+She’s probably wondering if I need her permission to upgrade my options. To something like a million argold cannon.
+
+She clearly had opinions about the S-ranks getting extra classes next term.
+
+Just going to follow the original rules for this one, Instructor. No giant cannon.
+
+On Thanksgiving, when Alden had tried to explain to Winston that he was a stupid dickhead for spreading lies about Esh-erdi and Alden on the internet, the speedster had shouted that Alden hadn’t really beaten him in a fair fight during the obstacle course because he’d used a trick.
+
+Apparently, in Winston’s mind, Alden decapitating him with a fishing line he hadn’t known about was cheating.
+
+So if I do anything he can possibly convince himself is cheating this time, he’ll go back on his deal with Max. And he seems to be able to convince himself of some advanced nonsense.
+
+He walked over to one of the piles of supplies they were all allowed to use.
+
+I want to keep it very basic for you, Winston, so that you know for sure you’ve been defeated.
+
+Max is my fellow B-rank. Finlay is good company in science class. Jeffy trusts me to help him pick spell impressions. I will cleanse you from their apartment. Like a holy robovacuum.
+
+Some of the fifty kilo sandbags had a nice chunky shape, like fat marshmallows instead of sausages. Alden settled on one of those.
+
+If he’d been more confident, he might have gone with a very small weight. He knew he really ought to take Winston down in a single blow—an accurate headshot so that there was no opportunity for retaliation. The temper sphere in his pouch could work. But accuracy was hard when the other person was faster than you and knew you were coming for them.
+
+He might only manage a glancing blow. A glancing blow that weighed over a hundred pounds was better.
+
+I’d have liked another week to practice.
+
+He tied up the bag with fluorescent orange paracord. This would be the head of his mace. He looped a single strand of thread through the cord and knotted it before moving on to making the handle.
+
+Four feet. Five. Six?
+
+The different lengths he’d experimented with had been equal amounts of useful and difficult to manage when he was practicing. He decided on four feet of survival paracord, with an additional foot and a half of the fishing line tugged out of the sheath on one end. He tied the other end to the thread loop he’d left on the fifty kilo weight.
+
+“So what are you going with?”
+
+Alden turned to see Max standing behind him. His dark eyes were scanning the weapon. He wore a slight frown.
+
+“This is a very lightweight, four-foot-long stick with a heavy thing on one end and a pointy thing on the other,” said Alden.
+
+“Is that too simple?”
+
+“Maybe it is. But there’s not even the tiniest chance Winston can say I cheated this way, so if I do win, you’ll win. We’re going to see if I’m more skillful with this thing I’ve cooked up recently than he is with…his whole body that he’s been working with all term. I just performed the wordchain that gives me better control over my body, so that’ll narrow the gap significantly. But…”
+
+“That wordchain is gold.”
+
+“It is,” Alden agreed. “I’m trying to learn a mild speed booster from my roommate, too. That would have been useful, but I don’t have it down yet. You know what you asked me to do is hard, don’t you? Me not losing to Winston would have been easy. Me beating him without doing anything he’ll define as an unsportsmanlike trick for his own convenience is harder. And I don’t know what he thinks is the best way to fight me today. He’s known this was coming, too.”
+
+He thought about Liam Long. He looked around the room to make sure Winston hadn’t arrived yet. “You know how he should fight me, right? There are a lot of people in our class who duel me incorrectly, but they haven’t had to figure it out yet because they can win even if they’re making a ton of mistakes.”
+
+Max crouched beside him. “Which of your weaknesses are you thinking about?”
+
+“You’re asking that like you’ve already made a list of my flaws, and you want to make sure you don’t reveal any of the items on it to me.”
+
+Max smiled.
+
+“Never mind,” said Alden. “I can say something to him that will probably make him take the wrong approach even if he knows better. He still has an out-of-control competitive urge toward Finlay, doesn’t he? He didn’t suddenly get over that this past weekend?”
+
+“On Saturday, Winston timed Finlay’s shower.”
+
+“Uh…”
+
+“So that he could tell his followers exactly how slow Finlay is in the shower.”
+
+“I see,” Alden said. “Thank you for sharing that intel.”
+
+“You seem tense,” Max noted. “That’s normal under the circumstances. You know he plans to make you look as bad as possible if you give him the upper hand, don’t you? With all the instructors being stricter because of how duels went last time, he can’t be too out of line on the floor, but if you lose, he’ll refer to your loss every thirty seconds until we’re all in uni.”
+
+“I am pretty tense.” Not about Winston.
+
+“Let it all out in the fight.” Max stood. “It won’t last long.”
+
+******

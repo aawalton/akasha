@@ -1,0 +1,137 @@
+---
+id: 1dd8911d-5c48-597e-b236-599bca569181
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Into the Void"
+slug: 0002-chapter-2-into-the-void
+partOf: system-change-system-universe
+position: 2
+ownLength: 2121
+unit: words
+ownProgress: 2121
+publishedAt: 2020-08-26
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/544987/chapter-2-into-the-void"
+royalRoadId: "544987"
+markedReadAt: "2026-06-29T19:56:48.832Z"
+---
+
+Chapter 2: Into the Void
+
+“Ah, fuck me!”
+
+The words echoed into the darkness. Derek knew he shouldn’t have doubted the portal back then, he knew that just by voicing his doubts, something would go wrong. It’s just like when someone says ‘at least it can’t get any worse.’ It always gets worse.
+
+Looking around at what used to be the portal from the camp to the battle, Derek couldn’t see anything other than darkness. There was no light anywhere, no way of finding out which way went where. Maybe when Silvi opens up another portal I’ll be able to use it. I mean, I am stuck inside her portal after all, it has to connect to her. Derek was trying to be optimistic about his situation.
+
+I might as well make myself comfortable, there’s no telling when she will use another portal. Derek summoned some meat and wine from his bracelet and began to eat. He ate and hummed a tune, not knowing what was going to happen to him in the future. He just figured that he should live in the moment.
+
+And like this, time passed…
+
+A glaive sliced through the darkness at a horizontal angle, then, slicing through the air, the glaive came down from up high. Then all movement in the area stopped.
+
+‘ding’ Glaive Mastery has reached level 8.
+
+Finally. I’ve been swinging this thing for days now… I think. I don’t even know how long I’ve been in this hellhole. Derek reached up to his chin and started caressing his beard. Hah, a beard. I can’t believe I have a beard now, and not one of those small ones either. Even during the worse days of the so called ‘apocalypse’ Derek still managed to shave his face every so often. Now, it really didn’t matter. At least with a new beard, he could understand a little about how long he had been in the darkness.
+
+Not saying I ain’t already insane, but if it wasn’t for my meditation skill, it would definitely be much, much worse. Derek fumbled around with his now back length hair, wondering if it was still coal black like it had always been, or if maybe the stress of being alone and in the dark with nothing more than himself to keep him occupied had given him some grey streaks. Derek checked out his meditation skill.
+
+Meditation (18): Become one with yourself. Recovery of HP, MP, and Stamina increased by 180% while meditating.
+
+If nothing else, it lets me swing my glaive more. Derek thought as he checked out the new skill and title his time in this ‘tunnel’ had brought him.
+
+Enhanced Perception (6): By not using your sight, your other senses become stronger. Your ability to use other senses while choosing to not use another enhances those senses by 30%.
+
+Yeah, a lot of good that has done me. 30% of no sound is still no sound.
+
+Pacifist II: After countless days of slaughter and pools of blood spilled, you have remained passive for an extraordinary amount of time. +25 WIS
+
+“Heh, heh, heh!” Derek started chuckling. This one gets me every time. Nothing like becoming wiser by sitting in the dark for months on end. Eventually, Derek calmed down. He may have really been losing it, but at least the system provided some form of comfort to him. He had lost hope in Silvi being able to get him out, so the system was the only real attachment he had left to let him know that he was still progressing.
+
+While meditating, Derek's eyes shot open with a start at the new system messages.
+
+Error… System detected host moving out of range of system area.
+
+Error… Host losing connection with system controlled area.
+
+Error… System connection lost.
+
+Please move back into range of system controlled area as soon as possible.
+
+“What the hell is this?!” Derek was frantic. What does this mean? Have I been traveling this whole time? How fast was I moving through the portal to get to that battle? It took a couple seconds at most. How far were the portals from each other? It was at least 100km. If I was moving that fast, and I remained at that speed when the portals closed, how far would that be?
+
+No, that can’t be right. Even then, being generous, it would still be less than a few billion kilometers. That would still be in our solar system and still be within the area of the system. What if the speed slowed in the portal while it was active? How much faster would the tunnel be when it was closed?
+
+“This sucks!!!” Derek screamed through the tunnel as loud as he could. What the hell? I’m totally and completely stuck now, huh? With my Endurance and Vitality, I don’t even really have to eat anymore, so at least I won’t starve. Status.
+
+Status
+
+Name: ERROR
+
+Level: ERROR
+
+Class: ERROR
+
+Race: ERROR
+
+…
+
+Skills
+
+ERROR
+
+Oh! No. Does this mean that I’ve lost the system too?
+
+“Fuuuuuuck!!!!!!!!! Why can’t I kill myself?” Derek had already given up on any chance of being rescued now. He had no idea how long had passed since he left the range of the system. Apparently, even though the system no longer responded to him, he still had all of his stats, buffs, and skills. Also, unfortunately for him, his defense was higher than his attack was, and he couldn’t even kill himself. He had tried to use his Heavy Blow skill, but apparently, his body healed just as fast as the stamina it took to use the skill recovered.
+
+He tried starving himself, but he was right. His body really didn’t need much food with his endurance at what it was. Starving was actually an awful experience for him. It wasn’t like he just got hungrier and hungrier. No, once his body entered a starving state, it started drawing its sustenance from him. This made him lose health, but that healed immediately. So, in theory, his body was an all you can eat buffet that regenerates its food upon consumption. It was hell.
+
+Derek wasn’t even sure how old he was now. He was 27 when he got trapped in the portal. What was he now? 30? 40? There really wasn’t any way for him to tell. He had gotten to the point where he would just enter a deep state of meditation and let the time pass. Only awakening every so often to make sure that nothing had changed.
+
+“Failed attempts at suicide doesn’t make me crazy, does it? No, any rational person would try to off themselves if they went through this. Yeah, I’m fine. Perfectly fine. I wish I had a volleyball or something to talk to. At least it has a round shape. I’m stuck with Glaivey. Either way, nothing talks back. Ah, look at me, rambling again. Sorry Glaivey, you were saying?” Derek may have lost it. Years of total silence and darkness had really done him in. It wasn’t so bad when he still had the system there. It at least showed that he was making progress. Now, he was talking to a pointy stick, and it was apparently talking back to him.
+
+“No, no Glaivey. I’ll let you take watch now. I’m going to go meditate for a while. Wake me if anything fun happens.” Derek allowed his eyelids to fall and slowly slipped back into his meditative trance.
+
+“Huh? What’s that?” Looking throughout the infinite darkness, Derek noticed that something seemed to change. Nope, I’m just crazy, my eyes are playing tricks on me… again. Still, Derek stared into the distant darkness. Suddenly, he appeared to hear a banging noise in the distance. This wasn’t as new as one would think as Derek had begun hallucinating quite a while ago.
+
+Even then, he closed his eyes and focused his enhanced hearing toward the drum-like noise. Yeah, it’s still there. Even when I focus on it. Either my hallucinations are getting worse, or there is actually something out there. For the first time in who knows how long, Derek was feeling some excitement, some hope even.
+
+The banging noise was getting louder and louder, he no longer had to focus his hearing to make it out. Out of nowhere, another crash sounded out, only this time, it seemed to bring with it a crack in the darkness.
+
+Like spider webs, the crack grew with each thump. The cracks started splitting off in different directions, not unlike a rock hitting a windshield of a car while speeding down the highway. Behind the new fissures in the darkness were just the faintest traces of light. As the cracks increased, so too did the illumination behind them.
+
+This is it! Finally! A chance to escape, or die, or… both even. He quite literally did not care anymore. There was finally some kind of change in the dark tunnel and he would not miss his chance of doing something different.
+
+Derek summoned his glaive and his armor, at least the armor from the neck down as the helmet no longer fit on his head with his giant beard and crazy hair. He took off toward the cracks in the darkness, prepared for anything, from death to freedom.
+
+He finally got to the part in the darkness, not knowing what to do next. Well, doing something is better than doing nothing. Derek slammed his glaive into the spider-web like cracks.
+
+Nothing happened. Not giving up, he came down with a Heavy Blow at the center of the fractures. Still, nothing happened. It was almost like he couldn’t do anything from this side of the darkness.
+
+Then he got an idea, not a smart idea, but an idea nonetheless. He choked up on his glaive and took the bladed end and tried sticking it in one of the cracks. Whoa! This is kinda working. The blade actually sank into the opening just a little.
+
+Using the bladed end as a makeshift crowbar, Derek began trying to pry the cracks open. It wasn’t doing much, but it was doing a little. Finally, a rectangle like piece fell off and landed by his feet. Eager, he put the blade in the next crack and continued.
+
+Like this, hours passed. The banging continued, the cracks grew, and the pieces fell to the ground.
+
+Derek finally removed enough pieces of the darkness to see what was on the other side. It looked like a fist hitting an invisible wall. A gigantic black fist. With claws and all kinds of other kill me bits. AWESOME! Derek tried to use Identify on the creature.
+
+Name: Error
+
+Level: Error
+
+Please move back to a system designated area to use this skill.
+
+Should have expected that. Derek still didn’t care. This gentlemanly creature was his ticket out of this hellhole, and by god, he wasn’t going to look a gift horse in its mouth.
+
+Finally, the clawed hand pushed through the invisible wall and reached into the darkness with Derek. It took its hand out before putting both of them in the hole it made. It began pulling the darkness out piece by piece until there was a hole big enough for its body.
+
+It stuck its head inside and started hauling the rest of its body in. Standing in front of Derek, the three meter tall, solid black creature looked at him with fire red eyes.
+
+“Hey man! Thanks for making me a door. It was really starting to get boring in here.” Derek walked up to the monster and patted it on the shoulder.
+
+The back of the creature’s hand hit Derek dead center on his chest, leaving his armor dented. “Hey, that wasn’t very nice.” Derek stood up and used a Heavy Blow on the creature’s arm.
+
+The blade stopped without breaking the skin, making the sound of steel crashing against steel. The monster glanced at Derek, fang-like teeth beginning to show and a low growl radiating through the tunnel. “Calm down now. That’s just how people like me say hello. I mean, you hit me, I hit you, now we’re besties.” In his peripheral Derek could see the opening the creature made slowing, repairing, and closing.
+
+“Anyway, it was nice to meet you. My name is Silvi, yes, Silvi with an I. Make sure to look me up if you ever get the chance. I’m moving to go ahead and get out of here. Bye, bye!” Derek dashed towards the opening, feeling the wind streak across his hair as he ducked under a blow from the monster. He dove through the makeshift door and he was out.
+
+“Freeeeedom!!!!” He shouted as he fell.

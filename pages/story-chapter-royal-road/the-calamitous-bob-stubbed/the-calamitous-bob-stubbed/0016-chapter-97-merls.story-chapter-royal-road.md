@@ -1,0 +1,337 @@
+---
+id: 4b9abfd3-bff2-517d-8e33-0f7f3b0d3f50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97: Merls"
+slug: 0016-chapter-97-merls
+partOf: the-calamitous-bob-stubbed
+position: 16
+ownLength: 5894
+unit: words
+ownProgress: 5894
+publishedAt: 2022-11-25
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1048890/chapter-97-merls"
+royalRoadId: "1048890"
+markedReadAt: "2026-06-29T21:15:14.329Z"
+---
+
+There was something about walking downhill on a full stomach with a slight wind and the scent of sap in the air. Viv was backed by enough stats to give her an olympic shape. It felt like being alive, especially after that last few weeks. Viv decided to push her vague annoyance at getting sidetracked by luck and her worry for the others aside for now and enjoy the moment. The weather was nice; the birds tweeted; all was well. She did have to kill a strange burrowing insect thing that tried to bite her foot off when she passed by, but honestly it made a funny noise when it died and gave her a tiny brown core so that was okay. She walked for hours, comfortably making her way over large roots and through thickets. If something snagged at her dress or when the underbrush grew too thick, it was only a matter of using her machete equivalent which was, in this occasion, disintegration-charged black mana. She even found bushes thick with tasty red berries for an afternoon snack.
+
+A swarm of wasp-like things also found her because their nest was right above the bush, but a coating and a werfer took care of that. Sadly, there was no honey to be found and the queen might have dripped with mana but Viv wasn’t eating that raw. Still, all in all, five stars.
+
+“Where were you all my life?” she whispered to the tendrils coiling around her body.
+
+It had become very easy to manifest and control mana outside of her body so long as it wasn’t too far. Honestly, she would be fine just leaving manifestations trailing behind her but she had enough problems without also being taken for a tentacle monster. Also it felt a bit obscene, like hanging around with one’s tits out. Mana was supposed to be kept inside until used.
+
+She had a slight fever when night fell and checked her health, but she only had the poison removal aftershock thingie and assumed it was normal. She set up in a small recess near a rock and used her knife focus to dress the snake. Dinner was snake skewers with grilled wild onions and some more berries for dessert. The snake tasted somewhere between chicken and fish with a fruity aftertaste. By some miracle, she still had some salt tucked in one of her bag’s pockets. An alarm spell, an insect repellent, and she was set for the night.
+
+The stars were nice. Viv wished she had a book to read and could make some light. Shaping exercises occupied her for a while, then her mind wandered to Solfis, Arthur, and Marruk. Come to think of it, it was the first time she was alone, truly alone, since she had left Harrak. Solfis had become her companion the day after she arrived and then they had stuck together for a year, never apart for more than the time it took to murder an annoying bishop. She didn’t find her new isolation restful. For someone like her who had trouble getting along with others, her recent companions had been a true blessing. It didn’t really take her mental energy to hang out with them. They could all spend an hour with each other in silence, just doing their thing.
+
+She missed them.
+
+Her bond to the dragonling showed the little rascal was alive and well. As for Marruk and Solfis, she was marginally confident they were okay. Marruk had money in the bank as well, not to mention the dependable Kark had already crossed half of the human lands before. She had been weaker then, so there was hope. Honestly, they were probably better off without Viv and her stupid tendency to attract problems.
+
+The outlander fell asleep, woke up in the middle of the night for no discernible reason and had a snake snack, then woke up again at the crack of dawn feeling refreshed. She used her water to wash her hand and face, finished most of the snake and walked for fifty meters before finding a feathered skull hanging from a branch.
+
+It had belonged to some boar-like thing if the tusks were any indication. The empty sockets glared at her as the grisly ornament swang lazily in the morning breeze, multicolored feathers fluttering. It didn’t look super fresh.
+
+Viv froze in the middle of the path, and reflected that it was indeed a path that looked kind of traveled since the brambles had been cleared. Her mind raced to quick and perhaps a little premature conclusions.
+
+This was an artifact.
+
+Artifacts meant tool users.
+
+Tool users always lived in tribal units of several individuals, or at least they did on earth.
+
+Those tool users were territorial because this was a territorial marker.
+
+Therefore, they were a bunch of dark gods-worshiping cannibals. It had to be, with the way things had been going so far.
+
+The witch took a step back, turned around, and decided here and there that she was giving the place a wide berth. The path she had followed so far ran straight east through two small elevations into a rocky patch of land filled with steep inclines and narrow passages. It took her part of the morning to go around from the north, and when she did, she found another clean passage that also went east and also bore a marker. That one consisted of a bird skull with a branch running horizontally through it, and from which hung transparent stone beads. Viv swore under her breath and kept going north until noon when it became pretty clear she was being followed.
+
+She had been careful but had not tried to hide her tracks. She had absolutely no doubt that a hunting path would let someone follow her, even if she took pain to erase the tracks she left behind. Her knowledge of forestry didn’t extend to stealth and running through tree branches was for ninjas and powerful Hadals. The curious thing was that her pursuers made no effort to disguise their presence. Branches cracked loudly under their limbs, and sometimes she believed they were moving bushes on purpose. She even heard squawks.
+
+Maybe they were trying to flush her out, push her forward into a trap.
+
+Viv decided to stop in another clearing with a sheer rock cliff at her back and make a stand. It was probably better to face foes while she was well-fed and rested because she sure as hell wouldn’t outrun people who were familiar with the forest. There was also the remote possibility that these were not hostile. She had to try. She also didn’t have to be stupid about it, so Viv traced a large defensive circle and inscribed a few runes on the loam, mostly defensive ones in case they would try to shoot her. A few risen eldritch walls would cover her flanks if she decided to run farther north or west, back towards the elemental. Placing herself in the middle, Viv sat down and settled to wait. It didn’t take long.
+
+First came excited whispers and croaks, then someone made a very loud noise that sounded like a lecturer clearing his throat, if the lecturer were thirteen. A tree at the edge of the forest shook violently enough that Viv thought the newcomers were trying to uproot it, then a long, gangly figure emerged from the shadows.
+
+As far as Viv could tell, it was humanoid and also probably male if the lack of breasts was any indication. He was rather short and very thin but not in a way that felt unhealthy, more like the species was naturally less muscular than humans. His skin was gray-brown and covered in white paint dots, with long arms ending with three digits each. The strangest thing was its head, which was definitely avian with an actual beak. As she watched, the strange being tasted the air with a flicker of a pink tongue. Two large blue eyes settled on Viv with what she felt might be fear, or trepidation. The colorful feathers covering his skull shivered. The creature stopped when he saw Viv had noticed him and took a few steps forward with his hand well in evidence.
+
+Besides ritual paint, the creature also wore a sort of skirt held together by a leather belt wrapping several times around his narrow hips. A knife sheath hung from it, though it was currently empty. There was also a bag at his back.
+
+The being looked back, holding his hand together. He must have received some sort of encouragement because he made an exaggerated, extremely nervous yawn gesture that would not have convinced a group of toddlers. With one hand held in front of him, he slowly reached for his back and brought out two small, round things that looked like dumplings.
+
+He picked one and bit into it, slurping its contents loudly then throwing the rest in his beak. He chewed a few times while maintaining eye contact, let out an equally convincing ‘HMMMMMM’ then promptly left the second dumpling on the ground, gesturing grandly and taking a few steps back.
+
+“Are you trying to tame me?” Viv muttered with disbelief.
+
+She felt like a member of an ancient civilization being offered a chocolate bar by a single-planet monkey species.
+
+Oh yes, she could inspect.
+
+[Merl pathfinder apprentice: not very dangerous, one who guides hunting parties to their prey and then back safely, navigating the dangers of the forest. Fast learner.]
+
+His species was merl, okay, good to know. He was on the first step, which meant that she had met a juvenile. He did look quite young and rather naive, because he was within fuck-you range of a war caster.
+
+She stood up and grabbed the dumpling, to which the juvenile hooted something back towards the treeline. She bit into it and moaned in pleasant surprise. The dumpling contained meaty, delicious stew with what felt like roots and fresh vegetables. She slurped it and, following the example of her strange companions, bit the rest. It was dough of something earthy with juicy bits. Pretty nice. As repayment, she left a few strands of snake meat and her last berries on the ground. This led to much excitement from the young pathfinder.
+
+Viv was flabbergasted. If she’d been naked, okay, sure, but she was clearly wearing knit stuff, a steel helmet and she had her round shield on hand. Nevertheless, the strange reaction was encouraging and she suspected that the merl didn’t mean anything by it. He was probably just an idiot.
+
+Said idiot squawked words (she assumed) of encouragement back, and finally coaxed his companion from cover. It was also a merl, a female if the crossed bands on her chest were any indication. While the boy was boisterous and daring, she was clearly circumspect, her posture hunched forward and her orange eyes focused on Viv. The witch decided that scaring teenagers wasn’t her idea of fun and waved at the girl. This sent the boy into a state of great excitement, and he soon stood to walk around the clearing, gathering twigs. The girl raced back to the forest and returned immediately after, carrying weapons in her thin arms. She hesitated but Viv just shrugged and she soon sat nearby, still spooked.
+
+Viv used the break to study her while the boy squawked excitedly.
+
+[Merl harrier apprentice, not very dangerous, one who harasses large prey during hunts and otherwise catches food with traps. Detail-oriented. Vigilant.]
+
+She was also first step. Before Viv could draw a conclusion, the boy returned with enough wood to start a small fire. He tried to speak to Viv who made obvious signs she had no idea what he was saying. This didn’t deter him in the slightest.
+
+Viv considered leaving. She had an inkling they wouldn’t stop her, but they seemed friendly enough and she doubted teenage woodsmen were well-versed in the subtle art of deception. She had a relatively good feeling, for now. She would keep her eyes open on the off chance they considered human sacrifice the height of hospitality.
+
+The boy dressed and cooked a small bird, accepting Viv’s offer of salt with hoots of delight. Meanwhile, his companion checked the weapons. There were knives made of bones, spears, and strange, green flexible bows decorated with stones. The girl picked her own and held it in her feet.
+
+And then Viv blinked.
+
+And she realized that the boy was picking more twigs without bending. They had prehensile toes? It seemed like they did! She watched with interest as the girl drew her bow with her arms, then by holding the bow in a foot and pulling the string with both hands, which caused the wood to groan. Viv could see the muscles tense under the girl’s naked skin. It was quite fascinating.
+
+Eventually though, the girl admonished the boy for something, probably speaking non stop, and the boy considered her words. Then, he looked like he was having a brilliant idea which put Viv on guard. The boy showed her his thumb, which ended in a small claw, and focused. A few drops of transparent liquid dripped down from the tip.
+
+Ok so he had resorted to cool tricks. She had been promoted to toddler.
+
+That also really felt wrong, somehow. The girl agreed and pinched him with her own claw which made the boy squeal in alarm, before realizing he was fine. Viv knew what it meant. The merls had poisonous thumbs. A chilling, horrifying realization sent a wave of fresh terror down her spine.
+
+Humans were closely associated with great apes.
+
+Merls had poison, avian characteristics, and apparently produced milk since the girl had breasts.
+
+Ergo, the merls were a species closely related to the platypus.
+
+If there were still any doubt Nyil was a gods-forsaken joke of a planet, this confirmed it.
+
+Heedless of her great distress, the two bickered amicably, then eventually presented her with a tender and delicious wing which she ate with patience since it was quite hot. They were mid-meal when Viv felt an aura approach, and the sounds of more squawks echoed through the branches. The aura flared, signaling its approach to Viv’s senses and she flared hers once in return. A patrol of merls stopped at the edge of a clearing, led by a much taller one wearing an elaborate, well-knit blue garment, decorated with glyphs. He had graying feathers on his scalp and stood with dignity, hand clasped over a mage staff. Viv tasted gray and brown mana on him, mostly. He bowed to Viv, who returned the gesture. The two kids used the opportunity to scamper.
+
+[Merl Prophet of War. Proficient battle caster, slayer of men, beastling nightmare, unbreakable, leader of merls…]
+
+Ooooh shit, she hoped he was friendly. Fourth step, and not a peaceful one either. He would probably pulp her against the cliffside if she engaged.
+
+The man spoke a few words in a language Viv recognized as that of the northern cities, but she didn’t understand it. At least she remembered enough words to tell him she was not fluent. He nodded and switched to Enorian.
+
+“Good afternoon. Before we begin, I would like to know if you are in any way associated with the city of Glastia.”
+
+His voice was barely more than a croak. He enunciated every word with care in a way that reminded her of the Yries
+
+“Glastia?” Viv asked, “In the north, right?”
+
+“Yes.”
+
+“Not to my knowledge? I’ve never been there.”
+
+“Are you a lost traveler then?”
+
+“Yes, I’m trying to return to Enoria.”
+
+To her surprise, the old one sighed in relief, his shoulder drooping a bit under the slightly ratty cloth. He approached, his escort milling around hesitantly. Viv noticed that they all carried flexible bows, spears, and some sort of uniform made of wood and feathers. Bird feathers, not their own.
+
+“My name is Tweek. I would like to offer you the hospitality for the night, and tomorrow a pathfinder will show you the way out of our domain and to the Hidden River. It will lead you out of the woods.”
+
+Sounded better than trudging around looking for a path.
+
+“My name is Viviane and I’d be delighted,” she replied, and the use of proper etiquette seemed to make the old man happy.
+
+“Then let’s go, there isn’t any tea here. Speaking of, I need to teach the future of our tribe about following a war caster and then offering her unseasoned bushwing as a gesture of friendship.”
+
+Tweek stood up, called the two kids who came sheepishly, then he whacked them on the head. The whole group departed after a tirade delivered in a calm, low voice. It reminded the outlander of her mom promising small Viv a shiny red ass once they’d returned home after a morning of misbehaving. The threats always carried the weight of what the fiery woman would do behind closed doors, far from the eyes and ears of a judgemental public. Viv shivered.
+
+“They noticed your tracks after leaving our lands. Two followed and one returned to warn me. All three of them should have returned, of course. They are first step. If you had been unfriendly or easily scared, things could have gone poorly,” Tweek explained.
+
+“No harm done on my end, at least. I assume you have very few humans here?”
+
+“You are the first in a long time, and the first since we came here.”
+
+“Wow, then how is your Enorian so good if you don’t mind me asking?”
+
+“I will tell you the story tonight,” he replied with a smile, “it’s a bit long. Why did you assume there were few humans?”
+
+“Your pathfinder tamed me with dumplings.”
+
+Viv snitched on the poor lad but kept her tale humorous. Tweek was obviously embarrassed, but Viv’s good mood soon led to a sort of hissing sound Viv assumed were chuckles.
+
+“The younger generation have never met humans. Please forgive them. And thank you for not reacting too strongly. Some others would have taken liberties with us.”
+
+“No problems.”
+
+Viv was tempted to say she had worked with Hadals and Yries before, but one of the lessons her dad had taught her was that you can’t say anything wrong if you shut the fuck up. No need to volunteer information that could land her in hot waters since things were going well so far.
+
+The trip back was uneventful. Tweek inquired how Viv was managing, and the witch explained she had found berries and ambitious snakes. The old merl promised her food and they arrived at the edge of his species’ land.
+
+This part of the wood was craggier and more vertical, with many canyons and corridors separating elevated rock formations. At first, it seemed empty, but the group soon came across the first dwellings.
+
+The merls lived in wood houses built on stilts across chasms or by the cliff, with bridges allowing them to cross the gap. Garland-like vegetation formed natural roofs. They sagged with fruits and vegetables ripening under the early summer sun like colorful ornaments. Meat and pelts hung from driers while Merl women moved adroitly across the place, babies strapped to their backs. They used their prehensile feet to travel with as much grace as if they were on flat land.
+
+The people she came across looked at her with wide eyes and some measure of alarm, but they relaxed when they saw her companion. Strangely, it was the older folks who glared with suspicion.
+
+They came across several more such farming villages on their way deeper into the territory. Viv saw a lot of bone tools but no iron. It also seemed like the merls liked their colors a lot. They didn’t have anything like cornudons but they did keep birds as cattle, possibly for eggs. The tallest of the men were around Viv’s size, and they were lithe and graceful. They were, however, a bit slow on the ground. Viv had to take smaller steps to match the others’ speed.
+
+The path led higher soon.
+
+It was late afternoon when Viv arrived at the merl city.
+
+“Sikoua. It means peace at last,” Tweek commented.
+
+Hidden in a recess of the mountains, Sikoua occupied an inverted cone plunging deep in the mountain flank like an ancient caldera. Hanging gardens criss-crossed its width, loaded with flowers and the occasional platform. Workshops and dwellings dug into the cliff displayed wares and drying laundry. The squawks of conversations were loud, until Viv was spotted that is, then they were replaced by worried whispers. Tweek gave Viv a comforting smile.
+
+“Please do not take their reaction to heart. Humans are why we survived but also why we almost perished in the first place. One of them is also why we are free.”
+
+He pointed at the center of the city, far below, where a simple stone statue stood surrounded by tall trees. It was a man, clearly a human. He had a hand raised in casting or as if holding something back.
+
+“Who is that?” Viv asked.
+
+“Our savior, Sidjin. He was a powerful mage who sacrificed his life to guide us to safety against the wishes of his city. We are in his debt. We will tell you his story tonight! It is a good story.”
+
+“Sure.”
+
+Viv was led to a communal room near the bottom of the city. This deep underground, the sunlight was low but colorful mushrooms provided a varied illumination. Cooks grilled or boiled dumplings on nearby fires.
+
+Several important tribe members came to visit, mostly to have a look at Viv and be reassured that humans were not on the verge of invading the place. When night fell, Viv settled on a comfortable couch filled with feathers while a group of juveniles brought a light orb and flat dolls made of carved wood. Food was served, and Viv sat next to Tweek. The old merl gave a signal with clear excitement, checking Viv’s reaction all the time. It felt strange but seemed harmless enough, so she indulged him when he served her macerated fruits. It was… not very good, but Viv sipped it anyway.
+
+The light orb was placed in a recess of the wall and activated, so that a circular beam illuminated the far wall, casting shadows of plants held in the foreground by the excited younglings. Viv smiled. She hadn’t seen a shadow puppetry show in fifteen years! She leaned forward while the far wall was made into a screen showing a dense jungle covered in liana… and then a hint of mana infused them with color. A light wind caressed Viv’s nose, bringing heat and the rich smell of wet earth. Drums and whistles spoke of bird calls and the passage of unknown creatures. A girl sang in merl while Tweek whispered translations into Viv’s ear.
+
+“Thick forests, so wet and warm, with lianas making bridges without our help! This was where we used to live. The jungle fed us and protected us.”
+
+The trees move apart to show several landmarks in turn.
+
+“Angry old mount Kwehk spat stones to cut and stab.”
+
+A mountain appeared with a warm, dry wind.
+
+“Mother Ril gave us fish every day, delicious and white.”
+
+The sound of flowing water replaced the roars of falling rocks. Viv got some water in her face and had to cover her drink.
+
+“Our tribe lived in cities across the land, from the southern plain to the bitter waters of the north. Lo! So many ancestors made a name for themselves!”
+
+Several minutes passed with small stories of merls accomplishing great things, mostly through cunning and determination. Those were nicely educational, Viv thought.
+
+“But the jungle did not feed only us…” the narrator continued, and her voice turned gloomy and foreboding.
+
+“The beastlings were here, our hated enemies. A thousand times they assaulted the firebear patriarch to eat his fruits. Their bones covered his orchards, but one day… they won.”
+
+The drums formed a low drone, then a slow crescendo as the shapes of clawed limbs built up on one side.
+
+“The beastlings did what they always do: make more of themselves, spread like tree rot across a fruit grove. They fell upon the jungle in numberless hordes and slew its guardians, eating them and growing. Tens of thousands fell from our arrows, but they were as innumerable as ants. One by one, our heroes perished and then it was the turn of our families. The jungle was lost, and we were lost with it. Tweek, the last of our great shamans, drove us south to the plains, to seek shelter.”
+
+Viv’s eyes widened in genuine surprise and considered her companion with renewed interest. Tweek was obviously quite pleased with himself, and for a moment Viv wondered if he was trying to bullshit her, but the respect the other merls had for him said a different story. There was also the ‘beastling nightmare’ title. Only Solfis had a nightmare title. Or rather, he had all of them. The old caster must have massacred thousands of individuals to reach that point.
+
+“And there we found the human city of Glastia.”
+
+The jungle faded, replaced by towering white walls and the call of trumpets. Silhouettes of armored warriors formed tight ranks, pushing the drone away, but it did not die out.
+
+“The humans of Glastia agreed to let us in if we fought. They built a second wall around their city and had us stand on it. The merls fought bravely! We kept the beastlings at bay. We bled and we died on those walls, day after day.”
+
+Sad music replaced the din of battle as the merl shapes on the wall disappeared one after the other. There were more accounts of battle, but Tweek’s voice choked in his throat and Viv didn't get the translation. It didn’t take a genius to guess the merls had been used as a meat shield.
+
+“But there was one who disagreed with our fate. Prince Sidjin!”
+
+Blaring horns announce the coming of a robed man standing heroically next to the remaining merls. The roar of artillery covered the drone of the beastlings and the earth shook enough to force a ripple across Viv’s liquor glass.
+
+“Sidjin fought on the first wall with us, but he saw how his countrymen treated us and defended us however he could. Sidjin brought food and medicine. He brought armor made of cloth and steel-tipped arrows. He was a great man! Until one day, he had enough.”
+
+The drone of battle faded, replaced by a moon-lit night vista. Sidjin stood alone in an empty street, and behind him, a white disk appeared. It soon turned into a doorway to a forest until all Viv could do was whisper.
+
+“Teleportation magic.”
+
+“Yes,” Tweek replied, “he opened us a passage to the forest. We escaped.”
+
+Viv’s mind worked feverishly while the play finished. She knew teleportation magic was a thing, of course. Her first camp back in Harrak had been next to an expended teleportation circle, so it was definitely a thing, but she was under the impression it was excessively rare, the stuff of legend. That someone would be able to open one… It would be nice if she could talk to Sidjin, but she was under the impression he was dead from the way Tweek talked. Who would kill a mage capable of opening teleportation gates and pass an entire fucking people though it? Crazy.
+
+And yes, that was a crazy story, and put her own into perspective. Her revolution might have felt like the whole world to her, but to others, the civil war or the beastling tide were the one deciding event of their lives. She was only one among many, floating on the whims of fate, even with her strange luck. The thought was sobering.
+
+Viv clapped when the show ended, something that scared the young ones but caused tweek to laugh, asking his bashful guest if it was a mark of appreciation. Viv’s confirmation led him to comfort the young ones while they made their way out, pleased with the show of appreciation from the first human visitor. Viv turned excitedly to her host and gifted him the compliments he was obviously looking for.
+
+“Alright, that was amazing, especially using spells to improve immersion.”
+
+“We got the idea from Glastia, but decided to apply it to our traditional shadow puppetry rather than using actors. I quite like it.”
+
+“It was breathtaking. I loved it.”
+
+And she had. Her genuine smile appeased Tweek who gestured for dessert.
+
+“Did you learn much from the humans during your stay? As unfortunate as it was,” Viv quickly amended, feeling callous at the tremendous loss of life.
+
+“Yes. We had met and traded with humans before, of course. Many expeditions traveled to the foot of Mount Kwehk looking for precious stones. Those were just that though, contacts. Living in Glastia, we observed much. For example, the merls only had hunting parties but now we can fight in groups. We also studied agriculture and husbandry to fit it to our needs. A pity we couldn’t learn to use iron, not that we have found any around so far.”
+
+“And Sidjin? The play said he died?”
+
+“I assume he did, though I cannot be sure. The real story is that one of his brothers bombarded our lines to kill a powerful shaman. Sidjin’s merl friend died in the friendly fire. Before that, he had encouraged us to earn our place in human society so that incident… broke him. He felt he had betrayed us with his words. He became obsessed with that colorless magic of his. In any case, we all escaped through the portal he opened during the span of one night, leaving the outer walls completely defenseless. Execution is the most likely outcome.”
+
+“Hmmm.”
+
+Viv wouldn’t be so sure. A mage capable of opening a portal? She would kill a town to harness his secrets. As she considered Tweek’s words, a nagging feeling finally turned into a memory.
+
+“Wait, you are talking about the northern wall, the most recent one. When did this all happen?”
+
+“Five years ago.”
+
+Viv’s cheeks inflated from ballooning outrage. They had made it sound like it was a founding myth or something! Tweek gave a squawking laugh.
+
+“Don’t be mad at me. Of course I would teach the younglings what I know before old age and braggarts twist it into a farce. We have just been through a… difficult time. Half of those around are too young to remember what we have lost. If Sidjin hadn’t taken pity on us…”
+
+He froze, gaze lost.
+
+“You led your people through an extinction event and they emerged on the other side in one piece. That’s more than most would have achieved,” Viv replied. She felt it was the right thing to say.
+
+“Extinction event?”
+
+“It’s a rapid decrease in, errr, the number of species in a place.”
+
+“An accurate description. Beastlings eat everything that can be eaten, then they peel the bark, dig out the roots, and pull the leaves then eat those as well. The jungle will take a century to regrow after the last of the horde dies.”
+
+He looked a bit sad.
+
+“I suppose this is our home now. In any case, it pleases me that you enjoyed our show. Sidjin was not close to me as he was to the friend he lost, but I miss our conversations. I have had no occasion to practice human languages in a while.”
+
+“And the reason why you asked me if I was from Glastia was in case they would seek revenge for the loss of their outer wall?”
+
+“And the lives that must have come with its fall. I would do it again in a heartbeat, but I can imagine what the First Prince must have said, something about biting the hand that fed. They never saw us as people. If they learn where we are, there is a possibility they would seek revenge. I wouldn’t put it past them.”
+
+“I’m sorry. It seems to be a common thing among some of the northern cities.”
+
+“Sidjin mentioned it, yes, but let’s not dwell on that. You have a long day ahead of you tomorrow so I will explain what you need to do. A guide will lead you to the eastern edge of our territory, then it’s only a short walk to the hollow mountain that hides the Hidden River, a subterranean waterway that ends in northern Enoria, or at least this is what scouts reported. They saw humans and left. It will take a little over two days to reach the river and another one to follow it. Perhaps less. You humans are so fast on flat ground. And now, you should rest. I can tell you have been through much recently.”
+
+“Is it that obvious?” Viv asked bitterly.
+
+Tweek silently pointed at the multiple gashes in her dress, their edges still stained brown despite her attempt to wash it off.
+
+“Oh, right.”
+
+“Unfortunately we have nothing your size, but if you wish, we could have it cleaned and darned for tomorrow.”
+
+“Thanks Tweek, I really appreciate it. I have received a warmer welcome from you than from most of the people I have met so far,” Viv remarked, subtly fishing for confirmation that there wasn’t a catch. She could not help but be a little suspicious.
+
+“You are welcome, Viviane, and thank you for indulging an old man. Hospitality used to be a sacred practice among the tribes. I am happy I had the chance to show it again. And I would have a request in return.”
+
+“I will not share the knowledge of your existence with your enemies.”
+
+“Good. I will have one of my sons show you to your room. Sleep well, ‘Lost Heiress’. I hope you find your way.”
+
+He made to leave, the Viv stopped him.
+
+“Wait!”
+
+“Yes?” Tweek asked with a little concern.
+
+Viv bit her lip. Hospitality was, well, he was right. It was sacred. And she had shown up empty-handed. The thing was that she had nothing she could really spare to show her appreciation, but this was it, was it not? The true test of character. Sacred rights mattered the most when they actually cost something.
+
+Viv removed her helmet from her pack and handed it to Tweek.
+
+“This is too much, I cannot accept—”
+
+“You may have just saved my life. I don’t know much about the Deadshield Woods but I know they’re dangerous and it’s not because I’ve met nothing too dangerous so far that it won’t change. It would make me happy to give you this gift in return for your help, and also as a symbol of friendship from the first human you’ve met in five years. To new beginnings, so to speak.”
+
+Tweek’s tongue flicked out. It was clear he was tempted.
+
+“Will you not miss it? Is it not a set with your shield?”
+
+“Oh no, the shield is different. The enchantment is for durability only, the sigils you see have been added by people I’ve helped.”
+
+Tweek smiled and Viv knew the unwieldy thing was going to become heavier again.

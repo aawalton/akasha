@@ -1,0 +1,635 @@
+---
+id: 3b686033-bd4b-5978-af54-1226ffe3d83f
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY-FOUR: The French Sauce"
+slug: 0085-eighty-four-the-french-sauce
+partOf: super-supportive
+position: 85
+ownLength: 5782
+unit: words
+publishedAt: 2023-10-22
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1382546/eighty-four-the-french-sauce"
+royalRoadId: "1382546"
+---
+
+“Alden…you’re…I just knew you were gone forever,” Boe said. “I handled it about as well as you’d expec—mmmph!”
+
+Alden was crushing him in a hug before he even realized it. He was solid. He was real.
+
+“You weren’t here when I got back home!” Alden shouted in his ear. “I thought you were dead, too!”
+
+“Didn’t Jeremy tell you—?”
+
+“Of course. And I believed him. Mostly. But so much had already gone wrong, and sometimes I thought…you know it’s not the same as seeing you with my own eyes!”
+
+“Asshole,” Boe said in a muffled voice. “You don’t get to play the victim when you died first. And instead of Jeremy telling me you were fine, I had the freaking System telling me you were space dust.”
+
+Boe put an arm around him briefly, then pushed him off.
+
+Alden took a step back. “How on earth are you here, Boe?”
+
+“You just told the cat you weren’t going to ask me questions.”
+
+“About where you were all this time. You don’t have to say if you don’t want to answer. But how are you on Anesidora?! How did you even get into my apartment? The door’s not supposed to open for people unless I give it permission to.”
+
+He examined his friend. Ripped jeans. Drippy hair.
+
+“And when you said you needed to collect yourself did you mean you needed to shower and get dressed up in my clothes?”
+
+Boe’s smile widened. “That’s definitely what I meant.”
+
+Alden laughed a little too wildly. “What the heck, man?”
+
+“No. I really was collecting my thoughts. Showering helped. Actually…could you do me a favor?”
+
+“Anything,” Alden said at once.
+
+“…you sound so serious. I’m not going to ask you for your firstborn. Could you just…do your wordchain?”
+
+“What wordchain?”
+
+“You mentioned in a couple of your messages that you’ve got Peace of Mind down pat?” Boe shifted his eyes toward the damp streaks the towel was leaving on the floor. “That one.”
+
+“Oh. Okay? You want me to do that right now?”
+
+“Yeah.”
+
+“…just a sec then.”
+
+It took more than a second, but Alden composed himself and started the hand gestures. The gremlin stirred briefly and then ignored him.
+
+“My heart calls out to another in good faith,” he said in Artonan. “Spare me a portion of your mind’s ease in this hour when my own mind is troubled. Tomorrow, I will grant another an equal comfort of mind.”
+
+A moment passed, and he felt the chain settle. The overwhelming joy he was feeling faded just a little.
+
+“You didn’t even ask why,” Boe noted.
+
+“It’s only a wordchain. I’ll recite it all day if you want.”
+
+“But it dimmed your mood slightly in this case. I’m sure that’s not how you usually want to use that one. Thanks. For doing it. And…for being so thrilled to see me in the first place that I had to ask you to.”
+
+Alden considered that—a bit more calmly than he would have a minute before. He thought of a lot of questions to ask. All of them were things Boe had to know he was dying to have answers about.
+
+Finally, he said, “You want food?”
+
+“The magic food I don’t deserve because I’m a terrible person?”
+
+“Yep.”
+
+“I can’t say no to that.”
+
+Alden stepped over to the fridge. “Scandinavian, Indian, or Chinese?” he asked, examining the containers.
+
+“So international.”
+
+“Natalie—did you hear any of my messages about her?—she wants to cook for everyone, so she’s trying to learn recipes from all over the place.”
+
+“Indian food,” said Boe, leaning against the counter on his elbows. “And now that you’re not out in the middle of a crowd of superhumans, you can ask me where I’ve been and what I’ve been doing. And why I wanted you to do a wordchain. Just because you promised the cat you wouldn’t, it doesn’t mean I’m going to hold you to that.”
+
+“You know…I had a reversed version of this conversation with Jeremy last week.” Alden headed over to the microwave with a veggie curry dish. “Where I said he could ask me anything because he was my friend, and he said he didn’t have to ask me anything because he was my friend.”
+
+“Ugh.” Boe covered his face, and peered at Alden through his fingers. “He said that? With his own mouth?”
+
+“Yes.”
+
+“Fine. He is an angel among men. Fuck. How do you compete with that?”
+
+“I can’t. And I know you can’t.”
+
+“Well, I’m a bastard. It’s been established.”
+
+“Me too. But I’m a lesser bastard. So I’m only going to ask one slightly prying question instead of the million I want to. How’s your hand?”
+
+Boe uncovered his eyes. “My hand?”
+
+Alden pretended to punch a cabinet. He smiled at Boe. “Your hand,” he said.
+
+“Oh.”
+
+“I mean the hand you put through a brick wall,” Alden clarified.
+
+“I know what hand you mean.”
+
+“The hand you put through a brick wall after trying to get the angel to beat you up. And saying something so horrible to him that he won’t even repeat it.”
+
+“I was there. I know what I did.”
+
+“That hand.” Alden took the curry out of the microwave and slid it across the counter toward him with a fork. “Is it broken? Do you need a healer?”
+
+Boe stared down at his fingers. “Nope,” he said finally. “Not so much as a scratch.”
+
+Well…then the question had to be asked. He took a deep breath. “Did you get selected while I was gone?”
+
+“It was before you left.”
+
+There was a brief silence.
+
+“Oh, don’t do that, man,” Boe groaned.
+
+Alden had been reaching for the soap. He paused. “Don’t wash curry sauce and train germs off my fingers?”
+
+“No…please don’t be sad I didn’t tell you. Be offended. Or annoyed. Or even angry.”
+
+“I’m not sad. This is just my face.”
+
+“You’re sad,” said Boe. “Sad is…it’s the worst. I’m terrible at dealing with sadness. My own. Other peoples’. It ruins my self-control.”
+
+“I’m not sad,” Alden said again.
+
+He absolutely was. But only about that one specific thing. It wasn’t that important, and it was overshadowed by his relief that Boe was alive, his worry about what his friend was doing here, and quite a lot of happiness.
+
+“Alden, I’m so sorry.”
+
+There was an uncommon amount of sincerity in Boe’s voice.
+
+“Why?” Alden forgot about his soapy hands and stared at him. “You haven’t done anything wrong except for being an enormous dick to Jeremy, and even he says you were amazing prior to the wall punching incident. I didn’t mean to make it into a bigger thing than it was by bringing it up like that.”
+
+“That…the ‘wall punching incident’ was a much bigger thing than he let on,” Boe said. “But that’s between me and him. I’m sorry I didn’t tell you I had powers. You told me right after it happened for you.”
+
+Of course I did.
+
+“It’s fine. Everyone has secrets.”
+
+“I knew you didn’t think we had them. I knew it wasn’t right to keep it from you. I hated myself for it so much, especially after you… I didn’t want it to be that way. I’m just a fucking coward. I almost told you a hundred times. There were reasons I should have, but I didn’t want to lose my friend.”
+
+Alden snorted. Then, he realized Boe was serious.
+
+“I’m not going to stop being your friend.” How could he even think that? “We’ve spent almost every single day together since we were eleven. You could say harsh things to a dik-dik, and we’d still be friends.”
+
+“What about a baby dik-dik?”
+
+“No. Not then. I have to draw the line somewhere.”
+
+They smiled at each other.
+
+Alden said, “Those last few days before everything went wrong…I didn’t mean to be so wrapped up in myself? But I didn’t slow down for a second. Selection and then the funeral and then my moon mission—“
+
+“Right,” Boe interrupted. “Moon mission. You’re going to need to explain that to me very slowly. Because the messages I’ve listened to so far were not clear at all. You just throw phrases like ‘grasshopper demons’ and ‘running until I’m bloody and broken’ into soliloquies about how much you love your private chef’s guacamole. Like those things are equally important. And like I have the full story.”
+
+Alden opened his mouth.
+
+“Not right now,” Boe said hastily. “Let me get my dramatic reveals out of the way before something comes up or I chicken out. Like I said, I regretted it. So let me do it. First, I’m a U-type.”
+
+U-type. Didn’t see that one coming. Wait…
+
+“That’s not why you didn’t tell me, is it? You should know I don’t have anything against U’s just because—”
+
+“I know.”
+
+“Well good,” Alden said. “And U! That’s cool. I was assuming Brute because of averages and the wall punching.”
+
+“It’s not cool.”
+
+“It’s not?”
+
+“…uncomfortable is the kindest adjective I’ve ever applied to it, and that’s just on good days. Imagine the System stuck a Sway and a Mourner in a blender. And the thing that came out didn’t work as well as either of those. So it keeps trying to patch the creature with random shit it finds in its pockets.”
+
+Alden stared at him.
+
+“Sway. And Mourner?”
+
+“And random shit.” Boe was biting his thumbnail and watching him nervously from beneath wet bangs.
+
+Mourner. The emotional transference class.
+
+“Oh…you weren’t saying I looked sad a second ago. You were saying you knew I was.”
+
+Boe nodded.
+
+Alden didn’t know how he felt about that.  Or I do, but it’s not the way I think I should feel so it’s confusing.
+
+“Eat your curry,” he said, finally turning his attention back to his hand washing. He watched the suds flow down the drain. He heard the scrape of the fork in Boe’s hand against the container.
+
+If anyone else had told Alden they were spying on his feelings, he would have been furious. And scared. Even though he put effort into not being one of those people who treated Sways like lepers, he still had to consciously ignore that spike of anxiety when he was around them. Even Instructor Marion this morning in class…Alden really liked the teacher, but there was always a What if? factor you had to leap over before you could act natural around one.
+
+So why…?
+
+“You’re not doing some Swayner thing to calm me down right now, are you?”
+
+Boe grimaced. “Don’t just cram the class names together. Swayner sounds terrible, and I’m not really either one. I’m my own monster.” He paused. “I’m not doing anything to you. But this curry is doing something weird to me. I feel like it’s cuddling me as I eat it? That can’t be right.”
+
+Alden dried his hands on a paper towel while Boe squinted suspiciously at a chunk of carrot.
+
+Where are his glasses?
+
+“I don’t think I care,” Alden said.
+
+Boe looked up.
+
+“Maybe it’s just the wordchain working overtime, but…I don’t think I care very much if you’re reading my mind right now.”
+
+His friend frowned.
+
+Alden shrugged.
+
+“Well, I’m not reading your mind. I don’t hear your thoughts,” said Boe. “But I am feeling what you’re feeling, like your emotions are pressing down on top of my own.”
+
+“Then you know. I don’t really care that you’re doing it. That’s crazy, right?”
+
+Alden bent to pick up Victor before the cat could try—and fail—to jump up onto the counter with the food.
+
+“You’re going to care a lot later. Right now you’re very relieved and happy to see me.” Boe tilted his head. “The positive emotion and the Peace of Mind are cancelling out the anger you should be feeling.”
+
+“Maybe.”
+
+“You are slightly worried, though. If you want to leave, I—”
+
+Alden stared down at the chunky orange feline in his arms. “I’m not worried about you reading my mind—”
+
+“Which I’m not doing.”
+
+“Or my emotions. The thing I’m worried about is, like, whiny little kid stuff. So let’s just pretend I’m not worried at all.”
+
+Very little kid stuff. Lying in bed with your wombat plushie and wondering if maybe your best friend doesn’t think you’re his best friend because he’s been keeping a secret from you.
+
+Is that kind of fear not something you grow out of?
+
+Alden cleared his throat. “Even if I don’t care, you obviously shouldn’t be reading my emotions without permission in the first place. Because it’s rude. And immoral. So stop it.”
+
+“I can’t right now. I was about to tell you, if you go away and come back in seven or so hours, you can have complete emotional privacy.”
+
+“Just stop using your skill. Or whatever you call the talent you use to do it.”
+
+“I’m not using one. My default state is empathic sponge. I use a skill to block your emotions, not access them. And since I’m magically toast at present…don’t squeeze the cat that hard, you doofus. He’ll bite you.”
+
+“Sorry!” Alden set Victor back down. “What do you mean empathic sponge is your default state?”
+
+“Pretty sure you know the definition of all those words.”
+
+Alden narrowed his eyes at him. “That doesn’t make sense. The magic thing you do is your normal? And not doing the magic thing is…you using your powers?”
+
+“Ta-da,” said Boe, waving his hands and wiggling his fingers like a party magician. “I’m real special. In a useless kind of way.”
+
+“What the…are you a born psychic of some kind?”
+
+Like Hazel Velra?
+
+It was literally the only thing Alden could think of that would fit. But on the other hand, it didn’t fit at all. Psychic powers weren’t part of the standard human makeup. He just assumed Hazel’s uniqueness was because she’d been experimentally enhanced by some really unethical scientist. The Velras didn’t seem like the type to go for purely organic kids.
+
+“I guess you could call it psychic? Makes me feel like I should have bangle bracelets and a crystal ball. But it’s not natural. Or at least I wasn’t born this way. The emotion reading came contemporaneously with my affixation.”
+
+“That is a specific and unusual way to put it.”
+
+Boe’s expression was sardonic. “The System likes to keep Uniques quiet. Our affixations are unusual. And we can get…significant help…with them if we don’t broadcast why we got our powers in a different way from everyone else in the first place. I’ve rejected the additional help so far. I think that’s uncommon, judging by how often the System nags me about it. But I’d rather not completely burn that bridge until I’m certain I’m not going to need to cross it one—holy shit, Alden, your emotions are all over the place! What—?”
+
+“I’m good!” Alden said. He accidentally knocked over the soap dispenser and caught it just before it could fall.
+
+“You are not. What’s wrong?”
+
+“Nothing’s wrong.”
+
+Boe reached a hand out toward him. “Something is seriously—”
+
+Alden whipped around and opened a random cabinet.
+
+Oh my god. So clever. Turning my back to hide my face so that my empathic friend won’t know how I feel.
+
+This was going to take some getting used to. He stared at all the bottles of multicolored coffee flavorings, trying not to think so hard about unusual affixations with unusual System involvement.
+
+“Maybe you should eat some of the curry?” Boe suggested in a strained voice.
+
+Alden laughed in spite of himself. “Sorry. I don’t mean to be a freak. That came out of nowhere, huh? Now I guess you know how much of a mess the new me can be. Are you all right?”
+
+“Don’t worry about me right now. Is there a subject I should avoid? I will, but I’m not sure what I said.”
+
+“It wasn’t you. Don’t burn the bridge. I’m not sure what kind of ‘significant help’ Earth is offering you, but maybe it’s something you really will need one day. So don’t burn it. Affixations are…they’re super important. So additional help is good. Hey, I finally became a coffee drinker! I make lattes now. With this absurd magic bean machine. Do you want one?”
+
+You’re babbling, Alden.
+
+Just because Boe had something weird going on with his affixations.
+
+It’s not something like mine was. His tone was too casual. And every U-type has something weird going on. Which you knew anyway. It’s not a huge surprise. They’re Uniques for some reason.
+
+Boe let him change the subject at least.
+
+“I’ll take a decaf mocha.”
+
+“Didn’t you tell me once that decaf was for people with untreated heart conditions?”
+
+“I don’t need to be more alert right now. And you definitely don’t.”
+
+Point taken. Alden reached for the bottle of chocolate syrup.
+
+“So…you really can’t turn off the feelings barometer?”
+
+“I really can’t. And you’re really not leaving the apartment even though I told you so.”
+
+“Boe, it’s my apartment. If I wanted to get away from you, I’d kick you out, not run away myself.”
+
+“Don’t. I’ll get arrested.”
+
+Alden turned back to face him. “Are you going to explain that?”
+
+“I can’t tell you how I got my weird powers. But I can tell you what they all are,” Boe said instead of answering. He took another bite of the food. “If you’re interested.”
+
+“Nooo…I’m not at all interested. Keep them to yourself.”
+
+“Okay.”
+
+Alden set down the chocolate syrup with a bang. “Tell me. Or I’ll think of horrifying stuff on purpose and barf my feelings all over you.”
+
+Boe blinked. “Well, that’s a threat I wasn’t expecting.
+
+“You wouldn’t believe some of the trauma I’ve got in my head now. It’s a weaponizable amount for sure.”
+
+“I don’t know why Jeremy thinks you’re the nice one.”
+
+“He just hasn’t known me long enough yet. Do you want a rosette on your latte?”
+
+“I want to see you try to make one. I feel the emotions of everyone in my vicinity. Unless I use a skill to actively block them.”
+
+“What’s the skill called?”
+
+“The System lets me name them myself.”
+
+Alden accidentally shot chocolate syrup across the counter. “What?!”
+
+“Nobody else has them. They’re custom. So why wouldn’t I get to?”
+
+“That’s so unfair!”
+
+“I can even change them. I just type in a new one. At first, I called the emotion blocking skill Moody Moon Barrier.”
+
+“I love it. So mystical.”
+
+“Bedlam Beldam has one called Kitty Moon Barrier. It was in her honor.”
+
+“Magnificent.”
+
+“Now I call it Skill Number 1.”
+
+Alden glared at him. “I was so happy that you had a dorky pre-schooler name for your superpower, and you go and change it to the blandest thing in the world.”
+
+“Sorry. Skill Number 2—”
+
+“Really?”
+
+“We can’t all be baggage Rabbits. Skill Number 2 is the really nasty one. It lets me magnify peoples’ emotions or force my own onto them.”
+
+Oh. Yeah, that’s a little… “So that’s what you mean by comparing yourself to a Sway. Mourners only take negative emotions away from people, right?”
+
+“That’s right. They have enhanced control over their own emotions, too. But as far as others go, it’s just absorbing the unwanted ones. And there are consequences…” Boe trailed off. “I think the System must mean for them to be assistants to Mind Healers? And maybe it hopes humans will use them like a less-objectionable version of a Sway. But in practice not many of them do that kind of work from what I can tell.”
+
+“You don’t hear about them much, do you? I know they’re incredibly rare, but—”
+
+“I think they mostly sit around doing nothing and making themselves happy.”
+
+“You mean magically happy?” Alden asked.
+
+“It’s a feature. Of their power set. Like a counterbalance to the bad. But why soak up the bad at all? Why not just ignore universal suffering, flip the happy switch on yourself, and bliss out for as long as you can before you overdo it and turn your mind into jelly?”
+
+“You think the Mourners sit around all day high on their own skills?”
+
+Boe shrugged. “The System has been spitting out fewer and fewer of them over the years. If you pay attention to that kind of thing. So whatever it is the Artonans hoped human Mourners would be good for, it must not be working out in practice.”
+
+“Do you have a happy switch?”
+
+Boe raised both eyebrows. “Do you think I have a happy switch?”
+
+A sarcastic and abrasive switch maybe.
+
+“You’ve never struck me as someone who could choose to be perky.”
+
+Boe looked down at the rosette on top of his latte.
+
+“I don’t have a happy switch,” he said after a long pause. “But I can…there are ways to misuse my power that…they make me feel good. Let’s not talk about that. Especially while I’m missing my Moody Moon Barrier.”
+
+“Got it.” Then, Alden smiled. “And did you call it that just to amuse me?”
+
+“I guess when people come back from the dead, I’m a pushover. It’s revolting. Skill Number 3—”
+
+“Damn. How many different powers do you have?”
+
+“Last one. Other than foundational enhancements. I actually gave Skill Number 3 a new name. I typed it in during that heinous memorial service they had for you at school.”
+
+That was right before he ran away.
+
+“It’s called ‘I Need a Break from People,’” said Boe.
+
+“That’s what you wrote on the note you left on Jeremy’s bed after the memorial. When you dropped off the cat and vanished.”
+
+“Yeah. It’s…” Boe was still gazing into his coffee.
+
+“You can skip it if you don’t want to talk about it. I don’t need to know.”
+
+“No. It’s not that. This one isn’t based on violating other people’s emotions. So that’s good. But it’s just that I’ve never described it before. I don’t actually know what it does, so it’s hard.”
+
+“My new principal is a Unique. She can phase through solid objects.”
+
+Boe blinked. “Ghosten?”
+
+“That’s her.”
+
+“Lesedi Saleh is your principal. You did get into superhero school! After only being home for a few weeks? You’ve been…wow, you’ve been really busy.”
+
+“You need to finish listening to my messages. They’re not all guacamole.”
+
+“There were sixty of them. Give me time. My third skill is not as cool as Ghosten’s power. It’s like an escape hatch.”
+
+“It gives you a break from people?”
+
+Boe nodded. “Hence the name. It’s one of those things I mentioned— something the System found in its pocket and tried to patch me up with. That’s my best guess for its intentions anyway. When I trigger the skill, I go somewhere. For a while.”
+
+“Where?” Alden asked.
+
+“I don’t know,” Boe said slowly. “I’m disembodied. But I can still think. I’m me, but without the…complexity…of my physical form weighing on me. It gives me some clarity. I know that sounds like mumbo jumbo—”
+
+“It sounds like a cross-dimensional teleport,” said Alden.
+
+“What? Does it?”
+
+“It does. I’m a fan of them I think.”
+
+“If you say so.”
+
+“They’re really centering.”
+
+“We for sure need to talk about you after I’m done with my turn and my powers are back online.” Boe sipped his drink. “Wherever it is I go when I activate that skill, it’s only me there. And I just have an echo of my emotions…my own emotions. Being there completely dumps all of the feelings from other people that get tangled up with me. So…all right. Yeah. It’s really centering.”
+
+“See. I know things.”
+
+“Uh-huh. To take the escape hatch, I have to do something the System calls ‘attaching my existence’ to another being.”
+
+Alden drummed his fingers on the counter. “Fine. I do not know things anymore. What does that mean?”
+
+“It means I have to target a person or sufficiently intelligent animal before I activate the skill. They’re either carrying me around somehow, or their emotions are acting as a beacon that lights the way back to real life? I’m not sure.”
+
+“That’s…”
+
+Boe grinned. “You’re confused.”
+
+“It’s a very unique talent?”
+
+“Well, you know what the ‘u’ in U-type stands for.”
+
+“But what are you supposed to do with that set of powers?”
+
+Boe set down his mug. “You’re just assuming I’m supposed to do something with them at all. That they have a purpose. At the risk of lighting a spark under that bridge I just talked about—”
+
+“Don’t.”
+
+“The System could flash a warning sign in front of my eyes if it wanted to, right? I think it’s fine to say this much. I don’t believe my talents are intended to be useful to me, Earth, or the Triplanets. I don’t think the Artonans want me to be Boe the Dark Empath Who Occasionally Takes a Time Out in His Own Personal Other Realm. I think I’m…oh there’s the flashing sign. So you are awake. Hi there, shithead. Give me a list of things I can say, then.”
+
+Did he just call the System shithead and demand a list of talking points?
+
+That wasn’t a shock, considering it was Boe. What surprised Alden was the fact that his friend didn’t really sound annoyed at all.
+
+That was chummy cussing, wasn’t it?
+
+Boe’s eyes flicked up and down. “Random.”
+
+“Are you talking to me or to it?”
+
+“I’m only allowed to tell you, ‘I think I’m random,’” Boe clarified. “Any more and the mighty magical overseer will be wroth with me.”
+
+“At least it answers you.”
+
+“It’ll answer anyone if it thinks the answer is likely to save it trouble down the line,” Boe said dismissively.
+
+“Have my messages been going to you through your cell phone? Or the System?”
+
+“Both I assume. Unless the autopay for the phone plan had a hiccup. I just couldn’t access it while I was gone.” Boe looked at him. “You’re still not upset about me knowing what you’re feeling?”
+
+“I’m not.”
+
+“Not that I’m not…relieved. And pretty damn touched. But I think that’s definitely not going to last.”
+
+“My feelings aren’t particularly embarrassing right now, are they?”
+
+“You only have to experience everybody else’s emotions for a few days before you realize that almost nothing we inadvertently feel should be embarrassing,” said Boe.
+
+Alden felt his left eyebrow shoot up. “Are you sure you’re Boe and not his kindly doppelgänger?”
+
+“Don’t misunderstand. People are horrible. They are so, so awful. I hate most of them most of the time. But not because of what they feel. It’s because of what they do with those feelings. Two completely different things.”
+
+“About doing horrible things…what you’re getting around to telling me is that you used Skill Number 3 to attach yourself to my cat, right?”
+
+“I needed a break from people,” said Boe. “It gets hard for me when I’m soaking in everyone else’s madness on top of my own. Eventually, I can’t disentangle anymore. It starts to feel like I’m being overwritten. And after the memorial…why are you heading over to the sofa to bother that poor animal again?”
+
+Alden crouched over Victor. “Are you the reason he’s fat now? Was he tired from carrying you around, and it ruined his metabolism?”
+
+“That’s definitely how magic works.”
+
+“Victor, do you want me to beat up Boe for you?” Alden asked, trying to find evidence of magical interference with his pet. “Did the evil Mournay ask your permission before he used you as some kind of wellness retreat?”
+
+“Mournay is not happening. That’s even worse than Swayner. You make me sound like a French sauce.”
+
+“We can’t use Dark Empath Who Occasionally Takes a Time Out Inside Alden’s Formerly Fit Cat, or whatever it was. It’s just too long.”
+
+“You seriously want to workshop a name for my bonkers unique class?”
+
+“Of course.” Alden smiled at him. “That’s what friends should do when you get uncomfortable random powers.”
+
+Boe slid off the counter stool and came to stand beside him. He looked down at the cat. After a long while, he said, “Alden, you were dead.”
+
+“I’m sorry.”
+
+“I know it was probably worse for you than for me.”
+
+“It was bad. I thought about it sometimes…how terrible it would be for you. And Connie and Jeremy, too.”
+
+“I almost couldn’t take it,” Boe said quietly. “Where were you?”
+
+“Moon Thegund broke. It was full of chaos and tiny demons. There was no way back home. I’m sorry it took me so long.”
+
+Boe sighed. “Me too. I didn’t mean to be gone for months. Time doesn’t move the same for me when I’m hiding in that place. I have a sense of it passing, but it’s not accurate. I stay until I feel like I won’t fly apart. It feels like hours. But usually it’s a few weeks.”
+
+“That sounds dangerous,” Alden said. “Losing track of real time like that.”
+
+“I don’t know if it is or not. I was scared of the same thing—that years would go by without me knowing. And I haven’t really had practice with the skill. So when I used it right after your memorial, I came back too soon. I wasn’t all right yet. That was when I flipped out at Jeremy’s.”
+
+Alden looked at him. “It must have been agony,” he said hesitantly. “Having everyone else’s grief piled on top of your own sounds…”
+
+Boe didn’t answer right away.
+
+Finally, he nudged Alden with an elbow. “You should feel guiltier. Give me some good guilt.”
+
+“I said I was sorry—”
+
+“Not for going missing. For making me an illegal immigrant. I was expecting to reappear in Jeremy’s suburban mansion. There was a reason I attached myself to your cat. Instead I popped up butt naked in a strange apartment. I thought he’d given away Victor. I thought some homeowner was going to bust in and shoot me.”
+
+Alden gaped at him. “Your clothes don’t go with you?”
+
+“My glasses don’t even go with me. They’re buried in a plastic bag under a bush below Jeremy’s bedroom window. You’re just a friend-shaped blur right now.”
+
+Alden laughed.
+
+“Jerk.”
+
+“I’m sorry; it shouldn’t be so funny—
+
+“I was panicking. I was running around the room, trying to figure out where I was and get clothes on myself so I could escape, and then I see the ocean out the window and the sketches of Apex and F-city on the wall. And I think…this place looks like pictures I’ve seen of the intake dorms on Anesidora. And I’m confused and very concerned because the only thing worse than breaking and entering in some trigger happy person’s house is breaking and entering on an island full of people with superpowers!”
+
+Alden laughed harder.
+
+“And then I see a call notice flashing on my interface, and I click it without checking, expecting it to be Jeremy because the only other person in the world who gives a shit about me is dead, and maybe Jeremy can tell me what the hell is going on. But then…it’s you. Leaving a voicemail. About how you're making a personal list of which Velras you hate the least. I thought…I sincerely thought I’d lost my grip on reality.”
+
+“Boe…”
+
+“I thought I should have done it ages ago, if all it took to hear from my best friend again was losing my mind.”
+
+Alden tried to control his emotions. He couldn’t.
+
+He took a few steps back from Boe, who was staring at him with an expression so raw that Alden didn’t know what to do with it.
+
+“Sorry. Shit, I…” Alden said apologetically. “I know you need me to be less…but I can’t just be chill after you say something like that.”
+
+“Fair enough,” Boe said, still staring at him. “That was my bad.”
+
+“Peace of Mind isn’t a super strong wordchain, man. It can’t take this much of a beating.”
+
+“I’m the one who completely exhausted my barrier skill before taking my time out. I know it doesn’t recover much when I’m away. So that’s my bad, too.”
+
+“Am I…my feelings are intense and all over the place again. That’s tough on you, right? It bothers you. Should I go?”
+
+“…you should probably go.” Boe smiled wryly. “Unless you want me to go. And try to explain to the superpolice how I got to Point Nemo all by myself.”
+
+“I’m supposed to be meeting my personal trainer at the gym this afternoon.” Alden backed toward the door. “I’ll do that. I’ll come back tonight. You said a few hours. Some? I forgot the number.”
+
+“Six or seven should do. You have a trainer?”
+
+“I have a trainer. And I’m in hero school. Today was my first day. And I’ve got a commendation from a really important Artonan. And I have twelve million dollars.”
+
+Boe opened his mouth at that, but he didn’t say anything.
+
+“Yeah. There’s a lot,” said Alden. “We’ll cover it when you’re not being forced to ride my every emotional nuance with me. I’m going now. Help yourself to my food. And clothes. And whatever…I have an expensive laptop. Enjoy. Call Jeremy. Don’t feed the cat. He’s a liar.”
+
+Alden’s hand was hovering over the door panel, but he didn’t touch it. “Boe…you’re not going to disappear again, are you? You’ll be here when I get back?”
+
+“I’m glad you asked first. I didn’t want to be the one to sound all needy.” Boe sat on the sofa, threw his legs up onto the low coffee table, and crossed his arms over his chest. “I’ll be here. No disappearances. You’re coming back, aren’t you?”
+
+“Yep. Just going to the gym. No trips to other worlds for months. I promise.”
+
+“Good.”
+
+“Good. And send me your glasses prescription. I’ll have some new ones drone delivered.”
+
+“Showing off your new money swag?”
+
+“Do you enjoy squinting at everything?”
+
+A text message with the prescription appeared on his interface. Boe hadn’t even twitched.
+
+“I can mental text as well,” said Alden. “You’re not that impressive.”
+
+“Takes a ton of practice, doesn’t it?”
+
+“I figured it out really fast and all by myself. I’m amazing like that.”
+
+“Your emotions shift when you lie. Shitty B-rank.”
+
+Alden suddenly realized… “What is your rank?”
+
+“A.”
+
+“That’s only one above me.”
+
+“But it is above you.”
+
+“I have 20/10 vision,” Alden said. “So we’re even.”
+
+Boe sighed. “Alden, go away for six hours until my skill’s recovered. I really will be here when you get back.”
+
+“Ah. Sorry. I was stalling a little. Bye.”
+
+“Bye,” said Boe. Then, just before the door shut, he added quietly, “Love you, too.”

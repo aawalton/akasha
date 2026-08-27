@@ -1,0 +1,207 @@
+---
+id: cff0ae11-e6ce-50ed-8dbb-274f78dc8cbf
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-FIVE: What do you know about chaos?"
+slug: 0187-one-hundred-eighty-five-what-do-you-know-about-chaos
+partOf: super-supportive
+position: 187
+ownLength: 3421
+unit: words
+publishedAt: 2024-11-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1922829/one-hundred-eighty-five-what-do-you-know-about"
+royalRoadId: "1922829"
+---
+
+185
+
+******
+
+“Yes,” said Yenu-pezth, after a few moments of consideration. “This is a good plan.”
+
+She was speaking to them from Alden’s tablet, which was propped on the floor table in the cottage. Alden had just carefully explained his ideal nightmare replacement to her. He resisted saying, “Told you so!” to Stuart, who had suggested they make this call because he wasn’t sure Yenu-pezth would approve of the plan.
+
+Something, something…a realistic survival dream complete with demon fighting doesn’t sound like any treatment I’ve ever had, Alden.
+
+“Preparing thoroughly for this and thinking in this way may bring you as much help as the dream itself,” Yenu-pezth added. “And I have some thoughts on how to make it more effective. Try to identify four possible <<scenarios>> of unexpected trouble that you might encounter in this dream and solve with your current strengths. Let’s meet six nights from now. If you’re not ready to adjust the dream at that time, we can speak of other matters. Do you agree with this?”
+
+“I do, Healer Yenu,” said Alden. “I’ll be ready with the scenarios for the dream by then.”
+
+“When you feel sure of them, then you will be ready,” Yenu-pezth said crisply. “I will not argue with your surety, nor will I rush it. You may call me again at this hour when you have questions.”
+
+They both thanked her, and Alden ended the call.
+
+“So now will you help me figure out how to kill the big Thegund demon?”
+
+“If it would bring you comfort to know how to defend yourself, I would help you learn anyway,” said Stuart, rubbing his ryeh-b’t’s back near the base of her tail with one hand while he spoke. “Of course. I was only worried because adding danger and hardship to your dream sounded very different than what I imagined you would be doing. You don’t have to kill the demon to be safe from it, though. Escaping, hiding, and <<repelling>> may all be better options.”
+
+Alden adjusted his seat on the floor cushion to get more comfortable. “You think it doesn’t need killing?”
+
+Stuart moved his hands in a shrug, and the ryeh-b’t snapped at his sleeve to protest the end of her massage session. “I think it depends on the nature of the demon. And if getting away from the area of danger is your main objective, completely destroying it may not be necessary. We’ll know more after we have selected some characteristics for it.”
+
+He interpreted Alden’s slightly blank look correctly and added, “It’s unlikely someone saw the specific demon that was active near the laboratory and recorded its behavior. If you didn’t see it either, we’ll have to <<make educated guesses>> about what it was and what it could have done.”
+
+Alden remembered asking Kibby if she had any idea what it was or what it could do and getting a lot of “I don’t know” in reply.
+
+“That’s right,” he muttered. “Other things on Thegund that changed wouldn’t be as predictable as the bugs.”
+
+“Those are unusual,” Stuart agreed. “They almost all become demons. Very odd. And most of them have similar behaviors once they do, but not every one of them. Master Ro-den is quite obsessed with figuring out why they are the way they are. Even though he’s less famous for that than he is for…”
+
+He seemed to have been warming to the topic only to trail off suddenly. “What do you know about chaos?” he asked.
+
+“Not as much as I’d like to. But I don’t want you to be in trouble for telling me something you shouldn’t.”
+
+Stuart took a while to reply, and when he did, there was regret in his voice. “I do not understand the reasoning for why some matters are being kept discreet from humans. I haven’t even identified all of the topics that are. In a few years, if I were a traditional student who hoped to have summoning rights for your species after graduation, I would study the subject at LeafSong so that I could properly manage the transfer of knowledge without risking the destabilization of your planet’s Contract.”
+
+“If telling me things destabilizes our Contract, I don’t want to know them,” Alden said at once. “How does telling secrets harm a Contract, though? If that’s not a secret, too.”
+
+Stuart tilted his head. “Did you not learn about the <<establishment>> of the Earth Contract in school when you were younger? Is that something humans don’t teach you until you’re adult…no, that can’t be correct. It should be explained prior to your selection as an Avowed.”
+
+“Of course I learned about it. Artonans and Avowed traveling the world, speaking to all governments and peoples, showing them magic, and giving them things in exchange for their agreement—all of that. We even have a Contract Day celebration. But I still don’t understand how you telling me certain specific facts could damage the Contract.”
+
+“So you do understand that the Contract between Earth and the Triplanets is perpetually being <<reaffirmed>> by both our peoples? And shall be for as long as it exists?”
+
+Alden thought about it. “I know that. I didn’t quite connect it to…that’s not the only thing making it work, is it? Didn’t the wizards back then enchant the planet itself and the universe and…. More has to be involved than people agreeing that they accept the Contract every time they receive healing treatments or other Contract benefits, doesn’t it?”
+
+“‘More’ is involved,” Stuart said, “but if the most important part of it was the enchantment of your planet, we’d call it the Enchantment. We call it the Contract because it’s a contract. Humans and Artonans have much in common, including concepts of some obligation to <<ancestral promise>>, but an ancestral promise isn’t enough to provide Contract stability if the people currently living under the Contract reject its terms.”
+
+A terrible foreboding knotted Alden’s stomach. “The Earth Contract goes away if enough humans stop liking it?”
+
+“You don’t have to like something to agree to it,” Stuart pointed out. “But it would be a problem if a large percentage of your species refused to agree to it. The Earth Contract probably wouldn’t go away. At first. The terms are such that the accumulated history of human acceptance and the Artonan desire for the Contract’s continuation should <<outweigh>> the rejection of a generation of humans. But friction between our peoples would delay your Contract’s growth and weaken its response to <<stresses>>, which would necessitate more assistance on our part, which would increase the likelihood of future friction.”
+
+He made a gesture with both hands like he was breaking a twig.
+
+“At this point, it is best for the Triplanets’ relationship with Earth to be made as strong as possible, thus some truths become matters of proper discretion. The wide release of that kind of information is supposed to be managed in whatever way works best for humans.”
+
+“You mean in whatever way makes us the happiest?”
+
+Stuart pet his ryeh-b’t some more and slowly purpled.
+
+Alden wondered if he was thinking about lying, but he just swallowed, met Alden’s eyes, and said, “I mean in whatever way makes your species, as a whole, least likely to resist the continuation of the Contract. The factors taken into consideration are unique to every resource world, so the management of each one is slightly different. Pragmatism is balanced by our morals and our abilities. But encouraging other species to follow our lead and be satisfied with our dominant position isn’t always the same as ensuring their maximum happiness. I’m not naive to that, so I don’t think I should avoid admitting it to you.”
+
+He looked like someone who thought he’d just plunged into dangerous waters.
+
+“You’re worrying too much,” Alden said dryly. “I’ve never thought that the Triplanetary Government’s goal was maximum human happiness. I’m sorry if that question made it sound like I did. I don’t even think humanity’s goal has ever been maximum human happiness on a global level.”
+
+Stuart inhaled. “I see…and you have already told me that your feelings about being an Avowed are complicated, so…I suppose I don’t need to mention that the various ways wizards call upon Avowed are not always for the greater…”
+
+He was obviously struggling with what to say, but since Alden didn’t know where Stuart was ultimately going with this he didn’t know how to help.
+
+I was right. The power dynamic is always going to be a gnarly problem to work around.
+
+Embarrassing for Stuart to run into, rankling for Alden.
+
+Finally, after fumbling a bit more, Stuart said, “I will move the conversation down its path!” a little too forcefully. “You are only asking about one demon on Thegund, so telling you everything about chaos today is unnecessary, isn’t it? And we will have many more conversations about such matters in the future I am sure.”
+
+So that’s what he was hoping to tell me, Alden thought. Just…literally everything about chaos. Apparently that’s not proper discretion by even his loose, undertrained standards. Maybe he couldn’t work it out with his knightly oaths.
+
+Stuart was looking at Alden hard again, and Alden honestly couldn’t tell what that face meant. He decided to assume it was some version of, “Please don’t be mad at me.”
+
+“If I can kill the demon—or run from it or hide from it—that’s all I care about,” he said. “For now.”
+
+Stuart’s unreadable expression shifted to recognizable relief. “Yes! Good! Can we start by assuming it might have been a bokabv that was turned by the chaos? There are a few small herds there, and I did hear one of Aunt Alis’s spouses saying something about how Kraaaa snuck off to eat a demon that was probably a bokabv.”
+
+“Yuck….he ate one?!”
+
+“That’s what I heard.”
+
+“How do you put a demon in your mouth?”
+
+“It died almost as soon as he got his tongue around it, and he was mad about it.” Stuart looked like he was talking about the weather suddenly. “He should probably have used his skills on it instead, but you can’t really be annoyed with grivecks for taking unnecessary risks, can you? Now, normal bokabvs are herdcreatures with shy personalities and excellent senses of smell. I think a bokabv that became a demon rather than dying in the corrupted environment would be slightly more likely to be the herdmother instead of a regular…”
+
+Alden listened. As soon as he started taking notes on his tablet, Stuart’s instructor mode was completely activated, and before long, Alden knew all kinds of things that probably weren’t that relevant about a herdcreature on an alien moon he hoped to visit again only in his dreams.
+
+And despite Stuart’s decision not to provide whatever the full story on chaos was, Alden did learn more about how it made demons.
+
+Chaos destroyed the way of things, but it was also affected by the way of things.
+
+He was sure the comparison would be deemed not quite right by his teacher if he said it aloud, since the last six comparisons he’d tried to make had made Stuart turn up his nose, but he was currently imagining chaos as a substance that, in corrupted areas, could flow through the universe’s veins like a potion of randomness. Mostly, the potion of randomness ruined the veins, but it was still directed by them for however long they lasted. Artonans were really, really interested in figuring out how to predict what chaos would do when it was around; and according to Stuart, they were a really, really long way from the kind of success they needed.
+
+But they did know that sometimes a spot in the universe, usually a spot that defined a living thing, was a little too interactive with the chaos. Instead of bursting right away, the veins that made up those beings could flex and stretch and branch before they broke, accommodating the assault well enough to maintain a presence that resembled the original one to varying degrees while providing chaos with a foothold in reality.
+
+“Most demons are <<incidental>> spreaders of chaos,” said Stuart. “But some create it purposefully.”
+
+“It can be created?”
+
+Stuart paused to consider the question.
+
+“That’s a matter of study. Some perverse ones have said they are truly creating chaos, but others have referred to it as summoning. It’s likely they don’t actually know themselves. I should have said they purposefully cause more of it to be present near them. And I’m not sure I’m supposed to be telling you this much.” He swallowed. “Possibly telling you of my parents and my early childhood—the nature of that demon—was also a lack of proper discretion, but I wasn’t thinking of it that way. I just wanted you to know about me.”
+
+“I’m not going to tell anyone, Stuart. That’s your story.”
+
+Stuart smiled.
+
+“You can still tattoo me to secrecy. And then you won’t even have to worry about it,” Alden added.
+
+“My friend should not have to swear Privacy of the House! My family was completely wrong to suggest—”
+
+We’re not going to let that one go ever, are we?
+
+They eventually went back to discussing what a demon bokabv might be like and designing one for Alden to defeat. Stuart kept trying to make it safer for him to encounter; Alden kept trying to make it more terrifying so that when he got away from it or got rid of it he’d feel really great about it. He’d missed Intro to Other Worlds earlier without caring in the slightest, and when Stuart eventually had to leave the cottage to go see to his duties as Emban-art’h’s votary, Alden was still going strong.
+
+While the Artonan was gone, he looked through all the notes he’d collected and all the to-do lists.
+
+So close, he thought. Somehow, I didn’t realize I was so close.
+
+It wasn’t that it was looking easy. As his excitement fell to a reasonable level, he was becoming more aware that his assurance to Yenu-pezth that he’d be completely done preparing for this in only six Artonan days was probably too ambitious. Especially if she wanted him to come up with multiple scenarios. The idea was to escape from the corruption zone while the disaster was still in the early stages, when demon grasshopper strikes posed serious risks to Alden, the car, and Kibby. The lab and the surrounding crater had largely shielded them from those during the early days, and the only reason they hadn’t had to run through a storm of freshly demonified bugs at the end of their journey last time was Alis-art’h having smashed the things out of existence.
+
+So that was going to be dicey.
+
+But in the dream, they would get ahead of the spread and stay ahead of it, traveling all the way to civilization with only the resources they could carry or obtain along the way. The distance they had to travel would be much farther because there would be no Quaternary there to greet them. One of the scenarios would probably involve the car being damaged beyond repair inconveniently early in the trip.
+
+There would still be ways to die, but Alden could now do much more to prevent them.
+
+His skill was stronger. He thought he would be able to hold Kibby through all the demon bug strikes. He would definitely be able to hold her while he drove the car. He might be able to lift or leverage the vehicle through bad terrain when the mover discs failed. When their ride became irreparable, he could carry enough supplies to keep them going on foot for ages.
+
+Got to get that sprinkler info and make sure they’ll work wherever we need them to. Have to find out how the car drives on that rocky area if we can get it all the way there. I should also…
+
+He kept coming up with problems. He kept feeling less fazed by them than he should have.
+
+Because he wasn’t years away from being able to save them both from the pain of sitting through that chaos for all those months. The chances wouldn’t be thin as threads if Thegund happened again. The survival wouldn’t be miraculous.
+
+It would be something he could actually count on and make possible with his own preparation and power. This time, when he told Kibby he had so many plans to save them, the words wouldn’t be a loving lie.
+
+He let himself flop back onto the floor of the cottage. It was cool against his back.
+
+I can’t have Yenu-pezth account for the auriad in the dream.
+
+That was a regret. But since the goal was for him, as he was now, to face the problems in the nightmare…maybe the auriad would just appear in it naturally one night while he was dreaming?
+
+I’ll plan like I won’t have it. Think of it as additional therapy—peacemaking with my affixation by relying on my Avowed powers alone.
+
+After a while, he realized he’d let the auriad slip down his arm so that he could hold it in his hand.
+
+But could I stop the demon with this? If I had to do it to get us out of there?
+
+Along the way, he’d find that out, too. Somehow. Just for himself.
+
+Stuart had agreed to cast some spells at him to mimic the effects of their made-up demon. If he didn’t have time tonight, he promised he’d do it later when they could both meet up again.
+
+He seems pleased to have an activity planned with me, but it’s still mostly about me. And he’s so busy. I’ve got to find something that he’ll benefit from, too. Maybe I should ask him more about how he’ll kill demons with Maker of Narrow Ways while we practice? He was so thrilled to talk about that last time.
+
+Alden wondered what he’d been about to say about Ro-den earlier. Something about his chaos research that would probably have gone right over Alden’s head anyway, from the sound of it.
+
+He grimaced. The only good thing about thinking of Ro-den was that it was a direct line to thoughts about a much more important person who would probably want to weigh in on what Alden was doing.
+
+I think she’ll like this.
+
+He stood, picked up his tablet, and went over to his suitcase to video himself beside Other Alden, who was sleeping on top of it with her neck tucked through a strap.
+
+“Hi, Kibby,” he said. The new mourning name wasn’t official yet, but he’d need to talk to Stuart or Esh-erdi about that one very soon. “I’m recording this message to tell you about a nightmare I’ve been having. A good healer is talking to me about it, but I’d like your advice, too, since a dream version of you might be helping me get out of trouble. If you don’t mind.”
+
+He managed to record the whole message before Stuart made it back. The look on the Artonan boy’s face was so devastated that Alden was worried he’d gotten some horrible news up at the main house. Despite Stuart’s willingness to explode things near Emban-art’h, he did seem very watchful of her moods. Alden had wondered so many times if there were signs that Emban-art’h was doing well for a young knight, if there had been signs that Sina-art’h wasn’t…
+
+How and when did you bring up a question like that?
+
+“Is everything all right?” he asked while Stuart slumped onto the floor.
+
+“She asked me if I had more bananas,” he replied. “I said I had plenty, but I really only had one left. And I gave it to her.”
+
+“That’s what’s wrong? I’ll bring you more.”
+
+“I’m not complaining so that you’ll—”
+
+“I’ll bring you more. It’s so easy.”
+
+Stuart didn’t protest again. “She also wants to go on a trip with a couple of members of her squad. I don’t know exactly when yet because the two she’s going with are disorganized. So whatever practice we schedule for helping you <<devise>> approaches to handling the demon may be interrupted by them. It would be good for them all to spend time together right now, and they actually will need a votary with them for the trip so that they can meet social obligations.”
+
+“I’ll bring extra bananas, and I’ll disappear back to Earth if they need you,” said Alden. “No trouble at all.”******

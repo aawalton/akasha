@@ -1,0 +1,143 @@
+---
+id: 9d6d9370-a5ce-5c1d-805b-45c53a597a69
+page-type-slug: story-chapter-royal-road
+title: "Chapter 601: Contributors and Sereph"
+slug: 0021-chapter-601-contributors-and-sereph
+partOf: system-change-system-universe
+position: 21
+ownLength: 2008
+unit: words
+ownProgress: 2008
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2753273/chapter-601-contributors-and-sereph"
+royalRoadId: "2753273"
+markedReadAt: "2026-06-29T19:57:25.226Z"
+---
+
+Chapter 601: Contributors and Sereph
+
+“Is everyone getting these notifications?” Derek asked. He wanted to make sure that he wasn’t the only one because they were coming from the Origin System, after all.
+
+“I am,” Marrick said.
+
+“Me too,” Jace and Ashley said at the same time, and Ryven nodded.
+
+Finally, the last remaining magical barrier in the distance disappeared, and the next notification came.
+
+…
+
+You have been selected as a contributor in the invasion.
+
+Teleporting in 3… 2… 1…
+
+…
+
+“Wait!” Derek shouted, but the system didn’t listen. Instead, in a flash of light, he disappeared.
+
+When the bright light disappeared, Derek looked around at his surroundings. As he did, a small pressure landed on his shoulder, and he was happy to note that Silvi had been teleported, too. Slowly, people appeared, one by one—some he recognized, and some he didn’t. But all of them seemed to be as confused about where they were as he was.
+
+They were in a completely flat space. Everywhere was the same for as far as his eyes could see. There was nothing but a smooth white ground, and in a single direction was what could be considered a dais—a very small platform that was raised no more than a foot higher than the rest of the ground.
+
+A few minutes passed, and people finally stopped appearing.
+
+“Now this is something,” Braxton’s voice came from behind.
+
+Before he could turn around, Derek felt a massive slap on the center of his back from the dwarf. “It certainly is interesting,” Derek replied.
+
+“You just had to go and take all the fun for yourself, didn’t ya?” Braxton said, then flicked his wrist. The next moment, the dwarf assassin’s eyes widened in shock, and he flicked his wrist again. “My storage ring isn’t working!” The man was in a panic. After all, he couldn’t summon any more brew if his spatial ring stopped working.
+
+Derek tried to do the same, but wasn’t able to. He wasn’t as shocked as Braxton was, as there was nothing in his storage that he needed at the moment. He quickly tried to activate Void Storage, and when he felt that he could, he nodded. It seemed that not even the Origin System could, or at least would, try to stop his void skills.
+
+“Derek!” A voice sounded from a distance, then he saw Edgar running toward him and Braxton. Some other people had started to gather close by, too. When Edgar made it to him, the man stopped running and said, “Holy shit! You—that was some fight. You really made all those invaders look foolish.”
+
+“You saw?” Derek asked.
+
+“I did!” Edgar said. “There was a room full of all the defeated. It was kind of like this, but a lot smaller and with places to sit. Every time a Champion or Guardian was in a fight, the systems showed us. It was actually quite fun, and I got to meet some really cool people.”
+
+“That does sound interesting,” Derek said as he watched Jace slowly walk to their little congregation.
+
+“Oh, and The Queen would like to marry you,” Edgar said, which caused Derek to choke.
+
+“What?”
+
+“It’s okay,” Edgar said. “I took care of it. I told her you were available and had a thing for beautiful elves. The ceremony is in two weeks. No need to thank me.”
+
+“You… what?!” Derek stared at his friend with wide eyes.
+
+“I’m just kidding,” Edgar said. “Well, about the second part. She really did ask about you, though. And when I told her you weren’t interested, she asked me. She seems to want to form a better relationship with humans and all that stuff—at least, after seeing you fight.”
+
+“Oh…” Derek rubbed the sweat that was forming on his brow off and sighed. “Don’t do that to me. I’ve had enough proposals from elves to last a lifetime.”
+
+“You’ve had one,” Edgar said.
+
+“Two now,” Derek replied.
+
+“Well… sure…” Edgar relented. “Now, do any of you know what’s going on?” he asked as his eyes fell on Jace. “And you, where the hell did you come from? And how did you get so strong? You know what? Never mind. We watched your fighting, so I know how everything works, but still…” He turned back to Derek. “You didn’t tell me that you had a friend like this.”
+
+“To be fair,” Derek said, “I didn’t know he was like this until we met at David’s place. It was a happy coincidence.”
+
+“This is going to be some kind of awards show, isn’t it?” Jace finally spoke, saying what Derek was thinking and answering Edgar’s first question.
+
+Derek looked at all the people who were around, then nodded. There weren’t a ton of people, but it looked like everyone who made somewhat of a real contribution was present. He even saw the eerie mask of Nyx standing beside Osian.
+
+“It certainly looks that way,” Derek replied.
+
+Just then, a tall, beautiful male elf in a brownish-gray robe stepped onto the slightly elevated platform. The robes that the man was wearing looked similar to the ones Derek always saw Dave in, but the elf before them certainly wasn’t Dave. He was, however, either extremely strong or extremely weak. Derek could feel nothing from him—just like with Dave.
+
+When the man reached center stage, he stopped and turned to the crowd. His face was expressionless, and he didn’t look like he wanted to be there. Still, when the noise from the crowd died down, he spoke.
+
+“My name is Sereph,” the man began. “As a representative of the Davenresh System—the winner of this invasion—I have been selected to present the results to all of you.”
+
+Derek was surprised that it wasn’t Dave in the position before them, but he didn’t say anything and just listened.
+
+Sereph waved his hand, and multiple people disappeared, then reappeared to the side in a group. “When moved, please remain there,” the elf said. “Once all the results are presented, you will receive prompts for your rewards.”
+
+Derek looked at the group. He didn’t know most of the people in it, but he did see a couple of the men who were with Ashley taking out scouts around the Stronghold. Also, it wasn’t just those from the Davenresh System—there were certainly invaders among them, too. Derek definitely recognized one of the invaders who had peppered him with arrows during his fight. So, basically anyone who attacked a Champion or Guardian, or took out an invader or something… oh, there’s The Queen’s guard I spoke to about Amelia, too.
+
+“This first group is formed of the minor contributors to the invasion,” Sereph said. “For your reward, you will be given three options. Choose the option you think is best. Just know that some of the rewards that don’t seem great may be the best option in the long run. That is the only hint I am able to give.”
+
+A bit later, the elf waved his hand again. This time, a much smaller group of people disappeared and reappeared together. This group included Nyx, Mara, Natalie, and a number of others.
+
+“Next, we have those who made moderate contributions. This includes those who played a part in defending or attacking a Stronghold and did well. It also includes those who prepared said Strongholds for attack and did not lose,” he explained.
+
+Derek could understand what he was saying. Natalie hadn’t done any of the fighting, but she was in charge of Savannah when it was selected, and she had gathered her own troops and mercenaries just in case. Still, since Avery and Braxton were there, the soldiers she gathered didn’t end up doing anything.
+
+Also, Derek had heard about Nyx and the little trap they used, so he could see why he and Mara were part of the group. There also appeared to be a couple of invaders among them, and Derek couldn’t help but wonder what they had done for their contribution. He also noticed that no Champions or Guardians had been moved yet.
+
+“What I said before goes for you too,” Sereph said. “The only difference is that you will have an extra option to choose from. Your options are also somewhat tailored for you, so no discussing them with others until after you choose. Theirs will most likely not be the same.”
+
+“Now, finally,” Sereph waved his hand again, and the few remaining—other than the Chosen—disappeared.
+
+This group was the smallest. It actually wasn’t even a group. It was Ryven and Ashley. That was it. There were no invaders either.
+
+“Congratulations to the two of you,” Sereph said in the same monotone voice. “The third-party system in charge has decided that the two of you are major contributors. As you can see, there are no invaders from the Universal System V3 beside you. It is decided that there can be no major contributors from the losing side.”
+
+Ryven and Ashley looked at each other in confusion. Finally, Ashley looked back at Sereph and said, “Sir… Sereph, if I may?”
+
+“Go ahead.” The elf motioned for her to continue.
+
+“I am honored to be considered a major contributor. However, I do not know what I have done to deserve such a status,” Ashley said.
+
+“One moment,” Sereph said, then tapped on his wrist a few times before continuing, “Ashley Brandt… You defeated a number of invaders and commanded a team to patrol and take out any scouts that closed in. You also played a part in spreading misinformation to the invaders. Finally, though not through combat, you played a role in the decisive battle at the end of the invasion.”
+
+He then looked at Ryven, who was also confused. “And you, Ryven Elras,” Sereph said. “You were lucky.”
+
+“What?” Ryven blurted without thinking.
+
+“You were lucky, that’s it,” Sereph said. “You had some minor roles in the defense of a Stronghold. At least enough to place you right at the edge of minor and moderate contributor. But you were also selected to be part of the final battle, where you cut communication between those inside the Stronghold and those on the outside. Looking over the report… I do not believe you deserve more than moderate contributions, but the system sees otherwise, and it is not something I will question. You also helped post-invasion to quell any unrest in Virendell between the citizens and invaders.
+
+“As the invasion did not rage as long as usual, there were nowhere near as many contributors as normal, so it seems the third-party system governing the invasion is being… flexible in its rewards,” Sereph explained. “Though, if the two of you feel that you do not deserve such rewards, I do have the authorization to bump you down to moderate contributors.”
+
+“No, sir!” Ashley and Ryven half-shouted and bowed at the same time. Then Ashley said, “Sir Sereph, that will not be necessary. We are honored to receive such rewards.”
+
+“Good,” Sereph said. “The two of you may select two rewards from your options. Please select carefully.”
+
+“Yes!”
+
+Finally, Sereph looked back out at everyone else who had yet to be moved. When Derek looked around, he realized that everyone left was either a Chosen… or Jace. Are the Champions going to get good rewards just for being Champions? I don’t think that’s fair, Derek thought. They really didn’t do anything much to deserve it.
+
+“Now, that leaves us with the Champions and the Guardians,” Sereph said. Then his gaze fell on Jace, and he continued, “And… an outlier with a very interesting report.”
+
+The elf spread his hands apart, and everyone was covered in a veil of light. When Derek blinked, he found himself off to the side, standing alone. Then there was a group with Braxton, Marrick, David, and all the other remaining Guardians. Across from them stood all the remaining Champions. In the center of everyone—also standing all alone—was Jace.
+
+“Let’s get to it,” Sereph said. “We’re going to start with the Universal System V3’s Champions.”

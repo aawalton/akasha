@@ -1,0 +1,611 @@
+---
+id: 55d988b7-d01d-5902-b9c1-5df90a736f30
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRE THIRTY-TWO: Ripples, III"
+slug: 0133-one-hundre-thirty-two-ripples-iii
+partOf: super-supportive
+position: 133
+ownLength: 6939
+unit: words
+publishedAt: 2024-04-08
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1586244/one-hundre-thirty-two-ripples-iii"
+royalRoadId: "1586244"
+---
+
+132******
+
+Within moments, everyone on the bus was talking.
+
+“System, call my mom!”
+
+“Does this say tsunami?”
+
+“What in Apex is an oceanic anomaly?”
+
+“Wardrobe.”
+
+“The possible tsunami is the anomaly!”
+
+“Then why is it listed separately?”
+
+“Text my sister.”
+
+“Emergency teleport!”
+
+“Access wardrobe.”
+
+“Like the giant waves? Do we even have those here?”
+
+“I thought there wasn’t any chaos on Earth!”
+
+“What’s happening at Matadero? What kind of attack?”
+
+“Wardrobe.”
+
+“Uh…System? I asked you to call my mom.”
+
+“I SAID LISTEN UP!” Torsten Klein bellowed from where he stood by the driver’s seat. At his back, the wipers were rhythmically stripping the raindrops from the bus’s windshield, and the head and taillights of the traffic on the bridge shone bright.
+
+Silence fell. Alden, still on his feet, was gripping his leather cuff bracelet, pressing the auriad hidden below it hard into his wrist. He stared at the Rabbit’s Wardrobe, willing the window to look like it was supposed to.
+
+It didn’t seem to be glitching, exactly. The tabs were there, including the special ones she had added. But there was nothing available for purchase. The shop was closed.
+
+It’s different from back then. When I asked for the Wardrobe on the day the Thegund System broke and the request failed, it didn’t look like this.
+
+It’s just not letting me make purchases. Everything else is normal.
+
+Anxiety bubbled inside him anyway.
+
+Your interface missing a function doesn’t mean anything is falling apart. You’re on Earth. Go ahead and do Peace of Mind, so you can—
+
+“We’ll reach Apex in a few minutes. Stay. Calm,” Instructor Klein commanded. “Don’t panic about your calls not going through. Mine aren’t either. The System is obviously busy right now. I’m sure we can expect more information soon.”
+
+Alden heard the words. He understood them. He even believed them. Mostly. But they did nothing to stop his mouth from going dry or his chest from tightening.
+
+He wanted to climb out the window and run away. He wanted to crawl under one of the seats and hide. He wanted to be summoned, immediately, to anywhere where his connection to the System looked completely, one hundred percent normal.
+
+It’s fine. Klein’s here. This is a bus full of high ranks. There are worse places to be. Calm down.
+
+A hand shot up near the front of the bus.
+
+“Not right now, Jupiter. Let me finish talking.” Klein’s demeanor was composed. “During an emergency, keep your wits about you. Don’t throw your powers at problems unless you need to in order to keep yourself or someone else safe. Pay attention to instructions from the authorities, from the System, and in the absence of instructions from those two sources, pay attention to me.”
+
+His gaze landed on each of them in turn, calm and piercing at once.
+
+“I don’t know any more about what’s going on than you all do. I’m sure information will be coming to our interfaces shortly. If I learn something else, I’ll let you know. For now, I expect you all to behave like this is a serious matter and you are serious young men and women.”
+
+“No more translation,” a voice said quietly.
+
+It was Ignacio, looking unnecessarily embarrassed about admitting he didn’t understand all of what Klein was saying. Spanish was his first language, and if Alden remembered right, he spoke Hindi as well.
+
+“Even translation is broken now?” Mehdi said. “That seems bad.”
+
+“It’s not broken,” Alden said forcefully. “The System is just busy. It’s not going to break.”
+
+Mehdi turned to him with arched brows.
+
+“Will someone buddy-up with Ignacio and translate for him?” Klein asked.
+
+“I’ll do it!” said Jupiter, springing out of her seat. “But, Instructor, shouldn’t we turn around?”
+
+Before Klein could answer, she went on: “We’re almost at the halfway marker, but it’s a slightly shorter distance back to F-city. And they have more safe harbor locations, don’t they? Isn’t there a building near that end of the bridge that’s supposed to be an emergency shelter?”
+
+“Yes!” said Mehdi, rising to his feet. “My family lives near there. My mother’s always complaining about how ugly it is. Like a windowless fortress. We should go!”
+
+There were murmurs of agreement from a few people.
+
+Klein shook his head. “We’re already northbound. We have shelters in Apex, too, if we need to get to one. You also have to think about the responsibility of being…well, there are other reasons for heading in this direction. The main one is that the System indicated we should head to high ground quickly, and U-turning a bus on The Span will cause traffic problems and ultimately slow us down.”
+
+“Other people don’t seem to know that,” said Kon, leaning over Everly to stare out the window.
+
+Once his attention was called to it, Alden realized it was true. The sounds of horns honking and people shouting filled the gaps in between the sirens’ wails. There were four lanes on the Span--two headed north, two south. Cyclists and foot traffic that traveled below certain speeds could use the Span Trail, a jogging path that hung just below the level of the roadway from the western side of the bridge, like a shelf.
+
+Behind Instructor Klein, the traffic, which had been on the heavy side but still steadily flowing in both directions, was shifting now. Motorcycles and mopeds were changing direction everywhere, and a small black car in one of the southbound lanes suddenly shot forward.
+
+Finlay swore. Tuyet let out an alarmed eep. An instant before the car should’ve collided with the pack of bi-wheeled traffic in front of it, it lifted off the ground and went over the other vehicles instead, presumably thanks to the skills or spells of the driver or a passenger, since it didn’t look Wrightmade.
+
+At least, it didn’t look like it was made by a Wright who’d known what they were doing.
+
+The car barely cleared the heads of the nearest riders. Some of them actually ducked. Alden whipped around to watch as it got just enough height for its tires to skim the top of a city bus.
+
+“Stupidity like that,” Instructor Klein intoned, pointing at the car, “is exactly the sort of behavior I expect you all to avoid. That person clearly doesn’t know how to fly a vehicle, therefore they should not be flying a vehicle. If they don’t kill themselves or someone else, they’ll exhaust their magic. They’ll create havoc for everyone around them.”
+
+The CNH bus had already been slowing thanks to the shifting traffic. Now, it jerked as the brakes brought them to a full halt. Alden swayed on his feet.
+
+Before anyone could even comment on the fact that they’d stopped, new System messages started rolling in.
+
+[Disaster Advisory: All disaster alerts remain in effect.]
+
+[Global Advisory: Due to an emergent situation affecting an area and population within the purview of the Triplanetary government, nonessential Contract services on Earth have been halted. Requests for information will be answered once normal function has resumed.]
+
+[Disaster Advisory: Local damage mitigation efforts are in progress.  The emergency teleportation allotment for Anesidora has been increased,  but all personal requests for teleportation will be ignored. Your teleportation priority will be assigned to you shortly and may be adjusted at any time.]
+
+[Disaster Update: Attack on Matadero - Confirmed]
+
+[Disaster Alert: Oceanic Anomalies - Imminent]
+
+“What the hell is happening on Matadero?” Mehdi muttered.
+
+Matadero. I was supposed to be going there tomorrow.
+
+Oh no.
+
+Alden looked at Haoyu, sitting in the seat right behind him by the window. His dark brown eyes were fixed on the space in front of his nose. Alden couldn’t tell if he was staring at his interface or the seat back. His face—usually so cheerful, always so expressive even when the expression was a lie for the sake of one of his jokes—was blank.
+
+“Haoyu,” Lexi said quietly, “I’m sure…”
+
+“What are you sure about?” Haoyu asked without looking at him.
+
+He didn’t say it harshly. His voice was as blank as his face. But there was a collective held breath, a group wince, as if he’d snapped at Lexi instead.
+
+All over Anesidora, the sirens reached the quiet trough of their wailing and rose again toward their crescendo.
+
+******
+
+A minute after the bus had stopped, the students were all out of their seats and crowded at the front, trying to get a better view through the windshield. The sounds of Torsten Klein’s feet on the metal roof vanished suddenly.
+
+“Used one of his spell impressions to get more height,” Mehdi said.
+
+The Instructor was figuring out the traffic situation. The smaller vehicles were still in motion, weaving in and out of the stationary cars, buses, and vans.
+
+“It’s not going to get better for a while, is it?” Kon’s voice was tense. “It might even get worse. We’re all trying to get off, but there have to be people in Apex and F who are heading to the bridge right now because they want to make the crossing. They’ll be trying to reach homes or families…”
+
+“They’ve probably closed it,” said Lexi.
+
+“That doesn’t mean they closed it before more traffic hit it,” Kon replied. “It could be jammed from end to end.”
+
+The sirens had begun such a short while ago. Everything was happening fast, but it felt so slow. The word “imminent” was burned into Alden’s eyes. He’d expanded the last disaster notice and frozen it there rather than swiping it away. It was proof that the System was here and doing stuff; he wanted that proof even more than he wanted clear vision.
+
+It couldn’t tell us how imminent? It couldn’t define oceanic anomalies even a little?
+
+His brain fed him images of demonized fish swimming through the sea, crashing into the supports that held the bridge, poking them full of holes, transforming them into sand.
+
+Knock it off. If the System meant demons, it would’ve said demons. It’s not like it doesn’t know the freaking word.
+
+And there was no chaos here. Yet. Alden was on high alert in more ways than one, actively paying attention, waiting for the first brush of something against himself that was antithetical to his existence.
+
+It wasn’t there. Not even that more nebulous sensation of being watched, of having your privacy violated, that he’d felt the first time chaos had touched him.
+
+The world around him felt normal right now. His own body and his mind were the things that were growing increasingly foreign.
+
+I hate this.
+
+His chest hurt. His ears rang with tinnitus he didn’t even have anymore. His thoughts were pinging rapidly from planning to demons and corpses and watching patches of his own flesh turn into something grotesque—
+
+Calm the fuck down!
+
+The self-directed order didn’t work.
+
+You could know you were going farther and farther off the rails without being able to stop yourself. Your head could be reminding you that you were normally capable of logical assessment, could be in the act of trying to do logical assessment, while at the same time, some wounded animal inside you ripped into every rational notion you had before it could gain traction.
+
+I hate this so much.
+
+He wondered if he was acting weird in addition to feeling weird. He was just standing quietly at the back of the group while the others looked out the windshield. Haoyu was beside him. Everly was right in front of him, standing on her tiptoes and trying to see.
+
+He assumed he seemed all right to them. Like he was paying attention to their conversation about Klein, the alerts, and the people on the bridge who were starting to behave badly.
+
+A man had just abandoned his car in the highway and taken off on foot. Alden’s classmates were debating. The debate was relevant to the next few minutes of his life, and he wanted to listen, but he was only catching sentences here and there that were getting ground up by the rapids of his thoughts.
+
+I need to do Peace of Mind right away. I’m glad Kibby is with Alis-art’h. Alis-art’h will keep her safe no matter what happens to me. Tsunami? The water will be cold. Thenn-ar coughed up blood when she died. Should I run? If people are abandoning their cars, there’s no point in us staying on the bus. Should I trust Klein to know what he’s doing? Get your bag; it’s full of all your stuff. Did the global advisory go to Aunt Connie’s phone? Next find out if the surface of the bridge counts as the ground element for your trait. Is help coming? Do I run? Haoyu’s dad might be dead. Aren’t tsunamis usually caused by earthquakes?
+
+Somewhere in that stream of unwelcome garbage, Alden knew there were good thoughts, ones that would lead to useful actions. But his ability to prioritize seemed to be badly damaged.
+
+He breathed in through his nose and out through his mouth.
+
+So it turns out my interface suddenly not having every feature I expect it to is something I can’t handle.
+
+It shouldn’t be shocking. A buggy System had been the glaring warning sign about Thegund. System failure had marked the end of his old life and the beginning of his horror story. If something was going to hit his panic buttons particularly hard, why not that?
+
+On some level, he was fascinated by the fact that he could recognize what was wrong with him, recognize that he was responding poorly, and still be unable to overcome it.
+
+On a much more urgent level, he was afraid he was going to make the shift from panicky thoughts to complete and utter insanity. Or immobility. And then Klein would leave him here by himself so that he didn’t hold back the functional people.
+
+Abandon the weakling. Sacrifice him to the demon fish.
+
+Pretty sure that’s not one of my reasonable fears. I need to calm down. How do I calm down?
+
+I need to do Peace of Mind right away.
+
+Suddenly, Alden realized he’d been telling himself to do Peace of Mind “right away” almost since the sirens had started. Within seconds, he’d known he should. He’d just….
+
+Scatterbrain.
+
+Do the Peace of Mind no matter what. Right now. Get it done.
+
+He stumbled away from the group toward the back of the bus for reasons that would only make sense to a panicky scatterbrain. Like, it wasn’t polite to start reciting your poetic Artonan in the middle of a group of people who were having a conversation. Mind your manners, Alden.
+
+He rolled his eyes at himself and stopped at the last row of seats, facing the rain-glazed rear window. His hands were shaking. They mostly stopped when he started using them.
+
+Dexterity. It had been made a part of his being. Alden’s hands were supposed to move well, and here they were, doing it for him.
+
+The wordchain was so familiar.
+
+Three months ago, I did this in the car with Kibby.
+
+He’d been calmer three months ago, facing down almost certain death. After he’d survived this, he’d have to unpack the why of his mental state being worse right now than it had been back then.
+
+Alden finished the chain. As the last syllable sounded, it felt like someone peeled the top layer off his panic and threw it away.
+
+Thank you.
+
+He suddenly remembered one of the boys in Engaging with the Unexpected asking why you would “sacrifice your edge” by using this chain.
+
+That guy just doesn’t have enough edge. My edge is so sharp I have plenty to spare.
+
+He hesitated, then started casting it again. It would probably double for him now, based on things Lute had said. Alden had performed the chain consecutively without paying it back during the car trip on Thegund. Trying to cast it when it was already active, for an increased effect, was a different thing. But it was a super healthy chain. He’d practiced it a lot, his form was perfect, and he was an Avowed.
+
+To his relief, it worked. His edge dulled a little more.
+
+Now the new one.
+
+He wove his hands through the patterns for the chain he’d used earlier today. Mastery over his body would be extremely welcome. But when he reached the end, nothing happened.
+
+I said it a lot faster than usual. Nerves. Was that the problem?
+
+It was a much more powerful chain. Shorter snapback timeframe. Harder to cast. It was less familiar to him, and he was already holding debt for it. Maybe Alden just couldn’t call on it again with all those things working against him.
+
+He dried sweaty palms on the front of his shirt. I’m tempted to go for a triple Peace of Mind.
+
+He lowered his hands instead. He was calm enough to know that the urge was probably an overreaction. He wanted to be able to focus through his tension, not take it so far that he placidly let a giant wave carry him out to sea.
+
+And I’m about in the right emotional place now.
+
+The sirens were still making him anxious. He was afraid. But he was no longer so anxious and afraid that he couldn’t decide what to do.
+
+Bag.
+
+He strode back to his seat and grabbed his messenger bag. His finger brushed over the medallion on the clasp, and he felt the familiar authority prick of it identifying its owner.
+
+Good bag.
+
+He had two ponchos still in their packaging, a temper sphere, a carabiner, and a hundred feet of tightly coiled paracord. It was just the normal stuff he’d been playing around with during breaks lately. He didn’t even have the fancy survival cord he’d been using in gym today because he’d thought he was going to the mall to have fun, dammit, and he hadn’t swapped out his daily supplies for apocalypse supplies.
+
+The apocalypse supplies were supposed to go in his apocalypse bag months from now, when he was due to be summoned. So that he could be a vastly over-prepared cocktail party waiter.
+
+I thought I was too paranoid. Ha! Clearly, I’m not paranoid enough.
+
+He also had his Artonan-made tablet, a stylus, a pack of origami paper, and one of those cookie dough protein bars—completely squashed because it was nasty and he’d just left it in the bottom of his bag to be abused.
+
+And, finally, a pile of lavender sachets. He’d recently embarked on a plan to deposit his excess supply of the things in places where poor, lavenderless people might appreciate them. So that he could ditch them without feeling wasteful. If some of the classrooms and restrooms on campus suddenly smelled better than others was anyone going to mind?
+
+He dug the sachets out and tossed them toward the back of the bus.
+
+Not dying because I was weighed down by a few extra ounces of dried flowers.
+
+He considered tossing other things, but he could think of uses for most of them so he didn’t.
+
+Granted, he couldn’t think of many uses for them that would be relevant if he fell into the ocean. Maybe he could inflate a poncho and use it as a float or something.
+
+The only other things he had were his clothes. Green plaid shirt, t-shirt underneath, a blinky checker in the front pocket of his jeans. He dug his hand into the pocket. Sure enough, his unknown Opposite was merrily chaining in response to his earlier chains.
+
+Alden watched the Opposite stone glow for a second, then tucked it away again.
+
+“Are you all right?”
+
+The whispered question came from Haoyu. He’d separated from the others, who were…
+
+Oh, okay. So that’s happening.
+
+They were watching Klein, who was way out in front of them now. He was high above the traffic, clinging to one of the spell-created effects he used to rapidly shift his position sometimes when they were in the gym. The spells made invisible blocks that only he could touch. He could cast quite a few of them, but they didn’t last very long at all.
+
+The Instructor had a high-powered flashlight in his free hand.
+
+Alden’s memory for the fine details of the past few minutes wasn’t great, so he didn’t know if Klein had taken the light from the bus or grabbed it from a vehicle on the ground. He was flicking it on and off up there.
+
+Morse code? We’re at that point.
+
+“I’m fine,” Alden told Haoyu. “I wordchained myself into being something more like fine anyway. I guess you noticed? Are you…”
+
+Are you all right?
+
+Returning the question in this case seemed wrong. There were System notifications flashing in their eyes that said Haoyu’s dad was under attack.
+
+“Will you entrust me with my bag?” he asked instead.
+
+Haoyu nodded, but then he said, “That requirement makes your skill so much less useful. It’s strange. If you didn’t have someone else with you, you’d be helpless.”
+
+He was still talking in a slightly off voice. Alden had the impression he’d lost a personal filter or three.
+
+“I know.” He decided not to comment on the uncharacteristic bluntness of the comment. “I’ve thought about it a lot. What’s Klein doing?”
+
+“We’re not sure.”
+
+The answer came a second later, in the form of lights going up in the air ahead of them. A flare sizzled. A large beam flashed its own Morse code. An illusion of a traffic signal shone red. All of them were blurred by rain.
+
+Alden looked out the back windows to see a string of similar communications flying into the air behind him. He didn’t understand all of them. Someone was in the air back there, just waving glow sticks with abandon.
+
+But the bulk of the information was clear.
+
+“Traffic’s stopped everywhere,” Maricel said into the quiet.
+
+Klein was swinging down from his perch, heading back toward them.
+
+Looks like we’ll be running, thought Alden.
+
+******
+
+The instructor returned to the bus with a tall young woman who was pushing a bicycle. Alden and most of the others met them on the pavement, their belongings already in hand.
+
+“We have a plan,” Klein said, sounding unhappy about it. “This is Dee from our Uni program. Adjuster. Ranged blasting spells.”
+
+“So useful right now.” Dee gave them all a wave.
+
+“She’ll be accompanying us. We’re running. Finlay…” He stared at the speedster. Finlay looked a little wild-eyed. Everyone did. “Can you safely make your way on your own?”
+
+Finlay’s head jerked up. “Yes?”
+
+“You don’t have to.”
+
+“No, I can! I can get myself back to campus or wherever the System tells me to go. No trouble.”
+
+“You have to watch out for people being idiots. Moreso than usual,” Klein warned.
+
+“I’ll be fine.”
+
+“Then go. Straight to Apex. Don’t stop until you’re somewhere safe.”
+
+“Yes!” Finlay met Alden’s eyes briefly. “Erm…good luck?”
+
+“Good luck,” Alden said.
+
+Everyone repeated it in voices showcasing a range of emotions from stiff with nerves to forcefully cheerful.
+
+“See you back at school. Soon! Really soon,” Finlay said.
+
+He took off.
+
+“Stop turning around to look at us!” Klein bellowed after him. “Eyes in front of you!”
+
+“Can I go?” Tuyet was gripping her bright yellow purse tightly. She kept her dart case in there. “One of my sisters lives on the Apex side with my nephews. She might need help. I’m not tired. I can make it.”
+
+Klein glanced down at her shoes. She was wearing ballet flats. “Fine. If you have any trouble, just stop and wait for us. Now, for the rest of you, here’s what we’re going to do.”
+
+He asked them to run in small groups.
+
+“Not piled on top of each other. Just close enough together that if someone has a problem, you know it. Don’t leave your slowest group member so far behind you that you can’t reconnect with them.”
+
+Other than that, they were supposed to run as fast as they safely could.
+
+They set off with the uni student bringing up the rear on her bike, keeping in touch with Klein via an infogear phone. Once she’d pointed out that infogear was still allowing local calls and texts on a delay, Klein had asked to borrow a watch from Mehdi, who was the only person on the bus who had a piece of the Informant’s tech.
+
+Then he’d kept it.
+
+He made it sound like he was only going to hold it for a second. I don’t think he meant it to come across that way. But I bet Mehdi's annoyed.
+
+The instructor was running ten times as much as everyone else, frequently leaping over unoccupied vehicles as he headed up and down the bridge, trying to monitor the progress and safety of all his students at once.
+
+It made Alden wonder why they didn’t all run in more of a pack so that Klein could guard them better. His brain, still being a dick even under the influence of two Peace of Mind chains, supplied him with the opinion that it was to decrease the risk of a total wipeout. If the bridge crumbled beneath one small group, at least the rest of them would survive.
+
+Then why don’t we all just run separately? he wondered.
+
+So that when the demons come, you can fight them off together, said his brain.
+
+Probably, the truth was something like that plus Klein trying to balance his own wishes to keep the whole class under his protection with a certain cold logic that said the faster kids shouldn’t be made to hold back for the sake of the slower ones in a dangerous situation.
+
+The front group—Marsha, Ignacio, and Rebecca—were soon too far away for Alden to spot amidst all the stopped cars and other fleeing people. The second group—Haoyu, Lexi, Mehdi, and Kon—were far enough ahead that he thought it might be foolish for him to swap groups and catch up with them even though part of him was itching to do just that.
+
+It happened, Boe. You were right. I want something to be ground, and it isn’t.
+
+The bridge appeared to be made of nice groundish things Alden usually got along with well. Assuming it was really concrete and steel from Earth and not some similar materials from another world—always a possibility on Anesidora—he would’ve been able to run on it under most circumstances. But it was soaring over deep water, a marvel of engineering. Not so much as a blade of grass growing out of a crack.
+
+Basically, The Span was too closely aligned with the object element for his movement trait to interact with it. He wondered if a really powerful Ground Shaper could still work with it.
+
+Doesn’t matter. I can’t.
+
+Alden was the fastest member of the back group, but he was still slow enough that if he sprinted to join the guys ahead of him, he’d be the one holding them back. So he was running with Maricel, Everly, Jupiter, and Njeri.
+
+Jupiter had requested that the System use her foundational enhancement points to increase her sense of smell. Alden was going to have to ask her why she’d done a thing like that when they were all out of this.
+
+They’d been running for about three minutes. The rain wasn’t heavy, but it was so windy on top of the bridge that his nose and cheeks were going numb. Or maybe that was from the cold. He was grateful for his ponchos.
+
+One was still safely tucked in his entrusted bag in case he needed armor later. He was wearing the other to keep himself dry. His hood was back since it wouldn’t stay on while he ran, but the plastic was doing a good job of trapping body heat elsewhere.
+
+He had no preservation active on anything at the moment. Since the trait wouldn’t work here on the bridge to speed him along, he was saving his magic. He didn’t know what he’d need to do with it for the rest of the night.
+
+Resource management.
+
+He was pissed that traffic had stopped the bus, but he was glad that the bridge wasn’t completely empty at the same time. This could’ve been an even creepier spot than it was at the moment. The ocean stretched out to either side of them. It was so dark out there, and Alden was so blinded by the bright street lamps that lined the bridge that he couldn’t really make out much.
+
+Lights from boats and ships. A helicopter had flown over right after they started running. Apex glittered ahead of him.
+
+Why did they build it so far from F?!
+
+Maybe they really were planning to slap another urban island between the two one day and call it Mid City, as Konstantin had once joked. A half-moon shape, to stay in keeping with the theme.
+
+Tires squealed, and Alden looked around.
+
+He didn’t spot the source of that sound, but up ahead, Haoyu suddenly shouted and threw himself against the side of a minivan. Lexi yanked Kon out of the way as a southbound motortrike careened out of its lane and into theirs, taking advantage of gaps between stalled vehicles. Alden stopped, pressing himself to the trunk of a coupe just in case the trike rider did something else unexpected.
+
+The person’s helmet had a glowing blue stripe that matched the lighted wheels. As they growled past, stinging drops of water flew off and spattered his poncho.
+
+“I hope you hit a pothole and die!” Mehdi shouted loudly enough for his voice to carry over the wind. He was wearing the same knee-length black coat with the stylized bronze lion on the back that he’d worn to Kon’s party. It had looked pretty cool when they set off, the lightweight fabric whipping around him as he ran. Now he just looked soggy.
+
+Motion from inside the car Alden was pressed against pulled his attention, and he realized a boy and girl were staring at him from the backseat. The youngest one waved an action figure at him and said something that was muffled by the glass. It sounded like he might’ve been speaking Russian.
+
+The man driving the car leaned around to talk to the kids. Most people were leaving their cars now, but Alden had run past several occupied vehicles. He wondered if they were thinking that the jam would clear. Or if they were guessing that the bridge qualified as “high ground.” It had been built for boats to pass below it.
+
+I’m glad Klein didn’t want to sit tight.
+
+They were kilometers from shore in both directions, and the System was telling everyone to avoid seawater. If anything did happen to the bridge, there was nothing but seawater around them. Alden wanted to be close enough to Apex that he could swim the rest of the distance in rough waves, and he was guessing he couldn’t swim very far at all in those conditions.
+
+So running it was.
+
+Njeri and Maricel dashed up beside him and paused to see what he was staring at. The little boy waved his action figure at them, too.
+
+“I haven’t seen any other children out here,” Maricel said. “Not ones much younger than us. He’s the same age as one of my brothers.”
+
+This late at night, even on a weekend, most little kids would be at home in bed. The boy looked around five or six. The girl wasn’t much older.
+
+“Should we offer to…?” Alden trailed off.
+
+Oh my god, the chaos.
+
+“Do you need help?” Maricel was calling through the back window.
+
+If there’s a corruption incident here, what happens to the kids?
+
+They weren’t Avowed. But most of them would be. And if affixation was something that protected vulnerable people from chaos...
+
+The passenger window rolled down. “They will teleport soon! Very soon!” the driver said, motioning them all onwards with his arm. “Go! Go!”
+
+The churning in Alden’s guts quieted at that. Relieved in more ways than one, he set off again.
+
+The System’s moving the kids somewhere safe first.
+
+The dad was just waiting with them until it happened. The System was functional. Everything was going to be fine.
+
+******
+
+Alden and his group had made it nearly half the distance when new System updates appeared.
+
+[Disaster Update: Oceanic anomalies may occur in your location soon.
+
+Evacuate watercraft. Move inland. Tsunami-like incursions of water remain possible. Analysis of likely outcomes is still underway.]
+
+Before Alden could make any guesses about what all of that meant, he received the next notice.
+
+[Teleportation Priority Assigned: 8m 59 s
+
+Your priority may be adjusted. For your safety, you are advised to continue toward shelter.
+
+Rejecting teleportation is not advised.]
+
+YES!  thought Alden. Yes, yes, yes. The System is going to teleport my ass somewhere safe in eight minutes. I hope it drops me all the way back in Illinois.
+
+He wasn’t the only person happy. There was a general clamor from his classmates and others on the bridge. A few whoops.
+
+And at least one outraged shout of “An hour and eighteen minutes!?” from a guy standing in front of his car holding an umbrella.
+
+That does seem really long.
+
+The guy would definitely make it somewhere safe on his own two feet before then, right? As long as he actually moved them instead of standing around.
+
+Does the System deprioritize you if you’re not making an effort?
+
+It was an odd thought and it seemed unlikely, but just in case, Alden was going to keep moving forward effortfully.
+
+Klein was coming toward him for one of his checks, running between cars and occasionally bounding over them.
+
+“I’m good,” Alden called.
+
+Usually that was all the instructor wanted to hear. He hadn’t stopped moving since they left the bus, but now he fell into step beside Alden, who suddenly had the bizarre impression that Klein was running in slow motion even though the two of them were going the same speed.
+
+He’s been flying all over the place so much I forgot he could move slower.
+
+“Are you all right to pick up the pace?” Klein asked.
+
+“Yes.” Alden was running, but it was a very comfortable run.
+
+“Our tail’s getting long here. Front group’s way ahead. I’m going to carry some people forward past the next group. You’ll be at the back for a couple of minutes with Dee. She’ll loan you the bike so you can catch up to us. Give it to Jupiter when you reach her. Dee will catch up on foot.”
+
+“I’ll do it.”
+
+He was relieved. He knew they were making okay time; they were passing a lot of the people who were traveling on foot in the same direction. But he still wanted off this bridge ASAP.
+
+Ironically, I’ll probably be teleporting right as I reach the finish line.
+
+He didn’t have a problem with that. He’d say goodbye to this place and hello to safety in whatever way happened first.
+
+“Don’t worry about your teleport assignment,” said Klein.
+
+“Okay.”
+
+“Priorities are still being adjusted.”
+
+I don’t want my priority to be adjusted if it’s going to go in the wrong direction.
+
+“There’s a good chance we’ll make it to an appropriate location before the teleports come due. I know a couple of places,” said Klein. “I’ll reject mine if I need to. Nobody gets left alone.”
+
+Something about that didn’t sound right. Before Alden could register what it was, the instructor was gone. He zipped by seconds later, plus one Jupiter who looked like she was being jostled a lot more than was comfortable.
+
+I think he was being nice to me? Alden resisted the urge to yell at a woman on a moped who almost sideswiped him from behind. Telling me nobody got left alone. He thinks my timer is longer than his.
+
+Is it? No, he also thinks we’ll be in a safe location before they finish counting down. No way are we getting off the bridge and to a chaos-resistant, flood-resistant shelter in eight minutes.
+
+So my timer is shorter than his, then?
+
+That made sense if the System was going with lower ranks first. But then why would Torsten Klein think it would be the other way around?
+
+The Instructor raced back for Everly,  Njeri, then Maricel. When Dee pedaled up to give Alden the bicycle, he asked, “What’s your teleport timer?”
+
+“It’s twenty-five minutes. Keeps changing a lot, doesn’t it? Don’t worry about it too much for now,” she said, dismounting.
+
+She started to pass the bike to him, then stopped with one hand on the handlebar, looking toward the sea through a gap in the frozen southbound traffic. Her mascara was streaking the light brown skin of her cheeks, and the back of her wet shirt had a logo on it advertising the diner Alden had ordered the giant mound of hash browns and onions from last weekend.
+
+He stared at his own timer. It hadn’t changed by a single second. It was ticking steadily down.
+
+“Did you see…?” the Adjuster asked, frowning.
+
+Alden looked away from the time to follow her gaze. There was another helicopter going over and a small shape, barely visible against the clouds, that might have been a person in flight.
+
+“What?” he asked, raising his voice over the sound of the chopper blades and the wind.
+
+“Never mind,” she said. “Let’s get you—”
+
+The lights of one of the ships suddenly went out.
+
+Alden couldn’t see the vessel the lights belonged to. It was too distant, and the dark beyond the shining Span was too impenetrable. But it might have been a yacht—something fun, probably, rather than a working ship. He’d been looking right at it because the lights were color-shifting through the rainbow and it stood out compared to the other things in that direction.
+
+“Did you see a boat disappear?” Alden asked.
+
+“Maybe they…had a power outage,” she said. “Let’s not stand around.”
+
+Alden threw a leg over the bicycle. As his sneaker hit the ground on the other side, the bridge shuddered below his feet. It wasn’t a big shudder, but the bridge had been solid and immovable until just now.
+
+His hands tightened on the bars. His heart rate, already fast, kicked into a new gear.
+
+They both looked at each other.
+
+“I don’t think that was a power outage,” said Alden.
+
+The bridge shuddered again. The lights of another boat, a much smaller one speeding toward Apex, winked out.
+
+I swear it just went down, but boats can’t sink that fast, can they?
+
+“Ride!” shouted Dee. “Go!”
+
+He took off. She took off. Around them, people who had been waiting in cars or opting for a more leisurely jogging pace than a bunch of high rank teens started to run, too.
+
+A van door swung open right in front of Alden, and he almost lost control of the bicycle as he dodged around it.
+
+Fuck, fuck, fuck I don’t want to fall into the Pacific with tons of rubble.
+
+Was the bridge still shaking? He didn’t know. Maybe it would feel different on a bike.
+
+The wind was in his ears. Someone was screaming in Chinese. There was a sharp crash from behind him that had to be a vehicle hitting another vehicle.
+
+And then the water came.
+
+It wasn’t a tsunami. It wasn’t even “tsunami-like.”
+
+And the giant, Hollywood-style killer wave his asshole brain had been picturing was definitely nowhere to be seen.
+
+Alden saw the magical phenomenon happening with his own eyes and failed to understand it until he was already at its mercy.
+
+The ocean, bubbling and swirling in a way that looked otherworldly, crept over the concrete barriers that formed the sides of the bridge. It crawled across the lanes and spiraled up the columns of the lampposts. It was one inch deep, two inches, a foot in an instant. Alden managed to jump off the bicycle instead of falling, but there was nowhere to go.
+
+He threw himself onto the hood of the nearest car, barely registering the fact that others were doing the same thing all around him.
+
+And then the bridge dropped.
+
+He shouted as the car disappeared from below him briefly, and then he was slamming down onto the hood again, staring up at the twinkling light of some brave drone or distant star as the water started behaving like water once more. It suddenly fell away from all the pillars that supported The Span with a mighty crash.
+
+A mass of liquid released its grip on the lamp over Alden’s head. So much water had gathered up there in just a few heartbeats that when it fell on him it was more like a blow than a splash.
+
+The bridge almost felt like it was swaying. Or maybe he was just disoriented. Who knew anymore?
+
+He’d heard at least one loud crack split the night.
+
+Am I falling? Are we sinking?
+
+He felt like it took him forever to figure out that neither of those things was happening at this particular moment. According to his teleport timer, only seconds had passed.
+
+[Disaster Update: Oceanic Anomalies - Confirmed]
+
+I think that that doesn’t really cover what just happened, thought Alden. I think tsunami was a bad description too.
+
+He slid off the car and splashed down into ankle deep water that was rushing down the pavement.
+
+I think the ocean just tried to eat The Span.
+
+*****

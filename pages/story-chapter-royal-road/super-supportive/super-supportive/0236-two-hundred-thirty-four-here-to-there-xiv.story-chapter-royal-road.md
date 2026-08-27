@@ -1,0 +1,359 @@
+---
+id: 2f9768f9-626f-5f2d-b7a7-5944d2aa7948
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-FOUR: Here-to-There XIV"
+slug: 0236-two-hundred-thirty-four-here-to-there-xiv
+partOf: super-supportive
+position: 236
+ownLength: 4674
+unit: words
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2480322/two-hundred-thirty-four-here-to-there-xiv"
+royalRoadId: "2480322"
+---
+
+234
+
+******
+
+Kon was excited to be on Artona I, and he wanted to explore. He wasn’t saying it, but he’d been standing at the living room windows with Alden for a while now, trying to turn his neck so that he could catch a glimpse of something more than the courtyard this house shared with the neighboring one. He’d also started casting looks toward the front door.
+
+Of course he’s curious.
+
+Kon had repaired the wand without incident, realized the knight in the room wasn’t about to ask him for anything else, and learned that the wizard was their age and Alden’s friend. Now the two Artonans were having a quiet discussion by the hearth, and it must have felt to Kon like any trouble was over, since he didn’t have the whole backstory.
+
+Alden didn’t know what happened next. If it was just him, he’d hang around, waiting to see if Stuart needed help with the Olget situation or the Ryada situation. But it wasn’t just him. Was Kon expected to head back to Earth now? Or the siblinghold?
+
+[Do you want to see more of this place?] Alden texted.
+
+Kon stopped trying to get his nose as close to the glass as possible. “Can we?”
+
+[Not sure. I’ll ask.]
+
+“Is Kon supposed to go to the teleportation point?” he said aloud. “I could take him there. He could see some of the city on the way?”
+
+Stuart had just finished arranging a couple of the necklaces he’d taken from the siblinghold in a circle around the wand.
+
+“Or if you’re trying to protect that from another attack,” Alden added after realizing that must be what he was doing, “I can stay and hold a shielded object between it and that house where we saw Olget-ovekondo. Would that help?”
+
+[Who Olga?] Kon asked.
+
+[He’s the dude who broke the wand. We think he cast a spell on it from a balcony down the street.]
+
+Kon opened his mouth, but texted again instead of speaking.  [Wizard fight?]
+
+Well, that makes it sound like I’m involved in something deadly. [More like wizard temper tantrum.]
+
+“You don’t need to shield it like that,” said Stuart. “As for Kon, my parents plan to—”
+
+Whatever he was going to say about his parents’ plans was interrupted by a delicate chiming from the front door.
+
+“Emban,” said Bithe, heading to unlock it.
+
+[Who?] asked Kon.
+
+[Stu-art’h’s cousin. A knight. She’s nice.]
+
+Emban’s entrance was like the first gust of an unexpected storm.
+
+Her shoes landed in one of the cubbies by the door with a thud, and then she was stalking down the shallow steps into the living room. She had a brown cloth bag in one hand, and she carried it straight to Stuart, so rigid that her every motion seemed to snap in the suddenly quiet room.
+
+Alden wasn’t sure she’d realized there was a new person here before she had her back to them. Someone had added extra strings to her braid since the last time he had made note of it. More sage green and red. They showed off well against her cream-colored coat, trailing a little longer than her dark purple hair. He could imagine Ryada’s fingers tying them there.
+
+“You didn’t have to bring the new wand case,” Stuart said, removing it from the bag. It was identical to the first one. “You could have teleported with Ryada to the Rapport to talk to—”
+
+“She said she preferred to go on her own.” Emban’s tone was somewhere between businesslike and aggressive. She glared down at the wand and broken case. “It’s really true. That lazy, <<bleating>> animal has gone this far. This far. He couldn’t even pretend to honor his path for a single day during his own mother’s Here-to-There! We should have thrown him from the train.”
+
+Kon turned to Alden, his eyebrows shooting up.
+
+[She’s nice…but she just got some upsetting personal news.]
+
+“Emban, the Avowed who came to help us repair the wand is behind you,” said Stuart. “Alden is going to take him to a teleportation point. There’s a little time for him to see some of the city if they leave now.”
+
+It was a beat before Emban turned to face them. As soon as she did, Stuart gave Alden a look that meant something—what, Alden couldn’t be sure. Stuart pointed from Emban to Kon to the door, so Alden’s only guess was that he was trying to say he’d appreciate Alden removing Kon so that he, Emban, and Bithe could speak frankly and call other wizards bleating animals without feeling improper.
+
+“Yes. We’re going to do that,” Alden said.
+
+Emban came over and thanked Kon. For a couple of minutes, everyone acted like this was the end of a social visit. Kon went right along with it, even slipping in a joke about how disappointed his little sister would be that he wasn’t going home with fifty tattoos before the Artonans saw them out the door.
+
+Stuart watched them go, in a direction opposite the one Olget was in, until they were out of sight.
+
+When there was nobody visible on the walkway near them or a balcony above them, Kon took a giant breath and turned to Alden. “What in Apex?! You woke me up at one in the morning and got me teleported to another planet!”
+
+“I did do that,” said Alden. “Welcome. Nice to have you here. You can borrow my potion inhaler so you don’t get heatstroke.”
+
+******
+
+Over the next twenty minutes, they played the roles of giddy tourist and helpful guide.
+
+Kon was thrilled by sidewalk tiles, Alden’s clothes, the potion inhaler, potted plants, a shiny boulder, and a building that repeated and magnified the sound of passing footsteps until they became like a song.
+
+“Look at this! It’s an animal I’ve never seen a picture of. Or I don’t remember seeing a picture of one anyway. Hold still, Unknown Creature!”
+
+Kon held Alden’s tablet out and snapped a photo of the animal clinging to the thick, yellowish stem of a vine that was being trained to grow along the street. The speckle-furred, mouse-sized alien continued to rub one of its tufted ears against the rough stem, unconcerned about the human boy inching closer.
+
+“There are a lot of those around here. Its name is probably something like ‘sweecha’ for people who want to go simpler on the pronunciation, but it’s supposed to be a whistle at the beginning and then almost a click. Like this.”
+
+Alden repeated a word he’d heard pretty much every kid on the Here-to-There saying periodically since they arrived.
+
+The creature stopped rubbing its ear and made the sound of its own name with far more expertise than Alden. A couple more echoed it from where they hid farther along the vine. There had been a heated debate among the younger children about whether sweecha calls were better or worse than o’odee laughter.
+
+Kon conversed with the sweecha for a bit. Alden didn’t think he was unaware that he was catching them even more attention than before from passing locals, but he seemed too intent on soaking up the rare experience to care.
+
+Alden had never thought about what it would be like spending time on another world with Konstantin. He’d never imagined thoroughly introducing anyone he knew, other than Boe, to Stuart.
+
+Now he’d gone and plonked a classmate into the middle of a day like this.
+
+He was nervous about what Kon thought, but it was done now. And naturally Kon had questions. Plenty of them.
+
+“So,” he said after they’d left the sweecha behind, “you’ve had the excused absences because the faculty think you’re visiting a healer, but you’ve really been spending time with your friend.”
+
+“I am going to see a healer. This trip was different from the others. And I came back to school for MPE.”
+
+“Of course!” Kon nodded. “It would be a tad much if you teleported back and forth for every class, but popping away from your Artona I adventures to attend gym for a couple of hours is a thing anyone might do.”
+
+“Exactly,” said Alden.
+
+Kon laughed. “You’re always one-upping my expectations!”
+
+“You have expectations?”
+
+“I thought you’d reached the peak of unique school arrivals by flying in  from the cube on a wizard’s magical polygon. I’ve got this amazing clip of you on it for our class montage. Now I’ll have to ask you to teleport directly into gym one day wearing that outfit and throw a victory sign at Klein, to capture your true nature.”
+
+What am I doing to my reputation? Alden wondered. Was there a point when I should have hit the brakes and ducked my head?
+
+“We have a class montage?” he asked.
+
+But Kon had taken a few steps ahead of him, in a hurry to see the focal point of the outdoor gathering place they were passing through. The people here were mostly engaged in games. Players squatted across from their opponents and flicked slender, flexible metal sticks through points of blue, red, and gold light that shot up from lines carved in the pavement. It was a fast-paced activity that required focus, and except for someone in a robe who was watching others play, nobody appeared to realize that the new people who’d just entered the area were a little foreign.
+
+Under different circumstances, Alden would have liked to approach a couple of players and observe the game, but the thing that had caught Kon’s attention was the animated whirl of sand in the center of the gathering place. On Earth, Alden would have assumed the reddish sand was under the control of an excellent Shaper of Ground. It swirled elegantly around itself in three rivers, swooping several meters up into the air, then plummeting to the pavement in a cloud before forming the rivers again.
+
+“Don’t touch it,” he warned, more because he had an urge to touch it himself than because Kon looked like he was going to. “They don’t always put barriers around stuff that would usually have barriers around it on Earth.”
+
+Artonans weren’t against protecting people from dangerous things or protecting delicate things from clumsy people, but their decision making didn’t perfectly align with the version of common sense that Alden had developed growing up in an American city.
+
+“I know,” Kon said, watching the sand soar upwards again. “Irina thinks Mom and Dad were mean to her on their trip because they made her stay in her seat instead of playing with other kids at some restaurant they visited when they were here. A bunch of live flames were moving through the room, and they were worried the community child monitoring culture might have holes in it when it came to a human kid.”
+
+“If you like this, you’re going to love the station,” Alden said after they’d been watching the sand for a while. He hadn’t seen much of the city, so his mental map of tourist destinations consisted of the train station and the park. He didn’t know what was going on with the bors or the ovekondo siblings right now, so the station was a better place to take Kon.
+
+They left the sand sculpture behind and continued on.
+
+“The class montages are highlights reels of all of us, for us to share on Trime at the end of the quarter.”
+
+“You did hear that question.”
+
+“Most of the other hero program classes have done something like it. It’s not an official tradition or anything, but it’s fun to watch them. Vandy and Winston are both making montages, but I’ve seen Winston’s work in progress and I know what kind of clips Vandy is choosing based on what Everly has said. So I decided to make one for us that was actually...”
+
+“Cool?” Alden suggested.
+
+“I wouldn’t say theirs aren’t cool,” Kon said. “They’ll look really good. But they don’t show our class’s true personality. Neither of them included the gokoratch songs, and they’re both doing Silent Jeffy.”
+
+“The gokoratch songs were the best thing that happened to us since starting school! That’s a crime. But what’s Silent Jeffy?”
+
+“It’s this version of Jeffy who appears in photographs, and occasionally in MPE footage if he’s not speaking. Some of us noticed it when we were hanging out reviewing duels together in the library. He somehow comes across looking studious and responsible, but not stuck-up thanks to his mohawk. Haoyu says he has the aura of a unanimously-elected class president in those images.”
+
+“Silent Jeffy is a lie.”
+
+“Vandy and Winston prefer him looking that way for their montages.” Kon shook his head. “Someone has to get the truth out.”
+
+This conversation was such a dose of ordinary in an extraordinary place. It was pretty fun. It would have been completely fun if not for the turbulence waiting under the calm surface of the morning.
+
+“I need to tell you something,” said Alden.
+
+“Is it how you got a very close, possibly lifelong Artonan friend our age who’s associated with generals? Because I’m curious, and I’m barely polite enough to hold it in. I am polite enough. But barely.”
+
+Kon was trying to hold the front of his shirt away from his chest to get some airflow while he spoke.
+
+“I met Stuart at LeafSong,” said Alden. “That’s the wizard university where I had my first assignment back in February. He was testing to be a student there. It was...a rough first meeting. But he was upset that I supposedly died on Thegund, and when it turned out I was alive, he wanted to get to know me better. I started sending him messages after I made it to Anesidora, and he found a way to call me.”
+
+He remembered that phone call vividly. His temper had been hanging by a thread after Hazel Velra had blown the Peace of Mind chain he’d been saving, and he’d almost fallen off an exercise bike at the thought that some knight named Evul-art’h might be mad at him or want something from him.
+
+And while she questioned me, she was smashing Stuart under her lounger cushions.
+
+“You’re grinning,” said Kon.
+
+“His first call was funny. He’s been calling me on Artonan weekends ever since then. It’s not that often, but the calls have kind of been an event every time. We talk for hours. And he’s good at the conversation topics that you usually have to keep in your own head because they’re too hard to discuss with just anyone. Morality, life purposes, healing from trauma, making hard choices about our futures...”
+
+Kon stopped flapping his shirt. “Really? The only person I’ve ever had a conversation like that with is Lexi. And I think I made a joke and brushed him off the last time he wanted to have a serious talk about what it means to be an Avowed. I shouldn’t have done that, I know. But it’s stressful to get into that kind of thing, and I’m never ready for it.”
+
+“I’m surprised,” said Alden. “You’re great at talking to people. And you’re so good at...I can’t think of what to call it. Whatever the positive version of manipulating is?”
+
+“You’re calling me a manipulator? What did I do to deserve this?”
+
+“I said positive manipulation. Like when Søren burned himself. I looked to you for help because I knew you were the person who could clear the room and make everybody listen without making them mad. And you kept the guys from being weird about my commendation when they found out, with just a few sentences in the locker room. I really appreciated that.”
+
+“I’m friendly, Alden. The word you want is friendly. Not manipulative.”
+
+“Expertly friendly, though. Charisma! You have charisma.”
+
+“I’ll take that,” Kon said. “It’s not the same as what you’re talking about, though. The most popular, charismatic person on Earth could probably live until they’re a hundred and eighty and still die without ever having a long talk with someone else about who they are and who they want to be.”
+
+That struck Alden as true. And it also tugged on something inside him in a way he hadn’t expected. Ahead of them, over the white rooftops, a ryeh-b’t was flying. He thought it might be the one he’d seen on a balcony when the Here-to-There had first arrived.
+
+“As someone who’s almost died multiple times—”
+
+Kon looked over at him. “Just start a sentence like that.”
+
+“I spent most of this year thinking I wasn’t going to make it to seventeen, and I haven’t escaped from being morbid yet. And, as a reluctantly morbid person…I’d rather have a few people really know me before I’m gone.”
+
+“Your wizard friend isn’t the only one who’s into talking about serious stuff, I see. It makes sense that two intense people would mesh fast if they got along.”
+
+“Well…”
+
+Sometimes there are roadblocks.
+
+“Anyway, that’s how we met,” Alden said. “And then when Anesidora almost drowned—”
+
+“You and the other new globies became citizens at the worst time. A natural disaster level terrorist attack, entire neighborhoods gone, and we were on the Span with the ocean trying to rip it down! I was looking at what’s left of it the other day and thinking maybe they shouldn’t build a new one. I’m not sure I’m willing to cross a long ocean bridge anymore. I’ll use a dog crate and fly between the islands. Seems safer.”
+
+“I don’t think you remember the death and injury percentages from our later flights if using that method seems safe to you. But yeah. After the flooding, Stuart was worried, so he invited me to his house to hang out and meet his family.”
+
+“Which wizards are known to do,” Kon said.
+
+“They probably are…sometimes. It was fun. I got to know him better. He helped me figure out that I wanted to try mind healing and introduced me to the person I’m seeing for that. And now we’re here.” He waved his hand around at the buildings.
+
+“Yes, we are! I’m so glad you decided to ask me to come.”
+
+Alden smiled at him. “What are you saying, man? I asked you to do me a favor. You had an Agility Brute break into your room and hit you in the head with a brush while you threw on dirty clothes, and then wizards were calling to tell you that you wouldn’t be paid for helping, and then bam you’re here. I’m the one who’s glad you came.”
+
+“I feel a little bad for Mehdi.” Kon was trying to get a picture of the ryeh-b’t with the tablet. “He’s so interested in other places that he internet stalks Jeffy’s grandparents to see what their farm looks like. He’s never left Anesidora, and I’ve been hyperlucky with traveling. I’ve been to the US and Russia to visit family, and since my parents decided to send me to Nilama Paragon at the same time as Lexi, I was there for the world tour trips in fifth grade.”
+
+“Lute told me about those.”
+
+Kon lowered the tablet. “He liked it. We all did. Best weeks ever. But whenever we were about to teleport back home, we’d make up these rituals that we said were magic. To bring us back to that place someday, somehow. Like scratching our names on the ground with a stick or kissing a bottle of maple syrup and burying it by the Zambezi.”
+
+“Why would you bury maple syrup by a river in Africa?”
+
+“We forgot to do a ritual in Canada, so we were trying to cover two places at the same time. And we were eleven. Lute didn’t do most of the rituals with us because he said he’d be able to buy plane tickets to go wherever he wanted one day.”
+
+Alden winced. “Oof.”
+
+“Did you go many places?” Kon asked. “Before you got selected?”
+
+Alden wiped sweat off his forehead with the back of a hand. “I didn’t.”
+
+“Well, now look at us! Do you think I can buy Mehdi a souvenir somewhere?”
+
+“Maybe something at the station? By the way…I’m not intense.”
+
+Kon turned to give him a bemused look.
+
+“You called me intense,” Alden said. “I’m trying to be unintense. Low-key.”
+
+“Haha! Good one. Oh, whoa! Is that the train station? It’s made of sand!”
+
+He was picking up speed again
+
+“Wait a second, Kon. I really do need to tell you something. I don’t know how we got so far off topic. When I asked them if they could summon you here…”
+
+Kon fell back to walk beside him.
+
+Alden swallowed. Maybe some sand was blowing off the station toward them. He felt like he had dust in his throat.
+
+“Um…Bithe tried to summon you after I told him you’d like to help, but…he couldn’t. The System told him that your Avowed service was already assigned. To somebody else. That’s why we had to call Stuart’s parents and get them involved.”
+
+They both stopped at the same time, as if they’d silently agreed on it. They were standing at the corner of a poetry hall. It seemed like a strange place to tell someone something important about his future.
+
+Kon didn’t look scared. Or excited. “To who?”
+
+“I don’t know.”
+
+“What do they want me to do?”
+
+“I’m sorry. I don’t know that either. The only other thing I heard was that the System suggested several people Bithe could call to ask about you, so…maybe a group of summoners is involved? That’s only me assuming.”
+
+“Yeah, that’s not much to go on. It could mean anything.” Kon took a breath and clasped his hands behind his neck. He looked up at the sky.
+
+“I’ll ask everyone I can think of for you,” Alden said.
+
+“Thanks. Details would be good.” He was still looking up. “I think I’d be panicking right now if I was built for combat. They’re not going to ask me to kill enemies with Reader of Records.”
+
+“True. You would not be my first choice among human weapons. Unless I was attacking Lexi. I haven’t forgotten what you did to him during combat assessment.”
+
+Kon snorted. “He never even thanked me for getting him into the program.”
+
+“You think punching him in the nuts was the key to his success?”
+
+“I talked him up in my interview, too.”
+
+He let go of his neck and looked at Alden until they both laughed a little.
+
+“It’s most likely a good job,” said Kon. “Having an employer who knows about me but who hasn’t introduced themselves seems strange, but maybe they aren’t sure when they’ll need me yet. Making a lot of money and seeing some more of the universe would be great.”
+
+“I’ll ask around. I’m sure Stuart’s parents will know things.”
+
+“They’re pretty important? If they can get me here so fast even when I’m assigned to someone else, they must be.”
+
+Pretty important. “About that…would you mind keeping a couple of things about this visit quiet at school?”
+
+“I was about to ask you for the same favor,” said Kon. “Because the last thing I need is Lexi finding out I’ll be summoned for unknown reasons by an unknown person. And…when I say it like that, it sounds like absolutely normal Avowed business. But still, knowing for sure something like this is coming up will make him impossible. He’ll say he told me so. Writher will reveal it can go supernova, and that’s just not on my schedule for Christmas.”
+
+******
+
+They toured the station, admired the swirling cocoon of sand art that surrounded it, and bought an assortment of items from the stalls. A large assortment. Once Kon had picked out some snacks for Mehdi and a curio box made by a local artisan for Everly, he started thinking about how disappointed everyone else would be that he hadn’t gotten them anything. And “everyone else” included their whole class and several people Alden didn’t know.
+
+He promised he would pay Alden back with his next stipend. Alden promised he wouldn’t let him.
+
+“I should’ve bought that exfoliating cloth,” Kon said, arms loaded as they headed toward the station’s teleportation point. “That was a neat exfoliating cloth, and Everly would probably like it more than a box.”
+
+“It was too interactive for me.” Alden glanced over his shoulder to check on a familiar figure in the station behind them. “I don’t want my washcloths to help me out.”
+
+The exfoliator had reminded him of the wound-sucking bandage he’d had the misfortune of using when he was trapped in that last flooded building with Zeridee.
+
+“Did you leave something back there?” Kon asked. “You keep looking.”
+
+“Nah. It’s fine.”
+
+Ryada-bess hadn’t left for the Rapport yet. She’d slipped into plain clothes and come back to the station. To admire it a little more, Alden thought. She was sitting near the poem she’d been standing on earlier.
+
+They’d both spotted each other. She’d nodded. He’d nodded. She hadn’t come over to say hello.
+
+“I think they’re just going to give you a present of some kind and send you back to Anesidora. If you have a single problem, or a question, call me. I’ve set you to ‘no charge’ on my contacts list, so don’t worry if it’s long distance.”
+
+“I’ll pay you back.”
+
+“You already paid me back by coming here. I owe you one.”
+
+Stuffing a chipper Kon and fifty souvenirs into an alcove, Alden found himself wondering which of Stuart’s family members would be meeting the Adjuster back at the siblinghold…and what they were going to think.
+
+******
+
+******
+
+“He seems like a joyful person.”
+
+Ryada was waiting on the steps in front of the station, holding out a silver cloth that looked like it was trying to devour her hand.
+
+“I wanted to thank him for helping us,” she said. “But I didn’t want to insert myself into what seemed to be a relaxed moment for the two of you. Will you give him this for me?”
+
+“I will, Hn’tyon Ryada-bess.”
+
+Her smile faded. “You don’t have to use the title.”
+
+“I was thinking…maybe when the title’s hardest to wear, you deserve to wear it most.” Alden peeled the exfoliating thing she’d just handed him away from his fingers and forced it into his bag. “So I used it. I won’t do it again, if that’s better.”
+
+When he looked back up, she was staring at him hard.
+
+“Poor Bithe,” she said finally. “He shouted at such a thoughtful person this morning. It was my fault, not his. I put everything on him, expecting it to help me, but it only hurt us both. Please don’t blame him for it.”
+
+“I don’t blame anyone. Sometimes…you just have a yell in your throat.”
+
+“Truth.” She pushed a purple curl away from her eyes. It sprang right back.“I hope that when you let yours out, the people who you care about won’t run away.”
+
+Alden felt his auriad tighten around his ankle. “Mine?”
+
+“I think you must have one in you,” said Ryada-bess. “When Stu-art’h says certain things to you, I see it. I don’t know what it is, but I think it will be loud.”
+
+She fought off the curl again. “Or maybe not. I’m not the smartest person, lately. I keep getting everything wrong. Not a proper wizard, not a proper knight, not proper hair…”
+
+One hand mashed the unruly strand to the top of her head. “I’ve been insisting on updates from the others even though they want me to be untroubled. Your soon-friend is being a proper votary today.”
+
+Alden tilted his head.
+
+“He’s successfully demanded that two angry knights go home and entrust the matter of dealing with Olget-ovekondo to him,” said Ryada.
+
+“Oh. It’s irritating that he can’t text me. Does he want me to leave now, too?”
+
+“You should…go assist him,” Ryada said, her lips quirking up. “He’d like that.”
+
+******

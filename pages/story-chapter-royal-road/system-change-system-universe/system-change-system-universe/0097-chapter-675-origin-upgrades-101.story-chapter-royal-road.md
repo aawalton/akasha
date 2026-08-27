@@ -1,0 +1,177 @@
+---
+id: 08eb82f8-8818-515b-a6de-048b9770da03
+page-type-slug: story-chapter-royal-road
+title: "Chapter 675: Origin Upgrades 101"
+slug: 0097-chapter-675-origin-upgrades-101
+partOf: system-change-system-universe
+position: 97
+ownLength: 2111
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3801931/chapter-675-origin-upgrades-101"
+royalRoadId: "3801931"
+---
+
+Chapter 675: Origin Upgrades 101
+
+Kitsch held the bridge of his nose between his index finger and thumb and sighed. "Young Miss! Yasmine!" He clenched his teeth. "How did it end up like this? What is the Master going to think?" One of the first things Yasmine had said when approaching the battle maniac was that nobody in their right mind would escort a Battlelust user, yet there they were, watching the bald-headed weird man destroy monster after monster.
+
+"Yay! Go Jace!" Yasmine, with her coal-black hair and green robes, hopped up and down while clapping. She turned and looked at Kitsch. "Stop complaining! I came here for fun, and I am having fun, am I not?"
+
+"You are..." Kitsch relented. "But after he obviously killed the World Boss, this whole planet has gone crazy. We're pushing our luck hoping not to be overrun." He slashed his sword, and a worm that popped out of the ground fell into two pieces.
+
+"Jace needs my help, though!" Yasmine countered. "Besides, you will protect me. You have to protect me. My father told you to, so you will."
+
+"Of course I will protect you, Young Miss," Kitsch sighed. "But this is still too reckless. And he was doing just fine without us."
+
+"You know that isn't true," Yasmine held her hand up in the air—conjuring a gray light—when she closed her fist, the gray light fell onto Jace. The Battlelust user's speed noticeably dropped and his blades seemed to become duller. "You know as well as I do that Battlelust users only grow their affinity during battle. Meditating on it doesn't do anything for them. That's why even some of the strongest Battlelust users in the universe are only mid-ranked Ascendants. Yet, those users make many Transcendents tremble."
+
+"I understand that, miss..."
+
+"Then you also understand that the best way for a Battlelust user to grow their affinity is to have someone standing behind him to debuff him so he can fight for even longer," she explained as she flicked her hand and tossed a curse Jace's way. The curse hit the Battlelust user, and the healing speed of his wounds slowed dramatically.
+
+"But why does that have to be you?" Kitsch asked. "Why must you follow this crazy man around and do... this?"
+
+"Because it's fun!" The woman's eyes were completely gray, and she had a childlike smile on her face. "And I really like Jace! No, young miss this, young miss that... And he isn't even scared of me."
+
+"Ugh..." Kitsch groaned. "How did we end up in this situation?" He muttered again as he watched the ghoulish figure turn and look at them. He had to hand it to Jace, though. The man's control over his Battlelust state had been rapidly improving. Kitsch had sliced his arms off a couple of times when he'd attacked them after Yasmine put a curse on him, but he hadn't had to do that in a long time.
+
+Instead, when the next curse hit Jace, he turned and looked at the two of them, then he smiled. The smile was so creepy that it sent a chill up Kitsch's spine. But even if Jace wasn't in control, it seemed that the beast had come to recognize how Yasmine was helping him. Either that, or he was just enjoying the harder fight. It was probably the latter.
+
+"Still, Young Miss," Kitsch started, "I wouldn't be surprised if most trainees have already either died or left this planet to report... and run away. If we don't go soon, your father may be worried."
+
+"Father will be fine. Let him worry. It'll be good for the old man," Yasmine said. "If you want to go back so badly, go ahead. I'm going to stay."
+
+"I prefer to keep my head on my shoulders," Kitsch replied with a sigh.
+
+"Then shut up and do your job," Yasmine huffed. "I haven't had this much fun in... well... ever."
+
+"If you say so..."
+
+"Besides," Yasmine looked at Kitsch—her eyes shining and the happy smile on her face—"imagine father's delight when he finds out we made friends and helped a Battlelust user with high Ascendant, if not Transcendent, potential."
+
+"Yes... miss..."
+
+***
+
+Derek's eyes shot open as a beeping noise and lights from the holo screen informed him that someone was outside his door. He stretched, rolled to the side of the bed, then slipped his boots on before standing up and walking to the door.
+
+"Yeah?" Derek yawned as the door opened to reveal Alex standing there.
+
+"It's been a few hours," Alex said. "I figured you were sleeping, so I waited and let you rest for a little while."
+
+"I appreciate that," Derek yawned again.
+
+"May I come in?" Alex asked.
+
+"Oh, go ahead," Derek replied and stepped to the side. He then closed the door, walked over to the bed, and sat down. Alex pulled the chair out from the holo desk and took a seat. "What is it?"
+
+"Oh, nothing really," Alex said. "I answered what questions father had. He seemed more interested in what I went through than you. I think he just didn't want to upset someone with your potential, so he didn't ask much about you."
+
+"That's good," Derek replied.
+
+"May I have the boots?" Alex changed topics. "I've made arrangements for them to be removed from the amber cube. It shouldn't take too long. They should be ready by tomorrow morning."
+
+"That's great!" Derek replied happily and flicked his wrist. His Starfury boots appeared in his hand... well, the cube with the boots encased in it appeared. He handed them over to Alex, and they disappeared. "Anything else?" he asked.
+
+"Nothing at the moment," Alex replied.
+
+"In that case, I have a couple of questions that I hope you can help with—seeing how you're so studious," Derek grinned.
+
+"I'll help if I can," Alex replied.
+
+"Do you know any ways to upgrade my skills?" Derek came right out and asked. "I have so many that are just sitting there with an upgrade possible but not available."
+
+"You do?" Alex asked, then nodded. "I may be able to help."
+
+"You think?" Derek asked.
+
+"Maybe," Alex answered. "First, you can obviously see 'Upgrade Possible,' 'Upgrade Available,' and 'Upgrade Unavailable,' right?"
+
+"I don't have any available right now, but I did manage to upgrade one," Derek replied.
+
+"Good, then you know the process and I won't need to explain that," Alex replied. "The ones with 'unavailable' are all skills that don't have anything to do with your class, yes?"
+
+Derek took a quick peek at his skills. Chain Lightning, Dismantle, Multi-Strike, and Rejuvenation all had 'Upgrade Unavailable' next to them. He nodded. "Yeah, that seems to be the case."
+
+"There are times when those can be used as the upgrade component to your class skills," Alex said.
+
+"What do you mean?" Derek asked.
+
+"Well... take the most well-known one, Meditation," Alex began to explain. Hearing his favorite and most useful skill being mentioned, Derek leaned forward. "That skill upgrades to Greater Meditation," Alex said, and Derek nodded along. "However, when Greater Meditation reaches its max, that's it... upgrade unavailable."
+
+"Oh..." Derek muttered and sighed. He'd really hoped for it to evolve into something even better.
+
+"Don't look at me like that," Alex replied. "I'm not finished."
+
+"No?"
+
+"No." Alex shook his head. "I'm sure you have some affinity-sensing skill, correct? Like Earth Sense or Water Sense. A skill that lets you concentrate and sense your element? Like with Water Sense, they can concentrate and feel a river flowing beneath the ground in a cave, or they can sense the water particles in the air."
+
+"I... do," Derek replied.
+
+"Then, when you reach max progression with both that sensing skill and Greater Meditation—which I know you haven't yet or you would have already known this—Greater Meditation can be used as the upgrade component to the sensing skill's next tier," Alex explained.
+
+Derek's eyes went wide. "That's how it works? I need other basic skills to combine into my class skills?"
+
+"No, no, no," Alex said, as he shook his head. "It works that way with some utility skills. But you're not combining a lightning skill with anything if you aren't a lightning user."
+
+"So, skills that aren't an affinity?" Derek asked.
+
+"Kind of," Alex replied. "But all skills can fall into some affinity category. It's hit or miss on what will work with your class, to be honest. And there's not a lot of information out there about the void affinity, unfortunately."
+
+"Yeah..." Obviously, the Void Emperor would be hoarding all that knowledge for himself.
+
+"But that's the most uncommon way to upgrade, anyway... though the easiest," Alex said. "Other ways include learning more about the skill, completing certain feats, gaining certain Titles, and most uncommonly, forcing an upgrade with a Skill Upgrade Token."
+
+"Right..." Derek replied. "And is it worth using a token if you have one?"
+
+"Do you... have a token?" Alex's eyes went wide.
+
+"Hypothetically," Derek replied.
+
+"Hypothetically?" Alex repeated, then snorted. "Sure... four times out of five, I would say yes," Alex said. "At least it is for any affinity I know of. It can basically give that skill a unique upgrade if it doesn't just upgrade it to what would have been the next tier. Obviously, I would never use it on a utility skill or sensing skill or anything like that."
+
+"I see," Derek replied. "So you're hoping for the skill to be different than it would have been if you used one?"
+
+"Yes, that small chance for the skill becoming unique is the greatest thing about the tokens. That, and obviously not having to spend the time to find out the true way to upgrade."
+
+"Got it," Derek replied. "So it's not really wasting a skill's potential?"
+
+"No," Alex replied. "Not at all. Just don't use it on a lower-tier skill. If I were you, I'd use it on nothing under A rank—maybe B rank if it's a good skill."
+
+Derek tucked that knowledge away and decided to leave it for Void Creation, Void Eclipse, or Void Travel. He especially wondered about Void Travel since it was S rank. Looking over his list, he frowned. "I have a skill that isn't part of my class that has upgrade potential," he said.
+
+"Then it's a skill that has chemistry with your class and likely one without your typical affinity," Alex said with a shrug. "All rules have exceptions."
+
+"Right..." Derek replied. He actually had two—Sweeping Slash and Time Prison. Sweeping Slash had been combined with a skill he'd gotten on Earth, and it was one of his earliest skills, and Time Prison was one he'd received with his class upgrade and had some of the qualities of the void.
+
+"Do you have a manipulation skill?" Alex asked.
+
+"No?" Derek said. "I have a channeling skill."
+
+"You... haven't upgraded your channeling skill?" Alex looked at Derek and shook his head. The young man stood and placed his hand on the wall by the door. After a few seconds, he came back. "No skill or aura under Ascendant level will be noticed from outside of here... though, don't use whatever skill you used when fighting the escort... I felt that all the way from my location at the time."
+
+"O...kay? Are you sure?" Derek asked.
+
+"Yes, you will be fine," Alex said. "Use your channeling skill. You can channel it into your hand, right?"
+
+"I can," Derek said. "You're completely sure I'm safe to use a void-related skill in here?" he asked again.
+
+"100%," Alex said. "Not even a Transcendent would be able to feel such a low-level skill from such a low-level user if they weren't inside here with us since I locked the room down."
+
+"Okay... if you're sure," Derek said, then slowly channeled the void into his hand.
+
+"Is that it?" Alex asked. "What else do you do with it?"
+
+"I... put it in my hands and feet... and punch and kick things. I can also push it into my weapon and project it. It avoids all armor and hits vital areas," Derek explained.
+
+"I... almost thought you were dumb..." Alex said. "But it just completely ignores armor?"
+
+"It does," Derek replied.
+
+"Then no wonder you haven't experimented... you haven't needed to," Alex replied, then handed Derek a small knife. "Project it into the knife."
+
+"Okay," Derek said and did as Alex instructed.
+
+"Hmm..." Alex rubbed his chin. "Seems closer to energy manipulation than an element..." he muttered. "Like... arcane..." Alex nodded, then said, "Put the knife down, channel it into your hand, then try to shape it into fire."

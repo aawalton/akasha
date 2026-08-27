@@ -1,0 +1,477 @@
+---
+id: 52404cee-6737-5057-96d3-3f8bb36882b8
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED THIRTY-THREE: Ripples IV"
+slug: 0134-one-hundred-thirty-three-ripples-iv
+partOf: super-supportive
+position: 134
+ownLength: 5799
+unit: words
+publishedAt: 2024-04-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1590388/one-hundred-thirty-three-ripples-iv"
+royalRoadId: "1590388"
+---
+
+*****133*****
+
+It was loud. The helicopter was still overhead, and a car alarm was going off. The rush of the wind had been joined by the sound of water sheeting down the pavement as it followed the slope of the bridge toward Apex. Somewhere behind Alden, a man was screaming profanities so vehemently that he sounded unhinged.
+
+But despite all of that, there was a kind of shocked hush from most people in the immediate aftermath of the…
+
+What was that? Alden wondered as he shucked his poncho and let it fall. The plastic had ripped almost completely in half along his chest, probably from catching on some part of the bike or car as he scrambled away from the water. He wanted full-coverage armor now.
+
+Saving his powers was important, but under the circumstances, he wasn’t willing to be stingy with them anymore. Shielding his body wouldn’t protect him from drowning, but for all he knew, the ocean was about to pick up a tugboat and throw it at him.
+
+He plunged his hand into his messenger bag and grabbed the second poncho.
+
+Shit. I didn’t lose entrustment, did I? He was actually great at following skill rules, even when he was distracted. They’d become second nature. But what had just happened was a major distraction. If he’d accidentally rolled around on top of the bag and lost skin contact at the same time, if it had been temporarily airborne during that drop…
+
+He focused, wrapping his skill’s magic around both bag and poncho at the same time, preserving them then hastily undoing it so that the strain of holding two separate objects with Bearer wouldn’t start to take a toll.
+
+Good.
+
+Preserving part of an entrusted stack—or a single item from inside an entrusted bag in this case—would normally end entrustment on the non-preserved portion. Alden was redefining his burden when he did that, separating it out from the things that would no longer be under his protection. What he’d just done was his way of making sure that he could bear the poncho and the bag separately from now on. Two burdens instead of one.
+
+He slicked his hair back in a partially successful effort to make it stop dripping in his eyes, then threw on the poncho, ignoring the arm holes and just wearing it over himself like a big plastic bag.
+
+He’d accomplished his manual wardrobe change quickly.
+
+His heart was still drumming with adrenaline. People were still picking themselves or their companions up from where they’d fallen, looking around with confusion and fear.
+
+Alden’s eyes landed on a pink stiletto heel on the pavement nearby. He had the beginnings of a thought about how the owner must have abandoned it because it was bad for running, but he promptly forgot to wonder about something that mundane. The water rushing past the shoe was starting to interact with it oddly. The liquid piled around and on top of the stiletto, like it wanted to cover it.
+
+He stared as more and more water snuggled up to the shoe until it was a vaguely stiletto-shaped blob nearly as tall as his knees.
+
+Oceanic anomalies. Avoid seawater.
+
+I’m currently drenched in seawater.
+
+His poncho had helped with the light rain, but it hadn’t done nearly as much for him when it was ripped and all of the icy water that had crawled up to encase that lamppost had suddenly decided to let go. His jeans were soaked to the hips, and his shirt was saturated. His few dry spots weren’t going to stay that way for long.
+
+Some freaky magic thing is going on. Is just being wet dangerous? Should I strip and try to dry off right away?
+
+But I need to keep up with everyone.
+
+The splash of approaching footsteps drew his attention to Dee, who’d been clinging to a van a couple of car lengths behind him.
+
+“Are you all right!?” She shouted the question way too loud in his face.
+
+“Yes!”
+
+“Let’s go! Let’s run. I don’t think my bicycle is the best choice with this much flowing water.” She picked the bike up anyway and lifted it over her head as she started forward. “Stick to the center of the bridge!”
+
+The bridge.
+
+“Is it okay?” Alden asked, hurrying after her. Their feet kicked up small waves. “The bridge dropped, right? Is it broken?”
+
+It looked all right to him, but the thing about bridges was you couldn’t really see what was going on below them when you were standing on top of them.
+
+“All I know is we’re not at the bottom of the ocean. Since neither of us can fly, let’s hope the pontoons and the anchoring are all still doing whatever it is they do!” She was a lot less composed than earlier. She kept running fast then stopping for him to catch up. “You can’t fly, can you? Not holding that one back?”
+
+“No. I’m a Rabbit. I preser—”
+
+“Ha! Good one! Not the time for jokes, though! There’s chaos attacking right now.”
+
+“It’s not chaos,” said Alden. “This is just magic of some kind.”
+
+The watery assault hadn’t touched his authority. Nothing on the bridge was being degraded or transformed in any way he could see.
+
+And he was so grateful for that he couldn’t put it into words.
+
+Is the System holding it back somehow? Is it still out there at Matadero?
+
+Dee stopped beside a hatchback that had water crawling up the wheels, watching it cautiously. “I really want to blast this and see what happens. So I’ll know just in case…”
+
+Alden was looking ahead of him as he ran past her, trying to spot his classmates. Klein had already carried Jupiter, Everly, and Njeri forward to tighten up the group. Maricel had been with the instructor when the water had risen. As for the front runners, they were probably blasting toward Apex even faster now. They’d be off the bridge in no time.
+
+I should be able to see the guys at least. Haoyu, Lexi, Kon. Where’s Mehdi’s lion coat?
+
+He wasn’t too worried yet since he could feel the weight of his entruster’s presence up ahead. Precise distance wasn’t so easy to determine, but direction was. If Haoyu had fallen off the bridge somehow, Alden would know.
+
+A woman suddenly appeared out of thin air thirty yards ahead of him, distracting him from his search. Her bare calves were sticking out from the bottom of a fluffy white bathrobe. Her feet were shoved into a pair of boots similar to the ones Lucille had worn for the obstacle course. All of that, plus her teal hair whipping around freely in the wind, made her look exactly like someone who’d just been given a few seconds warning before the System stole her away from a peaceful night in.
+
+Plopstar.
+
+She leaped onto the roof of a minibus in a single bound and turned to face the west. She lifted her arms over her head.
+
+[Warning: Hazard in your area. Do not interfere with Avowed on assignment. Avowed on assignment are indicated on your interface.]
+
+A dark red interface-generated halo, very similar to the targeting halo Alden had previously used except for the color, appeared over Plopstar’s head.
+
+Some distance away, tiny white lights formed high out over the water—more than Alden could quickly count. A crackling sound filled the air as they expanded and gained a fuzzy quality, like the edges were blurring into the air around them.
+
+They shot toward the waves all at once, so fast and bright that they left trails in their wake. When they hit the surface, they burst. There was a sharp, loud pop of sound, and steam boiled up instantly, the white cloud of it lit from beneath with the rapid flashes of the hyperbole’s magic as it ricocheted around down there, still burning hot.
+
+Assuming Alden’s knowledge about Plopstar’s skill was up to date and she was using it to full effect, the area she’d just fried was the size of a couple of city blocks. Through the thick white steam, he couldn’t see what effect it was having on the ocean other than heat generation. Was there something down there to hit? Was she punishing a bad patch of water?
+
+He didn’t have time to stop and admire her work.
+
+As he sprinted by her, another field of tiny stars was forming over the ocean, and up ahead, as if to mirror them, the lights of helicopters and spells rose above Apex as people sought the safety of the sky.
+
+******
+
+A minute later, Alden was dashing past a truck with the name of a flooring company painted on the side when he spotted a girl in a pink shirt and a denim skirt trying to open the latch on the door of the trailer.
+
+“Maricel!”
+
+She was so focused on her task she didn’t seem to hear him. Instead, she said something in Tagalog and threw her right hand up into the air swiftly. A clamor of violent bangs sounded from inside. The whole trailer bounced on its tires and rocked back and forth.
+
+Maricel was still facing the truck. She leaped back into Alden’s lane, swept her hand through the air hard again, and the door burst open violently. Stone slabs and tiles crashed onto the pavement right behind the trailer. A pink granite countertop, dragging a wooden A-frame it had been strapped to with it, smashed into everything else with a clatter then broke free of the frame and flipped over onto the empty car parked behind the flooring truck.
+
+The end of it went right through the windshield.
+
+A couple of witnesses yelled, none of them as loud as Maricel herself.
+
+Alden dashed toward her. “Maricel!”
+
+She spun to face him; her brown eyes were huge.
+
+“I thought it would be little things!” she said. “Like the sidewalk bricks at school!”
+
+She made a gesture with her hands in front of her, as if she were trying to show him an imaginary, innocently-sized paver.
+
+“Where’s Klein?” Alden asked. “The others—”
+
+“He got teleported before we caught up to them. Before the water did that…Alden, the bridge felt like it was falling!”
+
+Up ahead, Dee was bounding along with the bike in her arms. She didn’t seem to realize she was leaving them behind yet, but Alden wasn’t worried about it. The uni student had been checking over her shoulder for him every few seconds.
+
+“What do you mean he got teleported? He just told me he’d reject it.”
+
+“He couldn’t. It wasn’t a rescue teleport. It was an official emergency summons to help somewhere else. He barely had time to give me this.”
+
+She held up Mehdi’s infogear watch.
+
+The small screen flared, and an incongruously soothing voice announced that the neighborhoods around Nilama Marina should be avoided due to heavy flooding.
+
+“The System has also ordered local evacuations of the following areas due to increasing risks,” the voice said. “In Apex: Punta de la Luna, Albatross Cove, Sānjiǎo Beach…”
+
+So the bridge gets Plopstar, and somewhere else gets Klein, thought Alden while the voice kept naming locations.
+
+Maricel turned back to look at what she’d just done. A small cloud of dust was hanging over the scene of the crime. “I saw the word ‘flooring,’ and I thought there would probably be something I could use. But I couldn’t see inside. I didn’t mean to break—”
+
+“It’s fine. Let’s just go.”
+
+“Wait! I want something. In case the water comes again.”
+
+Oh, thought Alden.
+
+She was trying to find a way to fly. That sounded awesome, but…
+
+But you can’t move as fast while using your shaping. There was a reason we helped haul all that dirt around the track instead of letting you do it yourself. What if you wear yourself out? Do you have some idea of how much your skill has recovered since gym earlier? That countertop looks heavy, and if we start piling bodies on top of it, how much weight can you hold? Is it worth it to try this, or should we keep running and trust the bridge?
+
+Alden had questions, but no time to stand around figuring out answers.
+
+Let other people decide what to do with their own magic, he told himself. She knows her powers better than you do, and you’ve got enough to worry about on your end of things.
+
+“Hey!” Dee shouted. She’d realized Alden was lagging, and she was motioning for them with an arm.
+
+Maricel lifted the counter into the air. The night was turning white from all the steam Plopstar’s skill was creating.
+
+Alden’s timer said he had a little under five minutes left until he got to leave. If he was going to help Maricel with the countertop using his own skill, it would take him a couple of minutes to secure a slab of stone with some of his supplies and even start running with it. So he was out.
+
+“All right. You bring it with us. But do it really fast?” he suggested. “We need to catch the others.”
+
+Dee was back with them in an instant.
+
+“Aha!” she said upon spotting the pink granite slab floating in front of them. “I see what you’re thinking, but we need to move. I know Shapers like to have a lot of control, but you can push for speed instead. Unless you’re going to ride it? That might be a good idea if you want to make your own way. Or if you could take Alden’s weight all the way to shore, too…”
+
+“I’m all right running,” Alden said. “My timer is coming pretty soon.”
+
+An odd look crossed Dee’s face at that, but she was more focused on Maricel.
+
+“I was going to try to get to the others and help everyone,” said Maricel. “So that if the bridge falls or the water…climbs back up here?…we have something.”
+
+“Out over the water then!” said Dee, pointing. “If you don’t have time for control, keep it out over the ocean and if it falls it falls, okay?”
+
+“Yes!” said Maricel. “Yes. Okay. I see.”
+
+“The instructor’s gone,” Alden reported as they set off again. “He got summoned to do something.”
+
+Dee froze for a split second. “I wondered! That’s better than him getting taken by the chaos water. Um…so it’s just us now. And the others if we catch them. I’ll stay with you all. Let’s keep at it!”
+
+It’s not chaos water. I guess I might’ve thought so too if I didn’t know much of anything about chaos….
+
+The Disaster Alert notices were still listing the probability of chaos exposure as low.
+
+Maricel’s power was stronger if she was close to the thing she was shaping, so they crossed the highway again and ran along the eastern edge of the bridge. Alden was out in front now; Dee was at the back. They were both trying to make sure Maricel could run without worrying about impediments. The countertop was soaring along beside them like a magic carpet, occasionally shooting forward rapidly then stopping as Maricel tried to find a rhythm that would be easier on her.
+
+If the bridge so much as quivered, she would pull it back in and they would climb aboard.
+
+[Disaster Update: Oceanic anomalies resulting from spill of a magical contaminant at Matadero continue.]
+
+Alden kicked an abandoned backpack out of their path. Rain slid off of his poncho. He kept preserving it and unpreserving it, trying to get the shape right for running.
+
+[Observed effects include: forced submersion—usually but not always of elementally defined objects, rapid motion of submerged materials, sudden influxes of water in limited coastal areas]
+
+His timer hit the three minute mark. He whipped his head around, trying to see through the rapidly thickening white mist. He felt like he was running through a humidifier. There were no more motorcycles or mopeds going by anymore. That was a good thing, since it lessened the risk of them being mowed down, but at the same time, it made the bridge feel deader.
+
+Almost there. We have to be getting closer.
+
+“Listen!” he shouted back to the others. “I’m getting teleported out soon. Before we hit the end of the bridge. Should I—?”
+
+Haoyu.
+
+Alden suddenly realized he was very nearby now. Still up ahead but not far. To the left a little.
+
+“Haoyu!” he called.
+
+He should be way ahead of us. Why isn’t he?
+
+“Haoyu!”
+
+“Alden?”
+
+A moment after Haoyu’s reply came toward him, there was a thump as a pair of feet landed on the roof of a car two lanes over. Mehdi. His coat was gone, and the thin black t-shirt he’d been wearing underneath was starting to sag at the neck from its own sodden weight.
+
+“Is Klein with you?” he demanded.
+
+Alden was relieved to see any member of the class looking unharmed. “No! He’s gone. Teleported!”
+
+Mehdi groaned.
+
+“Why aren’t you moving forward?” Dee shouted.
+
+“There was a kind of traffic pileup. We only just sorted it out. By the way, if we break some things doing a good deed how much trouble do we get in?”
+
+******
+
+Alden ran up on a scene so superheroical that he might have stopped to stare at it on another day. Crunched vehicles were in a pile against the barrier. A compact car had been sliced in thirds, then the thirds had been moved. Mehdi’s coat was draped over one of them. Another car with a crushed side, deployed airbags, and the driver door ripped off was sitting in the road.
+
+There was Haoyu, crawling out of one of the wrecked cars and handing a purse to a short lady with gray hair and a pair of infogear glasses hanging from a beaded loop around her neck. She patted his arm and said something in a language Alden didn’t recognize, but it was probably some version of “What a nice young man, you are!”
+
+There was Lexi with one sleeve of his shirt torn, standing in the rain with Writher blazing around him, sizzling whenever a drop touched it.
+
+And there was Kon, blood pouring from his nose and mouth as he looked down at something in his palm.
+
+Well, that last one doesn’t quite fit in. And Lexi would cut a more traditional heroic figure if he wasn’t yelling at that dude in the baggy pants
+
+“I wouldn’t care if your girlfriend was giving birth right this second. That’s not my problem, it doesn’t make you special, and we’re not obligated to take you anywhere. My brother almost died helping you already! Now get lost.”
+
+“Kon almost died?!” Alden exclaimed. And someone was having a baby? And it looked like Lexi had been chopping things with Writher.
+
+Apparently this section of the bridge had been more exciting than most.
+
+“Kon hit himself in the face with a car, but he didn’t even pass out,” Mehdi said. Then he went on trying to explain to Dee that a massive sphere of water had swallowed a truck and then slammed it at an angle across all four lanes of traffic, causing the mess in front of them now.
+
+“We were a little farther along when all of the water came. We saw it happen, and some people who’d been in their cars were trapped, so we ran back—”
+
+“Alden!” Kon exclaimed. “Maricel!”
+
+More blood spilled down his lower lip and joined the diluted rivulets of it pouring down his chin onto his shirt.
+
+He had a goose egg on his forehead, too.
+
+Before Alden could ask how a person could hit themselves in the face with a car even if they were engaging in rescue efforts, Haoyu, Kon, and Lexi were all surrounding him.
+
+“I’m so glad you’re all right!” Haoyu said. “The water—!”
+
+“Alden, I had a breakthrough with my powers!” Kon was beaming.
+
+“Kon, give him those right away! Maybe they can be put back.” Lexi tried to pry open his brother’s fist. Writher had phased out and gone back to its short, inactive mode in an instant.
+
+“What?” said Kon, blinking at Lexi. “Hey! That’s right! He can do his…would you hold these for me, Alden?”
+
+Alden stuck an arm through one of the poncho sleeve holes just in time to receive the offering. He almost wished he hadn’t.
+
+“These are teeth!”
+
+To his credit, he didn’t drop the two bloody incisors.
+
+Kon opened his mouth. There was a big gap at the top of his smile. “I was reading one of the wheels on a car that was pinning the others, and I decided to go for it! Not a repair job—moving it back into its original position. It’s all about getting the read right with my skill. Once I did it, my spell dragged the whole car with it even though I was only casting on the wheel! Faster than I expected, but—”
+
+“Why are you giving me your teeth?” Alden interrupted.
+
+“So that you can keep them safe until we get him to a healer!” Lexi shouted.
+
+Haoyu snorted at the look on Alden’s face. “He means with your skill.”
+
+“Oh!” Duh. Of course that’s what they want. “Nobody’s ever handed me teeth before. That came at me kind of fast. Sorry.”
+
+I guess I stick them in the bag and then get Haoyu to re-entrust it all?
+
+“Don’t lose them.” Lexi was glaring like he thought Alden might just toss the teeth into the next convenient trashcan he found.
+
+“I’ll do my best…”
+
+“Miss? Miss, are you a Shaper?” said a voice. “Can you take me to F-city on that?”
+
+The speaker was the man Lexi had just been yelling at. He looked like he was around Dee’s age, and he was wearing a tanktop that said Club Dandelion on the front. He’d hurried over to them to point at Maricel’s hovering countertop.
+
+“Oh,” she said. “I’m so sorry. But we’re going to—”
+
+“I’m a Shaper, too! I’m only a D-rank, but my timer’s over an hour for some reason! My girlfriend’s in F, and she’s pregnant.”
+
+Lexi rolled his eyes. “He keeps bringing that up like it’s a spell that will force us to carry him seven kilometers across a possibly sinking bridge! Go back to Apex! We already saved you!”
+
+“This guy was trapped in his car by the pileup,” Haoyu explained. “We got him out, but he’s trying to get to F.”
+
+“I’m not talking to you!” the man spat at Lexi. “The lady can make up her own mind—”
+
+“No,” Dee said, stepping between the man and Maricel. “Maricel. Boys. Can’t remember everyone’s name, sorry. But we’re all heading straight to Apex. Right now. Stay together. If you get way ahead of me for some reason, don’t stop to wait and don’t stop to deal with anything else.”
+
+The man looked pissed off.
+
+“You ought to be running to Apex, too. We’re almost there. You’re being unreasonable, but that’s fine with me,” Dee said to him. “As long as you’re not bothering the kids.”
+
+“They’re high ranks.”
+
+“They haven’t even been Avowed for a year. I’m a high rank. And I’m not escorting you across The Span in the wrong direction either.”
+
+Lexi grabbed Kon by the hand and dragged him forward. They all chased after him. Dee lingered behind.
+
+“That old lady we helped is as fast as us,” Mehdi said. “Look at her run.”
+
+“I feel kind of bad for that man,” Maricel muttered, sending the countertop ahead of them a short ways, stopping it, then sending it ahead again in what she seemed to have decided was a good rhythm for her.
+
+“Don’t,” said Lexi. “He’s had more than enough time to make it back to Apex. He didn’t use it. Some people make their own problems.”
+
+“Probably thought he’d get teleported out early,” said Mehdi.
+
+“I think a lot of people thought that,” Haoyu answered. “Did you hear some of them yelling about it? They were assuming the System would use Apex rescue priority numbers. It’s like they all forgot the System doesn’t work for Anesidora or follow our rules. And if it was a normal day, it would probably have burned through the ET allotment it gives us in seconds and nobody would be getting transported. It’s working according to its own—”
+
+“Guys, about the teleport,” Alden interrupted. “I’m leaving.”
+
+“What’s your time?” Haoyu asked, looking over at him. “Don’t worry about it. We’ll be hitting the end of the bridge really soon. If not for all this fog, we’d be able to see it. We can head up to the top of a sturdy building or—”
+
+“I’m teleporting out in just over a minute,” Alden said quickly. “Should I take some of you with me? I can usually hold people through teleports with my skill, so I don’t see why I wouldn’t be able to now.”
+
+“What do you mean a minute?” Mehdi exclaimed. “No you’re not!”
+
+“Is it really a minute?” Lexi demanded.
+
+“Why would I lie about a timer?” Alden said. Lexi was so tense he was making Alden feel calm by comparison.
+
+He needs Peace of Mind.
+
+“Why are you teleporting out before the S-ranks?” Mehdi protested.
+
+“I’m staying. Mom’s in Apex,” said Haoyu. “I’m really hoping I’ll run into her, and you don’t know where the System is going to put you. It could be a safe location down in F.”
+
+“Take Kon.”
+
+“No! Lexi, I’m missing teeth not feet. I want to join up with the others and help!”
+
+“You have a head injury.”
+
+“You’re freaking out about nothing. It’s just a tiny lump. And my own timer’s shorter than the rest of yours any—”
+
+“The water’s getting higher!” Maricel said suddenly. “Everybody—”
+
+They didn’t need telling twice. The second she lowered the countertop, they were all scrambling onto it. Haoyu hooked a leg through the hole that had been cut for some unfortunate homeowner’s kitchen sink and grabbed onto one of Alden’s ankles and one of Lexi’s elbows as they all crowded together. Maricel, sitting in the center of the counter herself, lifted them.
+
+Alden didn’t complain about the strength of his roommate’s grip. If Maricel shaped just a little wrong, and they tipped…
+
+Actually I wouldn’t fall very far right now.
+
+She was keeping them just a couple of feet above the water on the bridge.
+
+“It’s the same thing as last time.” Kon’s voice was strained as he watched the ocean build up on the roadway, the side rails, the lampposts. “Maybe whatever Plopstar is doing isn’t helping?”
+
+“Someone’s ordered her to fight the ocean. Give her time,” said Mehdi.
+
+“Maricel, how long can you hold this much weight?” Haoyu asked.
+
+“It’s fine,” she answered. “I’m sure I could get us all the way to the end of the bridge like this. But…I would rather not carry anyone else if I don’t have to. Just in case.”
+
+There was a groaning, crackling sound from somewhere behind them.
+
+It could have been anything, but Alden’s imagination conjured visions of The Span—put under pressures that even the most creative magical engineers probably hadn’t anticipated—beginning to snap into pieces.
+
+“You’d better take us higher,” Lexi said quietly. “Before someone runs up and decides to invite themselves on board. Anyone who sees us is going to see a lifeboat with plenty of room, and they won’t listen to you when you try to tell them there’s a limit.”
+
+As if the illustrate his point, Dee’s voice called, “Room for two more!?” just then. The man who’d been trying to get help crossing the bridge was with her. The water was piling higher this time than it had before. It was well past their knees.
+
+Alden’s heart raced watching it, wondering when it was going to start pulling the bridge down, and then…it just went back to being normal water suddenly. Like it had changed its mind.
+
+There was another thunderous crash as the water fell away from The Span and back into the Pacific. Seaspray filled the air.
+
+“Whew!” shouted Dee, wading toward them. “That’s a relief, but let’s not trust it too much. I got this gentleman to agree that Apex wouldn’t be so bad after all.”
+
+“Dee,” said Lexi, “Maricel’s not sure—”
+
+“Of course there will be room!” Maricel’s voice was higher than usual. She looked at Lexi and lowered her voice. “I can make it work.”
+
+“You won’t have to,” Alden said, staring at his timer. “I’ll be disappearing, and I can take people with me. Two or three at least.”
+
+[Teleportation Priority Assigned: 23 s]
+
+“Dee!” he called, whipping his length of paracord out of his bag and thrusting it toward Haoyu. Since he was heading toward safety, the others might get more use out of it. “I’m teleporting out in twenty seconds! Does anyone want to come?”
+
+“ME!” shouted the man in the Club Dandelion shirt. “Take me, man!”
+
+He practically threw himself on top of Alden.
+
+“I don’t know if I’m going to F,” Alden warned. “I don’t know where I’m going at all.”
+
+The man laughed and slapped him on the shoulder. “I’ll go with you wherever. It’s fine! It’s fine! We’re all in this together now, right?”
+
+He was staring down at the water and breathing hard.
+
+Alden tried to muster some sympathy for the guy. Meeting him when Lexi was yelling at him hadn’t been the best first impression.
+
+“That’s right,” he said, shifting targets regretfully. “Let’s go.”
+
+He would’ve preferred to take any of the others. He would’ve preferred to take several of the others at the same time. But Haoyu staying meant Lexi was staying. Kon wanted to reconnect with the class and he wasn’t leaving Lexi. Mehdi said he wasn’t a coward…whatever that meant. And Dee felt obligated to see the students to safety in Instructor Klein’s absence.
+
+They were less than a kilometer from the end of the bridge. At least Alden would be getting this person out of their hair and lightening Maricel’s load a little in the event that they needed her for the final stretch.
+
+Always accept teleportation away from bad situations when it’s offered, you guys, thought Alden, gripping a frozen Mr. Dandelion as the timer approached zero. Always. Don’t hesitate.
+
+Sometimes, the chance for an exit didn’t come your way again for a long, long time.
+
+It was a confusing teleport.
+
+Alden exhaled, and the bridge disappeared. Then, he was standing in a teleportation bay at the TC, arms tightly wrapped around one heavy passenger. He had only a second to see the space and take it in. The symbols covering the arched ceiling and floor were burning so white that they hurt his eyes. The air was stingingly frosty, and the floor was covered in a layer of water with actual shards of ice floating in it. People were calling out what sounded like orders to each other from beyond the metal door.
+
+He inhaled and smelled a very faint mildewy smell. Like an Artonan jungle?
+
+Then he was stumbling out of a completely different teleportation alcove.
+
+He’d expected to end up on top of a tall building, in some kind of anti-chaos bunker, or possibly back at Celena North. Instead, he wondered if he might have left the planet entirely.
+
+He was in a long, rectangular room lined with windows on three sides. All of them were covered from the outside by heavy wooden shutters. The air was warm, and the space was pierced by sharp shadows thanks to the unusual lighting; chubby glass lamps were evenly spaced along the floor beneath spiky potted plants. A pair of double doors carved with a logogram that meant “welcome” stood near the teleportation alcove. And the floor of the room was a dizzying puzzle of wooden stars and diamonds all pieced together, each one a slightly different shade for a muted rainbow effect.
+
+“System, did you send me to one of the Triplanets?” Alden asked.
+
+The System was too busy for boring questions like that, though. Which, on its own, was enough to tell him he was still on Earth. The other Systems would be functioning like usual.
+
+He wondered if Earth was even listening to him right now. That teleportation bay had looked like it was in distress.
+
+Did it accidentally bring the ice in from somewhere or does the equipment freeze over if it’s being used a lot?
+
+He let Mr. Dandelion go, and the man came to life at once.
+
+“Whoa!” he said, staring around. “Just that fast. And…holy…this is the Artonan Ambassador’s residence!”
+
+“It is?”
+
+“Yeah!” He laughed. “They dragged us all the way here to see the floor when I was a kid. For a school trip. Wouldn’t let us go any further inside, but we got a lesson about all the different kinds of wood they’d built this place out of while we ate wevvi popsicles and listened to some weird music. I picked the right guy to hang out with!”
+
+You didn’t really pick me. I was just convenient for you.
+
+“So we’re in F?” Alden asked.
+
+“No. This place is in Punta de la Luna. Apex.”
+
+Then why are you excited?
+
+“Didn’t you want to go to F?” Alden reminded him. “To find your girlfriend?”
+
+“…yeah. That would be better. But we’ll be safe here, won’t we? I bet the Artonans built it to survive anything!” The man was walking confidently toward the double doors. “Are you someone really important? Big news S-rank?”
+
+I wonder if the girlfriend really exists.
+
+“I’m a B-rank Rabbit. Hold on. I need you to entrust me with this bag.” Kon’s teeth were in there. He needed to re-preserve it all thanks to the target swap he’d had to do to get this guy here.
+
+“Some wizard’s favorite Rabbit, eh?” The man grinned. “Good for you!”
+
+Before he could touch the doors, one of them swung open and an Artonan carrying a tray covered in handleless mugs stepped through. He had dark purple hair so long his braid almost brushed the floor, and his eyebrows had an arch to them that made him look a little worried even though his expression was neutral.
+
+He frowned at Mr. Dandelion, eyes flicking up and down, then turned to Alden.
+
+“Alden Ryeh-b’t.” He bowed low. “I am very honored to meet you. I am very sorry for the nature of the occasion. The Ambassador sends his wishes for your long life and invites you to use one of our escape flyers until this perturbation has ended.”
+
+He held out the tray.
+
+“Before you go, I have prepared a selection of many teas for you!”

@@ -1,0 +1,507 @@
+---
+id: a5536de0-490b-5126-8cb8-a05f1a211af9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 155: Halluria "
+slug: 0075-chapter-155-halluria
+partOf: the-calamitous-bob-stubbed
+position: 75
+ownLength: 6038
+unit: words
+ownProgress: 6038
+publishedAt: 2024-03-01
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1538075/chapter-155-halluria"
+royalRoadId: "1538075"
+markedReadAt: "2026-06-29T21:17:25.306Z"
+---
+
+Farren slowly made his way down the slope atop a white horse, the temple guard trailing him at a respectable distance. She couldn’t read the Hallurian leader at all. His face remained hidden behind the closed helmet while he stood like a stone statue. As for his men, the warborn followed the shape of the Voice with sullen glares. Farren certainly had an uphill battle facing him. He stopped then dismounted.
+
+His dark hair suddenly glowed with a golden radiance. Neriad was here to bring his assistance. Farren spoke loudly and Viv realized she could hear him despite the distance between them. His Hallurian was surprisingly decent, much better than Viv’s.
+
+“For centuries, our people have fought and died on the same stretch of land. For centuries you have come for us and we have sent you away. We know each other well through our blades. And we have spilled enough blood to fill a sea.
+
+“But now, things have changed. You have been invaded. The enemy has swept you aside and forced you here, away from your cities into the desert where nothing grows. You have no food and no water.
+
+“Despite this, I see you are not broken. I acknowledge you as warriors and recognize your spirit. What I ask is not your surrender. I know I will not get it. What I ask is that you stand side by side with us to fight the enemy you were going to face anyway. We will share our water and our hearth. We will extend a truce. And when this is done, you can return to Halluria to reclaim what is yours and we will not stand in your way. I do not make demands of you. I extend a hand in friendship, Hallurians, that we may fight together instead of against each other for once. Give us a truce, Hallurians. Join us as humans as we will join you, and we shall defeat your foes together.”
+
+For a while, Farren’s words hung in the air between the two armies like a tantalizing promise. Soon, however, a group of three cloaked figures made their way out of the inner camp to the edge of the Hallurian formation. They wore plain, white facemasks and their people split like the red sea to let them through, equal part terror and respect.
+
+“Is it good or is it bad?” Viv whispered to Rakan who was by her side.
+
+“Hmm. Neutral? I guess? Farren’s still breathing but the faceless are fanatical. I, uh, I think Farren should come back.”
+
+Viv activated the communicator towards Lorn. The temple guard acknowledged her with a grunt.
+
+“Those are faceless. Get him back to us.”
+
+“I cannot. He is not in active danger and will refuse,” the guard replied between gritted teeth. “He wants to try.”
+
+“Fine.”
+
+Maybe Viv was wrong and Farren would pull a miracle. She watched the spectacle enfold with trepidation. The faceless trio stopped by the warlord and stood there, unmoving. Farren remained still as well. He exuded benevolent patience.
+
+Then, the warlord laughed. It was not a good laugh. It spread like wildfire among the gaunt warborn and it rang hollow and wrong. A cacophony of insane cacklings that drove home that the persons there had left their sanities behind long ago.
+
+“Enough, get both out of here,” Viv said, and this time she infused her voice with power, but Lorn was already moving along with the horses.
+
+“No,” Farren replied.
+
+“Sir…”
+
+“No, go now. It’s too late.”
+
+“What?”
+
+“Go NOW.”
+
+Farren stood where he was and Lorn was forced back, possibly by a skill. The escort turned around while the Voice remained. For a beautiful moment, Viv though the warlord would let him go as he extended a hand in a gesture that could theoretically turn into a ‘fuck off’.
+
+A green flame around a black heart grew from the open palm. Viv recognized it only too well. There was only one god who granted that sort of deleterious magic to their followers.
+
+“Efestar.”
+
+The warlord took his time at first, but he accelerated as soon as Viv started casting. The flame left his fist then went through Farren’s chest. The young man collapsed. He was dead on the spot.
+
+The three faceless immediately cast something that looked like a clustered artillery spell. It felt dangerous to Viv’s senses.
+
+“Viv?” Rakan asked.
+
+“Everyone, Engage!”
+
+Her voice carried through all the communication devices across her forces. As on, the Harrakan line was covered in shields while the men advanced, the One Hundred heading the wedge. They walked down.
+
+Viv shadow stepped to her tank and activated her aegis. The cluster attack was now descending on the spot she’d been.
+
+“Aspect of the Guardian. Durandal.”
+
+The hive pattern shield shone white, then the interception spell hit a cluster which detonated midair, causing a huge explosion. Some of the other pieces were still falling so she busied herself interrupting them. Spells roared from her left and right where Lana and Sidjin were already on the offensive. The last ones hit her shield head on. She felt a small drain on her reserves.
+
+As expected, the faceless had a small library of spells but they mastered those to perfection.
+
+“DO YOU SEE NOW?” a voice spoke in her mind.
+
+“DO YOU SEE WHAT HE STANDS FOR?”
+
+Furious, Viv fed a lot of power into a simple prayer to Neriad, more power than it had cost to stop the faceless attack.
+
+“I know what he is and I also know what he could become. And is this really the right time for a gotcha moment, you vindictive prick?”
+
+Her tank soon crested the hill and she saw the battlefield in its entirety. The warlord was hyping his men who were even now walking up the incline, starving as they were, in complete violation of common sense. Her soldiers were walking down with anger slowly roiling in their hearts in a buildup of violence. They were waiting for an order. They were waiting for her. Viv put the maximum power into her sound enchantment.
+
+“For the black tide. CRUSH THEM.”
+
+With the One Hundred heading the formation, the Harrakan line surged down the slope in a wave of fury and metal. By her orders, all of the crossbows focused on the warborn exclusively. Some hid behind shields, most weaved their weapons to stop arrows. It didn’t make a difference. A Harrakan bolt could not travel as far as an Enorian arrow, nor could they shoot as fast. But what they did have was penetration.
+
+The first three ranks of warborn simply collapsed in a mist of blood, overwhelmed in an instant. The rest fell faster than they could come up. Viv fired her own artillery at the faceless who were now focusing on her, their own attacks pinging uselessly against the shield protecting her front rows. Far to the left, the Knights of the Blue Roses made first contact against the militia and just rolled over them.
+
+Viv’s attention turned to the warlord. A black cloud rolled over him, forcing the bolts to ping away. Interestingly, some of the bolts were enchanted by the markswomen and they still had no effect. She could always leave him to die from power overuse but that didn’t feel right.
+
+“Solfis, I’ll kill the faceless first. Keep our friend entertained.”
+
+//Do you need him dead?
+
+“I will need a word. Be sure to show his weakness to his men.”
+
+//It shall be my pleasure.
+
+//SWITCHING TO DUELLING MODE.
+
+Viv cast spell after spell after the faceless. Their leader raised a fist and a green light surged, striking dozens of militiamen whose bodies burnt to a charred husk in an instant. A Green shield rose from the ground to encompass them. Her artillery spell hit it with violence, leaving deep ripples on its surface.
+
+The One Hundred were the first to hit the shrieking, bleeding mass of the warborn. Their cold rage turned them into a wall of steel that no projectiles could reach thanks to Viv’s cover. Inside of the dome, it was formation to formation, and Viv got the confirmation of what she had hoped for the past few months.
+
+They might be hideously expensive, requiring more steel than an average squad for every soldier, a massive supply train and road but once on the battlefield, a Harrakan heavy was the unstoppable force and the immovable object. The supposedly best infantry of the continent surged against the indomitable wall of the One Hundred and failed. Calmly, methodically, the Harrakans cut them apart. There were no gaps in the formation, with each soldier supporting the other by their side, or in front of them. The warborn sought flesh and found only metal as unyielding as the ones wielding it. They burnt their failing life force and it did not help. Far to the sides, the Hightree and Children massacred the militia without contest, backed by devastating spells from the unleashed mages. A rotating blade of transparent mana carved into a flank that disintegrated almost instantly.
+
+Twenty seconds into the battle, parts of the enemy formation were already routing.
+
+But the warborn didn’t care.
+
+It had never been about winning, for them. Viv wasn’t sure what it was about. A last stand? Petty violence at any cost? One last bite at the approach of the end?
+
+She didn’t really care, not anymore.
+
+She focused her entire attention on the faceless shield and the spells they were weaving. Divine mana made the counter tricky because it seldom followed the same rules imposed upon her. That was fine. A few Durandal spells hit the barrier without much effect. Right, the faceless were not casting it themselves so she couldn’t disrupt it easily. It was probably fueled by the dark god himself, to an extent.
+
+Brute force it was, then.
+
+“Hyperbeam.”
+
+Viv’s ray of pure void hit the barrier head on. It bit into the sphere and bent it, slowly. Energy crackled with such power that it covered even the din of battle but Viv didn’t let go. The faceless grew frantic under the onslaught. They were about to cast. Viv stopped and waited.
+
+A moment later, three balls emerged from the Hallurian’s position. One to each shield array.
+
+Viv slowed her perception of time to the very limit. The spell was… incomprehensible. It used all four shades of primary mana as well as life, black, and transparent dyes. It was both complex and yet made of very simple parts assembled together. She recognized it from one of the reports she’d read on faceless magic. It was a chaos ball. Its only purpose was to disrupt constructs.
+
+She knew what to do. Focusing, she wrapped a durandal spell inside of a thicker construct. The mana groaned under her will but she could not be denied. The mages were not too far now, maybe fifty paces. She had only a second…
+
+The spell was off. It screeched under her fingers as it went. The missile-like projectile hit the ball and pierced through, unraveling on contact. The payload hit something and both spells exploded harmlessly over the heads of the dying warborn. The entire Hallurian army was holding by a thread by that point, despite their numerical advantage. She had to break them fast before her people tired. She redoubled her efforts.
+
+On her right, Sidjin picked the chaos ball apart methodically by targeting its weak point.
+
+On her left… nothing.
+
+Viv panicked and searched for Rakan. He was standing atop his tank, looking contemplative. The ball was about to hit when he flung a counter.
+
+It was… another chaos ball. Albeit a simpler one. The two spells hit then canceled each other.
+
+“Rakan, the battlefield is no place to experiment!”
+
+“But that looks like such a useful spell!”
+
+Fucking genius copying spells mid conflict. Viv cursed until a sound like shattering glass spelled the end of Efestar’s shield. Viv was about to capitalize on it but the moment the protection failed, all three mages sprouted feathered shafts from their eyes. All three at the same time.
+
+Viv turned to see a nearby squad of Sisters of the Eye whooping and cheering.
+
+“No sense of propriety. Well, whatever.”
+
+A few astra spells obliterated the cores of resistance among the warborns while the combined efforts of Heavies’ defenses and the roaming squads of witchpact made short work of them. It helped that the incline allowed all of them to shoot over their allies without Viv having to raise a platform. The engagement was just perfect, and the Hallurian army, much weaker than it appeared. That left the warlord. Viv stepped down from the tank and left it moving forward. The spell had enough reserves in its core to last for a few hours at this rate.
+
+She levitated over where Solfis was dueling the warlord to a standstill. The bone golem toyed with his prey, using his superior range to pick the man’s armor apart strike by strike. The warlord fought using two strange axes made with some sort of chitin. He was talented but not talented enough. Something told Viv he was new at his job. A brief inspection confirmed it. He was barely on the fourth step, and not a strong one at that.
+
+As Viv landed, the heavies around her redoubled their effort to push the remaining warborn aside, leaving the warlord completely cut off.
+
+“You need to get some better champions, Fefe,” Viv said.
+
+The foe roared and jumped towards her but she easily saw it coming. An extended hand directed the next kinetic spell.
+
+Contrary to that little exhibition in the tent, this time, she didn’t hold back. The warlord’s body crashed heavily into the dusty, corpse-covered ground. He stood back up.
+
+Viv smashed him down again.
+
+She wanted him to come out, and he did.
+
+The body of the warlord writhed on the ground. Viv saw panicked, frantic eyes under the closed visor and there was a brief struggle, then the eyes turned entirely black.
+
+Slowly, the puppet stood back up.
+
+A wind of change turned that part of the battlefield… different. Many of the heavies turned while the crossbow wielders stepped back, their confidence eroding under the malevolent aura exuding from the fallen foe’s broken form. Even defeated and battered, the shape inspired an animalistic terror that overwhelmed the senses. The man’s jerky movement made him dip into the heart of the uncanny valley. Viv stood her ground.
+
+“WELL WELL WELL. LET ME HEAR IT NOW. WHERE ARE YOUR JAPES, TRAVELER? WHERE ARE YOUR WITTY BARBS?”
+
+The voice was a scream of agony and a mocking whisper at the same time.
+
+“I know what you are. I know what you do. I also know what you could be. Farren was a friend and he fell, and for what?”
+
+She turned one of the bodies at her feet, a young warborn, tattoos dull and unresponsive. A smirk had frozen his face into a death rictus.
+
+“Just another bunch of losers barking at the moons. Look around you. Is this what you want to be forever? The last refuge of the petty?”
+
+“EVERY HORRIFIED GLARE. EVERY PAINFUL OUTRAGE. EVERY SANCTIMONIOUS BASTARD WHO LOOKS IN HORROR AT THE MAN HE THOUGHT WEAK. I SAVOR THESE MOMENTS. YOUR FRIEND THOUGHT A FEW WORDS COULD REPAIR CENTURIES OR CARNAGE. AT THIS POINT, I AM DOING YOU A FAVOR BY PURGING THE FOOLS.”
+
+Viv stepped forward but she did not cast, not yet.
+
+“You’re just trying to get me angry, Fefe. I can’t be angry right now. I just look around at this entire fucking waste and all I feel are pity and regret.”
+
+The dark god finished assimilating the host and the puppet grew in size, the armor darkening. Shadow spikes covered the cracked armor until it was slick and oily. Ominous cracks made the soldiers recoil. The voice was more unified now, and deeper, more mocking. It switched language to old Harrakan.
+
+“People like you, who have the means of their end, cannot understand the pain of utter powerlessness, Viviane the Traveler. There are sins that can never be repaid unless they are by my hand.”
+
+“I would have no problem with that. This world needs a little more justice… but you’re not acting for justice, at least not yet. You’re acting for petty vengeance for slights real and imagined.”
+
+“All slights are a matter of perception.”
+
+“Semantics? Really? Fefe—”
+
+“DO NOT CALL ME THAT.”
+
+“Fine, Efestar then, who used to fight for mankind, where has that left you? All that vengeance and that pettiness and your mind is stuck in a cave on a throne without a court.”
+
+“I am a KING! Enough. I think I will have to… teach you some manners.”
+
+The armored colossus disappeared.
+
+Behind her.
+
+Viv barely had the time to shadowstep out of the way. Even then, an armored fist clipped her shoulder painfully through the pauldron.
+
+“Aegis.”
+
+Fists smashed against her hive. Very, very powerful. She lashed out with a net but he stepped aside. Viv noticed he had quarrels stuck in his back.
+
+The avatar of Efestar looked out towards the nearest group of witchpact. Viv couldn’t allow that.
+
+“Excalibur.”
+
+The blade of hungering darkness hissed through the air and Efestar grabbed it.
+
+Viv knew that was impossible. The blade had no consistency. It was not physical. Efestar, apparently, didn’t care. With his other hand, he waved and the same green barrier raised around her to form a small, contained arena. Viv was trapped.
+
+“Enough distractions. I believe I promised a little punishment.”
+
+“Smells weird in here,” Viv said.
+
+The flesh of the avatar’s fingers boiled where they held the still hissing Excalibur spell. Efestar considered his crumbling digits with detachment.
+
+“Hmmm.”
+
+“As I said, not a great host.”
+
+The avatar backhanded her faster than she could perceive. The blow stopped against a hastily raised shield, her instincts having screamed to her. He was so damn strong she was pushed back through the spell. Her pseudo-wings dug in reality to anchor her for the next blow and, this time, she didn’t bend.
+
+“Shatterstar.”
+
+The shield exploded. It forced the avatar back a few steps and that was enough for Viv to change that side of the arena into a hell of whipping tendrils, in vain. Efestar was gone. She filled the arena with lashing tendrils but the aspect of the guardian effect weakened and slowed her offense. Even at her best, she wasn’t sure she could have touched Efestar. He was dancing away from the chaotic trajectory with disturbing grace, considering the weakening host. More cracks of tearing flesh joined their echoes to the song of battle. He was an assassin. Viv was trapped in a cage with an assassin god.
+
+That was… suboptimal.
+
+But she always had solutions.
+
+“Deadlands domain.”
+
+Black mana flooded the enclosed space. Viv randomly teleported around, shattering her shield and reforming it as fast as she could. Her reserves dropped precipitously and she drew some power from her dagger focus, just in case. Efestar was picking her defenses apart with a methodical approach she didn’t like. The abyssal gaze behind the glistening black visor felt… bored. Or detached.
+
+“Harrakan domain.”
+
+Efestar stopped as the world inside of the arena turned gray. The host had stopped growing. He was now an armored form half again as tall as Viv but that was not what worried Viv. Efestar’s form was lean and well-proportioned, a far cry from Octas’ misshapen abomination they’d defeated in the spider village. The proportions had changed as well. While the warlord had been a stout man, this entity was lean and long-armed. He stood on the balls of his feet with a relaxed posture as if this was a mere warm up. A part of Viv wondered if by punishment, he meant a scar or if he would flay her alive. She wasn’t eager to find out.
+
+“Rather optimistic of you to use black mana on me.”
+
+He wanted to talk? That was fine.
+
+“And yet,” Viv said, pointing at his chest plate.
+
+Blotches of darker gray were spreading across its surface and there, the metal lost its shine. Some of the deleterious effect touched his pauldrons as well. Efestar watched the effect with the first sign of excitement he’d displayed for the whole fight.
+
+“Impressive. You are a decent duelist, for a caster.”
+
+“Thanks, I try.”
+
+“However…”
+
+A dagger of viridian darkness materialized in the avatar’s hand.
+
+All of Viv’s instincts screamed ‘oh shit oh fuck’ at the same time. She overloaded her shield for all it could contain then infused it with the meaning of change, because annihilation would not do.
+
+A shock. A clang. The blade of the dagger smashed clean through it anyway, but the blade stopped a couple of centimeters above Viv’s nose and through her roundshield. She could see the edge with disturbing clarity. It looked nasty. Efestar’s hand was stuck against her spell.
+
+A cold chuckle made her grit her teeth.
+
+The wave of terror emanating from the avatar was starting to crack Viv’s resolve, eroding it as well as her chances of winning. It was taking a lot of effort to look as detached as Efestar was. Bastard was winning hard. She had to keep the pressure up.
+
+“Shatterstar.”
+
+The host was pushed again.
+
+“You are only delaying the inevitable.”
+
+“Epicenter.”
+
+This time, the host felt it. The pure wave of change and destruction crashed against the failing avatar, cracking the shell further. Wisps of power abused the straining remains of the warlord. Efestar perceived it. He snapped his fingers and the arena barrier fell down.
+
+Viv pushed the power up as it was freed, away from her soldiers. An instant later, Efestar snapped again and the barrier returned as if it had never been gone. Most of Viv’s effort to turn the place to poison had been undone. There had not been enough time to turn the land completely.
+
+But that was fine.
+
+She’d already won.
+
+“Well, outlander? Any more tricks?”
+
+“Not a trick, a reminder that contrary to you, I’m not alone.”
+
+Serrated claws shred through the back of Efestar’s knees. The avatar stumbled and twisted, lashing out with a blade but Solfis was already gone. The golem took Viv’s side while runes shone on his bony frame, indicating he was working at maximum capacity. A ping resonated against the barrier. The One Hundred formed a ring and pushed their enchanted spear into the barrier under the imprecations of Ban, straining it. Viv could see from the expression on Ban’s face that he wouldn’t accept an order to retreat. Efestar smiled, uncaring. His focus was on the golem.
+
+“Irlefen’s contraption. We meet again.”
+
+//How many times must I kill you, I wonder?
+
+“And how’s your master doing?”
+
+//There is nothing you could possibly say that would make me angrier than I already am.
+
+Efestar made to move but his right arm crumbled to dust. The dark gaze watched the stump with mild frustration. Viv wasn’t sure if he didn’t care or if it was part of his persona. Perhaps it was both. Gods were strange beings.
+
+“Looks like time is up. I’m serious, Fefe, you could really do better.”
+
+“Gods do not change, outlander. I know of nothing else.”
+
+“We both know that’s a lie. You lot are still growing.”
+
+“All I know, all I want to know, is vindication.”
+
+“Look,” Viv said, expanding her arms, “I am no stranger to vengeance myself, but you are doing petty tit-for-tat when you could have justice. There are too many sins committed in this world and too many of the perpetrators get away with it because of their status or their personal might. I have fought against that as well but I didn’t do it by killing off children. You are limiting yourself.”
+
+“What do you know? You are just a mortal.”
+
+“So were you, before, and you slew a god.”
+
+The avatar smirked. The pressure lessened. The barrier fell, though a gesture was enough to hold the One Hundred back. Viv realized that more troops had joined the heavies and so had Sidjin and Rakan. The pair was working on some nasty tracking spell while keeping an eye on the foe. Not that it would matter. Efestar’s host was falling apart into dust quickly, the flesh left behind hard and black like obsidian. His gaze went over the assembled soldiers though, once again, Viv could not read him.
+
+“You stood for justice once, Efestar.”
+
+“Then you must know that I cannot let go,” the god replied with a cold voice.
+
+“You do not have to let go to get better. Your actions hurt you and us mortals more than it hurts those who wronged you. Direct your fury at those who deserve it instead of blindly lashing out. You know there are many wrongs you could rectify if you bothered to try.”
+
+“You know nothing,” the crumbling avatar said.
+
+“I’m turning my vision into a reality with those who share my ideals. You’re leading beastlings and the dead. Reconsider.”
+
+“You’re quite like him, you know? Your friends die around you but your beliefs never waver. You will still fail. I will teach you…” the fallen god said at the last of the host fell to ashes.
+
+His voice still carried in the wind.
+
+“You are so young still…”
+
+The dust held in the air for a few more seconds, until the unforgiving light of the sun returned and dispersed the last of the darkness.
+
+Viv breathed out in relief. Not dying yet.
+
+Focus +1 to 45
+
+Acuity +1 to 45
+
+Those were some amazing gains. At her level, every point made a difference in how well she could cast.
+
+Due to successfully leading an army in battle and facing off against the avatar of a god in single combat, your leadership has massively increased.
+
+Leadership: Intermediate 4 to 6
+
+Viv almost expected draconic intimidation to progress again but unfortunately, it was already so high it would take a few more extraordinary deeds to make them progress even more. That was fine.
+
+Soul Master: intermediate 4
+
+That was probably for withstanding the pressure on her soul. Something told her the stat would be useful soon.
+
+Thanks to the implementation of a new spell and having stopped the strike of an avatar of the assassin god with two different shields, your shield mastery has massively improved.
+
+Shield mastery: intermediate 1 to 4
+
+That was nice and would prove useful the next time she would do something suicidal. Very nice.
+
+Ok, all good. Viv breathed out in relief.
+
+That had been far too close for comfort. Suddenly, she remembered that they were supposed to be fighting a battle and that it had all gotten rather quiet. She looked around, seeing that the warborn were all dead to the last while the militia milled around in packs, uncertain on what to do. A thin line of Children of the Scale kept them at bay from the rest of the army which had centered around Viv and her duel. They were ready to help her, she realized. They were going to shoot a god’s avatar to protect her. That warmed her heart a little.
+
+“Right. First things first.”
+
+“If I may,” Rakan said from the side, leaving poor Sidjin to dispel their dangerous work.
+
+“Yes?”
+
+“I believe I can get the survivors to surrender and follow us. Those are not warriors but laborers, as your soldiers have probably noticed. They are little danger to you. With the warlord dead, I believe I can get them to stand down.”
+
+Viv glared. The amount of fools trying to redeem worse fools was now three and they had one dead and one dark god manifestation incident. Problem was, she had no justification to refuse.
+
+“You do it from here.”
+
+“Of course. And… sorry about Farren.”
+
+“Finish what we started.”
+
+“Right.”
+
+Viv kept a look on Rakan while he made a small speech threatening the laborers, reminding them they were less than nothing and that the warriors had failed to protect them. One of the hardiest of them stood up from the group and turned back to his peers.
+
+“Are you really going to surrender? We are Hallurians! We—”
+
+The man’s next words were interrupted by a steel tip down his throat. He fell heavily, spinal cord severed.
+
+A few of the laborers dropped their improvised weapons, then surrender spread like a wildfire. Those who attacked their companions were swiftly picked off by crack shots.
+
+“They kind of stole my kill with the mages,” Viv grumbled to Solfis.
+
+//Oh no, the Sisters of the Eye, an elite outfit of sharpshooters, eliminated priority targets by shooting them in the eyes.
+
+//Such an unexpected development.
+
+//Who could have foreseen such an event?
+
+“I told you to turn on the sarcasm module only when we team up on other people.”
+
+//Apologies.
+
+//It appears my hypocrisy module is deficient.
+
+Viv sighed. She knew Solfis and he was trying to distract her. Lorn was already walking back from his spot at the edge of the army where he had fought during the battle, moving through the no man’s land between the Children and the surrendering Hallurians.
+
+“We have wounded? Anything we should help with?” Viv asked Ban.
+
+“Yes ma’am. We are tallying the wounded and the dead. Neriad’s followers are already healing those who need the most attention. I shall take care of the prisoners if… well…”
+
+Lorn found Farren’s body and hugged him.
+
+“I’ll be right back. Find Zero Five and have him get the valuables from those tents. Might have some maps as well.”
+
+“Very well, ma’am. Should we share our food and water with the prisoners?”
+
+“We have no choice in the matter. Neriad demands it of us.”
+
+The god’s favor came with a slew of obligations that were, essentially, a sort of Geneva convention that didn’t cover the use of any weapons. An enemy that surrendered should be treated well within reason so Viv literally couldn’t deny them her help.
+
+“I hope Jaratalassi doesn’t get mad, your majesty. That’s a lot of folks hanging around his backline.”
+
+“We’ll transfer them tonight via gate. Depending on what Rakan promised them, we may get some new Harrakans.”
+
+“Those savages?”
+
+“They’re mushroom farmers, Ban. Not warborn.”
+
+“Hmph!”
+
+Viv walked towards Lorn who was still wordlessly hugging the remains of the voice under the vigilant attention of several squad of heavies working very hard at pretending to not notice the tears dripping down his ruddy cheeks. Viv stopped by his side and kneeled. Farren’s chest was a mess but the spell had left his face intact and it was caught in an expression of pained focus. She waited a while for the old temple guard captain to recover. It took several minutes during which Viv waited in silence. Koro stopped at some point to offer support, the Amazon warrior not masking her grief.
+
+“I told him not to do it, Neriad as my witness,” Lorn eventually said.
+
+Even his beard was getting wet. Viv felt a pang of guilt and annoyance, at herself and the rules she’d decided to live by. In hindsight, letting people do dangerous stuff because they were responsible adults was kind of shit if it killed them.
+
+That was the thing about hindsight though, kind of hard to have it beforehand.
+
+Maybe, if she’d just told Farren he couldn’t try, that would have been it. Oh, they would have fought over it and there would have been consequences, but he would have lived.
+
+Maybe he would have fought her, though. That would have been just like him to stare down a figure of authority telling him what he couldn’t do.
+
+Maybe it was just not her call.
+
+She really didn’t know. Was there even a good answer? If there was, she didn’t have it.
+
+“So they decided to surrender…” Lorn said, apparently to keep himself occupied.
+
+“Yes. We’ll take care of the wounded then move. This is hostile territory. We can’t afford to get caught.”
+
+“I suppose you are right. I will carry him. And Viv?”
+
+“Yes?”
+
+“Can you tell me why you were having a discussion with a dark god?”
+
+Viv felt annoyance fill her chest. Her first instinct was to tell Lorn that after he’d faced an avatar in single combat, he could whine about it, but that would be petty. Lorn was reeling from the loss of the one he was supposed to protect. He was like a wounded beast attacking the first target in sight. Viv could be better. She had to be better.
+
+“Efestar tried to tempt me several times. I have returned the favor.”
+
+“You know that if you attract his attention, he’ll send his agents after us, right? Lose more people because you had to have the last word?”
+
+Viv breathed in then leaned forward until her unsettling gaze could dig into Lorn’s. He sustained it.
+
+“Lorn, when, not if, the dark gods send their agents after us then we will do what we always do. We will track them down and we will kill them. I have done that many times. You know this, do you not?”
+
+He blinked and suddenly, his attention returned to Farren. The hold on the young man’s body grew more taut for an instant. Then, Lorn took a deep breath.
+
+“Yes, I… I will bring him back. We will bring him back home. His ashes, at least. Forgive me, I must walk around the field to make sure the dead do not rise again.”
+
+Viv nodded, then she returned to her tank. Rollo was waiting for her.
+
+“Your Majesty. I saw you fight the avatar of a god to a standstill. That was the deed of heroes.”
+
+“Yes. Sadly, the dark god himself was not receptive to my arguments. I asked him to rejoin the light.”
+
+The handsome knight laughed at that, though it remained subdued.
+
+“Hah. Your legend grows, Viv the traveler. I will make sure your duel is immortalized in ballads. It would not do to let such an impressive deed go unnoticed!”
+
+Viv wasn’t sure what to think. It was good that she would be seen fighting a dark god but the talk might be received poorly, depending on who believed it. The tally of the dead soon came to distract her. Six of her soldiers had died, two heavies and four crossbows. All of them had been hit in the head and were dead before they could be revived, the heavies killed through their visors. It had been a one-sided battle but there were no wars without fatalities, it seemed. Viv would bring their bodies home at least.
+
+It took two hours for the prisoners to be fed and ready to march, their wounded carried in makeshift sleds. Zero Five brought back an assortment of curious clay tablets, the only signs of writing. They were encrypted so even Rakan had no idea what this was all about. Little of the rest could be used. Even the weapons were strange and unfamiliar. With no distraction left, Viv ordered a brisk march home, hoping to be back before sunset.
+
+On the way home, the tales of her duel were passed through the ranks, those who were close enough slowly tricking their tales down the lines via the most gossipy of the markswomen. Viv let it happen. Her soldiers were really pleased with having someone who could fight off an incarnate god and hold a conversation at the same time. As they approached the mountains separating Halluria from Baran, a messenger on horse rushed to see her.
+
+“General Jaratalassi requests that you hurry back with all haste!”
+
+“Ah, but… he gave me another task,” thought Viv, who had not had the time to set up her portal yet.
+
+“You must return now. The enemy will be here by nightfall.”
+
+“Everyone, double the pace. Let’s head back.”
+
+By the time the sun set at their back, Viv could see them coming. Lights, in the distance. A lot of torches and lanterns like a fire snake crawling over the desert.
+
+There were quite a lot of them.

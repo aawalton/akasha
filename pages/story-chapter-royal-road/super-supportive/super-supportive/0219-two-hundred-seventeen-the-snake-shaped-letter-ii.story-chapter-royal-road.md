@@ -1,0 +1,193 @@
+---
+id: 24faeaf4-b131-5207-b903-cf9a47b4f337
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTEEN: The Snake-shaped Letter II"
+slug: 0219-two-hundred-seventeen-the-snake-shaped-letter-ii
+partOf: super-supportive
+position: 219
+ownLength: 3466
+unit: words
+publishedAt: 2025-05-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2270590/two-hundred-seventeen-the-snake-shaped-letter"
+royalRoadId: "2270590"
+---
+
+217
+
+******
+
+In a conference room, around a long table littered with the remains of a takeout order, most of the Celena North High Talent Development faculty sat in high-backed rolling chairs. The room was silent. Eyes met over cups and sub sandwich wrappers, then glanced away to study interfaces or the large screen on one wall. It showed the entire weekly schedule for the high school’s MPE gymnasium, with lines of color-coded blocks filling each day.
+
+“Please, everyone, don’t rush to share your ideas at once,” Lesedi Saleh said from her seat at the middle of the table. Her blazer had been draped over the armrest of a chair by the door, and the sleeveless silk shirt she’d worn under it revealed the thin lines of a contract tattoo on one of her shoulders.
+
+There was a collective sigh. Chairs creaked.
+
+“I’ll say it one more time.” Foxbolt spoke up from the end opposite the projection, both of her palms landing on the table with a thud. The flashy blue and orange eye makeup the Adjuster favored was gone, and the sweater she had changed into after teaching her final gym class of the evening had mustard on one cuff. “Li Jean changing their entire program overnight doesn’t mean we should ruin ours.”
+
+“I agree,” Lesedi said calmly. “That’s why I’m having a meeting with you all. To gather ideas for how to manage this situation without ruining anything for our students.”
+
+“Giving S-ranks special privileges just for being S-ranks is fundamentally ruinous. And that’s what we’re talking about doing!”
+
+“We already have several combat classes that are primarily filled with our S’s.” The speaker was a man wearing a collection of rings to rival a wizard’s, though only a couple of them were known to be real magical tools.
+
+He drummed his fingers lightly beside the sandwich wrapper on the table in front of him. A pile of pickles, shredded lettuce, and tomato slices was left behind from his supper. “We have my Superlatives. We have sports and clubs that are dominated by S’s. It’s not very different from—”
+
+“Let’s not lie to ourselves about it, whatever we do,” Morrison Waker said from the seat opposite him. He’d morphed down from Big Snake mode to his natural form, with a lush blond mullet that had been one of the main topics of conversation before everyone arrived and they got down to business. “The kids aren’t stupid. They know the difference between an advanced class that’s tough to qualify for and one that was created exclusively for S’s.”
+
+“And the S’s know the difference between Celena North and a school that offers them extra gym time, private rooms, and maid service. Unfortunately.”
+
+“Everyone here has good points. Ash, Morrison, Fox.” Lesedi nodded at the three of them in turn. “But, for better or worse, we’re here tonight to decide how much special treatment will prevent our most powerful students from switching schools at the end of term, while doing the least amount of damage to the education and morale of our A’s. And B’s.”
+
+She looked around the table. “I realize this is sudden and distasteful. However, if we don’t handle it tonight, others will try to take advantage of our inaction in the morning. And we do owe our students a swift response and guidance.”
+
+There was another silence before Luna Plim piped up from the end of the table near the screen.  “Li Jean wasn’t ready to roll this program out. They’ve been talking about trying something like it for years, but they weren’t able to settle on the details from what I heard last. We can truthfully tell our students that this Elites scheme is being rushed.
+
+“And if someone could get confirmation that their pedagogical approach for the new program is going to be a more extreme version of their current one, then I’d be happy to tell our S’s that I think its design favors the identification and support of a specific kind of leveler at the expense of other students. Their program will be an ideal fit for a few people, but if you’re not one of those few, you’d be better served by a school that’s willing to wait for you while you’re figuring out what works best. A school that acknowledges the value of exploration and experimentation even if it doesn’t lead directly to more levels. A program in which the gym is only one of dozens of astounding tools we use to plumb the mysteries of Avowed magic!”
+
+All eyes were on the redheaded Water Shaper as she punctuated her words by jabbing her stylus through the air.
+
+“Luna,” said Lesedi, “that sounds like a very exciting school to attend. And now would be an excellent time to announce that we have dozens of astounding tools apart from the gym…if we actually did. Let’s not oversell what we offer.”
+
+“We should just pivot to make it true,” Luna answered.
+
+“She’s got a point about what we’re better at. I know I’m newer to teachin’ than almost everyone else here,” Morrison said. “But I’ve paid my share of visits to the other schools. I think it’s fair to say we’ve got more variety in our gym sessions, especially for the high school kids, than Li Jean does. We do a lot of combat and competitive games because we know from experience that those work well for most people. But nowadays we also let the students try their hand at puzzles and rescues. We’re doin’ that from their first year, right on the floor, and pretty often.
+
+“That’s different from Li Jean. It’s different from how Celena North was when I went to school here. And it’s good for the kids, if you ask me. Meisters think they’re bein’ punished when they’re tryin’ to move rubble off of water balloons with their weapons,—”
+
+Morrison nodded toward where Fragment sat on the other side of the table.
+
+“—but I’ve seen several of ‘em learn more from that exercise than they will in a month of duels. And things like the mazes, hide and seek…heck, even territory claim. When I was a teenager, we’d have done stuff like that outside where usin’ powers freely wasn’t an option for everyone. Now, we give them opportunities to use their talents in all kinds of ways, while still havin’ the full protection of the gym. I don’t know what Li Jean has planned for this Elites program, but they probably won’t give first years as much variety as we do, even if they will have more hours on the floor. So we can tell the kids that honestly.”
+
+Lesedi clasped her hands together. “We will want to release a clear statement on how our program differs from theirs, in positive ways, to counter any narratives that are in the works to make their school seem like it’s now the premier place for the best S-ranks to study.”
+
+“So premier that asking them to sacrifice their students’ gym time to the public would weaken the nation,” murmured the man with the rings. “We all realize that’s their play, don’t we?”
+
+The principal’s mouth pursed. “The rush to roll this out so suddenly has multiple factors behind it. Including that one. The post-crisis swell of interest, the surge in alumni volunteers and supporters. People are feeling scared or patriotic or they’re looking around for ways to help. And they’re more invested than ever in Anesidora’s…publicity darlings. Especially superheroes.”
+
+She didn’t need to explain to anyone present. The more sentiment there was against unregistered Avowed, the more fans there were for the celebrities who brought them in.
+
+“It’s an unusual time,” she continued. “Li Jean is trying to navigate it to their advantage. They were already thinking of expanding their hero program, so they’re in a better position to try a hard swing than we are. They’ll be able to pull in a massive new class in January, and I expect them to do it. I half expect them to announce a majority-S acceptance cycle, too. For the regular tier of the program. It would be one way to ensure they have enough fuel to keep the Elites concept alive through any hiccups that happen in the first few years.”
+
+“A school that thinks of some of its students as fuel to be burned isn’t much of a school.” Torsten Klein was sitting with his arms crossed, and the table in front of him was already cleared of any sign that he’d eaten.
+
+“Fuel was my own word. I’m sure the faculty at Li Jean see it differently. Investing more in a particular subset of students doesn’t have to mean you’re leaving the rest with less than they need to grow into successful adults. I hope. Since that is what we’re talking about doing.” She looked around at them all again. “In the most minimally disruptive way we can imagine, as long as it’s still significant enough for me to sell it to the university in the morning. We want this to be our plan, not theirs. We know our students best.”
+
+Rings rapped lightly against the table’s edge. “It has to be classes,” Ash said. “We can’t compete with everything Li Jean’s offering, but we have to compete on the amount of floor time the S’s are getting. It’s what they care about most.”
+
+“We can’t give all of the S’s that much! Look at the schedule. It’s already completely full.” Foxbolt gestured toward the screen.
+
+“Do Wrights really need the gym all to themselves for half an hour on Tuesdays?” one woman asked. “We don’t even have that many in the program.”
+
+“It’s a testing period so that they don’t show up to their other classes with faulty equipment,” the man beside her protested. “We let other students test their own devices at the same time if they want.”
+
+“Shaping Club could work without the gym.”
+
+Lesedi smiled at the latest speaker. “You’ve been quiet tonight, Fragment. Long day?”
+
+The Ground Shaper ran her fingers through her short hair and nodded. “I can put together enough volunteers to run good club meetings at Earth Box and Toy Box. The students love it anyway.”
+
+“Thank you. That clears a slot. I’d offer you our bus to take them there, but Torsten gave it away.”
+
+Torsten uncrossed his arms and looked at her in surprise.
+
+“To the ocean,” Lesedi said. “One of the students has put a tiny memorial in its old parking spot.”
+
+Everyone laughed.
+
+“They didn’t,” said Torsten.
+
+“They did. Someone will probably think it’s in poor taste and insist we remove it, but the students are enjoying it so much right now. Be sure to go by and sign your name on the pavement in chalk.”
+
+“I’m not signing my name on a memorial for a school bus.”
+
+“Is it because you feel guilty?” Morrison whispered. “For abandonin’ it to the sea?”
+
+It took longer for the next wave of laughter to subside. When it did, Fragment spoke again. “Maybe…just one class? One more gym session than a normal S-rank first year at Li Jean would have, not an Elite. Maricel Alcantara has already asked me if I think their school would make her stronger than Celena North. I told her to let me look into it. I didn’t know what else to say on the spot.”
+
+“Maricel…how’s she doing?” Lesedi asked.
+
+“I’m somewhat concerned. The amount of responsibility she feels is too much, and it seems to be driving her right now. I’ve been making some calls, hoping to get her back home for the break to spend some days with her family, even though it’s early and unscheduled. She’s one student I’d like to see relaxing instead of practicing during her time off.”
+
+“Awww, none of it’s her fault.” Luna leaned around her neighbor to see Fragment better. “She reported that poor boy to SkySea as soon as she found out he was going to run away. What else could she have done?”
+
+Fragment caught Lesedi’s gaze. “I don’t want her in a program like I imagine the Elites will be. Not in the frame of mind she’s in. I don’t want most of my advisees there. It could’ve been an interesting opportunity for Jupiter, but they didn’t invite her for some reason.”
+
+“Because they got some of our gym footage and then watched it wrong.” Morrison leaned back in his chair. “That’s what I think.”
+
+“Fragment, you were saying ‘one class’?” Lesedi asked.
+
+“One more than Li Jean’s regular program,” Fragment answered. “I can’t look a gifted student in the eye and tell her, ‘Don’t leave. We’ll give you as much as they would,’ when it’s not true. But I could repeat what Luna and Morrison said about our classes offering a more varied experience. And for the ones who won’t see the value in that, or who might not benefit as much from it, if I could add that we guarantee more floor time than Li Jean does for their non-Elites…then I would feel confident advising almost any student to stick with us.”
+
+“You’re suggesting we focus on making our S-rank experience superior to their normal tier, instead of competing with their new top.” Lesedi leaned forward. “I think that’s a good call. Elites has the advantage of only existing on paper right now, so we have to argue against what the paper says they can give students instead of the flaws that will inevitably pop up when it’s rolled out in the real world. But the leveling requirement is right there on that paper, and it’s not unfair to call it a flaw.”
+
+“It is a flaw,” Torsten said. “A talent development program has to have some expectation of leveling progress. But the System operates on its own schedule when it comes to making that progress official and offering an Avowed the next affixation. We’re all used to it, but teenagers who want levels are stressed enough that usually we’re trying to get them to relax, not sitting them down for that talk where we tell them we’re concerned they’re not improving at a fast enough rate.
+
+“I don’t see how Li Jean is going to avoid burning out a lot of strong, hardworking young people with those requirements. Even if they don’t drop students from Elites casually, they’ve chosen to foreground the threat of doing it.”
+
+“It’s like they’re extending the stress we put students through during the application process,” Luna mused. “We’re very hard on them in interviews and combat assessment, but then we let them get the ground beneath them as first years. Once you’re finally in, a few mistakes don’t put you out. Li Jean’s counting on instability creating stress and stress creating rapid growth. It will work to some extent, but I don’t know how it will turn out over the long term.”
+
+“We do know they’ll be dropping people from Elites, though. Sometimes for reasons beyond a student’s control. And then they end up in a program that isn’t as good as the one we have right here,” Lesedi said. “All right. Going to Li Jean is riskier than staying at Celena North, where we’re equally committed to the success of every S-rank in our program. I think I could sell that as a strategy to the university, and it will sound good in the press releases in the morning.
+
+“What do you all think? About this tactic and about how to handle promising our S’s more floor time than they’d be guaranteed at the other schools?”
+
+******
+
+******
+
+When the meeting finally ended, Torsten Klein and Lesedi Saleh were the last two in the conference room. She stood at the window, pulling aside one of the curtains to watch the others leave the building, some of them at superhuman speed, some opting for more leisurely strolls around Celena Circle and the temporary dome village.
+
+“Am I in trouble?” Torsten asked. He sounded unconcerned about it.
+
+“Yes. Go run laps around the track until the crack of dawn.” She let go of the curtain and faced him. “Were our new first years really such terrors today?”
+
+“They’re a good group. For the most part. But they’ve had more than the usual share of stress, and now this comes along. They were handling their new school, their new status, and the Submerger event well enough. This Elites business combined with some of them being disappointed they missed out on the private tutoring rewards from last week was too much. They were getting on one another’s nerves from the start. That turned into sensitive tempers. With the realism settings on the gym being so low for their class…you know how it can go.”
+
+“I do. One of my old instructors would turn up the realism punitively. I didn’t think much of it at the time, but now that I actually work with teenagers, I’m sure he belongs on the villain side of the equation.” She took a seat in the chair across from him. “So they’ll be getting one of your famous lectures on Friday?”
+
+“Actually, I’m thinking of letting Marion lecture them while I pull them aside one at a time to review footage from their duels today. So we can talk about whether or not they had appropriate goals for the fight and if they think they achieved them.”
+
+“You know, they’d probably prefer an increase in the gym’s realism.”
+
+Torsten cracked a smile.
+
+“I’m not annoyed with you, of course,” Lesedi said. “But the timing’s awkward. You’re depriving several of our S-ranks floor time on the day Li Jean promised them as much floor time as their battle hungry little hearts could desire. Someone’s bound to complain about it tomorrow.”
+
+“I’m not going to treat the S’s differently than the others in class just because the school has gotten nervous about them leaving.”
+
+“I won’t ask you to…but really, Torsten. Even Vandy Carisson? I thought she might faint when we spoke to her obstacle course team about their inability to function together. What did she do to end up in the group of bad kids this time?”
+
+A pained expression appeared on Torsten’s face. “I’m not looking forward to talking to her about it. It feels like a conversation some teacher should have had with her in elementary school. But it’s obvious by now that the pushback from her classmates isn’t getting through to her, so someone ought to address it. Maybe she’ll listen if it comes from an authority figure. ”
+
+“What is it?”
+
+“She won’t stop trying to make the others follow rules.”
+
+Lesedi chuckled. “Is that actually a problem?”
+
+“A lot of them aren’t school rules,” said Torsten. “They’re rules she invents herself. I’m not sure she even realizes…”
+
+His brow furrowed. “She swept Olive across a block today, then spent the next eighty seconds telling her that she shouldn’t spend time in between her duels cheering for people. Vandy has decided that everyone who’s not exhausted has to be either fighting or in the practice area we’ve set aside. Which isn’t a bad idea, but it’s her own idea. If Olive was cheering too much, one of us would have told her to stop.”
+
+“Okay. I do see how that’s a problem.”
+
+“I don’t want Vandy to ignore her sense of right and wrong. But if she could learn to save her enforcement of it for situations that mattered more, I think everyone would appreciate it. Beating another student quickly so that you can criticize them for something they did fifteen minutes ago that had nothing to do with you is…unhelpful at best.”
+
+“She’ll listen to you. She wants to do the right thing.”
+
+“I’m not too worried about her. I just think it needs heading off.” He looked at her. “I am worried about this extra floor time for the S’s.”
+
+“I know.”
+
+“If they pull even farther ahead, even sooner, that will mean putting them in advanced classes earlier. If we lose more gym time than we expect to some politician’s pet project…. And no matter what, the A’s are going to feel cheated. They’re already upset they don’t have a rank club that gets gym time.”
+
+“I know. We’ll try to smooth it like you suggested. Special classes that the S’s are all automatically admitted to, plus slots in them for other top performers to make it seem less like a rank-based perk than it is.” She met his eyes. “I don’t think I can get the school to swallow anything less than that.”
+
+He grunted.
+
+“Don’t worry yet,” she added. “Elites may fall apart in six months, and then we can switch tactics again.”
+
+“I’ll worry anyway, if you don’t mind.”
+
+******
+
+******

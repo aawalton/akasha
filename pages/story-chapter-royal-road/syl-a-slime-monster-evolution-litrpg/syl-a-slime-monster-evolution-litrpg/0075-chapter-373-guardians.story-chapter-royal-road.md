@@ -1,0 +1,173 @@
+---
+id: dd6ca4f2-0c3d-58a0-a479-efbc53305111
+page-type-slug: story-chapter-royal-road
+title: "Chapter 373 : Guardians"
+slug: 0075-chapter-373-guardians
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 75
+ownLength: 2342
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3275621/chapter-373-guardians"
+royalRoadId: "3275621"
+---
+
+Exiting my spatial rift, I was welcomed to the sight of a true sunken temple. Now the marble was immaculate, with engravings and markings that seemed to worship some sort of ocean god. In fact, the coral and seaweed looked to be avoiding the marble, not daring to contaminate it.
+
+"Is this the real dungeon?" I wondered as the oppressive presence grew stronger.
+
+I must have been lucky, as there were no monsters in this room, so I used the opportunity to feel the edges of my rift again. I could still sense a way back up a floor, but there was no way down, which either meant this was the last floor, I'd need a higher skill level, or I'd need to find an appropriate room with a gap thin enough to breach.
+
+"I can have four apertures now, this is great!"
+
+Now I could attack from three angles and with even greater range. I wondered if my rift would keep growing until it had a ludicrous amount of coverage, or if there was a cap I'd eventually reach, cause at the moment it seemed too good to be true.
+
+Some explosive growth at the start to make it useful seems plausible; there's no way I'll have a rift that covers like a whole city, right? Then again, that's only my unrestrained area, like how this dungeon affects me, so maybe it's fine? For example, what if Vee gets a rift? Do our rifts overlap, or do they push against each other?
+
+If I speculated about the idea behind "dimensions," then it would make sense for each of our rifts to overlap. However, I wasn't sure whether the system's interpretation of dimensions was that profound, or whether it could even maintain infinite dimensions occupying the same space. The system seemed all-powerful, but considering I'd spoken to some of the gods behind it, my impression was that it probably had limitations.
+
+After all, I broke it myself, and I was only a tier three slime back then!
+
+There was also the fact that I was learning more and more about it with each usage of [Skill Deconstruct]. There was definitely more than meets the eye, and I even had the sneaking suspicion that, in some ways, we might be limited by the system.
+
+Well, I'm probably getting ahead of myself. That's for future Syl to worry about. I've already got a to-do list that's big enough to repeatedly forget about, without adding speculations to it.
+
+There were doors leading out of this room, but I instead tore open another tunnel for my traversal. It felt great having so much power at the tips of my tentacles; it was almost to the point where I thought mundane walking was possibly beneath me.
+
+Careful, Syl, you're getting a big head!
+
+I joked with myself as I entered the next room. To my shock and surprise, this room was actually only half-submerged, with an air pocket somehow being formed above where I had emerged from. I floated to the surface and saw an "island" of raised marble steps rising from the water, leading to what looked like a shrine.
+
+Atop the shrine was a bipedal sharkman, wielding a menacing harpoon coated in dried blood. He wore gilded armor that made him look like a gladiator, and he looked like a rippling mass of muscle. He was alone in the room, and he glared at me in the water, but made no move away from the shrine.
+
+Did I find a boss monster?
+
+<Treron, Guardian of the Shrine.>
+
+I frowned, as [Identify] had once again failed me, and I had to suppress the urge to use [Skill Deconstruct] on it. Still, what it had shown me was confusing—I'd seen named monsters before, but this one seemed to have a title?
+
+Is there a difference between a title and an emblem? This isn't the [Dungeon Master], right?
+
+"Hey, are you the [Dungeon Master]?" I asked, calling out from the water but not approaching.
+
+The sharkman's glare intensified with bloodlust. "You dare besmirch the Great Lord of the Ocean!?"
+
+Well, that's surprising. Since when could dungeon monsters talk?
+
+I knew boss monsters were special, as that eyedra had caused quite a bit of trouble, not to mention the cat-sith. Unconsciously, I looked upwards and saw that the hat was there; I'd almost forgotten about it.
+
+Another mystery…
+
+I shook my head. There was a big, bad monster in front of me; this was no time to start having strange thoughts and ideas.
+
+"So… What's special about being the guardian of the shrine?" I asked, ignoring the sharkman's anger.
+
+Treron looked like he was about to burst a blood vessel as veins appeared on his neck and forehead, while he intensely clutched his harpoon. Yet he still didn't lash out at me, and instead answered my question as if it were his sworn duty.
+
+"I am but one of the guardians of this hallowed place; you must defeat all of us to unlock the Hall of Glory and be rewarded with an audience with the Great One!"
+
+Huh… I have to defeat guardians to unlock a door?
+
+I thought about it and then sighed. Considering how big and maze-like this place was, was that a proper usage of my time and effort? And, with [Personal Rift], couldn't I just bypass the door entirely?
+
+Well, if I find them along the way, I'll fight them. It's wrong to leave a meal's worth of experience to go cold. I'll see if I find all the guardians or this Hall of Glory first.
+
+"Okay!" I agreed.
+
+Treron nodded. "Then draw your weapon and come forth so I may bathe in your blood!"
+
+Sorry, I don't have a weapon or blood.
+
+I looked at my slimy hands.
+
+Well… I mean, technically, I'm a weapon.
+
+Shrugging to myself, I swam to the steps and ascended, revealing myself fully to the sharkman.
+
+His eyes washed over me, and he seemed to snicker in his heart. "Small one."
+
+Hey, I'm bigger on the inside!
+
+I was highly tempted to grow on the spot, but I didn't for the sole reason that I felt like it would be even more humiliating if this "small one" defeated this lumbering brute. Still, if I was going to be small, I needed proper defenses, and I had already begun tapping into [Metal Slime] to change my outer layer.
+
+As was my usual go-to combination, I started melding draconic scales made of obsidiniate, tempering them as I went. The temperature in the room began to rise, and the sharkman seemed to notice, sweat forming on his brow.
+
+"Draw your weapon!" Treron demanded.
+
+I don't have a weapon… and I want to train [Spatial Severing]... Eh, whatever, I'll just make some claws then.
+
+Which was precisely what I did, and so on my right hand, I formed a gauntlet with long, thin nail claws. The actual substance was made from mithril blended with orichalcum, providing a light, durable, and magically receptive material. This creation was likely impossible in reality, but thanks to [Primordial Slime], it could exist as long as I willed it.
+
+The sharkman showed no reaction to my glorious creation; in fact, he appeared to be looking down on me even further for having such a puny weapon.
+
+Whatever, I'll just pretend to hit him with this while actually using [Spatial Severing]. Let's see if this muscle brained oaf can figure out what's going on before I beat him.
+
+My thoughts were interrupted as the Treron charged forward in the blink of an eye. For such a large mass of muscle, he was swift. I tried my best to dodge; it was almost instinctual at this point, but his weapon flashed as it blurred and struck me. It grazed against my side, causing sparks to fly as it scraped against my hidden metallic scales.
+
+Looks like my defense is good, let's counterattack!
+
+I swished my clawed hand; however, the sharkman moved to block it with his other arm, which I now noticed had a buckler strapped to his forearm. I hadn't even seen it before, as it was hidden behind all the muscle, but it didn't matter, as this was all for show.
+
+My claws scratched against the buckler, but at the same time, my four hidden helpers and I activated [Spatial Severing], targeting him directly. So, while my metal claws screeched against the buckler, at the same time, cuts suddenly appeared on his chest.
+
+The sharkman let out a roar and actually jumped back. His hand touched his gilded chestplate, which was entirely unblemished, and he frowned deeply.
+
+"What trickery is this!?" he demanded, scowling. "The wound is small, hardly worth mentioning, but it went through my armor!" his expression began to worsen. "Not only that, but I blocked your attack!"
+
+I snickered. "Did you really block it?"
+
+In response, the sharkman banged the shaft of his harpoon against the bucker, releasing a dull bang. "Yes!"
+
+I shook my head with a mischievous grin. "Some things aren't meant to be blocked…"
+
+Treron's eyes widened, as if he'd gained an epiphany about the secret behind my attack. Then he squinted, the bloodlust showing again. "Then you won't hit me again!"
+
+I gave my best showboating laugh that I could muster. "You can certainly try!"
+
+We clashed again, and again I failed to dodge his harpoon, but it failed to penetrate my defense. In fact, I was already predicting that if he kept this up, his weapon would soon break. After witnessing our first clash, I added some adamantine to the obsidiniate, creating an impossible metallic blend once again. With two defensive traits borrowed, I felt invincible.
+
+Naturally, I slashed out with my claws again, except this time he didn't block it and instead dodged while landing another scraping blow against me. Of course, while he dodged the claws on my hand, he couldn't evade the hidden attack from [Spatial Severing]. He roared and jumped back again, a deathly glare on his face as he nervously touched his face with a trembling hand.
+
+Blood. From five tiny, impossibly thin cuts.
+
+"How!?" Treron demanded.
+
+"A real warrior discovers the answers through battle!" I declared.
+
+It was some made-up nonsense I randomly spouted that I obviously didn't believe in, but I hoped to egg him on. It must have done the trick as he moved in for another clash.
+
+Our dance continued with his rage swelling higher and higher with each exchange, and each new wound that appeared on him, regardless of what he did. Although at some point he must have realized that, while it was terrifying because it bypassed defenses and evasion, the damage was superficial at best, he started just fighting through it.
+
+If my own defenses hadn't been better than his attack, I would have been in some trouble, but I couldn't help but feel bitter that my cool dimensional attack was already on the verge of being ignored. As we continued to clash, my body was almost on autopilot as I hoped to either gain a level or find a better way to attack.
+
+I did try a few things, such as using [Personal Rift] to attack. The damage was more than [Spatial Severing], but it was also much more apparent, and after being hit by it twice, Treron learned to successfully predict and evade it.
+
+Thus, I turned to my other skills, wondering if there was anything else I could do. I secretly cast [Displaced] on him, but it didn't appear to amplify the damage I could inflict—the papercuts were just too small. I kept theorizing, hoping to find some inspiration during our clashes.
+
+This kinda sucks… I expected a bit more from Riftmancer… Maybe my next skills will be better?
+
+I was about to give up trying to defeat him through my class and just unleash the slime, maybe through portals to make myself feel better about it, but then I paused. I did have one more skill from my newfound class that I had used—[Folded Geometry]!
+
+Would folding things even help? I mean, it might let me actually dodge him, but… I paused as Vee's offhanded remark about "origami" seemed to stir an idea for me.
+
+Paper folding…
+
+I'd already been calling my attacks with [Spatial Severing] papercuts; was that a complete coincidence? I had no idea, but now I had something that demanded testing.
+
+What if… I fold the area I'm attacking, and then cut it?
+
+My gut was screaming at me to do this, despite never attempting to fold the area on a person or use it in conjunction with [Spatial Severing]. I had to try it!
+
+I began using [Folded Geometry] instead of [Spatial Severing] during our clashes, trying to familiarize myself with it. I'd sort of thrown it to the wayside, as I often tended to do, and thus was a little poor in my execution of it.
+
+This caused Treron, who was growing frustrated at his inability to wound me, to suddenly brim with confidence. He must have thought that somehow he'd learned to evade my hidden attacks, as the tiny cuts were no longer happening.
+
+After a few tries and by limiting the area I was targeting, I got it down to a usable speed. After all, there was no way Treron would willingly stand still for me. So during our next clash, I made a small cut on his arm and immediately used [Spatial Severing]!
+
+Treron roared, except this time it was different. The roar was not anger, but pain! He not only jumped away from me, but also shoved me away to increase the distance between us. Then he stared down at his arm, which was dripping with blood.
+
+Five fresh cuts were now on his arm, and unlike before, these ones actually had some depth and length to them.
+
+I was genuinely surprised by the difference; it couldn't just be ignored! Not only that, but I couldn't help but wonder...
+
+What if… I fold it again?

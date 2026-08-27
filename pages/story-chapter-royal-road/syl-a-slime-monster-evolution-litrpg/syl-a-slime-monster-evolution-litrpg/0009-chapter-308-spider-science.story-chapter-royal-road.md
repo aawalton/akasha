@@ -1,0 +1,223 @@
+---
+id: 87022fff-57da-51bb-87ff-43285eb7ecee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 308 : Spider Science"
+slug: 0009-chapter-308-spider-science
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 9
+ownLength: 2220
+unit: words
+ownProgress: 2220
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2727546/chapter-308-spider-science"
+royalRoadId: "2727546"
+markedReadAt: "2026-06-29T19:42:04.518Z"
+---
+
+We kept traversing across the coast until we were ready to call it a night. We had no real goal until Vee's quest revealed something, or we stumbled upon this mysterious Leon by accident. Either that, or we discovered civilization or other travelers.
+
+While Vee was the master of close-range detection, my whole repertoire of [Soul Sight], [Soul Sense], and [Soul Vision] meant that I could scout ahead for any threats.
+
+If we detected someone approaching, that gave me more than enough time to shapeshift into something less conspicuous. If they were friendly, we could ask them for directions to the nearest town, or if they'd spotted any mermen.
+
+I wonder if mermen are like elves and dwarves, or like goblins and orcs? In retrospect, I should have asked the elves about them.
+
+I didn't dare mention that to Vee, or I'd never hear the end of her teasing. It wasn't my fault that my usually good memory was partially selective based on what was more interesting to me.
+
+As I magically crafted our shelter for the night, I received endless complaints from the picky spider about my lack of imagination. Naturally, I proved her wrong by holding perfect slime replicas of various structures I'd seen or been in during my travels.
+
+My [Slime Mastery] boosted [Chimeric Mimicry] allowed me to replicate pretty much anything at a glance, especially when combined with my plethora of Soul traits. If I gave the order to my [Sub Cores], they could probably replicate a building down to the cobwebs in the corners or cracks in the walls.
+
+"So if you can make it out of slime, why not out of magic?" Vee asked.
+
+"Because slime is better and easier."
+
+"I bet if you took [Mana Shaping] you could do it."
+
+"I'm quite happy with [Mana Weaving], thank you very much. Once I finish my groundwork on new templates, magic will be a breeze. Plus, I'm sure I'll get [Mana Dominion] eventually."
+
+"Hopefully that's the best of both worlds," Vee agreed.
+
+I could create a solid chunk of earth and then use [Acid Slime] to melt it into a shapely structure. But now I don't want to. It would give Vee too much smug satisfaction. I lived in hollowed-out trees. She's gotten way too spoiled recently!
+
+We exchanged watch duty, although technically it wasn't needed due to my [Sub-Cores], but both of us wanted to be better safe than sorry. But despite our beach fortress cube, nothing disturbed us.
+
+We continued our journey, occasionally hunting monsters and fishing for food. This meant I got my hands on some basic aquatic creature profiles, but none of them really had anything I'd want. I needed a powerful monster to grant me something amazing like [Enchanted Fins].
+
+We could have travelled faster, but since Vee had yet to get any extra exclamation marks added to her "Urgent!!" quest, we figured there was still plenty of time to have our vacation.
+
+I spent most of my free time creating a good template for my spells so I could slot in my different affinities and get a result while Vee was trying to use [Mana Shaping] and [Dimension Magic]. I tried asking her what she was doing, but she kept saying it was a surprise she was working on.
+
+Of course, I did peek a few times, and all I could tell was she was trying to do something with either [Pocket Space] or [Rift Door]. Most of the time her targets were pieces of food, but other times she seemed to be casting it on nothing at all. It was very peculiar.
+
+The monsters we encountered during our hunts were surprisingly low level, meaning that even with my distribution maxed out towards my class, I'd yet to gain a new level.
+
+Fishing, hunting, and basking in the sun, our days were quite pleasant with no elven politics or assassination attempts. We were simply minding our own business and wandering.
+
+Then, one day, Vee exclaimed with joy and rushed to approach me.
+
+"I did it! I did it!"
+
+"Congrats, now what exactly did you do?" I asked.
+
+"It would be easier for me to show you. Also, can I have a heavy rock?"
+
+I pulled out one of my ultra-dense mineral orbs that I was using as a makeshift weapon with [Geokinesis] and placed it before her. Vee enlarged a bit before tying it to her back with thread.
+
+"Here goes nothing!" she cried out and used [Warp] to teleport herself out into the waves.
+
+I nearly cried out in surprise, not expecting her to be so reckless as she plummeted into the water, and rather than floating, sank like an anchor.
+
+"Vee!?"
+
+She didn't respond. I used [Blink] to follow her, and then I used [Metal Slime] to sink to the bottom after her. When I reached the bottom, I found her slowly scurrying along the seabed, radiating smugness across our bond.
+
+"Are you crazy? You don't even have [Bubble]!" I cried out in anger.
+
+Vee giggled. "Don't need it."
+
+"I beg your pardon?"
+
+"I don't need it anymore. I think I can hold my breath for weeks now."
+
+Her declaration was brimming with confidence, and I had no idea how or why. Rather than try to puzzle out what the spider had done, I demanded an answer.
+
+"Sure. It's actually pretty simple, I'm surprised you haven't figured it out."
+
+"Please spare me a guessing game…"
+
+"Okay, okay. So, do you remember that most of my organs are stored away?"
+
+"Vaguely… Mostly, it lets you eat things bigger than your entire body."
+
+"Yeah. So that trait has naturally been increasing, enhancing the efficiency of my organs, allowing me to store more of them, and enlarging their size, among other benefits. But that got me thinking, where exactly are they? I'd certainly thought about it a few times, especially after we first unlocked [Pocket Space] and especially with [Rift Door]."
+
+I thought back to her previous actions over the last few days.
+
+"Are you teleporting food in and out of your dimensional stomach?"
+
+"Ew, I'd never teleport it out," Vee quickly denied it. "But yes. And while I don't enjoy teleporting stuff into my stomach, as that takes away the joy of eating, I can do it. I figured I'd start small, you know?"
+
+"Okay…"
+
+"Anyway, I used [Mana Shaping] to kind of brute force finding the coordinates for my organs. Naturally, they overlap with me, but on a different axis… or something like that. I'm not really sure since I'm mostly going on feeling and force of will with [Mana Shaping]."
+
+"Go on…"
+
+"So first I found my stomach. Once I confirmed that it was working, I moved on to my next target—my lungs."
+
+"You teleported air into your lungs?"
+
+"Well, that was the idea. But that kinda didn't work. Even with their increased size, I could never store that much in them. So instead I enlarged the space where my lungs are first and then filled the 'room' with air."
+
+"That's crazy talk."
+
+"Compared to some of the stuff you've done? I think I've barely scratched the surface."
+
+"You're using magic to manipulate a trait… I've never done anything like that before."
+
+"I mean, I'm using [Dimension Magic] in conjunction with [Transdimensional Organs]. It's like when you combine your slime traits together, don't you think?"
+
+"So because they both have the word 'dimension' in them, they work together?"
+
+"Exactly!"
+
+"Sure… okay, whatever," I replied, giving up.
+
+"I thought you'd be happier. I now kind of don't need to breathe if I periodically empty and refill my breathing room."
+
+"Sure, I'm happy for you. I'm not happy about the headache you've given me trying to understand it."
+
+"Oh, and I reached level five in [Dimension Magic]!" Vee boasted.
+
+I was dumbfounded. I had the combination of [Prodigy] and [Elven Legacy] while Vee only had the latter. I'd originally surpassed her in [Dimension Magic] and now she'd somehow turned the tables.
+
+Did I really spend that much time messing with [Mana Weaving]? Or is her accomplishment so huge that she got a ton of bonus experience?
+
+"I can see I've stunned you into silence," Vee snickered. "Let's go back to the warm beach so I can show you the new spell."
+
+I agreed and we returned to the warm afternoon sands. Vee's wet body was immediately coated with layers of sand on her arrival.
+
+"Want me to clean you off?" I offered.
+
+"Surprisingly, no. I think this is the perfect opportunity to show off the new spell!"
+
+I watched as Vee began slowly casting a new spell. I knew she was trying to help me understand it, but even though it was entirely unmodified, I had no idea what she was doing. The best I could tell was that it was a personal targeting spell and that it used Dimensional Mana.
+
+Vee finished casting the spell, and her body instantly became slightly translucent. The sand covering her began to slowly sink through her and fall to the ground. A few brief moments later, she became fully opaque again, with not a spec of sand remaining.
+
+"Ta-da!"
+
+"Isn't that [Phase Out]?" I asked, noticing the similarities.
+
+"More like the bastardized version of it, but yes. The spell is called [Spatial Phase]," Vee answered.
+
+"Why bastardized?"
+
+"Because, unless I'm misunderstanding the spell that they installed into my noggin, it isn't a full rendition. It's why I didn't start sinking through the ground and why the sand slowly fell through me. [Phase Out] puts me on the other side entirely. [Spatial Phase] is probably… fifty percent at best, if I had to take a guess?"
+
+"And if you empowered it?"
+
+Vee cast the spell again and began flooding it with excess Mana. I stared with a bit of envy as the spell construct started to swell in size to accommodate the extra fluctuations with no deviations to its form. Vee cast the spell again, closely examining the results on her body after it went off.
+
+"Nope. Empowering it only increases its duration. So my judgment of it being the bastardized version still stands."
+
+I shrugged. "Well, considering I can't use [Phase Out], I'm pretty excited to get it."
+
+"I guess rather than negating all damage, you'd take half instead?"
+
+"Half is better than full."
+
+"Well, except for Dimensional or Rift stuff. I think you'd take extra damage."
+
+"Really?"
+
+"Oh yeah. I have to be super careful when using [Rift Threads] and [Phase Out]. It's the only thing I can interact with from the other side, but it's also the only thing that can hurt me. If we get dimensional attack spells later, I bet it would do the same."
+
+"It's kind of weird we haven't yet. But I guess if it's anything like your [Rift Threads], I can understand why it would be locked behind a high-level spell."
+
+"Yeah, cutting across dimensions is usually reserved for final bosses only," Vee chuckled.
+
+"Where did you hear that? More secrets from the spider queen dungeon?"
+
+Vee sighed. "No, not dungeons… Ugh, forget it!"
+
+"Sure… more importantly, if you've got level five, that means your next class level up should unlock Riftmancer!"
+
+"Oh. Yeah, I kind of forgot about that since I thought you'd get it first. I guess I'd better quickly swap away from racial experience for a bit to confirm it."
+
+I nodded excitedly. "Do it and let's go hunting. Maybe if we teleport inland for a bit, we can do some quick level grinding."
+
+"Not out to sea?"
+
+"I'd rather not until I get some better water traits. Even if we use [Blink], our maneuverability isn't as smooth down there."
+
+"Yeah, you're probably right. Okay, let's do it."
+
+We saved our beach coordinates and headed out, doing a series of rapid [Warps] looking for prey. As we moved away from the coast, Vee informed me that her quest had been updated to "Urgent!!!" Clearly, Unc wasn't pleased with our slight detour.
+
+We just want to get one quick level up, then we will get back to your quest. If it were really urgent, you would have given us better directions!
+
+With Vee handling our rapid transport and me detecting anything with a pulse, we began a bit of monster extermination. It was definitely a quantity over quality approach, that was, until I detected a rather large gathering of something underground.
+
+I informed Vee and headed in that direction. Landing and activating the [Tremor Sense] portion of my [Soul Sense], I noticed a small cave deep underground with a tunnel that headed out to the ocean.
+
+"Oh, that sounds cool. I think that's called a tidal cave?" Vee replied excitedly.
+
+"I have no idea. But if it's connected to the ocean, hopefully that means it's full of monsters with water traits."
+
+"Or maybe it's a pirate lair!" Vee chimed in. "So, how are we getting down there? It's too deep for my [Spatial Sense] to get coordinates."
+
+"I think that's my cue."
+
+"Oh no… I shouldn't have said anything," Vee groaned.
+
+"It's time for—"
+
+"Giant stupid worm!" Vee interrupted.
+
+"—[Acid Slime] digging..."
+
+Vee was silent as I felt her many eyes accusing me. "You set me up."
+
+"I did no such thing," I replied, suppressing my desire to giggle like a mad slime.

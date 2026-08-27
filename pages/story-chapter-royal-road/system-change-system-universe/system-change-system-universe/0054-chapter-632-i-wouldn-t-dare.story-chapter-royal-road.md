@@ -1,0 +1,121 @@
+---
+id: ddbc5cfb-4807-584f-b45b-7f61c3cef930
+page-type-slug: story-chapter-royal-road
+title: "Chapter 632: I Wouldn’t Dare!"
+slug: 0054-chapter-632-i-wouldn-t-dare
+partOf: system-change-system-universe
+position: 54
+ownLength: 2217
+unit: words
+ownProgress: 2217
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3089564/chapter-632-i-wouldnt-dare"
+royalRoadId: "3089564"
+markedReadAt: "2026-06-29T19:58:27.542Z"
+---
+
+Chapter 632: I Wouldn’t Dare!
+
+“Oh! This is going to be so much fun!” Jace half-shouted as he stepped forward. “So many high-level enemies. All dangerous… my Battlelust is going to go wild.” He tried to run at the charging crowd, but Derek grabbed him by the back of his leather armor.
+
+“Marrick just prepared the ground for a surprise attack,” Derek said. “You can rush in once they are caught up in it. We don’t need you going off and keeping them from entering his range.”
+
+“Fine.” Jace shook Derek’s hand off, but he was still shaking with excitement. “They need to hurry!”
+
+“Is everyone ready?” Derek asked as he looked at each party member who wasn’t inside his Time Prison.
+
+Nivara was at the very back. Actually, she and a dozen or more illusions were all standing at the very back. It didn’t take Derek long to figure out which one was the real Nivara. He nodded at her, then looked at Klaus… or where Klaus technically was. He had already scattered into molecules and was floating around. The man was likely the hardest to kill out of the bunch—even when compared to Derek.
+
+Edgar was extremely excited. He hadn’t been able to do anything against the flying stingrays because of their tough skin and affinity for earth, but these smaller, agile creatures would likely be different. He’d been itching to be useful for once since arriving in the new system.
+
+Marrick was still standing in the front beside Derek. He had one foot out farther than the other so he could begin his manipulation at any time. Jace was beside Derek with his kukris drawn and his eyes sparkling. And Amelia stood stoic behind Marrick—not a single emotion could be read on her face.
+
+“Amelia, if things turn bad, I may need you to use the same move that you use to ground the gourups that we fought,” Derek said.
+
+“I’m not sure how many I would be able to take out with it, and it would leave me a sitting duck. That kick does not leave me unharmed, after all,” Amelia said with a frown.
+
+“No,” Derek said, shaking his head. “I won’t need you to hit an enemy with it. I’ll need you to hit me with it. Remember the beam I used before? The one from my armor? If we are overwhelmed, we will use it as a last resort. Your kick will literally kick-start the accumulation of power for it so I can release a stronger one sooner.”
+
+“I see,” Amelia said with a nod. “Then I will do so if it comes to it.” After that, the giant of a woman floated into the air so she could attack from above. Seeing her, Edgar chose to do the same. Derek decided he’d stay on the ground for the time being so Marrick and Nivara would have a bit more protection.
+
+Silvi, after being told to go easy on her Void Lightning Bolt and other void skills, had pulled out a shield from her spatial ring and was floating on it instead of the pot lid she always made with her Void Creation (Cooking) skill. Her knives orbited around her, then split into more knives and began spinning faster. Soon, she was in the middle of a deadly sphere of orbiting cooking knives. She, too, chose to float above the battlefield.
+
+Derek held Harbinger out to the side with the butt end resting on the ground. He cracked his neck and slightly bent his knees. “Marrick, you’re giving the order for us to jump into the fight. I don’t want to disrupt anything until you are finished.”
+
+“Got it,” Marrick replied, then held his hands out with his palms facing the ground. “They are almost in range. The idiot is already in range. Want me to bury him?”
+
+“No, we don’t know his story or why he’s here. We need answers, so we need him alive,” Derek said.
+
+“Of course,” Marrick said with a snort. “I said bury, not kill. He could surely survive without air for a bit while we mop up these monsters.”
+
+“Let him stay,” Derek replied. “If he turns around to help us fight, then we will have some understanding of his character. If he runs… then I’ll send Amelia after him once this is all over. He looks exhausted, and he’s not nearly as quick as she is.”
+
+“Okay,” Marrick said with a nod. “The front of the pack is in range,” he added as the man finally got close enough that he no longer had to shout for them to hear.
+
+“P…please…” he muttered as he stumbled the rest of the way to Derek, Marrick, and Jace. “Help… I… I am sorry…” The man, who seemed relatively young—but who could really know—stopped directly in front of Marrick and pleaded with him.
+
+“I’m not in charge, boy,” Marrick said, nodding his head at Derek. “He is.”
+
+Before the young man could say anything, Derek said, “Rest up a bit. Heal what you can. Then join the fight.” He left no room for argument. The young man would either do as he asked or run.
+
+“Yes… I… I will do so,” he said. “Thank you…”
+
+“Do these things fly?” Derek asked.
+
+“Fly? Uh… some do,” the young man answered, his breathing stabilizing a bit. “But they are faster and more agile on the ground.”
+
+“I see,” Derek said. “Go rest beside the elven woman behind us,” he commanded.
+
+“They are in range,” Marrick finally said. “I’m attacking.” The old elf let out a stomp, and what could only be described as an earthquake rumbled throughout the area. Spikes of earth shot out of the ground and, though they did not penetrate the monsters, they completely disrupted their momentum. After that, a cloud of sand formed in the middle of the pack before turning into a cyclone.
+
+Marrick’s control of sand was better than his control over earth, so the sand cyclone did draw blood from many of the beasts—a weird, blue blood. With much of the striders’ momentum disrupted and some lightly injured, Marrick clapped his hands together, and the sand cyclone closed in around a few of the beasts. Finally, it shut tight, and he began grinding those trapped inside down.
+
+“Now!” Marrick shouted.
+
+Jace was already running with both blades held out to his side. Bolts of lightning started raining down, and Silvi dove into battle like a pinball bouncing from enemy to enemy—leaving damage but nothing fatal yet. Amelia stayed still above and observed for a bit while Marrick continued to squeeze the life out of the trapped striders.
+
+“Durable beasts,” he muttered as he clenched his fists.
+
+“If things turn bad, take Nivara and the new guy and fly away,” Derek said, then took off behind Jace before Marrick could reply.
+
+By the time Derek was halfway there, Jace was already in the middle of the herd, being tossed around like a rag-doll with a huge smile on his face. Derek had never seen someone become covered head to toe in blood as often as his friend. But Jace was very correct in the fact that his Battlelust was going to grow at record speed. Even before getting to the battle, Derek could see Jace’s wounds starting to regenerate faster and faster.
+
+When he was in range, Derek reached out and focused on using Spatial Collapse on one of the distracted striders. He aimed for its head, and the spatial cube did its job. It was an instant kill. It’s good to see that extremely vital hits like that can still kill instantly, he thought. Now, what he just did would only work on the more distracted dumb beasts, but it was better than nothing.
+
+Next, he swung out with Harbinger with Spatial Rend and left a gruesome wound across another one of the striders’ backs. That was enough for a handful of them to turn from Jace and rush Derek. He jumped over the first small group and landed next to Jace. “When I say jump, you leap as high as you can!” he yelled.
+
+“Okay,” Jace said without any complaints.
+
+Like sitting ducks in the middle, dozens of monsters rushed him and Jace. Derek held Harbinger at the side, then activated Multi-Strike. “Jump!” Derek yelled, and Jace did. Finally, Derek activated Whirlwind Slash, and a shorter-range projection than Sweeping Strike exploded out. It may have been shorter range, but it covered 360 degrees all around him.
+
+Derek heard the hurt cries and squeals before he saw the damage he’d done. Two of the closest creatures were beheaded, and many more were grievously wounded, but only the two died. Derek looked around, expecting Jace to fall to the ground any second, but when he didn’t see him, he looked up. Jace was floating around fifteen feet off the ground, and there was a blue-tinted Kethian Strider flying next to him, attacking.
+
+Derek was only able to watch for a couple of seconds, but in the short time that he did, he felt like he was watching two babies trying to figure out how to walk for the first time. The young man was right when he said the striders fought much better on the ground than in the air. Jace had never really had the opportunity to learn to use his flying skills before, so it was all new for him, too.
+
+Still, he didn’t look like he would get into too much trouble, so Derek focused back on the enemies surrounding him. An ice spike suddenly appeared, flying at his head, and without thinking, Derek used Spatial Redirection to direct the spike into the eye of one of the other striders. He wasn’t sure what kind of damage it would have done to him, but he was glad he had reacted fast.
+
+Still, he was surrounded by enemies and constantly being thrashed. His armor, which had rarely taken any damage before, had chips in it, was bent in some places, and a couple of attacks had even managed to break through and find his body.
+
+Once Spatial Collapse was off cooldown, Derek attacked with it again—killing another enemy. He continued to use Sweeping Slash, Whirlwind Slash, and Multi-Strike—along with his other non-void-related skills—to attack whenever he could. It certainly wasn’t easy fighting while holding back and not using the skills he’d grown so used to.
+
+Finally, Amelia made her move after studying the battlefield. Instead of falling to the ground and fighting alongside Derek, she moved quickly and pulled two striders to her with her force-like abilities. She then took them high into the air and forced their heads together over and over until they died. Derek caught a glimpse of what she was doing and was shocked at the amount of damage the beasts were able to take like that before running out of health.
+
+Still, Amelia was whittling the beasts down two by two, and she was doing it safely and from a position where she could see the entire battlefield. He could certainly tell by her actions that she used to be a leader—and a damn good one.
+
+After a while, Jace finished off the strider he’d been battling and landed beside Derek—blocking a blow that was about to hit Derek’s back with one of his kukri. “My Battle Instinct never lets me down!” he shouted as he activated a skill and slashed apart multiple tendons in the enemy in front of him.
+
+“It certainly makes things interesting,” Derek said as he grabbed a strider by the throat and tossed it into the air, only for it to be hit and carried away by a rotating sphere of knives with Silvi in the center. She carried it high into the air as chunks of flesh and blue blood rained from the sky while she ground it down to death.
+
+Finally, two more striders rushed Derek, and he brought one hand up to block one and tried to stab out with his glaive. However, before the beasts reached him, they were yanked back and fell onto the ground, struggling to get up. Derek looked past them and saw the young man panting with his arms out. He’d obviously used some kind of crowd control skill on the beasts, but Derek didn’t have time to figure out what kind.
+
+Instead, he quickly used Spatial Rend on one of the struggling beasts, then Material Drain from Harbinger on the other to quickly repair Harbinger back to perfect condition. Derek nodded at the man. “I didn’t think you would actually help,” he said.
+
+“It’s mostly my mess,” the panting man said. “I can’t just stand back and watch as others clean it up.”
+
+“Good,” Derek replied. “Are you a support class?”
+
+“Not necessarily,” the man replied as he ducked under a charging beast, and Derek kicked it into the air before it was also taken away by Silvi. “But my attacks aren’t great against these things, and I’m exhausted.”
+
+“Stand between us,” Derek said—motioning between Jace and himself. “Help when you can… but… know that if you betray us, it will be the last thing you ever do.”
+
+“I understand,” the man said as he fell into position. “I wouldn’t dare.”

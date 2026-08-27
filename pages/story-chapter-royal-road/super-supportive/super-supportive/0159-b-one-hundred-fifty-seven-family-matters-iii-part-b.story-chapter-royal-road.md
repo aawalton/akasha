@@ -1,0 +1,305 @@
+---
+id: bade8918-95a2-5455-bf8d-23a6a23a5969
+page-type-slug: story-chapter-royal-road
+title: "B. ONE HUNDRED FIFTY-SEVEN: Family Matters III, part B"
+slug: 0159-b-one-hundred-fifty-seven-family-matters-iii-part-b
+partOf: super-supportive
+position: 159
+ownLength: 3234
+unit: words
+publishedAt: 2024-07-22
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1728060/b-one-hundred-fifty-seven-family-matters-iii-part"
+royalRoadId: "1728060"
+---
+
+******
+
+157B
+
+******
+
+The personal advisement meeting was on the first floor in a cozy spot that looked nothing like the cramped teacher’s office or bland conference room Alden had expected. A rectangular wooden table with just four chairs sat in front of a wall with an unlit gas fireplace. On the opposite wall, a gallery of matching wooden frames held pictures of famous alumni. There was a coffee maker with a bowl full of pods beside it in one corner.
+
+It would have been a comfortable place for a meeting, except for the other attendees.
+
+What the heck? Why? Alden thought while he nodded politely and let Lesedi Saleh show him her favorite kind of coffee pod and the selection of flavored sugars. Why these two? I don’t feel like I need advisement from either of them right now.
+
+Up until the moment he’d walked in, he’d been assuming that lots of people were getting advised about something today.
+
+But while Instructor Klein, who was sitting with his back to the fireplace, might have time for general student advisement at a time like this, Alden doubted that Principal Saleh did.
+
+Isn’t she dealing with a hundred other things right now?
+
+And they were both smiling at him a lot. Lesedi Saleh was understandable, but Klein? He smiled at some people in class. Not Alden.
+
+His look usually says I’m more of a worrisome project he’s been given against his will.
+
+Alden took the seat across from the man and stirred vanilla sugar into the coffee.
+
+“As I was saying…” Principal Saleh stepped through the back of the chair, then sat down. “We just want to have a talk with you before classes re-start. We’re checking in with everyone who was on the bus Friday night. That was a much different end to your trip than we’d imagined.”
+
+Alden relaxed immediately. It made more sense for this meeting to be conducted by the two of them if they were only checking on the few students who’d been on The Span.
+
+“Since we have you here, we also want to offer you some options for finishing out the rest of this quarter,” the principal continued. “First, how are you feeling about what’s happened? Do you have any concerns or questions? Please feel free to talk about anything you like. The room is private, and anything you say will stay here.”
+
+Alden didn’t really have much to say. The situation on the bridge was over. He was of the opinion that everyone in his class had behaved well and that Instructor Klein had done a good job of instilling order and giving instructions when the sirens first went off.
+
+What had happened to him afterward wasn’t the school’s business, as far as he was concerned, so he brushed over it by saying he’d been transported to a flyer but there had been a problem boarding it.
+
+He didn’t have any requests they could help him with right now, but he thanked them for offering.
+
+It took him just a few minutes to cover it all, and he expected there wouldn’t be much more to talk about. But Instructor Klein and Principal Saleh kept exchanging glances that made him think there was a private conversation going on between the two of them.
+
+“You’ve been performing extremely well in the gym,” Klein said finally.
+
+Principal Saleh nodded. “In the short time you’ve had since you were accepted, your progress has been exceptional. We were talking about it just before you arrived. A preservation talent that doubled as a shield for you was already useful. In the past couple of weeks, it’s revealed a remarkable depth and versatility.”
+
+“Thanks,” said Alden. “I’m still working out how I caught the tennis balls with my eyes closed. I’ve made a little bit of progress. I think it’s going to take me a while to get the hang of it, but when I do it should be really interesting.”
+
+“Yes.” Lesedi Saleh smiled again. “Very interesting.”
+
+“The new wordchain you’ve learned is also going to be helpful to you,” Klein offered. “Mastering chains is a good way for someone in your position to make up for low foundation points. If you have a knack for them and you’re willing to dedicate the time necessary to make them a reliable part of your toolkit, that’s something we’ll support.”
+
+“Even if it leads the occasional classmate to decide you’re cheating with performance enhancing drugs,” the principal added lightly.
+
+I decapitated that classmate, thought Alden, so we’re even now.
+
+He was about to sip his drink when Klein said, “With as well as you’ve done, we all think it’s only a brief matter of time before you level. It’s good work already for the truncated quarter. With that in mind, we wondered if you might want to consider taking a break from the combat class.”
+
+Alden accidentally stabbed himself in the chin with the wooden stir stick he’d left in his cup.
+
+No! That’s a shitty idea! Why would they suggest it out of the blue?
+
+“No,” he said, being careful not to add an exclamation point. “I don’t want to. Why would I?”
+
+“We only have a few more classes until the end of term,” said Instructor Klein. “In the long run, skipping them for the sake of recovery and personal study might be for the best. You could focus on your wordchains and then start with a full course load again in January.”
+
+Is this the same man who gave us all a huge lecture two weeks ago?
+
+You have twenty-one classes between now and the end of the quarter! Be here ten minutes early not ten seconds late. Take your mediocrity elsewhere, time wasters!
+
+“It’s fourteen classes,” said Alden.
+
+He was trying so hard to keep the “What the hell are you talking about?!” out of his voice even though he was sure it was on his face.
+
+“I planned to attend all of them.”
+
+It’s why I’m at this school.
+
+“I mean…I was already a little disappointed we weren’t having gym tonight.”
+
+“You’re in a cast, Alden,” Principal Saleh pointed out.
+
+“Yes, but I could have sat on the bleachers and studied what everyone else was doing. And my<<squishboot>> will probably be off by Wednesday. I’m seeing a really good healer.”
+
+They were both still looking at him.
+
+“…do I need to bring a note from him?” Alden asked. “I can do that.”
+
+Porti-loth would most likely use tree sap to write, “Esh-erdi gave me this. I healed it,” on his forehead.
+
+“We’re not going to prevent you from attending class if that’s what you want to do,” Principal Saleh said. “As long as you continue to navigate the course as well as you have been.”
+
+What?
+
+“But you have just been through your second disaster in a single year,” she continued. “The program is competitive and stressful. Those factors encourage power growth in most of our students. However, when life outside of school is delivering more than your fair share of difficulty already…intense training can be something that breaks you down instead of builds you. We want you to be particularly cautious about it given your situation.”
+
+“Thank you, but I’m fine.”
+
+“I also want to point out that this is as perfect an opportunity for you to take a step back as we could ask for,” she said. “Several other students, including a member of your class, will be taking personal time due to recent events. Your absence wouldn’t be shocking or resented.”
+
+I am shocked and resentful at the suggestion though. So no.
+
+“I’m really looking forward to being at every combat class,” he said firmly. “Ten minutes early.”
+
+There was another awkward pause, then Instructor Klein clasped his hands on the table and dropped the smile in favor of a stern look that was much more natural on his face in Alden’s opinion.
+
+“One thing we haven’t really had time to discuss with your class yet,” he said, “is how important mental state is. And how much superheroing, or any similarly taxing profession an Avowed might pursue, involves managing that carefully.”
+
+For some reason, even with that line, Alden didn’t realize a small strike was incoming until it landed.
+
+“Peace of Mind is an excellent wordchain,” said Klein. “Your use of it on Friday night was completely appropriate. But…”
+
+******
+
+This is not a big deal.
+
+Alden shoved his hand forward to make the nonagon go faster. The wind cooled his face. He told himself his cheeks were only hot because the admin building had been warm and not because he’d gotten flushed from irritation and embarrassment.
+
+It’s their job to make sure I’m okay. They were just doing it.
+
+But he hated the way it threw his own efforts to sort himself out into disarray.
+
+Here he was, collecting all the fallen pieces and putting Alden Thorn, CNH Student, back together again. He was busy deciding what to do and say about murders, commendations, and Matadero.
+
+It was his life, he was going to handle it, and he was looking forward to reclaiming his little scraps of normal.
+
+Then here comes someone to throw a rock at me because, “We just want to be sure you’re solid. One of your classmates expressed concern about you. Have you talked to a professional about this yet?”
+
+He clenched his jaw.
+
+This kind of thing is always a trap. You get annoyed because they’re picking at something sensitive. But if they notice you’re getting annoyed, it’s like, “We’ve found a problem after all!” and the questions just keep coming.
+
+Or you say the wrong thing, freak them out, then they watch you like a hawk for months. And every time you have any emotion whatsoever from that point on it becomes something worthy of analysis.
+
+Not that that would be happening here; he was just having flashbacks to a particularly horrible period in elementary school. Torsten Klein and Lesedi Saleh did seem willing to accept his decision not to prop his feet up and twiddle his thumbs for the next five weeks worth of combat classes.
+
+Alden had explained that the incident on the bus had been triggered by the sudden lack of System features. That kind of thing wasn’t going to be happening every other week…
+
+I hope.
+
+He wondered who’d noticed and “expressed concern”. Not Haoyu obviously; he was fine expressing concern to Alden’s face.
+
+Let it go. Think of the good things about the meeting.
+
+They approved of his progress and the wordchain study. He’d gotten a free coffee. They hadn’t asked what was up with him and Esh-erdi.
+
+Though Klein had made an odd comment about how he might want to steer clear of the university’s cultural advisor that could have been a reference.
+
+They’d also reminded him to talk to his instructors as soon as the System announced that he’d leveled. So that he could get advice about choosing talents and foundational enhancements.
+
+That’s a problem for another day.
+
+He flew around, cooling his face and his temper for so long that he ended up being a little late to the Intro to Other Worlds meeting. He was disappointed to learn that the course wouldn’t resume until next Monday. The only assignment until then was “do your best” on the essay.
+
+Vandy caught him at the end of the meeting. “You’re already wearing your uniform.”
+
+“Yep. We match,” said Alden. Except she didn’t have nonagon hair.
+
+“How did you get hurt? Was it on the bridge?”
+
+“No. It was afterward.”
+
+“You weren’t on campus this weekend,” she informed him.
+
+Talking to her is already getting familiar. He didn’t mind the way it pulled him back into a known rut.
+
+“I was just waiting around on a healer and finishing my essay.”
+
+“You finished already?”
+
+So he was right. She was the kind of person who could look truly caught off guard to find she wasn’t winning at homework. Even at a time like this.
+
+“Of course! Why wouldn’t I have? I wrote about ewtwee.” Unable to resist, he smiled at her and added, “Didn’t you finish yours?”
+
+“I’ll finish it tonight,” she said.
+
+Alden wondered if she was going to report back to him the second she’d turned it in.
+
+They headed to a classroom in the MPE building, then waited around on everyone else so that they could have the meeting for gym.
+
+Unsurprisingly, Vandy—frequent monitor of Alden’s pockets—was a wealth of information about the others.
+
+While she watched Aulia Velra’s speech on a tablet, she told Alden she was worried about Maricel, who she’d barely seen or heard from since Friday, and Tuyet, who was dealing with a family situation.
+
+Everly had announced she’d be taking up running to build her stamina. Njeri was trying to talk her into hockey instead.
+
+Winston and Finlay had had a spat that neither of them would talk about.
+
+Marsha had gotten told off yesterday for trying to practice jumps with her polearm in the street beside the dome village. And their class’s Object Shaper had gotten emotional after the campus vigil and confessed to his roommates that he thought if he’d died during the flood nobody would have remembered his name.
+
+Maricel and Rebecca had leveled. No one was celebrating them as much as they usually would have because Jeffy had gotten two levels, and yesterday, the mother of a man he’d lifejacketed had come to campus and told him he could have a free lamp.
+
+“A lamp?”
+
+“She owns a lighting store.” Vandy paused the tablet. “Did you level?”
+
+“Nope.”
+
+“I’m surprised Konstantin didn’t. He has been practicing for months, and he says he had a breakthrough. So he’s a little disappointed.” She pursed her lips.
+
+Alden wondered if she was disappointed in her own progress.
+
+They’d only been at school for a short while, but most of the students had been practicing as well as they could for weeks or months prior to applying. People who hadn’t leveled before they were accepted—which was most of them—were bound to be getting antsy already even if Klein had told them not to.
+
+What he calls the System’s “eccentric” management of leveling really does give it a lot of control over our behavior and moods, doesn’t it?
+
+Its tendency to announce a level-up after an Avowed had achieved something or learned something new about their powers was both encouraging and manipulative.
+
+If leveling announcements came at exactly “x amount of dominion over the universe gained” it would be more honest. But then it might have had to tell Jeffy he’d leveled a month ago, at a random moment, and he’d have been depressed all of the talent options involved water.
+
+Now it could tell him he’d gained two at once to drive home the point that success came with being helpful and aquatic.
+
+Alden felt…
+
+I don’t know how I feel about them affixing, he realized. But it’s not simple.
+
+He hadn’t had to think too hard about his classmates leveling up yet. When it came to progressing as an Avowed, dealing with himself filled his plate and then some. And, when he had thought about what the others would do, it had mostly been because they were all talking about it.
+
+They wanted it. They’d joined Talent Dev for it. Leveling the classes they’d chosen would make them proud and happy. It would make them stronger.
+
+They would get new spells and skills. They would mold themselves into people they could never be without the System.
+
+And it wouldn’t hurt.
+
+And they wouldn’t ever know.
+
+Even if they understood in the factual sense…they wouldn’t know.
+
+He stared at the empty desks that filled the row in front of him. Vandy kept giving him a rundown of everything, but her voice faded into the background.
+
+It’s not right. So much of it’s wrong.
+
+He couldn’t grapple with it right now. He tuned back into Vandy. She was telling him that someone who had family in Apex was talking about moving off campus to live with them.
+
+Just then, Olive and Reinhard walked into the room. He was carrying his bow. She was wearing pink tights and sneakers that squeaked on the floor, which would have made it easy to distinguish her from the silent illusionary Olive walking behind her even without Alden’s unique detection method.
+
+“You’re talking about people moving off campus? I’m thinking about it, too,” Olive said. “I love the dorms, but at the moment, I just want to hug my mom and brother about ten times a day to make sure they’re safe. Family matters more than anything else, right?”
+
+“What happened to your foot?” Reinhard asked, grabbing a desk two up from Alden.
+
+“It’s from when you shot me during combat assessment,” said Alden. “The old wounds flare up every now and then.”
+
+“Ha! You’re funny today. Where did you go when you left the bri—?”
+
+[Video call from Twenty-seven Hundred and Sixty-first General Evul-art’h, Artona I. Connection fee waived.]
+
+Alden stood up from his desk. “Sorry. I’m getting a call. I need to take it.”
+
+He hurried out and down the hall before slipping into an open classroom and shutting the door behind him. As soon as he accepted the call, Evul-art’h appeared. She was on her window seat lounger, arms crossed over her chest.
+
+Alden scanned the room around her for signs of Stuart. Usually he was right there to snatch the tablet from his sister.
+
+“Are you squashing him again?” he asked in Artonan.
+
+Both of her pink eyes were focused on him. When she didn’t answer for half a minute, Alden wondered what was up. When it went on for another half a minute, he got nervous.
+
+“Where’s your brother?”
+
+“In the big living room,” she said finally, “trying to force everyone else to understand something that I can already tell will only ever make sense to him.”
+
+Well…that’s an answer.
+
+She pointed the middle three fingers of one of her hands at him. “Stu likes you more than I realized.”
+
+What does that mean?
+
+She didn’t seem mad. But she did seem a lot less jokey than usual.
+
+“He did name Alden after me,” Alden answered when he couldn’t think of anything else to say. “We do talk every week.”
+
+“Yes. But he experiments sometimes in pursuit of personal development. He has <<phases>>.”
+
+Alden waited.
+
+“Questions about the <<home-wandering>> human were asked today. And he was forced to confess that he didn’t contract with you for Privacy of the House.”
+
+Oh shit. Is he in major trouble for that?
+
+Stuart made it sound like it wasn’t going to be a huge issue.
+
+“I don’t mind getting a tattoo for that,” Alden said quickly. “I have no desire to share information that shouldn’t be shared.”
+
+What kind of idiot would even want dirt on these people? It sounded hazardous for the health.
+
+“It’s not that serious,” said Evul-art’h. “Not to me, anyway. I just wanted to look at you a little harder.”
+
+Alden swallowed.
+
+“And I wanted to tell you that Stu will either call you soon or never again. Depending on how the discussion in the big living room goes.”
+
+“Why?” Alden said. “Did I do something?”
+
+“No. He’s just fallen into the <<trap>> of a family <<negotiation>>.” She smiled. “We’ll see how it turns out.”
+
+******

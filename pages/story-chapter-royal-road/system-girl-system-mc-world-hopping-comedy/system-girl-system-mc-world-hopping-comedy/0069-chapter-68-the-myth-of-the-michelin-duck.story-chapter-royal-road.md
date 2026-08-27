@@ -1,0 +1,309 @@
+---
+id: 239f288b-f138-551f-b6f7-9a2ac1eb8c6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: The Myth of the Michelin Duck"
+slug: 0069-chapter-68-the-myth-of-the-michelin-duck
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 69
+ownLength: 2228
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3228146/chapter-68-the-myth-of-the-michelin-duck"
+royalRoadId: "3228146"
+---
+
+The docks of Duckland at dawn were a sensory assault. The air was a thick, wet blanket of salt spray, rotting seaweed, and the pungent, copper tang of fish guts. Seagulls screamed overhead, diving like white missiles at the catch being hauled in by the fleet.
+
+Ren stood at the edge of Pier 4, watching the chaos with the calm detachment of a man who knew he was about to spend a lot of money.
+
+Captain Salt-Beard, the toothless sailor who had reluctantly sold him the crabs, was waiting. He looked nervous. He kept glancing at the water, then at Ren, then at the heavy purse of coins swinging from Ren’s belt.
+
+"My Lord," the Captain mumbled, wringing a hat that looked like it had been chewed by a shark. "You sure about this? The lads... they think you're touched in the head. Buying vermin is one thing. But these... these are worse."
+
+Ren adjusted his cloak. The wind was biting. "Define worse."
+
+"They're aggressive," Salt-Beard said. "Meaner than the spiders. And they got tails that snap like whips. We call 'em Sea Scorpions. Found a nest of 'em off the Black Reef."
+
+Ren frowned. "Scorpions? As in... venom?"
+
+"Nah. Just ugly. Hard shell. Claws that can take a finger off. And the tail... It's all muscle. But the meat inside... some say it's sweet. If you can get past the shell without breaking a tooth."
+
+Ren’s interest piqued. Hard shell. Muscular tail. Claws.
+
+"Show me," Ren said.
+
+The Captain signaled his men. Two burly sailors hauled a crate up from the water. It was heavy, water sloshing out the sides. They dropped it on the pier with a wet thud.
+
+Ren stepped forward. He peered through the slats.
+
+Inside, thrashing against the wood, was a creature of nightmare. It was dark blue, almost black, with massive, crushing claws and a long, segmented tail that curled under its body.
+
+Ren’s heart skipped a beat.
+
+It wasn't a scorpion. It was a lobster.
+
+But not just any lobster. It was a Homarus Gammarus. A European Blue Lobster. In his old world, these were rare, prized for their sweet, firm meat. Here? They were apparently pests.
+
+"Open it," Ren commanded.
+
+The sailors looked at him like he was suicidal. One of them pried the lid off with a crowbar and jumped back.
+
+The lobster reared up, clicking its claws. It was huge—easily ten pounds.
+
+"Beauty," Ren whispered.
+
+He reached into his inventory. He pulled out a thick leather glove—purchased from the blacksmith—and put it on. He reached into the crate.
+
+"Careful, My Lord!" Sylas warned, stepping forward.
+
+Ren grabbed the lobster by the carapace, just behind the claws. The creature flailed, its tail snapping with a powerful thwack-thwack sound.
+
+"Look at that tail action," Ren murmured. "That's pure muscle. That's going to poach beautifully in butter."
+
+He turned to the Captain. "I'll take them. All of them."
+
+Salt-Beard gaped. "All of 'em? There's fifty in the hold. We were gonna crush 'em for chum."
+
+"Don't you dare," Ren said. "I want them alive. Build a holding tank. Circulate the water. If one dies, I dock your pay."
+
+He tossed the bag of coins to the Captain. It was heavy.
+
+"And Captain?" Ren added. "If you find any other 'monsters' down there... call me first."
+
+Salt-Beard clutched the gold to his chest. "Aye, My Lord! We'll fish the whole damn ocean dry for you!"
+
+[Ana: You realize you’re going to need a bigger tank? And butter. So much butter. I’m already browsing the dairy futures.]
+
+"We'll manage," Ren thought, watching the sailors load the crates into his wagon. "Lobster Thermidor. Lobster Rolls. Bisque. The menu just got an upgrade."
+
+…
+
+The return to the estate was brief. Ren had a schedule to keep. He needed to scout the competition.
+
+But first, he had the hardest task of the day.
+
+Saying goodbye to Lily.
+
+He stood in the hallway of the inn, his cloak fastened, his boots polished. Lily was in Mira’s arms. She knew something was up. Babies have a sixth sense for departure.
+
+"I have to go, peanut," Ren said, reaching out to boop her nose.
+
+She dodged the boop. She grabbed his finger. Her grip was iron.
+
+"Na," she said. It was a clear, declarative statement.
+
+Ren froze. "Did she just...?"
+
+"She says that a lot lately," Mira sighed. "Especially at bath time."
+
+"Dada sta..," Lily commanded, her blue eyes filling with tears. She deployed the weapon. The Lip Wibble.
+
+It was devastating. Ren felt his resolve crumbling like dry cake.
+
+"I can't take you," Ren explained, his voice pleading. "We're going to a fancy restaurant. The Gilded Swan. It's... high society. There will be elves there. Servants. If they see you... if they sense you..."
+
+He looked at Mira. "It's too risky."
+
+Mira nodded, though she looked sad. "I understand, Master. We will stay here. We will play with the puppies."
+
+Lily wasn't buying it. She pointed at the door. Then she pointed at herself. Then she pointed at Ren’s pocket.
+
+"Pooke..!" she demanded.
+
+"You don't fit in my pocket anymore," Ren laughed weakly. "You're getting big."
+
+She scowled. She looked around the room. She spotted Smokey, the shadow wolf pup, sleeping by the fire. She pointed at the dog.
+
+"Lide!"
+
+"No riding the dog," Ren said. "He's not a horse."
+
+Lily let out a huff of pure frustration. She reached into her swaddle and pulled out her favorite rock—a smooth grey stone Ren had found in the river. She held it out to him.
+
+"Paa..," she said.
+
+Ren’s heart broke. She was trying to bribe him. With a rock.
+
+"Oh, sweetie," Ren whispered. He took the rock. "I'll keep it safe. But I still have to go."
+
+He leaned down and kissed her forehead. She smelled of milk and magic.
+
+"I'll bring you something," he promised. "Something sweet. Maybe a bun."
+
+She stared at him, unimpressed. Then, with a dramatic sigh that belonged on a stage, she turned and buried her face in Mira’s shoulder. The cold shoulder.
+
+"Go," Mira mouthed. "Before she summons a storm."
+
+Ren fled. He walked out of the inn feeling like the worst father in history.
+
+[Ana: You’re doing the right thing. If an elf waiter drops a tray because he feels the Queen’s aura, your cover is blown. Besides, do you really want a toddler at a fine dining establishment? The food-throwing potential is high.]
+
+"She has good aim," Ren admitted, trudging toward the carriage. "She hit Borin with a carrot from twenty paces."
+
+…
+
+The Gilded Swan was located in the Noble District, a place where the streets were swept clean of dust, and the buildings were made of white marble.
+
+It was intimidating. A velvet rope blocked the entrance. A magical light crystal hovered above the door, casting a soft, golden glow.
+
+Ren stepped out of the carriage. Sylas was beside him, looking every inch the perfect butler.
+
+They approached the door. The Maitre D', a man with a nose so upturned he could probably see his own eyebrows, blocked their path.
+
+"Reservations?" the man drawled, looking at Ren’s clothes. They were expensive, but they weren't nobly expensive. They lacked the embroidery of the old families.
+
+"Lord Fenris," Sylas said, his voice cutting through the air like a knife. "Table for one. The corner."
+
+The Maitre D' paused. "Fenris? I don't recall..."
+
+Sylas didn't speak. He simply lifted his hand. On his finger, he wore a ring with the Fenris crest—a duplicate Ren had made for him.
+
+The Maitre D's eyes flicked to the ring. Then to Ren’s own hand, where the heavy silver signet rested.
+
+His demeanor changed instantly. The sneer vanished, replaced by an oily, terrifying smile.
+
+"Ah! My Lord! Forgive me! We have a private booth just for you. Right this way."
+
+He unhooked the velvet rope.
+
+As they walked through the opulent dining room, Ren looked around. Crystal chandeliers. Silk tablecloths. Elven servers move silently between tables.
+
+"Nice decor," Ren murmured. "A bit gaudy."
+
+The Maitre D' led them to a table near the window. He pointed to a golden plaque on the wall.
+
+"You admire the crest?" he asked, preening. "The Royal Seal of Culinary Excellence. Granted by His Majesty himself. There are only two in the entire city."
+
+Ren looked at the seal. It was a gold shield with a fork and knife crossed over a crown.
+
+"It means we are the best," the Maitre D' explained. "The pinnacle. The standard."
+
+It's a Michelin Star, Ren realized. In a world where salt is a luxury, this is their three-star rating.
+
+"Impressive," Ren said. "I'll have the tasting menu."
+
+"Excellent choice, My Lord."
+
+The meal began.
+
+Ren sat alone. Sylas stood by the wall, silent.
+
+The first course arrived. Vegetable Potage.
+
+Ren looked at it. It was a bowl of clear, yellowish water with a few sad-looking carrots floating in it.
+
+He tasted it.
+
+Salt. Just salt. And maybe a hint of onion that had been boiled until it gave up the will to live.
+
+"Bland," Ren whispered.
+
+[Ana: It’s basically hot water with an identity crisis.]
+
+Course two. Poached River Fish.
+
+It was a piece of white fish. Boiled. Served on a plate with nothing else. No sauce. No lemon. No herbs.
+
+Ren took a bite. It was overcooked. Rubber.
+
+"They ruined it," Ren mourned. "That fish died for nothing."
+
+Course three. Seared Beef.
+
+This was the main event. A slab of steak.
+
+Ren cut into it. It was grey. Grey all the way through.
+
+He tasted it. It was salty. And greasy. They had cooked it in lard, but the heat hadn't been high enough to sear it properly. There was no crust. No Maillard reaction. Just grey, salty meat.
+
+Ren put his fork down.
+
+This was the pinnacle? This was the best restaurant in the capital?
+
+"It's awful," Ren said to the empty air. "The street vendors in Dolaria make better food. My tacos were better than this."
+
+[Ana: To be fair, your tacos had cumin. These people think pepper is a weapon of war.]
+
+"It's not just the spices," Ren said, pushing the plate away. "It's the technique. They don't know heat control. They don't know the resting times. They're just... heating ingredients until they stop being raw."
+
+The bill came.
+
+[Total: 5 Gold Coins]
+
+Ren stared at it. Five gold. That was enough to feed a peasant family for a year. He had paid for boiled water and grey meat.
+
+"Robbery," Ren hissed. "Daylight robbery."
+
+He paid it. He had to. He was a Lord. Lords didn't dine and dash.
+
+He stood up, feeling unsatisfied and slightly nauseous.
+
+"Let's go, Sylas. I need to eat an apple just to remember what flavor is."
+
+They walked out to the lobby.
+
+A crowd had gathered near the entrance. Wealthy merchants and minor nobles were shouting, waving their hands.
+
+"Ten gold!" someone yelled.
+
+"Fifteen!"
+
+Ren stopped. "What's going on?"
+
+The Maitre D' was standing on a podium, looking smug. "An auction, My Lord. For reservations next month."
+
+"People are allowed to eat here?" Ren asked, incredulous.
+
+"Not just to eat," the Maitre D' sniffed. "To taste the Royal Bounty."
+
+He gestured to the seal on the wall. "Holders of the Royal Seal receive a monthly stipend from the King's own farms. Ten Royal Duck Birds."
+
+Ren froze.
+
+The noise of the crowd faded. The world narrowed down to those three words.
+
+Royal. Duck. Birds.
+
+"Ducks?" Ren whispered.
+
+"Rare poultry," the Maitre D' explained, mistaking Ren’s shock for ignorance. "Extinct in the wild. The King keeps a flock in the Royal Gardens. They are fed on golden grain and massaged daily. Only the Royal Chef and the Seal Holders are permitted to cook them."
+
+He puffed out his chest. "We receive ten a month. We roast them whole. It is... divine."
+
+Ren looked at the man. He looked at the seal.
+
+He remembered his apartment. The fire. The smell of burning fat. The tragedy that had sent him to this world.
+
+It wasn't an accident. It was fate.
+
+The universe had taken his duck. And now, the universe was showing him where to get a new one.
+
+"Ten ducks," Ren murmured. "A month."
+
+"Indeed," the Maitre D' said. "Though getting a reservation for Duck Night... well, the waiting list is two years."
+
+Ren looked at the Seal again.
+
+He didn't want a reservation. He didn't want to eat a grey, overcooked duck prepared by these amateurs.
+
+He wanted the duck. He wanted to cook it himself. He wanted to glaze it with honey and soy sauce. He wanted to hear the skin crackle.
+
+And the only way to get the duck... was to get the Seal.
+
+"Sylas," Ren said, his voice low and dangerous.
+
+"Sir?"
+
+"We're not just opening a restaurant," Ren said. He turned, his coat swirling around him. "We're going to war."
+
+He walked out into the cool night air. The stars were shining. The city was asleep. But Ren was wide awake.
+
+"I'm going to destroy them," Ren promised the moon. "I'm going to cook circles around them. I'm going to take their Seal. And then..."
+
+He grinned, a hungry, terrifying expression.
+
+"I'm going to have a roast."
+
+[Ana: Revenge is a dish best served with hoisin sauce.]
+
+"Exactly," Ren said. "Let's go home. I have a menu to write."

@@ -1,0 +1,283 @@
+---
+id: 2c9b4a18-fd48-55f6-b4e0-c5e4a8bc87f5
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED ELEVEN: The Strange Thing Is..."
+slug: 0213-two-hundred-eleven-the-strange-thing-is
+partOf: super-supportive
+position: 213
+ownLength: 3156
+unit: words
+publishedAt: 2025-04-10
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2189552/two-hundred-eleven-the-strange-thing-is"
+royalRoadId: "2189552"
+---
+
+211
+
+******
+
+“We can’t kee—keep going so fast-t. Ow. We’ll flip over, Alden!”
+
+Kibby was bouncing and swaying as the car plowed through the terrain. Alden had strapped her into one of the front seats as soon as he realized they’d run into a problem that couldn’t be dealt with while he held her preserved. Her harness and the grip of her hands on it weren’t enough to steady her when the car was crashing through grass and over potholes.
+
+“We won’t flip. We’ll be fine.”
+
+He swiped blood off his forehead before it could run into his eye. He wasn’t buckled in, and he’d smacked his head on the sharp corner of one of the crates that held their food. It was only a cut, but it was dripping all over the place. He left red smears on the supplies as he dug through them in search of the largest tarp they’d brought. “Found it! And I’ve got your things, too. Tell me what else you need.”
+
+He fell back into his seat, clutching the silver tarp and the jar of green stuff he wasn’t allowed to drink, and a doughnut shaped thing Kibby said was a detonator. She was fighting to get her hands in her pockets. When she did, she pulled out tape and a couple of metal containers shaped like test tubes. She’d taken them from cabinets in the main work labs yesterday.
+
+“I need…” Her eyes flicked to the screen on the dash that showed the car’s surroundings.
+
+“Don’t look at that,” said Alden. “Look at me. We can do this.”
+
+Kibby met his eyes. “I need a while. A little while. Not long.”
+
+“Good. I need a little while to get ready, too.” He was managing well with the false confidence, he thought. And if the stress inside him was bubbling out in his voice, then it would be hard to notice over the rattling and crashing sounds, the spatter of dirt against the exterior of the armored vehicle as its metal wheels fought their way through the landscape, and the obnoxious warning alarms pinging.
+
+One alarm for damage to the front of the car, one for excess speed, one that he was sure must mean, “Oh my God! Why are we crashing into a hundred demon grasshoppers a minute, you fool?!”
+
+They’d run into trouble in the worst possible area. He thought they were less than an hour from the edge of the corrupted zone, assuming they kept driving at the cautious speed he’d maintained ever since they left the lab. But the demons were thick here. The black specks looked like flakes in a dark version of a snowglobe, freshly shaken and making the car scream.
+
+Alden had taken a few hits while he held Kibby. He swore at least one of the little horrors had just appeared inside the car instead of crashing through a weakened point. I knew leaving during the swarming would be bad. I prepared for that.
+
+What he hadn’t prepared for was the animal graveyard. One second, they’d been rolling through the increasingly patchy and weirdening grass. The next, they were in an area that must have been stamped short by the feet of the bokabv herd that had fallen there. Around fifteen corpses, most big, a few small. Alden was sorry for the poor things.
+
+As he’d directed the car to go around the area where they’d died, he’d felt the chaos rising. And the car seemed to agree with him. It had given him a warning of some kind, written in logograms he couldn’t read well, right before the biggest demon Alden had ever seen stood up from where it had been lying hidden in the grass. The creature had charged toward them with a bleating cry that continued even after its mouth was closed.
+
+Alden barely had time to register that it was a bokabv, or had once been, before it rammed the front of the car with a forehead grown misshapen. Bony knobs massed there, bursting through skin that oozed with blood that shouldn’t have had the same bioluminescent quality as the undemonified animal’s saliva but somehow did.
+
+Alden could still see a gleam of it in the dent on the hood where it had struck them. In the rear camera, he could see the demon itself, chasing them relentlessly. It seemed farther behind than the last time he’d checked, but that was only because they were driving ahead at destructive speed. As soon as the car hit a ditch too deep, it would be on them.
+
+Alden wondered if the part of the demon that should have felt exhaustion had broken. Maybe the part of it that understood they were now far away from the herd it was trying to defend had shut down, too. If it chased them because it was crazed, hurt, and changed…that was sad. But there was no avoiding the truth that when it caught up to them it was, in the best case scenario, going to kill itself in the process of destroying their car.
+
+Alden was sure that sitting tight and hoping the vehicle beat the demon before the demon beat him was the wrong call.
+
+Should we have stayed at the lab after all?
+
+The thought intruded on him as he tried to make his plan for getting on top of the moving car. He pushed it aside.
+
+Slow down a lot, but don’t stop. Accept that you’re going to get peppered with the little ones. It will hurt. Don’t let it distract you. We’re almost to the edge of the corruption. You have to get the car and Kibby out of here.
+
+Just one big, terrifying demon in the way before things got significantly safer for them. That was all.
+
+“I finished!” Kibby was holding out a contraption that had way too many parts. A tiny question about how this shoebox-sized mess of wires and tubes had appeared so quickly from so few components flitted across Alden’s thoughts and then dissolved in the sea of more pressing concerns.
+
+“Okay,” he said, taking it from her. “Okay. You’re in charge of keeping the car going. Stay in here. Don’t come outside no matter what.”
+
+“What if you need help?”
+
+“You already helped. I won’t need more.”
+
+He thought about telling her to keep going even if he fell off or died. Putting that out there right now might do more harm than good, though.
+
+“I’m going to shield us from the explosion and whatever happens next.”
+
+Do you think I can do it? he wondered.
+
+“You can,” said Kibby.
+
+“Of course I can.”
+
+******
+
+Of course I can. What a thing to promise.
+
+Alden was moving.
+
+He was pulling himself up onto the top of the car. The walls of the charging shed provided some help since the tie-downs for them gave him handholds. He was unfurling the tarp.
+
+Shouting for Kibby to slow them down a little more.
+
+Getting hit by chaos.  More chaos than he was used to even from before.
+
+Asserting himself. Asserting his skill.
+
+Hearing the buzzing.
+
+Feeling cool air on his back as his shirt collected another hole.
+
+A man tried to stab me in that spot once. He’s dead now, and I’m still here.
+
+That was something he could think about later. The car was slowing, making it easier to get the tarp right without so much flapping.
+
+It was soft and light. His hands acted like they knew what to do with it better than they would have if he’d tried something like this the last time they were here on Thegund. Not that getting coverage for the back and, to some extent, the sides of a large car with an even larger cloth was as complicated as an origami turkey.
+
+He was glad he couldn’t see in two directions at once like an Artonan. Looking away from the approaching demon would have been impossible if he’d thought he could get away with splitting his attention. He kept his center of gravity low, kept his feet shoved under a strap so tight it threatened his circulation. It was a somewhat pitiful effort to give himself one more layer of security in the event that the ground gave way beneath the weight of the car.
+
+The strange thing is…
+
+He let the edge of the tarp drape over his own head, down his back a little, making sure he’d have some coverage too. He preserved it.
+
+“Are you sure I can just drop this thing?” he shouted. The bomb and its detonator were tied to his waist by a couple of loops of thin rope so that his hands could work. Worst fanny pack ever.
+
+Kibby’s shout from the car was muffled but affirmative. As if it had heard her, the bokabv demon issued its battlecry again. Now it was so loud that Alden had to look. The beast was gaining on them. Rapidly.
+
+And Alden was already feeling the strain of holding a large shield in a place where thousands of smaller demons surrounded him.
+
+He inhaled deeply, the smell of rotting grass and something like boiled egg coating his nostrils.
+
+The strange thing is, I think I can do this.
+
+Not for long. Not perfectly. But if Kibby’s bomb worked and if the bokabv was already weakened by attacking the car…
+
+He tossed the bomb into the crushed trail of grass in their wake. He held their shield in one hand, the detonator donut in the other.
+
+She’d told him he should sink his fingers into the depression on the inside of the ring and say, “Pierce.” Like it was a potion injector.
+
+Alden stood, eyes glued to the bokabv as it approached the bomb in the grass. What if it sees it? Will it turn? What do I do if it comes around and attacks from the side?
+
+Meet it with the shield. As many times as it took. Survive.
+
+Strange, he thought again.
+
+He could see the bokabv very clearly. The bony mass of its head, so unlike the sweeter, softer face of a normal one. The almost blinding glow of its matted fur. The things happening around it that were a little more wrong than all the rest of the wrong here. Behind it in a narrow strip, the ground looked like it had been trampled by hundreds of creatures instead of one, the grass all vanishing in an instant like the touch of its feet were fire, scorching down to bare dark soil. Off to the sides, Alden saw the subtle motion of stems curling in death or thickening and lengthening with altered life.
+
+Strange that I think I can do this.
+
+His mouth was dry.
+
+Almost time.
+
+His brain was working to connect this moment to so many others. He remembered another bokabv he’d met at some point, nudging his face with a velvety snout. And Instructor Klein barreling toward him with an oversized dog crate that had flattened into a pancake.
+
+This is so much more serious than that.
+
+He remembered being told by the Earth System that he’d leveled. Puking in the toilet afterward. Lexi telling him Anesidora was the only place on Earth that really wanted Avowed. He remembered an injector for soothing a stomach that had been overwhelmed by fear that would be with him for longer than any virus.
+
+“You don’t know how to use it,” Lexi had said.
+
+I do now. Alden ducked behind the shield.
+
+“Pierce.”
+
+******
+
+The heat felt like it was trying to scour the skin from his back. The ringing in his ears seemed like it was pulling him right back to his own past. And the chaos wanted to wipe away his existence.
+
+Alden’s entruster was in the car below him. Something that felt every bit as strong as Klein had just slammed into his shield, and the buzzing of a thousand demons had vanished into the endless bleat of a thing that should have died already.
+
+Please, let it be dead.
+
+He was no longer sure he could do this.
+
+His skill barely held.
+
+But…it held.
+
+******
+
+******
+
+On the other side of the hardest moment, there were better ones.
+
+Like driving out of the corrupted zone in a car that absolutely wouldn’t hold up for the whole trip after all it had been through. This time, Alden could feel the chaos diminishing rapidly. He knew with his own senses when they’d made it out instead of having to rely on Kibby. His body was in one piece, not a single broken bone or torn muscle. Although his Hawaiian shirt was Swiss-cheesed beyond hope of repair.
+
+They traveled. The stupid remote for the mover discs had gotten hit, even though they’d stored it in what should have been the safest part of the backseat with all their other supplies protecting it from the world outside. But showing Kibby he could lift the car—minus armored doors—well enough to get it out of some mud they’d tried to cross felt great.
+
+And when they took a break in that place, the sprinklers they planted gushed so much water so quickly that both of them got the luxury of as much as they wanted for baths.
+
+Sleeping and leaving Kibby on watch was always hard. Alden worried about something happening.
+
+Shifting to foot travel was intimidating, but camping on Thegund, in the daylight, wasn’t bad. He could haul a lot more food than the average backpacker.
+
+And, eventually, they found people. Suspicious, hermity people who lived on the outskirts of a ruined city. They weren’t welcoming, but Alden was happy to meet them.
+
+Because meeting them meant getting word to the rest of the world. And that meant that one day, when the two of them were still supposed to be suffering in the middle of the corruption, he instead got to look out of the window of a flyer and see Chayklo.
+
+With Kibby safe beside him.
+
+******
+
+“What happens next?”
+
+Alden felt a tug on his shirt and looked down to see Kibby. They were in the back of a small crowd, at an outdoor poetry event that looked like it could have been the same one she’d sent him videos from.
+
+I guess we decided to come here because I promised.
+
+They had been in Chayklo for some amount of time. It was all right that he wasn’t sure how long. He was calm.
+
+“What happens next?” Kibby asked again.
+
+He knew she wasn’t talking about the next poet. It was a bigger question.
+
+What do we do now that it’s over? What are we going back to if our old normal doesn’t exist anymore?
+
+Weren’t those questions he’d had to deal with last time?
+
+And I’m still figuring out answers.
+
+But if he had to give some now, the things he knew…
+
+“We leave,” he said.
+
+He remembered the lights of the emergency vehicles on the night his world had ended for the first time. He remembered a System going out. He remembered carrying Zeridee-und’h on his back, staring down at a flooding Apex.
+
+“We’ll never forget, but we do need to leave. And you have to know that just because these terrible things have happened to you…more than your fair share of them…it’s not always going to be that way. You’re going to go to your new school on Artona I, and you’ll weave friendships there and learn so much magic. And I’ll…”
+
+Keep growing, he decided eventually. Outgrowing old dreams and bad ones, growing into everything new.
+
+That was what he hoped was happening for him with all the changes that had come after Thegund. I was making an active effort to leave this place behind, he thought. With Stuart’s help. And Yenu-pezth’s.
+
+Disorientation.
+
+Realization.
+
+Wait. I’m dreaming this, aren’t I?
+
+As soon as he asked himself the question, he knew that he was.
+
+Is it going well?
+
+He wasn’t certain if he was the one wondering that all by himself or if this was one of the check-ins Healer Yenu had mentioned she might do.
+
+“I think it is,” he said, staring around him. The world had been so immersive and clear, but now he felt separate from it. “I’m happy with how this one went. What happens next?”
+
+I just answered that, didn’t I?
+
+As it turned out, what happened next from his perspective was waking up.
+
+******
+
+******
+
+Alden opened his eyes and saw the branches against the ceiling overhead, though the light in the room was much dimmer than it had been when they’d begun.
+
+He was definitely well-rested. He remembered pieces of the dreams. At least three of the ones they’d discussed had been completed. They were full of gaps, as dreams remembered upon waking tended to be, but what he did recall was vivid.
+
+Three was good. If it had gone badly, he might not remember any of it.
+
+Three means it went well, right?
+
+He turned his head, looking for Yenu-pezth, and spotted Stuart instead. He was in the corner, sleeping on a mat of his own.
+
+That’s really nice. It’s better to wake up in a House of Healing with someone you know around instead of all alone.
+
+He checked the time on his interface. It was morning on Artona I, not super early. Outside, the sun would already be up.
+
+He missed his chance to stealth feed the bokabv, unless he went and came back.
+
+Anyone spending the last day of their weekend at the Rapport School would be up and about.
+
+And it was Tuesday afternoon for Alden.
+
+He was too comfortable right now to worry about it. He lay there for another half hour, trying to grasp all the dream fragments he could, until Stuart woke.
+
+“Hello,” said Alden.
+
+“You’re awake!” Stuart said, sitting up. “How do you feel?”
+
+“Not very different,” Alden answered. He sat up himself. “But a little more solid. In some way that’s difficult to define. I’ll have to contemplate it some more.”
+
+“I will be silent.”
+
+“I didn’t mean right now. I meant over the coming days.”
+
+“Healer Yenu said it went well,” Stuart told him. “It hasn’t been very long since she left. I’m supposed to tell you to enjoy relaxing experiences until your appointment with her later today.”
+
+“Healer-ordered relaxation?” Alden stretched his arms. “I don’t mind that. Are you going to be busy with your own work this morning?”
+
+“I’ll go check on the bokabv’s environment. Then I should do some preparatory work for my classes tomorrow. But I can help you find relaxing—”
+
+“We’ll go check on the field you planted around the bokabv,” Alden said. “And we’ll give Quinyeth honey. And we’ll tell every single person who tries to talk to you about anything that isn’t fun that they’re damaging my delicate mind. All of that sounds very relaxing to me.”
+
+******

@@ -1,0 +1,245 @@
+---
+id: ed3f38e2-2d9c-5581-9f7c-2a29438bafc0
+page-type-slug: story-chapter-royal-road
+title: "FORTY-TWO: Be Safe"
+slug: 0042-forty-two-be-safe
+partOf: super-supportive
+position: 42
+ownLength: 2586
+unit: words
+publishedAt: 2023-06-07
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1238181/forty-two-be-safe"
+royalRoadId: "1238181"
+---
+
+The news that the System was down hit the Artonans hard. The man, in particular, kept asking Alden questions like he thought maybe Alden had misunderstood the first half dozen.
+
+Alden plumbed the depths of his vocabulary to find new ways to express the System’s complete absence. “It’s not here,” he said insistently. “Goodbye, Contract. No Contract on the moon. I can’t see words in my eyes.”
+
+His toddler talk would have been funny if the situation wasn’t so dire. Thenn-ar finally said something snippy to the guy when he wouldn’t leave Alden alone, and he made a surprisingly alien-sounding cry of rage. The only time Alden had ever heard an Artonan make such a noise was when Joe had introduced himself to Sophie in something approximating actual griveckcry.
+
+The man stomped off into one of the offices and slammed the door behind him. A moment later, the crash and clatter of things smashing into the walls could be heard.
+
+Thenn-ar sighed and walked over to look at the map. Alden followed her like a duckling.
+
+He had so many questions. He hated to bother her, but he couldn’t stand the lack of information. He sorted through his numerous urgent queries, trying to pick ones he could ask that would have simple enough answers.
+
+Well, the map page was up. He’d start with questions that involved location.
+
+“Where are we?”
+
+Thenn-ar gave him a nod and zoomed in the map with a circular motion of her fingers. Alden watched closely. Probably it was pointless to memorize Artonan touchscreen gestures, but he would try to collect every scrap of information he could.
+
+“Elepta is here,” she said, pointing at a dot on the center of the map, right where Alden had expected her to. It was in the middle of the glowing red circle of evil, as he’d feared.
+
+He really wished he knew the words for “chaos” or “demon.” It would make all the things he’d guessed up until now easier to confirm.
+
+Instead, he asked, “Where is Worli Ro-den’s house?”
+
+He was hoping to get a sense of the problem’s scale.
+
+“Here,” Thenn-ar said, tapping on another dot in the direction Alden decided to think of as East. It was about a third the distance from the center to the edge of the red zone. “This is the ——.”
+
+That last word must have been laboratory.
+
+“Is the laboratory safe?” He did his best to get the new term right.
+
+Thenn-ar answered at length, then paused when she saw the blank expression on his face. “More safe,” she said slowly. “But it isn’t safe.”
+
+“Can we go there?”
+
+More words Alden didn’t understand. Her tone sounded like a shrug, for whatever that was worth.
+
+“We are not safe here and we are not safe there?” he suggested. “Both same bad?”
+
+Yes, that was right. He could tell from her expression.
+
+“Where is safe?”
+
+“Nowhere,” she said.
+
+“Where?” Alden insisted. He at least wanted something, just for his own sanity.
+
+She zoomed the map out again by making the opposite circular motion and stared at it for a while. She went through the forecast screens that showed the problem growing. For too many days.
+
+Finally, she pointed at a mark far, far to the west. “Here,” she said. “It’s safe for you —  ——— ——. Maybe.”
+
+It was too far to walk. And those missing words were pretty important. “For me?”
+
+“Not now,” she said. “When ————- ——- —-. Then it will be safe for Avowed. If ——— ——.”
+
+Alden fully understood the urge to go hide in an office and break things.
+
+“Please,” he said. “How do we be safe? Again?”
+
+Please don’t give up on me. Please keep repeating it until I get it. I know it must be annoying, but it’s important. And I’m trying. I swear.
+
+To his surprise and utter gratitude, she kept trying. Slowly, slowly he pieced together an answer and an understanding of what was happening.
+
+“Is it better to write the words?” she asked at one point.
+
+Alden shook his head. The written language was harder than the spoken. “Talking is better.”
+
+She went on. He watched avidly as she swiped through the screen, using pictures when words wouldn’t do. They moved out of the way of demon bugs a couple of times. Alden was almost willing to try his luck at soaking the damage from one of them with his preserved putty ball when it floated near the television.
+
+He wasn’t sure if it was worth the risk. It would be bad if he just collapsed into a placid heap from overusing his skill like he had that time he tried to carry the shrieky bowl. But he really wanted the screen to keep working. Because what Thenn-ar was trying to get across to him would have been hard for him to understand even if she’d been explaining it in English.
+
+The red zone would grow and grow for many days. The number was so uncertain, that Thenn-ar would not give it to him. But at some point beyond the scope of the forecast, it would begin to shrink again.
+
+“Big then small?”
+
+Thenn-ar nodded.
+
+It would start getting smaller when ships came. Thenn-ar conveyed this with lots of pictures of spaceships.
+
+“Ships from the other side of the moon?” Alden asked. The half that was supposedly less chaos-stricken would send aid, wouldn’t they?
+
+But she shook her head. “From the Mother.”
+
+All the way from Artona I? Yes, they were in the same solar system. Or so he’d been told. But why wait for help from another planet? Joe had said spaceships were in short supply out here, but surely…oh, maybe I’m not thinking about it right.
+
+“The red place is too bad for the other side of the moon to help here?” he guessed.
+
+She nodded.
+
+“Wizards come to help?”
+
+A pause, as if she had to think about it for a while, then another nod. Maybe Alden didn’t have the story exactly right, but he was in the right general ballpark.
+
+Their reaction to the news that the System had vanished was so dramatic compared to their reaction when he’d first told them it was malfunctioning. A buggy System must have been within the realm of their expectations, but a missing one was far, far outside it.
+
+And…no System meant no teleporting. For almost everyone, as far as he understood it. The Artonans could do it, but it seemed to be something of a rarity. Even Joe had said non-System transport was hard to come by, so maybe it was only the truly elite who were capable of it. And if regular people couldn’t even use System teleportation on Moon Thegund, then it must be a hard place to get to.
+
+So. The people who were qualified to fix a problem of this magnitude were probably big badass wizards who did not live on a backwater like Moon Thegund. And if they couldn’t teleport in, they’d have to come by ship.
+
+“The red place is big, then the wizards come help, then the red place is more small, then here is safe?”
+
+He was sort of right, judging by her expression. But not totally.
+
+She kept explaining. She’d been snappy and all business nearly every time Alden had seen her. Always the leader, totally on top of things. But she was so patient with him now, he wanted to hug her for it.
+
+For many days the chaos zone would grow because there was nobody on Moon Thegund capable of stopping it. Eventually, the ships would come, and it would start to shrink. Thenn-ar thought the ships would arrive at the location to the west she had pointed out on the map.
+
+Then after many, many, many days the red zone would finally go away.  There would be no true safety until then.
+
+This was hard for Alden to comprehend. Not literally but in every other way.
+
+He kept asking broken questions, and she never once refused to answer.
+
+“More and more of these?” Alden asked, gesturing to the demon bugs in the break room. One of the fast ones had just punched through a wall. Frankly, Alden was surprised he, Thenn-ar and the television were all still unharmed.
+
+Are they just going to keep coming, until the entire world is made of them?
+
+At this point, Alden rather expected the answer to be yes. But slowly the scientist got across a different idea. There would be more and more of the demon bugs, until there were two or three times as many as there were now, and then eventually there wouldn’t be many at all.
+
+“They go?” Alden asked hopefully.  “Before the ships come?”
+
+Yes. They would go. Only that wasn’t the end of the problem.
+
+Thenn-ar showed Alden a spatter mark where one had hit the wall, and she mimed inhaling dramatically. Because he’d had the fear himself, Alden understood what she was getting at. But it still horrified him so much he didn’t know what to ask next.
+
+The demons were going to eventually all disperse or alter from bumping into things, and then everyone would be walking through an atmosphere full of whatever they were made of, getting it on their skin and breathing it in?
+
+Alden imagined his lungs turning into something that looked like the injured woman’s leg. And he almost puked at the thought. What an unfathomably gruesome way to go.
+
+Well…now there was only one question left to ask. And he couldn’t hold it back anymore even though he wanted to.
+
+“We are dead before the ships come?”
+
+He hadn’t moved for a while, so his preservation had faded. He was gripping the stupid putty ball so tight he’d crushed it, and he could feel the tiny piece of Stuart’s bone in the center.
+
+“Yes,” Thenn-ar said, her voice cracking a little. “We will die.”
+
+“Me also?” Alden was right on the edge of sobbing. His self-control was shot.
+
+“Maybe not. Maybe an Avowed can live,” she said. Then, after a moment’s hesitation, she added, “And ——-.”
+
+That sounded like a name.
+
+“Kibby?”
+
+Thenn-ar nodded. “The girl you gave the ——— to.”
+
+The word wasn’t Ryeh-b’t, so it must have been whistle or toys. The older girl.
+
+“The big girl is Kibby?” It wasn’t quite the right pronunciation. It was probably better pronounced K’-bee or Ky-be or something, but he’d take what shortcuts he could at the moment.
+
+“In the laboratory. Maybe. Al-den and Kibby can live. It’s only a small ——-. If the ships come with many _____ and they are fast. ———- —— ——- ——— but I think it’s possible.”
+
+She touched his shoulder softly with one of her injured hands. It had to hurt. Maybe she just didn’t care any more.
+
+“I’m sorry,” she said. “We ——— ———- you and Kibby to the laboratory in the ——— ———— father. But we didn’t understand the problem ———- until we saw this and you told us about the Contract.”
+
+Was she apologizing for not sending him to the lab with the girls and their father? Or maybe for not sending him instead of the father?
+
+The only thing Alden could imagine that would make the situation even harder than it was now would be if he was placed in charge of two small children he couldn’t speak to, without a single adult around to explain what was happening.
+
+“Will you go there?” Thenn-ar asked.
+
+Alden was surprised. “To the lab?”
+
+Why was she asking? He was almost positive she’d just told him his only chance of survival was there.
+
+“Yes?” he said. “If the lab is more safe, I’ll go there.”
+
+“Let’s talk more,” she replied, flicking through the screen. “Before the ————- is gone.”
+
+Shouldn’t we check on the others?
+
+Alden realized it had been a long time since he’d heard crashing sounds from the office the man had disappeared into, and the woman in coveralls hadn’t spoken up in a while. He turned around, and the sight that greeted him made him shout and stumble back into the wall.
+
+Thenn-ar followed his gaze. She looked sad but not surprised.
+
+“It’s better to die fast,” she said, staring at the body of the woman—her friend. Alden didn’t know if she had failed to dodge one of the demons, and it had killed her. Or if she’d died from the original wound, and then others had struck her body.
+
+Parts of her flesh were strangely morphed—person, plant, rot, emptiness.
+
+“The guy!” Alden said, dropping into English again accidentally. “We have to check on him. What if he’s—”
+
+“We should talk more,” Thenn-ar said. “You have to go soon.”
+
+Alden’s heart was loud in his ears. If the other scientist was still alive, wouldn’t he have come at the sound of me shouting?
+
+He tried to focus on everything Thenn-ar was telling him, but it was harder than it had been.
+
+This is happening. This is really, really happening to me. And nobody is coming to save me for a long time, and I can’t do much at all to save myself.
+
+He just kept dodging the tiny demons. His skin crawled. He wondered if it was his imagination, or if it was the chaos residue growing thicker in the atmosphere.
+
+Eventually, the television took a hit, and his lessons with Thenn-ar ended.
+
+She’d been teaching him about day and night. Night would come, but not for a long time. A month or so. He was lucky.
+
+So lucky.
+
+With the television gone, Thenn-ar took him outside to show him the ground. They walked along the road for a while until they came to a place where the dirt looked strangely sandy. She prodded it with one of the white sprinkler sticks Elepta farm used for irrigation, and Alden watched as the ground caved in around a small depression.
+
+“There will be more of this,” she said, pointing at it. She was still taking great pains to speak slowly, so that he could get it all. “Lots of this will be everywhere soon.”
+
+“Yes,” Alden said robotically.
+
+He’d been stuck on ‘yes’ or ‘no’ for a while now. One for when he understood, one for when he didn’t. Everything was so awful that he’d actually run out of questions, and he’d just started inputting the things Thenn-ar seemed to think he would need.
+
+The Artonan woman coughed, and a fine mist of blood spattered the dirt.
+
+“You should go to the lab now,” she said, wiping her mouth on the back of her hand. She gave him a smile. “Be safe.”
+
+Oh, it’s funny, he realized, looking at her face. She’s being funny because I keep using the word safe for everything. I should smile back.
+
+He managed it okay. He hoped.
+
+“Thank you for coming, Avowed Al-den,” she said. Instead of standing up from her crouch, she sat down on the road.
+
+Get up, he thought. Please get up. Don’t leave me all alone here.
+
+“We thought nobody would come for months, but you came now. Many more of my friends would be dead ———- ——-. I’m sorry ———— ———- so soon. We thought we had more time.”
+
+“You’re welcome,” Alden croaked.
+
+“Tell Ro ——— ——-   ———.” She shook her head. “He always. ————-.”
+
+Alden couldn’t decipher the words of the message for Joe. But it seemed unkind to tell her that.
+
+“I will tell him.”
+
+“You should go now,” she said again. “Be safe.”

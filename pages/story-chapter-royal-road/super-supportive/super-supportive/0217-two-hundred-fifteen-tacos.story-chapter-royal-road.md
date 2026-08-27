@@ -1,0 +1,327 @@
+---
+id: c7bcfc38-913b-5366-995a-f7f1765631a6
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTEEN: Tacos"
+slug: 0217-two-hundred-fifteen-tacos
+partOf: super-supportive
+position: 217
+ownLength: 4249
+unit: words
+publishedAt: 2025-05-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2245379/two-hundred-fifteen-tacos"
+royalRoadId: "2245379"
+---
+
+215
+
+******
+
+A little more than ninety-four seconds later, Lute was back upright with an overloaded taco in one hand and a cola bottle in the other. He took a huge bite.
+
+“It’s actually really good. Alden, you cooked something good!”
+
+“Why do you sound surprised? All I had to do was heat it.”
+
+“Because I’ve watched you eat more than one meal that was just microwaved broccoli, beans, and garlic.”
+
+“My mock thunder lettuce is good, too. You just have to learn to appreciate it.”
+
+Lute devoured the taco, drained half his soda, and started fixing seconds. “I think the applications for your program aren’t going to be ‘big’. Or ‘a lot’. I think they’re going to be off-the-charts, historic, and a whale of a headache for whatever poor suckers agreed to read essays this cycle. I think it’s going to be stupid, and I bet it’s even worse at uni level. I don’t know what the school will do, but I bet anyone in your program without the snake-shaped letter after their name gets screwed over to some degree.”
+
+He continued to prepare his next taco like he hadn’t just said something that might worry the three other people at the table.
+
+“Why?” Haoyu and Alden said at the same time.
+
+“Have you been paying attention to our program for some reason?” asked Lexi.
+
+“Why would I? I’ve just been paying attention to the news so that I’ll be forewarned before any angry mobs arrive here to guillotine the Velra. And there’s been this conversational shift over the past couple of days. Councilor Brute is the latest to start talking like our real problem is just that we’re not all training hard enough. I think it might be because the Triplanets got blunt about the System’s evac priority choices.”
+
+He was looking at the limes across the table, so Alden tossed him one.
+
+“Thanks. Most of the High Council members have been suggesting some vague something would be done. They were at least implying that in future emergencies, Anesidorans would decide which Anesidorans needed to be teleported to safety first. Like we do with smaller dangerous situations. And I think they shouldn’t have danced around a promise like that when the rest of Earth is looking at us even harder than normal. The UN asked the Artonans for clarification because… ”
+
+He pointed at Lexi with a cilantro stem, like a teacher calling on a student in class.
+
+“Because Earth is full of entitled cowards who want frequent reassurances that Avowed don’t really have a meaningful say in what happens to us,” Lexi said.
+
+“What a fun turn in the conversation,” Haoyu murmured. “Can I put some more meat petal in the skillet, Alden?”
+
+“Sure. We can eat it all if you want.”
+
+Lute dropped the cilantro stem. “In this case, the Triplanetary Government’s response was predictable. They will absolutely notbe letting our High Council decide anything about who the System teleports where in situations of potential global consequence.”
+
+“How do you feel about that?” Haoyu asked in a careful tone.
+
+“You mean because Cyril and Jessica will be left to drown if anything like the Submerger happens again?”
+
+Everyone at the table except for him winced.
+
+Lute sat back in his seat, chewing. Finally, he said, “I’m angry about it. But it’s a personal anger, and there’s nobody to aim it at. If you told me we were going to have a war for the fate of humanity one day, and you asked me what order to preserve Earth’s fighting forces in, I can’t honestly say I wouldn’t start at Hyperbole and work my way down. Someone thinking about that stuff and trying to decide between teleporting Plopstar or a drunk Cyril away from death isn’t going to choose Cyril first. I mean, I would…but I know it’s not the logical decision. So I shouldn’t expect the System or anyone else to make it, should I?”
+
+The sizzle of more meat petal slices hitting the skillet filled the apartment.
+
+“We went off track. I was telling you all that the councilors have had to stop hinting that they’re going to be able to get their C-rank voters teleported out earlier in the event of another national disaster. So several of them have changed tactics to this thing where they’re telling everyone that they’ve been deprived of the opportunity to grow their powers. By a school system failure or government spending failure or whatever they decide to blame.”
+
+He looked at Alden. “I haven’t seen a single interview with Rabbit, though. Oh, and Wright is mostly talking about building transforming bunkers and rockets and probably bunker rockets…I don’t know. She’s always like,<<It’s very simple, friends!>>”
+
+“It’s never simple,” Lexi said.
+
+“And it’s always really expensive,” said Haoyu.
+
+“But Brute, Meister, Shaper, and Adjuster are showing signs of climbing aboard the training train. Anesidorans are the magical chosen ones, superhumans are meant to be super, leveling is your civic duty—that type of thing. People seem to like it.”
+
+“It makes sense. With everyone on edge, leveling and training should be more popular than usual.” Haoyu was drizzling salsa on another tortilla.
+
+“That won’t last,” Lexi said. “Half the country makes gaining a couple more levels their New Years resolution every year, and then they’re bored with practicing by March. We’re not going to have magical tsunamis annually to keep everybody motivated.”
+
+“Well, the motivation is there now,” Lute pointed out. “And guess where high ranks want to be if they’re serious about growing stronger? Meister actually suggested yesterday that maybe what Anesidora needs is for a magic gym to be open to the public, so more people can exercise their rights to exercise their powers.”
+
+Alden sat up straighter at that and saw Lexi and Haoyu doing the same.
+
+“Was he suggesting the Artonans give us a new one?” he asked. “Or was he suggesting that Celena North or Li Jean share one of theirs?”
+
+Naya Din only had one gym. Li Jean had a uni facility and a high school one, both larger than their Celena North equivalents.
+
+Haoyu answered before Lute. “We’re not going to get another one anytime soon. Not without major negotiations, according to my parents. There are some disagreements among the wizards about whether we even needed all of the ones we’ve got, and even bigger disagreements between them and Anesidora about how a new one would be used.”
+
+“Like what?” Lute asked. “I never heard that.”
+
+“The availability of gyms for combat training isn’t the kind of thing your family would’ve paid attention to, is it?” Haoyu said. “My parents say they have the impression that some of the Artonans who would be happy to build more for us aren’t so happy to keep doing it for only a select percentage of human Avowed.”
+
+“The wizards want low ranks to have access?” Lute set the last bite of his second taco back on his plate. “Really? I’m surp—”
+
+“Not low ranks. The other percentage of Avowed who don’t have access.”
+
+Lexi and Lute both looked blank.
+
+But Alden knew exactly who Haoyu meant. “That makes sense. Unregistered Avowed aren’t benefiting from anything they give Anesidora. I’m sure the Artonans are fine with that in a lot of cases, but the gyms—”
+
+“That doesn’t make sense!” Lexi protested. “The unregistereds couldn’t even use a gym. They’re scattered all over the planet. In hiding.”
+
+“Someone my dad talked to about it—I think because he wants more gym time for himself, to be honest—wanted to know why Anesidora wouldn’t just agree to let unregistered Avowed teleport in and out of our training facilities.”
+
+Lute chortled in apparent delight at the thought.
+
+Lexi looked like his brain had short circuited.
+
+“It makes sense,” Alden said again. “If you assume that the Artonans who would be willing to give us expensive training facilities are the ones who think they have a responsibility to help us grow, who want a stronger combat force here on Earth, or who just like humans for whatever reason… why wouldn’t they be uncomfortable about the fact that the gyms we already have are being used to teach Avowed how to capture or kill other Avowed?”
+
+He felt weird even saying it. Especially because it hadn’t been that long since he’d gotten off the phone with Boe.
+
+“There’s this unregistered Avowed who works as a bodyguard, and I’m guessing an assistant or companion, to a student at LeafSong. She wears a mask when other humans are on campus. Think about how batshit something like that must make us look to a bunch of wizards.”
+
+Too many new experiences had been vying for his attention in those first days as an Avowed for him to really think about how bizarre Thwarthog’s situation must look. How bizarre it was.
+
+“One day they’re all seeing this familiar alien around campus, doing whatever it is she does, and the next she’s masked up and…what? Was there some kind of school announcement or ‘proper discretion for human summoners’ memo sent out? Did all the students and teachers suddenly get messages reminding them not to say that Avowed’s real name out loud if they knew it?
+
+“No asking her to unmask herself around the other humans, please. They might hunt her down on her next weekend off as part of their bloodsports. Like grivecks, but with less consent, more television, and half of the participants in costume.”
+
+The ensuing silence was eventually broken by Lute rummaging in the bag of corn chips and saying, “Are you sure you’re in the right program?”
+
+“Me?”
+
+“Rabbit. B-rank. Supervillain sympathizer.”
+
+“I don’t think we should joke about Alden being a villain sympathizer,” Haoyu said in a rush, shooting a half-panicked look at Lute. “Some unregistered person minding her own business on the Triplanets isn’t a threat to anyone.”
+
+Lute’s head whipped toward Alden. “I’m sorry. I wasn’t thinking. That was a stupid—”
+
+“It’s fine.”
+
+“No. I didn’t mean to—”
+
+“I promise I can tell the difference between a joke about supervillains and someone actually being a dick to me. Like when Lexi revealed his aversion to your fake eye…we all know that was intentional. Because he’s an awful person.”
+
+“When are you all going to let that go?!” Lexi demanded. “It was an acc—”
+
+“An act of cruelty,” said Haoyu. “We won’t let it go until you accept Lute, Sunny, and their fake eyes into your heart.”
+
+Lute smiled a little.
+
+Lexi was shaking his head.
+
+“Seriously,” said Alden. “You guys shouldn’t sweat over idle comments that might remind me of Body Drainer. There’s a chance I won’t notice them, and if I do, I can almost always brush them off in a second or two.”
+
+When he was younger, there had been so many orphan buttons for other people to press, direct lines to rage, sadness, and longing for his parents. Most of them were gone now. The recent situation with Connie had shown him that there were at least a few remaining tender spots he hadn’t known about, but the chances of his roommates bumping into those was low.
+
+“It was a long time ago. And to answer your question, yes. I have to be in the hero program if I want to fulfill my dreams of leading hordes of villain-sympathizer Rabbits on a quest for power.”
+
+“So that’s your plan,” said Haoyu. “I knew you must have one.”
+
+“Rabbit domination. First CNH and then the world.” He sighed. “Unless I’m about to get squeezed out of the program by an overwhelming influx of high ranks. What are you thinking is going to happen with the High Council members suggesting more people need gym access?”
+
+Lute shrugged. “I don’t know, but if someone gets more of a limited resource, someone else gets less, don’t they? Isn’t your gym in use 24/7?”
+
+“Practically,” Lexi answered. “If not for a class, then a club. If not for a club, then for things like private tutoring. Or faculty training. Or alumni hours. It’s almost never empty except for the breaks in between different scheduled uses, and those are meant for set-up and clean-up.”
+
+“I wanted to be in there five days a week next term,” Haoyu said. “Some of the S’s in our class already are thanks to Superlatives and their other clubs. I want everyone who needs practice to have it, but if it’s going to be open to some members of the public…maybe they would just double our class sizes or something?”
+
+He didn’t sound thrilled with the idea. Alden wasn’t either. The gym was enormous if it was being compared to a standard high school gymnasium, but group activities with spells, weapons, and bodies flying around didn’t always leave you feeling like you had an abundance of room.
+
+“Working in tighter spaces is still working,” Lexi said. “As long as they don’t cut too much of our time down, I wouldn’t mind.”
+
+He was crossing his arms and looking toward the window across the living room.
+
+“If they aren’t stupid about it…if it isn’t just politicians saying, ‘Free gyms for everyone! Vote for me!’… if the school doesn’t cut A’s and B’s out of half our classes…”
+
+“They wouldn’t do that,” Haoyu said.
+
+“Would they not?” Lute asked.
+
+“There’s no reason for Celena North to accept a huge incoming class even if a ton of people apply,” Lexi said. “And if they do carve out some of our gym time, they ought to be giving it to adults who have a certain number of levels but no combat training.”
+
+“It sounds like you’re planning the collapse of your own education,” Lute said.
+
+“My parents could do more with twenty hours in the MPE gym than most of the people in our class are going to do with two years.”
+
+Alden was a little taken aback by the adamance.
+
+“I know how it sounds, but it’s true.” Lexi frowned at the window as if it had tried to argue with him. “There are plenty of people who level their talents, grow their magic, and learn to control their bodies without the kind of training we do. If someone wanted to offer those Avowed a chance to put on a suit and find out where their limits are, it could help them a lot. They already know their own powers. They just need to practice handling themselves when they’re in trouble, get used to fighting through adrenaline and pain, and learn what kind of damage they can deal and receive in a safe environment.”
+
+“The ballet company would be terrifying if they were all trained in combat,” Haoyu mused.
+
+Lexi’s glare turned more glarey.
+
+“I’m agreeing with you, not being funny. A few of them of them basically have the same abilities a superhero would have, don’t they? They just focus on putting them to prettier uses.”
+
+“Yes. And that’s why I’d be fine with sacrificing some of my practice for people who would benefit more. But they’d better not cut all of our gym time and give it to nevlev airheads who just want a selfie in our suits! And if they cut our time, they should cut the S’s down, too. Superlatives is still getting full club hours and all of those volunteers…it’s getting annoying.”
+
+“Superlatives had some famous alumni show up at their last meeting,” Haoyu informed Alden and Lute. “The S’s have been a little too excited—”
+
+“Bragging.”
+
+“Bragging as a result of being a little too excited about it.”
+
+“S stands for special. Special. Super. Stupendous.” Lute was pointing at himself repeatedly.
+
+“Esshole.”
+
+“What an Anesidoran insult, Alden! I’m proud of you!”
+
+“I taught him that,” Haoyu said.
+
+“Guess what! Li Jean wants my sexy ‘S’ so bad they’re offering me automatic acceptance to their talent development program in January and my own private apartment.” He sipped on what was left of his soda while everyone else caught up to what he’d said.
+
+“You applied to another school!?”
+
+“They what?”
+
+“Are you serious?”
+
+“Of course I didn’t apply to a competitive fighting program at another school, Haoyu. Why would I? And if I was going to, I would have told you first.
+
+“I heard someone knocking ‘Für Elise’ on our door this morning, and I dragged my fragile body across the apartment to see what they’d slid under the door. It was an acceptance letter. They used a courier instead of regular post. And when I turned up my hearing sensitivity, I heard that Scottish guy a few doors down saying he’d gotten one, too. So it’s not just me.”
+
+“Finlay would be so uncomfortable knowing you can do that,” Alden said.
+
+“I feel only a minimal amount of guilt given the number of hearers, sniffers, spy spells, and shoe pissers on this campus.”
+
+“Can we see the letter?” Haoyu asked.
+
+Lute hopped up from his chair and headed toward his room. He was soon back with the piece of paper Alden had seen him using to shade his face earlier, as well as a slim booklet that seemed to be blank except for a black logogram on the white cover that was being translated as “deservedly exclusive.”
+
+Lute slapped both onto the table, and Lexi picked up the booklet. “Is this some of that ‘for your eyes only’ paper?”
+
+“Yeah. The code to view it is in the letter. It’s just pictures of things like the training facilities, the rooms, and a list of all the perks students in their new, S-rank-only <<Elites>> program will receive.”
+
+“What a subtle name,” said Alden.
+
+“You know you go to a spa at a place with ‘North’ in the name twice, don’t you?” Lexi asked. “On Anesidora, North is basically a way of saying ‘Apex’ or—”
+
+“I know that much!”
+
+“What are the perks?” Haoyu asked. “Are they incredible?”
+
+Lute took the brochure back from Lexi and read it to them in an unnecessarily dramatic voice.
+
+Students who joined the Elites program would almost be entering a separate school that just happened to exist on Li Jean’s campus. They’d have their own exclusive residential floors, with all rooms cleaned and cared for by a Rabbit maid service. They’d dine in their own cafeteria for breakfast and supper. They wouldn’t be subject to the standard hero program course requirements; instead, private tutors and custom classes would ensure each student maximized their academic hours. They’d have gym every single day, either as part of a class or in the form of one-on-one time with a mentor.
+
+Only select weekends would be free; most would be spent in special training intensives or organized recreation with the other Elites. Three years. No quarters off. Minimum requirement: progress indicative of the student’s ability to achieve an overall level of S12 by their graduation date.
+
+Haoyu was grinning in disbelief by the time Lute finished rattling everything off. Alden’s surprise had been growing steadily ever since maid service had been mentioned. The faint tap of Writher’s chain twitching against a chair leg accompanied Lexi’s huff.
+
+“That’s not a school,” said Haoyu. “What in Apex—”
+
+“Oh, it’s so Apex,” Lute interjected.
+
+“It’s not a school. It’s a pressure cooker. I thought our program was a little pressure cooker, but I was wrong. We are weak. Li Jean has designed a perfect emotional breakdown academy. I want to go there. Can I pretend to be Lute?”
+
+“Go for it. I’ll loan you an eye patch.”
+
+“It sounds easier than CNH in some ways,” said Alden. “Skipping core you don’t really need. The tutors. The—”
+
+“Easy?” Haoyu asked. “Did you hear the minimum graduation requirement? Level 12 by the end of third year. Only it’s worse that that. It’s sufficient progress toward Level 12. What if you don’t hear a peep from the System for nine months? What if you’re at Level 10, a few weeks from graduation, just waiting for it to tell you you’ve hit a double…and it announces a single instead?
+
+“They’re hiring those Rabbit cleaners to mop up the tears and puke.” He leaned over and let his cheek rest on the table while his brown eyes gazed at the brochure in Lute’s hand. “I want to gooooo.”
+
+“You’re weird,” said Lute.
+
+“Does it say how many students they’re taking for the inaugural class?” Lexi asked.
+
+“No. Not in the letter either.”
+
+“I wonder if my brother got a letter. If they’re targeting special S’s, they might have thought of Kon, but if the program is aiming specifically for people they think can meet the graduation requirement…”
+
+“Or blow past it,” Haoyu said. “Anesidora’s first hyperbole program. Put S’s in, Rank 1’s come out. Why has no one thought of this before!?”
+
+“Because that wouldn’t work,” Lute said.
+
+“They invited Lute, and he’s not even interested.” Lexi was talking more to himself than the rest of them, judging by his distant tone. “Are they going to try to sweep up every early S around our age? Who else? Known levelers. All the best first year S’s at Celena North and Naya Din?”
+
+“Hey. Is it even reasonable to put together a class full of people and demand that all of them pick up eleven levels in three years? Or less, since the point about the System not playing along is a good one.” Lute was asking Haoyu. “The checkpoints would have to be brutal. Something like…end of first year, if you haven’t gained four levels, you’re out?”
+
+“They wouldn’t expel them from Li Jean. I’m sure they just drop them down from Elites into their regular hero program, so it’s not like it’s the end of the world,” Haoyu replied.
+
+“That walk of shame away from Elites housing to join the plebeian students, though…” Lute smiled like he enjoyed imagining it.
+
+Alden raised an eyebrow at him. “That has to be the first time the S-ranks in the largest leveling program on Apex have ever been called plebeian.”
+
+“As an Elite myself, I’m allowed to call them that.”
+
+“Five,” muttered Lexi. “I don’t think I could feel like I was on track in a program like that unless I earned five levels in the first year. That way it would only be six over the next two…it’s still crazy to know you have to do it.”
+
+“It’s possible,” Haoyu said. “Most people do their fastest leveling in high school and college anyway. My mom did three, then five, then four in her first years after selection. My dad did four, four, two. So that’s close for him, and she would have made it. And that was without having all the perks the Elites are getting. Plus, if they gather a large enough, elite enough first class and then drop all of the under-performers into the main program instead of staying completely invested in them…”
+
+“They could promise over-performers in the regular classes access to Elites, too.” Alden thought it sounded like the obvious thing for a program like that to do. “If you’re near the top of your group, maybe you move up. It’s going to change the whole S-rank experience at their school.”
+
+“Goodbye, Van Nutmeg. We’ll miss you.”
+
+“I thought you were volunteering to take my place?”
+
+Haoyu sat up and stabbed another piece of meat petal with a fork. “It’s fine if Li Jean wants to pressure cook some S’s to see what happens. I really like school here so far. Some of our S’s leaving before I can beat them in duels would be sad, so I hope they don’t. But if they do…I’ll wish them well and then beat them in interschool events when they’re Elites. Simple.”
+
+“Yes, simple,” said Alden. “I look forward to one day dueling Elite Marsha.”
+
+“Elite Marsha sounds like a trading card.”
+
+“It does.”
+
+A-ranks waving signs in Max’s face, High Council members encouraging everyone to train, Li Jean promising extra gym time to the best of the S’s while Lexi talked about giving up his own to people like his parents—Alden wasn’t sure if it would all come together to change things he cared about or not. I think the right thing to do is not worry about any of it until it actually impacts my life?
+
+He’d worry about Boe and Stuart. Healing. Choosing. Learning more about Bearer. Learning more about magic. It was enough without turning a bunch of gossip and news into imaginary future trouble.
+
+“I don’t see how what Li Jean is doing is going to affect the three of us too much,” Lexi said. “Since we’re not invited, and Lute’s not leaving.”
+
+“None of you are awed enough by me,” Lute complained. “You’re in the presence of an Elite.”
+
+“A little while ago, I was making plans to prevent you from bashing your head if you fell out of your chair,” Alden told him. “Do you have more wordchains left to pay back?”
+
+“Yes,” Lute said gloomily.
+
+“Let me do a couple of physical ones for you later. That’s all right, isn’t it? It’s allowed? I shouldn’t take on anything mind-related, but if you’ve got My Body Becomes My Assistant or something?”
+
+“No, you don’t—”
+
+Haoyu raised his hand. “Me too!”
+
+“You really don’t—”
+
+“I can do a few,” Lexi offered.
+
+“I’m fine.”
+
+“You’re not fine.” Haoyu shook his head. “You two should have been here earlier. He’d fallen in the hall, and the vacuum was trying to eat him. Don’t worry. I took a picture.”
+
+******
+
+******

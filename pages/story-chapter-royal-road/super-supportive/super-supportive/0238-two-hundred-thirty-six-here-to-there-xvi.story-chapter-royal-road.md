@@ -1,0 +1,147 @@
+---
+id: 47653e2a-22d8-543a-9383-6a4bc3a370a5
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-SIX: Here-to-There XVI"
+slug: 0238-two-hundred-thirty-six-here-to-there-xvi
+partOf: super-supportive
+position: 238
+ownLength: 1797
+unit: words
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2508562/two-hundred-thirty-six-here-to-there-xvi"
+royalRoadId: "2508562"
+---
+
+236
+
+******
+
+Shouldn’t I make a mistake or two?
+
+“And then a loop extended out from his palm,” Alden explained.
+
+Wouldn’t that be the smarter choice?
+
+“About this far, I think.”
+
+Maybe I just won’t mention the drape.
+
+“The auriad wasn’t tight like it was pulling toward the spot where the loop floated. It was loose in between. Like this.”
+
+“I see,” Stuart said, watching him avidly. “Those strands draped down.”
+
+He had a green glow on his face as he leaned closer. The light came from an image of a hand and auriad being projected into the air by the tablet on the seat between them. The device was a small one Stuart used at school, not Alden’s own. The hand and the auriad that was laced through its fingers were simple to position with a slender stylus. It was just the kind of thing a wizard might find helpful for learning new spells. So much more natural than a two-dimensional diagram.
+
+Alden wanted the tablet to accidentally fall off the seat into his bag, and then he wanted there to be some legitimate reason for him to keep it.
+
+Oh, look at that! the Stuart of absurd daydreams would say. When a student wizard’s tablet falls into another person’s bag in a car traveling toward the tail of the diving num, custom demands a transfer of ownership.
+
+“Could you see if this spot was twisted together or if the auriad was merely crossed over itself?” Stuart asked.
+
+“How good do you think my vision is?”
+
+He wasn’t being misleading, despite how many times that annoying, cautious voice in his head suggested he should be. He really hadn’t been able to see if the loop Stuart was indicating had been formed by a twist at the base. But everything Alden had seen, he remembered, and everything he remembered, he was replicating here.
+
+Am I making it as flawless as I can because I’m crazy? he wondered, prodding a strand into a position higher up on the index finger, closer to the nail.
+
+Or is it because I’m proud?
+
+He was kind of proud that he could do this after only seeing the auriad for a few seconds. It was easier because what he’d seen was similar to part of the spell he’d memorized for the flying triangle of force. The shape here looked more complicated to perform, but the auriad was still in a position he thought of as familiar.
+
+He finished by animating it a little with Stuart’s assistance, so that three fingers were pinching inward.
+
+“This is it. This is what I saw Olget-ovekondo doing before I turned away.”
+
+He waited for Stuart to finish studying it.
+
+I just don’t want to lie to him when I can avoid it. Keeping secrets is bad enough.
+
+“You’ve remembered so much after a single sighting! This looks like a modern dart symbol, and the motion could be the beginning of his transition to defining the cast-through. This is the kind of thing I suspected he’d used. Now, I’ll get a list of his proficiencies from his school, and if this dart is part of one of the auriad spells on it…I do not think we will even have to bother any of the villagers for <<testimony>>. Asking them to speak of his character, motives, and movements to the executioner was going to be painful.”
+
+Alden was feeling glad he’d done something that might take days of work off Stuart’s plate, so he was slow to catch that one particular word and get concerned about it.
+
+“Executioner?”
+
+“The judges of the Lower Steps of Recompense don’t direct their expertise toward crimes committed by wizards, so it can’t be one of them.”
+
+“But an executioner!”
+
+Stuart straightened and looked at him in surprise. “The crime is too simple to justify calling a Superior Executioner, don’t you think? And Olget-ovekondo isn’t currently hurting anyone, so a <<subduer>> isn’t necessary. I suppose…the insult to Bithe and his presence, as well as yours, in the house could be considered complications. But I’d rather not lead anyone to focus on this matter as if it was a threat to a hn’tyon and an Avowed. Requesting a higher executioner might imply the wrong thing.”
+
+Alden knew for a fact that punishments between wrist slap and beheading existed and were the norm, but it was a few more seconds before his heart slowed down and he realized “executioner” must be a broader role than it sounded like.
+
+“Executioners…they don’t always behead people, correct?” He remembered to use the word for formal beheading.
+
+“Is that why you look so appalled?” Stuart started adjusting the car’s route on the control panel. “Of course he won’t be beheaded. Unless he’d prefer that. I guess he might, but it would be quite extreme of him.”
+
+******
+
+The nearest executioner had time to see them, and there was no need to teleport, since she lived on the outskirts of the city. Their taxi would take them there in less than an hour. On the way, they discussed how they expected everything to go.
+
+Despite thinking Alden was silly for the assumption that executioners must only execute people, Stuart had some nerves of his own about what they were doing that became more apparent as they traveled. He had a two-minute-long argument with himself about whether or not Alden should wear the commendation, eventually settling on no. Then they had a longer talk about whether or not they should warn any of the ovekondos they were doing this.
+
+Stuart wanted to warn them. But he also wanted warning them to have a result that Alden didn’t think it would.
+
+“I can’t imagine Olget-ovekondo hurrying to submit himself for punishment and reduce his shame. Especially not with just a little bit of advanced notice. I can imagine him running to the bors and getting them all involved even though that’s something we’re trying to avoid for their sakes.”
+
+They decided to let the professional handle informing the man.
+
+Finally, as the taxi approached a small mansion that looked like it was made of extruded layers of desert sand, Stuart seemed to have settled everything within himself that needed settling. He was back in his votary garb, minus some of the jewelry, and he’d re-braided his hair. His hands rested on his knees, and he’d stopped researching things through his eyerings.
+
+“You missed a night of sleep, Alden,” he said. “I just realized when we were talking about Healer Yenu.”
+
+“Too much was happening. How long has it been since you slept?”
+
+“I’ve been busy.” Stuart looked away from the window. “Your help during this trip was almost as welcome as your company. Even before the wand was broken. I’m glad you came.”
+
+“It was fun. I liked getting to know Emban and the others. And seeing Artona I this way was special.” The car stopped a short walk from the front door. “Don’t worry about the sleep. It’s a weekend for me, so I can catch up. I’ll be sure to dream some great nightmares. I’m remembering more of them every time. I feel sorry for the way I handled the bokabv in the one I had when I was sleeping on the train.”
+
+“Was it not what you’d planned?”
+
+“No. It was the one based on our practice with the hazard mimic. Taking out its legs to bring it down, shielding against its chaos—with my back protected by the car, because someone insisted—and then fleeing. It’s as safe as possible for that scenario, and it makes sense. But I look at the camera as we’re driving away, and the bokabv is dying slowly. It’s suffering. I thought of how respectful Ryada-bess was to the kooba corpses, and I felt bad for the dream demon. I still do. Not practical of me, I know.”
+
+He picked up his bag as the car door opened. He’d wanted to ask Stuart why in the universe he’d assumed a bag with a magic lock was Ro-den’s payment for Thegund, but he really didn’t want Stuart to ask him who had given it to him if not Ro-den.
+
+He’s not the first person to notice it either. The gifter obviously had a little bit of fun giving me something more valuable than I realized.
+
+[What’s special about this bag you gave me?] he asked in a text to nobody, as the heat hit him and his boots crunched against gritty pavement.
+
+In answer, a golden information window popped up on the right side of his vision.
+
+[A Forgetful Traveler’s Bag is…]
+
+“I believe, based on some things Emban has said, that you’ve identified Ryada’s feelings correctly.” Stuart had just stepped out of the car after him. “She empathizes with what she kills more than some others would.”
+
+“I want her to be okay.”
+
+“Me too.” Stuart checked all his rings and necklaces. He adjusted his belt. “Practical and kind are hard to balance. You have been both from the moment I met you. I like the way you balance them, even if it sometimes makes you slap me or eat entire containers of fat.”
+
+“You let me eat that!”
+
+“I didn’t know then that I needed to monitor that about you. I’ve learned after the yovkew.”
+
+Alden rolled his eyes. “You’re being funny-mean.”
+
+“I speak with seriousness.”
+
+They watched the car drive off together.
+
+“Do you feel regret about it leaving, too?” Alden asked. “We were in there for so long, it started to seem like it belonged to us.”
+
+“Now you’re being too impractical.”
+
+“I just don’t like that we’ll never see it again.”
+
+******
+
+[A Forgetful Traveler’s Bag is a satchel that is more likely to return to its owner than a mundane object would be, thanks to the Enchantment of the Forgetful Traveler, an extremely tedious and notoriously difficult enchantment to set.
+
+The likelihood of successfully reuniting with a lost bag increases as the bag grows more attached to its owner. The enchantment is usually applied to bags that are sturdy enough for a lifetime of use. Attempts to steal a Forgetful Traveler’s Bag may result in the strengthening or weakening of attachment to the owner, depending on the method used by the thief.
+
+Tempting thieves for the purpose of more rapidly strengthening the bag is inadvisable.
+
+Forgetful Traveler’s Bags are usually ranked by age and attachment. Eternally Loyal Century Bags have been known to teleport back to their owners after only a few hours apart, but even young bags can make impressive journeys.
+
+The Society for the Study and Admiration of Forgetful Traveler’s Objects meets annually in Vethedya. Members are divided on whether owners who didn’t perform the enchantment themselves should be welcomed as fellow enthusiasts or derided as posers.]
+
+******

@@ -1,0 +1,187 @@
+---
+id: 2c677739-0ec2-5e66-ad13-2a0d8971bd15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 677: Aspect II"
+slug: 0099-chapter-677-aspect-ii
+partOf: system-change-system-universe
+position: 99
+ownLength: 2476
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3832165/chapter-677-aspect-ii"
+royalRoadId: "3832165"
+---
+
+Chapter 677: Aspect II
+
+"Fire aspect and draconic flame aspect?" Alex repeated, then looked at Derek with furrowed brows. "Don't tell me that by creating that void flame in your hand, you unlocked more than just a fire evolution in your skill upgrade."
+
+"Okay..." Derek said. "I won't tell you that. But still, could you answer the question?"
+
+"I don't want to," Alex snorted.
+
+"What?"
+
+"You know, Derek... We haven't known each other for all that long, and we didn't communicate a lot back on the planet, as I mostly spoke with Edgar or even Marrick. But I think I understand why only Jace and Marrick acted extremely casually with you. I mean, yes, Edgar did some, and Marrick obviously is at an age or has the experience to not let it bother him much, but in the end, it was only your battle-maniac friend who was actually casual."
+
+"What are you talking about, Alex?" Derek asked with a frown. "Everyone treats me how they treat me. That's all."
+
+"Maybe you're right... I don't know. I just know that, being similar in age and hanging around you can certainly give a person an inferiority complex," Alex finally said. "You don't have a single fire-based skill, do you?"
+
+"That's not true at all," Derek said.
+
+"Oh? Okay... then this is still hard to accept, but not as hard. What is the skill?" Alex asked.
+
+"Uh... well... it was Fire Resistance..." Derek replied.
+
+Alex stared at Derek, slack-jawed. After a minute, he shook his head slowly. "I don't even know why I'm bothering. I should just treat you as a mystical beast or something and not worry about it. That's a resistance skill, not an actual fire-based skill. It doesn't count."
+
+"I was trying to make you feel better," Derek said. "I can't help that I'm this awesome. It's just who I am. Besides, it's not like I'm the only Mythical-ranked user out of my friends."
+
+"I can assure you," Alex said. "You are the only one of your friends who could take what I just told you and create a lightning-based aspect for a channeling or manipulation skill so quickly, just because you used a lightning-based skill before. And you are the only person I've ever heard of to do the same thing with an element you have no experience with, and in only twenty minutes. What you just did should have taken you weeks or even months of non-stop practice and shaping. Your affinity has to be over 60%. You could tell me otherwise, and I wouldn't believe you.
+
+"Oh, and that's not even counting the fact that it turned into damned draconic flame. You said you have that, and a fire upgrade, too?" Alex asked.
+
+"No." Derek shook his head. "I told you I wouldn't say that. But I do have three possible upgrades, and two of them may have something to do with fire..."
+
+"Ugh..." Alex placed his hand over his eyes and shook his head. "You're impossible... that's all... just impossible."
+
+"About draconic flame?" Derek repeated.
+
+"How did you even manage that?" Alex avoided answering.
+
+"Well... I do have some experience with it," Derek said. "I fought a bunch of wyverns and other dragonkin before. There was definitely some fire involved."
+
+"Still..."
+
+"Oh, and the fire that Silvi has is draconic," Derek explained. "She uses it quite a bit, so I've probably seen draconic fire more often than regular these days. She even cooks with it—it makes the char on her food extra tasty."
+
+"She... that is draconic?" Alex asked. "I saw her use it a little to cook and such, but... draconic?"
+
+"Oh, that's right..." Derek said. "I guess you didn't see her when she moved in front of The Amber Tyrant and blasted it with fire, stopping its coiled strike in an instant."
+
+"What? Something like that happened?" Alex just stared at Derek with wide eyes. "You... her... and you said you're bonded? But you didn't seem like it would be a problem to break a bond when talking to my sister. You are able to break it?"
+
+"I wouldn't call it breaking it, as it's given by the Origin System. More of an annulment. We both keep everything we have in the process, and neither of us will be the worse for wear afterward," Derek said. "We just haven't done it yet. It's not something I want to take lightly."
+
+"She... is going to be a Mythical-ranked horned bunny monster without a contracted user... that... that just doesn't happen," Alex muttered.
+
+"Wrong. She is going to be a user, not a monster," Derek replied. "She has a system just like everyone else."
+
+"Oh... right..." Alex sighed and leaned back in his chair. "I need a moment."
+
+"Take your time," Derek replied and waited. It actually took Alex about five minutes to gather himself. After those five minutes, the young man stood, walked past Derek, opened the door to the bathroom, and then went inside. Derek heard flowing water, then a light slapping sound. After that, the water stopped, and Alex walked out. The young man sat back down across from Derek.
+
+"So, draconic flame?" Alex asked, a lot less emotional than before.
+
+"Yes," Derek replied.
+
+"Draconic flame is better than regular fire in every way," the young man explained.
+
+"How so?" Derek asked.
+
+"It's more magical for starters. It has fewer magical properties than, say, arcane flame, but it has a much higher magical resistance than arcane flame, too."
+
+"What do you mean?"
+
+"Well, if you have regular fire and regular water, and dump the water on the fire, the flame will go out, correct?" Alex asked.
+
+Nice... treating me like a three-year-old, that's a pace I can keep up with, Derek thought inwardly with a chuckle. "Right," he said.
+
+"If you do the same with draconic flame and regular water, either the flame won't go out, or it will take a significantly larger amount of water to put it out," Alex explained.
+
+"I see," Derek replied. "What about the magical properties?"
+
+"Well... say... at the same temperature and power as a regular flame, both the regular and draconic flames could hit a magical barrier, but the draconic flame would be much harder to block. And say, if you have a rune-enhanced shield, the draconic flame will eventually eat through those runes because of its magical and anti-magical properties," Alex said.
+
+The way the king guy from Astrus melted is making a lot more sense now, too, he thought. Yeah, Silvi was stronger than the man was, but she literally turned him into a puddle almost instantly. After thinking that, what Alex had just finished saying registered in his head. "Eat through runes?" Derek asked with his brow raised.
+
+"Well... yeah," Alex said with a shrug. "Runes are patterns etched into gear with mana flowing through them for activation. So, with the resistance properties that come from dragons, the fire is not only able to disrupt, but it is known to disable runes."
+
+"Interesting..." Derek muttered and scratched his chin. "Do you think that the draconic flame would be able to erase a rune completely?"
+
+"I mean, it can," Alex said. "But if you're thinking about the trap runes on items like the teleportation plate, the trap will go off at the first sign of it being tampered with. Plenty of people have tried ways such as using draconic flame to do so."
+
+"That's true..." Derek said. "But have they used it as an aspect with void energy?"
+
+"I'm not sure why that would matter, but likely not," Alex said. "Not many people have draconic flame as an aspect to begin with, and with the Void Emperor always restricting void usage, most users avoid void skills, classes, and affinities as much as they can."
+
+"I see..." Derek said. "You remember the teleportation plate, though, right?"
+
+"I do," Alex said. "I spoke to Brandi a little about... oh..." Alex's eyes went wide. "Surely that won't work."
+
+"Are you sure?" Derek asked, glad to see that Alex figured out what Derek was getting at. The runes on the teleportation plate had been damaged or removed or wasted—however one wanted to look at it—when the plate spent a bit of time in the chaotic space of Void Travel. If draconic flame was something with those anti-magic properties, and he added some of that chaotic void energy to it—or however it worked once it was upgraded—would he be able to use it to erase those booby trap runes without setting them off?
+
+"I'm not sure," Alex said. "How could I be? But... if you can control it well and the void could work on runes the same way you said it works on a person's body and organs... maybe with enough practice, you could burn off the self-destruct or booby-trap runes from below."
+
+"But would it be worth taking that upgrade just for that chance?" Derek asked.
+
+"Honestly, if it were me? I would say that even a one percent chance of something like that working would be worth it," Alex said with a nod. "But even barring that from working at all, I would imagine a void-channeling skill with a draconic flame aspect could be a large boost in offensive and defensive powers."
+
+"You think?" Derek asked.
+
+"I do..." Alex said, then he frowned.
+
+"What is it?" Derek asked. "If you want to ask something, then ask. You have an oath with me, and if it's something too personal, I could just not answer."
+
+"Oh, it's not really that, as I have a small amount of knowledge in most elemental affinities—this includes a very small amount with the void. Mostly, however, that is just enough to help defend against it," Alex explained. "You have been in a lot of battles, have not you?"
+
+"I've been in a few," Derek replied with a nod. "Why?"
+
+"So, in all those battles, just thinking about the void, what has been the hardest fight?" Alex shook his head. "No, not the hardest fight. What has been the thing least affected by your void energy attacks?"
+
+"Oh, that's easy," Derek said. Honestly, he wasn't sure if he wanted to say it, because it was technically a weakness of the void that he'd run into. Still, as he said, Alex was under an oath, so he said, "When a guy turned himself and everything about him into ice. My void didn't damage his organs while he was in that state."
+
+"Yes! Transformations that turn vital areas less vital or make them more inanimate. It's not necessarily organic versus non-organic, but living versus non-living, yes?" Alex asked.
+
+"Yeah," Derek replied with a nod. "I'd say animate versus inanimate is probably the closest."
+
+"Do you think the draconic flame aspect would be a step in the right direction when combating that 'weakness' of the void?" Alex asked.
+
+"That... is possible," Derek replied. "But, like you said with your thread and lightning, it's not like the void is going to turn into draconic fire. It's just going to get certain qualities of it, right? It's still going to be void, right?"
+
+"Kind of," Alex said. "But, remember Marrick's sand after the gallbladder? It could also be a bit like that. His sand can have those sticky properties now when he wills it. How about you look at the descriptions of all your upgrades and see if that will help you decide? Or, since it apparently only takes you two seconds to make an upgrade to your channeling skill, you could look for any of the dozens or more other aspects." He said the last sarcastically, but also with a bit of envy in his voice.
+
+"I think I'm good. The only thing I would wonder about is upgrading it with my Rejuvenation skill. It's more of a healing skill that reverts the wound instead of straight healing, so I'd think that would work well with the void. But at the same time, it may work the total opposite," Derek said. The more he learned about the draconic flame, the more he suspected Dave may have picked that skill for him for a reason.
+
+"I'd avoid any healing," Alex said with a shrug. "It's still going to be void energy, which is chaotic and hard to control."
+
+"That's true," Derek said, then he looked at his two other possible upgrades.
+
+...
+
+Channel Void (Draconic Flame Aspect): A refined and upgraded form of the skill [Channel Void]. This upgraded channeling skill allows the user's void affinity to take on certain aspects from the draconic flame element. Draconic flame devours. Void erases.
+
+Note: Only one aspect may be channeled. Channeling skill will continue to work as usual.
+
+Channel Void (Fire Aspect): A refined and upgraded form of the skill [Channel Void]. This upgraded channeling skill allows the user's void affinity to take on certain aspects from the fire element. Fire spreads. Void endures.
+
+Note: Only one aspect may be channeled. Channeling skill will continue to work as usual.
+
+...
+
+"Hmm..." Derek hummed while looking over the skills.
+
+"What is it?" Alex asked.
+
+"So, it seems like the final two lines give a hint about what the channeling skill will be able to do after the upgrade, right?" Derek asked.
+
+"It is possible," Alex said. "Why, what do they say?"
+
+"For lightning, it says, 'Lightning follows paths. Void ignores them.' For fire, it says, 'Fire spreads. Void endures.' And for draconic flame, it says, 'Draconic flame devours. Void erases,'" Derek said.
+
+"So, for lightning, it wouldn't need to follow circuits. It would be able to ignore routes and strike directly at a target. At least, that's how I would interpret that," Alex explained.
+
+"I was thinking the same," Derek replied.
+
+"For fire, that seems... dangerous," Alex said.
+
+"Why? What are you thinking?"
+
+"That it's going to be an unending, spreading, void-affinity flame," Alex explained.
+
+"What does that even look like?" Derek asked. He tried to picture it, but he couldn't. Would it even burn the surface level, or would it still only work on organs and such?
+
+"I couldn't tell you," Alex said with a shrug. "But the draconic flame one is certainly interesting. It sounds like it could support the theory of wiping runes off things without causing damage and triggering them. It also sounds like it could have part of the same potential as regular flame. Doesn't fire spread when it devours? Also, why 'devour'? Why not 'consume'? But, if I'm honest, you don't see draconic skills floating around outside of draconic classes very often. The second that showed up, my mind would have already been made up—and I usually weigh my options."
+
+"I see," Derek replied. "Then, I guess it really isn't that hard an option, is it?" With a chuckle, he mentally selected Channel Void (Draconic Flame Aspect), then confirmed his decision.

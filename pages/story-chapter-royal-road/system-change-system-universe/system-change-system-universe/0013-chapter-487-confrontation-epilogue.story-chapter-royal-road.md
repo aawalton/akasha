@@ -1,0 +1,319 @@
+---
+id: 760860e8-333a-583a-a288-606d427041df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 487: Confrontation/Epilogue"
+slug: 0013-chapter-487-confrontation-epilogue
+partOf: system-change-system-universe
+position: 13
+ownLength: 4209
+unit: words
+ownProgress: 4209
+publishedAt: 2024-12-11
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1951194/chapter-487-confrontationepilogue"
+royalRoadId: "1951194"
+markedReadAt: "2026-06-29T19:57:09.576Z"
+---
+
+Chapter 487: Confrontation/Epilogue
+
+While everyone was working hard, Derek checked out the description for his new Achievement.
+
+World Boss I
+
+This Achievement (Title) is awarded for defeating the monster designated as a World Boss by a system. World Bosses are rare creatures that are known to devastate worlds if not defeated in a timely manner. These creatures do not appear often, and once defeated, do not respawn. It is impossible to know when a new creature capable of carrying the title ‘World Boss’ will appear again and receive the designation.
+
+Because of how rare these creatures are, few ever encounter them, and even fewer are capable of defeating them.
+
+For accomplishing such a feat, you have earned a free stat point boost of 5% of your total combined stat points, or 350 Free Stat Points—whichever is smaller. You have also received Three Skill Upgrade Points granted by the Origin System.
+
+Defeat more World Bosses to increase rewards.
+
+Note: This (Title) Achievement has been graciously granted by a stronger system, and thus, will be carried with you throughout your journey.
+
+Oh… I get it now, Derek thought. This is something else I need to talk to Dave about if I ever see him again. Was he the one who designated the tree as the World Boss? Or did it just grow strong enough to automatically be given the title? Derek shrugged. I’m liking the fact that this is an upgradeable Achievement, too.
+
+Derek licked his lips—if anyone would eventually be in position to find and hunt World Bosses, it would be him with his traveling ability. I wonder if there’s one on Earth, he thought. But that system encompasses a lot more than just Earth, and it doesn’t sound like each world actually gets one. Oh well. He shrugged. I’ll find out later.
+
+After going over everything one last time, Derek nodded. The journey with Alanah was well worth the small inconveniences. With it all over now, Derek looked at his status sheet to see all the gains he’d had over that time.
+
+Status
+
+Personal Information
+
+Name:Age:Level:Experience:Class:Race:
+
+Derek Hunt302458,800,000,345,850/11,600,525,450,650Void Monarch (Mythical)Human (Void)
+
+Health:Mana:Stamina:
+
+413754125041375
+
+Stats
+
+StrengthDexterityEnduranceVitalityIntelligenceWisdom
+
+Stat Points Remaining
+
+165016501655165516501650
+
+386
+
+Contracts
+
+Alanah Swan (Crown Restaurant)
+
+Silvi (Bonded Beast)
+
+Stella Brighton (Crown Restaurant)
+
+No Proxy (Torith Adventurer’s Guild)
+
+Rudolph Mckinney
+
+Natalie Savannah via Malorie Stewart (Void Emporium)
+
+View Contract
+
+View Status
+
+View Contract
+
+View Contract
+
+View Contract
+
+View Contract
+
+Skills
+
+Absolute Nullify Lv. 20, Bare Fist Specialty Lv. 5(View Upgrades), Basic Repair Lv. 1, Chain Lightning Lv. 20, Channel Void Lv. 20, Cleaning Lv. 13, Cure Toxin Lv. 17, Dismantle Lv. 17, Enhanced Movement Speed Lv. 4, Fire Resistance Lv. 20, Greater Meditation Lv. 16, Identify Lv. 20, Magic Resistance Lv. 20, Mental Resistance Lv. 20, Multi-Strike Lv. 20, Physical Resistance Lv. 20, Polearm Specialty Lv. 3 (Void’s Harbinger), Powerstride Lv. 9, Rejuvenation Lv. 20, Spatial Collapse Lv. 9, Spatial Redirection Lv. 5, Spatial Rend Lv. 8, Sweeping Slash Lv. 20, Telepathy Lv. 12, Time Prison Lv. 15, Void Call Lv. 6, Void Creation Lv. N/A, Void Sense Lv. 20, Void Shift Lv. 15, Void Steps Lv. 20, Void Storage Lv. N/A, Void Travel Lv. N/A, Whirlwind Slash Lv. 11
+
+Skill Points Remaining: 15
+
+Skill Upgrade Points Remaining: 0
+
+Skill Upgrade Points (Origin System) Remaining: 3
+
+Shared Skills from Companion: Active Void Shift Lv. 10, Void Lightning Bolt Lv. 10
+
+Shared Skills to Companion: Void Sense Lv. 10, Void Travel Lv. N/A
+
+Skills Available to Share:
+
+Absolute Nullify Lv. 10, Channel Void Lv. 10, Time Prison Lv. 10, Void Call Lv. 6, Void Sense Lv. 10, Void Shift Lv. 10, Void Steps Lv. 10, Void Storage Lv. N/A, Void Travel Lv. N/A
+
+Achievements
+
+Greater Giant Slayer, Jack of All, Lesser Dungeon Explorer, Lesser Dungeon Traveler, Lesser Enigma, Lesser Enforcer of Oaths, Major Repetitive Dungeoneer, Minor Slayer of the Unknown, Solo Diver, Magical Glass Cannon, Meat Shield, Lesser Explorer, Offensive Powerhouse, The Bigger They Are, The Impossible, World Boss I
+
+He didn’t know where to begin as he looked over the sheet. He’d not been paying a lot of attention to any of the notifications he’d gotten throughout the journey—just the main ones like his void skills that he’d been focused on after learning how Alanah met the second requirement.
+
+Pretty much all of his skills that weren’t already at max level had increased by a decent amount in all that time. His Mental Resistance had skyrocketed to level 20 during the World Boss fight because of all the echoes he had to defend against. His Void Steps had also reached level 20—leaving him with Void Shift and Void Call left to level. He was sure that leveling Void Shift wouldn’t be too hard, but it would take a while to do the same with Void Call. He would definitely focus on Void Shift first and often, as Void Call required a bit of setup and safety before he could use it—he didn’t want to summon a beast within a town or anything, after all.
+
+Other than those, his Powerstride movement skill had increased a bit, too. He even gained another level in Greater Meditation and Polearm Specialty—two skills that were insanely hard to level. His spatial attack skills had also gone up a small amount during his fights—along with Whirlwind Slash. And finally, he was well on his way to maxing out his Telepathy skill. He was even thinking about solely using it for a while just to get it there, just to level it. Once Alanah leaves, I’ll have to go hang out with Lyra at the kennels.
+
+Derek took one last look at his stats, noting that his Health, Mana, and Stamina pools had all also gone up alongside his stat increase from his ‘The Impossible’ Achievement. It was nice to see that he was able to do so when everyone else was stuck with question marks after reaching 1,500 stat points in a stat.
+
+Finally, he closed the stat sheet and sighed. I guess I should help a little, too, Derek thought, but before he was able to make a move, an unfamiliar voice sounded out from behind them.
+
+“What the fuck is going on here!?” Derek turned to see a large group of Elves marching toward their group. “Did you… the Echoing Willow… how dare you!” the man in the lead shouted out—seemingly unable to wrap his mind around what was going on.
+
+Derek, being the first person to notice the new arrivals, disappeared with Void Shift and reappeared directly in front of the group. He counted twelve elves and two half-elves in the bunch.
+
+“What was that?” Derek asked, cupping his hand over his ear.
+
+“Human!” another voice shouted from the group.
+
+“Ah, yes… that I am,” Derek replied. “But to answer your first question… ‘what the fuck is going on here’… I needed some firewood, and my friend knew just the tree to get it from.”
+
+“You!” The leader clenched his fist, then an enormous green aura exploded out from him, and targeted Derek.
+
+Derek picked his nose and yawned when he felt the aura. He was well past auras doing anything to him. “That it?” he asked.
+
+“Holly, Varias, Rentfield…” the leader said, and three people behind the man all released their aura as well. “Kill this hum…” the man started, but was interrupted by Alanah appearing next to Derek. After the fight, she had transformed back to her normal self and was no longer in her siren form.
+
+“The fourteen of you should leave,” Alanah said. “Now.”
+
+“A half-elf?” the leader muttered. “Was this your doing, too?”
+
+“It was my orders,” Alanah answered. “I think I have every right to do with my former home as I please, do I not?”
+
+“Former home?”
+
+“Yes,” Alanah replied, then, her hair began to fade into a withered green, her nails grew long and sharp, and her teeth took on a ghastly appearance. “My home,” she said, her voice now threatening in a way that sent a shiver down Derek’s spine.
+
+“The two of you need any help?” Avery asked as he and Edgar walked up from behind Derek and Alanah.
+
+“I’m pretty sure these guys were just leaving,” Derek said, then he looked at the leader and released his aura—an aura made up of around 10,000 combined stat points. It completely washed away the auras of the four elves and left them dumbfounded.
+
+Still, while the group was cautious around Derek’s aura, their eyes were trained on Alanah.
+
+“The Dawn Siren…” the leader muttered. “You’ve come back.”
+
+“I have,” Alanah said. “And with allies who are no less strong than me.” Seemingly with perfect timing, in the far distance, a full-sized Rocky shot out of the ground and spewed molten lava everywhere. He’d been doing so during the whole cleanup—he was young and bored, and was unable to help with the cleanup, so he’d been entertaining himself. Alanah turned her head to glance at the dragonkin, then turned back to the group with a half grin. “Do I need to add the lot of you onto my list of revenge?” she asked. “I was going to leave it at the Echoing Willow, but I can make an exception if you wish.”
+
+“N-no, ma’am!” What looked to be the youngest elf in the group spoke up with a shout. “I… I mean… Miss Dawn Siren.”
+
+“Hush!” the leader turned and shouted at the young elven woman, who backed off and lowered her head. Then the leading man looked back at Derek and the others. “I can’t just let you destroy a precious training ground, then leave.” The man cracked his neck, then took a step forward. A set of vines shot out of the ground and began circling around him.
+
+“This again?” Avery muttered, then nocked an arrow, imbued it with his stamina, and released it… directly into the man’s torso. The man’s armor held for a moment before shattering—Avery’s Drill Shot continued on embedding itself into the man’s stomach before coming to a bloody halt. “That was a warning shot,” the archer said as he stepped forward.
+
+“Sir!” One half-elf and another full-blooded elf rushed forward and began healing the wound created on the leader.
+
+“Ugh!” The leader spat out a mouthful of blood, then looked at Avery with death in his eyes.
+
+“I’m the weakest one here,” Avery said with a smile. “And I could probably take at least two or three of you… including you,” he said to the leader.
+
+“You sure you want to kick this hornet’s nest?” Derek asked. “By the way, I’m the strongest here, and I’m sure I could take all 14 of you without breaking a sweat. Could probably kill half of you in a single blow. So, like I said before, you were all just leaving, right?”
+
+Derek heard a collective gulp come from the group. Then, the newly healed leader said, “You lie! There is no way that is true.”
+
+Derek rolled his eyes and sighed. “Fine… I guess I’ll give you a little taste.” With his hand held out, he summoned Harbinger. Then, he injected as much mana into his glaive as possible. “Run,” he said. “Or die… it’s your decision.”
+
+Multiple earth barriers shot up between everyone. The young woman who had spoken out of turn before ran off to the side—seemingly believing Derek’s words.
+
+“Three seconds!” Derek shouted out as a massive geyser of flame shot into the sky over the earthen barrier, then began crashing to the ground—directed at Derek and his group. With a wave of his hand, Derek summoned an Absolute Nullify wall over them, and when the fire got close enough, it was sucked directly into the wall.
+
+“Two!” Derek said as more magical attacks shot out from behind the earthen barrier. He doubted the elves could even see what was going on, but he did look over to the young female elf—who was staring at him like he was some kind of monster—and winked. “One… zero.”
+
+With Harbinger full of the void, Derek struck with a void channeled Sweeping Slash. Though there was absolutely no love lost between him and the people of Linderis, he decided against adding Multi-Strike to the attack for now. He had given them multiple warnings, and they attacked. He even counted down after, yet they did nothing. So now, he was giving them one last chance after experiencing one of his attacks. If they chose to continue, his next attack would include Multi-Strike.
+
+Derek’s attack hit the earthen wall and bit into it without cutting all the way through. The young elf to the side tilted her head in confusion. Derek smiled. Moments later, the wailing began.
+
+“Sir! Are you okay!?” a voice called out.
+
+“Lady Holly! Wake up!” another voice shouted. It was pure chaos behind the earthen wall—an earthen wall which shattered when Alanah stuck her rapier in it, then flicked it with a finger.
+
+Finally, they could see what happened. Seven of the elves were sprawled out on the ground, unmoving. Of those six, they included the man who looked to be in charge, the three elves who had released their auras with him earlier, and the two healers. Four of the others were kneeling on the ground with massive amounts of blood pouring out of every orifice they had. Then there were three who didn’t look too worse for wear. It seemed they took after the young elf and tried to escape at the first count.
+
+“I told you,” Derek said.
+
+“Ugh…” the leader coughed up another mouthful of blood, then rolled over and tried to stand. He fell twice before making it to his feet. He flicked his wrist and drank down a red potion that appeared in his hand. He looked back and down at those on the ground.
+
+“Looks like they are all still alive…” Derek said. “For now… though, those two seem to be in a Dying State. You may want to take care of that soon.” He nodded at one of the healers and the woman named Holly. “You have one last chance to leave, or I’m going to swing again, but this time, with full strength.”
+
+If looks could kill, Derek would have been dead multiple times over from the stares looking at him from the group from Linderis. The leader looked over Derek’s group again, then at his companions. Then, his gaze shifted to the Absolute Nullification wall hovering above Derek’s group. Finally, he took a step back.
+
+“Gather the wounded!” he shouted. “We’re leaving!” With one last look at Derek and his group, the man picked up the woman known as Holly, then left. He looked over his shoulder one last time and yelled, “Don’t think this is over, Dawn Siren!”
+
+Alanah, who was standing beside Derek, disappeared from his side, then reappeared in front of the leader. The next second, she disappeared again and was standing beside Derek once more. Moments later, the leader collapsed onto the ground, his body rolling one way and his head the other.
+
+“He gave you so many chances,” Alanah said to the group, who were stricken silent. “You have lost your leader. What will you do now?”
+
+Don’t piss Alanah off, Derek thought. She didn’t exactly have a very long fuse when she was in her siren form.
+
+One of the elves went and picked up the remains of the leader, then they all took off at a speed far greater than they had before. Finally, all that was left was the single young elf. She gulped audibly, then stepped forward.
+
+“Please excuse my insolence,” she said, then bowed. “It is an honor to meet the legendary Dawn Siren. You have my thanks for taking it easy.”
+
+“I tried to, at least,” Derek said.
+
+The woman bowed deeper at Derek’s words, then raised her head. “If you will excuse me.” She turned around and left.
+
+“Smart girl,” Derek said.
+
+“I agree,” Alanah replied.
+
+“Mhm,” Edgar muttered with a mouth full of some fruit. “Pretty, too.”
+
+“We should finish up here, then leave before they send a whole army after us,” Alanah said. “A small group is fine, but I may feel bad if we have to destroy another army.”
+
+“Sounds good to me,” Derek said. After that, they all turned back around and got back to work. It had been a busy day, and Derek couldn’t wait to get back home and take a nice, warm shower.
+
+***
+
+A few days after coming back home, Alanah woke up from a dead sleep and stretched. She had thought that there would be no way that she’d get to sleep the night before because of what today would bring, but ever since she, Derek, and the others destroyed the Echoing Willow, she had slept like a baby. It was actually some of the best sleep she’d ever gotten in her long life.
+
+The last few days were nice. She had a very good conversation with Avery after they all earned the ‘World Boss’ Achievement, and she was able to tell him more about what was going on—not a lot more, but enough that the man was able to convince Stella that it was something that Alanah had to do, even though neither of them could go into details.
+
+Alanah threw her legs over the bed, sat up, then reached over to her dresser and opened a drawer containing a dozen storage rings of different sizes. She slid one on each finger, then attached the rest to a necklace she was wearing. All the items inside were things that she thought she might need wherever she ended up.
+
+With a sigh, the siren stood from her bed. After that, Alanah went to her bathroom and took a very pleasant shower. She, too, was happy that Derek had brought the idea of showers to their world. In fact, one of her storage rings had a few different showers—some temporary, and some permanent. She also made sure that Natalie and Geoffrey didn’t give her any of those damned things that broke after so many uses and had to be repaired.
+
+As Alanah walked down the stairs of her hotel for maybe the last time, she looked around and smiled—she had built herself a pretty good life in Cydaria. Her workers all gave her nods, waves, and smiles as she left. After that, she went to her restaurant to grab something good to eat before leaving.
+
+When she walked inside, she was met with all of her chefs, servers, and remaining employees on her main restaurant staff. Each and every one of them bowed and thanked her for everything. Seems like they are all just trying to make me cry, Alanah thought. Finally, her eyes found Stella.
+
+“What is all of this?” she asked.
+
+“I let the staff know that you would be going away for a while, and wasn’t sure when you would be back,” Stella replied. “They wanted to do something special.” Stella motioned all around her. “What do you think?”
+
+The first floor of her shop had a delicious aroma, and on the tables were some of the restaurant’s best dishes, and even some that she’d never seen before. Looks like they’re all getting creative, she thought. “It’s nice,” she said. “Thank you.”
+
+Alanah then sat down and had one of the best breakfasts she’d ever had. She wasn’t sure if it was the food or just the general thanks and love she felt in the air, but it was very nice.
+
+“Thank you for all your hard work,” Alanah said as she gave her staff a slight bow before leaving. “Come on,” she said to Stella, then left the restaurant.
+
+“You sure you have to do this today?” Stella asked as they walked down the street.
+
+“I could wait a little longer, but I want to do it on my terms,” Alanah replied.
+
+The two had already had the same conversation a few times since she and Derek came back to Cydaria. It always ended the same way—with Stella telling her that she would be missed—and this time was no different. Once the conversation was over, they went silent and headed to their destination.
+
+It didn’t take too long before Alanah and Stella found themselves outside the dragonkin kennel. It was a location far enough away from any of the cities to keep some things secret, and if something went wrong, maybe it wouldn’t destroy the city from this distance.
+
+There weren’t a lot of people gathered there, but there were more than she had expected. Edgar and Edwin were both there. Alanah smiled and nodded at the former king, who tried time and time again to gain her affection while he was young.
+
+Along with those two, some of Derek’s people were there. Both Malorie and her daughter had come. The young girl looked like she had better things to do, but it looked like she was doing her best. Alanah giggled a little, thinking about the young smith and what she was going to make of herself in the future.
+
+Natalie Savannah had also dropped some things to make it. There were only a few people who knew a little of what was going on. The others had come only because they had been informed that Alanah would be leaving for some time. Even the Walking Forge had come by to see her off—but some of that was because he wanted to check the kennels, and his companion was having fun with his kin.
+
+Finally, Alanah saw Derek, Avery, and Silvi waiting for her. Alanah looked at her friends, then over to Lyra, who seemed to be slumbering in the distance.
+
+‘Lyra, can you hear me?’ Alanah asked. If the dragonkin didn’t answer, she wouldn’t disturb her more.
+
+‘I can hear you just fine,’ the beast sent back.
+
+‘Great,’ Alanah said. ‘I thought you may have been asleep.’
+
+‘No, not asleep,’ Lyra said. ‘What is it that you need?’
+
+‘I just wanted to thank you for watching over Avery, and to ask that you keep doing so,’ Alanah said.
+
+‘Of course I will,’ Lyra replied. ‘You need not worry.’
+
+‘Thank you,’ Alanah said.
+
+After that, the siren moved forward, closer to Derek and the others. Finally, she found herself just a few feet away from them.
+
+“This is it?” Derek asked.
+
+“This is it,” Alanah answered. She looked behind them and saw that they had cleared out a large area for Alanah to do what needed to be done. “You’ve been busy,” she said.
+
+“Not really,” Derek said. “It didn’t take too long.”
+
+“Well, better get this started,” the siren replied. “Wouldn’t want all this work to go to waste.”
+
+“You sure you don’t want to try to trick it?” Derek asked. “I could always put you in my Time Prison and close it until your deadline passes.”
+
+“I’m sure,” Alanah replied. “But thanks.”
+
+“Anytime.”
+
+After that, Alanah turned to Avery. “Avery, you take care of those kids. They need you. And do look after Stella until she’s back to herself.”
+
+“Of course,” Avery replied with a nod. “I’ll do so until it’s time for me to go find you.”
+
+“I’m sure you’ll get there before too long,” Alanah replied. After that, she turned to Silvi. “You make good use of those recipes and ingredients that I help get you.”
+
+“I will, I will…” Silvi’s voice chimed from her communication crystal. “You sure you need to go? Will miss delicious restaurant owner.”
+
+“Yes, I’m sure,” Alanah replied. “But I appreciate the care.”
+
+Once she finished with those three, she sighed. I’ve been looking forward to doing this, but now that the time has come, I am quite nervous, she thought to herself. Better just do it before it gets worse. Finally, Alanah looked at Derek once more. She walked forward and grabbed Derek’s wrists with her hands. After which, she stood on her tiptoes and leaned forward. Alanah gave the clueless man a quick peck on his cheek, then whispered, “When you come find me, you’re taking me on a real date. No more of this dungeon running bullshit. I want food and candles, and you’re paying.”
+
+“You just remember your words,” Derek looked down at her and smiled—causing the siren to actually blush a small amount.
+
+“Would never forget them,” Alanah. “Just don’t take forever.”
+
+“I wouldn’t dream of it,” Derek replied.
+
+“Alright! Let’s do this.” Alanah pulled back from Derek, then walked past him to the center of the cleared area. When she turned around to look, everyone had gathered on what could be considered the edge. “Take care of each other,” she shouted out to everyone.
+
+Now… let’s see… Alanah opened her status, then focused on the part that showed that she had met the requirements for advancement. She focused on the tab and received a notification.
+
+Would you like to initiate advancement?
+
+Yes/No?Note: There is still time remaining before forced advancement.
+
+Alanah focused on ‘Yes.’ She looked up and waved at the group of her friends and companions. They all waved back—including Stella, who was very teary-eyed. With one last deep breath, Alanah selected yes. Next, she was enshrouded in a bright white light. After that, she was gone.

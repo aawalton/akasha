@@ -1,0 +1,147 @@
+---
+id: b907563a-5e60-5ac4-b3ac-fc136dafda6b
+page-type-slug: story-chapter-royal-road
+title: "A. ONE HUNDRED FIFTY-SEVEN: Family Matters III, part A"
+slug: 0158-a-one-hundred-fifty-seven-family-matters-iii-part-a
+partOf: super-supportive
+position: 158
+ownLength: 1688
+unit: words
+publishedAt: 2024-07-22
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1727278/a-one-hundred-fifty-seven-family-matters-iii-part"
+royalRoadId: "1727278"
+---
+
+157A
+
+******
+
+******
+
+Alden completely forgot he was flying. The nonagon stopped in midair while he increased the opacity on his interface to make the three Velra faces that were juxtaposed in his vision clearer.
+
+On the left was Aulia, severe and firm with just a hint of sadness at the corners of her eyes. And Orpheus, frightened and sloppy with tears. In the right video window, Lute’s expression had frozen. He’d gone so still that if Alden hadn’t been using the System for this call he’d have wondered if his tech was glitching.
+
+“My great grandson will be turned over to the authorities to pay for his crimes,” Aulia said. “But an S-rank Chainer might prove difficult to apprehend, and I see no reason for his failings to lead to even more loss of  life. So I’m taking responsibility for the job myself.”
+
+She squatted beside the man and stared into his eyes.
+
+He shook his head.
+
+She arched an eyebrow at him, and her mouth tightened.
+
+Orpheus’s lips trembled. A few seconds passed, then he fell over onto the pavement at his grandmother’s feet.
+
+Is he unconscious or faking?
+
+Aulia hadn’t even touched him. Alden was sure there were wordchains that would knock you out like that; something that completely sapped your energy was the most obvious. But whatever it was, Aulia did know how to make an impression.
+
+She rose from her fallen grandson’s side and turned her face to the water. The camera stayed on her profile.
+
+“Anesidora has changed so much since I stepped off the ship that brought the first of us here. And I’m proud. I’m proud to have seen it. I’m proud to have watched most of you grow up in a country where Avowed are free.”
+
+Her voice softened. “Because we weren’t once. Not so long ago.
+
+“When they dumped the first generation here, we were lost young people, searching for new family. For home. But they had no intention of creating a home for us. There were more foreign soldiers than Avowed. More scientists studying us than teachers helping us. In this place as far away from their own shores as possible, humans tried to control superhumans.
+
+“They tried to master us because they couldn’t master their fears. Of us, of other worlds, and of each other.”
+
+She looked back at the camera.
+
+“I don’t blame them. The powers and creeds they had built their lives on had just been stripped of illusion and revealed to be local idiosyncrasies on the universal stage. Things are so much better now, but…”
+
+The corners of her lips turned upward. A knowing smile.
+
+“But even though I don’t cast blame, I don’t forget. As you all know, I’ve dedicated decades of my life to Anesidora. I have done my best to contribute to the creation of a country where Avowed can use the abilities we’ve been gifted to live as we see fit, to build something beyond the dreams of most ordinary humans, and to protect ourselves from those who would divide us.”
+
+Aulia swept an arm out. “Anesidora is not a prison anymore. It. Is. Our. Power. Our power. How many times have I stood at podiums and said that Avowed must remain united? On this land. Together.
+
+“We are powerful. But we are also vastly outnumbered by those who would happily use us for their own ends…or crush us because they long for a way of life that disappeared the minute Earth encountered planets full of new peoples and new ideas.
+
+“Progress takes time. Work. Faith. I have faith in the Anesidora we dreamed of on the day when a few of us stood on this very spot and watched the last ship full of prison guards return to their own countries to tell their leaders that they had made a mistake.
+
+“In their rush to handle us, they instead introduced us to each other. And they gave us a common purpose.”
+
+Aulia walked back over to Orpheus and looked down at him. “The young can’t remember what they didn’t live through. So I beg you to trust those of us who did live through such times. Superhumans at Large and those like them are not liberators. They are selfish and dangerous.”
+
+She sighed.
+
+“It seems that my longtime opposition to the expansion of Avowed zones in other countries, and my support for policies that will encourage unregistereds to come forward peacefully and join us here, has made me the enemy of those organizations. The attack on Matadero…it may be my fault in more ways than one.
+
+“I doubt I’ll have much time to explain before someone arrives to object,” she said. “But the Submerger has been in my possession for many years. It was kept onboard my ship, Libra, in a room made by <<The Picklock>>. It was for my personal use and also for the protection of Anesidora in the event of attack by a foreign navy.
+
+“All current council members were aware that the Submerger existed. It was, if it had ever been needed for anything, always at Anesidora’s disposal.”
+
+She bowed her head magnanimously. “The President has scheduled a press conference for this evening. I won’t reveal the identity of the attack’s perpetrators before she does. Though I believe sooner is better than later for honesty, and since those identities are known…well…
+
+“I do demand—and we should all demand—that the ongoing investigation go beyond Orpheus’s theft of the device from Libra. Sadly, he’s a flawed individual. But his flaws are well known to anyone who’s ever met him. No reasonable person would think he was capable of stealing from a Wrightmade vault of that quality on his own. Someone else, someone more clever and more treacherous than this poor idiot at my feet could ever hope to be, must have been involved.
+
+“Orpheus can’t tell me who it was. He can’t even remember stealing the device in the first place. And I think we must assume that the mastermind behind his crime didn’t end their own life during the attack.
+
+“Anesidora has a greater enemy.
+
+“And that enemy chose to use my grandson and my Submerger to attack Matadero while I was there aiding one of our battlegroups.”
+
+Her voice shook slightly for the first time as she said, “I’m sorry. I can’t be sure if the attack was directed at our Anesidora or at me personally, and so I must say goodbye to you all for a time. To ensure that no assault on me touches your lives again, I will live at sea, as far from our home as allowed by law, until I am sure that whoever was responsible for this tragedy…whoever was really responsible…is apprehended.
+
+“And I will dedicate the next weeks, months, or years of my life to finding out who that was.”
+
+She closed her eyes.
+
+Alden took a breath. He realized he hadn’t moved a muscle since she started speaking.
+
+“Holy…uh…Lute?” he asked. “Do you know anything about any of—?”
+
+“I can’t talk right now,” Lute breathed. “I think I might be dead.”
+
+“You look alive to me. A little pale.”
+
+“No. I’m dead. I just haven’t fallen over yet.”
+
+******
+
+“My grandmother killed hundreds of people.”
+
+Lute had fallen over now. His voice was muffled by the pillow he was holding on top of his face, but Alden could just make out most of what he was saying.
+
+“I don’t think that was supposed to be your takeaway from her speech,” he replied, cutting across a patch of lawn toward the front steps of the admin building. “I think the speech was about how she didn’t kill hundreds of people?”
+
+“That fuffuff Orpheus killed hundreds of people!”
+
+That word was fuck-up maybe?
+
+Aulia had disappeared from her livestream. Instead, a written letter detailing all of the actions she was taking, and all of the actions she thought the High Council should be taking, to protect Anesidorans from further harm was scrolling up slowly.
+
+Alden was confused by Aulia’s confession. On more than one level.
+
+It had been unexpectedly compelling at the start, and considering how much he didn’t want to be compelled by Aulia Velra, that was saying something. And then at the end, when she’d basically called herself the primary target of the whole attack, he’d thought she sounded like a twisted old politician trying to make herself out to be the victim.
+
+Only the more he tried to put his finger on why she sounded that way, the more he struggled to articulate it to himself.
+
+Someone used her great grandson to steal a magic device from her ship to attack the place where she happened to be…
+
+If you had nothing else to go on, it would look like she either set the whole thing up, someone set it up to frame her, or she was really the target of a failed assassination.
+
+But the person who directed the boat with the Sinker Sender on it toward Matadero had no intention of doing that when they set sail with the device on board.
+
+The Artonans had said so. Esh-erdi had said so.
+
+“Has anyone ever tried to assassinate your grandmother before?” Alden asked.
+
+“NOT HARD ENOUGH!” Lute shouted.
+
+“You’re going to be okay, man. This will pass.”
+
+Lute whipped the pillow off his face and sat up. His hair was scrambled. He was breathing hard. “This can’t be happening. This isn’t the kind of thing that happens. Not even to me. Alden, I might as well have SUBMERGER CO-OWNER tattooed over my ass instead of the Velra V.”
+
+“Just try to calm down and talk things over with any family members who might know something?” Alden suggested. “Maybe—”
+
+Another loud scream—this one belonging to someone outside the blanket fort—sounded.
+
+“Who was that?”
+
+“One of my aunts,” said Lute. “She just read the part of the apology letter about how Aulia’s selling this apartment and a bunch of other places and using the money to build new houses for people…oh my God. It’s my family’s fault Lexi and Kon don’t have a house.”
+
+******
+
+******

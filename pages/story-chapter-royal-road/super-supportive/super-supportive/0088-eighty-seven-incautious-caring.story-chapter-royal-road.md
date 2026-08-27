@@ -1,0 +1,379 @@
+---
+id: 860f6a57-544c-55f2-99fa-3e46fa745975
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY-SEVEN: Incautious Caring"
+slug: 0088-eighty-seven-incautious-caring
+partOf: super-supportive
+position: 88
+ownLength: 4175
+unit: words
+publishedAt: 2023-10-29
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1389421/eighty-seven-incautious-caring"
+royalRoadId: "1389421"
+---
+
+87
+
+Boe Lupescu sat on the floor in a bedroom on Anesidora, staring out the window toward the ocean.
+
+Through his interface there was a live feed of his apartment in Chicago, provided by the hidden nanny cams he’d installed. The images alternated between living room and kitchen. His parents weren’t there right now.
+
+It was a good sign at this time of day. They didn’t have friends or hobbies, so they could only be at their latest jobs. Neither of them had gotten fired or just stopped going in.
+
+It’s either a miracle or…
+
+In the kitchen, dirty dishes filled the sink and the breakfast table, and a jug of milk had been left out to spoil on the stove. But it was only a few days worth of dishes. Only one milk jug.
+
+The woman Boe had paid in cash to keep the place above the biohazard level while he was away was supposed to come once a week. She was obviously doing it, or it would be worse.
+
+The smoke alarm was lying on the counter. It must have started beeping and bothered them.
+
+I should have checked the batteries.
+
+He swiped the scene away and looked out at the Pacific. It was a cloudless day, and the small dark waves stretched on and on. A helicopter was visible in the distance.
+
+I’m not supposed to be here.
+
+There were things he did not deserve that he allowed himself to have anyway. Anesidora wasn’t one of them.
+
+I can’t be here. If I’m not a ticking bomb anymore, I have to go back home.
+
+He selfishly wished that someone would come and arrest him. If it happened in the right way, if he wasn’t accused of anything too serious, it would be such a relief. To have what he wanted anyway forced on him, through no fault of his own. He would feel guilty, but he’d be able to justify it to himself eventually.
+
+He’d definitely be outlawed from returning home. And with summonses being extremely unlikely, he would just live here. He would start over. Alden worried about people hating Boe for his powers, but he didn’t care so much  about that himself. It would be unenjoyable, but he would endure it for a while.
+
+Until he’d made enough money to buy a shitty boat. And then he’d live on his shitty boat, just far enough offshore that he only had himself to deal with.
+
+He’d attend college online. He’d get way too many degrees, enjoy the amenities on the island whenever he wanted, help Alden figure out…
+
+I think he has a lot more to figure out than he used to.
+
+“Hey. What did you do to my friend?” he whispered to the System.
+
+The System didn't answer because the answer didn’t benefit it. Or it was forbidden.
+
+That storm of emotion yesterday—not the second one that Boe had only witnessed instead of experiencing himself. The first one. The strange, sudden one right after they’d been reunited. So strong it broke through Peace of Mind and the relief and happiness Alden had been feeling. It wasn’t panic. Panic was shallower.
+
+Dread.
+
+What was that?
+
+More importantly why was it? Boe had thought back over the whole conversation so many times in the night. The dread had come when he mentioned the fact that the System offered U-types additional assistance with their affixation. That didn’t make sense.
+
+I sparked a barely related memory from the moon situation maybe?
+
+Feelings weren’t as easy to follow as he imagined thoughts must be. Someone saw a cute puppy and they felt joy. Someone else saw the same puppy, and they grieved. Maybe for one they’d lost. Or for a dozen other reasons that Boe preferred not to care about.
+
+He strictly limited the number of people he cared about.
+
+Incautious caring was dangerous.
+
+[I made it to class on time. The second and third years are really passionate about this domestic violence/terrorist problem. The girl next to me is snapping ink pens in half every time someone argues against rescuing the kids. I hope she brought plenty of spares.]
+
+Boe stared at the words in a state close to wonder. Last night, he’d set messages from Alden to come straight through, no notification required. His friend could text him. Because he wasn’t dead.
+
+Just this once, the universe had been uncharacteristically generous.
+
+[The pen snapper is some kind of Brute. Do you think you could take her in a fight??]
+
+He’s lonely.
+
+Boe doubted Alden had even realized it yet. He was trying to deal by keeping himself busy. He was so hung up on what he’d lost, and so worryingly agonized about who he was supposed to be now in the aftermath of that loss…he had always demanded such impossible things from himself. Loneliness was probably way down on his list of concerns.
+
+But it was still there. He hadn’t had time to form any real connections in this place. Casual acquaintances couldn’t replace friends and family overnight, no matter how hard Anesidora tried to make it happen.
+
+[I assume you mean a physical fight,] Boe texted back. [Probably not. Punching a hole in Jeremy’s wall was my maximum effort.]
+
+[Disappointing.]
+
+[I’m more durable than I am strong. System’s choice. Not mine.]
+
+A brief pause.
+
+[What kind of stats will you choose when you level? You’ll probably level pretty fast if you have to keep that shield up all the time just to be comfortable, right?]
+
+Boe closed his eyes.
+
+“Give me a way to tell him the whole story without screwing myself over,” he muttered. “Or I’m just going to do it anyway and make me and you both unhappy.”
+
+The System didn’t answer.
+
+It hadn’t answered the request no matter how many different ways Boe had asked last night. He was sure there was logic to its behavior, but it was a logic that was beyond human understanding. Most of the time he didn’t mind. Other times, he wanted to smash its non-existent face with a bat.
+
+[Yeah. I do use that skill constantly when it’s up,] he texted. [That’s one thing. And the fact that it’s a dynamic skill is another. Working on figuring it out will level me faster.]
+
+[Dynamic how?]
+
+[Developable. Flexible functions. I’ve been trying to learn how to filter out specific emotions through it instead of using it as a universal block. It’s slow going, but I’m making progress.]
+
+[Cool! :)]
+
+Boe stared at the smiley.
+
+Cool! Smiley face. Good job developing your horror show of a power, Boe. Cool! Smiley face. I’m okay with it. I’m still your friend. I’m not scared of you.
+
+He meant it, too.
+
+And because he meant it, Boe had to live up to it.
+
+He’d really wanted to feel Alden’s emotions a few times last night. To check on him. To make sure he was real and okay. Being an adult about it instead of a needy, sneaky brat was hard.
+
+Even now his inner weasel was coming up with ways for it to be all right.
+
+For example, if Boe just happened to overuse the barrier now so that he’d be too magically fatigued to help himself when Alden made it back later…
+
+He scowled at his own thoughts and dropped the skill. He let Alden’s neighbors buffet him. Some people would probably consider this immoral, too, but Boe personally didn’t.
+
+If it was bad, it ought to be more fun.
+
+Instead, it was often like having one total stranger sit on your chest whispering terrors in your ear, while another handed you a teddybear and a third shoved twenty different flavors of ice cream down your throat simultaneously even though you were too full to eat them. And while all of that went on you were also all afraid of something environmental, like an earthquake. Or a swarm of wasps.
+
+He was familiar with it, but he didn’t think it was possible to be used to it.
+
+Right now, someone had just had their feelings hurt. Someone was guilty. Someone was excited.
+
+In general, everyone was more relaxed than they had been last night. People tended to have a better handle on themselves in the mornings. So it was a good time for him to have the barrier down.
+
+He didn’t know who these other teenagers were. Experience told him that he couldn’t even guess their genders with much more than fifty percent accuracy. He was just with them all, though he didn’t want to be.
+
+[Are you going to sleep now? Should I stop texting you?] Alden asked.
+
+[No. I’ll sleep when a few more people have cleared out of the building. What’s up?]
+
+[Literally a person. An Adjuster just levitated someone to make a point…I’m still not sure what the point is, but people are floating now and Instructor Marion seems to think that’s more acceptable than personal insults, so I guess we’re going with it.]
+
+Boe smiled. [Send me a picture.]
+
+********
+
+In Conversation IV, they were supposed to be talking about the show with Artonan farmers who’d fought over the doomed mole cricket. This exercise was majorly impeded by the fact that almost nobody in the class had the vocabulary they needed to talk about farms or poaching. And a few people hadn’t bothered to watch the video.
+
+The students had complained, but Instructor Rao wouldn’t hear a word against the assignment. So Alden’s ears were being assaulted by sentences that had him on the edge of both laughter and despair.
+
+“The worker man number one and the worker man number two love animals a lot.”
+
+“I love animals a lot like the worker man.”
+
+“The pretty woman who killed the Trenxop beetle was a murderer.”
+
+“It’s a story about freedom.”
+
+“It’s a story about food.”
+
+“The kill-kill woman was probably starving.”
+
+“It’s a sad story.”
+
+“It’s very sad.”
+
+“It’s funny,” Lute Velra said in Artonan. He was sitting on his learning cushion across from Alden, wearing a graphic print spiderweb sweatshirt so long it reached his knees. His eyepatch was still present, but there was no fake blood oozing from it today. “I don’t know why it’s funny, but I’m sure the Artonans think it’s funny.”
+
+“It’s a comedy,” Alden confirmed. “I think it might be building to a romance between the farmers and the poacher, too, but I’ll have to watch more episodes to be sure.”
+
+Given the show’s tone, it probably wasn’t going to be a serious romance. Artonans had so many permutations of relationship, and Alden was sure he hadn’t even heard of some of them yet. The Primary and Alis-art’h’s massive shared household was a bit of a mystery to him still, and since Stuart hadn’t brought it up, he hadn’t wanted to ask.
+
+But the farmer/farmer/poacher combo was likely. By modern Artonan standards, three was the least intimidating option. They could devote just one half of their divided consciousness to each partner, instead of their full attention, so it was like…partial intimacy and lower pressure?
+
+“Talk slower,” Lute reminded him.
+
+“Sorry.” He repeated the words more slowly.
+
+“You not should being in this class,” said Lute.
+
+“‘Should not be,’” Alden corrected. “There’s a level six course offered this term, but they wouldn’t put me in it. I asked.”
+
+“Probably the instructor wouldn’t say yes. Some of the Artonan culture and language instructors have those works because they…” He switched to English again. “How do you say ‘get off on fantasizing that the ritualized classroom garbage actually makes them important?’”
+
+“That isn’t something I would say. Unless I was trying to offend nine out of ten people on the Triplanets.”
+
+“You’re calm.” And they were back to Artonan now. Lute’s tone was disappointed. “You would being more fun if not so calm.”
+
+Alden untangled that. “I think you mean ‘boring’ not calm.”
+
+“You’re boring,” Lute agreed. “I will show you the eye grandmother ate if you teach me bad words in Artonan!”
+
+Alden tried not to picture Aulia Velra eating an eyeball. “That’s not necessary. And I don’t actually know a lot of adult curse words.”
+
+“Boring.” Lute picked at the edge of the learning cushion with his index finger. “How do I say ‘I want to feed myself?’”
+
+“Feed yourself? You mean eating?” Alden pointed at his mouth. “Or are you thinking of another word?”
+
+“I want to feed myself,” Lute said in English. “How do I say that in Artonan?”
+
+Maybe he was on-topic now and thinking about the poacher from the video?
+
+“You said it correctly,” Alden said in Artonan. “‘I want to feed myself’ is good.”
+
+Lute shook his head. “No. Like…” he leaned forward. He was still speaking English. “If I really needed the aliens to listen to me. Is there a special way or a…a formal way of telling someone that you really want to feed yourself?”
+
+If this was a joke, then it was one too obscure for Alden to grasp. And the Velra boy looked serious.
+
+Okay then.
+
+“You can raise the pitch of your voice when you say it.” Alden switched languages, too, since he wasn’t sure he had all the words for this explanation in Artonan anyway. “For emphasis. If you make a request once and someone ignores you and you go higher the second time, it comes across as insistent, but in a politer way than shouting?”
+
+“How high?” Lute demanded.
+
+“Not very. They’re pretty sensitive to tone. Anything that’s recognizably above normal for you should be fine. I guess you might have to do it more than once if it’s someone who assumes it was an accident?”
+
+“I want to feed myself,” Lute said in Artonan. Then, slightly higher, “I want to feed myself.”
+
+Alden was so confused.
+
+“That should do it?” he said. “Unless they’ve got bad manners. And if that’s something you have to insist on in the first place they might. Why is this something you need to know?”
+
+Lute ignored the question and leaned back on his cushion again. “You can see my terrible eye,” he said. “Reward! Look. See.”
+
+He lifted the patch.
+
+For half a second, Alden thought the other boy really had been messing with him this whole time. He had some barely visible scarring below his bottom eyelid, and the eye itself looked almost exactly like its gray neighbor.
+
+Oh, it’s not quite the same though.
+
+“The prosthetic looks really good. Why do you keep it covered?”
+
+“It does look great,” Lute agreed, re-positioning the patch. “The ocularist did an amazing job. But people still stare at it like it’s a hypnotist’s pocket watch. Especially here where plenty of Avowed are walking around with enhanced visual acuity. Even if I eventually get an electronic one that tracks with my real eye better, it’s not going to be perfect. And since I plan to have the System upgrade my own vision when I get the chance, it’ll be even more obnoxious to constantly notice them all noticing. It’s less annoying to me if they stare at a big obvious eye patch than at the thing that’s supposed to be subtle.”
+
+Alden wanted to ask what had really happened and if some kind of magical prosthetic that could actually allow Lute to see wasn’t a possibility. He refrained.
+
+They spent the rest of the period with Lute struggling through a summary of the video.
+
+He seems to be trying hard. His pronunciation is so perfect. And it should be, considering his class. But if he cares about learning Artonan…why didn’t he  do it before now?
+
+Back home you had to search out teachers. Anesidora was different. Artonan wasn’t the most popular second language choice, but lessons in it were ubiquitous.
+
+As he left class, Alden texted Boe.
+
+[Lute Velra is really missing an eye,] he reported while he took one of his sneakers from its cubby in the hallway and balanced on one foot to put it back on. [Also, he’s got strange concerns about Artonans not letting him feed himself. If that’s something from an obscure Triplanets subculture, I have no clue about it, and I’m glad I don’t.]
+
+“Hey, by the way…”
+
+Alden looked down to see Lute kneeling by a bottom cubby. The blond boy was sniffing a black loafer.
+
+“Did Lexi Roberts tell you he was inviting the school pariah to be your roommate, or did he not explain?”
+
+Alden froze with one foot still lifted and stared at him. “He said it would be me, Haoyu, and some guy from…you’re the guy from Arts?”
+
+Alden’s housing form was still listed as pending. He’d assumed it was a normal delay, but maybe they were waiting on the fourth roommate to be assigned?
+
+“Yeah, that’s what I thought.” Lute finally put his shoe on and started sniffing the other one. “That guy isn’t much of acommunicator. I actually thought we weren’t friends anymore. Because we haven’t spoken in around a year. But apparently we still are…?”
+
+No, thought Alden. No way. I don’t want to live with a Velra even if he is number two on my Velra ranking list. The list is a list of people to be cautious around. Everyone on the list is a non-roommate.
+
+“So, do you mind? I’ve been wanting to move back on campus, but I didn’t want a repeat of the whole ‘Oh god not him,’ thing I got last time I tried.”
+
+“I am…texting you,” said Alden. “Hold on.”
+
+“Why?”
+
+Because Boe’s paranoia was rubbing off.
+
+[I have no problem with being your roommate except for the fact that I’m trying to avoid your grandmother.]
+
+Lute blinked up at him. “You and everyone else with common sense. It’s not like I’m going to invite her to sleep over.”
+
+[I understand. But won’t she think us being roommates means she’s right about…]
+
+Alden didn’t know how to put it, but Lute just kept waiting, with a neutral expression, for him to spit it out.
+
+[She thinks the Gloss bringing Chainer to Hazel through me means I’m important somehow. To your family. According to Keiko and Aimi. I want her to forget about that.]
+
+Lute’s lips stretched into a wicked smile. “Aww…” he said. “You’re so innocent. I feel bad for you.”
+
+He set his loafer down and started air typing with one hand.
+
+[Aulia will never forget. You gave her most favoritest pet project Chainer. You got summoned to LeafSong, died, then rose from the grave months later. Your goose isn’t just cooked, it’s charcoal.]
+
+[You just know off the top of your head where I was summoned?] Alden wished texting offered more in terms of tone so that he could express how unhappy that made him.
+
+[She mentioned it in passing during a meeting when she was telling certain family members her plans for popping the Gloss debt. I’ve heard some of the old people say the name of the school on occasion, so it stuck out.]
+
+“My point,” the Velra boy continued, “is that you’ve already jumped in the ocean. Or been dumped there. I’d apologize, but one of my new policies is never to say sorry for things I didn’t do. You can’t avoid getting wet at this point.”
+
+[I want them to leave me alone.]
+
+“Me too.” [Is Aulia actually bothering you right now? Or are you just worried about her doing it in the future?]
+
+[She sends me emails offering to help me with things and inviting me to events.]
+
+[You ignore them?]
+
+[I politely reject them.]
+
+Lute frowned down at the floor. [Guess you don’t need money or favors. That limits her options for befriending you. If she invites you to something that doesn’t sound completely disgusting, you should just go and get it over with.]
+
+“No. Why?”
+
+[You don’t have anything to offer that she actually wants at the moment, right?]
+
+[I don’t think so?]
+
+[Then she’ll be satisfied if you just make it obvious you’re not avoiding her. She can only actively torment so many people at once, and she’s already stabbing everyone she can with her pitchfork. Don’t run away, and she won’t feel the urge to chase you and put you in hell with her favorite pincushions.]
+
+“What is wrong with your family?” Alden whispered.
+
+“Ha! Don’t ask me. I’m just trying to survive them.” Lute sniffed the loafer one last time and stuck it on his foot. “But if that’s how you feel, I’ll tell Lexi not to bother. It would almost be a point of pride for me to earn a few more jabs of the fork for associating with you. I’m going for a family record, see? Guess there’s no reason to spread the misery around though.”
+
+Alden finished tying his own shoe while he thought about it. He absolutely hated the idea that he was choosing his high school roommates based on nerves about an old politician he’d never met pestering him in the future.
+
+I lived with tiny demons flying through the walls for months. Why the heck should Aulia Velra be a factor in my current living arrangements?
+
+It was giving the specter of her more power over him than she actually had. Wasn’t it? It was also just wrong to avoid someone solely because of their relatives.
+
+“You should room with us,” he said. “At least I’ve actually spoken to you. I haven’t even properly met Lexi and Haoyu. Unless you count Lexi almost cutting me in half with a whip as a normal getting-to-know-you activity.”
+
+“Normal for certain kinds of Avowed maybe. How did you end up with them?”
+
+“I don’t know anyone else either. They seemed like the least crazy options out of the remaining people in my incoming class.”
+
+“I guess you wouldn’t know anyone since you came from the real world.” Lute stood and hefted his backpack onto his shoulders. “America. Chicago. They make some of the best harps on the planet there.”
+
+Alden was surprised by the description. “They do?”
+
+“Yes. Was it great living there?”
+
+“I like it a lot.” Alden started down the hall toward the stairs.
+
+Lute followed after him. “Have you ever been to Austria?”
+
+“Uh…no. I wasn’t rich enough to travel around like that.”
+
+“I got to go once. Before I affixed. To Vienna. I wanted to move there.”
+
+They reached the door to the stairwell, and Alden held it open for a group of students.
+
+<<Cheater,>> one of them muttered as he swept past Lute.
+
+Lute stared straight at the wall like he hadn’t heard him.
+
+Alden looked after the group. A couple were glancing back over their shoulders to stare at Lute in a way that was definitely unfriendly.
+
+“Did you call yourself the school pariah?” Alden asked when the others were out of earshot.
+
+“You did notice that the whole conversation class sits eight feet away from me like I have some rare incurable disease, didn’t you?”
+
+“Is it just your family…?”
+
+Lute’s gray eye met his. “Under normal circumstances, I don’t think most people our age would care. Tons of students have important relatives around here. But the Gloss was major, memorable magic that Aulia had only used twice before now as far as anyone knows. And I’m considered an accomplice.”
+
+Was he an accomplice? From what Alden knew, Aulia had somehow applied the high-powered chain to and maybe through all of the family members to make it stronger or more effective. Had they had to consent to that or was it just something she could do?
+
+“You haven’t heard any gossip about it yet?” Lute asked.
+
+“Just newspaper headlines. Not school gossip. It’s only my second day on campus.”
+
+“Well I’m in high school, so it’s the high school gossip I get to enjoy. Not the political stuff. And the high school gossip is that every good thing that has ever happened to me was caused by me using my evil Chainer powers, and every bad thing that happens to me from here on out is proof that I’ve been using my evil Chainer powers even more.”
+
+That would really suck. For every accomplishment to be attributed to luck. And every misfortune to be something people thought you deserved.
+
+“I don’t even know any powerful luck chains,” Lute said. He pointed at his eye. “And if I did, they’re way too expensive.”
+
+“Your class is extremely odd,” Alden said. “Sorry people blame you for your family’s decisions.”
+
+“You have no idea… truly, the family advertising about how the class works is beyond misleading.” Lute headed into the stairwell. “And the hatred isn’t completely unfair, I guess. Ultimately, I did agree to be part of the Velra cabal. But I didn’t realize I was signing up to have a once-in-a-generation chain tied around my neck right off the bat.”
+
+He headed down the steps, his fingers trailing along the handrail.
+
+“Maybe it’s getting better.” His voice echoed off the block walls. “I’ve got roommates now, apparently. And it’s been an entire month since somebody pissed in my shoes.”
+
+*

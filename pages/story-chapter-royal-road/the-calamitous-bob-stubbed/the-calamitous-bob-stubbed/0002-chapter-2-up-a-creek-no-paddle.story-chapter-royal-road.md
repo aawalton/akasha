@@ -1,0 +1,513 @@
+---
+id: 0ccde667-f1ef-5379-9b05-e96e0513d5f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Up a Creek, No Paddle"
+slug: 0002-chapter-2-up-a-creek-no-paddle
+partOf: the-calamitous-bob-stubbed
+position: 2
+ownLength: 4958
+unit: words
+publishedAt: 2021-06-17
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/700784/chapter-2-up-a-creek-no-paddle"
+royalRoadId: "700784"
+---
+
+Niyl was a world of mighty continents and vast seas, not unlike earth. One of those was Param, a large circular mass linked to its only neighbor by an isthmus no broader than a city. A fertile land, it also boasted the dubious honor of being the location for the greatest magical catastrophe ever recorded. The Western part of Param still bore in its flesh the stigma of this awesome event.
+
+Seen from up high, the scar looked like a spot of necrotic tissue on an otherwise healthy body. A closer look would reveal a massive valley surrounded on all sides by snow-capped mountainous ranges, with the exception of a tiny gap in the south. The area was darkest at its core, though shrubbery and enduring plants gave it a greenish tint the farther one went from the epicenter. There, the Old Empire had made its seat of power, from which it had terrified the world. There, its elites had reached summits of magical ability the world had never seen, and there, they weaved their own doom. The legacy of their might could now only be found in private collections and in the languages of kings. The Old Empire had died an ignominious death at the apex of its power.
+
+Now, only the mindless undead treaded its sandy corpse.
+
+A cautionary tale.
+
+Only one expedition successfully explored the old capital of Harrak where the fateful experiment had taken place, and they reported a cursed city, its empty streets still dominated by the vertiginous form of the Imperial Ziggurat. A mighty cadaver, gutted by a cataclysmic explosion, as imposing as the remains of an ancient drake.
+
+In the throne room of the emperor, a figure stirred. It shivered in pain. Arms and legs locked in a dead grip that left its muscle straining, until two green eyes opened.
+
+The figure let out an ear-shattering scream of pure agony. The woman scratched her naked form with enough strength to draw blood in a vain effort to push back the aftershock of the terrible experience she had suffered. It was but a memory, a remnant of an ordeal she no longer possessed the means to understand, and yet just that little was enough to make her want to kill herself. The atrocious suffering could not be explained with the words she knew. Hell, she was not even sure it was her nerves flaring up. It felt more intimate than that, a deep malaise, as if her body did not quite fit. No matter what ‘it’ was that had caused her current condition, ‘it’ had been abominable.
+
+She stayed there for a good thirty seconds, gulping air as if it were free.
+
+Eventually, her nociceptors must have saturated or something, because enough neurons fired to make her realize her predicament.
+
+“Fuck!”
+
+She stood up in a rush, pain pushed to the back of her mind by her current condition. She was absolutely butt-naked. It was cold as hell, and she already had goosebumps.
+
+And there was a draft where there should be none.
+
+“FUCK!”
+
+She checked her forearms. Not one dark hair. She passed a hand on the glistening surface of her skull.
+
+“FUUUUUUCK!”
+
+Her hand trailed down to the smooth surface where her eyebrows used to be.
+
+“What the hell?”
+
+She quickly checked herself. No visible wounds. No sign of external trauma, though she was shaking from the cold and her fingertips were showing signs of cyanosis. They were already blue.
+
+Only then did she check her surroundings.
+
+“Aaaaaah what the…”
+
+She was inside of a room as big as a hangar with walls of massive stones covered in the tattered remains of pennants and tapestries, their colors long faded. Debris littered the ground, seemingly made out of ossified wood and cracked bones. Human bones. A massive throne occupied the far wall with the ceiling collapsed behind it. A boulder the size of a bus had crashed through the ground to her left in some distant past. It now let in frigid air and a morose winter light.
+
+On the throne sat a crowned skeleton with its ghastly skull resting on a bony hand.
+
+And by its side were six mummified bodies clad in black, still holding the rusty hilts of broken weapons.
+
+Either the skeletons were pygmees, or the dead king was fuckhuge.
+
+The woman pinched herself, because what else could she do?
+
+It hurt.
+
+Also, she was freezing her tits off.
+
+Alright, alright, think. Her name was Vivane Saint-Lys. Twenty-four. Corporal and medic. Stationed inside of Mopti airport with the rest of her platoon to protect it from Jihadists.
+
+This was not Mopti. Way too fucking cold.
+
+The thought that she may have been captured and sent here was immediately dismissed. They had sentries, she would have been awake. No, she was clearly somewhere… Well…
+
+She felt wind behind her. A massive opening in the wall let her see a sooty sky, the kind of nasty stuff they showed in dystopian movies.
+
+She walked out into a frigid gale and her eyes widened in surprise.
+
+She stood near the top of a pyramid of impossible size. The massive obsidian steps that started before her shrunk in the distance until they were humorously tiny. The pairs of statues lining it were the size of four men, but near the bottom they looked as small as toys. There were other entrances, many of them obstructed or collapsed and it was not difficult to see why.
+
+In front of her, a city extended for kilometers upon kilometers with the exacting precision that only rigorous urban planning could achieve. There were estates and temples and churches and squares, all darkened and dead, all devoid of movement. A desert of basaltic sand extended beyond to mountains far, far into the distance. Pieces of rubble the size of apartment buildings dotted the land as if a titan had been playing weight throw. It only took a moment for her to realize that the origin of said rubble was not before her.
+
+She turned around.
+
+Where the top of the pyramid used to be, there was now a massive hole surrounded by the molten, ragged edges of vitrified stone. The size of the crater was not normal. It was not what she could associate with heavy ordinance, no. It was something she would have associated with asteroid craters, or the impact of a tactical nuclear warhead.
+
+It had come from the inside.
+
+It gave her vertigo.
+
+She shivered violently and ran back into the relative shelter of the room, back hunched and arms held tightly. She recognized the telling signs of hypothermia.
+
+“Right. I need to — GYAAAA”
+
+She ducked back when white glyphs appeared in the air before her. The prompt retreat had been of no use: the floating symbols had simply followed her gaze. The only thing that calmed her down was the strange sensation that she understood their meaning, even if she knew it was impossible. They said ‘please wait’.
+
+And then, the glyphs faded, only to be replaced by roman characters.
+
+[INTEGRATION COMPLETE. ADAPTING USER INTERFACE]
+
+“Err.”
+
+This did not look good.
+
+[ADAPTATION COMPLETE. PLEASE STAND BY…]
+
+The font had changed to something vaguely futuristic. It was just weird.
+
+Then a window appeared, still in the same font and with a transparent background of light blue. At least it was not in Comic fucking Sans.
+
+Welcome to Nyil, Outlander. You have been transported to a new world!
+
+Every sapient of this realm benefits from magic under the guidance of the god Nous, via the interface now granted to you.
+
+Magic.
+
+Magic magic magic. Really? That was… incredible? If it were true, of course, but magic? Despite her dire circumstances, a teeny-tiny part of her quivered with excitement.
+
+Magic!
+
+Like the stories she had read when she was young, before reality had become too heavy and she had grown too jaded.
+
+Also, transported? That was decent news. Her first hypothesis was that she had been smeared by a mortar shell and her brain had been frozen by her rich family, before being plugged into some bullshit augmented reality thingie in the year 2326.
+
+Transportation to another world was way better.
+
+Viv realized that incoherence was one of the symptoms of hypothermia and started to jump from one leg to another like a drunk goose.
+
+To help you on your journey, you have received the blessing of Maradoc, god of travels and mysteries. Additional features will unlock as your body adjusts to magic.
+
+You have been granted the following benefits:
+
+Good luck out there!
+
+Her digestive… what the fuck?
+
+Wait, hold on, that was not important.
+
+Another world! Magic! She was still not over it.
+
+But that world was not hers, and the squad depended on her.
+
+“But why? Can’t you send me back?” she asked the air, feeling very silly.
+
+“Hello? Anyone? Interface? Marasomething, wait, Maradoc? Nous? Oh great and magnificent gods Maradoc and Nous, I pray to thee. Answer mine… Ow!”
+
+She reeled as the deep unease she had felt before came back with a vengeance.
+
+“Right. Sorry if I offended.”
+
+System update! Your physical condition has been assessed.
+
+Current status:
+
+“Ooookay?”
+
+Soul trauma did not look good at all. It was probably due to having one’s soul tossed into a parallel universe or something. Maybe she had been smeared by a shell after all, tiny bits of Viviane sent up in the air. Maybe Mouq had seen her large intestine. That would be weird.
+
+System update! Your magical condition has been assessed.
+
+Current status:
+
+Mana distribution:
+
+Current attunement: 0.14%
+
+Yeah yeah whatever, this meant nothing to her. Unless she could pop fireballs out of her ass, this was of limited use. Alright. Whatever. First things first.
+
+Viv pushed back her fears and her questions as her training took over. It had taken her a long time but, to be fair, those were unusual circumstances.
+
+Right. So.
+
+Shelter, water, food. In that order.
+
+The collapsed place she was in was shit, but the town below looked more promising. The only problem was that it would take hours to get down to find something and… she did not have hours.
+
+Viv eyed the guards around the dead king.
+
+They were still wearing some sort of black jumpsuit, the only thing still intact in this place. Even the colossal mummy’s crown was all cracked and dull.
+
+Hmm.
+
+Problem was that this was a magic world and her limited experience of fantasy literature and Minecraft told her that disturbing them would be a Bad idea, capital B.
+
+On the other hand, if they woke up and pulped her at least she would be warm before she died.
+
+“Right. Right… Steady now.”
+
+She approached the group in a light step, then screamed like a sissy when another window popped up.
+
+“Fuck!”
+
+Interface update! Your stats have been assessed. Adjustments will occur.
+
+Physical
+
+Mental
+
+Power
+
+8
+
+Focus
+
+19
+
+Finesse
+
+16
+
+Acuity
+
+19
+
+Endurance
+
+15
+
+Willpower
+
+19
+
+“Shhh! Ah, it’s all in my head…” she remembered.
+
+She returned her attention to the still unmoving forms down the hall. Any time now, they were going to start moving and bash her head in with her own femur.
+
+She moved forward, teeth chattering. Her eyes were fixed on the shapes with laser focus. If they started to reassemble, she would run in and grab one by the back then run like hell. The bodies were dessicated, so probably not too heavy.
+
+Focus +1
+
+You have reached a milestone! You have gained the inspect skill.
+
+“How convenient,” Viv muttered to herself.
+
+Alright then inspect that dead thing over there.
+
+[Dead person]
+
+“Woooow,” the woman said, stumbling a bit. The skill activation had been… weird. And strangely painful. But not the soul-shattering painful of before, more like using a cramped muscle she did not know she had. Her chest, brain, and, she guessed, optic nerves had heated up a bit.
+
+The imparted knowledge had appeared in her brain as if she had heard it and memorized before. It was peculiar.
+
+Also, fucking useless.
+
+“I can see that, you twat.”
+
+But nay, hold on, she was being too hasty. If this thing was correct, then she was safe! It had not said ‘Fucking Skeletor of short-tempered Fuckery, currently finishing his light nap.’ It had said “dead person”.
+
+And this one wearing the black onesie?
+
+[Dead person]
+
+Those dead were dead! Hurray!
+
+Viv abandoned any attempt at stealth after checking all six guards and rushed to the first one she saw, then to another since candidate number one had been a hulking bodybuilder. She found one her size and turned the body around.
+
+“Sorry friend, I need it more than you do.”
+
+There were no zippers but there was a sort of pressure button on the shoulder that opened the suit to the waist. She remarked in passing that the body was perfectly conserved as she methodically took it out. The ancient Egyptians could not have done better. It was a stark contrast to the other bones at her back. As to why they had endured and the others had not, she had no idea.
+
+She slid into the jump suit and closed it around her. It was smooth to the touch and very soft inside. She ignored the little voice in her head that told her that her crotch was currently where a pair of dead bollocks had been mashed for possibly years, and that if there was one way to catch fantasy ebola, that was it.
+
+Viv stood up and started to shiver more violently as the heat got trapped between her skin and the blessed weird fabric.
+
+Wait, she had forgotten to inspect the thing.
+
+[Faded skinsuit (enchanted)]
+
+Good. It would have been stupid to don it and realize too late it was some slumbering parasitic lifeform.
+
+Now, there was the issue of shoes. Thankfully, the skin suit fit nicely up to and including her feet. That would help her but she would need some actual boots at some point. Only her head was uncovered. It was also blatantly obvious that she was not wearing a bra, but since the fabric was thicker on the chest, it worked out, somehow.
+
+That thing was surprisingly comfy.
+
+You are no longer suffering from Hypothermia.
+
+Nice.
+
+Viv inspected the room and considered bringing two things. The first was a rusty piece of weapon which was better than nothing, but she decided that if anything was going to jump at her, thirty centimeters of rusty metal were not going to do shit. The second was the crown on the king’s head.
+
+[Crown of the Old Empire]
+
+It was dull and broken. Spires of metal were meant to rise up and back. Most were stumps now.
+
+It looked massive.
+
+In the end, Viv’s decision was not motivated by the apparent weight, nor by the obvious lack of nearby markets to change this into coin. There was something sad and majestic about the seating figure of that ancient monarch, forever holding court where only gales and darkness could attend. It was, she realized, the only thing in the room that still had a smidgen of human dignity. And that mattered to her.
+
+On a whim, she placed all guards side by side with their weapons on their chest and whispered a quick prayer.
+
+“So, there are gods here. Whoever is listening, please grant peace to these long dead souls and allow them to reach the afterlife of their faith. Thank you.”
+
+Nothing happened but she felt better.
+
+She left the throne without looking back
+
+The wind outside was still howling and cold. It slapped against her naked head and she felt sorry for all those bald guys who forgot their hats at home. The descent went quickly and she realized that she had maintained the shape she was in when she had, well, left. Or died.
+
+Deep in her heart, she had the nagging feeling that if one were to bring her body over, there were no reasons to leave the hair and stomach content. She also remembered her scream back when she woke up. It had been powerful stuff that had come from… somewhere deep.
+
+Perhaps this body was brand new.
+
+And would that not be weird.
+
+In any case, it functioned well, and she was not feeling hungry or thirsty yet. Her path led her down, and down, and down, at a stable pace.
+
+After ten minutes, she was only halfway to the ground. She turned again and again to see the apocalyptic hole that had devastated the ancient structure. It did not take a genius to guess that whatever event had caused that was also responsible for the general state of, well, utter shit, that the rest of this place was in.
+
+Viv shook her head. Shelter then water then food. A place this big was bound to have wells and perhaps some still held potable water. Maybe. She had to move forward now and panic later.
+
+Another twenty minutes and she was down. She had used the elevation to get an idea of where to go. The entire city was arranged as a grid of regular massive squares with only a few structures extending further than one bloc. She was now on the main highway, one that would lead to gates and the city exit. There were no large walls that she had seen that separated the desert from the remnants of civilization.
+
+She could spot the tall pillars marking the end of the town from here. They were kilometers away, but the city was impossibly flat.
+
+She needed a shelter of sorts, one that preferably had water. That was her first priority. Her best hope for food and supplies and boots would be barracks. Soldier food was designed to last through two extinction events in a row and still be edible, for a certain definition of edible anyway. If there was anything left here, it would be in a place like that.
+
+Right now, the buildings to her left and right were imposing edifices of columns and tall walls with slanted roofs, slightly elevated for maximal impact on the populace. Images of what looked like dragons and other fantastic creatures were engraved everywhere and present in massive statues, but they were now all darkened and defaced. Even then, she could recognize the heavy-handed paw of a public office when she saw one. Those were government buildings designed to inspire solemnity.
+
+Viv thought quickly. Barracks would most likely be squat things with tiny openings so as to be defensible. She was not quite sure about the level of technology yet, but the presence of cold weapons probably meant that it was around the middle ages or something. She had no idea how much magic would impact the world, but squat defensible buildings seemed like a safe bet.
+
+Viv moved faster now. It was getting a bit darker, she thought. A place like this without a speck of vegetation would be ass-freezing, eskimo-licking cold at night. She had to find a small space that she could close. And covers. She made sure to stay by the walls and made plenty of use of the [Inspection] skill.
+
+[A large building.]
+
+[A wall.]
+
+[Sand.]
+
+Did the skill think she was a toddler?
+
+She turned left at the first intersection and went on. There were small structures in the distance and she felt more hopeful.
+
+Come to think of it, there should be barracks by the city gates. That made sense, right?
+
+Acuity +1
+
+You have reached a milestone! You have gained an increase to your processing speed. You can now perceive the world at a faster pace for a limited time at the cost of increased fatigue.
+
+Nifty.
+
+Adjustments are still in progress.
+
+Fair enough, she thought, dismissing the windows. She was still moving alongside the stupidly long public office. The gates were a good idea, but she was at least an hour away at a solid pace and the sky was definitely darkening now. Its gloominess was getting even more depressing. She could find somewhere for the night and—
+
+A snort.
+
+Viv smacked herself against the wall and stopped. She had definitely heard something.
+
+She heard it again. It was definitely someone, or something, sniffing the air. She sneaked forward to a large side gate and took a quick glance.
+
+The gate led to stairs up towards the main building. There was another column entrance maybe fifty meters away from her. It hosted the origin of the noise.
+
+It was a massive, white horror born from the fiery depths of some obscure circle of hell. Its pallid skin clung to stringy muscles and bony ridges with some horrible elongated humanoid head on top, with no nose and a jaw that could swallow a child in one gulp without chewing. It had a flat face with two slits, tiny red eyes, and enough teeth to shame a great white shark. As she watched, massive talons gouged the heavy stone as if they were made of biscuits. It was as if the Xenomorph had shagged Gollum and their spawn had grown to the size of a fucking elephant.
+
+‘Ohgodohshitohnofucketyfuckfuckfuck’ Viv thought to herself. With feeling.
+
+[Necrarch ravager]
+
+Fuuuuuuuuuuuuck.
+
+Your [Inspection] General Skill has improved to rank 2/5!
+
+[Necrarch ravager: an extremely dangerous undead creature]
+
+No shit, Sherlock.
+
+The abomination sniffed the air one last time and placed a limb outside. It then blinked and hissed in displeasure, before heading back in.
+
+Ok.
+
+Ok, that was bad.
+
+That was really bad.
+
+Because she was pretty sure that the only reason the thing had gone back in was because it preferred the shadows.
+
+Night was coming pretty quickly and she had absolutely no way of getting out of here before it happened.
+
+Ok, ok, focus. That thing was big. Maybe there were other things that were also big. Maybe she could find a small place where she could hole up from all the stupid big things. Ok.
+
+She trotted, staying low and quiet under the dusky grey heaven. She walked past what seemed to be private residences and work places, all showing signs of that weird brutalist architecture with decorations on top. They all shared the same large entrances. Sometimes the gates were opened and she caught glimpses of inner courts with dried out fountains and blackened soil, none of which looked even remotely defensible.
+
+It was not barracks that stopped her, but a light. It was now well on its way to nightfall and the sky was reddening a bit, though she had no idea where the sun may be through the thick cover of clouds. She spotted the blue radiance from the corner of her eyes, to her right, in some empty plaza. She turned there and ran.
+
+Memories of abyssal fishes luring their prey invaded her panic-stricken mind. She discarded them. Despair moved her legs.
+
+The plaza was empty. It was circled on all sides by a covered promenade leading to low buildings. She spotted many large windows, now broken, and many entrances.
+
+Restaurants?
+
+Acuity +1
+
+Adjustments are still in progress.
+
+Yeah yeah. The only point of interest was at the center of the square. There was, ironically, a circle. It shimmered vaguely in white, in tune with a stone like a sharp pyramid covered with inscriptions.
+
+It was magic! Pretty sure it was magic. And it was not the horrible kind of magic from a horror movie. It was shining in the dark like a lighthouse.
+
+Viv shook her head. She realized that there was something wrong with her thought pattern. The difficulty would be to attribute it to a cause. Was it her soul trauma? Or the bizarre nature of her overall experience?
+
+No, focus. Shelter. This did not look like shelter. Or did it?
+
+She crossed the circle. There was a pop. She fell to her knees.
+
+A curious thing, long-time discomfort. Sometimes you forgot it was there until it stopped. She felt like she had suddenly stepped out of a sauna and that a fever that had assailed her so far had now gone into remission. It was liberating. And worrying.
+
+The notion of ‘fallout’ came to her mind, unbidden. There had been a big explosion at some point, and now nothing lived here. Maybe she was already irradiated beyond salvation and would start leaking blood from every orifice soon enough.
+
+A distant part of Viv realized that she was staring at the remains of a camp, but the good kind of remains. Whoever had been there had left calmly, after piling unneeded supplies in a corner. There was indeed a pile of stuff that did not look as old and dried up as the rest of the entire town. There was even a small circle burnt into the dead earth in a corner.
+
+[An expended teleportation circle]
+
+Wow, so those people did indeed make it out. And they gated like characters from Stargate. How cool was that?
+
+“Any chance that the circle could be reactivated?” she asked the notification.
+
+Alas, it did not answer.
+
+“Figures.”
+
+And it was in the middle of this fascinating examination that a many-limbed creature crested the line of shops.
+
+[Necrarch chimaera: an extremely dangerous undead creature]
+
+Like its Ravager counterpart, the Chimaera had very pale skin stuck to lean muscle and far too many bone ridges, spines, and other pointy extremities. Its head was roughly similar: humanoid with an extended skull, flat face, nose slits, a dentist’s wet dream of a maw and two carmine, beady eyes shining in the dark.
+
+Time slowed for Viv as her ‘oh shit’ mode activated with both increased acuity and adrenaline. She completely froze.
+
+No moving.
+
+No moving at all.
+
+Willpower +1
+
+Keep quiet.
+
+You have reached a milestone! You have gained increased resistance to mental effects, including magical influence.
+
+Not one noise.
+
+Adjustments are still in progress.
+
+The thing moved parallel to her in a lazy gait that sometimes turned into a lightning-fast rush for no reason she could discern.
+
+She breathed extremely slowly, not moving a finger.
+
+Willpower +1
+
+Adjustments are still in progress.
+
+Her reasoning was that whoever had made that camp had managed to leave peacefully, and the presence of tarps indicated tents, and tents indicated that they had slept there. Those things came out at night, or apparently close to it, so there was a chance that the circle was protecting her.
+
+Acuity +1
+
+Adjustments are still in progress.
+
+There was also a chance that it was merely hiding her, or that the magic had weakened over time so she would not take one fucking chance.
+
+The thing came and went, wiggling its many-legged butt and nightmarish claws over the roof.
+
+Viv did not relax. For all she knew, they could smell a fart from three blocks away. She moved to the pile of supplies and inspected it while keeping an eye out.
+
+The tarp was easy enough to remove. Those who had left it had weighted the sides with steel spikes.
+
+[Quality steel spikes: used to stabilize structures such as tents]
+
+The heavy weight of the metal comforted her. It was still solid. It was proof that someone was still alive out there, after escaping from this hellhole. She would do the same. She would get out of here alive. She just had to be smart about it. Smart, and careful.
+
+She placed the spikes to the sides and removed the tarp. It was a treasure trove.
+
+There were pots, including a small one she thought she could indeed carry, a trench shovel, covers, sleeping bags, some sort of log thing that was slightly darkened on top, and a pair of rolled up water flasks that were a bit cracked but still serviceable. They were completely dry though.
+
+The real prize came under that. They looked like brown bricks wrapped in leaf-like material.
+
+[Dry travel rations, good quality]
+
+Jack fucking pot.
+
+That was lucky.
+
+Actually, she was really lucky in some ways and really unlucky in others. It was unlucky to end up in the ass end of some dead empire, in a city populated by creatures that could clearly trounce her in an instant. On the other hand, it was lucky to have found possibly the only place within ten square kilometers where she would not die.
+
+She remembered something.
+
+‘Magic? Magic status?’ she thought to herself.
+
+Focus +1
+
+Adjustments are still in progress.
+
+The interface obliged.
+
+Current status:
+
+Mana distribution:
+
+Current attunement: 0.22%
+
+That thing. Divine spark: luck. She was not sure what it meant, but it had saved her bacon. Otherwise, she would only have moved here to end up as people skewers.
+
+Something bumped into the distance and Viv squinted to see it. It was almost night now, and she could barely spot her own hands. There were no sources of light at all. No stars, no electricity. It was the first time in her life that she had been in such a dark place without being shut in an enclosed space. She could still feel the air move, carrying with it only the dry scent of windborne dust.
+
+[Necrach tentacular horror: an extremely dangerous undead creature]
+
+Your [Inspection] General Skill has improved to rank 3/5!
+
+Come to think of it, she did not absolutely have to see the thing. It was enough to know that it existed and was walking away. Yep.
+
+It was too dark to do anything anyway. Viv grabbed a sleeping bag and nestled her skinsuit-clad form into it, then she crawled under the tarp like a caterpillar and balled some of it to act like an improvised pillow.
+
+The night was silent outside.
+
+She thought that sleep would elude her. She was out in seconds.

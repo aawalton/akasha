@@ -1,0 +1,173 @@
+---
+id: 2863e8f9-99ae-5667-a6b6-3c961df1a165
+page-type-slug: story-chapter-royal-road
+title: "Chapter 319 : Fish Watching"
+slug: 0020-chapter-319-fish-watching
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 20
+ownLength: 2286
+unit: words
+ownProgress: 2286
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2807964/chapter-319-fish-watching"
+royalRoadId: "2807964"
+markedReadAt: "2026-06-29T19:42:28.125Z"
+---
+
+While Vee was out exploring again, I was doing my new duties as Sylvain. I'd been given a tiny boat, effectively a rowboat in my eyes, and instructed to patrol the shallows.
+
+At first, I was somewhat insulted, until I discovered that the boat wasn't as simple as it appeared to be. Not only did it have small sails that could be folded away into the mast through some clever usage of storage enchantments, but it also had a magical anchor so it could be halted in place no matter the locale.
+
+Naturally, I did my best to steal both enchantments for myself, especially the anchor, as I thought it might have some future uses when we created our own base of operations. Vee was dead-set on it being an uninhabited island, and frankly, I agreed with the premise; it would be far easier to defend this way.
+
+Perhaps I could create an early warning system by having floating beacons in the water. If I enchant them with this floating anchor, I think it would work nicely as long as I keep them small.
+
+That was the biggest downside of this marvelous piece of work; it only worked on small objects unless you provided it with far more power than could be passively gathered. To anchor something as large as Peggy, you'd need countless energy storage runes and an army of staff to recharge them.
+
+Alternatively, you could save a significant amount of time and effort by using multiple large normal anchors.
+
+And so with my small enchanted boat and using [Wind Magic], I began sailing around my designated area. It was quite a zippy vessel, and I actually found the activity pleasantly enjoyable as I got used to controlling it. I reached my first zone in no time at all, and then set up the anchor and cast [Bubble] on myself before jumping into the depths.
+
+This effectively became my job for the entire day: sailing around, jumping overboard, and gazing out at the underwater world. As a hydromancer, I had a considerable advantage over the regular members, who needed to use items or other methods to stay underwater during this time. As I gazed out at the waters, watching for threats, I quickly realized why so many people hated this job.
+
+This is going to be a long day…
+
+It was so boring! The beauty of the sea quickly waned, and then you were left staring at the fish swimming around. There was very little you could do for fun while on watch, and it almost seemed like a punishment. Luckily, I had [Sub-Cores] to do the watch duty for me, and I had magical experiments to keep myself occupied.
+
+Well, I guess I'll get started on Vee's request then.
+
+The blink bolt spell I made was a massive failure, but it was the only thing I could throw together quickly, as I still had never successfully recreated the projectileless targeting that some of my spells had. [Position], [Dispel], all my debuffs, and a few other spells all had the ability to target based on sight alone.
+
+It was a powerful ability that didn't need to be restricted to a projectile. While there were undoubtedly some trade-offs, such as not being able to blind-fire, lob around corners, or over cover, the benefits likely outweighed these restrictions. That was assuming you could overcome the sheer difficulty of creating one.
+
+I'd managed to avoid needing to take it apart so far with my debuffs by following the same set structure. This allowed me to effectively cheat by skipping ahead of what I should have been capable of through sheer brute-forcing trial and error.
+
+Still, [Position] itself already includes a perception-based targeting component. So I should be able to do it. I've also got [Mana Weaving] now! No longer do I use sticks and stones; I've got proper tools to work with!
+
+Unlike Vee, I still had the [Blink] skill, which I could use as a reference point. I had one of my [Sub-Cores] use it to teleport from one section of my body to another, like from my left arm to the right.
+
+You know… this could make combat a lot safer for us. I've always shifted my cores around using slime movement, but why have I never thought of just teleporting them inside my own body? [Blink] is far faster, and I could set up orders for each of them to preserve themselves as best as possible.
+
+Although I was at a stage where I felt confident in most things, being unable to penetrate deep enough into my slime to harm my cores, I still preferred to enlarge myself and hide them in a voluminous amount of slime. Still, I'd certainly add this to my growing list of tricks.
+
+I continued working on the spell, trying to avoid using [Mana Weaving] techniques as much as possible since the goal was to create something that Vee could use. When my time was up, I saved the current state of my work, returned to my boat, and proceeded to the following location.
+
+This process repeated throughout the day, with minimal action actually taking place. Ignoring my own work, the highlight of the day was a brineling scout trying to sneak about before his untimely demise.
+
+The more I worked on the spell, the more I felt a strange niggling sensation in the back of my mind. The more I made progress, the more it grew. Eventually, it was on the tip of my tongue, and while I was observing Lambda [Blinking] around, I finally had my epiphany, if you could call it that.
+
+Are skills just magic for dumb people?
+
+I had already created [Temperature], which I thought would be a skill, using only magic. Now my goal was to recreate [Blink] using only magic. The idea might have sounded outlandish or even crude, but the more I thought about it, the more right I felt about my strange hypothesis.
+
+I can do everything [Blink] does, if not better, using raw magic. The only advantage it currently offers is ease of use. If I look at a different skill, such as stealth, couldn't that be recreated using [Shadow Magic]? Obviously, I don't have that affinity, so I can't try it out, but I think the principle still stands.
+
+I paused to think about it some more.
+
+That could be another reason for skills: to allow someone access to something they couldn't otherwise recreate magically. However, the same could probably apply to my [Wind Step] or [Thunder Step]. I wouldn't know where to begin with the latter, but with the former I could probably recreate it with [Soaring Gale] and [Zephyr Shroud]...
+
+I then tried to look at it even further, and I kept seeing potential building blocks. There was even [Aerial Finesse] and its aquatic counterpart, which were probably just thoroughly precise applications of [Aerokinesis] and [Hydrokinesis], respectively.
+
+Obviously, there were notable exceptions, such as all of my companion-related skills. As good as magic was, I couldn't imagine it affecting experience and proficiency gains, but that might've just been from my limited frame of reference.
+
+Maybe there's [System Magic]?
+
+I chuckled at my joke, but then I thought about what Spirits could do by controlling essence as well as what [Dungeon Masters] could also do. Maybe [System Magic] wasn't as far-fetched a concept as I made it out to be.
+
+I don't want to become a spirit, but who knows what I'll unlock if I usurp a [Dungeon Master] Emblem. Still, there are a lot of skills I have that I think could just be recreated with magic. Which, in turn, begs the question: what is the point of skills? Simplicity is definitely a factor, but I think with enough practice, that would become a non-factor. Ignoring my original "skills are for dummies" theory, are skills just a tutorial for something greater?
+
+Suddenly, a notification pinged in my head. It was so loud that I nearly dropped my partially created spell that was still in my grasp.
+
+<Quest updated: Continue exploring all avenues of magic.
+
+Reward: ???
+
+Subquest: Successfully recreate the [Blink] skill as a spell.
+
+Subquest Reward: [Skill Deconstruct].>
+
+I stared at what I was reading with utter bewilderment. I had received this quest back when I was toying around with [Temperature] and ideas on how to recreate its own version of [Positioning]. Evidently, I had explored another avenue of magic that Mother desperately wanted me to follow.
+
+"But seriously, what the hell is [Skill D#####]?"
+
+This time, I dropped my spell, which thankfully didn't have too much magical backlash as it burned away a negligible amount of my Mana while giving me the equivalent of a hearty slap to the face in damage.
+
+"Am I not allowed to say the name?" I pondered. "[Skill D#####]."
+
+Having accidentally discovered this strange phenomenon, I was even more invested in this reward.
+
+[Skill Deconstruct]?
+
+"Looks like my personal thoughts are safe… I'd have to test out telepathy with Vee, but I think that would also be interfered with if I had to hazard a guess."
+
+I looked over the reward and couldn't help but smile. It looked like I wasn't going to be bored, and now recreating this spell for Vee was my number one priority.
+
+Alright, gang, let's get to work! I thought as I pulled in every available [Sub-Core] to start a process of rapidfire trial and error. I wanted to get this reward by any means necessary!
+
+***
+
+Gramps was nursing a cup of coffee while looking over his recent reports. Some of the new traits he had developed were performing admirably, and the few trial variants in active testing were already producing results above expectations.
+
+"These open-ended traits that allow outside growth factors are a real game-changer. I had already witnessed this many times with Syl, but it's reassuring to see that it wasn't just an outlier in my research."
+
+In particular, the [Experiments] were doing the heavy lifting of his research, as they were able to directly utilize them, providing a much-needed lived experience.
+
+But even a few of the [Dungeon Masters] were showing favorable results through directing their minions. If all continued to go well, he'd soon allow some of the fruits of his labor to all dungeon-spawned monsters, and then the rest of the world.
+
+Suddenly, his peace and quiet were interrupted by the sound of a warning alarm going off.
+
+"What now?" Gramps whined, quickly pulling up a screen.
+
+When he saw that the warning was once again targeting his favorite subject lately, he couldn't help but groan.
+
+"Every damn time, I swear this slime is going to be the death of me!"
+
+He looked over the warning and discovered, for once, it wasn't the slime's fault. No, there was outside interference once again.
+
+"I thought I plugged these holes…"
+
+Gramps quickly confirmed that none of his measures had been bypassed, which means this was an already established breach.
+
+"Mother…" he growled.
+
+Gramps found that the quest she had thrust upon Syl had been updated. He quickly looked at the reason and found that the curious slime had triggered one of the hidden subquest objectives she had layered in this trojanbomb of a quest.
+
+He shook his head. "Sneaky woman, to think she planned this far ahead."
+
+The worst part was that the way she had structured it prevented him from cracking it on his own, without revealing the full contents of the quest to Syl. Initially, he had left it alone, not wanting to provide further distractions to the already inattentive slime, but now he had half a mind to blow it wide open.
+
+That was until he read what was now revealed and the reward she was offering. He nearly fell out of his chair at the shock he felt.
+
+"Blasted woman, what the hell are you trying to pull off!?"
+
+He desperately wanted to reveal the rest of what was hidden in this open-ended quest, but now he was fearful of what else might be there. He quickly established a secure line of communication with her, wanting to know the answer.
+
+"Hello~" she answered with a playfully melodic tone.
+
+"[Skill Deconstruct]!?" he hissed.
+
+"Oh? Has our lovely slime finally made progress? I'll need to check the logs," she replied cheerfully.
+
+"Mine, you mean."
+
+"Of course. Of course," she giggled. "Just remember, we are on the same team now."
+
+"Why would you give that as a reward? Are you trying to get them both killed?"
+
+"Hardly. Syl was already following down that path, and I figured I'd simply offer some helpful encouragement. There are far too few who go beyond the surface of everything."
+
+"Because those who do end up killing themselves!"
+
+"Well, it's a good thing that you've given Syl so many extra lives then," she replied.
+
+Gramps opened his mouth to respond, but other than a disgruntled growl, the words escaped him.
+
+"Besides…" she continued. "Aren't you curious to see how far this slime will dig?"
+
+Gramps didn't know how to respond. He didn't want to admit that he was intrigued, as he was still furious with what she had done. He ended up abruptly cutting communication as she slumped in his chair.
+
+"At least it's coming out of her resources and not mine…" he grumbled, trying to find the silver lining.
+
+Admittedly, he wasn't too concerned about Syl ending up dead, but what did trouble him was how far the slime might take it. He'd seen time and time again that Syl struggled to hold back.
+
+"I just have to hope the warnings are enough deterrence…" he sighed, returning to his now cold coffee cup.

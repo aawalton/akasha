@@ -1,0 +1,179 @@
+---
+id: 45c115ef-a25d-547e-b2b1-5995e338c1d5
+page-type-slug: story-chapter-royal-road
+title: "EIGHT: Tiger Shorts"
+slug: 0008-eight-tiger-shorts
+partOf: super-supportive
+position: 8
+ownLength: 1847
+unit: words
+publishedAt: 2023-02-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114180/eight-tiger-shorts"
+royalRoadId: "1114180"
+---
+
+Gorgon didn’t eat the crickets.
+
+Honestly, it was a real head-scratcher. Alden had been so sure that the alien would actually eat them that he’d bought thirty. Of all his ideas, this one was supposed to be the sure thing.
+
+What was the difference between flies and crickets? They were live prey. They were insects. Neither were poisonous. Gorgon couldn’t have come from a universe where they scorned all meat except for Musca domestica; that was just stupid.
+
+Alden was baffled.
+
+But even though he didn’t eat the crickets, Gorgon did seem to like them. When he thought Alden wasn’t watching, he gave the bugs chirping on his desk in their plastic carrier a single, shockingly human smile. Then he’d relocated them all, placing them in various potted plants scattered throughout the lobby.
+
+For a time, Alden toyed with the idea that Gorgon might only be able to eat live prey he’d hunted himself. But there was really no point in going down that path. Gorgon could have chased down the crickets after releasing them, but he didn’t.
+
+A couple of weeks later, their song still echoed around the lobby in the afternoons.
+
+And if the alien needed his prey to be truly wild…well, it wasn’t like Alden was likely to find an elk roaming the streets of Chicago. And he couldn’t stomach the idea of baiting feral cats into the lobby. He had a semi-feral cat at home, and they got along well.
+
+He kept at it, though. Every time he came to class he brought takeout containers full of random food for the alien. One vegan dish, one meat. So far he hadn’t had any successes.
+
+Maybe that fly had just annoyed Gorgon so badly that he’d eaten it out of spite?
+
+In early February, Alden dragged his friends into a carniceria that was becoming all too familiar and stared into the glass case, looking for inspiration.
+
+“You know,” said Boe, while Alden checked the prices on tripe, “I didn’t want to bring this up…but don’t you think you’re focusing on this Gorgon thing so hard because you’re trying to ignore something else?”
+
+“Like what?”
+
+Boe looked uncharacteristically uncomfortable. Alden saw him exchange a glance with Jeremy, who cracked his knuckles and leaned back on his heels.
+
+“Boe’s talking about your friend’s funeral,” said Jeremy. “You gonna go?”
+
+Alden turned away from them. His breath fogged the glass on the cooler.
+
+“I don’t think so.” He tried to keep his voice casual. “She’s…it’s not like I knew anyone on Anesidora Island except for Hannah. Everyone who will be there was way closer to her than I ever was. I don’t want to intrude.”
+
+“You should go,” said Jeremy.
+
+“You should,” Boe agreed. “Funerals are sucky by nature. I don’t think you being there could make it better or worse for anyone else.”
+
+“Right,” said Jeremy. “Nobody else will care if you go or not. But you’ll care. You’ll be really pissed at yourself when you wake up the morning after and realize you missed the chance.”
+
+There was a long, painful pause. Alden didn’t know how to respond.
+
+“And then you’ll go nuts and try to bust your demon pal out of prison,” Boe said lightly. “Chicago will turn into some kind of hell dimension, and we’ll all die.”
+
+Jeremy glared at him.
+
+“It was getting way too serious. I couldn’t take it anymore.” He shrugged apologetically. “They do tacos de lengua here, Alden. They’re good. Get those. You can eat them for lunch when Gorgon rejects them.”
+
+###
+
+Wordchain class that day focused on the request for a trade of luck. It was the first one Alden’s mother had ever taught him, the same one he’d said in his heart when he was inside Hannah’s bubble.
+
+He always felt a little weird about performing this one, even though he knew it well.
+
+While the teacher gave pointers to Raquel, who still hadn’t gotten over her habit of shouting the words in a near-religious frenzy, Alden tried to control his breathing. He focused on his inflection. He made the delicate curving hand sign he hadn’t been able to make years ago, on that night when he’d really needed it.
+
+Maybe that was why it didn’t work.
+
+Yikes. That was a dangerous thought. Bitter. Childish. He knew from experience that he could spiral down from it into ugly emotions if he let himself. He tried to change gears.
+
+Even if I don’t go to the funeral, I have to call Hannah’s friend back. I can’t just leave her offer hanging forever. It’s rude.
+
+“…em utch ya-cku durz-u hu-morit.”
+
+He finished the chain in a whisper and started again.
+
+A waste. If a tiny slice of luck lands on me today, I don’t have anything important to do with it.
+
+It was ten days until the funeral.
+
+Alden knew Hannah was almost certainly gone. It had been hard to get a straight answer online, but it seemed like only a handful of people had ever received a summons that took them longer than a few weeks to complete. A tiny, tiny percentage.
+
+Sometimes, the Artonans sent a message letting the people back on Earth know that a hero had died on a quest, but mostly they didn’t.
+
+Real dick move there. Why doesn’t the island complain about it?
+
+Alden didn’t even know what kind of quest Hannah had been given. He hoped it was something noble. Something that mattered.
+
+Hannah Elber really, really wanted her life to matter.
+
+More than anyone else Alden had ever met.
+
+People say they want to make a difference all the time, but they don’t mean it. Hannah had actually meant it. She’d planned for it. Worked toward it. Worried about it. I know she’d be okay with dying for the right reason.
+
+Alden wished the thought made him feel better.
+
+His mood was dark for the rest of the day, even though Jeremy kept trying to cheer him up. And his temper only soured more when he made it back home at seven o’clock and found a note from his aunt taped to the fridge.
+
+She’d gone to California. “Just for a few days with a friend!” the note said. “Bought some groceries. Call if you need me!”
+
+“You can’t do things like this,” Alden muttered, ripping the note off and tossing it into the trash. “You know you can’t.”
+
+He tried to calm himself down with logic. What was the worst that could happen?
+
+He was almost sixteen. He had money of his own from his parents’ estate and the settlements from their deaths. It wasn’t a ton, but it was enough in combination with the scholarship money that had been set aside for his future education to guarantee he wouldn’t sink if he had to look after himself.
+
+In just a couple of months, he’d be old enough that a court should be willing to emancipate him instead of shoving him into foster care because his aunt was a massive flake.
+
+But it had been close at least once when he was younger.
+
+Aunt Connie had done almost exactly this same thing. A neighbor had caught on. He had asked Alden if he’d been left alone for the entire week and hadn’t believed him when he’d lied and said his aunt was just working nights…
+
+It’s fine. It’s done. Having the house to myself is kind of like a vacation. He opened the fridge and found a gray plastic grocery bag full of sandwich stuff and mini orange juices.
+
+He stared at the supplies for a while. The juice had crushed the bread.
+
+She didn’t even bother to unload the bag.
+
+Alden was unreasonably angry about that.
+
+Grumbling, he ate fried bologna and tried not to pick at all of the flaws in his life.
+
+The overdue electric bill sitting on top of the microwave was not a disaster. The pile of dirty coffee mugs his aunt had left in the sink could be washed in a few minutes. The tiger-striped boxer shorts—definitely not Alden’s own—crumpled in a corner of the living room were kind of funny if viewed through a generous lens.
+
+But Alden’s lens wasn’t generous this evening. He didn’t know why. Usually he was really good at letting Aunt Connie’s chaos wash around him without touching him.
+
+There was a mewing sound at the front door, and feeling relieved to be interrupted from his thoughts, he jumped up to let in the cat.
+
+“Hey, Victor. You’re gracing me with your presence tonight, huh? Why’d you go out there on such a cold nasty day, anyway?”
+
+The orange tomcat was named Victor because he was all scarred up. Alden liked to imagine he’d been the victor of many battles.
+
+The cat wove around his ankles, shedding obscene amounts of fur and meowing. Alden bent down to scratch him behind the ears.
+
+“Let’s get you some dinner.”
+
+He opened the cabinet where he kept the cat food and frowned. It was missing. He’d definitely had several cans left, purchased from the same store as the crickets. Had his aunt moved them?
+
+He searched cabinets and drawers. He looked inside the fridge again. He dug through the trash just in case his aunt had already fed the cat entirely too much food before she left and then thrown the cans out.
+
+But there was nothing.
+
+What the hell? Did she get confused and take them with her? He glanced at the boxers in the corner. Did tiger shorts steal my freaking cat food?
+
+He grabbed his phone and texted his aunt.
+
+Where’s the cat food?
+
+She didn’t answer right away, so he gave Victor a small piece of bologna. After his shower, he checked his messages again.
+
+Aunt Connie? Cat food?
+
+Still nothing.
+
+Alden stood in his room, drying his hair with a towel, trying to be nonjudgmental. No way am I going to sleep anytime soon. I’m too worked up. Might as well make a bad night worse, right?
+
+It was as good a time to make a hard phone call as any. He grabbed his phone and pressed the sigil. He took a deep breath, then said, “Call Clytem Zhao.”
+
+The System connected straight to the hero’s voicemail instead of to her directly. That was a relief at least. Alden wasn’t prepared for a long heart-to-heart.
+
+Keep it simple. That’s safest.
+
+“Hi, Ms. Zhao. This is Alden. I’m sorry I took so long to get back to you. I’d like to go to the funeral, if it’s not too much trouble for you to get me there. Thank you for offering.”
+
+He hung up.
+
+There. Decision made. Now to do something to distract himself from feeling so many feelings.
+
+Alden threw on a t-shirt, pulled a sweatshirt on over it, and grabbed the pillow from his bed. When he stepped out into the living room, the cat was there, sniffing the unwelcome underwear.
+
+“You want to go grab some tuna and meet somebody?” Alden asked him.
+
+Victor meowed.
+
+“That’s the spirit. How do you feel about demons?”

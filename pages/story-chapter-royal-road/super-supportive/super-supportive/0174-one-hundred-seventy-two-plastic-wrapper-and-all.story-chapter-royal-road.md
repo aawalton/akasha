@@ -1,0 +1,403 @@
+---
+id: 90a30444-0d30-5dd5-8b33-ef3a25c8c87a
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-TWO: Plastic Wrapper and All"
+slug: 0174-one-hundred-seventy-two-plastic-wrapper-and-all
+partOf: super-supportive
+position: 174
+ownLength: 4641
+unit: words
+publishedAt: 2024-09-30
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1827389/one-hundred-seventy-two-plastic-wrapper-and-all"
+royalRoadId: "1827389"
+---
+
+Alden’s head throbbed. His ears roared. Fury and flight speed were equally likely culprits.
+
+He jumped off the nonagon, taking in the situation as well as he could in this mood. Jeffy—cheerful beside the grill. Jupiter—floating peppers and looking intrigued. Drones—hovering, two of them filming, one doing something else.
+
+Maybe it performs some amazing spell that makes Winston seem like a likable human being to his fans.
+
+A few people were going in and out of the entrance to the girls’ building, which was almost hidden from this spot here in the cookout area at the back of the garden. And Winston was all the way over there with them.
+
+On his own interface, Alden could see himself in profile, standing a couple of steps away from Jeffy and the grill. He’d been watching Winston’s hideous…whatever the hell it was…on the way over here. He might have screamed at the speedster a few times. Hard to remember clearly. He’d definitely texted and been ignored.
+
+Now, his fists were clenched. He wanted to scream some more. This was worse than when Hazel had forced his Peace of Mind debt to land. He was angry, embarrassed, sorry he hadn’t foreseen this somehow and headed it off.
+
+“Are you here to pick up the food?” Jeffy asked again.
+
+Alden pulled his eyes away from Winston.
+
+He left the drones behind. It’s enough.
+
+“No, Jeffy.” Alden stared at the main camera. “Since Winston refused to answer my messages, I flew all the way here to say that he was not correct about us needing more help for the Thanksgiving meal. If you’re on Anesidora and thinking of donating, thank you so much. But we have plenty of food and decorations lined up. Maybe consider having dinner with your friends tonight instead.
+
+“I also wanted to ask Winston why he would do something like this.”
+
+An artful revenge would probably have included a wounded look or an astonished tone. Something to tug on the heartstrings of the people watching. But Alden was too pissed off to even try it. What he really wanted to do was shove the whole pack of Arfdogs down Winston’s throat, plastic wrapper and all, while screaming, “SHUT UP! SHUT UP, you selfish piece of shit!”
+
+So he looked irritated, and he sounded stressed. Maybe he was going to come across as a bad person. But he was talking now, and there probably wasn’t much time left before Winston realized he ought to shut off the cameras.
+
+“Winston knows I don’t want to have much of a media presence right now. Focusing so much on me during this Q&A session, when I told him just a few days ago that I wasn’t ready to talk about myself online yet is…yeah. But I guess he’s still mad about me beating him in gy—”
+
+The stream ended abruptly. Winston was suddenly there, yanking the little round camera drone out of the air and away from Alden.
+
+“Don’t talk to my fans!” he said, in a tone of shock he had no right to. “I didn’t give you perm—”
+
+“You’re over here now? Good.” Alden stepped toward him. “I have a question for you.”
+
+“You can’t just say whatever you like to another person’s follow—!”
+
+“Are you the most important man on Earth?” Alden asked. “That’s my question.”
+
+Winston gaped at him.
+
+“You,” said Alden, staring him down. “YOU. Are you, Winston Reginald Heelfeather, the most important man on Earth? Is that how you think of yourself? Like, if you wake up tomorrow and the internet has disappeared and nobody can ever again see your Win-Win whatever it is you do for hours every day with your obnoxious drones—will the planet we live on stop spinning?”
+
+“You’re acting like a psycho!” Winston shouted.
+
+“Yes or no?”
+
+“No!”
+
+Alden took another step closer to him. “Then why the fuck are you making up stories about Hn’tyon Esh-erdi? He’s busy cleaning up the ocean so that it doesn’t swallow the island we’re standing on, and you’re acting like he’s a toy you can play pretend with. In your twisted little brain, are your Arfdogs and the feud you’ve obviously decided the two of us are having really so serious that lying about someone the System calls ‘General’ seemed like a good idea to you?”
+
+Winston looked worried for a few seconds. Before Alden could derive any satisfaction from it, though, the worry was replaced by a scoff. “I wasn’t lying. I was just sharing rumors. I said ‘probably’ and ‘maybe’ a lot. It’s not like that’s illegal. So I didn’t do anything wrong.”
+
+“Just sharing rumors,” Alden said flatly. “There’s a specific rumor about Hn’tyon Esh-erdi accepting my lengthy pleas to take me on as his ‘octagon waxer?’ There’s a rumor about me moving into his house on the Triplanets for literal years so that I don’t have time to finish school here with the rest of you? You heard those rumors somewhere?”
+
+“I think Alden’s mad at you, Winston.”
+
+Winston and Alden both ignored Jeffy’s interjection.
+
+Winston straightened. “How do you know if I heard them or not? People say all kinds of things about you.”
+
+“Fine. Where did you hear those particular things?”
+
+Winston Heelfeather rolled his eyes.
+
+You childish bastard.
+
+Alden unclenched his jaw with difficulty. “Well, those rumors are wrong,” he bit out. “Now you know. So go snuggle up to that camera and apologize to Hn’tyon Esh-erdi for letting unverified garbage fall out of your mouth over and over again. I counted you saying his name eighteen times on my way here from Matadero, and I was flying fast.”
+
+“You don’t get to say what I talk about on my own channel! You’re not my boss or my mo—”
+
+“No need to apologize to me!” Alden raised his voice. “Just him. You should probably apologize to your fans and the company that makes those hotdogs, too, but that’s up to you.”
+
+“I’m not apologizing! Get your own fans if you want to say something. I know that’s your plan anyway. This too cool to care thing you do is so fake. Everyone’s sick of it!”
+
+“What are you even talking about?!”
+
+“We all know the truth. We can see through you!”
+
+“You—”
+
+Running footsteps cut Alden off. He turned his head in time to be face to face with Haoyu. “You have to come quick,” Haoyu said. “There’s a problem with some of the food.”
+
+He glanced at Winston then back at Alden. “Sorry if I interrupted, but I do need you.”
+
+Alden caught his breath, collected his thoughts.
+
+Fuck. I’m just wasting my time with this idiot, aren’t I? “It’s fine. I’m coming.”
+
+He started to follow Haoyu.
+
+“You didn’t even beat me!” Winston called after him. “A trick isn’t the same as winning in fair combat!”
+
+“Ignore him.” Haoyu grabbed the sleeve of Alden’s shirt like he was afraid Alden wouldn’t take the advice.
+
+“I wanted him to apologize,” said Alden. “No. I wanted him not to be such a jackass in the first place.”
+
+“That might be too much to ask for in his case.”
+
+The automatic doors slid open. Haoyu glanced over his shoulder to make sure Winston wasn’t following them, then hurried over to one of the tables in the common area to grab a casserole dish with an envelope taped to the glass lid. The community kitchen was mostly full of students Alden didn’t know, but Mehdi was in the corner arguing with someone on the phone about whether raisins could be substituted for dates.
+
+“What’s wrong with the food?” Alden asked, taking the stairs up two at a time, trying to put his mind back on the things that had to be dealt with this afternoon. “None of it’s actually poisoned, is it?”
+
+“I lied a little bit,” said Haoyu. “Sorry. The food’s fine. I was just worried about you.”
+
+“It’s not like I was going to fight him.”
+
+“You were verbally fighting him. And I’m sure he deserved it. I don’t know what happened. But if he was extra horrible today, and took a swing at you…um…”
+
+Alden sighed. As they approached their apartment, he saw that the door was open a crack. “Did you run out so fast you forgot to close it?”
+
+Haoyu frowned. “No. I was already downstairs when you got here. Kon knocked and told me he talked to a lady who wanted to deliver this.” He lifted the casserole dish. “I don’t know why he couldn’t have just brought it up himself instead of telling her to leave it on the table down there.”
+
+When Alden pushed the door open, the sight that greeted him took his mind off Winston at least.
+
+The counter and the table were covered in food, like he’d expected. Less expected was Kon, lying on the fuzzy rug in front of the fireplace, wearing pink sunglasses, and moving his arms and legs like he was trying to make a snow angel.
+
+Haoyu gasped in outrage and rushed past Alden to confront the villain. “Kon! You broke into our apartment!?”
+
+“I can revert the doorknob's lock as long as it’s been opened within my time limit,” said Kon, still flapping all four limbs. “When is Lexi coming back from the library? I need him to see me like this.”
+
+Haoyu set the casserole dish down on the floor, and then dove on top of him.
+
+“Ow! Man, I’m not a DuraBrute.”
+
+“That’s right. You’re a <<scoundrel>>! Give Sunny back his glasses!”
+
+“The polar bear has a name!”
+
+Haoyu liberated the sunglasses from Kon’s laughing face. “You get his feet, Alden. We’ll throw him down the stairs.”
+
+“Alden wouldn’t do that to me. He’s a good person.”
+
+“I almost dropped the nonagon on Winston’s head,” said Alden. “So I wouldn’t be too sure about that. Crap! The nonagon! I left it down there where people could play with it.”
+
+He ran over to the living room window, shoving a bromeliad leaf out of the way to unlatch it, and leaned out until he could see the grill. Winston was gone. Jeffy seemed to be studying the pack of hotdogs. And the nonagon had an unauthorized passenger already.
+
+“Jupiter!” Alden shouted. “Jupiter, I’m going to move it now! Get off of it!”
+
+She waved, but she didn’t get off.
+
+Does that mean she wants me to move it with her on it or what?
+
+“I’m going to park it on the roof!” he clarified. “The roof!”
+
+“She can just climb down if she doesn’t like it up there,” said Kon from behind him. “Have you guys seen that thing she’s making for the wizards? She says it represents thooomf—!”
+
+Alden looked around and saw Haoyu walloping Konstantin with a sofa pillow, then he turned his attention back to the nonagon. He directed it up slowly and then toward him.
+
+When Jupiter arrived at the window, she was stringing peppers on what looked like a vine that had been stripped of its leaves. She was also wearing sandals and a long flowy skirt with her uniform top, which made for a strange combo.
+
+“You need to get off," Alden said. "I’m going to put it on the roof.”
+
+She was staring at the bromeliad. “Where’d you get that? Can I—”
+
+“You can’t have it!” shouted Haoyu. "You kill half the plants you use anyway!"
+
+Jupiter sighed and got onto her knees. She held the pepper string out toward Alden. He took it so that she could climb through their window.
+
+<<Hello, beautiful,>> she said to the bromeliad as she passed. Then she looked around. “Your room has very handsome furniture. You need to get rid of the people in the room above you, so you can raise the ceiling and have the exposed beam look.”
+
+“We’ll get right on that,” said Alden.
+
+“The cornucopia’s almost finished.” She looked at him. “I really wanted to know what Matadero smells like. But it’s hard to pick it up because you smell so much like crab, garlic, and truffles.”
+
+“I spilled some kind of seafood broth on me earlier.” He had also crushed the life out of a truffle.
+
+“That’s him?” Kon asked. “I thought it was whatever was in this dish Haoyu set down. You do smell a lot. It’s not bad, but it’s powerful.”
+
+“Jupiter, help us throw Kon down the stairs,” said Haoyu.
+
+She looked at Kon. “But the window’s closer.”
+
+“Jupiter, how could you? We were teammates. Team Konstantly Awesome went through so much togeth—what are you guys doing?”
+
+He seemed very surprised when they actually did stuff him out the window onto the nonagon.
+
+Alden parked him on the roof.
+
+When Haoyu shut the door on Jupiter, Alden said, “Thanks for giving me an excuse to get away from Winston. I needed it.”
+
+“What’d he do?”
+
+“I’m not sure how it started, since he was already spewing random bullshit when I tuned in. But by the time it ended, he’d made up fictional versions of me and a knight and as good as promised his followers that I’d be leaving the program any day now to pursue my higher priority dream of living in Esh-erdi’s garage.”
+
+Haoyu pursed his lips. “He’s imploding, then. Earlier this week, he was making digs about Finlay ‘running away’ from The Span, but they were subtle.”
+
+“If he’s going to implode, why does he have to drag others down with him?” Alden bent and picked up the casserole dish.
+
+“Him saying stuff that’s easily proved wrong will only make him look bad in the long run,” Haoyu said.
+
+“I know.” Alden set the dish on the table, and untaped the envelope from the top.
+
+The food under the lid was green. Creamed spinach, he was guessing. When he opened the envelope to see who it was from, he found a short letter addressed to “the Generals and wizards at Matadero.”
+
+“We will never be able to thank you enough for helping our children,” it said. “Liam, Tina, and Royce are the most important people in the world to us…”
+
+This is the kind of thing I hoped we’d get for the potluck. He carefully folded the note back up and re-taped it to the dish.
+
+“I’m not sure what to do now,” he said. “My schedule’s completely off. I think there’s an air traffic monitor who’s mad at me. And I still have so much Thanksgiving left.”
+
+“You should get rid of the crab smell before anything else,” said Haoyu.
+
+“Really?” Alden sniffed the front of his shirt. His hand smelled so much like truffle that he couldn’t detect the crab. “You might be right.”
+
+On his way back to his bedroom, he noticed that Kon had actually succeeded in making a noticeable carpet angel.
+
+******
+
+******
+
+The rest of the afternoon was bonkers.
+
+Alden felt like he’d volunteered to juggle a few balls to brighten up a party, only to realize too late that all the guests had taken that as an invitation to throw everything they had at him. He dropped a lot. He got hit in the face a few times. And there was nothing left to do but keep juggling as much as he could.
+
+“I’m sorry but I don’t have time to answer questions,” he said to a woman who’d just called. She ran some local interest site that Alden had never heard of. He rolled over the back of the sofa, which had been re-positioned to block the hallway that led to their bedrooms. Lexi, who was sitting on the sofa with Writher, looked resigned. “Not today. My only statement about the potluck is already up on my Trime account. Yes, I do think, ‘Happy Thanksgiving. I appreciate all the help so much. We have enough food now,’ covers it.”
+
+Not that it’s working.
+
+“Bye.”
+
+“Who was that?” Haoyu asked, passing a cordless slow cooker—not his own—out the window to Lucille. They were in charge of loading the nonagon. Alden was trying not to look because the sight of the growing pile was adding to his anxiety.
+
+“Someone from some website the System translated as ‘Star Eyes,’” said Alden. “I don’t know.”
+
+Mr. Zhang-Demir, Astrid, and Njeri were at the kitchen table performing final quality checks and making sure everything was labeled and sealed for travel. Alden had some concerns about the amount of tape Haoyu’s dad was using. The dishes definitely wouldn’t leak, but he thought he and Kabir might need an axe to get them open again.
+
+He’d been an awesome help though. Not for the “taste testing,” but for the intimidation factor. Before he’d shown up, other people living in the dorms who’d gotten wind of the fact that Alden was present had started appearing to ask questions about Matadero and the attack, like he was going to be able to personally answer everything the President of the Anesidoran High Council couldn’t.
+
+Alden had told them he knew nothing more than they did, that he was tattooed to secrecy, and that he was busy. But even when they left, they didn’t really leave. For a while, there had been a throng hanging out in the hall outside their door like it was the new, must-be place for anyone who wanted to talk conspiracy theories about the Submerger boat and its passengers. A few uni students had even shown up.
+
+Haoyu had asked his dad to get rid of them as soon as he’d arrived. Since then, people who entered the apartment had developed the ability to politely drop off their food and leave if they weren’t helping out.
+
+Most of them anyway.  Mr. Zhang-Demir only gave off no-nonsense adult vibes to people who hadn’t grown up with Haoyu. Whenever Kon flitted by for a few minutes, the level of goofing off skyrocketed. Earlier, Alden had chased Bobby downstairs to thank her for the cucumber salad in person and ask what was up with their training schedule now that everything was out of whack. When he’d gotten back to the room, Kon, Haoyu, and his dad were all making mustaches for themselves out of licorice ropes that had fallen out of a package.
+
+What’s left to do? he asked himself now.
+
+He had to make at least one trip down to F to deliver everything he could to the TC before going to Natalie’s.
+
+Fridge, he decided.
+
+He opened it. “Did someone bring a pitcher of milk? That’s not going to happen. A pitcher of milk will be a pain to carry and it’s not specia—”
+
+“But it’s so good!”
+
+“You have to take that!”
+
+“It’s not plain milk.”
+
+The chorus of objections from all the girls was so sudden and so loud that Alden felt like he’d accidentally committed a crime. He turned to see even Lucille leaning back through the window like she was afraid the milk needed to be protected.
+
+“Uh…I’ll take it. Don’t panic, anybody.”
+
+“Marsha brought that while you were in the bathroom,” Lexi reported. He was currently keeping the master list of who had given what.
+
+“Marsha?”
+
+“It goes with this,” Astrid said, running over to join him by the fridge. She pulled out a huge glass jar full of something red and goopy.
+
+The blood of Marsha's enemies.
+
+“It’s fresh strawberry syrup with strawberry pieces,” Astrid said. “The milk is more like melted vanilla ice cream. You mix them.”
+
+“Marsha drinks it for breakfast every day,” said Njeri. “And she shares. It’s our favorite thing about her.”
+
+“Okay. But can we put the melted ice cream in something with a lid? Even if I preserved it on the flight, it would be annoying for anyone else to handle afterwards.”
+
+Njeri ran off in search of a container.
+
+Alden emptied the fridge into styrofoam coolers. Rahul, the president of the B-list, had come over to check on him after hearing all the buzz around campus. Then he’d left and returned with all the tape, the coolers, adhesive labels, markers, and more useful organizational things before heading to the MPE building for a class.
+
+What a hero, thought Alden while he taped the coolers. What an intellectual giant. Imagine stopping by to see what we actually needed instead of just bringing whatever you found in the back of a closet. I hope some day people pay him millions for firing garden gnomes out of his cannons.
+
+Someone had delivered folding tables and chairs. So many unnecessary folding tables and chairs. They were all stacked against a wall downstairs, getting in everybody’s way. And there was no name on them other than Alden’s own, so they looked like his space-hogging tables and chairs now.
+
+He kept up a string of texts with Kabir. He packaged food. He shoved food out the window. He managed to keep his clothes clean.
+
+He ran what felt like ten laps around the dorms, suggesting that the people in his class who were still trying to make things should either finish up or give up as kindly as he could. He told them all that there would only be one more food flight leaving the dorms tonight, and it would not be as frighteningly huge as this one. Then he headed to the grill to check on Jeffy.
+
+Jeffy had been at the grill for a really long time, receiving occasional deliveries of groceries.
+
+Alden assumed the Brute had decided he was cooking something better than jerky for the wizards, and he had committed himself to being enthusiastic about it no matter what it looked like because Jeffy had been the only redeeming part of Winston’s stream.
+
+As he approached the grill, he found Everly Kim watching Jeffy’s back with fascination.
+
+“I think he might be a genius,” she whispered. “I loaned him my camera.”
+
+That explained why the drone pointed at Jeffy was a white glitter model that looked like a snowball with a lens.
+
+“What’s he doing?” Alden whispered since she had.
+
+Everly air typed, and a link appeared:
+
+[My Grandpa Shows Us How To Grill Right (live)]
+
+Alden opened it to see Jeffy tandem streaming with a wiry, middle-aged man who was wrapping an ear of corn in foil with one hand while he sipped on a drink in a rocks glass with the other.
+
+“All right, Jeffy,” he said. “How are those chicken thighs looking on your end? You ready to cut into one?”
+
+Alden blinked. Then he saw the number of viewers and had to blink again. Then he saw the comments, and felt like he’d entered a new dimension:
+
+“Sharkpa is the best. I wish I had a Sharkpa.”
+
+“Sharkpa, do you miss Jeffy?”
+
+“I’m crying. My dad never taught me how to grill.”
+
+“Where’s SharkNana? Has she gotten back from the store with our Arfdogs yet?”
+
+“Are these…mostly Winston’s fans?” Alden asked quietly.
+
+Everly nodded. She hadn’t taken her eyes off Jeffy. “And some of mine. We’re going to grill the Arfdogs together when SharkNana gets back. We have to wait so long because the store is very far away, and it’s night, and she drives slow. We’re all a little worried because once she hit a deer. But we’ve learned three different ways to light charcoal.”
+
+Alden almost wanted to stay and watch it himself.
+
+******
+
+******
+
+At 5:30 p.m., Alden perched on the Nine-edged Son outside the TC, having flown in winds so strong and sudden that he almost suspected there was an evil Shaper of Sky with a grudge against him. The nonagon itself had been unaffected, but rest in peace to that one bag that had caught a gust, billowed like a sail, and fallen into the Pacific. It had held someone’s beautiful homemade bread loaves, and Alden was trying to convince himself that he wasn’t a failure for not being able to catch it without risking his life and the rest of the load.
+
+Upon arrival, his interface had directed him to aerial vehicle parking. He decided not to obey it. Instead, he headed for the main entrance, intending to fly right toward the teleshipping area the easy way, only to find that the nonagon wouldn’t fit through the doors. It was too wide.
+
+All right, just juggle another ball then. We carry everything through in batches. Hustle.
+
+He looked around. The nearest human in sight was too far away to make shouting for assistance anything but rude. Why was there nobody around to entrust you with things when you needed them?
+
+Hustle and muscle, then.
+
+He loaded his arms with bags, grabbed the largest stack of coolers he could manage, and headed for the door with a lot of styrofoam blocking his view.
+
+“Pizzzzaaa pie is Anesidora’s favorite!” said a familiar voice as he passed into the slightly warmer interior of the building. “Pizzzzzaaa pie makes everyone smile!”
+
+That’s the Post Drop I used to send my letter to the Velras. They must have it singing advertisements now.
+
+As he continued on, a toilet flushed freakishly loudly.
+
+They have got to get that plumbing problem fixed.
+
+He speed walked, ignoring the feeling he had that people were probably noticing him and pointing, until someone shouted his name.
+
+“Alden! Mr. Alden Thorn!”
+
+He stopped and shifted to look to the side to find the woman who worked at the customer service desk smiling at him.
+
+“You’re him aren’t you? The one who planned Matadero Thanksgiving?”
+
+“That’s me.”
+
+“Do you need any help? I’m not supposed to leave the desk since I’m the only one here right now, but I could call someone.”
+
+“That would be great. I tried to bring The Nine-edged…General Esh-erdi’s flying vehicle inside with a bunch of packages on it, but it wouldn’t quite fit through the doors.”
+
+“We have a larger entrance for things like that! You could drive a bus through sideways if you wanted.”
+
+“Thanks. That would make things a lot faster. I’ll drop this off and then go back for the rest.”
+
+“I can also give you a NesiCard if you need one today!”
+
+So she remembers me.
+
+“I’ll grab one before I leave. Where’s the guy who’s usually here? Is he all right?”
+
+Normally, Alden wouldn’t have asked about the NesiCard man’s welfare. But given what had happened recently…
+
+“He’s fine,” she said. “Decided the customer service desk wasn’t for him.”
+
+Definitely for the best, thought Alden. That jerk was a sour welcome to Anesidora. He should have a job in some place where he doesn’t have to talk to people.
+
+When he reached teleshipping, he tried to pretend that the puddle of cranberry sauce he found on the floor in front of the drop-offs counter had nothing to do with him while he filled the counter with everything he’d brought. Since he’d been shipping his cat last time, he’d accompanied Victor through a whole security process, but he should just be able to leave the food.
+
+Where is the person I leave it with?
+
+As soon as he’d had the thought, that person stepped out of the back. Before his eyes turned to Alden, they fixed on the stack of coolers and the forest of bags.
+
+He looked very angry to see them there. “Listen,” he said, “I don’t know what restaurant you’re from, but this is too much! Teleportation services are a limited Anesidoran resource, and even though something stupid is going on at the cube, that doesn’t mean you can get away with—”
+
+“So this is where you work now!” Alden said, beaming at the NesiCard man’s familiar scowl. “I’m really glad you’re safe after everything that’s happened.”
+
+The NesiCard man’s face went slack.
+
+“I’m Alden. This is for Matadero. I’m going to go get the rest of it. There’s a lot.”
+
+“You…why is it you?”
+
+“I’ll be back later this evening with even more,” Alden said. “Happy Thanksgiving!”
+
+******
+
+******

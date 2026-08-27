@@ -1,0 +1,189 @@
+---
+id: 649c208f-896d-5431-9ae0-d8502b78d312
+page-type-slug: story-chapter-royal-road
+title: "Chapter 359 : Tears and Folds"
+slug: 0060-chapter-359-tears-and-folds
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 60
+ownLength: 2658
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3139183/chapter-359-tears-and-folds"
+royalRoadId: "3139183"
+---
+
+As we all read the description of this skill, we all seemed to have different conflicting emotions. Leon was angry, claiming that this was the most ridiculous and absurd skill he'd ever read in his life. Although I felt he would be singing a different tune if he could actually take it himself.
+
+Vee and I actually shared similar opinions about this skill, probably because our thought patterns were so in sync at times and because we shared the experience with [Dimension Magic]. [Personal Rift] seemed to be both too good and yet strangely somewhat underwhelming.
+
+"Isn't this just a slightly better [Pocket Space]?" Vee asked rhetorically.
+
+I couldn't help but share a similar opinion, and thus, I could only question how good this skill actually was. In fact, the disappointment was doubled for me as this seemed to include some elements from [Core Storage] as well. I already had both, so was this skill useless to me? That was when another intrusive thought crossed my mind.
+
+Is the real reason I got [Folded Geometry] to compensate me for [Personal Rift] being redundant?
+
+I sighed. Part of me didn't even want to spend the skill point to grab it now, considering rapidly dwindling skill points, but I felt like there had to be more, after all, look at how good [Elemental Shift] was!
+
+The cornerstone skill can't be bad, right!?
+
+In fact, if it wasn't because I had access to both [Pocket Space] and [Core Storage], I would have said that [Personal Rift] sounded too good for just a skill. Wasn't this encroaching on the territory of traits? I shook my head and bought the skill, as Vee would say: nothing ventured, nothing gained.
+
+<Skill [Personal Rift LV 1] obtained. Skill Points remaining: 11.>
+
+I winced seeing my points. Sure, I could convert some Legend Points, and I'd be gaining Riftmancer levels relatively rapidly, at least compared to Elementalist, since it was at such a low level.
+
+Speaking of which, I quickly adjusted my experience distribution back towards my class. Thankfully, it looked like Gramps was no longer insisting that I allocate at least half my experience to my race.
+
+New information flooded my mind about how to connect with my rift. It felt like it was beckoning me, waiting for me to link up. I instinctually activated the skill, attempting to tear open an aperture.
+
+<You must spend 1 Trait Point to bind a rift to yourself.>
+
+"What!?" I yelled. I felt like I wanted to vomit. This questionable skill had already taken a valuable skill point, and now it wanted a trait point too.
+
+"What!?" Vee screamed out in response. "Did something happen? Are you okay?"
+
+"Is it the mermen? Have they come back!?" Leon yelled out in response.
+
+"It wants me to spend a trait point to bind my rift!" I cried.
+
+"Oh? That sounds reasonable," Leon replied.
+
+"Reasonable!?" I hissed.
+
+"Syl, calm down, it's only one point, right?" Vee tried to reason.
+
+"Indeed, it appeared far too beneficial to be just a simple skill," Leon added.
+
+I still felt outraged, but even I had to admit that I had just been thinking the same thing. Reluctantly, I spent the point, which let out an ear-piercing crack in the vicinity, followed by the sound of something shattering.
+
+Vee and Leon seemed to panic for a moment until Sylbera calmed them down. Meanwhile, I felt the spatial rift binding to me, which felt more like [Core Storage] than [Pocket Space]. However, unlike my magnificent trait, the space I had available left a lot to be desired.
+
+"It's small," I grumbled.
+
+"I'm sure it will grow," Vee said reassuringly.
+
+"That's literally what it said. Can't you read?" Leon replied sarcastically.
+
+I gazed at the crab menacingly. He clearly couldn't understand my pain of losing two points in one go, only to open a space this small. I swallowed my rage and disappointment and finally took the opportunity to interact with this [Personal Rift].
+
+With a casual wave of a tentacle, I tore open the boundaries of the world and created an aperture. While [Rift Door] looked like a zipper, this looked like a wound in the fabric of space. Vee was staring at it with amazement while Leon was slowly backing away from it, as if he was afraid he'd be sucked into it.
+
+"Wow, I can't even read the coordinates of that," Vee said.
+
+I curiously looked at the rift, but the [Spatial Sense] portion of my [Soul Sense] trait had no issue getting a reading. I felt like this wasn't due to the fusion trait, but to the fact that I owned it.
+
+"In fact, even your coordinates are a bit jumbled. Does having a [Personal Rift] allow you to interfere with [Dimension Magic]?" Vee asked.
+
+"I'm not sure, but it sounds like it. I can see its coordinates, and my own are fine too."
+
+It was only then that I finally noticed my perception of my surroundings had changed. I took the time to investigate more thoroughly and found out that my understanding of coordinates and spatial phenomena seemed to be enhanced. At first, I thought this might have been from my rift, but then I realized this was probably the aptitudes gained from my Riftmancer class.
+
+With that realization, I began casting a few spells and noted that everything [Dimension Magic] was significantly improved. Vee was quick to join me in this endeavor and share in the insights, and seeing that we were going to dive into magic, Leon left us alone while grumbling.
+
+Coordinates were easier to change, and seemed far "stickier" after my tampering. There also appeared to be some minor improvements to the speed of my spell formations, which, considering I had a powerful slime core as my brain to do the calculations, was actually quite significant.
+
+Dimensional Mana was also significantly easier to weave and manipulate, and now I felt like I could finally tackle my idea of creating an aura. It also gave me some confidence in my previous theory about taking apart [Triangulate] and seeing if I could combine it with [Mapping].
+
+However, the biggest difference was in Mana efficiency. I estimated that every single spell had been discounted by at least half, if not more.
+
+Just in time for some extremely long-distance teleportations.
+
+Vee and I compared ourselves, and it seemed that my efficiency improvements succeeded even her own. I thought this was natural, as Vee appeared to be a dimensional mage rogue hybrid class, while I was a pure caster. But, where Vee had me beat was in speed and subtlety, even when I brought [Sub-Cores] into the mix.
+
+After that, we finally began testing out the new skills and traits. While it was the boring option, we tested out [Spatial Resistance] first. Not only did it make it harder to forcibly teleport someone, but even when successful, it added a burden to the cost, as if the target had significantly more dimensional weight. We were both relieved to find out that [Spatial Resistance] was selective, and we could whitelist each other from its interference, as otherwise it would be a massive waste of each other's Mana.
+
+Vee's guess was spot on that the trait also reduced damage from her [Rift Thread], although the final result still ended up with poor Pi being sliced in two.
+
+We then briefly tried out [Vector Sense], which we thought the ability to accurately measure things would be its most prominent benefit. Contrary to our initial impression, the actual strength of this new trait was the "relative motion" portion. The sense was almost like a form of future sight, as you could visibly see the trail an object or projectile would take. At this low skill level, you couldn't see much, barely a few meters, but at higher levels, you could probably see across the horizon.
+
+The obvious benefit of this was its use in conjunction with [Folded Geometry]. If you could see the path a projectile was traveling, you could fold the space between it to interfere with it. This led us to finally test the practical uses of folding space.
+
+Our initial impressions of these skills were high, as if you folded space around you, wouldn't you be invincible? However, after some practical testing, we discovered that it wasn't as infallible as we assumed.
+
+It seemed that our folds had a power limit, and if you exceeded it, they would break through. My limit was higher than Vee's, presumably a bonus from the fused version of the skill, but we couldn't discount the possibility that I was potentially gaining something from Riftmancer.
+
+The power limit also applied to our own attacks, but fortunately, it seemed to be far greater than when used defensively. I tried firing a significantly enhanced version of [Scald] through my own folded space, but it broke. However, a regular version of [Scald] could just pass through the fold, provided I was conservative on the distance traveled.
+
+This was an incredible finding for both of us, as we found out that small folds were far more robust. Yes, that might have sounded like the obvious logical conclusion, but this meant that you could defend yourself far better with small folds. After all, wouldn't a small displacement be enough to shrug off most attacks?
+
+In practice, this was especially useful for both Vee and me. Vee could shrink, so only needed to glance by to avoid them. As for me, my cores were tiny in comparison! Yes, this suited both of us quite nicely.
+
+"I wonder if there's an origami skill?" Vee speculated.
+
+I stared in confusion. "What skill?"
+
+"Uh… It's a paper-folding art," Vee answered.
+
+Hearing that, I pieced together what she was implying. If there was a skill to improve folding, could it contribute to folding space?
+
+Even so, I couldn't help shaking my head. Would someone really need a skill to fold paper?
+
+We spent almost an entire day playing around with folding space, to the point that we nearly missed dinner. That didn't leave enough time to try out [Personal Rift], but frankly, I wasn't in too much of a rush. I even slept like a log that night, not willing to spend an all-nighter on it.
+
+The next day, Vee and I continued our practice. It seemed like Vee was more interested in my new skill than even I was.
+
+She's probably weighing up whether she wants to try unlocking Riftmancer later. After all, she doesn't have [Core Storage].
+
+Our first tests were obviously with storage. The rift was just like my own trait in that it kept things as they entered, unlike [Pocket Space]. Immediately, this attracted Vee's attention as she couldn't keep things warm or fresh.
+
+I tried to store myself, but at its current size, it was too small to accommodate one of my normal slime bodies. I shaved off a few kilos of slime and eventually entered after freezing the slime network, Sylbera, and Sylvester outside with [Nitro Slime] during the duration.
+
+When I entered the rift, I was immediately surprised, as I had expected something similar to [Rift Door], but I was shockingly wrong. While in the rift, I could see a translucent rendition of the outside world, even though I had closed the wound in reality.
+
+I watched as Vee paced around the spot I vanished, likely trying her best to see if she could find me or not. I would have loved to try scaring her from a different angle, but with how limited my space was, I could only reopen the tear in the same spot I'd left it.
+
+Well, when I increase the level and get more space, I can at least see this being useful.
+
+I tore open space again and exited to Vee, greeting me.
+
+"If not for the fact I saw where you entered, I think I would be unable to find you," Vee informed me.
+
+"That's good to know. I saw you walking around, so it could be good for emergency escapes," I replied.
+
+This astonished Vee, as just like me, she was expecting it to behave like the [Rift Door] spell. Naturally, she asked to go inside to witness it herself, and I moved out of the way of the still-open tear. Vee shrank down and hopped inside; however, after waiting a while, she still wasn't coming out.
+
+Growing concerned, I peeked inside, only to find Vee partially frozen inside, almost as if she were trapped in the [Stasis] spell. I jumped inside and tried interacting with her, only to find I couldn't do anything to her. I couldn't heal her, damage her, or even reposition her.
+
+I closed the aperture and saw that Vee remained motionless. I quickly reopened a new one directly on her and sent her out into the world, where she sprang to life.
+
+"Wait, why am I outside? Can I not enter?" Vee asked, looking around curiously.
+
+I stepped back and explained the situation, prompting Vee to hiss. It turns out that she wasn't even aware of what I had tried to do while she was frozen; this was potentially far more terrifying than [Stasis].
+
+"It seems I'm the only one allowed to move inside there."
+
+"Does that mean it's an invincible cage?" Vee questioned.
+
+"You jumped into it willingly. I'm not sure if it has the same effect if someone tries to resist it."
+
+"Let's try," Vee suggested.
+
+Vee stood still for our test, but her mindset was focused on resisting the rift. I closed the aperture once more and tore a new one on top of her. Vee's body blurred for a moment as if the rift was trying to suck her in, and she then flickered away and appeared a few feet away from it.
+
+"That actually hurt me," Vee replied.
+
+I winced, quickly cast [Vital Surge] on her, and offered her a pink slime bath, which she rejected.
+
+"Don't worry, it wasn't much damage, but I could feel it trying to force me inside. Thankfully, I could resist it without too much effort, although if I stayed longer, I might have taken more damage."
+
+I nodded to her explanation. The question that remained was whether ordinary enemies could resist it? Since Leon was our only non-dimensional ally, we coerced him into volunteering for the experiment. However, despite lacking the appropriate resistance, he could still walk away from the aperture after taking some damage.
+
+I healed him as he left, grumbling the entire time for involving him in something potentially hazardous.
+
+"Well, Leon is a relatively high level, so maybe that's why it failed?" Vee suggested.
+
+I shrugged. "Or it needs to be higher than the first skill level."
+
+We ran a few more tests and found that I still had access to [Personal Rift] even when inside Vee's [Rift Door]. The description clearly wasn't joking when it said it was anchored to me, as it looked like nothing could tear it away.
+
+I curiously asked Sylbera to try open the rift, only to be met with a frightening message that made me want to vomit blood.
+
+<You must spend 1 Trait Point to bind a rift to yourself.>
+
+"I have to buy a rift for each [Sub-Core]!?"
+
+Even Vee couldn't stop herself from cringing at this discovery. At the moment, the skill hadn't exactly proved its worth, and now it was demanding even more resources!
+
+Naturally, I refused the purchase. There was no reason for my [Sub-Cores] to have their own rifts when we already had a perfectly good shared [Core Storage]. In fact, our storage being shared was a boon, and I suspected that if Sylbera had her own rift, we couldn't transfer items between them.
+
+After letting out a deep sigh, I couldn't help but think that either I was missing something crucial about this new ability, or that [Folded Geometry] was my real reward.

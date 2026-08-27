@@ -1,0 +1,61 @@
+---
+id: fc7ad80e-e97e-53d6-9ac0-1f3cbf813ca7
+page-type-slug: story-chapter-royal-road
+title: "Bob Mass Release."
+slug: 0114-bob-mass-release
+partOf: the-calamitous-bob-stubbed
+position: 114
+ownLength: 210
+unit: words
+ownProgress: 210
+publishedAt: 2025-01-29
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2035903/bob-mass-release"
+royalRoadId: "2035903"
+markedReadAt: "2026-06-29T21:18:42.571Z"
+---
+
+Hello everyone! Big day here for me. The very first Bob Audible is out courtesy of Soundbooth. Please find a free sample Here
+
+If you are interested, or if you just want to help, here are the links for everyone. I really want this one to work because Soundbooth ntrusted me with this one and their work is, imo, really, really good.
+
+It can be found here for the Yanks
+
+Here for the Brits
+
+Here for the Canucks
+
+Sie es hier finden
+
+Par ici les amis
+
+Here for the Aussies
+
+Bob 1 is on KU as was foretold. If you're on KU yourself you can always grab it if you want a somewhat typo free experience.
+
+US link
+
+LongbowEnjoyers
+
+Maple syrup and warcrimes link
+
+Das Link, jaja
+
+Chers compatriotes
+
+ǝʇɐɯ sɹǝǝɥƆ
+
+To add, book 9, Casus Belle, is out! As usual, enjoy the original artwork as tribute. It will cover the Glastian arc and the next two arcs as well. Seriously that artwork rocks.
+
+US link
+
+Tea Drinker Link
+
+Kartoffelink
+
+Lien
+
+Dreadhonk
+
+ǝʎɐ ʞuı̣ꓶ
+
+Ok that's it. Sorry for spamming you about this but as I mentioned, it's important to me so I will do my best to promote my work and the work of Soundbooth. Have a great week.

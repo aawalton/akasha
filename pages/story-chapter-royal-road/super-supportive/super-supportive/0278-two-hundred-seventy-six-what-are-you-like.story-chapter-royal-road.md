@@ -1,0 +1,241 @@
+---
+id: 69faa0ff-0f01-5224-a297-f998bc7dcbc1
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-SIX: What are you like?"
+slug: 0278-two-hundred-seventy-six-what-are-you-like
+partOf: super-supportive
+position: 278
+ownLength: 3492
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3156302/two-hundred-seventy-six-what-are-you-like"
+royalRoadId: "3156302"
+---
+
+276
+
+******
+
+“Do you understand how wonderful this is to me? How much everything you said yesterday means?”
+
+That had been Stuart’s question this morning, and it echoed in Alden’s own head now as they explored the siblinghold’s supply library together. Soft golden light shone around them, and massive tree roots pierced through the ceiling. There were endless aisles of shelving, cabinetry, barrels, stacks, and racks. All filled with magical tools and ingredients.
+
+The huge storeroom looked the same as the last time he’d visited, but the way he felt about being here was different. Before, he’d been an admirer passing through. Now, he was being encouraged to touch, take, and ask whatever questions he wanted.
+
+Though his most common question so far was simply, “What’s that?” And the answer was almost always that it was something that could be used to encourage reality to bend to a wizard’s authority in some specific way.
+
+They’d been down here for more than an hour, and Alden was still so overhyped that he hardly recognized himself. He was struggling to act like he thought he should.
+
+I’m mature. I’m organized. I’m here to learn and find things I might need for my future. I’m here with a person who I plan to fight beside one day. One day soon. Demons coming up soon, Alden. Within the year, it sounds like. That should be a sobering thought. You can’t just stay stupidly happy forever.
+
+He felt himself light up at the sight of a collection of crystal cubes on top of a pile of boxes. The cubes were clacking together as they slid around, slowly rearranging themselves in their stack. “What’s that?”
+
+“It’s a study device for people who want to learn how to cause random motion with their spells or enchantments,” Stuart said, stopping in front of it.
+
+His fingers rubbed the small gray bell he wore around his neck. It was silent no matter how much he touched it, but he’d done something to it that would make it ring if the elevator approached this floor. A warning for them to stop being obvious about Alden being a wizard. They were also wearing the same rings Stuart had carried with him on the Here-to-There that would obscure their conversation from anyone else.
+
+“I don’t understand it very well.” Stuart watched the clacking cubes. “But do you want to try it? The principles behind it are interesting.”
+
+“No. That’s all right.”
+
+Alden beamed at the offer anyway. His stupid happiness was too powerful to resist.
+
+It wasn’t only that he was wandering around looking at magic toys in a treasure cave. Yes, Stuart kept handing him things that must have been worth the price of mansions on Earth, and that was wild. But it was the way Stuart did it that was the best part.
+
+He acted like he genuinely thought Alden might be able to find a worthy use for any of it. Like it would be fine if Alden said he wanted to spend a while trying to learn from a study device that even Stuart didn’t understand.
+
+Of course Stuart wasn’t the kind of person who’d ever ridicule him for being the equivalent of a wizard kindergartner with inferior vocal cords and a different type of brain. But being treated like a peer, when it came to this, made Alden realize he hadn’t been expecting very much respect. Certainly not this amount of it.
+
+He’d hoped Stuart would help him learn more spells. And that he’d explain how to improve on the ones Alden already knew. He’d hoped Stuart would be excited with him about what he could do.
+
+But he hadn’t dared to hope that Stuart would take what he could do as seriously as he himself did. So far, though, the only person pointing out Alden’s inadequacies as a wizard had been Alden. And he’d had to stop because the few slightly self-diminishing comments he’d made had bounced off Stuart like they’d hit a wall.
+
+“Don’t give me anything too expensive,” had been met with, “What a foolish thing to say about your education.”
+
+“I’m not sure I’ll be good at this kind of thing,” had received, “You’ll be more sure after you try it.”
+
+And, “I’d like to understand the basics better, but it’s probably a waste of time for someone in my position,” had gotten him, “You aim for a position at my side on the path of highest onus.”
+
+Alden took that to mean that it was an insult to either knighthood, Stuart, or both for him to not understand why the spells he was casting worked. That suited him fine. More than fine. It was what he’d wanted, he’d just…expected something more pragmatic, and frankly less, than them both moving forward with the assumption that he would be learning to be a proper wizard regardless of how far behind he was.
+
+Stuart had followed up those words about Alden’s position with the gift of an ingredient pouch. It was a handleless rectangular bag that looked and felt like it was made of damp black leaves. It was about the same size as the sleeve that held his laptop, but unlike his laptop sleeve, he could stick objects as large as baseballs in it without there being any noticeable lump.
+
+Which made him positive it was too expensive. For the old him, who said foolish things about his education. The new him accepted it graciously.
+
+The pouch had more than a dozen things hidden in its waterproof, odor-free, self-sealing pockets. And now Stuart was leading him slowly toward a shoulder-high cabinet that looked like an extra wide library card catalog.
+
+The organizational system down here in the supply library was ninety percent mysterious to Alden, but the ten percent of it he did understand was that ingredients with similar properties were often stored together. They’d gotten most of the items in his new pouch from cabinets that looked similar to this one. They’d almost all had different things sitting on top of them that were loosely related to what they held inside. This cabinet supported several cylinders full of goo that reminded Alden of lava lamps, though Stuart said they were a kind of timer.
+
+The Artonan opened one of the square drawers in the middle, and it made the hiss sound that Alden had come to associate with organic ingredients that were being preserved by the cabinets. Stuart slipped on a glove he’d gotten from a different drawer and reached in to remove a fuzzy brown bud slightly smaller than Alden’s palm.
+
+“This is the pod of a wild nyip plant. They only produce one of these every half century. It’s easy enough to keep them alive in greenhouses, but they’re a species that hasn’t thrived in their natural habitat for more than a thousand years, so the pods of wild ones are harder to acquire. The spells and potions that benefit from nyip pod as an ingredient utilize it because ancient wizards associated it with…do you want to guess?”
+
+Alden wanted to guess fertility or death because it seemed like every ingredient that had been explained to him so far had at some point been associated with one or both of those.
+
+But Stuart was helping him build a collection of training ingredients that he would use to practice sensing what different spell-relevant properties felt like. And he’d already been given a fruit that was used in aphrodisiacs and a worm that was supposed to feel like decomposition. So whatever Stuart thought he’d be able to sense from this one must be something else.
+
+He glanced up at the goo timers. Seed pods every fifty years.
+
+“Something to do with time?”
+
+His teacher stayed silent, nodding like he expected more.
+
+“…long periods of time? Waiting for things to happen?”
+
+“Yes!” Stuart said cheerfully. “Patience.”
+
+“Patience?” Alden leaned a little closer to the pod, trying not to breathe on it. “I’m supposed to be able to sense that it has patient qualities? As if that’s an element? Like Life, Ground, Sky…Patience?”
+
+“It’s not the same level of elemental alignment as those. You’ll be able to tell if something’s associated with Life or Ground after a minimal amount of practice, once you actually try.” Stuart had seemed confused that Alden didn’t already know how to do that. “What you’ll be learning by sensing this are more nuanced qualities of Life. If you feel this and then feel the worm…they’re both Life. But they feel very different. You’ll be able to tell after a short while.”
+
+Will I really?
+
+“I’ve wanted to know if things were closely aligned with Ground before or not. For my trait. I’ve never put any effort into sensing it for some reason.”
+
+“Thegund and your <<self-protection>> through <<quiescence>> may have made doing it less natural than it should be. Cultivating sensitivity in a corrupted environment wouldn’t be anyone’s first inclination.”
+
+Alden wondered if he should be taking notes. He didn’t feel like he needed to. His brain seemed to be soaking up all this information like it was water for a dry sponge.
+
+“And all wizards can do this?” he asked, just to confirm it for himself one more time. He didn’t want to get his hopes up too high and then find out that he lacked the knack for it.
+
+“To greater and lesser degrees,” said Stuart. He looked down at the pod on his gloved hand. “Not everyone can tell a seed pod from a dead worm, but I don’t think it’s impossible for you.”
+
+“How do you know?”
+
+“During our practice, you noticed one time that I was preparing to greet you before I actually did.”
+
+“On the learning cushions?” Alden thought about it. They’d exchanged quite a few authority greetings. “I don’t think so.”
+
+“You did.” Stuart smiled at him. “I’m extremely sensitive, and I was paying very close attention to you. You were also paying close attention to me, so it’s not shocking that you’d notice. But some wizards wouldn’t have. It’s possible that you only noticed I was preparing to do something and you got got excited because you assumed I was about to show you a new greeting, but that’s still sensitive enough, I think, to detect the most prominent qualities of everything I’m giving you to train yourself with.”
+
+“I really don’t remember that.”
+
+“It happened fast, and it didn’t occur to me that I should slow down and make you aware of the difference between me preparing to approach your spot and me actually doing so. I’ll show you next time.” Stuart took a bottle from his pocket, dropped the pod in, and closed the lid. When he opened it a second later, the pod emerged looking like it was covered in a protective layer of cobweb.
+
+Alden knew this routine, and he accepted it, tucking it into the ingredient pouch.
+
+“Do you want more of them?” Stuart asked, as he had with every single ingredient, no matter how rare.
+
+“I appreciate the offer,” Alden said. “But I’ve got to ask if you really think there’s any chance I might find a use for one of these other than in my sensitivity training kit.”
+
+Stuart shut the drawer. “Maybe the concept of patience holds a special appeal for you, and you wish to contemplate a pod in a destructive fashion. Or you want to try to create a version of your memory of light spell that lasts for longer by <<priming>> the environment with one of these first.”
+
+“I can do that?”
+
+“Yes. I doubt you’d benefit from it much. You’d have to study to identify an appropriate priming spell, then you’d have to learn that spell, and by the time you did, you’d be strong enough to maintain the light spell for longer anyway. But if you want to practice those techniques so that you can understand them, you should. You…”
+
+Alden was having a quick fantasy about filling his bedroom with nyip pods just so that he could use his flashlight spell for as long as he wanted, so it took him a second to notice that Stuart had trailed off.
+
+“What’s wrong?”
+
+Stuart had gone full stare mode.
+
+“Nothing’s wrong,” he said finally. “I was realizing something about us.”
+
+“Both of us?”
+
+“You aren’t actually that uncomfortable with me giving you things you can’t obtain for yourself. And you weren’t before either?” Stuart’s words hovered somewhere between question and statement. “Or you were, but it wasn’t as it seemed. You didn’t like it because you felt guilty?”
+
+Alden’s face must have answered for him.
+
+“You felt guilty every time I did anything for you a friend should do,” said Stuart, sounding surer, “because you were keeping your true self hidden from me.”
+
+There was no judgment in his voice, but he had done an impressive job of finding what was left of that guilt and shining a laser beam on it.
+
+“We got close so quickly,” Alden said. “There was a time when keeping the secret was acceptable, and then it became…wrong. For a while now, it’s felt really wrong.”
+
+He had to fight the urge to say things that were just well-dressed excuses.
+
+“You’re right. Me feeling guilty made me act strange sometimes. And me trying to hide from you made me act shitty. When you showed me the patient creatures, the things I wanted to say to you then…or when I was writing in the journal about towers of confidence…there were a lot of times lately. I’ve missed a lot of opportunities to be the kind of friend you deserve.”
+
+Instead of being angry, Stuart looked pleased. “Come!” he said, trotting off toward whatever their next destination was. “There’s so much more.”
+
+Alden watched him go, baffled.
+
+Why had his admission that he’d been a guilty, shitty friend at some key moments made the guy happy? Alden might be completely forgiven, but shouldn’t the response have been more neutral?
+
+He’s getting away, he realized, as Stuart’s head disappeared behind a floating object that looked like a miniature stained glass blimp. He hurried to catch up.
+
+“What are you like?” Stuart asked as soon as Alden reached him.
+
+“What am I like?”
+
+Stuart motioned for him to stand closer, then began tapping on the front of a piece of dark metal furniture the size of a truck. He still had a warmth in his voice that Alden couldn’t understand. “Without so much obscuring you, I mean. If you were not afraid, guilty, and hiding, what would you have said to me about the patient creatures? When we stood beside each other during Leeter-zis’s ritual, what were you thinking? What questions did you have about Maker of Narrow Ways that you didn’t ask for fear of revealing how well you understood magic?”
+
+The furniture was in motion, the front unfolding into a hundred pieces and expanding outward, the sides lifting up like wings. The process was loud enough for Stuart to increase his volume.
+
+“If I had known you were a wizard when I was showing you the spell that created a way for the keda bean, we would have had such a different day! You could have stood beside me, and I could have taught you how to help me build up to the casting. Maybe you could have stayed with me through all of it if we were very careful about not straining your authority. So you could feel the spell with me!”
+
+There was a roof forming over their heads, and walls were unfolding around them. They had to step up onto a panel that had slid across the floor. They were being eaten by a piece of furniture. That ought to have been the most surprising thing going on.
+
+But here Stuart was, being like this all of a sudden.
+
+“I’d have loved that,” said Alden. “I’d have loved to cast that spell with you.”
+
+“It would take half the daylight I think. And you don’t have the background to understand it completely yet, but—”
+
+“I’d have enjoyed it even if it took a whole day. I wanted to watch closer while you were doing it. I wanted to really watch.”
+
+“You did?”
+
+“And I wanted to know how to cast that spell you use to bury beetles for Other Alden. I wanted you to show me how to heat the rock that we used to cook food. I wanted to tell you how worried I was that Yenu-pezth would take one look at my mind and know, and to ask your opinion about what kind of patient creature I could be, and to tell you so many times that you weren’t talking to someone who couldn’t hear you. You weren’t ever explaining what you wanted and what you’d be sacrificing to someone who didn’t really understand.”
+
+The walls were almost complete around them. Only a sliver of light was left. The way this thing moved reminded Alden of origami.
+
+“When we made paper flyers together, I wanted to tell you that I visualize my skill like that when I’m figuring new things out,” he said. “As folded paper that can move in all these different ways. I started doing it to break the habit of thinking of it as a more limited set of on-and-off switches. I wanted you to know that about me. But I never said it.”
+
+“I’m glad you’ll say more from now on,” Stuart said into the darkness.
+
+A couple of seconds later, the walls began to glow white. The two of them were surrounded by rings, necklaces, and bracelets that ranged from stunning, ornate pieces carved to look like flowers to ugly lumps of bug-eaten wood.
+
+“This is one of our larger jewelry boxes.” Stuart waved a hand at everything around them. “It has some wands in it, too. And belts. You saw a few of these things when I was serving as votary for Emban’s squad. Were you curious about them?”
+
+What am I like?
+
+“I wasn’t just curious,” said Alden, looking around. “I wanted you to show me how to use every single one.”
+
+“I will then. Will you cast it with me? Even if it takes half a day?”
+
+“The spell that sends the keda bean on a trip? Yes. I have no idea how to cast something with someone else, but we can fire the bean through things anytime you want.”
+
+“That will be very nice.” Stuart started scanning the walls. “Help me look for ten-ring sets. There should be one in here. You need it.”
+
+“I do? Ten seems like a lot.”
+
+Stuart looked over his shoulder.
+
+“I’m not saying that out of guilt, and I’m not disrespecting my position. Or being foolish about my education. I just meant it sounds like a lot. I can’t really picture myself wearing a ring on every single finger.”
+
+“It’s a set that provides protection,” said Stuart. “For your hands and lower arms.”
+
+“Armor?”
+
+“Don’t you need it? You’re primarily a hand caster. Of course there will be healers for you if you’re injured, but serious injuries or healing errors could make you lose the ability to cast most of your spells for days or weeks. Imagine how you would feel if you lost a finger in the final weeks before your binding.”
+
+The final weeks before binding. The best time for casting since he’d have so much free authority.
+
+What if the finger couldn’t ever be regrown?
+
+“Ten rings sounds like exactly the right number,” said Alden, squatting down to check the lowest shelves. “Unless they come in twenty ring sets. Do they protect from crushing as well as severing? What about burns? Acid? Keep loading them on me. Stack them up until they form a gauntlet.”
+
+“Ten should be enough.”
+
+“I’m going to be a proper wizard. I’ve seen how many some of you wear. Don’t limit my ring count.”
+
+He only paused his search for a moment as a worry flitted past. Something about calling himself a proper wizard, or something about openly wearing hand-protecting magic rings, must have called it back from where it had been hiding. “What if you’re the only one who thinks I should have…all of this?”
+
+The ingredients, the rings, the knowledge. His auriad.
+
+“I won’t be.” Stuart was still rummaging.
+
+“Kibby also thinks I should have these things, so that’s true.”
+
+“It won’t only be me and her.”
+
+Alden wasn’t sure Stuart was right, but he left the question behind by reminding himself that he’d already accepted the consequences of it having a bad answer.
+
+“Will you make me a list of spells to learn?” he asked instead. “For what’s ahead? If there are emergency spells I need to know or tiny gaps in your own knowledge I could make up for…something like that.”
+
+“We’ll make a list like that together,” Stuart said. “We have much to do.”
+
+******

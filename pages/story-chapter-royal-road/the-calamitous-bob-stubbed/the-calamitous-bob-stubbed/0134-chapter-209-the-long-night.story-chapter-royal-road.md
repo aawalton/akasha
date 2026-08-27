@@ -1,0 +1,547 @@
+---
+id: 62aa5297-9853-5338-933f-5b37078b1a39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 209: The Long Night"
+slug: 0134-chapter-209-the-long-night
+partOf: the-calamitous-bob-stubbed
+position: 134
+ownLength: 6683
+unit: words
+ownProgress: 6683
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2335623/chapter-209-the-long-night"
+royalRoadId: "2335623"
+markedReadAt: "2026-06-29T21:20:34.609Z"
+---
+
+Viv was still chugging regenerative potions by the time Stormrider was done with her little bath. The adult dragon shook off purifying water in great gouts like the universe’s most annoying dog, minus the fur thankfully. Meadow sniffed in her direction, to which Stormrider replied with a very loud hiss.
+
+Romance was definitely not in the air.
+
+The group of enlightened saurians—plus Viv—reconvened near the cave system’s entrance on account of being so freaking large no room could accommodate all of them. Solfis remained quiet at a distance, his mood contemplative. That or he was in diagnostic mode.
+
+Stormrider broke the metaphorical silence by aiming her thoughts at Viv. While Arthur had a bubbly viciousness to her, Storm Rider was harsh, haughty, now that Viv had a moment to assess her. It tasted of charged air and the stark presence of nearby peaks, jutting from the clouds like old teeth. It also lacked a certain cohesion, which made grasping the concepts more difficult.
+
+I was hasty in how I treated you.
+
+The Old One would not extend his trust, or ask us to cooperate with one unworthy to stand with us.
+
+You are still not a dragon.
+
+Her pupils narrowed. Viv held the gaze, used to monstrously powerful creatures taking exception to her manners.
+
+I still disapprove of the young one allowing you on her back.
+
+Although I cannot deny you are a mighty pair.
+
+Such cooperation debases us. It is unnatural.
+
+You are human. Your kind is wingless and pathetic.
+
+Such spectacle roots unworthy ideas in the mind of both our people.
+
+Arthur hissed as well. She was truly fearless.
+
+Speak for yourself, idiot!
+
+My cave is warm and safe, and filled with treasure.
+
+Minions toil for my pleasure.
+
+Mother and I, we are strong!
+
+Stormrider reared back in outrage.
+
+This thing is not your genitor!
+
+Arthur hissed back a challenge. She was much smaller but that was the thing. She was always smaller, but her magic was insane for her age.
+
+“Alright, enough!” Viv interrupted, then she sent the same message with her mind.
+
+Enough.
+
+You have no say in what we do, She-Who-Rides-The-Storm’s-Darkest-Clouds.
+
+You are not our kin. You are not our leader.
+
+We do not recognize you.
+
+We all follow the orders of Judgement.
+
+That is all you can demand of us.
+
+The large dragoness revealed knife-sized teeth in what could charitably be called a smile.
+
+For now.
+
+Many of our kin will come from the mountains and the islands and the forests at the Old One’s behest.
+
+During the next conclave, many will protest your behavior.
+
+The conclaves can be very persuasive.
+
+Arthur huffed with amusement.
+
+The next conclave, so in fifty years?
+
+I will be fine.
+
+Now leave us alone!
+
+Viv continued with what she hoped was a calming voice.
+
+This isn’t relevant to our current predicament.
+
+Our task is clear.
+
+We need to stop the horde first before finding who sent it.
+
+If you are healed, I suggest we depart.
+
+The adult dragoness gave Viv another measuring look. There was a certain tension in the air, and Viv got the feeling she was about to be told to fuck off. Meadow did something surprising, however. With a single step, the large green male shuffled closer to Viv, his aloof presence as stable as a mountain. This seemed to tilt Stormrider to the side of courtesy.
+
+Very well.
+
+Although I am loath to be seen helping humans, spreading undeath is even less desirable.
+
+I will be patient.
+
+We should find the horde first, to assess how strong and numerous they are.
+
+Viv shook her head.
+
+I have already done this, however, we need to check their new speed.
+
+I want to know when they arrive.
+
+The dragoness huffed in what Viv assumed was assent. Solfis stood up as if he had followed their conversation, causing Meadow to sigh.
+
+He is very heavy.
+
+“Hey, thanks big guy. You’re a great dragon.”
+
+***
+
+The horde was still on course, but it was now more nebulous than ever which would mess with Sahin’s plans. Viv made notes, then calculated their approximate speed by staying on top of them for around ten minutes. Sometimes, groups of revenants gathered in strange formations, lying on the ground and possibly destroying themselves to create strange flesh sigils that burnt black in Viv’s eyesight. She believed those were emergency relays from the construction. It felt like mage work: cold and calculated.
+
+There were still necrarchs moving, and she was in no hurry to engage them. Her chest still hurt from the blast, and she’d lost enough blood for it to be a concern. Potions and stats  could only carry her so far. She needed some real rest this time.
+
+“We should head back.”
+
+//Acknowledged.
+
+The dragons flew in loose formation. As they approached the end of the clouds and the human lands beyond, they were joined by two more; one barely as large as Arthur. Most of them veered south before they could land before Sinur’s Gate anyway. Stormrider sent one last parting thought Viv’s way.
+
+There are caves there that will offer us haven.
+
+And space.
+
+We are only on your side because of what we are against.
+
+We are not allies.
+
+… what are you doing?
+
+Contrary to the older dragon’s expectations, Meadow and Gale were also heading towards the humans. It was Gale who replied with a hint of apologetic shame.
+
+Fish sauce.
+
+The large green one displayed Solfis still held between massive claws.
+
+I will return this one.
+
+Also, fish sauce.
+
+They left the other dragons confused and quite possibly intrigued. Viv was delighted to see that Arthur’s gastronomical offensive on the dragon’s unprepared taste buds was already yielding dividends. Her daughter was truly a devious strategist. How could someone who had fed all their lives on raw meat resist the sweet and tangy burst of flavor from this precious liquid? The slightly spicy aftertaste? Not like any sort of food could ever get spicy enough for creatures that spat napalm.
+
+It was the perfect plan and Viv was all for it.
+
+***
+
+Viv made for her room, her feet heavy with exhaustion. It was a sign she really needed some sleep. Sahin kept pace with her at a respectful distance, the last in a long line of friends and allies telling her she couldn’t allow herself to die.
+
+Viv pretended she was completely fine. One thing about walking on open ground now was that there were always a lot of eyes on her, so she couldn’t show any form of weakness. Except complaining. That was allowed.
+
+“The hadals report something similar, Your Majesty. Irao went there himself. That will be problematic.”
+
+“More than a little, yeah.”
+
+According to most calculations, the undead horde would make contact a little past local midnight the day after. That meant fighting in near complete darkness since the deadlands were always covered in clouds..
+
+“Fortunately, we have prepared for this eventuality. We have an abundance of torches and magical lights ready. Unfortunately, no amount of those can pierce through a shroud of smoke and darkness. Our soldiers will not be fighting at their best.”
+
+“Can we have some back ranks hold lights at the end of their spears instead of the usual tip? I know the shafts allow for different sorts of ends.”
+
+Sahin tilted his head to the side.
+
+“There will not be enough time to forge them in sufficient amounts, however, there is another way. We can simply attach mining lanterns to spear shafts with some twine. I will make the request immediately.”
+
+“Please do.”
+
+She entered her room and immediately froze. There was a presence here. Dark mana.
+
+It was familiar.
+
+“Come on out,” she warned.
+
+Three youngish hadals sheepishly emerged from behind her dresser.
+
+“What the fuck are you doing here?”
+
+“Train.”
+
+“Train.”
+
+“Rails?”
+
+“Get OUT!” Viv screamed at them.
+
+The little shits scampered off through the window, which Viv locked behind with a huff of annoyance. That would teach her to keep the bedroom ventilated. This was going to get annoying really fast.
+
+Viv also wanted to have trains so that she could stop relying so much on the very limited mage population available to her. Portals were hungry hogs. She didn’t mind other nations spending their precious mana resources on them, but she didn’t think the caster population would accept becoming glorified door openers. Trains were where it’s at, because they were the most efficient way of carrying a shit ton of stuff over great distances on land. Trains and strategically placed portals. The issue was that even mana and skills couldn’t make quick production a thing. They needed more tools, including measuring tools, and her perfect memory couldn’t scrounge up hints of renaissance and early industrialization technologies. She had to be patient for now.
+
+In ten years though… There was so much she could do with enough time. Floating platforms using gravitite, though it would be hard to find much as far away from Helock as they were. Hell, she could create a glass tube, put a portal at both ends, create a vacuum inside with annihilation mana, drop a ten kilograms rod of enchanted steel inside and then wait a year doing something else so it could slowly accelerate, then return and switch the bottom portal destination to, say, the air over the capital of Baran and drop said rod on top of the palace at ninety nine percent of the speed of light, thus causing a massive thermonuclear explosion. As her online friend Gevaudan would say, parry this you fucking casuals.
+
+There was so much to do that wasn’t fucking physics up the arse for some cheesy strategy. Agriculture here was helped by the gods and skills, but people were still using a three-field system which allowed the field to lay fallow for one year. She knew of a four-year system thanks to school, and although Nyil didn’t have the necessary turnips, she was pretty sure they had something equivalent. Some of her people were already experimenting with crops, just as they were experimenting with plows and measuring tools and tempering techniques because they knew through her that improvements were possible. All they had to do was find them.
+
+Time was on her side but it was more than that. Because she was the ruler and she could decide how to allocate resources, she allocated some of them to science and experiments, not as some hare-brained distraction and a luxury but as an actual way of improving life. The previous outlanders had brought change through highly specific improvement they were familiar with. She brought change by altering the mindset of her subjects, by teaching them the basics of experimentation, and then providing financial incentives. It wasn’t up to her to transform Nyil with science. It was up to them to adopt the methods she taught, and then bring the changes themselves.
+
+Hell, maybe they’d make steam-powered super computers. And wouldn’t that be cool.
+
+But first she had to protect them, which meant going to sleep now.
+
+***
+
+The dining hall was deserted. All those with enough rank to populate its august seats were now out there running last-minute drills or double-checking enchantments. Sidjin had specifically promised to flay anyone who woke her up early, so Viv had gotten a full night. It was a testament to her stupid vitality score that it had only taken her one night to recover from serious internal bleeding.
+
+Sitting alone at the end of this long table with cooks bringing her some tasty dishes gave her a feeling of fanciness that could only be ruined by a massive golem opening the nearby window for a proper conversation.
+
+//Your Majesty.
+
+“Good morning to you. What’s up?”
+
+//I have spent significant time searching my database for a voice matching the one relayed by the golem.
+
+//However, and despite the entity’s assurance that we would have enough to figure ‘her’ identity out, I have not yet succeeded in this task.
+
+“Well, what do we know?” Viv asked, sipping on sweetened kava.
+
+//The entity is most likely inhuman.
+
+“Agreed on that. No one alive except another black elemental would be able to move that much black mana.”
+
+//The entity is female.
+
+//The entity’s pronunciation hints at northern Harrakan origins.
+
+//The entity’s pronunciation shows a noble descent.
+
+//The entity’s wording when it comes to imperial loyalty shows training in governance.
+
+“She knows you.”
+
+//Unfortunately, I was very famous at the time of the fall.
+
+The golem marked a pause here, reminding her that he was a Big Deal.
+
+“So we’re dealing with a noblewoman of northern descent, trained in Imperial governance and possibly versed in magic. Surely that narrows it down quite a bit, yeah?”
+
+//No.
+
+//Although some regions and some areas of the empire allocated roles to specific genders, female nobles were encouraged to join the Imperial administration.
+
+//It was seen as a prestigious role given the difficulty of the entrance examination.
+
+//Therefore, trained northern noblewomen with a knowledge of the arcane were numerous.
+
+“Oh, smart of them to use everyone to the best of their abilities.”
+
+//I was led to understand that it was done for proper bloodline mixings.
+
+//Imperial positions allowed eligible young females to encounter a wide variety of eligible males, also of good breeding, from various parts of the empire.
+
+//Or so Irlefen told me.
+
+“What a romantic.”
+
+//Sarcasm against Father detected.
+
+//Engaging default answer.
+
+//Default answer denied due to offender’s rank.
+
+//Appropriate answer found.
+
+//Delivering now.
+
+//Haha.
+
+“You could have just told me to piss off. Anyway, ok, so there are many women who fit the bill but that’s not all. Do you know if there were any elemental archmage of the black candidates among their ranks at the time?”
+
+//As I already told you before, anyone with such a skewed distribution from birth would have died.
+
+“Then we’re dealing with someone who wasn’t on the verge of transforming, either someone who was altered by the catastrophe, someone who could turn into a lich, or a very talented necromancer with a knowledge of golemics. We’re not looking for the average court animal, but someone incredibly focused with the will to remain mostly sane throughout the years. Someone of incredible mental fortitude. If we can’t proceed by elimination, then let’s make some assumptions. Who would be the most strong-willed individual capable of the feat you’ve seen, who was also a woman and possibly focused on the arcane?
+
+//The most likely answer would be…
+
+The golem hesitated then, which gave Viv a sense of dread. Solfis never hesitated.
+
+//The Empress.
+
+//Ilarea the Second, a powerful state woman and archmage.
+
+//She was young and with child when the disaster hit.
+
+“Fuck.”
+
+The empress.
+
+Was she tall as hell like her husband? More importantly…
+
+“Solfis.”
+
+//Yes.
+
+“Yes, as in you anticipated my question?”
+
+//Yes, I would have to obey her if she gave me a direct order.
+
+//Depending on her nature.
+
+“So if she’s somehow turned part elemental…”
+
+//Yes.
+
+That was unfortunate seeing as Solfis was one of Viv’s only allies capable of surviving the mana concentration around the epicenter, especially if that mana concentration had increased. If her enemy could take control of Solfis though…
+
+Solfis was designed to kill entities like her. She was certain she couldn’t beat him in single combat. And he was so damn fast too…
+
+“It’s alright. We need to defeat the horde first anyway, so let’s focus on that.”
+
+***
+
+It was the fateful day before the fateful night, and everyone had been given the afternoon to relax and recover. Good food, fruits, klod and company flooded the plain before Sinur’s Gate in preparation for the long battle to come. Regiments scattered to mingle with friends and strangers under the loose supervision of sergeants. Some wrestled, or gambled. Others sang, or smoked since alcohol was forbidden for now. Even the northerners of the Sisters of Enttiku mixed with the rest in this calm before the storm. Meanwhile, the veterans gathered to speak of friends lost and battles yet to come. There were few of them or so they said, because the deadlands were the last Great Crisis.
+
+Five years before, back when the Black Witch had  just been a piddling mercenary learning the trade in Kazar, the continent was under constant threat. Only the incursions from the marshy south had been stopped thanks to Baran’s decision to burn every wildling village within fifty leagues of their border. The Enorian civil war was rising from seething embers. Beastlings stalked the north while Halurians were gathering for yet one more invasion, and in the corpse of Harrak, cursed necromancers consorted with the dead.
+
+But then the Black Witch had come and where she went, things got solved. Not always smoothly, and not always nicely either, but they certainly got done. Enoria was united once again after the prince drank gold and the king drank poison. The Halurians had not just been beaten, but eaten as well apparently, and the reptile things that had caused their demise had been stopped decisively. The northern beastlings were wiped out to the last after a cataclysmic offensive. Only the deadlands remained untamed, the Last Crisis, the ultimate test of mankind’s tenacity, and mankind was back for the second round. After all, there was a lot of money and land to grab from those desiccated hands. And all of that was, once again, thanks to the Black Witch, her pylons, and her authority. What had started as a city was now a budding, resurrected nation eager to claim their legacy with fire, mana, faith, and arms, a well-oiled machine that consumed immigrants and yries steel to produce fortified villages yielding high-quality crops, although water was a growing issue. The Harrakans in the valley spoke a dead language better than many scholars with pride. And now they were going to face it, that Last Crisis, and it would go the way of the others. The gods were with them, their priests moving around the crowds with blessings and wise words. Sometimes, the most adept of scouts pointed at the distant shape of a dragon flying to where they’d gathered.
+
+Despite the prospect of the battle to come, the mood was rather relaxed. This lasted until sundown. Braziers and lights lit up the valley in a field of blue and red. More food was served while kava was made available to everyone. Many soldiers indulged as it was a rarer drink than klod, normally only available to the wealthy. Its exciting properties were well known.
+
+“Maybe one day they’ll let us have blue honey before battle,” one of the younger recruits dreamed.
+
+“We’re supposed to fight, not trip balls watching mountain-sized tentacles reaching for the moon,” another reproached.
+
+For now, the substance was only authorized for yries since they didn’t stand at the front, though there were rumors of distant drug cartels in less-than-friendly nations. The yries warriors’ only task was to lob arcs of fiery liquid between allied formations which was obviously much safer, and didn’t need so clear a mind.
+
+“They can’t fight well unless they’re off their tits and not thinking about violence” was the common wisdom spread around the many campfires. “Except for Ser Warcrime. That one’s a complete lunatic.”
+
+An hour later, the call came for everyone to return to their lines. Men and women of the Paramese alliance put on their armor and checked their weapons one last time. They were not in formation yet because the battle was still hours away, and yet a skeletal bird here, a fast mummified wolf there sped towards their lines, intercepted by enthusiastic hadals who had made a game of it. Sometimes, gazes would aim north towards the horizon. It was very dark at night there, and there wasn’t much to see for now, but a certain presence made even the distant abyss that much more threatening. Conversations grew subdued while the wisest of them took the opportunity for a quick nap. More followed the various elites while they visited the disparate groups. Far above, near the upper path that led to the city, the strategists discussed.
+
+Midnight came. By then, a steady stream of fast movers were continually intercepted, to the point that even the most stalwart of soldiers couldn’t help but listen to the snarls of the creatures, quickly silenced, but still hounding their ears and their instincts.
+
+Horns blew. First one, then a full orchestra of them representing the many nations come to defend the lands of the living. The voice of General Jaratalassi covered the plain, fueled by a powerful enchantment.
+
+“In formation!”
+
+***
+
+The Baranese ambassador watched the dark plain in front of him light up, awakened by thunderous war drums. Blue lights and red torches doubled, tripled, multiplied in front of the army until it was like looking at a field of flowers in the midday sun. Regiments coalesced in seconds from relaxing mobs to tight ranks, the back lines holding lanterns so that their brothers and sisters could fight. The entire plain was covered in dense lines of armored humans standing at the edge of suspicious patches of dry ground. The steel blotches of yries mechanical contraptions dotted the land next to bulbous canisters of unknown purpose. The ambassador frowned. He was no military expert, but this was definitely an unusual formation. Facing mindless enemies certainly involved some specific tactics, he imagined, though the two strategists had remained rather vague about them. Or rather, they kept bickering like an old couple talking in their annoying jargon.
+
+“Defense in depth requires fresh troops. We won’t have them if you spread us so far, old man,” the young Harrakan would say.
+
+“I was killing Halurians before your precious outlander and her fancy terms were but a shiver in her dad’s ballsack, boy. We need to grind them down, so we need to start large.”
+
+And so on. The ambassador spared a glance towards the useless mages Baran had sent, who were now waiting in disciplined groups at the back. The fallen prince had three of them publicly flogged to obtain that result. Sometimes, the ambassador wished he had ‘flogging the uppity nobles’ in his list of options.
+
+He would have to make a formal complaint later, of course, but he still envied the prince for his decisiveness. It was annoying how supreme arcane power let one get away with eccentricities.
+
+Just as the army finished getting in position, powerful elites joined the fray. Blade masters and mages walked to head the formation, possibly to take down the most dangerous foes. The girl was first and foremost among them. She and her ‘daughter’ landed in front of the army where the lights were the densest. It was strange, seeing a dragon walking so casually amongst humans.
+
+The girl’s voice rang out, fed by the same enchantments that had spread the general’s instructions throughout the plain. She spoke in Harrakan. It used to be a dead language, but no longer.
+
+His mentor used to say that that language was culture. He hoped the man had been wrong.
+
+“My people, hear me. Battle is upon us once again, and I too can see the mass of bodies headed our way. They blot the plain with their numbers. There sure is a lot of the fuckers.”
+
+A few laughs and jeers broke the attentive silence.
+
+“You know the undead, our old enemies. You know the revenants with their resilience and rotten armor, the puppet masters who give them frenzy. You know of the acid of the gut spillers and the hunger of the crawlers. You know of the menagerie of beasts that come with them. Many of the witchpacts present here wear face paint bearing the visages of those very beasts. The rumors are also true. At the back of this horde, there are necrarchs, the bane of the old capital.”
+
+Consternated whispers came. Did she not know that a leader ought to avoid bad news?
+
+“But despite all of this, despite knowing how many there are and how dangerous some of them can be, I will not take a step back. Sinur’s Gate will hold, and they will die here, at our feet, because isn’t there something they and the thing who’ve sent them have forgotten? Hmm?”
+
+Grim yeas and ayes emerged from the Harrakans who didn’t seem fazed in the slightest.
+
+“THIS IS OUR LAND.”
+
+The roar that came after was deafening. It emerged from thousands upon thousands of throats. Spear butts drummed the ground while the ululating cries of the witchpacts rose as a high-pitched warning.
+
+“They cannot have it back! This is Harrak. It is here we’ve sweated, trained, seeded, harvested, bled, died, fought, and won. This is our Harrak. We have taken it, and they cannot have it back. This land is ours. We will obliterate anything and anyone that thinks it can be taken from us. We will send them all to the waiting arms of Enttiku, one fucking limb at a time. Harrak is ours. They will not have it back!”
+
+The din was deafening. Even the foreign fighters joined now, eager to be part of something so powerful and the ambassador understood why.
+
+When war hosts gathered, the speech of his king reminded people they were all Baranese and not merely subjects of one of the dukes. The empress had no need for this. Her people already believed. She only made the speech to remind them they were strong.
+
+Gods protect him and Baran from believers. They were the worst.
+
+“Wield fire. Wield steel. Stand shoulder to shoulder with your brothers and sisters and fight until your arms fall off. And if in the dead of night, surrounded by smoke, lost, you find yourself doubting, if you believe you are alone, then just look up. Look up to the cloudy skies, and you will see me.”
+
+The dragon roared then. standing on her hind legs with wings spread. By Maranor, that thing was big. Her deep cry a call like no other. A thought like an angry hiss touched his mind.
+
+You will see us.
+
+“And when tomorrow the sun touches this forsaken place, only we will be standing. For the alliance, for mankind, and for ourselves. Harrak Eternal!”
+
+“Harrak Eternal!”
+
+“The gods are with us!”
+
+The allied lines roared their defiance against the incoming threat. The ambassador would have preferred to think of it as a triumph of mankind, but the witch couldn’t help but bring strange species into the mix. Now though, all those people stood resolute. The ambassador had to admit it, looking at ten thousand soldiers arrayed in perfect formation, that the empress had managed an impressive thing. Shame they’d have to kill her some day.
+
+It took only a couple more minutes before elusive shapes returned from the lit field. The hadal freaks were retreating. Soon after, the first waves of puppeteered revenants and beasts hit the front of the formation where the most heavily armored harrakans waited for them. The humans stood their ground. As the undead fell, priests blessed the remains which disappeared in puffs of divine mana. Soon after, the first large group of creatures advanced on the living lines like a wave, their presence a dark splotch on the background of lights and torches. The larger ones kept falling, so the ambassador leaned towards one of his aides.
+
+“Are they using some sort of magic to kill those bear things I see?”
+
+“No sir, those are slain by blessed projectiles. Javelins, quarrels, stones. Those sort of things. The light gods are out in strength tonight.”
+
+And so they were. Golden light, green light, and a deeper purple one sparked with comforting regularity. Truly, the eyes of the high ones were upon them. Even the red of Maranor could be seen, though the Goddess of Order ought not to like that hellion very much.
+
+Even though it was night, the ambassador could see the battlefield very clearly from his vantage point. The first thing that disrupted his vision were sudden plumes of soil rising in the air alongside flying limbs.
+
+“What is it? Some sort of spell? From those machines?” he asked.
+
+“Perhaps…”
+
+It ought to be a spell. Nothing else could spread this much destruction. The witch certainly had a lot of that to throw around, given how regularly things were blowing up. He reminded himself to make sure the spy found out where this was all coming from later. Perhaps she had found an old cache of potent cores. In any case, the yries machines kept launching those as if their mana could not end. It was a sobering fact. More sobering was when the lower machines spat long tongues of fire towards the largest masses. The horrid stench of burning flesh reached his delicate nostrils. He covered them with his perfumed handkerchief.
+
+Once the line of undead grew so thick it spread across almost the entire line, Jaratalassi gave the signal. Covered trenches opened like maws, devouring hundreds upon hundreds of packed undead into their depths.
+
+“Alright boys,” Jaratalassi said. “And girls, dammit. Light them up.”
+
+Dozens of torches, quarrels, spells, and the ambassador was rather sure he’d seen a bottle of liquor with a lit piece of cloth, all those fell into the pits to the tar spread at the bottom. Like a rift opened to the earth’s blood, a deep line of fire scarred the plain at the middle, cut here and there to create chokepoints. Above though, a great cloud of undead had gathered, and the ambassador flinched when they approached only for great gouts of flame to torch entire flocks in seconds. Distant roars covered even the sounds of battle.
+
+“It appears the dragons will not suffer to share the skies,” he idly remarked.
+
+Dragons and humans fighting side by side, well under and above in any case. Now he had seen everything. True to her word, the empress was at the head of the formation, cutting deep slashes in the mass of corpses with every large spell. It wouldn’t be nearly enough to win the battle, but at least now only a trickle of fliers were making it through to fall on their archers and those crossbow-wielding madwomen. It was then that the mages made their move.
+
+“Now!” the fallen prince commanded.
+
+With surprising speed considering they were a bunch of bottom-of-the-barrel fools, idiots, and disgraced dimwits, the mage squads cast bubble-like spells that returned a cacophony of loud ‘woomph’s to the ambassador’s already abused ears.
+
+“That would do nothing against a shield,” his assistant noted.
+
+And it would probably do little against high vitality humans, but the ambassador had to admit that it shattered the brittle bones of the undead ranks with impressive efficacy. You could always count on mage to find creative new ways to destroy things.
+
+By then, most of the footmen had taken shelter beyond the second line while those occupying the chokepoints fell back at a more sedate pace. Still, it appeared one group of soldiers was already surrounded. The ambassador shook his head. Great operations could not be accomplished without sacrifice.
+
+Suddenly, one burst, then two bursts of life mana redirected the attention of the horde. The trapped regiment used the opening to run to safety. The ambassador knew of life beacons, of course. It was certainly a competent use to give the men a well-deserved breather. The two strategists didn’t seem to agree, however.
+
+“What the fuck did I tell you? You wait until I give the signal!” Jaratalassi screamed at his junior.
+
+“And they get eaten alive in the meanwhile?”
+
+“You young prick, did they get eaten? Or did we waste a beacon? They don’t grow on fucking trees, you donkey.”
+
+“Oh very well, next time I shall ask in case you lose your tongue. You know, the one you could wag to tell me you’ve noticed?”
+
+“I will punch your nose all the way down to your pancreas.”
+
+“Gentlemen,” a voice said. “The gods are watching, and our people are now safe. Please desist.”
+
+It was that strange albino giant with white locs flowing down his back. He must have been convincing because the strategists returned their attention to the battle. The undead mass covered the first trench, drowning the fires with sheer mass though an untold number roasted for this. They smashed against the second line and, predictably, a second rift opened under their feet.
+
+“Burn them!” Jaratalassi ordered, and a torrent of embers fell over the collapsing bodies. Enough of them found the pitch to turn the entire line into yet another bleeding wound on the face of the plain.
+
+“How many more are left?” he asked his assistant.
+
+“Five or six, depending on how you count.”
+
+The first line had been smothered after countless revenants had died in it. He could no longer see past it because of the thick curtain of smoke rising beyond the reach of even the most potent magical light. Perhaps it would be enough, and perhaps not.
+
+Suddenly, a large white shape emerged from hiding. It was intercepted by a squad of golden warriors of Enttiku in a hurricane of blades. One of the golden forms fell, struck down with a vicious blow. Necrarch. He shivered, and made a warding sign. To his side, Strategist Sahin was now directing elites towards a strong point. Another nercrach emerged from the smoke. It was intercepted by a black beam that turned it to dust in seconds.
+
+The Harrakans roared as their empress took off again. It seemed the dragons and Sidjin’s spells were keeping the fliers at bay, for now.
+
+He still wondered if he was going to die here.
+
+***
+
+Champion’s leadership: expert 3
+
+Well it certainly paid to be at the front so long as one didn’t die horribly. Viv surveyed the metric fuckton of undead flesh descending on her people with some concern. Around her, the undead birds died in droves to fire and spells, but there were so many of them that they had only made a dent for now.
+
+“How about a Storm of Zamaheer to clear some of that while we’re not too busy?” she asked.
+
+You cast the spell, mother.
+
+I will keep those things off your wings.
+
+“Thanks.”
+
+The mana resisted her, disputed by her enemy, but she was strong enough to gain ascendancy. Gritting her teeth, Viv ignored the screeches and blasts around her to get to work.
+
+***
+
+Sidjin directed another air bubble towards a group of birds. There were very few reaching their lines though scattered ones still flew here and there, and his paramour was going to be regrowing eyeballs for a month. Suddenly, the temperature dropped and black snowflakes descended from on high, disappearing behind the smoke to destroy farther undead.
+
+“We’re no longer needed here,” he told Rakan. “Let the newcomers deal with the few flying creatures that break through the dragons. We need to do something about that first line.”
+
+“What about it?” the young man yelled from a different circle.
+
+“It’s extinguished. Too many bodies, not enough air. I got an idea on how we can get the flames going again, and solve our visibility problem all in one.”
+
+“Will it take less than three hours and a peer review?”
+
+“Haha, you little fuck. Come on over here, I need help with the circle.”
+
+***
+
+Gods dammit she needed a lot more of those, but now necrarchs were showing up with concerning regularity.
+
+“Wait, what’s that?”
+
+A darker shade manifested in her vision, a massive shape of flesh melding together in unholy union to form a sigil the size of a house. Viv tried to fly towards it but the many fliers around her slammed against her shields like a solid wall to hold her back.
+
+“Dammit.”
+
+Mother.
+
+Watch out!
+
+Dragon fire lit up the night sky. A torrent of flames drowned the construct and all that surrounded them. The smug voice of Stormrider rang in Viv’s mind, only to tell her that she was slow and wingless.
+
+“Yeah yeah.”
+
+With the sigil destroyed, the undead seemed to lose what little cohesion they had, but soon more gathered to form yet another sigil. The dragons were now fleeting dark shapes in a hurricane of fire and flesh as they chased after each sigil. Arthur was out there flying around with her kin. Viv was, indeed, slow. It wasn’t a matter of being a dragon. It was a matter of not being a proper half elemental.
+
+At least, not yet.
+
+“It’s only been five years since I landed in this place. Maybe I should cut myself some slack.”
+
+But the screams of the wounded reminded her that she had no room to rest. If only she could get into the elemental form both Elunath and the Blue Lady could take on so easily. What was wrong with her? Did she really need introspection? She didn’t like introspection.
+
+Viv flew down to her troops. They were doing well so far, though the core of the horde was upon them. She searched for the necrarchs, finding them one after the other. She yoinked them from above until they died and their sweet power flooded her conduits. As time went by, she grew stronger, her spells more potent and her reserves always improving to the point she felt she could just cast for days. Just as well since running out meant dying. There were just… so many of them and she wished she could do more. If only she could wrest the black mana away from her. Then the horde would just be an inefficient mass and the necrarchs would fight each other, or return to richer places. But she wasn’t. She, the supposed genius black caster, was powerless to stop something hundreds of leagues away.
+
+What was a true elemental form anyway? Was she supposed to give up or to gain control? How the fuck did it work? Was she still not understanding the black? The shape eluded her now, in the middle of battle when she needed it the most. Viv flew between two struggling formations of Mountain Lords to disintegrate a particularly thick group of gut spillers. It was chaos down there, though the line was still cohesive. Smoke from the Liberators, smoke from spells, smoke from the pits, smoke from burning stacks of corpses and a hundred torches still active and the constant screams and snarls painted an image of pandemonium. The visibility was utter shit to the point she felt enchanted bolts ping against her shields.
+
+“Hey!” she exclaimed.
+
+“Fuck! Sorry!” distant voices said.
+
+Despite all the lights they’d prepared, nobody could see shit, and yet… Viv felt a light touch on her skin. A light wind. It came from the mage squads who had turned away from dealing with the fliers now that the dragons were getting the king’s share of their attention. The wind took off, blowing smoke back towards the undead in thin streams of gray smog. The breeze picked up speed and power until every flag snapped north.
+
+A pale white light fell on the battlefield. Viv looked up to see the eternal cover of clouds momentarily pushed back so that Nyil’s two moons now shone on the battlefield, courtesy of the boys’ improvisation skills. She saw Solar slice through the head of a large necrarch some distance away while another creeped up on him. She took off.
+
+Right, now wasn’t the time to lament about the shit she hadn’t managed to do yet. Everyone was still alive because she’d said to stockpile shells and pitch for those fuckers to burn, and if she didn’t have the perfect tool for the job, she hadn’t forgot she still had the one that had served her well so far: pugnacious violence.
+
+Willpower: 47
+
+“Thanks Nous, I knew you’d be there for me.”
+
+It’s not me. It’s Nyil and your own efforts.
+
+Go get them tiger.
+
+“You’re next!” Viv roared to give herself courage, and then she meteored herself into the nearest necrarch’s face.

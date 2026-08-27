@@ -1,0 +1,121 @@
+---
+id: fdf00b15-ecd2-5d1d-80f9-345f1d658cfe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Friendship Means Consideration"
+slug: 0027-chapter-27-friendship-means-consideration
+partOf: succulent-girl-evolution
+position: 27
+ownLength: 1852
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2628131/chapter-27-friendship-means-consideration"
+royalRoadId: "2628131"
+---
+
+Bubbles was in the middle of the strangest game she had ever played.
+
+Granted, the extent of the games she had been involved in had just been her being an obstacle for young, twittering birds to fly around, so she wasn’t sure if this game was considered strange by other standards.
+
+If she took Throttler’s word for it, this was a perfectly normal game. But was it really a game if she wasn’t having fun?
+
+“Break! Break! I need a break,” she gasped out, flopping onto the floor.
+
+“Aw, come on, you were doing so well!” Throttler retracted the vine that Cuddles had been parrying with a needle. Despite Cuddle’s improved Pierce ability, improving the sharpness and durability of its spines, fencing with the vine still rapidly blunted the cactus’s weapon.
+
+Nobody was having fun, honestly. Except Throttler.
+
+The vine had been so excited to have a new “playmate” that she had immediately and forcefully pushed for them to test their strength against each other, starting with a wrestling match.
+
+Interestingly enough, Throttler did have a sense of fairness. She restricted herself to one vine, roughly the same size as Bubbles. Unfortunately, Bubbles had no experience grabbing or leveraging her roots for anything more than running, so she got knocked around during the first round. She only managed to convince Throttler to move on to something else when Fern’s queasiness from getting rolled around started acting up, which was what led them to a “game” that required more dexterity: the fencing game.
+
+It was hard to tell time without sunlight, but by Rock’s estimation, they had been in captivity, entertaining this monstrously bored plant, for a little over an hour now. Bubbles had done her best to explain to Throttler—being careful not to hurt her feelings, because none of them wanted to be crushed by an angry plant—how her actions were causing harm and troubles to a significant number of creatures. The vine had listened politely at first, but very quickly became bored of the lecture.
+
+Her stance was quite reasonable, Bubbles had to grudgingly admit: Throttler maintained that if she really had been hurting anybody, they would have expressed it clearly to her. It wasn’t as if Throttler deliberately went out of her way to hurt others, after all; they just happened to let her through whenever she extended her vines anywhere. If they really didn’t want her to pass, they would have stopped her, according to Throttler’s reasoning.
+
+“Isn’t it odd, though, that you’ve been winning all your games?” Bubbles had persisted, her arguments buttressed by Rock’s infallible logic. “If it was an equal playing field, you’d lose—at least sometimes, right?”
+
+“Oh, yeah, I lost a lot in the beginning! So I had to work really hard to grow faster and stronger,” Throttler said proudly. “I haven’t lost since! Except against the Guardian the other day,” she added as an afterthought.
+
+“The other day?” Bubbles repeated, wondering if the “game” the childlike vine had been thinking of was the same one that had nearly squeezed the life out of Miss Fish.
+
+“Yeah! We were playing hide-and-seek, and I’d been hiding near her for a while. She didn’t know!” Throttler’s flowers brightened happily as she recounted the tale. “But then she finally found me, so we got into a small wrestling match, and then she beat me there…”
+
+Bubbles listened with mixed feelings as Throttler gushed about how powerful Miss Fish was, and how she was inspired to become even stronger so she could go back for a rematch. On one leaf, it was reassuring that Throttler wasn’t a malicious plant; on the other, she just had no concept of self-restraint, or empathy for other creatures. And neither Bubbles nor Rock had no idea how they could communicate to Throttler the importance of… not throttling others.
+
+“I need a bit of a longer break. I was already tired from the first match,” Bubbles explained, answering Throttler’s plea to continue “playing.” “Do you have any water in here?”
+
+“Oh, that’s right! I forgot your roots aren’t attached to anything. You really are strong, for how small you are!” Throttler opened up a wall, letting in blessed sunlight. “Out to the side! There’s a small river here.”
+
+Bubbles climbed out of the opening, relieved to be back in fresh air and light. As the vine indicated, there was water outside; but it was a mere trickle, with the vines not only having overtaken all the other vegetation, but choked out the rivers as well.
+
+[This is… quite a depressing view.]
+
+Silently agreeing with Rock, Bubbles made her way to the small stream and dipped her roots into it, gratefully soaking up the liquid.
+
+“Do you have anything to eat?” Bubbles asked tentatively, noticing that there was no free patch of dirt around for her to bury herself into. There weren’t even any bugs flying around for Fern to Digest, interestingly enough… although Fern still hadn’t quite recovered from her motion sickness from earlier.
+
+“Oh, sorry, I blocked the ground, huh… hmm…” Throttler yanked a cluster of young vines out of a nearby patch, making Bubbles flinch at the violence. “Here you go! Take that spot.”
+
+“Thanks,” she said feebly as she made her way over to the newly vacated patch. She stared down at the ground as the neighboring roots almost immediately filled in the open earth, leaving her with no room to plant herself. “Um, Throttler…”
+
+“Yeah, sorry about that,” the vine said apologetically. “Here, let me clear out a bit more space…”
+
+When Bubbles finally managed to get her roots into the soft, freshly churned earth, she was bemused. After spending this much time with Throttler, she didn’t dislike the vine… but she was still a little uncomfortable being around her. Even though she was being very accommodating to her right now, Bubbles couldn’t forget how Throttler seemingly couldn’t even control her own rate of growth; it was obvious she was a menace to others.
+
+“Hey, Throttler, you can kind of see why other plants don’t want to come back and play with you, right?” Bubbles asked, soaking in as much nutrition as she could. Throttler had cleared out a significantly larger patch of ground for her, but that didn’t stop the other roots from creeping towards her. “You… take up a lot of space.”
+
+“They’re jerks! I won this space fair and square!” The big cluster of purple flowers hovered over Bubbles. “But you’ll keep playing with me, right? You don’t need soil all the time, so I can just clear out some space for you whenever you need it!”
+
+“I’d love to keep playing with you,” Bubbles reassured the plant hastily. “But things are always more fun with more friends, right? I’m just trying to teach you how you can make more friends!”
+
+Throttler sighed as her flowers drooped. “Making friends is so hard… why can’t they just like me for the way I am?”
+
+“Well… it’s important to like your friends, but being a good friend also means you need to be likeable,” Bubbles said, alarmed at the direction this discussion was going. “I mean, look at me and my friends… we help each other out, we don’t overstep boundaries… we work together, letting our unique abilities flourish!”
+
+“That sounds really nice,” Throttler said wistfully, sinking down to Bubbles’s level. The purple glow seemed content. “I can be friends with you all, right?”
+
+“That’s right,” Bubbles said encouragingly. “You can be our friend!”
+
+A gentle vine reached around them, caressing Bubbles, Fern, and Cuddles in turn. “Your friendship is so sweet.” Throttler lowered her flowers even further, examining the interfaces between the three plants. “Wow, you guys are friends for life, huh? I have an idea! Let’s do the same thing for our friendship!” The vine wrapped enthusiastically around all three of them, attempting to pull Bubbles out of the ground.
+
+“Wait wait wait!” Bubbles cried, quickly unrooting herself so that she wouldn’t get ripped away from her roots like Throttler did to her own vines. “What are you doing?”
+
+“You’re all different plants growing on one stem, right? I’ll just put you on myself! Then we can grow together forever~”
+
+“Not like this!” Bubbles wailed, struggling futilely. Cuddles, also panicking, sprouted all forms of needles and barbs across Bubbles’s trunk, stabbing into the vine and causing it to release them.
+
+Bubbles fell through the air and bounced without even losing a leaf, thanks to Rock’s improvements to her constitution.
+
+“Ouch! What was that for?” Throttler demanded indignantly.
+
+“This isn’t how you make friends!” Bubbles shouted. “You need to ask us first! You can’t force it!”
+
+The purple flowers glowered at Bubbles from above, the purple taking on a more menacing aura. “And friends shouldn’t hurt friends! You just hurt me. That means…”
+
+A long silence permeated the jungle, and Bubbles braced herself for the worst outcome; the air was still, and stuffy, so thick it was almost like being in water.
+
+“That means… You don’t want to be my friend.”
+
+The flat tone sent a shiver down Bubbles’s trunk and leaves, but she stood her ground as she thought of Miss Fish, alone and lonely in her little pond. “You’re right! I don’t want to be friends with someone who doesn’t care how she hurts others!”
+
+The two of them faced each other angrily—but Bubbles was aware this was a standoff the four of them were likely to lose, given how all the vines began ominously creeping up on the sides.
+
+She lamented the sudden mood shift; things had been going so well. Throttler wasn’t an evil plant, she was just unsocialized. She wasn’t incapable of caring for others’ wellbeing, as evidenced by how she had so willingly provided water and cleared out a plot of earth for Bubbles… perhaps if Bubbles hadn’t panicked, Cuddles wouldn’t have reacted so violently, breaking the tenuous truce between them.
+
+[You are being far too understanding of a creature that was intending on rending you and your friends apart.]
+
+She just doesn’t understand, Bubbles protested.
+
+[That may be, but we are not responsible for correcting a monster’s psychology.]
+
+With the sinking feeling that Rock was right, Bubbles prepared herself to run, eyeing all possible escape routes, although Throttler was quickly gathering more vines to surround them.
+
+Fern began retching, causing everyone to freeze.
+
+“What’s going on? Is she okay?” Throttler inquired, shifting her flowers to Fern’s side so that the purple light fell on Fern’s heaving form.
+
+“She hasn’t been feeling well ever since you stole us away,” Bubbles said acerbically. Cuddles craned its trunk around Bubbles’s leaves, trying to see Fern. “And all of these ‘games’ we were playing didn’t help her recover, either.”
+
+Fern continued heaving and retching, until she finally unloaded a puddle of steaming, sour liquid onto the vines they were standing on. They all stared at it for a moment, before Rock cleared his throat and privately informed Bubbles:
+
+[Digest (Master): You have mastered Digestion, and are now able to digest all manner of organic and inorganic materials. Mastery perk: Produce byproduct from recently Digested materials.]

@@ -1,0 +1,241 @@
+---
+id: e7ebe339-6225-5137-9fc1-21113049340a
+page-type-slug: story-chapter-royal-road
+title: "THIRTY-THREE: Falling"
+slug: 0033-thirty-three-falling
+partOf: super-supportive
+position: 33
+ownLength: 3343
+unit: words
+publishedAt: 2023-05-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1202858/thirty-three-falling"
+royalRoadId: "1202858"
+---
+
+“You have a knack for arranging possessions so that they suit their owner.”
+
+Alden reread the skill description. In his message, Boe had added that the Level Two version of the skill had the exact same description, but with knack replaced by “strong knack.”
+
+“If anyone has leveled it past that, they haven’t posted the details online,” he’d written.
+
+The foundational supplements were in dexterity, processing, and strength. And they were small, just like Alden’s had been.
+
+C-ranks who chose the skill had three traits to choose from, all active only during skill use. One would increase the accuracy of their movements. Another muffled sound in their immediate vicinity. And the third was Rose Rabbit, which Alden himself had been offered. It was the one that increased attention to detail.
+
+As he headed up the hillside toward his destination, his cart trundling along in a line behind others that were filled with examinees, Alden tried to add up everything he knew about skills, Manon, and the boater.
+
+It wasn’t a lot. But it was enough for him to be more nervous than ever about the other Rabbit.
+
+The skill was obviously intended for the use most people put it to. The traits would all help you beautifully arrange physical objects for their owner. The one that muffled sound was probably for those who wanted to maintain a quiet presence while they did their work.
+
+Having had a lot of experience watching students in the lab recently, Alden could even see Tailor Environment being a valuable skill in that setting. The assistants the examinees brought with them seemed to spend half their time making sure supplies were prepared, organized, and close to hand for their junior wizard.
+
+Manon would be amazing at that.
+
+Alden could think of a dozen other uses for the skill as well. Boe had said she did event planning and weddings in addition to interior decorating. But she’d be able to streamline almost any busy setting. Having exactly the things you needed in exactly the place you needed them at the right moment would be fantastic.
+
+The skill even had obvious support hero applications. If Alden had been a C-rank, he might have chosen it himself.
+
+It was a very Rabbity talent. And a versatile one, too.
+
+So it’s a little dark that Manon said she wanted to use it for human resources in that interview. I mean I get it…if you’re good at knowing where things fit, you could theoretically be great at placing people inside an organization, too.
+
+But when Alden read a skill description about arranging “possessions” for an “owner” his first conclusion was definitely not that he should try it out on people. The morality of it would depend on how the skill worked on living things in the first place.
+
+If Manon just had a general sense for where people would be most useful to their employer, that was okay. She could take Bti-qwol’s job and do it twice as well.
+
+But if her knack gave her insight into why people fit in certain places, then it was getting closer to mind reading than most humans would be comfortable with. And if the “arranging” was an active part of the skill, maybe at higher levels, and gave her some additional ability to directly manipulate the things she arranged… would it apply to another person’s thoughts or actions?
+
+Wouldn’t that would make her a knock-off version of a Sway?
+
+Alden grimaced.
+
+Knowing what he did now about how a person’s perception influenced what they could do with their skill, he thought it was definitely possible that Manon was doing at least a little bit of freaky mind control stuff with her power. And knowing that she’d quit her job and leaned hard into decorating like it was her dream career as soon as the skill started getting popular made it seem even more likely.
+
+You could keep info about your skill private and spin it however you wanted when it was just yours. But when it became popular and lots of other people picked it up, somebody who cared more about their follower count than trade secrets was bound to start showing off all the little nuances you’d prefer to keep to yourself.
+
+Especially at C-rank, when your peers made up more than thirty percent of all Avowed. Even a rare class like Rabbit had enough representatives for people to start figuring everything out.
+
+Manon had the advantage of being a full generation or more ahead of most of the skill’s users. She probably had several levels under her belt. And luck or natural talent might have played a role in her figuring out alternate uses for the skill when she was young.
+
+But one day, other people who were a little twisted were going to think, “What if I could somehow use this thing on humans, too?” And as soon as one of them was careless enough to let it slip, all the other users would suddenly be subjected to intense scrutiny.
+
+There was no reason for her to drop her old job like a hot potato if the skill didn’t have something similar to a mind control element. I mean…unless she really did just discover a sudden love for tablescapes.
+
+For a while, Alden toyed with the idea that LeafSong had even hired Manon for the purpose of keeping their other employees in line. But then he dismissed it.
+
+The Artonans weren’t allowed to use mind control on Avowed humans unless they presented an immediate, life-threatening danger to themselves or their summoner. And if they were going to violate the Contract, they would probably do it with a real, S-rank Sway hidden in the shadows.
+
+Not a middling Rabbit using her skill in her own personal off-label way.
+
+So she must be doing it for herself, right? But how? And how would she become an “owner” of other people? Even if she was a megalomaniac who imagined that others belonged to her, that probably wouldn’t be enough. Not for controlling other Avowed. Not with a skill that wasn’t exactly designed for it.
+
+He stared at the carnivorous plants along the pathway without really seeing them. Authorities would clash during mind control, right?
+
+For the past two nights, under Joe’s tutelage, Alden had been grappling with a concept the professor usually translated as authority, dominion, or influence. Though he assured Alden that none of those were ideal word choices.
+
+It seemed to have no perfect translation in human languages, but it was the ability to impress your own desires upon…everything. The fundamental essence of magical power. According to Joe, Artonans could feel this ability from birth and train it like a muscle. Most other species couldn’t.
+
+As an Avowed, Alden had the ability. And he could use it. But as a human, he lacked a conceptual framework—and possibly the actual anatomy—that would allow him to feel it in the same way Joe did.
+
+Even his subconscious kept misinterpreting it as willpower, or a lack thereof. That flaw was fairly normal for humans, and it was also what Sophie had been getting at when she was trying to make him stop doing his rag-doll impression in front of the lab cabinets the other day.
+
+Alden had decided it was like trying to control your own internal organs. Yeah, they worked for you. But for the most part you couldn’t will them to do things.
+
+As for how that applied to Manon—when one person’s authority came into conflict with another’s, the stronger party would win. That was how Alden had lost a fight with a tree he hadn’t even known existed.
+
+Joe was surprisingly unwilling to discuss how Avowed ranks worked, but he’d indicated that they were heavily correlated with authority. And it was well known that Sways had more difficulty mind controlling other Avowed. Higher ranking Sways could usually suppress lower ranking ones.
+
+It stood to reason that Manon, as a C-rank, couldn’t truly mentally enslave more than a dozen other people. And she couldn’t really own them without them somehow…yielding themselves to her?
+
+Does it work like that?
+
+There was no way to know for sure. Probably it had something to do with all the gifts. She was in charge of the boater. She got most of them their jobs. She fed them treats and paid for their phone calls and…volunteered to cover Pineda’s entire salary out of the goodness of her heart.
+
+Yeah. There’s something there. Maybe she didn’t own them in the most obvious sense of the word. But she’d been taking care of them all in a really overboard way for years.
+
+They were used to it. They liked it.
+
+They hadn’t been able to shut up about how wonderful she was that day at lunch.
+
+Is she working on me, too? Alden felt a chill.
+
+He didn’t remember when he’d started feeling grateful for Manon’s help. He hadn’t the first day. He’d thought it was weird.
+
+Now, after having his friends remind him that he didn’t like the other Rabbit, it seemed obvious that she hadn’t done anything for him at all.
+
+So let’s go all in on assuming she arranges people as well as furniture. How much can she actually do?
+
+It wasn’t like Alden, or the boater members, were zombies. Maybe she couldn’t even give them specific thoughts. Maybe she just…pressed little by little on their emotions and made suggestions they were predisposed to agree with because they were weak to her influence.
+
+More like a cult leader than a full-on Sway.
+
+That would explain a lot actually. Wasn’t separating your members from outsiders basic cult psychology? Alden had begun to feel more kindly toward Manon, but only her. He and the other members of the boater went out of their way to avoid each other. And Thwart Hog said she felt like she should stay away from them, too.
+
+It had started that first day. They’d naturally been upset about the loss of some of their coworkers for this event, but it shouldn’t have made all of them hostile to Alden. One or two people incorrectly assigning blame in such a simple situation might be normal. But fourteen of them?
+
+It was crazy to imagine a Rabbit altering people's minds, but didn’t it actually make more sense if all that unnecessary hostility was manufactured.
+
+It would have been so easy for Manon to just casually point out all the unlikeable things about Alden.
+
+Isn’t he too young? Isn’t he unqualified? He’s a higher rank than we are. Maybe he thinks he’s better than us. He’s rich. He got Pineda fired. He doesn’t even need a job, and he got a double quest.
+
+Something like that.
+
+I would resent me, too.
+
+And if someone who’d had little hooks in your brain for years made those same suggestions… you ended up with an even more warped perspective. Alden wondered if Manon had actually wanted her cultists to hit him up for money so that she could save the day for everyone. Or if she’d just pushed a little too hard, and that was the direction they’d headed in on their own.
+
+Personally, if I was manipulating everyone I would have tried to lessen drama, not fan the fires.
+
+Maybe she’d panicked because he didn’t fit into the arrangement. Maybe keeping the group together was a little like interior decorating, and Alden was a garish rug ruining the feng shui of Manon’s carefully designed house.
+
+And she’d been overeager to keep him away from the others.
+
+That was comforting to some extent. It meant she wouldn’t want to add him to the collective.
+
+But what am I supposed to do about her if I’m right about all of this?
+
+Nothing right now obviously. He didn’t want to tip Manon off, have her whip the cult into a frenzy, and get murdered in his sleep. He’d have to wait until he was back home.
+
+He could call Cly Zhao and ask her to handle it. Tell her he thought there was a Rabbit using low level mind control on other Avowed. Let the actual Sways snap Manon’s influence like a twig and the mind healers try to clean up whatever mess she’d made of everybody’s personality.
+
+His cart dropped him off at the building on top of the hill, and he followed a group of chattering Artonan teens inside. Calling Ms. Zhao is probably the right choice, but even that feels bad.
+
+It would be like dropping a bomb on all the other people with the Tailor Environment skill. Life ruining for many of them. The vast majority of them were probably innocent, but their friends and coworkers and spouses would all suddenly have to wonder.
+
+How could they not?
+
+Do I like you because I like you? Or did you make me do it?
+
+There was a reason so many Sways only made friends with other Sways.
+
+What a mess, Alden thought, glancing out a wall of windows to take in the expansive view of the jungle canopy. In the distance, a flock of lime green birds rose into the air. He’d seen a few of their kind around campus; he liked them because even up close they looked like they might have come from Earth. Just ordinary birds that did ordinary bird things. He was starting to value every glimpse of home he got more and more.
+
+He was glad the peace of mind chain let him appreciate them now, even with this many anxiety-inducing thoughts rattling around in his head. The rebound from it was going to be a pain today.
+
+He stopped by the breakfast room to grab a water bottle for himself, and he noticed with fresh eyes how a woman from the boater scurried away from as soon as he entered. Like she thought he had cooties.
+
+It’s too much. I can’t believe I wasn’t even more suspicious.
+
+He took the stairs down to the basement level, and as he walked through the white corridor toward the lab he typed a message to Boe and Jeremy:“Remind me every time we talk that Manon is dangerous, and she’s not my friend.”
+
+The lab exams that day were uneventful, though once Alden’s peace of mind wore off and he performed the sacrifice half of the chain they felt eventful. He spent the early afternoon worrying about how to hide his suspicions from Manon and staring too hard at a klutzy examinee who kept spilling chemicals all over the place.
+
+The poor guy only became progressively clumsier under the weight of Alden’s nervous gaze. By the time the exam session was over, acid had eaten away part of the examinee’s table, and Joe told him he’d failed in an unnecessarily cheerful tone.
+
+<<You’re too tense today,>> Sophie said later while they cleaned up the messes the students had left. <<You smell like prey.>>
+
+“You sure know how to make a guy feel confident.”
+
+Alden was scraping chunks of perpetually smoldering wood into a pail. He wasn’t sure if he was supposed to wet them or smother them before he added them to the rest of the pile they were collecting near the teleportation alcove, and Joe had left the lab to visit with one of the other professors.
+
+“I’m fine,” Alden added. “I’m just practicing a wordchain, and I’m on the worrywart end of it.”
+
+He did wonder how well Sophie could actually smell him through her helmet, though.
+
+<<If I found you on my planet, I would hunt you.>>
+
+“Would you really?” Alden asked. He had been curious about it. Grivecks were notorious for being culturally okay with murder in a wide number of circumstances. They weren’t mindless killing machines, despite their reputation, but their take on the subject was unique to their species.
+
+<<I am being humorous. Obviously. It would be monstrous to slaughter you after giving you permission to contact me.>>
+
+Like that.
+
+A rule about not murdering people after giving them your phone number implied that if Sophie hadn’t given him permission to send her private messages, slaughter would still be on the table.
+
+“That’s good. I like hanging out with you even if it is just for work. It would be a downer if we met again, and you killed me.”
+
+<<We are unlikely to meet in person again. You’re too weak to handle the gravity on Sreeeakk. And I would like to see Earth, but your planet does not allow griveck tourists for some reason. I appreciate the sentiment, though.>>
+
+About twenty minutes later, Alden was finishing up the work while the griveck kept him company. He was always the last one done, since many of the chores required fingers and Sophie didn’t have them.
+
+“So only the S-ranks—I mean the topmost ranks—become Ryeh-b’ts on your planet? How does that even work?”
+
+Alden was tightening all the caps on the bottles in the mini fridges. Because apparently the examinees were a bunch of privileged ingrates who were incapable of doing it themselves.
+
+Sophie had been telling him about her planet’s Avowed, and it was blowing his understanding of the System out of the water. Her species had ended up with an entirely different class set-up from humanity. They only had two of them. And they didn’t even consider them to be classes. There were just bunches of Avowed who got to pick from a menu of hardcore combat skills and physical buffs, and a few overpowered Ryeh-b’ts who spent all their time trying to figure out how to turn their domestic helper skills into hardcore combat ones.
+
+<<Our ancestors made the agreement long ago. Nobody wished to deprive our gifted cubs of the chance to become great warriors, but the Artonans insisted we have Ryeh-b’ts, at least, even if we refused all their other subclassifications of Avowed. We compromised by agreeing that the number of us chosen for Ryeh-b’t would be kept to the bare minimum and that they would be our most powerful members. That way their overall strength makes up for their other weaknesses in battle.>>
+
+Alden suddenly wondered if the griveck felt sorry for him. Here he was, Mr. Totes Stuff Around, the B-rank Ryeh-b’t who was currently coming down from a self-inflicted anxiety spiral. While she was a rapid-regenerating organic tank.
+
+He cleared his throat. “You know, Rabbit is a pretty popular class on Earth. Even if it’s not the best for combat, lots of people want it.”
+
+<<Humans are damaged.>>
+
+“And I can do things you haven’t seen yet. I can run pretty fast.”
+
+Sophie tilted her helmet. <<Want to race?>>
+
+Oh. He’d walked right into that one. “It wouldn’t be appropriate indoors…”
+
+<<You’re an amusing—>>
+
+A piercing whistle sounded, and Alden clapped his hands to his ears. His vision brightened alarmingly as text filled it, and a voice spoke the words simultaneously.
+
+[EMERGENCY TELEPORT AUTHORIZED. ENTER THE NEAREST ALCOVE IMMEDIATELY OR BRACE FOR TRANSPORT.
+
+TELEPORT IN 4…]
+
+Alden was already on his feet and running for the alcove that they’d just used to dump all the garbage. His body was being driven more by adrenaline than thought.
+
+3…
+
+What’s going on?
+
+[MINOR MEDICAL EMERGENCY. APPROVED RESPONDERS: ONE. PREPARE TO FOLLOW
+
+2…
+
+INSTRUCTIONS FROM SUMMONER ON SCENE.]
+
+Alden’s heart was pounding. What was he about to be dropped into? Was he really going to be the only person responding? What if he screwed up?
+
+He slammed into the alcove, barely managing to avoid smacking his head. The space was hardly big enough for a person. Alden wasn’t even sure it counted as a full-service teleportation device. Maybe it was just a direct connection to the dump, and the System wouldn’t even use it?
+
+Wait, what am I supposed to do in a medical emergency again? Follow instructions. Right, the pills! I packed the bottle of emergency drugs this morning, didn’t I? I think—
+
+The runes on the alcove lit up, and before Alden could finish his thought, he was outside in the humid air.
+
+And he was falling.
