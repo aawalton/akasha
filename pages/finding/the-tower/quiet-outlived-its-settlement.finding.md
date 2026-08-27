@@ -25,7 +25,7 @@ Measured 2026-08-07 through `ops db psql`, the read-only role. `game-turn` rows 
 
 Nothing after 2026-07-24. `game-turn` stands at 153 rows in total.
 
-The travel window closed. Commits in the code repository over the same days — `git log
+The travel window closed. Commits in this repository over the same days — `git log
 --since=2026-07-15 --until=2026-08-02 --date=short --pretty=%ad | sort | uniq -c` — read 07-18 143,
 07-19 41, 07-20 18, 07-21 5, 07-22 19, 07-23 none, then 07-24 278, 07-25 579, 07-27 602, 07-28 716.
 Turns and commits stop together on 07-19 and resume together on 07-24, which is what makes the ruling

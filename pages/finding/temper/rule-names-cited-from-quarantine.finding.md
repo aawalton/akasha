@@ -21,7 +21,7 @@ Standard". Its "Migration universal rules" section states the convention directl
 rule is named, not numbered: the name is the durable citation handle a comment across the
 addon packages references... Grep a rule name to reach this one authoritative home."
 
-Counting citations in the code repository, excluding `node_modules` and `dist`:
+Counting citations in the akasha repository, excluding `node_modules` and `dist`:
 
 - `English-only-locales rule` — 48
 - `SavedVariables-identity rule` — 22
