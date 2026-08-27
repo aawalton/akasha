@@ -1,8 +1,11 @@
 import { type Frontmatter, parseFrontmatter } from "../../page/frontmatter.ts"
 import { textAt } from "../../page/text/text.ts"
-import type { BuildContext } from "../build-context/build-context.ts"
+import type { BuildContext, SaidName } from "../build-context/build-context.ts"
 
-export const FRONTMATTER_SAID = "frontmatter"
+export const FRONTMATTER_SAID: SaidName = {
+  name: "frontmatter",
+  entry: "graph/frontmatter-at/frontmatter-at.ts",
+}
 
 type Block = {
   readonly present?: boolean

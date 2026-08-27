@@ -1,5 +1,5 @@
 import { existsSync, readdirSync } from "node:fs"
-import type { BuildContext } from "../../build-context/build-context.ts"
+import type { BuildContext, SaidName } from "../../build-context/build-context.ts"
 import { frontmatterAt } from "../../frontmatter-at/frontmatter-at.ts"
 import fileNodeProducer, {
   FILE_NODE_KIND,
@@ -30,7 +30,12 @@ export const RELATION_EDGE = "relation"
 
 export const RELATION_KEY = "relation-key"
 
-const LINKS_SAID = "relation-links"
+// The answer held here is what `linkTargetsFrom` works out, so that file is what its mark is taken
+// over rather than this producer, whose other logic the answer does not depend on.
+const LINKS_SAID: SaidName = {
+  name: "relation-links",
+  entry: "page/index/link/link.ts",
+}
 
 const ADDRESS_JOIN = "/"
 

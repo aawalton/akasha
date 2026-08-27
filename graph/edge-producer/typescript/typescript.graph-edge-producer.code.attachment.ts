@@ -3,13 +3,16 @@ import { textAt } from "../../../page/text/text.ts"
 import { packagesFor, pathOf } from "../../../workspace-package/packages.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import fileNodeProducer, { FILE_NODE_KIND } from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
-import type { BuildContext } from "../../build-context/build-context.ts"
+import type { BuildContext, SaidName } from "../../build-context/build-context.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
 import { aliasedTo } from "./tsconfig-paths.ts"
 
 export const IMPORT_EDGE = "import"
 
-export const TYPESCRIPT_SAID = "typescript"
+export const TYPESCRIPT_SAID: SaidName = {
+  name: "typescript",
+  entry: "graph/edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts",
+}
 
 const TYPESCRIPT: ReadonlySet<string> = new Set(["ts", "tsx"])
 

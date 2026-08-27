@@ -1,4 +1,4 @@
-import type { BuildContext, Said } from "../../graph/build-context/build-context.ts"
+import type { BuildContext, Said, SaidName } from "../../graph/build-context/build-context.ts"
 import type { Roots } from "../../page/page.ts"
 import { KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
 import { AKASHA } from "../../repo/roots/roots.ts"
@@ -9,9 +9,11 @@ import { oidsUnder } from "../../repo/oid/oid.ts"
 
 export const SAID_KIND = "said"
 
-const ENTRY = "graph/ask.ts"
+const ENGINE = "graph/ask.ts"
 
 const SAID_FIELD = "said"
+
+export type MarkFor = (entry: string) => string
 
 function keyOf(name: string, mark: string, oid: string): Key {
   return { kind: SAID_KIND, name, mark, subject: oid }
@@ -25,13 +27,15 @@ function heldIn(answer: unknown): { readonly said: unknown } | null {
 export function saidUnder(
   at: string,
   roots: Roots,
-  mark: string,
+  markFor: MarkFor,
   known: ReadonlyMap<string, ReadonlyMap<string, string>>
 ): Said {
   const oids = new Map<string, ReadonlyMap<string, string>>(known)
-  const names = new Set<string>()
+  // Each name against the mark its answers were filed under, so `done` sweeps every name by its
+  // own mark rather than by one shared across them.
+  const marked = new Map<string, string>()
   return {
-    of: (name, repo, key, work) => {
+    of: (said, repo, key, work) => {
       let under = oids.get(repo)
       if (under === undefined) {
         const root = roots[repo]
@@ -40,8 +44,9 @@ export function saidUnder(
       }
       const oid = under.get(key)
       if (oid === undefined) return work()
-      names.add(name)
-      const named = keyOf(name, mark, oid)
+      const mark = markFor(said.entry)
+      marked.set(said.name, mark)
+      const named = keyOf(said.name, mark, oid)
       const held = heldIn(answerAt(at, named))
       if (held !== null) return held.said
       const answer = work() ?? null
@@ -49,14 +54,41 @@ export function saidUnder(
       return answer
     },
     done: () => {
-      for (const name of names) sweep(at, SAID_KIND, name, mark)
+      for (const [name, mark] of marked) sweep(at, SAID_KIND, name, mark)
     },
   }
 }
 
-export function markHere(root: string, runtime: string, oids: ReadonlyMap<string, string>): string {
+/**
+ * A mark for each held answer, taken over the closure of the code that works that answer out.
+ *
+ * ONE MARK OVER THE WHOLE ENGINE CHARGED EVERY PRODUCER FOR ANY ONE'S CHANGE. Landing the
+ * `contains` producer, which holds no answers at all and reads everything off the path, put a file
+ * in the engine's closure and so dropped all 59,376 answers held by `typescript`, whose extraction
+ * had not moved. A closure taken from the answering file holds only what that answer depends on: a
+ * shared helper appears in both closures, and a producer reading another's output has that other
+ * inside its own.
+ *
+ * AN ENTRY THE GRAPH DOES NOT REACH FALLS BACK TO THE ENGINE, because a closure of no files hashes
+ * to a mark that never moves, and an answer under a mark that never moves outlives every change to
+ * the code that wrote it. Falling back is over-eager, which is the safe direction to be wrong in.
+ */
+export function marksHere(
+  root: string,
+  runtime: string,
+  oids: ReadonlyMap<string, string>
+): MarkFor {
   const bare: BuildContext = { roots: { [AKASHA]: root }, said: KEEPS_NOTHING }
-  return markOf(SAID_KIND, ENTRY, runtime, closureOf(bare, ENTRY, oids))
+  const held = new Map<string, string>()
+  return (entry) => {
+    const had = held.get(entry)
+    if (had !== undefined) return had
+    const reached = closureOf(bare, entry, oids)
+    const inputs = reached.length === 0 ? closureOf(bare, ENGINE, oids) : reached
+    const made = markOf(SAID_KIND, entry, runtime, inputs)
+    held.set(entry, made)
+    return made
+  }
 }
 
 export function contextOver(
@@ -66,5 +98,5 @@ export function contextOver(
 ): BuildContext {
   const roots = { [AKASHA]: root }
   const known = new Map([[AKASHA, oids]])
-  return { roots, said: saidUnder(answersAt(root), roots, markHere(root, runtime, oids), known) }
+  return { roots, said: saidUnder(answersAt(root), roots, marksHere(root, runtime, oids), known) }
 }
