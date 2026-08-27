@@ -102,12 +102,18 @@ function tsconfigRefusals(
   return refused
 }
 
-function amendManifest(at: Addressed, relPath: string, how: How, message: string, dryRun: boolean): void {
-  const body = readFileSync(`${at.root}/${MANIFEST}`, "utf8")
-  const change = manifestWorkspaces(body, relPath, how)
-  if (change === null) {
-    fail(`${at.repo}:${MANIFEST} states a \`workspaces\` array this cannot read, so it must not rewrite it`)
+function amendManifest(at: Addressed, relPaths: readonly string[], how: How, message: string, dryRun: boolean): void {
+  let body = readFileSync(`${at.root}/${MANIFEST}`, "utf8")
+  let moved = false
+  for (const relPath of relPaths) {
+    const one = manifestWorkspaces(body, relPath, how)
+    if (one === null) {
+      fail(`${at.repo}:${MANIFEST} states a \`workspaces\` array this cannot read, so it must not rewrite it`)
+    }
+    body = one.body
+    moved = moved || one.changed
   }
+  const change = { body, changed: moved }
   if (!change.changed) {
     process.stdout.write(`repo:   ${at.repo}, whose workspaces already read as they should\n`)
     return
@@ -133,6 +139,7 @@ export default async function move(argv: readonly string[]): Promise<void> {
   const source = addressOf(argv, [stated])
   if (source === null) fail(`${stated} stands inside no repository, and a move is a commit in one`)
   const fromDir = relPathIn(source, stated)
+  if (argv.includes(ALL)) return await moveEverything(argv, source, fromDir)
 
   const manifest = `${source.root}/${fromDir}/${MANIFEST}`
   if (!existsSync(manifest)) fail(`${fromDir} holds no ${MANIFEST}, so it is not a workspace package`)
@@ -204,8 +211,78 @@ export default async function move(argv: readonly string[]): Promise<void> {
     },
   })
 
-  amendManifest(destination, toDir, "adding", message, dryRun)
-  if (source.repo !== destination.repo) amendManifest(source, fromDir, "dropping", message, dryRun)
+  amendManifest(destination, [toDir], "adding", message, dryRun)
+  if (source.repo !== destination.repo) amendManifest(source, [fromDir], "dropping", message, dryRun)
+}
+
+async function moveEverything(argv: readonly string[], source: Addressed, fromDir: string): Promise<void> {
+  const planFile = valueOf(argv, PLAN)
+  const into = valueOf(argv, INTO)
+  if (planFile === null) fail(`${ALL} moves what ${PLAN} names, so ${PLAN} must be given`)
+  if (into === null) fail(`${ALL} needs ${INTO} to name the repository they land in`)
+  if (valueOf(argv, TO) !== null) {
+    fail(`${ALL} takes each package to the place its own name states, so ${TO} states nothing here`)
+  }
+  const destination: Addressed = { repo: into, root: targetRoot({ ...rootsHere(), target: into }) }
+  const plan = planForSource(planIn(readFileSync(planFile, "utf8")), source.repo)
+  const packages = packagesOnDisk(plan, source.root)
+  if (packages.length === 0) fail(`${planFile} names no package ${source.repo} still holds`)
+  const tracked = trackedUnder(source, fromDir === "" ? "." : fromDir)
+  const landed = landedFor(plan)
+  const dirs = plan.map((one) => one.from)
+  const moves = new Map<string, string>()
+  for (const one of packages) {
+    const inner = innerPackages(one.from, dirs)
+    for (const [was, lands] of movesForPackage(one.from, one.to, tracked, inner)) moves.set(was, lands)
+  }
+  if (moves.size === 0) fail(`${source.repo} holds nothing tracked under the packages the plan names`)
+
+  const owned = new Map<string, string[]>()
+  for (const [was, lands] of moves) {
+    const own = ownerOf(packages, lands)
+    if (own === null) continue
+    owned.set(own.from, [...(owned.get(own.from) ?? []), was])
+  }
+  const refused: string[] = []
+  for (const one of packages) {
+    refused.push(...tsconfigRefusals(source, one.from, one.to, owned.get(one.from) ?? [], landed))
+  }
+  if (refused.length > 0) {
+    fail(
+      [
+        "a tsconfig path reaches a target this move cannot write across a repository:",
+        ...refused.map((one) => `  ${one}`),
+        "state where it lands in --plan",
+      ].join("\n       ")
+    )
+  }
+
+  const messageFile = valueOf(argv, MESSAGE_FILE)
+  const message =
+    messageFile !== null
+      ? readFileSync(messageFile, "utf8").trim()
+      : (valueOf(argv, MESSAGE) ??
+        `${packages.length} package(s) move from ${source.repo} to ${destination.repo}`)
+  const dryRun = argv.includes(DRY_RUN)
+
+  process.stdout.write(`plan:   ${packages.length} package(s), ${moves.size} tracked file(s)\n`)
+  landMoves({
+    moves,
+    source,
+    destination,
+    message,
+    dryRun,
+    transform: (relPath, body) => {
+      if (!namesTsconfig(relPath)) return body
+      const own = ownerOf(packages, relPath)
+      if (own === null) return body
+      const held = tsconfigRelocated(body, own.from, own.to, landed)
+      return held === null ? body : held.body
+    },
+  })
+
+  amendManifest(destination, packages.map((one) => one.to), "adding", message, dryRun)
+  amendManifest(source, packages.map((one) => one.from), "dropping", message, dryRun)
 }
 
 if (import.meta.main) {
