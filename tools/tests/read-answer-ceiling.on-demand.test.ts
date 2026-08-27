@@ -40,7 +40,6 @@ beforeEach(() => {
   )
   for (const slug of SLUGS) at.put(relPathOf(slug), domainBody(slug, 60))
   Bun.spawnSync(["git", "init", "-q"], { cwd: at.root })
-  Bun.spawnSync(["git", "init", "-q"], { cwd: at.memory })
 })
 
 afterEach(() => at.dispose())
@@ -57,8 +56,13 @@ function run(argv: readonly string[]): { readonly code: number; readonly out: st
   const settled: Record<string, string> = {
     ...kept,
     HOME: at.home,
-    INSTRUCTIONS_ROOT: at.root,
-    MEMORY_ROOT: at.memory,
+    // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT` and `MEMORY_ROOT`, naming
+    // repositories that are gone: nothing reads them, so the child read the live checkout instead.
+    AKASHA_ROOT: at.root,
+    // `CODE_ROOT` IS WHERE THE PACKAGES ARE. `codeRoot()` falls back to the akasha root, which is
+    // now this temp repo, and it carries no `node_modules` — so the child died resolving a package
+    // specifier before the reading under test happened at all.
+    CODE_ROOT: LIVE,
     AGENT_ID: AGENT,
   }
   const fd = openSync(log, "w")
