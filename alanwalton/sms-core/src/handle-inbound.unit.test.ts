@@ -10,7 +10,7 @@ import {
 } from "./_inbound-test-support"
 import { handleInboundSms } from "./handle-inbound"
 
-const ALAN_HANDLER_SEAT = "amy-alan-handler"
+const ALAN_HANDLER_SEAT = "alan"
 
 function countingLoader<
   T extends { phoneDigits: string; accountUserId: string; smsAllowed: boolean },
@@ -247,7 +247,7 @@ describe("handleInboundSms", () => {
     expect(calls).toHaveLength(0)
   })
 
-  test("routes an allowlisted SMS identity to ki-handler, surfacing its accountUserId", async () => {
+  test("routes an allowlisted SMS identity to Ki's handler seat, surfacing its accountUserId", async () => {
     const { privateKey, publicKeyBase64 } = await genKeypair()
     const nowMs = 1_750_000_000_000
     const timestamp = String(Math.floor(nowMs / 1000))
@@ -266,7 +266,7 @@ describe("handleInboundSms", () => {
             phoneDigits: "8015551234",
             accountUserId: "acct-ki",
             smsAllowed: true,
-            handlerTarget: "ki-handler",
+            handlerTarget: "ki",
           },
         ],
         nowMs,
@@ -276,9 +276,9 @@ describe("handleInboundSms", () => {
     )
 
     expect(outcome.kind).toBe("routed")
-    if (outcome.kind === "routed") expect(outcome.target).toBe("ki-handler")
+    if (outcome.kind === "routed") expect(outcome.target).toBe("ki")
     expect(calls).toHaveLength(1)
-    expect(calls[0]?.target).toBe("ki-handler")
+    expect(calls[0]?.target).toBe("ki")
     expect(calls[0]?.content).toContain("acct-ki")
   })
 
@@ -301,7 +301,7 @@ describe("handleInboundSms", () => {
             phoneDigits: "8015551234",
             accountUserId: "acct-ki",
             smsAllowed: false,
-            handlerTarget: "ki-handler",
+            handlerTarget: "ki",
           },
         ],
         nowMs,
@@ -326,7 +326,7 @@ describe("handleInboundSms", () => {
         phoneDigits: "8015551234",
         accountUserId: "acct-ki",
         smsAllowed: true,
-        handlerTarget: "ki-handler",
+        handlerTarget: "ki",
       },
     ])
 
@@ -361,7 +361,7 @@ describe("handleInboundSms", () => {
         phoneDigits: "8015551234",
         accountUserId: "acct-ki",
         smsAllowed: true,
-        handlerTarget: "ki-handler",
+        handlerTarget: "ki",
       },
     ])
 
@@ -379,7 +379,7 @@ describe("handleInboundSms", () => {
     )
 
     expect(outcome.kind).toBe("routed")
-    if (outcome.kind === "routed") expect(outcome.target).toBe("ki-handler")
+    if (outcome.kind === "routed") expect(outcome.target).toBe("ki")
     expect(loadCount()).toBe(1)
     expect(messagesOnly(calls)).toHaveLength(1)
   })
