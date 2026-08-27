@@ -208,52 +208,52 @@ describe("readLeadingComment — the window is the comment, not a line count", (
 describe("scanGeneratedSuffix — naming", () => {
   test("a claim on a *-data.ts file is flagged with the claim it carries", () => {
     const v = scanGeneratedSuffix([
-      { file: "packages/x/src/foo-data.ts", header: "// AUTO-EXTRACTED from upstream Foo v1.2" },
+      { file: "x/src/foo-data.ts", header: "// AUTO-EXTRACTED from upstream Foo v1.2" },
     ])
     expect(v).toHaveLength(1)
-    expect(v[0]?.file).toBe("packages/x/src/foo-data.ts")
+    expect(v[0]?.file).toBe("x/src/foo-data.ts")
     expect(v[0]?.marker.toLowerCase()).toContain("extracted")
   })
 
   test("the same claim on a *.generated.ts file passes", () => {
     const v = scanGeneratedSuffix([
-      { file: "packages/x/src/foo.generated.ts", header: "// AUTO-EXTRACTED from upstream Foo" },
+      { file: "x/src/foo.generated.ts", header: "// AUTO-EXTRACTED from upstream Foo" },
     ])
     expect(v).toHaveLength(0)
   })
 
   test("a *.d.ts declaration file is skipped", () => {
     const v = scanGeneratedSuffix([
-      { file: "packages/x/src/foo.d.ts", header: "// AUTO-GENERATED — opt-in scoped" },
+      { file: "x/src/foo.d.ts", header: "// AUTO-GENERATED — opt-in scoped" },
     ])
     expect(v).toHaveLength(0)
   })
 
   test(".tsx is scanned and .generated.tsx is skipped", () => {
     const v = scanGeneratedSuffix([
-      { file: "packages/x/src/widget.tsx", header: "// Auto-generated widget." },
-      { file: "packages/x/src/widget.generated.tsx", header: "// Auto-generated widget." },
+      { file: "x/src/widget.tsx", header: "// Auto-generated widget." },
+      { file: "x/src/widget.generated.tsx", header: "// Auto-generated widget." },
     ])
     expect(v).toHaveLength(1)
-    expect(v[0]?.file).toBe("packages/x/src/widget.tsx")
+    expect(v[0]?.file).toBe("x/src/widget.tsx")
   })
 
   test("only the mis-named file in a mixed batch is flagged", () => {
     const v = scanGeneratedSuffix([
-      { file: "packages/x/src/ok.generated.ts", header: "// Auto-generated." },
-      { file: "packages/x/src/plain.ts", header: "// nothing here" },
-      { file: "packages/x/src/bad-data.ts", header: "// AUTO-EXTRACTED from upstream" },
+      { file: "x/src/ok.generated.ts", header: "// Auto-generated." },
+      { file: "x/src/plain.ts", header: "// nothing here" },
+      { file: "x/src/bad-data.ts", header: "// AUTO-EXTRACTED from upstream" },
     ])
     expect(v).toHaveLength(1)
-    expect(v[0]?.file).toBe("packages/x/src/bad-data.ts")
+    expect(v[0]?.file).toBe("x/src/bad-data.ts")
   })
 
   test("case does not decide it", () => {
     const lower = scanGeneratedSuffix([
-      { file: "packages/x/src/a-data.ts", header: "// auto-extracted from upstream foo" },
+      { file: "x/src/a-data.ts", header: "// auto-extracted from upstream foo" },
     ])
     const upper = scanGeneratedSuffix([
-      { file: "packages/x/src/b-data.ts", header: "// AUTO-EXTRACTED FROM UPSTREAM FOO" },
+      { file: "x/src/b-data.ts", header: "// AUTO-EXTRACTED FROM UPSTREAM FOO" },
     ])
     expect(lower).toHaveLength(1)
     expect(upper).toHaveLength(1)
