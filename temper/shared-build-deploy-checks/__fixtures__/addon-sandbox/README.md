@@ -14,31 +14,6 @@ Deterministic Lua-bundle fixtures consumed by `temper/shared-build-deploy-checks
 
 ## Regeneration
 
-Fixtures are deterministic snapshots — regenerate only when TSTL emission changes or the checker's allowlist drifts from real output. Do not commit to a policy of auto-regenerating on every build.
+Every fixture here is hand-authored and checked in. None is a captured build artifact, and none is regenerated.
 
-### clean.lua
-
-```bash
-ops temper addon build --all
-cp dist/TemperInventory/TemperInventory.lua \
-   ../checks/__fixtures__/addon-sandbox/clean.lua
-```
-
-### regression-7179.lua
-
-Temporarily flip `sourceMapTraceback: true` in `temper/game-items-addon/tsconfig.json`, rebuild, copy, then **revert the tsconfig before committing** — the flip is a capture-only diagnostic and must never land on main.
-
-```bash
-# 1. Add "sourceMapTraceback": true to the tstl block of game/items/addon/tsconfig.json
-cd packages/temper/addons
-ops temper addon build inventory --build-only
-cp dist/TemperInventory/TemperInventory.lua \
-   ../checks/__fixtures__/addon-sandbox/regression-7179.lua
-# 2. REVERT the tsconfig.json change — git restore ../game/items/addon/tsconfig.json
-# 3. Rebuild once more to confirm the clean state matches what ships
-ops temper addon build inventory --build-only
-```
-
-### banned-*.lua
-
-Hand-authored and checked in. Do not regenerate.
+Two of them stood as captured `TemperInventory` bundles, 1.9 MB and 1.0 MB, until they were replaced by `lualib-emission.lua` and `source-map-traceback.lua`, which make the same two claims in under a kilobyte. What a capture proved and these do not is that real TSTL output still emits what the allow-set expects: if TSTL changes its emission, nothing here notices.
