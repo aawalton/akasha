@@ -12,7 +12,7 @@ import {
 import { CODE_REPO } from "../../../../repo/scope/scope.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -130,7 +130,7 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the ts-file graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const { files, seeds } = walk(graph)
 
   const { population, violations } = examinePopulation<string, SurfaceViolation>({
@@ -138,7 +138,7 @@ async function main(): Promise<never> {
     unit: "component-reachable TS files",
     membership: { kind: "atLeast", members: seeds + 1, from: membershipFrom(seeds) },
     labelOf: (rel) => rel,
-    siteOf: (rel) => resolve(codeRoot, rel),
+    siteOf: (rel) => resolve(root, rel),
     examine: (rel) => {
       const source = readRepoFile(ctx, CODE_REPO, rel)
       if (source === null) {
