@@ -7,6 +7,8 @@ import type { ClusterService, Service } from "../service/service.ts"
 
 const ROLLED_OUT: ReadonlySet<string> = new Set(["Deployment", "StatefulSet", "DaemonSet"])
 
+const UNSUBSTITUTED = /^\s*(\S+):\s*"?PLACEHOLDER"?\s*$/gm
+
 export interface Workload {
   readonly kind: string
   readonly name: string
@@ -118,6 +120,25 @@ export async function planFor(akasha: string, service: ClusterService): Promise<
   }
 }
 
+export function keysLeftUnsubstituted(manifest: Manifest): readonly string[] {
+  const keys: string[] = []
+  for (const found of manifest.yaml.matchAll(UNSUBSTITUTED)) {
+    const key = found[1]
+    if (key !== undefined) keys.push(key)
+  }
+  return keys
+}
+
+export function refuseUnsubstituted(akasha: string, plan: Plan): void {
+  const left = plan.manifests.flatMap((manifest) =>
+    keysLeftUnsubstituted(manifest).map((key) => `${relativeTo(akasha, manifest.path)}: ${key}`)
+  )
+  if (left.length === 0) return
+  throw new DeployRefused(
+    `${plan.service.slug} is emitted with a value its synth left for somebody else to fill in, and applying it as it stands would write PLACEHOLDER over what the cluster holds:\n       ${left.join("\n       ")}`
+  )
+}
+
 export function relativeTo(akasha: string, path: string): string {
   return path.startsWith(`${akasha}/`) ? path.slice(akasha.length + 1) : path
 }
@@ -182,6 +203,7 @@ export interface Deployed {
 
 export async function deploy(akasha: string, service: ClusterService): Promise<Deployed> {
   const plan = await planFor(akasha, service)
+  refuseUnsubstituted(akasha, plan)
   const written = writeManifests(plan)
   const ran: Ran[] = []
   for (const manifest of plan.manifests) {

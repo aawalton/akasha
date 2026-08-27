@@ -4,6 +4,7 @@ import {
   clusterService,
   deploy,
   planFor,
+  refuseUnsubstituted,
   relativeTo,
 } from "../../../deploy-system/deploy/deploy.ts"
 import { DeployRefused } from "../../../deploy-system/refusal/refusal.ts"
@@ -102,6 +103,7 @@ async function deploying(argv: readonly string[]): Promise<void> {
     for (const manifest of plan.manifests) {
       process.stdout.write(`  ${relativeTo(root, manifest.path)}\n`)
     }
+    refuseUnsubstituted(root, plan)
     return
   }
 

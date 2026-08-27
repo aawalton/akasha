@@ -29,3 +29,5 @@ A workstation service is refused here.
 The namespace is applied before anything placed in it, and the workload after everything it reads.
 
 A deploy waits for the rollout of a workload that has one.
+
+A manifest carrying a value its synth left for somebody else to fill in is refused.
