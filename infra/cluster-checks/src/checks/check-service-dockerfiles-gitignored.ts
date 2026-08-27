@@ -11,9 +11,9 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 
 const PREFIX = "[service-dockerfiles-gitignored]"
 
-const REGISTRY_REL = "packages/infra/scripts/src/generate-dockerfiles-registry.ts"
-const TOOL_REL = "packages/infra/scripts/src/generate-dockerfiles-tool.ts"
-const TYPES_REL = "packages/infra/scripts/src/generate-dockerfiles-types.ts"
+const REGISTRY_REL = "infra/scripts/src/generate-dockerfiles-registry.ts"
+const TOOL_REL = "infra/scripts/src/generate-dockerfiles-tool.ts"
+const TYPES_REL = "infra/scripts/src/generate-dockerfiles-types.ts"
 
 interface Violation {
   service: string
