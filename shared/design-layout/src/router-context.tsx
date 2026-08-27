@@ -28,7 +28,7 @@ export function useLayoutRouter(): LayoutRouter {
   const value = useContext(LayoutRouterContext)
   if (value === null) {
     throw new Error(
-      "Missing <LayoutRouterProvider>. Mount it in your app-shell with a value derived from the host router (react-router) — see packages/shared/design/layout/CLAUDE.md § Router/Link seam."
+      "Missing <LayoutRouterProvider>. Mount it in your app-shell with a value derived from the host router (react-router)."
     )
   }
   return value
@@ -75,7 +75,7 @@ export function LayoutLink(props: LayoutLinkProps) {
   const Component = useContext(LayoutLinkContext)
   if (Component === null) {
     throw new Error(
-      "Missing <LayoutLinkProvider>. Mount it in your app-shell with the host's `Link` component (react-router's `Link`) — see packages/shared/design/layout/CLAUDE.md § Router/Link seam."
+      "Missing <LayoutLinkProvider>. Mount it in your app-shell with the host's `Link` component (react-router's `Link`)."
     )
   }
   return <Component {...props} />

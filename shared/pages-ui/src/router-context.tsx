@@ -30,7 +30,7 @@ export function usePagesUIRouter(): PagesUIRouter {
   const value = useContext(PagesUIRouterContext)
   if (value === null) {
     throw new Error(
-      "Missing <PagesUIRouterProvider>. Mount it in your app-shell with a value derived from the host router (react-router) — see packages/shared/pages/ui/CLAUDE.md § Router/Link seam."
+      "Missing <PagesUIRouterProvider>. Mount it in your app-shell with a value derived from the host router (react-router)."
     )
   }
   return value
@@ -68,7 +68,7 @@ export function PagesUILink(props: PagesUILinkProps) {
   const Component = useContext(PagesUILinkContext)
   if (Component === null) {
     throw new Error(
-      "Missing <PagesUILinkProvider>. Mount it in your app-shell with the host's `Link` component (react-router's `Link`) — see packages/shared/pages/ui/CLAUDE.md § Router/Link seam."
+      "Missing <PagesUILinkProvider>. Mount it in your app-shell with the host's `Link` component (react-router's `Link`)."
     )
   }
   return <Component {...props} />
