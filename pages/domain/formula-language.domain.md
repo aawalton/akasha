@@ -65,4 +65,6 @@ A formula that names a key its page type does not declare is refused when the pa
 
 A formula whose types do not meet is refused when the page type is checked.
 
+A formula that answers a kind other than the type its property declares is refused when the page type is checked.
+
 A formula that passes its check answers a value or absent, and never fails.
