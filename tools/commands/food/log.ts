@@ -91,7 +91,7 @@ const COVER_STEP = "cover"
 const NUTRITION_STEP = "nutritionPoints"
 const NOTHING_MISSED = "none"
 
-const STEM_CEILING = 71
+const STEM_CEILING = 100
 const NOON = 12
 const MAX_FOOD_ENTRIES = 5000
 const DAY_PATTERN = /^\d{4}-\d{2}-\d{2}$/

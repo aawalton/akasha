@@ -8,7 +8,7 @@ const EDGE_DASHES = /^-+|-+$/g
 
 const HOLE = /\{([a-z0-9-]+)\}/g
 
-export const STEM_CEILING = 71
+export const STEM_CEILING = 100
 
 /** What a rule's hole is filled from: the text held under a key, or null where nothing is. */
 export type HeldAt = (key: string) => string | null
