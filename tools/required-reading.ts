@@ -109,7 +109,7 @@ function readScan(root: string, pending: Pending | null): Scan {
       named.set(`${claim.repo}:${claim.path}`, at)
     }
   }
-  const roots = { ...resolveRoots(), instructions: root }
+  const roots = { ...resolveRoots(), akasha: root }
   const foreign = new Map<string, Frontmatter | null>()
   const foreignAt = (absolute: string): Frontmatter | null => {
     const held = foreign.get(absolute)
@@ -222,7 +222,7 @@ if (import.meta.main) {
     printed(
       located.relPath,
       located.repo,
-      requiredReadingFor(located.relPath, roots.instructions, located.repo),
+      requiredReadingFor(located.relPath, roots.akasha, located.repo),
       pageTypeChain(located.relPath, located.repo, diskFileTree(roots)).relPaths ?? []
     )
   )

@@ -25,7 +25,7 @@ function filedRepoOf(text: string): string | null {
 const typeRepos = new Map<string, string | null>()
 
 export function repoHolding(type: string, roots: Roots): string | null {
-  const at = roots.instructions
+  const at = roots.akasha
   if (at === undefined) return null
   const key = `${at}\n${type}`
   const held = typeRepos.get(key)
