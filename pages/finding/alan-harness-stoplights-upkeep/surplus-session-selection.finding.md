@@ -28,6 +28,6 @@ The four matching days were the whole of what anyone had checked before, which i
 
 Safety was measured the same way across the same eight days and the two paths agree on every one of them, so this belongs to surplus alone.
 
-The code path is gone as of 32f85fed86 in the code repository, so nothing draws the wake-window selection any more and there is no disagreement standing. What remains is the question of which selection is the right one. A day's slug is set when the session is filed; a wake window runs from waking to waking, beginning no earlier than 6am America/New_York. They part company for a session filed under one day that began inside another's window — a late night is the ordinary case.
+The code path is gone as of 32f85fed86 in the code repository, so nothing draws the wake-window selection any more and there is no disagreement standing. Re-measured 2026-08-27: the day-slug selection is the whole of what stands, in `readouts/query/surplus-hours-on-day.page-query.md`, which takes `daily-tracking` pages on `date: is: $date` and sums `surplus-hours`. What remains is the question of which selection is the right one. A day's slug is set when the session is filed; a wake window runs from waking to waking, beginning no earlier than 6am America/New_York. They part company for a session filed under one day that began inside another's window — a late night is the ordinary case.
 
 Nobody has looked before 2026-08-14.
