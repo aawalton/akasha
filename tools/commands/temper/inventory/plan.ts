@@ -12,6 +12,7 @@ import {
   type CharacterKnowledge,
   type ClassifiedInventoryItem,
   type CharacterSession,
+  type ClassifiableItem,
   classifyItem,
   type CompiledOrderedRule,
   type InventoryDatabase,
@@ -70,11 +71,6 @@ export const help: CommandHelp = {
     "ops temper inventory plan",
     "ops temper inventory plan --inventory-path ./fixture.lua --json",
   ],
-}
-
-interface LocationRow {
-  readonly displayName: string
-  readonly bags: Record<string, Record<string, unknown>>
 }
 
 interface VenueRow {
@@ -188,11 +184,10 @@ function actionToVerb(
 
 function classifyInventoryForMatcher(
   db: InventoryDatabase,
-  classifyItemToNodeIds: (item: unknown) => readonly string[]
+  classifyItemToNodeIds: (item: ClassifiableItem) => readonly string[]
 ): readonly ClassifiedInventoryItem[] {
   const out: ClassifiedInventoryItem[] = []
-  const locations = (db as { locations: Record<string, LocationRow> }).locations
-  for (const [locationKey, location] of Object.entries(locations)) {
+  for (const [locationKey, location] of Object.entries(db.locations)) {
     for (const [bagIdStr, slots] of Object.entries(location.bags)) {
       for (const item of Object.values(slots)) {
         out.push({

@@ -2,6 +2,7 @@ import { assertNever } from "@shared/utils-narrow"
 import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
 import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
+import type { ClassifiableItem } from "@temper/game-items-core/item-category-tree-types"
 import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
 import type { ClassifiedInventoryItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
 import type { RuleMatcherContext } from "@temper/game-items-rules-core/rule-matcher-context-types"
@@ -42,6 +43,7 @@ export type {
   CapacityAuditEntry,
   CharacterKnowledge,
   CharacterSession,
+  ClassifiableItem,
   ClassifiedInventoryItem,
   CompiledInventoryConfig,
   CompiledOrderedRule,
