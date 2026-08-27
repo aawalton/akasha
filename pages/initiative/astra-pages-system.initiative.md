@@ -9,7 +9,8 @@ parent-slug: aine-global
 
 # Intent
 
-- A page's name is computed from a formula, defaulting to `{slug} || {id}`.
+- A page's name is worked out by the formula language, from a formula its page type states.
+- No code decides a page's name.
 - A page's name is unique among the pages of its page type.
 - `named-for` and `unique-key` no longer exist.
 - A page can live where its domain lives, or under a folder named for its page type.
@@ -48,14 +49,16 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **The index validity strategy, settled 2026-08-27.** The index updates as part of every change that runs through the ops tools, and no change runs outside them. One command checks an index for validity without changing it, and another rebuilds one. The check runs daily as an audit, and a gap it finds is traced to its root cause. Validity is never checked when the index is queried.
 
+**The formula language already carries the fallback the naming intents need.** `||` returns its left value where that value is truthy and its right otherwise, in both implementations, pinned against each other by the conformance suite. It is spelled `prop(slug) || prop(id)`, not `{slug} || {id}`, which is template notation.
+
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
-- `.git/pages-answers` and `.git/pages/resolved` were never reviewed: three cache roots under `.git`, three path conventions, three version schemes, and no eviction on two of them.
-- `page/property/type-cache.ts` invalidates on `tools/page`, the pre-migration module, while the live resolver is `page/property/`. Its `VERSION = 4` is the hand-bumped cover for that.
+- Naming runs on templates rather than on the formula language. Four hole-renderers behave four different ways on an unfilled hole, twenty hyphenated holes parse as subtraction rather than as references, and `{id}` is out of scope where a new page is named.
+- `vocabulary` and `rows-homes` are cached under a mark taken over the page shape alone, while both read the registry, which reads the index. Only `registry` carries an index stamp.
+- `page/shape/mark.ts` names `checks/refusal` where the folder is `checks-system/refusal`, so `ownCodeParts` finds one folder short and answers nothing. `page/shape/mark.unit.test.ts` fails on main for this. Whether the answers cache is thereby dead is unsettled: answers landed today carrying whole shape marks.
 - 2,633 pages exist byte-identically in both `akasha` and `books`, which is why `page-name-unique` meets collisions it cannot explain.
-- The second intent costs 24,518 renames across eight page types, `story-chapter-royal-road` and `persona-day` being most of it.
-- The formula language has no fallback operator, which the first intent's `{slug} || {id}` needs.
-- `keepAt` removes an emptied relation file but never its directory; 11 relation directories hold no file at all.
+- The unique-name intent costs 24,518 renames across eight page types, `story-chapter-royal-road` and `persona-day` being most of it.
+- `keepNamedIn` removes an emptied identity file but never its directory.
 
 **The graph answer cache under `.git/answers` is out of scope**, being the graph system's rather than the pages system's.
 
