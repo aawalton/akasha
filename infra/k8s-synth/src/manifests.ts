@@ -23,23 +23,17 @@ const SynthOutput = z.array(
 export type SynthEntry = z.infer<typeof SynthOutput>[number]
 
 export const DISCOVERY_GLOBS: readonly string[] = [
-  "packages/infra/k8s/src/*/synth.ts",
-  "packages/infra/k8s/*/*/k8s/synth.ts",
-  "packages/infra/*/k8s/synth.ts",
-  "packages/infra/*/*/k8s/synth.ts",
-  "packages/*/*/deploy/k8s/synth.ts",
-  "packages/*/*/*/deploy/k8s/synth.ts",
+  "infra/k8s/src/*/synth.ts",
+  "infra/k8s/*/*/k8s/synth.ts",
+  "infra/*/k8s/synth.ts",
+  "infra/*/*/k8s/synth.ts",
+  "*/*/deploy/k8s/synth.ts",
+  "*/*/*/deploy/k8s/synth.ts",
 ]
 
-const NON_IDENTIFIER_COMPONENTS: ReadonlySet<string> = new Set([
-  "packages",
-  "k8s",
-  "deploy",
-  "src",
-  "synth.ts",
-])
+const NON_IDENTIFIER_COMPONENTS: ReadonlySet<string> = new Set(["k8s", "deploy", "src", "synth.ts"])
 
-const K8S_SOURCE_ROOT = "packages/infra/k8s/src/"
+const K8S_SOURCE_ROOT = "infra/k8s/src/"
 
 export function checkoutRoot(from: string = import.meta.dir): string {
   let dir = realpathSync(from)

@@ -7,11 +7,11 @@ describe("reachedThroughSrc", () => {
   })
 
   it("skips a service reached through some other package's source root", () => {
-    expect(reachedThroughSrc("packages/temper/web/src/deploy/k8s/synth.ts")).toBe(true)
+    expect(reachedThroughSrc("temper/web/src/deploy/k8s/synth.ts")).toBe(true)
   })
 
   it("skips a src nested below the k8s package's own source root", () => {
-    expect(reachedThroughSrc("packages/infra/k8s/src/grafana/src/synth.ts")).toBe(true)
+    expect(reachedThroughSrc("infra/k8s/src/grafana/src/synth.ts")).toBe(true)
   })
 })
 
@@ -21,13 +21,13 @@ describe("pathHasComponent", () => {
   })
 
   it("matches either component of a nested service", () => {
-    const nested = "packages/infra/k8s/postgres/gfs-promoter/synth.ts"
+    const nested = "infra/k8s/postgres/gfs-promoter/synth.ts"
     expect(pathHasComponent(nested, "postgres")).toBe(true)
     expect(pathHasComponent(nested, "gfs-promoter")).toBe(true)
   })
 
   it("never matches a structural component, which names no service", () => {
-    for (const structural of ["packages", "k8s", "deploy", "src", "synth.ts"]) {
+    for (const structural of ["k8s", "deploy", "src", "synth.ts"]) {
       expect(pathHasComponent("infra/k8s/src/grafana/synth.ts", structural)).toBe(false)
     }
   })
@@ -40,8 +40,8 @@ describe("pathHasComponent", () => {
 describe("generatedPathFor", () => {
   it("lands the manifest under the synth file's own generated directory", () => {
     expect(
-      generatedPathFor("/repo/packages/infra/k8s/src/grafana/synth.ts", "grafana-deployment")
-    ).toBe("/repo/packages/infra/k8s/src/grafana/generated/grafana-deployment.generated.yaml")
+      generatedPathFor("/repo/infra/k8s/src/grafana/synth.ts", "grafana-deployment")
+    ).toBe("/repo/infra/k8s/src/grafana/generated/grafana-deployment.generated.yaml")
   })
 })
 
