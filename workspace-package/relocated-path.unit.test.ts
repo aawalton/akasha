@@ -265,3 +265,27 @@ describe("a repository beside the source is a landing site only where the plan n
     expect(relocatedPath(SHIM, SETTLED, "../../../../akasha/day/day.ts", CROSSING)).toBe(null)
   })
 })
+
+describe("a package nested inside the one moving goes to its own place", () => {
+  const OUTER = "packages/temper/game/characters"
+
+  const LANDS = "temper/game-characters"
+
+  const INNER: Landed = {
+    from: "packages/temper/game/characters/character",
+    to: "temper/game-characters-character",
+  }
+
+  test("a reference to a nested package is renamed to where that package lands", () => {
+    expect(relocatedPath(OUTER, LANDS, "./character", [INNER])).toBe("../game-characters-character")
+  })
+
+  test("a path inside the moving package that no entry names is carried along", () => {
+    expect(relocatedPath(OUTER, LANDS, "./src", [INNER])).toBe("./src")
+  })
+
+  test("a nested package going nowhere is refused rather than carried along", () => {
+    const stays: Landed = { from: INNER.from, to: null }
+    expect(relocatedPath(OUTER, LANDS, "./character", [stays])).toBe(null)
+  })
+})

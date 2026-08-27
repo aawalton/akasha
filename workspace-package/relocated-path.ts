@@ -77,7 +77,7 @@ export function relocatedPath(
   const target = normalized(joined(fromDir, head))
   const over = landedOver(landed, target)
   if (target.startsWith(UP) && (over === null || over.from === "")) return null
-  if (within(fromDir, target)) {
+  if (within(fromDir, target) && (over === null || over.from.length <= fromDir.length)) {
     const carried = joined(toDir, target.slice(fromDir.length).replace(/^\//, ""))
     return joined(spelledLike(spec, relativeFrom(toDir, normalized(carried))), tail)
   }

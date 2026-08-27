@@ -20,14 +20,20 @@ export function carriesManifest(tracked: readonly string[], dir: string): boolea
   return tracked.includes(`${dir}/${MANIFEST}`)
 }
 
+export function innerPackages(fromDir: string, dirs: readonly string[]): readonly string[] {
+  return dirs.filter((one) => one !== fromDir && within(fromDir, one))
+}
+
 export function movesForPackage(
   fromDir: string,
   toDir: string,
-  tracked: readonly string[]
+  tracked: readonly string[],
+  inner: readonly string[]
 ): Moves {
   const moves = new Map<string, string>()
   for (const relPath of tracked) {
     if (!within(fromDir, relPath)) continue
+    if (inner.some((one) => within(one, relPath))) continue
     moves.set(relPath, `${toDir}${relPath.slice(fromDir.length)}`)
   }
   return moves

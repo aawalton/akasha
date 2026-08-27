@@ -3,6 +3,7 @@ import type { Repointed } from "../repoint/repoint.ts"
 import type { Landed } from "./relocated-path.ts"
 import {
   carriesManifest,
+  innerPackages,
   movesForPackage,
   namesTsconfig,
   within,
@@ -53,7 +54,7 @@ describe("carriesManifest", () => {
 
 describe("movesForPackage", () => {
   test("every tracked file under the package is given a destination", () => {
-    const moves = movesForPackage(FROM, TO, TRACKED)
+    const moves = movesForPackage(FROM, TO, TRACKED, [])
     expect([...moves.entries()].sort()).toEqual([
       ["packages/temper/game/items/addon/metadata/TemperItems.txt", `${TO}/metadata/TemperItems.txt`],
       ["packages/temper/game/items/addon/package.json", `${TO}/package.json`],
@@ -63,17 +64,46 @@ describe("movesForPackage", () => {
   })
 
   test("a sibling package sharing a name prefix is left where it is", () => {
-    const moves = movesForPackage(FROM, TO, TRACKED)
+    const moves = movesForPackage(FROM, TO, TRACKED, [])
     expect(moves.has("packages/temper/game/items/addon-extras/package.json")).toBe(false)
   })
 
   test("the tree under the package is carried whole, not flattened", () => {
-    const moves = movesForPackage(FROM, TO, TRACKED)
+    const moves = movesForPackage(FROM, TO, TRACKED, [])
     expect(moves.get(`${FROM}/src/main.ts`)).toBe(`${TO}/src/main.ts`)
   })
 
   test("a package holding nothing tracked moves nothing", () => {
-    expect(movesForPackage("packages/nothing", "nothing", TRACKED).size).toBe(0)
+    expect(movesForPackage("packages/nothing", "nothing", TRACKED, []).size).toBe(0)
+  })
+})
+
+describe("a package nested inside another keeps its own files", () => {
+  const UI = `${FROM}/ui`
+
+  const HOLDING = [
+    `${FROM}/package.json`,
+    `${FROM}/src/main.ts`,
+    `${UI}/package.json`,
+    `${UI}/src/panel.ts`,
+  ]
+
+  test("a package directory inside the one moving is named as inner", () => {
+    expect(innerPackages(FROM, [FROM, UI, "packages/temper/game/items/core"])).toEqual([UI])
+  })
+
+  test("the package moving is not inside itself", () => {
+    expect(innerPackages(FROM, [FROM])).toEqual([])
+  })
+
+  test("a file of an inner package is left for that package's own move", () => {
+    const moves = movesForPackage(FROM, TO, HOLDING, [UI])
+    expect(moves.has(`${UI}/src/panel.ts`)).toBe(false)
+  })
+
+  test("the outer package's own files still move", () => {
+    const moves = movesForPackage(FROM, TO, HOLDING, [UI])
+    expect(moves.get(`${FROM}/src/main.ts`)).toBe(`${TO}/src/main.ts`)
   })
 })
 

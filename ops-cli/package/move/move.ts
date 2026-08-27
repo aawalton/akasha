@@ -7,7 +7,7 @@ import { fail, valueOf } from "../../../patches/patch.ts"
 import { land, LandingRefused } from "../../../repo/land/land.ts"
 import { rootsHere, targetRoot } from "../../../repo/roots/roots.ts"
 import { type How, manifestWorkspaces } from "../../../workspace-package/manifest-workspaces.ts"
-import { movesForPackage, namesTsconfig } from "../../../workspace-package/package-move.ts"
+import { innerPackages, movesForPackage, namesTsconfig } from "../../../workspace-package/package-move.ts"
 import { landedFor, type Placing, placeOf } from "../../../workspace-package/package-place.ts"
 import type { Landed } from "../../../workspace-package/relocated-path.ts"
 import { tsconfigRelocated } from "../../../workspace-package/tsconfig-relocated.ts"
@@ -155,7 +155,12 @@ export default async function move(argv: readonly string[]): Promise<void> {
       : planForSource(planIn(readFileSync(planFile, "utf8")), source.repo)
   const landed = landedFor(plan)
 
-  const refused = tsconfigRefusals(source, fromDir, toDir, tracked, landed)
+  const inner = innerPackages(
+    fromDir,
+    plan.map((one) => one.from)
+  )
+  const moves = movesForPackage(fromDir, toDir, tracked, inner)
+  const refused = tsconfigRefusals(source, fromDir, toDir, [...moves.keys()], landed)
   if (refused.length > 0) {
     fail(
       [
@@ -166,7 +171,6 @@ export default async function move(argv: readonly string[]): Promise<void> {
     )
   }
 
-  const moves = movesForPackage(fromDir, toDir, tracked)
   const messageFile = valueOf(argv, MESSAGE_FILE)
   const message =
     messageFile !== null
