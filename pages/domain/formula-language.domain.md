@@ -29,9 +29,17 @@ A reference inside a text literal is filled where it stands.
 
 A formula chooses between values with a case, and with nothing else.
 
+A case is written `case(`, its rows separated by commas, then `)`.
+
+A case row is written as its test, then `->`, then its value.
+
 Every case ends with an `otherwise` row.
 
+An `otherwise` row is written with the word `otherwise` where its test would be.
+
 A case works out only the value of the row whose test passed.
+
+A function call is written as its name, then its arguments between parentheses, separated by commas.
 
 A formula names a computed property exactly as it names a stored one.
 
@@ -42,6 +50,10 @@ A cycle among a page type's formulas is refused when the page type is checked.
 A formula joins text by writing references into a text literal, and in no other way.
 
 A formula's operators bind in this order, loosest first: `??`, `&&`, comparison, addition, multiplication.
+
+Parentheses group.
+
+An operator that can answer from its left side alone does not work out its right.
 
 A text literal is written between double quotes, and holds no quote of its own.
 
