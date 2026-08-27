@@ -17,6 +17,18 @@ export const DESCRIPTION =
   "cannot move one at a time in any order, and a restructure splitting one document into two " +
   "named paths is one act rather than two.\n" +
   "\n" +
+  "A `--from` NAMING A DIRECTORY STANDS FOR EVERY TRACKED FILE UNDER IT, each landing at the same " +
+  "relative path under `--to`, as one act and one commit and in every other respect as though the " +
+  "files had been named by hand. `--to` must not exist: `mv` on the command line nests a directory " +
+  "inside an existing one and replaces a missing one, so the same two words would mean two " +
+  "different landings depending on what is on disk, and here `--to` always names the path the " +
+  "directory BECOMES. A file git neither tracks nor ignores REFUSES the call, the directory it " +
+  "stands in being about to go and a file left behind under it being a file lost; an ignored file " +
+  "is passed over, being build output rather than content. A file standing beside a page also in " +
+  "the expansion is not named, a page's own files going with it already. A path under `dirty/` is " +
+  "passed over, and a directory holding nothing else is refused. A file whose kind states " +
+  "`binary: true` is carried exactly as it is when named by hand.\n" +
+  "\n" +
   "WHAT IT REPOINTS is what a hand-run grep was reaching for. A markdown link is RESOLVED rather " +
   "than matched, so a relative spelling and an absolute one are both followed, and a link label " +
   "is rewritten where it is exactly the target's filename stem — an address written in words, " +
@@ -86,7 +98,7 @@ export const DESCRIPTION =
 
 export const FLAGS = [
   { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository the --from paths address. They settle it, and a disagreeing --repo is refused." },
-  { name: FROM, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "A file to move, absolute or against the directory this ran in. Each --from takes its own --to." },
+  { name: FROM, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "A file or directory to move, absolute or against the directory this ran in. Each --from takes its own --to. A directory stands for every tracked file under it." },
   { name: TO, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "Where it lands. Must not exist. May be in another repository, which makes the move one act and two commits." },
   { name: INPUT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Edits to apply as the bodies land, in the shape `edit` takes; `file_path` names the destination." },
   { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the pairs." },

@@ -1,13 +1,14 @@
-import { existsSync, readFileSync, statSync } from "node:fs"
+import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
 import type { Addressed } from "../ops-cli/global/address.ts"
 import { anyRefused, render } from "../outcome/outcome.ts"
 import { carriesBytes } from "../page/file-kind/carries-bytes.ts"
 import type { Roots } from "../page/page.ts"
-import { sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"
+import { pageOfSidecar, sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { fail } from "../patches/patch.ts"
 import { type Carry, land, type Landing, LandingRefused } from "../repo/land/land.ts"
 import { canonicalize } from "../repo/path/path.ts"
-import { rootsHere, targetRepo, targetRoot } from "../repo/roots/roots.ts"
+import { isDirty, rootsHere, targetRepo, targetRoot } from "../repo/roots/roots.ts"
+import { trackedIn, untrackedIn } from "../page/tracked/tracked.ts"
 import { escapedSpellings } from "../repoint/mention.ts"
 import {
   importerReading,
@@ -35,6 +36,106 @@ export interface Move {
   readonly message: string
   readonly dryRun: boolean
   readonly transform?: (relPath: string, body: string) => string
+}
+
+export interface Expanded {
+  readonly pairs: readonly Pair[]
+  readonly notes: readonly string[]
+}
+
+/**
+ * A `--from` naming a directory stands for every tracked file under it, each landing at the same
+ * relative path under `--to`.
+ *
+ * WHAT IS CARRIED IS WHAT GIT TRACKS. A file git neither tracks nor ignores REFUSES the whole
+ * call: the directory it stands in is about to stop existing, and carrying its tracked files
+ * while leaving that one behind loses it at a path nothing names any more. An ignored file is
+ * passed over in silence, being build output rather than content.
+ *
+ * A `--to` THAT ALREADY EXISTS REFUSES. `mv` on the command line nests a directory inside an
+ * existing one and replaces a missing one, so the same two words mean two different landings
+ * depending on the state of the disk. Here `--to` always names the path the directory becomes.
+ *
+ * A SIDECAR OF A PAGE ALSO IN THE EXPANSION IS NOT NAMED, because a page's own files are carried
+ * with it already; naming it as well would declare one path twice. A sidecar whose page is
+ * outside the directory is named like anything else.
+ *
+ * QUARANTINED MATERIAL IS PASSED OVER. Everything else this command does to `dirty/` reports and
+ * never rewrites, and a bulk expansion nobody wrote out by hand is the last place to start
+ * carrying it. Naming such a file as its own pair still moves it.
+ */
+export function expandDirectories(
+  pairs: readonly Pair[],
+  source: Addressed,
+  destination: Addressed
+): Expanded {
+  const refusals: string[] = []
+  const made: Pair[] = []
+  const notes: string[] = []
+  for (const one of pairs) {
+    const from = one.from.endsWith("/") ? one.from.slice(0, -1) : one.from
+    const to = one.to.endsWith("/") ? one.to.slice(0, -1) : one.to
+    const absolute = `${source.root}/${from}`
+    if (!existsSync(absolute) || !statSync(absolute).isDirectory()) {
+      made.push(one)
+      continue
+    }
+    // AN EMPTY DIRECTORY IS NOT IN THE WAY. git tracks files and not directories, so a directory
+    // this same command moved out of is still standing afterwards with nothing in it, and reading
+    // that as an occupied destination refuses the move back.
+    const standing = `${destination.root}/${to}`
+    const occupied =
+      existsSync(standing) &&
+      (!statSync(standing).isDirectory() || readdirSync(standing).length > 0)
+    if (occupied) {
+      refusals.push(
+        `${to} already exists and holds something, and ${from} is a directory — a directory names ` +
+          "the path it becomes, never a parent to nest inside, so name the path it should land on"
+      )
+      continue
+    }
+    const loose = untrackedIn(source.root, from)
+    if (loose.length > 0) {
+      refusals.push(
+        `${from} holds ${loose.length} file(s) git neither tracks nor ignores, and an expansion ` +
+          `carries what is tracked — ${loose.join(", ")} would be left behind under a directory ` +
+          "this call takes away. Track them, ignore them, or move the files by name"
+      )
+      continue
+    }
+    const held = trackedIn(source.root, from)
+    const inside = new Set(held)
+    let quarantined = 0
+    let beside = 0
+    for (const each of held) {
+      if (isDirty(each)) {
+        quarantined += 1
+        continue
+      }
+      const page = pageOfSidecar(each)
+      if (page !== null && inside.has(page)) {
+        beside += 1
+        continue
+      }
+      made.push({ from: each, to: `${to}${each.slice(from.length)}` })
+    }
+    const named = held.length - quarantined - beside
+    if (named === 0) {
+      refusals.push(
+        `${from} names no file this would move — it tracks ${held.length} file(s), of which ` +
+          `${quarantined} stand under \`dirty/\` and ${beside} go with a page already`
+      )
+      continue
+    }
+    notes.push(
+      `${from} is a directory standing for ${named} tracked file(s), each landing at the same ` +
+        `relative path under ${to}` +
+        (beside === 0 ? "" : `; ${beside} file(s) beside a page go with it unnamed`) +
+        (quarantined === 0 ? "" : `; ${quarantined} file(s) under \`dirty/\` were passed over`)
+    )
+  }
+  if (refusals.length > 0) fail(refusals.join("\n       "))
+  return { pairs: made, notes }
 }
 
 export function validatePairs(

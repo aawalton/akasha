@@ -9,21 +9,20 @@ export type PageFile = PageName & {
 
 export class UntrackedTree extends Error {}
 
-export function trackedIn(root: string, key: string | null = null): readonly string[] {
+function listedBy(root: string, args: readonly string[]): readonly string[] {
   let listed: Buffer
   try {
-    listed = execFileSync(
-      "git",
-      key === null ? ["-C", root, "ls-files", "-z"] : ["-C", root, "ls-files", "-z", "--", key],
-      { maxBuffer: BUFFER_CEILING, stdio: ["ignore", "pipe", "pipe"] }
-    )
+    listed = execFileSync("git", ["-C", root, ...args], {
+      maxBuffer: BUFFER_CEILING,
+      stdio: ["ignore", "pipe", "pipe"],
+    })
   } catch (thrown) {
     const said =
       thrown === null || typeof thrown !== "object"
         ? ""
         : String(Reflect.get(thrown, "stderr") ?? "").trim()
     throw new UntrackedTree(
-      `git cannot say what ${root} tracks${said === "" ? "" : ` \u2014 ${said}`}, so nothing here can ` +
+      `git cannot say what ${root} holds${said === "" ? "" : ` \u2014 ${said}`}, so nothing here can ` +
         "list its files. Answering with no files would read as a tree naming nothing that moved, " +
         "rather than as a question that was never asked"
     )
@@ -32,6 +31,14 @@ export function trackedIn(root: string, key: string | null = null): readonly str
     .toString("utf8")
     .split("\0")
     .filter((one) => one !== "")
+}
+
+export function trackedIn(root: string, key: string | null = null): readonly string[] {
+  return listedBy(root, key === null ? ["ls-files", "-z"] : ["ls-files", "-z", "--", key])
+}
+
+export function untrackedIn(root: string, key: string): readonly string[] {
+  return listedBy(root, ["ls-files", "-z", "--others", "--exclude-standard", "--", key])
 }
 
 export function specFor(type: string): string {

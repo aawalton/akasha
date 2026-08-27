@@ -1,7 +1,7 @@
 export const summary = "Move files, repoint everything that named them, and remove the orphans"
 
 import { readFileSync } from "node:fs"
-import { landMoves, type Pair, validatePairs } from "../../../move/move.ts"
+import { expandDirectories, landMoves, type Pair, validatePairs } from "../../../move/move.ts"
 import { applyPairs, type Pair as EditPair, parsePairs } from "../../../patches/edit-pairs.ts"
 import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
 import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
@@ -138,7 +138,7 @@ export default async function mv(argv: readonly string[]): Promise<void> {
   if (stated.length === 0) fail("name at least one pair to move")
   const source = sideOf(argv, stated.map((one) => one.from), FROM)
   const destination = sideOf(withoutRepo(argv), stated.map((one) => one.to), TO)
-  const moves = validatePairs(
+  const expanded = expandDirectories(
     stated.map((one) => ({
       from: relPathIn(source, one.from),
       to: relPathIn(destination, one.to),
@@ -146,6 +146,8 @@ export default async function mv(argv: readonly string[]): Promise<void> {
     source,
     destination
   )
+  for (const note of expanded.notes) process.stderr.write(`expand: ${note}\n`)
+  const moves = validatePairs(expanded.pairs, source, destination)
 
   const inputFile = valueOf(argv, INPUT_FILE)
   const change =
