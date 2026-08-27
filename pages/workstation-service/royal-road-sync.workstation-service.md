@@ -18,4 +18,4 @@ needs-secrets: false
 
 # Definition
 
-- **Royal road sync** — the service that syncs Royal Road chapters into akasha.
+- **Royal road sync** — the service that syncs Royal Road chapters.
