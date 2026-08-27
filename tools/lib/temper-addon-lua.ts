@@ -1,23 +1,15 @@
 
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { codeModule } from "./code-import.ts"
+import { type LuaVm, withLuaVm } from "@temper/shared-build-deploy-lua-runner"
 import { codeRoot } from "./code-root.ts"
 import { tstlModule, tstlRoot } from "./temper-addon-build.ts"
 
 const TSTL = "src/transpilation/index.ts"
 
-const LUA_RUNNER = "@temper/shared-build-deploy-lua-runner"
-
 const ERROR_CATEGORY = 1
 
-export interface LuaVm {
-  readonly run: (script: string) => Promise<unknown>
-}
-
-interface LuaRunner {
-  readonly withLuaVm: <T>(run: (vm: LuaVm) => Promise<T>) => Promise<T>
-}
+export type { LuaVm }
 
 interface Diagnostic {
   readonly category: number
@@ -141,7 +133,6 @@ export async function bundleToLua(source: string, opts: BundleOpts = {}): Promis
   }
 }
 
-export async function withLua<T>(run: (vm: LuaVm) => Promise<T>): Promise<T> {
-  const runner = await codeModule<LuaRunner>(LUA_RUNNER)
-  return runner.withLuaVm(run)
+export function withLua<T>(run: (vm: LuaVm) => Promise<T>): Promise<T> {
+  return withLuaVm(run)
 }

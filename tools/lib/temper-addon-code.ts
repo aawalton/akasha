@@ -1,41 +1,21 @@
 
-import { codeModule } from "./code-import.ts"
+import * as addonsResolveModule from "@temper/shared-build-deploy-addons-resolve"
 
-const ADDONS_RESOLVE = "temper/shared-build-deploy-addons-resolve/src/index.ts"
+export type {
+  AddonInfo,
+  ResolveOpts as AddonResolveOpts,
+} from "@temper/shared-build-deploy-addons-resolve"
 
-const ADDON_GLOBAL_OWNERSHIP =
-  "packages/temper/shared/build-deploy/checks/src/addon-global-ownership.ts"
-
-export interface AddonResolveOpts {
-  readonly repoRoot: string
+export function addonsResolve(): Promise<typeof addonsResolveModule> {
+  return Promise.resolve(addonsResolveModule)
 }
 
-export interface AddonInfo {
-  readonly dir: string
-  readonly canonicalName: string
-  readonly repoRelDir: string
-  readonly workspaceClosure: readonly string[]
-}
-
-interface AddonsResolve {
-  readonly listAllAddons: (opts?: AddonResolveOpts) => readonly AddonInfo[]
-  readonly resolveAddon: (
-    name: string,
-    opts?: AddonResolveOpts
-  ) => { readonly dir: string; readonly canonicalName: string }
-}
-
-interface AddonGlobalOwnership {
-  readonly collectGlobalWritesFromSource: (
-    source: string,
-    filePath: string
-  ) => readonly string[]
-}
-
-export function addonsResolve(root?: string): Promise<AddonsResolve> {
-  return codeModule<AddonsResolve>(ADDONS_RESOLVE, root)
-}
-
-export function addonGlobalOwnership(root?: string): Promise<AddonGlobalOwnership> {
-  return codeModule<AddonGlobalOwnership>(ADDON_GLOBAL_OWNERSHIP, root)
+// Ownership parses TypeScript with the compiler itself, the heaviest thing any
+// of these commands reaches for. Only `temper addon global-name-dependents`
+// asks for it, so it stays behind a dynamic import rather than loading
+// `typescript` on every `temper addon` invocation.
+export function addonGlobalOwnership(): Promise<
+  typeof import("@temper/shared-build-deploy-checks/addon-global-ownership")
+> {
+  return import("@temper/shared-build-deploy-checks/addon-global-ownership")
 }
