@@ -1,5 +1,6 @@
 ---
 id: 42141b48-6d43-5232-98c0-7019889db236
+slug: seat-start-keeps-tmux-name
 page-type-slug: finding
 title: "Only the sn launcher stops a tmux session holding a seat name; seat start refuses instead"
 domain-slug: domain/alan-harness

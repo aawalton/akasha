@@ -1,5 +1,6 @@
 ---
 id: cedad8b7-f2d4-53b0-b66e-7a571aeac4ac
+slug: decision-removed-while-deployed-code-asks
 page-type-slug: finding
 title: "A decision was removed while deployed code still asked for it, killing its one caller for thirty hours"
 domain-slug: domain/agent-harness

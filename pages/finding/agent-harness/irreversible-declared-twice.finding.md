@@ -1,5 +1,6 @@
 ---
 id: bf5100cf-8df8-5b0e-b87c-381446d8fd35
+slug: irreversible-declared-twice
 page-type-slug: finding
 title: "Eighty-seven of the ninety-one commands documented irreversible are not gated"
 domain-slug: domain/agent-harness

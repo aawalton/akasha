@@ -1,5 +1,6 @@
 ---
 id: f4d879c4-0b6b-5d7c-b63f-fb6bb23b8ded
+slug: self-heal-kills-seats-waiting-on-ci
 page-type-slug: finding
 title: "The supervisor's self-heal restart kills a seat waiting on CI, because waiting reads as idle"
 domain-slug: domain/agent-harness

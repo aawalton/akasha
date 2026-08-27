@@ -1,5 +1,6 @@
 ---
 id: 722c9689-55c9-5d60-b516-dee911f9522a
+slug: flash-new-block-start
 page-type-slug: finding
 title: "flash on new block at start of notes"
 domain-slug: persona/astra

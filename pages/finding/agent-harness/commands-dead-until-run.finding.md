@@ -2,6 +2,7 @@
 page-type-slug: finding
 title: "Thirteen ops verbs fail on every run while answering --help cleanly, the audit that found them having been removed for being red"
 domain-slug: agent-harness
+slug: commands-dead-until-run
 ---
 
 # Claim

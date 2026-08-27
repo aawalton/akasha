@@ -1,5 +1,6 @@
 ---
 id: 4781cf30-7cdf-5deb-a26b-47fdc838afec
+slug: migrate-kids-computers-linux
 page-type-slug: finding
 title: "Migrate kids computers to Linux"
 domain-slug: persona/aranya

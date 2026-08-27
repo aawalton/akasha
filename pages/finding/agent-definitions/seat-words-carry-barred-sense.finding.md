@@ -1,5 +1,6 @@
 ---
 id: 6e7902aa-4d01-5107-ab84-33a12e15e09c
+slug: seat-words-carry-barred-sense
 page-type-slug: finding
 title: "Four words settled about a seat still carry the sense the corpus barred"
 domain-slug: domain/agent-definitions

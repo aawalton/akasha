@@ -1,5 +1,6 @@
 ---
 id: e7c471ad-2bc0-51e3-be5e-a1b770a85ac2
+slug: seats-die-without-writing-a-line
 page-type-slug: finding
 title: "Spawned seats die without writing a line and no surface reports it"
 domain-slug: barred-meaning/agent-launch

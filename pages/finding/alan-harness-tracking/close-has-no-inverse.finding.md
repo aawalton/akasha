@@ -1,5 +1,6 @@
 ---
 id: e8c6d842-a970-5fc6-9dc2-b1758846ae1c
+slug: close-has-no-inverse
 page-type-slug: finding
 title: "Closing a tracking session is one word from reading it, and nothing reopens what it closed"
 domain-slug: domain/alan-harness-tracking

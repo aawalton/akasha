@@ -1,5 +1,6 @@
 ---
 id: 56f8c1fa-de7e-5615-af3c-048fddc7f25e
+slug: ctrl-enter-open-close
 page-type-slug: finding
 title: "CTRL+Enter to open/close toggle blocks"
 domain-slug: persona/astra

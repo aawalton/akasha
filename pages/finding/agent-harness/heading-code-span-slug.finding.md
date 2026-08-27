@@ -1,5 +1,6 @@
 ---
 id: f643bd8d-759b-5cd9-a9e6-7fdd819b09d4
+slug: heading-code-span-slug
 page-type-slug: finding
 title: "The links gate strips inline code before slugifying, so an anchor onto a code-span heading cannot resolve"
 domain-slug: domain/agent-harness

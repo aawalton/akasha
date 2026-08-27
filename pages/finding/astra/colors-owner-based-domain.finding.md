@@ -1,5 +1,6 @@
 ---
 id: ea2cdbd4-2f29-5322-84cd-6d1baa8093c4
+slug: colors-owner-based-domain
 page-type-slug: finding
 title: "colors for owner based on domain category"
 domain-slug: persona/astra

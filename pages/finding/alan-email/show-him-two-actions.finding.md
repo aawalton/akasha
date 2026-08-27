@@ -1,5 +1,6 @@
 ---
 id: c22c7c90-6d2e-5ca2-9899-7e60dd0460b9
+slug: show-him-two-actions
 page-type-slug: finding
 title: "Show him spans two declared actions and the document distinguishes neither"
 domain-slug: domain/alan-email

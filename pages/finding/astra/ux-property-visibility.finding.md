@@ -1,5 +1,6 @@
 ---
 id: 831d239c-2869-577a-9238-80797d343009
+slug: ux-property-visibility
 page-type-slug: finding
 title: "UX for property visibility"
 domain-slug: persona/astra

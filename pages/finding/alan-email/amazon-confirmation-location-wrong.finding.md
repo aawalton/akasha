@@ -1,5 +1,6 @@
 ---
 id: df4cdd54-0595-5395-a30e-536750726d87
+slug: amazon-confirmation-location-wrong
 page-type-slug: finding
 title: "Amazon confirmation requests report a consistently wrong location, so it is no evidence of another person"
 domain-slug: domain/alan-email

@@ -1,5 +1,6 @@
 ---
 id: fa66fe05-0a7f-507a-ba4a-8a8df870eec2
+slug: harness-row-fetch-through-code
 page-type-slug: finding
 title: "The harness fetches agent rows through code functions that decide nothing, against its own Design"
 domain-slug: domain/agent-harness

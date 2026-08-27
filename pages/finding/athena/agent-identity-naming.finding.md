@@ -1,5 +1,6 @@
 ---
 id: d029bfe1-0351-5fb4-85ff-47fd3c928021
+slug: agent-identity-naming
 page-type-slug: finding
 title: "agent identity and naming"
 domain-slug: persona/athena

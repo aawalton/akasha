@@ -1,5 +1,6 @@
 ---
 id: b18374f0-d7eb-55c3-8009-f8cb7b8523e5
+slug: fun-points-prior-is-latest-day-and-survives-no-zero
 page-type-slug: finding
 title: "Fun points takes its prior from the latest day and refuses only an absent one"
 domain-slug: domain/alan-harness

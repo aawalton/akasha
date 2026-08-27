@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: abddff92-ca1c-5a30-8cc1-844a579795f9
+slug: worktree-isolation-forks-the-callers-repo
 title: "Worktree isolation forks the caller's repo and gates the seat on its own duplicated pages"
 domain-slug: domain/agent-harness
 ---

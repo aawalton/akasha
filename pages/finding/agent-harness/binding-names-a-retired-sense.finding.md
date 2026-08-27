@@ -1,5 +1,6 @@
 ---
 id: b3cf16b9-c9aa-5e89-bc76-fbb2754bc4d7
+slug: binding-names-a-retired-sense
 page-type-slug: finding
 title: "Fifteen instructions modules use `binding` in the sense a retired domain took away"
 domain-slug: domain/agent-harness

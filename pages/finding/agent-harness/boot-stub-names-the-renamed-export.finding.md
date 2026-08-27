@@ -1,5 +1,6 @@
 ---
 id: 8dd406e2-5f39-550c-9cec-fef12323789e
+slug: boot-stub-names-the-renamed-export
 page-type-slug: finding
 title: "The interactive-boot module stub still declares an export name the real module renamed"
 domain-slug: domain/agent-harness

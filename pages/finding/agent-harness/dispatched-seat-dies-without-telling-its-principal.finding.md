@@ -1,5 +1,6 @@
 ---
 id: a9f28a7f-39b2-5e0c-9c9c-d9147325db6e
+slug: dispatched-seat-dies-without-telling-its-principal
 page-type-slug: finding
 title: "A dispatched seat can die without anything telling the principal who dispatched it"
 domain-slug: domain/agent-harness

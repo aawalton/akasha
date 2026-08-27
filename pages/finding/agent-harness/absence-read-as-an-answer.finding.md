@@ -2,6 +2,7 @@
 page-type-slug: finding
 title: "An instrument that reads a missing input as a definite answer invents faults where the default falls toward refusing"
 domain-slug: agent-harness
+slug: absence-read-as-an-answer
 ---
 
 # Claim

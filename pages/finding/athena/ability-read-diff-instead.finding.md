@@ -1,5 +1,6 @@
 ---
 id: d6534bd9-dec6-59b5-b8b6-2473bc627252
+slug: ability-read-diff-instead
 page-type-slug: finding
 title: "ability to read the diff instead of the file"
 domain-slug: persona/athena

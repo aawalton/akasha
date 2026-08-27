@@ -1,5 +1,6 @@
 ---
 id: bb9461f5-396c-581c-8cde-33e514eb77e5
+slug: find-manual-stim-church
 page-type-slug: finding
 title: "Find a manual stim for church"
 domain-slug: persona/amy

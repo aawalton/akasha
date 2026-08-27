@@ -2,6 +2,7 @@
 page-type-slug: finding
 title: "akasha's gate runs only for writes into akasha, so a landing elsewhere can strand it unjudged"
 domain-slug: agent-harness
+slug: gate-sees-only-its-own-repo
 ---
 
 # Claim

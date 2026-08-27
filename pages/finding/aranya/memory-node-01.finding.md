@@ -1,5 +1,6 @@
 ---
 id: 095338cc-b544-55ec-ba8c-0138930b8b47
+slug: memory-node-01
 page-type-slug: finding
 title: "Memory for node-01"
 domain-slug: persona/aranya

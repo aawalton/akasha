@@ -1,5 +1,6 @@
 ---
 id: 59a104e8-6f49-55e2-9da5-2fa1b3bace9d
+slug: code-seam-audited-not-refused
 page-type-slug: finding
 title: "Nothing refuses a change that breaks the instructions-to-code seam; one audit reports it if run"
 domain-slug: domain/agent-harness

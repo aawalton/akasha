@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 40413127-0468-55b6-8dfd-7eb81d7475de
+slug: uncommitted-work-unreported
 title: "A context replacement can strand finished work uncommitted, and only the next seat into the tree finds it"
 domain-slug: domain/agent-turn-end
 ---

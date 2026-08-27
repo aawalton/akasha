@@ -1,5 +1,6 @@
 ---
 id: 374006ba-62f9-597a-9c93-1d43d4875285
+slug: conditions-with-no-words
 page-type-slug: finding
 title: "Two alert conditions have a document and no words, so nothing says what either means when it fires"
 domain-slug: page-type/alert

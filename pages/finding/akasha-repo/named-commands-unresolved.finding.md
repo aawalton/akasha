@@ -1,5 +1,6 @@
 ---
 id: cd2e4c9b-c03e-572e-a89e-708ab65587e2
+slug: named-commands-unresolved
 page-type-slug: finding
 title: "Prose in akasha names ops commands that do not exist, and nothing checks a named command resolves"
 domain-slug: repo/akasha-repo

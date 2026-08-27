@@ -1,5 +1,6 @@
 ---
 id: e0e484e1-c0bb-5793-967f-516582a10913
+slug: no-data-refresh-when
 page-type-slug: finding
 title: "No data refresh when day changes for daily filters"
 domain-slug: persona/astra

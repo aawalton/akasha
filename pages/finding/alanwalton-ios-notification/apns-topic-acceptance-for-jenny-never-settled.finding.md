@@ -1,5 +1,6 @@
 ---
 id: 03123121-5305-58c3-ab21-a1f57cacff36
+slug: apns-topic-acceptance-for-jenny-never-settled
 page-type-slug: finding
 title: "Whether APNs accepts the Jenny topic under the existing key was never settled"
 domain-slug: domain/alanwalton-ios-notification

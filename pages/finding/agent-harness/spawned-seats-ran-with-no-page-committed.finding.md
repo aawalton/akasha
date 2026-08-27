@@ -1,5 +1,6 @@
 ---
 id: e9f19b56-c1d6-50e6-acff-423a9b78d60d
+slug: spawned-seats-ran-with-no-page-committed
 page-type-slug: finding
 title: "Two seats ran today with no seat page ever committed"
 domain-slug: domain/agent-harness

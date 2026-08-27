@@ -1,5 +1,6 @@
 ---
 id: 7f546b6d-fa58-5c54-a273-cae0b00f6650
+slug: code-repo-row-fetch
 page-type-slug: finding
 title: "The harness calls a code repository function that fetches rows rather than deciding"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: f3c3079c-d5a3-586d-baf6-a023cdb50246
+slug: surplus-session-selection
 page-type-slug: finding
 title: "Which sessions the day's surplus counts is the query's selection, not the wake window's"
 domain-slug: readout-group/upkeep

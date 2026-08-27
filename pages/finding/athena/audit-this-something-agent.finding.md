@@ -1,5 +1,6 @@
 ---
 id: c2029da7-9f70-5f1d-8088-3eca939c3109
+slug: audit-this-something-agent
 page-type-slug: finding
 title: "audit, is this something an agent with good judgement is likely to get"
 domain-slug: persona/athena

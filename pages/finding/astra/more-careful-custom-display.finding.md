@@ -1,5 +1,6 @@
 ---
 id: b78adcf8-d0e3-5568-bdb6-2ba97de8e24d
+slug: more-careful-custom-display
 page-type-slug: finding
 title: "More careful custom display audit"
 domain-slug: persona/astra

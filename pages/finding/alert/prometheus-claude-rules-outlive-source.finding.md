@@ -1,5 +1,6 @@
 ---
 id: 68538e23-6c11-56f1-a692-e5e4117f8379
+slug: prometheus-claude-rules-outlive-source
 page-type-slug: finding
 title: "The cluster runs an exporter query and two alerts whose source the code repository deleted"
 domain-slug: page-type/alert

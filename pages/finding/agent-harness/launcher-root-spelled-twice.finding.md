@@ -1,5 +1,6 @@
 ---
 id: c30c72ef-8007-53ef-95df-b1ce639b5631
+slug: launcher-root-spelled-twice
 page-type-slug: finding
 title: "The shell launchers spell the instructions root twice and the second ignores INSTRUCTIONS_ROOT"
 domain-slug: domain/agent-harness

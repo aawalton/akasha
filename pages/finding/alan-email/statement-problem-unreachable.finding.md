@@ -1,5 +1,6 @@
 ---
 id: ddbc8519-5b9e-5a8c-8604-0e414b986cdc
+slug: statement-problem-unreachable
 page-type-slug: finding
 title: "Code rules claim every statement before an agent can show Alan one that reports a problem"
 domain-slug: domain/alan-email

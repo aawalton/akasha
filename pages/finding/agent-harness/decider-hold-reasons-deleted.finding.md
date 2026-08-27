@@ -1,5 +1,6 @@
 ---
 id: 3c38231a-a182-55d4-80f8-e9dbc5e804c2
+slug: decider-hold-reasons-deleted
 page-type-slug: finding
 title: "The recorded reasons four deciders stayed in the code repository were deleted and three no longer hold"
 domain-slug: domain/agent-harness

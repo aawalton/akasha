@@ -1,5 +1,6 @@
 ---
 id: c694ec6d-c547-5a51-9867-5505d2a5f6af
+slug: beat-saber-system
 page-type-slug: finding
 title: "Beat saber in system?"
 domain-slug: persona/aelwyn

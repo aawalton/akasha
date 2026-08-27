@@ -1,5 +1,6 @@
 ---
 id: 8e774efe-22f1-5b05-94a5-ac42d0c36486
+slug: rebuild-intensity-system-better
 page-type-slug: finding
 title: "Rebuild intensity system with better principles"
 domain-slug: persona/aelwyn

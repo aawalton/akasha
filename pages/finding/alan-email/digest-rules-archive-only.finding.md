@@ -1,5 +1,6 @@
 ---
 id: b249f2c3-af77-53f8-af69-7e6633e401ac
+slug: digest-rules-archive-only
 page-type-slug: finding
 title: "Three digest and announcement rules archive where Stop The Source reads as unsubscribing"
 domain-slug: domain/alan-email

@@ -1,5 +1,6 @@
 ---
 id: 1687e5e8-a81a-5c3e-a84d-276aaa66873d
+slug: new-turn-push-notification
 page-type-slug: finding
 title: "New turn push notification should load game page, not properties page"
 domain-slug: persona/astra

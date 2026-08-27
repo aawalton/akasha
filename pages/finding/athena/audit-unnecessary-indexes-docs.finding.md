@@ -1,5 +1,6 @@
 ---
 id: 9551f681-3296-5eea-932f-295b37f286fd
+slug: audit-unnecessary-indexes-docs
 page-type-slug: finding
 title: "audit for unnecessary indexes in docs"
 domain-slug: persona/athena

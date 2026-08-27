@@ -1,5 +1,6 @@
 ---
 id: ead6f9a5-241c-50f5-8e8f-a2c7c575a984
+slug: remote-power-control-smart
 page-type-slug: finding
 title: "Remote power control smart plug"
 domain-slug: persona/aranya

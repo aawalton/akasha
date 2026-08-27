@@ -1,5 +1,6 @@
 ---
 id: 9b0803f1-b30e-54cb-999e-9b563c1c7f08
+slug: cant-select-multiple-blocks
 page-type-slug: finding
 title: "Can’t select multiple blocks at one"
 domain-slug: persona/astra

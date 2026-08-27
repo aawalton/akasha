@@ -1,5 +1,6 @@
 ---
 id: 2fbbe721-127d-5ca3-8b25-e1273d5bcecc
+slug: interactive-boot-recording-enforces-nothing
 page-type-slug: finding
 title: "The interactive-boot-recording digest was left un-armed, so that suite enforces nothing"
 domain-slug: domain/agent-harness

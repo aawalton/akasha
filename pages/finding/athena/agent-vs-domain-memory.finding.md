@@ -1,5 +1,6 @@
 ---
 id: 01324610-0bd2-57e8-95e4-c96763f690dd
+slug: agent-vs-domain-memory
 page-type-slug: finding
 title: "agent vs domain memory indexing"
 domain-slug: persona/athena

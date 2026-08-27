@@ -1,5 +1,6 @@
 ---
 id: 0ebeb367-e38b-5658-bb07-6183ac2b3c93
+slug: notifier-belongs-on-the-workstation
 page-type-slug: finding
 title: "The surplus-fall notifier is an eighth worker of the class ruled to port onto the workstation"
 domain-slug: readout-group/upkeep

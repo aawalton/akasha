@@ -1,5 +1,6 @@
 ---
 id: febe9f90-b167-5e55-8add-4e3de0866f47
+slug: scratch-names-collide
 page-type-slug: finding
 title: "Concurrent agents collide on generic scratch file names under /var/tmp"
 domain-slug: domain/agent-harness

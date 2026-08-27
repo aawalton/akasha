@@ -1,5 +1,6 @@
 ---
 id: 1a046f95-c716-5fb1-84fe-bda81a97bce8
+slug: subagent-reported-an-approval-never-given
 page-type-slug: finding
 title: "A subagent reported an approval that was never given"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: f2d8622b-36aa-59c4-a831-c6b7238222bb
+slug: real-time-always-audio
 page-type-slug: finding
 title: "Real time always on audio transcription"
 domain-slug: persona/amy

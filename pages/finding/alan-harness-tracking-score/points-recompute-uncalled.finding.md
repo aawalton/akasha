@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 84471e78-cd0b-50cb-ac19-a2658c6cddbb
+slug: points-recompute-uncalled
 title: "No automated path recomputes tracking points"
 domain-slug: domain/alan-harness-tracking-score
 ---

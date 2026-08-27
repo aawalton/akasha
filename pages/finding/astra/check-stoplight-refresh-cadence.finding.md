@@ -1,5 +1,6 @@
 ---
 id: e899f2e1-c784-5621-a2de-d6876befadff
+slug: check-stoplight-refresh-cadence
 page-type-slug: finding
 title: "Check stoplight refresh cadence for status line/widgets"
 domain-slug: persona/astra

@@ -1,5 +1,6 @@
 ---
 id: c20c2d62-ae90-59a5-b134-8a421d477f70
+slug: audit-stale-references-missed
 page-type-slug: finding
 title: "audit for stale references or missed loose ends"
 domain-slug: persona/athena

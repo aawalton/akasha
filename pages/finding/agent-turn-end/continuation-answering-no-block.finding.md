@@ -1,5 +1,6 @@
 ---
 id: e89a414f-0827-5790-9aa5-e1e06f657d7d
+slug: continuation-answering-no-block
 page-type-slug: finding
 title: "Two continuations in a day answered no block, so a turn was kept going that nothing had stopped"
 domain-slug: domain/agent-turn-end

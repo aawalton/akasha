@@ -1,5 +1,6 @@
 ---
 id: 9aeea162-12f1-58b6-95bb-d6789fd36df4
+slug: audit-additional-pages-content
 page-type-slug: finding
 title: "Audit for additional pages content that should move to file"
 domain-slug: persona/astra

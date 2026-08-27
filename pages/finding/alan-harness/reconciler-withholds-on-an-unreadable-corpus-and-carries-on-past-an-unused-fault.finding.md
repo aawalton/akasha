@@ -1,5 +1,6 @@
 ---
 id: e30e42fd-b075-5962-ab49-6e07b4573628
+slug: reconciler-withholds-on-an-unreadable-corpus-and-carries-on-past-an-unused-fault
 page-type-slug: finding
 title: "A reconciler withholds on a corpus it cannot read and carries on past a fault it does not use"
 domain-slug: domain/alan-harness

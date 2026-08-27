@@ -1,5 +1,6 @@
 ---
 id: d120727d-d362-52ce-bc2c-8015e8b7e5ad
+slug: active-project-permanent-stall
 page-type-slug: finding
 title: "active project permanent stall guards"
 domain-slug: persona/athena

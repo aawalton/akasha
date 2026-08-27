@@ -1,5 +1,6 @@
 ---
 id: 48e28449-f762-5131-b4b0-6a049cfc99f1
+slug: deep-links-from-widgets
 page-type-slug: finding
 title: "Deep Links from widgets seem sticky?"
 domain-slug: persona/astra

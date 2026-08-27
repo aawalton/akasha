@@ -1,5 +1,6 @@
 ---
 id: f03dde9b-62ab-5043-ac55-a7ae5267a1ce
+slug: didn-t-auto-toggle
 page-type-slug: finding
 title: "> didn't auto toggle block"
 domain-slug: persona/astra

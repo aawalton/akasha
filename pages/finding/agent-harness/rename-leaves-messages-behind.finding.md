@@ -1,5 +1,6 @@
 ---
 id: 25c5f036-55cd-5766-bf30-159d4a0ed851
+slug: rename-leaves-messages-behind
 page-type-slug: finding
 title: "Renaming a seat leaves its unread messages behind"
 domain-slug: domain/agent-harness

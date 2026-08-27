@@ -1,5 +1,6 @@
 ---
 id: cf5abc3c-4561-5235-9c45-30da48d0ed6d
+slug: nothing-can-message-alan
 page-type-slug: finding
 title: "Nothing can send Alan a message"
 domain-slug: domain/alan-harness-agents

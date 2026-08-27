@@ -1,5 +1,6 @@
 ---
 id: 2441e5d6-1083-51dd-9aa3-f912bcde472a
+slug: guage-pattern-stoplights-instead
 page-type-slug: finding
 title: "guage pattern for stoplights instead of icons?"
 domain-slug: persona/amy

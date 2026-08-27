@@ -1,5 +1,6 @@
 ---
 id: 633d6b5b-1f3e-5266-aaf2-98dbccb056a5
+slug: cluster-downtime-source-silent
 page-type-slug: finding
 title: "Aranya's cluster-downtime points scored a flat maximum after its feed went silent"
 domain-slug: persona/aranya

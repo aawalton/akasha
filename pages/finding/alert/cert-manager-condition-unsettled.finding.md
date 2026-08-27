@@ -1,5 +1,6 @@
 ---
 id: e94c1ccb-890b-533d-857b-e7bbebd438a1
+slug: cert-manager-condition-unsettled
 page-type-slug: finding
 title: "The cert-manager alert documents describe expiry closeness while their rules detect a missed renewal"
 domain-slug: page-type/alert

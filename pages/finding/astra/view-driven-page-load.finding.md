@@ -1,5 +1,6 @@
 ---
 id: f4c40276-14ce-5bf9-aa18-7509566932c1
+slug: view-driven-page-load
 page-type-slug: finding
 title: "View-driven page load quality/performance audit"
 domain-slug: persona/astra

@@ -1,5 +1,6 @@
 ---
 id: ae38ef31-6ae4-5605-b661-3b5c950021a3
+slug: database-reachable-past-every-gate
 page-type-slug: finding
 title: "Nothing stops an agent connecting to the production database as service_role"
 domain-slug: domain/agent-harness

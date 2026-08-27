@@ -1,5 +1,6 @@
 ---
 id: a83a6236-7041-5260-a449-9e9f51c4772e
+slug: check-up-down-related
 page-type-slug: finding
 title: "check up and down for related findings"
 domain-slug: persona/athena

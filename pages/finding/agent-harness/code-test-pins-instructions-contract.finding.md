@@ -1,5 +1,6 @@
 ---
 id: 0982d957-7dc9-5b48-9501-edcdb682f7d2
+slug: code-test-pins-instructions-contract
 page-type-slug: finding
 title: "Code test pins an instructions contract"
 domain-slug: domain/agent-harness

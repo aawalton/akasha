@@ -1,5 +1,6 @@
 ---
 id: 89c87d34-3def-50f9-b2eb-e0094d4db655
+slug: layout-shift-tab-alannotes
 page-type-slug: finding
 title: "Layout shift on tab on alanNotes"
 domain-slug: persona/astra

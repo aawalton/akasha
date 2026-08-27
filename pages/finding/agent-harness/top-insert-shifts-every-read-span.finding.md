@@ -1,5 +1,6 @@
 ---
 id: a9fcf5ec-9e6f-523c-a529-c4ee5d8b70d7
+slug: top-insert-shifts-every-read-span
 page-type-slug: finding
 title: "Inserting a key at the top of frontmatter shifts every read span, so the file reads as wholly moved"
 domain-slug: domain/agent-harness

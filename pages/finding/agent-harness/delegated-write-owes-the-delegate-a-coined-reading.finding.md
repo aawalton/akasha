@@ -1,5 +1,6 @@
 ---
 id: 65fb1a51-732e-5818-946e-eac3b02d9dc7
+slug: delegated-write-owes-the-delegate-a-coined-reading
 page-type-slug: finding
 title: "A delegate cannot land a write whose coined-word reading only its delegator holds"
 domain-slug: domain/agent-harness

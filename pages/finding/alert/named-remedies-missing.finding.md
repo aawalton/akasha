@@ -1,5 +1,6 @@
 ---
 id: 5d68bb8d-5113-57a4-b144-f022da2930f6
+slug: named-remedies-missing
 page-type-slug: finding
 title: "Four of the seven ops commands named in alert attachments do not exist"
 domain-slug: page-type/alert

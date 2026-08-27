@@ -1,5 +1,6 @@
 ---
 id: 7786caed-1b51-593a-a529-83341cf5a2e2
+slug: subagent-overwrites-hook-liveness-stamp
 page-type-slug: finding
 title: "A subagent overwrites its parent seat's hook-liveness stamp, so the gate reports a collision as a miss"
 domain-slug: domain/agent-harness

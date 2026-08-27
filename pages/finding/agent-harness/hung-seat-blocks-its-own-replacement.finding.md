@@ -1,5 +1,6 @@
 ---
 id: 8440aa52-0c13-513f-8bfe-0dea7fbf9dca
+slug: hung-seat-blocks-its-own-replacement
 page-type-slug: finding
 title: "A hung seat blocks its own replacement"
 domain-slug: domain/agent-harness

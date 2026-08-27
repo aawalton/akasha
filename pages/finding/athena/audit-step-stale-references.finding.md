@@ -1,5 +1,6 @@
 ---
 id: f1cb662d-0679-5329-a167-fa37b6943556
+slug: audit-step-stale-references
 page-type-slug: finding
 title: "audit step for stale references or missed loose ends"
 domain-slug: persona/athena

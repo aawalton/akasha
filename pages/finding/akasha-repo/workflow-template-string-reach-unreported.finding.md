@@ -1,5 +1,6 @@
 ---
 id: 6254999d-b946-5a85-8130-6f9a88d662da
+slug: workflow-template-string-reach-unreported
 page-type-slug: finding
 title: "A file named as a raw string in a workflow template reads as dead code"
 domain-slug: repo/akasha-repo

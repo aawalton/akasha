@@ -1,5 +1,6 @@
 ---
 id: 933addf9-4142-59ad-84b6-1c92268c1cb9
+slug: start-audio-from-long
 page-type-slug: finding
 title: "Start audio from long press/right click"
 domain-slug: persona/astra

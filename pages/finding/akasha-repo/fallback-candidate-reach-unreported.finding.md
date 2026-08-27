@@ -1,5 +1,6 @@
 ---
 id: a6106165-d5c2-5a2c-bf79-a01ac96bd899
+slug: fallback-candidate-reach-unreported
 page-type-slug: finding
 title: "A reach resolved at run time is unreported until the code path runs"
 domain-slug: repo/akasha-repo

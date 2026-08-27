@@ -1,5 +1,6 @@
 ---
 id: 397ff5a0-cc5f-51a7-839e-7a70014bd065
+slug: split-out-olwen-responsibilities
 page-type-slug: finding
 title: "split out Olwen responsibilities from Astra"
 domain-slug: persona/astra

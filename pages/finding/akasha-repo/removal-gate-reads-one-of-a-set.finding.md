@@ -1,5 +1,6 @@
 ---
 id: 57f44186-1938-59d2-910b-75183f27ecd1
+slug: removal-gate-reads-one-of-a-set
 page-type-slug: finding
 title: "A removal gate typechecks one file of the set it is given"
 domain-slug: repo/akasha-repo

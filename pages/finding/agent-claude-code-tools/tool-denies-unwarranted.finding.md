@@ -1,5 +1,6 @@
 ---
 id: e66f78a1-523c-597a-8fd9-dcd8e6b58c1c
+slug: tool-denies-unwarranted
 page-type-slug: finding
 title: "Every tool denial in the agent settings is warranted by no document"
 domain-slug: domain/agent-claude-code-tools

@@ -2,6 +2,7 @@
 page-type-slug: finding
 title: "Findings overshoot their declared size bounds by a median of four characters, nothing counting for the author"
 domain-slug: agent-harness
+slug: shape-bounds-nothing-counts
 ---
 
 # Claim

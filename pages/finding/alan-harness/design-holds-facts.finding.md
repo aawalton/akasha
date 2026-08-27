@@ -1,5 +1,6 @@
 ---
 id: da16e61f-6dee-5a2c-aba7-fde3a64029bc
+slug: design-holds-facts
 page-type-slug: finding
 title: "Two Design entries record facts about Alan rather than invariants a reader gets wrong"
 domain-slug: domain/alan-harness

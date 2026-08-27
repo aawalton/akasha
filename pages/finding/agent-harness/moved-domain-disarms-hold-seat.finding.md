@@ -1,5 +1,6 @@
 ---
 id: 85c7bd41-40e0-5672-bd27-8d9aad71d774
+slug: moved-domain-disarms-hold-seat
 page-type-slug: finding
 title: "A moved domain disarms hold seat rather than refusing"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 11a31b0c-11a1-519e-8f58-c897c35b6ef4
+slug: resolver-drops-every-person
 page-type-slug: finding
 title: "The recipient resolver builds no person handlers, because it reads identity-slug from a row"
 domain-slug: domain/agent-harness

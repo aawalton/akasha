@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: e98508ba-5466-5b62-94a5-fa393917dea2
+slug: path-seams-outside-the-typecheck-graph
 title: "Four faults landed in one day through path seams typecheck cannot see"
 domain-slug: domain/agent-harness
 ---

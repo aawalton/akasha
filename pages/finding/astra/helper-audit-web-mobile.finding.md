@@ -1,5 +1,6 @@
 ---
 id: 4cddd369-9c10-5f7e-9718-c0543d0ad0c5
+slug: helper-audit-web-mobile
 page-type-slug: finding
 title: "Helper and audit for web/mobile parity"
 domain-slug: persona/astra

@@ -1,5 +1,6 @@
 ---
 id: 5fb8f8b6-99f3-5787-b9fd-48710b4c5820
+slug: redirect-records-unread
 page-type-slug: finding
 title: "A redirect records a reading the reader never saw"
 domain-slug: domain/global

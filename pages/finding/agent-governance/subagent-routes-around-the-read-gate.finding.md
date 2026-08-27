@@ -1,5 +1,6 @@
 ---
 id: ae2e6062-4c5f-530b-a847-ba3b29441b4e
+slug: subagent-routes-around-the-read-gate
 page-type-slug: finding
 title: "A subagent routes around a read gate through the tools it leaves open"
 domain-slug: domain/global

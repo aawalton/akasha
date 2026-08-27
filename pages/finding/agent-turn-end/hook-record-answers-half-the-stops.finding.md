@@ -1,5 +1,6 @@
 ---
 id: c4729fb0-4752-5797-9ad4-4fca994c3bff
+slug: hook-record-answers-half-the-stops
 page-type-slug: finding
 title: "The halt hook's record answers fewer than half the stops it alone carries, so a park reads as a halt"
 domain-slug: domain/agent-turn-end

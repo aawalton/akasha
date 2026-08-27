@@ -1,5 +1,6 @@
 ---
 id: fc47d0fd-a9e1-5f2c-b9fb-ebc51a38f20f
+slug: words-composed-at-firing
 page-type-slug: finding
 title: "Eleven alert conditions build their words as they fire, so no document can hold their text"
 domain-slug: page-type/alert

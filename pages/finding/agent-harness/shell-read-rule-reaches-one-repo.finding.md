@@ -1,5 +1,6 @@
 ---
 id: 0cd75b52-b754-5db3-be0e-964d2e52d7a1
+slug: shell-read-rule-reaches-one-repo
 page-type-slug: finding
 title: "The rule that a shell read records nothing reaches only one of the two gated repos"
 domain-slug: domain/agent-harness

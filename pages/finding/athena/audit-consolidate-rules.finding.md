@@ -1,5 +1,6 @@
 ---
 id: 6952bdec-1902-5fe4-a483-36bbbba64286
+slug: audit-consolidate-rules
 page-type-slug: finding
 title: "audit and consolidate rules"
 domain-slug: persona/athena

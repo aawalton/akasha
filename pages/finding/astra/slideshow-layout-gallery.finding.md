@@ -1,5 +1,6 @@
 ---
 id: 5c393fc1-f21d-5fe6-8516-89120a8bf638
+slug: slideshow-layout-gallery
 page-type-slug: finding
 title: "slideshow layout for gallery"
 domain-slug: persona/astra

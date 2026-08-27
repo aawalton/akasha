@@ -1,5 +1,6 @@
 ---
 id: 5056725d-6fac-5d2e-b6b0-c766f122b6f3
+slug: no-command-turns-a-domain-into-a-page-type
 page-type-slug: finding
 title: "No command turns a domain document into a page type document, though every conversion needs one"
 domain-slug: domain/agent-harness

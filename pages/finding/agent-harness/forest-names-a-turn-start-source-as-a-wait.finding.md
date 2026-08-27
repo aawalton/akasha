@@ -1,5 +1,6 @@
 ---
 id: b0a5ef7f-09f2-55a5-9174-b122cadaa212
+slug: forest-names-a-turn-start-source-as-a-wait
 page-type-slug: finding
 title: "The agent forest reports a seat's recorded turn-start source as what that seat is waiting on"
 domain-slug: domain/agent-harness

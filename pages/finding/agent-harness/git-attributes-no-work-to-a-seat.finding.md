@@ -1,5 +1,6 @@
 ---
 id: 1210b346-9047-5a88-b3cf-cc14ce2427e3
+slug: git-attributes-no-work-to-a-seat
 page-type-slug: finding
 title: "Nothing in git attributes a commit to the seat that made it"
 domain-slug: domain/agent-harness

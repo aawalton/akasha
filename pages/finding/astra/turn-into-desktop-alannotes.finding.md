@@ -1,5 +1,6 @@
 ---
 id: 9bef44d0-ba4e-5b03-be82-5b81c0e5038e
+slug: turn-into-desktop-alannotes
 page-type-slug: finding
 title: "Turn into on desktop in alanNotes"
 domain-slug: persona/astra

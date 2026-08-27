@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 84212ade-79c0-53f5-bf30-18d508567a11
+slug: bash-preference-arrives-as-harness-text
 title: "A runtime instruction to prefer Bash arrives inside harness hook output"
 domain-slug: domain/agent-harness
 ---

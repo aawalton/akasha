@@ -1,5 +1,6 @@
 ---
 id: 78194f9b-0b23-52e2-bcfc-1505ddf76b46
+slug: four-automations-that-never-became-files-were-retired-deliberately
 page-type-slug: finding
 title: "The four automations that never became files were each retired deliberately"
 domain-slug: domain/global

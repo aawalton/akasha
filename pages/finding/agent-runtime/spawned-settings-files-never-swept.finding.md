@@ -1,5 +1,6 @@
 ---
 id: d6a9a8ca-cd8a-5d70-9ecf-3c250252eb04
+slug: spawned-settings-files-never-swept
 page-type-slug: finding
 title: "Spawned agent settings files accumulate in shared tmpfs and nothing ever removes them"
 domain-slug: domain/agent-runtime

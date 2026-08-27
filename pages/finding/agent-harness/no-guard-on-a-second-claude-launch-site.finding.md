@@ -1,5 +1,6 @@
 ---
 id: a7fc053f-fa91-59cb-ac49-6764da782ea6
+slug: no-guard-on-a-second-claude-launch-site
 page-type-slug: finding
 title: "Nothing refuses a second site from assembling a claude command line or putting --allowed-tools on it"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 88cfdfcf-cca5-58d2-abe9-4c1213893193
+slug: trust-does-not-gate-settings-hooks
 page-type-slug: finding
 title: "An untrusted working directory does not suppress the hooks a launcher delivers with --settings"
 domain-slug: domain/agent-workspace-trust

@@ -1,5 +1,6 @@
 ---
 id: a4671c3a-58cd-5703-8fee-36979a877e4b
+slug: changing-page-size-doesn
 page-type-slug: finding
 title: "changing page size doesn't trigger load for additional pages"
 domain-slug: persona/astra

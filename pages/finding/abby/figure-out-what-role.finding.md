@@ -1,5 +1,6 @@
 ---
 id: fe4f3242-90f6-5ec4-b875-cd41e2d50883
+slug: figure-out-what-role
 page-type-slug: finding
 title: "Figure out what role prayer plays in my life"
 domain-slug: persona/abby

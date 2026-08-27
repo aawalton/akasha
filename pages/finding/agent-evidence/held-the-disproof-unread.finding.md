@@ -2,6 +2,7 @@
 page-type-slug: finding
 title: "A figure sound for the question it was taken for is read against another, and neither party notices"
 domain-slug: agent-evidence
+slug: held-the-disproof-unread
 ---
 
 # Claim

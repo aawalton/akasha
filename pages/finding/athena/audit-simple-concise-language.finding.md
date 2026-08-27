@@ -1,5 +1,6 @@
 ---
 id: 1dbbf4ee-a896-5ca6-b8e1-571e10ab7e9d
+slug: audit-simple-concise-language
 page-type-slug: finding
 title: "audit, simple and concise language"
 domain-slug: persona/athena

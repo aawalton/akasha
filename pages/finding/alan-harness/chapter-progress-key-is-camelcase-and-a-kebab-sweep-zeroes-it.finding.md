@@ -1,5 +1,6 @@
 ---
 id: 5d9c2611-ecf8-52b3-8776-08fb522b0b69
+slug: chapter-progress-key-is-camelcase-and-a-kebab-sweep-zeroes-it
 page-type-slug: finding
 title: "The chapter progress key is camelCase in all three layers and a kebab sweep would silently zero Alan's reading"
 domain-slug: domain/alan-harness

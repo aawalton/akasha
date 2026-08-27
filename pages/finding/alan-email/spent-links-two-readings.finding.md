@@ -1,5 +1,6 @@
 ---
 id: 5984936a-ed12-54bf-8834-ed40ebf9325a
+slug: spent-links-two-readings
 page-type-slug: finding
 title: "The Spent Links act reads two ways that ask for different things"
 domain-slug: domain/alan-email

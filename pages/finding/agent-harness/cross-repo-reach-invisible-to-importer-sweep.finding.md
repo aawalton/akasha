@@ -1,5 +1,6 @@
 ---
 id: 5f08b44d-5e21-5ee5-8b9d-251d6d8c87dc
+slug: cross-repo-reach-invisible-to-importer-sweep
 page-type-slug: finding
 title: "A cross-repo reach is invisible to an importer sweep"
 domain-slug: domain/agent-harness

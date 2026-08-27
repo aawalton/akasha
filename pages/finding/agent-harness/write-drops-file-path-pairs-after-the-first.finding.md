@@ -1,5 +1,6 @@
 ---
 id: 26979c57-05e9-564d-9c5d-2c44ac9799c9
+slug: write-drops-file-path-pairs-after-the-first
 page-type-slug: finding
 title: "Write drops every file-path pair after the first"
 domain-slug: domain/agent-harness

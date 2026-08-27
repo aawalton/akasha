@@ -1,5 +1,6 @@
 ---
 id: 2754d92d-b67c-5dd7-856b-2c8b1d84f427
+slug: native-app-question-avatar
 page-type-slug: finding
 title: "Native app question avatar images"
 domain-slug: persona/astra

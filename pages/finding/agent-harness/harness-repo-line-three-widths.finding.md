@@ -1,5 +1,6 @@
 ---
 id: b0c590ea-2878-5b37-a6de-564e8a1c88b2
+slug: harness-repo-line-three-widths
 page-type-slug: finding
 title: "Three documents at three widths carry the claim that the harness stands in the instructions repository"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 5334f681-6bef-526d-9382-c06b16417133
+slug: hand-back-warrant-two-readings
 page-type-slug: finding
 title: "The first clause of the Hand Back warrant reads two ways with opposite pulls"
 domain-slug: domain/alan-harness-agents

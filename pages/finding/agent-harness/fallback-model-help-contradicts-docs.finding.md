@@ -1,5 +1,6 @@
 ---
 id: 11ae8b95-3a2e-582f-96b5-232c912d232c
+slug: fallback-model-help-contradicts-docs
 page-type-slug: finding
 title: "Fallback model help contradicts the docs"
 domain-slug: domain/agent-harness

@@ -1,5 +1,6 @@
 ---
 id: 01a01ff5-50a0-7000-8e3b-c42d24aebe3a
+slug: persona-model-and-rc-keys-did-not-survive-the-rows
 page-type-slug: finding
 title: "Persona model and remote control keys did not survive the rows"
 domain-slug: domain/agent-fleet

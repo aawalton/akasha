@@ -1,5 +1,6 @@
 ---
 id: c1724f1b-b324-501d-814f-a1522cc6a6aa
+slug: checks-written-against-a-small-tree
 page-type-slug: finding
 title: "akasha's checks were written against a 1,449-file repository and meet a 90,713-file one, and file-length is where that showed first"
 domain-slug: repo/akasha-repo

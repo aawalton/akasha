@@ -1,5 +1,6 @@
 ---
 id: b754bdf3-c3bd-5372-8391-c27454d3ba0b
+slug: singleton-projects-count-children
 page-type-slug: finding
 title: "Singleton projects count as children"
 domain-slug: persona/amy

@@ -1,5 +1,6 @@
 ---
 id: 6be85d59-a690-5da0-8aa3-01a6bb9c724e
+slug: persona-scene-files-a-vanished-row
 page-type-slug: finding
 title: "Every clause of author-persona-scene step 7 now names something that no longer exists"
 domain-slug: domain/arousal

@@ -1,5 +1,6 @@
 ---
 id: 73868925-9bb8-57a3-8958-95d541922c39
+slug: nested-rows-table-layout
 page-type-slug: finding
 title: "Nested rows on table layout"
 domain-slug: persona/astra

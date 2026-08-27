@@ -1,5 +1,6 @@
 ---
 id: 01a023f1-6d24-7000-b4c1-58e7a9f3c206
+slug: errand-prose-blocks-path-removal
 page-type-slug: finding
 title: "A quoted path in a seat errand blocks that path's removal"
 domain-slug: domain/agent-harness

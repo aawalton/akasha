@@ -1,5 +1,6 @@
 ---
 id: 2f3b3b0d-8cf2-502e-bc37-89ac85219651
+slug: instructions-root-unresolved
 page-type-slug: finding
 title: "`instructionsRoot()` builds the repository path by concatenation and never resolves it"
 domain-slug: domain/agent-harness

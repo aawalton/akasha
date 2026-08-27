@@ -1,5 +1,6 @@
 ---
 id: 8f6e7db8-a5ae-5f2b-a2a6-6c9d71585949
+slug: jenny-walton-app-widget
 page-type-slug: finding
 title: "Jenny walton app and widget"
 domain-slug: persona/amy

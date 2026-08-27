@@ -1,5 +1,6 @@
 ---
 id: b256b0ec-81be-5b3a-af5f-a5070c159558
+slug: dead-claude-under-a-live-supervisor
 page-type-slug: finding
 title: "A seat's Claude can die under a live supervisor while every liveness reading says healthy"
 domain-slug: domain/agent-harness

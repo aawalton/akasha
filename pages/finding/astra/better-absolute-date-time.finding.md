@@ -1,5 +1,6 @@
 ---
 id: 3191f236-4c23-5a74-a418-1dba8df54bfb
+slug: better-absolute-date-time
 page-type-slug: finding
 title: "Better absolute date/time format? Default?"
 domain-slug: persona/astra
