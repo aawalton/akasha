@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print who is answerable for what, composed from the files now",
-  repos: ["akasha"],
+  path: "domain champions",
 } as const
 
 import { PERSONA_CHAMPION_KEY } from "./lib/domain.ts"
