@@ -51,7 +51,7 @@ REFUSALS BEFORE ANY GATE RUNS:
   - a root that is not a git repository
 
 Usage:
-  ops akasha rename-token --old <name> --new <name> [flags]
+  ops refactor rename-token --old <name> --new <name> [flags]
 
 Flags:
   --old <name>          The identifier as it stands.
