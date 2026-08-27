@@ -1,9 +1,6 @@
+import { type InventoryLocationConditionId } from "@temper/game-items-core/location-condition"
 import { buildItemFactsFromInventoryItem, resolveStaticItemKey } from "./game-code.ts"
-import type {
-  InventoryItemData,
-  InventoryLocationConditionId,
-  ItemFacts,
-} from "./game-item-types.ts"
+import type { InventoryItemData, ItemFacts } from "./game-item-types.ts"
 
 export function cliItemFactsFromInventoryItem(
   item: InventoryItemData,
