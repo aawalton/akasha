@@ -1,5 +1,6 @@
 import type { AliasEntry } from "./alias-snapshot.ts"
 import { claudeNewAccountFn, supervisorFn } from "./bash-launchers.ts"
+import { terminalEndedFnLines, terminalEndedTrapLines } from "./bash-terminal-ended.ts"
 import { seatLiveFnLines, seatNewFn, seatResumeFn, tmuxLaunchFnLines } from "./bash-tmux.ts"
 import { ROOT_LOCAL } from "./entry-points.ts"
 import { implName, launcher, reloadFnLines } from "./reload.ts"
@@ -98,6 +99,15 @@ function functions(accounts: readonly AliasEntry[]): string {
     "",
     "# sr - seat resume: reattach, or resume a seat under tmux, attached",
     launcher("sr", seatResumeFn("sr"))
+  )
+
+  blocks.push(
+    "",
+    "# how an editor terminal's shell ended, left beside that terminal's own page",
+    "# (see init/bash-terminal-ended.ts)",
+    terminalEndedFnLines().join("\n"),
+    "",
+    terminalEndedTrapLines().join("\n")
   )
 
   return blocks.join("\n")
