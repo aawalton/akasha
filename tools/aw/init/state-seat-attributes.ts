@@ -66,24 +66,25 @@ export function stateSeatFromRowLines(varPrefix: string): readonly string[] {
 export function spelledSeatNameLines(varPrefix: string): readonly string[] {
   return [
     `  local _${varPrefix}_seat="$name" _${varPrefix}_spelled="" _${varPrefix}_json=""`,
-    `  if [ "$_${varPrefix}_handler" = 1 ]; then return 0; fi`,
-    `  _${varPrefix}_json_escape "$name"`,
-    `  local _${varPrefix}_named="{\\"name\\":true,\\"principal\\":\\"${INTERACTIVE_PRINCIPAL}\\",` +
+    `  if [ "$_${varPrefix}_handler" != 1 ]; then`,
+    `    _${varPrefix}_json_escape "$name"`,
+    `    local _${varPrefix}_named="{\\"name\\":true,\\"principal\\":\\"${INTERACTIVE_PRINCIPAL}\\",` +
       `\\"persona\\":\\"$_${varPrefix}_json\\""`,
-    `  [ -n "$_${varPrefix}_typed_role" ] && _${varPrefix}_json_escape ` +
+    `    [ -n "$_${varPrefix}_typed_role" ] && _${varPrefix}_json_escape ` +
       `"$_${varPrefix}_typed_role" && ` +
       `_${varPrefix}_named="$_${varPrefix}_named,\\"role\\":\\"$_${varPrefix}_json\\""`,
-    `  [ -n "$_${varPrefix}_typed_domain" ] && _${varPrefix}_json_escape ` +
+    `    [ -n "$_${varPrefix}_typed_domain" ] && _${varPrefix}_json_escape ` +
       `"$_${varPrefix}_typed_domain" && ` +
       `_${varPrefix}_named="$_${varPrefix}_named,\\"domain\\":\\"$_${varPrefix}_json\\""`,
-    `  _${varPrefix}_named="$_${varPrefix}_named}"`,
-    `  [ -f "$_root/${SEAT_COMMAND_REL}" ] && _${varPrefix}_spelled=$(printf '%s' ` +
+    `    _${varPrefix}_named="$_${varPrefix}_named}"`,
+    `    [ -f "$_root/${SEAT_COMMAND_REL}" ] && _${varPrefix}_spelled=$(printf '%s' ` +
       `"$_${varPrefix}_named" | bun "$_root/${SEAT_COMMAND_REL}" 2>/dev/null)`,
-    `  if [ -n "$_${varPrefix}_spelled" ]; then`,
-    `    _${varPrefix}_seat="$_${varPrefix}_spelled"`,
-    `  elif [ -n "$_${varPrefix}_typed_role" ]; then`,
-    `    echo "${varPrefix}: $_root/${SEAT_COMMAND_REL} spelled no name, so ` +
+    `    if [ -n "$_${varPrefix}_spelled" ]; then`,
+    `      _${varPrefix}_seat="$_${varPrefix}_spelled"`,
+    `    elif [ -n "$_${varPrefix}_typed_role" ]; then`,
+    `      echo "${varPrefix}: $_root/${SEAT_COMMAND_REL} spelled no name, so ` +
       `'$_${varPrefix}_typed_role' is not in the seat name — seating $name." >&2`,
+    "    fi",
     "  fi",
   ]
 }
