@@ -52,15 +52,22 @@ describe("a decision this side could not reach still drives the respawn", () => 
     return undefined
   }
 
+  // `AKASHA_ROOT` IS WHAT NAMES AN EMPTY TREE. This set `INSTRUCTIONS_ROOT`, which nothing reads
+  // now that the instructions repository is absorbed, so the root stayed the live checkout and
+  // `supervisor-decide.ts` was found there — the one arm this case exists to drive never ran.
+  //
+  // IT IS GIT-INITED because `resolveRoots` names a root only where it is cloned, and
+  // `askSupervisorDecide` asks `rootFor`, which throws for a repository standing nowhere.
   async function underEmptyRoot(run: () => Promise<undefined>): Promise<undefined> {
     const root = mkdtempSync(join("/var/tmp", "resume-asks-root-"))
-    const had = process.env.INSTRUCTIONS_ROOT
-    process.env.INSTRUCTIONS_ROOT = root
+    Bun.spawnSync(["git", "init", "-q", root])
+    const had = process.env.AKASHA_ROOT
+    process.env.AKASHA_ROOT = root
     try {
       return await run()
     } finally {
-      if (had === undefined) delete process.env.INSTRUCTIONS_ROOT
-      else process.env.INSTRUCTIONS_ROOT = had
+      if (had === undefined) delete process.env.AKASHA_ROOT
+      else process.env.AKASHA_ROOT = had
       rmSync(root, { recursive: true, force: true })
     }
   }
