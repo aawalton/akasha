@@ -8,8 +8,8 @@ _rr_beside="$(dirname -- "$_rr_own")"
 # akasha or this is not a checkout worth naming roots from. Refuse rather than fall back to a
 # sibling guess: the guess named a directory that need not be there, and every caller read the
 # name as a root that was.
-if [ ! -f "$_rr_own/tools/ops/cli.ts" ] || [ ! -d "$_rr_own/checks/check" ]; then
-  printf 'repo-roots.sh: derived %s, which holds no tools/ops/cli.ts or no checks/check, so it is not an akasha checkout\n' \
+if [ ! -f "$_rr_own/tools/ops/cli.ts" ]; then
+  printf 'repo-roots.sh: derived %s, which holds no tools/ops/cli.ts, so it is not an akasha checkout\n' \
     "$_rr_own" >&2
   unset _rr_self _rr_own _rr_beside
   return 1 2>/dev/null || exit 1
