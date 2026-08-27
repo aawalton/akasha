@@ -2,14 +2,14 @@ import { relative } from "node:path"
 import type { FileTree } from "../../../page/file-tree.ts"
 import { placeDirOf, repoPlacings, scanIn } from "../../../page/page-types.ts"
 import { textAt } from "../../../page/text/text.ts"
-import { INSTRUCTIONS, rootsHere } from "../../../repo/roots/roots.ts"
+import { AKASHA, rootsHere } from "../../../repo/roots/roots.ts"
 import type { Batch } from "../check-shape.ts"
 
 const GONE = null
 
 export function treeOver(batch: Batch): FileTree | null {
   const roots = rootsHere()
-  const root = roots[INSTRUCTIONS]
+  const root = roots[AKASHA]
   if (root === undefined) return null
   const staged = new Map<string, string | null>()
   if (batch.root === root) {
@@ -29,14 +29,14 @@ export function treeOver(batch: Batch): FileTree | null {
       const globs = typeof glob === "string" ? [glob] : glob
       const matched = globs.map((one) => new Bun.Glob(one))
       const added = standing.filter((at) => matched.some((one) => one.match(at)))
-      const found = new Set([...scanIn(root, globs, INSTRUCTIONS), ...added])
+      const found = new Set([...scanIn(root, globs, AKASHA), ...added])
       return [...found].filter((at) => !going.has(at)).sort()
     },
     repoOf: (slug) => {
       const held = placed.get(slug)
       if (held !== undefined) return held
       const dir = `${placeDirOf(slug)}/`
-      return standing.some((at) => at.startsWith(dir)) ? INSTRUCTIONS : null
+      return standing.some((at) => at.startsWith(dir)) ? AKASHA : null
     },
   }
 }
