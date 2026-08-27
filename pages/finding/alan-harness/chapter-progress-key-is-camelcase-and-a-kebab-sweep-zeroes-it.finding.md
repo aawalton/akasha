@@ -18,9 +18,9 @@ Measured on 2026-08-20 by running against the live page query service on port 87
 
 The three layers, each read first-hand:
 
-- `instructions:properties/collection-own-progress.md` declares `key: ownProgress`.
-- Every chapter file under `stories:` spells `ownProgress`. A search for `own-progress` across the stories repository returns no file.
-- `packages/alanwalton/nova-words-read/src/aggregate.ts:8` sets `CHAPTER_PROGRESS_KEY = "ownProgress"`.
+- `pages/page-property-definition/collection-own-progress.page-property-definition.md:6` declares `key: ownProgress`.
+- Every chapter file spells `ownProgress`. Re-measured 2026-08-27: 6,426 pages under `pages/story-chapter-royal-road/` carry `ownProgress:` and 0 pages anywhere carry `own-progress:`.
+- `packages/alanwalton/nova-words-read/src/aggregate.ts:8` set `CHAPTER_PROGRESS_KEY = "ownProgress"`; that file is gone and the key now stands as a bare string literal, at `collections/litrpg/src/nova/catalog.ts:14-15,45,55` and `collections/litrpg/src/nova/offline-sync.ts:105,112-117`.
 
 Four spellings put through `askComposed` with `function: sum` against `story-chapter-royal-road`:
 
@@ -31,6 +31,6 @@ Four spellings put through `askComposed` with `function: sum` against `story-cha
 
 The corpus size is identical in all four. `absent` stays null in all four, so it does not discriminate a key the reader cannot see from one it can. The only difference is `value`, and a null there was previously read as zero.
 
-What that cost: `words-read-snapshot` on `memory:pages/daily-tracking/2026-08-17.daily-tracking.md`, `2026-08-18.md` and `2026-08-19.md` each stood at 0 while the corpus held 35,501,681 words across 18,537 chapters. The mechanism was the same class of unreadable source, reached through a different route. Those three days were repaired at commit `cf46f650415a6330556cd14ff863f0db4ad4c282`.
+What that cost: `words-read-snapshot` on `pages/daily-tracking/2026-08-17.daily-tracking.md`, `2026-08-18` and `2026-08-19` each stood at 0 while the corpus held 35,501,681 words across 18,537 chapters. The mechanism was the same class of unreadable source, reached through a different route. Those three days were repaired at commit `cf46f650415a6330556cd14ff863f0db4ad4c282`.
 
-The reconciler now refuses a null sum over a non-empty corpus rather than writing it down, landed at `32ecc11489` in the code repository. That makes this failure loud where it used to be silent, but it does not make the spelling safe: a kebab sweep still stops Alan's reading from being counted, it simply says so now instead of recording a zero.
+The reconciler refused a null sum over a non-empty corpus rather than writing it down, landed at `32ecc11489` in the code repository. Re-measured 2026-08-27: nothing under `tools/`, `services/`, `readouts/` or `collections/` writes `words-read-snapshot` at all, so that guard went with the reconciler. The spelling is not safe either way: a kebab sweep still stops Alan's reading from being counted, and the sibling property `pages/page-property-definition/daily-tracking-words-read-snapshot.page-property-definition.md:6` declares the kebab `words-read-snapshot` beside it.
