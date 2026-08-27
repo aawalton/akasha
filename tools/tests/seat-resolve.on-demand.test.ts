@@ -145,9 +145,11 @@ describe("the sort", () => {
   })
 })
 
+// `AKASHA_ROOT` NAMES THE TEMP REPO. Every spawn here set `INSTRUCTIONS_ROOT`, naming a repository
+// that is gone: nothing reads it, so each child resolved its slugs against the live checkout.
 async function runResolve(at: Fixture, args: readonly string[]): Promise<{ code: number; out: string; err: string }> {
   const child = Bun.spawn(["bun", SEAT_COMMAND, "--resolve", ...args], {
-    env: { ...process.env, INSTRUCTIONS_ROOT: at.root, HOME: at.home },
+    env: { ...process.env, AKASHA_ROOT: at.root, HOME: at.home },
     stdout: "pipe",
     stderr: "pipe",
   })
@@ -223,7 +225,7 @@ describe("--resolve", () => {
       await runResolve(at, ["--token", "reviewr"])
       await runResolve(at, ["--token", "reviewer", "--token", "definer"])
       const shown = Bun.spawnSync(["bun", SEAT_COMMAND, "--agent", id, "--show"], {
-        env: { ...process.env, INSTRUCTIONS_ROOT: at.root, HOME: at.home },
+        env: { ...process.env, AKASHA_ROOT: at.root, HOME: at.home },
       })
       const text = shown.stdout.toString()
       for (const slot of ["persona", "domain", "role", "task"]) {
@@ -272,7 +274,7 @@ const SEAT_AGENT = "00000000-0000-0000-0000-000000017523"
 function planSeat(at: Fixture, name: string): void {
   plantSeat(at, { agent: SEAT_AGENT, name })
   Bun.spawnSync(["bun", SEAT_COMMAND, "--agent", SEAT_AGENT, "--mode", "headless"], {
-    env: { ...process.env, INSTRUCTIONS_ROOT: at.root, HOME: at.home },
+    env: { ...process.env, AKASHA_ROOT: at.root, HOME: at.home },
   })
 }
 
