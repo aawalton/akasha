@@ -2,7 +2,7 @@
 import { expect, test } from "bun:test"
 import { fire, type Ran } from "./hook-shell.ts"
 
-const SCRIPT = "block-playwright-stray-filename.sh"
+const SCRIPT = "block-playwright-stray-filename.ts"
 
 const OUTPUT_DIR = "/home/walton/.playwright-mcp"
 

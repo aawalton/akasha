@@ -35,27 +35,27 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/block-addon-direct-install.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-addon-direct-install.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/block-root-filesystem-scan.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-root-filesystem-scan.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/block-whole-suite-run.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-whole-suite-run.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/block-destructive-git.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-destructive-git.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/block-substituting-backtick.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-substituting-backtick.ts",
             "timeout": 1
           },
           {
@@ -75,7 +75,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/block-playwright-stray-filename.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-playwright-stray-filename.ts",
             "timeout": 1
           }
         ]
@@ -141,7 +141,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/local-agent-session-start.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/local-agent-session-start.ts",
             "timeout": 1
           },
           {
@@ -248,12 +248,12 @@
           },
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/persona-last-messaged-hook.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/persona-last-messaged-hook.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/rc-session-title-hook.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/rc-session-title-hook.ts",
             "timeout": 1
           }
         ]
@@ -264,17 +264,17 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/forward-turn-to-recorder.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/forward-turn-to-recorder.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/block-headless-halt.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-headless-halt.ts",
             "timeout": 25
           },
           {
             "type": "command",
-            "command": "bash $HOME/repos/akasha/tools/hooks/block-interactive-stall.sh",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-interactive-stall.ts",
             "timeout": 25
           }
         ]

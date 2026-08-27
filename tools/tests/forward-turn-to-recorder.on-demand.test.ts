@@ -95,7 +95,7 @@ function calls(): readonly string[] {
 
 function stopOver(path: string): void {
   const before = calls().length
-  const ran = fire("forward-turn-to-recorder.sh", {
+  const ran = fire("forward-turn-to-recorder.ts", {
     stdin: { transcript_path: path },
     env: {
       HOME: home,

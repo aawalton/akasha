@@ -30,10 +30,14 @@ function environment(overrides: Readonly<Record<string, string | null>>): Record
   return env
 }
 
+function runnerFor(script: string): readonly string[] {
+  return script.endsWith(".ts") ? ["bun"] : ["bash"]
+}
+
 export function fire(script: string, firing: Firing = {}): Ran {
   const payload = typeof firing.stdin === "string" ? firing.stdin : JSON.stringify(firing.stdin ?? {})
   const run = Bun.spawnSync({
-    cmd: ["bash", hookPath(script), ...(firing.args ?? [])],
+    cmd: [...runnerFor(script), hookPath(script), ...(firing.args ?? [])],
     stdin: Buffer.from(payload),
     env: environment(firing.env ?? {}),
     stdout: "pipe",

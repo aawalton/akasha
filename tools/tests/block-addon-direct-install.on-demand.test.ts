@@ -2,7 +2,7 @@
 import { expect, test } from "bun:test"
 import { fire, type Ran } from "./hook-shell.ts"
 
-const SCRIPT = "block-addon-direct-install.sh"
+const SCRIPT = "block-addon-direct-install.ts"
 
 function runHook(command: string): Ran {
   return fire(SCRIPT, { stdin: { tool_input: { command } } })

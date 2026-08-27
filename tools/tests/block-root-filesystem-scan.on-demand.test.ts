@@ -2,7 +2,7 @@
 import { expect, test } from "bun:test"
 import { fire, type Ran } from "./hook-shell.ts"
 
-const SCRIPT = "block-root-filesystem-scan.sh"
+const SCRIPT = "block-root-filesystem-scan.ts"
 
 function runHook(command: string): Ran {
   return fire(SCRIPT, { stdin: { tool_input: { command } }, env: { HOME: "/home/walton" } })
