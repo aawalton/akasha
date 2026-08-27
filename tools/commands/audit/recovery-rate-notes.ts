@@ -3,7 +3,7 @@ export const summary =
 
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { booksRoot } from "../../lib/book-of-everything-root.ts"
+import { codeRoot } from "../../lib/code-root.ts"
 import {
   findUndocumentedRecoveryRates,
   NotesTextSchema,
@@ -16,8 +16,8 @@ import type { CommandHelp } from "../../ops/surface.ts"
 
 const SUBJECT = "each recovery rate against Alan's own notes on his recovery"
 
-const NOTES_NAME = "recovery-rates.md"
-const NOTES_PATH = `all-about-alan/chapters/notes/${NOTES_NAME}`
+const NOTES_NAME = "recovery-rates.book-chapter.md"
+const NOTES_PATH = `pages/book-chapter/all-about-alan/notes/${NOTES_NAME}`
 
 export const help: CommandHelp = {
   flags: [
@@ -25,7 +25,7 @@ export const help: CommandHelp = {
       name: "--books-root",
       argLabel: "<path>",
       valueShape: "token",
-      description: "Which books checkout to read the notes from; defaults to $BOOKS_ROOT or $HOME/repos/books",
+      description: "Which checkout to read the notes from; defaults to the akasha root",
     },
     {
       name: "--json",
@@ -55,11 +55,11 @@ function locateNotes(root: string): Located {
 export default async function auditRecoveryRateNotes(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const root = parsed.string("--books-root") ?? booksRoot()
+  const root = parsed.string("--books-root") ?? codeRoot()
 
   if (!existsSync(root)) {
     throw operationalError(
-      `no books checkout at ${root}, and that one file is the whole evidence, so no rate could be weighed`
+      `no checkout at ${root}, and that one file is the whole evidence, so no rate could be weighed`
     )
   }
 
