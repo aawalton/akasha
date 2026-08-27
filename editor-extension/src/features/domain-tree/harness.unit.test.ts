@@ -6,15 +6,15 @@
 /**
  * What this extension will and will not accept from the harness verb.
  *
- * The boundary is the point: `ops instructions champions --tree --json` is another repository's
- * command, changed by seats that never open this file. What these assert is that a changed
- * shape arrives here as a stated error rather than as a tree built out of `undefined`.
+ * The boundary is the point: `ops akasha champions --tree --json` is another area's command,
+ * changed by seats that never open this file. What these assert is that a changed shape
+ * arrives here as a stated error rather than as a tree built out of `undefined`.
  */
 import { describe, expect, test } from 'bun:test';
 import { countDomains, type DomainNode, documentPath, parseDomainTree } from './harness';
 
 const ONE_ROOT = JSON.stringify({
-	repo: '/home/walton/repos/instructions',
+	repo: '/home/walton/repos/akasha',
 	roots: [
 		{
 			slug: 'global',
@@ -47,7 +47,7 @@ const ONE_ROOT = JSON.stringify({
 describe('parseDomainTree', () => {
 	test('reads the nesting the verb printed, to whatever depth it goes', () => {
 		const tree = parseDomainTree(ONE_ROOT);
-		expect(tree.repo).toBe('/home/walton/repos/instructions');
+		expect(tree.repo).toBe('/home/walton/repos/akasha');
 		expect(tree.roots).toHaveLength(1);
 		expect(countDomains(tree.roots)).toBe(4);
 		const person = tree.roots[0]?.children.find((one) => one.slug === 'person');
@@ -138,6 +138,6 @@ describe('documentPath', () => {
 	test('joins the relative path onto the repo the verb named', () => {
 		const tree = parseDomainTree(ONE_ROOT);
 		const node = tree.roots[0] as DomainNode;
-		expect(documentPath(tree, node)).toBe('/home/walton/repos/instructions/domains/global.md');
+		expect(documentPath(tree, node)).toBe('/home/walton/repos/akasha/domains/global.md');
 	});
 });
