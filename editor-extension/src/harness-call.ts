@@ -109,9 +109,25 @@ export function akashaRoot(): string {
  */
 export const OPS_PATH = path.join(instructionsRoot(), 'dotfiles/bin/ops');
 
-/** A verb's file under `tools/`, in the tree `INSTRUCTIONS_ROOT` names, or the one under `~/repos`. */
+/**
+ * A verb's file under `tools/`, in whichever checkout the tools tree stands in.
+ *
+ * AKASHA FIRST AND INSTRUCTIONS AFTER, which is the pair `dotfiles/bin/ops` resolves the
+ * dispatcher by. The tools tree is moving between the two, and a reader naming one checkout alone
+ * stops finding its verb on the commit that moves the file: `execFile` fails with ENOENT before
+ * the verb runs, which takes the colour off every tab in the strip and empties the agent rows.
+ * The fallback goes when the instructions tree does, not before.
+ *
+ * WHICHEVER FILE IS THERE, rather than whichever root is set. Both checkouts stand throughout the
+ * move and only one of them holds any given verb at a time, so the file is what settles it.
+ *
+ * RESOLVED AT CALL TIME rather than held in a constant, so a build shipped before the move goes on
+ * finding its verbs after it without being promoted again.
+ */
 export function verbPath(verb: string): string {
-	return path.join(instructionsRoot(), 'tools', `${verb}.ts`);
+	const named = `${verb}.ts`;
+	const inAkasha = path.join(akashaRoot(), 'tools', named);
+	return fs.existsSync(inAkasha) ? inAkasha : path.join(instructionsRoot(), 'tools', named);
 }
 
 /**
