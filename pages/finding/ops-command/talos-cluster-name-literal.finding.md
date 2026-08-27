@@ -7,7 +7,7 @@ domain-slug: page-type/ops-command
 
 # Claim
 
-Six talos surfaces spell `"main"` as a literal where the code repository holds it as `DEFAULT_CLUSTER_NAME` in `packages/infra/talos/src/nodes.ts`. If that constant is renamed there, every one of the six advertises and defaults to a cluster that no longer exists, and nothing reports it.
+Six talos surfaces spell `"main"` as a literal where it is held as `DEFAULT_CLUSTER_NAME` in `infra/talos/src/nodes.ts:37`. If that constant is renamed there, every one of the six advertises and defaults to a cluster that no longer exists, and nothing reports it.
 
 # Evidence
 
@@ -15,4 +15,4 @@ Six talos surfaces spell `"main"` as a literal where the code repository holds i
 
 A help block cannot reach the constant: `codeModule` is async and the dispatcher imports a verb's file at module load to render a usage screen, so a capability resolved at that level would open one to print `--help`. The literal is the only route, and it is spelled once per file and used by both the help block and the body so the two cannot disagree with each other.
 
-It was proved against the code repository rather than transcribed on faith: `ops talos secrets gen` with no `--cluster` refuses with the path `packages/infra/talos/secrets/main.secrets.sops.yaml`, byte-identical before and after the move, which is the body's default reaching `clusterSecretsSopsPath`. The rendered `--help` of all six is byte-identical too.
+It was proved against the code repository rather than transcribed on faith: `ops talos secrets gen` with no `--cluster` refuses with the path `pages/cluster/main.sops.yaml`, composed at `infra/talos/src/lib/paths.ts:4,8`, byte-identical before and after the move, which is the body's default reaching `clusterSecretsSopsPath`. The rendered `--help` of all six is byte-identical too.
