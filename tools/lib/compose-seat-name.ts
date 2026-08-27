@@ -78,11 +78,9 @@ export function personaDefaultsOf(root: string, persona: string): PersonaDefault
 }
 
 export function identityHeardFrom(root: string, person: string): string | null {
-  for (const where of [root, akashaRoot()]) {
-    const at = `${where}/${pageRelIn(where, "person", person)}`
-    if (existsSync(at)) return textField(parseFrontmatter(readFileSync(at, "utf8")), IDENTITY_KEY)
-  }
-  return null
+  const at = `${root}/${pageRelIn(root, "person", person)}`
+  if (!existsSync(at)) return null
+  return textField(parseFrontmatter(readFileSync(at, "utf8")), IDENTITY_KEY)
 }
 
 function stated(value: string | null): string | null {
