@@ -71,7 +71,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     {
       ok: false,
       error:
-        "Adding a select option is not available. A property definition is a file in the instructions repo, and its option set is that file's `values:` key — there is no row to write and no `config.options` to write to. Declare the option in the definition file through the instructions repo's gated write path.",
+        "Adding a select option is not available. A property definition is a file in the akasha repository, and its option set is that file's `values:` key — there is no row to write and no `config.options` to write to. Declare the option in the definition file through akasha's gated write path.",
       option: decision.option,
       created: false,
     },

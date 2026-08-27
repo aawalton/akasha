@@ -88,7 +88,7 @@ const edgesIn = (snapshot: HeldSnapshot, params: URLSearchParams): Response => {
 const answered = async (url: URL): Promise<Response> => {
   const commit = url.searchParams.get("commit")
   if (commit === null || commit === "") {
-    return json({ error: "name the code repository commit to answer about, as `commit`" }, 400)
+    return json({ error: "name the repository commit to answer about, as `commit`" }, 400)
   }
   const snapshot = await holder.at(commit)
   if (url.pathname === "/nodes") return await nodesIn(snapshot, url.searchParams)
@@ -155,7 +155,7 @@ const reachedIn = async (request: Request): Promise<Response> => {
   const body = (await request.json()) as ReachAsk
   const commit = typeof body.commit === "string" ? body.commit : ""
   if (commit === "") {
-    return json({ error: "name the code repository commit to answer about, as `commit`" }, 400)
+    return json({ error: "name the repository commit to answer about, as `commit`" }, 400)
   }
   const changedPaths = textsIn(body.changedPaths)
   if (changedPaths === undefined) {
@@ -234,7 +234,7 @@ const seedFilesIn = async (request: Request): Promise<Response> => {
   const body = (await request.json()) as { commit?: unknown; seedSets?: unknown }
   const commit = typeof body.commit === "string" ? body.commit : ""
   if (commit === "") {
-    return json({ error: "name the code repository commit to answer about, as `commit`" }, 400)
+    return json({ error: "name the repository commit to answer about, as `commit`" }, 400)
   }
   if (!Array.isArray(body.seedSets)) {
     return json({ error: "`seedSets` must be an array of seed sets to reach files from" }, 400)
