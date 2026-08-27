@@ -2,13 +2,15 @@
 import type { PidSnapshot } from "./memory-reaper-proc-scan.ts"
 import { assessMemoryKill, assessTreeKills, KB_PER_GB } from "./memory-reaper-legs.ts"
 import type { GlobalKillTarget } from "./memory-reaper-global.ts"
+import { seatBindingInArgv } from "./memory-reaper-owner.ts"
 
 export type PlannedTreeKill = {
   rootPid: number
   descendantPids: readonly number[]
   leg: "per-tree" | "host-global"
   reason: string
-  disposition: "signalled" | "refused-contains-self" | "already-planned"
+  disposition: "signalled" | "refused-contains-self" | "refused-spans-seats" | "already-planned"
+  seats?: readonly string[]
 }
 
 export type PlannedProcKill = {
@@ -38,6 +40,19 @@ export type ReaperKillPlanInput = {
   perProcessThresholdKb: number
   perTreeThresholdKb: number
   globalTarget: GlobalKillTarget | null
+  readArgv: (pid: number) => readonly string[] | undefined
+}
+
+export function seatsInTree(
+  pids: readonly number[],
+  readArgv: (pid: number) => readonly string[] | undefined
+): readonly string[] {
+  const seats = new Set<string>()
+  for (const pid of pids) {
+    const binding = seatBindingInArgv(readArgv(pid) ?? [], pid, 0)
+    if (binding !== null) seats.add(binding.agentId)
+  }
+  return [...seats].toSorted()
 }
 
 export function planReaperKills(input: ReaperKillPlanInput): ReaperKillPlan {
@@ -119,6 +134,8 @@ export function planReaperKills(input: ReaperKillPlanInput): ReaperKillPlan {
     if (t.rootPid === input.selfPid || t.descendantPids.includes(input.selfPid)) {
       return { ...t, disposition: "refused-contains-self" }
     }
+    const seats = seatsInTree([t.rootPid, ...t.descendantPids], input.readArgv)
+    if (seats.length > 1) return { ...t, disposition: "refused-spans-seats", seats }
     return t
   })
 

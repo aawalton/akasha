@@ -31,6 +31,17 @@ export function readSupervisorPids(snapshots: readonly PidSnapshot[]): readonly 
   return pids
 }
 
+export function readPidArgv(pid: number): readonly string[] | undefined {
+  let cmdline: string
+  try {
+    cmdline = readFileSync(`/proc/${pid}/cmdline`, "utf8")
+  } catch {
+    return undefined
+  }
+  const argv = cmdline.split("\0").filter((token) => token.length > 0)
+  return argv.length === 0 ? undefined : argv
+}
+
 export function readUserPidSnapshots(uid: number): readonly PidSnapshot[] {
   const entries = readdirSync("/proc")
   const snapshots: PidSnapshot[] = []

@@ -2,7 +2,7 @@
 import { describe, expect, it } from "bun:test"
 import { decided, hold } from "../lib/digest-harness.ts"
 import { assessRecoveryWindow } from "../lib/memory-reaper-global.ts"
-import { assessMemoryKill, assessTreeKills } from "../lib/memory-reaper-legs.ts"
+import { assessMemoryKill, assessTreeKills, selectTopmostSupervisors } from "../lib/memory-reaper-legs.ts"
 import type { PidSnapshot } from "../lib/memory-reaper-proc-scan.ts"
 
 const GB = 1024 * 1024
@@ -152,5 +152,37 @@ describe("the reaper's two hard-breach legs and its backoff, held against the co
     expect(answers).toContain("suppressing escalation")
     expect(answers).toContain("escalating one more kill")
     expect(answers).toContain("no kill in flight")
+  })
+})
+
+describe("selectTopmostSupervisors — what becomes a tree root, and so what one kill can reach", () => {
+  const NESTED = snaps([
+    [100, 1, 0.5, "bun"],
+    [101, 100, 0.5, "bun"],
+    [110, 101, 2, "claude"],
+  ])
+
+  const SHARED_PARENT = snaps([
+    [50, 1, 0.1, "tmux"],
+    [200, 50, 1, "bun"],
+    [201, 200, 9, "claude"],
+    [300, 50, 1, "bun"],
+    [301, 300, 2, "claude"],
+  ])
+
+  it("a wrapper and the supervisor it execs collapse to one root, so one seat is weighed once", () => {
+    expect(selectTopmostSupervisors([100, 101], NESTED)).toEqual([100])
+  })
+
+  it("two seats sharing no supervisor stay two roots", () => {
+    expect(selectTopmostSupervisors([200, 300], TWO_TREES).toSorted()).toEqual([200, 300])
+  })
+
+  it("a shared parent that is no supervisor does not merge two seats into one killable tree", () => {
+    expect(selectTopmostSupervisors([200, 300], SHARED_PARENT).toSorted()).toEqual([200, 300])
+  })
+
+  it("a shared parent taken FOR a supervisor swallows both seats — what the tmux server did", () => {
+    expect(selectTopmostSupervisors([50, 200, 300], SHARED_PARENT)).toEqual([50])
   })
 })

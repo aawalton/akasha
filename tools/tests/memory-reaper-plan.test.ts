@@ -24,6 +24,24 @@ const TWO_TREES = snaps([
   [301, 300, 2, "claude"],
 ])
 
+const SEAT_A = "019f49c3-4834-7fbc-974b-2d781b3a827f"
+const SEAT_B = "019f4785-924f-7d05-a177-2d4063f90482"
+
+const FLEET = snaps([
+  [50, 1, 0.1, "tmux"],
+  [200, 50, 1, "bun"],
+  [201, 200, 9, "claude"],
+  [300, 50, 1, "bun"],
+  [301, 300, 2, "claude"],
+])
+
+const FLEET_ARGV = (pid: number): readonly string[] | undefined =>
+  pid === 200
+    ? ["bun", "run-supervisor.ts", "--agent-id", SEAT_A]
+    : pid === 300
+      ? ["bun", "run-supervisor.ts", "--agent-id", SEAT_B]
+      : undefined
+
 interface Case {
   readonly name: string
   readonly run: () => unknown
@@ -34,12 +52,14 @@ const CASES: readonly Case[] = [
   { name: "global: swap drained and headroom gone, largest tree picked", run: () => assessGlobalKill({ snapshots: TWO_TREES, supervisorPids: [200, 300], availableKb: 2 * GB, swapTotalKb: 32 * GB, swapFreeKb: 1 * GB, minAvailKb: 4 * GB, minFreeSwapKb: 4 * GB }) },
   { name: "global: swapless host with no supervisor, largest pid picked", run: () => assessGlobalKill({ snapshots: TWO_TREES, supervisorPids: [], availableKb: 4 * GB, swapTotalKb: 0, swapFreeKb: 0, minAvailKb: 4 * GB, minFreeSwapKb: 4 * GB }) },
   { name: "global: tripped with nothing to kill", run: () => assessGlobalKill({ snapshots: [], supervisorPids: [], availableKb: 0, swapTotalKb: 0, swapFreeKb: 0, minAvailKb: 4 * GB, minFreeSwapKb: 4 * GB }) },
-  { name: "plan: a per-process breach inside a tree under its ceiling", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 24 * GB, globalTarget: null }) },
-  { name: "plan: the tree leg swallows the pid it contains", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 3 * GB, globalTarget: null }) },
-  { name: "plan: a global tree target already taken by a hard breach", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 12 * GB, globalTarget: { kind: "tree", rootPid: 100, descendantPids: [101, 110, 111], treeRssKb: 24 * GB } }) },
-  { name: "plan: a global pid target joins the batch", run: () => planReaperKills({ snapshots: TWO_TREES, supervisorPids: [200, 300], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 24 * GB, globalTarget: { kind: "pid", pid: 201, vmRssKb: 9 * GB, name: "claude" } }) },
-  { name: "plan: a tree containing self is refused", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 111, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 12 * GB, globalTarget: null }) },
-  { name: "plan: self and pid 1 are never per-process candidates", run: () => planReaperKills({ snapshots: snaps([[1, 0, 30, "systemd"], [777, 1, 30, "bun"]]), supervisorPids: [], selfPid: 777, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 24 * GB, globalTarget: null }) },
+  { name: "plan: a per-process breach inside a tree under its ceiling", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 24 * GB, globalTarget: null, readArgv: () => undefined }) },
+  { name: "plan: the tree leg swallows the pid it contains", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 3 * GB, globalTarget: null, readArgv: () => undefined }) },
+  { name: "plan: a global tree target already taken by a hard breach", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 12 * GB, globalTarget: { kind: "tree", rootPid: 100, descendantPids: [101, 110, 111], treeRssKb: 24 * GB }, readArgv: () => undefined }) },
+  { name: "plan: a global pid target joins the batch", run: () => planReaperKills({ snapshots: TWO_TREES, supervisorPids: [200, 300], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 24 * GB, globalTarget: { kind: "pid", pid: 201, vmRssKb: 9 * GB, name: "claude" }, readArgv: () => undefined }) },
+  { name: "plan: a tree containing self is refused", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 111, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 12 * GB, globalTarget: null, readArgv: () => undefined }) },
+  { name: "plan: self and pid 1 are never per-process candidates", run: () => planReaperKills({ snapshots: snaps([[1, 0, 30, "systemd"], [777, 1, 30, "bun"]]), supervisorPids: [], selfPid: 777, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 24 * GB, globalTarget: null, readArgv: () => undefined }) },
+  { name: "plan: a tree holding two seats is refused, whatever its size", run: () => planReaperKills({ snapshots: FLEET, supervisorPids: [50, 200, 300], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 1 * GB, globalTarget: null, readArgv: FLEET_ARGV }) },
+  { name: "plan: a tree holding one seat is still killed", run: () => planReaperKills({ snapshots: FLEET, supervisorPids: [200], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 1 * GB, globalTarget: null, readArgv: FLEET_ARGV }) },
 ]
 
 const STANDING: Readonly<Record<string, unknown>> = {
@@ -181,6 +201,43 @@ const STANDING: Readonly<Record<string, unknown>> = {
     "treeKills": [],
     "procKills": [],
     "sparedTrees": []
+  },
+  "plan: a tree holding two seats is refused, whatever its size": {
+    "treeKills": [
+      {
+        "rootPid": 50,
+        "descendantPids": [
+          300,
+          301,
+          200,
+          201
+        ],
+        "leg": "per-tree",
+        "reason": "killing supervisor tree root=50 (descendants=4): tree VmRSS 13.1 GB exceeds 1.0 GB ceiling",
+        "disposition": "refused-spans-seats",
+        "seats": [
+          "019f4785-924f-7d05-a177-2d4063f90482",
+          "019f49c3-4834-7fbc-974b-2d781b3a827f"
+        ]
+      }
+    ],
+    "procKills": [],
+    "sparedTrees": []
+  },
+  "plan: a tree holding one seat is still killed": {
+    "treeKills": [
+      {
+        "rootPid": 200,
+        "descendantPids": [
+          201
+        ],
+        "leg": "per-tree",
+        "reason": "killing supervisor tree root=200 (descendants=1): tree VmRSS 10.0 GB exceeds 1.0 GB ceiling",
+        "disposition": "signalled"
+      }
+    ],
+    "procKills": [],
+    "sparedTrees": []
   }
 }
 
@@ -205,6 +262,7 @@ describe("the reaper's kill decisions, held against what they answered in the co
     expect(answers).toContain('"kind":"tree"')
     expect(answers).toContain('"kind":"pid"')
     expect(answers).toContain("refused-contains-self")
+    expect(answers).toContain("refused-spans-seats")
     expect(answers).toContain("covered-by-tree-kill")
     expect(answers).toContain("already-planned")
     expect(answers).toContain("sparing supervisor tree")

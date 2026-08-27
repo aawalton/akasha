@@ -17,6 +17,7 @@ import { planReaperKills } from "./memory-reaper-plan.ts"
 import { type PidSnapshot, readContainerPids } from "./memory-reaper-proc-scan.ts"
 import {
   readMemInfoKb,
+  readPidArgv,
   readSupervisorPids,
   readUserPidSnapshots,
 } from "./memory-reaper-read.ts"
@@ -89,6 +90,7 @@ export async function runReaperTick(
     perProcessThresholdKb: THRESHOLD_KB,
     perTreeThresholdKb: TREE_THRESHOLD_KB,
     globalTarget,
+    readArgv: readPidArgv,
   })
 
   for (const p of plan.procKills) if (p.leg !== "host-global") console.log(`${LOG} ${p.reason}`)
@@ -100,6 +102,14 @@ export async function runReaperTick(
     if (t.disposition === "refused-contains-self") {
       console.error(
         `${LOG} refusing to kill tree root=${t.rootPid} that contains self pid=${selfPid}`
+      )
+      continue
+    }
+    if (t.disposition === "refused-spans-seats") {
+      const seats = t.seats ?? []
+      console.error(
+        `${LOG} refusing to kill tree root=${t.rootPid}: it holds ${seats.length} seats ` +
+          `(${seats.join(", ")}) — the per-tree ceiling answers one runaway seat, not the fleet`
       )
       continue
     }
