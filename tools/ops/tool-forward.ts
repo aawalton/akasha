@@ -3,7 +3,7 @@ import { spawn } from "node:child_process"
 import { existsSync } from "node:fs"
 import { operationalError } from "../lib/exit.ts"
 import { type Repo as Addressable } from "../../page/document/types"
-import { resolveRoots } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 import type { CommandHelp } from "./surface.ts"
 
 const HELP_TIMEOUT_MS = 10_000
@@ -16,7 +16,7 @@ function toolPathIn(root: string, name: string): string | null {
 }
 
 function childEnv(root: string): Record<string, string | undefined> {
-  return { ...process.env, INSTRUCTIONS_ROOT: root }
+  return { ...process.env, AKASHA_ROOT: root }
 }
 
 function repoArgs(repo: ForwardRepo | null): readonly string[] {
@@ -44,7 +44,7 @@ function runTool(path: string, root: string, args: readonly string[]): Promise<n
 }
 
 function toolHelp(name: string): Promise<string> {
-  const root = resolveRoots().instructions
+  const root = akashaRoot()
   const path = toolPathIn(root, name)
   if (path === null) return Promise.resolve(missingToolText(root, name))
   return new Promise<string>((resolve) => {
@@ -67,7 +67,7 @@ function toolHelp(name: string): Promise<string> {
 }
 
 function missingToolText(root: string, name: string): string {
-  return `${root}/tools/${name}.ts is not there, so this command forwards to nothing — check INSTRUCTIONS_ROOT names an instructions checkout`
+  return `${root}/tools/${name}.ts is not there, so this command forwards to nothing — check AKASHA_ROOT names an akasha checkout`
 }
 
 export function forwardHelp(name: string, summary: string, repo: ForwardRepo | null): CommandHelp {
@@ -79,7 +79,7 @@ export function forwardHelp(name: string, summary: string, repo: ForwardRepo | n
     description:
       `${summary}.\n` +
       "\n" +
-      `An \`ops\` command forwarding to \`tools/${name}.ts\` in the instructions repository. ${addressing}` +
+      `An \`ops\` command forwarding to \`tools/${name}.ts\` in the akasha repository. ${addressing}` +
       "the exit code is the tool's own passed back unchanged. The flags, the exit codes and the " +
       "refusals are the tool's to state, and what it states is printed below.\n" +
       "\n" +
@@ -95,12 +95,12 @@ export function forwardHelp(name: string, summary: string, repo: ForwardRepo | n
     ],
     envVars: [
       {
-        name: "INSTRUCTIONS_ROOT",
+        name: "AKASHA_ROOT",
         required: false,
         path: true,
-        default: "$HOME/repos/instructions",
+        default: "$HOME/repos/akasha",
         description:
-          "Which instructions checkout this command reaches. Passed to the tool explicitly rather than left to it to derive.",
+          "Which akasha checkout this command reaches. Passed to the tool explicitly rather than left to it to derive.",
       },
     ],
     epilog: () => toolHelp(name),
@@ -109,7 +109,7 @@ export function forwardHelp(name: string, summary: string, repo: ForwardRepo | n
 
 export function forwardRunner(name: string, repo: ForwardRepo | null): (args: readonly string[]) => Promise<void> {
   return async function runForwardedTool(args: readonly string[]): Promise<void> {
-    const root = resolveRoots().instructions
+    const root = akashaRoot()
     const path = toolPathIn(root, name)
     if (path === null) throw operationalError(missingToolText(root, name))
     const code = await runTool(path, root, [...repoArgs(repo), ...args])

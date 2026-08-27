@@ -1,7 +1,7 @@
 
 import { readdirSync, readFileSync } from "node:fs"
 import { placeDirOf } from "../../page/page-types.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 import type { CommandDocument } from "./surface.ts"
 import { sectionNamed, trimEdges } from "../lib/section.ts"
 
@@ -23,7 +23,7 @@ function frontmatter(body: string): Record<string, string> {
 }
 
 export function commandDocuments(
-  repoRoot: string = resolveRoots().instructions
+  repoRoot: string = akashaRoot()
 ): readonly CommandDocument[] {
   const dir = placeDirOf("ops-command")
   let names: readonly string[]

@@ -1,6 +1,6 @@
 
 import { type Dirent, existsSync, readdirSync, readFileSync } from "node:fs"
-import { REPOS as ADDRESSABLE, resolveRoots } from "../../repo/roots/roots"
+import { REPOS as ADDRESSABLE, akashaRoot } from "../../repo/roots/roots.ts"
 import { declarationIn, type ToolDeclaration } from "../lib/tool-declaration.ts"
 import type { Command, CommandModule } from "./surface.ts"
 import type { ForwardRepo } from "./tool-forward.ts"
@@ -54,7 +54,7 @@ function forwardNamespaces(tools: readonly DeclaringTool[]): readonly ForwardRep
   return ADDRESSABLE.filter((repo) => declared.has(repo))
 }
 
-export function forwarderCommands(root: string = resolveRoots().instructions): readonly Command[] {
+export function forwarderCommands(root: string = akashaRoot()): readonly Command[] {
   const tools = declaringTools(root)
   const addressed = forwardNamespaces(tools)
   const addresses = (tool: DeclaringTool, repo: ForwardRepo): boolean =>

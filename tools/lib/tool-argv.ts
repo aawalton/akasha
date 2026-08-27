@@ -17,7 +17,7 @@ const IN_AKASHA = new Map<string, string>([
 export function toolArgv(tool: string, args: readonly string[], root?: string): readonly string[] {
   const there = IN_AKASHA.get(tool)
   if (there !== undefined) return [`${akashaRoot()}/${there}`, ...args]
-  const at = root ?? resolveRoots().instructions
+  const at = root ?? akashaRoot()
   const named = AS_OPS_COMMAND.get(tool)
   if (named === undefined) return [`${at}/tools/${tool}`, ...args]
   return [`${at}/${CLI}`, ...named, ...args]

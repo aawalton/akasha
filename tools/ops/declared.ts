@@ -1,6 +1,6 @@
 
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
-import { resolveRoots } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 import type { Command, CommandModule } from "./surface.ts"
 
 const COMMANDS_DIR = "tools/commands"
@@ -35,7 +35,7 @@ export function filesUnder(dir: string, ext: string = EXT): readonly string[] {
   return found
 }
 
-export function declaredCommands(repoRoot: string = resolveRoots().instructions): readonly Command[] {
+export function declaredCommands(repoRoot: string = akashaRoot()): readonly Command[] {
   const root = `${repoRoot}/${COMMANDS_DIR}`
   const commands: Command[] = []
   for (const path of [...filesUnder(root)].sort()) {
