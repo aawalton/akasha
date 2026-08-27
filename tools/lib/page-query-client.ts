@@ -36,7 +36,7 @@ export function pageQueryOrigin(): string {
   const stated = process.env.PAGE_QUERY_ORIGIN
   if (stated !== undefined && stated !== "") return stated
   if (origin === null) {
-    origin = `http://127.0.0.1:${clusterReachOf(resolveRoots().instructions, SLUG).port}`
+    origin = `http://127.0.0.1:${clusterReachOf(resolveRoots().akasha, SLUG).port}`
   }
   return origin
 }

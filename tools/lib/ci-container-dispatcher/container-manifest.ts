@@ -26,7 +26,7 @@ const PAGE_QUERY_SERVICE = "page-query-service"
 let pageQueryOrigin: string | null = null
 
 function pageQueryOriginInCluster(): string {
-  pageQueryOrigin ??= clusterOriginOf(resolveRoots().instructions, PAGE_QUERY_SERVICE)
+  pageQueryOrigin ??= clusterOriginOf(resolveRoots().akasha, PAGE_QUERY_SERVICE)
   return pageQueryOrigin
 }
 
