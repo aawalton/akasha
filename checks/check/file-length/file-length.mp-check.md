@@ -10,3 +10,7 @@ cached: false
 # Definition
 
 - **File length** — fails an authored file over the ceiling.
+
+# Design
+
+A file whose file kind carries bytes is not judged.
