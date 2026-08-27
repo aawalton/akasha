@@ -1,23 +1,7 @@
 
-import { readFileSync } from "node:fs"
+import { readProcEnvVar } from "./proc-environ.ts"
 
-function extractEnvironVar(environ: string, key: string): string | undefined {
-  const prefix = `${key}=`
-  for (const entry of environ.split("\0")) {
-    if (entry.startsWith(prefix)) return entry.slice(prefix.length)
-  }
-  return undefined
-}
-
-function readProcEnviron(pid: number): string | null {
-  try {
-    return readFileSync(`/proc/${pid}/environ`, "utf8")
-  } catch {
-    return null
-  }
-}
-
-export function parseProxyPortFromBaseUrl(baseUrl: string | undefined): number | null {
+export function parseProxyPortFromBaseUrl(baseUrl: string | null | undefined): number | null {
   if (baseUrl == null || baseUrl === "") return null
   let url: URL
   try {
@@ -34,7 +18,5 @@ export function parseProxyPortFromBaseUrl(baseUrl: string | undefined): number |
 }
 
 export function readAdoptedClaudeProxyPort(pid: number): number | null {
-  const environ = readProcEnviron(pid)
-  if (environ == null) return null
-  return parseProxyPortFromBaseUrl(extractEnvironVar(environ, "ANTHROPIC_BASE_URL"))
+  return parseProxyPortFromBaseUrl(readProcEnvVar(pid, "ANTHROPIC_BASE_URL"))
 }
