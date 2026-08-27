@@ -6,11 +6,18 @@ import { type RepoView, listDocuments } from "../lib/check.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { fixture, type Fixture } from "./fixture.ts"
 
+// A PAGE TYPE THE REGISTRY CAN READ. These stated no `page-type-slug:` and no `files:`, so nothing
+// they wrote claimed a single document: every page's kind came back `none`, and the audit called
+// `pages/persona/aine.persona.md` "a none document rather than a persona". `files:` is what makes a
+// suffix resolve to this type; `extends-slug` is what `domainKinds` walks to decide a type is a
+// domain kind, which `domain` is by its own slug and `persona` is not.
 const claiming = (id: string, slug: string): string =>
   [
     "---",
     `id: ${id}`,
-    "extends-slug: none",
+    "page-type-slug: page-type",
+    "extends-slug: page",
+    `files: akasha:**/*.${slug}.md`,
     `slug: ${slug}`,
     "domain-parent-slug: global",
     "---",
