@@ -2,9 +2,9 @@ import type { Repo } from "../../../../../page/document/types.ts"
 import type { BuildContext } from "../../types.ts"
 import { repoFiles } from "../lib/repo-files.ts"
 
-export const DOCKERFILE_RECIPE_EXTENSIONS_DIR = "packages/infra/lib/deploy"
+export const DOCKERFILE_RECIPE_EXTENSIONS_DIR = "infra/lib/deploy"
 
-export const DOCKERFILE_GENERATOR_SCRIPT_PATH = "packages/infra/scripts/src/generate-dockerfiles.ts"
+export const DOCKERFILE_GENERATOR_SCRIPT_PATH = "infra/scripts/src/generate-dockerfiles.ts"
 
 const EXTENSIONS_SUFFIX = ".dockerfile-extensions.json"
 

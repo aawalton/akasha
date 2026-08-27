@@ -6,7 +6,7 @@ import { collectTopLevelStringConsts, readStringProperty, unwrapExpression } fro
 import { CODE_REPO } from "../lib/constants.ts"
 import { entryOf } from "./entry.ts"
 
-export const SERVICE_REGISTRY_PATH = "packages/infra/scripts/src/generate-dockerfiles-registry.ts"
+export const SERVICE_REGISTRY_PATH = "infra/scripts/src/generate-dockerfiles-registry.ts"
 
 const REGISTRY_CONST = "SERVICES"
 

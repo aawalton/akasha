@@ -4,15 +4,15 @@ import { repoFiles } from "../lib/repo-files.ts"
 
 const TUNNEL_ROUTES_FILENAME = "tunnel-routes.ts"
 
-const CLOUDFLARED_PACKAGE_DIR = "packages/infra/k8s/src/cloudflared/"
-const CLOUDFLARED_OWN_TUNNEL_ROUTES_FILE = "packages/infra/k8s/src/cloudflared/tunnel-routes.ts"
+const CLOUDFLARED_PACKAGE_DIR = "infra/k8s/src/cloudflared/"
+const CLOUDFLARED_OWN_TUNNEL_ROUTES_FILE = "infra/k8s/src/cloudflared/tunnel-routes.ts"
 
 export const TUNNEL_CONFIG_RECIPE_GENERATOR_TS =
-  "packages/infra/scripts/src/generate-tunnel-config.ts"
+  "infra/scripts/src/generate-tunnel-config.ts"
 export const TUNNEL_CONFIG_RECIPE_BOOTSTRAP_NODES_JSON =
-  "packages/infra/scripts/bootstrap/nodes.json"
+  "infra/scripts/bootstrap/nodes.json"
 
-const DEPLOY_LIB_DIR = "packages/infra/lib/"
+const DEPLOY_LIB_DIR = "infra/lib/"
 
 export const holdsCloudflared = (ctx: BuildContext, repo: Repo): boolean =>
   repoFiles(ctx, repo).some((rel) => rel.startsWith(CLOUDFLARED_PACKAGE_DIR))
