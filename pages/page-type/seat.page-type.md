@@ -23,7 +23,7 @@ A seat's attributes are persona, domain and role.
 
 What a seat holds is either declared of it or observed of it.
 
-A seat states its attributes and assignments through `ops instructions seat`.
+A seat states its attributes and assignments through `ops seat set`.
 
 A seat's attributes can be re-stated without making it another seat.
 
