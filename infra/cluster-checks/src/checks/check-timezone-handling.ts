@@ -27,14 +27,14 @@ const TIMEZONE_SUCCESS_MESSAGE =
 const ALLOWLISTED_HELPERS: ReadonlySet<string> = new Set([
   "day/day.ts",
   "tools/lib/tracking/mountain-times.ts",
-  "packages/temper/player/completion/addon/src/tracking/daily-writs.ts",
-  "packages/temper/shared/foundation-misc/dungeons/src/eso-day.ts",
+  "temper/player-completion-addon/src/tracking/daily-writs.ts",
+  "temper/shared-foundation-misc-dungeons/src/eso-day.ts",
 ])
 
 const ESO_DOMAIN_PREFIXES: readonly string[] = [
-  "packages/shared/recurrence/",
-  "packages/shared/tasks/",
-  "packages/temper/",
+  "shared/recurrence/",
+  "shared/tasks/",
+  "temper/",
 ]
 
 function isExcluded(rel: string): boolean {
