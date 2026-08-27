@@ -1,0 +1,75 @@
+---
+id: f051149d-8010-531e-8b10-750368e31213
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1719 - Dealing"
+slug: 0371-chapter-1719-dealing
+partOf: chrysalis
+position: 371
+ownLength: 1133
+unit: words
+ownProgress: 1133
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2969629/chapter-1719-dealing"
+royalRoadId: "2969629"
+markedReadAt: "2026-06-29T19:55:40.469Z"
+---
+
+“A wise investment,” Merchant nodded sagely, her glasses glinting in the dim light of the ship's stateroom. She gathered up the documents from the table in her front claws, stacking them neatly before placing them in her satchel. “The delvers of Green Mountain are a force to be reckoned with, who could possibly place a price on such exceptional and dedicated servants of their home city?”
+
+It was difficult to say this without sounding sarcastic, given the fact the Colony had swept up over a thousand of them in a matter of days. But Merchant was who she was, and came across as nothing but sincere and pleased for the people of the Mountain.
+
+To Alice Erry, it was utterly galling.
+
+Getting the Council to agree to the ant’s usurious price had been a nightmare. None had been willing to let the ants simply keep citizens of Green Mountain indefinitely, that would have been an outrage the people would never stand for, but getting them to settle on a single course of action had taken the best negotiators working around the clock to achieve.
+
+“It was close to war,” Alice said bitingly, receiving her own papers and putting them away. “Only in the last hour were the votes swayed towards paying your fee.”
+
+“War?” Merchant asked, as if she had never considered such a possibility. She shook her head energetically. “Absolutely terrible for business. It would cost more than the price you just paid, and you wouldn’t get your people back anyway! No, I am pleased that your Council has made the wise decision. It bodes well for the future relations between our people.”
+
+Alice very much doubted that. The Council was furious at having to shell out such an exorbitant sum, devastating the budget and forcing them to impose a levy on the people to cover the shortfall. Now the commonfolk from the bottom of Green Mountain to the top were up in arms against the ants even more than they were before.
+
+“If your goal was to cement the ill-feeling my people have towards monsters, then you have certainly achieved it,” she said.
+
+Merchant laughed.
+
+“Of course not. We simply wanted to make sure that you were smart enough to pay. It really is the wisest choice. Now, when we take your people again, we can be confident you will do the right thing to get them home without any fuss.”
+
+Alice paused, then frowned.
+
+“You want to take our people again? How are you proposing to get them now that they are safe within the city? Is this… a threat of invasion?”
+
+“Invasion? Of course not! Don’t be ridiculous. That would… why… that would be so hypocritical of us! After criticising your people and making you pay such a high price for invading our lands and threatening our people–”
+
+“Monsters, not people.”
+
+“To think we would breach the walls of your fine city and… and snatch your delvers out of their beds? That would be madness. Of course we have no such intent.”
+
+“Then how could you possibly capture our delvers a second time?” Alice asked, eyes narrowing.
+
+“Well, I presume they have to leave sometime. Or are they going to sit inside the confines of Green Mountain forever? That hardly seems likely, especially since your Council expects them to pay back a percentage of the ransom paid. Those delvers need to get back to work.”
+
+It wasn’t hard for Alice to connect the dots.
+
+“So you’re intending to do to us what the delvers did to you,” she snapped. “Keep them holed up inside Green Mountain, unable to leave, unable to work, afraid of capture. Such an action would be illegal in the extreme. We have the right as a sovereign city to access the Dungeon.”
+
+“Of course, you have every right to access the Dungeon,” Merchant assured her with a magnanimous gesture. “We would never dream of preventing you from accessing the Dungeon. However, your delvers do not have the right to come back from the Dungeon, now do they?”
+
+Such a question, so innocently phrased, so calmly delivered, yet carrying so much menace. Alice Erry felt a chill run down her back, though she concealed it. The next few months played out in her mind so clearly. Delving teams leaving, some of them coming back, but not all of them, the numbers ticking up over time, causing the rest to grow afraid, to stay in the city. If a settlement wasn’t reached, then they would be forced to leave. After all, the ants had no problem with delvers working out of other cities.
+
+Only Green Mountain.
+
+Without those delvers, the city would lose a major part of its income and trade, along with a solid line of defence during waves. It wouldn’t destroy Green Mountain, but it would set it back by decades.
+
+All because of some stupid ants.
+
+“You really think you will be able to do this?” Alice Erry said, growing angry. “That we and our allies will simply sit back and allow it? There are delvers from the Silver City here, from Way Island, from Highpeak Stronghold. Are you prepared to go into conflict with all of them?”
+
+“Please, please, Ms Erry, there is no need to be so confrontational!” Merchant chuckled. “Conflict? Of course conflict isn’t necessary. We are simply engaged in business. I like to think of it as… a long term investment. Did you know that ants can be very patient creatures? We don’t sleep, not really anyway. We go into torpor, a state of complete motionlessness, where we slow our systems down to their absolute minimum, but we remain awake, in a sense, just… waiting. I’m sure your allies will kick up a stink, I’m sure they will come over here and make a show of force.
+
+“But we can be patient. We can do this for decades. There are so many more of us than there are of you. Eventually, the Green Mountain will begin to feel the full cost of its decisions.”
+
+Alice stared at the ant, anger simmering in her chest. How dare these ants even think they could get away with this? The entirety of Green Mountain was furiously angered by what had happened. Another push, and they might just go to war regardless of what the Council said. Also, she knew something that the ant did not. The Church had sent a Judgement Battalion and they wanted that big ant in pieces. Perhaps Green Mountain would be willing to aid them in their quest.
+
+At the same time, Merchant knew something that Alice did not. The Colony, or more specifically, the Eldest, was not patient. Not in the slightest. This would be resolved quickly. Surprisingly quickly.
+
+The nameless did not like to miss their sleep.

@@ -1,0 +1,91 @@
+---
+id: da1be9e3-7e79-5ee2-89bc-4518856a8dc8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1750 - Progress"
+slug: 0402-chapter-1750-progress
+partOf: chrysalis
+position: 402
+ownLength: 946
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145657/chapter-1750-progress"
+royalRoadId: "3145657"
+---
+
+Well… it’s been six months, more or less, since I was last down here in the fifth, although it doesn’t feel that long to me.
+
+I have to wonder, is this how bears feel? Emerging after sleeping for an entire winter, blinking, wondering what the heck has been going on while they caught some z’s? Obviously I’m not blinking, due to the lack of lids, but I am feeling a little disoriented. After moving down the tunnel and back into the fortress, it’s clear that things have changed down here just a little bit.
+
+And by a little bit, I mean a lot.
+
+Putting aside the general more I see around me, more ants, more non-ants, more logistics, I think Solant has upgraded the previous system to what looks like a full-on railway, the changes to the stratum itself are the most surprising.
+
+Without the poisonous influence of Theorazzn corrupting everything, I can only assume that the natural, original flavour of the fifth is starting to come back, and it looks… organic? The tunnel walls, once covered in mucus, slime, fungus and various other unspeakable substances are now looking… a little alive?
+
+Standing in the middle of the vast chamber beneath the entrance, it almost feels as if I’m inside a fleshy organism of some kind. Which, I suppose, makes sense when I think about it. If the fifth before was a living thing, made sick and infected with a hideous disease, then getting rid of the infection will return it to what it was before: a healthy creature of flesh and blood.
+
+Wait a second… the fifth isn’t… a monster is it? That would be… weird.
+
+“Eldest, it’s nice to see you have returned to where the family needs you.”
+
+Solant's rather snippy greeting brings me out of my thoughts and back to the present moment. She’s clearly still annoyed I put off returning to the fifth in order to settle things up above. Well, she can get over it, I was never going to let that situation stand.
+
+“I’m here now,” I tell her, looking down at the little general. “Are things really going so poorly? You sound stressed.”
+
+“Being in command of the invasion of an entire stratum is a rather stress-laden endeavour,” she tells me, a little dryly. “Things are not going ‘poorly’, they are simply not progressing as well as I would like.”
+
+I mean… that sounds like the situation is going poorly to me.
+
+“Alright then,” I tell her, “let’s get down to the headquarters and you can lay out the situation for me.”
+
+“Is that really necessary?” she asks, waving her antennae impatiently. “I can simply direct you to the location of our greatest need.”
+
+“Just how impatient are you, Solant? Sheesh! I just got here and you want to fling me off into the tunnels without even telling me how things are going? I’ll fight non-stop and smash the slugs back into the depths from whence they came, but it would be nice if I could have a little context for the smashing.”
+
+I get the feeling Solant is getting a little too comfortable treating everything and everyone around her as an extension of herself. Tools to be used in the pursuit of victory rather than individuals that need to be respected.
+
+She sure as heck isn’t going to treat me like that. Perhaps this will be a healthy reminder for her. One of my antennae twitches with the urge to thwack, but I hold back, knowing the risk of inflicting serious injury with my irregular size.
+
+This is proving to be an ongoing issue.
+
+I turn to one of the ants standing next to Solant; Leonidant, I think. One of her siblings, at any rate.
+
+“Hey, can you thwack Solant for me?”
+
+The ant in question freezes on the spot.
+
+“Uh… excuse me?”
+
+“Just wander over and give her a good, solid thwack on the head with one of your antennae,” I tell her. “I can’t do it, I’d crush her into little bits.”
+
+“But… why would you want to do that?”
+
+“Because she’s being rude and treating her family members like tools. Clearly some sense needs to be knocked into that head of hers and I’m asking you to be the one to do it.”
+
+“Senior–” Solant begins, but I cut her off.
+
+“Not now, Solant, I’m sorting something out. Come on now, stop wasting time and get it done.”
+
+“I… I–uh–I don’t want to?”
+
+“It’s not like I want to thwack her,” I lie. “But sometimes it has to be done. This is one of those times. No need to be shy, just wander over there and put a bit of oomph behind it.”
+
+I can tell that Leonidant is not enthusiastic about this, but with me looming over her, she is hardly in a position to resist. Reluctance dripping off her visibly, the scout drags herself over to the general, raises an antenna… and gives her a limp pat on the head.
+
+“That… was a little weak,” I say, trying not to be too harsh.
+
+“Please don’t make me do it again,” Leonidant begs and I sigh.
+
+“Fine. Well, I hope you learned your lesson, Solant.”
+
+“Thoroughly,” she says, eyeing her sister a little too intently.
+
+“Hey, it’s not her fault you stopped treating your family right. Come on now, let’s go to the HQ. The sooner you can fill me in, the sooner you can kick me out into the tunnels.”
+
+“Very well,” she says, turning around and leading the way deeper into the fortress.
+
+“I will… fit into the HQ, right?” I ask as I fall in behind her.
+
+“No.”
+
+“Dang it.”

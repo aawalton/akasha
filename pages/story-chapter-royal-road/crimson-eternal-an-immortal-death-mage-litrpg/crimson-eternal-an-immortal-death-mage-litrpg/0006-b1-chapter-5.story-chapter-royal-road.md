@@ -1,0 +1,115 @@
+---
+id: d3ec1f2e-3484-591d-862b-44d7b10909bd
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 5"
+slug: 0006-b1-chapter-5
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 6
+ownLength: 1689
+unit: words
+ownProgress: 1689
+publishedAt: 2024-01-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1461377/b1-chapter-5"
+royalRoadId: "1461377"
+markedReadAt: "2026-06-29T19:06:01.868Z"
+---
+
+Aria
+
+The next morning sees me waking up to the sound of an alarm. One blaring throughout the entire base.
+
+I shoot straight up and change out of my nightgown into my armor as quickly as possible before grabbing my weapons and running out the door without even holstering my pistol or knives yet, instead doing it while running through the hall. Then I hear my radio blaring, “Attention all soldiers! Unknown enemy forces have begun assaulting the fortress! Repeat! Unknown enemy forces have begun assaulting the fortress! Everyone prepare for combat!”
+
+Soldiers all burst out of their rooms both before and after the radio announcement, each and every one heading towards their battle stations within the fortress. Many heading towards the walls, others to the front gate, like in my case.
+
+Everyone is already in their uniform as well, hence why the armor and uniform were both made to be easy to put on.
+
+It doesn’t take me long to reach the front gate, where I quickly find several people wearing… bizarre, to say the least, armor. The armor is a lot more medieval in style, but despite that they’re still using guns. Guns that are shooting out magic like fire and water bullets.
+
+And the second I meet one of them directly in the eyes, some sort of strange static sound fills my head. Then I find a number appearing above each and every person’s head, both on the enemy side and my own, along with a screen at the center of my vision.
+
+User has encountered a Planetary Invader.
+
+Level Detection System Activated.
+
+User will now see all user’s levels above their heads.
+
+Only Planetary Invaders of the average level of the users of Vortel or lower may enter the planet for the duration of three years’ time.
+
+That explains why everyone has a one floating above their heads.
+
+Doesn’t explain what those strange guns are, or these invaders’ odd choice in armor.
+
+I know magic can grant protection to people wearing enchanted armor even if it’s not covering the skin everywhere, but having it cover the skin all over is just practical and gives added defense. So I don’t know why people wouldn’t do it.
+
+Then again, they come from a different world entirely, so they probably think differently.
+
+Their fashion sense aside, I run out ahead of the other soldiers while pulling my gun, having adjusted my holster and knives’ sheaths while running over here in the first place. Then I begin shooting down the invaders with the other soldiers firing along behind me, making that annoying monotone voice ring out in my head with each kill.
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 7/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 8/100 users have been granted Death.]
+
+…
+
+The enemies quickly begin firing at me and the others, and while the other soldiers all dodge, hiding behind things for cover until those things find the effects of their magical weapons, I let the attacks hit me without a care in the world. And I just keep on firing back at them, finding the enemies to quickly be growing confused at the sight of me taking their attacks and shrugging them off with nothing but a slight flinch and a crimson glow coming out of them.
+
+Meanwhile the System’s voice just keeps coming with each kill, the number at the end being the only thing changing.
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 14/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 15/100 users have been granted Death.]
+
+…
+
+Before the invaders can say or do anything about me though, spells begin firing down upon them from the mage officers we have on base who have reached the upper walls by now, blasting through their ranks.
+
+“Ability users!!” Several of the enemies shout before one of them continues above the noise of battle, “First unit fall back!”
+
+My eyes narrow but I just continue firing away while sprinting towards the enemies who are now retreating. But then spells suddenly start firing back at the mages above us, with some being directed straight at me.
+
+A few fireballs explode upon impacting me, sending me flying back into the wall and erasing the distance I had made while also badly damaging my weapons. A rather annoying problem, but not an impossible one to solve.
+
+I get back to my feet, ignoring the shabby state of my armor as I sprint over to a random fallen enemy soldier and ‘borrow’ his gun and sword before beginning to close the distance towards the enemies again.
+
+By this point the enemies start focusing their attacks on me, making me grimace as I try to avoid them this time just to give me a chance to fire back on them. But their attacks are making that hard due to the various fireballs, icicle spears, and whatever other spells they’re sending flying my way that I’m stuck avoiding. I’m also not really used to this strange pistol that is shooting out tiny fireballs at them instead of actual bullets.
+
+What’s worse though is that the more I avoid the attacks, the more they focus on me. Because their officers are shouting that since I’m avoiding these unlike the others, I must be running out of mana to heal myself with.
+
+The bright side is that they aren’t focusing on our mages or other soldiers, giving them the chance to pick them off slowly.
+
+But at the same time, it’s making it difficult for me to fire back myself since they keep destroying my weapons and sending me flying back towards the wall while they slowly back up. And there’s nothing I can do about that since all I can do is not die.
+
+Eventually I run out of weapons to borrow with my armor still working overtime to repair itself, the lack of any protection enchantments being the only reason why it’s even able to repair itself right now. Because having me ending up half naked due to my armor being destroyed mid-combat doesn’t look good for the military, and I personally would be rather upset, so they focused all of the enchantments on self-repair when making my armor. Although the emperor only cares about the former.
+
+“Retreat!” One of the enemies, who I’ve been trying to pick off for a while now due to their obvious leadership, shouts, following which the enemy soldiers begin moving backwards while having some of their own mages putting up barriers to block our spells. And their retreat gives me the time to run to a nearby friendly soldier and ‘borrow’ their rifle before sprinting towards the enemies, ignoring the magical bullets they’re filling me with as I aim towards their leader.
+
+The leader’s eyes widen in both fear and surprise just moments before I pull the trigger after the barrier shatters due to a lightning strike spell from a powerful mage up on the fortress wall, sending a bullet straight past the other soldiers and in-between the leader’s eyes. But the enemies continue their retreat, simply abandoning the leader’s corpse as they do so.
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 24/100 users have been granted Death.]
+
+I lower my rifle at the sight of the rest of the enemy soldiers disappearing past the tree line. Then I look up at the wall where I find Major Curtz standing with her fist clenched to her side and smoke wafting out of her palm.
+
+Thought so. She was the one who shot the bolt of lightning.
+
+She reaches down and grabs the radio on her hip and brings it to her mouth before I hear her voice coming from my own radio, “All soldiers are to secure the walls and search for survivors. Officers of rank sergeant and below are to lead the soldiers in the process while officers of rank warrant officer and above are to gather at the main meeting hall under orders of the colonel.”
+
+“Yes ma’am!” all of the soldiers around us shout.
+
+I on the other hand frown down at my armor, finding it to be in rather poor condition. Even with it slowly repairing itself, far slower than before.
+
+And then there’s the wounds I got from the new spells the enemies used that I haven’t experienced much before. Specifically some sort of necrotic spell that seems to cause necrosis on the target, along with something that made my skin bubble up over my right arm. Probably a radiation type of spell.
+
+Neither are that bad though, so I ignore them as my body adapts to heal those wounds faster.
+
+At least these invaders are giving me new magics to improve my ability with.
+
+I quickly hand the rifle back to the soldier I borrowed it from before heading into the base again, proud to have returned everything I borrowed today. Ignoring the melted and occasionally shattered chunks of metal on the ground outside of the front gate.
+
+As I walk through the base, I can’t help but notice that the numbers above several peoples’ heads have changed. Instead of showing 1s now, some of them are showing 2s. One random person even has a 3 above his head.
+
+Looks like they increased their level.
+
+If the higher ups don’t give us more intel on that then I should go ahead and ask them what the effects of raising your level is.
+
+I continue walking through the base until I arrive at the main meeting hall again, finding the room half full already. So I quickly take my seat at the back and begin waiting for the others to arrive.

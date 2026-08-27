@@ -1,0 +1,83 @@
+---
+id: 0a47d684-a3a2-5345-9da2-ac5a9aa0068d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1822 - Rally the Troops"
+slug: 0476-chapter-1822-rally-the-troops
+partOf: chrysalis
+position: 476
+ownLength: 958
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3582249/chapter-1822-rally-the-troops"
+royalRoadId: "3582249"
+---
+
+Tiny is, predictably, in the middle of an intense flexing session when I return to my closest friends, currently relaxing in a wide, spacious chamber within the fortress.
+
+With a look of intense concentration on his face, Tiny is slowly shifting from one pose to the next, flexing a different set of muscles with each until he’s run through the entire set. At which point he, of course, goes back to start and runs through them all again.
+
+I don’t understand how he became so obsessed with flexing in the first place, he doesn’t have a mirror or anything? What’s the purpose? What is gained through this exercise?!
+
+I think, deep down, I actually know the answer to that. Tiny doesn’t do this in order to impress others, no, his love of bulk isn’t so superficial as that. Tiny likes to flex simply for his own satisfaction, to feel the power and size that he has developed for himself. I wish he gained even a fraction of that happiness from working his brain.
+
+Sadly, Tiny is completely satisfied having a sack full of bricks for brains. In fact, if he had the choice, he’d be down to a single brick wrapped in a lone, scraggly thread.
+
+[How are we all, gang? Ready to break through to the sixth stratum?]
+
+[Of course, Master,] Crinis says, somewhat sinisterly. She’s mad that I made it to the next layer and didn’t take her along. [I am looking forward to seeing it for the first time. I’m sure you’ll be bored of the sixth, so I hope you don’t mind being dragged there again.]
+
+[I was there for no more than a few minutes and didn’t see anything other than the inside of a cloud! Sheesh. We will go together and the first time I see anything interesting, you will be there right beside me.]
+
+Crinis is not satisfied with this, just like she wasn’t the first time she heard it. I can’t tell if her clinginess is getting worse or if she’s just maintaining a steady level of obsessiveness. At least she’s not trying to sneak into my carapace.
+
+Oh wait, she is.
+
+I nudge a creeping tentacle to the side with a leg before I turn to Invidia.
+
+[How about you, Invidia? Excited to explore new surroundings?]
+
+[Friends are alwayssss there to supportssss each othersss,] he says, eye flashing. [I will go together with my friendsssss.]
+
+[That’s… very wholesome of you, Invidia. I love to hear it.]
+
+Somehow this demon always manages to bring a warm glow to my heart lately. He’s just so friendly and reliable, exactly the kind of explosion-flinging wizard-demon you want in your corner.
+
+[Tiny? How are you feeling about it?]
+
+He shrugs, then becomes distracted by his traps, turning his head to try and get a better view of his shoulders, but when he tries, his shoulder turns further away. Eventually he winds up spinning in a slow circle, growing more and more frustrated.
+
+[You stupid… hey, Tiny!] I clack my mandibles to catch his attention. [There’s Lightning Mana down there. Tons of it! Doesn’t that sound exciting? Big ol’ stormy stratum full of electricity!]
+
+He does seem rather enthused at the prospect, his pointy bat ears perking up and twitching as interest is sparked in his eyes.
+
+[Once we’ve smashed through some hearts and gotten rid of the Krath, we are free to explore a bold new frontier!] I enthuse. [No more sitting around waiting for stuff to happen, doesn’t that sound nice?]
+
+I might be talking to myself more than them. After all this running around in the fifth and dealing with problems in the fourth, I’ve run out of patience for dealing with the nitty gritty. Of course it’s necessary, and I’ll do anything that the Colony needs me to do, but holy moly I’d love to do some free exploring around the sixth.
+
+With the pets geared up and ready to go on their mission, I head elsewhere to find the Templars and have a chat with them about what they may or may not want to do. I run into some unexpected resistance when dealing with the little ones.
+
+To me, they are so little, not even full grown humans, and a full grown human is quite a small thing at this point.
+
+“No, you aren’t allowed to come,” I reiterate sternly.
+
+Allison, Emilia, and Trean don’t throw a tantrum, or even argue. They just… stare at me… judgementally, as if disappointed in me.
+
+It stings.
+
+“Look, it’s too dangerous. You’re young and… and small… and haven’t evolved many times.”
+
+“We don’t evolve, Great One,” Jern says helpfully.
+
+“Don’t call me that! Right. Well you still can’t come.”
+
+I look at them, and they stare back. Obviously they are still intending to come to the heart, no matter what I say. Determined and ready to fight, they don’t want to be left behind, which is fair, to an extent.
+
+“Get ’em!” I yell.
+
+The shadows erupt into liquid, reaching and grasping, surrounding the three Templars. In return, they move faster than I've ever seen them move before, their figures melting into darkness before they dive into a shadow and try to make a break for it.
+
+What follows is a bizarre game of tag, with shadows chasing shadows all around the chamber, zipping about so rapidly that I can barely keep track of them, even with my compound eyes. Before I get too dizzy, the situation seems to resolve itself when the entire chamber shifts into a nightmarish realm of pure darkness, only to snap back less than a second later.
+
+At that point, all of the shadows are gone, along with the three young Templars.
+
+“Well… good. I think.”

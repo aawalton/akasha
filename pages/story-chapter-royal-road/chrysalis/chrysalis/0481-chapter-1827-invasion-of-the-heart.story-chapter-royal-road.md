@@ -1,0 +1,61 @@
+---
+id: 9266d3c6-4a18-5ccb-9fbf-7ba53e88c4d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1827 -  Invasion of the Heart"
+slug: 0481-chapter-1827-invasion-of-the-heart
+partOf: chrysalis
+position: 481
+ownLength: 919
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3614880/chapter-1827-invasion-of-the-heart"
+royalRoadId: "3614880"
+---
+
+With a full Legion hot dropping into the fight like heroes, the pressure lightens on me immediately, which I find interesting. I mean, I’m a gigantic, powerful ant monster who’s been tormenting the Krath in this area, you’d think they’d hate my guts.
+
+It turns out they hate the Abyssal Legion way more.
+
+No sooner do the soldiers make their presence known, running out of the liquid mana waterfall and forming the disciplined, impenetrable ranks that they’re known for, than the slugs go completely bonkers. So incensed that they are literally foaming at the mouth, the slugs hurl themselves at the Legionaries like escapees from an insane asylum. Biting, gnashing, spitting and scratching, there is precious little of the cunning and sneakiness the slug tribes are famous for on display, but plenty of the fury and savagery.
+
+In an instant, the lower reaches of the chamber have become a close-quarters, bare-knuckled boxing match, with more and more numbers pouring in on both sides. To be honest, the Legionaries look just as furious as the slugs, but at least they manage to hold onto their discipline and tactics.
+
+I get the feeling that these two groups have a longstanding mutual dislike beyond even what I expected. I’ve seen friendlier receptions from fans of rival football teams.
+
+Not that I’m complaining, having a couple of seconds to myself gives me a chance to gather my bearings. Thankfully my regeneration network has been pumping at full speed, courtesy of some prep-work by Protectant and the others, so my system is positively flooded with healing fluid. With their alpha-strike opportunity gone begging, I am basically invincible here unless the slugs manage to conjure another concentrated ball of doom or equivalent.
+
+I throw out a Gravity Well and shortly after use it to snag my Templars out of the air when they drop in. Unlike the Legion, I don’t think they could tolerate being exposed to the liquid mana for even a short period, so I’d arranged to catch them ahead of time.
+
+Yoinking them out of the air, I lower them down to the fight below as effectively as I can, considering how chaotic it’s become there. While the Legion is doing what they do, locking shields and forming organised ranks, the Krath seem manically determined to rip them apart, throwing bodies, sludge, mucus and everything else they can into driving the Legionaries away from each other.
+
+Thinking about it for a moment, it’s probably a tactic they’ve learned over many years of fighting against the Abyssal Legion. Breaking apart the formation and separating the shield wall is likely the best way to defeat them in battle, but it’s far from easy to achieve, which explains the furious, frothing desperation on display.
+
+Of course, the slugs haven’t been leaving me alone during this time. Although a lot of the fire from the prepared bunkers on the wall has been diverted down below, almost half are still firing up at me, splattering my carapace with corrosive and evil goop.
+
+Thankfully, I can pretty much ignore it thanks to the rampaging power of the regeneration network. Packed full of mana after running the Well and ready to rumble, I feel smugly capable of running through the Krath as if they aren’t even there.
+
+Full of glee, I run down the wall towards the nearest bunker, mandibles flexing in anticipation as I ignore the incoming barrage of spells and acid. With the flow of cleansed mana already begun, the Krath here are on a time limit. Soon enough, this chamber will become too purified for them to remain inside as the liquid diffuses into the air.
+
+Obviously, the bulk of the liquid is sloshing down into the chamber below, where the taint of Theorazzn resides, but it’ll filter through the entire heart eventually.
+
+Using my mandibles, I rip into the mucus covering the bunker, only to find it’s insanely corrosive, eating into my precious face-hands at an unprecedented rate. Well, it’s not as if I need to physically touch them to destroy them.
+
+Despite the deluge of attacks being flung my way, I simply back up a little and unleash another Starcrusher.
+
+Problem solved.
+
+With one bunker reduced to a smouldering ruin, I begin to make my way around the wall of the heart towards the next one, but my progress is slow. The thudding of the walls sends a shuddering pulse through every surface in here, and even though I’m clinging to the inner wall, rather than the outer one, maintaining my grip is far from easy.
+
+Yet I manage it, crawling my way over and face-tanking the wave of sludge the now-fearful slugs throw my way. Not enough!
+
+Starcrusher!
+
+Man, unleashing those chomps so close together is still surprisingly tough on the muscles in my head. Not that it’s a problem. Muscle fatigue and damage isn’t a thing for me! Gweheheheh.
+
+I start to make my way over to the next bunker, but something catches my eye first. The very bottom of the chamber, where the valve empties out of this one and into the one below… it’s… full?
+
+Liquid mana is pooling there, but not just pooling, it’s bubbling and churning as if at war with something beneath.
+
+What’s going on? There’s no way it should be backing up, it should be flowing through the valve and dropping into the chamber below! Looking closer, I start to have a horrible suspicion. These slugs… did they fill the lower chamber with mucus?!
+
+That’s insane!

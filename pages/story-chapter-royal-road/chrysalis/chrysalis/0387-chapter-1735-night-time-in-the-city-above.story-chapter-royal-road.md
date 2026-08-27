@@ -1,0 +1,89 @@
+---
+id: 5a6b90ac-84f5-5dbe-bbb7-96ecad537cd2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1735 - Night Time in the City Above"
+slug: 0387-chapter-1735-night-time-in-the-city-above
+partOf: chrysalis
+position: 387
+ownLength: 1150
+unit: words
+ownProgress: 1150
+publishedAt: 2026-02-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3057848/chapter-1735-night-time-in-the-city-above"
+royalRoadId: "3057848"
+markedReadAt: "2026-06-29T19:56:11.135Z"
+---
+
+It has always been a challenge to stand between the Colony and the outside world in matters of business and finance. In my heart of hearts, I am an ant, and I agree wholeheartedly with the way my siblings view money. Largely unnecessary, a sign of a lack of cooperation, or perhaps of an inherent selfishness, it’s perfectly possible for a society to function without it.
+
+A society of ants, at least.
+
+This was the reason why the Colony would habitually seize riches from the wealthiest individuals whenever they conquered new territory. To them, any one person hoarding so many resources was simply selfish, and there was no reason for them to indulge such an individual when they didn’t have to.
+
+I have created vast fortunes for others in my dealings, caused some to become colossally wealthy through trade agreements with my family. I smile, and clack my mandibles happily, I share a cigar and clap them on the back as the papers are signed.
+
+I like business, I enjoy commerce, it’s all part of the great game.
+
+But deep down, I do not like those people. They are selfish to the core, hoarding for themselves rather than distributing for the benefit of all. After all, I have no personal fortune of any kind. Everything goes to the family.
+
+- Excerpt from the private notes of Merchant.
+
+Battle raged in the tunnels below and all in Green Mountain were aware of it, to some extent. Word travelled quickly. Vibrations caused by the fighting could be felt at the guard stations and barracks in the lower reaches of the city.
+
+Discussions rippled through Green Mountain, indecision and fear warring with anger and daring.
+
+Should the remaining army sally forth and join the fighting? Should the delvers be dispatched to seek their revenge against the monster that had tormented them? Was it too risky? Was it necessary?
+
+Ultimately, it was decided that meddling in the battle at this late hour would be more hindrance than help. With a Judgement Battalion and four thousand troops from the Mountain, they should have more than enough to get the job done.
+
+Tense, unwilling to let this opportunity slip, some still pushed to be allowed out of the city, but were ultimately denied. The risks were too high, the need was too low. Instead, the majority were stood down, sent back to their beds as night fell over the city.
+
+Lights were put out, windows drawn down, globes extinguished as the citizens of the Mountain went to sleep, uneasy, fearful of the battle raging below.
+
+Of course, the Nameless didn’t care for their worries or concerns. The Nameless came for one thing and one thing alone.
+
+Delvers lived all over Green Mountain, not in any one place, district or borough, so the list of targets was long. Merchant had secured the needed addresses; anything could be purchased for the right price, after all.
+
+Shadows deepened to the purest black and stretched along the quiet streets, sliding down walls and creeping under doorways. Like water, they dripped and pooled, thickening until it was possible to glimpse the many-lensed eyes looking back out from within.
+
+The first were taken without a whimper. They simply vanished, swallowed whole by the darkness, sinking into their beds or consumed by shadows that rolled over them like a breaking wave. Silent and unseen, the Nameless struck again and again, citizens of Green Mountain disappearing from within their houses, sometimes with their spouse asleep by their sides.
+
+With thousands of targets and a very limited window of opportunity, this many Nameless had not been assembled for some time, yet they were prepared. They were always prepared.
+
+Olivine Street has been cleared, one signed to the Nameless One.
+
+All six targets? Did you ensure to capture Jacob Smith?
+
+Of course.
+
+And his landlady Josephine hasn’t noticed?
+
+Not yet.
+
+Excellent. We move to Elm Street next. There are eight targets. Make sure to check your running list.
+
+It was difficult to tell, sometimes, where the dimension of shadows ended and the real one began. Sitting on the border, the Nameless One felt she was in both and in neither at the same time. She sunk down once more, a pool of darkness that slid across the cobbled street, around the oak tree planted in the garden and higher up the Mountain.
+
+Not this street, nor this one, but the next. From the shadow, she read the sign: Elm Street. This was it.
+
+Silently, she gestured to the others, and they knew what to do, their targets having been determined well in advance. They moved as quietly as death and as secretive as the grave.
+
+Eight ants, eight targets. In just a few minutes, they were secure, hapless delvers taken into the shadow realm and spirited away. Soon, they would emerge from the darkness, still asleep, within the tunnels, there to be transported back to the nest and into the comfortable beds that had been prepared for them.
+
+Good work, the Nameless One signed. We have three more streets in this section of the city, then we move to the next neighbourhood. Be on your guard, the alarm will be raised any moment.
+
+The others nodded, knowing their work, but aware that these things needed to be said.
+
+As it turned out, the Nameless One had overestimated Green Mountain. They had almost finished their harvest before the alarm went out. Bells clanged and people shouted, running the streets with raised voices. Lights blazed indoors and the citizens were roused from their beds, alert and tense.
+
+Well, the Nameless knew when they weren’t welcome… they usually didn’t care, but in this instance, they had promised the Eldest they would retreat once they became known. Like droplets running together to form a stream, the shadows gathered together as they raced down the mountain, gathering momentum and strength as they went. They slipped down drains, ran through gutters and underground cellars, down, down deeper until they reached the tunnels once more.
+
+From there, they could never be caught. Too many shadows, too much darkness, and they were simply too good.
+
+In just a few hours, their task was complete. Once more, they took up their posts within the nests, and if anyone had noticed they were gone, they wisely said nothing. If anyone noticed that the cells used to comfortably house the captives previously were somehow full once more… they doubly said nothing.
+
+The Eldest had called on them for this task, knowing the shadows would be able to succeed while their senior created a distraction down below, and the Nameless would never refuse the call to action.
+
+Their part was done, but that simply meant they would be able to return their focus to what was truly important. Eight hours were the mandate, and eight hours was what the Colony would have.
+
+Whether they liked it or not.

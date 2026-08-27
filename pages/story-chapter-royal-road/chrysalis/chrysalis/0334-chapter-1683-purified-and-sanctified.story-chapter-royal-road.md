@@ -1,0 +1,121 @@
+---
+id: a089c339-b8fe-5742-8fec-3d643505e089
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1683 - Purified and Sanctified"
+slug: 0334-chapter-1683-purified-and-sanctified
+partOf: chrysalis
+position: 334
+ownLength: 1236
+unit: words
+ownProgress: 1236
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2736217/chapter-1683-purified-and-sanctified"
+royalRoadId: "2736217"
+markedReadAt: "2026-06-29T19:54:29.816Z"
+---
+
+First of all, what the heck is a Pure Core? Why do I have one, and what does it even do?!
+
+Gandalf?
+
+[Pure Core. Absorbs and cleanses mana.]
+
+Wait… that’s it? Come on, Gandalf, you have to give me more than that!
+
+…
+
+…
+
+No? Damn your silver locks and fulsome beard, damn them to Hades! Cleanses mana? How? What sort of mana?! I mean, if I go back out in the fifth, then… will this automatically cleanse the corruption out of me? That would be… extremely useful.
+
+Also, since it’s a second core, does that mean I absorb more mana than I did before? If so… fine, I suppose. I can’t see any drawbacks to that.
+
+I notice a few other things. My eyes are now made out of Unsullied Crystal, whatever the heck that is. So long as it’s hard enough to stop an attack going straight through and into my brain, I can’t complain too much. Also, if it doesn’t melt when I walk into the fifth, I’d appreciate it. Melting eyeballs are… unpleasant.
+
+[Unsullied Crystal is a rare spiritual material. Only the truth may penetrate it.]
+
+Did my body just become even more valuable? I’m really starting to worry about the price tag attached to me. Best keep quiet about this one. Not sure what it means by ‘only the truth may penetrate it’. Maybe I’ll need to experiment with that a little.
+
+Also, my eyesight has once again returned to complete rubbish, all of my mutations lost. Grumbling, I punch in mutations up to +15, improving the quality of my lenses.
+
+Wait, what the heck happened to my healing gland? It’s gone?! I need that!
+
+Although… what in the name of goodness is a Virtuous Echo Network?
+
+[Virtuous Echo Network. This organ breaks the cycle and turns harm into healing. Fuelled by purified mana, it will provide more healing the more the host is attacked.]
+
+Okaaaay. I don’t know anything about cycle breaking, but this is basically constant healing as opposed to healing I can trigger? And it’s fed off the mana that the pure core spits out?
+
+That seems… good. I’m interested to see just how much healing I can get out of this thing when it revs up. I assume there’s some sort of limit.
+
+Right?
+
+What else is going on in here? Things seem to have taken a strange turn while I was evolving, that’s for sure. My business district appears to have had a severe makeover. Now it’s apparently a complex. All of my various bits and pieces back there fused into one, all-powerful dispenser of business and justice.
+
+I like it!
+
+Seriously though, what the heck is this thing?
+
+[Everflowing Well of Living Waters: This organ is a wellspring of liquid mana. When supplied with arcane energy, it will release a constant supply greater than what is fed into it.]
+
+WHAT?!
+
+So, if I push mana into this organ, I just… get more back? Is this some sort of hack?! I didn’t think it was possible to make more mana out of nothing, not even the Altar can do that!
+
+And… wait a second. Will the liquid mana I get out of it change depending on the type I put in? Could I feed Gravity Mana into this organ and get pure, concentrated liquid gravity out the other side? Maybe I have to mutate it first, but even so…
+
+That would be… insane. Like… really insane. How in the heck would it even work?
+
+The more I look at it, the more impossible this organ seems. I can’t imagine how much of the evolutionary budget got spent on this thing, but it had to have been a lot. I’ll have to ask Granin and the crew when I see them next.
+
+My status still has a ton of other changes. Vestigial Legs, some of my brains got reset, a whole lot of stuff. The base stat changes are also crazy. I’m huge now, probably thirty percent larger than before? Which is… geez, it’s hard to say. Coolant has left the room, so I can’t compare myself to her anymore.
+
+Oh, that shadow over there is a nameless one. Nice. If she’s a tier five scout… then I’m… way too big. I must be somewhere around twelve metres tall and three times as long. At what point do I get so large that I need to start looking out for atomic lizards?
+
+I shouldn’t joke about it, I’m getting nervous, that's a real thing now.
+
+[MASTER!]
+
+[Oh, hey, Crinis! I’m awake. How’ve you… been.]
+
+I only just woke up, I don’t want to have to deal with this.
+
+[Can you get out of my carapace please, Crinis?]
+
+[I’m… I’m not sure what you mean…]
+
+[I know you’re in there! You made it look like you dove into my shadow, but you snuck inside my thorax at the last second! Get out!]
+
+[Fine,] she grumbles. Moments later, pure darkness begins to drip out of my carapace and fall into my shadow. I wait and make sure nothing is ‘accidentally’ left behind before I turn to Tiny, who has Invidia riding on his shoulder.
+
+[Hey, guys!] I greet them warmly. [Sorry I slept for so long. Hope you’ve been well!]
+
+Invidia smiles at me, which is a little disturbing, but I get the sense he’s trying to be supporting. Tiny just flexes, then nods. Then flexes some more.
+
+But… I notice something weird is happening.
+
+Turning my focus inside my body, I realise the cool rush of healing fluid is starting to spread throughout my frame. Rather than coming from one place, it seems to be distributed by a… networked system… I suppose.
+
+Like ice, it slides along my veins and saturates my muscles, invigorating my organs and refreshing my minds. It’s nice, it’s pleasant even, but why the heck is it happening?
+
+What’s more, it’s getting… more. I look around the room, but there’s nothing happening. It’s me, Tiny, Crinis and Invidia, in an empty chamber, with a nameless one, yet the flow of healing fluid just keeps getting larger and larger.
+
+[Is… is anything weird happening to you guys?] I ask the others.
+
+[Is there a problem, Master?] Crinis asks, assuming the worst.
+
+Regeneration fluid is thundering through me now. There’s a ton of the stuff and it just keeps coming. I mean… I don’t think it can hurt me, it literally heals damage, but why is this happening?
+
+Hastily, I whip up the status screen and read through the description of the regeneration organ again. More healing the more I’m attacked. The more I’m attacked. So I don’t have to get hit, just attacked.
+
+So… I must be being attacked right now. That’s the only explanation.
+
+I look at Tiny. He’s still standing there, flexing, rolling his shoulders, but there’s something in his eyes… a little flicker that gets me thinking. Wait, since my eyes have been reset, that means I lost all my mutations, which means I can’t see his damn ghost fists anymore!
+
+[TINY! Are you shooting intent at me?!] I demand.
+
+His bat eyes go wide and he freezes like a child caught with their hand in the cookie jar. Slowly, he puts his hands behind his back and shakes his head.
+
+[No,] he says.
+
+[Then why…] I ask him slowly, politely, [is my healing gland still going crazy?! Stop it right now!]

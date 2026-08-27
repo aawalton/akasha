@@ -1,0 +1,141 @@
+---
+id: ce9339de-e269-5972-8c29-095036b56aa2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1789 - A Disturbance in the Sludge"
+slug: 0441-chapter-1789-a-disturbance-in-the-sludge
+partOf: chrysalis
+position: 441
+ownLength: 1327
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3368933/chapter-1789-a-disturbance-in-the-sludge"
+royalRoadId: "3368933"
+---
+
+“Matron, you need to see this! Something strange is going on out there!”
+
+“How many times do I have to tell you not to call me matron?” Eliza growled, her glare sharp enough to cut Abyssal Steel.
+
+As usual, the trainees stationed here in the fifth were made of sterner stuff and brushed off her fearful stare.
+
+“I won’t do it again,” Sheriman grinned, lying through his pearly white teeth, “but you definitely need to come and see this. The recruits are buzzing.”
+
+Letting herself be persuaded, Eliza dropped her paperwork onto the desk with a sigh and stood. Not willing to wait for her, Sheriman laughed and hared off down the corridor, urging the officer to follow faster.
+
+You’re nineteen years old, she thought to herself, exasperated, not five.
+
+Indeed, no. The woman known as ‘the Matron’ to the residents of this remote outpost, officer trainees for the most part, would not run down the corridor, but would maintain a stately walk befitting of her rank.
+
+Just because they all killed monsters for a living didn’t mean they couldn’t maintain a sense of dignity about themselves. She had tried for years to instill this belief in the officers of the Legion, largely to no avail.
+
+Narrow, with the roof low enough she needed to duck her head in order to walk through, every corridor in the outpost was just as cramped. Space was at a premium in the fifth, where every room had to be insulated and pressurised against the deadly atmosphere on the other side of the walls.
+
+“Come on,” Sheriman begged. “You need to hurry!”
+
+“I need to do no such thing,” she hurrumphed, maintaining her pace. “I will run when there is cause to run. If you wish to be an officer of the Abyssal Legion in the future, then you strive to execute the appropriate action for each situation.”
+
+Sheriman groaned.
+
+“But this could be an emergency, how would you know if it wasn’t?”
+
+“Because the alarm would be going off.”
+
+And right on cue, the enchanted lighting inside the corridor snapped from soft white light to red, painting the entire scene the colour of blood. Sheriman frowned, looking up in confusion.
+
+“Is… is that? Matron?”
+
+“Don’t call me that!” Eliza growled as she sprinted past the bewildered student. There wouldn’t be an alarm unless there was an imminent threat to the base, but how had one appeared so suddenly? There hadn’t been any warnings from the patrols or concerning reports from the other outposts.
+
+Something had gone drastically wrong out there.
+
+Ahead, a gathering of confused and worried students clustered around the sensor equipment panel, muttering amongst themselves. When they saw her steaming towards them, they staggered back, startled by the unexpected sight.
+
+“Matron!” they cried out, pushing into those behind them in order to make room.
+
+“Go back to your dorms,” she snapped. “Now!”
+
+“What’s wrong?” Sheriman gasped, skidding to a stop beside her.
+
+“Everyone to their dorms,” Eliza emphasised, her eyes already on the panels. “Are you members of the Legion or children? Follow your damn orders.”
+
+“Yes, Commander!” the youths cried, snapping out salutes before they turned to run. Sheriman looked pained and left only reluctantly, but there was no time to worry about angsty young officers right now.
+
+“This doesn’t make sense,” Commander Eliza muttered to herself, checking the readings on the array display. According to the sensors placed around the outpost, the mana intensity was rising rapidly in the surrounding area.
+
+Why? There wasn’t a wave occurring, or any other reason for a tangible surge in energy level, but it was happening nonetheless. There wasn’t any choice, she had to contact the other outposts.
+
+She reached for the communications panel and pulled back the cover plate. Behind, even more intricate enchantments glittered, but the function was relatively simple.
+
+Any sort of long-range communication magic was almost impossible to perform within the fifth. At great expense and effort, the Legion had managed to install secret corruption-resistant cables that ran through kilometres of tunnel, even boring through solid rock to connect their outposts together in some instances. Using them was a risk, however. Any tremor of mana could be enough to reveal them to the Krath who were always hunting for ways to attack the Legion in their midst.
+
+For something like this, she didn’t have any other option.
+
+“This is Commander Eliza Sparrek, ranking officer of Vallis Outpost. Is anyone receiving?”
+
+She lowered the speech box and waited. There wasn’t necessarily someone sitting and waiting for communications all day, but hopefully it wouldn’t be too long before….
+
+“This is Commander Steven Monsine of Rupes Outpost. I am receiving you.”
+
+“Steven, my sensors are reading an enormous spike in mana levels in the surrounding tunnels. Are you seeing anything similar?”
+
+“Hold on a second, Matron.”
+
+“Shut your damn mouth, Steve.”
+
+“Ahhh, let me see… No, nothing. At least, not yet.”
+
+Rupes was the closest base to Vallis, but it was higher up. Whatever this disturbance was, it hadn’t reached them yet.
+
+“I’m seeing a spike of thirty percent in the last hour, Steven.”
+
+“Holy heck! That’s… not good.”
+
+“Obviously.”
+
+“There hasn’t been any visual confirmation of disturbances in the tunnels?”
+
+“My last patrol returned two hours ago and the next wasn’t scheduled to leave for half an hour. Whatever this is, it happened quickly.”
+
+“I’ll get people out in the tunnels shortly. We need to know what is going on as soon as possible.”
+
+“Agreed. Make sure your people are careful out there, something strange is happening.”
+
+“Rupes out.”
+
+Her fellow commander clicked off the line and Eliza replaced the box, her mind racing. Things had been a nightmare in this area since those damned ants had invaded the area above, stirring up the Krath and sending them into a frenzy. At least until now, it hadn’t had an impact on the outpost. That had to have changed, she couldn’t think of any other reason for something this out of the ordinary to happen.
+
+“What is THAT?!”
+
+Shocked, Eliza turned to see Sheriman, who hadn’t followed orders and turned back to her dorm, staring out a nearby port window in horror.
+
+Without time to reprimand her student, Eliza Dashed across the room and shouldered the girl out of the way. Pressing her face to the small glass opening, she paused for a moment, unsure what she was looking at.
+
+A moment later, the picture snapped into place.
+
+It was an eye. A very, very large eye.
+
+Monster!
+
+A mind locked onto her own, a bridge rapidly forming between them. Eliza cursed, realising her helmet was sitting back on her desk.
+
+“Run, fool girl!” she roared, shoving Sheriman away and towards her dorm rooms. “Lock the doors and put your helmets on!”
+
+Then it was too late, the bridge snapped into place and she was at the mercy of the creature.
+
+It spoke to her, sounding more like a young man than a horrifying beast of the Dungeon.
+
+[Uh… you guys really need to get out of here. Like… fast.]
+
+[You want us to leave safety and feed ourselves to you? Should I marinate myself first, monster? Kill me if you’re going to kill me, but I warn you, chew well or I’ll kill you from the inside out.]
+
+The eye pulled back, revealing the sheer size of the monster outside the outpost. The monster ant.
+
+[Look, what you do in the privacy of your own space base is no business of mine, but this whole area is going to be flooded with mucus in… soon. I don't know how well-built this thing is, but I don’t think it can handle that. So… you know… leaving seems like a good idea?]
+
+Mucus?
+
+[Would this have anything to do with the sudden mana spike in the area?] she asked, eyes narrowing.
+
+[Wow, it’s already here! I better go hold it off and stuff. Bye!]
+
+And then the connection was gone.

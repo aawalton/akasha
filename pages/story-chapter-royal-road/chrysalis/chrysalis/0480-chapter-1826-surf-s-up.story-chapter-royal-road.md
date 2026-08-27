@@ -1,0 +1,63 @@
+---
+id: 1a0432ba-dd38-55c5-9911-f21665cc5b9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1826 -  Surf’s Up"
+slug: 0480-chapter-1826-surf-s-up
+partOf: chrysalis
+position: 480
+ownLength: 890
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3610911/chapter-1826-surfs-up"
+royalRoadId: "3610911"
+---
+
+The arrival of the liquid mana isn’t that hard to see coming. When it rains, it pours, as they say, and when the liquid mana arrives, it practically floods. I sense it before it arrives, naturally. Condensed to the point of forming a liquid, the mana is absurdly potent and dense, lighting up my brains like an approaching Christmas tree on wheels. The moment I sense it, the build team leaps into action. Mandibles gnashing, Skills and magic in full effect as they unleash their full power, they abandon any attempt at stealth and dig for all they're worth.
+
+It doesn’t matter if the slugs smell us now, it’s too late to stop what’s coming.
+
+The heart thunders ever more powerfully beneath us the closer we get. After less than a minute, the build team pulls back to safety, before there’s any chance they could get pulled into the fight, while the Legion and Templars form ranks above me.
+
+Mandibles flex and I start digging, ripping away the diseased, flesh-like material that forms the walls, until finally the thundering wall of the heart itself is revealed before me. Standing on it is less than comfortable, the gigantic thing moves so dang much, but I don’t intend for that to be a problem for long.
+
+Starcrusher!
+
+Empowered by the Altar, my bite explodes outwards in a wall of fire, the shockwave ripping through the meat of the heart and burning away the dregs that remain. Engulfed in the searing heat, I feel the pulsing flesh beneath me lurch, then give way and suddenly I am falling.
+
+Gweheheheh. Hello, Krath! Remember me?!
+
+My brains spin into overdrive as the sizzlingly powerful mana inside the heart begins to burn away at my carapace. Inside my body, the Pure Core begins sucking in corruption at an accelerated pace, the glorious strains of snail song bursting out around me and filling the air.
+
+Mana thunders through me as I prepare a multitude of spells, but I have to let one rip almost immediately because it appears as though the slugs might have noticed I was coming a little earlier than I suspected.
+
+Holy moly!
+
+A Doom Sphere of liquid… well… death comes screaming at me, bubbling and hissing with unspeakable potency, and I’m forced to use an empowered force spell to shove myself to the side. Despite my incredibly quick reflexes, the spell still clips a leg as I go rocketing sideways and slam into the wall of the heart.
+
+My leg starts melting rapidly as I kick and flail it, trying to dislodge the mucus with limited success, but the slugs aren’t done. Antennae ringing a warning, I scrabble to get my legs under me and grip on the shuddering wall of the heart. With milliseconds to spare, I unleash an empowered Dash, straining my joints to their limits to escape.
+
+Right behind me, thick hunks of acidic, sticky goop slam into the wall, forming a net that would have pinned me down until I managed to burn it or break loose. Who knows what the slugs would have been able to do in those precious seconds?
+
+Sheesh! I’ve only been in here for a few seconds and already the Altar is starting to run dangerously low. It’ll fill up rapidly, but I didn’t expect them to be this prepared!
+
+How prepared?
+
+With a precious handful of seconds to survey the situation, I can see that they are way better organised in here than I’ve ever seen before. Each heart has four chambers and this one has been prepped for war. Clearly they expected us to invade from above, even if they didn’t know exactly when or how.
+
+Bunkers of thickened mucus have been attached to the walls, little slug faces poking out of narrow openings to launch their deadly spells. There must be over a dozen of them, packed with twenty or more Krath in each.
+
+Reinforcements are slithering in at a rapid pace too. A flurry of activity at the entrance to the chamber shows more and more of the slugs arriving, eyes bulging red and skin bubbling and hissing in fury.
+
+Somewhere down below, in the lower chambers, the toxin of Theorazzn is there, corrupting everything it touches even after thousands of years. Even up here, I can feel it, something in my Pure Core calling out to the filth.
+
+Well, unfortunately for you, slugs, I didn’t come here on my own.
+
+Time to make it rain!
+
+There’s no trickle, or splash or even flow of cleansed mana into the heart. It’s a powerful deluge right from the word 'go'. As if pressurised and launched from the mouth of a hose, it blasts into the chamber from the opening above, splashing and frothing everywhere.
+
+The Krath respond with cries of fury and terror, but there’s nothing they can do once the tap has been turned.
+
+In a sight that shocks me to my core, Legionaries begin to drop in, swept up by the torrent of mana and just… falling into the heart, dropping hundreds of metres before they slam into the ground, only to absorb the fall like action heroes and stand up, brandishing their weapons as they stride forward with purpose, the love of battle lighting up their eyes.
+
+Uh… that’s cool as heck?! Since when could they do that?!

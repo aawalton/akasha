@@ -1,0 +1,91 @@
+---
+id: 01381830-fbc4-5248-bdab-bd60508fcfe7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1846 - Settle in, Weather is Rough"
+slug: 0501-chapter-1846-settle-in-weather-is-rough
+partOf: chrysalis
+position: 501
+ownLength: 1089
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3828658/chapter-1846-settle-in-weather-is-rough"
+royalRoadId: "3828658"
+---
+
+Things escalate rather quickly after that. Mana levels are skyrocketing, the wave practically nipping at our heels as Tiny, Invidia, Crinis and I make our way back to the fortress. In the midst of four separate hearts, with that absurd velocity of energy, it's getting dense, even worse than it was when I first came through.
+
+It’s nuts. If the mana gets any thicker, I think monsters will start to just pop into existence in the air. They’re already crawling out of the spongy flesh of the walls and the wave hasn’t properly started yet!
+
+Nope, I am not hanging around for this. Even if I can fight off these monsters relatively easily since they just spawned, the sheer quantity of them is enough to make a massive pain in my carapace. Once the tougher monsters start crawling up from the depths, goodness knows what I might end up having to fight. I’d much rather do that from within the fortress than out here in the open.
+
+As far as exploring the sixth during a wave is concerned—NOPE. Dangerous new territory is one thing. Dangerous new territory during a storm of mana that will bring up creatures from the seventh and possibly eighth? Even I’m not that dumb.
+
+When we arrive back at the fortress, the Colony is busy readying the defences for the trial to come. There are thousands of ants crawling over the great walls and defensive platforms. No longer used to suck in mana, many of the precious materials are being pulled up and stored safely inside in case they might be needed again while the mixed ant and non-monster battalions are doing drills in the closest tunnels.
+
+It puts a smile on my dial to see the cooperation between the Colony and the people who’ve come to live within our domain. Monster and human/golgari/ka’armodo/setsulah/brathian/Folk/magpei. Working together in harmony toward a common goal.
+
+To think it nearly ended with a few ants eating the humans in Renewal. Phew!
+
+Glad I was around that day.
+
+Actually, now that I look closer, the magpei are still fistfighting. Oh, nope, some ants have tackled them down to the ground before they could take off flying. Now what are they doing? I think they’re performing some sort of breathing exercise to try and calm the irritable bird-people down? They must have had some success with it, otherwise they wouldn’t be trying, but… seriously? If regulated breathing was enough to settle the magpei, they wouldn’t have been beating each other and everyone else up for the last few thousand years.
+
+Many of the troops recognise me as I come down the tunnel towards the gate, with a lot of ants calling out to me.
+
+“Work hard, Eldest!”
+
+“Break time, is it? Typical!”
+
+“Out for a stroll, Eldest?”
+
+“Hey!” I snap back. “I’ve been out fighting for a week straight. A week! I think I deserve some torpor, don’t you?”
+
+That certainly changes their attitude. Or at least, I think it does at first.
+
+“Lucky…” one of the soldiers grumbles.
+
+“Why do you get to work for a week?”
+
+“Boooo! I want to work that much!”
+
+“Unfair treatment!”
+
+“Eldest! I hereby protest the unfair distribution of labour. It is dramatically tilted in your favour and I will not stand for it!”
+
+“OI! You can get back into your battalions and settle down or you’ll be in for an extended trip to the sleep cells! I’m the only one who could patrol down there, so I had to stay out. Alright? Sheesh!”
+
+Despite there being further grumbling and muttered protests, something about the ‘worker’s right to deny rest’, they quiet down as I continue to walk past.
+
+Which gives me the space to pay attention to the reception I’m getting from everyone without a carapace.
+
+The priests, of course, have slammed their faces into the ground and are weeping an inappropriate amount, which doesn’t feel necessary. If that was all it was, I wouldn’t be bothered, but a surprising number of the regular troops, people of all races and Levels in the Dungeon, have kneeled alongside them, hands raised towards me as I pass by.
+
+I really wish they wouldn’t do that. Stupid one-armed priest. I thought this nonsense would never get further than him and a few of his most devoted, cranially challenged followers. Apparently, I was very wrong.
+
+When we pass through the open gate and into the fortress proper, I find myself releasing a tension I hadn’t realised was there. It’s good to get out of sight, I suppose.
+
+“GREAT ONE! THIS UNWORTHY WORM, THIS DUST OF A PERSON, IS BLESSED TO BE IN YOUR PRESENCE ONCE MORE!”
+
+“Loud!”
+
+Speak of the one-armed menace, and he shall appear. Along with a cadre of his fellow priests, all with their staves and antennae hoods, all mushing their faces into the floor.
+
+Wait, if he’s here, does that mean I have to ride out the entire wave while surrounded by this moron and his group? Ugh, somehow my day just got significantly worse.
+
+“Priest, what are you doing here?” I ask him, resignedly.
+
+“I AM… I am here to serve the battalions stationed in the fortress, Great One,” he says, trembling with the effort to not shout my antennae off.
+
+Great. Just great.
+
+“I need some sleep,” I sigh.
+
+Without another word, my friends and I continue deeper into the fortress, where we can finally take a load off and get some rest. It’s been a long week, even for me, so I know the others are really struggling. I’m not tired, not physically anyways, and my body is completely healed and fresh, yet battling against the Call has been draining. I could do with some shut-eye.
+
+Hopefully I won’t have to hang around the priest all that much during the wave. I’ll be out fighting on the platforms for the most part, probably, or out in the tunnels nearby to help ease the pressure.
+
+[Well, we’re going to be stuck here until the mana levels go down,] I tell the others as we find a place and start to lower ourselves down the ground, getting ready to sleep. [We should use that time to get you all to the next tier. It’s not fair I’m the only tier eight.]
+
+Tiny gives me a mighty thumbs up and a broad grin, eager for the evolution. Crinis writhes, extending a few limbs and waggling them happily. Invidia just smiles, which is rather creepy.
+
+I laugh. Maybe this won’t be so bad after all.

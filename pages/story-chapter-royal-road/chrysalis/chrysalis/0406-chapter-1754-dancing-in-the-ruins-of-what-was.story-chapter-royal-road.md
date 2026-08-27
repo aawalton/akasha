@@ -1,0 +1,69 @@
+---
+id: 6f37d418-470f-5f90-977d-167a9a97cc64
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1754 - Dancing in the Ruins of What Was"
+slug: 0406-chapter-1754-dancing-in-the-ruins-of-what-was
+partOf: chrysalis
+position: 406
+ownLength: 976
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145686/chapter-1754-dancing-in-the-ruins-of-what-was"
+royalRoadId: "3145686"
+---
+
+It became increasingly obvious to Colony scholars and researchers that the fifth, that is to say, the natural state of the fifth before its corruption, was quite unlike anything that we had seen before.
+
+Hardly a novel observation, each layer of the Dungeon differs remarkably from the others, yet what was discovered defied any guesses or predictions as to what was to be expected from a layer of the Dungeon.
+
+It is no secret that mana can become organic tissue. That is how monsters are created, or ‘spawned’ after all. Yet it seemed as if the fifth stratum was originally filled with this form of ‘organic’ or ‘bio’ mana. A form of energy that, unlike Life-aligned mana, didn’t nourish or enhance living tissue, but became it.
+
+No stratum was more susceptible to the corruption of Theorazzn. The Ancient was able to infect and distort the very structure of it the same way they would any other living tissue.
+
+As it slowly began to return to its original form, the true wonders of what had been lost to Pangera were gradually uncovered, one by one.
+
+-           Excerpt from ‘Into the Unknown’ by Historiant
+
+Pure Core, takes in corruption and gives it the smoke, that’s the basic premise of the thing, but I had no idea how effective the thing was going to be. For that reason, I haven’t mutated it at all, hoping to get a read on the baseline performance. If it was rubbish, it may not have been worth mutating at all, trying to push it in another direction may have been the best call.
+
+However, that doesn’t seem to be the case here.
+
+Gradually and with extremely rigid mental control, I loosen my grip on the mana invading my carapace, allowing it to flow just a smidge more freely. As the amount of tainted mana flowing into me increases in tiny increments, I monitor the Pure Core. If it heats up and stops working like the Everflowing Well does, then I really want to know well in advance. Things would go… rather poorly for me if I was left with a huge chunk of corruption inside me mid-fight or something.
+
+However, the core seems to just… keep on keeping on. It sucks in tainted energy and just seems to murderise the stuff. As far as the amount it can handle is concerned… not bad. After gradually increasing the rate of exposure, it doesn’t take too long to find the limit of the Pure Core. To be honest, it’s more than I expected, a rather healthy amount for a completely un-mutated organ.
+
+It’s enough to make a significant material difference to the allotment of my mental resources. With less of my mind constructs devoted to scouring my internals for trace elements of corruption, I can use them for regular spellcasting and mana manipulation. All in all, the Pure Core has freed up roughly ten percent of my mind constructs, which is absolutely massive.
+
+Hunting down those stray traces of tainted mana is way more tiring and resource-intensive than I care to admit. Not having to worry about it as much is a weight off of my minds.
+
+Revelling in the relative ease I can deal with the corrupting mana of the fifth, I begin to leisurely wander about, clacking my mandibles with glee as I go where I will without fear. Oh, a puddle of evil-looking slime! Hah! I laugh in the face of the evil-looking slime! Look at me poke with one leg! Oh no, the corruption has seeped into my leg! Aaaaand it’s gone.
+
+Gweheheheheheh!
+
+I wonder how well the core will do when I upgrade it to +15? Since I already have the Biomass, I decide to go ahead and do it before I get too far from the safe-zone.
+
+As always, there’s a plethora of options to upgrade the thing, but I’m only really interested in improving its core function right now. Make it better at purifying mana!
+
+Which means I end up with the Concentrated Pure Core +15.
+
+Confirm that!
+
+Fortunately there aren’t any ants here on the very border to see my embarrassing flailing. The core itself is rather small and hardly as itchy as something like my carapace, muscles or eyes mutating, but it’s right in the middle of my guts! It’s awful!
+
+Once the mutation process is complete, I wander over to the pool of evil slime and stick my leg in again, carefully monitoring the trail of corruption as it enters my system.
+
+As before, the Pure Core soaks it in before taking it out back and making it disappear. Judging by the speed of destruction, it’s probably improved by another thirty percent or so? Very nice.
+
+The slugs have absolutely no idea what’s coming their way. Not having to worry nearly as much about the tainted mana of the fifth means I can fight them so much easier than I could before. This is going to be fantastic!
+
+My heart is so light I start springing about the place like an ant less than a tenth of my size. Hopping here and there without a care in the world.
+
+Toxic fungal bloom? Who cares? Lurid mucus leaking from the ceiling and dripping onto me? Not a problem!
+
+River of sludge moving oh so slowly through the middle of the tunnel? Well I might dip in a leg, test the temperature! Why not?
+
+Oh, it’s highly acidic, that’s why not. Ouch!
+
+Giving my leg a little shake, I decide to rein it in a little bit. Just because I’m safer than before doesn’t mean I’m safe. I’d better make sure I show the proper respect to the fifth as I continue.
+
+Even so, it’s hard to keep that little bit of a spring out of my step as I make my way deeper into the tunnel.

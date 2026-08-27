@@ -1,0 +1,61 @@
+---
+id: 38f993cd-2db6-533d-849b-230bb52bf229
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1776 - A Web"
+slug: 0428-chapter-1776-a-web
+partOf: chrysalis
+position: 428
+ownLength: 958
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3299039/chapter-1776-a-web"
+royalRoadId: "3299039"
+---
+
+Or… am I?
+
+Perhaps I was a little too confident when I declared I would find what was hiding down here. Dealing with the constant assault of the slugs and their pet monsters is hard enough, but the narrow, twisted and branching paths here are a nightmare to navigate!
+
+There are sudden drops, endless splits, tunnels just terminating randomly sometimes, while others are in such an advanced state of infection I’m not sure if the floor will even take my weight. Without the tunnel map, I would have become completely lost in less than ten seconds, with no hope of ever getting out.
+
+I’ve been down here for a few hours and I must have visited well over a hundred different branching tunnels already!
+
+Frustrated by the constant strikes that come at me from all angles, I take a risk and dive into the tunnel on the right, hoping to gain a little space, a brief reprieve, so I can figure out just what the heck is going on. It is, of course, a mistake. Making any sort of unconsidered move is a grievous error in slug territory. They’re way too sneaky and I don’t think I’ve ever seen more traps than I have down here.
+
+Sure enough, the moment my legs hit the ground, it gives way beneath my weight, collapsing while the roof splits open, a nest of needle-nosed worms raining down. Fantastic.
+
+I use force magic to blast the worms aside and look down. Yep, sludge pit, of course. Luckily I’ve been holding a Gravity Well in reserve for just such an occasion, and I use it to freeze myself in the air.
+
+A few worms still land on me and start trying to burrow their way through my carapace. It’s shocking how effective they are. Advanced materials in their noses are unbelievably sharp, paired with insanely potent acid that they shoot out of their teeth at incredible pressures. Honestly, it’s impressive they do as well against my hardened shell as they do, given their size and likely low tier.
+
+However, it’s not enough to seriously threaten me. So what if they can dig through five or ten centimetres of my compressed diamond carapace? There’s plenty more where that came from!
+
+Not wanting to waste time, I pull myself to the side, knowing that there are likely to be a whole host of monsters about to start raining down on me. Sure enough, down they come, a torrent of beasts diving into the pit after me and falling immediately into the pit of slime.
+
+I have no idea how my guards are managing to survive in this chaotic labyrinth of doom, but they seem to be doing alright. I check on them every now and again in the Vestibule just to see if they’re alive, and they are, but it’s hard to know more than that. Surprisingly, they’ve spread themselves pretty far and wide throughout the area, covering multiple tunnels around me, while a few of them stick close, as in, cling directly onto the underside of my carapace where they’ll take the least harm.
+
+Monsters just seem to ignore them, meaning that the environment is far and away the most dangerous thing they have to contend with. That stealth ability is really something, and I’m sure they have impressive Skills to help as well, having developed them for a long time.
+
+A sentient cloud of corruption comes at me, oozing out of the porous walls to try and envelop me from behind, but I’m ready.
+
+Fire bursts from between my mandibles as I whip around, igniting the creature, which explodes in a fiery conflagration. Yikes, I hadn’t expected this creature to be flammable!
+
+Intense heat washes over me, scalding my antennae, but otherwise leaving me largely unscathed. Pulsing, mucus-clogged air sacs along the walls shrivel up, burned back by the sudden, potent heat. In that moment, I notice something a little interesting.
+
+Buried within the walls of the chamber I’m inside are pulsating tubes, a metre thick at their largest, branching and rejoining in a way that reminds me of nothing so much as the branching lines of mana within the first stratum.
+
+In the brief moment of safety I have thanks to the roaring flame of the now-deceased cloud, I take a second to inspect this new discovery. As I thought from further away… it’s disgusting, but curiously, it actually seems as if something is flowing through these tubes.
+
+Just what the heck is going on here?
+
+Against my better judgement, I use the sharp inner edge of one of my mandibles to slice through the wall of the tunnel, and am rewarded with a faceful of pressurised mucus. It sizzles fiercely as it burns into my carapace and I shake my head, trying to dislodge the horrible stuff.
+
+Yuck!
+
+After scraping the worst of the gunk off, it starts to dawn on me. If these are the lungs of the fifth, this huge complex of spongy tunnels and endless filth, and there is a massive quantity of mana running through here at all times, soaked into the walls… then I think I might have finally found the slugs’ sludge supplier.
+
+They’re taking it from here! I don’t doubt they’ve got a whole system rigged up for taking it out of these pipes; in fact, wherever these things join up and ferry the sludge out of the area, I bet that’s where the greatest concentration of Krath will be. They want control over this goop, I have no doubts about it!
+
+Which means… if I can trace the mucus pipes, I can find the slugs.
+
+Gweheheheh. I’ve got you now, slugs. You thought you could hide from me? Nobody can hide from me!

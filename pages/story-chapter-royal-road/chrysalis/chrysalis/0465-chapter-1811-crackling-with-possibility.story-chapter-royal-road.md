@@ -1,0 +1,73 @@
+---
+id: f5addff1-dc4f-5be1-b4d2-722721ce1d66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1811 - Crackling with Possibility"
+slug: 0465-chapter-1811-crackling-with-possibility
+partOf: chrysalis
+position: 465
+ownLength: 1255
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3512927/chapter-1811-crackling-with-possibility"
+royalRoadId: "3512927"
+---
+
+Every transition from one layer of the Dungeon to the next may as well have been a portal to a new world. I look closer at the swirling maelstrom in front of me, intrigued to see what it might promise of the stratum below and pleased to have made it through the burning cloud of death above.
+
+An endless flow of thick goop falls into the roiling storm of energy, trailing down the walls of the shaft. As the condensed corruption of the fifth comes into contact with the energy of the sixth... it is eviscerated. Now it is clear where the acidic mist originates from, it's all that remains after the mucus falls into this blender.
+
+Holy moly! I’d hoped the sixth's mana would be strong enough to withstand the mucus, but I didn't expect it to be anything close to this effective. No matter how much mucus we dump into here, I don't think it's going to get far. Which is helpful, because we are going to dump a lot.
+
+Before I even touch it, I can feel the electrical charge snapping and cracking from the sixth. Like a cloud made of power and fury, it moves with unbelievable energy—no soft, fluffy-looking thing but an angry, bubbling cauldron. Tilting my antennae towards it, I feel certain that this cloud is... heavy in some way. Perhaps a hint of gravitational energy is in there as well?
+
+Tentatively, I start to approach, intrigued by the strange mix of energy I'm feeling in there. It's not air, it's not even lightning, not exactly, but as I get closer, there's a definite hint of gravitational energy. My antennae are quivering with it.
+
+Gravity mana?! In the sixth?! Am I finally going to my home stratum? How exciting! Just thinking about having that kind of home field advantage is enough to make me giddy. After being brutally punished by the energy I've had to contend with in the fifth, it would be a welcome change, that's for sure.
+
+Eagerly, I move forward, keen to stick my head in and get a better sense of what is going on, but before I can, something else catches my attention, something behind me.
+
+At first, it isn't much. A swirl in the toxic cloud of energy refuse, an eddy that somehow snags my eye and draws it away from the fascinating scene before me. It doesn't stop with that slight shifting, gaining momentum and strength to the point where I turn around. A different feeling is starting to suffuse the air in the tunnel, a worrying aura that grows stronger and stronger and stronger, until I feel as though I'm standing in front of a truly powerful monster. I've felt something similar before, but only once.
+
+It's not a comfortable feeling, to be in the presence of an Ancient.
+
+Deep inside my carapace, the Pure Core grows hot, reacting to the furious thickening of decay in the mana around me. The snail song in my ears grows stronger. A rising chorus of purity that washes the world around me clean.
+
+A mind reaches out and connects with my own. Enormous. Powerful. Bubbling with contagion.
+
+[Theorazzn, I assume?]
+
+There is a face, within the mist above me, and it is hideous. Gibbering, palpitating mouth parts formed of snail flesh that drip and foam with unspeakable ichor. Thankfully that stuff isn't actually manifesting right here, but where the Ancient happens to be, far from me, thankfully. The touch of the monster's mind is as light as a feather and as deadly as a spider bite. I can feel the contagion frothing over the connection, trying to eat into my mind and destroy me from the inside out. I don't think Theorrazn is even actively trying to hurt me, this is simply what happens when one is connected to them. Everything they touch, even with their thoughts, begins to decay.
+
+[AN INTERESTING CREATURE. I DID NOT EXPECT SUCH AS YOU WOULD HAVE ANY SUCCESS IN THE REALM I HAD COLOURED AS MY OWN.]
+
+The words are painful to comprehend, slamming into my mind and then immediately starting to fray the edges of my consciousness, chewing into them like ravenous worms. Within me, the Pure Core heats up even further, dragging away the corruption and destroying it, preserving my mind. I really don't want to be talking to Theorazzn for any longer than I have to, given that I can't guarantee that the Pure Core is going to hold out against this sort of pressure. If it doesn't, my mind may just dissolve into mist.
+
+[Hey, well... it's been fun. Loved the place. Really great. Did you have something you wanted to say?]
+
+Any chance you can say it quickly? That horrible visage seems to regard me with amusement. Can they actually see me? Surely not, right? This is just a projection, a manifestation made by manipulating mana. I hope they can't see me....
+
+[I WANTED TO DESTROY YOU. MELT YOU INTO AN INSOLENT PUDDLE, FOR DARING TO TAKE FROM ME THAT WHICH IS MINE. I WAS PREVENTED. ODREN AND MORRIBOLG DEMANDED THAT YOU BE ALLOWED TO PASS THROUGH.]
+
+Well... that was nice of them.
+
+[FOR THAT REASON, I WILL DESTROY YOU SHOULD YOU MAKE IT TO THE CORE, AND IT WILL BE AN AGONISING DEATH. YOU WILL EXPERIENCE SUCH TERROR AND PAIN AS NO OTHER CREATURE IN THE HISTORY OF PANGERA HAS EVER IMAGINED.]
+
+Oh, they're laughing alright, highly amused but furious at the same time. It appears that Theorazzn doesn't appreciate being told what to do. You know what, though, I'm glad they're mad that the fifth is getting cleansed. Somehow, that makes it all worth it, just to annoy this stupid creature. Irritated by the situation, my caution gets a little lost. I clack my mandibles in anger.
+
+[Don't come barking at me because you got put in your place by other monsters I don't care about and never will. Big Ancient Theorazzn, threatening everything weaker than themself. You know what? You think you can take me up here? Come and get it, you slobbering git. My mandibles are rated T for Trash Disposal.]
+
+Considering that Theorazzn is currently almost killing me by thinking at me, this probably isn't the wisest decision, but, in the event that things go sideways, I do have a surefire method to escape. Sure enough, enraged by my words, the manifested Ancient screeches and rushes towards me, engulfing me in the hyper concentrated mana they have conjured.
+
+It's bad, real bad. If I thought the acid burned before, it's ten times as potent now, eating into me with shocking speed. Without the regeneration network running at full speed and the Pure Core soaking up so much toxic energy, I'd have been melted rather quickly. The song of the chal rises to a soaring crescendo, as if their voices were light used to drive back the darkness. As it is, I stand within the mist, pretending it's not working.
+
+[Weak, Theo. Weak beyond words. If you're this unimpressive when I get down there, you'll be fed to the hatchlings before I even get warmed up.]
+
+Before my legs start dropping off and the Ancient quite rightly calls my bluff, I release my hold on the tunnel wall, dropping rapidly into the border with the sixth.
+
+[I WILL SEE YOU SOON.]
+
+[You'd better hope not.]
+
+The connection between us breaks as I pass into the sixth, the corruption of the fifth unable to break through.
+
+Well. That went well.

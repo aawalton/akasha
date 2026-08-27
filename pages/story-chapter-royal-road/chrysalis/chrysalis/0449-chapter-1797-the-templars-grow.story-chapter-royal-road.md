@@ -1,0 +1,127 @@
+---
+id: 9c1575fe-ecec-5609-9a30-16d5d2e3f95f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1797 - The Templars Grow"
+slug: 0449-chapter-1797-the-templars-grow
+partOf: chrysalis
+position: 449
+ownLength: 1077
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3420733/chapter-1797-the-templars-grow"
+royalRoadId: "3420733"
+---
+
+To my question, the six of them kick their feet and look a little baffled for a moment, glancing from one to the next before finally Jern raises a hand.
+
+[Jern, I'm not a teacher, you don't need to raise your hand.]
+
+He lowers it a little reluctantly.
+
+[It just felt respectful, Great One. You are a god, after all.]
+
+[I'm also not a god.]
+
+[If you say so,] he says doubtfully and I'm reminded that attempting to persuade Jern of anything is an ultimately futile endeavour. [We've been pretty busy fighting against the Krath,] he goes on. [Helping the Colony defend the fortresses, supporting the human battalion members and the Priests.]
+
+[The Priests?] I say, confused. [How are you helping the Priests?]
+
+Those antennae-wearing morons are a pain in the thorax, but they do provide some rather excellent buffs when the Colony fights alongside its allies. Sadly, those buffs are too good to pass up, otherwise I'd happily leave them behind.
+
+It's Bertran who answers, rubbing at the back of his head sheepishly.
+
+[Well, they ask us to attend a few of the services that they run, say a few words and things like that.]
+
+[I mostly just stand there,] Jern says.
+
+I can't believe what I'm hearing.
+
+[They're using you as props in religious services?! Am I hearing that right?]
+
+[Well... sort of,] Bertran hedges. [I think they like seeing us, since we have some sort of connection with you.]
+
+[And what are you telling them, Bertran? What words of wisdom do the Templars have to share?]
+
+He scratches at the back of his neck.
+
+[Mostly, I just tell them to make sure they get enough sleep. It's not like you've left a list of commandments or something. Is there anything you would like us to say? Some directives for your followers?]
+
+The three young Templars, Emilia, Trean and Allison, all nod firmly at the mention of regular sleep, but grow still and stare at me a little too intently when he asks if I have any other commands.
+
+[No! I hate to be the one to bring this up again, but I am NOT a god! I'm an extremely cool and impressive monster. I refuse to lay out official guidelines for life to a bunch of confused believers. Who knows what they would do with them?]
+
+Telling the Colony that they should make sure they get eight hours of sleep a day ended up turning into a whole thing. To be honest, the torpor police are the main reason I try not to tell the Colony what to do too much. Goodness knows what'll happen the next time I open my big pheromone gland.
+
+Sheesh. When it was just the priests I had to worry about, this wasn't such a big deal, but now there's way too many of them. If anything, their insane beliefs are only spreading. Where it was once confined to the survivors in Renewal, now it's gotten into the Dungeon cities within Colony territory and is filtering out wider and wider. The crusades didn't help, that's for sure.
+
+Now there's a ton of people out there who've joined this bizarre ant-based religion, to the point where that idiot Beyn received a Prophet Class! Gah!
+
+Nope, don't want to think about that, let's just move on.
+
+[Alright, so you've been helping the Colony fight here in the fifth,] I say, determined to move on from any talk of priests and faith and how I'm definitely not a god. [How's that been going?]
+
+Alis speaks up for the first time. Fighting is something she's more than happy to talk about, as usual.
+
+[Good, Great One. We've gained a lot of Levels and are ready to advance our Classes. We were just waiting until you woke up and came to see us.]
+
+Uh... why?
+
+[Any particular reason why you waited for me?] I ask, confused. [I've been out of action for six months, and since I woke up, I've been running around all over the place. You could have advanced your Classes ages ago, I'm sure.]
+
+Alis hesitates, reluctant to answer, but Jern is all too happy to fill in.
+
+[We waited for you,] he said, as if it explained everything. Which it didn't.
+
+[I get that. Why?]
+
+The giant young man just shrugs.
+
+[Seemed like the right thing to do.]
+
+Ugh. This shouldn't be this hard.
+
+[Sure. Why did you feel that way?]
+
+[I think if I answer that question, you're going to get mad.]
+
+Dammit!
+
+[Well, I'm here now, so we may as well get it over with. Go ahead and evolve... or... whatever it is you guys do.]
+
+[Class advancement,] Bertran says helpfully.
+
+[Yeah, that thing.]
+
+I'm not sure what I expect, if they're just going to close their eyes on the spot, or start waving their hands around as they interact with a menu or something, but I'm taken aback when all six of them step towards me, raising their hands. Defensively, I take a step back.
+
+[W-what are you doing?]
+
+They pause.
+
+[I was just going to put a hand on you while I did the Class Advancement,] Jern tells me.
+
+[Why?!]
+
+He doesn't hesitate.
+
+[I don't think you want to hear the answer to that.]
+
+[Wha? Bu... FINE. Sheesh.]
+
+It's hard to get too angry with Jern, he just says whatever is going on in his head. He's right, I don't want to hear any of their nonsense. If they feel happier doing their thing with a hand on one of my legs, go nuts, it doesn't make any difference to me.
+
+Each of the six steps forward and ceremonially places a hand on a different one of my legs, which only makes me feel even more uncomfortable. It's fine, I can tolerate it.
+
+[How long does this take?] I ask them.
+
+[Not that long,] Bertram says, his eyes closed. [We just have to pick a new Class from the options given.]
+
+Right. Well, I suppose I'll just stand here, then.
+
+Trying to resist the urge to shift on the spot, I do my best to remain still, which proves to be far more difficult than I expected. This is the second time these guys are advancing a Templar-related Class, I think. They were originally Templar Initiates, or something of the sort, now they're something else, perhaps just Templar.
+
+[Any interesting offerings?] I ask, unable to keep silent.
+
+[Templar of Unshaking Faith,] Jern says.
+
+Sounds about right....

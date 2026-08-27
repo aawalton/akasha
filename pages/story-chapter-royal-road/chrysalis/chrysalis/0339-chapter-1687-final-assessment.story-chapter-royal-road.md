@@ -1,0 +1,109 @@
+---
+id: de0acf88-2417-55e6-a401-a7b36c4cb817
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1687 - Final Assessment"
+slug: 0339-chapter-1687-final-assessment
+partOf: chrysalis
+position: 339
+ownLength: 1008
+unit: words
+ownProgress: 1008
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2773281/chapter-1687-final-assessment"
+royalRoadId: "2773281"
+markedReadAt: "2026-06-29T19:54:39.384Z"
+---
+
+It was difficult for Granin to curtail his growing excitement. His belief that Anthony could be the one, the twentieth Ancient, had grown stronger than ever. As if it were destined to be, the poison of Theorazzn, which looked like it would cripple his potential, had been miraculously turned to his advantage.
+
+With the power of an Ancient already coursing through him, but none of the toxic downsides, Anthony would be a powerhouse in the eighth tier, a monster that few could contend with. Even the sixth stratum might not be enough to hold him at this point.
+
+[What about your acid complex? Have you tested it?] he asked, trying to mask his enthusiasm.
+
+Something about the way the giant ant looked at him said that Anthony may well have picked up on how Granin was actually feeling. Turning his head, he realised Corun was grinning broadly from ear to ear.
+
+That idiot! Why was he tapping his toes in that jaunty rhythm?!
+
+Granin glared at his student until he finally noticed, growing still and sliding his feet back together, looking conspicuously guilty. Torrina shook her head and rolled her eyes. She, at least, was a mask of cool professionalism. Or was she? Eyes narrowing, the shaper examined his student closely. Was there… perhaps… there was! Torrina wasn’t quite able to contain a tiny happy wiggle, the slightest movement of her shoulders and hips that gave away her inner state.
+
+[Granin,] Anthony said.
+
+[Ahem. What?] he replied, spinning back to face the monster.
+
+[Stop glaring at your students. It’s not their fault, look at yourself. If you had a tail, it’d be wagging.]
+
+Coughing loudly to cover his embarrassment, Granin tried to discipline himself.
+
+[Can we… please… talk about your acid complex?]
+
+[Fine,] Anthony snorted. [Although, it would have been much better if it could have been called a district. Was there a fusion option like that?]
+
+[I think there was, actually,] Granin mused.
+
+[Dammit! Ah well. I suppose my business district has been upgraded to my industrial complex. I haven’t tried it yet, I don’t particularly want to fill the chamber with acid and acrid smoke. Why do you ask, is there something special about it?]
+
+[The acid fusion drew in a great deal of Theorazzn’s energy, so I believe it will have a powerful effect. Not to mention, the fusion of so many organs should result in something powerful.]
+
+[Even more reason not to go blasting it around inside the nest. I’m sure I’ll get out in the tunnels at some point soon. I’ll report back if you’re worried about it.]
+
+[I’m not worried about it,] Granin grunted, [I’m just…]
+
+[Excited as a little puppy to see how it all works out. I know, I know.]
+
+[Dammit, Anthony.]
+
+[Awww look, he’s getting embarrassed!]
+
+[If you try and poke me with your antenna again, I’ll electrocute it.]
+
+[Ah… I would… I would never! How dare you insinuate such a thing!]
+
+Despite his protestations, Granin could quite clearly see the giant pole of an antenna that had been sneaking in his direction. This ant had grown to a truly monstrous size, beyond anything Granin had worked with before.
+
+There would be many tunnels Anthony simply wouldn’t fit in anymore, and most of the Colony’s nests would be off-limits to him now. Granin was a regular size for a golgari, a little shy of eight feet tall, yet Anthony towered over him, four times his size. Considering an ant was much longer than they were tall, the sheer size of him was intimidating. How much he might weigh now, Granin had no clear idea. A hundred tons? More? Considering the sheer mass of his compressed diamond coating, it could be a lot more.
+
+[How are your legs feeling?] Granin asked. [They were reforged with Graviton Splinters. We didn’t fully understand them, but the description said they were… resistant to the forces of gravity… or something to that effect.]
+
+[Really?]
+
+The massive insect monster lifted his legs one at a time, tapping and prodding them against the ground.
+
+[They do feel oddly bouncy. I feel light, well, lighter than I should. I’ve got a lot of junk in the trunk at this tier.]
+
+[A lot of… what?]
+
+[Weight. I’m heavy.]
+
+[Ah… yes. I was estimating it to be at least a hundred tons.]
+
+[A hundred feels low. I’m so darn dense. How much muscle compression did you do?]
+
+[A lot. We also reforged your muscles with Neutron Fibre. The description indicated it was a gravity-aligned material, so we thought it would fit you well.]
+
+[Be honest, you checked world infused flesh, didn’t you?]
+
+[We did,] Granin admitted.
+
+[Well, I’m glad you didn’t go with it,] Anthony said, [I’m already worried about how much money I’m worth, no need to make it worse.]
+
+Granin decided not to tell Anthony that it would hardly have made a difference. The deleterium shard in his acid complex was a prize in and of itself.
+
+[I recommend you don’t push yourself until you’ve gotten those tendons to +30. Take the same mutation every time.]
+
+[Really?]
+
+[Absolutely. Your tendons are still just regular fleshy fibres, while the rest of you is made of stronger stuff. If you tried to do an all-out Dash the way you are, you’d snap every tendon in your body. Reinforcing their durability all the way to +30 should be enough to prevent any major damage. I’d make it a priority to get them to +40, though. The forces your body is capable of exerting are dangerous, to say the least.]
+
+[Will do. Thanks for checking in, Granin,] the giant ant said with a wave of his antennae. [I appreciate everything you did for me. I think you might have saved my life.]
+
+[That’s what friends are for,] Granin replied with a smile.
+
+[And I’ll come back and talk to you after I get a chance to fight a bit. Give you the full rundown.]
+
+Trying not to look too eager, Granin nodded.
+
+[I’d appreciate it.]
+
+[Your tail is wagging.]
+
+[Shut it.]

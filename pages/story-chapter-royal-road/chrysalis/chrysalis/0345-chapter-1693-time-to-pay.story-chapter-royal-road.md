@@ -1,0 +1,67 @@
+---
+id: e92febde-6218-5e92-be04-2f14a40ca065
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1693 - Time to Pay"
+slug: 0345-chapter-1693-time-to-pay
+partOf: chrysalis
+position: 345
+ownLength: 852
+unit: words
+ownProgress: 852
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2796408/chapter-1693-time-to-pay"
+royalRoadId: "2796408"
+markedReadAt: "2026-06-29T19:54:51.087Z"
+---
+
+I remember the entrance from the fourth to the fifth. I’ve seen it lots of times, after all. In fact, I was the first ant to head through it.
+
+I do not remember it looking like this!
+
+For starters, it’s like, ten times the size it was, and rather than a nightmare tunnel into the depths of heck, it’s an industrial port which wouldn’t look out of place next to Heathrow! What the heck is going on here?
+
+Lowered down from above is such a volume of… stuff, that I can barely keep track of it all. It never ends! No sooner has an empty platform been winched up out of sight than three more come down to take its place. The area beneath the entrance is an absolute hive of activity. A logistical marvel in action, ants crawl all over the place, stacking, sorting, shifting, moving, loading and carting. No sooner has something touched the ground than a crew of ants are all over it, unhooking ropes and moving the cargo into a complex network of rails. Within minutes, they’ve got it onto the correct line and rattling off to another distribution site, like the shaft I was trying to climb up before.
+
+Yeesh. When the Council said everything the Colony produced was being poured into the fifth, I thought they might have been exaggerating. They probably were, but not by much!
+
+If it wasn’t clear before, it was obvious now, war in the fifth has been pushing the Colony right to its limits. More successful than anyone in history, my family has achieved incredible things, but that doesn’t mean fighting down there was suddenly easy. We’re keeping up for now, but that doesn’t mean we can continue to do this forever.
+
+I’ll have to think about a few things. But first, I have business up above.
+
+There’s a tiny area dedicated to stuff going up the tunnel, and my pets manage to get in there and start climbing. Well, Tiny and I start climbing, Crinis catches a ride with me and Invidia sits on Tiny’s shoulder, as usual.
+
+Holy moly, climbing up vertical surfaces when I weigh this much is hard. In fact, my Grip Skill levels when I’m about halfway up, which is nice. I think I’m going to need all the levels I can get in that department.
+
+The pain from the Call steadily increases with every step I take, but it’s when I reach the top and step into the fourth proper that it really ratchets up a notch. It’s nothing I haven’t felt before, but that doesn’t mean I enjoy it.
+
+Rather the opposite, in fact.
+
+I know for a fact if I stay here too long, it’s going to eventually force me back down into the fifth. Lousy Ancients. A part of me is looking forward to giving them a piece of my mind. And my mandibles, if I’m honest.
+
+“Eldest, welcome back.”
+
+Oh, a welcome committee! How nice. Sloan and Victor, along with Brendant and Burke, are here to greet me as I climb out of the tunnel. Tiny jumps up behind a few moments later, landing in a classic hero pose with a serious look on his face. He holds it for a bit too long.
+
+[You did a great job, Tiny. Well done,] I tell him.
+
+The big ape nods, then shoots me a quick thumbs up, pleased to have his hard work acknowledged. Is he feeling needy since I’ve been asleep for so long? He wouldn’t usually demand this much attention.
+
+“Anyway… nice to see you again so soon. I assume you’re in charge of the mess up here?”
+
+“Yep,” Burke says. “Not that there’s much to do right now. We’ve retreated and fortified our position, giving up huge swathes of territory in the process. The delvers keep probing, though, so it hasn’t deterred them any.”
+
+“We were worried it wouldn’t,” Sloan mutters. “I think they’ve started setting up forward supply points and warded campsites closer to the nest. They’re staying in the field longer and staying closer to our defensive line than before. If they eventually give up on this angle, I think they’ll just try somewhere else.”
+
+If the Colony is forced to pull back into the nests whenever the Church and their delvers show up, our development will slow to a complete crawl. Not to mention we give them the chance to trap our territory and catch us that way. No way. A message needs to be sent.
+
+“I’m here now,” I tell the gathered Council members. “Tell me where they are, and I’ll take care of the rest.”
+
+Sloan and Victor both hesitate at that, and I can tell they’re still worried.
+
+“Are you… sure you know how you’re going to approach this situation, Eldest? It’s… delicate.”
+
+“I can be delicate,” I assure them. “I absolutely know how to be delicate. Trust me, my touch can be so light, you won’t even know it’s happened. I’m like a feather’s dream of a feather.”
+
+“You have no intention of being delicate, do you?”
+
+“No, no I do not.”

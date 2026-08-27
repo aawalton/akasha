@@ -1,0 +1,73 @@
+---
+id: 24d91dbe-7af4-518a-bede-52625984c525
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1751 - Updated Maps"
+slug: 0403-chapter-1751-updated-maps
+partOf: chrysalis
+position: 403
+ownLength: 1147
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145660/chapter-1751-updated-maps"
+royalRoadId: "3145660"
+---
+
+As it turns out, Solant wasn’t lying when she said I wasn’t going to fit inside the chamber she uses to coordinate the campaign. The best they can do is enlarge one of the entrances so I can plop down outside and peer in. At least it’s enough to allow me to see the ever-changing model of the fifth that the generals have been using. I’ve seen it before, and I’d assumed that after six months they would have had to start making a new one, using a new scale, but nope. The model is enormous, basically the size of a multi-storey building, contained in an ever-expanding oval carve-out in the centre of the room.
+
+Every minute detail of the stratum has been replicated, down to the tiniest little tunnels, represented by filaments as thin as an ant-hair. The first thing I see when I start taking it in is the chambers that are obviously representing hearts.
+
+It appears as though the Colony has conquered over a dozen of the things, vastly expanding the amount of cleansed territory and driving back the Krath. For each of the hearts, a matching fortress has been constructed, not necessarily the size of the original, but each there to provide the same function: housing the tanks of purified mana necessary to flood the system and overwhelm the corruption of Theorazzn.
+
+I can scarcely imagine the sheer quantity of effort the Colony has poured into achieving this. Getting the first heart cleansed was a monumental effort and it nearly got me killed. They made this much progress even without me, Tiny, Crinis and Invidia? It’s boggling!
+
+“As you can see, we have been busy in your absence,” Solant says, moving over to the model and then climbing onto it.
+
+Makes sense, I suppose, it’s not like she can just point at the parts she wants to indicate—it’s way too large. With her small frame, it’s trivial for Solant to pick her way over the surface, heading towards the places she wants to emphasise.
+
+“We have been continuing to expand our field of influence by strategically targeting hearts. Using our connected network of fortresses, we can utilise the channels to transfer and stockpile liquid mana in the places where we want it. By flooding sections of the Dungeon, we’ve been able to clear out Krath resistance and make it difficult for them to form a solid defensive line.”
+
+Ah, that makes sense. With the power of the cleansed mana and the ability to deliver it right to the front in tremendous volume, they can literally drive out the Krath and then move in to secure the territory once they’re gone. Using this method, they could avoid any major confrontations against the Krath completely. No wonder they’ve been so successful.
+
+“I’m guessing the Krath have found ways to mitigate the effectiveness of the strategy?”
+
+“Indeed.”
+
+Solant crawls out to the edges of the model, pointing at several key points.
+
+“Our expansion, in terms of width, hasn’t been opposed as much as when we have tried to go deeper. Most of the Krath opposition is positioned here, here and here. In response to our flooding strategy, they have begun to reshape the tunnels, creating huge reservoirs of concentrated mucus to dump our mana into, diverting the flow away from their defensive emplacements. Fighting over the vent systems has also intensified dramatically. They’ve realised we can use them to pour mana directly into the hearts and have been doing everything they can to stop them falling into our mandibles, even destroying them.
+
+“As a result, the pace of our advance has slowed dramatically over the last two months, allowing the Krath to slowly entangle us in a battle of attrition. This is precisely the sort of conflict we must avoid. The burden it places on the troops, the rate of attrition, cannot be borne. Also, it gives the slug tribes more time to concoct countermeasures and embed their defences. If we don’t break through soon, making significant progress will only come at an appalling cost.”
+
+I see. Solant wants me back in the fight as a line-breaker. A shock assault piece to smash through the slugs’ position and allow the cleansed mana to flow deeper into the Dungeon before they have a chance to reshape the terrain. So long as we can keep the tribes backpedaling, they won’t have the capacity to defend themselves from the flood strategy. It also means we would have more chances to seize vents before they can tamper with them. If we have control of vents, then we can attack the hearts directly.
+
+“Alright, where am I headed?” I ask.
+
+“First, I would like you to hit these Krath outposts. Here, here, here and… here.”
+
+Surprisingly, Solant doesn’t go straight to the deepest parts of the model, but four points along the outer edge of its middle.
+
+“These are the main concentrations of Krath forces preventing our expansion along the width of our territory. If they fall, then we will be able to capture at least two more hearts and open new avenues into the depths, most importantly this arterial tunnel that we believe runs almost eight hundred kilometres down.”
+
+That’s a mighty nice passage to control. I can see why Solant wants it.
+
+“After that, I would want you to deploy into the depths. It’s important that we move quickly. Giving the slugs time to adapt has proven to be the death knell of many strategies. They are devious and clever creatures. If they know you are coming, they will find a way to capture you as they did before.”
+
+“Well… I think they will find that a little more difficult now than they did before,” I say, standing up again and stretching my legs.
+
+“Say…” I wonder aloud. “Have we had any miners… or maybe Smithant, come down here and look around?”
+
+“Looking for new materials that might aid the war effort?” Solant says, nodding. “Yes, we have. With the return of the original mana and monsters, there have been some deposits of materials found to be growing here and there. We have been assessing them, but the process is slow going. They are difficult to work with, so I am told.”
+
+“Get Merchant down here to look at them,” I instruct Solant.
+
+“Merchant? I don’t think there is any trade to be had down here,” Solant says doubtfully.
+
+“Just trust me. She’ll know what to do. Let her look at everything you’ve found so far. Surely something will be useful.”
+
+“Very well.”
+
+“Good. Well, I’m off. One more place to see and then I’ll head out.”
+
+“What? Where are you going now?” Solant asks, masking her frustration.
+
+“I was saved by the little snails during my evolution. If not for them, I’d probably be dead. At the very least, I’d be less awesome. I owe them a thanks!”

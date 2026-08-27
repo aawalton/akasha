@@ -1,0 +1,62 @@
+---
+id: d20e16c5-6653-536d-95bc-9df93cb4a75e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1747 - Descending"
+slug: 0399-chapter-1747-descending
+partOf: chrysalis
+position: 399
+ownLength: 964
+unit: words
+ownProgress: 521
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3113964/chapter-1747-descending"
+royalRoadId: "3113964"
+---
+
+Life was never easy for a monster, that was what she had learned since the time of her spawning.
+
+Leaking ichor, poisoned and corrupted, she clawed her way down the tunnel, each of her six legs crippled in one way or another. Yet, were she to remain behind, death would surely find her. As it had always been, forward was the only way to go.
+
+Why the slug creatures had sought her out so desperately, she had no idea, but now, as she dragged her form into the tunnel that led to the next stratum, she knew she was finally free of them. Electricity rippled across her frame, cauterizing her wounds, burning out the infection and sending waves of pain rolling through her body.
+
+Her mandibles chattered as she steeled herself against the suffering. Without this ability, she would never have made it through the toxic environment of the fifth. Even with it, the damage and scars that had been inflicted on her would take a significant amount of time to fade.
+
+Unsteady, she paused for a moment, shrouded in the darkness of the tunnel. Behind her, the virulent toxicity of the stratum she left behind surged and boiled, as if furious to have failed to ensnare its prey. Ahead, the mana thickened precipitously. At the end of the tunnel, a stormcloud, wreathed in purple lightning, writhed like a living thing. Even from here she could feel powerful winds blowing against her antennae, setting the hairs on her frame to quivering.
+
+This promised to be an environment more to her liking. Perhaps she would finally be able to restart, rebuild the life that had been robbed from her before, so soon after her birth.
+
+Anger rippled through her form and she chittered again, unhappy to be reminded of what had transpired in the past. She had been much weaker then, much less evolved. Since that loss, she had vowed that she would grow stronger, smarter, better able to defend what she had claimed.
+
+The same mistakes would not be repeated again.
+
+After a period of rest, she raised up on her legs once more and began to advance. Despite the pleasure she felt at being able to leave the hellish fifth behind, she did not underestimate the sixth. Danger only increased in the Dungeon, she had learned that painful lesson many times over as she had descended. Who could say what dangers would lurk within the sixth?
+
+No, taking it lightly would be a death sentence. All senses alert, she crept toward the border. The moment her antennae came into contact with the cloud, they flared to life, her senses blaring with new information. Mana so thick as to be intoxicating battered against her, rich with power, laden with a weight and density that tantalised her core.
+
+Eager for more, she moved forward, her legs gripping tightly. There was nothing to be seen yet, the cloud swirled too densely for her eyes, yet her antennae told her so much.
+
+Once she finally broke through, the tunnel edge fell away, so she clung to the rock and held her position, hanging upside down, antennae waggling.
+
+A vast open space stretched beneath her, a raging storm filling it entirely. Winds so powerful and sharp they could shear through rock sliced through the open air and boomed with an almost constant peal of thunder.
+
+Yes, this was different. The last stratum had been a disappointment, to say the least. She had hoped to claim territory within, hidden from the eyes and grasping hands of the small ones who infested the fourth, but it had proven to be uninhabitable.
+
+This place seemed much more promising. No toxins, no slugs, and so far, no small ones. Here she might finally reclaim that which had been taken from her. Her carapace buzzed with anticipation of that which was to come, but she quickly stifled those emotions. Nothing was certain yet. Exploration and investigation were necessary before she could make a proper decision. Only after hunting, judging the suitability of the prey and the environment, could she discern whether she would thrive here.
+
+Cautious, she continued to cling to the rock and began to investigate. Moving slowly, she began to explore around the tunnel entrance, widening her path over time, antennae never ceasing to move while her mind reached out to interpret the mana that swirled so vigorously.
+
+Frustratingly, she still couldn’t see through the dense cloud, but nevertheless, she learned.
+
+Monsters were flying through it, not too strong, judging by the power of their cores, but there was a chance they were concealing their real strength. If she could learn to do it, then other monsters could too. Once she had healed a little more, she might be strong enough to challenge one.
+
+Wings flexed along her back, keen to take flight, but she was patient, continuing her slow, methodical pattern of exploration.
+
+Despite her precautions, there were still leftover effects of the fifth’s poison in her system, and possibly parasites that needed to be removed before they caused further damage. Once that was done, she would begin to hunt.
+
+And then, if she were successful, she would begin to look for a proper location to claim as her own.
+
+Excitement surged again, and this time, she did not suppress it. Something simply felt right about this place, as if it were where she should have been born all along. Her children might have fallen before, but she had grown so much since then, and ensured that the next generation that were born would be so much more than the offspring she had failed before.
+
+Soon, the Hive would be reborn.
+
+Wings fluttering, then vigorously buzzing, the Queen let go of the rock and let herself drop into the storm.

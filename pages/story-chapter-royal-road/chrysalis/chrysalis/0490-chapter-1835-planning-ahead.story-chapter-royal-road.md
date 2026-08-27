@@ -1,0 +1,87 @@
+---
+id: 23d755f6-927f-530a-970d-3e5f003ac145
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1835 - Planning Ahead"
+slug: 0490-chapter-1835-planning-ahead
+partOf: chrysalis
+position: 490
+ownLength: 941
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3762035/chapter-1835-planning-ahead"
+royalRoadId: "3762035"
+---
+
+The work the ants performed in the fifth stratum was most impressive to the people who disliked them the most: the Legionem Abyssi. After all, nobody knew how hard it was to make war in that hellscape better than they did. Of every attempt to capture and cleanse a heart, the Legion were the only ones to get close.
+
+While most of the world stood in awe of the Colony’s achievement, the Legion saw something else entirely. They saw a war machine so powerful as to overcome something they themselves could not.
+
+-           Excerpt from the private notes of Alberton, Loremaster of Liria
+
+“What do you mean you expected them to fill the hearts with mucus?!”
+
+At my severely irritated pheromonal shout, Brilliant eyes me a little warily and hops to the side, gaining a little distance.
+
+“Don’t thwack me! I’ve only just fully healed from the last one.”
+
+Deep breaths. Calming thoughts. Digging. Soft earth between my mandibles. Oh, a rock. No problem, we can move that aside and get back to the digging. Ah, so soothing.
+
+“Sorry about that,” I grumble, putting my flash of anger to the side. “Well, I’m slightly sorry about that.”
+
+Manipulating me to pursue her love of explosions… just thinking about it is enough to… digging, yes… the soil gives way so easily before my mandibles… I’m being healed.
+
+“It’s fine. I’m fine. So… you were saying something about your expectations?”
+
+The mad scientist of the Colony has taken to wearing a strangely academic-looking robe, tailored for ants, of course. It’s similar to what Merchant was wearing, sort of a loose-fitting fabric draped over the back, but tied around the joints where the segments are connected. Is ant fashion now a thing?
+
+She dramatically flicks the robe back, causing it to billow behind her.
+
+“Of course I was able to predict their every move. I’m BRILLIANT!”
+
+My antennae are scraping against the soil in my mind, testing for moisture and stability. This will be a fine tunnel when I’m done digging, I can’t wait for my siblings to see my excellent work. For now, more digging.
+
+“Elaborate,” I manage to say, trying to maintain my calm.
+
+“Well, if we think about potential countermeasures against the liquid mana, it’s fairly obvious, isn’t it? I believe that’s the main reason why they constructed that layer of lakes and did everything they could to conceal the entrances below. Doing that made it impossible for us to progress using our normal strategy. With control of the lungs, they could produce mucus much faster than we could make cleansed mana.”
+
+She’s linked her middle legs behind her back and is pacing with the other four, putting on a lecturing air. How in the heck does she do that with her legs? She must have manipulated her body while evolving to specifically give her that capacity…. Why?
+
+“After someone ruined that strategy, they knew we would come for the hearts eventually. I expected that they would fill the hearts with mucus to try and stop us from cleansing them. Indeed, I believe we moved too fast for the Krath and caught them well before their preparations were complete. They didn’t anticipate our pumping projects, nor that we would be able to gather such a quantity of energy so quickly.”
+
+That makes sense. Solant was desperate to make sure we caught the slugs with their metaphorical pants down. How would a slug even wear pants? Shake that thought.
+
+“So… if I’m following you correctly, you included in your calculations that the hearts would be filled with mucus, and there was enough liquid mana to ensure that they would be cleansed anyway?”
+
+“Of course! My calculations took a number of possible counter strategies into consideration. They were flawless. Do you know why they were flawless?”
+
+“Because you’re Brilliant….”
+
+“Because I’m BRILLIANT!”
+
+I can’t be mad at her, she didn’t do anything wrong. I’m mad, of course I’m mad, I jumped into the heart of a Gravity Bomb for absolutely no reason, but I’m not mad at Brilliant. What is she guilty of? Being smarter than me? Everyone in the Colony is smarter than me!
+
+“I only have one question, Senior.”
+
+“Oh? Something you can’t figure out on your own? Wait, you need my help?”
+
+“You were there, so you can obviously provide some insight. I want to know why your heart was the first to be cleansed. By such a substantial margin as well.”
+
+“It was that much faster?”
+
+Brilliant makes a show of looking around.
+
+“The others aren’t back yet, are they? I certainly don’t see them.”
+
+That’s true. Word has come back that they’ve been successful, but so far none of the other groups have returned to the fortress. Along with the Legion and the Templars, we’ve been back for almost an hour. Right now, the campaign has basically boiled down to a waiting game. Either we’ve got enough liquid mana to ensure the job is done, or we don’t. For now, each of the hearts is filled with cleansed energy while the lungs are still in the process of being purified. It’ll take days, maybe weeks for the entire system to filter through, and only then will we know if the change is permanent.
+
+“I managed to destroy some of the mucus,” I say, feeling tired.
+
+I’m suddenly exhausted. Not physically, but emotionally.
+
+“You must have destroyed a lot of the mucus,” Brilliant says, prodding me in the side, perhaps sensing my growing lethargy. “How?”
+
+“Doom Sphere.”
+
+“Inside a heart?! How did you do it without getting caught in the blast?”
+
+“That’s the genius of it, Brilliant. I didn’t.”

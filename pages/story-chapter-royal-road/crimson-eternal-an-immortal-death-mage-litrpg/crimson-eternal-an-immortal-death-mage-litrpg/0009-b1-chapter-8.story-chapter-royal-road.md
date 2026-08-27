@@ -1,0 +1,205 @@
+---
+id: 97ded38a-4330-59bd-bb56-917c428fd324
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 8"
+slug: 0009-b1-chapter-8
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 9
+ownLength: 2635
+unit: words
+ownProgress: 2635
+publishedAt: 2024-01-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1461441/b1-chapter-8"
+royalRoadId: "1461441"
+markedReadAt: "2026-06-29T19:06:08.369Z"
+---
+
+The Albarian Capital
+
+“Introducing, His Imperial Majesty, Lysandre de Pyre Voltaire! Ruler of our beloved nation of Albaria!” A man shouts as Lysandre enters the council chambers, finding all nine of the Generals of the Military seated in nine of the ten chairs located circling the middle of the chamber. And he immediately makes his way towards the tenth chair, crossing through the middle of the nine generals and taking his seat with his black cape beneath him. Then the doors to the chamber shut, leaving it in silence for but a moment.
+
+The silence is broken by the ringing of a single bell, following which the Eighth General rests his cheek against the palm of his hand, his elbow against his seat’s armrest as he glances at the emperor and says, “I heard you sent out the Crimson Blade to sabotage the invaders on her own. Did I hear that correctly, or was I daydreaming?”
+
+A tense atmosphere immediately fills the hall, but the emperor isn’t fazed by it in the slightest.
+
+Instead he frowns at the Eighth General and states, “A blade should be used.” Without saying any more on the subject.
+
+The armrest of the Fourth General’s throne shatters when the Fourth General slams her fist into it in anger and shouts, “She is a human being, Lysandre, not a weapon!”
+
+This time the emperor simply ignores her outburst. Meanwhile the Fifth General glares at the emperor, clearly taking her brother, the Eighth General’s, side. And the Sixth General sends a scowl of his own at the emperor but doesn’t say a word to show his exact feelings on the matter.
+
+The rest of the Generals stay silent, not getting involved in the conflict.
+
+Eventually, after getting sick of the stare down, the First General uses her ability to hide all of the light from the room at once, leaving it in complete darkness before returning it to normal, bringing everyone’s attention to her. Then she begins to speak, her arms crossed in front of her, “We have more important matters to attend to right now than the old man’s inferiority complex.”
+
+Her words immediately spark the emperor’s anger, but a simple glance from her silences any complaints he was about to deal out. So the First General moves her gaze across the other generals and says, “The invaders have been confirmed to be at both Intersections, at the Northern and Southern sides of the Great Divide. Which means that they either figured out a way to cross the mountains far enough to reach the intersections from their entrance to our world, or there’s more than one entrance to begin with.”
+
+None of the generals show any surprise, each having learned of the situation beforehand. But the emperor does show surprise as he sits back in his seat, not saying a word.
+
+“They haven’t sent a single envoy to discuss things with us, making it clear that the invaders are here for no other reason than to conquer us,” the First General continues while uncrossing her arms and resting them on the arm rests of her seat.
+
+“Considering that they’re also attacking the Arterians, this may not be entirely to our detriment,” the Fifth General speaks up, taking her glare away from the emperor. “It all depends on the quality of the invaders’ ability holders, since ours are higher quality than the Arterians. If the invaders have high enough quality ability holders, we may just be able to use them to get rid of the Arterians for us.”
+
+“And if their ability holders turn out to be even better than our own?” the Second General asks, glancing at the Fifth General.
+
+The Fifth General looks back at him and frowns, “I sincerely doubt that, considering the battle at Delta Base. But if they do turn out to be better than our own, we may have to consider breaking the treaty to eliminate them.”
+
+The Great Treaty. A treaty set up to protect the last remaining continent still inhabitable on the planet by banning any and all strategic level magic and weaponry, along with any types or magic or weaponry that could damage the environment.
+
+Silence fills the council chambers for several seconds.
+
+“Let’s leave discussion of strategic class magic till we’re down to our last options,” the Ninth General states, making everyone else nod in agreement with the exception of the emperor.
+
+“In that case, I suggest we wait for our scouting teams to return before coming to a conclusion on our next actions,” the First General declares.
+
+Declarations of agreement run through the hall, with the emperor being the only one not agreeing. But none of the generals pay him any mind, instead ending the meeting there.
+
+Aria
+
+I let out a light grunt as I cut down one of the dozen bandits camped out near the part of the mountain I want to climb is. Then I take a bullet from another two while sprinting forwards, avoiding the sword of another, and cutting down another, leaving just ten left.
+
+This is a pain. And a waste of time.
+
+[User has killed one being of Level 2. Requirements to reach level 2 have been updated. New requirements are as follows: 32/100 users have been granted Death.]
+
+[User has killed one being of Level 2. Requirements to reach level 2 have been updated. New requirements are as follows: 33/100 users have been granted Death.]
+
+Okay, maybe not as big of a waste of time.
+
+I let out a breath of air when another two gunshots fire off, sending bullets through my armor with one of them not going all the way through and the other hitting a weak point in it and shooting straight into my arm. Only for it to be flung back out with the crimson light as I raise my pistol and take shots at both of them, killing the two.
+
+[User has killed one being of Level 3. Requirements to reach level 2 have been updated. New requirements are as follows: 34/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 35/100 users have been granted Death.]
+
+These updates are getting a little annoying though.
+
+“You’re a monster!” one of the bandits shouts at me, but I ignore them as I dodge that very same guy who runs past me with a bayonet attached to his rifle in his sad attempt to stab me. Then I stab him in the back in return with my sword before raising my gun and shooting another one.
+
+[User has killed one being of Level 2. Requirements to reach level 2 have been updated. New requirements are as follows: 36/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 37/100 users have been granted Death.]
+
+And that makes six down, six more to go.
+
+Is there a way to turn off these notices?
+
+I briefly open my status to see if there’s any sort of way to do that, only to blink as I realize a couple other icons appear on the bottom right of my vision when I do that.
+
+Interesting.
+
+I feel a force pushing me to the side when another bullet hits me, but I ignore it as I check out the icons. And I quickly find one of them to be exactly what I’m looking for.
+
+A way to customize the annoying updates and what it calls an interface, which I believe is what those people at the base were referring to how you interact with a computer screen. Or something like that.
+
+It fits so I’m going along with it.
+
+Anyways, I close out of it for now to find the butt of a rifle quickly approaching my face. And the moment it hits me, I hear a bone crunching as I am sent flying a couple meters back to the ground. Then I get back up, the bone in my face fixing itself, and shoot the guy in the face.
+
+“Rude,” I comment with a frown while pulling my hood back down, the thing having been knocked back during that.
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 38/100 users have been granted Death.]
+
+“Damnit, there has to be a way to kill her!” one of the bandits shouts before another takes charge and begins to order them around, making each of the five remaining bandits surround me.
+
+I quickly raise my gun to shoot, only to find it out of bullets.
+
+Oh, lost count of my clip while distracted by the interface thingy.
+
+So I throw my gun at one of the bandits, hitting them in the face as I use both hands for my short sword this time and skewer that same bandit, letting the others all empty rounds into my back, making my armor repair itself further again.
+
+Yeah, the enchantments on my armor aren’t going to last forever. I’ll probably run out of mana in the enchantments by the time I get to the invaders, much less get back home.
+
+Maybe I should grab some extra clothes from these bandits while I’m here.
+
+I yank my sword back out of the gut of the bandit I just stabbed before raising it to parry the bayonet of another bandit, snapping the bayonet off of the rifle it’s attached to in the process. Which goes to show how old their weapons are, and frozen.
+
+Then I spin around and slit the throat of another bandit that was rushing up to my side before slicing the hands of the one holding the now-bayonetless rifle, making them drop the rifle.
+
+“No you don’t!” another one of the bandits shouts as they rush forwards right when I’m about to finish off the bandit in front of me. And they soon impale me through the heart, making me briefly cough out a mouthful of blood on them.
+
+They show a relieved expression at my blood landing on their face, but I just mutter, “Yes I do,” and impale the bandit behind them through the throat, following which I yank it back out and stab backwards, bringing the blade straight through the flimsy armor of the bandit who is way too close for comfort. The blade goes straight through their body and into my own, leading to two blades in me instead of one.
+
+[User has killed one being of Level 2. Requirements to reach level 2 have been updated. New requirements are as follows: 39/100 users have been granted Death.]
+
+[User has killed one being of Level 2. Requirements to reach level 2 have been updated. New requirements are as follows: 40/100 users have been granted Death.]
+
+Until I yank mine out and the bandit in question begins to fall backwards, bringing their blade with them.
+
+I frown slightly at the blood soaking the nice jacket that I’m wearing over my armor. Or rather, what was a nice jacket before it got peppered with holes.
+
+At least the cloak is still fine.
+
+I turn to find the remaining two bandits running for their lives.
+
+Can’t let them run. Not when they’ll likely just report to the invaders what I’m doing.
+
+So I bend down and grab the rifle from the guy who stabbed me through the heart before raising it and shooting one of them in the head, followed by the other.
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 41/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 42/100 users have been granted Death.]
+
+And that makes twelve.
+
+I look down at the corpses around me with a frown before sighing.
+
+Idiots decided they were going to take me as a prisoner to the invaders for a reward after seeing my armor.
+
+I don’t like killing, but I am absolutely not against it either. There’s no enjoyment in the act, but no loss in my eyes either.
+
+That has been beaten out of me over the past years doing nothing but fighting in a war and being blown up, torn apart, cut, shot, burnt, and any other sort of killing method I can think of over and over again throughout that time.
+
+I do find war to be a waste of time though. Spend it training, building, researching, or just progressing society forwards. Not killing other people for stupid reasons.
+
+A rather ironic opinion considering my status as a weapon for the empire.
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 43/100 users have been granted Death.]
+
+Huh?
+
+I look around before remembering the one I stabbed in the gut.
+
+Oh, right. They didn’t die right away.
+
+I lean down and wipe my sword on one of the corpses before sinking it a little bit into the snow and stepping on the snow, letting it melt a little under my body heat. Which isn’t very efficient, but works nonetheless as when I raise my sword again it’s been washed of most of the blood. So I sheathe it again and begin walking over to the little shack they made.
+
+There’s no way I’m taking clothes from a corpse, so I hope they have clothes in this shack.
+
+They didn’t have extra clothes in the shack. Although they did have some food and water, not that I need any of that.
+
+I let out a sigh as I finally move past them to the edge of the cliff that was right behind their camp. The very spot I was wanting to enter the mountains from.
+
+Come to think of it, some of those bandits were level 3. They also seemed stronger than normal humans, albeit not by much. And it didn’t matter much either with their crappy weapons, or when faced with a pistol. Which I did retrieve and finally reload.
+
+When in doubt, throw your gun in their face. Works every time, even if you take a bullet in return.
+
+It’ll just heal anyways.
+
+I briefly pause as I’m about to begin climbing the cliff as a thought comes to me.
+
+Am I mentally sane?
+
+I purse my lips at the thought before shrugging.
+
+Probably. At least by my qualifications I am.
+
+Not like I was born like other humans anyways. Most people aren't born with my ability after all, and it kind of numbs your sense of danger when you can’t die after all. Or, rather, no one but me is.
+
+Yeah, I’m perfectly sane.
+
+I nod my head, glad I determined that before I start climbing the cliff.
+
+And wishing I had better gloves as I do so.
+
+Because these aren’t the greatest for keeping my grip on a rocky cliff.
+
+Although the fact that others are leveling faster than I am… I’ve been working towards my purpose since the System thing awakened and am still level 1, meanwhile I’ve seen quite a few people who are already level 3.
+
+Guess that just means it’s easier for some people to level up than others? I wonder how that affects the end results of each level…
+
+Out of nowhere, my gloves slip, and I fall down, cracking my skull after making it about halfway up the cliff. Then I sit back up, rubbing the back of my head as it heals.
+
+And stand back up to try again.
+
+After taking my gloves off this time.

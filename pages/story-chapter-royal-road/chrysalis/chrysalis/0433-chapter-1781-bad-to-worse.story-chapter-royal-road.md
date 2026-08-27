@@ -1,0 +1,71 @@
+---
+id: acdcd040-523a-587f-a19b-55e83767da9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1781 - Bad to Worse"
+slug: 0433-chapter-1781-bad-to-worse
+partOf: chrysalis
+position: 433
+ownLength: 1032
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3327327/chapter-1781-bad-to-worse"
+royalRoadId: "3327327"
+---
+
+With the kind of mental muscle I’m currently packing, throwing together a gravity bomb isn’t nearly the struggle it used to be. Nor does it take that long. Taking hold of a massive chunk of mana is a strain, but it's certainly doable. However, pulling one out in a matter of seconds is starting to toe up against a few limits! Crunching it down in a hurry is enough to make my brains start to steam, each mind construct pushing until they start to fray at the edges.
+
+Behind me, my acid is doing its thing, but there’s no way it can compete with a consuming force even more potent than itself. My industrial goods put up a good fight, but it won’t be long until they’re overwhelmed and the tide of impossibly dense mucus comes for me.
+
+Each passing second, my legs grow a little stronger and I get that little bit more forward momentum, but it's not fast enough to get me clear. I’m going to have to go for the close range gravity bomb, a rather perilous prospect.
+
+Not that I have a choice, though!
+
+Trying to gauge the strength of the bomb as carefully as I can, I fire it off while continuing to scrabble and scrape on the ground with my too-small legs. Howling into existence, the bomb sweeps away from me, smashing into the mucus wave all too soon and expanding.
+
+The horrible suction takes hold of me, but I’m relieved, and then worried when I realise it almost immediately begins to lessen. Despite how quickly I threw it together, that gravity bomb had a bit of heft in it! To think it’s already getting chewed up.
+
+Looking behind me, I can see that the bomb, despite expanding to its full size, has already been enveloped by the mucus, cutting off the howl of wind being pulled into it. Am I going to need to pull together another one?!
+
+Rather than risk life and limb by throwing a stronger bomb at an even shorter range, I decide to do something a little different and pull together a Gravity Well. If I can’t hold back the tide, I should try and lift myself over it! This holds the added benefit of minimised risk of destroying myself.
+
+There is a drawback, however, which is that it takes longer as it’s a much more complicated spell to put together!
+
+Despite how proficient I’ve become at throwing these things together under pressure, they are still massively, massively complex constructs with thousands and thousands of individual components. Even with three dozen mind constructs spinning one out, it takes time to make sure the thing is done correctly!
+
+If even a single line is out of place, the dang thing doesn’t work!
+
+It’s a close run thing in the end. I race to pull the spell together, and by the time it’s complete and I’m able to lift myself up, my back end is being sizzled by insanely potent mucus.
+
+It eats through the first few inches of my carapace in a matter of seconds before I’m able to lift my business empire up and out of the way.
+
+Phew! That was close!
+
+I swiftly manipulate the well to pull me up and forward above the tide of slime as it oozes and spreads through the tunnel. Beneath me, everything that the gunk touches is just obliterated, even the parasites who emerge from the tunnel floor to try and wriggle and worm away from their impending doom.
+
+With a little room to breathe, I flex my new legs and take stock of my situation. As far as surprise attacks go, that was rather successful on behalf of the Krath. They’re still there, several kilometres down the tunnel behind me. If they were actually nearby to follow up, I’d be in a bit of trouble right now.
+
+Which… come to think of it, doesn’t make much sense. From my experience, the Krath are relentlessly sneaky pains in the backside. There’s no way they would spring a trap and not have some sort of follow up in case I survived. Plans within plans, that’s how they roll.
+
+Immediately, I’m on my guard, rising up higher and spinning together some defensive magic while I focus on my senses. There’s got to be something out there, I just haven’t noticed it yet.
+
+Where are you, sneaky slug back-up plan?
+
+As it turns out, I’m quite correct in my assumptions. I spend so long trying to sweep around and find the tiny gravitational eddies of individual slugs that I almost miss the gigantic monster closing in on my position.
+
+I’m so late to the party I actually see it before I sense it. Arriving in a non-traditional way, it extrudes itself through the wall of the tunnel, and at first I think I’m looking at a corrupted version of Crinis.
+
+Uncountable thousands of tentacle-like limbs emerge from the tunnel wall, writhing and seeking as they blindly feel the air. They get longer and longer as yet more emerge, covering a section of tunnel hundreds of metres long. I back up a little, wondering if I should turn tail and rush back toward the Krath rather than deal with this thing, but dismiss the idea. I could end up fighting the slugs and this beast at the same time.
+
+No need, I’ll back myself and stay put, even if this monster does feel like it’s going to pose quite a challenge. Feeling its core drawing closer, it blazes with power. This is a tier eight beast at least, possibly even tier nine if its core hasn’t been fully maxed along the way.
+
+This might be tricky….
+
+When its body finally emerges through the tunnel, oozing through as if it were half liquid, half solid, and it plops down onto the tunnel floor with a massive impact, I’m still not sure what I’m looking at.
+
+There are so many tentacles in the way, it’s hard to see its actual body.
+
+Well, in the meantime, try eating a gravity bomb.
+
+HOOOOOOOOOOOWWWWWLLLLL!!!!!
+
+If you’re going to take that long to arrive, don’t blame me for making use of the planning time!

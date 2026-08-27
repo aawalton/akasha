@@ -1,0 +1,131 @@
+---
+id: 99d4a2ab-ab8c-5463-85db-b49074b7d849
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1726 - Unexpected Wins"
+slug: 0378-chapter-1726-unexpected-wins
+partOf: chrysalis
+position: 378
+ownLength: 926
+unit: words
+ownProgress: 926
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3007033/chapter-1726-unexpected-wins"
+royalRoadId: "3007033"
+markedReadAt: "2026-06-29T19:55:53.748Z"
+---
+
+Luckily, I didn’t encounter anything fishy as I made my way through the tunnels with the forces of the Colony filing along behind me. It looks as though the delvers of Green Mountain have given up the game, at least for the time being, worried that I would still be lurking in the shadows and looking to capture them once more.
+
+Which I am.
+
+Yet, as we get closer to Green Mountain itself, I start to notice more and more activity. Sweeping along as the vanguard, I’m no longer bothering to conceal my mana, and it shows since I detect multiple small groups high-tailing it away from me once I come into their range. Hopefully they’ll be passing along word that I’m here without having noticed who’s coming with me.
+
+Finally, I reach a point only a dozen or so kilometres away from what could be considered directly beneath the Green Mountain itself. We are most certainly within their land and could well be considered an invasion force by a casual observer. Green Mountain would be well within their rights to field their army along with their delvers to try and squash this threat.
+
+In fact, if they did, I would be most grateful!
+
+[Alright, Crinis. You know what you have to do.]
+
+[DESTROY THE FILTH!]
+
+…
+
+[Um… excuse me?]
+
+Crinis, in the form of an amorphous blob, detaches from my shadow and plops onto the tunnel floor beside me. She waves several tentacles frantically, clearly embarrassed.
+
+[I misspoke!] she says, defending herself from my accusatory gaze.
+
+[Sure you did.]
+
+Your mask slipped there for a second, Crinis. Make sure it’s firmly attached before you get out from under my mandibles. Can’t have any mistakes.
+
+[There will be no destruction of anything, filthy or clean. You are going to scout. Remember?]
+
+[Y-yes, Master. I remember.]
+
+[There won’t be any slips, will there?]
+
+[Of course not!]
+
+[No… accidentally cutting people into more parts than they are supposed to have?]
+
+[W-well…] she hesitates, [how many parts is a person supposed to be in?]
+
+[ONE!] I yell. [They are supposed to be in one, Crinis!]
+
+She wiggles her tentacles at me, in some sort of protective motion.
+
+[Alright, I have it! I will make sure everyone I find remains in one piece.]
+
+[And not traumatised in any way.]
+
+[Dammit.]
+
+[AHA! I knew it! Get out there scouting, no fighting at all! Absolutely none. You clearly can’t be trusted right now.]
+
+Sheesh.
+
+Exposed and admonished, a slightly miffed Crinis lifts herself up off the ground, then drops, falling directly into her own shadow, which ripples like the surface of a pond before fading into nothing. She’s gone, off into the shadow realm. From here, things are going to get much more dangerous as there could be traps around every corner. I’m using my gravitational sense to try and spot any shenanigans, but nothing is foolproof. With Crinis out there keeping an eye on things, metaphorically, I’m going to be much happier.
+
+“Are you sure about this, Eldest? It seems foolish to think we can engage in a battle with three legs tied behind our backs.”
+
+Sloan is worried, as she should be. Fighting an opponent that wants to destroy while trying not to destroy them in return is… frankly silly. It’s capital ‘S’ silly. A level of silly that can’t possibly be contained within the confines of a sausage.
+
+“We aren’t even aiming to fight them,” I reassure the general, “not really. A bit of posturing, a bit of, as Tiny would put it, flexing back and forth, then we take off, our opponents none the wiser. Think of it as a display of force exercise. Show them that we mean business.”
+
+“We are far from our own territory,” Sloan replies, bringing her antennae through her elbow joints to soothe her nerves. “We can’t be sure they won’t slip behind us and force a battle.”
+
+“Which is why we’re taking precautions. Scouts and mages are out in the tunnels. We brought core shapers to keep watch on the flanks.”
+
+Getting caught up in a fight would be the worst possible outcome. Forced to defend ourselves, casualties would be the inevitable result.
+
+[Master?] Crinis calls to me, her thoughts faint as if she’s calling from a great distance. [Can you hear me?]
+
+[I can. Is there an issue?]
+
+[I found something that you might want to see.]
+
+[It’s not a mysteriously dismembered person, is it?]
+
+[No!]
+
+Well, this is interesting.
+
+[What is it?]
+
+[I need to come back, in case they find me.]
+
+They? Who is they?
+
+“Apparently, Crinis has found something unexpected,” I tell Sloan, which she doesn’t respond well to.
+
+“Unexpected? That’s not good! Unexpected in what way? Unexpected can be positive or negative.”
+
+“You clearly need some rest. You’re too high strung. When was the last time you had torpor?”
+
+“... No comment.”
+
+That’s not good.
+
+It doesn’t take long before Crinis returns, slipping out of the shadows and landing in a little blob by my side.
+
+[There’s an army in the tunnels, Master,] she tells me without any preamble.
+
+[Already? We only just got here.]
+
+[I think they’ve been here for a few days at least. I don’t think they’re from Green Mountain either.]
+
+Not from the mountain? So… where are they from? Who the heck is sending an army down here?
+
+[Master, I think they looked a little… religious.]
+
+Religious? Wait…
+
+[Are you telling me that the Church of the Path has sent an army down here?!]
+
+[Yes, I think so.]
+
+…
+
+[Tiny, sparring is off.]

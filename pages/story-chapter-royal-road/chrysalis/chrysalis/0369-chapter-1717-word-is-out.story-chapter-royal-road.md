@@ -1,0 +1,75 @@
+---
+id: 5c986ff5-467f-5469-86d1-14ac0e7b4dd0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1717 - Word is Out"
+slug: 0369-chapter-1717-word-is-out
+partOf: chrysalis
+position: 369
+ownLength: 1007
+unit: words
+ownProgress: 1007
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2962906/chapter-1717-word-is-out"
+royalRoadId: "2962906"
+markedReadAt: "2026-06-29T19:55:36.884Z"
+---
+
+Turns out that word has leaked from Green Mountain that we are taking delvers alive as much as we can. As a result, this lot were happy to throw in the fight after witnessing the power of the singularity up close and personal. With the majority of their preparations destroyed and their ambush obviously discovered, they had no confidence going ahead with the attack, leading to the rather pathetic scene I witnessed afterwards.
+
+Well, it’s fine I suppose, it wasn’t like I was all excited and hyped up for a dramatic fight or anything. Sheesh.
+
+I’m a bit more irritated because, with so many of these lousy delvers here, I have to wait quite a while for all of them to get scooped up and taken back to the Colony.
+
+Which is the only reason I use the Gravity Domain on them. I’m absolutely sure of that. There was no deep chuckling from the dark one as I watched these eager surrenderers wiggle in the dirt where they belonged.
+
+Once all of them were finally out of my sight and transported away, it was time to get moving again. Luckily, the nameless were able to get into the tunnels ahead of me and start hunting down the rest of the delvers while I was forced to sit on my carapace and play babysitter.
+
+Part of me would like to get back to the nest and check on how everything is going. It can’t be easy for them having to house hundreds of highly trained, highly Levelled delvers, especially since they’re short on antpower. There’s a reason I left Tiny and Invidia behind. Hopefully that’s enough muscle to keep them in check.
+
+Through the tunnels I go, no longer floating along and concealing my presence. There’s no need anymore, since all of the remaining delvers are currently hightailing it back to the mountain. Since word has gotten out that I’m out here in the tunnels capturing people by the dozen, it seems as though the thought I might be vulnerable enough to be killed is fading. The rush of blood to the head at hearing about just how much I might be worth seems to have dissipated.
+
+I’d hoped more would stick around and come at me, and perhaps they will, after they get some time to regroup. For now, too many have gone missing, and I think the decision-makers on Green Mountain are starting to get spooked.
+
+After all, more and more delvers have been vanishing and those prices just keep going up. I know Merchant has been putting the squeeze on the representatives of the mountain, I’m sure they’re starting to get a little nervous.
+
+Bankruptcy is coming for them. Gweheheheheh.
+
+Running through the tunnels, I pick up more and more speed, getting my big body moving as I try to gain ground on the fleeing delvers. I’m pushing towards the edge of the territory claimed by the Colony now and closing in on Green Mountain lands. Does that mean I’m going to stop or slow down?
+
+Heck no! We go even faster!
+
+Something interesting I’m finding, as I run around at my size, is that it's often easier to go through an obstacle than to go around it. As I run, I smash through boulders, crash through stalagmites and stalactites, often shifting my legs out of the way so my body can plough through the obstacle rather than try to climb over it.
+
+Doesn’t feel like a very antlike way of getting around, but it’s a heck of a lot easier than trying to change my direction all the time. I will no longer yield to the terrain! The terrain must yield to me! I mean, I must weigh hundreds of tons, if not more. I have to think of my poor joints!
+
+I keep running, pushing my muscles and joints to find out just how much speed I can squeeze out of this frame. Quite a bit, as it turns out. Eating up the kilometres, I start to sense some disturbances up ahead.
+
+If I can sense them, they can sense me too. Picking up speed, they start to Dash repeatedly, desperate to stay ahead. Oho! I can’t see them yet, but I’m still tempted to try and execute another empowered Dash. However, this far from the Colony, I don’t want to keep blowing up my legs. Besides, I’m not sure the next set of vestigial legs have even grown yet.
+
+So I just keep running, pushing myself to pick up more and more speed, until my legs are screaming and my joints are aching.
+
+It’s not enough to gain on them, considering they’re using Skills, but I’m staying in touch. All I have to do is wait for them to get tired, then they’ll be mine.
+
+Or… I could speed myself up a little….
+
+Working quickly, I pull together a gravity well and cast it ahead of me before using all of its energy in one sudden burst.
+
+The ground falls away and I’m catapulted forwards and upwards with eye-watering momentum. Well, it would be eye-watering if my eyes hadn’t been replaced with actual gemstones.
+
+Wheeeeeeeee!
+
+Blasting through the air at my size is an extraordinary experience, I have to say. Not to mention, it’s fast. I can sense I’m rapidly catching up to my targets, but I’m starting to think there’s something I didn’t think about.
+
+How in the name of heck am I going to land?
+
+As it turns out, heavily.
+
+CRASH!
+
+Smashing into the ground heavily, I don’t even bother trying to catch myself on my legs, as I know that would just smash them to bits. Instead, my carapace scrapes along the stone as I slide forwards, absorbing the tremendous force of the impact.
+
+Luckily, it’s enough to get me within range of the delver group trying desperately to escape my grasp.
+
+Gravity domain!
+
+A purple sphere of hyper-dense energy expands outwards at a rapid pace, washing over the delvers and slamming them into the ground. A successful capture.

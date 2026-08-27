@@ -1,0 +1,117 @@
+---
+id: 052f9d33-23b2-5325-aa38-bcd0af22879b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1678 - Shake Your Money Maker pt 9"
+slug: 0329-chapter-1678-shake-your-money-maker-pt-9
+partOf: chrysalis
+position: 329
+ownLength: 1210
+unit: words
+ownProgress: 1210
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2718214/chapter-1678-shake-your-money-maker-pt-9"
+royalRoadId: "2718214"
+markedReadAt: "2026-06-29T19:54:20.205Z"
+---
+
+“Enid Ruther, as I live and breathe! I’m surprised to see you out and about.”
+
+With a golden monocle, broad moustache, and heavy paunch, Riggurt looked every inch the wealthy merchant baron that he was. Leaning heavily on her walking stick, Enid smiled and leaned in for a soft hug, patting her old friend on the back. She looked around his opulent office within Rylleh, much the same as she remembered it. Plush, purple carpets, expensive ornaments and artwork on the walls, the fireplace of fire-veined marble with burning lines of red throughout the rock.
+
+She accepted the merchant’s invitation to sit and lowered herself into the chair with a sigh. It was good to get off her feet. Obviously she hadn’t walked here, but the journey had still taken a toll.
+
+“I’m surprised the Colony didn’t grab more of this when they came through,” she said, using a single finger to indicate the obvious wealth on display.
+
+At the time, the Colony had viewed such a concentration of wealth as inefficient and selfish, taking huge chunks out of wealthy houses after absorbing a new city into their territory.
+
+In fact, their opinion hadn’t changed, she was pretty sure. What was anyone going to do about it? Complain? She was sure that many had tried to point out that it amounted to theft under the law, but the Colony had learned long ago that they also had rights as conquerors within the Dungeon. They were allowed to take the victor's portion, and they never took more than they were allowed.
+
+“They did,” Riggurt grimaced. “It has taken me some time to rebuild my collection, but I have always ensured that I have enough liquid assets tucked away in safe places to help me bounce back. My less prudent competitors suffered far greater than I.”
+
+He flashed a grin and stroked his chin before he clapped his hands. Moments later, an attendant stepped into the office with a steaming pot of tea and a lemon sponge cake.
+
+“My favourite,” Enid exclaimed, eyes widening with surprise. “I’m shocked you remembered.”
+
+“Please. Your late husband, Derrion, begged me to find the best baker in the free cities for your lemon sponge. Years and years of it, I will never forget the quest for the sponge.”
+
+Riggurt smiled warmly at the fond memories before he shook himself out of his reflective mood.
+
+“Now, please. Your letter said that you had taken on an apprentice! I have to meet them. What sort of special individual have you taken on? They must be impressive, to warrant your teaching.”
+
+“Pah. I was never that wealthy,” she said, turning to the door.
+
+“You didn’t want to be,” Riggurt stated solemnly.
+
+A few moments later, the door opened, but nobody came through. Riggurt frowned for a moment, wondering what his assistant was doing, only for a small ant to step around the couch a moment later. A little startled, he controlled his reaction, only to double take as the monster came a little closer.
+
+Was she… wearing glasses?
+
+Also… gold rings? And clothing?!
+
+Technically, what the ant wore might not necessarily be considered clothing as it was more of a covering. An elegant, woven cloth draped over the ant’s back with tasteful, yet expensive-looking embroidery around the edges.
+
+“Very pleased to meet you,” the ant said aloud, extending a leg. “I am Mistress Enid’s student, Merchant.”
+
+Riggurt’s eyes widened. Was he… hearing this ant?
+
+Enid smiled at his confusion.
+
+“The ants have created a neat device that translates their pheromonal language into sound. There are only a few in existence, but they gave one to Merchant, since she speaks to so many people.”
+
+That would explain why the voice had sounded… a little offputting. Cold, perhaps, or alien. Whether that was down to the technology, or the mind of the ant, he couldn’t say.
+
+After a little hesitation, he extended his hand and shook the offered leg.
+
+“The pleasure is mine,” he said, with a warm smile.
+
+He might be a little off put, but business was business. First impressions mattered. Three firm shakes, then he released the leg, leaning back in his chair, mind racing.
+
+The little ant retreated somewhat, then turned to Enid.
+
+“You were right, Mistress Enid.”
+
+“Of course I was,” the old woman groused, but he could see she was pleased, rather than upset. “An old fox like Riggurt isn’t going to slip up just because you take him by surprise. First impressions matter. Right, Riggurt?”
+
+He grinned.
+
+“They absolutely do,” he affirmed. “Connections are everything to a merchant. Establishing a warm rapport, gaining trust and following through. These are the foundations of every proper business partnership.”
+
+He studied the little ant once more, then laughed.
+
+“I see. It makes sense now.”
+
+The glasses, the covering, even the rings. Any good merchant knew how to read people, to learn as much as they could about a person from their garb, their hands, the way they comported themselves. When assessing a potential business partner, deals could fall through or succeed based on impressions.
+
+Dressed as she was, the little ant gave an impression of tasteful wealth, quiet competence and hidden intelligence.
+
+“Well done, Enid,” he said, lifting his tea cup in salute. “I see you’ve put some thought into it, but have you actually taught her something of value, or just how to look the part?”
+
+“Well, you’ll have to tell me,” his old friend said, taking a long sip from her own cup.
+
+He raised his brows.
+
+“I’m not sure what you mean?”
+
+“If you’ll allow me to explain,” the little ant said smoothly, hopping up into her own chair. “I have come to you with a business proposition. If you are amenable, I would be glad to share the details.”
+
+Sliding a sideways glance at Enid, who merely smiled over the rim of her cup, Riggurt turned his full attention to Merchant, assessing her with his Skills and years of experience.
+
+Was his old friend really going to throw this cub to the lions? It wasn’t like her, but then, maybe she had grown ruthless in her old age. Out of respect for Enid, he would do nothing less than cut this ant down to the bone, financially speaking.
+
+“Please. Speak freely,” he said with an inviting gesture and carefully pleasant expression.
+
+An hour later, he moved to brush his hair back, neatly hiding the need to wipe sweat from his forehead with the gesture. Enid saw it of course, looking smug in her chair. He shot her an irritated glance.
+
+She would spring this on him unprepared! Of course she would… she was a merchant at heart! He was at fault for being unprepared.
+
+The little ant had proved far more capable than he thought, and the business opportunity was … intriguing.
+
+Cool as an ever-ice cucumber, Merchant reached a leg inside her sash.
+
+“Do you mind if I smoke?” she said, withdrawing a rolled cigar. The rich scent of tobacco rolled over to Riggurt and his eye twitched.
+
+Where had she gotten that?
+
+With a click of her claws, Merchant lit the cigar before placing it into her mouth.
+
+“Now,” she said, a wicked gleam in her eyes, “shall we discuss pricing?”

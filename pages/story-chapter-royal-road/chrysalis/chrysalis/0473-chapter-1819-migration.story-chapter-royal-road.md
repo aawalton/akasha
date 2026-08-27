@@ -1,0 +1,45 @@
+---
+id: 99142b1e-25ca-5878-b563-5371b3c69df0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1819 - Migration"
+slug: 0473-chapter-1819-migration
+partOf: chrysalis
+position: 473
+ownLength: 798
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3559197/chapter-1819-migration"
+royalRoadId: "3559197"
+---
+
+How many carvers, mages, soldiers and other castes within the Colony had dedicated themselves to the art of construction? At this point, nobody really knew the final number, but it was certainly the second most common specialty after combat. It was in their nature, Solant reflected, to want to dig and build. She herself hadn't had much opportunity to engage in the peace and satisfaction that every ant felt while digging through the soil and stone with her mandibles, but she had thoroughly enjoyed those few chances she'd had during her time in the antcademy. Her own calling had lain in a different direction, but she truly understood those who had chosen to focus on this aspect of their inherent nature and respected them.
+
+Which is why she felt a real appreciation for the seemingly endless column of ants passing by her post, funneling into the elevator system that connected the fourth stratum to the fifth.
+
+"I can't believe you've done this," Sloan muttered, baffled. "Do you have any idea the chaos this is going to cause across the territory of the Colony? You think we don't have other construction projects underway?"
+
+"I know we do, and I know they are important," Solant said, "and I am certainly aware that this will cause damage and delays, weakening the Colony in other places. I know all of this."
+
+She was totally unruffled, as always, but Sloan did get the sense that she had indeed thought about the chaos she had caused, thought about it in a great deal of depth, in fact. Solant had simply determined that this would be worth the cost. Turning back to the thousands and thousands of ants piling into the lifts every passing moment, many of them only tier four, she couldn't help but worry.
+
+"They will be perfectly safe," Solant ensured her. "They will never be placed anywhere near the corrupted areas of the fifth. The Krath won't have a chance to abduct any of them."
+
+"But the cleansed areas are spawning monsters, are they not? Strong ones!"
+
+Sloan was perfectly aware of the dangers these new monsters represented, as she had been involved in the various committees and groups dedicated to studying and combating the evolving threat. Evolving in the true sense of the word. Born at tier one, the native monsters of the fifth were still powerful by way of their inborn advantage of more potent native materials, punching well above their weight. Now that the Colony's territory in the fifth had expanded to the point where they weren't able to properly police and patrol every tunnel and chamber that they controlled, the monsters had enough room to fight each other, mutate and evolve. Now they were regularly running into tier two, three and four versions of monsters that had only been tier one a matter of weeks ago. And they were strong.
+
+Even more concerning was the bizarre way some monsters in the fifth were able to team up with others of the same kind, bonding themselves together to create a new whole from many individuals. It wasn't much unlike the way the Colony itself operated, creating something far greater by combining smaller, weaker components. It had been an ever-escalating challenge to deal with these new monsters and ensure that the enormous infrastructure investments that the Colony had made in the fifth remained undamaged.
+
+"All of the build sites are being cleared of monsters as we speak and will be regularly patrolled. I promise you they will be safe."
+
+Although it was reassuring on the surface level, this was concerning in another way.
+
+"Are you saying you've pulled garrisons from the fortresses and border areas in the fifth? Are you insane?!" Sloan protested.
+
+"I am not. I assure you that everything has been finely calculated and planned. Yes, troops have been pulled from the borders. Yes, this will increase the pressure and create dangers and risks. Yes, they are aware of the dangers and have been prepared to meet them."
+
+The two watched in silence for a time as the great migration of ants into the fifth continued, tens of thousands lowered down every few minutes. By the end of the day, over a million would have been added to the population of the fifth, all necessary to get the work done in time.
+
+Solant watched with silent satisfaction, certain that victory was finally right within reach of her mandibles. She had been patient for so long, now was the time to reap the rewards. Sloan watched with a sinking feeling in her thorax. Wasn't this exactly the sort of overreach the Eldest had warned them against? She had a terrible feeling this was going to cause a great many issues down the line.
+
+And where was the Eldest anyway!?

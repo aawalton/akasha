@@ -1,0 +1,83 @@
+---
+id: 5e7d3d03-4290-58cd-86a5-3529e49c66b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1729 - The Titan Approaches"
+slug: 0381-chapter-1729-the-titan-approaches
+partOf: chrysalis
+position: 381
+ownLength: 964
+unit: words
+ownProgress: 964
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3016866/chapter-1729-the-titan-approaches"
+royalRoadId: "3016866"
+markedReadAt: "2026-06-29T19:55:59.567Z"
+---
+
+Normally, the hardest part about hunting for a powerful monster was trying to pin it in place and bring your force to bear. In the worst case, this could involve a month’s long campaign of carefully manoeuvring, slowly cutting off tunnels, taking control of sections of the Dungeon and gradually herding the creature where you needed it to go.
+
+Graham had played this game of cat and mouse dozens of times in his career and was more than proficient in the methods used to put a monster exactly where he wanted it. Yet, this time, that knowledge and experience wouldn’t be useful. Not only was the monster unusually intelligent, it had more than a few allies and a literal fortress it could retreat to whenever it wanted. Most monsters, especially powerful ones, lived a solitary existence or cultivated a small following of beasts at most, not a whole civilization of millions.
+
+Should the ant seek to retreat back to its territory and vanish, then there was precious little that the War Bishop could do about it. As adept as his Judgement Battalion may be at fighting monsters, it wasn’t enough to assault a fortified position and fight a tier eight Mythic while inside of it.
+
+However, this was, it seemed, destined to be the strangest monster hunt of his career. Not only had the ant not retreated to safety, it seemed determined to deliver itself to them on a silver platter. Not an hour after scouts had been sent out, reports had come back that the beast was nearby, waiting.
+
+Deep in a conversation with the Marshals about strategy and tactics, Graham had been taken by surprise at the news. Was the ant less intelligent than he’d thought? Was there some strategy involved that he didn’t see?
+
+Further scouting had indeed revealed that the creature wasn’t alone. An army was camped nearby, a mix of ants and sapients who should surely know better, along with several other strong monsters that were hiding themselves. So it seemed that the ant did not intend to throw its life away, but instead wanted to engage in direct conflict.
+
+Readying the troops for imminent battle wasn’t what Graham had thought he would be doing that day, but he welcomed it. A quick resolution, glory to the Path, and he would retire back to the barracks beneath the Cathedral where he belonged.
+
+“Do you really intend to march out and confront the monster right now?” Grand Priest Vinting asked, unable to conceal the nervousness behind the question.
+
+“I thought you would welcome such an outcome,” the War Bishop said, not giving the man much of his attention. Forming up the Battalion and their allies was taking longer than he would have liked, and perhaps some more time to better integrate the two forces would have been ideal, but they didn’t have that luxury. With the monster so close, they couldn’t very well start doing training drills, it could charge their position and be upon them in a matter of minutes. “You’ll be out of here quickly and back to the Cathedral.”
+
+What Alir wanted was to be out of the Dungeon before any conflict took place. That wasn’t going to happen.
+
+The Grand Priest's face turned a deeper shade of red as his anger boiled up inside him. Graham had noticed that Alir was having a more difficult time managing his emotions as of late. Before he could open his mouth and vent whatever spite had bubbled up, a nearby voice called to Graham in an urgent tone.
+
+“The monster is on the move!”
+
+In an instant, the Grand Priest ceased to exist in Graham’s mind.
+
+“Towards us or away?”
+
+“Towards!”
+
+It was coming, now.
+
+“Get everyone in formation. I’ll speak to the Marshals and make sure they are confident in our strategy.”
+
+So saying, the War Bishop strode away, his armour gleaming in the soft light of the Dungeon and white cape fluttering behind him.
+
+“You’ve heard, then?” Williams noted, not really asking a question.
+
+“Yes. We can expect to be engaged shortly. Are you both comfortable with the strategy I laid out?”
+
+Williams and Selda once again exchanged that silent glance. Graham could tell they knew each other well, with years of experience working together, simply by noting how well they could silently communicate.
+
+“Your plan is… unconventional,” Selda said, phrasing her thoughts with some delicacy. “You’ve laid out your reasons, but we are unsure if we concur with your conclusions.”
+
+Graham nodded.
+
+“Then I expect you to clear the field as quickly as possible.”
+
+So saying, he moved to turn and walk away, only to be stopped by Williams reaching out to snatch hold of his arm.
+
+“We didn’t say we were leaving,” the bald man stated softly.
+
+“If you are not willing to follow the strategy I’ve laid out, then I do not want your help,” the War Bishop returned without malice. “Without these elements in place, you will be more hindrance than help.”
+
+Both Marshals were taken aback by his forthright attitude. Perhaps they had expected a negotiation, or further discussion. None would be forthcoming, there wasn’t time.
+
+Sensing a slight change in the flow of mana, Graham turned to see the giant ant round a corner in the distance and look towards them.
+
+It was massive, like a moving building, and the sheer weight of its presence could be felt even at this distance. Its carapace seemed to glow, a soft purple light rippling along its exoskeleton, while its eyes shone like burnished jewels.
+
+Without hesitation, it began to walk towards them, unhurried, unthreatened.
+
+Graham turned back to the Marshals.
+
+“We will follow your lead,” they assured him, both looking past him to the approaching beast.
+
+“Good. May the Path be with us.”

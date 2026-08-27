@@ -1,0 +1,77 @@
+---
+id: 12d44cde-4828-5440-9237-76871db9c1be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1688 - Council Gathers"
+slug: 0340-chapter-1688-council-gathers
+partOf: chrysalis
+position: 340
+ownLength: 1035
+unit: words
+ownProgress: 1035
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2776252/chapter-1688-council-gathers"
+royalRoadId: "2776252"
+markedReadAt: "2026-06-29T19:54:41.307Z"
+---
+
+After the triad leaves, I keep eating and practicing walking around. A few test chomps with the mandibles, building up a bit of confidence, just basic stuff. It’s nice talking to Crinis, Tiny and Invidia, and they fill me in on what they’ve been up to while I was asleep.
+
+Tiny, it seems, has fully devoted himself to the art of punching. It’s not easy to get any details out of him, being of a more taciturn nature, but from what I can piece together, he found a supposedly unbreakable material somewhere in the fourth, the heart of a mountain, and practised punching it.
+
+[That’s it?] I ask him.
+
+He nods slowly.
+
+[You just punched it?]
+
+Again, he nods.
+
+[Did it… help?]
+
+A final nod. He holds up his fist for me to see with a proud smile, but I really can’t tell anything special about it. Prodding it with an antenna doesn’t help either.
+
+[Well… good. I’m glad. Well done, buddy.]
+
+It seems odd to think of the easily bored Tiny punching a rock all day every day for six months, but… sure? Maybe he was able to level up his boxing skills? He seems happy, which is the most important thing.
+
+Crinis, although she tries to conceal it, spent most of her time with the nameless ones, ensuring their reign of sleepy terror continues to grip the Colony everywhere it goes. On the one hand, it's great that my siblings are getting regular rest and not pushing themselves too hard. On the other hand, it’s hard not to feel like they’ve gone a little overboard. Well, it’s way too late to do anything about it now.
+
+[As long as you’ve been getting enough rest, Crinis. You aren’t overworking yourself, are you?]
+
+[W-who, me? Of course not, Master. I-I would never!]
+
+That’s… a bit suspicious.
+
+Invidia has been the busiest of the three by far from the sounds of things. He’s happy to talk, in his usual sibilant and raspy way, about his many, many good deeds. The little guy has been on a mission to be as helpful to as many different people as possible, it seems! Helping the mages train their magic. Helping the carvers with their building. Helping the battalions fight in the tunnels. Helping the core shapers work on cores. He even took over some of the logistical work for Solant with that massive brain of his! I’m shocked she trusted him, but it seems the former envy demon is everyone’s best and most reliable friend.
+
+[Well done, Invidia. I knew I could rely on you.]
+
+[Yesssssss,] he purrs happily, his eye gleaming with satisfaction. [You canssssss.]
+
+He’s way too happy about it. Can’t hold it against him I suppose, demons are a bit weird like that.
+
+Just when I’m starting to get the hang of things and working on some more complex movements, side-to-side hops in this instance, members of the Council begin to arrive.
+
+Coolant and Propellant are first, one blue and carved from ice, the other with a literal volcano bubbling on her back. Of course, they’re bickering as they come in, it seems to be their natural state of being at this point. The generals wander in a little later, followed by the scouts. It’s been a long time since I’ve seen Burke and Wills, but I can tell they’ve been busy.
+
+Designed for long distance running and stealth, the two of them have really pushed their evolutions to meet the demands of their role. I’m sure both are still working on the front, scouting out dangerous territory rather than sending their siblings in to do it for them.
+
+Bella and Ellie are next, and I’m hopeful they haven’t brought any of the creepy things they developed for use in the fifth. Frances and Mendant arrive, looking overworked and haggard, followed by Cobalt and Tungstant. Leeroy clanks in, still in full armour, though I swear she has mushrooms growing on her back, along with Advant and Brendant. Vibrant is the last of the soldiers to arrive, rushing into the room like a burst of wind and immediately filling it with noise and chatter.
+
+“Hi-hi, Eldest! Wow you’ve gotten so big! You can’t be fast like that, not properly anyway. I feel bad for you, being such a slow thing. Ah well, I’m sure it’ll work out alright. Have you been busy? I’ve been really busy, running and fighting and fighting while running and scouting out new tunnels. There’s a lot of them out there, did you know that? It’s exciting isn’t it? New places to run are always exciting!”
+
+“Yes, hello, Vibrant,” I say, a little overwhelmed. I just woke up, I’m not ready for this sort of energy. Although, come to think of it, I’m never ready for this much energy. Still, it’s nice to see her. She’s come a long way from the little ant who used to hitch a ride on me. “You might want to queue up a few powernaps, this meeting is probably going to go for a while.”
+
+“Oh, no worries. I haven’t had a good sleep in a week! Plenty of rest to catch up on. Night-night!”
+
+Aaaand she’s out.
+
+I can see the nameless gathering in the shadows overhead and I shake my head at them, causing them to freeze, then slowly retreat. I know they hate letting her get away, but I haven’t caught up with her in ages.
+
+Last to arrive are Florence, Theresant, Victoriant and Antionette. I’m shocked to see the Queens here, their guards are reluctant to let them go anywhere. Clearly the two insisted on being able to attend, which warms my heart. They’re still larger than the soldiers like Leeroy and Brendant, but I absolutely tower over them.
+
+“Hey there, everyone!” I say, greeting them all as they come in.
+
+Giving them the traditional ant ‘thwippity thwap’ of the antenna isn’t as easy as it used to be, given my size, but we manage well enough. Finding space in the chamber, everyone gathers around and starts chatting. A warm feeling rises in my carapace, and if I could smile, I’m sure I’d have one on my face right now.
+
+This is nice.

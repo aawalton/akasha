@@ -1,0 +1,77 @@
+---
+id: 6520e77d-beef-5c6c-8abd-ad365d348f47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1828 -  Clogging up the works."
+slug: 0482-chapter-1828-clogging-up-the-works
+partOf: chrysalis
+position: 482
+ownLength: 1053
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3619832/chapter-1828-clogging-up-the-works"
+royalRoadId: "3619832"
+---
+
+Hearts beat twice. It’s not complicated, everyone knows what a heartbeat sounds like. Ba-thump. Ba-thump. Two distinct sounds. This is because hearts are pumps. They do two things. They suck blood in, then push it out. How? By using the separate chambers to do separate jobs!
+
+The top chamber is full of blood, it contracts, squeezing the blood down into the lower chamber. Then the valve between the two shuts. Now the lower chamber contracts, squeezing the blood out and into the circulatory system. Next, the upper chamber expands, opening up again and sucking in new blood, ready for the process to start again.
+
+As far as I can tell, the hearts in the fifth operate in much the same manner. The upper chambers pull in mana from the wider Dungeon, push it down to the lower chamber, which then disperses it back out, creating the energy cycle for this span of Dungeon.
+
+If the lower chamber is clogged full of mucus… then the Krath jammed the energy flow themselves, preventing the heart from functioning properly. They must have diverted some of the overflowing mucus into the heart itself, replenishing the stocks as quickly as the heart could push them out, or perhaps they blocked the valves out of the lower chamber. Maybe they did both!
+
+But why?! That would destroy the lower tunnels completely!
+
+The answer hits me rather quickly. I already destroyed the lower tunnels, so the Krath didn’t care if they got worse. If anything, by using the hearts to pressurise the system, they ensured the mucus would rise even higher, to the point it threatened us and not just them.
+
+My bad.
+
+Secondly, these tribes have already seen how we take over territory, by flooding it and basically driving them out, using cleansed mana as our weapon. Why would they expect us to do anything different here, in the seat of their power? So they prepared a countermeasure. Condensed mucus to battle against condensed mana and prevent the Colony from pushing them out of their last bastion.
+
+Dangit!
+
+I let go of the wall and push off, dropping rapidly until I catch myself at the last second with the Gravity Well, preventing a leg-splattering crash to the floor. Releasing its hold on me, I fall the last few metres to the floor and then I’m off and racing, a Gravity Domain flickering into place around me, condensed and enhanced with the Altar.
+
+Krath are extremely resistant to being squished, their flesh being as malleable and spongy as it is, but they sure as heck can’t fight while being pressed down by hundreds of kilograms of added weight. Once a few get caught in the zone, they are forced to the ground and have to painfully slide away, unable to give battle any further. After they’ve seen what happens to their comrades, the other slugs are forced to back up before they get caught. With space to breathe, the ranks of Legionaries snap into place almost instantly, years and years of training coming into practice.
+
+[The lower chamber is flooded with mucus!] I tell Chyron. Or at least, I try to. I’d expected the bridge to snap into place, but it failed to materialise thanks to her stupid helmet. How do I even find her in here? Lined up in tight ranks, every Legionary looks basically the same as the next one, especially from my rather elevated perspective.
+
+Aha! That’s Morrelia! I can tell because of the twin swords she’s wielding, one of the very few without a shield. I prod her with an antenna to get her attention and then barely pull away as she spins and swipes with one blade.
+
+Sheesh!
+
+As she realises her mistake, she stares up at me sheepishly as I tap the antenna to the side of my head. She quickly gets the picture and moves further into the area covered with cleansed mana before she takes off her helmet after speaking to the soldiers beside her. They move to cover her with their shields as she takes it off.
+
+[Krath love attacking our minds, so this needs to be quick, Anthony,] she tells me.
+
+[No apology? Alright then, I see how it is.]
+
+[I’m sorry, alright! Quickly please!]
+
+I don’t think they’ve tried attacking my mind all that much… then again, I’m a heck of a lot harder to beat than a regular human, thanks to my heavily mutated and evolved brains. Just another way that monsters are superior.
+
+[It looks as though the slugs have flooded the lower chamber with mucus. You can see the liquid mana isn’t flowing through properly, something has already filled the space below.]
+
+[I’m fighting a battle over here, I can’t see anything.]
+
+[Well I’m not as short as you. Trust me on this.]
+
+[Okay, fine. What does that mean? What do we need to do? I’ll pass your words onto Chyron as quick as I can, so tell me what you want.]
+
+Uh… what do I want? If we leave things as they are, this lower section of the chamber is going to get flooded soon enough. Hyper-dense liquid mana continues to pour down here in a blue flood, and with nowhere to go, the Legionaries will be knee deep in it in five minutes. From what I’m told, a little exposure might not be that harmful to them, but extended? Not so good. To the Templars, who aren’t modified in any way, direct contact with mana that concentrated is practically a death sentence.
+
+I believe that eventually the cleansed mana will eat through the mucus clogging up the heart, which is great, but my worry is there won’t be enough energy left over to fully cleanse the heart. After all, right at the bottom of the lower chamber is where the final boss is waiting, Theorazzn’s foul poison. It takes a heck of a lot of cleansed mana to get rid of it…
+
+Dangit, I’m going to have to go down there.
+
+[You guys hold the fort here, keep fighting and try to push the Krath away from the valve. I’m going down there.]
+
+[Down where?]
+
+[Into the lower chamber.]
+
+[Isn’t it full of mucus? That’s dangerous!]
+
+[Well I can’t do anything about it from up here. Put your helmet on.]
+
+This… won’t be fun.

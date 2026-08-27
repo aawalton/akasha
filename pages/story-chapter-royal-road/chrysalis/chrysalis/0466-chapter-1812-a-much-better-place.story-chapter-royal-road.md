@@ -1,0 +1,45 @@
+---
+id: 4be7a8db-2b95-5f70-a679-105ceeffcab1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1812 - A Much Better Place"
+slug: 0466-chapter-1812-a-much-better-place
+partOf: chrysalis
+position: 466
+ownLength: 973
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3517118/chapter-1812-a-much-better-place"
+royalRoadId: "3517118"
+---
+
+My carapace is sizzling so much that I think I must look like a smoking meteor as I sink down into the sixth. The maelstrom of energy sparks and burns around me, lightning and energy whirling in endless motion. I feel like I'm dropping through the heart of a tropical storm, but soon enough, I'm through to the other side, blessedly healing as the acid no longer burns me. Thankfully something had continued to attack me, keeping the regeneration network churning over at full blast. Slowly, the Pure Core begins to cool down, no longer under the insane level of pressure that Theorazzn had placed on it by just... being Theorazzn.
+
+Sheesh. Imagine having thoughts capable of corruption and decay. There's no harm to having a theme, synergy and all that, but surely there's a limit on committing to the bit. Was the Ancient always like that? A corrupting influence, spreading decay like a contagion from the moment they spawned? Or did they evolve carefully down this path, seeking the optimal path of virulence? And he wanted to try and vaporise me because I cleansed the fifth? Well, that's a relief. If they blame me and not the Colony as a whole, then Theorazzn is more likely to try and extract vengeance just on me, which is exactly where I want the heat. Frankly, the Colony is so much bigger and better than I am, capable of so much more, I'm sure they'll go on to do incredible things, even if I'm not around.
+
+If I eventually lose to Theorazzn when I reach the... core... or whatever, then that's fine. Hopefully the grudge will be expunged and the Colony can go on without having to worry about that weird thing coming after them. Although, who did they mention had stepped in to stop the planned anticide? Odren and Morribolg? I wonder what their deal is. Well, I think Odren is the one responsible for the Call, so I am not a fan of theirs. Morribolg, though? No idea. I should probably talk to my resident cult expert in Granin....
+
+Before I deal with that, I should perhaps address the fact that I am still falling.
+
+My first impression of the sixth? Cloudy. Really cloudy. As in, I can't see a dang thing. There is crackling purple lightning all over the place and I've already been struck a few times. Rather than painful, I find the experience strangely energising, although a larger bolt would probably burn my antennae off. Even the cloud is strangely compelling, always moving to the point it makes me dizzy trying to keep track of it. Now that I'm in it, there is definitely a strong whiff of gravity mana here, filling the air and pulsing all around me. It's thin, but it's definitely there. My various gravity-aligned organs are positively pinging, soaking up the energy and pouring it into my Gravity Mana Gland.
+
+Rather than fall forever, I take hold of myself with a Gravity Well, arresting my descent until I come to a nice, gentle stop. Once I'm there, I just sit and enjoy the ambience for a moment.
+
+The sixth! Finally! I've been wanting to get out the fifth for so dang long it almost feels surreal to be here. I'm so happy I could shed a tear, but I'm not capable of that, so I just wiggle my legs happily. Imagine being one of those morons who told me that I couldn't make it, that the fifth couldn't possibly be overcome. Hah! Time to eat some words up there, fools! I'm here, I'm in the sixth right now! Behold my mighty wiggle of joy!
+
+My happiness, as profound as it is, is slightly ruined by the subliminal understanding that a large portion of it is due to the total lack of pain from the Call that I'm experiencing right now. Having a barb sunk into my soul, yanking away day and night, has become such a normal part of my life that I don't even think about it anymore. Well, when it gets bad, I certainly notice, but now that I don't feel it at all, the absence feels like dipping into a brood nest and cuddling up to the larvae. It's nice.
+
+But it can't last. With a sigh, I manipulate the Gravity Well and start to rise, floating back up through the dense maelstrom, not letting the fierce winds or lightning distract me from my path. Almost as soon as I start moving, the Call begins to complain, a gentle tugging that grows sharper the higher I get. When I cross back over the threshold to the fifth, it's going to go absolutely nuts.
+
+Lousy Odren. I'm gonna have a stern word for them when I reach the core. Very stern.
+
+There are monsters down here, I can feel them already, whipping through the storm and lurking where I can't see them. Thankfully they seem hesitant to come and take a bite out of me, which is a win. As much as I could do with the distraction, I do have work to do. The path to the sixth has been fully mapped out now, which means I need to report back to the Colony digging teams as fast as possible. It's very close to the time when they'll start to pump the mucus, so there isn't time to muck around, as much as I'd like to.
+
+Well, I may as well harass Granin for some knowledge on the Ancients while I'm climbing back up. Thankfully he has a spot in the Nave, so it's fairly trivial to annoy him.
+
+[Hey, Granin.]
+
+[... Uh... Anthony?]
+
+[Who else? Look, I have a question, if Theorazzn were to get into a fight with Morribolg and Odren, who would win?]
+
+[... I'm going to need a drink.]

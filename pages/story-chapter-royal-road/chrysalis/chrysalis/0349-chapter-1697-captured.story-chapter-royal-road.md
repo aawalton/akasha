@@ -1,0 +1,129 @@
+---
+id: e092d360-8519-5739-bb47-868a7c46716d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1697 - Captured "
+slug: 0349-chapter-1697-captured
+partOf: chrysalis
+position: 349
+ownLength: 1426
+unit: words
+ownProgress: 1426
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2813696/chapter-1697-captured"
+royalRoadId: "2813696"
+markedReadAt: "2026-06-29T19:54:58.662Z"
+---
+
+A stalactite rushed to meet her and Elsi reacted on pure instinct, spinning like a dancer in the air as she parried the stone and flipped, landing on her feet. She looked up… or down… to the floor of the tunnel beneath them, wondering how she could get back there.
+
+Shamus had also landed somewhat gracefully, grunting as his feet slammed into the stone.
+
+“What type of magic is this?” he wondered, crouching low, eyes still focused on the fighting in the distance.
+
+“I have no clue,” Elsi said, settling in beside him.
+
+“Have you managed to cut the mind bridge?” he asked, and she shook her head. “Neither have I,” he grunted. “Must be a powerful mind in that beast to overcome our enchantments.”
+
+Mental illusions were a common tactic for some of the most deadly monsters in the Dungeon. All delvers protected themselves in one way or another.
+
+The fighting… wasn’t going well. Cries and shouts of alarm and fury rang out as the bulk of the delvers had fallen into the ceiling, just as they had. Professional delvers, it didn’t take them long to adapt, regaining their footing and redoubling their attacks, only for the switch to happen again.
+
+Elsi couldn’t help but yelp in surprise as she once again began to fall, in the normal direction this time. Shamus was ready and landed with ease, throwing himself down into the rock once more, concealing his presence. She managed a reasonable landing, able to plant her feet and dive into cover quickly.
+
+The delvers fighting weren’t so lucky. In the midst of launching attacks or dashing, they fell awkwardly, several crashing into each other as they landed.
+
+[Hah! You don’t even seem to know which way is up or down!]
+
+The ant continued to mock them, and Elsi felt unease creep up her spine. Could this monster really flip them upside down whenever it wanted to? Was it even possible to fight something like that?
+
+Even more worrying, she studied the beast and saw it was almost totally unharmed. Not long ago, it had been suffering under a barrage of spells and strikes, but with the delvers thrown off balance, she had a clear view of the creature. No matter where she looked, she saw nothing but exceptionally superficial damage to the carapace, and as she looked, even that seemed to fade away with absurd speed.
+
+“Did you see that regeneration?” she hissed.
+
+“I did,” Shamus confirmed grimly. “A powerful healing gland inside that thing.”
+
+Regeneration fluid was something monsters could produce with ease, but humans couldn’t.
+
+[I’ve given you enough chances,] the ant said condescendingly.
+
+Elsi tensed, wondering what was going to come next. Would the slaughter begin? Was it time to run? Would the delvers manage to turn the tide?
+
+A flicker of purple light sparked within the ant’s carapace. It pulsed once, twice, then exploded outwards, a dome expanding at rapid speed. It raced over the rock, dying everything it touched dark purple. When the first delver was caught inside, they slammed into the ground as if struck from above.
+
+“Run!” Shamus roared.
+
+By the time Elsi turned, he was already off, mid-dash as his explosive speed launched him forward. She braced her legs and leaned forward, heart pounding in her chest as she prepared to do the same.
+
+Not fast enough.
+
+The light overtook her and–CRACK!
+
+Her skull smashed against the stone with such force she blacked out for a moment. Seconds later, she groggily awoke, only to see nothing. Her face was mashed into the tunnel floor, her nose was thoroughly broken and she thought she tasted blood in her mouth.
+
+What had happened?
+
+She tried to rise, tried to turn her head. It was impossible. As if a mountain pressed into her back, she couldn’t move an inch, trying to shift her neck only felt as she were driving her face further into the stone. The weight was total and unyielding. With rising panic, she realised she couldn’t breathe, couldn’t muster the force necessary to suck air into her lungs.
+
+It didn’t make sense, something like this was impossible!
+
+She tried to fight back with her mind, use her abilities to break down the mana holding her down. Elsi knew she was in some sort of domain; breaking down something like that wasn’t easy, but it wasn’t impossible.
+
+Yet… the energy was so absurdly dense she felt like she was trying to break down a brick wall with her bare hands. No matter how she tried, she couldn’t take hold of it.
+
+Panic rose. Was she really going to die like this?
+
+As if to answer her question, she felt vibrations through the rock as something enormous drew closer. Every step of the giant monster shook the ground, and with six legs, there were a lot of steps. Louder and louder, as the beast approached, only to stop right next to her. She didn’t need to look, she could feel the monster’s core, burning like a star, right above her.
+
+[Well now. Up you get.]
+
+All of a sudden, the weight was gone. Desperate for air, Elsi flipped herself and gasped in a breath, sucking in all the oxygen she could get. Looking down at her as if she were… an insect… the giant monster stared impassively through those glittering, diamond eyes.
+
+[Let me get your friend as well.]
+
+There was a gasp not far away as Shamus did exactly the same as she had. Her spirits fell. So he hadn’t escaped either.
+
+[I was expecting more out of you lot,] the ant mused. [You wanted to come hunting my family, and this is the best you can do? Hopeless.]
+
+Elsi carefully didn’t answer. To hunt a monster this powerful, thirty to forty delvers would usually gather, study, train and prepare for weeks before making the kill. A dozen of them taken by surprise never stood a chance.
+
+There was no reason to tell the monster that.
+
+[I’m in your head. You don’t have to tell me,] the monster said.
+
+Elsi’s eyes widened, and she carefully stilled her thoughts.
+
+[Up. Come on, up. I don’t have all day to wait for you to catch your breath.]
+
+Urged by the creature, Elsi staggered to her feet and saw Shamus do the same. The monster shepherded them together, then loomed over the two delvers while they braced themselves for their inevitable fate.
+
+[Do you… have any idea… how much I’m worth?] the ant asked them.
+
+Else blinked.
+
+[P-probably a lot?] she hazarded, unsure what the creature expected from them.
+
+[Probably? Please. You clearly have no idea what you’re looking at. Here, take this.]
+
+Lifting a giant foreleg, the creature held out something in its claws. Elsi reached out with her hands and the ant released it, letting the object fall to her.
+
+She nearly fell to the ground again, it was so much heavier than she’d thought. Looking down, she realised she was holding a shard, about palm-sized, of the material that made up the monster's carapace.
+
+[That is a specially compressed form of diamond. Hyper dense, highly mutated, an absolutely one-of-a-kind material. This is sixth stratum or lower stuff, and I am covered in literal tons of it. And that’s just the start. My muscles? My eyes? Look at these things! Unsullied Crystal. Imagine what some king would pay for one of these puppies. I’ve got Twilight Filament antennae and Soul Crystal organs. This body is worth more than the Silver City. You won’t find a prize like this for the rest of your lives.]
+
+Elsi… was struggling to process what was happening.
+
+[Why are you telling us this?] Shamus said. [Why give us this?] he gestured to the hunk of diamond.
+
+[Because you need to show it to the others,] the ant told them flatly. [I don’t have time to crawl through these tunnels looking for delvers. Much easier if they come to me.]
+
+[Why would you want that?]
+
+[Because I’m hunting you. Every single one of you. That lot back there are my first haul, but they won’t be the last. Not to worry, I won’t kill them. In fact, I’m feeling generous. Tell Green Mountain they can buy them back from me. My prices are fair.]
+
+[Do you really believe that the delvers are going to be blinded by greed and come after you? We aren’t so foolish.]
+
+The ant clacked its mandibles in that same, staccato pattern again.
+
+Laughing.
+
+[Yes, you are,] the ant assured them. [Run along now. I’ll see you again soon.]

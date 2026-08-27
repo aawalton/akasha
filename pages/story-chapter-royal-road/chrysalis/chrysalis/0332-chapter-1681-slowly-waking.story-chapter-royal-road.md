@@ -1,0 +1,77 @@
+---
+id: ba996bd5-19fc-5461-8f4a-217611497ec5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1681 - Slowly Waking"
+slug: 0332-chapter-1681-slowly-waking
+partOf: chrysalis
+position: 332
+ownLength: 1059
+unit: words
+ownProgress: 1059
+publishedAt: 2025-11-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2730305/chapter-1681-slowly-waking"
+royalRoadId: "2730305"
+markedReadAt: "2026-06-29T19:54:26.002Z"
+---
+
+I don’t really dream while in torpor. Technically, torpor and sleep are different states, I get that, but still, not-dreaming is one of the few things that I haven’t really gotten used to in my new life.
+
+This, though? This… listless… bodiless experience I’m having right now… it’s as close to dreaming as I’ve come since I was reborn on Pangera. If anything, it reminds me of how I felt just before I hatched.
+
+The major difference between now and then is that I have the collective Will of millions of individuals flowing through me at any given moment. Moment to moment, my sense of self is frayed as I drift away in the stream of my family's consciousness.
+
+I spend a day as a miner, chomping at the stone, sensing the rock with my antennae, smelling the minerals and gems I’m hunting for. A deep sense of satisfaction fills me as I push my cart, filled to the brim with the fruit of my labours, along the tracks and back to the outpost. From there, it will be added to the next shipment, along with all of my sisters’ work, headed to the sorting facility.
+
+Tomorrow, the mana filling the Dungeon will have refilled and regrown precious metals in another location, so the miner's work is never done. Such a deep sense of fulfillment I feel with that knowledge.
+
+Another day, I am a healer. Irritation fills me from the moment I emerge from torpor. Worried about my siblings, I rush out, barely giving myself enough time to eat and groom in my haste to reach the hospitals. There has been an influx of cases from below, hundreds of soldiers suffering from severe mana poisoning. Though they are already through the worst of their ailment, they still need around-the-clock care to ensure the toxins don’t spread throughout their systems again.
+
+No sooner have I entered the chamber than I can smell the soldiers trying to persuade anyone who will listen that they are well enough to be released. When I step in, a soldier resting in a recuperation chamber calls out immediately, demanding to be sent back to the front line.
+
+Irritation explodes into anger and I thwack the soldier thoroughly with my antennae, assuring them that their stay in the hospital has just been extended by another week. If they want to complain about it, I’ll make it two weeks!
+
+For the rest of the day, I march around the hospital, endlessly worried for my family members who seem so infuriatingly incapable of worrying about themselves. Finally, exhausted and drained, I return to the torpor chamber and collapse into sleep.
+
+Another day, I am a Brood Tender, and I spend all of my time feeding, grooming and tickling grubs. The fat little things wiggle happily as I tend to them, a pure and innocent existence, untainted by the world. Soothed and nourished by my aura and care, they grow rapidly, ready to become the newest generation of the Colony.
+
+I even spend a day as a Queen, which is… interesting. Being fed an endless supply of Biomass and being nearly constantly groomed is nice, and the tea parties are exquisite, but laying eggs is a rather uncomfortable experience.
+
+It feels like I am everyone and everywhere. Hundreds of different experiences, if not thousands.
+
+I fight as a general in the tunnels, coordinating my siblings as they battle alongside me.
+
+I work making carpets, weaving fine threads into intricate patterns that please the eye and will bring satisfaction and pleasure to the guests of the family.
+
+Smelting in the great foundries. I watch liquid steel flow like a river, so hot only my mutations allow me to work in such a place without my insides boiling within my carapace.
+
+Learning in the antcademies as a hatchling, I study the wisdom of my elders and listen intently to the teachings of my Brood Tender instructor. Soon, I will know everything I need to know in order to work and help my family, and I burn with eagerness for that work to begin.
+
+Skulking in the shadows, I spend a day as one of the nameless, stalking a scout who has dared to pull a double shift. Multiple times, my target has the option of choosing rightly, going to torpor, but every chance for redemption is spurned. When I strike, I strike without mercy.
+
+Before retiring for torpor, I see the scout receive the full treatment, her carapace polished to a mirror shine, and feel satisfied that the wisdom of the Eldest has been fulfilled this day.
+
+Wait, my wisdom? Since when was I wise?
+
+A few fragments of myself, shocked out of the flowing stream, pull together just long enough for me to remember who I am, but they aren’t able to hold together long enough. Soon, I am fraying apart again, lost in the endless flow of Will.
+
+More days, hundreds of them. I experience life all around the Colony, in every aspect. I fight, I dig, I build, I craft, I search, I nourish and I grow.
+
+Every time I experience another point of view, I feel myself vanish just that little bit more into the river, pulled a tiny bit deeper below the surface.
+
+That’s fine. It’s so warm here. Even six legs aren’t enough to wrap around the love and care of my family. It’s all-encompassing and overflowing, running through the river like streaks of gold.
+
+I am a scout. I run through the tunnels, hoping the hunters haven’t seen me, but fearing that they have. Those fears are confirmed soon after as my antennae pick up the vibrations of feet on stone. It’s fine, I have evolved and mutated for speed, I can outpace them.
+
+Except, I can’t? Warned at the last second, I dodge to the left and the net sweeps through where I’d been moments ago.
+
+Another hundred metres, and I’m in the clear, I can see other ants in the distance, and the hunters can too. I sense the vibrations fading as they slow before turning around and heading back, waiting for another opportunity. Thankfully the patrols in those outer tunnels will cease after today. No ants have been captured, thank the Eldest.
+
+…
+
+…
+
+EXCUSE ME??!?!?!
+
+My disparate strands of consciousness slam back together in an instant.
+
+Anthony is back.

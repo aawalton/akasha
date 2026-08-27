@@ -1,0 +1,81 @@
+---
+id: 11d06e2c-2fb5-5469-87a1-08fb28337624
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1742 - Making the Sale"
+slug: 0394-chapter-1742-making-the-sale
+partOf: chrysalis
+position: 394
+ownLength: 1055
+unit: words
+ownProgress: 1055
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3089610/chapter-1742-making-the-sale"
+royalRoadId: "3089610"
+markedReadAt: "2026-06-29T19:56:24.002Z"
+---
+
+Merchant sat, brushing imaginary dust off her finest coat, a black satin number woven with a fascinating and rare type of golden-silk. Only found in a small area in the first stratum, the moths who wove the cocoons were a type of monster carefully cultivated by the Toothoo nomads who claimed the region.
+
+With just a hint of fire mana held within the threads, they seemed to glow all on their own, and the way they captured the light was just exquisite.
+
+Naturally, she had procured some and handed it to the finest embroiderers in the Colony, and they had not let her down. Not only was the pattern an intricate masterpiece that captivated the eye, it also told the story of the Champions who had come before her, with panels dedicated to Vibrant, Brilliant and Solant.
+
+Across the table from her sat a rather unhappy Alice Erry, chief negotiator of Green Mountain and Merchant’s current adversary.
+
+Of course, Ms. Erry was far too professional to let her emotions show on her face, but it wasn’t hard to sense just how she was feeling. Anger was practically radiating from the woman like heat. Merchant hadn’t needed to mutate herself to sense emotions in order to work that out, she merely needed eyes.
+
+“It’s a shame we have to meet again under such inauspicious circumstances,” Merchant said, shaking her head sadly. “I had truly hoped our last meeting would have led to an immediate and lasting peace between our people.”
+
+“At that time, you had already put in place your plan to kidnap our citizens from their beds as they slept, I’m hardly inclined to believe you.”
+
+Alice’s eyes were hard and burning with rage, which was to be expected. After all, they had been planning on abducting delvers from their beds at that time.
+
+“Kidnapping?” Merchant said, placing a leg on her abdomen in shock. “Such an ugly term. I have been assured that no children were taken. Only delvers. Indeed, only delvers who had been active in the tunnels outside our nest… looking to murder my siblings, or even capture them for sale.”
+
+Merchant tutted, shaking her head sadly.
+
+“Such a cruel world, where the civilised would inflict such acts upon the unwilling. It’s a shame.”
+
+Alice cocked a brow at the ant sitting opposite her.
+
+“Are you now claiming to be civilised?”
+
+“Are you claiming we are not?” Merchant shot back. “If we are not civilised, then spare me your moral protestations, because you can’t expect us to act morally. If we are, then stop pretending you did anything other than endorse the capture and sale of sapient, independent beings to a fate worse than death. I’m aware you humans like to possess a cake and have consumed one simultaneously, but I’m afraid this time, you must choose.”
+
+It was unlike her to draw such a line in the sand during negotiations, but Merchant found that the attitude of Green Mountain was really starting to grind her mandibles. Inconsistent, founded upon nothing and seemingly without clear goals or direction. Just… bad for business.
+
+“Does that choice have any bearing on the outcome of these negotiations?” Ms Erry countered bluntly. “Civilised or not, you have abducted our people and are now demanding that we pay you for them. How are we supposed to view this as anything other than provocation for a war?”
+
+Merchant took a soothing puff on her cigar and adjusted the monocle over her right eye.
+
+“Let us not forget the four thousand soldiers we returned to you after the battle beneath the Dungeon. Is that the act of an aggressor looking to ignite a conflict?”
+
+“Then what do you want?” the representative of Green Mountain pushed. “You assured us you would leave our people alone, but failed to keep your word. Why would we trust you this time?”
+
+They both knew the answer to that: they had no choice. If Green Mountain refused to rescue the delvers, then their economy would be devastated. Delving was their primary industry, and the ants had it by the throat.
+
+“Last time, you failed to get anything in writing,” Merchant said pleasantly. “This time, neither of us is going to make such an elementary mistake.”
+
+So saying, she reached down with a leg and pulled an elaborate scroll from the pouch beside her seat and presented it to her adversary. Ms Erry seized the document and scanned through it rapidly, eyes narrowing the further she got.
+
+When she was done, she placed it down on the table and stared Merchant right in her multi-faceted eyes.
+
+“This is… interesting,” she said.
+
+“It’s downright generous is what it is,” Merchant returned with a laugh. “Let me remind you how this started. We warned you. We pleaded with you. We offered to PAY you. Anything to call off the delvers hunting for us, and you said ‘no’.
+
+“Now we are here, in a different time and a very different place. If you want it to stop, then sign and pay us. Once you do, we will respect your borders, we will not impinge on the operation of your industries, or your trade. In fact, your delvers will be welcome to seek contracts from our own Delving Outpost—there are so many centipedes out there, after all. Peace and prosperity for all. After you pay.”
+
+Muscles tensed on Alice Erry’s jaws, just for a second, but Merchant knew she had clenched her teeth. Sure, get angry. You started this, despite our best efforts to foster peaceful relations.
+
+“Why make us pay at all? You’ve made your point. Even if the Church doubles their bounty, I don’t think a single person would take them up on it.”
+
+“Because the failing is Green Mountain’s. You have made a grievous error in judgement, and that means you must pay a price.”
+
+Merchant reached into her jacket pocket and retrieved a small piece of folded paper. She placed it on the table, then slid it across.
+
+“This price, to be exact.”
+
+When Alice winced upon seeing the number, but didn’t raise her voice, Merchant knew she had selected the right price out of the eleven she had tucked into her pockets.
+
+Make them hurt, but not too much. They were going to be nice and friendly neighbours from this point on, after all.

@@ -1,0 +1,71 @@
+---
+id: 76af310f-a41d-5586-a919-69e553be9401
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1839 -  Cleanup"
+slug: 0494-chapter-1839-cleanup
+partOf: chrysalis
+position: 494
+ownLength: 935
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3780267/chapter-1839-cleanup"
+royalRoadId: "3780267"
+---
+
+As it turns out, there really isn’t all that much to do now. Vibrant is running around like a mad thing, putting out spot fires on the borders. Most of the resources that were brought in for the rush of construction and fighting here have been dispersed back to where they came from, letting the broader Colony pick up the pieces that they left behind and start repairing the damage.
+
+Meanwhile, down in the depths of the fifth, there’s nothing to do. We dumped every drop of liquid mana we’d collected into the hearts and lungs, and now we’re all sitting around waiting to see if it was enough.
+
+Maybe just to stop me from being annoying, but also maybe because the threat is real, I’ve been put on patrol, making sure the Krath don’t sneak in and tip the scales back in their favour.
+
+I mean, if they found a way to get in here and load the lungs full of mucus, it would be a complete disaster. How exactly they’d manage to do something like that, I have no idea, but hey, it’s the Krath, they’re sneaky!
+
+So Tiny, Crinis, Invidia and I find ourselves wandering around the tunnels, looking for trouble and generally being unable to find it.
+
+[Did we check this heart already?]
+
+[Not today, Master.]
+
+[I swear we did.]
+
+[We didn’t.]
+
+[Tiny, have we checked this one?]
+
+The big ape looks at me seriously, then shrugs. You haven’t been paying attention at all, have you?
+
+[There’s a monster spawning over there,] I sigh, pointing with an antenna.
+
+He perks up, hops over and winds back one massive fist, a look of intense concentration on his face. Honestly, I feel sorry for the poor monster about to leap out of that hollow. Two seconds after spawning, it’s going to get a tier seven gorilla punch straight to the dome. That’s an unfortunate life if ever I’ve heard of one.
+
+If we don’t do anything, it’ll try and gnaw our ankles off, so we’ll end up having to bop it regardless. Or maybe we won’t?
+
+[Give it a second, Tiny. Don’t hit it yet.]
+
+He turns to me, enormously disappointed, holding up his fist.
+
+[Sheesh, you hit something just a few minutes ago! Give it a rest!]
+
+Sure enough, the monster jumps up just a few seconds later looking… really weird.
+
+I swear, all of the monsters born from the natural mana of the fifth are extremely odd. This one looks like… a blob with a long, snake-like bit extending out of it tipped with another, smaller blob. As far as I can tell, it has no eyes… or any other sensory equipment for that matter. I lean a little closer, trying to work out what the heck it is, but also curious to see if it’ll just creep off, intimidated by my presence.
+
+I haven’t managed to find a hard and fast rule for whether or not a monster is going to avoid me yet. Some tier ones will still fight, though the vast majority won’t, while some tier sixes will avoid me, while the majority will still fight.
+
+As it turns out, this particular beastie is not all that intimidated. As I lean in, it promptly attempts to burrow into my brain, whipping its long segment through the air and splotching onto my head. Once attached, it tries to gnaw through the carapace to get to the delicious, highly mutated brain power within.
+
+[Tiny, punch this thing, please.]
+
+If it is possible for someone to smugly punch, then that is what the ape does. The offending monster is splattered in an instant and I have learned a new lesson.
+
+What the heck was that thing? Some sort of brain-eating zombie cell? Bah, I’m unlikely to see it again, spawn rates are still relatively low through here as the natural energy returns. That won’t last long, it’s climbing fast, really fast, but for now the tunnels are fairly calm.
+
+We head over to the heart and climb up into the lower chamber. There’s still liquid mana pooling in some of the crevices and down the bottom of the chamber, not yet having dispersed throughout the network. I carefully inspect the spot where Theorazzn’s toxin once resided and I’m pleased no sign of it remains. It appears this heart was completely cured just the same as the one I invaded personally. Looking about, there’s a totally different feeling being inside one of these when they’re healthy. The beating of the massive, muscular walls is much more powerful now than it was before, which makes sense.
+
+Before the purge and subsequent healing, this heart was a disease-ridden mess, barely functioning. Now the flesh is hale and hearty, pink and red and brimming with vitality, which naturally leads to a stronger heart. Every pulse of the walls is like a hammer blow, shaking the surrounding Dungeon and setting my antennae to quivering.
+
+Mana is starting to circulate faster and faster as the system recovers. At full strength, it’s going to be suffocating in here. During a wave, I can scarcely imagine what it’s going to be like. What happens when you pump an ocean of power through such relatively narrow openings?
+
+Even the Legionaries, with their special adaptation to mana, probably wouldn’t be able to stand in here without getting sick.
+
+[Looks like everything is in order here, gang. Let’s go and take a look at the lungs. We’re out here for another five days, so make sure you’re keeping your senses sharp. Any mistakes could set this whole area back to square one.]

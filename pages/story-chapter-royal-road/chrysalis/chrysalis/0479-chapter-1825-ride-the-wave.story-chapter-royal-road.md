@@ -1,0 +1,89 @@
+---
+id: d50475d1-48ef-5e94-8b79-27a392095ce2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1825 - Ride the Wave"
+slug: 0479-chapter-1825-ride-the-wave
+partOf: chrysalis
+position: 479
+ownLength: 918
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3610905/chapter-1825-ride-the-wave"
+royalRoadId: "3610905"
+---
+
+Feeling the pounding of multiple hearts through the floor of the Dungeon is such an odd feeling. It’s hard to say if they’re pumping in sync or not, since the distance to each isn’t exactly the same. Brilliant could probably tell me, it’s the sort of detail that she would love to study.
+
+Now that I’ve thought of it, it’s kind of a disturbing thought. All of the hearts in the stratum? Pounding in unison? Spooky.
+
+“How long until the mana gets here?” I ask.
+
+“Hard to say. They probably haven’t released the reservoir yet,” the head of the building team tells me. They’ve been busy laying the channels needed to bring the energy to the frontline and only recently finished their work.
+
+“Do you even need the cleansed mana, Great One?” Jern asks, his massive axe resting on his shoulder.
+
+He looks far too casual for someone as dangerous as I know he is. I’ve heard things about Jern, scary things. He’s built quite a reputation for himself in the fifth stratum. As has Alis, to be fair. Even Propellant was drawn to witness her Fire Magic in person.
+
+“Me? No. It’s not there for me, but to combat the foul corruption Theorazzn left in every heart and to keep you alive. I’ll be just fine without it.”
+
+We are currently in a staging area, similar to the others which have been established around the other hearts. Not so close that the Krath might sense us, not so far away we can’t strike swiftly. Right now, the heart is probably five hundred metres directly beneath us, pumping its foul poison throughout the area.
+
+It wasn’t easy to pump out all the slime and mucus up here in these tunnels. Downstream from the damaged artery that someone caused to rupture, it wasn’t possible to get this close until very recently. I’m told we managed to repair the broken vessel, which got the mucus flowing back into the network again, which isn’t great, but at least it wasn’t clogging up the tunnels and filling the lungs any more, giving them a chance to drain.
+
+Hopefully it’s enough that the cleansed mana can seep through and purge the corruption in there. Mandibles crossed.
+
+“Look, if you want I can head down there, break into the heart and take care of things right now. I’m happy to get this done myself.”
+
+“No, Great One,” Bertran says with a wry smile, “we would like to at least pretend that we are useful. Give us a chance to do something.”
+
+“I mean, you did keep me alive by defending the Nave while I was sleeping. That’s pretty darn useful.”
+
+To be honest, I still have no idea how I can even be attacked via the Nave, so I’d feel a lot more comfortable if the Templars were kept safe so they could defend me that way. I don’t need nearly as much protection from more mundane threats.
+
+Heck, I have Protectant and the others for that already.
+
+Which reminds me.
+
+“Protectant, are you there? I have a question.”
+
+Jern, Alis and Bertran look about, a little confused. Other than the build team, there isn’t anyone else with us right now. As far as they know. Of course, I don’t get a reply at first. She never shows herself the first time I ask.
+
+“Protectant… come on.”
+
+“Fine.”
+
+As usual, she’s on my head.
+
+“Do you really have to sit on my head all the time?”
+
+“... Maybe.”
+
+“Was she there the whole time?” Bertran asks, the first of the Templars to notice the suddenly emerging ant.
+
+“She was,” I reply, a little annoyed. “I just wanted to ask if it was your squad that was getting my regeneration network going in the depths? Something was hitting me for no damage down there, and for some reason I didn’t think of you at the time.”
+
+Rather suspiciously, the possibility didn’t occur to me. Just how determined are they to remain out of sight?!
+
+“It was us,” Protectant confirms. “Is that all? I don’t like being in the open and I’d prefer fewer people knew of our existence.”
+
+“Well, they already know about you now, right?”
+
+Protectant clacks her mandibles smugly.
+
+“Oh, they’ll forget soon enough.”
+
+With a puff of misdirection, she’s gone again, leaving that horrifying statement behind to hang in the air. Alis looks confused, Bertran intrigued and Jern like he doesn’t care one way or another.
+
+That changes when we hear marching coming down the tunnel towards us. Not a small amount of marching either, a lot of marching. Who the heck is coming down here?
+
+When the massed ranks of the Legion come into view, a fully armoured Commander Chyron in their lead, I briefly wonder if they’ve decided to have a go at taking me down after all. However, they don’t pull out their weapons or launch an attack, and Morrelia, right behind her commander, doesn’t seem all that stressed either.
+
+[Commander. I presume you’re here to assist the assault on the heart?]
+
+[Solant didn’t mention we would be coming?] she says, eyes narrowing. She probably suspects some sort of trick by the little general.
+
+[She didn’t, but that’s fine. Have you only sent soldiers here, or are you spread out?]
+
+[We’ve deployed a small number of Legionaries to each of the battlefields, but our main force is placed here, as you can see,] she says. She looks up. [When is the cleansed mana getting here?]
+
+[That’s certainly the question.]

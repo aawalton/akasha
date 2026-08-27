@@ -1,0 +1,83 @@
+---
+id: 8644345e-23ba-54c2-9fad-1b39e9f4b2b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1718 - Swept Clean"
+slug: 0370-chapter-1718-swept-clean
+partOf: chrysalis
+position: 370
+ownLength: 1019
+unit: words
+ownProgress: 1019
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2966453/chapter-1718-swept-clean"
+royalRoadId: "2966453"
+markedReadAt: "2026-06-29T19:55:38.703Z"
+---
+
+Green Mountain is both more, and less impressive than I thought it might be. I mean, it’s hard for these places to not be impressive, given the way they're built on the slopes of mountains so large they literally hold up the roof of the stratum.
+
+Combine that with the ambient mana of the fourth, being filled with life, light and water, looking at just about anything creates a jaw-dropping view.
+
+Having said all that, the city on this particular mountain is clearly old and well-developed, with high walls, a bustling port and thousands upon thousands of dwellings climbing up the slope towards the upper reaches in the clouds. Is it the Silver City? Not by a long shot, but it's clearly prosperous.
+
+If not a little bit militant.
+
+Where the Silver City was designed to be an inhabitable work of art, Green Mountain looks like it was built to frown at the world. Despite the name, the buildings are quite grey and austere. If I look closely, it seems as though many of the structures have been built to form internal walls and defensive positions in the event the city is ever invaded.
+
+Not quite a fortress, but clearly a place that has a rather defensive mindset. Makes sense, considering one of the major industries here is core harvesting. Close enough to the Mother Tree that they can see her in the distance, the people here have cultivated a reputation for holding negative views of all things monster. Unlucky for them that the Colony happened to pop up and seize the mountain next door.
+
+Oh, it looks like they’ve spotted me.
+
+It took a couple of days to hunt through a bunch of tunnels and make my way right up to the boundary of Green Mountain itself. Not wanting to run into their walls and outposts down in the Dungeon, I decided to tunnel up to the surface, creating a stone pathway as I went, to breach the surface of the lake and take a look at the city for myself.
+
+I can faintly hear alarm bells ringing from the walls and see figures scurrying about, pointing and shouting. They seem energetic. I suppose it must get boring wandering around on the walls all the time.
+
+I mean, if an attack is going to come, it’s going to come through the tunnels, not over the water. Still, I wave an antenna at them in greeting. Hopefully they’re able to see.
+
+Oh, looks like they can, they’re launching fireballs at me.
+
+Big fireballs. They must have some sort of siege equipment set up on the walls, to be producing so many of these things in such a short period of time. Rather than stick around and engage in a mana war with an entire city's worth of mages, I let myself fall back down the tunnel I made, dropping down hundreds of metres before catching myself with a gravity well before I hit the ground.
+
+Handy trick, that. The more I manipulate myself using gravity wells, the more useful I find it. Fall damage? Hah! Not for me.
+
+Once I drop down to the ground, I find several of the nameless are waiting for me, concealed in the shadows.
+
+I don’t remember being able to see them this well in the past. I think they’re getting sloppy.
+
+“Eldest, we have caught all the stragglers that we can,” one of them says, stepping out of the darkness.
+
+“Thanks for your help. I didn’t want to take you away from your regular duties for so long. Hopefully there aren’t too many who have started skipping their rest.”
+
+“There are many,” the nameless one says, clacking her mandibles as if disappointed by the behaviour of unsupervised children. “The cells will be overflowing for the next few days.”
+
+Seriously? Sheesh. I never intended for any ants to become so manic about enforcing the daily rest period, but it’s rather annoying that my siblings have decided to run so wild the moment they were let off the leash. Have some self control, dammit!
+
+“I’ll lend Crinis to help you,” I tell the nameless one. “Clearly, my siblings are insufficiently afraid of the dark.”
+
+That’ll show them.
+
+The nameless one performs the eightfold genuflection before me, a rare honour considering I’m not a part of their order.
+
+“With the shadow herself to aid us, we will catch up in record time.”
+
+[Are you alright with that, Crinis?]
+
+[As long as you don’t go too far away…]
+
+[I’ll be good.]
+
+[Then I’m fine.]
+
+Ultimately, we managed to catch about half of the delvers that were in the tunnels, somewhere in the vicinity of twelve-hundred. Apparently, Merchant is back negotiating the sale right now. I wonder if the Council of Green Mountain is finally going to bite the bullet and pay up. An absolute king's ransom has been demanded for their people, investment funds for Merchant’s interests. I’ll be keen to see what she comes up with. The Colony needs cores, after all!
+
+But if she ends up losing all the money, she’ll get a mighty thwacking! I don’t care how small she is!
+
+“Well. Now that they’re huddling behind their walls, it’s time to move on to the next phase,” I sigh, stretching out my joints and cleaning my antennae.
+
+For now, we head back to the nest and take a short break. I could do with a status check and perhaps a few mutations before I go any further, and I still have new things to experiment with.
+
+I’m sure that Green Mountain will be coughing up blood when they fork over all that money to a pack of monsters, and screaming to their allies about the injustice of it all. They’ll be angry, have their backs up, and be out for revenge.
+
+That’s fine. That’s exactly how I want them to be.
+
+After the second round is done, they’ll be begging for us to leave them alone. I’m already tired of playing with these fools. I want vengeance on the slugs below, and these delvers have taken up more than enough of my time.

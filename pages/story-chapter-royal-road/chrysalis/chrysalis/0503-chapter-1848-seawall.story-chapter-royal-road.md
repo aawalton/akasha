@@ -1,0 +1,95 @@
+---
+id: 49b769cf-7105-54c7-8533-53c065e59752
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1848 - Seawall"
+slug: 0503-chapter-1848-seawall
+partOf: chrysalis
+position: 503
+ownLength: 1021
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3841421/chapter-1848-seawall"
+royalRoadId: "3841421"
+---
+
+Watching the wave break in the fifth, in the real fifth, is unlike anything I have ever seen before in the Dungeon. It’s disgusting, so that’s the same, but in an entirely different way than before.
+
+It’s better, I can say that much.
+
+When the wave officially hits, it starts as all the others have, a rolling tide of power that sweeps up from below, booming like thunder. In its wake, the mana is thickened to the point where spawning rates immediately begin to shoot out of control, monsters manifesting at the slightest concentration of power.
+
+As it turns out, the new, cellular monsters that have been spawning in the cleansed section of Dungeon here don’t need all that much energy to spring into being. Which means the second the wave rolls through, they start popping out of the walls almost immediately.
+
+And there are lots of them.
+
+Blobby balls, weird-looking tissues and strange dangly things start tangling with each other the moment they spawn, formed out of raw mana pulsing through the walls. Within a minute, the inner surfaces of the tunnel I’m looking at are covered. Completely covered. Not slightly, or mostly, totally.
+
+And then it keeps going. There are so many of them spawning they start to push the ones who spawned first off the walls and ceiling so they literally start raining down onto the carpet that already exists below. Eyes boggling, I look up, and sure enough, they are raining down on the fortress, dropping off the roof hundreds of metres above.
+
+This is… going to get messy.
+
+The fall isn’t enough to kill them, they’re made of sterner stuff than that, but the fighting… In five minutes, the fifth has started to resemble the third with its infinitely spawning little demon larvae battling on the plains.
+
+Except the process of evolution here seems to be turbo charged. In no time at all, groups of monsters have started melding together to form larger, more powerful entities, and then going at each other, battling hard, considering they were born only a few minutes ago.
+
+In short, it's absolute chaos, not that I would expect anything less during a wave.
+
+[Alright, Tiny. If you see something get too close to the platform, punch the heck out of it.]
+
+He looks at me, then looks out towards the tunnel, then down at his fist. He points.
+
+[No, that’s too far.]
+
+He points again.
+
+[Also too far.]
+
+Tiny looks sad, then perks up, his bat ears standing straight. He points excitedly.
+
+I sigh.
+
+[I’m going to have to draw a line, aren’t I? Give me a second.]
+
+Using a Gravity Well, I lift myself up and drift out into the tunnel. Small monsters start flopping onto my carapace immediately, but I ignore them for the moment. Using an antenna, I point.
+
+[Anything that crosses this point, you can punch, but only if it’s big enough to look dangerous. If you punch every little thing, you’ll just waste your energy.]
+
+Unlike me, Tiny can get tired. That wouldn’t stop him from completely exhausting himself punching out tiny tier one monsters, though.
+
+[Am I clear?]
+
+He nods, holding up both fists as his eyes dart about, waiting for something, anything to cross the line.
+
+I sigh and drift back, making a quick Fire Domain to burn the invaders off my back before I set down again on the platform.
+
+[You’re here for eight hours before Invidia replaces you, alright? You have to make sure you have enough energy to last your whole shift.]
+
+BAM!
+
+Tiny’s left stabs forward like a lightning bolt, a blast of energy shooting from his fist to strike hard against his target, a tiny, inoffensive creature that had wibbled just over the line I had indicated.
+
+[Tiny….]
+
+He gives me an apologetic grin and a thumbs up before resuming his boxing stance, both fists tucked up under his chin, left foot forward and knees bent.
+
+Well, I’ll be checking on him pretty regularly, so he should be fine. I’ll leave him to his business. At least these new monsters don’t seem as offended by our presence as the old, corrupted ones were. Those nasty things would run at us headfirst the moment they saw something that wasn’t fouled by the infection that created them.
+
+I probably shouldn’t say that, it’s way too early to make assumptions. With the added fuel of the wave, tier four and five monsters are going to rise from the muck extremely quickly. I’ll be interested to see what they’re like, how intelligent they are and how they feel about us being here.
+
+For now, though, the defense is on.
+
+Frankly, it should be pretty easy here. It’s out on the fringes, where the Colony’s land butts up against the areas still held by the Krath, that I’m worried about. Vibrant, Sarah, Brilliant and Solant are concentrating their efforts up there for the most part, leaving me and the gang here to make sure nothing from the sixth gets past us.
+
+I leave Tiny to his work and head back inside the fortress where Crinis and Invidia are waiting.
+
+[Are you sure he’s going to be alright, Master? He can be… unreliable… sometimes.]
+
+Crinis blobs onto my back while Invidia flutters over and lands next to her. I keep heading deeper in, looking for a quiet place to go through my menus.
+
+[Tiny is reliable, he just needs guidance,] I say, confident in the big ape. [I’m willing to bet that by the end of his shift, he will have pushed himself right to the very limit of his strength and be on the verge of collapse, but he won’t have let anything through that he shouldn’t.
+
+[Obviously, it’ll be dangerous if something strong turns up right before the shift change, but Tiny will pull through. He always does.]
+
+I reach back and give them a pat on the head.
+
+[And then it’ll be your turn. Make sure to grind the Skills you need to focus on as much as you can. By the time this is done, you’ll be ready for tier eight!]

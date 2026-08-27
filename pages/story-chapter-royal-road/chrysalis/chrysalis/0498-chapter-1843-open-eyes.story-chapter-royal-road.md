@@ -1,0 +1,89 @@
+---
+id: f90c8c16-18ac-5b54-a5d7-5d9e1801ee96
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1843 -  Open Eyes"
+slug: 0498-chapter-1843-open-eyes
+partOf: chrysalis
+position: 498
+ownLength: 944
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3806865/chapter-1843-open-eyes"
+royalRoadId: "3806865"
+---
+
+Power abounded. An unceasing hurricane of energy that grew, and grew, and grew, ever rising, climbing a mountain to reach a peak that never seemed to come.
+
+Around the sleeping entity, a world of storms raged. Pillars of lightning as thick as buildings coiled like snakes, shattering detonations of sound and light so deafening and blinding as to obliterate normal senses. Winds didn’t howl here, they shrieked. Cutting like blades as they sliced through the dense cloud.
+
+Something stirred, a ripple of awareness that rolled outwards from the entity, transferred to the cloud and spread throughout the realm. Instantly, the swooping, darting hunters, as fast as lightning, as light as air, fled into the outer reaches of the cloud. Petty squabbles and meagre hunts were put to the side—this was a matter of survival.
+
+Kygar was waking.
+
+A creature of raw, elemental power, the Ancient known as Kygar the Stormbringer earned his name through no fault of his own. After all, Kygar did not create storms through any conscious action, they simply existed around him, always, endlessly intensifying.
+
+Rising to alertness was a slow process for a creature that slept as deeply as the Ancient. Gradual and patient, sensation and thought returned one piece at a time. The feeling of the wind. The surging, wild mana. Finally, the sense of self.
+
+In an explosion of lightning that ripped away the boiling cloud, the Ancient came to consciousness and beheld his realm once more.
+
+A powerful mind, long held back by slumber, now expanded outwards like water from a burst dam, flooding the domain of Stormcloud and chasing its inhabitants even further away. They could sense the thoughts of the awakened Ancient, could feel the burning hunger within him.
+
+Yet Kygar was patient, for now. Lazily, he drifted, an unformed entity of elemental majesty, revelling in the feeling of being alive once more, no longer locked in a cage of dreaming.
+
+From beneath his realm, mana surged in an unending flood, rising to suffuse his being and saturate his core before going further, out into the Dungeon above to sustain this world he had been born in.
+
+Mana coiled, a tiny wisp of connection that threaded out to him from beyond the boundaries of the cloud. He allowed the contact.
+
+[Carriflare. I have only just awoken. Why do you trouble me?]
+
+[What trouble? I sought only to greet you.]
+
+Even through the slender contact the Ancients allowed between themselves, Kygar could feel the searing heat, the everburning hunger of his fellow elemental. Never content to burn like coals and embers, Carriflare’s mind was ever hot and raging, seeking fuel to slake its appetite. No doubt it had leapt at this new stimulus, the first to do so since their realms abutted each other.
+
+[I am certain this is the case,] Kygar replied, knowing that there was a great deal more the Everflame wanted to say.
+
+[You are one of the last to wake this cycle. There will be a gathering soon.]
+
+[Odren is awake?] Kygar replied, rippling with a hint of surprise. The Father of Monsters tended to rise after Kygar.
+
+[I tell no falsehoods,] Carriflare replied, temper rising.
+
+[Of course not,] Kygar said. [I am merely a little surprised.]
+
+Drifting, Kygar absorbed this news. Among the last to wake? A gathering? It appeared there would be less time than usual before events got away from him. Planning and reflection would have to wait. Right now, he needed to eat.
+
+Lighting crashed, striking through the cloud in an unpredictable zig-zagging pattern. Crying in alarm, monsters tried to escape, zipping away at the speed of thought. One wasn’t fast enough.
+
+Struck in the core, the creature struggled and fought, deeply resistant to the surging current, yet was overwhelmed just the same. As quickly as the bolt had gone out, it returned, delivering the prey directly to the Ancient, who manifested his gargantuan maw and consumed it in a single mouthful.
+
+It wasn’t enough, not nearly, but for an appetiser, it would do. The stirrings of a renewed strength began to suffuse the Ancient’s form as he digested his first meal in centuries.
+
+[A satisfying hunt?] Carriflare inquired.
+
+[I take no satisfaction in such things. As you know.]
+
+Despite being a similar type of monster at the time of their birth, there was a great deal of difference between the two. Their attitude to hunting being merely one manifestation of their conflicting attitudes.
+
+[Who sleeps still?] Kygar asked.
+
+It was important to know, much would change depending on who still slept and who had awoken. Plans thousands of years in the making were coming to fruition and Kygar did not intend to be caught unawares, nor snared in the machinations of his peers.
+
+[Zothoth. Yarrum. Yolesh.]
+
+So few. The cycle would soon be reaching its climax. Soon being a relative term for an entity of such age. When all nineteen were awake, the Dungeon would be flooded with mana as it had so long ago. Chaos would reign and only the strong would survive. As it had been before, it would be again.
+
+Except, maybe this time, they would find what they needed.
+
+[Have there been any promising signs this cycle?] Kygar asked.
+
+To his surprise, Carriflare snickered.
+
+[Theorazzn was scolded by a monster in the fifth. It threatened to end him when it reached us.]
+
+Kygar paused for a moment in its slow drift.
+
+[A monster from the fifth has gone against the will of Theorazzn? That is unusual.]
+
+[Not for long. I don’t think I’ve ever seen Morribolg so pleased.]
+
+Carriflare went on to explain and Kygar, patient as a gathering storm, listened and planned.

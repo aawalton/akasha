@@ -1,0 +1,77 @@
+---
+id: d482761b-42c5-5704-bfd8-5f8adaea8247
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1708 - Reevaluate"
+slug: 0360-chapter-1708-reevaluate
+partOf: chrysalis
+position: 360
+ownLength: 828
+unit: words
+ownProgress: 828
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857402/chapter-1708-reevaluate"
+royalRoadId: "2857402"
+markedReadAt: "2026-06-29T19:55:19.600Z"
+---
+
+“What are those fools doing out there?” Frederick demanded. “If any of you are planning some sort of hairbrained, idiotic assault, you better tell me right now so I can kick you in the face!”
+
+Before him stood the heads of every team who remained in this section of the Dungeon, but all they gave him were shamefaced looks and sideways glances. Except for Shamus, who raised his hand.
+
+Frederick felt a moment of despair. Even Shamus was planning some idiocy?
+
+“What is it?” Frederick asked, pinching his brow.
+
+“I just thought I should point out, Manager, that nobody will tell you anything if the reward is a kick to the face.”
+
+“Shut up! You think because you’re as rich as the damned Child Emperor that you can start running your mouth?”
+
+More than a few delvers shot envious, or even outright greedy looks at the experienced team leader in their midst, and Frederick immediately regretted his words. Shamus had gotten lucky and now had a tremendous amount of money coming his way, which had painted a massive target on his back.
+
+There was such a thing, after all, as too much money.
+
+“Don’t get distracted, you damned fools,” the Union Manager growled, trying to get back on track. He pointed an accusatory finger at the group. “How many teams do we need to lose haring off to try and seize a prize they have no chance of winning? Dozens of good men and women have been lost trying to do the impossible. I know it’s a lot of money, alright? But damn it, are you pigs in a mud pit or are you flipping delvers? Fighting monsters you can’t beat is for idiots and dead people!”
+
+Too much money… that was the problem here. A tiny fragment of its carapace was enough for a delver to retire and live in luxury for the rest of their life. Even Frederick had been blinded by greed, trying to figure out a way to bring down the beast. Fifty good people vanishing into thin air had convinced him otherwise.
+
+This was frustrating. For him, and for them. The largest prize in the history of delving was out there somewhere, so tantalizingly close they could practically taste it. A devilish creature to be sure, it had laid its bait perfectly.
+
+If Shamus and Elsi had returned with nothing but word of the creature, many would have been tempted, but not enough to try and hunt the monster. However, they had brought back that chunk of diamond and become filthy rich as a result. Now there was jealousy in the air, mixing with the greed and creating a heady mix thick enough to drive people mad.
+
+“Why don’t we all go?” a voice called out.
+
+Frederick whipped around to see Rubia, hand on her hips and stubborn caste to her features.
+
+“It’s the prize of a lifetime. Small groups are never going to get the job done. If we don’t all go, then we won’t have a chance.”
+
+The Union Manager felt a headache coming on.
+
+“Rubia, by the blessed Path and my own wizened mother, what are you talking about? That’s a tier eight mythic! Do you hear me?”
+
+He looked around at the others, glaring at them, daring them to speak.
+
+“Tier. Eight. Mythic. No delver has taken down a prize like that since the Cataclysm! Unless some of you are hiding an Abyssal Legion under your shirts, then you aren’t strong enough to get the job done!”
+
+“The Legion isn’t here, but the Church of the Path might send suppressors, or Green Mountain could rouse the army,” Rubia continued, refusing to be silent. “With their help, we could have a chance.”
+
+“I don’t see them here, do you?!” Frederick roared, losing his temper and throwing his arms in the air. “I’m trying to stop you blasted fools from getting killed. Can’t you see that?!”
+
+Shamus shook his head, and as Frederick glared at the others, they looked away, shuffling their feet or looking up into the air. Only Rubia met his gaze with a thick-headed, stubborn stare of her own.
+
+“Bah! Get out of here, all of you. In a few days, this excursion will be over and we’re all heading back to the mountain. If any of you want to leave the camp, you can forget it! I’ll be handing out no dispensation.”
+
+A few protested, but his blood was up and he ran roughshod straight over them.
+
+“I don’t want to hear it! When you’re ready to act like delvers and not wannabe heroes, then come and talk to me.”
+
+As they all shuffled out, muttering amongst themselves, it was only Shamus who brushed himself off and came to speak with the manager.
+
+“How bad do you think?” Frederick muttered.
+
+Shamus grunted.
+
+“Two thirds will be gone before an hour has passed.”
+
+“Mother’s milk. I’m starting to hate that ant, Shamus.”
+
+“Why? It’s not the monster’s fault.”

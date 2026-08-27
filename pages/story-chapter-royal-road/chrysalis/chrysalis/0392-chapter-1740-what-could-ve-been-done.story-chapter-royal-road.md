@@ -1,0 +1,83 @@
+---
+id: 58a0cde3-5496-553d-8ef6-c6d1f1fdd9b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1740 - What Could’ve Been Done?"
+slug: 0392-chapter-1740-what-could-ve-been-done
+partOf: chrysalis
+position: 392
+ownLength: 1032
+unit: words
+ownProgress: 1032
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3082247/chapter-1740-what-couldve-been-done"
+royalRoadId: "3082247"
+markedReadAt: "2026-06-29T19:56:20.169Z"
+---
+
+Well… this could’ve gone better. It was going well right up until that idiot Priest charged in. I was trying to wear down the troops so they wouldn’t be able to put up much of a fight, but the… let’s go with enthusiasm displayed means a heck of a lot more people than I hoped ended up getting hurt.
+
+Is some of that to blame on me for unleashing a few Starcrushers? Maybe. In my defence, they forced me to… sort of. A giant sword of light appeared over me like I was hanging out with Damocles, for goodness’ sake! I had to do something!
+
+Perhaps I should have restrained my more… explosive instincts, but what’s done is done.
+
+And what’s done is this battle.
+
+With two battalions of troops from the Colony charging in, alongside Tiny, Crinis and Invidia, things come to a rather swift and generally anti-climactic end. Soldiers from the Church seem to want to fight to the bitter end, despite their rapidly worsening situation, but they’re the most tired and drained of everyone present. Some of them are looking straight up dessicated, which makes me think they might need to hydrate a little more.
+
+The spirit may be willing, but the flesh is lacking moisture.
+
+When it comes to the troops who sallied forth out of Green Mountain, they see the writing on the wall a lot more quickly and lay down their arms. Once we reach that stage, it takes another half hour to round everyone up, get things organised, administer medical care and all the other menial tasks that come with winding up a battle.
+
+Which gives me an opportunity to sit and rest a little. After getting the absolute snot beaten out of me for an extended period of time, my system is still flooded with regeneration fluid. All of the superficial wounds are closed over in record time, but some things take a little longer than others. Out of all of my injuries, my carapace takes the longest to repair, given the dense nature of the material it’s composed of.
+
+Right now, I’m covered in a mass of cracks, dings and splits. Some of the blows I suffered were enough to get all the way through, leaving deep rents that are still being healed from the inside out. Even with the absurd abundance of healing fluid and the support of my inner carapace plating, the amount of damage I sustained is still a little worrying.
+
+Then again, I did let ten thousand people try and beat me up without fighting back, so… everything is relative, I suppose.
+
+Despite the depth and breadth of the injuries, the regeneration network is going to take care of them before long. As far as stress tests for the power of this particular organ, things couldn’t have gone better. Mutating it to +15 has made the thing even more ridiculous. I can’t imagine what it’s going to be like at +40.
+
+Gweheheheh, will I ever be defeated?!
+
+Well, I shouldn’t get ahead of myself. If I took a Singularity to the face, I’m pretty sure I’d be cooked there and then. Since I can cast something that powerful, it would be stupid to assume that nobody else can.
+
+“Eldest, are you alright?”
+
+Victor emerges from the bustle around me and skitters up to my side, apparently having come down to take over for Sloan. She’s in her element organising things on occasions like this, putting everything in its place and ensuring things are running smoothly.
+
+“I’m fine,” I tell her. “Surprisingly fine. Things could have gone better, but I can’t complain on my end.”
+
+“I must apologise for the way things went, Eldest. We should have anticipated that some might become too enthusiastic and break ranks.”
+
+“Victor, please. We both know who is to blame for that mess, and it sure isn’t you.”
+
+“We should have predicted it.”
+
+“How is anyone supposed to predict what that maniac is going to do?” I say, clacking my mandibles with derision. “I’ll have strong words for the Priest when we get back to the nest. For now, just make sure he’s weeping somewhere away from me.”
+
+Because he is weeping. Still.
+
+“As you say, Eldest. In the meantime, what would you like us to do with the captives from Green Mountain? Are we taking them with us?”
+
+I consider for a moment.
+
+“No, I don’t think so. Let them go. That should soften the blow for them a bit, make them more likely to pay up for the second round of captives.”
+
+“Are you sure, Eldest? That seems… generous.”
+
+It probably is, but all things considered, I’m hoping they’ll see the futility of conflict with the Colony and not be so mad they launch war no matter the cost. With all of these soldiers able to give a first-hand account of how hard it is to kill me, that should settle down the ambitions of the delvers trying to claim the prize. At the same time, it should throw a bit of water on anyone who wants to escalate the conflict. Two birds, one stone. Efficiency and all that good stuff.
+
+“We have more than enough captives to deal with,” I point out, “and not much time to move them all. All of these Church troops are going to fill up our holding cells as it is. Hopefully we can collect the ransom for them sooner rather than later.”
+
+“Ah, that reminds me, Eldest. We did find someone amongst the captives that we thought you should know of.”
+
+That catches my attention.
+
+“Oh? Anyone I know?”
+
+“You did meet once, I believe. Priest Beyn has at least proven useful in this respect, and helped us to identify a non-combatant that was present for the battle. Grand Priest Alir Vinting.”
+
+Grand Priest… Alir Vinting?
+
+Hmmmm. That name is stirring something. I feel a tremor, a vibration, a faint whisper of darkness coming from the lightless chamber in the recesses of my mind. The place where the Dark One resides.
+
+Such a disturbance can only mean one thing: Grand Priest Alir Vinting did something bad, and I’m going to find out what it was.

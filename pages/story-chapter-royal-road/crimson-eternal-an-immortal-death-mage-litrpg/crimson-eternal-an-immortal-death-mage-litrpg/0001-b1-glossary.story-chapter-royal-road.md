@@ -1,0 +1,137 @@
+---
+id: c93ea775-c539-53fa-afaf-1336d495bb21
+page-type-slug: story-chapter-royal-road
+title: "B1 | Glossary"
+slug: 0001-b1-glossary
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 1
+ownLength: 1036
+unit: words
+ownProgress: 1036
+publishedAt: 2024-01-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1461459/b1-glossary"
+royalRoadId: "1461459"
+markedReadAt: "2026-06-29T19:05:51.535Z"
+---
+
+Vortel
+
+Description: The World of Vortel is a world where one tenth of the population will be born with an ability. These ability users are classified in two different ways. Special Class Ability Holders, or SCAH, who have a unique ability that no one else has ever had before, and Regular Ability Holders, or RAH.
+
+The abilities come in various different classifications:
+
+Physical: Physical Ability Holders gain an increase to their body in some physical manner such as superstrength or speed.
+
+Magical: Magical Ability Holders gain the ability to use one magical element and gain a mana pool to go along with the element.
+
+Special: Special Ability Holders are the in between. The abilities that cannot be classified in the other two classifications but are still abilities. These can include a hybrid of Physical and Magical, or neither. Some examples include the ability to use a single powerful attack, the ability to set yourself on fire but feel no pain and take no damage, or the ability to nullify abilities. But these abilities do not give the user any mana to use.
+
+There is only one continent on Vortel as all of the others have been destroyed over the years through war, leading to the Great Acclaims being established, banning the use of strategic abilities and strictly enforcing it within both nations to lock down any person with a strategic level ability and restrict the use of their ability.
+
+Aran
+
+Description: The continent of Aran houses the Albarian and Arterian nations, both of whom have been at war for as long as either side can remember. The Albarians want the gold and metals that the Arterians have, and the Arterians want the fertile land that the Albarians have. And neither are willing to share with their eternal enemy.
+
+Albaria
+
+Description: The Albarian nation treats its soldiers generally well, but if a soldier has a bad officer in charge of them they will not have a good life. The people flourish with food and water, but are lacking in the technology department as opposed to Artaria.
+
+Ruled by a council of governors with a political emperor figurehead who has little power.
+
+Ability Holders are required to enlist into the military within four years of graduating from lower education, by the time they turn 22 years old. They are also required to attend special classes to help them learn how to control their ability during their education.
+
+Albaria has a smaller population and less land, with fewer Ability Holders. However, their Ability Holders often end up being higher quality than the Arterian Ability Holders.
+
+Trade from Arteria is illegal.
+
+Military Rankings:
+
+Private
+
+Corporal – Can directly command during battle up to 3 subordinates.
+
+Sergeant – Can directly command during battle up to 10 subordinates.
+
+Warrant Officer – Can directly command during battle up to 20 subordinates.
+
+Second Lieutenant – Can directly command during battle up to 50 subordinates.
+
+First Lieutenant – Can directly command during battle up to 100 subordinates.
+
+Captain – Can directly command during battle up to 200 subordinates.
+
+Major – Can directly command during battle up to 500 subordinates.
+
+Lieutenant Colonel – Can directly command during battle up to 1000 subordinates.
+
+Colonel – Can directly command during battle up to 5000 subordinates.
+
+Major General – Can directly command during battle up to 10000 subordinates.
+
+Lieutenant General – Can directly command during battle up to 20000 subordinates.
+
+General – 9 Generals in the army
+
+Arteria
+
+Description: The Arterian nation treats its soldiers poorly unless they are nobles or Ability Holders. The people often are lacking in food and water, albeit still with enough to live off of even if it doesn’t necessarily taste good, but have a higher level of technology than the Albarians have.
+
+Ruled by an Emperor with absolute power.
+
+Ability Holders are required to enlist into the military right away after graduating from lower education. They are also required to attend special classes to teach them how to control and fight with their ability during their education.
+
+Artaria has a larger population and more land, with more Ability Holders. However, their Ability Holders often end up being lower quality than the Albarian Ability Holders.
+
+Trade from Albaria is illegal.
+
+Military Rankings:
+
+Private
+
+Corporal
+
+Sergeant
+
+Warrant Officer
+
+Second Lieutenant
+
+First Lieutenant
+
+Captain
+
+Knight
+
+Major
+
+Colonel
+
+General – 4 Generals in the army
+
+Emperor and the rest of the Royal Family
+
+System
+
+Description: The System is an instinctive defense mechanism on every single planet in the universe, and it activates when invaders arrive to attack the planet.
+
+Class: A Class is automatically assigned to every user based on their natural ability and talents. Leveling up their Class will give them skills that will benefit them in further accomplishing what their Class requires along with possible physical or magical enhancements to their own body.
+
+Ability: An Ability is whatever ability the user was born with.
+
+Level: A user’s level is increased by doing the action that their Class centers around.
+
+Planets are tiered based on various factors including but not limited to the size of the planet’s population, the number of Ability Holders they have, and the power of the Ability Holders on the planet. And they are rated between Tiers Alpha, Beta, Gamma, Delta, and Epsilon, with Alpha being the highest.
+
+Abilities are divided into five Classes or Categories, the term varying depending on the culture classifying them.
+
+Category 1/Class D
+
+Category 2/Class C
+
+Category 3/Class B
+
+Category 4/Class A
+
+Category 5/Class S
+
+Note: If you are reading this on a website that is not Royal Road or on my Patreon, you are reading a pirated version and that website does not have the permission of the author to host the story. Please instead read the story on Royal Road, here, as it is completely free to read on Royal Road. And the only Amazon Author that I will be posting this story as is the one that I posted all of my other stories through, as Shane Purdy. If this story is found published on Amazon by someone other than me, and you see that the story is not from the following Author page, it was stolen and posted without my permission on Amazon.https://www.amazon.com/stores/Shane-Purdy/author/B09NRTM1J6

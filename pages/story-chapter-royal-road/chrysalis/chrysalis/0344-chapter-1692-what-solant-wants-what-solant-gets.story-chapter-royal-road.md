@@ -1,0 +1,73 @@
+---
+id: b9541080-a178-5ca2-99c8-f487ad85789d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1692 - What Solant Wants, What Solant Gets"
+slug: 0344-chapter-1692-what-solant-wants-what-solant-gets
+partOf: chrysalis
+position: 344
+ownLength: 1017
+unit: words
+ownProgress: 1017
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2793378/chapter-1692-what-solant-wants-what-solant-gets"
+royalRoadId: "2793378"
+markedReadAt: "2026-06-29T19:54:49.037Z"
+---
+
+“Isn’t it obvious?” I say waving an antenna. “I’m heading to the fourth and dealing with those chumps who’re sniffing around our territory. Our siblings are in danger of being captured! Haven’t you heard?”
+
+“Yes, of course I’ve heard about it,” Solant says calmly, “but why are you going to deal with it? So far, the delvers have failed to capture a single one of us. They are hardly a threat. Meanwhile, we are battling the Krath on multiple fronts right here in the fifth. We need your help.”
+
+An ant has no facial muscles, and is therefore incapable of frowing… or having any expression at all, but you’d be amazed what you can communicate with antennae. I wave them in a pattern that suggests ‘what the heck are you on about, you nutter?’, while prodding Solant and her crew to start moving up the tunnel.
+
+“I haven’t got all day, let’s skitter and chat. Come on, get moving.”
+
+It takes a bit of prodding, but I get them moving and start crawling along behind them. This tunnel really is a tight squeeze.
+
+“Are you struggling against the Krath? How bad is it?” I ask.
+
+“So far, we are holding on,” the general replies. “We’ve made progress and our territory has expanded greatly, but the further we go, the more Krath come to fight us, the more area we have to defend. The fighting is intense. It didn’t help that your guardians refused to be too far from your side during your evolution, so we’ve been without their strength as well.”
+
+“So… what? You want me to ignore the situation in the fourth stratum and get straight into the fight down here? Is that what I’m hearing?”
+
+Solant remains calm in the face of my rising irritation. Cool and collected, she is, as ever, a logical, unruffled calculator and decision-maker.
+
+“I am in no position to tell you what to do, Senior,” she tells me. “I only ask that you prioritise our area of greatest need. So far, we have lost nothing and no one to the delvers in the fourth. Every minute there are casualties in the fifth. Allowing the capture of our siblings in the fourth would be tragic, allowing the capture of our siblings in the fifth would be catastrophic for all of Pangera. It is clear where you can serve the most good.”
+
+She isn’t wrong, not in the slightest. The logic is fairly unassailable, I can’t deny that, and I certainly have a bone to pick with the Krath. Staying here and heading straight to the frontlines to smash slug faces in is undoubtedly the correct thing to do. But I’m not going to do it.
+
+“Solant, one of our sisters was taken by the Church of the Path, you know that, right?”
+
+“I do.”
+
+“And you know what happened to them?”
+
+“I do.”
+
+Of all the ants in the Colony, I feel like I’m the one who knows the little general best. It’s almost impossible to know what she’s thinking and feeling at any given moment. Difficult to read, even for an ant, Solant keeps her cards very close to her thorax. Yet, despite her reserved nature, I know she feels a deep sadness and anger when she thinks of the sibling we lost in the Twin Cities.
+
+“I swore that would never happen again. Not even a single time. It shouldn’t have happened once, I’ll be dead and eaten by centipedes before I let it happen twice.”
+
+I clack my mandibles fiercely, the sharp crack echoing through the tunnels and setting the loose stones around us trembling.
+
+“Never again, Solant. I don’t care what else is happening around the Colony, I refuse to allow anyone to use my family that way. The simple fact that they are trying is enough to make my blood boil and my carapace burn. If they actually succeeded, I would crush their mountain flatter than a pancake. I intend to put so much fear into them they won’t make another attempt for a thousand years.”
+
+My inner fury is starting to show in my pheromones, and no one else says anything as I speak my mind.
+
+Solant is right, but I don’t care about being right. The mere thought of a sister of mine suffering through that pain, being consumed in such a foul and evil way. I can’t stand it.
+
+Green Mountain should be praising the skies and kissing the ground for their incredibly good fortune. If they had taken a single member of my family, there would be no going back for them. The Silver City might be out of my reach, but the Green Mountain is not. I’d pull every ant out of the fifth for the assault if I had to. Some things simply cannot be borne.
+
+“I’ll be back to help in the fifth as soon as this is dealt with,” I assure the little general. “Think about where you want to use me. I think I’m going to be a lot more effective against the slugs than I was before. But you’re going to have to wait.”
+
+There are a thousand thoughts and schemes behind the many lenses of Solant’s compound eyes. She wants to say something, she wants to persuade me, but I can see her realise that there’s no point and her energy would be better spent elsewhere.
+
+“If you must do it, make sure you do it right, Eldest,” she tells me. “You may never rise this high in the Dungeon again. Make sure they get the message, so even if you aren’t here, they’re too scared to come back.”
+
+She points an antenna as we come to the end of the narrowish tunnel.
+
+“Go that way and you will find the path up to the fourth. Good luck.”
+
+So saying, she’s off. I’m not surprised, she’s got places to be and things to do. Come to think of it, so do I, especially with this hook in my guts. It gets worse every step.
+
+Turning, I head up the tunnel and move toward the fourth.

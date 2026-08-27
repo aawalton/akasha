@@ -1,0 +1,59 @@
+---
+id: abb87b8b-7c90-5d29-bbb5-4858fb42af86
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1783 - Awkward Clash"
+slug: 0435-chapter-1783-awkward-clash
+partOf: chrysalis
+position: 435
+ownLength: 999
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3335369/chapter-1783-awkward-clash"
+royalRoadId: "3335369"
+---
+
+A fight between two powerful monsters is supposed to be epic and exciting! What’s with this lame engagement? Not wanting to get entangled by the creature approaching me, I skitter back, only to remember that the absurdly potent and toxic mucus has spread to cover the entire width of the tunnel behind me. Bubbling fiercely, it’s still melting everything it touches and filling the air with an acrid stench that stings my antennae. So, I guess I’m not backing up that way.
+
+If my legs were in better shape, I’d just run past this thing and leave it in my dust, but that isn’t going to happen right now.
+
+Lousy Krath! Always trying to be clever. They’re still out there somewhere, watching to see how this all goes, no doubt hoping I get eaten by this weird anemone monster. Well, it’s not going to happen! I still have an active Gravity Well, I’ll use that to lift myself up and soar to safety!
+
+As I begin to do just that, I find the creature appears to have sensed the dense mana hanging over my head and is reaching for that as well. Hey! No! Tsss! Tsss!
+
+Thankfully I can move the Gravity Well at will, so I can swing it out of the way and lift myself up. I’m not especially fast while floating, but neither is my opponent, so it doesn’t seem to be too much of an issue. I move to the side and try to angle around the monster rather than out over the acid and closer to the Krath. Knowing my luck, this thing will be somewhat immune to the stuff while it’ll instantly melt whatever I put in it. Typical.
+
+As I thought, the weird, spongy, tentacle-covered monster isn’t fast enough to catch me as I drift out of its reach and start to make a wide circle around it. Hah! Take that, you mobile seaweed-impersonator! If you’re going to be this easy to escape from, why would I even bother fighting you at all?
+
+If this was the Krath’s idea of a backup plan, then they’re slipping. Not even a problem.
+
+Which is, of course, the moment I realise that something bad is about to happen. When it comes to being sneaky pains in the thorax, the Krath never slip, it’s the only thing they’re good at. Secondly, this thing is a high tier powerhouse in a stratum that is exceptionally difficult to survive in. There’s no way it’s this easy to get away from.
+
+As soon as the thought occurs to me, I rip energy out of the Well, expending it quickly to fling myself away down the tunnel while my minds spin furiously. Half a second later, my antennae blaze with warning and I release the Well entirely, letting myself drop down to the ground.
+
+Obviously it’s not that easy to escape from this thing! It’s highly evolved, which means a heck of a lot of hunting and fighting.
+
+Just above where I had been a moment ago, a bubble of black sludge pops into existence, and a second later, wiggling, pale-green cilia emerge from it, lashing at the space I had just occupied. Not finding me, they continue to extend outwards, sensing my core as they seek to eat the precious energy.
+
+Holy moly!
+
+Pushing myself, I skitter to the side, my minds spinning as I blast the bubble with Dragon’s Breath, hoping to boil it away. I have… mild success, doing some damage but not enough to overcome the forest of waving tentacles that emerge to welcome my flames and eat the mana within.
+
+So this thing can summon a… bubble portal around itself? Great! Just great! I’ve really got to stop underestimating it just because it appears slow. Doubtless it has even more tricks up its sleeve that haven’t been revealed so far. I have to be cautious, play the fight carefully.
+
+I have to say, though, this sort of fighting strategy is downright annoying! Is it really trying to inflict mana starvation on me? I assume that’s what it’s trying to do, drain out all the mana in my core to leave me gasping on the ground, unable to move, unable to fight and wracked with horrible pain. Presumably it then eats me.
+
+That’s… so nasty! Cowardly, mean-spirited and downright scary to boot! Sheesh, I wish I’d thought of it. Really takes the risk out of fighting in the Dungeon if you can turn any opponent into an immobile blob. Well, no use crying over spilt evolutionary energy, I need to come up with a solution.
+
+Wary of another bubble being summoned at any time, I keep my weight low and skitter from side to side, not pushing my speed, but staying in constant motion. If it tries to trap me again, I want to be mobile and ready to get out of trouble. For now, the creature continues to wobble towards me, eager to close the distance.
+
+I am not keen to get much closer, but I need to do something. Deciding to try my luck, I open my mandibles and prepare to unleash an empowered Starcrusher.
+
+Using the power of the Altar takes this chomp attack from devastating to comically disastrous. Even without getting close, I’ll be able to inflict massive damage. However, as if it senses what I’m up to, a black bubble pops into existence just above me, setting my antennae to blaring.
+
+Yikes!
+
+Aborting the chomp, I roll to the side and put on some moves, getting a little distance as the cilia emerge once more, trying to latch onto me. The monster itself continues its wibbling movement towards me, radiating a potent, smug energy.
+
+That was fast, way too fast. I’d barely locked open my mandibles before that bubble was done forming. Did it guess what I was going to do? Or does it have predictive capabilities similar to mine?
+
+The more I fight this thing, the more I hate it.

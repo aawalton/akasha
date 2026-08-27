@@ -1,0 +1,81 @@
+---
+id: 0bcf3d6c-ec9e-513a-8039-43882e40cb20
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1689 - Words of the Council"
+slug: 0341-chapter-1689-words-of-the-council
+partOf: chrysalis
+position: 341
+ownLength: 940
+unit: words
+ownProgress: 940
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2778954/chapter-1689-words-of-the-council"
+royalRoadId: "2778954"
+markedReadAt: "2026-06-29T19:54:43.229Z"
+---
+
+As the Colony expanded, it wasn’t possible for the Council to be involved across every issue, and reliance on them for decision-making would have made the Colony slow, and unresponsive.
+
+Other networks arose organically to make up for the shortfall, and these worked mandible in mandible with organisations like the Antministration to ensure that the decision-making process was transparent and documented, while also based on solid and factual information.
+
+In this way, the role of the Councillors changed. No longer were they expected to ‘be in charge’ of their entire caste, as such a thing was impossible. Instead, they took on projects, led by example, and sought out problem areas that needed to be addressed, ensuring the Colony ran as smoothly as possible.
+
+Respected and given their due deference everywhere they went, the first students of the Eldest have always been a powerful force within the family, acting according to the wisdom that was imparted to them.
+
+-           Excerpt from the private notes of Historiant.
+
+Laughing back and forth, enjoying some Biomass and a few cups of tea, the Council and I have a great time chatting. They all congratulate me on making it through my evolution, which is rather nice of them, and I thank them all for their hard work for the family.
+
+Only after reminiscing, and threatening to thwack them, do they finally concede and start telling me what’s been going on around the Colony.
+
+“Solant has been pushing hard out in the tunnels,” Sloan says. “There’s been two waves since you went to sleep, Eldest, and she used them the same way as before, stockpiling huge reserves of liquid mana to cleanse hearts. The second time around, the Krath still didn’t realise what was happening, and three hearts were taken. Last time around, they realised the danger and fought like heck to prevent it.”
+
+Hmmm. Sounds about right. There weren’t any surviving Krath after the initial invasion, so they wouldn’t have realised Solant’s strategy at first. Clearly they figured it out, though.
+
+“How many hearts did she get after the last wave?” I ask.
+
+I’m worried it was none.
+
+“Eleven,” Sloan tells me. “She was probably disappointed, but I have to admit she was brilliant in her tactical and strategic execution. Outwitting the Krath is anything but easy.”
+
+Eleven? Holy moly. If we keep extending down, I wonder how many we need to get through to establish a route to the sixth…. If we pull that off, the entire world will sit up and take notice. I mean, our achievements so far are already enough, but actually creating and holding a safe path will change Pangera forever.
+
+“That’s impressive stuff,” I say. “So it’s going well?”
+
+The rest of the Council flinches.
+
+“I’m not sure I’d say that…” Tungstant equivocates.
+
+“The invasion of the fifth is sucking up everything the Colony can produce,” Burke tells me bluntly. “The vast majority of new graduates go there, our metals, the Biomass needed to support that many ants, it’s putting other areas of the family at risk.”
+
+“Oh. That’s not good.”
+
+They relax when they hear me say this, and I can only imagine it must have been tough for them. Telling Solant she couldn’t have what she wanted would have put the invasion at risk, but letting her have it has caused problems everywhere else. I can see how they would be reluctant to make the call.
+
+“Well, I’m pretty sure I can fix this problem,” I tell them.
+
+“How?” Victor asks. “Are you going to limit the supplies to the fifth?”
+
+“What? No. I’m going to go down there and win the war. Once we conquer the place, we won’t need to worry, right?”
+
+At least conquer a chunk of it. With the Krath weakened, I’m sure there are other empires in the fourth who would love to take a slice out of the slugs.
+
+“Besides,” I say, turning to Theresant and Florence, “don’t we have these super-powerful cleansing snails on our side? Are they helping the invasion?”
+
+“Absolutely not!” Theresant declares hotly while Florence tries to shush her. “They’re just children, Eldest! Hatchlings!”
+
+She seems… very passionate about this. I look to Florence for an explanation.
+
+“Solant has been asking for them to help the wuffers for… some time,” she says apologetically. “Theresant… and me!” she declares quickly when her sister glares at her. “The two of us have been reluctant to let the chal out. They aren’t monsters, so their growth cycle is much longer than ours. Despite showing unusual wisdom and intelligence for such young beings, they aren’t ready for the horrors of the fifth.”
+
+“I’m not sure about that,” I say. “If they can sing the poison of Theorazzn out of me, they can sure as heck sing it out of a tunnel. I might drop in and have a look at them myself.”
+
+Putting children in harm’s way isn’t something I’m keen to do, but if they can help fight the fifth in relative safety, I’m up for exploring the options at least. Theresant is extremely displeased and proceeds to give me the stink-eye, but I can live with that.
+
+“More importantly, there’s something else I want to ask about.”
+
+My dreams are very hazy, I can’t remember much of what I saw when I was evolving, but one of them has come back to me quite strongly.
+
+“Coolant said something about trouble on the border in the fourth?” I ask, clacking my mandibles together. “Something about our neighbours and the Church of the Path? I really want to hear more.”
+
+Everything else can wait. This is my first order of business.

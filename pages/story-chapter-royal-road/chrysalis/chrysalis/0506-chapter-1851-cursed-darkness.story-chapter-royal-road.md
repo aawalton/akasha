@@ -1,0 +1,125 @@
+---
+id: ae823791-b575-530d-9648-62545b9e213c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1851 - Cursed Darkness"
+slug: 0506-chapter-1851-cursed-darkness
+partOf: chrysalis
+position: 506
+ownLength: 1283
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3861596/chapter-1851-cursed-darkness"
+royalRoadId: "3861596"
+---
+
+Known to many in the Colony as ‘The Shadow’, Crinis, as her Master named her, has always served in her own way. Often, that has led to… unexpected consequences for the family, but her oftentimes fanatical devotion to the Eldest and, through him, his family, has always been her guiding light.
+
+-           Excerpt from the private notes of Historiant
+
+Yes. Yessssss. They were drawing closer, and Crinis could not be more delighted. Her limbs twisted and writhed, eager to inflict punishment, to inflict pain, to inflict… justice.
+
+Her Master had declared that this platform, and this fortress would be protected, so Crinis would protect them. With extreme prejudice.
+
+The line that had been drawn before Tiny’s shift was… not exactly the same as it had been, mostly due to the fist- shaped craters smashed into the rock, some of which were still smoking and crackling with latent electricity. As a result, Crinis was free to exercise a little more judgement when it came to which monsters were fair game and which weren’t.
+
+Freedom she exercised as frequently as she could.
+
+No longer tormented by the acrid environment of the fifth, which ate into her shadowy flesh extremely quickly, she was now able to extend her limbs out beyond the platform without worry. In fact, she could leave the platform entirely if she wanted to, and on this occasion, she did, sinking down into the shadows, her body slipping from one reality and into another.
+
+Saturated with her Shadow Mana, every patch of darkness became a door, and in that strange and lightless realm, Crinis became an all-seeing being, her reforged Eye able to see the absence of light in all directions, all dimensions. As she extended her power, weaving into the shadows of the tunnel, they too became open to her eye and she peered through them, hunting for her prey.
+
+There they were… insufferable… ignorant. Mere beasts daring to snuff around the family that her Master had built. By extension, her family.
+
+FILTHFILTHFILTHFILTHFILTHFILTHFILTH!
+
+Within the shadow, Crinis writhed, ten thousand limbs twisting and gripping, trembling with anger. She only needed to wait a little longer. A little longer and they would be close enough to the line that she could justify acting to herself.
+
+After all, she would never disobey an order from the Master.
+
+It wasn’t threatening, not really, just a pack of monsters that had grouped together into a single entity as these new spawns were liable to do. Hardened, spiky, it wasn’t like most of the fleshy monsters she had seen so far, but that didn’t mean it wasn’t vulnerable to her powers.
+
+The moment it drew near enough, Crinis grinned three malicious grins as she rose out of the darkness like an avenging angel.
+
+Her body unfolded. From , from a small ball no larger than a human, she grew, expanded, more and more limbs separating from the mass until they filled the tunnel around her. Not that any could see it.
+
+The Light Annihilatorion Gland activated, sucking in any and all illumination and consuming it, gnawing on the cursed luminescence and breaking it down, converting the energy to yet more darkness. Crowned with shadow, Crinis revealed the core of her form, three maws open wide, ready for the feast.
+
+It sensed her coming, because of course it did. The creatures here in the fifth were sensitive, most of them not relying on crude organs like eyes to observe the world around them. Either detecting her mana, or as Crinis suspected, her flesh itself, it turned towards her, bristling with bony protrusions.
+
+Almost tenderly, Crinis reached towards it from nearly almost every direction at once, in no hurry to end the conflict. At the tips of her most precious limbs, the Soul-Seeker Cilia glittered, ready to invade and conquer the creature’s mind.
+
+Shards of bone fired from the monster, soundless and without warning. Hardened spikes ripped through her limbs, punching holes in her flesh that began to ossify and harden immediately. Unfazed, Crinis simply detached the affected limbs. There , there were plenty more where those came from.
+
+As she drew closer again, the monster repeated the trick, but she was prepared. Her flesh turned translucent, turning from material to immaterial, allowing the bones to slip straight through at the cost of her mana.
+
+Back to material again, she enfolded the monster in her limbs, wrapping it tight and lifting it from the ground. Unhooking her barbs, Crinis began to saw.
+
+She may not be strong, like Tiny, or as good at magic as Invidia, but she was patient, and played to her strengths, striking from the shadows and mastering her Skills.
+
+It took time to grind the creature down, but her reset barbs, forged of Shade Diamond, grew sharper the more darkness they soaked in, and she had fed them a lot of darkness.
+
+When it was done, she dropped the Biomass into her maw and crunched down, starting to fold her body back up again, packing her malleable flesh back into a dense ball before she slipped once more into the shadow. Slowly, the light returned, revealing terrified monsters, traumatised by what they had seen and sliding away from the line while trying not to draw attention to themselves.
+
+Seeing the developing situation as she reappeared on the platform, Crinis sighed, disappointed. How long would it be before they grew brave enough to return, or for new monsters to spawn and creep closer? Too long.
+
+Checking on the clone she had slipped inside her Master’s carapace, she saw that he was still where he had been before. Perhaps he was sleeping? He deserved a rest.
+
+She’d been told she needed to work on her Curse Magic, so she might as well get to it. Pulling together the Construct, she began to curse every monster in range. It would do to occupy the time until they forgot the most important lesson: that Crinis was to be feared.
+
+Name: Crinis
+
+Level: 241 (Rare) (VII)
+
+Might: 250
+
+Toughness: 250
+
+Cunning: 250
+
+Will: 200
+
+HP: 500/500
+
+MP: 660/660
+
+Skills:
+
+General:
+
+Divine Shadow Flesh Manipulation (VI) Level 20; Omega Tremor Sensing (VI) Level 101; Terror Inspiration (VI) Level 44; Nimble Tentacle Walking (V) Level 11; Grandm Master Stealth (V) Level 20; Grandm Master Shadow Shaping (V) Level 71; Master Mental Warfare (IV) Level 35; Grandm Master Target Seeking (V) Level 61; Expert Spying (III) Level 15; Expert Observation (III) Level 10; Expert Tracking (III) Level 9; Advanced Presenceless (II) Level 8;
+
+Mana:
+
+Advanced Mana CraftMana Weaving (VI) Level 22; Grand Finer Divine External Mana ManipulationGripping External Mana Manipulation (VI) Level 38; Advanced DarkAscended Shadow Magic Affinity (VI) Level 36; Layered Mind Magic AffinityGrand Master Mind Magic Affinity (V) Level 71; Master Curse Magic Affinity (IV) Level 35;
+
+Defensive:
+
+Master Tentacle Parry (IV) Level 33;
+
+Offensive:
+
+Grandmaster Grappling (V) Level 56; Grandm Master Shredding (V) Level 11; Horrific Dismembering (V) Level 36; Grandmaster Tentacle Fu (V) Level 67; Expert Shadow Striking (III) Level 10; Expert Mind Invasion (III) Level 18; Advanced Tentacle Strike (II) Level 8;
+
+Mutations:
+
+Senses:
+
+All-Seeing Mana Sensory Gland +30; Shadow Eye (Vanishing Darkness);
+
+Physical:
+
+Efficient Resistant Shadow Flesh +30 (Immaterial); Atomising Ion-Void Maw +30; Unlimited Endless Dimensional Stomach +30; Quad-Legion Tentacles (Darkness Flesh); Hardened Sharpened Diamond Barbs + (Shade Diamond); Ripping Visceral Teeth +30; Immaterial Flesh Generator (Void-Core) +0; Deep-Fathomless Light Sink +30; Hyper Shade Phase Organ +30; Atomising Ion-Void Maw +30; Atomising Ion-Void Maw +30; All-Shape Cell Structure +30; Madness Lingering Soul-Seeker Cilia +30;
+
+Mental:
+
+Symphonic Tentacle Conductor +30; Symphonic Tentacle Conductor +30; Light Annihilator; Clone Mind
+
+Mana:
+
+Expanded Compressing Reservoir Shadow Magic Gland +30; Flesh Conversion Gland;
+
+Species: Dweller in Darkness
+
+Skill points: 84
+
+Biomass: 149

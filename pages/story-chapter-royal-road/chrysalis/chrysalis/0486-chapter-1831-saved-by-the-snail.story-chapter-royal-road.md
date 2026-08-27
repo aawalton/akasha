@@ -1,0 +1,101 @@
+---
+id: 20b6c2ba-36e7-5d8f-9ac6-75060f376c77
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1831 -  Saved By the Snail"
+slug: 0486-chapter-1831-saved-by-the-snail
+partOf: chrysalis
+position: 486
+ownLength: 909
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3735448/chapter-1831-saved-by-the-snail"
+royalRoadId: "3735448"
+---
+
+Dazzled and confused by the soaring song and burst of power, I’m genuinely not sure what is happening as I unleash the Gravity Bomb. Since the mucus is dissolving, yielding to the unbelievable wave of energy conjured by the Pure Core, I don’t even know how much space is going to be between me and the bomb when it goes off!
+
+Suddenly feeling that I might have been bailed by snails, I desperately push my brains and start trying to whip together a Gravity Well. Half-melted and waggling helplessly, there isn’t much left of my legs, but I choose not to eject them, hoping that the abundant healing fluid in my system will be able to sort them out.
+
+I might need some legs soon, perhaps I don’t have to try my luck in a cosmic crusher after all!
+
+Several things happen in very rapid succession. The Gravity Bomb howls into existence, streaking away beneath me, racing towards the still-expanding wave of light from the Pure Core as it destroys a shocking amount of mucus.
+
+All too soon, the bomb wins the race, catching up to the mucus and expanding outwards into a slowly rotating sphere of almost total darkness. Immediately, the savage force of it begins to take effect, pulling in everything within range. From below, that means an absurd amount of thick, highly toxic and virulent mucus begins to rise and be sucked inside.
+
+From above… uh… me, I suppose.
+
+Tiny, half dissolved legs scrabble helpless in the air as I try to pull together a Gravity Well as fast as I can. Despite all the practice I’ve put in, it’s still a complicated piece of magic. It takes time, even with two-dozen individual minds working on it.
+
+Which means there isn’t much I can do as I’m seized by the sphere and start falling into it.
+
+“We’ve got you, Eldest!”
+
+Protectant and the gang materialise, showing themselves latched onto my back, once again forming a daisy chain back to the wall to try and save me from myself.
+
+“How many of you are here?” I ask, boggling at the numbers.
+
+There are twenty of them, but they have four bodies each, which makes an even hundred if they’re all here.
+
+“Eighty. Keeping one as backup.”
+
+“Smart.”
+
+I focus my attention back downwards.
+
+“How likely is it you can survive falling into that mess?”
+
+There really is nothing quite as horrifying as a Gravity Bomb coated in mucus. A beautiful whirlpool pattern of the most hideous and disgusting substance, spiralling into the darkness. Thankfully the bomb is so much closer to the mucus than it is to the cleansed mana up above.
+
+“Hold on!” I yell at my secret defenders.
+
+“Of course we are!” Protectant yells back.
+
+“That’s… that’s not quite what I meant! I meant: be ready!”
+
+“Ready for what?!”
+
+“Oh for goodness’ sake.”
+
+Finally ready, I throw out the Gravity Well and immediately dump almost all of its energy yanking into me back upwards and away from the Gravity Bomb. A Gravity Well is more energy-efficient that a Gravity Bomb, but nowhere near as strong. It makes the job of Protectant and the crew a lot easier, which basically means it isn’t completely impossible now. Winning!
+
+However, that well is going to run out of gas sooner than the bomb at the rate I’m using it up. I’m going to need a plan B.
+
+At this point, the cleansed fluid catches up and starts raining down on my head again, rather forcefully since it's caught in the grip of the Gravity Bomb below. Some of it is going to go to waste, tragically, but by the time it’s finished, the bomb is going to have chewed up ten times as much mucus as it has cleansed liquid mana.
+
+A successful spell! So long as I survive!
+
+“That Gravity Well is about to run out of power!” I yell at Protectant.
+
+“The what?”
+
+“The Gravity Well!”
+
+“Well what?!”
+
+“Gravity!”
+
+“Well gravity?!”
+
+“No, Gravity Well! Are you practicing for some sort of routine?!?!”
+
+“I don’t know what you’re talking about!”
+
+“Just drop me already!”
+
+As the well sputters and runs out of juice, an enormous amount of pressure is put onto the poor ants trying to hold onto me. I have a lot of mass, what can I say?
+
+“We are certainly not going to drop you,” Protectant replies, her mandibles grit tight from sheer effort.
+
+They’re doing a remarkable job holding onto me, digging into my carapace as best they can, but I’m way too close to the Gravity Bomb this time.
+
+“I’m either going in there by myself, or you come along for the ride, and we both know you won’t survive half a second in there, so what’s the point? Let me go, Protectant.”
+
+“We can deplete the energy of the spell using our bodies,” she says desperately.
+
+“That’s dumb, and you know it. When the spell is done, I’ll need you to protect me, and you can’t do that without any spare bodies. Let me go, dammit!”
+
+Maybe my last argument holds some weight, maybe my security guards just lose their grip, unable to hold on any longer. Regardless, they let go, and I am falling.
+
+Ah, Gravity Bomb, this moment could have come so many times since I was reborn. At least now I have a chance of surviving.
+
+I fall incredibly fast, and in a blink I’m sucked into the darkness.

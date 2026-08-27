@@ -1,0 +1,107 @@
+---
+id: 41426eeb-cefa-534d-885f-440ee271a3c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1766 - Defenders Reborn"
+slug: 0418-chapter-1766-defenders-reborn
+partOf: chrysalis
+position: 418
+ownLength: 970
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3241639/chapter-1766-defenders-reborn"
+royalRoadId: "3241639"
+---
+
+We fly through the closing window in the wall of ooze and crash down on the other side in a heavily infected tunnel of nastiness. Immediately my healing network, already fired up from the spear attacks, is put to use as the incredibly dense mana begins to eat away at my carapace, chew at my joints and nibble on the fine hairs that coat my antennae. Thankfully, my eyes continue to be resistant to the damage, so I don’t have to worry about that too much.
+
+Checking on the Pure Core, and yep, it too is vacuuming up the corruption and annihilating it. Which is interesting, now that I think about it. As far as I know, mana can’t be destroyed, merely changed, so the Core can’t be getting rid of the energy completely, it has to be going somewhere. I’m a little suspicious of what the little snails might have done now. Are they feeding on the corruption somehow? Or what it becomes when the Pure Core is done with it?
+
+I’ll have to ask them next time I’m up there. Or… I can try, I suppose. I’m not sure how one talks to a singing snail.
+
+Putting my legs beneath me, it’s time to start worrying about my guards again. I might be perfectly fine here for the time being, but they surely aren’t. Once again, it falls on my carapace to defend the ants who are supposed to defend me.
+
+“Alright then, how are you all holding up? Need some healing?”
+
+Except, when I turn around, I see nothing. Because of course I don’t, they’ve gone and hidden themselves again!
+
+Annoyed more than anything, I reach into the Vestibule to track them down, except, the Will I get from them is kind of… fuzzy. Well, not fuzzy, but… wrong. If what my Vestibule is telling me is true, then not only is Protectant sitting on my back, she’s also running up the wall on my left and scouting ahead.
+
+“Protectant.”
+
+A sullen pause.
+
+“Yes, Eldest?”
+
+“Are you in three places at once?”
+
+“No.”
+
+Hmmm. I check the Vestibule again.
+
+“Are you in four places at once?”
+
+“... Yes.”
+
+“You took one of those super weird evolutions, didn’t you?!”
+
+“It’s not weird,” she says defensively, finally revealing herself to be sitting on my head. I hate when they do that!
+
+“Get off of there,” I demand, swiping at her with my antennae, but as always, she clings tight and manages to avoid my clumsy strikes. If I really wanted to get her off of there, I’d have to exert more effort than I’m willing to expend right now, so I give up, as always.
+
+“This evolution provided several key advantages that overcame the drawbacks in our eyes,” she informs me snippily, settling back into place on top of my head.
+
+“The super weird evolution, you mean?”
+
+“Just because we now have multiple bodies doesn’t make it weird!”
+
+Seems pretty weird to me.
+
+“So, let me get this straight, there are four of each of you? Meaning I don’t have twenty bodyguards anymore, but eighty?”
+
+“There are only twenty of us, but eighty bodies, yes.”
+
+Great.
+
+“And how exactly is this better?”
+
+“Well, for one, this evolution saved our lives by consuming the corruption we absorbed from you.”
+
+Well, I can’t argue against that.
+
+“Thanks, by the way,” I say, a little awkwardly. “I didn’t get the chance to properly show my appreciation for that. You saved my life, literally.”
+
+“That’s what we’re here for,” Protectant says, waving off my sincere gratitude. Sheesh!
+
+“It also helps address one of the major problems we’ve faced while defending you, which is that you have needed to protect us almost as often as we protect you. Now, with these disposable bodies, we can put ourselves in harm's way much easier than before and you don’t need to worry about protecting us.”
+
+“Wait… so I’m just supposed to let you get squished over and over again?”
+
+“As long as one of our bodies remains, we are able to regrow the rest,” she affirms with a nod.
+
+“You grow them?”
+
+“Indeed. They don’t come from nowhere.”
+
+“It’s like… some sort of cell division thing?”
+
+“I don’t know what that is.”
+
+I suppose they wouldn’t…. This all feels, icky. I suppose their evolution took the replication properties of Theorazzn’s mana and manifested it in this new ability. I got the regeneration network, they got this self-duplication thing.
+
+“But… how do you know which body is the main one? The original?”
+
+“There isn’t an original, or a main body. All of them are equally us.”
+
+This is starting to give me a headache. Between this and what’s happened to Leeroy, I’m genuinely not sure who has the most bizarre evolution anymore.
+
+“Well… are you fine out here in the tunnels? Are you able to tolerate the mana?”
+
+“We can. You don’t need to worry about us.”
+
+No elaboration, eh? She’s always been so secretive.
+
+“Alright then. I suppose I don’t have any more questions for the moment. Let’s get going.”
+
+Just like that, she poofs out of my awareness and I’m no longer cognisant of her sitting on my noggin. They seem to have strengthened their stealth ability again along with whatever else they gained in their evolution, or perhaps it’s just the tier seven mutations helping. It’s harder than ever to keep track of them, but thanks to the Vestibule, I can still work out where they are.
+
+Well, if I don’t have to take care of Protectant and her sisters anymore, I suppose that’s a weight off my mind. So long as it all works out and they’re confident they can look after themselves, I can focus on doing what I came to do, which is to smash some slugs right in the face!

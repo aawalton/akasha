@@ -1,0 +1,65 @@
+---
+id: cb74b9be-16c2-5ab1-8dd9-a1783c43a08a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1733 - Up Close and Personal"
+slug: 0385-chapter-1733-up-close-and-personal
+partOf: chrysalis
+position: 385
+ownLength: 856
+unit: words
+ownProgress: 856
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3038473/chapter-1733-up-close-and-personal"
+royalRoadId: "3038473"
+markedReadAt: "2026-06-29T19:56:07.273Z"
+---
+
+Graham had to admit, being up close to the monster was an intimidating sight. No matter how much his experience tried to tell him it was just an ant, that it should be something weak, its presence reminded him that simply wasn’t the case.
+
+Taken by surprise, the creature had reacted with unreasonable speed to the appearance of the Penitent Lances. Even so, he had been pleased to see one strike home. They weren’t easy to conjure, and though his people would gladly pay the price, the War Bishop was reluctant to call upon them to do so unless it was strictly necessary.
+
+Unlike many who were above them in the Church, he would not take them for granted.
+
+Yet, he had hoped that single blow could prove to be significant, only to have his hopes completely dashed upon closing the distance with the monster. It towered over them, mandibles gnashing, tree-sized antennae sweeping through the air as it skittered with unreasonable speed and grace, not letting itself get bogged down.
+
+Careful inspection told him the wound was already closing over, the carapace regrowing over the healed flesh beneath. He’d been told it healed quickly, but that was absurd!
+
+Raising his sacral mace high, Graham gave voice to his overflowing faith.
+
+“LET FLY THE WRATH OF YOUR FAITH!” he roared, then dived into the purple light that swirled around the monster.
+
+In an instant, he could feel the weight pressing down on him, trying to drive him to his knees. He almost dropped his mace, so heavy his wrist ached with the pain of holding it.
+
+Yet it wasn’t so easy to inflict magic upon those who had come to deliver judgement. Graham felt the furnace that burned within him, the flames fuelled by his belief and the Path upon which he walked. Into it, he fed his own life, burning his health with wild abandon.
+
+His skin burned with power as light erupted from within him, driving back the magic of the monster and loosening its grip on him. All around him, he felt his brothers and sisters in Judgement do the same. Behind them, the four thousand soldiers of Green Mountain took up flanking positions, seeking to encircle the monster and firing upon it from a distance.
+
+With a swing of his mace, skill-light exploded from Graham and he brought it in a wide arc, swinging for the ant’s head.
+
+Almost contemptuously, the ant parried the blow, flicking it away with its mandibles, dispersing the light with ease, but a dozen other blows rained down on it at once. To no avail. None were able to penetrate the ant’s carapace, and a moment later, the creature dashed, charging through them, light exploding from its mandibles.
+
+Men and women went flying, blasted back from the power and momentum of the monster, but it didn’t go far. Hemmed in on all sides, it was surrounded by the burning light of the Path.
+
+“LANCE!” Graham roared.
+
+He fed more of his life force to the flame, allowing it to grow brighter, stronger, merging and melding with that of his brothers and sisters.
+
+Others were tasked with accepting and moulding that energy, forming the lances and directing them towards the monster as its momentum stalled.
+
+A dozen spears of light surged towards the beast, streaking away too fast to be seen. Yet, somehow, the creature seemed to react as if it knew they were coming. It twisted violently, far faster than anything that size should be able to move. Despite its best efforts, it was still struck twice. Once close to its head, the other sinking into the joint connecting one middle-leg to its body.
+
+As the ant stumbled, Graham surged, Dashing with all his strength to close the gap, swinging his mace once more.
+
+Then, the ant flickered, vanishing right before their eyes, only to reappear two hundred metres away, soldiers blasted to the side in its wake.
+
+“KEEP UP THE PRESSURE!” he bellowed, and an answering roar echoed off the chamber walls.
+
+Two good strikes. The lances were powerful weapons and weren’t easy to shrug off. Even so, as he swung his mace, Graham could see the wounds were healing even faster than before, the flesh closing and the carapace regrowing the second the lances faded away.
+
+How was it doing this? There were many types of regeneration available to monsters, hundreds were seen in the records of the Church. Every monster who reached this level of power was able to heal itself to some capacity, it was simply a matter of grinding them down, forcing them to heal over and over again until they no longer could.
+
+Graham swung his weapon, fury in his eyes and strengthening his arm.
+
+At all times, the soldiers of the Judgement Battalion were moving, repositioning, adjusting. When some charged in, others were in place to support. When some retreated, more would move in to fill the gap. No matter where the monster went, there were always soldiers attacking in unison, from all sides, at all times.
+
+The monster endured the hail of blows, opened its mandibles wide and chomped.

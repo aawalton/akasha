@@ -1,0 +1,83 @@
+---
+id: 021b1f50-9249-57b3-a7a0-e3c410daa823
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1701 - Hunting"
+slug: 0353-chapter-1701-hunting
+partOf: chrysalis
+position: 353
+ownLength: 1091
+unit: words
+ownProgress: 1091
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2831497/chapter-1701-hunting"
+royalRoadId: "2831497"
+markedReadAt: "2026-06-29T19:55:06.409Z"
+---
+
+There’s something pleasantly sinister about my newly developed stealth method. I can still remember back in the old days when I would huddle against the roof of the tunnel, stealth activated, desperately trying to avoid detection as I moved around in the first stratum. My new technique is a little different.
+
+Using Gravity Magic, I lift myself off the ground, legs tucked up under my carapace, and silently float along, making no sound whatsoever. Meanwhile, my minds are dedicated to hiding every trace of my mana, concealing the power in my core and helping me vanish from mana sense.
+
+I dub it, Ant Submarine Mode! I have become a submarinant!
+
+Gweheheheheh.
+
+Obviously, anyone can just look up and see the giant floating ant, I’m not concealing my appearance in any way, but by the time they can see me, it’s already too late. It’s an interesting experience, going through the Dungeon like this. Monsters go out of their way to avoid me. If they smell me coming, or just catch sight of me, rather than launch out of their burrows in a mindless rage like they did before, they duck their heads, dive into their burrows or slink into the shadows, desperate to avoid being seen.
+
+Obviously, I won’t let this go to my head. Doing so would be dangerous, and risk awakening the dark one. Instead, I allow myself a quiet chuckle of victory as I keep my senses attuned for my real targets.
+
+I’m not out here to track down monsters, after all, I’m here for a more interesting prey.
+
+I’ve left Tiny, Invidia and Crinis back at the nest for the time being. There’s no need for the delvers to get a glimpse of them just yet, but they do need to get a glimpse of me. After all, if I’m hiding in the nest, nobody is going to try their hand at capturing me. I have to be out and about, vulnerable and exposed.
+
+Well, as vulnerable and exposed as I can be when I’m so incredibly powerful.
+
+MUAHAHAHAHA-ahem.
+
+Oh? What’s this? I slow my ominous glide through the air and sit for a moment, antennae waving. Delvers are more competent than I gave them credit for when I first started this escapade. I hate to give them credit, but I’m not too surprised my siblings were struggling against them. Without enough ants, they were forced to operate in smaller groups, perfect targets for the delvers. Excellent at moving through the tunnels and remaining undetected, the delvers are sneaky creatures, deploying an immense number of techniques and methods to remain concealed.
+
+However, they have no idea that they each have their own tiny, infinitesimal gravitational field. So weak as to be effectively indetectable, unless you happen to be a monster specifically evolved and developed to find them.
+
+How many are there? Ten… twenty… thirty… forty? My, my. It seems some quick-thinking individuals put together a team to try and claim wealth beyond imagining before anyone else could.
+
+Perfect.
+
+I begin my forward momentum once more, silently gliding through the air, held up by the gravity well that I maintain with my will.
+
+The golgari did a better job than I gave them credit for. My sub-brains are humming along beautifully, whipping together the mind constructs which are more numerous and more powerful than ever before. Flexing my mental might has never felt this satisfying. Even the hard-to-manage Gravity Mana is like putty in my hands.
+
+Now… at what point are these cowards going to launch their assault? I know you’re there, you little scamps. Is there a trap? There has to be a trap, right? No way forty of you thought you would be good enough to take me on directly. What have you got set up?
+
+As I drift forward, it doesn’t take long for me to find out. Detonations ring out in series, above and below. Light flashes, stone rumbles and the ground gives way below my position.
+
+Not that I care, I’m floating over here.
+
+What’s more concerning is the thousands of tons falling down from above.
+
+Well, I don't really care about that either.
+
+There isn’t enough power in the gravity well to hold up all this stone for more than a few seconds, but that’s all I really need. I drift forward, then unfold my legs and set myself down on the ground while I use the well to hold up the rock.
+
+Once I’m clear, I let the well dissipate and a thundering roar echoes through the tunnel as the stone ceiling collapses behind me. Shards fly everywhere, bouncing off my carapace as the tunnel fills with dust and debris. I half expect the delvers to slink away since their trap has failed to have any effect, but it appears their blood is up, thank goodness.
+
+Spells and swordlight fly towards me through the clouds of dust, and I angle my carapace to deflect the blows.
+
+I have to say, not having to worry about something going straight through my eyeballs and into my brain is a great comfort and makes warding off these blows a heck of a lot easier than it was before.
+
+I’ve been testing these eyes out, and while they aren’t as tough as my carapace, not by a mile, they’re still surprisingly durable.
+
+As the first strikes land, I feel my regeneration network kick in, a trickle of healing fluid flowing through my system. Antennae waggling, I can feel my opponents moving through the dust, can sense their attacks even before they happen.
+
+My body moves on pure instinct, reacting before I have time to think, or even process. Minute adjustments, shifting my position and angle, not letting the strikes hit me straight on, always an angle, always a deflection. I parry a powerful wave of sword-light with my mandibles and charge forward.
+
+My opponents give ground before me, not wanting to be caught in a direct confrontation. Even if I can’t see them, I know where they are, small groups of five or six spaced in a rough half-circle in front of me.
+
+Mana flares from my left and I twist, moving with shocking speed for a monster of my size. A beam of sizzling light spears through the dust cloud, clipping me along my right flank.
+
+Yeeouch! That’s hot!
+
+They try to redirect the beam onto my head, but my mandibles are open wide. Sensing what’s coming, they let the spell fade and try to retreat.
+
+I don’t think that’s going to help.
+
+Starcrusher!

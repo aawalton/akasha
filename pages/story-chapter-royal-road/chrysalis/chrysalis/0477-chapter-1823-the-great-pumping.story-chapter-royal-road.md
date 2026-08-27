@@ -1,0 +1,109 @@
+---
+id: 111ba6d7-b6a6-520f-b6d7-a574e3f0f17c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1823 - The Great Pumping"
+slug: 0477-chapter-1823-the-great-pumping
+partOf: chrysalis
+position: 477
+ownLength: 1038
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3587219/chapter-1823-the-great-pumping"
+royalRoadId: "3587219"
+---
+
+As it turns out, moving truly vast quantities of mana over a long distance is a rather complicated affair. Mana is, after all, energy, even in its liquid form, and it has a nasty habit of interacting with other mana even when you don’t want it to.
+
+Every fortress controlled by the Colony holds an enormous reserve of liquid mana, converted by the wuffers and then condensed after being sucked in through the many, many, many intake pipes along the borders of the Colony’s territory. Shipping that energy to the front and using it to flood out new sections of Dungeon was key to Solant’s strategy, so the infrastructure was in place to facilitate that movement. At these volumes though, problems start to arise.
+
+Problems like spontaneous spawn point creation.
+
+Monsters always pop out of dense areas of mana, that’s where we come from. Once upon a time, The Queen was spawned in exactly that manner, born out of pure energy by some twist of Dungeon luck in a section of tunnel with higher than normal mana concentration.
+
+Shifting a decent sized lake’s worth of concentrated mana creates a lot of movement in the nearby energy, creating ripples and whorls that disrupt the otherwise predictable flow. These eddies shift the concentration, causing some areas to thin out, while other areas get dense. Shockingly dense.
+
+Before you know it, pop, a new monster jumps out and starts chewing on the pipes.
+
+Which means a heck of a lot of Dungeon is having to get patrolled. Thankfully there isn’t that much risk and large groups of younger, weaker ants are able to handle the bulk of it.
+
+I myself have been put on patrol in the area where the mana is expected to be at its most concentrated and thus most dangerous: the reservoir.
+
+“Just look at that,” Brilliant sighs, her antennae quivering in excitement. “Isn’t it spectacular?”
+
+I assume I’m looking at the same thing she is, and I have to say, it doesn’t seem that impressive?
+
+“It looks like a whole bunch of fancy tanks arranged in a grid. Some of which are starting to fill up with liquid mana.”
+
+To be honest, it’s a heck of a lot more impressive to my mana sense than it is to my eyeballs. I don’t understand a fifth of the technical wizardry that went into making the holding tanks, but the way they manage to contain and separate the dense rich energy within, energy that blazes to my senses with extraordinary power, is seriously impressive.
+
+“That’s because you lack my imagination, Senior!” Brilliant declares, snapping her mandibles vigorously. She uses a foreleg to grab onto one of mine and issues a wide sweeping gesture across the reservoir with the other. “You see the mechanics and the mundane nature of the scene in front of us. The glass, the metal, the pleasing symmetry and the shiny liquid. What I see… is potential.”
+
+“Potential for what? All of this is going to be used for the assault. If you have other ideas, you should probably put them forward now.”
+
+“Potential,” Brilliant says intensely, “for one heck of an explosion.”
+
+I…I mean…
+
+I’m tired.
+
+“Brilliant,” I say wearily, “do I need to lock you away in Invidia’s mouth again? Just until you lose this… explosive urge to detonate? This was your idea, remember?”
+
+“Bah!” the little ant exclaims, clearly disappointed by my lack of vision.
+
+“What would you even want to blow up? There’s nothing around here in need of detonation that I’m aware of. Certainly not on the scale that this much energy could cause.”
+
+“That’s not the point,” Brilliant declares, throwing up her front legs in frustration. “Don’t you want to see what is possible? To test the limits of the imagination? To push the boundaries of the possible?”
+
+“To blow up millions of members of my own family? No. No, I don’t.”
+
+Brilliant sags down with a sigh, uncharacteristically dejected.
+
+“You’re taking all the fun out of this, Senior.”
+
+“Fun out of what? Did you actually think I would approve some sort of insane experiment with all of this liquid mana? Is that the case? Because if that’s the case, I can see you spending some time in the mouth.”
+
+My antennae twitch as I sense something nearby.
+
+“Wait there,” I say, still cross, “I’ll be back in a minute.”
+
+I move fast enough that when the monster roars to life, tearing itself free of the chamber wall, my mandibles are right there to meet it. Sorry, monster, you were just unlucky.
+
+When I get back, Brilliant is shuffling rocks about between her two front legs, still looking dejected.
+
+“Can I blow up something?” she complains.
+
+“Here? No. You have an entire lab—a series of labs at this point—all there for you to explode. Go back there and play if that’s what you really want. In fact, why are you here anyway?”
+
+“They wanted me to monitor the influx of mana to make sure nothing went wrong,” she mutters.
+
+“Well, isn’t that important?”
+
+“I did the calculations myself,” she retorts, “nothing is going to go wrong, which means I’m wasting my time.”
+
+“Then go back to your labs.”
+
+“They made them explosion-proof.”
+
+“Ah.”
+
+Is it possible to be addicted to explosions? If so, then that’s what we have here, an addict, and she needs a fix. I can only sigh. Taking care of the Champions is always such an effort. Thankfully, Vibrant is currently occupied racing all over the captured territory in the fifth, plugging all the gaps created by the concentration of resources down here. As long as she’s busy and running fast, she’s happy.
+
+“I’ll let you blow up something in the sixth, alright? Try to hold on for a while yet.”
+
+“Excellent,” Brilliant says, jumping back up and looking more like her normal, bouncy self.
+
+Wait a second.
+
+“Did you just act miserable in order to trick me into agreeing to satisfy your idiotic need for detonations?”
+
+“I did,” the little ant declares, quite pleased with herself. “And do you know how I was able to come up with such an ingenious scheme?”
+
+“I wouldn’t,” I warn her.
+
+“Because I’m BRI—”
+
+THWACK!
+
+“.... ouch.”
+
+“I warned you.”

@@ -1,0 +1,87 @@
+---
+id: b416bed7-4163-5583-bc7a-9ff820d4ffd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1690 - Get Ready to Rumble"
+slug: 0342-chapter-1690-get-ready-to-rumble
+partOf: chrysalis
+position: 342
+ownLength: 954
+unit: words
+ownProgress: 954
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2787214/chapter-1690-get-ready-to-rumble"
+royalRoadId: "2787214"
+markedReadAt: "2026-06-29T19:54:45.173Z"
+---
+
+Delvers sniffing around the Colony’s territory, trying to capture members of my family?
+
+Ohhhhhh no. No way, no how. This is not going to fly. I will be putting the foot down on this one, six times.
+
+“Eldest,” Coolant says, trying to be reasonable. “We need to be careful. These delvers are very capable and are working completely legally. If you do too much, it could spark a diplomatic incident.”
+
+“She isn’t wrong,” Sloan tells me heavily. “We’ve tried to negotiate with Green Mountain but they are very anti-monster. They barely tolerate the Folk, have no love for the Mother Tree and absolutely reject us. Operating out of there, the Church and the Union aren’t breaking any laws.”
+
+Trying to be tricky about it, are they? Tricks are nice and all, but they tend to fall short against a direct punch to the face. Still, I understand what they’re driving at. The Colony is pouring all of its efforts and resources into battling the fifth. If we get pulled into another war, it’ll be a disaster.
+
+Even as strong as I am, I can’t be in two places at once. Fighting against Green Mountain will also give an excuse to anyone else who wants a slice of the Colony to jump in the fray. The Church of the Path has been busy whispering and poking, promising elixir and wealth to anyone who will listen, I’m sure of it. From the sounds of things, our trade deals and the wealth being generated are enough to satisfy the greedy for the time being, but who knows how many would join in a crusade to wipe out the Colony?
+
+“Don’t worry, I won’t cross the line. All we need to do is convince the delvers it isn’t worth their time, right? I can do that.”
+
+Gweheheheheh.
+
+Despite keeping my evil laughter strictly internal, the other members of the Council shoot me disbelieving and resigned looks.
+
+Hey! I’m more reliable than you think! Probably! I’m sure I can find a way to vent my anger, keep my family safe and not start any wars. How hard could it be?
+
+The members of the Council are busy ants, and as much as I would like to chat to them all day, they have places to be. In fact, they have a lot of places to be. Most of them moved closer to my evolution chamber so they could be around if any problems came up, which means the top three strata have been without their presence for months on end.
+
+We talk for a few more hours, and it’s lovely to hear news on how they’ve all been going while I slept. Remembering when these whipper-snappers were just little hatchlings and I had to try and teach them not to throw their lives away gives me the warm and fuzzies. Those were simpler times. They’ve certainly come a long way since then. The whole family has come a long way since then.
+
+Eventually they all say their farewells and head out of the chamber, leaving me, Tiny, Crinis and Invidia behind.
+
+The Biomass has been eaten and I’m feeling fairly full, but I can’t be slobbing about and napping when there’s so much to do. I need to get the hang of my new body as soon as I can and get out there so I can fix a few things.
+
+To do that, I’m going to need a little help.
+
+[Alright, gang, time for the crash course. I need you guys to speed me up a bit.]
+
+[How are we doing that, Master?] Crinis asks, while Tiny turns towards me, raising his fist.
+
+[Yes, Tiny has the right idea. For once. The best way to get used to fighting in my new body is to start fighting in my new body. Rather than do it out in the tunnels, you guys can throw a few punches and keep things nice and safe while I get warmed up.]
+
+I turn to Invidia.
+
+[You can help me by fighting for control over ambient mana with me, give my brains a workout. Start slow, then ramp it up over time. Eventually I’ll get a handle on what my minds can handle now.]
+
+[I’m… not so sure about this, Master.]
+
+[Well, that’s too bad, Crinis. I order you to attack me! Gently.]
+
+I’ve seen what Crinis can do when she gets serious. I do not want to see how well my carapace holds up against the buzz-saw tentacles. Not needing to be told twice, Tiny is up and bouncing on his heels, throwing a few shadow punches to warm up his arms, and there is a definite fire in his eyes.
+
+[Go easy to start with, Tiny,] I warn him. [I’m not used to my body y–]
+
+WHAM!
+
+[OUCH! What the heck?!]
+
+I don’t even see the punch coming before it slams into my carapace. Those fists are hard. Grinning ear to ear, Tiny is dancing about on his feet, ready for the next one.
+
+Paying attention now, I notice when my antennae start tingling, my future sight giving me a warning of the coming strike. Rather than fully dodge, I angle my body just so.
+
+Expecting to connect head on, Tiny’s fist glances off this time, causing him to frown and grunt with disappointment.
+
+[Ha! Didn’t see that coming, did you?]
+
+My brains are spinning up, mind constructs taking shape and starting to take hold of the mana around me. As soon as he senses it, Invidia starts to fight me for control, exerting pressure and bringing his enormously powerful mind to bear.
+
+Meanwhile, Crinis is tickling me on the leg.
+
+[Crinis…]
+
+[Y-yes?]
+
+I sigh.
+
+[We need to work on this.]

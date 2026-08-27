@@ -1,0 +1,93 @@
+---
+id: 6328ca22-b0aa-55db-82a2-553f3e96dbad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1773 - The Goods"
+slug: 0425-chapter-1773-the-goods
+partOf: chrysalis
+position: 425
+ownLength: 1417
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3279404/chapter-1773-the-goods"
+royalRoadId: "3279404"
+---
+
+“I find it a little discourteous that you would not bring your offering into the most glorious city on Pangera. It’s almost as if you doubt the genuine nature of our hospitality.”
+
+Merchant could feel the subtle pull of the speaker’s words on her emotions. Calculated, skillful and backed with what was no doubt a powerful build focused on persuasion and diplomacy, enough to influence even a monster. Truly a terrifying entity.
+
+“Ms Wynn, I would never seek to offend an esteemed member of the Merchant Cooperative. Indeed, causing offence is the very opposite of my intentions! I certainly cannot recall any reason for the Colony to avoid the wonders of the Silver City, perhaps you could enlighten me if you can think of one.”
+
+Merchant took a long puff on her cigar before puffing out a neat circle, a little trick she’d been working on recently. It was a neat thing, not important in any way, but she took some pride in her skill. It was something she would continue to develop when she had the time. Humans, apparently, used their ‘lips’ and ‘tongues’ to shape the smoke when attempting tricks like this, but Merchant had access to no such appendages, and therefore, had to get creative.
+
+Looking out over the shining waters that surrounded the Silver City, she had to admit it was a spectacular view. The city shone like a jewel, gleaming as it climbed up the side of the mountain. High above, wreathed in clouds like glittering gold dust, was the capital, the Golden City of the Atreum Empire and home to the Child Emperor.
+
+Such an absurd display of wealth was enough to make her mandibles itch. What sort of profits would she be able to achieve if she got into that city? The deals, the fabulous, fabulous riches, the sheer volume of trade. It was like a banquet laid out on the table, a delectable feast of Biomass right before her eyes, that she wasn’t allowed to touch.
+
+And she was totally fine with that. The Silver City had betrayed the Colony, and they would have their day of reckoning.
+
+“Nothing comes to mind,” said Georgia Wynn with a polite smile above her kind and gregarious eyes.
+
+It was a mask, of course. This was a predator, and right now, Merchant was flopping about within her territory. Enid had insisted that Merchant’s lack of expression was both a weakness and a weapon. She had no need to adopt a mask of her own, her carapace did that perfectly, but her ability to communicate the most subtle inflections was significantly weakened.
+
+“Let us not sit and imagine a grudge that does not exist,” Merchant lied easily, “for that is not what you came for. First and foremost, I should thank you for accepting the invitation.”
+
+“The Brathian Island Conglomerate has become an increasingly important trading partner here in the capital. I was only too pleased to accept when Eran Thouris herself came to speak with me.”
+
+Eran had indeed personally made the trip, insisting that anyone of lesser rank would only be an insult to someone as lofty and successful as Ms Wynn. Even so, Merchant had seen how much she had dreaded the meeting, girding herself as if for battle. Apparently they had lost an enormous amount of money in the exchange, unable to resist the persuasive powers of her opponent.
+
+“We of the Colony certainly wouldn’t want to disturb someone such as yourself unless it was absolutely necessary,” Merchant said, just a hint of her persuasive pheromones touching in the air. Too hard too early was always a mistake, even against infinitely weaker traders. “Yet we happened to come across an opportunity that only someone of your level would truly be able to accommodate.”
+
+A little flattery never hurt, but perhaps she was doing a little much here. Showing no sign of her inner calculations, Merchant took another long puff on her cigar, enjoying the smoky scent and fiery taste.
+
+“I had been led to believe that the Brathian Island Conglomerate had been licensed to conduct all of the Colony’s trade,” Georgia said, a shade coolly. “Should I not be speaking to them about this proposed business opportunity?”
+
+And negotiate with an opponent she had already demonstrated she could soundly defeat. As if Merchant would possibly permit it.
+
+“That is certainly true. For any business originating in the first, second, third or fourth stratum, of course.”
+
+Satrap Umizan had cried bloody tears when Merchant had pointed out the finer details of their contract. Although it technically didn’t specify the stratum on which the brathian were responsible, it did specify existing industries. It wasn’t hard to argue that anything originating from the fifth was something entirely new, and therefore exempt from the agreement.
+
+Merchant stood on the deck of one of the Satrap’s most beautiful ships, leaning against the railing which had been carved into the shape of many different fish found within the lakes, all tail to… snout? Merchant really needed to learn more about fish.
+
+It wasn’t the normal sort of place a member of the Merchant Cooperative would do business. She was certain Ms Wynn was more accustomed to  negotiating amidst palaces, fine dining and wealthy manors than on the gently rocking surface of a ship at anchor, but that didn’t matter. This was a negotiation quite unlike any other.
+
+“So I must indeed negotiate with you? Is that right?” Ms Wynn sought clarification.
+
+She was dressed rather modestly for someone of her fabulous wealth, but for a trained trader, her prosperity was obvious. Her clothes might be of a simple colour, but the cut was as precise as the engineering in a cathedral, the colour so rich the dyes couldn’t be anything other than magical, and her jewellery, while tasteful, was of such a startling quality that each piece caught Merchant’s eyes. Where had she sourced those stones? They weren’t of Colony make, she was sure of that.
+
+Ant crafters were growing in Skill at a steady pace, but that level of fine metalwork was still beyond them. It didn’t help that ants still struggled to see the value of jewellery. A fancy, woven rug with elaborate patterns that depicted beautiful scenes? Sure, it kept the floor from wearing, kept claws and feet warm and could be used to educate. Even decorating a space was something that her sisters understood. Decorating an individual? Less so.
+
+“It is,” Merchant confirmed.
+
+The change was instantaneous as the full force of Georgia Wynn’s abilities were brought to bear, putting an almost physical pressure on the ant Champion, threatening to flatten her into the ground.
+
+Merchant took a long puff, tapping the ash over the side of the ship.
+
+“There’s really no need for that,” she said.
+
+“Why is that?”
+
+“Because it doesn’t matter how much better than me you are at this, and you are much, much, better.”
+
+Ms Wynn smiled like a wolf. She knew exactly how large her advantage was. Even against a monster. Merchant could have shivered. What a beast in human skin.
+
+“You’ll have to elaborate on why that is, because I appear to be left in the dark.”
+
+Merchant clacked her mandibles joyfully.
+
+“Allow me to bring the light.”
+
+She reached down into her pouch and withdrew two wide-bottomed vials, placing them onto the railing. In one, a shimmering golden fluid, in another, a brilliant scarlet as vibrant as the world's heart blood.
+
+“In the first flask, I have a gift for you to deliver to the Child Emperor. It is the elixir that we condensed from a part of a human. They may take it with our compliments. You may also take the human we extracted it from, we certainly don’t want them anymore.”
+
+A pointed rebuke from the Colony. What you have taken from us, we can also take from you. What you thought was something that could only be done to us, we can also do to you. A shattering revelation.
+
+“And the second?” Ms Wynn asked, her eyes burning with intensity.
+
+“Oh, just a little something we found down in the fifth,” she said with a hint of a wink. “It’s the elixir of everlasting life, capable of reversing the ageing process you mortals have so much trouble with. I have a certificate here signed by three Magio Scholars of the Tower certifying its efficacy.”
+
+She grinned an ant grin.
+
+“I’ll be here tomorrow to accept your offer. See you then.”

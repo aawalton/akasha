@@ -1,0 +1,113 @@
+---
+id: 152768c1-03ba-5bcb-862c-02afa705d823
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1730 - Monstrous Weight"
+slug: 0382-chapter-1730-monstrous-weight
+partOf: chrysalis
+position: 382
+ownLength: 1208
+unit: words
+ownProgress: 1208
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3026661/chapter-1730-monstrous-weight"
+royalRoadId: "3026661"
+markedReadAt: "2026-06-29T19:56:01.480Z"
+---
+
+The War Bishop stood with his troops, shoulder to shoulder with the men and women he slept, ate, trained and fought beside. Not all of them would survive the day, but that was the price that needed to be paid, and all were willing to pay it.
+
+Sacrifice was the brick and mortar that lay the foundation for the Path. Such had it been since the time of Ascension, so it would be until that time came again.
+
+Divided on the left and right flank were the soldiers provided by Green Mountain, each led by one of the Marshals, with the Judgement Battalion forming the righteous centre. Together, they formed a mighty and indomitable wall that the ant would be forced to overcome if it wished to be victorious.
+
+Doubtless it would try to suppress them using the magic described by those that had been captured, a terrible weight that crushed them into the ground, or lifted them into the air, leaving them helpless. Graham would not have brought his people into the Dungeon if he wasn’t prepared to counter such a spell.
+
+If they were able to withstand that pressure, which they should, then the monster would have no choice but to fight them directly. The army it brought with it would complicate matters somewhat, but that was a challenge that Graham was confident they would meet.
+
+After all, he had been trained from childhood to battle monsters. A few ants and humans couldn’t hope to stand against him and his brethren.
+
+Close to the Dungeon entrance below the city of Green Mountain, the tunnel was very open, well over a kilometre wide and easily several hundred metres high. It was an ideal staging ground for a large force heading into the depths, but also a good place to fight a battle.
+
+It didn’t hurt that the ants would be forced to approach from downhill, giving the high-ground advantage to Graham and his forces. Not that he expected that advantage to amount to much. A roof was just another type of floor to an ant, after all.
+
+As the giant ant approached, Graham could feel the zealous purity of his faith begin to burn within him, growing brighter and brighter with each passing moment. He knew that all of those alongside him would feel the same, their Classes aligned with their faith, after all, and gave rise to a power that was greater than themselves.
+
+In the distance, something changed, causing all nine thousand troops to tense as the ant slowly rose up into the air, still drawing closer, but no longer walking along the ground. From that height it stared down at them as it approached, almost imperiously.
+
+If it wanted to reduce its mobility for the sake of theatrics, Graham had no complaints.
+
+“Hold,” he warned those around him, and they settled before passing his message through the ranks.
+
+Should they show their hand too early, the creature would flee, and they would have no hope of tracking it down. Only when it was fully committed could they fight in earnest.
+
+Still several kilometres away, the ant paused, no longer drawing closer, yet there was still movement, somewhere beneath it.
+
+They waited with bated breath as a lone figure, human, approached them, walking boldly up to the waiting army while the ant hovered menacingly in the distance. As it drew closer, Graham was able to make out more details. Hooded, yet with long protrusions rising from the head, the figure wore robes not unlike those a Priest of the Path might wear. Pale-faced, with a short, slightly frazzled brown beard, the man would have looked ordinary, if it weren’t for his eyes.
+
+Those eyes blazed with feverish energy. With devotion. With fanaticism. With Faith.
+
+Graham had seen those eyes before, often in the mirror.
+
+A disturbance in the ranks resulted in Alir pushing through to stand by Graham’s side while the approaching figure was still two hundred metres away.
+
+“That’s the heretic,” Alir hissed to him. “Agents of the Church say this man is spreading false teaching and heresy everywhere he goes. There is a standing order for his head.”
+
+The War Bishop nodded slowly to show his understanding.
+
+“Th-that’s it? Aren’t you going to kill him now?” Alir demanded.
+
+“We should hear what he has come to say first. Since he is here with the ant, he will fall in the battle to come. I will make certain of it.”
+
+Heresy against the Path. Truly a dreadful and unforgivable sin.
+
+Graham turned toward the Grand Priest.
+
+“Are you going to remain here at the front?” he inquired.
+
+Realising just where he was standing, Alir jumped before he turned and began to push his way to the back once more.
+
+“Greetings!” a voice called to them, booming throughout the tunnel with incredible volume and authority. Still walking closer, the robed figure raised a hand. “I greet you in the name of the Colony!”
+
+There was something magnetic about that voice, something that tugged at the heart of everyone who heard it. This was a high-Level speaker, someone truly gifted in the art of speech and oratory.
+
+“Send word to our allies. Make sure they do not listen to this man speak,” he instructed, and someone ran to see it done a beat later.
+
+Members of the Judgement Battalion were trained to resist such things, but he couldn’t be certain of the others.
+
+“Come no closer,” he called. “Speak your piece.”
+
+The approaching figure stopped, then bowed, antennae flopping in the air as he stood back up.
+
+“My name is Beyn Naligic. Once, I was a Priest of the Path, and I have nothing but the highest respect for the men and women of the Judgement Battalions.”
+
+Nice words, but filthy from the mouth of a heretic. Graham calmed the righteous fires in his chest. It wasn’t time yet.
+
+“We have no interest in the respect of one who has fallen so far,” he replied. “Tell us what your monstrous masters have instructed you to say and begone.”
+
+“I serve no master except for the true faith!” the heretic declared, eyes burning with zeal. “The new Path that was revealed to me through a great miracle!”
+
+It didn’t take much for the man to wind up. A few sentences and his voice was booming off the stone walls of the tunnel.
+
+“YES. THE GREAT ONE HAS SPOKEN TO ME AND DECREED THAT I, BEYN, PASS ON THEIR WONDROUS WORDS! YOU HAVE BEEN EXTENDED GRACE BY THE GREAT ONE!
+
+“SURRENDER YOURSELVES, AND YOU WILL BE SPARED GREAT PAIN! RESIST, AND YOUR LIVES CANNOT BE GUARANTEED!”
+
+So saying, the once-Priest collected himself, chest heaving with the force of his passion.
+
+“What say you?” he rasped.
+
+Graham shook his head. This man was lost to madness.
+
+“There will be no surrender.”
+
+The man, Beyn, nodded sadly.
+
+“I feared there would not be. In that case, I have other words for you.”
+
+In the distance, the giant ant slowly rotated in the air, until it was facing away from the army.
+
+“The Great One asks that you please don’t die.”
+
+So saying, the heretic turned, lifted the hem of his robes, and sprinted away down the tunnel.
+
+“SHIELDS!” Graham bellowed.

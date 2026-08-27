@@ -1,0 +1,59 @@
+---
+id: aaa6d14a-98fb-597f-9c4a-090616bb0efe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1795 - Unstoppable Assault"
+slug: 0447-chapter-1795-unstoppable-assault
+partOf: chrysalis
+position: 447
+ownLength: 952
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3411937/chapter-1795-unstoppable-assault"
+royalRoadId: "3411937"
+---
+
+The Immortals. What can be said about the armoured ants that hasn't been said already? An anvil on which the enemies of the ants cannot help but break, yet also a mighty hammer, smashing through any defensive line put in front of them. Each of them a powerful, highly evolved monster in their own right, when combined into a single column and draped in expertly made and heavily enchanted steel, they are truly unstoppable.
+
+Legend has it that none have died in battle, something I personally dismissed as nonsense propaganda when I had first heard it. After facing them in battle, I am no longer sure.
+
+For one, the ants do not deploy this secret weapon lightly or without preparation. Their commanders are fully aware of what the Immortals can and cannot do and never deploy them where their signature tactics will not be effective. If the ground is too treacherous, if there is too much magic and artillery fire such that the heavy shock-troops would get bogged down without reaching enemy lines, then they are not unleashed.
+
+But when the conditions are right, when you think your defence is sound and your lines are well established, the ground beneath your feet will begin to shake. I know now that retreat is the only solution once that moment has come. I stood and fought them many times, and I have never seen a single one die.
+
+No matter how well dug-in I thought I was, they smashed through like the clenched fist of an angry god. Selfless, without fear, perhaps insane, there is nothing the Immortals will not charge. Similarly, there is nothing they will not break.
+
+- Excerpt from the private notes of General MacNowles of the Atreum Empire
+
+"LIVE! DIE! LIVE AGAIN!" Leeroy bellowed, her entire body alive with energy, her core blazing like a miniature sun.
+
+"WE LIVE! WE DIE! WE LIVE AGAIN!" the Immortals roared in return, their legs pounding the ground as they launched themselves forward.
+
+"SACRIFICE WITHOUT END!"
+
+"SACRIFICE WITHOUT END!"
+
+CRUNCH!
+
+The first monster to try and stand against them vanished in a cloud of mist, flattened and trampled underfoot in an instant as the armoured column continued to build momentum. Moments ago, the Colony had performed one of its favourite tricks and blasted a thick cloud of cleansed mana down this tunnel, driving back the corruption and killing off the foulness that plagued it. Mostly.
+
+Frenzied and weakened, the local monsters threw themselves towards the Immortals the moment they saw the ants coming, which suited Leeroy down to the ground.
+
+Crabs dripping with ooze rose up and tried to confront the ants. They exploded in a cloud of ooze and shell fragments.
+
+Snails and slugs belched acid and dripped slime, screeching in hatred. The Immortals ran straight through them without even slowing down.
+
+Rivers of mucus and thick bands of sludge obstructed their path, blocking the way forward. Did the Immortals flinch? Did they turn? Did they notice?
+
+No! They simply ran, each one locked into place by the sister ahead, behind and on either side. In truth, they couldn't see where they were going or what was in the way, and they didn't need to. They only trusted in their sisters and in the knowledge that whatever they found along the way was sure to kill them eventually, and that it would be glorious.
+
+And so, rivers of mucus, which seemed like a bad target for a column of charging ants, were obliterated, the sheer momentum and mass of the Immortals more than sufficient to reverse the tides. Thick webs of sludge were snapped and cleared without issue, and still the charge went on.
+
+At the head of the column, Leeroy was filled with excitement and joy. With the force of her sisters behind her, she could have lifted her legs from the ground and still been carried forward, such was their speed and power. In truth, she'd forgotten the plan long ago, sure that the Immortals would find their rightful destiny at some point on this charge, perhaps on the other side of that wall.
+
+There was no point in trying to turn an Immortal charge, that simply wasn't how it worked, so Leeroy happily braced, angling her body slightly to present the side of her head, and smashed into the wall, eagerly awaiting the oblivion that was sure to come. Except, it didn't. Fleshy and soft, the wall gave way, tearing and ripping as the Immortals barreled through it, unstopping. Covered in unspeakable chunks and burning with acid, the Immortals continued on their way, happy to find the tunnel beyond was filled with monsters and corrupted mana, increasing the level of danger tremendously.
+
+When the charge was finally exhausted, they had ripped through five walls and cleared kilometers of tunnel. Exhausted, their armour in ruins, their carapaces pierced and broken, with large sections of their bodies melted away, the Immortals fell, blissfully, gloriously, into the dark abyss.
+
+Knowing that their time had come, the fungus parasites that existed within each of the Immortals began to harvest their spores, drawing in energy, regenerating themselves and pulling their hosts back together. Fibres were extended to wrench metal back into shape, to reattach legs and the occasional head, regrowing destroyed organs and muscles. Soon, the zombie fungi were ready to pick their hosts up and pilot them back along the trail of destruction they had left in their wake, into the safety of the Colony and the cleansed mana.
+
+They returned their hosts to the Halls of Undying, delivering each ant to her own personal armory, and there they lay down, content that their hosts had been saved and would live on another day.

@@ -1,0 +1,55 @@
+---
+id: 2e3de619-c8db-583d-bfec-749caadbb6f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1770 - A Lot of Work has Been Done Here"
+slug: 0422-chapter-1770-a-lot-of-work-has-been-done-here
+partOf: chrysalis
+position: 422
+ownLength: 1147
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3266195/chapter-1770-a-lot-of-work-has-been-done-here"
+royalRoadId: "3266195"
+---
+
+Man, the Krath have certainly been busy down here. After taking down the bases higher up, I’ve gotten a rough sense of their work and what they’re trying to achieve, but what they did up there has nothing on what they’ve been doing in the depths. Every tunnel I go into shows signs of Krath manipulation. They’ve twisted a little here, carved out a little there, created drops and chutes and turns and loops that all have the cumulative effect of turning normal Dungeon tunnels into something that serves their will. Monsters are funneled towards the Colony with almost mechanical precision, the sense and smell of the purified mana being dispersed far and wide, deliberately, to entice them.
+
+Trying to descend deeper is a nightmare. Everywhere I turn there are vast reservoirs of mucus, millions, probably billions, of litres of the most potent, fermented slime I’ve ever seen, just sitting there blocking my way like a lake of snot. I’m not exactly going to tempt fate and try swimming through it, so I have to try and find a way around and drain them from beneath, but there are obstacles everywhere.
+
+My frustration grows as I spend more time wandering around, poking about and trying to find out where the heck the Krath are hiding. It doesn’t help that all the while, they’re out there, watching me from their little hidey holes and sneaky cracks. I could yank them out and give them the business end of a hostile takeover, but I don’t want to let them know I can sense them just yet. After all, I’m hoping they’ll lead me to their sneaky, expertly hidden sanctuaries. Once I’ve smashed their safe havens and forced the Krath to retreat, I can get to work on fixing up the tunnels so the Colony can start flooding the depths with purified mana. The wuffers have been working hard up above and apparently the storage is full to bursting. Once it’s unleashed, these tunnels will be drowned in a tidal wave of purification, destroying all the work the Krath have done to reinforce this position and allowing the Colony to drive a path straight down to the next hearts.
+
+However, that glorious wave is still a ways off, since I haven’t been able to find the Krath hiding place, nor have I been able to navigate my way past all of the obstacles they’ve thrown up.
+
+Thankfully I manage to get into enough fights to keep my regeneration network ticking over, preventing the constant burn of the fifth from doing any lasting damage to me. Without that, even with the Pure Core, I might not have been able to stay in the tunnels for as long as I have.
+
+After four days of meandering about, enduring the dreadful conditions and putting up with the constantly spying and slithering Krath keeping watch on me, my temper is about ready to burst. I’m only a few minutes away from unleashing the largest gravity bomb in the history of Pangera and obliterating vast swathes of tunnel in order to see if something changes in an even remotely positive way.
+
+No, I can resist, it’s fine. There’s no need to unleash my rage in such a devastating fashion right now, I can save it up, store it like the Colony has stored purified mana, and then, when the time is right, let it flow out, right on top of the dastardly slugs who have put me in this awful position!
+
+GAH!
+
+Alright, be cool. Let’s go over this one more time. I have the tunnel map, which is recording each and every twist and turn I’ve taken. I’ve ranged far and wide through this area, but any path that seems to go around the huge lakes of sludge below does not seem to exist! I could dig my own, of course, but then I run the risk of my own tunnel collapsing and dropping me into an ocean of sludge I may not make it out of. But it doesn’t make any sense! The Krath are moving up and down through this area, they have to be! If their safe ground was above the lakes, I would have found it already!
+
+Down there in the darkness, there exists a path! I’m sure of it!
+
+I even considered that the slugs might be swimming through the lakes themselves, but I eventually dismissed the idea. The slugs are well adapted to the fifth, but even they couldn’t survive in there, I’m sure of it. Yet, even their little sneaky tunnels don’t seem to connect to a path into the depths. Something fishy is going on here and I need to find out what.
+
+Deciding to retrace my steps, I head back to the nearest lake and take another gander.
+
+The tunnel before me drops away, a hole almost a hundred metres in diameter opening up, and I dive right in, clinging to the rock as I turn upside down and have a look around. The chamber is vast, and only a few dozen metres below me lies the bubbling, hissing surface of the lake. The vapour here is so potent it sets my entire carapace to itching as the acid eats into it, but I am well-trained to endure itching at this point.
+
+So far, I’ve located six separate lakes, each designed to funnel the Colony’s cleansed mana into them in order to absorb the energy without letting it spread to the surrounding tunnels or penetrate the depths. The only way we can proceed is if I find a way through and drain them from below.
+
+Staring through the thick clouds of acid, I strain my gem-like eyes, trying to pierce the veil and see beyond this physical realm. Or… I’m hoping I see something different than what I did the last time I was here.
+
+Yet… nothing. I expected to see a huge lake filled with sludge, aaaand that’s what I’m looking at.
+
+Depressed, I turn to leave, only for something to catch my eye at the last second. What the heck was that? I turn back sharply, only for that faint glimmer to be gone.
+
+I saw something… I’m sure I did. Focusing harder, I turn all of my senses to the task, gravity mana, smell, sight, vibrations, everything. I’m desperate here. Desperate! Give me something, Gandalf!
+
+Yet, after a few minutes, All I’ve determined is that one section of slime feels a little bit thinner than the rest. Which is… probably nothing.
+
+A large bubble of gas swells up beneath me and bursts, making me scuttle about to shift my position lest I get covered in slime. The surface of the lake ripples, and for a fraction of a second I can see a shaft running right through the centre of the sludge. And then, a moment later, it’s gone.
+
+Oh? Oho? Ohohohohoho?!

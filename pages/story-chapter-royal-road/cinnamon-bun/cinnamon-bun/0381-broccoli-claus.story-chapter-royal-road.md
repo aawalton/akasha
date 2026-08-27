@@ -1,0 +1,15 @@
+---
+id: 69aeee4b-2d05-5dc6-ba57-2ef27432554d
+page-type-slug: story-chapter-royal-road
+title: "Broccoli Claus"
+slug: 0381-broccoli-claus
+partOf: cinnamon-bun
+position: 381
+ownLength: 461
+unit: words
+publishedAt: 2022-12-25
+link: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1071405/broccoli-claus"
+royalRoadId: "1071405"
+---
+
+Broccoli Claus“No Broccoli, it’s a stupid idea,” Amaryllis said.Broccoli looked at Amaryllis and tried to blink away the tears in her eyes.“No,” Amaryllis insisted.“But,” Broccoli said. Her lower lip wobbled.“Awa, I think it’s a nice idea?” Awen said.Amaryllis pinched the bridge of her nose. “I can’t believe we’re doing this,” she said.“Yay!” Broccoli cheered, then she glomped Amaryllis for good measure. “I’m gonna be Santa Claus!”***Little Timmy woke up to use the washroom and was on his way back to the room he shared with his brothers when he heard something in the living room. Frowning and rubbing some gunk out of his eyes, he stumbled over to see what was going on.That’s how, by the light of a candle held in one hand, he saw a butt sticking out of his fireplace.“Uh,” he said.The butt squirmed a little, and he noted that it was wearing a red, velvety outfit and had a fur lining.No, wait, he realized that wasn’t a fur lining, that was just a poofy white tail.The butt wiggled, then with a pop, the person attached to said butt thumped out of the fireplace and onto the floor, followed by a cloud of ashes. They coughed, then waved their hand, and all at once the ashes and soot covering their red and white outfit disappeared. “Well, that worked better in my head,” the strange figure said.The author's narrative has been misappropriated; report any instances of this story on Amazon.They stood, and Little Timmy realized that they had a large, very fake, beard attached to their face and a pointy red cap which seemed to be wriggling of its own accord.Really, he should have been yelling for his parents or the guard, but this was so strange that he wasn’t sure how to react.Just then, the figure noticed him and froze up. “Ah,” the said before looking very conspicuously to the left and right. “H-hey there,” they said. “Do you want some presents?”“What?” Little Timmy asked.The figure grinned, and after reaching into the fireplace, they tugged out a large bag. Then, they dove into the bag and came out with an armful of wrapped boxes that were just a little bit squished.“Have you been good this year?” the strange person asked.“I’ve been alright,” Timmy admitted.“... good enough! Here, one for you, and one for each of your siblings!” They placed down the presents, then patted their rather flat stomach with an ‘oh-ho-ho!’“Uh... thank you?” Timmy wasn’t sure if he was dreaming or not.“Okay... uh... nice meeting you. I hope you won’t lose the sense of wonder if I use the front door to leave?”“Go ahead?” Timmy asked.“Thanks!”And so the figure picked up their slightly-less-large bag and ambled out.Timmy looked at the present in his hands, then he pinched himself.***

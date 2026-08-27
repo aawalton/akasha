@@ -1,0 +1,99 @@
+---
+id: e5d47ef3-d649-56d8-874e-e22cb864f576
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1801 - Merchant, Merchant-ing"
+slug: 0454-chapter-1801-merchant-merchant-ing
+partOf: chrysalis
+position: 454
+ownLength: 1041
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473199/chapter-1801-merchant-merchant-ing"
+royalRoadId: "3473199"
+---
+
+"You were really able to sell it for that much?" Merchant asked, surprised.
+
+"Surely you understood the value of what you had?"
+
+"Of course I did. To settle on the right price, both parties need to be aware of its value. That they appreciated just what we were offering has taken me aback somewhat."
+
+"In other words, you didn't have faith in the skills of your negotiator."
+
+"Hah! As if that could possibly have been the case."
+
+Always on the move, always hunting for the next deal, that was the life of a trader, and Merchant was true to her calling. Back into the fourth, once again staring up at the shining Silver city with its crown of gold from the gently rocking deck of a brathian ship.
+
+Georgia Wynn, representative of the Atreum Merchant Cooperative and probably the most powerful haggler in all of the fourth stratum, smiled wickedly as she brushed her hair back and tucked it behind her ear. The woman looked more like a librarian than a stone-cold killer of merchants, but that was exactly what she was. Knowing just how much she had secured when trading the knowledge of the Colony brought a warm glow to the little ant's core. Though her good cheer was somewhat spoiled knowing that a full twenty percent of the total would be going straight into Georgia's pocket.
+
+"You've done very well for yourself out of this trade," Merchant said, raising her cigar in recognition before placing it back in her mouth and taking a contemplative puff.
+
+Favourable trade conditions, priority docking and warehousing, waiving of certain fees, along with a hefty lump sum. To make matters even more delicious, the benefits only applied to ships carrying exclusively Colony-produced goods, which meant the brathian couldn't take advantage and sneak their own merchandise into the city on the cheap. Merchant could hear the wailing and gnashing coming from the Satrap's palace already.
+
+Of course, she could have worked in some wiggle room for them, but they were already making profit hand over fin thanks to their exclusive right to trade the Colony's merchandise. Reminding them who was really putting in the hard work was something Merchant took great pleasure in.
+
+"How many assaults into the fifth do you think are going to take place?" she asked, and Georgia leaned onto the railing next to her, staring down into the shimmering, magical waters.
+
+"More than you’d expect. The Child Emperor is eager to begin, the troops are already marching. Their first incursion will take place in less than a week."
+
+"So quickly? Don't they have to lay the groundwork a little for something like this?"
+
+Solant had been obscenely thorough when it came to preparing logistics and training her troops for the rigours of battle in the fifth. If the Atreum Empire failed quickly, then the ripple effect would cause others to back out of their own invasion plans. It would be a disaster!
+
+"I wouldn't worry too much," Georgia assured her. "There are already forward castles dug into the tunnels near the entrances to the fifth and troops stationed there with years of experience fighting against the monsters who creep up from below. Atreum is rich beyond compare and that money is moving heaven and earth right now. Supplies are coming in, and the finest core-shapers in the fourth are working on your wuffer designs and churning out pets.
+
+"Besides, the Child Emperor is not a fool. They know what is going to happen next just as well as you or I do. There will be dozens of invasions into the fifth from all over the Dungeon."
+
+"They want to be first," Merchant nodded, letting out an appreciative puff of smoke.
+
+"They want to be second," Georgia corrected seriously. "The Colony is first and everyone knows it. Jealousy is rising, but thankfully most are too busy trying to get their own slice of the pie to be worried about the piece the ants are nibbling on right now."
+
+"Oh, that reminds me. I have another business proposition for you."
+
+Instantly, Georgia's eyes ignited with a furious hunger that made Merchant laugh.
+
+"Don't bother bringing your Skills to bear on me. You know I'm not coming here to negotiate with you. I wouldn't dare."
+
+"You take all the fun out of it," the woman said, losing some of her fire.
+
+"Fun for you, maybe. No, you can't negotiate a price for this service, because I'm the only one in the world who can sell it."
+
+"You've found something else down there?" Georgia asked, her interest sharpening once again. "Another wonder material that will rock the world to its foundations again?"
+
+"Not quite," Merchant demurred. "What I am selling is something that everyone on Pangera has yearned for going back to the years after the Cataclysm. I am selling access to the sixth stratum."
+
+Georgia grew still, her eyes narrowing.
+
+"Are you telling me," she started slowly, "that the Colony has broken all the way through the fifth? They've secured access to the deeper Dungeon?"
+
+"I'm telling you," Merchant replied with equal solemnity, "that the Eldest has gone down there, so it's only a matter of time. I'm so confident, I'm taking down payments, starting right now."
+
+She took another long puff on her cigar. The rich flavour, the dense smoke, she could never get enough of it.
+
+"Anyone who wants to be in the first wave better lock in their place quickly. I think they'll sell out rather fast."
+
+"And how much are you asking?" Georgia asked, her eyes narrowing.
+
+"Asking? I'm not asking for a price. Put the slots up for auction."
+
+"That's evil," Georgia grinned. "Twenty percent again?"
+
+Merchant shook her head.
+
+"Only ten this time."
+
+"Ten?"
+
+"You're going to be part of history. The start of open access to the sixth. Getting your name into a textbook is going to cost you ten percent."
+
+"And if I don't care about posterity?"
+
+"Then do it for the money," Merchant laughed. "Ten percent of a massive fortune is nothing to sneeze at! Don't be greedy."
+
+"Nobody has ever said that to me before."
+
+"Nobody has made you more money than I have."
+
+Georgia thought for a moment, then nodded.
+
+"True," she murmured.

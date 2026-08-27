@@ -1,0 +1,99 @@
+---
+id: 653223f7-de3d-51d9-bc04-f605dbac26ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1832 -  Legion, Meet Templar"
+slug: 0487-chapter-1832-legion-meet-templar
+partOf: chrysalis
+position: 487
+ownLength: 1124
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3739806/chapter-1832-legion-meet-templar"
+royalRoadId: "3739806"
+---
+
+“Tribune!”
+
+“Yes, Commander?”
+
+“Who the hell is that?”
+
+Morrelia turns her head briefly to see who Chyron is pointing at.
+
+“I believe that’s Jern.”
+
+Chyron directs a burning glare at the younger woman, and Morrelia, berserker and combat specialist, swallows heavily. Damn but the old woman was scary when she was mad.
+
+“Jern is one of Anthony’s–one of the target’s Templars, Commander! One of the first two.”
+
+“He doesn’t have a surname?”
+
+“I… don’t believe he does. I’ve never heard it if he does.”
+
+“Templar is his Class?”
+
+“It is.”
+
+Chyron watched the young man fight a little longer, her eyes taking in every movement.
+
+“Any chance we can recruit him? He fights like a demon.”
+
+Morrelia blanched.
+
+“From what I understand, he worships the target as some sort of nascent divinity.”
+
+“Damned foolish nonsense,” Chyron sighed. “Such a waste.”
+
+Indeed, Jern was putting on quite the show, along with the rest of the Templars. As elusive as a rumour, they slipped in and out of the Legion lines seemingly at will, striking at the slugs, then retreating, or lunging forward again, striking even deeper if they saw weakness.
+
+Merciless, cunning and with incredible combat instincts, she had to wonder who trained them to fight in such a way. Even the mage was nimble, flickering into the heat of the battle to unleash her spells before darting out, confounding the slugs over and over again.
+
+But it was Jern who caught the most attention, simply because of his enormous size and willingness to fight on the front. Every swing of his axe was mechanically perfect and reaped a terrible toll on the enemy before him.
+
+“Luckily there’s only three of them,” Chyron noted, returning her focus to the battle.
+
+“There’s another three,” Morrelia told her, “but they’re young.”
+
+Commander Chyron acknowledged her with a grunt as she took in the field, soaking up the details as only an experienced Commander of the Legion could. Morrelia wished she had the insight Chyron did, but it took time to develop and was one of the many things she was deployed here to learn.
+
+“I never thought I’d be fighting inside a heart,” Chyron said, flicking her gaze upward to take in the enormous pulsing organ around them. “We used to dream of times like this, smashing the Krath tribes in their places of power. Now some ants have done what we couldn’t for thousands of years.”
+
+There was a particular zeal about the Legion today. Of all the foes of the Legionem Abyssi, without question they hated the Krath the most, even though they technically weren’t monsters. Morrelia herself had fought them during her stay in the fifth stratum for training, and that brief exposure had burned an enmity into her that would last a lifetime.
+
+“Do you have orders, Commander?” Morrelia prompted, hoping to get back to fighting, which Chyron no doubt saw.
+
+“We are being pressed,” Chyron observed, critically examining the front. “Ever since the ant went down, we’ve been hit hard from above, and the slugs are pulling in reinforcements from somewhere.”
+
+Doubtless they had established more living space nearby, since half of the heart was filled with mucus. Frenzied and desperate, the slugs were fighting just as hard as the Legionaries, eager to inflict whatever harm they could on the hated foe in front of them.
+
+Mana continued to rain down from above and it wouldn’t be long before it became too dangerous for the Krath to remain here. The Legion only had to stall for time.
+
+“I won’t have it said that we needed the help of the ants to win this fight,” Chyron said. “Get in there, Tribune. Drive them back and reorder the lines. Once our formation has firmed, we’ll drive them out in one push. Am I clear?”
+
+Morrelia grinned like a wolf.
+
+“Yes, Commander,” she said, ripping her twin blades from their sheaths. “Gladly.”
+
+Freed from the chain, Morrelia was only too glad to push her way through the ranks, making her way to the front. As much as she wanted to run wild and unleash her full berserker might, that wasn’t how the Legion needed her to operate.
+
+Famed throughout Pangera, the Abyssal Legion were known for their discipline, their ruthless preparation and their dedication; they didn’t need or want soldiers who couldn’t fight alongside their brother and sister legionaries.
+
+Waiting for her turn, she stepped forward as the woman in front of her stepped back, rotating the front line and keeping their stamina up. Of course, their opponent tried to take advantage of the momentary gap, but Morrelia was ready, two blades stabbing forward and unleashing beams of sword light.
+
+Cursing vilely, the Krath twisted its body, flattening in places while expanding in others to dodge both attacks, spitting a wad of acidic phlegm at her face. Morrelia was already moving, her swords never ceasing their motion. One battered away the attack while the other slashed, more sword light exploding from the point.
+
+With no shield to cover the Legionaries to her left and right, Morrelia needed to compensate for the offense they weren’t able to provide as they were busy protecting her. Which meant there was no room for her to hold back—she had to throw out everything she could as fast as she could.
+
+Triggering her berserker rage, Morrelia felt a shiver run down her spine as the red mist descended, her muscles swelling with the power of fury. It was as familiar a sensation to her as a warm blanket at night, and one she welcomed.
+
+All of a sudden, her swords seemed to weigh nothing at all. All of a sudden, any fatigue was completely washed away. All of a sudden, she was eager to fight and fight and fight and…
+
+“Berserking!” she grated out, letting those around her know as she allowed herself a single, solitary step forward.
+
+It was all the space she needed.
+
+Thrusts, slashes, lunges, Morrelia became a whirling dervish of sword light. Krath came to meet her, trying to bring down the threat, but every time they targeted her, allies stepped in to cover, using their shields and bodies to give her the space she needed to work. Against this storm of offence, even the frenzied Krath were forced to fall back, creating a pocket of stability that the Legion used to firm up the line.
+
+Minutes later, Morrelia emerged from the rage, wary to remain too long and test the limits of her control. Lethargy and exhaustion hit her immediately, her body now able to feel the effects of her exhaustion.
+
+“Good work,” Chyron said, her shield and blade in her hands and the light of battle in her eyes. “Time to finish the job.”

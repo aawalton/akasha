@@ -1,0 +1,69 @@
+---
+id: a01e9c17-f203-5332-b4a0-fbe282852146
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1739 - She Who Reaps The Harvest"
+slug: 0391-chapter-1739-she-who-reaps-the-harvest
+partOf: chrysalis
+position: 391
+ownLength: 826
+unit: words
+ownProgress: 826
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3072747/chapter-1739-she-who-reaps-the-harvest"
+royalRoadId: "3072747"
+markedReadAt: "2026-06-29T19:56:18.288Z"
+---
+
+Crinis was unhappy. To tell the truth, that was a vast understatement. She boiled with rage. Frothed with it. Every drop of her inky immaterial flesh yearned to take hold of the disgusting… unspeakable creatures and rend them.
+
+Then rend them again.
+
+Perhaps a third time could be managed, if time allowed. It probably couldn’t, considering how many of these rend-able creatures there were, which only added to her anger.
+
+They would dare to attack her master. Even once was a slight, an insult that couldn’t be tolerated, but they hadn’t stopped there! No, they had attacked him four-hundred and eighty-six thousand, three hundred and thirty-two times!
+
+Even thinking about attacking her master was more than she would have permitted. If it weren’t for her direct orders preventing her from unleashing a horrifying banquet of destruction, Crinis would leave these mannerless by-products with a memory so dreadful they wouldn’t dare to fall asleep for a decade!
+
+No, Master was forcing her to be nice to those who were utterly undeserving. It rankled her to a tentacle-twisting degree.
+
+Robbed of her rightful vengeance, Crinis was left with very few options to vent her pent-up emotions. She was explicitly banned from most of the things she would normally do, Master had given her a list, which meant she was reduced to seeking her vengeance in only the most petty ways.
+
+Like a conductor, hidden within the realm of shadows, Crinis began her dark work.
+
+It started on the outskirts of the battle. Raising her tentacles, Crinis began to pick on the exhausted, the wounded, the isolated. Her Soul-Seeker Cilia were capable of phasing straight through armour, flesh and bone, letting her manipulate the thoughts and minds of her victims directly.
+
+Giggling evilly to herself, Crinis picked out her first target.
+
+With the forest of limbs descending on the army, it was impossible for anyone but Crinis to keep track of them all. Try though they might to fend them off, a difficult task amidst the chaos of the fighting, some were bound to get through.
+
+The cilia slipped through the defences of Crinis’ unfortunate victim, phasing through his armour, his hair, his skull, and seeping directly into his brain.
+
+Vulnerable to her suggestions, there were any number of fully justified and deserved horrors that Crinis could visit upon this filthy individual. Nightmare visions of a twisted reality, allies turned to hideous, dastardly creatures, her master transformed into the golden, glowing idol that he truly was.
+
+Sadly, she was barred from inflicting the kind of mental torment she so longed to dispense, so she had to improvise.
+
+Acting under her influence, the soldier spun wildly before throwing down his weapons and launching himself at his nearest ally. Unsure what was happening, the man cried out in alarm as his once trusted friend and companion bore him down to the ground and then went for his footwear.
+
+Yes, Crinis whispered to herself, yes! They will suffer for what they have done to my master!
+
+It wasn’t easy to get the armoured boots off, but once they were, there was nothing stopping Crinis from inflicting the maximum level of bloodless torment she could devise. Her demands surged through the Soul-Seeker Cilia and directly into the mind of her victim, a command so dark and dastardly she was proud of herself for thinking of it.
+
+Tickle!
+
+Seized by a command he could not refuse, Crinis’ victim brought his fingers to the sole of his ally's foot and unleashed the full power of their strength and dexterity. Unsure what was happening at first, the hapless soldier, now missing a boot, could do nothing but writhe and kick in protest, demanding his ally cease his actions, unknowing that there was no way Crinis would ever let him go.
+
+SUFFER! Crinis cackled. The tickling will never stop!
+
+With her first victim now helpless, writhing on the ground, giving voice to the depths of their suffering through high-pitched cries of what was most likely despair, Crinis was now prepared to move onto the next. She didn’t have an unlimited supply of the cilia, only a few dozen, but with her dark and multi-faceted mind, she could wield thousands of limbs with ease, directing them as if they were each the only appendage she had.
+
+Hidden, unseen, from sneaky angles she wound her limbs around their prey and struck, time and time again.
+
+Each of her victims was subject to the same curse, the same punishment.
+
+Tickle! They must tickle!
+
+With savage glee, Crinis spread chaos throughout the ranks, turning comrades in arms against each other. She delighted in the shocked looks of betrayal that flashed in their eyes, and laughed as tears of pain and sorrow ran down their cheeks.
+
+It was the least of what they deserved, but it was the limit of what she was allowed to inflict. With this, Crinis would have to be satisfied.
+
+This, and truly copious amounts of Curse Magic.

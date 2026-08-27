@@ -1,0 +1,107 @@
+---
+id: 52abb7a9-b339-55d2-a1d2-3bcd1d938447
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1847 - Around the Colony"
+slug: 0502-chapter-1847-around-the-colony
+partOf: chrysalis
+position: 502
+ownLength: 1147
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3832550/chapter-1847-around-the-colony"
+royalRoadId: "3832550"
+---
+
+“This is a slightly different experience,” Sloan mutters, poring over the maps and checking the many pages of documentation scattered about, running her antennae along the lines of pheromone text.
+
+“What is?” Victor asks, doing the same thing beside her.
+
+The two were deep in the planning and preparatory stages for the wave. In truth, this was an ongoing process that never really started or stopped. These days, the Colony never did anything without thinking about how it would go on to affect the next wave.
+
+Need to build something? Make it wave-proof.
+
+Need to capture something? Can we hold it during a wave?
+
+Lines of defences, methods of communication, gates, troops, trade, everything had to be done with the waves in mind. As such, the Colony’s anti-wave strategies were an ever-evolving calculation of risk and reward.
+
+Of course, Solant's invasion had thrown a massive wrench into those preparations, soaking up the output of the entire Colony for almost a year. The final push had demanded carvers and mages be pulled from all over the territory, which hadn’t happened in the leadup to the last few waves, and it had been rough. So now, the two generals were playing a hectic game of catch-up, trying to put everything in place before a disaster befell the family.
+
+“I was just thinking about the vertical span of the territory,” Sloan said, still shuffling and shifting, her many-faceted eyes focused on the task at hand. “By our last account, the land claimed by the Colony covers around a thousand vertical kilometres.”
+
+“So?”
+
+Reaching out one leg, she snatched up a page and pushed it towards her sister.
+
+“Look at this. The lower levels of the fifth are expected to start experiencing the wave three weeks before it reaches the first.”
+
+“It’s not that much different than last time,” Victor said after swiping through the document.
+
+“Only a few days,” Sloan agreed, “but it says something about how far we’ve come, doesn’t it? We span so much land that there’s this massive lag between the peak of the wave from the bottom to the top.”
+
+Victor took a moment, raising her head from the frenzy of work in front of them, and thought about it.
+
+“You know what? That is interesting. I wonder what the exact lag time from the first touch of the wave to it reaching the surface is.”
+
+“We can find out easily enough,” her sibling replied. “Our gates work into the fifth now. It’s simple to pass messages back and forth.”
+
+Simple patterns of observation were enough to tell the Colony that the waves were getting more severe as time went on, so they knew what had sufficed before would not necessarily hold the next time. As such, their countermeasures and defenses were in a constant state of build up, but there were so many unknowns to deal with this time that there was a certain level of anxiety in their work.
+
+After all, the Colony was now, more or less, directly connected to the sixth, with no buffer zone of Krath between them and the monsters below. When the beasts from the depths rose up, there was no contagious mana to weaken them, no parasites to infest and drain them.
+
+It would fall on the Eldest to do the bulk of the work, they knew that, but a plan that relied on a single individual to succeed wasn’t much of a plan. Thankfully Solant had taken on responsibility for managing the fifth, so they were able to largely focus on the rest of the territory, which was absurdly large at this point.
+
+“How are preparations in the third looking?” Victor asked, busily flicking through documents.
+
+“We’re having trouble making sure the demons call off their scheduled conflicts this time around. There’s a few they have prepared and are really looking forward to.”
+
+Victor sighed. Keeping the demons within their territory happy was a constant juggling act. War demons, slaughter demons, battle demons, blood demons, all sorts of demons, had to fight. They didn’t just want to, they needed to. It was their obsession and core to their being. As a result, demon society, such as it was, resembled loosely organised chaos at the best of times, since no demon would ever fault another for following their obsession.
+
+Unleashing their need for conflict in scheduled battles between cities was a longstanding tradition that the Colony had done its best to work with. During a wave, however, they would rather not have such distractions.
+
+“Did we offer them a hunting prize for who can take down the largest wild monster in the wave?”
+
+“We did.”
+
+“Did we up the prize?”
+
+“We did.”
+
+“Dang it. Is there anything we can do?”
+
+“There is one thing…”
+
+“What? Oh. Oh, that would cause all sorts of problems, Sloan.”
+
+“I agree, but will it solve more problems than it would create?”
+
+Victor considered it for a moment, then a moment more, gnashing her mandibles together as she thought.
+
+“Barely,” she conceded unhappily.
+
+“I’ll send word that the demon Tunnel Ball league has been approved.”
+
+“What a mess,” Victor groaned, then shook off her worries. That was a problem for future Colony. Present Colony had plenty of other issues to deal with.
+
+“What about the second? Are the cities prepared?”
+
+“They’re being a little casual about it this time,” Sloan replied, a little miffed. “We’ve been too successful at defending them from the waves, I think.”
+
+There were dozens of once-independent cities that the Colony had claimed in the second, and they, of course, helped to protect them during waves and allowed use of the gate network to move goods and troops back and forth. It had been a successful system, but it was a problem if they started to become complacent. After all, to the Colony, their nests were the first, second and third priority. If push came to shove, they would abandon those cities to protect the young.
+
+Most of the Queens were still positioned in the first and second strata, since the third was inhospitable and the fourth too exposed. The fifth was naturally not a consideration at all.
+
+“It might be wise to fire a shot across their carapace,” Sloan mused. “Why don’t we tell them that the ant garrison will be diminished this time around. Let’s say… cut it in half.”
+
+“In half? They’ll be hit by the wave in less than two weeks!”
+
+“It’ll put a fireball in their houses, but we don’t actually remove any of the garrison, just spook them.”
+
+Victor looked at her sister for a moment.
+
+“It’ll only work once, they won’t believe us the next time.”
+
+“If they’re smart, they’ll get the message and we won’t have to do it again.”
+
+Both generals considered the likelihood of the cities being smart.
+
+“Future Colony problem,” they said together and got back to work.

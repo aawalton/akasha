@@ -1,0 +1,69 @@
+---
+id: 5c9cc39f-87a1-54d5-a0de-c87bbf790a2a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1763 - Downtown"
+slug: 0415-chapter-1763-downtown
+partOf: chrysalis
+position: 415
+ownLength: 1021
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3220633/chapter-1763-downtown"
+royalRoadId: "3220633"
+---
+
+Well now, four Krath outposts down in record time, if I do say so myself. My mood is light as a feather as I reunite with my pets and head down into the depths. After how much I suffered in the fifth before, being able to crush and dominate in those diseased tunnels brings a song to my heart and a metaphorical tear to my eye.
+
+My non-melted eye. I really can’t emphasise enough just how unpleasant it is to have your eyes constantly melting from acid air while you attempt to heal them so you can, you know, see. Not something I’ll need to experience again! Diamond eyes for the win! Far superior to diamond hands!
+
+Crinis is once again clinging onto my carapace while I try to prevent her slipping inside it, as Tiny and Invidia enthusiastically tell me about the jolly adventures they went on punching and blowing things up. Invidia, for the most part, is happy to give Tiny the limelight, but he does emphasise how excellent and valuable a friend he is. Something I’ve noticed he is keen to stress since his last evolution.
+
+To be fair, he has proven to be a great friend, to pretty much everyone he meets. More power to him!
+
+As we descend, I can’t help but be impressed by the sheer scale of what the Colony has achieved in the last six months. The territory we’ve claimed is enormous. Considering we haven’t had it for long, the infrastructure that’s been built in here is absolutely insane. There are long vertical tunnels that have been converted to massive elevators running for dozens of kilometres. Channels have been built connecting each of the major ant fortresses, creating a vast network that thrums with power every time I go near it. It’s hard to imagine the sheer quantity of mana that’s running through these pipes, or even think about the absurd volume being held within the fortresses themselves.
+
+Thinking back to when the family was just me, the Queen and a few hundred hatchlings, it seems insane that we’ve come this far in such a short period of time. It’s not even the construction itself that is so mind-bending, but the tunnels that it’s built in.
+
+These tunnels were a toxic wasteland not that long ago! Perhaps the most inhospitable terrain in the entire Dungeon! Getting here is almost impossible, living here is a dream within a dream, building large-scale projects here is fantastical fiction!
+
+And yet, here we are. I guess, I’m proud. My siblings are so incredible! Just looking at what they can achieve, without my help, is truly humbling. It’s nice to think that, even if I’m not around, the family will be fine.
+
+It’s comforting. Also a little sad, but mostly comforting.
+
+It takes days of solid, unbroken travel to reach the depths of the territory. Even using the elevator tunnels, we are moving hundreds of kilometres down and it just takes time. By the time we finally arrive, I’m starting to think some teleport gates might be in the cards. I understand why they haven’t been used, the mages are concerned about background interference from the corruption, and the fact that if territory is lost between the entrance and exit, they become extremely dangerous.
+
+When the last elevator finally comes to a stop, I feel a sense of relief. I’m not used to having to walk so far to get to a fight. I can remember when there were battles right outside the anthill! All in all, I’ve spent the better part of the last two weeks running and waiting. I don’t like it!
+
+There are thousands of ants travelling with me on this elevator ride, most of them from the various combat castes. New troops being shipped in to reinforce the frontline. Along with them comes a slew of materials on enormous pallets, ready to be pushed onto the rails and distributed to where they need to go.
+
+Stepping off the lift, it doesn’t take long for the ant in charge to find me.
+
+“Eldest, welcome,” says Brendant.
+
+At tier six, the soldier has grown to a respectable size, her carapace and mandibles reinforced through mutation and additional support organs to become formidable weapons and defence. Although, if I were to guess, it seems as though Brendant has put more attention and energy into her offence rather than her defence.
+
+Her head is slightly larger and wider than I might have expected for an ant her size, testament to the extra muscle she’s packed into her head to strengthen her jaws. In addition, it looks as though she has not only reforged her mandibles into a rather fearsome and incredibly sharp-looking material, but also attached some sort of external organ that runs their length and connects to her carapace under the head.
+
+“What the heck have you got on your mandibles?” I ask, curious.
+
+“These? It’s a Burst Jet Cutting organ. When I chomp, it unleashes a highly pressurised burst of water through holes in my mandibles.”
+
+“Water?”
+
+“You’d be surprised how well it can cut. I’ve got another organ in my thorax that generates, pressurises and stores the water. Mandibles cut, water cuts again, works well.”
+
+That sounds… cool as heck. Wow.
+
+“Hey, if it works for you. What do you need me to do?”
+
+“What do we not need you to do?” Brendant replied.
+
+“That bad?”
+
+“Worse.”
+
+Well, that isn’t what I want to hear. Leading the way, Brendant directs me through the lower reaches of the Colony’s foremost outpost, right on the frontier of our territory. As expected, it’s a hive of activity. There are entire floors of hospitals dedicated to detoxing ants from the frontline, along with station after station of wuffers, each of them puffing contentedly as they consume an endless torrent of corrupt mana and convert it to safe, purified energy.
+
+In this fortress alone, there are three hundred thousand combat troops on duty at any time, with twice that number off-duty and preparing to rotate in.
+
+It is the focal point of the entire campaign now and it is failing.

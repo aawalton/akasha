@@ -1,0 +1,57 @@
+---
+id: cc0ee976-4897-59cd-9a64-3f2e0c9f4ce7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1785 - World of Sludge"
+slug: 0437-chapter-1785-world-of-sludge
+partOf: chrysalis
+position: 437
+ownLength: 874
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3352012/chapter-1785-world-of-sludge"
+royalRoadId: "3352012"
+---
+
+All-consuming, the war to end all wars, where victory and defeat meant the difference between having a future or vanishing into darkness.
+
+I thought my determination to win would burn brighter than ever in the heart of this conflict, would turn my misgivings to ash and drive me forward. At times, it does… but others… it isn’t enough.
+
+I would have welcomed this task under normal circumstances. A puzzle and challenge unlike any other. I know that losing here would feel like losing, and I refuse to lose, but so far I have found that winning doesn’t feel like winning.
+
+Rest well, Senior. It will be over soon.
+
+-           From the private notes of Solant.
+
+Holy. Moly.
+
+That is a lot of mucus.
+
+After somehow scaring off the bizarre tier nine-ish monster who lives in these tunnels, I retrace my steps, float over the still-hissing mess that the Krath shot at me and start to chase them down. Wiggly and almost undetectable, the Krath’s gravitational signature isn’t the easiest to follow, but it’s better than any other method of tracking them, since they’re such masters of stealth.
+
+Which leads up and around a few tunnel branches and eventually into a wide cavern into which the massive artery that emerged from the lungs emerges. I have to say, that thing gives me the heebie-jeebies. The way it pulses wetly is one thing, but the sound, the roar of mucus being pumped through it is just… disturbing.
+
+I’m pretty sure if I chomped into it and cut through the thick wall of the thing, the sheer pressure of the mucus inside would tear my antennae off and crush my carapace. Even if it didn’t, the sheer amount and toxicity of the stuff would bury me in a second, like standing in front of a dam’s emergency release valve when they flip the switch.
+
+Thankfully, this is where that massive artery splits. Like the most disgusting piece of pipework imaginable, it divides into two, then four, then a dozen smaller, still completely awful vessels that attach to the ceiling of the chamber and then spread out in different directions, carrying their toxic payload elsewhere in the Dungeon.
+
+And it’s here where the evidence of slug interference is most prevalent. As those vessels split and depart, sunk into the quivering flesh of the ceiling, there are clearly signs of manipulation. Added vessels, similar to the naturally occurring ones, but… worse, have been attached all over the place, siphoning off mucus and plunging into the roof, vanishing up to a higher level. Clearly the Krath who live in this area have found a way to manipulate the fleshy substance that makes up the tubes, but they aren’t perfect at it. Even more diseased and broken than the rest of the stratum, I wager they have to constantly repair their work here, lest they burst under the pressure and flood the area.
+
+I wave my antennae around, seeing if I can sense anything… sluggish, and there are definitely a few of them around, but not a large, concentrated group like I was hoping for.
+
+Still, I’m certain they’re up there somewhere, I just need to keep looking.
+
+Backing out of the chamber and into the tunnels, I scratch around here and there, but once again, it proves impossible to find a path to where I’m trying to get to. Determined, I don’t give up, and eventually come across a clue. It’s tiny, probably no bigger than a human fist, but it’s a hole that I can trace going into the wall and snaking up and away.
+
+Krath tunnel.
+
+I really don’t want to go digging into the walls here, considering how gross they are, but I don’t have much choice in the matter. What follows is the least zen-like digging session of my life as I chomp, slash and shudder my way forward, cutting into and forcing my way through the disgusting, fleshy walls. It takes much, much longer than I would have liked, but eventually I do break through into a new space, and what I find is not exactly what I expected.
+
+If I were to liken it to anything that I’ve seen before, then I would say it’s a canal network. However, Venice it isn’t. The only tourists visiting this place are suffering from chronic sinus infections and take acid baths regularly.
+
+There isn’t much room for a monster of my size, putting it mildly. Keeping myself up and out of the sludge channels, which move with an unusual amount of zip for mucus, is a challenge while the roof is so low. Exploring a little further, it quickly becomes apparent that this wasn’t something that was built overnight. Interconnecting channels, junctions, strange flesh contraptions pumping sludge to higher elevations and all sorts of shenanigans. What’s more, there are Krath everywhere.
+
+Every tunnel I go down, every branch I check, they’re in there. Getting the heck away from me, sure, but there are a ton of them around. Which means I’m getting very close to their hiding place.
+
+Gweheheheh. Get ready, slugs, soon you’ll have nowhere to run!
+
+I can almost feel the unending wave of cleansed mana pouring through these tunnels. It’s going to be glorious.

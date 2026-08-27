@@ -1,0 +1,85 @@
+---
+id: fb60f903-ff47-5679-89d7-4cd50a2154fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1760 - Lost Treasure"
+slug: 0412-chapter-1760-lost-treasure
+partOf: chrysalis
+position: 412
+ownLength: 1012
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3209487/chapter-1760-lost-treasure"
+royalRoadId: "3209487"
+---
+
+Merchant hadn’t been to the fifth before, but so far she didn’t see what all the fuss was about. Not that she was likely to ever go anywhere near the frontlines, her battlefield and that of her siblings were not remotely similar. Of course, she had the utmost respect for the sacrifices and suffering of the soldiers, generals, and the rest who fought so hard for the family, but that type of conflict simply wasn’t interesting to her.
+
+Besides, she could bring the firepower of ten thousand soldiers to the battlefield in the form of cores and other materials. The value of her work was simply that high, and she was well aware of it.
+
+“I’m glad you were able to pay us a visit,” the ant before her said coolly.
+
+Someone Merchant had heard a lot about, but had never had the opportunity to meet, her fellow Champion: Solant.
+
+Merchant swept out a neat bow, pulling back her cloak and flashing the light off her glasses.
+
+“A pleasure to meet the Colony’s most reputable general. I’ve been eager to meet the sister responsible for consuming the entire resource generation of our family. Why, if someone were to calculate the expense of this invasion, they would find the numbers to be mind-numbingly high.”
+
+The general paused for a brief moment, but her antennae waved in an uncaring manner.
+
+“I’m not sure any ant would bother to consider such a thing. I have been instructed by the Eldest to achieve victory here, and victory I shall achieve.”
+
+“Oh, I can think of one ant who might run the numbers.”
+
+Merchant had, of course, run the numbers. They were appalling. Beyond appalling. The cost in resources alone was astronomical, but if the labour of the ants involved was also taken into account….
+
+Any nation the Colony had yet encountered would be buried in debt for generations.
+
+What the family could have achieved with those resources and effort! Just thinking of the monumental projects and dizzying heights she could have spun together with even a fraction of what Solant had consumed down here…
+
+She would have to get her own projects approved by the Eldest in future. It was clearly the only way to get the full force of the family behind her. She gracefully waved a leg and pulled out a fresh cigar, placing it in her mouth but not lighting it just yet.
+
+“Well, I have been asked to investigate the harvest from this new, resurgent fifth stratum environment. I’m sure you’ve dug up all sorts of interesting things.”
+
+“Our focus has been on the war against the Krath and achieving the mission that has been placed in front of us. There hasn’t been much time for digging up… trinkets.”
+
+“A trinket to us could be worth an unimaginable sum to others. These are materials that none on Pangera have access to except for us. Who can say what value they might possess?”
+
+“Indeed, who can say?” Solant echoed.
+
+“Me, I can,” Merchant replied, clacking her mandibles with laughter. “That’s why I’m here. Please, lead me to the treasures.”
+
+Turning on the spot, the general began to lead the way, moving through the wide passages of the fortress and skirting through the furious traffic with relaxed ease. For her part, Merchant took in the sights, sound and smells of this new place. Considering that she had carefully calculated just how much material and energy the Colony was pouring into this place, seeing it for herself was gratifying in a way. She knew exactly how extraordinary this undertaking was, down to the last coin.
+
+“We have gathered what we’ve found here and had some of our foremost material specialists examine it,” Solant said as she led the way to a narrow opening.
+
+Within lay a fairly roomy chamber, tables with sealed tops spread evenly throughout in a grid pattern. There were a few ants inside already, but only one that Merchant recognised.
+
+“Smithant,” she called out warmly, “lovely to see you again. I hope you haven’t been so distracted that your workshop will be neglecting my order? I need that steelwork done on time.”
+
+The foremost smith of the Colony looked up from what she was working on and clacked her mandibles in irritation.
+
+“You…” she said flatly.
+
+“Me,” Merchant confirmed merrily, bustling over to sticky-beak. “What are you working on?”
+
+To her eyes, it appeared like an ingot of rather plain-looking iron that was sitting atop some sort of… fungus or mold? Whatever it was, it seemed as though the organic material was growing into the metal.
+
+“It’s a type of bacteria-bearing fungus,” the smith replied. “At least, that’s what I’m told. All I know is that it seems to have a symbiotic relationship with metal. Eats into it, but also makes it stronger at the same time.”
+
+“That’s… interesting,” Merchant said, considering the possibilities.
+
+“Only problem is, if we fire the metal after the bacteria has taken root, we kill it and the metal turns brittle and useless afterwards.”
+
+Merchant peered down at the greenish-red substance on the plate before them. It did indeed seem to have grown into the ingot. Fascinating.
+
+“Metal we can’t shape isn’t that useful to anyone,” she observed.
+
+“We can shape it,” Smithant rebutted grumpily. “We just don’t know how yet.”
+
+“I’ll leave you to it,” Merchant said, clapping the smith on the back with one leg. “Do you mind if I look about myself?” she said, turning to Solant.
+
+“By all means,” the general replied, looking as calm and collected as always. Yet, Merchant couldn’t help but detect her sibling was feeling somewhat bored. No doubt she had plenty to do and was clearly unconvinced this venture had any chance of proving useful.
+
+With permission, Merchant happily transformed into what the humans liked to call a hatchling in a sugar storehouse. Every table held a different type of treat and she was eager to see them all.
+
+From the pouch that always rested on her side, she withdrew a host of implements and got to work.

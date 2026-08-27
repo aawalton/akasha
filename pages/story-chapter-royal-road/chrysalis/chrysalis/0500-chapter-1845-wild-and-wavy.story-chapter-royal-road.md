@@ -1,0 +1,73 @@
+---
+id: f4019d09-8b98-5553-a85f-b8645854c1b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1845 - Wild and Wavy"
+slug: 0500-chapter-1845-wild-and-wavy
+partOf: chrysalis
+position: 500
+ownLength: 928
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3823617/chapter-1845-wild-and-wavy"
+royalRoadId: "3823617"
+---
+
+Holy moly! What in the name of all that is good and Gandalf is that?!
+
+Hovering a good five feet off the ground and looking like a pulsing mass of… something, the monster is blasting me directly in the bonce with powerful mental attacks. Looking at Tiny, he’s probably already succumbed to it and is about to start swinging at me, so I ask Invidia to straighten him out before things go poorly for us.
+
+After staring at it a little longer, I realise where the vague sense of familiarity is coming from. This monster is formed of those weird little blob and rope creatures, the one that tried to suck my brain through the carapace a few days ago! It’s like… thousands of them all stuck together to make… this.
+
+A moment later, I realise what this actually is. It’s a brain. A floating brain. Which means that little monster thing was actually… like… an individual neuron?
+
+Monsters down here in the fifth are so freakin’ weird. I never thought I’d be thinking it got stranger after the corruption was cleansed, but here we are. Well, I can’t just stand around and let it attack us. Sorry, brain, you’ve got to go.
+
+[You have slain level 24 Cerebrum Juvenile]
+
+[You have gained XP.]
+
+I half expect it to dissolve back into its individual, ‘cellular’ components, but nope, it just collapses to the ground. I’m tempted to take a nibble just to see the basic profile, but I don’t really want to. Most of what I eat now is pretty unappetising, but that is truly, spectacularly unappealing.
+
+How do the monsters down here even work? Do they evolve like regular monsters, or do they group together to evolve? Most of the advanced forms of native fifth stratum monsters have been collectives of basic tier one spawns, all rolled together to make a tissue or organ of some variety.
+
+Can they go even further? What if a brain, a bunch of muscles and bones along with stomach, lungs, maybe a liver or something, all team up and group evolve? Do they bond together to make some sort of super monster!?
+
+I don’t want to find out and thankfully, I won’t have to. Soon enough, this is all going to be someone else's problem and I can go explore the sixth.
+
+Word came down from above that the wave is building pretty fast, so I’ll have to hang around here and wait until that blows over, help batten down the hatches and all that, but once it’s done… new frontiers!
+
+Also, ever since the word came down about the wave, I immediately started to notice the density of mana going up really fast. Along with the mana goes the spawn rate, causing way, way more of the tier one monsters to start jumping out into the tunnels, infesting the lungs and tunnels around the hearts.
+
+The more of those little critters there are, the faster the higher tier monsters have started to appear. In truth, the fifth might be the most profitable area for the Colony to set up farms. If the monsters can evolve just by grouping together… although how do they power up their cores then? They’d still need to fight and absorb the cores of their defeated foes.
+
+Still, with mana so thick and abundant here, monsters can form them pretty darn quick. No need to drink the electric water like I did; as long as they get the Levels, they can form one right fast.
+
+I’ll leave it to the smarter ones at the Colony to work out, I’m sure they’re on it already.
+
+My job is to make sure the mana in here stays clean, which it is, and that the Krath don’t show their sluggy faces, which they haven’t.
+
+We’re in the lower reaches of the tunnels at the moment. Just a few kilometres lower, maybe five or six, and this stratum will give way to the next. I can feel it, the hook in my soul, always there, always pulling. Normally an insistent, steady tug, right now it’s more like an impatient yank, ripping at me every time I so much as look in a direction that isn’t down.
+
+Just because I went down there for even a moment, the Call has decided that’s where I belong. Now it won’t stop hurting me until I get down there again. Once I’m there, it’ll be content, for a while, then it’ll start again, gently at first, pull, pull, pulling at my soul, until I go deeper.
+
+I’m really looking forward to having a conversation with the monster responsible when I get down there. Holy moly, I have some stern words for them!
+
+[Is everything alright, Master?] Crinis asks me.
+
+[Yes, fine. I’m right as rain,] I tell her, pulling myself around and enduring the savage pull of the Call. [Are we sensing anything strange around here?]
+
+[I can feelssssss it,] Invidia rasps helpfully. [The mana issss changing.]
+
+[Well, yeah. The wave is coming. I can feel that much.]
+
+[The sixthsssss. It’s risingg!]
+
+What? My antennae wave through the air curiously. There is a strangle tingle in the air, a little hint of electricity.
+
+[You feel that, Tiny?]
+
+The big ape nods, one thick finger pointing to his fur. A shock of energy jumps from the tip of the digit to his body in a loud spark.
+
+Yikes. There must be monsters coming up from below already. That’s not good, not good at all.
+
+[Alrighty, we are heading back to the fortress immediately. Let’s move!]

@@ -1,0 +1,93 @@
+---
+id: 71d5d2a9-d1fe-5431-bef6-0c585a60baa8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1682 - Awakening"
+slug: 0333-chapter-1682-awakening
+partOf: chrysalis
+position: 333
+ownLength: 989
+unit: words
+ownProgress: 989
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2733139/chapter-1682-awakening"
+royalRoadId: "2733139"
+markedReadAt: "2026-06-29T19:54:27.917Z"
+---
+
+Coming out of an evolution is always a bit of a weird feeling. I mean, if a human went to sleep and woke up in an entirely new body, they’d feel pretty weird.
+
+For me, it’s even stranger than that. Not only do I change size and shape, but my insides get reorganised as well! New things get stuffed in there, existing things get moved. I would’ve thought I couldn’t tell what was going on in there, but when it’s changed, I notice!
+
+Sheesh. My legs feel like they’ve been welded in place. What the heck is going on here? Sloooowly stretching, I’m able to eventually get some movement in my stiff joints. Get that ichor flowing, dammit! I’ve got places to be.
+
+I think. I don’t really remember all that well. There’s definitely a sense that someone needs a good thwacking, but who?
+
+My eyes, nothing but a blur at first, start to focus, and the compound view of the world around me becomes clear. My antennae twitch, and I wonder just what the heck has been going on around here?
+
+The reinforced ceiling and walls, with thick bars of enchanted steel? Sure, that’s fine. The protection circle drawn underneath me, engraved in the floor with some sort of liquid silver? Alright? I guess? Maybe going a bit overboard now.
+
+But the statues and engravings are way out of line!
+
+Who in their right mind let that stone-hacking chisel monger, Michaelangelant, in here? I know it’s her, it has to be her. No one else in the entire Colony would create these ridiculous poses and absurd, flowery murals! Every spare inch of this place is covered in artwork—just how much spare time does that slacker have?!
+
+“Eldest, you’re awake!”
+
+Wha? It’s taking me a while to catch my bearings this time. How long was I out? This feels a lot different than the last time I evolved.
+
+“Who’s that? Coolant? What are you doing here?”
+
+Isn’t it a waste to have a powerful member of the Council babysitting me? Surely they have better things to be doing?
+
+“We’ve been watching to see when you would awaken. It’s my turn this week.”
+
+That initial burst of excitement is gone and now the cool-as-ice Coolant has returned. I finally focus on her and see that she’s as blue and chilled as ever. The air around her is so cold she’s got bits of frost on her carapace. Always taking it to the extreme.
+
+“Wait a second. This week? How long have I been evolving?”
+
+“Six months.”
+
+“WHAT?!”
+
+Six months?! That’s absurd! Wha… What happened? There must have been a wave. More than one! Is everyone alright? Did the family do well while I was asleep?
+
+Oh no!
+
+What if the family did super well while I was asleep? Have they realised they don’t need me around? Am I unneeded? Have I been abandoned here, left to rot alone and sad in this vault?
+
+Is it happening again? How could it happen again?
+
+“Uh, Eldest? Are you alright?” Coolant asks me, sounding concerned.
+
+“Of course! Of course, why wouldn’t I be?” I try to stand up, but my legs don’t want to work properly. “I’ll be, uh, right to help in a moment, not to worry.”
+
+Coolant extends a leg and places it on my carapace.
+
+“Eldest, take your time. You’ve been asleep for months, and your body has gone through a lot of changes. There’s no rush. The Council will come to see you as soon as they realise you’ve woken up, but it will take them some time to arrive. You can take a few days to get used to your new self.”
+
+“A few days? I’m sure they’re too busy to come and see me. There must be a ton of things going on.”
+
+“Of course they’re busy, but everyone has been waiting for you to wake up. They’ll be so excited to learn that you’re awake.”
+
+“They will? Well… of course they will. Why wouldn’t they be? Has everything been alright while I was out?”
+
+Coolant waves a dismissive antenna.
+
+“Nothing but trouble. The fifth is an ongoing struggle. Every day is another disaster. There’s trouble on the border, delving teams sneaking into our territory. The Church of the Path is making noise, trying to drum up anti-Colony sentiment… the list goes on.”
+
+“Really!? Ahem… I mean… uh… oh no. That’s terrible. Well, I can’t wait to get out there and help out. I’ll be right as rain in an hour or so.”
+
+It’s good to feel needed. For a moment there, I’d been worried about… well, never mind.
+
+“Granin wanted us to remind you that you should mutate your tendons to Toughened Fibrous Tendons +15 as soon as you wake up. Moving around without doing so could lead to internal damage in your body if you push yourself too far. I’ll arrange to have some Biomass brought in for you.”
+
+“Oh. Thanks, Coolant. I appreciate it.”
+
+“It’s the least we can do.”
+
+The icy mage skitters off, leaving me alone in the fortified bunker that is my evolution chamber. I can only vaguely remember the whole mess that happened leading up to my evolution. Things were sketchy there for a while, and I ended up having to take a goopy, stinky species in order to not die, which was a pain.
+
+Irritated, I open up my menu and get ready to mutate. I don’t particularly want to injure myself just walking around, so I’ll take Granin’s advice.
+
+I find the necessary mutations and select them, then reluctantly take a look at the rest of my status. I don’t really want to see what the corruption has done to me, but I may as well get it over with.
+
+Except… I can’t find it. There’s new organs all over the place, but there aren’t any that scream ‘icky toxic mess’ to me. Where the heck are they?

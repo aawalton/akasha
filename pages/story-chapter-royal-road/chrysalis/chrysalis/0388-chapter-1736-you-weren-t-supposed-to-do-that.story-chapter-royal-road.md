@@ -1,0 +1,85 @@
+---
+id: 260b67b6-4a72-5db7-8fd4-27e0145aba60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1736 - You Weren’t Supposed to Do That"
+slug: 0388-chapter-1736-you-weren-t-supposed-to-do-that
+partOf: chrysalis
+position: 388
+ownLength: 1039
+unit: words
+ownProgress: 1039
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3061443/chapter-1736-you-werent-supposed-to-do-that"
+royalRoadId: "3061443"
+markedReadAt: "2026-06-29T19:56:12.914Z"
+---
+
+I had made a simple plan, because, in my opinion, complex plans are about as useful as no plan at all. Solant would disagree, I get that, and maybe for her, it would be fine. For me? I know my limits. More importantly, I’m working with Tiny, and that idiot priest, and other people of questionable intelligence.
+
+What would be the point in overcomplicating things?
+
+Maybe I was a fool to think ‘wait until I tire them out, then join the fight on my signal’ would be easy enough for anyone to understand. How could it possibly be misinterpreted?! I just… I just don’t see that there is any room for a mistake!
+
+So why in the name of all things good and great in this world, like grubs, and tickling, and tickling grubs, are the humans charging out of formation, leaving the ants behind?!
+
+Of course that idiot Beyn is in the lead. You only have one arm, you idiot! You don’t even have a weapon! Or armour! Or, apparently, a brain!
+
+Ugh.
+
+Meanwhile, I’m over here getting the absolute heck battered out of me by ten thousand people! I have to say, I did not expect the sorts of shenanigans these folks have been able to produce. Lances made of light that seem to move at the speed of light was one thing, but the fire arrows as thick as my antennae being fired at me were unexpected. As was the golden bell of disorienting doom. Every time it bonged I felt like my brains were going to start leaking out of my non-existent ears.
+
+Lightning pillars, I didn’t see those coming, nor did I see the use of Force Magic to try and push me around and deflect my attacks. When I tried to use Starcrusher the second time, they tried to blast it straight back into my face. Clever, but not entirely successful.
+
+They have a lot of techniques to try and disorient, slow and contain me, to tell the truth. It makes sense when I think about it. Directly fighting a monster like me? Unlikely! Wearing me down, restricting my movement, limiting my ability to use mana and gradually piling on the damage seems to be their style.
+
+It’s just not working.
+
+For one, I’m not tired in the slightest. For two, I have an unbelievable reserve of mana to draw on. Trying to starve me out of arcane power is a futile endeavour. For three, my tendons are strong enough to take an empowered Dash now, so they can’t hope to hold me down. No matter the chains of spirit light, the sudden bogs, the water dragons, or even the metal binding technique they use, the second I think things are getting hairy, I am outta there.
+
+If I had to do it too many times, too close together, I’d be worried, but so far I’ve been able to hold steady.
+
+Being honest, though, I didn’t expect them to be as successful as they were at putting damage on me. My carapace is no joke, and just hitting me is difficult, let alone hard enough to actually hurt me. The fact that they’ve been able to do so much is impressive.
+
+Shame that none of it is enough to overcome my healing gland. Er, network. Whatever.
+
+Which is going completely crazy, by the way. I think I must have maxed out the healing rate at some point, surely it can’t get any higher than it is now, or perhaps I’m just completely numb on the inside, since my innards feel like they’ve been dipped in the arctic ocean in wintertime.
+
+I’m cold!
+
+Filled with disbelief, I’m not even dodging properly as I watch these idiot humans come charging over, waving their weapons like crazy people, clearly forgetting the plan.
+
+Deeply irritated, all I can do is wave an antenna toward the waiting ants, who have maintained their formation, but are clearly confused. Seeing the signal, they too begin to charge, although they manage to not look insane as they do so.
+
+[Tiny?]
+
+[Punch?]
+
+[Yes, Tiny. You can punch now.]
+
+[Good!]
+
+[And me, Master? Can I KILL AND MAIM THESE DISGUSTING—]
+
+[No. No you cannot.]
+
+[Well, can I use my magic and scare them a bit?]
+
+[As we agreed, yes you can.]
+
+Sheesh.
+
+I’m sorry, army of people trying to kill me and harvest my organs for profit, I did my best to keep as many of you alive as I could, but some idiot priest went and ruined everything. If it’s any consolation at all, I will scold him severely when I get back to the nest.
+
+Filled with a sense of resignation, I do my best to dodge and maintain the Gravity Domain as Tiny roars from a distance. I can almost see the reaction ripple through the gathered troops. It isn’t fear, not exactly, but they aren’t happy to hear it. Nor are they happy to see him rapidly bounding toward them, his whole body wreathed in crackling lines of electricity.
+
+And he looks so darned happy to be here.
+
+When the tentacles erupt out of the ground and start snatching people up, that’s when I think the fear begins to kick in. When Crinis starts unleashing her Curse Magic, it gets significantly worse. Having never seen her use it all that much, I’m not exactly sure what to expect, but the horrifying visages formed of black and purple mist that cackle through the air and plunge into people’s chests are significantly worse than I thought it was going to be.
+
+Everyone hit by the spell twists and shudders like a zombie, battling some internal foe as they try to keep on fighting.
+
+Yikes! That’s creepy…
+
+When Tiny finally arrives at the battle, he does so with the force of a storm, battering into the ranks of troops with wild abandon, bolts of lightning crashing around him. At first I don’t even notice Invidia riding on his shoulder, but the first detonation alerts me to his presence. It looks like he’s casting a heck of a lot of shields, trying to keep his mount alive and leaving most of the devastating to Tiny.
+
+This… this is going to go downhill fast.

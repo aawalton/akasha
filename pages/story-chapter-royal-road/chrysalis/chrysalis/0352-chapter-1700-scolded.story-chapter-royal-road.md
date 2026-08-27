@@ -1,0 +1,87 @@
+---
+id: ba777b9e-d890-5483-a998-4eb8d663ed49
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1700 - Scolded"
+slug: 0352-chapter-1700-scolded
+partOf: chrysalis
+position: 352
+ownLength: 977
+unit: words
+ownProgress: 977
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2831493/chapter-1700-scolded"
+royalRoadId: "2831493"
+markedReadAt: "2026-06-29T19:55:04.484Z"
+---
+
+[You did what?]
+
+So loud! Sheesh.
+
+[You have absolutely nothing to complain about,] I grizzle. [I haven’t killed anyone, not even the delvers trying to capture my siblings so they can sell them to a church and melt them down for experience juice. Asking any more from me than that is ridiculous. Pin a medal on my carapace, dammit.]
+
+[You leaked details of your own physical body in order to lure delvers to try and attack you?] Chyron stated. [Do you have any idea what kind of response that will create? I don’t even know what’s in there, but I know it’s rare.]
+
+What kind of response? A big one, I hope. Does she expect me to complain if I get more rats than I expect in my trap?
+
+[And what? You expect me to… feel sad?]
+
+[I expect you to think before you act,] she growls.
+
+Lady, you’re in for a rough time if that’s what you’re looking for.
+
+[Aren’t you supposed to be getting me killed or something? What do you care if I bring an army of delvers down on my head? I didn’t expect complaints from the Legion, I expected a cheerleading section!]
+
+Morrelia looks like she’s struggling not to laugh. I was taking a break and spending time with Tiny and the gang when Chyron and her two most senior officers turned up. I barely had the time to stand up before Chyron whipped off her helmet and started yelling at me.
+
+I’m going to have to ‘thank’ Solant when I get back to the fifth. I had no idea she’d agreed to let the Legion follow me around in order to secure their help during the wave. My antennae swing heavily through the air.
+
+Rather than a light and sharp ‘swish swish’, they give a rather more ponderous ‘thwoom thwoom’ sort of sound. They’re just too dang big. It’s not going to be easy to figure out how hard I can thwack the little general without smashing her carapace to pieces.
+
+I’ll need to find that line and then dial it back two or three percent.
+
+[I won’t say no if you want to get yourself killed,] Chyron says, staring up at me with her arms crossed. [What I’m worried about is the disruption and potential damage you’ll cause with your stupidity. At a time when the waves are growing stronger and the cities are struggling to hold off the monsters, if you destroy a thousand high-Level delvers, then Green Mountain may not survive another year.]
+
+[Which is my problem how?] I say, exasperated. [If they lose the fight they picked, who do they have to blame other than themselves?]
+
+[Isn’t it the Church of the Path who picked the fight?] Chyron says pointedly. [The delvers of Green Mountain are only a proxy trying to do their jobs.]
+
+[You aren’t helping your case. Their ‘job’ is abducting my sisters to be painfully and slowly melted into vitamin smoothies. Why am I supposed to show infinite forbearance when it isn’t shown to me and my family? Come to think of it, how in the heck am I getting lectured on this by a member of the Legion?! You lot are entirely without chill when it comes to monsters! Chill-less! No chill to be found!]
+
+I point an accusatory antenna at the Commander.
+
+[You have ties to Green Mountain, don’t you? Grew up there? Family? Own a quaint bistro? Investment property? Got married in a scenic church thirty years ago to a poet named Romero, and now that he’s gone, all you have left are the memories and the sandals you wore when you strolled along the beach hand in hand?]
+
+That got… surprisingly detailed.
+
+Morrelia's shoulders are literally shaking and the other officer isn’t much better off. He’s holding it in so far, but his expression is suspiciously tight. If something doesn’t change, he looks like he’s going to pop.
+
+Chyron is silent for a long moment.
+
+[I was born there,] she begrudgingly admits.
+
+[Well, maybe spend some time convincing the people of your birthplace not to poke the bear. In this instance, it’s not a bear, though, it’s an ant. But… like… a really big and powerful one.]
+
+Poke the ant just doesn’t sound as impressive as poke the bear….
+
+[Sh-should I go and get Sarah? She’s a type of bear. I’m pretty sure she can eat a whole lot of delvers. Though she wouldn’t like that. Look, I’m pretty sure the Colony even tried to pay off Green Mountain and they refused our money in order to keep hunting us. I really don’t think they have a leg to stand on when it comes to how we treat them from this point forward.]
+
+I’m trying to be as polite as I can while still telling Chyron to butt out. She’s totally aware of it as well.
+
+[I’ll be keeping an eye on you for the near future,] she growls, glaring up at me. [I’m aware you’re being as… generous as you can be, but I’ll be forced to act if I believe you are going to bring harm on the sapient people of Pangera.]
+
+[Which doesn’t include me.]
+
+[Which doesn’t include you.]
+
+Sheesh. These people are hopeless.
+
+[I feel like I need to remind you of something here, Chyron. When you say you’re going to act, I assume that means you’re going to try and stop me from doing what I want.]
+
+I drag my antenna through my elbow joint. It’s incredibly satisfying to have them be clean and free of dirt and such.
+
+[Now, a thought comes to mind when I picture that scenario.]
+
+I point to Chyron, Morrelia, and whatshisname with a foreleg.
+
+[You’re going to stop me? You and what Legion? I’m a tier eight mythic monster. The three of you can’t stop me from doing anything.]

@@ -1,0 +1,69 @@
+---
+id: c7116807-09d8-5269-9bfe-131d0b7257a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1816 - It's Hard to Break a Slug's Back, But Not Impossible"
+slug: 0470-chapter-1816-it-s-hard-to-break-a-slug-s-back-but-not-imposs
+partOf: chrysalis
+position: 470
+ownLength: 1054
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3545710/chapter-1816-its-hard-to-break-a-slugs-back-but"
+royalRoadId: "3545710"
+---
+
+Most were entirely unaware of the monumental task that the carvers had accomplished with their construction work. Draining an ocean’s worth of highly acidic, immeasurably toxic goop wasn't a simple matter. Anything that came into contact with the stuff was liable to break in a matter of minutes, and if it broke containment, then there was a very real risk of it flooding into areas the Colony didn't want it to go, with no way to fix the problem once it had snowballed out of control. Pumps that didn't need to touch the material they were pumping, pipes and shafts that would be able to withstand the potent acid until the work was done, methods to contain the contamination and provide safeguards against it spreading into the fortress.
+
+All of it developed and implemented in a matter of days.
+
+Solant, for one, was perfectly aware of what the build teams had achieved, and she was extremely grateful and impressed. She stood atop a massive grating, looking down into one of the shafts, with Tungstant by her side. Beneath them, the steel was rattling slightly as the enormously powerful pumping mechanisms came online, sucking in the slime in their holding tanks and bringing it up to pressure within the feed pipes. The carver pointed and Solant followed the leg to see the first pipe begin to drip mucus from the outlet.
+
+"Give it a second for the pressure to build up," Tungstant grumbled.
+
+"I didn't say anything," Solant replied calmly.
+
+"You were thinking that it wasn't working," the carver accused.
+
+"I was thinking no such thing," came the reply.
+
+It didn't take long. A few seconds later, the drips of thick chunks of mucus became a steady, gurgling flow, rolling out of the opening and falling into the enormous void below.
+
+"It's getting there," Tungstant said.
+
+"I know it is," Solant replied.
+
+Half a minute later, that flow had upgraded to a roaring jet, flying ten metres from the outlet into empty space before arcing downward and splattering into the wall of the tunnel. From there, it oozed and squelched before vanishing into the depths, out of sight. Further rumbling indicated that yet more of the pumping stations were coming online farther down, and soon there were multiple jets of mucus streaming into the vertical shaft. Once they were all operational, dozens and dozens of these outlet pipes would be moving millions and millions of litres an hour, and that was just for this one shaft. Three others were also coming alive alongside this one.
+
+Already, a misty miasma in the form of a hazy yellow-green mist was rising up from below, but before it could hit the grating, it was blasted out of existence by a strong flow of cleansed mana, released from within the grating they stood atop.
+
+"You've made a miracle happen here, you and your teams," Solant congratulated Tungstant. "Well done."
+
+"Thanks. It was an interesting project, but I'd much rather have a wider timeframe for the next one."
+
+"I should be able to manage that," Solant said, clacking her mandibles with satisfaction.
+
+It would take days before the lower tunnels were drained enough for the Colony to make meaningful progress, but that was fine, it wasn't as if the Krath were in any sort of position to push back. They could advance leisurely for a change, expending their reserves of liquid mana in a tactical manner, rather than disgorging enormous volumes in a tidal wave and having it slosh down through the layers. Of course, executing such maneuvers would require delicate planning and flawless execution, for which she had a day, perhaps a day and a half, to arrange.
+
+"You and your teams should take a well-deserved rest," Solant said. "I'm certain we'll need you again soon when something unforeseen pops up."
+
+"A few of us will stick around a while longer to correct anything that breaks."
+
+"I thought you engineered this so that it wouldn't break."
+
+Tungstant snapped out a quick, sharp laugh, a single resounding crack of her mandibles accompanying the pheromones. With nothing else to say, the council member turned and headed back to confer with her teams, watching the pumping process from nearby and monitoring readouts on several arrays they had installed within the pipe network.
+
+So long as they were happy, Solant had nothing to complain about. She turned her back on the digging works and headed back into the fortress. Within the inner sanctum, her expert tacticians and strategists were already hard at work, poring over the still developing maps and models of the lower tunnels while arguing with each other over the best path forward.
+
+"Where were we?" she asked as she settled into her seat, generals gathering around her along with her own trusted broodmates.
+
+"It's difficult to develop a comprehensive strategy," Caesant reported, "since we don't have a complete picture of the terrain. What we think might be a key tunnel junction might lead nowhere at all."
+
+"We will have to 'play it by ear' as the humans say," Solant said, her antennae swaying gently as she sank deep into thought. "When certainty can't be found, we must use likelihood as our guide. Play the percentages, as we would say in the Tunnel Ball days. We need to shift our priorities also. Rather than seizing locations that are most likely to be key defensive positions as we normally would, we must prioritise those that will give us the most information."
+
+She leaned forward and tapped the model in front of her.
+
+"This junction here is a perfect example. Five branches, wide open, difficult to maintain our hold over it if things were to go poorly, high chances of getting flanked. Normally, I would recommend we avoid this location as much as possible. For this mission, it is of the highest priority. From here we have the highest chance to gain more information and expand our maps the furthest. In the uncertain battlefield, knowledge becomes ten times as valuable."
+
+"I see," Caesant said thoughtfully. "I will report to the others. We will develop our plan of attack along these guidelines. We should have the first stage ready in a few hours."
+
+"Excellent," Solant said, nodding in satisfaction. "As long as we move quickly enough, the Krath won't be able to escape us."

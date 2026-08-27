@@ -1,0 +1,91 @@
+---
+id: 76772972-3b76-5cb3-8de7-8fb15276c669
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1705 - Slicker Than an Eel Bathing in Olive Oil with Buttered Soap and a Wax Body Wash"
+slug: 0357-chapter-1705-slicker-than-an-eel-bathing-in-olive-oil-with-b
+partOf: chrysalis
+position: 357
+ownLength: 967
+unit: words
+ownProgress: 967
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857381/chapter-1705-slicker-than-an-eel-bathing-in-olive"
+royalRoadId: "2857381"
+markedReadAt: "2026-06-29T19:55:13.951Z"
+---
+
+Just… what is going on here?
+
+The ant in front of me is unlike anything I’ve seen before. Fancy-looking clothing, gold jewelry, glasses. It’s not over the top, but it’s enough to create an image of affluence and sophistication that… unless I’m mistaken… an ant simply does not need.
+
+“What’s your deal?” I ask this strange little creature.
+
+“My deal? I have so many of those. We can talk about them one at a time if you want, or, if you prefer, I can select a few premium offerings from my portfolio. I have a few things that spring to mind immediately. Have you considered a tasteful robe for public settings? The diplomatic corps are reporting great success from the latest line.”
+
+She really is small, possibly only tier four, but she talks… not quickly, not like Vibrant at all, but… smoothly. Effortless patter that flows like drizzled honey onto my antennae, and for a moment, I wonder if I might actually want to put a ridiculous carpet on my back.
+
+I flick my attention toward Enid and see she is watching me very closely, leaning on her walking stick as she observes my reaction. She said this was her student? Clearly the Colony has borne another Champion, because no normal ant would ever do anything like this.
+
+“I don’t want one of your rugs, I want you to tell me who you are and what you do.”
+
+Lying flat on the ground, I’m as low as I can get, and I still tower over Enid and this little ant. Hopefully she doesn’t say anything silly, one thwack will probably crush her to the floor.
+
+“A carpet? Please. This weave is spun by the finest artisans in the Colony using only silk from the gloam-worm fields of the fourth stratum. The ka’armodo are going crazy over the quality, I assure you.”
+
+I prod her with an antenna.
+
+“Did I ask you to sell me a mat or to introduce yourself?”
+
+She doesn’t miss a beat, sweeping the glasses from her eyes with a smooth gesture and executing an extremely complicated six legged curtsy.
+
+“You must forgive me, I am simply passionate about the things my siblings create. My name is Merchant, and I have been studying the art of commerce under Mistress Ruther while you’ve been sleeping.”
+
+Well… I suppose that explains a lot. She looks the part of a merchant, and she certainly seems to have learned a thing or two about selling stuff.
+
+“What tier are you?” I ask.
+
+Maybe it’s a bit rude to ask like that….
+
+“Five,” Merchant responds promptly, brushing a speck of imaginary dust from her garments.
+
+Five? But she’s still so small? I was thinking it would be a bit rash to place such important negotiations in the mandibles of an ant who was barely out of the antcademy, but tier five is… respectable. Merchant must have been accelerated by the Colony, since she clearly isn’t built for combat.
+
+Not regular combat, at any rate.
+
+“And is six months enough for you to have mastered the skills required to handle such high-level negotiations? You know what I want you to do, right?”
+
+“Have I mastered these Skills? Of course not, that will be the work of a lifetime. Am I qualified? Well, Enid Ruther thinks I am.”
+
+That’s… quite persuasive. I have a lot of trust in Enid’s opinion, and if she approves, it’s hard for me not to. Enid has been the go-to person for this sort of thing, and we probably shouldn’t have relied on her as long as we did.
+
+Actually… is it really a coincidence that this ant was born right at this moment? No matter how I look at it, surely it’s too much of a coincidence that Merchant pops out of an egg right about the time Enid becomes too old to keep working for the Colony? Obviously the brathian are doing some work on our behalf, but they don’t negotiate directly for us. It’s imperative that we have someone to handle situations such as these, and now… here she is.
+
+Could it be the invisible hand of Gandalf? Somehow… I doubt it. That bearded jerk doesn’t seem to pay all that much attention to the minutiae of the Dungeon, let alone my family.
+
+“Alright then, I suppose you’ll have to do. I’m interested to see how it goes. You’ll be in charge of negotiating a ransom fee for the captured delvers with Green Mountain. I’m sure they want their people back, but I want a good price for them. It needs to hurt when they fork over their money. While you’re at it, see if there’s someone who can negotiate on behalf of the Church of the Path. We aren’t prepared to ransom the priests back just yet, but we will probably have to eventually.”
+
+In a strangely human display, the little ant rubs her front legs together.
+
+“Well now, suddenly we’re talking my language.”
+
+With several smooth motions, she pulls something out of her cloak, snaps a claw and puts it in her mouth.
+
+“When playing Tunnel Ball, there are certain levels of play. There’s the hatchlings mucking about in the dirt, and then there’s the professionals smashing each other to bits.”
+
+She takes a contented puff on what I now see is a cigar, then sweeps it out of her mouth to tap the ash from the end.
+
+“How hard do you want me to play?” she says with a twinkle in her multi-faceted eyes.
+
+Why in the name of heck is this ant smoking right now?
+
+“Make them squeal.”
+
+Merchant clacks her mandibles together joyfully.
+
+“Oh, it will be my pleasure.”
+
+[Enid, just what have you created here?]
+
+The old woman smiles broadly.
+
+[I’m not sure exactly what you mean.]

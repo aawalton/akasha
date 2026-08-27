@@ -1,0 +1,87 @@
+---
+id: 63743860-fc68-5fc1-8ff0-3b8211780e40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1679 - Monetisation"
+slug: 0330-chapter-1679-monetisation
+partOf: chrysalis
+position: 330
+ownLength: 1132
+unit: words
+ownProgress: 1132
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2727095/chapter-1679-monetisation"
+royalRoadId: "2727095"
+markedReadAt: "2026-06-29T19:54:22.131Z"
+---
+
+The Colony didn’t, and in many ways still doesn’t, understand money. There is no trade within the family, no exchange of any kind, for most ants. Almost none of them will ever have any sort of interaction with currency. Their needs are provided for, and they labour for the Colony gladly, without any expectation or need for remuneration.
+
+Although there is an enormous amount of commerce that occurs between the Colony and others, these transactions are handled by exceptionally few individuals. If we were to consider the number of ants involved in the negotiating and setting of terms for these trades, those numbers fall even further.
+
+Tthe number of ants who actually understand the value of things, who are capable of navigating the nuances of interpersonal relationships, legal obligations and market forces, then the list is reduced to one.
+
+-           Excerpt from the personal notes of Historiant
+
+“Gate travel is cheaper.”
+
+“Gate travel was cheaper.”
+
+The little ant took another puff of her cigar, tapping the ash into a crystal receptacle that she herself had provided. For some reason, Riggurt had the impression that she was smiling at him. Was it the tilt of the antennae? The shape of the mandibles?
+
+And not a friendly smile either. The smile of a predator looking at their prey, knowing they were already caught, knowing there wasn’t any way out.
+
+Riggurt always wanted a way out.
+
+“The Colony has raised prices on gate travel?” he asked, sitting forward in his chair.
+
+If so, it would have ripple effects across all of the independent cities absorbed by the Colony in the second and first strata. Say what you would about the ants, they ran the gate network as efficiently as the Legion setting up camp. Gate operating times were four times what they’d been before, and each trip was practically free. Considering the number of cities added to the network over the last year, Rylleh was connected to more places than before they’d been conquered.
+
+Trade was booming, and that was an understatement.
+
+If the Colony was planning to raise gate prices… several of Riggurt’s own businesses could be in jeopardy. It all depended on how large the rise was. Ten to twenty percent he could absorb, more than that and his margins would be uncomfortably squeezed.
+
+“Indeed, a fifty percent price rise,” Merchant said, twirling her fore limb and watching the smoke spiral through the air.
+
+There was something about the tobacco leaf that appealed to her. Was it the heady, earthy scent? The smoke? Or perhaps she simply enjoyed using it as a tool, a way to display a sense of affluence and power. After speaking to business people all over the Dungeon, many of whom enjoyed a smoke, she’d tried it for the first time and quickly grew to enjoy a fine cigar.
+
+Already she had invested in Colony-grown tobacco. She was counting on her sisters to unlock the secrets behind the finest and most expensive of cigars. She didn’t even intend to sell them, oh no, that would be a waste. As a gift, an exclusive token of appreciation given to trusted partners, that was what she wanted them for.
+
+“FIFTY?” Riggurt choked, face growing red.
+
+“Indeed.”
+
+“That’s insane! The Merchant Council won’t stand for it!”
+
+Merchant clicked her mandibles a few times, a jaunty rhythm that put Riggurt in mind of a chuckle.
+
+“There are a few relevant truths, my friend, that are worth remembering,” she said warmly. “First, the Colony has a monopoly on gate access, and that isn’t going to change.”
+
+Knowledge of how to construct gates was extremely restricted. The resources needed to build them weren’t cheap to come by either. Even if someone were somehow able to muster both, the Colony, just like anyone in control of territory on Pangera, was not willing to allow outsiders to manage an unrestricted gate network within their domain.
+
+“Secondly, our prices are still less than half of what you would be charged in other kingdoms and empires. Fact of the matter is, the Colony was being too generous and providing the service for far less than it cost. There is no reason for us to subsidise your businesses.”
+
+This was true, sort of. Merchant understood very well that the Colony didn’t actually pay for any of the things that were used to create and maintain the gate. Labour costs were technically zero, as were material costs, along with research and development and maintenance and all the rest.
+
+But all those things didn't just appear out of thin air, either. She’d been forced to calculate differently when it came to the Colony. Opportunity cost. If all of that labour, and all of those resources, were directed into other, more profitable industries, then what did the family stand to gain?
+
+As it turned out, quite a lot!
+
+It had become obvious that the fees collected for using gate travel had to increase, and significantly. Now the ants working on the gates, and the resources that went into maintaining and operating them, were bringing in a return.
+
+This would have a dampening effect on some forms of commerce, naturally, but in some ways, it would make businesses more protected.
+
+Merchant knew very well that Riggurt had set himself up as a distributor, using the gate network to buy from one place and sell in another. By cutting his margins down, he’d been able to drive his competition in other cities out of business. Riggurt benefited, but the local economy in other places suffered.
+
+“Of course, I know this leaves you in something of a rough spot,” Merchant said, full of sympathy. She took another long puff on her cigar. “Which is why I really wanted to speak with you. After all, with the cost of gate travel rising so precipitously, moving goods through the Dungeon tunnels will become economically viable again.”
+
+Gate travel had become so cheap that manually moving goods through the Dungeon itself had fallen almost entirely by the wayside. Wagoneers, guards, Dungeon experts, all of them had been forced to go into Delving work, no longer able to rely on the safer and more reliable income from joining caravans.
+
+“An enterprising individual such as yourself should be able to make a tidy profit if they act quickly and offer contracts to snatch up the best men and women that Rylleh has to offer.”
+
+Riggurt nodded slowly.
+
+“And how do you stand to profit from all this?”
+
+Merchant cleaned her antennae casually.
+
+“Why, by partnering with you and others with our special Colony-Safe guarantee. Trouble in the tunnels will be a thing of the past, and all traders will have peace of mind knowing the Colony will come to save them from any danger. You’ll find the fees are entirely reasonable.”

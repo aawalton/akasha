@@ -1,0 +1,87 @@
+---
+id: 90946f28-d00d-5433-977f-3602aa57bf6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1849 - Growing Fame"
+slug: 0504-chapter-1849-growing-fame
+partOf: chrysalis
+position: 504
+ownLength: 1103
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3841423/chapter-1849-growing-fame"
+royalRoadId: "3841423"
+---
+
+At first, word of the Colony’s achievement in the fifth spread slower than one might have thought. Simply put, nobody believed it. A group of ants had successfully conquered what had eluded the entire world for millennia? It was nonsense, a joke, easily dismissed, and anyone spreading such drivel was laughed out of the room.
+
+Preposterous to even suggest such a thing.
+
+But then, the evidence started to appear. Materials and goods that none had ever seen before. Miracle cures, strange objects infused with what came to be known as Bio-mana, at the time a never-before-seen type of energy.
+
+All of a sudden, multiple powers of Pangera, even the Atreum Empire, were launching their own offensives into the fifth, something that hadn’t been attempted in centuries. A frenzy gripped the entire Dungeon, the entire world, and suddenly the doubters started to turn back to the ants, feeling a little foolish.
+
+-             Excerpt from ‘The Breakthrough’ by Magion Scholar Werilos
+
+“Bookings are full,” Merchant said happily, her glasses glinting in the sunlight.
+
+“We could have filled the slots eight times over,” Secretariant noted with satisfaction, snapping shut the leather-bound book she held in one claw.
+
+“Demand is high and supply is perilously low,” Merchant chortled. “And I happen to be the one with the monopoly.”
+
+Every name on that list represented a small fortune. It turned out, the appetite to get access to the sixth stratum was strong indeed. She had opted to let participants bid for their spots, and the result had been a feeding frenzy.
+
+No doubt most of the names were hand-selected specialists, picked out by empires, trading conglomerates and kingdoms, sent to investigate and make sure their competitors didn’t get an information edge. It didn’t matter much to Merchant, she had promised them access, that was all.
+
+“Are you sure we should even be selling these places?” Secretariant wondered, hesitant to question her leader. “We’ve worked so hard to get that access. Is it right to just give it away for money?”
+
+Merchant looked out over the shimmering ocean of the fourth, letting the warm light and Life Mana suffuse her being.
+
+With the wave this close, the waters were beginning to churn with increased monster activity. Sailing on the lakes was too dangerous now, meaning all trade needed to be conducted through the gate networks. Without competition from merchant vessels, prices to access those gates soared into an all-new stratum, cutting profit margins to the bone.
+
+Until the latter half of the wave, when supplies started to dry up and buyers were more desperate, there was almost no point moving anything of worth. So for now, she was stuck, kicking her six heels in the mountain nest carved out by her family.
+
+In many ways, her loyal follower was correct. If the Colony chose not to sell, then access to the sixth was literally something that couldn’t be bought. Priceless. Yet there was danger there.
+
+“If we don’t sell it to them, then they’ll eventually decide that it's a heck of a lot easier to seize access to the sixth from us than the Krath,” Merchant replied. “They’ll form alliances, mass their forces and knock this mountain down, eager to take away what we earned for ourselves.
+
+“This way, we are the cooperative ones, we’re giving them what they want, so they plot and scheme against each other, not us. We will still have the advantage, we get to go in first, and the territory beneath our holdings in the fifth will inevitably belong to us. After all, we have advantages that they don’t.”
+
+“Which are?”
+
+“We’re monsters!” Merchant laughed. “Adaptable, immune to mana poisoning, stronger, faster, bigger, better. The Dungeon was made for us, not for them. We also have the Eldest down there, don’t forget. They’ll be the forerunner. I don’t care who the other races send, they aren’t going to outperform our Senior.”
+
+With the Eldest leading the charge, the Colony would storm into the sixth like a tidal wave. Hopefully they would take it a little more slowly and more carefully than the invasion of the fifth, though. The total cost to the family for that adventure was enough to cause cramping in Merchant’s core. What they’d made back so far was a drop in the bucket compared to that unfathomable expenditure.
+
+“Alright, I’m bored,” Merchant said, snapping her mandibles together decisively. “I haven’t sold anything in minutes.”
+
+“You have businesses working even during the wave,” Secretariant chided her, “you’re still making money.”
+
+“It’s not the same and you know it,” Merchant refuted.
+
+She was possessed of an energy that never seemed to fade. A drive to pursue, to improve, to develop! Did the others feel this way, she wondered? Was Vibrant constantly thinking about speed?
+
+Pointless question.
+
+Was Brilliant always thinking about being annoying and outsmarting people?
+
+Very pointless question.
+
+Did Solant ponder logistics, strategy and tactics all day every day?
+
+This truly was an entirely wasteful line of inquiry, Merchant reflected to herself, clearly they were all as obsessed as demons were with their own line of speciality.
+
+“I had an idea,” she said suddenly. “You are, of course, aware that it’s possible to buy things before they are made?”
+
+“Contractual sales of future goods? Of course,” Secretariant said.
+
+“That name is so cumbersome… we need something better, something snappier. Temporal sales? No. It’ll come to me. Anyway, I can buy a harvest a year in advance from a farmer. And then, if I so choose, I can sell that contract to someone else, taking profit or loss depending on the market conditions. Right?”
+
+“Right,” Secretariant said slowly.
+
+“But it’s a cumbersome process, wouldn’t you say? Trading halls, guilds, cooperatives, each of them has their own list of contracts, their own rules and standards, finding buyers is annoying, settling the exchange takes too long, it’s overall extremely inefficient.”
+
+“So? That’s how it’s been done for a long time. Are you intending to try and make changes to the system?”
+
+“You might say that,” Merchant mused to herself. In her mind’s eye, she could see the future unfolding, could see the very place she stood becoming the center of a new type of market. Merchants from all over Pangera would gather here, to buy and sell based on the standard that she designed, using contracts regulated by the Colony on an exchange that updated in almost real time, connecting sellers to buyers almost instantaneously.
+
+“We’ll be busy with this one for a while,” Merchant said, pulling out a cigar and lighting it with the click of one claw. “Take some notes, if you please.”

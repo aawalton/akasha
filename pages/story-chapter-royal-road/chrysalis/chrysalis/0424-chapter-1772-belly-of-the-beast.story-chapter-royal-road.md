@@ -1,0 +1,73 @@
+---
+id: df75dbcc-07cb-5a35-8b1d-5e8d278236d7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1772 - Belly of the Beast"
+slug: 0424-chapter-1772-belly-of-the-beast
+partOf: chrysalis
+position: 424
+ownLength: 962
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3275087/chapter-1772-belly-of-the-beast"
+royalRoadId: "3275087"
+---
+
+The moment I detach from the roof and begin to float down towards the hidden entrance, I can tell the Krath start freaking out. They zip back and forth, probably yelling at each other, and some of them start vanishing into the distance, slithering off to try and warn those below before I get there.
+
+Gweheheheh. No chance of that, I’m afraid!
+
+It’s a bit squeezy in the chute and I’m forced to pull my legs in under my body so they don’t scrape along the sides. Every side is covered in a thick layer of mucus and the tunnel itself feels disturbingly organic. I can’t help but feel like I’m descending down a throat and into the stomach below. Mandibles crossed it doesn’t turn out that way. Getting eaten and digested might seem like something I don’t have to worry about anymore, due to my enormous size and mighty power, yet if there is something large enough to do the job, the fifth stratum could certainly pull it off.
+
+This place has always been like a giant organism, so why wouldn’t it have a stomach too? Ugh, just picturing it is making me a little nauseous, as if this vertical tube wasn’t bad enough on its own.
+
+Actually, this place is pretty squeezy, and my guards don’t have the ability to fly… I don’t think. How exactly are they getting down here? I don’t bother asking since I know they won’t answer, so I reach into the Vestibule to try and figure out where they are.
+
+Of course, I should have known. They’re all stacked onto my back. Not just twenty of them, but all of their spare bodies as well! It’s infuriating how well their stupid perception filter ability works. I don’t even notice the extra effort I have to exert and the faster-than-expected energy expenditure from my Gravity Well if I’m not actively focused on what they’re doing.
+
+Having nearly eighty ants piled up on my back isn’t exactly the graceful and dignified descent that I had in mind, but thankfully nobody else can actually see them there, so it should be fine. Sheesh!
+
+As Defendant said, the chute is over a kilometre long and I can’t see a thing at the bottom. My mana sense, however, absolutely can and the concentration of energy beneath me is staggering.
+
+I suspected the slugs might have drawn a line in the sand for a reason, that they were preventing the Colony from reaching something important, and it looks like I might have been correct.
+
+The closer I get, the more overwhelming the energy becomes. This is easily the highest concentration of mana I’ve felt in the fifth so far. Thicker than the mucus lakes, thicker even than the inside of the hearts. Obviously, it isn’t as potent as Theorazzn’s mana, but that stuff falls into its own category because it sure as heck doesn’t originate from here.
+
+Just what the heck am I going to find down here? Visions of truly putrid and diseased oceans of virulent slime fill my mind. It must be significantly worse than what I’ve seen so far, but holy moly, is that even possible?!
+
+I almost wish I could close my eyes as I arrive at the bottom of the chute and drop down into what lies below, not willing to see whatever disgusting thing lies in store.
+
+When I finally drop down, I’m ready for the worst, but shockingly, it’s not… that… bad?
+
+I mean, don’t get me wrong, it’s awful.
+
+Where I’d expected to see a wide open reservoir of power, instead I find a relatively narrow tunnel by the standards of the fifth. Rather than meaty, the walls are almost… spongy and porous. Rather than healthy and pink, they are instead blackened and rotten, sodden and almost running to liquid in places. It’s noxious and foul beyond words, with thick, cloying gasses and strands of mucus so bright they seem almost radioactive clinging from the floor to the ceiling.
+
+Through my feet, I can feel a tremendous, steady vibration, which tells me a heart must be close. Except… is one heart really strong enough to produce this level of vibration?
+
+If there’s one thing ants are more sensitive to than anyone else, it’s vibrations. I am fully equipped to interpret the slightest shaking in the air or ground. That is what I do, dammit!
+
+What my spectacular ant senses are telling me… is that there is more than one source of these vibrations….
+
+There are two…. Wait. WAIT.
+
+Three hea–... hang on a second.
+
+My antennae waggle a bit more, tapping on the ground here and there and coming up covered in blackened goo.
+
+No… there are FOUR! Four hearts are pounding within this area. I can feel the vibrations originating from four separate directions, each an individual heart pumping mana through this area.
+
+Which explains why the mana concentration is so unbelievably high. And it’s not just the concentration of the mana, it’s the insane speed that it runs through the tunnel around me. A velocity of energy like this is insane, and all around me… it’s getting sucked into these porous walls, flowing into the spongy, blackened flesh in massive volumes.
+
+Looking around me, I start to realise just where I am. This isn’t the stomach of the fifth that the Slugs have been hiding away down here.
+
+It’s the lungs.
+
+If we managed to cleanse this place, I wonder just how wide an area would become purified? It’s enough to terrify the slugs, that’s for sure.
+
+Gweheheheheh.
+
+This is going to be so good!
+
+It’s while I’m sitting there congratulating myself for a task I haven’t completed yet that the slugs launch their surprise assault.
+
+Because of course they do.

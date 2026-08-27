@@ -1,0 +1,135 @@
+---
+id: 88236b99-b2be-5775-8e2d-10da061ee40e
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 9"
+slug: 0010-b1-chapter-9
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 10
+ownLength: 1594
+unit: words
+ownProgress: 1594
+publishedAt: 2024-01-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1462119/b1-chapter-9"
+royalRoadId: "1462119"
+markedReadAt: "2026-06-29T19:06:10.468Z"
+---
+
+Somewhere Else within the Northern Pass
+
+Major Curtz taps her foot, her arms crossed as she looks over the map in front of her. Meanwhile the various officers under her command stand at attention around the long table within the tent.
+
+Since she’s been ordered to counterattack the invaders as a distraction, she chose the most direct path towards doing so. But not until after she gives the other teams some time to move themselves.
+
+And after a few days keeping the hill warm, she finally looks up from the map and orders, “We march.”
+
+All of the officers within the room immediately salute the major before going about seeing to their own jobs.
+
+This should’ve been enough time for them all to get to where they need to be. So now it’s our turn.
+
+And with that, the major and her forces all begin to move out, marching down the hill and making the last stretch of the trek towards the Western Mountain Pass, where she quickly finds a makeshift fortress having been built. One that she’s been scouting for days now.
+
+Then the plan begins.
+
+The fortress wall is made out of wood and is only three meters in height. Short enough that the soldiers can scale it without much issue, especially if they use abilities. However, the ice and snow make the wood unlikely to be able to catch on fire. So that plan was shot down rather quickly during the planning session.
+
+So instead of using fire, the vanguard of her forces move out as a distraction, catching the attention of the enemy forces manning the poor excuse for a wall. Her forces quickly begin to fire with their rifles from a medium distance, using the trees near the base as cover and making the enemies only able to shoot arrows and spells at them.
+
+First part of the plan, lower their guard and whittle their numbers down ever so slightly.
+
+She keeps her own Ability Holders and mages in the back so as to not show off their presence just yet. And right when more forces begin to appear on the walls, the soldiers already there begin to lower their guard a bit. Since they now outnumber the major’s forces by a large margin, even with her weapons.
+
+The major lets the battle continue like this for a little bit, taking a few strategic casualties and letting the injured fall back to boost the enemies morale a bit. And the moment the enemies’ morale peaks, she raises her hand, making her own forces begin to slowly pull back, baiting the enemy forces out of their own walls.
+
+Major Curtz grins ever so slightly at the sight of it.
+
+Then she raises two fingers, signaling the second part of the plan as soon as the enemy soldiers make it far enough from their base. Following which the soldiers all quickly speed up their retreat, moving behind the mages who are already beginning to cast their spells. And by now the enemy soldiers realize that they’d been lured into a trap. So they begin to retreat.
+
+But it’s too late for them as bombardment spells made of ice, fire, and lightning all rain down on them, wiping out the soldiers who had left the wall.
+
+It’s not over yet though as the major knows that only a fraction of their soldiers left the walls. And she can already see more soldiers appearing on the walls, likely from reinforcements located deeper within the pass.
+
+The major raises a third finger, making her mages quickly shift to using blizzard spells, enhancing the blizzard around the fortress walls and allowing them to retreat back to their own base while picking off any of the foolish enemy soldiers who try to follow after.
+
+So far so good. Now to see what their next move is.
+
+Within the Western Mountain Pass
+
+Legate Catullus scowls at the map in front of him after hearing the report from his men.
+
+“So they want to go about things that way, do they…?” he mutters, making the soldiers around him tense up. “The enemy’s leader isn’t half bad. But…” he raises his head to look at the soldiers with a grin growing on his face. “Gather the ice, water, fire, and lightning mages.”
+
+“Right away, Sir!” one of his tribunes exclaims before immediately leaving the tent and running while shouting orders.
+
+The legate lowers his gaze back to the map again, looking at the terrain around the pass opening. An opening that leads into a small valley filled to the brim with trees that the enemy soldiers were using to hide themselves and keep cover within. And behind the trees on all sides are hills, one of which the legate suspects the enemy forces are camping at.
+
+If they plan to use those trees to hide from our attacks and lure us out, then we just need to get rid of the trees.
+
+Above the Western Mountain PassSeveral hours later
+
+The major taps her fingers on the long table within her tent, feeling impatient at how quiet the enemy soldiers have been.
+
+“Do you think they aren’t planning on retaliating?” a first lieutenant under her command asks, but the major just purses her lips. “They haven’t done anything for nearly five hours now.”
+
+The other officers begin adding in, agreeing with the first lieutenant. But Major Curtz can’t help but get a bad feeling about this.
+
+Then a shout echoes across the camp, followed soon after by someone bursting into the tent and exclaiming, “Major! The forest is on fire!”
+
+“What?!” “Impossible!” “How could they set a mass fire in this wet and snowy climate?!”
+
+Major Curtz rushes out of the tent in front of the other officers before narrowing her eyes in the direction of the smoke directly down the hill. At the burning trees. And it only takes her but a moment to understand what happened.
+
+“They used ice and water magic to remove the dampness from the trees and keep the snow and rain away before setting them ablaze,” she tells the other soldiers while folding her arms with a frown on her face.
+
+Looks like they have a competent leader after all. Now we don’t have any cover to hide behind while attacking.
+
+The major doesn’t feel too displeased by this though, since she knows that she isn’t here to win a battle.
+
+She’s only here to distract them.
+
+So distracting them is just what she’s going to do.
+
+Aria
+
+I kneel down on the small outcrop I managed to find as I look out over the blazing forest. Something that shouldn’t normally be possible with this climate, but I guess is now. Probably due to magic.
+
+Looks like the major is busy down there.
+
+From where I’m standing, I can see soldiers flooding out of a base camp set up on a hill to put out the fires. But by the time they manage to put them out, a vast majority of the trees around the makeshift fortress that the invaders are using are gone. Turned into nothing but ash.
+
+If I had to guess, the major was using a hit and run tactic to wear down the invaders and keep their attention on her.
+
+Now that’s not possible anymore.
+
+I doubt she cares though. Not when she isn’t here to conquer them in the first place.
+
+Anyways, I continue climbing around the side of the mountain, located hundreds of meters above the ground where the invaders are. And it doesn’t take long before I make it behind enemy lines.
+
+Or, above enemy lines?
+
+Either works.
+
+I glance down at the enemy base camp located at the end of the pass – the one the major is attacking – and find it filled to the brim with soldiers. Which basically means that there aren’t likely very many soldiers further back.
+
+Good.
+
+With that thought in mind, I continue climbing from one outcrop to another, and when there aren’t any, simply climbing to the side. All while being extremely careful not to fall.
+
+Thankfully my experience falling down about eleven times when trying to get up here in the first place comes in handy with this, and I manage to keep my place up here.
+
+Because it would be more than a little awkward if I fell down and had to regenerate in the middle of their camp. Both for me and them.
+
+The experience of falling off a cliff wasn’t very pleasant though. And it ruined my armor, so at this point I’m just wearing my cloak with some really badly messed up armor. Even if my armor is still slowly repairing itself.
+
+I continue skirting around the mountain, only occasionally looking down below me to find some of those oddly clothed soldiers walking through the snow. And I can’t help but pity them, considering their exposure.
+
+Why are they all wearing skirts out in this cold? Seriously. It just doesn’t make sense to me.
+
+They seem to have at least some magical protection on their armor though considering how they’re not freezing to death. But I can still tell that they’re cold by how they’re stiff and shivering a little.
+
+None of them have spotted me either, which is good and unsurprising. Considering that I’m on the side of a mountain several hundred meters above them.
+
+Anyways, their poor choice of outfits aside, I continue my climb.
+
+This is a pain.
+
+Good thing my muscles are just repairing no matter how tired they get.

@@ -1,0 +1,91 @@
+---
+id: 14b43380-6275-5905-b766-a82b1a6b1bb9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1710 - Fun in the Tunnels"
+slug: 0362-chapter-1710-fun-in-the-tunnels
+partOf: chrysalis
+position: 362
+ownLength: 1087
+unit: words
+ownProgress: 1087
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2934110/chapter-1710-fun-in-the-tunnels"
+royalRoadId: "2934110"
+markedReadAt: "2026-06-29T19:55:23.489Z"
+---
+
+[Oho! Almost got me there!]
+
+[Wow! Nice try!]
+
+[You’ll get there one day, champ! I believe in you!]
+
+[If you fully believed in yourself, you would have got me there. That’s motivation for next time!]
+
+There’s something about messing with these delvers that I just don’t seem to get tired of. Look at them dance! Look at them wail in despair as I yoink them up into the air!
+
+Gweheheheheh.
+
+My submarine efforts have been rewarded yet again with another ambush, and I have to say, they really put in some more effort this time. Perhaps the growing number of missing delvers has caused them to grow a little nervous, but they seem to be willing to go a lot further to try and bring me down now.
+
+This ambush opened with two doom spheres being launched at me. Made of fire, they were like mini-suns, absolutely scorching hot temperatures that were singeing my antennae from hundreds of metres away. Taken a little by surprise, I managed to counter with two gravity bombs, but they were so weak I had to empower them to make sure they did the job.
+
+Starting the fight with two massive explosive wars between fire and gravity was a rather spectacular way to go about it. I think the delvers were hoping for a better outcome for their opening salvo, but they still launched out of their hiding places and followed through.
+
+Things went downhill for them rather rapidly after that.
+
+[Oh no! My carapace is damaged! Aaaand it’s fixed. Dang, look at that.]
+
+Honestly, with so many delvers attacking me at once, the healing network ramps up very, very quickly. My entire body feels like ice right now, an abundance of regeneration fluid racing through my body. Some of these delvers must be heavy hitters, because they manage to put some damage into me, carving chunks out of my carapace and dents in my legs, but I heal so dang fast it just doesn’t matter.
+
+Mocking them for it also brings me a deep sense of joy.
+
+[Next one to attack me gets lifted in the air!]
+
+There’s a brief moment when they all hesitate, then they overcome their fear and continue the assault. I can’t actually tell who it was exactly, so I pick out one I think is a likely suspect.
+
+[Up you go!]
+
+Yelping with fear and surprise, my victim is lifted up and left hovering in midair, thrashing helplessly. Lifting mages up doesn’t do all that much, since they can just keep throwing spells at me, but for combat types, they really struggle when they can’t plant their feet. So much speed and power, but not available when their little feets are wiggling in the air!
+
+Despite my overwhelming, and ever-increasing regeneration, I’m still doing everything I can to avoid taking severe damage. My antennae buzz constantly and I react faster than I can think, dodging, shifting my position, parrying with my mandibles, processing hundreds of different sensory inputs every second and responding accordingly.
+
+It takes a huge amount of mental and physical energy to maintain. Making this enormous body jump and shift is not easy work. My legs and muscles have been empowered through my evolution, so they're strong enough, but it’s still a big ask.
+
+Luckily my tendons are mutated, otherwise I’d collapse on the ground like a puppet with its strings cut right now.
+
+[Alright, playtime is over.]
+
+After pulling together the Gravity Domain over the course of the fight, I empower and unleash it, watching with satisfaction as it rips through the tunnel, expanding with absurd speed and crushing everything caught within to the ground.
+
+Interestingly, I can feel a few pockets of space fighting back against my mana, trying to hold off the overwhelming flood of gravitational energy. Now that there are almost no spells or strikes raining down on me, I’m free to wander over and take a gander at what is going on.
+
+Oho? Another priest? Two priests! There’s some serious anti-magic techniques at play here. Two small pockets of delvers are still standing as the priests, with the help of some mages, manage to prevent the domain from fully enveloping them.
+
+Which is impressive and all, but it’s clearly placing a massive strain on them. They’re sweating buckets and physically shaking with the effort, which means they don’t really have the energy left to actually fight back against me as I approach them.
+
+[You might as well lie down,] I advise them. [Resistance is… only going to make her angry.]
+
+Refusing to reply, the small group of priests and mages holds on stubbornly, unwilling to give anything away to a monster such as myself.
+
+Well, that suits me just fine.
+
+[Alright, Crinis. All yours.]
+
+If they don’t want to deal with me, they can deal with the darkness instead. She’s been tagging along with me on my latest forays out into the tunnels. With a little help from the nameless, she’s been able to sniff out and transport away any delvers that I capture, smoothing out the whole process. In only a few moments, the shadows consume every member of this group, and then I’m moving on. Legs up, gravity well activated, submarine mode engaged!
+
+I’ve been spending most of every day out here doing this, and for some reason the delvers just keep on coming. That last group was the fifth I’ve defeated, and the fights honestly haven’t been close. Truly, they have been blinded by greed.
+
+It’s almost disappointing, but then again, that was my plan.
+
+Cruising around a bit longer, something catches my eye as I round a corner in the tunnel. Coming to a junction that appears to split in three different directions, I look toward the wall and see neat rows of tents and stacked boxes.
+
+The delver camp? We’ve pushed out this far already?
+
+Or maybe they were just set up much closer to the nest than I thought they were? Checking my tunnel map, they are surprisingly close to what could reasonably be called the outer edges of the nest. I suppose the Colony acting so timid emboldened them to the degree they felt safe being here.
+
+Foolish notion. From the looks of things, they abandoned it rather recently. Perhaps they were able to sense me fighting that last group and made a run for it. Which means there’s currently a whole bunch of delvers running through the tunnels trying to get back to Green Mountain…
+
+Well now…
+
+The chase is on!

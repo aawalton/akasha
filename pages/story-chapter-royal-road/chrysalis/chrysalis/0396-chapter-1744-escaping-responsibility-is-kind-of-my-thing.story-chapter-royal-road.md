@@ -1,0 +1,101 @@
+---
+id: d7180797-5602-508b-96c6-3893642d98f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1744 - Escaping Responsibility Is… Kind of My Thing"
+slug: 0396-chapter-1744-escaping-responsibility-is-kind-of-my-thing
+partOf: chrysalis
+position: 396
+ownLength: 1061
+unit: words
+ownProgress: 1061
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3096531/chapter-1744-escaping-responsibility-is-kind-of"
+royalRoadId: "3096531"
+markedReadAt: "2026-06-29T19:56:27.864Z"
+---
+
+The Church of the New Path, founded by the Priest Beyn, did not set out to be in direct opposition to its progenitor, but could not seem to avoid the conflict. Both faiths clashed frequently wherever they went, the old refusing to yield ground to the new.
+
+It made the spread of the burgeoning Church that much more difficult. Not only did they have to overcome the resistance of the masses to their… unconventional beliefs, they had to also defeat the active interference of the Church of the Path.
+
+Despite the difficulties, it is remarkable that the faith expanded to the extent that it did. Perhaps it was the will of the Great One that it be so.
+
+-           Excerpt from the private notes of Historiant
+
+Right. Well, nothing of interest is happening here, no great learning or secret mysteries are unfolding in the slightest. Faith, Belief, I can’t imagine it’s important, and therefore I have no need to look further into it.
+
+So I dismiss Beyn and run away into a side chamber to look at my Skills, which I definitely want to do. Since when have I ever avoided monitoring my Skill levels and ensuring that I increase the rank of everything that’s reached its cap?
+
+Granin has been telling me to do it for ages, after all, and I would never want to let him down.
+
+Tiny, Crinis and Invidia pile in after me, but so does Victor before we manage to shut the door. It’s not easy to find rooms large enough for me to fit in anymore, but I have a sneaking suspicion the Colony has been building here and there since I evolved. Well, I know for a fact they’ve been doing that, and they haven’t so much been building rooms as knocking walls down and combining smaller rooms.
+
+[Make sure you guys check your Skills as well,] I tell my three associates. [If I have to do this, then you have to as well.]
+
+Crinis waggles a tentacle at me uncertainly.
+
+[Master. We check our Skills regularly. That’s what Mr Granin and the triad asked us to do…]
+
+Dangit.
+
+[Well, do it anyway. It’ll make me feel better and I would really appreciate it.]
+
+Tiny and Invidia share a quick glance, then they both shrug and oblige me. Crinis reaches out and gives me a pat on the carapace, offering some comfort, before she turns to engage her status.
+
+“All right then, Victor. What did you need? You can take as much of my time as you want. All of it. It’s not that I need distracting or anything. I’m just really interested in what you have to say.”
+
+Antennae waggling a little uncertainly, Victor looks at me.
+
+“I… was just going to ask if you were going to head to the fifth stratum straight away. Now that the situation with Green Mountain has been resolved, you can leave if you want to.”
+
+As much as I would like to flee down to the fifth and start hunting slugs, there is one thing I should probably look into before I go.
+
+“We captured a Grand Priest, did we not? Can you get Beyn… or someone else, to go and talk to that guy? We should try and find out who they are and what they know.”
+
+“I can do that, Eldest. Will you speak to them yourself?”
+
+“Well… I probably will, but let Beyn speak to him first. Then get him to report to you, then you report to me.”
+
+The general hesitates for a moment, confused.
+
+“Why wouldn’t you speak to him directly, Eldest?”
+
+“No reason! No reason at all! Now, let me attend to these Skills. Can’t keep them waiting, haha!”
+
+“O-kaaaaay. Sure, I’ll let him know.”
+
+“Great.”
+
+The general hesitates for a moment, half-turning away, still watching me closely.
+
+“Are you sure you’re fine, Eldest?”
+
+“Never better. I’m full of belief… in myself! Lots of confidence right now. Just… so dang confident. If I were any more confident, I’d be a fund manager.”
+
+“Oh, have you heard of Merchant’s new initiative?”
+
+“What? I mean, yes! I just don’t have time for it right now. Skills, you know how it is.”
+
+“Alright then. I’ll leave you to it.”
+
+I am overcome with an almost physical sense of relief as she finally leaves and I can devote myself fully to my currently chosen distraction. Without hesitation, I whip up the menu and start carefully inspecting all of my Skills, devoting all of the focus I can muster with four brains.
+
+Which is quite a considerable amount.
+
+Immediately, it’s easy to see that I have been… somewhat neglectful, to my status screen. It appears as though the triad had gotten in here and done some tinkering while evolving me and I haven’t bothered to check, and thus haven’t noticed. I’ve been benefitting from some of these improved Skills without even realising I had them!
+
+Sub-optimal, as Granin would say. If I check the descriptions and start to consciously utilise them, their effectiveness will go up tremendously. Let’s see what they got up to…
+
+Master Grip has been upgraded into Grandmaster Grip (V). Stealth also unexpectedly jumped a rank, not sure exactly how useful that will be from here on out, but hey, why not? Diamond Mind went up a rank to Unbroken Mind (VI), which is quite the milestone.
+
+As a Skill which improves my willpower and defence against unwanted influence, this is an important upgrade. Especially right before I return to the fifth.
+
+Keen Eye and Manifold-High Focus, the latter one of my new fused Skills, have reached rank five and six respectively, sharpening my senses and improving my ability to focus on more than one thing at a time.
+
+Condensed Mana hit rank six, along with External Mana Manipulation and Mana Sensing. Very nice. My Omni Elemental affinity is almost ready to hit rank seven! I’m SUPER keen to see what happens when I reach that milestone, but I still need another twenty levels.
+
+Force magic is up, as is barrier magic. Both reached rank five. Endure hit rank six, Mandible Parry hit four, and my Precog-Agile Defence reached five.
+
+Wowee, that is a heck of a lot of Skills. Maybe it was that bad.
+
+With all of these Skill upgrades, I’m ready to annihilate the fifth stratum. Let me at ‘em!

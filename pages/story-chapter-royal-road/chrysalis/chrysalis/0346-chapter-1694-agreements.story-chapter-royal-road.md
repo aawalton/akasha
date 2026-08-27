@@ -1,0 +1,109 @@
+---
+id: c4171599-ec92-5ee2-86e6-c476e9843e65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1694 - Agreements"
+slug: 0346-chapter-1694-agreements
+partOf: chrysalis
+position: 346
+ownLength: 994
+unit: words
+ownProgress: 994
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2799116/chapter-1694-agreements"
+royalRoadId: "2799116"
+markedReadAt: "2026-06-29T19:54:53.163Z"
+---
+
+[Where is it?] Chyron demanded.
+
+Solant looked up at her, clacking her mandibles softly.
+
+[It? You could be referring to any of a million different objects, Commander. How can I possibly know which one you mean?]
+
+The Legionary Officer was certain the ant knew perfectly well what she meant.
+
+[The monster,] she snapped. [I know it’s left the evolution chamber and you haven’t alerted us. This isn’t what we agreed.]
+
+The little ant drew her antenna through her elbow joints.
+
+[Don’t tell me I could be referring to any of millions of monsters,] Chyron said, [you know to what I refer.]
+
+[I know to whom you refer,] Solant returned. [The Eldest is not an object, they are a being, a person. You should refer to them as such.]
+
+[The Legion does not and will not recognise monsters as people,] Chyron replied.
+
+It wasn’t the first, nor the fifth time they’d had this argument. Chyron refused to budge, and Solant wouldn’t stop bringing it up, so they were doomed to repeat it over and over again.
+
+[The Eldest awoke several days ago and has been recovering in the company of their family.]
+
+[We were to be informed when they left the chamber, do you not recall your own agreement?] Chyron demanded.
+
+[I was just on my way to inform you, as a matter of fact. Why do you think I’m here, so close to your barracks?]
+
+Games. Always more games. Chyron glared at the ant in front of her, but Solant merely stared back, cool and placid as always. The general was perfectly aware that sending a runner would have been quicker. For some reason, Solant was delaying them. Just where was that damned ant going?
+
+[You are skirting dangerously close to violating the terms of the agreement.]
+
+[But not actually violating them,] Solant pointed out. [The Eldest recently left their chamber, and I am here informing you of that fact. Have you chosen your designated liaison? I will make sure they are taken to the Eldest as soon as possible.]
+
+Hands on her hips, Chyron considered what to do next. Not for the first time, she wished she had something nearby she could hit. For six months, her Legion had been ordered to sit on their hands and wait, a monumental waste of resources while the world started to crack under the strain of repeated waves. To a soldier, inactivity was simply part of the job. Ninety five percent boredom, five percent adrenaline-pumping abject terror. She was used to that. But the boredom became far less tolerable when there was no action to break it up!
+
+Tracking a monster as powerful as the ant was necessary, putting them down was even better, she knew that, she just never imagined she’d be forced into such an extended period of inactivity.
+
+When the damned thing had finally woken up, she’d been happy. At least something was finally going to happen! Only, the devious general had immediately let the creature slip the net and run off somewhere, without Legion supervision.
+
+[Where is it?] Chyron demanded, still considering her next course of action.
+
+[The Eldest? In the fourth stratum,] Solant replied calmly.
+
+[The fourth!?]
+
+[Yes.]
+
+A tier eight mythic up in the fourth? That would be uncomfortable for it. Not to mention the Call dragging on its soul. Why in the world would the thing go into the fourth stratum?
+
+Evolving in the fifth had been a secret coup for the damned ant. Other than the Krath and the legionaries in the nest, nobody had been able to sense the evolution taking place, and neither of those two was in any position to do anything about it.
+
+Chyron had informed her superiors, of course, but even if the Legion had spread the knowledge around, monster hunters weren’t going to delve into the fifth stratum to try and claim the prize.
+
+Hidden from the sight of the world’s Dungeon Seers, the ant had managed to rise to tier eight in almost total secrecy. Now they were running around on the fourth again.
+
+Why?
+
+There’d been something in her reports recently… what was it again?
+
+[Commander? Your liaison?] Solant asked.
+
+[Be silent a moment. I’m thinking.]
+
+[You are quite rude.]
+
+Keeping tabs on the goings-on within the Colony was almost impossible. They were spread over such a wide area, and there were so many of them now, that there were dozens of developments every single day. As an industrious monster, there seemed to be no slowing of momentum either. Yet, the fortress here in the fifth remained the focus of almost all their efforts, and news travelled through the non-ants who worked alongside the insects.
+
+News that was quietly collected by Legionaries and brought back to her.
+
+Reports from the fourth stratum were bizarre most of the time. Something about ball games? Strange business practices and fees… no, nothing like that. Tensions… delvers.
+
+It came back to her in a snap of the fingers.
+
+Green Mountain!
+
+[I’ve picked my liaison,] Chyron snapped.
+
+[Who is it?]
+
+[Me. Where is the monster?]
+
+[To which…]
+
+[I’ll find it myself!] the Commander roared, turning and sprinting away.
+
+She needed her armour and she needed it immediately.
+
+Solant watched the Commander run, impressed by the speed at which the human woman could move. Her agreement with the Legion meant that they were able to keep a liaison with the Eldest at all times, though the post had been redundant while they were sleeping. She hadn’t expected the Commander to choose herself, and she would probably insist on taking some of her officers with her, which would skirt the edges of the agreement they had made without breaking it.
+
+Yet, would a handful of Legionaries be able to handle the Eldest anymore? Solant doubted it.
+
+She doubted it very much.
+
+Well, back to managing the largest war in the history of the fifth stratum. Did these people really think she didn’t have anything better to do?

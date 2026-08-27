@@ -1,0 +1,83 @@
+---
+id: 3f2a01bf-f1e6-545d-a34a-1060f0563d1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1769 - Don’t Be Scared, He’s Unarmed"
+slug: 0421-chapter-1769-don-t-be-scared-he-s-unarmed
+partOf: chrysalis
+position: 421
+ownLength: 1084
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3254214/chapter-1769-dont-be-scared-hes-unarmed"
+royalRoadId: "3254214"
+---
+
+Brilliant isn’t spoken of enough when we examine the achievements of the Colony. Likely this is due to her rather unique behaviour and abrasive attitude that most of her siblings find difficult to understand. After examining the historical record as much as possible, it can only be concluded that Brilliant herself is also largely responsible for her own absence in said records.
+
+Despite her overwhelming pride and arrogance, Brilliant has never been one to seek approbation from the Colony at large. Rather, if she seeks any acknowledgement at all, it is from those few ants she regards as her peers: the Eldest, members of the Council, her fellow Champions and those bright minds who work with her. There are many instances where the bulk of her sisters were unaware of her involvement in a particular project or breakthrough entirely, the Champion having completed her work behind the scenes within the confines of her laboratory.
+
+Her unique, insatiably inquisitive mind and unusual way of thinking pushed the Colony forward at a meteoric pace that simply wouldn’t have been possible otherwise. Perhaps bizarrely, she has often been the quiet achiever of the family, but only to those who haven’t been close enough to smell her pheromones.
+
+-           Excerpt from ‘Champions of the Family’ by Historiant
+
+“I took no pleasure in this,” Brilliant snapped, disgusted by the whole affair. “For any other human, I would have refused to do this at all. Even so, I may have refused were there any other way to prevent your death.”
+
+Lest the human think that she was taking sympathy on him, she felt compelled to add: “I wouldn’t want my family to stain their mandibles with a creature like you.”
+
+The human in question, Grand Priest Alir Vinting, was unresponsive. A creature of such limited intelligence as he was likely having a hard time processing what had just taken place. Despite her best efforts, the… extraction process… remained excruciatingly painful. Brilliant never sought to inflict suffering on others, but she knew her lost sister had endured even worse and for significantly longer. It made coping with the regret significantly easier.
+
+Despite her prodding, the Priest, still drenched in sweat, sat staring blankly at where his right arm used to be. It was gone and it sure as heck wasn’t coming back on its own. Perhaps the Church of the Path knew some advanced healing techniques that would be able to regrow the limb, but even if they did, she felt the Priest would be unlikely to forget what had happened to it the first time.
+
+“Hey,” she said, prodding him with an antenna. “Are you awake in there?”
+
+Brilliant turned to the nearby healers.
+
+“Someone probably ought to check on him.”
+
+Reluctance was clear in every line of the healers’ carapaces. They didn’t want to even get close to this monster, but they did, checking him over and providing healing.
+
+“He’s fine,” one reported, “simply in shock. It’s a human condition that  monsters don’t appear to suffer from,” she clarified, seeing Brilliant was about to ask.
+
+“Fascinating,” Brilliant stated, waving a leg back and forth in front of the Priest’s seemingly unseeing eyes. “How long is he likely to suffer from this condition? I have a lot of experiments I need to get back to.”
+
+“He should be responsive again soon,” the healer replied with a shrug. “His life is under no threat, nor is he injured in any way.”
+
+“I suppose I’ll just wait then,” Brilliant sighed.
+
+Waiting was not something she enjoyed, or even endured, under normal circumstances. Turning away from the insensate form of Alir, she decided to inspect the complicated enchanted array that had been prepared for this occasion, in the centre of which sat a small glass receptacle filled with a shining golden fluid.
+
+Nearby, Experimant stood, staring at the vial, her antennae waving slowly through the air.
+
+“I can’t believe it actually worked,” she muttered.
+
+“What do you mean?” Brilliant said, offended. “Of course it was going to work! I designed it, and I’m–”
+
+“Don’t.”
+
+“BRILLIANT!”
+
+“I know. But I looked at the schematics, the Church’s method only works because monsters are made of mana, and humans, need I remind you, are not. So how did you get it to work?”
+
+As much as Brilliant would have loved to engage in further boasting, she wasn’t particularly satisfied with what she had accomplished here. In her eyes, it was practically a failure.
+
+“Barely,” she said snippily, one leg poking at the intricate patterns carved into the floor. Dim now, they had been brightly lit and flooded with power during the process, fed mana from dozens of cores embedded in the array. “What I’ve done is a rough, hacked-together, brute-force method of replicating their technique. It’s inefficient, inelegant and doesn’t even explode. I’m dreadfully unsatisfied with it.”
+
+Brilliant didn’t really want to discuss it, didn’t even want to think about it, but she could tell that her assistant was going to insist that she explain, so she sighed and began to point out the various features of the design.
+
+“You’re quite right to point out that even we, who were born rather than spawned, are still essentially formed of mana at our base. Our bodies are formed of Biomass, which can be created from mana, and returns to mana when we die. Humans are not.
+
+“The Church’s ritual takes advantage of this to… liquify… us by converting monsters back into energy. Obviously I can’t do that to a human.”
+
+“But you did!” Experimant points out.
+
+“Ehhhh, sort of,” Brilliant says. “Using a bit of trickery over here, and a bit of fakery over there, I was able to get the process to function by tricking it into seeing the human form as if it were a monster form. Flooding the arm with mana was part of the process, saturating it to a severely abnormal level, then using some rather detailed biomancy to force the arm to mimic monster biology. It’s crude and ugly, less than half as efficient as the Church’s method and requires an unreasonable amount of energy to work. All in all, I hate it, it’s deeply flawed, would never work at scale, fails to convert memories and experiences properly and I have no interest in ever fixing it. And frankly, I’m not even certain it’s possible.”
+
+Experiment hesitated.
+
+“You know how to do Biomancy? Haven’t we only just discovered that type of mana?”
+
+“Of course I know,” Brilliant scoffed. “I’m–”
+
+“Please don’t.”
+
+“BRILLIANT!”

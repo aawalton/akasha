@@ -1,0 +1,73 @@
+---
+id: 959f1c80-c24f-5c95-a09e-4e15b7373931
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1699 - That Which is Holy"
+slug: 0351-chapter-1699-that-which-is-holy
+partOf: chrysalis
+position: 351
+ownLength: 929
+unit: words
+ownProgress: 929
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2819725/chapter-1699-that-which-is-holy"
+royalRoadId: "2819725"
+markedReadAt: "2026-06-29T19:55:02.563Z"
+---
+
+“So it showed up after all,” Alir mused, looking up from the page in front of him.
+
+Once again, the view from his villa on Green Mountain was spectacular. Known for the dense foliage that filled the populated areas, he saw a carpet of gently waving green laid out before him, sloping down towards the sparkling lake. Filled with light and life, the air was fresh and invigorating, filling his lungs and leaving him feeling refreshed and energised.
+
+Truly, he had suffered for years in the third, extracting elixir from demons and making deals on behalf of the Path. Returning to the fourth was nothing but what he deserved after so much suffering and sacrifice.
+
+“To whom are you referring, Grand Priest?” the Deaconess Martha asked from across the table.
+
+These breakfast meetings had become routine lately, discussing the latest report from the Union on the progress of the delvers. Not that there was much progress to discuss. Somehow, despite the enormous reward offered, not a single ant had been captured since he started this venture. Alir wasn’t too concerned. The ants had reacted predictably, as simple-minded creatures were wont to do, and retreated, walling themselves in and making it impossible for the delvers from Green Mountain to access their nest.
+
+That simply meant he needed to explore another avenue. Word of the bounty was spreading across the fourth, and there were many delvers willing to chance their hand at capturing a live ant.
+
+Either the insect monsters retreated entirely into their nests, or he would have his live specimens. Either option was a win as far as he was concerned. Weakening the ant monsters and making them more vulnerable would give him what he wanted, it would just take more time.
+
+Yet, with those live samples, he would be able to craft more elixir, and with it, sow yet more seeds of a mighty crusade. There was interest out there, he knew that for a fact. All they needed was a push. He’d been able to gather such a large volume from the first ant, but no one was willing to commit their resources without further proof.
+
+He needed more.
+
+“The tier seven ant raised by that nest of monsters,” he said. “You may have heard about the ruckus it caused at the Silver City?”
+
+“I have, yes.”
+
+“We thought it had gone down into the fifth stratum and died. There’s been no news of it for months. Now it suddenly turns up in the tunnels and scares off all the delvers? I wonder where it’s been all this time?”
+
+Something must have happened. Perhaps the ants had suffered a defeat at the hands of the Krath and been driven back, returning the ant to this stratum. Even that didn’t quite sit right. The ants should have been defeated months ago, so where had this monster been?
+
+“Actually, I’m not so sure the delvers are planning on retreating,” the Deaconess said, passing another sheet from the daily report to him.
+
+It was a brief summary written by a Dungeon Seer close to the front, assessing the potential value of the powerful ant.
+
+Alir frowned as he read through the details, wondering how they managed to learn so many of the materials contained inside the creature. When he got to Soul Crystal, he nearly spat his coffee out onto the table.
+
+“W-what?” he spluttered.
+
+Soul Crystal was immensely valuable to the Church. It resonated with the hearts and minds of the devout! Hardly any of it had ever been found in the Dungeon! When the Church found out about this, they would dispatch a Judgement Battalion without delay!
+
+Grinning from ear to ear, Alir kept reading, only to blanch again when he reached the number at the bottom of the page. Although the Seer repeatedly stressed it was an estimate, such a sum was enough to buy kingdoms.
+
+Even a thousand delvers could live a lavish existence if they split such a sum!
+
+Alir felt a rising excitement. There was no chance the ant would be captured, such a powerful monster was almost impossible to kill, let alone while holding back. Yet, if they managed to finish it off, the ants would be severely weakened, and perhaps even launch an assault to get revenge. If that happened, his crusade would happen sooner rather than later.
+
+“I have several urgent messages to send,” he said, reaching for a clean sheet of paper. “The Church must be informed of this monster, and we must inform the Union of our price for the Soul Crystal.”
+
+If a buyer was already lined up for a monster’s components, then the money the delvers could earn was no longer theoretical, it was guaranteed.
+
+“According to this report, the ant has captured delvers and is… offering to sell them back to Green Mountain,” Deaconess Martha said hesitantly, offering another page to Alir, who had already begun drafting his letter.
+
+“Sell them back?” he muttered. “Who do they expect to pay for them?”
+
+“Us, apparently.”
+
+He snorted. More monstrous nonsense. Just because he offered a bounty and funded the teams didn’t mean he was liable for their safety. Delvers died in the Dungeon all the time. That was what they did.
+
+“I don’t know what that ant is trying to do, but it’s only drawing a noose tightly around its own neck. If things go well, we could achieve all of our objectives in one fell swoop.”
+
+Truly, the light of the Path was shining on Alir today. His feet were surely treading in the right direction.

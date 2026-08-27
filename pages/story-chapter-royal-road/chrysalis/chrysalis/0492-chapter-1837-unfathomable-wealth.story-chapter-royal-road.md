@@ -1,0 +1,87 @@
+---
+id: 62363105-5359-56d3-b822-6440994b3ad3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1837 -  Unfathomable Wealth"
+slug: 0492-chapter-1837-unfathomable-wealth
+partOf: chrysalis
+position: 492
+ownLength: 1355
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3771633/chapter-1837-unfathomable-wealth"
+royalRoadId: "3771633"
+---
+
+There was a certain satisfaction Merchant felt deep in her core as she looked down on the page before her. Not for the first time, she used her claws to fold the page and slide it into her satchel, then immediately found herself having to resist the urge to remove it again.
+
+Well… why not? She didn’t have anything too pressing to deal with at the moment.
+
+She lifted the top of the satchel, reached inside and withdrew the paper once more, unfolding it and taking another look at what was written on the page.
+
+She clacked her mandibles, unable to contain her inner joy. That was a large number. A number larger than she thought she would see for a long time yet. Circumstances continued to trend in her favour and she had capitalised reasonably well. Certainly, she could have made more, but serving the interests of the Colony was more important than short-term profit-taking.
+
+After all, the profits were for the Colony. Getting the family ahead for a smaller cut was probably a saving.
+
+But now she was faced with the delicious dilemma faced by all successful traders: what to do with it.
+
+Of course, liquidating a sum this large wouldn’t be easy. It wasn’t as if she could turn it all into cores, at least not quickly. Buying that many cores would send prices through the roof, sucking up all the supply. She would get twice as much for the same amount if she took her time and spread the purchases out over a few years.
+
+But supplying cores to the antcademies was just one way she could use this vast sum of wealth. What she really wanted to do was establish some enduring income streams, turning this windfall into more and more wealth that she could use to invest in the Colony.
+
+“What’s the next move, boss?” asked Secretariant, her new assistant, pushing her glasses up with one claw.
+
+Merchant had known it was only a matter of time until more of her siblings realised the power and value of what she did. She wasn’t exactly sure why they all felt the need to wear glasses, though. Enid had suggested them to Merchant as a way to make herself appear less ‘monsterish’, which was valid, and there were several useful enchantments that could be placed on the lenses, helping to spot fakery in the market. Useful things, but there was no reason to wear them here of all places.
+
+“We need to draw up an investment plan,” she said, taking one last glance at the number on the page before putting it away for the last time. Well, the last time for the next few minutes anyway. “Can you bring the others in here? We should have a discussion. And some tea.”
+
+“Of course. One moment.”
+
+Merchant had spent far too much of her time lately inside the hold of a ship. It was one of the best ways to get around the fourth stratum, as zipping back and forth on a brathian-made vessel was fast and comfortable. She’d purchased a small fleet of five ships from the Island Conglomerate, leveraging their special relationship to prevent the Satrap from fleecing her too much, although the brathian crew demanded exorbitant wages. Already she’d replaced half of the crew with ants who were happy enough to learn the art of sailing from the experts, but it would take years and years before the expertise of the brathian could be dispensed with entirely.
+
+She scuttled over and opened a circular window on the wall, letting in the fresh sea breeze before she pulled a cigar from her inner pocket and lit it with a click of her claws. Then, back to the table, where she began to organise the various stacks of paper strewn about.
+
+Soon, her small team filed into the room, each well-dressed according to her standards, with cloaks, glasses, the occasional hat and their own document satchels.
+
+“I heard the payment was finalised today,” Buffant said, taking a seat at the table and withdrawing her own papers to place upon it.
+
+“Got the balance just before we left port,” Merchant confirmed. “Currently it’s held in the Sterling Bank.”
+
+“A solid institution,” Mansa Musant mused, “but is it wise to leave it there long term? We can’t rely on the Silver City to play fair with us all the time.”
+
+“Let’s not get ahead of ourselves. We can’t move this much money unless we have something to do with it. Right now, we’re collecting interest monthly,” Merchant said. “Once we have solid plans in place, we can start to act. Which is exactly why I wanted to see you all.”
+
+Secretariant brought in the tea and served everyone at the table before pulling up her own seat.
+
+“Let’s discuss revenues then, shall we?” she said, withdrawing her own book of notes and cracking open the leather-bound volume with practised ease. Inside, neat rows and columns filled with her own writing, written in the human style, could be found. Merchant’s antennae waggled with approval. Truly, her best student.
+
+“Currently, the Merchant Investment Group is making little by way of regular income through steady business, but has a vast amount of capital on hand. You should all have the latest figures from my last report.”
+
+The others nodded and clacked their mandibles in appreciation. They had indeed read up on the latest documentation.
+
+So far, Merchant had a few successful business ventures, but they were, by and large, on the smaller side. A great deal of her business, especially lately, had been conducted on behalf of the family directly. Now it was time to more firmly establish her own enterprise.
+
+“There have been eight investors in the fifth-invasion scheme,” Merchant said happily. Huge amounts of wealth in her own coffers, and support for the Colony, all at once. “As far as we know, there are going to be two invasions taking place as soon as possible, while the rest plan to wait until after the next wave, which is expected to start very soon. Let me ask you, sisters, what is the best way to make money during a gold rush?”
+
+“Tapestries?” Buffant guessed.
+
+Ka’armodo were intensely fond of gold and would aggressively seek to seize it whenever there was a chance. Of course, they needed to look good while they were at it.
+
+“That’s second, but a good guess,” Merchant said. “The real answer is: shovels.”
+
+The ants all accepted this wisdom, nodding sagely.
+
+“So we invest in shovel production,” Musant said, slamming one claw down on the table.
+
+“No,” Secretariant said, looking irritated. “There is going to be a rush to make profit from the fifth. We can’t invest in the race, the Colony has already done that. What we can do is sell to the participants the things they need to compete.”
+
+“Exactly,” Merchant said, taking a puff from her cigar. “In this case, weapons and armour are the obvious candidates, but most empires either produce their own, or work through trusted suppliers with decades-long relationships. It’s impossible to muscle in there. However, there are other things they’re going to need in vast quantities. Things we know they’ll need.”
+
+“Medical supplies,” Secretariant said with certainty. “Two things the Colony could never get enough of were Healers and medical supplies to deal with poisoning and toxin exposure.”
+
+“Surely everyone knows they need those already,” Buffant noted. “Will there really be that dramatic a surge in demand?”
+
+“Oh yes,” Merchant laughed. “What I want is a plan to put as many independent healers under contract as possible. Secure our own supply lines as a matter of priority and try to put a reasonable cap on prices.  If it gets too expensive, the invasions will get called off, which will be bad for business! Musant, draw up a report on the supplies the Colony consumed during the invasion and the purchase price on the rights to those harvests over the next three years.”
+
+She tapped ash into the crystal receptacle on the table.
+
+“We’re going to take our fortune and make a larger one.”

@@ -1,0 +1,79 @@
+---
+id: 94a38c79-de8c-52fd-8a5f-bd528b20a473
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1833 -  Pressure Makes Diamonds"
+slug: 0488-chapter-1833-pressure-makes-diamonds
+partOf: chrysalis
+position: 488
+ownLength: 893
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3744398/chapter-1833-pressure-makes-diamonds"
+royalRoadId: "3744398"
+---
+
+I have to admit, a part of me was always curious what it was like inside a Gravity Bomb. I mean, it’s functionally a mini-black hole. Anyone would be a little bit curious.
+
+Within a few seconds of being inside the spell, I can safely say, I’m no longer curious. In fact, I’d very much like to leave.
+
+For one, it’s dark as heck. I can’t see a thing, which is as I expected. They don’t call them black holes because they're a multi-spectral light sensation. More unnervingly, my antenna, normally constantly buzzing with warnings about the near future, has gone dead silent. No sight, no smell, no future sense.
+
+Gravitational sense is going crazy, but that’s not super helpful.
+
+At least that tells me the antennae haven’t been ripped out of my head, which is nice.
+
+Of course, all of these impulses and feedback are rather secondary to my main concern, the unbearable, unbelievable, unending pressure that is applied to me.
+
+Turns out my carapace is actually rather good at enduring pressure, it’s pre-compressed diamond after all, so it barely cracks, even within the heart of the Gravity Bomb. That doesn’t mean I feel good, however.
+
+Because I don’t! I feel terrible!
+
+Now I know how a car in a crusher feels. It’s completely suffocating. My legs have completely given up the ghost. After the acid half melted them, they were in no state to survive in here. Honestly, the worst points of pressure are between my three body segments. It feels like the Gravity Bomb is trying to squish them together, which it is, and that relentless grinding is really, really uncomfortable.
+
+Crick, Crack, Crick!
+
+Ooh, I don’t like the sound of that.
+
+Regeneration fluid still floods my system, and it’s putting in overtime, making sure the many injuries I’m suffering every second don’t immediately turn into something fatal. The main problem I have is my carapace. If it collapses, well, obviously I won’t last long if that happens.
+
+More like I’ll be snuffed out instantaneously as my core is crushed to bits.
+
+Come on carapace, you can do it!
+
+I endure, and endure, and endure. My condition continues to get worse, more cracks in my carapace, my antennae are gone. Did I really think this was a good idea? No, I didn’t, I merely thought it was survivable, and I might be right.
+
+But holy moly! This is taking a long time. Like, I’m fairly sure I’ve never seen a Gravity Bomb last this long. This might be a fairly strong bomb, but I’ve made way bigger ones.
+
+Again, I enforce my carapace with the energy of the Altar, replenishing the benefits before they fall off. Every little advantage is needed to ensure I make it through.
+
+I never thought I’d have sympathy for the victims of the Gravity Bomb, but here I am. What a terrible way to go.
+
+Fat demon whose name I don’t remember, you had it the worst. I won’t say I’m sorry, because I wouldn’t mean it, but dang, you really had a hard time.
+
+Pushed to the limit of my endurance, and suffering for way too long, I’m overcome with relief when the spell finally fades away.
+
+A hint of light breaks through the darkness, the first sign the Gravity Bomb is done, which only informs me that my eyes are well and truly fractured. If I normally see a thousand different images, I’m now seeing a hundred thousand, with spidery cracks running through all of them. Fabulous.
+
+I’m also falling.
+
+Presumably, somewhere beneath me is the pit of Theorazzn’s toxin and I sure as heck don’t want to land in that. Thankfully, I was prepared and use Force Magic to blast myself to the side. I can’t see where I’m landing for the life of me, but it should be fine. With an enormous squelch, I land into another pile of mucus which starts bubbling away as it eats into my carapace, which is great, but soon the flood of liquid mana from above crashes down right on my head.
+
+With this much energy, it’s sure to purify this heart in no time.
+
+And I survived! Gweheheheh.
+
+Take that, Gravity Bomb! All this time you threatened my life, but you weren’t up to the challenge at all! I am greater than the power I command! As long as I don’t cast one that’s too large!
+
+That’s satisfying.
+
+Well, hopefully things above are going well, there’s nothing I can do about it in the near future except sit here and bubble away in this mucus/cleansed mana stew. I don’t have legs, I don’t have antennae, my eyes don’t work. I’ve earned a rest.
+
+“Eldest, you survived!”
+
+“Of course I survived, Protectant. Did you really think I wouldn’t? Bah! Although, if you could lift me out of the slime, I’d be grateful.”
+
+I’ve got way too many cracks in my carapace and I’m worried some of the goop is going to sneak through.
+
+They manage to relocate me to a safer spot where the mucus has already receded and I spend a good five minutes just healing. Freed from the spell, my secret defenders can start prodding me with weak attacks again, getting the regeneration network back up to full speed. Well, that was quite the experience.
+
+I hope I never go through it again.

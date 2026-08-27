@@ -1,0 +1,111 @@
+---
+id: 0d41354c-c0e5-5bc1-a6db-1b97f91c4ce7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1685 - Well Designed"
+slug: 0337-chapter-1685-well-designed
+partOf: chrysalis
+position: 337
+ownLength: 947
+unit: words
+ownProgress: 947
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2767295/chapter-1685-well-designed"
+royalRoadId: "2767295"
+markedReadAt: "2026-06-29T19:54:35.595Z"
+---
+
+[I’m sure you’ll be able to work something out,] Granin grumbles, clearly irritated. [Can you worry about this later? There are more important–]
+
+[More important? More important?! What are you even saying? There is NOTHING more important than tickle time!]
+
+The golgari shaper rolls his eyes then sighs heavily.
+
+[Anthony, you’ve been asleep for six months. Can you shut up about grubs for five minutes so we can talk about what happened when you evolved?]
+
+[I can’t help but feel like you’re dismissing my suffering, Granin.]
+
+[You poked me like I was an infant a moment ago. You owe me.]
+
+[... Fine. You have five minutes. After that, I want to launch into an in-depth analysis of all the ways I can be made smaller/gentler using multi-dimensional mana techniques. I’m telling you, this is going to be a major feature of the next evolution. Make sure you don’t forget! Grub tickling is what I live for, dammit.]
+
+[Yes, yes, fine. Now shut up. We monitored you as best we could throughout the process, and as far as we can tell, every trace of the toxin was absorbed by your new organs. How are you feeling? Can you sense any traces of contamination?]
+
+Corun and Torrina have joined the conversation, and they look equally concerned, staring up at me with worried faces. Tiny, tiny little faces.
+
+Focus, Anthony. This is serious-ish business.
+
+I perform a thorough internal check, but just as I suspected, there’s nothing there.
+
+[Not a speck of corruption to be found,] I inform the three shapers. [In fact, my organs aren’t anything like what I expected. They’re all ‘purity’ this, and ‘cleansed’ that. What the heck happened?]
+
+[I can still hardly believe what happened myself. Just after the evolution started, the snails appeared and cleansed the corruption right out of you.]
+
+[Uh… what?]
+
+[The chal. They sang at you for a day until the taint of Theorazzn was completely removed.]
+
+I stare at Granin. He stares back at me.
+
+We hold that stance for a moment as I try to determine whether this rock head is pulling on my legs.
+
+[You’re telling me… that baby snails sang the poison of an Ancient out of my body?]
+
+[Actually no,] Granin says, and I relax. He had me going there. [They didn’t take it out of you, they cleansed it. Which is much more difficult.]
+
+[That’s insane! Have you lost your mind? Torrina, there’s no way this is true, right?]
+
+She raises her hands in a helpless gesture.
+
+[I’m sorry, Anthony, I saw it happen with my own eyes,] she says. [I can only say it was a miracle.]
+
+Baby snails singing at me might have saved my life? I… really don’t know how to react to this.
+
+[These snails…] I muse, rubbing my antennae together as I think. [Do they look… ticklish?]
+
+Granin scowls.
+
+[Can you focus? This is important. We have to go over all of your new organs and discuss the changes we made. If you know what we did, then you’ll have a much better time adapting to your new body.]
+
+He pointedly stares at the massive crack in the wall.
+
+[Ahem. Well, yes. There might be some… teething issues. Can you perhaps explain why it feels so weird when I walk around? It’s like my muscles are in different places, pulling in new directions.]
+
+[Because they are,] Granin replies bluntly.
+
+[Oh.]
+
+[We didn’t have as much time as we would have liked, but we’ve made an extensive study of ant physiology. I know you don’t want me to get into all the details…]
+
+[I really don’t.]
+
+[... so I’ll just say that the default configuration you were born with isn’t optimal. The System’s designs change over time, and those changes aren’t always for the best. We worked hard to find a more efficient arrangement for an ant’s musculature and implemented it as best we could in the time we had. It will feel a little strange at first, but it will be better.]
+
+[Better how?]
+
+[More strength and speed from the same amount of muscle. Not an absurd amount. We estimate around seven percent.]
+
+That’s… way more than I thought.
+
+[We did a lot of work on your brains as well. It would have been ideal if we could reset them all as a package, but it would have cost a fortune. As it is, you should notice improved performance from the mutations and adjustments we made.]
+
+I haven’t had much chance to play with mana yet, I haven’t even spun up my mind constructs, but I’m looking forward to it now. If Granin says they’ll be much improved, then I’m sure they will be.
+
+Doors fling open and a steady procession of ants begins to march in carrying heaps of Biomass that they proceed to dump on the floor in front of me. All of a sudden I’m ravenous.
+
+[Do you mind?] I ask the triad.
+
+[Not at all,] Granin replies. [Just answer my questions while you eat.]
+
+[Fine.]
+
+They ask me about my new organs and I tell them what I can, going through system prompts as I stuff myself full on the seemingly endless flow of food. Even more shocked than I am, the golgari discuss amongst themselves just what this is all going to mean as I munch away.
+
+[What about the Call?] Granin asks me suddenly. [How does that feel?]
+
+I freeze for a moment. Man, it would have been nice if he hadn’t reminded me. It’s there. It’s always there.
+
+[Hurts like heck,] I tell him.
+
+[Even here on the fifth?] he asks, surprised.
+
+[Yep. Which worries me, because I have some business on the fourth…]

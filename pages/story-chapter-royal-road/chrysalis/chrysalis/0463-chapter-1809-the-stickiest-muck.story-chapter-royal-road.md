@@ -1,0 +1,47 @@
+---
+id: 5be3f12a-403f-5c13-ac31-8f7627dc1bf4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1809 - The Stickiest Muck"
+slug: 0463-chapter-1809-the-stickiest-muck
+partOf: chrysalis
+position: 463
+ownLength: 1004
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3494483/chapter-1809-the-stickiest-muck"
+royalRoadId: "3494483"
+---
+
+At first, I thought I'd wandered into a flooded section of tunnel. Perhaps this is where the goop from above has found its way down, but after looking a little closer, I decide that isn't the case. It isn't that the tunnel is filled with slime draining down from above, the tunnel simply is slime.
+
+The walls? Mucus. The floor? Mucus. The air? Believe it or not, mucus.
+
+I can't even walk in here, the floor is a metres-thick layer of potently acidic and corrupting sludge. I poke one leg in as a test but immediately regret it. Thankfully I don't have nerve endings in my outer carapace, because that would seriously sting otherwise. Shaking my smoking limb to try and dislodge the goop, I'm eventually forced to blast it with a jet of fire to burn it off and save the leg. Less noticeable but far more deadly is the flood of deadly, corrupting mana that seeps into my body, immediately trying to permeate my frame and destroy me from the inside out. With fascination, I observe internally with my mana sense as the energy is seized upon by the Pure Core, pulling it in and consuming it before it can do much damage.
+
+Nice work, Pure Core. I knew I could put my trust in you.
+
+In response, the snail song grows a little louder and more enthused, as if energised by the energy that was eaten by the Core. Weird...
+
+Despite how hostile the tunnel is—there's literally nowhere to hide, every visible surface is mucus-coated—it still teems with monstrous life. I can see worm-like leech creatures wriggling through the slime, sludge elementals and even a monstrously large slug-croc monster, its long, spiked tail breaking the surface as it slides along the tunnel floor, hunting.
+
+Even if I could survive in there, counting on my regeneration and Pure Core to keep me alive, trying to fight in that would be insane. There's no other option but to weave myself a Gravity Well and use it to lift myself up off the ground. Graceful flight! Well, graceful drifting through the air, sort of flopped over in the middle. Nobody is here to see, so I don't particularly care about making it look good, I have other things to worry about.
+
+Checking my tunnel map, I realise just how far I've come since I began this mad dash into the depths. The best part about finding vertical tunnels and shafts is that I can get a lot of distance quickly, and I've covered almost a hundred kilometres since departing the Colony. Right now, the mana is so thick that any movement at all is enough to start coating myself in a layer of sizzling slime, which immediately sends spiraling tendrils of corruption inside me to be fed on by the Pure Core. Even with all of the advantages I have against the fifth now, this place is insanely deadly. It's going to be incredibly hard for the Colony to tunnel through these depths, but I'm confident they have some idea of what they might face down here and have planned appropriately.
+
+Tentatively, I drift forward, leaving the safety of my higher position in an adjoining shaft and entering the world of slime. Immediately, I hate it. My entire body starts to sizzle and smoke as the incredibly dense mana burns me. Within seconds, I'm covered in a thin film of slime, which only accelerates the burning process. This is awful.
+
+Thanks to the regeneration network, I'm able to endure the ferocious pace of acidic damage, at least for now, and thanks to the Pure Core I'm able to deal with the internal danger of the corrupting mana. However, if I stay here too long, I could succumb over time. I better make a move. To deal with the constant mucus buildup, I do something I usually wouldn't and deploy a fire domain, surrounding myself in an aura of fire. It doesn't burn me, naturally, but it still works to cook off the mucus on my carapace; however, the mana demand to make it hot enough is insane.
+
+Determined to find a way out of this mess, I pick up speed and drift forward, searching for a way to go deeper.
+
+Naturally, the slug-croc immediately launches itself upwards out of the mucus below. Rather than an elongated snout, it extends a many-ringed maw, stretching it out towards me in a truly disturbing sight, uncaring of the flames that scald it. Stupid slug, you're not sneaky!
+
+Well, that isn't actually true, it was very sneaky, concealing its mana and hiding almost every trace of its presence, except its gravity, of course.
+
+With a flex of will, I manipulate the Gravity Well, dumping energy out of it and slamming the slug-croc back into the sludge as I glide on past, scooting down the tunnel as quickly as I can. Sadly, I don't have time for you, monster, so sit down until I get back so I can chomp you properly.
+
+Thankfully it seems like it got the picture, but I prepare another Gravity Well, because another one is sure to pop up any second now and the one I've already cast is bound to run out of energy quickly if I have to keep using it to protect myself.
+
+Sure enough, I barely get a kilometre down the tunnel before another monster feels like taking a chance. A blubbering mound of toxic sludge tries to drop down on me from above and I'm forced to spend a ton of mana sticking it back to the roof while I glide on through, necessitating another Gravity Well spell.
+
+This pattern repeats as I continue to hunt, looking for a way out of this slime hell. After following a few branches, backtracking and circling, I eventually find what I'm looking for. Before me, a waterfall of mucus appears, raining down a massive shaft hundreds of metres across that vanishes down into the depths. This could be perfect. I jump in.

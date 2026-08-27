@@ -1,0 +1,73 @@
+---
+id: bd22f7ed-8c89-57b6-9515-cae52224b62a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1762 - Be At Peace"
+slug: 0414-chapter-1762-be-at-peace
+partOf: chrysalis
+position: 414
+ownLength: 969
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3216502/chapter-1762-be-at-peace"
+royalRoadId: "3216502"
+---
+
+“Fascinating,” Enid murmured, holding the small vial of fluid up to the light.
+
+It was beautiful to look at, a vibrant, iridescent red. Full of rich, concentrated mana, even a sniff of the stuff was enough to set her head to spinning. What a remarkable thing the ants had found this time, another of the wonders of Pangera and the Dungeon.
+
+It warmed her old heart and reminded her of the feeling she’d had when she was young, exploring the unknown, her husband by her side, adventuring, seeking, discovering. When he went into the deeper levels, she would be waiting for him to return, eagerly investigating the materials he brought back and hunting for buyers.
+
+“And there’s no side effects?” she asked, turning to Merchant, who was practically hopping with excitement next to her.
+
+“Of course there are side effects,” the ant told her aloud, using her pheromone to audible sound converter. “We’re still doing the research, running the numbers and all that, but so far we’ve discovered that applying too much in too short a span of time has some… mutative effects. Uncontrolled growth, eyes where you don’t want eyes, the occasional ear, that sort of thing.”
+
+“That’s not good.”
+
+“But in small doses, it seems totally safe!” Merchant hurriedly said. “This fluid can completely erase the damage done by ageing. With careful application, we could fix your heart, your knees, take away your pain. The healers think you could live another ten years!”
+
+Merchant was clearly pleased, her antennae waving through the air with energy. Even on an ant’s expressionless face, her excitement was plain to see. Seeing the joy and enthusiasm put a smile on her face. Her student had been a great source of comfort and purpose in recent times, and Enid was very grateful for the affection they shared. She knew what the ant wanted, what almost everyone wanted: time. She wanted more time with her mentor, with her friend.
+
+Unfortunately, Enid was a stubborn old woman.
+
+“I won’t use it,” she said gently, shaking her head.
+
+Merchant froze, as if she weren’t able to process what she had heard.
+
+“B-... wh-... ah-... I’m sorry?” she said, stop-starting every time she tried to speak.
+
+Enid sighed and lowered her hand, placing the vial of priceless fluid on the table beside her bed.
+
+It would be nice, not to be in pain, to breathe easily again, not to need help washing herself. To have her dignity back, who wouldn’t pay everything they owned for such an opportunity?
+
+Enid, as it turned out.
+
+She waited patiently for Merchant to find her way out of the shock, but had to give up and help the ant unfreeze herself.
+
+“I’m old, Merchant. But more than being old, I’m tired. I’ve lived a full and long life. Like anyone else, I have my regrets, there are things I wish I could have done differently if I had my time again, but ultimately, I am pleased with the life I have lived. I don’t want to keep going. I’m ready for it to end.”
+
+“N-no. You would feel differently if you weren’t suffering. We could fix you, and then you’d feel better! We can repair your memory and your joints. You’d be able to go out trading again, help the Colony, help Renewal.”
+
+“I’ve done all of those things,” Enid said, smiling softly. “I did them to the best of my ability. Someone else will have to do it in future. Someone like you.”
+
+“I wasn’t trained to be your replacement,” Merchant scoffed, “and if I was, then the job is only half done! I’m not nearly the trader that you are.”
+
+“You just need experience,” Enid said, waving off the ant’s concerns with one withered hand.
+
+It was remarkable how quickly she was fading. Despite the best efforts of the healers, she continued to decline steadily. Liver-spotted, the skin on her hands was so thin now that any firm contact was enough to cause a bruise, possibly even a cut, which would take far too long to heal.
+
+Yet it wasn’t even her physical condition that had drained her, she was simply… done.
+
+The world had changed a great deal in recent years, and she would never have imagined that she would be where she was now, deep under the ground, a treasured guest of a giant colony of monstrous ants. After doing what she could to help those around her, Enid was content to let go. The world would get along just fine without her.
+
+Merchant fell silent, staring at the vial on the table. Her mind whirled, lurching from one insane idea to the next. Could they force Enid to take the liquid? Probably. But such a betrayal of trust… it would irreparably harm the relationship between them. Not just between her and her teacher, but Enid and the Colony as a whole. Perhaps there was a way to convince her? Could the Eldest do it? Surely… surely if the Eldest asked her, then Enid wouldn’t refuse.
+
+Deep down, she just couldn’t believe that her teacher would reject this miracle. She couldn’t be in her right mind, she simply couldn’t be! Yet, looking at her clear eyes and determined gaze, even now, Merchant couldn’t bring herself to believe that.
+
+Yet… Enid was needed. There was so much work to be done, so much she could help accomplish. Merchant had plans, enormous plans, things that could change the face of Pangera forever!
+
+“Aren’t you being selfish?” she said, caught between bitterness and despair. “How could you leave us when there is so much to do?”
+
+Enid reached out and placed her hand atop her student’s head, resting it on the hard carapace.
+
+“I’m allowed to be selfish,” she said, a cheeky light in her eyes, “I’m only human.”

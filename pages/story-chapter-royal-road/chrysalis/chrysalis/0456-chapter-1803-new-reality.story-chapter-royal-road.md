@@ -1,0 +1,77 @@
+---
+id: a34f5995-21f1-5780-80d0-221b9102ade8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1803 - New Reality"
+slug: 0456-chapter-1803-new-reality
+partOf: chrysalis
+position: 456
+ownLength: 1105
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473210/chapter-1803-new-reality"
+royalRoadId: "3473210"
+---
+
+"Care to explain to me what is happening here, Commander?"
+
+Eliza, often referred to as Matron by the junior officers placed into her care, was not happy with what she was seeing. In truth, she wasn't even sure what it was exactly that she was seeing. This fortress was enormous, making her own outpost look like a diminutive outhouse by comparison. Apparently this was only one of many that the ants had built in the fifth in less than a year? It defied explanation!
+
+"Not here," Chyron warned her. "Wait until we return."
+
+Although neither technically outranked the other, both being Commanders in the service of the Abyssal Legion, Eliza knew better than to contradict the person who was obviously more knowledgeable about the situation than she herself was. So, she clamped her lips shut, shared a look with Steven, and walked. The more she saw of this structure, the more incredulous she became. Every time she thought she understood its size, she was proven wrong as yet another corridor gave way to a large connecting chamber. Every now and again, she caught a glimpse of the larger passageways the ants themselves used and couldn't help but shudder at the sight. There were thousands of them in those tunnels, walking on every wall, climbing over each other, making eerily little noise except for the odd clicking and clacking of their claws and mandibles. That many monsters would bury a city in a matter of minutes. If there were dozens of these fortresses, then these ants would be capable of flooding over many smaller kingdoms in just days.
+
+This shouldn't be allowed. This couldn't be allowed. What had been happening while she was deployed?
+
+Eventually they arrived in a wider cavern, and Eliza was both pleased and strangely relieved to see the familiar structures of an established Legion camp. Regimented rows of tents, ditch and rampart defences with reinforced towers every hundred metres and hardened soldiers manning the walls, their eyes flinty and cold. It was good to see that Chyron, no matter what else she may be, was an experienced and strict Commander.
+
+Inside the camp, they found the rest of Steven and Eliza's people and dropped off a wide-eyed Sheriman, who looked as though she had had yet another barrage of questions she wanted to unleash but had, for once, decided to hold her tongue while surrounded by three grim-looking Commanders.
+
+Once inside Chyron's command tent, she ordered her tribunes out, who left reluctantly, before inviting the guests to sit. Eliza took in the interior of the tent in a glance, reading it as austere and efficient, like the woman to whom it belonged.
+
+"Do either of you want something to drink?" Chyron asked, rummaging in a chest she kept behind the table. "I have tea in here, but I think I might want something stronger today."
+
+"Something stronger sounds good," Eliza said, and Steven nodded.
+
+"After the day I've had, tea is definitely not going to be enough," he agreed.
+
+Fishing out three glasses, Chyron poured a few fingers of dark brown liquor into each before pushing two across the table.
+
+"I'm sure you're shocked by what you've seen today," she said after taking a gulp and Eliza nodded. Sipping the drink, she felt a strong burn and smoky aftertaste on her tongue. Whatever Chyron had, it was strong stuff.
+
+"I knew the ants were operating in this area, but I had no idea their operations were anything like this scale," Eliza said. "As far as I was aware, something like this should be impossible."
+
+She gestured to the enormous fortress around them and Chyron barked out a laugh.
+
+"This isn't even the biggest one, not by half."
+
+Again, Steven and Eliza exchanged glances. There were others twice this size? That was... absurd.
+
+"Can you explain to us exactly what is happening here?" Steven asked forthrightly. "In your opinion, what are the ants looking to achieve?"
+
+"That's not a secret," Chyron said, folding her hands together as she leaned into the table and looked her fellow Commanders in the eye. "They've been upfront about their ambitions from the beginning. They intend to cleanse the fifth stratum and secure a passage through to the sixth. You heard the general for yourselves. She wasn't joking, or exaggerating. I'm not even sure that's something they know how to do."
+
+It was ridiculous. The Abyssal Legion had tried to rally the old races of Pangera and purge the fifth for thousands of years, only to fail time and time again. It was never the right time, or there was internal conflict between the races and empires of the fourth, or none were willing to commit the necessary resources. None knew more than they just how hard it was to establish even a foothold in the fifth, let alone push back the corruption.
+
+"They're going to succeed," Chyron said, stating the unthinkable with an almost nonchalant attitude.
+
+"You can't be serious," Eliza spat, choking on her drink and spluttering out a cough.
+
+"I'm perfectly serious. While you've been deployed to your outpost, the world has changed around you. The ants have conquered multiple hearts and claimed vast swathes of territory. Not even the slugs have found a way to deal with them. No matter how many fall, more keep coming. No matter the cost, they just pay it and keep going."
+
+Both Steven and Eliza struggled to accept this. The ants... were going to conquer the fifth? How?
+
+"They're smart," Chyron said, filling up their glasses again. "I received confirmation from our diplomats in the fourth that there are almost a dozen invasions being launched into the fifth. In little under a month, armies will have flooded into every part of the stratum. By then, the ants will have broken through and started claiming territory in the sixth. That big ant is far more powerful than it should be, and it'll go toe to toe with the monsters down there, I'm very confident of that."
+
+"How?" It seemed to be the only question Eliza could think of.
+
+"They found some miracle healing material in the areas that they've cleansed, and now the entire Dungeon has gone mad for it. In two years, probably less, the fifth will be cleansed completely and the Krath will no longer exist."
+
+Chyron took up her glass and drained it in a single go.
+
+"We are entering an entirely new world, Commanders, and I don't think any of us are ready."
+
+"Does the Consul know?" Steven asked quietly.
+
+Chyron nodded.
+
+"Of course. But what they can do about it, I have no idea."

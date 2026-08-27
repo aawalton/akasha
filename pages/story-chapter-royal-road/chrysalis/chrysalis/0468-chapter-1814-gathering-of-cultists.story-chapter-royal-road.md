@@ -1,0 +1,121 @@
+---
+id: 192814f7-00c4-5840-9e68-7674d920aaba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1814 - Gathering of Cultists"
+slug: 0468-chapter-1814-gathering-of-cultists
+partOf: chrysalis
+position: 468
+ownLength: 1338
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3526817/chapter-1814-gathering-of-cultists"
+royalRoadId: "3526817"
+---
+
+For thousands of years, ever since the Cataclysm, the cults had existed in one form or another. People who had decided to worship or serve the Ancients, rather than fear or fight them, were never overly welcomed amongst civilised society, but at times throughout history they had been more or less able to operate in the open, within certain free cities and frontier kingdoms, at least. However, there were a few organisations who eagerly acted to stomp out the cults wherever they found them, such as the Church of the Path and the Abyssal Legion, which made it rather difficult for the various cults to establish themselves.
+
+By a quirk of fate, the Colony already had extremely tense relations with both of those superpowers, and therefore didn't care one whit what they had to say regarding cultists who happened to worship monsters. If anything, finding another way to annoy the Church in particular seemed to make the ants happy rather than worry them.
+
+So, with the blessing of their hosts, the varied cults of the Ancients had found themselves able to operate with an unfamiliar level of openness while staying within the lands of the Colony. After calling a gathering of the various cults represented within the fourth stratum ant mountain, Granin did not go to an underground cave, or secret niche carved into a corridor wall for a secretive meeting while under heavy enchantments to prevent detection, but instead to a nice cafe serving tea, cakes and other baked treats in the visitors' wing of the nest.
+
+He himself was there as the representative of the Worm Cult.
+
+Rassan'tep the ka'armodo attended as a representative of the Red Truth, followers of Arconidem.
+
+Oloron, a hooded attendee representing the Cult of Origins, followers of Odren.
+
+Stormchaser, a member of the Cloud Cult, followers of Kygar.
+
+Dr. Melshin spoke for the Bloodletters, followers of Perrianon.
+
+Samuel attended on behalf of the Hatchet Cult, followers of Hogran, axe by his side, as always.
+
+Kierly, her eyes blindfolded and nose covered, represented the Deprivation, followers of Gon.
+
+Poitre, nervously twitching in his seat, attended for the Cult of the Hound, followers of Torra.
+
+Deorth attended for the Bog Dwellers, followers of Morribolg.
+
+Only half of the Ancients were represented at the gathering, far from the full spectrum of cults, but some cultists were a lot harder to find than others. A lot harder to work cooperatively with as well. The Cult of Asylum, in particular, was difficult to include in any group, simply because they were mostly insane. Zothoth feasted on sanity, after all.
+
+Each of them felt rather uncomfortable, seated, or standing, around the table out in the open, an attending ant bringing them their orders of tea and snacks. Granin thanked the server before turning to the gathering.
+
+"Uh, thank you all for coming on such short notice," he said, a little awkwardly. He wasn't really one for hosting public gatherings. "We had some news that needed to be disseminated amongst the cults as soon as possible and felt that this was the fastest way."
+
+[I assume Anthony has done something to upset matters, as usual,] Rassan'tep observed while his set'sulah servant inspected the food and drink served to the giant lizard, as was tradition among their people.
+
+"Naturally," Granin said, thinking and speaking the words at the same time so that all were included even if they hadn't joined the mind bridge. "Anthony seems to have a talent for stirring us up."
+
+"It's because the ant has great promise," Kierly said softly. "They have the Call, and have spoken to an Ancient directly. Even the Ancients take notice."
+
+"Well... yes," Granin said. "More than we thought, in fact."
+
+Immediately the air around the table became tense. Poitre, focused to the point where he no longer twitched and shook with perpetual fear, leaned forward.
+
+"Are you saying there has been another revelation?" he said intently.
+
+This was exactly what Granin had been worried about. Interpreting every little thing to do with the Ancients was what the cultists did, Granin himself was no exception. Maybe he was just too close to it all now. His friend spoke to his gods, what was the big deal? Yet he knew that was just an excuse. Granin himself was, beneath the surface, just as excited and dizzy with possibility as the others around the table would soon be.
+
+"Anthony spoke to me just two hours ago and said they had engaged in conversation with a projection of Theorazzn in the depths of the fifth."
+
+They all looked astounded, with the exception of Deorth, a grandmotherly-looking woman who looked like she'd been called from working in her garden, which she probably had. Followers of Morribolg were less than fond of Theorazzn and anyone associated, since the two Ancients were rumoured to hate each other after competing over the fifth.
+
+"Theorazzn said they had been prevented from punishing Anthony for curing the fifth by Odren and Morribolg," Granin went on with a rush, just getting the information out there.
+
+He might keep the news of Anthony threatening Theorazzn directly to himself for now. No need to turn a whole set of cultists against the Colony, because they would do everything in their power to interfere with the ants if they thought their god held a grudge. As far as Granin knew, they were already working against the Colony due to the invasion of the fifth, which was why none had chosen to attend these gatherings.
+
+The news, as he had imagined, landed on the table like an explosion.
+
+Immediately, hearing word of their gods, Deorth and Oloron went into paroxysms of rapture, holding up their hands and turning their faces toward the ceiling.
+
+"A blessing! A blessing from the Fetid Earth. Morribolg has endorsed Anthony as the twentieth Ancient!" Deorth declared.
+
+"Well, we don't know that," Granin tried to say.
+
+"Odren has spoken!" Oloron roared, tears running down his face and into his beard. His hood flung back as he sprang to his feet, overcome with emotion. "Another Ancient will soon be born! Praise the Father of Monsters! His will is my will!"
+
+Cultists.... They had far too much in common with a certain one-armed priest Granin knew of.
+
+"Settle down," he growled. "We don't know any of this for certain."
+
+But it was no use. He may as well not have spoken at all.
+
+"From this day forth, the Colony shall have the full support of the Cult of Origins," Oloron vowed.
+
+"We too, of the Bog Dwellers, hereby pledge our support," Deorth echoed, eyes shining with tears. "This is a glorious and wondrous day! We must celebrate! We must... but what am I thinking? I have to spread the word to the others!"
+
+"PRAISE ODREN!" Oloron roared at the top of his lungs before turning and sprinting out the door behind Deorth, most likely to do as she was and spread the word.
+
+Granin watched them go, a sinking feeling in his chest. The others, all very excited, were somewhat more restrained.
+
+"Did Theorazzn mention Perrianon at all?" Dr. Melshin asked, eagerness breaking through her normal reserve.
+
+Granin shook his head.
+
+"I'm afraid not," Granin said, to her great disappointment.
+
+In that moment, an intrusive mind bubbled into his own, speaking to him through some means he didn't fully understand.
+
+[Hey, Granin. Got a second?]
+
+Anthony again... what was it this time?
+
+[Not really, but go ahead.]
+
+[What do you know about Perrianon?]
+
+Granin felt his heart leap and his head start to pound at the same time.
+
+[Why are you asking?]
+
+[Just had a word with them. Seems unusually nice for an Ancient. Lovely manners.]
+
+And just like that, the contact was broken, leaving Granin dazed and confused. He turned back to Dr Melshin.
+
+"Never mind," he said faintly, "apparently he has heard from Perrianon after all."
+
+Dr Melshin, a calm and educated person who showed extreme reserve in public spaces, surged to her feet.
+
+"PRAISE THE BLOOD!" she shrieked.
+
+Granin sighed.

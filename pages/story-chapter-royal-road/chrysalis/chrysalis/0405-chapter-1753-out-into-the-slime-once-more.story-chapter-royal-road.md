@@ -1,0 +1,87 @@
+---
+id: c1a5dcd5-17c3-5c55-a99d-6a4115208eb8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1753 - Out Into the Slime Once More"
+slug: 0405-chapter-1753-out-into-the-slime-once-more
+partOf: chrysalis
+position: 405
+ownLength: 1091
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145673/chapter-1753-out-into-the-slime-once-more"
+royalRoadId: "3145673"
+---
+
+It’s a little sad, but obviously Tiny and the gang can’t come with me once I go back out into the tunnels. Tiny and Invidia are both happy to be deployed to one of the deeper fortresses and help fend off the Krath who have been launching raids there, but Crinis is a little harder to convince.
+
+[Master, noooooooo!] she sobs.
+
+[Really, Crinis. This is a bit much, even for you.]
+
+[You’re going to get lost, or captured, or vanish into a mysterious void! Let me go too!]
+
+[That’s… probably not going to happen! I’ll be careful. Get off my carapace, dammit!]
+
+[Never!]
+
+I’m trying to scoop her off with my antennae, but she either clings on tighter or just flows around them, not letting me get a grip. As a result, the surrounding ants are treated to the sight of me rolling around trying to get my uncooperative death shadow of doom off my back.
+
+Eventually, I have to give up and issue an order.
+
+[I blame you entirely,] I tell a still-writhing Crinis as she blobs on the ground, trying to fling her tentacles onto me but unable to due to the order. [If you just cooperated, we wouldn’t be in this position.]
+
+[I can keep you safe!] she protests.
+
+[No you can’t and you dang well know so,] I snap back. [You’re being ridiculous. Solant has already told you what you can do to help, so go and get to it.]
+
+It takes another ten minutes to get Crinis moving, and only then can I finally head back out to the edges of the Colony’s new territory, which means moving through the tunnels that have returned to their original form!
+
+I’m quite excited to see what the fifth was originally like and it doesn’t disappoint! The natural mana must be some variety of bio-mana or something, because it’s clearly a fleshy, organic environment, and the monsters seem to fit that theme perfectly.
+
+Many of them remind me of cells, while others resemble tissues, formed of multiple cells in a sort of cooperative group. Nearly all of them are some variety of fleshy, gloopy, organic-looking entities, though. At least none of them are all that strong, having largely been spawned rather recently.
+
+With several guides, I run through the tunnels, smashing through the occasional monster who sees fit to challenge me, but for the most part they shy away when I draw near, making for a safe and swift run.
+
+Even so, it takes a long time to reach our destination. The Colony has expanded its reach through thousands of kilometres of the fifth. Were it flattened out onto a map, it would be the size of a small country at this point. Running to the edge of it is quite the journey. Thankfully, Colony engineers have been hard at work creating express tunnels so I’m not running up and around all sorts of twisty paths, which helps a lot.
+
+In the end, I reach the border in a day, completely free of fatigue thanks to the still-enormous number of ants within range of the Vestibule.
+
+Also, I seem to be getting some sort of energy out of the Beyn statue in there.
+
+Which I won’t be thinking about.
+
+“Ugh, I didn’t miss this.”
+
+Looking out through the edge of the cleansed zone and into the disgusting mess that is the infected fifth, my feelings of revulsion are hard to put down. Considering the battle I had to endure against the toxins of Theorrazn, I’m not especially keen to go through it again, even in a mild way. After travelling through the cleansed area for so long, I was starting to hope this mess didn’t actually exist anymore and Solant was just playing a prank on me, but no, it’s still here, in all its mucusy glory.
+
+In fact, this section of the Dungeon is particularly dangerous, because not too far away there’s a Krath outpost with several thousand of the slugs stationed in the area. All sorts of nasty traps and shenanigans have no doubt been prepared in order to stop the Colony from expanding further, and it's my job to get rid of all of them.
+
+To mess with those danged slugs, there is very little I won’t put up with.
+
+Bravely, I extend my leg out into the corruption, put it down into the sludge, then step through.
+
+The first and most relieving thing I notice is that my eyes don’t melt anymore. Hah! Flesh is inferior, diamonds are forever! My precious gem-eyes are holding up much better against the corroding effect of the mana here, which means I’m not in a constant state of near blindness.
+
+Victory!
+
+Not that it’s pleasant to be out here, it still sucks. The hairs on my antennae and legs are almost immediately burned off and I’m assailed on all sides by the poison and toxin. It hurts like heck, but I can put up with it. My mind constructs spin up, getting ready to put in some overtime, making sure that the infecting energy doesn’t get into my body and start spreading.
+
+That’s the real danger. Getting eaten from the inside out by corruption is way less fun than it sounds. And it doesn’t sound fun.
+
+After acclimating myself for a few minutes, I steady myself, then take a few steps forward. Time to get moving.
+
+Then I stop.
+
+Something strange is happening. Using my considerable powers of the mind, I narrow my focus and turn it inward, examining every little wisp of mana within my rather large frame.
+
+Increasing the surface area hasn’t made it easier to keep the infection out, one way my larger body is at a distinct disadvantage out here. Even with all my effort, a few stray bits of corrupted mana are sneaking into my body, and that’s pretty much inevitable.
+
+Before, I would have several mind constructs on the lookout for things like this. Once these little bits of mana managed to grow themselves, they’d eventually get spotted and then crushed. An endless cycle.
+
+However, something different is happening now.
+
+The little wisps aren’t getting the chance to grow themselves, they’re being sucked away, into the Pure Core, and then… annihilated. Straight up cooked.
+
+Curious, I let my control slip a little bit, allowing some more mana to get inside me, and I watch as it too is drained away, pulled into the core and completely destroyed.
+
+I figured it would do something like this, but holy moly! How effective is this thing?!

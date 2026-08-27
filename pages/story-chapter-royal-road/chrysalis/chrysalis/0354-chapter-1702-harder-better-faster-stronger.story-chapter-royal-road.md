@@ -1,0 +1,83 @@
+---
+id: 7a713668-5850-57f5-94d4-087d0dbd4a12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1702 - Harder, Better, Faster, Stronger"
+slug: 0354-chapter-1702-harder-better-faster-stronger
+partOf: chrysalis
+position: 354
+ownLength: 1045
+unit: words
+ownProgress: 1045
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2834314/chapter-1702-harder-better-faster-stronger"
+royalRoadId: "2834314"
+markedReadAt: "2026-06-29T19:55:08.329Z"
+---
+
+I’m sure they expected me to retaliate, but I’m not sure they expected something like this.
+
+My chomp sucks in the gathered dust, eliminating the cloud and revealing the scrambling delvers in front of me. They’ve got a bit of space, and a shield up by the looks of things. Hopefully, it’ll be enough.
+
+BOOM!
+
+The forming sphere of light shatters between my jaws and the explosion sends a shockwave rolling outwards.
+
+And, for a change, I’m totally fine! My eyes don’t explode, my carapace doesn’t get damaged, nothing happens!
+
+Well, not to me.
+
+Maybe I can deploy the empowered version without getting hurt! That will be a change of pace.
+
+Fire rolls outwards and the delvers cry out in fear as they fall back. Light strikes at my back as the others try to distract me, pull my attention away from the vulnerable members. As if that’s going to work. You think I’m some sort of mindless monster? I’m going to attack the person who attacked me last? Get real!
+
+My regeneration network is really kicking into gear now, winding up faster and faster, sending healing fluid roaring through my system. I have to give the delvers a bit of credit, they are doing a bit of damage. My carapace is incredibly tough and they aren’t close to getting through it, but little chips here and there are still happening, especially around my joints.
+
+However, it simply doesn’t matter.
+
+With so much regeneration fluid flooding my system, those small nicks are healed exceptionally fast. My HP is completely full, my carapace is effectively undamaged, and I’m not even tired. I was wondering what Granin was on about when he asked about my fatigue after I told him about the incident with Tiny, so I’m being mindful of my stamina, but it’s just not going down.
+
+With so much Will pouring into me, it’s almost impossible for me to get tired, even if I wanted to. There are millions of ants in range, literally millions. I can do this all day.
+
+Stalking forwards, I examine the aftermath of my chomp and find the delvers managed to survive, but they aren’t in great shape. Their shield wasn’t enough to protect them and they were knocked down by the blast, but they aren’t out of the fight completely. Even as I loom over them, they try to recover, flipping back onto their feet and dashing away, taking the more heavily injured members with them.
+
+I let them go. They can’t get away from me, and something else has taken my attention for the time being. I know I said I wouldn’t get distracted, but what the heck is going on over there?
+
+With the dust cloud gone, I can see more clearly, and nestled between two stalagmites is a small group of three delvers who don’t seem to be attacking like the others, so I’d ignored them up to this point. Yet, they’re suspiciously blank to my other senses. No mana is leaking through at all, which means they must be hiding it for some reason.
+
+In fact, as I look closer and reach out with my mana sense, I can make out the layers of wards they’ve placed around themselves. Not a few either, there must be… a dozen?!
+
+Why?!
+
+Unaware that I’m looking straight at them, the three delvers are concentrating, pooling their mana into some sort of spell that I don’t recognise. I can’t sense the mana at all, naturally, but why the heck are they doing this right out in the open? I can see you! Why go through the trouble of hiding every trace of your presence but perform the spell where I can see you?!
+
+Maybe these delvers aren’t as professional as I thought….
+
+As nice as it would be to let them finish whatever they have planned, I think I might intervene before they launch a death laser to cut me in half or something.
+
+Blows continue to rain down on me, but they just aren’t enough to crack through my carapace or outpace the runaway freight train of my regeneration. Under the manipulations of my upgunned minds, the omni-elemental construct spins and churns, pumping out dense water mana which I swiftly weave into a jet of water.
+
+Whatever they were planning on doing, it appears as though it’s difficult to accomplish while being subjected to a water cannon. Knocked down and struggling, the spell fizzles out as the groups continue to try and catch my attention, striking at my back and flanks with a sudden frenzy.
+
+Yeesh. Lay off already. My regeneration network is going absolutely crazy! They weren’t kidding when they said the regeneration gland would only continue to ramp up. It’s not stopping, it’s only getting stronger and stronger! Are there limits on this thing? I’m starting to feel pressurised from the inside!
+
+Alright, enough playing around. This has been fun, but I can’t hang around here all day. I’ve got things to be doing, and more delvers to hunt for.
+
+With a flex of my will, an empowered Gravity Domain is unleashed, expanding outwards rapidly to crush everything caught within its grip. In an instant, the fighting is over. No more spells, no more sword slashes, only face-planted delvers trying to breath through a foot of solid rock.
+
+Gweheheh.
+
+I can’t say it ever gets tiring, looking at them squirm….
+
+I whip together a mind-bridge so I can force it on them and gloa-I mean, talk to them, but something catches my eye first.
+
+Even better hidden than the delvers hiding behind the rocks, even more concealed than Enid’s retirement savings, there is something over there catching the light. Marching closer, I realise it’s a person, smushed into the rock and struggling to free themselves, just like the others, but for some reason they are completely invisible to almost all of my senses. In the hubbub of the fight, I must have lost track of their gravitational field as well.
+
+So sneaky!
+
+What I find really interesting, though… what really seizes my interest… is the lovely Church of the Path robes the figure is wearing.
+
+I snap the bridge into place.
+
+[I’ve just been dying to talk to one of you.]
+
+The priest seems… less enthused.

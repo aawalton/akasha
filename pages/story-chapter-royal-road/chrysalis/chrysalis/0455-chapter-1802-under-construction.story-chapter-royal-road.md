@@ -1,0 +1,79 @@
+---
+id: 2adb85d1-9ce3-55f5-ac58-56247d5fe595
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1802 - Under Construction"
+slug: 0455-chapter-1802-under-construction
+partOf: chrysalis
+position: 455
+ownLength: 1070
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473202/chapter-1802-under-construction"
+royalRoadId: "3473202"
+---
+
+I leave Solant to negotiate with the Legion, because I'm not all that interested. Mainly because I'm fairly sure Solant wouldn't have bothered to suggest it if she wasn't completely confident that they were going to agree. Knowing what a calculating sort the little general is makes the entire exercise of 'persuasion' and 'negotiation' rather boring because I know the outcome before they even start.
+
+I can tell she's a bit annoyed when I pick up and clear out of the chamber, but hey, if I don't throw the odd wrench into her well-laid plans, then what is she going to do for entertainment? Think on your feet, Solant, you've got six of them after all!
+
+Besides all of that, I'm curious to see the new tunnel work that she was talking about. I'm guessing that with the majority of the Krath attention having turned to surviving and not being swallowed up by an endless flood of mucus, the Colony has a bit more space to get out into the contaminated tunnels and make some changes. Hoping to have a gander at what they've been doing, and make sure it's safe, I wander to the outer edges of the fortress with my trustworthy trio of associates tagging along by my side.
+
+Crinis, as ever, is splatted onto my back like a second carapace while Invidia floats along, his two little hands gripped tight to Tiny's absurdly broad shoulder.
+
+[Are you guys close to evolving to tier eight yet?] I ask as we traverse the tunnels.
+
+Tiny holds up a hand and waves it back and forth, looking unhappy.
+
+[I'm about two thirds of the way there, Master.]
+
+[I am alsssso closssssing in.]
+
+Oh, that's pretty good!
+
+[I'll need you guys to evolve and get stronger so we can thrive in the sixth. I assume things are going to get crazy once we get down there. The stronger we are, the better.]
+
+[Yes, Master!]
+
+[You can alwayssss countssss on me.]
+
+Tiny raises one arm and flexes a bulging bicep before giving me a short nod.
+
+[You're not allowed to make yourself any less intelligent, Tiny. That's an order.]
+
+His muscle deflates a little, but he does nod, if a bit glumly. Sneaky ape. He was definitely going to try and find a way to maximise his gains when he evolved, but I intend to bind him with a string of orders so strict he won't have a chance to wiggle out of them. In fact, I might demand he make a significant increase to his brainpower. He's already obscenely lopsided in his build; having him be slightly more intelligent than a concussed lemming could only be for the better.
+
+Once we reach the outer edge of the fortress, the vast scale of the work being done becomes immediately apparent. The Colony has taken advantage of the chaos to force back the attackers from the platform and then expand outwards into the surrounding tunnels. Naturally, they've been forced to extend the bubble of cleansed mana to protect the workers, which is going to be costing us huge amounts of energy, but clearly they think it's going to be worth it.
+
+Due to the lack of enormous curtains of mucus closing in on the platform from above, I can actually see the tunnels the slugs were using as outlets for the stuff. I've little doubt they were pumping it up from the lungs below, siphoning it from the arteries using their unscrupulous methods. With that supply cut off, the entire area has, remarkably, drained clear.
+
+I find Tungstant out directing the work teams, her frazzled antennae and twitchy mannerisms telling me all I need to know about how much pressure she's under with this project.
+
+"Hi, Tungstant," I wave in greeting. "Won't bother you for long, just wanted to see what was going on out here. I heard we're doing some rather major digging project?"
+
+"Major? MAJOR? Hah! Major would be building a fortress in a week. This is well beyond that!"
+
+"Okay, whoa... I can see you're rather stressed. I'm not the one who dumped this work into your mandibles, alright? Don't take it out on me!"
+
+I mean... technically, I might actually be the one responsible, but I don't think she knows that. Tungstant sighs, then waves off the dozen or so team leaders crowding around her wanting her input.
+
+"I'll take you for a quick tour. I could use a moment to think. It's been nonstop for the last few days."
+
+I bet. I can see the shadows around her are suspiciously deep. The simple fact that they haven't taken her already is another sign of how important this project might be.
+
+It's interesting to see so many ants working out in the open. There are tens of thousands of them out here, a living carpet of industry stretching for well over a kilometre in every direction. Normally they'd all be crammed into tunnels while working on something like the fortress, carving it from the inside out. This effort seems more like an open pit mine, an impression that only grows stronger when Tungstant leads us to the edge and we look down.
+
+"It's not that complicated, really," Tungstant says, "the size of the project and the forces involved are what's making life difficult. In effect, we're building a sewer system."
+
+"A sewer system? For the fifth? There aren't enough ants in the entire Colony to flush this place properly."
+
+"I agree," she mutters, "but we don't have to clear out the entire stratum, just all the tunnels below us." She points down into the enormous pit. "We are sinking four of these shafts around the fortress. Each one will be connected to a branching series of pipes and pump systems designed to push the mucus through. Once we hit the right depth, we'll branch out and construct the intakes. That's all well and good, but we don't know the exact location of the outlets yet, which is going to make life rather difficult."
+
+"You don't know where you're going to dump all the mucus? There's going to be billions of litres of the stuff! Isn't it rather important to know where it'll land?"
+
+"It's going into the sixth," Tungstant says, snapping her mandibles irritably. "Do you know where it is?"
+
+Oh.
+
+"Not... not yet," I hedge.
+
+"Better get down there, then," Tungstant says, pointing. "We need to know, soon."

@@ -1,0 +1,55 @@
+---
+id: 9260931f-2186-5fa4-93d4-1af103914d97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1810 - End of the Fifth"
+slug: 0464-chapter-1810-end-of-the-fifth
+partOf: chrysalis
+position: 464
+ownLength: 1051
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3512906/chapter-1810-end-of-the-fifth"
+royalRoadId: "3512906"
+---
+
+Somewhere above me, the Colony is continuing its ambitious digging project. Four enormous shafts with connected pumping systems, designed to suck up and dispose of the billions of tons of mucus flooding the tunnels as a result of my mishap in the lungs. All they need from me is to map out the lower levels of the fifth so they can plot a route to the sixth, which will (hopefully) be capable of dealing with the concentrated goop in a safe and timely manner.
+
+I mean, if we end up dumping several lakes’ worth of deadly mucus on a sentient civilisation of monsters down there, I'll have to apologise rather profusely. I wouldn't be happy if it happened to my family, after all.
+
+So far, the rule of the Dungeon has always been that the mana below is capable of defeating the mana above. Every layer of the Dungeon undergoes a qualitative difference in energy; the lower you go, the better it is, effectively. Even though the fifth has been corrupted by Theorazzn, who certainly isn't of the fifth, I'm hoping the sixth is still strong enough to mince the mana from up here, turning the sludge into wisps of smoke.
+
+I drift down the tunnel, surrounded on all sides by thick sheets of mucus oozing down into the depths. Every now and again a thick glob lands on my carapace, causing an immediate, searing burn. All I can do is endure it until the fire domain burns it away. There aren't many monsters in this place, so my regeneration network is starting to slow down, which isn't helping either.
+
+At least, that's what I thought.... It seems as though some niggling attacks are coming from somewhere, even if I'm not sure where. That has to be the case, since the rate of regeneration fluid in my system is ticking up again. Weird.
+
+Down, down and down into the depths. This waterfall shaft is five kilometres deep at this point, and I think it's narrowing, or perhaps the layer of mucus on the walls is simply growing thicker. Either way, it's getting a little squeezy in here.
+
+Eventually, I'm forced to adjust the Gravity Well holding me and turn myself vertical, facing downward. With my legs tucked up beneath me, it's the best I can do to stop myself from incidentally touching the walls of doom. Thanks to this new orientation, when there's a change below, I notice it almost immediately.
+
+An acrid cloud of yellow-green mist blooms in front of me, blocking all sight deeper into the shaft. When I draw close, I come to a stop, wondering just what the heck is going on here. Around me, the thick sheets of mucus continue to ooze and gloop down the walls, sinking into the mist below, but I can't see any source of the stuff. Tentatively, I lower myself down into it a little and am filled with instant regret.
+
+OUCH! That stings!
+
+I'm not sure if a cloud can be described as thick, but that’s what this is. Cloying and sticky, the cloud is incredibly dense, as clouds go, and incredibly acidic. Frustrated, I back up and shake my poor leg as I regard the cloud with suspicion. What the heck is your deal, cloud? I'm trying to explore here!
+
+Backing up a little, I try blasting it with hyper-condensed Dragon's Breath, but with very limited success. Using my mana sense, I try to get a feeling for what is going on further in, but I come up empty. Well, I sense a lot, but it's just incredibly dense corrupted mana. Anything beyond that is rather hazy, thanks to the properties of the fifth's energy. Going blindly into the depths here would be madness, since I have no idea how much of this cloud I would need to get through, but the hook in my soul frantically yanking and urging me deeper tells me that the sixth might be right in front of my face.
+
+No need to think about it too deeply, that's not how I usually do anything, so why start now?
+
+Making sure my legs are firmly and tightly tucked under my carapace, I release my hold on the Gravity Well and begin to free-fall into the deep.
+
+This should be fine.
+
+Almost immediately, I plunge into the dense cloud of acid mist and it goes exactly how I expected it to. Poorly. My entire body begins to burn instantly, and I'm once again supremely grateful that I no longer have eyes of spongy flesh, as they would have melted away in a matter of seconds.
+
+Given that I weigh well into the hundreds of tons, I drop rapidly, picking up speed until I'm falling with the momentum of a runaway train. Regeneration fluid battles with the constant acidic damage being done to my carapace, antennae, eyes and legs. Despite the torrent of icy-cold fluid running through me, it isn't enough to keep up and soon my antennae cease to function properly as the fine filaments that coat them are eaten away.
+
+Down, down, down. I fall through the acid cloud for so long I have to admit to myself that perhaps this wasn't a great idea. It hurts like heck and I really didn't think that it was going to last this long. Desperately, I continue to sweep the tunnel ahead with my mana sense, hunting for a change, anything to show this acidic miasma is going to come to an end.
+
+Like an electric spark, something shocks my mana sense.
+
+My brains leap into action, deploying a new Gravity Well that yanks onto my frame, arresting my momentum with painful immediacy. I screech to a halt, dangling in midair, so stunned by the sudden shift in momentum that it takes a moment to realise that I'm no longer surrounded by a cloud of burning mucus.
+
+My carapace is pitted, my antennae are in tatters and even my eyes have taken damage, despite the healing. One of my legs dangles uselessly, the joint having suffered especially poorly compared to the others.
+
+Despite my bedraggled condition, I'm not especially fussed by it. Before my eyes swirls what can only be the thing that I've been looking for. The entrance to the sixth stratum of the Dungeon.

@@ -1,0 +1,97 @@
+---
+id: 84a9c664-bde9-5bce-a674-f321849d62b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1800 - Legion Support"
+slug: 0453-chapter-1800-legion-support
+partOf: chrysalis
+position: 453
+ownLength: 1119
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473197/chapter-1800-legion-support"
+royalRoadId: "3473197"
+---
+
+Morrelia seems fairly content with the story I told her. The Legion are familiar enough with the region to know what the 'lungs' I'm referring to are and appear to have seen the arteries for themselves at some point in history. Perhaps that's why they've maintained a secretive presence in the region, who knows? At the very least, after consulting with each other, the leaders of the Legion here within the fortress have come to a solid understanding of exactly what is taking place.
+
+[I'm glad we're all in agreement, then,] I say with satisfaction. [I am not responsible for anything that has happened here and all blame lies with other, non-specified parties.]
+
+[Sure, Anthony,] Morrelia tells me.
+
+I think she rolled her eyes, but again, it's super hard for me to tell. Humans have such tiny weird eyes! Imagine having to move your eyeballs around to see in different directions. I can barely remember what it was like.
+
+[The real question is, what happens next?] Commander Chyron growls into my mind. [You've done damage to the slugs, I've no doubt about that, but how much? The clans in this region are well dug-in and have thrived here for thousands of years. This area is practically a Krath stronghold.]
+
+I lazily wave an antenna.
+
+[I have no idea. Go ask Solant if you want to find out what the Colony is doing next, that's not something I worry about.]
+
+[You have no idea?] Even Morrelia seems surprised, which is a little disappointing. Come on, Morrelia, you know me!
+
+[Of course I have no idea! I only just got back, and as we here all know, I am not responsible for this mess. How could I possibly have a plan?]
+
+[I don't think he's lying,] Morrelia says to the others.
+
+[I can still hear you.]
+
+[I know.]
+
+Sheesh. What's with people giving me so much sass over the mind bridges these days? I'm a powerful monster deserving of respect! Not to mention, I worked my thorax off to try and make a breakthrough down there. Do they think it was easy for me to go down there and bust through the Krath defences while hunting down their secret bases? Literally any other monster would have been dissolved into goop in the first few hours!
+
+Some people are impossible to please. At least the Colony is happy with me. Pressure has been relieved from the fortress and our territory is stabilising. Our rate of corrupted mana harvesting has returned to normal levels, and we are full steam ahead preparing for the next purified energy flood. Of course, dropping the normal amount of energy down there would be like spitting into the ocean, ineffective and lacking in basic hygiene.
+
+No matter what, we have to wait until the mucus levels have gone down again before we proceed. To all intents and purposes, we are looking at a good old-fashioned stalemate.
+
+"If they really want to know what we have planned, then I am happy to tell them."
+
+Cool as a glacier-chilled cucumber, there is only one ant who could possibly speak with such ice-cold logic.
+
+"Solant? What are you doing down here?"
+
+"I came to consult with you, but I see we have guests. Yet more Abyssal Legion Commanders inside the fortress. Are you collecting them, Senior?"
+
+"It was either bring them here or leave them to drown under a tide of mucus. I thought bringing them here would be the more diplomatic move."
+
+Also, leaving them there would have been a bit mean, surely. The Legion might not treat us very well, but that doesn't mean we need to stoop to their level. I for one take pleasure in being nice to them and then rubbing their faces in it when they're rude back.
+
+Gweheheheheh.
+
+The reaction Solant receives upon entering the chamber is the perfect illustration of the point. Commander Chyron gives her a frosty, if respectful nod, but the more recent arrivals look distinctly unhappy to be approached by the little general, their hands twitching as if wishing they had weapons to draw.
+
+You're in an ant fortress and you're unhappy about seeing an ant? Get with the program, sheesh!
+
+Uncaring of their reactions, the little general skitters closer and stands by my side, leisurely cleaning her antennae.
+
+[Solant says she's happy to lay out the plan for you,] I tell Morrelia and company. [Presumably she wants to drag you into her schemes.]
+
+"Senior. I am trying to drag the Legion into my schemes. Are you making it difficult for me?"
+
+"What? No! I would never!"
+
+How did she know?!
+
+[Scratch that, Morrelia, she has no schemes. Well... I mean... she has schemes, but none that involve you. Directly.]
+
+Smooth.
+
+[Stop wasting our time and spit it out,] Chyron says, only growing angrier as time passes. She needs a lie down or something, seriously. This woman is getting way too tense lately. Maybe the torpor police should... no... on second thought, that might go down poorly.
+
+[She wants to know if all the Commanders present should be privy to this knowledge.]
+
+Chyron frowns severely.
+
+[Of course. Any Legion Commander can be trusted implicitly.]
+
+[And what about that random young woman over there?]
+
+My first instinct was to say 'little girl', but I think they said everyone here is eighteen and over?
+
+Chyron turns to stare at the Legionary that they brought along for goodness-knows-what reason. She hasn't contributed to the conversation much but has spent a lot of time pestering Morrelia and staring at me. That's not all that surprising, though, I'm an incredible specimen of an arthropod.
+
+Solant seems happy to talk, so I pass on her message to the Legion myself rather than add her to the mind bridge.
+
+[According to the general, she's already launched an operation to take advantage of this situation. New tunnels are being dug to divert and drain the mucus over a wide area and expedite the process. Wow, really? Fine, I suppose. Which means that access to the lower tunnels will be gained much faster than the Krath likely anticipate. Taking advantage of that window, Solant wants to deal a decisive strike and break through to the sixth.]
+
+Judging by the way the Commanders give each other the side-eye, they are perfectly aware of how close we are to the sixth, but were perhaps unsure if the Colony knew as well. To be completely honest, I have no idea how far we need to go in order to reach the sixth, and I don't think Solant does either. This could be another of her bluffs.
+
+[Oh, and she would like the Legion to help in the assault. Hah! I knew it!]

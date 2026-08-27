@@ -1,0 +1,97 @@
+---
+id: 2fe266a3-e51f-5ba2-b386-22395a3edf3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1838 -  Investment Strategy"
+slug: 0493-chapter-1838-investment-strategy
+partOf: chrysalis
+position: 493
+ownLength: 957
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3776185/chapter-1838-investment-strategy"
+royalRoadId: "3776185"
+---
+
+Time passed in a whirlwind of activity for Merchant. It seemed as though there was never enough time in the day to do all the things she wanted to. Getting the information she needed took time. Running the numbers took time. Travelling to meet contacts, negotiations, drawing up contractual agreements. Time, time, time.
+
+She was so desperate for time that she began using teleportation more and more frequently. Merchant had inherited her dislike of gateways from Enid, who deemed them a trap for inexperienced traders. Moving goods through a gate was ten times as expensive as travelling with them, and if you were moving from one place to another, then you ought to be carrying something, otherwise what was the point?
+
+Indeed, the cost just to move Merchant and her team from place to place was prohibitive enough, without taking any items through with them, and that was when they could get permission. There were still many places that wouldn’t accept monsters in their gate network, despite the best efforts of the Colony diplomants to open doors and secure rights.
+
+Despite the hectic schedule and seemingly endless travel, Merchant only grew more and more energised as time went on.
+
+“How many signatures did we get from the Infusion Medical College, Buffant?”
+
+“Only eleven, I’m afraid.”
+
+“What? At those rates?”
+
+The offered deals were very generous, which they needed to be. Merchant wasn’t in the business of lying. She didn’t conceal the fact that anyone who signed the deal was going to be sent into the fifth to work in field hospitals. No frontline work, absolutely not, but still dangerous. A less scrupulous individual could have withheld that information and then used the contract to force them to go, but despite being immoral, such traders were, in the opinion of Enid, second rate.
+
+Lying and cheating for short-term profits killed your future business as sure as an arrow to the core. Trust and reputation were more valuable than Ascended Platinum. By dealing squarely with these Healers and suppliers, the potential for future agreements would always be there.
+
+“What are our numbers, Secretariant?” Merchant asked.
+
+“Still eighty short of our target.”
+
+“Eighty? Hmmm.”
+
+So far, Merchant had found there was a critical mass to this sort of thing. The larger the number of medical personnel they could provide, the better the deals from the various invading powers became.
+
+“Where are we going to find another eighty?” Merchant wondered, then shook her head. “You and Musant will have to work on that, I have other priorities. Offer another round of deals to those graduating next year and add a signing bonus. If we can’t get the people we need right now, then we can assure people that we have them under contract.”
+
+“Good idea.”
+
+“Secretariant, did we get a price on those vitalweed harvests?”
+
+“We did,” she replied grimly, “the price has doubled from the last quote.”
+
+“Doubled?” Merchant said, clacking her mandibles in surprise. “Already?”
+
+“Someone has been throwing around huge amounts of coin, trying to secure the same materials we are.”
+
+“Any idea who?”
+
+“The Merchant Cooperative.”
+
+“Georgia Wynn.”
+
+Looks like she’d had the same idea Merchant had.
+
+“The race is on, Secretariant. Double her offer, but only if they lock in for the next three years.”
+
+“That much? Are you sure?” the ant asked, surprised.
+
+“Absolutely,” Merchant replied, pushing her glasses up. “You’ve seen the price projections. The profit is still there, but only if we act fast.”
+
+Those prices would continue to skyrocket as long as the invasion of the fifth went on, which would be years.
+
+“That’s going to eat into our capital faster than anticipated,” Secretariant pointed out.
+
+“That’s a problem, but a manageable one. Make the trade.”
+
+“I’ll see to it.”
+
+“Have we moved the allocated funds to the Colony bank yet?”
+
+“We have.”
+
+“Any data on the uptake of the loans?”
+
+“It hasn’t been long,” Secretariant said, flicking through a few pages in her notebook. “But initial signs are good. There’s strong interest, particularly in Renewal.”
+
+“Excellent.”
+
+This was one of the initial planks of Merchant’s strategy to economically develop the Colony’s territories. Right now, the Colony did a surprising amount to stimulate growth in the underground cities they controlled just by patrolling the Dungeon and keeping crime staggeringly low. Of course, there was significant infrastructure buildout by the Colony as well, but those were being underutilised.
+
+She intended to stimulate activity by offering low interest loans so long as the applicant was able to present a sound business platform. All in all, it would lose Merchant money, there was only a tiny amount of profit in the loans themselves and some of them wouldn’t be repaid, but that was fine. Enriching the populace would lead to economic growth, which would lead to greater uptake of gates and trade, which would lead to an increase in the wealth flowing to the Colony.
+
+Of course, if the people in Colony-controlled territory had more wealth, they would need to make more extensive use of banking services, which would mean more business and more capital for Merchant.
+
+The harmonious cycle of profit.
+
+“I’m going to work on the proposal for the Colony Construction expansion,” Merchant declared, shuffling through her own papers.
+
+She had to get this authorised by the Council first, but they should approve it. When they did, her construction teams would start operating on a much larger scale. Since the ant workers didn’t take pay, their wages were paid directly to the antcademies, but this was another way Merchant intended to use her wealth to benefit the Colony. Subsidised construction projects within their territory to stimulate growth.
+
+Yes, she had plans that would make the people living alongside her siblings very wealthy indeed.

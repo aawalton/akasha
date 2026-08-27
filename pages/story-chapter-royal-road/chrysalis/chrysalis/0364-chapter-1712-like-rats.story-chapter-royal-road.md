@@ -1,0 +1,99 @@
+---
+id: d6ee8c67-6ed2-55e6-8764-d0eb833d9e40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1712 - Like Rats"
+slug: 0364-chapter-1712-like-rats
+partOf: chrysalis
+position: 364
+ownLength: 1026
+unit: words
+ownProgress: 1026
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2940679/chapter-1712-like-rats"
+royalRoadId: "2940679"
+markedReadAt: "2026-06-29T19:55:27.339Z"
+---
+
+Frederick felt like his heart had locked solid in his chest. Every nerve in his body screamed in terror as the giant beast loomed over him. With such overwhelming power, he could feel the monster’s might within every cell.
+
+Against something like this, there could be no victory and he’d been a fool to even entertain the possibility. This wasn’t work for delvers, they needed to get the army, or the Legion if they wanted to fight this beast!
+
+Then he noticed the monster’s legs explode.
+
+A shower of blood rained down over the frozen delvers, bursting out from the joints of the creature’s six legs. A moment later, the legs themselves seemed to… detach, falling to the ground, followed by the monster, who collapsed with a thunderous crash.
+
+[Dammit!] the creature roared in their heads, but this was all the opening Frederick needed.
+
+“RUN!” he roared.
+
+“We should fight! It’s injured!” some idiot called back.
+
+“Shut up and run!” Frederick roared back.
+
+For all he knew, the legs being injured was just a trick. Was he going to risk his life to find out? No he was not. Instead, he ran.
+
+A moment later, he stepped over Shamus and Elsi, lying on the ground facing up, seemingly having surrendered. He sneered at their cowardice. Because it spared them once, they thought it might do so again? Foolishness. After all, nobody else had come back after meeting it.
+
+[No you don’t!]
+
+A flash of purple light, a rushing sound, cracking stone, and then Frederick was face down on the ground. Nose broken and bleeding, he tried to turn his head so he could breathe, only to find he was buried several inches into the rock. Whatever force pressed him down, it was incredibly strong. Even if he strained hard, he couldn’t overcome it. Standing up was just a dream within a dream.
+
+What was this?!
+
+[You really thought my legs exploding was going to be enough to let you get away. Foolish!]
+
+A pause.
+
+[How long do these damn… ah! There we go.]
+
+A few seconds later, vibrations through the floor told Frederick the monster was moving again. Hah! He knew it was a trick! You could never know what a monster was capable of. Regrowing limbs wasn’t even a surprise. He’d once seen a monster that grew vestigial bodies, puppeting them about the place from a distance.
+
+[These things are way too small! Vestigial legs my thorax! These are vestigial stumps! Oh wait, they’re growing. Neat!]
+
+The monster continued to force its thoughts into Frederick’s mind, regardless of how he tried to force it out. It nattered to itself, almost like a child, yet he couldn’t help but feel the sinister intent behind the chatter. Why broadcast these thoughts to them at all, unless to demonstrate its mastery? So confident of its invincibility, the monster could afford to take its time, to mock the delvers in their plight.
+
+No matter how he strained, Frederick simply couldn’t move, so he gave up trying. He could hold his breath for an hour if he had to, but if he strained further, that time would rapidly diminish. So far, everything was following the same pattern Shamus had reported from their encounter. The strange force that crushed people into the ground, pinning the delvers in place.
+
+What would happen next?
+
+[Oh, hey! I remember you two! Lying face up, good idea.]
+
+So that’s why they’d done that!
+
+[Still can’t breathe, though, can you? Not enough strength to expand your lungs.]
+
+Hah! Take that, Shamus, Frederick thought vengefully.
+
+Shamus must have replied but only the monster could hear him.
+
+[I don’t know, lift more or something. Work on your diaphragm. In the meantime, just relax. I need to go poke around.]
+
+More vibrations as the monster began to move around, coming closer.
+
+[Not you. Wh-why would you even think about that in this situation? Weirdo. Nope. Not you either. There has to be someone here… oh, a priest! Welcome, welcome. Not you either.]
+
+Frederick felt the weight in his mind intensify further.
+
+[Aha! Someone in charge. Hello there. I’ll let you up for a moment.]
+
+Instantly, the crushing pressure was gone. Frederick flopped over and looked up to see the ant standing uncomfortably close, looking down at him, antennae waving.
+
+Antennae? They were like trees.
+
+Cautiously, he stood. With this view from below, he could actually see the ant’s mouth on the underside of its head. It was disgusting. A nightmare vision of himself being consumed by those twitching little clawlike things flashed through his mind.
+
+[Right then,] the ant said. [Much like before, I’m thinking of sending one or two of you back, to really drive in the fear and terror. Build up a sense of helplessness, all that good stuff. By the time I reach Green Mountain, they should be trembling with greed and good old-fashioned terror. You know what I mean?]
+
+[I-I do,] Frederick said, not understanding at all. This ant wanted to waltz up to Green Mountain by itself? Even as strong as it was, that would be suicide. Built as a fortress mountain to hold off monsters during the most intense of waves, it was packed full of soldiers and defensive arrays that rivalled the best the Legion could produce. [I’m sure they will be… very afraid. You should go there as soon as possible.]
+
+[You know I’m in your head, right?]
+
+Frederick cursed internally. He wasn’t used to guarding his thoughts anymore, not after so long away from the field.
+
+[You know what? I probably don’t need to send anyone back at all, now that I think about it. The absence of survivors will be more than scary enough.]
+
+Seeing the writing on the wall, Frederick ripped his blade from its sheath and ran at the monster, bladelight blazing along its edge. If he was going to die, he was going down fighting.
+
+An instant later he was face down on the ground again, head ringing from the force of the impact.
+
+[You’re still in the domain… Are you really a manager? Sheesh. Crinis, take this lot away, would you? This is getting embarrassing.]

@@ -1,0 +1,81 @@
+---
+id: e7f73914-abd8-579a-87cb-d720ebde7828
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1759 - Crest the Wave"
+slug: 0411-chapter-1759-crest-the-wave
+partOf: chrysalis
+position: 411
+ownLength: 1032
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3197877/chapter-1759-crest-the-wave"
+royalRoadId: "3197877"
+---
+
+Solant sipped her tea, then turned her head and nibbled on her biscuit. The taste was just how she liked it, with a hint of citrus and a pleasant, not overpowering sweetness that sent a quiver running through her antennae. Of course, it went without saying that the tea was delicious. Strong, earthy notes that gave way to a subtle blend of flavour on the palate. Solant had lately preferred to take her tea without milk, preferring the more potent taste, though sugar, of course, was a necessity.
+
+Thanks to the ever-growing supply lines connecting the fifth to the world above and the Colony’s ever-growing farming capacity, tea and sugar were no longer the rare commodities at this depth that they had been before. Clacking her mandibles with satisfaction, the little general leaned back and allowed herself to enjoy the moment.
+
+“You look relaxed,” Leonidant observed from nearby.
+
+“I am always relaxed,” Solant replied coolly.
+
+Her sister waggled her antennae in derision.
+
+“Oh sure. Others might not be able to tell, but we can. You’ve been stressed out of your mind waiting for the Eldest to return and we all know it. Why else do you think we’ve been working this hard?”
+
+It was true. Although she may be excellent at concealing her emotions from most ants, her nineteen closest siblings, those who hatched alongside her, seemed to see through her mask no matter how well she fashioned it.
+
+“Because I asked you to?”
+
+“We’ve been going above and beyond what you asked of us and you are well aware of it.”
+
+This was also true.
+
+“Well, the Eldest is back now,” Solant noted. “So our situation is a little less dire than it was before.”
+
+“That’s one way of putting it,” Leonidant said.
+
+They both had seen the updated map in the morning. It wasn’t a huge visual change, but what it signified was tremendous. It had only been a week since she had tasked the Eldest with destroying the four outposts that locked the Colony in.
+
+Truth be told, the bulk of the Eldest’s time had been taken up with travel. Moving around the four different sides of the captured territory was a significant distance, after all. Once arriving at the front, the Eldest had generally annihilated the Krath, captured some of them, then undone their modifications to the tunnels in less than a day.
+
+She didn’t know just what had happened during the last evolution, but clearly it had helped their strongest ant adapt to the environment of the fifth. Having smashed the obstructions that had thwarted her for months, they were now heading down to the depths to attack the blockade there.
+
+“Do you think the Eldest understands how dire our situation really was?”
+
+“Probably,” Solant said, taking another sip of her tea. “It is always difficult to figure out just how much our senior really knows. They are… unpredictable."
+
+“That’s one way of putting it. I still don’t understand what happened in our Tunnel Ball game.”
+
+Solant grew still, the air around her growing tense. She did not like to be reminded of her defeat.
+
+“Regardless of… that. I’m sure the Eldest, to some extent, realised how dangerous things had become. Unable to expand our territory, the Krath were massing on our borders, ratcheting up the pressure. It was only a matter of time before they found a crack in our armour.”
+
+“You planned for everything,” Leonidant pushed back. “Is there even a crack to find?”
+
+“Nobody can plan for everything,” Solant refuted. “Not even me. If I truly believed that our defenses were impregnable, would we have worked so hard to ensure they wouldn’t need to be tested?”
+
+Core to Solant’s strategy was the constant outward expansion of the Colony’s territory. If the Krath had enough time, they would find ways to counter the cleansed mana; corruption was their strongest power, after all, the thing they understood the best. To prevent that from happening, she had to continue to push, to drive them back, not give them time to solidify their lines.
+
+While her Senior slept, evolving, she had done her best to manage without them, to maintain her strategy and drive progress forward. Massive gains had been made in that time, but always slowing down, proportionally speaking. It had been a delicate dance that she had engaged in against the Krath. They couldn’t reach into the safe-zone and hurt the ants, but neither could the ants reach into the corruption and harm the slugs.
+
+So they raced, raced to see who would solve the deadlock first. Solant had the lead on that point now, but the slugs wouldn’t give up, not until the very end. That was one of the reasons she had asked for captives. It was unlikely any would cooperate, but if she could discover just what the slugs were working on, she could sprint ahead of them once more.
+
+“The next wave of expansion is scheduled to take place in two days,” Leonidant said, as if Solant didn’t already know. “How far do you intend to push?”
+
+“Just enough to keep them retreating,” she said. “Our main focus has to be elsewhere.”
+
+“Oh?” said Leonidant, surprised. “Why is that?”
+
+“Because the focus of our enemies is elsewhere.”
+
+Down in the depths, that was where the vast bulk of the slug tribe resistance had gathered. The Krath didn’t want them to get any deeper, and she wanted to know why.
+
+“We need to break through to the sixth,” she said, “as soon as possible. Once a bridge to the new world has been established, the Colony will have all the power in the world. Every kingdom, empire and city will be desperate for access. That’s our reinforcements. If we can influence enough of them to launch their own campaigns into the fifth, the Krath will have too many fronts to fight on, unable to focus on us. Once that happens, we win.’
+
+“And what about Merchant? I heard she was going to be here tomorrow?”
+
+Solant nibbled on her biscuit once more.
+
+“I don’t see how she can help, given what I know, but the Eldest insisted. I’ll indulge her for a while.”

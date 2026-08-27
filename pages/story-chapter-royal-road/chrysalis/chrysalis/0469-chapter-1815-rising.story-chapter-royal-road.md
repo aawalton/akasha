@@ -1,0 +1,49 @@
+---
+id: d4d03c7e-37ac-5ba4-a345-228b048abf50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1815 - Rising"
+slug: 0469-chapter-1815-rising
+partOf: chrysalis
+position: 469
+ownLength: 1031
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3540308/chapter-1815-rising"
+royalRoadId: "3540308"
+---
+
+Apparently the Ancients have a lot of spare time on their hands right now. Those that have hands, at any rate. In fact, I have no idea if Theorazzn or Perrianon have hands at all. One Ancient decides to reach out and throw threats, talking about how they were going to melt me into a puddle of goop, but then another two of the Ancients stepped in to make them back down. Then another one reaches out, right on the heels, just to say hi.
+
+I mean, Perrianon had more to say than that, the main reason they called was to thank me for returning their home stratum back to its original state. Well, getting the process going, at any rate. Very polite, very nice thing to say, not really all that similar to my previous conversations with Ancients. After talking with Granin, I know that Perrianon is some sort of horrific blood creature, which didn't give me the best impression, but after speaking with them, they're my favourite Ancient by far.
+
+Our conversation was extremely brief, I don't think they can reach out to this stratum with the ease that Theorazzn can, but maybe that'll change in the future. Certainly, more influence from the blood monster and less from the diseased corruption crab/starfish thing would be an improvement, putting it mildly.
+
+I'm back amongst that corruption now, making my way back up the tunnels. After being free of this cursed energy for a brief spell, being back amongst it is making me feel even more ill-disposed towards the Ancient responsible for making it this way. I'm glad I gave them a piece of my mind while I had the chance. Sheesh, these tunnels are even worse than they were before. It’s almost like they’re reacting to Theorazzn's anger. Well, I'm able to get through in the end and make my way back to the tunnel teams.
+
+"You managed to find the sixth, Eldest?" the leader of the first team I encounter asks as I make it back inside the dig site.
+
+Looking up, holy moly but they've achieved a heck of a lot in a short amount of time. The ant build teams are really getting out of control with their special evolutions, mutations and improving Skills. Besides their high levels of specialisation, there are a ton of them, over two thousand working in this shaft alone. Thankfully, the entire thing is still filled with blessed cleansed mana, keeping them all safe and ridding me of that irritating acidic burn once and for all.
+
+"Of course I did!" I declare, indignant. "You thought I wouldn't? I haven't been slacking like those lazy siblings up in the nest. I've been working hard."
+
+"They have been slacking up there," the carver agrees with a huff. "Let them know what we think when you get back up there."
+
+"I will. Let me tell you about the tunnel layout below, then I'll be on my way. Can you pass the word to the other tunnels?"
+
+"Come here for a sec. You describe it and I'll manipulate this model. Every dig-site has one and they mirror each other, so whatever changes I make here will be replicated to the others."
+
+It takes me ten minutes to explain the basic shape of the Dungeon below us and ensure what they have lines up with my tunnel map. Once I'm done, the dig team leaders gather to plot and plan, working out the best way to reach their target. There isn't long until this entire shaft is going to be filled with an unbelievable volume of mucus, so they need to get the digging done as fast as they possibly can. That haste can't let them compromise on safety, though, and they are at great pains to make sure the path they choose is as low risk as they can make it. Every time they intersect with an existing tunnel, the Colony has to expend a huge volume of cleansed mana to flush out the contagion and secure the site for work, so they prefer to avoid it when they can.
+
+I leave them to their work, since I have nothing much to contribute, and use a Gravity Well to lift myself up the shaft towards the fortress. It isn't a straight path, there are inevitable turns and angles they had to make on the way down, but they managed to keep them to a minimum. Making sure the work was as simple as possible in order to keep it moving quickly was the name of the game. Interestingly, there is an absurd amount of work being done almost all the way up the tunnel by even more teams of ants, reinforcing the walls, making sure they won't be compromised by the absurdly powerful mucus being flooded through. Well, they'll break eventually, making them invulnerable to the acidic effect is impossible, but they don't need to last forever, just long enough to clear room for us to attack the final strongholds of the Krath.
+
+Securing this territory for the Colony is our focus after all. It doesn't matter if we can reach the sixth, so long as we have to go through Krath land to get there our victory is incomplete.
+
+Other than that, there are offshoot tunnels and pumping systems already tapped into mucus sources and ready to go, the holding tanks filling up before my eyes. By the time I reach the top, I count no less than two dozen branching pipe systems designed to hoover up the mucus and shift it into this main shaft. It's hard to believe they've been able to cobble all of this stuff together in such a short amount of time. As always, I'm left speechless by the incredible potential of my siblings. Pretty soon, they won't need me for anything, which is good!
+
+When I reach the top, I find Solant waiting for me.
+
+"Just about ready to go, I think," I tell her.
+
+She clacks her mandibles with satisfaction.
+
+"Then it's time to end the rule of the Krath in the fifth," she says coolly. "This campaign has taken long enough. I'm ready to wrap it up."

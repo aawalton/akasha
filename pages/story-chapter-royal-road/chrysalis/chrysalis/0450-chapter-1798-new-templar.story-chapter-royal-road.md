@@ -1,0 +1,105 @@
+---
+id: f701c2ce-8e3e-53f9-9fea-1b8bb2785ef0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1798 - New Templar"
+slug: 0450-chapter-1798-new-templar
+partOf: chrysalis
+position: 450
+ownLength: 1000
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3425438/chapter-1798-new-templar"
+royalRoadId: "3425438"
+---
+
+None of the Templars are offered the same Class, which is interesting, but their own personal variants based on their particular strengths and interests. I can't help but become curious once they start discussing the options they've been given, because obviously I have to ask all of them after Jern piped up.
+
+A few of the options are a little surprising, but most of them line up with the people to whom they are offered.
+
+Bertram is given a few different choices, but the best and highest rarity ones are relating to his role as a Templar and his penchant for being a jack-of-all-trades with a vast wealth of experience doing all sorts of odd-jobs.
+
+Templar of the Toolshed
+
+Templar Gadgeteer
+
+Templar Engineer of the Moment
+
+Of his options, Bertram is most inclined to choose one of these three, each providing bonuses to his various Skills that make something out of nothing. I leave him perusing and weighing up his options while I turn to Jern and check on the rest of his offerings.
+
+Templar of Unshaking Faith was the option that first drew his eye, but he does have others that he finds interesting.
+
+Templar of the Righteous Hammer sounds... intimidating.
+
+Honoured Templar of the Great One is... well... I can only assume this is some sort of practical joke waged on me by Gandalf, the fluffy-bearded old goat.
+
+Jern doesn't seem sure which way he wants to go and I certainly don't have any advice for him. Though, I do hope he avoids the third option. With the Prophet showing up, I certainly don't need any other System prompts to reinforce that sort of thinking.
+
+Alis seems extremely happy with her offerings, although I'm not sure if I'm as enthused as she is. They all seem... a little... combustible?
+
+Unflinching Flame Templar
+
+Righteous Flame Templar
+
+Templar of the Everflame
+
+As long as she's happy, I suppose it's fine? I really don't like the intense fire I see burning in her eyes, but nothing too bad should come of it. Right? For a moment I think about introducing her to Propellant, since they seem to enjoy a similar love of all things fire, but I think better of it. From what I can tell, neither of them need any encouragement.
+
+Oddly, the three youngest aren't all that interested in sharing their Class Advancements with me. A little secretive and shifty, they discuss things intently amongst themselves without ever inviting me to be part of the conversation. Not a problem, you do you. They don't have to tell me or anything, if they want privacy, then they can have it. It does have the side-effect of making me intensely curious, so I immediately start cooking up ways to find out what they're talking about.
+
+Of course, a mind bridge would solve my problem, letting me rummage around in their thoughts, but that would be extremely obvious and incredibly intrusive. Regardless of how they feel about me, I doubt they'd look too kindly on me effectively reading their minds. That's a no go. I can probably use the Vestibule, skim their surface thoughts and get a decent idea of what they're talking about, but that also feels rather invasive.
+
+Ultimately, I'm forced to let it go and live in ignorance. They can have their secrets, dammit. Even if I'm burning up with curiosity.
+
+[You must be pleased you don't have to worry about getting spiritually attacked anymore, Great One,] Jern says when he's finished making his selection.
+
+I'm a little confused by this.
+
+[What do you mean? Didn't I only ever get attacked like... twice?]
+
+He looks at me oddly, then nods as if he's realised something.
+
+[I suppose you were asleep for the majority of them, weren't you. Yeah, we put in a tough few shifts over that period. Slimy things kept sneaking into the Nave. We dealt with it, though.]
+
+Hang on, what?!
+
+[I was getting attacked while I was evolving?]
+
+[Oh yeah. Quite a bit. There would have been over a dozen attacks, all up.]
+
+[A dozen?!]
+
+Nobody thought to mention this to me? Sheesh! Although... when I think about it, the Templars are probably the only ones who were really aware of what was going on, and I haven't come to see them or spoken to them since I woke up. The blame for this one can be placed quite squarely on my own, shiny carapace.
+
+[Well... was everything alright? Are you guys okay?] I ask lamely.
+
+Obviously, they're fine. All of the Templars are standing right in front of me, perfectly healthy, so I can safely assume nothing too bad happened to them while I was asleep.
+
+Jern confirms with one of his uncaring shrugs.
+
+[It was tough for a while, but we got through it in the end. A lot of our Levels came from that... spiritual fighting.]
+
+Wait a second, if Jern says it was tough....
+
+[Alis, how bad were the attacks on the Nave?]
+
+Still grinning to herself in a worrying fashion, like a moth staring hard at the flame, Alis goes pale and starts trembling at my question.
+
+[It was... horrible,] she whispers. [I barely slept for weeks. So... many... slimes....]
+
+Jern pats her on the back sympathetically then moves to giving her shoulders a reassuring squeeze as the poor, obviously traumatised young woman trembles while staring blankly into the distance.
+
+Holy moly! It was that bad?! Now I feel terrible. Doubly so for ignoring them for so long.
+
+[After everything you've done, I think you six deserve a bit of a vacation,] I declare to them all. [Get some rest, heal up your bodies, (and minds), play around with your new Classes before reporting back to duty in a few weeks. How does that sound?]
+
+Betran looks a little uncomfortable.
+
+[I'm not sure it would feel right-]
+
+I lean down close to his face.
+
+[I. Insist.]
+
+He blinks.
+
+[Well in that case, maybe a little time would be a good thing.]

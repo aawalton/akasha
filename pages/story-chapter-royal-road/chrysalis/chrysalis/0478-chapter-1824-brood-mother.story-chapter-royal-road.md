@@ -1,0 +1,79 @@
+---
+id: 8d3f28d4-4584-5cd8-88d2-5c53296fb9f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1824 -  Brood Mother"
+slug: 0478-chapter-1824-brood-mother
+partOf: chrysalis
+position: 478
+ownLength: 991
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3591860/chapter-1824-brood-mother"
+royalRoadId: "3591860"
+---
+
+Lightning crackled along the cells, each filled with swelling brood or Biomass undergoing the transformation to sweet nectar. Tucked into a corner along the roof, nestled between natural folds in the stone, the hive location was well concealed, with only a narrow entrance on either end. A defensible enough location for now, but without much room for expansion. The Queen was already on the lookout for another place in which to build a larger nest.
+
+Workers, the first of her children in this new stratum, moved amongst the cells, ensuring the developing brood were tended and fed, ensuring the transition from Biomass to nourishing nectar was completed smoothly. There were other jobs for them as well. They were the ones responsible for construction now that they were old enough, using their own saliva and processed Biomass to expand the hive.
+
+Since the Queen no longer needed to tend to the nest as actively, she had more time for hunting.
+
+Despite heavily modifying the status of her children during her last evolution, the Queen wasn’t confident they were yet strong enough to compete in this new environment. Loyal and faithful, they yearned to fight for the hive, but she wouldn’t allow them to, not yet. She needed to hunt for them more, bring back prey to give them Levels and let them accumulate mutations.
+
+When they were more numerous and stronger, they would be able to take over the hunting duties, giving her more time in the nest, but for now, she spent far more time out of the nest than she did inside of it. Her children were growing increasingly annoying about it.
+
+“My Queen!” buzzed one of her firstborn, Elizabee. “You should not leave the hive alone! Allow me to accompany you!”
+
+Her pheromones were filled with anxious care for her mother, which was nice, but only served to catch the attention of her sisters, which wasn’t.
+
+“Is the Queen going out again?” Beeatrice asked. “Alone? Absolutely not!”
+
+“I am not required to take you with me,” the Queen told her firmly. “You are too weak to leave the nest. Stay here and tend to the brood until I return.”
+
+“I must protest and protest I shall!” Guinebee declared. “I have reached the third tier and my stinger is fully mutated. The monsters out there stand no chance against my mighty toxin!”
+
+Irritated, the Queen buzzed her wings in frustration, blowing back the much smaller workers. “The monsters out there would destroy you in an instant,” she said, her pheromones flat and unamused. “None of you are leaving this hive until you reach the fourth tier. Now stop being pests, I have to hunt.”
+
+“Boo!”
+
+“Hiss!”
+
+“Meany!”
+
+Paying no attention to her protesting children, the Queen flew quickly out of the exit and out into the Dungeon. Lightning and wind immediately buffeted her, but she absorbed the blows and moved with the air current, her legs tucked tightly underneath her carapace as she began to search for new prey.
+
+It had seemed like such a good idea at first. If her children were more intelligent, then they would be better able to navigate the difficult hunting conditions here, so much deeper in the Dungeon than where the Queen was born, and where her first hive failed.
+
+So, she made them smarter, modifying her egg-laying process heavily during her last evolution to create smarter, stronger, more adaptable workers. What she hadn’t appreciated at the time was just how independently minded it would make them. In her first hive, the very thought that any of her children would ever second guess a single thing that she had told them was absurd! Now it was a daily occurrence!
+
+Which only compounded the second decision she had made. After all, they had pheromone glands already, from the moment they were born; why not make it so they could communicate better? This would mean more cooperation, more efficient tending to the hive and hunting.
+
+So far it had only led to more coordinated protesting.
+
+Antennae blowing wildly in the strong winds, the Queen was still able to detect a faint scent. It wasn’t much, but it was something she had found before.
+
+Banking hard, she turned into the wind and let it blow her to the side, angling her massive body to ensure she moved in just the right way. Suddenly, her wings buzzed once more, louder than before and she picked up speed.
+
+From somewhere nearby within the swirling cloud on her right came a surprised cry followed by powerful wing beats. Monsters in this area were growing to know and fear the droning sound of her wings, the Queen had noticed, but this one was too slow.
+
+She may not be nearly as fast as they were once they picked up speed, but she could dart in and tackle them before they had a chance to flee, agile and quick thanks to the unique nature of her wings.
+
+With a loud crack, she smashed into the target, spraying feathers wide as she latched on, mandibles snapping. Talons slashed, beak stabbed and lightning crashed. The fight was on.
+
+When it was over, the Queen struggled back to the nest. Injured and burdened by the Crackling Hawk she had defeated, it was a difficult flight, but failure was simply not an option. The hive had to flourish, no matter what.
+
+“The Queen returns!”
+
+“Ah! She’s injured!”
+
+“Prepare the medical nectar immediately!"
+
+“I’m fine,” the Queen groused, finally coming to a rest, lowering the Biomass down into the nest. She appeared grumpy, but on the inside couldn’t help but feel warmed by the care of her children. “I wasn’t able to keep it alive, I’m afraid. I’m sorry.”
+
+“Don’t you dare apologise!” Elizabee yelled, waving her forelegs in the air. “You have done everything for us and we are truly grateful!”
+
+“Hear, hear!”
+
+“Three cheers for the Queen!”
+
+Well, maybe having noisy children wasn’t too bad.

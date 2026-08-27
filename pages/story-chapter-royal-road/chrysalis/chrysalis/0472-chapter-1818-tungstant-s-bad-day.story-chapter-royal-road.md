@@ -1,0 +1,81 @@
+---
+id: cc59e898-0337-5874-a794-d1bf3f20a994
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1818 - Tungstant's Bad Day"
+slug: 0472-chapter-1818-tungstant-s-bad-day
+partOf: chrysalis
+position: 472
+ownLength: 1100
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3554885/chapter-1818-tungstants-bad-day"
+royalRoadId: "3554885"
+---
+
+"I thought I said I needed more time to rest. Actually, I think you said we should take more time to rest."
+
+"That's right," Solant agreed, "I did."
+
+Tungstant's antennae swung wildly as she tried to hold onto her temper.
+
+"I think I also said that I would prefer a longer timeframe on the next major project."
+
+"That's right," Solant agreed once more, "you did."
+
+"And instead of doing that," Tungstant went on, as if she hadn't spoken, "you gave me and my teams very little time to rest, and then brought us an even larger project, with an even shorter deadline? Am I smelling you correctly?"
+
+"You are," Solant nodded solemnly.
+
+It had been roughly a day since the pumps had been switched on, and in that time Solant and her troops had worked hard, capturing terrain, driving back the corruption and expanding the Colony's reach into the lower tunnels as they became available. It had been difficult, dangerous work, battling monsters and corruption at a constantly moving frontline, across a dozen fronts at once. Had the Krath been active in the tunnels, she never would have attempted it, as they would certainly have succeeded in abducting an ant, with almost no chance of recovery. Although fraught with danger, they had been successful, driving the cleansed zone all the way down to what the Eldest had described as the lungs. There, however, they had been forced to stop. Mucus still flooded the nearby tunnels, leaking out of the burst vessel the Eldest had described, and so far the pumping stations hadn't been able to clear out the gunk fast enough to give them access and make repairs.
+
+They'd been able to move sideways, branching outwards and trying to gain direct access to the hearts, but so far, they had been stymied by the mucus and hadn't found what they'd needed. She was confident that the pumping system would eventually get the job done, it simply needed more time. Certainly, every antgineer she'd spoken to had been confident that the pipes were holding up and would continue to function for the near future. Already they'd moved billions of liters of mucus, but they needed to move billions more before the Colony could get where they needed to go.
+
+However, Brilliant had told Solant what was needed in order to win, and so Solant would now make sure that it happened. That meant the carvers had work to do.
+
+"The mana channels have already been installed, we simply need a reservoir to hold the volume of energy that we need to complete the purification."
+
+Tungstant hung her head in despair.
+
+"Oh, you 'simply' need a reservoir capable of holding the entire supply of liquified cleansed mana in the entire stratum. Is that all? Let me just snap my mandibles and produce one, it's so simple!"
+
+"What are the challenges?" Solant asked calmly. "Whatever they are, I will ensure they are overcome."
+
+Tungstant seemed to lose all of the fight that had been bubbling up within her in a rush. She knew that this was going to happen, Solant would do exactly what she said: whatever the build teams needed, whoever they needed, everything would appear in a timely manner, no matter how impossible it might have seemed at the outset. The ability to produce what was needed when it was required had been the little general's real superpower during this invasion.
+
+"First of all, the channels are in place, that's true, but there is no way they can handle the kind of volume of transfer you're talking about in the short time you want it to happen. In fact, I doubt the current network could even handle the amount of liquid mana being generated across a day, let alone the entire reserve."
+
+"How many times over does it need to be expanded?" Solant asked, unflustered.
+
+"Ten times," Tungstant guessed. "That's an estimate, probably an overestimate, but it’s better to be safe and go larger than fall short."
+
+"Agreed," Solant nodded. The general paused for a moment, considering, then nodded. "Very well. We will construct new mana channel systems aiming for ten times the flow capacity leading to this fortress. I'll have the necessary materials in place by the time your teams are ready to begin work."
+
+Which was a truly staggering amount of highly engineered and delicate components. Mana channels were not simple to make by any standard. However, Tungstant knew that it would be done, just as the general had said. She would simply find a way to make it happen. Even so, she was baffled by the task ahead.
+
+"I still don't see how it can be done," she said. "We need to survey the ground, begin planning routes, there are careful calculations that need to be completed in order to ensure the channels won't fail or interact negatively with the tunnels they pass through."
+
+"No time for that," Solant said. "We will need to dig dedicated shafts for the new channels so we can control the environment and ensure their safety. We can't risk monsters chewing on our work and losing a single drop of mana."
+
+"That's even more work you're asking for! There's a limit to how much we can get done, and I'm not sure you appreciate how much effort is required to dig out the kind of tunnels needed to host something as vulnerable as a mana channel. I simply don't have enough workers to get this done in time."
+
+"Then you'll have more," Solant said.
+
+Tungstant stared.
+
+"Almost every high tier, high Level building and excavation specialist in the entire Colony is here in the fifth already, Solant. There aren't any more to get."
+
+Solant appeared untroubled.
+
+"You said it yourself," she said, "the lower tier, lower level specialists are not here. They will be."
+
+Tungstant stared.
+
+"You want to bring every construction team in the entire Colony down to the fifth?"
+
+Solant tilted her head to the side, as if slightly puzzled.
+
+"You said that's what is required to win. Therefore, I will do it."
+
+Not for the first time, Tungstant wondered if Solant might be a little mad. It seemed every Champion who came into contact with the Eldest came out just a little crazy. Then how to explain Merchant? In fact, there were many examples of ants who were somewhat strange that had never even met the Eldest.
+
+Finally, Tungstant was forced to admit that perhaps, just a little bit, everyone in the Colony was slightly crazy. She certainly was, she was starting to think this project might just be possible.

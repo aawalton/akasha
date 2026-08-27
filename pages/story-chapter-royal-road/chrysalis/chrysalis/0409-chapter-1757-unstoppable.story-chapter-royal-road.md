@@ -1,0 +1,87 @@
+---
+id: 86b7fa8f-721e-5414-becd-237fba192b9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1757 - Unstoppable"
+slug: 0409-chapter-1757-unstoppable
+partOf: chrysalis
+position: 409
+ownLength: 960
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3190181/chapter-1757-unstoppable"
+royalRoadId: "3190181"
+---
+
+It was only ten minutes later when the ant finally broke through. Tons of rock fell away at once, a deafening collapse that sent dust and fungal spores billowing upward.
+
+Zullz tensed, expecting a horde of menacing insects to burst through the gap, but instead, there was nothing.
+
+Nothing, until a gigantic ant head poked through the gap. With gleaming jewels for eyes, the insect was covered in what appeared to be brilliantly faceted, purple diamond. Long, savage mandibles extended from its head while its antennae, tipped with some sort of crystal fibre, swung through the air.
+
+For a moment, the Krath’sizz was stunned into stillness, as were the rest of the Krath. Zullz edged backwards, just a hair.
+
+“Now!” Suzzil roared.
+
+They were supposed to wait for the ant horde to materialise before springing the trap, but it appeared their leader was intimidated enough to call it already.
+
+Zulls took no pleasure in being vindicated.
+
+Before the ant could so much as twitch, cunningly concealed mechanisms over its head fell open, unleashing a deluge of lurid green mucus. Enriched with the most potent of goo-spores, this was amongst the most deadly forms of mucus the Krath could create in any sort of volume.
+
+Seeing it coming, the ant did something Zulls did not expect. Rather than retreat and attempt to escape the toxic mess, it merely climbed up, as if ignoring the mucus entirely.
+
+In an instant it was covered in the stuff. A horrific sizzling, so loud as to overwhelm any other sound, filled the air. Acrid clouds of intense steam billowed upwards as the acid ate through the creature's carapace and attacked its joints.
+
+“Hah!” Suzzil gurgled with satisfaction, yet Zullz didn’t feel quite so confident.
+
+Why wouldn’t it try to dodge?
+
+He got his answer a moment later. A massive insect leg extended out of the goop, followed by another. Soon, the body of the monster came into view, dripping lurid slime and smoking as if it were on fire.
+
+As if mocking them, the creature slammed its mandibles together in a staccato rhythm.
+
+Then it unleashed fire.
+
+“Attack!” roared the Krath’sizz. “Bury it in acid, it’s already wounded!”
+
+Each of the Krath warriors obeyed, launching their most powerful acid, drawing on the potent slime they cultivated within themselves. The temperature of the chamber skyrocketed as searing hot fire blasted out from the ant, burning away the thick mucus that covered the walls, even turning the flame on itself to cleanse it of the acidic gunk.
+
+Zullz could see sections of its carapace had become dull and pitted, eaten away by the trap, and did his best to aim for those openings, assuming the others saw what he saw. It didn’t seem to matter. The ant paid them no attention as it stomped forward, a searing jet of roaring flame bursting forth from between its mandibles.
+
+This was no ordinary flame. Every time Zullz expected the heat to stop rising, it simply kept going, to the point his own skin began to dry out.
+
+“Spread out!” Suzzil roared, trying to control the battlefield. “Don’t let it get close to you!”
+
+At this rate, it wouldn’t need to, the Krath would simply be cooked within their own Slimeground, but Zullz didn’t need to be told twice. As the monster advanced, the slugs fell back, surrounding the monster and continuing to assault it with a constant stream of their deadly magic and acid.
+
+Not that the ant seemed to care at all.
+
+Finally, finally, the fire was cut off and Zluth felt a brief moment of relief. Sadly, it didn’t last for long.
+
+Swinging its head, the ant seemed to watch all of them at once while the Krath scrambled away from it, desperate to avoid those savage jaws.
+
+Yet the ant didn’t try to bite them. It didn’t have to.
+
+Mana pulsed, light flashed, then a sphere of deep purple energy expanded outwards with the ant monster in its centre. It was so fast Zulls didn’t have a chance to escape before it enveloped him, and so dark it seemed to suck the light from his eyes.
+
+Weight. Terrible, oppressive, crushing weight bore down on him. Immediately, he was unable to maintain his upright form. The bile he had brought up choked and sizzled in his throat as he was no longer able to force it out. Against that inexorable force, he wasn’t even able to keep his normal shape, flattening out against his will as the weight pressed and pressed and pressed.
+
+He was able to move, but only barely, sliding at a glacial pace as he tried to escape from the domain the ant had created. It was no use. Even if he couldn’t see it, because he couldn’t extend his eyestalks, he could feel the monster stomping towards them.
+
+What was this thing? A secret weapon that the ants had developed to wield against them? Was it immune, or resistant to the corruption of the fifth? That was absurd, nothing was!
+
+And yet….
+
+Fury and despair battled within Zullz, neither winning out. There was no escape, he knew that. Gritting his teeth, he tried to extend a hand so he could drive it into himself and rupture his acid gland.
+
+A mind forced itself on him.
+
+[Oh, no. None of that. I’ve been asked to bring in a few prisoners and you seem like a decent sort of slug.]
+
+The ant spoke to him conversationally, no malice or anger in its tone. It truly had been playing with them. It looked around.
+
+[A few more to hunt down, I see. I’ll be back, don’t go anywhere.]
+
+It snickered at him. Snickered!
+
+Zullz wondered what they could possibly do against a creature such as this.

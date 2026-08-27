@@ -1,0 +1,107 @@
+---
+id: 34f8cdbc-5fe8-5b8e-9511-59e8699c69a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1695 - Delving"
+slug: 0347-chapter-1695-delving
+partOf: chrysalis
+position: 347
+ownLength: 1001
+unit: words
+ownProgress: 1001
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2807484/chapter-1695-delving"
+royalRoadId: "2807484"
+markedReadAt: "2026-06-29T19:54:54.944Z"
+---
+
+The practice of Delving the Dungeon is as old as the Cataclysm. During the time of Rending, the world below became open to the surface for the first time. Other than horrific danger, there were many things to be found in the depths. Without the efforts of those first delvers, even the remnant of civilisation that survived the Cataclysm would not have endured. Metal and wood infused with mana, rare gems and crystals capable of channeling power, many were the wonders of the Dungeon at that time, when magical energy was at a dizzying, unimaginable level.
+
+In the modern day, Delving is a time-honoured profession, exploring and seeking riches, battling monsters and unearthing rare prizes within the depths. Operating at all accessible strata, the men and women who ply this trade are among the bravest, most adventurous and strongest to be found outside of a professional military.
+
+For this reason, they are to be respected.
+
+-           Excerpt from ‘Delving: An Introduction’ by Carollus
+
+“You hear that?” Shamus whispered.
+
+Elsi tipped her head slightly and closed her eyes, focusing on her hearing.
+
+She could hear many things. Monsters fighting in the distance, the drip of water, a monstrous vine trying to sneak up behind her, the breathing of a half dozen delvers within a hundred metres. Yet, she was sure none of that was what Shamus referred to.
+
+“No,” she replied softly, opening her eyes as she flicked a tongue of fire behind her.
+
+The vine flinched away from the burst of heat, hesitated, then kept coming. Whatever it was connected to must be hungry. With so many delvers in the area, there had been far fewer monsters to feast on, causing it to become desperate.
+
+She turned and worked her mana, fire igniting between her hands. Fire magic wasn’t the most circumspect way to attack something, but it was highly effective against most plants. Thrusting her palm forward, she sent a finger-wide beam of concentrated blue flame searing along the length of the vine, which shrivelled and burned away in a matter of seconds.
+
+“Are you alright back there?” Shamus muttered.
+
+“Dealing with a vine,” she whispered back.
+
+Cursing under his breath about how irritating plant monsters were, he went back to listening, his ear pressed into the ground.
+
+“I heard something big moving around. Real big,” he told her. “Not sure what happened, but it's gone now.”
+
+“Gone?”
+
+If a large monster, like a Thunder Lizard or Monarch Beast were thumping about the tunnels, they didn’t just… disappear.
+
+“I’m not sure. I could feel the vibrations, clear as sunshine, but they just… stopped.”
+
+“Maybe it’s standing still?”
+
+“Maybe…”
+
+Shamus kept his ear pressed down for a few moments longer before he straightened with a frown.
+
+Balding, bearded and with scars across his face and arms, Shamus was everything Elsi wanted to see in the leader of a Delving team. In this line of work, you either died young, or got smart, and someone who’d been in the game as long as Shamus was a damned genius when it came to the Dungeon.
+
+Wearing sensible, beast leather armour, he looked like the thorough professional that Elsi hoped she would be in a few years when she had enough experience to strike out on her own.
+
+“Better to be safe,” he muttered to her, “we’ll back up a hundred metres to that rock outcropping over there. There’s too many idiots camped around here to make a capture anyway. If an ant shows up, there’ll be a free-for-all. What did I say about those?”
+
+“For fools and dead delvers,” she replied.
+
+“Exactly.”
+
+Following his lead, Elsi crept back down the tunnel, keeping to the shadows and making sure her senses, all of them, were open to the Dungeon around her. In a place where a flower’s thorn could kill, you stayed alert, or you never made it home. The first lesson every delver had to learn.
+
+When they reached the outcropping, the two delvers hunkered down, concealing their location by placing discreet wards and masking their scent. Only when all traces had been scrubbed did they start to observe once more.
+
+“I still can’t hear it,” Shamus said. “It was coming this way, a kilometre or two off. Can you sense any concentration of magic?”
+
+Elsi focused, using her mind to sense the ebb and flow of power around them. At first, she sensed nothing, but after a moment she realised that wasn’t quite right. The flow was… off. Mana was moving, just a little, but she couldn’t see any explanation as to why. Normally it would act that way if… if a large monster were around, pulled towards the beast by its core.
+
+Yet she couldn’t sense a thing. That was… not good.
+
+“Mana’s moving a little strangely, like there’s something big out there, but I can’t find any monsters that size.”
+
+“I don’t like that one bit. We might have to back up further. Keep watch and I’ll find another spot for us…. Wh… what in Pangera is that?”
+
+Shamus’ voice turned hoarse towards the end, sending a spike of fear running down Elsi’s spine. She whipped her head up and immediately froze.
+
+That… shouldn’t be possible.
+
+In the distance, a gigantic, colossal ant was floating through the air. Drifting into sight, the monster had its legs curled up beneath its body as it just… drifted along.
+
+A deep purple, shimmering carapace, long, mean-looking mandibles, and eyes that shone like brilliant diamonds, the ant slowed to a halt. After a moment, it unfolded legs like tree-trunks and drifted down to the ground.
+
+Elsi sucked in a sharp breath and Shamus whispered to her without taking his eyes off the creature.
+
+“What is it?” he hissed.
+
+“It was masking its core,” she whispered back.
+
+“What tier?”
+
+“Eight. Possibly nine.”
+
+“By the Path.”
+
+Huddled in small groups, delvers throughout the tunnel hesitated, fearing to move, unsure what they should do.
+
+CLACK. CLACK. CLACK.
+
+The monster slammed its mandibles together rhythmically.
+
+Laughing at them.

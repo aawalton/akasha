@@ -1,0 +1,93 @@
+---
+id: 35900355-f602-57cc-82d6-6f23ff970046
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1771 - The Hidden Highway"
+slug: 0423-chapter-1771-the-hidden-highway
+partOf: chrysalis
+position: 423
+ownLength: 981
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3270834/chapter-1771-the-hidden-highway"
+royalRoadId: "3270834"
+---
+
+Looking closely, I can see the difference. It’s one of those “once you see it, you can’t unsee it” situations. The tube itself, a vertical shaft of rather generous size, large enough even for me to fit through, is covered with a membrane that seems to support the weight of about a metre-thick layer of mucus. When the surface was disturbed, the mucus sloshing and wibbling about, the underlying passage was revealed for just a fraction of a second.
+
+But that’s not all.
+
+I’m a smart cookie, and I know when something odd is going on. So long as I get to experience something two, maybe three times, I’m sure to pick up on it. My eyes are made of Unsullied Crystal, a substance that can only perceive truth. I had no idea what that meant at the time, but it's starting to dawn on me that maybe I can see through illusions, deceptions and other sorts of visual trickery.
+
+Because the mucus layer, as clever as it is, wouldn’t have been enough to hide something this large. I’m certain there is also an illusory layer that would hide the tunnel from normal eyes, the Krath are far too cunning to let random eddies on the surface of the lake reveal their secret entrance.
+
+Yet, the Unsullied Crystal comes in clutch! Random eddies are all I need! Gweheheheheh.
+
+Well, I shouldn’t throw out the idea that this might be some sort of elaborate death trap that the Krath have set up to catch unwitting, overconfident ants. It’s unlikely, but knowing the slugs, still possible.
+
+Trying to look a little nonchalant, because I’m still under surveillance by the lurking slugs, even here, I meander over the chute. Not directly over, obviously, but close enough that I can surreptitiously examine it a little more closely.
+
+Yep, there's definitely a big ol’ vertical shaft hidden in there. The layer of mucus over the top even conceals it from my mana sense. I wonder how I can test this thing safely. If I get halfway down and realise that it’s several kilometres deep, and the Krath collapse it while I’m in there… that would be a bad time….
+
+“Uh, Protectant?”
+
+“...”
+
+“I could… use some help here.”
+
+“That’s… unusual, Eldest.”
+
+Well, you usually aren’t all that useful, but I’m not going to say that to someone who literally saved my life.
+
+“Are you able to see the vertical tunnel beneath me?”
+
+“Uh… no. Not at all. Are you sure there’s a tunnel?”
+
+“Absolutely, it's just very cleverly hidden. I need someone to go investigate, just in case it’s a trap. If one of you goes down there, the Krath won’t even notice, and if it is a trap… well….”
+
+“Losing one of our bodies isn’t that much of a problem?” Protectant says.
+
+“Well… uh… yes.”
+
+“This is exactly why we picked this evolution. We will gladly take on the mission.”
+
+There’s a solid undertone of enthusiasm in her tone, and I start to wonder if my twenty bodyguards have more in common with Leeroy than perhaps I thought they did. It’s not a comforting thought. My suspicions are only reinforced when they have to eventually draw lots to see who gets ‘the honour’ of going into the tunnel, because every single one of them volunteered.
+
+Ultimately, it’s Defendant who wins the prize and gleefully hurls herself down into the sludge, trusting that I’m not losing my mind and that she won’t immediately melt in the lake of inescapable acid mucus. There’s quite a disturbance on the surface as she dives in and I turn away and start scuttling about the place to try and reduce the Krath’s suspicions. I suspect they already think I’m up to something, I’ve been hanging around for too long, including a spot very close to their secret tunnel.
+
+There’s nothing they can do about it, though. They’d have to reveal themselves to intervene, and so far they haven't been willing to do that, a policy I don’t see changing. So I put some distance between me and the chute, even heading back up above the lake for a while and poking about in the nearby tunnels.
+
+Just when I’m starting to wonder when Defendant is planning to get back to me, she speaks from the underside of my carapace.
+
+“I’ve finished investigating.”
+
+“Gah! Wha… how long have you been down there?”
+
+“Oh, ages.”
+
+“Didn’t you go down the chute?”
+
+“One of me did, yes. I ended up melting into the mucus, nasty stuff.”
+
+My heart sinks.
+
+“So it was a trap after all?”
+
+“Oh, no. It’s a path through. It runs for a kilometre and a half, straight down through the lake. However, a thick coating of the mucus runs down the inside walls and pools at the exit. I couldn’t keep holding onto the sides and had to let go, which meant I fell right into the pool at the bottom.”
+
+That… sounds absolutely dreadful!
+
+“Are you… alright?” I ask hesitantly. “Need some time off?”
+
+Maybe some counseling? Sheesh, what a horrible way to go.
+
+“Why?” Defendant says, sounding genuinely confused. “Are we going down or what?”
+
+“Yes,” I sigh. “Sorry for asking.”
+
+There is definitely something wrong with these ants, perhaps I just didn’t realise it until now.
+
+If the sides are covered in sludge, then I’m sure as heck not crawling down there. Best option is to use a Gravity Well to lower myself down, which will be a squeeze, but I'll fit if it doesn't get any narrower. For the passage to be this size, the Krath must have been using it to move stuff up and down, their pets perhaps? Or other large beasties? I can’t think what else they would need something this size for.
+
+Well, it’s worked out well for me.
+
+Time to see what the slugs have been up to down there.

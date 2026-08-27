@@ -1,0 +1,61 @@
+---
+id: 93a69819-872c-5b19-8247-201895887944
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1784 - Purity and Darkness"
+slug: 0436-chapter-1784-purity-and-darkness
+partOf: chrysalis
+position: 436
+ownLength: 1156
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3339073/chapter-1784-purity-and-darkness"
+royalRoadId: "3339073"
+---
+
+Well I’m not willing to stand here and let this thing close the distance on me. Nor will I turn my back and try to run away. There’s something about this monster that makes me think trying to run away isn’t going to help me in any way. I need to stand my ground and try to find a way to win or drive this monster off.
+
+Deciding to try my luck, I put a little more distance between me and the creature, fake going left and right, snap my mandibles a few times, but no bubble materialises. Not wanting to waste time, I open my mandibles and activate the Starcrusher. Immediately my antennae blare a warning as a bubble materialises overhead. This time, I don’t abort the attack, empowering the Skill and slamming my jaws shut even as the tentacles begin to emerge and reach for me.
+
+They get me, which I expected, and I have to say, the feeling of having mana removed from my core is not a welcome one. It’s been a while since I suffered from proper mana sickness, but it doesn’t get any better the more highly evolved I become. Not a fan.
+
+But hey, you can take a bit of my mana, it’s not a big deal in the grand scheme of things. Meanwhile, how will you deal with a catastrophic explosion? Even though I backed off, the creature is close enough that when my jaws slam shut and the space in front of me detonates, it’s still well within the blast zone.
+
+Rocked by the explosion, I don’t absorb the force with my still-recovering legs and instead let my body get blown backward, sliding on the underside of my carapace across the slimy floor of the tunnel. In front of me, all is fire; even in the damp, soggy world of the fifth, the blast from the empowered Starcrusher isn’t something easily suppressed.
+
+Getting my feet back under me, I scuttle backwards, not wanting to let the tentacles get close to me again as I take a look at my opponent.
+
+Oho, you felt that one, didn’t you?
+
+It’s regrowing, I can see that clearly now, considering the scale of the damage, but for a moment its face is revealed, and it does not look happy. Growling, its maw gnashes at the air, revealing a number of spear-tipped tongues within. Something else I need to watch out for.
+
+Examining the speed of regeneration, I have to say it’s impressive. There’s surely some sort of trick behind it, because an ordinary regeneration gland certainly can’t heal that fast.
+
+If it has a limit, then I can keep piling on the damage until we reach it, I won’t run out of juice before this creature, but if it’s anything like mine and there isn’t a limit, then all we’ll be doing is wasting each other’s time.
+
+I watch and wait, learning what I can while the monster heals itself, new cilia sprouting at an absurd pace to cover it again. There’s no way it doesn’t have more tricks up its sleeve, monsters don’t reach mythic without gaining some nasty powers along the way. Watching as the creature starts to approach me more cautiously than before, I can tell it’s thinking the same thing I am.
+
+What’s going to be the next reveal? Who’s going to make the first move? After thinking my chomp was powerful but manageable, I’ve shown a much stronger version which is far more worrisome. Now it knows it can’t trade taking another Starcrusher for getting some of my mana without getting majorly whacked, so it needs another strategy if I threaten to chomp again.
+
+Honestly, the best way to deal with this creature would be if I had some pure mana for it to steal. As a native of the fifth, it’s completely rotten with corruption, so absorbing pure mana would be the same as drinking poison. Even if it tried to spit it back out, that stuff eats fifth mana and replicates itself, as dangerous to this monster as the toxic mana is to everyone else.
+
+No sooner do I have the thought than I feel a response from my Pure Core. It’s subtle at first, a sort of hum, as if the gem inside me were resonating with something ever so faintly.
+
+I jump backwards and blast out a stream of Dragon’s Breath just to keep my enemy occupied while I check what the heck is happening. Focusing my senses internally, the Pure Core is doing… something, goodness knows what. I suspected there might be more to the thing, considering the changes it went through when the snails sang at me, along with the vanishing corruption that it's been eating.
+
+What is it going to do? Hopefully something that helps me get rid of this thing. I’m not here to fight powerful monsters and risk my carapace, I’m here to smash the Krath into oblivion!
+
+As I focus on the Pure Core, the resonance only grows stronger, the hum growing louder and louder until it manifests as something else entirely. I feel the core heat up as a single, pure note of snail-song rings out through the tunnel.
+
+Within the tunnel, it’s like an atomic bomb went off.
+
+As the sound rolls through the air, everything it touches is purified, instantly. Corrupted creatures and parasites are made clean so quickly their bodies just fall apart, unable to hold themselves together as eighty percent of their flesh vanishes in an instant. Mucus sizzles and evaporates. Slime boils into nothing. Even the diseased flesh of the tunnel itself is healed and made whole. It doesn’t go far, only a ten metre radius around me before the note loses its power and fades, leaving me stunned and confused at what the heck just happened.
+
+My opponent, however, wants none of that. Before the resonant sound of that precious song has faded, it’s already sinking into the tunnel floor, phasing through the surface somehow and getting the heck out of town.
+
+Frankly, I’m happy to let it. It might be afraid of the snail song, but I have no idea if I can even do that again. Maybe I should ask the snails what they’ve done? Can they even explain themselves to me?
+
+Once I can no longer see it, the monster vanishes from my senses with disturbing speed. No trace of mana remains, not even a gravitational wave, which makes no sense. It’s as if it blended into the flesh of the tunnel walls and just… vanished. Creepy.
+
+For a moment, I sit in the empty tunnel, dead centre of a shrinking circle of purity, watching and waiting for it to reemerge, but… nothing.
+
+Testing my legs, I think they’re probably ninety-percent of the way to full operation. I’d better get moving before that thing decides it wants to come back. Krath are back on the menu!

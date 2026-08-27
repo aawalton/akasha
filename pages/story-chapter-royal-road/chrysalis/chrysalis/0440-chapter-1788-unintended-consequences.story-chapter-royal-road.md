@@ -1,0 +1,59 @@
+---
+id: 970e2d51-9040-58eb-b4b2-02a4637ce2f8
+page-type-slug: story-chapter-royal-road
+title: " Chapter 1788 -  Unintended Consequences"
+slug: 0440-chapter-1788-unintended-consequences
+partOf: chrysalis
+position: 440
+ownLength: 985
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3364760/chapter-1788-unintended-consequences"
+royalRoadId: "3364760"
+---
+
+Obviously, I can’t hang around to witness the consequences of my decisions, since I would be instantly evaporated by a tidal wave of sludge, but I have a feeling I know how it went.
+
+First, the rumbling that’s busy shaking the ground I’m running on is giving away the catastrophic nature of what’s going on behind me, and second, my antennae are telling me quite the tale.
+
+The vibrations are crazy. I can hear a roar like an onrushing ocean, and something is forcing the air to rush past me at an absurd speed. I think the artery did in fact burst and now half of the sludge accumulated in the lungs is filling up the tunnels, combining with the lake I drained to create a flood of truly epic proportions.
+
+I can also tell because the tunnel behind me is currently filling up with mucus that is moving altogether too quickly for my comfort.
+
+Just how far am I supposed to run?!
+
+I’ve run kilometres from the artery—kilometres! This is an extinction level event! I’m sure all of this muck will drain downwards eventually, but for now it’s bursting out sideways because the lower tunnels are so packed full of slime that there’s no room for anything to flow downward.
+
+I don’t want to run sideways, I really want to find a path upwards, but according to my Tunnel Map, I’m still underneath some of the lakes blocking off the Colony’s access to these lower areas. If I head up there now, I can’t guarantee that I won’t get trapped beneath a lake while the mucus fills up the tunnels below me, squishing me in between.
+
+That’s not a chance I’m willing to take!
+
+Death by slime is not on the cards for this ant! They almost got me once, it’s not happening again. For any Krath living in the area, I can only say… my bad.
+
+I highly doubt they’ll be able to avoid having their secret hidey-holes filled up with a torrent of virulent slime. No matter how well hidden they are or how narrow their hidden pathways are, the sheer volume and pressure of the mucus is going to break through eventually.
+
+If they weren’t the most spiteful and hateful species on all of Pangera, I’d feel a lot worse, but man, it’s hard to feel sympathy for them. Why couldn’t they have been a bit more like the chal? I get that they’re corrupted, but the snails have a lot going for them, including really nice moustaches! Surely a few of those traits could have survived the touch of Theorrazzn.
+
+If I ever meet that Ancient, I’m going to have a few words for them. They’ve caused a right mess up here.
+
+For now, I run, my six legs skittering as fast as they can as the monsters around me join in the sprint, running for their lives. Even the native creatures of the fifth know how much slime they can tolerate and this is just way too much slime.
+
+Behind me, the frontline of the mucus wave hisses and bubbles furiously as it melts everything it touches, turning mould and fungus patches into clouds of acidic steam that billow forward, pushed by the wall of sludge behind them. The end result is that I’m forced to climb over giant snails, sludge monsters, weird half-crabs and every other sort of nonsense creature that lives in this place.
+
+They snap at me with their claws and jaws but only in a half-hearted way, much more focused on running for their lives than they are on fighting me. I really wish I had the confidence to run on the roof right now, but I don’t trust the soggy, fleshy ceiling to bear my weight. Instead, I’m down here with the rest of the monsters, scrabbling to survive.
+
+Sadly for most of the mollusc-adjacent monsters here, they just don’t have the speed. I don’t really want to turn around and see what becomes of them; I’d rather not know what’s in store for me if I don’t make it.
+
+Ahead of me, I see another branch in the tunnel, one heading upwards, and this time I think I’m going to take it.  With a little luck, it’ll angle up and out of the danger zone.
+
+A lot of other monsters have the same idea, causing a mad rush as we all try to run up the walls to access the path to safety. In the end, I have to jump, leaping over a particularly nasty-looking blobby thing in order to get onto the path.
+
+I land heavily, crushing several smaller creatures with my legs before I’m off and running again. Once I get some distance, I take a moment to turn and look behind me.
+
+Thankfully obeying the laws of gravity, the wave of mucus continues down the lower branch first, giving me a moment of breathing room. Sickly green and yellow, it’s unbelievably potent and shockingly fast-moving, the sheer quantity of sludge pushing it forward by pressure alone. In just a few minutes, the tunnel below is half-filled, and the level is only continuing to rise. A few more minutes, and it’s all the way to the top, eating into the roof, and still rising, pushing up into the available space, which is the tunnel I am currently standing in.
+
+That was… way too fast. Holy moly. Just how much of this stuff is there?
+
+When I think of how far I’ve run and the dozens and dozens of tunnel branches I passed on the way here… all of which must also be filled to the absolute brim with mucus… hoo boy.
+
+The Colony might have to put its plans on hold for a little while. Once everything has drained downwards, we can come down here, but until then, dropping purified mana into these tunnels will be like spitting in the wind.

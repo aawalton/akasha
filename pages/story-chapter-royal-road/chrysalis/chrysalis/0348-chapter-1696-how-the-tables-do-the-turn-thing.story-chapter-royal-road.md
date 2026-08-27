@@ -1,0 +1,89 @@
+---
+id: 3629be4c-f37a-5003-ad6f-257c03309cda
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1696 - How the Tables do the Turn Thing"
+slug: 0348-chapter-1696-how-the-tables-do-the-turn-thing
+partOf: chrysalis
+position: 348
+ownLength: 827
+unit: words
+ownProgress: 827
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2810693/chapter-1696-how-the-tables-do-the-turn-thing"
+royalRoadId: "2810693"
+markedReadAt: "2026-06-29T19:54:56.746Z"
+---
+
+“What… what do we do?” Elsi whispered urgently. “It’s an ant. Didn’t we come for an ant?”
+
+Shamus shook his head.
+
+“Fool girl,” he replied, “we didn’t come for a tier eight giant. We are getting out of here.”
+
+“Ah! AHHHH!!! HELP!”
+
+Screams echoed in the tunnel as a delver lost their cool. Elsi couldn’t see what was happening at first. Heart pounding in her chest, she looked out over the rocks, casting her eyes about trying to see what was happening.
+
+After a few seconds, she saw it. Someone she didn’t know, a delver from another team, was rising up into the air, glowing red axe in hand, and flailing as they floated helplessly in the air. Desperate, they lashed out, sending an arc of deadly energy streaking through the air and crashing into the ant’s carapace.
+
+Only for it to dissipate harmlessly against that deep purple material.
+
+Clackclackclackclackclack.
+
+A rapid staccato of mandible snaps, like a chuckle, emanated from the beast. The giant ant extended an antenna and prodded the helpless Delver, mocking him as he continued to swing wildly. Without his feet planted, or any leverage, he couldn’t exert much power, and the ant was clearly unharmed.
+
+A sick feeling rose in Elsi’s stomach as she knew what was coming next.
+
+Monsters and delvers fought and killed each other every day. She herself had killed hundreds, if not thousands of Dungeon spawn. Someone like Shamus had probably killed tens of thousands over their career. Everyone knew it could easily go the other way. She just didn’t like to see it happen.
+
+Mandibles opened wide as the screaming delver hung in the air, right before the monster’s face.
+
+“Whoa… whoa! IT’S GOT ME! ATTACK!”
+
+Another voice cried out, another person, drifting up into the air, rising from their concealed location against the tunnel wall.
+
+This time, someone listened and leapt out of hiding, bow shining with golden light as they pulled back on the string. When they released, a beam of pure radiance fired from the bow, slamming into the monster’s side. Shards of light scattered everywhere, blinding Elsi for a moment as she raised her hand to shield her eyes.
+
+The ant… was unharmed.
+
+“Get out and fight!” the archer demanded, stringing another arrow to her bow. “Are you going to let it snatch us out of hiding one by one?”
+
+Her voice rang through the tunnel, and, after a moment, others leapt to her call.
+
+Bolts of sizzling magic tore through the air and detonated against the ant’s carapace. Warriors leapt out of hiding, brandishing their weapons and sending deadly arcs of blade light against the creature.
+
+“Watch for the mandibles!”
+
+“Spacing, spacing!”
+
+“Mages to me! I’ll shield you!”
+
+“Move, move, move! Don’t stay still!”
+
+A dozen delvers joined the fight, calling to each other as they drew on their years of experience to try and coordinate. They’d all fought against strong monsters before. It was hard, but a skilled and organised group could get the job done. It was the only way to get the job done.
+
+For a moment, Elsi didn’t think the ant was even moving, but as she stared, through the explosions and barrage of light, she could tell it was making minute positional adjustments, shifting its body, angling its carapace to receive the strikes.
+
+Yet it didn’t appear flustered, it didn’t even appear to be fighting back. Two delvers still hung in the air, flailing, unable to free themselves from the invisible force that bound them.
+
+“Are we going to join in?” Elsi asked urgently, half raised from her crouch already.
+
+“Wait,” Shamus hissed, his gaze fixed unerringly on the ant. “Something isn’t right here.”
+
+“Other than the gigantic ant fighting us in the tunnels?”
+
+Had the ants finally decided to push back? The monsters had been in hiding for so long, Elsi had begun to think there was no point looking for them, regardless of the reward posted.
+
+She examined the ant more closely, her delving instincts trying to assess the value of the creature. Realising she couldn’t put a name on the materials she could see, Elsi felt like that number was going to be quite high.
+
+Still, you couldn’t spend money if you were dead.
+
+“Give it a minute,” Shamus told her, intense focus on his face. “I’m no coward, but I won’t leap in over my head and get killed.”
+
+A moment later, the two of them flinched back as intense pressure assaulted their minds.
+
+Elsi could feel mind magic being pressed against her. She tried to fend it off, but taken by surprise, she could only feebly push back as a bridge slammed into place.
+
+[Trying to capture ants, eh?] the alien mind mocked them. [Well, I’m right here, come and get me!]
+
+Purple light exploded from the monster’s carapace, and Elsi felt herself rise into the air. Keeping her wits about her, she looked down and found herself falling toward the roof.

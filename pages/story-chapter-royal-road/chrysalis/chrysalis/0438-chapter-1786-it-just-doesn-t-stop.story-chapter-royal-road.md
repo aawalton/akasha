@@ -1,0 +1,101 @@
+---
+id: 7fcd75bc-7991-5e2c-9231-1be247be3c11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1786 - It Just Doesn’t Stop"
+slug: 0438-chapter-1786-it-just-doesn-t-stop
+partOf: chrysalis
+position: 438
+ownLength: 1085
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3356198/chapter-1786-it-just-doesnt-stop"
+royalRoadId: "3356198"
+---
+
+“I suppose Slizzl didn’t deal with the monster like we hoped?” Thooza burbled nervously.
+
+Not for the first time today, Fluzzl swore to herself she would eat the useless slug at the first opportunity.
+
+“I know,” she frothed, barely able to contain her rage. “We are both looking at the ant, right now.”
+
+How Thooza had managed to survive the hyper-competitive and often lethal upbringing all Krath endured after hatching, she had no idea. As anger-inducing as he was, however, the main target of her wrath continued to be the ant, who was now blundering through and causing widespread damage to the Sludgeway her tribe had painstakingly built over a thousand years.
+
+“Has word from the tribe come back yet?” she demanded.
+
+“We just recently heard,” Thooza burbled. “They’ve asked us to retreat to the chamber above.”
+
+“And you’re only telling me now?” she hissed, fury running through her veins alongside the boiling hot acid.
+
+“You wanted me to run messages to the scout slugs,” the smaller slug defended himself, anger sparking in his own eyes.
+
+Reining in her temper with enormous difficulty, Fluzzl swallowed her burning saliva and considered their position. With so many things happening at once, the tunnels were becoming chaotic, to say the least. With such a large monster rampaging in the Sludgeway, she’d expected the tribes to rush in and try to put it down as quickly as possible.
+
+On reflection, that might not be such a good idea. The Sludgeway tunnels were narrow and cramped. It would be almost impossible to bring enough slugs to fight against the ant in such tight spaces. If it wasn’t hit with overwhelming firepower, then it would just start healing again, letting it fight through the Sludgeway for days and days.
+
+Perhaps they had actually thought through what she’d told them after all.
+
+“Fine,” she ground out. “Get the rest of the slugs together and spread the word, we’re moving up. Make sure they know to move quickly. Once we leave, the ant is going to come after us.”
+
+“You think it can find us?” Thooza wurbled in shock.
+
+“Obviously it can!” she roared, her spindly arms thrashing wildly with anger.
+
+In short order, he managed to pull her loyal slugs together and spread the word to the others in the Sludgeway tunnels that they were leaving and heading to the Slimeground chamber above.
+
+Once she gave the signal, the slugs moved together, racing upwards through the cracks and taking advantage of every trick they had to vacate the area and leave this terrifying monster behind.
+
+Just as Fluzzl had thought, the moment they left, the ant turned upwards, looking after them for a few moments before it began to slam its legs into the walls and chomp into the ceiling. They would have less than an hour before it managed to dig through to the Slimeground, a terrifying thought. The idea of having this vicious monster eat its way into the hidden home of her tribe was enough to set her acid burning in her flesh.
+
+When she reached the Slimeground itself, her fears were somewhat alleviated. The Krath’lath had summoned everyone. There were thousands of slugs assembled in a great ring looking down into the lowest section of the Slimeground.
+
+She found the tribe leader with a gathering of his most trusted and capable followers in the heart of the formation.
+
+“Krath’lath,” she reported, “the monster is rising up behind us. It will arrive soon.”
+
+Ferzzoz, a mighty and powerful slug who had been Krath’lath of the tribe since before Fluzzl was hatched, nodded at her words.
+
+“This thing heals faster the more we attack it?” he burbled.
+
+“That’s right.”
+
+“But it showed fear of the Ancient’s Blessing?”
+
+“It did.”
+
+When they had flung the concentrated mana at the ant, it had fled desperately.
+
+“Fine,” the Krath’lath spat. “I hate letting the filthy ant into my Slimeground, but if it’s necessary to kill it and fulfill the will of the Ancient, I’ll allow it.”
+
+“Listen well!” Ferzzoz bellowed to the gathering. “Prepare your magic! The moment that filthy ant reveals itself, I want it buried in an avalanche of filth so potent it would melt the fifth itself!”
+
+With an iron grip over one of the strongest tribes in the fifth, Ferzzoz’ words were taken as law. Immediately, all of the thousands of gathered Krath began to draw on the acid they cultivated within, ready to unleash it upon the monster as soon as they saw it.
+
+Feeling the gathering of power, Fluzzl felt hope. This much mana would dwarf the Doom Sphere that she had thrown at the ant. There was no way it could possibly survive.
+
+Tensions were high in the chamber as the Krath waited. There was no need to check if the ant was coming; they could feel it, its monstrous core radiating mana like a bonfire radiated heat. Even without that, the tremors that caused the walls to shudder as it dug through the rock were enough to track it precisely.
+
+It was coming… not far now.
+
+Every one of the Krath tensed, prepared to unleash their gathered power the instant the creature’s head poked into the chamber. With so much mana, likely the entire lower entrance to the Slimeground would be melted away, along with a large section of the Sludgeway. A heavy price to pay, but in order to fulfil the wish of the Ancient and save their territory, it would have to be paid.
+
+Any second now… any second… any….
+
+Where the heck was the ant?!
+
+A moment before she could say something, a beam of light burst upward from below, no thicker than a Krath, but so bright as to sear her eyes with pain.
+
+“What is that?!” the Krath’lath roared.
+
+“It’s the ant!” she cried. “It must have concealed its mana!”
+
+But what was it doing? She wasn’t able to look at the spell directly, but she could tell it wasn’t attacking any of the gathered Krath directly. She herself wasn’t suffering any ill effects other than temporary blindness. There had to be a purpose?
+
+“Unleash your magic!” the Krath’lath bellowed. “Kill it!”
+
+As the members of the tribe let loose their power, Fluzzl looked up, high above, to the roof of the Slimeground.
+
+Where the beam was busy boring a hole deep into the ceiling.
+
+“NO,” she hissed.
+
+When the beam cut off suddenly, she immediately saw the first of the mucus begin to drip through. Followed by a torrent.

@@ -1,0 +1,81 @@
+---
+id: 7c093482-a7a1-5314-8ac2-3b279224fb53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1821 - Heart Breaker"
+slug: 0475-chapter-1821-heart-breaker
+partOf: chrysalis
+position: 475
+ownLength: 969
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3577772/chapter-1821-heart-breaker"
+royalRoadId: "3577772"
+---
+
+The Colony’s strategy, when Solant explains it to me, is pretty straightforward. There are a total of four hearts surrounding the network of tunnels that I call the lungs of the fifth, and each of them needs to be tackled pretty much simultaneously, flooded with cleansed mana and the Krath tribes hiding inside rooted out completely.
+
+At the same time, we have to flood the lungs with cleansed mana, hopefully removing the contagion from the entire region in one fell swoop. Sounds good in theory, but the sheer quantity of energy required is posing some problems.
+
+Well, that’s the sense I get when I see the size of the holding tank facility being constructed above the fortress. If the Krath knew this thing existed, they would burn half of the fifth down to destroy it, I bet. So much pure, concentrated wuffer juice held in the one spot, the entire reserve of every fortress combined, so I’m told, destroying it would be a strategic victory so immense it would set the Colony back months.
+
+Not only would the upcoming attack be completely foiled, the fortresses currently lack the ability to defend themselves with surges of cleansed energy, making them more vulnerable than they’ve been at any point since their construction.
+
+Solant is taking a massive gamble, looking to punch through to the sixth, prove to the world it can be done and secure passage for the Colony in one fell swoop. It’s the kind of calculated gamble a regular ant general would never take, but that Solant cannot resist. She knows the odds are on her side. After all, she has me!
+
+“So, how am I going to hit all four hearts at the same time?” I ask her.
+
+She looks at me.
+
+“You aren’t. As far as I’m aware, Eldest, you can’t be in four places at once.”
+
+She hesitates for a moment.
+
+“Can you? Be in four places at once?”
+
+I’m not sure the Dungeon is prepared to handle that much Anthony.
+
+“No. No, I can’t. Does that mean we do the attacks in sequence? One right after the other, so I have time to move between them?”
+
+“No, Eldest. One heart will be assaulted by the Immortals, supported by four battalions. Another will be hit with ten battalions, Sarah and Odin have agreed to assist in that assault.”
+
+“Sarah and Odin? They’re going in? That’s really nice of them!”
+
+“Yes, it is. We are very grateful for their help. The third heart will be assaulted by a further ten battalions and, if you acquiesce, Tiny, Crinis and Invidia.”
+
+“That’s fine with me. I’m pretty sure they want something to do. Tiny is getting tired of flexing and posing. That’s a lie, he never gets bored of flexing and posing. Even so, some action would be good for them.”
+
+I know for a fact the three of them have been getting more and more angsty that they haven’t reached tier eight yet. It’s not like they can go out and hunt for powerful monsters in the fifth, because they’d be melted by the mana and environment before getting the chance to find anything. This has left all three, to varying degrees, frustrated that they’re falling behind.
+
+I don’t really expect them to be able to keep up or anything, I’ve had some rather fortunate evolutions after all, but I certainly don’t want them to be unsafe. The stronger they are, the less I have to worry about them, so giving them the chance to smash some Krath faces in is fine by me.
+
+“Alright then, that leaves one heart left. Who’s assaulting that one?”
+
+“You are, Eldest.”
+
+“Oh, of course. Nice! Who’s going in with me? Battalion or two? Torpor police? As yet unknown secret military force you’ve been developing in secret?”
+
+Man, that last one would be exciting, but it’s basically impossible for the Colony to keep a secret from me. Vestibule and all that.
+
+“Just you, Eldest. I suppose the Templars may want to go also. They do seem to have a rather strong desire to protect and aid you.”
+
+Yes… they do. I wonder if they’ve always had that, or if it’s something that is forced on them by their Class? The idea of emotional manipulation via System mechanics hasn’t occurred to me before, but now that I think about it, I can’t discount the possibility. I suppose the Vestibule could be considered a form of emotional manipulation towards me, since all of that Will certainly has an influence on my behaviour. Just knowing what the Colony wants and thinks changes my decisions.
+
+“Well, I suppose it’s fine if the older three want to tag along. There’s no way I’m letting the kids attack a heart. That would be nuts.”
+
+“How do you intend to stop them? The non-ant members of the battalions hold them in high reverence and are unlikely to hold them against their will.”
+
+“I’ll figure it out.”
+
+I’ll put the Nameless on the job. They can babysit three young humans easily enough, surely.
+
+“Do we have access to the hearts yet, or are we still pumping?”
+
+Solant cleans her antennae as she replies, giving a satisfied click of the mandibles when the job is done to her satisfaction.
+
+“We do not yet have access to all four hearts and pumping continues. Soon, we hope to be able to repair the arterial damage that was caused by… unknown entities, and thus reduce the demand on the pumping stations.”
+
+I really hope I haven’t caused any problems to the sixth. An endless rain of mucus would certainly rile up the locals and create a terrible impression.
+
+“Alright, I’ll go round up the gang and Templars and get them moving. I assume this is going ahead soon?”
+
+“The moment the tunnels are clear.”

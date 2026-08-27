@@ -1,0 +1,75 @@
+---
+id: 76c93e15-e762-574c-9a05-2dac397196d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1684 - Getting Adjusted"
+slug: 0335-chapter-1684-getting-adjusted
+partOf: chrysalis
+position: 335
+ownLength: 1007
+unit: words
+ownProgress: 1007
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2739050/chapter-1684-getting-adjusted"
+royalRoadId: "2739050"
+markedReadAt: "2026-06-29T19:54:31.742Z"
+---
+
+Getting used to moving about in a new body always takes a bit of time, but the change is so dramatic after this evolution. Everything feels different. Not necessarily worse, just… different. Even moving my legs around feels a little off, as if the muscles are pulling from different angles than they did before.
+
+Tiny, Crinis and Invidia keep me company as I confirm my initial wave of mutations, roll around kicking, then collect myself before going back to moving about slowly. As always, I’m forced to admit that Granin certainly knows what he’s talking about. Mutating the tendons immediately makes me feel more comfortable as I start to take a few steps here and there. My limbs feel like they aren’t pulling and twanging so much. Just how much punishment was I doing to myself without really noticing?!
+
+Luckily, I don’t trip over much as I start walking laps around the chamber. It’ll be days before I’m in full control of myself, I’m sure of it. I do take the opportunity to lord over Tiny just how much larger than him I am.
+
+[Looking a little small and underdeveloped there, Tiny, my old mate. Have you been skipping upper body day? Just no mass on you, no mass at all! Can we get this gorilla some protein?]
+
+For his part, my first pet sulks while shooting me looks as if to say that he’ll be so much larger than me when he next evolves. I’m sure he will be; well, he’ll definitely be taller, and likely pile on as much muscle as he possibly can. You dense bat-faced ape! You’re already large enough to bench press a house, how much bigger do you need to get?!
+
+There’s no doubt that Tiny will continue to make himself physically stronger until he can punch a hole in the universe.
+
+After wandering around, I try to pick up the speed a bit and execute some small dashes, which results in me slamming directly into the wall. Normally, that wouldn’t be such a big deal, and I didn’t expect it to be now, but the wall cracks and I feel the room around me tremble as if it were struck with a mighty hammer. There are cracks in the ceiling?! What the heck?!
+
+Warily, I back up and check the spot I hit, only to find the highly reinforced and condensed stone has been pulverized. If I’d hit it any harder I would have smashed through the wall entirely and fallen through on the other side.
+
+Uh… just how big am I?
+
+Not even size, how much do I weigh? More than that, how strong am I? Tier eight is shaping up to be no joke! A part of me is quite excited to head into the Dungeon and see just how well I shape up against the monsters out there. Being sensible, though, I know it’ll be at least a few days before I’m ready to fight.
+
+I carefully back away from the wall, sweep a few fallen rocks into the shadows, then resume my slow circles of the chamber. If anyone asks, I’ll push the blame onto Tiny.
+
+After a half hour, Granin and his triad burst into the room at a dead run, an intense look on his face. I’m sure he has something important to say, but before he can get anything out, I spin the mind bridge together and start laughing at him.
+
+[You look so small, Granin! Gwahahahaha! Look at the tiny little rock people.] I reach out with one delicate antenna and start prodding him. [You’re like little toys for children. Dance, little golgari, dance!]
+
+As much as he’d like to shove my antennae away, it’s more like a battering ram than the tiny little twig it was when I was a tier one. Granin endures my prodding for a moment before he swings a compact punch and smacks the offending appendage away.
+
+[Stop that!] he snaps, glaring up at me.
+
+Ouch! My antennae are still sensitive, it seems. That stung!
+
+[Ah, sorry about that,] I apologise awkwardly. [I… don’t know what came over me.]
+
+In reality, I’m well aware of what came over me. Even now they look like adorable little toy people rather than real ones. I shall have to resist the urge to treat them like toys. But still… but still! They’re like little grubs, teeny little baby people!
+
+Being this large is already going to my head., This is clearly going to be a problem.
+
+A moment later, I’m struck by a horrible thought. There’s no way I can fit inside the brood chambers right now! And I’m too big, too strong, the Tenders won’t let me play with the grubs, absolutely no way!
+
+This is a disaster! There has to be a solution. Maybe I can de-evolve? Maybe I can shrink myself with magic somehow? There has to be a way… there has to be!
+
+[Anthony?] Granin asks. [Are you alright?]
+
+He’s looking at me with concern, but I don’t have time for that, there are serious matters that I need to address! This whole evolution has taken a disastrous turn! Without grubs, without tickles… what’s the point?! Can I negotiate with the Tenders? Demonstrate I can be gentle enough to play with the grubs?
+
+No… no, they won’t take any risks, I’m sure of it. They’re going to ban me from the brood chambers, no doubt about it! Argh! I’m filled with despair!
+
+Wounded deep in my heart, I teeter to the side and collapse to the ground with an earth-shaking crash. Nearly knocked off his feet, Granin rushed to my side, pressing his hands against my carapace.
+
+[Anthony? Talk to me! Are you alright? What’s wrong with you?!]
+
+Ah, if only I could weep, he would then know of the suffering I feel.
+
+[Granin…] I say. [Is there… is there any chance… I can roll you around on the ground like you were a grub?]
+
+Granin frowns.
+
+[I think the toxin must have driven him mad.]

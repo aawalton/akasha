@@ -1,0 +1,75 @@
+---
+id: e4ce8333-00ef-5a19-9b77-e5257cf092b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1794 - Furious Fungi"
+slug: 0446-chapter-1794-furious-fungi
+partOf: chrysalis
+position: 446
+ownLength: 1001
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3397532/chapter-1794-furious-fungi"
+royalRoadId: "3397532"
+---
+
+Donning their armour was no longer an arduous task for the Immortals. Indeed, it had transformed from a process wherein they felt they were being encased in a hateful shell to one where they felt they assumed their true forms.
+
+After all, what was an Immortal? Without their armour, they were simply ants, soldiers like the others, scouts and generals such as could be found anywhere in the Colony. Of course, they had their unique evolutions, Skills and Mutations, but was that the whole of what they were?
+
+No, no it was not.
+
+Ant-tendants swung their censors and drizzled Leeroy with oils as the light from the candles guttered and gleamed in the darkness. Her armour, resting within its sconce within the sacred hall, was carried before her, each individual component polished to a mirror shine, every dent and scratch buffed out. With great ceremony, the main piece was raised high, lifted over her head and then lowered onto her back.
+
+Leeroy didn't move, except for a slight flex of the legs as the great weight rested on her carapace. In truth, she felt too light without it. Weaker. Incomplete.
+
+One by one, the straps were threaded and pulled tight, each buckle inspected carefully before being sealed with ceremonial wax. This was the heaviest and central piece of the set. With it properly in place, the others were brought out. A large tail segment to cover her abdomen was next, slotting into place with ease before it too was strapped down. Almost no protection was given to the back of an Immortal, they weren't expected to show their rear to the enemy in any but the most desperate circumstances. Besides, the third segment of the ant body housed the least important organs, such as their stomach.
+
+Further plates were attached, wrapping around the sides of her thorax, adding layers of protection that perfectly fit along the lines of her carapace. Truly, the work of Smithant was beyond compare, every Immortal set having been personally crafted by the Colony's master smith.
+
+Now some of the heaviest and thickest segments were brought forward, the ant-tendants solemnly clacking their mandibles in a meditative rhythm as they carried the armour. A gorget was clicked into place to protect the join between her head and thorax, then plates snapped into place around it.
+
+Finally, the helmet. Leeroy lowered her head as it was brought down solemnly, a massive weight, several hundred kilograms of righteous metal forged in the heat of the third stratum. She accepted the burden, welcomed it.
+
+Finally, she was complete.
+
+Once the final strap was tightened, Leeroy stepped forward, the ant-tendants moving back, heads bowed low as she stomped out of her personal armoury.
+
+Every step now carried with it tremendous force and power. Her legs, thick and mighty for an ant, now pounded the stone floor like the footprints of a giant. Her steps now matched the force of her will. Implacable and unstoppable, she marched onward, through the great complex the Immortals had constructed as their personal sanctum. More and more of her kindred spirits came out to join her, emerging from their own armouries and falling into line behind her.
+
+Already, the charge of the Immortals was gathering momentum, and their enemies were yet to realise a thing.
+
+By the time she reached the ornate, immensely tall doors of their sanctuary, the column was complete, and over a thousand of the fully armoured Immortals strode through, their synchronised steps shaking the very ground on which they walked. Falling in behind them were the long-suffering and deeply unhappy to be there healers.
+
+When the Immortals had been crazy and trying to get themselves killed and failing, it had been deeply funny to observe their suffering and ensure they survived, no matter what. Now that they had embraced their "death" and "resurrection" by the zombie fungi that each carried, a lot of the joy had been sucked out of the whole endeavour for the healers. This was never more apparent than in the way the Immortals treated their dedicated medics.
+
+"Welcome, sisters," they said as they passed.
+
+"Welcome to another glorious mission, sisters."
+
+"It's a pleasure to go into battle with you. Please witness my magnificent sacrifice and return to service."
+
+"We aren't one of you," one of the healers retorted, but her heart wasn't really in it. There was no joy to be had here.
+
+Sloan fell in beside Leeroy as she marched.
+
+"Do you remember the mission?" the general asked. Always a relevant question when dealing with this group.
+
+"Charge into glory," Leeroy replied, nodding.
+
+"No, you blithering... haaaaaah. One day you'll be the death of me, Leeroy."
+
+"You should get a zombie fungus of your own," the soldier said, worried. "Then you could come back and serve again, like me."
+
+"I'm fine," Sloan bit off. "Now, let's get back to the mission. We need you to charge in and clear four tunnels for us. We will surge cleansed mana into the tunnels before you go, but it will only cover sixty percent of the space we need. For the last forty, you'll rely on bubble protection from your enchantments. Even if you haven't completed the mission, you must return when the bubble runs out."
+
+"We never return until the mission is done!" Leeroy refuted.
+
+"I wasn't talking to you, I was talking to the fungus."
+
+"Rude."
+
+Leeroy knew the zombie fungus was listening, it was surprisingly intelligent, all things considered. If she were to fall before the bubble ran out, her partner would ensure that she made it back to safety. After all, the fungus was keen on ensuring its own survival, which meant protecting its host, even from herself.
+
+"We don't believe there will be an active Krath presence in the tunnels, but watch carefully, they may show up when we don't expect them."
+
+"That's their favourite time to appear," Leeroy nodded. "Don't worry. All becomes nothing in the face of an Immortal charge. Even the stratum itself."

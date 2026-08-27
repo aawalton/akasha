@@ -1,0 +1,127 @@
+---
+id: d45ed392-277c-5436-9d17-678080f4d959
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1852 - Dependable Demon"
+slug: 0507-chapter-1852-dependable-demon
+partOf: chrysalis
+position: 507
+ownLength: 1270
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3865938/chapter-1852-dependable-demon"
+royalRoadId: "3865938"
+---
+
+‘The Eye’, Invidia, watches over us closely, more attentive than the other Guardians. Focused on the needs of the family and always looking for ways to help, Invidia has proven to be a potent addition to the family. Somehow, the demon appears able to anticipate what those around them may require, appearing at the right time, with the right solution, then fading into the background once more.
+
+- Excerpt from the private notes of Historiant
+
+Being helpful was an important part of being friendly, but the two weren’t the same thing, Invidia had come to learn. Although being helpful was an expression of friendliness, just helping someone didn’t make himbecause he helped someone didn’t mean he was their friend, or vice versa.
+
+No, but Invidia liked to be helpful. It helped to satisfy his obsession, even if it wasn’t directly. Also, it seemed to make those around him happier, and happier people were more likely to be friends.
+
+[I had no idea you could do these sorts of mental exercises to help train Mana Manipulation. How did you even learn something like this?]
+
+Invidia fluttered his wings, trying to maintain a consistent height as he spoke to the Mmage serving a shift on the platform.
+
+[I wassss taught by the Mmages from the Tower. When I assssked, they were happy to teach me.]
+
+[Wow, I’m kind of surprised they would be open with information like that.]
+
+[There issss no harm in asssssking. People can be more opensss than you think, but if you do not assssk, then you will never know.]
+
+[That’s… better advice than I expected to get from a hovering eyeball monster today. Thanks, Invidia, I really appreciate it.]
+
+A young man from the underground city of Lower Ozzympin, Felix was a nice enough fellow, a bit naive, who’d decided to join up and fight alongside the Colony without thinking all that deeply about it. He’d proven to be capable, otherwise the ants would never have let him down into the fifth, but his fundamentals still needed work, as evidenced by his mana manipulation when defending the platform.
+
+Ever alert to the needs of others, Invidia was only too happy to help. Waving a stick-thin hand in goodbye, a gesture that was enthusiastically returned as Felix returned to his unit, Invidia got back to work. After all, his Master had asked him to do something, and good friends were always reliable.
+
+Not that the Master was always reliable, but Invidia knew that Anthony was always trying his best, which counted for a lot in a friendship, Invidia reckoned.
+
+Calling upon his prodigious mental powers, Invidia seized hold of the mana around him in an instant, drawing it in and funneling it into his core even as he pushed energy out of his core and into the construct he had prepared.
+
+Since evolving, his mind had become so potent that the things he had struggled with before were now trivially easy. His mind constructs operated at incredible speed thanks to the combination of his reset Brain and Neural Adapter. Now formed of Mana Filament and Thoughtonium Webway respectively, the speed and responsiveness of his thoughts had been elevated to a higher plane. Just as well, since he’d spent a fortune of evolutionary energy on those materials.
+
+Spinning threads of mana as if they were as light as cobweb, Invidia wove his magic effortlessly, drawing on barrier mana and combustion mana to create one of his latest spells. Packing the energy in tight, he created what he liked to think of as a directed charge, a multi-layered, condensed shield around a dense ball of combustion with a gap on one end.
+
+As long as the balance between the shield and the explosion was correct, the detonation would be directed out of the opening, concentrating the blast and minimising the blowback.
+
+Invidia didn’t always get it right, but he was careful to limit his experimentation to places where others wouldn’t get hurt.
+
+On this occasion, he wasn’t creating that large of a blast, so he didn’t need to worry about overwhelming the shields. Perhaps sensing what he was working on, the monster that had attracted his attention turned towards him, flaring its strange, blobby tissue before drawing back and launching a ball of pale flesh at him.
+
+From observation, Invidia had learned that this attack was far more deadly than it appeared. Creatures struck by that blob had to fight as it tried to consume their body on the cellular level. A few constructs split off to deal with the issue, slapping the projectile out of the air and knocking it safely away with Force Magic as Invidia aimed his shaped blast a little more carefully before unleashing it.
+
+With a satisfying thump, the initial charge ignited, followed by the deafening blast as fire belched out in a cone shape along with the shockwave. In a flash, the monster was gone, overwhelmed by the detonation.
+
+Satisfied, Invidia began to weave a dozen more of the shaped charges, pulling together the magic with contemptuous ease. It had been some time since Invidia had found magic to be difficult or challenging in any way. He should speak to his Master, there was more he could do than explosions, so much more, yet so far, there hadn’t been any need.
+
+Shielding his bigger brother and healing his wounds was a full time job, Invidia understood that, but with his current mental capacity, he could perform it without difficulty. There was plenty of brainpower left over for offensive magic, yet explosions were… blunt instruments.
+
+Those around him were grateful and looked upon him favourably, Invidia could feel it, and in the pocket dimension, he smiled slowly.
+
+Yessssss. Yesssssss.
+
+The flame of obsession burned brighter within him, energy pooling in his eye. Soon, he could unleash the beam again. The Eye of Possession forged of Luminous Sapphire was a thing of wonder once fully unleashed, but there was so little reason to these days.
+
+If he destroyed the entire tunnel in front of him, would everyone want to be his friend? Or would they be afraid?
+
+Making the calculation, Invidia slowly drained power from his eye. No, it wasn’t needed now. Perhaps later.
+
+Name: Invidia
+
+Level: 209 (Rare) (VII)
+
+Might: 20
+
+Toughness: 60
+
+Cunning: 320
+
+Will: 229
+
+HP: 80/80
+
+MP: 404/404
+
+Skills:
+
+General:
+
+Unbreaking Mind (VI) Level 100; Master Stamina (IV) Level 42; Daoist Meditation (V) Level 37; Grand Master Clumsy Flight (V) Level 53; Expert Observation (III) Level 11; Advanced Empathy (II) Level 10; Expert Conversation (III) Level 14; Divergent Thinking (I) Level 4;
+
+Mana:
+
+Mana Weaving (VI) Level 45; Compounded Mana (V) Level 14; Vacuum Divine External Mana Manipulation (VI) Level 14; Mana Miser (V) Level 35; Layered Mind Magic Affinity (V) Level 78; Broad Mana Sensing (V) Level 7; Enhanced Demon Laser (III) Level 17; Master Combustion Magic Affinity (IV) 13; Expert Shield Magic Affinity (III) Level 8; Enhanced Healing Magic Affinity (II) Level 6;
+
+Defensive:
+
+Grand Master Flutter (V) Level 68; Expert Air Dodge (III) Level 11;
+
+Offensive:
+
+Grand Master Precise Shooting (V) Level 72;
+
+Mutations:
+
+Senses:
+
+Penetrating Eye of Envy + 25 (Luminous Sapphire); Grand Mana sensory Organ +25 (Resonant Mana Fibre; Fine-tuned Mana filament finder +25; Spirit Sight Gem (Soul Crystal);
+
+Physical:
+
+Vast Bottomless Stomach + 25; Rapid Mana Charging Wings +25, Enlarged Mana Finding Demon Pocket +25; Mana Absorbing Dimension Mouth +25;
+
+Mental:
+
+Omni-Divergent Thought Brain +25 (Purified Mana Filament); Reinforced Will Barrier +25; Layered Neural Adaptor +25 (Thoughtonium Webway); Possession Engine Demon Silica;
+
+Mana:
+
+Mana Manipulating Cortex +25;
+
+Species: Lesser Watchdemon of Possession
+
+Skill points: 180
+
+Biomass: 377

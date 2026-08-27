@@ -1,0 +1,115 @@
+---
+id: 88b02765-19e7-5aa2-93ae-b5e5ca60ded6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1840 -  Clear Air"
+slug: 0495-chapter-1840-clear-air
+partOf: chrysalis
+position: 495
+ownLength: 1072
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3793412/chapter-1840-clear-air"
+royalRoadId: "3793412"
+---
+
+[Look at that, Crinis, nice healthy lungs, very satisfying. Seeing this makes me feel like we might have healed the stratum, not just conquered it, you know what I mean?]
+
+Indeed, poking about through the lungs, a place of literal nightmares not that long ago, is extremely satisfying for me. I’d fought and run through here when it was a mess of rot, disease and mucus unlike anything else in the fifth. The horrors I saw that day will never truly leave me, but looking at it now, I feel the burden in my soul ease a little.
+
+It was worth it. So long as it stays this way!
+
+[You don’t have lungs, do you, Master?] Crinis asks curiously. [Are you sure this is healthy?]
+
+She reaches out a tentacle and pokes it into the wall, which squishes under the pressure.
+
+[It seems a little weak to me….]
+
+[Of course I… don’t… have lungs. I’m an ant! I have spiracles!]
+
+Yeah, of course I don’t have lungs. In fact, do I even have spiracles? I don’t think monsters need to breathe at all. Crinis sure as heck doesn’t have lungs.
+
+[Hey, Tiny, do you breathe?]
+
+The big ape looks at me, confused, then points at his mouth.
+
+[Yeah, do you breathe through it?]
+
+He mimes putting something in his mouth.
+
+[No, I don’t mean inhaling food. Would you talk, dammit! I know you can!]
+
+[I think so,] he replies, a little grumpy.
+
+I swear he’s actively trying to regress his own brain by not thinking as much as possible, hoping the energy will transfer to his muscles. I’ve decided I’m going to double the amount of cunning he has in his next evolution. Take that!
+
+Or… will that just make him more capable of coming up with schemes to destroy his own intelligence? It’s possible. Definitely possible.
+
+[What about you, Invidia? Do you breathe?]
+
+[I do notssss. But I can if you needsss me to.]
+
+[Uh, no. No, I don’t need you to, but thanks for offering.]
+
+[You’re very welcomesssss.]
+
+Invidia is so dang polite these days. Just a stand-up monster you can rely on. Tiny, on the other hand….
+
+Monsters are starting to spawn in here in increasing numbers. All sorts of weird blobby things are oozing about, devouring each other. Most of them slide away when we get close, but a few are severely lacking any sense of danger.
+
+Those are promptly dealt with by Tiny and Crinis.
+
+No longer pumping thick sludge through the arteries behind the walls, the feeling of moving through the tunnels is a heck of a lot more pleasant than before. I have to wonder if the dense mucus has been replaced by a different type of fluid. Given the organic nature of the fifth, is it blood? Or something similar?
+
+My assumption is that hyper-dense mana becomes a liquid, and in the fifth that meant horrendous sludge. Now, it’s got to be something else, but I haven’t seen it with my own eyes.
+
+We keep patrolling through the web of narrow tunnels and chambers, keeping our senses peeled for interference or even the slightest hint of contaminated energy sneaking back into the lungs. So far, there hasn’t been any sign of it, but the lungs are actually massive. I don’t think anyone’s bothered to properly measure, but it probably covers hundreds of cubic kilometres, if not thousands.
+
+It’s Crinis who spots the first sign of trouble on the second day inside.
+
+[Master, I think something is watching us,] she warns me, stirring to life on my back.
+
+With her unique senses, it’s incredibly hard to hide from Crinis, even if she is physically blind. Shadows and darkness are like windows she can see through, and her ability to sense mana is on par with Invidia’s. Naturally, she can’t ‘see’ as far as I can with the ol’ eyeballs, but if something is close enough, she’s going to spot it.
+
+[Watching us? Is it slugs?]
+
+I cast my own senses about, trying to spot corrupted mana or the tiny eddies the Krath give off to my gravitational sense, but there’s nothing out of the ordinary. As far as I can tell, all around us is cleansed mana, which means this whole place is a death zone to the slugs.
+
+[I’m not sure what it is,] she replies, her tentacles starting to twist in anger, [but I don’t like it.]
+
+[Keep an eye out. If it so much as twitches, I want to know about it.]
+
+For the next few hours, we keep moving but with a slightly nervous feeling, wondering just who is watching and if they’re trying to get a jump. Crinis can’t tell me more details, but every now and again she confirms that whatever it is, it’s still there.
+
+After five hours of this, I get increasingly nervous and on edge. Eventually, I can’t take any more of it and just burst out with a broad range mental explosion.
+
+[OI! Stop sneaking about and make a move, dammit!]
+
+I have no idea if anything even heard that, but I stand still, glaring at the walls around me. My anger is real! Show yourself!
+
+Eventually, something does show itself, and the moment I catch a glimpse, I tense up. Oozing through the wall comes a monster I’ve seen before. In fact, I only know one monster that can ooze through a wall like that!
+
+Just before I yell at the team to blast it, I realise that it looks… different. No longer formed of slime and mucus, but rather a deep, ruby-red jelly-like substance. Almost none of the creature emerges, barely enough to be the size of a human.
+
+It waggles at us.
+
+Tentatively, I reach out, restraining Crinis, who immediately wanted to rip it apart.
+
+[Uh… hello? Again?]
+
+The mind bridge connects, and I sense a placid, calm mind on the other side.
+
+[It… has been a long time… since I have communicated… with another.]
+
+The thoughts are halting, as if the monster was trying to dredge up the forms their mind needed to take from a distant memory.
+
+[Thank… thank you… for setting… me free…]
+
+[You’re… welcome? I suppose? Please don’t eat me… or any other ants?]
+
+[I… will not….]
+
+With that promise, the jelly oozes back through the spongy flesh of the wall and vanishes once more.
+
+Has… has that monster been alive since the fifth was corrupted?!?!
+
+Holy moly!

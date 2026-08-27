@@ -1,0 +1,89 @@
+---
+id: e53e6101-74c0-5ecf-a9f6-8c0429d68695
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1844 - Conclave"
+slug: 0499-chapter-1844-conclave
+partOf: chrysalis
+position: 499
+ownLength: 902
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3811232/chapter-1844-conclave"
+royalRoadId: "3811232"
+---
+
+A gathering of Ancients was a myth, often speculated about amongst the cultists who worshipped them, wondering what their gods did deep in the Dungeon. They did not meet. Kygar could not recall a time when he had been in the physical presence of another of the Ancients, with only a single exception.
+
+However, that occasion didn’t count, since neither he nor Carriflare had been Ancients at that time. Rather, they had been powerful monsters descending into the Dungeon and trying to reach the centre, to reach the apex of power and unravel the mysteries of their world.
+
+Against all the odds, both had succeeded, but the number of rivals they had left broken or devoured on the way numbered in the thousands.
+
+Even when they had broken to the surface, they had risen directly upwards from their own domains, never crossing paths with one another. Kygar had considered the reason they never encountered each other. It wasn’t as if they couldn’t occupy the same physical space, but perhaps there was danger in such a meeting.
+
+How long had it been since they had desperately struggled and fought to rise to their current positions? Now they lived in a world where there was no challenge to be found except in each other. Was there a chance that they would seek to devour each other should they come face to face?
+
+Counterproductive considering they were attempting to add to their number, not diminish it.
+
+Whatever the reason, Kygar personally felt no compulsion to seek out his fellow Ancients in the flesh, content to drift, to gather power until the time to storm and rage finally arrived. Only then would he unleash his strength and crash against the walls that constrained him.
+
+For now, the Ancients would speak to each other as they always had… carefully and sparingly. Yet, occasionally there would be a meeting of the minds. A conversation between these peers, the most feared and powerful on all of Pangera.
+
+A Conclave.
+
+Floating in the centre of Stormcloud, Kygar could feel the others stir, their minds extending, reaching outwards, bending around the core of the world, not wanting to draw its attention. He did the same, pushing outwards, extending a tiny thread of thought that wound its way to the others.
+
+Somewhere close to Odren’s realm, they met. Monstrous minds linking together through the smallest of possible links, lest their thoughts clash too strongly and damage the Dungeon.
+
+[A FRUITFUL CYCLE,] declared the Father of Monsters. [THERE IS GREAT PROMISE TO BE HAD.]
+
+Savage and beastly, Odren’s mind snarled and growled through the connection. Kygar could almost feel the bare teeth, dripping with saliva and reaching for his throat.
+
+[New fleshhhhhh to carve,] Horgran rumbled.
+
+With a voice like a sharp blade thunking into meat, Horgran’s mind thirsted for butchery like a normal monster hungered for Biomass.
+
+[There is little point to the Call if we kill them ourselves,] Kygar stated.
+
+[We have killed before and we will kill again,] Theorazzn hissed.
+
+So virulent and furious were the thoughts of the Decaying One that Kygar instinctively pulled back, not wanting to be infected with it. Cautiously, he approached once more.
+
+It appeared as though the fury of Theorazzn had indeed been provoked as Carriflare had said. That was one candidate who wouldn’t make it to the depths.
+
+[It’s not OUR PLACE to choose those who live or DIE,] Morribolg cut in.
+
+Rising and falling like a bubble in a bog, Morribolg’s thoughts surged and faded in equal measure. Even through the narrow link, the glee felt by the Fetid Earth was clear to all, delighting in Theorazzn’s setback.
+
+Before the two bitter rivals could surge against each other, Torra spoke. A rumble so deep as to shudder against the depths of his mind and simultaneously a scream so high it was beyond comprehension, the thoughts of the Dread Dog were enough to unsettle even the Ancients.
+
+[Care not for your bickering. Speak only of what concerns us all.]
+
+[I am not here to listen to others snipe at each other,] Kygar agreed.
+
+A tiny hint of anger sparked inside him, causing the storm surrounding his form to accelerate. Lightning crashed in the depths of his mind, clear to the others connected to him.
+
+[Have we identified the prospects?]
+
+The mind of Syssernix, creature of darkness, was a maze of shadows and whispers, their thoughts little more than a ghostly touch upon the others.
+
+[THE CALL HAS SNARED MORE THAN FIFTY CHILDREN,] Odren snarled gleefully. [EVEN NOW THEY JOURNEY TO MEET US, THOUGH MANY WILL FAIL TO MAKE IT.]
+
+That many? An unusual cycle indeed. Perhaps there was hope after all.
+
+[How close are they?] Kygar asked keenly, thoughts crackling with possibilities.
+
+[SOME ARE CLOSE. MOST ARE FAR.]
+
+Would there be enough time for them to make it? How many would make it past their enemies? If history was anything to go by, not many.
+
+[How many will the Legion hunt down this time?] Carriflare wondered.
+
+[Hack their BONES!] Horgan roared, rage flaring.
+
+[Go, if you can,] Syssernix whispered. [You have my blessing.]
+
+Wordlessly, soundlessly, Horgran bellowed in anger. Kygar could hear the flowing blood splatter in his thoughts.
+
+It was too soon, none of them could leave their realms yet. By the time they could, hopefully some prospects remained alive.
+
+With silent agreement, the Ancients broke apart, no more to be said.

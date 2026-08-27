@@ -1,0 +1,93 @@
+---
+id: 480838fc-80ae-5f77-94fb-7b419bf22d70
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1691 - Emerge Once More"
+slug: 0343-chapter-1691-emerge-once-more
+partOf: chrysalis
+position: 343
+ownLength: 1149
+unit: words
+ownProgress: 1149
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2790538/chapter-1691-emerge-once-more"
+royalRoadId: "2790538"
+markedReadAt: "2026-06-29T19:54:47.081Z"
+---
+
+I end up spending a few days playing around with my closest comrades and getting used to my new body. Getting Crinis to actually hit me was pretty hard, but we got there in the end. Tiny was too happy to hit me, if anything, his fists doing an admirable job smashing up my carapace. It was precisely that sort of concussive attack that the Inner Carapace Plating was designed to help absorb, and it does an admirable job soaking up the punishing hits the ape dishes out.
+
+Even if I was a little surprised by how effective his punches were against my carapace, it turned out not to matter much, since the overwhelming tidal wave of healing fluid running through my body dealt with the damage in a matter of seconds.
+
+Seriously, it might take a little while, but once the regeneration network picks up speed, the amount of healing fluid it produces turns me into some sort of unstoppable juggernaut. Tiny’s most devastating combo, unleashed at speeds I can’t track with my eyes, isn’t able to damage me faster than my system gets flooded with healing fluid.
+
+I haven’t even mutated the thing yet! I’m starting to wonder if I’m going to end up immortal!
+
+The golgari triad really did an incredible job with the evolution. My body feels more comfortable and responsive now that I’ve gotten used to it, and the mutations and evolutionary choices they made worked out fantastically in the end.
+
+To be honest, it’s a little bit of a relief to be off the species track I was on before. I’ve already got humans starting to deify me; leaning any further into the Vestibule, Nave, Altar trio is only going to make it worse.
+
+And so, fully adjusted and ready to roll, I stride out of the chamber ready to take on the world! Tier eight Anthony is here and he means business!
+
+BAM!
+
+Ouch!
+
+[Are you alright, Master?]
+
+[Uh… of course. I was just… just testing the tensile strength of this arch… with my face. It’s well built! As expected from the Colony.]
+
+Alright, maybe I’m not fully used to my size yet. I’m big, dammit! Really big!
+
+To move through the tunnels, I need to crouch down a bit, lowering my abdomen closer to the ground, which is… fine, I suppose. Puts a bit of strain on my legs and ‘knees’, but it’s not a big deal.
+
+Speaking of my legs, they’ve undergone a bit of transformation in this evolution. A normal ant has very thin little stick legs, because they don’t weigh anything, and members of the Colony have thicker legs, because they’re bigger, obviously.
+
+My legs… are now rather chonky. I’d say they’re twice as thick as they were before, capable of carrying my enormous mass about the place. The amount of muscle fibre packed into those things is crazy. To be honest, other than my face, the most dense muscles in my entire body are in the legs.
+
+Still, it’s nice to be out and about! Tiny and the others follow in my wake as I venture forth and see how things are going. The fortress nest of the Colony doesn’t seem to have changed much while I was asleep. It’s packed full of ants and wuffers, with channels humming with mana running all over the place. I’m a little surprised they still ran any mana all the way up here. Considering how much larger the invasion has gotten, I assume they’ve built more forward bases than this, but then again, the fortress was made to process mana, so may as well let it do its job.
+
+Moving to one of the arterial highways as soon as I can, I find even that previously spacious tunnel feels a bit cramped. Certainly the other ants find it a touch squeezy once I get in there. At least, that’s what they tell me.
+
+“Taking up enough space, are you, Eldest?”
+
+“Not sleeping on the job any longer?”
+
+“Had enough torpor, Eldest? We thought you were going to sleep forever.”
+
+“Surely taking this many lanes up by yourself is selfish. Hurry up!”
+
+The last one is a healer, naturally, and I shift a little to let them get through. Grumbling, the little ant speeds past me, but gives a dip of the antennae to show their, very minor, appreciation. I’m feeling more generous to the healers, though—not sure why.
+
+Eventually, I reach the main shaft, take a deep breath, then start climbing up.
+
+The pain is sharp and immediate. Stupid Call.
+
+It’s been a lot worse than this in the past, so I endure and keep on climbing. When I get to the fourth, it’s really going to hurt like heck, but I won’t need to be up there for long, hopefully. Sort out the Green Mountain in a few days, then back down to the fifth to remind the Krath of who they’re messing with.
+
+Gweheheheh. Ouch.
+
+This place is seriously busy, though. The higher I go, the busier the shaft gets. Also, I may be wrong, but I think it’s a lot wider than it used to be. Platforms loaded with crates and ants descend constantly, suspended from ropes as thick as a human. Special loading devices hook onto them and pull them into side tunnels fitted with rails, and off they go, rapidly picking up speed and rolling out of sight.
+
+We have a rail network in here now? What the heck?
+
+The closer I get to the top, the more platforms I see. There are dozens and dozens of them being lowered down every minute! It gets to the point where the shaft is so packed I don’t have space to keep climbing up the wall! Holy moly, this is a lot of stuff.
+
+A little irritated, I cling to the wall while I wait for an opening, but one doesn’t seem to be coming any time soon. I’d say it’s like a traffic jam, but it’s flowing just fine, only in one direction!
+
+“Eldest, if you want to get higher, you should come through this tunnel,” a cool scent reaches me from nearby.
+
+Looking around, I see Solant, along with her closest advisors, looking at me from a nearby side tunnel.
+
+“Will I even fit in there?” I ask.
+
+“It’ll be tight, but you will. There’s another arterial passage that will get you closer to the entrance to the fourth. This shaft is exclusively used to bring material down now.”
+
+“Oh…”
+
+It’s a little awkward, but I manage to clamber around and squeeze into the tunnel by pulling my legs in as close as they will go, Tiny and the rest squeezing in after me.
+
+“Right, which way?” I ask.
+
+The little general, who is hilariously little now, I have to say, looks up at me, clacking her mandibles.
+
+“Senior,” she says, “where are you going?”

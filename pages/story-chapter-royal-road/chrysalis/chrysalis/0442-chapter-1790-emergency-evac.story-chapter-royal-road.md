@@ -1,0 +1,109 @@
+---
+id: c5950c88-d390-58ca-9fd1-53494bf9b5df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1790 - Emergency Evac"
+slug: 0442-chapter-1790-emergency-evac
+partOf: chrysalis
+position: 442
+ownLength: 999
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3380527/chapter-1790-emergency-evac"
+royalRoadId: "3380527"
+---
+
+Commander Eliza Sparrek had lived and fought in the fifth stratum for eight years, and in that time, she had seen many horrifying things. However, watching her outpost become buried by an ever-rising tide of mucus was perhaps the worst of them all.
+
+“We designed this area to drain slime downwards to the lower tunnels,” she said to nobody in particular. “We spent years making sure it couldn’t be flooded.”
+
+Steven, her fellow commander, had left his base to assist the evacuation. Hearing this, he could only shake his head.
+
+“We designed those tunnels to drain fluid originating from this height or above. Since the stuff is rising up from below, those drainage channels are the very thing causing the problem.”
+
+He wasn’t wrong. Legion engineers had designed the system to work in conditions that were completely different to those that they found themselves in now. In the entire history of their presence in this section of the fifth, they had never experienced anything remotely like this before.
+
+Something extraordinary had to have happened to upset the natural behaviour of the Dungeon here. And that extraordinary something just happened to be walking alongside her and her trainee officers as they abandoned their base and moved to higher ground.
+
+Thankfully they had enough armour and equipment for every individual inside the outpost, otherwise Eliza would have been forced to go down with the ship, so to speak.
+
+[Ant, what in the name of the Iron Fortress did you do down there?]
+
+The monster, for its own part, had been disturbingly cooperative. Apparently there was already a Legion tasked with monitoring the thing, and eliminating it should the opportunity arise, yet it was more than willing to help escort her people out.
+
+She hadn’t believed it at first, naturally, but confirmation had been received through the communications network. Someone out in the fifth had at least been aware of the arrangement.
+
+[Look. Was a chain of events set into motion that clogged the major arteries down below, causing them to prevent mana flowing smoothly and causing a never-ending build-up of toxic mucus? Yes. Was I present when the catalytic event took place? Also yes. But was I personally responsible? I can’t be the judge of that.]
+
+Commander Eliza grit her teeth. Getting a straight answer out of this monster was like pulling teeth. It had all but admitted to being at fault, but still wouldn’t actually admit to anything at all.
+
+[Is there any chance you could tell us what this event was? Seeing as you were present when it occurred and all.]
+
+[Well, the rumour is that someone drilled a hole through the roof of a hidden Krath sanctum, draining an entire lake full of mucus through it. Now, that would have been fine on its own, but that Krath settlement happened to sit over the lungs and major arteries in the area, which also flooded, then burst.]
+
+[You found a hidden Krath settlement?]
+
+[Maybe. Anyways, the bursting arteries have created a feedback loop, clogging the tunnels and preventing mucus from being moved out of the area. Essentially, the sludge has nowhere to go, so it’s rising higher up in the tunnels.]
+
+[When will it stop? Will we be safe at Rupes Outpost?]
+
+[I have no idea where that is. Eventually it’ll all start dropping once it’s spread out wide enough and found more paths downward. Until then, the level will keep rising.]
+
+“Eliza? Are you alright?”
+
+“Pardon?”
+
+“You look distracted.”
+
+“Oh, I was talking to the ant.”
+
+Steven made a face of disgust.
+
+“You trust it? This monster?”
+
+“Of course not,” she looked at him as if he were stupid. “But if it has relevant information, then I would have it.”
+
+“It could easily be lying to you.”
+
+“I’m not sure it’s smart enough to lie.”
+
+[We’re still connected by a mind bridge…]
+
+[I know.]
+
+[... That’s hurtful.]
+
+The giant monster flexed its mandibles, causing Eliza to tense and many of the young Legionaries around her to flinch backwards.
+
+Rather than reply, the ant simply clacked its mandibles rapidly, laughing at them.
+
+[You think I even need to use my mandibles to flatten the lot of you? Please. I’m tier eight over here.]
+
+[Simply being tier eight doesn’t make you invincible.]
+
+[It does to my present company.]
+
+It was almost certainly right about that. Even with two Commanders present, they weren’t equipped to deal with a monster of this size and strength. Even so, she might have made the attempt and died honourably, if they weren’t escorting young officers, the future leaders of the Legion.
+
+To reach Rupes Outpost, they needed to ascend a narrow pathway carved into a vertical stretch of tunnel. It was a journey of several kilometres, but the short distance belied the danger. With poor footing and limited manoeuvrability, they were massively exposed until they reached the top. This was exactly the kind of opportunity the Legion strove to ensure the Krath would never have.
+
+However, the ant assured them that “the slugs were busy right now”, and so long as it was with them, the monsters were largely happy to ignore them, intimidated by its aura.
+
+Below them, she could already see the mucus beginning to rise up the slope, having finished swallowing her outpost.
+
+[I hope your Colony is willing to pay for the damages,] she said.
+
+The ant scratched its head with an antenna.
+
+[Sure, why not.]
+
+[I’m not sure you realise how expensive it is to create a single outpost here.]
+
+The ant actually laughed at her.
+
+[I think we can manage a few little tin cans for you to live in,] it chortled. [Besides, this entire area is going to be cleansed soon anyway. You could live in a wood hut if you wanted.]
+
+[You seem awfully confident about that.]
+
+The ant clacked its mandibles again.
+
+[You really have no idea what we’ve done down here, do you? Pangera has changed forever and you had no idea it was happening.]

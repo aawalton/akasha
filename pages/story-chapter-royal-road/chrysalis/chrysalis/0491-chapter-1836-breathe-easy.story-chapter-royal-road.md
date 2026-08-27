@@ -1,0 +1,85 @@
+---
+id: 58c0ff34-17dd-5e6d-97f4-d5a743a38c7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1836 -  Breathe Easy"
+slug: 0491-chapter-1836-breathe-easy
+partOf: chrysalis
+position: 491
+ownLength: 864
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3766403/chapter-1836-breathe-easy"
+royalRoadId: "3766403"
+---
+
+Solant looked down at the narrow chamber below with a sense of unease. She had been here before, stood in this exact spot, and looked down into the lungs of the fifth not that long ago. At that time, what she’d seen was beyond disgusting. Diseased, rotting flesh, dripping slime and filth, spongy masses of mucus-covered material covering the walls. It had been positively awful.
+
+To think that the Eldest had to run and fight in that mess. Unthinkable.
+
+“Are you heading down?” Mendant asked.
+
+“Do I have to?” Solant asked.
+
+“You can’t really see what we’re doing from up here,” the healer replied, irritated. “So yes, you have to go down.”
+
+She descended, but reluctantly. It looked vastly different from before. All traces of slime and rot were gone. The walls were now formed of bright pink spongy flesh that seemed to swell and deflate in a cycle. What hadn’t changed was the absurd speed of the mana cycling through the area. It was like a strong breeze buffeting against her core.
+
+Supposedly the pace would only accelerate as more and more of the lungs were purified. Right now at least half of the tunnels were still clogged up with mucus.
+
+“This chamber is finished, obviously,” Mendant said, prodding at the walls, seemingly satisfied with what she saw. “This is how it's supposed to look. Nice, healthy flesh, soaking up the mana and transporting it into the vessels behind.”
+
+“Are the vessels fully cleansed?” Solant asked, trying to look interested.
+
+For some reason, she just couldn’t bring herself to be comfortable in this overly organic place. She focused her mind. It was irrational to be so discomforted. She was a creature of logic and results.
+
+“Not really,” Mendant sighed, “which is a problem. The places we’ve repaired are working properly, but the vessels eventually combine to form arteries, and half of the inputs are still mucus sludge. Healthy material and mucus are sloshing together and creating a mess. Right now we’re dumping it into a massive lake and throwing wuffers at the problem.”
+
+Solant found that she didn’t really want to see it.
+
+“Right, down this way.”
+
+Mendant led them deeper and deeper into the tangled mess of tunnels and chambers, each of them at varying states of repair. Eventually they reached the foremost working teams where Mendant wanted to explain the difficulties they were having.
+
+“We need dig teams in here,” she said forthrightly. “Look over there.”
+
+Solant turned, almost against her will, and found a group of healers grumbling and muttering as they tried to pry a slab of rotten meat from the wall.
+
+“We have to remove the dead flesh before we can start work repairing the tissue beneath,” Mendant explained, “but we’re healers. Our mandibles aren’t made for that sort of work.”
+
+With a sort of horrified fascination, Solant watched as the healers continued to chomp away at the blackened meat until it finally gave way, sloughing off the wall and landing wetly, several healers tangled up in the mess.
+
+“I see,” she said faintly.
+
+“Technically, that flesh isn’t corrupted any more,” Mendant went on, oblivious, “but it is dead and useless. In each span of tunnel, we’ve got to dig out tons of the stuff before we can get to work. If we can hand off the digging and transportation to someone else, then we can progress more than twice as fast.”
+
+The healers managed to extricate themselves from the mess and began to climb up onto the wall again. With careful application of Healing Magic, regenerative fluid and a great deal of irritated muttering, they began to restore the spongy flesh to what it should have been all along. Under their care, it regrew rapidly, healthy and pink, already starting to pull in the mana from around them.
+
+Solant found it nauseating.
+
+“Your request makes logical sense,” she said, maintaining her cool. “I’ll speak to the dig teams and get them down here to assist. How many do you estimate you’ll need?”
+
+Mendant looked at her oddly.
+
+“You’re letting me come up with the number? Wouldn’t you normally calculate it all down to the finest detail yourself?”
+
+She backed away suddenly.
+
+“Is this a trap?”
+
+Solant stared at her.
+
+“No. You’re doing the work here, so you know what you need. If that’s all, I’d better get back to headquarters. Just report the number to me when you have it.”
+
+Solant turned to leave, only to be confronted with several healers carrying a huge wad of dead meat in their mandibles. She staggered.
+
+“The general is ill!” Mendant declared. “I knew you weren’t well.”
+
+“I’m fine,” Solant replied, righting herself and cleaning her antennae fastidiously. “I’ll speak to you later.”
+
+“Oh no you don’t. Restrain the patient!” Mendant roared.
+
+The healers came from everywhere, leaping out at her as if they’d spawned in mid air.
+
+“Check her for parasites! A thorough examination! It must be affecting her brain!”
+
+As she was borne to the ground and her face was shoved into the soft, porous flesh of the floor, Solant could only think that she should have let Brilliant blow up the lungs and been done with it.

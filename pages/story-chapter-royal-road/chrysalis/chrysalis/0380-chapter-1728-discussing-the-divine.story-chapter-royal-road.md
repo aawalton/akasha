@@ -1,0 +1,83 @@
+---
+id: 47349324-66c2-581c-92e6-bdbf06e47791
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1728 - Discussing the Divine"
+slug: 0380-chapter-1728-discussing-the-divine
+partOf: chrysalis
+position: 380
+ownLength: 941
+unit: words
+ownProgress: 941
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3013800/chapter-1728-discussing-the-divine"
+royalRoadId: "3013800"
+markedReadAt: "2026-06-29T19:55:57.662Z"
+---
+
+There was something sacred to standing in the Dungeon. It was a place of infinite possibility, of rich mana and unending gifts. What purpose did it serve, for what reason did it put forward such bounty, if it wasn’t for the benefit of the Old Races who had lived upon Pangera before the Dungeon had made itself known to them?
+
+War Bishop Graham Pearson rose to his feet, having completed his hour of prayer, feelings of praise and gratitude still resounding in his heart. After a lifetime as part of the Church, exposed to both the light and dark sides of it, he still felt, deep in his bones, the certainty of his faith.
+
+The Dungeon existed to serve the worthy.
+
+Every monster that spawned within it was an offering for those strong enough to claim it.
+
+“I don’t need to be here,” Grand Priest Vinting stated from nearby, not for the first time.
+
+Unbothered, Graham turned to the other man, his eyes as cold and blue as mana-infused ice.
+
+“Your steps along the Path have led you to this place, to this moment,” the War Bishop chided him patiently. “You are where you are meant to be. It isn’t for you to refute or deny, but to pray and meditate on why.”
+
+Alir’s face tightened with anger, but the War Bishop had no fear of him. If they were to be compared in the crude metric of Levels, Graham outstripped his contemporary several times over. In terms of experience and skill, the gap was significantly wider than that. Between the two men, the only way in which Alir could be considered superior was rank within the Church.
+
+Not that Graham cared for such things.
+
+“Are you at least willing to meet with the delegates from Green Mountain?” Alir asked acidly.
+
+He was hoping to find a way to get himself out of the Dungeon, Graham could see that. If it wasn’t possible by demanding the War Bishop let him go, perhaps he could influence others to make it happen. The man was as slippery as a snake, and unworthy of the elevated position he held within the faith.
+
+“Of course I am,” Graham replied. “You understand that prayer must come before other tasks, do you not?”
+
+“Naturally,” Alir replied with a scowl.
+
+“Then I fail to see the problem.”
+
+Not far away from the two men, Graham could see the delegation waiting. Strong-looking soldiers, experienced professionals with decades of service in the Dungeon, fighting waves and purging monsters. People Graham could respect.
+
+They understood the trade of what took place in the Dungeon, even if they didn’t grasp its purpose.
+
+He pitied them for their ignorance. What satisfaction could they find in their work without fully grasping the divine meaning behind it? Blindly walking the Path was no different than not walking on it at all.
+
+Of course, he did not allow the pity he felt to show on his face as he approached them.
+
+“Greetings. I am Graham Pearson, War Bishop of the eleventh Judgement Battalion. Do I have the honour of addressing Marshal Williams and Marshal Selda?”
+
+The two figures glanced towards each other before turning back to him and offering a short bow. Despite there being no significant difference between the armour worn by the Marshals and the officers around them, Graham always made it a point to know the faces of important figures he might encounter while in the Dungeon.
+
+Williams, a short and stocky man, nevertheless carried an air of authority and quiet competence that made him seem much larger than his stature would normally allow. Bald, yet with overlarge and fierce eyebrows, he would be almost comical if not for the power he radiated.
+
+Selda was similarly severe. Greying hair pulled back tight, she was thin to the point of being gaunt, yet even standing still, she exuded a lithe and deadly grace. Graham had no doubt the sabre sheathed at her hip could be placed at his neck faster than a man could blink.
+
+Lesser officers stepped away as Graham approached, Alir following slightly behind. It was Marshal Williams who broke the silence.
+
+“There’s no need for us to be coy with each other,” he said softly, his gaze steady and confident, “that’s for the politicians. Do you want our help hunting the monster? If so, we have been given authority to negotiate on parts.”
+
+“What is Green Mountain prepared to offer?” the War Bishop asked simply.
+
+“Two thousand soldiers for two parts in ten, or four thousand for five,” came the reply.
+
+“You are mistaken if you believe that your soldiers are the equivalent of a Judgement Battalion,” Alir said stiffly. “It would be… an insult to the Church to insinuate such a thing.”
+
+Always tiresome, arguing over the body parts of a monster before it had even been felled. However, when they were hunting the sort of prey that were chasing now, it was inevitable that these discussions would take place. Half of this monster’s corpse would be worth an incredible fortune. Enough to lift up the Green Mountain for decades to come.
+
+“Four thousand for four parts in ten,” Graham said, then held up a hand to forestall the Marshals, “I will not negotiate.”
+
+Williams and Selda exchanged glances once more, communicating with nothing but their eyes.
+
+“In addition,” Graham went on, “all Soul Crystal that is gleaned will belong to the Church. On this point, I will also not negotiate.”
+
+After a long moment of silence, Williams nodded.
+
+“Aye,” he said. “We have a deal.”
+
+Nine thousand soldiers to deal with one ant. It would be more than enough.

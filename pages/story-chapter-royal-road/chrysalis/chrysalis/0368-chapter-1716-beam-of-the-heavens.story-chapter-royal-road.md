@@ -1,0 +1,89 @@
+---
+id: 00f95a41-b7c3-5873-8e53-316daf09d702
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1716 - Beam of the Heavens"
+slug: 0368-chapter-1716-beam-of-the-heavens
+partOf: chrysalis
+position: 368
+ownLength: 993
+unit: words
+ownProgress: 993
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2959800/chapter-1716-beam-of-the-heavens"
+royalRoadId: "2959800"
+markedReadAt: "2026-06-29T19:55:35.089Z"
+---
+
+Singularity is a heck of a spell, if I do say so myself. Earned for reaching the next rank of Gravity Mana speciality, it’s definitely one of my personal favourites and packs a heck of a punch. To offset that absurd damage potential is the mind-cracking difficulty in casting the lousy thing.
+
+Not only is the pattern more complex than a sculpture carved from jelly, it’s just plain hard to hold the mana in place.
+
+To create the disaster beam of doom that comes out of the singularity, I basically have to hold two gravity bombs in place and let them bleed into each other. Handling that much mana is a massive pain in the thorax; handling it so delicately is twice as bad!
+
+Nevertheless, I make no move to hide what I’m doing as I draw out the mana and begin to weave it. Without any time pressure, I don’t rush the process, letting the energy flow like a thundering river as I shape it and give it purpose. Before long, power is radiating out around me, a screaming warning and clanging alarm bell to anyone paying attention to the mana in the area.
+
+I can only hope the delvers don’t underestimate what’s about to happen. If they’re smart, they should be running for the hills right now. It’s obvious they’ve been found out, why try and hold their ground still? Even worse, if they try and put up shields.
+
+I’ve never tested the singularity against defensive magic, but holy moly, it would have to be good to try and hold out against this.
+
+As I continue to cast the spell, it grows increasingly hard to keep the process slow and controlled. The more mana I weave, the harder it is to hold it in place. Like a boulder I’m trying to hold up on the side of a hill, which I keep making heavier with every passing second. Before long, I won’t be able to hold it anymore, and it’ll start rolling no matter what I wish.
+
+Two dense balls of Gravity Mana form over my head, sucking in the light and surrounding me in purple-tinged darkness. Each sphere rotates slowly, inevitably, drawing closer and closer until they spark a furious reaction between them.
+
+Delvers, please, for your sake, don’t be there anymore.
+
+When the beam is unleashed, it’s as if it consumes all the light in the world. Beyond blinding, faster than light itself, it cuts through the air and creates a screaming void in its wake.
+
+Distant rumbling turns into a calamitous roar that shakes the ground even where I am, kilometres away, as my spell carves through the air, the ground, the heavens and the hells alike.
+
+When the light flickers and begins to fade, I am faced with nothing but a wall of debris and blooming clouds of dust and dirt. From this distance, it isn’t easy for me to sense what’s happening at the site of the ambush, but if any delvers stayed in place… let’s just say they aren’t happy.
+
+Satisfied that anything that was prepared to attack me is likely in ruins, I march forward with purpose, ready to confront my foes.
+
+[Crinis, can you start attacking me? Lightly, no need to go crazy.]
+
+[Uh… I would rather not… Master,] she replies.
+
+Nestled in my shadow, Crinis has been on her best behaviour lately, only trying to sneak inside my carapace a few times an hour. After I went to sleep for so long, I think she went through withdrawals or something. She’s even more clingy than usual. Which is saying something.
+
+[It’s just to get my healing network ticking over, alright? Nothing weird is going on. In fact, you’ll be helping me.]
+
+[Well… alright.]
+
+Some tentacles extend from my shadow and begin prodding at the underside of my carapace.
+
+[Come on, Crinis! That doesn’t register as an attack! Give it a little more oomph!]
+
+[Fine!]
+
+Her lashings could still be considered gentle, little more than an aggressive tickle, but at least it's enough to finally get the healing network to start ticking over. Barely.
+
+Pushing through the dust, I keep my wits about me and my senses alert. There are still hundreds of delvers out here. I have to be careful. Most of their preparations are likely destroyed by the singularity, but I can’t go about underestimating my enemies. It’s likely that this fight will be the most difficult I’ve faced since awakening from my evolution.
+
+Mind constructs spinning, I pull out mana and prepare my spells. Sensing carefully, I sniff out the tiny gravitational fields that emanate from the delvers. They’re close, but concealed within the clouds of dust. Looks like they gathered together in the rubble to combine their strengths.
+
+A smart move. I’d better get rid of this dust to improve visibility. Tracking foes via their gravitational fields in the middle of a fight is doable, barely, but I’d much rather use my eyes.
+
+I just reset them, may as well get some use out of them!
+
+A powerful gust of wind blows through the tunnel, blasting the dust clouds away and revealing the absolute devastation that has been wrought here.
+
+It’s… not pretty.
+
+The singularity has carved a horrific gouge through the rock, annihilating everything in its path and tearing holes through the prepared traps of the delvers. It looks like several things have blown up and two separate rock fall traps have been triggered. Scorch marks, rocks turned to slag, others frozen solid in place.
+
+Yikes! It looks like they really put together some nasty stuff over here!
+
+Now, what are they doing? I’d expected them to start attacking by now…
+
+The wind continues to blow, blasting away the thick clouds of dust and finally revealing the gathered delvers.
+
+Who are all crowded together, on their knees.
+
+Uhhh… what?
+
+I reach out with a mind bridge to the closest delver.
+
+[What… what the heck are you doing?]
+
+[Surrendering!]

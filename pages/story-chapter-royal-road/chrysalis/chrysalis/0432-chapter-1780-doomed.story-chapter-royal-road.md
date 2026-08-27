@@ -1,0 +1,59 @@
+---
+id: 3aa1e7b9-c24d-529d-8706-c91c66018291
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1780 - Doomed"
+slug: 0432-chapter-1780-doomed
+partOf: chrysalis
+position: 432
+ownLength: 874
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3323430/chapter-1780-doomed"
+royalRoadId: "3323430"
+---
+
+I mean… the theory is pretty straightforward, right? It’s extremely difficult to hurt me with damage over time. Piling up incremental hits, bit of acid here, chunk of poison there, doesn’t get the job done. Not with the Regeneration Network and the Pure Core hard at work restoring my pristine carapace and eliminating stray wisps of corruption.
+
+So, what to do? Although it might seem like a difficult proposition, the answer is actually quite simple: just hit me all at once with enough damage to finish the job.
+
+It appears as though the slugs want to attempt this strategy, right here and now. I’m not a fan.
+
+No sooner am I aware of the threat than it becomes very, very imminent. Not wanting to give me any time, the slugs spring their trap and launch their ball of infinite ickiness right at my face.
+
+Although it doesn’t howl as if the world was ending like any proper Doom Sphere should, it’s still intimidating as heck to have such an incredibly dense ball of mana flung at me. If this thing hits, I might actually be cooked.
+
+Not going to let that happen!
+
+Turning around on the spot, I Dash, dumping energy out of the Altar to empower the Skill. Legs screaming in agony, I vanish from the point I occupied and go screaming through the tunnel for several hundred metres at truly ludicrous speeds.
+
+It’s all I can do to arrest my own momentum and come to a stop, putting even further strain on my tattered joints and ligaments. Those are going to take a bit of healing before they’re back to full operational capacity, at least I hopefully dodged the—oh my snot!
+
+Perhaps the Krath are bad at aiming, perhaps they’re incredibly smart and deliberately overshot the mark anticipating I would escape in this direction, or perhaps this spell is so destructive, they just threw it in my general direction.
+
+Whatever the case, I’m not out of the blast zone yet!
+
+It looms over me, the biggest and most deadly nose plug to have ever existed. A ball of hyper-condensed corrupted mana, it glows green and yellow, like nuclear mucus, chunks of unspeakable stuff roiling through the ball as it draws closer.
+
+Man, I’m not a fan of doing this.
+
+No choice but to go for it. I crouch a little lower, brace my legs and Dash once more. Again, the Altar’s energy drops low as I draw upon it to empower the Skill. Predictably, so soon after an initial burst, my legs simply aren’t able to hold on. Ichor and gore explodes off the sides of my carapace as my legs, too damaged to save, are ejected from my body. With nothing to support my weight, I crash to the ground and slide on the underside of my carapace, the uncountable parasites of the fifth trying to nibble on me and find a way through my exo-skeleton.
+
+Vestigial legs burst out of me, rapidly growing as they flex and harden. It’ll be a little while before they can properly support my weight, and a little while beyond that before they reach full size and strength. Using the still-growing nubs, I painstakingly scrabble at the soft tunnel floor to turn a little and see what’s going on behind me.
+
+Oh heck!
+
+I did indeed manage to get out of the blast zone, which is good. The ball of muck has landed several hundred metres behind me. Less good is the way it has, much like a pustule, burst into a tidal wave of unmentionable nastiness that is rapidly, well, rapidly for mucus, washing my way.
+
+Dangit!
+
+My legs aren’t nearly large enough to support me, but I scratch and scrape away desperately, each limb barely long enough to reach the ground. Forced to act, I raise the industrial zone and blast off four quick shots of my hyper-potent acid. It sizzles through the air, already expanding and multiplying as it streaks towards the oncoming tide.
+
+The slugs must have been working on this spell for a pretty good while. I don’t think I’ve seen them cast something this powerful and dense. The sphere itself couldn’t have been larger than thirty or forty metres across, but the amount of sludge released from within would occupy a volume a hundred times that size, maybe a thousand, and it’s still growing.
+
+To my senses, it’s probably the closest thing to Theorazzn’s mana that I’ve encountered here in the fifth, outside of that pool I was dunked in before my evolution. Still a pale shadow of the real thing, it’s enough to make my carapace crawl as it hisses and sizzles towards me. If I’d been hit by that, I would have melted away to nothing in a matter of seconds.
+
+My acid isn’t going to be enough to stop it, though hopefully they’ll eat each other for a little while, buying me some precious time.
+
+Time which I use to start pulling together a gravity bomb. Is it a good idea to throw out one of these when I can barely move and the target is dangerously close to me? Probably not! Do I have a choice? Not really!
+
+Lousy slugs. I’ll get them for this!

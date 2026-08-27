@@ -1,0 +1,101 @@
+---
+id: 7393f952-bc17-5a24-b5c9-4a56ba440371
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1746 - Sentencing"
+slug: 0398-chapter-1746-sentencing
+partOf: chrysalis
+position: 398
+ownLength: 1167
+unit: words
+ownProgress: 1167
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3110285/chapter-1746-sentencing"
+royalRoadId: "3110285"
+markedReadAt: "2026-06-29T19:56:31.712Z"
+---
+
+Less than an hour after the fallen Priest had left him, Alir was taken from his cell. The ants did not bother to communicate with him, nor did they bring a human to answer his questions. A lack of courtesy that had not been present until this moment.
+
+He really told them.
+
+Deep down, the Grand Priest had not truly believed that Beyn, although he had fallen far, would really inform the ants that he had been the one to perform the ritual. It was a baseless accusation, he had no evidence! Even if he did, he knew what would happen to the Colony if they executed a Grand Priest of the Way.
+
+Tensions were already high within the Dungeon and the Church was agitating against the monsters in every throne room, every council chamber and every board meeting across Pangera. Defeating the Judgement Battalion may already have been enough to light the tinder, but sentencing him for a completely legal act?
+
+It was madness. Madness!
+
+And yet… hadn’t he said it himself? Beyn was surely insane. The Priest was a lost cause, unworthy of reeducation. What of the Colony, then? Had they no sense of self-preservation? They had been just as active as the Church had been in trying to sway opinion towards them. Trade, games, gifts, every trick in the book. They had to know what would happen.
+
+Alir didn’t want to die.
+
+Not to monsters. The very idea of it seemed unholy and backwards. Monsters existed for the sole reason of strengthening the faithful, he sincerely believed that. Those who died in the Dungeon were simply lacking in belief, or unworthy of the Path’s gifts. Alir Vinting was neither of those things. All his life, he had been devoted. He had progressed along the Path, advanced his Class, worked tirelessly for the exploitation of the Dungeon and uplifted the Church. He would not die this way!
+
+When he was delivered, like a portion of food, to the feet of the giant ant monster that had terrorised the Judgement Battalion, all the defiance and anger Alir had felt melted away, evaporating into mist. This creature did not care for his service, did not care for his views or sentiment.
+
+Even standing in its presence was difficult, so suffocating was the aura of power that rolled from it. With eyes like gleaming jewels, it looked down at him, mandibles twitching, and he couldn’t help but picture what they would do to him if he were to be bitten.
+
+Its mind connected to his so quickly he didn’t even have a chance to rebuff the contact. Like a puppy gripped by the scruff of its neck, he was held up and examined, falling limp and unable to resist.
+
+[I know you,] the ant said to him.
+
+Alir tried to think of nothing, to communicate nothing, but that was impossible. The monster was already beyond his guard. They had indeed met before, within the Silver City.
+
+[You already had your eyes on us back then,] the ant mused, its voice thundering inside his head. [Well now. This will be unpleasant, for both of us.]
+
+There was no apology in the creature’s tone, and that was all the warning Alir received. Immediately, the beast began to rummage through his mind, hunting through his memories like a scholar flipping through the pages of a book. It wasn’t painful, not exactly, but it was extremely uncomfortable.
+
+[This… is illegal,] he managed to push out as he grit his teeth.
+
+[Plenty of evil things are legal,] the ant refuted him, not really paying attention. [For example, what you did to my sister. So why wouldn’t this?]
+
+That was the memory Alir was most desperate to hide, but the more he tried to avoid it, the more the ant dove towards it, seizing on his every weakness and moment of doubt to pry a little deeper and reveal a little more.
+
+Eventually, there was no avoiding it, the creature’s mind was overwhelmingly powerful compared to his own, and it pried him open easier than a person eating shellfish.
+
+In full and excruciating detail, the ant went through every moment of the process. From the successful abduction of the ant, to the final drop of essence that had been harvested from its lifeless form, not a single detail was overlooked, not one second passed over.
+
+CRACK.
+
+Alir jumped in fright, unable to contain himself as those two gigantic mandibles crashed together. He could almost feel them snapping shut around his neck, but they did not. Not yet.
+
+[I see,] the ant said. [Beyn was right. You were the one.]
+
+[You can’t kill me!] Alir shrieked across the mind bridge. [You will surely spark a war that you cannot afford!]
+
+The ant tilted its head slightly.
+
+[Kill you? Why do you think I would ever let you off that easily?]
+
+It let that thought ring and echo inside Alir’s head and turned to one side as he tried to process what he had heard. What did they intend to do to him? What horrors were these insects capable of inflicting on those they believed had wronged them?
+
+There was a flash of light and another, smaller ant appeared, as if materialising from thin air.
+
+[Is this the one?] it said.
+
+There was an underlying disgust in the newcomer's tone, as if it didn’t want to be here, wanted no part in this process.
+
+Was this to be his executioner?
+
+[This is him,] the giant ant confirmed, not bothering to exclude Alir from the conversation. It truly thought so little of him.
+
+[Well… if anyone deserved it, this is them,] the little ant sighed, then addressed him directly. [Hey, you. Which arm is your favourite?]
+
+It stood, watching him, waiting for an answer. Alir felt his mouth go dry. They were going to take an arm? His mind raced. If all they did was take a limb, he could consider himself to have gotten off lightly, but he felt sick at the thought of losing an arm.
+
+[I’m left handed,] he lied.
+
+[I’m in your head,] the giant ant reminded him, irritated.
+
+[Right arm, then,] the little ant confirmed. [Well come along. I don’t want to take any longer on this than I have to.]
+
+[What are you going to do?] he asked, scared to hear the answer, but more scared not to know.
+
+The little ant prodded him, getting Alir moving in the direction it wanted.
+
+[I’ve been told that your people have never been able to extract ‘essence’ from non-monsters. It was an interesting problem, I’ll grant you, but clearly none of them were Brilliant.]
+
+It took Alir a moment to understand just what was being said. Once he did, he felt the contents of his stomach rising up to the back of his throat.
+
+They hadn’t. They couldn’t.
+
+[Today, we are going to find out how your essence tastes,] the little ant confirmed for him, then clacked her mandibles disapprovingly. [Revolting, I bet.]

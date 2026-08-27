@@ -1,0 +1,81 @@
+---
+id: 1200c66f-c0d0-52b3-af39-9eb6697fdc6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1741 - Return and Reflect"
+slug: 0393-chapter-1741-return-and-reflect
+partOf: chrysalis
+position: 393
+ownLength: 1043
+unit: words
+ownProgress: 1043
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3085900/chapter-1741-return-and-reflect"
+royalRoadId: "3085900"
+markedReadAt: "2026-06-29T19:56:22.086Z"
+---
+
+Logistics is… not my area, yet being organised seems to be something that the Colony is only getting better at. Tiny, Crinis, Invidia and I march back to the nest at the rear of the column, making sure nothing goes wrong, but absolutely nothing does. It’s almost disappointing how smooth it runs.
+
+Despite how vigorous they were during the battle, the Church soldiers appear almost listless, drained of energy and willpower. Just to be safe, their officers were separated and strict safety measures were taken, but none of them appear to have been necessary.
+
+With my presence, the monsters in the tunnels avoid us, despite the abundance of food, and when we return to the nest, the captives are placed into the holding cells and locked away with barely a whisper. From what I’ve heard, the healers are a little concerned about them, thinking they might be suffering some sort of degenerative condition. Well, as long as they’re in our care, they’ll get decent meals and medical attention, so hopefully nothing bad happens. The last thing we need is for the Church of the Path to have another excuse to point the finger at us.
+
+Hopefully we can ransom them back to the Church for a hefty profit and move on with life. The thought of extracting some wealth from that dreadful organisation gives me some small sense of satisfaction, but I can’t say it’s nearly enough. Making them pay a little here and there is nice and all, but to get the full value of what they took from us, it’s going to take something rather special indeed.
+
+Still, we made it back to the nest, the battle went about as well as could be expected, and the… acquisition project I sent the Nameless on was completely successful. Any minute now, Merchant will be making contact and seeing how enthusiastic the people of Green Mountain are about getting their delvers back.
+
+Gweheheheh.
+
+In the meantime, I have a few things I need to be thinking about. Namely, the extremely positive results from my new organs. Regeneration network, very happy, two thumbs from Tiny, way up. Maybe even a flex of approval.
+
+Mutations have just pushed the thing from ridiculous to fully absurd. This is a level of healing I’m not sure I’ve even seen outside of something like Grokus, but without any of the downsides he had. It was obscene, to put it mildly. Despite the length of the fighting and the sheer volume of healing fluid generated, I still didn’t experience anything like the sort of fatigue Granin described to me either, so the Vestibule seems to have counteracted the stamina requirements completely.
+
+As far as the industrial complex in the back-zone is concerned… I’m almost scared of the thing. My test shot showed me just how potent the produce had gotten back there, and the single delivery I made at the start of the battle was, frankly, worrying. Rather than acid, it feels more like shooting a slime-virus with a nearly bottomless appetite. The possibility for collateral damage is, put simply, out of control. I’ll have to be careful how I use it in future.
+
+As far as mutating it goes… holy moly, I don’t even want to think about it.
+
+Last but not least, I’m quietly pleased with the Everflowing Well. Although it wasn’t as show-stopping as the other two on the outside, I certainly used it. Having that reservoir of mana to draw on was extremely handy. I entered the battle after already using it, a hefty store of energy already contained inside me. Once I started to draw down on that power, I triggered the organ again, replenishing my supply.
+
+Even though I wasn’t able to seize and pull in much of the ambient mana, due to the sheer volume of minds around me wrestling for control, I didn’t get close to running out. In my opinion, the Everflow Well was the quiet, understated star of the show.
+
+Never running out of healing, energy or even mana, I am truly built to last.
+
+Indeed, the Everlasting Paragon.
+
+This little border dispute has been a nice testing ground for my new evolution. I’ve gotten comfortable in my body, tested out the new organs, done some initial mutating. As long as things go well with Merchant, I’ll soon be free to go down below and wreak terrible vengeance upon the cursed slugs. I’m really looking forward to it.
+
+But for now, there is someone who needs reprimanding.
+
+The individual in question is currently kneeling, face pressed rather firmly into the dirt, probably too firmly, if I’m being honest. Beyn the one-armed Priest has been brought before me, ready to receive the extremely justified antenna-lashing that he deserves. I can practically see the fear in him, he’s trembling like a grub while he kneels down there.
+
+I catch myself extending an antenna down towards him.
+
+Wait! No! He’s not a grub, he’s very naughty and does not deserve to be tickled, nor rolled!
+
+Rather than reach out with my mind and get a headache from being yelled at, I decide to communicate with pheromones exclusively.
+
+“Well,” I say, “what do you have to say for yourself?”
+
+The quivering, hunched shape on the ground grows still, and for a second I’m not sure he’s realised I’m talking to him. Then…
+
+“GREAT ONE I AM NOT WORTHY OF YOUR BLESSED AND HOLY SCENT! PLEASE ALLOW ME TO—”
+
+“Loud! Why are you always so loud?! My antennae are itching. How is it even possible to produce that sort of quantity of pheromones? Sheesh!”
+
+“I AM SHAME—”
+
+“You’re loud, is what you are.”
+
+I see the huddled figure struggle to master himself.
+
+“I apologise, Great One.”
+
+Every time with this guy. Dealing with him is exhausting. Frankly, if I didn’t feel so bad for sort of accidentally biting his arm off that one time, I wouldn’t try so hard to put up with him.
+
+“I HAVE—*ahem*—I have no excuse for my behaviour. Seized with enthusiasm and holy zeal, I disrupted your strategy and led my people into danger. As your Prophet, I cannot be allowed to make such mistakes and lose control of myself.”
+
+That’s… very reasonable. Surprisingly so.
+
+Hang on.
+
+“As my WHAT?!”

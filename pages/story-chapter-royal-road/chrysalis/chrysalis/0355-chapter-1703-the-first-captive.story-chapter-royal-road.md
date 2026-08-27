@@ -1,0 +1,93 @@
+---
+id: f727642c-1ddb-5c38-bb81-cdfedf96297d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1703 - The First Captive"
+slug: 0355-chapter-1703-the-first-captive
+partOf: chrysalis
+position: 355
+ownLength: 1013
+unit: words
+ownProgress: 1013
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2837419/chapter-1703-the-first-captive"
+royalRoadId: "2837419"
+markedReadAt: "2026-06-29T19:55:10.248Z"
+---
+
+What should I do? Should I cook him? Slowly roast this priest while turning him over a spit? Or boiling? Boiling is good! The flavour of evil and corruption will permeate the water and we can use it to poison the wells at Green Mountain. Oh, I haven’t felt this… this alive since the traitorous worm was captured!
+
+I’m… I’m so free!
+
+MUAHAHAHAHAHAHA!
+
+[Anthony! This is a Priest of the Path! You need to stop prodding him with your antenna!]
+
+What? How dare Morrelia try to reduce this creature’s torment?
+
+[Nothing shall cause the poking to cease!]
+
+Yes… yessssss. The Priest looks very uncomfortable, and also deeply terrified, as I continue to give him sharp pokes with my antenna. Will it be the left, or will it be the right? THE LEFT! Muahahaha! And now… THE RIGHT!
+
+As I jolt him from side to the side, the priest can do nothing but tremble with fear. Well, there may be loud protesting as well, but I’m not listening. In fact, now that’s come to this, I shall poke with both antennae at the same time!
+
+[That’s enough!]
+
+It isn’t Morrelia who intervenes this time, but Chyron, stepping in the way and knocking my antennae aside. Which stings, by the way. Those are sensitive organs. I have to work hard to keep them out of harm’s way during combat, and now people keep hitting them.
+
+[You know what these priests do to monsters, don’t you Chyron.]
+
+It’s not a question. I know that the Legion and the Church have a relatively cozy relationship. Not that anyone in the world seems to get along perfectly well with the Abyssal Legion. They’re so stubborn and unbending that literally everyone seems to have had issues with them at some point in history.
+
+[You’re telling me you’ll let them do that to my siblings, but you can’t stand to watch one get mildly inconvenienced by my antennae?! It’s outrageous!]
+
+[What do you mean ‘mildly inconvenienced’? Look at the man!]
+
+I’ve been looking all this time… oh… uh… whoops. Perhaps I was a little too enthusiastic with my pokes. The priest’s face is swollen and bruised… and it seems as though his arm might be broken. I uh… did not intend to do that.
+
+[If you’d actually hit him with both antennae, he’d be dead,] Chyron snaps at me.
+
+Well… I do feel a little bad. I think I was perhaps a little blinded by my entirely justified rage.
+
+[Ah… my bad. I wasn’t trying to actually hurt him.]
+
+Much.
+
+[I don’t think anyone is going to find that very convincing,] Morrelia mutters in my head.
+
+[You three don’t seem all that interested in defending the delvers that I caught. What about them?]
+
+[You aren’t actively breaking them apart,] Morrelia points out with admittedly flawless logic.
+
+[Bah! Fine. I’ll leave this priest alone, but we aren’t selling him back like we are the others. The Colony will keep this guy, and every other priest we capture.]
+
+[That’s not a good idea.]
+
+Not Morrelia this time, but Chyron. She gives her usual, grizzled stare, and I know exactly why.
+
+[It’s a terrible look, it’ll stir up tension, it’ll give excuses, and it makes us look like unruly monsters. I get it.]
+
+Chyron might want me and every other ant to be destroyed, but she’d rather we didn’t cause too much of a disruption in the process of being obliterated. If the Legion wasn’t already stretched to the limit trying to hold the Dungeon down through these repeated waves and rising mana levels, they would have smashed the Colony by sending five Legions rather than the one they did manage to attack us with.
+
+And that had nearly been enough!
+
+[We won’t keep them forever, but we are going to extract something meaningful from the Church if they want them back. I refuse to release these… people, and I use that term reluctantly, without getting value.]
+
+Behind me, the rest of the captives are being sorted by my siblings. Tiny stands over them, staring hard at each and every delver who walks past him, no doubt a flurry of ghost fists heading their way each second. For some reason, the delvers are reluctant to meet his eyes, can’t imagine why.
+
+Honestly, they’re getting much better treatment than they deserve. They’ve been captured by the very monsters they came to hunt, and get to walk away once we get paid for them. If that isn’t the sort of big-hearted forgiveness that Pangera wants to see, then I don’t know what is. They sure wouldn’t have extended the same courtesy to one of us.
+
+If I’m being totally honest, though, we aren’t treating them entirely well.
+
+“HOW DARE YOU PROFANE THAT WHICH IS SACRED?! HEATHENS! REPENTANCE IS YOUR ONLY WAY TO THE TRUE PATH!”
+
+I decided to let Beyn and his crew take charge of the prisoners. He’s currently ‘welcoming’ them with a truly thunderous greeting delivered, for some reason, about two centimetres from their faces. The other ant-robed members of his clergy are lashing the delvers with cuddly ant toys and clacking at them with these strange wooden… mandibles?
+
+Wait. Have they created a wooden facsimile of our mandibles to try and recreate the sound we make while chomping? They have!
+
+There’s no hope for these people.
+
+“YOU MUST BE SCOURGED TO RELEASE THE FOULNESS IN YOUR SPIRITS! LASH THEM, BROTHERS AND SISTERS. LASH THEM WITH THE FORMICA OF SHAME!”
+
+I have no idea what he’s on about, and I don’t want to. That lousy priest fell over foaming at the mouth the second he saw me, and I have completely refused to let him speak with me since. The power of his voice is enough to rattle my antennae, I don’t even want to know what his pheromones Skill can do to them now that he’s had so much time to practice with it. At least there’s no reason for him to go blasting me straight in the brain with that volume again. I’ll talk to him when he calms down.
+
+Maybe.

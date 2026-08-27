@@ -1,0 +1,95 @@
+---
+id: 4c8fc89b-655f-5bae-9fa7-055c49d8b489
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1796 - Returning to the Fortress"
+slug: 0448-chapter-1796-returning-to-the-fortress
+partOf: chrysalis
+position: 448
+ownLength: 1092
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3416569/chapter-1796-returning-to-the-fortress"
+royalRoadId: "3416569"
+---
+
+When I finally see the entrance to the fortress in the distance, I almost sag with relief. Not because I've been really suffering over the last few days, but because these Legionaries are really annoying. Yes, I'm a giant monster, you hate monsters and all that, we get it, this isn't new or surprising for anyone, but every time my attention drifts, I find them eyeing me up like I'm a delicious turkey they don't know how to slaughter.
+
+Always muttering amongst themselves, looking at me sideways, acting all suspicious. I swear a few of them threw rocks at my joints, testing for weakness, but I wasn't able to catch them in the act. I'm pretty sure, though. The rocks didn't throw themselves, dammit!
+
+If they actually tried anything, I'm sure Protectant and the others would have jumped on them in an instant, but if all they do is talk and make me paranoid, then there isn't really a case for a dramatic intervention. Considering I haven't slept, and neither have they, over thirty-six hours straight of this nonsense is more than enough.
+
+[There it is, the fortress. Inside you'll find Commander Chyron and her Legion, who I'm sure will be more than happy to see you. I'm out of here.]
+
+[It’s rather large,] Commander Eliza notes. [How did you manage to build it so quickly?]
+
+[We're ants,] I tell her, as if that explains everything. And frankly, it does. We're industrious, what else can I say? [This isn't the only fortress like this that we've built down here.]
+
+[How many are there?] she asks, probing for information.
+
+[I have absolutely no idea,] I reply.
+
+Hah! Imagine probing me for information. I have no idea what's going on down here and I like it that way. Someone else can work out all the tricky details, just call for me when they need some help.
+
+Thankfully, we've made it into the area covered by the cleansed mana, another thing that Commander Eliza didn't seem to understand. In her opinion, it was 'impossible' to overcome the native mana of the fifth and its self-replicating and corruptive properties. What could I tell her other than that they should have tried harder?
+
+Understandably, the Legionaries want to wait outside until Chyron or one of the others comes out to get them, which is perfectly reasonable, I suppose, but I sure as heck am not going to stand about waiting with them. As soon as they're comfortable, I head on inside and find Tiny, Crinis and Invidia waiting for me.
+
+[Hey there, gang. How is everyone?]
+
+Tiny gives me a broad grin on his bat-face and a thumbs up.
+
+[Good,] he tells me.
+
+[I havesssss been mossssst helpful,] Invidia purrs, looking immensely pleased with himself.
+
+Crinis, counter to what I've come to expect from her, does not dive inside my carapace and start rummaging around between my organs. Which is a good thing.
+
+[Master, you are late,] she tells me pointedly.
+
+[Yes, well. I'm perfectly fine, as you can see, but there were a few unexpected twists out there.]
+
+[I suppose that isn't your fault,] she says, finally approaching and plopping onto my back.
+
+This is unusually reserved behaviour from Crinis... which is making me worried.
+
+[Did you... do anything wrong while I was away?] I ask suspiciously.
+
+[Of course not,] she says calmly. Too calmly.
+
+I need to get to the bottom of this... but for now, I let it go. I've been promising myself I'm going to go and touch base with the Templars, and I've kept them waiting a heck of a lot longer than I intended to. Using the Vestibule, I could have reached out to them any time, of course. Each of them has a permanent home within the Nave, so to speak, but I generally don't like talking to people through it. Feels a little invasive., so to speak.
+
+Chatting and laughing with the gang, I move through the fortress, deliberately avoiding going where Solant might find me, and head to the location of the Templars. Conveniently for me, they appear to have gathered in one place, making it a heck of a lot easier to track them down.
+
+I only run into trouble when I realise they've parked themselves in a spot I simply don't fit inside, namely the human quarter of the fortress. Obviously, the corridors here haven't been designed with monsters in mind, especially monsters of my size, and therefore I just don't fit. With no other choice, I am forced to reach out to them through the Nave and speak directly into their minds.
+
+[Hello there! I've come to pay a visit! How is everyone? Feeling... uh.... human? I suppose?]
+
+[Wha? What?]
+
+[Who?]
+
+[Greetings, Great One.]
+
+As it turns out, they were sleeping. Well, the older ones were sleeping, the three kids seem to have been wide awake for some reason. Which means this is probably a dorm of some sort. That makes a lot of sense. After a while, the six of them pile out of the corridor, having refreshed themselves and put on some clothes.
+
+[Good morning!] I greet them with enthusiasm. [Or at least, I think it's morning!]
+
+[It isn't,] one of the young ones, Emilia, tells me. [It's closer to the middle of the night.]
+
+[Oh.]
+
+I really should find a better way to keep track of time. Pangera does have a regular system of time, as it turns out, synched to the day/night cycle on the surface. It was only when we reached the fourth stratum that we realised everyone else was running on this clock system and we eventually adopted it, but I am, as usual, late to the party and haven't really bothered keeping track of it.
+
+[I'm really sorry to disrupt your sleep, then,] I say, scratching at my head with an antenna, feeling a little embarrassed.
+
+The three youngest nod seriously, while the others wave away my concerns.
+
+[It's fine,] Jern says, yawning. [I was about ready to wake up anyway.]
+
+Alis snorts a laugh before she blushes and claps a hand to her face.
+
+Bertran, the oldest of the group, reaches up and pats me on the leg.
+
+[At my age, it's hard to sleep through the night anyway. I'm happy to pop out and say hello. You certainly got a fair bit bigger! I don't think I've seen a larger monster down here.]
+
+[Of course not. I'm a magnificent tier eight Mythicmythic! But enough about how shiny and incredible I am. How have you all been?]

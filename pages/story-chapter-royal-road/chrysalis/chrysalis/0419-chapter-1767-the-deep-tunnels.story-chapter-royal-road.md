@@ -1,0 +1,57 @@
+---
+id: 683ceb85-88ab-5909-90f3-c636a26fa453
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1767 - The Deep Tunnels"
+slug: 0419-chapter-1767-the-deep-tunnels
+partOf: chrysalis
+position: 419
+ownLength: 1036
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3246037/chapter-1767-the-deep-tunnels"
+royalRoadId: "3246037"
+---
+
+If I were to state the difference between what I saw higher up in the fifth and the tunnel in which I find myself, I would say that this tunnel has a more advanced stage of the same disease.
+
+It’s indescribably disgusting, positively choking with corrupted mana, the very air feels wet against my carapace. When I wave my antennae they become clumped with sticky mucus, catching floating droplets of sickness straight from the air. Every part of my body is sizzling with an acidic burn that thankfully can’t overcome the healing I have stocked up.
+
+Even the walls of the tunnel, fleshy, with thick rings of cartilage at semi-regular intervals, tremble and shudder under the weight of the infection. Chunks of flesh just slough off the ceiling, slithering worms and parasites diving away to hide before their former home even hits the floor.
+
+Visibility is poor, mould spores fill the air along with the seemingly endless strands of swaying phlegm, making it difficult to see, difficult to move without feeling as though you are falling ill with every step.
+
+It’s awful, is what I’m getting at. Absolutely awful. I can’t imagine any environment in all of the Dungeon could possibly be worse than this, but I don’t think that too loudly, just in case Gandalf is listening. This is one instance where tempting fate simply will not fly. If a place worse than this exists, I don’t want to see it. Heck, I don’t want to hear about it.
+
+This is like pneumonia caught the flu. This is like an infection married an infestation and had children.
+
+Filled with disgust, I start to pick my way forward and can’t help but shudder with every second step. The ground beneath my legs is spongy and wet. With every step, I feel little nibbles and soft, probing touches from the thousands of creepy things trying to find a way to burrow into my flesh.
+
+Once again, the supremacy of the external carapace has been demonstrated. Just imagining my soft and vulnerable bits being on the outside in this place fills me with horror. Absolutely not!
+
+I barely manage to take ten steps before I come under fire again. Not from the Krath this time, but the native monsters fancy their chances, apparently. Spikes, acid, clumps of questionable, disgusting goop are fired at me from almost every direction. Jumping back, I avoid much of it, and it doesn’t take long for me to find the culprits. Hidden amongst the thick mold clinging to the roof and walls are car-sized hunks of sodden meat. Eyeless, but with truly awful ring-shaped mouths filled with dripping fangs the size of a person’s arm, they shoot their projectiles from a variety of tube-ish appendages.
+
+If I were to guess, I’d say the Krath cultivated them there to guard the tunnel against intruders, using the horrors of the fifth to their own advantage, as was their way.
+
+Keen to move forward, I light up the Dragon’s Breath, only to find even superheated dragon fire isn’t immune to the sodden atmosphere down here. I’m eventually able to get the job done by putting some extra oomph into the spell, compressing the mana and forcing more energy into it. It takes a few minutes, but I manage to burn down all of the nearby sentinels, only to then have to turn around and blast myself when some of the stuff they hit me with starts to grow on my carapace.
+
+I hate this place.
+
+There’s nothing to do but move forward, however. Keeping the fire ready in case I need it, which I do. Frequently.
+
+Despite their best efforts to be all sneaky, I can still sense the Krath. They’re not far away, slithering through their own network of crevices and cracks running adjacent to the main tunnel. This place is so horrible that even they don’t want to be out here.
+
+Right now, they’re just shadowing me, trying to keep in touch and observe me as best they can, which is why I’m keeping my cards close to my chest. Thankfully they’ve installed a lot of guards and protections in here, monsters who aren’t intimidated by my tier eight aura and are more than happy to throw down. This keeps my regeneration network ticking along nicely. Since the Everflowing Well is ready to use again, I go ahead and start feeding in mana to kick off the process. No harm in being overprepared.
+
+The further into the tunnel I get, the more Krath I can sense. There’s a lot of activity nearby, tiny vibrations in the gravity field that are so infinitesimally small as to be almost imperceptible, but I can find them, if only just. There are dozens of them around me now, but so far they refuse to make a move. Perhaps they have something else in store for me? Or are they just hoping I’ll get worn down by the toxins and turn back?
+
+Hah! Thanks to the Pure Core, there isn’t even a stray mote of corrupted mana inside me, and I’m easily healing all the damage the environment is doing to me. Despite this, my progress is glacially slow. I’m placing my legs carefully as I advance, trying to avoid the worst of the goop which is just… everywhere.
+
+After another ten minutes of carefully advancing, I stop in place, my senses sharpening as I detect a change in the environment. I can’t see more than a hundred metres ahead in this place, forcing me to rely on my mana sense and antennae to pick up on threats, and it’s the mana sending me warning signals right now.
+
+Something big is moving up ahead. Not especially quickly, but it’s a chunky thing, to be sure.
+
+I back up a little and lower my stance. I’ve learned not to underestimate the monsters down here, they’re nasty pieces of work, and I don’t doubt that this is yet another defense mechanism that the Krath have cooked up.
+
+They’ve probably lured this monster here in order to observe the battle and learn my weaknesses. Always sneaky and cunning little sods, the Krath.
+
+If they want a show, I’ll give them a show.

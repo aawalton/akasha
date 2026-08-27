@@ -1,0 +1,85 @@
+---
+id: 01c230f1-bda7-52ec-9e5b-1f5d67beeed7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1778 - General Plans"
+slug: 0430-chapter-1778-general-plans
+partOf: chrysalis
+position: 430
+ownLength: 1050
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3307532/chapter-1778-general-plans"
+royalRoadId: "3307532"
+---
+
+Solant, as was usually the case when she wasn’t pulled away with the various demands of the Colony, or the Eldest, was examining the map. In the brief moments when she allowed herself to stop thinking about the invasion, she did like to admire the craftsantship that went into its construction. There were many things the crafters did that she didn’t particularly value. Michaelangelant, in particular, was an eccentric, and in her opinion, wasteful individual.
+
+Statues. What was the point of statues? Having the Eldest staring at her whenever she walked around a corner was distracting at best.
+
+But this? The three dimensional map that grew and changed, a living document that perfectly replicated the terrain the Colony had claimed and over which it still fought? It was… and she hesitated to use this word… beautiful.
+
+Perfect in function and form, she loved to study it, to let her mind whirl down the twisting passages and curved tunnels. There was truth to be found within, the solution to her problems, the breakthrough the family needed.
+
+Victory was right there within her mandibles, she could feel it, could almost taste it.
+
+“No need to worry, it’s all taken care of.”
+
+And now, a different sensation crossed Solant’s senses. An earthy scent, a hint of flame and ash, along with the un-ant sounds of fabric and metallic decorations.
+
+“What is it that is taken care of?” Solant asked, feeling somewhat wistful thinking of her now lost moment of peace and reflection.
+
+“The invasion,” Merchant declared. “It’s all taken care of.”
+
+“Oh?” Solant turned back to the map, where the many, many zones of conflict still marked all of the moulded stone. “It would have been nice if someone had told me.”
+
+Sarcasm did not come naturally to ant-kind, and Solant did not employ it now, she was simply confused.
+
+“That’s why I’m here,” Merchant laughed, pulling out a thin silver case from her satchel and opening it with a soft click. “Care for a celebratory cigar?”
+
+“I… no,” Solant declined.
+
+“Suit yourself,” Merchant shrugged, removing one of the deep brown items and placing it in her mouth before snapping the case shut and putting it away. “I wanted to be the first to tell you, so it took a little longer than perhaps was necessary for the news to reach you.”
+
+“Do you plan to let me know what it is you’ve actually done?”
+
+“I’ve got the Atreum Empire planning their first invasion of the fifth for over three hundred and seventy years,” Merchant said, lighting her cigar with a snap of her claws. “Once they go, others will follow. Give it a few months and the Krath will be dealing with three or four separate invasions, not just ours.”
+
+Merchant took a long and contented puff, her glasses glittering in the reflected light of the command centre. “You’re welcome.”
+
+“For what? More problems on my plate?” Solant sighed, examining the map once more. “Three more invasions might mean relief from the Krath in the short term, but it means three competitors in the long. Are you suggesting that territory in the fifth stratum has become valuable?”
+
+“It has,” Merchant nodded, “tremendously so. Mortals don’t seem to like ageing very much. Their fear of death would give Leeroy fits.”
+
+“As of this moment and far into the future, the largest holder of this immensely valuable land is the Colony,” Solant pointed out. “Once the Krath are dealt with, and the Atreum Empire is consolidating their new lands, with vast armies at the ready, far more than they need to garrison their gains, what do you think might happen next?”
+
+“That, my sister, is for you to worry about,” Merchant said with a quick bow. “In the short term, I’m sure the slugs having to fend off invasions from all over the Dungeon will cause them plenty of headaches, giving you the leeway you need to finish the job here and secure our gains.”
+
+She wasn’t entirely wrong. Once the Colony managed to push out the Krath and break through to the sixth, all that remained was fortifying and consolidating their territory, with possible minor battles of expansion. With the world's first safe passage through the fifth stratum, the Colony would be in prime position to descend and seize even more land below.
+
+Of course, it was important that nobody should know that they’d broken all the way through. Too much envy directed towards the family would be destructive, to say the least.
+
+“I’ll thank you, for now,” Solant said. “You delivered what you said you would. I will be sure to make the most of the advantage that you have won for us.”
+
+Merchant tipped an imaginary hat to her older sibling.
+
+Solant’s head was already spinning with the unfolding possibilities and consequences. There was a great deal that she needed to know in order to plan effectively, intelligence that needed to be gathered. Who would invade, and where? Perhaps most important of all, when? With precise timing, she could strike at the Krath when they were at their most distracted, seizing choice territory and claiming a few hearts that currently dangled just beyond her reach.
+
+Fortification planning should begin immediately. The Fortresses had been designed for a very specific function: to act as bunkers and mana purification engines. When the fifth was entirely cleansed, large portions of their design would become obsolete and the threats they needed to defend against would completely change.
+
+Front legs folded across her back, a pose that Solant had taken to adopting when deep in thought, she considered the future. If the Colony thought they had poured too many resources into the fifth already, they would shudder to know the cost of what was to come.
+
+It would be worth it, however, in the end. The Colony had fought and bled and died to hold this ground, to open up a future on Pangera that none had imagined was possible. She would be damned before she let anyone take it.
+
+“How much wealth have you managed to secure using our finds in the fifth?” she asked.
+
+Merchant clacked her mandibles joyfully.
+
+“A lot.”
+
+Solant nodded.
+
+“I’m going to need more. A great deal more.”
+
+Merchant laughed.
+
+“Now you’re talking my language,” she said with a wink.

@@ -1,0 +1,103 @@
+---
+id: d652620d-42b1-513e-82f3-3556f9d563ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1850 - Punching the Ocean"
+slug: 0505-chapter-1850-punching-the-ocean
+partOf: chrysalis
+position: 505
+ownLength: 917
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3856298/chapter-1850-punching-the-ocean"
+royalRoadId: "3856298"
+---
+
+An Avatar of storm and fury, the Guardian that the Eldest referred to as ‘Tiny’ is a fierce and mighty defender of the Colony. Apt to strike first and ask questions later, the Colony has often found that Tiny is best deployed in a defensive location, lest he spark an unintended conflict.
+
+- Excerpt from the private notes of Historiant
+
+Tiny loved punching. It was a simple pleasure, he didn’t deny that, but one that he found an endless satisfaction with. The coiling power of the muscles, the combination of balance and strength, the unwinding rotation of the body and the furious crescendo of power unleashed from his fist. It was enough to make his long fur stand on end… if it wasn’t already due to the lightning charge that ran through his body almost constantly.
+
+His powerful musculature, attached to his granite bones, made his base of strength perfectly stable, an electric charge just building and building, yearning to be released.
+
+A flicker caught his eye and Tiny turned, staring hard. There it was, a monster, creeping closer to the line. His mMaster had drawn the line, and Tiny had stared at it for so long, and so hard, that it was practically a real thing in his mind, a blazing stripe of red that ran all the way around the tunnel. Anything and everything that stepped across was fair game for Tiny to punch, but he knew he couldn’t punch everything. If he did, he would get tired, and then be unable to punch the things that really needed to experience the power of his fist. So he settled for punching most things.
+
+Right now, he hadn’t hit anything for over a minute and twelve seconds, so he was perfectly fresh and willing to hit whatever peeked over the line.
+
+Yes… it was coming closer. A strange monster, it looked more like a carpet of fibres, undulating and red, than a real creature, but it was a monster for sure. He could sense the mana of its core. Barely. Tiny wasn’t good at sensing.
+
+But he was excellent at punching.
+
+He stared. And stared. And stared. In his mind’s eye, he had punched the monster over a thousand times already, fists of pure intent flying out of him hundreds of times a second.
+
+Finally, finally, the monster wobbled over the line by little more than a millimetre. It was enough.
+
+A sense of peace settled over Tiny instantly. The waiting was over. There was no longer any need to hold himself back. Electricity would flow once more.
+
+Raising up to his full height, Tiny bounced on his feet, once, twice, three times. He rolled his shoulders, enjoying the surging electrical power that began to spark from his fur, rippling across the lightning- shaped silver fur on his arms. In one smooth motion, he tucked his fist, drew it back and rotated his body.
+
+At the same moment, power surged throughout his body. Reforged with Tempest Glass, his twin lightning mana affinity gLightning Mana Affinity Glands were engines that beat in time with the unrelenting force of the Storm Heart that pounded within his chest. As he reached the peak of his rotation, coiled like a spring, that vast ocean of raging current slammed into the Storm Generator, magnifying, twisting in on itself within the manifold until finally he began to unwind.
+
+Rotate the knee, the hips, the shoulders. No wasted motion, perfect form from start to finish. Don’t extend the fist towards the target, aim to punch through it, and Tiny did.
+
+At the same time, the Bolt Channels in his arms ignited, accepting the unleashed fury of the Generator. Lightning crackled, so bright as to be blinding, bonding into his Fulmen Silver Infused muscles and strengthening them.
+
+His Skill ignited, the first of pure energy sparking into existence around his own. As irresistible as a collapsing mountain, as inevitable as the raging storm.
+
+In an explosion of blinding radiance, Tiny’s straight right was unleashed.
+
+The monster exploded, the rock exploded, a lot of rock exploded. When the deafening crack faded and the blinding light dimmed, Tiny was left, fist extended, a satisfied grin on his face with the remnants of lightning crackling over his fur.
+
+That was a nice punch.
+
+Name: Tiny
+
+Level: 257 (Mythic) (VII)
+
+Might: 1050
+
+Toughness: 400
+
+Cunning: 30
+
+Will: 88
+
+HP: 800/800
+
+MP: 1519/2220
+
+Skills:
+
+General:
+
+MasterDivine Athletics (VI) Level 46; FlashFlicker Dash (V) Level 32; Grandmaster Dodge (V) Level 74; Expert Flight (III) Level 20;
+
+Mana:
+
+Defensive:
+
+Dazzling Fancy Feet (VI) Level 45;
+
+Offensive:
+
+Kong Fist Arts (VI) Level 101; Cloud Piercing Uppercut (V) Level 78; Meteor Leap (V) Level 74; Grandm Master Heavy Smash (V) Level 80; Grandmaster Grappling (V) Level 63; Punishing Smashing Blows (VI) Level 4; GrandmMaster Ape Jab (V) Level 40; Advanced Magic Counter (II) Level 10; GrandmasterDivine Kong Combo (VI) Level 15;
+
+Mutations:
+
+Senses:
+
+Physical:
+
+Fulminating Enhanced Musculature +35  (Fulmen Silver Infused Flesh); Fortifying Current Bones +35 (Earthblood Basalt); Storm Inducing Meteor Legs +35; Thunderous Sonic Enhancer +35; Park-Fueled Energy Conversion Gland +35; Loom-Woven Shadow Wings +35; Shocking Tesla Fur +35; Regenerative Storm Fists +35; Unending Storm Heart +35; Hardened Regenerating Tendons +35
+
+Mental:
+
+Mana:
+
+Storming Lightning Mana Affinity Gland +30 (Tempest Glass); Storming Lightning Mana Affinity Gland +30 (Tempest Glass); Arcing Lightning Ignition Gland +30; Arcing Lightning Ignition Gland +30; Manifold Enhancing Storm Generator +35; Instant Transmission Bolt Channels +35.
+
+Species: Elder Kong of the Storm Summit (Mythic)
+
+Skill points: 311
+
+Biomass: 68

@@ -1,0 +1,107 @@
+---
+id: af0ab9bb-94eb-5e8c-8323-8cf810d20919
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1752 - Expanded Nursery"
+slug: 0404-chapter-1752-expanded-nursery
+partOf: chrysalis
+position: 404
+ownLength: 1301
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145669/chapter-1752-expanded-nursery"
+royalRoadId: "3145669"
+---
+
+As it turns out, the nursery isn’t quite where I remember it being. The fortress is still absurdly vast, and rooms are being repurposed all the time. One of the resident Brood Tenders, a lovely sister of mine by the name of Tendant, leads me to where I want to go and explains the reasons behind the shift.
+
+“As our territory has expanded, we’ve gained control of more Krath villages. Hundreds, at this point. They aren’t always able to evacuate properly, the poor things.”
+
+The Brood Tender clacks her mandibles despondently, and I can’t help but wonder if the innate compassion of her caste has gone a little too far. All Brood Tenders should be loving, caring teachers for the young, of course, but feeling sorry for the Krath? I mean… they’re the Krath! A nastier, more conniving and generally yucky species has yet to be found on Pangera. Literally!
+
+“Leaving behind their eggs must be such a painful decision,” the Tender goes on, unaware of my inner conflict. “And not all of the eggs survive the transition, which is just… just awful. Even so, we have managed to recover many more viable eggs and hatch our darling little snails. As a result, we needed to greatly expand the snailcare facility.”
+
+“Well… how many snails do we have now?” I ask.
+
+From what I remember, there weren’t that many of them before. A few dozen, maybe a hundred?
+
+“Over two thousand,” Tendant tells me brightly. “We’ve had to divide them into smaller groups. They really don’t like being over-crowded. The last hatching was just a few days ago. They’re so small just after they hatch. So precious.”
+
+Two thousand?!
+
+That’s… way more than expected. At this rate, we may actually have a viable population of these cleansed Krath. Will the Chal Empire return to its former glory? Under the protective umbrella of their ant allies, of course.
+
+“Well, I just came to see the first group.”
+
+“Oh, I’m sure Theresant won’t have a problem with that,” Tendant informs me as we arrive out the front of two large doors carved with an intricate depiction of ants and snails working together in harmony.
+
+As it turns out, Theresant is slightly worried about letting me see the Chal.
+
+“Aren’t you being a little too protective?” I say, irritated.
+
+After arguing with her for ten minutes, I’m starting to get a bit offended.
+
+“Just what is it you think I’m going to do to them?”
+
+“You are well known for tickling the grubs and rolling them around, Eldest,” she informs me, a little snippily.
+
+“Not anymore,” I protest. “I’m much too large and my antennae are way too heavy. And I resent the implication I would happily crush the snails to death! Do you think I have that little self control?”
+
+Still visibly reluctant, Theresant finally lets me inside the facility. I’m sure it’s because of my persuasive arguments and not because I threatened to just walk through the wall. After all, I’m famed for my reasonableness.
+
+Unfortunately, I’m too large to actually go inside the rooms dedicated to the care of the Chal, so Theresant has kindly offered to bring them out to see me.
+
+I have to say, the snailcare facility really does have a tranquil and nurturing feeling about it. The air is still and peaceful, every ant in the place moves with a grace and quiet joy that seems to suffuse the very stones. Inside the courtyard in which I’m waiting, there are several different gardens, each based on a different theme, the arrangements evoking different thoughts and feelings from the viewer. This feeling is… almost spiritual.
+
+And the sounds! I can’t quite describe it. I can’t really hear anything fully, but through the general quiet I can detect the odd note that hangs in the air, quivering with an energy and life all of its own.
+
+I have to wait a while. At first I thought Theresant just lied to me, but then I have to concede they are snails, and not very large ones at that. I can’t expect them to move quickly. They don’t call it ‘snail’s pace’ for nothing.
+
+When Theresant returns, she is visibly fretting, hovering over a group of snails accompanied by an almost equal number of Brood Tenders.
+
+This time I am offended! Is that really necessary? Sheesh!
+
+For their part, the snails appear completely relaxed. Their eyes, atop their little stalks, are filled with peace and almost half shut, while their long, thin moustaches flow down their faces to trail on either side of their bodies. They really are a sight to see, these snails. Perhaps they have changed as they’ve gotten older, but their skin is a soft golden colour that seems to be glowing from within, while their shells are like precious jewels, gleaming and sparkling upon their backs.
+
+In silence, they approach before stopping just a few metres away from one of my legs. Slowly, they form themselves into a neat formation, evenly spaced, and then look up at me, unblinking.
+
+Uh…
+
+“How are we supposed to talk to them? Do they understand pheromones? Or should I whip up a mind bridge?”
+
+“Absolutely not!” Theresant snaps. “Their minds are too fragile to be subject to such magic. They are still infants!”
+
+Well, sure, they’re not a year old yet, but they look pretty darn wise if you ask me. Maybe it's just the moustache, but these little guys give off an almost ancient wise-guru sort of vibe.
+
+Still, it wouldn’t do to just ignore the advice of a Brood Tender, so I figure I may as well say my thanks using pheromones and hope somebody can translate it for me at some point. Before I can relay the message, the lead snail begins to hum.
+
+Just a single note, but that pure, impossibly clean note sings along my antennae and stuns me into silence.
+
+Following the first, another snail hums a note, then another, then another. One by one, each of the little chal joins in until all of them are humming and the hairs on my antennae are dancing the viennese waltz.
+
+The pure perfection of it is enough to bring an imaginary tear to my very corporeal eyes. Carried away by the sound, I don’t even feel the passing of time; all of my brains, all my mind constructs are simply absorbed in experiencing the all-encompassing sound produced by the snails.
+
+And then, abruptly, it is over, all sound is cut off and I snap back to myself, looking down at the snails who appear somewhat wan and fatigued. Even their moustaches look a little less regal than before.
+
+“Do they… get tired easily?” I ask.
+
+They’ve only been humming at me for a few minutes.
+
+“No, they don’t!” Theresant snaps, furious as she urgently begins to round up the snails who reluctantly obey her directing antennae pokes back towards their rooms.
+
+“What do you mean? They’ve only been out here for a few minutes.”
+
+“It’s been two hours.”
+
+“Um… what?”
+
+“Two. Hours. Eldest! This is why I didn’t want to bring them out here. Something always goes wrong when you’re around!”
+
+“What did I do? That was all them! Heck, I don’t even know what they did!”
+
+“They did something for you,” she snaps back. “I don’t care what it is, just don’t come here and tire them out all the time. They’re still growing.”
+
+Confused, I start to examine myself, but I can’t find any changes on my carapace or legs. Perturbed, I look inside, and it takes a while, but I eventually do find that something has, unbelievably, changed.
+
+My Pure Core. It hasn’t changed much, it’s almost not noticeable, really, but I swear it’s taken on a slightly… shellish appearance.
+
+What the heck?

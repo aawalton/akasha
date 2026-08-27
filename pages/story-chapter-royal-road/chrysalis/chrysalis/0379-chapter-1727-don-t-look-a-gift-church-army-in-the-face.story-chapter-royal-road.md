@@ -1,0 +1,91 @@
+---
+id: f1c4a966-d9a0-535e-bfed-d55b75084f26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1727 - Don’t Look a Gift Church Army in the… Face?"
+slug: 0379-chapter-1727-don-t-look-a-gift-church-army-in-the-face
+partOf: chrysalis
+position: 379
+ownLength: 939
+unit: words
+ownProgress: 939
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3010364/chapter-1727-dont-look-a-gift-church-army-in-the"
+royalRoadId: "3010364"
+markedReadAt: "2026-06-29T19:55:55.663Z"
+---
+
+Summoning an army to try and defeat a monster isn’t as simple as it seems. Powerful monsters may be large, but they are also, most of the time, quite cunning as well. Trying to engage one with a force of tens of thousands within the unpredictable terrain of the Dungeon is far from a simple matter.
+
+If the beast senses you coming, it may well just leave the area, moving somewhere else for a time before returning to its previous den. If the monster is particularly attached to its home, then perhaps it may choose to stand and fight, but there is a limit to the number of men and women able to engage a monster at once.
+
+This is why, when the need arises, most monsters are hunted by armies of at most ten thousand. Special training and unique discipline is required when engaging a monster of such size and strength as it is far from a regular sort of engagement.
+
+Excerpt from ‘Hunting The Great Beasts’ by Xinci
+
+Really now. The Church of the Path, the very people I hold the strongest grudge against, just decided to send a punitive army of thousands over here to deal with me?!
+
+That’s… that’s… so delicious!
+
+No. No! Down, Dark One! Back to the forbidden depths that spawned you!
+
+Aha! You think I will slink away into the darkness so easily while my prey has delivered itself on a silver platter? Nay! Nay, I say again! This is my place, and here I shall remain!
+
+[How many of them do you think there are?] I ask Crinis.
+
+[At least four thousand, Master. I didn’t stop to count, I was worried they would find me.]
+
+[Good call, Crinis. Better if they don’t know that you’re here.]
+
+Not to mention, they might have strange monster-trapping techniques that would prevent her escape. I’m the one who wants to be trapping them, not the other way around.
+
+Thousands of minions from the Path, right in front of me. It’s almost too good to be true. Should I just gravity bomb the lot of them to heck? If I spit out a bomb as big as I can make it, empowering the spell with the Altar, would they be able to deal with something like that?
+
+Wait a second, I can’t do that! Unleashing a bomb of that size directly under Green Mountain could destabilise the entire city! Goodness knows what sort of damage that would do, and it’d completely destroy my peace plan while I was at it!
+
+Damn you, Dark Anthony! Get back to the pits!
+
+Sheesh. Holding a grudge against the Church of the Path is only right, but letting it derail everything I’ve been trying to do here? No way.
+
+As much as I’d like to go completely wild and unleash my wrath on this army, that won’t win me the peace that I want.
+
+“Eldest… you aren’t thinking of doing anything… drastic… are you?” Sloan asks carefully.
+
+“Wha… Me? Of course not!”
+
+“How bad?”
+
+“I thought about bringing the entire mountain down on them using a gravity bomb so large it would probably kill all of us.”
+
+“That’s pretty bad.”
+
+“But I’ve recovered! Sheesh! Sometimes you have so little faith in me.”
+
+“I was just a little worried, Eldest. You can be impulsive at times.”
+
+“... I wish I could say I’m shocked and offended by that description.”
+
+I can’t, though. I really, really can’t.
+
+“Look, this complicates matters, but not dramatically,” I tell the general. “We have more opponents to deal with than we thought, but that’s fine. Ultimately, our goal remains the same. In fact, this could even work in our favour.”
+
+“How could this possibly work in our favour? There are thousands of monster-killing specialists out there, hoping to destroy you, specifically. In my opinion, you should probably leave this area and return to the nest.”
+
+“We agree,” Protectant whispers from somewhere invisible.
+
+Let me check… she’s on my head. Really?! It’s not free real estate up there! I start waving my antennae in disguised motions, trying to sweep her off without anyone realising what I’m doing, but she’s too damn agile, which only makes me more irritated. Stop hopping about up there, dammit!
+
+“I’m not going anywhere! Our eventual payoff just got bigger, that’s all that’s happening here. We can deal a bloody nose to Green Mountain and to the Church at the same time. What’s not to like? If they aren’t stupid, they’ll learn not to mess with our family and will give us the space we need to finish our work in the fifth.”
+
+Once we succeed there, being the first in Pangera to achieve any sort of victory over the Krath, we will be unassailable heroes the world over. Nobody would dare to say we were dangerous and useless monsters after a historic accomplishment like that.
+
+“Eldest,” Sloan says, “I’m just worried that this will be more than you are able to take on. You are powerful, but you’ve only recently evolved. This plan was already dangerous with just Green Mountain involved. Now there is an entirely new army for you to deal with. Isn’t this more than you can handle?”
+
+“Of course not,” I scoff. “You have no idea just what I’m capable of now.”
+
+In truth, I myself am not completely sure what I’m capable of, but this will be a great way to find out!
+
+“You worry too much, Sloan. Uh… Sloan?”
+
+Nothing but the fading shadows greet me as I turn to look at where the general had been standing. Even now? Even here?!
+
+They really aren’t mucking around.

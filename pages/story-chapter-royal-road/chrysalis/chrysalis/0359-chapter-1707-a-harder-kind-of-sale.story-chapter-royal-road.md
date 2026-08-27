@@ -1,0 +1,87 @@
+---
+id: 7ef6b1ff-c1db-5f3d-9deb-b45a5533f242
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1707 - A Harder Kind of Sale"
+slug: 0359-chapter-1707-a-harder-kind-of-sale
+partOf: chrysalis
+position: 359
+ownLength: 1111
+unit: words
+ownProgress: 1111
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857389/chapter-1707-a-harder-kind-of-sale"
+royalRoadId: "2857389"
+markedReadAt: "2026-06-29T19:55:17.675Z"
+---
+
+It wasn’t easy for Merchant to get in touch with people from the Church of the Path. It wasn’t easy for Merchant to find someone willing to admit that such a person even existed on Green Mountain.
+
+Which was so obviously absurd, with them having an entire cathedral dedicated to the faith in there, that she honestly respected their dogged refusal to speak.
+
+Of course, that didn’t mean it was impossible. What Merchant knew, better than anyone else in the Colony, was what money was, and most importantly, what it could do. Mistress Enid hadn’t shied away from teaching her student about the… darker possibilities of the marketplace.
+
+Money was an incredible thing. It held value so much greater than its practical use, or even its scarcity. It could be used to buy goods and services, but that was the most basic, most simple of its applications.
+
+Money had hands. It could open doors and windows that would otherwise remain shut, creating new possibilities and opportunities.
+
+Money had ears. It could buy information and knowledge that would otherwise remain totally inaccessible. Locked lips were everywhere in the world, but money was a master key.
+
+Perhaps most importantly of all, and least understood, money could speak. It could be a whisper, a murmur, dropped in the right place, at the right time. Or it could be a shout, a deafening burst of sound that commanded attention and respect, drawing the light and focus away from other, less deserving things.
+
+Understanding money and how to use it was how Merchant knew where the Grand Priest Alir Vinting was staying. It was also how she knew that a message had been delivered to the Priest this morning, hidden on the tray under his cup of tea.
+
+Knowledge she shouldn’t have possessed. Access she wasn’t supposed to have been granted.
+
+It was also how she found herself in a warehouse on the dockside of Green Mountain, seated behind a table in the far corner, sipping her own tea, and waiting.
+
+The people who had smuggled her in hadn’t really known what they’d done, only that they’d been well paid not to know. Ignorance and silence. Just another two things that many did not realise were on the market.
+
+Perhaps she should have felt in danger, taking such a risk, coming to such a hostile place. Yet, she didn’t. Not at all. Safety, after all, was always for sale, even for her, even in a place like this.
+
+When a man emerged from the darkness, she wasn’t surprised, and when he sat down at the table across from her, she wasn’t afraid.
+
+“Alir Vinting, Grand Priest of the Path. Welcome,” she said.
+
+Although she had never met him before, she was confident this was him. There weren’t many allowed to wear those robes, and none of the others in the Mountain who were had any reason to be here, speaking with her.
+
+“This was not something I expected,” the man said, as he drew back his chair and sat down. “A civil discussion, with one of your kind?”
+
+There was something about the eyes that Merchant had learned to identify. Some people were open with their distrust of monsters. They shied away, or their lip curled with disgust. She didn’t mind that. Obvious reactions for people with deep-seated distrust for a kind of being that they had lived in fear of from the moment they grew old enough to learn they existed.
+
+She could work with those people, try to bridge the gap, try to create tenuous bonds that could strengthen over time. Or she could try to make them see her as something else, something other than a monster.
+
+But there were others, skillful enough to hide their true face. These were the merchants, the traders and the travellers with experience enough not to show what they were thinking on the inside. Most of the people she dealt with were like this, and it was much harder to tell who felt a strong prejudice against her kind and who didn’t. She’d learned, there was always a tell. It was so much harder to lie through the eyes.
+
+From the day she had been born until now, Merchant had never seen a gaze so cold as the one Alir Vinting levelled her way.
+
+She was not a person, she was barely an entity, in his eyes. He regarded her as less than a human would regard a pet cat, less than they regarded a table.
+
+There was both hatred, and avarice in those eyes.
+
+Suddenly, Merchant didn’t want to engage in her usual patter. She didn’t want to perform, or engage in the subtle back and forth of negotiation. She would spend the absolute minimum amount of time necessary in his presence.
+
+“We have one of your priests,” she said flatly. “Soon we will have more. If you want them back, this is the price.”
+
+She took out the paper, slid it across the table, then retracted her leg lest it get too close to the thing sitting opposite.
+
+“You expect us to pay ransom to retrieve our priests?” Alir said as he reached out to take the paper. When he saw the number written within, his eyebrows climbed. “Well now, that is hardly civilised.”
+
+“How the Church of the Path feels about us isn’t something we worry about.”
+
+“You should,” he said, crumpling the paper and dropping it to the floor. He leaned closer. “Giving us ammunition to use against you is profoundly unwise.”
+
+“As if you would stop firing arrows just because we didn’t shoot back,” Merchant clacked her mandibles with distaste. “I suggest you pass our message back to your superiors. I don’t think your fellow holy men and women will feel all that comfortable in our presence.”
+
+“Is that a threat?” Alir asked.
+
+“No. This is the threat: if you take too long, we might figure out how to do to you what you do to us. I wonder how you would taste after being refined into an elixir, Grand Priest? Disgusting, I’m sure.”
+
+The priest merely chuckled.
+
+“You can try, I suppose. I assure you, it cannot be done, but news of your atrocities will surely spread far and wide.”
+
+“We are done here. Leave.”
+
+Perhaps sensing that she would have him removed if he didn’t go of his own accord, Alir stood, then bowed, hand to his heart, before turning and striding out of the warehouse. As soon as he was gone, Merchant began to clean her antennae. Pulling her antennae through her elbow joints was soothing, and the routine calmed her mind.
+
+“Ugh,” she said. “I need a smoke.”

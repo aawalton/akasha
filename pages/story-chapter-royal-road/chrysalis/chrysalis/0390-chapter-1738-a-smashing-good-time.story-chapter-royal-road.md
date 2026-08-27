@@ -1,0 +1,67 @@
+---
+id: af6de86f-3f99-536f-bfd8-02cf91975816
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1738 - A Smashing Good Time"
+slug: 0390-chapter-1738-a-smashing-good-time
+partOf: chrysalis
+position: 390
+ownLength: 939
+unit: words
+ownProgress: 939
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3069848/chapter-1738-a-smashing-good-time"
+royalRoadId: "3069848"
+markedReadAt: "2026-06-29T19:56:16.485Z"
+---
+
+Curse Magic holds an… interesting place as a magical discipline. Not a common form of mana by any means, nevertheless there have been specialists who have chosen to devote their time and energy to the research and development of it as a branch of study.
+
+Although it is often… unpleasant… both to witness and to experience firsthand, with the focus of the specialised Curse Magic spells largely being on weakening the targets physically, or draining them mentally, it isn’t illegal or frowned upon by any means.
+
+Monsters who use Curse Magic are, however, very difficult to deal with. Sapped of strength, with your will being drained by the second, haunted by whispers and shadows, fighting them is nothing less than nightmarish. Very few are willing to subject themselves to such an experience willingly.
+
+-             Excerpt from ‘Mana In All Its Forms’ by Magio Scholar Presario
+
+Tiny was a little put out when his master unleashed an explosive force and torrent of flame into the air. So many of the little shiny people were knocked over or burned and then they didn’t get up again. This left a much smaller number for Tiny to punch!
+
+Regardless, this was an opportunity that the big ape didn’t want to waste, and so he threw himself into the fight, hooting with joy in between his bellowed war cries. With his little brother on his shoulder, Tiny slammed his fists into the ground, shaking the earth and shattering the stone before he stood upright, swinging his fists to loosen his shoulders.
+
+Lightning surged through his flesh and thick bolts of electricity snaked across his arms, desperate to be unleashed, and he was all too happy to let them loose.
+
+First, he needed to warm up his left.
+
+Hunching over and raising his fists, Tiny protected his head and settled into a rhythm, bouncing on his feet, shuffling left, then right, bobbing and swaying as the little people nearby turned and brought their weapons to bear. Watching carefully, Tiny’s long ears flicked, then he planted his lead foot and—
+
+BAMBAMBAMBAM!
+
+A flurry of punches, too fast to be seen, snapped out with the force of an explosion and the sound of a thunderbolt. Light burst from his fist and crashed into the little people before him. They had shields, and armour, but what could that possibly do against Tiny’s fist?
+
+Their metal was cracked and broken in the first flurry. Those who tried to stand their ground were sent flying, those who tried to dodge were more successful, but not by much.
+
+Displaying impeccable footwork, Tiny moved with speed and grace. Always in balance, always ready to shift his weight, to slide to the side, to advance or to retreat. Before they could escape him, Tiny planted his foot once more, feeling the rotation in his body as he brought back his fist, the power stored in his legs, hips and shoulders that he then unleashed with another rapid combination.
+
+BAMBAMBAMBAMBAMBAM!
+
+Six punches this time. So rapid the first hadn't landed before the last one was thrown. This time he let the sizzling lightning loose as well, sending ribbons of power as thick as a human leg (certainly not as thick as Tiny’s!) arcing across the people before him.
+
+He felt that this might not have been a popular decision, judging by the reactions of those he was targeting, but for whatever reason, his master had said he needn’t hold back once he joined the fight, and so he didn’t intend to. Also, he felt like his left might have been sufficiently warmed up.
+
+With a savage grin and burning red eyes, Tiny slammed his palms against his chest, beating out a staccato warning to all within range before he once again rose up on his heels. Bouncing lightly, he danced and shuffled, bobbed and weaved, until… finally, he picked his moment.
+
+He rotated his shoulders just a little, not much was needed to help generate the power. His front foot settled and his knee turned inward, loading his weight while the lightning generators inside him crackled, increasing their output even further.
+
+When he felt his balance was perfect, Tiny unleashed the Ultimate Kong Straight Right.
+
+Energy surged through his body. Light gathered at the tip of his fist, so bright as to be almost blinding. Thick ribbons of electricity raced up his shoulder and down his arm, more and more, faster and faster as his fist extended outwards.
+
+Weight shifted, his front leg straightened as his back leg rotated inwards. From his ankles, to his wrists, to his shoulders and his waist, everything moved in perfect harmony to generate the maximum amount of force.
+
+Before him, the battle ceased to exist as Tiny felt a surge of satisfaction so powerful, his vision went white. Then he realised that was just the detonation of his Skill and the blinding effect of the electricity blasting out of his hand.
+
+When all was said and done, everyone in front of him was no longer there, which made sense to Tiny. If they decided to run away, they were smart, and if they decided to try and block it, then they weren’t there anymore. It was Tiny’s right hand, after all.
+
+Rolling his shoulders, the bat-faced gorilla rumbled with satisfaction. He was feeling loose now. He could probably unleash an even bigger punch if he tried. Looking up at his shoulder, he saw his little brother still there, looking back at him with his one, big eye. Tiny gave him a thumbs up.
+
+The little brother returned the gesture.
+
+Tiny bounded off looking for more things to hit.

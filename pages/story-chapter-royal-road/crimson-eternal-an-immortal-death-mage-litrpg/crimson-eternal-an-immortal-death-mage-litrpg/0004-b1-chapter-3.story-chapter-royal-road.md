@@ -1,0 +1,253 @@
+---
+id: b366d291-25a0-5df9-a557-b3f20a1a1cf2
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 3"
+slug: 0004-b1-chapter-3
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 4
+ownLength: 2622
+unit: words
+ownProgress: 2622
+publishedAt: 2024-01-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1461311/b1-chapter-3"
+royalRoadId: "1461311"
+markedReadAt: "2026-06-29T19:05:57.754Z"
+---
+
+Aria
+
+Nothing happens for several seconds, my body completely frozen stiff along with everything else around me. Not moving an inch, with some things just floating in the air. Even the rain.
+
+I can’t even frown since I can’t move.
+
+Eventually I hear a loud dinging sound. Kind of like the sort of sound one of those new computer things makes when you click a button. But loud. And after that, a screen just like one of those computers’ screens appears. But with far better quality, making the image, or rather, red text on it, a lot easier to see.
+
+Text that would have my eyes widening if they could as the words displayed on it are also read aloud by some strange monotone voice.
+
+Initializing, please wait a moment…
+
+I once again try to frown at the text on the screen, but nothing happens since I’m frozen. So I end up stuck in place with my pistol pointed at the target and my finger already squeezing the trigger for several seconds in absolute silence.
+
+Eventually the screen fades and another one replaces it.
+
+The System has now been Initialized into the world of Vortel.
+
+The… System? What’s that?
+
+The screen fades away and is replaced with another once more.
+
+Welcome inhabitants of the world Vortel to the System!
+
+The world around you will remain frozen during the duration of this brief tutorial over the System!
+
+I almost instinctively try to reach out for the screen now just to see if I can touch it, only to remember exactly what it just said. That the world is frozen right now.
+
+This is… weird. What the hell is going on?
+
+Whatever this System is, it clearly doesn’t care about my questions as it continues.
+
+The System is a Universal Defense Mechanism set into place to grant all worlds invaded by inhabitants of other worlds the ability to defend themselves better. It is initialized into every creature of a minimum level of intelligence on the planet and the power granted through it may be used however the user wishes.
+
+In…invaders? Wait, there are other worlds inhabited by intelligent life?!
+
+Also, are you telling me that we’re going to have to deal with invaders on top of the damned Arterians?! Are you fucking kidding me?!
+
+Initiating Tutorial Process… Process Initiated
+
+Welcome to the Tutorial!
+
+Here you will receive a brief rundown of the System and its ins and outs!
+
+To begin, simply think, ‘Begin!’
+
+It’s ignoring me. Assuming it can even hear me.
+
+Is this thing even intelligent?
+
+I wait for several seconds, but the screen never responds. Which makes me think it’s just like those computer things after all.
+
+It needs human interaction to run and isn’t smart in and of itself.
+
+So I calm down, briefly wishing I could take a deep breath or sigh right now. Then I think the word ‘Begin.’
+
+The System will begin by assigning every user a Class based on the user’s past actions, potential, ability if they have one, and current skill set.
+
+Some Classes will be unique, others may not be.
+
+But all Classes have a purpose often unique to each Class.
+
+And every user within the System may level up their Class by following through with that purpose.
+
+Doing this will increase the overall physical and magical capabilities of the user with each level-up they obtain, with the amount increased varying based on the purpose of the Class in question. Users may also obtain special powers along the way depending on their Class.
+
+However, users are under no obligation to go through with the purpose of their Class. How you use your power is your decision alone.
+
+To proceed to the personalized next step of the Tutorial where you are assigned your Class, think ‘Proceed,’ and it will begin.
+
+Oookaay… so if I have this right, the ‘System’ is just going to assign everyone some sort of ‘purpose’ and it’ll give us power if we follow along with that purpose?
+
+It sounds rather simple, but it also feels kind of… like the System is directing us to do something, but at the same time, it tells us that we don’t have to do anything we don’t want to. Almost like it’s trying to manipulate people into following through with their purposes for power while saying that they don’t have to do it.
+
+Which makes it sound like the System doesn’t have any actual power over people but wants us to do whatever our purpose is? Kind of like it wants us to follow through with our fated purpose or something?
+
+Assuming this System is even able to do that, since it doesn’t seem intelligent.
+
+Whoever made it then? Or whatever?
+
+Once again assuming it was even made by something.
+
+Eventually I just decide that speculating won’t get me anywhere besides endless circles in my mind, so I think ‘Proceed’ to move on.
+
+And quickly begin to wonder just what the hell is wrong with this System when I see my Class and Purpose.
+
+User Aria Crimson, you have been assigned the following Class:
+
+Harbinger of Death
+
+You are one of the Four Horsemen of the Apocalypse.
+
+Death.
+
+The purpose of this Class is to bring Death unto others.
+
+Seriously? One of the Four Horsemen of the Apocalypse? Isn’t that just some old story from the religion on the other continents, before the other continents were all destroyed by the Black Death and the treaty against strategic class magic and weapons was put into place?
+
+I’m honestly not sure how to take this.
+
+The fact that I’ve been fighting endlessly for years is one thing, but being named Death is just pure fucking irony.
+
+I mean, who names someone who literally can’t die, Death?
+
+My thoughts draw to a brief pause when the black and red screen fades and another replaces it.
+
+Ability has been detected within user Aria Crimson.
+
+This ability has never been seen before within the System.
+
+Analyzing ability… Unique Ability Analyzed.
+
+User Aria Crimson has the following Unique Ability:
+
+True Immortality
+
+The user will never die or age past their prime and will always regenerate from any sort of damage dealt to them given time regardless of the type of damage. The amount of time it takes to heal from a wound will shorten every time that exact same type of wound is received.
+
+This ability is unique to the user Aria Crimson and cannot be seen in any other being.
+
+Okay, interesting to see it put into words I guess, but nothing new to me there.
+
+Except the fact that it is completely unique, since there’s normally no way to really tell if an ability is completely unique. Just that people assume it is.
+
+Guess it’s both nice to know and not nice, since now any possible chance of someone else being immortal just went out the window. Not that I believed that would happen, but still.
+
+I try to sigh at that before remembering the whole frozen time thing.
+
+This is getting annoying.
+
+Eventually the screen fades and another replaces it.
+
+The System Tutorial will end once the user opens their Status screen.
+
+You may open it through simply wishing to or thinking the word ‘Status’ in your mind.
+
+It wants me to open my Status screen? What’s that?
+
+Out of nowhere another screen appears above the current one. But this one is of a different color and setup than the others.
+
+Name: Aria Crimson
+
+Class: Harbinger of Death
+
+Ability: True Immortality
+
+Level: 1
+
+Oh. Guess a Status is just a list of your information? Like an ID card or something.
+
+Both my Status and the screen from before vanish and another one appears. The last one by the looks of what it says.
+
+The System Tutorial has now finished.
+
+Time will resume once every person on the planet has finished their Tutorial.
+
+Welcome to the System.
+
+Seriously? Just how long am I going to be stuck here?
+
+No answer comes to me.
+
+Damnit.
+
+Guess I’m just gonna be frozen here for a while then.
+
+The wait ends up being excruciating and to the point that I can’t really keep track of it considering how time is frozen and all. But eventually time resumes again and I immediately find my finger finishing pulling the trigger, sending a bullet straight at the illusion magician who currently looks dazed about what just happened just like everyone else around us. Until the bullet goes straight through his skull.
+
+I don’t pay him any mind though as right after time resumes, a screen with some rather foreboding text appears on it. Text that gives me a very bad feeling.
+
+This is an announcement to all users within the System throughout the universe!
+
+A new Horseman of the Apocalypse has entered the System!
+
+Fear the Wrath of Death as she, the fourth and final amongst the Four Horsemen of the Apocalypse, rains Death upon this Universe!
+
+Seriously? Did it have to announce it?
+
+Is it trying to-
+
+A ding echoes in my head, followed by the sound of that monotone voice.
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 1/100 users killed.]
+
+-make things… harder… on me…
+
+What?
+
+I stare ahead as the screen with that annoying announcement fades, but despite my standing in the middle of a bunch of enemies and Beta Team standing in the street a few dozen meters ahead, silence fills the entire town. Then the clicking of a bullet magazine snaps me out of my stupor and I move my pistol around and fire another shot straight at one of the remaining soldiers.
+
+And the battle resumes after that. Or what’s left of it at least.
+
+But every time I kill someone…
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 2/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 3/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 4/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 5/100 users have been granted Death.]
+
+[User has killed one being of Level 1. Requirements to reach level 2 have been updated. New requirements are as follows: 6/100 users have been granted Death.]
+
+…I get that weird dinging message playing in my head.
+
+What’s this about levels anyways? It mentioned that we could progress in levels by fulfilling our purpose, and that we’d grow stronger both physically and magically if we do. But are levels like ranks or something? Just some sort of numerical value it uses to show how far you’ve progressed your Class?
+
+I purse my lips at that before shaking my head.
+
+Guess I’ll find out when I reach level 2. Because it shouldn’t be too long before that happens considering my ‘Purpose.’
+
+Right now we need to figure out what the situation is with those ‘planetary invaders’ the System was talking about.
+
+All Around the Universe
+
+Within a high tower topped with a dome on the planet known as Arc, a woman wearing blue robes lined with gold tightens her grip on her staff after seeing the notification about the final amongst the Horsemen of the Apocalypse. And without hesitation, she begins to scry for the Horsewoman’s location, only to find the scrying blocked by the System itself. So she walks to the edge of the tower, waving her staff to make an entry point before declaring to the entirety of the academic nation known as the Arcadian Society of which she rules over as Archmage, “Fellow mages of the Society! Search with all you have in you! Find Death so that we may keep our well-earned peace!”
+
+A man with silver hair slowly opens his eyes after hearing the notification. And after narrowing them for a few seconds, he stands up from his throne and sweeps one arm out as he shouts, his own voice echoing throughout the Grand Silvanian Empire of which he rules over and the planet of Silverfall, “Find the threat and eliminate it immediately. We cannot have another of those disgusting Calamities walking amongst us!”
+
+Shadows begin to coalesce inside of a dark mansion over a dozen different chairs on an unknown planet following which people cloaked in black appear at each chair. And just seconds later, a man appears floating in the air above the table with his own cloak blowing in the non-existent wind as his voice whispers through all of their minds, “Find her. Bring her to me.” Then the cloaked individuals all bow and vanish in another cloud of shadows.
+
+Inside of a grand pyramid, in an equally grand throne room, a man wearing a black kilt made of only the best materials suddenly opens his pitch black eyes and grins before he stands up from his throne. Then, to all of the fervent citizens of the Rex Dynasty of the Dead, the Pharaoh declares, “Our Savior has arrived! We must find them and swear our loyalty, for Death is our way!” And in response, all of his citizens fervently respond back, “Death is our way!”
+
+Within a grand mansion, a man sitting on a fancy office chair stops playing with the coin in his hand before resuming once again, rolling the coin between his fingers. And after little more than a few seconds, he rings a bell, making a servant enter his room. Then he quietly states, his white hair falling over his shoulder as his white eyes gleam with a dangerous light at his assistant, “The Eternal Dynasty has found a new potential trade partner. Please find and get into contact with them immediately.”
+
+Sitting on a grand throne at the core of a massive castle beneath a blood moon, a man with stark white hair slowly opens his crimson eyes and stares at the notification about Death’s entry into the System. And after only a few seconds of staring, he slowly closes his eyes again, the only difference in his appearance being the slight tugging on the corners of his lips, drawing them into the start of a smile as he reaches for the necklace around his neck. Where he grabs a glowing red crystal.
+
+Meanwhile, three individuals spread across the universe each show absolute glee at the news.
+
+One of them, a man going by the name of Victor von Lüneburg, otherwise known by the universe at large as Pestilence, pauses in one of his experiments as he smirks slightly. But then he returns to his work just as quickly, his laboratory dead silent like always.
+
+The next, a man by the name of Lucius Octavio, otherwise known by the universe at large as War, simply grins while cutting down his foes, his soldiers following behind him in battle without hesitation. And instead of stopping, he simply continues to fight even more fervently than before, the glee and rush of battle filling his eyes and sending terror down his enemies’ spines.
+
+Lastly, Ignatius Darkheart, the Terror and Emperor of the Dread Empire, otherwise known by the universe at large as Famine, taps his finger once on his grand throne, then twice, and finally a third time. Then he nods his head, surprising the shriveled and starving nobles kneeling around his throne by his visible reaction.
+
+And thus, the era of the Horsemen of the Apocalypse begins.

@@ -1,0 +1,83 @@
+---
+id: 3c30bc4b-32bf-5c93-8cfe-7d0b792ab6b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1714 - The Shadows Are Dangerous"
+slug: 0366-chapter-1714-the-shadows-are-dangerous
+partOf: chrysalis
+position: 366
+ownLength: 1030
+unit: words
+ownProgress: 1030
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2947231/chapter-1714-the-shadows-are-dangerous"
+royalRoadId: "2947231"
+markedReadAt: "2026-06-29T19:55:31.243Z"
+---
+
+The nameless one wasn’t used to being out in the tunnels in this way. Some of her sisters, those who served as soldiers and scouts during their hours in the light, were doubtless more comfortable in these environs, but the nameless one had not emerged from the shadows for many weeks now. Perhaps her identity among the waking had been completely lost at this point, an ant gone missing, ruled off the page and written down as lost. Or perhaps it was all too clear to her family just where she spent her time, and they chose to look the other way.
+
+Take care to be silent, the leader of the group signed to the rest. Our prey has incredibly fine senses and is on their guard. There must be no sign of our presence.
+
+As if the nameless one was ever anything less than flawless in her execution. She had hunted the most difficult prey in the Colony, some humans bumbling through the Dungeon would prove no challenge.
+
+Yet, as ever, she did not cut corners nor let her guard down. Perfection was the standard demanded of the nameless, and she would not fail to meet that expectation, no matter the task.
+
+Slipping between the shadows like water, the group of nameless moved as one, sensing, hesitating, only changing position when they were certain they could. On the edge of the shadow dimension and the material one, they danced upon the finest of lines, not straying too far to either side. After some time, they found their first target.
+
+A solitary human, crouched in a concealed position against the tunnel wall.
+
+In truth, it was an admirable attempt at stealth, and the nameless may not have found her if not for the ever-present shadow upon the ground. If it cast a shadow, they would find it. Shadows were windows for the nameless, and they were also doors. Of all the many things in this world, they were more sensitive to shadows than anything else.
+
+Make sure she is alone, the leader signed, scatter.
+
+The nameless one wasted no time, moving with purpose, soundless and sightless through the tunnel. As the others fanned out behind her, they searched high and low, peeking into every nook and cranny. Hunting prey such as this, they knew not to trust their eyes, nor their antennae, nor even the sense of touch. Nothing could be trusted, everything had to be verified, look at everything from as many angles as possible.
+
+Only because they were so thorough were they able to find the second, concealed in a hollow stalagmite, using mana sense to track the goings on outside.
+
+Another, the nameless one signalled, pointing towards the offender.
+
+Within total darkness, there was not even a shadow to find. Only the feather-light touch of the delver’s mind upon the tunnel's mana had given them away.
+
+Prepare to seize them.
+
+When they moved, it was over in an instant. The nameless one took the second delver herself. Although the darkness within the pillar had hidden her shadow, it did nothing to protect her from the arts of the nameless. Seizing hold of the darkness, the nameless one slowly, oh so carefully threaded it with her mana, extended through the shadow dimension to hide the point of origin.
+
+Despite actively sensing for mana, the delver had no idea that the very darkness around her was changing, becoming more substantial. No longer just dark, it was now a door as well.
+
+When the time was right, the nameless pulled it open, and through the opening the delver fell. No time to even cry out, she was enfolded in a blanket of shadow, her mind forced into slumber.
+
+Flawless.
+
+Once hidden in a separate realm, there were others to take hold of the subdued prey and move them back to the sleeping cells. Within the shadow dimension, the nameless had carved many paths for this exact purpose.
+
+Good, their leader signed. We continue.
+
+So they did.
+
+Through the tunnel they went, hunting, searching, sensing. As carefully as if they were tracking the Council itself, they moved with the utmost caution, knowing that even the slightest hint of discovery would make their task ten times harder.
+
+More were found, alone, or in small groups, delvers huddled at points, watching the tunnel, seeking for ants, never knowing that they were being hunted instead. One by one, they were embraced by the shadows, taken by sleep, and taken away to slumber in the cells.
+
+It was clear there were too many watching over this one tunnel for there not to be a reason, and soon they found out why.
+
+Stop, the nameless one signalled, and the group halted immediately. In silence, she signalled four separate locations. More behind, she added.
+
+A high concentration of delvers. This many, this close together. There would be more.
+
+Investigate, the leader gestured.
+
+Where a group of nameless could not go, a solitary one might.
+
+Slipping through the narrowest of gaps, she moved past the first line of sentries, and then the second, and then the third. Only then was she able to get close enough to sense what was hidden in the tunnel.
+
+Getting out was much easier than getting in. After all, they expected enemies to come from in front, not behind. Doubtless those they had already captured were working with this group. Soon they would realise that some of their number were missing and their guard would go up. For now, they remained ignorant.
+
+Once she was clear, she returned to the nameless waiting for her.
+
+An ambush, she signed. There are hundreds of them. A large number of traps and prepared spells to attack the Eldest have been prepared.
+
+Motionless, the nameless considered their next course of action.
+
+It is beyond our mandibles now, the leader signed. We will notify the Eldest of this location and move to another tunnel.
+
+Of course, they couldn’t go to the Eldest themselves, who knew where they were at this point in time? Thankfully, they didn’t have to. Alongside them, hidden on the border of shadow and reality, a single tentacle drifted, ready and waiting for their message.

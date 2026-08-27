@@ -1,0 +1,81 @@
+---
+id: e29d9d86-4950-5957-b5b5-071ad164e904
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1829 -  World of Darkness (Vampires not included)"
+slug: 0483-chapter-1829-world-of-darkness-vampires-not-included
+partOf: chrysalis
+position: 483
+ownLength: 910
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3624554/chapter-1829-world-of-darkness-vampires-not-included"
+royalRoadId: "3624554"
+---
+
+I suppose I could just fire a Gravity Bomb directly into the valve, but that wouldn’t exactly work the way I want it to. Even if it managed to break through to the lower chamber, it’d eat all of the liquid mana we so painstakingly delivered to this place and I’m already worried we won’t have enough of it.
+
+It might even just rip a hole through the wall of the heart and drain all of the liquid mana out the side, which would be an unmitigated catastrophe.
+
+So that’s out.
+
+As far as I’m aware, I only have a couple of means of dealing with the concentrated mucus. I can burn it away using Dragon’s Breath, but that’s rather slow and painful. The other method is to blast a Gravity Bomb at it and let the mad compressive force of gravity rip it apart and squish it to oblivion.
+
+However, I can’t think of a way of deploying a Gravity Bomb in this situation without being very, very close to the point of detonation. Which isn’t ideal.
+
+“Don’t follow me,” I say, hoping Protectant is listening and, for once, obeys me.
+
+She probably is listening, and probably doesn’t obey, but at least I tried.
+
+“Why not?” Jern says, appearing by my side.
+
+“Gah! When did you get there?!”
+
+“I was hiding in the shadows.”
+
+“That’s creepy! Sheesh. Scared the heck out of me.”
+
+“Why? It’s not as if I can threaten you. Or would. Because… you know.”
+
+“Don’t tell me I’m a god right now, I really don’t want to hear it.”
+
+“Is that a choir of angels I can hear?”
+
+“Uh… no. It’s a choir of snails.”
+
+“Huh.”
+
+Dammit! I was worried about this!
+
+“Look, I’m going down to the next chamber, you and the others stay here and help the Legion out. Alright? Good. Bye.”
+
+Thankfully Jern doesn’t follow, just waves before shouldering his axe and dropping back into the gathering darkness at his feet like something out of a nightmare. Holy heck! What have the Nameless been teaching them?!
+
+I try to shake that out of my mind. I’ve got other business to focus on right now.
+
+I cut off the Gravity Domain and immediately all the projectiles the Krath were firing at me start finding their mark again. Also, the two lines of Legionaries and slugs slam into each other with renewed vigour, as if they were annoyed I’d stopped them from fighting each other even for a little bit.
+
+Well, have fun I guess. Honestly, the pitched battle seems absurdly Legion-favoured. More of them are still dropping down from above and the fighting is only getting more one-sided, but that may change once the Krath get a little better organised. Right now the remaining bunkers are mainly shooting at me, and I’ll soon be out of sight. Well, I’m sure Chyron knows what she’s doing, and the Templars can help.
+
+I have other matters to attend to.
+
+With a running start, it doesn’t take long to reach the valve and I jump right in, plunging down into the frothing mess of liquid mana. It’s bubbling so much it practically looks like a spa bath, but I don’t particularly enjoy bathing in it.
+
+As a monster, mana of any density doesn’t really bother me, but it’s… uncomfortable to be immersed in this stuff. I can’t quite put an antenna on it, but it doesn’t feel right. More accurately, I could say that it starts to feel like I don’t know where the edge of me ends and the mana starts.
+
+Is it because I’m made from mana? Maybe.
+
+Ants aren’t exactly built for swimming, but I make it work, mainly by sinking down to the bottom. The lower I go, the more active the liquid becomes, to the point I can’t really see a thing due to the churn. At some point, I manage to slip through the valve and into the chamber below, only to find myself in the middle of a whirlpool.
+
+I can’t see a thing, but thanks to my mana sense I have a limited understanding of what’s going on. At the point where the cleansed mana comes into contact with mucus, it basically evaporates instantly, turning back into regular energy. That doesn’t mean the battle is over, the mucus is also bubbling into nothing, turning back into energy and continuing the war. Both of these energies are designed to consume and replicate, making more of itself from whatever it touches, and in these hyper-concentrated forms, that battle is occurring with a furious intensity.
+
+Unfortunately, the whirlpool sucks me down and pretty much shoves me right into the surface of the mucus, and I find rather quickly that I don’t enjoy being there.
+
+In direct contact with the poison of an Ancient, this mucus is unlike anything I’ve touched before and the acid absolutely sears my carapace, eating into my legs with absurd speed.
+
+I’m not a fan, but there isn’t much I can do but bear it.
+
+I start pulling out mana from my Gravity Mana Gland, condensing it down in a constant flow to form a dark, slowly rotating ball of power. As the seconds tick past, it grows larger, and darker, becoming more and more dangerous, but I don’t cut off the flow.
+
+There’s a lot of mucus in here after all, and it’s very potent. No need for half measures.
+
+Fingers crossed it’s done before I melt.

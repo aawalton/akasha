@@ -1,0 +1,73 @@
+---
+id: 5350d7ac-5bde-57fb-9faf-9d3537b28e54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1820 - It’ll Do"
+slug: 0474-chapter-1820-it-ll-do
+partOf: chrysalis
+position: 474
+ownLength: 1084
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3572581/chapter-1820-itll-do"
+royalRoadId: "3572581"
+---
+
+Truly, it can be said that there is no substitute for grub tickling. Fat and happy, spoiled by the immense love and tender care that they experience under the ever-watchful Brood Tenders, the way they wiggle and roll while being tickled fills me with joy in a way that nothing else can.
+
+An incomparable and irreplaceable experience that, sadly, simply isn’t available down in the fifth. Quite sensibly, the Colony has not moved any Queens down to the fifth, judging that the risk of capture and general overall level of danger is simply unacceptable for the most important of all ants and the precious future generations of workers.
+
+So instead, I have come to the snailcare centre to hang out with the chal.
+
+“Be careful, Eldest!” Theresant scolds me for the thousandth time.
+
+“I am literally not moving,” I hurrumph. “It isn’t physically possible for me to be more careful.”
+
+“You could be outside of the room,” she mutters.
+
+“Would you stop fussing? The snails seem happy to see me.”
+
+“If they weren’t, I wouldn’t have let you in.”
+
+“Can you deal with your sister?” I complain to Florence. “This is supposed to be a relaxing and soothing experience, which it would be if not for her incessant hovering!”
+
+Florence only shakes her head and clacks her mandibles sympathetically.
+
+“I used all of my leverage up just getting you in there, Eldest. I’m sorry, I can’t do more.”
+
+I swear, I’m a hair away from asking Protectant to save me from this pestering pest. Surely preserving my peace of mind counts as defending me from harm, right?
+
+Pushing the endlessly anxious Tender out of my mind, I try to focus on the here and now. I meant what I’d said, this really is a nice and relaxing environment, even if they did have to remove a wall so I could fit inside. Pleasantly green, with real, natural, non-monstrous plants and a trickling little mini-stream, the indoor space the snails inhabit is a verdant paradise.
+
+If I lay my head on the ground, it almost feels as though I’m a giant lording it over a miniature rainforest, most of the foliage not even making it up to the level of my eyes.
+
+As if the excessively pleasing environs weren’t enough, there is a constant stream of the most beautiful song in the room. It’s truly quite incredible to hear it up close and personal. From one corner of the room, hidden under the leafy vegetation, one chal will pipe up, contributing a few notes or perhaps a little melody. From another corner, this tiny piece of music will be taken up by one or perhaps multiple chal, each adding a little bit of their own colour, a harmony, a counterpoint rhythm, or even adjusting the original melody, adding layers and complexity.
+
+And then, as if they had all practiced and rehearsed it a few thousand times in advance, the room will break out into spontaneous, flawless and rich song, every snail contributing to an indescribable harmony that they came up with only a few moments before. Then, as suddenly as it began, it will fade away, the last soft notes hanging in the air to accompany the sudden pang of loss that strikes at my heart as I'm left with only a memory to cling to.
+
+After a few moments of silence, it all starts again with another snail, in a different corner, with a new song that they only just came up with.
+
+They really are born for it, these chal. I don’t know, is this some sort of ancestral knowledge, preserved somewhere in the filthy sludge the Krath count for blood? I know for a fact the Colony has been working frantically to teach them the fundamental theories of music and technique and such, but I’m really not sure if they need it. I wonder if it’s made any difference at all; these little snails are born songbirds.
+
+For the most part, they seem reasonably happy to see me. I’ve got chal up on my back, sliding about after using my legs as a ramp to get up there. It’s giving Theresant fits, but I really don’t think they’re likely to fall off. They’re snails! Gripping onto things is a speciality of theirs.
+
+They're so small and light, I can’t really feel them, but they appear to be having a good time. There’s a lot of singing going on alongside an equal amount of what appears to be restful meditation.
+
+Is it as good as rolling and tickling grubs? No. But it’s still quite nice. I’m being healed.
+
+However, I didn’t only come here for the sake of rest and relaxation. The entire time I’ve been here in the snailcare centre, I’ve been monitoring the activity of the Pure Core, which was specially modified via song magic in some bizarre fashion. Ever since I mutated it to deepen its connection to the chal, I’ve been turned into a mobile snail radio, beaming out healing music to all and sundry inside the Dungeon.
+
+Interestingly, ever since I returned to the Colony’s territory, the song has stopped and the core has gone silent, making me think the song effect is powered by the purification process. Well, it’s a guess.
+
+It turns out that being here, surrounded by the chal and experiencing their song directly… doesn’t do anything to the Pure Core. I’ve been watching like a hawk, but there has been a big fat load of nothing going on.
+
+“Alright then,” I sigh, “I better get up and get moving. I think I’ve lain here for long enough.”
+
+“You are getting up immediately, are you?” Theresant screeches with a truly shrill burst of pheromones. “Are you mad?!”
+
+I prod her with an antenna. Man, I wish I could still dispense a solid THWACK, but they’ve become far too lethal.
+
+“No. Obviously I’m not mad, I was going to wait until the snails got bored and worked their way off my back. Call them in for a meal or something.”
+
+As it turns out though, the chal were quite happy to stay on my back, sliding about and singing. In the end I had to get the Brood Tenders to collect their moustachio’d charges and move them a safe distance away. Only then was I able to back out of the snailcare centre and watch as they rebuilt the wall behind me.
+
+Well, it was fun. There’s probably something I should be doing right now though.

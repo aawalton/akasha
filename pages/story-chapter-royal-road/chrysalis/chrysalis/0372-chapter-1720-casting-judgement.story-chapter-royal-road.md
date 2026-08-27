@@ -1,0 +1,75 @@
+---
+id: ad0e50c9-4879-5722-a17a-da2cd2371ebd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1720 - Casting Judgement"
+slug: 0372-chapter-1720-casting-judgement
+partOf: chrysalis
+position: 372
+ownLength: 1037
+unit: words
+ownProgress: 1037
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2979155/chapter-1720-casting-judgement"
+royalRoadId: "2979155"
+markedReadAt: "2026-06-29T19:55:42.253Z"
+---
+
+Sometimes, a monster needs to be taken care of. This is a universal truth for everyone who makes their life in the Dungeon. By their very nature, monsters are territorial and eternally hungry for growth and power. Eventually, one will rise above the pack, stand head and shoulders over the others and establish its own place in the winding tunnels. And, on occasion, that place runs a little too close to the territory of a city or kingdom, creating problems, endangering lives, threatening business and being an all around nuisance to everyone involved.
+
+In case of such an event, every independent state in the Dungeon must maintain some level of armed force capable of removing such pests, which are normally beyond the reach of regular delvers.
+
+Specially raised strike teams, monster killing experts, Dungeon annihilators, slayer squads, whatever they’re called, their purpose is the same: a specialised team to be called upon to deal with a particularly nasty monster.
+
+The Church of the Path is no different in this respect. When there is a monster that the Church has deemed must be destroyed, it calls upon a Judgement Battalion. Fanatically loyal, rigorously trained and expertly equipped, they are excellent at their jobs and people are always pleased to see them arrive in town. An answer to prayer and bringers of hope to the faithful.
+
+-           Excerpt from ‘Dealing With Monsters’ by B. S. Wordsmith
+
+As a War Bishop, Graham had seen many things. Mighty monsters brought low; devastated settlements that had stood for hundreds of years, destroyed in an instant. New ones popping up, seemingly out of nowhere.
+
+Yet perhaps none had been quite as interesting as the sight of a Grand Priest attempting to sleep in a bunk alongside the regular soldiers. When Alir had emerged from the barracks in the morning, it was clear he had barely slept, his eyes were bloodshot, with dark circles beneath them. Graham took no joy in the man’s suffering, but he did find it rather intriguing. Like seeing a rare species of bird or a fascinating trinket in the marketplace, it was something he found difficult to look away from.
+
+“You haven’t had enough of an eyeful yet?” Alir grumbled as he pulled out the stool next to the War Bishop and sat heavily at the table with a groan. “By the Path, I’m tired.”
+
+“I am well rested,” Graham said, making the sign of the Path on his chest.
+
+Alir stared at him, carefully blank-faced.
+
+“Thanks. Thanks for saying that.”
+
+“You’re welcome.”
+
+A simple porridge of oats, seeds and nuts had been served for the morning meal, and the makeshift mess hall was filled with the sounds of murmured conversation, earnest prayer and spoons scraping against bowls as the troops made sure to savour every bite. It wasn’t often they got a meal as flavorful as this.
+
+Graham watched openly as the Grand Priest stared at the bowl in front of him for a full minute before gradually raising the spoon to his lips, taking a reluctant mouthful, then grimacing as if in pain.
+
+“Excess is sinful,” Graham reminded him.
+
+Alir slammed a hand down to the table, his face flushing red, but only for a brief moment. A second later, he had regained his calm once more.
+
+“Yes. Yes, of course. As is flavour, apparently.”
+
+“Would you like to meet the orphans who eat well this morning thanks to the humble meal you are enjoying now? Perhaps seeing the light in their faces would provide the indulgence you seek.”
+
+Another grimace was all the War Priest received as an answer before Alir ate another spoonful.
+
+“How long until you head out into the Dungeon and deal with this pest? I heard it was sighted from the city walls only yesterday. How much more do you need to get out… out of the city?”
+
+Graham felt he had been about to say ‘out of my way’ before correcting himself. No matter.
+
+“You believe we have been idle these past few days? We have not. I have interviewed every delver who has had any level of contact with the creature and returned to the city. As the captives have only just begun being returned, I must speak to them as well. Our Dungeon specialists are creating a profile of the monster’s capabilities while we consider different strategies for tackling it.
+
+“At the same time, my best scouts have been cautiously moving through the tunnels, trying to find the best location for us to make battle. I believe that while we have been doing all of this, you have been… what have you been doing, Grand Priest?”
+
+From the looks of things, not much.
+
+“I have been coordinating with the Union to arrange support for your efforts,” Alir grated. “They're furious about being forced to pay additional taxes, and the Council is furious about having to make them. Perhaps even angry enough to provide some of the city guards to help take down that ant.”
+
+“Unnecessary,” the War Bishop said.
+
+“I don’t care if you think it’s necessary. If we can get help, we should. I don’t care what you do with them, put them on the front lines, let them get chewed up by that filthy insect’s mandibles, make them dance a routine to distract it. We have an opportunity here that is rare and precious. Soul Crystal is coveted by the Church, and we are in a position to deliver it!”
+
+And likely a promotion to Cardinal for a certain Grand Priest, Graham thought to himself. It wasn’t necessarily a bad thing for members of the Church to be ambitious, but he found he didn’t particularly like Alir Vinting. The man was lacking in faith.
+
+“We will set out into the Dungeon in two days,” the War Bishop stated evenly. “If you insist on providing this assistance, make sure they are prepared.”
+
+This would be a difficult assignment, of that, Graham had no doubt. A tier eight mythic was as strong of a monster as it was possible to encounter in the fourth stratum. In addition, the monster had proven to have strange and unique abilities that defied explanation. They would have to be ready for every contingency.

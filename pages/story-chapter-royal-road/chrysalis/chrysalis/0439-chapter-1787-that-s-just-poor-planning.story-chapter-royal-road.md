@@ -1,0 +1,63 @@
+---
+id: 19fb8469-f917-5607-94f8-f051258865f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1787 - That’s Just Poor Planning"
+slug: 0439-chapter-1787-that-s-just-poor-planning
+partOf: chrysalis
+position: 439
+ownLength: 1002
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3360402/chapter-1787-thats-just-poor-planning"
+royalRoadId: "3360402"
+---
+
+Look, is it my fault that you decided to construct your hidden village of slugs and slime directly underneath a massive lake of deadly mucus? Of course not! I am not responsible for the poor planning decisions of the Krath tribes!
+
+Bit of an absurd vulnerability if you ask me. And it’s not like it was difficult for me to work out, either. I have the upgraded Tunnel Map Skill, I can see the top of the lake, I was up there not that long ago, and I can see the chamber above me could only have a dozen metres of stone between the ceiling and the lake at best.
+
+I suppose the lake prevents anyone from attacking them from above, and to get in from below, you have to survive the unbelievably toxic environment in the lungs. If I’m guessing, this tribe probably uses those mucus highways to avoid having to travel through either of those, which makes this location pretty defensible, I suppose.
+
+Right up until I get close enough to drill a hole in the roof with a Singularity beam.
+
+Welp, my work here is done, time to skedaddle!
+
+The sheer volume and density of the attack being launched against me is frankly ridiculous overkill. If I was hit with all of that at once, I’d be absolutely melted in a matter of seconds. Wanting no part of it, I turn my industrial franchise around and start sprinting my way down the tunnel I dug as if all the demons of the third were on my tail.
+
+Because what is actually on my tail is significantly worse. Not just what the Krath threw at me, but if I were to hazard a guess… that intense rumbling I’m feeling is the roof of their hideout starting to collapse, which is going to unleash an entire lake’s worth of mucus to come crashing down on where I’m standing right now.
+
+Time to make like an ant and fly the heck out of here, Anthony! Maybe I should have gotten wings when I evolved, dammit! At least this time I can blame Granin and the others and not me.
+
+Go, go, go, go, go!
+
+Thankfully my legs are fully regrown now and more than capable of taking my full strength. I blitz my way through the narrow tunnel, tripping and snagging my mandibles on the walls constantly as I shove and scramble as quickly as I can.
+
+When I fall through the roof and down into the narrow mucus highway tunnels, I gather myself, leap to my feet and start Dashing for all I’m worth. Right behind me, a wave of hyper-dense and murderously potent slime splashes down, chewing into the tunnel floor and eating through in an instant.
+
+Yikes! Turning my head slightly, I can see the opening above melting away and widening rapidly as more and more slime comes through, eating into everything it touches. Trying to run downwards would be an unbelievably foolish move, I need to make ground sideways and try to get out from under the ocean of sludge coming my way, but I can’t do it right here. These tunnels are going to get completely flooded, of that I have no doubt, which means if I tried to hide in here somewhere, I’d only get caught in a trap of my own creation.
+
+Nope! I am absolutely going to get a heck of a lot further away than this, but to do that, I need to go a bit lower first and then make some lateral distance. Which means this race is far from over.
+
+Run, Anthony! Run like your gorgeous, diamond carapace depends on it!
+
+Because it does!
+
+Six legs pumping, I move as fast as I can, which isn’t nearly as fast as I would like it to be. Once again hampered by the narrow tunnels that twist and tangle around each other, I frequently find myself smashing into walls, ceilings and floors as I scrabble to get through.
+
+I’m constantly dumping sludge and mucus out of the channels and onto my carapace, but I have to trust that the Pure Core is going to do its job and prevent any corruption from building up inside me. I don’t have time to worry about it right now, since most of my brains are tasked with plotting a way for me to get the heck out of here. There’s a fine line between tactical genius and getting yourself killed like an idiot, and I’m afraid I walked too close to the line way too often lately.
+
+With another headlong lunge, a dizzying fall and a mighty crash, I finally manage to escape the twisted tunnels of the Krath and land in the chamber just above the lungs. Still pumping away, the massive artery is here, and I hope to heck that it isn’t going to rupture when the rest of the mucus falls down here. I don’t want to think about the volume being pumped through that thing, but if it bursts… holy moly. It’ll make the lake I unleashed from above look like a puddle.
+
+Maybe I need to get further away than I thought….
+
+Actually… if this thing bursts… and the lungs below get clogged up with an endless tide of mucus… uh… oh no. This could be… this could be really bad.
+
+Did I just cause an apocalyptic mucus event in the fifth?
+
+Surely not. But… uh… I’m going to run like heck, just in case.
+
+I don’t have a tunnel map of this broader area, so to a certain extent, I’m going to have to wing it. Time to zoom.
+
+Sprinting as hard as I can, my antennae blow back against the top of my head as I run like the wind. Reaching the exit into another tunnel, I burst through and find it filled with native monsters, all eager to take a chomp out of me.
+
+Forget about it, lads! We need to get the heck out of here. RUN!

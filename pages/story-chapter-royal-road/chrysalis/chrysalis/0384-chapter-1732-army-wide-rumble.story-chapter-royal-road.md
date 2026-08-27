@@ -1,0 +1,77 @@
+---
+id: c620e2b1-f9da-580a-a93c-fe3a2054fb99
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1732 - Army Wide Rumble"
+slug: 0384-chapter-1732-army-wide-rumble
+partOf: chrysalis
+position: 384
+ownLength: 1010
+unit: words
+ownProgress: 1010
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3034780/chapter-1732-army-wide-rumble"
+royalRoadId: "3034780"
+markedReadAt: "2026-06-29T19:56:05.341Z"
+---
+
+After displaying the superiority of my produce, I’m sure I’ve dragged a fair few resources out of my opponents. Dealing with that sort of acid apocalypse must have drained them of mana and mental energy, I’ve no doubt about it.
+
+They’ve also been forced out of their position. Had they decided to stay in place, they risked having to sit and wait while I fired further barrages of acid at them. Clearly they were unwilling to tolerate such a thing and have chosen to attack with vim and vigour!
+
+Excellent.
+
+I can feel my head start to heat up as my mind constructs work furiously, mana twisting and weaving at impossible speeds as I prepare to engage. There are many, many things I have in store for these punks, and I can’t wait to deliver the goods.
+
+It’s a healthy form of stress relief!
+
+Behind me, the two battalions I brought with me are moving into position to back me up, along with Tiny and Invidia. Crinis is lurking nearby and not in my shadow, since I instructed her to hide somewhere else, overriding her objections. She’ll be able to join the fighting at the opportune moment.
+
+Well, let’s see how you deal with this!
+
+Chortling to myself, I unleash a gravity well. Strong, but not empowered, I cast it directly over their advancing heads, reshaping gravity around them and driving them down into the ground.
+
+Against much smaller groups of delvers, this was a highly effective means of attack, since they weren’t able to destroy the spell or counter it in any way. I suppose what Granin told me so long ago is real, that monsters really are much, much more powerful than individual people, especially as the tiers go higher. Even fifty people, with good Levels and experience, aren’t able to challenge me.
+
+Thus proving that monsters are the superior lifeform! Gweheheheh.
+
+However, against what looks to be almost ten thousand humans, the gravity well I conjure is ripped to shreds in a matter of seconds.
+
+Oof.
+
+Well… I suppose it’s only to be expected. Who knows how many of these chumps are able to do external mana manipulation. Once it’s out there, thousands of minds ripping into my spell is certainly a lot more than I can handle at once.
+
+Fine then!
+
+Time for the Empowered Gravity Well! How do you like them apples!
+
+Initially, they don’t like them very much at all. I poured a heck of a lot of energy into this Well, along with the empowerment, so the effect is strong, slamming people into the ground and making them generally unhappy with life. After the first wave of face slammings, things rapidly begin to turn as all of those minds go to work ripping my spell apart.
+
+How the heck are they able to destroy it so quickly? Even with the sort of numbers they have, it shouldn’t be possible to tear my Gravity Well to bits this fast. There’s something fishy going on here. Weren’t they all supposed to be tired after fending off the acid?! Yeah, this smells a bit.
+
+I recognise this stench. The foul smell of hijinks!
+
+Well, it’s fine. I’m not counting on these Gravity Wells to win the battle for me or anything, I was just testing to see how much gas they had in the tank. Apparently, plenty.
+
+So I’ll just have to wear them down even more thoroughly.
+
+Man, they really are able to cover a lot of ground unexpectedly quickly. It’s weird to see an entire army just Dashing their way towards me. They’re really shmooving out there, and it won’t be long before they reach me, which will make things a little dicey.
+
+I pull out more mana and prepare to start causing mayhem, but something takes me by surprise before I get going.
+
+From the Judgement Battalion, that bright light shines once more, momentarily blinding me with the sudden flash of its radiance. My vision clears quickly, and I see the light has once again taken form. Not wings this time, but lances, dozens of them, hovering in the air above the charging troops.
+
+My antennae scream in warning and I react on instinct, releasing the hold of the Well on me and dropping like a stone.
+
+Perhaps they predicted my response, or maybe they just fired the things in a broad pattern. Unable to do too much in the air to dodge, I twist as best I can, but I can’t avoid them all. A lance the size of a telephone pole slams into my side, skewering me like delicious meats from the middle-east and punching deep into my carapace.
+
+Yeeouch! What the heck was that!? There was barely any wind-up to that spell, and it moved so damned fast I couldn’t even see it! How is that fair? If it’s going to have no wind-up and fire at the speed of a literal bullet, then shouldn’t it lack penetrating power or something? How in the name of all that’s shiny did it manage to pierce my glittering carapace?!
+
+At this point, I have to be grateful for a few things. First, the lance isn’t actually a physical object, but a manifestation of energy, so after burning spitefully at my insides, it fades away to nothing and I pick myself up off the ground, rather annoyed.
+
+Secondly, Tiny spent a good five minutes before I came up here hitting me as quickly as he could. Which is rather quick. Although it had started to ease off by the time I was nearly kebab-ed, my system is still astonishingly full of healing fluid.
+
+Ice-cold liquid surges through my body, rushing to the point of impact and soaking into the wound, regenerating the damage in a matter of seconds.
+
+Heheheheh. Too bad, suckers! It’s going to take more than that. A lot more than that.
+
+My minds continue to spin and an Empowered Gravity Domain expands outwards with me in the centre. The army is closing in now. Time to go toe to toe.

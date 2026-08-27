@@ -1,0 +1,93 @@
+---
+id: 4648084c-3b84-5503-9313-a1b321690d24
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1711 - Run Down"
+slug: 0363-chapter-1711-run-down
+partOf: chrysalis
+position: 363
+ownLength: 1132
+unit: words
+ownProgress: 1132
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2937504/chapter-1711-run-down"
+royalRoadId: "2937504"
+markedReadAt: "2026-06-29T19:55:25.412Z"
+---
+
+The delver economy is an interesting case study in and of itself, since there are so many possible revenue streams and an inexhaustible demand for their services.
+
+To start with: cores. Cores are, in many ways, the item more than any other that makes Pangera turn. Needed for any and all enchanted items, they are a fundamental fact of life for nearly every person who lives in the Dungeon. Used to make light, heating, cooling, cooking, freezing food, reinforcing walls and ceilings, cycling air, waste disposal, water creation and purification, to assist the growth of crops and livestock. Everything!
+
+Cores used for this sort of long-term enchanting tend to degrade over time as well. One can’t power their oven with the same core for fifty years, so they are combined with other old cores in order to prolong their life, cycling cores out of the market at a steady rate.
+
+Then there’s the demand for higher-end cores for combat and defense purposes. Needless to say, this is inexhaustible. There is always more need for high-end cores for armour, weapons, walls, gates, communication arrays, enchanted machines of war and pets.
+
+And this was before the Colony’s insatiable hunger for cores drove up prices!
+
+To meet this demand, delvers are well paid and well regarded.
+
+-           Excerpt from ‘Dungeonomics’ by Merchant
+
+“I don’t like this,” Frederick muttered. “It’s too quiet.”
+
+“Just shut up and keep running,” Shamus growled, Elsi nodding along as she ran behind him.
+
+“I probably shouldn’t be thinking this, but I’m kind of glad those morons tried to jump the thing. We may not have had any warning otherwise,” Frederick said, maintaining his steady speed.
+
+It had been a long time since he’d been forced to run through the Dungeon, fleeing for his life. As a manager for the Union, he’d spent most of the last ten years in an office or in meetings. Always more meetings. He’d always said he didn’t miss going delving, but with his heart racing and adrenaline flooding his system, he could at least admit to himself that it felt invigorating. Too long behind a desk had made him rusty, his senses dull. Right now, he felt more alive than he had in years.
+
+But also, closer to death than he had been in years.
+
+“This is why I hate intelligent monsters,” he complained aloud, “it isn’t fair that something can be that strong and be this good at concealing its presence. We didn’t have a whiff of it until it started fighting not two kilometres away!”
+
+“I told you,” Shamus said, face tense. “I warned everyone it didn’t need to walk on the ground and could conceal its mana incredibly well.”
+
+“I know, damn it. No need to keep banging on about it.”
+
+There was a certain art to travelling through the Dungeon at speed. It wasn’t helpful to move too quickly, as that would attract attention from monsters who loved nothing more than to chase fleeing prey. Moving too slowly was obviously unhelpful, so a happy medium had to be found where ground was covered at a good pace but monsters wouldn’t chase after you like excited golden retrievers.
+
+Right now the delvers were pushing right up against the maximum safe speed and perhaps even a little past it. Their numbers were helping to dissuade a few of the more eager monsters, but eventually something was going to give chase.
+
+As long as it wasn’t the ant, things would be fine.
+
+“Oh no,” Frederick groaned.
+
+“What now?” Shamus snapped.
+
+“I just jinxed us,” Frederick replied.
+
+“Shut up with your superstitions,” Shamus hissed. “Focus on the damned tunnel.”
+
+He was especially frustrated at the moment. After receiving a payday beyond their wildest dreams, he and Elsi had been agitating to rotate back to the Green Mountain for days, only to be delayed time and time again since other delvers in the camp kept disappearing into thin air. Tempers on the verge of snapping entirely, the two had been discussing the feasibility of making the trip on their own when this disaster happened. Despite what they’d been able to earn from their first meeting with the ant, neither were in any particular hurry for a repeat visit.
+
+Nobody on Pangera was more superstitious than delvers in the Dungeon.
+
+The Union Manager did as suggested and focused. There were plenty of monsters about in the tunnel, but the vanguard was taking care of the most aggressive ones in a neat and efficient fashion, so the rest of them didn’t need to slow down at all. Staying vigilant was always necessary, of course. At any moment they could be snatched up by a vine, or a beast could swoop down from above, fancying its chance to grab a cheeky meal.
+
+Even though he knew he should focus his attention ahead, he couldn’t help but glance over his shoulder, just to reassure himself.
+
+What he saw froze the blood in his veins.
+
+Gliding like an airship, utterly silent, was one of the largest monsters he had ever seen in his life just… drifting through air, as if mocking everyone else for being bound to the ground.
+
+He saw it, and in that instant, he was certain it knew he had seen it as well. In that moment, it began to speed up.
+
+“Contact!” Frederick yelled, voice booming through the tunnel. “On our six! Do not attempt to engage. Run! Run! Run!”
+
+Taking his own advice, he Dashed, launching himself forward with all of the strength in his body. He did not want to be caught by that… thing.
+
+Showing themselves to be the thorough professionals they were, the delvers launched into action, accelerating rapidly until they were moving as fast as they possibly could. No doubt some monsters would leap up and make chase, but what did that matter? If anything, those creatures would only help delay the ant by getting in its way.
+
+If Frederick needed any additional reason to be afraid, he found it in the faces of Shamus and Elsi. The two delvers were as pale as sheets, and they Dashed with more urgency than anyone else, pushing their bodies to the breaking point trying to move just a little bit faster.
+
+But… against a tier eight mythic monster, he should have known it would be useless.
+
+When he hazarded a glance backwards, he saw the ant had landed and was now running on all six legs. A moment of hesitation, a slight beat as it tensed its legs… then…
+
+BOOM!
+
+It was right there amongst them, as if it had crossed the intervening space in less than the blink of an eye.
+
+An overwhelming mind crushed through Frederick’s defenses and latched onto him and the others as they all staggered in shock.
+
+[Leaving so soon?]

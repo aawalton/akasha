@@ -1,0 +1,85 @@
+---
+id: b9e1ac05-8af2-5d73-9122-2dc5e1b61a5e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1723 - Winding Up Mutations"
+slug: 0375-chapter-1723-winding-up-mutations
+partOf: chrysalis
+position: 375
+ownLength: 963
+unit: words
+ownProgress: 963
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2989653/chapter-1723-winding-up-mutations"
+royalRoadId: "2989653"
+markedReadAt: "2026-06-29T19:55:48.116Z"
+---
+
+I address a few other minor details with my mutations. The triad has given me an organ that effectively acts as a mind mana construct, taking energy from my core and converting it so it can feed straight into my mind constructs. It’s an overall efficiency boost compared to having to do the conversion myself or using a whole mana gland on it.
+
+A gain in efficiency that can be further improved via mutation, naturally. I take the organ to +15, essentially having it produce mind mana more efficiently at each step, then move on to my vestigial legs.
+
+It’s not hard to work out what I need from the vestigial legs. I need them to grow in faster once they’re… deployed… I suppose. Then, once they have been… deployed… I need the next set of vestigial legs to be ready sooner.
+
+After all, I might have my legs explode twice in rapid succession. Replacing them once is all well and good, but it doesn’t fully remove the vulnerability of having legs that are much weaker than the rest of me.
+
+So I take one of those options at +5, then the other at +10 and fuse them at +15. Hopefully that’ll help out.
+
+Speaking of which, my legs themselves. They’re way too important to be running around unmutated, even if they have been reforged into a fancy new material.
+
+Graviton Splinters. My legs don’t suffer the effects of gravity as much as they should, which basically means my body puts less stress on my legs than it should. Along with being an overall much more durable material, it's a benefit that helps a lot, considering my rather chonky weight class.
+
+When it comes to what I want to do with my leg mutations… well, making them overall sturdier doesn’t hurt. Just because I have a backup system in the form of vestigial legs doesn’t mean I’m excited to have to use it. Secondly, making them overall stronger doesn’t seem like a bad idea either. Being able to carry more weight and move my body around a bit easier seems like an overall winner.
+
+Which is enough to get me to +15 where I’ll leave it off.
+
+I think that’s enough mutating for the time being, I don’t like to do too much at once, especially right now when I’m still getting used to my new frame.
+
+Locking in those selections, the all too familiar sensation of the creeping itch begins to take over. It builds and builds until I can’t help but flail wildly, twitching on my back on the ground.
+
+FLAGGANAZZN!
+
+I hate this. Stupid Gandalf! Why the heck didn’t he fix this problem? Lousy bearded charlatan. I’m really the only person who has to endure this nonsense? Not even person! The only monster who has to endure it too!
+
+Outrageous!
+
+When I get the chance, I’m going to give that Gandalf a piece of my mind. This injustice cannot be allowed to stand!
+
+When it’s over, I emerge from the chamber I used, looking dignified and calm. Nobody knows of the embarrassing situation I was just forced to endure. I need to silence those who actually saw me flailing around that last time, come to think of it. I’m sure they won’t say a word so long as I ask them nicely.
+
+“Eldest, are you finished mutating?”
+
+“Uh. Yes. Yes I am. How did you know I was mutating?”
+
+Sloan looks down and to the side.
+
+“It was just a lucky guess.”
+
+“I… see.”
+
+“Putting that aside,” the general says, cleaning her antenna, “I thought I should check with you to see if your plans remain unchanged for the next phase. I believe all things are in place from our end.”
+
+“Good. Have we received payment for the first wave of delvers?”
+
+“Yes, Eldest. I’m still surprised they were willing to pay.”
+
+“The only thing worse than dealing with monsters is the indignity of openly losing to monsters. If we had locked up their people and kept them, Green Mountain might have used it as an excuse to ramp up their aggression against us, but doing so would have made them an international embarrassment. We gave them a relatively easy out. Pay up, more than they would like, and the problem goes away.”
+
+“But will they be willing to do so a second time? Won’t they just get angrier and decide they would rather go to war than have to pay up again?”
+
+“War is expensive,” I tell the general. “We can make some magnanimous concessions in order to soothe their pride, but we are going to pull a lot of money out of Green Mountain. I assure you they won’t be interested in fighting us after that. As long as Merchant strikes the right balance, we will have very angry, but pacified neighbours for a while.”
+
+Sloan shakes her head.
+
+“I don’t know what to make of that one. She is so… un-ant. I find her behavior unnerving.”
+
+“Don’t be fooled,” I warn her. “Merchant is just as much an ant and a member of this family as anyone else. The only difference between her and the rest of us is that she understands some things that we don’t.”
+
+“You… you don’t understand them either, Eldest?” Sloan says, sounding surprised.
+
+“Not really,” I shrug. “Trust me, Merchant is going to do a great deal for this family. As long as we don’t get in the way, she isn’t going to have a problem.”
+
+I pull an antenna through my elbow joint, revelling in the sensation of cleanliness. Nothing beats a nicely groomed antenna.
+
+“Alright then. Time to go and make a show. This could get nasty, so make sure everyone is prepared for some tough fighting.”
+
+“I will, Eldest.”

@@ -1,0 +1,77 @@
+---
+id: f2127f5c-6c54-5597-a058-88a7f5a4308d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1722 - Of Course There’s a Catch"
+slug: 0374-chapter-1722-of-course-there-s-a-catch
+partOf: chrysalis
+position: 374
+ownLength: 1223
+unit: words
+ownProgress: 1223
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2986273/chapter-1722-of-course-theres-a-catch"
+royalRoadId: "2986273"
+markedReadAt: "2026-06-29T19:55:46.219Z"
+---
+
+Naturally, there’s a catch. Of course. Unlimited mana? It goes against the very nature of the entire world! If I could provide unlimited mana to myself, then I could wander freely around the Dungeon, even going all the way to the surface, as a tier eight monster! I could cast literally endless spells. Gravity well after gravity well, never run out of juice, and that’s just the basic stuff.
+
+I could create a pocket of hyper-ultra dense mana just by spitting it out of myself over and over again. I could theoretically recreate conditions from an entire stratum down. Or even two, if I kept at it long enough.
+
+However, that’s not the case here.
+
+After pumping in a frankly absurd amount of mana, the reaction begins, and I checked, it can be self-sustaining, feeding the liquid mana back into the Well to keep the reaction going. Of course, more came out than went in, and the organ continued to heat up as the seconds ticked by. In the interests of science, I kept feeding in more and more energy, giving the Well what it required in order to keep going. Eventually, the Well grew so hot I felt as if I were going to get burned from the inside out. Just when I thought the Well was about to catch fire, it stopped accepting more energy, eventually petering out and going dormant once more.
+
+What remained behind, clinging to the outside of the Well in defiance of gravity, is the ‘profit’, all of the energy it spat out that I couldn’t put back in. Suffice to say… there’s a lot. Extremely dense, I couldn’t even try and break down the numerical value in MP this much would represent, but it’s a lot. Thousands at least.
+
+While I wait to see how long it takes for the Well to cool down and start working again, I try to think of the implications that this organ will have.
+
+Having a huge amount of mana available is nice, but how significant is it in the long run? As it turns out, quite a lot. There’s an almost infinite supply of energy in the Dungeon as a whole, but there is only a limited amount in any one location, and when a fight breaks out, the participants start competing over that supply immediately. Especially when there are proper magic users around. Monsters suck in mana by their very nature, but when groups of trained mages clash, fighting for control of ambient energy is literally the first thing they do.
+
+I, on the other hand, can walk around with a backup supply worth thousands of MP sitting inside my body, where nobody can touch it. Even foes who are able to manipulate external energy far beyond my own level of skill won’t be able to cut me off from mana so long as I have this thing inside my carapace.
+
+More to the point, the thing hasn’t been mutated a single time. I’ve no doubt I can increase its efficiency, or make it run for longer, or perhaps even change the type of mana it spits out. Maybe I can get it to the point where it gets close to running all the time, becoming a near permanent supply of energy.
+
+Who knows?
+
+From what I can tell, this organ is already extremely strong. Before I muck around with it and start adding mutations, I think I’ll play with it a little longer, but I’m already looking forward to the potential it holds.
+
+The Everflowing Well of Living Waters.
+
+It’s Anthony approved.
+
+The other big ticket item I need to test is the industrial manifold now housed in my expanded commercial empire. Obviously I’m not doing that in the nest, and I wasn’t prepared to try it out in the tunnels where it might deliver a horrific and painful end to some delvers that I’m trying to profit from. Now that the tunnels around the nest have been cleared out, I’ll give it a try the next time I go out there.
+
+I mean… considering it has all of the effects of my previous acid organs, along with the energy of Theorazzn providing unexpected benefits… I’m genuinely a little concerned about the kind of product my business enterprise is now capable of delivering. Hopefully, it’ll all be fine.
+
+Hopefully.
+
+Well, while I’m resting in the Colony, might as well get some mutating done. In private. That shameful public display before I evolved will never be repeated in my lifetime! Which means I have a reasonable excuse to move away from the screeching priests who are still going at full volume.
+
+Once I’m out of the way, I bring up the menus and start perusing, locking in a few things.
+
+Getting my tendons all the way up to +30 seems like a no-brainer. Having all the tendons in my legs rip off my carapace in the same instant was… less than stellar. I’d rather not try and perform another empowered Dash until I’m confident I won’t be immediately crippling myself.
+
+Which might happen at +40.
+
+I’d love to start mutating my regeneration network, but I’m a little worried about it, honestly. The thing is so damned effective already, playing with it might get really out of control.
+
+However, it is incredibly strong. I’d be an idiot to just avoid it altogether, and I do have some experience with it. So I might as well investigate some of the basic mutations at the very least.
+
+Going through the list for the regeneration network is as intimidating as I thought it was going to be. Some of the first options I see relate to ‘increasing the healing fluid increment’, which is a weird way to say ‘more healing per attack’. Interestingly, some of the mutations actually relate to the healing fluid reabsorption rate, which I didn’t expect. I can’t say it’s very comfortable having my system pumped full of litre after litre of healing fluid, so having my body reabsorb it a bit faster would be nice, but I suspect the main benefit is probably to alleviate fatigue.
+
+From what Granin told me, it's supposedly very taxing on the body to produce all of this healing fluid, especially in a short time frame. A regular monster would be absolutely exhausted maintaining the network for more than a few minutes. I am sustained by the pure Will of the Colony, so I don’t really care about having to pay the stamina cost.
+
+And there are mutations for that as well, reducing the stamina cost of producing the fluid, now that I’m looking for them. Again, I can probably ignore them.
+
+Deciding not to commit too hard, I take the regeneration network up to +15. The first mutation increases the healing increment, which will speed up the exponential growth rate of the network. The second mutation increases the efficacy of the fluid, making it more enriched. Essentially, it will repair more damage for each drop of healing fluid. At +15, I combine the effects and move on to some other things.
+
+Actually, while I’m at it, I should take a look at my species. I honestly don’t even remember what Granin told me before I evolved.
+
+Name: Anthony
+
+Level: 11 (Mythic) (VIII)
+
+Species: Endless Paragon
+
+Huh. That’s better than I remember. Nice.

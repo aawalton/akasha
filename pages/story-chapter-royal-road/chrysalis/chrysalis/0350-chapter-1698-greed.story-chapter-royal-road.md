@@ -1,0 +1,135 @@
+---
+id: cbf7a088-96b1-5fc4-b48c-0f26ebf778c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1698 - Greed"
+slug: 0350-chapter-1698-greed
+partOf: chrysalis
+position: 350
+ownLength: 1323
+unit: words
+ownProgress: 1323
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2816795/chapter-1698-greed"
+royalRoadId: "2816795"
+markedReadAt: "2026-06-29T19:55:00.570Z"
+---
+
+Rare indeed is the individual whose appetite is equal to their capacity. Humans especially, they always want more.
+
+- Excerpt from ‘Observations of Merchant’ by Historiant
+
+A churning mess of panic, relief and anxiety thundered through Elsi as she saw the staging camp come into sight. Even when the monster had dismissed them, she hadn’t believed it was truly going to let her go. Every step, she expected it to descend on them with those savage-looking mandibles, each the size of a merchant’s wagon, or crush them with its strange magic.
+
+Yet it hadn’t happened.
+
+Even then, she hadn’t let herself believe she was going to survive. The monster was only using them to track down the camp and capture more delvers. As soon as they got close enough, it would squash her and Shamus and that would be the end of it.
+
+That hadn’t happened either.
+
+When she finally stepped over the warded threshold and the illusion of the tunnel wall fell away, the three-way war of emotions finally ended as relief overwhelmed its competitors and she collapsed to her knees.
+
+She was alive. She was alive!
+
+How many people had encountered such a powerful monster and lived to tell the tale? Not many. She’d certainly never met one. Tier eight… a mythic monster, a real powerhouse of the Dungeon. Finding a monster at a higher evolutionary state than that in the fourth stratum was essentially impossible.
+
+Barely aware of Shamus slumping down to the ground beside her, Elsi just let herself draw in shuddering breaths, letting her thundering heart begin to slow its frantic beating.
+
+“Elsi? Shamus? What the heck happened?”
+
+A gruff voice called from nearby, and she didn’t need to look to know who it belonged to.
+
+“Frederick…” Shamus groaned. “There’s a problem. A big problem.”
+
+“What? Have the ants launched an attack or something? Do we need to retreat?”
+
+“Sort of and maybe,” the veteran delver replied. “Just give me a second. I don’t think I’ve been that close to death in… ever.”
+
+Frederick was a large, bearded man with a booming voice and presence to match. One of the most senior delvers in Green Mountain, he was in charge of this forward camp and a liaison for the Union. Dozens of other delvers looked curiously at the two collapsed figures at the entrance, but otherwise went about their business, either resting in the neatly arranged tents or preparing to head out.
+
+Elsi had a feeling they wouldn’t be going anywhere once word got out.
+
+Even now she could see the image of that monster just floating into view around the corner and the oppressive air around it. Against such a monster, she was completely helpless, unable to fight back, unable to even understand what was happening.
+
+If she never saw the creature again, she would be glad of it. Hopefully Shamus agreed and they left. There was plenty of work to be done in the Dungeon without chasing the bounty on these ants. You couldn’t spend money when you were dead.
+
+“Are you sure?” Frederick rumbled, a doubtful expression on his face as he stroked his beard. “There’s no word of the ants having a monster anywhere near that strong.”
+
+“I’m not a Dungeon Seer,” Shamus snapped, “but I watched it crush a dozen delvers with ease, treated them like they were toys. Tier eight at minimum. Mythic for sure.”
+
+Frederick held up his hands.
+
+“Not trying to call you a liar, Shamus. I know your word is good. Why did it just let you walk away, then? You said it captured everyone else?”
+
+“It wanted us to tell everyone it was there. Even advertised how much it was worth, telling us about the rare materials in its body.”
+
+“It did what?” Frederick stared. “Why would a monster tell delvers how valuable it is?”
+
+“So we would try and kill it,” Shamus said flatly. “It wants us to try so it doesn’t have to bother looking for us.”
+
+Frederick looked utterly baffled.
+
+“Well… I doubt there are many stupid enough to try and fight a tier eight mythic. Catching one evolving is one thing, but… fighting it...” The big man pulled a face that said everything that needed to be said.
+
+Shamus slowly picked himself up, then loosened the strings on the pouch tied to his belt. Reaching in, he removed the hunk of carapace the monster had given him.
+
+Frederick reached for it immediately, but Shamus pulled his hand back.
+
+“This belongs to Elsi and I,” he warned. “If you acknowledge our claim, you can look at it.”
+
+“How many years have you known me?” the senior delver grumbled. “You want it in writing?”
+
+Shamus hesitated, then nodded.
+
+“I do. I’m not trying to offend you, but I think this might be valuable.”
+
+Elsi thought he might have taken offence, but hearing such words out of Shamus seemed to rouse Frederick’s curiosity more than anything else. It took a few minutes to get the requisite forms signed and sealed, then Shamus handed it over.
+
+As soon as it fell into his hands, Fredericks' eyes widened.
+
+“Mother’s milk! This is heavier than it looks!”
+
+He turned it over in his hands a few times, running his fingers along the surface, then held it up to the nearest light source, carefully examining it. With dozens of years of experience, this was a man who knew the value of what he was looking at. Usually.
+
+“I’ve never seen anything like this,” he muttered, half to himself. “Some sort of diamond?”
+
+“The monster’s carapace is made of the stuff. It’s incredibly hard. Sword light barely put a dent in it.”
+
+“Can I take it to the Seer? Get it assessed?”
+
+Shamus shrugged.
+
+“May as well. We can’t get paid unless you do.”
+
+Dungeon Seers who specialised in monster cores and components were a staple of the Union and could be found everywhere delvers gathered. Elsi was a little surprised one had bothered to come to this forward camp, but considering how many delvers were working here, it made sense. They got paid by the commission, after all.
+
+Towards the back of the camp, tucked up against the wall was the Seer’s tent. After a moment, they were ushered inside to find a surprisingly young woman seated behind a table, magically enhanced glasses on her freckled face.
+
+“You’ve got something good for me?” she said eagerly.
+
+“Take a look,” Frederick said, placing the palm-sized hunk down on the table carefully.
+
+Looking intrigued, the Seer reached out a finger and placed it on the surface, closing her eyes as she did so.
+
+The three delvers waited with bated breath as she did her work, communing with the strange powers of the Seers, reading the knowledge of the Dungeon itself.
+
+After a few minutes, her eyes flew open and her face paled in shock.
+
+“Where did you get this?!” she gasped, snatching the shard up in both hands.
+
+Frederick looked at Shamus, but he shook his head.
+
+“Let’s talk about what it’s worth first,” he said firmly.
+
+“There’s no price on this,” the young woman said immediately.
+
+Elsi’s heart dropped. The only consolation she’d taken out of that terrifying experience was the hope that they would get some pay out of it. The stone was worthless?
+
+“What do you mean?” Shamus said sharply. “Isn’t this some form of diamond?”
+
+Flushing red, the Dungeon Seer shook her head furiously.
+
+“Sorry, sorry! I wasn’t clear. I mean there is no listed price! My Skills tell me this is Gravity Compressed Diamond, and I don’t need to check the listings, I’m sure that this is a brand new material. It’s literally priceless.”
+
+There was a sharp intake of breath and Elsi turned her head to see Frederick stroking his beard.
+
+“You said the creature’s carapace was made of this?” he said to Shamus, eyes fixed on the diamond. “How big did you say this beast was?”

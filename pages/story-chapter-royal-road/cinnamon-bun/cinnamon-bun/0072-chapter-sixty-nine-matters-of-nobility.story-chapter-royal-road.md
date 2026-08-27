@@ -1,0 +1,173 @@
+---
+id: 7ad47d20-8eb6-5f14-9232-abc8b6cc0a2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Nine - Matters of Nobility"
+slug: 0072-chapter-sixty-nine-matters-of-nobility
+partOf: cinnamon-bun
+position: 72
+ownLength: 2068
+unit: words
+publishedAt: 2020-08-05
+link: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/534609/chapter-sixty-nine-matters-of-nobility"
+royalRoadId: "534609"
+---
+
+Chapter Sixty-Nine - Matters of Nobility
+
+Everyone gathered around the little table in the lounge for a spot of tea provided by Albert the butler. It was nice, though I could feel the looks directed my way by the members of the Bristlecone family.
+
+The parents were mostly impassive, and I couldn’t really tell how they felt about us, but Erato was downright glaring at me. Even Albert the butler seemed to look at me strangely from time to time.
+
+They would also all take some time to stare at the wand I had given Awen which was sitting next to her mug of tea.
+
+The only one who looked my way with anything approaching a positive expression was Awen. She had a small smile for me whenever I glanced her way.
+
+Though that might have been because I was a hero in the tale Abraham was currently spinning. “Ah-hah! And then the little Miss here yanked on the fore sail and had the Shady Lady spin out of the whale’s path! Just in time too, we were almost done for!” he said.
+
+The little boy, Callio 'ahhed’ in awe and I had to admit that did make me feel a little warm inside, even if Abraham was exaggerating a little.
+
+Missus Bristlecone coughed to clear her throat and smiled our way. “May I ask what a young... Lady such as yourself and Miss Albatross here are doing all the way in Greenshade? It is rather out of the way.”
+
+I looked over to Amaryllis, but she shrugged as if to say ‘you take this one.’ “Ah well, we ran into a bit of trouble with the cervid and Abraham said that he was coming this way and that we could ride along with him if we wanted to. Oh, and Amaryllis is about to reach her class evolution and there’s a dungeon she wants to hit not too far away. I thought it would be nice to help her.”
+
+“Indeed,” Amaryllis said. “I’m aware that the areas around Greenshade are mostly explored already, but I considered taking a small mission with the local guild, just to assist us with Guild credits in the future.”
+
+“That sounds wonderful,” Missus Bristlecone said. “I’m surprised that a member of the Albatross clan needed assistance from a humble citizen of Greenshade to come all the way here.”
+
+I blinked. Had she just called Abraham humble? That... didn’t parse. At all.
+
+“I wouldn’t borrow one of the family’s airships just to fly such a short distance,” Amaryllis said.
+
+“Wait,” I said. “You have airships?”
+
+She huffed. “Broccoli. My family owns the third largest airship construction company on Dirt. Of course we have our own ships.”
+
+“Cool! Could you get me a discount when I buy one?” I asked.
+
+She rolled her eyes, but I had the sense she was a little amused. “I suppose. I’ll ask my sister, she runs that side of things now. I’m sure you could win her over with a bit of cajoling.”
+
+Using your charisma to trick people into doing things was wrong, but owning an airship was pretty much the coolest thing a person could do. It was a moral dilemma I would need to think over when I had more time.
+
+“We should be heading out soon,” Amaryllis said. “It’s approaching mid-day and we still have much to do.”
+
+“Of course, of course,” Missus Bristlecone said. “You will of course return here for the night. I won’t have such distinguished guests sleeping in an inn of all places.”
+
+“That’s awfully kind of you, Missus Bristlecone,” I said.
+
+“It’s Countess, actually,” she said with a bit of a titter.
+
+“Oh. Uh,” I said. “Sorry. I was never good at keeping track of that kind of thing. Back where I’m from I could just call a Countess Miss and it was fine.”
+
+Missus... Countess Bristlecone shifted in her seat a little. “Ah, I see.”
+
+“If you girls are heading out, you should take a guide with you!” Abraham said.
+
+Lewis, the family patriarch nodded. “I’m sure Erato would love to accompany you,” he said.
+
+“Bah, that boy?” Abraham said as if the boy in question wasn’t sitting on the same couch as him. “He’d try to pinch one of the girls and would end up with his neck snapped.”
+
+“I-- I would never do that,” I said.
+
+“Didn’t you fight off an entire cervid mercenary band?” Abraham asked.
+
+“There were just six of them!”
+
+Erato looked to his father and it didn’t take a genius to see that he was very much against the idea.
+
+“Take Awen, the poor girl needs to get out of this shack once in a while and take in some fresh air,” Abraham said.
+
+“Um. Only if she wants to,” I said.
+
+Awen seemed ready to reply, her head already nodding up and down, but her mother was faster. “No, of course she doesn’t,” the Countess said.
+
+I blinked at the older woman. “You’re not Awen,” I said. I slapped a hand over my mouth. “I’m sorry, that came out as really rude.”
+
+Abraham roared with laughter and Countess Bristlecone’s face set as if it was made of plastic, but it was Awen that I was focused on. “I, I wouldn’t mind showing you around, M-Miss Bunch,” she said.
+
+“Brilliant!” I cheered as I bounced to my feet. “Are there street vendors in Greenshade?”
+
+“I... I don’t know?” Awen said.
+
+“Then let’s find out, I skipped breakfast this morning because the food on the ship exploded along with the engine and the only food I have in my bag is kind of lame.”
+
+“Um, are we going now?” Awen asked.
+
+“Uh,” I said. I was the only one standing up besides Albert and I suddenly felt rather awkward about the whole thing. “Why not? The adults can talk about adult stuff in the meantime. And we should be back before it gets dark out, right Amaryllis?”
+
+Amaryllis got to her feet, carefully shifting Orange--who had traitorously chosen her lap over mine--so that the kitty would perched over her shoulder. “I suppose so,” she said. “Albert, would you show us out? Awen, we’ll be waiting for you outside.”
+
+“Bye everyone! I’ll see you later Abraham, and you too, Mister Raynald.” I waved, then jogged after Amaryllis who didn’t seem all that keen on being polite. It was a bit of a recurring theme with her.
+
+“They seem like a nice enough family,” I said as we followed Albert down a corridor that led back towards the entrance hall.
+
+“I suppose,” Amaryllis said. “They’re passable, for humans.”
+
+“Hey! I’m a human too,” I said.
+
+Amaryllis snorted. “Sure you are.”
+
+“Really, they weren’t that bad, were they?” I wondered.
+
+We reached the entrance hall and Albert paused. “Would you ladies want some refreshments while you wait?” he asked.
+
+I shook my head and shifted around so that my backpack was on snug. “I think I’m good, thank you.”
+
+“Likewise,” Amaryllis said before she made a little shooing gesture. Far from looking insulted, Albert bowed at the waist and with a little smile, walked off back towards the rest of the family. Amaryllis watched him go, then turned back towards me. “I don’t like the nobles in Mattergrove. They’re... young.”
+
+“Young?” I asked.
+
+“Most of them are new to their titles and posts. A generation or two at most, especially so close to the frontier like Greenshade is. It means they’re far more prone to back-biting and trying little power plays. In the Nesting Kingdom, most of the clans have been in place for centuries. Things move with a lot more decorum and tact.”
+
+“Okay,” I said. That really didn’t change much for me, as far as I could see. “It doesn’t really matter, I guess, not unless they’re into doing some particularly evil stuff. They don’t do slavery and things like that, right?”
+
+“Slavery? No, of course not,” Amaryllis said. “I think they might have some laws in place to use captured enemy combatants as slaves, if I recall my political lessons on Mattergrove correctly, but the idea of Mattergrove defeating... anyone is hilarious.”
+
+“Awen seems nice,” I said. It was a small change of subjects, but I didn’t want to have Amaryllis ranting about politics when my new potential-friend arrived.
+
+Amaryllis snorted. “She seems more repressed than nice. The girl is pretty typical of a human noble lady. There are two sorts. Those that will poison your wine with a smile, and those who seem terrified of their own shadows.”
+
+“That doesn’t seem fair,” I said.
+
+She shrugged. “It’s politics, there’s no fairness involved. I’m looking forward to being on the road again. A new class, another level, more opportunities.“
+
+“More adventure,” I said. The trip over had been fun as heck, but I was looking forward to... more. I didn’t really have a goal set out before me, which was a little strange, now that I thought about it. Back on Earth there were some clear milestones to reach. Finish high school, then work a bit, then go to college, then get a job, then find a nice boy with a strong jawline, then settle down and have a nice little family while working part-time until I retired and could play with my future grandbabies.
+
+Here, on Dirt, I had been given a quest at first, and I suppose that it was still active, but I didn’t have nearly as much direction in my life. If I wanted to I could just start walking and see where that would lead me. I was pretty sure that even Amaryllis would follow me for a way.
+
+Maybe I should begin to set some dreams for myself, some goals. “Hey, how much does an airship cost?”
+
+Amaryllis snorted, then her smile faded a little. “Are you being serious?”
+
+“Yeah, of course,” I said. “A nice one. Maybe not the biggest kind, but something that’s, um, quality.”
+
+“That would depend on a few other things. Buying an older model is possible, though the demand for airships is higher than even the Albatross can provide. A small ship, about the size of the Silver Boot we rode the other day, would be anywhere from eight hundred lesser gold to a thousand two-hundred.”
+
+I hummed. “I have eight lesser gold on me. So I only need a hundred times as much.”
+
+“You idiot,” Amaryllis said. “You’re not thinking of the cost of a crew, the initial equipment you’ll want aboard your ship, the maintenance, the dragon tax and about a hundred other things. That’ll be half-again the base cost.”
+
+So I needed about a thousand two-hundred lesser gold before I could start thinking about buying myself my own airship. “I can do it,” I said.
+
+“I would love to spend hours pointing out how unlikely that is, but I know better than to waste my time like that,” Amaryllis said.
+
+“Don’t be that way,” I said. “When I become Sky Captain Bunch you can be my first mate.”
+
+“Only if I’m allowed to mutiny.”
+
+I giggled and grabbed Amaryllis for a hug because I knew she’d never actually do that and also I felt like giving hugs. She didn’t even protest much, which meant that I was really breaking through all the barriers that prevented us from being the best of friends.
+
+A scuffle off to the side had me looking up.
+
+Awen stood halfway down the stairs, her hands pressed together over her waist and her long dark hair pulled forward so that her bangs partially hid her face.
+
+She had changed. Instead of wearing a stuffy but pretty dress, she was now in a far more practical outfit, still a dress, but it only stopped at her ankles instead of dragging on the ground with every step and there wasn’t nearly as much lace. It was a bright, sky blue, nearly a perfect match for my own dress. She had a bag hanging by her hip, probably filled with all sorts of goodies.
+
+“Ah, I’m here,” she said as she practically tumbled down the stairs. “I’m ready for you, Miss Bunch.”
+
+“Alright! Then let’s hit the road!”
+
+“Why would we do that?” she asked.
+
+“Ah,” I said. “It’s an expression.... Nevermind! We have adventures to go on!” Reaching out, I grabbed Awen’s hand, then one of Amaryllis’ talons and rushed off and out of the mansion.
+
+***

@@ -1,0 +1,95 @@
+---
+id: eb37e345-2f24-541e-9f74-9d4969bf60f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1709 - Judgement"
+slug: 0361-chapter-1709-judgement
+partOf: chrysalis
+position: 361
+ownLength: 1230
+unit: words
+ownProgress: 1230
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857408/chapter-1709-judgement"
+royalRoadId: "2857408"
+markedReadAt: "2026-06-29T19:55:21.519Z"
+---
+
+Of all the organisations separate from the free cities, kingdoms, empires, trade federations and territorial associations in the Dungeon, the most well-known and impactful is the Abyssal Legion.
+
+Almost as ubiquitous is the Church of the Path. Its origins are lost to time, though the Church itself claims to have arisen during the Rending. To some, it seems absurd that a faith based around the Dungeon as a proving ground and test of spirit could arise while that same Dungeon was tearing the world apart, but to others, it makes perfect sense.
+
+Why not seek out meaning in the destruction? Better to think that the death and suffering were for a purpose rather than random and pointless.
+
+Although not tied to any other authority, the Church of the Path makes its headquarters within the Grand Cathedral in the Golden City. Preaching that the Dungeon exists to serve and uplift the old races of Pangera, it has spread to almost every quarter of the world.
+
+-             Excerpt from ‘Societies and Organisations of the Dungeon’ by Allus
+
+“We are here to execute the will of the Church.”
+
+Silent and unmoving, rank upon rank of soldiers, dressed in armour gleaming with pure silver and draped in robes of white listened intently, their discipline never wavering.
+
+“Do not waver in your faith, do not stray from your purpose. If there are doubts in your heart, crush them without mercy. Even the slightest crack in our armour will render it ineffective. Dismissed.”
+
+Feet stomped on the deck as, rank by rank, the Judgement Battalion began to file down the gangway and onto the dock. The people of Green Mountain showed proper deference as they gave way, allowing the flawless lines of soldiers to enter the city. From the deck of the ship, War Bishop Pearson watched as the men and women who served under his leadership marched, heads high and souls afire, eager to serve the commands of the Church.
+
+Eyes hard, he waited until the last rank had disembarked before doing so himself. Trusting that the auxiliaries would see to the care of their weapons and shields, he followed the last of his troops, eyes and ears open to the happenings on the mountain.
+
+It had been years since Pearson had been home, but not much had changed since his last visit. A martial people, living in the shadow of one of the largest monsters the Dungeon had ever seen, locals were expected to live and act a certain way in regards to the Dungeon. It was the ever-present enemy, a shadow that lay over the brightest of days.
+
+Of course, they welcomed the arrival of the Soldiers of the Path. Cheers rained down on the Battalion, along with flowers hurriedly cut from gardens, while others laid down their cloaks in the soldiers’ path. Though, along with the celebrations, Pearson detected an air of tension and anxiety, like a worm burrowing within an apple. Of course, that was to be expected to some extent; a Judgement Battalion wasn’t dispatched for nothing, there had to be a target, which meant danger was nearby.
+
+Yet he was certain it went deeper than that. Something was going wrong here.
+
+After seeing that the troops were billeted comfortably and the captains were assured of their duties, War Bishop Pearson strode away, heading to his first appointment.
+
+High on the Mountain, almost to the highest inhabited levels, he found a residence carved from gleaming white stone. Dripping with luxuries and sparkling in the mana-enhanced light of the fourth, it was fit for a king, or a noble lord at the very least. Cringing attendants took his name at the entrance before checking he was allowed entrance. When he was granted permission, they apologetically asked if he could remove his armoured boots before stepping inside.
+
+Pearson ignored them.
+
+Shouldering past those who timidly tried to step in his way, the War Bishop marched within, not caring if he stepped a little harder onto the dappled marble floor than was strictly necessary. On the wide balcony, and under an arch of perfectly formed stone that extended a dozen metres away from the edge of the manor, he found who he was here to see.
+
+“Grand Priest Alir Vinting,” he said.
+
+The man in question rose from his couch, placed his hand on his heart, and bowed in welcome.
+
+War Bishop Graham Pearson was disgusted.
+
+“It is most wonderful to see you here, War Bishop,” Alir said, smiling. “I am gratified the Church saw fit to act so expeditiously in regards to my report.”
+
+Pale blue eyes as cold as glacier ice stared unblinking at the Grand Priest.
+
+“How much is the Church paying to keep you in this residence, Grand Priest Vinting?” he asked.
+
+Alir blinked, then restrained himself from rolling his eyes. He hadn’t met this particular War Bishop many times, but Pearson’s reputation was well-known within the ranks of the higher-ups in the Church. With his shining gold hair severely pulled back and tied at the nape of his neck, there was neither a hair out of place nor a single smudge upon his armour. Everything about him spoke of rigid control and uncompromising standards.
+
+“On a mission of such importance, I deemed it necessary that I take up a residence that did not besmirch the prestige and authority of the Church,” Alir said, his smile tightening.
+
+Pearson said nothing for a moment, merely looking around him. Paintings, cloth woven with shimmering golden thread, the rug formed from the hide of a powerful monster. Then there was the view. From this high, the waters of the fourth twinkled like a jewel, distant mountains rising like titans to hold up the sky above.
+
+“I deem it to be excessive. You will cut short your stay and be billetted with my troops.”
+
+War Bishop Pearson’s tone brooked no argument, the matter was final. Alir smothered his reflexive wince and maintained the smile on his face, while suppressing the spark of anger in his chest.
+
+“You do not have that authority.”
+
+“In the field, I outrank you.”
+
+Alir looked about himself, brows raised.
+
+“Do you consider this the field? Is there a danger present I am unaware of?”
+
+Pearson finally allowed himself the slightest of smiles.
+
+“Men and women of the Judgement Battalions are expected to maintain battle readiness at all times outside of the cathedrals. The moment we step beyond the cathedral gate, we are in the field. If you don’t agree, feel free to take the matter up with the Arch Bishop upon your return.”
+
+They both knew Alir was in no position to directly refuse. If he didn’t want to move, Pearson could pick him up like a child and roll him down the mountain like a ball.
+
+“Rejoice,” the War Bishop said. “I will personally see to it that the funds saved are distributed to the widows and orphans who have lost their family members to the monsters. In this way, we light the Path.”
+
+Grand Priest Alir Vinting swallowed the anger now threatening to rise up and choke him.
+
+“We light the Path,” he echoed, bowing to hide his expression.
+
+Pearson didn’t look as if he was taking any pleasure in the other man’s suffering, and Alir was certain that he wasn’t.
+
+“Now,” the War Bishop said, “tell me about this creature I am here to kill.”

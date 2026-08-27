@@ -1,0 +1,89 @@
+---
+id: 108935a3-e20e-5f07-a6f7-88ec58596302
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1713 - Re-negotiate"
+slug: 0365-chapter-1713-re-negotiate
+partOf: chrysalis
+position: 365
+ownLength: 989
+unit: words
+ownProgress: 989
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2944104/chapter-1713-re-negotiate"
+royalRoadId: "2944104"
+markedReadAt: "2026-06-29T19:55:29.243Z"
+---
+
+“Ah, if it isn’t my favourite resident of Green Mountain. So nice to see you again, Ms Alice. Or is it Mrs?”
+
+Once again, in the boat, greeted by obsequious, yet somehow mocking brathian merchants, here to meet this infuriating creature.
+
+“I am married,” she replied stiffly, taking her seat.
+
+“Oh, how wonderful. I must say, as a terrifying and frightful monster,” Merchant chuckled, “limiting personal relationships such as those are beyond my understanding. Not to say I don’t have a family, I have the largest family in Pangera, but the idea of starting a new family all on my own is… quite dreadful.”
+
+“How could a monster understand what it’s like to be a real living being?” Alice replied coolly. “Born from the Dungeon, you couldn’t know what a real family is like.”
+
+If she intended to get a rise from the ant, she failed. Merchant merely waved her statement away as she removed and cleaned her glasses.
+
+“Oh, pish. I have a mother and millions upon millions of sisters. From my point of view, your family is wholly inadequate.”
+
+Placing her glasses back on her head, Merchant reached out and picked up the cup on the table in front of her. Sipping her tea, she clacked her mandibles in satisfaction before putting it back down again.
+
+“Well, we didn’t come here to discuss family, we came to discuss a transaction. My favourite type of discussion. We have three hundred of your delvers locked up at the moment. Are you interested in taking them back?”
+
+Had they really taken three hundred delvers? It seemed impossible, yet there hadn’t been any word from those in the tunnels in days. At first, the Union hadn’t been worried, but that facade was starting to slip with every hour that ticked by.
+
+There were still hundreds of delvers in the city, but they were growing reluctant to leave. In such a short span of time, the ants appeared to have flipped the script, and now it was Green Mountain huddling behind their walls, too fearful to emerge.
+
+“I require proof that you have them in your custody,” she said in crisp tones. “There can be no conversation without that evidence.”
+
+“Of course!”
+
+Merchant reached below the table, collected a sheet of paper and placed it on the table.
+
+“No problem at all. We have a list of signatures here from all of the captives we’ve taken. Except for the Priests, of course.”
+
+Controlling her reaction, Alice took the paper calmly, casting her eyes down the list. She’d consulted with the Union only a few days ago, she recognised these names. When she saw Frederick Armon, she couldn’t help but audibly tsk. He was the most senior member of the Union in the field. She’d hoped he’d been able to make his escape and bring back information, but that hope appeared to have been dashed.
+
+“There are thousands of delvers in the tunnels right now, but we are sweeping them up at an impressive rate, wouldn’t you say? I was here just a few days ago, after all.”
+
+The ant flicked ash from the end of her cigar and clacked her mandibles in amusement.
+
+“How long until we get them all? And I really hate to push you, but it would be remiss of me not to remind you that this particular offer is severely constrained by the temporal flow.”
+
+“The what?”
+
+“It’s a limited time offer.”
+
+Again, a small folded piece of paper was slid across the table. What was it with this ant and its small piece of folded paper?
+
+“This is the current price. It’s not too much higher than the previous one.”
+
+Alice unfolded the page, then blanched.
+
+“It’s double!” she exclaimed.
+
+“But who can put a price on a life? As it happens, me. This is going to get more and more expensive if you continue to hold off, so I suggest you take advantage of this early aphid special and save yourself from great pain in the future.”
+
+“I can’t just agree to pay such a sum without the approval of the Council,” Alice stated evenly. “Getting that approval takes time. There are budgets to consider. Limitations placed on public expenditure. It isn’t possible for the Council to produce this much coin in such a short span. If the Colony wants to seriously engage in talks, then we need a reasonable time frame to work with and a sensible price point. So far, these talks have been nothing but childish demands and bluster.”
+
+Merchant laughed aloud while clacking her mandibles in time.
+
+“A wonderful attempt to reframe our conversations, but I’m afraid it is you who doesn’t seem to grasp the nature of this transaction.”
+
+Merchant buffed her glasses before replacing them, predatory intelligence gleaming in every facet of her eyes.
+
+“Price is determined by demand. Demand is impacted by scarcity. Your supply of delvers is going to plummet rather precipitously over the next few days. Naturally, such a drop in supply will be met with an increase in price. The more Green Mountain wants its delvers back, the more we will charge.”
+
+How in the name of Pangera was it winking? There was no eyelid, none at all, yet somehow the monster gave the impression of a cheeky wink. Was it magic of some kind? An optical illusion?
+
+“That’s just basic economics. In terms of the timeframe necessary to raise funds, I’m afraid to say that’s not our problem.”
+
+“It is if you want to get your filthy money,” Alice pointed out coldly.
+
+“That’s backwards,” Merchant grinned. Somehow. “It isn’t us who want money, it's you who want delvers. What you really need to consider is, can you afford to drag your feet? Just imagine what number is going to be written on that page when we have every delver in Green Mountain locked up.”
+
+Merchant rubbed her front claws together.
+
+“It’s going to be delicious.”

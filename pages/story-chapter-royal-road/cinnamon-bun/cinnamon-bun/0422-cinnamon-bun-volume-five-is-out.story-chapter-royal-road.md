@@ -1,0 +1,25 @@
+---
+id: 3fd58cbd-ab52-51a1-ad29-15ef4c479a11
+page-type-slug: story-chapter-royal-road
+title: "Cinnamon Bun Volume Five is Out!"
+slug: 0422-cinnamon-bun-volume-five-is-out
+partOf: cinnamon-bun
+position: 422
+ownLength: 279
+unit: words
+publishedAt: 2023-05-30
+link: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1229749/cinnamon-bun-volume-five-is-out"
+royalRoadId: "1229749"
+---
+
+Kinda hyped! But yeah, Volume Five is finally out on Amazon and on Audible! Figured now was a good time to let everybun know!
+
+Even with the world on the brink of war, Broccoli Bunch’s bright spirit shines through the darkness, bringing hope and friendship to those who need it most.
+
+Following a simple yet powerful philosophy, Broccoli Bunch shows kindness and honesty to everyone she meets. She always sees the best in people, regardless of who they are, where they come from, and what they’ve done. Her beliefs have won over even the most skeptical and rigid warriors and leaders, making her the perfect builder of bridges between the diverse diplomats attending the peace summit in the kingdom of Sylphfree.
+
+Accompanied by her friends—and fellow Exploration Guild adventurers—Amaryllis and Awen, Broccoli’s eternal optimism is put to the test when she finds herself playing politics. Meeting with suspicious sylphs, cervids, grenoils, and harpies who all harbor ill feelings toward one another and believe war to be inevitable may be disheartening for most, but Broccoli proves she’s up to the challenge of championing the value of fellowship.
+
+But there’s a warmonger in their midst. The shapeshifting riftwalker Rainnewt has been sowing discord throughout the realm. Once the various species destroy one another, he can purge the Evil Roots corrupting the land and remake the world in his own image.
+
+And since the disagreeable diplomats refuse to believe they’re being manipulated, Broccoli must convince Rainnewt to abandon his plan and let her cleaning magic wilt the Evil Roots without inciting war. But when Broccoli confronts the fiendish flora, she will come face to face with her greatest fear . . .

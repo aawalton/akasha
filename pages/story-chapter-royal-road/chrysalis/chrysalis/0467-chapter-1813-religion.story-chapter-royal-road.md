@@ -1,0 +1,89 @@
+---
+id: 972222c3-558c-5e29-889f-97215faea368
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1813 - Religion"
+slug: 0467-chapter-1813-religion
+partOf: chrysalis
+position: 467
+ownLength: 854
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3522271/chapter-1813-religion"
+royalRoadId: "3522271"
+---
+
+Granin finished his conversation with Anthony, then leaned back in his chair with a groan, the beginnings of a headache starting to rumble in the back of his head. By the stone, meeting that ant was the best and worst thing to happen to him all rolled into one.
+
+"Everything alright?" Corun asked him, looking concerned.
+
+The younger Shaper hovered and Granin could tell he wanted to help but didn't know how. More motherly than a hen lately, Corun had been visibly concerned about the older golgari, which only frustrated Granin to no end. He was more than two centuries old, he certainly didn't need looking after!
+
+"I'm fine," Granin growled, then modulated his tone when Corun blinked at him in surprise. "I'm fine," he said again, more softly, "just... had a difficult conversation."
+
+"With who?" Corun said, looking around their shared living space. "I didn't sense a mind bridge."
+
+"Anthony doesn't need one, because of course he doesn't."
+
+Corun blinked again, processing this information. After a second, he shook his head, trying to rattle loose the many questions that this brought up. Instead, he focused on the here and now.
+
+"What did he have to say?" he inquired.
+
+Granin grimaced. He'd rather push the memory out of his head for the time being, give himself a little time to... just exist in the world before the consequences of what had taken place were broadly known.
+
+"Anthony got into a fight with Theorazzn," Granin said flatly.
+
+Corun, unsurprisingly, blinked again. And then a few more times.
+
+"Do you have something in your eye?" Granin groused.
+
+It wasn't uncommon for golgari to get dust or powdered stone in their eyes as a result of flaking from their second skin, which bonded even to their eyelids. Of course, this wasn't the case for Corun, he was just shocked.
+
+"What? No... he did what?!"
+
+"Did I say something unclear? Which part has you confused?"
+
+That headache was definitely coming now, he could feel it making its way to his temples. That damned ant!
+
+Corun spluttered. "Uh... all of it?"
+
+"I only said one thing."
+
+"That was the confusing part."
+
+"Which part is confusing?" Granin said with uncharacteristic sarcasm. "Anthony got into a fight with Theorazzn. It's a simple sentence."
+
+"How did he even do that? Theorazzn is far, far deeper in the Dungeon than Anthony is."
+
+"Apparently," Granin sighed, "Theorazzn projected himself into the fifth in order to tell Anthony he wanted to kill him."
+
+Corun absorbed this for a moment, his eyes going wide.
+
+"Is... is he... is he dead?"
+
+"What? Of course not! How do you think he was talking to me? From beyond the grave?"
+
+"Maybe?"
+
+Granin resisted the urge to respond derisively, because he himself had experienced the exact same thought. After all, the Ancients were, to all intents and purposes, gods, as far as their cultists were concerned. Granin himself had experienced a vision of Yarrum, and the worm had been terrifying and unknowable in its sheer power. If something like that wanted to kill him, then it certainly could. With ease.
+
+"Anthony is fine. Apparently Theorazzn just wanted to talk to him and say that he had intended to kill him before he escaped the fifth, but Odren and Morribolg intervened to prevent any retribution for cleansing the stratum."
+
+Corun's eyes bulged out of his head the further through the sentence Granin got, which only discouraged the old Shaper further. Yes, that was how a cultist would react to news like this. Hearing about any sort of interplay between the Ancients, from a primary source, in this instance one of the Ancients themselves, was the stuff of fantasy. It simply never happened.
+
+"At this point," Granin went on, mercilessly, "Theorazzn went on to threaten Anthony, saying that if he ever reached the core, then the Ancient would kill him in a slow and gruesome manner."
+
+"Oh," Corun gulped.
+
+Knowing that a nigh-invincible, god-like monster wanted to kill your friend wasn't a good feeling. If that had been the end of it, it would have been bad. However...
+
+"At that point," Granin ground out. "Anthony taunted Theorazzn, enraging the Ancient and causing him to attack on the spot. Anthony survived and fled into the sixth, where Theorazzn couldn't follow. Now he's on his way back up, and apparently Theorazzn hasn't appeared again, perhaps because Odren and Morribolg intervened again to protect him. But... there you are, that's what he had to say."
+
+"I see," said Corun faintly. "That's... that's really something."
+
+"Isn't it just?" Granin muttered.
+
+Maybe he could keep it a secret? There was no need for word of this to leak out, was there? Morribolg and Odren had cults, obviously, and any word of the Ancients they worshipped would be treated as a holy text to them, but just... what would happen? How would they react? Unfortunately, there was really only one way to find out.
+
+"We have to talk to the others," Corun said.
+
+"Yes," Granin replied heavily. "We'll have to gather the cults. Can you and Torrina spread the word? I'd like to just... think for a moment."

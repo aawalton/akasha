@@ -1,0 +1,85 @@
+---
+id: 437d7e53-f7db-52b2-a63a-2626b304fcc8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1807 - Sneaking Snails"
+slug: 0461-chapter-1807-sneaking-snails
+partOf: chrysalis
+position: 461
+ownLength: 1063
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3485419/chapter-1807-sneaking-snails"
+royalRoadId: "3485419"
+---
+
+"Is it just me, or is there a different sort of air about the chal recently?"
+
+"What do you mean?"
+
+"They look... smug?"
+
+"How does an iridescent gem-mollusc look smug?"
+
+"I don't know! They just... they just do!"
+
+"I think... you may need a rest."
+
+Theresant and Florence were in the process of observing the chal through a one-way window as part of their daily rounds. There were quite a number of the little snails now, which had necessitated an expansion of the snailcare centre and a dramatic increase in the number of Brood Tenders within it. As they were solitary creatures who tended to only tolerate group play in small, controlled amounts, they never wanted there to be too many in the one room. So now there were dozens of rooms, each carefully controlled, constantly monitored and always monitored by a rotating team of Tenders.
+
+Each group was at a different stage of development, depending on when the Colony had received them and when they had hatched, and the curriculum and development plan that the Tenders were constantly evaluating was being applied to each in turn. For the most part, the little snails appeared happy, playing together, eating their meals, sleeping and enjoying their meditative periods of rest. And singing, of course. There was always singing.
+
+"You're always thinking something is off with them," Florence said, exasperated. "If they don't want to eat the same thing as yesterday, then their appetite is lost. If they don't sleep in the same place two nights in a row, then they're feeling homeless. If they sleep five minutes longer than usual, you think they're depressed. Is it possible this is another example of your strong sense of responsibility towards the chal putting ideas into your head?"
+
+This was putting it mildly. Theresant was even more obsessive towards the little snails than she was towards the Colony's own hatchlings!
+
+"Resting in different places could be a sign they are feeling uncomfortable," the flustered Tender defended herself.
+
+"They're snails," Florence snorted. "They sleep in their shells. It doesn't really matter where they are exactly."
+
+In the chamber before them, a music lesson was starting. The on-duty Tender had gathered the snails together, though it wasn't difficult when it was time to sing, they slithered along eagerly. Soon, she went through the motions, pretending to sing while the true voice of the lesson, a magpei in a soundproof booth outside the chamber, began to go through the lesson they had prepared for the day. Soon, the little snails were singing happily, a beautiful chorus rising that touched even Florence's tone-deaf sensibilities.
+
+"What's giving you the sense that they are feeling so... self-satisfied?" Florence asked, still baffled.
+
+"I don't know," Theresant replied, frustrated, "they just have a... a smug energy about them."
+
+"Doesn't that just mean they are happy?"
+
+"It's different," her sister refuted. “They aren't just happy, they seem very pleased with themselves. As if they've done something lately that they are very satisfied with."
+
+"As far as I'm aware, they haven't done anything in particular lately," Florence said, confused.
+
+However, as she looked at the snails more closely, there did seem to be something of a pleased air about them. She was far from an expert on snail expressions, despite spending so much time around them, but the more she watched, the more convinced she became that Theresant wasn't just being silly.
+
+"Let's go to the next chamber," she said. "I think there might be something to your theory after all."
+
+"Aha!" Theresant declared. "I'm not crazy!"
+
+"Let's not go too far."
+
+The two siblings moved further down the corridor, through the separating door and into the next corridor, another one-way window giving them a clear view of the next group of snails. These too were enjoying a singing lesson, the snails lined up within the teaching area while their instructor mimed the lesson dutifully performed by the attending magpei. Getting the bird-people to follow the script without swearing had been quite the challenge, but they'd worked out the right incentives eventually.
+
+Jordant plushies were highly prized by the magpei, who seemed obsessed with any and all physical sports and had taken to Tunnel Ball with a dangerous fervour.
+
+Here again, the snails were singing, but there was something about them, an air they put on which couldn't help but give the slight impression that they were feeling, for want of a better term... smug.
+
+"They do have the look of a very self-satisfied group of snails, don't they?" Florence mused. "But why? I can't think of any particular reason for them to be acting this way. When did you first notice this?"
+
+"Yesterday," Theresant reported, "but I wasn't sure then. Doing the rounds today, I've seen it in every group we've looked at, but I only mentioned it when I became certain."
+
+The two ants leaned a little closer to the glass, as if a slightly better view might give them some insight they hadn't had before. Neither of them particularly cared that the snails were feeling so pleased with themselves, if anything it was a positive sign, but what bothered them was that they didn't know why. They were hyper-sensitive to any changes in the snails' condition, especially ones that they couldn't explain.
+
+"I think the song is changing," Florence said suddenly, "the snails have stopped following the lesson."
+
+Inside the room, the instructor noticed it a moment later, giving a subtle signal to the magpei to cease singing. It was unusual for the snails to launch into their own song, but not unheard of. They were far more musically gifted than their teachers, after all, and sometimes inspiration seemed to strike them.
+
+"They’re painting something," Florence said. "Look at the light."
+
+Painting was the term they had come to use for the snails creating images of light using their strange song-magic. Working together, they could make all sorts of pictures, most of them quite simple and related to their rather limited experiences. Both of the Tenders leaned forward, hoping this painting would give them some insight into why their charges may be displaying this new behaviour.
+
+Soon, the image took shape.
+
+"It's... the Eldest?" Florence said, confused. "I don't think this group has ever met the Eldest."
+
+Theresant only sighed.
+
+Of course it was the Eldest. Somehow, they always managed to make life difficult.

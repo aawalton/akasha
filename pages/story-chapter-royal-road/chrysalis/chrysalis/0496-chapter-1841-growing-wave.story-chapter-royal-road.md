@@ -1,0 +1,87 @@
+---
+id: 75f9b5e9-1d98-5641-86ff-75e496b2b6d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1841 -  Growing Wave"
+slug: 0496-chapter-1841-growing-wave
+partOf: chrysalis
+position: 496
+ownLength: 869
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3798073/chapter-1841-growing-wave"
+royalRoadId: "3798073"
+---
+
+Solant was grateful to have finally escaped the clutches of the healers. Persistent to a fault, they refused to let her go until they had determined the medical cause of her strange behaviour, of which there was none. In order to finally be free, she had been forced to confess that being in the lungs made her feel… uncomfortable.
+
+She could still hear their howls of laughter ringing on the fine hairs of her antennae.
+
+It was worth it to be released. Had they kept her much longer, Leonidant would have launched a rescue mission, leading to possibly the first ever infighting within the family. That simply wouldn’t do.
+
+Violence among siblings? Unthinkable.
+
+No, there were many, perfectly non-violent, ways for Solant to get her satisfaction from the healer caste. They would regret their mockery.
+
+“Welcome back, general,” Caesant greeted her in the command post.
+
+Everyone was busy, messengers still running in and out in a steady flow, logistics officers keeping up the running tally of supplies and movements, scout marshals updating maps and tracking the never-ending reports coming in from their troops.
+
+Despite the activity, there was a significantly different feeling than there had been during the invasion, when every moment mattered and they teetered on the edge of disaster at every turn. Now, the tension had come down several notches, urgent professionalism replaced with quiet competence.
+
+Solant relaxed… slightly.
+
+“No major issues while I was… indisposed?” she inquired.
+
+“No, general, nothing major. Nothing minor either, to tell the truth. The Eldest has been sending back reports daily, and they haven’t seen anything down there to suggest the environment might regress. No sign of the Krath either.”
+
+“Let’s not let our guard down,” Solant said. “Make sure to remind everyone how disastrous a mistake at this stage of the campaign would be.”
+
+Even if no one else was, Solant was keenly aware of just how precarious their position was right now. As a result of her decision to bring the entire supply of condensed mana to this depth, the rest of the Colony’s territory had become vulnerable. She had no doubt that the fortresses higher in the stratum were suffering and that Krath were pushing at the boundaries of their territory.
+
+Not to mention the terrible cost in materials and antpower that had been committed to the project. Solant had pulled in the entire output of the Colony to make this invasion a success.
+
+If these depths returned to being polluted, then it would have been for nothing. Who knew how long it would take before they would get another chance?
+
+For now, it looked as if everything was going well and they had been successful in conquering this final stretch of the fifth. For now.
+
+“There’s only one blot in the brew, so to speak,” Leonidant said, joining the conversation from where she had been waiting near the scout marshals. “Mind you, I could go for a cup of tea.”
+
+“What’s the issue?” Solant demanded.
+
+“Mana rising in the depths. The pattern has been consistent for the last four days. There’s a wave coming.”
+
+“From how deep are our readings coming?”
+
+“We had new measurement stations installed just above the sixth. “
+
+That wasn’t good news. If the mana was already rising at that depth, then it would hit them sooner than she would have liked. It would lead to the natural mana of the fifth thickening, which wouldn’t normally be a problem, but while the cleansed energy produced by the wuffers was able to combat Theorazzn’s corruption, the native energy was not.
+
+To keep the contagion at bay, there needed to be a constant injection of cleansed energy into the hearts so they could disperse it throughout the Dungeon. Right now, the Colony was staring down an imminent shortage at the moment they needed a greater supply.
+
+“This… could be a problem,” she said.
+
+She’d expected there to be a few more weeks, time enough for the Colony to rebuild their reserves to a point where they could adequately defend. Not being able to get below and trace the earlier signs of a wave developing meant she had been caught unprepared.
+
+Problems were inevitable and not worth thinking about. She focused on solutions.
+
+The Colony needed energy, lots of it. Where was it going to come from?
+
+She’d heard something, a few words only that were currently tickling the back of her mind. Someone had said… yes… they’d mentioned the wuffers… and mucus… while she was in the lungs.
+
+As the memory came back, she snapped her mandibles shut. Mendant had mentioned it while they were touring the lungs. That reminded her.
+
+“Leonidant, two orders of business, both of which need to be seen to immediately.”
+
+“I’m listening, general,” her sister said, jumping to attention, focus absolute.
+
+“First, I need to know where the healers diverted the mucus coming from the lungs and polluting the arteries as soon as possible.”
+
+“I will find out immediately. And second?”
+
+“The next shipment of cake and tea to the healers in this fortress. It is imperative that it goes missing.”
+
+Leonidant didn’t miss a beat.
+
+“Understood, general.”
+
+Solant nodded with satisfaction. Things would work out, she could feel it.

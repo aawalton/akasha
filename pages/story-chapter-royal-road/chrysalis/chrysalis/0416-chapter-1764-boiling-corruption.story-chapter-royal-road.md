@@ -1,0 +1,61 @@
+---
+id: 5c02f8a8-6503-5100-b552-844ec2114571
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1764 - Boiling Corruption"
+slug: 0416-chapter-1764-boiling-corruption
+partOf: chrysalis
+position: 416
+ownLength: 961
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3224624/chapter-1764-boiling-corruption"
+royalRoadId: "3224624"
+---
+
+With Crinis, Invidia and Tiny here, shoring up the defences is an easy enough task. Send them out and let them go to work. Tier seven monsters are nothing to sneeze at; they can help tip the balance all on their own. At the very least, they’ll take the pressure off and give the Colony a chance to regroup.
+
+It seems as though everything is concentrated in the tunnels beneath this fortress. Only the strongest, highest tier, highest level battalions are allowed to fight here, and the Krath are holding nothing back. They’re determined to prevent us from getting any deeper and have done everything they could to stop the purified mana from flowing deeper.
+
+Heck, from what Brendant tells me, they’ve been successful in pushing us back! Obviously we can’t allow that to stand.
+
+Also, it turns out that my templar are here too. They’ve been fighting in the fifth while I was asleep, doing what they could to keep my family safe and assist the non-ant members of the battalions. I’ll have to thank them for that!
+
+First, though, I need to get down to the front and see just what the heck is going on.
+
+After my rampage higher up, I’m filled with confidence. Blasting through four Krath outposts like they weren’t even there has me thinking I can resolve this situation easily. However, when I actually step out onto the front, I’m forced to recalculate a little.
+
+It’s clear that the Colony has tried to recreate the platform system that we used during the first wave down here, separating the platform from the rest of the terrain and using it as an intake point for mana. The Krath, however, are not having it.
+
+Once I step out onto the platform, the problems become immediately apparent. We appear to be surrounded on all sides by a tidal wave of mucus. Not just a small tidal wave either. This thing is kilometres high, a slowly moving disaster that rolls closer at a glacial pace while the battalions fight desperately to push it back.
+
+I stare at it, my mandibles hanging wide in shock. How in the name of heck did the Krath manage to produce this? It’s insane! If it actually manages to close the distance, it’s going to engulf the entire bottom half of the fortress! If that happens, it’ll eat through the walls and destroy the interior in a matter of hours. Yikes!
+
+Of course, the mucus is not the only thing the stalwart defenders of the Colony are having to deal with. Bursting through the slime is a constant stream of maddened, berserking monsters, desperate to eliminate the cleansed mana and spread their filth and corruption. Even defeating them isn’t enough, since parasites and other nasty things jump out of them the moment they go down.
+
+The stench, the awful, awful sights, the sounds of endless battle and desperation. Ah, it’s like I never left.
+
+Amongst all of this chaos is the hidden hand of the Krath. There are thousands and thousands of them out there, or so I’m told. Using their strange magic to strike at the defenders when they see an opening, engineering the terrain and manipulating the native monsters to stream towards us. Apparently there have been dozens of capture attempts every single day recently as the slugs have ramped up their efforts to obtain an ant and convert it to their cause.
+
+Time to do something about it, I suppose. This is going to be a lot harder than I thought.
+
+Grinding my jaws together, I start to consider the best approach. Absent-mindedly, I start to push some mana into the Everflowing Spring and kick off the conversion process. I’m going to need a lot of mana.
+
+Mucus is… tough to deal with. It’s way more dense than you would think, in the physical and mana sense. Touching the stuff might not be a death sentence for me anymore, but it is to everyone else. Judging from the particularly virulent colour and actively hissing surface, this seems to be a rather nasty variant as well.
+
+Failing to think of a neat solution, I resign myself to doing things the hard way.
+
+My minds spin up, pulling together a Gravity Mana construct, while others start pulling out energy from my gland and shoving it into a tight, dense ball.
+
+Once I have a decent sized Gravity Bomb prepared, I empower it with the Altar and let it rip, aiming high above the platform so as not to put any of my allies at risk.
+
+Out it goes, screaming into the void. Against the backdrop of hissing mucus, the dread howling of the spell seems barely noticeable and it quickly vanishes into the distance against the nightmarish backdrop I’m faced with. When it expands, it does so with a bang, the slowly rotating void visible for only a few seconds before it becomes engulfed in filth and slime.
+
+Predictably, it doesn’t last long before petering out. Even if it ate through a significant amount of sludge, there has to be millions upon millions of cubic metres of the stuff around us. Well, that’s alright.
+
+I keep feeding mana back into the spring, letting it fuel itself as I pull out more mana and start working on the next one.
+
+If I have to throw a thousand of these things, I will. Well, I presume the Krath will try and stop me long before we reach that number.
+
+Soon enough, I have another Gravity Bomb ready to go and I let it rip, sending it screaming out towards the wall of encroaching filth. By the time it dies, I have another ready to go. Then another. Then another.
+
+It’s going to be a long day.

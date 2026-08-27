@@ -1,0 +1,71 @@
+---
+id: 6cdacb3b-c8b0-53a3-9e1f-ee9ecbee3b5c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1755 - Remember Me?"
+slug: 0407-chapter-1755-remember-me
+partOf: chrysalis
+position: 407
+ownLength: 1027
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3182044/chapter-1755-remember-me"
+royalRoadId: "3182044"
+---
+
+According to the information I have, the Krath outpost is out here, somewhere. Well, Solant was able to give me a little more than that, but pinning the slugs down has never been an easy job. Doubly so when our scouts aren’t able to safely leave the purified mana zone.
+
+The Colony is still working under a state of complete and total operational security. A single ant being captured is a disaster that demands a total and unrestrained response. I know that it’s happened a few times, the Krath are cunning, slippery sods after all, and the Colony was forced into extraordinary measures to recover the captive before they were turned.
+
+Good planning, risk minimisation, and a laundry list of backup plans have prevented the slugs from getting to us so far, but it means that our knowledge of goings-on beyond our territory is thin at best.
+
+Of course, my siblings, cunning little sods, have found other ways to gather information. Cultivating pets from fifth stratum monsters is… difficult to say the least, but they are incredibly valuable to have. Apparently, a mini-war has broken out between the Colony and Krath in the form of pest control, with the slugs desperate to find and annihilate any and all pets that the Colony manages to create. On the other hand, the core shapers, with the help of Formo, are racing to innovate, improve, mutate and evolve their pets and keep ahead of the Krath trying to hunt them down. I would have loved to talk to the old sophos but Solant was really pushy once I came back down. Hopefully soon.
+
+Thanks to the Pure Core, I’m able to dedicate way more of my minds to searching and scouting, reading the mana and taking in the lay of the land around me. It’s hard to do in the fifth, given that nothing, not even mana sense, is immune from the degrading effect of the stratum. Beyond a certain point, my senses just grow fuzzy, as if the information is being chopped up by interference.
+
+Thankfully, that isn’t the sense that I’m using to hunt for Krath.
+
+I pick my way through the tunnels carefully. One downside to being this large is that it’s a little bit more difficult to avoid the most disgusting obstructions. Every now and again I’m forced to push through something that looks like it just came out of a diseased nose, and I’m less than happy about it. I burn myself clean a few times, but I’m trying not to get too fire-happy and alert the Krath to my presence.
+
+A futile effort, most likely. They probably spotted me the second I came out of the blue mana.
+
+Well, it’s fine.
+
+Antennae swaying, I read carefully, trying to discern the finest and most tremulous of senses that I have. Krath, after all, don’t have much in the way of a gravitational field.
+
+I would say the average Krath has less mass than an average human, even if the very largest slugs have significantly more. Squished down and unmoving, it’s extremely difficult to pick out the buggers even if I know for a fact they’re present. Thankfully, they have no idea how I’m able to find them and can’t defend against it.
+
+Which is exactly how I find my first slug. It’s a sneaky little thing. The slightest little quivering of the gravitational waves is the only clue I get, but I home in on it, not wanting to overlook even the smallest clue. On closer examination, there’s definitely something there, so I look a little closer, without being obvious about it.
+
+When I see nothing with my eyes or any other sense, I get a little more interested. If it were a monster, I would probably see it at the very least. Perhaps I would sense its core. But no, nothing.
+
+That alone doesn’t mean there’s a Krath here. This is the fifth! Monsters here are sneaky, cunning, conniving things. I certainly wouldn’t want to be caught by anything that lives here. Again, I inspect, I sense, I waggle my antennae, use my minds and eyes to confirm as best I can.
+
+That’s when it twitches.
+
+Aha! Getting a little nervous, little Krath? Now that I’m here, so close, you’re finding it difficult to hold your nerve and remain still? Well, too bad! That tiny hint of movement might have been nothing in the grand scheme of things, a brief flexing of a pinky toe, comparatively, but it was enough.
+
+I see you.
+
+Flattened out to an incredibly thin layer, the slug has mottled its skin to blend in with the mould around it masterfully. Being honest, it’s basically totally invisible. If I didn’t know exactly where to look thanks to the gravity waves, then I would never, not in a million years, see the dang thing.
+
+You have been betrayed by your own mass, slug.
+
+However, finding just the one slug is not the name of the game. Gradually, I extend my senses, spreading outward, reading the waves, the mana, everything. Mostly, what I’m looking for are other Krath, but also cracks and sneaky little passages in the rock. It is tough to find them, but they too create disturbances in the gravitational field from the otherwise unbroken stone.
+
+After a while, I give up. I’m not getting anything. Looks like there’s just a lone scout, hanging out on the wall.
+
+Well, I better deal with it, can’t have it running back and reporting what it saw, after all.
+
+Deciding to be supremely unsubtle about it, I just reach out with an antenna and poke it. It’s decidedly more squishy than a wall should be, so it’s obvious that I’ve found the poor slug.
+
+Yet, it doesn’t move.
+
+So I poke it again.
+
+That’s when the slug whips around, inflating rapidly before vomiting a stream of radioactive-looking slime, straight at my antennae.
+
+Hah! Saw that coming!
+
+My antenna is well out of the way before the stream has a chance to hit it, leaving the slug looking up at me. Predictably, it explodes itself rather than get caught.
+
+Well, on to the next.

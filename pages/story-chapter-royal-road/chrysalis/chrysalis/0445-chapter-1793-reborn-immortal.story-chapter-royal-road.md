@@ -1,0 +1,151 @@
+---
+id: cdad8eeb-fbca-5822-ac08-df8e656f5a3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1793 - Reborn Immortal"
+slug: 0445-chapter-1793-reborn-immortal
+partOf: chrysalis
+position: 445
+ownLength: 1101
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3393132/chapter-1793-reborn-immortal"
+royalRoadId: "3393132"
+---
+
+All was stillness in the halls of the undying. Many were gathered, to reflect, to show obeisance, to rededicate their spirits to the cause.
+
+Exposed and vulnerable without their armour, the ants were huddled, pressed together for comfort in the dark and silent chamber. High, arched ceilings of grey stone lent an austere atmosphere to the gathering, a mood only made more potent by the abundant candles burning low in sconces and ceremonial vessels.
+
+Indeed, many of the ants had placed candles upon their own backs, beside the fungi that now sprouted abundantly there, wax melting and running down their carapaces in rivulets of red and white. Though the ants did not feel the heat, their partner did, the fungus that lived within and alongside each of them. Although it had shied away from the scalding flame in the past, with help from their hosts, the fungus had learned to embrace it.
+
+This, as all things, was a test of will.
+
+The Will of the Immortals could never be broken.
+
+In silence the ants remained, contemplating, plunging their inner selves, expunging doubt and weakness. Without any sign or signal, one ant, solitary amongst the thousands, began to sway from side to side.
+
+A minute motion, barely a matter of millimetres, yet it was immediately noticed by those adjacent, who mimicked the motion. A gentle sway, barely noticeable, that rippled throughout the gathering until they all were participating.
+
+Left, to right, left to right. Gradual, slow, a rhythm that gave shape and motion to their thoughts and unified their spirits.
+
+No ant could say when it was the right time to clack. If you were to ask them, any of the thousand, all of the thousand, they would give you the same answer: they simply didn’t know when the right time would come. A silence so profound filled the hall that it felt almost sacrilegious to break it, an act of desecration, of spiritual sabotage.
+
+Yet, when that moment arrived, they all knew it. They knew it together, and they knew it wholly.
+
+CLACK.
+
+A mighty and sharp crack echoed through the room, echoing off the vaulted ceiling and unyielding stone. So synchronised were they, to anyone standing in the centre of the gathering, only a single sound would have been heard.
+
+Of course, there was nobody standing in the centre of the gathering, no ant or human or even the Eldest themselves would be permitted to occupy that space. No, that place was reserved for the reliquary of the fallen, the Lost Immortal, She Who Dreamed Eternal.
+
+CLACK.
+
+They swayed, like leaves in the breeze, like lilies on the pond, a profound sense of peace beginning to well in their cores.
+
+CLACK.
+
+Sensing that the time had now come, the ant-tendants, robed and cowled, began to move, climbing solemnly over the backs of their sisters, censors of precious incense (tea leaves and vanilla) and sacred oils (liquid sugar) gripped in their mandibles.
+
+CLACK.
+
+These were applied liberally to the gathering, censors swaying, thick smoke drifting out to cover the antennae of the ants and suffuse them with a sense of warmth of comfort. Oil was distributed, nourishing the fungi and running down the carapaces of the swaying ants.
+
+As the ant-tendants devoted themselves to their work, one rose amongst them, one leg resting on the reliquary, as if drawing strength from it.
+
+“Sisters,” Leeroy said, her tone solemn and still.
+
+CLACK.
+
+“We have been called upon once more.”
+
+CLACK.
+
+“Our family has asked that we fulfil our oaths and perform our sacred duty.”
+
+CLACK.
+
+“We go, sisters, into battle.”
+
+This time, the gathering did not slam their mandibles shut, they knew, one and all, that they were called to speak, and they knew what they must say.
+
+“We seek.”
+
+Solemn, hushed, from the pheromone glands of the gathered thousands, it filled the Hall of Undying, blending with the faint sound of their carapaces rubbing against each other as they shifted from side to side.
+
+“It is in battle, that we shall find our purpose.”
+
+“We seek.”
+
+“It is in battle, that we shall find our release.”
+
+“We seek.”
+
+Still the ant-tendants moved atop their flock, thick clouds of incense now drifting over the top of the gathered throng, from whom a growing intensity could be felt. A subtle energy that permeated the room and filled the air like an electrical charge, building and building until there was no choice but for it to be released.
+
+Everyone in the chamber could sense it, could feel it rising. Including Leeroy.
+
+“WHAT IS OUR PURPOSE, SISTERS?” she thundered into the stillness.
+
+“WE SEEK!” the Immortals roared back.
+
+Within all of the gathered Immortals, their fungi stirred to life, energised by the passion suddenly roaring through their hosts. Each of the ants had flung off their placidity like a cloak. The time of reflection was done. The time for action had arrived!
+
+“WHAT IS IT THAT YOU SEEK, SISTERS?” Leeroy demanded.
+
+“SACRIFICE! DUTY! PURPOSE!”
+
+“WILL YOU FIND IT IN BATTLE?”
+
+“YES!”
+
+“WILL YOU LAY DOWN YOUR MANDIBLES FOR THE COLONY?”
+
+“FOR THE COLONY!”
+
+“WILL YOU FIND WHAT YOU SEEK?”
+
+“YES!”
+
+“And then?” Leeroy asked quietly, and suddenly there was a hushed stillness that washed over the gathered throng.
+
+“Once you have fallen in battle, what will then follow? Rest. Oblivion. Satisfaction, knowing that you have given your all to the family.”
+
+She nodded solemnly.
+
+“Glorious sacrifice for the Colony, that is our destiny.”
+
+“We seek,” the Immortals chanted back to her.
+
+“When all is done, and the darkness has descended….”
+
+She paused and raised her head, as if imagining that moment, when her limbs failed her and her carapace was rent asunder. When strength faded along with the light and all she knew was peace….
+
+Each of the Immortals shivered as they imagined it for themselves. They yearned for that sensation, strove for it, dreamed of it when they slept. It was all they craved in all the Dungeon.
+
+And they could never have enough of it.
+
+Leeroy clacked her mandibles once, sharply, drawing all attention to herself.
+
+“The light will return, and we will be reborn,” she said, “so that we may sacrifice ourselves again.”
+
+CLACK.
+
+“WE LIVE, SISTERS!”
+
+“WE LIVE!”
+
+“WE DIE, SISTERS!”
+
+“WE DIE!”
+
+“WE LIVE AGAIN!”
+
+“WE LIVE AGAIN!”
+
+“ENDLESS SACRIFICE!” Leeroy roared, a feeling of pure bliss running through her mind.
+
+“SEARCH WITHOUT END!” the Immortals roared back.
+
+From a nearby alcove, the healers who had been ordered to accompany the armoured ants into battle watched the proceeding with a deep sense of distance.
+
+“I hate these idiots,” one sighed.

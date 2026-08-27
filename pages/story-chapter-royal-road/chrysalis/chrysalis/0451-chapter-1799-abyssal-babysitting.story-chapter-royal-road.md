@@ -1,0 +1,85 @@
+---
+id: ca603433-1066-5d10-a7d7-bb210692da93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1799 - Abyssal Babysitting"
+slug: 0451-chapter-1799-abyssal-babysitting
+partOf: chrysalis
+position: 451
+ownLength: 1099
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3429872/chapter-1799-abyssal-babysitting"
+royalRoadId: "3429872"
+---
+
+Commander Chyron was not in a good mood. Obviously, having Legionaries be rescued from danger within the Dungeon was a good thing. Saving the young trainee officers, doubly so. A good and meritorious deed had been done and she was grateful to the individual who had done it.
+
+Which was why she was in such a poor mood. Being grateful towards a monster, any monster, rubbed her in entirely the wrong way. It was like being grateful to a murderer for helping your kids cross the street. Naturally, you were happy that they hadn't been crushed under a carriage, but the greater issue of murder wasn't excused as a result.
+
+Morrelia and her fellow Tribune, Joshen Aurelis, knew to tread lightly when their commanding officer was in a state like this. Unfortunately, it wasn't always possible to remain out of the line of fire. Chyron was a professional and even-handed Commander, who didn't demand more for her troops than she did from herself. It was just more likely for her to make more demands from herself when she was annoyed.
+
+Right now, they were following on the Commander's heels, dressed in full armour as they stomped through the passageways of the fortress. A brief meeting with Commanders Eliza Sparrek and Steven Monside had told them all they needed to know about what Anthony had been up to when he'd arrived escorting several hundred trainees.
+
+What he'd done to cause the catastrophe was, as yet, still a mystery.
+
+They'd also managed to pick up a straggler. A young trainee, probably no more than nineteen or twenty years old, had requested to be allowed to follow them. Perhaps not that unusual a request, given the circumstances, but it was rather shocking any of the Commanders had agreed.
+
+"So, you've spent a fair bit of time around this monster?" the trainee asked.
+
+Morrelia looked at the girl askance. She didn't remember seeing anyone this... bubbly... when she'd been in the fifth for training. The harsh environment and brutal training tended to iron out the positivity from most people rather quickly. Morrelia hadn't had any to begin with, so she'd fit right in.
+
+"Legionary Sheriman..." she began, but was cut off by Joshen.
+
+"A lot more than I would like, but a lot less than my fellow Tribune. She first met the thing when it was a lot smaller than it is now, during the initial Wave."
+
+Irritated, Morrelia shot a glance at Joshen, but he wasn't paying much attention to her, smiling instead at the young woman walking with them. At any given moment, odds were that Joshen was preening to some extent, he took an awful lot of time to ensure he was always looking his best, but this was just... embarrassing. With his chest puffed up and head held on precisely the right angle to maximise the view of his jawline, he couldn't have been working harder to make a good impression.
+
+Disgusted, Morrelia could only shake her head. Not only was Sheriman beneath him in rank, she must have been five or six years younger. When she looked back at the officer in training, however, she found the young woman only had eyes for her. Large, sparkling eyes, as blue as a winter spring.
+
+"Uh, that's true," Morrelia said, looking away.
+
+This was the sort of person Joshen was interested in? She looked more like a dewy-eyed princess than she did a proper Legionary. She didn't even have a moustache.
+
+Chasing that unwanted thought away, Morrelia focused on the task at hand. They were going to see Anthony and hassle him for details about what happened below. Knowing him, something dreadful had happened and he was entirely at fault, but getting him to admit it would be almost impossible.
+
+An indirect approach was warranted in this situation.
+
+"I've never seen such a large monster," Sheriman said breathlessly. "The aura coming off of it was overwhelming! You were with it when it was much weaker? Why didn't you kill it back then?"
+
+What sort of question...?
+
+"It wasn't appropriate at the time, nor was I an official member of the Abyssal Legion," Morrelia replied brusquely, keen to end the conversation.
+
+"Not appropriate? What was happening?" Sheriman asked, pressing her for details.
+
+"Things," Morrellia replied flatly. "And stuff."
+
+"What kind of stuff?"
+
+"If you have questions for Anth-for the monster, Legionary Sheriman, then you are welcome to ask them directly. We will be meeting with them shortly."
+
+"We will be meeting with them right now," Commander Chyron growled. "Would you be quiet back there?"
+
+With a start, Morrelia realised they had indeed arrived. Anthony himself, in his enormous tier eight form, rested comfortably in front of them along with his pets. Four powerful monsters together in the same place was enough to send even her instincts screaming, and she knew they were all friendly.
+
+Rather than intimidated, Sheriman appeared completely fascinated, leaning forward, her eyes gleaming with interest as she took in the scene.
+
+Anthony largely ignored them, sending a lazy wave her way with one antenna while he chomped on some Biomass that the Colony had provided for him. In a few seconds, a mind bridge snapped into place, connecting all of them to the giant ant so they could speak together.
+
+[Hello, fine members of the Legion. How are we all today? Feeling good? Feeling fresh? Judging by the scowl on your face, Commander, it's a day that ends in 'y'. Am I right?]
+
+[Very funny, ant,] Chyron grunted. [What the heck have you done this time?]
+
+[Ah, if I might interject,] Morrelia said hastily, stepping forward. Chyron shot her a look but nodded subtly. This was the strategy they had agreed on, after all. [We were wondering if you could tell us what happened down below?]
+
+[Well, a lot of things happened,] the big ant replied vaguely, clearly not interested in elaborating.
+
+Morrelia deployed her hidden strategy.
+
+[According to Legion intelligence, a non-ant monster was really causing some havoc down there,] she said conspiratorially. [A non-ant, really going wild and making a mess, which is almost definitely what caused this disaster. Did you see any other monsters down there, causing problems?]
+
+There was silence for a moment as Anthony thought. Morrelia held her ground. This was going to work.
+
+[Yyyyyyess,] he said finally. [It's all that guy’s fault. I'll tell you exactly what they were up to. Dreadful stuff, really. Absolute chaos. No ant would ever be caught dead making such a scene.]
+
+Morrelia nodded sympathetically as Anthony began to explain what he—rather, what the culprit, had done.

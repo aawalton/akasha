@@ -1,0 +1,53 @@
+---
+id: 87068630-8902-561d-b3b5-ffcf8fc39c5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1758 - Revenge Tour"
+slug: 0410-chapter-1758-revenge-tour
+partOf: chrysalis
+position: 410
+ownLength: 862
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3194279/chapter-1758-revenge-tour"
+royalRoadId: "3194279"
+---
+
+Pangera is a large planet. Considering the vast bulk of its interior is a mishmash of tunnels, open caverns and even enormous, underground plains that stretch for thousands of kilometres, its size truly boggles the mind. There is nobody who can claim to have seen it all, not even the lived races have enough time to travel through each and every part of every stratum.
+
+Not even counting the places they simply can’t go, due to the danger, or the inhospitable nature of the environment.
+
+Putting all else aside and imagining that there were no monsters, no dangerous environments, even then, large swathes of the world would still be inaccessible.
+
+Theorists have long calculated that the mana density would eventually become so potent that no mortal race, not even the most magical, could possibly hope to survive there.
+
+-           Excerpt from ‘Depths of Dispair’ by Magio Scholar Exun
+
+Allowing myself to be completely drenched in hyper-potent acidic mucus may not have been the wisest decision I ever made, but it worked out in the end. Thankfully, my carapace is extraordinarily thick and the healing network kicked in once the Krath started attacking me. With a few hundred of them throwing acid at me, the healing fluid ramped up rather quickly.
+
+I guess I allowed myself to grow a little too overconfident in my capacity to defeat the mana corruption, to the point that I didn’t properly account for the very real and painful danger of being engulfed in acid. Of course, the Pure Core did a wonderful job of soaking up the stray mana that permeated my body, top marks for that, but sheesh, I could have done without the slime-bath.
+
+With most of the Krath dealt with, I make sure my captives are properly flattened and unable to move so much as a finger before I wander through the sections of the cavern large enough to accommodate me. There isn’t much, to be honest. Solant believed that these forward outposts were recently built by the Krath rather than long-standing tribe hideouts. Most of the tunnels are narrow and cramped, with the living spaces resembling something the Colony would opt to sleep in. I can’t imagine being packed in that tightly did much for the famous slug tempers.
+
+Oh, actually, looking closer, it seems as though each slug had its own little hole to sleep in. Maybe that helped?
+
+I’m a bit disappointed to see that there isn’t an egg clutch to be found. Since this area is going to be flooded soon, we would have wound up with some more chal. I like those little snails, they seem fun, and the more the merrier, as they say. Well, nothing for it.
+
+It’s a little tricky to transport the slugs back towards the safe-zone. I have to move them in a way that doesn’t give them an opportunity to pop themselves like resentful balloons. Obviously I can’t just mush them into the ground, it’s not all that cohesive with the whole ‘moving’ them thing. Ultimately, I need to flex my brains a bit and use a gravity well to float them while also stretching them outwards at the same time.
+
+It’s not easy, but it works a treat once I get the hang of it.
+
+With a handful of Krath floating along behind me, I turn my back on the ruins of the former slug outpost and start to head back to the safe-zone.
+
+I have one more job to do while I’m out here and that’s to reshape the tunnels to undo the work the slugs have done. It takes quite a while for me to poke around and find all the shenanigans they got up to. Hidden reservoirs of mucus, stealthy little drainage holes, porous walls and all sorts of nonsense. On top of the less obvious stuff, they had also just straight up blocked off tunnels, cut massive holes in the floor of others and opened up vast chambers to hold the liquid mana and burn it off using what appeared to be specially engineered pets.
+
+The monsters didn’t seem to be able to take in and convert the purified energy, but just spit out vast amounts of highly concentrated goop. Unable to move on their own, without any sort of limbs, or even senses to speak of, I can’t imagine these creatures would be able to survive without the Krath babysitting them.
+
+Looking like a pile of soggy gym-clothes, the monsters only possessed two orifices, one for eating, and another for… excreting ooze.
+
+Well, that was one way to fight back, I suppose.
+
+With all of the paths restored and the sneaky openings covered over, I’m able to make my merry way back to the safe-zone with my captives in tow. A quick and successful outing, if I do say so myself. I’d kind of assumed things would be tougher, but my evolution is once again paying dividends beyond my wildest dreams.
+
+The fifth? It’s a cakewalk! Gweheheheheh!
+
+I have three other outposts to deal with before I can head down into the depths and deal the final blow to the Krath tribes. Oh, I can hardly wait.

@@ -1,0 +1,61 @@
+---
+id: 7a03caf1-88b2-57c8-979d-a027f94101d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1775 - I Don’t Think They’re Happy to See Me"
+slug: 0427-chapter-1775-i-don-t-think-they-re-happy-to-see-me
+partOf: chrysalis
+position: 427
+ownLength: 942
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3295802/chapter-1775-i-dont-think-theyre-happy-to-see"
+royalRoadId: "3295802"
+---
+
+As someone who has received a Krath welcome more than once, I would have to say I rate this one rather highly. Not only are there a lot of slugs here to greet me, they have brought friends in the form of pets and native monsters, each more deadly than the last.
+
+It’s certainly very lively, if a little more dangerous than I would like.
+
+Stop trying to eat through my eyes, dammit!
+
+These lamprey-like worms have latched onto my eyeballs, and judging by the pointy horns above their mouths and their repeated attempts to poke holes in me, I’m guessing they’re trying to tunnel into my head and eat my brains or something. Well good luck with that, chumps!
+
+Unsullied Crystal peepers are too powerful for your puny teeth and horns!
+
+However, I am currently unable to see because my eyes are covered in invasive worm parasites. Meanwhile, the Krath are attacking me from all sides with unspeakable horrors, and if I get bogged down for a second, I’m terrified that they’ll envelop me in goop that I can’t escape from!
+
+This calls for desperate measures.
+
+“Clear the rear-zone! Anyone caught back there is going to regret it! Also, if someone can clear my eyes, I’d be grateful…”
+
+After warning Protectant and the others, I adjust my positioning, pointing my industrial empire down one side of the tunnel, and unleash two quick shots of acid.
+
+Why two? Well, the Krath, and the fifth in general, are extremely resistant to acid. Heck, down here the air is acidic. One blast of acid simply isn’t going to cut it, whereas I can’t help but feel like two might be a touch overkill….
+
+Forged with the power of Theorazzn, my commercial district produces world-renowned wares that are nothing to sneeze at, even down here. As soon as I fire, the horrifying, sizzling, and rapidly expanding acid starts eating into the nearest monsters, who fall back desperately trying to get it off of them.
+
+Before too long, this whole area is going to be enveloped in that stuff, so we need to get the heck out of here! One of my defenders, I’m not sure which one, is kind enough to blast my face with fire. To be honest, they do it a little too enthusiastically for my liking, roasting my head to an uncomfortable degree, but the end result is that I am cleansed of brain-eating worms, so I can’t complain.
+
+“We need to move!” I roar, unleashing Dragon’s Breath into the tunnel before me as I blast a path forward. Behind me, my acid is still expanding, spreading like plague-fire, oozing over the floor of the tunnel and feasting on the blackened flesh of the walls.
+
+If we stay here, we’ll be ankle-deep in the stuff in no time.
+
+The Krath aren’t leaving me alone. It’s clear they don’t want me here to a rather violent degree. Blasts of acid and all sorts of other nasty stuff are fired in my direction from everywhere, constantly. Refusing to show their faces and sending wave after wave of minions at me, the Krath are doing what they normally do: fighting sneakily and being a general pain in the neck.
+
+I’m taking a fairly significant amount of damage, but not much from each strike, which means the regeneration network has kicked into overdrive, flooding my system with healing fluid. These Krath might think they’re wearing me down, but I’m only getting more and more healing the more they hit me!
+
+Gweheheheheh.
+
+That doesn’t mean I don’t have a lot of work to do trying to fight my way through the tunnel. The volume of monsters is crazy, which I suppose makes sense, because the density and velocity of mana is absolutely out of control. I can’t imagine how crazy it gets down here during a wave; even I might have trouble resisting the mana if it gets as high as I suspect it will at that point.
+
+As I make my rush, the scene in the tunnel behind me dissolves into a mess of sludge and struggling monsters trying to force their way through. It’s chaos, but at least I only have to fight in one direction now.
+
+Just like before, if I can find the Krath hidey holes and destroy them, they’ll be forced out of the area and I can get to work preparing the way for the Colony. They have to be down here somewhere, perhaps even in the hearts themselves. I should also try and map out this enormous lung-like complex while I have the chance, but it’s going to be a massive pain if I’m under attack the entire time.
+
+I lunge left, then right, chomping wildly and blasting out regular bursts of Dragon’s Breath to melt away the mucus and slime that threaten to engulf me at any moment. There are so damn many of them! They’re going all-out to try and push me out of this place, but I won’t let them. If there’s a place the Krath don’t want me to be, that’s where I’m going to go.
+
+It doesn’t take long to arrive at a branch in the tunnel and I hesitate for a moment before pushing to the left. For some reason, the right feels kind of dodgy to me, but I can’t exactly explain why. Perhaps there’s something I’m seeing through without realising again?
+
+I wouldn’t put it past the Krath to lace these tunnels with traps and illusions. In fact, that’s exactly the sort of thing they would do.
+
+Well, it’s fine. No matter what they’re trying to hide, I’m going to find it.

@@ -1,0 +1,65 @@
+---
+id: e7226984-036d-50d2-85a5-4a188b7bfdeb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1782 - That’s Just Nasty"
+slug: 0434-chapter-1782-that-s-just-nasty
+partOf: chrysalis
+position: 434
+ownLength: 988
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3331259/chapter-1782-thats-just-nasty"
+royalRoadId: "3331259"
+---
+
+It doesn’t work as well as I’d hoped, because of course it doesn’t. The Gravity Bomb may have been a one-size-fits-all solution to my problems higher up in the Dungeon, but lately, not so much. With mana levels so dense, making problems go away by sucking them into a black hole just isn’t as effective as it used to be, which is a shame, and the monsters are powerful enough that they can usually conjure balls of compact mana of their own.
+
+In this case, the enemy doesn’t bother doing this, but simply accepts the oncoming black hole, swarming it with its tentacle appendages and making it disappear from sight. Confused, I watch and wait for it to explode or something, but my mana sense gives me a clear picture of what’s taking place.
+
+It’s eating it.
+
+Not as in, physically eating, but using its tentacles to siphon away the mana at a truly furious rate. Some of the limbs are ripped apart, a lot of the limbs are ripped apart, but what does that matter? There’s tens of thousands more where those came from!
+
+When it’s done chewing up the mana I have apparently donated to it, clusters of tentacles rise up and fire it back at me in muddied purple beams. I dodge to the side as the lasers tear through the ground, ripping it apart and sending sludge and goop flying through the air.
+
+Uh, ok? This is a thing now, apparently.
+
+For a moment, I’m a little taken aback at how to approach this beast. Do I shoot more spells at it? To what effect?! If it can consume them and shoot them back, aren’t I making life harder for myself?
+
+Maybe I should try and approach it, get my mandibles to put in some work.
+
+Bracing my legs, I drop to the ground before skittering rapidly, moving with absurd speed and agility for a creature of my enormous size as I circle to the right, jaws open wide and ready to strike. Where exactly I should strike… I’m not so sure. Like a sea anemone, the monster is so covered in drifting cilia that I can’t even see its actual body!
+
+Well who needs to aim anyway?
+
+Starcrusher!
+
+My enemy wibbles in surprise as I unleash the Skill. Searing fire and terrible suction are unleashed as my jaws slice down on the forming ball of energy between them. The monster shrieks, reaching towards me with its limbs as thousands of them separate to reveal a dreadful, ring-shaped maw with layer after layer of teeth and what appear to be suckers of some kind. Yuck!
+
+My jaws snap shut and the immediate surroundings are engulfed in fire, the catastrophic explosion directed outwards, right into the creature’s face.
+
+It shrieks and pulls back, which is good, because only then do I realise that my mana was starting to leak out of me. Somehow, I don’t know how, it managed to latch some of those cilia onto me and somehow, and I really don’t know how, was drinking my mana!
+
+How in the world?! So if I get too close to this thing, it’s going to consume the energy I need to survive, but if I hang back and throw spells at it, it’ll eat those too?
+
+My legs are still sore, so I flex them a little before I start backing up a few steps. Having just used the vestigial legs, I shouldn’t push them too hard just yet, which means not trying any fancy moves like that again. Which is just great. If I can’t throw bombs at it, and I can’t run rings around it, it’s like I’m trying to fight a powerful monster with two legs tied behind my back.
+
+Luckily I have another four where those came from!
+
+It appears as though the monster took some damage from that chomp. Several of its waggling tentacles are smoking and more than a few have been burned away, but the overall number doesn’t appear to be much diminished, if at all. It’s possible this beast has a way to repair or regenerate these limbs in a hurry, which makes sense if its main strategy is to use them to drain the mana out of its foes.
+
+How does that even work?! Manipulating mana inside someone else is insanely difficult. Keep in mind, it’s my mana, not theirs! My mandibles allow me to inject my own energy into an enemy and use it, I’m not taking control of anything that isn’t mine to begin with.
+
+I guess it's not really manipulating it, but just… drinking it? Perhaps that's a loophole of some sort. It’s tier eight at least, every monster who gets that high is going to have some sort of nonsense ability, myself included.
+
+Deciding I need more information, I start to unleash a wave of Dragon’s Breath at the monster.
+
+Searing, roaring flame bursts out from between my mandibles like the flare from a jet-engine. Thousands of cilia come together and… start absorbing it. In rather short order, I get my own fire right back into my face.
+
+Lovely.
+
+It’s not perfect, though. Looking closely, I can see that the tentacles need to physically come into contact with the mana in order to absorb it, which means they are getting burned. Problem is, I have no idea if they’re taking enough damage to matter, I can’t possibly count them all!
+
+I mean, it already chewed up a gravity bomb and there doesn’t seem to be any difference to that forest of tentacles, despite knowing it must have shredded tons of them to pull that off.
+
+As much as I’d love to have more time to sit back and think about how this bizarre monster works, it obviously doesn’t want to give it to me. With surprising speed, it wibbles its way forward, innumerable cilia reaching out towards me. I need to move!

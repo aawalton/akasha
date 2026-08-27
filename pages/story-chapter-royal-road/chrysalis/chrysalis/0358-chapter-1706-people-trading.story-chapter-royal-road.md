@@ -1,0 +1,119 @@
+---
+id: a8f75cf1-e78e-550c-8da6-49af282d743e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1706 - People Trading"
+slug: 0358-chapter-1706-people-trading
+partOf: chrysalis
+position: 358
+ownLength: 1441
+unit: words
+ownProgress: 1441
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857382/chapter-1706-people-trading"
+royalRoadId: "2857382"
+markedReadAt: "2026-06-29T19:55:15.740Z"
+---
+
+Another negotiation with these ants. They were relentless, Alice had to give them that. Diplomats, as if monsters having diplomats wasn’t an utterly absurd notion, had been sending daily messages via their brathian merchant contacts despite being rebuffed every time. Green Mountain had, with some reluctance, rejected their price, and that was that.
+
+Hunting monsters was the right of every delver across Pangera, and the ruling council of the Mountain had no intention of selling that right for any price.
+
+Yet now they apparently had another proposal, and the brathian were kicking up a fuss. Once again, Alice Erry, the chief negotiator of Green Mountain, was forced to board a neutral vessel and endure the presence of a monster for no real purpose. As she boarded the ostentatious ship and made her way below deck, she idly wondered just what sort of proposal the monsters would put forward this time.
+
+Perhaps they wanted to up their offering? Such an astounding sum would surely bankrupt the ants, and perhaps it would be worth accepting just to make them suffer the cost. That had been a line of reasoning some of the more… materially concerned members of the council had taken, but they had been outnumbered in the end.
+
+After being shown into the room in which the talks would be taking place, Alice was a little surprised to see there wasn’t an ant in place ready and waiting for her. A little irked, she took her seat, raising a querying brow to the brathian negotiator who had led her in, only to find the woman was gone.
+
+What was this, some sort of trap?
+
+“Ha ha, no trap, I assure you of that.”
+
+The voice that rang out from the door as it opened was… strange. A little flat, a little wooden, but still somehow bouncing with personality.
+
+“Any diplomatic talks were to be held with a reputable witness,” Alice snapped. She turned, only to start as she found an ant had entered the room.
+
+“Of course, that remains the case,” the voice said as the ant clacked its mandibles, “but we aren’t here for diplomatic talks. We are here for something much more interesting.”
+
+Unhurried, the ant stepped around the table and took its place on the other side, sliding onto the ant-chair positioned there and removing the smart-looking hat it wore on its head. After inspecting and buffing out an unseen imperfection, the hat was placed carefully on the table before Alice had managed to pull her wits back together.
+
+What manner of creature was this? An audible ant? Such strange clothing and mannerisms, along with the glasses?
+
+“Alice Erry, chief negotiator of Green Mountain, what a pleasure to meet you,” the ant effused as it began to pull documents and papers from a satchel placed to one side. “Your record is remarkable, I have to say. Very impressive. No Erry has ever served on the council, nor held a position of significant authority, but you have blazed a trail through hard work and talent. I respect that. Perhaps we could even say there’s a little bit of ant about you. Hm?”
+
+Ants couldn’t wink. It was biologically impossible. And yet.
+
+“I’m only joking, of course. I wouldn’t want you to take offence, I know how the Mountain feels about my kind.”
+
+The ant reached into its coat and removed a gleaming, silver case that it snapped open to reveal five rolled cigars nestled within. Offering the case over the table, the ant said, “Do you smoke? I’ve picked up the habit, and I have to say there’s something about the scent that I find so… tantalising. It’s like immersing my antennae in earth and fire. Would you care for one?”
+
+“W-what? No!”
+
+Alice shook her head, trying to dispel the strange magic the creature had woven in such a short span of time. She slapped a hand down on the table firmly.
+
+“If we aren’t here for diplomatic discussions, then I will leave.”
+
+“Well now, there’s no reason to be hasty,” the ant laughed, withdrawing a cigar and snapping the case closed. The ant tucked it away before placing the chosen cigar in its jaws and snapping its claws to ignite the tip. “As I said, there is something much more interesting to discuss here: business.”
+
+There was something about the way the monster spoke that word that sent a shiver down Alice’s spine. She refused to let her unease show.
+
+“I have no interest. That is to say, Green Mountain has no interest in any sort of business deal with your kind.”
+
+“Under normal circumstances, I would completely agree with you. But in this instance, we can absolutely come to an agreement. You see, business is always possible when someone has something that someone else wants, and is willing to part with it for the right price.”
+
+The little ant puffed on her cigar, her eyes twinkling.
+
+“Right now, I have something you want, and I am very willing to part with it… for the right price. You see? A deal is more than possible.”
+
+It was absurd, and Alice was more than a little tempted to walk out immediately. She would never be able to say what it was that kept her in that room.
+
+“And what do you have that we might want?” she sneered, folding her arms across her chest.
+
+“I heard a few delvers had gone missing in the tunnels. Over fifty, by last count.”
+
+“So what?”
+
+Delvers went missing all the time. Long excursions into the Dungeon came with risks and hazards. Some would return, weeks behind schedule after having survived a tumultuous adventure, others would never come back at all.
+
+“We were wondering if you wanted them back.”
+
+In an instant, the air around the ant had changed. No longer cheerful. No longer jovial and joking. It sat still, one claw on its cigar, thin trails of smoke winding up around its antennae.
+
+“You… what?” Alice said, maintaining her cool.
+
+“We were wondering…” the ant said slowly, tapping ash into the tray on the table, “... if you wanted your people back.”
+
+As chief negotiator for Green Mountain, Alice Erry was no pushover. Her thoughts raced as she tried to understand the implications of what was happening here.
+
+“Are you saying that you have captured them? That they’re alive?”
+
+“Very much alive, for the time being. Over fifty delvers just wandering the tunnels inside our territory, poor lost little lambs. We picked them up as a courtesy, and we thought it was natural to ask if you wanted them back.”
+
+“You’ll give them to us?” Alice sought to clarify.
+
+“Of course we will, once you pay our price.”
+
+One middle leg slipped inside the monster’s coat and withdrew a small piece of paper that it placed on the table and slid across the surface.
+
+Reluctantly, Alice reached out, picked it up, and read the contents. Her eyes grew wide.
+
+“You want this much for them? Have you lost your mind?”
+
+“Of course not,” the ant almost purred. “We want this much for each of them.”
+
+The monster took its cigar and crushed it into the tray before rising from its seat.
+
+“Obviously, you won’t agree now. That’s fine. I’ll come again when we have a hundred of your delvers. The price will have gone up, obviously. Then I’ll come back when we have two hundred. Again, a rather sharp price increase can be expected at that time, I’m afraid.”
+
+“You think our people will just let themselves be taken?” Alice stated, concealing the unease she felt. Something had changed down in the tunnels, but what? What was going on down there? Weren’t the ants corralled into their nest, huddling in fear?
+
+“Your people don’t have a choice in the matter,” the ant replied. “All this time, you thought we were hiding for our protection, and in a sense, we were. What we really feared, is what would happen to you if one of your teams succeeded. The time for that fear is gone now. We are no longer the ones who have to be afraid.”
+
+Then, the charm came back, so strong it was as if the lights in the room had brightened.
+
+“Alice Erry. Wonderful to meet you, truly a privilege. I’d love to shake your hand, but ah… I wouldn’t want to make you uncomfortable. Let’s put it that way.”
+
+They couldn’t wink. They couldn’t!
+
+“I look forward to meeting you again soon. Please, reach out through our mutual friends if you want to talk. Any time at all, I’m all yours.”
+
+Just like that, she was shown the door.

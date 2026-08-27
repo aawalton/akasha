@@ -1,0 +1,79 @@
+---
+id: f3197c10-7b9c-53e8-9edc-a1d10b1e87f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1745 - Heresy Meets Heresy"
+slug: 0397-chapter-1745-heresy-meets-heresy
+partOf: chrysalis
+position: 397
+ownLength: 1072
+unit: words
+ownProgress: 1072
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3106522/chapter-1745-heresy-meets-heresy"
+royalRoadId: "3106522"
+markedReadAt: "2026-06-29T19:56:29.789Z"
+---
+
+Beyn wasn’t sure how he was supposed to feel upon meeting the Grand Priest once more. There had been a time when he had hoped that others of his old order might see as he now saw, and be drawn into the light of this new Path. After the tragedy in the Silver City, he was no longer certain.
+
+Head bowed in thought, he wandered the pathways inside the nest, moving towards the holding cells. Well lit and spacious, these corridors were just another example of the Colony’s care for those who chose to walk alongside them. Beyn often reflected on the fact that the ants’ passageways tended to be cramped and dark, which was how they preferred them, dense tunnels designed for ants to pack in on all sides. Yet, when it came to the humans and others who shared their living spaces, the Colony was generous with the things that they were reluctant to give themselves.
+
+There were no others sharing this corridor with him at the moment, no one else to enjoy the flawless carvings, the woven rugs or the soft glow of the enchanted sconces evenly spaced along the walls. He padded in silence, the only sound the muted tap of his ant-headed staff upon the floor.
+
+When he reached his destination, he stepped from the corridor and into a shared space, guarded by a dozen ants who kept a careful, unmoving watch upon those locked within. For this block of two dozen cells, the majority appeared to be filled with members of the Judgement Battalion, all of whom appeared wan and fading, inexplicably weak.
+
+“Excuse me. Where can I find the Priest, Alir Vinting?” he asked, using his now flawless pheromonal speech.
+
+“He is in the cell towards the back, the one on the right,” came the prompt reply.
+
+Once upon a time, the ants had reacted with surprise and shock when he spoke to them with pheromones, wondering how he produced them without a relevant gland. They often lost interest when told it was a function of mana. Nowadays, others speaking in the same manner as them was no longer surprising. This was incredibly pleasing to Beyn, a sign of the growing closeness between the Colony and those who walked the Path alongside them.
+
+“Thank you. May the Great One illuminate your steps.”
+
+“Who?”
+
+Too distracted to sniff the guard’s reply, Beyn resolutely began to walk to the rearmost cells. Far more luxurious than anything he had ever seen be called a prison in the past, the small rooms were nonetheless barren and cramped by Colony standards, with those within fully visible to anyone on the outside.
+
+Alir Vinting was exactly where the guard had told him, seated comfortably, sipping a cup of tea, his robes still stained with dirt from the battlefield.
+
+Instantly, Beyn’s heart ignited in anger. He knew.
+
+It was impossible for him to say how he knew, but he did, a burning certainty filling his chest and sizzling behind his eyes, turning all doubt to shreds.
+
+“It was you,” he said.
+
+He came to a stop just outside of reach of the bars behind which the Grand Priest was contained, staring hard at the man within. For his part, Alir seemed unperturbed, lowering his cup as he turned towards his latest guest.
+
+“You will need to be a little more clear,” he said.
+
+Beyn lifted his staff and crashed it down on the stone floor in a fit of anger.
+
+“It was you!” he exploded. “You were the one behind the capture of the lost ant in the Silver City! That time in the library, you were trying to extract information from me, learn all you could. I thought perhaps you may have seen a glimmer of light in the New Path, but all along you were planning your… your heresy.”
+
+The one-armed Priest spat the word with disgust. It wasn’t enough to contain all of the disdain, all of the horror he felt at what the man before him had done, but he did not know of a stronger word.
+
+“You speak to me of heresy?” Alir scoffed. “A fallen Priest of the Way who lost his mind along with his arm? The only light in your eyes is that of madness. Monsters are here for our glory, not the other way around. I have done nothing but follow the Path as it was laid before us at the dawn of Pangera! You were once a person who understood that.”
+
+“I was shown a greater truth. A partnership and a way forward that uplifts all involved. Look at the prosperity and power all around you and tell me I am wrong!”
+
+Alir looked down at the exquisite porcelain cup he held in his hand. Disdainfully, he released his grip, letting it shatter on the floor.
+
+“You are wrong,” he said simply.
+
+There was no saving him. No point in even making the attempt. For the first time since his awakening, Beyn felt something close to hate. He did not pity, or lament the blindness of the man in front of him. Those things could be forgiven. His actions, however, his actions were irredeemable.
+
+“Sitting in a cell, telling me you have done nothing wrong,” Beyn ground out. “I wonder if they will see things the same way.”
+
+He tilted his head, ever so slightly, towards the imposing ant-head carving atop his staff. For the first time since he had appeared, Alir looked somewhat nervous.
+
+“Threatening me, a Grand Priest of the Church?” he sneered. “Look at how far you have fallen. Is there anything left of your decency, of your faith?”
+
+“My faith has never burned brighter,” Beyn muttered, eyes boring a hole in the man in front of him. “If you can be threatened with the truth, then perhaps you walk the wrong Path. I will tell them what you have done, then your fate will be left in their mandibles. Normally, the justice of the Colony is quite lenient, but… for you, I foresee a different outcome.”
+
+“If they kill me, they will bring down a storm upon their own idiotic, monstrous heads,” Alir shot back. “You know that. Do you intend to endanger your own false salvation?”
+
+“I’ll tell them. But it won’t make a difference.”
+
+Beyn took a solemn step back.
+
+“Walk in the light of the True Path,” he said, “for whatever time remains to you.”

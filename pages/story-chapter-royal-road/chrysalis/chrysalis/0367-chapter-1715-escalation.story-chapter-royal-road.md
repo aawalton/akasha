@@ -1,0 +1,69 @@
+---
+id: 34de3238-047f-56b8-820d-f30e429b35be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1715 - Escalation"
+slug: 0367-chapter-1715-escalation
+partOf: chrysalis
+position: 367
+ownLength: 968
+unit: words
+ownProgress: 968
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2956312/chapter-1715-escalation"
+royalRoadId: "2956312"
+markedReadAt: "2026-06-29T19:55:33.173Z"
+---
+
+[Master, the nameless have found something. A large ambush. Hundreds of delvers have gathered and laid traps for you. Would you like me to reach out and destroy the FILTH?]
+
+[Uh, no, that’s quite alright. Just let me know where they are and I can take care of the rest.]
+
+[... Fine.]
+
+I mean, I suppose I could let Crinis loose, but that would involve unleashing horrors beyond imagining upon my foes. I don’t think there would ever be peace between the Colony and its neighbours if that happened.
+
+There has to be a peaceful resolution. If we can’t keep devoting our antpower into the fifth, then we will lose everything that we’ve managed to win down there. Once that war has been won, we won’t have to sit on our hands and treat enemies like Green Mountain with such a soft touch.
+
+Until then, these matters need to be resolved peacefully. The worst possible result would be dragging the Colony into another major conflict. We simply can’t afford to divide our focus right now.
+
+Well, hundreds of delvers, wanting to meet little old me? I was wondering if more of them might start gathering together. Spread out over so many tunnels, it took a while for them to gather together properly. I’m sure a lot of them are starting to head back to Green Mountain, which makes it likely this ambush will be the last I have to deal with in the short term.
+
+Once I’ve finished taking care of this, it’ll be time to start chasing down the stragglers and scooping up as many as we can get our mandibles on.
+
+Gweheheheheh.
+
+Thanks to the nameless and Crinis, I know exactly where this ambush is located, so I engage submarine mode and start zooming through the tunnels, floating through the air while being pulled forward by a gravity well.
+
+It took surprisingly little time for my vestigial legs to grow out to full size after I blew mine up using an empowered Dash. I’ll need further mutating to prevent every tendon in my legs from snapping simultaneously the next time I try that. Though it was useful to learn how the vestigial legs actually worked. The damaged legs were basically jettisoned, like a lizard detaching its tail, then the new ones started sprouting out immediately. It feels a little weird knowing that I have a full set of reserve legs growing inside me, but considering how fast they were able to grow out, I think the triad made a good choice.
+
+Once I mutate them, I’m sure the time it takes for them to grow to full size can be cut even further. Eventually I might be able to lose all of my legs and have a brand new set in under a minute. Wouldn’t that be a thing?
+
+As I drift through the tunnels, heading towards the planned ambush, I consider what my best course of action is.
+
+So far I’ve been able to dominate all of my encounters against the delvers with relative ease. None of them have been able to stand up against the empowered Gravity Domain, nor have they been able to do any significant damage to me.
+
+Well, if I let them hit me for long enough, they’d crack through my carapace, but the regeneration network is proving to be… a truly absurd organ.
+
+Although I haven’t been testing the wellspring much, it’s going to have to be pretty crazy for it to outshine this gift that Theorazzn’s mana has given me.
+
+However, with hundreds of delvers and prepared traps… that won’t be so easy to handle. After all, the way to counter the Gravity Domain isn’t to be so strong you can stand up in it, only monsters could possibly be that strong. Or monstrous humans.
+
+Morrelia’s dad could probably do it. That guy is scary.
+
+No, the way to counter it is by breaking up the mana using external mana manipulation. Against a magnificent specimen such as myself, a dozen mages are simply not enough to do the job.
+
+A hundred, though? Ehhhhh… maybe. If I can’t just slam everyone into the ground, then ending the fight without too many casualties becomes that much harder. Of course, it’s not like the Colony can’t justify some of these delvers never going home, especially considering why they’re here, but keeping the damage to a minimum will be great for our image. I’m sure the Church of the Path is out there spreading all sorts of nonsense about us. We need to make sure they keep looking like whinging losers in the face of our benevolent mandibles of justice.
+
+Coming to a halt several kilometres away from the ambush site, I lower myself to the ground and land on my legs, still contemplating.
+
+Obviously, it’s not much of a trap when I know it’s there… but walking in still leaves me vulnerable to anything they might have prepared. Nasty spells, spikes, rock falls, goodness knows what else. If I can trigger the worst of it from a distance and then go in myself, that would make me a lot more comfortable.
+
+Hmmmm.
+
+Alright, let's do it this way.
+
+I release my hold on the concealment methods I’ve been using, letting the power of my core radiate outwards like a blazing, miniature sun. There’s no way they won’t sense that. Hopefully they also sense what comes next, because they’ll be in a heck of a lot of trouble if they don’t.
+
+Planting my feet in the ground, I spin up my minds and take hold of the Gravity Mana inside me. Then I start pulling it out. A lot of it.
+
+I haven’t cast a singularity since I woke up, I wonder if I can handle the spell a little better than before?

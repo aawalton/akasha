@@ -1,0 +1,89 @@
+---
+id: 88a27f28-ccad-5024-a2d1-e9bca52971db
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1792 - Unexpected Escort Quest"
+slug: 0444-chapter-1792-unexpected-escort-quest
+partOf: chrysalis
+position: 444
+ownLength: 932
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3388817/chapter-1792-unexpected-escort-quest"
+royalRoadId: "3388817"
+---
+
+Unleashing, somehow, an even worse environmental disaster in the fifth was not something I thought I even could achieve. Things are already so terrible down here that making it meaningfully more dangerous is almost impossible. What can I say? Life finds a way.
+
+To make things more awkward, I end up having to babysit a group of Legionaries as they flee. To make matters even worse, they’re baby Legionaries! Hatchlings who haven’t even finished their training.
+
+Why the Legion is teaching them down here in the fifth, I have no idea. Just imagining bringing a Queen into this place to hatch ants is enough to make my carapace itch. It’s not safe! It’s the opposite of safe!
+
+Now that the thought has occurred to me, I have to ask. I can’t stand not knowing.
+
+[Why do you train people down here in the fifth? That seems… really dumb.]
+
+[Do you actually expect me to explain the reasoning behind the Legion’s decisions to a monster?]
+
+I’ve only met a few Commanders, but they have been universally snippy, when they aren’t terrifyingly dangerous. I understand that they have a deep-seated and borderline irrational hatred of monsters, but seriously, I’m right here saving their lives, aren’t I?
+
+Sheesh!
+
+[Just seems irresponsible is all. They’re barely more than hatchlings. How old are they? Ten?]
+
+[They’re at least eighteen!]
+
+Oh. You know what, I find it hard to tell with humans these days. I can look at two hatchlings and tell you the age difference between them down to the minute.
+
+After the carapace has fully hardened, it's a lot harder, but I could probably get it down to the day. Humans, increasingly, all look the same to me.
+
+[Eighteen is still fairly young, right? I think?]
+
+[Are you eighteen?]
+
+Honestly, not even if you put both of my lives together. But monster years are like dog years. Most of us don’t live all that long. Considering the average lifespan of the demon larvae in the third, I’d have to think the median lifespan of a monster in the Dungeon would have to be… five minutes or so.
+
+[None of your business. I’m the oldest in my family, that’s all that matters.]
+
+[Is that right.]
+
+Awkward silence descends as I continue to follow along behind the others, climbing up the wall as they scale the rather perilous-looking path. To their credit, they aren’t afraid and move together as a unit, always on alert, like you would expect from professional soldiers with a suspicious amount of mana in them.
+
+Eventually it seems as though Commander Eliza relents a little.
+
+[The hardest steel is forged in the hottest fire. We bring our officers here and train them in the hardest conditions so that nothing they face in leadership is as hard as what they endured in training.]
+
+I mean, sure…
+
+[Feels like you would break a lot of good steel that way.]
+
+[We’ve done things this way for over a thousand years and we’ve tried any number of other methods in that time. Not everyone makes it out, but those who do survive, and those who depend on them survive. That’s what matters.]
+
+I can’t imagine the Colony ever adopting a similar training strategy. Every ant is a precious member of the family and has to be given the best chance to succeed, not smashed on an anvil and moulded. Antcademy training is difficult, arduous even, designed to challenge eager young hatchlings who are more than willing to burn their lives up for the family, but it’s not as hard as learning to survive in the fifth. Not by a long shot.
+
+[I’m not sure how likely you are to welcome this suggestion, but I’m not sure your second Outpost is going to survive the rising tide, so to speak.]
+
+We are currently moving up a near vertical slope, but the space we are in isn’t all that wide by fifth standards, barely a hundred metres, and it’s filling up fast. The space below in which the previous Outpost had rested is now completely full, and the level is still rising up behind us.
+
+Honestly, I didn’t think it would get this high, but I have, yet again, been proven wrong. Surely it won’t be much longer until it starts to go down. Thankfully I can see on my tunnel map that it’s likely a path exists towards the fortress from my current location.
+
+[You can take shelter in the Colony’s fortress,] I suggest. [You can hang out with Commander Chyron and her Legion if you want. I promise this isn’t a trap to try and feed you to some grubs.]
+
+[How reassuring. Let me talk to the others.]
+
+Huh, I kind of expected a straight-up rejection. This is the Legion, after all.
+
+Either my relentless optimism and charm is working on them, or they’re more worried about the rising level of mucus than I thought.
+
+There’s less than a hundred of them altogether, maybe a hundred and fifty if we empty out the other base as well. We should be able to fit them in without any issues.
+
+They discuss for a while and I await the inevitable refusal as we continue to climb. Only, ten minutes later, I get an unexpected thought over the bridge.
+
+[We will accept your offer.]
+
+You what?
+
+[Uh. That’s not what I thought you would say.]
+
+[Does that mean the offer wasn’t genuine?]
+
+[No, no! You’re welcome. It’ll be a rough journey, but I’m sure we can make it in one piece. Well… I can… I’m a lot more durable than you.]

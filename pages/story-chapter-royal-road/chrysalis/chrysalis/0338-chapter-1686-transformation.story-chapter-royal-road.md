@@ -1,0 +1,113 @@
+---
+id: 067ac564-96fd-55d5-961f-cd4180290dc3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1686 - Transformation"
+slug: 0338-chapter-1686-transformation
+partOf: chrysalis
+position: 338
+ownLength: 956
+unit: words
+ownProgress: 956
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2770541/chapter-1686-transformation"
+royalRoadId: "2770541"
+markedReadAt: "2026-06-29T19:54:37.474Z"
+---
+
+The more Granin investigated, the less he could believe how it had all shaken out. When the once-krath had sung to Anthony and cleansed him, he had no idea what effect it would have on his organs, but he had feared the worst.
+
+Perhaps they would be twisted and ruined by the mangling of the mana going into them, different alignments clashing and turning expensive evolutionary purchases into useless lumps of meat without purpose. Or perhaps they would be able to serve their intended function, but weaker than before, a loss of evolutionary potential that would cost Anthony dearly now and in the future.
+
+Studying Anthony throughout his long slumber had assured Granin that at least all of the new components were well-formed within Anthony’s body, with no obvious flaws. Yet, they were such complex, high-tier organs and materials, he had no idea if they would still function as intended.
+
+[So you’ve tested your healing organ?] Granin demanded. [How?]
+
+The now truly giant ant turned to glare at Tiny, who was busy shadow boxing in the side of the chamber.
+
+[It’s his fault,] Anthony declared.
+
+Granin was confused.
+
+[Tiny attacked you?] he asked.
+
+[What? No. Well… sort of? Let’s go with yes.]
+
+Granin pinched his brow. Why couldn’t it just be simple? It was never simple with this ant.
+
+[Can you explain it to me? Because this makes no sense at all.]
+
+[Look, Tiny is… enthusiastic about punching stuff. Very enthusiastic. He shoots out fists of intent at everything he sees. Rocks, trees, ants, himself a few times when he caught his reflection, food, water, cups of tea… everything. I’m no exception.]
+
+As a Shaper, Granin was no expert on intent, he was a mage and that sort of thing was the realm of the warriors, but he understood the gist of it.
+
+[So… Tiny threw out his intention to hit you… and your organ triggered as a result?]
+
+[Did it ever,] Anthony snorted. [I had so much regeneration fluid running through me I thought I’d pop! That… that isn’t possible, is it?]
+
+[It shouldn’t be,] Corun frowned. [Excess regeneration fluid is usually reabsorbed by the muscles and then collected back in the organ it came from.]
+
+[It seems as though the propagating effect of the original organ design hasn’t been affected at all,] Torrina remarked. [That’s surprising.]
+
+It certainly was. The main feature of the Ancient’s toxin, and what made it so deadly, was its ability to consume other forms of energy and make more of itself. Anthony’s new regeneration network functioned along the same lines, producing an exponentially increasing amount of healing fluid, gathering speed and power like a boulder rolling down a mountain.
+
+They had all expected this property to be lost in the cleansing, but apparently not.
+
+[And how was your fatigue afterwards?] Granin asked.
+
+[Uh… what fatigue?] Anthony replied.
+
+Granin frowned. He was always frowning around this damned insect.
+
+[Producing that sort of quantity of healing fluid in such a short span should have been exhausting. How tired did you get?]
+
+Monster organs were quite literally magical things, but they still were made of cells that needed energy.
+
+[Granin? Hello? I’m pretty sure I’ve explained this to you before, I don’t get tired.]
+
+Granin turned to look at Torrina and Corun, who both looked back with raised brows.
+
+[You… weren’t tired in the least?]
+
+[Granin, I’m surrounded by like… two million ants. Tiny could have thrown ghost fists at me all day long, I’m not going to get tired.]
+
+The Shaper nodded slowly, containing himself.
+
+[Well… I think that new regeneration organ is going to work out… just fine.]
+
+That was one way of phrasing it. Among the cultists, they would probably call it completely broken. Corun and Torrina certainly realised it as well. They glanced at each other a few times, eyes slightly wide, not blinking. Neither said anything, thank goodness.
+
+If Anthony realised what this meant, he might get carried away. Better for him to learn the limits of it for himself.
+
+[What about the Well of Corruption? How did that turn out?] Granin asked, moving the conversation along.
+
+[Oh, that. Apparently it spits out liquid mana now? Pretty handy.]
+
+[It… it does what?]
+
+[I guess it… does that propagating thing you talked about? It takes in mana, then… makes more of the stuff. If I push in mana, it spits out liquid mana. I haven’t tried it yet, thought I should figure out how to walk properly before… you know… creating liquified arcane power.]
+
+Granin gave a jerking nod.
+
+[Seems smart,] he said, his thoughts slightly strangled.
+
+Liquid mana? Just how strong was this propagation effect? And with that sort of mana available within himself… the organ hadn’t even been mutated yet. Could he make his own special brand of mana with it?
+
+If so… the results could be very, very dangerous indeed.
+
+Granin had a ball of excitement in his stomach, bouncing and rolling about while Anthony continued to complain about this and that. Despite everything that had happened, he’d come out of this evolution just fine. In fact, he was better than fine. Rather than bring him down and ruin his future, Theorazzn might have given Anthony an unexpected boost.
+
+[And this weird core…] Anthony went on.
+
+[Who cares about the core?] Granin laughed, still thinking about everything else.
+
+Anthony looked at him, a little hurt.
+
+[Well… I thought it was neat.]
+
+[Ah… sorry about that,] the Shaper coughed. [I was… distracted. Please, continue.]
+
+[I was just thinking that it might enable me to wander around the fifth a lot longer than I could before.]
+
+[I suppose that’s… a good thing?]
+
+[Not for the Krath, it isn’t,] the ant said darkly, clacking his enormous mandibles together.

@@ -1,0 +1,69 @@
+---
+id: e8831ff9-99bb-5284-bdc4-1d3f676e7fd9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1830 -  Song of the Snail"
+slug: 0485-chapter-1830-song-of-the-snail
+partOf: chrysalis
+position: 485
+ownLength: 851
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3735237/chapter-1830-song-of-the-snail"
+royalRoadId: "3735237"
+---
+
+Melting isn’t a pleasant sensation. I didn’t suppose it would be, but seriously, my legs haven’t hurt this bad since the debt collectors showed up.
+
+Folded up beneath me, my legs are held as tightly to my carapace as they can be, but they’ve still sunk into the surface of the mucus nevertheless. Even with the regeneration gland flooding my system with an avalanche of regeneration fluid, it simply can’t work fast enough to repair this level of damage.
+
+It’s fine, I’ve got a backup set of legs in the chamber, ready to go.
+
+As my face sinks inevitably closer to the surface of the mucus, what I worry about isn’t the mucus in front of my face, but the growing ball of dense energy inside me.
+
+A Doom Sphere isn’t a complicated spell. In fact, of all the spells I know, it's by far the simplest in terms of structure. Take mana, pack it into a tight, dense ball, then fling it at a target. If the job has been done correctly, then that target will be gone.
+
+Even using basic, plain mana without any attributes will work.
+
+The only difficulty is that mana doesn’t like to be packed down into a tight little ball. In fact, it really hates it. Apparently doing this is extremely difficult—at least, that’s what the mages have told me—but I seem to have a natural talent for it, I suppose. A certain stubbornness and strength of mind that makes me rather good at fighting the mana and squishing it into a tiny sphere.
+
+All in all, this talent has been almost as dangerous to me as it has to the things I’ve thrown it at.
+
+As this dense ball of doom continues to build, growing darker and darker until the purple fades to almost pure black, I can’t help but feel a little concerned by the fact that the target is literally right in front of me.
+
+Like right in front of me. There won’t be any way to get out of this, I’ll be sucked right into the center of the Gravity Bomb the second it expands.
+
+Now, that isn’t ideal, I get that, but it’s not like I have no confidence of surviving. My carapace is Gravity-Compressed Diamond—literally crushed in the heart of a star sort of stuff. If it can’t handle the power of the spell, then what can? I’m hoping it’ll hold up under the pressure and prevent my insides from getting totally flattened.
+
+It’s not a great hope, but it’s not nothing!
+
+Alright, I don’t want to build up the Gravity Bomb too large, otherwise I run the risk of blowing up the heart, but then again, I do need it to eat through a lot of mucus, this stuff is notoriously dense in mana and depletes the energy in a Gravity Bomb like nothing I’ve ever seen before.
+
+I can’t afford to make it too small… but then again, I can’t afford to make it too big!
+
+Once it reaches a point where I feel tentatively confident it’s going to do the job, but also starting to fear I won’t survive, I judge that the time has come. Within me, the ball of gravitational mana fights constantly against my control, trying to escape confinement and run wild, but I master it and prepare to launch.
+
+Except….
+
+Right now, I’m mostly surrounded by cleansed mana in liquid form. The stuff is still pouring in from the upper chamber and raining down on me. Where it contacts the mucus, the two forces clash, evaporating each other in a storm of conflicting energy. Less than a quarter of my body has sunk into the goop below.
+
+If I unleash the Gravity Bomb here… won’t I destroy as much cleansed mana as I do mucus? That would defeat the entire point.
+
+With a sigh, I clamp down on the bomb, holding onto it a little longer as I tighten my resolve and activate the mutation on the Altar, empowering my carapace.
+
+I’m not going to enjoy this…
+
+With all that’s left of my legs, I flail to orient myself and then start pushing my way into the muck, face first.
+
+It’s… unpleasant. Hopefully I don’t need to go too deep before I unleash the spell.
+
+…It’ll be fine.
+
+Searing pain erupts all over my carapace as I scrabble and push my way deeper in. When my entire body is submerged, I’m almost impressed at how potent the acid is, but equally surprised at how effective the infused carapace is.
+
+Alright, this should be enough. Hopefully I survive this.
+
+As I prepare to unleash the Gravity Bomb, the song of the snails swells, and my Pure Core bursts outwards with pure light.
+
+Hauntingly beautiful, a single note held by a choir of snails rings outwards, with me in the centre as a wave of purifying light engulfs my surroundings. Mucus boils away into nothing, vanishing with a puff of putrid gas as the snails destroy it with their song.
+
+Unable to hold on any longer, I aim down and unleash the Gravity Bomb.

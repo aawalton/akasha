@@ -1,0 +1,191 @@
+---
+id: 4a5c8806-1b59-5501-87de-fdd48800241b
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 1"
+slug: 0002-b1-chapter-1
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 2
+ownLength: 3311
+unit: words
+ownProgress: 3311
+publishedAt: 2024-01-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1461262/b1-chapter-1"
+royalRoadId: "1461262"
+markedReadAt: "2026-06-29T19:05:53.465Z"
+---
+
+Within the Dark Forest on the Aran Continent
+
+Heavy rain mixed with a small amount of snow falls down around the forest as the sound of gunfire echoes amongst the branches of the Dark Forest. The night is just as Caleb suspected it would be, the young private feeling more uncertain than ever as the screams of the dying soldiers fill the air in between the gunfire.
+
+But he continues pushing onwards despite the uncertainty, aiming his bayonet and firing through the darkness of the forest at the Arterian soldiers rushing through the trees, the enemy having broken their way past the fortress guarding the pass during the heavy rain. And the sounds of return fire come not long after, Caleb already ducking behind a tree while panting in both fear and exhaustion.
+
+“Keep it together private!” Caleb’s direct superior officer, Corporal Verse, shouts as he fires his own rifle directly at an enemy, most likely hitting one judging by the scream that echoes out in tandem with the shot.
+
+Caleb tries to take a deep breath, finding the rain running down his face getting in the way before he turns and begins firing again into the opposing soldiers. Then a stray bullet flies straight past his face, making his eyes widen in fear as he instantly hides behind the tree again, his bayonet held close to his chest with the blade sticking out to the side of his face, close enough for him to see his reflection in it.
+
+“Private!” Corporal Verse shouts after ducking behind a nearby tree, his voice being partially covered by the gunfire. But after finding the private unresponsive, the corporal rounds the tree and fires several shots at the enemies, only to realize that the gunfire has changed direction, the enemies no longer shooting at them. So he stops shooting as well and frowns, quietly calling out, “Private!”
+
+This time he gets Caleb’s attention as the private’s head jerks to the side to look at him before he looks beyond the tree again at where the corporal is looking.
+
+And what he finds is a faint red light shining through the trees, snow, and rain as what looks like a girl only twenty or so years of age runs through the trees, uncaring of the bullets flying past her. Uncaring even when several bullets directly hit her, blasting through her armor and into her body.
+
+But the girl continues running despite that. As if the wounds didn’t even hurt her.
+
+The girl has stark white hair with crimson eyes matching the color of the light shining from her position, and she’s wearing an officer’s uniform but without some of the protection it would normally give, and without a bayonet or a rifle as well. Nothing more than a couple knives and a pistol.
+
+“Who is…” Caleb mutters, only to pause when he hears the corporal sighing with relief. So he glances at the corporal and asks, “Who is that?”
+
+Corporal Verse, who Caleb immediately notices is far less tense than he was before, turns to him and answers, “That’s the Crimson Blade.”
+
+Caleb’s eyes widen at the official title of the warrant officer he’s heard so much about since joining this division but never once seen since he hasn’t been in real combat yet. He then turns his head to watch as the girl pulls out a pistol and begins firing at the enemy soldiers wearing white cloaks, killing one after another before she arrives at the first one, pulling out a knife as well.
+
+To Caleb’s horror, the girl takes a bayonet’s blade to the chest, but to the enemy soldier’s horror, she simply ignores it and stabs her knife straight into the soldier’s neck before grabbing the rifle by the bayonet, yanking it out of her own chest, and shouldering it to point at the other soldiers around her. And without any form of fatigue or weakness that one would expect someone who was just stabbed through the chest to feel, she begins to fire the rifle at the soldiers, mowing several of them down before the mag runs out and she charges forwards, skewering another soldier.
+
+And it isn’t until now that Caleb realizes the faint crimson light seems to be shining from the girl with every wound she takes. As if it grows brighter when she takes a hit and dims slowly from there only to shine from another point on her body after that.
+
+“Don’t just stand there!” Corporal Verse shouts, making Caleb’s head snap back towards him to find the man raising his own rifle and aiming it at the enemies. “Charge!!!”
+
+Before Caleb realizes it, he’s up on his feet and running alongside the other soldiers around them, charging right at the distracted enemy soldiers who are all still firing at the girl. A girl Caleb finds still running around as if she weren’t getting shot at.
+
+But that’s to be expected from what Caleb’s heard of the Crimson Blade. The person with the greatest regeneration ability in the entire world. One many say borders on immortality itself, if it’s not already immortality.
+
+And it doesn’t take long for the soldiers to push all of the enemy forces back out of the forest and into the clutches of their reinforcements who take them from the flank, finishing them off and taking the survivors prisoner. All thanks to the help of the Crimson Blade.
+
+After the battle, Caleb looks around through the rain for the Crimson Blade before barely catching sight of one last flash of crimson light located a little over two dozen meters away from him. But the look in the girl’s eye has him pausing in his brief thoughts of trying to talk to her.
+
+A mixed look of boredom, apathy, and disdain. As if the girl doesn’t want to be here but has been here for ages and just wants to leave.
+
+Not that Caleb can blame her, since he doesn’t want to be here either. He wouldn’t be here if it weren’t for his need for a way to pay for his higher education fees.
+
+But the Crimson Blade looks almost… too used to this.
+
+In the end, Caleb simply watches the girl walk away, not showing a single wound despite the many attacks she’s suffered through the battle. Even her armor itself appears to have repaired itself, reminding Caleb that while she may not wear the full armor, she is still an officer, and an ability holder to boot.
+
+And ability holders are all granted precedent when it comes to enchanted gear.
+
+Even if she only seems to use the self-repair enchantments for some reason.
+
+Out of nowhere he feels someone swatting the back of his head, making Caleb exclaim, “Ouch!” And before he can even turn around he hears his commanding officer say, “You were going to try speaking to the warrant officer, weren’t you?”
+
+Caleb turns towards his commanding officer and immediately salutes him, saying, “Yes sir! I never got the chance to do so sir!”
+
+Sergeant Withers narrows his eyes at Caleb before glancing at Corporal Verse and asking, “Did you explain things to him, corporal?” And when the corporal shakes his head, Sergeant Withers sighs and turns back to Caleb while nodding his head in the direction of the warrant officer and saying, “Putting aside the fact that she is an ability holder and isn’t someone you should be approaching so lightly, Warrant Officer Aria Crimson is in a special place within the military. She, as a powerful ability holder, doesn’t answer to anyone below the rank of colonel, and therefore has been secluded from the rank and file soldier for reasons we are unaware of. However, we have heard that the soldiers who have tried to broach conversation with her before were politely responded to before she immediately dismissed herself from their conversation.”
+
+The private’s eyes widen slightly as he turns around to watch the Crimson Blade walk away.
+
+“Please respect the warrant officer’s wishes and leave her be,” the sergeant finishes. “If she approaches you, it’s fine. But do not bother her. We soldiers of the fifty-sixth division have come to an agreement on that.”
+
+Caleb immediately turns around and gives his commanding officer a salute in return while exclaiming, “Yes sir!”
+
+“Now private, return to your duties and stop loafing around,” the sergeant says while turning around and walking away.
+
+“Yes sir!” Caleb repeats, quickly rushing over to his assigned duty for the cleanup. But he can’t help but glance at the Crimson Blade as she walks, wondering just what sort of person she is.
+
+Aria
+
+I let out a light yawn as I walk through the trees back towards Delta Fortress at the Northeastern edge of the Dark Forest, wondering why these Arterian soldiers had to attack in the middle of the night. And in the rain to boot.
+
+Won’t be surprised if a cold starts making its way around the fortress after tonight. Not that it’ll affect me since I can’t exactly get sick.
+
+More importantly, they woke me up in the middle of my break. If I’m meant to be a weapon, at least let me sleep.
+
+I frown at that thought, unsure of how I feel about calling myself a weapon. But then again, it’s what I’ve become over the past several years. And there’s not much I can do to get out of it. At least not yet.
+
+The sounds of soldiers moving about fill the woods until I finally arrive at the fortress and walk towards the front gate where I show them my identification, making the soldiers stationed there immediately let me inside. Then I move through the base towards my assigned quarters. One of the rooms meant for ability holders.
+
+Every time I pass by a soldier in the hallway, I give them a simple nod in return to their salute, following military protocol. But despite that, I can’t help but feel slightly irritated with it. Because that’s just way too much head nodding for my taste.
+
+I’m also not a very social person. And the military is quite… social. In a way. A strict, military way.
+
+But the main reason I avoid interacting with other people isn’t anything simple like that.
+
+It’s because I don’t want to make friends only to watch them die while I live on perfectly fine.
+
+Better to not make any at all when they’re just gonna be killed right next to me in battle and cause heartache.
+
+Once I reach my room, I close the door, lock it, and collapse onto my bed.
+
+At least this battle didn’t have any enemy ability holders. Because it’s always more annoying to deal with them.
+
+It takes longer for armor burned by a fireball to repair after all, and I like my modesty. And I swear fire magic ability holders are obsessed with fireballs. Something I’ll never understand.
+
+My thoughts pause when a voice comes from the radio on my hip, making me scowl.
+
+“Crimson Blade, do you read me?” a familiar and very much hated voice echoes from it.
+
+I sit up while undoing the holster for my pistol from my waist. Then I grab the radio after putting the holster and pistol on the table next to my bed and press the speak button as I answer, “Crimson Blade here. What is it?”
+
+Lieutenant General Herman answers rather gruffly, “Seers have foretold dark tidings. Be ready for anything at the base and don’t hesitate to throw yourself into the line of fire should it be necessary.”
+
+I don’t bother replying, and the Emperor’s little puppy dog doesn’t expect one as the radio signal cuts out after he finishes speaking.
+
+As annoying as ever.
+
+But… seers, eh? Which means something big is going to go down soon. And he didn’t specify that it would just be here. But everywhere.
+
+I wonder what it is… some sort of major assault by the Arterian army? Considering that it’s winter, I kind of doubt they’ll go on a full assault right now. So what could it be?
+
+After several seconds of staring at the radio trying to figure it out, I eventually just shrug and get up from my bed before walking towards the bathroom attached to my quarters.
+
+I’ll take a shower then head to bed.
+
+The next morning sees me up bright and early, albeit due to no desire of my own. Instead it’s because of the loud rapping on my door along with the shouting man on the other side.
+
+“Wake up warrant officer! A meeting has been called about the assault last night!”
+
+I let out a light groan before proceeding to get out of bed and changing out of my nightgown and back into my gear. And after checking the holster on my pistol along with the several knives I have sheathed around my body, I clip the radio to my pants and walk over to the door.
+
+When I open it, I find Warrant Officer Alexander Greaves standing there waiting for me. A rather common sight as he’s pretty much the only person I know from before it went down and I was forced into the military.
+
+“Ready to go?” he asks, the man’s black hair groomed well enough to tell me that he’s been awake for at least half an hour or so. And his black eyes aren’t hinting at being tired either, which makes me wonder if the guy even fought in last night’s battle.
+
+I lock my door behind me and begin walking down the hall with a short, “Yes.”
+
+We then walk in silence towards the meeting hall, the two of us having been rather awkward when we’re together ever since it happened. Mostly because I’m under contract and can’t tell anyone what happened or that I’m under contract.
+
+Although I suspect he knows that I’m under contract. Probably because I usually tend to be rather blunt and wouldn’t hold something as important as the death of my whole family back from him.
+
+We walk past lower ranking officers and various rank and file soldiers along our way, and all of them salute the both of us without saying a word. Something I appreciate. The whole not talking thing, not the salutes. Because I’m still tired of nodding my head.
+
+Once we reach the meeting hall, Alexander steps in first, followed by myself, and we’re both greeted with a room filled with dozens of ranking officers ranging from warrant officers like myself all the way to the colonel. Which is a bit of a surprise since the base commander doesn’t usually attend meetings with warrant officers like me.
+
+Guess this meeting really is important.
+
+I take my place next to Alexander at the back of the meeting room before we both silently wait until the meeting starts, one of the two lieutenant colonels serving under the base commander, a woman named Amelia Hargrove, stepping up to the front and turning on the projector. And immediately a map of the surrounding area is displayed at the front of the room.
+
+“Last night, nearly four dozen Arterian soldiers made it past our patrols and into the forest before Warrant Officers Crimson and Norbert dealt with them,” the lieutenant colonel starts the meeting out with, drawing a couple gazes towards me at the mention of my family name. A rather famous family for having nothing but Special Class Ability Holders born within it, even if the populace doesn’t know the rest of my family is dead. Except me. The one person who can’t die. “Through our interrogations, we have concluded that the Arterians have a new ability holder stationed at the Northern Pass who is capable of illusion magic. Furthermore, we have obtained word from HQ that the Emperor’s seers have foreseen something that will affect the entire Empire’s future. So be on the lookout for anything out of the ordinary.”
+
+Not long after the lieutenant colonel finishes speaking, questions begin being asked by the gathered officers. Things like what type of vision was it, how would it affect the empire, and how powerful the new ability holder is. And after everything’s asked and answered for me, I don’t need to ask anything myself. Which is always a plus.
+
+In the end it sounds like the seers don’t know anything about the thing they foresaw other than the fact that it’s not good, and that it’ll affect the entire Empire. A rather dark vision if you ask me.
+
+And the new ability holder seems to be a Category Three in terms of combat prowess and military potential. A little bit above the average, which is a Two. Nowhere near the top where I am at. A Five.
+
+Considering how the Category system isn’t perfect or based off of pure offensive power though, I’ll have to keep an eye out for this illusion magic user.
+
+“Last up for this meeting is a word from the base commander,” the lieutenant colonel finishes after answering the last of the questions.
+
+I redirect my attention forward as the colonel walks up to the front of the room with his hands held behind his back. The man is in his mid-forties if I remember correctly, with black hair and brown eyes wearing a black and gray officer uniform like mine, except with a lot more bands on his shoulder and the entire set of armor instead of just part of it. And if I remember correctly, his name was Raiden Hawk.
+
+“Today we will be welcoming a new ability holder to our midst,” the colonel says, making me narrow my eyes slightly as another man walks up next to him. One that looks suspiciously like the colonel. “Pay your greetings to Second Lieutenant Carston Hawk. He is a Category Four Special Class Ability Holder with a logistics focused ability.”
+
+An SC? Don’t see those very often.
+
+Then again, considering that I’m a Special Class myself, I guess I can’t talk much on that. But I’ve only seen a few other SC Ability Holders before. Aside from my family that is.
+
+The colonel speaks a bit more before sending his son – whose rank is higher than my own – down to mingle with us officers as he ends the meeting. And without a moment’s hesitation, I sneak my way out of the meeting room and head down to the cafeteria.
+
+I hope they have some of that well-aged wine. The alcohol doesn’t affect me in the slightest since it’s technically poison, and poisons don’t exactly hurt an immortal, but it tastes extremely good to me regardless.
+
+This coming from someone who doesn’t tend to like eating much, especially since my immortality makes it so I don’t actually have to.
+
+Not really sure how that works though.
+
+Not complaining either.
+
+I smile slightly as I walk down the hall of the base, briefly pondering over how that new SC will do at the base. But in the end I decide that I don’t really care.
+
+Time to see what the cafeteria has for me.
+
+Note: If you are reading this on a website that is not Royal Road or on my Patreon, you are reading a pirated version and that website does not have the permission of the author to host the story. Please instead read the story on Royal Road, here, as it is completely free to read on Royal Road. And the only Amazon Author that I will be posting this story as is the one that I posted all of my other stories through, as Shane Purdy. If this story is found published on Amazon by someone other than me, and you see that the story is not from the following Author page, it was stolen and posted without my permission on Amazon.https://www.amazon.com/stores/Shane-Purdy/author/B09NRTM1J6

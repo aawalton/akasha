@@ -1,0 +1,101 @@
+---
+id: 19787b84-6259-59ea-ab63-eaa10fb7213e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1774 - What Price?"
+slug: 0426-chapter-1774-what-price
+partOf: chrysalis
+position: 426
+ownLength: 1017
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3283555/chapter-1774-what-price"
+royalRoadId: "3283555"
+---
+
+“What do you want?”
+
+Once again leaning on the rails, Merchant wasn’t sure, but she felt as if, just perhaps, the wondrous city wasn’t quite as majestic as it had been the day before. Perhaps the Soul Silver and Heart Gold wasn’t as lustrous as it had been, a quirk of the light maybe.
+
+Or was it just that the city had been conquered already, without her even having to leave her ship. Of course, she hadn’t really earned it, she knew that. Her family had given her an unbeatable hand, all she’d had to do was put the cards on the table.
+
+“I told you I wouldn’t need to negotiate with you,” Merchant said, laughing. “They won’t let you, not for something like this.”
+
+A tightening of Ms Wynn’s expression was all the confirmation that Merchant needed. She clacked her mandibles, a quick, staccato rhythm, chortling to herself.
+
+“The Child Emperor has requested that you visit the court as an esteemed guest,” Georgia Wynn said, withdrawing a gilded, glowing envelope from her pocket.
+
+“There’s no need for that,” Merchant said, holding up a leg. “I won’t accept it.”
+
+“What?” Ms Wynn gasped, aghast. “You cannot refuse the direct invitation of the Child Emperor!”
+
+“Of course I can. I just did.”
+
+International incident be damned, no ant was going to put a single leg down in that city. They knew what they did.
+
+“This will have… consequences,” Georgia said, looking troubled. “I’m not attempting to make threats, but the court does not respond well to slights, even perceived ones.”
+
+“We don’t respond well to having our family members reduced to experience for the court to drink like an aperitif," Merchant shot back.
+
+Georgia blinked, then smiled.
+
+“The veneer of politeness was only skin deep, it appears.”
+
+“Hey, no skin here, only carapace,” Merchant replied, tapping herself on the back, “and it is quite thick, thank you very much.”
+
+“So it is,” Georgia replied with a short bow. She stepped forward and leaned against the railing herself, looking out over the waters toward the city she called home.
+
+She sighed.
+
+“What is it that you want? You have the Atreum Empire in your… Jaws?”
+
+“Mandibles.”
+
+“In your mandibles right now. The Child Emperor’s favourite teacher is on death’s door. Careful application of your miracle potion brought him back from the brink last night, but he needs more, a lot more, if he is to survive.”
+
+“Does that teacher wish to keep living?”
+
+“I… I don’t know. Knowing that old man, I wouldn’t be surprised either way.”
+
+If only her own teacher were willing to take it. Was it wrong… to want more life? More time? Was it wrong not to?
+
+“Since you’ve been so generous, revealing their weakness, then I will reveal mine. I don’t want money, or cores, or precious metals, or favourable deals, or lower taxes, or priority port permissions, or exclusive warehouse rights—”
+
+“It sounds like you very much do want those things,” Georgia grinned.
+
+“Ahem. Well, I want those things, but that isn’t what the family wants, or needs. I am going to take a truly unhealthy amount of money from the Child Emperor, don’t get me wrong, but it’s merely a means to an end.”
+
+“I’m not sure I follow.”
+
+“Right now, the only source of this wondrous medicine is the Colony,” Merchant said.
+
+“But… it doesn’t have to be that way,” Georgia followed on, understanding lighting in her eyes. “You want to charge a price so high that going down there and getting it for themselves is cheaper.”
+
+“Economics and trade are how real diplomacy gets done,” Merchant said wistfully. “Like watching water run downhill, it will take a predictable path, the one with the most profit.”
+
+“You’ve actually… you’ve actually found a way to make it profitable to invade the fifth,” Georgia said, her incredible business mind racing ahead from one step to the next, the future unfolding before her eyes.
+
+She could see, as Merchant did, what would happen next. Word would spread of this miracle substance, a life-extending fluid that could only be found in the fifth. Every kingdom, every city, every Empire, would want it for themselves. First, they would try to buy it. When that failed… what else were they to do? They would try to go and get it for themselves.
+
+While the Colony might have been the ones to start the cleansing of the fifth, they were never going to be able to do the entire job themselves, it would take a hundred years to cover that much ground. Instead, they had found a way to enlist the rest of Pangera to finish the war on their behalf.
+
+“We have already secured an enormous swathswathe of territory down there, provided we manage to hold it, of course,” Merchant said. “None of you will ever know the sacrifice we have endured and the effort we have expended to get this far. The sooner we manage to light a fire under everyone else, the faster they can get down there and relieve my sisters.”
+
+She reached down to her pack once more, removing two objects. One, a core, not overly large and glowing a quiet, comforting blue. The other, a leatherbound folder containing a few dozen pages at most.
+
+“This is a wuffer core. It’s the monster we designed to convert toxic mana to purified mana,” Merchant said, handing it to Georgia, who took it reverentially. “And this, contains a few of our most important schematics. Mana channels, intakes, wuffer platforms for conversion, that sort of thing.”
+
+“You… want me to sell these for you?”
+
+“I do,” Merchant confirmed. “Once they have the appetite for invasion, you can make the sale.”
+
+“And… what would you like me to get for these items?”
+
+Merchant took off her glasses and polished them briefly on her robe before replacing them.
+
+“I think… some tax exemptions, exclusive warehouse rights, preferential docking permissions, and money. Lots and lots of money.”
+
+“Twenty percent commission.”
+
+“Twenty?” Merchant squawked, then relented. “Fine. Twenty it is.”
+
+Georgia rubbed her hands together. This would be profitable indeed.

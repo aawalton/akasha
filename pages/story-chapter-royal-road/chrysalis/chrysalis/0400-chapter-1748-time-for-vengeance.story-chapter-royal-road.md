@@ -1,0 +1,85 @@
+---
+id: a6b88845-b2b8-5b5c-8f8a-8541651448b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1748 - Time for Vengeance"
+slug: 0400-chapter-1748-time-for-vengeance
+partOf: chrysalis
+position: 400
+ownLength: 1032
+unit: words
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3117642/chapter-1748-time-for-vengeance"
+royalRoadId: "3117642"
+---
+
+After seeing off that creepy Priest and neatly avoiding Beyn, I slip out of the nest and down into the depths with Tiny, Invidia and Crinis. After settling the issue of the mountain, it’s time for us to go and do Solant a favour. The fifth is calling and there are some slugs I can’t wait to catch up with.
+
+Gweheheheheh.
+
+Seriously though. If we can make a difference in this conflict and tip it firmly into the Colony’s favour, then that will hopefully free up some resources. Right now, pretty much the entire military output of the Colony is being poured into this invasion. All of the new graduates from the Antcademy, all the metal, the armour, the weapons, the Biomass, the cores, the engineers, the construction crews, the healers, the core shapers, everything.
+
+Building the first fortress was such a vast undertaking, but I know for a fact that Solant intends to build one for each heart the Colony managed to locate. I can scarcely imagine the sheer quantity of resources required to pull off such a thing. If one were to pay for it all at market rates, you could probably afford to buy the Silver City for a similar amount!
+
+I knew it was going to be hard to conquer the fifth and that we would need to sacrifice, but this is getting right out of hand.
+
+If I get in there and kick some backside, hopefully it will relieve the burden on the rest of the Colony, at least a little.
+
+[No, Crinis. For the last time, you can’t come with me out of the safe zones.]
+
+[But Master!] she protests… again. [How will we know you are safe? I can hide inside your carapace. You won’t even know I’m there.]
+
+Unlikely. I’ve gotten better at spotting when she tries to sneak inside my body, and it’s frankly shocking how often she tries it.
+
+[We’ve been over this. The mana is toxic. The mana. It goes inside my body when I’m out there. Remember? Considering you are more vulnerable to that mana than the rest of us, it decidedly isn’t safe for you to hide in there.]
+
+Unable to refute my flawless logic, Crinis is reduced to sulking as she clings to my back while we run down to the fifth. Solant has had them build all sorts of fancy, quick mechanisms and roads to move from the nest to the staging area… but I don’t fit in most of them, sadly. Not a big deal, it just means it takes us a little longer to get down there.
+
+I only have to tell Crinis to withdraw from my carapace twice during the trip. Progress!
+
+When we get down there, the sheer scale of what Solant has been doing strikes me right in the face like a rocket-propelled baseball bat.
+
+I thought the staging area was absurdly huge before, but it’s grown to three or four times the previous size. Huge warehouses, enormous training grounds, entire fields of workshops and foundries. Barracks are stacked on barracks which are stacked on storage which lives on top of a hospital. It’s as if the entire section of Dungeon around the entrance to the fifth has been transformed for kilometres in every direction. No wall is left untouched, everything has been carved out and filled with some sort of functional space. The open areas are likewise transformed into an almost obsessively organised grid of production.
+
+And the movement! The entrance to the fifth appears as a vacuum nozzle, sucking in everything I see at a furious, almost dizzying pace. Only then does it really hit home that Sloan and Victor really weren’t exaggerating. Everything is going down there.
+
+My gob is fully smacked.
+
+There’s so much going on that I almost don’t see the three Legionaries waiting for me with their arms crossed. Sadly, I still do. Even more sadly, they see me before I manage to slink off.
+
+Dammit! I knew upgraded Stealth wasn’t going to do squat anymore.
+
+Morrelia shoots me an apologetic shrug as the three begin to march in my direction. At their lead, the Commander, Chyron, looks positively thunderous.
+
+Why?! It’s not as if I tried to sneak off—oh that’s sort of what I did, actually. I’m supposed to let them know where I go so they can tag along, my disapproving, monster-hating shadows.
+
+Well, Morrelia is fine.
+
+[I forgot, alright? Sheesh,] is my brilliant defence after connecting the mind bridge.
+
+Chyron glares at me, which is a lot less intimidating than she thinks it is. I find it increasingly hard to take people seriously now that they’re so fun sized.
+
+No. I mustn’t try and tickle.
+
+[You’re going back into the fifth?] she asks me, rather directly.
+
+[Uh, yes? I’m only up here because of the threat posed by Green Mountain. Now that’s been resolved, I need to get down there and help with the invasion.]
+
+[Resolved? I suppose that’s one way of putting it.]
+
+[Are they going to keep trying to abduct my family members? No? Sounds resolved to me.]
+
+Hah. Not even Chyron can argue with that.
+
+[And I suppose the Call doesn’t have anything to do with how eager you are to descend?] she asks pointedly.
+
+[Gah! Don’t remind me about it!]
+
+I’ve been doing a good job of ignoring it, but one mention is all it takes to bring the hook latched into my soul back into sharp focus. It’s been agonizing to remain in the fourth, and now that I’m this close to the fifth, it feels as if someone is actively yanking on the chain. Knowing there’s a tunnel not far away that will make the pain go away is a powerful motivator.
+
+[It isn’t a non-factor,] I admit. [It hurts like heck.]
+
+[And if you manage to get through the fifth?] Chyron presses me. [What then? You go onto the sixth and conquer that for your family?]
+
+[I mean… I wouldn’t mind seeing it. Most people of Pangera have no idea what’s down there. I’m curious. Wouldn’t you be curious?]
+
+She just stares at me. I think she knows I want to conquer it for my family.

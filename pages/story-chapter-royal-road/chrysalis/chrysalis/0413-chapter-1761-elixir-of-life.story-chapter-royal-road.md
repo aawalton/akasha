@@ -1,0 +1,79 @@
+---
+id: 2198ed5d-e10f-5a43-8366-5a8c58fe32af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1761 - Elixir of Life"
+slug: 0413-chapter-1761-elixir-of-life
+partOf: chrysalis
+position: 413
+ownLength: 901
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3212560/chapter-1761-elixir-of-life"
+royalRoadId: "3212560"
+---
+
+Happily waggling her antennae through the air, Merchant moved from table to table, carefully examining the contents of each. She had several tools with her to aid in her efforts. A multi-faceted looking glass that she used to examine jewelry, an interesting enchanted device that measured lustre and shine along with a host of others that Enid had insisted were an integral part of a merchant’s toolkit. With Skills and mana, the capacity of frauds to create elaborate, almost impossible fakes was nothing short of incredible. When making trades, the prudent merchant was required to become a peerless investigator, and Merchant, with the benefit of her teacher, her tools and her mutations, had grown very skilled indeed.
+
+With ease, she checked weight, density, iridescence, consistency, malleability, structural integrity and a dozen mana-related measurements, puttering from one object to the next while taking meticulous notes on each. However, she was quickly running into issues that she had not anticipated.
+
+Although young, she had handled a huge variety of precious materials from the Dungeon, from the mundane to the deeply magical. Yet she had never come across anything quite like these materials.
+
+In terms of rigidity, the metals were… quite poor. Spongy, even. Rather than metals, they appeared to be more like… muscles, fleshy fibres bound together tightly. In fact, they were even rather damp, almost like a sponge. When she poked and prodded them with her tools, the liquid was pushed out, pooling on the plate, only to be reabsorbed when the pressure was released.
+
+Visually, they weren’t all that pleasing either. Many of the highest profit point items to come out of the Dungeon were lustrous metals and gems, after all, and she had hoped to find something along those lines. Never-before-seen, extremely limited shiny metal would have been a sure-fire hit and pulled in absurd levels of profit. Instead, these fleshy metals were… well… ugly.
+
+Interestingly, they were quite promising in terms of properties. Strong, extremely strong, the individual fibres were capable of bearing extraordinary amounts of weight before they snapped. Chatting with the carvers who had been testing the metals, she discovered they had multiple times the tensile strength of the Colony’s finest steel. Which sounded great! But they were extremely difficult to work with and required a steady flow of the strange fluid to maintain their performance.
+
+Clearly, more investigation was required.
+
+Moving to the next table, she finally saw something glittering and her eyes lit up. Sparkles! Finally, sparkles! Pressing her face up to the glass dome that covered the porcelain plate sitting on the table, Merchant took a good look at the item underneath.
+
+It was a gem, thank the Eldest. Red as blood, dark as wine, the light played off it beautifully, shining so bright on the edges it was as if she was staring into a light globe. Mandibles quivering with excitement, she produced her tools and began measuring the luminosity of the gem, capturing the refracted light, studying the facets contained inside with a keen, eager eye.
+
+It was stunning.
+
+“Can I touch it?” she asked eagerly.
+
+“You can,” a nearby carver said.
+
+“Excellent!”
+
+“If you want to die.”
+
+“So… that would be a ‘no’, then.”
+
+“Ah. Yes. Come to think of it, we should keep this away from the Immortals until it’s purified.”
+
+“Purified?”
+
+“Yes. We believe this object held a concentration of mana that was cleansed when it was submerged in purified energy. However, there is still a core of contamination that permeates the gem. It’s an interesting object to study, since it seems resistant to allowing mana to penetrate all the way to its centre.”
+
+“And… how long until it is safe to handle?”
+
+And sell!
+
+“Right now I couldn’t say,” the carver said, shrugging her antennae. “We don’t know how to remove the contamination since we can’t cleanse it all the way through.”
+
+Another dead end. Dejected, Merchant passed over the incredible gem and moved to the next table. At first, it didn’t seem promising, a dish sitting atop the plate, again contained under a dome. Within the dish was a small quantity, perhaps a tenth of a litre, of a swirling, vibrant red fluid.
+
+“What is this?” she said to the nearby researcher, not bothering to examine it herself first.
+
+“This? As far as we can tell, it’s a liquid that has no effect on monsters.”
+
+“That’s… not very descriptive.”
+
+“Well, we haven’t been able to test it on non-monsters yet,” the carver replied defensively. “We can’t just go throwing strange liquids on people without asking first.”
+
+“Do you have any guesses as to what it might do?” Merchant asked, beginning to despair.
+
+“We’ve conducted some initial testing on organic material. As far as we can tell, it seems to remove the defects in tissue that arise as a result of the ageing process. Quite interesting.”
+
+Merchant stood. Merchant stared. Merchant clacked her mandibles slowly.
+
+“It corrects… ageing?” she sought clarification.
+
+“In a sense. Monsters don’t experience these errors, so the fluid does nothing to us. So far, our limited experiments show the fluid removing defects and then creating new material to replace them. It seems quite versatile. We’ve seen it turn into bone, muscle, even teeth.”
+
+Merchant nodded as she reached into her pouch and withdrew a match. Striking it against her carapace, she lit her cigar and took a long, contemplative puff.
+
+“Holy moly,” she said.

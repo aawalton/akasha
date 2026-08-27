@@ -1,0 +1,71 @@
+---
+id: 11643582-7ae2-52e9-a0c8-0a54d5891327
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1768 - Titans Fight Briefly"
+slug: 0420-chapter-1768-titans-fight-briefly
+partOf: chrysalis
+position: 420
+ownLength: 1138
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3250228/chapter-1768-titans-fight-briefly"
+royalRoadId: "3250228"
+---
+
+It’s not easy to fight against other large monsters. The more I’ve engaged in these types of battles, the more I’ve noticed how much more awkward it feels. For starters, we’re so massively mutated and have such weird, esoteric organs that just about anything can happen at any moment. Absurdly high damage output? Yep. Insane durability and healing? Of course! Inexplicable mobility? Why not!
+
+Which leads these confrontations to go one of two ways. Either we clash sharply and violently, one overwhelming the other and bringing about a swift resolution to the combat, or it's a tense, drawn out stalemate, where neither side is keen to make the first move.
+
+I’ve come to enjoy both sides of this particular activity. A short, sharp fight saves time and lets us all get on with our day, while an extended chess-match really gets the brains firing and the heart pounding.
+
+In this instance, I take one look at my opponent and decide I would really like to not be looking at it anymore.
+
+If the contents of a blocked nose could come alive in the form of a monster, this would be it. Clear in some places, streaked with yellow and green in others, I can’t tell if it’s meant to be a slug, a slime, or just a wobbling pile of mucus.
+
+Either way, I don’t want to engage in a battle of wits with this thing, I just want it gone. Long-form battles might be my speciality, but against a monster this hideous, I’m willing to take some risks. Besides, who knows what the heck it’ll do to me if I give it enough time? The air around the thing is positively alive with corruption and sickness, and if I look closely, the monster’s body is riddled with parasites.
+
+Nope. Not liking this one bit.
+
+Although it doesn’t move all that quickly, I wouldn’t call my opponent slow. It sort of tumbles over itself, not exactly rolling, but almost like a wave that builds, rising up, then sloshing forward only to start building again. There are two long stalks with eyes atop them that peer up out of the goop every now and again, staring hard at me as it draws closer.
+
+Taking a careful reading of its core, it seems like this creature is a tier seven, but a fairly strong one. If it hasn’t pushed its core to the limit of the tier, then it's gone awfully close.
+
+I wonder if this is the local territorial boss that the Krath have lured over, or something that they’ve engineered? Either way, it’s going to have to be dealt with.
+
+Opening my mandibles wide, I unleash a gravity bomb, letting the spell howl into existence as it streaks down the tunnel. Empowered by the Altar, I’m hoping it’ll be enough to dispatch my opponent before it gets too close. To my surprise, the monster doesn’t seem all that bothered by the spell, instead it draws in on itself, almost as if inhaling, before it lunges forward and hurls out a dense ball of noxious ooze.
+
+Hey! You can’t do that! Ending fights with a dense ball of specialised mana is supposed to be my thing.
+
+When the two, well I suppose the technical term is Doom Spheres, meet, the resultant meeting of black hole and snot is predictably messy. With the atmosphere, wet with mucus and corruption working against it, my bomb isn’t able to push through and hit my opponent directly. When the dust fades, it’s gained quite a bit of ground, advancing in a determined fashion.
+
+Whatever the reason, this monster really wants to throw down here and now, not even my higher tier is going to dissuade it.
+
+Now that it’s closer, I can sense the swelling power inside its form, another ball of goop being prepared, either to launch immediately, or as a defensive measure. Man, I really didn’t want to get close to this thing….
+
+Tensing my legs, I lower my body, then Dash, empowering the action with the Altar. The force exerted from my body is enough to make my muscles and tendons scream and my antennae smack into my carapace as I accelerate absurdly fast for something my size. Crystal eyes deal with the sudden air pressure so much better than my old fleshy ones, and I can still see when I reach my target, right in front of the creature.
+
+It reacts swiftly, rising up almost as if it wants to enfold me in itself. From within the mound, a mouth begins to emerge, acrid vapour so strong it starts to eat into my carapace belching forth.
+
+None of that!
+
+Lunging forward, my mandibles slam shut, digging into the monster's gooey flesh. Immediately, they start to burn from an absurdly powerful acidic effect while the thousands of bugs that live within the beast try to get hold of me.
+
+Wanting to end the battle as soon as possible, I deploy my secret weapon: mana injection.
+
+My minds thrum as I start to pump the monster full of hyper-dense gravitational mana, a torrent of energy straight out of the gland and dumped inside the creature’s body.
+
+It can feel what I’m doing the moment I start, but its momentum is already moving forward, making it so much harder to try and pull back. With every fraction of a second that passes, energy thunders through my mandibles and into my opponent before my minds set to work on it.
+
+Because it isn’t easy trying to manipulate the energy inside another creature. In fact, it’s downright impossible. For whatever reason, the mana contained inside another being is basically off-limits. It’s owned.
+
+Unless, of course, it’s owned by me.
+
+When it’s my mana, I can still manipulate it, although it's still difficult, and the effect doesn’t last long. Thankfully, with enough preparation, I don’t need all that much time.
+
+Once I judge the mana has reached the critical level, I flex the power of my many mind constructs and crush it down, squeezing it until it collapses in on itself.
+
+In just a few seconds, a gravity bomb is formed! Not a large one, not by a long shot. In fact, I couldn’t even tell you how long it’d been since I created one this small.
+
+However, it doesn’t really matter in the long run. With a gravity bomb forming inside its body, there’s very little the monster can do to defend itself. I leap away, tearing my mandibles free as the monster roils and shrieks silently, but to no avail. Soon, it collapses and oozes out all over the floor of the tunnel, the plethora of parasites abandoning ship and vanishing into the sticky mess that surrounds them.
+
+I set fire to my mandibles to try and burn the goop off them. Yuck.

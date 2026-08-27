@@ -1,0 +1,91 @@
+---
+id: 92de3be4-416c-5240-9829-16e0418786b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1817 - Air Ways"
+slug: 0471-chapter-1817-air-ways
+partOf: chrysalis
+position: 471
+ownLength: 1172
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3550133/chapter-1817-air-ways"
+royalRoadId: "3550133"
+---
+
+Solant looked down into the tunnel below and struggled to conceal her disgust. Normally, she had no problem maintaining her disposition, even when confronted with the worst the fifth had to offer, but these... 'lungs', as the Eldest described them, were foul beyond description.
+
+Pulsating, oozing, clotted and rotting, somehow all at the same time, they were also absolutely clogged with a thick layer of mucus that only seemed to grow and drip down into the lower passages with every passing second. As promised, the density and velocity of mana through these passages was absolutely stunning, just as the Eldest had reported.
+
+"Well, that's quite something," Leonidant muttered to herself. "What on Pangera am I looking at?"
+
+"You don't know? Well, I suppose I shouldn't be surprised," another voice chimed in brightly. "Not everyone can be BRILLIANT, after all!"
+
+Leonidant snipped her mandibles in irritation at being addressed in this manner, but Solant soothed her with a twitch of one leg.
+
+"Would you care to explain it for us?" Solant said, turning to her fellow Champion, the extremely intelligent but somewhat grating Brilliant. "How does this work?"
+
+"Like lungs," Brilliant shrugged her antennae. "The Eldest described it perfectly."
+
+Solant took a moment to ensure she maintained her patience. The disgusting display below was rattling her more than she cared to admit. Or perhaps it wasn't so much the appearance of the tunnel but the sounds that emitted from it. So much squelching surely wasn't natural, even for the fifth.
+
+"I do not have lungs," Solant pointed out, "nor do I understand how they work. This is why I have asked you to come here, so that you might explain it to us."
+
+Brilliant tsked before she began to pace, her middle legs bent behind her back where her claws could clasp each other. It was such an odd thing to do that Solant found it difficult to focus on what she was actually saying.
+
+"For the most part, living creatures require oxygen to live. This is true of humans, golgari, ka'armodo and all other regular, living creatures on the surface. This was proven by the Magio-Scholars well over eight hundred years ago in an interesting experiment that analysed-"
+
+"We are limited on time," Solant pointed out.
+
+"There is always time for learning!"
+
+"No, there isn't."
+
+Brilliant huffed.
+
+"Fine. Well, they need oxygen. Good news, there is oxygen all over the place in the air. Bad news, they need it in their blood, which has to remain clean in order for them to, you know, live. So they can't just throw blood around in the air, instead, they developed a neat solution involving mouths and all sorts of other bits and pieces. The main one being the lungs. Made of gooey, fleshy little sacs, much like that chamber just below us, they fill up with air when a breath is taken, and then the oxygen is slipped into the blood which flows through very small vessels in the walls of the sacs."
+
+Brilliant pointed downward.
+
+"In this metaphor, the oxygen is mana and blood is mucus. Down there, huge amounts of toxic mana flood into the system of connected chambers and tunnels before being soaked into the walls, converted into a highly concentrated form, and shipped out by the vessels. We already know where that mana comes from. Multiple hearts are connected to this location, forcing that mana to circulate through here."
+
+The mad ant turned, clacking her mandibles derisively.
+
+"It's a silly way to sustain life. Insects on the surface don't use blood but a system of air pipes to deliver oxygen throughout their bodies. No need for lungs or any other such silliness."
+
+Solant paused.
+
+"Then why don't we have such a system? Last time I checked, we didn't need air to survive."
+
+"Oh, well," Brilliant said, "without access to the heart to help move the oxygen around, the insect system can't shift the oxygen all that far, so it doesn't really work in larger lifeforms. For an insect monster, like us, we rely on mana rather than oxygen to fuel our bodies, removing the size limitation. I was doing some calculations actually, trying to work out if we could become more mana-efficient if we were able to introduce some sort of respiratory system during an evolution. Right now, the larger we get, the more mana we need just to sustain our bodies. It's a lot more than you think it is."
+
+"So the Eldest..."
+
+"Needs a boatload of mana just to move."
+
+"Do they... know that?"
+
+"I doubt it."
+
+Solant sighed. That was a problem for another time. She wondered if Brilliant was being deliberately unhelpful, but quickly dismissed the idea. Brilliant wouldn't miss an opportunity to make herself look clever, she simply didn't realise when she'd figured out something that nobody else in the Colony had. This knowledge about the mana dependence of ant monsters might be nothing to her, but it could be massive to the development of the Colony. She made a mental note to look into it in future.
+
+"So what can you tell us about this... mess... below."
+
+It really was hideous.
+
+"There's two ways to tackle the problem," Brilliant said, resuming her pacing with two legs clasped behind her back. "You can either dump cleansed mana into the lung network, hoping that it will flush through the system and then export the new energy via the vessels. That could create a positive feedback loop where the cleansed mana filters into the hearts, fixes them and then flows back here to the lungs, completing the cycle."
+
+"I presume there's a risk?"
+
+"There's always a risk! Not of explosions though, sadly. You could export clean mana, but it doesn't fix the hearts, just gets converted back to corrupted energy, and then filters into the lungs again, undoing the work you've done. Alternatively, you could attack the hearts, clean those out, and therefore provide the lungs with nice, healthy mana and hope that it will fix the system over time. Of course..."
+
+"The same risk applies except in reverse," Solant sighed. "The lungs might corrupt that mana and then feed it back into the hearts, undoing our work. What's the solution?"
+
+"Well...." Brilliant mused. "The solution is rather simple when you think about it. If doing one isn't going to get the job done, then you have to do both. Clean the hearts and lungs, at the same time. Clean energy flowing into clean energy, the harmonious loop will be established no matter what."
+
+"That's your solution?" Solant said. "We would need an unfathomable amount of liquid mana to achieve that result. These lungs are the most energy-dense part of the fifth we've ever found, and the system is huge. At the same time, we have to cleanse four hearts? That would take-"
+
+"That would take every drop of liquid mana you have stored in the entire fifth stratum," Brilliant said, smugly.
+
+"You've calculated how much we have in storage? Exactly?"
+
+"Of course I have! I'm BRILLIANT!"

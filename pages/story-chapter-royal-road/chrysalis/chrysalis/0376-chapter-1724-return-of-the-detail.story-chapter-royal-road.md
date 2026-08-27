@@ -1,0 +1,93 @@
+---
+id: 197b29a4-55ed-54ff-a98a-2857a8f6bbf8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1724 - Return of the Detail"
+slug: 0376-chapter-1724-return-of-the-detail
+partOf: chrysalis
+position: 376
+ownLength: 977
+unit: words
+ownProgress: 977
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2993011/chapter-1724-return-of-the-detail"
+royalRoadId: "2993011"
+markedReadAt: "2026-06-29T19:55:50.040Z"
+---
+
+I’m not overly eager to become further acquainted with these pests trying to capture my siblings, but an emphatic message needs to be sent, and I am just the ant to send it.
+
+Besides, I can’t go down to the fifth and deliver sweet, sweet vengeance to the Krath until I’ve finished matters up here. As much fun as I’ve had squashing delvers into the ground and laughing at them, they aren’t exactly the biggest fish my family is dealing with right now. That title is reserved for the slug tribes of the fifth stratum.
+
+And so, the time has arrived to sally forth and put an end to this sorry affair once and for all. At least… it would be.
+
+[Why in the name of heck would I bring you lot with me?]
+
+[You don’t have a choice, unless you want to breach the agreement made by your sibling, Solant,] Chyron tells me.
+
+Ugghhhh. Lousy Solant. Making her lousy agreements.
+
+[W-what do you even hope to achieve out there? Stop my plan? Tip off Green Mountain and get me killed? I have to warn you, trying something like that will make a whole lot of people go down with me.]
+
+Chyron gives me her characteristic scowl while Morrelia and whatshisname look on from behind her. Once they heard I was looking to head back out, they tracked me down depressingly quickly.
+
+[We are to observe you,] Chyron stated.
+
+With her full legion armour on, she’s an intimidating individual, or at least, she would be if I didn’t tower over her to a comical degree. I shoot a secretive glance toward Morrelia, but she only gives me a hint of a shrug.
+
+[We will be travelling with literal battalions of ants and Colony loyalists,] she says, speaking in her official capacity as a Legion officer. [It’s unlikely we will be able to do anything to you at all. Even if we wanted to.]
+
+That’s true enough. However, I can’t shake the feeling they’re after something else entirely.
+
+[Isn’t it a massive waste of time to have a Legion commander and her two highest ranking officers follow me around? I thought we were in the middle of a global crisis or something.]
+
+Chyron folds her arms, looking even more grouchy than usual.
+
+[Part of that emerging global crisis is the existence of your family, and the existence of a giant ant monster who is experiencing the Call. Keeping an eye on the situation is the least we should do.]
+
+[Us? We’ve been nothing but helpful,] I scoff.
+
+I will conveniently not think of some occasions where the Colony, or I, have been somewhat less than helpful. Judging by her face, the commander is equally as aware of those occasions as I am. Even so, she’s hardly being fair. The Colony has done a heck of a lot of helpful stuff! Not for the Legion, though.
+
+[Fine, you can tag along, just try not to be too annoying or scheme to bring about my death. Alright?]
+
+[No promises,] Chyron says, then turns her back to coordinate with her officers.
+
+Sheesh. There’s no helping some people. Well, at least that’s the only group I need to worry about following me around. Time to get out of here.
+
+“Uh, Eldest? Is this a good moment?”
+
+Wha? Who the heck?! I swing my antennae about, wondering who on Pangera is talking to me. A moment later I recognise the scent and realise my antennae are completely useless in this instance.
+
+“Protectant? Where the heck have you been?”
+
+Not going to lie, I haven’t missed my protection detail. Usually I end up just worrying about them since they are much weaker than I am. What are they supposed to do to help me against the things that I find dangerous? Making sure they aren’t in harm's way has just become another chore for me, but I suppose it helps keep the rest of the Colony happy knowing that there’s someone out there watching me.
+
+“Just like you, we had to evolve in order to survive our exposure to the toxin of Theorazzn. It was a long process to evolve, and it’s taken us some time to adjust to our new forms.”
+
+Ah, right. They did actually save my life by taking on some of the toxin. Maybe I shouldn’t look down on them as much anymore.
+
+“So you guys are tier seven now? Good stuff. What sort of evolution did you end up going with? Wait, did you get purified like I did?”
+
+Hopefully they didn’t get stuck with some gross, slimy, toxic evolution. I’d feel terrible if that happened because of me.
+
+“We were cleansed shortly after you were,” Protectant assures me. “Of course, the contamination still had an effect on our evolution, as I’m sure it did to yours.”
+
+“Turned out to be pretty helpful, to tell you the truth. Well, why don’t you pop out so I can have a look at you?”
+
+There’s a moment of hesitation.
+
+“I would… rather not. I’ve only made contact so that you are aware we are back and ready to fulfil our purpose again.”
+
+“That doesn’t mean I can’t take a look at you, does it? Unless… wait. You took one of those super weird evolutions, didn’t you?”
+
+“We took an evolution that suits our purpose,” Protectant replies defensively. “We are very happy with it.”
+
+Holy moly. Have they become a formless entity, or some sort of weird… collective brain thing? I’ve been offered some really odd evolutions in my time, goodness knows what they ended up with.
+
+“I’m guessing it helps keep you hidden?”
+
+“... Sort of.”
+
+These answers are too cryptic for my liking. I’m starting to think I don’t even want to see what they’ve become.
+
+“Alright, I’ll leave you be for now. Welcome back to you and the gang.”

@@ -1,0 +1,77 @@
+---
+id: 4f619318-10ed-5f3d-9145-65006b53e0c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1737 - Things Took Quite the Turn For the Worse"
+slug: 0389-chapter-1737-things-took-quite-the-turn-for-the-worse
+partOf: chrysalis
+position: 389
+ownLength: 915
+unit: words
+ownProgress: 915
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3066337/chapter-1737-things-took-quite-the-turn-for-the"
+royalRoadId: "3066337"
+markedReadAt: "2026-06-29T19:56:14.702Z"
+---
+
+Fatigue was beginning to seep into the War Bishop’s bones as his mace seemed to gain weight by the second, adding to the throbbing pain in his wrist. Under normal circumstances, he could fight for a day without rest, but sticking close to the monster had necessitated that he be within its cursed Domain spell. Resisting its effect had taxed him considerably, and his ability to continue holding it off was declining at a rapid pace.
+
+Sweat dripped down his face as he continued to fight, unaware of the snarl on his face or the hatred burning in his eyes. All that mattered was that they bring this damned monster down.
+
+Troops from Green Mountain continued to rain hell down on the beast, spells and arrows constantly spearing into it with obscene force, sending shards of diamond carapace spinning into the air. Off balance, the monster spun, dancing on the spot as it parried and dodged with preternatural speed before it hunkered low for a half second.
+
+Acting on instinct, Graham lunged to the side as light burst from the beast and it charged once more, disrupting their formation, knocking aside the soldiers who had attempted to lock it down, and forcing them to begin again. At least it hadn’t gone far this time and he was able to catch up with only a single Dash.
+
+Which plunged him back within the Domain once more.
+
+Though his muscles screamed in protest, Graham did not relent and continued to feed the fire within, burning his own vital energy to maintain his strength. There had to be a sign of weakness from this thing, there had to be!
+
+They’d been fighting for so long! He’d lost count of the number of times they had cracked and damaged its absurdly tough carapace, they’d even made it bleed!
+
+Yet, no matter how he looked, there were no significant wounds on the monster at all. Regardless of how they damaged it, how much punishment they heaped upon it, that rapid regeneration never seemed to cease. Cracks began to seal the moment they were opened, chunks cut away regrew in a matter of minutes. Any time they managed to break through and injure the soft flesh beneath, it seemed to heal even faster!
+
+Even worse, no matter how the monster fought, how it used its Skills and abilities, or how much mana it expended, it never seemed to run out. Despite all they had done, it was acting exactly the same now as it had when the fight had started, while the Judgement Battalion grew increasingly exhausted.
+
+It was clear now what the monster had wanted all along: it had never intended to fight them, only to weaken them.
+
+When the ant’s supporters screamed their battle cry and charged, Graham knew that things had taken a turn for the worse. When the Ape monster roared and revealed itself, he began to worry. When his own shadow erupted with tentacles that sought to drive themselves into his skull, he began to fear.
+
+“Concentrate on the ant!” he roared. “We must bring it down!”
+
+It was inconceivable that they should fail here. They were the hand of Judgement, the gavel of the Church and the arbiters of the light. Who would dare to walk the Path if they had no faith in its defenders? Not once had Graham failed to hunt his target, and he wasn’t about to start now.
+
+“Curse Magic! Watch out!” someone called.
+
+“Suppress it!” Graham ordered. “Feed the flames!”
+
+Hefting his mace, he concentrated internally for a brief moment, following his own orders as he fed more and more of his own vitality to the communal fire of the Battalion. Others did the same, pouring out what remained of their strength to fuel their brethren.
+
+Strength surged through Graham and he held his mace aloft.
+
+“Unleash the Sword of Judgement!”
+
+So saying, he launched himself towards the ant. As long as they kept it still for a moment, it would be enough. No matter how tough, no matter how much it was able to endure, there had to be a limit, and Graham would find it, no matter the cost.
+
+Roaring, he brought the mace down, light exploding from the weapon and swinging in a wide arc. As always, the ant reacted before he had even begun to swing, bringing its mandibles about and knocking his blow aside. It didn’t matter, hundreds of others were doing the same thing, raining down strikes upon its carapace and legs even as their life force was drained out of them.
+
+Light Shapers took hold of that energy and wove it, forming the enormous blade of blinding radiance directly over the head of the ant.
+
+It knew what was coming, Graham was certain of it. How it knew didn’t matter, only that it did.
+
+“Go for the legs! Don’t let it move!” he bellowed.
+
+Hundreds answered his call, striking at the beast’s six legs, desperate to keep it still.
+
+For once, the ant did not bother to dodge, didn’t leap, Dash or sidestep. Diamond shattered, ichor sprayed and muscle parted as the Judgement Battalion unleashed a torrent of blows.
+
+Instead, the ant leaned back, raised its head towards the nearly complete blade twice the size of its own body that hung overhead, and opened its mandibles wide.
+
+What came next, Graham could never fully hope to explain.
+
+There was light.
+
+Then there was darkness.
+
+Then there was silence.
+
+And then all became fire.

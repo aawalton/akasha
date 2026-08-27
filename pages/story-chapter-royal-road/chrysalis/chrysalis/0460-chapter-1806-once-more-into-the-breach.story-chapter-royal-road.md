@@ -1,0 +1,63 @@
+---
+id: bf50b4c3-9566-5a13-832c-f7d80c37462a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1806 - Once More Into the Breach"
+slug: 0460-chapter-1806-once-more-into-the-breach
+partOf: chrysalis
+position: 460
+ownLength: 1044
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3481012/chapter-1806-once-more-into-the-breach"
+royalRoadId: "3481012"
+---
+
+The digging teams are moving, and so must I.
+
+"We're aiming to prime the pumps in six hours," Tungstant informs me. "There are holding tanks that will fill first, but then it'll all start to flow into the shafts we've dug. You'll need to make sure you have a way out by then."
+
+"What about the digging teams?" I ask, confused.
+
+"They'll be well clear by then. We're counting on the acidic properties of the mucus to do the final bit of digging for us."
+
+"Has the mucus level started to dip yet? I was sort of hoping that it might have by now."
+
+Tungstant laughs, her mandibles clacking together in that short, sharp staccato rhythm we all use to express our amusement.
+
+"I don't know exactly what you did down there, Eldest, but you certainly gummed up the works. Right now, the level is still rising, but very slowly. I think that without our intervention, the lower tunnels might remain clogged for weeks, maybe months. It doesn't help that the mucus is so thick, which makes it flow incredibly slowly without a huge amount of pressure pushing from behind. That's why we need the holding tanks, by the way. Once the pumping mechanisms start up, we have to ensure a steady flow, otherwise they'll break down."
+
+"I... I'm not really all that interested in how the pumping system works, Tungstant. Also, I don't really need to know. Do I?"
+
+The Council member representing the carver caste looks a little crestfallen.
+
+"I suppose not. They really are wonderful contraptions, though. A great piece of ant engineering."
+
+"I mean, sure. Did you come up with them?"
+
+"No. It was Antimedes. Very clever carver, came up with quite a few neat devices."
+
+Antimedes? Sure, why not. I say my farewells to Tungstant and then to my beloved comrades. Crinis tries to sneak along inside my carapace, forcing me to eventually order her out before I can finally leave. With the lower tunnels still flooded and full of deadly mucus, the best way to get access to the depth is through the vertical shafts that the carvers are excavating. Waving farewell, I head down into the tunnels, admiring the scale as I head in. In order to move a sufficient volume of mucus, they need to be large, so the Colony has gone all in and made them fifty metres across.
+
+Which means I fit inside very comfortably, even if it's still a bit difficult for me to cling to a wall and walk down a vertical surface. I think the golgari must have done some work on my claws and legs during my evolution, something I always mean to do, but forget every time. Without those adjustments, bearing my enormous weight would be impossible without gravity manipulation. My new legs being somewhat unaffected by the pull of gravity on my frame certainly helps.
+
+When I reach the current end of the tunnel, I find the various digging teams hard at work. For a brief moment, I allow myself to feel the bliss that suffuses them as they engage in the perfect zen of digging, doing what all ants were truly created to do.
+
+Of course, they make my own attempts to shift dirt look completely amateurish. When the Colony chooses to specialise in something, they really go hard in trying to figure out how to do it best. These ants are true experts in the art of digging, able to shear through tons and tons of rock, dirt, weird fleshy goop and whatever else attempts to endure the wrath of their face-hands.
+
+For me, the path is straightforward. These ants have to dig a stable and wide shaft, but I don't. Flexing my jaws, I start tunneling and pushing myself forward, clearing a space just wide enough for me to squeeze into. Even so, I don't outpace the teams by much, but thankfully I don't need to. Barely ten minutes into my digging, I break into a pre-existing tunnel, which is blessedly free of goop. Dropping down into the space, I manage to turn and land on my legs, which creak ominously as I slam down.
+
+"Careful up there! This tunnel is contaminated!"
+
+"We know how it works, Eldest. Get to work!"
+
+Sheesh. No gratitude. I was only worried about their safety. They are correct, though. These teams have breached dozens of tunnels already on their way down, they know exactly what to do. They'll seal off the breach, ensure there is sufficient cleansed mana accumulated, then let it pour down ahead of them. In a matter of minutes, they'll create a shell, preventing the flow of toxic mana into their workplace and creating temporary walls before they establish the shaft proper.
+
+For me, I'm not part of that process. Once I hit the ground, I'm off and running. The tunnel is a main artery, a kilometre wide and almost a hundred metres tall, and it is active. Filled with monsters, contamination and slime, it's everything I've come to hate about this place. Thankfully, I don't really need to engage with it. Monsters start lashing against my carapace and parasites nibble at me constantly, trying to find a way in. All it serves to accomplish is start the runaway train that is the regeneration network. Icy regeneration fluid begins to flow through my frame as I take off running, leaving chaos in my wake.
+
+They might want to take a bite out of me, but I've got no time for them. All I'm interested in is finding a way further down, all the way down!
+
+I can't deny that there's an excited bubbling in my thorax at the prospect of finding a new stratum to explore. There's something so addicting about entering a brand new world and experiencing the wonders and challenges that it has to offer. It's almost a shame that eventually I'll reach the end. Well, I assume that the Dungeon has an end.
+
+Of course, the constant, agonising pain of the Call is further motivation. I know I'm close to the sixth, since I can feel it yanking on my soul, urging me onward.
+
+Soon the tunnel branches and I take the path heading downwards, carefully watching my tunnel map the whole way.

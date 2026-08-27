@@ -1,0 +1,95 @@
+---
+id: 8e8387cf-7de1-544b-883a-81c74056a201
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1777 - Shocked Slugs"
+slug: 0429-chapter-1777-shocked-slugs
+partOf: chrysalis
+position: 429
+ownLength: 1117
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3299040/chapter-1777-shocked-slugs"
+royalRoadId: "3299040"
+---
+
+“What does it take for this abominable ant to die?!”
+
+“I don’t know! I’ve been spitting contamination at it for hours. It doesn’t seem to do anything!”
+
+Fluzzl wasn’t having a good time. It was imperative, it was fundamental, that this ant be killed. A decree from Theorazzn had been issued, and it had to be obeyed! Not only that, if the ant managed to survive and break through the Krath defences here, the consequences would be catastrophic for hundreds of tribes in a vast swath of Dungeon!
+
+How had they gone from masters of the fifth stratum to fighting for their very survival in such a short span of time?! It didn’t make any sense!
+
+With everything on the line, at least she had a simple and clear objective in front of her: kill the ant. If only the stupid thing would die!
+
+“Are there any signs of contamination?” she demanded, her skin fizzing and popping with the force of her inner rage.
+
+“Not that I can see,” her second-in-command reported, shrinking back from her glare.
+
+“How?!” she roared. “We’ve been attacking for an entire day! Are you telling me that acid no longer burns? That the fifth is no longer contagious?!”
+
+“Of, of course not,” he gurgled hesitantly.
+
+It wasn’t his fault, which was the only reason she hadn’t eaten him so far. She couldn’t expect Thooza to make sense of the situation when she couldn’t make any sense of it herself. That knowledge didn’t do anything to temper her rage, however. If the ant had been clever and cunning, that might have made her feel a little better, but it was clearly an idiot, blundering from one trap into another, moving seemingly at random and leaping well before it ever bothered to look.
+
+The more they attacked it, the faster it seemed to heal, leaving it whole and shiny while her slugs exhausted themselves trying to put a dent in the cursed creature. She’d sent word to the Krath’lath hours ago, and surely they would arrive with reinforcements soon, but until then, what was she supposed to do?
+
+“Which way do you think it’s going to go next?” she muttered, half to herself.
+
+There were multiple paths forward, all of which were trapped, not that she expected that to accomplish anything anymore.
+
+“If I were to guess, the rightward branch,” Thooza said.
+
+They watched as the ant, after hesitating for a moment, leapt to the right, seemingly uncaring of the fleshy tongues that speared out of the wall and stabbed into its carapace.
+
+The two Krath raced to keep up, using the hidden cracks and subtle passageways their tribe had built into these tunnels for thousands of years.
+
+“How did you know?”
+
+Thooza burbled in confusion.
+
+“I didn’t know, but it seems like the ant has been moving in this direction for a while. Heading towards the Sludgeway, I mean.”
+
+It… it had?!
+
+“Why didn’t you say something earlier?!” she roared, pouncing on the smaller slug and sinking her fingers deep into his flesh. “If it reaches the Sludgeway… do you know what it could do there?!”
+
+“I wasn’t sure!” Thooza defended himself desperately. “How could it possibly know the Sludgeway even exists, let alone where to find it? No ants have even been down here.”
+
+It was impossible, and yet…. She released her hold on Thooza and rushed to catch up to the ant. It didn’t always make the correct turn when confronted with a branch in the path, but it did most of the time. As the minutes ticked past, all doubt was removed. She had no idea how, or why, but the ant was gradually making its way towards the Sludgeway.
+
+“Send word back to the Slimeground immediately,” she instructed Thooza. “Get our best and fastest scouts to deliver it. They need to send us some help right now.”
+
+“Won’t it be fine?” Thooza said. “Slizzl lives in the Sludgeway. It’ll deal with the ant if we can’t.”
+
+Fluzzl restrained herself from consuming her subordinate for what felt like the twentieth time that day. Just wait a little longer, she told herself, you can eat him later, just not now.
+
+“We can’t deal with the cursed creature!” she pointed out, indicating the ant blundering through a pit of toxic spores while dozens of Krath poured acid and nefarious magic on it. “Unless something changes, it’s going to get where it’s going to, and if Slizzl can’t beat it, what then?”
+
+“Then… I’d better get those scouts moving,” Thooza gulped, cringing away from her boiling red eyes glaring down at him from atop their stalks.
+
+“The Ancient wants this thing dead, so let's make sure of it,” she said. “We can’t afford to fail.”
+
+As Thooza slid off to rally the other slugs and get the word back to the Krath’lath, she turned her attention back to studying the ant. There had to be a weakness, there had to be. Nothing was immune to the corruption of the fifth, that was an immutable fact. After all, if something immune could be created, why hadn’t it happened throughout all of history up to this point? It was unnatural!
+
+No, the ant did suffer from the corruption of the fifth, but was somehow able to overcome it, to endure it. It clearly had an unbelievably fast healing speed; any injuries they dealt it vanished within seconds, its carapace regenerating as she watched it.
+
+What she’d thought earlier? The more they attacked it, the faster it seemed to heal? As far as she could tell, it was true. As they intensified their attacks, the rate of healing only seemed to speed up.
+
+A thought struck her.
+
+“Cease your attacks! Spread the word!” she gurgled.
+
+At first, the Krath under her command looked at her as if she were insane, but she merely glared at them until they obeyed.
+
+They weren’t achieving anything anyway, so they may as well check to see if her theory was correct. All Krath-led attacks on the monster ceased, dramatically reducing the fire it took.
+
+Now they just had to wait and… Fluzzl froze in place, shocked.
+
+The ant had turned its head and was looking directly at her. It clacked its mandibles once, twice, loud piercing sounds that shot through the tunnels like mocking laughter. Then it turned and continued on its way.
+
+Too late to figure it out now, it was telling her.
+
+Rage exploded in her veins. Any knowledge was good knowledge, each piece could be the one that let them kill this creature. Suppressing her anger, she slid after it.
+
+If gradual damage and corruption wouldn’t take, then they’d just have to overwhelm it all at once.

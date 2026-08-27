@@ -1,0 +1,83 @@
+---
+id: 757c9fc0-13ed-5eb1-b212-35b25477a635
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1731 - The Great Commercial Empire of Our Time"
+slug: 0383-chapter-1731-the-great-commercial-empire-of-our-time
+partOf: chrysalis
+position: 383
+ownLength: 1127
+unit: words
+ownProgress: 1127
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3031492/chapter-1731-the-great-commercial-empire-of-our"
+royalRoadId: "3031492"
+markedReadAt: "2026-06-29T19:56:03.416Z"
+---
+
+As impressed as I am with Merchant, she has nothing on the industrial, financial and commercial capacity I am now packing in the rear-zone. It’s aggressive, stream-lined, with an incredible price-to-earnings ratio and exceptionally creative accounting. My market share is out of control, so close to a monopoly that the only reason I allow competitors to exist is for plausible deniability.
+
+It’s not junk occupying my trunk, but a weapons-grade product the military-industrial complex could only dream of.
+
+I tested it not long after leaving the nest and the results were… rather shocking. The unfortunate cave I subjected to my experiments, and the denizens therein, well, let’s just say I hope they’re in a better place, because they sure as heck aren’t on Pangera anymore.
+
+To be honest, I’ve been pretty nervous about using my acid as the opening salvo of this battle. If they aren’t prepared, then my foes are in for a bad, bad time. Trying to ask for peace after melting a few thousand people into quivering piles of goo would be a tough sell.
+
+No holding back now, though. Once Beyn has run clear, I check my aim one final time, then let it rip.
+
+POW!
+
+A single shot is all I unleash, and to be honest, I’m worried that might be too much.
+
+After all, the Industrial Complex is much more than the sum of its parts. Combining the effects of four different body parts into one, and absorbing the power of Theorazzn’s mana, it’s an entirely new beast compared to what it was before.
+
+As soon as the acid blast is unleashed, the air is filled with a horrific sizzling sound, as if the fluid were eating its way through reality itself. No longer mostly clear, the acid now glows a radioactive green, every drop infused with the ravenous mana of an Ancient.
+
+I haven’t unleashed that much acid in that one shot, in fact, I could fire a dozen more right now if I wanted, but I’m a little worried to try. Turning back to the ranks of the gathered army, I hope against hope they’re able to cope with what’s coming their way.
+
+Shields are up, barriers springing into existence. Skills and spells are being activated, which is all good stuff, I’m glad they aren’t taking this too lightly. Because the acid has crossed about half the distance between us, but it’s doubled in volume.
+
+Perhaps sensing something is awry, the army doubles down. Golden wings formed of blinding light burst out from the Judgement Battalion in the centre of the formation. Enormous and radiant, the wings fold around the army and surround them in their embrace like a mother protecting her child.
+
+Holy moly, that’s impressive as heck! Some sort of miracle magic?
+
+Well, the acid is about to land, and it’s currently reached eight times the volume that I fired. I can’t help but wince as it splatters against the defences the soldiers have put in place. I bring my front legs together in a prayerful gesture. Please hold.
+
+There are many properties of Theorazzn’s mana that make it so potent and so feared. Most dangerous of all is its natural propensity to consume other forms of energy to produce more of itself. I’ve come to realise that if it weren’t for the boundary regions that separate one stratum from its neighbours, it likely would have eaten up all of the mana in the entire world by now.
+
+Of course, the mana of the fifth is only a diluted imitation of the real stuff, pooled within the hearts. I was poisoned by the real deal, and that energy is what went into my acid complex.
+
+As soon as it lands, the sizzling sound rises from a crackling, to a deafening roar. With such dense, rich energy to eat, the acid rips through it like Tiny through protein-rich Biomass. Shields crumble, barriers flicker and vanish. The wings of light, so pure and holy only moments ago, are now quite hole-ey, acid chewing through them at several points and making more and more of itself.
+
+Yes, the cycle of life and death, the yin and the yang, creation and destruction, all are contained within my new and improved merchandise. Stimulated, concentrated and specially delivered, it’s potent indeed.
+
+Maintaining my view from the air, I try to see if the army is able to withstand the ravenous hunger of my acid. More shields are flickering into place, which is good… and bad. All it does is feed the acid more energy to chew on, but that’s better than having it chew on your armour, and then… what’s inside the armour.
+
+Once it’s started, the propagation effect takes over and it does not stop. After a few minutes, the entire army, and I do mean the entire army, now look as though they’ve been eaten by a slime. Although the acid itself hasn’t touched them, being held off by a series of rapidly shattering then reappearing shields, it has completely surrounded them, sealing them in from all sides with only their dome-shaped shields holding it off.
+
+Still propagating, acid is starting to drip onto the ground and eat through that as well.
+
+Thankfully, the stuff isn’t as potent as Theorazzn’s own goop, which is so strong it barely lost any potency after a thousand years. After ten minutes, it finally stops creating more of itself and the acidic effect begins to wear out, having eaten through an awful lot of mana by this point.
+
+Running off the few remaining shields, the acid hisses and bubbles out over the floor of the tunnel until it’s all gone.
+
+Well now.
+
+It’s not as easy as it used to be to read people’s expressions, it’s been way too long since I was a human, but I think they’re looking… a little shellshocked? I suppose it can’t have been pleasant, being surrounded by ravenously hungry, self-propagating acid.
+
+Still, they survived! That’s a relief. I was hoping it would tire them out a bit, but that they’d ultimately survive it. A strategy that worked flawlessly.
+
+Feeling smug and generous, I decide to broadcast my mind to them.
+
+[You may surrender if you wish!] I declare.
+
+For a few moments, I wait, smugness leaking out of me as not a single soldier moves so much as a pinky toe.
+
+What’s going on? Were they not impressed by the acidic display? It looked horrifying from over here! Well… if that’s the way they’re going to be, I suppose another round can’t hurt.
+
+Slowly rotating in the air, I turn my back towards the army once again.
+
+“CHARGE!”
+
+Roars and cries fill the tunnel as the troops charge towards me.
+
+Aha! I knew you were scared of the acid!

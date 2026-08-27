@@ -1,0 +1,115 @@
+---
+id: 5d4ee390-dfe7-591f-89d2-fbaa4452522f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1704 - Wheeling and Dealing"
+slug: 0356-chapter-1704-wheeling-and-dealing
+partOf: chrysalis
+position: 356
+ownLength: 895
+unit: words
+ownProgress: 895
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2840214/chapter-1704-wheeling-and-dealing"
+royalRoadId: "2840214"
+markedReadAt: "2026-06-29T19:55:12.168Z"
+---
+
+“Eldest, do you really intend to sell the delvers back to Green Mountain?”
+
+“Of course, why wouldn’t I?”
+
+Sloan seems to have reservations about my strategy.
+
+“Won’t they just come back again?”
+
+After putting up with the priests for a few weeks? Probably not.
+
+“If they do, it’s good,” I say.
+
+“Why would it be good?” the general replies, obviously confused.
+
+“Because then we can capture them again,” I point out. “Which means we can sell them again.”
+
+I’m no expert in history, but from what I know, the best way to stop a fight is to make it too expensive to continue. If capturing ants isn’t a path to riches and fortune, but debt and misery, then nobody will come looking for us, no matter how much the church wants to pay.
+
+“Well… if you insist on doing it this way, we can only go along with you. I’ve done as you asked and found someone who will manage the negotiations for the Colony. They’ll be here in a few minutes.”
+
+In that case, I should finish up my meal.
+
+“Thanks, Sloan, I appreciate your help.”
+
+Wait… where the heck did my food go? I swear I had more of this Biomass left….
+
+[Tiny, turn around.]
+
+The giant ape has his back to me. Unable to refuse my direct order, he slowly turns to face me, revealing his bulging cheeks.
+
+[You can’t be that hungry, I’ve been bringing Biomass back for you, haven’t I?]
+
+He manages to choke down the enormous mouthful of food and has the decency to look somewhat shamed.
+
+Sheesh!
+
+He might be getting older and wiser in some ways, but he’s still a very greedy boy! Before I can scold him too much, I feel a mind bridge reach out to me and I allow it to snap into place.
+
+[Eldest. I have brought the negotiating team here to speak with you.]
+
+[Sure, sure, let them in.]
+
+A few moments later, I am treated to a very welcome sight indeed.
+
+[Enid!] I cheer, clacking my mandibles happily as the old woman enters the chamber.
+
+My word… she’s so small.
+
+I crouch down low, finally flattening myself out and lying down to make myself as small as possible, but she still looks incredibly tiny to me. I didn’t get that big, did I?
+
+[Enid,] I relay over the bridge, [have you… shrunk?]
+
+[What? No! Well, sort of. I’m sitting down, you silly ant.]
+
+She is? She is! I see it now, she’s in a chair with wheels. A wheelchair. Of course, I remember those. Luckily the floor of this chamber is nice and flat. A small ant is behind the old human, pushing the chair forward while gripping the back carefully with her mandibles, but my attention is focused on the retired merchant.
+
+[Did the healers start slacking or something? You’re supposed to be getting healed every day!]
+
+[I am getting healed every day,] she tells me, looking grumpy. Much like a healer, to be honest. [I’m old, not sick.]
+
+[Your legs don’t work anymore?]
+
+[Well enough to kick nosy insects who won’t stop asking about my legs. I’ve been walking too much lately and my joints are sore. Now be quiet about that and greet me properly.]
+
+I feel like every time I see Enid, the less care she has for the things that don’t really matter. No more platitudes and pleasantries. Someone who loved getting down to business, seemingly over anything else.
+
+[Hello, Enid,] I say, extending an antenna towards her, gently. [It’s nice to see you again. How have you been?]
+
+[Well enough, I suppose, for an old chook.] She reaches out one frail hand to rest against my extended antenna and peers up at me. [Was it really necessary for you to get this big? I can remember when you were small enough to fit under my dinner table.]
+
+[I still could if you built a big enough table. You can’t even blame me for this one, I wasn’t responsible.]
+
+Which is entirely true.
+
+[Alright, hold that pillar you call an antenna there for a second and help me up.]
+
+With a little effort, she grasps hold of a hair and pulls herself up, grimacing as she does so. After a moment, she’s up on her feet, hands on her hips.
+
+[There, see. No problem at all.]
+
+[Strong as an ox,] I tell her.
+
+“Can we double the amount of healers taking care of Enid?” I ask the nearby ants, and they nod.
+
+[I see how healthy you are, yet I’m surprised you volunteered to go negotiate with the Green Mountain for us. I thought you were retired from all of this. After you negotiated with the brathian, I thought you would never forgive me for dragging you into that mess.]
+
+[I may never,] Enid chuckled. [But you are right, I am retired from such things. I didn’t come here to negotiate with anyone on your behalf.]
+
+[Oh? If not you, then who will?]
+
+[My student. Merchant? Say hello.]
+
+The small ant who was pushing the wheelchair steps out from behind it and skitters towards me, giving me a sight of her for the first time.
+
+What in the name of heck am I looking at?
+
+Since when has an ant ever looked this… dapper?
+
+“Greetings and well met, Eldest,” the little ant says smoothly. “How’s business?”

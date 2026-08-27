@@ -1,0 +1,79 @@
+---
+id: 30582110-9034-535e-b34a-9e7891f0ce41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1834 - Heart Secured"
+slug: 0489-chapter-1834-heart-secured
+partOf: chrysalis
+position: 489
+ownLength: 922
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3748921/chapter-1834-heart-secured"
+royalRoadId: "3748921"
+---
+
+I’m assuming things are going well for the fighting in the upper chamber. Not that there’s much I can do about it. Resting and waiting, healing up, the only thing I do is activate my backup legs as I watch the mucus gradually lose the war to the flooding blue liquid that pours down from above.
+
+I have to admit, it certainly is satisfying to watch the mucus bubbling and vanishing under the onslaught of cleansed mana. Yeah, take that! Stupid slime! You’ve tormented me for long enough. After today, I’m hoping that I’ll never have to deal with the filth of the fifth ever again.
+
+Although it does feel a little lazy to be down here doing nothing while others are fighting. Without someone up there to secure the upper chamber, the chances the Krath manage to block off the flow of cleansed energy is high, so it’s definitely necessary.
+
+“Hey, Protectant, any chance you could each send a few bodies up to help the fighting?”
+
+“I… suppose that we could. Why?”
+
+“Well, I’m not doing anything. The only threat to me right now is the Krath succeeding in stopping the flow. So I suppose, if you really want to protect me….”
+
+“Say no more.”
+
+She doesn’t move from her usual position on top of my head, but I suppose the rest of the secret service are moving to join the fight above. Has it always been this easy to manipulate Protectant? She’s usually remarkably stubborn about not doing anything to reveal her presence to anyone. I suppose, with the new evolution, it’s made it a lot easier for them to protect me and do other stuff at the same time, given that they each have four bodies.
+
+Whatever, I’ll just keep relaxing here and healing while the Krath empire slowly crumbles around me.
+
+After the falling mana has eaten away at the mucus enough, it makes it all the way down the final, deepest pit, and there it confronts its most hated foe. The toxin of Theorazzn, virulently potent after thousands of years of infection, fights for its life against the wuffers’ best produce.
+
+And I have to say, it puts up a hell of a fight.
+
+A whirlpool forms over the pit, bubbling and hissing as the two competing types of mana go to battle. Really, in this contest, the cleansed mana is hopelessly outmatched, Theorazzn’s toxin is just that strong. I have no idea how we could make our own countermeasure more potent, but I suppose it’s something we might learn if I keep evolving and the Colony keeps going deeper into the Dungeon.
+
+Gradually, the cleansed energy permeates the lower heart, the diseased flesh of the heart burning away. I start whipping up some Healing Mana and flinging it around the place, hoping to help shore up the weaker points as I saw the healers doing during the first heart invasion.
+
+It wouldn’t be good if this place fell apart on us!
+
+Brilliant really did make sure that a truly absurd amount of liquid energy was prepared. Despite being sent down five different streams, there’s still so much flooding in here.
+
+It takes half an hour after I send up Protectant and the others before anyone comes down to check on me. Unsurprisingly, it’s Jern, Alis and Bertran who drop in, stepping out of the shadows nearby as if they were open doors.
+
+It’s creepy.
+
+“All done up there?” I ask them.
+
+“For the most part,” Jern replied, scratching at the back of his head. “The environment became too much for the Krath to handle, so they retreated.”
+
+They’ll have to retreat fast. It won’t be long until this entire area becomes cleansed. Already the heart is starting to pump cleansed energy.
+
+So long as things go well at the other sites, a vast area of Dungeon will become clean, gradually returning to what it had been long, long ago, and the invasion of the fifth will be basically over.
+
+“We’ve won, then,” I say, feeling pleased. I’m pretty much fully healed now, my legs are done developing and even the cracks in my eyes are gone, but I don’t feel like moving much. Just watching the taint of that Ancient goop merchant get destroyed is satisfying enough for now.
+
+“Hopefully the other hearts were fine,” Bertran says, sitting down with a groan as he starts stretching his back.
+
+“Don’t worry about them,” I snort. “Did you see how many troops Solant threw at each? They can handle it, no problem.”
+
+Jern looks at me, a question looming large in his eyes.
+
+She sent you here, he’s telling me, and you’re like a… powerful monster.
+
+Even in his eyeball message, he’s careful to avoid hitting me with the g-word. Which is wise.
+
+“No, I’m confident that this is done,” I go on. “Just sit and watch as the legacy of an Ancient boils away to nothing.”
+
+There isn’t anything else to do, so the three of them sit down next to me, leaning forward so they can look over the edge of the little pillar I’m on and see into the pit below.
+
+With every passing second, I feel a little more smug and a little more gleeful, knowing that Theorazzn’s hold on the fifth may well have been broken forever.
+
+Take that, you miserable slug-brain. Now, when I see you in the center of the world, I can rub this triumph right into your disgusting face.
+
+Right before you get eaten by a black hole.
+
+Gweheheheheh.

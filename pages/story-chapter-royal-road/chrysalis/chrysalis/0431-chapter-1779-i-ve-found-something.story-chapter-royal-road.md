@@ -1,0 +1,57 @@
+---
+id: e85d72e2-d2e4-5224-8608-6eceb95c3309
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1779 - I’ve Found… Something!"
+slug: 0431-chapter-1779-i-ve-found-something
+partOf: chrysalis
+position: 431
+ownLength: 937
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3311494/chapter-1779-ive-found-something"
+royalRoadId: "3311494"
+---
+
+I can practically feel the slugs panicking as I continue to angle towards the same direction with every branch the tunnel takes.
+
+Gweheheheheh. Nothing you can do about it, slugs! I’m following the sludge, and in this case, the sludge never lies! It might be disgusting and horrifically lethal, but it’s honest about it!
+
+The further I go, the thicker and faster the veins of sludge pump through the spongy, fleshy walls. Billions and billions of litres of goop rush through here every day, I bet. Maybe even every hour. This won't be the only gathering place where the veins converge, but it is one of them, and I’m certain I’ll find a major Krath settlement there.
+
+Which will immediately feel my wrath!
+
+One of the slugs following me seems to have noticed that my healing ramped up the more they hit me, a keen bit of observation, but it’s too late now. The regeneration network is running hot as heck, a veritable flood of healing fluid running through my body. It’s starting to wind down a bit now, but by the time it becomes a problem, I’ll have reached my destination, no doubt about it.
+
+It’s actually a testament to just how deadly the environment is down here. If not for the regeneration network, I simply wouldn’t have been able to produce enough healing fluid to keep me alive. The environment itself is so unbelievably acidic, eating into my carapace and legs, chewing into my joints to an absurd degree. Healing fluid surges through my body like liquid ice, dispersing through my muscles, tendons, carapace and legs, repairing the damage almost as soon as it happens.
+
+With the sheer volume of damage I’ve been taking from the slugs and monsters on top, I’ve taken enough punishment to kill me multiple times over since I entered these lungs.
+
+Never thought I’d find myself thanking Theorazzn for anything, but holy moly, the regeneration network is… uh… pretty good.
+
+Luckily there’s plenty of ants within range of the Vestibule in order to stop feeling fatigue, which is apparently a thing that this much healing can do.
+
+Right now, I feel completely fine, full of beans and ready to dance.
+
+Which is lucky, because I think I’ve found what I’m looking for.
+
+I notice that several truly chunky tubes come together up ahead of me, each of them absolutely bulging and pulsating with the sheer volume of sludge moving through them. These things are massive, each of them twenty metres in diameter, coming together into one mega-tube. There’s so much goop being forced through the pipe that I can hear it, a deafening, disgusting roar of mucus and muck that sets my antennae to twitching from the force of the vibrations.
+
+Which means, if I head up this way, then I should exit the lungs right about the same place as this huge pipe-thing.
+
+Digging my legs into the diseased, spongy flesh of the walls, I start to haul myself upwards, but I find it incredibly difficult to achieve. Too spongy to properly bear my weight even if they were healthy, the porous flesh just rips away when I try to exert any force, so I resort to using another Gravity Well and lifting myself up that way.
+
+It’s not that I object to floating majestically through the air, I just don’t want to use any more than I have to. Although I have enormous reserves, and the Everflow Wellspring to make more, I’m a long way from safety right now and feel like conserving resources is the smart play.
+
+Once I lift off and begin my ascent, I tuck my legs in under my carapace and begin the painstaking process of navigating the remaining tunnel. I’ll say one thing about flying via Gravity Well, it isn’t all that maneuverable.
+
+Krath continue to wiggle about in my wake, keeping an eye on me, but no longer trying to attack, which must be making them furious. I take joy in the suffering that I imagine they are experiencing and do not feel shame for it.
+
+As I thought, there isn’t much tunnel left and finally, startlingly, I’m free from the lungs. Thank heck! I’ve been running around in that labyrinth of death for ages.
+
+When I emerge, I find myself inside a large, wide tunnel, the sort I got used to seeing in the upper levels of the fifth. A kilometre or more wide and hundreds of metres tall, it’s a huge cavernous space that, when I check my tunnel map, seems to lie right beneath the cursed lakes that blocked my progress before. As expected, those lakes were filled by the Krath using their limitless mucus supply out of the lungs! Doubtless it’s where they’ve been sourcing the vast quantities of slime they’ve been trying to drown the nearby fortress with also.
+
+There is one major thing that differentiates this tunnel from those I saw above, and it’s not just the much higher level of mana density and the resultant increase in toxicity and overall yuckiness, but the massive artery full of vile sludge rising up through the tunnel floor and into the wall is rather hard to miss.
+
+The other thing that’s hard to miss is the large gathering of Krath who think they’re hidden behind some presumably elaborate illusions. I can see them plainly, which is nice, but I can also see the dread magic that they’ve been working and managed to cunningly conceal from my senses to this point, which looks like a mega-doom-sphere of truly large proportions.
+
+A trap. There’s always a trap with these slugs!

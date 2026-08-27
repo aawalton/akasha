@@ -1,0 +1,89 @@
+---
+id: 0a7940a0-c38a-5f49-a71e-255aac2e0ade
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1842 -  Wuff"
+slug: 0497-chapter-1842-wuff
+partOf: chrysalis
+position: 497
+ownLength: 946
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3802362/chapter-1842-wuff"
+royalRoadId: "3802362"
+---
+
+Solant and Leonidant looked down into the vast pit together, neither quite sure what to say.
+
+“To borrow a phrase from the Eldest, holy moly,” Leonidant muttered.
+
+Solant quite agreed, but looking at the disgusting soup in front of them, she wasn’t quite sure if she trusted herself to speak.
+
+What was this weakness? Unacceptable vulnerability in the face of the Colony’s need. She could not tolerate it.
+
+Yet, the scene in front was just so nauseating.
+
+So far, the healers and carvers were still learning how to work with the natural network of arteries and veins that stretched out from the lungs like a vast spiderweb. A distribution system on a continental scale that took everything produced by the lungs and spread it out across a truly vast swathe of Dungeon. The Krath had tapped into that network and made extensive use of it in a variety of ways, and now the Colony was racing to do the same.
+
+However, before the lungs had been fully healed, they were producing enormous quantities of toxic sludge. That sludge, if given the opportunity, would corrupt every drop of mana that touched it, multiplying and growing until it overwhelmed the Colony’s protections and turned this entire area back into what it had been before.
+
+So they’d found a place to dump it, and this was it.
+
+A vast lake of sludge.
+
+Yet, if that was all it was, that would be fine, Solant could tolerate that. But mixed in with the sludge and slime was an equal amount of what the lungs were producing now, which was a reddish, viscous fluid that foamed and frothed as chunks of unspeakable mucus floated through it. Unable to filter one substance from the other, the healers had been forced to dump all of the lungs’ output here, mixing the two together like the world's most unappetising soup.
+
+If that was all it was, then she would still have been fine. But composed entirely of natural energy of the fifth, the reddish liquid was completely vulnerable to the contagious mana of the mucus. The entire lake bubbled and steamed as the mucus churned away, consuming the benign mana like a rabid wolf and causing huge bubbles of mucus to rise up to the surface and burst into showers of sludge.
+
+If that was all it was, then she could have managed. Happily flolloping away in this wonderland of contagion were the wuffers, getting coated and buried in this dreadful mix while cheerfully wuffing away as if they were in paradise.
+
+The end result was a chaotic, frothing mess that left her feeling decidedly unsettled.
+
+“It may not look like it,” Tungstant said from beside them, “but the system here is stable. The wuffers are consuming the mucus at a decent rate and the energy they create is being fed back into the lake. Eventually they’ll purify the lot, but it’s going to take a while.”
+
+“There’s been a change of plans,” Solant said, mastering herself. “We’re going to have to do some work here.”
+
+“More work?” Tungstant scowled. “Haven’t we done enough lately?”
+
+“We rest when the work is done,” Solant replied, “and right now we have a dangerous situation developing.”
+
+“What’s the problem?” Tungstant sighed.
+
+Leonidant replied.
+
+“Wave is brewing faster than we expected,” she said. “With the Colony’s reserves so low, we need a ton of cleansed energy and we need it fast.”
+
+Tungstant was smart, she immediately realised what they were talking about.
+
+“You want to use this as a way to generate the mana that we need?”
+
+She turned to look back at the vast lake of churning, battling mana.
+
+“That might be a little difficult,” she said.
+
+Effectively, what Solant wanted was to turn this lake of warring energy into an endless food source for the wuffers. Right now, the blobby creatures were happily drifting through the lake, chewing up the corruption that they encountered and spitting cleansed mana back into the mix. If they were removed, put onto platforms and their output funneled out into the network and distributed to the fortress reservoirs rather than using it to fix the lake… it could boost the supply just enough to cover the shortfall.
+
+Of course, the wuffers would eventually eat through the entire supply of contagious mana, which is where the output of the lungs came in. If they continued redirecting that flow into the lake, there would be an effectively endless supply of food for the wuffers to dine on.
+
+The more she thought about it, the more it made sense to Tungstant.
+
+“To be fair,” she said, sighing, “it isn’t that much work. We already have the outlet valves here and the network infrastructure isn’t that far away. It won’t be hard to connect it up, and we can connect the platforms easily enough.”
+
+“Excellent,” Solant said, nodding. “I need it done in a few hours.”
+
+Tungstant’s antennae twitched.
+
+“Excuse me? We don’t even have the materials necessary for the construction? What are we supposed to do?! We can’t even start for a few hours!”
+
+“The necessary components are on the way and the core shapers are coming to help wrangle the wuffers and provide the numbers necessary for the project. You will have everything you need here within the hour.”
+
+Solant, as always, was ruthlessly efficient. Before she came to speak to Tungstant, the necessary steps had already been taken to put the project in motion.
+
+“Fine,” Tungstant groaned. “I assume the build teams are already on the way?”
+
+Solant nodded.
+
+“I’ll start drawing up plans, then.”
+
+“Cobalt is already working on it. She’ll be here soon.”
+
+The carver could only slump in defeat.

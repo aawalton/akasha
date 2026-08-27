@@ -1,0 +1,45 @@
+---
+id: 61dc3549-78c3-5672-b801-615c6cc60b55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1804 - A Determined Colony Can Achieve... Whatever it Wants"
+slug: 0457-chapter-1804-a-determined-colony-can-achieve-whatever-it-wan
+partOf: chrysalis
+position: 457
+ownLength: 935
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473212/chapter-1804-a-determined-colony-can-achieve-whatever"
+royalRoadId: "3473212"
+---
+
+Well, it looks as though they really want to get this job done. I can tell because of the endless flow of work crews arriving at the fortress from higher up. It seems like Solant has pulled in everyone who wasn't nailed down or needed for mission-critical maintenance. Every carver and specialist mage the Colony can spare in the fifth has arrived here, and they are diving into the digging works with a worrying level of vigour.
+
+There are four separate tunnels being dug, each of them requiring us to move a metric butt-ton of rock, soil, and weird, diseased flesh. Then there's all the pipeworks, valves and pumps they have to install as they go. Frankly, the diagrams are enough to twist my antennae into knots, but Tungstant insists that it's 'simple stuff'. Before I even think to ask where they intend to get all the metal bits and bobs they need for this enormous project, the first deliveries start rolling in. Because of course the very first thing Solant did was make sure the foundries were on the job. With her flawless logistics network, the materials are being delivered to the front at record speed.
+
+And that's not all. Once all the carver teams have arrived and get to work, the soldiers start coming in. Not just soldiers, obviously, scouts, mages, core shapers, generals, even the support battalions start pouring into the fortress, filling up all the available space until the work teams have to be diverted to dig out more barracks. My Vestibule is filled to overflowing as the number of ants within range continues to climb higher and higher.
+
+Before too long, there are more of my siblings here than there were in the initial fortress within the fifth, and the number continues to climb with every passing hour.
+
+Work also progresses at an insane pace.
+
+As I watch, the massive shafts that are being dug grow deeper right before my eyes, kilometres dug out and reinforced in half a day. I suppose it isn't hard to dig a hole straight down, but there's so much more to it, according to Tungstant. Considering the mucus that they intend to pump is so obscenely acidic and contagious, they can't afford to let it come into contact with any material components at all. If a single beam were to become infected, it could carry that toxic energy all the way back to the fortress. While the work sites are covered in cleansed mana right now, that won't be the case once the pumping starts. Trying to convert such a vast quantity of sludge at once would be a futile waste of precious mana.
+
+Better to get all the goop out of the way first and then dump out the liquid energy. The thinner we can make the corrupted energy, the better.
+
+All in all, the fortress is absolutely buzzing with activity as Solant gears up for the final push. It's still too soon for me to start moving, since the lower tunnels are completely flooded, but soon enough I'm going to have to head out. Thanks to my tunnel map, the Colony knows enough of the terrain down there to work around the lungs and hearts, but they still don't have a clear idea of how to reach the sixth.
+
+From the sounds of things, it's going to be a bit touch and go. Solant fully intends to keep the digging going while I'm out looking for the path. I'll be racing the digging crews, basically. If they wait until I find it before they dig down, we might miss our window to take the slugs by surprise. This all needs to get done as soon as possible.
+
+I can't say I'm not excited by the prospect of finding the next stratum down, I'm completely sick of this place, that's for sure, but I'm less thrilled at poking about down there.
+
+Let's not forget that any wall could give way and unleash a torrent of mucus powerful enough to bury even me underneath it. By this time, the amount of goop accumulated below the fortress must be trillions of cubic metres. The very thought is enough to make me feel icky all over.
+
+Focusing on what I need to accomplish is becoming more and more difficult, however. With this many ants nearby, the Vestibule is positively vibrating with energy as their Will floods into me in an unceasing tide. When it gets to this point, keeping my own thoughts separate from those that flow in can become a little difficult.
+
+Along with that, I'm finding there's another, stranger challenge I'm facing. The music. It's unbelievably distracting.
+
+Of course, it's so distracting because it's not just any music, but snail music. I have no idea why the chal are singing to me, but they are. Constantly. Sometimes it's just a little hum, a comforting melody that has me waggling my antennae from side to side in a nice, steady rhythm, while other times it's a multi-layered symphony powerful enough to bring tears to an eye without any tear ducts. Man, those snails can seriously sing. I assume they're trying to tell me something, but I have absolutely no idea what it is. I don't speak snail, and frankly, since they're only six months old or less, I doubt they do either.
+
+Whatever it is they're doing, my Pure Core is starting to hum with an accumulation of energy, and I'm not sure if I should be worried or happy about it.
+
+Well, too late to do anything about it now. It's time to go.

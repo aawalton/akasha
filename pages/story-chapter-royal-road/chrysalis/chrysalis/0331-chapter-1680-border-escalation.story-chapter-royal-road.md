@@ -1,0 +1,95 @@
+---
+id: 42bd5c15-bb5f-5b69-910c-6ca02d3d7d95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1680 - Border Escalation"
+slug: 0331-chapter-1680-border-escalation
+partOf: chrysalis
+position: 331
+ownLength: 988
+unit: words
+ownProgress: 988
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2727096/chapter-1680-border-escalation"
+royalRoadId: "2727096"
+markedReadAt: "2026-06-29T19:54:24.066Z"
+---
+
+Merchant built many financial institutions, but perhaps the most enduring is the Colony Bank. Despite the obvious drawback of being run by monsters, the bank thrived in unexpected ways.
+
+In an odd way, people were more willing to entrust their savings to ants, rather than less. They knew the ants had no real interest in money, and they also knew that anything stored deep within the heart of a nest was about as safe as anything could possibly be.
+
+With low fees, incredibly robust accounting, and the famous logistical capacity of the Colony, the bank spread throughout many cities and domains across the Dungeon. Through the savings accounts, Merchant amassed enormous capital that she used to fund her other projects, bringing a wealth of cores to the family and empowering millions of her siblings.
+
+-           Excerpt from the personal notes of Historiant.
+
+Sloan wasn’t happy.
+
+“What about this tunnel?”
+
+“The scouts followed it for six kilometres. They recorded it branching eight times in these locations.”
+
+Eight?!
+
+“What about this tunnel?”
+
+“It branched five times in four kilometres….”
+
+Why were there so many damned branching tunnels?! As always, the carvers were working on a detailed three-dimensional model of the terrain, but the thing was becoming more tangled than a pile of centipedes in a feeding frenzy!
+
+It was all valuable Dungeon territory that the Colony would dearly like to claim. After all, there were huge deposits of mana-rich metals to be found beneath the mountains in the fourth stratum, and the carvers were going crazy over the mines that had already been established. That didn’t help them if they couldn’t defend it!
+
+Sloan stared at the model, thought hard, then stared some more. Was there really no better way than to pull back to the small number of tunnels they could defend?
+
+If so, they would be ceding control over huge swathes of land. Without scouts looking into the distant tunnels, they’d have no idea if there was an army massing on their borders either.
+
+A threat that became more and more serious as the days ticked by.
+
+At the outer edges of the model, there were markers, little red ribbons tied around the living stone, indicating the locations where delving teams had been sighted. Two dozen contacts in the last week. Even if they knew the Church of the Path was behind it, Sloan was shocked at the level of resources they’d invested in this ‘project’. Not only had Green Mountain refused their offers to buy a truce, but the number of delvers venturing into the Colony’s land numbered in the thousands.
+
+Practically a small army! It was as if they were daring the Colony to engage in a confrontation!
+
+“I think I’m getting a headache,” Sloan grumbled to herself.
+
+The scout standing nearby tactically decided not to notice that scent.
+
+“There are four more tunnels that I need to report on, general,” she said hesitantly.
+
+“How many branches?”
+
+“...”
+
+“Just tell me.”
+
+“Fourteen.”
+
+“DAMMIT!”
+
+When Victor caught up with her sibling, Sloan was still staring at the model, grinding her mandibles and furiously cleaning her antennae, dragging them through her elbow joints with far more force than was necessary.
+
+“You’re going to strip the hairs away if you keep doing that,” she warned her sister.
+
+“Victor… there’s too many tunnels.”
+
+“We knew that already,” the general said, skittering up beside her sibling to look at the model. When she saw the snarl of tunnels for herself, she blanched and nearly tripped over her fourth leg. “Holy moly!” she exclaimed.
+
+“The more we explore, the more tunnels we find,” Sloan said morosely.
+
+They’d been at this for months, and still hadn’t finished mapping out the network. There had to be thousands of different routes between the lands claimed by the Colony and those of Green Mountain. Watching them all was impossible!
+
+Well, truth be told it was perfectly possible if they had all of the antpower that was being directed down into the fifth. The campaign against the Krath was an endless vacuum, sucking up everything the Colony produced, including the newly graduated generations. There were over ten million ants down there now, and all Solant wanted was more, more, more.
+
+With what was left over, Sloan and Victor were supposed to protect their territory in the fourth, but it was proving to be even more difficult than they had initially thought.
+
+“I’m worried, Victor,” Sloan muttered. “We’ve been lucky so far, but there’s been too many close calls. Eventually one of our sisters is going to get caught. Then what?”
+
+The other general nodded soberly. It would be so much easier if the delvers were incompetent, stumbling fools, but they were anything but. Extremely stealthy, exceptionally fast and hyper alert, any ant within a few kilometres of them was at risk. A single mistake could put the hunters on the trail, and it had happened several times already.
+
+In those instances, there had been enough time to rally support and chase the delvers away, but if a small team of scouts were found, or worse, if the delvers managed to get between them and the nest, capture would be inevitable. With so many unmapped tunnels that looped and curled around each other, it was more than possible for a delving team to get deep into Colony land unspotted.
+
+Victor sighed, clacking her mandibles in defeat.
+
+“We have to pull back. Abandon everything beyond these points so we can concentrate our defence on the main arterial tunnels and monitor the rest. If they capture one of our sisters, it could lead to a full-scale war.”
+
+“Just abandon all of this territory? And will that be enough? Are we sure they’ll give up because of this?”
+
+“I doubt they will,” Victor said resentfully. “If anything, it will embolden them. When the Eldest wakes up, we might be able to do something about it. Until then… we have to wait.”

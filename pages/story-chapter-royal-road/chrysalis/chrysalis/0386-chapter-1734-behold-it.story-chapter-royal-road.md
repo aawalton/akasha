@@ -1,0 +1,83 @@
+---
+id: d601e9c1-c1e1-5a24-b3d7-88be1ffc78bf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1734 - Behold It!"
+slug: 0386-chapter-1734-behold-it
+partOf: chrysalis
+position: 386
+ownLength: 1114
+unit: words
+ownProgress: 1114
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3041625/chapter-1734-behold-it"
+royalRoadId: "3041625"
+markedReadAt: "2026-06-29T19:56:09.209Z"
+---
+
+It was difficult for Beyn to see what was happening in the battle due to the flood of tears that obscured his vision. Choked with emotion, he even found it difficult to perform the one function in which he excelled: speaking.
+
+Watching the Great One fling themself into danger, to be attacked and suffer the indignity of battling with those far beneath them, moved him beyond words. So noble the sacrifice! So benevolent the heart of wisdom! Truly the Great One had achieved such a state of transcendence that he would fight and suffer on behalf of others, even at the risk of death. Such unselfish love! Such generosity of spirit!
+
+How could Beyn bear to simply stand and watch?! No, it would be better to sacrifice his remaining arm, both legs, and all of his organs so that the divine embodiment of the New Path did not have to suffer in this way!
+
+Only… only he would–selfishly–ask that he keep his eyes, so he could still behold their majesty, and also his tongue, that he might speak of their glory.
+
+Sadly, that choice had not been given to him, so Beyn was left with no other option but to watch, and endure. Except, that wasn’t really true, was it? He was just one man, a weak and corruptible existence who had simply been in the right place and the right time to experience a revelation. Beyn had never thought of himself as special, or deserving. Indeed, the first thing he had done after being confronted with the miracle of the New Path was to deny it! A sin for which he had paid with a limb.
+
+Yet, he had talents, he knew that. He had devotion, a servant’s heart and a burning spirit of faith. He also, by the grace of the New Path on which he walked, was one heck of a public speaker.
+
+Resolved, he dashed the tears from his eyes on his sleeve, and rose from his knees on which he had fallen at some point without realising. Clasping the ant-headed staff in his hand tight, he turned to the two battalions, with thousands of humans and dozens of his fellow Priests, and raised his head high.
+
+“BEAR WITNESS!” he roared, his voice so powerful it echoed off the distant tunnel walls and filled every ear, even above the din of battle. “Bear witness to the service and sacrifice of the Great One!”
+
+With his staff, he pointed to the great monster, surrounded on all sides and battling away before them. Beyn knew he couldn’t turn and look himself, lest he be too overcome with emotion to continue speaking.
+
+“See how they suffer in our place! See how they take on the burdens and struggles that were meant for us. This is the fight of the new against the old, the past against the future! By your side stand the members of the Colony who have never betrayed you, who have never turned you aside, but rather welcomed you as a member of their family!
+
+“Over there see the servants of the old way! See those who spurned you, who looked down on you, who suppressed and oppressed you!”
+
+“I tell you truly, we have been shown a New Path! A new way to exist within the Dungeon! We have been given salvation beyond what we deserve and grace far greater than we could ever hope to repay.”
+
+In the eyes of the faithful, Beyn could see the same sort of fervour that he was certain blazed in his own. Many of his followers were openly weeping, tears streaming down their faces as they lifted their hands towards the roof of the tunnel, or toward the Great One. Others used their mandible clackers to punctuate his sentences, the staccato sound almost like sharp bursts of applause and approbation.
+
+The ants found it a little confusing, but weren’t really paying attention.
+
+Emotion surged within the priest and he felt his voice swell to its full, booming power as the listeners fell under the spell of his oration.
+
+“DO NOT FEAR!” he roared. “THE ONLY THING THAT SHOULD TERRIFY US, IS OUR OWN UNWILLINGNESS TO EMBRACE THE NEW WAY!
+
+“YOU HAVE BEEN SHOWN THE LENGTHS TO WHICH THE GREAT ONE WILL GO FOR YOU. ARE YOU WILLING TO RETURN THAT SAME DEVOTION?”
+
+“YES!” the people roared.
+
+Amongst the crowd, there were a few who began to wonder just where this was going. They weren’t supposed to be engaged in the fighting just yet, everyone was informed of the plan, and a fanatical charge into the thick of the fighting had not been part of the briefing. Despite their reservations, so persuasive and powerful were the words of the Priest that they couldn’t help but be swept up in the wave of emotion that overtook the listeners.
+
+Beyn looked out over the two battalions, celebrating the fervour that looked back at him. Other than the ants, of course, who merely looked a little confused. Even though he could speak with pheromones, these words were not intended for them, but rather for the devoted.
+
+He spread his arm wide.
+
+“Let us pray.”
+
+With his head down, Beyn turned back to face the battle and kneeled once more, the rock digging into the soft fabric of his robe.
+
+“Great One. Giver of hope. May your antennae always seek truly the light of the New Path. May your mandibles forever cut through the lies and deceptions of this world. May your carapace shield us from harm and inequity. Ours is a simple request, that we be allowed to shelter you as you have sheltered us. That we may FIGHT to realise THE TRUTH and let it be made MANIFEST, HERE, IN THE FACE OF THE UNBELIEVERS.”
+
+Though he tried to suppress his passion, Beyn’s voice rose to a roaring crescendo by the end of his prayer, thundering from his throat and smothering the sound of battle completely.
+
+Before he could go on, a system prompt appeared before him.
+
+[Congratulations, you have reached the maximum level for your Class: Ant Orator.]
+
+[You may choose to advance this Class to the following: Prophet of the Colony.]
+
+Beyn’s heart grew still in his chest. He accepted the prompt immediately, but couldn’t digest any of the information that followed as his thoughts churned and eyes filled with tears.
+
+As if he needed any further proof of the rightness of his cause, yet it came nonetheless.
+
+He stood and raised the ant-headed staff.
+
+“FOR THE COLONY!” he roared.
+
+“FOR THE COLONY!” the troops roared back.
+
+Then, overflowing with righteousness and fury, they charged… leaving their shocked and bewildered ant allies behind.

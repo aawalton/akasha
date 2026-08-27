@@ -1,0 +1,91 @@
+---
+id: e79c33ae-e615-5607-912a-043653bd5a85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1765 - Where The Heck Are They Getting it From?!"
+slug: 0417-chapter-1765-where-the-heck-are-they-getting-it-from
+partOf: chrysalis
+position: 417
+ownLength: 1056
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3237060/chapter-1765-where-the-heck-are-they-getting-it"
+royalRoadId: "3237060"
+---
+
+At this point, I want to speak to the Krath’s slime supplier. I don't know who they are, but holy moly, they get the job done. What fields are they cultivating? How far does this sludge-harvesting operation extend? I’ve spent all day throwing out gravity bombs, trying to soak up the mess, and the stuff just keeps on coming. How can this much slime possibly exist in the world?! Surely we’ve hit critical mucus at some point around here.
+
+I mean, I know it’s not an efficient way to get rid of the stuff, using small black holes to devour and effectively smush it, but I’ve been working hard out here. It’s a little depressing to see the slowly advancing tidal wave still there, mocking me with its hugeness, but at least I’ve driven it well back from the platform.
+
+How many millions of litres of acidic sludge have I destroyed in the last twenty-four hours? Only Gandalf could possibly know. Thanks to my efforts, the defenders on the platform don’t need to spend as much effort on pushing back the slowly advancing wall of slime, and things are at least looking a bit more stable. Stable enough that I can leave and go poking about in the tunnels.
+
+I managed to pulp more than a few monsters during my spree as well, which hasn’t hurt.
+
+“Alright then, Brendant. I’m heading off, don’t let the slugs get you.”
+
+“I’ll try to make sure that doesn’t happen, Eldest,” she assures me. “Thanks for your help.”
+
+“Any time.”
+
+I’ve been wanting to check on the Templars, but I can do that when I get back. After bending my brains to cast magic for the last day, I’m eager to go out and get some chomping done. Chatting can come later.
+
+It has nothing to do with any concern over the development of my very own Prophet and what that might mean for my Templars. Not a thing.
+
+To get away from the platform, I have to lift myself up with a Gravity Well, which isn’t an issue. I don’t have infinite mana, but I sure as heck have a lot. Down here the energy is incredibly dense, and I’ve been able to use the wellspring multiple times, shoring up my reserves.
+
+Rising majestically into the air, I start sensing for the closest tunnel entrance.
+
+Which is when the acid spikes start flying.
+
+Dozens of them blast out from the wall of sludge simultaneously, heading right towards me. Spooky! I’d be worried if they hadn’t fired them into an active Gravity Well. With a flex of thought, I yoink them upwards, bleeding away their momentum. A few do still manage to strike me, bouncing off my carapace but leaving behind a slash of boiling, hissing goo that adheres to my side. Thankfully, the healing network starts to ramp up, the slight trickle of healing fluid just the herald of what’s soon to come.
+
+Undeterred by their initial failure, the Krath seem determined to try again. Volley after volley of these spears is launched at me, and I dispose of each of them the same way, but I have to say, it’s getting annoying as heck.
+
+How am I supposed to hover gracefully with all of this going on? Also, my carapace is becoming increasingly scuffed from their acidic goop.
+
+Icy cold healing fluid flows and disperses throughout my form as I start the Gravity construct once again. I think I’m going to need a fair bit of mana for this one.
+
+I make no attempt to hide what I’m doing, so the Krath are certainly aware of the dense ball of energy I’m preparing to throw their way. More spears come at me, slicing through the air at a shocking pace.
+
+By the time the bomb is ready to launch, the regeneration network is singing, absolutely flooding my system, which is perfect, because I’ll be out in the tunnels soon enough.
+
+Opening my mandibles wide, I let the bomb fly, and it screams into existence, tearing through the air and heading straight to the point where I can feel the largest concentration of Krath. Of course, they’re fleeing now, but they may well not be fast enough, since not only is this bomb much larger than the previous ones, I empowered it too.
+
+HOOOOOOOOWWWWWWWLLLLLLLLLLLLLLLL!!!
+
+Ah, the sound of existence being ripped to shreds, I’ve sort of missed it.
+
+By the by, now that I think about it, floating in mid-air is probably not a good place to be when a Gravity Bomb goes off. Nards.
+
+Immediately I expend all of the energy in the Gravity Well, pulling myself away from the bomb, and I start sailing through the air like a stone. Grace be damned, I need to survive!
+
+The bomb expands into a black, slowly rotating void more than double the size of my earlier efforts. The force it exudes is absurd, sucking in mucus and everything else within its terrifying range, which includes me!
+
+“We’ve got you, Eldest!”
+
+Wha… who the heck was that?
+
+“Protectant?!”
+
+“Who else?”
+
+I turn my head slightly and see a chain of ants, each one gripping onto the legs of the next, holding onto me, linked all the way back down to the platform below.
+
+“Are there a lot more of you than there used to be? That looks like more than twenty.”
+
+“No.”
+
+“Your answer flies in the face of counting, Protectant.”
+
+“I’m telling you, no. Now be quiet, we don’t want to lose our grip.”
+
+Well, I’m not one to distract an ant when they’re working hard. Surprisingly, they manage to maintain their hold on my legs throughout the entire duration of the bomb, and as it flickers and fades, I warn my erstwhile bodyguards.
+
+“Are you coming with me into the tunnels?”
+
+“Of course! Why do you think we came here?”
+
+“Well, get ready then, it’s time to go!”
+
+Another Gravity Well flickers into existence and I immediately use it to fall forwards, directly toward where the bomb is now fading. For the time being, it’s cut a decent sized hole in the solid wall of mucus that surrounds the platform, but that won’t last too long.
+
+Gaining insane acceleration, I zip forwards, Protectant and her sisters flying along behind in a long chain of bodyguards desperately holding on.

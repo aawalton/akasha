@@ -1,0 +1,63 @@
+---
+id: 53cf943e-aae0-5d39-8b75-1646b0768c54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1749 - Unwanted Developments"
+slug: 0401-chapter-1749-unwanted-developments
+partOf: chrysalis
+position: 401
+ownLength: 950
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3120863/chapter-1749-unwanted-developments"
+royalRoadId: "3120863"
+---
+
+Morrelia knew that Commander Chyron and the other legionaries would never admit it, but what the Colony had achieved in the fifth stratum was incredibly impressive. Even though many kingdoms, empires and alliances had made attempts to do the same in the past, they had always failed. It was too hard and the costs simply couldn’t be sustained long enough to make meaningful progress.
+
+Anthony and his family were perhaps the only ones capable of the obscene level of commitment required to get the job done, and getting the job done they were.
+
+Even the Abyssal Legion, for all their power and secrets, hadn’t been able to conquer the fifth. They had found ways to adapt to it, established their outposts and managed to breach it, something nobody else had ever succeeded in doing, yet they were now heavily outnumbered in the fifth by the ants.
+
+“This ant is getting out of hand,” Chyron said, snapping Morrelia’s attention back to the present.
+
+“Anthony?” she clarified. “I mean, the target? We were warned he–it would be difficult to observe.”
+
+“I genuinely can’t tell if the creature is simply a forgetful, bumbling idiot, or a duplicitous sneak trying to throw us off the scent,” Tribune Aurelis complained. “Does it really expect us to believe it simply didn’t remember to tell us it was leaving to invade another stratum?”
+
+Morrelia was quietly confident that was exactly what had happened. In her experience, anything Anthony found annoying, he was liable to ignore, and she had no doubt he thought his Legion observers were extremely annoying. For one, they had been foisted on him by Solant, not something he had taken on willingly. He likely agreed that the deal was worth it for his family, otherwise he wouldn’t tolerate them at all.
+
+But all she said was: “It doesn’t matter either way, does it? Our task hasn’t changed.”
+
+“That’s right,” Chyron affirmed, her eyes hard. “At this rate, we can be certain that the ant will make it to the sixth stratum. It’s our responsibility to ensure that the Legion is ready for when and where that takes place. Our problem is, just how strong is this ant going to be when it gets there?”
+
+Chyron watched the giant ant walking in front of them with cold, judging eyes, giving Morrelia and her fellow tribune a moment to consider what she had said.
+
+Indeed, what Anthony had done to the Judgement Battalion was nothing less than shocking. He had endured a truly absurd amount of punishment, allowed himself to be battered by nine thousand Dungeon-hardened troops, and come out the other side with barely a scratch. That level of endurance, that level of healing, was absurd, even for a tier eight mythic.
+
+Luckily, even Anthony didn’t seem to realise how extraordinary his own evolution had become.
+
+“If he reaches tier nine, even the Legion may not be able to deal with him,” Chyron muttered softly, turning back to look her two Tribunes in the eye. “Praetorian Armour is powerful, capable of battling even in the depths, but that ant cannot be allowed to double its power again. I don’t doubt it will prove to be successful in taking the fight to the Krath, it was before it evolved, but we have to find ways to restrict its ability to gain XP and Levels. I want the two of you to work on a strategy and report to me as soon as you have something.”
+
+Morrelia and Aurelis gave each other the side-eye. They didn’t particularly like each other, even still, and moments of genuine cooperation between them remained rare.
+
+After all, they were technically competing for promotion on the Officer’s fast track, something Aurelis had made clear he would never give up.
+
+“Of course, Commander,” Aurelis stated, smashing out a salute before Morrelia could get out a word. “We will have a strategy on your desk before the day is done.”
+
+Morrelia started. They would? How exactly were they going to prevent Anthony from doing whatever the heck he wanted to do? He’d made it perfectly clear he wasn’t going to allow anyone to put restrictions on where he could go and what he could do. The only people he was ever going to listen to were members of his own family and they were unlikely to ask him to restrict his movements in the fifth.
+
+If anything, they would do the opposite.
+
+Morrelia knew for a fact that Solant had been trying to get Anthony back into the fifth for days now, desperate to have him reinforce the Colony’s faltering front lines.
+
+“We will do our best, Commander,” she said firmly, snapping out a salute of her own.
+
+Chyron nodded, expecting nothing less from them, then turned back to keep walking, the three of them still trailing in the wake of the monster they had been sent here to kill.
+
+If that had been a long shot before, it was impossible now, and Morrelia couldn’t help but feel relieved that was the case. Anthony had made it perfectly clear that a five-thousand strong Legion wouldn’t be enough to kill him. To bring him down, something more would be needed.
+
+And if he managed to evolve just one more time? What could possibly hope to bring him down at that point?
+
+Morrelia suppressed a shiver. Tier nine monsters were mythical creatures to anyone who had experience in the Dungeon. Unable to rise to the fourth, they were almost unheard of, impossible beings of strength and power no human could ever hope to match. Down in the depths, the Legion’s finest contended with beasts such as those.
+
+Perhaps soon, Anthony would be down there among them.

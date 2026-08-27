@@ -1,0 +1,91 @@
+---
+id: 8fb1da7b-1988-5e38-8283-420c348da0ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1756 - Invasion!"
+slug: 0408-chapter-1756-invasion
+partOf: chrysalis
+position: 408
+ownLength: 986
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3186047/chapter-1756-invasion"
+royalRoadId: "3186047"
+---
+
+“We’re under attack!”
+
+“Impossible!”
+
+“The walls are cracking, you fool!”
+
+Zullz wanted nothing more than to consume the idiot he’d been put on watch with, but clearly this wasn’t the time to indulge in a fortifying snack.
+
+He had no idea what was occupying the scouts so much that they hadn’t bothered to report an assault approaching the Slimeground, but he hoped they were dead for it.
+
+“Wait here and see if you can see what’s happening,” he snapped to his moronic associate, “I’ll go and report to Sluthziss.”
+
+But, as Zullz went to turn, he realised his counterpart was already a dozen metres up the tunnel.
+
+“I’ll do it!” he called back as he vanished into the darkness.
+
+Zullz cursed and spat hot, boiling acid onto the nearby rock.
+
+“Smart enough when he wants to be,” he gurgled furiously. Now he was certain, when he got back to the Slimeground, he was going to eat that fool and he didn’t care if he got reprimanded for it.
+
+Once more the walls shook, threatening to dislodge Zullz from his position. He tightened the grip of his foot on the wall and tried to assess. Something rather large was ripping through the stone, and probably bashing into it to help loosen it. Could it be a random monster from the tunnels? If they caught a whiff of the Krath, some monsters would try to break into a Slimeground to try and feast on the slugs within.
+
+However, such creatures were usually diverted long before they came close to a Krath settlement. It was unthinkable that the scouts would be so lax in their duties they would endanger their safe haven from the tunnels. Had the ants invaded and destroyed the scouts? All of them?
+
+That didn’t make sense either!
+
+Fangs clenched, anger boiling away inside him, Zullz decided he had no choice but to investigate. Staying put could put him in danger, while reporting back to the Krath’sizz without anything to say was a certain death sentence.
+
+An experienced slug, he took the proper precautions, flattening out his body and camouflaging his skin, shrinking in and disguising the mana he contained. Only when he was certain he was completely hidden did the slug begin to descend the entrance to the Slimeground.
+
+A winding passage designed to trap even the slightest trace of scent escaping, the entrance was designed to prevent exactly this sort of thing from happening. Zullz had to be careful, since the rock around him began to crack and break faster and faster the farther he travelled.
+
+Finally, a section just below him fell away, revealing the extent of the damage. Whatever was doing this, it had reached halfway to the Slimeground already!
+
+Something monstrously large reached up, horrific jaws scything through the rock with contemptuous ease mere metres in front of Zullz’s face. Resisting the urge to exclaim in shock, he backed up the passage rapidly, trying to get a better look at whatever this was.
+
+A monster of some sort, obviously, but what? It didn’t look like anything he’d ever seen before, but that didn’t make sense, he knew every monster that inhabited these tunnels. Was this an invader from a lower stratum? Surely not, there wasn’t a wave!
+
+Again, the jaws cut through the stone, snapping through it as though it were soft fungus, forcing Zullz back. Then there was a pause. Concerned, he retreated a little further.
+
+Just in time.
+
+A colossal figure flashed into view and slammed against the wall with incredible force. The vibrations were so strong he was almost knocked straight off the wall, only holding his grip by a hair.
+
+The culprit was only in view for a brief moment, but that was enough for Zullz to identify the invader.
+
+An ant!
+
+Not just any ant, the biggest ant he had ever seen!
+
+Having what he needed, the Krath wasted no time turning around and retreating as fast as he possibly could. An ant assault? Here? It didn’t make any sense, how were they surviving inside the fifth, so far from their cursed blue mana?
+
+Pushing his foot to its limits, he raced as fast as he could through the winding, narrow passage, little more than a crack, until he reached the Slimeground.
+
+A force had already been gathered, and the Krath’sizz, Suzzil, was waiting at their head. A massive female with a short temper, even for a Krath, she wasn’t the type Zullz wanted to deliver bad news to, but he didn’t have much of a choice.
+
+“It’s the ants!” he gurbled after he squeezed through the entrance and unflattened himself. “A giant… a giant ant is ripping through the entrance. It knows we’re here!”
+
+“That shouldn’t be possible,” Suzzil spat, her eyes narrowing atop their stalks as she considered Zullz, trying to recover on the ground. “Did you see it for yourself?”
+
+He knew he was right to trust his instincts.
+
+“I did!” he confirmed. “A giant ant, enormous, possibly tier seven or eight, cutting through the rock and smashing its way towards us.”
+
+“Just one?”
+
+“Just one might be enough,” he said, then immediately regretted it when the Krath’sizz glared at him, her rage igniting.
+
+“Do you believe we can’t defeat a single ant?” she ground out, her skin beginning to bubble and hiss as her acid began to boil.
+
+“O-of course we can,” Zullz assured her, “how could we not? But there may be more, I only saw the one.”
+
+This may have been a newly established outpost, but it was filled with warriors. So far they’d been successful in preventing the ants’ attempts to spread their territory and had launched frequent raids towards the occupied tunnels. It wasn’t unreasonable for the Krath’sizz to have confidence.
+
+She watched him for a long moment, but the growing vibrations told of just how close the ant was getting.
+
+“Prepare to defend the Slimeground,” she snapped.

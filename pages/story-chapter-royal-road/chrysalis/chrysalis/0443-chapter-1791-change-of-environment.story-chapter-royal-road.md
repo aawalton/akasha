@@ -1,0 +1,99 @@
+---
+id: 4d648928-7f2c-56c8-81e9-fc869ecd3067
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1791 - Change of Environment"
+slug: 0443-chapter-1791-change-of-environment
+partOf: chrysalis
+position: 443
+ownLength: 878
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3384796/chapter-1791-change-of-environment"
+royalRoadId: "3384796"
+---
+
+“Is it really necessary to gather us for a full meeting at this stage of the campaign? Once the Eldest has cleared the obstruction below, can’t we move forward with the plan we already had in place?”
+
+It was fairly rare for Solant to gather all nineteen of her broodmates at the same time in recent months. As her most trusted advisors and those who understood her mind the best, there were none she could depend on more to ensure her plans were executed perfectly.
+
+Juliant had asked the question and it was a reasonable one. They had spent a great deal of time ensuring that Solant’s strategy was as foolproof as they could make it.
+
+“As is often the case when the Eldest is involved, circumstances in the lower tunnels appear to have changed.”
+
+Zhant, a mage, sipped her tea before folding her front legs together in contemplation.
+
+“We gamed out two hundred and thirty six different scenarios that could eventuate as a result of the Eldest’s involvement. I assume something has happened outside of even those predictions?”
+
+Solant nodded before taking a nibble of her cake. It was difficult to get confections within the fifth, even with the robust logistics network she had laboured over working flawlessly. However, for her precious siblings, she would conserve her rations and reclaim a delicious sponge, a recent favourite. Light and fluffy with just the right amount of vanilla in the cream, it made her antennae dance in delight with every bite.
+
+“As expected, no plan is sufficiently robust that it can survive contact with the Eldest,” she said.
+
+“How did you learn about this new development?” Leonidant asked. “As far as I know, there hasn’t been any contact with them since they left.”
+
+Solant tapped her head.
+
+“I received a direct communication from them.”
+
+How the Eldest managed to do that, even within the fifth, was something Solant really wanted to know, but of course the Eldest would never tell her.
+
+“So, what did the Eldest say?” Leonidant asked curiously.
+
+Solant hesitated, unsure of how to say this.
+
+“They said they may have caused a ‘Snot-pocalypse’ below.”
+
+There was silence around the table as each of the nineteen digested those words. Then, a bit more time passed, allowing for further silent contemplation.
+
+“A what?” Dunlant asked, thoroughly without patience for this nonsense.
+
+“I will repeat it if you really want me to,” Solant said reluctantly.
+
+“A… snot-pocalypse. What… what does that mean?”
+
+“I had similar questions. Although the Eldest was able to elucidate somewhat, I needed to send out scouts in order to gather more information.”
+
+“Scouts?” Washingtant demanded. “I haven’t heard anything of this.”
+
+“Time was of the essence, sister,” Solant explained herself. “Let us consult the map.”
+
+Much smaller than the full model held in the HQ, what she had here in her own private quarters only modelled the lowest levels of the fifth that had been mapped. Upon the return of the scouts, significant details had been added to this model, as they’d been able to access entirely unexplored terrain.
+
+“As you can see, the Krath had created enormous lakes of mucus that blocked off our access to the lower tunnels. According to the Eldest, it was extremely difficult to find a path through, but they succeeded eventually.”
+
+“This must be why they have been gone so long…”
+
+“Not entirely.”
+
+Solant leaned forward to point to specific areas of the model.
+
+“This chamber was once filled with mucus, almost to the brim, a quantity of thousands of megalitres.”
+
+One megalitre being a million litres. That was a lot of mucus.
+
+“Was?” Leonidant asked.
+
+“Was,” Solant confirmed. “It has now been drained entirely.”
+
+“So the Eldest was successful? They’ve cut open a path for us.”
+
+“Not entirely,” Solant repeated. Seeing there was some more to the story, her siblings sat back in their chairs, sipping tea and nibbling on cake.
+
+“Draining that lake has indeed dealt a severe blow to the Krath in the area, but that isn’t all. It has, apparently, unleashed a mucus feedback loop which is, as we speak, flooding an enormous amount of the lower tunnels and rising several kilometres up towards this fortress.”
+
+Each of her siblings was more than intelligent enough to grasp the gravity of such a situation.
+
+“Snot-pocalypse…” Washingtant breathed.
+
+“Indeed. This provides us with certain challenges, but also opportunities.”
+
+“The Krath are occupied,” Juliant pointed out.
+
+“Indeed,” Solant said, clacking her mandibles in satisfaction. “Our enemies are in desperate straits and in no position to meddle in our affairs. As long as we take appropriate measures, the rising tide of mucus shouldn’t threaten our infrastructure. In the meantime, we can prepare our advance. If things go well, we should be able to seize a vast swath of territory in one fell swoop, breaking the back of the slugs in this area and pushing through to the sixth.”
+
+An ambitious plan, no doubt, but one that she was certain could succeed.
+
+“Any chance of more tea?” Zhant asked hopefully. “I have a feeling we are going to be here for a while.”
+
+Solant rose from her seat, skittered to the next room and returned with a large teapot balanced on a heating tray.
+
+“I am always prepared,” she said.

@@ -1,0 +1,113 @@
+---
+id: 49f44c5d-4b4e-565a-8995-df54d7cf792e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1743 - Prophetic"
+slug: 0395-chapter-1743-prophetic
+partOf: chrysalis
+position: 395
+ownLength: 1006
+unit: words
+ownProgress: 1006
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3093091/chapter-1743-prophetic"
+royalRoadId: "3093091"
+markedReadAt: "2026-06-29T19:56:25.937Z"
+---
+
+Alright, Beyn was annoying as heck when he was just a Priest. Then he started leading pilgrimages, which weren’t all that distinguishable from crusades, if we’re being honest. I wasn’t a fan of that, especially since they were done in my name, and last time I checked I was just a shiny, awesome ant-monster and not a god, but fine, whatever floats your boat.
+
+Then he turned himself into a kind of ambassador guy, moving out in the world, helping with diplomacy and preaching his weird beliefs all over the Dungeon. Did I like that? No. Did it keep Beyn away from me? Yes. We all have to make sacrifices.
+
+More recently he’s returned to being a front-line preacher, working with his Priests and helping to embed them in the mixed force battalions being deployed in the fifth. Once Solant found out about that aura buff, she was never going into battle without it, I suppose.
+
+And now this one-armed bandit is trying to tell me he’s a prophet?! Specifically, my prophet?!
+
+I don’t like this one bit.
+
+“How in the name of heck are you my prophet? I don’t think that’s a title you can just bestow on yourself. I sure as heck didn’t give it to you!”
+
+Throwing himself into the dirt at my feet with rather more vigor than necessary, Beyn prostrates before me.
+
+“GREAT ONE, IT IS NOT A TITLE I BESTOW UPON MYSELF, BUT THE CLASS GRANTED UNTO ME BY THE SYSTEM!”
+
+What.
+
+“What exactly is this Class called? And keep it down, for goodness’ sake.”
+
+I have to clean my antennae. The pheromones are so absurdly thick in the air. One of the downsides of pheromonal communication is that he can still shout even with his face mashed into the floor. And I do mean mashed. That looks painful.
+
+“Prophet of the Colony, Great One.”
+
+Oh… no. Is Gandalf pulling some kind of prank on me? This is the last thing I wanted. This is only going to take this idiot’s delusions and blow them all out of proportion. It’s bad enough the nonsense he spreads all over the place, now he’ll be able to do it with even more authority. When other people find out about it, who knows how they’re going to react.
+
+Maybe there’s some way to save this.
+
+“What does your new Class allow you to do? Any clues from the System prompts?”
+
+Hopefully it’s nothing special. If the Class has a fancy name, but doesn’t do anything all that impressive, I might be able to limit the damage.
+
+“W-well… it says the… connection that blossoms between us will be strengthened.”
+
+It might sound as if he’s hesitant, but I can tell he’s just trembling from excitement. This man in front of me couldn’t possibly be happier. He’s overwhelmed with joy, brimming with zealous glee, filled with righteous light. The fact he’s this happy about it doesn’t bode well for me.
+
+Now, as to what he said, I’m even less of a fan.
+
+Our connection will be made stronger? What connection?!
+
+Wait… please tell me…
+
+I send my consciousness diving into the Nave. Beyn has had a seat in there for a long time, I’ve even used it to speak with him… once… maybe twice. Now, I zone in on his seat, except he’s not on a seat.
+
+No, he is now on a plinth. A plinth. And his ghostly outline is no longer the same as everyone else's, but glowing golden. That cannot be good.
+
+[Beyn, can you hear me?] I reach out to him through the Nave.
+
+[YES, GREAT ONE! I CAN!]
+
+[SHUT UP!]
+
+He grovels harder in apology while I shake my head. That hurts, dammit. Although… something is different here. He spoke back to me. Normally I can understand what someone is saying through the Nave because it acts as a collection point for their will. I can read their thoughts… to a very limited degree.
+
+This guy just spoke back to me, straight through the Nave itself. Which means… he can talk to me whenever he wants to….
+
+Oh… oh no.
+
+“It seems like nothing has changed on my end,” I cough. “Not really sure what that might mean. Probably nothing and not special in any way. Is there anything else it can do?”
+
+“Great One! It says I can speak with your voice.”
+
+“You can what now?”
+
+“Or perhaps, you can speak through me?”
+
+Oh, he would love that. I’m reluctant to try it, simply because if it turns out to be true, he’s going to become insufferable. Surely not though. I reach out through the Nave, pushing my consciousness into it.
+
+Beyn shakes on the ground, his face still pressed into the floor.
+
+“Ah… ah… ah…” he says. “I don’t remember… GAH… how tongues work. So weird.”
+
+Yuck! That leaves a bad taste in my mouth.
+
+So… I actually can speak through him. That’s… pretty useless… and really weird.
+
+Beyn’s gone still, but I can see water pooling on the ground under his face. That’s an awful lot of tears for one man to cry.
+
+“Well if that’s all your Class can do, then it’s not that big of a deal. No need to be too excited.”
+
+Beyn lifts his head, just long enough to brush the tears away from his eyes.
+
+“There is one more thing it says, Great One. It says that I have become a living conduit for belief.”
+
+What? That would mean…
+
+Back into the Nave once more, my mind wrapping around the plinth upon which Beyn stands, looking smug and annoying.
+
+There is… something emanating from it. Something different than the Will that flows through the Vestibule is coming through. Is this… belief? Faith?
+
+Oh… I do not like that.
+
+“I can feel you… Great One… my god,” Beyn weeps into the Dungeon floor.
+
+All the other Priests in the room crash to their knees and smack their faces into the floor with great vigour.
+
+Reflexively, I clean my antennae. This… this is bad.

@@ -1,0 +1,45 @@
+---
+id: 9e3a4831-1bd2-5f1d-a186-18d29eb3d2dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1805 - Quick Bout of Mutatin'"
+slug: 0458-chapter-1805-quick-bout-of-mutatin
+partOf: chrysalis
+position: 458
+ownLength: 975
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3476020/chapter-1805-quick-bout-of-mutatin"
+royalRoadId: "3476020"
+---
+
+Of course, after a meal of Biomass, I have a few points to spend, so I should upgrade an organ or two while I have a chance. Building up any decent supply of Biomass has been a constant pain in the fifth stratum, and that problem has only escalated since I evolved.
+
+The Colony is doing a wonderful job funneling a seemingly unending supply of food for the millions of ants now active in the fifth, largely farmed from the fourth and third, but there really aren't enough highly evolved monsters to supply me with a meaningful amount of points to spend. For a change, I have to hoard and be conservative with my spending, just in case something comes up that I really need. After all, I have a whole lot of mutations to make and not a single part of my body is fully upgraded to +40 right now. Interestingly, the Colony has started to lean harder on locally farmed monsters, setting up locations within the conquered territory from which they can extract monsters at an accelerated pace.
+
+My earlier development of the initial farming technology has been taken by my siblings and engineered to an unthinkable degree. Masters of shaping the Dungeon at this point, they know exactly how to warp and weave a chamber to create spawn points, letting the mana puddle and pool into the right concentrations to maximise efficiency. As a result, they are able to extract the maximum amount of monsters per cubic metre of space. Research is ongoing into the real native monsters of the fifth, but they certainly are nutritious, in terms of the amount of Biomass they provide.
+
+Most of what I have managed to accumulate has come from that source.
+
+So, what to mutate? I'm tempted to start mutating my newly acquired organs, since they're still at 0. The industrial district is, frighteningly, still unevolved, but I'm almost hesitant to invest in it right now. Its destructive economic power is already fearsome in the extreme, the produce simply irresistible and abundant. If I were to mutate it even to +15 I'm concerned as to what might happen. Nothing good for whoever I shoot it at, that's for sure.
+
+I'm certainly familiar with having weapons that are just as likely to endanger myself as they are my opponents, but the acid tips the balance a little too far towards hurting myself. After all, most of the monsters down here are resistant to acid, putting it mildly. Phrasing it more accurately, they were literally spawned in acid baths strong enough to melt human bones in a matter of seconds. I, on the other hand, was not.
+
+Instead, I turn my attention towards the Pure Core. I've already mutated it to +15 and the effect has been more than welcome, helping to absorb and purge the infectious mana that seeps into me, freeing up mental resources to work on other things and giving an immense amount of peace of mind. With the strange, suspicious business of the chal messing with it, I'm inclined to invest in it further. After all, the very bottom of the fifth is where the mana will be at its most concentrated. Protection against the infection will be more important than ever.
+
+Alright then, what upgrades are available for the Pure Core? I'll take it all the way to +30, which will just about exhaust my Biomass supply. Maybe it won't make that much of a difference, but I'm betting that it will.
+
+So, what's on the list? The first option I took simply made it more efficient, which was good, but for the second, I wonder if there is anything more spicy I can uncover. I take a look, rolling through the various options before I find something a little interesting.
+
+[Singing Core - Enhance the connection of the core to the Choir.]
+
+Well, it isn't hard to figure out who or what 'the Choir' must be. Those snails did something to the core and it's even shown up within the list of mutation options. How they managed to do that is a mystery. How they even knew that they could is an even greater one. On a human timeline, those snails are basically infants! Not even a year old! Just because they have dignified moustaches doesn't mean they are old and wise, they don't even qualify as kids yet! They're babies!
+
+So how in the name of heck do they know how to use the power that they hold? Genetic knowledge? Inborn instincts? Maybe the purification process had some influence? Or perhaps the Krath have an extended egg time and emerge at a more advanced state than a human would? Regardless, the chal have a wisdom that, while not worthy of their moustaches, is still ahead of their time.
+
+Fine, I'll play your game, snails.
+
+I select the option, take it again at +25 and reinforce it at +30, tripling down on it. Taking a careful glance around the chamber I'm in, I realise that I'm far from alone. As a result, I'm forced to ask Crinis to implement 'Operation Shade Blanket' before confirming my mutations and enduring the deeply irritating itch. At least it's only the one, relatively small organ this time. I don't even end up wriggling around on my back while the mutation takes place, a small victory over Gandalf and his evil ways.
+
+Once the mutation is complete, the soft song of the snails, already ringing throughout my frame, intensifies several times over. It's a little distracting, but mainly because of how incredibly beautiful the song is. Those snails have got some serious pipes.
+
+What effect this mutation will have, I'm not sure, but at least I won't feel lonely out in the gunk while I have this delightful soundtrack to accompany me. Alright, time to move!

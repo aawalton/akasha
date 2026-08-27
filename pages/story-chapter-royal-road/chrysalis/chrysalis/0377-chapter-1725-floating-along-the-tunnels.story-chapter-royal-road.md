@@ -1,0 +1,89 @@
+---
+id: 62ff59a6-4848-508e-ad61-877eec33f7ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1725 - Floating Along the Tunnels"
+slug: 0377-chapter-1725-floating-along-the-tunnels
+partOf: chrysalis
+position: 377
+ownLength: 898
+unit: words
+ownProgress: 898
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3003381/chapter-1725-floating-along-the-tunnels"
+royalRoadId: "3003381"
+markedReadAt: "2026-06-29T19:55:51.825Z"
+---
+
+Once again, I’m back out into the tunnels. For the fun of it, I’m deploying my submarine technique, even though it’s not particularly necessary. There’s just something satisfying about floating along, my legs tucked up under my carapace. I can almost imagine the sonar pinging sound ringing out from my antennae and bouncing off the tunnel walls.
+
+Am I also satisfied at the way most monsters don’t realise I’m coming, then turn and flee when they catch sight of me?
+
+Maybe. Could I really say one way or the other?
+
+This time, however, I’m not leaving the nest on my own. Two battalions of ants and their non-insect support troops are with me, including dozens of priests. I’m making sure I stay well ahead of the priests….
+
+More importantly, I have Tiny and Invidia along for the ride, not just Crinis.
+
+I’m hoping that when we get down to the fifth, or, more likely, the sixth, that I’ll be able to start power levelling the three of them so that they too can reach the eighth tier. I can barely imagine how strong they will be with full mythic evolutions.
+
+Perhaps I’d become the first person/monster to have three tier eight mythic pets, which is a nice thought. We’ll need to be that strong if we want to thrive as we go deeper. I expect the fifth is going to be more challenging than it was the last time I was there, but in my mind, I’m already looking forward to what lies beyond. A hidden world that almost nobody on Pangera has ever seen. Total victory over the slugs will be finally breaking through the wall they’ve presented for century after century.
+
+Once that happens, the world will be a different place than it was before.
+
+[So….] Tiny says to me. [... not… smash?]
+
+[You can hit them,] I tell him, frustrated, [but you have to try not to actually kill anyone.]
+
+[So…] he says, thoughts still trailing, [not hit… hard?]
+
+I can tell he thinks the idea is completely ridiculous. Hitting something with less than the full strength he’s capable of must seem like an almost disrespectful thing to do.
+
+How do I get this through to him… in a way that he can understand? I’m going to need his help in the battle to come, I’m fairly sure of it, but I can’t have him annihilating swathes of people and then expect there to be some sort of peaceful resolution afterwards. Key to my strategy is that we annoy and irritate our opponents, frustrate and confound them, but do not make them so angry they don’t care about the exorbitant cost of continuing the conflict with us.
+
+If we do too much damage, cause too much trouble, then the people of Green Mountain might decide to seek vengeance, regardless of what it takes, in which case we’ll be drawn into a protracted war that will leave us and them significantly weaker.
+
+That is not what I want!
+
+What I want is for Green Mountain to snatch its hand back like a child who reached a little too close to the fire.
+
+[Look, just… think of it as sparring, right?]
+
+[... Sparring?]
+
+[It’s… teaching. You’re going to be teaching them about your special brand of ape-boxing. So you can hit them, but only for the purpose of showing them… how great you are at hitting things. If you squish them all, they won’t be able to remember the lesson you taught them, right?]
+
+Tiny thinks about this for a moment.
+
+[Ape-boxing… good,] he says finally, nodding to himself.
+
+[Exactly! And you want to make sure they appreciate how good it is, right?]
+
+He thinks about this some more… then nods again.
+
+[Right.]
+
+[So, just this once, I need you to do some sparring, some teaching. Just… put them to sleep, alright?]
+
+Bounding along beside me, I can tell the big ape isn’t quite all the way on board, but he’s starting to warm up to the idea.
+
+[What about me, Master?] Crinis asks, mainly for attention, I think.
+
+[You?! You better behave yourself. Is it even possible for you to fight without inflicting unspeakable horrors upon your enemies?]
+
+[Well… maybe I could just inflict some… minor unspeakable horrors?]
+
+[No!]
+
+Goodness gracious. Crinis would certainly put fear into them, but a sea of dismembered bodies isn’t the sort of thing they would be likely to forgive. The mileage the Church of the Path would get out of that sort of thing… I can barely imagine.
+
+[How about your Curse Magic?] I ask her instead. [Haven’t you been working on that for a long time?]
+
+[I have,] Crinis says brightly. [Am I allowed to use it?]
+
+[Sure. Absolutely. Use that instead of doing… what you normally do. That’ll be much better.]
+
+Crinis falls silent, satisfied with what I’ve had to say, and I feel some relief. Just thinking about what she could do to some people with those tentacles of hers… it doesn’t bear thinking about it. I can barely watch when she does it to monsters. No… a little Curse Magic will be much better.
+
+Well… I think.
+
+Now that I think about it, I don’t really recall what Curse Magic is actually capable of. I shake off the thought. No point worrying about it, there’s no way it can be worse than what she normally does.

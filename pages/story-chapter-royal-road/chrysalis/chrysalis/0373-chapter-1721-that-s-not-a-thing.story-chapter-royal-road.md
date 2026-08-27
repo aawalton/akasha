@@ -1,0 +1,87 @@
+---
+id: 14d44213-1bd0-54ab-8a8e-d2c994906139
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1721 - That’s Not A Thing"
+slug: 0373-chapter-1721-that-s-not-a-thing
+partOf: chrysalis
+position: 373
+ownLength: 1259
+unit: words
+ownProgress: 1259
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2982948/chapter-1721-thats-not-a-thing"
+royalRoadId: "2982948"
+markedReadAt: "2026-06-29T19:55:44.259Z"
+---
+
+How were we supposed to know they would turn on us? After so long, fighting side by side, building up our communities together. We trusted them. They trusted us.
+
+Even though they told me why, I still can’t wrap my head around it. It’s madness. The whole world is mad.
+
+-           Excerpt from the private notes of a lost brathian Satrap.
+
+Nice to be back in the nest once more. A chance to stretch my legs and catch up on a little sleep, always welcome. I also managed to convince Solant to give me a little more support for this next bit of the plan, which is nice.
+
+Well, I just walked up to a few battalions and told them to follow me, but I’m sure it’ll be fine. To be honest, if she failed to account for me doing that, I’ll be disappointed in her planning abilities. I also have the human priests working alongside the ants, providing their helpful aura buff.
+
+“WE ARE NOT WORTHY OF YOUR LIGHT, GREAT ONE!”
+
+It would be better if they weren’t so noisy. Beyn seems to get worse with time, not better. He by himself is bad enough, but of course, he’s never alone. There’s a whole chorus line of them, with their flashy robes, incense, mandible clackers and scarily intense gazes.
+
+I’m just trying to sleep over here!
+
+“We bow down in supplication!” the priests declare in a sonorous chant.
+
+“THE TRUE PATH IS REVEALED BY YOUR GLORY! WE WEEP WITH JOY TO TREAD UPON IT!”
+
+“Endless joy! Endless joy!”
+
+They’ve been at it for hours now. I have no idea how their vocal cords manage to hold up for so long. Just another drawback of useless, vocal communication. Pheromone superiority has never been more apparent.
+
+Well, while I’m ignoring them, I’ve decided to spend a little time working on the second of my new, mysterious organs. The Everflowing Well of Living Waters is a heck of a name for an organ. I’ve been reluctant to test it too much, since I’ve been a little nervous about the whole liquid mana thing. Like, is it even safe for me to have that stuff inside my body?
+
+Better to check here in the nest where it’s safer.
+
+Ignoring the never ending display of uncomfortable levels of devotion taking place nearby, I turn my focus inwards, onto my new organ.
+
+It doesn’t look like much, a ring of blue-ish… almost spongy material. Sort of like a porous type of rock. It’s probably about the right size for a human to wear it as a rather unfashionable hat. Considering the amount of evolutionary energy tied up in the thing, I would have expected it to be much larger.
+
+Tentatively, I extend a sliver of mana from my core towards it. I’m not sure what I think is going to happen when they make contact, but… here it goes!
+
+Inwardly flinching away, the mana swirls into the Well and… vanishes. As hard as I try to sense any activity from the ring, there is nothing going on. I can’t even sense the mana that I put in there! Where the heck did it go?!
+
+Suspicious, I send another wisp of mana toward the organ, only to watch as that too vanishes into nothing!
+
+Dammit!
+
+This thing is supposed to pour out more mana than what I put in, not consume everything I give it and disappear it into the void! Where in the name of heck is it putting my sweet, sweet mana?!
+
+Growing irritated, I feed it a larger packet of mana. I really was only giving it a hint of a waft of energy, perhaps it’s simply not enough for the thing to get going. A more healthy, though still small, amount of mana comes into contact with the organ and… is gone just as quickly as the rest.
+
+Alright… fine. FINE!
+
+Clearly, either the organ is defective, or there is a minimum amount of mana it needs to take in before it starts to push any out. I can deal with that. I’d been hoping this wasn’t the case so I could experiment with small amounts of energy, avoid taking any risks, but it seems as though that isn’t going to be an option.
+
+Resigned to my fate, I start drawing out a steady flow of mana from my core and feeding it straight into the Well, watching carefully the entire time. As far as my mana sense is concerned, the energy I push into the organ straight up vanishes into nothing, and by the time my core is half empty, I’m still not seeing any return.
+
+Rather than keep draining my own reserve of energy, which I need to keep high, seeing as I’m leaking mana in the fourth, I turn my attention to external sources. I’ve been vacuuming in energy at a pretty steady rate to keep myself topped off, but I increase my efforts and direct a good chunk of that mana into the new organ.
+
+More and more mana is sucked into the ring and still nothing comes out. I’m on the verge of giving up and complaining to Granin about this dud of a purchase when finally I get a response.
+
+It’s almost nothing, a very faint response in my mana sense, but I’m actually getting something from the organ. It continues to suck in mana, and that faint response begins to build, increasing in pace as time goes by. Soon, I can feel what is going on in there.
+
+Clinging to the surface of the Everflowing Well is an incredibly thin layer of super condensed energy. Liquid mana. I can literally feel the organ heat up in my body as it starts to spit out more and more of the stuff.
+
+And it is dense. Taking hold of it with my mind is difficult, more than ten times as hard as working with regular mana. When I direct it into my core, it just drinks it in, rapidly refilling my reserves.
+
+And more is coming!
+
+Much like the regeneration network, it seems this organ works on an exponential basis, spitting out more energy the longer the process goes on. However, that’s not all. As the minutes tick past, I can feel the reaction inside the well running out of steam. It’s sputtering, as if demanding I put in more mana to sustain the increasing level of output.
+
+Instead, I cut off the flow completely and observe as the organ begins to cool down once more. It still produces more liquid mana, but in rapidly reducing quantities until it goes inert once more. Coated in perhaps a centimetre-thick layer of liquid mana, the ring has produced quite a bit more energy than what I put into it, but I know that if I kept feeding it and pushing the reaction further, it would have created much, much more.
+
+Well, this is interesting. The output increases in scale, but so do the demands. I need to feed it more and more energy as time goes by in order to sustain it, and it will create more and more mana as I do so. Obviously, the liquid mana it produces can just be pushed back into the organ, I don’t need to use energy from my core or external sources.
+
+This… I think this is absolutely absurd. I haven’t even mutated it yet!
+
+The more I think about it, the more I think there has to be a catch. Otherwise, this is just an unlimited source of mana.

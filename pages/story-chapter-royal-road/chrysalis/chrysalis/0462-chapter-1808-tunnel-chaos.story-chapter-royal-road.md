@@ -1,0 +1,39 @@
+---
+id: cccdc40f-60bc-5dcd-a017-939b81f6b639
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1808 - Tunnel Chaos"
+slug: 0462-chapter-1808-tunnel-chaos
+partOf: chrysalis
+position: 462
+ownLength: 793
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3490351/chapter-1808-tunnel-chaos"
+royalRoadId: "3490351"
+---
+
+Holy moly but things are spicy down here! Pulsating walls of diseased flesh surround me on all sides while living ropes of ooze try to lash onto me and drag me back towards the parasitic mouth that had somehow embedded itself into the meat of the tunnel. Maybe it was the tunnel? I call on the Altar and empower my Dash, launching myself forward at an absurd speed, the world blurring to nothing in my eyes and my legs screaming in pain. Thankfully there's enough regeneration fluid in my system to bring me back from the dead, which should repair the damage to my joints soon enough.
+
+So long as I don't try another empowered Dash in the near future, I'll be fine. Realistically, I can't use another empowered Dash for at least a few minutes. I'm out here on my own and these tunnels are wild. Losing my legs and bringing out the backups is not an option.
+
+I break free from the slime chains that are trying to hold me back, ripping them apart and leaving the giant mouth in the wall gnashing in despair. I don't have time to give it a satisfying bout of mockery, because I just don't have the time. In the brief moment while I rest my aching legs, letting them heal before I start running again, there is already a plethora of monsters trying to nom on my carapace. The deeper I get, the less intimidated by me the locals become.
+
+Well, that's not actually true, it isn't that they're not intimidated by me, there's just a much higher number of monsters who are strong enough to feel like they can have a go.
+
+Speaking of, no sooner have I broken free of the wall mouth than a crab snail the size of a two-storey house decides I look delicious and rushes over, chittering and slobbering in equal measure. Its claws gnash while its eyes twist towards me from atop their stalks, hungry for the fight.
+
+I, on the other hand, am not hungry for the fight. I need to keep moving!
+
+Starcrusher. Empowered by the Altar, of course.
+
+As the burning sphere of light manifests between my dark mandibles and the searing heat begins to emanate out, my snail friend thinks better of their decisions and pulls inside their shell. As much as I agree that having a carapace is a wise and sensible decision, you've picked the wrong target for your appetite today. My jaws slam shut and the world before me is enveloped with fire and light. No matter how many times I see it, the explosion is always so much more vicious than I expect it to be. Even down here, where things aren't all that vulnerable to fire or explosions, the effect is stunning.
+
+I haven't defeated the snail crab, but it's fairly sizzling inside its shell, I can hear it. If I stick around to try and fight it, though, another three just like it are going to come slithering out of the woodwork. Which would be less than ideal. If I keep using the Altar, I'm going to run out of juice, which would be a rather nasty situation.
+
+Flexing my legs, I find that they're much better than they were, the healing really kicking in already. In another moment, I'm off and running, my antennae sweeping through the air as I try to sniff out the most likely splits in the tunnel to take.
+
+As I get deeper, the mana becomes even more toxic, something that I didn't think was possible. The sights and sounds of the tunnels down here are so awful that I once again feel the pain of not having eyelids so I can close my eyes. I don't want to see this, I don't want to remember it. I thought the lungs were as gross as things were going to get in here, but holy moly, there are somehow new depths of disease and contagion to be plumbed.
+
+At all times, I'm trying to keep the projected paths of the Colony's tunnels in mind as I continue my madcap run to the depths. It's not easy, since I can't be certain exactly where they're going to dig, but I need to make sure I'm in the general area so that any path through I do find is usable. To be honest, I'm a little surprised I haven't run into mucus-filled tunnels yet. It must have spilled over somewhere and started making its way down, so there must be tunnels nearby that are full of goop.
+
+Taking a turn, I feel the Call yank even harder on my soul and I twitch in surprise. It's close. Very close. The sixth, it's not far away!
