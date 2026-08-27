@@ -1,6 +1,5 @@
 
 import { join } from "node:path"
-import { codeModule } from "./code-import.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const COMPILER_PACKAGE = "lua-compiler"
@@ -33,8 +32,4 @@ export function tstlCommand(
     luaPluginsArgument(root),
     ...extra,
   ]
-}
-
-export function tstlModule<T>(ref: string, root: string = tstlRoot()): Promise<T> {
-  return codeModule<T>(ref, root)
 }
