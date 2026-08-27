@@ -12,7 +12,7 @@ import {
 } from "../lib/k8s-node-selector.ts"
 
 const baseAttrs = (over: Partial<ManifestNodeAttrs>): ManifestNodeAttrs => ({
-  path: "packages/foo/k8s/dep.yaml",
+  path: "foo/k8s/dep.yaml",
   kind: "Deployment",
   name: "app",
   hasPodTemplate: true,
@@ -112,13 +112,13 @@ const WORKLOAD_CLASS_HYPHENATED_MEMBER_LITERAL = `"${["alanwalton.com", "workloa
 describe("scanTsContent — ts-literal rule (extended to workload-class key)", () => {
   test("flags the hostname literal outside hostnames.ts (existing behavior)", () => {
     const content = `const x = { ${HOSTNAME_LITERAL}: "node-02" }\n`
-    const v = scanTsContent(content, "packages/foo/synth.ts")
+    const v = scanTsContent(content, "foo/synth.ts")
     expect(v.map((violation) => violation.kind)).toEqual(["ts-literal"])
   })
 
   test("flags the workload-class literal outside hostnames.ts (new behavior)", () => {
     const content = `const x = { ${WORKLOAD_CLASS_LITERAL}: "database" }\n`
-    const v = scanTsContent(content, "packages/foo/synth.ts")
+    const v = scanTsContent(content, "foo/synth.ts")
     expect(v.map((violation) => violation.kind)).toEqual(["ts-literal"])
   })
 
@@ -130,7 +130,7 @@ describe("scanTsContent — ts-literal rule (extended to workload-class key)", (
 
   test("flags the dotted membership literal outside hostnames.ts (new #11608 behavior)", () => {
     const content = `const x = ${WORKLOAD_CLASS_MEMBER_LITERAL}\n`
-    const v = scanTsContent(content, "packages/infra/k8s/src/postgres/cnpg-cluster.ts")
+    const v = scanTsContent(content, "infra/k8s/src/postgres/cnpg-cluster.ts")
     expect(v.map((violation) => violation.kind)).toEqual(["ts-literal"])
   })
 
@@ -142,7 +142,7 @@ describe("scanTsContent — ts-literal rule (extended to workload-class key)", (
 
   test("flags a hyphenated membership literal outside hostnames.ts", () => {
     const content = `const x = { ${WORKLOAD_CLASS_HYPHENATED_MEMBER_LITERAL}: "true" }\n`
-    const v = scanTsContent(content, "packages/foo/synth.ts")
+    const v = scanTsContent(content, "foo/synth.ts")
     expect(v.map((violation) => violation.kind)).toEqual(["ts-literal"])
   })
 
@@ -235,19 +235,19 @@ describe("scanTsNodeName — the TS surface (builders that emit no yaml)", () =>
   ].join("\n")
 
   test("flags a pod-spec nodeName in a module that builds a pod spec", () => {
-    const v = scanTsNodeName(POD_SPEC, "packages/infra/upscale/k8s/serving-job.ts")
+    const v = scanTsNodeName(POD_SPEC, "infra/upscale/k8s/serving-job.ts")
     expect(v.map((x) => x.kind)).toEqual(["ts-node-name"])
   })
 
-  test("reaches a module outside packages/infra, judged like the platform's", () => {
-    const v = scanTsNodeName(POD_SPEC, "packages/alanwalton/web/deploy/k8s/synth.ts")
+  test("reaches a module outside infra/, judged like the platform's", () => {
+    const v = scanTsNodeName(POD_SPEC, "alanwalton/web/deploy/k8s/synth.ts")
     expect(v.map((x) => x.kind)).toEqual(["ts-node-name"])
   })
 
   test("ignores a module that builds no pod spec", () => {
     const v = scanTsNodeName(
       "          nodeName: NODE,",
-      "packages/infra/ci/orchestrator/src/ci-pod-dispatcher/launch-builder.ts"
+      "tools/lib/ci-pod-dispatcher/launch-builder.ts"
     )
     expect(v).toEqual([])
   })
@@ -259,20 +259,20 @@ describe("scanTsNodeName — the TS surface (builders that emit no yaml)", () =>
       "    containers:",
       "      - name: c",
     ].join("\n")
-    const v = scanTsNodeName(yamlText, "packages/infra/k8s-types/src/fixture-source.ts")
+    const v = scanTsNodeName(yamlText, "infra/k8s-types/src/fixture-source.ts")
     expect(v).toEqual([])
   })
 
   test("a fixture pod spec in a test module is out of scope", () => {
     const v = scanTsNodeName(
       POD_SPEC,
-      "packages/infra/ci/orchestrator/src/ci-pod-dispatcher/node-capacity.unit.test.ts"
+      "tools/lib/ci-pod-dispatcher/node-capacity.unit.test.ts"
     )
     expect(v).toEqual([])
   })
 
   test("ignores the tracked voice-infer exception", () => {
-    const v = scanTsNodeName(POD_SPEC, "packages/infra/voice-infer/k8s/synth.ts")
+    const v = scanTsNodeName(POD_SPEC, "infra/voice-infer/k8s/synth.ts")
     expect(v).toEqual([])
   })
 
@@ -283,7 +283,7 @@ describe("scanTsNodeName — the TS surface (builders that emit no yaml)", () =>
       '          { name: "NODE", valueFrom: { fieldRef: { fieldPath: "spec.nodeName" } } },',
       "          containers: [",
     ].join("\n")
-    const v = scanTsNodeName(content, "packages/infra/loki/service/k8s/synth-promtail.ts")
+    const v = scanTsNodeName(content, "infra/loki-service/k8s/synth-promtail.ts")
     expect(v).toEqual([])
   })
 })
