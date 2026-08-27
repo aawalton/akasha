@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: athena-agent-harness
 errand: "Could you assign all the child initiatives of aine-global to their corresponding seats? Those got disconnected in the refactoring"
 registration-account: aawalton
 claude-code-session-uuid: ca32b724-342d-4288-9b00-0a40dea2a919
