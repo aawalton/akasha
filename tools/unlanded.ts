@@ -1,6 +1,6 @@
 export const tool = {
   summary: "List every page written to a repo but not yet committed, with the writer that wrote it",
-  repos: ["akasha"],
+  path: "page unlanded",
 } as const
 
 import { STALL_ATTEMPTS } from "./lib/page-commit-queue.ts"
