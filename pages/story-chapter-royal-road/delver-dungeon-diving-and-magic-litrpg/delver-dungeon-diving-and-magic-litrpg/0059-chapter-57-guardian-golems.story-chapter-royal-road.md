@@ -1,0 +1,161 @@
+---
+id: 65118af1-6778-5f65-92b2-ac88e62e8456
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: Guardian Golems"
+slug: 0059-chapter-57-guardian-golems
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 59
+ownLength: 2418
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3873407/chapter-57-guardian-golems"
+royalRoadId: "3873407"
+---
+
+Demons are incredibly varied creatures, from parasites that can possess a living host, to almost-human monsters. As the Oathsworn have taught us, there is no such thing as inherent evil, but a demon is something that has given in to its base desires, given in to the dark thoughts that plague every creature. They will cause pain, simply because they do not care to listen to their empathy. They will feed, because it satisfies their cruelest hunger. They may not be inherently evil, but they have given in to the darkness.
+
+The Infernal, by High Priest Storm, Chapter 2 Page 1
+
+Shar flies overhead marking the path as we walk under the canopy. Commander Vakar and the four Dralk under him spread out around us, moving through the forest with practiced silence. I suspect a skill of some kind is in effect, covering the whole group.
+
+My delving party is in their usual positions with Grildor taking point, Daron and Keve watching our backs.
+
+Soon enough, we arrive at the doorway, familiar vines reaching down to cover it. I motion for everyone to gather, and Commander Vakar walks over, his people moving closer. I need to remember to ask Shar what their classes are.
+
+“The first few rooms were safe, but there’s always the possibility that’s changed. I’ll give a heads up when we’re moving into more dangerous territory. Stay close, and be wary of reaver webs. They’ve infested one of the deeper levels.” I look over to the Dralk accompanying us, “Wait to engage any of the more dangerous beasts. Tanya here is our Druid. If things get scrappy, prioritize her and our mage’s safety.” I motion towards Eyla with my hand, then pause as I meet Vakar’s eyes. “I need your people to listen to me without question in an emergency, can you guarantee that?”
+
+The Commander nods. “We are here to prove ourselves.”
+
+I smile, then motion towards Tanya, “Can you get the vines to move for us?”
+
+She nods, then steps up to the vines. They slowly move away from the door, allowing us entry.
+
+I pull out my metal ball, then send it on the path ahead of us. There weren’t any traps last time, but it’s always possible to miss something. I hand a light stone to Daron, who watches our rear, then hold my own up, leading the group down. The hall is wide enough to have three of us walk side by side, so Commander Vakar and Grildor walk beside me, both of them ready to pull their weapons.
+
+Grildor’s armor is quieter than it should be, and I glance over to see an interesting sheen to it. I pause at the top of the steps as the metal ball clunks down the stairs.
+
+Grildor notices my gaze on his armor, and nods, only his eyes visible behind his helmet. “Tanya whipped some’ing up to keep me quiet.”
+
+I nod. It’s a smart idea.
+
+The thumps stop at the bottom of the stairs, and our party of twelve goes down.
+
+Two familiar statues greet us at the bottom, Oathsworn Levis, an owl on his arm, and Reaper Yon, his hands held up as blood travels down them.
+
+I study the room, then make my way to where the runes hide the entrance deeper. A vial blue powder is pulled from my pack’s pocket, and I blow it on the wall before I use my skill [Deactivate Runes].
+
+The others explore the room, studying the statues as I finish my work.
+
+With a groan, the wall pulls back, revealing the dark room. I step in, and it lights up, red runes spreading across and highlighting the two golems that guard the next door. One of the golems rises to his full height.
+
+His gaze meets mine as the rest of my party makes their way through.
+
+“Honored Guardian, I am Leo, Blessed Of Sehara. I have returned with a party so that we may continue the fight against the Crows.”
+
+The golem looks over every single one of us, then he kneels. “You and your party are welcome, Leo, Blessed of Sehara. Still, I must remind you, the secrets within are not meant for the eyes of the unworthy.”
+
+I bow to the golem, “I will ensure that the secrets are seen only by those who must know.”
+
+He inclines his head ever so slightly.
+
+I motion for the others to continue onward, then pause my gaze on the second golem that hasn’t moved. He hadn’t activated the last time we’d been through. “Honored Guardian, is your companion in need of repair?”
+
+The golem raises his head, then nods, “She has not woken for many years.”
+
+I whistle, and Shar walks over in her cat form. “Lead the others into the next room, don’t let them open the door onwards. I’m going to see if I can repair the second one.”
+
+Shar nods.
+
+I raise my voice, addressing Commander Vakar and Libby, “Shar will show you into the next room. Follow her word. I’m going to see if I can repair the second golem.”
+
+Both of the leaders nod, then everyone moves on to the next room. Eyla glances back with curiosity, but I motion for her to continue on.
+
+I make my way over to the golem that hadn’t activated, “Can you expose her circuits for me?” I ask as I take my pack off and search through it for my Circuitry Pen.
+
+The other golem hesitates, then walks over. With a gentle click, it exposes the inner circuitry.
+
+It’s complicated, but not as bad as the Archmage’s golems. The circuitry is large, rather than complex, which means I’ll need a lot more mana.
+
+I grab one of the potions Tanya had prepared for me from my bag. After a second of hesitation, I grab the second one. I hate to run through them so fast. Some of the circuitry looks aligned, but the aligned bits don’t seem too core for the golem’s functionality. I’ll have to come back when I figure out how to make aligned ink, or when my profession gives me another tool.
+
+“Make sure nothing disrupts me.” I tell the active golem, then cast See History Of Object.
+
+The spell circles form in the air, unfamiliar runes marking them, then the time around the inactive golem reverses. Damaged circuits repair, returning to what they once were, mana traveling through them without issue.
+
+I hold my pen up, studying the circuitry. There was more aligned circuitry than I first thought, but I think I can still repair her to basic functionality. Thankfully, it’s larger circuitry, none of the incredibly intricate stuff that would require a finer pen. I wonder if those are just a mark of the Archmage’s golems, or if they add some kind of functionality.
+
+Mana flows through me as I start drawing, ink follows my pen, leaving a path as I trace over how it once used to be. Halfway through, I’m forced to pause to down one of the potions. I continue, my hands steady, and slow. I have to move slower for the larger circuitry, giving the ink time to spread.
+
+I finish the largest circuit, then down the second mana potion with a grimace. This time the mana hits me like a hammer, making me sway slightly before I push it into the pen. Skipping over the aligned portions means that she’s going to have to be careful with her mana circulation, if she tries to do too much, I think it could see her burning out her circuits. I’ll have to read up to see if there’s a way to bypass that for my next repair. I don’t like being so wasteful of mana.
+
+My pen finishes with a swish, and I pull back. My mana’s low, but not out.
+
+For the final touch, just a little mana to get her natural mana-gathering to work. I press into the largest circuit, then push my mana in.
+
+The mana flows through her circuitry in a pulse.
+
+Then quiet.
+
+Another pulse of mana.
+
+She moves, her head rising.
+
+I smile, then step back, stumbling slightly. I shake my head as the large golem rises to look down at me. “Hey there.” I look to the other golem who watches on unmoving, “Make sure she doesn’t overdo it. My fix won’t allow her to use any of her aligned mana, and if she pushes, she’ll burn herself out.”
+
+I put my pen in my backpack, then throw it over my shoulder. “As soon as I find some aligned ink, I’ll let you know.”
+
+The normal golem looks at me, then slams his fist into the floor as he bows his head to me, “this favor will not be forgotten, Master Mage. I am Guardian Golem Shakir.”
+
+“Think nothing of it.” I walk past the recently fixed golem who stares at her hands with a tilt of her head. “Just continue to keep this place safe.”
+
+I open the door to the next room to find the others waiting in a loose circle as they eat lunch. Tanya hurries over to me, offering some jerky, and I take it thankfully.
+
+Libby stands, walking over to me with Vakar. “The rooms are clear, but we wanted to wait for you before emptying them.”
+
+I send a nod of thanks her way, then we start emptying the rooms. I pull out my notebook, marking down the items as they’re gathered. It’s mostly the maps from the map room, but there’s a tone of value in those, even if the geography has shifted. I’ll likely give them to Merchant Gerald, he can hold onto them for me so that I have them when I need them. Then there’s the scrolls, most of them are messages that don’t mean much to me, still any historians would pay well for them. Finally, the equipment from the Talisman room. Talisman creation is another lost art, but I’m sure the Archmage’s library will have something on it, and if someone is willing to take up the profession, then having the equipment for it will be invaluable.
+
+Once we finish with that, it’s time to move to the next level. I make sure everyone is ready, then Grildor and Vakar push against the door, opening it to reveal the worn stairs leading down. An angry reaver drops down on Grildor, but he has his shield ready, catching it and pushing it away. Moments later, blades, claws and an Ice spike take the creature down.
+
+It must’ve taken over the area after I killed the aligned creature that used to live here.
+
+We drag it out of the tunnel, then travel cautiously down the worn stairs.
+
+The reaver’s webs had kept out any other predators, and we eventually reach the rushing underground river. Grildor and the Dralk warriors spread around Eyla as she starts the process of building a bridge across the river.
+
+Nothing leaps out of the water for her, which I’m grateful for.
+
+We make it across, and quickly hit the split in the path. I decide to turn down the direction I haven’t been, warning the others about the Darkness aligned creatures Shar had spotted last time. I’d rather deal with the threat now, while we’re strong.
+
+Shar flies ahead, and I loosen my sword. The large party gathers around me, in the small hall, ready for whatever might be coming through while we wait for her to return.
+
+Shar swoops out of the darkness moments later, landing on my arm silently. “There’s a door further down that leads to a kennel. There’s a herd of horses there. I think one of them, a shadow-aligned, saw me.” She ruffles her feathers, annoyed at being caught.
+
+A small smile finds its way to my face, “Did you see beyond them?”
+
+“No. Unless there’s something you want deeper in, I don’t think we should try to continue. Something strong sleeps in the kennels.”
+
+My smile fades, and I bite my lip, trying to decide if it’s worth it to continue. I have a strong group right now, and I don’t like leaving an unknown behind us. Still, if Shar senses something in the darkness, then I’m inclined to trust her. It hasn’t bothered us so far, and I’m hoping if we don’t disturb its territory, it’ll stay that way.
+
+I motion for the group to turn around. We head the other direction, through the maze of reaver webs.
+
+Some of them have moved since me and Shar were last through, but with the added help of the Dralk warriors holding the line while Eyla throws her ice, we make quick work of the reavers that have moved their nests.
+
+We take a good half-hour to retrace my steps. The size of the party means that we have to be extra cautious, and even if fighting the reavers is quick work, it still stalls us.
+
+The wooden training golem rests against the floor, completely inactive. I pick up the inactive golem with a grunt. He’s heavy, but not immovable.
+
+“Grildor, think you can carry this guy?” I ask the grizzled warrior. “I might be able to repair him, but I’d rather wait till we’re back.”
+
+He looks over at me, then laughs at the wooden golem that I’m practically collapsing under. He walks over, and lifts it off of me. He lifts the wooden golem with ease, a passive strength increase if I were to guess. “Yea. I can handle ‘im.”
+
+I smile, then get to work securing the golem to his back over his armor. There’s not much in his pack, so I ask one of the Dralk to hold onto it.
+
+Once the golem is secure, we move into the next room. Three doors, and a hidden room wait for us here.
+
+I look into the room where I’d met the Undead Witch Masia. The destroyed spell circle sits there, a clear line cut through it.
+
+Pulling the blue dust from my waist, I get to work on the hidden door. The others look through the two open rooms as I do. There’s not much left after all of this time, but apparently there was something in the desks that I missed.
+
+I finish deactivating the runes and the fourth door appears once more. I look back at my group, “Everyone ready to see the real treasures of this place?”
+
+Everyone turns their attention to me as I open the door.
