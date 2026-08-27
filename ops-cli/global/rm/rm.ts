@@ -2,11 +2,11 @@ export const summary = "Remove files, gated against the repo that would remain"
 
 import { existsSync, readFileSync, readdirSync, rmSync, rmdirSync, statSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import { sidecarsOf } from "../../page/sidecar/sidecar.ts"
-import { git } from "../../repo/git/git.ts"
-import { land, LandingRefused, type SizeChange, sizeLines } from "../../repo/land/land.ts"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "./address.ts"
-import { fail, valueOf } from "./patch.ts"
+import { sidecarsOf } from "../../../page/sidecar/sidecar.ts"
+import { git } from "../../../repo/git/git.ts"
+import { land, LandingRefused, type SizeChange, sizeLines } from "../../../repo/land/land.ts"
+import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../../../patches/command/address.ts"
+import { fail, valueOf } from "../../../patches/command/patch.ts"
 
 const REPO = "--repo"
 
