@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: athena-agent-harness
 registration-account: aawalton
 claude-code-session-uuid: df9c117d-56bb-443a-b9df-bcdcca4bf3d2
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/df9c117d-56bb-443a-b9df-bcdcca4bf3d2.jsonl

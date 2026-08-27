@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: aine-global
 errand: "Okay, you had a list of loose ends in the notes? Lets work through those. Dispatch a delegate check them all to drop or update any that are stale, and then lets start with the first directly here without waiting."
 registration-account: aawalton
 claude-code-session-uuid: 74cb61a9-b9a3-4fd3-bab4-bc748004fed7
