@@ -5,7 +5,8 @@ import { type Documents, domainNamed, DOMAIN_SLUG_KEY, PAGE_TYPE_SLUG_KEY, type 
 import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { claimant, domainKindTest } from "../../page/page-types.ts"
+import { domainKindTest } from "../../page/page-types.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { type Roots } from "../../page/page"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
@@ -80,10 +81,10 @@ export function readRoster(roots: Roots): Roster {
   }
 
   const claimants = registryOf(diskFileTree(roots))
-  const isDomain = domainKindTest("akasha", claimants)
+  const isDomain = domainKindTest(claimants)
   const personas = new Map<string, string>()
   for (const [relPath, fm] of frontmatter) {
-    if (claimant(relPath, "akasha", claimants).slug !== "persona") continue
+    if (pageTypeOf(relPath) !== "persona") continue
     const slug = textField(fm, DOMAIN_SLUG_KEY)
     if (slug !== null) personas.set(slug, relPath)
   }
@@ -92,7 +93,7 @@ export function readRoster(roots: Roots): Roster {
   let findings = 0
   let initiatives = 0
   for (const [relPath, fm] of frontmatter) {
-    const kind = claimant(relPath, "akasha", claimants).slug
+    const kind = pageTypeOf(relPath)
     if (kind !== "finding" && kind !== "initiative") continue
     // Spelled bare, for the reason the parent below is: a filing names its domain by address —
     // `domain/agent-harness` — while every key these filings are looked up under is the slug
@@ -117,7 +118,7 @@ export function readRoster(roots: Roots): Roster {
   for (const [relPath, fm] of frontmatter) {
     const slug = textField(fm, DOMAIN_SLUG_KEY)
     if (slug === null) continue
-    if (!isDomain(relPath, fm)) continue
+    if (!isDomain(relPath)) continue
     // KEPT UNLESS ANOTHER PAGE OF THIS TYPE ALREADY HOLDS THE SLUG. This guard used to ask
     // whether the bare slug resolved back to this page, which dropped every domain whose slug a
     // page of some other type had taken first — the domain vanished from the tree and its

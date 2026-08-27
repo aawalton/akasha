@@ -14,7 +14,8 @@ import { type Frontmatter, listField, parseFrontmatter, textField } from "../../
 import { judge, over } from "../../outcome/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { claimant, domainKindTest } from "../../page/page-types.ts"
+import { domainKindTest } from "../../page/page-types.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
 
@@ -28,7 +29,7 @@ export const domainEdges: Check = (repo) => {
   }
   const { slugs, duplicates } = slugsIn(frontmatter)
   const failures: string[] = []
-  const kindOf = (at: string): string => claimant(at, repo.name, claimants).slug ?? "none"
+  const kindOf = (at: string): string => pageTypeOf(at) ?? "none"
   for (const [slug, claiming] of duplicates) {
     const byKind = new Map<string, string[]>()
     for (const at of claiming) byKind.set(kindOf(at), [...(byKind.get(kindOf(at)) ?? []), at])
@@ -91,7 +92,7 @@ export const domainEdges: Check = (repo) => {
   }
   let paired = 0
   for (const [relPath, fm] of frontmatter) {
-    if (claimant(relPath, repo.name, claimants).slug !== "persona") continue
+    if (pageTypeOf(relPath) !== "persona") continue
     const her = textField(fm, DOMAIN_SLUG_KEY)
     const holds = textField(fm, CHAMPIONED_DOMAIN_KEY)
     if (her === null || holds === null) continue
@@ -133,12 +134,12 @@ export const domainEdges: Check = (repo) => {
     frontmatterOf: (at) => frontmatter.get(at) ?? null,
     domainAt: (slug) => domainNamed(slugs, slug),
   }
-  const isDomain = domainKindTest(repo.name, claimants)
+  const isDomain = domainKindTest(claimants)
   let domains = 0
   let unchampioned = 0
   for (const [relPath, fm] of frontmatter) {
     if (textField(fm, DOMAIN_SLUG_KEY) === null) continue
-    if (!isDomain(relPath, fm)) continue
+    if (!isDomain(relPath)) continue
     domains += 1
     if (championOf(relPath, docs) !== null) continue
     unchampioned += 1

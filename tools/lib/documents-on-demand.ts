@@ -13,7 +13,7 @@ export function documentsOnDemand(root: string): Documents {
   const parsed = new Map<string, Frontmatter | null>()
   let byStem: ReadonlyMap<string, readonly string[]> | null = null
   let bySlug: ReadonlyMap<string, string> | null = null
-  let domainKind: ((relPath: string, fm: Frontmatter) => boolean) | null = null
+  let domainKind: ((relPath: string) => boolean) | null = null
   let kindAsked = false
   const read = (relPath: string): Frontmatter | null => {
     if (parsed.has(relPath)) return parsed.get(relPath) ?? null
@@ -48,19 +48,19 @@ export function documentsOnDemand(root: string): Documents {
   // kinds would answer no to every page, so a resolvable slug would come back as nothing at
   // all. A fixture root holds the few pages its test is about and no page types beside them,
   // so the filter stands aside there and every page is a candidate, as it was before.
-  const isDomain = (): ((relPath: string, fm: Frontmatter) => boolean) | null => {
+  const isDomain = (): ((relPath: string) => boolean) | null => {
     if (kindAsked) return domainKind
     kindAsked = true
     const types = registryOf(diskFileTree({ [AKASHA]: root }))
     if (domainKinds(types).size === 0) return domainKind
-    domainKind = domainKindTest(AKASHA, types)
+    domainKind = domainKindTest(types)
     return domainKind
   }
   const domainHere = (at: string): Frontmatter | null => {
     const held = read(at)
     if (held === null) return null
     const kind = isDomain()
-    return kind === null || kind(at, held) ? held : null
+    return kind === null || kind(at) ? held : null
   }
   const declared = (): ReadonlyMap<string, string> => {
     if (bySlug !== null) return bySlug

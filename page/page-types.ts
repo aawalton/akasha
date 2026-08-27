@@ -10,6 +10,9 @@ import { stemOf } from "./name/name.ts"
 import { scannedFromIndex } from "./index/scan/scan.ts"
 import type { Roots } from "./page.ts"
 import { blockOf, NONE, PAGE_TYPE_SLUG, stringAt } from "./text/text.ts"
+/** Taken under a name of its own beside this file's `pageTypeOf`, which builds a record rather
+ * than naming a file's page type. */
+import { pageTypeOf as pageTypeOfFile } from "../pages-system/page-type/page-type.ts"
 
 export const PAGES_ROOT = "pages"
 
@@ -160,13 +163,17 @@ export function domainKinds(types: readonly PageType[]): ReadonlySet<string> {
   return kinds
 }
 
-export function domainKindTest(
-  repo: string,
-  types: readonly PageType[]
-): (relPath: string, fm: Frontmatter) => boolean {
+/**
+ * Whether a path is of a page type that is a kind of domain.
+ *
+ * THE NAME SETTLES THE PAGE TYPE, so this reads no frontmatter and asks no repository. A page's
+ * frontmatter must agree with the kind its name carries rather than decide it, and this read the
+ * frontmatter first — two answer sources for a question that has one.
+ */
+export function domainKindTest(types: readonly PageType[]): (relPath: string) => boolean {
   const kinds = domainKinds(types)
-  return (relPath, fm) => {
-    const kind = stringAt(fm, PAGE_TYPE_SLUG) ?? claimant(relPath, repo, types).slug
+  return (relPath) => {
+    const kind = pageTypeOfFile(relPath)
     return kind !== null && kinds.has(kind)
   }
 }
