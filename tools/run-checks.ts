@@ -38,7 +38,6 @@ import { fromDisk, refusalText } from "./lib/refusal.ts"
 import { anyRefused, over, type Outcome, render, skip } from "../outcome/outcome"
 import { CEILING_MS, type Band, seconds, cpuMs } from "./lib/run-cost.ts"
 import { headSha, writeGreen } from "./lib/test-selection.ts"
-import { canonicalize, normalizeAbsolute } from "../repo/path/path"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 
 export const CHECKS: Readonly<Record<string, Levy>> = {
@@ -225,7 +224,6 @@ export async function runChecks(
 if (import.meta.main) {
   const argv = process.argv.slice(2)
   const only: string[] = []
-  let codeRootNamed: string | undefined
   for (let i = 0; i < argv.length; i += 1) {
     const argument = argv[i]!
     if (argument === "--check") {
@@ -235,14 +233,6 @@ if (import.meta.main) {
         process.exit(1)
       }
       only.push(value)
-      i += 1
-    } else if (argument === "--code-root") {
-      const value = argv[i + 1]
-      if (value === undefined) {
-        process.stderr.write("error: --code-root needs a value\n")
-        process.exit(1)
-      }
-      codeRootNamed = value
       i += 1
     } else if (argument === "--help" || argument === "-h") {
       process.stdout.write(
@@ -255,8 +245,6 @@ if (import.meta.main) {
           `A whole run is bounded at ${CHECKS_CEILING_MS / 1000}s. Over that the run itself is a failure,\n` +
           `whatever each check found, and the suite is killed at whatever is left of the budget.\n\n` +
           `Flags:\n  --check <name>  Run only this one. Repeatable.\n` +
-          `  --code-root <dir>  The code checkout the checks that read one measure against\n` +
-          `                     (defaults to $CODE_ROOT, else the \`code\` sibling of this repo).\n` +
           `  --help          This.\n\n` +
           `Exit codes:\n  0  every check passed over a population it measured\n` +
           `  1  at least one check found something, or could not measure anything to look in\n`
@@ -269,11 +257,7 @@ if (import.meta.main) {
       only.push(argument)
     }
   }
-  const resolved = resolveRoots()
-  const roots =
-    codeRootNamed === undefined
-      ? resolved
-      : { ...resolved, code: canonicalize(normalizeAbsolute(codeRootNamed)) }
+  const roots = resolveRoots()
   const repoViewOf = (repo: Repo): RepoView => {
     const root = roots[repo]
     return {
