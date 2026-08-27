@@ -27,10 +27,10 @@ The three that use it hold a shrink-only list of accepted violations and refuse 
 
 `check-seat-resume-driver.ts:13` spends a docblock heading holding the line — "WHY THIS IS NOT A RATCHET" — and states the crispest definition in the estate: "A ratchet says the population did not grow."
 
-The three compliers share no implementation. Each carries its own exported `applyRatchet`/`nextRatchet` pair, at `lib/liveness-routing.ts:321`, `lib/prose-mechanism-restatement.ts:74` and `lib/cli-help-flag-references.ts:225`. Three independent constructions converged on the same refusal.
+The three compliers share no implementation. Each carried its own exported `applyRatchet`/`nextRatchet` pair. Two of the three stand here: `tools/lib/check-workflow/prose-mechanism-restatement.ts:124,144` behind `infra/cluster-checks/src/checks/check-prose-mechanism-restatement.ts`, and `tools/lib/cli-help-flag-references.ts:213,230` behind `tools/audits/cli-help-flag-references.ts`, each with its own `.ratchet.json` baseline beside it. The `liveness-routing` one stands in no tree here. Independent constructions converged on the same refusal.
 
-Against that, nothing is declared. `ops instructions dag` returns no slug matching `ratchet`, no `# Definition` defines it, and `ops enforcement list` returns 0 mechanisms across all four sources for `ratchet`, `baseline` or `shrink`. There are 228 non-test uses across the code repo, reaching well past the checks tree.
+Against that, nothing is declared. `ops akasha dag` returns no slug matching `ratchet`, and no `# Definition` bullet anywhere under `pages/` defines it. There were 228 non-test uses across the code repo, reaching well past the checks tree.
 
-`global.md` § Plain Or Declared governs this, and `jargon.md:17` forecloses the defence: "A word the code spells is jargon on the same test as any other."
+`pages/domain/global.domain.md` § Plain Or Declared governs this, and `jargon` forecloses the defence: "A word the code spells is jargon on the same test as any other." That page now stands at `pages/barred-meaning/jargon.barred-meaning.md` and no longer carries the quoted line.
 
 The cost is measurable. A rule candidate drawn against ratchets had its population set at ten, then six, then four, each correction the same one — prose reading the word onto artifacts whose source never claims it. An ordinary verb sense also stands and does not collide: `ceri-points.worker.ts:21`, "`totalPoints` only ever ratchets up."

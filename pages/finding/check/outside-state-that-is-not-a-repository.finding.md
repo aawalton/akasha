@@ -18,7 +18,7 @@ Measured on 2026-08-18 against `~/code` at `53e786d846`, after #19407 landed as
 `2b169e8f93a7`.
 
 Every registered check carrying a script — 122 of them, enumerated by importing the
-`check-configs*.ts` tables the way `declaredCheckNames` does — was run twice: once as this
+`tools/lib/check-workflow/check-configs*.ts` tables the way `declaredCheckNames` (`tools/lib/check-workflow/declared-check-configs.ts:76`) does — was run twice: once as this
 workstation stands, once with `HOME` pointed at a tree symlinking all 167 of the real
 home's entries except `instructions`, `books`, `memory` and `stories`, and with
 `INSTRUCTIONS_ROOT` and `BOOKS_ROOT` naming a path that is not there. 120 gave
@@ -31,11 +31,13 @@ So no registered check's verdict turns on another REPOSITORY, which is what #194
 dispatched to close and did close.
 
 What the same run found is a different class. `sops-manifests` exits 0 where a Kubernetes
-API server answers and 2 where none does: its `kubectl create --dry-run=client` arm
-downloads the openapi schema from the cluster, so every file fails identically when the
-cluster is unreachable. `reverse-reachability-graph` opens with
-`if [ -f "$OUT" ]; then echo cache hit; exit 0; fi` against `/ci-storage/reverse-reachability`,
-so a file outside the checkout decides whether the check runs at all.
+API server answers and 2 where none does: its `kubectl create --dry-run=client` arm, at
+`infra/cluster-checks/src/checks/check-sops-manifests.ts:90`, downloads the openapi schema
+from the cluster, so every file fails identically when the cluster is unreachable.
+`reverse-reachability-graph`, at `tools/lib/check-workflow/check-configs-graph.ts:20`, opens
+with `if [ -f "$OUT" ]; then echo cache hit; exit 0; fi` against
+`/ci-storage/reverse-reachability`, so a file outside the checkout decides whether the check
+runs at all.
 
 Neither is a repository, and `Local Verdict` on `domains/repos/code-repo.md` names the
 instructions repository alone. But `check.md`'s intent line says "state outside the
