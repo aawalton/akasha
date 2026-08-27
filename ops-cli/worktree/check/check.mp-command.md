@@ -17,6 +17,6 @@ required-reading-slugs:
 
 A check runs the worktree's own code rather than the code of the checkout it was invoked from.
 
-Every check runs, whatever the change reaches.
+Every check stating it runs on a worktree runs, whatever the change reaches.
 
 A worktree holding uncommitted work is judged and nothing is written onto its page.

@@ -72,9 +72,9 @@ export const DESCRIPTION =
   "moving, a move relocating a body rather than destroying it.\n" +
   "\n" +
   "`--input-file` CHANGES A BODY AS IT LANDS, and it is how a document becomes a document of " +
-  "another kind: a page type is decided by the glob its path falls under, so a domain moved into " +
-  "a properties folder is judged against that page type the moment it arrives, and without this " +
-  "flag the only route is `rm` then `write`, with the slug resolving to nothing in between. It " +
+  "another kind: a page type is decided by the name a file carries, so a domain renamed onto " +
+  "another page type's name is judged against that page type the moment it arrives, and without " +
+  "this flag the only route is `rm` then `write`, with the slug resolving to nothing in between. It " +
   "takes the shape `edit` takes, `file_path` naming the DESTINATION, and each pair is applied " +
   "before any gate sees the body — AFTER the link re-anchoring, so an `old_string` spanning a " +
   "relative link must be written as the link will read at the new path."
