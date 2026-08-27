@@ -20,4 +20,4 @@ Every notice this path carries is at risk, not an unusual one. `planRestartNotic
 
 The cost lands on the seat, and it lands at the worst moment. The rail exists so an idle seat is not woken for a cold-context turn merely to be told it was restarted, and what it finally reads on its next real inbound is the same paragraphs repeated — read by a model, in a context this mechanism was built to spend carefully.
 
-Not repaired under the port that found it, deliberately and correctly. A port is held to answering what the file it replaces answers, so a seat that fixed this would have destroyed the equivalence its own arms exist to prove. It is also not repaired here yet because the supervisors still boot from the code repository, so the copy that runs today is that one.
+Not repaired under the port that found it, deliberately and correctly. A port is held to answering what the file it replaces answers, so a seat that fixed this would have destroyed the equivalence its own arms exist to prove. It is also not repaired here yet; the copy measured above, `tools/lib/supervisor-iteration-outcome-db.ts`, is the one that stands today.
