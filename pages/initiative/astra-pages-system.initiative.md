@@ -70,6 +70,7 @@ Settled with Alan on 2026-08-27, before any intent was written:
 - `story-chapter-royal-road` is written by `services/royal-road-sync.ts` as a raw path rather than through the pages API, so a formula reaches none of it until that writer is rebuilt.
 - `book-chapter` is not a rename: 5,622 markdown links across 362 files address chapters by name, and no property tells the colliders apart. Its sections want modelling as pages first.
 - `keepNamedIn` removes an emptied identity file but never its directory.
+- A page landed through `ops write` reached disk and not the index. `formula-absent-value` committed at `0163fe9` carrying no identity entry, found only because a later write named it as required reading; nine pages landed the same session indexed correctly. `page/index/build.ts` was rewritten that afternoon.
 
 **The graph answer cache under `.git/answers` is out of scope**, being the graph system's rather than the pages system's.
 
