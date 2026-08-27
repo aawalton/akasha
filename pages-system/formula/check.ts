@@ -33,6 +33,9 @@ const nameOf = (type: DeclaredType | null): string => {
   return type.kind === "list" ? `list of ${type.of}` : type.kind
 }
 
+/** A name with the article that reads right before it. */
+const an = (name: string): string => `${"aeiou".includes(name[0] ?? "") ? "an" : "a"} ${name}`
+
 /** Whether two declared types are the same type. */
 const sameType = (one: DeclaredType, other: DeclaredType): boolean => {
   if (one.kind === "list") return other.kind === "list" && one.of === other.of
@@ -67,7 +70,7 @@ const needs = (
   said: string
 ): void => {
   if (type.holds === null || type.holds.kind === kind) return
-  throw new CheckingRefused(at, `${said} takes a ${kind}, and this holds a ${nameOf(type.holds)}`)
+  throw new CheckingRefused(at, `${said} takes ${an(kind)}, and this holds ${an(nameOf(type.holds))}`)
 }
 
 /** Whether two sides hold one kind, an always-absent side meeting anything. */
@@ -76,7 +79,7 @@ const meet = (left: ValueType, right: ValueType, at: number, said: string): void
   if (sameType(left.holds, right.holds)) return
   throw new CheckingRefused(
     at,
-    `${said}, and its left holds a ${nameOf(left.holds)} while its right holds a ${nameOf(right.holds)}`
+    `${said}, and its left holds ${an(nameOf(left.holds))} while its right holds ${an(nameOf(right.holds))}`
   )
 }
 
@@ -194,14 +197,14 @@ const typeOfCall = (
     if (first.holds !== null && first.holds.kind !== "list") {
       throw new CheckingRefused(
         (given[0] as Expression).at,
-        `\`contains\` asks whether a list holds a value, and its first argument holds a ${nameOf(first.holds)}`
+        `\`contains\` asks whether a list holds a value, and its first argument holds ${an(nameOf(first.holds))}`
       )
     }
     if (first.holds !== null && first.holds.kind === "list" && second.holds !== null) {
       if (second.holds.kind !== first.holds.of) {
         throw new CheckingRefused(
           (given[1] as Expression).at,
-          `\`contains\` looks in a ${nameOf(first.holds)} for a ${first.holds.of}, and its second argument holds a ${nameOf(second.holds)}`
+          `\`contains\` looks in a ${nameOf(first.holds)} for ${an(first.holds.of)}, and its second argument holds ${an(nameOf(second.holds))}`
         )
       }
     }
@@ -230,7 +233,7 @@ const typeOfCase = (
     if (sameType(holds, value.holds)) return
     throw new CheckingRefused(
       at,
-      `a case answers one kind of value, and an earlier row holds a ${nameOf(holds)} while this row holds a ${nameOf(value.holds)}`
+      `a case answers one kind of value, and an earlier row holds ${an(nameOf(holds))} while this row holds ${an(nameOf(value.holds))}`
     )
   }
   for (const row of expression.rows) {
@@ -238,7 +241,7 @@ const typeOfCase = (
     if (test.holds !== null && test.holds.kind !== "boolean") {
       throw new CheckingRefused(
         row.test.at,
-        `a case row matches where its test answers true, and this test holds a ${nameOf(test.holds)}`
+        `a case row matches where its test answers true, and this test holds ${an(nameOf(test.holds))}`
       )
     }
     answers(typeOf(row.value, shape, reads), row.value.at)
