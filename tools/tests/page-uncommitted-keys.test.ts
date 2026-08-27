@@ -40,8 +40,14 @@ afterAll(() => {
 // a directory that could not be opened rather than as a repository that is not here.
 const ROOTS: Roots = { akasha: root }
 
+// THE FIXTURE'S OWN PATHS STAND PENDING. A registry reads its page types off the pages index,
+// which answers for what has landed in the repository beside it and has never seen a tree written
+// into a temp directory. Without them every page type here reads as one nothing declares, and the
+// keys come back empty from a tree that could not be looked at rather than from a type with none.
+const treeHere = () => ({ ...diskFileTree(ROOTS), pending: new Set(Object.keys(FILES)) })
+
 const keysOf = (pageType: string): readonly string[] =>
-  [...uncommittedKeysFor(diskFileTree(ROOTS), pageType)].sort()
+  [...uncommittedKeysFor(treeHere(), pageType)].sort()
 
 describe("the uncommitted keys of a page type", () => {
   it("names the keys its own properties declare uncommitted, and no key that is not", () => {
