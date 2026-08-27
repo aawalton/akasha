@@ -15,5 +15,3 @@ Carried out of the initiative review of 2026-08-27, where twenty-four initiative
 **Two routes now answer where a page type is found.** `page/property/registry.ts` reads the index and this write's pending set; `9a36a438f` and `a2fa2eeee` broaden the globs where a tree spans the repositories. Both are in the tree, the panel goes through the first, and the seat that wrote the second has not been told.
 
 **`staleIn` has no callers.** Nothing checks the index is current, and the page type registry now reads it, so an index that drifted would be believed. Alan carries this with Astra.
-
-**Twenty-one findings moved to `pages/finding/old-ops-command/`** unchanged, when the page type took its `old-` prefix. Several claim things about ops commands in general, which the surviving `page-type/command` now holds.
