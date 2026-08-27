@@ -8,7 +8,7 @@ domain-slug: domain/global
 
 # Claim
 
-`verb` is a retired word — `domains/retired/verb.md` says it means an `ops` subcommand and is now written as command — and it stands in 270 places across `tools/`, so the `words-read` gate charges a reading for it on every write that touches one.
+`verb` is a retired word — `pages/barred-meaning/verb.barred-meaning.md` says it means an `ops` subcommand and is now written as command — and it stands in 270 places across `tools/`, so the `words-read` gate charges a reading for it on every write that touches one.
 
 # Evidence
 
