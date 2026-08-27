@@ -44,6 +44,9 @@ function vocabulary(): void {
   at.document("pages/role/worker.role.md", 'page-type-slug: role\nslug: worker\ntitle: "Worker"\ndomain-parent-slug: global', 20)
   at.document("pages/role/recorder.role.md", 'page-type-slug: role\nslug: recorder\ntitle: "Recorder"\ndomain-parent-slug: global', 20)
   at.document("pages/role/handler.role.md", 'page-type-slug: role\nslug: handler\ntitle: "Handler"\ndomain-parent-slug: global', 20)
+  // A TASK STANDS HERE ONLY SO THE CORPUS IS NOT EMPTY: reading the tasks out of a tree holding
+  // none is refused as a dead read rather than answered with nothing. No name below spells it.
+  at.document("pages/task/build-change.task.md", 'page-type-slug: task\nslug: build-change\ntitle: "Build change"\ndomain-parent-slug: global', 20)
 }
 
 beforeAll(() => {
