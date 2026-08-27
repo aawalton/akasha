@@ -1,4 +1,5 @@
 import { HOSTNAME_KEY, WORKLOAD_CLASS_KEY } from "./hostnames"
+import { ORCHESTRATOR_CACHE_REPO_PATH } from "./orchestrator-cache-locations"
 import { type ContainerResources, readContainerProbes } from "./k8s-container-probes"
 import {
   readNodeName,
@@ -148,7 +149,19 @@ function readImageLines(lines: readonly RawLine[], span: DocSpan): readonly Imag
   return out
 }
 
-const REPO_TS_PATH_PATTERN = /packages\/[A-Za-z0-9._@/-]+\.tsx?\b/g
+// A repo-relative TypeScript path, however the manifest spells it. Manifests carry these two
+// ways: absolute under the orchestrator cache root (`/app/repo/<rel>`, what a container command
+// runs), and bare relative (what a ConfigMap value or an `args` entry holds). This anchors on
+// neither a workspace directory name nor a leading path segment, because the flattened layout has
+// no single one to anchor on -- `infra`, `shared`, `temper` and a dozen more are all repo roots
+// now. The lookbehind keeps an unrelated absolute path such as `/etc/foo/bar.ts` out: a bare match
+// may not sit directly after a path character, so only the cache root introduces an absolute one.
+const CACHE_ROOT_ESCAPED = ORCHESTRATOR_CACHE_REPO_PATH.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+
+const REPO_TS_PATH_PATTERN = new RegExp(
+  `(?:${CACHE_ROOT_ESCAPED}/|(?<![A-Za-z0-9._@/-]))((?:[A-Za-z0-9._@-]+/)+[A-Za-z0-9._@-]+\\.tsx?)\\b`,
+  "g"
+)
 
 function readRepoPaths(lines: readonly RawLine[], span: DocSpan): readonly string[] {
   const seen = new Set<string>()
@@ -158,7 +171,8 @@ function readRepoPaths(lines: readonly RawLine[], span: DocSpan): readonly strin
     if (ln === undefined) continue
     if (ln.blank) continue
     for (const match of ln.stripped.matchAll(REPO_TS_PATH_PATTERN)) {
-      const path = match[0]
+      const path = match[1]
+      if (path === undefined) continue
       if (seen.has(path)) continue
       seen.add(path)
       out.push(path)
