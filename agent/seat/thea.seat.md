@@ -3,7 +3,7 @@ page-type-slug: seat
 id: 01a03ba7-18f2-7000-831e-fbe7032679c2
 title: "thea"
 persona-slug: thea
-domain-slug: domain/code-quality
+domain-slug: code-quality
 role-slug: definer
 person-slug: alan
 start-mode: interactive
