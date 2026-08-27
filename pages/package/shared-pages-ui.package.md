@@ -14,3 +14,6 @@ settled: true
 
 - **Shared pages ui** — the React components that list, show and edit pages in a browser.
 
+# Intent
+
+- A view over a page type lists and opens its pages.
