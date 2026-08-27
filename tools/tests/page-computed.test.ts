@@ -18,7 +18,7 @@ const namedType = (slug: string, lines: readonly string[]): string =>
 const FILES: Readonly<Record<string, string>> = {
   "pages/page-property-type/number.page-property-type.md": namedType("number", ["kind: primitive"]),
   "pages/page-property-type/formula.page-property-type.md": namedType("formula", ["kind: record", "reaches: true"]),
-  "pages/page-property-type/lookup.md": namedType("lookup", ["kind: record", "reaches: true"]),
+  "pages/page-property-type/lookup.page-property-type.md": namedType("lookup", ["kind: record", "reaches: true"]),
 
   "pages/page-type/tree.page-type.md": kind(),
 
@@ -29,7 +29,7 @@ const FILES: Readonly<Record<string, string>> = {
   "pages/page-property-definition/tree-supplied.page-property-definition.md": property("tree", "supplied", ["type: number", "computed: true"]),
   "pages/page-property-definition/tree-plain.page-property-definition.md": property("tree", "plain", ["type: number"]),
 
-  "pages/tree/one.md": page(["slug: one", "fruit: 3"]),
+  "pages/tree/one.tree.md": page(["slug: one", "fruit: 3"]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-computed-"))

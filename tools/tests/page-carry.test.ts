@@ -32,11 +32,11 @@ const FILES: Readonly<Record<string, string>> = {
   "pages/page-property-definition/gauge-reads-mapped.page-property-definition.md": property("gauge", "reads-mapped", reads("mapped")),
   "pages/page-property-definition/gauge-reads-away.page-property-definition.md": property("gauge", "reads-away", reads("away")),
 
-  "pages/gauge/mapped.md": page(["other: 7", "mapped:", "  a: one", "  b: two"]),
-  "pages/gauge/mapped-bare.md": page(["other: 7", "mapped-bare:", "  a: one"]),
-  "pages/gauge/nested.md": page(["other: 7", "mapped:", "  a:", "    deep: one"]),
-  "pages/gauge/blank.md": page(["other: 7", "blank:"]),
-  "pages/gauge/nothing.md": page(["other: 7"]),
+  "pages/gauge/mapped.gauge.md": page(["other: 7", "mapped:", "  a: one", "  b: two"]),
+  "pages/gauge/mapped-bare.gauge.md": page(["other: 7", "mapped-bare:", "  a: one"]),
+  "pages/gauge/nested.gauge.md": page(["other: 7", "mapped:", "  a:", "    deep: one"]),
+  "pages/gauge/blank.gauge.md": page(["other: 7", "blank:"]),
+  "pages/gauge/nothing.gauge.md": page(["other: 7"]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-carry-"))
@@ -55,7 +55,7 @@ const ROOTS: Roots = {
 }
 
 const rowOf = (named: string): Record<string, unknown> => {
-  const found = deriver(ROOTS).rows("gauge")!.find((row) => row.at.endsWith(`/${named}.md`))
+  const found = deriver(ROOTS).rows("gauge")!.find((row) => row.at.endsWith(`/${named}.gauge.md`))
   return found!.values as Record<string, unknown>
 }
 

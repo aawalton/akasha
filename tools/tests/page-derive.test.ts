@@ -118,38 +118,38 @@ const FILES: Readonly<Record<string, string>> = {
     "returnType: number",
   ]),
 
-  "pages/person/ada.md": page(["slug: ada"]),
-  "pages/person/grace.md": page(["slug: grace"]),
+  "pages/person/ada.person.md": page(["slug: ada"]),
+  "pages/person/grace.person.md": page(["slug: grace"]),
 
-  "pages/team/roots.md": page(["lead: ada"]),
-  "pages/team/twig.md": page(["title: reaches nothing"]),
-  "pages/team/branch.md": page(["above-slugs:\n  - twig\n  - roots"]),
-  "pages/team/loop-a.md": page(["above-slugs: loop-b"]),
-  "pages/team/loop-b.md": page(["above-slugs: loop-a"]),
-  "pages/squad/alpha.md": page(["lead: grace"]),
+  "pages/team/roots.team.md": page(["lead: ada"]),
+  "pages/team/twig.team.md": page(["title: reaches nothing"]),
+  "pages/team/branch.team.md": page(["above-slugs:\n  - twig\n  - roots"]),
+  "pages/team/loop-a.team.md": page(["above-slugs: loop-b"]),
+  "pages/team/loop-b.team.md": page(["above-slugs: loop-a"]),
+  "pages/squad/alpha.squad.md": page(["lead: grace"]),
 
-  "pages/job/one.md": page(["title: through a written key", "team-slug: roots"]),
-  "pages/job/two.md": page(["title: through a list", "team-slug: branch"]),
-  "pages/job/three.md": page(["title: through a subtype", "team-slug: alpha"]),
-  "pages/job/four.md": page(["title: around a cycle", "team-slug: loop-a"]),
-  "pages/job/five.md": page(["title: at nothing", "team-slug: absent"]),
-  "pages/job/six.md": page(["title: through a slug property", "grade: high"]),
+  "pages/job/one.job.md": page(["title: through a written key", "team-slug: roots"]),
+  "pages/job/two.job.md": page(["title: through a list", "team-slug: branch"]),
+  "pages/job/three.job.md": page(["title: through a subtype", "team-slug: alpha"]),
+  "pages/job/four.job.md": page(["title: around a cycle", "team-slug: loop-a"]),
+  "pages/job/five.job.md": page(["title: at nothing", "team-slug: absent"]),
+  "pages/job/six.job.md": page(["title: through a slug property", "grade: high"]),
 
-  "pages/grade/grade-high.md": page(["grade-slug: high", "tone: warm"]),
-  "pages/grade/high.md": page(["grade-slug: taken-by-nobody", "tone: reached by the page's own slug"]),
+  "pages/grade/grade-high.grade.md": page(["grade-slug: high", "tone: warm"]),
+  "pages/grade/high.grade.md": page(["grade-slug: taken-by-nobody", "tone: reached by the page's own slug"]),
 
-  "pages/site/here.md": page(["slug: here"]),
-  "pages/site/bodied.md": `${page(["slug: bodied"])}\n# Definition\n\n- **Bodied** — a page holding something under its frontmatter.\n`,
+  "pages/site/here.site.md": page(["slug: here"]),
+  "pages/site/bodied.site.md": `${page(["slug: bodied"])}\n# Definition\n\n- **Bodied** — a page holding something under its frontmatter.\n`,
 
   "pages/page-type/scroll.page-type.md": kind("none"),
   "pages/page-property-definition/scroll-words.page-property-definition.md": property("scroll", "words", ["type: text", "attachment: md"]),
   "pages/page-property-definition/scroll-keeper.page-property-definition.md": property("scroll", "keeper", ["type: text"]),
-  "pages/scroll/one.md": page(["slug: one", "keeper: ada"]),
-  "pages/scroll/one.words.attachment.md": "the words the page does not carry\n",
+  "pages/scroll/one.scroll.md": page(["slug: one", "keeper: ada"]),
+  "pages/scroll/one.scroll.words.attachment.md": "the words the page does not carry\n",
 
-  "pages/gauge/first.md": page(["used: 4", "budget: 10", "opened: 5 Jan 2026", "day-rate: 4"]),
-  "pages/gauge/second.md": page(["used: 0", "budget: 20", "opened: 10 Feb 2027"]),
-  "pages/gauge/third.md": page(["used: 3", "budget: 30", "opened: 9 Mar 2026"]),
+  "pages/gauge/first.gauge.md": page(["used: 4", "budget: 10", "opened: 5 Jan 2026", "day-rate: 4"]),
+  "pages/gauge/second.gauge.md": page(["used: 0", "budget: 20", "opened: 10 Feb 2027"]),
+  "pages/gauge/third.gauge.md": page(["used: 3", "budget: 30", "opened: 9 Mar 2026"]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-derive-"))
@@ -168,7 +168,11 @@ const ROOTS: Roots = {
 }
 
 const held = (pageType: string, key: string): ReadonlyMap<string, unknown> =>
-  new Map(deriver(ROOTS).rows(pageType)!.map((row) => [row.at.replace(/^.*\/|\.md$/g, ""), row.values[key]]))
+  new Map(
+    deriver(ROOTS)
+      .rows(pageType)!
+      .map((row) => [row.at.replace(/^.*\//, "").replace(`.${pageType}.md`, ""), row.values[key]])
+  )
 
 const owners = (): ReadonlyMap<string, unknown> => held("job", "owner")
 
@@ -194,7 +198,7 @@ describe("a computed property resolved from its `from:` paths", () => {
   })
 
   it("leaves a page of a type declaring nothing derived exactly as its file states it", () => {
-    const one = deriver(ROOTS).rows("site")!.find((row) => row.at.endsWith("here.md"))
+    const one = deriver(ROOTS).rows("site")!.find((row) => row.at.endsWith("here.site.md"))
     expect(one?.values).toEqual({ slug: "here" })
   })
 
@@ -300,7 +304,7 @@ describe("a resolved value read through every operator", () => {
 
   it("is carried back by `keys`", () => {
     const carried = answer(ROOTS, { pageType: "job", where: [{ key: "title", is: "through a subtype" }], keys: ["owner"] })
-    expect(carried?.rows).toEqual([{ at: "akasha:pages/job/three.md", values: { owner: "grace" } }])
+    expect(carried?.rows).toEqual([{ at: "akasha:pages/job/three.job.md", values: { owner: "grace" } }])
   })
 })
 
@@ -358,7 +362,7 @@ describe("a formula read through every operator that turns on its type", () => {
 })
 
 const site = (named: string, carries?: { readonly body: boolean }): Values =>
-  deriver(ROOTS, carries).rows("site")!.find((row) => row.at.endsWith(`/${named}.md`))!.values
+  deriver(ROOTS, carries).rows("site")!.find((row) => row.at.endsWith(`/${named}.site.md`))!.values
 
 describe("a page's body", () => {
   it("is carried where it is asked for, a body being a property like any other", () => {
@@ -375,7 +379,7 @@ describe("a page's body", () => {
 
   it("reaches a query naming it among its keys, which is how a product asks for one", () => {
     const found = answer(ROOTS, { pageType: "site", keys: ["body"] })!
-    const one = found.rows.find((row) => row.at.endsWith("/bodied.md"))!
+    const one = found.rows.find((row) => row.at.endsWith("/bodied.site.md"))!
     expect(one.values.body).toContain("something under its frontmatter")
   })
 
