@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { judge, type Outcome } from "../outcome/outcome.ts"
 import type { Roots } from "../page/page.ts"
+import { trackedIn } from "../page/tracked/tracked.ts"
 import { canonicalize, normalizeAbsolute } from "../repo/path/path.ts"
 import { targetRoot } from "../repo/roots/roots.ts"
 import { decodeUtf8 } from "../utf8-body/utf8-body.ts"
@@ -135,8 +136,7 @@ export function escapedSpellings(found: readonly string[]): Outcome {
 }
 
 export function* textFiles(root: string): Generator<{ relPath: string; body: string }> {
-  for (const relPath of [...new Bun.Glob("**/*").scanSync({ cwd: root, dot: true, onlyFiles: true })].sort()) {
-    if (relPath.startsWith(".git/") || relPath.startsWith(".claude/worktrees/")) continue
+  for (const relPath of trackedIn(root)) {
     let bytes: Uint8Array
     try {
       bytes = readFileSync(`${root}/${relPath}`)

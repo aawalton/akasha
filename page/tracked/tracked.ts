@@ -7,12 +7,27 @@ export type PageFile = PageName & {
   readonly key: string
 }
 
+export class UntrackedTree extends Error {}
+
 export function trackedIn(root: string, key: string | null = null): readonly string[] {
-  const listed = execFileSync(
-    "git",
-    key === null ? ["-C", root, "ls-files", "-z"] : ["-C", root, "ls-files", "-z", "--", key],
-    { maxBuffer: BUFFER_CEILING }
-  )
+  let listed: Buffer
+  try {
+    listed = execFileSync(
+      "git",
+      key === null ? ["-C", root, "ls-files", "-z"] : ["-C", root, "ls-files", "-z", "--", key],
+      { maxBuffer: BUFFER_CEILING, stdio: ["ignore", "pipe", "pipe"] }
+    )
+  } catch (thrown) {
+    const said =
+      thrown === null || typeof thrown !== "object"
+        ? ""
+        : String(Reflect.get(thrown, "stderr") ?? "").trim()
+    throw new UntrackedTree(
+      `git cannot say what ${root} tracks${said === "" ? "" : ` \u2014 ${said}`}, so nothing here can ` +
+        "list its files. Answering with no files would read as a tree naming nothing that moved, " +
+        "rather than as a question that was never asked"
+    )
+  }
   return listed
     .toString("utf8")
     .split("\0")

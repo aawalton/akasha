@@ -12,16 +12,22 @@ export interface Fixture {
   dispose(): void
 }
 
+function stage(root: string, relPath: string): void {
+  Bun.spawnSync({ cmd: ["git", "add", "-f", "--", relPath], cwd: root })
+}
+
 export function fixture(): Fixture {
   const root = mkdtempSync(`${SCRATCH}/repoint-root-`)
   const home = mkdtempSync(`${SCRATCH}/repoint-home-`)
   const priorHome = process.env.HOME
   process.env.HOME = home
+  Bun.spawnSync({ cmd: ["git", "init", "-q", "-b", "main", "."], cwd: root })
   return {
     root,
     put: (relPath, body) => {
       mkdirSync(dirname(`${root}/${relPath}`), { recursive: true })
       writeFileSync(`${root}/${relPath}`, body, "utf8")
+      stage(root, relPath)
     },
     dispose: () => {
       if (priorHome === undefined) delete process.env.HOME
@@ -37,6 +43,7 @@ export function installPages(root: string, relPaths: readonly string[]): void {
   for (const relPath of relPaths) {
     mkdirSync(dirname(`${root}/${relPath}`), { recursive: true })
     cpSync(`${live}/${relPath}`, `${root}/${relPath}`)
+    stage(root, relPath)
   }
 }
 
