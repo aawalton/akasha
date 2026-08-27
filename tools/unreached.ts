@@ -9,7 +9,7 @@ import { stemOf as slugOf } from "../page/name/name"
 import { extractLinks } from "./lib/links.ts"
 import { type Roots } from "../page/page"
 import { normalizeAbsolute } from "../repo/path/path"
-import { AKASHA, CODE, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
 
 const HELP = `bun tools/unreached.ts — the quarantined documents nothing cites, one path per line
 
@@ -21,20 +21,21 @@ no count, no summary, no colour. It is meant to be the left-hand side of a pipe.
 
 The split it found goes to stderr, where a pipe never sees it.
 
-TWO REPOS ARE SEARCHED, because the readers live in two. The live documents cite a
-quarantined document at the path it has now; the code repo cites it at the path it had
-before quarantine moved it, nothing having rewritten those. Both count as reaching it:
-an agent in the code repo follows what it finds there whether or not the file naming it
-has ever been read.
+ONE TREE IS SEARCHED TWICE, because the readers are of two kinds. The live documents cite a
+quarantined document at the path it has now; the source files cite it at the path it had
+before quarantine moved it, nothing having rewritten those. Both count as reaching it: an
+agent following a path it finds in a source file follows it whether or not the file naming
+it has ever been read.
 
-WHICH code repo is \$CODE_ROOT, defaulting to ~/repos/code. That checkout is routinely parked
-on some project's branch, so a citation that exists only on another branch is invisible
-here — point it at the worktree whose branch you mean.
+THE CODE REPO WAS ABSORBED INTO AKASHA, so both passes run over this one repository — the
+markdown first, then every tracked file whatever its extension. A quarantined file is never
+a citer in either pass: counting one would let two quarantined documents reach each other
+and drop both off this list.
 
 THREE WAYS A CITATION IS RECOGNIZED, and each is a thing someone wrote down:
 a markdown link from a live document that resolves into \`dirty/\`; the literal text of a
-path, in either repo; and the document's own slug used as a compound word — among the
-live documents, never in the code repo, where a hyphenated word is far more often a verb, a
+path, in any tracked file; and the document's own slug used as a compound word — among the
+live documents, never in the source files, where a hyphenated word is far more often a verb, a
 flag or a package than a citation of a document. A slug of one word
 is not searched anywhere: a bare \`findings\` matches prose about findings, and a hit
 nobody can act on costs more than the miss.
@@ -175,15 +176,23 @@ function main(): void {
     for (const subject of citedBy(body, relPath, roots, byPath, bySlug)) note(subject, relPath)
   }
 
-  const codeRoot = rootFor(roots, CODE)
-  const codeFiles = tracked(codeRoot, codeRoot)
-  for (const relPath of codeFiles) {
-    const body = readable(`${codeRoot}/${relPath}`)
+  // THE CODE REPO IS GONE, absorbed into akasha, so this second pass runs over the same tree the
+  // first one did. It is not redundant: the pass above reads only markdown, and this one reads
+  // every tracked file, which is where a citation left behind as literal path text now lives.
+  //
+  // A QUARANTINED FILE IS SKIPPED HERE as it is above. The old pass had no `dirty/` to walk, so it
+  // never needed the test; over akasha it does, and without it two quarantined documents naming
+  // each other would each read as reached and neither would be listed.
+  const sourceRoot = rootFor(roots, AKASHA)
+  const sourceFiles = tracked(sourceRoot, sourceRoot)
+  for (const relPath of sourceFiles) {
+    if (isDirty(relPath)) continue
+    const body = readable(`${sourceRoot}/${relPath}`)
     if (body === "") continue
     for (const match of body.matchAll(CITED_PATH)) {
       for (const key of suffixKeys(match[0])) {
         const hit = byPath.get(key)
-        if (hit !== undefined) note(hit, `${codeRoot}/${relPath}`)
+        if (hit !== undefined) note(hit, `${sourceRoot}/${relPath}`)
       }
     }
   }
@@ -195,7 +204,7 @@ function main(): void {
 
   process.stderr.write(
     `${subjects.length} quarantined, ${reached.length} cited, ${subjects.length - reached.length} cited by nothing ` +
-      `(code repo searched: ${codeRoot}, ${codeFiles.length} files)\n`
+      `(tracked files searched: ${sourceRoot}, ${sourceFiles.length} files)\n`
   )
   if (listed.length > 0) process.stdout.write(`${listed.join("\n")}\n`)
   process.exitCode = listed.length > 0 ? 1 : 0
