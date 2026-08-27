@@ -189,15 +189,15 @@ describe("the two repos are addressed apart", () => {
     fileKeyDeclared(at)
     at.document(
       "domains/tasks/code-rules.md",
-      `required-reading-slugs:\n  - global\n${CLAIMED}: code:packages/infra/scripts/x.ts`,
+      `required-reading-slugs:\n  - global\n${CLAIMED}: code:infra/scripts/x.ts`,
       12
     )
     at.document("pages/domain/global.domain.md", "slug: global\ndomain-parent-slug: global", 20)
     at.installRecorder()
-    const standing = run("packages/infra/scripts/x.ts", "agent-one", "code")
+    const standing = run("infra/scripts/x.ts", "agent-one", "code")
     expect(new Set(standing.required)).toEqual(new Set(["pages/domain/global.domain.md", "domains/tasks/code-rules.md"]))
     expect(said(standing)).toContain("in the code repository requires 2 document(s)")
-    expect(said(standing)).toContain("--file-path packages/infra/scripts/x.ts")
+    expect(said(standing)).toContain("--file-path infra/scripts/x.ts")
   })
 
   test("a code path under dirty/ is not quarantined, because dirty/ is an address here", () => {

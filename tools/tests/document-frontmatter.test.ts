@@ -122,15 +122,15 @@ describe("a double-quoted scalar gives its escapes back decoded", () => {
 
 describe("a list item stating several keys is read as one record", () => {
   test("a key written under the item stands beside the one on the dash line", () => {
-    const got = read("a:\n  - kind: ts-file\n    under: packages/infra\n  - kind: workflow\n")
+    const got = read("a:\n  - kind: ts-file\n    under: infra\n  - kind: workflow\n")
     expect(got.fields.a).toEqual([{ kind: "ts-file", under: "packages/infra" }, { kind: "workflow" }])
     expect(got.unreadable).toBe(0)
   })
 
   test("every record form reads back exactly as Bun's own YAML reads it", () => {
     for (const block of [
-      "a:\n  - kind: ts-file\n    under: packages/infra\n",
-      "a:\n  - kind: ts-file\n    under: packages/infra\n  - kind: workflow\n",
+      "a:\n  - kind: ts-file\n    under: infra\n",
+      "a:\n  - kind: ts-file\n    under: infra\n  - kind: workflow\n",
       "a:\n  - kind: ts-file\n    under:\n      - one\n      - two\n",
       "a:\n  - name: x\n    at: y\n    mode: '420'\n",
     ])
