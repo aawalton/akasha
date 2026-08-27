@@ -42,7 +42,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-run-check-routing",
-    "ops check-run-check-routing --code-root ~/repos/code",
+    "ops check-run-check-routing --code-root ~/repos/akasha",
   ],
 }
 
@@ -154,7 +154,7 @@ function scanReport(scanned: Scanned, roots: SurfaceRoots): readonly string[] {
     "LOOKED UNDER: a check body a step names is looked for in both of those trees. A body and " +
       "the tree it reads need not stand in the same repository, so one that has moved is found " +
       "where it now stands rather than reported missing.",
-    `SCANNED: ${scanned.scannedSources.length} workflow page(s) in the instructions tree → ` +
+    `SCANNED: ${scanned.scannedSources.length} workflow page(s) in this repository → ` +
       `${scanned.workflowCount} workflow(s) loaded, ${scanned.unexaminedSources.length} that ` +
       `yielded none; ${scanned.stepCount} step(s), ${scanned.commands.length} distinct ` +
       `command(s) resolved under ${PROBE_CONTEXT_IDS.length} CI context(s).`,

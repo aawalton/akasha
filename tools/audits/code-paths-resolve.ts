@@ -12,7 +12,7 @@ const NAME = "code-paths-resolve"
 const REFERENCE = "reference naming a code-tree file"
 
 const RESTS_ON =
-  "the code checkout standing at the commit named above — a reference the branch under it has " +
+  "the checkout standing at the commit named above — a reference the branch under it has " +
   "since deleted still resolves there and is never named, which makes this check quieter, and " +
   "one that branch has added and this commit does not carry is named as standing nowhere, which " +
   "makes it louder"

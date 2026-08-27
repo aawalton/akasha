@@ -55,7 +55,7 @@ export const help: CommandHelp = {
       name: "--instructions-root",
       argLabel: "<dir>",
       valueShape: "token",
-      description: "The instructions tree whose workflow-template pages say what deploys.",
+      description: "The tree whose workflow-template pages say what deploys.",
     },
   ],
   examples: ["ops check-pages-ui-store-sidecar-memory"],

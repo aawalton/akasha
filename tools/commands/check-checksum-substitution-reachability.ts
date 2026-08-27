@@ -30,7 +30,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-checksum-substitution-reachability",
-    "ops check-checksum-substitution-reachability --code-root ~/repos/code",
+    "ops check-checksum-substitution-reachability --code-root ~/repos/akasha",
   ],
 }
 
