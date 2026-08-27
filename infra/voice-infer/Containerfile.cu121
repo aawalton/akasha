@@ -51,7 +51,10 @@ RUN python -c "import torch; v=torch.__version__; print('torch', v); assert v.st
 
 WORKDIR /app
 
-COPY src/server.py /app/server.py
+# The whole source directory, not one file: server.py imports the parts beside
+# it (voice_inference, object_store, speech_mp3, speech_hls), so copying a
+# single file would build an image that fails at import.
+COPY src/ /app/
 
 ENV VOICE_INFER_PORT=8080
 
