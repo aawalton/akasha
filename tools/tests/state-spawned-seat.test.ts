@@ -5,7 +5,12 @@ import { stateSpawnedSeat } from "../lib/state-spawned-seat.ts"
 
 const AGENT = "01a0aaaa-bbbb-7ccc-8ddd-eeeeffff0000"
 
-const stood = process.env.INSTRUCTIONS_ROOT
+// `AKASHA_ROOT` NAMES THE REPOSITORY THE COMMAND IS RUN OUT OF. `state-spawned-seat.ts` spawns
+// `${akashaRoot()}/tools/seat-call.ts`, and the `instructions` repository is absorbed into akasha,
+// so setting `INSTRUCTIONS_ROOT` pointed nothing anywhere: every case below ran the live
+// checkout's real `seat-call.ts`, which wrote no `calls.jsonl` here and answered with real
+// initiative slugs.
+const stood = process.env.AKASHA_ROOT
 
 let root: string
 
@@ -36,7 +41,7 @@ function made(): readonly Record<string, unknown>[] {
 beforeAll(() => {
   root = mkdtempSync("/var/tmp/state-spawned-seat-")
   mkdirSync(`${root}/tools`, { recursive: true })
-  process.env.INSTRUCTIONS_ROOT = root
+  process.env.AKASHA_ROOT = root
 })
 
 afterEach(() => {
@@ -44,8 +49,8 @@ afterEach(() => {
 })
 
 afterAll(() => {
-  if (stood === undefined) delete process.env.INSTRUCTIONS_ROOT
-  else process.env.INSTRUCTIONS_ROOT = stood
+  if (stood === undefined) delete process.env.AKASHA_ROOT
+  else process.env.AKASHA_ROOT = stood
   rmSync(root, { recursive: true, force: true })
 })
 
