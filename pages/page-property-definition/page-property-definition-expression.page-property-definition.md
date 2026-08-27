@@ -12,9 +12,3 @@ domain-parent-slug: page-type/page-property-definition
 # Definition
 
 - **Page property definition expression** — the arithmetic a formula works its value out with.
-
-# Design
-
-An expression names a property with an unhyphenated key by that key alone.
-
-An expression names a property with a hyphenated key through `prop(...)`.
