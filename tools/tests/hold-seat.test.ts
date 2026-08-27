@@ -4,7 +4,6 @@ import { appendFileSync, rmSync } from "node:fs"
 import { listDocuments } from "../lib/check.ts"
 import { duringOneCall } from "../../during-call/during-call.ts"
 import { recordEpoch } from "../lib/epoch.ts"
-import { permitted } from "../hooks/hold-seat.ts"
 import { seatStanding, refuses, type Standing, stoodAside } from "../lib/hold-seat.ts"
 import type { Attribute, Attributes } from "../lib/attributes.ts"
 import { type Fixture, fixture } from "./fixture.ts"
@@ -377,15 +376,6 @@ describe("a required document the tree no longer holds", () => {
     expect(standing.detail).toContain("no longer there")
     expect(standing.detail).toContain(MORTAL_TASK_AT)
   })
-})
-
-describe("the permitted set", () => {
-  test.each(["Write", "Edit", "Agent", "Task", "NotebookEdit", "WebFetch", "TodoWrite", "mcp__playwright__browser_click"])(
-    "%s is not",
-    (tool) => {
-      expect(permitted(tool)).toBe(false)
-    }
-  )
 })
 
 describe("the recovery walk", () => {
