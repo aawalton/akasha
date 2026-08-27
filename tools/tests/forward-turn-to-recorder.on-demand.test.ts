@@ -95,7 +95,7 @@ function calls(): readonly string[] {
 
 function stopOver(path: string): void {
   const before = calls().length
-  const ran = fire("forward-turn-to-recorder.ts", {
+  const ran = fire("agent-hook-forward-turn-to-recorder.agent-hook.code.attachment.ts", {
     stdin: { transcript_path: path },
     env: {
       HOME: home,

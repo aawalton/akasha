@@ -5,7 +5,7 @@ import { tmpdir } from "node:os"
 import { scanCommand } from "../lib/substituting-backtick.ts"
 import { fire, type Ran } from "./hook-shell.ts"
 
-const SCRIPT = "block-substituting-backtick.ts"
+const SCRIPT = "agent-hook-block-substituting-backtick.agent-hook.code.attachment.ts"
 
 const HEALTH = mkdtempSync(`${tmpdir()}/backtick-health-`)
 afterAll(() => rmSync(HEALTH, { recursive: true, force: true }))

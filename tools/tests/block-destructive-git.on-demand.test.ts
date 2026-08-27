@@ -3,7 +3,7 @@ import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { fire, hookPath, type Ran } from "./hook-shell.ts"
 
-const SCRIPT = "block-destructive-git.ts"
+const SCRIPT = "agent-hook-block-destructive-git.agent-hook.code.attachment.ts"
 
 function runHook(command: string): Ran {
   return fire(SCRIPT, { stdin: { tool_input: { command } } })

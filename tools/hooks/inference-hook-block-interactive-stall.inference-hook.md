@@ -2,7 +2,6 @@
 id: cefe2c19-9b8a-5f88-825b-d2a35324022c
 page-type-slug: inference-hook
 title: "Inference hook block interactive stall"
-hook-path: tools/hooks/block-interactive-stall.ts
 kind: ruling
 slug: inference-hook-block-interactive-stall
 domain-parent-slug: page-type/inference-hook

@@ -2,7 +2,6 @@
 id: f28b4a8c-24d8-5690-b076-7e5ad5a13f7b
 page-type-slug: agent-hook
 title: "Agent hook require ops help"
-hook-path: tools/hooks/require-ops-help.ts
 kind: ruling
 slug: agent-hook-require-ops-help
 domain-parent-slug: page-type/agent-hook

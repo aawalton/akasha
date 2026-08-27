@@ -2,7 +2,6 @@
 page-type-slug: agent-hook
 id: b27bea6d-06bd-5c46-a258-77a8a97a9c5e
 title: "Agent hook end compacting"
-hook-path: tools/hooks/end-compacting.ts
 kind: intervention
 slug: agent-hook-end-compacting
 domain-parent-slug: page-type/agent-hook

@@ -5,7 +5,7 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { fire, type Ran } from "./hook-shell.ts"
 
-const SCRIPT = "rc-session-title-hook.ts"
+const SCRIPT = "agent-hook-rc-session-title-hook.agent-hook.code.attachment.ts"
 const AGENT = "01a03a2d-4beb-7000-a3c1-6d0e1f2a9b44"
 
 interface HookOutput {

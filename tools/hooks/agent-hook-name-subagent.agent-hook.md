@@ -2,7 +2,6 @@
 id: 743854dd-a8ce-555a-bf16-c6b9234892bd
 page-type-slug: agent-hook
 title: "Agent hook name subagent"
-hook-path: tools/hooks/name-subagent.ts
 kind: intervention
 slug: agent-hook-name-subagent
 domain-parent-slug: page-type/agent-hook

@@ -9,7 +9,7 @@ import {
   writeCurlStub,
 } from "./hook-decision-shim.ts"
 
-export const SCRIPT = "block-interactive-stall.ts"
+export const SCRIPT = "inference-hook-block-interactive-stall.inference-hook.code.attachment.ts"
 
 export const AGENT = "019fa471-82e6-7808-93fa-30a33698fff8"
 

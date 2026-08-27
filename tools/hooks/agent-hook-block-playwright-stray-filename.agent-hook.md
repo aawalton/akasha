@@ -2,7 +2,6 @@
 id: 889ac964-ffaa-57a3-bb82-46739eaeeb95
 page-type-slug: agent-hook
 title: "Agent hook block playwright stray filename"
-hook-path: tools/hooks/block-playwright-stray-filename.ts
 kind: ruling
 slug: agent-hook-block-playwright-stray-filename
 domain-parent-slug: page-type/agent-hook

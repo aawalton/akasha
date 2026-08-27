@@ -35,12 +35,12 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-addon-direct-install.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-block-addon-direct-install.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-root-filesystem-scan.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-block-root-filesystem-scan.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
@@ -50,22 +50,22 @@
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-destructive-git.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-block-destructive-git.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-substituting-backtick.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-block-substituting-backtick.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/name-subagent.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-name-subagent.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/require-ops-help.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-require-ops-help.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -75,7 +75,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-playwright-stray-filename.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-block-playwright-stray-filename.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -87,7 +87,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/record-read.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-record-read.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -97,7 +97,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/record-ops-help.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-record-ops-help.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -107,7 +107,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-subagent.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-state-subagent.agent-hook.code.attachment.ts",
             "timeout": 15
           }
         ]
@@ -141,22 +141,22 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/local-agent-session-start.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-local-agent-session-start.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/record-epoch.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-record-epoch.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/idle-on-session-start.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-idle-on-session-start.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-subagent.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-state-subagent.agent-hook.code.attachment.ts",
             "timeout": 15
           }
         ]
@@ -167,7 +167,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/mark-compacting.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-mark-compacting.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -178,7 +178,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/end-compacting.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-end-compacting.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -189,7 +189,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/clear-working-on-session-end.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-clear-working-on-session-end.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -200,7 +200,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/idle-on-stop-failure.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-idle-on-stop-failure.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -211,12 +211,12 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-subagent.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-state-subagent.agent-hook.code.attachment.ts",
             "timeout": 15
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/compose-subagent.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-compose-subagent.agent-hook.code.attachment.ts",
             "timeout": 15
           }
         ]
@@ -227,7 +227,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-subagent.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-state-subagent.agent-hook.code.attachment.ts",
             "timeout": 15
           }
         ]
@@ -238,7 +238,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/stamp-turn-start.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-stamp-turn-start.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
@@ -248,12 +248,12 @@
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/persona-last-messaged-hook.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-persona-last-messaged-hook.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/rc-session-title-hook.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-rc-session-title-hook.agent-hook.code.attachment.ts",
             "timeout": 1
           }
         ]
@@ -264,17 +264,17 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/forward-turn-to-recorder.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-forward-turn-to-recorder.agent-hook.code.attachment.ts",
             "timeout": 1
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-headless-halt.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/inference-hook-block-headless-halt.inference-hook.code.attachment.ts",
             "timeout": 25
           },
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-interactive-stall.ts",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/inference-hook-block-interactive-stall.inference-hook.code.attachment.ts",
             "timeout": 25
           }
         ]
