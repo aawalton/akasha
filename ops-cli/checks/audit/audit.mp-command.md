@@ -4,7 +4,7 @@ page-type-slug: mp-command
 title: "Audit"
 slug: audit
 path: checks audit
-domain-parent-slug: domain/master-plan-audit
+domain-parent-slug: mp-namespace/checks
 required-reading-slugs:
   - page-type/mp-command
 ---
