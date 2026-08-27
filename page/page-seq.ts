@@ -1,6 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { exclusively } from "../exclusive/exclusive.ts"
+import { git } from "../repo/git/git.ts"
 import { landFiles } from "../repo/land/land.ts"
 import { handOffPush } from "../repo/push/push.ts"
 import { INSTRUCTIONS } from "../repo/roots/roots.ts"
@@ -50,12 +51,8 @@ export function statesNextSeq(instructionsRoot: string, pageTypeRelPath: string)
 }
 
 function uncommitted(source: SeqSource): boolean {
-  const proc = Bun.spawnSync(
-    ["git", "-C", source.instructionsRoot, "status", "--porcelain", "--", source.pageTypeRelPath],
-    { stdout: "pipe", stderr: "pipe" }
-  )
-  if ((proc.exitCode ?? 1) !== 0) return false
-  return new TextDecoder().decode(proc.stdout ?? new Uint8Array()).trim() !== ""
+  const said = git(source.instructionsRoot, ["status", "--porcelain", "--", source.pageTypeRelPath])
+  return said.code === 0 && said.stdout !== ""
 }
 
 function advanced(standing: string | null, source: SeqSource, seq: number): string {

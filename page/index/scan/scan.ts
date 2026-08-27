@@ -1,3 +1,4 @@
+import { matchesGlob } from "../../glob/glob.ts"
 import { builtFrom, indexReaches, loadPages } from "../store/store.ts"
 
 const SUFFIXED = /\*\.[a-z0-9-]+\.md$/
@@ -19,11 +20,10 @@ export function scannedFromIndex(
         "with `ops index refresh`."
     )
   }
-  const matching = patterns.map((one) => new Bun.Glob(one))
   const found = new Set<string>()
   for (const one of loadPages()) {
     if (one.repo !== repo) continue
-    if (matching.some((each) => each.match(one.key))) found.add(one.key)
+    if (patterns.some((each) => matchesGlob(one.key, each))) found.add(one.key)
   }
   return [...found].sort()
 }

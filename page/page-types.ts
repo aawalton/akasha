@@ -1,4 +1,5 @@
 import { readdirSync } from "node:fs"
+import { globFor, matchesGlob, scanGlob } from "./glob/glob.ts"
 import { isRowsFile } from "./rows-file.ts"
 import { isAttachmentFile } from "./attachment-file.ts"
 import { listField, type Frontmatter } from "./frontmatter.ts"
@@ -30,18 +31,11 @@ export const PAGE_PROPERTY_TYPE_GLOB = placeOf("page-property-type")
 
 export const PAGE_SHAPE_GLOBS = [...PAGE_GLOBS, PAGE_PROPERTY_TYPE_GLOB]
 
-const globs = new Map<string, Bun.Glob>()
-
-export function globFor(pattern: string): Bun.Glob {
-  const held = globs.get(pattern)
-  if (held !== undefined) return held
-  const made = new Bun.Glob(pattern)
-  globs.set(pattern, made)
-  return made
-}
+/** Handed on from where it now lives, so the checks importing it from here still find it. */
+export { globFor }
 
 export function matchesAny(relPath: string, globs: readonly string[]): boolean {
-  return globs.some((one) => globFor(one).match(relPath))
+  return globs.some((one) => matchesGlob(relPath, one))
 }
 
 const LOCATION_FREE = /^\*\*\/\*\.([a-z0-9-]+)\.md$/
@@ -97,9 +91,9 @@ export function scanIn(
     if (suffix === null) walked.push(pattern)
     else suffixes.add(suffix)
   }
-  const found = walked.flatMap((pattern) => [...globFor(pattern).scanSync({ cwd: root })])
+  const found = walked.flatMap((pattern) => [...scanGlob(pattern, root)])
   if (suffixes.size > 0) {
-    for (const at of globFor(`**/*${MARKDOWN}`).scanSync({ cwd: root })) {
+    for (const at of scanGlob(`**/*${MARKDOWN}`, root)) {
       if (suffixes.has(typeSuffixOf(at))) found.push(at)
     }
   }
@@ -317,7 +311,7 @@ export function claiming(relPath: string, repo: string, types: readonly PageType
   const { rank, bySuffix, elsewhere } = claimantsOf(types)
   const named = bySuffix.get(typeSuffixOf(relPath)) ?? []
   const found = [...named, ...elsewhere].filter(
-    (one) => placesIn(one, repo).some((glob) => globFor(glob).match(relPath))
+    (one) => placesIn(one, repo).some((glob) => matchesGlob(relPath, glob))
   )
   return found.length < 2 ? found : found.sort((a, b) => (rank.get(a) ?? 0) - (rank.get(b) ?? 0))
 }

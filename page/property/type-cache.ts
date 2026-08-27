@@ -4,6 +4,7 @@ import { gitCapped } from "../../repo/git/git.ts"
 import { writeWhole } from "../../write-whole/write-whole.ts"
 import type { Property } from "./property.ts"
 import type { FileTree } from "../file-tree.ts"
+import { RUNTIME_MARK } from "../runtime/runtime.ts"
 import { folderIn, PAGE_PROPERTY_TYPE_GLOB, PAGE_TYPE_GLOBS, PROPERTY_GLOBS } from "../page-types.ts"
 
 const VERSION = 5
@@ -132,7 +133,7 @@ function groundOver(root: string): Ground | null {
   const blobs = blobsUnder(root, types)
   if (blobs === null) return null
   const inputs = named.map((at, index) => `${at}:${recorded[index]}`)
-  inputs.push(`bun:${Bun.version}`)
+  inputs.push(RUNTIME_MARK)
   return { base: inputs.join("\n"), blobs }
 }
 

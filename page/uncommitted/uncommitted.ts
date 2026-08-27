@@ -1,5 +1,6 @@
 import { mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
+import { parse, stringify } from "yaml"
 import { exclusively } from "../../exclusive/exclusive.ts"
 
 const PAGE_SUFFIX = ".md"
@@ -22,7 +23,7 @@ export function readUncommitted(pagePath: string): Record<string, unknown> | nul
   }
   let parsed: unknown
   try {
-    parsed = Bun.YAML.parse(raw)
+    parsed = parse(raw)
   } catch {
     return null
   }
@@ -35,7 +36,7 @@ export function writeUncommitted(pagePath: string, values: Record<string, unknow
   const path = uncommittedPathFor(pagePath)
   mkdirSync(dirname(path), { recursive: true })
   const scratch = `${path}.${process.pid}.part`
-  writeFileSync(scratch, Bun.YAML.stringify(values), "utf8")
+  writeFileSync(scratch, stringify(values), "utf8")
   renameSync(scratch, path)
 }
 

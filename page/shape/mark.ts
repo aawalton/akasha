@@ -4,6 +4,7 @@ import { gitCapped } from "../../repo/git/git.ts"
 import { AKASHA, akashaRoot, REPOS } from "../../repo/roots/roots.ts"
 import type { FileTree } from "../file-tree.ts"
 import type { Roots } from "../page.ts"
+import { RUNTIME_MARK } from "../runtime/runtime.ts"
 import { folderIn, PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
 
 export const CODE_DIRS: readonly string[] = [
@@ -96,7 +97,7 @@ export function groundOverCommit(root: string): Ground | null {
   if (blobs === null) return null
   const parts = dirs.map((at, index) => `${at}:${oids[index]}`)
   parts.push(...own)
-  parts.push(`bun:${Bun.version}`)
+  parts.push(RUNTIME_MARK)
   return { base: parts.join("\n"), blobs }
 }
 
@@ -133,7 +134,7 @@ export function groundSpanning(roots: Roots): Ground | null {
   }
   if (blobs.size === 0) return null
   parts.push(...own)
-  parts.push(`bun:${Bun.version}`)
+  parts.push(RUNTIME_MARK)
   return { base: parts.join("\n"), blobs }
 }
 
