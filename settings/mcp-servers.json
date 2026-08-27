@@ -1,0 +1,25 @@
+{
+  "messages": {
+    "type": "stdio",
+    "command": "bun",
+    "args": ["run", "$INSTRUCTIONS/tools/lib/messages-mcp.ts"],
+    "secretEnv": ["MCP_API_KEY"]
+  },
+  "playwright": {
+    "type": "stdio",
+    "command": "env",
+    "forwardEnv": ["PATH", "HOME"],
+    "storageState": "$HOME/.cache/claude-code/playwright-storage-state.json",
+    "args": [
+      "npx",
+      "-y",
+      "@playwright/mcp@0.0.76",
+      "--headless",
+      "--browser=chromium",
+      "--isolated",
+      "--storage-state=$STORAGE_STATE",
+      "--output-dir",
+      "$HOME/.playwright-mcp"
+    ]
+  }
+}

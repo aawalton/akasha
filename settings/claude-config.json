@@ -1,0 +1,7 @@
+{
+  "hasCompletedOnboarding": true,
+  "projects": {
+    "$HOME/repos/instructions": { "hasTrustDialogAccepted": true },
+    "$HOME/repos/code": { "hasTrustDialogAccepted": true }
+  }
+}

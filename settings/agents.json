@@ -1,0 +1,294 @@
+{
+  "env": {
+    "BASH_ENV": "$HOME/repos/akasha/tools/bash-env.sh",
+    "CLAUDE_CODE_THRIFTY_SONIC": "0",
+    "DISABLE_AUTOUPDATER": "1",
+    "ENABLE_TOOL_SEARCH": "true"
+  },
+  "permissions": {
+    "allow": [],
+    "deny": [
+      "Grep",
+      "Glob",
+      "Bash(gh:*)",
+      "EnterPlanMode",
+      "ExitPlanMode",
+      "EnterWorktree",
+      "ExitWorktree",
+      "AskUserQuestion",
+      "PushNotification",
+      "Workflow",
+      "Artifact",
+      "ReportFindings",
+      "Skill",
+      "Agent(claude)",
+      "Agent(Plan)",
+      "Agent(statusline-setup)",
+      "Agent(claude-code-guide)",
+      "Agent(isolation:worktree)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/block-addon-direct-install.sh",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/block-root-filesystem-scan.sh",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/block-whole-suite-run.sh",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/block-destructive-git.sh",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/block-substituting-backtick.sh",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/name-subagent.ts",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/require-ops-help.ts",
+            "timeout": 1
+          }
+        ]
+      },
+      {
+        "matcher": "mcp__playwright__.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/block-playwright-stray-filename.sh",
+            "timeout": 1
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Read",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/record-read.ts",
+            "timeout": 1
+          }
+        ]
+      },
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/record-ops-help.ts",
+            "timeout": 1
+          }
+        ]
+      },
+      {
+        "matcher": "TaskStop",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-subagent.ts",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "printf '\\a'",
+            "timeout": 1
+          }
+        ]
+      }
+    ],
+    "PermissionRequest": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PermissionRequest\",\"decision\":{\"behavior\":\"allow\"}}}'",
+            "timeout": 1
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/local-agent-session-start.sh",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/record-epoch.ts",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/idle-on-session-start.ts",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-subagent.ts",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "PreCompact": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/mark-compacting.ts",
+            "timeout": 1
+          }
+        ]
+      }
+    ],
+    "PostCompact": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/end-compacting.ts",
+            "timeout": 1
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/clear-working-on-session-end.ts",
+            "timeout": 1
+          }
+        ]
+      }
+    ],
+    "StopFailure": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/idle-on-stop-failure.ts",
+            "timeout": 1
+          }
+        ]
+      }
+    ],
+    "SubagentStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-subagent.ts",
+            "timeout": 15
+          },
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/compose-subagent.ts",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "SubagentStop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-subagent.ts",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/stamp-turn-start.ts",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/state-errand.ts",
+            "timeout": 10
+          },
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/persona-last-messaged-hook.sh",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/rc-session-title-hook.sh",
+            "timeout": 1
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/forward-turn-to-recorder.sh",
+            "timeout": 1
+          },
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/block-headless-halt.sh",
+            "timeout": 25
+          },
+          {
+            "type": "command",
+            "command": "bash $HOME/repos/akasha/tools/hooks/block-interactive-stall.sh",
+            "timeout": 25
+          }
+        ]
+      }
+    ]
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "bash $HOME/repos/akasha/tools/statusline.sh"
+  },
+  "fastMode": false,
+  "skipDangerousModePermissionPrompt": true,
+  "remoteControlAtStartup": true,
+  "agentPushNotifEnabled": false,
+  "promptSuggestionEnabled": false,
+  "spinnerTipsEnabled": false
+}
