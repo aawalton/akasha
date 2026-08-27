@@ -145,10 +145,6 @@ export function plantSeat(at: Fixture, seat: Planted): string {
   return path
 }
 
-export function plantProject(at: Fixture, seq: string): void {
-  at.document(`projects/${seq}.md`, `page-type-slug: project\ntitle: "Project ${seq}"\nseq: ${seq}`, 20)
-}
-
 export function plantInitiative(at: Fixture, relPath: string, slug: string): void {
   at.document(relPath, `page-type-slug: initiative\ntitle: "${slug}"\nslug: ${slug}\ndomain: global`, 20)
 }
