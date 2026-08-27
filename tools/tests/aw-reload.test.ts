@@ -53,15 +53,15 @@ async function run({ generated, generatorExits = 0 }: Case): Promise<Run> {
     await Bun.write(capture, "")
     await Bun.write(generatedFile, generated ?? "")
     if (generated !== null) {
-      const awDir = join(home, "repos/instructions/tools/aw")
+      const awDir = join(home, "repos/akasha/tools/aw")
       await mkdir(awDir, { recursive: true })
       await Bun.write(join(awDir, "cli.ts"), "// stub\n")
     }
-    await mkdir(join(home, "repos/instructions/pages/claude-account"), { recursive: true })
+    await mkdir(join(home, "repos/akasha/pages/claude-account"), { recursive: true })
     await Bun.write(
       join(
         home,
-        `repos/instructions/pages/claude-account/${SEEDED_ACCOUNT}.claude-account.uncommitted.yaml`
+        `repos/akasha/pages/claude-account/${SEEDED_ACCOUNT}.claude-account.uncommitted.yaml`
       ),
       SEEDED_PAGE
     )
@@ -81,7 +81,7 @@ async function run({ generated, generatorExits = 0 }: Case): Promise<Run> {
 
     const result = await bash(
       `export HOME=${JSON.stringify(home)}
-       unset INSTRUCTIONS_ROOT
+       unset AKASHA_ROOT
        export PATH=${JSON.stringify(bin)}:"$PATH"
        source ${JSON.stringify(startupFile)}
        cu`

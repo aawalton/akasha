@@ -127,8 +127,8 @@ async function runSr(row: Row = {}): Promise<SrRun> {
       await chmod(join(bin, "systemd-run"), 0o755)
     }
     if (row.seatCommand !== undefined) {
-      await mkdir(join(home, "repos", "instructions", dirname(SEAT_COMMAND_REL)), { recursive: true })
-      await Bun.write(join(home, "repos", "instructions", SEAT_COMMAND_REL), "// stub\n")
+      await mkdir(join(home, "repos", "akasha", dirname(SEAT_COMMAND_REL)), { recursive: true })
+      await Bun.write(join(home, "repos", "akasha", SEAT_COMMAND_REL), "// stub\n")
     }
     await Bun.write(
       join(bin, "bun"),
@@ -151,7 +151,7 @@ async function runSr(row: Row = {}): Promise<SrRun> {
       `export HOME=${JSON.stringify(home)}
        export PATH=${JSON.stringify(bin)}:"$PATH"
        export AGENT_ID=${JSON.stringify(LAUNCHING_ID)}
-       unset INSTRUCTIONS_ROOT
+       unset AKASHA_ROOT
        source ${JSON.stringify(tmpFile)}
        ${invocation}`
     )

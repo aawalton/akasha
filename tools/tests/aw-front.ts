@@ -49,13 +49,13 @@ export async function runSn(
   classified: Classified = {}
 ): Promise<SnRun> {
   const home = await mkdtemp(join(SCRATCH_ROOT, "sn-front-"))
-  const instructions = join(home, "repos", "instructions")
+  const akasha = join(home, "repos", "akasha")
   try {
     for (const dir of classified.skillDirs ?? []) {
-      await mkdir(join(instructions, "skills", dir), { recursive: true })
-      await Bun.write(join(instructions, "skills", dir, "SKILL.md"), "# document\n")
-      await mkdir(join(instructions, "dirty", "skills", dir), { recursive: true })
-      await Bun.write(join(instructions, "dirty", "skills", dir, "SKILL.md"), "# document\n")
+      await mkdir(join(akasha, "skills", dir), { recursive: true })
+      await Bun.write(join(akasha, "skills", dir, "SKILL.md"), "# document\n")
+      await mkdir(join(akasha, "dirty", "skills", dir), { recursive: true })
+      await Bun.write(join(akasha, "dirty", "skills", dir, "SKILL.md"), "# document\n")
     }
     for (const [type, slugs] of [
       ["persona", classified.personaSlugs ?? []],
@@ -63,7 +63,7 @@ export async function runSn(
       ["domain", classified.domainSlugs ?? []],
     ] as const) {
       for (const slug of slugs) {
-        const dir = join(instructions, "pages", type)
+        const dir = join(akasha, "pages", type)
         await mkdir(dir, { recursive: true })
         await Bun.write(join(dir, `${slug}.${type}.md`), "# document\n")
       }
@@ -151,8 +151,8 @@ export async function runSn(
       await chmod(join(bin, "systemd-run"), 0o755)
     }
     if (classified.seatCommand !== undefined || classified.sorted !== undefined) {
-      await mkdir(join(instructions, dirname(SEAT_COMMAND_REL)), { recursive: true })
-      await Bun.write(join(instructions, SEAT_COMMAND_REL), "// stub\n")
+      await mkdir(join(akasha, dirname(SEAT_COMMAND_REL)), { recursive: true })
+      await Bun.write(join(akasha, SEAT_COMMAND_REL), "// stub\n")
     }
     const resolveArm =
       classified.sorted === undefined
@@ -208,7 +208,7 @@ export async function runSn(
     const result = await bash(
       `export HOME=${JSON.stringify(home)}
        export PATH=${JSON.stringify(bin)}:"$PATH"
-       unset INSTRUCTIONS_ROOT
+       unset AKASHA_ROOT
        source ${JSON.stringify(initScript)}
        ${invocation}`
     )

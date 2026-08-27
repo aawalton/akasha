@@ -29,7 +29,7 @@ export const EXPECTED_ALIASES = ["s.", "gs", "gc", "gca", "gcc", "gp", "gl", "gg
 
 export const SUPERVISOR = '"$_root/tools/run-supervisor.ts"'
 export const PROXY = '"$_root/tools/lib/pty-proxy.ts"'
-export const OPS = "~/repos/instructions/tools/ops/cli.ts"
+export const OPS = "~/repos/akasha/tools/ops/cli.ts"
 
 export const output = generateBashInit(FIXTURE_ACCOUNTS)
 
