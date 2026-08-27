@@ -28,10 +28,15 @@ export default workflow("cloudflared", {
       namespace: "cloudflared",
       secretFile: "infra/k8s/src/cloudflared/k8s/secret.sops.yaml",
     }),
+    kubectlApplyClusterScoped({
+      name: "cloudflared-apply-ddns-namespace",
+      files: "infra/k8s/src/ddns-headscale/generated/namespace.generated.yaml",
+      serverSide: true,
+    }),
     sopsDecryptApply({
       name: "cloudflared-apply-ddns-secret",
-      namespace: "cloudflared",
-      secretFile: "infra/k8s/src/cloudflared/k8s/cloudflare-api-token.sops.yaml",
+      namespace: "ddns-headscale",
+      secretFile: "infra/k8s/src/ddns-headscale/k8s/cloudflare-api-token.sops.yaml",
     }),
     {
       ...step({
@@ -39,14 +44,14 @@ export default workflow("cloudflared", {
         image: IMAGES.KUBECTL,
         environment: { HOME: "/tmp" },
         commands: (ci) => [
-          `kubectl apply --server-side --force-conflicts -n cloudflared -f ${ci.workspace}/infra/k8s/src/cloudflared/generated/ddns-cronjob.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -n ddns-headscale -f ${ci.workspace}/infra/k8s/src/ddns-headscale/generated/cronjob.generated.yaml`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
         },
       }),
       dependsOn: [
-        "cloudflared-apply-namespace",
+        "cloudflared-apply-ddns-namespace",
         "cloudflared-apply-rbac",
         "cloudflared-apply-ddns-secret",
       ],
