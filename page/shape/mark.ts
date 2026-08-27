@@ -24,7 +24,9 @@ export const CODE_SEEDS: readonly string[] = [
   "page/shape/shape.ts",
 ]
 
-const PAGE_TYPE_NAMED: readonly string[] = ["*.page-type.md", "*.rules-engine-rule-set.md"]
+const PAGE_SHAPE_NAMED: readonly string[] = [
+  ...new Set(PAGE_SHAPE_GLOBS.map((one) => one.slice(one.lastIndexOf("/") + 1))),
+]
 
 interface Ground {
   readonly base: string
@@ -60,7 +62,7 @@ function blobsUnder(root: string, dirs: readonly string[]): ReadonlyMap<string, 
 }
 
 function blobsNamed(root: string): ReadonlyMap<string, string> | null {
-  const listed = gitCapped(root, ["ls-files", "-s", "--", ...PAGE_TYPE_NAMED])
+  const listed = gitCapped(root, ["ls-files", "-s", "--", ...PAGE_SHAPE_NAMED])
   if (listed.code !== 0) return null
   const blobs = new Map<string, string>()
   for (const line of listed.stdout.split("\n")) {
@@ -102,7 +104,7 @@ function repoParts(
   repo: string,
   root: string
 ): { readonly parts: readonly string[]; readonly blobs: ReadonlyMap<string, string> } | null {
-  if (gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...PAGE_TYPE_NAMED]).code !== 0) return null
+  if (gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...PAGE_SHAPE_NAMED]).code !== 0) return null
   const blobs = blobsNamed(root)
   if (blobs === null) return null
   const parts = [...blobs.keys()].sort().map((at) => `${repo}/${at}:${blobs.get(at)}`)

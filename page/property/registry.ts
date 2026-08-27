@@ -1,7 +1,7 @@
 import { answeredWhole } from "./answer-cache.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import type { FileTree } from "../file-tree.ts"
-import { pageTypeGlobsIn, type PageType, pageTypeOf, pageTypeStatedAt, type StatedPageType } from "../page-types.ts"
+import { globsIn, PAGE_TYPE_GLOBS, type PageType, pageTypeOf, pageTypeStatedAt, type StatedPageType } from "../page-types.ts"
 
 const registries = new WeakMap<FileTree, readonly PageType[]>()
 
@@ -36,7 +36,7 @@ function statedOver(relPaths: readonly string[], tree: FileTree): ReadonlyMap<st
 }
 
 function statedRegistry(tree: FileTree): readonly StatedPageType[] {
-  const relPaths = tree.paths(pageTypeGlobsIn(tree.roots))
+  const relPaths = tree.paths(globsIn(tree.roots, PAGE_TYPE_GLOBS))
   const stated = statedOver(relPaths, tree)
   const said: StatedPageType[] = []
   for (const relPath of relPaths) {

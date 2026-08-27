@@ -3,7 +3,7 @@ import type { FileTree, Open } from "../file-tree.ts"
 import { statedOf } from "./record.ts"
 import { answeredWhole } from "./answer-cache.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
-import { PAGE_PROPERTY_TYPE_GLOB } from "../page-types.ts"
+import { globsIn, PAGE_PROPERTY_TYPE_GLOB } from "../page-types.ts"
 import { blockOf, stringAt } from "../text/text.ts"
 import type { Stated } from "./stated.ts"
 
@@ -81,7 +81,7 @@ function statedOver(relPaths: readonly string[], tree: FileTree): ReadonlyMap<st
 }
 
 function propertyTypesIn(tree: FileTree): PropertyTypes {
-  const standing = tree.paths(PAGE_PROPERTY_TYPE_GLOB)
+  const standing = tree.paths(globsIn(tree.roots, [PAGE_PROPERTY_TYPE_GLOB]))
   const stated = statedOver(standing, tree)
   const types: PropertyType[] = []
   const reaching = new Set<string>()

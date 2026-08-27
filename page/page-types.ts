@@ -17,11 +17,6 @@ export const PAGE_TYPE_GLOBS: readonly string[] = [
   placeOf("rules-engine-rule-set"),
 ]
 
-export const PAGE_TYPE_SPANNING_GLOBS: readonly string[] = [
-  namedOf("page-type"),
-  namedOf("rules-engine-rule-set"),
-]
-
 export const PAGE_BODY_SHAPE_GLOBS: readonly string[] = [placeOf("page-body-shape")]
 
 export const PROPERTY_GLOBS: readonly string[] = [
@@ -219,12 +214,9 @@ export function placeOf(slug: string): string {
   return `${placeDirOf(slug)}/**/*.${slug}${MARKDOWN}`
 }
 
-export function namedOf(slug: string): string {
-  return `**/*.${slug}${MARKDOWN}`
-}
-
-export function pageTypeGlobsIn(roots: Roots | undefined): readonly string[] {
-  return roots === undefined ? PAGE_TYPE_GLOBS : PAGE_TYPE_SPANNING_GLOBS
+export function globsIn(roots: Roots | undefined, globs: readonly string[]): readonly string[] {
+  if (roots === undefined) return globs
+  return [...new Set(globs.map((one) => `**/${one.slice(one.lastIndexOf("/") + 1)}`))]
 }
 
 export interface Filed {
