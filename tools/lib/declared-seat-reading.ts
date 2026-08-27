@@ -54,7 +54,7 @@ export function initiativeWarrant(
   const held: SeatDocument[] = [{ root: roots.memory, relPath: place.relPath }]
   const type = docs.domainAt(place.pageTypeSlug)
   if (type === null) return held
-  return [...held, ...withAncestry(type, roots.instructions, docs)]
+  return [...held, ...withAncestry(type, roots.akasha, docs)]
 }
 
 export function onCallWarrant(root: string, docs: Documents): readonly SeatDocument[] | null {
@@ -104,7 +104,7 @@ export function declaredSeatReading(
   roots: Roots,
   docs: Documents
 ): readonly Warranted[] {
-  const root = roots.instructions
+  const root = roots.akasha
   const out: Warranted[] = []
   for (const slot of ATTRIBUTES) {
     const one = stated.attributes[slot]

@@ -16,14 +16,14 @@ export function tracked(root: string): readonly string[] {
   return listed.stdout.toString().split("\0").filter((relPath) => relPath !== "")
 }
 
-export function reachedIn(instructionsRoot: string, root: string, tree: Tree): readonly string[] {
+export function reachedIn(pagesRoot: string, root: string, tree: Tree): readonly string[] {
   const paths = tracked(root)
-  const answered = requiredReadingForEach(paths, instructionsRoot, tree)
+  const answered = requiredReadingForEach(paths, pagesRoot, tree)
   return paths.filter((relPath) => (answered.get(relPath) ?? []).includes(DOMAIN_DOC))
 }
 
-export function reachedBy(instructionsRoot: string, relPath: string, tree: Tree): boolean {
-  return requiredReadingWhole(relPath, instructionsRoot, tree).includes(DOMAIN_DOC)
+export function reachedBy(pagesRoot: string, relPath: string, tree: Tree): boolean {
+  return requiredReadingWhole(relPath, pagesRoot, tree).includes(DOMAIN_DOC)
 }
 
 export function packagesIn(files: readonly string[]): readonly string[] {

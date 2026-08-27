@@ -20,7 +20,7 @@ export function domainsRequiredFor(
   descent: Descent,
   roots: Roots
 ): readonly Answering[] {
-  return requiredReadingWhole(relPath, roots.instructions).flatMap((document) => {
+  return requiredReadingWhole(relPath, roots.akasha).flatMap((document) => {
     const slug = descent.slugAt.get(document)
     if (slug === undefined) return []
     const champion = descent.championOfSlug.get(slug)
@@ -52,7 +52,7 @@ export function pathRecord(
 } {
   return {
     record: "owns-path",
-    root: roots.instructions,
+    root: roots.akasha,
     paths: paths.map((relPath) => ({
       path: relPath,
       quarantined: isDirty(relPath),

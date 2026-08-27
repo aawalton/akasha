@@ -63,7 +63,7 @@ function judge(fields: Record<string, unknown>): void {
   if (checkout === null || absolute === checkout) return
 
   const relPath = absolute.slice(checkout.length + 1)
-  if (!reachedBy(roots.instructions, relPath, "code")) return
+  if (!reachedBy(roots.akasha, relPath, "code")) return
 
   const body = bodyAfter(fields, absolute)
   if (body === null) return
@@ -77,7 +77,7 @@ function judge(fields: Record<string, unknown>): void {
     throw error
   }
 
-  const forms = formsFrom(readFileSync(`${roots.instructions}/${FORMS_DOC}`, "utf8"))
+  const forms = formsFrom(readFileSync(`${roots.akasha}/${FORMS_DOC}`, "utf8"))
   const outside = comments.filter((comment) => classify(comment, relPath, forms) !== "form")
   if (outside.length === 0) return
 
@@ -94,7 +94,7 @@ function judge(fields: Record<string, unknown>): void {
         comments: named.join("; "),
         forms: FORMS_DOC,
       },
-      roots.instructions,
+      roots.akasha,
       fromDisk
     )
   )

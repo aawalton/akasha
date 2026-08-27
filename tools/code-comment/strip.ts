@@ -183,10 +183,10 @@ function run(argv: readonly string[]): void {
   const tree: Tree = asked
   const roots = resolveRoots()
   const root = tree === "code" ? roots.code : roots.instructions
-  const forms = formsFrom(readFileSync(`${roots.instructions}/${FORMS_DOC}`, "utf8"))
+  const forms = formsFrom(readFileSync(`${roots.akasha}/${FORMS_DOC}`, "utf8"))
   const named = flag(argv, "--file-path")
   const scope = flag(argv, "--under")
-  const reached = named === null ? reachedIn(roots.instructions, root, tree) : [named]
+  const reached = named === null ? reachedIn(roots.akasha, root, tree) : [named]
   const scoped = scope === null ? reached : reached.filter((relPath) => relPath.startsWith(`${scope}/`))
   if (scope !== null && scoped.length === 0) {
     process.stderr.write(`error: nothing required to be read against ${DOMAIN_DOC} stands under ${scope} in ${root}\n`)
