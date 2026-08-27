@@ -17,7 +17,7 @@ import { examinePopulation } from "../lib/check-workflow/population.ts"
 import { loadWorkspaces } from "../lib/check-workflow/test-step-loader.ts"
 import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"
 import { computeTransitiveClosure, type WorkspaceInfo } from "../lib/check-workflow/workspace-deps.ts"
-import { AKASHA, CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { parseArgs } from "../lib/parse-args.ts"
 import { loadWorkflowPage, workflowPages } from "../lib/workflow-dsl/discovery.ts"
 import type { CommandHelp } from "../ops/surface.ts"
@@ -49,7 +49,7 @@ export const help: CommandHelp = {
       name: "--code-root",
       argLabel: "<dir>",
       valueShape: "token",
-      description: "The code checkout to read (defaults to the configured code root).",
+      description: "The checkout whose workspaces are read (defaults to this repository's root).",
     },
     {
       name: "--instructions-root",
@@ -169,7 +169,10 @@ async function deployablePackages(instructionsRoot: string, codeRoot: string): P
 export default async function checkPagesUiStoreSidecarMemory(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = resolveRoots()
-  const codeRoot = resolve(parsed.string("--code-root") ?? rootFor(roots, CODE))
+  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the workspaces this reads stand here.
+  // `??` guarded nothing: `rootFor` is evaluated whether or not `--code-root` was given, and it
+  // throws for a repository nothing has cloned, so every call without that flag died on this line.
+  const codeRoot = resolve(parsed.string("--code-root") ?? rootFor(roots, AKASHA))
   const instructionsRoot = resolve(parsed.string("--instructions-root") ?? rootFor(roots, AKASHA))
 
   let workspaces: readonly WorkspaceInfo[]

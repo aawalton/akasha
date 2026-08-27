@@ -10,6 +10,7 @@ import { agentId } from "./lib/read-record.ts"
 import { RENAME_TOKEN_HELP } from "./lib/rename-token-help.ts"
 import { type Roots } from "../page/page"
 import { resolveRoots, targetRoot } from "../repo/roots/roots"
+import { codeRoot } from "./lib/code-root.ts"
 import { defaultMessage, fail, land, operational, recordOwnRead } from "./lib/command.ts"
 import { type Landing } from "../repo/land/land"
 
@@ -80,10 +81,19 @@ interface Sighting {
   readonly at: number
 }
 
-async function installed(roots: Roots): Promise<Installed | null> {
+/**
+ * A TypeScript carrying a language service, and the `@types` directory beside it.
+ *
+ * THE `code` REPOSITORY IS GONE. This read `roots.code`, which is `undefined` where nothing has
+ * cloned it, and built the literal path `undefined/node_modules` — never there, so the install this
+ * means to prefer was never looked at and whatever `tsc` stood on PATH answered instead, with
+ * nothing saying so. `codeRoot()` answers the akasha root, or `CODE_ROOT` where that names a
+ * directory that is really there.
+ */
+async function installed(): Promise<Installed | null> {
   const beside = `${process.env.HOME ?? "/nonexistent"}/.bun/bin/tsc`
   const onPath = existsSync(beside) ? beside : Bun.which("tsc")
-  const roads = [`${roots.code}/node_modules`]
+  const roads = [`${codeRoot()}/node_modules`]
   if (onPath !== null && existsSync(onPath)) {
     const segments = realpathSync(onPath).split("/")
     const at = segments.lastIndexOf("node_modules")
@@ -205,11 +215,11 @@ async function main(): Promise<void> {
   if (!IDENTIFIER.test(next)) fail(`--new ${next} is not a legal TypeScript identifier`)
   if (old === next) fail("--old and --new are identical, so this asks for no change")
 
-  const reachable = await installed(roots)
+  const reachable = await installed()
   if (reachable === null) {
     fail(
-      "no TypeScript carrying a language service is reachable — neither the code repo's " +
-        "`node_modules/typescript` nor whatever stands behind `tsc` on PATH. The 7.x native preview " +
+      "no TypeScript carrying a language service is reachable — neither " +
+        `\`node_modules/typescript\` under ${codeRoot()} nor whatever stands behind \`tsc\` on PATH. The 7.x native preview ` +
         "resolves symbols over LSP alone and is not one. This command will not fall back to bytes"
     )
     return

@@ -9,7 +9,7 @@ import { runRetry } from "../../lib/pipeline-retry/run.ts"
 import { kinOf, readSnapshot } from "../../lib/sweep-pipeline-pages/pages.ts"
 import { whereFor } from "../../lib/page-write.ts"
 import { type Roots } from "../../../page/page"
-import { CODE, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { servedTip } from "../../lib/served-tip.ts"
 import { STEP } from "../../lib/sweep-pipeline-pages/statuses.ts"
 import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
@@ -114,7 +114,10 @@ export default async function pipelineRetry(args: readonly string[]): Promise<vo
     workflows: kin.workflowsByPipeline.get(seq) ?? [],
     stepsOf: (workflowSeq) => kin.stepsByWorkflow.get(workflowSeq) ?? [],
     failureOf: (stepSeq) => failureReasonOf(roots, stepSeq),
-    branchTip: servedTip(rootFor(roots, CODE), pipeline.branch),
+    // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the checkout whose transport serves
+    // this branch is this one. `rootFor` throws for a repository nothing has cloned, so this threw
+    // before any retry could be planned.
+    branchTip: servedTip(rootFor(roots, AKASHA), pipeline.branch),
   }
 
   const decided = decideRetry(reading, targetWorkflow)
