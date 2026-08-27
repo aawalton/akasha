@@ -13,10 +13,14 @@ const DEADLINE_MS = 1_500
 
 let home = ""
 let root = ""
+// THE SEAT PAGE STANDS IN AKASHA, at `agent/seat/<id>.seat.md`. `tools/lib/seat-page-read.sh` looks
+// for it under `$AKASHA_ROOT/agent/seat`; it read `$MEMORY_ROOT/seats` while memory was a
+// repository of its own, and akasha has absorbed it, so nothing reads `MEMORY_ROOT` any more.
+let akasha = ""
 
 function seatPage(forwardsTo: string | null): void {
   writeFileSync(
-    `${home}/memory/seats/${SEAT}.md`,
+    `${akasha}/agent/seat/${SEAT}.seat.md`,
     [
       "---",
       "page-type-slug: seat",
@@ -32,9 +36,9 @@ function seatPage(forwardsTo: string | null): void {
 beforeEach(() => {
   home = mkdtempSync("/var/tmp/forward-turn-home-")
   root = mkdtempSync("/var/tmp/forward-turn-root-")
-  mkdirSync(`${home}/repos/code`, { recursive: true })
+  akasha = `${home}/repos/akasha`
   mkdirSync(`${home}/bin`, { recursive: true })
-  mkdirSync(`${home}/memory/seats`, { recursive: true })
+  mkdirSync(`${akasha}/agent/seat`, { recursive: true })
   seatPage(null)
   writeFileSync(
     `${home}/bin/bun`,
@@ -96,7 +100,7 @@ function stopOver(path: string): void {
     env: {
       HOME: home,
       AGENT_ID: AGENT,
-      MEMORY_ROOT: `${home}/memory`,
+      AKASHA_ROOT: akasha,
       FORWARD_TURN_LOG_DIR: home,
       PATH: `${home}/bin:${process.env.PATH ?? ""}`,
     },
