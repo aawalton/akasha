@@ -41,6 +41,7 @@ export interface RuntimeReading {
   readonly files: number
   readonly read: number
   readonly repointed: number
+  readonly unread: number
   readonly unreadable: readonly string[]
 }
 
@@ -261,6 +262,7 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
   let runtimeFiles = 0
   let runtimeRead = 0
   let runtimeRepointed = 0
+  let runtimeUnread = 0
   for (const { relPath, body } of textFiles(root)) {
     unreached.delete(relPath)
     const target = moves.get(relPath)
@@ -302,6 +304,7 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
       runtimeFiles += 1
       runtimeRead += running.read
       runtimeRepointed += running.patches.length
+      runtimeUnread += running.unread
       for (const one of running.unreadable) unreadable.push(`${lands}:${one}`)
     }
     if (relocating || applied.notes.length > 0) {
@@ -323,17 +326,23 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
       files: runtimeFiles,
       read: runtimeRead,
       repointed: runtimeRepointed,
+      unread: runtimeUnread,
       unreadable,
     },
   }
 }
 
 export function runtimeReading(reading: RuntimeReading): Outcome {
-  const detail =
+  const said =
     reading.repointed === 0
       ? `0 repointed across ${reading.files} module(s) — nothing here reaches what this call ` +
         "moves by a path written against its own directory"
       : `${reading.repointed} repointed across ${reading.files} module(s)`
+  const detail =
+    reading.unread === 0
+      ? said
+      : `${said}; ${reading.unread} base(s) build a path this cannot read, ` +
+        `${reading.unreadable.length} of them where this call moves a file out from under one`
   const messages =
     reading.unreadable.length === 0
       ? []
