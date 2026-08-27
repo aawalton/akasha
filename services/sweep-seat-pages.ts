@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Delete the page of every seat no agent is present in",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
@@ -47,7 +47,7 @@ NOTHING IS REMOVED WITHOUT --remove. The sweep reports by default, because what 
 away is a commit in another repository and seeing the list first costs one run.
 
 Usage:
-  bun ~/repos/instructions/services/sweep-seat-pages.ts [--remove]
+  bun ~/repos/akasha/services/sweep-seat-pages.ts [--remove]
 
   --remove  Take the pages away, through the gated removal, in one commit naming them all.
   --help    This.

@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Delete the log directory of every supervisor whose seat is gone",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { readdirSync, rmSync, statSync } from "node:fs"
@@ -21,7 +21,7 @@ what leaves a stopped seat's log readable for as long as somebody might open it.
 THE WINDOW IS FOR READING, NOT FOR SAFETY. No code here reads a departed supervisor's directory,
 so the window buys a person time to look, and nothing else. Shortening it strands no caller.
 
-THESE FILES ARE IGNORED, NOT TRACKED. The directory sits inside the code repository and its
+THESE FILES ARE IGNORED, NOT TRACKED. The directory sits inside the akasha repository and its
 \`.gitignore\` names it, so nothing here is repository content and no removal reaches a commit. That
 is why this takes them with a plain remove rather than through the gated one.
 
@@ -32,7 +32,7 @@ NOTHING IS REMOVED WITHOUT --remove. The sweep reports by default, because seein
 costs one run and the removal cannot be undone.
 
 Usage:
-  bun ~/repos/instructions/services/sweep-supervisor-logs.ts [--remove] [--keep-days <n>]
+  bun ~/repos/akasha/services/sweep-supervisor-logs.ts [--remove] [--keep-days <n>]
 
   --remove          Take the directories away.
   --keep-days <n>   Keep a departed supervisor's directory this many days. Default ${String(7)}.

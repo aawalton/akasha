@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Run the CI container dispatcher — place dispatching steps on the cluster on a cadence",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { openCluster } from "../tools/lib/ci-container-dispatcher/cluster.ts"
@@ -46,7 +46,6 @@ Environment:
   CI_STICKY_PINNING_ENABLED    \`1\` binds a branch pipeline's steps to one node; anything else
                                places each step wherever there is the most room.
   MEMORY_ROOT                  The checkout holding the step, workflow and pipeline pages.
-  CODE_ROOT                    The code checkout holding the cluster client.
 `
 
 function sleepAbortable(ms: number, signal: AbortSignal): Promise<boolean> {

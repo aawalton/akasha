@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Delete every editor page whose window or terminal is gone",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import {
@@ -50,7 +50,7 @@ NOTHING IS REMOVED WITHOUT --remove. The sweep reports by default, because what 
 is a commit in another repository and seeing the list first costs one run.
 
 Usage:
-  bun ~/repos/instructions/services/sweep-editor-pages.ts [--remove]
+  bun ~/repos/akasha/services/sweep-editor-pages.ts [--remove]
 
   --remove  Take the pages away, through the gated removal, one page type at a time.
   --help    This.

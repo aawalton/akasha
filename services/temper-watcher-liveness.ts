@@ -1,6 +1,6 @@
 export const tool = {
   summary: "One external liveness tick over the temper watcher: page the temper lead when the sync daemon is down or crash-looping",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
@@ -52,7 +52,7 @@ the log, so a watcher that stays down is said once an hour rather than once a mi
 IT WATCHES FROM OUTSIDE THE WATCHER. Nothing inside a dead daemon can report that it died.
 
 Usage:
-  bun ~/repos/instructions/services/temper-watcher-liveness.ts
+  bun ~/repos/akasha/services/temper-watcher-liveness.ts
 
   --help  This.
 `

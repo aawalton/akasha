@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Ask Alan whether he is still in the same tracked block, with one quick option asserting all three values",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { askAlanForPersona } from "../tools/lib/ask-alan.ts"
@@ -43,7 +43,7 @@ than carry it. A stalled stream is detected from the DATA — an open question n
 answered — which no exit code this chooses can fool.
 
 Usage:
-  bun ~/repos/instructions/services/tracking-hourly-confirm.ts [--dry-run] [--json]
+  bun ~/repos/akasha/services/tracking-hourly-confirm.ts [--dry-run] [--json]
 
   --dry-run  Decide and report, without opening a question or notifying Alan.
   --json     Emit the full decision envelope instead of the reading.
