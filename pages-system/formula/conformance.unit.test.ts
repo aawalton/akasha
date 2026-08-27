@@ -60,7 +60,7 @@ const pageTypeOf = (shape: CaseShape): PageType =>
   )
 
 /** A value the case gives, with an instant read off its ISO spelling. */
-const valueOf = (given: FormulaValue, declared: DeclaredType | undefined): Value => {
+const valueFor = (given: FormulaValue, declared: DeclaredType | undefined): Value => {
   switch (given.kind) {
     case "text":
       return { kind: "text", text: given.text }
@@ -75,7 +75,7 @@ const valueOf = (given: FormulaValue, declared: DeclaredType | undefined): Value
         declared !== undefined && declared.kind === "list"
           ? declared.of
           : ((given.list[0]?.kind ?? "text") as ScalarKind)
-      return { kind: "list", of, items: given.list.map((item) => valueOf(item, undefined)) }
+      return { kind: "list", of, items: given.list.map((item) => valueFor(item, undefined)) }
     }
   }
 }
@@ -93,7 +93,7 @@ const propertiesFor = (
   const shape = shapeOf(one.shape)
   const properties: Record<string, Value> = {}
   for (const [key, given] of Object.entries(one.values)) {
-    properties[key] = valueOf(given, shape[key])
+    properties[key] = valueFor(given, shape[key])
   }
   const order: string[] = []
   const seen = new Set<string>()
@@ -135,7 +135,7 @@ const wordFor = (value: Value): string => {
   }
 }
 
-const wordForGiven = (given: FormulaValue): string => wordFor(valueOf(given, undefined))
+const wordForGiven = (given: FormulaValue): string => wordFor(valueFor(given, undefined))
 
 /** What the case says must happen. */
 const wanted = (one: FormulaCase): string => {
