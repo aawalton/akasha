@@ -97,6 +97,28 @@ describe("escapedMentions", () => {
       at.dispose()
     }
   })
+
+  test.todo("catches a moved path at a regex literal's first character, which the boundary class reads as a path separator", () => {
+    const at = fixture()
+    try {
+      at.put("roles/reviewer.md", "# Reviewer\n")
+      at.put("a.test.ts", "const re = /roles\\/reviewer\\.md/\n")
+      expect(surveyRename(MOVE, rootsAt(at.root)).escaped).toHaveLength(1)
+    } finally {
+      at.dispose()
+    }
+  })
+
+  test.todo("catches one a regex literal's closing delimiter ends, which the same class reads as a path separator", () => {
+    const at = fixture()
+    try {
+      at.put("roles/reviewer.md", "# Reviewer\n")
+      at.put("a.test.ts", "const re = /(x)roles\\/reviewer\\.md/\n")
+      expect(surveyRename(MOVE, rootsAt(at.root)).escaped).toHaveLength(1)
+    } finally {
+      at.dispose()
+    }
+  })
 })
 
 describe("escapedSpellings", () => {
