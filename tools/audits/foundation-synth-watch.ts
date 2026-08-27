@@ -228,6 +228,26 @@ function seedsOf(graph: Graph, workflow: Node): ReadonlySet<NodeId> {
   return seeds
 }
 
+/**
+ * The directories a foundation workflow's synth sources stand in.
+ *
+ * A `synth-emits` EDGE RUNS FROM THE WORKFLOW to each resource it sets up and carries the
+ * `sourcePath` of the synth source that emitted it. That is the only declared link between a
+ * workflow and its service directory; a `workflow-template` page states no property naming one.
+ *
+ * THE PAGE'S OWN PATH IS NOT THAT DIRECTORY. `sourcePath` on the workflow node names the page's
+ * declaration attachment, so its `dirname` is always `pages/workflow-template`, which holds no
+ * synth source at all.
+ */
+function synthDirsOf(graph: Graph, workflow: Node): readonly string[] {
+  const dirs = new Set<string>()
+  for (const edge of graph.outEdges(workflow.id, [SYNTH_EMITS_EDGE_TYPE])) {
+    const sourcePath = textOf(edge.attrs, "sourcePath")
+    if (sourcePath !== undefined) dirs.add(dirname(sourcePath))
+  }
+  return [...dirs].sort()
+}
+
 function synthSourcesUnder(codeRoot: string, dir: string): readonly string[] {
   const found: string[] = []
   for (const absolute of new Glob("**/synth*.ts").scanSync({
@@ -294,27 +314,28 @@ export const foundationSynthWatch: AsyncCheck = async (repo) => {
   const unwatched: string[] = []
   let sources = 0
 
+  let emitting = 0
+
   for (const workflow of workflows) {
-    const sourcePath = textOf(workflow.attrs, "sourcePath")
-    if (sourcePath === undefined) {
-      unreadable.push(
-        `the \`${workflow.key}\` workflow node carries no \`sourcePath\`, so nothing says which ` +
-          `directory its synth sources sit in and none of them was looked at`
-      )
-      continue
+    const dirs = synthDirsOf(graph, workflow)
+    // A FOUNDATION WORKFLOW THAT EMITS NO RESOURCE FROM A SYNTH SOURCE HAS NONE TO WATCH, and is
+    // weighed by no case here rather than counted as covered. `emitting` records how many did, so
+    // the guard below can tell a tree with nothing to say from an instrument finding nothing.
+    if (dirs.length === 0) continue
+    emitting += 1
+    const beside = new Set<string>()
+    for (const dir of dirs) {
+      if (!existsSync(resolve(codeRoot, dir))) {
+        unreadable.push(
+          `\`${workflow.key}\` emits from \`${dir}\`, which is not a directory in ${codeRoot}, so ` +
+            `the synth sources beside it were not looked at`
+        )
+        continue
+      }
+      for (const path of synthSourcesUnder(codeRoot, dir)) beside.add(path)
     }
-    const dir = dirname(sourcePath)
-    if (!existsSync(resolve(codeRoot, dir))) {
-      unreadable.push(
-        `\`${workflow.key}\` states \`${sourcePath}\`, and \`${dir}\` is not a directory in ${codeRoot}; ` +
-          "a `workflow-template` page carries no property naming the service directory its " +
-          "foundation workflow sets up, so the synth sources beside it were not looked at"
-      )
-      continue
-    }
-    const beside = synthSourcesUnder(codeRoot, dir)
-    sources += beside.length
-    if (beside.length === 0) continue
+    sources += beside.size
+    if (beside.size === 0) continue
     const watched = watchedFiles(graph, seedsOf(graph, workflow))
     for (const path of beside) {
       if (watched.has(path)) continue
@@ -323,6 +344,20 @@ export const foundationSynthWatch: AsyncCheck = async (repo) => {
           `workflow's \`dispatchNodes\`, or an edit to it will not retrigger the workflow`
       )
     }
+  }
+
+  // A POPULATION OF ZERO OVER WORKFLOWS THAT WERE FOUND IS THE INSTRUMENT, NOT THE TREE. This read
+  // the workflow page's own path as the service directory, so it scanned `pages/workflow-template`
+  // for every workflow and found no synth source there. That directory stood in the other
+  // repository until akasha absorbed `code`, so the branch above called every workflow unreadable
+  // and the check was loud; pointing it at this root turned the same emptiness into a pass over
+  // nothing while the tree held synth sources all along.
+  if (workflows.length > 0 && sources === 0) {
+    const said = blind(
+      `${workflows.length} foundation workflow(s) were weighed and ${emitting} of them emit from a ` +
+        `synth source, yet no synth source was found beside any, so this verdict covers nothing`
+    )
+    return { ...judge(NAME, said.detail, said.reported), population: nothing }
   }
 
   return {
