@@ -1,0 +1,19 @@
+---
+page-type-slug: temper-skill
+id: 019e6245-a6ec-7a49-af23-214d329b9ee3
+title: "Power Surge"
+slug: power-surge
+base-name: Surge
+description: '"Invoke Meridia''s name to gain Major Brutality and Major Sorcery, increasing your Weapon Damage and Spell Damage by 20% for 33 seconds.\n\nWhile active, activating a Critical heal causes the ability to heal you and your allies around you for 2550 Health. This effect can occur once every 3 seconds."'
+eso-skill-id: 30396
+icon: "/esoui/art/icons/ability_sorcerer_power_surge.dds"
+is-morph: true
+key: power-surge
+learned-level: 30
+line-rank-needed: 30
+morph-index: 1
+rank: 8
+skill-line-id: sorcerer-storm-calling
+skill-type: active
+subcategory-id: sorcerer-storm-calling
+---
