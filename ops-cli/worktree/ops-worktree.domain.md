@@ -6,7 +6,7 @@ slug: ops-worktree
 domain-parent-slug: domain/ops-cli
 required-reading-slugs:
   - domain/ops-namespace
-  - domain/master-plan-worktree
+  - page-type/worktree
 ---
 
 # Definition
