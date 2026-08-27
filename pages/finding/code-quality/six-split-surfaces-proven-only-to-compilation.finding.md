@@ -12,7 +12,7 @@ Six split surfaces from #19315 have been proven only as far as emitted Lua, load
 
 # Evidence
 
-#19315 closed with all three quoted intents on domains/file-length.md verified by instruments the lead ran: a sweep of ~/code importing the deployed predicate (16,158 tracked, 14,058 reached, 103 over, all outside — 59 shape, 42 machine-written, 2 under test, zero violations), and the hook itself run over four payloads (over-ceiling authored .ts into ~/code denies; under-ceiling allows; over-ceiling exports-only allows; anything inside the instructions repo returns early).
+#19315 closed with all three quoted intents on `pages/domain/file-length.domain.md` verified by instruments the lead ran: a sweep of ~/code importing the deployed predicate (16,158 tracked, 14,058 reached, 103 over, all outside — 59 shape, 42 machine-written, 2 under test, zero violations), and the hook itself run over four payloads (over-ceiling authored .ts into ~/code denies; under-ceiling allows; over-ceiling exports-only allows; anything inside the instructions repo returns early).
 
 None of that reaches the rendered surfaces. The manager reported these as proven only to compilation:
 
