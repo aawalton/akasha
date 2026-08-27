@@ -1,12 +1,10 @@
 
-import { existsSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, readFileSync } from "node:fs"
 import { afterAll, afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { relationsResolve } from "../gates/relations-resolve.ts"
 import type { Subject } from "../lib/gate.ts"
 import type { Stated } from "../../page/index/identity/identity.ts"
-import { indexRoot } from "../../page/index/place/place.ts"
-import { keepPages } from "../../page/index/store/store.ts"
+import { anchorIndex } from "./index-anchor.ts"
 import { fixture, type Fixture, documentBody } from "./fixture.ts"
 
 /**
@@ -18,18 +16,14 @@ import { fixture, type Fixture, documentBody } from "./fixture.ts"
  * A row names a path and nothing more — each type's own words are read back out of the fixture
  * standing at the time — so a row cannot drift from what this file plants.
  *
- * THE INDEX HAS ONE PLACE FOR THE LIFE OF THE PROCESS. `page/index/place/place.ts` works it out on
- * the first ask and holds it, so it cannot follow a fixture made per case, and left alone it settles
- * on whichever root asked first — the live checkout, whose real index `keepPages` would then write
- * over. The anchor is a git repository of its own, named here before anything else can ask.
+ * THE INDEX HAS ONE PLACE FOR THE LIFE OF THE PROCESS, so this file gets its own only where it
+ * asked first. `anchorIndex` refuses the write rather than landing it on the live index where it
+ * did not — see `tools/tests/index-anchor.ts` for what that cost once.
  */
 const PAGE_TYPES: readonly string[] = ["page", "team", "person", "lead"]
 
-const anchor = mkdtempSync(`${tmpdir()}/relations-resolve-index-`)
-Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: anchor })
-process.env.AKASHA_ROOT = anchor
-indexRoot()
-afterAll(() => rmSync(anchor, { recursive: true, force: true }))
+const anchor = anchorIndex("relations-resolve")
+afterAll(() => anchor.discard())
 
 const indexRow = (slug: string): Stated => ({
   repo: "akasha",
@@ -62,7 +56,7 @@ function address(slug: string, on: string, key: string, target: string | null): 
 beforeEach(() => {
   // STATED AGAIN FOR EVERY CASE, because that one place is shared with every other test file in
   // this process, and one of them writing its own page types leaves none of these standing.
-  keepPages(PAGE_TYPES.map(indexRow))
+  anchor.keep(PAGE_TYPES.map(indexRow))
   at = fixture()
   at.document("pages/page-type/page.page-type.md", pageType("page", "none"))
   at.document("pages/page-type/team.page-type.md", pageType("team", "page"))
