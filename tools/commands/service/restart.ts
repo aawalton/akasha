@@ -28,7 +28,7 @@ export default async function serviceRestart(args: readonly string[]): Promise<v
     process.exit(1)
   }
 
-  const doc = serviceNamed(resolveRoots().instructions, slug)
+  const doc = serviceNamed(resolveRoots().akasha, slug)
   const unit = installedUnitName(doc)
   const done = systemctlIn(doc.scope, ["restart", unit])
   if (done.code !== 0) {

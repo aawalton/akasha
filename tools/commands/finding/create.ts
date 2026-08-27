@@ -99,13 +99,13 @@ export default async function findingCreate(args: readonly string[]): Promise<vo
   const domain = parsed.requireString("--domain")
   const slug = parsed.requireString("--slug")
 
-  const roots = resolveRoots(findingRepo(resolveRoots().instructions))
+  const roots = resolveRoots(findingRepo(resolveRoots().akasha))
   const root = targetRoot(roots)
   if (!existsSync(`${root}/.git`)) throw operationalError(`${root} is not a git repo`)
 
   const badSlug = kebabRefusal(slug)
   if (badSlug !== null) throw inputError(badSlug)
-  const undeclared = undeclaredRefusal(domain, declaredDomains(roots.instructions))
+  const undeclared = undeclaredRefusal(domain, declaredDomains(roots.akasha))
   if (undeclared !== null) throw inputError(undeclared)
 
   const relPath = findingPathIn(root, domain, slug)

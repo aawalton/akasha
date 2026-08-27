@@ -28,7 +28,7 @@ export default async function serviceStart(args: readonly string[]): Promise<voi
     process.exit(1)
   }
 
-  const doc = serviceNamed(resolveRoots().instructions, slug)
+  const doc = serviceNamed(resolveRoots().akasha, slug)
   const unit = installedUnitName(doc)
   const done = systemctlIn(doc.scope, ["start", unit])
   if (done.code !== 0) {

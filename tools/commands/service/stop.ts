@@ -28,7 +28,7 @@ export default async function serviceStop(args: readonly string[]): Promise<void
     process.exit(1)
   }
 
-  const doc = serviceNamed(resolveRoots().instructions, slug)
+  const doc = serviceNamed(resolveRoots().akasha, slug)
   const unit = installedUnitName(doc)
   const units = isScheduled(doc) ? [unit, `${doc.slug}.service`] : [unit]
   for (const one of units) {

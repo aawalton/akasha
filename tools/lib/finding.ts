@@ -26,14 +26,14 @@ export function findingPathIn(root: string, domain: string, slug: string): strin
   return pageFileIn(root, dir, slug) ?? `${dir}/${slug}.${FINDING}${MARKDOWN}`
 }
 
-export function findingRepo(instructionsRoot: string): Repo {
-  const relPath = pageTypePathIn(instructionsRoot, FINDING)
+export function findingRepo(root: string): Repo {
+  const relPath = pageTypePathIn(root, FINDING)
   let stated: string
   try {
-    stated = readFileSync(`${instructionsRoot}/${relPath}`, "utf8")
+    stated = readFileSync(`${root}/${relPath}`, "utf8")
   } catch (err) {
     throw dataError(
-      `${relPath} could not be read from ${instructionsRoot}, and it is what says which repository ` +
+      `${relPath} could not be read from ${root}, and it is what says which repository ` +
         `a finding stands in: ${err instanceof Error ? err.message : String(err)}`
     )
   }
