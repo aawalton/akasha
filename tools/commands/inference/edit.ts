@@ -4,7 +4,7 @@ export const summary = "Edit an image with an instruction (nano-banana / Google 
 import { readFile, writeFile } from "node:fs/promises"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
-import { codeModule } from "../../lib/code-import.ts"
+import { z } from "zod"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { geminiImageClient } from "../../lib/inference-clients.ts"
 import { type GeminiImageConfig } from "../../lib/inference/cli/gemini-image-client"
@@ -14,8 +14,6 @@ import {
   inferenceRunRecord,
   inferenceRunStore,
 } from "../../lib/inference-run.ts"
-
-const ZOD = "zod"
 
 const EDIT_ENGINES = ["nano-banana"] as const
 
@@ -35,21 +33,6 @@ const EDIT_ASPECT_RATIOS = [
 ] as const
 
 const EDIT_IMAGE_SIZES = ["1K", "2K", "4K"] as const
-
-interface Zod {
-  readonly z: {
-    readonly enum: (values: readonly string[]) => {
-      readonly safeParse: (value: unknown) => { readonly success: boolean }
-    }
-    readonly string: () => {
-      readonly min: (length: number) => {
-        readonly safeParse: (
-          value: unknown
-        ) => { readonly success: true; readonly data: string } | { readonly success: false }
-      }
-    }
-  }
-}
 
 export const help: CommandHelp = {
   positionals: [],
@@ -137,7 +120,6 @@ async function resolveEditImageConfig(
   aspectRatioRaw: string | undefined,
   imageSizeRaw: string | undefined
 ): Promise<GeminiImageConfig | undefined> {
-  const { z } = await codeModule<Zod>(ZOD)
   let aspectRatio: string | undefined
   if (aspectRatioRaw !== undefined) {
     if (!z.enum(EDIT_ASPECT_RATIOS).safeParse(aspectRatioRaw).success) {
@@ -195,7 +177,6 @@ async function runNanoBananaEdit(
     readonly persist: boolean
   }
 ): Promise<void> {
-  const { z } = await codeModule<Zod>(ZOD)
   const apiKey = z.string().min(1).safeParse(process.env.GEMINI_API_KEY)
   if (!apiKey.success) {
     throw inputError("GEMINI_API_KEY is not set (add it to ~/.secrets.env)")
@@ -262,7 +243,6 @@ export default async function inferenceEdit(args: readonly string[]): Promise<vo
     parsed.string("--size")
   )
 
-  const { z } = await codeModule<Zod>(ZOD)
   const rawEngine = parsed.requireString("--engine")
   if (!z.enum(EDIT_ENGINES).safeParse(rawEngine).success) {
     throw inputError(

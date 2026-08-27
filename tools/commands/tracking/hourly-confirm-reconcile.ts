@@ -3,20 +3,16 @@ export const summary = "Record that a question's answer has been applied to the 
 import { patchPage } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import type { CommandHelp } from "../../ops/surface.ts"
-import { codeModule } from "../../lib/code-import.ts"
+import {
+  ANSWERED_QUESTION_STATUS,
+  QUESTION_PAGE_TYPE_SLUG,
+} from "../../../shared/open-questions/src/index.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-
-const OPEN_QUESTIONS = "shared/open-questions/src/index.ts"
 
 const RECONCILED_AT_KEY = "reconciled-at"
 
 const WRITER = "ops tracking hourly-confirm-reconcile"
-
-interface OpenQuestions {
-  readonly QUESTION_PAGE_TYPE_SLUG: string
-  readonly ANSWERED_QUESTION_STATUS: string
-}
 
 function textOf(value: unknown): string | undefined {
   if (typeof value !== "string") return undefined
@@ -64,9 +60,8 @@ export default async function trackingHourlyConfirmReconcileCommand(
     throw inputError("hourly-confirm-reconcile: --question <id> is required")
   }
 
-  const questions = await codeModule<OpenQuestions>(OPEN_QUESTIONS)
   const asked = await askComposed({
-    "page-type": questions.QUESTION_PAGE_TYPE_SLUG,
+    "page-type": QUESTION_PAGE_TYPE_SLUG,
     where: { id: { is: questionId } },
     keys: ["id", "slug", "status", RECONCILED_AT_KEY],
     limit: 1,
@@ -80,9 +75,9 @@ export default async function trackingHourlyConfirmReconcileCommand(
   }
 
   const status = textOf(row.values.status)
-  if (status !== questions.ANSWERED_QUESTION_STATUS) {
+  if (status !== ANSWERED_QUESTION_STATUS) {
     throw inputError(
-      `hourly-confirm-reconcile: question ${questionId} is '${status ?? "unreadable"}', not '${questions.ANSWERED_QUESTION_STATUS}' — there is no answer to have applied`
+      `hourly-confirm-reconcile: question ${questionId} is '${status ?? "unreadable"}', not '${ANSWERED_QUESTION_STATUS}' — there is no answer to have applied`
     )
   }
 
@@ -106,7 +101,7 @@ export default async function trackingHourlyConfirmReconcileCommand(
 
   const at = new Date().toISOString()
   const landed = await patchPage(
-    questions.QUESTION_PAGE_TYPE_SLUG,
+    QUESTION_PAGE_TYPE_SLUG,
     named,
     { [RECONCILED_AT_KEY]: at },
     WRITER

@@ -4,7 +4,7 @@ import { existsSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import type { CommandHelp } from "../../ops/surface.ts"
-import { codeModule } from "../../lib/code-import.ts"
+import { z } from "zod"
 import { stderrLogger } from "../../../infra/workspace-cli/src/lib/package-move/logger.ts"
 import { runPackageMove } from "../../../infra/workspace-cli/src/lib/package-move/run.ts"
 import type { WorkspaceMove } from "../../../infra/workspace-cli/src/lib/package-move/types.ts"
@@ -12,8 +12,6 @@ import { changeBranchWorktree } from "../../lib/branch-worktree.ts"
 import { dataError, inputError, isDataError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { commitWorktree } from "../../lib/worktree-commit.ts"
-
-const ZOD = "zod"
 
 export const help: CommandHelp = {
   flags: [
@@ -75,22 +73,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface Schema {
-  readonly parse: (value: unknown) => unknown
-}
-
-interface Builder extends Schema {
-  readonly min: (n: number) => Builder
-  readonly passthrough: () => Schema
-}
-
-interface Zod {
-  readonly z: {
-    readonly object: (shape: Record<string, Builder>) => Builder
-    readonly string: () => Builder
-  }
-}
-
 function buildCommitMessage(seq: number, move: WorkspaceMove): string {
   const pathChanged = move.old !== move.new
   const nameChanged = move.oldName !== move.newName
@@ -122,13 +104,12 @@ export default async function packageMove(args: readonly string[]): Promise<void
     throw dataError(`package.json not found at ${fromPkgJson}`)
   }
 
-  const { z } = await codeModule<Zod>(ZOD)
   const packageJsonNameSchema = z.object({ name: z.string().min(1) }).passthrough()
 
   const pkgRaw = await readFile(fromPkgJson, "utf8")
   let oldName: string
   try {
-    const pkg = packageJsonNameSchema.parse(JSON.parse(pkgRaw)) as { readonly name: string }
+    const pkg = packageJsonNameSchema.parse(JSON.parse(pkgRaw))
     oldName = pkg.name
   } catch (err) {
     if (isDataError(err)) throw err
