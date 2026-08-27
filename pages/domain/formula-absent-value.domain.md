@@ -12,7 +12,7 @@ domain-parent-slug: domain/formula-language
 
 # Intent
 
-An operator given an absent value answers absent.
+An operator that reaches an absent value answers absent.
 
 `==` and `!=` answer a boolean, absent being equal only to absent.
 
