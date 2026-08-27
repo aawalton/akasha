@@ -22,6 +22,8 @@ A page type takes the nearest rule its `extends-slug` chain states.
 
 A write that states a name or a slug is addressing one page, so the rule is read only where it states neither.
 
-A filled rule is a stem rather than a name: it is folded to lower case with every run of other characters becoming a dash, bounded at 71 characters, and a second page the rule names the same takes `-2`, then `-3`.
+A filled rule is a stem rather than a name: it is folded to lower case with every run of other characters becoming a dash, and bounded at 71 characters.
 
-A page whose rule leaves a hole unfilled is named `untitled`.
+A rule with a hole it cannot fill produces no name.
+
+A write whose rule fills to a name already there is refused, rather than that name taking a number.
