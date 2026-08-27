@@ -4,7 +4,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { resolve } from "node:path"
 import { agreement, refusalFor, targetOf } from "../lib/hook-merge.ts"
-import { installRefusals } from "./fixture.ts"
+import { installRefusals, installRepos } from "./fixture.ts"
 
 const SCRIPT = "$HOME/code/packages/infra/scripts/local-agent-session-start.sh"
 const OTHER = "$HOME/instructions/tools/hooks/record-epoch.ts"
@@ -108,6 +108,11 @@ interface Pair {
 function pair(): Pair {
   const root = mkdtempSync(`${tmpdir()}/hooks-agree-root-`)
   installRefusals(root)
+  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so a
+  // temp repo without them makes `roots.ts` throw before the check says anything.
+  installRepos(root)
+  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git`.
+  Bun.spawnSync(["git", "init", "-q"], { cwd: root })
   const configDir = mkdtempSync(`${tmpdir()}/hooks-agree-config-`)
   mkdirSync(`${root}/settings`, { recursive: true })
   return {
@@ -123,7 +128,10 @@ function pair(): Pair {
 function runCheck(at: Pair): { code: number; out: string } {
   const proc = Bun.spawnSync({
     cmd: ["bun", `${import.meta.dir}/../run-checks.ts`, "--check", "hooks-agree"],
-    env: { ...process.env, INSTRUCTIONS_ROOT: at.root, CLAUDE_CONFIG_DIR: at.configDir },
+    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT`, which nothing reads:
+    // `hooksAgree` takes its repo tier from `rootFor(repo.roots, AKASHA)`, so every case below read
+    // the live checkout's `settings/agents.json` and never saw the pair the case had written.
+    env: { ...process.env, AKASHA_ROOT: at.root, CLAUDE_CONFIG_DIR: at.configDir },
     stdout: "pipe",
     stderr: "pipe",
   })
