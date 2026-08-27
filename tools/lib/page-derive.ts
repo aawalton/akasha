@@ -25,56 +25,20 @@ import {
 } from "./page-reach.ts"
 import { evaluate, ExpressionRefused } from "./page-expression.ts"
 import { noteUnreadable } from "./page-fault.ts"
-import { BODY, type Held, type Values, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
+import { BODY, type Held, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
 import { placeOf } from "../../page/page-types.ts"
 import { NONE, textAt } from "../../page/text/text.ts"
 import { stemOf as slugOf } from "../../page/name/name"
 import { scanIn } from "../../page/page-types.ts"
 import { foundIn, indexingOver } from "./page-derive-index.ts"
-import { keptIn, type Narrow, narrowing } from "./page-narrow.ts"
+import { keptIn, narrowing } from "./page-narrow.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { type Roots } from "../../page/page"
 import { isAddressable } from "../../repo/roots/roots"
+import { backingOver } from "./page-derive-backing.ts"
+import { type Carries, type Deriver, type Row, WALK_BOUND } from "./page-derive-shape.ts"
 
-
-export const WALK_BOUND = 64
-
-export interface Carries {
-  readonly body?: boolean
-  readonly attachment?: readonly string[]
-  readonly rows?: readonly string[]
-  readonly pages?: boolean
-  readonly only?: Narrow
-}
-
-export interface Row {
-  readonly at: string
-  readonly values: Values
-}
-
-export interface Relation {
-  readonly key: string
-  readonly target: string
-  readonly slugProperty: string | null
-}
-
-export interface Backed {
-  readonly slug: string
-  readonly repo: string | null
-  readonly glob: string | null
-  readonly heldBy: readonly string[]
-  readonly namedFor: string | null
-}
-
-export interface Deriver {
-  readonly rows: (pageType: string) => readonly Row[] | null
-  readonly one: (pageType: string, name: string, slugProperty?: string | null) => Row | null
-  readonly relations: (pageType: string) => readonly Relation[]
-  readonly backed: () => readonly Backed[]
-  readonly typeOf: (pageType: string, key: string) => string | null
-  readonly attachmentKeys: (pageType: string) => readonly string[]
-  readonly faults: () => readonly string[]
-}
+export { type Backed, type Carries, type Deriver, type Relation, type Row, WALK_BOUND } from "./page-derive-shape.ts"
 
 const NAMES_NOBODY: ReadonlyMap<string, readonly string[]> = new Map()
 
@@ -351,13 +315,9 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return { at: page.at, values }
   }
 
-  const isFiled = (pageType: string): boolean => {
-    const one = kinds.get(pageType)
-    if (one === undefined) return false
-    return one.filed.some((each) => each.repo !== null && isAddressable(each.repo))
-  }
-
-  const isHeld = (pageType: string): boolean => (carriers.get(pageType) ?? []).length > 0
+  const { isFiled, isHeld, relations, backed } = backingOver(kinds, declared, carriers, chainOf, (why) =>
+    faults.add(why)
+  )
 
   const rows = (pageType: string): readonly Row[] | null => {
     if (!isFiled(pageType) && !isHeld(pageType)) return null
@@ -369,42 +329,6 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     if (!isFiled(pageType) && !isHeld(pageType)) return null
     const page = foundIn(indexFor(pageType, slugProperty), name)
     return page === undefined ? null : rowOf(page, derivedOn(page.kind))
-  }
-
-  const relations = (pageType: string): readonly Relation[] => {
-    const found = new Map<string, Relation>()
-    for (const kind of chainOf(pageType))
-      for (const [key, declaration] of declared.get(kind) ?? [])
-        if (!found.has(key) && declaration.target !== null)
-          found.set(key, { key, target: declaration.target, slugProperty: declaration.slugProperty })
-    return [...found.values()]
-  }
-
-  const backed = (): readonly Backed[] => {
-    const found: Backed[] = []
-    for (const [slug, kind] of kinds) {
-      const heldBy = (carriers.get(slug) ?? []).map((each) => `${each.on}.${each.key}`).sort()
-      const filed = isFiled(slug)
-      if (!filed && heldBy.length === 0) continue
-      const namedFor =
-        chainOf(slug)
-          .map((each) => kinds.get(each)?.namedFor ?? null)
-          .find((each) => each !== null) ?? null
-      const homes = kind.filed.filter((each) => each.repo !== null)
-      if (filed && homes.length > 1)
-        faults.add(
-          `\`${slug}\` states its files in ${homes.length} repositories, and what reads this names one`
-        )
-      const home = homes[0]
-      found.push({
-        slug,
-        repo: filed && home !== undefined ? home.repo : null,
-        glob: filed && home !== undefined ? (home.place ?? placeOf(slug)) : null,
-        heldBy,
-        namedFor,
-      })
-    }
-    return found.sort((a, b) => (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0))
   }
 
   return { rows, one, relations, backed, typeOf, attachmentKeys: largeKeys, faults: () => [...faults].sort() }
