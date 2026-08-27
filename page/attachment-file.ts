@@ -9,6 +9,10 @@ export function isAttachmentFile(relPath: string): boolean {
   return /\.(?:uncommitted\.)?attachment\.[a-z0-9]+$/.test(relPath)
 }
 
+export function isCodeAttachmentFile(relPath: string): boolean {
+  return /\.code\.(?:uncommitted\.)?attachment\.[a-z0-9]+$/.test(relPath)
+}
+
 export function isAttachmentExtension(one: string): boolean {
   return /^[a-z0-9]+$/.test(one)
 }
