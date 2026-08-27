@@ -9,3 +9,21 @@ domain-parent-slug: domain/language-design
 # Definition
 
 - **Language failure** — what a language does with a wrong program.
+
+# Design
+
+A program is found wrong at one of three moments: reading it, checking what it names, or running it on values.
+
+A program that reads, checks and runs can still mean something other than its writer intended, and no failure catches that.
+
+# Principles
+
+## Caught Early
+
+**Find a wrong program at the earliest moment it can be found.**
+
+The later a fault is found, the more has been built on it and the less says why.
+
+Check what a program says before what it does.
+
+Never leave to run time what parsing could catch.
