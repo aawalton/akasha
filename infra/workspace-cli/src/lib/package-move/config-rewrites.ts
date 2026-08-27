@@ -1,5 +1,6 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
+import { listWorkspaceDirs } from "@shared/workspace-paths"
 import { exists, listFiles, readText, writeText } from "./fs"
 import type { Logger } from "./logger"
 import { applyPathRename } from "./rename-primitives"
@@ -56,8 +57,10 @@ function listYamlTargets(root: string): readonly string[] {
       out.push(name)
     }
   }
-  for (const file of listFiles(root, "packages")) {
-    if (file.endsWith(".yaml") || file.endsWith(".yml")) out.push(file)
+  for (const dir of listWorkspaceDirs(root)) {
+    for (const file of listFiles(root, dir)) {
+      if (file.endsWith(".yaml") || file.endsWith(".yml")) out.push(file)
+    }
   }
   return out
 }
@@ -76,9 +79,7 @@ function rewriteYamlOrJson(root: string, path: string, move: WorkspaceMove, log:
 
 export const PATH_LITERAL_TS_TARGETS = [
   "infra/cluster-checks/src/lib/check-tsconfig-allowlists.ts",
-  "infra/cluster-checks/src/checks/check-exhaustive-dispatch.ts",
   "infra/cluster-checks/src/checks/check-readonly-collections.ts",
-  "infra/cluster-checks/src/lib/ts-exhaustive-dispatch.ts",
 ]
 
 function rewriteTsPathLiterals(

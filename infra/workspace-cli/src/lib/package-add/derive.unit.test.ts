@@ -6,6 +6,7 @@ import {
   decideAppendWorkspace,
   derivePackageName,
   isFunctionalType,
+  packagePathProblem,
 } from "./derive"
 
 describe("derivePackageName", () => {
@@ -20,6 +21,31 @@ describe("derivePackageName", () => {
 
   it("throws on a scope-only path (no package segment)", () => {
     expect(() => derivePackageName("stories")).toThrow()
+  })
+})
+
+describe("packagePathProblem", () => {
+  it("accepts a flattened <scope>/<segment> path", () => {
+    expect(packagePathProblem("stories/engine")).toBeNull()
+    expect(packagePathProblem("temper/game/trading/addon")).toBeNull()
+  })
+
+  it("refuses a path under the packages/ root this repository does not have", () => {
+    const why = packagePathProblem("packages/stories/engine")
+    expect(why).toContain("packages/")
+    expect(why).toContain("stories/engine")
+  })
+
+  it("refuses a scope-only path", () => {
+    expect(packagePathProblem("stories")).toContain("only a scope")
+  })
+
+  it("refuses a path that is not plain and repo-relative", () => {
+    expect(packagePathProblem("")).not.toBeNull()
+    expect(packagePathProblem("/shared/widget")).not.toBeNull()
+    expect(packagePathProblem("shared//widget")).not.toBeNull()
+    expect(packagePathProblem("../shared/widget")).not.toBeNull()
+    expect(packagePathProblem("shared\\widget")).not.toBeNull()
   })
 })
 

@@ -19,6 +19,34 @@ export function isFunctionalType(value: string): value is FunctionalType {
   return FUNCTIONAL_TYPES.some((t) => t === value)
 }
 
+const LEGACY_PACKAGES_ROOT = "packages"
+
+export function packagePathProblem(repoRelPath: string): string | null {
+  if (repoRelPath === "") return "the path is empty"
+  if (repoRelPath.includes("\\")) {
+    return `"${repoRelPath}" uses backslashes; write it with POSIX forward slashes`
+  }
+  const segments = repoRelPath.split("/")
+  if (segments.some((segment) => segment === "")) {
+    return `"${repoRelPath}" has an empty segment; write it with no leading, trailing or doubled slash`
+  }
+  if (segments.some((segment) => segment === "." || segment === "..")) {
+    return `"${repoRelPath}" is not a plain repo-relative path`
+  }
+  if (segments.length < 2) {
+    return `"${repoRelPath}" names only a scope; a package path is <scope>/<segment>…, e.g. stories/engine`
+  }
+  if (segments[0] === LEGACY_PACKAGES_ROOT) {
+    const flattened = segments.slice(1).join("/")
+    return (
+      `"${repoRelPath}" starts with ${LEGACY_PACKAGES_ROOT}/, which this repository does not have. ` +
+      `The first segment is the scope, so write "${flattened}" instead — kept as written, the package ` +
+      `would be named @${LEGACY_PACKAGES_ROOT}/${segments.slice(1).join("-")}.`
+    )
+  }
+  return null
+}
+
 export function derivePackageName(repoRelPath: string): string {
   return expectedPackageName(repoRelPath)
 }

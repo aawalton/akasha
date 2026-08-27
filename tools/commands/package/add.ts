@@ -1,7 +1,11 @@
 export const summary = "Scaffold a new workspace package (dir + package.json + CLAUDE.md, wired into workspaces)"
 
 import type { CommandHelp } from "../../ops/surface.ts"
-import { FUNCTIONAL_TYPES, isFunctionalType } from "../../../infra/workspace-cli/src/lib/package-add/derive.ts"
+import {
+  FUNCTIONAL_TYPES,
+  isFunctionalType,
+  packagePathProblem,
+} from "../../../infra/workspace-cli/src/lib/package-add/derive.ts"
 import { type PackageAddResult, runPackageAdd } from "../../../infra/workspace-cli/src/lib/package-add/run.ts"
 import { stderrLogger } from "../../../infra/workspace-cli/src/lib/package-move/logger.ts"
 import { changeBranchWorktree } from "../../lib/branch-worktree.ts"
@@ -25,7 +29,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       required: true,
       description:
-        "Repo-relative directory path for the new package (POSIX forward slashes), e.g. `packages/stories/engine`. Must be `packages/<scope>/<segment>...`.",
+        "Repo-relative directory path for the new package (POSIX forward slashes), e.g. `stories/engine`. Must be `<scope>/<segment>...`: the first segment is the scope and the rest join with hyphens, so `stories/engine` is `@stories/engine` and `temper/game/trading/addon` is `@temper/game-trading-addon`. This repository has no `packages/` directory, and a path starting `packages/` is refused.",
     },
     {
       name: "--type",
@@ -59,10 +63,10 @@ export const help: CommandHelp = {
     },
   ],
   examples: [
-    "ops package add 19450 --path packages/stories/engine",
-    "ops package add --seq 19450 --path packages/stories/engine",
-    "ops package add --seq 19450 --path packages/shared/widget --type access",
-    "ops package add --seq 19450 --path packages/agents/notifier --type service --json",
+    "ops package add 19450 --path stories/engine",
+    "ops package add --seq 19450 --path stories/engine",
+    "ops package add --seq 19450 --path shared/widget --type access",
+    "ops package add --seq 19450 --path automation/notifier --type service --json",
   ],
 }
 
@@ -79,6 +83,9 @@ export default async function packageAdd(args: readonly string[]): Promise<void>
       `invalid --type "${typeArg}". Must be one of: ${FUNCTIONAL_TYPES.join(", ")}`
     )
   }
+
+  const pathProblem = packagePathProblem(path)
+  if (pathProblem !== null) throw inputError(`invalid --path: ${pathProblem}`)
 
   const worktree = changeBranchWorktree(seq)
   if (!worktree.ok) throw inputError(worktree.why)

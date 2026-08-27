@@ -2,6 +2,7 @@ import { afterAll, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
+import { listWorkspaceDirs } from "@shared/workspace-paths"
 import { codeRoot } from "../../../../../tools/lib/code-root.ts"
 import { PATH_LITERAL_TS_TARGETS, rewriteConfigs } from "./config-rewrites"
 import { exists, listFiles, readText } from "./fs"
@@ -14,8 +15,29 @@ const CHECKS_SRC = "infra/cluster-checks/src"
 const registry = new Set(PATH_LITERAL_TS_TARGETS)
 const silent: Logger = { info: () => {}, warn: () => {} }
 
-const quotedPackagesPath = /"\/?packages\//
-const quotedTstlForkPath = /"\/?packages\/temper\/tstl/
+// The workspaces array is the authority on what a workspace path is: the layout is
+// <scope>/<name> with no shared prefix, so no single regex recognises one.
+const WORKSPACE_PATHS = new Set<string>()
+for (const dir of listWorkspaceDirs(REPO_ROOT)) {
+  const segments = dir.split("/")
+  for (let i = 1; i <= segments.length; i += 1) {
+    WORKSPACE_PATHS.add(segments.slice(0, i).join("/"))
+  }
+}
+
+const QUOTED_STRING = /"([^"\n]*)"|'([^'\n]*)'/g
+
+function carriesWorkspacePathLiteral(source: string): boolean {
+  for (const match of source.matchAll(QUOTED_STRING)) {
+    for (const candidate of (match[1] ?? match[2] ?? "").split(/[^A-Za-z0-9._@/-]+/)) {
+      const path = candidate.replace(/^\/+/, "").replace(/\/+$/, "")
+      if (path !== "" && WORKSPACE_PATHS.has(path)) return true
+    }
+  }
+  return false
+}
+
+const quotedForkPath = /["']\/?lua-compiler\//
 
 describe("PATH_LITERAL_TS_TARGETS registry integrity", () => {
   it("resolves the repo root (sanity)", () => {
@@ -31,16 +53,16 @@ describe("PATH_LITERAL_TS_TARGETS registry integrity", () => {
 
   it("every registered target still carries a workspace-path literal", () => {
     for (const target of PATH_LITERAL_TS_TARGETS) {
-      expect(quotedPackagesPath.test(readText(REPO_ROOT, target))).toBe(true)
+      expect(carriesWorkspacePathLiteral(readText(REPO_ROOT, target))).toBe(true)
     }
   })
 })
 
 describe("path-keyed config surfaces are all covered (discovery guard)", () => {
-  it("every check file with a hardcoded TSTL-fork path-prefix carveout is registered", () => {
+  it("every check file with a hardcoded lua-compiler-fork path-prefix carveout is registered", () => {
     const uncovered = listFiles(REPO_ROOT, CHECKS_SRC)
       .filter((p) => p.endsWith(".ts") && !p.includes(".test."))
-      .filter((p) => quotedTstlForkPath.test(readText(REPO_ROOT, p)))
+      .filter((p) => quotedForkPath.test(readText(REPO_ROOT, p)))
       .filter((p) => !registry.has(p))
     expect(uncovered).toEqual([])
   })
@@ -48,7 +70,7 @@ describe("path-keyed config surfaces are all covered (discovery guard)", () => {
   it("every extracted *allowlist* check file with workspace-path literals is registered", () => {
     const uncovered = listFiles(REPO_ROOT, `${CHECKS_SRC}/lib`)
       .filter((p) => /allowlist[^/]*\.ts$/.test(p) && !p.includes(".test."))
-      .filter((p) => quotedPackagesPath.test(readText(REPO_ROOT, p)))
+      .filter((p) => carriesWorkspacePathLiteral(readText(REPO_ROOT, p)))
       .filter((p) => !registry.has(p))
     expect(uncovered).toEqual([])
   })
@@ -63,16 +85,15 @@ describe("rewriteConfigs repaths path-keyed surfaces end-to-end", () => {
   function fixtureRoot(): string {
     const r = mkdtempSync(join(tmpdir(), "config-rewrites-"))
     roots.push(r)
-    mkdirSync(join(r, "packages"), { recursive: true })
     writeFileSync(join(r, "package.json"), JSON.stringify({ scripts: {} }))
     return r
   }
 
   const move: WorkspaceMove = {
-    old: "packages/temper/tstl",
-    new: "packages/temper/lua",
-    oldName: "@temper/tstl",
-    newName: "@temper/lua",
+    old: "lua-compiler/vendor/tstl",
+    new: "lua-compiler/vendor/lua",
+    oldName: "@lua-compiler/vendor-tstl",
+    newName: "@lua-compiler/vendor-lua",
   }
 
   it("rewrites ast-unused.config.json path-keyed workspace entries", () => {
@@ -81,13 +102,13 @@ describe("rewriteConfigs repaths path-keyed surfaces end-to-end", () => {
       join(root, "ast-unused.config.json"),
       JSON.stringify({
         ignoreWorkspaces: [],
-        workspaces: { "packages/temper/tstl": { entry: [] } },
+        workspaces: { "lua-compiler/vendor/tstl": { entry: [] } },
       })
     )
     rewriteConfigs(root, move, silent)
     const after = readFileSync(join(root, "ast-unused.config.json"), "utf8")
-    expect(after).toContain("packages/temper/lua")
-    expect(after).not.toContain("packages/temper/tstl")
+    expect(after).toContain("lua-compiler/vendor/lua")
+    expect(after).not.toContain("lua-compiler/vendor/tstl")
   })
 
   it("rewrites hardcoded path-prefix literals inside a registered TS target", () => {
@@ -96,12 +117,32 @@ describe("rewriteConfigs repaths path-keyed surfaces end-to-end", () => {
     mkdirSync(dirname(join(root, target)), { recursive: true })
     writeFileSync(
       join(root, target),
-      'const TSTL_FORK_PREFIX = "packages/temper/tstl/"\nconst SEG = "/packages/temper/tstl/"\n'
+      'const FORK_PREFIX = "lua-compiler/vendor/tstl/"\nconst SEG = "/lua-compiler/vendor/tstl/"\n'
     )
     rewriteConfigs(root, move, silent)
     const after = readFileSync(join(root, target), "utf8")
-    expect(after).toContain('"packages/temper/lua/"')
-    expect(after).toContain('"/packages/temper/lua/"')
-    expect(after).not.toContain("packages/temper/tstl")
+    expect(after).toContain('"lua-compiler/vendor/lua/"')
+    expect(after).toContain('"/lua-compiler/vendor/lua/"')
+    expect(after).not.toContain("lua-compiler/vendor/tstl")
+  })
+
+  it("rewrites a yaml file inside a workspace package", () => {
+    const root = fixtureRoot()
+    writeFileSync(
+      join(root, "package.json"),
+      JSON.stringify({ workspaces: ["lua-compiler/vendor/*"] })
+    )
+    mkdirSync(join(root, "lua-compiler/vendor/lua"), { recursive: true })
+    writeFileSync(
+      join(root, "lua-compiler/vendor/lua/package.json"),
+      JSON.stringify({ name: "@lua-compiler/vendor-lua" })
+    )
+    writeFileSync(
+      join(root, "lua-compiler/vendor/lua/deploy.yaml"),
+      "source: lua-compiler/vendor/tstl/src\n"
+    )
+    rewriteConfigs(root, move, silent)
+    const after = readFileSync(join(root, "lua-compiler/vendor/lua/deploy.yaml"), "utf8")
+    expect(after).toBe("source: lua-compiler/vendor/lua/src\n")
   })
 })

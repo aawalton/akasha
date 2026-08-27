@@ -66,10 +66,10 @@ export const help: CommandHelp = {
     { code: 3, meaning: "operational error: git/bun/subprocess failure during apply or commit" },
   ],
   examples: [
-    "ops package move 19450 --from packages/shared/utils --to packages/shared/utils-v2",
-    "ops package move --seq 19450 --from packages/shared/utils --to packages/shared/utils-v2",
-    "ops package move --seq 19450 --from packages/shared/utils --to packages/shared/utils --name @shared/utility",
-    "ops package move --seq 19450 --from packages/shared/utils --to packages/shared/utility --name @shared/utility --json",
+    "ops package move 19450 --from shared/utils --to shared/utils-v2",
+    "ops package move --seq 19450 --from shared/utils --to shared/utils-v2",
+    "ops package move --seq 19450 --from shared/utils --to shared/utils --name @shared/utility",
+    "ops package move --seq 19450 --from shared/utils --to shared/utility --name @shared/utility --json",
   ],
 }
 

@@ -1,4 +1,5 @@
 import { posix } from "node:path"
+import { listWorkspaceDirs } from "@shared/workspace-paths"
 import { z } from "zod"
 import { listFiles, readText, writeText } from "./fs"
 import type { Logger } from "./logger"
@@ -15,17 +16,21 @@ function isClaudeMd(path: string): boolean {
   return path.endsWith("/CLAUDE.md") || path === "CLAUDE.md"
 }
 
-function isPackageDoc(path: string): boolean {
-  if (!path.startsWith("packages/")) return false
-  return isClaudeMd(path) || path.includes("/docs/")
+// A package's own docs. The layout is <scope>/<name> with no shared prefix, so what makes a
+// path a package's is the workspaces array, not a directory name. Every CLAUDE.md is taken
+// separately by listTargetDocs, wherever it sits.
+export function isPackageDoc(path: string, workspaceDirs: readonly string[]): boolean {
+  if (!path.includes("/docs/")) return false
+  return workspaceDirs.some((dir) => path.startsWith(`${dir}/`))
 }
 
 function listTargetDocs(root: string): readonly string[] {
+  const workspaceDirs = listWorkspaceDirs(root)
   const all = listFiles(root, ".")
   const set = new Set<string>()
   for (const path of all) {
     if (!isMarkdown(path)) continue
-    if (isClaudeMd(path) || isPackageDoc(path)) {
+    if (isClaudeMd(path) || isPackageDoc(path, workspaceDirs)) {
       set.add(path)
     }
   }
