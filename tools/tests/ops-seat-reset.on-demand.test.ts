@@ -1,17 +1,41 @@
 import { afterAll, describe, expect, it } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, readdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { installRepos } from "./fixture.ts"
 
 const CLI_PATH = `${import.meta.dir}/../ops/cli.ts`
 
-const HERE = resolve(import.meta.dir, "..", "..")
+const LIVE = resolve(import.meta.dir, "..", "..")
 
 // WHERE A SEAT PAGE STANDS, one place and one spelling: `SEAT_PLACES` in `agent-page-place.ts` is
 // `{ repo: "akasha", dir: "agent/seat" }`, and `seat-page-history.ts` asks git for that same path.
 const SEATS = "agent/seat"
 
-const AWAY_FROM_THE_FLEET = mkdtempSync("/var/tmp/ops-seat-reset-")
+/**
+ * A fleet of this test's own, standing where the one variable that names a fleet points.
+ *
+ * `AKASHA_ROOT` ANSWERS TWO QUESTIONS AT ONCE and they cannot be split: `ops` builds its whole
+ * command set out of it — `akashaCommands`, `declaredCommands` and `commandDocuments` each read
+ * `akashaRoot()` — and every seat reader looks for `agent/seat` under it. This test used to set
+ * `MEMORY_ROOT`, which nothing reads, so `ops` ran against the live checkout and asked the live
+ * fleet about seats that stand only here. Pointing a bare temp directory at `AKASHA_ROOT` instead
+ * answers `ops: unknown command`, there being no commands under it.
+ *
+ * So every top-level entry of the live checkout is stood here by symlink, `agent` and `.git`
+ * excepted: the commands, the pages and `node_modules` are the live ones, while `agent/seat` holds
+ * this test's seats alone and the git history is this test's alone. Git records a symlink rather
+ * than descending it, so the commit below is the seat pages and nothing else.
+ */
+function fleetApart(): string {
+  const root = mkdtempSync("/var/tmp/ops-seat-reset-")
+  for (const entry of readdirSync(LIVE)) {
+    if (entry === "agent" || entry === ".git") continue
+    symlinkSync(`${LIVE}/${entry}`, `${root}/${entry}`)
+  }
+  mkdirSync(`${root}/${SEATS}`, { recursive: true })
+  return root
+}
+
+const AWAY_FROM_THE_FLEET = fleetApart()
 
 const SEATED = "019ec7c0-4f3e-713b-b150-8ba2d5a5bce6"
 
@@ -46,10 +70,6 @@ plant(WHOLE, [
 
 plant(SPARSE, ["id: 022bbbbb-2222-4222-8222-222222222222", "role-slug: worker"])
 
-// THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so a
-// temp repo without them makes `roots.ts` throw in the child before `ops seat reset` speaks.
-installRepos(AWAY_FROM_THE_FLEET)
-
 git("init", "-q")
 git("config", "user.email", "reset@fixture")
 git("config", "user.name", "reset fixture")
@@ -79,13 +99,7 @@ async function runCli(
   const proc = Bun.spawn(["bun", CLI_PATH, "seat", "reset", ...args], {
     stdout: "pipe",
     stderr: "pipe",
-    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO. This set `MEMORY_ROOT`, which nothing reads: every
-    // reader of a seat page goes through `SEAT_PLACES`, rooted at akasha, so each case below asked
-    // the live fleet about a seat that stands only here and was answered `no such seat`.
-    // `CODE_ROOT` IS WHERE THE TYPESCRIPT IS. `codeModule` resolves `@shared/…` through `codeRoot()`,
-    // which falls back to the akasha root — the temp repo, which has no `node_modules` — so the CLI
-    // died at load with exit 70 before reading a single argument.
-    env: { ...baseEnv, AKASHA_ROOT: AWAY_FROM_THE_FLEET, CODE_ROOT: HERE, ...env },
+    env: { ...baseEnv, AKASHA_ROOT: AWAY_FROM_THE_FLEET, ...env },
   })
   const [stdout, stderr] = await Promise.all([
     new Response(proc.stdout).text(),
