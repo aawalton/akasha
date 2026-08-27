@@ -70,9 +70,9 @@ describe("projectSmsIdentities", () => {
 
   test("an explicit smsHandlerTarget is projected verbatim (per-identity routing)", () => {
     const out = projectSmsIdentities([
-      { phone: "6085122511", accountUserId: JENNY_ACCOUNT, smsHandlerTarget: "jenny-handler" },
+      { phone: "6085122511", accountUserId: JENNY_ACCOUNT, smsHandlerTarget: "jenny" },
     ])
-    expect(out[0]?.handlerTarget).toBe("jenny-handler")
+    expect(out[0]?.handlerTarget).toBe("jenny")
   })
 })
 
@@ -108,7 +108,7 @@ describe("decideSmsRoute", () => {
     phoneDigits: "6085122511",
     accountUserId: JENNY_ACCOUNT,
     smsAllowed: true,
-    handlerTarget: "jenny-handler",
+    handlerTarget: "jenny",
   }
 
   test("allowlisted sender → ki-handler carrying its accountUserId", () => {
@@ -127,7 +127,7 @@ describe("decideSmsRoute", () => {
     ])
     expect(d.kind).toBe("helper")
     if (d.kind === "helper") {
-      expect(d.target).toBe("jenny-handler")
+      expect(d.target).toBe("jenny")
       expect(d.accountUserId).toBe(JENNY_ACCOUNT)
     }
   })
