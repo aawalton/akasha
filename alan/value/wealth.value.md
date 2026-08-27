@@ -20,7 +20,7 @@ query-slug: value-green-day-units-on-day
 query-argument: value
 query-key: wealth
 settled: true
-enabled: false
+enabled: true
 ---
 
 # Definition

@@ -17,7 +17,7 @@ query-key: inbox-tasks
 earned-key: inbox-tasks-cleared-today
 wire-key: tasks
 settled: true
-enabled: false
+enabled: true
 ---
 
 # Definition

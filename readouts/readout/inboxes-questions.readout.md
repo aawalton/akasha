@@ -16,7 +16,7 @@ query-slug: questions-open
 query-key: n
 wire-key: questions
 settled: true
-enabled: false
+enabled: true
 ---
 
 # Definition

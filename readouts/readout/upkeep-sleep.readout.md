@@ -15,7 +15,7 @@ group-slugs:
 query-slug: sleep-hours-on-day
 wire-key: sleep
 settled: true
-enabled: false
+enabled: true
 ---
 
 # Definition

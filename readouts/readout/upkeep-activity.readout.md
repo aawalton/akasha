@@ -15,7 +15,7 @@ group-slugs:
 query-slug: activity-calories-on-day
 wire-key: activity
 settled: true
-enabled: false
+enabled: true
 ---
 
 # Definition

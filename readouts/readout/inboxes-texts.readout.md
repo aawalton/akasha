@@ -17,7 +17,7 @@ query-key: inbox-texts
 earned-key: inbox-texts-cleared-today
 wire-key: texts
 settled: true
-enabled: false
+enabled: true
 ---
 
 # Definition

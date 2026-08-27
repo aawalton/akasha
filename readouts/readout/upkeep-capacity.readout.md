@@ -15,7 +15,7 @@ group-slugs:
 query-slug: session-capacity-on-day
 wire-key: capacity
 settled: true
-enabled: false
+enabled: true
 ---
 
 # Definition

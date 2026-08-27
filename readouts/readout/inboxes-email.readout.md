@@ -16,7 +16,7 @@ query-slug: email-entry-lowest-inbox-count-today
 query-key: lowest-inbox-count
 wire-key: email
 settled: true
-enabled: false
+enabled: true
 ---
 
 # Definition
