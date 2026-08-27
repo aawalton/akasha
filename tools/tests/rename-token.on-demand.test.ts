@@ -2,6 +2,7 @@ import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { tmpdir } from "node:os"
+import { installRepos } from "./fixture.ts"
 
 const COMMAND = `${import.meta.dir}/../rename-token.ts`
 
@@ -55,6 +56,9 @@ beforeEach(() => {
   put("kept.ts", KEPT)
   put("uses.ts", USES)
   put("apart.ts", APART)
+  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so a
+  // temp repo without them makes `roots.ts` throw before the command under test says anything.
+  installRepos(root)
   Bun.spawnSync(["git", "init", "-q"], { cwd: root })
   Bun.spawnSync(["git", "add", "-A"], { cwd: root })
 })
