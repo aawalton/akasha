@@ -7,9 +7,3 @@ domain-slug: domain/global
 ---
 
 # Intent
-
-# Notes
-
-Carried out of the initiative review of 2026-08-27, where twenty-four initiatives became four. Each item below is open, and no seat is working any of them.
-
-**Two routes now answer where a page type is found.** `page/property/registry.ts` reads the index and this write's pending set; `9a36a438f` and `a2fa2eeee` broaden the globs where a tree spans the repositories. Both are in the tree, the panel goes through the first, and the seat that wrote the second has not been told.
