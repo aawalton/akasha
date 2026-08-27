@@ -16,6 +16,6 @@ domain-slug: page-type/seat
 
 The vocabulary is the clearer case. `nameVocabularyOf(root).domains` is read in three commands, passed to `mintNamedAgent` or `setAgentName` or `setAgentSlots`, and each of those now takes it as a parameter it names and ignores. It was only ever the corpus a stated domain was filtered against before landing on the row, and it filtered by dropping rather than by refusing, so no command loses a refusal when it goes.
 
-Unthreading it is one act across both repositories, and it changes the arity of a function the instructions repository calls positionally through `codeModule`. That boundary has already cost once in this initiative: dropping an argument on the calling side while the called side still required it left `ops seat stop` throwing on its first line, with nothing between the two repositories that could have caught it. The same care is owed here.
+Unthreading it is one act in akasha, and it changes the arity of a function the instructions repository calls positionally through `codeModule`. That boundary has already cost once in this initiative: dropping an argument on the calling side while the called side still required it left `ops seat stop` throwing on its first line, with nothing between the two sides that could have caught it. The same care is owed here.
 
 Found while cutting `domain`, `task` and `mode` off the agent row.
