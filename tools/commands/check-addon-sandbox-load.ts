@@ -6,7 +6,7 @@ import "../lib/command-entry.ts"
 import { codeModule } from "../lib/code-import.ts"
 import { parseArgs } from "../../infra/cluster-checks/src/lib/cli-args.ts"
 
-const CHECK = "packages/temper/shared/build-deploy/checks/src/check-addon-sandbox-load.ts"
+const CHECK = "temper/shared-build-deploy-checks/src/check-addon-sandbox-load.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -20,7 +20,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-addon-sandbox-load",
-    "ops check-addon-sandbox-load --file packages/temper/addons/dist/TemperInventory/TemperInventory.lua",
+    "ops check-addon-sandbox-load --file temper/addons/dist/TemperInventory/TemperInventory.lua",
   ],
 }
 

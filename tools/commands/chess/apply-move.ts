@@ -6,7 +6,7 @@ import { codeModule } from "../../lib/code-import.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 
-const POSITION = "packages/alanwalton/chess/src/lib/position.ts"
+const POSITION = "alanwalton/chess/src/lib/position.ts"
 
 export const help: CommandHelp = {
   positionals: [

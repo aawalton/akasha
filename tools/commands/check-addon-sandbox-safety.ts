@@ -1,4 +1,4 @@
-export const summary = "Static post-emit scan of `packages/temper/addons/dist/**/*.lua` for Lua stdlib symbols ESO's sandbox strips"
+export const summary = "Static post-emit scan of `temper/addons/dist/**/*.lua` for Lua stdlib symbols ESO's sandbox strips"
 
 import type { CommandHelp } from "../ops/surface.ts"
 import { dataError, inputError } from "../lib/exit.ts"
@@ -6,7 +6,7 @@ import "../lib/command-entry.ts"
 import { codeModule } from "../lib/code-import.ts"
 import { parseArgs } from "../../infra/cluster-checks/src/lib/cli-args.ts"
 
-const CHECK = "packages/temper/shared/build-deploy/checks/src/check-addon-sandbox-safety.ts"
+const CHECK = "temper/shared-build-deploy-checks/src/check-addon-sandbox-safety.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -20,7 +20,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-addon-sandbox-safety",
-    "ops check-addon-sandbox-safety --file packages/temper/addons/dist/TemperInventory/TemperInventory.lua",
+    "ops check-addon-sandbox-safety --file temper/addons/dist/TemperInventory/TemperInventory.lua",
   ],
 }
 
