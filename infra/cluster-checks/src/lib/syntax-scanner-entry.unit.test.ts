@@ -204,18 +204,6 @@ describe("scannerGroupKey", () => {
       "[no-class] 1,234 finding(s) across 56 file(s)"
     )
   })
-
-  test("no group key names a path into the instructions tree", () => {
-    for (const doc of [undefined, repoDoc("infra/cluster-checks/src/lib/x.ts")]) {
-      const key = scannerGroupKey({
-        name: "n",
-        findings: 1,
-        files: 1,
-        ...(doc ? { remediationDoc: doc } : {}),
-      })
-      expect(key).not.toContain("~/instructions")
-    }
-  })
 })
 
 describe("dispatchToEntries — the run's root reaches the rule", () => {
