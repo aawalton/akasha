@@ -6,7 +6,7 @@ extends-slug: page
 files: akasha:**/*.graph-edge-producer.md
 body-shape-slug: domain
 slug: graph-edge-producer
-domain-parent-slug: domain/mp-graph
+domain-parent-slug: domain/the-graph
 required-reading-slugs:
   - page-type/graph-edge
 ---

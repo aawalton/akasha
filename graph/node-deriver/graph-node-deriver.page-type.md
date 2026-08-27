@@ -6,7 +6,7 @@ extends-slug: page
 files: akasha:**/*.graph-node-deriver.md
 body-shape-slug: domain
 slug: graph-node-deriver
-domain-parent-slug: domain/mp-graph
+domain-parent-slug: domain/the-graph
 required-reading-slugs:
   - page-type/graph-node
 ---

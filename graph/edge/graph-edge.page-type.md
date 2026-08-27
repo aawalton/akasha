@@ -6,7 +6,7 @@ extends-slug: page
 files: akasha:**/*.graph-edge.md
 body-shape-slug: domain
 slug: graph-edge
-domain-parent-slug: domain/mp-graph
+domain-parent-slug: domain/the-graph
 ---
 
 # Definition
