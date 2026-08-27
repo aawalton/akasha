@@ -1,0 +1,13 @@
+---
+page-type-slug: car-year
+id: 019e4ae2-51da-7cfe-b756-a0588585d60c
+title: "2025"
+slug: honda-cr-v-hybrid-2025
+parents:
+  - 019e4ae1-2ad2-7700-bf46-152f3156b09a
+shortList: false
+sources: "- https://www.edmunds.com/honda/cr-v/2025/hybrid/\n- https://www.kbb.com/honda/cr-v-hybrid/2025/specs/\n- https://automobiles.honda.com/2025/cr-v/specs-features-trim-comparison"
+exclusionReason: "All trims excluded"
+modelYear: 2025
+refreshNotes: "Carryover year within the 6th-gen CR-V (2023+). Three hybrid trims: Sport Hybrid (FWD or AWD), Sport-L (AWD), and Sport Touring Hybrid (AWD-only). Two-motor e:HEV system (2.0L + two motors, 204 hp). EPA: 43/36/40 city/hwy/combined (FWD Sport) and 40/34/37 (AWD trims). Honda Sensing safety suite standard, 9-inch touchscreen on Sport Touring.\n\nSources:\n- https://www.edmunds.com/honda/cr-v/2025/hybrid/\n- https://www.kbb.com/honda/cr-v-hybrid/2025/specs/"
+---
